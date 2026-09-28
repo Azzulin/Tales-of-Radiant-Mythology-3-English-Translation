@@ -1,0 +1,1947 @@
+{
+ "lote": "VAL-03",
+ "bloco": "valuables",
+ "meta_bytes_a_cortar": 2488,
+ "n_itens": 277,
+ "itens": [
+  {
+   "id": "valuables#394",
+   "jp": "味方一人の攻撃力を一定時間上昇させる術",
+   "en": "Arte: raises a single ally's physical attack for a set time.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#408",
+   "jp": "ハンマーを敵の頭上に大量に降らせる術",
+   "en": "Arte: rains down a multitude of hammers on the enemy's head.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#446",
+   "jp": "敵の動きを封じ込める魔空間を引き出す術",
+   "en": "Arte: draws out a demonic space to seal away enemy movement.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#480",
+   "jp": "敵の頭上に巨大な雷球を発生させ攻撃する術",
+   "en": "Arte: creates a giant lightning orb above enemies to attack.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#547",
+   "jp": "一定時間、敵の物理攻撃を少し減少させる術",
+   "en": "Arte: slightly reduces enemy physical attack for a set time.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#655",
+   "jp": "斬撃と生じる真空波を放つ特技",
+   "en": "A skill that releases a slash and the resulting vacuum wave.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#682",
+   "jp": "勢いを付けて武器を振り回し敵を攻撃する特技",
+   "en": "A skill that swings weapons with momentum to attack enemies.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#859",
+   "jp": "移動と共に渾身の突きを繰り出す特技",
+   "en": "A skill that delivers a full-powered thrust while advancing.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#902",
+   "jp": "地面から衝撃波を繰り出し、攻撃する特技",
+   "en": "A skill that unleashes shockwaves from the ground to attack.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#930",
+   "jp": "影走斬と滅掌破を組合わせた奥義",
+   "en": "Arcane arte: combines Shadow Running Slash and Ruinous Palm.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#937",
+   "jp": "ダッシュ突きから跳ね上げる様に斬り抜ける秘技",
+   "en": "Secret arte: slashes upward and through after a dash thrust.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#939",
+   "jp": "闇の力を集中させ、前方に突き出す奥義",
+   "en": "Arcane arte: concentrates dark power and thrusts it forward.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1180",
+   "jp": "昇舞と神風閃を組合わせた奥義",
+   "en": "Arcane arte: combines Ascending Dance and Divine Wind Flash.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1239",
+   "jp": "バックステップから連続射撃を行う特技",
+   "en": "A skill that executes consecutive shooting after a backstep.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1365",
+   "jp": "弓矢の幻惑から俊速の斬りぬけを繰り出す特技",
+   "en": "A skill that delivers swift slashes from an arrow deception.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1368",
+   "jp": "抜刀による剣撃で敵を高く浮かす秘技",
+   "en": "Secret arte: launches enemies high with drawn sword strikes.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1381",
+   "jp": "電撃の力を利用して敵を討つ特技",
+   "en": "A skill that utilizes electric power to strike down enemies.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1509",
+   "jp": "光の洗礼を受けた剣が降り注ぎ、敵を攻撃する術",
+   "en": "Arte: attacks enemies with a shower of light-blessed swords.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1550",
+   "jp": "双打鐘の後、蹴り上げを行う秘技",
+   "en": "Secret arte: performs an upward kick after Dual Bell Strike.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1692",
+   "jp": "放たれた矢がＨＰの低い味方を追いかけ癒す特技",
+   "en": "A skill where shot arrows chase and heal allies with low HP.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1731",
+   "jp": "素早い連撃を繰り出し、敵を斬り裂く特技",
+   "en": "A skill that unleashes rapid combo strikes to slice enemies.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1775",
+   "jp": "斧による気合を込めた攻撃で相手を吹っ飛ばす特技",
+   "en": "A skill that blows opponents away with spirited axe strikes.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1787",
+   "jp": "剣と斧を使った素早いニ連撃を行う奥義",
+   "en": "Arcane arte: executes two swift strikes using sword and axe.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1804",
+   "jp": "剣先から光の念弾を放つ特技",
+   "en": "A skill that fires light thought bullets from the sword tip.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1862",
+   "jp": "地面をえぐる横薙ぎの衝撃波を放つ特技",
+   "en": "A skill that unleashes horizontal ground-gouging shockwaves.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1911",
+   "jp": "気の塊を生み出して連続ダメージを与える奥義",
+   "en": "Arcane arte: creates masses of qi to deal continuous damage.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#2084",
+   "jp": "銃剣で突進後、石つぶてで攻撃する奥義",
+   "en": "Arcane arte: rushes with a gunblade and attacks with gravel.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#2135",
+   "jp": "暁の従者から敵と認定された者の称号",
+   "en": "Title for one recognized as an enemy by the Dawn Attendants.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#2284",
+   "jp": "使い切れぬほどの富を手にした者の称号",
+   "en": "Title given to someone who has amassed inexhaustible wealth.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#2331",
+   "jp": "己の力のみで戦う者が持つ称号",
+   "en": "Title held by someone who fights using only their own power.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#2499",
+   "jp": "冒険者として生きていく者が得る称号",
+   "en": "Title given to someone dedicated to living as an adventurer.",
+   "bytes": 60,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#19",
+   "jp": "DLクエスト「負けられない戦い」を起動する為の鍵",
+   "en": "Key to activate the DL Quest 'A Fight That Cannot Be Lost'.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#153",
+   "jp": "驚くべき事に、ベニヤ板などを打ち付ける事が可能",
+   "en": "Astonishingly, it can be used to nail plywood and the like.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#431",
+   "jp": "対象となる味方一人の固有詠唱時間を短縮させる術",
+   "en": "Arte: reduces the innate cast time of a single target ally.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#553",
+   "jp": "一定時間、敵のガードをブレイクし易くなる術",
+   "en": "Arte: makes it easier to break enemy guards for a set time.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#698",
+   "jp": "双牙斬と穿衝破を組合わせた奥義",
+   "en": "Arcane arte: combines Twin Tiger Blade and Piercing Strike.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1151",
+   "jp": "九連続突きで敵を貫く奥義",
+   "en": "Arcane arte: impales enemies with nine consecutive thrusts.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1167",
+   "jp": "散沙雨と幻晶剣を組合わせた奥義",
+   "en": "Arcane arte: combines Sword Rain and Phantom Crystal Sword.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1169",
+   "jp": "迅雨と空裂斬を組合わせた奥義",
+   "en": "Arcane arte: combines Swift Feather and Void Rending Slash.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1222",
+   "jp": "ポイポイされると毒気付いてしまうこともある特技",
+   "en": "A skill that sometimes poisons enemies when hit by hammers.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1348",
+   "jp": "フライパンを打ち鳴らして音波攻撃を行う秘技",
+   "en": "Secret arte: bangs a frying pan to launch acoustic attacks.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1358",
+   "jp": "ジューシーな火属性対空攻撃を繰り出す秘技",
+   "en": "Secret arte: delivers a juicy fire-element anti-air attack.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1363",
+   "jp": "突きによる風圧の飛び道具を放つ特技",
+   "en": "A skill that shoots projectile wind pressure from a thrust.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1433",
+   "jp": "疾風の衝撃波を二連続で放つ秘技",
+   "en": "Secret arte: unleashes gale shockwaves twice in succession.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1530",
+   "jp": "大地に眠る鉱石を呼び出し、敵を貫かせる術",
+   "en": "Arte: summons ores sleeping in the earth to impale enemies.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1590",
+   "jp": "果てしなく蹴り上げ豪快に叩き落とす奥義",
+   "en": "Arcane arte: kicks upward endlessly and slams down grandly.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1610",
+   "jp": "地面を鋭利に隆起させ敵を貫く特技",
+   "en": "A skill that sharply upheaves the ground to impale enemies.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1622",
+   "jp": "地面を鋭利に隆起させ敵を貫く奥義",
+   "en": "Arcane arte: sharply upheaves the ground to impale enemies.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1633",
+   "jp": "敵の足元に滑り込み蹴り上げる特技",
+   "en": "A skill that slides into the enemy's feet and kicks upward.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1643",
+   "jp": "敵すべての攻撃力を一定時間低下させる術",
+   "en": "Arte: lowers physical attack of all enemies for a set time.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1729",
+   "jp": "斬り上げから舞う様に突きを繰り出す特技",
+   "en": "A skill that delivers dancing thrusts from an upward slash.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1903",
+   "jp": "光子を投剣の様に放射状に放つ秘技",
+   "en": "Secret arte: radiates photons outward like throwing knives.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1944",
+   "jp": "不浄なる心に聖なる刻印を刻み浄化する術",
+   "en": "Arte: brands impure hearts with a holy seal to purify them.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#2003",
+   "jp": "ジャンプ後、風属性を持つ矢を滑空する様に放つ奥義",
+   "en": "Arcane arte: jumps and fires wind-element arrows glidingly.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#2044",
+   "jp": "交差させた銃口から光弾を撃ち出す秘技",
+   "en": "Secret arte: shoots light spheres from crossed gun muzzles.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#2155",
+   "jp": "創世の時を垣間見た者の称号",
+   "en": "Title for one who caught a glimpse of the time of creation.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#2179",
+   "jp": "世の全ての緑宝箱の中を見た者の称号",
+   "en": "Title for one who saw inside all green chests in the world.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#2360",
+   "jp": "戦士の光器を得た者の称号",
+   "en": "Title given to someone who obtained the Warrior's Radiance.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#2372",
+   "jp": "聖騎士の光器を得た者の称号",
+   "en": "Title given to someone who obtained the Paladin's Radiance.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#2376",
+   "jp": "格闘家の光器を得た者の称号",
+   "en": "Title given to someone who obtained the Fighter's Radiance.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#2390",
+   "jp": "リザルトＴＰ回復＋１０％　敵撃破時にＴＰ３％回復",
+   "en": "Result TP Recovery +10%, Restore 3% TP Upon Defeating Enemy",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#54",
+   "jp": "コーダが熱望している「パイナップルご飯」のレシピ",
+   "en": "The recipe for \"Pineapple Rice\" that Coda is yearning for.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#323",
+   "jp": "対象となる敵の周囲に無数の光線を発する術",
+   "en": "Arte: shoots countless light rays around the target enemy.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#384",
+   "jp": "全ての敵を一瞬で葬り去るほどの威力を持つ術",
+   "en": "An arte powerful enough to instantly wipe out all enemies.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#555",
+   "jp": "一定時間、敵の術防御を少し低下させる術",
+   "en": "Arte: slightly reduces enemy magic defense for a set time.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#580",
+   "jp": "斬撃を飛ばして敵を攻撃する特技",
+   "en": "A skill that launches a shockwave slash to attack enemies.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#600",
+   "jp": "回転斬りで敵を攻撃する特技",
+   "en": "A skill that attacks enemies with a spinning aerial slash.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#640",
+   "jp": "炎を纏った空中回転蹴りを繰り出す秘技",
+   "en": "Secret arte: executes flame-cloaked aerial spinning kicks.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#739",
+   "jp": "敵を貫く巨大な衝撃波を放つ奥義",
+   "en": "Arcane arte: unleashes a giant shockwave impaling enemies.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#990",
+   "jp": "巨大な鎌鼬を起こし、敵を斬り付ける奥義",
+   "en": "Arcane arte: creates a giant wind sickle to slice enemies.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1004",
+   "jp": "鳳凰のオーラを纏って上空へ攻撃する奥義",
+   "en": "Arcane arte: cloaks in a phoenix aura and attacks skyward.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1057",
+   "jp": "空中から勢いを付けて武器を叩き付ける特技",
+   "en": "A skill that slams weapons down with momentum from midair.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1059",
+   "jp": "空中からの武器の連撃で敵を吹き飛ばす秘技",
+   "en": "Secret arte: blows enemies away with aerial weapon combos.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1096",
+   "jp": "蒼破刃の後に追加で斬撃を繰り出す秘技",
+   "en": "Secret arte: executes additional slashes after Azure Edge.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1127",
+   "jp": "連続突きから冷気の斬撃に繋ぐ奥義",
+   "en": "Arcane arte: connects rapid thrusts into freezing slashes.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1227",
+   "jp": "コチコチされると固まってしまうこともある奥義",
+   "en": "Arcane arte: sometimes petrifies enemies when struck cold.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1273",
+   "jp": "高まった気を高速かつ連続で叩き込む奥義",
+   "en": "Arcane arte: rapidly slams in heightened qi consecutively.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1407",
+   "jp": "敵の足元を射撃して水柱を発生させる秘技",
+   "en": "Secret arte: shoots at enemy feet to raise a water pillar.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1539",
+   "jp": "呪いの力を出現させ、触れた敵にダメージを与える術",
+   "en": "Arte: conjures curse power, damaging enemies who touch it.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1600",
+   "jp": "斜め上に向けての拡散連射奥義",
+   "en": "Arcane arte: executes spread rapid-fire diagonally upward.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1704",
+   "jp": "敵に複数の矢を一気に放つ奥義",
+   "en": "Arcane arte: fires multiple arrows at enemies all at once.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1706",
+   "jp": "滑らかに武器を振りかざし、敵を斬り付ける秘技",
+   "en": "Secret arte: smoothly brandishes weapons to slash enemies.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1733",
+   "jp": "空中に舞い上がり、衝撃波を放つ秘技",
+   "en": "Secret arte: dances into the air and unleashes shockwaves.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1821",
+   "jp": "光の剣影を三連続で飛ばす秘技",
+   "en": "Secret arte: shoots three consecutive light sword shadows.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1864",
+   "jp": "冷気をまとったX字斬りを繰り出す特技",
+   "en": "A skill that executes cold-cloaked X-shaped cross slashes.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1936",
+   "jp": "凍てつかせる短剣を敵の周囲に降らせる奥義",
+   "en": "Arcane arte: rains down freezing daggers around the enemy.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1987",
+   "jp": "雷撃を帯びた矢で敵を貫く秘技",
+   "en": "Secret arte: pierces enemies with lightning-imbued arrows.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#2057",
+   "jp": "入魂の一撃を打ち込み、敵をダウンさせる秘技",
+   "en": "Secret arte: punches with full soul to knock enemies down.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#2277",
+   "jp": "特定のＴＯキャラの戦闘回数が1000回を越えた",
+   "en": "Battle count for a specific Tales character exceeded 1000.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#2302",
+   "jp": "リザルトＴＰ回復＋６％　敵撃破時にＨＰ２％回復",
+   "en": "Result TP Recovery +6%, Restore 2% HP Upon Defeating Enemy",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#2308",
+   "jp": "採取に熟知した者の称号",
+   "en": "Title given to someone thoroughly familiar with gathering.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#2327",
+   "jp": "あらゆる職への道を得た者の称号",
+   "en": "Title given to someone who opened the path to every class.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#2380",
+   "jp": "僧侶の光器を得た者の称号",
+   "en": "Title given to someone who obtained the Priest's Radiance.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#2388",
+   "jp": "海賊の光器を得た者の称号",
+   "en": "Title given to someone who obtained the Pirate's Radiance.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#2396",
+   "jp": "狩人の光器を得た者の称号",
+   "en": "Title given to someone who obtained the Hunter's Radiance.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#2404",
+   "jp": "ビショップの光器を得た者の称号",
+   "en": "Title given to someone who obtained the Bishop's Radiance.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#2412",
+   "jp": "ガンマンの光器を得た者の称号",
+   "en": "Title given to someone who obtained the Gunner's Radiance.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#2472",
+   "jp": "闘技場の支配人に勝利した者の称号",
+   "en": "Title given to someone who defeated the Colosseum manager.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#66",
+   "jp": "コーダが熱望している「チーズフォンデュ」のレシピ",
+   "en": "The recipe for \"Cheese Fondue\" that Coda is yearning for.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#503",
+   "jp": "壊滅的な威力の嵐を巻き起こす術",
+   "en": "Arte: stirs up a storm of catastrophic destructive power.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#509",
+   "jp": "小さな火球を撃ち出し、爆発させる火系の術",
+   "en": "A fire arte that fires a small fireball and detonates it.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#529",
+   "jp": "光の洗礼を受けた七色の剣が降り注ぐ術",
+   "en": "Arte: rains down rainbow-colored swords blessed by light.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#557",
+   "jp": "一定時間、敵の術攻撃を少し低下させる術",
+   "en": "Arte: slightly reduces enemy magic attack for a set time.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#665",
+   "jp": "猛虎の如く、空中での連撃を繰り出す奥義",
+   "en": "Arcane arte: unleashes aerial combos like a fierce tiger.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#729",
+   "jp": "魔神拳と幻竜拳を組合わせた奥義",
+   "en": "Arcane arte: combines Demon Fist and Phantom Dragon Fist.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#922",
+   "jp": "風の力で相手を封殺する秘技",
+   "en": "Secret arte: shuts down opponents with the power of wind.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#969",
+   "jp": "跳躍後、打ち下ろしの精霊弾を発射する特技",
+   "en": "A skill that fires downward spirit spheres after leaping.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1010",
+   "jp": "獅子の気を放出後、雷撃を繰り出す奥義",
+   "en": "Arcane arte: unleashes beast qi followed by thunderbolts.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1047",
+   "jp": "敵の頭上から真空波で切り刻む奥義",
+   "en": "Arcane arte: shreds enemies from above with vacuum waves.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1125",
+   "jp": "一歩下がってから前方をなぎ払う特技",
+   "en": "A skill that takes a step back and sweeps the front area.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1137",
+   "jp": "神速の八連撃を繰り出す奥義",
+   "en": "Arcane arte: delivers eight godspeed consecutive strikes.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1173",
+   "jp": "虎牙破斬と空裂斬を組合わせた奥義",
+   "en": "Arcane arte: combines Tiger Blade and Void Rending Slash.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1182",
+   "jp": "弧月閃を連続で繰り出す秘技",
+   "en": "Secret arte: executes Crescent Flash in rapid succession.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1198",
+   "jp": "次元斬と虚空蒼破斬を組合わせた奥義",
+   "en": "Arcane arte: combines Spatial Slash and Void Azure Slash.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1225",
+   "jp": "頭上に複数の星を降らせる奥義",
+   "en": "Arcane arte: calls down multiple stars above enemy heads.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1387",
+   "jp": "魂に通ずる「影」を貫く特技",
+   "en": "A skill that pierces the 'shadow' connecting to the soul.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1466",
+   "jp": "炸裂するビンを続けて投げ込む秘技",
+   "en": "Secret arte: hurls exploding bottles in rapid succession.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1614",
+   "jp": "敵の頭上に飛び乗り、踏み付ける特技",
+   "en": "A skill that leaps onto the enemy's head and stomps down.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1680",
+   "jp": "飛び上がり加速を付けた蹴りを放つ奥義",
+   "en": "Arcane arte: leaps and delivers an accelerated dive kick.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1762",
+   "jp": "流れる様に斬撃と蹴りの連撃を繰り出す奥義",
+   "en": "Arcane arte: flows through consecutive slashes and kicks.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1892",
+   "jp": "前方へ向けて、巨大な灼熱波を放つ奥義",
+   "en": "Arcane arte: releases giant scorching heat waves forward.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1959",
+   "jp": "射撃命中時に鋭い岩で攻撃する奥義",
+   "en": "Arcane arte: attacks with sharp rocks upon shooting hits.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#2007",
+   "jp": "敵を追尾する貫通エネルギーを放つ奥義",
+   "en": "Arcane arte: fires homing piercing energy toward enemies.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#2009",
+   "jp": "広範囲をカバーする同時射撃奥義",
+   "en": "A simultaneous shooting arcane arte covering a wide area.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#2101",
+   "jp": "レディアント マイソロジー2をプレイしている証",
+   "en": "Proof of playing Tales of the World: Radiant Mythology 2.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#2249",
+   "jp": "盗めぬ物は無いとされる者の称号",
+   "en": "Title given to someone said to be able to steal anything.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#2392",
+   "jp": "盗賊の光器を得た者の称号",
+   "en": "Title given to someone who obtained the Thief's Radiance.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#2408",
+   "jp": "忍者の光器を得た者の称号",
+   "en": "Title given to someone who obtained the Ninja's Radiance.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#355",
+   "jp": "対象となる敵の周囲に神の雷を落とす術",
+   "en": "Arte: calls down divine thunder around the target enemy.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#412",
+   "jp": "味方全員の攻撃力を一定時間上昇させる術",
+   "en": "Arte: raises all allies' physical attack for a set time.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#444",
+   "jp": "突風を起こし、敵を巻き上げ攻撃する術",
+   "en": "Arte: creates a gust of wind to lift and attack enemies.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#482",
+   "jp": "熱風を起こして敵を大きく吹き飛ばす術",
+   "en": "Arte: whips up a scalding gale to blow enemies far away.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#513",
+   "jp": "歪の力が両側から引き裂く闇系の術",
+   "en": "A dark arte where distorted power tears from both sides.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#515",
+   "jp": "巨大な真空の爪で敵を切り裂く風系の術",
+   "en": "A wind arte that slices enemies with giant vacuum claws.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#523",
+   "jp": "絶望の咆哮が敵を引き裂く闇系の術",
+   "en": "A dark arte where a roar of despair tears enemies apart.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#588",
+   "jp": "斬り上げの後、敵への連撃を行う秘技",
+   "en": "Secret arte: follows an upward slash with a rapid combo.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#686",
+   "jp": "上空から蹴りをあびせる特技",
+   "en": "A skill that delivers a downward dive kick from the air.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#700",
+   "jp": "双牙斬と烈破掌を組合わせた奥義",
+   "en": "Arcane arte: combines Twin Tiger Blade and Rending Palm.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#771",
+   "jp": "最大限のリーチで槍を突き出す特技",
+   "en": "A skill that thrusts a spear forward with maximum reach.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#855",
+   "jp": "炸裂する液体を仕込んだビンを投げ付ける特技",
+   "en": "A skill that hurls bottles filled with explosive liquid.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#881",
+   "jp": "牙突連撃と空襲刃を組合わせた奥義",
+   "en": "Arcane arte: combines Fang Thrust Combo and Aerial Raid.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1032",
+   "jp": "斬撃で強力な衝撃波を発生させる奥義",
+   "en": "Arcane arte: generates powerful shockwaves from slashes.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1038",
+   "jp": "素早い連続射撃で敵を浮かす秘技",
+   "en": "Secret arte: lifts enemies with rapid consecutive shots.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1247",
+   "jp": "銃を交差して水属性の弾丸を撃ち出す奥義",
+   "en": "Arcane arte: crosses guns to fire water-element bullets.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1338",
+   "jp": "旋桜花と獅子戦吼を組合わせた奥義",
+   "en": "Arcane arte: combines Spinning Cherry Blossom and Beast.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1344",
+   "jp": "流れる様な四連続攻撃を繰り出す特技",
+   "en": "A skill that unleashes four flowing consecutive attacks.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1360",
+   "jp": "水をまいたら虹が出来ちゃいましたな奥義",
+   "en": "An arcane arte where sprinkling water created a rainbow.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1464",
+   "jp": "炸裂する液体を仕込んだビンを投げる特技",
+   "en": "A skill that hurls bottles filled with explosive liquid.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1522",
+   "jp": "剣から光を放ち、敵を貫く特技",
+   "en": "A skill that emits light from a sword to pierce enemies.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1542",
+   "jp": "漢の拳を交えたニ連攻撃を行う特技 ",
+   "en": "A skill that delivers two attacks combining manly fists.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1546",
+   "jp": "貫いた敵を豪腕で振り上げる特技",
+   "en": "A skill that swings up impaled enemies with mighty arms.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1760",
+   "jp": "一旦後ろに下がり、回転しながら連撃を放つ奥義",
+   "en": "Arcane arte: steps back, spinning and unleashing combos.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1860",
+   "jp": "聖なる雷を生み出して斬り払う特技",
+   "en": "A skill that creates holy lightning and cleaves enemies.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1955",
+   "jp": "射撃命中時に闇の力で攻撃する秘技",
+   "en": "Secret arte: attacks with dark power upon shooting hits.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1971",
+   "jp": "牙連刃と光波刃を組合わせた奥義",
+   "en": "Arcane arte: combines Fang Barrage and Light Wave Blade.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#2034",
+   "jp": "空蓮華と虎牙破斬を組合わせた奥義",
+   "en": "Arcane arte: combines Void Lotus Flower and Tiger Blade.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#2147",
+   "jp": "世界文化遺産で盗掘した者の称号",
+   "en": "Title for one who looted a World Cultural Heritage site.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#2189",
+   "jp": "モンスターシンボル速度＋　出現頻度＋　襲われやすくなる",
+   "en": "Monster Symbol Speed +, Spawn Frequency +, Ambush Rate +",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#2193",
+   "jp": "モンスターシンボル速度−　出現頻度−　襲われにくくなる",
+   "en": "Monster Symbol Speed -, Spawn Frequency -, Ambush Rate -",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#2304",
+   "jp": "強化素材に精通した者の称号",
+   "en": "Title given to someone well-versed in upgrade materials.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#2370",
+   "jp": "最大ＴＰ−２０％　基礎物理攻撃力＋３０％　基礎敏捷値−２０",
+   "en": "Max TP -20%, Base Physical Attack +30%, Base Agility -20",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#2384",
+   "jp": "モンクの光器を得た者の称号",
+   "en": "Title given to someone who obtained the Monk's Radiance.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#2400",
+   "jp": "魔術師の光器を得た者の称号",
+   "en": "Title given to someone who obtained the Mage's Radiance.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#2464",
+   "jp": "もはや向かう所敵なしのギルドが得る称号",
+   "en": "Title given to an invincible guild that knows no equals.",
+   "bytes": 56,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#7",
+   "jp": "ソーサラーリング。敵を足止めする事も出来る",
+   "en": "Sorcerer's Ring. Can also halt enemies in their tracks.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#61",
+   "jp": "コーダが熱望している「お好み焼き」のレシピ",
+   "en": "The recipe for \"Okonomiyaki\" that Coda is yearning for.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#327",
+   "jp": "対象となる敵に向かって水の塊を撃ち出す術",
+   "en": "Arte: launches a mass of water toward the target enemy.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#461",
+   "jp": "連続的に水流を地面に叩き付ける術",
+   "en": "Arte: repeatedly pounds water torrents into the ground.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#501",
+   "jp": "複数の石片を弧を描いて敵にぶつける術",
+   "en": "Arte: hurls multiple stone shards in an arc at enemies.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#507",
+   "jp": "闇の刃から生じる呪いの波動を撃ち出す術",
+   "en": "Arte: releases cursed waves emanating from dark blades.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#661",
+   "jp": "強力な突きにより敵を吹き飛ばす秘技",
+   "en": "Secret arte: blows enemies away with a powerful thrust.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#688",
+   "jp": "崩襲脚後、斬り上げを行う秘技",
+   "en": "Secret arte: performs an upward slash after Talon Drop.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#694",
+   "jp": "穿衝破と烈破掌を組合わせた奥義",
+   "en": "Arcane arte: combines Piercing Strike and Rending Palm.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#853",
+   "jp": "武器の軌跡により二度月を描く秘技",
+   "en": "Secret arte: traces the moon twice through weapon arcs.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#988",
+   "jp": "真空破を巻き起こし敵を薙ぎ倒す奥義",
+   "en": "Arcane arte: stirs up vacuum waves to mow enemies down.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1139",
+   "jp": "二連続の回転斬りを繰り出す奥義",
+   "en": "Arcane arte: executes two consecutive spinning slashes.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1171",
+   "jp": "散沙雨と秋沙雨を組合わせた奥義",
+   "en": "Arcane arte: combines Sword Rain and Sword Rain: Alpha.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1206",
+   "jp": "鳳凰天駆と飛燕連脚を組合わせた奥義",
+   "en": "Arcane arte: combines Rising Phoenix and Swallow Dance.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1468",
+   "jp": "対空能力を持った二連斬りを繰り出す特技",
+   "en": "A skill that executes two consecutive anti-air slashes.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1532",
+   "jp": "敵を荒れ狂う炎で包み焼き尽くす術",
+   "en": "Arte: engulfs and incinerates enemies in raging flames.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1604",
+   "jp": "地面から爆炎を呼び寄せる特技",
+   "en": "A skill that calls up explosive flames from the ground.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1649",
+   "jp": "本の角で敵を打ち抜く奥義",
+   "en": "Arcane arte: strikes through enemies with book corners.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1682",
+   "jp": "跳躍から加速した蹴りを放つ奥義",
+   "en": "Arcane arte: unleashes an accelerated kick from a leap.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1766",
+   "jp": "己の精神を研ぎ澄まし、敏捷値を高める特技",
+   "en": "A skill that sharpens one's spirit to increase agility.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1829",
+   "jp": "空中で繰り出す高速三連蹴りの特技",
+   "en": "A skill that executes three high-speed kicks in midair.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1961",
+   "jp": "射撃命中時にネガティブゲイト発生の奥義",
+   "en": "Arcane arte: triggers Negative Gate upon shooting hits.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1989",
+   "jp": "炎の力で焼き尽くす矢を放つ秘技",
+   "en": "Secret arte: fires arrows incinerating with fire power.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#2050",
+   "jp": "広範囲に爆発する銃弾を撃つ奥義",
+   "en": "Arcane arte: shoots bullets exploding over a wide area.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#2090",
+   "jp": "真空破を巻き起こし敵を薙ぎ倒す特技",
+   "en": "A skill that stirs up vacuum waves to mow enemies down.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#2091",
+   "jp": "真空破を巻き起こし敵を薙ぎ倒す秘技",
+   "en": "Secret arte: stirs up vacuum waves to mow enemies down.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#2097",
+   "jp": "レディアント マイソロジーをプレイしている証",
+   "en": "Proof of playing Tales of the World: Radiant Mythology.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#2312",
+   "jp": "採掘に熟知した者の称号",
+   "en": "Title given to someone thoroughly familiar with mining.",
+   "bytes": 55,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#56",
+   "jp": "コーダが熱望している「マーボーカレー」のレシピ",
+   "en": "The recipe for \"Mabo Curry\" that Coda is yearning for.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#469",
+   "jp": "対象となる敵を氷塊で覆い炸裂させる術",
+   "en": "Arte: encases the target enemy in ice and shatters it.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#511",
+   "jp": "真空の刃を続けて生み出す風系の術",
+   "en": "A wind arte that continuously generates vacuum blades.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#584",
+   "jp": "斬撃による衝撃波を連続で繰り出す奥義",
+   "en": "Arcane arte: unleashes a barrage of shockwave slashes.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#590",
+   "jp": "前進しながら鋭い突きを繰り出す特技",
+   "en": "A skill that unleashes a sharp forward-lunging thrust.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#648",
+   "jp": "業火を操る乱舞奥義",
+   "en": "Arcane arte: commands raging flames in a flurry combo.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#672",
+   "jp": "拳撃を飛ばして敵を攻撃する特技",
+   "en": "A skill that launches a fist strike to attack enemies.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#696",
+   "jp": "双牙斬と崩襲脚を組合わせた奥義",
+   "en": "Arcane arte: combines Twin Tiger Blade and Talon Drop.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#759",
+   "jp": "何かしらの手段でガルドをゲットする特技",
+   "en": "A skill that obtains Gald from enemies by some method.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#865",
+   "jp": "空に向かって敵を斬り上げる特技",
+   "en": "A skill that slashes upward at enemies toward the sky.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#867",
+   "jp": "牙突衝後、素早い斬撃を繰り出す秘技",
+   "en": "Secret arte: delivers rapid slashes after Fang Thrust.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#896",
+   "jp": "譜力を敵にぶつけ攻撃する秘技",
+   "en": "Secret arte: slams fonic power into enemies to attack.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#920",
+   "jp": "炎を纏った連続蹴りを行う秘技",
+   "en": "Secret arte: executes flame-cloaked consecutive kicks.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#1000",
+   "jp": "弧月閃と真空破斬を組合わせた奥義",
+   "en": "Arcane arte: combines Crescent Flash and Vacuum Slash.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#1098",
+   "jp": "散葉塵の後に敵を薙ぎ払う秘技",
+   "en": "Secret arte: sweeps enemies away after Scattered Dust.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#1265",
+   "jp": "素早く三連続攻撃を打ち込む特技",
+   "en": "A skill that delivers three rapid consecutive attacks.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#1439",
+   "jp": "蒼破刃と牙狼撃を組合わせた奥義",
+   "en": "Arcane arte: combines Azure Edge and Fang Wolf Strike.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#1514",
+   "jp": "敵１体の防御力を一定時間低下させる術",
+   "en": "Arte: lowers defense of a single enemy for a set time.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#1606",
+   "jp": "地面から樹形の氷を呼び寄せる特技",
+   "en": "A skill that calls up tree-shaped ice from the ground.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#2298",
+   "jp": "ＴＰ消費量−６％　敵撃破時にＴＰ２％回復",
+   "en": "TP Consumption -6%, Restore 2% TP Upon Defeating Enemy",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#2339",
+   "jp": "敗北数が多い者が得る不名誉な称号",
+   "en": "Dishonorable title given to someone with many defeats.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#2468",
+   "jp": "闘技場デビューを果たした者の称号",
+   "en": "Title given to someone who made their Colosseum debut.",
+   "bytes": 54,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#297",
+   "jp": "対象となる味方一人のＨＰを少し回復する術",
+   "en": "Arte: restores a small amount of HP to a target ally.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#299",
+   "jp": "味方全員のＨＰを中程度回復する術",
+   "en": "Arte: restores a moderate amount of HP to all allies.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#361",
+   "jp": "敵の周囲に熱霧を作りだし攻撃する術",
+   "en": "Arte: creates scalding mist around enemies to attack.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#368",
+   "jp": "対象の敵に向かって突風を巻き起こす術",
+   "en": "Arte: stirs up a sudden gust toward the target enemy.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#392",
+   "jp": "対象となる味方一人のＨＰを中程度回復させる術",
+   "en": "Arte: moderately restores HP to a single target ally.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#404",
+   "jp": "敵の上空にピコハンを発生させ攻撃する術",
+   "en": "Arte: creates a toy hammer above the enemy to attack.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#578",
+   "jp": "対象となる味方一人のＨＰを中回復する術",
+   "en": "Arte: moderately restores HP to a single target ally.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#594",
+   "jp": "連続で突きを繰り出す特技",
+   "en": "A skill that unleashes a rapid succession of thrusts.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#690",
+   "jp": "崩襲脚と穿衝破を組合わせた奥義",
+   "en": "Arcane arte: combines Talon Drop and Piercing Strike.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#713",
+   "jp": "素早い六連続攻撃を繰り出す特技",
+   "en": "A skill that unleashes six rapid consecutive attacks.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#751",
+   "jp": "剣で突いた相手に雷撃を与える秘技",
+   "en": "Secret arte: strikes thrust opponents with lightning.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#879",
+   "jp": "牙連刃と飛翔刃を組合わせた奥義",
+   "en": "Arcane arte: combines Fang Barrage and Soaring Blade.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#947",
+   "jp": "相手を瞬時に斬り抜ける特技",
+   "en": "A skill that slashes through opponents in an instant.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1236",
+   "jp": "連続攻撃で敵を斬り刻む奥義",
+   "en": "Arcane arte: shreds enemies with consecutive attacks.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1250",
+   "jp": "多数の氷槍を敵に放つ奥義",
+   "en": "Arcane arte: launches numerous ice lances at enemies.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1319",
+   "jp": "ナイスボディプレスで大地をかっさばく奥義",
+   "en": "Arcane arte: splits the earth with a nice body press.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1327",
+   "jp": "正面に半円を描く様に斬撃を生じさせる秘技",
+   "en": "Secret arte: unleashes semicircular slashes in front.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1470",
+   "jp": "双剣を交互に繰り出す四連撃の特技",
+   "en": "A four-hit skill that swings dual swords alternately.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1569",
+   "jp": "回転蹴りで、敵を蹴り飛ばす特技",
+   "en": "A skill that kicks enemies away with a spinning kick.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1694",
+   "jp": "放った矢が低速で敵を追い続ける特技",
+   "en": "A skill where shot arrows track enemies at low speed.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1853",
+   "jp": "広範囲に風矢の雨を降らせる奥義",
+   "en": "Arcane arte: rains down wind arrows over a wide area.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1921",
+   "jp": "対象となる戦闘不能者を復活させる術（HP小回復）",
+   "en": "Arte: revives a KO'd target ally (minor HP recovery).",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1946",
+   "jp": "放射状に清めの雷撃を放つ術",
+   "en": "Arte: shoots purifying lightning in a radial pattern.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#2159",
+   "jp": "新たなる創造を心に決めた者の称号",
+   "en": "Title for one who resolved in heart for new creation.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#2300",
+   "jp": "あらゆる料理に挑んだ者の称号",
+   "en": "Title given to someone who has challenged every dish.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#2324",
+   "jp": "自分の生きる道を探し求める者の称号",
+   "en": "Title given to someone seeking their own way in life.",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#2410",
+   "jp": "基礎物理防御力−４０％　敵からのターゲット頻度− −",
+   "en": "Base Physical Defense -40%, Enemy Target Frequency --",
+   "bytes": 53,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#58",
+   "jp": "コーダが熱望している「マーボーパイ」のレシピ",
+   "en": "The recipe for \"Mabo Pie\" that Coda is yearning for.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#309",
+   "jp": "範囲内にいる味方の状態異常を回復させる術",
+   "en": "Arte: cures status ailments for allies within range.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#333",
+   "jp": "対象となる敵に向かって火炎弾を発する術",
+   "en": "Arte: fires flaming spheres toward the target enemy.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#374",
+   "jp": "対象の敵に向かって火炎風を起こす術",
+   "en": "Arte: stirs up a fiery gale toward the target enemy.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#497",
+   "jp": "広範囲に流星を呼び出し、攻撃する術",
+   "en": "Arte: calls down meteors over a wide area to attack.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#614",
+   "jp": "回転斬り後、突きを繰り出す奥義",
+   "en": "Arcane arte: follows a spinning slash with a thrust.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#755",
+   "jp": "魔神剣と閃空裂破を組合わせた奥義",
+   "en": "Arcane arte: combines Demon Fang and Flashing Blast.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#851",
+   "jp": "月を描くが如く敵を斬る特技",
+   "en": "A skill that slashes enemies as if tracing the moon.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#941",
+   "jp": "空中で連続斬りを繰り出す特技",
+   "en": "A skill that executes consecutive slashes in midair.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#943",
+   "jp": "空中から真空波の一閃を薙ぐ特技",
+   "en": "A skill that sweeps vacuum wave slashes from midair.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#962",
+   "jp": "秋沙雨と裂空斬を組合わせた奥義",
+   "en": "Arcane arte: combines Sword Rain: Alpha and Tempest.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#967",
+   "jp": "圧縮した水流弾を撃ち放つ特技",
+   "en": "A skill that fires compressed water torrent spheres.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#996",
+   "jp": "魔神剣と弧月閃を組合わせた奥義",
+   "en": "Arcane arte: combines Demon Fang and Crescent Flash.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1153",
+   "jp": "冷気を纏った強力な斬撃を繰り出す奥義",
+   "en": "Arcane arte: delivers powerful cold-cloaked slashes.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1232",
+   "jp": "投げ付けたクナイに雷を落とす特技",
+   "en": "A skill that calls down lightning onto thrown kunai.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1234",
+   "jp": "真空破を起こして敵を切り刻む秘技",
+   "en": "Secret arte: conjures vacuum waves to shred enemies.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1269",
+   "jp": "飛び込みから三散華に繋げる奥義",
+   "en": "Arcane arte: connects a dive into Three-Stage Flash.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1295",
+   "jp": "天かける膝蹴りを繰り出す特技",
+   "en": "A skill that delivers an aerial leaping knee strike.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1309",
+   "jp": "敵からの攻撃に仰け反らなくなる特技",
+   "en": "A skill that prevents staggering from enemy attacks.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1323",
+   "jp": "てまひまかけてまひるのまひさまな秘技",
+   "en": "Secret arte: meticulously bestows mid-day paralysis.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1613",
+   "jp": "かまいたちを呼び寄せ敵を切り刻む特技",
+   "en": "A skill that calls up wind sickles to shred enemies.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1641",
+   "jp": "敵１体の術を一定時間封じる術",
+   "en": "Arte: seals spells of a single enemy for a set time.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1702",
+   "jp": "徐々に加速する矢を放つ奥義",
+   "en": "Arcane arte: fires arrows that gradually accelerate.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1932",
+   "jp": "祝福をかけた短剣を縦に五本投げ付ける奥義",
+   "en": "Arcane arte: throws five blessed daggers vertically.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#1953",
+   "jp": "射撃命中時に石つぶてで攻撃する秘技",
+   "en": "Secret arte: attacks with gravel upon shooting hits.",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#2366",
+   "jp": "基礎物理攻撃力＋５％　基礎物理防御力＋１０％",
+   "en": "Base Physical Attack +5%, Base Physical Defense +10%",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#2374",
+   "jp": "基礎物理防御力＋２０％　敵からのターゲット頻度＋",
+   "en": "Base Physical Defense +20%, Enemy Target Frequency +",
+   "bytes": 52,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "valuables#230",
+   "jp": "ロックスの所で、レディアント装備を受け取る事が出来る",
+   "en": "Allows you to receive Radiant equipment from Rocks.",
+   "bytes": 51,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "valuables#329",
+   "jp": "水流の力を圧縮させ、上空に向けて撃ち出す術",
+   "en": "Arte: compresses water power and shoots it skyward.",
+   "bytes": 51,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "valuables#359",
+   "jp": "対象となる敵の周囲に氷の嵐を発生させる術",
+   "en": "Arte: creates an ice storm around the target enemy.",
+   "bytes": 51,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "valuables#398",
+   "jp": "対象の敵からのクリティカルが発生しなくなる術",
+   "en": "Arte: prevents critical hits from the target enemy.",
+   "bytes": 51,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "valuables#488",
+   "jp": "対象となる味方一人の毒異常を回復させる術",
+   "en": "Arte: cures poison status for a single target ally.",
+   "bytes": 51,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "valuables#505",
+   "jp": "大地の力を圧縮し、そして解放させる術",
+   "en": "Arte: compresses earth power and then unleashes it.",
+   "bytes": 51,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "valuables#539",
+   "jp": "光の洗礼を受けた無数の剣が降り注ぐ術",
+   "en": "Arte: rains down countless swords blessed by light.",
+   "bytes": 51,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "valuables#680",
+   "jp": "一定時間攻撃力を上昇させる特技",
+   "en": "A skill that raises physical attack for a set time.",
+   "bytes": 51,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "valuables#803",
+   "jp": "冷気を纏った矢を放つ特技",
+   "en": "A skill that fires arrows cloaked in freezing cold.",
+   "bytes": 51,
+   "alvo_bytes": 43
+  }
+ ]
+}

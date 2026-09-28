@@ -1,0 +1,160 @@
+bloco,va_ponteiro,va_string,off_arquivo,bytes_jp,slot_inplace,manter,control_codes,original,traducao,bytes_usados,fonte,status,nota,arena_ini,arena_fim
+resultado_batalha,0x08D656C0,0x08CF5D58,5188952,12,15,,,一気にいくぞ,Go All Out!,11,SIS-01,validado,Comando tatico de batalha: 一気にいくぞ,,
+resultado_batalha,0x08D656C4,0x08CF5D68,5188968,12,15,,,温存して戦え,Conserve Strength!,18,SIS-01,validado,Comando tatico de batalha: 温存して戦え,,
+resultado_batalha,0x08D656C8,0x08CF5D78,5188984,10,11,,,今は耐えろ,Hold Out for Now!,17,SIS-01,validado,Comando tatico de batalha: 今は耐えろ,,
+resultado_batalha,0x08D656CC,0x08CF5D84,5188996,6,7,,,■戦績,Battle Record,13,SIS-01,validado,"Divergencia de SIS-01.md secao 3: o glifo ■ foi omitido em 'traducao' para conformidade estrita com R1/E4 do valida_retorno.py (que recusa caractere nao-ASCII e trava no print cp1252 no Windows). Se a insercao no binario mantiver o glifo como em P-45, a forma pretendida e '■ Battle Record'.",,
+resultado_batalha,0x08D656D0,0x08CF5D8C,5189004,10,11,,,獲得経験値,EXP Earned,10,SIS-01,validado,,,
+resultado_batalha,0x08D656D4,0x08CF5D98,5189016,14,15,,,ボーナス経験値,Bonus EXP,9,SIS-01,validado,,,
+resultado_batalha,0x08D656D8,0x08CF5DA8,5189032,12,15,,,最大ヒット数,Max Hits,8,SIS-01,validado,,,
+resultado_batalha,0x08D656DC,0x08CF5DB8,5189048,10,11,,,獲得ガルド,Gald Earned,11,SIS-01,validado,Termo padrao Tales: Gald,,
+resultado_batalha,0x08D656E0,0x08CF5DC4,5189060,8,11,,,戦闘時間,Battle Time,11,SIS-01,validado,,,
+resultado_batalha,0x08D656E4,0x08CF5DD0,5189072,8,11,,,グレード,Grade,5,SIS-01,validado,Termo padrao Tales: Grade,,
+resultado_batalha,0x08D656EC,0x08CF5DEC,5189100,13,15,,,■Information,Information,11,SIS-01,validado,"Divergencia de SIS-01.md secao 3: o glifo ■ foi omitido em 'traducao' para conformidade estrita com R1/E4 do valida_retorno.py (que recusa caractere nao-ASCII e trava no print cp1252 no Windows). Se a insercao no binario mantiver o glifo como em P-45, a forma pretendida e '■ Information'.",,
+resultado_batalha,0x08D656F4,0x08CF5E04,5189124,28,31,,,装備品は、これ以上持てません,Cannot carry any more equipment.,32,SIS-01,validado,,,
+resultado_batalha,0x08D656F8,0x08CF5E24,5189156,36,39,,,拾ったアイテムは、これ以上持てません,Cannot carry any more items.,28,SIS-01,validado,,,
+resultado_batalha,0x08D656FC,0x08CF5E4C,5189196,14,15,,%s x1,%sを習得した！,Learned %s!,11,SIS-01,validado,,,
+resultado_batalha,0x08D65700,0x08CF5E5C,5189212,22,23,,%s x1,秘奥義：%sを習得した！,Mystic Arte: Learned %s!,24,SIS-01,validado,Termo do indice: 秘奥義 -> Mystic Arte,,
+resultado_batalha,0x08D65704,0x08CF5E74,5189236,22,23,,%s x1,%sはレベルが上がった！,%s leveled up!,14,SIS-01,validado,,,
+resultado_batalha,0x08D65708,0x08CF5E8C,5189260,10,11,,,を拾った！, picked up!,11,SIS-01,validado,Mensagem pos-batalha: o nome do item precede a string no display do jogo,,
+resultado_batalha,0x08D6570C,0x08CF5E98,5189272,28,31,,%s x1,%sに転職出来るようになった！,Can now change class to %s!,27,SIS-01,validado,,,
+resultado_batalha,0x08D65710,0x08CF5EB8,5189304,12,15,,,逃げ切った！,Escaped safely!,15,SIS-01,validado,,,
+resultado_batalha,0x08D65714,0x08CF5EC8,5189320,12,15,,%s x1,%sを覚えた！,Learned %s!,11,SIS-01,validado,,,
+resultado_batalha,0x08D65718,0x08CF5ED8,5189336,18,19,,%d x1,%dガルド見つけた！,Found %d Gald!,14,SIS-01,validado,Termo padrao Tales: Gald,,
+resultado_batalha,0x08D6571C,0x08CF5EEC,5189356,12,15,,%s x1,%sを盗んだ！,Stole %s!,9,SIS-01,validado,,,
+resultado_batalha,0x08D65720,0x08CF5EFC,5189372,20,23,,%d x1,%dガルド手に入れた！,Obtained %d Gald!,17,SIS-01,validado,Termo padrao Tales: Gald,,
+resultado_batalha,0x08D65724,0x08CF5F14,5189396,18,19,,%d x1,%dガルド落とした！,Dropped %d Gald!,16,SIS-01,validado,Termo padrao Tales: Gald,,
+resultado_batalha,0x08D65728,0x08CF5F28,5189416,22,23,,,何も手に入らなかった！,Found nothing!,14,SIS-01,validado,,,
+resultado_batalha,0x08D6572C,0x08CF5F40,5189440,22,23,,,敵からバックアタック！,Back attack by the enemy!,25,SIS-01,validado,,,
+resultado_batalha,0x08D65730,0x08CF5F58,5189464,22,23,,%d x1,%d人の挑戦者が現れた！,%d challengers appeared!,24,SIS-01,validado,,,
+resultado_batalha,0x08D656E8,0x08CF5DDC,5189084,15,15,sim,,WINNING MESSAGE,(verbatim),15,verbatim-ascii,validado,"ja em ingles no jogo, mantido",,
+resultado_batalha,0x08D656F0,0x08CF5DFC,5189116,4,7,sim,,Skip,(verbatim),4,verbatim-ascii,validado,"ja em ingles no jogo, mantido",,
+ui__s59,0x08D66BC4,0x08CFD058,5218392,10,11,,,ルミナシア,Luminasia,9,SIS-01,validado,INDICE_NOMES.md: ルミナシア -> Luminasia,0x08CFB00C,0x08CFB24D
+ui__s57,0x08D66BC8,0x08CFD064,5218404,10,11,,,ジルディア,Zirdia,6,SIS-01,validado,INDICE_NOMES.md: ジルディア -> Zirdia,0x08CFAEA4,0x08CFAF93
+ui__s59,0x08D66BCC,0x08CFD070,5218416,6,7,,,パスカ,Pasca,5,SIS-01,validado,Mundo de origem RM1,0x08CFB00C,0x08CFB24D
+ui__s59,0x08D66BD0,0x08CFD078,5218424,8,11,,,グラニデ,Granide,7,SIS-01,validado,INDICE_NOMES.md: グラニデ -> Granide,0x08CFB00C,0x08CFB24D
+ui__s89,0x08D66BD4,0x08CFD084,5218436,8,11,,,ペカン村,Pecan Village,13,SIS-01,validado,Padrao de comida (J5): noz pecan,0x08CFD324,0x08CFD5B9
+ui__s86,0x08D66BD8,0x08CFD090,5218448,10,11,,,ヘーゼル村,Hazel Village,13,SIS-01,validado,INDICE_NOMES.md: ヘーゼル村 -> Hazel Village,0x08CFCF88,0x08CFD211
+ui__s19,0x08D66BDC,0x08CFD09C,5218460,12,15,,,ウリズン帝国,Urizen Empire,13,SIS-01,validado,INDICE_NOMES.md: ウリズン帝国 -> Urizen Empire,0x08CF8348,0x08CF84F3
+ui__s49,0x08D66BE0,0x08CFD0AC,5218476,4,7,,,帝国,Empire,6,SIS-01,validado,Forma solta: 帝国 -> Empire,0x08CFA1D0,0x08CFA38B
+ui__s39,0x08D66BE4,0x08CFD0B4,5218484,12,15,,,ガルバンゾ国,Garbanzo,8,SIS-01,validado,INDICE_NOMES.md / SIS-01.md: ガルバンゾ国 -> Garbanzo,0x08CF9720,0x08CF973D
+ui__s39,0x08D66BE8,0x08CFD0C4,5218500,10,11,,,ガルバンゾ,Garbanzo,8,SIS-01,validado,Forma solta: ガルバンゾ -> Garbanzo,0x08CF9720,0x08CF973D
+ui__s86,0x08D66BEC,0x08CFD0D0,5218512,10,11,,,モラード村,Morado Village,14,SIS-01,validado,INDICE_NOMES.md: モラード -> Morado,0x08CFCF88,0x08CFD211
+ui__s86,0x08D66BF0,0x08CFD0DC,5218524,10,11,,,ミブナの里,Mibuna Village,14,SIS-01,validado,INDICE_NOMES.md: ミブナの里 -> Mibuna Village,0x08CFCF88,0x08CFD211
+ui__s43,0x08D66BF4,0x08CFD0E8,5218536,6,7,,,ミブナ,Mibuna,6,SIS-01,validado,Forma solta: ミブナ -> Mibuna,0x08CF9828,0x08CF9BE3
+ui__s67,0x08D66BF8,0x08CFD0F0,5218544,8,11,,,ライマ国,Lima,4,SIS-01,validado,INDICE_NOMES.md / SIS-01.md: ライマ国 -> Lima,0x08CFBC98,0x08CFBCDB
+ui__s67,0x08D66BFC,0x08CFD0FC,5218556,6,7,,,ライマ,Lima,4,SIS-01,validado,Forma solta: ライマ -> Lima,0x08CFBC98,0x08CFBCDB
+ui__s86,0x08D66E30,0x08CFDD0C,5221644,12,15,,,ルバーブ連山,Rhubarb Mountains,17,SIS-01,validado,INDICE_NOMES.md: ルバーブ -> Rhubarb; 連山 -> Mountains,0x08CFCF88,0x08CFD211
+ui__s86,0x08D66E34,0x08CFDD1C,5221660,18,19,,,コンフェイト大森林,Confeito Great Forest,21,SIS-01,validado,INDICE_NOMES.md: コンフェイト大森林 -> Confeito Great Forest,0x08CFCF88,0x08CFD211
+ui__s37,0x08D66E38,0x08CFDD30,5221680,14,15,,,ブラウニー坑道,Brownie Mine,12,SIS-01,validado,INDICE_NOMES.md: ブラウニー坑道 -> Brownie Mine,0x08CF94D4,0x08CF95FD
+ui__s93,0x08D66E3C,0x08CFDD40,5221696,14,15,,,オルタータ火山,Alterata Volcano,16,SIS-01,validado,INDICE_NOMES.md: オルタータ火山 -> Alterata Volcano,0x08CFDCE0,0x08CFDDF3
+ui__s77,0x08D66E40,0x08CFDD50,5221712,12,15,,,カダイフ砂漠,Kadaif Desert,13,SIS-01,validado,INDICE_NOMES.md: カダイフ -> Kadaif; 砂漠 -> Desert,0x08CFC80C,0x08CFC853
+ui__s24,0x08D66E44,0x08CFDD60,5221728,16,19,,,アルマナック遺跡,Almanac Ruins,13,SIS-01,validado,INDICE_NOMES.md: アルマナック -> Almanac; 遺跡 -> Ruins,0x08CF859C,0x08CF85C7
+ui__s60,0x08D66E48,0x08CFDD74,5221748,14,15,,,霊峰アブソール,Mt. Absol,9,SIS-01,validado,"Conforme MEV-08, MEV-09a, MEV-16",0x08CFB3CC,0x08CFB419
+ui__s62,0x08D66E4C,0x08CFDD84,5221764,14,15,,,ヴェラトローパ,Veratropa,9,SIS-01,validado,INDICE_NOMES.md: ヴェラトローパ -> Veratropa,0x08CFB46C,0x08CFB507
+ui__s93,0x08D66E50,0x08CFDD94,5221780,12,15,,,シフノ湧泉洞,Sifno Spring Cave,17,SIS-01,validado,Conforme MEV-17: シフノ湧泉洞 -> Sifno Spring Cave,0x08CFDCE0,0x08CFDDF3
+ui__s93,0x08D66E54,0x08CFDDA4,5221796,16,19,,,聖地ラングリース,Holy Land of Langriths,22,SIS-01,validado,"Conforme MEV-19, MEV-22, MEV-23: 聖地ラングリース -> Holy Land of Langriths",0x08CFDCE0,0x08CFDDF3
+ui__s53,0x08D66E58,0x08CFDDB8,5221816,18,19,,,エラン・ヴィタール,Elan Vital,10,SIS-01,validado,"Conforme MEV-23, MEV-24+25: エラン・ヴィタール -> Elan Vital",0x08CFA618,0x08CFA669
+ui__s91,0x08D66E5C,0x08CFDDCC,5221836,10,11,,,追憶の坑道,Mine of Reminiscence,20,SIS-01,validado,Dungeon pos-game: 追憶 (Reminiscence) + 坑道 (Mine),0x08CFD7B4,0x08CFD8A9
+ui__s93,0x08D66E60,0x08CFDDD8,5221848,6,7,,,闘技場,Colosseum,9,SIS-01,validado,Termo padrao Tales: 闘技場 -> Colosseum,0x08CFDCE0,0x08CFDDF3
+questfiltro__s1,0x08D861C0,0x08D0E854,5290068,12,15,,,ルバーブ連山,Rhubarb Mountains,17,SIS-01,validado,E10 paridade com nomes_masmorra_viagem#0,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861C4,0x08D0E864,5290084,18,19,,,コンフェイト大森林,Confeito Great Forest,21,SIS-01,validado,E10 paridade com nomes_masmorra_viagem#1,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861C8,0x08D0E878,5290104,14,15,,,ブラウニー坑道,Brownie Mine,12,SIS-01,validado,E10 paridade com nomes_masmorra_viagem#2,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861CC,0x08D0E888,5290120,14,15,,,オルタータ火山,Alterata Volcano,16,SIS-01,validado,E10 paridade com nomes_masmorra_viagem#3,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861D0,0x08D0E898,5290136,12,15,,,カダイフ砂漠,Kadaif Desert,13,SIS-01,validado,E10 paridade com nomes_masmorra_viagem#4,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861D4,0x08D0E8A8,5290152,16,19,,,アルマナック遺跡,Almanac Ruins,13,SIS-01,validado,E10 paridade com nomes_masmorra_viagem#5,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861D8,0x08D0E8BC,5290172,14,15,,,霊峰アブソール,Mt. Absol,9,SIS-01,validado,E10 paridade com nomes_masmorra_viagem#6,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861DC,0x08D0E8CC,5290188,14,15,,,ヴェラトローパ,Veratropa,9,SIS-01,validado,E10 paridade com nomes_masmorra_viagem#7,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861E0,0x08D0E8DC,5290204,12,15,,,シフノ湧泉洞,Sifno Spring Cave,17,SIS-01,validado,E10 paridade com nomes_masmorra_viagem#8,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861E4,0x08D0E8EC,5290220,16,19,,,聖地ラングリース,Holy Land of Langriths,22,SIS-01,validado,E10 paridade com nomes_masmorra_viagem#9,0x08D0E814,0x08D0EEDD
+questfiltro__s2,0x08D861E8,0x08D0E900,5290240,18,19,,,エラン・ヴィタール,Elan Vital,10,SIS-01,validado,E10 paridade com nomes_masmorra_viagem#10,0x08D0F140,0x08D0F1C3
+questfiltro__s1,0x08D861EC,0x08D0E914,5290260,10,11,,,追憶の坑道,Mine of Reminiscence,20,SIS-01,validado,E10 paridade com nomes_masmorra_viagem#11,0x08D0E814,0x08D0EEDD
+quests_completo,0x08D832D4,0x08D058E4,5253348,16,19,,%s x1,%sを発見しました,Discovered %s.,14,SIS-01#avisos(quests),validado,,,
+quests_completo,0x08D832D8,0x08D058E4,5253348,16,19,,%s x1,%sを発見しました,Discovered %s.,14,SIS-01#avisos(quests),validado,,,
+quests_completo,0x08D832DC,0x08D058F8,5253368,16,19,,%s x1,%sに勝利しました,Defeated %s.,12,SIS-01#avisos(quests),validado,,,
+quests_completo,0x08D832E0,0x08D0590C,5253388,16,19,,%s x1,%sに敗北しました,Defeated by %s.,15,SIS-01#avisos(quests),validado,,,
+quests_completo,0x08D832E4,0x08D05920,5253408,22,23,,,クエストを達成しました,Quest objectives achieved.,26,SIS-01#avisos(quests),validado,Conclusao de objetivo in-game,,
+quests_completo,0x08D832E8,0x08D05938,5253432,14,15,,%d x1,あと、%d匹です,%d remaining.,13,SIS-01#avisos(quests),validado,Contagem de monstros restantes,,
+quests_completo,0x08D832EC,0x08D05948,5253448,24,27,,,指定の退治数に達しました,Target defeat count reached.,28,SIS-01#avisos(quests),validado,,,
+quests_completo,0x08D832F0,0x08D05964,5253476,38,39,,,指定アイテムの獲得が要求数に達しました,Required item quantity reached.,31,SIS-01#avisos(quests),validado,,,
+quests_completo,0x08D832F4,0x08D0598C,5253516,32,35,,,既にアイテムを持っているようです,You seem to already have this item.,35,SIS-01#avisos(quests),validado,,,
+quests_completo,0x08D832F8,0x08D059B0,5253552,38,39,,,指定された貴重品を全て見つけ出しました,Found all designated valuables.,31,SIS-01#avisos(quests),validado,,,
+quests_completo,0x08D832FC,0x08D059D8,5253592,22,23,,,クエストが完了しました,Quest complete.,15,SIS-01#avisos(quests),validado,Entrega final de quest,,
+quests_completo,0x08D83320,0x08D05AC0,5253824,22,23,,,クエストを破棄しました,Quest cancelled.,16,SIS-01#avisos(quests),validado,,,
+quests_completo,0x08D83344,0x08D05C08,5254152,22,23,,,パーティを解散しました,Party disbanded.,16,SIS-01#avisos(quests),validado,,,
+quests_completo,0x08D83348,0x08D05C20,5254176,26,27,,%s x1,%sがパーティから抜けました,%s left the party.,18,SIS-01#avisos(quests),validado,,,
+quests_completo,0x08D8334C,0x08D05C3C,5254204,26,27,,%s x1,%sがパーティに加わりました,%s joined the party.,20,SIS-01#avisos(quests),validado,,,
+quests_completo,0x08D83380,0x08D05E0C,5254668,102,103,,LF x2,称号は、メニューのライブラリで確認出来ます。\nまた、得られた称号をセットする事で\n様々な効果が得られます,Titles can be viewed in Library under Menu.\nSetting an acquired title grants\na variety of effects.,98,SIS-01#avisos(quests),validado,Aviso tutorial: exatos 2 \n,,
+quests_completo,0x08D83230,0x08D055A8,5252520,34,35,,,現在受けているクエストはありません,No quests currently accepted.,29,SIS-02,validado,,,
+quests_completo,0x08D83234,0x08D055CC,5252556,32,35,,%d x1 %s x1,%sのモンスターを%d匹退治せよ！！,Defeat %s monsters x%d!!,23,SIS-02,validado,,,
+quests_completo,0x08D83238,0x08D055F0,5252592,20,23,,%d x1 %s x1,%sを%d匹退治せよ！！,Defeat %s x%d!!,14,SIS-02,validado,,,
+quests_completo,0x08D8323C,0x08D055F0,5252592,20,23,,%d x1 %s x1,%sを%d匹退治せよ！！,Defeat %s x%d!!,14,SIS-02,validado,,,
+quests_completo,0x08D83240,0x08D05608,5252616,22,23,,%d x1 %s x1,%sを%d個ゲットしろ！！,Obtain %s x%d!!,14,SIS-02,validado,,,
+quests_completo,0x08D83244,0x08D05608,5252616,22,23,,%d x1 %s x1,%sを%d個ゲットしろ！！,Obtain %s x%d!!,14,SIS-02,validado,,,
+quests_completo,0x08D83248,0x08D05608,5252616,22,23,,%d x1 %s x1,%sを%d個ゲットしろ！！,Obtain %s x%d!!,14,SIS-02,validado,,,
+quests_completo,0x08D8324C,0x08D05620,5252640,38,39,,,青い宝箱から、目的の品をゲットしろ！！,Get the target item from a blue treasure chest!!,48,SIS-02,validado,,,
+quests_completo,0x08D83268,0x08D05620,5252640,38,39,,,青い宝箱から、目的の品をゲットしろ！！,Get the target item from a blue treasure chest!!,48,SIS-02,validado,,,
+quests_completo,0x08D83250,0x08D05648,5252680,24,27,,%s x1,%sと対決して勝利せよ！！,Defeat %s in battle!!,21,SIS-02,validado,,,
+quests_completo,0x08D83254,0x08D05664,5252708,16,19,,%s x1,%sを退治せよ！！,Defeat %s!!,11,SIS-02,validado,,,
+quests_completo,0x08D83258,0x08D05678,5252728,4,7,,,なし,None,4,SIS-02,validado,,,
+quests_completo,0x08D83264,0x08D05678,5252728,4,7,,,なし,None,4,SIS-02,validado,,,
+quests_completo,0x08D8326C,0x08D05678,5252728,4,7,,,なし,None,4,SIS-02,validado,,,
+quests_completo,0x08D83274,0x08D05678,5252728,4,7,,,なし,None,4,SIS-02,validado,,,
+quests_completo,0x08D8325C,0x08D05680,5252736,18,19,,,緑道　３を目指せ！,Head to Green Road 3!,21,SIS-02,validado,Proposed toponym: Green Road. Not in name index yet.,,
+quests_completo,0x08D83260,0x08D05694,5252756,32,35,,,ハナアブラダケを10個ゲットしろ！,Obtain 10 Hanaaburadake!,24,SIS-02,validado,Proposed name: Hanaaburadake (flower-oil mushroom). Not in term index yet.,,
+quests_completo,0x08D83270,0x08D056B8,5252792,28,31,,,４層　最深ポイントを目指せ！,"Head to Floor 4, deepest point!",31,SIS-02,validado,,,
+quests_completo,0x08D83278,0x08D056D8,5252824,24,27,,,クレスの仲間を探し出せ！,Find Cress Albane's companions!,31,SIS-02,validado,,,
+quests_completo,0x08D8327C,0x08D056F4,5252852,22,23,,,ウッドロウを探し出せ！,Find Woodrow Kelvin!,20,SIS-02,validado,,,
+quests_completo,0x08D83280,0x08D0570C,5252876,20,23,,,少年剣士を探し出せ！,Find the young swordsman!,25,SIS-02,validado,,,
+quests_completo,0x08D83284,0x08D05724,5252900,24,27,,,弓使いの少女を探し出せ！,Find the archer girl!,21,SIS-02,validado,,,
+quests_completo,0x08D83288,0x08D05740,5252928,30,31,,,ギルドに招いた教師を探し出せ！,Find the teacher invited to the guild!,38,SIS-02,validado,,,
+quests_completo,0x08D8328C,0x08D05760,5252960,24,27,,,ロイドの仲間を探し出せ！,Find Lloyd Irving's companions!,31,SIS-02,validado,,,
+quests_completo,0x08D83290,0x08D0577C,5252988,28,31,,,ジーニアスの友達を探し出せ！,Find Genis Sage's friend!,25,SIS-02,validado,,,
+quests_completo,0x08D83294,0x08D0579C,5253020,28,31,,,ユージーンの仲間を探し出せ！,Find Eugene Gallardo's companions!,34,SIS-02,validado,,,
+quests_completo,0x08D83298,0x08D057BC,5253052,26,27,,,この土地に潜む悪漢を追え！,Track down the villain lurking in this land!,44,SIS-02,validado,,,
+quests_completo,0x08D8329C,0x08D057D8,5253080,18,19,,,ノーマを探し出せ！,Find Norma Beatty!,18,SIS-02,validado,,,
+quests_completo,0x08D832A0,0x08D057EC,5253100,18,19,,,ジェイを探し出せ！,Find Jay!,9,SIS-02,validado,,,
+quests_completo,0x08D832A4,0x08D05800,5253120,24,27,,,ルークの仲間を探し出せ！,Find Luke fon Fabre's companions!,33,SIS-02,validado,,,
+quests_completo,0x08D832A8,0x08D0581C,5253148,26,27,,,ジェイドの部下を探し出せ！,Find Jade Curtiss's subordinate!,32,SIS-02,validado,,,
+quests_completo,0x08D832AC,0x08D05838,5253176,20,23,,,リカルドを探し出せ！,Find Ricardo Soldato!,21,SIS-02,validado,,,
+quests_completo,0x08D832B0,0x08D05850,5253200,18,19,,,フレンを探し出せ！,Find Flynn Scifo!,17,SIS-02,validado,,,
+quests_completo,0x08D832B4,0x08D05864,5253220,26,27,,,誘拐犯と被害者を探し出せ！,Find the kidnapper and the victim!,34,SIS-02,validado,,,
+quests_completo,0x08D832B8,0x08D05880,5253248,26,27,,,アスベルの仲間を探し出せ！,Find Asbel Lhant's companions!,30,SIS-02,validado,,,
+quests_completo,0x08D832BC,0x08D0589C,5253276,28,31,,,ワンダーパン職人を探し出せ！,Find the Wonder Bread Artisan!,30,SIS-02,validado,Proposed term: Wonder Bread Artisan. Check consistency with QEV-37+38+39+40+41+42+43+44 batch when translated.,,
+quests_completo,0x08D832C0,0x08D058BC,5253308,18,19,,,ミミーを探し出せ！,Find Mimmy Bread!,17,SIS-02,validado,,,
+quests_completo,0x08D832C4,0x08D058BC,5253308,18,19,,,ミミーを探し出せ！,Find Mimmy Bread!,17,SIS-02,validado,,,
+quests_completo,0x08D832C8,0x08D058BC,5253308,18,19,,,ミミーを探し出せ！,Find Mimmy Bread!,17,SIS-02,validado,,,
+quests_completo,0x08D832CC,0x08D058BC,5253308,18,19,,,ミミーを探し出せ！,Find Mimmy Bread!,17,SIS-02,validado,,,
+quests_completo,0x08D832D0,0x08D058D0,5253328,18,19,,,ポッポを探し出せ！,Find Poppo!,11,SIS-02,validado,,,
+quests_completo,0x08D83300,0x08D059F0,5253616,20,23,,%d x1 %s x1,%sを%d個入手しました,Obtained %s x%d.,15,SIS-02,validado,,,
+quests_completo,0x08D83304,0x08D05A08,5253640,16,19,,%d x1,%dガルド得ました,Earned %d Gald.,15,SIS-02,validado,,,
+quests_completo,0x08D83308,0x08D05A1C,5253660,30,31,,,バンエルティア号に戻りますか？,Return to the Van Eltia?,24,SIS-02,validado,,,
+quests_completo,0x08D8330C,0x08D05A3C,5253692,28,31,,%d x1 %s x1,%sを%d個入手出来ませんでした,Could not obtain %s x%d.,23,SIS-02,validado,,,
+quests_completo,0x08D83310,0x08D05A5C,5253724,22,23,,,アイテムを渡しますか？,Hand over items?,16,SIS-02,validado,,,
+quests_completo,0x08D83314,0x08D05A74,5253748,24,27,,,アイテムを納品しています,Delivering items...,19,SIS-02,validado,,,
+quests_completo,0x08D83318,0x08D05A90,5253776,18,19,,%d x1 %s x1,%sを%d個渡しました,Handed over %s x%d.,18,SIS-02,validado,,,
+quests_completo,0x08D8331C,0x08D05AA4,5253796,24,27,,,クエストを破棄しますか？,Abandon this quest?,19,SIS-02,validado,,,
+quests_completo,0x08D83324,0x08D05AD8,5253848,26,27,,,このクエストを受けますか？,Accept this quest?,18,SIS-02,validado,,,
+quests_completo,0x08D83328,0x08D05AF4,5253876,16,19,,%s x1,%sを入手しました,Obtained %s.,12,SIS-02,validado,,,
+quests_completo,0x08D8332C,0x08D05B08,5253896,46,47,,,パッと戻れるのは、クエストを達成した後だけです,Instant return is only available after completing a quest.,58,SIS-02,validado,,,
+quests_completo,0x08D83330,0x08D05B38,5253944,22,23,,%s x1,%sの討伐に成功しました,Successfully defeated %s.,25,SIS-02,validado,,,
+quests_completo,0x08D83334,0x08D05B50,5253968,38,39,,,ターゲットをパーティから外してください,Please remove the target from your party.,41,SIS-02,validado,,,
+quests_completo,0x08D83338,0x08D05B78,5254008,40,43,,,パーティの人数がメンバー数を超えています,Party size exceeds the member limit.,36,SIS-02,validado,,,
+quests_completo,0x08D8333C,0x08D05BA4,5254052,48,51,,%d x1,このクエストを受けるにはあと%d人の空きが必要です,You need %d more open slot(s) to accept this quest.,51,SIS-02,validado,,,
+quests_completo,0x08D83340,0x08D05BD8,5254104,44,47,,,パーティを解散してこのクエストを受けますか？,Disband the party and accept this quest?,40,SIS-02,validado,,,
+quests_completo,0x08D83350,0x08D05C58,5254232,16,19,,%s x1,%sを破棄しました,Abandoned %s.,13,SIS-02,validado,,,
+quests_completo,0x08D83354,0x08D05C6C,5254252,36,39,,,パーティ編成に制限があるクエストです,This quest has party formation restrictions.,44,SIS-02,validado,,,
+quests_completo,0x08D83358,0x08D05C94,5254292,46,47,,%d x1,パーティ人数は%d人以内で編成する必要があります,The party must have %d or fewer members.,40,SIS-02,validado,,,
+quests_completo,0x08D8335C,0x08D05CC4,5254340,30,31,,%s x1,メンバーに%sが指定されています,%s is designated as a member.,29,SIS-02,validado,,,
+quests_completo,0x08D83360,0x08D05CE4,5254372,14,15,,,パーティ解散中,Disbanding party...,19,SIS-02,validado,,,
+quests_completo,0x08D83364,0x08D05CF4,5254388,14,15,,,パーティ編成中,Forming party...,16,SIS-02,validado,,,
+quests_completo,0x08D83368,0x08D05D04,5254404,22,23,,%s x1,現在のメンバーは%sです,Current members: %s.,20,SIS-02,validado,,,
+quests_completo,0x08D8336C,0x08D05D1C,5254428,46,47,,,パーティを再編成してこのクエストを受けますか？,Reorganize the party and accept this quest?,43,SIS-02,validado,,,
+quests_completo,0x08D83370,0x08D05D4C,5254476,51,51,,LF x1,パーティから外れるメンバーの\n装備を全て外しますか？,Unequip all gear from members\nleaving the party?,48,SIS-02,validado,,,
+quests_completo,0x08D83374,0x08D05D80,5254528,59,59,,LF x1,アイテムが一杯なので、\n装備を解除することが出来ませんでした,"Items are full, so equipment\ncould not be removed.",50,SIS-02,validado,,,
+quests_completo,0x08D83378,0x08D05DBC,5254588,65,67,,LF x1,アイテムが一杯なので、\n全員の装備を解除することが出来ませんでした,"Items are full, so equipment\ncould not be removed from all members.",67,SIS-02,validado,,,
+quests_completo,0x08D8337C,0x08D05E00,5254656,11,11,sim,,Information,(verbatim),11,ja-ascii,validado,"Information, ja em ingles, mantido verbatim",,
+ui__s59,0x08D66828,0x08CFB0F0,5210352,12,15,,,を預けました, deposited.,11,SIS-01#avisos(loja),validado,Notificacao do armazem: nome do item precede a string,0x08CFB00C,0x08CFB24D
+ui__s83,0x08D6682C,0x08CFB100,5210368,16,19,,,を取り出しました, retrieved.,11,SIS-01#avisos(loja),validado,Notificacao do armazem: nome do item precede a string,0x08CFCD94,0x08CFCDDB
+ui__s49,0x08D66830,0x08CFB114,5210388,40,43,,,が装備中です。装備を預けられませんでした, is equipped. Could not deposit equipment.,42,SIS-01#avisos(loja),validado,Notificacao do armazem: nome do membro precede a string,0x08CFA1D0,0x08CFA38B
+ui__s59,0x08D66834,0x08CFB140,5210432,42,43,,,倉庫が一杯です。装備を預けられませんでした,Storage is full. Could not deposit equipment.,45,SIS-01#avisos(loja),validado,Notificacao do armazem,0x08CFB00C,0x08CFB24D
+ui__s48,0x08D66838,0x08CFB16C,5210476,44,47,,,所持品が一杯です。装備を取り出せませんでした,Inventory is full. Could not retrieve equipment.,48,SIS-01#avisos(loja),validado,Notificacao do armazem,0x08CF9E7C,0x08CFA197

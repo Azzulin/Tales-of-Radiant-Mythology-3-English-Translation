@@ -1,0 +1,312 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+tonfa#0	tonfa	0	(item/equipamento)	(item/equipment)	sistema		ウッドトンファー	Wood Tonfa	
+tonfa#1	tonfa	1	(item/equipamento)	(item/equipment)	sistema		木製のトンファー。護身用（ＴＯ専用武器）	A wooden tonfa for self-defense. (Tales Exclusive Weapon)	
+tonfa#2	tonfa	2	(item/equipamento)	(item/equipment)	sistema		アイアントンファー	Iron Tonfa	
+tonfa#3	tonfa	3	(item/equipamento)	(item/equipment)	sistema		鉄で強化されたトンファー（ＴＯ専用武器）	A tonfa reinforced with iron. (Tales Exclusive Weapon)	
+tonfa#4	tonfa	4	(item/equipamento)	(item/equipment)	sistema		フォルティトンファー	Fortis Tonfa	
+tonfa#5	tonfa	5	(item/equipamento)	(item/equipment)	sistema		心の持ちようでは最強？のトンファー（ＴＯ専用武器）	The strongest tonfa depending on mindset? (Tales Exclusive Weapon)	
+tonfa#6	tonfa	6	(item/equipamento)	(item/equipment)	sistema		スチールトンファー	Steel Tonfa	
+tonfa#7	tonfa	7	(item/equipamento)	(item/equipment)	sistema		鋼鉄製のトンファー（ＴＯ専用武器）	A tonfa made of steel. (Tales Exclusive Weapon)	
+tonfa#8	tonfa	8	(item/equipamento)	(item/equipment)	sistema		シルバートンファー	Silver Tonfa	
+tonfa#9	tonfa	9	(item/equipamento)	(item/equipment)	sistema		シルバー製のトンファー（ＴＯ専用武器）	A tonfa made of silver. (Tales Exclusive Weapon)	
+tonfa#10	tonfa	10	(item/equipamento)	(item/equipment)	sistema		プラチナトンファー	Platinum Tonfa	
+tonfa#11	tonfa	11	(item/equipamento)	(item/equipment)	sistema		プラチナ製のトンファー（ＴＯ専用武器）	A tonfa made of platinum. (Tales Exclusive Weapon)	
+tonfa#12	tonfa	12	(item/equipamento)	(item/equipment)	sistema		エトゥーリア	Ettouria	
+tonfa#13	tonfa	13	(item/equipamento)	(item/equipment)	sistema		斧刃が付いたトンファー（ＴＯ専用武器）	A tonfa fitted with axe blades. (Tales Exclusive Weapon)	
+tonfa#14	tonfa	14	(item/equipamento)	(item/equipment)	sistema		モルゲンシュテル	Morgenstern	
+tonfa#15	tonfa	15	(item/equipamento)	(item/equipment)	sistema		モーニングスター風トンファー（ＴＯ専用武器）	A morning star-style tonfa. (Tales Exclusive Weapon)	
+tonfa#16	tonfa	16	(item/equipamento)	(item/equipment)	sistema		バファーダム	Bafferdam	
+tonfa#17	tonfa	17	(item/equipamento)	(item/equipment)	sistema		不思議な力を発し続けるトンファー（ＴＯ専用武器）	A tonfa that continuously radiates mysterious power. (Tales Exclusive Weapon)	
+tonfa#18	tonfa	18	(item/equipamento)	(item/equipment)	sistema		ジャグナ	Jagna	
+tonfa#19	tonfa	19	(item/equipamento)	(item/equipment)	sistema		先端に鉄球の付いたトンファー（ＴＯ専用武器）	A tonfa with an iron ball attached to its tip. (Tales Exclusive Weapon)	
+tonfa#20	tonfa	20	(item/equipamento)	(item/equipment)	sistema		チェイロバー	Cheirobar	
+tonfa#21	tonfa	21	(item/equipamento)	(item/equipment)	sistema		ブレード付きのトンファー（ＴＯ専用武器）	A tonfa fitted with blades. (Tales Exclusive Weapon)	
+tonfa#22	tonfa	22	(item/equipamento)	(item/equipment)	sistema		ミスリルトンファー	Mithril Tonfa	
+tonfa#23	tonfa	23	(item/equipamento)	(item/equipment)	sistema		ミスリル製のトンファー（ＴＯ専用武器）	A tonfa made of mithril. (Tales Exclusive Weapon)	
+tonfa#24	tonfa	24	(item/equipamento)	(item/equipment)	sistema		鉄球旋棍	Iron Ball Tonfa	
+tonfa#25	tonfa	25	(item/equipamento)	(item/equipment)	sistema		テッキュウセンコン	Iron Ball Tonfa	
+tonfa#26	tonfa	26	(item/equipamento)	(item/equipment)	sistema		鉄球付きの旋棍（ＴＯ専用武器）	A tonfa with an iron ball. (Tales Exclusive Weapon)	
+tonfa#27	tonfa	27	(item/equipamento)	(item/equipment)	sistema		刃付旋棍	Bladed Tonfa	
+tonfa#28	tonfa	28	(item/equipamento)	(item/equipment)	sistema		ヤイバツキセンコン	Bladed Tonfa	
+tonfa#29	tonfa	29	(item/equipamento)	(item/equipment)	sistema		刃が付いた旋棍（ＴＯ専用武器）	A tonfa fitted with a blade. (Tales Exclusive Weapon)	
+tonfa#30	tonfa	30	(item/equipamento)	(item/equipment)	sistema		霊樹旋棍	Sacred Wood Tonfa	
+tonfa#31	tonfa	31	(item/equipamento)	(item/equipment)	sistema		レイジュセンコン	Sacred Wood Tonfa	
+tonfa#32	tonfa	32	(item/equipamento)	(item/equipment)	sistema		霊験あらたかな御神木で作られた旋棍（ＴＯ専用武器）	A tonfa crafted from a sacred, miraculous tree. (Tales Exclusive Weapon)	
+tonfa#33	tonfa	33	(item/equipamento)	(item/equipment)	sistema		有刺旋棍	Barbed Tonfa	
+tonfa#34	tonfa	34	(item/equipamento)	(item/equipment)	sistema		ユウシセンコン	Barbed Tonfa	
+tonfa#35	tonfa	35	(item/equipamento)	(item/equipment)	sistema		有刺鉄線を巻いた旋棍（ＴＯ専用武器）	A tonfa wrapped in barbed wire. (Tales Exclusive Weapon)	
+tonfa#36	tonfa	36	(item/equipamento)	(item/equipment)	sistema		魅栖璃瑠旋棍	Mithril Tonfa	
+tonfa#37	tonfa	37	(item/equipamento)	(item/equipment)	sistema		ミスリルセンコン	Mithril Tonfa	
+tonfa#38	tonfa	38	(item/equipamento)	(item/equipment)	sistema		ミスリル銀製の旋棍（ＴＯ専用武器）	A tonfa made of mithril silver. (Tales Exclusive Weapon)	
+tonfa#39	tonfa	39	(item/equipamento)	(item/equipment)	sistema		金剛旋棍	Vajra Tonfa	
+tonfa#40	tonfa	40	(item/equipamento)	(item/equipment)	sistema		コンドウセンコン	Vajra Tonfa	
+tonfa#41	tonfa	41	(item/equipamento)	(item/equipment)	sistema		素晴しい旋棍（ＴＯ専用武器）	A magnificent tonfa. (Tales Exclusive Weapon)	
+tonfa#42	tonfa	42	(item/equipamento)	(item/equipment)	sistema		最大値（トンファ）	Max Value (Tonfa)	
+chakram#0	chakram	0	(item/equipamento)	(item/equipment)	sistema		チャクラム	Chakram	
+chakram#1	chakram	1	(item/equipamento)	(item/equipment)	sistema		投擲後、手元に戻ってくる戦輪（ＴＯ専用武器）	A battle ring that returns after being thrown. (Tales Exclusive Weapon)	
+chakram#2	chakram	2	(item/equipamento)	(item/equipment)	sistema		リングスライサー	Ring Slicer	
+chakram#3	chakram	3	(item/equipamento)	(item/equipment)	sistema		戦闘用に作られたリング状の武器（ＴＯ専用武器）	A ring-shaped weapon crafted for combat. (Tales Exclusive Weapon)	
+chakram#4	chakram	4	(item/equipamento)	(item/equipment)	sistema		パイ皿	Pie Pan	
+chakram#5	chakram	5	(item/equipamento)	(item/equipment)	sistema		パイザラ	Pie Pan	
+chakram#6	chakram	6	(item/equipamento)	(item/equipment)	sistema		パーティに使える戦輪（ＴＯ専用武器）	A battle ring you can use at parties. (Tales Exclusive Weapon)	
+chakram#7	chakram	7	(item/equipamento)	(item/equipment)	sistema		ミスリルリング	Mithril Ring	
+chakram#8	chakram	8	(item/equipamento)	(item/equipment)	sistema		ミスリル銀を用いたリング（ＴＯ専用武器）	A ring using mithril silver. (Tales Exclusive Weapon)	
+chakram#9	chakram	9	(item/equipamento)	(item/equipment)	sistema		リングオブムーン	Ring of the Moon	
+chakram#10	chakram	10	(item/equipamento)	(item/equipment)	sistema		月のリング（ＴＯ専用武器）	A ring of the moon. (Tales Exclusive Weapon)	
+chakram#11	chakram	11	(item/equipamento)	(item/equipment)	sistema		エンジェルハイロウ	Angel Halo	
+chakram#12	chakram	12	(item/equipamento)	(item/equipment)	sistema		天使の輪（ＴＯ専用武器）	An angel's halo. (Tales Exclusive Weapon)	
+chakram#13	chakram	13	(item/equipamento)	(item/equipment)	sistema		バトルリング	Battle Ring	
+chakram#14	chakram	14	(item/equipamento)	(item/equipment)	sistema		打撃と投擲のバランスを取った戦輪（ＴＯ専用武器）	A battle ring balancing strikes and throws. (Tales Exclusive Weapon)	
+chakram#15	chakram	15	(item/equipamento)	(item/equipment)	sistema		クロームホイール	Chrome Wheel	
+chakram#16	chakram	16	(item/equipamento)	(item/equipment)	sistema		クローム化されたホイール（ＴＯ専用武器）	A chrome-plated wheel. (Tales Exclusive Weapon)	
+chakram#17	chakram	17	(item/equipamento)	(item/equipment)	sistema		スターダストリング	Stardust Ring	
+chakram#18	chakram	18	(item/equipamento)	(item/equipment)	sistema		星屑のリング（ＴＯ専用武器）	A ring of stardust. (Tales Exclusive Weapon)	
+chakram#19	chakram	19	(item/equipamento)	(item/equipment)	sistema		プラチナリング	Platinum Ring	
+chakram#20	chakram	20	(item/equipamento)	(item/equipment)	sistema		プラチナを用いたリング（ＴＯ専用武器）	A ring using platinum. (Tales Exclusive Weapon)	
+chakram#21	chakram	21	(item/equipamento)	(item/equipment)	sistema		マイトリング	Might Ring	
+chakram#22	chakram	22	(item/equipamento)	(item/equipment)	sistema		力みなぎる感じがする戦輪（ＴＯ専用武器）	A battle ring that feels bursting with power. (Tales Exclusive Weapon)	
+chakram#23	chakram	23	(item/equipamento)	(item/equipment)	sistema		リングオブサン	Ring of the Sun	
+chakram#24	chakram	24	(item/equipamento)	(item/equipment)	sistema		太陽のリング（ＴＯ専用武器）	A ring of the sun. (Tales Exclusive Weapon)	
+chakram#25	chakram	25	(item/equipamento)	(item/equipment)	sistema		ウォーリング	War Ring	
+chakram#26	chakram	26	(item/equipamento)	(item/equipment)	sistema		古の戦士が使った戦輪（ＴＯ専用武器）	A battle ring used by warriors of old. (Tales Exclusive Weapon)	
+chakram#27	chakram	27	(item/equipamento)	(item/equipment)	sistema		スパイクディッシュ	Spike Dish	
+chakram#28	chakram	28	(item/equipamento)	(item/equipment)	sistema		縁に長い棘が付いている戦輪（ＴＯ専用武器）	A battle ring with long thorns on its rim. (Tales Exclusive Weapon)	
+chakram#29	chakram	29	(item/equipamento)	(item/equipment)	sistema		エターナルリング	Eternal Ring	
+chakram#30	chakram	30	(item/equipamento)	(item/equipment)	sistema		永遠の名を冠したリング（ＴＯ専用武器）	A ring bearing the name of eternity. (Tales Exclusive Weapon)	
+chakram#31	chakram	31	(item/equipamento)	(item/equipment)	sistema		ルーンディスク	Rune Disc	
+chakram#32	chakram	32	(item/equipamento)	(item/equipment)	sistema		古代の投擲競技に使われた円盤（ＴＯ専用武器）	A discus used in ancient throwing events. (Tales Exclusive Weapon)	
+chakram#33	chakram	33	(item/equipamento)	(item/equipment)	sistema		ゴールドソーサー	Gold Saucer	
+chakram#34	chakram	34	(item/equipamento)	(item/equipment)	sistema		金細工が施された戦輪（ＴＯ専用武器）	A battle ring adorned with gold craft. (Tales Exclusive Weapon)	
+chakram#35	chakram	35	(item/equipamento)	(item/equipment)	sistema		ブルーリング	Blue Ring	
+chakram#36	chakram	36	(item/equipamento)	(item/equipment)	sistema		強い魔法効果が付与された戦輪（ＴＯ専用武器）	A battle ring imbued with strong magic effects. (Tales Exclusive Weapon)	
+chakram#37	chakram	37	(item/equipamento)	(item/equipment)	sistema		最大値（戦輪）	Max Value (Chakram)	
+hammer#0	hammer	0	(item/equipamento)	(item/equipment)	sistema		ウッドモール	Wood Maul	
+hammer#1	hammer	1	(item/equipamento)	(item/equipment)	sistema		木製のモール（ＴＯ専用武器）	A wooden maul. (Tales Exclusive Weapon)	
+hammer#2	hammer	2	(item/equipamento)	(item/equipment)	sistema		ウォーハンマー	Warhammer	
+hammer#3	hammer	3	(item/equipamento)	(item/equipment)	sistema		戦闘用のハンマー（ＴＯ専用武器）	A combat hammer. (Tales Exclusive Weapon)	
+hammer#4	hammer	4	(item/equipamento)	(item/equipment)	sistema		ピコハン	Piko Hammer	
+hammer#5	hammer	5	(item/equipamento)	(item/equipment)	sistema		ピコピコと音がなる子ども用のおもちゃ（ＴＯ専用武器）	A children's toy that squeaks. (Tales Exclusive Weapon)	
+hammer#6	hammer	6	(item/equipamento)	(item/equipment)	sistema		アイアンハンマー	Iron Hammer	
+hammer#7	hammer	7	(item/equipamento)	(item/equipment)	sistema		鉄製のハンマー（ＴＯ専用武器）	An iron hammer. (Tales Exclusive Weapon)	
+hammer#8	hammer	8	(item/equipamento)	(item/equipment)	sistema		グルグルドリルハンマー	Swirling Drill Hammer	
+hammer#9	hammer	9	(item/equipamento)	(item/equipment)	sistema		渦巻くドリルを装着したハンマー（ＴＯ専用武器）	A hammer equipped with a swirling drill. (Tales Exclusive Weapon)	
+hammer#10	hammer	10	(item/equipamento)	(item/equipment)	sistema		ガーディアンスタンプ	Guardian Stamp	
+hammer#11	hammer	11	(item/equipamento)	(item/equipment)	sistema		巨人が使用したという重ハンマー（ＴＯ専用武器）	A heavy hammer said to be used by giants. (Tales Exclusive Weapon)	
+hammer#12	hammer	12	(item/equipamento)	(item/equipment)	sistema		ウッドモール改	Wood Maul Custom	
+hammer#13	hammer	13	(item/equipamento)	(item/equipment)	sistema		ウッドモールカイ	Wood Maul Custom	
+hammer#14	hammer	14	(item/equipamento)	(item/equipment)	sistema		実戦向けに改良されたウッドモール（ＴＯ専用武器）	A wood maul modified for actual combat. (Tales Exclusive Weapon)	
+hammer#15	hammer	15	(item/equipamento)	(item/equipment)	sistema		アイアンハンマー改	Iron Hammer Custom	
+hammer#16	hammer	16	(item/equipamento)	(item/equipment)	sistema		アイアンハンマーカイ	Iron Hammer Custom	
+hammer#17	hammer	17	(item/equipamento)	(item/equipment)	sistema		実戦向けに改良されたアイアンハンマー（ＴＯ専用武器）	An iron hammer modified for actual combat. (Tales Exclusive Weapon)	
+hammer#18	hammer	18	(item/equipamento)	(item/equipment)	sistema		デッドリーホーン	Deadly Horn	
+hammer#19	hammer	19	(item/equipamento)	(item/equipment)	sistema		致命的な一打を放つ危険なハンマー（ＴＯ専用武器）	A dangerous hammer delivering lethal blows. (Tales Exclusive Weapon)	
+hammer#20	hammer	20	(item/equipamento)	(item/equipment)	sistema		パイルドライバー	Pile Driver	
+hammer#21	hammer	21	(item/equipamento)	(item/equipment)	sistema		破壊力と扱いやすさを兼ね揃えたハンマー（ＴＯ専用武器）	A hammer combining destructive power and handling. (Tales Exclusive Weapon)	
+hammer#22	hammer	22	(item/equipamento)	(item/equipment)	sistema		ミスリルハンマー	Mithril Hammer	
+hammer#23	hammer	23	(item/equipamento)	(item/equipment)	sistema		ミスリル製のハンマーで見た目程重くない（ＴＯ専用武器）	A mithril hammer that is lighter than it looks. (Tales Exclusive Weapon)	
+hammer#24	hammer	24	(item/equipamento)	(item/equipment)	sistema		トールハンマー	Thor Hammer	
+hammer#25	hammer	25	(item/equipamento)	(item/equipment)	sistema		巨神が愛用した超重量ハンマー（ＴＯ専用武器）	A super-heavy hammer favored by a titan god. (Tales Exclusive Weapon)	
+hammer#26	hammer	26	(item/equipamento)	(item/equipment)	sistema		ヘヴィモール	Heavy Maul	
+hammer#27	hammer	27	(item/equipamento)	(item/equipment)	sistema		防具ごと敵を押し潰す重モール（ＴＯ専用武器）	A heavy maul that crushes armor and enemies alike. (Tales Exclusive Weapon)	
+hammer#28	hammer	28	(item/equipamento)	(item/equipment)	sistema		バリバリドリルハンマー	Roaring Drill Hammer	
+hammer#29	hammer	29	(item/equipamento)	(item/equipment)	sistema		超高速回転ドリルが装着されたハンマー（ＴＯ専用武器）	A hammer equipped with an ultra-high-speed drill. (Tales Exclusive Weapon)	
+hammer#30	hammer	30	(item/equipamento)	(item/equipment)	sistema		トールハンマー改	Thor Hammer Custom	
+hammer#31	hammer	31	(item/equipamento)	(item/equipment)	sistema		トールハンマーカイ	Thor Hammer Custom	
+hammer#32	hammer	32	(item/equipamento)	(item/equipment)	sistema		実戦向けに改良されたトールハンマー（ＴＯ専用武器）	A Thor hammer modified for actual combat. (Tales Exclusive Weapon)	
+hammer#33	hammer	33	(item/equipamento)	(item/equipment)	sistema		エクスプレス	Express	
+hammer#34	hammer	34	(item/equipamento)	(item/equipment)	sistema		万物を叩き潰すハンマー（ＴＯ専用武器）	A hammer that smashes all creation. (Tales Exclusive Weapon)	
+hammer#35	hammer	35	(item/equipamento)	(item/equipment)	sistema		ゴールデンハンマー	Golden Hammer	
+hammer#36	hammer	36	(item/equipamento)	(item/equipment)	sistema		金色に輝く愛と勇気の重ハンマー（ＴＯ専用武器）	A gleaming heavy hammer of love and courage. (Tales Exclusive Weapon)	
+hammer#37	hammer	37	(item/equipamento)	(item/equipment)	sistema		７６５ｋｇハンマー	765kg Hammer	
+hammer#38	hammer	38	(item/equipamento)	(item/equipment)	sistema		ナムコキログラムハンマー	765kg Hammer	
+hammer#39	hammer	39	(item/equipamento)	(item/equipment)	sistema		「夢」「遊び」「感動」が詰まった重ハンマー（ＴＯ専用武器）	A heavy hammer packed with dreams, fun, and excitement. (Tales Exclusive Weapon)	
+hammer#40	hammer	40	(item/equipamento)	(item/equipment)	sistema		最大値（ハンマー）	Max Value (Hammer)	
+rifle#0	rifle	0	(item/equipamento)	(item/equipment)	sistema		ライフル	Rifle	
+rifle#1	rifle	1	(item/equipamento)	(item/equipment)	sistema		市販品のライフル（ＴＯ専用武器）	A commercially sold rifle. (Tales Exclusive Weapon)	
+rifle#2	rifle	2	(item/equipamento)	(item/equipment)	sistema		ハンターライフル	Hunter Rifle	
+rifle#3	rifle	3	(item/equipamento)	(item/equipment)	sistema		狩猟用のライフル（ＴＯ専用武器）	A hunting rifle. (Tales Exclusive Weapon)	
+rifle#4	rifle	4	(item/equipamento)	(item/equipment)	sistema		ポーチャーバレル	Poacher Barrel	
+rifle#5	rifle	5	(item/equipamento)	(item/equipment)	sistema		密猟者より押収したライフル（ＴＯ専用武器）	A rifle confiscated from poachers. (Tales Exclusive Weapon)	
+rifle#6	rifle	6	(item/equipamento)	(item/equipment)	sistema		ビッグマーシャル	Big Marshal	
+rifle#7	rifle	7	(item/equipamento)	(item/equipment)	sistema		保安官が標準装備しているライフル（ＴＯ専用武器）	Standard-issue rifle of marshals. (Tales Exclusive Weapon)	
+rifle#8	rifle	8	(item/equipamento)	(item/equipment)	sistema		スマートハンター	Smart Hunter	
+rifle#9	rifle	9	(item/equipamento)	(item/equipment)	sistema		強化された猟銃（ＴＯ専用武器）	An enhanced hunting rifle. (Tales Exclusive Weapon)	
+rifle#10	rifle	10	(item/equipamento)	(item/equipment)	sistema		ブラッドカービン	Blood Carbine	
+rifle#11	rifle	11	(item/equipamento)	(item/equipment)	sistema		血に染まりし闇のライフル（ＴＯ専用武器）	A dark rifle stained with blood. (Tales Exclusive Weapon)	
+rifle#12	rifle	12	(item/equipamento)	(item/equipment)	sistema		ガーランド	Garand	
+rifle#13	rifle	13	(item/equipamento)	(item/equipment)	sistema		量産タイプの軍用ライフル（ＴＯ専用武器）	A mass-produced military rifle. (Tales Exclusive Weapon)	
+rifle#14	rifle	14	(item/equipamento)	(item/equipment)	sistema		アサルトライフル	Assault Rifle	
+rifle#15	rifle	15	(item/equipamento)	(item/equipment)	sistema		軍の主力ライフル（ＴＯ専用武器）	The main military rifle. (Tales Exclusive Weapon)	
+rifle#16	rifle	16	(item/equipamento)	(item/equipment)	sistema		銃士のライフル	Musketeer's Rifle	
+rifle#17	rifle	17	(item/equipamento)	(item/equipment)	sistema		ジュウシノライフル	Musketeer's Rifle	
+rifle#18	rifle	18	(item/equipamento)	(item/equipment)	sistema		エリート層の兵士が所有するライフル（ＴＯ専用武器）	A rifle owned by elite soldiers. (Tales Exclusive Weapon)	
+rifle#19	rifle	19	(item/equipamento)	(item/equipment)	sistema		コマンダーバレル	Commander Barrel	
+rifle#20	rifle	20	(item/equipamento)	(item/equipment)	sistema		前線指揮官専用のライフル（ＴＯ専用武器）	A rifle exclusive to frontline commanders. (Tales Exclusive Weapon)	
+rifle#21	rifle	21	(item/equipamento)	(item/equipment)	sistema		マスターライフル	Master Rifle	
+rifle#22	rifle	22	(item/equipamento)	(item/equipment)	sistema		狙撃に最適のライフル（ＴＯ専用武器）	A rifle ideal for sniping. (Tales Exclusive Weapon)	
+rifle#23	rifle	23	(item/equipamento)	(item/equipment)	sistema		フレイムガンナー	Flame Gunner	
+rifle#24	rifle	24	(item/equipamento)	(item/equipment)	sistema		火の精を撃ち出す炎のライフル（ＴＯ専用武器）	A flaming rifle shooting fire spirits. (Tales Exclusive Weapon)	
+rifle#25	rifle	25	(item/equipamento)	(item/equipment)	sistema		反逆者の遺志	Rebel's Will	
+rifle#26	rifle	26	(item/equipamento)	(item/equipment)	sistema		ハンギャクシャノイシ	Rebel's Will	
+rifle#27	rifle	27	(item/equipamento)	(item/equipment)	sistema		反乱首謀者の傍らに在ったライフル（ＴＯ専用武器）	A rifle found beside a rebellion ringleader. (Tales Exclusive Weapon)	
+rifle#28	rifle	28	(item/equipamento)	(item/equipment)	sistema		ヘルスナイパー	Hell Sniper	
+rifle#29	rifle	29	(item/equipamento)	(item/equipment)	sistema		狙った獲物は逃がさない狙撃銃（ＴＯ専用武器）	A sniper rifle that never lets targeted prey escape. (Tales Exclusive Weapon)	
+rifle#30	rifle	30	(item/equipamento)	(item/equipment)	sistema		レッドレクイエム	Red Requiem	
+rifle#31	rifle	31	(item/equipamento)	(item/equipment)	sistema		その銃声は狙われた者への鎮魂歌と恐れられるライフル（ＴＯ専用武器）	A fearsome rifle whose gunshots are a requiem for targets. (Tales Exclusive Weapon)	
+rifle#32	rifle	32	(item/equipamento)	(item/equipment)	sistema		ＡＰライフル	AP Rifle	
+rifle#33	rifle	33	(item/equipamento)	(item/equipment)	sistema		アーマーピアシングライフル	AP Rifle	
+rifle#34	rifle	34	(item/equipamento)	(item/equipment)	sistema		強烈な貫徹力を持つ対戦車ライフル（ＴＯ専用武器）	An anti-tank rifle with fierce penetration power. (Tales Exclusive Weapon)	
+rifle#35	rifle	35	(item/equipamento)	(item/equipment)	sistema		エレメントバレル	Element Barrel	
+rifle#36	rifle	36	(item/equipamento)	(item/equipment)	sistema		全精霊の加護を受けた奇跡のライフル（ＴＯ専用武器）	A miraculous rifle blessed by all spirits. (Tales Exclusive Weapon)	
+rifle#37	rifle	37	(item/equipamento)	(item/equipment)	sistema		フリーズカービン	Freeze Carbine	
+rifle#38	rifle	38	(item/equipamento)	(item/equipment)	sistema		超高速の氷槍を撃ち出すライフル（ＴＯ専用武器）	A rifle firing ultra-high-speed ice spears. (Tales Exclusive Weapon)	
+rifle#39	rifle	39	(item/equipamento)	(item/equipment)	sistema		最大値（ライフル）	Max Value (Rifle)	
+baton#0	baton	0	(item/equipamento)	(item/equipment)	sistema		エルロンド	Elrond	
+baton#1	baton	1	(item/equipamento)	(item/equipment)	sistema		ダンスに用いる基本的なバトン（ＴＯ専用武器）	A basic baton used for dancing. (Tales Exclusive Weapon)	
+baton#2	baton	2	(item/equipamento)	(item/equipment)	sistema		ルンバ	Rumba	
+baton#3	baton	3	(item/equipamento)	(item/equipment)	sistema		軽快な踊りに最適のバトン（ＴＯ専用武器）	A baton ideal for lively dances. (Tales Exclusive Weapon)	
+baton#4	baton	4	(item/equipamento)	(item/equipment)	sistema		オールダー	Alder	
+baton#5	baton	5	(item/equipamento)	(item/equipment)	sistema		競技用のバトン（ＴＯ専用武器）	A baton for competitions. (Tales Exclusive Weapon)	
+baton#6	baton	6	(item/equipamento)	(item/equipment)	sistema		オリーブル	Orible	
+baton#7	baton	7	(item/equipamento)	(item/equipment)	sistema		材質にこだわった良質のバトン（ＴＯ専用武器）	A high-quality baton of fine materials. (Tales Exclusive Weapon)	
+baton#8	baton	8	(item/equipamento)	(item/equipment)	sistema		サルサ	Salsa	
+baton#9	baton	9	(item/equipamento)	(item/equipment)	sistema		リズムを取る拍子木としても使われるバトン（ＴＯ専用武器）	A baton also used as rhythm clappers. (Tales Exclusive Weapon)	
+baton#10	baton	10	(item/equipamento)	(item/equipment)	sistema		ピスティス	Pistis	
+baton#11	baton	11	(item/equipamento)	(item/equipment)	sistema		硬質のボールとチップが付いたバトン（ＴＯ専用武器）	A baton with a hard ball and tip. (Tales Exclusive Weapon)	
+baton#12	baton	12	(item/equipamento)	(item/equipment)	sistema		メリアー	Melia	
+baton#13	baton	13	(item/equipamento)	(item/equipment)	sistema		シャフトを強化し折れにくくなったバトン（ＴＯ専用武器）	A baton with a reinforced, break-resistant shaft. (Tales Exclusive Weapon)	
+baton#14	baton	14	(item/equipamento)	(item/equipment)	sistema		タンゴ	Tango	
+baton#15	baton	15	(item/equipamento)	(item/equipment)	sistema		高度な振り回しを目指して強化されたバトン（ＴＯ専用武器）	A baton reinforced for advanced twirling. (Tales Exclusive Weapon)	
+baton#16	baton	16	(item/equipamento)	(item/equipment)	sistema		トゥリステス	Tristis	
+baton#17	baton	17	(item/equipamento)	(item/equipment)	sistema		なぜか護身用武器として用いられるバトン（ＴＯ専用武器）	A baton strangely used for self-defense. (Tales Exclusive Weapon)	
+baton#18	baton	18	(item/equipamento)	(item/equipment)	sistema		ジャズ	Jazz	
+baton#19	baton	19	(item/equipamento)	(item/equipment)	sistema		ボールとチップの硬度が大幅に強化されたバトン（ＴＯ専用武器）	A baton with greatly enhanced ball and tip hardness. (Tales Exclusive Weapon)	
+baton#20	baton	20	(item/equipamento)	(item/equipment)	sistema		クラージュ	Courage	
+baton#21	baton	21	(item/equipamento)	(item/equipment)	sistema		シャフトを太くし、より実戦的な強化がなされたバトン（ＴＯ専用武器）	A baton with a thicker shaft reinforced for combat. (Tales Exclusive Weapon)	
+baton#22	baton	22	(item/equipamento)	(item/equipment)	sistema		バチャータ	Bachata	
+baton#23	baton	23	(item/equipamento)	(item/equipment)	sistema		重い一打を放つ為に重量を増したバトン（ＴＯ専用武器）	A heavier baton designed to land heavy strikes. (Tales Exclusive Weapon)	
+baton#24	baton	24	(item/equipamento)	(item/equipment)	sistema		メーニス	Menis	
+baton#25	baton	25	(item/equipamento)	(item/equipment)	sistema		近接戦闘用のバトン（ＴＯ専用武器）	A baton for close-quarters combat. (Tales Exclusive Weapon)	
+baton#26	baton	26	(item/equipamento)	(item/equipment)	sistema		ヴァルス	Valse	
+baton#27	baton	27	(item/equipamento)	(item/equipment)	sistema		踊りでも戦闘でも優れた性能を発揮するバトン（ＴＯ専用武器）	A baton performing excellently in dance and battle alike. (Tales Exclusive Weapon)	
+baton#28	baton	28	(item/equipamento)	(item/equipment)	sistema		アグラード	Agrado	
+baton#29	baton	29	(item/equipamento)	(item/equipment)	sistema		伝説のバトントワラーが特訓に使ったバトン（ＴＯ専用武器）	A baton used by a legendary baton twirler for special training. (Tales Exclusive Weapon)	
+baton#30	baton	30	(item/equipamento)	(item/equipment)	sistema		バレ	Ballet	
+baton#31	baton	31	(item/equipamento)	(item/equipment)	sistema		一流のバトントワラーが一度は手にする高級バトン（ＴＯ専用武器）	A luxury baton held by top-tier twirlers. (Tales Exclusive Weapon)	
+baton#32	baton	32	(item/equipamento)	(item/equipment)	sistema		ピリアー	Pilia	
+baton#33	baton	33	(item/equipamento)	(item/equipment)	sistema		戦闘用として完成された品質を誇るバトン（ＴＯ専用武器）	A baton boasting perfected quality for combat. (Tales Exclusive Weapon)	
+baton#34	baton	34	(item/equipamento)	(item/equipment)	sistema		イーレクス	Ilex	
+baton#35	baton	35	(item/equipamento)	(item/equipment)	sistema		伝説のバトントワラーが競技に使用したバトン（ＴＯ専用武器）	A baton used in tournaments by a legendary twirler. (Tales Exclusive Weapon)	
+baton#36	baton	36	(item/equipamento)	(item/equipment)	sistema		最大値（バトン）	Max Value (Baton)	
+crossbow#0	crossbow	0	(item/equipamento)	(item/equipment)	sistema		ゲイルアーク	Gale Arc	
+crossbow#1	crossbow	1	(item/equipamento)	(item/equipment)	sistema		市販品のボウガン（ＴＯ専用武器）	A commercially sold crossbow. (Tales Exclusive Weapon)	
+crossbow#2	crossbow	2	(item/equipamento)	(item/equipment)	sistema		インバット	Imbat	
+crossbow#3	crossbow	3	(item/equipamento)	(item/equipment)	sistema		狩猟用のボウガン（ＴＯ専用武器）	A hunting crossbow. (Tales Exclusive Weapon)	
+crossbow#4	crossbow	4	(item/equipamento)	(item/equipment)	sistema		シャックス	Shax	
+crossbow#5	crossbow	5	(item/equipamento)	(item/equipment)	sistema		弦の改良で威力と射程が上がったボウガン（ＴＯ専用武器）	A crossbow with increased power and range via bowstring improvements. (Tales Exclusive Weapon)	
+crossbow#6	crossbow	6	(item/equipamento)	(item/equipment)	sistema		シュヴァルベ	Schwalbe	
+crossbow#7	crossbow	7	(item/equipamento)	(item/equipment)	sistema		護身用のボウガン（ＴＯ専用武器）	A self-defense crossbow. (Tales Exclusive Weapon)	
+crossbow#8	crossbow	8	(item/equipamento)	(item/equipment)	sistema		マルファス	Malphas	
+crossbow#9	crossbow	9	(item/equipamento)	(item/equipment)	sistema		簡易構造でメンテナンスが楽なボウガン（ＴＯ専用武器）	A crossbow of simple structure easy to maintain. (Tales Exclusive Weapon)	
+crossbow#10	crossbow	10	(item/equipamento)	(item/equipment)	sistema		パシアノス	Pasianos	
+crossbow#11	crossbow	11	(item/equipamento)	(item/equipment)	sistema		矢の装填に時間がかからないボウガン（ＴＯ専用武器）	A crossbow that takes no time to reload bolts. (Tales Exclusive Weapon)	
+crossbow#12	crossbow	12	(item/equipamento)	(item/equipment)	sistema		コルニクス	Cornix	
+crossbow#13	crossbow	13	(item/equipamento)	(item/equipment)	sistema		命中精度が高い狙撃用のボウガン（ＴＯ専用武器）	A sniping crossbow with high accuracy. (Tales Exclusive Weapon)	
+crossbow#14	crossbow	14	(item/equipamento)	(item/equipment)	sistema		クレイン	Crane	
+crossbow#15	crossbow	15	(item/equipamento)	(item/equipment)	sistema		軍でも用いられている良質なボウガン（ＴＯ専用武器）	A fine crossbow used by the military. (Tales Exclusive Weapon)	
+crossbow#16	crossbow	16	(item/equipamento)	(item/equipment)	sistema		ガルダ	Garuda	
+crossbow#17	crossbow	17	(item/equipamento)	(item/equipment)	sistema		魔獣を狩る為に作られたボウガン（ＴＯ専用武器）	A crossbow crafted for hunting magical beasts. (Tales Exclusive Weapon)	
+crossbow#18	crossbow	18	(item/equipamento)	(item/equipment)	sistema		オルテュクス	Ortyx	
+crossbow#19	crossbow	19	(item/equipamento)	(item/equipment)	sistema		軽量でありながら高い性能を誇るボウガン（ＴＯ専用武器）	A lightweight crossbow boasting high performance. (Tales Exclusive Weapon)	
+crossbow#20	crossbow	20	(item/equipamento)	(item/equipment)	sistema		アウストル	Auster	
+crossbow#21	crossbow	21	(item/equipamento)	(item/equipment)	sistema		特殊な矢を使う高威力のボウガン（ＴＯ専用武器）	A high-powered crossbow using special bolts. (Tales Exclusive Weapon)	
+crossbow#22	crossbow	22	(item/equipamento)	(item/equipment)	sistema		シームルグ	Simurgh	
+crossbow#23	crossbow	23	(item/equipamento)	(item/equipment)	sistema		限られた者しか入手出来ない特注品のボウガン（ＴＯ専用武器）	A custom-ordered crossbow available only to a select few. (Tales Exclusive Weapon)	
+crossbow#24	crossbow	24	(item/equipamento)	(item/equipment)	sistema		ミストラル	Mistral	
+crossbow#25	crossbow	25	(item/equipamento)	(item/equipment)	sistema		悪天候でも安定した性能を発揮するボウガン（ＴＯ専用武器）	A crossbow performing stably even in bad weather. (Tales Exclusive Weapon)	
+crossbow#26	crossbow	26	(item/equipamento)	(item/equipment)	sistema		アムルゼス	Amulzes	
+crossbow#27	crossbow	27	(item/equipamento)	(item/equipment)	sistema		量産品から稀に出てくる超高品質のボウガン（ＴＯ専用武器）	A superb crossbow rarely produced from mass lines. (Tales Exclusive Weapon)	
+crossbow#28	crossbow	28	(item/equipamento)	(item/equipment)	sistema		ヴィゾフニル	Vidofnir	
+crossbow#29	crossbow	29	(item/equipamento)	(item/equipment)	sistema		聖なる力で如何なるものも射程に捉えるボウガン（ＴＯ専用武器）	A crossbow with holy power bringing all targets into range. (Tales Exclusive Weapon)	
+crossbow#30	crossbow	30	(item/equipamento)	(item/equipment)	sistema		ペレグリノ	Pellegrino	
+crossbow#31	crossbow	31	(item/equipamento)	(item/equipment)	sistema		必ず急所に当たると噂されるボウガン（ＴＯ専用武器）	A crossbow rumored to always strike vital spots. (Tales Exclusive Weapon)	
+crossbow#32	crossbow	32	(item/equipamento)	(item/equipment)	sistema		フレズベルグ	Hraesvelgr	
+crossbow#33	crossbow	33	(item/equipamento)	(item/equipment)	sistema		魔の力を借りて威力を上げたボウガン（ＴＯ専用武器）	A crossbow whose power is enhanced by borrowing demonic forces. (Tales Exclusive Weapon)	
+crossbow#34	crossbow	34	(item/equipamento)	(item/equipment)	sistema		アレクトリス	Alectoris	
+crossbow#35	crossbow	35	(item/equipamento)	(item/equipment)	sistema		竜の鱗をも貫く伝説級のボウガン（ＴＯ専用武器）	A legendary crossbow that pierces even dragon scales. (Tales Exclusive Weapon)	
+crossbow#36	crossbow	36	(item/equipamento)	(item/equipment)	sistema		最大値（ボウガン）	Max Value (Crossbow)	
+bag#0	bag	0	(item/equipamento)	(item/equipment)	sistema		チャットバッグ	Chat Bag	
+bag#1	bag	1	(item/equipamento)	(item/equipment)	sistema		これで気分はキャプテン！（ＴＯ専用武器）	With this you will feel like a captain! (Tales Exclusive Weapon)	
+bag#2	bag	2	(item/equipamento)	(item/equipment)	sistema		トートバッグ	Tote Bag	
+bag#3	bag	3	(item/equipamento)	(item/equipment)	sistema		大型の角型バッグ（ＴＯ専用武器）	A large rectangular bag. (Tales Exclusive Weapon)	
+bag#4	bag	4	(item/equipamento)	(item/equipment)	sistema		エコバッグ	Eco Bag	
+bag#5	bag	5	(item/equipamento)	(item/equipment)	sistema		環境にやさしい買い物用バッグ（ＴＯ専用武器）	An eco-friendly shopping bag. (Tales Exclusive Weapon)	
+bag#6	bag	6	(item/equipamento)	(item/equipment)	sistema		ビッグバッグ	Big Bag	
+bag#7	bag	7	(item/equipamento)	(item/equipment)	sistema		トートバッグより更に大型のバッグ（ＴＯ専用武器）	An even larger bag than a tote bag. (Tales Exclusive Weapon)	
+bag#8	bag	8	(item/equipamento)	(item/equipment)	sistema		ラックバッグ	Lucky Bag	
+bag#9	bag	9	(item/equipamento)	(item/equipment)	sistema		福袋？なバッグ（ＴＯ専用武器）	A lucky bag? (Tales Exclusive Weapon)	
+bag#10	bag	10	(item/equipamento)	(item/equipment)	sistema		ワンダーバッグ	Wonder Bag	
+bag#11	bag	11	(item/equipamento)	(item/equipment)	sistema		旅行かばん。お土産満載でとても重い（ＴＯ専用武器）	A travel bag packed with souvenirs, very heavy. (Tales Exclusive Weapon)	
+bag#12	bag	12	(item/equipamento)	(item/equipment)	sistema		キャプテンバッグ	Captain Bag	
+bag#13	bag	13	(item/equipamento)	(item/equipment)	sistema		船長だけが所有を許されるバッグ（ＴＯ専用武器）	A bag only the captain is permitted to own. (Tales Exclusive Weapon)	
+bag#14	bag	14	(item/equipamento)	(item/equipment)	sistema		ハンドバッグ	Handbag	
+bag#15	bag	15	(item/equipamento)	(item/equipment)	sistema		見かけよりも重いバッグです（ＴＯ専用武器）	A bag heavier than it appears. (Tales Exclusive Weapon)	
+bag#16	bag	16	(item/equipamento)	(item/equipment)	sistema		ゴルフバッグ	Golf Bag	
+bag#17	bag	17	(item/equipamento)	(item/equipment)	sistema		ゴルフボールなどが入ってます（ＴＯ専用武器）	Contains golf balls and such. (Tales Exclusive Weapon)	
+bag#18	bag	18	(item/equipamento)	(item/equipment)	sistema		ラージバッグ	Large Bag	
+bag#19	bag	19	(item/equipamento)	(item/equipment)	sistema		とても大きいバッグです（ＴＯ専用武器）	A very large bag. (Tales Exclusive Weapon)	
+bag#20	bag	20	(item/equipamento)	(item/equipment)	sistema		本革バッグ	Genuine Leather Bag	
+bag#21	bag	21	(item/equipamento)	(item/equipment)	sistema		ホンカワバッグ	Genuine Leather Bag	
+bag#22	bag	22	(item/equipamento)	(item/equipment)	sistema		革製の上品でおしゃれなバッグ（ＴＯ専用武器）	An elegant and stylish bag made of leather. (Tales Exclusive Weapon)	
+bag#23	bag	23	(item/equipamento)	(item/equipment)	sistema		ガーメントバッグ	Garment Bag	
+bag#24	bag	24	(item/equipamento)	(item/equipment)	sistema		衣服などを入れる事が出来ます（ＴＯ専用武器）	Can hold clothes and garments. (Tales Exclusive Weapon)	
+bag#25	bag	25	(item/equipamento)	(item/equipment)	sistema		プレジデントバッグ	President Bag	
+bag#26	bag	26	(item/equipamento)	(item/equipment)	sistema		社長気分になれるバッグ（ＴＯ専用武器）	A bag that makes you feel like a company president. (Tales Exclusive Weapon)	
+bag#27	bag	27	(item/equipamento)	(item/equipment)	sistema		ブランドバッグ	Brand Bag	
+bag#28	bag	28	(item/equipamento)	(item/equipment)	sistema		中身はとても軽いバッグ（ＴＯ専用武器）	Its contents are very light. (Tales Exclusive Weapon)	
+bag#29	bag	29	(item/equipamento)	(item/equipment)	sistema		ヒュージバッグ	Huge Bag	
+bag#30	bag	30	(item/equipamento)	(item/equipment)	sistema		とても…重いです（ＴＯ専用武器）	It is... very heavy. (Tales Exclusive Weapon)	
+bag#31	bag	31	(item/equipamento)	(item/equipment)	sistema		スポーツバッグ	Sports Bag	
+bag#32	bag	32	(item/equipamento)	(item/equipment)	sistema		ボウリングの球などが入ってます（ＴＯ専用武器）	Contains bowling balls and such. (Tales Exclusive Weapon)	
+bag#33	bag	33	(item/equipamento)	(item/equipment)	sistema		ジュラルミンバッグ	Duralumin Case	
+bag#34	bag	34	(item/equipamento)	(item/equipment)	sistema		現金輸送などによく使われます（ＴＯ専用武器）	Often used for cash transport. (Tales Exclusive Weapon)	
+bag#35	bag	35	(item/equipamento)	(item/equipment)	sistema		ローヤーズバッグ	Lawyer's Bag	
+bag#36	bag	36	(item/equipamento)	(item/equipment)	sistema		多分書類は入っていません（ＴＯ専用武器）	It probably does not contain legal documents. (Tales Exclusive Weapon)	
+bag#37	bag	37	(item/equipamento)	(item/equipment)	sistema		最大値（バッグ）	Max Value (Bag)	
+kendama#0	kendama	0	(item/equipamento)	(item/equipment)	sistema		イージープレイ	Easy Play	
+kendama#1	kendama	1	(item/equipamento)	(item/equipment)	sistema		木製のケンダマ（ＴＯ専用武器）	A wooden kendama. (Tales Exclusive Weapon)	
+kendama#2	kendama	2	(item/equipamento)	(item/equipment)	sistema		デュエルプレイ	Duel Play	
+kendama#3	kendama	3	(item/equipamento)	(item/equipment)	sistema		おもちゃでも本気で殴れるケンダマ（ＴＯ専用武器）	A kendama you can strike seriously with despite being a toy. (Tales Exclusive Weapon)	
+kendama#4	kendama	4	(item/equipamento)	(item/equipment)	sistema		サンダードリフト	Thunder Drift	
+kendama#5	kendama	5	(item/equipamento)	(item/equipment)	sistema		イナズマの様なスーパーケンダマ（ＴＯ専用武器）	A super kendama like lightning. (Tales Exclusive Weapon)	
+kendama#6	kendama	6	(item/equipamento)	(item/equipment)	sistema		ナイチンゲール	Nightingale	
+kendama#7	kendama	7	(item/equipamento)	(item/equipment)	sistema		初心者用本格的ケンダマ（ＴＯ専用武器）	An authentic kendama for beginners. (Tales Exclusive Weapon)	
+kendama#8	kendama	8	(item/equipamento)	(item/equipment)	sistema		ハミングバード	Hummingbird	
+kendama#9	kendama	9	(item/equipamento)	(item/equipment)	sistema		小型のケンダマ（ＴＯ専用武器）	A compact kendama. (Tales Exclusive Weapon)	
+kendama#10	kendama	10	(item/equipamento)	(item/equipment)	sistema		ハヤテ	Hayate	
+kendama#11	kendama	11	(item/equipamento)	(item/equipment)	sistema		中級者用本格的ケンダマ（ＴＯ専用武器）	An authentic kendama for intermediate players. (Tales Exclusive Weapon)	
+kendama#12	kendama	12	(item/equipamento)	(item/equipment)	sistema		ウォープレイ	War Play	
+kendama#13	kendama	13	(item/equipamento)	(item/equipment)	sistema		戦闘用ケンダマ（ＴＯ専用武器）	A combat kendama. (Tales Exclusive Weapon)	
+kendama#14	kendama	14	(item/equipamento)	(item/equipment)	sistema		トリックプレイ	Trick Play	
+kendama#15	kendama	15	(item/equipamento)	(item/equipment)	sistema		奇抜な技を披露できるケンダマ（ＴＯ専用武器）	A kendama capable of performing flashy tricks. (Tales Exclusive Weapon)	
+kendama#16	kendama	16	(item/equipamento)	(item/equipment)	sistema		シャドウダンサー	Shadow Dancer	
+kendama#17	kendama	17	(item/equipamento)	(item/equipment)	sistema		影で踊る地道なプレイ用ケンダマ（ＴＯ専用武器）	A kendama for steady practice in the shadows. (Tales Exclusive Weapon)	
+kendama#18	kendama	18	(item/equipamento)	(item/equipment)	sistema		ファルコン	Falcon	
+kendama#19	kendama	19	(item/equipamento)	(item/equipment)	sistema		少し大型のケンダマ（ＴＯ専用武器）	A slightly larger kendama. (Tales Exclusive Weapon)	
+kendama#20	kendama	20	(item/equipamento)	(item/equipment)	sistema		ファンタゴズマリア	Fantagosmaria	
+kendama#21	kendama	21	(item/equipamento)	(item/equipment)	sistema		イリュージョニスト用ケンダマ（ＴＯ専用武器）	A kendama for illusionists. (Tales Exclusive Weapon)	
+kendama#22	kendama	22	(item/equipamento)	(item/equipment)	sistema		アラウンドザワールド	Around the World	
+kendama#23	kendama	23	(item/equipamento)	(item/equipment)	sistema		気分は世界一周（ＴＯ専用武器）	Feeling like traveling around the world. (Tales Exclusive Weapon)	
+kendama#24	kendama	24	(item/equipamento)	(item/equipment)	sistema		エアプレーン	Airplane	
+kendama#25	kendama	25	(item/equipamento)	(item/equipment)	sistema		飛行機の様に軽やか！（ＴＯ専用武器）	Light as an airplane! (Tales Exclusive Weapon)	
+kendama#26	kendama	26	(item/equipamento)	(item/equipment)	sistema		シュライン	Shrine	
+kendama#27	kendama	27	(item/equipamento)	(item/equipment)	sistema		上級者用本格的ケンダマ（ＴＯ専用武器）	An authentic kendama for advanced players. (Tales Exclusive Weapon)	
+kendama#28	kendama	28	(item/equipamento)	(item/equipment)	sistema		ライジングサン	Rising Sun	
+kendama#29	kendama	29	(item/equipamento)	(item/equipment)	sistema		伝統ある儀式に使われたケンダマ（ＴＯ専用武器）	A kendama used in traditional ceremonies. (Tales Exclusive Weapon)	
+kendama#30	kendama	30	(item/equipamento)	(item/equipment)	sistema		ノーザンライト	Northern Light	
+kendama#31	kendama	31	(item/equipamento)	(item/equipment)	sistema		振るとオーロラが見えるケンダマ（ＴＯ専用武器）	A kendama that displays auroras when swung. (Tales Exclusive Weapon)	
+kendama#32	kendama	32	(item/equipamento)	(item/equipment)	sistema		ヘヴンリープレイ	Heavenly Play	
+kendama#33	kendama	33	(item/equipamento)	(item/equipment)	sistema		まさに神業（ＴＯ専用武器）	Truly a divine performance. (Tales Exclusive Weapon)	
+kendama#34	kendama	34	(item/equipamento)	(item/equipment)	sistema		ギャラクシープレイ	Galaxy Play	
+kendama#35	kendama	35	(item/equipamento)	(item/equipment)	sistema		気分は銀河一周（ＴＯ専用武器）	Feeling like traveling across the galaxy. (Tales Exclusive Weapon)	
+kendama#36	kendama	36	(item/equipamento)	(item/equipment)	sistema		最大値（剣玉）	Max Value (Kendama)	

@@ -1,0 +1,64 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev33_010.scr:0	qev33_010.scr	0	アンジュ	Ange Serena	personagem		あら	Oh,	
+qev33_010.scr:1	qev33_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	ちょうど、あなたの事を\n考えていたところなの	I was just\nthinking about you.	
+qev33_010.scr:2	qev33_010.scr	2	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev33_010.scr:3	qev33_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	実は、個人的に\nお願いしたい事があって……	I actually have a\npersonal favor to ask...	
+qev33_010.scr:4	qev33_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	時間がある時でいいから、\nわたしの話を聞いてくれる？	Could you listen to me\nwhen you have time?	
+qev33_010.scr:5	qev33_010.scr	5	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「行方知れずの傭兵」が\nエントリーされました。\nクエストカウンタから受ける事が出来ます	"The quest ""Missing Mercenary""\nhas been added.\nYou can accept it at the counter."	
+qev33_020.scr:0	qev33_020.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	行ってくれるのね？\nありがとう。\nとっても助かるな	You will go?\nThank you.\nThat helps me a lot.	
+qev33_020.scr:1	qev33_020.scr	1	スパーダ	Spada Belforma	personagem		何だァ、何の闇取引の話だ？	What's this, some shady deal?	
+qev33_020.scr:2	qev33_020.scr	2	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev33_020.scr:3	qev33_020.scr	3	スパーダ	Spada Belforma	personagem	CRLF x2	○○、気を付けろよ。\nアンジュはこう見えて\n結構腹黒いんだぜ？	Watch out, ○○.\nAnge might look sweet, but\nshe's pretty wicked, you know?	
+qev33_020.scr:4	qev33_020.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	心外だな。\nそんな事ないと思うけど……	How rude.\nI don't think that's true...	
+qev33_020.scr:5	qev33_020.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	それに、今の話はきちんとした依頼。\nリカルドさんを迎えに\n行ってもらおうと思って	Besides, this is a formal request.\nI'm asking them to go\nand meet Ricardo.	
+qev33_020.scr:6	qev33_020.scr	6	スパーダ	Spada Belforma	personagem	CRLF x1	そういや、あのおっさん、\n到着遅れてるみたいだな	Come to think of it, that old man\nseems to be running late.	
+qev33_020.scr:7	qev33_020.scr	7	スパーダ	Spada Belforma	personagem		迷子ってキャラでもねェのによ	He doesn't seem like the type to get lost.	
+qev33_020.scr:8	qev33_020.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	だから、正式な依頼として\nお願いをしたの	That's why I made\na formal request.	
+qev33_020.scr:9	qev33_020.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	大丈夫だとは思うけど、\n万が一の事があるといけないでしょ	I'm sure he's fine, but\nwe can't be too careful.	
+qev33_020.scr:10	qev33_020.scr	10	スパーダ	Spada Belforma	personagem	CRLF x1	なるほどな。\nそーいう事か	I see.\nSo that's how it is.	
+qev33_020.scr:11	qev33_020.scr	11	スパーダ	Spada Belforma	personagem	CRLF x1	○○、\n準備は抜かりなくしていけよ？	○○,\nmake sure you're fully prepared.	
+qev33_020.scr:12	qev33_020.scr	12	スパーダ	Spada Belforma	personagem	CRLF x1	職業柄っつーか、初対面の相手に\n容赦ねェからな、あのおっさん	It's his job, but that old man\nshows no mercy to strangers.	
+qev33_040.scr:0	qev33_040.scr	0	リカルド	Ricardo Soldato	personagem	CRLF x1	そこのガキ。\n止まれ	You there, kid.\nStop.	
+qev33_040.scr:1	qev33_040.scr	1	リカルド	Ricardo Soldato	personagem		……おい	...Hey.	
+qev33_040.scr:2	qev33_040.scr	2	リカルド	Ricardo Soldato	personagem		こんな所で何をしている？	What are you doing here?	
+qev33_040.scr:3	qev33_040.scr	3	(ator 200)	(ator 200)	desconhecido		…………！	...!	
+qev33_040.scr:4	qev33_040.scr	4	リカルド	Ricardo Soldato	personagem		……近いな	...You're close.	
+qev33_040.scr:5	qev33_040.scr	5	リカルド	Ricardo Soldato	personagem	CRLF x2	ガキ。\n死にたくなければ、\n今すぐにここを去れ	Kid.\nIf you don't want to die,\nleave this place immediately.	
+qev33_040.scr:6	qev33_040.scr	6	リカルド	Ricardo Soldato	personagem	CRLF x2	さもなければ、命の保障は出来ん。\nいいな。\n二度は言わん	Otherwise, I can't guarantee your life.\nUnderstood?\nI won't say it twice.	
+qev33_050.scr:0	qev33_050.scr	0	リカルド	Ricardo Soldato	personagem		……少々、手間取ったか	...That took a bit longer than expected.	
+qev33_050.scr:1	qev33_050.scr	1	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev33_050.scr:2	qev33_050.scr	2	リカルド	Ricardo Soldato	personagem		……まだいたのか	...You're still here?	
+qev33_050.scr:3	qev33_050.scr	3	リカルド	Ricardo Soldato	personagem	CRLF x1	帰れと言ったはずだ。\nここは、ガキの遊び場ではない	I told you to go home.\nThis isn't a playground for kids.	
+qev33_050.scr:4	qev33_050.scr	4	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev33_050.scr:5	qev33_050.scr	5	リカルド	Ricardo Soldato	personagem		何？　今、アンジュと言ったか？	What? Did you just say Ange?	
+qev33_050.scr:6	qev33_050.scr	6	リカルド	Ricardo Soldato	personagem	CRLF x1	おい。\n詳しく話を聞かせろ	Hey.\nTell me the details.	
+qev33_050.scr:7	qev33_050.scr	7	リカルド	Ricardo Soldato	personagem	CRLF x2	なるほど……。\n確かにお前の探している傭兵、\nリカルド・ソルダートとは俺の事だ	I see...\nThe mercenary you're looking for,\nRicardo Soldato, is indeed me.	
+qev33_050.scr:8	qev33_050.scr	8	リカルド	Ricardo Soldato	personagem	CRLF x2	事情は把握した。\n俺も仕事の報告が終わり次第、\n予定通りギルドへ向かう	I understand the situation.\nOnce I report my job, I will\nhead to the guild as planned.	
+qev33_050.scr:9	qev33_050.scr	9	リカルド	Ricardo Soldato	personagem		セレーナには、そう伝えてくれ	Tell Serena that.	
+qev33_050.scr:10	qev33_050.scr	10	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev33_050.scr:11	qev33_050.scr	11	リカルド	Ricardo Soldato	personagem		……今度はそう時間はかからん	...It won't take long this time.	
+qev33_050.scr:12	qev33_050.scr	12	リカルド	Ricardo Soldato	personagem	CRLF x1	俺と契約を結んでいるのは\nセレーナだけなのだ	The only one I have a contract with\nis Serena.	
+qev33_050.scr:13	qev33_050.scr	13	リカルド	Ricardo Soldato	personagem	CRLF x1	契約は遵守する。\n……それが俺の主義でな	I honor my contracts.\n...That's my principle.	
+qev33_060.scr:0	qev33_060.scr	0	アンジュ	Ange Serena	personagem		ああ、○○	Ah, ○○.	
+qev33_060.scr:1	qev33_060.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	ご苦労様。\n今、ちょうどリカルドさんと\nあなたの話をしていたところなの	Good work.\nRicardo and I were\njust talking about you.	
+qev33_060.scr:2	qev33_060.scr	2	リカルド	Ricardo Soldato	personagem	CRLF x2	また会ったな。\nしかし……、よもやこんなガキが\nギルドで依頼を請け負っているとは……	We meet again.\nBut... to think a kid like you\nis taking on guild requests...	
+qev33_060.scr:3	qev33_060.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	技量も人柄も確かですから。\nギルドのリーダーとしては、\n仕事を任せない理由がありません	Their skills and character are solid.\nAs the guild leader, there's\nno reason not to trust them with work.	
+qev33_060.scr:4	qev33_060.scr	4	リカルド	Ricardo Soldato	personagem		ふむ……	Hmph...	
+qev33_060.scr:5	qev33_060.scr	5	ルカ	Ruca Milda	personagem	CRLF x1	あ……、本当だ。\nリカルドさんだ！	Ah... it's true.\nIt's Ricardo!	
+qev33_060.scr:6	qev33_060.scr	6	イリア	Iria Animi	personagem	CRLF x1	ずいぶん遅い到着じゃない〜？\nもしかして、大御所ぶってるつもり？	Aren't you arriving pretty late?\nAre you trying to act like a big shot?	
+qev33_060.scr:7	qev33_060.scr	7	スパーダ	Spada Belforma	personagem	CRLF x1	いや、単に道に迷ってただけって\n線も残ってるぜェ？	Or maybe there's still the chance\nthat he just got lost?	
+qev33_060.scr:8	qev33_060.scr	8	ルカ	Ruca Milda	personagem	CRLF x1	二人とも、ちょっと……。\n失礼だよ……	You two, please...\nThat's rude...	
+qev33_060.scr:9	qev33_060.scr	9	リカルド	Ricardo Soldato	personagem		……相変わらず騒がしい奴らだ	...Noisy as ever, I see.	
+qev33_060.scr:10	qev33_060.scr	10	リカルド	Ricardo Soldato	personagem	CRLF x1	セレーナ、ひとまず俺は部屋で\n休ませてもらう	Serena, I'm going to my room\nto rest for now.	
+qev33_060.scr:11	qev33_060.scr	11	リカルド	Ricardo Soldato	personagem		仕事の話はそれからだ	We'll talk about work after that.	
+qev33_060.scr:12	qev33_060.scr	12	アンジュ	Ange Serena	personagem		わかりました	Understood.	
+qev33_060.scr:13	qev33_060.scr	13	リカルド	Ricardo Soldato	personagem		ああ	Yeah.	
+qev33_060.scr:14	qev33_060.scr	14	リカルド	Ricardo Soldato	personagem	CRLF x1	言うまでもない事だとは思うが、\nガキ共とは別の部屋で頼む	It should go without saying, but\nI want a room separate from the brats.	
+qev33_060.scr:15	qev33_060.scr	15	スパーダ	Spada Belforma	personagem	CRLF x1	っか〜〜〜、相変わらず\n無愛想な上にムカつく野郎だな！	Gah! He's as unfriendly\nand annoying as ever!	
+qev33_060.scr:16	qev33_060.scr	16	イリア	Iria Animi	personagem	CRLF x1	まぁ、それでこそのおっさんって\n気もするけどね〜	Well, I guess that's what makes\nhim the old man we know.	
+qev33_060.scr:17	qev33_060.scr	17	リカルド	Ricardo Soldato	personagem	CRLF x2	アニーミ。\nその不愉快な呼称は\n慎めと言っていたはずだ	Animi.\nI believe I told you to stop\nusing that unpleasant nickname.	
+qev33_060.scr:18	qev33_060.scr	18	イリア	Iria Animi	personagem	CRLF x2	あ〜ら、そうだったかしらぁ？\nどうもおっさんのお小言は\n右から左みたいで、ごめんなさいね〜♪	Oh my, did you now?\nI'm sorry, but the old man's nagging\ngoes in one ear and out the other!	
+qev33_060.scr:19	qev33_060.scr	19	アンジュ	Ange Serena	personagem	CRLF x1	はいはい。\nじゃれ合うのもそこまで	Okay, okay.\nThat's enough joking around.	
+qev33_060.scr:20	qev33_060.scr	20	アンジュ	Ange Serena	personagem	CRLF x2	とにかく、\n頼もしい仲間が増えたんだから。\nみんな、協力して、仲良くね	Anyway,\nwe have a reliable new ally.\nLet's all work together and get along.	
+qev33_060.scr:21	qev33_060.scr	21	アンジュ	Ange Serena	personagem	CRLF x1	○○もゆっくり体を休めて。\n今日はどうもありがとう	○○, you get some rest too.\nThank you for today.	
+qev33_060.scr:22	qev33_060.scr	22	(mensagem de sistema)	(mensagem de sistema)	sistema		リカルドがアドリビトムに加入しました	Ricardo joined Ad Libitum.	

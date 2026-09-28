@@ -1,0 +1,91 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev02_010.scr:0	cev02_010.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	考えてみたらさ、三人でこうやって\n仕事をするのって初めてだよね	Come to think of it, this is the first\ntime the three of us have worked together.	
+cev02_010.scr:1	cev02_010.scr	1	ミント	Mint Adenade	personagem		そういえばそうですね	Now that you mention it, that is true.	
+cev02_010.scr:2	cev02_010.scr	2	ミント	Mint Adenade	personagem	CRLF x1	同行者の選定は、アンジュさんが\n適性を見て毎回判断されていますから	Ange always evaluates our aptitudes\nwhen selecting companions for a job.	
+cev02_010.scr:3	cev02_010.scr	3	シング	Shing Meteoryte	personagem	CRLF x1	適性、か……。\nなるほどね	Aptitude, huh...?\nI see.	
+cev02_010.scr:4	cev02_010.scr	4	シング	Shing Meteoryte	personagem	CRLF x2	オレが賑やかし担当、\nミントが癒し系担当、\nヴェイグがむっつり系担当って事だね！	So I'm in charge of excitement,\nMint provides the soothing vibes, and\nVeigue is on gloomy silence duty!	
+cev02_010.scr:5	cev02_010.scr	5	ミント	Mint Adenade	personagem		シングさん、それはちょっと……	Shing, that's a bit much...	
+cev02_010.scr:6	cev02_010.scr	6	ミント	Mint Adenade	personagem	CRLF x1	「むっつり」ではなく\nせめて「だんまり」と……	"Instead of ""gloomy"",\nperhaps ""quiet"" would be better..."	
+cev02_010.scr:7	cev02_010.scr	7	ヴェイグ	Veigue Lungberg	personagem		……それはフォローのつもりなのか？	...Is that supposed to make it better?	
+cev02_020.scr:0	cev02_020.scr	0	ミント	Mint Adenade	personagem	CRLF x1	コングマンさんの声は、\n大きくて、よく通る声ですね	Your voice really is loud and carries\nso well, Kongman.	
+cev02_020.scr:1	cev02_020.scr	1	コングマン	Kongman	personagem	CRLF x2	おうよ！\n俺様はチャンピオンだ、\n常に堂々としてなけりゃならねえ	Hell yeah!\nThe Champ has always gotta carry himself\nwith pride and majesty!	
+cev02_020.scr:2	cev02_020.scr	2	コングマン	Kongman	personagem		腹から声を出すのは、基本だぜ！	Projecting from your gut is the basics!	
+cev02_020.scr:3	cev02_020.scr	3	ミント	Mint Adenade	personagem	CRLF x2	でも、……その、\n近くでお話する時は\nもう少し小さな声で話しても……	Still... um, when speaking close by,\nperhaps you could lower your voice\njust a little bit...?	
+cev02_020.scr:4	cev02_020.scr	4	コングマン	Kongman	personagem	CRLF x1	何でぇ？\n俺様の声がうるせえって言いたいのか？	What's that?\nYou saying the Champ's voice is noisy!?	
+cev02_020.scr:5	cev02_020.scr	5	ミント	Mint Adenade	personagem	CRLF x2	そんな事は……。\nただ、せっかく素敵な声なのに\n少し怖い人に感じてしまいます	Not at all...\nIt's just that despite such a fine voice,\npeople might find you a bit scary.	
+cev02_020.scr:6	cev02_020.scr	6	コングマン	Kongman	personagem	CRLF x1	怖い？　\n俺様がか？	Scary?\nThe Champ, scary!?	
+cev02_020.scr:7	cev02_020.scr	7	ミント	Mint Adenade	personagem	CRLF x2	はい。\n大きな音は、人を萎縮させます。\n本能的な反応なのかもしれませんが	Yes.\nLoud noises make people recoil.\nPerhaps it's an instinctive reaction.	
+cev02_020.scr:8	cev02_020.scr	8	コングマン	Kongman	personagem	CRLF x2	んじゃ、フィリアさんも\n俺様の事を怖がってるかも\nしれねえって事か	Does that mean Philia might\nbe scared of the Champ too!?\nCould that really be it...?	
+cev02_020.scr:9	cev02_020.scr	9	ミント	Mint Adenade	personagem	CRLF x2	それは……聞いてみないと\n何とも言えませんが……。\nもしかしたら、そうかもしれません	Well, I couldn't say for sure\nwithout asking her...\nbut that might just be possible.	
+cev02_020.scr:10	cev02_020.scr	10	コングマン	Kongman	personagem		なるほどなぁ……勉強になったぜ	I see... That's quite a lesson.	
+cev02_020.scr:11	cev02_020.scr	11	コングマン	Kongman	personagem		女心ってのは複雑なんだな！！	A woman's heart really is complicated!!	
+cev02_020.scr:12	cev02_020.scr	12	ミント	Mint Adenade	personagem	CRLF x2	ええと……。\n女心とは、\nあまり関係ないと思います……	Um...\nI don't think this has anything\nto do with a woman's heart...	
+cev02_030.scr:0	cev02_030.scr	0	コングマン	Kongman	personagem	CRLF x1	おう、ミント！\nちょっと聞きてぇ事があるんだけどよ	Hey, Mint!\nGot something I wanna ask you.	
+cev02_030.scr:1	cev02_030.scr	1	ミント	Mint Adenade	personagem	CRLF x1	私にわかる事でしたら……。\n何でしょうか？	If it's something I can help with...\nWhat is it?	
+cev02_030.scr:2	cev02_030.scr	2	コングマン	Kongman	personagem	CRLF x2	実は、フィリアさんに\nプ、プレゼントを渡そうと\n思うんだけどよ……	Well, see, I'm thinking of giving\na pr-present to Philia...\nbut I don't know what to get.	
+cev02_030.scr:3	cev02_030.scr	3	ミント	Mint Adenade	personagem	CRLF x1	そうなんですか。\nそれは素敵ですね	Is that so?\nThat sounds wonderful.	
+cev02_030.scr:4	cev02_030.scr	4	コングマン	Kongman	personagem	CRLF x1	だろ？　\nそこで、だ	Right?\nSo here's the thing!	
+cev02_030.scr:5	cev02_030.scr	5	コングマン	Kongman	personagem	CRLF x1	女性ってのは、どんな物を渡されたら\n嬉しいと思うもんなんだ？	What kind of gift makes a woman\nhappy when she gets it?	
+cev02_030.scr:6	cev02_030.scr	6	ミント	Mint Adenade	personagem		そうですね……	Let me see...	
+cev02_030.scr:7	cev02_030.scr	7	ミント	Mint Adenade	personagem	CRLF x2	好みもあるとは思いますが\nどんな人でも、心のこもった贈り物なら\n嬉しく思うのではないでしょうか	Preferences certainly vary, but\nanyone would be happy to receive a gift\nthat comes straight from the heart.	
+cev02_030.scr:8	cev02_030.scr	8	コングマン	Kongman	personagem	CRLF x1	心がこもったもの、か……。\nなるほどな、よし！	From the heart, huh...?\nAll right, got it!	
+cev02_030.scr:9	cev02_030.scr	9	コングマン	Kongman	personagem	CRLF x1	じゃあ、俺様の愛のメッセージ入り\n等身大フィギュアなんてのはどうだ！？	How about a life-sized figure of me\nwith a personalized love message!?	
+cev02_030.scr:10	cev02_030.scr	10	コングマン	Kongman	personagem	CRLF x2	いつでも俺様を身近に感じられる\n自信作だぜ。\nしかも純金製のレア物だ！	A masterpiece that lets her feel\nthe Champ close anytime!\nPlus, it's rare solid gold!	
+cev02_030.scr:11	cev02_030.scr	11	コングマン	Kongman	personagem		どうだ、いい考えだろ！？	Well? Isn't that an awesome idea!?	
+cev02_030.scr:12	cev02_030.scr	12	ミント	Mint Adenade	personagem	CRLF x1	それは……\nあまりおすすめ出来ません	I... really would not\nrecommend doing that.	
+cev02_040.scr:0	cev02_040.scr	0	コングマン	Kongman	personagem		よう……ミント……	Hey... Mint...	
+cev02_040.scr:1	cev02_040.scr	1	ミント	Mint Adenade	personagem		コングマンさん？	Kongman?	
+cev02_040.scr:2	cev02_040.scr	2	ミント	Mint Adenade	personagem	CRLF x1	どうされたんですか。\n随分元気がない様ですが……	What's the matter?\nYou seem terribly downcast...	
+cev02_040.scr:3	cev02_040.scr	3	コングマン	Kongman	personagem	CRLF x2	さっきフィリアさんの所に行ったら\nスタンの奴と楽しそうに\n話しててよぉ……	I just went to see Philia,\nand she was happily chatting\naway with Stahn...	
+cev02_040.scr:4	cev02_040.scr	4	ミント	Mint Adenade	personagem	CRLF x1	そうだったんですか……。\nそれで、落ち込んでいたんですね	Is that what happened...?\nNo wonder you're feeling down.	
+cev02_040.scr:5	cev02_040.scr	5	コングマン	Kongman	personagem	CRLF x1	落ち込む？　\nどうしてだ？	Feeling down?\nWhy would I be down?	
+cev02_040.scr:6	cev02_040.scr	6	ミント	Mint Adenade	personagem	CRLF x2	え？\nスタンさんにやきもちを\n焼いていたのでは……	Huh?\nWeren't you feeling jealous\ntoward Stahn...?	
+cev02_040.scr:7	cev02_040.scr	7	コングマン	Kongman	personagem	CRLF x2	まさか！\n俺様はフィリアさんの\n慈悲深い心に、いたく感動したんだ！	No way!\nI was deeply moved by Philia's\nincredibly merciful heart!	
+cev02_040.scr:8	cev02_040.scr	8	コングマン	Kongman	personagem	CRLF x2	どんな寝ぼすけが相手だろうと\n分け隔て無く、優しく接する……。\nまさしく女神の様じゃねえか	Even to a total sleepyhead,\nshe shows such warmth and kindness...!\nShe's an absolute goddess!	
+cev02_040.scr:9	cev02_040.scr	9	ミント	Mint Adenade	personagem		そ……そうですね	I... I suppose so.	
+cev02_040.scr:10	cev02_040.scr	10	コングマン	Kongman	personagem	CRLF x2	ああ、フィリアさんッ！\nあの笑顔を思い出しただけで\n俺様の心臓は破裂しそうだぁあぁ！！	Oh, Philia!\nJust remembering that smile of hers\nmakes my heart feel like it'll burst!!	
+cev02_040.scr:11	cev02_040.scr	11	ミント	Mint Adenade	personagem	CRLF x2	いけません、\nどうか落ち着いて\n呼吸を整えて下さい！	Oh dear!\nPlease calm down\nand catch your breath!	
+cev02_040.scr:12	cev02_040.scr	12	コングマン	Kongman	personagem		うおおおおおおお！！！！	Woooooaaaaagh!!!!	
+cev02_050.scr:0	cev02_050.scr	0	コングマン	Kongman	personagem	CRLF x2	聞いてくれミント！\n今日はついにフィリアさんに\n１０回話しかける事に成功したぞ！	Listen to this, Mint!\nToday I finally managed to talk\nto Philia ten whole times!	
+cev02_050.scr:1	cev02_050.scr	1	ミント	Mint Adenade	personagem		頑張っているんですね、コングマンさん	You're really working hard, Kongman.	
+cev02_050.scr:2	cev02_050.scr	2	コングマン	Kongman	personagem	CRLF x2	おう！\nフィリアさんと話してると\n元気が無限にわいてくるぜぇ！	Yeah!\nWhenever I talk to Philia,\nlimitless energy wells up inside me!	
+cev02_050.scr:3	cev02_050.scr	3	ミント	Mint Adenade	personagem		その気持ち……わかります	I... understand that feeling.	
+cev02_050.scr:4	cev02_050.scr	4	ミント	Mint Adenade	personagem	CRLF x1	心強い様な、あたたかい様な……、\n不思議な気持ちですよね	It feels reassuring and warm...\nIt's truly a wondrous feeling.	
+cev02_050.scr:5	cev02_050.scr	5	コングマン	Kongman	personagem	CRLF x1	何でぇ？\nミントにも、気になる相手がいるのか？	What's that?\nDo you have someone on your mind, Mint?	
+cev02_050.scr:6	cev02_050.scr	6	ミント	Mint Adenade	personagem	CRLF x1	えっ……？\nそ、そんな事……教えられませんっ	Huh...?\nI-I couldn't possibly tell you that!	
+cev02_200.scr:0	cev02_200.scr	0	ミント	Mint Adenade	personagem	CRLF x1	通常。\n	Normal.\n	Expression test: Normal
+cev02_200.scr:1	cev02_200.scr	1	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:2	cev02_200.scr	2	ミント	Mint Adenade	personagem	CRLF x1	笑い。\n	Laughter.\n	Expression test: Laughter
+cev02_200.scr:3	cev02_200.scr	3	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:4	cev02_200.scr	4	ミント	Mint Adenade	personagem	CRLF x1	怒り。\n	Anger.\n	Expression test: Anger
+cev02_200.scr:5	cev02_200.scr	5	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:6	cev02_200.scr	6	ミント	Mint Adenade	personagem	CRLF x1	悲しみ。\n	Sadness.\n	Expression test: Sadness
+cev02_200.scr:7	cev02_200.scr	7	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:8	cev02_200.scr	8	ミント	Mint Adenade	personagem	CRLF x1	苦笑。\n	Wry smile.\n	Expression test: Wry smile
+cev02_200.scr:9	cev02_200.scr	9	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:10	cev02_200.scr	10	ミント	Mint Adenade	personagem	CRLF x1	落ち込み。\n	Dejected.\n	Expression test: Dejected
+cev02_200.scr:11	cev02_200.scr	11	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:12	cev02_200.scr	12	ミント	Mint Adenade	personagem	CRLF x1	通常。\n	Normal.\n	Expression test: Normal
+cev02_200.scr:13	cev02_200.scr	13	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:14	cev02_200.scr	14	ミント	Mint Adenade	personagem	CRLF x1	笑い。\n	Laughter.\n	Expression test: Laughter
+cev02_200.scr:15	cev02_200.scr	15	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:16	cev02_200.scr	16	ミント	Mint Adenade	personagem	CRLF x1	怒り。\n	Anger.\n	Expression test: Anger
+cev02_200.scr:17	cev02_200.scr	17	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:18	cev02_200.scr	18	ミント	Mint Adenade	personagem	CRLF x1	悲しみ。\n	Sadness.\n	Expression test: Sadness
+cev02_200.scr:19	cev02_200.scr	19	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:20	cev02_200.scr	20	ミント	Mint Adenade	personagem	CRLF x1	苦笑。\n	Wry smile.\n	Expression test: Wry smile
+cev02_200.scr:21	cev02_200.scr	21	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:22	cev02_200.scr	22	ミント	Mint Adenade	personagem	CRLF x1	落ち込み。\n	Dejected.\n	Expression test: Dejected
+cev02_200.scr:23	cev02_200.scr	23	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:24	cev02_200.scr	24	ミント	Mint Adenade	personagem	CRLF x1	通常。\n	Normal.\n	Expression test: Normal
+cev02_200.scr:25	cev02_200.scr	25	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:26	cev02_200.scr	26	ミント	Mint Adenade	personagem	CRLF x1	笑い。\n	Laughter.\n	Expression test: Laughter
+cev02_200.scr:27	cev02_200.scr	27	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:28	cev02_200.scr	28	ミント	Mint Adenade	personagem	CRLF x1	怒り。\n	Anger.\n	Expression test: Anger
+cev02_200.scr:29	cev02_200.scr	29	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:30	cev02_200.scr	30	ミント	Mint Adenade	personagem	CRLF x1	悲しみ。\n	Sadness.\n	Expression test: Sadness
+cev02_200.scr:31	cev02_200.scr	31	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:32	cev02_200.scr	32	ミント	Mint Adenade	personagem	CRLF x1	苦笑。\n	Wry smile.\n	Expression test: Wry smile
+cev02_200.scr:33	cev02_200.scr	33	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev02_200.scr:34	cev02_200.scr	34	ミント	Mint Adenade	personagem	CRLF x1	落ち込み。\n	Dejected.\n	Expression test: Dejected
+cev02_200.scr:35	cev02_200.scr	35	ミント	Mint Adenade	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)

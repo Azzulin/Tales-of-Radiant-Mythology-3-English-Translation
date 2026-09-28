@@ -1,0 +1,3456 @@
+{
+ "categorias": {
+  "head_equip": {
+   "arena_bytes": 17685,
+   "pool_atual_bytes": 18548,
+   "folga_atual": -863,
+   "meta_bytes_a_cortar": 2277,
+   "itens": [
+    {
+     "id": "head_equip#473",
+     "jp": "正道から外れ異端の道を行く術士の頭飾り",
+     "en": "A headdress worn by a spellcaster who strays from righteousness onto heretical paths.",
+     "bytes": 85
+    },
+    {
+     "id": "head_equip#271",
+     "jp": "神前儀式で活発な動きで舞う者の額当て",
+     "en": "A forehead guard worn by dancers performing lively ritual dances before the gods.",
+     "bytes": 81
+    },
+    {
+     "id": "head_equip#440",
+     "jp": "神前儀式で勇猛な動きで舞う者の額当て",
+     "en": "A forehead guard worn by dancers performing fierce ritual dances before the gods.",
+     "bytes": 81
+    },
+    {
+     "id": "head_equip#103",
+     "jp": "神前儀式で静穏な動きで舞う者の額当て",
+     "en": "A forehead guard worn by dancers performing calm ritual dances before the gods.",
+     "bytes": 79
+    },
+    {
+     "id": "head_equip#453",
+     "jp": "魂で超常的存在と接触する者が着用する頭飾り",
+     "en": "A headdress worn by those who contact paranormal entities through the soul.",
+     "bytes": 75
+    },
+    {
+     "id": "head_equip#389",
+     "jp": "伝説の巨神と見紛う防御と威圧感の兜",
+     "en": "A helm with defense and intimidation mistaken for the legendary colossus.",
+     "bytes": 73
+    },
+    {
+     "id": "head_equip#136",
+     "jp": "掟を破り破門された術士の頭飾り",
+     "en": "A headdress worn by a spellcaster excommunicated for breaking the rules.",
+     "bytes": 72
+    },
+    {
+     "id": "head_equip#287",
+     "jp": "中佐の階級の者が着用する第二種礼装用の帽子",
+     "en": "A Type 2 dress cap worn by those holding the rank of Lieutenant Colonel.",
+     "bytes": 72
+    },
+    {
+     "id": "head_equip#461",
+     "jp": "城の親衛隊長となった術者の帽子",
+     "en": "A cap worn by spellcasters who serve as royal praetorian guard captains.",
+     "bytes": 72
+    },
+    {
+     "id": "head_equip#116",
+     "jp": "魂の開放を求めて踊る者が着用する頭飾り",
+     "en": "A headdress worn by those who dance seeking the liberation of the soul.",
+     "bytes": 71
+    },
+    {
+     "id": "head_equip#354",
+     "jp": "戦鬼となった闘士が身に着けるという額当て",
+     "en": "A forehead guard said to be worn by warriors turned into battle demons.",
+     "bytes": 71
+    },
+    {
+     "id": "head_equip#406",
+     "jp": "説法に赴く僧正が着用する額当て",
+     "en": "A forehead guard worn by high Buddhist prelates on their way to preach.",
+     "bytes": 71
+    },
+    {
+     "id": "head_equip#500",
+     "jp": "伝説のパタンナーが現代に蘇らせた古代の帽子",
+     "en": "An ancient hat resurrected in modern times by a legendary patternmaker.",
+     "bytes": 71
+    },
+    {
+     "id": "head_equip#598",
+     "jp": "その昔、野心あふれる勇将が用いたとされる兜",
+     "en": "A helm said to have been used in ancient times by an ambitious general.",
+     "bytes": 71
+    },
+    {
+     "id": "head_equip#372",
+     "jp": "古の聖人マイトレヤに正義を誓う者が着用する兜",
+     "en": "A helm worn by those who swear justice to the ancient saint Maitreya.",
+     "bytes": 69
+    },
+    {
+     "id": "head_equip#484",
+     "jp": "この頭飾りを着ける者は神託を得られると言われる",
+     "en": "It is said that whoever wears this headdress receives divine oracles.",
+     "bytes": 69
+    },
+    {
+     "id": "head_equip#35",
+     "jp": "古の聖人ジャーメインに正義を誓う者が着用する兜",
+     "en": "A helm worn by those who swear justice to the ancient saint Germain.",
+     "bytes": 68
+    },
+    {
+     "id": "head_equip#344",
+     "jp": "最大の弱点となる頭部を完全なまでに保護する兜",
+     "en": "A helm that thoroughly protects the head, one's greatest weak point.",
+     "bytes": 68
+    },
+    {
+     "id": "head_equip#602",
+     "jp": "その昔、暗黒に属する騎士が装備していたと言われる",
+     "en": "Said to have been equipped in ancient times by a knight of darkness.",
+     "bytes": 68
+    },
+    {
+     "id": "head_equip#604",
+     "jp": "天使がその証として着けたとされるサークレット",
+     "en": "A circlet said to have been worn by angels as proof of their nature.",
+     "bytes": 68
+    },
+    {
+     "id": "head_equip#203",
+     "jp": "古の聖人クスミに正義を誓う者が着用する兜",
+     "en": "A helm worn by those who swear justice to the ancient saint Kusumi.",
+     "bytes": 67
+    },
+    {
+     "id": "head_equip#378",
+     "jp": "千夜一夜の魔法の国で鰐を意味する兜",
+     "en": "A helm meaning crocodile in the magical land of the Arabian Nights.",
+     "bytes": 67
+    },
+    {
+     "id": "head_equip#596",
+     "jp": "イシュタル伝説に名を残す勇者ギルガメシュの兜",
+     "en": "The helm of Gilgamesh, the hero remembered in the Legend of Ishtar.",
+     "bytes": 67
+    },
+    {
+     "id": "head_equip#610",
+     "jp": "銀河の如き深き真理を得るという伝説の帽子",
+     "en": "A legendary hat said to grant profound truth as deep as the galaxy.",
+     "bytes": 67
+    },
+    {
+     "id": "head_equip#247",
+     "jp": "法敵を討つ僧兵の頭巾",
+     "en": "A hood worn by warrior monks who strike down enemies of the faith.",
+     "bytes": 66
+    },
+    {
+     "id": "head_equip#33",
+     "jp": "古式の製法で作られた全身鎧の頭部",
+     "en": "The headpiece of a full plate armor made with ancient techniques.",
+     "bytes": 65
+    },
+    {
+     "id": "head_equip#61",
+     "jp": "とある民族の守り神ファルコンの加護を受けた頭飾り",
+     "en": "A headdress blessed by Falcon, guardian deity of a certain tribe.",
+     "bytes": 65
+    },
+    {
+     "id": "head_equip#209",
+     "jp": "千夜一夜の魔法の国で蛇を意味する兜",
+     "en": "A helm meaning serpent in the magical land of the Arabian Nights.",
+     "bytes": 65
+    },
+    {
+     "id": "head_equip#370",
+     "jp": "伝説の製法で作られた全身鎧の頭部",
+     "en": "The headpiece of full plate armor made with legendary techniques.",
+     "bytes": 65
+    },
+    {
+     "id": "head_equip#383",
+     "jp": "守護騎士団所属の証となる頭飾り",
+     "en": "A headdress serving as proof of membership in the Guardian Order.",
+     "bytes": 65
+    },
+    {
+     "id": "head_equip#498",
+     "jp": "天空の星の力で身を守る帽子",
+     "en": "A cap that protects the wearer with the power of celestial stars.",
+     "bytes": 65
+    },
+    {
+     "id": "head_equip#84",
+     "jp": "物の怪土蜘蛛を討伐する者が着用する鉢巻",
+     "en": "A headband worn by those who subjugate the monstrous Tsuchigumo.",
+     "bytes": 64
+    },
+    {
+     "id": "head_equip#398",
+     "jp": "とある民族の守り神イーグルの加護を受けた頭飾り",
+     "en": "A headdress blessed by Eagle, guardian deity of a certain tribe.",
+     "bytes": 64
+    },
+    {
+     "id": "head_equip#46",
+     "jp": "騎士団所属の証となる頭飾り",
+     "en": "A headdress serving as proof of membership in the knight order.",
+     "bytes": 63
+    },
+    {
+     "id": "head_equip#69",
+     "jp": "修行に励む修行僧が着用する額当て",
+     "en": "A forehead guard worn by an ascetic monk dedicated to training.",
+     "bytes": 63
+    },
+    {
+     "id": "head_equip#88",
+     "jp": "呪術師イエロー・スパイダーが祈祷したオーナメント",
+     "en": "An ornament blessed through prayer by the shaman Yellow Spider.",
+     "bytes": 63
+    },
+    {
+     "id": "head_equip#229",
+     "jp": "とある民族の守り神ホークの加護を受けた頭飾り",
+     "en": "A headdress blessed by Hawk, guardian deity of a certain tribe.",
+     "bytes": 63
+    },
+    {
+     "id": "head_equip#364",
+     "jp": "東方の戦の麒麟児義経が着用していた兜",
+     "en": "A helm once worn by Yoshitsune, the prodigy of war of the east.",
+     "bytes": 63
+    },
+    {
+     "id": "head_equip#559",
+     "jp": "ディセンダーの為に作られた魔法剣士専用の額当て",
+     "en": "A forehead guard crafted for a Spellsword who is the Descender.",
+     "bytes": 63
+    },
+    {
+     "id": "head_equip#94",
+     "jp": "入門したての功夫使いが着用する髪飾り",
+     "en": "A hair ornament worn by newly initiated kung fu practitioners.",
+     "bytes": 62
+    },
+    {
+     "id": "head_equip#262",
+     "jp": "小龍の位を持つ功夫使いが着用する髪飾り",
+     "en": "A hair ornament worn by kung fu artists of Little Dragon rank.",
+     "bytes": 62
+    },
+    {
+     "id": "head_equip#434",
+     "jp": "竜の調教を生業とする者が着用する額当て",
+     "en": "A forehead guard worn by those who train dragons for a living.",
+     "bytes": 62
+    },
+    {
+     "id": "head_equip#514",
+     "jp": "ディセンダーと認められた魔法剣士専用の額当て",
+     "en": "A forehead guard for a Spellsword recognized as the Descender.",
+     "bytes": 62
+    },
+    {
+     "id": "head_equip#600",
+     "jp": "神話に登場する神が着けたとされる伝説の兜",
+     "en": "A legendary helm said to have been worn by a god of mythology.",
+     "bytes": 62
+    },
+    {
+     "id": "head_equip#41",
+     "jp": "千夜一夜の魔法の国で蜂を意味する兜",
+     "en": "A helm meaning bee in the magical land of the Arabian Nights.",
+     "bytes": 61
+    },
+    {
+     "id": "head_equip#52",
+     "jp": "抜群の防御と威圧感の兜",
+     "en": "A helm with exceptional defense and an intimidating presence.",
+     "bytes": 61
+    },
+    {
+     "id": "head_equip#79",
+     "jp": "荒行に挑む修行僧の頭巾",
+     "en": "A hood worn by an ascetic monk undertaking harsh austerities.",
+     "bytes": 61
+    },
+    {
+     "id": "head_equip#214",
+     "jp": "聖騎士団所属の証となる頭飾り",
+     "en": "A headdress serving as proof of membership in the Holy Order.",
+     "bytes": 61
+    },
+    {
+     "id": "head_equip#265",
+     "jp": "虎の調教を生業とする者が着用する額当て",
+     "en": "A forehead guard worn by those who train tigers for a living.",
+     "bytes": 61
+    },
+    {
+     "id": "head_equip#304",
+     "jp": "外法の術を使う術士の頭飾り",
+     "en": "A headdress worn by spellcasters who practice forbidden arts.",
+     "bytes": 61
+    },
+    {
+     "id": "head_equip#411",
+     "jp": "総督が警備の巡察で着用する帽子",
+     "en": "A cap worn by the governor general while inspecting defenses.",
+     "bytes": 61
+    },
+    {
+     "id": "head_equip#425",
+     "jp": "呪術師シルバー・ピューマが祈祷したオーナメント",
+     "en": "An ornament blessed through prayer by the shaman Silver Puma.",
+     "bytes": 61
+    },
+    {
+     "id": "head_equip#449",
+     "jp": "魔術結社で被免達人の階位に与えられる帽子",
+     "en": "A hat awarded to the Exempt Master rank in a magical society.",
+     "bytes": 61
+    },
+    {
+     "id": "head_equip#456",
+     "jp": "大佐の階級の者が着用する第二種礼装用の帽子",
+     "en": "A Type 2 dress cap worn by those holding the rank of Colonel.",
+     "bytes": 61
+    },
+    {
+     "id": "head_equip#606",
+     "jp": "伝説の海賊アイフリードが着用していたとされる帽子",
+     "en": "A hat said to have been worn by the legendary pirate Aifread.",
+     "bytes": 61
+    },
+    {
+     "id": "head_equip#710",
+     "jp": "ここ一発の気合を入れる時にどうぞ",
+     "en": "Put this on when you need to muster all your fighting spirit.",
+     "bytes": 61
+    },
+    {
+     "id": "head_equip#256",
+     "jp": "呪術師レッド・コヨーテが祈祷したオーナメント",
+     "en": "An ornament blessed through prayer by the shaman Red Coyote.",
+     "bytes": 60
+    },
+    {
+     "id": "head_equip#268",
+     "jp": "校則に定められた晶霊学士用の帽子",
+     "en": "A hat prescribed by school regulations for Craymel scholars.",
+     "bytes": 60
+    },
+    {
+     "id": "head_equip#284",
+     "jp": "新しい魂の道を求める者が着用する頭飾り",
+     "en": "A headdress worn by those who seek the path of the new soul.",
+     "bytes": 60
+    },
+    {
+     "id": "head_equip#292",
+     "jp": "城の近衛兵となった術者の帽子",
+     "en": "A cap worn by spellcasters who serve as royal castle guards.",
+     "bytes": 60
+    },
+    {
+     "id": "head_equip#329",
+     "jp": "かつて天上人が着用したという帽子",
+     "en": "A hat said to have been worn by celestials in ancient times.",
+     "bytes": 60
+    },
+    {
+     "id": "head_equip#431",
+     "jp": "龍王の位を持つ功夫使いが着用する髪飾り",
+     "en": "A hair ornament worn by kung fu artists of Dragon King rank.",
+     "bytes": 60
+    },
+    {
+     "id": "head_equip#443",
+     "jp": "聖獣白虎の名を冠する髪飾り",
+     "en": "A hair ornament bearing the name of the sacred beast Byakko.",
+     "bytes": 60
+    },
+    {
+     "id": "head_equip#7",
+     "jp": "顔を隠す事で恥ずかしさを軽減する為の兜",
+     "en": "A helm designed to reduce embarrassment by hiding the face.",
+     "bytes": 59
+    },
+    {
+     "id": "head_equip#97",
+     "jp": "犬の調教を生業とする者が着用する額当て",
+     "en": "A forehead guard worn by those who train dogs for a living.",
+     "bytes": 59
+    },
+    {
+     "id": "head_equip#119",
+     "jp": "少佐の階級の者が着用する第二種礼装用の帽子",
+     "en": "A Type 2 dress cap worn by those holding the rank of Major.",
+     "bytes": 59
+    },
+    {
+     "id": "head_equip#274",
+     "jp": "聖獣玄武の名を冠する髪飾り",
+     "en": "A hair ornament bearing the name of the sacred beast Genbu.",
+     "bytes": 59
+    },
+    {
+     "id": "head_equip#280",
+     "jp": "魔術結社で大達人の階位に与えられる帽子",
+     "en": "A hat awarded to the Grandmaster rank in a magical society.",
+     "bytes": 59
+    },
+    {
+     "id": "head_equip#421",
+     "jp": "物の怪天狗を討伐する者が着用する鉢巻",
+     "en": "A headband worn by those who subjugate the monstrous Tengu.",
+     "bytes": 59
+    },
+    {
+     "id": "head_equip#437",
+     "jp": "校則に定められた精霊学士用の帽子",
+     "en": "A hat prescribed by school regulations for spirit scholars.",
+     "bytes": 59
+    },
+    {
+     "id": "head_equip#478",
+     "jp": "宇宙存在エイワスの波動を受けた帽子",
+     "en": "A hat infused with vibrations from the cosmic being Aiwass.",
+     "bytes": 59
+    },
+    {
+     "id": "head_equip#486",
+     "jp": "夜空を支配する月の力で満ちた帽子",
+     "en": "A hat filled with the lunar power that rules the night sky.",
+     "bytes": 59
+    },
+    {
+     "id": "head_equip#707",
+     "jp": "皆様の要望にお応えして部位ごとに装備可能に！",
+     "en": "In response to popular demand, can now be equipped by part!",
+     "bytes": 59
+    },
+    {
+     "id": "head_equip#141",
+     "jp": "宇宙存在アリオンの波動を受けた帽子",
+     "en": "A hat infused with vibrations from the cosmic being Arion.",
+     "bytes": 58
+    },
+    {
+     "id": "head_equip#195",
+     "jp": "東方の大男弁慶が着用していた兜",
+     "en": "A helm once worn by Benkei, the giant warrior of the east.",
+     "bytes": 58
+    },
+    {
+     "id": "head_equip#220",
+     "jp": "巨人と見紛う防御と威圧感の兜",
+     "en": "A helm with defense and intimidation mistaken for a giant.",
+     "bytes": 58
+    },
+    {
+     "id": "head_equip#416",
+     "jp": "教義を広める僧正の頭巾",
+     "en": "A hood worn by high Buddhist prelates who spread doctrine.",
+     "bytes": 58
+    },
+    {
+     "id": "head_equip#428",
+     "jp": "謎の暗殺教団が着用するアイパッチ",
+     "en": "An eyepatch worn by members of a mysterious assassin cult.",
+     "bytes": 58
+    },
+    {
+     "id": "head_equip#571",
+     "jp": "ディセンダーの為に作られた忍者専用の額当て",
+     "en": "A forehead guard crafted for a Ninja who is the Descender.",
+     "bytes": 58
+    },
+    {
+     "id": "head_equip#586",
+     "jp": "ディセンダーの為に作られた大剣士専用の兜",
+     "en": "A helm crafted for a Great Swordsman who is the Descender.",
+     "bytes": 58
+    },
+    {
+     "id": "head_equip#54",
+     "jp": "魔界の大公爵アスタロトの福音を受けたホーン",
+     "en": "Horns blessed by Astaroth, Grand Duke of the Demon Realm.",
+     "bytes": 57
+    },
+    {
+     "id": "head_equip#252",
+     "jp": "物の怪鵺を討伐する者が着用する鉢巻",
+     "en": "A headband worn by those who subjugate the monstrous Nue.",
+     "bytes": 57
+    },
+    {
+     "id": "head_equip#317",
+     "jp": "三日月の様な美しい輝きを放つ帽子",
+     "en": "A hat giving off a beautiful crescent moon-like radiance.",
+     "bytes": 57
+    },
+    {
+     "id": "head_equip#526",
+     "jp": "ディセンダーと認められた忍者専用の額当て",
+     "en": "A forehead guard for a Ninja recognized as the Descender.",
+     "bytes": 57
+    },
+    {
+     "id": "head_equip#541",
+     "jp": "ディセンダーと認められた大剣士専用の兜",
+     "en": "A helm for a Great Swordsman recognized as the Descender.",
+     "bytes": 57
+    },
+    {
+     "id": "head_equip#562",
+     "jp": "ディセンダーの為に作られた格闘家専用のバンド",
+     "en": "A band crafted for a Martial Artist who is the Descender.",
+     "bytes": 57
+    },
+    {
+     "id": "head_equip#583",
+     "jp": "ディセンダーの為に作られた双剣士専用の兜",
+     "en": "A helm crafted for a Twin Swordsman who is the Descender.",
+     "bytes": 57
+    },
+    {
+     "id": "head_equip#657",
+     "jp": "コレを身に着ければ一人でもさびしくない？",
+     "en": "If you wear this, won't you never feel lonely even alone?",
+     "bytes": 57
+    },
+    {
+     "id": "head_equip#131",
+     "jp": "尊敬を一身に集める術士の帽子",
+     "en": "A hat for a spellcaster who commands widespread respect.",
+     "bytes": 56
+    },
+    {
+     "id": "head_equip#234",
+     "jp": "霊威みなぎる鉢金",
+     "en": "A forehead protector overflowing with spiritual majesty.",
+     "bytes": 56
+    },
+    {
+     "id": "head_equip#277",
+     "jp": "熱心者の術士が着用する額当て",
+     "en": "A forehead guard worn by dedicated zealous spellcasters.",
+     "bytes": 56
+    },
+    {
+     "id": "head_equip#517",
+     "jp": "ディセンダーと認められた格闘家専用のバンド",
+     "en": "A band for a Martial Artist recognized as the Descender.",
+     "bytes": 56
+    },
+    {
+     "id": "head_equip#538",
+     "jp": "ディセンダーと認められた双剣士専用の兜",
+     "en": "A helm for a Twin Swordsman recognized as the Descender.",
+     "bytes": 56
+    },
+    {
+     "id": "head_equip#17",
+     "jp": "一匹狼の戦士が身に着けるという額当て",
+     "en": "A forehead guard said to be worn by lone wolf warriors.",
+     "bytes": 55
+    },
+    {
+     "id": "head_equip#175",
+     "jp": "顔だけは見せぬがこの装備の流儀",
+     "en": "Never showing one's face is the principle of this gear.",
+     "bytes": 55
+    },
+    {
+     "id": "head_equip#222",
+     "jp": "魔界の君主ベルゼバブの福音を受けたホーン",
+     "en": "Horns blessed by Beelzebub, monarch of the Demon Realm.",
+     "bytes": 55
+    },
+    {
+     "id": "head_equip#309",
+     "jp": "宇宙存在ラーの波動を受けた帽子",
+     "en": "A hat infused with vibrations from the cosmic being Ra.",
+     "bytes": 55
+    },
+    {
+     "id": "head_equip#496",
+     "jp": "精霊の羽根を素材にしたアクセサリー",
+     "en": "An accessory crafted using spirit feathers as material.",
+     "bytes": 55
+    },
+    {
+     "id": "head_equip#568",
+     "jp": "ディセンダーの為に作られた盗賊専用のドミノ",
+     "en": "A domino mask crafted for a Thief who is the Descender.",
+     "bytes": 55
+    },
+    {
+     "id": "head_equip#106",
+     "jp": "飛翔する朱雀を彷彿させる軽やかな髪飾り",
+     "en": "A light hair ornament reminiscent of a soaring Suzaku.",
+     "bytes": 54
+    },
+    {
+     "id": "head_equip#124",
+     "jp": "城の衛士となった術者の帽子",
+     "en": "A cap worn by spellcasters who serve as castle guards.",
+     "bytes": 54
+    },
+    {
+     "id": "head_equip#315",
+     "jp": "神官の礼服用の頭飾り",
+     "en": "A headdress worn with ceremonial vestments of priests.",
+     "bytes": 54
+    },
+    {
+     "id": "head_equip#327",
+     "jp": "妖精の羽根を素材にしたアクセサリー",
+     "en": "An accessory crafted using fairy feathers as material.",
+     "bytes": 54
+    },
+    {
+     "id": "head_equip#361",
+     "jp": "竜の威風を持つ頭部用防具",
+     "en": "Headgear possessing the majestic presence of a dragon.",
+     "bytes": 54
+    },
+    {
+     "id": "head_equip#466",
+     "jp": "裏地に神秘文様を施した帽子",
+     "en": "A hat with mysterious runes embroidered on its lining.",
+     "bytes": 54
+    },
+    {
+     "id": "head_equip#523",
+     "jp": "ディセンダーと認められた盗賊専用のドミノ",
+     "en": "A domino mask for a Thief recognized as the Descender.",
+     "bytes": 54
+    },
+    {
+     "id": "head_equip#594",
+     "jp": "ディセンダーの為に作られたガンマン専用の頭飾り",
+     "en": "A headdress crafted for a Gunman who is the Descender.",
+     "bytes": 54
+    },
+    {
+     "id": "head_equip#39",
+     "jp": "ナイトの称号を持つ者に与えられる兜",
+     "en": "A helm granted to those who hold the title of Knight.",
+     "bytes": 53
+    },
+    {
+     "id": "head_equip#112",
+     "jp": "魔術結社で小達人の階位に与えられる帽子",
+     "en": "A hat awarded to the Adept rank in a magical society.",
+     "bytes": 53
+    },
+    {
+     "id": "head_equip#159",
+     "jp": "白鳥の羽根を素材にしたアクセサリー",
+     "en": "An accessory crafted using swan feathers as material.",
+     "bytes": 53
+    },
+    {
+     "id": "head_equip#391",
+     "jp": "魔界の皇帝ルシフェルの福音を受けたホーン",
+     "en": "Horns blessed by Lucifel, Emperor of the Demon Realm.",
+     "bytes": 53
+    },
+    {
+     "id": "head_equip#481",
+     "jp": "東方の秘神クラヤマツミの加護を受けた帽子",
+     "en": "A hat blessed by Kurayamatsumi, a secret eastern god.",
+     "bytes": 53
+    },
+    {
+     "id": "head_equip#491",
+     "jp": "東方で最も高位の貴族が着用する帽子",
+     "en": "A hat worn by the highest-ranking nobles of the east.",
+     "bytes": 53
+    },
+    {
+     "id": "head_equip#550",
+     "jp": "ディセンダーと認められたガンマン専用の頭飾り",
+     "en": "A headdress for a Gunman recognized as the Descender.",
+     "bytes": 53
+    },
+    {
+     "id": "head_equip#592",
+     "jp": "ディセンダーの為に作られた聖騎士専用の冠",
+     "en": "A coronet crafted for a Paladin who is the Descender.",
+     "bytes": 53
+    },
+    {
+     "id": "head_equip#608",
+     "jp": "どんな熱をも通さぬとされるガラスで作られた頭飾り",
+     "en": "A headdress made of glass said to withstand any heat.",
+     "bytes": 53
+    },
+    {
+     "id": "head_equip#612",
+     "jp": "ソウルフルな貴方に捧ぐ至高の一品",
+     "en": "A supreme masterpiece dedicated to your soulful self.",
+     "bytes": 53
+    },
+    {
+     "id": "head_equip#680",
+     "jp": "ねこにん専用のマスク、とてもモフモフな一品です",
+     "en": "A mask exclusive to Katz, an exceedingly fluffy item.",
+     "bytes": 53
+    },
+    {
+     "id": "head_equip#48",
+     "jp": "堅い守りと重量感溢れる兜",
+     "en": "A helm brimming with heavy weight and solid defense.",
+     "bytes": 52
+    },
+    {
+     "id": "head_equip#100",
+     "jp": "校則に定められた学士用の帽子",
+     "en": "A hat prescribed by school regulations for scholars.",
+     "bytes": 52
+    },
+    {
+     "id": "head_equip#147",
+     "jp": "祈祷用に作られた頭飾り",
+     "en": "A headdress crafted specifically for prayer rituals.",
+     "bytes": 52
+    },
+    {
+     "id": "head_equip#156",
+     "jp": "マフィアの相談役顧問が着用する帽子",
+     "en": "A hat worn by advisors and consiglieri of the mafia.",
+     "bytes": 52
+    },
+    {
+     "id": "head_equip#185",
+     "jp": "無法者の戦士が身に着けるという額当て",
+     "en": "A forehead guard said to be worn by outlaw warriors.",
+     "bytes": 52
+    },
+    {
+     "id": "head_equip#207",
+     "jp": "バロンの称号を持つ者に与えられる兜",
+     "en": "A helm granted to those who hold the title of Baron.",
+     "bytes": 52
+    },
+    {
+     "id": "head_equip#237",
+     "jp": "寺院警備の僧兵が着用する額当て",
+     "en": "A forehead guard worn by temple guard warrior monks.",
+     "bytes": 52
+    },
+    {
+     "id": "head_equip#299",
+     "jp": "信頼を一身に集める術士の帽子",
+     "en": "A hat for a spellcaster who commands complete trust.",
+     "bytes": 52
+    },
+    {
+     "id": "head_equip#357",
+     "jp": "覇龍の魂が宿るといわれる兜",
+     "en": "A helm said to house the soul of the Supreme Dragon.",
+     "bytes": 52
+    },
+    {
+     "id": "head_equip#505",
+     "jp": "虹色に輝く宝石で作られたアクセサリー",
+     "en": "An accessory crafted from rainbow-shining gemstones.",
+     "bytes": 52
+    },
+    {
+     "id": "head_equip#547",
+     "jp": "ディセンダーと認められた聖騎士専用の冠",
+     "en": "A coronet for a Paladin recognized as the Descender.",
+     "bytes": 52
+    },
+    {
+     "id": "head_equip#556",
+     "jp": "ディセンダーの為に作られた剣士専用の兜",
+     "en": "A helm crafted for a Swordsman who is the Descender.",
+     "bytes": 52
+    },
+    {
+     "id": "head_equip#713",
+     "jp": "あの謎の仮面の戦士にあなたもなれる？",
+     "en": "Could you too become that mysterious masked warrior?",
+     "bytes": 52
+    },
+    {
+     "id": "head_equip#173",
+     "jp": "霊草ガルヒーナの名を冠する兜",
+     "en": "A helm bearing the name of the sacred herb Galhina.",
+     "bytes": 51
+    },
+    {
+     "id": "head_equip#376",
+     "jp": "デュークの称号を持つ者に与えられる兜",
+     "en": "A helm granted to those who hold the title of Duke.",
+     "bytes": 51
+    },
+    {
+     "id": "head_equip#464",
+     "jp": "名軍師が好んで着用する頭飾り",
+     "en": "A headdress favored by renowned master strategists.",
+     "bytes": 51
+    },
+    {
+     "id": "head_equip#511",
+     "jp": "ディセンダーと認められた剣士専用の兜",
+     "en": "A helm for a Swordsman recognized as the Descender.",
+     "bytes": 51
+    },
+    {
+     "id": "head_equip#662",
+     "jp": "西方のお祭りに欠かせないカボチャの飾り",
+     "en": "A pumpkin ornament essential for western festivals.",
+     "bytes": 51
+    },
+    {
+     "id": "head_equip#677",
+     "jp": "未練毛がとても魅力的なキャップ",
+     "en": "A very charming cap with lingering strands of hair.",
+     "bytes": 51
+    },
+    {
+     "id": "head_equip#719",
+     "jp": "伝説の海賊アイフリードの帽子が今ここに！",
+     "en": "The legendary pirate Aifread's hat is here at last!",
+     "bytes": 51
+    },
+    {
+     "id": "head_equip#5",
+     "jp": "霊草ブラフミーの名を冠する兜",
+     "en": "A helm bearing the name of the sacred herb Brahmi.",
+     "bytes": 50
+    },
+    {
+     "id": "head_equip#149",
+     "jp": "古き月の女神を信仰する者の帽子",
+     "en": "A hat for worshippers of the ancient moon goddess.",
+     "bytes": 50
+    },
+    {
+     "id": "head_equip#192",
+     "jp": "風の如き動作を可能にした頭部用防具",
+     "en": "Headgear that enables movements swift as the wind.",
+     "bytes": 50
+    },
+    {
+     "id": "head_equip#295",
+     "jp": "名策士が好んで着用する頭飾り",
+     "en": "A headdress favored by renowned master tacticians.",
+     "bytes": 50
+    },
+    {
+     "id": "head_equip#301",
+     "jp": "着る者の目標達成を助けるという帽子",
+     "en": "A cap said to help the wearer achieve their goals.",
+     "bytes": 50
+    },
+    {
+     "id": "head_equip#312",
+     "jp": "東方の秘神ミカハヤヒの加護を受けた帽子",
+     "en": "A hat blessed by Mikahayahi, a secret eastern god.",
+     "bytes": 50
+    },
+    {
+     "id": "head_equip#553",
+     "jp": "ディセンダーの為に作られた戦士専用の兜",
+     "en": "A helm crafted for a Warrior who is the Descender.",
+     "bytes": 50
+    },
+    {
+     "id": "head_equip#580",
+     "jp": "ディセンダーの為に作られたビショップ専用のミトル",
+     "en": "A mitre crafted for a Bishop who is the Descender.",
+     "bytes": 50
+    },
+    {
+     "id": "head_equip#20",
+     "jp": "小龍の魂が宿るといわれる兜",
+     "en": "A helm said to house the soul of a little dragon.",
+     "bytes": 49
+    },
+    {
+     "id": "head_equip#37",
+     "jp": "鎧武者を彷彿とさせる兜",
+     "en": "A helm reminiscent of an armored samurai warrior.",
+     "bytes": 49
+    },
+    {
+     "id": "head_equip#43",
+     "jp": "獣神ガネーシャの名を冠する兜",
+     "en": "A helm bearing the name of the beast god Ganesha.",
+     "bytes": 49
+    },
+    {
+     "id": "head_equip#188",
+     "jp": "龍王の魂が宿るといわれる兜",
+     "en": "A helm said to house the soul of the Dragon King.",
+     "bytes": 49
+    },
+    {
+     "id": "head_equip#211",
+     "jp": "獣神ハヌマーンの名を冠する兜",
+     "en": "A helm bearing the name of the beast god Hanuman.",
+     "bytes": 49
+    },
+    {
+     "id": "head_equip#342",
+     "jp": "霊草トゥルシーの名を冠する兜",
+     "en": "A helm bearing the name of the sacred herb Tulsi.",
+     "bytes": 49
+    },
+    {
+     "id": "head_equip#408",
+     "jp": "歴戦の傭兵の活動に適したゴーグル",
+     "en": "Goggles suitable for battle-hardened mercenaries.",
+     "bytes": 49
+    },
+    {
+     "id": "head_equip#446",
+     "jp": "実践者の術士が着用する額当て",
+     "en": "A forehead guard worn by practicing spellcasters.",
+     "bytes": 49
+    },
+    {
+     "id": "head_equip#508",
+     "jp": "ディセンダーと認められた戦士専用の兜",
+     "en": "A helm for a Warrior recognized as the Descender.",
+     "bytes": 49
+    },
+    {
+     "id": "head_equip#535",
+     "jp": "ディセンダーと認められたビショップ専用のミトル",
+     "en": "A mitre for a Bishop recognized as the Descender.",
+     "bytes": 49
+    },
+    {
+     "id": "head_equip#66",
+     "jp": "妙なる光を湛えた鉢金",
+     "en": "A forehead protector filled with wondrous light.",
+     "bytes": 48
+    },
+    {
+     "id": "head_equip#138",
+     "jp": "不思議な魔力が込められた可愛い帽子",
+     "en": "A cute cap imbued with mysterious magical power.",
+     "bytes": 48
+    },
+    {
+     "id": "head_equip#161",
+     "jp": "煌めく星をイメージした帽子",
+     "en": "A cap designed in the image of glittering stars.",
+     "bytes": 48
+    },
+    {
+     "id": "head_equip#259",
+     "jp": "軍属の粛清執行人が着用するアイパッチ",
+     "en": "An eyepatch worn by military purge executioners.",
+     "bytes": 48
+    },
+    {
+     "id": "head_equip#380",
+     "jp": "獣神アヌビスの名を冠する兜",
+     "en": "A helm bearing the name of the beast god Anubis.",
+     "bytes": 48
+    },
+    {
+     "id": "head_equip#565",
+     "jp": "ディセンダーの為に作られた狩人専用の帽子",
+     "en": "A hat crafted for a Hunter who is the Descender.",
+     "bytes": 48
+    },
+    {
+     "id": "head_equip#577",
+     "jp": "ディセンダーの為に作られた僧侶専用の帽子",
+     "en": "A hat crafted for a Priest who is the Descender.",
+     "bytes": 48
+    },
+    {
+     "id": "head_equip#24",
+     "jp": "動きやすさ重視の頭部用防具",
+     "en": "Headgear designed with an emphasis on mobility.",
+     "bytes": 47
+    },
+    {
+     "id": "head_equip#144",
+     "jp": "東方の秘神イハサクの加護を受けた帽子",
+     "en": "A hat blessed by Ihasaku, a secret eastern god.",
+     "bytes": 47
+    },
+    {
+     "id": "head_equip#394",
+     "jp": "玄人傭兵が着用するヘッドバンド",
+     "en": "A headband worn by seasoned expert mercenaries.",
+     "bytes": 47
+    },
+    {
+     "id": "head_equip#520",
+     "jp": "ディセンダーと認められた狩人専用の帽子",
+     "en": "A hat for a Hunter recognized as the Descender.",
+     "bytes": 47
+    },
+    {
+     "id": "head_equip#532",
+     "jp": "ディセンダーと認められた僧侶専用の帽子",
+     "en": "A hat for a Priest recognized as the Descender.",
+     "bytes": 47
+    },
+    {
+     "id": "head_equip#589",
+     "jp": "ディセンダーの為に作られたモンク専用のバンド",
+     "en": "A band crafted for a Monk who is the Descender.",
+     "bytes": 47
+    },
+    {
+     "id": "head_equip#722",
+     "jp": "なりきりダンジョンＸ特典。ＴＯＰのクラースの帽子",
+     "en": "Narikiri Dungeon X bonus. Claus's hat from TOP.",
+     "bytes": 47
+    },
+    {
+     "id": "head_equip#254",
+     "jp": "異国の風来坊が着用するターバン",
+     "en": "A turban worn by vagabonds from foreign lands.",
+     "bytes": 46
+    },
+    {
+     "id": "head_equip#319",
+     "jp": "異国の豪族が身に着ける帽子",
+     "en": "A hat worn by powerful clans of foreign lands.",
+     "bytes": 46
+    },
+    {
+     "id": "head_equip#359",
+     "jp": "上級の爵位を持つ者に与えられる兜",
+     "en": "A helm granted to those who hold high peerage.",
+     "bytes": 46
+    },
+    {
+     "id": "head_equip#544",
+     "jp": "ディセンダーと認められたモンク専用のバンド",
+     "en": "A band for a Monk recognized as the Descender.",
+     "bytes": 46
+    },
+    {
+     "id": "head_equip#574",
+     "jp": "ディセンダーの為に作られた魔術師専用の帽子",
+     "en": "A hat crafted for a Mage who is the Descender.",
+     "bytes": 46
+    },
+    {
+     "id": "head_equip#63",
+     "jp": "逃げる牛を追う者が着用する帽子",
+     "en": "A hat worn by those who chase fleeing cattle.",
+     "bytes": 45
+    },
+    {
+     "id": "head_equip#86",
+     "jp": "異国の戦士が着用するターバン",
+     "en": "A turban worn by warriors from foreign lands.",
+     "bytes": 45
+    },
+    {
+     "id": "head_equip#109",
+     "jp": "新参者の術士が着用する額当て",
+     "en": "A forehead guard worn by novice spellcasters.",
+     "bytes": 45
+    },
+    {
+     "id": "head_equip#218",
+     "jp": "不吉な意匠の鎧の頭部",
+     "en": "The headpiece of armor with an ominous motif.",
+     "bytes": 45
+    },
+    {
+     "id": "head_equip#239",
+     "jp": "野戦活動に適したゴーグル",
+     "en": "Goggles suitable for field combat activities.",
+     "bytes": 45
+    },
+    {
+     "id": "head_equip#387",
+     "jp": "禍々しい意匠の鎧の頭部",
+     "en": "The headpiece of armor with a sinister motif.",
+     "bytes": 45
+    },
+    {
+     "id": "head_equip#529",
+     "jp": "ディセンダーと認められた魔術師専用の帽子",
+     "en": "A hat for a Mage recognized as the Descender.",
+     "bytes": 45
+    },
+    {
+     "id": "head_equip#699",
+     "jp": "身につけると１ＵＰ気分？",
+     "en": "Wearing it makes you feel like getting a 1UP?",
+     "bytes": 45
+    },
+    {
+     "id": "head_equip#3",
+     "jp": "星雲級と称えられた額飾り",
+     "en": "A forehead ornament praised as nebula-class.",
+     "bytes": 44
+    },
+    {
+     "id": "head_equip#74",
+     "jp": "兵士が巡回警備で着用する帽子",
+     "en": "A cap worn by soldiers while on patrol duty.",
+     "bytes": 44
+    },
+    {
+     "id": "head_equip#171",
+     "jp": "銀河級と称えられた額飾り",
+     "en": "A forehead ornament praised as galaxy-class.",
+     "bytes": 44
+    },
+    {
+     "id": "head_equip#242",
+     "jp": "隊長が巡回警備で着用する帽子",
+     "en": "A cap worn by captains while on patrol duty.",
+     "bytes": 44
+    },
+    {
+     "id": "head_equip#249",
+     "jp": "大型戦艦の艦長が着用する帽子",
+     "en": "A hat worn by captains of large battleships.",
+     "bytes": 44
+    },
+    {
+     "id": "head_equip#335",
+     "jp": "水晶を加工して作られたアクセサリー",
+     "en": "An accessory crafted from processed crystal.",
+     "bytes": 44
+    },
+    {
+     "id": "head_equip#340",
+     "jp": "クエーサー級と称えられた額飾り",
+     "en": "A forehead ornament praised as quasar-class.",
+     "bytes": 44
+    },
+    {
+     "id": "head_equip#403",
+     "jp": "神光発する鉢金",
+     "en": "A forehead protector emanating divine light.",
+     "bytes": 44
+    },
+    {
+     "id": "head_equip#413",
+     "jp": "荒野の用心棒が着用するバンド",
+     "en": "A band worn by bodyguards of the wilderness.",
+     "bytes": 44
+    },
+    {
+     "id": "head_equip#694",
+     "jp": "海水浴で大活躍！のヒレ",
+     "en": "A fin that makes a huge splash at the beach!",
+     "bytes": 44
+    },
+    {
+     "id": "head_equip#50",
+     "jp": "不気味な意匠の鎧の頭部",
+     "en": "The headpiece of armor with an eerie motif.",
+     "bytes": 43
+    },
+    {
+     "id": "head_equip#201",
+     "jp": "継ぎ目の少ない全身鎧の頭部",
+     "en": "The headpiece of seamless full plate armor.",
+     "bytes": 43
+    },
+    {
+     "id": "head_equip#151",
+     "jp": "異国の巡礼者が身に着ける帽子",
+     "en": "A hat worn by pilgrims from foreign lands.",
+     "bytes": 42
+    },
+    {
+     "id": "head_equip#182",
+     "jp": "小さな青銅の板をあしらった兜",
+     "en": "A helm decorated with small bronze plates.",
+     "bytes": 42
+    },
+    {
+     "id": "head_equip#231",
+     "jp": "荒野の流れ者が着用する帽子",
+     "en": "A hat worn by wanderers of the wilderness.",
+     "bytes": 42
+    },
+    {
+     "id": "head_equip#331",
+     "jp": "貴い芸術品でもある帽子",
+     "en": "A hat that is also a precious work of art.",
+     "bytes": 42
+    },
+    {
+     "id": "head_equip#351",
+     "jp": "小さなクロームの板をあしらった兜",
+     "en": "A helm decorated with small chrome plates.",
+     "bytes": 42
+    },
+    {
+     "id": "head_equip#418",
+     "jp": "艦隊を率いる提督が着用する帽子",
+     "en": "A hat worn by admirals who command fleets.",
+     "bytes": 42
+    },
+    {
+     "id": "head_equip#630",
+     "jp": "一本の鬼の角がオシャレなヅラ",
+     "en": "A stylish wig sporting a single ogre horn.",
+     "bytes": 42
+    },
+    {
+     "id": "head_equip#14",
+     "jp": "小さな金属板をあしらった兜",
+     "en": "A helm decorated with small metal plates.",
+     "bytes": 41
+    },
+    {
+     "id": "head_equip#27",
+     "jp": "東方の兵士が着用していた兜",
+     "en": "A helm once worn by soldiers of the east.",
+     "bytes": 41
+    },
+    {
+     "id": "head_equip#71",
+     "jp": "サバイバル活動に適したゴーグル",
+     "en": "Goggles suitable for survival activities.",
+     "bytes": 41
+    },
+    {
+     "id": "head_equip#127",
+     "jp": "策士が好んで着用する頭飾り",
+     "en": "A headdress favored by clever tacticians.",
+     "bytes": 41
+    },
+    {
+     "id": "head_equip#190",
+     "jp": "爵位を持つ者に与えられる兜",
+     "en": "A helm granted to those who hold peerage.",
+     "bytes": 41
+    },
+    {
+     "id": "head_equip#297",
+     "jp": "占い師が着用する摩訶不思議な帽子",
+     "en": "A mysterious hat worn by fortune-tellers.",
+     "bytes": 41
+    },
+    {
+     "id": "head_equip#703",
+     "jp": "お子様に夢を与える赤い帽子",
+     "en": "A red hat that brings dreams to children.",
+     "bytes": 41
+    },
+    {
+     "id": "head_equip#59",
+     "jp": "厚手の布を多用した帽子",
+     "en": "A cap crafted with abundant heavy cloth.",
+     "bytes": 40
+    },
+    {
+     "id": "head_equip#205",
+     "jp": "戦国武将を彷彿とさせる兜",
+     "en": "A helm reminiscent of a Sengoku warlord.",
+     "bytes": 40
+    },
+    {
+     "id": "head_equip#306",
+     "jp": "奇跡の力が込められた可愛い帽子",
+     "en": "A cute cap imbued with miraculous power.",
+     "bytes": 40
+    },
+    {
+     "id": "head_equip#400",
+     "jp": "早撃ちの名手が着用する帽子",
+     "en": "A hat worn by masters of the quick draw.",
+     "bytes": 40
+    },
+    {
+     "id": "head_equip#665",
+     "jp": "紙で作られた兜。防御力はありません",
+     "en": "A helm made of paper. Offers no defense.",
+     "bytes": 40
+    },
+    {
+     "id": "head_equip#225",
+     "jp": "中堅傭兵が着用するヘッドバンド",
+     "en": "A headband worn by veteran mercenaries.",
+     "bytes": 39
+    },
+    {
+     "id": "head_equip#244",
+     "jp": "開拓者が着用するバンド",
+     "en": "A band worn by pioneering frontiersmen.",
+     "bytes": 39
+    },
+    {
+     "id": "head_equip#324",
+     "jp": "マフィアの幹部が着用する帽子",
+     "en": "A hat worn by caporegimes of the mafia.",
+     "bytes": 39
+    },
+    {
+     "id": "head_equip#374",
+     "jp": "戦国大名を彷彿とさせる兜",
+     "en": "A helm reminiscent of a Sengoku daimyo.",
+     "bytes": 39
+    },
+    {
+     "id": "head_equip#493",
+     "jp": "マフィアの若頭が着用する帽子",
+     "en": "A hat worn by underbosses of the mafia.",
+     "bytes": 39
+    },
+    {
+     "id": "head_equip#691",
+     "jp": "背の高さはシェフの証",
+     "en": "Its towering height is proof of a chef.",
+     "bytes": 39
+    },
+    {
+     "id": "head_equip#31",
+     "jp": "隠密が着用していたマスク",
+     "en": "A mask once worn by undercover agents.",
+     "bytes": 38
+    },
+    {
+     "id": "head_equip#57",
+     "jp": "新米傭兵が着用するヘッドバンド",
+     "en": "A headband worn by novice mercenaries.",
+     "bytes": 38
+    },
+    {
+     "id": "head_equip#129",
+     "jp": "幸運を求めし者の帽子",
+     "en": "A hat for those who seek good fortune.",
+     "bytes": 38
+    },
+    {
+     "id": "head_equip#154",
+     "jp": "東方の貴族が着用する帽子",
+     "en": "A hat worn by aristocrats of the east.",
+     "bytes": 38
+    },
+    {
+     "id": "head_equip#385",
+     "jp": "神秘文様を刻んだ兜",
+     "en": "A helm engraved with mysterious runes.",
+     "bytes": 38
+    },
+    {
+     "id": "head_equip#76",
+     "jp": "流浪のガンマンが着用するバンド",
+     "en": "A band worn by wandering gunslingers.",
+     "bytes": 37
+    },
+    {
+     "id": "head_equip#91",
+     "jp": "フリーの殺し屋が着用するアイパッチ",
+     "en": "An eyepatch worn by freelance hitmen.",
+     "bytes": 37
+    },
+    {
+     "id": "head_equip#165",
+     "jp": "闇の眷属が着用するマスク",
+     "en": "A mask worn by creatures of darkness.",
+     "bytes": 37
+    },
+    {
+     "id": "head_equip#368",
+     "jp": "名のある忍びが着用していたマスク",
+     "en": "A mask once worn by renowned shinobi.",
+     "bytes": 37
+    },
+    {
+     "id": "head_equip#488",
+     "jp": "異国の国王が身に着ける帽子",
+     "en": "A hat worn by kings of foreign lands.",
+     "bytes": 37
+    },
+    {
+     "id": "head_equip#716",
+     "jp": "召喚士クラースの帽子が今ここに！",
+     "en": "Summoner Claus's hat is here at last!",
+     "bytes": 37
+    },
+    {
+     "id": "head_equip#29",
+     "jp": "下士官用の帽子",
+     "en": "A cap for non-commissioned officers.",
+     "bytes": 36
+    },
+    {
+     "id": "head_equip#163",
+     "jp": "古くさい製法で作られた帽子",
+     "en": "A hat crafted using antique methods.",
+     "bytes": 36
+    },
+    {
+     "id": "head_equip#167",
+     "jp": "貝殻で作られたアクセサリー",
+     "en": "An accessory crafted from seashells.",
+     "bytes": 36
+    },
+    {
+     "id": "head_equip#169",
+     "jp": "厚手の革で作られた兜",
+     "en": "A helm made of thick, heavy leather.",
+     "bytes": 36
+    },
+    {
+     "id": "head_equip#470",
+     "jp": "上位のワーロックが着用する帽子",
+     "en": "A cap worn by high-ranking warlocks.",
+     "bytes": 36
+    },
+    {
+     "id": "head_equip#696",
+     "jp": "桃の節句をお祝いしましょう",
+     "en": "Let us celebrate the Peach Festival.",
+     "bytes": 36
+    },
+    {
+     "id": "head_equip#285",
+     "jp": "軍中佐第二種礼装帽",
+     "en": "Lieutenant Colonel Dress Cap Type 2",
+     "bytes": 35
+    },
+    {
+     "id": "head_equip#10",
+     "jp": "歩兵隊猟兵に支給される兜",
+     "en": "A helm issued to infantry jaegers.",
+     "bytes": 34
+    },
+    {
+     "id": "head_equip#178",
+     "jp": "山岳兵隊猟兵に支給される兜",
+     "en": "A helm issued to mountain jaegers.",
+     "bytes": 34
+    },
+    {
+     "id": "head_equip#322",
+     "jp": "東方の摂政が着用する帽子",
+     "en": "A hat worn by regents of the east.",
+     "bytes": 34
+    },
+    {
+     "id": "head_equip#705",
+     "jp": "トナカイさんを模した頭飾り",
+     "en": "A headdress resembling a reindeer.",
+     "bytes": 34
+    },
+    {
+     "id": "head_equip#347",
+     "jp": "騎兵隊猟兵に支給される兜",
+     "en": "A helm issued to cavalry jaegers.",
+     "bytes": 33
+    },
+    {
+     "id": "head_equip#423",
+     "jp": "魔法で強化されたターバン",
+     "en": "A turban strengthened with magic.",
+     "bytes": 33
+    },
+    {
+     "id": "head_equip#503",
+     "jp": "不死の王が着用するマスク",
+     "en": "A mask worn by the immortal king.",
+     "bytes": 33
+    },
+    {
+     "id": "head_equip#651",
+     "jp": "うさぎの耳を模したカチューシャ",
+     "en": "A headband resembling bunny ears.",
+     "bytes": 33
+    },
+    {
+     "id": "head_equip#121",
+     "jp": "お手伝いさんが着用するハット",
+     "en": "A hat worn by helpers and maids.",
+     "bytes": 32
+    },
+    {
+     "id": "head_equip#197",
+     "jp": "士官用の帽子",
+     "en": "A cap for commissioned officers.",
+     "bytes": 32
+    },
+    {
+     "id": "head_equip#289",
+     "jp": "執事やメイドが着用するハット",
+     "en": "A hat worn by butlers and maids.",
+     "bytes": 32
+    },
+    {
+     "id": "head_equip#366",
+     "jp": "上級士官用の帽子",
+     "en": "A cap for high-ranking officers.",
+     "bytes": 32
+    },
+    {
+     "id": "head_equip#468",
+     "jp": "神に愛されし聖人の帽子",
+     "en": "A hat of a saint beloved by God.",
+     "bytes": 32
+    },
+    {
+     "id": "head_equip#227",
+     "jp": "メッシュ加工がされた帽子",
+     "en": "A cap crafted with mesh fabric.",
+     "bytes": 31
+    },
+    {
+     "id": "head_equip#619",
+     "jp": "二本の鬼の角が生えているヅラ",
+     "en": "A wig sprouting two ogre horns.",
+     "bytes": 31
+    },
+    {
+     "id": "head_equip#641",
+     "jp": "猫の耳を模したカチューシャ",
+     "en": "A headband resembling cat ears.",
+     "bytes": 31
+    },
+    {
+     "id": "head_equip#432",
+     "jp": "竜調教師の額当て",
+     "en": "Dragon Trainer Forehead Guard",
+     "bytes": 29
+    },
+    {
+     "id": "head_equip#557",
+     "jp": "魔法騎士の額当て",
+     "en": "Magic Knight's Forehead Guard",
+     "bytes": 29
+    },
+    {
+     "id": "head_equip#81",
+     "jp": "船長が着用する帽子",
+     "en": "A hat worn by ship captains.",
+     "bytes": 28
+    },
+    {
+     "id": "head_equip#216",
+     "jp": "銀製のクロスヘルム",
+     "en": "A cross helm made of silver.",
+     "bytes": 28
+    },
+    {
+     "id": "head_equip#263",
+     "jp": "虎調教師の額当て",
+     "en": "Tiger Trainer Forehead Guard",
+     "bytes": 28
+    },
+    {
+     "id": "head_equip#338",
+     "jp": "魔物の革製の兜",
+     "en": "A helm made of monster hide.",
+     "bytes": 28
+    },
+    {
+     "id": "head_equip#438",
+     "jp": "武舞の額当て",
+     "en": "Martial Dance Forehead Guard",
+     "bytes": 28
+    },
+    {
+     "id": "head_equip#67",
+     "jp": "修行僧の額当て",
+     "en": "Ascetic Monk Forehead Guard",
+     "bytes": 27
+    },
+    {
+     "id": "head_equip#235",
+     "jp": "僧兵の額当て",
+     "en": "Warrior Monk Forehead Guard",
+     "bytes": 27
+    },
+    {
+     "id": "head_equip#260",
+     "jp": "小龍の髪飾り",
+     "en": "Little Dragon Hair Ornament",
+     "bytes": 27
+    },
+    {
+     "id": "head_equip#444",
+     "jp": "実践者の額当て",
+     "en": "Practitioner Forehead Guard",
+     "bytes": 27
+    },
+    {
+     "id": "head_equip#462",
+     "jp": "名軍師の頭飾り",
+     "en": "Master Strategist Headdress",
+     "bytes": 27
+    },
+    {
+     "id": "head_equip#512",
+     "jp": "魔法剣士の額当て",
+     "en": "Spellsword's Forehead Guard",
+     "bytes": 27
+    },
+    {
+     "id": "head_equip#22",
+     "jp": "剣闘士が身に着ける兜",
+     "en": "A helm worn by gladiators.",
+     "bytes": 26
+    },
+    {
+     "id": "head_equip#82",
+     "jp": "土蜘蛛討ちの鉢巻",
+     "en": "Tsuchigumo Slayer Headband",
+     "bytes": 26
+    },
+    {
+     "id": "head_equip#95",
+     "jp": "犬調教師の額当て",
+     "en": "Dog Trainer Forehead Guard",
+     "bytes": 26
+    },
+    {
+     "id": "head_equip#199",
+     "jp": "忍者が着用していたマスク",
+     "en": "A mask once worn by ninja.",
+     "bytes": 26
+    },
+    {
+     "id": "head_equip#223",
+     "jp": "中堅傭兵のヘッドバンド",
+     "en": "Veteran Mercenary Headband",
+     "bytes": 26
+    },
+    {
+     "id": "head_equip#257",
+     "jp": "粛清執行人のアイパッチ",
+     "en": "Purge Executioner Eyepatch",
+     "bytes": 26
+    },
+    {
+     "id": "head_equip#269",
+     "jp": "走舞の額当て",
+     "en": "Swift Dance Forehead Guard",
+     "bytes": 26
+    },
+    {
+     "id": "head_equip#282",
+     "jp": "ギンネム染の帽子",
+     "en": "A white leadtree-dyed hat.",
+     "bytes": 26
+    },
+    {
+     "id": "head_equip#293",
+     "jp": "名策士の頭飾り",
+     "en": "Master Tactician Headdress",
+     "bytes": 26
+    },
+    {
+     "id": "head_equip#349",
+     "jp": "オリカルクム製の兜",
+     "en": "A helm made of orichalcum.",
+     "bytes": 26
+    },
+    {
+     "id": "head_equip#404",
+     "jp": "僧正の額当て",
+     "en": "High Priest Forehead Guard",
+     "bytes": 26
+    },
+    {
+     "id": "head_equip#458",
+     "jp": "秘書が着用するハット",
+     "en": "A hat worn by secretaries.",
+     "bytes": 26
+    },
+    {
+     "id": "head_equip#569",
+     "jp": "頭領の額当て",
+     "en": "Chieftain's Forehead Guard",
+     "bytes": 26
+    },
+    {
+     "id": "head_equip#55",
+     "jp": "新米傭兵のヘッドバンド",
+     "en": "Novice Mercenary Headband",
+     "bytes": 25
+    },
+    {
+     "id": "head_equip#101",
+     "jp": "平舞の額当て",
+     "en": "Calm Dance Forehead Guard",
+     "bytes": 25
+    },
+    {
+     "id": "head_equip#133",
+     "jp": "詠唱者の為の帽子",
+     "en": "A cap made for incanters.",
+     "bytes": 25
+    },
+    {
+     "id": "head_equip#352",
+     "jp": "鬼神の額当て",
+     "en": "Fierce God Forehead Guard",
+     "bytes": 25
+    },
+    {
+     "id": "head_equip#392",
+     "jp": "玄人傭兵のヘッドバンド",
+     "en": "Master Mercenary Headband",
+     "bytes": 25
+    },
+    {
+     "id": "head_equip#396",
+     "jp": "羽の様に軽い帽子",
+     "en": "A cap light as a feather.",
+     "bytes": 25
+    },
+    {
+     "id": "head_equip#429",
+     "jp": "龍王の髪飾り",
+     "en": "Dragon King Hair Ornament",
+     "bytes": 25
+    },
+    {
+     "id": "head_equip#566",
+     "jp": "義賊のドミノ",
+     "en": "Chivalrous Thief's Domino",
+     "bytes": 25
+    },
+    {
+     "id": "head_equip#15",
+     "jp": "孤狼の額当て",
+     "en": "Lone Wolf Forehead Guard",
+     "bytes": 24
+    },
+    {
+     "id": "head_equip#64",
+     "jp": "妙光鉢金",
+     "en": "Wondrous Light Hachigane",
+     "bytes": 24
+    },
+    {
+     "id": "head_equip#134",
+     "jp": "破門者の頭飾り",
+     "en": "Excommunicated Headdress",
+     "bytes": 24
+    },
+    {
+     "id": "head_equip#180",
+     "jp": "タングステン製の兜",
+     "en": "A helm made of tungsten.",
+     "bytes": 24
+    },
+    {
+     "id": "head_equip#333",
+     "jp": "吸血鬼が着用するマスク",
+     "en": "A mask worn by vampires.",
+     "bytes": 24
+    },
+    {
+     "id": "head_equip#381",
+     "jp": "守護騎士団の頭飾り",
+     "en": "Guardian Order Headdress",
+     "bytes": 24
+    },
+    {
+     "id": "head_equip#454",
+     "jp": "軍大佐第二種礼装帽",
+     "en": "Colonel Dress Cap Type 2",
+     "bytes": 24
+    },
+    {
+     "id": "head_equip#1",
+     "jp": "革製の兜",
+     "en": "A helm made of leather.",
+     "bytes": 23
+    },
+    {
+     "id": "head_equip#494",
+     "jp": "精霊の羽飾り",
+     "en": "Spirit Feather Ornament",
+     "bytes": 23
+    },
+    {
+     "id": "head_equip#671",
+     "jp": "炭坑員御用達",
+     "en": "Favored by coal miners.",
+     "bytes": 23
+    },
+    {
+     "id": "head_equip#44",
+     "jp": "騎士団の頭飾り",
+     "en": "Knight Order Headdress",
+     "bytes": 22
+    },
+    {
+     "id": "head_equip#117",
+     "jp": "軍少佐第二種礼装帽",
+     "en": "Major Dress Cap Type 2",
+     "bytes": 22
+    },
+    {
+     "id": "head_equip#232",
+     "jp": "霊光鉢金",
+     "en": "Sacred Light Hachigane",
+     "bytes": 22
+    },
+    {
+     "id": "head_equip#325",
+     "jp": "妖精の羽飾り",
+     "en": "Fairy Feather Ornament",
+     "bytes": 22
+    },
+    {
+     "id": "head_equip#401",
+     "jp": "神光鉢金",
+     "en": "Divine Light Hachigane",
+     "bytes": 22
+    },
+    {
+     "id": "head_equip#426",
+     "jp": "暗殺教団のアイパッチ",
+     "en": "Assassin Cult Eyepatch",
+     "bytes": 22
+    },
+    {
+     "id": "head_equip#524",
+     "jp": "忍の額当て",
+     "en": "Ninja's Forehead Guard",
+     "bytes": 22
+    },
+    {
+     "id": "head_equip#539",
+     "jp": "大剣士の兜",
+     "en": "Great Swordsman's Helm",
+     "bytes": 22
+    },
+    {
+     "id": "head_equip#560",
+     "jp": "小覇王のバンド",
+     "en": "Little Overlord's Band",
+     "bytes": 22
+    },
+    {
+     "id": "head_equip#25",
+     "jp": "足軽大将の兜",
+     "en": "Ashigaru General Helm",
+     "bytes": 21
+    },
+    {
+     "id": "head_equip#92",
+     "jp": "功夫の髪飾り",
+     "en": "Kung Fu Hair Ornament",
+     "bytes": 21
+    },
+    {
+     "id": "head_equip#107",
+     "jp": "新参者の額当て",
+     "en": "Novice Forehead Guard",
+     "bytes": 21
+    },
+    {
+     "id": "head_equip#157",
+     "jp": "白鳥の羽飾り",
+     "en": "Swan Feather Ornament",
+     "bytes": 21
+    },
+    {
+     "id": "head_equip#183",
+     "jp": "無法の額当て",
+     "en": "Outlaw Forehead Guard",
+     "bytes": 21
+    },
+    {
+     "id": "head_equip#275",
+     "jp": "熱心者の額当て",
+     "en": "Zealot Forehead Guard",
+     "bytes": 21
+    },
+    {
+     "id": "head_equip#419",
+     "jp": "天狗討ちの鉢巻",
+     "en": "Tengu Slayer Headband",
+     "bytes": 21
+    },
+    {
+     "id": "head_equip#451",
+     "jp": "パイナップル染の帽子",
+     "en": "A pineapple-dyed hat.",
+     "bytes": 21
+    },
+    {
+     "id": "head_equip#590",
+     "jp": "剣聖の冠",
+     "en": "Sword Saint's Coronet",
+     "bytes": 21
+    },
+    {
+     "id": "head_equip#669",
+     "jp": "工事帽",
+     "en": "Construction Hard Hat",
+     "bytes": 21
+    },
+    {
+     "id": "head_equip#8",
+     "jp": "歩兵隊猟兵の兜",
+     "en": "Infantry Jaeger Helm",
+     "bytes": 20
+    },
+    {
+     "id": "head_equip#12",
+     "jp": "鉄製の兜",
+     "en": "A helm made of iron.",
+     "bytes": 20
+    },
+    {
+     "id": "head_equip#104",
+     "jp": "朱雀の髪飾り",
+     "en": "Suzaku Hair Ornament",
+     "bytes": 20
+    },
+    {
+     "id": "head_equip#176",
+     "jp": "山岳兵隊猟兵の兜",
+     "en": "Mountain Jaeger Helm",
+     "bytes": 20
+    },
+    {
+     "id": "head_equip#212",
+     "jp": "聖騎士団の頭飾り",
+     "en": "Holy Order Headdress",
+     "bytes": 20
+    },
+    {
+     "id": "head_equip#409",
+     "jp": "総督の帽子",
+     "en": "Governor General Cap",
+     "bytes": 20
+    },
+    {
+     "id": "head_equip#441",
+     "jp": "白虎の髪飾り",
+     "en": "Byakko Hair Ornament",
+     "bytes": 20
+    },
+    {
+     "id": "head_equip#459",
+     "jp": "親衛隊長の帽子",
+     "en": "Praetorian Guard Cap",
+     "bytes": 20
+    },
+    {
+     "id": "head_equip#674",
+     "jp": "兵隊さん御用達",
+     "en": "Favored by soldiers.",
+     "bytes": 20
+    },
+    {
+     "id": "head_equip#723",
+     "jp": "最大値（頭装備）",
+     "en": "Max Value (Headgear)",
+     "bytes": 20
+    },
+    {
+     "id": "head_equip#114",
+     "jp": "藍染の帽子",
+     "en": "An indigo-dyed hat.",
+     "bytes": 19
+    },
+    {
+     "id": "head_equip#125",
+     "jp": "策士の頭飾り",
+     "en": "Tactician Headdress",
+     "bytes": 19
+    },
+    {
+     "id": "head_equip#250",
+     "jp": "鵺討ちの鉢巻",
+     "en": "Nue Slayer Headband",
+     "bytes": 19
+    },
+    {
+     "id": "head_equip#266",
+     "jp": "晶霊学士の帽子",
+     "en": "Craymel Scholar Hat",
+     "bytes": 19
+    },
+    {
+     "id": "head_equip#272",
+     "jp": "玄武の髪飾り",
+     "en": "Genbu Hair Ornament",
+     "bytes": 19
+    },
+    {
+     "id": "head_equip#345",
+     "jp": "騎兵隊猟兵の兜",
+     "en": "Cavalry Jaeger Helm",
+     "bytes": 19
+    },
+    {
+     "id": "head_equip#355",
+     "jp": "覇龍の兜",
+     "en": "Supreme Dragon Helm",
+     "bytes": 19
+    },
+    {
+     "id": "head_equip#471",
+     "jp": "異端者の頭飾り",
+     "en": "Heretic's Headdress",
+     "bytes": 19
+    },
+    {
+     "id": "head_equip#563",
+     "jp": "名射手の帽子",
+     "en": "Master Archer's Hat",
+     "bytes": 19
+    },
+    {
+     "id": "head_equip#18",
+     "jp": "小龍の兜",
+     "en": "Little Dragon Helm",
+     "bytes": 18
+    },
+    {
+     "id": "head_equip#62",
+     "jp": "スティアレスラーハット",
+     "en": "Steer Wrestler Hat",
+     "bytes": 18
+    },
+    {
+     "id": "head_equip#152",
+     "jp": "公家の烏帽子",
+     "en": "Court Noble Eboshi",
+     "bytes": 18
+    },
+    {
+     "id": "head_equip#435",
+     "jp": "精霊学士の帽子",
+     "en": "Spirit Scholar Hat",
+     "bytes": 18
+    },
+    {
+     "id": "head_equip#452",
+     "jp": "コンタクティヘッド",
+     "en": "Contactee Headgear",
+     "bytes": 18
+    },
+    {
+     "id": "head_equip#536",
+     "jp": "二刀剣士の兜",
+     "en": "Dual Fencer's Helm",
+     "bytes": 18
+    },
+    {
+     "id": "head_equip#548",
+     "jp": "狙撃手の頭飾り",
+     "en": "Sniper's Headdress",
+     "bytes": 18
+    },
+    {
+     "id": "head_equip#584",
+     "jp": "処刑執行人の兜",
+     "en": "Executioner's Helm",
+     "bytes": 18
+    },
+    {
+     "id": "head_equip#587",
+     "jp": "大範士のバンド",
+     "en": "Grandmaster's Band",
+     "bytes": 18
+    },
+    {
+     "id": "head_equip#593",
+     "jp": "ガンマスターヘッド",
+     "en": "Gunmaster Headgear",
+     "bytes": 18
+    },
+    {
+     "id": "head_equip#717",
+     "jp": "真・アイフリードの帽子",
+     "en": "True Aifread's Hat",
+     "bytes": 18
+    },
+    {
+     "id": "head_equip#77",
+     "jp": "修行僧の頭巾",
+     "en": "Ascetic Monk Hood",
+     "bytes": 17
+    },
+    {
+     "id": "head_equip#168",
+     "jp": "ハードレザーヘルム",
+     "en": "Hard Leather Helm",
+     "bytes": 17
+    },
+    {
+     "id": "head_equip#245",
+     "jp": "僧兵の頭巾",
+     "en": "Warrior Monk Hood",
+     "bytes": 17
+    },
+    {
+     "id": "head_equip#302",
+     "jp": "外法者の頭飾り",
+     "en": "Heretic Headdress",
+     "bytes": 17
+    },
+    {
+     "id": "head_equip#388",
+     "jp": "コロッサスヘッド",
+     "en": "Colossus Headgear",
+     "bytes": 17
+    },
+    {
+     "id": "head_equip#407",
+     "jp": "マーセナリゴーグル",
+     "en": "Mercenary Goggles",
+     "bytes": 17
+    },
+    {
+     "id": "head_equip#447",
+     "jp": "被免達人の帽子",
+     "en": "Exempt Master Hat",
+     "bytes": 17
+    },
+    {
+     "id": "head_equip#479",
+     "jp": "クラヤマツミの帽子",
+     "en": "Kurayamatsumi Hat",
+     "bytes": 17
+    },
+    {
+     "id": "head_equip#482",
+     "jp": "預言者の頭飾り",
+     "en": "Prophet Headdress",
+     "bytes": 17
+    },
+    {
+     "id": "head_equip#545",
+     "jp": "従士隊の冠",
+     "en": "Paladin's Coronet",
+     "bytes": 17
+    },
+    {
+     "id": "head_equip#575",
+     "jp": "司祭の帽子",
+     "en": "High Priest's Hat",
+     "bytes": 17
+    },
+    {
+     "id": "head_equip#581",
+     "jp": "二天剣士の兜",
+     "en": "Dual Heavens Helm",
+     "bytes": 17
+    },
+    {
+     "id": "head_equip#70",
+     "jp": "サバイバルゴーグル",
+     "en": "Survival Goggles",
+     "bytes": 16
+    },
+    {
+     "id": "head_equip#122",
+     "jp": "衛士の帽子",
+     "en": "Castle Guard Cap",
+     "bytes": 16
+    },
+    {
+     "id": "head_equip#145",
+     "jp": "祈祷師の頭飾り",
+     "en": "Shaman Headdress",
+     "bytes": 16
+    },
+    {
+     "id": "head_equip#186",
+     "jp": "龍王の兜",
+     "en": "Dragon King Helm",
+     "bytes": 16
+    },
+    {
+     "id": "head_equip#230",
+     "jp": "ブロンコライダーハット",
+     "en": "Bronco Rider Hat",
+     "bytes": 16
+    },
+    {
+     "id": "head_equip#283",
+     "jp": "ニューエイジヘッド",
+     "en": "New Age Headgear",
+     "bytes": 16
+    },
+    {
+     "id": "head_equip#313",
+     "jp": "神官の頭飾り",
+     "en": "Priest Headdress",
+     "bytes": 16
+    },
+    {
+     "id": "head_equip#334",
+     "jp": "クリスタルピアス",
+     "en": "Crystal Earrings",
+     "bytes": 16
+    },
+    {
+     "id": "head_equip#414",
+     "jp": "僧正の頭巾",
+     "en": "High Priest Hood",
+     "bytes": 16
+    },
+    {
+     "id": "head_equip#504",
+     "jp": "レインボーピアス",
+     "en": "Rainbow Earrings",
+     "bytes": 16
+    },
+    {
+     "id": "head_equip#509",
+     "jp": "剣士の兜",
+     "en": "Swordsman's Helm",
+     "bytes": 16
+    },
+    {
+     "id": "head_equip#551",
+     "jp": "闘士の兜",
+     "en": "Gladiator's Helm",
+     "bytes": 16
+    },
+    {
+     "id": "head_equip#2",
+     "jp": "ネビュラオーナメント",
+     "en": "Nebula Ornament",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#87",
+     "jp": "スパイダーオーナメント",
+     "en": "Spider Ornament",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#89",
+     "jp": "殺し屋のアイパッチ",
+     "en": "Hitman Eyepatch",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#155",
+     "jp": "コンシリエーレハット",
+     "en": "Consigliere Hat",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#164",
+     "jp": "ナイトブリードマスク",
+     "en": "Nightbreed Mask",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#170",
+     "jp": "ギャラクシーオーナメント",
+     "en": "Galaxy Ornament",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#221",
+     "jp": "ベルゼバブホーン",
+     "en": "Beelzebub Horns",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#255",
+     "jp": "コヨーテオーナメント",
+     "en": "Coyote Ornament",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#278",
+     "jp": "大達人の帽子",
+     "en": "Grandmaster Hat",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#290",
+     "jp": "近衛兵の帽子",
+     "en": "Royal Guard Cap",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#336",
+     "jp": "ＢＨ・ヘルム",
+     "en": "Beast Hide Helm",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#339",
+     "jp": "クエーサーオーナメント",
+     "en": "Quasar Ornament",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#348",
+     "jp": "オリカルクムヘルム",
+     "en": "Orichalcum Helm",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#360",
+     "jp": "ドラゴンヘッド",
+     "en": "Dragon Headgear",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#362",
+     "jp": "義経の兜",
+     "en": "Yoshitsune Helm",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#501",
+     "jp": "始祖のマスク",
+     "en": "Progenitor Mask",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#609",
+     "jp": "スターダストストリーム",
+     "en": "Stardust Stream",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#668",
+     "jp": "明けましておめでとう御座います",
+     "en": "Happy New Year!",
+     "bytes": 15
+    },
+    {
+     "id": "head_equip#21",
+     "jp": "グラディエータヘルム",
+     "en": "Gladiator Helm",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#23",
+     "jp": "フィールドヘッド",
+     "en": "Field Headgear",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#51",
+     "jp": "グレートヘッド",
+     "en": "Great Headgear",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#53",
+     "jp": "アスタロトホーン",
+     "en": "Astaroth Horns",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#60",
+     "jp": "ファルコンフェザー",
+     "en": "Falcon Feather",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#166",
+     "jp": "シェルピアス",
+     "en": "Shell Earrings",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#219",
+     "jp": "ジャイアントヘッド",
+     "en": "Giant Headgear",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#253",
+     "jp": "ストレンジターバン",
+     "en": "Strange Turban",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#300",
+     "jp": "アテイメントキャップ",
+     "en": "Attainment Cap",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#310",
+     "jp": "ミカハヤヒの帽子",
+     "en": "Mikahayahi Hat",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#323",
+     "jp": "カポレジームハット",
+     "en": "Caporegime Hat",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#343",
+     "jp": "バーバリアンヘルム",
+     "en": "Barbarian Helm",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#399",
+     "jp": "ガンスリンガーハット",
+     "en": "Gunslinger Hat",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#475",
+     "jp": "帽子衣装",
+     "en": "A cap costume.",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#489",
+     "jp": "関白の烏帽子",
+     "en": "Kanpaku Eboshi",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#506",
+     "jp": "戦士の兜",
+     "en": "Warrior's Helm",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#515",
+     "jp": "拳闘士のバンド",
+     "en": "Brawler's Band",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#521",
+     "jp": "盗賊のドミノ",
+     "en": "Thief's Domino",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#533",
+     "jp": "司教のミトル",
+     "en": "Bishop's Mitre",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#572",
+     "jp": "魔導師の帽子",
+     "en": "Sorcerer's Hat",
+     "bytes": 14
+    },
+    {
+     "id": "head_equip#115",
+     "jp": "レイヴヘッド",
+     "en": "Rave Headgear",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#179",
+     "jp": "タングステンヘルム",
+     "en": "Tungsten Helm",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#191",
+     "jp": "ゲイルヘッド",
+     "en": "Gale Headgear",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#200",
+     "jp": "エンボスヘルム",
+     "en": "Embossed Helm",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#243",
+     "jp": "フロンティアバンド",
+     "en": "Frontier Band",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#248",
+     "jp": "コマンダーハット",
+     "en": "Commander Hat",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#320",
+     "jp": "摂政の烏帽子",
+     "en": "Regent Eboshi",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#328",
+     "jp": "セレスティアルキャップ",
+     "en": "Celestial Cap",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#358",
+     "jp": "アークロードヘルム",
+     "en": "Archlord Helm",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#371",
+     "jp": "マイトレヤヘルム",
+     "en": "Maitreya Helm",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#390",
+     "jp": "ルシフェルホーン",
+     "en": "Lucifel Horns",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#397",
+     "jp": "イーグルフェザー",
+     "en": "Eagle Feather",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#424",
+     "jp": "ピューマオーナメント",
+     "en": "Puma Ornament",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#457",
+     "jp": "セクレタリーハット",
+     "en": "Secretary Hat",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#492",
+     "jp": "アンダーボスハット",
+     "en": "Underboss Hat",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#554",
+     "jp": "騎士の兜",
+     "en": "Knight's Helm",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#704",
+     "jp": "トナカイヘッド",
+     "en": "Reindeer Head",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#706",
+     "jp": "メイドカチューシャ",
+     "en": "Maid Headband",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#720",
+     "jp": "クラースの帽子Ｘ",
+     "en": "Claus's Hat X",
+     "bytes": 13
+    },
+    {
+     "id": "head_equip#0",
+     "jp": "レザーヘルム",
+     "en": "Leather Helm",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#30",
+     "jp": "オンミツマスク",
+     "en": "Onmitsu Mask",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#34",
+     "jp": "ジャーメインヘルム",
+     "en": "Germain Helm",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#42",
+     "jp": "ガネーシャヘルム",
+     "en": "Ganesha Helm",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#85",
+     "jp": "ミスティターバン",
+     "en": "Misty Turban",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#172",
+     "jp": "ガルヒーナヘルム",
+     "en": "Galhina Helm",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#204",
+     "jp": "センゴクヘルム",
+     "en": "Sengoku Helm",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#210",
+     "jp": "ハヌマーンヘルム",
+     "en": "Hanuman Helm",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#228",
+     "jp": "ホークフェザー",
+     "en": "Hawk Feather",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#238",
+     "jp": "アーミーゴーグル",
+     "en": "Army Goggles",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#316",
+     "jp": "クレセントハット",
+     "en": "Crescent Hat",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#330",
+     "jp": "プレシャスハット",
+     "en": "Precious Hat",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#332",
+     "jp": "ヴァンパイアマスク",
+     "en": "Vampire Mask",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#367",
+     "jp": "シノビマスク",
+     "en": "Shinobi Mask",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#369",
+     "jp": "エンシェントヘルム",
+     "en": "Ancient Helm",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#412",
+     "jp": "ウエスタンバンド",
+     "en": "Western Band",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#422",
+     "jp": "ウィッチターバン",
+     "en": "Witch Turban",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#450",
+     "jp": "サッバロットハット",
+     "en": "Sapparot Hat",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#518",
+     "jp": "狩人の帽子",
+     "en": "Hunter's Hat",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#530",
+     "jp": "修道士の帽子",
+     "en": "Priest's Hat",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#578",
+     "jp": "教皇のミトル",
+     "en": "Pope's Mitre",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#599",
+     "jp": "スサノオの兜",
+     "en": "Susanoo Helm",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#650",
+     "jp": "バニーヘッドＡ",
+     "en": "Bunny Head A",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#652",
+     "jp": "バニーヘッドＢ",
+     "en": "Bunny Head B",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#653",
+     "jp": "バニーヘッドＣ",
+     "en": "Bunny Head C",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#654",
+     "jp": "バニーヘッドＤ",
+     "en": "Bunny Head D",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#655",
+     "jp": "バニーヘッドＥ",
+     "en": "Bunny Head E",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#660",
+     "jp": "カボチャ顔",
+     "en": "Pumpkin Face",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#663",
+     "jp": "折り紙兜",
+     "en": "Origami Helm",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#666",
+     "jp": "鏡餅",
+     "en": "Kagami Mochi",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#697",
+     "jp": "ＳＰフラッグ",
+     "en": "Special Flag",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#711",
+     "jp": "ジューダスの仮面",
+     "en": "Judas's Mask",
+     "bytes": 12
+    },
+    {
+     "id": "head_equip#4",
+     "jp": "ブラフミーヘルム",
+     "en": "Brahmi Helm",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#6",
+     "jp": "ビキニヘルム",
+     "en": "Bikini Helm",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#32",
+     "jp": "ゴシックヘルム",
+     "en": "Gothic Helm",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#38",
+     "jp": "ナイトヘルム",
+     "en": "Knight Helm",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#58",
+     "jp": "キルトキャップ",
+     "en": "Quilted Cap",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#72",
+     "jp": "兵士の帽子",
+     "en": "Soldier Cap",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#75",
+     "jp": "ガンナーバンド",
+     "en": "Gunner Band",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#80",
+     "jp": "キャプテンハット",
+     "en": "Captain Hat",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#98",
+     "jp": "学士の帽子",
+     "en": "Scholar Hat",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#128",
+     "jp": "フォーチュンハット",
+     "en": "Fortune Hat",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#130",
+     "jp": "リスペクトハット",
+     "en": "Respect Hat",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#137",
+     "jp": "マジカルキャップ",
+     "en": "Magical Cap",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#142",
+     "jp": "イハサクの帽子",
+     "en": "Ihasaku Hat",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#150",
+     "jp": "ピルグリムハット",
+     "en": "Pilgrim Hat",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#162",
+     "jp": "エンシェントハット",
+     "en": "Ancient Hat",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#181",
+     "jp": "ブロンズヘルム",
+     "en": "Bronze Helm",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#193",
+     "jp": "弁慶の兜",
+     "en": "Benkei Helm",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#196",
+     "jp": "オフィサーキャップ",
+     "en": "Officer Cap",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#202",
+     "jp": "クスミヘルム",
+     "en": "Kusumi Helm",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#208",
+     "jp": "ソーバーンヘルム",
+     "en": "Thuban Helm",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#215",
+     "jp": "テンプルヘルム",
+     "en": "Temple Helm",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#240",
+     "jp": "隊長の帽子",
+     "en": "Captain Cap",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#288",
+     "jp": "スチュワードハット",
+     "en": "Steward Hat",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#298",
+     "jp": "ビリーブハット",
+     "en": "Believe Hat",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#305",
+     "jp": "ミラクルキャップ",
+     "en": "Miracle Cap",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#350",
+     "jp": "クロームヘルム",
+     "en": "Chrome Helm",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#365",
+     "jp": "カーネルキャップ",
+     "en": "Colonel Cap",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#373",
+     "jp": "ダイミョーヘルム",
+     "en": "Daimyo Helm",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#377",
+     "jp": "テムサーフヘルム",
+     "en": "Timsah Helm",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#379",
+     "jp": "アヌビスヘルム",
+     "en": "Anubis Helm",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#395",
+     "jp": "フェザーキャップ",
+     "en": "Feather Cap",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#417",
+     "jp": "アドミラルハット",
+     "en": "Admiral Hat",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#469",
+     "jp": "ワーロックキャップ",
+     "en": "Warlock Cap",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#542",
+     "jp": "准拳士のバンド",
+     "en": "Monk's Band",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#595",
+     "jp": "ゴールデンヘルム",
+     "en": "Golden Helm",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#605",
+     "jp": "アイフリードハット",
+     "en": "Aifread Hat",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#611",
+     "jp": "アフロへアＡ",
+     "en": "Afro Hair A",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#613",
+     "jp": "アフロへアＢ",
+     "en": "Afro Hair B",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#614",
+     "jp": "アフロへアＣ",
+     "en": "Afro Hair C",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#615",
+     "jp": "アフロへアＤ",
+     "en": "Afro Hair D",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#616",
+     "jp": "アフロへアＥ",
+     "en": "Afro Hair E",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#628",
+     "jp": "青鬼Ａ",
+     "en": "Blue Ogre A",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#631",
+     "jp": "青鬼Ｂ",
+     "en": "Blue Ogre B",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#633",
+     "jp": "青鬼Ｃ",
+     "en": "Blue Ogre C",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#635",
+     "jp": "青鬼Ｄ",
+     "en": "Blue Ogre D",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#637",
+     "jp": "青鬼Ｅ",
+     "en": "Blue Ogre E",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#656",
+     "jp": "パーティキャップＡ",
+     "en": "Party Cap A",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#658",
+     "jp": "パーティキャップＢ",
+     "en": "Party Cap B",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#659",
+     "jp": "パーティキャップＣ",
+     "en": "Party Cap C",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#672",
+     "jp": "迷彩ヘルメット",
+     "en": "Camo Helmet",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#675",
+     "jp": "仮装キャップ",
+     "en": "Costume Cap",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#678",
+     "jp": "ねこにんマスクＡ",
+     "en": "Katz Mask A",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#681",
+     "jp": "ねこにんマスクＢ",
+     "en": "Katz Mask B",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#683",
+     "jp": "ねこにんマスクＣ",
+     "en": "Katz Mask C",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#685",
+     "jp": "ねこにんマスクＤ",
+     "en": "Katz Mask D",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#687",
+     "jp": "ねこにんマスクＥ",
+     "en": "Katz Mask E",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#695",
+     "jp": "ヒシモチ",
+     "en": "Hishi Mochi",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#714",
+     "jp": "クラースの帽子",
+     "en": "Claus's Hat",
+     "bytes": 11
+    },
+    {
+     "id": "head_equip#13",
+     "jp": "トランクヘルム",
+     "en": "Trunk Helm",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#36",
+     "jp": "ムシャヘルム",
+     "en": "Musha Helm",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#40",
+     "jp": "ナハラヘルム",
+     "en": "Nahla Helm",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#47",
+     "jp": "クロスヘルム",
+     "en": "Cross Helm",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#113",
+     "jp": "インディゴハット",
+     "en": "Indigo Hat",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#120",
+     "jp": "ヘルパーハット",
+     "en": "Helper Hat",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#174",
+     "jp": "ネイキッドヘルム",
+     "en": "Naked Helm",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#198",
+     "jp": "ニンジャマスク",
+     "en": "Ninja Mask",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#206",
+     "jp": "バロンヘルム",
+     "en": "Baron Helm",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#281",
+     "jp": "クラーティンハット",
+     "en": "Kratin Hat",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#296",
+     "jp": "アルカナハット",
+     "en": "Arcana Hat",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#341",
+     "jp": "トゥルシーヘルム",
+     "en": "Tulsi Helm",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#386",
+     "jp": "ゴーストヘルム",
+     "en": "Ghost Helm",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#476",
+     "jp": "エイワスの帽子",
+     "en": "Aiwass Hat",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#487",
+     "jp": "スルタンハット",
+     "en": "Sultan Hat",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#499",
+     "jp": "レジェンドハット",
+     "en": "Legend Hat",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#527",
+     "jp": "魔術師の帽子",
+     "en": "Mage's Hat",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#603",
+     "jp": "エンジェルリング",
+     "en": "Angel Ring",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#617",
+     "jp": "赤鬼Ａ",
+     "en": "Red Ogre A",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#620",
+     "jp": "赤鬼Ｂ",
+     "en": "Red Ogre B",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#622",
+     "jp": "赤鬼Ｃ",
+     "en": "Red Ogre C",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#624",
+     "jp": "赤鬼Ｄ",
+     "en": "Red Ogre D",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#626",
+     "jp": "赤鬼Ｅ",
+     "en": "Red Ogre E",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#639",
+     "jp": "ねこみみＡ",
+     "en": "Cat Ears A",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#642",
+     "jp": "ねこみみＢ",
+     "en": "Cat Ears B",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#644",
+     "jp": "ねこみみＣ",
+     "en": "Cat Ears C",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#646",
+     "jp": "ねこみみＤ",
+     "en": "Cat Ears D",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#648",
+     "jp": "ねこみみＥ",
+     "en": "Cat Ears E",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#689",
+     "jp": "コック帽",
+     "en": "Chef's Hat",
+     "bytes": 10
+    },
+    {
+     "id": "head_equip#11",
+     "jp": "アイアンヘルム",
+     "en": "Iron Helm",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#28",
+     "jp": "チーフキャップ",
+     "en": "Chief Cap",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#49",
+     "jp": "ボーンヘルム",
+     "en": "Bone Helm",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#110",
+     "jp": "小達人の帽子",
+     "en": "Adept Hat",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#139",
+     "jp": "アリオンの帽子",
+     "en": "Arion Hat",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#148",
+     "jp": "メディアハット",
+     "en": "Media Hat",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#160",
+     "jp": "ブリンクキャップ",
+     "en": "Blink Cap",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#189",
+     "jp": "ロードヘルム",
+     "en": "Lord Helm",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#217",
+     "jp": "グリムヘルム",
+     "en": "Grim Helm",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#375",
+     "jp": "デュークヘルム",
+     "en": "Duke Helm",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#384",
+     "jp": "ルーンヘルム",
+     "en": "Rune Helm",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#467",
+     "jp": "セイントハット",
+     "en": "Saint Hat",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#474",
+     "jp": "フラッシュキャップ",
+     "en": "Flash Cap",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#601",
+     "jp": "デスペラード",
+     "en": "Desperado",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#692",
+     "jp": "サメのヒレ",
+     "en": "Shark Fin",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#701",
+     "jp": "サンタ帽",
+     "en": "Santa Hat",
+     "bytes": 9
+    },
+    {
+     "id": "head_equip#132",
+     "jp": "アリアキャップ",
+     "en": "Aria Cap",
+     "bytes": 8
+    },
+    {
+     "id": "head_equip#226",
+     "jp": "メッシュキャップ",
+     "en": "Mesh Cap",
+     "bytes": 8
+    },
+    {
+     "id": "head_equip#318",
+     "jp": "ラージャハット",
+     "en": "Raja Hat",
+     "bytes": 8
+    },
+    {
+     "id": "head_equip#465",
+     "jp": "ルーンハット",
+     "en": "Rune Hat",
+     "bytes": 8
+    },
+    {
+     "id": "head_equip#485",
+     "jp": "ムーンハット",
+     "en": "Moon Hat",
+     "bytes": 8
+    },
+    {
+     "id": "head_equip#497",
+     "jp": "スターキャップ",
+     "en": "Star Cap",
+     "bytes": 8
+    },
+    {
+     "id": "head_equip#597",
+     "jp": "エンヴィセイジ",
+     "en": "Envisage",
+     "bytes": 8
+    },
+    {
+     "id": "head_equip#708",
+     "jp": "はちまき",
+     "en": "Headband",
+     "bytes": 8
+    },
+    {
+     "id": "head_equip#307",
+     "jp": "ラーの帽子",
+     "en": "Ra Hat",
+     "bytes": 6
+    },
+    {
+     "id": "head_equip#700",
+     "jp": "テラジ",
+     "en": "Teraji",
+     "bytes": 6
+    },
+    {
+     "id": "head_equip#607",
+     "jp": "パイレックス",
+     "en": "Pyrex",
+     "bytes": 5
+    }
+   ]
+  }
+ }
+}

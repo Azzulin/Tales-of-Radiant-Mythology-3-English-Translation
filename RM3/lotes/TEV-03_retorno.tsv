@@ -1,0 +1,88 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+tev03_001.scr:0	tev03_001.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	仕事の「クエスト」は、\nアンジュさんの所で受けられるよ	You can accept "Quest" work\nfrom Ange	
+tev03_001.scr:1	tev03_001.scr	1	カノンノ	Kanonno Grassvalley	personagem		さあ、まずはクエストを受けてみて！	Now, try accepting a quest first!	
+tev03_002.scr:0	tev03_002.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	クエストを受ける時は、\nここ「クエストカウンタ」で\n受けるクエストを選択するのよ	When accepting a quest,\nyou choose one right here\nat the "Quest Counter"	
+tev03_002.scr:1	tev03_002.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	今回、あなたには「退治のやり方」を\n受けてもらうね！	This time, I'll have you\naccept "How to Hunt"!	
+tev03_003.scr:0	tev03_003.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	これは、アドリビトムの\n正式なメンバーになる為の、\n入隊試験用クエストよ	This is an enrollment test quest\nfor becoming a full member\nof Ad Libitum	
+tev03_003.scr:1	tev03_003.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	じゃあ、この\n「退治のやり方」について\n説明するね	Alright, let me explain\nabout this\n"How to Hunt"	
+tev03_003.scr:2	tev03_003.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	あなたの仕事は、\nコンフェイト大森林へ行って\nプチプリを１０体倒す事よ	Your job is to go to\nConfeito Great Forest\nand defeat 10 Polwiggles	
+tev03_003.scr:3	tev03_003.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	詳しい仕事の進め方は、\nカノンノが教えてくれるから	Kanonno will show you\nthe details of how to proceed	
+tev03_003.scr:4	tev03_003.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	それから、こうやって受けたクエストは\nメインメニューのクエストで\nチェック出来るから、覚えておいてね	Also, quests you accept like this\ncan be checked under Quest\nin the main menu, so remember that	
+tev03_003.scr:5	tev03_003.scr	5	アンジュ	Ange Serena	personagem		それじゃあ、頑張ってきてね！	Now then, go do your best!	
+tev03_003.scr:6	tev03_003.scr	6	(mensagem de sistema)	(mensagem de sistema)	sistema		メニューの「ライブラリ」が使用可能になりました	"Library" is now available	
+tev03_004.scr:0	tev03_004.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	ＳＴＡＲＴボタンを押すと、\n移動メニューを表示出来ます	Press START to\ndisplay the travel menu	
+tev03_004.scr:1	tev03_004.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	ダンジョンへ行く場合は、移動メニューより\n「ワールドマップ」を選択して下さい	To go to a dungeon, select\n"World Map" from the travel menu	
+tev03_005.scr:0	tev03_005.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	さ、クエストを受けたんだから\n早く行きなさい	Now, you've accepted the quest,\nso hurry up and go	
+tev03_006.scr:0	tev03_006.scr	0	カノンノ	Kanonno Grassvalley	personagem		ねえ、早く目的地へ行こうよ	Hey, let's hurry to our destination	
+tev03_006.scr:1	tev03_006.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	船を出るには移動メニューから\nワールドマップを選択してね	To leave the ship, select World Map\nfrom the travel menu	
+tev03_007.scr:0	tev03_007.scr	0	(narracao)	(narracao)	narracao	CRLF x1	目的地への移動は、\nこの「ワールドマップ」で行います	Travel to your destination\nis done via this "World Map"	
+tev03_007.scr:1	tev03_007.scr	1	(narracao)	(narracao)	narracao	CRLF x1	移動したい場所を選択して、\n○ボタンで決定です	Select where you want to go,\nthen confirm with Circle	
+tev03_008.scr:0	tev03_008.scr	0	カノンノ	Kanonno Grassvalley	personagem		じゃあ、もっかい目的を説明するね	Alright, let me explain the goal again	
+tev03_008.scr:1	tev03_008.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	今回の目的は、\nプチプリを１０体退治する事だよ	This time, the goal\nis to defeat 10 Polwiggles	
+tev03_008.scr:2	tev03_008.scr	2	カノンノ	Kanonno Grassvalley	personagem		それじゃあ、進もう！	Now then, let's move on!	
+tev03_009.scr:0	tev03_009.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	こっちは行き止まりだね。\n引き返そう	This way's a dead end.\nLet's turn back	
+tev03_010.scr:0	tev03_010.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	モンスターシンボルと接触する際、\nモンスターシンボルとの接触方向によって\nバックアタックが発生します	When you touch a monster symbol,\nthe direction of contact determines\nwhether a Back Attack occurs	
+tev03_010.scr:1	tev03_010.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	モンスターシンボルの後ろから接触すれば、\n戦闘開始時に、有利なバックアタックが\n発生します	Touch a monster symbol from behind\nand you'll get an advantageous\nBack Attack at the start of battle	
+tev03_010.scr:2	tev03_010.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	逆に、後ろから接触された場合、\n戦闘開始時に不利なフォーメーションとなり、\n逃走も不可能となります	Conversely, if you're touched from\nbehind, you'll start battle at a\ndisadvantage and can't flee	
+tev03_011.scr:0	tev03_011.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	戦闘で対峙した事のあるモンスターの情報は、\n「モンスター図鑑」で確認出来ます	Info on monsters you've fought\ncan be checked in the "Monster List"	
+tev03_011.scr:1	tev03_011.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	メニューのライブラリから\n「モンスター図鑑」を選択して下さい	Select "Monster List" from\nthe Library in the menu	
+tev03_012.scr:0	tev03_012.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエストを達成すると、ダンジョンから\nバンエルティア号へパッと戻る事が\n出来ます	Once you complete a quest, you can\ninstantly return from the dungeon\nto the Van Eltia	
+tev03_012.scr:1	tev03_012.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	ＳＴＡＲＴボタンを押して、\n「バンエルティア号に戻りますか？」の\nメニューを呼び出し「はい」を選んで下さい	Press START, bring up the\n"Return to the Van Eltia?" menu,\nand select "Yes"	
+tev03_012.scr:2	tev03_012.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	なお、このメニューは、\nクエストを達成するまで利用出来ません	Note that this menu can't be\nused until you complete the quest	
+tev03_013.scr:0	tev03_013.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	クエストも達成した事だし、\nＳＴＡＲＴボタンを押して、\nパパッとバンエルティア号へ戻ろう！	Since we've completed the quest,\nlet's press START and\nhead right back to the Van Eltia!	
+tev03_014.scr:0	tev03_014.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	さあ、今回の仕事が達成出来た事を\nアンジュさんに報告するのよ	Now, let's report to Ange\nthat we completed this job	
+tev03_015.scr:0	tev03_015.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	はい、ご苦労様。\n初めてのクエストはどうだったかな？	Yes, well done.\nHow was your first quest?	
+tev03_015.scr:1	tev03_015.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	こうやって、クエストを達成したら\n報告をしてちょうだいね	Whenever you complete a quest\nlike this, please report back	
+tev03_015.scr:2	tev03_015.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	それからクエストを達成したら、\n報酬も出るのよ。\n今回は、わたしからその報酬を渡すわね	Also, you get a reward when\nyou complete a quest.\nThis time, I'll hand it to you myself	
+tev03_015.scr:3	tev03_015.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	それじゃ、次のクエストも用意しておくよ。\nそれから棚卸しが終わったみたいだから、\nショップを見てきたらどうかな？	Now then, I'll prepare the next quest.\nAlso, inventory seems to be done,\nso why not check out the Shop?	
+tev03_016.scr:0	tev03_016.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	○○。\nショップに行ってみようよ。\n案内するから！	○○.\nLet's go check out the Shop.\nI'll show you around!	
+tev03_017.scr:0	tev03_017.scr	0	カノンノ	Kanonno Grassvalley	personagem		ねえ、ショップに行こうよ	Hey, let's go to the Shop	
+tev03_017.scr:1	tev03_017.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	それに、せっかく報酬をもらったんだし、\nあなたもお買い物をしてみたらどうかな？	Besides, you just got a reward,\nso why not do some shopping too?	
+tev03_018.scr:0	tev03_018.scr	0	ピッポ	Pippo	personagem		いらっしゃいだキュ〜！！	Welcome, kyuu!!	
+tev03_018.scr:1	tev03_018.scr	1	キュッポ	Kyuppo	personagem	CRLF x1	棚卸しが終わってから、\n初めてのお客さんだキュ！	First customer since\ninventory finished, kyu!	
+tev03_018.scr:2	tev03_018.scr	2	コーダ	Coda	personagem	CRLF x1	見かけない顔だな、しかし。\n新人なんだな、しかし	Don't recognize your face, however.\nYou're the new one, however	
+tev03_018.scr:3	tev03_018.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ふふ。\n新しい仲間に会えて\nみんな喜んでるみたいだね	Heh.\nLooks like everyone's happy\nto meet a new friend	
+tev03_018.scr:4	tev03_018.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	びっくりしたかな、○○。\nここが、ショップだよ	Surprised, ○○?\nThis is the Shop	
+tev03_018.scr:5	tev03_018.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	まずは、買い物の前に\nお店のみんなに挨拶しなきゃ	First, before shopping,\nlet's greet everyone in the shop	
+tev03_019.scr:0	tev03_019.scr	0	キュッポ	Kyuppo	personagem	CRLF x1	よろしくだキュ、○○！\n武器屋担当のキュッポだキュ！	Nice to meet you, ○○, kyu!\nI'm Kyuppo, in charge of weapons, kyu!	
+tev03_019.scr:1	tev03_019.scr	1	キュッポ	Kyuppo	personagem	CRLF x1	ここでは、アドリビトムのみんなの為の\n武器を取り扱ってるんだキュ！	We carry weapons here for\neveryone in Ad Libitum, kyu!	
+tev03_019.scr:2	tev03_019.scr	2	キュッポ	Kyuppo	personagem	CRLF x1	ここで買った武器は、メニューの「装備」で\n装備出来るんだキュ	Weapons bought here can be equipped\nfrom "Equipment" in the menu, kyu	
+tev03_019.scr:3	tev03_019.scr	3	キュッポ	Kyuppo	personagem	CRLF x1	強い武器、防具を手に入れたら、\nこまめに装備し直すといいキュ！	When you get strong weapons or armor,\nre-equip them often, kyu!	
+tev03_019.scr:4	tev03_019.scr	4	キュッポ	Kyuppo	personagem	CRLF x1	それから、これは大事な事だから覚えて\nおくといいキュ	Also, this is important,\nso remember it, kyu	
+tev03_019.scr:5	tev03_019.scr	5	キュッポ	Kyuppo	personagem	CRLF x1	装備出来る武器、防具は職業によって\n異なるんだキュ、覚えておくんだキュ	Weapons and armor you can equip\ndiffer by class, remember that, kyu	
+tev03_019.scr:6	tev03_019.scr	6	キュッポ	Kyuppo	personagem	CRLF x1	これからもどんどん新商品を増やすキュ！\nちょくちょく覗きに来て欲しいキュ！！	I'll keep adding new items, kyu!\nCome check in often, kyu!!	
+tev03_020.scr:0	tev03_020.scr	0	ピッポ	Pippo	personagem	CRLF x2	ピッポの防具屋にようこそだキュ！\nここでは選りすぐりの防具を仕入れて\n取り扱っているんだキュ！	Welcome to Pippo's Armor Shop, kyu!\nWe stock and carry\nhand-picked armor here, kyu!	
+tev03_020.scr:1	tev03_020.scr	1	ピッポ	Pippo	personagem	CRLF x1	ここで買った装備は、メニューの「装備」で\n装備出来るキュ	Gear bought here can be equipped\nfrom "Equipment" in the menu, kyu	
+tev03_020.scr:2	tev03_020.scr	2	ピッポ	Pippo	personagem	CRLF x1	武器や防具によって、\n装備出来る部位が異なるキュ	The equip slot differs\nby weapon or armor type, kyu	
+tev03_020.scr:3	tev03_020.scr	3	ピッポ	Pippo	personagem	CRLF x2	そうそう、大事な事を言い忘れたキュ。\n武器や防具には、装備する為に\n一定のレベルが要求されるんだキュ	Oh right, I forgot something\nimportant, kyu. Weapons and armor\nrequire a certain Level to equip, kyu	
+tev03_020.scr:4	tev03_020.scr	4	ピッポ	Pippo	personagem	CRLF x2	要求されているレベルに達してないと\n装備出来ないんだキュ。\n忘れないで欲しいキュ	You can't equip it if you haven't\nreached the Required Level, kyu.\nDon't forget that, kyu	
+tev03_020.scr:5	tev03_020.scr	5	ピッポ	Pippo	personagem	CRLF x2	これからも品数を増やしていくキュ！\n試着も出来るから、\nぜひ気軽に立ち寄って欲しいキュ！	I'll keep growing our selection, kyu!\nYou can try things on too,\nso feel free to stop by, kyu!	
+tev03_021.scr:0	tev03_021.scr	0	コーダ	Coda	personagem	CRLF x1	よう、新入りなんだな。\nしかし	Hey, you're the new one, huh.\nHowever	
+tev03_021.scr:1	tev03_021.scr	1	コーダ	Coda	personagem	CRLF x1	ここはコーダの店、道具屋なんだぞ。\n何か買っていくといいんだな	This is Coda's shop, the Item Shop.\nYou should buy something	
+tev03_021.scr:2	tev03_021.scr	2	コーダ	Coda	personagem	CRLF x2	買い物なんて簡単、しかし。\n財布開けて、中から金を出して、\nコーダに渡せば買えるぞ	Shopping's easy, however.\nOpen your wallet, take out some coin,\nand hand it to Coda to buy	
+tev03_021.scr:3	tev03_021.scr	3	コーダ	Coda	personagem		さあ、早速何か買って欲しいぞ、しかし	Now, go on and buy something, however	
+tev03_022.scr:0	tev03_022.scr	0	コーダ	Coda	personagem	CRLF x1	そこは鍛冶屋だ。\nしかし、準備中なんだな	That's the Smithy.\nHowever, it's still in preparation	
+tev03_022.scr:1	tev03_022.scr	1	コーダ	Coda	personagem		そのうち開くと思うぞ、しかし	I think it'll open eventually, however	
+tev03_023.scr:0	tev03_023.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	あ、待って！\n各ショップの確認はしておいた方がいいよ。\n今後、何度も利用する事になると思うから…	Oh, wait!\nYou should check out each shop.\nYou'll be using them a lot from now on...	
+tev03_024.scr:0	tev03_024.scr	0	カノンノ	Kanonno Grassvalley	personagem		…ん？	...Hm?	
+tev03_024.scr:1	tev03_024.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ねえ、アンジュさんが呼んでるみたい。\nちょっとホールへ行ってみようよ	Hey, sounds like Ange's calling.\nLet's go check the Hall	
+tev03_024.scr:2	tev03_024.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	入手した装備の情報は、\n「装備図鑑」で確認出来ます	Info on gear you've obtained\ncan be checked in the "Gear List"	
+tev03_024.scr:3	tev03_024.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	メニューのライブラリから\n「装備図鑑」を選択して下さい	Select "Gear List" from\nthe Library in the menu	
+tev03_025.scr:0	tev03_025.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	今ね、仕事に出てたメンバーが\n帰ってきたみたいなの。\n挨拶に行ってきてくれる？	Some members who were out on\nwork seem to have come back.\nCan you go greet them?	
+tev03_025.scr:1	tev03_025.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	今回あなたが初めて会う仲間は、\nみんな下の階にいるよ	The members you're meeting\nfor the first time are all downstairs	
+tev03_025.scr:2	tev03_025.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	挨拶が済んだ頃には、\n次のクエストを用意出来てると思うから、\nまずは行ってらっしゃい	By the time you're done greeting,\nI should have the next quest ready,\nso go on ahead	
+tev03_025.scr:3	tev03_025.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	そうそう、挨拶にまわる時は\n艦内見取り図を使うと便利よ	Oh right, the Ship Map is handy\nwhen going around to greet people	
+tev03_026.scr:0	tev03_026.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	それじゃ、次のクエストも用意しておくよ。\nそれから棚卸しが終わったみたいだから、\nショップを見てきたらどうかな？	Now then, I'll prepare the next quest.\nAlso, inventory seems to be done,\nso why not check out the Shop?	
+tev03_026.scr:1	tev03_026.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	まだ、次のクエストは用意出来てないの。\nそれより、挨拶も仕事のうちなんだから、\nちゃんと済ませてきなさいね	The next quest isn't ready yet.\nMore importantly, greeting people is\npart of the job, so finish it properly	
+tev03_028.scr:0	tev03_028.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	これで、戻って来た人への挨拶は\n全員済んだかな	That should be everyone\nback who I've greeted, I think	
+tev03_028.scr:1	tev03_028.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん。\nでも、近いうちには戻るはずだよ	Yeah.\nBut they should be back soon	
+tev03_028.scr:2	tev03_028.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	さてと、挨拶が済んだ事を\nアンジュさんに報告しに行かなきゃね	Well then, I need to go report\nto Ange that greetings are done	
+tev03_028.scr:3	tev03_028.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	うん。\n新しいクエストが\n用意出来てるかもしれないよ	Yeah.\nThe new quest might\nbe ready by now	
+tev03_028.scr:4	tev03_028.scr	4	(opcao do jogador)	(opcao do jogador)	escolha		まだ他にもいるのか、と聞く	Ask if there are still others	
+tev03_028.scr:5	tev03_028.scr	5	(opcao do jogador)	(opcao do jogador)	escolha		アンジュに報告すればいいか、と聞く	Ask if she should report to Ange	
+tev03_029.scr:0	tev03_029.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	さ、挨拶が済んだ事を\nアンジュさんに報告しよう	Now, let's report to Ange\nthat greetings are done	
+tev03_030.scr:0	tev03_030.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	挨拶は済ませてきたみたいね。\nこっちも、新しいクエストの用意が\n出来てるよ	Sounds like you've finished greeting.\nOn my end, I've got\na new quest ready too	
+tev03_030.scr:1	tev03_030.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	どう？\n早速、受けてみる？	So? Want to\naccept it right away?	
+tev03_031.scr:0	tev03_031.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	新しいクエストを受けたくなったら、\nアンジュさんに話しかけるといいよ	When you want to accept a new quest,\njust go talk to Ange	
+tev03_032.scr:0	tev03_032.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ねえ、アンジュさんが\n呼んでいたみたいだし、\n話を聞きに行った方がいいと思うよ	Hey, sounds like Ange\nwas calling for you,\nso you should go hear what she wants	
+tev03_033.scr:0	tev03_033.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そっちは船倉だけど、\n今は閉めてあるから行けないよ	That's the Cargo Hold,\nbut it's closed off, so you can't go there	

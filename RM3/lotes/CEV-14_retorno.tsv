@@ -1,0 +1,184 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	traducao
+cev14_010.scr:0	cev14_010.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	わぁ、広い船だね！\nすごいなぁ	Whoa, this ship is so spacious!\nIt's incredible!		Whoa, this ship is so spacious!\nIt's incredible!
+cev14_010.scr:1	cev14_010.scr	1	シング	Shing Meteoryte	personagem	CRLF x2	オレ達も、ここに来て随分経つけど\nいまだにどこを歩いてるか\nわからなくなったりするんだ	We've been here for quite some time now,\nbut we still get lost and have no clue\nwhere we're walking sometimes.		We've been here for quite some time now,\nbut we still get lost and have no clue\nwhere we're walking sometimes.
+cev14_010.scr:2	cev14_010.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	そうそう。\n俺なんか今でも迷子になるぜ	Yeah, exactly.\nI still get lost even now.		Yeah, exactly.\nI still get lost even now.
+cev14_010.scr:3	cev14_010.scr	3	ロイド	Lloyd Irving	personagem	CRLF x1	この前なんか、近くにトイレが\n見つからなくてさ	Just the other day, I couldn't find\na restroom anywhere nearby.		Just the other day, I couldn't find\na restroom anywhere nearby.
+cev14_010.scr:4	cev14_010.scr	4	ロイド	Lloyd Irving	personagem		あん時は危なかったぜ〜	That was a really close call~~!		That was a really close call~~!
+cev14_010.scr:5	cev14_010.scr	5	カイル	Kyle Dunamis	personagem	CRLF x2	じゃあさ、次から迷わない様に\nトイレまでの道にパンくずを落として\nおけばいいんじゃない？	Then how about dropping breadcrumbs\nalong the path to the restroom so you\ndon't get lost next time?		Then how about dropping breadcrumbs\nalong the path to the restroom so you\ndon't get lost next time?
+cev14_010.scr:6	cev14_010.scr	6	カイル	Kyle Dunamis	personagem	CRLF x1	それさえ見つければ\n後は辿っていくだけだよ	As long as you find them,\nall you have to do is follow the trail!		As long as you find them,\nall you have to do is follow the trail!
+cev14_010.scr:7	cev14_010.scr	7	ロイド	Lloyd Irving	personagem	CRLF x1	いや、それは微妙だな。\n多分誰かに食べられちまうぜ	Nah, that's not gonna work.\nSomeone would probably eat 'em all.		Nah, that's not gonna work.\nSomeone would probably eat 'em all.
+cev14_010.scr:8	cev14_010.scr	8	カイル	Kyle Dunamis	personagem		そっか	I see.		I see.
+cev14_010.scr:9	cev14_010.scr	9	シング	Shing Meteoryte	personagem	CRLF x1	じゃあさ、食べられないものを\n目印に置いていくのはどうかな？	Then what if you placed things you can't\neat as markers along the way?		Then what if you placed things you can't\neat as markers along the way?
+cev14_010.scr:10	cev14_010.scr	10	シング	Shing Meteoryte	personagem		ほら、バケツとかモップとかさ	You know, like buckets or mops.		You know, like buckets or mops.
+cev14_010.scr:11	cev14_010.scr	11	ロイド	Lloyd Irving	personagem	CRLF x1	それよりもっといい考えがあるぜ。\n絶対誰も拾っていかないモノ……それは	I've got an even better idea.\nSomething nobody would ever pick up...		I've got an even better idea.\nSomething nobody would ever pick up...
+cev14_010.scr:12	cev14_010.scr	12	ロイド	Lloyd Irving	personagem		教科書だ！	Textbooks!		Textbooks!
+cev14_010.scr:13	cev14_010.scr	13	カイル	Kyle Dunamis	personagem		ああ、それなら安心だね！	Ah, then there's nothing to worry about!		Ah, then there's nothing to worry about!
+cev14_010.scr:14	cev14_010.scr	14	シング	Shing Meteoryte	personagem	CRLF x1	うん。\nオレ、絶ッッ対拾わないよ！	Yeah.\nI would definitely never touch one!		Yeah.\nI would definitely never touch one!
+cev14_010.scr:15	cev14_010.scr	15	ロイド	Lloyd Irving	personagem		だろ？	Told ya.		Told ya.
+cev14_010.scr:16	cev14_010.scr	16	ロイド	Lloyd Irving	personagem		へへっ、何か気が合うかもな、俺達！	Heh, we might get along pretty well, guys!		Heh, we might get along pretty well, guys!
+cev14_020.scr:0	cev14_020.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	やっとご飯の時間だね！\nあ〜、お腹空いたぁぁ〜〜！	It's finally mealtime!\nAh~~, I am so hungry~~~!		It's finally mealtime!\nAh~~, I am so hungry~~~!
+cev14_020.scr:1	cev14_020.scr	1	クレス	Cress Albane	personagem		僕ももうペコペコだよ	I'm starving too.		I'm starving too.
+cev14_020.scr:2	cev14_020.scr	2	クレス	Cress Albane	personagem	CRLF x1	今日のメニューは何かな。\n楽しみだね	I wonder what's on the menu today.\nI'm looking forward to it.		I wonder what's on the menu today.\nI'm looking forward to it.
+cev14_020.scr:3	cev14_020.scr	3	カイル	Kyle Dunamis	personagem	CRLF x2	あれっ？　ユーリさん。\n両手一杯に果物なんて抱えて\nどうしたんですか？	Huh? Yuri.\nWhat's up with you carrying\nall that fruit in your arms?		Huh? Yuri.\nWhat's up with you carrying\nall that fruit in your arms?
+cev14_020.scr:4	cev14_020.scr	4	カイル	Kyle Dunamis	personagem		もうすぐご飯の時間ですよ	Mealtime is starting soon, you know.		Mealtime is starting soon, you know.
+cev14_020.scr:5	cev14_020.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x1	ああ……オレは今日はパス。\nちっと野暮用があってな	Yeah... I'll pass for today.\nGot some trivial errands to run.		Yeah... I'll pass for today.\nGot some trivial errands to run.
+cev14_020.scr:6	cev14_020.scr	6	クレス	Cress Albane	personagem	CRLF x1	用事があるんじゃ仕方がないけど……。\n少しくらい一緒に食べていかないか？	If you have errands, it can't be helped...\nWon't you eat a little with us, though?		If you have errands, it can't be helped...\nWon't you eat a little with us, though?
+cev14_020.scr:7	cev14_020.scr	7	クレス	Cress Albane	personagem		みんなで食べた方が美味しいと思うよ	Food tastes better when we eat together.		Food tastes better when we eat together.
+cev14_020.scr:8	cev14_020.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x1	そりゃ、今日の料理当番を見た後に\n言った方がいいかもな……	You might wanna say that after\nchecking who's on cooking duty today...		You might wanna say that after\nchecking who's on cooking duty today...
+cev14_020.scr:9	cev14_020.scr	9	アーチェ	Arche Klein	personagem	CRLF x1	は〜い、栄養たっぷり、お肌ツヤツヤ。\n出来立て特製シチューがバッチリ完成〜！	Here it is! Healthy, nutritious,\nmy fresh special stew is ready to go~~!		Here it is! Healthy, nutritious,\nmy fresh special stew is ready to go~~!
+cev14_020.scr:10	cev14_020.scr	10	アーチェ	Arche Klein	personagem	CRLF x1	ほらほらみんな、こんな所にいないで\n早く中に入りなさいよ〜	Come on everyone, don't stand around,\nget inside already~~!		Come on everyone, don't stand around,\nget inside already~~!
+cev14_020.scr:11	cev14_020.scr	11	アーチェ	Arche Klein	personagem	CRLF x2	今ならお代わり自由、大盛り上等♪\nたっくさん作ったから、いくらでも\n食べていって∀	Free refills and large portions right now!\nI made a ton, so eat as much\nas you'd like! :)		Free refills and large portions right now!\nI made a ton, so eat as much\nas you'd like! :)
+cev14_020.scr:12	cev14_020.scr	12	カイル	Kyle Dunamis	personagem		ほんと？　やったあ！	Really? Woohoo!		Really? Woohoo!
+cev14_020.scr:13	cev14_020.scr	13	カイル	Kyle Dunamis	personagem		今日は特製シチューだって、クレスさん！！	She says it's special stew, Cress!!		She says it's special stew, Cress!!
+cev14_020.scr:14	cev14_020.scr	14	クレス	Cress Albane	personagem	CRLF x1	カイル……ごめん、僕はちょっと\nやっぱり……その	Kyle... sorry, I'm just...\non second thought... well...		Kyle... sorry, I'm just...\non second thought... well...
+cev14_020.scr:15	cev14_020.scr	15	クレス	Cress Albane	personagem		あんまりお腹が空いてなくて	I'm really not that hungry after all.		I'm really not that hungry after all.
+cev14_020.scr:16	cev14_020.scr	16	カイル	Kyle Dunamis	personagem	CRLF x1	へっ？\nだって、さっきまで……	Huh?\nBut just a second ago...		Huh?\nBut just a second ago...
+cev14_020.scr:17	cev14_020.scr	17	ユーリ	Yuri Lowell	personagem	CRLF x1	そういうこった。\n悪いがオレ達は失礼するぜ	That's how it is.\nSorry, but we'll be taking our leave.		That's how it is.\nSorry, but we'll be taking our leave.
+cev14_020.scr:18	cev14_020.scr	18	カイル	Kyle Dunamis	personagem	CRLF x1	え？　\nあれ？？	Eh?\nHuh??		Eh?\nHuh??
+cev14_020.scr:19	cev14_020.scr	19	アーチェ	Arche Klein	personagem	CRLF x2	むー、クレスってば……。\nほんっと、あたしの腕を\n信用してないんだから	Geez, Cress...\nHe really has zero faith\nin my cooking skills!		Geez, Cress...\nHe really has zero faith\nin my cooking skills!
+cev14_020.scr:20	cev14_020.scr	20	アーチェ	Arche Klein	personagem	CRLF x1	それじゃ、クレスとユーリの分も\nい〜〜〜っぱい食べていってね、カイル∀	Then eat plenty for Cress and Yuri too,\nKyle! :)		Then eat plenty for Cress and Yuri too,\nKyle! :)
+cev14_020.scr:21	cev14_020.scr	21	カイル	Kyle Dunamis	personagem		う、うん……？	S-Sure...?		S-Sure...?
+cev14_030.scr:0	cev14_030.scr	0	カイル	Kyle Dunamis	personagem	CRLF x2	ねえ、マオ？\nちょっと気になってる事が\nあるんだけどさ	Hey, Mao?\nThere's something that's been\non my mind lately.		Hey, Mao?\nThere's something that's been\non my mind lately.
+cev14_030.scr:1	cev14_030.scr	1	マオ	Mao	personagem	CRLF x1	うん？　\nどうしたの？	Hmm?\nWhat's up?		Hmm?\nWhat's up?
+cev14_030.scr:2	cev14_030.scr	2	カイル	Kyle Dunamis	personagem	CRLF x1	この前、リアラと心理テストを\nやったって聞いたんだけど……	I heard you took a psychological test\nwith Reala the other day...		I heard you took a psychological test\nwith Reala the other day...
+cev14_030.scr:3	cev14_030.scr	3	マオ	Mao	personagem	CRLF x1	い、いや、あれは、その……！\nボクもわざとやったんじゃ……	N-No, that was, well...!\nI didn't do that on purpose...		N-No, that was, well...!\nI didn't do that on purpose...
+cev14_030.scr:4	cev14_030.scr	4	カイル	Kyle Dunamis	personagem	CRLF x1	うん。\n何か不思議な占いみたいなものなんだよね？	Yeah.\nIt's kind of like fortune-telling, right?		Yeah.\nIt's kind of like fortune-telling, right?
+cev14_030.scr:5	cev14_030.scr	5	マオ	Mao	personagem		え？	Huh?		Huh?
+cev14_030.scr:6	cev14_030.scr	6	カイル	Kyle Dunamis	personagem	CRLF x1	オレもやってみたいんだ！\nダメかな？	I want to try it out too!\nCould I?		I want to try it out too!\nCould I?
+cev14_030.scr:7	cev14_030.scr	7	マオ	Mao	personagem	CRLF x1	ダメじゃないけど……。\nなんだ、そういう事かぁ……	It's not that you can't...\nOh, so that's what you meant...		It's not that you can't...\nOh, so that's what you meant...
+cev14_030.scr:8	cev14_030.scr	8	マオ	Mao	personagem	CRLF x2	いいよ。\nじゃあ、ボクの指、\nどれでもいいから握ってみて	Sure.\nThen go ahead and grab\nany one of my fingers.		Sure.\nThen go ahead and grab\nany one of my fingers.
+cev14_030.scr:9	cev14_030.scr	9	カイル	Kyle Dunamis	personagem	CRLF x1	うん。\nわかった！	Yeah.\nGot it!		Yeah.\nGot it!
+cev14_030.scr:10	cev14_030.scr	10	マオ	Mao	personagem	CRLF x1	ちょ、ちょっと、カイル？\n何をそんなに悩んでるの？	H-Hold on a second, Kyle?\nWhat are you brooding over so much?		H-Hold on a second, Kyle?\nWhat are you brooding over so much?
+cev14_030.scr:11	cev14_030.scr	11	カイル	Kyle Dunamis	personagem	CRLF x1	だってさ、これ、一回しか選べないんだろ？\nだったら慎重に考えなきゃ！	I only get to choose once, right?\nThen I have to consider it very carefully!		I only get to choose once, right?\nThen I have to consider it very carefully!
+cev14_030.scr:12	cev14_030.scr	12	マオ	Mao	personagem	CRLF x1	いや、こういうのって、\nパッと浮かんだところを……	No, with this sort of thing,\nyou just go with your first impulse...		No, with this sort of thing,\nyou just go with your first impulse...
+cev14_030.scr:13	cev14_030.scr	13	カイル	Kyle Dunamis	personagem	CRLF x1	人差し指……の様な気がするけど\nでも小指も気になるし……	The index finger... feels right, but\nI'm curious about the pinky too...		The index finger... feels right, but\nI'm curious about the pinky too...
+cev14_030.scr:14	cev14_030.scr	14	カイル	Kyle Dunamis	personagem	CRLF x1	いや、そうと思わせて実は\n本命は親指……！？	No, just when you think that,\nmaybe the thumb is the true one...!?		No, just when you think that,\nmaybe the thumb is the true one...!?
+cev14_030.scr:15	cev14_030.scr	15	マオ	Mao	personagem		……もう、いいヨ……	...Forget it already...		...Forget it already...
+cev14_040.scr:0	cev14_040.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	ねえ、ロニ！\n画びょうが一杯落ちてるよ	Hey, Loni!\nThere are tons of thumbtacks dropped here.		Hey, Loni!\nThere are tons of thumbtacks dropped here.
+cev14_040.scr:1	cev14_040.scr	1	ロニ	Loni Dunamis	personagem		あー、掲示板用に使ってるんだろ	Ah, they're probably using 'em for boards.		Ah, they're probably using 'em for boards.
+cev14_040.scr:2	cev14_040.scr	2	ロニ	Loni Dunamis	personagem	CRLF x1	船内の掲示物の張り替えするって\nさっき、ロックスとアンジュが話してたぜ	Rocks and Ange mentioned earlier that\nthey were replacing the bulletin notices.		Rocks and Ange mentioned earlier that\nthey were replacing the bulletin notices.
+cev14_040.scr:3	cev14_040.scr	3	カイル	Kyle Dunamis	personagem		ふ〜ん、そうなんだ……	Hmm, is that so...		Hmm, is that so...
+cev14_040.scr:4	cev14_040.scr	4	ロニ	Loni Dunamis	personagem	CRLF x1	おい、カイル。\nこういうの知ってるか？	Hey, Kyle.\nDo you know how to do this?		Hey, Kyle.\nDo you know how to do this?
+cev14_040.scr:5	cev14_040.scr	5	カイル	Kyle Dunamis	personagem	CRLF x1	ロニ、すごい！\n天井に刺さったよ！！	Awesome, Loni!\nIt stuck into the ceiling!!		Awesome, Loni!\nIt stuck into the ceiling!!
+cev14_040.scr:6	cev14_040.scr	6	ロニ	Loni Dunamis	personagem	CRLF x2	だろ？\n天井が薄い木の天板になってるから、\nこういう事も出来るってわけだ	Right?\nSince the ceiling has thin wood panels,\nyou can pull off tricks like that.		Right?\nSince the ceiling has thin wood panels,\nyou can pull off tricks like that.
+cev14_040.scr:7	cev14_040.scr	7	カイル	Kyle Dunamis	personagem		なるほど……	I see......		I see......
+cev14_040.scr:8	cev14_040.scr	8	カイル	Kyle Dunamis	personagem	CRLF x2	そうだ！\nじゃあ、オレは両手に乗せて\n二ついっぺんに……！	I know!\nThen I'll put one on each hand\nand do two at the same time...!		I know!\nThen I'll put one on each hand\nand do two at the same time...!
+cev14_040.scr:9	cev14_040.scr	9	カイル	Kyle Dunamis	personagem		へへ〜ん、やったね！！	Heheh, I nailed it!!		Heheh, I nailed it!!
+cev14_040.scr:10	cev14_040.scr	10	ロニ	Loni Dunamis	personagem	CRLF x1	やるじゃねえか！\nよ〜〜し、それなら、俺は……	Not bad at all!\nAll riiiight, in that case, I'll...		Not bad at all!\nAll riiiight, in that case, I'll...
+cev14_040.scr:11	cev14_040.scr	11	ロニ	Loni Dunamis	personagem	CRLF x1	は〜っはっはっはぁ！\n見たかカイル、ロニさまの妙技！！	Bwahahaha!\nSee that, Kyle? Loni's finest skill!!		Bwahahaha!\nSee that, Kyle? Loni's finest skill!!
+cev14_040.scr:12	cev14_040.scr	12	チャット	Chat	personagem	CRLF x1	誰ですか！　\nボクの船をおもちゃにしてるのは！！！	Who is it!\nWho's treating my ship like a toy!?!?		Who is it!\nWho's treating my ship like a toy!?!?
+cev14_040.scr:13	cev14_040.scr	13	カイル	Kyle Dunamis	personagem		す、すいません……	S-Sorry......		S-Sorry......
+cev14_050.scr:0	cev14_050.scr	0	ジューダス	Judas	personagem		ラザリスの目的もはっきりしてきたな	Lazaris's objective has become clear now.		Lazaris's objective has become clear now.
+cev14_050.scr:1	cev14_050.scr	1	カイル	Kyle Dunamis	personagem	CRLF x2	うん。\n……でも、まさかラザリスに\nあんな過去があったなんて……	Yeah.\n...Still, to think Lazaris had\nsuch a painful past...		Yeah.\n...Still, to think Lazaris had\nsuch a painful past...
+cev14_050.scr:2	cev14_050.scr	2	カイル	Kyle Dunamis	personagem	CRLF x1	きっと、辛い思いを\n一人でずっと抱えてきたんだね……	She must have shouldered such pain\nall alone for so long...		She must have shouldered such pain\nall alone for so long...
+cev14_050.scr:3	cev14_050.scr	3	ゼロス	Zelos Wilder	personagem	CRLF x2	だからって、同情して\nこの世界をくれてやるってのかい？\nお優しい事で	So you want to take pity on her\nand just hand over this world to her?\nHow delightfully soft-hearted.		So you want to take pity on her\nand just hand over this world to her?\nHow delightfully soft-hearted.
+cev14_050.scr:4	cev14_050.scr	4	カイル	Kyle Dunamis	personagem	CRLF x2	そうは言っていないさ！\nでも、悪い奴じゃなかったんだ。\n話し合えば、わかり合えるかも……	I never said that!\nStill, she wasn't a bad person.\nIf we talk, we might find common ground...		I never said that!\nStill, she wasn't a bad person.\nIf we talk, we might find common ground...
+cev14_050.scr:5	cev14_050.scr	5	ジューダス	Judas	personagem		フン……お前らしい甘い発想だな	Hmph... A naive notion typical of you.		Hmph... A naive notion typical of you.
+cev14_050.scr:6	cev14_050.scr	6	ジューダス	Judas	personagem	CRLF x1	だが、どんな事情があったにせよ、\n犯した過ちの免罪符にはなりはしない	Whatever the circumstances may have been,\nthey cannot excuse the sins committed.		Whatever the circumstances may have been,\nthey cannot excuse the sins committed.
+cev14_050.scr:7	cev14_050.scr	7	ジューダス	Judas	personagem	CRLF x1	過去の引力に抗えなかったという\n単純な事実が残るだけだ	Only the simple fact that one could not\nresist the pull of the past remains.		Only the simple fact that one could not\nresist the pull of the past remains.
+cev14_050.scr:8	cev14_050.scr	8	カイル	Kyle Dunamis	personagem		ジューダス……	Judas......		Judas......
+cev14_050.scr:9	cev14_050.scr	9	ゼロス	Zelos Wilder	personagem	CRLF x1	そういうこった。\nま、誰だって生きてりゃ色々あるっしょ	That's the long and short of it.\nWell, everybody's got baggage in life.		That's the long and short of it.\nWell, everybody's got baggage in life.
+cev14_050.scr:10	cev14_050.scr	10	ゼロス	Zelos Wilder	personagem	CRLF x1	いちいち感情移入してちゃ\nそのうち、自分の身がもたなくなるぜ？	If you empathize with every single one,\nyou're eventually gonna burn yourself out.		If you empathize with every single one,\nyou're eventually gonna burn yourself out.
+cev14_050.scr:11	cev14_050.scr	11	カイル	Kyle Dunamis	personagem		それでも……オレは、信じたいんだ	Even so... I still want to believe.		Even so... I still want to believe.
+cev14_050.scr:12	cev14_050.scr	12	カイル	Kyle Dunamis	personagem	CRLF x1	生まれながらに、悪い奴なんて\nいないって……	That nobody is simply born\nevil, you know...?		That nobody is simply born\nevil, you know...?
+cev14_060.scr:0	cev14_060.scr	0	アスベル	Asbel Lhant	personagem	CRLF x1	なぁ、カイル。\nカイルには兄弟はいないのか？	Say, Kyle.\nDo you not have any siblings?		Say, Kyle.\nDo you not have any siblings?
+cev14_060.scr:1	cev14_060.scr	1	カイル	Kyle Dunamis	personagem	CRLF x1	本当の兄弟はいないけど\n兄弟みたいに育った相手なら一杯いるよ	I don't have real siblings, but plenty\nof folks I grew up with are like brothers.		I don't have real siblings, but plenty\nof folks I grew up with are like brothers.
+cev14_060.scr:2	cev14_060.scr	2	カイル	Kyle Dunamis	personagem		ロニとかさ！	Like Loni, for instance!		Like Loni, for instance!
+cev14_060.scr:3	cev14_060.scr	3	アスベル	Asbel Lhant	personagem		そうか……じゃあ、	I see... Then...		I see... Then...
+cev14_060.scr:4	cev14_060.scr	4	カイル	Kyle Dunamis	personagem		うん？	Hmm?		Hmm?
+cev14_060.scr:5	cev14_060.scr	5	アスベル	Asbel Lhant	personagem		スタンとは兄弟じゃないのか？	Are you and Stahn not brothers?		Are you and Stahn not brothers?
+cev14_060.scr:6	cev14_060.scr	6	アスベル	Asbel Lhant	personagem	CRLF x2	いや、なんだか二人は\n似ているな、と思ったんだ。\nまるで兄弟みたいだって	Well, I just thought that you two\nlooked quite alike.\nJust like brothers, in fact.		Well, I just thought that you two\nlooked quite alike.\nJust like brothers, in fact.
+cev14_060.scr:7	cev14_060.scr	7	カイル	Kyle Dunamis	personagem		（兄弟じゃなくて親子なんだけどね……）	(We're father and son, not brothers...)		(We're father and son, not brothers...)
+cev14_060.scr:8	cev14_060.scr	8	アスベル	Asbel Lhant	personagem	CRLF x1	ん？　\n何か言ったか？	Hmm?\nDid you say something?		Hmm?\nDid you say something?
+cev14_060.scr:9	cev14_060.scr	9	カイル	Kyle Dunamis	personagem	CRLF x1	う、ううん！　\n何でもないよ	N-No!\nIt's nothing at all!		N-No!\nIt's nothing at all!
+cev14_060.scr:10	cev14_060.scr	10	カイル	Kyle Dunamis	personagem	CRLF x2	いや〜、よく「似てる」って\n言われるんだよね。\n何でだろう？　あははは……	Man, people tell me that we look alike\nall the time, you know.\nI wonder why? Ahahaha...		Man, people tell me that we look alike\nall the time, you know.\nI wonder why? Ahahaha...
+cev14_070.scr:0	cev14_070.scr	0	カイル	Kyle Dunamis	personagem		アスベル、あのさ！	Asbel, um, listen!		Asbel, um, listen!
+cev14_070.scr:1	cev14_070.scr	1	カイル	Kyle Dunamis	personagem	CRLF x1	その……この間は、いきなり\n変な事聞いたりして、ごめんね	Well... sorry for asking such a weird\nquestion out of the blue the other day.		Well... sorry for asking such a weird\nquestion out of the blue the other day.
+cev14_070.scr:2	cev14_070.scr	2	アスベル	Asbel Lhant	personagem		この間？	The other day?		The other day?
+cev14_070.scr:3	cev14_070.scr	3	カイル	Kyle Dunamis	personagem		……ほら、アスベルのお父さんのこと	...You know, about your father, Asbel.		...You know, about your father, Asbel.
+cev14_070.scr:4	cev14_070.scr	4	アスベル	Asbel Lhant	personagem		ああ……	Yeah...		Yeah...
+cev14_070.scr:5	cev14_070.scr	5	アスベル	Asbel Lhant	personagem	CRLF x1	いや、いいんだ。\n気にしないでくれ	No, it's fine.\nPlease don't worry about it.		No, it's fine.\nPlease don't worry about it.
+cev14_070.scr:6	cev14_070.scr	6	アスベル	Asbel Lhant	personagem	CRLF x1	親父とは、あまり上手くいっていなかったし、\n子どもの頃はいつも言い合いばかりだった	Things weren't great with my father, and\nas a kid, we were always arguing.		Things weren't great with my father, and\nas a kid, we were always arguing.
+cev14_070.scr:7	cev14_070.scr	7	アスベル	Asbel Lhant	personagem	CRLF x1	頑固というか……考え方に\nついていけないところがあって	He was stubborn... or rather, I couldn't\nalways keep up with his way of thinking.		He was stubborn... or rather, I couldn't\nalways keep up with his way of thinking.
+cev14_070.scr:8	cev14_070.scr	8	カイル	Kyle Dunamis	personagem	CRLF x2	そうなんだ……。\nアスベルはお父さんの事、\n好きじゃないの？	Is that so...?\nDid you not like your father,\nAsbel?		Is that so...?\nDid you not like your father,\nAsbel?
+cev14_070.scr:9	cev14_070.scr	9	アスベル	Asbel Lhant	personagem	CRLF x1	どうかな。\nそんな風に考えた事はないよ	Hard to say.\nI've never really thought of it that way.		Hard to say.\nI've never really thought of it that way.
+cev14_070.scr:10	cev14_070.scr	10	カイル	Kyle Dunamis	personagem		そっか……	I see...		I see...
+cev14_070.scr:11	cev14_070.scr	11	カイル	Kyle Dunamis	personagem	CRLF x2	でもさ、オレの母さんが言ってたんだけど\n子どもの事を想わない親なんて\nいないんだって	Still, my mom used to tell me that\nthere isn't a parent out there who\ndoesn't cherish their child.		Still, my mom used to tell me that\nthere isn't a parent out there who\ndoesn't cherish their child.
+cev14_070.scr:12	cev14_070.scr	12	アスベル	Asbel Lhant	personagem		…………	......		......
+cev14_070.scr:13	cev14_070.scr	13	カイル	Kyle Dunamis	personagem		何て言うか、だから、その……	What I mean is, well, um...		What I mean is, well, um...
+cev14_070.scr:14	cev14_070.scr	14	カイル	Kyle Dunamis	personagem	CRLF x2	アスベルのお父さんも、もしかしたら\nすっごく、アスベルの事を\n大切にしてたのかもしれないよ！	Maybe your father also cared\ndeeply for you, Asbel,\nmore than you ever realized!		Maybe your father also cared\ndeeply for you, Asbel,\nmore than you ever realized!
+cev14_070.scr:15	cev14_070.scr	15	アスベル	Asbel Lhant	personagem		そうかな……	Perhaps so......		Perhaps so......
+cev14_070.scr:16	cev14_070.scr	16	カイル	Kyle Dunamis	personagem	CRLF x1	きっとそうだよ。\n一度話し合ってみたらどうかな？	I'm sure he did!\nWhy not try having a talk with him?		I'm sure he did!\nWhy not try having a talk with him?
+cev14_070.scr:17	cev14_070.scr	17	アスベル	Asbel Lhant	personagem		…………	......		......
+cev14_070.scr:18	cev14_070.scr	18	アスベル	Asbel Lhant	personagem		（そう出来たら、良かったんだけどな……）	(If only I were able to do that......)		(If only I were able to do that......)
+cev14_080.scr:0	cev14_080.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	ねえ、シェリア？\nちょっと聞きたいんだけど……	Hey, Cheria?\nThere's something I want to ask...		Hey, Cheria?\nThere's something I want to ask...
+cev14_080.scr:1	cev14_080.scr	1	シェリア	Cheria Barnes	personagem		何かしら？	What might that be?		What might that be?
+cev14_080.scr:2	cev14_080.scr	2	カイル	Kyle Dunamis	personagem	CRLF x1	アスベルのお父さんって\nどんな人なの？	What kind of person was\nAsbel's father?		What kind of person was\nAsbel's father?
+cev14_080.scr:3	cev14_080.scr	3	シェリア	Cheria Barnes	personagem		どうして、そんな事が知りたいの？	Why do you want to know about that?		Why do you want to know about that?
+cev14_080.scr:4	cev14_080.scr	4	カイル	Kyle Dunamis	personagem	CRLF x2	この間、アスベルと家族の話をしてて\nオレが「お父さんってどんな人？」って\n聞いたんだ。そうしたら……	Asbel and I talked about family,\nand I asked, "What was your dad like?"\nAnd when I did that...		Asbel and I talked about family,\nand I asked, "What was your dad like?"\nAnd when I did that...
+cev14_080.scr:5	cev14_080.scr	5	シェリア	Cheria Barnes	personagem	CRLF x1	アスベルの反応が\nあまり良くなかったのね	Asbel's reaction wasn't\nvery good, was it?		Asbel's reaction wasn't\nvery good, was it?
+cev14_080.scr:6	cev14_080.scr	6	シェリア	Cheria Barnes	personagem	CRLF x2	……あのね、カイル。\n実は、アスベルのお父さんは……\n亡くなっているの	...Listen, Kyle.\nThe truth is, Asbel's father...\nhas passed away.		...Listen, Kyle.\nThe truth is, Asbel's father...\nhas passed away.
+cev14_080.scr:7	cev14_080.scr	7	カイル	Kyle Dunamis	personagem		えっ……	Huh......		Huh......
+cev14_080.scr:8	cev14_080.scr	8	シェリア	Cheria Barnes	personagem	CRLF x2	不幸な事故に遭われて……。\nアスベルは、最期を看取る事も\n出来なかった	He met with an unfortunate accident...\nAnd Asbel wasn't even able\nto be at his side at the end.		He met with an unfortunate accident...\nAnd Asbel wasn't even able\nto be at his side at the end.
+cev14_080.scr:9	cev14_080.scr	9	カイル	Kyle Dunamis	personagem		……そう、だったんだ……	...Is that... how it was......		...Is that... how it was......
+cev14_080.scr:10	cev14_080.scr	10	シェリア	Cheria Barnes	personagem	CRLF x1	せめて、お互いにもう少し\nわかり合えていたら……	If only they had understood\neach other a little more...		If only they had understood\neach other a little more...
+cev14_080.scr:11	cev14_080.scr	11	シェリア	Cheria Barnes	personagem	CRLF x2	ここまで悲しい気持ちには\nならなかったのかもしれないわ。\n今更、どうする事も出来ないけれど……	They might not have ended up feeling\nthis much sorrow.\nThough it's far too late for that now...		They might not have ended up feeling\nthis much sorrow.\nThough it's far too late for that now...
+cev14_080.scr:12	cev14_080.scr	12	カイル	Kyle Dunamis	personagem	CRLF x1	……オレ、そんな事も知らずに……。\nアスベル……	...Without knowing any of that, I...\nAsbel......		...Without knowing any of that, I...\nAsbel......
+cev14_090.scr:0	cev14_090.scr	0	クロエ	Chloe Valens	personagem		お〜い、デュナミス！	Heeeey, Dunamis!		Heeeey, Dunamis!
+cev14_090.scr:1	cev14_090.scr	1	カイル	Kyle Dunamis	personagem	CRLF x1	カイル：何？　呼んだ？\nロニ　　　：ん？　どうした？	Kyle: What? Did you call?\nLoni: Hm? What's up?		Kyle: What? Did you call?\nLoni: Hm? What's up?
+cev14_090.scr:2	cev14_090.scr	2	クロエ	Chloe Valens	personagem	CRLF x1	いや、私が呼んだのは\nカイル・デュナミスだ	No, the one I called for\nwas Kyle Dunamis.		No, the one I called for\nwas Kyle Dunamis.
+cev14_090.scr:3	cev14_090.scr	3	ロニ	Loni Dunamis	personagem	CRLF x1	何だよ、紛らわしい呼び方するなよな〜。\nよりによって「デュナミス」なんてよ	Don't use such confusing names~~!\nCalling out "Dunamis" of all things.		Don't use such confusing names~~!\nCalling out "Dunamis" of all things.
+cev14_090.scr:4	cev14_090.scr	4	クロエ	Chloe Valens	personagem	CRLF x1	そう言えば、二人は同じ名字だったな。\n兄弟……なのか？	Come to think of it, you share a surname.\nAre you two... brothers?		Come to think of it, you share a surname.\nAre you two... brothers?
+cev14_090.scr:5	cev14_090.scr	5	カイル	Kyle Dunamis	personagem	CRLF x1	う〜ん、兄弟みたいなものなんだけど\n血は繋がっていないんだ	Well, we're kind of like brothers,\nbut we're not related by blood.		Well, we're kind of like brothers,\nbut we're not related by blood.
+cev14_090.scr:6	cev14_090.scr	6	カイル	Kyle Dunamis	personagem		オレ達、同じ孤児院の出身なんだよ	We both grew up in the same orphanage.		We both grew up in the same orphanage.
+cev14_090.scr:7	cev14_090.scr	7	ロニ	Loni Dunamis	personagem	CRLF x1	そうそう。\nだから、同じ「デュナミス」姓ってわけだ	Exactly.\nThat's why we share the "Dunamis" name.		Exactly.\nThat's why we share the "Dunamis" name.
+cev14_090.scr:8	cev14_090.scr	8	クロエ	Chloe Valens	personagem	CRLF x2	そうだったのか……それは失礼した。\n確かに、兄弟にしては\nあまり似ていないと思っていたんだ	Is that so...? My apologies, then.\nI did think that for brothers,\nyou didn't resemble each other much.		Is that so...? My apologies, then.\nI did think that for brothers,\nyou didn't resemble each other much.
+cev14_090.scr:9	cev14_090.scr	9	ロニ	Loni Dunamis	personagem	CRLF x1	そうだろう、そうだろう。\nこのロニさまの方が、うんと男前だからな！	Right? Told ya so!\nBecause Lord Loni here is far handsomer!		Right? Told ya so!\nBecause Lord Loni here is far handsomer!
+cev14_090.scr:10	cev14_090.scr	10	クロエ	Chloe Valens	personagem		それはないと思うが……	I don't think that's the case...		I don't think that's the case...
+cev14_090.scr:11	cev14_090.scr	11	ロニ	Loni Dunamis	personagem		何っ？	What!?		What!?
+cev14_090.scr:12	cev14_090.scr	12	カイル	Kyle Dunamis	personagem	CRLF x2	そうだよね。\n黙ってれば、ロニはそこそこかっこいい部類\nだと思うけど……残念だよね……	Yeah, exactly.\nAs long as Loni keeps his mouth shut,\nhe's okay-looking... what a shame...		Yeah, exactly.\nAs long as Loni keeps his mouth shut,\nhe's okay-looking... what a shame...
+cev14_090.scr:13	cev14_090.scr	13	ロニ	Loni Dunamis	personagem	CRLF x1	カイル！　\nそれはどういう意味だ！？	Kyle!\nWhat is that supposed to mean!?		Kyle!\nWhat is that supposed to mean!?
+cev14_090.scr:14	cev14_090.scr	14	クロエ	Chloe Valens	personagem	CRLF x1	ああ……。\nそれに、何より腹を出し過ぎている	Yeah.\nAnd you expose your midriff too much.		Yeah.\nAnd you expose your midriff too much.
+cev14_090.scr:15	cev14_090.scr	15	ロニ	Loni Dunamis	personagem	CRLF x1	これは、こういうファッションなんだよ！\nそんな冷たい目で見るんじゃねえ〜〜〜！！	This is what high fashion looks like!\nDon't look at me with those cold eyes~~~!!		This is what high fashion looks like!\nDon't look at me with those cold eyes~~~!!
+cev14_200.scr:0	cev14_200.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev14_200.scr:1	cev14_200.scr	1	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:2	cev14_200.scr	2	カイル	Kyle Dunamis	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev14_200.scr:3	cev14_200.scr	3	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:4	cev14_200.scr	4	カイル	Kyle Dunamis	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev14_200.scr:5	cev14_200.scr	5	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:6	cev14_200.scr	6	カイル	Kyle Dunamis	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev14_200.scr:7	cev14_200.scr	7	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:8	cev14_200.scr	8	カイル	Kyle Dunamis	personagem	CRLF x1	驚き。\n	Surprise.\n		Surprise.\n
+cev14_200.scr:9	cev14_200.scr	9	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:10	cev14_200.scr	10	カイル	Kyle Dunamis	personagem	CRLF x1	真剣。\n	Serious.\n		Serious.\n
+cev14_200.scr:11	cev14_200.scr	11	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:12	cev14_200.scr	12	カイル	Kyle Dunamis	personagem	CRLF x1	得意。\n	Pride.\n		Pride.\n
+cev14_200.scr:13	cev14_200.scr	13	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:14	cev14_200.scr	14	カイル	Kyle Dunamis	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev14_200.scr:15	cev14_200.scr	15	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:16	cev14_200.scr	16	カイル	Kyle Dunamis	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev14_200.scr:17	cev14_200.scr	17	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:18	cev14_200.scr	18	カイル	Kyle Dunamis	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev14_200.scr:19	cev14_200.scr	19	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:20	cev14_200.scr	20	カイル	Kyle Dunamis	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev14_200.scr:21	cev14_200.scr	21	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:22	cev14_200.scr	22	カイル	Kyle Dunamis	personagem	CRLF x1	驚き。\n	Surprise.\n		Surprise.\n
+cev14_200.scr:23	cev14_200.scr	23	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:24	cev14_200.scr	24	カイル	Kyle Dunamis	personagem	CRLF x1	真剣。\n	Serious.\n		Serious.\n
+cev14_200.scr:25	cev14_200.scr	25	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:26	cev14_200.scr	26	カイル	Kyle Dunamis	personagem	CRLF x1	得意。\n	Pride.\n		Pride.\n
+cev14_200.scr:27	cev14_200.scr	27	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:28	cev14_200.scr	28	カイル	Kyle Dunamis	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev14_200.scr:29	cev14_200.scr	29	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:30	cev14_200.scr	30	カイル	Kyle Dunamis	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev14_200.scr:31	cev14_200.scr	31	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:32	cev14_200.scr	32	カイル	Kyle Dunamis	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev14_200.scr:33	cev14_200.scr	33	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:34	cev14_200.scr	34	カイル	Kyle Dunamis	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev14_200.scr:35	cev14_200.scr	35	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:36	cev14_200.scr	36	カイル	Kyle Dunamis	personagem	CRLF x1	驚き。\n	Surprise.\n		Surprise.\n
+cev14_200.scr:37	cev14_200.scr	37	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:38	cev14_200.scr	38	カイル	Kyle Dunamis	personagem	CRLF x1	真剣。\n	Serious.\n		Serious.\n
+cev14_200.scr:39	cev14_200.scr	39	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev14_200.scr:40	cev14_200.scr	40	カイル	Kyle Dunamis	personagem	CRLF x1	得意。\n	Pride.\n		Pride.\n
+cev14_200.scr:41	cev14_200.scr	41	カイル	Kyle Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.

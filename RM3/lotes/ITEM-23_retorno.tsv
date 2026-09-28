@@ -1,0 +1,321 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+valuables#1920	valuables	1920	(item/equipamento)	(item/equipment)	sistema		レイズソウル	Raise Soul	
+valuables#1921	valuables	1921	(item/equipamento)	(item/equipment)	sistema		対象となる戦闘不能者を復活させる術（HP小回復）	An arte that revives a KO'd target ally (minor HP recovery).	
+valuables#1922	valuables	1922	(item/equipamento)	(item/equipment)	sistema		クリティカルブレード	Critical Blade	
+valuables#1923	valuables	1923	(item/equipamento)	(item/equipment)	sistema		水蛇刀	Water Snake Blade	
+valuables#1924	valuables	1924	(item/equipamento)	(item/equipment)	sistema		蛇の意志を宿した短剣を投げ、敵を引き寄せる特技	A skill that throws a dagger harboring the will of a snake to draw enemies in.	
+valuables#1925	valuables	1925	(item/equipamento)	(item/equipment)	sistema		清潤	Pure Moisture	
+valuables#1926	valuables	1926	(item/equipamento)	(item/equipment)	sistema		水の祝福をかけた短剣を三連続で投げ付ける秘技	A secret arte that throws daggers blessed with water three times in succession.	
+valuables#1927	valuables	1927	(item/equipamento)	(item/equipment)	sistema		鎮魂閃	Requiem Flash	
+valuables#1928	valuables	1928	(item/equipamento)	(item/equipment)	sistema		聖なる刃で踏み込み、一気に突く秘技	A secret arte that lunges in with a holy blade and thrusts all at once.	
+valuables#1929	valuables	1929	(item/equipamento)	(item/equipment)	sistema		神雷招	Divine Thunder Call	
+valuables#1930	valuables	1930	(item/equipamento)	(item/equipment)	sistema		雷の力を込めた短剣を放射状に放ち落雷させる秘技	A secret arte that fires lightning-imbued daggers radially to call down thunderbolts.	
+valuables#1931	valuables	1931	(item/equipamento)	(item/equipment)	sistema		霊貴	Spiritual Nobility	
+valuables#1932	valuables	1932	(item/equipamento)	(item/equipment)	sistema		祝福をかけた短剣を縦に五本投げ付ける奥義	An arcane arte that throws five blessed daggers vertically.	
+valuables#1933	valuables	1933	(item/equipamento)	(item/equipment)	sistema		無限刀	Infinite Blade	
+valuables#1934	valuables	1934	(item/equipamento)	(item/equipment)	sistema		意志を持つ無機物をあるべき姿に戻す無限の短剣奥義	An infinite dagger arcane arte that restores conscious inorganic matter to its proper form.	
+valuables#1935	valuables	1935	(item/equipamento)	(item/equipment)	sistema		凍驟雨	Frozen Rain	
+valuables#1936	valuables	1936	(item/equipamento)	(item/equipment)	sistema		凍てつかせる短剣を敵の周囲に降らせる奥義	An arcane arte that rains down freezing daggers around the enemy.	
+valuables#1937	valuables	1937	(item/equipamento)	(item/equipment)	sistema		ピクシーサークル	Pixie Circle	
+valuables#1938	valuables	1938	(item/equipamento)	(item/equipment)	sistema		範囲内の対象のＨＰを小回復する術	An arte that slightly restores HP to targets in range.	
+valuables#1939	valuables	1939	(item/equipamento)	(item/equipment)	sistema		フェアリーサークル	Fairy Circle	
+valuables#1940	valuables	1940	(item/equipamento)	(item/equipment)	sistema		範囲内の対象のＨＰを大幅に回復する術	An arte that greatly restores HP to targets in range.	
+valuables#1941	valuables	1941	(item/equipamento)	(item/equipment)	sistema		リリジャス	Religious	
+valuables#1942	valuables	1942	(item/equipamento)	(item/equipment)	sistema		小範囲に雷を落とす術	An arte that calls down lightning over a small area.	
+valuables#1943	valuables	1943	(item/equipamento)	(item/equipment)	sistema		フラッシュティア	Flash Tear	
+valuables#1944	valuables	1944	(item/equipamento)	(item/equipment)	sistema		不浄なる心に聖なる刻印を刻み浄化する術	An arte that brands impure hearts with a holy seal to purify them.	
+valuables#1945	valuables	1945	(item/equipamento)	(item/equipment)	sistema		ライトニングブラスター	Lightning Blaster	
+valuables#1946	valuables	1946	(item/equipamento)	(item/equipment)	sistema		放射状に清めの雷撃を放つ術	An arte that shoots purifying lightning in a radial pattern.	
+valuables#1947	valuables	1947	(item/equipamento)	(item/equipment)	sistema		イノセントガーデン	Innocent Garden	
+valuables#1948	valuables	1948	(item/equipamento)	(item/equipment)	sistema		ラズベリーグミ	Raspberry Gummy	
+valuables#1949	valuables	1949	(item/equipamento)	(item/equipment)	sistema		シュタイフェ・ブリーゼ	Steife Brise	
+valuables#1950	valuables	1950	(item/equipamento)	(item/equipment)	sistema		マーシレスハント	Merciless Hunt	
+valuables#1951	valuables	1951	(item/equipamento)	(item/equipment)	sistema		連続射撃を行う特技	A skill that executes consecutive shooting.	
+valuables#1952	valuables	1952	(item/equipamento)	(item/equipment)	sistema		ショットブラスト	Shot Blast	
+valuables#1953	valuables	1953	(item/equipamento)	(item/equipment)	sistema		射撃命中時に石つぶてで攻撃する秘技	A secret arte that attacks with gravel upon shooting hits.	
+valuables#1954	valuables	1954	(item/equipamento)	(item/equipment)	sistema		スナイプフォース	Snipe Force	
+valuables#1955	valuables	1955	(item/equipamento)	(item/equipment)	sistema		射撃命中時に闇の力で攻撃する秘技	A secret arte that attacks with dark power upon shooting hits.	
+valuables#1956	valuables	1956	(item/equipamento)	(item/equipment)	sistema		ブルータルハント	Brutal Hunt	
+valuables#1957	valuables	1957	(item/equipamento)	(item/equipment)	sistema		連続射撃を行う秘技	A secret arte that executes consecutive shooting.	
+valuables#1958	valuables	1958	(item/equipamento)	(item/equipment)	sistema		ショットグレイブ	Shot Grave	
+valuables#1959	valuables	1959	(item/equipamento)	(item/equipment)	sistema		射撃命中時に鋭い岩で攻撃する奥義	An arcane arte that attacks with sharp rocks upon shooting hits.	
+valuables#1960	valuables	1960	(item/equipamento)	(item/equipment)	sistema		スナイプゲイト	Snipe Gate	
+valuables#1961	valuables	1961	(item/equipamento)	(item/equipment)	sistema		射撃命中時にネガティブゲイト発生の奥義	An arcane arte that triggers Negative Gate upon shooting hits.	
+valuables#1962	valuables	1962	(item/equipamento)	(item/equipment)	sistema		レイジングハント	Raging Hunt	
+valuables#1963	valuables	1963	(item/equipamento)	(item/equipment)	sistema		連続射撃を行う奥義	An arcane arte that executes consecutive shooting.	
+valuables#1964	valuables	1964	(item/equipamento)	(item/equipment)	sistema		命中と共に大地を割く衝撃波を起こす奥義	An arcane arte that triggers earth-cleaving shockwaves upon hitting.	
+valuables#1965	valuables	1965	(item/equipamento)	(item/equipment)	sistema		エンドレス・トラジディ	Endless Tragedy	
+valuables#1966	valuables	1966	(item/equipamento)	(item/equipment)	sistema		ダークフォース	Dark Force	
+valuables#1967	valuables	1967	(item/equipamento)	(item/equipment)	sistema		闇の力で敵を攻撃する術	An arte that attacks enemies with dark power.	
+valuables#1968	valuables	1968	(item/equipamento)	(item/equipment)	sistema		光波刃	Light Wave Blade	
+valuables#1969	valuables	1969	(item/equipamento)	(item/equipment)	sistema		武器を振りぬいて光弾を撃ち出す特技	A skill that swings a weapon to fire light spheres.	
+valuables#1970	valuables	1970	(item/equipamento)	(item/equipment)	sistema		牙連光波刃	Fang Barrage Light Wave Blade	
+valuables#1971	valuables	1971	(item/equipamento)	(item/equipment)	sistema		牙連刃と光波刃を組合わせた奥義	An arcane arte that combines Fang Barrage and Light Wave Blade.	
+valuables#1972	valuables	1972	(item/equipamento)	(item/equipment)	sistema		鳳翼熾天翔	Phoenix Soaring Sky	
+valuables#1973	valuables	1973	(item/equipamento)	(item/equipment)	sistema		絢パン	Dazzling Pan	
+valuables#1974	valuables	1974	(item/equipamento)	(item/equipment)	sistema		幻晶パン	Phantom Crystal Pan	
+valuables#1975	valuables	1975	(item/equipamento)	(item/equipment)	sistema		昇パン	Ascending Pan	
+valuables#1976	valuables	1976	(item/equipamento)	(item/equipment)	sistema		パン破斬	Pan Rending Slash	
+valuables#1977	valuables	1977	(item/equipamento)	(item/equipment)	sistema		魔神パン	Demon Pan	
+valuables#1978	valuables	1978	(item/equipamento)	(item/equipment)	sistema		パン沙雨	Pan Rain	
+valuables#1979	valuables	1979	(item/equipamento)	(item/equipment)	sistema		魔神パン・絢パン	Demon Pan: Dazzling Pan	
+valuables#1980	valuables	1980	(item/equipamento)	(item/equipment)	sistema		昇パン神風閃	Ascending Pan Divine Wind Flash	
+valuables#1981	valuables	1981	(item/equipamento)	(item/equipment)	sistema		ピアシスライン	Pierce Line	
+valuables#1982	valuables	1982	(item/equipamento)	(item/equipment)	sistema		標的を貫通する矢を放つ特技	A skill that fires arrows piercing through targets.	
+valuables#1983	valuables	1983	(item/equipamento)	(item/equipment)	sistema		シュトルムエッジ	Sturm Edge	
+valuables#1984	valuables	1984	(item/equipamento)	(item/equipment)	sistema		瞬く間に数本の矢を放ち敵を攻撃する特技	A skill that fires several arrows in the blink of an eye to attack enemies.	
+valuables#1985	valuables	1985	(item/equipamento)	(item/equipment)	sistema		弓攻撃で敵を浮かせ、追い討ちをかける近距離用特技	A short-range skill that launches enemies with bow attacks and follows up.	
+valuables#1986	valuables	1986	(item/equipamento)	(item/equipment)	sistema		ヴォルテックライン	Vortex Line	
+valuables#1987	valuables	1987	(item/equipamento)	(item/equipment)	sistema		雷撃を帯びた矢で敵を貫く秘技	A secret arte that pierces enemies with lightning-imbued arrows.	
+valuables#1988	valuables	1988	(item/equipamento)	(item/equipment)	sistema		ブラストエッジ	Blast Edge	
+valuables#1989	valuables	1989	(item/equipamento)	(item/equipment)	sistema		炎の力で焼き尽くす矢を放つ秘技	A secret arte that fires arrows incinerating with fire power.	
+valuables#1990	valuables	1990	(item/equipamento)	(item/equipment)	sistema		ストローククエイカー	Stroke Quaker	
+valuables#1991	valuables	1991	(item/equipamento)	(item/equipment)	sistema		ジャンプして撃ち放った矢の衝撃で敵を攻撃する奥義	An arcane arte that attacks enemies with the impact of arrows shot from a jump.	
+valuables#1992	valuables	1992	(item/equipamento)	(item/equipment)	sistema		エンブレスブルー	Embrace Blue	
+valuables#1993	valuables	1993	(item/equipamento)	(item/equipment)	sistema		天に放った矢が無数の氷の刃となり降り注ぐ奥義	An arcane arte where arrows shot skyward rain down as countless ice blades.	
+valuables#1994	valuables	1994	(item/equipamento)	(item/equipment)	sistema		ジャンプし、上空から地上に向けて複数の矢を放つ秘技	A secret arte that jumps and fires multiple arrows from above to the ground.	
+valuables#1995	valuables	1995	(item/equipamento)	(item/equipment)	sistema		エンブレススター	Embrace Star	
+valuables#1996	valuables	1996	(item/equipamento)	(item/equipment)	sistema		幾つもの矢を降らせる秘技	A secret arte that rains down numerous arrows.	
+valuables#1997	valuables	1997	(item/equipamento)	(item/equipment)	sistema		ブレイブフィード	Brave Feed	
+valuables#1998	valuables	1998	(item/equipamento)	(item/equipment)	sistema		扇状に矢を撃ち出した後、前方に矢を集中して射る奥義	An arcane arte that fires arrows in a fan shape, then focuses arrows forward.	
+valuables#1999	valuables	1999	(item/equipamento)	(item/equipment)	sistema		アストラル・レイン	Astral Rain	
+valuables#2000	valuables	2000	(item/equipamento)	(item/equipment)	sistema		朱蓮	Crimson Lotus	
+valuables#2001	valuables	2001	(item/equipamento)	(item/equipment)	sistema		火薬矢で、命中した敵に連続ダメージを与える特技	A skill that deals continuous damage to hit enemies with gunpowder arrows.	
+valuables#2002	valuables	2002	(item/equipamento)	(item/equipment)	sistema		飛燕	Flying Swallow	
+valuables#2003	valuables	2003	(item/equipamento)	(item/equipment)	sistema		ジャンプ後、風属性を持つ矢を滑空する様に放つ奥義	An arcane arte that jumps and fires wind-element arrows glidingly.	
+valuables#2004	valuables	2004	(item/equipamento)	(item/equipment)	sistema		迅雷	Thunderclap	
+valuables#2005	valuables	2005	(item/equipamento)	(item/equipment)	sistema		着弾と同時に落雷を発生させる秘技	A secret arte that calls down lightning upon impact.	
+valuables#2006	valuables	2006	(item/equipamento)	(item/equipment)	sistema		死天滅殺弓	Heaven-Slaying Death Bow	
+valuables#2007	valuables	2007	(item/equipamento)	(item/equipment)	sistema		敵を追尾する貫通エネルギーを放つ奥義	An arcane arte that fires homing piercing energy toward enemies.	
+valuables#2008	valuables	2008	(item/equipamento)	(item/equipment)	sistema		螺旋	Spiral	
+valuables#2009	valuables	2009	(item/equipamento)	(item/equipment)	sistema		広範囲をカバーする同時射撃奥義	A simultaneous shooting arcane arte covering a wide area.	
+valuables#2010	valuables	2010	(item/equipamento)	(item/equipment)	sistema		アースバイト	Earth Bite	
+valuables#2011	valuables	2011	(item/equipamento)	(item/equipment)	sistema		ヘルブレイズ	Hell Blaze	
+valuables#2012	valuables	2012	(item/equipamento)	(item/equipment)	sistema		ネガティブバースト	Negative Burst	
+valuables#2013	valuables	2013	(item/equipamento)	(item/equipment)	sistema		ファントムペイン	Phantom Pain	
+valuables#2014	valuables	2014	(item/equipamento)	(item/equipment)	sistema		ヘルバイトクロー	Hell Bite Claw	
+valuables#2015	valuables	2015	(item/equipamento)	(item/equipment)	sistema		獣迅翔	Beast Swift Soar	
+valuables#2016	valuables	2016	(item/equipamento)	(item/equipment)	sistema		鷹爪連撃	Eagle Claw Combo	
+valuables#2017	valuables	2017	(item/equipamento)	(item/equipment)	sistema		崩獣脚	Crushing Beast Kick	
+valuables#2018	valuables	2018	(item/equipamento)	(item/equipment)	sistema		獣影回帰	Beast Shadow Regression	
+valuables#2019	valuables	2019	(item/equipamento)	(item/equipment)	sistema		獣破特攻弾	Beast Shatter Special Bullet	
+valuables#2020	valuables	2020	(item/equipamento)	(item/equipment)	sistema		雷神獣連撃	Thunder God Beast Combo	
+valuables#2021	valuables	2021	(item/equipamento)	(item/equipment)	sistema		相棒のモノはオイラのモノ	What's My Partner's Is Mine	
+valuables#2022	valuables	2022	(item/equipamento)	(item/equipment)	sistema		龍虎滅牙陣	Dragon Tiger Ruin Fang Formation	
+valuables#2023	valuables	2023	(item/equipamento)	(item/equipment)	sistema		セルシウスキャリバー	Celsius Calibur	
+valuables#2024	valuables	2024	(item/equipamento)	(item/equipment)	sistema		レム	Rem	
+valuables#2025	valuables	2025	(item/equipamento)	(item/equipment)	sistema		無想神烈閃	Musou Shinretsusen	
+valuables#2026	valuables	2026	(item/equipamento)	(item/equipment)	sistema		殺撃幻竜陣	Murderous Illusion Dragon Formation	
+valuables#2027	valuables	2027	(item/equipamento)	(item/equipment)	sistema		インフェルノドライブ	Inferno Drive	
+valuables#2028	valuables	2028	(item/equipamento)	(item/equipment)	sistema		天威浄破弓	Heavenly Power Purifying Bow	
+valuables#2029	valuables	2029	(item/equipamento)	(item/equipment)	sistema		迅雷天翔撃	Thunderbolt Heavenly Strike	
+valuables#2030	valuables	2030	(item/equipamento)	(item/equipment)	sistema		雷撃で浮かせ巨大な鋼を具現化させて敵へと落とす奥義	An arcane arte that launches with lightning and drops giant manifested steel onto foes.	
+valuables#2031	valuables	2031	(item/equipamento)	(item/equipment)	sistema		空蓮華	Void Lotus Flower	
+valuables#2032	valuables	2032	(item/equipamento)	(item/equipment)	sistema		三連蹴りの後、剣を振りかぶって斬り付ける特技	A skill that executes three kicks, raises a sword overhead, and slashes.	
+valuables#2033	valuables	2033	(item/equipamento)	(item/equipment)	sistema		空蓮双旋華	Void Lotus Twin Spin	
+valuables#2034	valuables	2034	(item/equipamento)	(item/equipment)	sistema		空蓮華と虎牙破斬を組合わせた奥義	An arcane arte that combines Void Lotus Flower and Tiger Blade.	
+valuables#2035	valuables	2035	(item/equipamento)	(item/equipment)	sistema		ヒートバレット	Heat Bullet	
+valuables#2036	valuables	2036	(item/equipamento)	(item/equipment)	sistema		前方を振り払う様に銃弾を浴びせる特技	A skill that showers bullets sweeping forward.	
+valuables#2037	valuables	2037	(item/equipamento)	(item/equipment)	sistema		エアロバレット	Aero Bullet	
+valuables#2038	valuables	2038	(item/equipamento)	(item/equipment)	sistema		後方へジャンプしながら斜め下の敵を撃つ特技	A skill that shoots diagonally downward enemies while jumping backward.	
+valuables#2039	valuables	2039	(item/equipamento)	(item/equipment)	sistema		ブレイズバレット	Blaze Bullet	
+valuables#2040	valuables	2040	(item/equipamento)	(item/equipment)	sistema		振り払う様に左右往復で銃弾を浴びせる秘技	A secret arte that showers bullets sweeping back and forth left and right.	
+valuables#2041	valuables	2041	(item/equipamento)	(item/equipment)	sistema		シャインバレット	Shine Bullet	
+valuables#2042	valuables	2042	(item/equipamento)	(item/equipment)	sistema		地面に発光弾を撃ち、敵をひるませる秘技	A secret arte that shoots luminous bullets at the ground to flinch enemies.	
+valuables#2043	valuables	2043	(item/equipamento)	(item/equipment)	sistema		シャイニングレイザー	Shining Laser	
+valuables#2044	valuables	2044	(item/equipamento)	(item/equipment)	sistema		交差させた銃口から光弾を撃ち出す秘技	A secret arte that shoots light spheres from crossed gun muzzles.	
+valuables#2045	valuables	2045	(item/equipamento)	(item/equipment)	sistema		ガトリングバレット	Gatling Bullet	
+valuables#2046	valuables	2046	(item/equipamento)	(item/equipment)	sistema		宙に舞い、回転しながら十二発の弾を撃ち込む秘技	A secret arte that dances into the air and fires twelve bullets while spinning.	
+valuables#2047	valuables	2047	(item/equipamento)	(item/equipment)	sistema		スライディングバレット	Sliding Bullet	
+valuables#2048	valuables	2048	(item/equipamento)	(item/equipment)	sistema		スライディングで滑り込みながら、射撃を行う奥義	An arcane arte that shoots while sliding into the enemy.	
+valuables#2049	valuables	2049	(item/equipamento)	(item/equipment)	sistema		エクスプロードバレット	Explode Bullet	
+valuables#2050	valuables	2050	(item/equipamento)	(item/equipment)	sistema		広範囲に爆発する銃弾を撃つ奥義	An arcane arte that shoots bullets exploding over a wide area.	
+valuables#2051	valuables	2051	(item/equipamento)	(item/equipment)	sistema		Ｘバスター	X-Buster	
+valuables#2052	valuables	2052	(item/equipamento)	(item/equipment)	sistema		バーニングアサルト	Burning Assault	
+valuables#2053	valuables	2053	(item/equipamento)	(item/equipment)	sistema		近距離で爆発するチャージバレットで攻める奥義	An arcane arte that attacks with Charge Bullets exploding at close range.	
+valuables#2054	valuables	2054	(item/equipamento)	(item/equipment)	sistema		ライジングレイザー	Rising Laser	
+valuables#2055	valuables	2055	(item/equipamento)	(item/equipment)	sistema		ジャンプ後、斜め下の敵に向けて光弾を撃つ奥義	An arcane arte that jumps and shoots light spheres at diagonally downward enemies.	
+valuables#2056	valuables	2056	(item/equipamento)	(item/equipment)	sistema		爆撃掌	Bombing Palm	
+valuables#2057	valuables	2057	(item/equipamento)	(item/equipment)	sistema		入魂の一撃を打ち込み、敵をダウンさせる秘技	A secret arte that punches with full soul to knock enemies down.	
+valuables#2058	valuables	2058	(item/equipamento)	(item/equipment)	sistema		魔神拳・双牙	Demon Fist: Twin Fangs	
+valuables#2059	valuables	2059	(item/equipamento)	(item/equipment)	sistema		拳撃を連続して飛ばし敵を攻撃する秘技	A secret arte that fires consecutive fist blasts to attack enemies.	
+valuables#2060	valuables	2060	(item/equipamento)	(item/equipment)	sistema		疾空脚	Gale Leg	
+valuables#2061	valuables	2061	(item/equipamento)	(item/equipment)	sistema		下段払いから回し蹴りへ続く特技	A skill that continues from a low sweep into a roundhouse kick.	
+valuables#2062	valuables	2062	(item/equipamento)	(item/equipment)	sistema		発	Hatsu	
+valuables#2063	valuables	2063	(item/equipamento)	(item/equipment)	sistema		自らの闘気を爆発させ周囲の敵を吹き飛ばす奥義	An arcane arte that detonates one's own fighting spirit to blow away surrounding foes.	
+valuables#2064	valuables	2064	(item/equipamento)	(item/equipment)	sistema		錬氣治癒功	Qi Gathering Healing	
+valuables#2065	valuables	2065	(item/equipamento)	(item/equipment)	sistema		対象となる味方一人のＨＰを大回復する術	An arte that greatly restores HP to a single target ally.	
+valuables#2066	valuables	2066	(item/equipamento)	(item/equipment)	sistema		錬命陣	Life Refining Formation	
+valuables#2067	valuables	2067	(item/equipamento)	(item/equipment)	sistema		錬護陣	Guard Refining Formation	
+valuables#2068	valuables	2068	(item/equipamento)	(item/equipment)	sistema		錬力陣	Power Refining Formation	
+valuables#2069	valuables	2069	(item/equipamento)	(item/equipment)	sistema		錬精陣	Spirit Refining Formation	
+valuables#2070	valuables	2070	(item/equipamento)	(item/equipment)	sistema		コレールの熱視線	Chorale's Warm Gaze	
+valuables#2071	valuables	2071	(item/equipamento)	(item/equipment)	sistema		湾曲したデジャヴュ	Curved Deja Vu	
+valuables#2072	valuables	2072	(item/equipamento)	(item/equipment)	sistema		死線上のミゼル	Mizelle on the Brink of Death	
+valuables#2073	valuables	2073	(item/equipamento)	(item/equipment)	sistema		暴虐なるエンヴィ	Tyrannical Envy	
+valuables#2074	valuables	2074	(item/equipamento)	(item/equipment)	sistema		石化のマリス	Malice of Petrification	
+valuables#2075	valuables	2075	(item/equipamento)	(item/equipment)	sistema		世界の掟	Law of the World	
+valuables#2076	valuables	2076	(item/equipamento)	(item/equipment)	sistema		螺旋するメジャビュ	Spiraling Megavu	
+valuables#2077	valuables	2077	(item/equipamento)	(item/equipment)	sistema		追従するランキュヌ	Pursuing Rancune	
+valuables#2078	valuables	2078	(item/equipamento)	(item/equipment)	sistema		束縛のソリチュード	Solitude of Binding	
+valuables#2079	valuables	2079	(item/equipamento)	(item/equipment)	sistema		渇望のイデアル	Ideal of Yearning	
+valuables#2080	valuables	2080	(item/equipamento)	(item/equipment)	sistema		再誕のピティエ	Pitier of Rebirth	
+valuables#2081	valuables	2081	(item/equipamento)	(item/equipment)	sistema		突き上げるエーヌ	Upward Heinu	
+valuables#2082	valuables	2082	(item/equipamento)	(item/equipment)	sistema		世界創造のメルト	World-Creating Melt	
+valuables#2083	valuables	2083	(item/equipamento)	(item/equipment)	sistema		連続して回転蹴りを行い、剣で止めを刺す特技	A skill that executes consecutive spinning kicks and finishes with a sword.	
+valuables#2084	valuables	2084	(item/equipamento)	(item/equipment)	sistema		銃剣で突進後、石つぶてで攻撃する奥義	An arcane arte that rushes with a gunblade and attacks with gravel.	
+valuables#2085	valuables	2085	(item/equipamento)	(item/equipment)	sistema		アイストルネード	Ice Tornado	
+valuables#2086	valuables	2086	(item/equipamento)	(item/equipment)	sistema		氷の嵐を発生させる術	An arte that creates an ice storm.	
+valuables#2087	valuables	2087	(item/equipamento)	(item/equipment)	sistema		イルミネイトレイザー	Illuminate Laser	
+valuables#2088	valuables	2088	(item/equipamento)	(item/equipment)	sistema		蹴りで打ち上げ、光弾で追撃する奥義	An arcane arte that launches with kicks and chases with light spheres.	
+valuables#2089	valuables	2089	(item/equipamento)	(item/equipment)	sistema		空中に飛び上がり、急降下によって敵を攻撃する特技	A skill that leaps into the air and attacks enemies with a rapid dive.	
+valuables#2090	valuables	2090	(item/equipamento)	(item/equipment)	sistema		真空破を巻き起こし敵を薙ぎ倒す特技	A skill that stirs up vacuum waves to mow enemies down.	
+valuables#2091	valuables	2091	(item/equipamento)	(item/equipment)	sistema		真空破を巻き起こし敵を薙ぎ倒す秘技	A secret arte that stirs up vacuum waves to mow enemies down.	
+valuables#2092	valuables	2092	(item/equipamento)	(item/equipment)	sistema		最後	The End	
+valuables#2093	valuables	2093	(item/equipamento)	(item/equipment)	sistema		称号未設定	No Title Set	
+valuables#2094	valuables	2094	(item/equipamento)	(item/equipment)	sistema		なし	None	
+valuables#2095	valuables	2095	(item/equipamento)	(item/equipment)	sistema		テレジアの救世主	Savior of Terresia	
+valuables#2096	valuables	2096	(item/equipamento)	(item/equipment)	sistema		異世界テレジアを救った者の称号	Title for one who saved the otherworldly Terresia.	
+valuables#2097	valuables	2097	(item/equipamento)	(item/equipment)	sistema		レディアント マイソロジーをプレイしている証	Proof of playing Tales of the World: Radiant Mythology.	
+valuables#2098	valuables	2098	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ＋２％　基礎物理攻撃力＋４％	Max HP +2%, Base Physical Attack +4%	
+valuables#2099	valuables	2099	(item/equipamento)	(item/equipment)	sistema		グラニデの救世主	Savior of Granide	
+valuables#2100	valuables	2100	(item/equipamento)	(item/equipment)	sistema		異世界グラニデを救った者の称号	Title for one who saved the otherworldly Granide.	
+valuables#2101	valuables	2101	(item/equipamento)	(item/equipment)	sistema		レディアント マイソロジー2をプレイしている証	Proof of playing Tales of the World: Radiant Mythology 2.	
+valuables#2102	valuables	2102	(item/equipamento)	(item/equipment)	sistema		最大ＴＰ＋２％　基礎術攻撃力＋４％	Max TP +2%, Base Magic Attack +4%	
+valuables#2103	valuables	2103	(item/equipamento)	(item/equipment)	sistema		違反者	Violator	
+valuables#2104	valuables	2104	(item/equipamento)	(item/equipment)	sistema		この世界の掟に反する者の称号	Title for one who breaks the rules of this world.	
+valuables#2105	valuables	2105	(item/equipamento)	(item/equipment)	sistema		データ改ざんを行った不名誉な証	Dishonorable proof of modifying game data.	
+valuables#2106	valuables	2106	(item/equipamento)	(item/equipment)	sistema		称号効果なし	No title effect.	
+valuables#2107	valuables	2107	(item/equipamento)	(item/equipment)	sistema		罪なる救世主	Sinful Savior	
+valuables#2108	valuables	2108	(item/equipamento)	(item/equipment)	sistema		ウィダーシンに勝った者の称号	Title for one who defeated Widdershin.	
+valuables#2109	valuables	2109	(item/equipamento)	(item/equipment)	sistema		闘技場でウィダーシンを撃破	Defeated Widdershin in the Colosseum.	
+valuables#2110	valuables	2110	(item/equipamento)	(item/equipment)	sistema		基礎術攻撃力＋８％　基礎術防御力＋８％	Base Magic Attack +8%, Base Magic Defense +8%	
+valuables#2111	valuables	2111	(item/equipamento)	(item/equipment)	sistema		悲しき負の王	Sorrowful King of Negativity	
+valuables#2112	valuables	2112	(item/equipamento)	(item/equipment)	sistema		ゲーデに勝った者の称号	Title for one who defeated Goede.	
+valuables#2113	valuables	2113	(item/equipamento)	(item/equipment)	sistema		闘技場でゲーデを撃破	Defeated Goede in the Colosseum.	
+valuables#2114	valuables	2114	(item/equipamento)	(item/equipment)	sistema		基礎物理攻撃力＋８％　基礎物理防御力＋８％	Base Physical Attack +8%, Base Physical Defense +8%	
+valuables#2115	valuables	2115	(item/equipamento)	(item/equipment)	sistema		降りてきた冒険者	Descended Adventurer	
+valuables#2116	valuables	2116	(item/equipamento)	(item/equipment)	sistema		冒険初心者の称号	Title for an adventure beginner.	
+valuables#2117	valuables	2117	(item/equipamento)	(item/equipment)	sistema		初期称号	Initial Title	
+valuables#2118	valuables	2118	(item/equipamento)	(item/equipment)	sistema		戦いの火蓋	Opening of Battle	
+valuables#2119	valuables	2119	(item/equipamento)	(item/equipment)	sistema		戦いの勝利を知った者の称号	Title for one who knows victory in battle.	
+valuables#2120	valuables	2120	(item/equipamento)	(item/equipment)	sistema		はじめての戦闘に勝利した	Won the very first battle.	
+valuables#2121	valuables	2121	(item/equipamento)	(item/equipment)	sistema		獲得経験値＋２％	EXP Gained +2%	
+valuables#2122	valuables	2122	(item/equipamento)	(item/equipment)	sistema		アドリビトムの一員	Ad Libitum Member	
+valuables#2123	valuables	2123	(item/equipamento)	(item/equipment)	sistema		アドリビトムの正式なメンバーの称号	Title for an official member of Ad Libitum.	
+valuables#2124	valuables	2124	(item/equipamento)	(item/equipment)	sistema		アドリビトムでの仕事を覚えた	Learned the ropes of working in Ad Libitum.	
+valuables#2125	valuables	2125	(item/equipamento)	(item/equipment)	sistema		クエスト報酬の獲得確率＋	Quest Reward Chance +	
+valuables#2126	valuables	2126	(item/equipamento)	(item/equipment)	sistema		サレのライバル	Saleh's Rival	
+valuables#2127	valuables	2127	(item/equipamento)	(item/equipment)	sistema		サレにライバル視された者の称号	Title for one regarded as a rival by Saleh.	
+valuables#2128	valuables	2128	(item/equipamento)	(item/equipment)	sistema		サレを撃退した	Repelled Saleh.	
+valuables#2129	valuables	2129	(item/equipamento)	(item/equipment)	sistema		ＴＰ消費量−５％	TP Consumption -5%	
+valuables#2130	valuables	2130	(item/equipamento)	(item/equipment)	sistema		ジョアンの恩人	Joan's Benefactor	
+valuables#2131	valuables	2131	(item/equipamento)	(item/equipment)	sistema		ジョアンの恩人になった者の称号	Title for one who became Joan's benefactor.	
+valuables#2132	valuables	2132	(item/equipamento)	(item/equipment)	sistema		ジョアンの病気を治してあげた？	Cured Joan's illness?	
+valuables#2133	valuables	2133	(item/equipamento)	(item/equipment)	sistema		敵撃破時にＨＰ２％回復	Restores 2% HP when defeating an enemy	
+valuables#2134	valuables	2134	(item/equipamento)	(item/equipment)	sistema		救世主に楯突くモノ？	Defier of the Savior?	
+valuables#2135	valuables	2135	(item/equipamento)	(item/equipment)	sistema		暁の従者から敵と認定された者の称号	Title for one recognized as an enemy by the Dawn Attendants.	
+valuables#2136	valuables	2136	(item/equipamento)	(item/equipment)	sistema		ディセンダーにとって邪魔な存在？	A nuisance to the Descender?	
+valuables#2137	valuables	2137	(item/equipamento)	(item/equipment)	sistema		敵からのターゲット頻度＋	Enemy Target Frequency +	
+valuables#2138	valuables	2138	(item/equipamento)	(item/equipment)	sistema		本物のディセンダー！	The Real Descender!	
+valuables#2139	valuables	2139	(item/equipamento)	(item/equipment)	sistema		自由の灯火となる者の称号	Title for one who becomes the beacon of freedom.	
+valuables#2140	valuables	2140	(item/equipamento)	(item/equipment)	sistema		精霊、セルシウスのお墨付き！	Endorsed by the spirit Celsius!	
+valuables#2141	valuables	2141	(item/equipamento)	(item/equipment)	sistema		敵からのターゲット頻度−	Enemy Target Frequency -	
+valuables#2142	valuables	2142	(item/equipamento)	(item/equipment)	sistema		バルバトスのライバル	Barbatos's Rival	
+valuables#2143	valuables	2143	(item/equipamento)	(item/equipment)	sistema		バルバトスにライバル視された者の称号	Title for one regarded as a rival by Barbatos.	
+valuables#2144	valuables	2144	(item/equipamento)	(item/equipment)	sistema		バルバトスに因縁を付けられた	Picked a fight with Barbatos.	
+valuables#2145	valuables	2145	(item/equipamento)	(item/equipment)	sistema		モンスターシンボルに、襲われやすくなる	More easily ambushed by monster symbols	
+valuables#2146	valuables	2146	(item/equipamento)	(item/equipment)	sistema		化石泥棒	Fossil Thief	
+valuables#2147	valuables	2147	(item/equipamento)	(item/equipment)	sistema		世界文化遺産で盗掘した者の称号	Title for one who looted a World Cultural Heritage site.	
+valuables#2148	valuables	2148	(item/equipamento)	(item/equipment)	sistema		これでルーティの仲間入り	Joined Rutee's ranks with this.	
+valuables#2149	valuables	2149	(item/equipamento)	(item/equipment)	sistema		敵からのアイテム獲得＋２	Items From Enemies +2	
+valuables#2150	valuables	2150	(item/equipamento)	(item/equipment)	sistema		サレバトラー	Saleh Battler	
+valuables#2151	valuables	2151	(item/equipamento)	(item/equipment)	sistema		サレに深手を負わせた者の称号	Title for one who dealt severe wounds to Saleh.	
+valuables#2152	valuables	2152	(item/equipamento)	(item/equipment)	sistema		サレをコテンパンにした	Beat Saleh to a pulp.	
+valuables#2153	valuables	2153	(item/equipamento)	(item/equipment)	sistema		詠唱時間−４％	Cast Time -4%	
+valuables#2154	valuables	2154	(item/equipamento)	(item/equipment)	sistema		創世の時を見た者	Witness to Creation	
+valuables#2155	valuables	2155	(item/equipamento)	(item/equipment)	sistema		創世の時を垣間見た者の称号	Title for one who caught a glimpse of the time of creation.	
+valuables#2156	valuables	2156	(item/equipamento)	(item/equipment)	sistema		根源の世界樹の声を聞き、始まりを知る	Heard the voice of the Origin World Tree and learned of beginnings.	
+valuables#2157	valuables	2157	(item/equipamento)	(item/equipment)	sistema		獲得グレードポイント＋４％	Grade Points Gained +4%	
+valuables#2158	valuables	2158	(item/equipamento)	(item/equipment)	sistema		決戦存在	Decisive Entity	
+valuables#2159	valuables	2159	(item/equipamento)	(item/equipment)	sistema		新たなる創造を心に決めた者の称号	Title for one who resolved in heart for new creation.	
+valuables#2160	valuables	2160	(item/equipamento)	(item/equipment)	sistema		世界を救うため、最後の戦いを決意する	Resolved for the final battle to save the world.	
+valuables#2161	valuables	2161	(item/equipamento)	(item/equipment)	sistema		仰け反り耐性＋１	Stagger Resistance +1	
+valuables#2162	valuables	2162	(item/equipamento)	(item/equipment)	sistema		ルミナシアの救世主	Savior of Luminasia	
+valuables#2163	valuables	2163	(item/equipamento)	(item/equipment)	sistema		ルミナシアを新生させた者の称号	Title for one who reborn Luminasia.	
+valuables#2164	valuables	2164	(item/equipamento)	(item/equipment)	sistema		ゲームをクリアをした証	Proof of beating the game.	
+valuables#2165	valuables	2165	(item/equipamento)	(item/equipment)	sistema		獲得経験値＋１０％	EXP Gained +10%	
+valuables#2166	valuables	2166	(item/equipamento)	(item/equipment)	sistema		カノンノコレクター	Kanonno Collector	
+valuables#2167	valuables	2167	(item/equipamento)	(item/equipment)	sistema		三人のカノンノとの絆を持つ者の称号	Title for one who shares bonds with three Kanonnos.	
+valuables#2168	valuables	2168	(item/equipamento)	(item/equipment)	sistema		カノンノを三人揃えた！？	Gathered all three Kanonnos!?	
+valuables#2169	valuables	2169	(item/equipamento)	(item/equipment)	sistema		スキルスロット増＋２　敵からのアイテム獲得＋２	Skill Slots +2, Items From Enemies +2	
+valuables#2170	valuables	2170	(item/equipamento)	(item/equipment)	sistema		クラスマスター	Class Master	
+valuables#2171	valuables	2171	(item/equipamento)	(item/equipment)	sistema		ひとつのクラスを極めた者の称号	Title for one who mastered a single class.	
+valuables#2172	valuables	2172	(item/equipamento)	(item/equipment)	sistema		いずれかの職業のレベルが250となった	Reached level 250 in any class.	
+valuables#2173	valuables	2173	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ−５％　基礎物理攻撃力＆基礎術攻撃力＋１０％	Max HP -5%, Base Phys. & Magic Atk +10%	
+valuables#2174	valuables	2174	(item/equipamento)	(item/equipment)	sistema		オールクラスマスター	All Class Master	
+valuables#2175	valuables	2175	(item/equipamento)	(item/equipment)	sistema		全てのクラスを極めた者の称号	Title for one who mastered all classes.	
+valuables#2176	valuables	2176	(item/equipamento)	(item/equipment)	sistema		全ての職業のレベルが250になった	Reached level 250 in all classes.	
+valuables#2177	valuables	2177	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ−５０％　基礎物理攻撃力＆基礎術攻撃力＋５０％	Max HP -50%, Base Phys. & Magic Atk +50%	
+valuables#2178	valuables	2178	(item/equipamento)	(item/equipment)	sistema		トレジャーハンター	Treasure Hunter	
+valuables#2179	valuables	2179	(item/equipamento)	(item/equipment)	sistema		世の全ての緑宝箱の中を見た者の称号	Title for one who saw inside all green chests in the world.	
+valuables#2180	valuables	2180	(item/equipamento)	(item/equipment)	sistema		全ての緑宝箱を開けた	Opened all green chests.	
+valuables#2181	valuables	2181	(item/equipamento)	(item/equipment)	sistema		採取効果＋２　採掘効果＋２　宝箱ドロップ効果＋１０	Gathering +2, Mining +2, Chest Drop +10	
+valuables#2182	valuables	2182	(item/equipamento)	(item/equipment)	sistema		レコードコレクター	Record Collector	
+valuables#2183	valuables	2183	(item/equipamento)	(item/equipment)	sistema		音楽に精通する者の称号	Title for one versed in music.	
+valuables#2184	valuables	2184	(item/equipamento)	(item/equipment)	sistema		全ての楽曲を入手した	Acquired all music tracks.	
+valuables#2185	valuables	2185	(item/equipamento)	(item/equipment)	sistema		逃走時間−３０％　バックアタック防止	Escape Time -30%, Prevent Back Attack	
+valuables#2186	valuables	2186	(item/equipamento)	(item/equipment)	sistema		モンスター助手	Monster Assistant	
+valuables#2187	valuables	2187	(item/equipamento)	(item/equipment)	sistema		魔物を調査する者の称号	Title for one who investigates monsters.	
+valuables#2188	valuables	2188	(item/equipamento)	(item/equipment)	sistema		全てのモンスターを調査した	Investigated all monsters.	
+valuables#2189	valuables	2189	(item/equipamento)	(item/equipment)	sistema		モンスターシンボル速度＋　出現頻度＋　襲われやすくなる	Monster Symbol Speed +, Spawn Frequency +, Ambush Rate +	
+valuables#2190	valuables	2190	(item/equipamento)	(item/equipment)	sistema		モンスター博士	Monster Professor	
+valuables#2191	valuables	2191	(item/equipamento)	(item/equipment)	sistema		魔物を知り尽くした者の称号	Title for one who knows all monsters thoroughly.	
+valuables#2192	valuables	2192	(item/equipamento)	(item/equipment)	sistema		モンスター図鑑の90％以上が判明した	Discovered 90%+ of the Monster Book.	
+valuables#2193	valuables	2193	(item/equipamento)	(item/equipment)	sistema		モンスターシンボル速度−　出現頻度−　襲われにくくなる	Monster Symbol Speed -, Spawn Frequency -, Ambush Rate -	
+valuables#2194	valuables	2194	(item/equipamento)	(item/equipment)	sistema		装備マニア	Equipment Maniac	
+valuables#2195	valuables	2195	(item/equipamento)	(item/equipment)	sistema		装備品を知り尽くした者の称号	Title for one who knows all equipment thoroughly.	
+valuables#2196	valuables	2196	(item/equipamento)	(item/equipment)	sistema		装備図鑑の90％以上が判明した	Discovered 90%+ of the Equipment Book.	
+valuables#2197	valuables	2197	(item/equipamento)	(item/equipment)	sistema		レア獲得増＋２０	Rare Find Rate +20	
+valuables#2198	valuables	2198	(item/equipamento)	(item/equipment)	sistema		クエストの達人	Quest Master	
+valuables#2199	valuables	2199	(item/equipamento)	(item/equipment)	sistema		クエストを数多く達成した者の称号	Title for one who accomplished numerous quests.	
+valuables#2200	valuables	2200	(item/equipamento)	(item/equipment)	sistema		クエスト達成数の累計が200を超えた	Completed over 200 total quests.	
+valuables#2201	valuables	2201	(item/equipamento)	(item/equipment)	sistema		クエスト報酬の獲得確率＋＋	Quest Reward Chance ++	
+valuables#2202	valuables	2202	(item/equipamento)	(item/equipment)	sistema		ストライダー	Strider	
+valuables#2203	valuables	2203	(item/equipamento)	(item/equipment)	sistema		敵を瞬殺する者の称号	Title for one who instantly slays enemies.	
+valuables#2204	valuables	2204	(item/equipamento)	(item/equipment)	sistema		5秒以内に戦闘に勝利	Won a battle within 5 seconds.	
+valuables#2205	valuables	2205	(item/equipamento)	(item/equipment)	sistema		基礎敏捷値＋２０	Base Agility +20	
+valuables#2206	valuables	2206	(item/equipamento)	(item/equipment)	sistema		コンボ初級者	Combo Beginner	
+valuables#2207	valuables	2207	(item/equipamento)	(item/equipment)	sistema		コンボ初級者の称号	Title for a combo beginner.	
+valuables#2208	valuables	2208	(item/equipamento)	(item/equipment)	sistema		30コンボ以上のコンボを達成	Achieved a combo of 30+ hits.	
+valuables#2209	valuables	2209	(item/equipamento)	(item/equipment)	sistema		ガード強化＋４	Guard Reinforce +4	
+valuables#2210	valuables	2210	(item/equipamento)	(item/equipment)	sistema		コンボ中級者	Combo Intermediate	
+valuables#2211	valuables	2211	(item/equipamento)	(item/equipment)	sistema		コンボ中級者の称号	Title for a combo intermediate.	
+valuables#2212	valuables	2212	(item/equipamento)	(item/equipment)	sistema		100コンボ以上のコンボを達成	Achieved a combo of 100+ hits.	
+valuables#2213	valuables	2213	(item/equipamento)	(item/equipment)	sistema		基礎敏捷値＋４０　ガード強化＋２	Base Agility +40, Guard Reinforce +2	
+valuables#2214	valuables	2214	(item/equipamento)	(item/equipment)	sistema		コンボマスター	Combo Master	
+valuables#2215	valuables	2215	(item/equipamento)	(item/equipment)	sistema		コンボを極めた者の称号	Title for one who mastered combos.	
+valuables#2216	valuables	2216	(item/equipamento)	(item/equipment)	sistema		999コンボを達成	Achieved a 999-hit combo.	
+valuables#2217	valuables	2217	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ−４０％　仰け反り耐性＋２	Max HP -40%, Stagger Resistance +2	
+valuables#2218	valuables	2218	(item/equipamento)	(item/equipment)	sistema		アーツマスター	Artes Master	
+valuables#2219	valuables	2219	(item/equipamento)	(item/equipment)	sistema		技を鬼の様に使用した者の称号	Title for one who used skills like a demon.	
+valuables#2220	valuables	2220	(item/equipamento)	(item/equipment)	sistema		特定の技の使用回数が999を突破	Exceeded 999 uses of a specific skill.	
+valuables#2221	valuables	2221	(item/equipamento)	(item/equipment)	sistema		基礎物理攻撃力＋２０％　基礎術攻撃力−３０％	Base Phys. Atk +20%, Base Magic Atk -30%	
+valuables#2222	valuables	2222	(item/equipamento)	(item/equipment)	sistema		スペルマスター	Spell Master	
+valuables#2223	valuables	2223	(item/equipamento)	(item/equipment)	sistema		術を鬼の様に使用した者の称号	Title for one who used spells like a demon.	
+valuables#2224	valuables	2224	(item/equipamento)	(item/equipment)	sistema		特定の術の使用回数が999を突破	Exceeded 999 uses of a specific spell.	
+valuables#2225	valuables	2225	(item/equipamento)	(item/equipment)	sistema		基礎物理攻撃力−３０％　基礎術攻撃力＋２０％	Base Phys. Atk -30%, Base Magic Atk +20%	
+valuables#2226	valuables	2226	(item/equipamento)	(item/equipment)	sistema		ピコハンマスター	Pow Hammer Master	
+valuables#2227	valuables	2227	(item/equipamento)	(item/equipment)	sistema		ピコハンを鬼の様に使用した者の称号	Title for one who used Pow Hammer like a demon.	
+valuables#2228	valuables	2228	(item/equipamento)	(item/equipment)	sistema		僧侶でピコハンの使用回数が999回を突破	Exceeded 999 uses of Pow Hammer as a Priest.	
+valuables#2229	valuables	2229	(item/equipamento)	(item/equipment)	sistema		敵撃破時にＨＰ３％回復　ＴＰ３％回復	HP +3% & TP +3% on enemy defeat	
+valuables#2230	valuables	2230	(item/equipamento)	(item/equipment)	sistema		ハンドレッドスレイヤー	Hundred Slayer	
+valuables#2231	valuables	2231	(item/equipamento)	(item/equipment)	sistema		魔物１００体斬り達成者の称号	Title for slaying 100 monsters.	
+valuables#2232	valuables	2232	(item/equipamento)	(item/equipment)	sistema		モンスター総討伐数が100を突破	Total monsters slain exceeded 100.	
+valuables#2233	valuables	2233	(item/equipamento)	(item/equipment)	sistema		サウザンドスレイヤー	Thousand Slayer	
+valuables#2234	valuables	2234	(item/equipamento)	(item/equipment)	sistema		魔物１０００体斬り達成者の称号	Title for slaying 1,000 monsters.	
+valuables#2235	valuables	2235	(item/equipamento)	(item/equipment)	sistema		モンスター総討伐数が1000を突破	Total monsters slain exceeded 1,000.	
+valuables#2236	valuables	2236	(item/equipamento)	(item/equipment)	sistema		敵からのターゲット頻度＋　基礎術防御力＋２０％	Enemy Target Frequency +, Base Magic Defense +20%	
+valuables#2237	valuables	2237	(item/equipamento)	(item/equipment)	sistema		ミリオンスレイヤー	Million Slayer	
+valuables#2238	valuables	2238	(item/equipamento)	(item/equipment)	sistema		魔物１００００体斬り達成者の称号	Title for slaying 10,000 monsters.	
+valuables#2239	valuables	2239	(item/equipamento)	(item/equipment)	sistema		モンスター総討伐数が10000を突破	Total monsters slain exceeded 10,000.	

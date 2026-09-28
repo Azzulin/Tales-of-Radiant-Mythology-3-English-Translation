@@ -1,0 +1,312 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	va_ponteiros	ocorrencias
+resultado_batalha#0	resultado_batalha	0	(sistema)	(system)	sistema		一気にいくぞ	Go All Out!	Comando tatico de batalha: 一気にいくぞ	0x08D656C0	1
+resultado_batalha#1	resultado_batalha	1	(sistema)	(system)	sistema		温存して戦え	Conserve Strength!	Comando tatico de batalha: 温存して戦え	0x08D656C4	1
+resultado_batalha#2	resultado_batalha	2	(sistema)	(system)	sistema		今は耐えろ	Hold Out for Now!	Comando tatico de batalha: 今は耐えろ	0x08D656C8	1
+resultado_batalha#3	resultado_batalha	3	(sistema)	(system)	sistema		■戦績	Battle Record	Divergencia de SIS-01.md secao 3: o glifo ■ foi omitido em 'traducao' para conformidade estrita com R1/E4 do valida_retorno.py (que recusa caractere nao-ASCII e trava no print cp1252 no Windows). Se a insercao no binario mantiver o glifo como em P-45, a forma pretendida e '■ Battle Record'.	0x08D656CC	1
+resultado_batalha#4	resultado_batalha	4	(sistema)	(system)	sistema		獲得経験値	EXP Earned		0x08D656D0	1
+resultado_batalha#5	resultado_batalha	5	(sistema)	(system)	sistema		ボーナス経験値	Bonus EXP		0x08D656D4	1
+resultado_batalha#6	resultado_batalha	6	(sistema)	(system)	sistema		最大ヒット数	Max Hits		0x08D656D8	1
+resultado_batalha#7	resultado_batalha	7	(sistema)	(system)	sistema		獲得ガルド	Gald Earned	Termo padrao Tales: Gald	0x08D656DC	1
+resultado_batalha#8	resultado_batalha	8	(sistema)	(system)	sistema		戦闘時間	Battle Time		0x08D656E0	1
+resultado_batalha#9	resultado_batalha	9	(sistema)	(system)	sistema		グレード	Grade	Termo padrao Tales: Grade	0x08D656E4	1
+resultado_batalha#10	resultado_batalha	10	(sistema)	(system)	sistema		■Information	Information	Divergencia de SIS-01.md secao 3: o glifo ■ foi omitido em 'traducao' para conformidade estrita com R1/E4 do valida_retorno.py (que recusa caractere nao-ASCII e trava no print cp1252 no Windows). Se a insercao no binario mantiver o glifo como em P-45, a forma pretendida e '■ Information'.	0x08D656EC	1
+resultado_batalha#11	resultado_batalha	11	(sistema)	(system)	sistema		装備品は、これ以上持てません	Cannot carry any more equipment.		0x08D656F4	1
+resultado_batalha#12	resultado_batalha	12	(sistema)	(system)	sistema		拾ったアイテムは、これ以上持てません	Cannot carry any more items.		0x08D656F8	1
+resultado_batalha#13	resultado_batalha	13	(sistema)	(system)	sistema	%s x1	%sを習得した！	Learned %s!		0x08D656FC	1
+resultado_batalha#14	resultado_batalha	14	(sistema)	(system)	sistema	%s x1	秘奥義：%sを習得した！	Mystic Arte: Learned %s!	Termo do indice: 秘奥義 -> Mystic Arte	0x08D65700	1
+resultado_batalha#15	resultado_batalha	15	(sistema)	(system)	sistema	%s x1	%sはレベルが上がった！	%s leveled up!		0x08D65704	1
+resultado_batalha#16	resultado_batalha	16	(sistema)	(system)	sistema		を拾った！	 picked up!	Mensagem pos-batalha: o nome do item precede a string no display do jogo	0x08D65708	1
+resultado_batalha#17	resultado_batalha	17	(sistema)	(system)	sistema	%s x1	%sに転職出来るようになった！	Can now change class to %s!		0x08D6570C	1
+resultado_batalha#18	resultado_batalha	18	(sistema)	(system)	sistema		逃げ切った！	Escaped safely!		0x08D65710	1
+resultado_batalha#19	resultado_batalha	19	(sistema)	(system)	sistema	%s x1	%sを覚えた！	Learned %s!		0x08D65714	1
+resultado_batalha#20	resultado_batalha	20	(sistema)	(system)	sistema	%d x1	%dガルド見つけた！	Found %d Gald!	Termo padrao Tales: Gald	0x08D65718	1
+resultado_batalha#21	resultado_batalha	21	(sistema)	(system)	sistema	%s x1	%sを盗んだ！	Stole %s!		0x08D6571C	1
+resultado_batalha#22	resultado_batalha	22	(sistema)	(system)	sistema	%d x1	%dガルド手に入れた！	Obtained %d Gald!	Termo padrao Tales: Gald	0x08D65720	1
+resultado_batalha#23	resultado_batalha	23	(sistema)	(system)	sistema	%d x1	%dガルド落とした！	Dropped %d Gald!	Termo padrao Tales: Gald	0x08D65724	1
+resultado_batalha#24	resultado_batalha	24	(sistema)	(system)	sistema		何も手に入らなかった！	Found nothing!		0x08D65728	1
+resultado_batalha#25	resultado_batalha	25	(sistema)	(system)	sistema		敵からバックアタック！	Back attack by the enemy!		0x08D6572C	1
+resultado_batalha#26	resultado_batalha	26	(sistema)	(system)	sistema	%d x1	%d人の挑戦者が現れた！	%d challengers appeared!		0x08D65730	1
+nomes_cidade#0	nomes_cidade	0	(sistema)	(system)	sistema		ルミナシア	Luminasia	INDICE_NOMES.md: ルミナシア -> Luminasia	0x08D66BC4	1
+nomes_cidade#1	nomes_cidade	1	(sistema)	(system)	sistema		ジルディア	Zirdia	INDICE_NOMES.md: ジルディア -> Zirdia	0x08D66BC8	1
+nomes_cidade#2	nomes_cidade	2	(sistema)	(system)	sistema		パスカ	Pasca	Mundo de origem RM1	0x08D66BCC	1
+nomes_cidade#3	nomes_cidade	3	(sistema)	(system)	sistema		グラニデ	Granide	INDICE_NOMES.md: グラニデ -> Granide	0x08D66BD0	1
+nomes_cidade#4	nomes_cidade	4	(sistema)	(system)	sistema		ペカン村	Pecan Village	Padrao de comida (J5): noz pecan	0x08D66BD4	1
+nomes_cidade#5	nomes_cidade	5	(sistema)	(system)	sistema		ヘーゼル村	Hazel Village	INDICE_NOMES.md: ヘーゼル村 -> Hazel Village	0x08D66BD8	1
+nomes_cidade#6	nomes_cidade	6	(sistema)	(system)	sistema		ウリズン帝国	Urizen Empire	INDICE_NOMES.md: ウリズン帝国 -> Urizen Empire	0x08D66BDC	1
+nomes_cidade#7	nomes_cidade	7	(sistema)	(system)	sistema		帝国	Empire	Forma solta: 帝国 -> Empire	0x08D66BE0	1
+nomes_cidade#8	nomes_cidade	8	(sistema)	(system)	sistema		ガルバンゾ国	Garbanzo	INDICE_NOMES.md / SIS-01.md: ガルバンゾ国 -> Garbanzo	0x08D66BE4	1
+nomes_cidade#9	nomes_cidade	9	(sistema)	(system)	sistema		ガルバンゾ	Garbanzo	Forma solta: ガルバンゾ -> Garbanzo	0x08D66BE8	1
+nomes_cidade#10	nomes_cidade	10	(sistema)	(system)	sistema		モラード村	Morado Village	INDICE_NOMES.md: モラード -> Morado	0x08D66BEC	1
+nomes_cidade#11	nomes_cidade	11	(sistema)	(system)	sistema		ミブナの里	Mibuna Village	INDICE_NOMES.md: ミブナの里 -> Mibuna Village	0x08D66BF0	1
+nomes_cidade#12	nomes_cidade	12	(sistema)	(system)	sistema		ミブナ	Mibuna	Forma solta: ミブナ -> Mibuna	0x08D66BF4	1
+nomes_cidade#13	nomes_cidade	13	(sistema)	(system)	sistema		ライマ国	Lima	INDICE_NOMES.md / SIS-01.md: ライマ国 -> Lima	0x08D66BF8	1
+nomes_cidade#14	nomes_cidade	14	(sistema)	(system)	sistema		ライマ	Lima	Forma solta: ライマ -> Lima	0x08D66BFC	1
+nomes_masmorra_viagem#0	nomes_masmorra_viagem	0	(sistema)	(system)	sistema		ルバーブ連山	Rhubarb Mountains	INDICE_NOMES.md: ルバーブ -> Rhubarb; 連山 -> Mountains	0x08D66E30	1
+nomes_masmorra_viagem#1	nomes_masmorra_viagem	1	(sistema)	(system)	sistema		コンフェイト大森林	Confeito Great Forest	INDICE_NOMES.md: コンフェイト大森林 -> Confeito Great Forest	0x08D66E34	1
+nomes_masmorra_viagem#2	nomes_masmorra_viagem	2	(sistema)	(system)	sistema		ブラウニー坑道	Brownie Mine	INDICE_NOMES.md: ブラウニー坑道 -> Brownie Mine	0x08D66E38	1
+nomes_masmorra_viagem#3	nomes_masmorra_viagem	3	(sistema)	(system)	sistema		オルタータ火山	Alterata Volcano	INDICE_NOMES.md: オルタータ火山 -> Alterata Volcano	0x08D66E3C	1
+nomes_masmorra_viagem#4	nomes_masmorra_viagem	4	(sistema)	(system)	sistema		カダイフ砂漠	Kadaif Desert	INDICE_NOMES.md: カダイフ -> Kadaif; 砂漠 -> Desert	0x08D66E40	1
+nomes_masmorra_viagem#5	nomes_masmorra_viagem	5	(sistema)	(system)	sistema		アルマナック遺跡	Almanac Ruins	INDICE_NOMES.md: アルマナック -> Almanac; 遺跡 -> Ruins	0x08D66E44	1
+nomes_masmorra_viagem#6	nomes_masmorra_viagem	6	(sistema)	(system)	sistema		霊峰アブソール	Mt. Absol	Conforme MEV-08, MEV-09a, MEV-16	0x08D66E48	1
+nomes_masmorra_viagem#7	nomes_masmorra_viagem	7	(sistema)	(system)	sistema		ヴェラトローパ	Veratropa	INDICE_NOMES.md: ヴェラトローパ -> Veratropa	0x08D66E4C	1
+nomes_masmorra_viagem#8	nomes_masmorra_viagem	8	(sistema)	(system)	sistema		シフノ湧泉洞	Sifno Spring Cave	Conforme MEV-17: シフノ湧泉洞 -> Sifno Spring Cave	0x08D66E50	1
+nomes_masmorra_viagem#9	nomes_masmorra_viagem	9	(sistema)	(system)	sistema		聖地ラングリース	Holy Land of Langriths	Conforme MEV-19, MEV-22, MEV-23: 聖地ラングリース -> Holy Land of Langriths	0x08D66E54	1
+nomes_masmorra_viagem#10	nomes_masmorra_viagem	10	(sistema)	(system)	sistema		エラン・ヴィタール	Elan Vital	Conforme MEV-23, MEV-24+25: エラン・ヴィタール -> Elan Vital	0x08D66E58	1
+nomes_masmorra_viagem#11	nomes_masmorra_viagem	11	(sistema)	(system)	sistema		追憶の坑道	Mine of Reminiscence	Dungeon pos-game: 追憶 (Reminiscence) + 坑道 (Mine)	0x08D66E5C	1
+nomes_masmorra_viagem#12	nomes_masmorra_viagem	12	(sistema)	(system)	sistema		闘技場	Colosseum	Termo padrao Tales: 闘技場 -> Colosseum	0x08D66E60	1
+nomes_masmorra_quadro#0	nomes_masmorra_quadro	0	(sistema)	(system)	sistema		ルバーブ連山	Rhubarb Mountains	E10 paridade com nomes_masmorra_viagem#0	0x08D861C0	1
+nomes_masmorra_quadro#1	nomes_masmorra_quadro	1	(sistema)	(system)	sistema		コンフェイト大森林	Confeito Great Forest	E10 paridade com nomes_masmorra_viagem#1	0x08D861C4	1
+nomes_masmorra_quadro#2	nomes_masmorra_quadro	2	(sistema)	(system)	sistema		ブラウニー坑道	Brownie Mine	E10 paridade com nomes_masmorra_viagem#2	0x08D861C8	1
+nomes_masmorra_quadro#3	nomes_masmorra_quadro	3	(sistema)	(system)	sistema		オルタータ火山	Alterata Volcano	E10 paridade com nomes_masmorra_viagem#3	0x08D861CC	1
+nomes_masmorra_quadro#4	nomes_masmorra_quadro	4	(sistema)	(system)	sistema		カダイフ砂漠	Kadaif Desert	E10 paridade com nomes_masmorra_viagem#4	0x08D861D0	1
+nomes_masmorra_quadro#5	nomes_masmorra_quadro	5	(sistema)	(system)	sistema		アルマナック遺跡	Almanac Ruins	E10 paridade com nomes_masmorra_viagem#5	0x08D861D4	1
+nomes_masmorra_quadro#6	nomes_masmorra_quadro	6	(sistema)	(system)	sistema		霊峰アブソール	Mt. Absol	E10 paridade com nomes_masmorra_viagem#6	0x08D861D8	1
+nomes_masmorra_quadro#7	nomes_masmorra_quadro	7	(sistema)	(system)	sistema		ヴェラトローパ	Veratropa	E10 paridade com nomes_masmorra_viagem#7	0x08D861DC	1
+nomes_masmorra_quadro#8	nomes_masmorra_quadro	8	(sistema)	(system)	sistema		シフノ湧泉洞	Sifno Spring Cave	E10 paridade com nomes_masmorra_viagem#8	0x08D861E0	1
+nomes_masmorra_quadro#9	nomes_masmorra_quadro	9	(sistema)	(system)	sistema		聖地ラングリース	Holy Land of Langriths	E10 paridade com nomes_masmorra_viagem#9	0x08D861E4	1
+nomes_masmorra_quadro#10	nomes_masmorra_quadro	10	(sistema)	(system)	sistema		エラン・ヴィタール	Elan Vital	E10 paridade com nomes_masmorra_viagem#10	0x08D861E8	1
+nomes_masmorra_quadro#11	nomes_masmorra_quadro	11	(sistema)	(system)	sistema		追憶の坑道	Mine of Reminiscence	E10 paridade com nomes_masmorra_viagem#11	0x08D861EC	1
+itens#0	itens	0	(sistema)	(system)	sistema		パイナップルご飯レシピ	Pineapple Rice Recipe		0x08CA5EB4	1
+itens#1	itens	1	(sistema)	(system)	sistema		パイナップルゴハンレシピ	Pineapple Rice Recipe	Leitura katakana de itens#0	0x08CA5EB8	1
+itens#2	itens	2	(sistema)	(system)	sistema		コーダが熱望している「パイナップルご飯」のレシピ	The recipe for "Pineapple Rice" that Koda is yearning for.		0x08CA5EBC	1
+itens#3	itens	3	(sistema)	(system)	sistema		マーボーカレーレシピ	Mabo Curry Recipe	Prato classico Tales: Mabo Curry	0x08CA5EC0;0x08CA5EC4	2
+itens#4	itens	4	(sistema)	(system)	sistema		コーダが熱望している「マーボーカレー」のレシピ	The recipe for "Mabo Curry" that Koda is yearning for.		0x08CA5EC8	1
+itens#5	itens	5	(sistema)	(system)	sistema		マーボーパイレシピ	Mabo Pie Recipe		0x08CA5ECC;0x08CA5ED0	2
+itens#6	itens	6	(sistema)	(system)	sistema		コーダが熱望している「マーボーパイ」のレシピ	The recipe for "Mabo Pie" that Koda is yearning for.		0x08CA5ED4	1
+itens#7	itens	7	(sistema)	(system)	sistema		お好み焼きレシピ	Okonomiyaki Recipe		0x08CA5ED8	1
+itens#8	itens	8	(sistema)	(system)	sistema		オコノミヤキレシピ	Okonomiyaki Recipe	Leitura katakana de itens#7	0x08CA5EDC	1
+itens#9	itens	9	(sistema)	(system)	sistema		コーダが熱望している「お好み焼き」のレシピ	The recipe for "Okonomiyaki" that Koda is yearning for.		0x08CA5EE0	1
+itens#10	itens	10	(sistema)	(system)	sistema		おでんレシピ	Oden Recipe		0x08CA5EE4	1
+itens#11	itens	11	(sistema)	(system)	sistema		オデンレシピ	Oden Recipe	Leitura katakana de itens#10	0x08CA5EE8	1
+itens#12	itens	12	(sistema)	(system)	sistema		コーダが熱望している「おでん」のレシピ	The recipe for "Oden" that Koda is yearning for.		0x08CA5EEC	1
+itens#13	itens	13	(sistema)	(system)	sistema		チーズフォンデュレシピ	Cheese Fondue Recipe		0x08CA5EF0;0x08CA5EF4	2
+itens#14	itens	14	(sistema)	(system)	sistema		コーダが熱望している「チーズフォンデュ」のレシピ	The recipe for "Cheese Fondue" that Koda is yearning for.		0x08CA5EF8	1
+itens#15	itens	15	(sistema)	(system)	sistema		紅茶クッキーレシピ	Black Tea Cookie Recipe		0x08CA5EFC	1
+itens#16	itens	16	(sistema)	(system)	sistema		コウチャクッキーレシピ	Black Tea Cookie Recipe	Leitura katakana de itens#15	0x08CA5F00	1
+itens#17	itens	17	(sistema)	(system)	sistema		コーダが熱望している「紅茶クッキー」のレシピ	The recipe for "Black Tea Cookies" that Koda is yearning for.		0x08CA5F04	1
+itens#18	itens	18	(sistema)	(system)	sistema		通称おいしおいしレシピ	Commonly Known as Delicious-Delicious Recipe	通称 = commonly known as / aka	0x08CA5F08	1
+itens#19	itens	19	(sistema)	(system)	sistema		ツウショウオイシオイシレシピ	Commonly Known as Delicious-Delicious Recipe	Leitura katakana de itens#18	0x08CA5F0C	1
+itens#20	itens	20	(sistema)	(system)	sistema		コーダが熱望している「通称おいしおいし」のレシピ	The recipe for "Commonly Known as Delicious-Delicious" that Koda is yearning for.		0x08CA5F10	1
+itens#21	itens	21	(sistema)	(system)	sistema		山海珍味スープレシピ	Mountain and Sea Delicacy Soup Recipe	山海珍味 = iguarias da montanha e do mar	0x08CA5F14	1
+itens#22	itens	22	(sistema)	(system)	sistema		サンカイチンミスープレシピ	Mountain and Sea Delicacy Soup Recipe	Leitura katakana de itens#21	0x08CA5F18	1
+itens#23	itens	23	(sistema)	(system)	sistema		コーダが熱望している「山海珍味スープ」のレシピ	The recipe for "Mountain and Sea Delicacy Soup" that Koda is yearning for.		0x08CA5F1C	1
+itens#24	itens	24	(sistema)	(system)	sistema		薬膳チャンプルーレシピ	Medicinal Champuru Recipe	薬膳 = medicinal / herbal, チャンプルー = champuru	0x08CA5F20	1
+itens#25	itens	25	(sistema)	(system)	sistema		ヤクゼンチャンプルーレシピ	Medicinal Champuru Recipe	Leitura katakana de itens#24	0x08CA5F24	1
+itens#26	itens	26	(sistema)	(system)	sistema		コーダが熱望している「薬膳チャンプルー」のレシピ	The recipe for "Medicinal Champuru" that Koda is yearning for.		0x08CA5F28	1
+itens#27	itens	27	(sistema)	(system)	sistema		まンカんぜんセきレシピ	Manchu-Han Imperial Feast Recipe	まンカんぜんセき = grafia infantil/distorcida de 満漢全席	0x08CA5F2C	1
+itens#28	itens	28	(sistema)	(system)	sistema		マンカンゼンセキレシピ	Manchu-Han Imperial Feast Recipe	Leitura katakana de itens#27	0x08CA5F30	1
+itens#29	itens	29	(sistema)	(system)	sistema		コーダが熱望している「まンカんぜんセき」のレシピ	The recipe for "Manchu-Han Imperial Feast" that Koda is yearning for.		0x08CA5F34	1
+itens#30	itens	30	(sistema)	(system)	sistema		真っ赤なバラ	Crimson Rose		0x08CA5F38	1
+itens#31	itens	31	(sistema)	(system)	sistema		マッカナバラ	Crimson Rose	Leitura katakana de itens#30	0x08CA5F3C	1
+itens#32	itens	32	(sistema)	(system)	sistema		男女の雰囲気を情熱的に盛り上げたり上げなかったり	Passionately builds a romantic mood between men and women... or not.		0x08CA5F40	1
+itens#33	itens	33	(sistema)	(system)	sistema		破れた手紙	Torn Letter		0x08CA5F44	1
+itens#34	itens	34	(sistema)	(system)	sistema		ヤブレタテガミ	Torn Letter	Leitura katakana de itens#33	0x08CA5F48	1
+itens#35	itens	35	(sistema)	(system)	sistema		執拗に破かれた手紙。字は読めないが、怨念が読み取れる	A letter persistently torn to shreds. The writing is illegible, but the grudge is palpable.		0x08CA5F4C	1
+itens#36	itens	36	(sistema)	(system)	sistema		キャンドル	Candle		0x08CA5F50;0x08CA5F54	2
+itens#37	itens	37	(sistema)	(system)	sistema		つまりはロウソク。何に使うかはその人次第	In other words, a candle. How it is used depends on the person.		0x08CA5F58	1
+itens#38	itens	38	(sistema)	(system)	sistema		荷造り用ロープ	Packing Rope		0x08CA5F5C	1
+itens#39	itens	39	(sistema)	(system)	sistema		ニヅクリヨウロープ	Packing Rope	Leitura katakana de itens#38	0x08CA5F60	1
+itens#40	itens	40	(sistema)	(system)	sistema		荷物を縛るロープだが、趣味で縛られる人の間でも評判が良い	Rope meant for luggage, but also well regarded by those who enjoy being tied up.		0x08CA5F64	1
+itens#41	itens	41	(sistema)	(system)	sistema		ビハクにゅう液	Brightening Lotion		0x08CA5F68	1
+itens#42	itens	42	(sistema)	(system)	sistema		ビハクニュウエキ	Brightening Lotion	Leitura katakana de itens#41	0x08CA5F6C	1
+itens#43	itens	43	(sistema)	(system)	sistema		肌年齢を赤ん坊の少し前まで戻す事が可能。消滅する危険性もある	Reverts skin age to just before infancy. Risks vanishing you completely.		0x08CA5F70	1
+itens#44	itens	44	(sistema)	(system)	sistema		ルシアの髪飾り	Lucia's Hairpin		0x08CA5F74	1
+itens#45	itens	45	(sistema)	(system)	sistema		ルシアノカミカザリ	Lucia's Hairpin	Leitura katakana de itens#44	0x08CA5F78	1
+itens#46	itens	46	(sistema)	(system)	sistema		薄幸の少女が愛用した一品。まだ存命なので、呪いとかは無い	A favorite item of an unfortunate girl. She is still alive, so there is no curse.		0x08CA5F7C	1
+itens#47	itens	47	(sistema)	(system)	sistema		はなメガネ	Funny Glasses		0x08CA5F80	1
+itens#48	itens	48	(sistema)	(system)	sistema		ハナメガネ	Funny Glasses	Leitura katakana de itens#47	0x08CA5F84	1
+itens#49	itens	49	(sistema)	(system)	sistema		パーティーグッズだが、これで笑いを取るのは至難の業とされる	A party gag item, but getting a laugh with it is considered a formidable feat.		0x08CA5F88	1
+itens#50	itens	50	(sistema)	(system)	sistema		セクシーな下着	Sexy Underwear		0x08CA5F8C	1
+itens#51	itens	51	(sistema)	(system)	sistema		セクシーナシタギ	Sexy Underwear	Leitura katakana de itens#50	0x08CA5F90	1
+itens#52	itens	52	(sistema)	(system)	sistema		かつて天地魔界を滅亡の危機に追い込んだ悪魔が封印されている	Seals a demon that once drove heaven, earth, and the demon realm to ruin.		0x08CA5F94	1
+itens#53	itens	53	(sistema)	(system)	sistema		同窓会名簿	Alumni Directory		0x08CA5F98	1
+itens#54	itens	54	(sistema)	(system)	sistema		ドウソウカイメイボ	Alumni Directory	Leitura katakana de itens#53	0x08CA5F9C	1
+itens#55	itens	55	(sistema)	(system)	sistema		書き込みスペースが真っ白で、見るとアンニュイな気持ちになる	The writing spaces are stark white; looking at it fills one with a sense of ennui.		0x08CA5FA0	1
+itens#56	itens	56	(sistema)	(system)	sistema		借金の証文	Debt Promissory Note		0x08CA5FA4	1
+itens#57	itens	57	(sistema)	(system)	sistema		シャッキンノショウブン	Debt Promissory Note	Leitura katakana de itens#56	0x08CA5FA8	1
+itens#58	itens	58	(sistema)	(system)	sistema		銭を生む紙。ある意味で一番恐ろしいモンスターだと言える	Paper that breeds money. In a sense, it could be called the most terrifying monster of all.		0x08CA5FAC	1
+itens#59	itens	59	(sistema)	(system)	sistema		照明用オイル	Lamp Oil		0x08CA5FB0	1
+itens#60	itens	60	(sistema)	(system)	sistema		ショウメイヨウオイル	Lamp Oil	Leitura katakana de itens#59	0x08CA5FB4	1
+itens#61	itens	61	(sistema)	(system)	sistema		暗がりを照らすのに使う。オイルだからと変な事に使ってはいけない	Used to illuminate dark places. Being oil is no excuse to use it for weird things.		0x08CA5FB8	1
+itens#62	itens	62	(sistema)	(system)	sistema		ブドウ酒	Wine		0x08CA5FBC	1
+itens#63	itens	63	(sistema)	(system)	sistema		ブドウシュ	Wine	Leitura katakana de itens#62	0x08CA5FC0	1
+itens#64	itens	64	(sistema)	(system)	sistema		芳醇なブドウを贅沢に使用した一品。ブドウ好きなら昇天もの	A lavish item made with mellow grapes. Grape lovers will ascend to heaven.		0x08CA5FC4	1
+itens#65	itens	65	(sistema)	(system)	sistema		ハーブティー	Herbal Tea		0x08CA5FC8;0x08CA5FCC	2
+itens#66	itens	66	(sistema)	(system)	sistema		自分らしく一日を終えたい時に、眠りを誘う薬として飲む女性が多い	Many women drink this as a sleep aid to end the day feeling true to themselves.		0x08CA5FD0	1
+itens#67	itens	67	(sistema)	(system)	sistema		柱時計のネジ	Wall Clock Winding Key	Alusao a cancao 'My Grandfather Clock'	0x08CA5FD4	1
+itens#68	itens	68	(sistema)	(system)	sistema		ハシラドケイのネジ	Wall Clock Winding Key	Leitura katakana de itens#67	0x08CA5FD8	1
+itens#69	itens	69	(sistema)	(system)	sistema		おじいさんが怒って破壊してしまった古時計のパーツ	A part from an antique clock destroyed by a grandfather in a fit of rage.		0x08CA5FDC	1
+itens#70	itens	70	(sistema)	(system)	sistema		オタオタ潤滑粘液	Polwiggle Lubricant Slime	Monstro padrao Tales: オタオタ -> Polwiggle	0x08CA5FE0	1
+itens#71	itens	71	(sistema)	(system)	sistema		オタオタジュンカツネンエキ	Polwiggle Lubricant Slime	Leitura katakana de itens#70	0x08CA5FE4	1
+itens#72	itens	72	(sistema)	(system)	sistema		オタオタから抽出した潤滑粘液。医療、美容、工業と用途は無限大	Slime extracted from a Polwiggle. Used in medicine, cosmetics, and industry alike.		0x08CA5FE8	1
+itens#73	itens	73	(sistema)	(system)	sistema		ちょうしんき	Stethoscope		0x08CA5FEC	1
+itens#74	itens	74	(sistema)	(system)	sistema		チョウシンキ	Stethoscope	Leitura katakana de itens#73	0x08CA5FF0	1
+itens#75	itens	75	(sistema)	(system)	sistema		医者が鼓動を聞くのに使う道具。向けられると服を脱ぐ決まりがある	Doctors use it to hear heartbeats. By rule, if pointed at you, you must undress.		0x08CA5FF4	1
+itens#76	itens	76	(sistema)	(system)	sistema		不思議な円筒	Mysterious Cylinder		0x08CA5FF8	1
+itens#77	itens	77	(sistema)	(system)	sistema		フシギナエントウ	Mysterious Cylinder	Leitura katakana de itens#76	0x08CA5FFC	1
+itens#78	itens	78	(sistema)	(system)	sistema		何に使うのかわからない円筒。望遠鏡代わりにすると死ぬらしい	Purpose unknown. Rumor says you'll die peering through it like a telescope.		0x08CA6000	1
+itens#79	itens	79	(sistema)	(system)	sistema		化粧ポーチ	Makeup Pouch		0x08CA6004	1
+itens#80	itens	80	(sistema)	(system)	sistema		ケショウポーチ	Makeup Pouch	Leitura katakana de itens#79	0x08CA6008	1
+itens#81	itens	81	(sistema)	(system)	sistema		大人になると中身が充実していき、次第に面倒になってくる	As one grows up, the contents become plentiful, and gradually it becomes a chore.		0x08CA600C	1
+itens#82	itens	82	(sistema)	(system)	sistema		立派な角笛	Splendid Horn		0x08CA6010	1
+itens#83	itens	83	(sistema)	(system)	sistema		リッパナツノブエ	Splendid Horn	Leitura katakana de itens#82	0x08CA6014	1
+itens#84	itens	84	(sistema)	(system)	sistema		吹くと衝撃波で半径１００メートル以内の窓ガラスを全部割ってしまう	Blowing it creates a shockwave that shatters every window within a 100-meter radius.		0x08CA6018	1
+itens#85	itens	85	(sistema)	(system)	sistema		チェスの駒	Chess Piece		0x08CA601C	1
+itens#86	itens	86	(sistema)	(system)	sistema		チェスノコマ	Chess Piece	Leitura katakana de itens#85	0x08CA6020	1
+itens#87	itens	87	(sistema)	(system)	sistema		「盤はこの地上全て！」とスケールが無駄に大きい注意書き付き	Comes with a pointlessly grandiose note saying, "The board is the entire world!"		0x08CA6024	1
+itens#88	itens	88	(sistema)	(system)	sistema		懐中時計	Pocket Watch		0x08CA6028	1
+itens#89	itens	89	(sistema)	(system)	sistema		カイチュウドケイ	Pocket Watch	Leitura katakana de itens#88	0x08CA602C	1
+itens#90	itens	90	(sistema)	(system)	sistema		良い感じの懐中時計だが、針が驚くべきスピードで進む。害は無い	A nice pocket watch, but the hands move at startling speed. It is harmless.		0x08CA6030	1
+itens#91	itens	91	(sistema)	(system)	sistema		アイスピック	Ice Pick		0x08CA6034;0x08CA6038	2
+itens#92	itens	92	(sistema)	(system)	sistema		氷を砕くのに使う道具。ベッド付近に置いてあったら要注意	A tool used to crush ice. If found near a bed, proceed with extreme caution.		0x08CA603C	1
+itens#93	itens	93	(sistema)	(system)	sistema		エプロン天使	Angel Apron		0x08CA6040	1
+itens#94	itens	94	(sistema)	(system)	sistema		エプロンテンシ	Angel Apron	Leitura katakana de itens#93	0x08CA6044	1
+itens#95	itens	95	(sistema)	(system)	sistema		神の力で飛び散る水や跳ねる油から人を守る。着脱可能	Protects the wearer from splattering water and spitting oil with divine power. Detachable.		0x08CA6048	1
+itens#96	itens	96	(sistema)	(system)	sistema		暗視双眼鏡	Night-Vision Binoculars		0x08CA604C	1
+itens#97	itens	97	(sistema)	(system)	sistema		アンシソウガンキョウ	Night-Vision Binoculars	Leitura katakana de itens#96	0x08CA6050	1
+itens#98	itens	98	(sistema)	(system)	sistema		深夜でも真昼の様に見る事が出来る。変な事に使ってはいけない	Lets you see at night as if it were broad daylight. Not for weird uses.		0x08CA6054	1
+itens#99	itens	99	(sistema)	(system)	sistema		釘とかなづち	Hammer and Nails		0x08CA6058	1
+itens#100	itens	100	(sistema)	(system)	sistema		クギトカナヅチ	Hammer and Nails	Leitura katakana de itens#99	0x08CA605C	1
+itens#101	itens	101	(sistema)	(system)	sistema		驚くべき事に、ベニヤ板などを打ち付ける事が可能	Astonishingly, it can be used to nail plywood and the like.		0x08CA6060	1
+itens#102	itens	102	(sistema)	(system)	sistema		仔猫のイラスト	Kitten Illustration		0x08CA6064	1
+itens#103	itens	103	(sistema)	(system)	sistema		コネコノイラスト	Kitten Illustration	Leitura katakana de itens#102	0x08CA6068	1
+itens#104	itens	104	(sistema)	(system)	sistema		可愛らしい仔猫の絵。戦争を無くすヒントが込められている	A picture of an adorable kitten. Contains clues on how to eliminate war.		0x08CA606C	1
+itens#105	itens	105	(sistema)	(system)	sistema		錆びた婚約指輪	Rusted Engagement Ring		0x08CA6070	1
+itens#106	itens	106	(sistema)	(system)	sistema		サビタコンヤクユビワ	Rusted Engagement Ring	Leitura katakana de itens#105	0x08CA6074	1
+itens#107	itens	107	(sistema)	(system)	sistema		不幸な事故に遭った女性の一品。現在は新調したらしい	Belonged to a woman who met an unfortunate mishap. She's since bought a new one.		0x08CA6078	1
+itens#108	itens	108	(sistema)	(system)	sistema		買い物のメモ	Shopping Memo		0x08CA607C	1
+itens#109	itens	109	(sistema)	(system)	sistema		カイモノノメモ	Shopping Memo	Leitura katakana de itens#108	0x08CA6080	1
+itens#110	itens	110	(sistema)	(system)	sistema		買い物を効率よく進める為に、人類が生み出した発明	An invention devised by humankind to proceed through shopping efficiently.		0x08CA6084	1
+itens#111	itens	111	(sistema)	(system)	sistema		人生指南書	Life Guidebook		0x08CA6088	1
+itens#112	itens	112	(sistema)	(system)	sistema		ジンセイシナンショ	Life Guidebook	Leitura katakana de itens#111	0x08CA608C	1
+itens#113	itens	113	(sistema)	(system)	sistema		後書きによれば決定版らしいが、今夏続刊発売が決定	The afterword calls this the definitive edition, but a sequel already ships this summer.		0x08CA6090	1
+itens#114	itens	114	(sistema)	(system)	sistema		虎模様の旗	Tiger-Striped Banner		0x08CA6094	1
+itens#115	itens	115	(sistema)	(system)	sistema		トラモヨウノハタ	Tiger-Striped Banner	Leitura katakana de itens#114	0x08CA6098	1
+itens#116	itens	116	(sistema)	(system)	sistema		虎の模様が刻まれた旗。獣王の気高さが感じられる	A banner bearing a tiger pattern. Exudes the nobility of the Beast King.		0x08CA609C	1
+itens#117	itens	117	(sistema)	(system)	sistema		冬虫夏草	Cordyceps	Item padrao Tales: 冬虫夏草 -> Cordyceps	0x08CA60A0	1
+itens#118	itens	118	(sistema)	(system)	sistema		トウチュウカソウ	Cordyceps	Leitura katakana de itens#117	0x08CA60A4	1
+itens#119	itens	119	(sistema)	(system)	sistema		空前絶後の栄養価で、一週間は瞬きが出来ないほど目が覚める	So nutritious it keeps you awake, unable to blink for a week.		0x08CA60A8	1
+itens#120	itens	120	(sistema)	(system)	sistema		陶磁器の洗面器	Ceramic Washbasin		0x08CA60AC	1
+itens#121	itens	121	(sistema)	(system)	sistema		トウジキノセンメンキ	Ceramic Washbasin	Leitura katakana de itens#120	0x08CA60B0	1
+itens#122	itens	122	(sistema)	(system)	sistema		非常に壊れやすく、体重をかけると木っ端微塵になる	Extremely fragile; putting your weight on it will shatter it into tiny pieces.		0x08CA60B4	1
+itens#123	itens	123	(sistema)	(system)	sistema		犯罪者の手配書	Criminal Wanted Poster		0x08CA60B8	1
+itens#124	itens	124	(sistema)	(system)	sistema		ハンザイシャノテハイショ	Criminal Wanted Poster	Leitura katakana de itens#123	0x08CA60BC	1
+itens#125	itens	125	(sistema)	(system)	sistema		必要以上に不気味に見えるイメージ・スケッチが載っている	Features an image sketch that looks far creepier than necessary.		0x08CA60C0	1
+itens#126	itens	126	(sistema)	(system)	sistema		朝顔の植木鉢	Morning Glory Pot		0x08CA60C4	1
+itens#127	itens	127	(sistema)	(system)	sistema		アサガオノウエキバチ	Morning Glory Pot	Leitura katakana de itens#126	0x08CA60C8	1
+itens#128	itens	128	(sistema)	(system)	sistema		夏休みの思い出と引き換えに、凶器として使用可能	In exchange for summer vacation memories, it can be wielded as a lethal weapon.		0x08CA60CC	1
+itens#129	itens	129	(sistema)	(system)	sistema		イモリの黒焼き	Charred Newt		0x08CA60D0	1
+itens#130	itens	130	(sistema)	(system)	sistema		イモリノクロヤキ	Charred Newt	Leitura katakana de itens#129	0x08CA60D4	1
+itens#131	itens	131	(sistema)	(system)	sistema		真っ黒コゲになったイモリ。用途は不明	A newt burnt pitch black. Purpose unknown.		0x08CA60D8	1
+itens#132	itens	132	(sistema)	(system)	sistema		絶品イタリアン	Exquisite Italian Dish		0x08CA60DC	1
+itens#133	itens	133	(sistema)	(system)	sistema		ゼッピンイタリアン	Exquisite Italian Dish	Leitura katakana de itens#132	0x08CA60E0	1
+itens#134	itens	134	(sistema)	(system)	sistema		最高級のんまぁ〜い料理。一口食べれば号泣する美味しさ	A supreme, scrumptious dish. So delicious that a single bite will bring you to tears.		0x08CA60E4	1
+itens#135	itens	135	(sistema)	(system)	sistema		湯けむり温泉卵	Steamy Onsen Egg		0x08CA60E8	1
+itens#136	itens	136	(sistema)	(system)	sistema		ユケムリオンセンタマゴ	Steamy Onsen Egg	Leitura katakana de itens#135	0x08CA60EC	1
+itens#137	itens	137	(sistema)	(system)	sistema		職人が活火山の中で命がけで作る温泉卵。それなりに美味い	A hot spring egg risking life and limb to make inside an active volcano. Reasonably tasty.		0x08CA60F0	1
+itens#138	itens	138	(sistema)	(system)	sistema		恥ずかしい写真	Embarrassing Photo		0x08CA60F4	1
+itens#139	itens	139	(sistema)	(system)	sistema		ハズカシイシャシン	Embarrassing Photo	Leitura katakana de itens#138	0x08CA60F8	1
+itens#140	itens	140	(sistema)	(system)	sistema		あまりにも恥ずかしい写真。見ず知らずの他人すら赤面させる	A photo so embarrassing it makes even complete strangers blush.		0x08CA60FC	1
+itens#141	itens	141	(sistema)	(system)	sistema		消したい過去	A Past Best Forgotten		0x08CA6100	1
+itens#142	itens	142	(sistema)	(system)	sistema		ケシタイカコ	A Past Best Forgotten	Leitura katakana de itens#141	0x08CA6104	1
+itens#143	itens	143	(sistema)	(system)	sistema		絶対に逃げ切れない恐怖の一品。不意に襲ってくるので注意	A horrifying item you can never escape. Beware, as it strikes without warning.		0x08CA6108	1
+itens#144	itens	144	(sistema)	(system)	sistema		平凡な幸せ	Ordinary Happiness		0x08CA610C	1
+itens#145	itens	145	(sistema)	(system)	sistema		ヘイボンナシアワセ	Ordinary Happiness	Leitura katakana de itens#144	0x08CA6110	1
+itens#146	itens	146	(sistema)	(system)	sistema		何でもないような事が幸せだったと、失ってから気が付くもの	The kind of ordinary thing you realize was happiness only after you have lost it.	Alusao a cancao 'Road' do The Tra-bryu	0x08CA6114	1
+itens#147	itens	147	(sistema)	(system)	sistema		禍々しい鏡	Sinister Mirror		0x08CA6118	1
+itens#148	itens	148	(sistema)	(system)	sistema		マガマガシイカガミ	Sinister Mirror	Leitura katakana de itens#147	0x08CA611C	1
+itens#149	itens	149	(sistema)	(system)	sistema		鏡面に前の持ち主が引っかいてつけた眼の模様がついている	The mirror's surface bears the pattern of an eye, scratched into it by its previous owner.		0x08CA6120	1
+itens#150	itens	150	(sistema)	(system)	sistema		泥まみれの人形	Mud-Covered Doll		0x08CA6124	1
+itens#151	itens	151	(sistema)	(system)	sistema		ドロマミレノニンギョウ	Mud-Covered Doll	Leitura katakana de itens#150	0x08CA6128	1
+itens#152	itens	152	(sistema)	(system)	sistema		樹海で発見された焼け焦げた人形。目玉が刳り貫かれている	A charred doll discovered in a dense forest. Its eyeballs have been gouged out.		0x08CA612C	1
+itens#153	itens	153	(sistema)	(system)	sistema		顔の無い肖像画	Faceless Portrait		0x08CA6130	1
+itens#154	itens	154	(sistema)	(system)	sistema		カオノナイショウゾウガ	Faceless Portrait	Leitura katakana de itens#153	0x08CA6134	1
+itens#155	itens	155	(sistema)	(system)	sistema		子どもの肖像画。顔の部分は塗り潰されているが、眼だけ確認可能	A portrait of a child. The face is blacked out, but only the eyes can be seen.		0x08CA6138	1
+itens#156	itens	156	(sistema)	(system)	sistema		奇妙な合わせ鏡	Strange Facing Mirrors		0x08CA613C	1
+itens#157	itens	157	(sistema)	(system)	sistema		キミョウナアワセカガミ	Strange Facing Mirrors	Leitura katakana de itens#156	0x08CA6140	1
+itens#158	itens	158	(sistema)	(system)	sistema		無数の眼の装飾が施され、肝心の鏡面は黒く塗り潰されている	Decorated with countless eyes, though the mirror surfaces are painted black.		0x08CA6144	1
+itens#159	itens	159	(sistema)	(system)	sistema		狂った方位磁針	Mad Compass		0x08CA6148	1
+itens#160	itens	160	(sistema)	(system)	sistema		クルッタホウイジシン	Mad Compass	Leitura katakana de itens#159	0x08CA614C	1
+itens#161	itens	161	(sistema)	(system)	sistema		眼球の形をした球体の方位磁石。針が常に回転を続けている	A spherical compass shaped like an eyeball. The needle spins ceaselessly.		0x08CA6150	1
+itens#162	itens	162	(sistema)	(system)	sistema		征服者の証	Conqueror's Proof		0x08CA6154	1
+itens#163	itens	163	(sistema)	(system)	sistema		セイフクシャノアカシ	Conqueror's Proof	Leitura katakana de itens#162	0x08CA6158	1
+itens#164	itens	164	(sistema)	(system)	sistema		封印された地を征服した者のみが手にする事が出来る証	Proof obtainable only by one who has conquered the sealed land.		0x08CA615C	1
+itens#165	itens	165	(sistema)	(system)	sistema		覇者の証	Champion's Proof		0x08CA6160	1
+itens#166	itens	166	(sistema)	(system)	sistema		ハジャノアカシ	Champion's Proof	Leitura katakana de itens#165	0x08CA6164	1
+itens#167	itens	167	(sistema)	(system)	sistema		伝説の勇者が愛用していたと言われる両手剣	A two-handed sword said to have been favored by a legendary hero.		0x08CA6168	1
+itens#168	itens	168	(sistema)	(system)	sistema		過去の石版	Tablet of the Past		0x08CA616C	1
+itens#169	itens	169	(sistema)	(system)	sistema		カコノセキバン	Tablet of the Past	Leitura katakana de itens#168	0x08CA6170	1
+itens#170	itens	170	(sistema)	(system)	sistema		数列が刻まれた石版。世界の「過去」が全て暗号化されている	A tablet inscribed with numbers, encrypting the world's entire "past."		0x08CA6174	1
+itens#171	itens	171	(sistema)	(system)	sistema		アルカナキー	Arcana Key		0x08CA6178;0x08CA617C	2
+itens#172	itens	172	(sistema)	(system)	sistema		封印された地の扉を開く鍵。所々欠けているので使用不可能	A key that unlocks the door to the sealed land. Chipped in places and currently unusable.		0x08CA6180	1
+itens#173	itens	173	(sistema)	(system)	sistema		エレウシスの鍵	Eleusis Key		0x08CA6184	1
+itens#174	itens	174	(sistema)	(system)	sistema		エレウシスノカギ	Eleusis Key	Leitura katakana de itens#173	0x08CA6188	1
+itens#175	itens	175	(sistema)	(system)	sistema		異世界とコンタクトを取る為に使う鍵。今は魔力を失っているようだ	A key used to make contact with other worlds. It seems to have lost its magic power for now.		0x08CA618C	1
+itens#176	itens	176	(sistema)	(system)	sistema		戦士の証	Warrior's Proof	Classe RM2/RM3: 戦士 -> Warrior	0x08CA6190	1
+itens#177	itens	177	(sistema)	(system)	sistema		センシノアカシ	Warrior's Proof	Leitura katakana de itens#176	0x08CA6194	1
+itens#178	itens	178	(sistema)	(system)	sistema		ロックスの所で、レディアント装備を受け取る事が出来る	Allows you to receive Radiant equipment from Rocks.	Descricao compartilhada das 13 classes	0x08CA6198;0x08CA61A4;0x08CA61B0;0x08CA61BC;0x08CA61C8;0x08CA61D4;0x08CA61E0;0x08CA61EC;0x08CA61F8;0x08CA6204;0x08CA6210;0x08CA621C;0x08CA6228;0x08CA6234;0x08CA6240;0x08CA624C	16
+itens#179	itens	179	(sistema)	(system)	sistema		剣士の証	Swordsman's Proof	Classe RM2/RM3: 剣士 -> Swordsman	0x08CA619C	1
+itens#180	itens	180	(sistema)	(system)	sistema		ケンシノアカシ	Swordsman's Proof	Leitura katakana de itens#179	0x08CA61A0	1
+itens#181	itens	181	(sistema)	(system)	sistema		格闘家の証	Martial Artist's Proof	Classe RM2/RM3: 格闘家 -> Martial Artist	0x08CA61A8	1
+itens#182	itens	182	(sistema)	(system)	sistema		カクトウカノアカシ	Martial Artist's Proof	Leitura katakana de itens#181	0x08CA61AC	1
+itens#183	itens	183	(sistema)	(system)	sistema		狩人の証	Hunter's Proof	Classe RM2/RM3: 狩人 -> Hunter	0x08CA61B4	1
+itens#184	itens	184	(sistema)	(system)	sistema		カリウドノアカシ	Hunter's Proof	Leitura katakana de itens#183	0x08CA61B8	1
+itens#185	itens	185	(sistema)	(system)	sistema		盗賊の証	Thief's Proof	Classe RM2/RM3: 盗賊 -> Thief	0x08CA61C0	1
+itens#186	itens	186	(sistema)	(system)	sistema		トウゾクノアカシ	Thief's Proof	Leitura katakana de itens#185	0x08CA61C4	1
+itens#187	itens	187	(sistema)	(system)	sistema		魔術師の証	Mage's Proof	Classe RM2/RM3: 魔術師 -> Mage	0x08CA61CC	1
+itens#188	itens	188	(sistema)	(system)	sistema		マジュツシノアカシ	Mage's Proof	Leitura katakana de itens#187	0x08CA61D0	1
+itens#189	itens	189	(sistema)	(system)	sistema		僧侶の証	Priest's Proof	Classe RM2/RM3: 僧侶 -> Priest	0x08CA61D8	1
+itens#190	itens	190	(sistema)	(system)	sistema		ソウリョノアカシ	Priest's Proof	Leitura katakana de itens#189	0x08CA61DC	1
+itens#191	itens	191	(sistema)	(system)	sistema		大剣士の証	Great Swordsman's Proof	Classe RM2/RM3: 大剣士 -> Great Swordsman	0x08CA61E4	1
+itens#192	itens	192	(sistema)	(system)	sistema		ダイケンシノアカシ	Great Swordsman's Proof	Leitura katakana de itens#191	0x08CA61E8	1
+itens#193	itens	193	(sistema)	(system)	sistema		双剣士の証	Twin Swordsman's Proof	Classe RM2/RM3: 双剣士 -> Twin Swordsman	0x08CA61F0	1
+itens#194	itens	194	(sistema)	(system)	sistema		ソウケンシノアカシ	Twin Swordsman's Proof	Leitura katakana de itens#193	0x08CA61F4	1
+itens#195	itens	195	(sistema)	(system)	sistema		ガンマンの証	Gunman's Proof	Classe RM2/RM3: ガンマン -> Gunman	0x08CA61FC	1
+itens#196	itens	196	(sistema)	(system)	sistema		ガンマンノアカシ	Gunman's Proof	Leitura katakana de itens#195	0x08CA6200	1
+itens#197	itens	197	(sistema)	(system)	sistema		モンクの証	Monk's Proof	Classe RM2/RM3: モンク -> Monk	0x08CA6208	1
+itens#198	itens	198	(sistema)	(system)	sistema		モンクノアカシ	Monk's Proof	Leitura katakana de itens#197	0x08CA620C	1
+itens#199	itens	199	(sistema)	(system)	sistema		ビショップの証	Bishop's Proof	Classe RM2/RM3: ビショップ -> Bishop	0x08CA6214	1
+itens#200	itens	200	(sistema)	(system)	sistema		ビショップノアカシ	Bishop's Proof	Leitura katakana de itens#199	0x08CA6218	1
+itens#201	itens	201	(sistema)	(system)	sistema		魔法剣士の証	Spellsword's Proof	Classe RM2/RM3: 魔法剣士 -> Spellsword	0x08CA6220	1
+itens#202	itens	202	(sistema)	(system)	sistema		マホウケンシノアカシ	Spellsword's Proof	Leitura katakana de itens#201	0x08CA6224	1
+itens#203	itens	203	(sistema)	(system)	sistema		忍者の証	Ninja's Proof	Classe RM2/RM3: 忍者 -> Ninja	0x08CA622C	1
+itens#204	itens	204	(sistema)	(system)	sistema		ニンジャノアカシ	Ninja's Proof	Leitura katakana de itens#203	0x08CA6230	1
+itens#205	itens	205	(sistema)	(system)	sistema		海賊の証	Pirate's Proof	Classe RM2/RM3: 海賊 -> Pirate	0x08CA6238	1
+itens#206	itens	206	(sistema)	(system)	sistema		カイゾクノアカシ	Pirate's Proof	Leitura katakana de itens#205	0x08CA623C	1
+itens#207	itens	207	(sistema)	(system)	sistema		聖騎士の証	Paladin's Proof	Classe RM2/RM3: 聖騎士 -> Paladin	0x08CA6244	1
+itens#208	itens	208	(sistema)	(system)	sistema		セイキシノアカシ	Paladin's Proof	Leitura katakana de itens#207	0x08CA6248	1
+itens#209	itens	209	(sistema)	(system)	sistema		黒オーブ	Black Orb		0x08CA6250	1
+itens#210	itens	210	(sistema)	(system)	sistema		クロオーブ	Black Orb	Leitura katakana de itens#209	0x08CA6254	1
+itens#211	itens	211	(sistema)	(system)	sistema		なぜか以前からバンエルティア号の部屋に置いてあった宝玉	A jewel that, for some reason, had been left in a room on the Van Eltia for a long time.	INDICE_NOMES.md: バンエルティア号 -> Van Eltia	0x08CA6258	1
+itens#212	itens	212	(sistema)	(system)	sistema		白オーブ	White Orb		0x08CA625C;0x08CA6268;0x08CA6274	3
+itens#213	itens	213	(sistema)	(system)	sistema		シロオーブ	White Orb	Leitura katakana de itens#212	0x08CA6260;0x08CA626C;0x08CA6278	3
+itens#214	itens	214	(sistema)	(system)	sistema		ルバーブ連山の緑宝箱から手に入れた白い宝玉	A white jewel obtained from a green chest in the Rhubarb Mountains.	Toponimo: ルバーブ連山 -> Rhubarb Mountains	0x08CA6264;0x08CA6270;0x08CA627C	3
+itens#215	itens	215	(sistema)	(system)	sistema		赤オーブ	Red Orb		0x08CA6280	1
+itens#216	itens	216	(sistema)	(system)	sistema		アカオーブ	Red Orb	Leitura katakana de itens#215	0x08CA6284	1
+itens#217	itens	217	(sistema)	(system)	sistema		アルマナック遺跡の緑宝箱から手に入れた赤い宝玉	A red jewel obtained from a green chest in the Almanac Ruins.	Toponimo: アルマナック遺跡 -> Almanac Ruins	0x08CA6288	1
+itens#218	itens	218	(sistema)	(system)	sistema		青オーブ	Blue Orb		0x08CA628C	1
+itens#219	itens	219	(sistema)	(system)	sistema		アオオーブ	Blue Orb	Leitura katakana de itens#218	0x08CA6290	1
+itens#220	itens	220	(sistema)	(system)	sistema		シフノ湧泉洞の緑宝箱から手に入れた青い宝玉	A blue jewel obtained from a green chest in the Sifno Spring Cave.	Toponimo: シフノ湧泉洞 -> Sifno Spring Cave	0x08CA6294	1
+itens#221	itens	221	(sistema)	(system)	sistema		緑オーブ	Green Orb		0x08CA6298	1
+itens#222	itens	222	(sistema)	(system)	sistema		ミドリオーブ	Green Orb	Leitura katakana de itens#221	0x08CA629C	1
+itens#223	itens	223	(sistema)	(system)	sistema		聖地ラングリースの緑宝箱から手に入れた緑の宝玉	A green jewel obtained from a green chest in the Holy Land of Langriths.	Toponimo: 聖地ラングリース -> Holy Land of Langriths	0x08CA62A0	1
+avisos#0	avisos	0	(sistema)	(system)	sistema	%s x1	%sを発見しました	Discovered %s.		0x08D832D4;0x08D832D8	2
+avisos#1	avisos	1	(sistema)	(system)	sistema	%s x1	%sに勝利しました	Defeated %s.		0x08D832DC	1
+avisos#2	avisos	2	(sistema)	(system)	sistema	%s x1	%sに敗北しました	Defeated by %s.		0x08D832E0	1
+avisos#3	avisos	3	(sistema)	(system)	sistema		クエストを達成しました	Quest objectives achieved.	Conclusao de objetivo in-game	0x08D832E4	1
+avisos#4	avisos	4	(sistema)	(system)	sistema	%d x1	あと、%d匹です	%d remaining.	Contagem de monstros restantes	0x08D832E8	1
+avisos#5	avisos	5	(sistema)	(system)	sistema		指定の退治数に達しました	Target defeat count reached.		0x08D832EC	1
+avisos#6	avisos	6	(sistema)	(system)	sistema		指定アイテムの獲得が要求数に達しました	Required item quantity reached.		0x08D832F0	1
+avisos#7	avisos	7	(sistema)	(system)	sistema		既にアイテムを持っているようです	You seem to already have this item.		0x08D832F4	1
+avisos#8	avisos	8	(sistema)	(system)	sistema		指定された貴重品を全て見つけ出しました	Found all designated valuables.		0x08D832F8	1
+avisos#9	avisos	9	(sistema)	(system)	sistema		クエストが完了しました	Quest complete.	Entrega final de quest	0x08D832FC	1
+avisos#10	avisos	10	(sistema)	(system)	sistema		クエストを破棄しました	Quest cancelled.		0x08D83320	1
+avisos#11	avisos	11	(sistema)	(system)	sistema		パーティを解散しました	Party disbanded.		0x08D83344	1
+avisos#12	avisos	12	(sistema)	(system)	sistema	%s x1	%sがパーティから抜けました	%s left the party.		0x08D83348	1
+avisos#13	avisos	13	(sistema)	(system)	sistema	%s x1	%sがパーティに加わりました	%s joined the party.		0x08D8334C	1
+avisos#14	avisos	14	(sistema)	(system)	sistema	LF x2	称号は、メニューのライブラリで確認出来ます。\nまた、得られた称号をセットする事で\n様々な効果が得られます	Titles can be viewed in Library under Menu.\nSetting an acquired title grants\na variety of effects.	Aviso tutorial: exatos 2 \n	0x08D83380	1
+avisos#15	avisos	15	(sistema)	(system)	sistema		を預けました	 deposited.	Notificacao do armazem: nome do item precede a string	0x08D66828	1
+avisos#16	avisos	16	(sistema)	(system)	sistema		を取り出しました	 retrieved.	Notificacao do armazem: nome do item precede a string	0x08D6682C	1
+avisos#17	avisos	17	(sistema)	(system)	sistema		が装備中です。装備を預けられませんでした	 is equipped. Could not deposit equipment.	Notificacao do armazem: nome do membro precede a string	0x08D66830	1
+avisos#18	avisos	18	(sistema)	(system)	sistema		倉庫が一杯です。装備を預けられませんでした	Storage is full. Could not deposit equipment.	Notificacao do armazem	0x08D66834	1
+avisos#19	avisos	19	(sistema)	(system)	sistema		所持品が一杯です。装備を取り出せませんでした	Inventory is full. Could not retrieve equipment.	Notificacao do armazem	0x08D66838	1

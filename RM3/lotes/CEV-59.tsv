@@ -1,0 +1,134 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev59_010.scr:0	cev59_010.scr	0	ルカ	Ruca Milda	personagem	CRLF x1	母さんのチーズスープ……。\n久しぶりに食べたいなぁ		
+cev59_010.scr:1	cev59_010.scr	1	アッシュ	Asch	personagem		ふん……、ホームシックか？		
+cev59_010.scr:2	cev59_010.scr	2	ルカ	Ruca Milda	personagem		そ、そんなんじゃ……		
+cev59_010.scr:3	cev59_010.scr	3	ルカ	Ruca Milda	personagem	CRLF x2	ただ、僕が家に帰ってきた時に\nいつも母さんが、あったかいチーズスープを\n作って待っててくれたんだ		
+cev59_010.scr:4	cev59_010.scr	4	ルカ	Ruca Milda	personagem	CRLF x2	それを思い出して……母さん、今も\n僕の帰りを待って、チーズスープを\n作ってくれているのかなって……		
+cev59_010.scr:5	cev59_010.scr	5	アッシュ	Asch	personagem		それがホームシックだというんだ		
+cev59_010.scr:6	cev59_010.scr	6	アッシュ	Asch	personagem	CRLF x1	結局、親が恋しくなったって\nだけなんだろうが？		
+cev59_010.scr:7	cev59_010.scr	7	ルカ	Ruca Milda	personagem		うう……		
+cev59_010.scr:8	cev59_010.scr	8	ルカ	Ruca Milda	personagem		そ、そう……なの、かな		
+cev59_010.scr:9	cev59_010.scr	9	アッシュ	Asch	personagem	CRLF x2	贅沢なもんだ。\nホームシックになれる居場所が\n普通にあるというのはな		
+cev59_010.scr:10	cev59_010.scr	10	ルカ	Ruca Milda	personagem		え……？		
+cev59_010.scr:11	cev59_010.scr	11	アッシュ	Asch	personagem		せいぜい、両親を大事にしてやれ		
+cev59_010.scr:12	cev59_010.scr	12	アッシュ	Asch	personagem	CRLF x1	孝行出来る親がいるというのは\n悪い事じゃない		
+cev59_010.scr:13	cev59_010.scr	13	ルカ	Ruca Milda	personagem		アッシュ……？		
+cev59_020.scr:0	cev59_020.scr	0	ルカ	Ruca Milda	personagem		あ、あのさ、イリア……！		
+cev59_020.scr:1	cev59_020.scr	1	ルカ	Ruca Milda	personagem		ちょっと、いいかな？		
+cev59_020.scr:2	cev59_020.scr	2	イリア	Iria Animi	personagem		えっ？		
+cev59_020.scr:3	cev59_020.scr	3	イリア	Iria Animi	personagem	CRLF x1	なっ、何よ。\n急に改まっちゃって……		
+cev59_020.scr:4	cev59_020.scr	4	ルカ	Ruca Milda	personagem	CRLF x1	その、今度……\nぼ、僕と……一緒に……！		
+cev59_020.scr:5	cev59_020.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x1	おーす、二人とも！\n元気にしてるかあ？		
+cev59_020.scr:6	cev59_020.scr	6	イリア	Iria Animi	personagem	CRLF x1	って、アンタ\nどっから沸いて出たのよっ！		
+cev59_020.scr:7	cev59_020.scr	7	ティトレイ	Tytree Crowe	personagem	CRLF x1	な、何だよ、怒るなよ。\nちょっと挨拶しただけじゃんかよ〜		
+cev59_020.scr:8	cev59_020.scr	8	ルカ	Ruca Milda	personagem		（うう、いい雰囲気だったのに……）		
+cev59_030.scr:0	cev59_030.scr	0	カイウス	Caius Qualls	personagem	CRLF x1	ルカ、また勉強してるのか？\n随分頑張ってるよなぁ		
+cev59_030.scr:1	cev59_030.scr	1	ルカ	Ruca Milda	personagem	CRLF x2	うん……。\nでも、医者になるには、もっともっと\n勉強しておかないと		
+cev59_030.scr:2	cev59_030.scr	2	ルカ	Ruca Milda	personagem		人の命を預かる仕事だからね……		
+cev59_030.scr:3	cev59_030.scr	3	カイウス	Caius Qualls	personagem	CRLF x1	そっか。\nルカは医者になりたいんだったな		
+cev59_030.scr:4	cev59_030.scr	4	カイウス	Caius Qualls	personagem	CRLF x2	すげえよな。\nオレなんて、将来自分が何になりたいかなんて\nまだ全然わからないよ		
+cev59_030.scr:5	cev59_030.scr	5	リッド	Reid Hershel	personagem		そんなもん、オレだってわかんねえよ		
+cev59_030.scr:6	cev59_030.scr	6	リッド	Reid Hershel	personagem	CRLF x2	まぁ、毎日美味いもん食べて\nたっぷり寝て過ごせたら、\n何も言う事ねえんだけどな		
+cev59_030.scr:7	cev59_030.scr	7	カイウス	Caius Qualls	personagem		リッドはそればっかだな		
+cev59_030.scr:8	cev59_030.scr	8	ルカ	Ruca Milda	personagem		でも、リッドらしいよ		
+cev59_030.scr:9	cev59_030.scr	9	ルカ	Ruca Milda	personagem	CRLF x2	僕だって、本当に医者に\nなれるかどうかもわからないし\nこの先どうなるかだって……		
+cev59_030.scr:10	cev59_030.scr	10	ルカ	Ruca Milda	personagem	CRLF x2	だけど、後で振り返って\nやらなかった事を後悔するのは\n違うかなって思うから……		
+cev59_030.scr:11	cev59_030.scr	11	リッド	Reid Hershel	personagem	CRLF x2	そうだな。　\nやらねえ後悔より\nやった後悔のがなんぼかマシだ		
+cev59_030.scr:12	cev59_030.scr	12	カイウス	Caius Qualls	personagem		オレも何かやってみようかな		
+cev59_030.scr:13	cev59_030.scr	13	リッド	Reid Hershel	personagem	CRLF x1	また三日坊主で\n終わんなきゃいいけどな		
+cev59_030.scr:14	cev59_030.scr	14	カイウス	Caius Qualls	personagem		こ、子ども扱いするなよな！		
+cev59_040.scr:0	cev59_040.scr	0	ルーティ	Rutee Katrea	personagem	CRLF x2	あー。\n何か久しぶりに語っちゃって、\n肩が凝ったわ〜		
+cev59_040.scr:1	cev59_040.scr	1	ルカ	Ruca Milda	personagem	CRLF x1	あ……、良かったら\n僕が揉んであげようか？		
+cev59_040.scr:2	cev59_040.scr	2	ルーティ	Rutee Katrea	personagem		え？		
+cev59_040.scr:3	cev59_040.scr	3	ルカ	Ruca Milda	personagem		え？		
+cev59_040.scr:4	cev59_040.scr	4	ルカ	Ruca Milda	personagem	CRLF x1	……あ、ご、ごめんなさい！\n決して変な意味とかじゃなくって……		
+cev59_040.scr:5	cev59_040.scr	5	ルカ	Ruca Milda	personagem	CRLF x1	イリアにいつもやらされてるから\nつい……！		
+cev59_040.scr:6	cev59_040.scr	6	ルーティ	Rutee Katrea	personagem	CRLF x2	いや、別にいいんだけど。\nっていうか、むしろ\nありがたい申し出なんだけど		
+cev59_040.scr:7	cev59_040.scr	7	ルーティ	Rutee Katrea	personagem	CRLF x1	……ルカってほんと\nイリアによく仕込まれてるのねぇ〜		
+cev59_040.scr:8	cev59_040.scr	8	ルカ	Ruca Milda	personagem	CRLF x1	そんな事で感心されても、\n嬉しくない……		
+cev59_050.scr:0	cev59_050.scr	0	カイル	Kyle Dunamis	personagem	CRLF x2	ルカの剣って大きいね〜。\nいつもそんなの持ち歩いていて\n疲れたりしないの？		
+cev59_050.scr:1	cev59_050.scr	1	ルカ	Ruca Milda	personagem	CRLF x2	え？　\nそ、そうだね……。\nもう、慣れちゃった……かな		
+cev59_050.scr:2	cev59_050.scr	2	セネル	Senel Coolidge	personagem		日頃の鍛錬の成果というやつか		
+cev59_050.scr:3	cev59_050.scr	3	セネル	Senel Coolidge	personagem	CRLF x2	俺は、剣を使わないからわからないが……。\nやっぱり、そうなるまでには\n相当な苦労をしたんじゃないか？		
+cev59_050.scr:4	cev59_050.scr	4	ルカ	Ruca Milda	personagem		苦労……？		
+cev59_050.scr:5	cev59_050.scr	5	ルカ	Ruca Milda	personagem		（やけにツッコまれるなぁ……）		
+cev59_050.scr:6	cev59_050.scr	6	ルカ	Ruca Milda	personagem	CRLF x2	う〜ん……。\n確かに、手にマメは\nよく出来たりしたけど……		
+cev59_050.scr:7	cev59_050.scr	7	カイル	Kyle Dunamis	personagem	CRLF x1	剣が大きいから、重さで\n肩が凝ったりもしそうだよね		
+cev59_050.scr:8	cev59_050.scr	8	カイル	Kyle Dunamis	personagem	CRLF x1	ルカって実は、陰で\nすっごく努力をしてるんだね！		
+cev59_050.scr:9	cev59_050.scr	9	ルカ	Ruca Milda	personagem	CRLF x1	ちょ、ちょっと待ってよ。\n大剣なら、ヴェイグだって使ってるよ？		
+cev59_050.scr:10	cev59_050.scr	10	ルカ	Ruca Milda	personagem	CRLF x1	なのに、僕だけ特別扱いみたいなのって\nおかしいっていうか……		
+cev59_050.scr:11	cev59_050.scr	11	カイル	Kyle Dunamis	personagem		それは……やっぱり		
+cev59_050.scr:12	cev59_050.scr	12	セネル	Senel Coolidge	personagem		見た目的に……な？		
+cev59_050.scr:13	cev59_050.scr	13	ルカ	Ruca Milda	personagem	CRLF x2	それって、\n遠回しに僕の体が\n貧相だって言ってる……？		
+cev59_060.scr:0	cev59_060.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	ルカ！\n今、ちょっと……いいかな？		
+cev59_060.scr:1	cev59_060.scr	1	ルカ	Ruca Milda	personagem	CRLF x1	……？\nどうしたの、二人とも？		
+cev59_060.scr:2	cev59_060.scr	2	セネル	Senel Coolidge	personagem		その……この間は、悪かったな		
+cev59_060.scr:3	cev59_060.scr	3	セネル	Senel Coolidge	personagem	CRLF x1	見た目でお前を判断してるみたいな\n言い方をして……		
+cev59_060.scr:4	cev59_060.scr	4	カイル	Kyle Dunamis	personagem	CRLF x1	そういうつもりじゃなかったんだ。\nほんとに……ただ、すごいなって……		
+cev59_060.scr:5	cev59_060.scr	5	ルカ	Ruca Milda	personagem	CRLF x1	……うん。\nわかってるよ		
+cev59_060.scr:6	cev59_060.scr	6	ルカ	Ruca Milda	personagem	CRLF x1	それに、もういいんだ。\n大事な事を……思い出せたから		
+cev59_060.scr:7	cev59_060.scr	7	セネル	Senel Coolidge	personagem		大事な事？		
+cev59_060.scr:8	cev59_060.scr	8	ルカ	Ruca Milda	personagem	CRLF x1	うん。\nこの剣は……みんなを守る為の力だから		
+cev59_060.scr:9	cev59_060.scr	9	ルカ	Ruca Milda	personagem	CRLF x1	だから、似合わなくてもいいんだ。\n僕は……		
+cev59_060.scr:10	cev59_060.scr	10	カイル	Kyle Dunamis	personagem		似合わないなんて事ない！		
+cev59_060.scr:11	cev59_060.scr	11	セネル	Senel Coolidge	personagem	CRLF x2	ああ。\n戦ってる時のお前は\n本当に堂々としている		
+cev59_060.scr:12	cev59_060.scr	12	ルカ	Ruca Milda	personagem		カイル、セネル……		
+cev59_060.scr:13	cev59_060.scr	13	カイル	Kyle Dunamis	personagem		だから、ごめん……ルカ		
+cev59_060.scr:14	cev59_060.scr	14	セネル	Senel Coolidge	personagem		俺達の言い方が、悪かった……よな		
+cev59_060.scr:15	cev59_060.scr	15	ルカ	Ruca Milda	personagem	CRLF x1	……ううん、そんな事ないよ。\nもう……二人の気持ちもわかったし……		
+cev59_060.scr:16	cev59_060.scr	16	ルカ	Ruca Milda	personagem		……大丈夫、だから……		
+cev59_060.scr:17	cev59_060.scr	17	ルカ	Ruca Milda	personagem		えへへ……		
+cev59_200.scr:0	cev59_200.scr	0	ルカ	Ruca Milda	personagem	CRLF x1	通常。\n		
+cev59_200.scr:1	cev59_200.scr	1	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:2	cev59_200.scr	2	ルカ	Ruca Milda	personagem	CRLF x1	笑い。\n		
+cev59_200.scr:3	cev59_200.scr	3	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:4	cev59_200.scr	4	ルカ	Ruca Milda	personagem	CRLF x1	怒り。\n		
+cev59_200.scr:5	cev59_200.scr	5	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:6	cev59_200.scr	6	ルカ	Ruca Milda	personagem	CRLF x1	悲しみ。\n		
+cev59_200.scr:7	cev59_200.scr	7	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:8	cev59_200.scr	8	ルカ	Ruca Milda	personagem	CRLF x1	泣き。\n		
+cev59_200.scr:9	cev59_200.scr	9	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:10	cev59_200.scr	10	ルカ	Ruca Milda	personagem	CRLF x1	諦め。\n		
+cev59_200.scr:11	cev59_200.scr	11	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:12	cev59_200.scr	12	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡通常。\n		
+cev59_200.scr:13	cev59_200.scr	13	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:14	cev59_200.scr	14	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡皮肉。\n		
+cev59_200.scr:15	cev59_200.scr	15	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:16	cev59_200.scr	16	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡笑い。\n		
+cev59_200.scr:17	cev59_200.scr	17	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:18	cev59_200.scr	18	ルカ	Ruca Milda	personagem	CRLF x1	通常。\n		
+cev59_200.scr:19	cev59_200.scr	19	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:20	cev59_200.scr	20	ルカ	Ruca Milda	personagem	CRLF x1	笑い。\n		
+cev59_200.scr:21	cev59_200.scr	21	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:22	cev59_200.scr	22	ルカ	Ruca Milda	personagem	CRLF x1	怒り。\n		
+cev59_200.scr:23	cev59_200.scr	23	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:24	cev59_200.scr	24	ルカ	Ruca Milda	personagem	CRLF x1	悲しみ。\n		
+cev59_200.scr:25	cev59_200.scr	25	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:26	cev59_200.scr	26	ルカ	Ruca Milda	personagem	CRLF x1	泣き。\n		
+cev59_200.scr:27	cev59_200.scr	27	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:28	cev59_200.scr	28	ルカ	Ruca Milda	personagem	CRLF x1	諦め。\n		
+cev59_200.scr:29	cev59_200.scr	29	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:30	cev59_200.scr	30	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡通常。\n		
+cev59_200.scr:31	cev59_200.scr	31	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:32	cev59_200.scr	32	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡皮肉。\n		
+cev59_200.scr:33	cev59_200.scr	33	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:34	cev59_200.scr	34	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡笑い。\n		
+cev59_200.scr:35	cev59_200.scr	35	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:36	cev59_200.scr	36	ルカ	Ruca Milda	personagem	CRLF x1	通常。\n		
+cev59_200.scr:37	cev59_200.scr	37	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:38	cev59_200.scr	38	ルカ	Ruca Milda	personagem	CRLF x1	笑い。\n		
+cev59_200.scr:39	cev59_200.scr	39	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:40	cev59_200.scr	40	ルカ	Ruca Milda	personagem	CRLF x1	怒り。\n		
+cev59_200.scr:41	cev59_200.scr	41	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:42	cev59_200.scr	42	ルカ	Ruca Milda	personagem	CRLF x1	悲しみ。\n		
+cev59_200.scr:43	cev59_200.scr	43	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:44	cev59_200.scr	44	ルカ	Ruca Milda	personagem	CRLF x1	泣き。\n		
+cev59_200.scr:45	cev59_200.scr	45	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:46	cev59_200.scr	46	ルカ	Ruca Milda	personagem	CRLF x1	諦め。\n		
+cev59_200.scr:47	cev59_200.scr	47	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:48	cev59_200.scr	48	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡通常。\n		
+cev59_200.scr:49	cev59_200.scr	49	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:50	cev59_200.scr	50	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡皮肉。\n		
+cev59_200.scr:51	cev59_200.scr	51	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev59_200.scr:52	cev59_200.scr	52	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡笑い。\n		
+cev59_200.scr:53	cev59_200.scr	53	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

@@ -1,0 +1,111 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev14_010.scr:0	qev14_010.scr	0	ティトレイ	Tytree Crowe	personagem		うーん……		
+qev14_010.scr:1	qev14_010.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	どうしましたの、ティトレイ？\n随分悩んでいる様ですけれど		
+qev14_010.scr:2	qev14_010.scr	2	ティトレイ	Tytree Crowe	personagem	CRLF x1	ああ、実は次の料理当番\nおれに回ってくる事んなってさ		
+qev14_010.scr:3	qev14_010.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x2	せっかくだし、張り切って\n何か旨いモンでも作ろうと思うんだけど\nいまいちアイデアがわかなくてな〜		
+qev14_010.scr:4	qev14_010.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		そうでしたのね……		
+qev14_010.scr:5	qev14_010.scr	5	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	それでしたら、以前お話されていた\nキノコ料理などはいかが？		
+qev14_010.scr:6	qev14_010.scr	6	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	滋養強壮にもなりますし、\n私、是非一度味わってみたいですわ		
+qev14_010.scr:7	qev14_010.scr	7	ティトレイ	Tytree Crowe	personagem		ああ、あれかぁ！		
+qev14_010.scr:8	qev14_010.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x2	でも、あれを作るには\n特別かつ極上の材料がなきゃ\nダメなんだよなぁ		
+qev14_010.scr:9	qev14_010.scr	9	ティトレイ	Tytree Crowe	personagem	CRLF x1	これから一人で取りに行くってのは、\nちょっと……		
+qev14_010.scr:10	qev14_010.scr	10	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		人手があればよろしいんですのね？		
+qev14_010.scr:11	qev14_010.scr	11	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	わかりました。\n私が何とか掛け合ってみます		
+qev14_010.scr:12	qev14_010.scr	12	ティトレイ	Tytree Crowe	personagem	CRLF x1	本当か？\nそれなら話は早え		
+qev14_010.scr:13	qev14_010.scr	13	ティトレイ	Tytree Crowe	personagem	CRLF x1	よーし、思い立ったが何とやらだ。\n行動あるのみだぜ！		
+qev14_010.scr:14	qev14_010.scr	14	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「最高の一品を求めて」が\nエントリーされました。\nティトレイから受ける事が出来ます		
+qev14_020.scr:0	qev14_020.scr	0	ティトレイ	Tytree Crowe	personagem		うーっし、みんな集まったな？		
+qev14_020.scr:1	qev14_020.scr	1	ウィル	Will Raynard	personagem	CRLF x1	急に呼び付けるから\n何かと思えば……		
+qev14_020.scr:2	qev14_020.scr	2	ウィル	Will Raynard	personagem	CRLF x1	ふむ。\nまあ、いい気分転換にはなるか		
+qev14_020.scr:3	qev14_020.scr	3	アッシュ	Asch	personagem	CRLF x1	おい、ちょっと待て。\n何で俺までここに……		
+qev14_020.scr:4	qev14_020.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		私が推薦したのですわ		
+qev14_020.scr:5	qev14_020.scr	5	アッシュ	Asch	personagem		ナタリア？		
+qev14_020.scr:6	qev14_020.scr	6	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	アッシュは以前、\nお母様のご病気を治す為、\nキノコ採取に行った事があるのです		
+qev14_020.scr:7	qev14_020.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	きっと、その時の経験を活かして、\n素晴らしいキノコを\n見つけてきてくれるはずですわ		
+qev14_020.scr:8	qev14_020.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	ティトレイの料理は絶品ですもの。\nそのティトレイが是非にと推す一品、\n私もとても楽しみにしていますわ		
+qev14_020.scr:9	qev14_020.scr	9	アッシュ	Asch	personagem		ぐ……		
+qev14_020.scr:10	qev14_020.scr	10	ウィル	Will Raynard	personagem		ああまで言われては、断れんな		
+qev14_020.scr:11	qev14_020.scr	11	ティトレイ	Tytree Crowe	personagem		んじゃ、決まりだな		
+qev14_020.scr:12	qev14_020.scr	12	ティトレイ	Tytree Crowe	personagem	CRLF x1	待ってろナタリア。\n今にすげえ旨いモン食わしてやっからよ		
+qev14_020.scr:13	qev14_020.scr	13	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	期待していますわよ、ティトレイ。\nそれに、アッシュも		
+qev14_020.scr:14	qev14_020.scr	14	アッシュ	Asch	personagem		…………		
+qev14_030.scr:0	qev14_030.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	ここだな？\nハナアブラダケの生息地ってのは		
+qev14_030.scr:1	qev14_030.scr	1	ウィル	Will Raynard	personagem		ああ		
+qev14_030.scr:2	qev14_030.scr	2	ウィル	Will Raynard	personagem	CRLF x2	あまり繁殖力の強いキノコではないから\n数を集めるのに時間はかかるかもしれんが\nここなら問題なく採取出来るだろう		
+qev14_030.scr:3	qev14_030.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x2	うおっし。\nばんばん採って、みんなに自慢の\nキノコスープを振る舞ってやるぜえ！		
+qev14_030.scr:4	qev14_030.scr	4	アッシュ	Asch	personagem	CRLF x1	フン。\nそう上手くいけばいいがな……		
+qev14_040.scr:0	qev14_040.scr	0	ウィル	Will Raynard	personagem	CRLF x1	この辺りは、\n毒性のキノコも多く生息している		
+qev14_040.scr:1	qev14_040.scr	1	ウィル	Will Raynard	personagem	CRLF x1	怪しいと思ったら、むやみに\n手を触れるなよ		
+qev14_040.scr:2	qev14_040.scr	2	(ator 200)	(ator 200)	desconhecido		…………		
+qev14_040.scr:3	qev14_040.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x2	わかってるって。\n要はハナアブラダケしか\n採らなきゃいいんだろ？		
+qev14_040.scr:4	qev14_040.scr	4	ティトレイ	Tytree Crowe	personagem		おっ！		
+qev14_040.scr:5	qev14_040.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x1	そう言ってる間に、\n早速一つゲットだぜ！！		
+qev14_040.scr:6	qev14_040.scr	6	アッシュ	Asch	personagem	CRLF x1	馬鹿、それは\nハナアブラドクドクダケだ！		
+qev14_040.scr:7	qev14_040.scr	7	アッシュ	Asch	personagem	CRLF x1	誤って口にしてみろ、\n一瞬であの世逝きだぞ！！		
+qev14_040.scr:8	qev14_040.scr	8	ティトレイ	Tytree Crowe	personagem		えっ？　ほ、本当か！？		
+qev14_040.scr:9	qev14_040.scr	9	ウィル	Will Raynard	personagem	CRLF x2	ふむ……。\n確かにこれは、\nハナアブラドクドクダケだ		
+qev14_040.scr:10	qev14_040.scr	10	ウィル	Will Raynard	personagem	CRLF x2	非常に毒性が高い事で有名だが、\nハナアブラダケと類似点が多く\nなかなか見分ける事が困難なのだ		
+qev14_040.scr:11	qev14_040.scr	11	ウィル	Will Raynard	personagem		よく知っていたな		
+qev14_040.scr:12	qev14_040.scr	12	アッシュ	Asch	personagem	CRLF x1	フン……。\n本で少し調べた事があるだけだ		
+qev14_040.scr:13	qev14_040.scr	13	ティトレイ	Tytree Crowe	personagem		ああ、母親の為にってやつか？		
+qev14_040.scr:14	qev14_040.scr	14	ティトレイ	Tytree Crowe	personagem	CRLF x1	アッシュってツンツンしてっけど、\n結構いいとこあんだなぁ		
+qev14_040.scr:15	qev14_040.scr	15	アッシュ	Asch	personagem	CRLF x2	だ、黙れ！\n口を動かす暇があったら\n手と頭を動かしやがれ！！		
+qev14_040.scr:16	qev14_040.scr	16	ティトレイ	Tytree Crowe	personagem	CRLF x2	ははっ。\n照れてんのか？\n何かお前、いい奴だなぁ		
+qev14_040.scr:17	qev14_040.scr	17	ウィル	Will Raynard	personagem		嫌味が全く通じていないな……		
+qev14_041.scr:0	qev14_041.scr	0	ウィル	Will Raynard	personagem		おい……これを見ろ！		
+qev14_041.scr:1	qev14_041.scr	1	(ator 200)	(ator 200)	desconhecido		……？		
+qev14_041.scr:2	qev14_041.scr	2	ティトレイ	Tytree Crowe	personagem		何だ、キノコが見つかったのか？		
+qev14_041.scr:3	qev14_041.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x1	って、うわっ！\nすげえ毒々しい色のキノコだな		
+qev14_041.scr:4	qev14_041.scr	4	ウィル	Will Raynard	personagem	CRLF x2	ニガニガグリグリダケだ。\nこの辺りでの生息は確認されて\nいなかったのだが……		
+qev14_041.scr:5	qev14_041.scr	5	ウィル	Will Raynard	personagem	CRLF x2	どうやらどこかから胞子でも\n飛んできたらしい。\nいや、それとも新種か、亜種か？		
+qev14_041.scr:6	qev14_041.scr	6	ウィル	Will Raynard	personagem	CRLF x1	そもそもこことは環境条件が\n適合しないはずだが……		
+qev14_041.scr:7	qev14_041.scr	7	ティトレイ	Tytree Crowe	personagem	CRLF x2	何だよ、\nハナアブラダケじゃないなら\nいいじゃねえか		
+qev14_041.scr:8	qev14_041.scr	8	ティトレイ	Tytree Crowe	personagem		早く探しに行こうぜ		
+qev14_041.scr:9	qev14_041.scr	9	ウィル	Will Raynard	personagem	CRLF x2	何を言う！　貴重なサンプルだぞ。\nこのニガニガグリグリダケを足がかりに\nこの一帯の生態系の変化が掴めるかもしれん		
+qev14_041.scr:10	qev14_041.scr	10	アッシュ	Asch	personagem	CRLF x2	ニガニガグリグリだか、\nイボイボブツブツだか知らねえが、\nいつまで油を売ってるつもりだ？		
+qev14_041.scr:11	qev14_041.scr	11	ティトレイ	Tytree Crowe	personagem	CRLF x1	おお〜、ハナアブラダケだけに\n油を売ってるって？		
+qev14_041.scr:12	qev14_041.scr	12	ティトレイ	Tytree Crowe	personagem	CRLF x2	はっはっはっは。\nやっぱ、アッシュって\n面白ぇ奴だよな〜！		
+qev14_041.scr:13	qev14_041.scr	13	アッシュ	Asch	personagem		ギャグで言ったわけじゃねえ！		
+qev14_041.scr:14	qev14_041.scr	14	ウィル	Will Raynard	personagem	CRLF x2	おい、二人とも手を貸せ！\n状態のいいニガニガグリグリダケを\n幾つか採取していくぞ		
+qev14_041.scr:15	qev14_041.scr	15	アッシュ	Asch	personagem		お前は人の話を聞け！！		
+qev14_042.scr:0	qev14_042.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	しっかし、アッシュはほんとに\n毒キノコの見分け方が上手いよなぁ		
+qev14_042.scr:1	qev14_042.scr	1	ティトレイ	Tytree Crowe	personagem		何かコツでもあんのか？		
+qev14_042.scr:2	qev14_042.scr	2	アッシュ	Asch	personagem	CRLF x1	ひだの色や傘の膨らみ、\nそれに条線の有無で判別している		
+qev14_042.scr:3	qev14_042.scr	3	アッシュ	Asch	personagem	CRLF x2	それぞれ別のキノコである以上、\nどこかに決定的な違いがあるはずだ。\nそれを見分けているだけに過ぎん		
+qev14_042.scr:4	qev14_042.scr	4	ティトレイ	Tytree Crowe	personagem	CRLF x1	すっげえなぁ。\nキノコのスペシャリストって感じだな		
+qev14_042.scr:5	qev14_042.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x1	いや、いっそ博士か。\nよっ、キノコ博士！		
+qev14_042.scr:6	qev14_042.scr	6	アッシュ	Asch	personagem	CRLF x1	妙な名前で呼ぶんじゃねえ！\n斬られたいか！！		
+qev14_042.scr:7	qev14_042.scr	7	ウィル	Will Raynard	personagem		おい、みんな！　すごいぞ！！		
+qev14_042.scr:8	qev14_042.scr	8	ウィル	Will Raynard	personagem	CRLF x2	すぐそこに貴重な魔物の巣を見つけた。\n卵を早速サンプルとして\n採取してみたんだが……		
+qev14_042.scr:9	qev14_042.scr	9	アッシュ	Asch	personagem	CRLF x1	おい。\nまさか……		
+qev14_042.scr:10	qev14_042.scr	10	ティトレイ	Tytree Crowe	personagem	CRLF x1	シッ。\n何か聞こえるぜ		
+qev14_042.scr:11	qev14_042.scr	11	ウィル	Will Raynard	personagem	CRLF x1	ああ、どうやら親に勘付かれたらしい。\nこの卵だけは死守するぞ、お前達も手伝え！		
+qev14_042.scr:12	qev14_042.scr	12	(ator 200)	(ator 200)	desconhecido		……！！		
+qev14_042.scr:13	qev14_042.scr	13	アッシュ	Asch	personagem	CRLF x1	この偏執博物学者が！\nお前の脳みそはスポンジか！？		
+qev14_042.scr:14	qev14_042.scr	14	ティトレイ	Tytree Crowe	personagem	CRLF x1	やばいって、\nマジで大群でこっち来んぞ！！		
+qev14_042.scr:15	qev14_042.scr	15	ウィル	Will Raynard	personagem	CRLF x2	うむ。\nだから早く逃げろと伝えに来たのだ。\n行くぞ		
+qev14_042.scr:16	qev14_042.scr	16	アッシュ	Asch	personagem	CRLF x1	くっ……、覚えておけ。\n後で必ず、血祭りにあげてやる……！！		
+qev14_042.scr:17	qev14_042.scr	17	ティトレイ	Tytree Crowe	personagem		待てよ、おれを置いてくなって！		
+qev14_050.scr:0	qev14_050.scr	0	ティトレイ	Tytree Crowe	personagem		よーっし、こんだけあれば十分だろ		
+qev14_050.scr:1	qev14_050.scr	1	ウィル	Will Raynard	personagem	CRLF x2	ふむ……。\n貴重なサンプルも手に入ったし、\nなかなか充実した時間だったな		
+qev14_050.scr:2	qev14_050.scr	2	アッシュ	Asch	personagem		…………		
+qev14_050.scr:3	qev14_050.scr	3	(ator 200)	(ator 200)	desconhecido		…………		
+qev14_050.scr:4	qev14_050.scr	4	ティトレイ	Tytree Crowe	personagem	CRLF x2	何だよ、アッシュ。\nこれくらいで、\nへこたれちまったのか？		
+qev14_050.scr:5	qev14_050.scr	5	ティトレイ	Tytree Crowe	personagem		ちっと、修行が足りないんじゃねえのか		
+qev14_050.scr:6	qev14_050.scr	6	アッシュ	Asch	personagem		誰のせいだと思っている！		
+qev14_050.scr:7	qev14_050.scr	7	ウィル	Will Raynard	personagem	CRLF x1	そうだぞティトレイ。\n反省しろ		
+qev14_050.scr:8	qev14_050.scr	8	アッシュ	Asch	personagem		お前もだ！！		
+qev14_060.scr:0	qev14_060.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	さ〜て。\nこっからは、おれの本領発揮だな		
+qev14_060.scr:1	qev14_060.scr	1	アッシュ	Asch	personagem		…………		
+qev14_060.scr:2	qev14_060.scr	2	ティトレイ	Tytree Crowe	personagem	CRLF x1	何だよアッシュ、怖い顔して。\n嬉しくねえのか？		
+qev14_060.scr:3	qev14_060.scr	3	アッシュ	Asch	personagem	CRLF x2	これから先、お前達には同行しない。\n何があってもごめんだ。\n二度とな		
+qev14_060.scr:4	qev14_060.scr	4	ウィル	Will Raynard	personagem	CRLF x2	随分な物言いだな。\n仲間同士、もう少し仲良くしたら\nどうなんだ		
+qev14_060.scr:5	qev14_060.scr	5	アッシュ	Asch	personagem		誰のせいでこうなったと思っている！！		
+qev14_060.scr:6	qev14_060.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x2	あ〜わかったわかった。\nアッシュは腹減って\nイライラしてんだろ？		
+qev14_060.scr:7	qev14_060.scr	7	ティトレイ	Tytree Crowe	personagem	CRLF x1	すぐ支度すっからよ、\n楽しみに待っててくれよな		
+qev14_060.scr:8	qev14_060.scr	8	アッシュ	Asch	personagem		…………		
+qev14_060.scr:9	qev14_060.scr	9	ウィル	Will Raynard	personagem	CRLF x1	そう落ち込むな。\nナタリアの喜ぶ顔が見たかったのだろう？		
+qev14_060.scr:10	qev14_060.scr	10	アッシュ	Asch	personagem		黙れ、この偏執博物学者		
+qev14_060.scr:11	qev14_060.scr	11	アッシュ	Asch	personagem	CRLF x1	くっ、ナタリアの頼みでさえなければ\n誰がこんなくだらん雑用を……		
+qev14_060.scr:12	qev14_060.scr	12	ウィル	Will Raynard	personagem		まあそう言うな		
+qev14_060.scr:13	qev14_060.scr	13	ウィル	Will Raynard	personagem	CRLF x2	○○もご苦労だったな。\n少し体を休めて、折を見てから\n食事にしようか		

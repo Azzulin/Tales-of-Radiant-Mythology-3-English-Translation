@@ -1,0 +1,400 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	va_ponteiros	ocorrencias
+monstros_materiais#0	monstros_materiais	0	(sistema)	(system)	sistema		間引きで選択			0x08D86280	1
+monstros_materiais#1	monstros_materiais	1	(sistema)	(system)	sistema		ゲコゲコ			0x08D86284	1
+monstros_materiais#2	monstros_materiais	2	(sistema)	(system)	sistema		ウルフ			0x08D86288	1
+monstros_materiais#3	monstros_materiais	3	(sistema)	(system)	sistema		サイノッサス			0x08D8628C	1
+monstros_materiais#4	monstros_materiais	4	(sistema)	(system)	sistema		ガーゴイル			0x08D86290	1
+monstros_materiais#5	monstros_materiais	5	(sistema)	(system)	sistema		ガルーダ			0x08D86294	1
+monstros_materiais#6	monstros_materiais	6	(sistema)	(system)	sistema		デカウオント			0x08D86298	1
+monstros_materiais#7	monstros_materiais	7	(sistema)	(system)	sistema		チュンチュン			0x08D8629C	1
+monstros_materiais#8	monstros_materiais	8	(sistema)	(system)	sistema		バシリスク			0x08D862A0	1
+monstros_materiais#9	monstros_materiais	9	(sistema)	(system)	sistema		オタオタ			0x08D862A4	1
+monstros_materiais#10	monstros_materiais	10	(sistema)	(system)	sistema		ミミック			0x08D862A8	1
+monstros_materiais#11	monstros_materiais	11	(sistema)	(system)	sistema		アイスバット			0x08D862AC	1
+monstros_materiais#12	monstros_materiais	12	(sistema)	(system)	sistema		アイスウルフ			0x08D862B0	1
+monstros_materiais#13	monstros_materiais	13	(sistema)	(system)	sistema		ドウラクラブ			0x08D862B4	1
+monstros_materiais#14	monstros_materiais	14	(sistema)	(system)	sistema		デカラビアス			0x08D862B8	1
+monstros_materiais#15	monstros_materiais	15	(sistema)	(system)	sistema		メデューサローパー			0x08D862BC	1
+monstros_materiais#16	monstros_materiais	16	(sistema)	(system)	sistema		ジルディシュバリエ			0x08D862C0	1
+monstros_materiais#17	monstros_materiais	17	(sistema)	(system)	sistema		ブラッサム			0x08D862C4	1
+monstros_materiais#18	monstros_materiais	18	(sistema)	(system)	sistema		ロックワーム			0x08D862C8	1
+monstros_materiais#19	monstros_materiais	19	(sistema)	(system)	sistema		ミニデカパン			0x08D862CC	1
+monstros_materiais#20	monstros_materiais	20	(sistema)	(system)	sistema		デカコパン			0x08D862D0	1
+monstros_materiais#21	monstros_materiais	21	(sistema)	(system)	sistema		ネガティブプラント			0x08D862D4	1
+monstros_materiais#22	monstros_materiais	22	(sistema)	(system)	sistema		ウォーターバット			0x08D862D8	1
+monstros_materiais#23	monstros_materiais	23	(sistema)	(system)	sistema		グロスベルヴァ			0x08D862DC	1
+monstros_materiais#24	monstros_materiais	24	(sistema)	(system)	sistema		バット			0x08D862E0	1
+monstros_materiais#25	monstros_materiais	25	(sistema)	(system)	sistema		スケルトン			0x08D862E4	1
+monstros_materiais#26	monstros_materiais	26	(sistema)	(system)	sistema		ストーンゴレム			0x08D862E8	1
+monstros_materiais#27	monstros_materiais	27	(sistema)	(system)	sistema		オタレド			0x08D862EC	1
+monstros_materiais#28	monstros_materiais	28	(sistema)	(system)	sistema		ヒラリス			0x08D862F0	1
+monstros_materiais#29	monstros_materiais	29	(sistema)	(system)	sistema		銅			0x08D862F4	1
+monstros_materiais#30	monstros_materiais	30	(sistema)	(system)	sistema		水晶			0x08D862F8	1
+monstros_materiais#31	monstros_materiais	31	(sistema)	(system)	sistema		銀			0x08D862FC	1
+monstros_materiais#32	monstros_materiais	32	(sistema)	(system)	sistema		モルダバイト			0x08D86300	1
+monstros_materiais#33	monstros_materiais	33	(sistema)	(system)	sistema		ヒヒイロカネ			0x08D86304	1
+monstros_materiais#34	monstros_materiais	34	(sistema)	(system)	sistema		純結星晶			0x08D86308	1
+monstros_materiais#35	monstros_materiais	35	(sistema)	(system)	sistema		アップル			0x08D8630C	1
+monstros_materiais#36	monstros_materiais	36	(sistema)	(system)	sistema		麻			0x08D86310	1
+monstros_materiais#37	monstros_materiais	37	(sistema)	(system)	sistema		こくもつ			0x08D86314	1
+monstros_materiais#38	monstros_materiais	38	(sistema)	(system)	sistema		たまご			0x08D86318	1
+monstros_materiais#39	monstros_materiais	39	(sistema)	(system)	sistema		レモン			0x08D8631C	1
+monstros_materiais#40	monstros_materiais	40	(sistema)	(system)	sistema		スパイス			0x08D86320	1
+monstros_materiais#41	monstros_materiais	41	(sistema)	(system)	sistema		聖なる実			0x08D86324	1
+monstros_materiais#42	monstros_materiais	42	(sistema)	(system)	sistema		絹			0x08D86328	1
+monstros_materiais#43	monstros_materiais	43	(sistema)	(system)	sistema		レアスパイス			0x08D8632C	1
+monstros_materiais#44	monstros_materiais	44	(sistema)	(system)	sistema		エンゼルヘア			0x08D86330	1
+monstros_materiais#45	monstros_materiais	45	(sistema)	(system)	sistema		貧弱なウロコ			0x08D86334	1
+monstros_materiais#46	monstros_materiais	46	(sistema)	(system)	sistema		抜け落ちた羽根			0x08D86338	1
+monstros_materiais#47	monstros_materiais	47	(sistema)	(system)	sistema		乾いた触手			0x08D8633C	1
+monstros_materiais#48	monstros_materiais	48	(sistema)	(system)	sistema		長いクチバシ			0x08D86340	1
+monstros_materiais#49	monstros_materiais	49	(sistema)	(system)	sistema		スカスカの骨			0x08D86344	1
+monstros_materiais#50	monstros_materiais	50	(sistema)	(system)	sistema		長い羽根			0x08D86348	1
+monstros_materiais#51	monstros_materiais	51	(sistema)	(system)	sistema		鉤のある針			0x08D8634C	1
+monstros_materiais#52	monstros_materiais	52	(sistema)	(system)	sistema		堅守のウロコ			0x08D86350	1
+monstros_materiais#53	monstros_materiais	53	(sistema)	(system)	sistema		なめらかな表皮			0x08D86354	1
+monstros_materiais#54	monstros_materiais	54	(sistema)	(system)	sistema		異常発達の骨			0x08D86358	1
+monstros_materiais#55	monstros_materiais	55	(sistema)	(system)	sistema		生暖かい触手			0x08D8635C	1
+monstros_materiais#56	monstros_materiais	56	(sistema)	(system)	sistema		いかついクチバシ			0x08D86360	1
+monstros_materiais#57	monstros_materiais	57	(sistema)	(system)	sistema		滑る触手			0x08D86364	1
+monstros_materiais#58	monstros_materiais	58	(sistema)	(system)	sistema		遺恨放つ骨			0x08D86368	1
+monstros_materiais#59	monstros_materiais	59	(sistema)	(system)	sistema		覇王の牙			0x08D8636C	1
+monstros_materiais#60	monstros_materiais	60	(sistema)	(system)	sistema		幻視のヒゲ			0x08D86370	1
+monstros_materiais#61	monstros_materiais	61	(sistema)	(system)	sistema		虹彩放つ羽根			0x08D86374	1
+monstros_materiais#62	monstros_materiais	62	(sistema)	(system)	sistema		全てを貫く針			0x08D86378	1
+elenco_hud_batalha#0	elenco_hud_batalha	0	(sistema)	(system)	sistema		クエストを受ける			0x08D833FC	1
+elenco_hud_batalha#1	elenco_hud_batalha	1	(sistema)	(system)	sistema		パーティ編成			0x08D83400	1
+elenco_hud_batalha#2	elenco_hud_batalha	2	(sistema)	(system)	sistema		パーティ解散			0x08D83404	1
+elenco_hud_batalha#3	elenco_hud_batalha	3	(sistema)	(system)	sistema		転職する			0x08D83408	1
+elenco_hud_batalha#4	elenco_hud_batalha	4	(sistema)	(system)	sistema		全員の装備変更			0x08D8340C	1
+elenco_hud_batalha#5	elenco_hud_batalha	5	(sistema)	(system)	sistema		クエストを破棄する			0x08D83410	1
+elenco_hud_batalha#6	elenco_hud_batalha	6	(sistema)	(system)	sistema		クエスト達成報告			0x08D83414	1
+elenco_hud_batalha#7	elenco_hud_batalha	7	(sistema)	(system)	sistema		情報切替			0x08D83418	1
+elenco_hud_batalha#8	elenco_hud_batalha	8	(sistema)	(system)	sistema		決定			0x08D8341C	1
+elenco_hud_batalha#9	elenco_hud_batalha	9	(sistema)	(system)	sistema		戻る			0x08D83420;0x08D83620	2
+elenco_hud_batalha#10	elenco_hud_batalha	10	(sistema)	(system)	sistema		無し			0x08D83424	1
+elenco_hud_batalha#11	elenco_hud_batalha	11	(sistema)	(system)	sistema		クレス			0x08D83428	1
+elenco_hud_batalha#12	elenco_hud_batalha	12	(sistema)	(system)	sistema		ミント			0x08D8342C	1
+elenco_hud_batalha#13	elenco_hud_batalha	13	(sistema)	(system)	sistema		チェスター			0x08D83430	1
+elenco_hud_batalha#14	elenco_hud_batalha	14	(sistema)	(system)	sistema		アーチェ			0x08D83434	1
+elenco_hud_batalha#15	elenco_hud_batalha	15	(sistema)	(system)	sistema		すず			0x08D83438	1
+elenco_hud_batalha#16	elenco_hud_batalha	16	(sistema)	(system)	sistema		スタン			0x08D8343C	1
+elenco_hud_batalha#17	elenco_hud_batalha	17	(sistema)	(system)	sistema		ルーティ			0x08D83440	1
+elenco_hud_batalha#18	elenco_hud_batalha	18	(sistema)	(system)	sistema		フィリア			0x08D83444	1
+elenco_hud_batalha#19	elenco_hud_batalha	19	(sistema)	(system)	sistema		リオン			0x08D83448	1
+elenco_hud_batalha#20	elenco_hud_batalha	20	(sistema)	(system)	sistema		ウッドロウ			0x08D8344C	1
+elenco_hud_batalha#21	elenco_hud_batalha	21	(sistema)	(system)	sistema		チェルシー			0x08D83450	1
+elenco_hud_batalha#22	elenco_hud_batalha	22	(sistema)	(system)	sistema		コングマン			0x08D83454	1
+elenco_hud_batalha#23	elenco_hud_batalha	23	(sistema)	(system)	sistema		リリス			0x08D83458	1
+elenco_hud_batalha#24	elenco_hud_batalha	24	(sistema)	(system)	sistema		リッド			0x08D8345C	1
+elenco_hud_batalha#25	elenco_hud_batalha	25	(sistema)	(system)	sistema		ファラ			0x08D83460	1
+elenco_hud_batalha#26	elenco_hud_batalha	26	(sistema)	(system)	sistema		キール			0x08D83464	1
+elenco_hud_batalha#27	elenco_hud_batalha	27	(sistema)	(system)	sistema		メルディ			0x08D83468	1
+elenco_hud_batalha#28	elenco_hud_batalha	28	(sistema)	(system)	sistema		チャット			0x08D8346C	1
+elenco_hud_batalha#29	elenco_hud_batalha	29	(sistema)	(system)	sistema		セルシウス			0x08D83470	1
+elenco_hud_batalha#30	elenco_hud_batalha	30	(sistema)	(system)	sistema		カイル			0x08D83474	1
+elenco_hud_batalha#31	elenco_hud_batalha	31	(sistema)	(system)	sistema		リアラ			0x08D83478	1
+elenco_hud_batalha#32	elenco_hud_batalha	32	(sistema)	(system)	sistema		ロニ			0x08D8347C	1
+elenco_hud_batalha#33	elenco_hud_batalha	33	(sistema)	(system)	sistema		ジューダス			0x08D83480	1
+elenco_hud_batalha#34	elenco_hud_batalha	34	(sistema)	(system)	sistema		ナナリー			0x08D83484	1
+elenco_hud_batalha#35	elenco_hud_batalha	35	(sistema)	(system)	sistema		ハロルド			0x08D83488	1
+elenco_hud_batalha#36	elenco_hud_batalha	36	(sistema)	(system)	sistema		ロイド			0x08D8348C	1
+elenco_hud_batalha#37	elenco_hud_batalha	37	(sistema)	(system)	sistema		コレット			0x08D83490	1
+elenco_hud_batalha#38	elenco_hud_batalha	38	(sistema)	(system)	sistema		ジーニアス			0x08D83494	1
+elenco_hud_batalha#39	elenco_hud_batalha	39	(sistema)	(system)	sistema		リフィル			0x08D83498	1
+elenco_hud_batalha#40	elenco_hud_batalha	40	(sistema)	(system)	sistema		クラトス			0x08D8349C	1
+elenco_hud_batalha#41	elenco_hud_batalha	41	(sistema)	(system)	sistema		しいな			0x08D834A0	1
+elenco_hud_batalha#42	elenco_hud_batalha	42	(sistema)	(system)	sistema		ゼロス			0x08D834A4	1
+elenco_hud_batalha#43	elenco_hud_batalha	43	(sistema)	(system)	sistema		プレセア			0x08D834A8	1
+elenco_hud_batalha#44	elenco_hud_batalha	44	(sistema)	(system)	sistema		ヴェイグ			0x08D834AC	1
+elenco_hud_batalha#45	elenco_hud_batalha	45	(sistema)	(system)	sistema		クレア			0x08D834B0	1
+elenco_hud_batalha#46	elenco_hud_batalha	46	(sistema)	(system)	sistema		ユージーン			0x08D834B4	1
+elenco_hud_batalha#47	elenco_hud_batalha	47	(sistema)	(system)	sistema		マオ			0x08D834B8	1
+elenco_hud_batalha#48	elenco_hud_batalha	48	(sistema)	(system)	sistema		ティトレイ			0x08D834BC	1
+elenco_hud_batalha#49	elenco_hud_batalha	49	(sistema)	(system)	sistema		アニー			0x08D834C0	1
+elenco_hud_batalha#50	elenco_hud_batalha	50	(sistema)	(system)	sistema		セネル			0x08D834C4	1
+elenco_hud_batalha#51	elenco_hud_batalha	51	(sistema)	(system)	sistema		シャーリィ			0x08D834C8	1
+elenco_hud_batalha#52	elenco_hud_batalha	52	(sistema)	(system)	sistema		ウィル			0x08D834CC	1
+elenco_hud_batalha#53	elenco_hud_batalha	53	(sistema)	(system)	sistema		クロエ			0x08D834D0	1
+elenco_hud_batalha#54	elenco_hud_batalha	54	(sistema)	(system)	sistema		ノーマ			0x08D834D4	1
+elenco_hud_batalha#55	elenco_hud_batalha	55	(sistema)	(system)	sistema		ジェイ			0x08D834D8	1
+elenco_hud_batalha#56	elenco_hud_batalha	56	(sistema)	(system)	sistema		ルーク			0x08D834DC	1
+elenco_hud_batalha#57	elenco_hud_batalha	57	(sistema)	(system)	sistema		ティア			0x08D834E0	1
+elenco_hud_batalha#58	elenco_hud_batalha	58	(sistema)	(system)	sistema		ガイ			0x08D834E4	1
+elenco_hud_batalha#59	elenco_hud_batalha	59	(sistema)	(system)	sistema		ジェイド			0x08D834E8	1
+elenco_hud_batalha#60	elenco_hud_batalha	60	(sistema)	(system)	sistema		アニス			0x08D834EC	1
+elenco_hud_batalha#61	elenco_hud_batalha	61	(sistema)	(system)	sistema		ナタリア			0x08D834F0	1
+elenco_hud_batalha#62	elenco_hud_batalha	62	(sistema)	(system)	sistema		アッシュ			0x08D834F4	1
+elenco_hud_batalha#63	elenco_hud_batalha	63	(sistema)	(system)	sistema		ヴァン			0x08D834F8	1
+elenco_hud_batalha#64	elenco_hud_batalha	64	(sistema)	(system)	sistema		カイウス			0x08D834FC	1
+elenco_hud_batalha#65	elenco_hud_batalha	65	(sistema)	(system)	sistema		ルビア			0x08D83500	1
+elenco_hud_batalha#66	elenco_hud_batalha	66	(sistema)	(system)	sistema		ルカ			0x08D83504	1
+elenco_hud_batalha#67	elenco_hud_batalha	67	(sistema)	(system)	sistema		イリア			0x08D83508	1
+elenco_hud_batalha#68	elenco_hud_batalha	68	(sistema)	(system)	sistema		スパーダ			0x08D8350C	1
+elenco_hud_batalha#69	elenco_hud_batalha	69	(sistema)	(system)	sistema		アンジュ			0x08D83510	1
+elenco_hud_batalha#70	elenco_hud_batalha	70	(sistema)	(system)	sistema		リカルド			0x08D83514	1
+elenco_hud_batalha#71	elenco_hud_batalha	71	(sistema)	(system)	sistema		ユーリ			0x08D83518	1
+elenco_hud_batalha#72	elenco_hud_batalha	72	(sistema)	(system)	sistema		エステル			0x08D8351C	1
+elenco_hud_batalha#73	elenco_hud_batalha	73	(sistema)	(system)	sistema		ジュディス			0x08D83520	1
+elenco_hud_batalha#74	elenco_hud_batalha	74	(sistema)	(system)	sistema		リタ			0x08D83524	1
+elenco_hud_batalha#75	elenco_hud_batalha	75	(sistema)	(system)	sistema		レイヴン			0x08D83528	1
+elenco_hud_batalha#76	elenco_hud_batalha	76	(sistema)	(system)	sistema		フレン			0x08D8352C	1
+elenco_hud_batalha#77	elenco_hud_batalha	77	(sistema)	(system)	sistema		エミル			0x08D83530	1
+elenco_hud_batalha#78	elenco_hud_batalha	78	(sistema)	(system)	sistema		マルタ			0x08D83534	1
+elenco_hud_batalha#79	elenco_hud_batalha	79	(sistema)	(system)	sistema		リヒター			0x08D83538	1
+elenco_hud_batalha#80	elenco_hud_batalha	80	(sistema)	(system)	sistema		シング			0x08D8353C	1
+elenco_hud_batalha#81	elenco_hud_batalha	81	(sistema)	(system)	sistema		コハク			0x08D83540	1
+elenco_hud_batalha#82	elenco_hud_batalha	82	(sistema)	(system)	sistema		ヒスイ			0x08D83544	1
+elenco_hud_batalha#83	elenco_hud_batalha	83	(sistema)	(system)	sistema		アスベル			0x08D83548	1
+elenco_hud_batalha#84	elenco_hud_batalha	84	(sistema)	(system)	sistema		ソフィ			0x08D8354C	1
+elenco_hud_batalha#85	elenco_hud_batalha	85	(sistema)	(system)	sistema		シェリア			0x08D83550	1
+elenco_hud_batalha#86	elenco_hud_batalha	86	(sistema)	(system)	sistema		カノンノ			0x08D83554	1
+elenco_hud_batalha#87	elenco_hud_batalha	87	(sistema)	(system)	sistema		オリジナル・カノンノ			0x08D83558	1
+elenco_hud_batalha#88	elenco_hud_batalha	88	(sistema)	(system)	sistema		パスカ・カノンノ			0x08D8355C	1
+elenco_hud_batalha#89	elenco_hud_batalha	89	(sistema)	(system)	sistema		カノンノ・イアハート			0x08D83560	1
+elenco_hud_batalha#90	elenco_hud_batalha	90	(sistema)	(system)	sistema		ダオス			0x08D83564	1
+elenco_hud_batalha#91	elenco_hud_batalha	91	(sistema)	(system)	sistema		バルバトス			0x08D83568	1
+elenco_hud_batalha#92	elenco_hud_batalha	92	(sistema)	(system)	sistema		ユグドラシル			0x08D8356C	1
+elenco_hud_batalha#93	elenco_hud_batalha	93	(sistema)	(system)	sistema		サレ			0x08D83570	1
+elenco_hud_batalha#94	elenco_hud_batalha	94	(sistema)	(system)	sistema		ミミー			0x08D83574	1
+elenco_hud_batalha#95	elenco_hud_batalha	95	(sistema)	(system)	sistema		クィッキー			0x08D83578	1
+elenco_hud_batalha#96	elenco_hud_batalha	96	(sistema)	(system)	sistema		キュッポ			0x08D8357C	1
+elenco_hud_batalha#97	elenco_hud_batalha	97	(sistema)	(system)	sistema		ピッポ			0x08D83580	1
+elenco_hud_batalha#98	elenco_hud_batalha	98	(sistema)	(system)	sistema		ポッポ			0x08D83584	1
+elenco_hud_batalha#99	elenco_hud_batalha	99	(sistema)	(system)	sistema		コーダ			0x08D83588	1
+elenco_hud_batalha#100	elenco_hud_batalha	100	(sistema)	(system)	sistema		アーダ			0x08D8358C	1
+elenco_hud_batalha#101	elenco_hud_batalha	101	(sistema)	(system)	sistema		パニール			0x08D83590	1
+elenco_hud_batalha#102	elenco_hud_batalha	102	(sistema)	(system)	sistema		ニアタ			0x08D83594	1
+elenco_hud_batalha#103	elenco_hud_batalha	103	(sistema)	(system)	sistema		ウィダーシン			0x08D83598	1
+elenco_hud_batalha#104	elenco_hud_batalha	104	(sistema)	(system)	sistema		ゲーデ			0x08D8359C	1
+elenco_hud_batalha#105	elenco_hud_batalha	105	(sistema)	(system)	sistema		モルモ			0x08D835A0	1
+elenco_hud_batalha#106	elenco_hud_batalha	106	(sistema)	(system)	sistema		ラザリス			0x08D835A4;0x08D835A8	2
+elenco_hud_batalha#107	elenco_hud_batalha	107	(sistema)	(system)	sistema		ジョアン			0x08D835AC	1
+elenco_hud_batalha#108	elenco_hud_batalha	108	(sistema)	(system)	sistema		村長トマス			0x08D835B0	1
+elenco_hud_batalha#109	elenco_hud_batalha	109	(sistema)	(system)	sistema		男の子ジャン			0x08D835B4	1
+elenco_hud_batalha#110	elenco_hud_batalha	110	(sistema)	(system)	sistema		女の子ルシア			0x08D835B8	1
+elenco_hud_batalha#111	elenco_hud_batalha	111	(sistema)	(system)	sistema		行商人ガメル			0x08D835BC	1
+elenco_hud_batalha#112	elenco_hud_batalha	112	(sistema)	(system)	sistema		夢見る少女リナ			0x08D835C0	1
+elenco_hud_batalha#113	elenco_hud_batalha	113	(sistema)	(system)	sistema		新米狩人ジェロニモ			0x08D835C4	1
+elenco_hud_batalha#114	elenco_hud_batalha	114	(sistema)	(system)	sistema		地方領主レイモンド			0x08D835C8	1
+elenco_hud_batalha#115	elenco_hud_batalha	115	(sistema)	(system)	sistema		雑貨屋店主フンダクル			0x08D835CC	1
+elenco_hud_batalha#116	elenco_hud_batalha	116	(sistema)	(system)	sistema		細工職人ディアナ			0x08D835D0	1
+elenco_hud_batalha#117	elenco_hud_batalha	117	(sistema)	(system)	sistema		収集家ヘラルド			0x08D835D4	1
+elenco_hud_batalha#118	elenco_hud_batalha	118	(sistema)	(system)	sistema		占い婆アイーダ			0x08D835D8	1
+elenco_hud_batalha#119	elenco_hud_batalha	119	(sistema)	(system)	sistema		鍛冶職人アレックス			0x08D835DC	1
+elenco_hud_batalha#120	elenco_hud_batalha	120	(sistema)	(system)	sistema		上級研究員ニコラス			0x08D835E0	1
+elenco_hud_batalha#121	elenco_hud_batalha	121	(sistema)	(system)	sistema		警備隊隊長ダニエル			0x08D835E4	1
+elenco_hud_batalha#122	elenco_hud_batalha	122	(sistema)	(system)	sistema		採鉱員ラモン			0x08D835E8	1
+elenco_hud_batalha#123	elenco_hud_batalha	123	(sistema)	(system)	sistema		青年実業家エゴイツ			0x08D835EC	1
+elenco_hud_batalha#124	elenco_hud_batalha	124	(sistema)	(system)	sistema		大地主マウイ			0x08D835F0	1
+elenco_hud_batalha#125	elenco_hud_batalha	125	(sistema)	(system)	sistema		セレブ夫人シルヴィア			0x08D835F4	1
+elenco_hud_batalha#126	elenco_hud_batalha	126	(sistema)	(system)	sistema		美食家カロリーナ			0x08D835F8	1
+elenco_hud_batalha#127	elenco_hud_batalha	127	(sistema)	(system)	sistema		薬剤師ジェマ			0x08D835FC	1
+elenco_hud_batalha#128	elenco_hud_batalha	128	(sistema)	(system)	sistema		整体師テレサ			0x08D83600	1
+elenco_hud_batalha#129	elenco_hud_batalha	129	(sistema)	(system)	sistema		？？？			0x08D83604	1
+elenco_hud_batalha#130	elenco_hud_batalha	130	(sistema)	(system)	sistema		重要任務			0x08D83608;0x08D83628	2
+elenco_hud_batalha#131	elenco_hud_batalha	131	(sistema)	(system)	sistema		退治クエスト			0x08D8360C;0x08D8362C;0x08D83698;0x08D8369C;0x08D836A0;0x08D836B8;0x08D836C4;0x08D836CC;0x08D836D4;0x08D836D8	10
+elenco_hud_batalha#132	elenco_hud_batalha	132	(sistema)	(system)	sistema		納品クエスト			0x08D83610;0x08D83630;0x08D836A4;0x08D836A8;0x08D836AC;0x08D836B0;0x08D836C8;0x08D836D0	8
+elenco_hud_batalha#133	elenco_hud_batalha	133	(sistema)	(system)	sistema		アンジュにおまかせ！			0x08D83614;0x08D83634	2
+elenco_hud_batalha#134	elenco_hud_batalha	134	(sistema)	(system)	sistema		達成済みクエスト			0x08D83618;0x08D83638	2
+elenco_hud_batalha#135	elenco_hud_batalha	135	(sistema)	(system)	sistema		最近達成したクエスト			0x08D8361C;0x08D8363C	2
+elenco_hud_batalha#136	elenco_hud_batalha	136	(sistema)	(system)	sistema		クエストカテゴリ選択			0x08D83624	1
+elenco_hud_batalha#137	elenco_hud_batalha	137	(sistema)	(system)	sistema		経験率			0x08D83640	1
+elenco_hud_batalha#138	elenco_hud_batalha	138	(sistema)	(system)	sistema		達成数			0x08D83644	1
+elenco_hud_batalha#139	elenco_hud_batalha	139	(sistema)	(system)	sistema		依頼人			0x08D83648	1
+elenco_hud_batalha#140	elenco_hud_batalha	140	(sistema)	(system)	sistema		現在受けているクエストはありません			0x08D8364C	1
+elenco_hud_batalha#141	elenco_hud_batalha	141	(sistema)	(system)	sistema		難易度			0x08D83650	1
+elenco_hud_batalha#142	elenco_hud_batalha	142	(sistema)	(system)	sistema		種別			0x08D83654	1
+elenco_hud_batalha#143	elenco_hud_batalha	143	(sistema)	(system)	sistema		目的地			0x08D83658	1
+elenco_hud_batalha#144	elenco_hud_batalha	144	(sistema)	(system)	sistema		ターゲット			0x08D8365C	1
+elenco_hud_batalha#145	elenco_hud_batalha	145	(sistema)	(system)	sistema		目標数			0x08D83660	1
+elenco_hud_batalha#146	elenco_hud_batalha	146	(sistema)	(system)	sistema		メンバー数			0x08D83664	1
+elenco_hud_batalha#147	elenco_hud_batalha	147	(sistema)	(system)	sistema		報酬候補			0x08D83668	1
+elenco_hud_batalha#148	elenco_hud_batalha	148	(sistema)	(system)	sistema		メリット			0x08D8366C	1
+elenco_hud_batalha#149	elenco_hud_batalha	149	(sistema)	(system)	sistema		同行者			0x08D83670	1
+elenco_hud_batalha#150	elenco_hud_batalha	150	(sistema)	(system)	sistema		50％			0x08D83680	1
+elenco_hud_batalha#151	elenco_hud_batalha	151	(sistema)	(system)	sistema		40％			0x08D83684	1
+elenco_hud_batalha#152	elenco_hud_batalha	152	(sistema)	(system)	sistema		100％			0x08D83688	1
+elenco_hud_batalha#153	elenco_hud_batalha	153	(sistema)	(system)	sistema		30％			0x08D8368C	1
+elenco_hud_batalha#154	elenco_hud_batalha	154	(sistema)	(system)	sistema		15％			0x08D83690	1
+elenco_hud_batalha#155	elenco_hud_batalha	155	(sistema)	(system)	sistema		なし			0x08D83694	1
+elenco_hud_batalha#156	elenco_hud_batalha	156	(sistema)	(system)	sistema		対決クエスト			0x08D836B4	1
+elenco_hud_batalha#157	elenco_hud_batalha	157	(sistema)	(system)	sistema		重要任務！			0x08D836BC	1
+elenco_hud_batalha#158	elenco_hud_batalha	158	(sistema)	(system)	sistema		特殊クエスト			0x08D836C0;0x08D836E0	2
+elenco_hud_batalha#159	elenco_hud_batalha	159	(sistema)	(system)	sistema		決闘クエスト			0x08D836DC	1
+elenco_hud_batalha#160	elenco_hud_batalha	160	(sistema)	(system)	sistema	%d x1	%d人			0x08D836E4	1
+elenco_hud_batalha#161	elenco_hud_batalha	161	(sistema)	(system)	sistema	%d x1	%dガルド			0x08D836E8	1
+elenco_hud_batalha#162	elenco_hud_batalha	162	(sistema)	(system)	sistema	%d x2	%d（現在 %d）			0x08D836EC	1
+elenco_hud_batalha#163	elenco_hud_batalha	163	(sistema)	(system)	sistema	%s x1	%s君			0x08D836F0	1
+elenco_hud_batalha#164	elenco_hud_batalha	164	(sistema)	(system)	sistema	%s x1	%sさん			0x08D836F4	1
+elenco_hud_batalha#165	elenco_hud_batalha	165	(sistema)	(system)	sistema		メリットは付与しません			0x08D836F8	1
+elenco_hud_batalha#166	elenco_hud_batalha	166	(sistema)	(system)	sistema		獲得経験値5％増加			0x08D836FC	1
+elenco_hud_batalha#167	elenco_hud_batalha	167	(sistema)	(system)	sistema		採掘効果＋1			0x08D83700	1
+elenco_hud_batalha#168	elenco_hud_batalha	168	(sistema)	(system)	sistema		レア獲得増＋5			0x08D83704	1
+elenco_hud_batalha#169	elenco_hud_batalha	169	(sistema)	(system)	sistema		採取効果＋1			0x08D83708	1
+elenco_hud_batalha#170	elenco_hud_batalha	170	(sistema)	(system)	sistema		宝箱ドロップ効果＋1			0x08D8370C	1
+elenco_hud_batalha#171	elenco_hud_batalha	171	(sistema)	(system)	sistema		獲得経験値10％増加			0x08D83710	1
+elenco_hud_batalha#172	elenco_hud_batalha	172	(sistema)	(system)	sistema		採掘効果＋2			0x08D83714	1
+elenco_hud_batalha#173	elenco_hud_batalha	173	(sistema)	(system)	sistema		レア獲得増＋10			0x08D83718	1
+elenco_hud_batalha#174	elenco_hud_batalha	174	(sistema)	(system)	sistema		採取効果＋2			0x08D8371C	1
+elenco_hud_batalha#175	elenco_hud_batalha	175	(sistema)	(system)	sistema		宝箱ドロップ効果＋2			0x08D83720	1
+elenco_hud_batalha#176	elenco_hud_batalha	176	(sistema)	(system)	sistema		獲得経験値15％増加			0x08D83724	1
+elenco_hud_batalha#177	elenco_hud_batalha	177	(sistema)	(system)	sistema		採掘効果＋3			0x08D83728	1
+elenco_hud_batalha#178	elenco_hud_batalha	178	(sistema)	(system)	sistema		レア獲得増＋20			0x08D8372C	1
+elenco_hud_batalha#179	elenco_hud_batalha	179	(sistema)	(system)	sistema		採取効果＋3			0x08D83730	1
+elenco_hud_batalha#180	elenco_hud_batalha	180	(sistema)	(system)	sistema		宝箱ドロップ効果＋3			0x08D83734	1
+elenco_hud_batalha#181	elenco_hud_batalha	181	(sistema)	(system)	sistema		獲得経験値20％増加			0x08D83738	1
+elenco_hud_batalha#182	elenco_hud_batalha	182	(sistema)	(system)	sistema		採掘効果＋5			0x08D8373C	1
+elenco_hud_batalha#183	elenco_hud_batalha	183	(sistema)	(system)	sistema		レア獲得増＋30			0x08D83740	1
+elenco_hud_batalha#184	elenco_hud_batalha	184	(sistema)	(system)	sistema		採取効果＋5			0x08D83744	1
+elenco_hud_batalha#185	elenco_hud_batalha	185	(sistema)	(system)	sistema		宝箱ドロップ効果＋5			0x08D83748	1
+elenco_hud_batalha#186	elenco_hud_batalha	186	(sistema)	(system)	sistema		獲得経験値30％増加			0x08D8374C	1
+elenco_hud_batalha#187	elenco_hud_batalha	187	(sistema)	(system)	sistema		採掘効果＋10			0x08D83750	1
+elenco_hud_batalha#188	elenco_hud_batalha	188	(sistema)	(system)	sistema		レア獲得増＋40			0x08D83754	1
+elenco_hud_batalha#189	elenco_hud_batalha	189	(sistema)	(system)	sistema		採取効果＋10			0x08D83758	1
+elenco_hud_batalha#190	elenco_hud_batalha	190	(sistema)	(system)	sistema		宝箱ドロップ効果＋10			0x08D8375C	1
+elenco_hud_batalha#191	elenco_hud_batalha	191	(sistema)	(system)	sistema		片手剣			0x08D83760	1
+elenco_hud_batalha#192	elenco_hud_batalha	192	(sistema)	(system)	sistema		両手剣			0x08D83764	1
+elenco_hud_batalha#193	elenco_hud_batalha	193	(sistema)	(system)	sistema		短剣			0x08D83768	1
+elenco_hud_batalha#194	elenco_hud_batalha	194	(sistema)	(system)	sistema		斧			0x08D8376C	1
+elenco_hud_batalha#195	elenco_hud_batalha	195	(sistema)	(system)	sistema		杖			0x08D83770	1
+elenco_hud_batalha#196	elenco_hud_batalha	196	(sistema)	(system)	sistema		拳			0x08D83774	1
+elenco_hud_batalha#197	elenco_hud_batalha	197	(sistema)	(system)	sistema		弓			0x08D83778	1
+elenco_hud_batalha#198	elenco_hud_batalha	198	(sistema)	(system)	sistema		拳銃			0x08D8377C	1
+elenco_hud_batalha#199	elenco_hud_batalha	199	(sistema)	(system)	sistema		特殊武器			0x08D83780	1
+elenco_hud_batalha#200	elenco_hud_batalha	200	(sistema)	(system)	sistema		雑貨武器			0x08D83784	1
+elenco_hud_batalha#201	elenco_hud_batalha	201	(sistema)	(system)	sistema		鎧			0x08D83788	1
+elenco_hud_batalha#202	elenco_hud_batalha	202	(sistema)	(system)	sistema		服			0x08D8378C	1
+elenco_hud_batalha#203	elenco_hud_batalha	203	(sistema)	(system)	sistema		ローブ			0x08D83790	1
+elenco_hud_batalha#204	elenco_hud_batalha	204	(sistema)	(system)	sistema		兜			0x08D83794	1
+elenco_hud_batalha#205	elenco_hud_batalha	205	(sistema)	(system)	sistema		帽子			0x08D83798	1
+elenco_hud_batalha#206	elenco_hud_batalha	206	(sistema)	(system)	sistema		顔装備			0x08D8379C	1
+elenco_hud_batalha#207	elenco_hud_batalha	207	(sistema)	(system)	sistema		籠手			0x08D837A0	1
+elenco_hud_batalha#208	elenco_hud_batalha	208	(sistema)	(system)	sistema		腕輪			0x08D837A4	1
+elenco_hud_batalha#209	elenco_hud_batalha	209	(sistema)	(system)	sistema		足装備			0x08D837A8	1
+elenco_hud_batalha#210	elenco_hud_batalha	210	(sistema)	(system)	sistema		盾			0x08D837AC	1
+menu_batalha#0	menu_batalha	0	(sistema)	(system)	sistema		ミッションタイトル			0x08D654BC	1
+menu_batalha#1	menu_batalha	1	(sistema)	(system)	sistema		ボーナス			0x08D654C0	1
+menu_batalha#2	menu_batalha	2	(sistema)	(system)	sistema		定員			0x08D654C4	1
+menu_batalha#3	menu_batalha	3	(sistema)	(system)	sistema		ターゲット			0x08D654C8	1
+menu_batalha#4	menu_batalha	4	(sistema)	(system)	sistema		定員をオーバーしています			0x08D654CC	1
+menu_batalha#5	menu_batalha	5	(sistema)	(system)	sistema		パーティメンバーにターゲットが含まれています			0x08D654D0	1
+menu_batalha#6	menu_batalha	6	(sistema)	(system)	sistema	%s x1	ミッションタイトル  %s			0x08D654D4	1
+menu_batalha#7	menu_batalha	7	(sistema)	(system)	sistema		ミッションボーナス			0x08D654D8	1
+menu_batalha#8	menu_batalha	8	(sistema)	(system)	sistema		ミッションレコード			0x08D654DC	1
+menu_batalha#9	menu_batalha	9	(sistema)	(system)	sistema		最大ＨＩＴ数			0x08D654E0;0x08D65624	2
+menu_batalha#10	menu_batalha	10	(sistema)	(system)	sistema		最大ヒットダメージ			0x08D654E4;0x08D65628	2
+menu_batalha#11	menu_batalha	11	(sistema)	(system)	sistema		最速クリア時間			0x08D654E8;0x08D6562C	2
+menu_batalha#12	menu_batalha	12	(sistema)	(system)	sistema		最大獲得グレード			0x08D654EC;0x08D65630	2
+menu_batalha#13	menu_batalha	13	(sistema)	(system)	sistema		特定アイテム名がありません			0x08D654F0	1
+menu_batalha#14	menu_batalha	14	(sistema)	(system)	sistema		＋%2d％			0x08D654F4	1
+menu_batalha#15	menu_batalha	15	(sistema)	(system)	sistema		＋%2d			0x08D654F8	1
+menu_batalha#16	menu_batalha	16	(sistema)	(system)	sistema		ミッションボーナスがありません			0x08D654FC	1
+menu_batalha#17	menu_batalha	17	(sistema)	(system)	sistema		ミッション			0x08D65500	1
+menu_batalha#18	menu_batalha	18	(sistema)	(system)	sistema		パーティ編成			0x08D65504	1
+menu_batalha#19	menu_batalha	19	(sistema)	(system)	sistema		パーティ解散			0x08D65508	1
+menu_batalha#20	menu_batalha	20	(sistema)	(system)	sistema		スペシャルミッション			0x08D6550C	1
+menu_batalha#21	menu_batalha	21	(sistema)	(system)	sistema		ミッション開始			0x08D65510	1
+menu_batalha#22	menu_batalha	22	(sistema)	(system)	sistema		戦闘BGMを変更する			0x08D65514	1
+menu_batalha#23	menu_batalha	23	(sistema)	(system)	sistema		ミッションを開始します			0x08D65518	1
+menu_batalha#24	menu_batalha	24	(sistema)	(system)	sistema		ミッションで使用する戦闘ＢＧＭを変更します			0x08D6551C	1
+menu_batalha#25	menu_batalha	25	(sistema)	(system)	sistema		まだ変更可能な戦闘ＢＧＭがありません			0x08D65520	1
+menu_batalha#26	menu_batalha	26	(sistema)	(system)	sistema		デフォルト演奏			0x08D65524	1
+menu_batalha#27	menu_batalha	27	(sistema)	(system)	sistema		ランダム演奏			0x08D65528	1
+menu_batalha#28	menu_batalha	28	(sistema)	(system)	sistema		全戦闘曲から選択する			0x08D6552C	1
+menu_batalha#29	menu_batalha	29	(sistema)	(system)	sistema		通常戦闘曲から選択する			0x08D65530	1
+menu_batalha#30	menu_batalha	30	(sistema)	(system)	sistema		ボス戦闘曲から選択する			0x08D65534	1
+menu_batalha#31	menu_batalha	31	(sistema)	(system)	sistema		シリーズで絞り込む			0x08D65538	1
+menu_batalha#32	menu_batalha	32	(sistema)	(system)	sistema		アーティストで絞り込む			0x08D6553C	1
+menu_batalha#33	menu_batalha	33	(sistema)	(system)	sistema		曲の指定は行わず、標準の曲を演奏します			0x08D65540	1
+menu_batalha#34	menu_batalha	34	(sistema)	(system)	sistema		選択可能な曲からランダムで演奏します			0x08D65544	1
+menu_batalha#35	menu_batalha	35	(sistema)	(system)	sistema		全ての選択可能な曲から選択します			0x08D65548	1
+menu_batalha#36	menu_batalha	36	(sistema)	(system)	sistema		通常戦闘曲の中から選択します			0x08D6554C	1
+menu_batalha#37	menu_batalha	37	(sistema)	(system)	sistema		ボス戦闘曲の中から選択します			0x08D65550	1
+menu_batalha#38	menu_batalha	38	(sistema)	(system)	sistema		シリーズ別に曲を絞り込みます			0x08D65554	1
+menu_batalha#39	menu_batalha	39	(sistema)	(system)	sistema		アーティスト別に曲を絞り込みます			0x08D65558	1
+menu_batalha#40	menu_batalha	40	(sistema)	(system)	sistema		テイルズ オブ ファンタジア			0x08D6555C	1
+menu_batalha#41	menu_batalha	41	(sistema)	(system)	sistema		テイルズ オブ デスティニー			0x08D65560	1
+menu_batalha#42	menu_batalha	42	(sistema)	(system)	sistema		テイルズ オブ エターニア			0x08D65564	1
+menu_batalha#43	menu_batalha	43	(sistema)	(system)	sistema		テイルズ オブ ジ アビス			0x08D65568	1
+menu_batalha#44	menu_batalha	44	(sistema)	(system)	sistema		テイルズ オブ デスティニー２			0x08D6556C	1
+menu_batalha#45	menu_batalha	45	(sistema)	(system)	sistema		テイルズ オブ シンフォニア			0x08D65570	1
+menu_batalha#46	menu_batalha	46	(sistema)	(system)	sistema		テイルズ オブ リバース			0x08D65574	1
+menu_batalha#47	menu_batalha	47	(sistema)	(system)	sistema		テイルズ オブ レジェンディア			0x08D65578	1
+menu_batalha#48	menu_batalha	48	(sistema)	(system)	sistema		テイルズ オブ ザ テンペスト			0x08D6557C	1
+menu_batalha#49	menu_batalha	49	(sistema)	(system)	sistema		テイルズ オブ イノセンス			0x08D65580	1
+menu_batalha#50	menu_batalha	50	(sistema)	(system)	sistema		テイルズ オブ ヴェスペリア			0x08D65584	1
+menu_batalha#51	menu_batalha	51	(sistema)	(system)	sistema		ＴＯＳ　−ラタトスクの騎士−			0x08D65588	1
+menu_batalha#52	menu_batalha	52	(sistema)	(system)	sistema		テイルズ オブ ハーツ			0x08D6558C	1
+menu_batalha#53	menu_batalha	53	(sistema)	(system)	sistema		テイルズ オブ グレイセス			0x08D65590	1
+menu_batalha#54	menu_batalha	54	(sistema)	(system)	sistema		レディアント マイソロジー			0x08D65594	1
+menu_batalha#55	menu_batalha	55	(sistema)	(system)	sistema		レディアント マイソロジー２			0x08D65598	1
+menu_batalha#56	menu_batalha	56	(sistema)	(system)	sistema		レディアント マイソロジー３			0x08D6559C	1
+menu_batalha#57	menu_batalha	57	(sistema)	(system)	sistema		テイルズ オブ ファンタジアの戦闘曲の中から選択します			0x08D655A0	1
+menu_batalha#58	menu_batalha	58	(sistema)	(system)	sistema		テイルズ オブ デスティニーの戦闘曲の中から選択します			0x08D655A4	1
+menu_batalha#59	menu_batalha	59	(sistema)	(system)	sistema		テイルズ オブ エターニアの戦闘曲の中から選択します			0x08D655A8	1
+menu_batalha#60	menu_batalha	60	(sistema)	(system)	sistema		テイルズ オブ ジ アビスの戦闘曲の中から選択します			0x08D655AC	1
+menu_batalha#61	menu_batalha	61	(sistema)	(system)	sistema		テイルズ オブ デスティニー２の戦闘曲の中から選択します			0x08D655B0	1
+menu_batalha#62	menu_batalha	62	(sistema)	(system)	sistema		テイルズ オブ シンフォニアの戦闘曲の中から選択します			0x08D655B4	1
+menu_batalha#63	menu_batalha	63	(sistema)	(system)	sistema		テイルズ オブ リバースの戦闘曲の中から選択します			0x08D655B8	1
+menu_batalha#64	menu_batalha	64	(sistema)	(system)	sistema		テイルズ オブ レジェンディアの戦闘曲の中から選択します			0x08D655BC	1
+menu_batalha#65	menu_batalha	65	(sistema)	(system)	sistema		テイルズ オブ ザ テンペストの戦闘曲の中から選択します			0x08D655C0	1
+menu_batalha#66	menu_batalha	66	(sistema)	(system)	sistema		テイルズ オブ イノセンスの戦闘曲の中から選択します			0x08D655C4	1
+menu_batalha#67	menu_batalha	67	(sistema)	(system)	sistema		テイルズ オブ ヴェスペリアの戦闘曲の中から選択します			0x08D655C8	1
+menu_batalha#68	menu_batalha	68	(sistema)	(system)	sistema		ＴＯＳ　−ラタトスクの騎士−の戦闘曲の中から選択します			0x08D655CC	1
+menu_batalha#69	menu_batalha	69	(sistema)	(system)	sistema		テイルズ オブ ハーツの戦闘曲の中から選択します			0x08D655D0	1
+menu_batalha#70	menu_batalha	70	(sistema)	(system)	sistema		テイルズ オブ グレイセスの戦闘曲の中から選択します			0x08D655D4	1
+menu_batalha#71	menu_batalha	71	(sistema)	(system)	sistema		レディアント マイソロジーの戦闘曲の中から選択します			0x08D655D8	1
+menu_batalha#72	menu_batalha	72	(sistema)	(system)	sistema		レディアント マイソロジー２の戦闘曲の中から選択します			0x08D655DC	1
+menu_batalha#73	menu_batalha	73	(sistema)	(system)	sistema		レディアント マイソロジー３の戦闘曲の中から選択します			0x08D655E0	1
+menu_batalha#74	menu_batalha	74	(sistema)	(system)	sistema		桜庭 統			0x08D655E4	1
+menu_batalha#75	menu_batalha	75	(sistema)	(system)	sistema		中村 和宏			0x08D655E8	1
+menu_batalha#76	menu_batalha	76	(sistema)	(system)	sistema		椎名 豪			0x08D655EC	1
+menu_batalha#77	menu_batalha	77	(sistema)	(system)	sistema		桜庭 統氏が作曲／編曲した戦闘曲の中から選択します			0x08D655F0	1
+menu_batalha#78	menu_batalha	78	(sistema)	(system)	sistema		中村 和宏氏が作曲／編曲した戦闘曲の中から選択します			0x08D655F4	1
+menu_batalha#79	menu_batalha	79	(sistema)	(system)	sistema		椎名 豪氏が作曲／編曲した戦闘曲の中から選択します			0x08D655F8	1
+menu_batalha#80	menu_batalha	80	(sistema)	(system)	sistema		ミッションを追加する為のパスワードを入力してください			0x08D655FC	1
+menu_batalha#81	menu_batalha	81	(sistema)	(system)	sistema		パスワードの入力を終了する			0x08D65600	1
+menu_batalha#82	menu_batalha	82	(sistema)	(system)	sistema		パスワードの入力を継続する			0x08D65604	1
+menu_batalha#83	menu_batalha	83	(sistema)	(system)	sistema	%s x1	ミッション「%s」が追加されました			0x08D65608	1
+menu_batalha#84	menu_batalha	84	(sistema)	(system)	sistema		パスワードが正しくありません			0x08D6560C	1
+menu_batalha#85	menu_batalha	85	(sistema)	(system)	sistema		既に追加されたミッションのパスワードです			0x08D65610	1
+menu_batalha#86	menu_batalha	86	(sistema)	(system)	sistema		今回の戦闘結果を記録しました			0x08D65614	1
+menu_batalha#87	menu_batalha	87	(sistema)	(system)	sistema		ミッションに勝利しました			0x08D65618	1
+menu_batalha#88	menu_batalha	88	(sistema)	(system)	sistema		ミッションに敗北しました			0x08D6561C	1
+menu_batalha#89	menu_batalha	89	(sistema)	(system)	sistema	%s x1	%sの記録を更新しました			0x08D65620	1
+menu_batalha#90	menu_batalha	90	(sistema)	(system)	sistema	%s x1	%sを獲得しました			0x08D65634	1
+menu_batalha#91	menu_batalha	91	(sistema)	(system)	sistema	%s x1 LF x1	所持アイテムが一杯のため、\n%sを獲得できませんでした			0x08D65638	1
+menu_batalha#92	menu_batalha	92	(sistema)	(system)	sistema	%s x1	%sの称号を獲得しました			0x08D6563C	1
+menu_batalha#93	menu_batalha	93	(sistema)	(system)	sistema	%s x1	%sを手に入れました			0x08D65640	1
+menu_batalha#94	menu_batalha	94	(sistema)	(system)	sistema		再戦する			0x08D65644	1
+menu_batalha#95	menu_batalha	95	(sistema)	(system)	sistema		再戦せずに抜ける			0x08D65648	1
+menu_batalha#96	menu_batalha	96	(sistema)	(system)	sistema		決定			0x08D6564C	1
+menu_batalha#97	menu_batalha	97	(sistema)	(system)	sistema		戻る			0x08D65650	1
+menu_batalha#98	menu_batalha	98	(sistema)	(system)	sistema		再生			0x08D65654	1
+menu_batalha#99	menu_batalha	99	(sistema)	(system)	sistema		ページ送り			0x08D65658	1
+menu_batalha#100	menu_batalha	100	(sistema)	(system)	sistema		削除			0x08D6565C	1
+menu_batalha#101	menu_batalha	101	(sistema)	(system)	sistema		ヒットダメージ			0x08D65660	1
+menu_batalha#102	menu_batalha	102	(sistema)	(system)	sistema		キャラを選択して下さい			0x08D65664	1
+menu_batalha#103	menu_batalha	103	(sistema)	(system)	sistema		アイテムの選択			0x08D65668	1
+menu_batalha#104	menu_batalha	104	(sistema)	(system)	sistema		術技の設定			0x08D6566C	1
+menu_batalha#105	menu_batalha	105	(sistema)	(system)	sistema		作戦の設定			0x08D65670	1
+menu_batalha#106	menu_batalha	106	(sistema)	(system)	sistema		弱点			0x08D65674	1
+menu_batalha#107	menu_batalha	107	(sistema)	(system)	sistema		得意			0x08D65678	1
+menu_batalha#108	menu_batalha	108	(sistema)	(system)	sistema		ターゲット選択			0x08D6567C	1
+menu_batalha#109	menu_batalha	109	(sistema)	(system)	sistema		術技の設定、及び術技の使用を行います			0x08D65680	1
+menu_batalha#110	menu_batalha	110	(sistema)	(system)	sistema		連携奥義で使用する術技の設定を行います			0x08D65684	1
+menu_batalha#111	menu_batalha	111	(sistema)	(system)	sistema		基本行動、及び優先行動の設定を行います			0x08D65688	1
+menu_batalha#112	menu_batalha	112	(sistema)	(system)	sistema		武器、防具などの変更を行います			0x08D6568C	1
+menu_batalha#113	menu_batalha	113	(sistema)	(system)	sistema		アイテムの使用を行います			0x08D65690	1
+menu_batalha#114	menu_batalha	114	(sistema)	(system)	sistema		戦闘からの逃走を行います			0x08D65694	1
+menu_batalha#115	menu_batalha	115	(sistema)	(system)	sistema		戦闘からの逃走を解除します			0x08D65698	1
+menu_batalha#116	menu_batalha	116	(sistema)	(system)	sistema		行動中に装備の変更は出来ません			0x08D6569C	1
+menu_batalha#117	menu_batalha	117	(sistema)	(system)	sistema		術・技			0x08D656A0	1
+menu_batalha#118	menu_batalha	118	(sistema)	(system)	sistema		連携			0x08D656A4	1
+menu_batalha#119	menu_batalha	119	(sistema)	(system)	sistema		作戦			0x08D656A8	1
+menu_batalha#120	menu_batalha	120	(sistema)	(system)	sistema		装備			0x08D656AC	1
+menu_batalha#121	menu_batalha	121	(sistema)	(system)	sistema		道具			0x08D656B0	1
+menu_batalha#122	menu_batalha	122	(sistema)	(system)	sistema		逃走			0x08D656B4	1
+menu_batalha#123	menu_batalha	123	(sistema)	(system)	sistema		逃走解除 			0x08D656B8	1
+menu_batalha#124	menu_batalha	124	(sistema)	(system)	sistema		デフォルト			0x08D656BC	1

@@ -1,0 +1,93 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev19_010.scr:0	qev19_010.scr	0	ソフィ	Sophie	personagem		シェリア、シェリア！		
+qev19_010.scr:1	qev19_010.scr	1	シェリア	Cheria Barnes	personagem	CRLF x1	どうしたの、ソフィ？\nそんなに慌てて		
+qev19_010.scr:2	qev19_010.scr	2	ソフィ	Sophie	personagem	CRLF x1	前にね、アスベルが……\n花の種をくれたの		
+qev19_010.scr:3	qev19_010.scr	3	ソフィ	Sophie	personagem	CRLF x2	それでね……この植木鉢で\nずっと育ててたらね。\n今日……		
+qev19_010.scr:4	qev19_010.scr	4	シェリア	Cheria Barnes	personagem		あっ、つぼみが付いたのね		
+qev19_010.scr:5	qev19_010.scr	5	シェリア	Cheria Barnes	personagem	CRLF x2	この様子だと、\nもうすぐ咲くんじゃないかしら。\n良かったわね、ソフィ		
+qev19_010.scr:6	qev19_010.scr	6	ソフィ	Sophie	personagem		うん		
+qev19_010.scr:7	qev19_010.scr	7	アスベル	Asbel Lhant	personagem		二人とも、随分楽しそうだな		
+qev19_010.scr:8	qev19_010.scr	8	アスベル	Asbel Lhant	personagem		あれ？　それって……		
+qev19_010.scr:9	qev19_010.scr	9	ソフィ	Sophie	personagem	CRLF x2	見て、アスベル。\nつぼみ。\nとってもかわいい		
+qev19_010.scr:10	qev19_010.scr	10	アスベル	Asbel Lhant	personagem	CRLF x1	ああ。\nそうだな		
+qev19_010.scr:11	qev19_010.scr	11	アスベル	Asbel Lhant	personagem	CRLF x2	もしかしたら、この花はもう\n手に入らなくなるかもしれない……。\n大切に育てなくちゃな		
+qev19_010.scr:12	qev19_010.scr	12	シェリア	Cheria Barnes	personagem	CRLF x1	手に入らなくなる……？\nどういう事なの？		
+qev19_010.scr:13	qev19_010.scr	13	アスベル	Asbel Lhant	personagem	CRLF x2	実は、その花の群生地である\nルバーブ連山で\n魔物が暴れているらしいんだ		
+qev19_010.scr:14	qev19_010.scr	14	ソフィ	Sophie	personagem		魔物が？　どうして？		
+qev19_010.scr:15	qev19_010.scr	15	アスベル	Asbel Lhant	personagem	CRLF x1	俺も詳しく知っているわけじゃないけど、\n最近の魔物の異常増殖が原因らしい		
+qev19_010.scr:16	qev19_010.scr	16	シェリア	Cheria Barnes	personagem	CRLF x2	その話……、聞いた事があるわ。\n互いに食べるものを奪い合って\nどんどん魔物が凶暴化してるって		
+qev19_010.scr:17	qev19_010.scr	17	アスベル	Asbel Lhant	personagem	CRLF x2	ああ。\n今は被害が動物だけでなく、\n植物にも出始めている		
+qev19_010.scr:18	qev19_010.scr	18	アスベル	Asbel Lhant	personagem	CRLF x2	花を保護しようにも\n適応環境が特殊な種だから\nこのままだと、絶滅の可能性もあるって		
+qev19_010.scr:19	qev19_010.scr	19	シェリア	Cheria Barnes	personagem		そんな……ひどい		
+qev19_010.scr:20	qev19_010.scr	20	ソフィ	Sophie	personagem	CRLF x1	そんなの、やだ。\nアスベル、わたし、この子達を助けたい		
+qev19_010.scr:21	qev19_010.scr	21	アスベル	Asbel Lhant	personagem	CRLF x1	そう言うと思ったよ。\nシェリアも手伝ってくれるだろう？		
+qev19_010.scr:22	qev19_010.scr	22	シェリア	Cheria Barnes	personagem	CRLF x1	ええ、もちろん。\n……でも、私達だけで大丈夫かしら？		
+qev19_010.scr:23	qev19_010.scr	23	アスベル	Asbel Lhant	personagem	CRLF x2	そうだな。\n魔物がどれだけ増えているか\n見当もつかない……		
+qev19_010.scr:24	qev19_010.scr	24	アスベル	Asbel Lhant	personagem		誰かの手を借りたいところだな……		
+qev19_010.scr:25	qev19_010.scr	25	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「思い出の花を守れ！」が\nエントリーされました。\nアスベルから受ける事が出来ます		
+qev19_020.scr:0	qev19_020.scr	0	ソフィ	Sophie	personagem	CRLF x1	○○……。\n手伝ってくれるの？		
+qev19_020.scr:1	qev19_020.scr	1	ソフィ	Sophie	personagem		ありがとう		
+qev19_020.scr:2	qev19_020.scr	2	シェリア	Cheria Barnes	personagem	CRLF x2	今回は敵の数が多いわ。\n回復アイテムは少し多めに\n持っていった方がいいかもしれないわね		
+qev19_020.scr:3	qev19_020.scr	3	アスベル	Asbel Lhant	personagem	CRLF x1	ああ。\n準備が出来たらすぐに出発しよう		
+qev19_030.scr:0	qev19_030.scr	0	ソフィ	Sophie	personagem		お花……絶対守らなきゃ		
+qev19_030.scr:1	qev19_030.scr	1	シェリア	Cheria Barnes	personagem	CRLF x1	ソフィ、気持ちはわかるけど\n張り切り過ぎて怪我をしない様にね		
+qev19_030.scr:2	qev19_030.scr	2	ソフィ	Sophie	personagem	CRLF x1	うん、大丈夫。\n行こう、アスベル		
+qev19_030.scr:3	qev19_030.scr	3	アスベル	Asbel Lhant	personagem		ああ		
+qev19_040.scr:0	qev19_040.scr	0	ソフィ	Sophie	personagem		魔物、いっぱい倒したね		
+qev19_040.scr:1	qev19_040.scr	1	アスベル	Asbel Lhant	personagem	CRLF x1	そうだな。\nあと一息だ		
+qev19_040.scr:2	qev19_040.scr	2	ソフィ	Sophie	personagem		うん		
+qev19_040.scr:3	qev19_040.scr	3	シェリア	Cheria Barnes	personagem		ソフィは本当に、あの花が好きなのね		
+qev19_040.scr:4	qev19_040.scr	4	ソフィ	Sophie	personagem		うん……好き		
+qev19_040.scr:5	qev19_040.scr	5	ソフィ	Sophie	personagem	CRLF x1	あの花を見てると、懐かしくて\nあったかい気持ちになるの		
+qev19_040.scr:6	qev19_040.scr	6	アスベル	Asbel Lhant	personagem	CRLF x1	ソフィと初めて会ったのも\n花畑の中だったしな		
+qev19_040.scr:7	qev19_040.scr	7	アスベル	Asbel Lhant	personagem	CRLF x2	最初にソフィと会った時は、\nまさか女の子がそんな所に\nいるなんて思わなかったから、驚いたよ		
+qev19_040.scr:8	qev19_040.scr	8	ソフィ	Sophie	personagem		…………		
+qev19_040.scr:9	qev19_040.scr	9	ソフィ	Sophie	personagem	CRLF x2	わたし……どうしてあそこで\n眠ってたんだろう。\n思い出せないの……		
+qev19_040.scr:10	qev19_040.scr	10	ソフィ	Sophie	personagem		わたしは、誰なのかな……		
+qev19_040.scr:11	qev19_040.scr	11	アスベル	Asbel Lhant	personagem	CRLF x2	安心しろ、ソフィ。\n俺はお前が誰であったとしても\n絶対に守ってやる		
+qev19_040.scr:12	qev19_040.scr	12	シェリア	Cheria Barnes	personagem	CRLF x1	そうよ、ソフィ。\nだから、そんなに不安にならないで		
+qev19_040.scr:13	qev19_040.scr	13	ソフィ	Sophie	personagem		うん……		
+qev19_040.scr:14	qev19_040.scr	14	ソフィ	Sophie	personagem	CRLF x1	シェリア。\n手を繋いでもいい？		
+qev19_040.scr:15	qev19_040.scr	15	シェリア	Cheria Barnes	personagem		ええ、いいわよ		
+qev19_040.scr:16	qev19_040.scr	16	ソフィ	Sophie	personagem		……アスベルも		
+qev19_040.scr:17	qev19_040.scr	17	アスベル	Asbel Lhant	personagem		お、俺も？		
+qev19_040.scr:18	qev19_040.scr	18	ソフィ	Sophie	personagem	CRLF x1	……楽しいね。\nアスベル、シェリア		
+qev19_040.scr:19	qev19_040.scr	19	アスベル	Asbel Lhant	personagem		　　　		
+qev19_040.scr:20	qev19_040.scr	20	シェリア	Cheria Barnes	personagem		　　　		
+qev19_040.scr:21	qev19_040.scr	21	(ator 200)	(ator 200)	desconhecido		…………		
+qev19_040.scr:22	qev19_040.scr	22	シェリア	Cheria Barnes	personagem	CRLF x2	ご、ごめんなさいっ。\n○○の事、\n忘れてたわけじゃないのよ……		
+qev19_040.scr:23	qev19_040.scr	23	(ator 200)	(ator 200)	desconhecido		…………		
+qev19_040.scr:24	qev19_040.scr	24	アスベル	Asbel Lhant	personagem	CRLF x2	忘れるわけないさ。\nそんなの、当たり前だろう。\nなあ、ソフィ		
+qev19_040.scr:25	qev19_040.scr	25	ソフィ	Sophie	personagem		うん		
+qev19_040.scr:26	qev19_040.scr	26	シェリア	Cheria Barnes	personagem		…………		
+qev19_041.scr:0	qev19_041.scr	0	シェリア	Cheria Barnes	personagem		あの、アスベル？		
+qev19_041.scr:1	qev19_041.scr	1	アスベル	Asbel Lhant	personagem		ああ、どうした？		
+qev19_041.scr:2	qev19_041.scr	2	シェリア	Cheria Barnes	personagem	CRLF x1	今回は、私も連れてきてくれて……、\nありがとう		
+qev19_041.scr:3	qev19_041.scr	3	アスベル	Asbel Lhant	personagem		え？　何だよ、いきなり		
+qev19_041.scr:4	qev19_041.scr	4	シェリア	Cheria Barnes	personagem	CRLF x1	そ、そんなに\nびっくりしなくてもいいじゃない		
+qev19_041.scr:5	qev19_041.scr	5	シェリア	Cheria Barnes	personagem	CRLF x2	ちょっと昔の事、思い出してたの。\n私、小さい頃は体が弱くて……、\nよくアスベルに置いて行かれてたなって		
+qev19_041.scr:6	qev19_041.scr	6	アスベル	Asbel Lhant	personagem	CRLF x1	あれは……、無理をすると\nシェリアの体にも良くないから		
+qev19_041.scr:7	qev19_041.scr	7	シェリア	Cheria Barnes	personagem	CRLF x1	うん……わかってる。\nでもね、ちょっと寂しかったの		
+qev19_041.scr:8	qev19_041.scr	8	シェリア	Cheria Barnes	personagem	CRLF x1	うらやましかった……健康な人達が。\nソフィの事も……		
+qev19_041.scr:9	qev19_041.scr	9	アスベル	Asbel Lhant	personagem		シェリア……		
+qev19_041.scr:10	qev19_041.scr	10	シェリア	Cheria Barnes	personagem	CRLF x2	だからね、こうして三人で\n一緒に魔物退治をしてるのが\n何だか嘘みたいだなぁって思ったの		
+qev19_041.scr:11	qev19_041.scr	11	アスベル	Asbel Lhant	personagem	CRLF x2	そんなの、これからいくらでも出来るさ。\n昔出来なかった分も、これから\n三人で取り戻していけばいい		
+qev19_041.scr:12	qev19_041.scr	12	アスベル	Asbel Lhant	personagem		そうだろう？		
+qev19_041.scr:13	qev19_041.scr	13	シェリア	Cheria Barnes	personagem		うん、……そうね		
+qev19_041.scr:14	qev19_041.scr	14	シェリア	Cheria Barnes	personagem		ありがとう、アスベル		
+qev19_050.scr:0	qev19_050.scr	0	アスベル	Asbel Lhant	personagem		よし、今ので全部だな		
+qev19_050.scr:1	qev19_050.scr	1	シェリア	Cheria Barnes	personagem	CRLF x2	これで、乱れていた\nここの生態系のバランスも\n徐々に元通りになるわよね		
+qev19_050.scr:2	qev19_050.scr	2	ソフィ	Sophie	personagem		うん……		
+qev19_050.scr:3	qev19_050.scr	3	アスベル	Asbel Lhant	personagem		心配か、ソフィ？		
+qev19_050.scr:4	qev19_050.scr	4	ソフィ	Sophie	personagem		…………		
+qev19_050.scr:5	qev19_050.scr	5	シェリア	Cheria Barnes	personagem	CRLF x2	たまに、また様子を見に来ましょう。\n私達、みんなで。\n…ね？		
+qev19_050.scr:6	qev19_050.scr	6	ソフィ	Sophie	personagem		……うん！		
+qev19_060.scr:0	qev19_060.scr	0	ソフィ	Sophie	personagem		○○、見て！		
+qev19_060.scr:1	qev19_060.scr	1	(ator 200)	(ator 200)	desconhecido		……？		
+qev19_060.scr:2	qev19_060.scr	2	(ator 200)	(ator 200)	desconhecido		……！		
+qev19_060.scr:3	qev19_060.scr	3	シェリア	Cheria Barnes	personagem	CRLF x1	あら、つぼみが開いたのね。\n綺麗ね……		
+qev19_060.scr:4	qev19_060.scr	4	ソフィ	Sophie	personagem	CRLF x1	うん。\n帰ってきたら、咲いてた		
+qev19_060.scr:5	qev19_060.scr	5	アスベル	Asbel Lhant	personagem	CRLF x2	花もだけど、俺はソフィの\n嬉しそうな顔が見られて\n良かったよ		
+qev19_060.scr:6	qev19_060.scr	6	シェリア	Cheria Barnes	personagem	CRLF x1	ふふ。\nそうね		
+qev19_060.scr:7	qev19_060.scr	7	ソフィ	Sophie	personagem	CRLF x1	○○、手伝ってくれて\nありがとう		
+qev19_060.scr:8	qev19_060.scr	8	ソフィ	Sophie	personagem	CRLF x1	……お花、見たくなったら\nまたいつでも来てね		

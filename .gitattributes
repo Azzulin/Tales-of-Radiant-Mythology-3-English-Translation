@@ -1,0 +1,3 @@
+# Nenhuma conversao de fim de linha: CSV/TSV/PSV sao dados medidos em bytes
+# e as ferramentas fazem round-trip byte a byte. Guardar exatamente como esta.
+* -text

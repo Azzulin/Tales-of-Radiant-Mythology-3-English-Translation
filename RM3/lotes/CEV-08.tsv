@@ -1,0 +1,128 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev08_010.scr:0	cev08_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	ねえ、フィリアって\nスタン君の事が好きなの？		
+cev08_010.scr:1	cev08_010.scr	1	フィリア	Philia Felice	personagem	CRLF x1	ア、アンジュさん！？\nいきなり何を……		
+cev08_010.scr:2	cev08_010.scr	2	フィリア	Philia Felice	personagem		私とスタンさんは、そんなんじゃ……		
+cev08_010.scr:3	cev08_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	あら、そうなの？\n確かに、わたし達は聖職者だし\n恋愛はご法度だけど		
+cev08_010.scr:4	cev08_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	……人を好きになる気持ちって\n誰にも止められないものね		
+cev08_010.scr:5	cev08_010.scr	5	フィリア	Philia Felice	personagem	CRLF x1	アンジュさんにも\n好きな人が……？		
+cev08_010.scr:6	cev08_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	ウフフ。\nさあ、どうかな？\nわたしは一般的な事実を言っただけ		
+cev08_010.scr:7	cev08_010.scr	7	アンジュ	Ange Serena	personagem	CRLF x2	とにかく、後悔だけはしない様にね。\n今っていう時間は、もう二度と\n戻って来ないんだから		
+cev08_010.scr:8	cev08_010.scr	8	フィリア	Philia Felice	personagem	CRLF x1	添い遂げる事だけが\n愛情ではないと思います……		
+cev08_010.scr:9	cev08_010.scr	9	フィリア	Philia Felice	personagem		それが……私の答え……		
+cev08_020.scr:0	cev08_020.scr	0	エステル	Estelle	personagem	CRLF x2	それから、そこの紫のつる草と\n白い花は毒草です。\n気を付けて下さい		
+cev08_020.scr:1	cev08_020.scr	1	リッド	Reid Hershel	personagem		よく知ってるなぁ		
+cev08_020.scr:2	cev08_020.scr	2	リッド	Reid Hershel	personagem	CRLF x1	お姫様ってのは、そういうのも\n普通に勉強してるもんなのか？		
+cev08_020.scr:3	cev08_020.scr	3	エステル	Estelle	personagem		いえ……そういうわけじゃ……		
+cev08_020.scr:4	cev08_020.scr	4	エステル	Estelle	personagem	CRLF x1	ただ、わたしは本を読むのが\n好きなだけで……		
+cev08_020.scr:5	cev08_020.scr	5	フィリア	Philia Felice	personagem		では、少し持って帰りましょう		
+cev08_020.scr:6	cev08_020.scr	6	リッド	Reid Hershel	personagem	CRLF x1	ちょっと待てよ。\n毒草だぞ？		
+cev08_020.scr:7	cev08_020.scr	7	フィリア	Philia Felice	personagem	CRLF x1	ですが、毒性自体は\nそう高いものではありません		
+cev08_020.scr:8	cev08_020.scr	8	フィリア	Philia Felice	personagem	CRLF x1	それより、注視すべきは\nその紫のつる草の汁……		
+cev08_020.scr:9	cev08_020.scr	9	フィリア	Philia Felice	personagem	CRLF x1	高い揮発性を有し、おまけに葉の部分は\n化学反応を促進させる触媒になります		
+cev08_020.scr:10	cev08_020.scr	10	フィリア	Philia Felice	personagem	CRLF x1	これがあれば、あの研究も……。\nウフフ……		
+cev08_020.scr:11	cev08_020.scr	11	エステル	Estelle	personagem		フィリアも植物に詳しいんですね		
+cev08_020.scr:12	cev08_020.scr	12	フィリア	Philia Felice	personagem		そんな事…		
+cev08_020.scr:13	cev08_020.scr	13	フィリア	Philia Felice	personagem	CRLF x1	それに、私の場合は職業柄\n致し方なく……ですわ		
+cev08_020.scr:14	cev08_020.scr	14	エステル	Estelle	personagem	CRLF x1	そうなんですか……。\n大変なお仕事なんですね		
+cev08_020.scr:15	cev08_020.scr	15	リッド	Reid Hershel	personagem		いや、職業とは関係ないだろ……絶対		
+cev08_030.scr:0	cev08_030.scr	0	ファラ	Farah Oersted	personagem	CRLF x2	気のせいかもしれないけど……\n最近、ご飯のメニューが\nまた豪華になってない？		
+cev08_030.scr:1	cev08_030.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	そうだね。\n順調にレシピが集まってて\nもう３０種類を超えたって聞いてるよ		
+cev08_030.scr:2	cev08_030.scr	2	ファラ	Farah Oersted	personagem		３０種類？		
+cev08_030.scr:3	cev08_030.scr	3	ファラ	Farah Oersted	personagem	CRLF x1	すっごーい！\nレストランが出来ちゃいそう！！		
+cev08_030.scr:4	cev08_030.scr	4	フィリア	Philia Felice	personagem	CRLF x1	この勢いだと、世界中のレシピを\n全部集められてしまいそうですね		
+cev08_030.scr:5	cev08_030.scr	5	ファラ	Farah Oersted	personagem	CRLF x1	というより、ここまできたら\nそれを目標に頑張ってみない？		
+cev08_030.scr:6	cev08_030.scr	6	ファラ	Farah Oersted	personagem	CRLF x1	今のわたし達だったら\n出来そうな気がするんだ		
+cev08_030.scr:7	cev08_030.scr	7	ファラ	Farah Oersted	personagem		うん、イケるイケる！		
+cev08_030.scr:8	cev08_030.scr	8	フィリア	Philia Felice	personagem	CRLF x1	そうですね……\nそれもいいかもしれません		
+cev08_030.scr:9	cev08_030.scr	9	フィリア	Philia Felice	personagem	CRLF x1	美味しいご飯は、皆さんの事を\n元気にしてくれますから		
+cev08_030.scr:10	cev08_030.scr	10	カノンノ	Kanonno Grassvalley	personagem		ふふ、二人ともすっかりその気だね		
+cev08_030.scr:11	cev08_030.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	コンプリートまであと一息。\nもう少し、頑張って集めてみようか？		
+cev08_040.scr:0	cev08_040.scr	0	ロニ	Loni Dunamis	personagem		はぁ……		
+cev08_040.scr:1	cev08_040.scr	1	フィリア	Philia Felice	personagem		あの……どうかされましたか？		
+cev08_040.scr:2	cev08_040.scr	2	フィリア	Philia Felice	personagem	CRLF x1	今日は元気がない様ですが……。\n何か、悩み事でも？		
+cev08_040.scr:3	cev08_040.scr	3	ロニ	Loni Dunamis	personagem		……ああ、フィリアさん……		
+cev08_040.scr:4	cev08_040.scr	4	ロニ	Loni Dunamis	personagem	CRLF x1	何て言うか、その……\n人間って難しいなと思って		
+cev08_040.scr:5	cev08_040.scr	5	フィリア	Philia Felice	personagem		難しい、というのは……？		
+cev08_040.scr:6	cev08_040.scr	6	ロニ	Loni Dunamis	personagem	CRLF x2	いや、実はこのギルドのメンバーで\n知り合いにすごく\nそっくりな奴がいるんです		
+cev08_040.scr:7	cev08_040.scr	7	ロニ	Loni Dunamis	personagem	CRLF x2	見た目も、中身も……\n本人なんじゃないかって\n疑っちまいたくなる程……		
+cev08_040.scr:8	cev08_040.scr	8	フィリア	Philia Felice	personagem	CRLF x1	見た目も中身も、ですか？\n……そんな方が……		
+cev08_040.scr:9	cev08_040.scr	9	ロニ	Loni Dunamis	personagem	CRLF x2	だから、そいつといると\n別人だってわかってるのに、\n知り合いの事を重ねちまう		
+cev08_040.scr:10	cev08_040.scr	10	ロニ	Loni Dunamis	personagem	CRLF x2	で、無意識に絡んじまって傷付けたり\nそれに気付いて、自分でも\n勝手に落ち込んだり苛ついたり……		
+cev08_040.scr:11	cev08_040.scr	11	フィリア	Philia Felice	personagem		そうだったんですか……		
+cev08_040.scr:12	cev08_040.scr	12	ロニ	Loni Dunamis	personagem	CRLF x2	相手の事、振り回しっ放しですよね……。\nどうして、もっと割り切れたり\n大人になれねえのかって……俺……		
+cev08_040.scr:13	cev08_040.scr	13	フィリア	Philia Felice	personagem	CRLF x1	ロニさん。\n迷いもあなたの大切な本心です		
+cev08_040.scr:14	cev08_040.scr	14	フィリア	Philia Felice	personagem	CRLF x1	無理に無くそうとしては\nあなた自身も傷付いてしまいますよ		
+cev08_040.scr:15	cev08_040.scr	15	フィリア	Philia Felice	personagem	CRLF x2	ですから、ゆっくり……、\n時間を掛けて、向き合っていけば\nいいのではないでしょうか？		
+cev08_040.scr:16	cev08_040.scr	16	フィリア	Philia Felice	personagem	CRLF x1	その方とも、そして\nロニさん自身とも		
+cev08_040.scr:17	cev08_040.scr	17	ロニ	Loni Dunamis	personagem		…………		
+cev08_040.scr:18	cev08_040.scr	18	フィリア	Philia Felice	personagem	CRLF x1	大丈夫です。\n神は全てお許し下さいます		
+cev08_040.scr:19	cev08_040.scr	19	ロニ	Loni Dunamis	personagem	CRLF x1	フィリアさんは、こっちの世界でも\nやっぱりフィリアさんなんだな……		
+cev08_040.scr:20	cev08_040.scr	20	フィリア	Philia Felice	personagem		はい？		
+cev08_040.scr:21	cev08_040.scr	21	ロニ	Loni Dunamis	personagem	CRLF x2	ああ、いや、何でもないんです！\nただの独り言なんで。\nははは……		
+cev08_040.scr:22	cev08_040.scr	22	ロニ	Loni Dunamis	personagem		（……迷いも俺の大切な本心……か……）		
+cev08_050.scr:0	cev08_050.scr	0	クレス	Cress Albane	personagem	CRLF x1	あのさ……フィリアって\nあまり視力が良くないのかな？		
+cev08_050.scr:1	cev08_050.scr	1	フィリア	Philia Felice	personagem	CRLF x1	はい？\n私の視力……ですか？		
+cev08_050.scr:2	cev08_050.scr	2	フィリア	Philia Felice	personagem	CRLF x2	確かに、あまり良くは\nありませんが……。\nそれが、何か……？		
+cev08_050.scr:3	cev08_050.scr	3	クレス	Cress Albane	personagem	CRLF x1	ああ、いや……別に\n大した事じゃないんだ		
+cev08_050.scr:4	cev08_050.scr	4	クレス	Cress Albane	personagem	CRLF x1	ただ、ちょっと\n聞いてみたくなっただけだよ		
+cev08_050.scr:5	cev08_050.scr	5	クレス	Cress Albane	personagem	CRLF x1	ほら、僕はメガネをかけた事がないから。\nはは、ははは……		
+cev08_050.scr:6	cev08_050.scr	6	フィリア	Philia Felice	personagem	CRLF x1	……くすっ……。\nおかしなクレスさん		
+cev08_050.scr:7	cev08_050.scr	7	クレス	Cress Albane	personagem	CRLF x2	（言えないよ……。\n　昨日の夜、植木とスタンを間違えて\n　話しかけてたなんて……）		
+cev08_060.scr:0	cev08_060.scr	0	ノーマ	Norma Beatty	personagem	CRLF x1	フィー姉さん！\nちょっちメガネ貸してもらってもいい？		
+cev08_060.scr:1	cev08_060.scr	1	フィリア	Philia Felice	personagem		え……そんな、困ります		
+cev08_060.scr:2	cev08_060.scr	2	ノーマ	Norma Beatty	personagem	CRLF x1	いいからいいから〜！\n少し借りるだけだって∀		
+cev08_060.scr:3	cev08_060.scr	3	フィリア	Philia Felice	personagem	CRLF x1	そ、そんな事をして\nどうしようというんですか？		
+cev08_060.scr:4	cev08_060.scr	4	ノーマ	Norma Beatty	personagem	CRLF x2	ん〜、レンズ越しに見える世界が\nどんなのか、興味あるんだよね〜。\nそんだけ？		
+cev08_060.scr:5	cev08_060.scr	5	フィリア	Philia Felice	personagem		そんな理由で……		
+cev08_060.scr:6	cev08_060.scr	6	ノーマ	Norma Beatty	personagem		隙ありっ！！		
+cev08_060.scr:7	cev08_060.scr	7	フィリア	Philia Felice	personagem		あっ！？		
+cev08_060.scr:8	cev08_060.scr	8	ノーマ	Norma Beatty	personagem	CRLF x1	やたー！\nフィー姉さんのメガネをゲット……！？		
+cev08_060.scr:9	cev08_060.scr	9	ノーマ	Norma Beatty	personagem		あ……りゃ……？		
+cev08_060.scr:10	cev08_060.scr	10	フィリア	Philia Felice	personagem		だから、ダメだと言ったんです……		
+cev08_060.scr:11	cev08_060.scr	11	フィリア	Philia Felice	personagem	CRLF x1	視力の良い方に、このメガネは\n刺激が強過ぎます……		
+cev08_070.scr:0	cev08_070.scr	0	フィリア	Philia Felice	personagem	CRLF x2	あ、ジューダスさん。\nこんにちは。\nいいお天気ですね		
+cev08_070.scr:1	cev08_070.scr	1	ジューダス	Judas	personagem	CRLF x1	……何だ。\nその手に持っているものは		
+cev08_070.scr:2	cev08_070.scr	2	フィリア	Philia Felice	personagem	CRLF x1	あ……実は、皆さんへの差し入れに\nお料理を作って来たんです		
+cev08_070.scr:3	cev08_070.scr	3	フィリア	Philia Felice	personagem		良かったらジューダスさんも……		
+cev08_070.scr:4	cev08_070.scr	4	ジューダス	Judas	personagem		遠慮しておく		
+cev08_070.scr:5	cev08_070.scr	5	ジューダス	Judas	personagem	CRLF x1	どうせまた、味見もしていない、\n試作品か何かなのだろう		
+cev08_070.scr:6	cev08_070.scr	6	ジューダス	Judas	personagem		僕は実験台にされる趣味はない		
+cev08_070.scr:7	cev08_070.scr	7	フィリア	Philia Felice	personagem	CRLF x1	え……どうして、\n試作品だとわかったんです？		
+cev08_070.scr:8	cev08_070.scr	8	ジューダス	Judas	personagem	CRLF x1	そ、それは……別に……\n何となくだ		
+cev08_070.scr:9	cev08_070.scr	9	フィリア	Philia Felice	personagem		どうして、わかったんでしょう……		
+cev08_200.scr:0	cev08_200.scr	0	フィリア	Philia Felice	personagem	CRLF x1	通常。\n		
+cev08_200.scr:1	cev08_200.scr	1	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:2	cev08_200.scr	2	フィリア	Philia Felice	personagem	CRLF x1	笑い。\n		
+cev08_200.scr:3	cev08_200.scr	3	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:4	cev08_200.scr	4	フィリア	Philia Felice	personagem	CRLF x1	怒り。\n		
+cev08_200.scr:5	cev08_200.scr	5	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:6	cev08_200.scr	6	フィリア	Philia Felice	personagem	CRLF x1	悲しみ。\n		
+cev08_200.scr:7	cev08_200.scr	7	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:8	cev08_200.scr	8	フィリア	Philia Felice	personagem	CRLF x1	照れ。\n		
+cev08_200.scr:9	cev08_200.scr	9	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:10	cev08_200.scr	10	フィリア	Philia Felice	personagem	CRLF x1	ボム笑い。\n		
+cev08_200.scr:11	cev08_200.scr	11	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:12	cev08_200.scr	12	フィリア	Philia Felice	personagem	CRLF x1	通常。\n		
+cev08_200.scr:13	cev08_200.scr	13	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:14	cev08_200.scr	14	フィリア	Philia Felice	personagem	CRLF x1	笑い。\n		
+cev08_200.scr:15	cev08_200.scr	15	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:16	cev08_200.scr	16	フィリア	Philia Felice	personagem	CRLF x1	怒り。\n		
+cev08_200.scr:17	cev08_200.scr	17	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:18	cev08_200.scr	18	フィリア	Philia Felice	personagem	CRLF x1	悲しみ。\n		
+cev08_200.scr:19	cev08_200.scr	19	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:20	cev08_200.scr	20	フィリア	Philia Felice	personagem	CRLF x1	照れ。\n		
+cev08_200.scr:21	cev08_200.scr	21	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:22	cev08_200.scr	22	フィリア	Philia Felice	personagem	CRLF x1	ボム笑い。\n		
+cev08_200.scr:23	cev08_200.scr	23	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:24	cev08_200.scr	24	フィリア	Philia Felice	personagem	CRLF x1	通常。\n		
+cev08_200.scr:25	cev08_200.scr	25	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:26	cev08_200.scr	26	フィリア	Philia Felice	personagem	CRLF x1	笑い。\n		
+cev08_200.scr:27	cev08_200.scr	27	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:28	cev08_200.scr	28	フィリア	Philia Felice	personagem	CRLF x1	怒り。\n		
+cev08_200.scr:29	cev08_200.scr	29	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:30	cev08_200.scr	30	フィリア	Philia Felice	personagem	CRLF x1	悲しみ。\n		
+cev08_200.scr:31	cev08_200.scr	31	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:32	cev08_200.scr	32	フィリア	Philia Felice	personagem	CRLF x1	照れ。\n		
+cev08_200.scr:33	cev08_200.scr	33	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev08_200.scr:34	cev08_200.scr	34	フィリア	Philia Felice	personagem	CRLF x1	ボム笑い。\n		
+cev08_200.scr:35	cev08_200.scr	35	フィリア	Philia Felice	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

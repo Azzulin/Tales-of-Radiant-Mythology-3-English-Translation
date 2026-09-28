@@ -1,0 +1,3474 @@
+{
+ "categorias": {
+  "sword_1h": {
+   "arena_bytes": 6459,
+   "pool_atual_bytes": 6990,
+   "folga_atual": -531,
+   "meta_bytes_a_cortar": 1047,
+   "itens": [
+    {
+     "id": "sword_1h#123",
+     "jp": "冥界の最奥にいる神マタタシの名を冠する剣",
+     "en": "A sword bearing the name of Matatasi, god at the deepest part of the underworld.",
+     "bytes": 80
+    },
+    {
+     "id": "sword_1h#145",
+     "jp": "ディセンダーと認められた双剣士専用の刀の一つ",
+     "en": "One of the twin katanas exclusive to twin swordsmen recognized as Descenders.",
+     "bytes": 77
+    },
+    {
+     "id": "sword_1h#121",
+     "jp": "伝説の聖獣の角から作られたとされる剣",
+     "en": "A sword said to have been crafted from the horn of a legendary holy beast.",
+     "bytes": 74
+    },
+    {
+     "id": "sword_1h#13",
+     "jp": "片手でも両手でも持つ事が出来る通称片手半剣",
+     "en": "A so-called hand-and-a-half sword that can be held with one or two hands.",
+     "bytes": 73
+    },
+    {
+     "id": "sword_1h#34",
+     "jp": "冥界の入口にいる神マタルアの名を冠する剣",
+     "en": "A sword bearing the name of Matarua, god at the underworld's entrance.",
+     "bytes": 70
+    },
+    {
+     "id": "sword_1h#115",
+     "jp": "少数民族の間で伝わる神獣が宿る刀",
+     "en": "A blade passed down among minority tribes inhabited by a sacred beast.",
+     "bytes": 70
+    },
+    {
+     "id": "sword_1h#79",
+     "jp": "冥界の中心にいる神マングスの名を冠する剣",
+     "en": "A sword bearing the name of Mangus, god at the underworld's center.",
+     "bytes": 67
+    },
+    {
+     "id": "sword_1h#139",
+     "jp": "ディセンダーと認められた魔法剣士専用の長剣",
+     "en": "A longsword exclusive to magic swordsmen recognized as Descenders.",
+     "bytes": 66
+    },
+    {
+     "id": "sword_1h#186",
+     "jp": "ツッコミ専用。ボケ役は誰？",
+     "en": "Made strictly for straight-man slaps. Who's playing the funny guy?",
+     "bytes": 66
+    },
+    {
+     "id": "sword_1h#5",
+     "jp": "細身の長剣。使いこなすにはある程度の技量を要する",
+     "en": "A slender longsword. Demands a certain degree of skill to master.",
+     "bytes": 65
+    },
+    {
+     "id": "sword_1h#83",
+     "jp": "猪を一撃で倒すという突きに特化した剣",
+     "en": "A thrust-specialized sword said to bring down a boar in one blow.",
+     "bytes": 65
+    },
+    {
+     "id": "sword_1h#153",
+     "jp": "ディセンダーの為に作られた魔法剣士専用の長剣",
+     "en": "A longsword crafted for magic swordsmen recognized as Descenders.",
+     "bytes": 65
+    },
+    {
+     "id": "sword_1h#257",
+     "jp": "なりきりダンジョンＸ特典。本作でクレスが装備する武器",
+     "en": "Narikiri Dungeon X bonus. Weapon equipped in this title by Cress.",
+     "bytes": 65
+    },
+    {
+     "id": "sword_1h#125",
+     "jp": "斬られた者は永遠の眠りにつくとされる剣",
+     "en": "A sword said to put those slashed by it into an eternal slumber.",
+     "bytes": 64
+    },
+    {
+     "id": "sword_1h#163",
+     "jp": "イシュタル伝説に名を残す勇者ギルガメシュの剣",
+     "en": "Sword of the hero Gilgamesh, renowned in the Legend of Ishtar.",
+     "bytes": 62
+    },
+    {
+     "id": "sword_1h#129",
+     "jp": "伝説の魔獣の名を冠する名刀",
+     "en": "A famous blade bearing the name of a legendary magical beast.",
+     "bytes": 61
+    },
+    {
+     "id": "sword_1h#159",
+     "jp": "ディセンダーの為に作られた双剣士専用の刀",
+     "en": "A katana crafted for twin swordsmen recognized as Descenders.",
+     "bytes": 61
+    },
+    {
+     "id": "sword_1h#178",
+     "jp": "調理器具。これで叩かれると痛い",
+     "en": "A cooking utensil. It hurts quite a bit to get hit with this.",
+     "bytes": 61
+    },
+    {
+     "id": "sword_1h#97",
+     "jp": "イニシエの王国で英雄に贈られた名剣",
+     "en": "A renowned sword bestowed upon heroes in an ancient kingdom.",
+     "bytes": 60
+    },
+    {
+     "id": "sword_1h#117",
+     "jp": "雷を伴う嵐の様に敵を切り裂く剣",
+     "en": "A sword that slashes through enemies like a lightning storm.",
+     "bytes": 60
+    },
+    {
+     "id": "sword_1h#127",
+     "jp": "頑丈な鎧をも貫くとされる突きに特化した剣",
+     "en": "A thrust-specialized sword said to pierce even sturdy armor.",
+     "bytes": 60
+    },
+    {
+     "id": "sword_1h#136",
+     "jp": "ディセンダーと認められた剣士専用の長剣",
+     "en": "A longsword exclusive to swordsmen recognized as Descenders.",
+     "bytes": 60
+    },
+    {
+     "id": "sword_1h#254",
+     "jp": "模擬戦闘用の武器を実戦でも通用する様に改造したもの",
+     "en": "A mock combat weapon modified to be viable in actual battle.",
+     "bytes": 60
+    },
+    {
+     "id": "sword_1h#40",
+     "jp": "海の怪物サーペントの名を冠する名刀",
+     "en": "A famous blade bearing the name of the sea monster Serpent.",
+     "bytes": 59
+    },
+    {
+     "id": "sword_1h#150",
+     "jp": "ディセンダーの為に作られた剣士専用の長剣",
+     "en": "A longsword crafted for swordsmen recognized as Descenders.",
+     "bytes": 59
+    },
+    {
+     "id": "sword_1h#85",
+     "jp": "海の怪物スキュラの名を冠する名刀",
+     "en": "A famous blade bearing the name of the sea monster Scylla.",
+     "bytes": 58
+    },
+    {
+     "id": "sword_1h#142",
+     "jp": "ディセンダーと認められた忍者専用の刀",
+     "en": "A katana exclusive to ninjas recognized as Descenders.",
+     "bytes": 54
+    },
+    {
+     "id": "sword_1h#156",
+     "jp": "ディセンダーの為に作られた忍者専用の刀",
+     "en": "A katana crafted for ninjas recognized as Descenders.",
+     "bytes": 53
+    },
+    {
+     "id": "sword_1h#181",
+     "jp": "調理器具だが、武器として使用する事もある",
+     "en": "A cooking utensil, but sometimes wielded as a weapon.",
+     "bytes": 53
+    },
+    {
+     "id": "sword_1h#71",
+     "jp": "少数民族の間で恐れられる人喰いと呼ばれる刀",
+     "en": "A blade feared among minority tribes as a man-eater.",
+     "bytes": 52
+    },
+    {
+     "id": "sword_1h#73",
+     "jp": "暴風の様に敵を切り裂く剣",
+     "en": "A sword that slashes through enemies like a tempest.",
+     "bytes": 52
+    },
+    {
+     "id": "sword_1h#131",
+     "jp": "死を呼ぶとされる死神の名を冠する剣",
+     "en": "A sword bearing the name of a death-bringing reaper.",
+     "bytes": 52
+    },
+    {
+     "id": "sword_1h#28",
+     "jp": "風の様に敵を切り裂く剣",
+     "en": "A sword that slashes through enemies like the wind.",
+     "bytes": 51
+    },
+    {
+     "id": "sword_1h#170",
+     "jp": "東方に伝えられる伝説の宝剣",
+     "en": "A legendary precious sword passed down in the East.",
+     "bytes": 51
+    },
+    {
+     "id": "sword_1h#209",
+     "jp": "装備してもザッパー、ブラスターは撃てません",
+     "en": "Even if equipped, it cannot fire Zapper or Blaster.",
+     "bytes": 51
+    },
+    {
+     "id": "sword_1h#247",
+     "jp": "ＴＯＳＲに登場したリヒターが本作で装備している武器",
+     "en": "Weapon equipped in this title by Richter from TOSR.",
+     "bytes": 51
+    },
+    {
+     "id": "sword_1h#16",
+     "jp": "刀身が多少湾曲した片刃の剣",
+     "en": "A single-edged sword with a slightly curved blade.",
+     "bytes": 50
+    },
+    {
+     "id": "sword_1h#216",
+     "jp": "ＴＯＤに登場したウッドロウが本作で装備している武器",
+     "en": "Weapon equipped in this title by Woodrow from TOD.",
+     "bytes": 50
+    },
+    {
+     "id": "sword_1h#46",
+     "jp": "神秘文様を刻んだ片手剣",
+     "en": "A one-handed sword carved with mystical patterns.",
+     "bytes": 49
+    },
+    {
+     "id": "sword_1h#176",
+     "jp": "ＴＯＳに登場したロイドが秘奥義中に使用する武器",
+     "en": "Weapon used during Mystic Arte by Lloyd from TOS.",
+     "bytes": 49
+    },
+    {
+     "id": "sword_1h#204",
+     "jp": "伝説の聖剣。その名はソウルキャリバー",
+     "en": "A legendary holy sword. Its name is Soul Calibur.",
+     "bytes": 49
+    },
+    {
+     "id": "sword_1h#249",
+     "jp": "ＴＯＤ２に登場したジューダスが本作で装備している武器",
+     "en": "Weapon equipped in this title by Judas from TOD2.",
+     "bytes": 49
+    },
+    {
+     "id": "sword_1h#42",
+     "jp": "魔物の硬い骨から作られた剣",
+     "en": "A sword crafted from the hard bone of a monster.",
+     "bytes": 48
+    },
+    {
+     "id": "sword_1h#172",
+     "jp": "ＴＯＳに登場したロイドが本作で装備している武器",
+     "en": "Weapon equipped in this title by Lloyd from TOS.",
+     "bytes": 48
+    },
+    {
+     "id": "sword_1h#200",
+     "jp": "伝説の魔剣。その名はソウルエッジ",
+     "en": "A legendary cursed sword. Its name is Soul Edge.",
+     "bytes": 48
+    },
+    {
+     "id": "sword_1h#220",
+     "jp": "ＴＯＤに登場したスタンが本作で装備している武器",
+     "en": "Weapon equipped in this title by Stahn from TOD.",
+     "bytes": 48
+    },
+    {
+     "id": "sword_1h#222",
+     "jp": "ＴＯＤ２に登場したカイルが本作で装備している武器",
+     "en": "Weapon equipped in this title by Kyle from TOD2.",
+     "bytes": 48
+    },
+    {
+     "id": "sword_1h#226",
+     "jp": "ＴＯＩに登場したスパーダが本作で装備している武器",
+     "en": "Weapon equipped in this title by Spada from TOI.",
+     "bytes": 48
+    },
+    {
+     "id": "sword_1h#229",
+     "jp": "ＴＯＰに登場したクレスが本作で装備している武器",
+     "en": "Weapon equipped in this title by Cress from TOP.",
+     "bytes": 48
+    },
+    {
+     "id": "sword_1h#234",
+     "jp": "ＴＯＳに登場したゼロスが本作で装備している武器",
+     "en": "Weapon equipped in this title by Zelos from TOS.",
+     "bytes": 48
+    },
+    {
+     "id": "sword_1h#236",
+     "jp": "ＴＯＴに登場したカイウスが本作で装備している武器",
+     "en": "Weapon equipped in this title by Caius from TOT.",
+     "bytes": 48
+    },
+    {
+     "id": "sword_1h#240",
+     "jp": "ＴＯＲに登場したサレが本作で装備している武器",
+     "en": "Weapon equipped in this title by Saleh from TOR.",
+     "bytes": 48
+    },
+    {
+     "id": "sword_1h#242",
+     "jp": "ＴＯＶに登場したフレンが本作で装備している武器",
+     "en": "Weapon equipped in this title by Flynn from TOV.",
+     "bytes": 48
+    },
+    {
+     "id": "sword_1h#244",
+     "jp": "ＴＯＨに登場したシングが本作で装備している武器",
+     "en": "Weapon equipped in this title by Shing from TOH.",
+     "bytes": 48
+    },
+    {
+     "id": "sword_1h#252",
+     "jp": "ＴＯＳＲに登場したエミルが本作で装備している武器",
+     "en": "Weapon equipped in this title by Emil from TOSR.",
+     "bytes": 48
+    },
+    {
+     "id": "sword_1h#165",
+     "jp": "この刃に付けられた傷は治らないと伝わる剣",
+     "en": "A sword said to inflict wounds that never heal.",
+     "bytes": 47
+    },
+    {
+     "id": "sword_1h#197",
+     "jp": "イニシエの名刀のなれの果て…",
+     "en": "The sad remnant of an ancient renowned blade...",
+     "bytes": 47
+    },
+    {
+     "id": "sword_1h#212",
+     "jp": "ＴＯＡに登場したアッシュが本作で装備している武器",
+     "en": "Weapon equipped in this title by Asch from TOA.",
+     "bytes": 47
+    },
+    {
+     "id": "sword_1h#214",
+     "jp": "ＴＯＡに登場したルークが本作で装備している武器",
+     "en": "Weapon equipped in this title by Luke from TOA.",
+     "bytes": 47
+    },
+    {
+     "id": "sword_1h#218",
+     "jp": "ＴＯＤに登場したリオンが本作で装備している武器",
+     "en": "Weapon equipped in this title by Leon from TOD.",
+     "bytes": 47
+    },
+    {
+     "id": "sword_1h#224",
+     "jp": "ＴＯＥに登場したリッドが本作で装備している武器",
+     "en": "Weapon equipped in this title by Reid from TOE.",
+     "bytes": 47
+    },
+    {
+     "id": "sword_1h#232",
+     "jp": "ＴＯＰに登場したすずが本作で装備している武器",
+     "en": "Weapon equipped in this title by Suzu from TOP.",
+     "bytes": 47
+    },
+    {
+     "id": "sword_1h#238",
+     "jp": "ＴＯＶに登場したユーリが本作で装備している武器",
+     "en": "Weapon equipped in this title by Yuri from TOV.",
+     "bytes": 47
+    },
+    {
+     "id": "sword_1h#26",
+     "jp": "少数民族の間で儀礼に使われる刀",
+     "en": "A blade used in rituals among minority tribes.",
+     "bytes": 46
+    },
+    {
+     "id": "sword_1h#38",
+     "jp": "狩りに愛用される突きに特化した剣",
+     "en": "A thrust-specialized sword favored in hunting.",
+     "bytes": 46
+    },
+    {
+     "id": "sword_1h#184",
+     "jp": "何かの骨。馬の骨ではない",
+     "en": "A bone of some kind. Not the bone of a nobody.",
+     "bytes": 46
+    },
+    {
+     "id": "sword_1h#207",
+     "jp": "ＴＯＡに登場したガイが本作で装備している武器",
+     "en": "Weapon equipped in this title by Guy from TOA.",
+     "bytes": 46
+    },
+    {
+     "id": "sword_1h#67",
+     "jp": "歴戦の戦士が好んで使うサーベル",
+     "en": "A saber favored by battle-hardened warriors.",
+     "bytes": 44
+    },
+    {
+     "id": "sword_1h#133",
+     "jp": "天からの裁きの名を持つ剣",
+     "en": "A sword bearing the name of divine judgment.",
+     "bytes": 44
+    },
+    {
+     "id": "sword_1h#81",
+     "jp": "天使が使ったとされる剣",
+     "en": "A sword said to have been used by an angel.",
+     "bytes": 43
+    },
+    {
+     "id": "sword_1h#91",
+     "jp": "聖なる祝福を受けた片手剣",
+     "en": "A one-handed sword receiving holy blessing.",
+     "bytes": 43
+    },
+    {
+     "id": "sword_1h#30",
+     "jp": "二つの刀身を持った鋏状の剣",
+     "en": "A scissor-like sword featuring two blades.",
+     "bytes": 42
+    },
+    {
+     "id": "sword_1h#101",
+     "jp": "緑色の光を発する不思議な剣",
+     "en": "A mysterious sword emitting a green light.",
+     "bytes": 42
+    },
+    {
+     "id": "sword_1h#113",
+     "jp": "メデューサ殺しといわれる古刀",
+     "en": "An ancient sword known as a Medusa killer.",
+     "bytes": 42
+    },
+    {
+     "id": "sword_1h#11",
+     "jp": "ピンク色の光を発する不思議な剣",
+     "en": "A mysterious sword emitting a pink light.",
+     "bytes": 41
+    },
+    {
+     "id": "sword_1h#24",
+     "jp": "鎌剣といわれる古刀",
+     "en": "An ancient sword known as a sickle sword.",
+     "bytes": 41
+    },
+    {
+     "id": "sword_1h#57",
+     "jp": "青色の光を発する不思議な剣",
+     "en": "A mysterious sword emitting a blue light.",
+     "bytes": 41
+    },
+    {
+     "id": "sword_1h#69",
+     "jp": "魔女殺しといわれる古刀",
+     "en": "An ancient sword known as a witch killer.",
+     "bytes": 41
+    },
+    {
+     "id": "sword_1h#7",
+     "jp": "戦闘用に処理が施された剣",
+     "en": "A sword treated specifically for combat.",
+     "bytes": 40
+    },
+    {
+     "id": "sword_1h#50",
+     "jp": "神秘文様を刻んだレイピア",
+     "en": "A rapier carved with mystical patterns.",
+     "bytes": 39
+    },
+    {
+     "id": "sword_1h#105",
+     "jp": "神秘文様を刻んだショーテル",
+     "en": "A shotel carved with mystical patterns.",
+     "bytes": 39
+    },
+    {
+     "id": "sword_1h#119",
+     "jp": "バイオレントシザーを改良した剣",
+     "en": "A sword modified from violent scissors.",
+     "bytes": 39
+    },
+    {
+     "id": "sword_1h#44",
+     "jp": "素早い攻撃に向いた構造を持つレイピア",
+     "en": "A rapier structured for swift attacks.",
+     "bytes": 38
+    },
+    {
+     "id": "sword_1h#52",
+     "jp": "戦時中に兵士に支給された剣",
+     "en": "A sword issued to soldiers in wartime.",
+     "bytes": 38
+    },
+    {
+     "id": "sword_1h#59",
+     "jp": "バスタードソードを改良した剣",
+     "en": "A sword modified from a bastard sword.",
+     "bytes": 38
+    },
+    {
+     "id": "sword_1h#75",
+     "jp": "シザーソードを改良した剣",
+     "en": "A sword modified from a scissor sword.",
+     "bytes": 38
+    },
+    {
+     "id": "sword_1h#77",
+     "jp": "魔物の角から作られた剣",
+     "en": "A sword crafted from a monster's horn.",
+     "bytes": 38
+    },
+    {
+     "id": "sword_1h#89",
+     "jp": "ニンブルレイピアを強化した剣",
+     "en": "A sword upgraded from a nimble rapier.",
+     "bytes": 38
+    },
+    {
+     "id": "sword_1h#167",
+     "jp": "伝説の英雄ジークフリートの剣",
+     "en": "Sword of the legendary hero Siegfried.",
+     "bytes": 38
+    },
+    {
+     "id": "sword_1h#1",
+     "jp": "剣身の長い片手剣",
+     "en": "A one-handed sword with a long blade.",
+     "bytes": 37
+    },
+    {
+     "id": "sword_1h#61",
+     "jp": "湾曲刀を改良した剣",
+     "en": "A sword modified from a curved blade.",
+     "bytes": 37
+    },
+    {
+     "id": "sword_1h#109",
+     "jp": "スモールシックルを改良した剣",
+     "en": "A sword modified from a small sickle.",
+     "bytes": 37
+    },
+    {
+     "id": "sword_1h#3",
+     "jp": "しなやかに湾曲した剣",
+     "en": "A sword with a supple curved blade.",
+     "bytes": 35
+    },
+    {
+     "id": "sword_1h#20",
+     "jp": "鎌状の刀身を持った剣",
+     "en": "A sword with a sickle-shaped blade.",
+     "bytes": 35
+    },
+    {
+     "id": "sword_1h#65",
+     "jp": "スモールファルクスを改良した剣",
+     "en": "A sword modified from a small falx.",
+     "bytes": 35
+    },
+    {
+     "id": "sword_1h#87",
+     "jp": "ドクロがあしらわれた不気味な剣",
+     "en": "An eerie sword adorned with skulls.",
+     "bytes": 35
+    },
+    {
+     "id": "sword_1h#189",
+     "jp": "お鍋のお供に…",
+     "en": "Perfect companion for a hot pot...",
+     "bytes": 34
+    },
+    {
+     "id": "sword_1h#32",
+     "jp": "針状の刀身を持った剣",
+     "en": "A sword with a needle-like blade.",
+     "bytes": 33
+    },
+    {
+     "id": "sword_1h#48",
+     "jp": "シミターを改良した剣",
+     "en": "A sword modified from a scimitar.",
+     "bytes": 33
+    },
+    {
+     "id": "sword_1h#95",
+     "jp": "聖なる祝福を受けたレイピア",
+     "en": "A rapier receiving holy blessing.",
+     "bytes": 33
+    },
+    {
+     "id": "sword_1h#103",
+     "jp": "クレイモアを改良した剣",
+     "en": "A sword modified from a claymore.",
+     "bytes": 33
+    },
+    {
+     "id": "sword_1h#36",
+     "jp": "円状の刀身を持った剣",
+     "en": "A sword with a circular blade.",
+     "bytes": 30
+    },
+    {
+     "id": "sword_1h#93",
+     "jp": "サーベルを改良した剣",
+     "en": "A sword modified from a saber.",
+     "bytes": 30
+    },
+    {
+     "id": "sword_1h#210",
+     "jp": "ローレライ教団詠師剣",
+     "en": "Order of Lorelei Cantor Sword",
+     "bytes": 29
+    },
+    {
+     "id": "sword_1h#22",
+     "jp": "戦士が好んで使うサーベル",
+     "en": "A saber favored by warriors.",
+     "bytes": 28
+    },
+    {
+     "id": "sword_1h#258",
+     "jp": "最大値(片手剣)",
+     "en": "Max Value (One-Handed Sword)",
+     "bytes": 28
+    },
+    {
+     "id": "sword_1h#111",
+     "jp": "騎士が好んで使うサーベル",
+     "en": "A saber favored by knights.",
+     "bytes": 27
+    },
+    {
+     "id": "sword_1h#137",
+     "jp": "魔法剣士の長剣",
+     "en": "Magic Swordsman's Longsword",
+     "bytes": 27
+    },
+    {
+     "id": "sword_1h#99",
+     "jp": "プラチナ製の剣",
+     "en": "A sword made of platinum.",
+     "bytes": 25
+    },
+    {
+     "id": "sword_1h#194",
+     "jp": "もうおなか一杯です…",
+     "en": "I'm completely stuffed...",
+     "bytes": 25
+    },
+    {
+     "id": "sword_1h#107",
+     "jp": "ミスリル製のサーベル",
+     "en": "A saber made of mithril.",
+     "bytes": 24
+    },
+    {
+     "id": "sword_1h#151",
+     "jp": "魔法騎士の長剣",
+     "en": "Magic Knight's Longsword",
+     "bytes": 24
+    },
+    {
+     "id": "sword_1h#9",
+     "jp": "青銅で作られた剣",
+     "en": "A sword made of bronze.",
+     "bytes": 23
+    },
+    {
+     "id": "sword_1h#54",
+     "jp": "銀で作られた剣",
+     "en": "A sword made of silver.",
+     "bytes": 23
+    },
+    {
+     "id": "sword_1h#63",
+     "jp": "銀で作られたサーベル",
+     "en": "A saber made of silver.",
+     "bytes": 23
+    },
+    {
+     "id": "sword_1h#205",
+     "jp": "宝刀ガルディオス",
+     "en": "Treasure Sword Gardios",
+     "bytes": 22
+    },
+    {
+     "id": "sword_1h#18",
+     "jp": "鉄で作られたサーベル",
+     "en": "A saber made of iron.",
+     "bytes": 21
+    },
+    {
+     "id": "sword_1h#134",
+     "jp": "剣士の長剣",
+     "en": "Swordsman's Longsword",
+     "bytes": 21
+    },
+    {
+     "id": "sword_1h#230",
+     "jp": "忍刀血桜",
+     "en": "Ninja Blade Chizakura",
+     "bytes": 21
+    },
+    {
+     "id": "sword_1h#160",
+     "jp": "玄武刀",
+     "en": "Black Tortoise Blade",
+     "bytes": 20
+    },
+    {
+     "id": "sword_1h#126",
+     "jp": "メイルピアスソード",
+     "en": "Mail Piercing Sword",
+     "bytes": 19
+    },
+    {
+     "id": "sword_1h#154",
+     "jp": "頭領の刀",
+     "en": "Head Ninja's Katana",
+     "bytes": 19
+    },
+    {
+     "id": "sword_1h#108",
+     "jp": "スモールデスサイズ",
+     "en": "Small Death Scythe",
+     "bytes": 18
+    },
+    {
+     "id": "sword_1h#118",
+     "jp": "エクセレントシザー",
+     "en": "Excellent Scissors",
+     "bytes": 18
+    },
+    {
+     "id": "sword_1h#148",
+     "jp": "騎士の長剣",
+     "en": "Knight's Longsword",
+     "bytes": 18
+    },
+    {
+     "id": "sword_1h#201",
+     "jp": "ソウルエッジ雌",
+     "en": "Soul Edge (Female)",
+     "bytes": 18
+    },
+    {
+     "id": "sword_1h#241",
+     "jp": "ホワイトナイトソード",
+     "en": "White Knight Sword",
+     "bytes": 18
+    },
+    {
+     "id": "sword_1h#143",
+     "jp": "青龍刀",
+     "en": "Blue Dragon Blade",
+     "bytes": 17
+    },
+    {
+     "id": "sword_1h#157",
+     "jp": "白虎刀",
+     "en": "White Tiger Blade",
+     "bytes": 17
+    },
+    {
+     "id": "sword_1h#74",
+     "jp": "バイオレントシザー",
+     "en": "Violent Scissors",
+     "bytes": 16
+    },
+    {
+     "id": "sword_1h#82",
+     "jp": "ボアスピアソード",
+     "en": "Boar Spear Sword",
+     "bytes": 16
+    },
+    {
+     "id": "sword_1h#191",
+     "jp": "冷凍のカツオ",
+     "en": "A frozen bonito.",
+     "bytes": 16
+    },
+    {
+     "id": "sword_1h#198",
+     "jp": "ソウルエッジ雄",
+     "en": "Soul Edge (Male)",
+     "bytes": 16
+    },
+    {
+     "id": "sword_1h#168",
+     "jp": "天叢雲剣",
+     "en": "Ame-no-Murakumo",
+     "bytes": 15
+    },
+    {
+     "id": "sword_1h#174",
+     "jp": "エターナルソードＳ",
+     "en": "Eternal Sword S",
+     "bytes": 15
+    },
+    {
+     "id": "sword_1h#227",
+     "jp": "エターナルソードＰ",
+     "en": "Eternal Sword P",
+     "bytes": 15
+    },
+    {
+     "id": "sword_1h#255",
+     "jp": "エターナルソードＸ",
+     "en": "Eternal Sword X",
+     "bytes": 15
+    },
+    {
+     "id": "sword_1h#98",
+     "jp": "プラチナソード",
+     "en": "Platinum Sword",
+     "bytes": 14
+    },
+    {
+     "id": "sword_1h#114",
+     "jp": "クトネシリカ",
+     "en": "Kutone Shirika",
+     "bytes": 14
+    },
+    {
+     "id": "sword_1h#140",
+     "jp": "忍の刀",
+     "en": "Shinobi Katana",
+     "bytes": 14
+    },
+    {
+     "id": "sword_1h#12",
+     "jp": "バスタードソード",
+     "en": "Bastard Sword",
+     "bytes": 13
+    },
+    {
+     "id": "sword_1h#21",
+     "jp": "ファイターサーベル",
+     "en": "Fighter Saber",
+     "bytes": 13
+    },
+    {
+     "id": "sword_1h#29",
+     "jp": "シザーソード",
+     "en": "Scissor Sword",
+     "bytes": 13
+    },
+    {
+     "id": "sword_1h#37",
+     "jp": "ハンティングソード",
+     "en": "Hunting Sword",
+     "bytes": 13
+    },
+    {
+     "id": "sword_1h#39",
+     "jp": "サーペントソード",
+     "en": "Serpent Sword",
+     "bytes": 13
+    },
+    {
+     "id": "sword_1h#43",
+     "jp": "ニンブルレイピア",
+     "en": "Nimble Rapier",
+     "bytes": 13
+    },
+    {
+     "id": "sword_1h#66",
+     "jp": "ウォーリアーサーベル",
+     "en": "Warrior Saber",
+     "bytes": 13
+    },
+    {
+     "id": "sword_1h#86",
+     "jp": "スカルピアッサー",
+     "en": "Skull Piercer",
+     "bytes": 13
+    },
+    {
+     "id": "sword_1h#106",
+     "jp": "ミスリルサーベル",
+     "en": "Mithril Saber",
+     "bytes": 13
+    },
+    {
+     "id": "sword_1h#112",
+     "jp": "メデューサキラー",
+     "en": "Medusa Killer",
+     "bytes": 13
+    },
+    {
+     "id": "sword_1h#122",
+     "jp": "アトア・マタタシ",
+     "en": "Atoa Matatasi",
+     "bytes": 13
+    },
+    {
+     "id": "sword_1h#130",
+     "jp": "デスピアッサー",
+     "en": "Death Piercer",
+     "bytes": 13
+    },
+    {
+     "id": "sword_1h#132",
+     "jp": "ホーリージャッジメント",
+     "en": "Holy Judgment",
+     "bytes": 13
+    },
+    {
+     "id": "sword_1h#179",
+     "jp": "おたま・剣",
+     "en": "Ladle (Sword)",
+     "bytes": 13
+    },
+    {
+     "id": "sword_1h#225",
+     "jp": "アカバネソード",
+     "en": "Akabane Sword",
+     "bytes": 13
+    },
+    {
+     "id": "sword_1h#6",
+     "jp": "バトルソード",
+     "en": "Battle Sword",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#8",
+     "jp": "ブロンズソード",
+     "en": "Bronze Sword",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#14",
+     "jp": "湾曲刀",
+     "en": "Curved Blade",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#33",
+     "jp": "アトア・マタルア",
+     "en": "Atoa Matarua",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#35",
+     "jp": "サークルソード",
+     "en": "Circle Sword",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#41",
+     "jp": "ボーンピアッサー",
+     "en": "Bone Piercer",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#53",
+     "jp": "シルバーソード",
+     "en": "Silver Sword",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#62",
+     "jp": "シルバーサーベル",
+     "en": "Silver Saber",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#64",
+     "jp": "スモールシックル",
+     "en": "Small Sickle",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#68",
+     "jp": "ウィッチキラー",
+     "en": "Witch Killer",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#84",
+     "jp": "スキュラソード",
+     "en": "Scylla Sword",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#88",
+     "jp": "ワジールレイピア",
+     "en": "Wazir Rapier",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#110",
+     "jp": "ナイトサーベル",
+     "en": "Knight Saber",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#116",
+     "jp": "ヴォルテックソード",
+     "en": "Voltek Sword",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#120",
+     "jp": "ユニコーンホーン",
+     "en": "Unicorn Horn",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#146",
+     "jp": "朱雀刀",
+     "en": "Suzaku Blade",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#173",
+     "jp": "ヴォーパルソード",
+     "en": "Vorpal Sword",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#195",
+     "jp": "折れた剣",
+     "en": "Broken Sword",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#203",
+     "jp": "ソウルキャリバー",
+     "en": "Soul Calibur",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#213",
+     "jp": "フォニックブレード",
+     "en": "Phonic Blade",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#221",
+     "jp": "ストームブリンガー",
+     "en": "Stormbringer",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#250",
+     "jp": "ロングソードSR",
+     "en": "Longsword SR",
+     "bytes": 12
+    },
+    {
+     "id": "sword_1h#49",
+     "jp": "ルーンレイピア",
+     "en": "Rune Rapier",
+     "bytes": 11
+    },
+    {
+     "id": "sword_1h#55",
+     "jp": "未来忍者",
+     "en": "Mirai Ninja",
+     "bytes": 11
+    },
+    {
+     "id": "sword_1h#72",
+     "jp": "ストームソード",
+     "en": "Storm Sword",
+     "bytes": 11
+    },
+    {
+     "id": "sword_1h#78",
+     "jp": "アトア・マングス",
+     "en": "Atoa Mangus",
+     "bytes": 11
+    },
+    {
+     "id": "sword_1h#80",
+     "jp": "エンジェルソード",
+     "en": "Angel Sword",
+     "bytes": 11
+    },
+    {
+     "id": "sword_1h#94",
+     "jp": "ホーリーレイピア",
+     "en": "Holy Rapier",
+     "bytes": 11
+    },
+    {
+     "id": "sword_1h#100",
+     "jp": "レーザーブレード",
+     "en": "Laser Blade",
+     "bytes": 11
+    },
+    {
+     "id": "sword_1h#104",
+     "jp": "ルーンショーテル",
+     "en": "Rune Shotel",
+     "bytes": 11
+    },
+    {
+     "id": "sword_1h#128",
+     "jp": "ヒドラソード",
+     "en": "Hydra Sword",
+     "bytes": 11
+    },
+    {
+     "id": "sword_1h#187",
+     "jp": "長ネギ",
+     "en": "Green Onion",
+     "bytes": 11
+    },
+    {
+     "id": "sword_1h#223",
+     "jp": "ラストフェンサー",
+     "en": "Last Fencer",
+     "bytes": 11
+    },
+    {
+     "id": "sword_1h#233",
+     "jp": "エーテルソード",
+     "en": "Ether Sword",
+     "bytes": 11
+    },
+    {
+     "id": "sword_1h#237",
+     "jp": "ニバンボシ",
+     "en": "Second Star",
+     "bytes": 11
+    },
+    {
+     "id": "sword_1h#253",
+     "jp": "トライアルソード",
+     "en": "Trial Sword",
+     "bytes": 11
+    },
+    {
+     "id": "sword_1h#10",
+     "jp": "ビームサーベル",
+     "en": "Beam Saber",
+     "bytes": 10
+    },
+    {
+     "id": "sword_1h#17",
+     "jp": "アイアンサーベル",
+     "en": "Iron Saber",
+     "bytes": 10
+    },
+    {
+     "id": "sword_1h#19",
+     "jp": "スモールファルクス",
+     "en": "Small Falx",
+     "bytes": 10
+    },
+    {
+     "id": "sword_1h#27",
+     "jp": "ウィンドソード",
+     "en": "Wind Sword",
+     "bytes": 10
+    },
+    {
+     "id": "sword_1h#45",
+     "jp": "ルーンソード",
+     "en": "Rune Sword",
+     "bytes": 10
+    },
+    {
+     "id": "sword_1h#76",
+     "jp": "ビーストホーン",
+     "en": "Beast Horn",
+     "bytes": 10
+    },
+    {
+     "id": "sword_1h#90",
+     "jp": "ホーリーソード",
+     "en": "Holy Sword",
+     "bytes": 10
+    },
+    {
+     "id": "sword_1h#96",
+     "jp": "デュエルソード",
+     "en": "Duel Sword",
+     "bytes": 10
+    },
+    {
+     "id": "sword_1h#102",
+     "jp": "グレートソード",
+     "en": "Greatsword",
+     "bytes": 10
+    },
+    {
+     "id": "sword_1h#177",
+     "jp": "フライパン",
+     "en": "Frying Pan",
+     "bytes": 10
+    },
+    {
+     "id": "sword_1h#235",
+     "jp": "ビーストソウル",
+     "en": "Beast Soul",
+     "bytes": 10
+    },
+    {
+     "id": "sword_1h#239",
+     "jp": "ストームシュテル",
+     "en": "Sturm Stol",
+     "bytes": 10
+    },
+    {
+     "id": "sword_1h#0",
+     "jp": "ロングソード",
+     "en": "Longsword",
+     "bytes": 9
+    },
+    {
+     "id": "sword_1h#51",
+     "jp": "ウォーソード",
+     "en": "War Sword",
+     "bytes": 9
+    },
+    {
+     "id": "sword_1h#162",
+     "jp": "エクスカリバー",
+     "en": "Excalibur",
+     "bytes": 9
+    },
+    {
+     "id": "sword_1h#164",
+     "jp": "フラガラッハ",
+     "en": "Fragarach",
+     "bytes": 9
+    },
+    {
+     "id": "sword_1h#171",
+     "jp": "フランベルジュ",
+     "en": "Flamberge",
+     "bytes": 9
+    },
+    {
+     "id": "sword_1h#248",
+     "jp": "カラドボルグ",
+     "en": "Caladbolg",
+     "bytes": 9
+    },
+    {
+     "id": "sword_1h#2",
+     "jp": "シミター",
+     "en": "Scimitar",
+     "bytes": 8
+    },
+    {
+     "id": "sword_1h#58",
+     "jp": "クレイモア",
+     "en": "Claymore",
+     "bytes": 8
+    },
+    {
+     "id": "sword_1h#124",
+     "jp": "エンディミオン",
+     "en": "Endymion",
+     "bytes": 8
+    },
+    {
+     "id": "sword_1h#208",
+     "jp": "ソルバルウ",
+     "en": "Solvalou",
+     "bytes": 8
+    },
+    {
+     "id": "sword_1h#217",
+     "jp": "シャルティエ",
+     "en": "Chaltier",
+     "bytes": 8
+    },
+    {
+     "id": "sword_1h#245",
+     "jp": "狂月",
+     "en": "Kyogetsu",
+     "bytes": 8
+    },
+    {
+     "id": "sword_1h#31",
+     "jp": "スティンガー",
+     "en": "Stinger",
+     "bytes": 7
+    },
+    {
+     "id": "sword_1h#92",
+     "jp": "カトラス",
+     "en": "Cutlass",
+     "bytes": 7
+    },
+    {
+     "id": "sword_1h#166",
+     "jp": "バルムンク",
+     "en": "Balmung",
+     "bytes": 7
+    },
+    {
+     "id": "sword_1h#185",
+     "jp": "ハリセン",
+     "en": "Harisen",
+     "bytes": 7
+    },
+    {
+     "id": "sword_1h#215",
+     "jp": "イクティノス",
+     "en": "Igtenos",
+     "bytes": 7
+    },
+    {
+     "id": "sword_1h#243",
+     "jp": "アステリア",
+     "en": "Asteria",
+     "bytes": 7
+    },
+    {
+     "id": "sword_1h#4",
+     "jp": "レイピア",
+     "en": "Rapier",
+     "bytes": 6
+    },
+    {
+     "id": "sword_1h#60",
+     "jp": "ショーテル",
+     "en": "Shotel",
+     "bytes": 6
+    },
+    {
+     "id": "sword_1h#70",
+     "jp": "エペタム",
+     "en": "Epetam",
+     "bytes": 6
+    },
+    {
+     "id": "sword_1h#190",
+     "jp": "カツオ",
+     "en": "Bonito",
+     "bytes": 6
+    },
+    {
+     "id": "sword_1h#219",
+     "jp": "ディムロス",
+     "en": "Dymlos",
+     "bytes": 6
+    },
+    {
+     "id": "sword_1h#23",
+     "jp": "ハルパー",
+     "en": "Harpe",
+     "bytes": 5
+    },
+    {
+     "id": "sword_1h#25",
+     "jp": "エタム",
+     "en": "Ettam",
+     "bytes": 5
+    },
+    {
+     "id": "sword_1h#47",
+     "jp": "サーベル",
+     "en": "Saber",
+     "bytes": 5
+    },
+    {
+     "id": "sword_1h#192",
+     "jp": "だんご",
+     "en": "Dango",
+     "bytes": 5
+    },
+    {
+     "id": "sword_1h#182",
+     "jp": "骨",
+     "en": "Bone",
+     "bytes": 4
+    }
+   ]
+  },
+  "sword_2h": {
+   "arena_bytes": 3071,
+   "pool_atual_bytes": 3424,
+   "folga_atual": -353,
+   "meta_bytes_a_cortar": 598,
+   "itens": [
+    {
+     "id": "sword_2h#52",
+     "jp": "その一撃の重さから重力の名を冠する両手剣",
+     "en": "A greatsword bearing the name of gravity due to the heaviness of its strike.",
+     "bytes": 76
+    },
+    {
+     "id": "sword_2h#13",
+     "jp": "斬撃よりも刀身の重さによる打撃に優れた両手剣",
+     "en": "A greatsword excelling more in blunt impact from blade weight than slicing.",
+     "bytes": 75
+    },
+    {
+     "id": "sword_2h#95",
+     "jp": "斬られた者は死の扉の前に立つといわれる両手剣",
+     "en": "A greatsword said to bring anyone slashed by it before the gates of death.",
+     "bytes": 74
+    },
+    {
+     "id": "sword_2h#93",
+     "jp": "ひとたび剣を抜けば、必ず相手を死に至らしめる両手剣",
+     "en": "A greatsword that, once drawn, inevitably brings death to its opponent.",
+     "bytes": 71
+    },
+    {
+     "id": "sword_2h#75",
+     "jp": "豪爆の炎の如き破壊力から名付けられた両手剣",
+     "en": "A greatsword named after its destructive power akin to raging flames.",
+     "bytes": 69
+    },
+    {
+     "id": "sword_2h#1",
+     "jp": "攻防一体をテーマに開発された両手剣",
+     "en": "A greatsword developed with the theme of offense and defense as one.",
+     "bytes": 68
+    },
+    {
+     "id": "sword_2h#81",
+     "jp": "ディセンダーと認められた大剣士専用の両手剣",
+     "en": "A greatsword exclusive to great swordsmen recognized as Descenders.",
+     "bytes": 67
+    },
+    {
+     "id": "sword_2h#86",
+     "jp": "ディセンダーの為に作られた大剣士専用の両手剣",
+     "en": "A greatsword crafted for great swordsmen recognized as Descenders.",
+     "bytes": 66
+    },
+    {
+     "id": "sword_2h#77",
+     "jp": "古代より伝わる技法で作られた両手剣",
+     "en": "A greatsword crafted using techniques handed down from antiquity.",
+     "bytes": 65
+    },
+    {
+     "id": "sword_2h#48",
+     "jp": "爆炎の如き破壊力を秘める両手剣",
+     "en": "A greatsword harboring destructive power like explosive flames.",
+     "bytes": 63
+    },
+    {
+     "id": "sword_2h#32",
+     "jp": "土の精霊の加護を受けるとされる両手剣",
+     "en": "A greatsword said to receive the blessing of the earth spirit.",
+     "bytes": 62
+    },
+    {
+     "id": "sword_2h#91",
+     "jp": "王たる資格を持つ者だけが扱える両手剣",
+     "en": "A greatsword that only those worthy of being kings can wield.",
+     "bytes": 61
+    },
+    {
+     "id": "sword_2h#84",
+     "jp": "ディセンダーと認められた聖騎士専用の両手剣",
+     "en": "A greatsword exclusive to paladins recognized as Descenders.",
+     "bytes": 60
+    },
+    {
+     "id": "sword_2h#89",
+     "jp": "ディセンダーの為に作られた聖騎士専用の両手剣",
+     "en": "A greatsword crafted for paladins recognized as Descenders.",
+     "bytes": 59
+    },
+    {
+     "id": "sword_2h#50",
+     "jp": "魔力により切れ味が強化された両手剣",
+     "en": "A greatsword whose sharpness is enhanced by magical power.",
+     "bytes": 58
+    },
+    {
+     "id": "sword_2h#65",
+     "jp": "伝説の騎士が使ったとされる両手剣",
+     "en": "A greatsword said to have been used by a legendary knight.",
+     "bytes": 58
+    },
+    {
+     "id": "sword_2h#97",
+     "jp": "魔神を倒す為に鍛えたと伝わる両手剣",
+     "en": "A greatsword said to have been forged to defeat evil gods.",
+     "bytes": 58
+    },
+    {
+     "id": "sword_2h#67",
+     "jp": "すさまじい破壊力を持った伝説の両手剣",
+     "en": "A legendary greatsword with tremendous destructive power.",
+     "bytes": 57
+    },
+    {
+     "id": "sword_2h#42",
+     "jp": "イニシエの王国で英雄に贈られた両手剣",
+     "en": "A greatsword bestowed upon heroes in an ancient kingdom.",
+     "bytes": 56
+    },
+    {
+     "id": "sword_2h#112",
+     "jp": "ロックスが鍛え上げて、カノンノに与えた両手剣",
+     "en": "A greatsword forged by Rocks and bestowed upon Kanonno.",
+     "bytes": 55
+    },
+    {
+     "id": "sword_2h#27",
+     "jp": "自分と味方を勝利に導く両手剣",
+     "en": "A greatsword that leads oneself and allies to victory.",
+     "bytes": 54
+    },
+    {
+     "id": "sword_2h#17",
+     "jp": "昔話に登場した剣を模した両手剣",
+     "en": "A greatsword modeled after a sword in old folk tales.",
+     "bytes": 53
+    },
+    {
+     "id": "sword_2h#103",
+     "jp": "ＴＯＷＲＭ２に登場したカノンノが本作で装備している武器",
+     "en": "Weapon equipped in this title by Kanonno from TOWRM2.",
+     "bytes": 53
+    },
+    {
+     "id": "sword_2h#71",
+     "jp": "英雄譚に登場した剣を模した両手剣",
+     "en": "A greatsword modeled after a sword in heroic epics.",
+     "bytes": 51
+    },
+    {
+     "id": "sword_2h#11",
+     "jp": "片手で扱う事は出来ない両手剣",
+     "en": "A greatsword that cannot be wielded with one hand.",
+     "bytes": 50
+    },
+    {
+     "id": "sword_2h#44",
+     "jp": "おとぎ話に登場した剣を模した両手剣",
+     "en": "A greatsword modeled after a sword in fairy tales.",
+     "bytes": 50
+    },
+    {
+     "id": "sword_2h#105",
+     "jp": "ＴＯＤに登場したフィリアが本作で装備している武器",
+     "en": "Weapon equipped in this title by Philia from TOD.",
+     "bytes": 49
+    },
+    {
+     "id": "sword_2h#107",
+     "jp": "ＴＯＲに登場したヴェイグが本作で装備している武器",
+     "en": "Weapon equipped in this title by Veigue from TOR.",
+     "bytes": 49
+    },
+    {
+     "id": "sword_2h#57",
+     "jp": "ブロードブレード改を改良した両手剣",
+     "en": "A greatsword modified from a broad blade custom.",
+     "bytes": 48
+    },
+    {
+     "id": "sword_2h#25",
+     "jp": "惑星の様な柄から名付けられた両手剣",
+     "en": "A greatsword named after its planet-like hilt.",
+     "bytes": 46
+    },
+    {
+     "id": "sword_2h#110",
+     "jp": "ＴＯＡに登場したヴァンが本作で装備している武器",
+     "en": "Weapon equipped in this title by Van from TOA.",
+     "bytes": 46
+    },
+    {
+     "id": "sword_2h#15",
+     "jp": "戦闘用に処理が施された両手剣",
+     "en": "A greatsword treated specifically for combat.",
+     "bytes": 45
+    },
+    {
+     "id": "sword_2h#63",
+     "jp": "烈風を起こすといわれる両手剣",
+     "en": "A greatsword said to stir up ferocious winds.",
+     "bytes": 45
+    },
+    {
+     "id": "sword_2h#54",
+     "jp": "守護者の名を冠する両手剣",
+     "en": "A greatsword bearing the name of a guardian.",
+     "bytes": 44
+    },
+    {
+     "id": "sword_2h#23",
+     "jp": "神秘文様を刻んだ両手剣",
+     "en": "A greatsword carved with mystical patterns.",
+     "bytes": 43
+    },
+    {
+     "id": "sword_2h#38",
+     "jp": "すさまじい切断力を持った両手剣",
+     "en": "A greatsword with tremendous cutting power.",
+     "bytes": 43
+    },
+    {
+     "id": "sword_2h#69",
+     "jp": "戦時中に兵士に支給された両手剣",
+     "en": "A greatsword issued to soldiers in wartime.",
+     "bytes": 43
+    },
+    {
+     "id": "sword_2h#59",
+     "jp": "大地を断つとすらいわれる両手剣",
+     "en": "A greatsword even said to sever the earth.",
+     "bytes": 42
+    },
+    {
+     "id": "sword_2h#79",
+     "jp": "惑星の名を冠する両手剣",
+     "en": "A greatsword bearing the name of a planet.",
+     "bytes": 42
+    },
+    {
+     "id": "sword_2h#30",
+     "jp": "ブロードブレードを改良した両手剣",
+     "en": "A greatsword modified from a broad blade.",
+     "bytes": 41
+    },
+    {
+     "id": "sword_2h#34",
+     "jp": "ラージソードを改良した両手剣",
+     "en": "A greatsword modified from a large sword.",
+     "bytes": 41
+    },
+    {
+     "id": "sword_2h#61",
+     "jp": "ヒュージソードを改良した両手剣",
+     "en": "A greatsword modified from a huge sword.",
+     "bytes": 40
+    },
+    {
+     "id": "sword_2h#5",
+     "jp": "硬い岩石を削り出して作られた両手剣",
+     "en": "A greatsword carved from hard rock.",
+     "bytes": 35
+    },
+    {
+     "id": "sword_2h#9",
+     "jp": "風を起こすといわれる両手剣",
+     "en": "A greatsword said to stir up winds.",
+     "bytes": 35
+    },
+    {
+     "id": "sword_2h#36",
+     "jp": "疾風を起こすといわれる両手剣",
+     "en": "A greatsword said to stir up gales.",
+     "bytes": 35
+    },
+    {
+     "id": "sword_2h#108",
+     "jp": "神託詠師謡将大剣",
+     "en": "Oracle Cantor Commandant Greatsword",
+     "bytes": 35
+    },
+    {
+     "id": "sword_2h#21",
+     "jp": "燃える様な刀身を持った両手剣",
+     "en": "A greatsword with a blazing blade.",
+     "bytes": 34
+    },
+    {
+     "id": "sword_2h#40",
+     "jp": "硬い鉱石によって鍛え上げられた両手剣",
+     "en": "A greatsword forged from hard ore.",
+     "bytes": 34
+    },
+    {
+     "id": "sword_2h#7",
+     "jp": "長い刀身を持った両手剣",
+     "en": "A greatsword with a long blade.",
+     "bytes": 31
+    },
+    {
+     "id": "sword_2h#46",
+     "jp": "プラチナ製の両手剣",
+     "en": "A greatsword made of platinum.",
+     "bytes": 30
+    },
+    {
+     "id": "sword_2h#19",
+     "jp": "ミスリル製の両手剣",
+     "en": "A greatsword made of mithril.",
+     "bytes": 29
+    },
+    {
+     "id": "sword_2h#73",
+     "jp": "ダイヤ製の両手剣",
+     "en": "A greatsword made of diamond.",
+     "bytes": 29
+    },
+    {
+     "id": "sword_2h#100",
+     "jp": "ソウルキャリバー・大剣",
+     "en": "Soul Calibur (Greatsword)",
+     "bytes": 25
+    },
+    {
+     "id": "sword_2h#87",
+     "jp": "剣聖の大剣",
+     "en": "Sword Saint's Greatsword",
+     "bytes": 24
+    },
+    {
+     "id": "sword_2h#82",
+     "jp": "従士隊の大剣",
+     "en": "Squire Corps Greatsword",
+     "bytes": 23
+    },
+    {
+     "id": "sword_2h#98",
+     "jp": "ソウルエッジ・大剣",
+     "en": "Soul Edge (Greatsword)",
+     "bytes": 22
+    },
+    {
+     "id": "sword_2h#114",
+     "jp": "最大値(両手剣)",
+     "en": "Max Value (Greatsword)",
+     "bytes": 22
+    },
+    {
+     "id": "sword_2h#3",
+     "jp": "幅広の両手剣",
+     "en": "A wide greatsword.",
+     "bytes": 18
+    },
+    {
+     "id": "sword_2h#28",
+     "jp": "ブロードブレード改",
+     "en": "Broad Blade Custom",
+     "bytes": 18
+    },
+    {
+     "id": "sword_2h#10",
+     "jp": "トゥーハンドソード",
+     "en": "Two-Handed Sword",
+     "bytes": 16
+    },
+    {
+     "id": "sword_2h#55",
+     "jp": "ブロードブレード極",
+     "en": "Broad Blade Max",
+     "bytes": 15
+    },
+    {
+     "id": "sword_2h#39",
+     "jp": "ダマスクスソード",
+     "en": "Damascus Sword",
+     "bytes": 14
+    },
+    {
+     "id": "sword_2h#45",
+     "jp": "プラチナブレード",
+     "en": "Platinum Blade",
+     "bytes": 14
+    },
+    {
+     "id": "sword_2h#102",
+     "jp": "セブンスサマー",
+     "en": "Seventh Summer",
+     "bytes": 14
+    },
+    {
+     "id": "sword_2h#0",
+     "jp": "プロテクトソード",
+     "en": "Protect Sword",
+     "bytes": 13
+    },
+    {
+     "id": "sword_2h#12",
+     "jp": "ワルーンソード",
+     "en": "Walloon Sword",
+     "bytes": 13
+    },
+    {
+     "id": "sword_2h#18",
+     "jp": "ミスリルブレード",
+     "en": "Mithril Blade",
+     "bytes": 13
+    },
+    {
+     "id": "sword_2h#51",
+     "jp": "グラビティソード",
+     "en": "Gravity Sword",
+     "bytes": 13
+    },
+    {
+     "id": "sword_2h#72",
+     "jp": "ダイヤブレード",
+     "en": "Diamond Blade",
+     "bytes": 13
+    },
+    {
+     "id": "sword_2h#76",
+     "jp": "エンシェントブレード",
+     "en": "Ancient Blade",
+     "bytes": 13
+    },
+    {
+     "id": "sword_2h#8",
+     "jp": "ブリーズソード",
+     "en": "Breeze Sword",
+     "bytes": 12
+    },
+    {
+     "id": "sword_2h#14",
+     "jp": "バトルブレード",
+     "en": "Battle Blade",
+     "bytes": 12
+    },
+    {
+     "id": "sword_2h#62",
+     "jp": "ボルテックソード",
+     "en": "Voltek Sword",
+     "bytes": 12
+    },
+    {
+     "id": "sword_2h#78",
+     "jp": "プラネットソード",
+     "en": "Planet Sword",
+     "bytes": 12
+    },
+    {
+     "id": "sword_2h#2",
+     "jp": "ブロードブレード",
+     "en": "Broad Blade",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#4",
+     "jp": "ストーンブレード",
+     "en": "Stone Blade",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#6",
+     "jp": "ラージソード",
+     "en": "Large Sword",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#16",
+     "jp": "グリムソード",
+     "en": "Grimm Sword",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#24",
+     "jp": "グローブソード",
+     "en": "Globe Sword",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#31",
+     "jp": "ノームブレード",
+     "en": "Gnome Blade",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#43",
+     "jp": "アリスソード",
+     "en": "Alice Sword",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#47",
+     "jp": "フレイムソード",
+     "en": "Flame Sword",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#49",
+     "jp": "スペルブレード",
+     "en": "Spell Blade",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#58",
+     "jp": "アースブレード",
+     "en": "Earth Blade",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#60",
+     "jp": "ジャイアントソード",
+     "en": "Giant Sword",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#70",
+     "jp": "フェアリーソード",
+     "en": "Fairy Sword",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#74",
+     "jp": "ブレイズソード",
+     "en": "Blaze Sword",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#85",
+     "jp": "エグゼキューショナー",
+     "en": "Executioner",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#106",
+     "jp": "ファルステヴェルン",
+     "en": "Fals Tewern",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#111",
+     "jp": "オータムリリィ",
+     "en": "Autumn Lily",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#113",
+     "jp": "トライアルブレード",
+     "en": "Trial Blade",
+     "bytes": 11
+    },
+    {
+     "id": "sword_2h#20",
+     "jp": "ヒートソード",
+     "en": "Heat Sword",
+     "bytes": 10
+    },
+    {
+     "id": "sword_2h#22",
+     "jp": "ルーンブレード",
+     "en": "Rune Blade",
+     "bytes": 10
+    },
+    {
+     "id": "sword_2h#33",
+     "jp": "ヒュージソード",
+     "en": "Huge Sword",
+     "bytes": 10
+    },
+    {
+     "id": "sword_2h#35",
+     "jp": "ガストソード",
+     "en": "Gust Sword",
+     "bytes": 10
+    },
+    {
+     "id": "sword_2h#41",
+     "jp": "デュエルブレード",
+     "en": "Duel Blade",
+     "bytes": 10
+    },
+    {
+     "id": "sword_2h#66",
+     "jp": "イヤーソード",
+     "en": "Year Sword",
+     "bytes": 10
+    },
+    {
+     "id": "sword_2h#80",
+     "jp": "ツヴァイハンダー",
+     "en": "Zweihander",
+     "bytes": 10
+    },
+    {
+     "id": "sword_2h#94",
+     "jp": "レーヴァテイン",
+     "en": "Laevateinn",
+     "bytes": 10
+    },
+    {
+     "id": "sword_2h#37",
+     "jp": "ロンパイア",
+     "en": "Rhomphaia",
+     "bytes": 9
+    },
+    {
+     "id": "sword_2h#68",
+     "jp": "ウォーブレード",
+     "en": "War Blade",
+     "bytes": 9
+    },
+    {
+     "id": "sword_2h#92",
+     "jp": "ダーインスレイヴ",
+     "en": "Dainsleif",
+     "bytes": 9
+    },
+    {
+     "id": "sword_2h#26",
+     "jp": "ディフェンダー",
+     "en": "Defender",
+     "bytes": 8
+    },
+    {
+     "id": "sword_2h#53",
+     "jp": "ガーディアン",
+     "en": "Guardian",
+     "bytes": 8
+    },
+    {
+     "id": "sword_2h#90",
+     "jp": "キャリバーン",
+     "en": "Caliburn",
+     "bytes": 8
+    },
+    {
+     "id": "sword_2h#104",
+     "jp": "クレメンテ",
+     "en": "Clemente",
+     "bytes": 8
+    },
+    {
+     "id": "sword_2h#64",
+     "jp": "エスパドン",
+     "en": "Espadon",
+     "bytes": 7
+    },
+    {
+     "id": "sword_2h#96",
+     "jp": "グラム",
+     "en": "Gram",
+     "bytes": 4
+    }
+   ]
+  },
+  "dagger": {
+   "arena_bytes": 3231,
+   "pool_atual_bytes": 3648,
+   "folga_atual": -417,
+   "meta_bytes_a_cortar": 675,
+   "itens": [
+    {
+     "id": "dagger#78",
+     "jp": "大地、星そのものの加護を得るとされる短剣",
+     "en": "A dagger said to receive the blessing of the earth and the star itself.",
+     "bytes": 71
+    },
+    {
+     "id": "dagger#11",
+     "jp": "日常でも使われていた短剣。武器としても使用可能",
+     "en": "A dagger used in daily life as well. Can also be wielded as a weapon.",
+     "bytes": 69
+    },
+    {
+     "id": "dagger#116",
+     "jp": "東方で皇太子が受け継ぐという脇差",
+     "en": "A wakizashi said to be inherited by the crown prince in the East.",
+     "bytes": 65
+    },
+    {
+     "id": "dagger#100",
+     "jp": "自在に流れる水を思わせる刃紋を持つ短刀",
+     "en": "A short blade whose temper line resembles freely flowing water.",
+     "bytes": 63
+    },
+    {
+     "id": "dagger#25",
+     "jp": "切るよりも刺す事を目的とされた錐状の短剣",
+     "en": "An awl-like dagger designed for piercing rather than slashing.",
+     "bytes": 62
+    },
+    {
+     "id": "dagger#125",
+     "jp": "東方で雷を斬ったと伝わる脇差",
+     "en": "A wakizashi said to have sliced through lightning in the East.",
+     "bytes": 62
+    },
+    {
+     "id": "dagger#3",
+     "jp": "刺すだけではなく、投げる事も出来たとされる短剣",
+     "en": "A dagger said to be capable of throwing as well as stabbing.",
+     "bytes": 60
+    },
+    {
+     "id": "dagger#5",
+     "jp": "相手の攻撃を受け流す仕組みがある短剣",
+     "en": "A dagger designed with a mechanism to parry enemy attacks.",
+     "bytes": 58
+    },
+    {
+     "id": "dagger#9",
+     "jp": "鉱物の精霊の加護を得るとされる短剣",
+     "en": "A dagger said to receive the blessing of mineral spirits.",
+     "bytes": 57
+    },
+    {
+     "id": "dagger#32",
+     "jp": "二本の刀身を持つ事で戦闘力を増した短剣",
+     "en": "A dagger whose combat strength is enhanced by two blades.",
+     "bytes": 57
+    },
+    {
+     "id": "dagger#119",
+     "jp": "東方で神宝と伝わる脇差",
+     "en": "A wakizashi passed down as a sacred treasure in the East.",
+     "bytes": 57
+    },
+    {
+     "id": "dagger#49",
+     "jp": "魔よけの効果を持つとされる銀の短剣",
+     "en": "A silver dagger said to hold warding power against evil.",
+     "bytes": 56
+    },
+    {
+     "id": "dagger#65",
+     "jp": "こぼれる水を思わせる刃紋を持つ短刀",
+     "en": "A short blade whose temper line resembles spilled water.",
+     "bytes": 56
+    },
+    {
+     "id": "dagger#19",
+     "jp": "青い刀身から冷たいイメージをかもしだした短剣",
+     "en": "A dagger evoking a chilled feeling from its blue blade.",
+     "bytes": 55
+    },
+    {
+     "id": "dagger#105",
+     "jp": "ディセンダーと認められた盗賊専用の短剣",
+     "en": "A dagger exclusive to thieves recognized as Descenders.",
+     "bytes": 55
+    },
+    {
+     "id": "dagger#108",
+     "jp": "ディセンダーと認められた海賊専用の短剣",
+     "en": "A dagger exclusive to pirates recognized as Descenders.",
+     "bytes": 55
+    },
+    {
+     "id": "dagger#23",
+     "jp": "短剣の部類では長めで実戦向き",
+     "en": "Rather long for a dagger and suited for actual battle.",
+     "bytes": 54
+    },
+    {
+     "id": "dagger#111",
+     "jp": "ディセンダーの為に作られた盗賊専用の短剣",
+     "en": "A dagger crafted for thieves recognized as Descenders.",
+     "bytes": 54
+    },
+    {
+     "id": "dagger#113",
+     "jp": "ディセンダーの為に作られた海賊専用の短剣",
+     "en": "A dagger crafted for pirates recognized as Descenders.",
+     "bytes": 54
+    },
+    {
+     "id": "dagger#30",
+     "jp": "淡い雪を思わせる刃紋を持つ短刀",
+     "en": "A short blade whose temper line resembles light snow.",
+     "bytes": 53
+    },
+    {
+     "id": "dagger#95",
+     "jp": "龍の牙の意を持つ、突き用の短剣",
+     "en": "A thrusting dagger named after the fangs of a dragon.",
+     "bytes": 53
+    },
+    {
+     "id": "dagger#21",
+     "jp": "イニシエの王国で英雄に贈られた短剣",
+     "en": "A dagger bestowed upon heroes in an ancient kingdom.",
+     "bytes": 52
+    },
+    {
+     "id": "dagger#60",
+     "jp": "虎の牙の意を持つ、突き用の短剣",
+     "en": "A thrusting dagger named after the fangs of a tiger.",
+     "bytes": 52
+    },
+    {
+     "id": "dagger#97",
+     "jp": "打撃で骨を砕く構造を持つ短剣",
+     "en": "A dagger structured to crush bones with blunt force.",
+     "bytes": 52
+    },
+    {
+     "id": "dagger#137",
+     "jp": "タキ愛用の短剣（出典：ソウルキャリバーシリーズ）",
+     "en": "Taki's favorite dagger. (Source: Soulcalibur series)",
+     "bytes": 52
+    },
+    {
+     "id": "dagger#122",
+     "jp": "東方で神の名を冠する脇差",
+     "en": "A wakizashi bearing the name of a god in the East.",
+     "bytes": 50
+    },
+    {
+     "id": "dagger#128",
+     "jp": "和田どん、和田かつをあしらったうちわ",
+     "en": "A round fan adorned with Don Wada and Katsu Wada.",
+     "bytes": 49
+    },
+    {
+     "id": "dagger#1",
+     "jp": "日用品的に扱われる短剣",
+     "en": "A dagger treated like an everyday utility knife.",
+     "bytes": 48
+    },
+    {
+     "id": "dagger#51",
+     "jp": "柄に骨の模様を施したクリス",
+     "en": "A kris decorated with bone patterns on its hilt.",
+     "bytes": 48
+    },
+    {
+     "id": "dagger#134",
+     "jp": "ＴＯＤに登場したルーティが本作で装備している武器",
+     "en": "Weapon equipped in this title by Rutee from TOD.",
+     "bytes": 48
+    },
+    {
+     "id": "dagger#62",
+     "jp": "力を入れやすい構造を持つ短剣",
+     "en": "A dagger structured to easily channel strength.",
+     "bytes": 47
+    },
+    {
+     "id": "dagger#86",
+     "jp": "柄に幽霊の模様を施したクリス",
+     "en": "A kris decorated with ghost motifs on its hilt.",
+     "bytes": 47
+    },
+    {
+     "id": "dagger#43",
+     "jp": "大地の加護を得るとされる短剣",
+     "en": "A dagger said to receive the earth's blessing.",
+     "bytes": 46
+    },
+    {
+     "id": "dagger#47",
+     "jp": "炎の加護を得るとされる短剣",
+     "en": "A dagger said to receive the flame's blessing.",
+     "bytes": 46
+    },
+    {
+     "id": "dagger#82",
+     "jp": "切り口が焼ける様な痛みを与える短剣",
+     "en": "A dagger inflicting burning pain upon wounds.",
+     "bytes": 45
+    },
+    {
+     "id": "dagger#74",
+     "jp": "マン・ゴーシュ改を改良した短剣",
+     "en": "A dagger modified from a main gauche custom.",
+     "bytes": 44
+    },
+    {
+     "id": "dagger#17",
+     "jp": "美しい装飾が施された短剣",
+     "en": "A dagger featuring beautiful ornamentation.",
+     "bytes": 43
+    },
+    {
+     "id": "dagger#34",
+     "jp": "ナイフを戦闘用に改良した短剣",
+     "en": "A dagger modified from a knife for combat.",
+     "bytes": 42
+    },
+    {
+     "id": "dagger#132",
+     "jp": "秋の味覚。冷凍サンマ",
+     "en": "A taste of autumn. A frozen Pacific saury.",
+     "bytes": 42
+    },
+    {
+     "id": "dagger#93",
+     "jp": "グラディウス改を改良した短剣",
+     "en": "A dagger modified from a gladius custom.",
+     "bytes": 40
+    },
+    {
+     "id": "dagger#36",
+     "jp": "神秘文様を刻んだダガー",
+     "en": "A dagger carved with mystical patterns.",
+     "bytes": 39
+    },
+    {
+     "id": "dagger#90",
+     "jp": "ソルジャーナイフを改良した短剣",
+     "en": "A dagger modified from a soldier knife.",
+     "bytes": 39
+    },
+    {
+     "id": "dagger#13",
+     "jp": "炎の様な赤い刀身を持った鋭利な短剣",
+     "en": "A sharp dagger with a flame-red blade.",
+     "bytes": 38
+    },
+    {
+     "id": "dagger#53",
+     "jp": "氷の様な冷たさを持った短剣",
+     "en": "A dagger possessing ice-like coldness.",
+     "bytes": 38
+    },
+    {
+     "id": "dagger#69",
+     "jp": "バトルナイフを改良した短剣",
+     "en": "A dagger modified from a battle knife.",
+     "bytes": 38
+    },
+    {
+     "id": "dagger#39",
+     "jp": "マン・ゴーシュを改良した短剣",
+     "en": "A dagger modified from a main gauche.",
+     "bytes": 37
+    },
+    {
+     "id": "dagger#45",
+     "jp": "神秘文様を刻んだダーク",
+     "en": "A dirk carved with mystical patterns.",
+     "bytes": 37
+    },
+    {
+     "id": "dagger#88",
+     "jp": "凍てつく用な風格を感じる短剣",
+     "en": "A dagger that exudes a freezing aura.",
+     "bytes": 37
+    },
+    {
+     "id": "dagger#55",
+     "jp": "デュエルナイフを改良した短剣",
+     "en": "A dagger modified from a duel knife.",
+     "bytes": 36
+    },
+    {
+     "id": "dagger#67",
+     "jp": "ツインエッジを改良した短剣",
+     "en": "A dagger modified from a twin edge.",
+     "bytes": 35
+    },
+    {
+     "id": "dagger#102",
+     "jp": "デュアルエッジを改良した短剣",
+     "en": "A dagger modified from a dual edge.",
+     "bytes": 35
+    },
+    {
+     "id": "dagger#27",
+     "jp": "身幅が広い短剣",
+     "en": "A dagger with a broad blade width.",
+     "bytes": 34
+    },
+    {
+     "id": "dagger#130",
+     "jp": "外皮が硬く香ばしいパン",
+     "en": "Bread with a hard, fragrant crust.",
+     "bytes": 34
+    },
+    {
+     "id": "dagger#58",
+     "jp": "グラディウスを改良した短剣",
+     "en": "A dagger modified from a gladius.",
+     "bytes": 33
+    },
+    {
+     "id": "dagger#71",
+     "jp": "聖なる祝福を受けたダガー",
+     "en": "A dagger receiving holy blessing.",
+     "bytes": 33
+    },
+    {
+     "id": "dagger#7",
+     "jp": "歩兵が携帯した短剣",
+     "en": "A dagger carried by infantrymen.",
+     "bytes": 32
+    },
+    {
+     "id": "dagger#41",
+     "jp": "銃士が携帯した短剣",
+     "en": "A dagger carried by musketeers.",
+     "bytes": 31
+    },
+    {
+     "id": "dagger#80",
+     "jp": "聖なる祝福を受けたダーク",
+     "en": "A dirk receiving holy blessing.",
+     "bytes": 31
+    },
+    {
+     "id": "dagger#76",
+     "jp": "ハンターが携帯した短剣",
+     "en": "A dagger carried by hunters.",
+     "bytes": 28
+    },
+    {
+     "id": "dagger#84",
+     "jp": "プラチナ製の短剣",
+     "en": "A dagger made of platinum.",
+     "bytes": 26
+    },
+    {
+     "id": "dagger#109",
+     "jp": "義賊のダガー",
+     "en": "Chivalrous Thief's Dagger",
+     "bytes": 25
+    },
+    {
+     "id": "dagger#15",
+     "jp": "青銅によって作られた短剣",
+     "en": "A dagger made of bronze.",
+     "bytes": 24
+    },
+    {
+     "id": "dagger#37",
+     "jp": "マン・ゴーシュ改",
+     "en": "Main Gauche Custom",
+     "bytes": 18
+    },
+    {
+     "id": "dagger#140",
+     "jp": "最大値（短剣）",
+     "en": "Max Value (Dagger)",
+     "bytes": 18
+    },
+    {
+     "id": "dagger#72",
+     "jp": "マン・ゴーシュ極",
+     "en": "Main Gauche Max",
+     "bytes": 15
+    },
+    {
+     "id": "dagger#89",
+     "jp": "マシナリーナイフ",
+     "en": "Machinery Knife",
+     "bytes": 15
+    },
+    {
+     "id": "dagger#106",
+     "jp": "海賊の短剣",
+     "en": "Pirate's Dagger",
+     "bytes": 15
+    },
+    {
+     "id": "dagger#56",
+     "jp": "グラディウス改",
+     "en": "Gladius Custom",
+     "bytes": 14
+    },
+    {
+     "id": "dagger#83",
+     "jp": "プラチナナイフ",
+     "en": "Platinum Knife",
+     "bytes": 14
+    },
+    {
+     "id": "dagger#103",
+     "jp": "盗賊のダガー",
+     "en": "Thief's Dagger",
+     "bytes": 14
+    },
+    {
+     "id": "dagger#120",
+     "jp": "天之尾羽張",
+     "en": "Ame-no-Ohabari",
+     "bytes": 14
+    },
+    {
+     "id": "dagger#54",
+     "jp": "ソルジャーナイフ",
+     "en": "Soldier Knife",
+     "bytes": 13
+    },
+    {
+     "id": "dagger#87",
+     "jp": "ブリザードエッジ",
+     "en": "Blizzard Edge",
+     "bytes": 13
+    },
+    {
+     "id": "dagger#112",
+     "jp": "ヴァイキングダガー",
+     "en": "Viking Dagger",
+     "bytes": 13
+    },
+    {
+     "id": "dagger#131",
+     "jp": "サンマ",
+     "en": "Pacific Saury",
+     "bytes": 13
+    },
+    {
+     "id": "dagger#6",
+     "jp": "マスケットナイフ",
+     "en": "Musket Knife",
+     "bytes": 12
+    },
+    {
+     "id": "dagger#14",
+     "jp": "ブロンズナイフ",
+     "en": "Bronze Knife",
+     "bytes": 12
+    },
+    {
+     "id": "dagger#33",
+     "jp": "バトルナイフ",
+     "en": "Battle Knife",
+     "bytes": 12
+    },
+    {
+     "id": "dagger#40",
+     "jp": "ガンナーナイフ",
+     "en": "Gunner Knife",
+     "bytes": 12
+    },
+    {
+     "id": "dagger#46",
+     "jp": "フレイムダガー",
+     "en": "Flame Dagger",
+     "bytes": 12
+    },
+    {
+     "id": "dagger#48",
+     "jp": "シルバーナイフ",
+     "en": "Silver Knife",
+     "bytes": 12
+    },
+    {
+     "id": "dagger#75",
+     "jp": "ハンターナイフ",
+     "en": "Hunter Knife",
+     "bytes": 12
+    },
+    {
+     "id": "dagger#81",
+     "jp": "ブレイズダガー",
+     "en": "Blaze Dagger",
+     "bytes": 12
+    },
+    {
+     "id": "dagger#117",
+     "jp": "出石小刀",
+     "en": "Izushi Knife",
+     "bytes": 12
+    },
+    {
+     "id": "dagger#138",
+     "jp": "メイルブレイカー",
+     "en": "Mail Breaker",
+     "bytes": 12
+    },
+    {
+     "id": "dagger#4",
+     "jp": "マン・ゴーシュ",
+     "en": "Main Gauche",
+     "bytes": 11
+    },
+    {
+     "id": "dagger#12",
+     "jp": "ヒートダガー",
+     "en": "Heat Dagger",
+     "bytes": 11
+    },
+    {
+     "id": "dagger#35",
+     "jp": "ルーンダガー",
+     "en": "Rune Dagger",
+     "bytes": 11
+    },
+    {
+     "id": "dagger#61",
+     "jp": "パワースパイク",
+     "en": "Power Spike",
+     "bytes": 11
+    },
+    {
+     "id": "dagger#70",
+     "jp": "ホーリーダガー",
+     "en": "Holy Dagger",
+     "bytes": 11
+    },
+    {
+     "id": "dagger#91",
+     "jp": "グラディウス極",
+     "en": "Gladius Max",
+     "bytes": 11
+    },
+    {
+     "id": "dagger#94",
+     "jp": "ドラゴンファング",
+     "en": "Dragon Fang",
+     "bytes": 11
+    },
+    {
+     "id": "dagger#139",
+     "jp": "トライアルナイフ",
+     "en": "Trial Knife",
+     "bytes": 11
+    },
+    {
+     "id": "dagger#8",
+     "jp": "ストーンエッジ",
+     "en": "Stone Edge",
+     "bytes": 10
+    },
+    {
+     "id": "dagger#20",
+     "jp": "デュエルナイフ",
+     "en": "Duel Knife",
+     "bytes": 10
+    },
+    {
+     "id": "dagger#42",
+     "jp": "アースエッジ",
+     "en": "Earth Edge",
+     "bytes": 10
+    },
+    {
+     "id": "dagger#59",
+     "jp": "タイガーファング",
+     "en": "Tiger Fang",
+     "bytes": 10
+    },
+    {
+     "id": "dagger#77",
+     "jp": "アトラスエッジ",
+     "en": "Atlas Edge",
+     "bytes": 10
+    },
+    {
+     "id": "dagger#85",
+     "jp": "ゴーストクリス",
+     "en": "Ghost Kris",
+     "bytes": 10
+    },
+    {
+     "id": "dagger#96",
+     "jp": "ボーンスパイク",
+     "en": "Bone Spike",
+     "bytes": 10
+    },
+    {
+     "id": "dagger#18",
+     "jp": "クールエッジ",
+     "en": "Cool Edge",
+     "bytes": 9
+    },
+    {
+     "id": "dagger#26",
+     "jp": "チンクエディア",
+     "en": "Cinquedea",
+     "bytes": 9
+    },
+    {
+     "id": "dagger#31",
+     "jp": "ツインエッジ",
+     "en": "Twin Edge",
+     "bytes": 9
+    },
+    {
+     "id": "dagger#44",
+     "jp": "ルーンダーク",
+     "en": "Rune Dirk",
+     "bytes": 9
+    },
+    {
+     "id": "dagger#50",
+     "jp": "ボーンクリス",
+     "en": "Bone Kris",
+     "bytes": 9
+    },
+    {
+     "id": "dagger#66",
+     "jp": "デュアルエッジ",
+     "en": "Dual Edge",
+     "bytes": 9
+    },
+    {
+     "id": "dagger#68",
+     "jp": "ウォーナイフ",
+     "en": "War Knife",
+     "bytes": 9
+    },
+    {
+     "id": "dagger#79",
+     "jp": "ホーリーダーク",
+     "en": "Holy Dirk",
+     "bytes": 9
+    },
+    {
+     "id": "dagger#101",
+     "jp": "ツヴァイエッジ",
+     "en": "Zwei Edge",
+     "bytes": 9
+    },
+    {
+     "id": "dagger#114",
+     "jp": "壺切",
+     "en": "Tsubokiri",
+     "bytes": 9
+    },
+    {
+     "id": "dagger#126",
+     "jp": "うちわ",
+     "en": "Round Fan",
+     "bytes": 9
+    },
+    {
+     "id": "dagger#135",
+     "jp": "滅鬼丸",
+     "en": "Mekkimaru",
+     "bytes": 9
+    },
+    {
+     "id": "dagger#24",
+     "jp": "スティレット",
+     "en": "Stiletto",
+     "bytes": 8
+    },
+    {
+     "id": "dagger#52",
+     "jp": "アイスエッジ",
+     "en": "Ice Edge",
+     "bytes": 8
+    },
+    {
+     "id": "dagger#129",
+     "jp": "フランスパン",
+     "en": "Baguette",
+     "bytes": 8
+    },
+    {
+     "id": "dagger#22",
+     "jp": "グラディウス",
+     "en": "Gladius",
+     "bytes": 7
+    },
+    {
+     "id": "dagger#28",
+     "jp": "淡雪",
+     "en": "Awayuki",
+     "bytes": 7
+    },
+    {
+     "id": "dagger#63",
+     "jp": "覆水",
+     "en": "Fukusui",
+     "bytes": 7
+    },
+    {
+     "id": "dagger#123",
+     "jp": "千鳥",
+     "en": "Chidori",
+     "bytes": 7
+    },
+    {
+     "id": "dagger#133",
+     "jp": "アトワイト",
+     "en": "Atwight",
+     "bytes": 7
+    },
+    {
+     "id": "dagger#2",
+     "jp": "ダガー",
+     "en": "Dagger",
+     "bytes": 6
+    },
+    {
+     "id": "dagger#98",
+     "jp": "如水",
+     "en": "Nyosui",
+     "bytes": 6
+    },
+    {
+     "id": "dagger#0",
+     "jp": "ナイフ",
+     "en": "Knife",
+     "bytes": 5
+    },
+    {
+     "id": "dagger#10",
+     "jp": "ダーク",
+     "en": "Dirk",
+     "bytes": 4
+    },
+    {
+     "id": "dagger#16",
+     "jp": "クリス",
+     "en": "Kris",
+     "bytes": 4
+    }
+   ]
+  },
+  "axe": {
+   "arena_bytes": 3125,
+   "pool_atual_bytes": 3509,
+   "folga_atual": -384,
+   "meta_bytes_a_cortar": 634,
+   "itens": [
+    {
+     "id": "axe#38",
+     "jp": "単眼巨人三兄弟の次男ステロペースの名を冠する斧",
+     "en": "An axe bearing the name of Steropes, second of the three cyclops brothers.",
+     "bytes": 74
+    },
+    {
+     "id": "axe#5",
+     "jp": "妖精ノッカーが製法を伝えたとされる斧",
+     "en": "An axe whose crafting method was said to be taught by the faerie Knocker.",
+     "bytes": 73
+    },
+    {
+     "id": "axe#9",
+     "jp": "単眼巨人三兄弟の三男アルゲースの名を冠する斧",
+     "en": "An axe bearing the name of Arges, youngest of the three cyclops brothers.",
+     "bytes": 73
+    },
+    {
+     "id": "axe#70",
+     "jp": "単眼巨人三兄弟の長男ブロンテースの名を冠する斧",
+     "en": "An axe bearing the name of Brontes, eldest of the three cyclops brothers.",
+     "bytes": 73
+    },
+    {
+     "id": "axe#33",
+     "jp": "妖精コボルトが製法を伝えたとされる斧",
+     "en": "An axe whose crafting method was said to be taught by the faerie Kobold.",
+     "bytes": 72
+    },
+    {
+     "id": "axe#65",
+     "jp": "妖精ブキオドが製法を伝えたとされる斧",
+     "en": "An axe whose crafting method was said to be taught by the faerie Bukiod.",
+     "bytes": 72
+    },
+    {
+     "id": "axe#48",
+     "jp": "とても大柄な斧。生半可な力では使えない",
+     "en": "An extremely massive axe. Cannot be wielded with half-hearted strength.",
+     "bytes": 71
+    },
+    {
+     "id": "axe#50",
+     "jp": "万物の激しい質を知る者が扱う斧",
+     "en": "An axe wielded by one who knows the passionate quality of all creation.",
+     "bytes": 71
+    },
+    {
+     "id": "axe#99",
+     "jp": "伝説の竜をも引き裂く力を秘めた斧",
+     "en": "An axe harboring power capable of tearing even legendary dragons apart.",
+     "bytes": 71
+    },
+    {
+     "id": "axe#103",
+     "jp": "雷神トールが愛用していた「打ち砕くもの」という意味を持つ鎚",
+     "en": "A hammer favored by the thunder god Thor, meaning 'that which smashes.'",
+     "bytes": 71
+    },
+    {
+     "id": "axe#105",
+     "jp": "迷宮に潜む獣人が使用していたとされる斧",
+     "en": "An axe said to have been used by the beastman lurking in labyrinths.",
+     "bytes": 68
+    },
+    {
+     "id": "axe#19",
+     "jp": "万物の闇い質を知る者が扱う斧",
+     "en": "An axe wielded by one who knows the dark quality of all creation.",
+     "bytes": 65
+    },
+    {
+     "id": "axe#57",
+     "jp": "切れ味を増した大小二枚刃の斧",
+     "en": "An axe with large and small blades featuring increased sharpness.",
+     "bytes": 65
+    },
+    {
+     "id": "axe#82",
+     "jp": "万物の純粋な質を知る者が扱う斧",
+     "en": "An axe wielded by one who knows the pure quality of all creation.",
+     "bytes": 65
+    },
+    {
+     "id": "axe#11",
+     "jp": "ある部族の神カラリワリに選ばれた戦士が手にする斧",
+     "en": "An axe wielded by warriors chosen by a tribe's god, Kalariwari.",
+     "bytes": 63
+    },
+    {
+     "id": "axe#72",
+     "jp": "ある部族の神ティラワハットに選ばれた戦士が手にする斧",
+     "en": "An axe wielded by warriors chosen by a tribe's god, Tirawahat.",
+     "bytes": 62
+    },
+    {
+     "id": "axe#17",
+     "jp": "大柄な斧。生半可な力では使えない",
+     "en": "A massive axe. Cannot be wielded with half-hearted strength.",
+     "bytes": 60
+    },
+    {
+     "id": "axe#59",
+     "jp": "魔物をも畏怖させる大鬼の面を持つハンマー",
+     "en": "A hammer with an ogre visage that intimidates even monsters.",
+     "bytes": 60
+    },
+    {
+     "id": "axe#114",
+     "jp": "ＴＯＤ、ＴＯＤ２に登場したバルバトスが本作で装備している武器",
+     "en": "Weapon equipped in this title by Barbatos from TOD and TOD2.",
+     "bytes": 60
+    },
+    {
+     "id": "axe#40",
+     "jp": "ある部族の神シャクラに選ばれた戦士が手にする斧",
+     "en": "An axe wielded by warriors chosen by a tribe's god, Shakra.",
+     "bytes": 59
+    },
+    {
+     "id": "axe#110",
+     "jp": "節分のマト役を演じる事が出来ます",
+     "en": "Allows you to play the role of the target during Setsubun.",
+     "bytes": 58
+    },
+    {
+     "id": "axe#91",
+     "jp": "見た者は逃げ出したくなる形相の面を持つハンマー",
+     "en": "A hammer with a visage so frightful it makes anyone flee.",
+     "bytes": 57
+    },
+    {
+     "id": "axe#101",
+     "jp": "その昔、伝説の悪魔が使っていた斧",
+     "en": "An axe once used by a legendary demon in ancient times.",
+     "bytes": 55
+    },
+    {
+     "id": "axe#25",
+     "jp": "大小二つの刃を持った斧",
+     "en": "An axe possessing two blades, one large and one small.",
+     "bytes": 54
+    },
+    {
+     "id": "axe#94",
+     "jp": "ディセンダーと認められた戦士専用の斧",
+     "en": "An axe exclusive to warriors recognized as Descenders.",
+     "bytes": 54
+    },
+    {
+     "id": "axe#97",
+     "jp": "ディセンダーの為に作られた戦士専用の斧",
+     "en": "An axe crafted for warriors recognized as Descenders.",
+     "bytes": 53
+    },
+    {
+     "id": "axe#89",
+     "jp": "伝説の名斧の名を冠する斧",
+     "en": "An axe bearing the name of a legendary renowned axe.",
+     "bytes": 52
+    },
+    {
+     "id": "axe#3",
+     "jp": "杭打ちなどの工事に使用される槌",
+     "en": "A mallet used in construction such as pile driving.",
+     "bytes": 51
+    },
+    {
+     "id": "axe#21",
+     "jp": "イニシエの王国で英雄に贈られたピック",
+     "en": "A pick bestowed upon heroes in an ancient kingdom.",
+     "bytes": 50
+    },
+    {
+     "id": "axe#112",
+     "jp": "ＴＯＳに登場したプレセアが本作で装備している武器",
+     "en": "Weapon equipped in this title by Presea from TOS.",
+     "bytes": 49
+    },
+    {
+     "id": "axe#7",
+     "jp": "その昔は投擲用として用いられた斧",
+     "en": "An axe used as a throwing weapon in days of old.",
+     "bytes": 48
+    },
+    {
+     "id": "axe#15",
+     "jp": "アックスビークを彷彿とさせる刃を持つ斧",
+     "en": "An axe with a blade reminiscent of an axe beak.",
+     "bytes": 47
+    },
+    {
+     "id": "axe#84",
+     "jp": "城攻めの兵隊に支給されていたピック",
+     "en": "A pick issued to soldiers during castle sieges.",
+     "bytes": 47
+    },
+    {
+     "id": "axe#116",
+     "jp": "ＴＯＬに登場したウィルが本作で装備している武器",
+     "en": "Weapon equipped in this title by Will from TOL.",
+     "bytes": 47
+    },
+    {
+     "id": "axe#87",
+     "jp": "ニードルハンマー改を改良した槌",
+     "en": "A mallet modified from a needle hammer custom.",
+     "bytes": 46
+    },
+    {
+     "id": "axe#27",
+     "jp": "鬼の顔があしらわれたハンマー",
+     "en": "A hammer adorned with the face of an ogre.",
+     "bytes": 42
+    },
+    {
+     "id": "axe#31",
+     "jp": "戦闘用に処理が施された槌",
+     "en": "A mallet treated specifically for combat.",
+     "bytes": 41
+    },
+    {
+     "id": "axe#75",
+     "jp": "ニードルアクス改を改良した斧",
+     "en": "An axe modified from a needle axe custom.",
+     "bytes": 41
+    },
+    {
+     "id": "axe#107",
+     "jp": "これを振っても技は出ません",
+     "en": "Swinging this will not unleash any artes.",
+     "bytes": 41
+    },
+    {
+     "id": "axe#68",
+     "jp": "フランシスカ改を改良した斧",
+     "en": "An axe modified from a francisca custom.",
+     "bytes": 40
+    },
+    {
+     "id": "axe#29",
+     "jp": "戦闘用に処理が施された斧",
+     "en": "An axe treated specifically for combat.",
+     "bytes": 39
+    },
+    {
+     "id": "axe#52",
+     "jp": "戦闘向きに処理が施されたピック",
+     "en": "A pick treated specifically for combat.",
+     "bytes": 39
+    },
+    {
+     "id": "axe#55",
+     "jp": "ニードルハンマーを改良した槌",
+     "en": "A mallet modified from a needle hammer.",
+     "bytes": 39
+    },
+    {
+     "id": "axe#63",
+     "jp": "戦時中に兵士に支給された槌",
+     "en": "A mallet issued to soldiers in wartime.",
+     "bytes": 39
+    },
+    {
+     "id": "axe#78",
+     "jp": "ビークアクス改を改良した斧",
+     "en": "An axe modified from a beak axe custom.",
+     "bytes": 39
+    },
+    {
+     "id": "axe#61",
+     "jp": "戦時中に兵士に支給された斧",
+     "en": "An axe issued to soldiers in wartime.",
+     "bytes": 37
+    },
+    {
+     "id": "axe#1",
+     "jp": "主に伐採に使用される斧",
+     "en": "An axe primarily used for logging.",
+     "bytes": 34
+    },
+    {
+     "id": "axe#43",
+     "jp": "ニードルアクスを改良した斧",
+     "en": "An axe modified from a needle axe.",
+     "bytes": 34
+    },
+    {
+     "id": "axe#36",
+     "jp": "フランシスカを改良した斧",
+     "en": "An axe modified from a francisca.",
+     "bytes": 33
+    },
+    {
+     "id": "axe#46",
+     "jp": "ビークアクスを改良した斧",
+     "en": "An axe modified from a beak axe.",
+     "bytes": 32
+    },
+    {
+     "id": "axe#80",
+     "jp": "古代様式の斧",
+     "en": "An axe crafted in ancient style.",
+     "bytes": 32
+    },
+    {
+     "id": "axe#13",
+     "jp": "スパイク状の刃を持つ斧",
+     "en": "An axe with a spike-like blade.",
+     "bytes": 31
+    },
+    {
+     "id": "axe#23",
+     "jp": "トゲが付いた鉄球状の槌",
+     "en": "A spiked, iron-ball mallet.",
+     "bytes": 27
+    },
+    {
+     "id": "axe#53",
+     "jp": "ニードルハンマー改",
+     "en": "Needle Hammer Custom",
+     "bytes": 20
+    },
+    {
+     "id": "axe#41",
+     "jp": "ニードルアクス改",
+     "en": "Needle Axe Custom",
+     "bytes": 17
+    },
+    {
+     "id": "axe#85",
+     "jp": "ニードルハンマー極",
+     "en": "Needle Hammer Max",
+     "bytes": 17
+    },
+    {
+     "id": "axe#34",
+     "jp": "フランシスカ改",
+     "en": "Francisca Custom",
+     "bytes": 16
+    },
+    {
+     "id": "axe#106",
+     "jp": "ピコピコハンマー",
+     "en": "Piko Piko Hammer",
+     "bytes": 16
+    },
+    {
+     "id": "axe#108",
+     "jp": "鬼の金棒",
+     "en": "Ogre's Iron Club",
+     "bytes": 16
+    },
+    {
+     "id": "axe#44",
+     "jp": "ビークアクス改",
+     "en": "Beak Axe Custom",
+     "bytes": 15
+    },
+    {
+     "id": "axe#115",
+     "jp": "モフモフハンマー",
+     "en": "Mofumofu Hammer",
+     "bytes": 15
+    },
+    {
+     "id": "axe#120",
+     "jp": "最大値（斧）",
+     "en": "Max Value (Axe)",
+     "bytes": 15
+    },
+    {
+     "id": "axe#10",
+     "jp": "カラリワリアクス",
+     "en": "Kalariwari Axe",
+     "bytes": 14
+    },
+    {
+     "id": "axe#73",
+     "jp": "ニードルアクス極",
+     "en": "Needle Axe Max",
+     "bytes": 14
+    },
+    {
+     "id": "axe#22",
+     "jp": "ニードルハンマー",
+     "en": "Needle Hammer",
+     "bytes": 13
+    },
+    {
+     "id": "axe#24",
+     "jp": "ツインエッジアクス",
+     "en": "Twin Edge Axe",
+     "bytes": 13
+    },
+    {
+     "id": "axe#26",
+     "jp": "ゴブリンハンマー",
+     "en": "Goblin Hammer",
+     "bytes": 13
+    },
+    {
+     "id": "axe#30",
+     "jp": "バトルハンマー",
+     "en": "Battle Hammer",
+     "bytes": 13
+    },
+    {
+     "id": "axe#56",
+     "jp": "デュアルエッジアクス",
+     "en": "Dual Edge Axe",
+     "bytes": 13
+    },
+    {
+     "id": "axe#58",
+     "jp": "オーキッシュハンマー",
+     "en": "Orkish Hammer",
+     "bytes": 13
+    },
+    {
+     "id": "axe#66",
+     "jp": "フランシスカ極",
+     "en": "Francisca Max",
+     "bytes": 13
+    },
+    {
+     "id": "axe#71",
+     "jp": "ティラワハットアクス",
+     "en": "Tirawahat Axe",
+     "bytes": 13
+    },
+    {
+     "id": "axe#92",
+     "jp": "戦士の斧",
+     "en": "Warrior's Axe",
+     "bytes": 13
+    },
+    {
+     "id": "axe#95",
+     "jp": "闘士の斧",
+     "en": "Fighter's Axe",
+     "bytes": 13
+    },
+    {
+     "id": "axe#113",
+     "jp": "ディアボリックファング",
+     "en": "Diabolic Fang",
+     "bytes": 13
+    },
+    {
+     "id": "axe#76",
+     "jp": "ビークアクス極",
+     "en": "Beak Axe Max",
+     "bytes": 12
+    },
+    {
+     "id": "axe#98",
+     "jp": "バハムートティア",
+     "en": "Bahamut Tear",
+     "bytes": 12
+    },
+    {
+     "id": "axe#111",
+     "jp": "ガイアクリーヴァー",
+     "en": "Gaia Cleaver",
+     "bytes": 12
+    },
+    {
+     "id": "axe#4",
+     "jp": "ノッカーアクス",
+     "en": "Knocker Axe",
+     "bytes": 11
+    },
+    {
+     "id": "axe#51",
+     "jp": "バトルピック",
+     "en": "Battle Pick",
+     "bytes": 11
+    },
+    {
+     "id": "axe#79",
+     "jp": "エンシェントアクス",
+     "en": "Ancient Axe",
+     "bytes": 11
+    },
+    {
+     "id": "axe#88",
+     "jp": "ラビリントス",
+     "en": "Labyrinthos",
+     "bytes": 11
+    },
+    {
+     "id": "axe#90",
+     "jp": "オーガハンマー",
+     "en": "Ogre Hammer",
+     "bytes": 11
+    },
+    {
+     "id": "axe#12",
+     "jp": "ニードルアクス",
+     "en": "Needle Axe",
+     "bytes": 10
+    },
+    {
+     "id": "axe#32",
+     "jp": "コボルトアクス",
+     "en": "Kobold Axe",
+     "bytes": 10
+    },
+    {
+     "id": "axe#39",
+     "jp": "シャクラアクス",
+     "en": "Shakra Axe",
+     "bytes": 10
+    },
+    {
+     "id": "axe#62",
+     "jp": "ウォーハンマー",
+     "en": "War Hammer",
+     "bytes": 10
+    },
+    {
+     "id": "axe#64",
+     "jp": "ブキオドアクス",
+     "en": "Bukiod Axe",
+     "bytes": 10
+    },
+    {
+     "id": "axe#81",
+     "jp": "サットヴァアクス",
+     "en": "Sattva Axe",
+     "bytes": 10
+    },
+    {
+     "id": "axe#6",
+     "jp": "フランシスカ",
+     "en": "Francisca",
+     "bytes": 9
+    },
+    {
+     "id": "axe#18",
+     "jp": "タマスアクス",
+     "en": "Tamas Axe",
+     "bytes": 9
+    },
+    {
+     "id": "axe#20",
+     "jp": "デュエルピック",
+     "en": "Duel Pick",
+     "bytes": 9
+    },
+    {
+     "id": "axe#28",
+     "jp": "バトルアクス",
+     "en": "Battleaxe",
+     "bytes": 9
+    },
+    {
+     "id": "axe#47",
+     "jp": "ジャイアントアクス",
+     "en": "Giant Axe",
+     "bytes": 9
+    },
+    {
+     "id": "axe#49",
+     "jp": "ラジャスアクス",
+     "en": "Rajas Axe",
+     "bytes": 9
+    },
+    {
+     "id": "axe#119",
+     "jp": "トライアルアクス",
+     "en": "Trial Axe",
+     "bytes": 9
+    },
+    {
+     "id": "axe#14",
+     "jp": "ビークアクス",
+     "en": "Beak Axe",
+     "bytes": 8
+    },
+    {
+     "id": "axe#16",
+     "jp": "グレートアクス",
+     "en": "Greataxe",
+     "bytes": 8
+    },
+    {
+     "id": "axe#37",
+     "jp": "ステロペース",
+     "en": "Steropes",
+     "bytes": 8
+    },
+    {
+     "id": "axe#83",
+     "jp": "ウォーピック",
+     "en": "War Pick",
+     "bytes": 8
+    },
+    {
+     "id": "axe#104",
+     "jp": "ミノタウロス",
+     "en": "Minotaur",
+     "bytes": 8
+    },
+    {
+     "id": "axe#60",
+     "jp": "ウォーアクス",
+     "en": "War Axe",
+     "bytes": 7
+    },
+    {
+     "id": "axe#69",
+     "jp": "ブロンテース",
+     "en": "Brontes",
+     "bytes": 7
+    },
+    {
+     "id": "axe#102",
+     "jp": "ミョルニル",
+     "en": "Mjolnir",
+     "bytes": 7
+    },
+    {
+     "id": "axe#2",
+     "jp": "ハンマー",
+     "en": "Hammer",
+     "bytes": 6
+    },
+    {
+     "id": "axe#100",
+     "jp": "ディアブロ",
+     "en": "Diablo",
+     "bytes": 6
+    },
+    {
+     "id": "axe#117",
+     "jp": "烙陽",
+     "en": "Rakuyo",
+     "bytes": 6
+    },
+    {
+     "id": "axe#8",
+     "jp": "アルゲース",
+     "en": "Arges",
+     "bytes": 5
+    },
+    {
+     "id": "axe#0",
+     "jp": "アクス",
+     "en": "Axe",
+     "bytes": 3
+    }
+   ]
+  }
+ }
+}

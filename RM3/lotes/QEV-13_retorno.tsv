@@ -1,0 +1,140 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev13_010.scr:0	qev13_010.scr	0	イリア	Iria Animi	personagem	CRLF x1	何それ。\nどういう意味よっ？	What's that supposed to mean?\nExplain yourself!	
+qev13_010.scr:1	qev13_010.scr	1	ルカ	Ruca Milda	personagem	CRLF x2	だ、だから……。\n僕がここにいる事で、\n余計に君に迷惑をかけないかって……	I-I mean...\nDoesn't me being here with you\njust cause you more trouble...?	
+qev13_010.scr:2	qev13_010.scr	2	イリア	Iria Animi	personagem		はぁ？	Huh?	
+qev13_010.scr:3	qev13_010.scr	3	イリア	Iria Animi	personagem	CRLF x1	あたしが一度でもそんなコト言った？\n言ってないでしょ？	Have I ever said anything like that?\nNo, I haven't!	
+qev13_010.scr:4	qev13_010.scr	4	ルカ	Ruca Milda	personagem	CRLF x1	それは……多分、\n僕に気を遣って……	That's... probably because\nyou're just being considerate...	
+qev13_010.scr:5	qev13_010.scr	5	イリア	Iria Animi	personagem		あ〜〜も〜〜〜〜いいッッ！	Agh, whatever! Enough!	
+qev13_010.scr:6	qev13_010.scr	6	イリア	Iria Animi	personagem	CRLF x2	そう思いたいなら思ってれば？\nで、勝手にどこにでも\n行っちゃいなさいよ！	Think whatever you want!\nGo wherever you please,\nI don't care anymore!	
+qev13_010.scr:7	qev13_010.scr	7	イリア	Iria Animi	personagem		ルカのばか！　ばーかばーか！！	Ruca, you idiot! Stupid, stupid!	
+qev13_010.scr:8	qev13_010.scr	8	スパーダ	Spada Belforma	personagem	CRLF x1	お前さァ……。\nありゃ、どー考えたってマズイだろ……	Man...\nEither way you look at it, that was bad.	
+qev13_010.scr:9	qev13_010.scr	9	ルカ	Ruca Milda	personagem	CRLF x1	だって……、イリアはいつも\n僕といるとイライラしてるみたいなんだ	But... it always seems like Iria\nis annoyed whenever she's with me.	
+qev13_010.scr:10	qev13_010.scr	10	ルカ	Ruca Milda	personagem	CRLF x2	迷惑ばかりかけて……、\n嫌な思いさせて……、\n僕……	I just cause her trouble...\nMake her feel miserable...\nI...	
+qev13_010.scr:11	qev13_010.scr	11	スパーダ	Spada Belforma	personagem		…………	...	
+qev13_010.scr:12	qev13_010.scr	12	スパーダ	Spada Belforma	personagem	CRLF x1	（見てらんねェぜ、コリャ……。\n　どうすっかな……）	(I can't just stand here and watch this...\nWhat should I do?)	
+qev13_010.scr:13	qev13_010.scr	13	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「じれったい二人」が\nエントリーされました。\nスパーダから受ける事が出来ます	The quest 'Irritating Pair'\nhas been added.\nYou can accept it from Spada.	
+qev13_020.scr:0	qev13_020.scr	0	スパーダ	Spada Belforma	personagem		悪ィ、オレに協力してくんねェか？	My bad, mind giving me a hand?	
+qev13_020.scr:1	qev13_020.scr	1	スパーダ	Spada Belforma	personagem	CRLF x2	あの二人……ルカとイリアなんだけどよ、\n傍から見ててキレそうになるくらい\nじれったくてよォ……	Those two... Ruca and Iria.\nWatching them is so frustrating,\nit's driving me crazy...	
+qev13_020.scr:2	qev13_020.scr	2	スパーダ	Spada Belforma	personagem	CRLF x1	ここらで一旦、無理やりにでも\n互いにぶっちゃけ合うってェの？	We need to force them\nto spill their guts to each other.	
+qev13_020.scr:3	qev13_020.scr	3	スパーダ	Spada Belforma	personagem	CRLF x1	そういう機会を作ってやんねえと、\nどうにもなんねぇ予感がしてよ	If we don't set something up,\nI got a feeling this'll go nowhere.	
+qev13_020.scr:4	qev13_020.scr	4	スパーダ	Spada Belforma	personagem	CRLF x2	ま、そういうわけで\n○○の\n演技力には期待してるぜ？	So, with that in mind...\nI'm counting on your\nacting skills, got it, ○○?	
+qev13_020.scr:5	qev13_020.scr	5	スパーダ	Spada Belforma	personagem	CRLF x1	オレがヤバくなったら、\nバッチリ陰からサポートしろよ！	If things start going south,\nmake sure you back me up from the shadows!	
+qev13_020.scr:6	qev13_020.scr	6	スパーダ	Spada Belforma	personagem	CRLF x1	んじゃ、オレが適当言って\nあの二人を連れてくるから	Alright, I'll go make up some excuse\nto bring those two along.	
+qev13_020.scr:7	qev13_020.scr	7	スパーダ	Spada Belforma	personagem		さっさと出発しちまおーぜ！	Let's get going already!	
+qev13_030.scr:0	qev13_030.scr	0	イリア	Iria Animi	personagem		あー、だる……	Ugh, so annoying...	
+qev13_030.scr:1	qev13_030.scr	1	イリア	Iria Animi	personagem	CRLF x1	魔物退治くらい、あんたらだけで\nどーにかなるんじゃないのォ？	You guys could handle\na simple monster hunt on your own, right?	
+qev13_030.scr:2	qev13_030.scr	2	イリア	Iria Animi	personagem	CRLF x2	何であたしまで……。\n何か、余計なオマケまで\n付いて来ちゃってるみたいだし〜？	Why do I have to come...?\nAnd it looks like we brought along\nsome useless dead weight, too.	
+qev13_030.scr:3	qev13_030.scr	3	ルカ	Ruca Milda	personagem		…………	...	
+qev13_030.scr:4	qev13_030.scr	4	スパーダ	Spada Belforma	personagem	CRLF x1	まァ、そう言うなって。\n噂じゃ、なかなかに手強い魔物らしいぜ？	Come on, don't say that.\nRumor has it this one's pretty tough.	
+qev13_030.scr:5	qev13_030.scr	5	スパーダ	Spada Belforma	personagem	CRLF x1	やっぱ、戦力は一人でも多い方が\nいいだろ？　なっ	It's better to have as many fighters\nas possible, right?	
+qev13_030.scr:6	qev13_030.scr	6	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev13_030.scr:7	qev13_030.scr	7	ルカ	Ruca Milda	personagem	CRLF x1	僕なんかがいて……、\n余計足手まといにならないかな……？	I'm here...\nWon't I just be a burden to everyone...?	
+qev13_030.scr:8	qev13_030.scr	8	イリア	Iria Animi	personagem		そうですわよねぇ〜〜	That's exactly right.	
+qev13_030.scr:9	qev13_030.scr	9	イリア	Iria Animi	personagem	CRLF x2	ルカちゃまはお部屋に篭もって、\nお勉強でもされてた方が\nよろしかったんじゃありませんこと〜〜？	Wouldn't it be better if\nlittle Ruca stayed locked in his room\nstudying instead of bothering us?	
+qev13_030.scr:10	qev13_030.scr	10	ルカ	Ruca Milda	personagem		…………	...	
+qev13_030.scr:11	qev13_030.scr	11	スパーダ	Spada Belforma	personagem	CRLF x2	だーッ。\nもう、こんな入口で\nウダウダすんのはやめだッ！	Gah!\nEnough standing around the entrance\ncomplaining about this!	
+qev13_030.scr:12	qev13_030.scr	12	スパーダ	Spada Belforma	personagem		とっとと先に進もうぜ！	Let's just keep moving forward!	
+qev13_040.scr:0	qev13_040.scr	0	ルカ	Ruca Milda	personagem		…………	...	
+qev13_040.scr:1	qev13_040.scr	1	スパーダ	Spada Belforma	personagem	CRLF x1	ったく、いつまで\nシケた面してンだよッ！	Jeez, how long are you gonna\nkeep that gloomy look on your face!?	
+qev13_040.scr:2	qev13_040.scr	2	スパーダ	Spada Belforma	personagem	CRLF x2	お前がウジウジしてっから、\nいつまでもイリアと\n仲直り出来ねェんだろーが	Because you're always whining,\nyou'll never be able to\nmake up with Iria.	
+qev13_040.scr:3	qev13_040.scr	3	ルカ	Ruca Milda	personagem	CRLF x1	……そうだよね……。\nどうせ、僕なんて……	...You're right...\nI'm just useless, anyway...	
+qev13_040.scr:4	qev13_040.scr	4	ルカ	Ruca Milda	personagem		ううっ、グス……	Ugh... sniff...	
+qev13_040.scr:5	qev13_040.scr	5	スパーダ	Spada Belforma	personagem	CRLF x1	ああ、悪ィ……。\n今のはちっと、言い方が悪かった	Ah, my bad...\nI phrased that poorly just now.	
+qev13_040.scr:6	qev13_040.scr	6	スパーダ	Spada Belforma	personagem	CRLF x2	要するに、だ。\nどーすりゃいいかなんて、\n実はすげェ簡単なコトだっつー話	Basically.\nFiguring out what to do\nis actually a really simple thing.	
+qev13_040.scr:7	qev13_040.scr	7	スパーダ	Spada Belforma	personagem	CRLF x1	お前さ、ビビり過ぎ。\nイリアにも、誰に対してもよ	You're way too scared.\nOf Iria, and of everyone else.	
+qev13_040.scr:8	qev13_040.scr	8	スパーダ	Spada Belforma	personagem	CRLF x1	相手の目を気にし過ぎて、\nかえって空回りしてるっつーか	You care too much about what others think,\nwhich just ends up making you spin tires.	
+qev13_040.scr:9	qev13_040.scr	9	スパーダ	Spada Belforma	personagem	CRLF x1	思われても言われてもねェコトを\n勝手に自分で作り上げちまってる	You're making up things in your head\nthat no one ever said or thought.	
+qev13_040.scr:10	qev13_040.scr	10	スパーダ	Spada Belforma	personagem	CRLF x1	それが、\n全部の元凶なんじゃねーか？	Isn't that\nthe root of all your problems?	
+qev13_040.scr:11	qev13_040.scr	11	ルカ	Ruca Milda	personagem	CRLF x1	そう……かな？\nだって……	Is that... so?\nBut...	
+qev13_040.scr:12	qev13_040.scr	12	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev13_040.scr:13	qev13_040.scr	13	ルカ	Ruca Milda	personagem	CRLF x1	うん……。\n言われてる意味はわかるよ？	Yeah...\nI understand what you're saying.	
+qev13_040.scr:14	qev13_040.scr	14	ルカ	Ruca Milda	personagem		でも……	But...	
+qev13_040.scr:15	qev13_040.scr	15	スパーダ	Spada Belforma	personagem		でもも、ヘチマもねェ！	No buts!	
+qev13_040.scr:16	qev13_040.scr	16	ルカ	Ruca Milda	personagem		ひっ！！	Eek!!	
+qev13_040.scr:17	qev13_040.scr	17	スパーダ	Spada Belforma	personagem	CRLF x1	いいから、そのウジウジを\n今すぐやめな！	Just stop that moping\nright this instant!	
+qev13_040.scr:18	qev13_040.scr	18	スパーダ	Spada Belforma	personagem	CRLF x1	んで、気になる事があンなら\n本人に聞くなりなんなりしろ	And if you're worried about something,\nask the person directly.	
+qev13_040.scr:19	qev13_040.scr	19	ルカ	Ruca Milda	personagem		…………	...	
+qev13_040.scr:20	qev13_040.scr	20	スパーダ	Spada Belforma	personagem		一人であんま、思い詰めんな	Don't bottle it all up by yourself.	
+qev13_040.scr:21	qev13_040.scr	21	スパーダ	Spada Belforma	personagem	CRLF x2	そーいうの、寂しいっつーか\nムカつくだけだぜ。\nこっちはよ	Seeing you do that just makes me\nfeel sad, or rather, it pisses me off.\nUnderstand?	
+qev13_040.scr:22	qev13_040.scr	22	ルカ	Ruca Milda	personagem		スパーダ……	Spada...	
+qev13_040.scr:23	qev13_040.scr	23	ルカ	Ruca Milda	personagem	CRLF x1	どうしたの？\n今日はやけに優しいね	What's gotten into you?\nYou're surprisingly gentle today.	
+qev13_040.scr:24	qev13_040.scr	24	スパーダ	Spada Belforma	personagem		バーカ	Idiot.	
+qev13_040.scr:25	qev13_040.scr	25	スパーダ	Spada Belforma	personagem	CRLF x1	ダチってのはなァ、\nこういう時に助け合うモンなんだよ	Pals are supposed to help each other out\nin times like this.	
+qev13_040.scr:26	qev13_040.scr	26	スパーダ	Spada Belforma	personagem		な？　○○	Right, ○○?	
+qev13_041.scr:0	qev13_041.scr	0	イリア	Iria Animi	personagem	CRLF x1	あー、イライラするったら。\n何なのアイツ！	Argh, he's so irritating!\nWhat's his problem!?	
+qev13_041.scr:1	qev13_041.scr	1	イリア	Iria Animi	personagem	CRLF x1	ウジウジ、めそめそ、\nいじけてばっか	Always moping, whimpering,\nand sulking all the time.	
+qev13_041.scr:2	qev13_041.scr	2	イリア	Iria Animi	personagem	CRLF x2	そのくせ、他の女とは\nデレ〜っと鼻の下伸ばして\nお勉強会なんてやってやがんのよ！	And yet, when he's with other girls,\nhe gets all drooly and mushy,\nhaving stupid study sessions with them!	
+qev13_041.scr:3	qev13_041.scr	3	イリア	Iria Animi	personagem		うぎぃぃ〜〜っ、腹立つゥ〜〜！！	Gaaaaah, it pisses me off!!	
+qev13_041.scr:4	qev13_041.scr	4	スパーダ	Spada Belforma	personagem	CRLF x2	だったらそれ、\nそのまんまルカのヤツに\n言ってやれば良くねェ？	If that's the case,\nwhy don't you just tell\nRuca exactly that?	
+qev13_041.scr:5	qev13_041.scr	5	スパーダ	Spada Belforma	personagem	CRLF x1	「他の女と仲良くしてるのが\n　一番気に入らない」ってよ	Just say, 'I can't stand it when\nyou act friendly with other girls.'	
+qev13_041.scr:6	qev13_041.scr	6	イリア	Iria Animi	personagem	CRLF x1	何よそれ！\nアンタ、あたしをバカにしてんの！？	What is that supposed to mean!?\nAre you making a fool out of me!?	
+qev13_041.scr:7	qev13_041.scr	7	スパーダ	Spada Belforma	personagem	CRLF x1	オイオイ、オレに噛み付くなよ！\nこっちは心配して言ってんだぜ？	Hey, don't snap at me!\nI'm just saying this out of concern.	
+qev13_041.scr:8	qev13_041.scr	8	スパーダ	Spada Belforma	personagem	CRLF x1	お前はいいのかよ。\nルカといつまでも、このまんまでよ？	Are you okay with this?\nStaying like this with Ruca forever?	
+qev13_041.scr:9	qev13_041.scr	9	イリア	Iria Animi	personagem		それは……	Well...	
+qev13_041.scr:10	qev13_041.scr	10	スパーダ	Spada Belforma	personagem	CRLF x1	アイツ、さっきも\nめそめそ泣いてたぜェ？	He was crying over this\njust a minute ago, you know?	
+qev13_041.scr:11	qev13_041.scr	11	スパーダ	Spada Belforma	personagem	CRLF x2	ルカのヤツも相当いじけ虫だがよ、\nお前にももう少し……何だ、その\n別のやり方ってェのがあるんじゃねーの？	Ruca's a total crybaby, but...\ndon't you think you could try,\nI dunno, a different approach?	
+qev13_041.scr:12	qev13_041.scr	12	イリア	Iria Animi	personagem		……別のやり方……	...A different approach...	
+qev13_041.scr:13	qev13_041.scr	13	イリア	Iria Animi	personagem		そうね……、そうかも	Right... maybe you're right.	
+qev13_041.scr:14	qev13_041.scr	14	スパーダ	Spada Belforma	personagem	CRLF x1	おっ。\nわかってくれ……	Oh.\nGlad you underst-	
+qev13_041.scr:15	qev13_041.scr	15	イリア	Iria Animi	personagem	CRLF x1	どうせ見るなら、とっておきの\nルカちゃまの泣き顔が見たいものねェ∀	If I'm gonna see him cry, I want to see\nlittle Ruca's very best crying face!	
+qev13_041.scr:16	qev13_041.scr	16	イリア	Iria Animi	personagem	CRLF x1	中途半端に泣かせてる今の状態は\n確かにもったいないし？	Leaving him half-crying like this\nis definitely a waste, right?	
+qev13_041.scr:17	qev13_041.scr	17	イリア	Iria Animi	personagem	CRLF x2	こりゃ、早急に\n作戦を練る必要があるわね……。\nウヒヒヒヒヒヒヒ	I need to come up with\na strategy right away...\nUhehehehehehe!	
+qev13_041.scr:18	qev13_041.scr	18	スパーダ	Spada Belforma	personagem	CRLF x2	お前……、\nそういう話ンなると\nほんっとイキイキするよなぁ……	Man...\nYou really perk up\nwhen it comes to stuff like this...	
+qev13_050.scr:0	qev13_050.scr	0	スパーダ	Spada Belforma	personagem	CRLF x1	ふう。\nったく、驚かせんじゃねーっての……！	Phew.\nJeez, don't scare me like that...!	
+qev13_050.scr:1	qev13_050.scr	1	イリア	Iria Animi	personagem		ホントよね……	Seriously...	
+qev13_050.scr:2	qev13_050.scr	2	イリア	Iria Animi	personagem		あ、痛つつつつ……	Ow, ow, ow, ow...	
+qev13_050.scr:3	qev13_050.scr	3	ルカ	Ruca Milda	personagem	CRLF x1	イリア、大丈夫？\nどこか痛むの？	Iria, are you okay?\nDoes it hurt somewhere?	
+qev13_050.scr:4	qev13_050.scr	4	イリア	Iria Animi	personagem		あ……あたしは別に……	I... I'm fine...	
+qev13_050.scr:5	qev13_050.scr	5	イリア	Iria Animi	personagem	CRLF x1	それよか、アンタの方が\nよっぽど怪我してんじゃないのよッ！	More importantly, you're\nthe one who's way more hurt!	
+qev13_050.scr:6	qev13_050.scr	6	ルカ	Ruca Milda	personagem	CRLF x1	え……。\nでもこれくらい……何ともないよ	Huh...\nBut this much is... nothing, really.	
+qev13_050.scr:7	qev13_050.scr	7	イリア	Iria Animi	personagem		いーから見せなさいっての！！	Just let me see it!!	
+qev13_050.scr:8	qev13_050.scr	8	イリア	Iria Animi	personagem	CRLF x2	ったく……。\nルカのくせに、\n無茶するんだから……	Geez...\nYou're just Ruca, so stop doing\nsuch reckless things...	
+qev13_050.scr:9	qev13_050.scr	9	ルカ	Ruca Milda	personagem		うん……、ごめん……	Yeah... I'm sorry...	
+qev13_050.scr:10	qev13_050.scr	10	イリア	Iria Animi	personagem	CRLF x1	ば、ばかっ。\n何謝ってんの？	I-Idiot.\nWhat are you apologizing for?	
+qev13_050.scr:11	qev13_050.scr	11	イリア	Iria Animi	personagem		っていうか、むしろ……	I mean, if anything...	
+qev13_050.scr:12	qev13_050.scr	12	イリア	Iria Animi	personagem		…………	...	
+qev13_050.scr:13	qev13_050.scr	13	ルカ	Ruca Milda	personagem		どうしたの……？	What's wrong...?	
+qev13_050.scr:14	qev13_050.scr	14	イリア	Iria Animi	personagem		ルカッ！	Ruca!	
+qev13_050.scr:15	qev13_050.scr	15	ルカ	Ruca Milda	personagem		は、はいっ？	Y-Yes!?	
+qev13_050.scr:16	qev13_050.scr	16	イリア	Iria Animi	personagem		助けてくれて、ありがと！！	Thanks for saving me!!	
+qev13_050.scr:17	qev13_050.scr	17	イリア	Iria Animi	personagem	CRLF x1	だから……、もー謝るのとかやめてよね。\n……お互いサマなんだから	So... stop apologizing already.\n...We're even now.	
+qev13_050.scr:18	qev13_050.scr	18	ルカ	Ruca Milda	personagem		……イリア……	...Iria...	
+qev13_050.scr:19	qev13_050.scr	19	スパーダ	Spada Belforma	personagem	CRLF x1	よくわからねェけど、\nうまくいったみてぇだな？	I don't really get it,\nbut it looks like things worked out, huh?	
+qev13_050.scr:20	qev13_050.scr	20	スパーダ	Spada Belforma	personagem	CRLF x1	一時はどうなるかと思ったけど……。\nま、結果オーライか！	I wasn't sure what'd happen for a bit...\nBut hey, all's well that ends well!	
+qev13_060.scr:0	qev13_060.scr	0	イリア	Iria Animi	personagem		ふーっ、やっと帰ってきたぁ♪	Phew, we're finally back!	
+qev13_060.scr:1	qev13_060.scr	1	ルカ	Ruca Milda	personagem	CRLF x2	うん……。\n何だか、ここに戻ってくると\nちょっと落ち着くね	Yeah...\nSomehow, coming back here\nmakes me feel a bit calmer.	
+qev13_060.scr:2	qev13_060.scr	2	イリア	Iria Animi	personagem	CRLF x2	そーねぇ。\n半分もう、あたし達の\n家みたいなものなのかもね	Yeah.\nIt's practically half like a home\nto us already.	
+qev13_060.scr:3	qev13_060.scr	3	スパーダ	Spada Belforma	personagem		家、か……	A home, huh...	
+qev13_060.scr:4	qev13_060.scr	4	スパーダ	Spada Belforma	personagem	CRLF x2	へへっ。\n悪かァねえなぁ？\nそういうのもよ	Heh.\nNot too shabby, right?\nI could get used to that.	
+qev13_060.scr:5	qev13_060.scr	5	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev13_060.scr:6	qev13_060.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	みんな、ご苦労様。\nその様子だと収穫あったみたいね	Good work, everyone.\nLooks like it was a fruitful trip.	
+qev13_060.scr:7	qev13_060.scr	7	イリア	Iria Animi	personagem	CRLF x1	モチのロンよぉ〜。\n楽勝だって！	Of course it was!\nIt was a piece of cake!	
+qev13_060.scr:8	qev13_060.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	そう。\nそれは良かった	I see.\nThat's wonderful to hear.	
+qev13_060.scr:9	qev13_060.scr	9	アンジュ	Ange Serena	personagem	CRLF x2	それじゃ、早速だけど\n無断外出した理由を\n聞かせてもらってもいい？	Well then, let's get right to it.\nMind explaining why you all sneaked\nout without permission?	
+qev13_060.scr:10	qev13_060.scr	10	ルカ	Ruca Milda	personagem		無断……外出？	Without... permission?	
+qev13_060.scr:11	qev13_060.scr	11	ルカ	Ruca Milda	personagem	CRLF x2	どうして？\nだってスパーダ、\nギルドで正式に受けた依頼って……	Why?\nBut Spada said it was an official\nguild request...	
+qev13_060.scr:12	qev13_060.scr	12	アンジュ	Ange Serena	personagem	CRLF x2	ふうん。\nそう……、スパーダ君はそんな風に\n言ってたのね	Hmm.\nI see... so that is what\nSpada told you.	
+qev13_060.scr:13	qev13_060.scr	13	イリア	Iria Animi	personagem	CRLF x2	って事は……。\nでっちあげの理由で、あたし達を\n外に連れ出したってこと？	Which means...\nHe dragged us out here with a\ncompletely made-up excuse!?	
+qev13_060.scr:14	qev13_060.scr	14	イリア	Iria Animi	personagem	CRLF x1	うぎぃぃいい！　何ソレ！\n騙したってわけ！？	Gaaaaah! What the heck!\nHe tricked us!?	
+qev13_060.scr:15	qev13_060.scr	15	イリア	Iria Animi	personagem		ちょっと、スパーダ！	Hey, Spada!	
+qev13_060.scr:16	qev13_060.scr	16	イリア	Iria Animi	personagem	CRLF x1	っていないし！？\nアイツ……！	He's already gone!?\nThat jerk...!	
+qev13_060.scr:17	qev13_060.scr	17	アンジュ	Ange Serena	personagem	CRLF x1	ウフフ。\n何となく、事情は飲み込めたけど	Hehehe.\nI think I understand the situation, but...	
+qev13_060.scr:18	qev13_060.scr	18	アンジュ	Ange Serena	personagem		……もう、しょうがないなぁ	...Geez, I suppose it can't be helped.	
+qev13_060.scr:19	qev13_060.scr	19	アンジュ	Ange Serena	personagem	CRLF x1	後でたっぷり\nお説教しなくちゃね∀	I'll just have to give him\na thorough lecturing later on.	
+qev13_070.scr:0	qev13_070.scr	0	イリア	Iria Animi	personagem	CRLF x1	この辺に魔物が\n出るって話だったのよね？	Wasn't this where\nthe monsters were supposed to appear?	
+qev13_070.scr:1	qev13_070.scr	1	イリア	Iria Animi	personagem		んで？　どこにいんのよ？	So? Where are they?	
+qev13_070.scr:2	qev13_070.scr	2	ルカ	Ruca Milda	personagem	CRLF x1	い……、いきなりはやっぱり\n出て来ないんじゃないかな……	I... I doubt they'll just\npop out right away...	
+qev13_070.scr:3	qev13_070.scr	3	ルカ	Ruca Milda	personagem	CRLF x2	せめてこう、\n相手の興味を引く事をするとか\nテリトリーを荒らすとかしないと……	We'd have to do something\nto grab their attention, or\nmaybe invade their territory first...	
+qev13_070.scr:4	qev13_070.scr	4	イリア	Iria Animi	personagem	CRLF x1	あそ。\nじゃ、決まりね	I see.\nThen it's decided.	
+qev13_070.scr:5	qev13_070.scr	5	イリア	Iria Animi	personagem		その囮役はルカに決定ー♪	Ruca, you're going to be our decoy!	
+qev13_070.scr:6	qev13_070.scr	6	ルカ	Ruca Milda	personagem	CRLF x1	ええっ！\n何でそうなるのさぁ〜	Eeeh!?\nWhy does it have to be me!?	
+qev13_070.scr:7	qev13_070.scr	7	スパーダ	Spada Belforma	personagem		おい、○○！	Hey, ○○!	
+qev13_070.scr:8	qev13_070.scr	8	スパーダ	Spada Belforma	personagem	CRLF x1	あいつらが話し込んでるスキに、\nこっからずらかるぜ！	Let's get out of here while\nthose two are busy bickering!	
+qev13_070.scr:9	qev13_070.scr	9	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev13_070.scr:10	qev13_070.scr	10	イリア	Iria Animi	personagem		ちょっ、何、今の？	Hey, what was that just now?	
+qev13_070.scr:11	qev13_070.scr	11	ルカ	Ruca Milda	personagem		危ない、イリア！！	Look out, Iria!!	
+qev13_070.scr:12	qev13_070.scr	12	スパーダ	Spada Belforma	personagem	CRLF x1	ンだよ、マジでここは\n化け物の巣だったってか！？	What the hell, was this place seriously\na monster nest all along!?	
+qev13_070.scr:13	qev13_070.scr	13	スパーダ	Spada Belforma	personagem		チックショウ、やるっきゃねえか……	Dammit, guess we have no choice...	
+qev13_070.scr:14	qev13_070.scr	14	スパーダ	Spada Belforma	personagem	CRLF x1	○○、援護頼むぜ！\n遅れんなよ！？	○○, back me up!\nDon't fall behind!?	
+qev13_080.scr:0	qev13_080.scr	0	スパーダ	Spada Belforma	personagem	CRLF x2	へっ、律儀なこった。\nココでオレ達の帰りを\n待ってたってかァ？	Heh, how polite.\nWere you waiting right here\nfor us to come back?	
+qev13_080.scr:1	qev13_080.scr	1	スパーダ	Spada Belforma	personagem	CRLF x1	……上等だぜ！\n覚悟しやがれ！！	...Bring it on!\nGet ready!!	

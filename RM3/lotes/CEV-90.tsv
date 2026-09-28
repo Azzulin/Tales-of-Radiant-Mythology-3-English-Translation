@@ -1,0 +1,271 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev90_010.scr:0	cev90_010.scr	0	リタ	Rita Mordio	personagem	CRLF x1	うーん、ここまで正確かつ細かに\n技術が記してあるものを見れるなんて…		
+cev90_010.scr:1	cev90_010.scr	1	キール	Keele Zeibel	personagem		光気丹術経の事か？		
+cev90_010.scr:2	cev90_010.scr	2	キール	Keele Zeibel	personagem	CRLF x1	ソウルアルケミーの技術書に\n関するものは残っていないのか？		
+cev90_010.scr:3	cev90_010.scr	3	リタ	Rita Mordio	personagem	CRLF x2	あるわ。\nでも、どれもこれも、\nデタラメで嘘ばかり		
+cev90_010.scr:4	cev90_010.scr	4	リタ	Rita Mordio	personagem	CRLF x2	ソウルアルケミーの存在について\n記したものはたくさんあれど、\n実践書ってのは誰も知らないの		
+cev90_010.scr:5	cev90_010.scr	5	キール	Keele Zeibel	personagem	CRLF x1	そいつが、どうしてミブナの里に\n伝わっていたのか…		
+cev90_010.scr:6	cev90_010.scr	6	キール	Keele Zeibel	personagem	CRLF x1	今も細々とソウルアルケミーの使い手が\nいるって事だな		
+cev90_010.scr:7	cev90_010.scr	7	リタ	Rita Mordio	personagem		しいなも、かじってたみたいだし		
+cev90_010.scr:8	cev90_010.scr	8	リタ	Rita Mordio	personagem	CRLF x2	すずみたいな「忍び」が\nカエル出したりってのも\nソウルアルケミーからの派生でしょ		
+cev90_010.scr:9	cev90_010.scr	9	キール	Keele Zeibel	personagem	CRLF x1	しかし、この技術を初めて確立したってのは\nどんな人物なんだろうな		
+cev90_010.scr:10	cev90_010.scr	10	キール	Keele Zeibel	personagem	CRLF x2	名も残っていないから、\nそれこそただのおとぎ話としてしか\n認識していなかったよ…		
+cev90_020.scr:0	cev90_020.scr	0	ルカ	Ruca Milda	personagem	CRLF x2	ねえ、ロックス。\n異類化生記って、どんな話が\n載ってたの？		
+cev90_020.scr:1	cev90_020.scr	1	ロックス	Rocks	personagem	CRLF x2	ほとんどは、悪い事をしたら\nこうなりますよっていう、子どもに聞かせる\n戒めの為のお話が多いですね		
+cev90_020.scr:2	cev90_020.scr	2	ルカ	Ruca Milda	personagem		い、戒め…		
+cev90_020.scr:3	cev90_020.scr	3	ロックス	Rocks	personagem	CRLF x2	盗みを働いた五人の男が捕まって、\nみんな松の木に変えられるって\nお話がありますよ		
+cev90_020.scr:4	cev90_020.scr	4	ロックス	Rocks	personagem	CRLF x2	木になってからは、村に吹き降ろす\n寒い風を受け止めさせられて、\n身体は虫に食いつつかれる		
+cev90_020.scr:5	cev90_020.scr	5	ロックス	Rocks	personagem	CRLF x2	ずっと、ずっと、枯れるまで\nそのまんまで生きなくちゃ\nいけないってお話なんです		
+cev90_020.scr:6	cev90_020.scr	6	ルカ	Ruca Milda	personagem	CRLF x1	ブルブルッ…。\nそれって、ホントの話だったりするのかな		
+cev90_020.scr:7	cev90_020.scr	7	ロックス	Rocks	personagem	CRLF x1	まあ、光気丹術…、ソウルアルケミーを\n使えていた人がいたくらいですから…		
+cev90_020.scr:8	cev90_020.scr	8	ルカ	Ruca Milda	personagem	CRLF x1	イリアとスパーダが、\nソウルアルケミーに興味なくて良かった		
+cev90_020.scr:9	cev90_020.scr	9	ルカ	Ruca Milda	personagem	CRLF x1	使える様になったら、何に姿を\n変えさせられるかわかんないや…		
+cev90_020.scr:10	cev90_020.scr	10	ロックス	Rocks	personagem	CRLF x2	大丈夫ですよ。\nあれは、そうそう扱える技術じゃ\nありません		
+cev90_020.scr:11	cev90_020.scr	11	ロックス	Rocks	personagem	CRLF x1	知識があっても、資質がなくては\nそこまでの事は出来ないと言いますし		
+cev90_020.scr:12	cev90_020.scr	12	ルカ	Ruca Milda	personagem		ふうん、結構詳しいんだね		
+cev90_020.scr:13	cev90_020.scr	13	ロックス	Rocks	personagem	CRLF x2	え…、いえ。\nリタ様の話を聞きかじっただけですよ。\nハハハ…		
+cev90_030.scr:0	cev90_030.scr	0	アーチェ	Arche Klein	personagem	CRLF x2	ヒトのドクメントってさぁ、\n調べると何が\nわかっちゃうわけ？		
+cev90_030.scr:1	cev90_030.scr	1	リタ	Rita Mordio	personagem	CRLF x2	気質とか潜在能力程度なら、\nまあ比較的被験者にダメージを与えず\n調べられるわね		
+cev90_030.scr:2	cev90_030.scr	2	アーチェ	Arche Klein	personagem	CRLF x1	気質はともかく、潜在能力って\nどういう感じでわかるの？		
+cev90_030.scr:3	cev90_030.scr	3	リタ	Rita Mordio	personagem	CRLF x2	肉体的に、どのくらい身長が伸びるか。\n運動力は、どこまでなら伸ばせるとか。\n寿命は幾つまでとか…		
+cev90_030.scr:4	cev90_030.scr	4	リタ	Rita Mordio	personagem	CRLF x1	精神的には、性格の傾向とか、\n焼き付いたトラウマとか…		
+cev90_030.scr:5	cev90_030.scr	5	リタ	Rita Mordio	personagem	CRLF x1	ま、こんな感じで\n基本的な設計データが詰まってるの		
+cev90_030.scr:6	cev90_030.scr	6	リタ	Rita Mordio	personagem	CRLF x1	生まれつきの体質とかも\nわかるわね		
+cev90_030.scr:7	cev90_030.scr	7	アーチェ	Arche Klein	personagem	CRLF x2	へー。\nじゃあ、将来イケてる男に\nなるってのとかもわかっちゃう？		
+cev90_030.scr:8	cev90_030.scr	8	リタ	Rita Mordio	personagem		…はあ？　何それ？		
+cev90_030.scr:9	cev90_030.scr	9	リタ	Rita Mordio	personagem	CRLF x1	調べる気も起きないけど…\nわかるんじゃない？		
+cev90_030.scr:10	cev90_030.scr	10	アーチェ	Arche Klein	personagem	CRLF x2	うっひょ〜！\nあたしもソウルアルケミーの勉強\nしてみようかな〜♪		
+cev90_030.scr:11	cev90_030.scr	11	リタ	Rita Mordio	personagem	CRLF x1	知りたくなかった情報とかまで\n見えても、そんな事言えるかしらね		
+cev90_030.scr:12	cev90_030.scr	12	リタ	Rita Mordio	personagem	CRLF x2	あんたが見たい人の寿命とかも\nわかっちゃうのよ？\nそれでもいいの？		
+cev90_030.scr:13	cev90_030.scr	13	アーチェ	Arche Klein	personagem	CRLF x1	えぇ〜…ぇと…。\nそういうのはちょっとダメ、かな…		
+cev90_030.scr:14	cev90_030.scr	14	リタ	Rita Mordio	personagem	CRLF x1	何かを追い求めるなら、\nそれ相当の覚悟くらい当たり前でしょ		
+cev90_030.scr:15	cev90_030.scr	15	リタ	Rita Mordio	personagem	CRLF x1	ただの興味で、\nこの技術に触れて欲しくないわ		
+cev90_030.scr:16	cev90_030.scr	16	リッド	Reid Hershel	personagem	CRLF x2	なあ、リタ！\nこのパン、賞味期限かどうか\nドクメント見てくれよ		
+cev90_030.scr:17	cev90_030.scr	17	ルーティ	Rutee Katrea	personagem	CRLF x2	ね〜ぇ、リタ！\nあたしが見つけて来たこの遺跡のレリーフ、\nドクメント調べたら、値打ちわかったりする？		
+cev90_030.scr:18	cev90_030.scr	18	リタ	Rita Mordio	personagem	CRLF x1	あぁぁぁ〜〜〜、もう！！\n崇高な技術を貶めないでっ！！		
+cev90_030.scr:19	cev90_030.scr	19	リタ	Rita Mordio	personagem		そういう事する為の技術じゃないっての！		
+cev90_040.scr:0	cev90_040.scr	0	ナナリー	Nanaly Fletch	personagem	CRLF x1	ねえ、オルタ・ビレッジって\n具体的にはどういうものなんだい？		
+cev90_040.scr:1	cev90_040.scr	1	キール	Keele Zeibel	personagem	CRLF x1	それについては、まず大国のあり方を\n説明する必要があるな		
+cev90_040.scr:2	cev90_040.scr	2	キール	Keele Zeibel	personagem	CRLF x2	物質を大量に消費する傾向がある大国は、\nその消費を行った分のツケを\n社会や国民、そして環境に払わせている		
+cev90_040.scr:3	cev90_040.scr	3	キール	Keele Zeibel	personagem	CRLF x1	当然持続不可能なあり方だし、\nいずれは人々を養えなくなっていく		
+cev90_040.scr:4	cev90_040.scr	4	キール	Keele Zeibel	personagem	CRLF x2	オルタ・ビレッジというのは、\n人々が支え合い、そして環境に負荷を与えない\n暮らし方を実践する村さ		
+cev90_040.scr:5	cev90_040.scr	5	ナナリー	Nanaly Fletch	personagem	CRLF x2	へぇ…。\nでも、それってただ、大昔のやり方に\n戻れって事じゃないのかい？		
+cev90_040.scr:6	cev90_040.scr	6	キール	Keele Zeibel	personagem	CRLF x2	いや、今までヒトが築き上げて来たものを\n捨て去る必要はないさ。\n今あるものをベースに、設計し直せばいい		
+cev90_040.scr:7	cev90_040.scr	7	キール	Keele Zeibel	personagem	CRLF x2	地域で必要なものはその地域で確保し、\n出来るだけ自給自足をする。\n流通に依存せず自立した経済を形成するんだ		
+cev90_040.scr:8	cev90_040.scr	8	ナナリー	Nanaly Fletch	personagem	CRLF x1	流通に依存しなくなるって、\nそんな事をして大丈夫なのかい？		
+cev90_040.scr:9	cev90_040.scr	9	キール	Keele Zeibel	personagem	CRLF x2	貿易は、一見国同士が補い合う様に\n見えるが、早くに発展した国が、\n資源を収奪する事もある		
+cev90_040.scr:10	cev90_040.scr	10	キール	Keele Zeibel	personagem	CRLF x2	貿易に依存した市場が行き過ぎると、\n世界は発展した少数の者と、資源を収奪される\n圧倒的多数の者とに分かれる		
+cev90_040.scr:11	cev90_040.scr	11	ナナリー	Nanaly Fletch	personagem	CRLF x1	そうだね…。\nそれはよくわかるよ		
+cev90_040.scr:12	cev90_040.scr	12	ナナリー	Nanaly Fletch	personagem	CRLF x2	このギルドのメンバーのほとんどが、\n何らかのものを大国に奪われちまってるって\n話だったしね		
+cev90_040.scr:13	cev90_040.scr	13	キール	Keele Zeibel	personagem	CRLF x1	まあ、そういった収奪されてる人達の為に\nアドリビトムは活動してるんだ		
+cev90_040.scr:14	cev90_040.scr	14	キール	Keele Zeibel	personagem	CRLF x1	みんな、故郷を救いたくて、\nここで働いてるしな		
+cev90_040.scr:15	cev90_040.scr	15	キール	Keele Zeibel	personagem	CRLF x1	しかし、まだオルタ・ビレッジについては\n試行錯誤の段階だ		
+cev90_040.scr:16	cev90_040.scr	16	キール	Keele Zeibel	personagem	CRLF x2	地域の環境や伝統を生かしての\n資源を循環的に利用出来る仕組みも\n考えていかなきゃな		
+cev90_040.scr:17	cev90_040.scr	17	ナナリー	Nanaly Fletch	personagem	CRLF x2	そうか…。\nオルタ・ビレッジも一つ作れば\nいいというわけじゃないしね		
+cev90_040.scr:18	cev90_040.scr	18	ナナリー	Nanaly Fletch	personagem	CRLF x1	その場その場にあった方法を\n模索する必要があるんだね		
+cev90_040.scr:19	cev90_040.scr	19	キール	Keele Zeibel	personagem	CRLF x1	最終的には、ギルドの介入も\n無い様にするべきだ		
+cev90_040.scr:20	cev90_040.scr	20	キール	Keele Zeibel	personagem	CRLF x1	奪われる側も大国に依存している点は\n否めないからな		
+cev90_040.scr:21	cev90_040.scr	21	キール	Keele Zeibel	personagem	CRLF x1	自分達で何とかやっていける、他に依存しない。\n自立出来る社会にしていかないと		
+cev90_040.scr:22	cev90_040.scr	22	ナナリー	Nanaly Fletch	personagem	CRLF x2	そうだね。\n助けるだけじゃなく、\n強くしてやる事も必要なんだね		
+cev90_040.scr:23	cev90_040.scr	23	ナナリー	Nanaly Fletch	personagem	CRLF x2	あんたの話が聞けて良かったよ。\nますますこのギルドで働く気力が\n湧いたからさ！		
+cev90_050.scr:0	cev90_050.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	あーん、もう腰が痛い…。\n腕も痛い、脚も痛ーいー！！		
+cev90_050.scr:1	cev90_050.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	大体、運動苦手だし、\n接近戦なんかやってると\nすぐ身体に来ちゃうのよね		
+cev90_050.scr:2	cev90_050.scr	2	ルーティ	Rutee Katrea	personagem	CRLF x2	へぇー、運動苦手なの？\nあんなえげつないナイフさばき\nしておきながら…		
+cev90_050.scr:3	cev90_050.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	んー…、昔、教会に暴漢とか強盗が\n来る事もあったから\n護身術を身に付けなきゃならなかったの		
+cev90_050.scr:4	cev90_050.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	その時、戦い方を指導してくれたのが\nロックスだったんだよね		
+cev90_050.scr:5	cev90_050.scr	5	ルーティ	Rutee Katrea	personagem		ロックスが！？		
+cev90_050.scr:6	cev90_050.scr	6	アンジュ	Ange Serena	personagem		わたしも最初は驚いたもん		
+cev90_050.scr:7	cev90_050.scr	7	アンジュ	Ange Serena	personagem	CRLF x2	ある日、ロックスがカノンノと一緒に教会に\n来て、何でもするから雇って下さいって\n言って来たの		
+cev90_050.scr:8	cev90_050.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	でも、教会で雇う余裕も無かったし、\nそれとなく断れないかなぁっと思って…		
+cev90_050.scr:9	cev90_050.scr	9	アンジュ	Ange Serena	personagem	CRLF x2	じゃあ、暴漢対策に\n護身術を教えてくれたらいいよって\n切り出してみたのよ		
+cev90_050.scr:10	cev90_050.scr	10	アンジュ	Ange Serena	personagem	CRLF x2	そしたらね、こっちの予想を裏切って\n見事なナイフさばきを見せてくれてね。\nそれで、追い返す事も出来なくなって…		
+cev90_050.scr:11	cev90_050.scr	11	アンジュ	Ange Serena	personagem	CRLF x2	護身術の指導と、\n家事全般を請け負うって事で、\nわたしの教会に置く事にしたのよ		
+cev90_050.scr:12	cev90_050.scr	12	ルーティ	Rutee Katrea	personagem		想像出来ないわ…		
+cev90_050.scr:13	cev90_050.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	あらゆる武器の扱いに\n精通しているみたいよ		
+cev90_050.scr:14	cev90_050.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	カノンノの剣も、\nロックス仕込みなんだってさ		
+cev90_050.scr:15	cev90_050.scr	15	ルーティ	Rutee Katrea	personagem	CRLF x2	ふうん…。\nロックスったら、\n過去に一体何をやってたのかしら？		
+cev90_050.scr:16	cev90_050.scr	16	アンジュ	Ange Serena	personagem	CRLF x1	それが…、\n詳しい事は話してくれないのよ		
+cev90_050.scr:17	cev90_050.scr	17	アンジュ	Ange Serena	personagem	CRLF x1	いつ尋ねても、カノンノの家で使用人として\n雇われていた、としか話さないんだよね		
+cev90_060.scr:0	cev90_060.scr	0	ロックス	Rocks	personagem	CRLF x1	ニアタ様も…、\n元はヒトだったんですよね？		
+cev90_060.scr:1	cev90_060.scr	1	ニアタ	Niata Monad	personagem	CRLF x2	そうだ。\n我々は、こうして一つの精神集合体に\nなる前は、十二人のヒトだった		
+cev90_060.scr:2	cev90_060.scr	2	ロックス	Rocks	personagem	CRLF x2	それは、ニアタ様のディセンダーの為に…\n…そうしたんですよね。\nその、ヒトの姿を捨ててまで…		
+cev90_060.scr:3	cev90_060.scr	3	ロックス	Rocks	personagem	CRLF x1	僕なんかとは違う。\n立派です……		
+cev90_060.scr:4	cev90_060.scr	4	ニアタ	Niata Monad	personagem		そなた、何か隠している様だな…		
+cev90_060.scr:5	cev90_060.scr	5	ロックス	Rocks	personagem	CRLF x2	…………この事は、\n墓の中まで持って行こうと\n思ってましたが…		
+cev90_060.scr:6	cev90_060.scr	6	ニアタ	Niata Monad	personagem	CRLF x2	案ずるな。\n誰にも言わぬ。\n心痛は解き放っておいた方が良いぞ…		
+cev90_060.scr:7	cev90_060.scr	7	ロックス	Rocks	personagem	CRLF x1	じゃあ、この話は…、\n誰にも言わないで下さいね		
+cev90_060.scr:8	cev90_060.scr	8	ロックス	Rocks	personagem	CRLF x2	僕、元は人間だったんですよ。\nソウルアルケミーで、\nこんな姿になったんです		
+cev90_060.scr:9	cev90_060.scr	9	ロックス	Rocks	personagem		自ら…望んで……		
+cev90_060.scr:10	cev90_060.scr	10	ニアタ	Niata Monad	personagem	CRLF x1	そなたは、\nソウルアルケミーの使い手か？		
+cev90_060.scr:11	cev90_060.scr	11	ロックス	Rocks	personagem	CRLF x2	いえ、僕自身は使えません。\nソウルアルケミーによる魔具を手に入れ、\nその効力によって人間の姿を捨てました		
+cev90_060.scr:12	cev90_060.scr	12	ニアタ	Niata Monad	personagem		それはもう、使えないのかね		
+cev90_060.scr:13	cev90_060.scr	13	ロックス	Rocks	personagem		ええ、効果は一度きりです		
+cev90_060.scr:14	cev90_060.scr	14	ロックス	Rocks	personagem	CRLF x2	僕の国は特殊な階級社会で、僕は生まれてから\nずっと軍に所属し、国の為に戦う事を\n宿命づけられていたんです		
+cev90_060.scr:15	cev90_060.scr	15	ロックス	Rocks	personagem	CRLF x1	毎日毎日、教え込まれるのは\n殺しの技術ばかり		
+cev90_060.scr:16	cev90_060.scr	16	ロックス	Rocks	personagem		他の生き方を選ぶ事は許されませんでした…		
+cev90_060.scr:17	cev90_060.scr	17	ロックス	Rocks	personagem	CRLF x1	けど、いざ戦場に立つと…恐ろしくなって。\nそのまま逃げてしまったんです		
+cev90_060.scr:18	cev90_060.scr	18	ロックス	Rocks	personagem	CRLF x1	僕の軍で、敵前逃亡は重罪でした。\n死刑か、懲罰部隊に転属させられます		
+cev90_060.scr:19	cev90_060.scr	19	ロックス	Rocks	personagem	CRLF x1	僕はもっと生きたくて、逃げたくて、\nそれで……		
+cev90_060.scr:20	cev90_060.scr	20	ニアタ	Niata Monad	personagem		その姿に変じた、というわけか…		
+cev90_060.scr:21	cev90_060.scr	21	ロックス	Rocks	personagem	CRLF x2	はい。\n僕がこの姿になったのは、\nただ逃げたかっただけなんです		
+cev90_060.scr:22	cev90_060.scr	22	ロックス	Rocks	personagem	CRLF x2	あなたの様に、誰かを守りたいとか\nそういうんじゃない…。\n逃げたかっただけなんだ…		
+cev90_060.scr:23	cev90_060.scr	23	ニアタ	Niata Monad	personagem		人間に、戻りたいかね？		
+cev90_060.scr:24	cev90_060.scr	24	ロックス	Rocks	personagem	CRLF x1	戻りたいと思う事は何度もありました。\nですが、自ら望んで人間の姿を捨てたんです		
+cev90_060.scr:25	cev90_060.scr	25	ロックス	Rocks	personagem	CRLF x1	それに…、僕をヒトに戻せる程の術者は\nいないでしょう		
+cev90_060.scr:26	cev90_060.scr	26	ロックス	Rocks	personagem	CRLF x1	でもですね、この姿になってから、\nいい事もあったんです		
+cev90_060.scr:27	cev90_060.scr	27	ロックス	Rocks	personagem	CRLF x1	お嬢様のご両親に出会い、料理、医療の知識、\n本当に様々な事を教えてもらった事…		
+cev90_060.scr:28	cev90_060.scr	28	ロックス	Rocks	personagem	CRLF x1	何より、家族の一員として受け入れて\nくれた事		
+cev90_060.scr:29	cev90_060.scr	29	ロックス	Rocks	personagem	CRLF x2	戦う事しか知らないまま生きるはずだったのに、\nこの姿になってから、幸せな日々を過ごせ\nましたから…		
+cev90_060.scr:30	cev90_060.scr	30	ロックス	Rocks	personagem	CRLF x2	でも、旦那様と奥様は、\n幼いお嬢様と過ごす間もなく\n戦場で亡くなられた		
+cev90_060.scr:31	cev90_060.scr	31	ロックス	Rocks	personagem	CRLF x1	僕と違って、逃げずに、前線の負傷者を助け、\n従軍医師としての役目を立派に果たして…		
+cev90_060.scr:32	cev90_060.scr	32	ロックス	Rocks	personagem		僕はずっと、逃げたままなのに…		
+cev90_060.scr:33	cev90_060.scr	33	ニアタ	Niata Monad	personagem	CRLF x2	そなたは、ヴェラトローパで\nカノンノの身を案じて助けに来たではないか。\n逃げる事など無く…真っ先に		
+cev90_060.scr:34	cev90_060.scr	34	ロックス	Rocks	personagem		……………		
+cev90_060.scr:35	cev90_060.scr	35	ニアタ	Niata Monad	personagem	CRLF x1	そなたには、カノンノという\n守るべき者がいると知っている		
+cev90_060.scr:36	cev90_060.scr	36	ニアタ	Niata Monad	personagem		もう、逃げる事はあるまいよ…		
+cev90_060.scr:37	cev90_060.scr	37	(opcao do jogador)	(opcao do jogador)	escolha		内密にする、と言う		
+cev90_060.scr:38	cev90_060.scr	38	(opcao do jogador)	(opcao do jogador)	escolha		ニアタに同意する		
+cev90_060.scr:39	cev90_060.scr	39	(opcao do jogador)	(opcao do jogador)	escolha		なぜ、人間の姿を捨てたのかを聞く		
+cev90_060.scr:40	cev90_060.scr	40	(opcao do jogador)	(opcao do jogador)	escolha		話を遮らない様に黙っている		
+cev90_070.scr:0	cev90_070.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	（まただ…、視界が変。\n　ドクメントが見える）		
+cev90_070.scr:1	cev90_070.scr	1	カノンノ	Kanonno Grassvalley	personagem		（こういう体質になっちゃったのかなぁ…）		
+cev90_070.scr:2	cev90_070.scr	2	ロックス	Rocks	personagem		どうかしましたか？		
+cev90_070.scr:3	cev90_070.scr	3	カノンノ	Kanonno Grassvalley	personagem		ん、ちょっと…、あれ？　うそ？		
+cev90_070.scr:4	cev90_070.scr	4	ロックス	Rocks	personagem		大丈夫ですか？		
+cev90_070.scr:5	cev90_070.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	…今、ね。\n一瞬だけ、ロックスが人間に見えた		
+cev90_070.scr:6	cev90_070.scr	6	ロックス	Rocks	personagem		僕が………ですか？		
+cev90_070.scr:7	cev90_070.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	細くて背が高くて…、\n栗色の髪…、緑の瞳だった。\n変だな、何だろ…？		
+cev90_070.scr:8	cev90_070.scr	8	ロックス	Rocks	personagem	CRLF x1	（僕の…昔の姿が見えた？\n　人間だった頃の…）		
+cev90_070.scr:9	cev90_070.scr	9	ロックス	Rocks	personagem	CRLF x1	つ、疲れているんですよ…！！\n全くもう、最近ちゃんと寝ているんですか？		
+cev90_070.scr:10	cev90_070.scr	10	ロックス	Rocks	personagem	CRLF x1	あなたに何かあったら、奥様や旦那様に\n申し訳が立ちませんよ		
+cev90_070.scr:11	cev90_070.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	んー…。\nちゃんと、寝てはいるんだけどなぁ		
+cev90_070.scr:12	cev90_070.scr	12	カノンノ	Kanonno Grassvalley	personagem		それに、一瞬だったけど、ホントに見えたし…		
+cev90_070.scr:13	cev90_070.scr	13	ロックス	Rocks	personagem		………………………………		
+cev90_070.scr:14	cev90_070.scr	14	ロックス	Rocks	personagem	CRLF x1	………僕が、\n人間だった方が良かったですか？		
+cev90_070.scr:15	cev90_070.scr	15	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	…ん？\nそういうわけじゃないけど		
+cev90_070.scr:16	cev90_070.scr	16	ロックス	Rocks	personagem	CRLF x2	こんな珍妙な生き物に育てられてと、\n今まで色んな人から言われて。\n恥ずかしい思いをさせて来ましたね		
+cev90_070.scr:17	cev90_070.scr	17	ロックス	Rocks	personagem		すみません…		
+cev90_070.scr:18	cev90_070.scr	18	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そんな事…。\nそんな事、ちっとも気にしてないよ！		
+cev90_070.scr:19	cev90_070.scr	19	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ロックスはどんなに苦しい時でも\n私を育ててくれた		
+cev90_070.scr:20	cev90_070.scr	20	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	言葉も、文字も、歌も、料理も、\nマナーも、戦い方も教えてくれて…		
+cev90_070.scr:21	cev90_070.scr	21	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	恥ずかしいなんて…思ってないし…、\n人間だった方が良かったと思って\n言ったわけじゃないよ！！		
+cev90_070.scr:22	cev90_070.scr	22	ロックス	Rocks	personagem	CRLF x1	すみません、お嬢様。\nそれから、ありがとう		
+cev90_070.scr:23	cev90_070.scr	23	ロックス	Rocks	personagem	CRLF x1	僕は一生この姿ですが、\nこれからもお仕えさせて頂けますか？		
+cev90_070.scr:24	cev90_070.scr	24	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ずっと一緒だよ。\nロックスが人間でも、そうでなくても\n家族なんだもん…		
+cev90_070.scr:25	cev90_070.scr	25	ロックス	Rocks	personagem		ありがとうございます、お嬢様…		
+cev90_080.scr:0	cev90_080.scr	0	ロックス	Rocks	personagem	CRLF x2	（あぁ…、そういやこの人って\n　元軍人だったらしいな……。\n　ハァ……）		
+cev90_080.scr:1	cev90_080.scr	1	ロックス	Rocks	personagem	CRLF x2	あ、あのっ…、ユージーン様。\n頼まれていた…新しい尻尾袋が出来たので…\nその……お持ち………		
+cev90_080.scr:2	cev90_080.scr	2	ユージーン	Eugene Gallardo	personagem	CRLF x1	ふむ、これはいい仕立てだ。\n模様の意匠も素晴らしいものではないか		
+cev90_080.scr:3	cev90_080.scr	3	ロックス	Rocks	personagem	CRLF x1	はっ！\nよきご評価賜り、光栄であります！！		
+cev90_080.scr:4	cev90_080.scr	4	ユージーン	Eugene Gallardo	personagem		む…？		
+cev90_080.scr:5	cev90_080.scr	5	ロックス	Rocks	personagem	CRLF x1	…ッは！？\n（マズイ、つい…）		
+cev90_080.scr:6	cev90_080.scr	6	ロックス	Rocks	personagem	CRLF x1	あ、あの、気に入っていただけて\n良かったです……		
+cev90_080.scr:7	cev90_080.scr	7	ロックス	Rocks	personagem	CRLF x1	御用の時は、また申し付けて下さい。\nでは…		
+cev90_080.scr:8	cev90_080.scr	8	ユージーン	Eugene Gallardo	personagem		うむ…		
+cev90_080.scr:9	cev90_080.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x2	ロックス、先日街に出たと言っていましたね。\nライマの同盟国について、\n戦況などの報道を聞きませんでしたか？		
+cev90_080.scr:10	cev90_080.scr	10	ロックス	Rocks	personagem		はいっ！		
+cev90_080.scr:11	cev90_080.scr	11	ロックス	Rocks	personagem	CRLF x2	聞くところによりますと、奇襲に成功し、\n戦局の大勢は決したかの様に\n聞いております！！		
+cev90_080.scr:12	cev90_080.scr	12	ジェイド	Jade Curtiss	personagem		ロックス…？		
+cev90_080.scr:13	cev90_080.scr	13	ロックス	Rocks	personagem		（ヒッ、し、しまった…）		
+cev90_080.scr:14	cev90_080.scr	14	ロックス	Rocks	personagem	CRLF x2	いいいいいいぃぇ…！！！\nジェイド様が軍のお方ですので\nちょっとあわせてみました…なーんて…		
+cev90_080.scr:15	cev90_080.scr	15	ジェイド	Jade Curtiss	personagem	CRLF x1	…そうですか。\n情報ありがとうございます		
+cev90_080.scr:16	cev90_080.scr	16	ロックス	Rocks	personagem		そ、それじゃあ、失礼しますね…		
+cev90_080.scr:17	cev90_080.scr	17	ロックス	Rocks	personagem	CRLF x2	（あ〜…、この人達を前にすると\n　こうなっちゃう…。\n　あ〜…、軍人ってニガテだよォ…）		
+cev90_080.scr:18	cev90_080.scr	18	ジェイド	Jade Curtiss	personagem	CRLF x1	軍人を前にすると、\nたまにああなる様ですね		
+cev90_080.scr:19	cev90_080.scr	19	ユージーン	Eugene Gallardo	personagem	CRLF x2	わかるか？\nしかも、あの喋りは、一度染み付いたら\nなかなか取れん「陸」軍式だ		
+cev90_080.scr:20	cev90_080.scr	20	ユージーン	Eugene Gallardo	personagem	CRLF x1	彼には何か、隠れた過去が\nあるのかもしれん…		
+cev90_090.scr:0	cev90_090.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	ねえねえ。\nあなたの世界「パスカ」の事、\n聞かせてくれるかなぁ？		
+cev90_090.scr:1	cev90_090.scr	1	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x2	そうだなぁ。\nこことの大きな違いは、\n太陽がない事かな		
+cev90_090.scr:2	cev90_090.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	太陽が無い？\nじゃあ、真っ暗な世界なのかな？		
+cev90_090.scr:3	cev90_090.scr	3	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x1	ずっと、真っ暗じゃないのよ。\n月があるから		
+cev90_090.scr:4	cev90_090.scr	4	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	ええ？\n月は太陽が無いと、光らないものでしょう？		
+cev90_090.scr:5	cev90_090.scr	5	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x2	私の世界では、月は自ら光るの。\n太陽程光は強くないけれど、\nその光で虹がかかる事もあるのよ		
+cev90_090.scr:6	cev90_090.scr	6	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x1	それに、大地には飴細工みたいな\n綺麗な花や虫達が光を放ってるの		
+cev90_090.scr:7	cev90_090.scr	7	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x1	だから、場所によってはその灯りで\n賑やかになるよ		
+cev90_090.scr:8	cev90_090.scr	8	カノンノ	Kanonno Grassvalley	personagem		じゃあ、種族は？		
+cev90_090.scr:9	cev90_090.scr	9	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x1	この世界の様に多くの種族はいないけど、\n人間を含めた五つの種族がいるわ		
+cev90_090.scr:10	cev90_090.scr	10	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	そういえば、パスカの世界樹は\n世界を…種子を生んだ事があるの？		
+cev90_090.scr:11	cev90_090.scr	11	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x1	うん、ちょっと前に４度目の\n実りを向かえたよ		
+cev90_090.scr:12	cev90_090.scr	12	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x1	次の実りまでは、\nあと３０００年くらいかなぁ		
+cev90_090.scr:13	cev90_090.scr	13	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	世界樹の実りかぁ。\n見てみたいなぁ…		
+cev90_090.scr:14	cev90_090.scr	14	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x1	○○には、わからない？\n兆しとか…		
+cev90_090.scr:15	cev90_090.scr	15	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x2	うー？\n兆しは…、兆しだよ。\nこう、生まれそうかな…ってカンジ		
+cev90_090.scr:16	cev90_090.scr	16	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x2	何だか、身体がマナで溢れて\n広がりそうな感覚がしたりは\nあったな		
+cev90_090.scr:17	cev90_090.scr	17	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x1	それが来ると、\nそろそろ生まれそうかな〜…って		
+cev90_090.scr:18	cev90_090.scr	18	カノンノ・イアハート	Kanonno Earhart	personagem		う、生まれそう…？		
+cev90_090.scr:19	cev90_090.scr	19	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x1	うん、世界樹が実を付けそうだなって\nいう意味だけど		
+cev90_090.scr:20	cev90_090.scr	20	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	じゃあ、○○が\nその兆しに気付いたら…		
+cev90_090.scr:21	cev90_090.scr	21	カノンノ・イアハート	Kanonno Earhart	personagem		生まれ……		
+cev90_090.scr:22	cev90_090.scr	22	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うーん、やっぱ考えるのよそう。\nちょっと生々しいもん…		
+cev90_090.scr:23	cev90_090.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		兆しについて尋ねる		
+cev90_090.scr:24	cev90_090.scr	24	(opcao do jogador)	(opcao do jogador)	escolha		何もわからない、と言う		
+cev90_100.scr:0	cev90_100.scr	0	ロックス	Rocks	personagem	CRLF x2	お一ついかがですか？\nしいな様から教わった、\nマンジュウというお菓子ですよ		
+cev90_100.scr:1	cev90_100.scr	1	ロックス	Rocks	personagem	CRLF x2	どうぞどうぞ。\n一つと言わず、\nもっと召し上がって下さい		
+cev90_100.scr:2	cev90_100.scr	2	ロックス	Rocks	personagem	CRLF x2	遠慮なさらずに！\nまだまだ、\nたくさん作ってあるんですから		
+cev90_100.scr:3	cev90_100.scr	3	ルビア	Rubia Natwick	personagem	CRLF x1	ねえ、○○。\n程々にしないと後悔するわよ？		
+cev90_100.scr:4	cev90_100.scr	4	アーチェ	Arche Klein	personagem	CRLF x1	ロックスって、\n限界超えても食べさせようとするから！		
+cev90_100.scr:5	cev90_100.scr	5	ルビア	Rubia Natwick	personagem	CRLF x2	そんなのんきに…。\n気が付いた時はブクブクに\n太らされてるんだから！		
+cev90_100.scr:6	cev90_100.scr	6	ルビア	Rubia Natwick	personagem	CRLF x1	そうよ。\nおかげであたしも太らされたの！		
+cev90_100.scr:7	cev90_100.scr	7	ルビア	Rubia Natwick	personagem	CRLF x1	元に戻る為のダイエット、\n大変だったんだから！		
+cev90_100.scr:8	cev90_100.scr	8	アーチェ	Arche Klein	personagem	CRLF x1	ロックスは、尽くすのが好きな上に、\nぽっちゃりが好きみたいなのよね〜		
+cev90_100.scr:9	cev90_100.scr	9	ロックス	Rocks	personagem	CRLF x2	ルビア様、アーチェ様いいところに！\n出来たてのお菓子ですよ、\nお一ついかがですか？		
+cev90_100.scr:10	cev90_100.scr	10	アーチェ	Arche Klein	personagem	CRLF x1	うーん…。\nじゃあ…、一つだけなら		
+cev90_100.scr:11	cev90_100.scr	11	ルビア	Rubia Natwick	personagem	CRLF x1	え、えーとぉ…。\nまたあとにしようかな…		
+cev90_100.scr:12	cev90_100.scr	12	ロックス	Rocks	personagem	CRLF x1	もう、最近あまり食べていませんよね？\nひょっとしてダイエットしてるんですか？		
+cev90_100.scr:13	cev90_100.scr	13	ロックス	Rocks	personagem	CRLF x1	育ち盛りにダイエットなんかしたら、\n身体に良くありませんよ！		
+cev90_100.scr:14	cev90_100.scr	14	ロックス	Rocks	personagem	CRLF x1	はいっ、どうぞルビア様！\n召し上がって下さい！		
+cev90_100.scr:15	cev90_100.scr	15	ルビア	Rubia Natwick	personagem	CRLF x2	（いやだ、つい受け取っちゃった〜…）\n…太らされた分をリセットするのにも\n大変だったのに〜		
+cev90_100.scr:16	cev90_100.scr	16	アーチェ	Arche Klein	personagem	CRLF x1	でも、ルビアってば\nそこで食べちゃうんだ…		
+cev90_100.scr:17	cev90_100.scr	17	ルビア	Rubia Natwick	personagem		うぁ〜ん…、美味しいよ〜〜〜…		
+cev90_100.scr:18	cev90_100.scr	18	(opcao do jogador)	(opcao do jogador)	escolha		一つもらう		
+cev90_100.scr:19	cev90_100.scr	19	(opcao do jogador)	(opcao do jogador)	escolha		遠慮する		
+cev90_100.scr:20	cev90_100.scr	20	(opcao do jogador)	(opcao do jogador)	escolha		いい事だ、と気にしない		
+cev90_100.scr:21	cev90_100.scr	21	(opcao do jogador)	(opcao do jogador)	escolha		そうなのかと驚く		
+cev90_200.scr:0	cev90_200.scr	0	ロックス	Rocks	personagem	CRLF x1	通常。\n		
+cev90_200.scr:1	cev90_200.scr	1	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:2	cev90_200.scr	2	ロックス	Rocks	personagem	CRLF x1	笑い。\n		
+cev90_200.scr:3	cev90_200.scr	3	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:4	cev90_200.scr	4	ロックス	Rocks	personagem	CRLF x1	怒り。\n		
+cev90_200.scr:5	cev90_200.scr	5	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:6	cev90_200.scr	6	ロックス	Rocks	personagem	CRLF x1	悲しみ。\n		
+cev90_200.scr:7	cev90_200.scr	7	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:8	cev90_200.scr	8	ロックス	Rocks	personagem	CRLF x1	苦笑。\n		
+cev90_200.scr:9	cev90_200.scr	9	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:10	cev90_200.scr	10	ロックス	Rocks	personagem	CRLF x1	微笑。\n		
+cev90_200.scr:11	cev90_200.scr	11	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:12	cev90_200.scr	12	ロックス	Rocks	personagem	CRLF x1	泣き。\n		
+cev90_200.scr:13	cev90_200.scr	13	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:14	cev90_200.scr	14	ロックス	Rocks	personagem	CRLF x1	驚き。\n		
+cev90_200.scr:15	cev90_200.scr	15	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:16	cev90_200.scr	16	ロックス	Rocks	personagem	CRLF x1	通常。\n		
+cev90_200.scr:17	cev90_200.scr	17	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:18	cev90_200.scr	18	ロックス	Rocks	personagem	CRLF x1	笑い。\n		
+cev90_200.scr:19	cev90_200.scr	19	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:20	cev90_200.scr	20	ロックス	Rocks	personagem	CRLF x1	怒り。\n		
+cev90_200.scr:21	cev90_200.scr	21	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:22	cev90_200.scr	22	ロックス	Rocks	personagem	CRLF x1	悲しみ。\n		
+cev90_200.scr:23	cev90_200.scr	23	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:24	cev90_200.scr	24	ロックス	Rocks	personagem	CRLF x1	苦笑。\n		
+cev90_200.scr:25	cev90_200.scr	25	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:26	cev90_200.scr	26	ロックス	Rocks	personagem	CRLF x1	微笑。\n		
+cev90_200.scr:27	cev90_200.scr	27	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:28	cev90_200.scr	28	ロックス	Rocks	personagem	CRLF x1	泣き。\n		
+cev90_200.scr:29	cev90_200.scr	29	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:30	cev90_200.scr	30	ロックス	Rocks	personagem	CRLF x1	驚き。\n		
+cev90_200.scr:31	cev90_200.scr	31	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:32	cev90_200.scr	32	ロックス	Rocks	personagem	CRLF x1	通常。\n		
+cev90_200.scr:33	cev90_200.scr	33	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:34	cev90_200.scr	34	ロックス	Rocks	personagem	CRLF x1	笑い。\n		
+cev90_200.scr:35	cev90_200.scr	35	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:36	cev90_200.scr	36	ロックス	Rocks	personagem	CRLF x1	怒り。\n		
+cev90_200.scr:37	cev90_200.scr	37	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:38	cev90_200.scr	38	ロックス	Rocks	personagem	CRLF x1	悲しみ。\n		
+cev90_200.scr:39	cev90_200.scr	39	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:40	cev90_200.scr	40	ロックス	Rocks	personagem	CRLF x1	苦笑。\n		
+cev90_200.scr:41	cev90_200.scr	41	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:42	cev90_200.scr	42	ロックス	Rocks	personagem	CRLF x1	微笑。\n		
+cev90_200.scr:43	cev90_200.scr	43	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:44	cev90_200.scr	44	ロックス	Rocks	personagem	CRLF x1	泣き。\n		
+cev90_200.scr:45	cev90_200.scr	45	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev90_200.scr:46	cev90_200.scr	46	ロックス	Rocks	personagem	CRLF x1	驚き。\n		
+cev90_200.scr:47	cev90_200.scr	47	ロックス	Rocks	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

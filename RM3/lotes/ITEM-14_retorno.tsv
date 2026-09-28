@@ -1,0 +1,304 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+foot_equip#1280	foot_equip	1280	(item/equipamento)	(item/equipment)	sistema		忍者初期装備	Ninja Default Equipment	
+foot_equip#1281	foot_equip	1281	(item/equipamento)	(item/equipment)	sistema		魔術師初期装備	Mage Default Equipment	
+foot_equip#1282	foot_equip	1282	(item/equipamento)	(item/equipment)	sistema		僧侶初期装備	Priest Default Equipment	
+foot_equip#1283	foot_equip	1283	(item/equipamento)	(item/equipment)	sistema		ビショップ初期装備	Bishop Default Equipment	
+foot_equip#1284	foot_equip	1284	(item/equipamento)	(item/equipment)	sistema		双剣士初期装備	Twin Swordsman Default Equipment	
+foot_equip#1285	foot_equip	1285	(item/equipamento)	(item/equipment)	sistema		大剣士初期装備	Great Swordsman Default Equipment	
+foot_equip#1286	foot_equip	1286	(item/equipamento)	(item/equipment)	sistema		モンク初期装備	Monk Default Equipment	
+foot_equip#1287	foot_equip	1287	(item/equipamento)	(item/equipment)	sistema		海賊初期装備	Pirate Default Equipment	
+foot_equip#1288	foot_equip	1288	(item/equipamento)	(item/equipment)	sistema		聖騎士初期装備	Paladin Default Equipment	
+foot_equip#1289	foot_equip	1289	(item/equipamento)	(item/equipment)	sistema		ガンマン初期装備	Gunman Default Equipment	
+foot_equip#1290	foot_equip	1290	(item/equipamento)	(item/equipment)	sistema		カノンノ初期装備	Kanonno Default Equipment	
+foot_equip#1291	foot_equip	1291	(item/equipamento)	(item/equipment)	sistema		蝴\n	Dummy\n	
+foot_equip#1292	foot_equip	1292	(item/equipamento)	(item/equipment)	sistema		蝴#	Dummy#	
+foot_equip#1293	foot_equip	1293	(item/equipamento)	(item/equipment)	sistema		蝴\t	Dummy\t	
+foot_equip#1294	foot_equip	1294	(item/equipamento)	(item/equipment)	sistema		無職	None	
+foot_equip#1295	foot_equip	1295	(item/equipamento)	(item/equipment)	sistema		戦士	Warrior	
+foot_equip#1296	foot_equip	1296	(item/equipamento)	(item/equipment)	sistema		魔法剣士	Spellsword	
+foot_equip#1297	foot_equip	1297	(item/equipamento)	(item/equipment)	sistema		格闘家	Martial Artist	
+foot_equip#1298	foot_equip	1298	(item/equipamento)	(item/equipment)	sistema		狩人	Hunter	
+foot_equip#1299	foot_equip	1299	(item/equipamento)	(item/equipment)	sistema		盗賊	Thief	
+foot_equip#1300	foot_equip	1300	(item/equipamento)	(item/equipment)	sistema		忍者	Ninja	
+foot_equip#1301	foot_equip	1301	(item/equipamento)	(item/equipment)	sistema		魔術師	Mage	
+foot_equip#1302	foot_equip	1302	(item/equipamento)	(item/equipment)	sistema		僧侶	Priest	
+foot_equip#1303	foot_equip	1303	(item/equipamento)	(item/equipment)	sistema		ビショップ	Bishop	
+foot_equip#1304	foot_equip	1304	(item/equipamento)	(item/equipment)	sistema		双剣士	Twin Swordsman	
+foot_equip#1305	foot_equip	1305	(item/equipamento)	(item/equipment)	sistema		大剣士	Great Swordsman	
+foot_equip#1306	foot_equip	1306	(item/equipamento)	(item/equipment)	sistema		モンク	Monk	
+foot_equip#1307	foot_equip	1307	(item/equipamento)	(item/equipment)	sistema		海賊	Pirate	
+foot_equip#1308	foot_equip	1308	(item/equipamento)	(item/equipment)	sistema		聖騎士	Paladin	
+foot_equip#1309	foot_equip	1309	(item/equipamento)	(item/equipment)	sistema		ガンマン	Gunman	
+foot_equip#1310	foot_equip	1310	(item/equipamento)	(item/equipment)	sistema		法術師	Conjurer	
+foot_equip#1311	foot_equip	1311	(item/equipamento)	(item/equipment)	sistema		神官	Cleric	
+foot_equip#1312	foot_equip	1312	(item/equipamento)	(item/equipment)	sistema		剣弓戦士	Bow Swordsman	
+foot_equip#1313	foot_equip	1313	(item/equipamento)	(item/equipment)	sistema		料理人	Cook	
+foot_equip#1314	foot_equip	1314	(item/equipamento)	(item/equipment)	sistema		科学者	Scientist	
+foot_equip#1315	foot_equip	1315	(item/equipamento)	(item/equipment)	sistema		精霊	Spirit	
+foot_equip#1316	foot_equip	1316	(item/equipamento)	(item/equipment)	sistema		天使術士	Angel Mage	
+foot_equip#1317	foot_equip	1317	(item/equipamento)	(item/equipment)	sistema		符術士	Talisman Caster	
+foot_equip#1318	foot_equip	1318	(item/equipamento)	(item/equipment)	sistema		ヒーラー	Healer	
+foot_equip#1319	foot_equip	1319	(item/equipamento)	(item/equipment)	sistema		槍戦士	Spearman	
+foot_equip#1320	foot_equip	1320	(item/equipamento)	(item/equipment)	sistema		格闘弓士	Brawler Archer	
+foot_equip#1321	foot_equip	1321	(item/equipamento)	(item/equipment)	sistema		法陣師	Glyph Mage	
+foot_equip#1322	foot_equip	1322	(item/equipamento)	(item/equipment)	sistema		保安官	Sheriff	
+foot_equip#1323	foot_equip	1323	(item/equipamento)	(item/equipment)	sistema		情報屋	Informant	
+foot_equip#1324	foot_equip	1324	(item/equipamento)	(item/equipment)	sistema		音律士	Melodist	
+foot_equip#1325	foot_equip	1325	(item/equipamento)	(item/equipment)	sistema		譜術士	Fonist	
+foot_equip#1326	foot_equip	1326	(item/equipamento)	(item/equipment)	sistema		人形士	Puppeteer	
+foot_equip#1327	foot_equip	1327	(item/equipamento)	(item/equipment)	sistema		譜術剣士	Fon Swordsman	
+foot_equip#1328	foot_equip	1328	(item/equipamento)	(item/equipment)	sistema		シスター	Sister	
+foot_equip#1329	foot_equip	1329	(item/equipamento)	(item/equipment)	sistema		スナイパー	Sniper	
+foot_equip#1330	foot_equip	1330	(item/equipamento)	(item/equipment)	sistema		魔導士	Sorcerer	
+foot_equip#1331	foot_equip	1331	(item/equipamento)	(item/equipment)	sistema		俐	Dummy	
+foot_equip#1332	foot_equip	1332	(item/equipamento)	(item/equipment)	sistema		答8	Dummy 8	
+foot_equip#1333	foot_equip	1333	(item/equipamento)	(item/equipment)	sistema		蔓I	Dummy I	
+foot_equip#1334	foot_equip	1334	(item/equipamento)	(item/equipment)	sistema		苹L	Dummy L	
+foot_equip#1335	foot_equip	1335	(item/equipamento)	(item/equipment)	sistema		抽z	Dummy z	
+foot_equip#1336	foot_equip	1336	(item/equipamento)	(item/equipment)	sistema		{咤	{Dummy	
+foot_equip#1337	foot_equip	1337	(item/equipamento)	(item/equipment)	sistema		3靨	3 Dummy	
+foot_equip#1338	foot_equip	1338	(item/equipamento)	(item/equipment)	sistema		p齢	p Dummy	
+foot_equip#1339	foot_equip	1339	(item/equipamento)	(item/equipment)	sistema		s檠	s Dummy	
+foot_equip#1340	foot_equip	1340	(item/equipamento)	(item/equipment)	sistema		武器物理攻撃力＋%d％	Weapon P.Atk +%d%	
+foot_equip#1341	foot_equip	1341	(item/equipamento)	(item/equipment)	sistema		武器物理攻撃力−%d％	Weapon P.Atk -%d%	
+foot_equip#1342	foot_equip	1342	(item/equipamento)	(item/equipment)	sistema		装備品の物理攻撃力が変化	Modifies equipment's P.Atk.	
+foot_equip#1343	foot_equip	1343	(item/equipamento)	(item/equipment)	sistema		武器術攻撃力＋%d％	Weapon M.Atk +%d%	
+foot_equip#1344	foot_equip	1344	(item/equipamento)	(item/equipment)	sistema		武器術攻撃力−%d％	Weapon M.Atk -%d%	
+foot_equip#1345	foot_equip	1345	(item/equipamento)	(item/equipment)	sistema		装備品の術攻撃力が変化	Modifies equipment's M.Atk.	
+foot_equip#1346	foot_equip	1346	(item/equipamento)	(item/equipment)	sistema		防具物理防御力＋%d％	Armor P.Def +%d%	
+foot_equip#1347	foot_equip	1347	(item/equipamento)	(item/equipment)	sistema		防具物理防御力−%d％	Armor P.Def -%d%	
+foot_equip#1348	foot_equip	1348	(item/equipamento)	(item/equipment)	sistema		装備品の物理防御力が変化	Modifies equipment's P.Def.	
+foot_equip#1349	foot_equip	1349	(item/equipamento)	(item/equipment)	sistema		防具術防御力＋%d％	Armor M.Def +%d%	
+foot_equip#1350	foot_equip	1350	(item/equipamento)	(item/equipment)	sistema		防具術防御力−%d％	Armor M.Def -%d%	
+foot_equip#1351	foot_equip	1351	(item/equipamento)	(item/equipment)	sistema		装備品の術防御力が変化	Modifies equipment's M.Def.	
+foot_equip#1352	foot_equip	1352	(item/equipamento)	(item/equipment)	sistema		敏捷＋%d	Agi +%d	
+foot_equip#1353	foot_equip	1353	(item/equipamento)	(item/equipment)	sistema		敏捷−%d	Agi -%d	
+foot_equip#1354	foot_equip	1354	(item/equipamento)	(item/equipment)	sistema		装備品の敏捷が変化	Modifies equipment's Agi.	
+foot_equip#1355	foot_equip	1355	(item/equipamento)	(item/equipment)	sistema		毒付与	Inflict Poison	
+foot_equip#1356	foot_equip	1356	(item/equipamento)	(item/equipment)	sistema		毒付与(%s)	Inflict Poison (%s)	
+foot_equip#1357	foot_equip	1357	(item/equipamento)	(item/equipment)	sistema		敵を毒状態にする事がある	May inflict poison on enemies.	
+foot_equip#1358	foot_equip	1358	(item/equipamento)	(item/equipment)	sistema		麻痺付与	Inflict Paralysis	
+foot_equip#1359	foot_equip	1359	(item/equipamento)	(item/equipment)	sistema		麻痺付与(%s)	Inflict Paralysis (%s)	
+foot_equip#1360	foot_equip	1360	(item/equipamento)	(item/equipment)	sistema		敵を麻痺状態にする事がある	May inflict paralysis on enemies.	
+foot_equip#1361	foot_equip	1361	(item/equipamento)	(item/equipment)	sistema		クリティカルダメージ	Critical Damage	
+foot_equip#1362	foot_equip	1362	(item/equipamento)	(item/equipment)	sistema		クリティカルダメージ＋%d％	Critical Damage +%d%	
+foot_equip#1363	foot_equip	1363	(item/equipamento)	(item/equipment)	sistema		クリティカルダメージ−%d％	Critical Damage -%d%	
+foot_equip#1364	foot_equip	1364	(item/equipamento)	(item/equipment)	sistema		クリティカルヒットのダメージが変化	Modifies critical hit damage.	
+foot_equip#1365	foot_equip	1365	(item/equipamento)	(item/equipment)	sistema		TP吸収	TP Absorption	
+foot_equip#1366	foot_equip	1366	(item/equipamento)	(item/equipment)	sistema		通常攻撃時ＴＰ回復量＋%d	Normal Attack TP Recovery +%d	
+foot_equip#1367	foot_equip	1367	(item/equipamento)	(item/equipment)	sistema		通常攻撃をヒットさせた時のＴＰ回復量が変化	Modifies TP recovered when hitting with normal attacks.	
+foot_equip#1368	foot_equip	1368	(item/equipamento)	(item/equipment)	sistema		オーバーリミッツ増加量	Over Limit Gain	
+foot_equip#1369	foot_equip	1369	(item/equipamento)	(item/equipment)	sistema		リミッツゲージ増加量UP	Over Limit Gauge Gain UP	
+foot_equip#1370	foot_equip	1370	(item/equipamento)	(item/equipment)	sistema		リミッツゲージが溜まりやすい	Over Limit Gauge fills faster.	
+foot_equip#1371	foot_equip	1371	(item/equipamento)	(item/equipment)	sistema		ガード破壊	Guard Break	
+foot_equip#1372	foot_equip	1372	(item/equipamento)	(item/equipment)	sistema		ガード破壊＋%d	Guard Break +%d	
+foot_equip#1373	foot_equip	1373	(item/equipamento)	(item/equipment)	sistema		敵のガードを破壊しやすい	Easier to break enemy guard.	
+foot_equip#1374	foot_equip	1374	(item/equipamento)	(item/equipment)	sistema		仰け反り耐性破壊	Stagger Resistance Break	
+foot_equip#1375	foot_equip	1375	(item/equipamento)	(item/equipment)	sistema		仰け反り耐性破壊＋%d	Stagger Resistance Break +%d	
+foot_equip#1376	foot_equip	1376	(item/equipamento)	(item/equipment)	sistema		敵の仰け反り耐性を削りやすい	Easier to break enemy stagger resistance.	
+foot_equip#1377	foot_equip	1377	(item/equipamento)	(item/equipment)	sistema		攻撃属性（土）	Attack Element (Earth)	
+foot_equip#1378	foot_equip	1378	(item/equipamento)	(item/equipment)	sistema		攻撃属性付加（土）	Add Earth Element to Attacks	
+foot_equip#1379	foot_equip	1379	(item/equipamento)	(item/equipment)	sistema		武器攻撃に土属性が付加	Adds Earth element to weapon attacks.	
+foot_equip#1380	foot_equip	1380	(item/equipamento)	(item/equipment)	sistema		攻撃属性（水）	Attack Element (Water)	
+foot_equip#1381	foot_equip	1381	(item/equipamento)	(item/equipment)	sistema		攻撃属性付加（水）	Add Water Element to Attacks	
+foot_equip#1382	foot_equip	1382	(item/equipamento)	(item/equipment)	sistema		武器攻撃に水属性が付加	Adds Water element to weapon attacks.	
+foot_equip#1383	foot_equip	1383	(item/equipamento)	(item/equipment)	sistema		攻撃属性（火）	Attack Element (Fire)	
+foot_equip#1384	foot_equip	1384	(item/equipamento)	(item/equipment)	sistema		攻撃属性付加（火）	Add Fire Element to Attacks	
+foot_equip#1385	foot_equip	1385	(item/equipamento)	(item/equipment)	sistema		武器攻撃に火属性が付加	Adds Fire element to weapon attacks.	
+foot_equip#1386	foot_equip	1386	(item/equipamento)	(item/equipment)	sistema		攻撃属性（風）	Attack Element (Wind)	
+foot_equip#1387	foot_equip	1387	(item/equipamento)	(item/equipment)	sistema		攻撃属性付加（風）	Add Wind Element to Attacks	
+foot_equip#1388	foot_equip	1388	(item/equipamento)	(item/equipment)	sistema		武器攻撃に風属性が付加	Adds Wind element to weapon attacks.	
+foot_equip#1389	foot_equip	1389	(item/equipamento)	(item/equipment)	sistema		攻撃属性（光）	Attack Element (Light)	
+foot_equip#1390	foot_equip	1390	(item/equipamento)	(item/equipment)	sistema		攻撃属性付加（光）	Add Light Element to Attacks	
+foot_equip#1391	foot_equip	1391	(item/equipamento)	(item/equipment)	sistema		武器攻撃に光属性が付加	Adds Light element to weapon attacks.	
+foot_equip#1392	foot_equip	1392	(item/equipamento)	(item/equipment)	sistema		攻撃属性（闇）	Attack Element (Dark)	
+foot_equip#1393	foot_equip	1393	(item/equipamento)	(item/equipment)	sistema		攻撃属性付加（闇）	Add Dark Element to Attacks	
+foot_equip#1394	foot_equip	1394	(item/equipamento)	(item/equipment)	sistema		武器攻撃に闇属性が付加	Adds Dark element to weapon attacks.	
+foot_equip#1395	foot_equip	1395	(item/equipamento)	(item/equipment)	sistema		防御属性（土）	Defense Element (Earth)	
+foot_equip#1396	foot_equip	1396	(item/equipamento)	(item/equipment)	sistema		防御属性付加(土)	Add Earth Defense	
+foot_equip#1397	foot_equip	1397	(item/equipamento)	(item/equipment)	sistema		防御属性弱体化（土）	Weaken Earth Defense	
+foot_equip#1398	foot_equip	1398	(item/equipamento)	(item/equipment)	sistema		土属性のダメージを軽減	Reduces Earth damage.	
+foot_equip#1399	foot_equip	1399	(item/equipamento)	(item/equipment)	sistema		土属性の攻撃に弱くなる	Becomes weak to Earth attacks.	
+foot_equip#1400	foot_equip	1400	(item/equipamento)	(item/equipment)	sistema		防御属性（水）	Defense Element (Water)	
+foot_equip#1401	foot_equip	1401	(item/equipamento)	(item/equipment)	sistema		防御属性付加(水)	Add Water Defense	
+foot_equip#1402	foot_equip	1402	(item/equipamento)	(item/equipment)	sistema		防御属性弱体化（水）	Weaken Water Defense	
+foot_equip#1403	foot_equip	1403	(item/equipamento)	(item/equipment)	sistema		水属性のダメージを軽減	Reduces Water damage.	
+foot_equip#1404	foot_equip	1404	(item/equipamento)	(item/equipment)	sistema		水属性の攻撃に弱くなる	Becomes weak to Water attacks.	
+foot_equip#1405	foot_equip	1405	(item/equipamento)	(item/equipment)	sistema		防御属性（火）	Defense Element (Fire)	
+foot_equip#1406	foot_equip	1406	(item/equipamento)	(item/equipment)	sistema		防御属性付加(火)	Add Fire Defense	
+foot_equip#1407	foot_equip	1407	(item/equipamento)	(item/equipment)	sistema		防御属性弱体化（火）	Weaken Fire Defense	
+foot_equip#1408	foot_equip	1408	(item/equipamento)	(item/equipment)	sistema		火属性のダメージを軽減	Reduces Fire damage.	
+foot_equip#1409	foot_equip	1409	(item/equipamento)	(item/equipment)	sistema		火属性の攻撃に弱くなる	Becomes weak to Fire attacks.	
+foot_equip#1410	foot_equip	1410	(item/equipamento)	(item/equipment)	sistema		防御属性（風）	Defense Element (Wind)	
+foot_equip#1411	foot_equip	1411	(item/equipamento)	(item/equipment)	sistema		防御属性付加(風)	Add Wind Defense	
+foot_equip#1412	foot_equip	1412	(item/equipamento)	(item/equipment)	sistema		防御属性弱体化（風）	Weaken Wind Defense	
+foot_equip#1413	foot_equip	1413	(item/equipamento)	(item/equipment)	sistema		風属性のダメージを軽減	Reduces Wind damage.	
+foot_equip#1414	foot_equip	1414	(item/equipamento)	(item/equipment)	sistema		風属性の攻撃に弱くなる	Becomes weak to Wind attacks.	
+foot_equip#1415	foot_equip	1415	(item/equipamento)	(item/equipment)	sistema		防御属性（光）	Defense Element (Light)	
+foot_equip#1416	foot_equip	1416	(item/equipamento)	(item/equipment)	sistema		防御属性付加(光)	Add Light Defense	
+foot_equip#1417	foot_equip	1417	(item/equipamento)	(item/equipment)	sistema		防御属性弱体化（光）	Weaken Light Defense	
+foot_equip#1418	foot_equip	1418	(item/equipamento)	(item/equipment)	sistema		光属性のダメージを軽減	Reduces Light damage.	
+foot_equip#1419	foot_equip	1419	(item/equipamento)	(item/equipment)	sistema		光属性の攻撃に弱くなる	Becomes weak to Light attacks.	
+foot_equip#1420	foot_equip	1420	(item/equipamento)	(item/equipment)	sistema		防御属性（闇）	Defense Element (Dark)	
+foot_equip#1421	foot_equip	1421	(item/equipamento)	(item/equipment)	sistema		防御属性付加(闇)	Add Dark Defense	
+foot_equip#1422	foot_equip	1422	(item/equipamento)	(item/equipment)	sistema		防御属性弱体化（闇）	Weaken Dark Defense	
+foot_equip#1423	foot_equip	1423	(item/equipamento)	(item/equipment)	sistema		闇属性のダメージを軽減	Reduces Dark damage.	
+foot_equip#1424	foot_equip	1424	(item/equipamento)	(item/equipment)	sistema		闇属性の攻撃に弱くなる	Becomes weak to Dark attacks.	
+foot_equip#1425	foot_equip	1425	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ＋%d％	Max HP +%d%	
+foot_equip#1426	foot_equip	1426	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ−%d％	Max HP -%d%	
+foot_equip#1427	foot_equip	1427	(item/equipamento)	(item/equipment)	sistema		キャラクターの最大ＨＰが上昇。同効果装備があればさらに加算	Increases character's Max HP. Stacks with same effect.	
+foot_equip#1428	foot_equip	1428	(item/equipamento)	(item/equipment)	sistema		キャラクターの最大ＨＰが減少	Decreases character's Max HP.	
+foot_equip#1429	foot_equip	1429	(item/equipamento)	(item/equipment)	sistema		最大ＴＰ＋%d％	Max TP +%d%	
+foot_equip#1430	foot_equip	1430	(item/equipamento)	(item/equipment)	sistema		最大ＴＰ−%d％	Max TP -%d%	
+foot_equip#1431	foot_equip	1431	(item/equipamento)	(item/equipment)	sistema		キャラクターの最大ＴＰが上昇。同効果装備があればさらに加算	Increases character's Max TP. Stacks with same effect.	
+foot_equip#1432	foot_equip	1432	(item/equipamento)	(item/equipment)	sistema		キャラクターの最大ＴＰが減少	Decreases character's Max TP.	
+foot_equip#1433	foot_equip	1433	(item/equipamento)	(item/equipment)	sistema		基礎物理攻撃力＋%d％	Base P.Atk +%d%	
+foot_equip#1434	foot_equip	1434	(item/equipamento)	(item/equipment)	sistema		基礎物理攻撃力−%d％	Base P.Atk -%d%	
+foot_equip#1435	foot_equip	1435	(item/equipamento)	(item/equipment)	sistema		キャラクターの基礎物理攻撃力が上昇	Increases character's base P.Atk.	
+foot_equip#1436	foot_equip	1436	(item/equipamento)	(item/equipment)	sistema		キャラクターの基礎物理攻撃力が減少	Decreases character's base P.Atk.	
+foot_equip#1437	foot_equip	1437	(item/equipamento)	(item/equipment)	sistema		基礎術攻撃力＋%d％	Base M.Atk +%d%	
+foot_equip#1438	foot_equip	1438	(item/equipamento)	(item/equipment)	sistema		基礎術攻撃力−%d％	Base M.Atk -%d%	
+foot_equip#1439	foot_equip	1439	(item/equipamento)	(item/equipment)	sistema		キャラクターの基礎術攻撃力が上昇	Increases character's base M.Atk.	
+foot_equip#1440	foot_equip	1440	(item/equipamento)	(item/equipment)	sistema		キャラクターの基礎術攻撃力が減少	Decreases character's base M.Atk.	
+foot_equip#1441	foot_equip	1441	(item/equipamento)	(item/equipment)	sistema		基礎物理防御力＋%d％	Base P.Def +%d%	
+foot_equip#1442	foot_equip	1442	(item/equipamento)	(item/equipment)	sistema		基礎物理防御力−%d％	Base P.Def -%d%	
+foot_equip#1443	foot_equip	1443	(item/equipamento)	(item/equipment)	sistema		キャラクターの基礎物理防御力が上昇	Increases character's base P.Def.	
+foot_equip#1444	foot_equip	1444	(item/equipamento)	(item/equipment)	sistema		キャラクターの基礎物理防御力が減少	Decreases character's base P.Def.	
+foot_equip#1445	foot_equip	1445	(item/equipamento)	(item/equipment)	sistema		基礎術防御力＋%d％	Base M.Def +%d%	
+foot_equip#1446	foot_equip	1446	(item/equipamento)	(item/equipment)	sistema		基礎術防御力−%d％	Base M.Def -%d%	
+foot_equip#1447	foot_equip	1447	(item/equipamento)	(item/equipment)	sistema		キャラクターの基礎術防御力が上昇	Increases character's base M.Def.	
+foot_equip#1448	foot_equip	1448	(item/equipamento)	(item/equipment)	sistema		キャラクターの基礎術防御力が減少	Decreases character's base M.Def.	
+foot_equip#1449	foot_equip	1449	(item/equipamento)	(item/equipment)	sistema		基礎敏捷値＋%d	Base Agi +%d	
+foot_equip#1450	foot_equip	1450	(item/equipamento)	(item/equipment)	sistema		基礎敏捷値−%d	Base Agi -%d	
+foot_equip#1451	foot_equip	1451	(item/equipamento)	(item/equipment)	sistema		キャラクターの基礎敏捷値が上昇	Increases character's base Agi.	
+foot_equip#1452	foot_equip	1452	(item/equipamento)	(item/equipment)	sistema		キャラクターの基礎敏捷値が減少	Decreases character's base Agi.	
+foot_equip#1453	foot_equip	1453	(item/equipamento)	(item/equipment)	sistema		詠唱時間	Cast Time	
+foot_equip#1454	foot_equip	1454	(item/equipamento)	(item/equipment)	sistema		詠唱時間＋%d％	Cast Time +%d%	
+foot_equip#1455	foot_equip	1455	(item/equipamento)	(item/equipment)	sistema		詠唱時間−%d％	Cast Time -%d%	
+foot_equip#1456	foot_equip	1456	(item/equipamento)	(item/equipment)	sistema		術の詠唱時間が長くなる	Increases arte casting time.	
+foot_equip#1457	foot_equip	1457	(item/equipamento)	(item/equipment)	sistema		術の詠唱時間が短縮。他部位の同効果は加算	Shortens arte casting time. Stacks with other equipment.	
+foot_equip#1458	foot_equip	1458	(item/equipamento)	(item/equipment)	sistema		TP消費量	TP Consumption	
+foot_equip#1459	foot_equip	1459	(item/equipamento)	(item/equipment)	sistema		TP消費量＋%d％	TP Consumption +%d%	
+foot_equip#1460	foot_equip	1460	(item/equipamento)	(item/equipment)	sistema		ＴＰ消費量−%d％	TP Consumption -%d%	
+foot_equip#1461	foot_equip	1461	(item/equipamento)	(item/equipment)	sistema		術や技の消費ＴＰ量が増加	Increases TP consumed by artes and skills.	
+foot_equip#1462	foot_equip	1462	(item/equipamento)	(item/equipment)	sistema		術や技の消費ＴＰ量が減少。他部位の同効果は加算	Decreases TP consumed by artes and skills. Stacks with other equipment.	
+foot_equip#1463	foot_equip	1463	(item/equipamento)	(item/equipment)	sistema		ガード強化	Guard Reinforcement	
+foot_equip#1464	foot_equip	1464	(item/equipamento)	(item/equipment)	sistema		ガード強化＋%d	Guard Reinforcement +%d	
+foot_equip#1465	foot_equip	1465	(item/equipamento)	(item/equipment)	sistema		ガードブレイクされにくい。同効果装備があればさらに加算	Harder to guard break. Stacks with same effect.	
+foot_equip#1466	foot_equip	1466	(item/equipamento)	(item/equipment)	sistema		仰け反り耐性	Stagger Resistance	
+foot_equip#1467	foot_equip	1467	(item/equipamento)	(item/equipment)	sistema		仰け反り耐性＋%d	Stagger Resistance +%d	
+foot_equip#1468	foot_equip	1468	(item/equipamento)	(item/equipment)	sistema		攻撃を受けた時に仰け反りにくい	Harder to stagger when receiving attacks.	
+foot_equip#1469	foot_equip	1469	(item/equipamento)	(item/equipment)	sistema		リザルトTP回復	Result TP Recovery	
+foot_equip#1470	foot_equip	1470	(item/equipamento)	(item/equipment)	sistema		リザルトＴＰ回復＋%d％	Result TP Recovery +%d%	
+foot_equip#1471	foot_equip	1471	(item/equipamento)	(item/equipment)	sistema		リザルト時に回復するＴＰ量が変化。同効果装備があればさらに加算	Modifies TP recovered on victory screen. Stacks with same effect.	
+foot_equip#1472	foot_equip	1472	(item/equipamento)	(item/equipment)	sistema		敵のターゲットになりやすい	Easier to Become Enemy Target	
+foot_equip#1473	foot_equip	1473	(item/equipamento)	(item/equipment)	sistema		戦闘中、敵から狙われやすい	Easier to be targeted by enemies in battle.	
+foot_equip#1474	foot_equip	1474	(item/equipamento)	(item/equipment)	sistema		敵のターゲットになりにくい	Harder to Become Enemy Target	
+foot_equip#1475	foot_equip	1475	(item/equipamento)	(item/equipment)	sistema		戦闘中、敵から狙われにくい	Harder to be targeted by enemies in battle.	
+foot_equip#1476	foot_equip	1476	(item/equipamento)	(item/equipment)	sistema		毒を防止	Prevent Poison	
+foot_equip#1477	foot_equip	1477	(item/equipamento)	(item/equipment)	sistema		毒状態を無効化	Nullifies poison.	
+foot_equip#1478	foot_equip	1478	(item/equipamento)	(item/equipment)	sistema		衰弱を防止	Prevent Weakness	
+foot_equip#1479	foot_equip	1479	(item/equipamento)	(item/equipment)	sistema		衰弱状態を無効化	Nullifies weakness.	
+foot_equip#1480	foot_equip	1480	(item/equipamento)	(item/equipment)	sistema		気絶を防止	Prevent Stun	
+foot_equip#1481	foot_equip	1481	(item/equipamento)	(item/equipment)	sistema		気絶状態を無効化	Nullifies stun.	
+foot_equip#1482	foot_equip	1482	(item/equipamento)	(item/equipment)	sistema		術技封印を防止	Prevent Arte/Skill Seal	
+foot_equip#1483	foot_equip	1483	(item/equipamento)	(item/equipment)	sistema		術技封印状態を無効化	Nullifies arte and skill seal.	
+foot_equip#1484	foot_equip	1484	(item/equipamento)	(item/equipment)	sistema		麻痺を防止	Prevent Paralysis	
+foot_equip#1485	foot_equip	1485	(item/equipamento)	(item/equipment)	sistema		麻痺状態を無効化	Nullifies paralysis.	
+foot_equip#1486	foot_equip	1486	(item/equipamento)	(item/equipment)	sistema		石化を防止	Prevent Petrification	
+foot_equip#1487	foot_equip	1487	(item/equipamento)	(item/equipment)	sistema		石化状態を無効化	Nullifies petrification.	
+foot_equip#1488	foot_equip	1488	(item/equipamento)	(item/equipment)	sistema		状態異常防止	Prevent Status Ailments	
+foot_equip#1489	foot_equip	1489	(item/equipamento)	(item/equipment)	sistema		全ての状態異常を無効化	Nullifies all status ailments.	
+foot_equip#1490	foot_equip	1490	(item/equipamento)	(item/equipment)	sistema		敵撃破時にHP回復	HP Recovery on Enemy Defeat	
+foot_equip#1491	foot_equip	1491	(item/equipamento)	(item/equipment)	sistema		敵撃破時にHP%d％回復	Recover %d% HP on Enemy Defeat	
+foot_equip#1492	foot_equip	1492	(item/equipamento)	(item/equipment)	sistema		敵に止めを刺した時、HPが回復。同効果装備があればさらに加算	Recovers HP when dealing the finishing blow. Stacks with same effect.	
+foot_equip#1493	foot_equip	1493	(item/equipamento)	(item/equipment)	sistema		敵撃破時にTP回復	TP Recovery on Enemy Defeat	
+foot_equip#1494	foot_equip	1494	(item/equipamento)	(item/equipment)	sistema		敵撃破時にTP%d％回復	Recover %d% TP on Enemy Defeat	
+foot_equip#1495	foot_equip	1495	(item/equipamento)	(item/equipment)	sistema		敵に止めを刺した時、TPが回復。同効果装備があればさらに加算	Recovers TP when dealing the finishing blow. Stacks with same effect.	
+foot_equip#1496	foot_equip	1496	(item/equipamento)	(item/equipment)	sistema		獲得経験値	EXP Earned	
+foot_equip#1497	foot_equip	1497	(item/equipamento)	(item/equipment)	sistema		獲得経験値＋%d％	EXP Earned +%d%	
+foot_equip#1498	foot_equip	1498	(item/equipamento)	(item/equipment)	sistema		戦闘で獲得する経験値が増加。同効果装備があればさらに加算	Increases EXP earned in battle. Stacks with same effect.	
+foot_equip#1499	foot_equip	1499	(item/equipamento)	(item/equipment)	sistema		獲得グレードポイント	Grade Points Earned	
+foot_equip#1500	foot_equip	1500	(item/equipamento)	(item/equipment)	sistema		獲得グレードポイント＋%d％	Grade Points Earned +%d%	
+foot_equip#1501	foot_equip	1501	(item/equipamento)	(item/equipment)	sistema		戦闘で獲得するグレードポイントが増加。同効果装備があればさらに加算	Increases Grade Points earned in battle. Stacks with same effect.	
+foot_equip#1502	foot_equip	1502	(item/equipamento)	(item/equipment)	sistema		獲得ガルド	Gald Earned	
+foot_equip#1503	foot_equip	1503	(item/equipamento)	(item/equipment)	sistema		獲得ガルド＋%d％	Gald Earned +%d%	
+foot_equip#1504	foot_equip	1504	(item/equipamento)	(item/equipment)	sistema		戦闘で獲得するガルドが増加。同効果装備があればさらに加算	Increases Gald earned in battle. Stacks with same effect.	
+foot_equip#1505	foot_equip	1505	(item/equipamento)	(item/equipment)	sistema		レア獲得増	Rare Drop Boost	
+foot_equip#1506	foot_equip	1506	(item/equipamento)	(item/equipment)	sistema		レア獲得増＋%d	Rare Drop Boost +%d	
+foot_equip#1507	foot_equip	1507	(item/equipamento)	(item/equipment)	sistema		スキルの付いた装備を入手しやすい。同効果装備があればさらに加算	Easier to obtain gear with skills. Stacks with same effect.	
+foot_equip#1508	foot_equip	1508	(item/equipamento)	(item/equipment)	sistema		スキルスロット増	Skill Slot Boost	
+foot_equip#1509	foot_equip	1509	(item/equipamento)	(item/equipment)	sistema		スキルスロット増＋%d	Skill Slot Boost +%d	
+foot_equip#1510	foot_equip	1510	(item/equipamento)	(item/equipment)	sistema		スキルスロットが多い装備を入手しやすい。同効果装備があればさらに加算	Easier to obtain gear with more skill slots. Stacks with same effect.	
+foot_equip#1511	foot_equip	1511	(item/equipamento)	(item/equipment)	sistema		獲得アイテム増	Item Drop Boost	
+foot_equip#1512	foot_equip	1512	(item/equipamento)	(item/equipment)	sistema		敵からのアイテム獲得＋%d	Enemy Item Drops +%d	
+foot_equip#1513	foot_equip	1513	(item/equipamento)	(item/equipment)	sistema		倒した敵からアイテムを入手しやすい。同効果装備があればさらに加算	Easier to obtain items from defeated enemies. Stacks with same effect.	
+foot_equip#1514	foot_equip	1514	(item/equipamento)	(item/equipment)	sistema		採取効果	Foraging Effect	
+foot_equip#1515	foot_equip	1515	(item/equipamento)	(item/equipment)	sistema		採取効果＋%d	Foraging Effect +%d	
+foot_equip#1516	foot_equip	1516	(item/equipamento)	(item/equipment)	sistema		採取でアイテムを入手しやすい。同効果装備があればさらに加算	Easier to obtain items from foraging. Stacks with same effect.	
+foot_equip#1517	foot_equip	1517	(item/equipamento)	(item/equipment)	sistema		採掘効果	Mining Effect	
+foot_equip#1518	foot_equip	1518	(item/equipamento)	(item/equipment)	sistema		採掘効果＋%d	Mining Effect +%d	
+foot_equip#1519	foot_equip	1519	(item/equipamento)	(item/equipment)	sistema		採掘でアイテムを入手しやすい。同効果装備があればさらに加算	Easier to obtain items from mining. Stacks with same effect.	
+foot_equip#1520	foot_equip	1520	(item/equipamento)	(item/equipment)	sistema		宝箱ドロップ効果	Treasure Chest Drop Effect	
+foot_equip#1521	foot_equip	1521	(item/equipamento)	(item/equipment)	sistema		宝箱ドロップ効果＋%d	Treasure Chest Drop Effect +%d	
+foot_equip#1522	foot_equip	1522	(item/equipamento)	(item/equipment)	sistema		宝箱からアイテムを入手しやすい。同効果装備があればさらに加算	Easier to obtain items from treasure chests. Stacks with same effect.	
+foot_equip#1523	foot_equip	1523	(item/equipamento)	(item/equipment)	sistema		クエスト報酬	Quest Rewards	
+foot_equip#1524	foot_equip	1524	(item/equipamento)	(item/equipment)	sistema		クエスト報酬獲得＋%d	Quest Rewards Earned +%d	
+foot_equip#1525	foot_equip	1525	(item/equipamento)	(item/equipment)	sistema		クエストの報酬候補の取得率が上がる	Increases acquisition rate of candidate quest rewards.	
+foot_equip#1526	foot_equip	1526	(item/equipamento)	(item/equipment)	sistema		マップ移動速度	Map Movement Speed	
+foot_equip#1527	foot_equip	1527	(item/equipamento)	(item/equipment)	sistema		ダンジョン移動速度＋%d％	Dungeon Movement Speed +%d%	
+foot_equip#1528	foot_equip	1528	(item/equipamento)	(item/equipment)	sistema		ダンジョン移動速度−%d％	Dungeon Movement Speed -%d%	
+foot_equip#1529	foot_equip	1529	(item/equipamento)	(item/equipment)	sistema		ダンジョンでの移動速度が上昇	Increases movement speed in dungeons.	
+foot_equip#1530	foot_equip	1530	(item/equipamento)	(item/equipment)	sistema		ダンジョンでの移動速度が減少	Decreases movement speed in dungeons.	
+foot_equip#1531	foot_equip	1531	(item/equipamento)	(item/equipment)	sistema		逃走時間	Escape Time	
+foot_equip#1532	foot_equip	1532	(item/equipamento)	(item/equipment)	sistema		逃走時間＋%d％	Escape Time +%d%	
+foot_equip#1533	foot_equip	1533	(item/equipamento)	(item/equipment)	sistema		逃走時間−%d％	Escape Time -%d%	
+foot_equip#1534	foot_equip	1534	(item/equipamento)	(item/equipment)	sistema		逃走に必要な時間が長くなる	Increases time required to escape.	
+foot_equip#1535	foot_equip	1535	(item/equipamento)	(item/equipment)	sistema		逃走に必要な時間が短くなる	Shortens time required to escape.	
+foot_equip#1536	foot_equip	1536	(item/equipamento)	(item/equipment)	sistema		バックアタックペナルティ無視	Ignore Back Attack Penalty	
+foot_equip#1537	foot_equip	1537	(item/equipamento)	(item/equipment)	sistema		常にバックアタックされる	Always Suffer Back Attack	
+foot_equip#1538	foot_equip	1538	(item/equipamento)	(item/equipment)	sistema		敵シンボルに後ろから接触されても、\nバックアタックされない	Prevents back attacks even when touched\nfrom behind by an enemy symbol.	
+foot_equip#1539	foot_equip	1539	(item/equipamento)	(item/equipment)	sistema		常にバックアタックされてしまう	Always results in a back attack.	
+foot_equip#1540	foot_equip	1540	(item/equipamento)	(item/equipment)	sistema		敵シンボルの移動速度＋%d％	Enemy Symbol Movement Speed +%d%	
+foot_equip#1541	foot_equip	1541	(item/equipamento)	(item/equipment)	sistema		敵シンボルの移動速度−%d％	Enemy Symbol Movement Speed -%d%	
+foot_equip#1542	foot_equip	1542	(item/equipamento)	(item/equipment)	sistema		ダンジョンでの敵シンボルの移動速度が上昇	Increases enemy symbol movement speed in dungeons.	
+foot_equip#1543	foot_equip	1543	(item/equipamento)	(item/equipment)	sistema		ダンジョンでの敵シンボルの移動速度が減少	Decreases enemy symbol movement speed in dungeons.	
+foot_equip#1544	foot_equip	1544	(item/equipamento)	(item/equipment)	sistema		敵シンボルの出現頻度＋%d％	Enemy Symbol Spawn Rate +%d%	
+foot_equip#1545	foot_equip	1545	(item/equipamento)	(item/equipment)	sistema		敵シンボルの出現頻度−%d％	Enemy Symbol Spawn Rate -%d%	
+foot_equip#1546	foot_equip	1546	(item/equipamento)	(item/equipment)	sistema		ダンジョンでの敵シンボルの出現頻度が上昇	Increases enemy symbol spawn rate in dungeons.	
+foot_equip#1547	foot_equip	1547	(item/equipamento)	(item/equipment)	sistema		ダンジョンでの敵シンボルの出現頻度が減少	Decreases enemy symbol spawn rate in dungeons.	
+foot_equip#1548	foot_equip	1548	(item/equipamento)	(item/equipment)	sistema		敵シンボルが襲ってきにくい	Enemy Symbols Less Aggressive	
+foot_equip#1549	foot_equip	1549	(item/equipamento)	(item/equipment)	sistema		敵シンボルが襲ってきやすい	Enemy Symbols More Aggressive	
+foot_equip#1550	foot_equip	1550	(item/equipamento)	(item/equipment)	sistema		ダンジョンでの敵シンボルの行動が消極的になる	Enemy symbols behave less aggressively in dungeons.	
+foot_equip#1551	foot_equip	1551	(item/equipamento)	(item/equipment)	sistema		ダンジョンでの敵シンボルが好戦的になる	Enemy symbols become more aggressive in dungeons.	
+foot_equip#1552	foot_equip	1552	(item/equipamento)	(item/equipment)	sistema		装備スキルが空白のスロットです。合成で装備スキルを付加出来ます	An empty equip skill slot. You can add equip skills through synthesis.	
+consumable#0	consumable	0	(item/equipamento)	(item/equipment)	sistema		アップルグミ	Apple Gummy	
+consumable#1	consumable	1	(item/equipamento)	(item/equipment)	sistema		アップルとグミの元で作られた、ゼリー状の薬	A jelly-like medicine made from an apple and a gummy base.	
+consumable#2	consumable	2	(item/equipamento)	(item/equipment)	sistema		オレンジグミ	Orange Gummy	
+consumable#3	consumable	3	(item/equipamento)	(item/equipment)	sistema		オレンジとグミの元で作られた、ゼリー状の薬	A jelly-like medicine made from an orange and a gummy base.	
+consumable#4	consumable	4	(item/equipamento)	(item/equipment)	sistema		レモングミ	Lemon Gummy	
+consumable#5	consumable	5	(item/equipamento)	(item/equipment)	sistema		レモンとグミの元で作られた、ゼリー状の薬	A jelly-like medicine made from a lemon and a gummy base.	
+consumable#6	consumable	6	(item/equipamento)	(item/equipment)	sistema		パイングミ	Pine Gummy	
+consumable#7	consumable	7	(item/equipamento)	(item/equipment)	sistema		パインとグミの元で作られた、ゼリー状の薬	A jelly-like medicine made from a pineapple and a gummy base.	
+consumable#8	consumable	8	(item/equipamento)	(item/equipment)	sistema		ミックスグミ	Mix Gummy	
+consumable#9	consumable	9	(item/equipamento)	(item/equipment)	sistema		アップルとオレンジとグミの元で作られた、ゼリー状の薬	A jelly-like medicine made from an apple, an orange, and a gummy base.	
+consumable#10	consumable	10	(item/equipamento)	(item/equipment)	sistema		ミラクルグミ	Miracle Gummy	
+consumable#11	consumable	11	(item/equipamento)	(item/equipment)	sistema		何もかもが奇跡的な、ゼリー状の薬	A jelly-like medicine that is miraculous in every way.	
+consumable#12	consumable	12	(item/equipamento)	(item/equipment)	sistema		スペシフィック	Specific	
+consumable#13	consumable	13	(item/equipamento)	(item/equipment)	sistema		コラ・ナッツとグミの元で作られた、ゼリー状の薬	A jelly-like medicine made from cola nuts and a gummy base.	
+consumable#14	consumable	14	(item/equipamento)	(item/equipment)	sistema		トリート	Treat	
+consumable#15	consumable	15	(item/equipamento)	(item/equipment)	sistema		大量のグミ素材から作られた、ゼリー状の薬	A jelly-like medicine made from a large quantity of gummy ingredients.	
+consumable#16	consumable	16	(item/equipamento)	(item/equipment)	sistema		キュアボトル	Cure Bottle	
+consumable#17	consumable	17	(item/equipamento)	(item/equipment)	sistema		状態異常を回復させる、液体薬品	A liquid medicine that cures status ailments.	
+consumable#18	consumable	18	(item/equipamento)	(item/equipment)	sistema		ディネイボトル	Dinei Bottle	
+consumable#19	consumable	19	(item/equipamento)	(item/equipment)	sistema		状態変化を回復させる、液体薬品	A liquid medicine that cures stat changes.	
+consumable#20	consumable	20	(item/equipamento)	(item/equipment)	sistema		パナシーアボトル	Panacea Bottle	
+consumable#21	consumable	21	(item/equipamento)	(item/equipment)	sistema		状態異常と状態変化を回復させる、液体薬品	A liquid medicine that cures status ailments and stat changes.	
+consumable#22	consumable	22	(item/equipamento)	(item/equipment)	sistema		ライフボトル	Life Bottle	
+consumable#23	consumable	23	(item/equipamento)	(item/equipment)	sistema		戦闘不能を回復させる、液体薬品	A liquid medicine that revives fallen allies.	
+consumable#24	consumable	24	(item/equipamento)	(item/equipment)	sistema		エリクシール	Elixir	
+consumable#25	consumable	25	(item/equipamento)	(item/equipment)	sistema		HP、TP、状態異常を全て回復する万能薬	A panacea that completely restores HP, TP, and cures status ailments.	
+consumable#26	consumable	26	(item/equipamento)	(item/equipment)	sistema		スペクタクルズ	Spectacles	
+consumable#27	consumable	27	(item/equipamento)	(item/equipment)	sistema		敵のステータスを解析	Analyzes an enemy's stats.	
+consumable#28	consumable	28	(item/equipamento)	(item/equipment)	sistema		ハナアブラダケ	Oily Flower Mushroom	
+consumable#29	consumable	29	(item/equipamento)	(item/equipment)	sistema		ティトレイ自慢のキノコ料理の材料	Ingredients for Tytree's prized mushroom dish.	

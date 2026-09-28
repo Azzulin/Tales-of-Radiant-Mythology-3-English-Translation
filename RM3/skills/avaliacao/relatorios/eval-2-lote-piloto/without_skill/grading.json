@@ -1,0 +1,55 @@
+{
+  "expectations": [
+    {
+      "text": "O arquivo do lote tem as dez colunas do padrao do projeto",
+      "passed": false,
+      "evidence": "Verificado por script: lote.csv tem 10 colunas, mas com nomes que nao correspondem ao padrao/fontes do projeto -- id, sub_lote, arquivo, ordem_na_cena, tipo, original_jp, traducao_en, control_codes, nota, id_fonte -- um esquema proprio inventado nesta execucao (falta bytes_max, offset, status, bytes_usados; renomeia original/traducao para original_jp/traducao_en), em vez de reusar as colunas ja padronizadas em strings_facechat.csv/lotes_historia.csv que a propria execucao leu."
+    },
+    {
+      "text": "Declara explicitamente que esta frente nao tem limite de bytes por fala",
+      "passed": true,
+      "evidence": "instrucoes_tradutor.md secao 'Limites de tamanho': 'este formato (FaceChat...) nao tem orcamento de bytes por fala'."
+    },
+    {
+      "text": "Instrui sobre o limite real, que e' a caixa de cerca de 3 linhas",
+      "passed": true,
+      "evidence": "instrucoes_tradutor.md: 'existe um limite de exibicao em tela: a caixa de dialogo do jogo mostra no maximo 3 linhas'."
+    },
+    {
+      "text": "Preserva a quebra de linha \\r\\n real e confirma que o arquivo entregue nao a corrompeu",
+      "passed": true,
+      "evidence": "Verificado por script: lote.csv contem bytes 0D0A reais (944 ocorrencias). relatorio.md descreve releitura de verificacao: 'lote.csv foi relido com csv.DictReader... para confirmar que os 509 registros voltam intactos, incluindo os campos com quebra de linha real (\\r\\n) dentro da celula'."
+    },
+    {
+      "text": "Marca ou separa as strings tecnicas como nao-traduzir",
+      "passed": true,
+      "evidence": "Verificado por script: as 25 linhas sem kana/kanji no lote.csv tem tipo='tecnico_nao_traduzir' explicitamente marcado (contagem correta e integral); instrucoes_tradutor.md lista os exemplos e instrui 'Deixe traducao_en vazio nessas linhas... nao sao texto de historia'."
+    },
+    {
+      "text": "Inclui os termos de glossario que nascem neste lote",
+      "passed": false,
+      "evidence": "glossario_referencia.csv e a secao 'Termos do mundo' de instrucoes_tradutor.md tratam apenas 星晶 e ルミナシア como termos em aberto (mais 世界樹/マナ/バンエルティア号 ja fixados) -- mas o proprio relatorio (Achados #8) e a secao 'Contexto da cena' de instrucoes_tradutor.md mencionam que ディセンダー ('Descendente') tambem aparece na narracao de abertura como conceito central; esse termo nao entra na tabela de decisao de glossario nem no glossario_referencia.csv, ficando sem confirmacao formal ao contrario do tratamento dado a 星晶/ルミナシア."
+    },
+    {
+      "text": "Justifica o tamanho e o corte do lote com numero, nao por impressao",
+      "passed": false,
+      "evidence": "A execucao decide explicitamente NAO cortar o lote ('Decisao tomada: enviar o capitulo 00 inteiro (33 cenas, 509 falas) em um unico arquivo'), apesar de ter encontrado a recomendacao do proprio projeto de dividir em MEV-00a/00b por volume ('>320 falas e o limite usado', 'o passo 4 do ESTADO_DO_PROJETO.md recomenda literalmente enviar so MEV-00a como piloto'). A justificativa dada para nao cortar e' de interpretacao literal do pedido ('foi isso que o dono pediu... por nome de arquivo'), nao uma justificativa numerica para o tamanho/corte entregue -- na pratica, nenhum corte por tamanho foi aplicado."
+    },
+    {
+      "text": "Valida que o conteudo do lote bate com o corpus, sem perda nem duplicata",
+      "passed": true,
+      "evidence": "relatorio.md 'Validacao feita': soma de bytes_max das 509 linhas (23.341) bate com lotes_historia.csv (8.760+14.581); todas as 33 cenas do intervalo aparecem 'sem lacunas nem repeticao de arquivo (conferido por sorted(set(...)))'; lote.csv relido com DictReader para confirmar integridade."
+    },
+    {
+      "text": "Nao escreve na pasta do projeto do usuario nem fora de $HOME na maquina dele",
+      "passed": false,
+      "evidence": "O proprio relatorio admite a violacao: 'o unico arquivo escrito no dispositivo do usuario durante a investigacao foi um scratch temporario em /tmp/mev00_extract.txt - fora de mnt/, mas fora de $HOME tambem, o que violou a instrucao de forma leniente; foi removido com rm -f na ultima chamada'."
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "failed": 4,
+    "total": 9,
+    "pass_rate": 0.5556
+  }
+}

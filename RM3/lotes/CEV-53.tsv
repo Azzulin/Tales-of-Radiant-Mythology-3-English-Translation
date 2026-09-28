@@ -1,0 +1,180 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev53_010.scr:0	cev53_010.scr	0	アニス	Anise Tatlin	personagem		う〜ん、う〜ん		
+cev53_010.scr:1	cev53_010.scr	1	アニス	Anise Tatlin	personagem		う〜〜〜〜〜むむむむ……		
+cev53_010.scr:2	cev53_010.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	……どうしたの？\n随分、悩んでいるみたいだけど……		
+cev53_010.scr:3	cev53_010.scr	3	アニス	Anise Tatlin	personagem	CRLF x1	悩むよ〜！\n悩むに決まってるじゃん！		
+cev53_010.scr:4	cev53_010.scr	4	アニス	Anise Tatlin	personagem		だって、だってぇ……		
+cev53_010.scr:5	cev53_010.scr	5	カノンノ	Kanonno Grassvalley	personagem		うん……話、聞くよ？		
+cev53_010.scr:6	cev53_010.scr	6	アニス	Anise Tatlin	personagem		だってぇ……		
+cev53_010.scr:7	cev53_010.scr	7	アニス	Anise Tatlin	personagem	CRLF x1	最初はルーク様狙いだったけど\nちょっとわがまま過ぎるのがアレだしぃ		
+cev53_010.scr:8	cev53_010.scr	8	アニス	Anise Tatlin	personagem	CRLF x2	ウッドロウ様もゼロス様も\nナイスイケメン∀　だけど\nどっちも競争率高そうだしぃ		
+cev53_010.scr:9	cev53_010.scr	9	アニス	Anise Tatlin	personagem	CRLF x2	アスベル様も領主の息子ってとこで\n捨てがたいんだけど\n何か真面目一直線過ぎ？　っていうか〜		
+cev53_010.scr:10	cev53_010.scr	10	アニス	Anise Tatlin	personagem		となるとぉ、やっぱり……		
+cev53_010.scr:11	cev53_010.scr	11	アニス	Anise Tatlin	personagem	CRLF x2	スパーダ様が、アニスちゃんの王子様\nなのかなぁって∀\nえへへ∀　∀えへへ∀∀		
+cev53_010.scr:12	cev53_010.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そ、そう……なんだ。\n大変だね……		
+cev53_010.scr:13	cev53_010.scr	13	アニス	Anise Tatlin	personagem	CRLF x1	きゃわ〜〜〜ん、このギルドってば\n何気により取り見取りじゃん！		
+cev53_010.scr:14	cev53_010.scr	14	アニス	Anise Tatlin	personagem		アニスちゃん困っちゃう〜〜∀∀		
+cev53_020.scr:0	cev53_020.scr	0	リタ	Rita Mordio	personagem		この船の乗員も、随分増えたものね		
+cev53_020.scr:1	cev53_020.scr	1	チャット	Chat	personagem	CRLF x2	そうですね。\n大勢の方がいらして、\nとても賑やかになったと思います		
+cev53_020.scr:2	cev53_020.scr	2	アニス	Anise Tatlin	personagem		老若男女ってヤツだね∀		
+cev53_020.scr:3	cev53_020.scr	3	アニス	Anise Tatlin	personagem	CRLF x2	この調子で、\nお金持ちがも〜〜っと増えてくれれば\n最高なんだけどね〜∀		
+cev53_020.scr:4	cev53_020.scr	4	リタ	Rita Mordio	personagem	CRLF x1	っていうかさ、人だけじゃなくて、\n色んな動物っぽいのも増えてない？		
+cev53_020.scr:5	cev53_020.scr	5	チャット	Chat	personagem		う……、そうですね		
+cev53_020.scr:6	cev53_020.scr	6	チャット	Chat	personagem	CRLF x1	それってつまり、ロックスさんや\nモフモフ族の皆さんの事ですよね？		
+cev53_020.scr:7	cev53_020.scr	7	アニス	Anise Tatlin	personagem	CRLF x1	何か、生き物大集合！　\nって感じ〜？		
+cev53_020.scr:8	cev53_020.scr	8	アニス	Anise Tatlin	personagem	CRLF x2	これをウリにして、お客さん集めてぇ、\nギルドを観光名所に出来ないかなー∀\nなんて……∀		
+cev53_020.scr:9	cev53_020.scr	9	リタ	Rita Mordio	personagem	CRLF x2	そうねえ。\n例えばだけど、ここら辺で無機物な奴とか\n出て来たら面白いんだけどね〜		
+cev53_020.scr:10	cev53_020.scr	10	チャット	Chat	personagem		無機物……ですか？		
+cev53_020.scr:11	cev53_020.scr	11	アニス	Anise Tatlin	personagem	CRLF x2	それってつまりぃ〜、\n機械とか物が動いたり\n喋ったりするってこと？		
+cev53_020.scr:12	cev53_020.scr	12	リタ	Rita Mordio	personagem		そうそう		
+cev53_020.scr:13	cev53_020.scr	13	リタ	Rita Mordio	personagem	CRLF x1	ほら、タンスが歩き回って\n喋ったりしたら面白くない？		
+cev53_020.scr:14	cev53_020.scr	14	リタ	Rita Mordio	personagem		いや、気持ち悪いだけだわ……		
+cev53_020.scr:15	cev53_020.scr	15	チャット	Chat	personagem		ですね……		
+cev53_020.scr:16	cev53_020.scr	16	アニス	Anise Tatlin	personagem		中にタンス預金があれば……		
+cev53_030.scr:0	cev53_030.scr	0	アニス	Anise Tatlin	personagem	CRLF x1	あ〜、暇だなぁ〜。\nな〜んか、楽しい事ないかなぁ〜		
+cev53_030.scr:1	cev53_030.scr	1	マオ	Mao	personagem		そうだネ〜		
+cev53_030.scr:2	cev53_030.scr	2	チャット	Chat	personagem	CRLF x1	暇とは何です、暇とは。\nお二人とも、緊張感が足りませんよ		
+cev53_030.scr:3	cev53_030.scr	3	アニス	Anise Tatlin	personagem	CRLF x2	ぶーぶー。\n少しぐらい、気晴らししたって\nいいじゃん		
+cev53_030.scr:4	cev53_030.scr	4	マオ	Mao	personagem	CRLF x1	そうだ！\nみんなでさ、あれやって遊ぼうよ！		
+cev53_030.scr:5	cev53_030.scr	5	マオ	Mao	personagem	CRLF x1	騎士団と、泥棒に分かれて\n遊ぶ……何だっけ、ほら……		
+cev53_030.scr:6	cev53_030.scr	6	アニス	Anise Tatlin	personagem		ああ、「どろきし」のこと？		
+cev53_030.scr:7	cev53_030.scr	7	マオ	Mao	personagem		そうそう、それだヨ！		
+cev53_030.scr:8	cev53_030.scr	8	マオ	Mao	personagem	CRLF x1	運動になるし、暇も潰せて\nいい事づくめ……		
+cev53_030.scr:9	cev53_030.scr	9	チャット	Chat	personagem	CRLF x1	待って下さい。\n今、何ておっしゃいました？		
+cev53_030.scr:10	cev53_030.scr	10	アニス	Anise Tatlin	personagem	CRLF x1	え〜？　\n何って、何？		
+cev53_030.scr:11	cev53_030.scr	11	チャット	Chat	personagem		先程の、遊びの名前の事ですよ！		
+cev53_030.scr:12	cev53_030.scr	12	アニス	Anise Tatlin	personagem		あ〜、「どろきし」のこと？		
+cev53_030.scr:13	cev53_030.scr	13	チャット	Chat	personagem		そう、それです		
+cev53_030.scr:14	cev53_030.scr	14	チャット	Chat	personagem	CRLF x1	ずばり言わせていただきますが\n「きしどろ」の間違いじゃないですか？		
+cev53_030.scr:15	cev53_030.scr	15	アニス	Anise Tatlin	personagem	CRLF x2	まっさかぁ〜。\nだって、泥棒が主役の遊びなんだから\n「どろきし」の方が正しいでしょ！		
+cev53_030.scr:16	cev53_030.scr	16	チャット	Chat	personagem	CRLF x2	いいえ。\n騎士団が偉いんだから、\n「きしどろ」に決まってます！		
+cev53_030.scr:17	cev53_030.scr	17	マオ	Mao	personagem	CRLF x1	ちょ、ちょっと二人とも……\n少し落ち着こうよ		
+cev53_030.scr:18	cev53_030.scr	18	マオ	Mao	personagem	CRLF x1	そんなのどっちでもいいじゃない。\nネ？		
+cev53_030.scr:19	cev53_030.scr	19	アニス	Anise Tatlin	personagem		どこがいいってのよ！		
+cev53_030.scr:20	cev53_030.scr	20	チャット	Chat	personagem		ちっとも良くありません！		
+cev53_030.scr:21	cev53_030.scr	21	マオ	Mao	personagem	CRLF x1	も〜〜〜。\nこれじゃ、全然遊べないヨ……		
+cev53_040.scr:0	cev53_040.scr	0	チャット	Chat	personagem		じゃあ、誰か他の方にも聞いてみましょう		
+cev53_040.scr:1	cev53_040.scr	1	チャット	Chat	personagem	CRLF x2	「どろきし」と「きしどろ」、\nどちらの呼び方で通っているか、\n文句なしの一発勝負です！		
+cev53_040.scr:2	cev53_040.scr	2	アニス	Anise Tatlin	personagem	CRLF x1	いいよ。\nやったろーじゃん！		
+cev53_040.scr:3	cev53_040.scr	3	アニス	Anise Tatlin	personagem		（後で吠え面かくなよ、チビッ子！）		
+cev53_040.scr:4	cev53_040.scr	4	マオ	Mao	personagem		も〜、二人とも強情だなぁ……		
+cev53_040.scr:5	cev53_040.scr	5	ヒスイ	Hisui Hearts	personagem	CRLF x1	何だお前ら、そんなつまんねえ事で\n喧嘩してんのかぁ？		
+cev53_040.scr:6	cev53_040.scr	6	ヒスイ	Hisui Hearts	personagem	CRLF x2	俺のとこじゃ、\n「きしどろ」も「どろきし」も\nどっちも使わねえな		
+cev53_040.scr:7	cev53_040.scr	7	アニス	Anise Tatlin	personagem		うっそ！？		
+cev53_040.scr:8	cev53_040.scr	8	チャット	Chat	personagem		第三勢力の介入ですか！？		
+cev53_040.scr:9	cev53_040.scr	9	マオ	Mao	personagem	CRLF x1	じゃあ、ヒスイのとこは\n何て名前で呼んでたの？		
+cev53_040.scr:10	cev53_040.scr	10	ヒスイ	Hisui Hearts	personagem		「ちゅんさんとんとん」だ		
+cev53_040.scr:11	cev53_040.scr	11	アニス	Anise Tatlin	personagem		ちゅんさ……？		
+cev53_040.scr:12	cev53_040.scr	12	アニス	Anise Tatlin	personagem	CRLF x1	え、何それ……。\n初めて聞いたんですけど……		
+cev53_040.scr:13	cev53_040.scr	13	チャット	Chat	personagem	CRLF x1	言葉のどこにも、騎士と泥棒が\n入ってないじゃないですか……		
+cev53_040.scr:14	cev53_040.scr	14	ヒスイ	Hisui Hearts	personagem		はっ、まだまだ甘いな！		
+cev53_040.scr:15	cev53_040.scr	15	ヒスイ	Hisui Hearts	personagem	CRLF x2	いいか？\n「駐在さん」と「山賊」で\n「ちゅんさん」なんだよッ！！		
+cev53_040.scr:16	cev53_040.scr	16	マオ	Mao	personagem		じゃあ、とんとんって……？		
+cev53_040.scr:17	cev53_040.scr	17	ヒスイ	Hisui Hearts	personagem	CRLF x1	そりゃ、ただの語感だ。\n言った時に、気持ちいい感じがするだろ？		
+cev53_050.scr:0	cev53_050.scr	0	アニス	Anise Tatlin	personagem	CRLF x1	さて、今日のご飯は\n何にしよっかな〜☆		
+cev53_050.scr:1	cev53_050.scr	1	ロックス	Rocks	personagem	CRLF x1	たっぷり卵のオムレツの\nホワイトソースがけはいかがですか？		
+cev53_050.scr:2	cev53_050.scr	2	ロックス	Rocks	personagem	CRLF x2	バターでライスとベーコンを\nよぅく炒めて、ソースは生クリームを\nふんだんに使うのがオススメです		
+cev53_050.scr:3	cev53_050.scr	3	アニス	Anise Tatlin	personagem	CRLF x2	うげっ。\n何かカロリー高そう……。\n他にいい案とかないの？		
+cev53_050.scr:4	cev53_050.scr	4	ロックス	Rocks	personagem		そうですねぇ		
+cev53_050.scr:5	cev53_050.scr	5	ロックス	Rocks	personagem	CRLF x2	グラタン、カルボナーラ、\nピザ、シチュー……\nあっ、ステーキなんかもいいですね		
+cev53_050.scr:6	cev53_050.scr	6	アニス	Anise Tatlin	personagem		って、それ全部高カロリーじゃん！！		
+cev53_050.scr:7	cev53_050.scr	7	アニス	Anise Tatlin	personagem	CRLF x1	そんなの食べたら、\n女子はみるみる太っちゃうっての！		
+cev53_050.scr:8	cev53_050.scr	8	ロックス	Rocks	personagem		だからいいんじゃないですか……		
+cev53_050.scr:9	cev53_050.scr	9	アニス	Anise Tatlin	personagem		え？		
+cev53_050.scr:10	cev53_050.scr	10	ロックス	Rocks	personagem		いえ、何でもありません		
+cev53_050.scr:11	cev53_050.scr	11	ロックス	Rocks	personagem	CRLF x2	余計な口を挟んでしまって\n申し訳ありませんでした。\n僕も、そろそろ仕事に戻りますね		
+cev53_050.scr:12	cev53_050.scr	12	アニス	Anise Tatlin	personagem	CRLF x1	何か今、ものすごく\nダークなものを見た様な……		
+cev53_060.scr:0	cev53_060.scr	0	アニス	Anise Tatlin	personagem		ウッドロウさまぁ∀		
+cev53_060.scr:1	cev53_060.scr	1	アニス	Anise Tatlin	personagem	CRLF x2	初めまして。\n私、アニス・タトリンって言います。\nよろしくお願いします∀		
+cev53_060.scr:2	cev53_060.scr	2	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ああ、よろしく。\n私は……		
+cev53_060.scr:3	cev53_060.scr	3	アニス	Anise Tatlin	personagem	CRLF x2	ウッドロウ様はぁ……、\nもう、将来を誓い合った恋人とか\nいらっしゃるんですかぁ？		
+cev53_060.scr:4	cev53_060.scr	4	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	いや、そういった相手は\n特にいないよ		
+cev53_060.scr:5	cev53_060.scr	5	アニス	Anise Tatlin	personagem	CRLF x2	きゃわ〜〜ん∀\nこれってばチャンス？\nもしくは、運命なのかも？？		
+cev53_060.scr:6	cev53_060.scr	6	アニス	Anise Tatlin	personagem	CRLF x1	ウッドロウ様ぁ∀\nもし良かったら、今度……		
+cev53_060.scr:7	cev53_060.scr	7	チェルシー	Chelsea Torn	personagem	CRLF x2	それ以上！\nいやらしい目でウッドロウさまを\n見ないで下さいっ！		
+cev53_060.scr:8	cev53_060.scr	8	アニス	Anise Tatlin	personagem	CRLF x1	げっ。\n何か面倒なのが出て来た		
+cev53_060.scr:9	cev53_060.scr	9	チェルシー	Chelsea Torn	personagem	CRLF x1	ウッドロウさま。\nいけません、こんな女の甘言に乗っては！		
+cev53_060.scr:10	cev53_060.scr	10	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	大丈夫だよ、チェルシー。\n何か誤解をしている様だが……		
+cev53_060.scr:11	cev53_060.scr	11	アニス	Anise Tatlin	personagem	CRLF x2	ぶーぶー。　そうだよぉ。\nアニスちゃん、ただウッドロウさまと\nお話してただけなのに、ひどいよぅ……		
+cev53_060.scr:12	cev53_060.scr	12	チェルシー	Chelsea Torn	personagem	CRLF x2	泣き落としでウッドロウさまの\n気を引こうとしたって駄目です。\n……その手には乗りませんから		
+cev53_060.scr:13	cev53_060.scr	13	アニス	Anise Tatlin	personagem		（ちっ。勘付かれたか）		
+cev53_070.scr:0	cev53_070.scr	0	チェルシー	Chelsea Torn	personagem	CRLF x2	これだけは言っておきますけど\nウッドロウさまのお嫁さんになるのは\nこの私ですから！		
+cev53_070.scr:1	cev53_070.scr	1	アニス	Anise Tatlin	personagem	CRLF x2	その話なんだけどぉ……。\nそれって、正式に婚約とかしてるの？\nウッドロウ様の公認とか？		
+cev53_070.scr:2	cev53_070.scr	2	チェルシー	Chelsea Torn	personagem	CRLF x1	そ……そういうわけじゃ\nないですけど……		
+cev53_070.scr:3	cev53_070.scr	3	アニス	Anise Tatlin	personagem	CRLF x1	なんだ。\nただの妄想か		
+cev53_070.scr:4	cev53_070.scr	4	チェルシー	Chelsea Torn	personagem	CRLF x1	？\n今、何か言いました？		
+cev53_070.scr:5	cev53_070.scr	5	アニス	Anise Tatlin	personagem		別に、何も〜？☆		
+cev53_070.scr:6	cev53_070.scr	6	チェルシー	Chelsea Torn	personagem	CRLF x1	とにかく、ウッドロウさまは\n渡しませんから！		
+cev53_070.scr:7	cev53_070.scr	7	アニス	Anise Tatlin	personagem	CRLF x2	渡すとか渡さないとか、\nそもそもあんたのじゃ\nないでしょっての		
+cev53_070.scr:8	cev53_070.scr	8	アニス	Anise Tatlin	personagem	CRLF x1	しかし、ウッドロウ様には\n面倒なのが付きまとってるわけか……		
+cev53_070.scr:9	cev53_070.scr	9	アニス	Anise Tatlin	personagem	CRLF x1	これって、他の相手も見繕って\nおいた方がいいのかも……？		
+cev53_080.scr:0	cev53_080.scr	0	アニス	Anise Tatlin	personagem	CRLF x2	ゼロス様ぁ∀\n良かったら今度、私と\nどこか遊びに行きませんかぁ？		
+cev53_080.scr:1	cev53_080.scr	1	ゼロス	Zelos Wilder	personagem	CRLF x2	あ〜、ごめんねアニスちゃん。\n俺さま、ちょ〜っと今、予定が\n立て込んじゃってるんだわ		
+cev53_080.scr:2	cev53_080.scr	2	ゼロス	Zelos Wilder	personagem	CRLF x1	また今度誘うから\nその時にヨロシク∀		
+cev53_080.scr:3	cev53_080.scr	3	アニス	Anise Tatlin	personagem		えっ、ゼロス様……		
+cev53_080.scr:4	cev53_080.scr	4	ゼロス	Zelos Wilder	personagem	CRLF x1	ティアちゃ〜ん∀\nこれから俺さまとデートしない？		
+cev53_080.scr:5	cev53_080.scr	5	ティア	Tear Grants	personagem		お断りするわ		
+cev53_080.scr:6	cev53_080.scr	6	ゼロス	Zelos Wilder	personagem	CRLF x1	あ〜んもう、ティアちゃんってば\n冷たい∀		
+cev53_080.scr:7	cev53_080.scr	7	アニス	Anise Tatlin	personagem	CRLF x2	ちっ……噂に違わぬ女たらしか。\nあれはモノにするのに\n時間がかかるかも……		
+cev53_080.scr:8	cev53_080.scr	8	アニス	Anise Tatlin	personagem		他の手を考えよ……		
+cev53_080.scr:9	cev53_080.scr	9	アニス	Anise Tatlin	personagem	CRLF x1	お金持ちは、他にも\nい〜〜っぱいいるもんね！		
+cev53_200.scr:0	cev53_200.scr	0	アニス	Anise Tatlin	personagem	CRLF x1	通常。\n		
+cev53_200.scr:1	cev53_200.scr	1	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:2	cev53_200.scr	2	アニス	Anise Tatlin	personagem	CRLF x1	笑い。\n		
+cev53_200.scr:3	cev53_200.scr	3	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:4	cev53_200.scr	4	アニス	Anise Tatlin	personagem	CRLF x1	怒り。\n		
+cev53_200.scr:5	cev53_200.scr	5	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:6	cev53_200.scr	6	アニス	Anise Tatlin	personagem	CRLF x1	悲しみ。\n		
+cev53_200.scr:7	cev53_200.scr	7	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:8	cev53_200.scr	8	アニス	Anise Tatlin	personagem	CRLF x1	困惑。\n		
+cev53_200.scr:9	cev53_200.scr	9	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:10	cev53_200.scr	10	アニス	Anise Tatlin	personagem	CRLF x1	悲しみ２。\n		
+cev53_200.scr:11	cev53_200.scr	11	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:12	cev53_200.scr	12	アニス	Anise Tatlin	personagem	CRLF x1	笑い２。\n		
+cev53_200.scr:13	cev53_200.scr	13	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:14	cev53_200.scr	14	アニス	Anise Tatlin	personagem	CRLF x1	さぁ〜？。\n		
+cev53_200.scr:15	cev53_200.scr	15	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:16	cev53_200.scr	16	アニス	Anise Tatlin	personagem	CRLF x1	ジト目。\n		
+cev53_200.scr:17	cev53_200.scr	17	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:18	cev53_200.scr	18	アニス	Anise Tatlin	personagem	CRLF x1	激怒。\n		
+cev53_200.scr:19	cev53_200.scr	19	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:20	cev53_200.scr	20	アニス	Anise Tatlin	personagem	CRLF x1	通常。\n		
+cev53_200.scr:21	cev53_200.scr	21	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:22	cev53_200.scr	22	アニス	Anise Tatlin	personagem	CRLF x1	笑い。\n		
+cev53_200.scr:23	cev53_200.scr	23	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:24	cev53_200.scr	24	アニス	Anise Tatlin	personagem	CRLF x1	怒り。\n		
+cev53_200.scr:25	cev53_200.scr	25	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:26	cev53_200.scr	26	アニス	Anise Tatlin	personagem	CRLF x1	悲しみ。\n		
+cev53_200.scr:27	cev53_200.scr	27	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:28	cev53_200.scr	28	アニス	Anise Tatlin	personagem	CRLF x1	困惑。\n		
+cev53_200.scr:29	cev53_200.scr	29	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:30	cev53_200.scr	30	アニス	Anise Tatlin	personagem	CRLF x1	悲しみ２。\n		
+cev53_200.scr:31	cev53_200.scr	31	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:32	cev53_200.scr	32	アニス	Anise Tatlin	personagem	CRLF x1	笑い２。\n		
+cev53_200.scr:33	cev53_200.scr	33	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:34	cev53_200.scr	34	アニス	Anise Tatlin	personagem	CRLF x1	さぁ〜？。\n		
+cev53_200.scr:35	cev53_200.scr	35	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:36	cev53_200.scr	36	アニス	Anise Tatlin	personagem	CRLF x1	ジト目。\n		
+cev53_200.scr:37	cev53_200.scr	37	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:38	cev53_200.scr	38	アニス	Anise Tatlin	personagem	CRLF x1	激怒。\n		
+cev53_200.scr:39	cev53_200.scr	39	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:40	cev53_200.scr	40	アニス	Anise Tatlin	personagem	CRLF x1	通常。\n		
+cev53_200.scr:41	cev53_200.scr	41	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:42	cev53_200.scr	42	アニス	Anise Tatlin	personagem	CRLF x1	笑い。\n		
+cev53_200.scr:43	cev53_200.scr	43	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:44	cev53_200.scr	44	アニス	Anise Tatlin	personagem	CRLF x1	怒り。\n		
+cev53_200.scr:45	cev53_200.scr	45	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:46	cev53_200.scr	46	アニス	Anise Tatlin	personagem	CRLF x1	悲しみ。\n		
+cev53_200.scr:47	cev53_200.scr	47	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:48	cev53_200.scr	48	アニス	Anise Tatlin	personagem	CRLF x1	困惑。\n		
+cev53_200.scr:49	cev53_200.scr	49	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:50	cev53_200.scr	50	アニス	Anise Tatlin	personagem	CRLF x1	悲しみ２。\n		
+cev53_200.scr:51	cev53_200.scr	51	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:52	cev53_200.scr	52	アニス	Anise Tatlin	personagem	CRLF x1	笑い２。\n		
+cev53_200.scr:53	cev53_200.scr	53	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:54	cev53_200.scr	54	アニス	Anise Tatlin	personagem	CRLF x1	さぁ〜？。\n		
+cev53_200.scr:55	cev53_200.scr	55	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:56	cev53_200.scr	56	アニス	Anise Tatlin	personagem	CRLF x1	ジト目。\n		
+cev53_200.scr:57	cev53_200.scr	57	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev53_200.scr:58	cev53_200.scr	58	アニス	Anise Tatlin	personagem	CRLF x1	激怒。\n		
+cev53_200.scr:59	cev53_200.scr	59	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

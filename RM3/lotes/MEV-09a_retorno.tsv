@@ -1,0 +1,158 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev09_010.scr:0	mev09_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	しいなが提供してくれた\n資料の解読が済んで、やっと\n精霊に会いに行ける様になったの	We finished deciphering the materials\nSheena provided, so we are finally able\nto go meet the spirit.	
+mev09_010.scr:1	mev09_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	今回、あなたには精霊に会って\nラザリスの事、世界の始まりの事を\n聞いてきてもらうね	This time, I want you to meet\nthe spirit and ask about Lazaris\nand the origin of our world.	
+mev09_010.scr:2	mev09_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	行き先は、霊峰アブソールという雪山。\nエミル君とカイウス君に\n同行を頼んでいるから	Your destination is Mt. Absol, a snowy\nmountain. I have asked Emil and Caius\nto accompany you.	
+mev09_010.scr:3	mev09_010.scr	3	アンジュ	Ange Serena	personagem		それじゃあ、よろしくね	I am counting on you.	
+mev09_020.scr:0	mev09_020.scr	0	エミル	Emil Castagnier	personagem		うわっ…、寒いね	Whoa... it's so cold!	
+mev09_020.scr:1	mev09_020.scr	1	カイウス	Caius Qualls	personagem	CRLF x1	そうか？\nそこまでひどい寒さじゃないと思うけど	You think so?\nI don't think it's that terribly cold.	
+mev09_020.scr:2	mev09_020.scr	2	カイウス	Caius Qualls	personagem	CRLF x1	それに、いざとなれば\nオレは獣人化して毛皮まとえるし	Besides, if worst comes to worst,\nI can transform and bundle up in fur.	
+mev09_020.scr:3	mev09_020.scr	3	エミル	Emil Castagnier	personagem	CRLF x2	そうか、カイウスは獣人に変身出来る\nリカンツだったね。\n初めて変身した姿を見た時はびっくりしたな	Right, Caius is a Lycanth who can\ntransform into a beastman. I was so\nshocked the first time I saw it!	
+mev09_020.scr:4	mev09_020.scr	4	カイウス	Caius Qualls	personagem	CRLF x1	オレは、エミルが戦う時に出る\n妙な人格の方がびっくりしたけどな	I was way more shocked by that weird\npersona that comes out when you fight!	
+mev09_020.scr:5	mev09_020.scr	5	エミル	Emil Castagnier	personagem		あ…、ご、ごめん…	Ah... S-Sorry...	
+mev09_020.scr:6	mev09_020.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	いや、もう付き合い長いから\n慣れたけどさ	Nah, we've known each other a while,\nso I'm used to it by now.	
+mev09_020.scr:7	mev09_020.scr	7	カイウス	Caius Qualls	personagem	CRLF x2	それに、アドリビトムには\n人間だけじゃなくて、色んな種族がいるから、\n誰が珍しいっていうのはないよな	Besides, Ad Libitum has all sorts of\nraces, not just humans, so no one\nreally stands out as unusual.	
+mev09_020.scr:8	mev09_020.scr	8	エミル	Emil Castagnier	personagem	CRLF x1	そうだね。\nそれに、種族の差を感じないし	That's true.\nAnd you don't feel racial divides here.	
+mev09_020.scr:9	mev09_020.scr	9	カイウス	Caius Qualls	personagem	CRLF x1	外から見れば、相当変わったギルドに\n見えてるかもしれないけどな	Though from the outside, we might look\nlike a pretty strange guild, haha.	
+mev09_020.scr:10	mev09_020.scr	10	エミル	Emil Castagnier	personagem	CRLF x1	精霊も、そうかな？\nヒトとあまり変わらないのかな	I wonder if spirits are like that, too.\nAre they not so different from humans?	
+mev09_020.scr:11	mev09_020.scr	11	エミル	Emil Castagnier	personagem	CRLF x2	何かありそうな気がするんだ。\nそう、やすやすと会ってくれるとも\n限らないし…	I have a feeling something might happen.\nThere's no guarantee they will meet us\nso easily, after all...	
+mev09_020.scr:12	mev09_020.scr	12	エミル	Emil Castagnier	personagem	CRLF x2	ヒトと心を通わせてくれるのかな…。\n僕は…、不安だな。\n何かありそうな気がするし…	Will they even open their hearts to us?\nI'm... so uneasy. I just feel like\nsomething bad might happen...	
+mev09_020.scr:13	mev09_020.scr	13	(opcao do jogador)	(opcao do jogador)	escolha		よくわからない、と言う	Say you are not sure	
+mev09_020.scr:14	mev09_020.scr	14	(opcao do jogador)	(opcao do jogador)	escolha		ヒトと同じだと思う、と言う	Say you think they are like humans	
+mev09_030.scr:0	mev09_030.scr	0	カイウス	Caius Qualls	personagem	CRLF x1	精霊は、マナが豊かな所にしか\nいられないんだろ？	Spirits can only dwell in places\nabundant in Mana, right?	
+mev09_030.scr:1	mev09_030.scr	1	カイウス	Caius Qualls	personagem	CRLF x1	この山に精霊がいるなら、ここは\nマナが豊富なのかな	If a spirit is on this mountain,\ndoes that mean Mana is rich here?	
+mev09_030.scr:2	mev09_030.scr	2	エミル	Emil Castagnier	personagem	CRLF x1	…ええっと。\nそういう事に…なるのかな？	...Ummm.\nI guess that's... how it works?	
+mev09_030.scr:3	mev09_030.scr	3	エミル	Emil Castagnier	personagem	CRLF x1	土地がマナに恵まれる条件は二つあって、\nまず一つが、地下に世界樹の根が通ってる事	There are two conditions for rich Mana:\nfirst, the World Tree's roots pass below.	
+mev09_030.scr:4	mev09_030.scr	4	エミル	Emil Castagnier	personagem		そして、もう一つは星晶がある事	And the other is having Star Crystals.	
+mev09_030.scr:5	mev09_030.scr	5	カイウス	Caius Qualls	personagem	CRLF x1	ここはどうなんだろうな。\nこんな寒い所に世界樹の根が伸びるかな	What about here? Would the World Tree's\nroots reach such a cold place?	
+mev09_030.scr:6	mev09_030.scr	6	エミル	Emil Castagnier	personagem	CRLF x2	寒さとかは関係ないんじゃないかな。\n普通の樹じゃないんだから。\nマグマの中でも根は伸びてるって言うし	The cold shouldn't matter, right?\nIt's no ordinary tree, after all.\nThey say its roots even grow in magma.	
+mev09_030.scr:7	mev09_030.scr	7	カイウス	Caius Qualls	personagem	CRLF x2	星晶は、マナが物質化したものなんだろ。\n根が張ってない所にも星晶があるのは\n何でなんだ？	Star Crystals are materialized Mana,\nright? So why are there Star Crystals\nwhere roots don't reach?	
+mev09_030.scr:8	mev09_030.scr	8	エミル	Emil Castagnier	personagem		そ、そこまでは…僕にはわからないよ	T-That much... is beyond me.	
+mev09_030.scr:9	mev09_030.scr	9	エミル	Emil Castagnier	personagem	CRLF x1	でも、世界樹も成長の途中で…、世界中に\n根を伸ばしきれていないとか…	Still, the World Tree is still growing,\nand hasn't spread roots everywhere...	
+mev09_030.scr:10	mev09_030.scr	10	エミル	Emil Castagnier	personagem	CRLF x2	だから、世界中に根が張り尽くされるまで、\n世界樹はマナを物質化させる事で\n星晶を作って…、	So until its roots spread worldwide,\nthe World Tree materializes Mana\nto create Star Crystals...	
+mev09_030.scr:11	mev09_030.scr	11	エミル	Emil Castagnier	personagem	CRLF x1	根が張っていない土地に星晶を据えたって\nそういう「説」はあるみたいだね	and placed them where roots don't reach.\nAt least, that is one theory.	
+mev09_030.scr:12	mev09_030.scr	12	カイウス	Caius Qualls	personagem	CRLF x1	じゃあ、やっぱそういうのも含めて\n精霊に聞くしかないのか	Guess we really just have to ask\nthe spirit about all that, too.	
+mev09_040.scr:0	mev09_040.scr	0	エミル	Emil Castagnier	personagem		だ、誰かいるよ…	S-Someone's there...	
+mev09_040.scr:1	mev09_040.scr	1	カイウス	Caius Qualls	personagem		精霊じゃ無さそうだな	Doesn't look like a spirit.	
+mev09_040.scr:2	mev09_040.scr	2	カイウス	Caius Qualls	personagem	CRLF x1	でも、アンジュさんの指示じゃ\n目的地はここなんだけどな	Though according to Ange's instructions,\nthis should be our destination.	
+mev09_040.scr:3	mev09_040.scr	3	リヒター	Richter Abend	personagem		精霊を探している、だと？	Searching for a spirit, you say?	
+mev09_040.scr:4	mev09_040.scr	4	エミル	Emil Castagnier	personagem		…あ……、…その、僕達は…	...Ah... U-Um, we are...	
+mev09_040.scr:5	mev09_040.scr	5	エミル	Emil Castagnier	personagem	CRLF x1	…ギルドの者で…\n精霊を……探していて………	...with a guild...\nand we are searching... for a spirit...	
+mev09_040.scr:6	mev09_040.scr	6	リヒター	Richter Abend	personagem	CRLF x1	精霊に会わせる事は出来ない。\n早々に立ち去れ	I cannot permit you to see the spirit.\nLeave at once.	
+mev09_040.scr:7	mev09_040.scr	7	カイウス	Caius Qualls	personagem	CRLF x2	でも、オレ達は精霊に\n聞かなきゃいけない事があるんだよ。\n話がしたいだけなんだ	But we have things we need\nto ask the spirit.\nWe only want to talk!	
+mev09_040.scr:8	mev09_040.scr	8	リヒター	Richter Abend	personagem		話だと？	Just talk?	
+mev09_040.scr:9	mev09_040.scr	9	リヒター	Richter Abend	personagem		そんな嘘は、今まで訪れた者は皆言っていた	Every visitor so far has spun that lie.	
+mev09_040.scr:10	mev09_040.scr	10	リヒター	Richter Abend	personagem	CRLF x2	お前達の目的は、精霊を捕え\n星晶がある場所を探知させる為に\n利用したいだけなのだろう？	Your goal is to capture the spirit\nand exploit it to detect where\nStar Crystals are located, is it not?	
+mev09_040.scr:11	mev09_040.scr	11	エミル	Emil Castagnier	personagem		い、いいえ……	N-No......	
+mev09_040.scr:12	mev09_040.scr	12	エミル	Emil Castagnier	personagem		そんな事は…、絶対に……	We would never... do such a thing...	
+mev09_040.scr:13	mev09_040.scr	13	カイウス	Caius Qualls	personagem		精霊を知ってるんだな	So you do know the spirit!	
+mev09_040.scr:14	mev09_040.scr	14	カイウス	Caius Qualls	personagem		あんたこそ、何者なんだよ！	Just who the heck are you, anyway?!	
+mev09_040.scr:15	mev09_040.scr	15	リヒター	Richter Abend	personagem	CRLF x2	俺は、リヒター・アーベント。\nここにいる精霊と契約し、\nこの地と精霊を守る者だ	I am Richter Abend.\nContracted with the spirit residing here,\nI protect both this land and the spirit.	
+mev09_040.scr:16	mev09_040.scr	16	リヒター	Richter Abend	personagem		精霊に会いたくば、俺に勝ってみせろ	If you wish to see it, defeat me first.	
+mev09_040.scr:17	mev09_040.scr	17	カイウス	Caius Qualls	personagem		そういう事か	So that's how it is!	
+mev09_040.scr:18	mev09_040.scr	18	カイウス	Caius Qualls	personagem		よし、行くぜ！　みんな！	Alright, let's do this, everyone!	
+mev09_040.scr:19	mev09_040.scr	19	リヒター	Richter Abend	personagem		お前達、ここへ何しに来た…	What brings you lot here...?	
+mev09_040.scr:20	mev09_040.scr	20	エミル	Emil Castagnier	personagem		…あ……、…その、僕達は…	...Ah... U-Um, we are...	
+mev09_040.scr:21	mev09_040.scr	21	エミル	Emil Castagnier	personagem	CRLF x1	…ギルドの者で…\n精霊を……探していて………	...with a guild...\nand we are searching... for a spirit...	
+mev09_040.scr:22	mev09_040.scr	22	リヒター	Richter Abend	personagem	CRLF x1	精霊に会わせる事は出来ない。\n早々に立ち去れ	I cannot permit you to see the spirit.\nLeave at once.	
+mev09_040.scr:23	mev09_040.scr	23	カイウス	Caius Qualls	personagem	CRLF x2	でも、オレ達は精霊に\n聞かなきゃいけない事があるんだよ。\n話がしたいだけなんだ	But we have things we need\nto ask the spirit.\nWe only want to talk!	
+mev09_040.scr:24	mev09_040.scr	24	リヒター	Richter Abend	personagem		話だと？	Just talk?	
+mev09_040.scr:25	mev09_040.scr	25	リヒター	Richter Abend	personagem		そんな嘘は、今まで訪れた者は皆言っていた	Every visitor so far has spun that lie.	
+mev09_040.scr:26	mev09_040.scr	26	リヒター	Richter Abend	personagem	CRLF x2	お前達の目的は、精霊を捕え\n星晶がある場所を探知させる為に\n利用したいだけなのだろう？	Your goal is to capture the spirit\nand exploit it to detect where\nStar Crystals are located, is it not?	
+mev09_040.scr:27	mev09_040.scr	27	エミル	Emil Castagnier	personagem		い、いいえ……	N-No......	
+mev09_040.scr:28	mev09_040.scr	28	エミル	Emil Castagnier	personagem		そんな事は…、絶対に……	We would never... do such a thing...	
+mev09_040.scr:29	mev09_040.scr	29	カイウス	Caius Qualls	personagem		精霊を知ってるんだな	So you do know the spirit!	
+mev09_040.scr:30	mev09_040.scr	30	カイウス	Caius Qualls	personagem		あんたこそ、何者なんだよ！	Just who the heck are you, anyway?!	
+mev09_040.scr:31	mev09_040.scr	31	リヒター	Richter Abend	personagem	CRLF x2	俺は、リヒター・アーベント。\nここにいる精霊と契約し、\nこの地と精霊を守る者だ	I am Richter Abend.\nContracted with the spirit residing here,\nI protect both this land and the spirit.	
+mev09_040.scr:32	mev09_040.scr	32	リヒター	Richter Abend	personagem		精霊に会いたくば、俺に勝ってみせろ	If you wish to see it, defeat me first.	
+mev09_040.scr:33	mev09_040.scr	33	カイウス	Caius Qualls	personagem		そういう事か	So that's how it is!	
+mev09_040.scr:34	mev09_040.scr	34	カイウス	Caius Qualls	personagem		よし、行くぜ！　みんな！	Alright, let's do this, everyone!	
+mev09_040.scr:35	mev09_040.scr	35	(opcao do jogador)	(opcao do jogador)	escolha		男に精霊の居場所を聞いてみる	Ask the man where the spirit is	
+mev09_040.scr:36	mev09_040.scr	36	(opcao do jogador)	(opcao do jogador)	escolha		男を無視して、精霊を探す	Ignore the man and search for the spirit	
+mev09_050.scr:0	mev09_050.scr	0	リヒター	Richter Abend	personagem	CRLF x1	何度来ようと同じ事だ。\n精霊を守るという俺の役目は変わらない…	No matter how often you return,\nmy duty to guard the spirit remains.	
+mev09_060.scr:0	mev09_060.scr	0	リヒター	Richter Abend	personagem		………くっ！	......Kh!	
+mev09_060.scr:1	mev09_060.scr	1	エミル	Emil Castagnier	personagem	CRLF x2	僕…、僕達は……、\n精霊を捕らえようなんて\n思ってなくて……	W-We really...\nhad no intention of capturing\nthe spirit at all...	
+mev09_060.scr:2	mev09_060.scr	2	エミル	Emil Castagnier	personagem	CRLF x2	本当に、ただ、話をしたくて…。\nすみません、それが済んだら\nすぐに帰りますから…	We truly just wanted to talk...\nI'm sorry! Once we finish,\nwe will leave right away...	
+mev09_060.scr:3	mev09_060.scr	3	エミル	Emil Castagnier	personagem	CRLF x2	そ、それより…あなたに手当てを……。\nすみません…！\n今、手当てをします…	M-More importantly... your wounds...\nI'm so sorry! I'll tend to you\nright this second...	
+mev09_060.scr:4	mev09_060.scr	4	セルシウス	Celsius	personagem	CRLF x1	闘気をおさめて、リヒター。\nそのヒト達は、敵ではないわ	Stay your fighting spirit, Richter.\nThese people are not our enemies.	
+mev09_060.scr:5	mev09_060.scr	5	セルシウス	Celsius	personagem		わたしは、氷の精霊セルシウス	I am Celsius, the spirit of ice.	
+mev09_060.scr:6	mev09_060.scr	6	セルシウス	Celsius	personagem		あなた達が知りたい事に答えるわ	I shall answer that which you seek.	
+mev09_070.scr:0	mev09_070.scr	0	カイウス	Caius Qualls	personagem	CRLF x1	ええっと、じゃあまず世界の始まり、\n創世の時についてかな	Alright, first off is the origin\nof the world--the time of creation.	
+mev09_070.scr:1	mev09_070.scr	1	セルシウス	Celsius	personagem		創世の時…	The time of creation...	
+mev09_070.scr:2	mev09_070.scr	2	セルシウス	Celsius	personagem	CRLF x1	ごめんなさい。\nそれについては答えられないわ	I am sorry.\nI cannot answer regarding that.	
+mev09_070.scr:3	mev09_070.scr	3	エミル	Emil Castagnier	personagem		ええっ！？　そんなぁ…	What?! But why...?	
+mev09_070.scr:4	mev09_070.scr	4	セルシウス	Celsius	personagem	CRLF x1	だって、精霊にも世界の始まりの事は\nわからないんだもの	Even spirits do not know\nof the world's beginnings, you see.	
+mev09_070.scr:5	mev09_070.scr	5	セルシウス	Celsius	personagem	CRLF x1	精霊という存在は、\n世界が創られた後に生まれた者	Spirits are beings born only\nafter the world had been created.	
+mev09_070.scr:6	mev09_070.scr	6	セルシウス	Celsius	personagem	CRLF x1	わたし達は、マナを自然界の現象に\n作用させる為に生まれたのよ	We were created solely to direct Mana\ninto natural phenomena.	
+mev09_070.scr:7	mev09_070.scr	7	セルシウス	Celsius	personagem	CRLF x1	そして、星晶により封じられていた\n「あの存在」の事しか知らないわ	We only know of "that entity"\nsealed away by the Star Crystals.	
+mev09_070.scr:8	mev09_070.scr	8	カイウス	Caius Qualls	personagem		あの存在って何だ？	What is "that entity"?	
+mev09_070.scr:9	mev09_070.scr	9	セルシウス	Celsius	personagem		わたし達、精霊にもわからないの	Even we spirits do not know.	
+mev09_070.scr:10	mev09_070.scr	10	セルシウス	Celsius	personagem	CRLF x1	ただ、精霊が生まれる以前に、\n既にこの世界にいたものの様よ	Yet it seems to have existed in this\nworld even before spirits were born.	
+mev09_070.scr:11	mev09_070.scr	11	セルシウス	Celsius	personagem	CRLF x1	精霊ですら届かない次元にいる、\n何か歪んだ力…	Some distorted power existing on a plane\nbeyond even the reach of spirits...	
+mev09_070.scr:12	mev09_070.scr	12	セルシウス	Celsius	personagem	CRLF x1	そして、それが大きな災厄となる事を、\n本能的に察知しているだけなのよ	And we merely sensed instinctively\nthat it would become a great calamity.	
+mev09_070.scr:13	mev09_070.scr	13	エミル	Emil Castagnier	personagem	CRLF x1	大きな災厄になる、歪んだ力…。\nそれを、星晶が封じていたの？	A distorted power that brings calamity...\nStar Crystals were sealing that away?	
+mev09_070.scr:14	mev09_070.scr	14	セルシウス	Celsius	personagem	CRLF x1	けれど、その封印は解かれてしまったわ。\n星晶を人々が採り尽くした事で…	Yet that seal has now been broken,\nas people mined out the Star Crystals...	
+mev09_070.scr:15	mev09_070.scr	15	エミル	Emil Castagnier	personagem		……やっぱり	...Just as I feared.	
+mev09_070.scr:16	mev09_070.scr	16	エミル	Emil Castagnier	personagem		いい話じゃないとは思ってた…	I knew it wouldn't be good news...	
+mev09_070.scr:17	mev09_070.scr	17	セルシウス	Celsius	personagem	CRLF x1	だから、\n世界樹は「あなた」を遣わせたのかしら？	Is that why\nthe World Tree dispatched "you"?	
+mev09_070.scr:18	mev09_070.scr	18	カイウス	Caius Qualls	personagem		オレ…？	Me...?	
+mev09_070.scr:19	mev09_070.scr	19	セルシウス	Celsius	personagem		いいえ	No.	
+mev09_070.scr:20	mev09_070.scr	20	エミル	Emil Castagnier	personagem		ぼ…、僕でもないと思うけど…	I... I don't think it's me, but...	
+mev09_070.scr:21	mev09_070.scr	21	セルシウス	Celsius	personagem		ええ、違うわ	Indeed, it is not.	
+mev09_070.scr:22	mev09_070.scr	22	セルシウス	Celsius	personagem		あなたの事よ、ディセンダー	I speak of you, Descender.	
+mev09_070.scr:23	mev09_070.scr	23	カイウス	Caius Qualls	personagem		○○、って…	You mean... ○○?!	
+mev09_070.scr:24	mev09_070.scr	24	カイウス	Caius Qualls	personagem	CRLF x1	えええ！！！\nディセンダーだって！？	What the heck?!!\nThe Descender?!	
+mev09_070.scr:25	mev09_070.scr	25	エミル	Emil Castagnier	personagem		あ……、じゃあ記憶が無いっていうのは…	Ah... So the lack of memories is...	
+mev09_070.scr:26	mev09_070.scr	26	エミル	Emil Castagnier	personagem	CRLF x2	予言で言う通り、\n世界樹から生まれて\n何も知らないからだったんだ	Because you were newly born from the\nWorld Tree and knew nothing,\njust like the prophecy said!	
+mev09_070.scr:27	mev09_070.scr	27	リヒター	Richter Abend	personagem	CRLF x1	そういう事か、セルシウス。\n…こいつがディセンダーとはな	So that is it, Celsius.\nTo think this one is the Descender.	
+mev09_070.scr:28	mev09_070.scr	28	セルシウス	Celsius	personagem		世界樹の福音を受けし、光まとう者…	One clad in light, blessed by the Tree...	
+mev09_070.scr:29	mev09_070.scr	29	セルシウス	Celsius	personagem		わたしも、あなたに与して力を貸すわ	I shall join you and lend my power.	
+mev09_070.scr:30	mev09_070.scr	30	セルシウス	Celsius	personagem	CRLF x2	あの存在が、どんな災厄かはわからないし、\n何を目的としているのか、\nわたし達精霊にもわからないけれど…	Though we spirits cannot know what kind\nof calamity that entity is,\nnor what its purpose may be...	
+mev09_070.scr:31	mev09_070.scr	31	カイウス	Caius Qualls	personagem	CRLF x1	もしかして、その災厄ってのは\n「ラザリス」の事じゃないのか？	Could that calamity be that "Lazaris"\nwe've been hearing about?	
+mev09_070.scr:32	mev09_070.scr	32	セルシウス	Celsius	personagem		…ラザリス…？	...Lazaris...?	
+mev09_070.scr:33	mev09_070.scr	33	セルシウス	Celsius	personagem		そうね…	Indeed...	
+mev09_070.scr:34	mev09_070.scr	34	セルシウス	Celsius	personagem	CRLF x2	ねえ、リヒター。\nこの地を守るだけでは\n済みそうにないみたいだわ	Listen, Richter.\nIt seems merely protecting this land\nwill no longer suffice.	
+mev09_070.scr:35	mev09_070.scr	35	リヒター	Richter Abend	personagem		その様だな…	So it seems...	
+mev09_070.scr:36	mev09_070.scr	36	セルシウス	Celsius	personagem	CRLF x2	ディセンダー。\nわたしもあなたに付いていくわ。\n解き放たれた災厄より、この世界を守る為に	Descender.\nI shall accompany you, to protect\nthis world from the unleashed calamity.	
+mev09_070.scr:37	mev09_070.scr	37	リヒター	Richter Abend	personagem		案内しろ	Lead the way.	
+mev09_070.scr:38	mev09_070.scr	38	エミル	Emil Castagnier	personagem		え…？	Huh...?	
+mev09_070.scr:39	mev09_070.scr	39	リヒター	Richter Abend	personagem		お前達の拠点へ案内しろ	Lead us to your base.	
+mev09_070.scr:40	mev09_070.scr	40	エミル	Emil Castagnier	personagem		は、はいっ…！！	Y-Yes, sir...!!	
+mev09_070.scr:41	mev09_070.scr	41	(opcao do jogador)	(opcao do jogador)	escolha		「あなた」とは誰か、と聞き返す	Ask who "you" refers to	
+mev09_070.scr:42	mev09_070.scr	42	(opcao do jogador)	(opcao do jogador)	escolha		カイウスとエミルを見る	Look at Caius and Emil	
+mev09_080.scr:0	mev09_080.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	まさか、あなたが\nディセンダーだったなんて…。\n………	To think that you were\nthe Descender all along...\n.........	
+mev09_080.scr:1	mev09_080.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	ごめんなさい、何と言うか…、\nあまりにも驚いてしまって、\n上手く言葉が出て来ないの…	Forgive me, but I... I am simply\nso astonished that I cannot find\nthe right words...	
+mev09_080.scr:2	mev09_080.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	そうよね。\n一番、戸惑っているのは\nあなたの方よね	Of course.\nThe one most bewildered by all this\nmust be you, after all.	
+mev09_080.scr:3	mev09_080.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	え、ええ…。\nそうよね、\nこういう時こそ落ち着かないと…	Y-Yes...\nYou are right. At times like this,\nwe must keep our composure...	
+mev09_080.scr:4	mev09_080.scr	4	カイウス	Caius Qualls	personagem	CRLF x2	ってもなぁ。\n取り立てて、オレ達と違う所なんて\nないのになぁ	Still, though.\nYou don't seem particularly different\nfrom the rest of us.	
+mev09_080.scr:5	mev09_080.scr	5	イリア	Iria Animi	personagem		いーや、あるわよ	Oh, but there is!	
+mev09_080.scr:6	mev09_080.scr	6	イリア	Iria Animi	personagem	CRLF x1	だって、あんた生物変化を起こした\nジョアン達を元に戻したでしょ	After all, you restored Joan and the\nothers when they mutated, didn't you?	
+mev09_080.scr:7	mev09_080.scr	7	イリア	Iria Animi	personagem		あれがきっと、ディセンダーの力なのよ	That has to be the Descender's power.	
+mev09_080.scr:8	mev09_080.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	そういえば、\n「暁の従者」の人達もあなたが…	Come to think of it, you helped the\nServants of the Dawn cultists too...	
+mev09_080.scr:9	mev09_080.scr	9	エミル	Emil Castagnier	personagem	CRLF x2	あの、アンジュさん。\n部屋へ案内するって伝えたんだけど、\nセルシウスさんは、甲板がいいって…	Um, Ange.\nI offered to show her to a room, but\nCelsius said she prefers the deck...	
+mev09_080.scr:10	mev09_080.scr	10	アンジュ	Ange Serena	personagem	CRLF x2	了解よ、エミル君。\n氷の精霊だから、少しでも涼しい場所が\nいいのかしらね	Understood, Emil.\nAs an ice spirit, she must prefer\nsomewhere nice and cool.	
+mev09_080.scr:11	mev09_080.scr	11	アンジュ	Ange Serena	personagem	CRLF x2	とりあえず、○○。\nあなたの話は、また近いうちにする事に\nしましょう	For now, ○○,\nlet us discuss your situation again\nin the near future.	
+mev09_080.scr:12	mev09_080.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	今は、セルシウスから\n話を聞かないとね	Right now, we must hear\nwhat Celsius has to say.	
+mev09_080.scr:13	mev09_080.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	先に甲板へ訪ねておいてくれるかしら？\nわたしは、リタを呼んでから行くから	Could you head up to the deck first?\nI will go fetch Rita and join you.	
+mev09_080.scr:14	mev09_080.scr	14	(opcao do jogador)	(opcao do jogador)	escolha		自分も戸惑っている事を伝える	Say that you are bewildered too	
+mev09_080.scr:15	mev09_080.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		落ち付く様に諭す	Urge her to calm down	
+mev09_090.scr:0	mev09_090.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	さて、セルシウス。\n色々、あなたから話を聞きたいんだけど	Now then, Celsius.\nThere is much we wish to ask you.	
+mev09_090.scr:1	mev09_090.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	そうね、まず星晶に封じられていた\n「災厄」について	First, regarding that "calamity"\nsealed within the Star Crystals.	
+mev09_090.scr:2	mev09_090.scr	2	セルシウス	Celsius	personagem	CRLF x2	そちらの話も、エミルに聞いたわ。\nあなた達が、ラザリスと呼ぶ者。\nそれがきっと、災厄でしょうね	I heard that tale from Emil.\nThe one you call Lazaris... That is\nalmost certainly the calamity.	
+mev09_090.scr:3	mev09_090.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	ラザリスは自分の事を、\n「誕生するはずだった世界」と言ったの	Lazaris referred to themselves as\na "world that was meant to be born."	
+mev09_090.scr:4	mev09_090.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	その「誕生するはずだった世界」がなぜ、\nこの世界ルミナシアに封じられていたのか、\nどういう災厄になっていくのか	Why was this "world meant to be born"\nsealed in our world of Luminasia,\nand what sort of calamity will it become?	
+mev09_090.scr:5	mev09_090.scr	5	アンジュ	Ange Serena	personagem		それについては…？	Regarding that...?	
+mev09_090.scr:6	mev09_090.scr	6	セルシウス	Celsius	personagem	CRLF x1	いえ。\nその様な事までは、精霊も知らないわ	No.\nEven spirits know nothing of such things.	
+mev09_090.scr:7	mev09_090.scr	7	リタ	Rita Mordio	personagem	CRLF x1	ともかく、星晶の採掘が\n引き金だったわけね	In any case, mining the Star Crystals\nwas the trigger, then.	
+mev09_090.scr:8	mev09_090.scr	8	リタ	Rita Mordio	personagem	CRLF x2	はぁ…。\n知らなかったとはいえ、\nこんな事態を引き起こすなんてね…	*sigh*...\nEven if we didn't know, to think\nit would cause such a mess...	
+mev09_090.scr:9	mev09_090.scr	9	リタ	Rita Mordio	personagem		今から採掘を止めても、手遅れみたいね	Halting mining now seems too late.	
+mev09_090.scr:10	mev09_090.scr	10	セルシウス	Celsius	personagem		「生まれるはずだった世界」、ね…	A "world meant to be born," is it...?	
+mev09_090.scr:11	mev09_090.scr	11	セルシウス	Celsius	personagem	CRLF x1	そういえば、この世の創世に\n立ち会った者がいたらしいけれど	Come to think of it, there was one\nsaid to witness the world's creation.	
+mev09_090.scr:12	mev09_090.scr	12	リタ	Rita Mordio	personagem		そんなヒトがいるわけ？	Such a person actually exists?!	
+mev09_090.scr:13	mev09_090.scr	13	セルシウス	Celsius	personagem	CRLF x2	創世に立ち会ったのは、\nもちろんヒトではないわ。\n精霊でもないの	The one who witnessed creation\nwas not human, of course.\nNor was it a spirit.	
+mev09_090.scr:14	mev09_090.scr	14	セルシウス	Celsius	personagem	CRLF x2	そして、その存在から、\n創世の時について聞いたのが\n「ヒトの祖」なのよ	And the one who heard of creation\nfrom that entity was the\n"Progenitor of Man."	
+mev09_090.scr:15	mev09_090.scr	15	リタ	Rita Mordio	personagem		「ヒトの祖」…？	"The Progenitor of Man"...?	
+mev09_090.scr:16	mev09_090.scr	16	アンジュ	Ange Serena	personagem	CRLF x2	何だか話が長くなりそうね。\nリタ、この話については、\nあなたが聞いておいてくれる？	This sounds like a long story.\nRita, would you listen to the details\nof this tale for us?	
+mev09_090.scr:17	mev09_090.scr	17	リタ	Rita Mordio	personagem		わかったわ	Understood.	
+mev09_090.scr:18	mev09_090.scr	18	アンジュ	Ange Serena	personagem	CRLF x2	それじゃあ、セルシウスとリヒターさんは\n今後ギルドの人員となるよう、\n手続きをするわね	Then I shall handle the paperwork\nfor Celsius and Richter to officially\njoin our guild.	
+mev09_090.scr:19	mev09_090.scr	19	(mensagem de sistema)	(mensagem de sistema)	sistema		セルシウスがアドリビトムに加入しました	Celsius has joined Ad Libitum.	
+mev09_090.scr:20	mev09_090.scr	20	(mensagem de sistema)	(mensagem de sistema)	sistema		リヒターがアドリビトムに加入しました	Richter has joined Ad Libitum.	

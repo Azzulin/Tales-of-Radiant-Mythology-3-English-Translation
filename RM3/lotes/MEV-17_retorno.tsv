@@ -1,0 +1,147 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev17_010.scr:0	mev17_010.scr	0	アンジュ	Ange Serena	personagem		さて、今回の仕事はね…	Now then, as for your assignment...	
+mev17_010.scr:1	mev17_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	行ってもらう場所は、シフノ湧泉洞。\nそこにある「ユルングの樹」の\nドクメントを採取してきてもらうね	Your destination is Sifno Spring Cave.\nI'd like you to collect the Document\nof the 'Yurlung Tree' found there.	
+mev17_010.scr:2	mev17_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	同行するのは、\nアッシュ君とナタリア	Accompanying you are\nAsch and Natalia.	
+mev17_010.scr:3	mev17_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	資料とコピーズ・ロッドは\n二人に渡しておいたからね	I've already handed the notes and\nthe Copy's Rod to the two of them.	
+mev17_010.scr:4	mev17_010.scr	4	アンジュ	Ange Serena	personagem		それじゃ、行ってらっしゃい	Well then, have a safe trip!	
+mev17_020.scr:0	mev17_020.scr	0	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	…ライマ国の暴動も収まり、\n秩序も戻り始めている様ですわ	...The riots in Lima have subsided,\nand order seems to be returning at last.	
+mev17_020.scr:1	mev17_020.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		ですが、民の苦しみは続いている	Yet the people's suffering continues.	
+mev17_020.scr:2	mev17_020.scr	2	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	どうしてもっと前から、\n国民の苦しみに気付けなかったのでしょう	Why couldn't I have noticed\nour people's anguish much sooner...?	
+mev17_020.scr:3	mev17_020.scr	3	アッシュ	Asch	personagem		しけたツラをするな！	Don't make that gloomy face!	
+mev17_020.scr:4	mev17_020.scr	4	アッシュ	Asch	personagem	CRLF x1	お前は国の為に\nアドリビトムへ入ったのだろう！	You joined Ad Libitum\nfor your country's sake, didn't you?!	
+mev17_020.scr:5	mev17_020.scr	5	アッシュ	Asch	personagem		それに…	Besides...	
+mev17_020.scr:6	mev17_020.scr	6	アッシュ	Asch	personagem	CRLF x1	お前がそんな様子では、\n一緒に国を変えられないだろうが	If you look like that,\nwe'll never change our country together!	
+mev17_020.scr:7	mev17_020.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		アッシュ…	Asch...	
+mev17_020.scr:8	mev17_020.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	約束を…、子どもの頃に交わした約束を\n覚えていて下さったのですね	The promise... You still remembered\nthe promise we made as children...	
+mev17_020.scr:9	mev17_020.scr	9	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		その…プロポーズの…言葉も…	Even... the words of your... proposal...	
+mev17_020.scr:10	mev17_020.scr	10	アッシュ	Asch	personagem	CRLF x1	所詮、俺はルークの影だ。\n王にはなれない	In the end, I'm just Luke's shadow.\nI can never become king.	
+mev17_020.scr:11	mev17_020.scr	11	アッシュ	Asch	personagem		お前との未来も…	Nor have a future with you...	
+mev17_020.scr:12	mev17_020.scr	12	アッシュ	Asch	personagem	CRLF x1	だが、お前と一緒に\n国を…、世界を変えていく事は出来る	Yet together with you, I can change\nthis country... and this world.	
+mev17_020.scr:13	mev17_020.scr	13	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	アッシュ。\n…世界を変えられるなら、\n私は王族でなくても構いませんのよ	Asch...\nIf we can change the world,\nI do not mind forsaking royalty.	
+mev17_020.scr:14	mev17_020.scr	14	アッシュ	Asch	personagem		……………………	................	
+mev17_020.scr:15	mev17_020.scr	15	アッシュ	Asch	personagem		ナタリア…	Natalia...	
+mev17_020.scr:16	mev17_020.scr	16	アッシュ	Asch	personagem		な…！？	Wha--?!	
+mev17_020.scr:17	mev17_020.scr	17	アッシュ	Asch	personagem	CRLF x1	何を聞いているッ！！\n死にたいのか、貴様…	What are you eavesdropping on?!\nDo you have a death wish, you bastard?!	
+mev17_020.scr:18	mev17_020.scr	18	アッシュ	Asch	personagem		なっ…	Wha-...	
+mev17_020.scr:19	mev17_020.scr	19	アッシュ	Asch	personagem		何を見ている！！	What are you staring at?!	
+mev17_020.scr:20	mev17_020.scr	20	アッシュ	Asch	personagem		………チッ	......Tch.	
+mev17_020.scr:21	mev17_020.scr	21	アッシュ	Asch	personagem		行くぞ！　ナタリア	Let's move, Natalia!	
+mev17_020.scr:22	mev17_020.scr	22	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		…はい！	...Yes!	
+mev17_020.scr:23	mev17_020.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		そういう関係かと尋ねる	Ask if that is their relationship	
+mev17_020.scr:24	mev17_020.scr	24	(opcao do jogador)	(opcao do jogador)	escolha		じっと二人を見ている	Quietly stare at the two of them	
+mev17_030.scr:0	mev17_030.scr	0	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		まあ、花が流れていきますわ…！	Oh my, flowers are drifting by...!	
+mev17_030.scr:1	mev17_030.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		何て美しいのでしょう…	How utterly beautiful...	
+mev17_030.scr:2	mev17_030.scr	2	アッシュ	Asch	personagem		ユルングの樹の花だ	Those are blossoms of the Yurlung Tree.	
+mev17_030.scr:3	mev17_030.scr	3	アッシュ	Asch	personagem		この上流に、樹があるんだろう	The tree must be further upstream.	
+mev17_030.scr:4	mev17_030.scr	4	アッシュ	Asch	personagem	CRLF x1	…土壁がぬれているな。\n水位が下がっているのか？	...The earthen walls are wet.\nHas the water level receded?	
+mev17_030.scr:5	mev17_030.scr	5	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	引き潮…かもしれませんわね。\nここは海と繋がっていますもの	It might be... low tide.\nThis place connects to the sea, after all.	
+mev17_030.scr:6	mev17_030.scr	6	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	潮の満ち引きで水位が変わるのだと\n思いますわ	I believe the water level\nfluctuates with the tides.	
+mev17_030.scr:7	mev17_030.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	それにしても、\nユルングの樹というのは\nどの様なものですの？	Even so, what manner of plant\nmight this Yurlung Tree\ntruly be?	
+mev17_030.scr:8	mev17_030.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	雄花は水上に、雌花は水中に咲くと\n資料には書いてありましたけれど…。\n受粉の効率が悪そうですわね…	The notes said male flowers bloom above\nwater, while female ones bloom below...\nPollination seems so inefficient...	
+mev17_030.scr:9	mev17_030.scr	9	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	なぜ、その様な進化を辿ったのか。\n不思議ですわ…	Why it underwent such an evolution\nis quite a mystery...	
+mev17_040.scr:0	mev17_040.scr	0	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		…！！	...!!	
+mev17_040.scr:1	mev17_040.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		何ですの、この生物は！？	What is this creature?!	
+mev17_040.scr:2	mev17_040.scr	2	アッシュ	Asch	personagem	CRLF x1	依頼の品はある様だが、\n簡単には持ち帰れない様だな	Our target seems to be here,\nbut they won't let us take it easily.	
+mev17_040.scr:3	mev17_040.scr	3	アッシュ	Asch	personagem		行くぞ！	Let's go!	
+mev17_050.scr:0	mev17_050.scr	0	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		今度こそ、負けませんわ！	This time, I shall not lose!	
+mev17_050.scr:1	mev17_050.scr	1	アッシュ	Asch	personagem	CRLF x1	その意気だ。\n行くぞ！	That's the spirit.\nLet's move!	
+mev17_060.scr:0	mev17_060.scr	0	アッシュ	Asch	personagem		これで邪魔は無くなったな	That takes care of the nuisances.	
+mev17_060.scr:1	mev17_060.scr	1	アッシュ	Asch	personagem		…用事を済ませるぞ、ナタリア	...Let's finish our business, Natalia.	
+mev17_060.scr:2	mev17_060.scr	2	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		はい	Yes!	
+mev17_060.scr:3	mev17_060.scr	3	アッシュ	Asch	personagem	CRLF x1	この時間だけ、\n雌花が水中から顔を出すのか…	Only during this hour do the female\nflowers emerge above water...	
+mev17_060.scr:4	mev17_060.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	では、この落ちてくる雄花とは、\nこの引き潮の時間だけしか\n出会えない、という事ですのね…	Then they can only encounter\nthese falling male blossoms during\nthe brief window of low tide...	
+mev17_060.scr:5	mev17_060.scr	5	アッシュ	Asch	personagem		その様だな	Seems that way.	
+mev17_060.scr:6	mev17_060.scr	6	アッシュ	Asch	personagem	CRLF x2	だから、潮が満ちていく時は、\n上に咲く雄花は落下しない様に\nなっているのだろう	That's why when high tide approaches,\nthe male blossoms above are built\nnot to fall.	
+mev17_060.scr:7	mev17_060.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	事前に頂いた資料によれば\n「陸から水中に根を下ろす様に進化した」と\n書かれていましたわ	According to our notes, it stated\nthat it 'evolved to sink its roots\nfrom the land into the water.'	
+mev17_060.scr:8	mev17_060.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	植物も生き残る為に\n必死に知恵を絞ったのでしょう	Even plants must have strained every wit\nin their struggle to survive.	
+mev17_060.scr:9	mev17_060.scr	9	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	栄養が豊富で、\n他の植物には遮られる事のない場所を\n目指した様ですわ	It seems it aimed for a place\nrich in nutrients, where other plants\nwould never obstruct it.	
+mev17_060.scr:10	mev17_060.scr	10	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	呼吸は、水上では葉にある気孔を使って…。\n水中では、根から直接、水に溶けた\n二酸化炭素を取り込んでいますわ	Above water, it breathes via leaf stomata,\nwhile underwater, its roots absorb\ndissolved carbon dioxide directly.	
+mev17_060.scr:11	mev17_060.scr	11	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	水や養分も、根の表面の細胞から\n塩分だけを除いて吸収しているとも\n書かれていますわ	It also says surface cells on its roots\nabsorb water and nutrients\nwhile filtering out only salt.	
+mev17_060.scr:12	mev17_060.scr	12	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	生きていく為に、特殊な進化を遂げていった\n植物なのですね	It is truly a plant that achieved\na unique evolution in order to live on.	
+mev17_060.scr:13	mev17_060.scr	13	アッシュ	Asch	personagem	CRLF x2	生きる為に、\n次の世代を残していく為に\n変わる…か	Changing in order to survive,\nand pass life on\nto the next generation, huh?	
+mev17_060.scr:14	mev17_060.scr	14	アッシュ	Asch	personagem	CRLF x2	他の種の生息域を奪わず、\n新天地に適応する為に\n自らの変化を選んだんだな	Without stealing other species' habitats,\nit chose to transform itself\nto adapt to new frontiers.	
+mev17_060.scr:15	mev17_060.scr	15	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		奪わず…自ら変わる…	Not plundering... but changing oneself...	
+mev17_060.scr:16	mev17_060.scr	16	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	私達ヒト、そして国や世界も\n変化していく事が出来ますわよね…	We humans, our countries, and our world\ncan change too, can we not...?	
+mev17_060.scr:17	mev17_060.scr	17	アッシュ	Asch	personagem	CRLF x1	…ナタリア。\n○○を見ろ	...Natalia.\nLook at ○○.	
+mev17_060.scr:18	mev17_060.scr	18	アッシュ	Asch	personagem	CRLF x1	○○は、故郷も無ければ\n血の繋がった親や兄弟もいない	○○ has no homeland,\nnor blood-related parents or siblings.	
+mev17_060.scr:19	mev17_060.scr	19	アッシュ	Asch	personagem	CRLF x1	だがな、こいつは行動する事で\n世界を変えていっている	Yet through their own actions,\nthey are changing the world.	
+mev17_060.scr:20	mev17_060.scr	20	アッシュ	Asch	personagem		…俺達にも、出来ない事はない…	...There's nothing we can't do either...	
+mev17_060.scr:21	mev17_060.scr	21	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	アッシュ…。\nそうですわね…	Asch...\nYou are quite right...	
+mev17_070.scr:0	mev17_070.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	ユルングの樹のドクメント採取、\nお疲れ様	Thank you for your hard work gathering\nthe Yurlung Tree's Document.	
+mev17_070.scr:1	mev17_070.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	この船にも各地から、どんどん進化種が\n集まってきてるよ	Evolved species from all regions\nare steadily pouring onto this ship.	
+mev17_070.scr:2	mev17_070.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	船のみんなで、ドクメントの抽出作業を\nやっているの	Everyone aboard is helping\nto extract their Documents.	
+mev17_070.scr:3	mev17_070.scr	3	コハク	Kohaku Hearts	personagem		アンジュ、わたしも手伝うよ！	Ange, I'll help out too!	
+mev17_070.scr:4	mev17_070.scr	4	シング	Shing Meteoryte	personagem	CRLF x2	オレもやるよ！\nさっき、やり方を教えてもらったんだ！\nみんなでやった方が早いだろ？	I'll help too!\nI just learned how to do it a minute ago!\nIt'll go way faster if we all help out!	
+mev17_070.scr:5	mev17_070.scr	5	コハク	Kohaku Hearts	personagem	CRLF x2	ええ？\nシングはリタの嫌いなものを\n食べる係なんでしょ？	Huh?\nAren't you on duty to eat the foods\nthat Rita hates, Shing?	
+mev17_070.scr:6	mev17_070.scr	6	シング	Shing Meteoryte	personagem	CRLF x2	オレはバカだからさ。\n出来ないって諦める前に、教えてもらって、\nとにかくやってみようと思ったんだ！	I'm kind of an idiot, you know.\nInstead of giving up, I had them teach me,\nso I'll just give it everything I've got!	
+mev17_070.scr:7	mev17_070.scr	7	シング	Shing Meteoryte	personagem	CRLF x1	ハロルドやリタみたいにはなれないけど、\nオレだってちょっとなら手伝えるさ！	I could never be like Harold or Rita,\nbut even I can help out a little bit!	
+mev17_070.scr:8	mev17_070.scr	8	アンジュ	Ange Serena	personagem		えらいわ、シング君♪	Good boy, Shing!	
+mev17_070.scr:9	mev17_070.scr	9	ハロルド	Harold Berselius	personagem	CRLF x1	さあさ、また新しい植物が届いたから、\nガンガン手伝ってもらうわよ	Come along now! New plants just arrived,\nso you'll be helping non-stop!	
+mev17_070.scr:10	mev17_070.scr	10	シング	Shing Meteoryte	personagem		よーし、頑張ろうね、コハク！	Alright! Let's do our best, Kohaku!	
+mev17_070.scr:11	mev17_070.scr	11	コハク	Kohaku Hearts	personagem		うん！　頑張ろう！	Yeah! Let's do this!	
+mev17_070.scr:12	mev17_070.scr	12	アンジュ	Ange Serena	personagem		ふふふ、みんな頼もしいな	Fufufu, everyone is so dependable.	
+mev17_070.scr:13	mev17_070.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	このギルドを立ち上げて、\n本当に良かった	I am truly glad\nI founded this guild.	
+mev17_070.scr:14	mev17_070.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	さてと、\n次に採取する植物の資料はまだかな？	Now then, is the data on\nthe next plant to gather ready yet?	
+mev17_070.scr:15	mev17_070.scr	15	ハロルド	Harold Berselius	personagem	CRLF x1	ウィルが作成中よ。\nあと、ちょっとね	Will is drafting it now.\nJust a little longer.	
+mev17_070.scr:16	mev17_070.scr	16	アンジュ	Ange Serena	personagem		オッケーよ	Got it.	
+mev17_070.scr:17	mev17_070.scr	17	アンジュ	Ange Serena	personagem	CRLF x1	それじゃ、○○、\n今回もご苦労様でした	Well then, ○○,\nthank you for your hard work today too.	
+mev17_080.scr:0	mev17_080.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ニアタの教えてくれた事、\nちゃんと力になってるよ	What you taught us, Niata,\nis truly giving us strength.	
+mev17_080.scr:1	mev17_080.scr	1	カノンノ	Kanonno Grassvalley	personagem		少しずつでも、進んでるもの	We are making progress, bit by bit.	
+mev17_080.scr:2	mev17_080.scr	2	ニアタ	Niata Monad	personagem	CRLF x2	そうか…。\nやはり、アドリビトムは\nこうでなくてはな	Is that so...?\nIndeed, Ad Libitum\nmust always be this way.	
+mev17_080.scr:3	mev17_080.scr	3	カノンノ	Kanonno Grassvalley	personagem		うん？	Hmm?	
+mev17_080.scr:4	mev17_080.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	「やはり」って、\nどういう意味なの？	What do you mean\nby 'indeed'?	
+mev17_080.scr:5	mev17_080.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	ここではない別の世界にも、\nアドリビトムがあるのだよ	In another world far from here,\nAd Libitum exists as well.	
+mev17_080.scr:6	mev17_080.scr	6	ニアタ	Niata Monad	personagem	CRLF x1	我々の本体は今、異世界グラニデにある\nバンエルティア号の中だ	Our true self currently resides aboard\nthe Van Eltia in another world, Granide.	
+mev17_080.scr:7	mev17_080.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ここではない世界に、\nバンエルティア号や、アドリビトムが？	In a world other than this one,\nthere's another Van Eltia and Ad Libitum?	
+mev17_080.scr:8	mev17_080.scr	8	ニアタ	Niata Monad	personagem	CRLF x2	我々の故郷パスカの因子を受け継ぐ\n世界グラニデ。\nそこに、ここの皆もいるんだよ	Granide inherited the factors\nof our homeland, Pasca.\nEveryone here exists there as well.	
+mev17_080.scr:9	mev17_080.scr	9	ニアタ	Niata Monad	personagem		もちろん、カノンノもだ…	Including Kanonno, of course...	
+mev17_080.scr:10	mev17_080.scr	10	ニアタ	Niata Monad	personagem	CRLF x2	ああ。\nこの船も、この船のメンバーも\n異世界に存在している	Indeed.\nBoth this ship and its crew\nexist within another world.	
+mev17_080.scr:11	mev17_080.scr	11	ニアタ	Niata Monad	personagem	CRLF x2	だが、全く同じではない。\nどこかしら、違いはある。\nやはり、それぞれの別人の様だ	Yet they are not completely identical.\nThere are differences here and there.\nThey seem to be distinct individuals.	
+mev17_080.scr:12	mev17_080.scr	12	ニアタ	Niata Monad	personagem	CRLF x1	けれども、アドリビトムの志は一緒だ。\nそれは、世界を越えても変わらない	Nevertheless, Ad Libitum's ideals are one.\nThey do not alter across worlds.	
+mev17_080.scr:13	mev17_080.scr	13	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	それはやっぱり、ルミナシアの様に\n世界樹がある所なの？	Is that a place where a World Tree\nstands, just like in Luminasia?	
+mev17_080.scr:14	mev17_080.scr	14	ニアタ	Niata Monad	personagem		そうだよ、カノンノ	Indeed it is, Kanonno.	
+mev17_080.scr:15	mev17_080.scr	15	ニアタ	Niata Monad	personagem	CRLF x1	そなたや我々、アドリビトムの皆も、\n始めはどこか別々の世界にいたのだろう	You, ourselves, and all of Ad Libitum\nwere likely in separate worlds at first.	
+mev17_080.scr:16	mev17_080.scr	16	ニアタ	Niata Monad	personagem	CRLF x1	世界樹の記憶と共に受け継がれながら出会い、\nまた受け継がれながら出会い…	Meeting while inherited with the Tree's\nmemories, only to meet again...	
+mev17_080.scr:17	mev17_080.scr	17	ニアタ	Niata Monad	personagem	CRLF x1	それを繰り返して、一つの世界で\n出会う様になっていったのかもしれない	Repeating that cycle, perhaps we were\nbrought together in this single world.	
+mev17_080.scr:18	mev17_080.scr	18	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	どんな世界なんだろう。\n私が始めに存在した世界は…	I wonder what kind of world it was...\nThe world where I first came to be...	
+mev17_080.scr:19	mev17_080.scr	19	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	何の為に、世界は生まれていくんだろう。\n何の為に、記憶は受け継がれていくんだろう…	Why are worlds born into being?\nWhy are memories passed on...?	
+mev17_080.scr:20	mev17_080.scr	20	(opcao do jogador)	(opcao do jogador)	escolha		「やはり」という言葉の意味を尋ねる	Ask what he meant by 'indeed'	
+mev17_080.scr:21	mev17_080.scr	21	(opcao do jogador)	(opcao do jogador)	escolha		黙っている	Stay silent	
+mev17_090.scr:0	mev17_090.scr	0	ナナリー	Nanaly Fletch	personagem	CRLF x2	あんた達、聞いたかい？\n世界中でやってた戦争が、\n次々と終戦になってるそうじゃないか	Did you all hear?\nWars that raged across the world\nare coming to an end, one after another!	
+mev17_090.scr:1	mev17_090.scr	1	マルタ	Marta Lualdi	personagem	CRLF x2	でも、その一方で\nジルディアのキバからの侵食が\n進んでいるんでしょ？	Yet on the other hand,\nisn't erosion from the Fang of Zirdia\nspreading further?	
+mev17_090.scr:2	mev17_090.scr	2	マルタ	Marta Lualdi	personagem	CRLF x1	戦争なんてしてる場合じゃないって、\nやっと気付いたんだよ	They finally realized that this\nis no time to be fighting wars!	
+mev17_090.scr:3	mev17_090.scr	3	ルビア	Rubia Natwick	personagem	CRLF x2	皮肉よね。\n国を越えた危機が訪れない限り、\n人は争いを止められないのかしら？	How ironic.\nUnless a global crisis arrives,\ncan people never cease their fighting?	
+mev17_090.scr:4	mev17_090.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	そういう見方もありますわね。\nですが、他にも理由があるかも\nしれませんわ	That is one perspective.\nHowever, there may well be other reasons\nbeyond that.	
+mev17_090.scr:5	mev17_090.scr	5	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	そうですわね…例えば、\n人々が争う事に疲れ果ててしまった、\nとか…	For instance... perhaps people\nhave grown utterly exhausted\nof endless conflict...	
+mev17_090.scr:6	mev17_090.scr	6	ルビア	Rubia Natwick	personagem	CRLF x1	ナタリアも、そろそろライマに\n帰れるんじゃないの？	Can't you head back to Lima\nbefore long too, Natalia?	
+mev17_090.scr:7	mev17_090.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	いいえ、その前に王族として、\n国民を守らなくてはなりませんわ	No. Before that, as a member of royalty,\nI must protect my people.	
+mev17_090.scr:8	mev17_090.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	その為にも、最後までこのアドリビトムで\nお手伝いをさせて頂きたいのです	To that end, I wish to assist Ad Libitum\nuntil the very end.	
+mev17_090.scr:9	mev17_090.scr	9	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	それに…世界を守った後、\n私には成すべき計画がありますの	Besides... once the world is saved,\nI have a plan I must fulfill.	
+mev17_090.scr:10	mev17_090.scr	10	ルビア	Rubia Natwick	personagem		計画？	A plan?	
+mev17_090.scr:11	mev17_090.scr	11	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		ええ	Indeed.	
+mev17_090.scr:12	mev17_090.scr	12	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	主権者による一方的な支配、統治ではなく、\n全ての人々に権利を与え、\n共に歩む世界を作る計画ですわ	Not unilateral rule under sovereigns,\nbut a plan to grant rights to all people\nand build a world where all walk as one.	
+mev17_090.scr:13	mev17_090.scr	13	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	今まで人々は、それぞれの自己意識は\nもちろんの事、国を愛する心を持っていて、	Until now, people naturally held\ntheir own identities and patriotic love,	
+mev17_090.scr:14	mev17_090.scr	14	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	お互い簡単に譲れるものでは\nありませんでしたわ	and neither side could\neasily compromise.	
+mev17_090.scr:15	mev17_090.scr	15	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	ですが今、この危機を迎える事によって、\n人々は国や種族を越えて、意識を結び付ける\n事に気が付き始めています	Yet facing this crisis, people have begun\nto realize they must unite minds\nbeyond nations and races.	
+mev17_090.scr:16	mev17_090.scr	16	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	私は、この意識があれば、国を越えて、\n世界を統合していけると思うのです	With this mindset, I believe we can\nunite the world beyond national borders.	
+mev17_090.scr:17	mev17_090.scr	17	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		きっと、世界を変える事が出来ますわ！	I know we can change the world!	
+mev17_090.scr:18	mev17_090.scr	18	マルタ	Marta Lualdi	personagem	CRLF x1	でも、競争とか、主張とか…。\n人間ってそういうものじゃない？	Still, competition and self-interest...\nIsn't that just human nature?	
+mev17_090.scr:19	mev17_090.scr	19	マルタ	Marta Lualdi	personagem		簡単には行かないと思うけど…	I don't think it'll be that easy...	
+mev17_090.scr:20	mev17_090.scr	20	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	競争も、広い視野で見れば、\nあり方が変わってくるはずですわ。\nオルタ・ビレッジの様に	Competition too, seen from a broader view,\nought to transform its nature.\nJust like in Orta Village.	
+mev17_090.scr:21	mev17_090.scr	21	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	意識が変われば、全く別のものに\nなっていくのでしょう	Once consciousness shifts,\nit will become something entirely new.	
+mev17_090.scr:22	mev17_090.scr	22	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	そうすれば、世界中の対立を、みんなが越えて、\n人々が結び付いていく様な方向に\nいくだろうと考えていますわ	I believe we will move toward a future\nwhere everyone transcends worldly strife\nand people unite as one.	
+mev17_090.scr:23	mev17_090.scr	23	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	そうすれば、資源も分かち合える様になり、\n新しい倫理を打ち立てる事も出来るでしょう	Resources could then be shared, and we\ncould establish a new ethic for all.	
+mev17_090.scr:24	mev17_090.scr	24	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	全てのものを全ての人が分かち合う\n文明は必ず生み出せますわ	A civilization where all people share\nall things can certainly be born.	
+mev17_090.scr:25	mev17_090.scr	25	ナナリー	Nanaly Fletch	personagem	CRLF x2	政治的に統一されて、\n一つの国になるというんじゃ\nないんだね	So you don't mean being politically\nunified into a single country,\ndo you?	
+mev17_090.scr:26	mev17_090.scr	26	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	はい。\nそれぞれの多様性を認め、\n文化的に結び付いていく、という事です	Yes.\nRecognizing each other's diversity,\nand binding ourselves culturally.	
+mev17_090.scr:27	mev17_090.scr	27	ナナリー	Nanaly Fletch	personagem	CRLF x1	いいね。\nそういう世界になれば	Sounds great.\nIf only such a world could come to be.	
+mev17_090.scr:28	mev17_090.scr	28	ナナリー	Nanaly Fletch	personagem		ううん、そうしなくっちゃいけないんだ	No, we have to make it happen!	
+mev17_090.scr:29	mev17_090.scr	29	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	はい。\nだから私は、帰れませんの♪	Yes.\nThat is why I cannot return home yet!	
+mev17_100.scr:0	mev17_100.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x1	ウィルから、\nこいつを預かってきたぜ	I brought this over\nfrom Will.	
+mev17_100.scr:1	mev17_100.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	次の資料ね。\nありがとう	The next notes, right?\nThank you.	
+mev17_100.scr:2	mev17_100.scr	2	ユーリ	Yuri Lowell	personagem		…お前、大丈夫か？	...You doing alright?	
+mev17_100.scr:3	mev17_100.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	大丈夫よ。\n無理してそうに見えるの？	I'm fine.\nDo I look like I'm pushing myself?	
+mev17_100.scr:4	mev17_100.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x1	張り切んのもいいが、\n一人で無理すんなよ	Being eager is fine, but don't go\nburning yourself out all on your own.	
+mev17_100.scr:5	mev17_100.scr	5	ユーリ	Yuri Lowell	personagem		もっと皆を頼るんだな	Lean on everyone a bit more.	
+mev17_100.scr:6	mev17_100.scr	6	アンジュ	Ange Serena	personagem		ん…、そうするよ	Mm... I will.	
+mev17_100.scr:7	mev17_100.scr	7	アンジュ	Ange Serena	personagem	CRLF x2	さてと。\n新しい資料も出来た事だし、\n依頼を登録しておかなくっちゃ	Now then.\nSince the new notes are ready,\nI'd better go register the request.	

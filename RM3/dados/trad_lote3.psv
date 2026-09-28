@@ -1,0 +1,62 @@
+bloco|va_ponteiro|traducao|fonte|status|nota
+guia_botoes|0x08D65F5C|Equippable By|novo|revisar|装備可能キャラクター = personagens que podem equipar
+guia_botoes|0x08D65F60|???|novo|revisar|？？？ de largura plena vira ASCII
+guia_botoes|0x08D65F64|of|novo|revisar|内 = dentro de / de um total de; contexto incerto
+guia_botoes|0x08D65F68|You finished viewing item "%s" %s,\nso you earned %d Grade Points.|rm2|validado|RM2 3.2 グレードポイント=Grade Points; 「」 vira aspas ASCII
+guia_botoes|0x08D65F6C|You finished viewing item "%s" %s,\nso you obtained "%s".|novo|revisar|
+guia_botoes|0x08D65F70|You finished viewing item "%s" %s,\nso you earned %d Gald.|rm2|validado|RM2 3.2 ガルド=Gald
+guia_botoes|0x08D65F74|OK|rm2|validado|RM2 3.5 決定=OK; MESMA forma do item de menu da criacao
+guia_botoes|0x08D65F78|Back|rm2|validado|RM2 3.5
+guia_botoes|0x08D65F7C|Turn Page|novo|revisar|
+guia_botoes|0x08D65F80|Select|novo|revisar|
+guia_botoes|0x08D65F84|Check|novo|revisar|確認 = verificar; 決定 ja e OK
+guia_botoes|0x08D65F88|Sort|novo|revisar|
+guia_botoes|0x08D65F8C|Cancel|rm2|validado|RM2 3.5
+guia_botoes|0x08D65F90|Status|novo|revisar|
+guia_botoes|0x08D65F94|View Skills|novo|revisar|
+guia_botoes|0x08D65F98|View Eq. Skills|novo|revisar|encurtado: a barra de botoes e estreita
+guia_botoes|0x08D65F9C|Scroll|novo|revisar|
+guia_botoes|0x08D65FA0|Switch Info|novo|revisar|
+guia_botoes|0x08D65FA4|Rotate/Zoom|novo|revisar|拡縮 = ampliar/reduzir
+guia_botoes|0x08D65FA8|Move|novo|revisar|
+guia_botoes|0x08D65FAC|Toggle View|novo|revisar|
+guia_botoes|0x08D65FB0|Rotate|novo|revisar|
+guia_botoes|0x08D65FB4|Zoom Out|novo|revisar|
+guia_botoes|0x08D65FB8|Zoom In|novo|revisar|
+guia_botoes|0x08D65FBC|Hide|novo|revisar|
+guia_botoes|0x08D65FC0|View Model|novo|revisar|
+guia_botoes|0x08D65FC4|Preview|novo|revisar|
+guia_botoes|0x08D65FC8|Special Effects|novo|revisar|
+guia_botoes|0x08D65FCC|View Gear|novo|revisar|装備=Equip (RM2 3.5); Gear no rotulo curto
+guia_botoes|0x08D65FD0|Change Title|novo|revisar|称号 = titulo de personagem
+guia_botoes|0x08D65FD4|Equip All|novo|revisar|
+guia_botoes|0x08D65FD8|Remove|novo|revisar|外す = retirar equipamento
+guia_botoes|0x08D65FDC|Set|novo|revisar|
+guia_botoes|0x08D65FE0|Arte/Skill Slot|rm2_deriv|revisar|術=Arte, 技=Skill (RM2 3.2); encurtado para a barra
+guia_botoes|0x08D65FE4|Use Arte|rm2_deriv|revisar|
+guia_botoes|0x08D65FE8|Use|rm2|validado|RM2 3.5 使う=Use
+guia_botoes|0x08D65FEC|View Effect|novo|revisar|
+guia_botoes|0x08D65FF0|Controls|novo|revisar|操作切替 = trocar esquema de controle
+guia_botoes|0x08D65FF4|Toggle Use|novo|revisar|
+guia_botoes|0x08D65FF8|Switch List|novo|revisar|
+guia_botoes|0x08D65FFC|Swap|novo|revisar|
+guia_botoes|0x08D66000|Remove|novo|revisar|duplicata de 外s; dedup aponta os dois para a mesma string
+guia_botoes|0x08D66004|Change/View Gear|novo|revisar|
+guia_botoes|0x08D66008|Switch Gear|novo|revisar|
+guia_botoes|0x08D6600C|Play|novo|revisar|再生 = reproduzir
+guia_botoes|0x08D66010|Buy Qty|novo|revisar|購入数増減 = aumentar/diminuir quantidade a comprar
+guia_botoes|0x08D66014|Sell Qty|novo|revisar|売却数増減; distinto de Buy Qty de proposito
+guia_botoes|0x08D66018|Select Item|novo|revisar|
+guia_botoes|0x08D6601C|Collect|novo|revisar|引き取る = receber/retirar
+guia_botoes|0x08D66020|Item|rm2|validado|RM2 3.7
+guia_botoes|0x08D66024|Toggle Confirm|novo|revisar|確定切替
+guia_botoes|0x08D66028|Deposit|novo|revisar|預ける = depositar no armazem
+guia_botoes|0x08D6602C|Withdraw|novo|revisar|取り出す = retirar do armazem
+guia_botoes|0x08D66030|Expand|novo|revisar|
+guia_botoes|0x08D66034|Rotate Model|novo|revisar|モデル左右回転 = girar o modelo com L/R — ESTE e o da captura do mantenedor
+guia_botoes|0x08D66038|Adjust|novo|revisar|
+guia_botoes|0x08D6603C|Confirm Synth|rm2_deriv|revisar|合成=Synthesis (P-40)
+guia_botoes|0x08D66040|View Materials|rm2_deriv|revisar|素材=Material (RM2 3.7)
+guia_botoes|0x08D66044|View Details|novo|revisar|
+guia_botoes|0x08D66048|+|novo|revisar|＋ de largura plena vira ASCII
+guia_botoes|0x08D6604C|Try On|novo|revisar|試着 = experimentar roupa

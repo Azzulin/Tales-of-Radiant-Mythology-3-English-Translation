@@ -1,0 +1,160 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev52_010.scr:0	cev52_010.scr	0	ノーマ	Norma Beatty	personagem		はは〜、ははは〜は〜〜〜ん♪		
+cev52_010.scr:1	cev52_010.scr	1	ノーマ	Norma Beatty	personagem	CRLF x2	よっ！　\nヴァンヴァン！！\n相変わらず渋いねぇ∀		
+cev52_010.scr:2	cev52_010.scr	2	ガイ	Guy Cecil	personagem		ヴァンヴァ……!?		
+cev52_010.scr:3	cev52_010.scr	3	ルーク	Luke fon Fabre	personagem		てめぇ、また変な呼び方しやがって！		
+cev52_010.scr:4	cev52_010.scr	4	ヴァン	Van Grants	personagem	CRLF x1	ルーク、よさないか。\n王位継承者のする言葉使いではないぞ		
+cev52_010.scr:5	cev52_010.scr	5	ノーマ	Norma Beatty	personagem	CRLF x1	そうよ〜、言葉使いに気を付けなさ〜い\n王位継承者の「る・う・く・ん・∀」		
+cev52_010.scr:6	cev52_010.scr	6	ガイ	Guy Cecil	personagem	CRLF x1	お前、ヴァンヴァンなんて\n呼ばれてるのか？		
+cev52_010.scr:7	cev52_010.scr	7	ヴァン	Van Grants	personagem	CRLF x1	うむ、気が付いたら\nその様な事になっていてな……		
+cev52_010.scr:8	cev52_010.scr	8	ガイ	Guy Cecil	personagem	CRLF x1	お前の顔でヴァンヴァン……、\nヴァンヴァン……、ぷぷぷ、くくく……		
+cev52_010.scr:9	cev52_010.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x1	おや、皆さん、お揃いで。\n随分楽しそうじゃないですか？		
+cev52_010.scr:10	cev52_010.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x1	ジェイド！　\nいいとこに来た！		
+cev52_010.scr:11	cev52_010.scr	11	ルーク	Luke fon Fabre	personagem	CRLF x1	こいつに師匠の事\n気安く呼ぶなって言ってくれ！		
+cev52_010.scr:12	cev52_010.scr	12	ジェイド	Jade Curtiss	personagem		なるほどなるほど		
+cev52_010.scr:13	cev52_010.scr	13	ジェイド	Jade Curtiss	personagem	CRLF x2	ですが、そうは言ってもたかが愛称です。\nそう目くじらを立てなくても\nいいんじゃありませんか？		
+cev52_010.scr:14	cev52_010.scr	14	ジェイド	Jade Curtiss	personagem	CRLF x1	案外、「ヴァンヴァン」ご本人も\n気に入っているのかもしれませんし		
+cev52_010.scr:15	cev52_010.scr	15	ジェイド	Jade Curtiss	personagem		いい響きじゃないですか		
+cev52_010.scr:16	cev52_010.scr	16	ジェイド	Jade Curtiss	personagem	CRLF x1	ねぇ？　\n「ヴァンヴァン」？		
+cev52_020.scr:0	cev52_020.scr	0	ジェイド	Jade Curtiss	personagem	CRLF x1	いやはや、信仰そのものを\n否定する気はありませんが……		
+cev52_020.scr:1	cev52_020.scr	1	ジェイド	Jade Curtiss	personagem	CRLF x1	こうして現状を目の当たりにすると\nなかなかどうして、色々考えさせられますね		
+cev52_020.scr:2	cev52_020.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	もともと、信仰の概念が生まれたのは\n絶対的に信じられる対象を作る事で\n人々が未来に希望を持つ事が出来たから		
+cev52_020.scr:3	cev52_020.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	それをこんな形で\n痛感させられる事になるなんてね……		
+cev52_020.scr:4	cev52_020.scr	4	アンジュ	Ange Serena	personagem		ディセンダー様、か……		
+cev52_020.scr:5	cev52_020.scr	5	ジェイド	Jade Curtiss	personagem	CRLF x1	盲目的な信仰は、時として\n人から正常な判断力を奪います		
+cev52_020.scr:6	cev52_020.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x2	言うまでもない事ですが\n今回の件では、あくまで信者達に\n悪意が無いというのが質が悪い		
+cev52_020.scr:7	cev52_020.scr	7	アンジュ	Ange Serena	personagem	CRLF x2	彼らは純粋に救いを求めている\nだけなのでしょうね。\nでも……		
+cev52_020.scr:8	cev52_020.scr	8	ジェイド	Jade Curtiss	personagem	CRLF x2	ええ。\n例え異端として残虐な手口で他者を排除\nしようと簡単に己を正当化してしまえる		
+cev52_020.scr:9	cev52_020.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x1	それは既に、信仰という免罪符が\n通用する域を超えています		
+cev52_020.scr:10	cev52_020.scr	10	ジェイド	Jade Curtiss	personagem	CRLF x1	暁の従者……。\n恐らく、話の通じる相手ではないでしょう		
+cev52_020.scr:11	cev52_020.scr	11	アンジュ	Ange Serena	personagem	CRLF x2	出来れば戦いたくないけれど……。\n万が一の場合も覚悟していかないと\nいけないでしょうね		
+cev52_020.scr:12	cev52_020.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	○○、\n慎重に進みましょう		
+cev52_030.scr:0	cev52_030.scr	0	アンジュ	Ange Serena	personagem		生物変化現象……		
+cev52_030.scr:1	cev52_030.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	報告では聞いていたけれど……。\nまさか、あんな事が本当に起きるなんて		
+cev52_030.scr:2	cev52_030.scr	2	ジェイド	Jade Curtiss	personagem		全くです		
+cev52_030.scr:3	cev52_030.scr	3	ジェイド	Jade Curtiss	personagem	CRLF x2	それが本質的に、どんな力であったにしろ\nあんなものをみすみす\n放置しておくわけにはいきません		
+cev52_030.scr:4	cev52_030.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	彼らはわかっていないのね。\n自分達が信奉している存在の本質を……		
+cev52_030.scr:5	cev52_030.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	せめてわたし達だけでも\n冷静に、真実を見極めないと		
+cev52_030.scr:6	cev52_030.scr	6	アンジュ	Ange Serena	personagem		取り返しのつかない事になる前に……		
+cev52_030.scr:7	cev52_030.scr	7	ジェイド	Jade Curtiss	personagem	CRLF x1	己の望む「救い」を与えない神、\nディセンダー……ですか		
+cev52_030.scr:8	cev52_030.scr	8	ジェイド	Jade Curtiss	personagem	CRLF x1	現実を間の当たりにした時、\n信者である彼らはどうするのでしょうね		
+cev52_030.scr:9	cev52_030.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x1	神を捨てるか。\nあるいは……		
+cev52_040.scr:0	cev52_040.scr	0	エミル	Emil Castagnier	personagem	CRLF x1	（あれっ……ファラのスカート、\n　ちょっとほつれてる？）		
+cev52_040.scr:1	cev52_040.scr	1	エミル	Emil Castagnier	personagem	CRLF x1	（言った方がいいかな……。\n　でも、余計なお世話かな？）		
+cev52_040.scr:2	cev52_040.scr	2	エミル	Emil Castagnier	personagem	CRLF x1	（女の子って、そういうの\n　嫌がるかもしれないよね……）		
+cev52_040.scr:3	cev52_040.scr	3	エミル	Emil Castagnier	personagem	CRLF x2	（だけど、このまま放っておくのも……\n　余計ほつれちゃったりしたら\n　大変な事に……）		
+cev52_040.scr:4	cev52_040.scr	4	ジェイド	Jade Curtiss	personagem	CRLF x2	エミル？　\nあまり不躾に女性のスカートを\n見るものではありませんよ		
+cev52_040.scr:5	cev52_040.scr	5	エミル	Emil Castagnier	personagem		うわっ！		
+cev52_040.scr:6	cev52_040.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x2	そんなに驚かなくてもいいでしょう。\nファラに気付かれなかっただけ\nマシだと思って欲しいものです		
+cev52_040.scr:7	cev52_040.scr	7	エミル	Emil Castagnier	personagem	CRLF x1	ぼ……僕はただ、\nスカートのほつれを……		
+cev52_040.scr:8	cev52_040.scr	8	ジェイド	Jade Curtiss	personagem	CRLF x1	いえいえ、\n誤魔化さなくて結構ですよ		
+cev52_040.scr:9	cev52_040.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x2	誰でもそういった事に\n興味を持つ時期というのは\nありますからね		
+cev52_040.scr:10	cev52_040.scr	10	エミル	Emil Castagnier	personagem		だから、そうじゃなくて……		
+cev52_040.scr:11	cev52_040.scr	11	ファラ	Farah Oersted	personagem		なになに、何の話？		
+cev52_040.scr:12	cev52_040.scr	12	ジェイド	Jade Curtiss	personagem	CRLF x2	ああ、ファラ。\nちょうどいい。\n実はエミルが、あなたのスカートを……		
+cev52_040.scr:13	cev52_040.scr	13	エミル	Emil Castagnier	personagem		うわああーーーー！！！		
+cev52_050.scr:0	cev52_050.scr	0	エミル	Emil Castagnier	personagem	CRLF x1	僕、思うんですけど……\nジェイドさんって、時々意地悪ですよね		
+cev52_050.scr:1	cev52_050.scr	1	ジェイド	Jade Curtiss	personagem	CRLF x2	心外ですねえ。\nまるであなたに意地悪をしている様な\n物言いは控えて頂きたいものですが		
+cev52_050.scr:2	cev52_050.scr	2	エミル	Emil Castagnier	personagem	CRLF x1	し、してるじゃないですか！\nこの間のスカートの時だって……		
+cev52_050.scr:3	cev52_050.scr	3	マルタ	Marta Lualdi	personagem		スカートがどうかしたの、エミル？		
+cev52_050.scr:4	cev52_050.scr	4	マルタ	Marta Lualdi	personagem		まさか……浮気っ！？		
+cev52_050.scr:5	cev52_050.scr	5	エミル	Emil Castagnier	personagem		ち、違うよ！		
+cev52_050.scr:6	cev52_050.scr	6	エミル	Emil Castagnier	personagem	CRLF x1	ねえ、ジェイドさん。\n誤解ですよねっ？		
+cev52_050.scr:7	cev52_050.scr	7	ジェイド	Jade Curtiss	personagem	CRLF x1	スカート？\nさて……何の事だかわかりませんねえ		
+cev52_050.scr:8	cev52_050.scr	8	エミル	Emil Castagnier	personagem		ええぇ！		
+cev52_050.scr:9	cev52_050.scr	9	マルタ	Marta Lualdi	personagem	CRLF x2	ひどい、エミル……。\n私はこんなに、エミルの事だけが\n好きなのに……		
+cev52_050.scr:10	cev52_050.scr	10	マルタ	Marta Lualdi	personagem		エミルのばかぁ！		
+cev52_050.scr:11	cev52_050.scr	11	ジェイド	Jade Curtiss	personagem	CRLF x1	おやおや。\nどうやら怒らせてしまった様ですね		
+cev52_050.scr:12	cev52_050.scr	12	エミル	Emil Castagnier	personagem	CRLF x1	ううう……。\nどうして僕がこんな目に……		
+cev52_050.scr:13	cev52_050.scr	13	ジェイド	Jade Curtiss	personagem	CRLF x1	いやぁ、このギルドにいると\n退屈しなくていいですねえ		
+cev52_050.scr:14	cev52_050.scr	14	エミル	Emil Castagnier	personagem		僕は全っ然、良くないです！！		
+cev52_060.scr:0	cev52_060.scr	0	ゼロス	Zelos Wilder	personagem	CRLF x1	ったく……何で俺さまが\n雑用なんかしなくちゃいけないのよ……		
+cev52_060.scr:1	cev52_060.scr	1	ゼロス	Zelos Wilder	personagem	CRLF x1	それも、ロン毛メガネの野郎と\n仲良く一緒にお掃除ときた		
+cev52_060.scr:2	cev52_060.scr	2	ジェイド	Jade Curtiss	personagem		おや、随分な言われ様ですねえ		
+cev52_060.scr:3	cev52_060.scr	3	ジェイド	Jade Curtiss	personagem	CRLF x2	ですが、他人を責める前に\nご自分の日頃の行動を、\n冷静に顧みられてはどうです？		
+cev52_060.scr:4	cev52_060.scr	4	ゼロス	Zelos Wilder	personagem	CRLF x2	はぁ？　俺さまみたいな\n超〜〜〜ゴージャスなイケメンに\n何の落ち度があるってーのよ		
+cev52_060.scr:5	cev52_060.scr	5	ジェイド	Jade Curtiss	personagem	CRLF x2	さあ。\nご自分の胸に手を当てて\n聞いてみてはどうですか？		
+cev52_060.scr:6	cev52_060.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x2	失礼ですが、その年齢で\n他人の回答によすがを求めるのは\nあまり感心出来る行いではありませんねえ		
+cev52_060.scr:7	cev52_060.scr	7	ゼロス	Zelos Wilder	personagem	CRLF x1	って、お前から\n問題提起してきたんだろうがっ！		
+cev52_060.scr:8	cev52_060.scr	8	ジェイド	Jade Curtiss	personagem		そうでしたか？		
+cev52_060.scr:9	cev52_060.scr	9	ゼロス	Zelos Wilder	personagem	CRLF x2	そうだよ！\nお前こそ、自分の胸に\n手を当てて聞いて……		
+cev52_060.scr:10	cev52_060.scr	10	ジェイド	Jade Curtiss	personagem	CRLF x2	さーて。\nぱっぱと終わらせて、\n私は自室に帰らせていただきますよ		
+cev52_060.scr:11	cev52_060.scr	11	ジェイド	Jade Curtiss	personagem	CRLF x1	無駄口をきいている時間が\n本当に無駄以外の何物でもありませんから		
+cev52_060.scr:12	cev52_060.scr	12	ゼロス	Zelos Wilder	personagem	CRLF x2	くーっ。\nつくづくド陰険の嫌味メガネだぜ。\nったくよ……		
+cev52_070.scr:0	cev52_070.scr	0	ジェイド	Jade Curtiss	personagem	CRLF x1	ほらそこ、\nホコリが残ってるじゃないですか		
+cev52_070.scr:1	cev52_070.scr	1	ゼロス	Zelos Wilder	personagem	CRLF x1	何だよ。\nそんな細かいとこ気にすんなって		
+cev52_070.scr:2	cev52_070.scr	2	ジェイド	Jade Curtiss	personagem		いえいえ、そうはいきません		
+cev52_070.scr:3	cev52_070.scr	3	ジェイド	Jade Curtiss	personagem	CRLF x2	我々だけここで手を抜けば、\n清掃という業務に対する、皆の士気に\n影響が出る可能性があります		
+cev52_070.scr:4	cev52_070.scr	4	ジェイド	Jade Curtiss	personagem	CRLF x1	あなたも、不衛生なバンエルティア号で\n生活をしたくはないでしょう？		
+cev52_070.scr:5	cev52_070.scr	5	ゼロス	Zelos Wilder	personagem		ま、まあ、そりゃそうだけどよ		
+cev52_070.scr:6	cev52_070.scr	6	ジェイド	Jade Curtiss	personagem		ご理解いただけて何よりです		
+cev52_070.scr:7	cev52_070.scr	7	ジェイド	Jade Curtiss	personagem		では、キリキリ働いて下さいね		
+cev52_070.scr:8	cev52_070.scr	8	ゼロス	Zelos Wilder	personagem	CRLF x1	って、俺に押し付けんなっての！！\nお前ずっとダメ出ししてばっかじゃねえか		
+cev52_070.scr:9	cev52_070.scr	9	ゼロス	Zelos Wilder	personagem		おい待て、ジェイド!!		
+cev52_080.scr:0	cev52_080.scr	0	ジェイド	Jade Curtiss	personagem		おや、もうバテてしまったんですか？		
+cev52_080.scr:1	cev52_080.scr	1	ジェイド	Jade Curtiss	personagem	CRLF x1	まだ、こ〜んなにゴミの山が\n残っていますよ		
+cev52_080.scr:2	cev52_080.scr	2	ゼロス	Zelos Wilder	personagem	CRLF x2	だ〜〜っ！！\nさっきから聞いてりゃ\n小姑の様にネチネチウジウジ！！		
+cev52_080.scr:3	cev52_080.scr	3	ゼロス	Zelos Wilder	personagem	CRLF x2	お前、何だってそんなに\n俺さまに絡むのよ！？\n何か恨みでもあるってか！？		
+cev52_080.scr:4	cev52_080.scr	4	ジェイド	Jade Curtiss	personagem		ええ、その通りです		
+cev52_080.scr:5	cev52_080.scr	5	ゼロス	Zelos Wilder	personagem		って、マジであんのかよ！		
+cev52_080.scr:6	cev52_080.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x2	「あなた」さえいなければ、\n私があなたになれたかも\nしれないのですよ……		
+cev52_080.scr:7	cev52_080.scr	7	ゼロス	Zelos Wilder	personagem		はっ？		
+cev52_080.scr:8	cev52_080.scr	8	ジェイド	Jade Curtiss	personagem	CRLF x1	いえいえ、すみません。\nこれは大人の事情という奴でしたね		
+cev52_080.scr:9	cev52_080.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x1	失敬、忘れて下さい。\n私は全然気にしていませんから		
+cev52_080.scr:10	cev52_080.scr	10	ジェイド	Jade Curtiss	personagem	CRLF x1	ええ、本当にもう、全然。\n全く		
+cev52_080.scr:11	cev52_080.scr	11	ゼロス	Zelos Wilder	personagem		大人の事情……？		
+cev52_080.scr:12	cev52_080.scr	12	ゼロス	Zelos Wilder	personagem		だから結局、何だっつーのよ……？		
+cev52_200.scr:0	cev52_200.scr	0	ジェイド	Jade Curtiss	personagem	CRLF x1	通常。\n		
+cev52_200.scr:1	cev52_200.scr	1	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:2	cev52_200.scr	2	ジェイド	Jade Curtiss	personagem	CRLF x1	笑い。\n		
+cev52_200.scr:3	cev52_200.scr	3	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:4	cev52_200.scr	4	ジェイド	Jade Curtiss	personagem	CRLF x1	怒り。\n		
+cev52_200.scr:5	cev52_200.scr	5	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:6	cev52_200.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x1	悲しみ。\n		
+cev52_200.scr:7	cev52_200.scr	7	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:8	cev52_200.scr	8	ジェイド	Jade Curtiss	personagem	CRLF x1	苦笑。\n		
+cev52_200.scr:9	cev52_200.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:10	cev52_200.scr	10	ジェイド	Jade Curtiss	personagem	CRLF x1	真顔。\n		
+cev52_200.scr:11	cev52_200.scr	11	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:12	cev52_200.scr	12	ジェイド	Jade Curtiss	personagem	CRLF x1	真剣。\n		
+cev52_200.scr:13	cev52_200.scr	13	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:14	cev52_200.scr	14	ジェイド	Jade Curtiss	personagem	CRLF x1	皮肉。\n		
+cev52_200.scr:15	cev52_200.scr	15	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:16	cev52_200.scr	16	ジェイド	Jade Curtiss	personagem	CRLF x1	眼鏡のみ。\n		
+cev52_200.scr:17	cev52_200.scr	17	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:18	cev52_200.scr	18	ジェイド	Jade Curtiss	personagem	CRLF x1	通常。\n		
+cev52_200.scr:19	cev52_200.scr	19	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:20	cev52_200.scr	20	ジェイド	Jade Curtiss	personagem	CRLF x1	笑い。\n		
+cev52_200.scr:21	cev52_200.scr	21	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:22	cev52_200.scr	22	ジェイド	Jade Curtiss	personagem	CRLF x1	怒り。\n		
+cev52_200.scr:23	cev52_200.scr	23	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:24	cev52_200.scr	24	ジェイド	Jade Curtiss	personagem	CRLF x1	悲しみ。\n		
+cev52_200.scr:25	cev52_200.scr	25	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:26	cev52_200.scr	26	ジェイド	Jade Curtiss	personagem	CRLF x1	苦笑。\n		
+cev52_200.scr:27	cev52_200.scr	27	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:28	cev52_200.scr	28	ジェイド	Jade Curtiss	personagem	CRLF x1	真顔。\n		
+cev52_200.scr:29	cev52_200.scr	29	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:30	cev52_200.scr	30	ジェイド	Jade Curtiss	personagem	CRLF x1	真剣。\n		
+cev52_200.scr:31	cev52_200.scr	31	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:32	cev52_200.scr	32	ジェイド	Jade Curtiss	personagem	CRLF x1	皮肉。\n		
+cev52_200.scr:33	cev52_200.scr	33	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:34	cev52_200.scr	34	ジェイド	Jade Curtiss	personagem	CRLF x1	眼鏡のみ。\n		
+cev52_200.scr:35	cev52_200.scr	35	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:36	cev52_200.scr	36	ジェイド	Jade Curtiss	personagem	CRLF x1	通常。\n		
+cev52_200.scr:37	cev52_200.scr	37	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:38	cev52_200.scr	38	ジェイド	Jade Curtiss	personagem	CRLF x1	笑い。\n		
+cev52_200.scr:39	cev52_200.scr	39	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:40	cev52_200.scr	40	ジェイド	Jade Curtiss	personagem	CRLF x1	怒り。\n		
+cev52_200.scr:41	cev52_200.scr	41	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:42	cev52_200.scr	42	ジェイド	Jade Curtiss	personagem	CRLF x1	悲しみ。\n		
+cev52_200.scr:43	cev52_200.scr	43	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:44	cev52_200.scr	44	ジェイド	Jade Curtiss	personagem	CRLF x1	苦笑。\n		
+cev52_200.scr:45	cev52_200.scr	45	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:46	cev52_200.scr	46	ジェイド	Jade Curtiss	personagem	CRLF x1	真顔。\n		
+cev52_200.scr:47	cev52_200.scr	47	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:48	cev52_200.scr	48	ジェイド	Jade Curtiss	personagem	CRLF x1	真剣。\n		
+cev52_200.scr:49	cev52_200.scr	49	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:50	cev52_200.scr	50	ジェイド	Jade Curtiss	personagem	CRLF x1	皮肉。\n		
+cev52_200.scr:51	cev52_200.scr	51	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev52_200.scr:52	cev52_200.scr	52	ジェイド	Jade Curtiss	personagem	CRLF x1	眼鏡のみ。\n		
+cev52_200.scr:53	cev52_200.scr	53	ジェイド	Jade Curtiss	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

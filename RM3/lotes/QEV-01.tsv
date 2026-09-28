@@ -1,0 +1,36 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev01_010.scr:0	qev01_010.scr	0	チェスター	Chester Barklight	personagem		あいつ……、頑張ってるよなぁ		
+qev01_010.scr:1	qev01_010.scr	1	(ator 200)	(ator 200)	desconhecido		……？		
+qev01_010.scr:2	qev01_010.scr	2	チェスター	Chester Barklight	personagem	CRLF x1	ん？\nああ、クレスだよ		
+qev01_010.scr:3	qev01_010.scr	3	チェスター	Chester Barklight	personagem	CRLF x1	ここ最近、目に見えて\n剣の腕を上げてきてる		
+qev01_010.scr:4	qev01_010.scr	4	チェスター	Chester Barklight	personagem	CRLF x1	オレも、のんびりしちゃ\nいられないな……		
+qev01_010.scr:5	qev01_010.scr	5	チェスター	Chester Barklight	personagem	CRLF x1	……なあ、折り入って\n頼みがあるんだ		
+qev01_010.scr:6	qev01_010.scr	6	チェスター	Chester Barklight	personagem	CRLF x1	聞くだけ聞いてくれないか？\n後の判断は、任せるからよ		
+qev01_010.scr:7	qev01_010.scr	7	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「友としてライバルとして」が\nエントリーされました。\nチェスターから受ける事が出来ます		
+qev01_020.scr:0	qev01_020.scr	0	チェスター	Chester Barklight	personagem		付き合わせて悪いな		
+qev01_020.scr:1	qev01_020.scr	1	チェスター	Chester Barklight	personagem	CRLF x2	でも、お前なら\n受けてくれるって気がしてたぜ。\n何となく、だけどな		
+qev01_020.scr:2	qev01_020.scr	2	チェスター	Chester Barklight	personagem		さ、行こうぜ！		
+qev01_030.scr:0	qev01_030.scr	0	チェスター	Chester Barklight	personagem	CRLF x2	さて、と……。\nここからは気を引き締めて\nかからないとな		
+qev01_030.scr:1	qev01_030.scr	1	チェスター	Chester Barklight	personagem		よろしく頼むぜ、○○		
+qev01_040.scr:0	qev01_040.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	ふう……。\nこれであと半分、だな		
+qev01_040.scr:1	qev01_040.scr	1	チェスター	Chester Barklight	personagem		…………		
+qev01_040.scr:2	qev01_040.scr	2	チェスター	Chester Barklight	personagem	CRLF x2	なあ……。\nお前には、背中を預けられる\n親友っているか？		
+qev01_040.scr:3	qev01_040.scr	3	チェスター	Chester Barklight	personagem	CRLF x2	って、悪い。\nお前には過去の記憶が\nないんだったな……		
+qev01_040.scr:4	qev01_040.scr	4	(ator 200)	(ator 200)	desconhecido		…………		
+qev01_040.scr:5	qev01_040.scr	5	チェスター	Chester Barklight	personagem	CRLF x2	……クレスとはさ。\nガキの頃からずっと、\n腕を競い合ってきた仲なんだ		
+qev01_040.scr:6	qev01_040.scr	6	チェスター	Chester Barklight	personagem		剣と弓の違いはあっても、な		
+qev01_040.scr:7	qev01_040.scr	7	チェスター	Chester Barklight	personagem	CRLF x1	だから、わかるんだよ。\nあいつはこのギルドへ来て、変わった		
+qev01_040.scr:8	qev01_040.scr	8	チェスター	Chester Barklight	personagem	CRLF x2	単なる技術だけじゃない。\n目的を見つけて……どんどん強く\nたくましくなっている		
+qev01_040.scr:9	qev01_040.scr	9	チェスター	Chester Barklight	personagem		何だか……焦っちまうんだよな		
+qev01_040.scr:10	qev01_040.scr	10	チェスター	Chester Barklight	personagem	CRLF x2	オレは、あいつとは対等でいたいんだ。\nいざって時に、当たり前にお互いを\n頼れる関係っていうかさ		
+qev01_040.scr:11	qev01_040.scr	11	(ator 200)	(ator 200)	desconhecido		…………		
+qev01_040.scr:12	qev01_040.scr	12	チェスター	Chester Barklight	personagem	CRLF x1	……こ、この話は\nクレスには言うなよ！		
+qev01_040.scr:13	qev01_040.scr	13	チェスター	Chester Barklight	personagem	CRLF x1	ほら、残り半分。\nさっさと片付けちまおうぜ！		
+qev01_050.scr:0	qev01_050.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	今ので全部だな。\n助かったよ、○○		
+qev01_050.scr:1	qev01_050.scr	1	チェスター	Chester Barklight	personagem	CRLF x1	クレスもだけど、お前の腕も\nなかなかのもんだよな		
+qev01_050.scr:2	qev01_050.scr	2	チェスター	Chester Barklight	personagem	CRLF x1	おかげで色々\n気付けたもんがあったよ		
+qev01_050.scr:3	qev01_050.scr	3	チェスター	Chester Barklight	personagem	CRLF x1	へへっ。\nありがとな		
+qev01_060.scr:0	qev01_060.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	ふ〜っ。\nようやく、帰ってこれたな		
+qev01_060.scr:1	qev01_060.scr	1	チェスター	Chester Barklight	personagem	CRLF x2	なぁ、○○。\nお前も困った事があったら\nいつでも声をかけてくれよ		
+qev01_060.scr:2	qev01_060.scr	2	チェスター	Chester Barklight	personagem	CRLF x1	今度はオレが、お前の力に\nなってやるぜ！		
+qev01_060.scr:3	qev01_060.scr	3	チェスター	Chester Barklight	personagem		じゃあな		

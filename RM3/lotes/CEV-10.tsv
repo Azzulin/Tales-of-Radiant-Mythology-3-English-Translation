@@ -1,0 +1,159 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev10_010.scr:0	cev10_010.scr	0	マオ	Mao	personagem		ふんふん、ふふ〜ん♪		
+cev10_010.scr:1	cev10_010.scr	1	マオ	Mao	personagem		わっ、ごめんなさ……		
+cev10_010.scr:2	cev10_010.scr	2	マオ	Mao	personagem	CRLF x1	って、ヴェイグ？　\nあれれ！？		
+cev10_010.scr:3	cev10_010.scr	3	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	おっと。\nこれは失礼		
+cev10_010.scr:4	cev10_010.scr	4	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	おや……君は確か……。\nマオ君、だったね		
+cev10_010.scr:5	cev10_010.scr	5	チェルシー	Chelsea Torn	personagem		ウッドロウさま、大丈夫ですかぁ！？		
+cev10_010.scr:6	cev10_010.scr	6	チェルシー	Chelsea Torn	personagem	CRLF x2	もうっ、あなた達！　\nちゃんと前見て\n歩いて下さ……って		
+cev10_010.scr:7	cev10_010.scr	7	チェルシー	Chelsea Torn	personagem		あれ、ウッドロウさまが二人！？		
+cev10_010.scr:8	cev10_010.scr	8	ヴェイグ	Veigue Lungberg	personagem		……オレはヴェイグだ		
+cev10_010.scr:9	cev10_010.scr	9	マオ	Mao	personagem	CRLF x1	へぇ〜〜、びっくりしたぁ。\n二人とも、ソックリさんなんだねえ〜		
+cev10_010.scr:10	cev10_010.scr	10	マオ	Mao	personagem	CRLF x1	案外、生き別れの双子だったりして？\nね、ヴェイグ？		
+cev10_010.scr:11	cev10_010.scr	11	ウッドロウ	Woodrow Kelvin	personagem		私はウッドロウだよ、マオ君		
+cev10_010.scr:12	cev10_010.scr	12	チェルシー	Chelsea Torn	personagem	CRLF x1	そ、そんな！\nウッドロウさまにご兄弟なんて……		
+cev10_010.scr:13	cev10_010.scr	13	チェルシー	Chelsea Torn	personagem	CRLF x1	ああでも、白銀の髪に、青い瞳……\nどことなく漂う気品……これはもしかすると		
+cev10_010.scr:14	cev10_010.scr	14	チェルシー	Chelsea Torn	personagem	CRLF x1	もしかしちゃうかもしれませんね\nウッドロウさま！		
+cev10_010.scr:15	cev10_010.scr	15	ヴェイグ	Veigue Lungberg	personagem		……オレはヴェイグだが		
+cev10_010.scr:16	cev10_010.scr	16	マオ	Mao	personagem	CRLF x1	だとしたら、これは二人の、運命の再会？\nボク、何だか感動してきちゃったヨ〜！		
+cev10_010.scr:17	cev10_010.scr	17	チェルシー	Chelsea Torn	personagem	CRLF x2	どうしましょう、私\nウッドロウさまの弟君に\nこんな所でお会いしてしまうなんて……！		
+cev10_010.scr:18	cev10_010.scr	18	チェルシー	Chelsea Torn	personagem		あ、あの、後程改めてご挨拶に伺いますねっ		
+cev10_010.scr:19	cev10_010.scr	19	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	どうやら二人とも、すっかり\n盛り上がってしまっている様だな		
+cev10_010.scr:20	cev10_010.scr	20	ヴェイグ	Veigue Lungberg	personagem		……そんなに似ているか？		
+cev10_020.scr:0	cev10_020.scr	0	ヴェイグ	Veigue Lungberg	personagem		…………		
+cev10_020.scr:1	cev10_020.scr	1	ウッドロウ	Woodrow Kelvin	personagem		…………		
+cev10_020.scr:2	cev10_020.scr	2	ヴェイグ	Veigue Lungberg	personagem		（言われてみれば、似ている……か？）		
+cev10_020.scr:3	cev10_020.scr	3	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	（確かに……一見した特徴では\n　共通するところが多いのかも\n　しれないな）		
+cev10_020.scr:4	cev10_020.scr	4	ティトレイ	Tytree Crowe	personagem		お〜、いたいた！		
+cev10_020.scr:5	cev10_020.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x1	探したぞヴェイグ、今日の買出し\n付き合ってくれる約束だよな？		
+cev10_020.scr:6	cev10_020.scr	6	チェルシー	Chelsea Torn	personagem		ウッドロウさまぁ〜		
+cev10_020.scr:7	cev10_020.scr	7	チェルシー	Chelsea Torn	personagem		私と弓の練習をするお約束は……		
+cev10_020.scr:8	cev10_020.scr	8	ヴェイグ	Veigue Lungberg	personagem		まさか……		
+cev10_020.scr:9	cev10_020.scr	9	ウッドロウ	Woodrow Kelvin	personagem		見分けが……？		
+cev10_020.scr:10	cev10_020.scr	10	ティトレイ	Tytree Crowe	personagem	CRLF x1	ば〜か！\nそんな事あるはずないだろ？		
+cev10_020.scr:11	cev10_020.scr	11	チェルシー	Chelsea Torn	personagem	CRLF x1	そうですよう。\n今度は絶対、間違えたりしません！		
+cev10_020.scr:12	cev10_020.scr	12	ヴェイグ	Veigue Lungberg	personagem		そうか		
+cev10_020.scr:13	cev10_020.scr	13	ウッドロウ	Woodrow Kelvin	personagem		それを聞いて安心したよ		
+cev10_020.scr:14	cev10_020.scr	14	ティトレイ	Tytree Crowe	personagem		んじゃ、行こうぜヴェイグ！		
+cev10_020.scr:15	cev10_020.scr	15	チェルシー	Chelsea Torn	personagem		行きましょ、ウッドロウさま		
+cev10_020.scr:16	cev10_020.scr	16	ヴェイグ	Veigue Lungberg	personagem		…………		
+cev10_030.scr:0	cev10_030.scr	0	ソフィ	Sophie	personagem	CRLF x1	ウッドロウは、\nどんな所を旅してきたの？		
+cev10_030.scr:1	cev10_030.scr	1	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	そうだね……見聞を広める為に\nとにかく様々な場所を見て回っていたよ		
+cev10_030.scr:2	cev10_030.scr	2	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	特に場所の限定は\nしない様にしていたかな		
+cev10_030.scr:3	cev10_030.scr	3	ソフィ	Sophie	personagem		いいな……わたしも色んな所を見たい		
+cev10_030.scr:4	cev10_030.scr	4	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	見られるさ。\nソフィ君はまだ、若いのだからね		
+cev10_030.scr:5	cev10_030.scr	5	ソフィ	Sophie	personagem	CRLF x2	若いと、ウッドロウみたいに\n色んなものを見られるの？　\n全部？		
+cev10_030.scr:6	cev10_030.scr	6	ウッドロウ	Woodrow Kelvin	personagem		ああ、きっと出来るだろう		
+cev10_030.scr:7	cev10_030.scr	7	ソフィ	Sophie	personagem		そうなんだ……		
+cev10_030.scr:8	cev10_030.scr	8	ソフィ	Sophie	personagem		楽しみだな……		
+cev10_030.scr:9	cev10_030.scr	9	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	旅はいい。\nそして、世界は広いのだ、ソフィ君。\nそれを知る事は、きっと君の糧になるだろう		
+cev10_030.scr:10	cev10_030.scr	10	ソフィ	Sophie	personagem	CRLF x1	……？　\nどういう事？		
+cev10_030.scr:11	cev10_030.scr	11	ウッドロウ	Woodrow Kelvin	personagem		ふふ、少し難しかったかな？		
+cev10_030.scr:12	cev10_030.scr	12	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	いずれわかる時が来る。\nいや……、若いうちだからこそ\n知って欲しいのだ		
+cev10_040.scr:0	cev10_040.scr	0	ソフィ	Sophie	personagem	CRLF x1	ウッドロウ。\n世界のお話、また聞かせて		
+cev10_040.scr:1	cev10_040.scr	1	ウッドロウ	Woodrow Kelvin	personagem		いいだろう		
+cev10_040.scr:2	cev10_040.scr	2	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	さて……今日はどんな国について\n話をしようか？		
+cev10_040.scr:3	cev10_040.scr	3	ソフィ	Sophie	personagem		えっとね……		
+cev10_040.scr:4	cev10_040.scr	4	アスベル	Asbel Lhant	personagem	CRLF x1	ソフィ？\nそろそろ買い出しに行く時間……		
+cev10_040.scr:5	cev10_040.scr	5	アスベル	Asbel Lhant	personagem		……っ！？		
+cev10_040.scr:6	cev10_040.scr	6	ソフィ	Sophie	personagem		アスベル		
+cev10_040.scr:7	cev10_040.scr	7	アスベル	Asbel Lhant	personagem	CRLF x1	し……失礼をしまして、\n申し訳ありませんでした！		
+cev10_040.scr:8	cev10_040.scr	8	アスベル	Asbel Lhant	personagem	CRLF x1	立場もわきまえず、多々ご無礼を\n働いた事と思いますが……		
+cev10_040.scr:9	cev10_040.scr	9	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ああ、アスベル君。\nいいんだよ		
+cev10_040.scr:10	cev10_040.scr	10	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ソフィ君とは、世間話をしていただけだ。\nそう堅くならないでくれたまえ		
+cev10_040.scr:11	cev10_040.scr	11	アスベル	Asbel Lhant	personagem		しかし……		
+cev10_040.scr:12	cev10_040.scr	12	ソフィ	Sophie	personagem	CRLF x2	アスベル。\nウッドロウはね、この世界の色んな所を\n旅してて色んな事を知ってるんだよ		
+cev10_040.scr:13	cev10_040.scr	13	アスベル	Asbel Lhant	personagem		ウッドロウって……ソフィ！		
+cev10_040.scr:14	cev10_040.scr	14	アスベル	Asbel Lhant	personagem		この方は……		
+cev10_040.scr:15	cev10_040.scr	15	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	ふふ。\n構わないよ。\nここでは私も、ただの異国人なのだ		
+cev10_040.scr:16	cev10_040.scr	16	ウッドロウ	Woodrow Kelvin	personagem		ウッドロウと気楽に呼んでくれ		
+cev10_040.scr:17	cev10_040.scr	17	アスベル	Asbel Lhant	personagem		ですが……		
+cev10_040.scr:18	cev10_040.scr	18	ソフィ	Sophie	personagem	CRLF x2	アスベル？\n……ウッドロウの事、ウッドロウって\n呼んだらいけないの？		
+cev10_040.scr:19	cev10_040.scr	19	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	そんな事はないよ、ソフィ君。\nいつも通り、接してくれて構わない		
+cev10_040.scr:20	cev10_040.scr	20	ウッドロウ	Woodrow Kelvin	personagem		もちろん、アスベル君もね		
+cev10_040.scr:21	cev10_040.scr	21	アスベル	Asbel Lhant	personagem	CRLF x1	……ありがとうございます。\n……その……		
+cev10_040.scr:22	cev10_040.scr	22	アスベル	Asbel Lhant	personagem		……ウッドロウ		
+cev10_040.scr:23	cev10_040.scr	23	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	なに、礼を言われる様な事は\n何もしていないよ		
+cev10_040.scr:24	cev10_040.scr	24	ウッドロウ	Woodrow Kelvin	personagem		これからも、気軽に話をして欲しい		
+cev10_050.scr:0	cev10_050.scr	0	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ソフィ君は、素直ないい子だね。\n積極的に、色々な事に興味を持っている様だ		
+cev10_050.scr:1	cev10_050.scr	1	アスベル	Asbel Lhant	personagem	CRLF x1	確かに、少し目を離すと\n色んなものを見ているな……		
+cev10_050.scr:2	cev10_050.scr	2	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	若いというのは良い事だ。\n世界の何もかもが、真新しく\n鮮やかに見えるのだろうね		
+cev10_050.scr:3	cev10_050.scr	3	フレン	Flynn Scifo	personagem		これは……ウッドロウ様！		
+cev10_050.scr:4	cev10_050.scr	4	フレン	Flynn Scifo	personagem	CRLF x1	本日も良いお天気ですね。\n……船内の視察中ですか？		
+cev10_050.scr:5	cev10_050.scr	5	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	なに、そんな大それたものではないよ。\nアスベル君と世間話をしていたのだ		
+cev10_050.scr:6	cev10_050.scr	6	フレン	Flynn Scifo	personagem	CRLF x2	……ウッドロウ様。\n少し部下を借り受けても\nよろしいでしょうか？		
+cev10_050.scr:7	cev10_050.scr	7	ウッドロウ	Woodrow Kelvin	personagem		ああ、構わないよ		
+cev10_050.scr:8	cev10_050.scr	8	フレン	Flynn Scifo	personagem	CRLF x1	（アスベル、どういう事だ？\n　ウッドロウ様に対してあんな気安く！）		
+cev10_050.scr:9	cev10_050.scr	9	アスベル	Asbel Lhant	personagem	CRLF x1	（誤解です！\n　これにはちゃんと理由があって……）		
+cev10_050.scr:10	cev10_050.scr	10	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ああ、そうか。\nフレン君？		
+cev10_050.scr:11	cev10_050.scr	11	フレン	Flynn Scifo	personagem		はい、何でしょうか		
+cev10_050.scr:12	cev10_050.scr	12	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	君も私を呼び捨てにしてくれて\n構わないよ		
+cev10_050.scr:13	cev10_050.scr	13	フレン	Flynn Scifo	personagem	CRLF x1	とんでもない！　\nその様な……		
+cev10_050.scr:14	cev10_050.scr	14	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ここでは特別扱いはしない、と\nアンジュ君とも約束を交わしている		
+cev10_050.scr:15	cev10_050.scr	15	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	君は私に\n約束を反故にしろというのかね？		
+cev10_050.scr:16	cev10_050.scr	16	フレン	Flynn Scifo	personagem		うう……それは……		
+cev10_050.scr:17	cev10_050.scr	17	アスベル	Asbel Lhant	personagem	CRLF x2	（……フレン隊長の\n　弱いところを見事に突いている。\n　さすがだ……）		
+cev10_060.scr:0	cev10_060.scr	0	アッシュ	Asch	personagem		お前は、いつ王位を継ぐつもりなんだ？		
+cev10_060.scr:1	cev10_060.scr	1	アッシュ	Asch	personagem	CRLF x1	いつまでも、今の生活を\n続けるわけじゃないんだろう		
+cev10_060.scr:2	cev10_060.scr	2	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	そうだな……。\n大臣達からも、口うるさく\n言われてはいるのだが……		
+cev10_060.scr:3	cev10_060.scr	3	アッシュ	Asch	personagem	CRLF x1	……まだ、気にしているのか。\n父君の事を		
+cev10_060.scr:4	cev10_060.scr	4	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	……知っての通り、父は\n名実共に「賢王」と名高い人物だ		
+cev10_060.scr:5	cev10_060.scr	5	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	果たして今の自分が、その後を継ぐに\nふさわしいのか……日々、考えている		
+cev10_060.scr:6	cev10_060.scr	6	アッシュ	Asch	personagem		だから甘いと言うんだ、お前は		
+cev10_060.scr:7	cev10_060.scr	7	アッシュ	Asch	personagem	CRLF x2	生まれついての名君などいるはずもない。\n王位に就き、周囲の助力や援助の中で\n名君へと成長していくものだ		
+cev10_060.scr:8	cev10_060.scr	8	アッシュ	Asch	personagem		違うのか		
+cev10_060.scr:9	cev10_060.scr	9	ウッドロウ	Woodrow Kelvin	personagem		アッシュ君は、そう思うのだね		
+cev10_060.scr:10	cev10_060.scr	10	アッシュ	Asch	personagem	CRLF x2	ああ。\n民の生活や国の安寧に心を砕くお前には、\n誰より王の資質があるとも思っている		
+cev10_060.scr:11	cev10_060.scr	11	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	それは、光栄だ。\nだが……		
+cev10_060.scr:12	cev10_060.scr	12	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	今少し、考える時間が欲しいのだよ。\n真実を見極め……本当に民が\n必要としている事、己のなすべき事、		
+cev10_060.scr:13	cev10_060.scr	13	ウッドロウ	Woodrow Kelvin	personagem		その全てに、誠実に向き合う時間が……		
+cev10_060.scr:14	cev10_060.scr	14	アッシュ	Asch	personagem	CRLF x1	……そうか。\nお前がそう思うなら、仕方がない		
+cev10_060.scr:15	cev10_060.scr	15	アッシュ	Asch	personagem	CRLF x1	その代わり、思いや信念は最後まで貫けよ。\n半端な決意はいらん、誰にとっても迷惑だ		
+cev10_060.scr:16	cev10_060.scr	16	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	励ましてくれているんだね。\nすまない……アッシュ君		
+cev10_060.scr:17	cev10_060.scr	17	アッシュ	Asch	personagem		別に……励ましてなどいない		
+cev10_060.scr:18	cev10_060.scr	18	アッシュ	Asch	personagem		フン……		
+cev10_070.scr:0	cev10_070.scr	0	ルーク	Luke fon Fabre	personagem	CRLF x2	へっ。\nいつ来ても\n狭っ苦しい食堂だよなぁ		
+cev10_070.scr:1	cev10_070.scr	1	アッシュ	Asch	personagem		嫌なら来なければいいだろう		
+cev10_070.scr:2	cev10_070.scr	2	ルーク	Luke fon Fabre	personagem	CRLF x1	何だと？\nお前に指図される覚えはねえよ		
+cev10_070.scr:3	cev10_070.scr	3	アッシュ	Asch	personagem		だったら黙って食べていろ、この屑！		
+cev10_070.scr:4	cev10_070.scr	4	ティア	Tear Grants	personagem	CRLF x1	アッシュ！　\nルーク！！		
+cev10_070.scr:5	cev10_070.scr	5	ティア	Tear Grants	personagem	CRLF x1	二人とも、こんなところでやめて。\nみっともないでしょう		
+cev10_070.scr:6	cev10_070.scr	6	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	そうですわよ。　食事の時くらい、\n皆で仲良く、楽しい時間にするのが\nマナーというものです		
+cev10_070.scr:7	cev10_070.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x2	へっへーん。\nだっせー、アッシュ。\n怒られてやんの！		
+cev10_070.scr:8	cev10_070.scr	8	ティア	Tear Grants	personagem		あなたも叱られているのよ、ルーク！		
+cev10_070.scr:9	cev10_070.scr	9	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ふふ、賑やかだな。\n食卓というのは、こうでなくては		
+cev10_070.scr:10	cev10_070.scr	10	エステル	Estelle	personagem	CRLF x2	ええ。\nそうですね。\n仲がいいのは、いい事だと思います		
+cev10_070.scr:11	cev10_070.scr	11	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		これは、仲がいいと言えますの……？		
+cev10_080.scr:0	cev10_080.scr	0	ジューダス	Judas	personagem	CRLF x1	……僕に用があるなら\nはっきりそう言ったらどうだ		
+cev10_080.scr:1	cev10_080.scr	1	ウッドロウ	Woodrow Kelvin	personagem		……いや、すまない		
+cev10_080.scr:2	cev10_080.scr	2	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	そういうわけではないのだ。\n気分を害してしまったのなら、謝ろう		
+cev10_080.scr:3	cev10_080.scr	3	ジューダス	Judas	personagem		…………		
+cev10_080.scr:4	cev10_080.scr	4	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	何となくだが、君が\n私の知り合いに似ている様な\n気がしてね……		
+cev10_080.scr:5	cev10_080.scr	5	ウッドロウ	Woodrow Kelvin	personagem		失礼だが、ご兄弟やご親戚に……		
+cev10_080.scr:6	cev10_080.scr	6	ジューダス	Judas	personagem		僕には兄弟も親戚もいない		
+cev10_080.scr:7	cev10_080.scr	7	ジューダス	Judas	personagem		……気のせいだろう		
+cev10_080.scr:8	cev10_080.scr	8	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	気のせい……なのだろうか。\n…………		
+cev10_200.scr:0	cev10_200.scr	0	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	通常。\n		
+cev10_200.scr:1	cev10_200.scr	1	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev10_200.scr:2	cev10_200.scr	2	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	笑い。\n		
+cev10_200.scr:3	cev10_200.scr	3	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev10_200.scr:4	cev10_200.scr	4	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	怒り。\n		
+cev10_200.scr:5	cev10_200.scr	5	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev10_200.scr:6	cev10_200.scr	6	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	悲しみ。\n		
+cev10_200.scr:7	cev10_200.scr	7	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev10_200.scr:8	cev10_200.scr	8	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	通常。\n		
+cev10_200.scr:9	cev10_200.scr	9	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev10_200.scr:10	cev10_200.scr	10	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	笑い。\n		
+cev10_200.scr:11	cev10_200.scr	11	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev10_200.scr:12	cev10_200.scr	12	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	怒り。\n		
+cev10_200.scr:13	cev10_200.scr	13	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev10_200.scr:14	cev10_200.scr	14	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	悲しみ。\n		
+cev10_200.scr:15	cev10_200.scr	15	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev10_200.scr:16	cev10_200.scr	16	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	通常。\n		
+cev10_200.scr:17	cev10_200.scr	17	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev10_200.scr:18	cev10_200.scr	18	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	笑い。\n		
+cev10_200.scr:19	cev10_200.scr	19	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev10_200.scr:20	cev10_200.scr	20	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	怒り。\n		
+cev10_200.scr:21	cev10_200.scr	21	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev10_200.scr:22	cev10_200.scr	22	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	悲しみ。\n		
+cev10_200.scr:23	cev10_200.scr	23	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

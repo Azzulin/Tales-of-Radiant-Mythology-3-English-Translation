@@ -1,0 +1,168 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev03_010.scr:0	cev03_010.scr	0	ロニ	Loni Dunamis	personagem		痛っててて…		
+cev03_010.scr:1	cev03_010.scr	1	チェスター	Chester Barklight	personagem		おい、大丈夫か？		
+cev03_010.scr:2	cev03_010.scr	2	チェスター	Chester Barklight	personagem		随分派手にやりあったもんだな		
+cev03_010.scr:3	cev03_010.scr	3	ロニ	Loni Dunamis	personagem	CRLF x2	あの凶暴女……加減ってもんを\n知らねえのか！　\n……って		
+cev03_010.scr:4	cev03_010.scr	4	ロニ	Loni Dunamis	personagem		あ痛てててててて		
+cev03_010.scr:5	cev03_010.scr	5	チェスター	Chester Barklight	personagem		ロニとナナリーって、ほんと仲がいいよな		
+cev03_010.scr:6	cev03_010.scr	6	チェスター	Chester Barklight	personagem	CRLF x1	傍から見てると、結構\nお似合いの二人に見えるぜ		
+cev03_010.scr:7	cev03_010.scr	7	ロニ	Loni Dunamis	personagem	CRLF x1	ばっ、馬鹿言うな！\n俺とあいつは、別に……		
+cev03_010.scr:8	cev03_010.scr	8	チェスター	Chester Barklight	personagem	CRLF x1	照れるな照れるな。\nわかってるって		
+cev03_010.scr:9	cev03_010.scr	9	ロニ	Loni Dunamis	personagem		ふっ……そうだよなぁ？		
+cev03_010.scr:10	cev03_010.scr	10	ロニ	Loni Dunamis	personagem	CRLF x2	お前も、アーチェと毎日\n朝から晩まで飽きる事なく\n痴話喧嘩してるもんなぁ？		
+cev03_010.scr:11	cev03_010.scr	11	チェスター	Chester Barklight	personagem	CRLF x1	ば……馬鹿言え！\nあいつはそんなんじゃ……		
+cev03_010.scr:12	cev03_010.scr	12	チェスター	Chester Barklight	personagem	CRLF x2	大体、口を開けばむかつく事しか\n言わねえし、可愛げはねえ、料理は下手、\nおまけに能天気でバカで……		
+cev03_010.scr:13	cev03_010.scr	13	ロニ	Loni Dunamis	personagem	CRLF x1	でも、放っとけない……だろ？\n俺だって、同じだよ		
+cev03_010.scr:14	cev03_010.scr	14	チェスター	Chester Barklight	personagem		…………		
+cev03_010.scr:15	cev03_010.scr	15	チェスター	Chester Barklight	personagem		何かお互い、苦労するな？		
+cev03_010.scr:16	cev03_010.scr	16	ロニ	Loni Dunamis	personagem		……だな		
+cev03_020.scr:0	cev03_020.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	世界の危機を救うべく現れた\n予言の勇者、ディセンダー		
+cev03_020.scr:1	cev03_020.scr	1	チェスター	Chester Barklight	personagem	CRLF x1	かの人の歩む道は辛く険しい、だが\n踏み出したその一歩に迷いはない		
+cev03_020.scr:2	cev03_020.scr	2	チェスター	Chester Barklight	personagem	CRLF x2	なぜなら、勇者の傍らには\n厚い信頼を寄せる仲間の剣士と\nその親友である弓使いの姿があったのだ		
+cev03_020.scr:3	cev03_020.scr	3	チェスター	Chester Barklight	personagem	CRLF x2	みなの力が合わさった時\n彼らの前に障害はない。\nそう、たとえそれが		
+cev03_020.scr:4	cev03_020.scr	4	チェスター	Chester Barklight	personagem		どれ程困難な道であろうとも！		
+cev03_020.scr:5	cev03_020.scr	5	クレス	Cress Albane	personagem	CRLF x1	あのさ……。\n前にも言った気がするんだけど		
+cev03_020.scr:6	cev03_020.scr	6	クレス	Cress Albane	personagem	CRLF x1	その勝手にナレーション付けるの\nやめないか？		
+cev03_020.scr:7	cev03_020.scr	7	チェスター	Chester Barklight	personagem	CRLF x1	ああ、まぁ\nかたい事言うなよ		
+cev03_020.scr:8	cev03_020.scr	8	クレス	Cress Albane	personagem		もう趣味になってきてるよな……		
+cev03_020.scr:9	cev03_020.scr	9	チェスター	Chester Barklight	personagem		そうかあ？		
+cev03_030.scr:0	cev03_030.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	おい！　カイルは……カイルはどこだ！？\n無事なのか！！		
+cev03_030.scr:1	cev03_030.scr	1	アニー	Annie Barrs	personagem	CRLF x1	ロニさん、落ち着いて下さい。\nカイルさんなら、今治療中です		
+cev03_030.scr:2	cev03_030.scr	2	アニー	Annie Barrs	personagem		命に別状はありませんから		
+cev03_030.scr:3	cev03_030.scr	3	チェスター	Chester Barklight	personagem	CRLF x1	食堂にパナシーアボトルを\n常備しといて正解だったな……		
+cev03_030.scr:4	cev03_030.scr	4	チェスター	Chester Barklight	personagem	CRLF x1	カイルの奴、例によって\n一口で撃沈したって話だぜ		
+cev03_030.scr:5	cev03_030.scr	5	アニー	Annie Barrs	personagem	CRLF x2	ええ。\nあんなに震えてる患者さんを……\nわたし、初めて見ました		
+cev03_030.scr:6	cev03_030.scr	6	アニー	Annie Barrs	personagem	CRLF x1	よっぽど酷い料……いえ、\n食中毒だったんでしょう		
+cev03_030.scr:7	cev03_030.scr	7	ロニ	Loni Dunamis	personagem	CRLF x1	食中毒か……くそっ。\nかわいそうに、カイル……ッ！！		
+cev03_030.scr:8	cev03_030.scr	8	ウィル	Will Raynard	personagem		道をあけてくれ、急病人を搬送する！		
+cev03_030.scr:9	cev03_030.scr	9	スタン	Stahn Aileron	personagem	CRLF x1	すぐ医務室へ運んでやるからな。\nそれまで頑張れよ、カイル！！		
+cev03_030.scr:10	cev03_030.scr	10	ロニ	Loni Dunamis	personagem		カイル、しっかりしろ！		
+cev03_030.scr:11	cev03_030.scr	11	ロニ	Loni Dunamis	personagem	CRLF x1	目を開けるんだ、カイル！\nカイル〜〜〜！！		
+cev03_030.scr:12	cev03_030.scr	12	チェスター	Chester Barklight	personagem	CRLF x1	それにしても、あいつ……\nまさかそっち方向で腕を上げるとはな		
+cev03_030.scr:13	cev03_030.scr	13	アニー	Annie Barrs	personagem	CRLF x2	次回から、アーチェさんには誰かとペアで\n料理当番に当たっていただけるよう\nアンジュさんにお願いしてみます		
+cev03_030.scr:14	cev03_030.scr	14	チェスター	Chester Barklight	personagem	CRLF x1	ああ、悪いな。\nそうしてくれると助かるぜ		
+cev03_030.scr:15	cev03_030.scr	15	チェスター	Chester Barklight	personagem	CRLF x1	カイル……お前の死は\n絶対無駄にしないからな……！		
+cev03_030.scr:16	cev03_030.scr	16	アニー	Annie Barrs	personagem	CRLF x1	あの……カイルさん、\nまだ生きてます		
+cev03_040.scr:0	cev03_040.scr	0	チェスター	Chester Barklight	personagem		リフィルって物知りだよなぁ		
+cev03_040.scr:1	cev03_040.scr	1	チェスター	Chester Barklight	personagem	CRLF x1	「これぞ女教師！」って感じがして\nかっこいいよな		
+cev03_040.scr:2	cev03_040.scr	2	コレット	Colette Brunel	personagem	CRLF x1	先生はね、物知りなだけじゃなくて\nとっても行動力がある人なんだよ		
+cev03_040.scr:3	cev03_040.scr	3	チェスター	Chester Barklight	personagem	CRLF x2	ああ、各地の遺跡調査を\nしてるって話だろ？　\nすげえよな		
+cev03_040.scr:4	cev03_040.scr	4	コレット	Colette Brunel	personagem	CRLF x2	うん、それもあるんだけど\nいらないって思った施設は\nどんどん爆破しちゃうんだよ		
+cev03_040.scr:5	cev03_040.scr	5	チェスター	Chester Barklight	personagem		爆破！？		
+cev03_040.scr:6	cev03_040.scr	6	コレット	Colette Brunel	personagem	CRLF x2	そだよ。\nだから先生はね、\nフエル爆弾って呼ばれてるんだ∀		
+cev03_040.scr:7	cev03_040.scr	7	チェスター	Chester Barklight	personagem	CRLF x2	フエル爆弾！？　\n通り名って事か？\nそりゃ、随分穏やかじゃねえ話だな……		
+cev03_040.scr:8	cev03_040.scr	8	チェスター	Chester Barklight	personagem	CRLF x1	……実はとんでもない奴なのか？\nリフィルって……		
+cev03_040.scr:9	cev03_040.scr	9	コレット	Colette Brunel	personagem	CRLF x1	うん。\n先生はすごい人だよ∀		
+cev03_050.scr:0	cev03_050.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	おい、クレス……。\nリフィルの事なんだが、どう思う？		
+cev03_050.scr:1	cev03_050.scr	1	クレス	Cress Albane	personagem	CRLF x1	どうって……。\n知的で、大人な女性だと思うけど		
+cev03_050.scr:2	cev03_050.scr	2	クレス	Cress Albane	personagem	CRLF x1	どうしたんだ？\nいきなりそんな話をするなんて		
+cev03_050.scr:3	cev03_050.scr	3	チェスター	Chester Barklight	personagem		いや、実は聞いた話なんだが……		
+cev03_050.scr:4	cev03_050.scr	4	チェスター	Chester Barklight	personagem	CRLF x1	どうやらリフィルは\nかなり手練れの爆弾魔らしいんだ		
+cev03_050.scr:5	cev03_050.scr	5	クレス	Cress Albane	personagem		爆弾魔！？		
+cev03_050.scr:6	cev03_050.scr	6	クレス	Cress Albane	personagem	CRLF x1	そんな、まさか……。\n何かの間違いだろう		
+cev03_050.scr:7	cev03_050.scr	7	チェスター	Chester Barklight	personagem	CRLF x2	オレだってそう思ったさ！\nでも、実際にかなりの施設が爆破されて\n「フエル爆弾」って通り名まであるらしい		
+cev03_050.scr:8	cev03_050.scr	8	クレス	Cress Albane	personagem		そんな……信じられないよ		
+cev03_050.scr:9	cev03_050.scr	9	チェスター	Chester Barklight	personagem		ああ……		
+cev03_050.scr:10	cev03_050.scr	10	チェスター	Chester Barklight	personagem		綺麗な花にはトゲがある……ってヤツだな		
+cev03_060.scr:0	cev03_060.scr	0	アーチェ	Arche Klein	personagem		もうあんたなんか知らないっ！		
+cev03_060.scr:1	cev03_060.scr	1	アーチェ	Arche Klein	personagem	CRLF x1	この変態！　すけべ！！\nベロベロベ〜〜〜だ！！		
+cev03_060.scr:2	cev03_060.scr	2	チェスター	Chester Barklight	personagem		ああ、それはこっちの台詞だ！		
+cev03_060.scr:3	cev03_060.scr	3	シェリア	Cheria Barnes	personagem		また喧嘩をしていたの？		
+cev03_060.scr:4	cev03_060.scr	4	チェスター	Chester Barklight	personagem	CRLF x1	シェリアか……びっくりさせるなよ。\nいつから見てたんだ？		
+cev03_060.scr:5	cev03_060.scr	5	シェリア	Cheria Barnes	personagem	CRLF x1	見てたというか、聞こえちゃったのよ。\nあれだけ大きな声で喧嘩していれば……ね		
+cev03_060.scr:6	cev03_060.scr	6	チェスター	Chester Barklight	personagem	CRLF x2	！　わ、悪ぃ……。\nそんなうるさくしてたつもりは\nなかったんだけどよ		
+cev03_060.scr:7	cev03_060.scr	7	シェリア	Cheria Barnes	personagem	CRLF x1	いいのよ、気にしないで。\nそれで、今度の原因は何だったの？		
+cev03_060.scr:8	cev03_060.scr	8	チェスター	Chester Barklight	personagem		……ああ……大した事じゃねえよ		
+cev03_060.scr:9	cev03_060.scr	9	チェスター	Chester Barklight	personagem		ったく、思い出しても腹が立つぜ……		
+cev03_060.scr:10	cev03_060.scr	10	シェリア	Cheria Barnes	personagem	CRLF x1	でも、チェスターはアーチェと\nいつも一緒にいるわよね		
+cev03_060.scr:11	cev03_060.scr	11	チェスター	Chester Barklight	personagem	CRLF x1	そんな事ないぜ。\n顔を合わせりゃ、喧嘩ばっかりだしよ		
+cev03_060.scr:12	cev03_060.scr	12	チェスター	Chester Barklight	personagem		ただ、あいつは……		
+cev03_060.scr:13	cev03_060.scr	13	シェリア	Cheria Barnes	personagem		あいつは？		
+cev03_060.scr:14	cev03_060.scr	14	チェスター	Chester Barklight	personagem	CRLF x1	……オレ達とは時間の流れが違う。\nだから……		
+cev03_060.scr:15	cev03_060.scr	15	シェリア	Cheria Barnes	personagem	CRLF x1	だから、一緒にいられる間は\n喧嘩をしても一緒にいたい？		
+cev03_060.scr:16	cev03_060.scr	16	チェスター	Chester Barklight	personagem	CRLF x1	！？\nそんな事言ってねえ！		
+cev03_060.scr:17	cev03_060.scr	17	シェリア	Cheria Barnes	personagem	CRLF x2	ううん、隠さなくてもわかるわ。\n相手を思う気持ちこそ\n一番素直に伝えられないものよね……		
+cev03_060.scr:18	cev03_060.scr	18	シェリア	Cheria Barnes	personagem		う〜〜ん、恋ね……これこそ恋だわ！！		
+cev03_060.scr:19	cev03_060.scr	19	チェスター	Chester Barklight	personagem	CRLF x1	違うって！\n勝手に盛り上がるな！		
+cev03_070.scr:0	cev03_070.scr	0	アーチェ	Arche Klein	personagem	CRLF x1	ねえチェスター。\nあんた、今ヒマでしょ？		
+cev03_070.scr:1	cev03_070.scr	1	チェスター	Chester Barklight	personagem	CRLF x1	はぁ？　\nいきなり何だよ		
+cev03_070.scr:2	cev03_070.scr	2	チェスター	Chester Barklight	personagem	CRLF x1	オレは今、弓の手入れで忙しいんだ。\n見りゃわかるだろうが		
+cev03_070.scr:3	cev03_070.scr	3	アーチェ	Arche Klein	personagem	CRLF x1	でもさ、それって\nヒマだからやってるんでしょ？		
+cev03_070.scr:4	cev03_070.scr	4	チェスター	Chester Barklight	personagem		お前なぁ……		
+cev03_070.scr:5	cev03_070.scr	5	アーチェ	Arche Klein	personagem	CRLF x1	いいからいいから、ちょっと\n心理テストに付き合いなさいよ		
+cev03_070.scr:6	cev03_070.scr	6	チェスター	Chester Barklight	personagem		心理テストだぁ？		
+cev03_070.scr:7	cev03_070.scr	7	アーチェ	Arche Klein	personagem	CRLF x2	はい！　\nここにアーチェさんの、\nかわいいかわいい左手があります∀		
+cev03_070.scr:8	cev03_070.scr	8	チェスター	Chester Barklight	personagem		少しは人の話を聞けって……		
+cev03_070.scr:9	cev03_070.scr	9	アーチェ	Arche Klein	personagem	CRLF x1	じゃじゃーん。\nここでテストです！		
+cev03_070.scr:10	cev03_070.scr	10	アーチェ	Arche Klein	personagem	CRLF x1	この中で好きな指を選んで\n握って下さい∀		
+cev03_070.scr:11	cev03_070.scr	11	チェスター	Chester Barklight	personagem	CRLF x1	ちょ、ちょっと待て……。\n握るって、お前の指をか？		
+cev03_070.scr:12	cev03_070.scr	12	アーチェ	Arche Klein	personagem	CRLF x1	そうだよ。\n当ったり前じゃん？		
+cev03_070.scr:13	cev03_070.scr	13	アーチェ	Arche Klein	personagem	CRLF x1	ほら、早く〜！\nどれでもいいからさ		
+cev03_070.scr:14	cev03_070.scr	14	チェスター	Chester Barklight	personagem	CRLF x1	い、いや、それは、さすがに\n何て言うか……ちょっと……		
+cev03_070.scr:15	cev03_070.scr	15	アーチェ	Arche Klein	personagem	CRLF x1	な〜に？\nいきなり赤くなったりして……		
+cev03_070.scr:16	cev03_070.scr	16	アーチェ	Arche Klein	personagem	CRLF x2	あっ！　\nさてはまた\nエッチな事考えたんでしょ？		
+cev03_070.scr:17	cev03_070.scr	17	チェスター	Chester Barklight	personagem		はぁ！？		
+cev03_070.scr:18	cev03_070.scr	18	アーチェ	Arche Klein	personagem	CRLF x2	イヤ〜、スケベ大魔王！\n誰か〜〜！\nスケベ、スケベがいるわよ〜〜！！		
+cev03_070.scr:19	cev03_070.scr	19	チェスター	Chester Barklight	personagem	CRLF x1	誰がスケベだ！？\nこらアーチェ、待ちやがれ！！		
+cev03_080.scr:0	cev03_080.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	んっ……、ん〜〜〜。\nんんっっ……！		
+cev03_080.scr:1	cev03_080.scr	1	アーチェ	Arche Klein	personagem		どったの、チェスター？		
+cev03_080.scr:2	cev03_080.scr	2	アーチェ	Arche Klein	personagem	CRLF x1	あ、わかった！\n今のアレでしょ、ボアの鳴き真似！		
+cev03_080.scr:3	cev03_080.scr	3	チェスター	Chester Barklight	personagem		してねぇよ！		
+cev03_080.scr:4	cev03_080.scr	4	チェスター	Chester Barklight	personagem	CRLF x1	喉の調子がな……、何か……、\nんんっっ……！		
+cev03_080.scr:5	cev03_080.scr	5	アーチェ	Arche Klein	personagem	CRLF x2	はっは〜〜ん∀\nわかった。\n風邪引いたんでしょ〜？		
+cev03_080.scr:6	cev03_080.scr	6	アーチェ	Arche Klein	personagem	CRLF x1	バカは引かないって言うのに\n変なの〜〜〜〜、ぷぷぷ		
+cev03_080.scr:7	cev03_080.scr	7	チェスター	Chester Barklight	personagem	CRLF x1	何だよ、あいつ……。\nからかいに来ただけかよ……		
+cev03_080.scr:8	cev03_080.scr	8	チェスター	Chester Barklight	personagem	CRLF x1	もうちょっと、こう……\n他に言う事とか……する事が……		
+cev03_080.scr:9	cev03_080.scr	9	アーチェ	Arche Klein	personagem		チ　ェ　ス　タ　ー　∀		
+cev03_080.scr:10	cev03_080.scr	10	チェスター	Chester Barklight	personagem	CRLF x1	な……、何だよ。\n戻ってきやがったのか？		
+cev03_080.scr:11	cev03_080.scr	11	アーチェ	Arche Klein	personagem		はい、コレ！		
+cev03_080.scr:12	cev03_080.scr	12	チェスター	Chester Barklight	personagem		コレって……		
+cev03_080.scr:13	cev03_080.scr	13	アーチェ	Arche Klein	personagem	CRLF x2	決まってるじゃん！\n風邪によく効く\nスペシャルドリンクだよ∀		
+cev03_080.scr:14	cev03_080.scr	14	チェスター	Chester Barklight	personagem	CRLF x1	スペシャルドリンクって……\nお前……わざわざこれを……？		
+cev03_080.scr:15	cev03_080.scr	15	アーチェ	Arche Klein	personagem	CRLF x2	これ飲んで、ゆっくり寝てれば\n風邪なんてイチコロだって！\nね？		
+cev03_080.scr:16	cev03_080.scr	16	チェスター	Chester Barklight	personagem	CRLF x1	（な、何だよ……アーチェの奴、\n　可愛いとこあんじゃねえか……）		
+cev03_080.scr:17	cev03_080.scr	17	チェスター	Chester Barklight	personagem	CRLF x1	それにしても……\nこの臭いは……？		
+cev03_080.scr:18	cev03_080.scr	18	アーチェ	Arche Klein	personagem	CRLF x2	そんなの気にしない、気にしない♪\nよく効く薬程不味いっていうじゃん？\nささ、グッと一息でいっちゃって		
+cev03_080.scr:19	cev03_080.scr	19	チェスター	Chester Barklight	personagem		あ、ああ……		
+cev03_080.scr:20	cev03_080.scr	20	チェスター	Chester Barklight	personagem	CRLF x1	ん……、ん……、ん……。\nぷはー		
+cev03_080.scr:21	cev03_080.scr	21	アーチェ	Arche Klein	personagem		どうどう？　効くでしょ？		
+cev03_080.scr:22	cev03_080.scr	22	アーチェ	Arche Klein	personagem	CRLF x2	卵、にんにく、牛乳、トカゲの尻尾、\nスッポンの血と、その他諸々\nた〜〜っぷり入れてみましたぁ∀		
+cev03_080.scr:23	cev03_080.scr	23	アーチェ	Arche Klein	personagem	CRLF x1	ありゃ。\nもう寝ちゃったの？		
+cev03_080.scr:24	cev03_080.scr	24	アーチェ	Arche Klein	personagem	CRLF x1	うっふふ〜、さっすが\nコウカテキメンなんだからぁ♪		
+cev03_090.scr:0	cev03_090.scr	0	キール	Keele Zeibel	personagem	CRLF x1	おい、リッド！\nどうして今日の授業をサボったんだ		
+cev03_090.scr:1	cev03_090.scr	1	リッド	Reid Hershel	personagem	CRLF x1	いいじゃねえか、一回くらい。\nけちけちすんなよ		
+cev03_090.scr:2	cev03_090.scr	2	キール	Keele Zeibel	personagem	CRLF x1	けちとかそういう問題じゃないだろう！\nお前はどうしてそう考え無しなんだ		
+cev03_090.scr:3	cev03_090.scr	3	チェスター	Chester Barklight	personagem	CRLF x1	まぁまぁ、そうカッカすんなよ。\nもう済んだ事なんだろ？		
+cev03_090.scr:4	cev03_090.scr	4	チェスター	Chester Barklight	personagem	CRLF x1	リッドだって反省してるさ。\nなぁ？		
+cev03_090.scr:5	cev03_090.scr	5	キール	Keele Zeibel	personagem		チェスターには聞いていない！		
+cev03_090.scr:6	cev03_090.scr	6	キール	Keele Zeibel	personagem	CRLF x2	大体二人とも、明けても暮れても\n狩りばっかりじゃないか。\n一体、将来設計はどうなっているんだ！		
+cev03_090.scr:7	cev03_090.scr	7	チェスター	Chester Barklight	personagem	CRLF x2	何だよ。\n狩りをする事の\n何がいけないってんだ？		
+cev03_090.scr:8	cev03_090.scr	8	キール	Keele Zeibel	personagem	CRLF x1	学問で教養を身に付けなければ\n社会に出て恥をかく		
+cev03_090.scr:9	cev03_090.scr	9	キール	Keele Zeibel	personagem	CRLF x2	今から頭を使っておかないと、\n後退するのは\n前髪だけじゃ済まなくなるぞ		
+cev03_090.scr:10	cev03_090.scr	10	チェスター	Chester Barklight	personagem	CRLF x2	おい！　\n何でそこで\n前髪の話になるんだよ！？		
+cev03_090.scr:11	cev03_090.scr	11	リッド	Reid Hershel	personagem	CRLF x2	まぁまぁ、二人とも、落ち着けって。\nもう済んだ事じゃないか。\nなぁ？		
+cev03_090.scr:12	cev03_090.scr	12	キール	Keele Zeibel	personagem		お前が言うな！！		
+cev03_200.scr:0	cev03_200.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	通常。\n		
+cev03_200.scr:1	cev03_200.scr	1	チェスター	Chester Barklight	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev03_200.scr:2	cev03_200.scr	2	チェスター	Chester Barklight	personagem	CRLF x1	笑い。\n		
+cev03_200.scr:3	cev03_200.scr	3	チェスター	Chester Barklight	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev03_200.scr:4	cev03_200.scr	4	チェスター	Chester Barklight	personagem	CRLF x1	怒り。\n		
+cev03_200.scr:5	cev03_200.scr	5	チェスター	Chester Barklight	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev03_200.scr:6	cev03_200.scr	6	チェスター	Chester Barklight	personagem	CRLF x1	悲しみ。\n		
+cev03_200.scr:7	cev03_200.scr	7	チェスター	Chester Barklight	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev03_200.scr:8	cev03_200.scr	8	チェスター	Chester Barklight	personagem	CRLF x1	通常。\n		
+cev03_200.scr:9	cev03_200.scr	9	チェスター	Chester Barklight	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev03_200.scr:10	cev03_200.scr	10	チェスター	Chester Barklight	personagem	CRLF x1	笑い。\n		
+cev03_200.scr:11	cev03_200.scr	11	チェスター	Chester Barklight	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev03_200.scr:12	cev03_200.scr	12	チェスター	Chester Barklight	personagem	CRLF x1	怒り。\n		
+cev03_200.scr:13	cev03_200.scr	13	チェスター	Chester Barklight	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev03_200.scr:14	cev03_200.scr	14	チェスター	Chester Barklight	personagem	CRLF x1	悲しみ。\n		
+cev03_200.scr:15	cev03_200.scr	15	チェスター	Chester Barklight	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev03_200.scr:16	cev03_200.scr	16	チェスター	Chester Barklight	personagem	CRLF x1	通常。\n		
+cev03_200.scr:17	cev03_200.scr	17	チェスター	Chester Barklight	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev03_200.scr:18	cev03_200.scr	18	チェスター	Chester Barklight	personagem	CRLF x1	笑い。\n		
+cev03_200.scr:19	cev03_200.scr	19	チェスター	Chester Barklight	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev03_200.scr:20	cev03_200.scr	20	チェスター	Chester Barklight	personagem	CRLF x1	怒り。\n		
+cev03_200.scr:21	cev03_200.scr	21	チェスター	Chester Barklight	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev03_200.scr:22	cev03_200.scr	22	チェスター	Chester Barklight	personagem	CRLF x1	悲しみ。\n		
+cev03_200.scr:23	cev03_200.scr	23	チェスター	Chester Barklight	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

@@ -1,0 +1,194 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev24_010.scr:0	cev24_010.scr	0	キュッポ	Kyuppo	personagem	CRLF x2	キュ〜キュキュ〜キュ〜キュキュッキュ〜♪\nキュキュキュ♪　キュキュキュ♪\nキュキュキュッキュ！		
+cev24_010.scr:1	cev24_010.scr	1	コーダ	Coda	personagem	CRLF x1	むぐむぐむぐ……む！\n美味いなこれ、しかし		
+cev24_010.scr:2	cev24_010.scr	2	クィッキー	Quickie	personagem		クィ〜？		
+cev24_010.scr:3	cev24_010.scr	3	コーダ	Coda	personagem	CRLF x1	しかし、だめなんだぞ。\nこれはコーダのおやつなんだぞ		
+cev24_010.scr:4	cev24_010.scr	4	ロックス	Rocks	personagem	CRLF x2	も〜、コーダ様。\n食べ物のカスを\n散らかさないで下さいよ〜		
+cev24_010.scr:5	cev24_010.scr	5	ロックス	Rocks	personagem	CRLF x1	これじゃ、いくら掃除をしたって\nキリがないですよ		
+cev24_010.scr:6	cev24_010.scr	6	クィッキー	Quickie	personagem		クィッキー！		
+cev24_010.scr:7	cev24_010.scr	7	ロックス	Rocks	personagem		うわぁ！		
+cev24_010.scr:8	cev24_010.scr	8	ロックス	Rocks	personagem	CRLF x2	もう、クィッキー様まで……。\nダメですよ。今は仕事中ですから\nまた後で遊びましょうね		
+cev24_010.scr:9	cev24_010.scr	9	クィッキー	Quickie	personagem		クキュ〜〜……		
+cev24_010.scr:10	cev24_010.scr	10	チャット	Chat	personagem	CRLF x1	な、何なんですか。\nこの地獄絵図は……		
+cev24_010.scr:11	cev24_010.scr	11	チャット	Chat	personagem	CRLF x1	うわ〜〜ん！\nボクのバンエルティア号が〜〜！		
+cev24_020.scr:0	cev24_020.scr	0	セルシウス	Celsius	personagem	CRLF x1	チャット？\n何を見ているの		
+cev24_020.scr:1	cev24_020.scr	1	チャット	Chat	personagem		船内の巡回です		
+cev24_020.scr:2	cev24_020.scr	2	チャット	Chat	personagem	CRLF x1	こんな事は本来、船長である\nボクの仕事ではないのですが……		
+cev24_020.scr:3	cev24_020.scr	3	チャット	Chat	personagem	CRLF x1	たまに仕事をサボる人がいるので\n念の為、見回りをしているんです		
+cev24_020.scr:4	cev24_020.scr	4	セルシウス	Celsius	personagem	CRLF x1	船の中というのは、\nそんなにやる事が多いものなの？		
+cev24_020.scr:5	cev24_020.scr	5	チャット	Chat	personagem		もちろんです！		
+cev24_020.scr:6	cev24_020.scr	6	チャット	Chat	personagem	CRLF x2	掃除、洗濯、食事の準備に\n備品管理や武器防具の手入れ。\n全部、船員の大切な仕事です		
+cev24_020.scr:7	cev24_020.scr	7	セルシウス	Celsius	personagem	CRLF x2	そう……。\nヒトが大勢いると、それだけ\n仕事も増えるという事なのね		
+cev24_020.scr:8	cev24_020.scr	8	チャット	Chat	personagem		その通りです		
+cev24_020.scr:9	cev24_020.scr	9	チャット	Chat	personagem	CRLF x1	不出来な子分を持つと\n船長も苦労が絶えないですよ		
+cev24_020.scr:10	cev24_020.scr	10	セルシウス	Celsius	personagem		……口先だけね		
+cev24_020.scr:11	cev24_020.scr	11	チャット	Chat	personagem		えっ？		
+cev24_020.scr:12	cev24_020.scr	12	セルシウス	Celsius	personagem	CRLF x2	あなたの目はいつも、日々の充足に\n輝いているじゃない。\n素直に自慢してもいいのに		
+cev24_020.scr:13	cev24_020.scr	13	チャット	Chat	personagem		そ、そんな事……！		
+cev24_020.scr:14	cev24_020.scr	14	セルシウス	Celsius	personagem		この船は良い船だわ……		
+cev24_020.scr:15	cev24_020.scr	15	チャット	Chat	personagem		…………		
+cev24_020.scr:16	cev24_020.scr	16	チャット	Chat	personagem	CRLF x1	と、当然です！\nボクのバンエルティア号なんですから		
+cev24_030.scr:0	cev24_030.scr	0	アニス	Anise Tatlin	personagem		な〜んか白けちゃったね〜		
+cev24_030.scr:1	cev24_030.scr	1	アニス	Anise Tatlin	personagem	CRLF x1	もう、どろきしでもきしどろでも\n何でもいいんじゃん？		
+cev24_030.scr:2	cev24_030.scr	2	チャット	Chat	personagem		まぁ、きしどろですけどね		
+cev24_030.scr:3	cev24_030.scr	3	チャット	Chat	personagem	CRLF x1	小さな事にこだわっても仕方ないですし、\n部下とは円満な関係を築きたいですしね		
+cev24_030.scr:4	cev24_030.scr	4	アニス	Anise Tatlin	personagem		（こいつ……）		
+cev24_030.scr:5	cev24_030.scr	5	マオ	Mao	personagem	CRLF x2	ぶー。\nそれじゃ、他の遊びを\n考えないといけないネ……		
+cev24_030.scr:6	cev24_030.scr	6	キュッポ	Kyuppo	personagem		何してるキュ〜？		
+cev24_030.scr:7	cev24_030.scr	7	チャット	Chat	personagem		い！		
+cev24_030.scr:8	cev24_030.scr	8	マオ	Mao	personagem	CRLF x2	ちょうど良かった。\nこれからみんなで、何して遊ぼうかって\n話してたんだ		
+cev24_030.scr:9	cev24_030.scr	9	マオ	Mao	personagem		キュッポ達は何がいいと思う？		
+cev24_030.scr:10	cev24_030.scr	10	キュッポ	Kyuppo	personagem		それなら、鬼ごっこなんてどうだキュ？		
+cev24_030.scr:11	cev24_030.scr	11	キュッポ	Kyuppo	personagem	CRLF x2	正々堂々、互いの本気がぶつかり合う\n戦士の遊びキュ。\n押忍！　だキュ		
+cev24_030.scr:12	cev24_030.scr	12	ピッポ	Pippo	personagem	CRLF x1	いいアイデアだキュ！\nピッポ達もやるキュ！！		
+cev24_030.scr:13	cev24_030.scr	13	ポッポ	Poppo	personagem		たまにはみんなで、思いっきり遊ぶキュ〜！		
+cev24_030.scr:14	cev24_030.scr	14	アニス	Anise Tatlin	personagem	CRLF x2	っていうかさぁ……鬼ごっこって、\n明らかにモフモフとうちらじゃ\n走るスピード違うじゃん		
+cev24_030.scr:15	cev24_030.scr	15	アニス	Anise Tatlin	personagem	CRLF x1	まぁ、アニスちゃんは参加しないから\nどうでもいいけど〜		
+cev24_030.scr:16	cev24_030.scr	16	マオ	Mao	personagem	CRLF x1	大丈夫だヨ！\nそういう時こそ、特別ルールを使うんだ♪		
+cev24_030.scr:17	cev24_030.scr	17	アニス	Anise Tatlin	personagem	CRLF x1	ああ、「お豆さん」？\n捕まっても大丈夫っていう……		
+cev24_030.scr:18	cev24_030.scr	18	チャット	Chat	personagem		今、何ておっしゃいました？		
+cev24_030.scr:19	cev24_030.scr	19	アニス	Anise Tatlin	personagem		う……、このパターンはまさか……		
+cev24_030.scr:20	cev24_030.scr	20	アニス	Anise Tatlin	personagem		お豆さんだよ！　文句ある？		
+cev24_030.scr:21	cev24_030.scr	21	チャット	Chat	personagem	CRLF x2	ありますよ！\n普通、そういうのは、\n「お味噌」って言うんですから！		
+cev24_030.scr:22	cev24_030.scr	22	チャット	Chat	personagem	CRLF x2	いいですか？\n味噌っかすの「お味噌」ですよ！\nものすごく、理にかなった言い方です		
+cev24_030.scr:23	cev24_030.scr	23	アニス	Anise Tatlin	personagem	CRLF x1	お豆さんは、小さくてかわいいでしょ！\nだから「お豆さん」なの！		
+cev24_030.scr:24	cev24_030.scr	24	マオ	Mao	personagem	CRLF x2	そうなの？　ボク、そういうの\n「つららのかかと」っていうんだって\n教わったけどな〜		
+cev24_030.scr:25	cev24_030.scr	25	アニス	Anise Tatlin	personagem		何ソレ		
+cev24_030.scr:26	cev24_030.scr	26	チャット	Chat	personagem	CRLF x1	またしても第三勢力の介入ですか……。\nいい加減にして下さい！		
+cev24_030.scr:27	cev24_030.scr	27	マオ	Mao	personagem		ちょっと、ボクに言わないでよね！		
+cev24_030.scr:28	cev24_030.scr	28	マオ	Mao	personagem	CRLF x2	コハクが、「無限滅殺オニごっこ」は\nそういう特別ルールがあるって\n前に教えてくれたんだヨ		
+cev24_030.scr:29	cev24_030.scr	29	チャット	Chat	personagem		無限滅殺……？		
+cev24_030.scr:30	cev24_030.scr	30	アニス	Anise Tatlin	personagem	CRLF x1	明らかにそれ、\n鬼ごっこじゃないんじゃ……		
+cev24_030.scr:31	cev24_030.scr	31	キュッポ	Kyuppo	personagem	CRLF x1	わかったキュ！\nキュッポは「お味噌」だキュ！		
+cev24_030.scr:32	cev24_030.scr	32	ピッポ	Pippo	personagem		ピッポは「お豆」だキュ！		
+cev24_030.scr:33	cev24_030.scr	33	ポッポ	Poppo	personagem		ポッポは「かかと」だキュ！		
+cev24_030.scr:34	cev24_030.scr	34	チャット	Chat	personagem	CRLF x1	どっちにしろ、モフモフ族は、\n捕まえられません……		
+cev24_040.scr:0	cev24_040.scr	0	チェルシー	Chelsea Torn	personagem	CRLF x2	チャットさん、\nバンエルティア号にも\n非常口ってあるんですか？		
+cev24_040.scr:1	cev24_040.scr	1	チャット	Chat	personagem	CRLF x2	有事の際に備えてバッチリですよ！\nまあ、万が一にも「有事の際」なんて\n起こるはずがないですけどね！		
+cev24_040.scr:2	cev24_040.scr	2	チェルシー	Chelsea Torn	personagem	CRLF x1	そういう非常事態の時って、\n走ったら危ないですよね		
+cev24_040.scr:3	cev24_040.scr	3	チャット	Chat	personagem	CRLF x2	ええ、パニックになるのが\n一番危険ですから。\n落ち着いて行動しないといけません		
+cev24_040.scr:4	cev24_040.scr	4	チェルシー	Chelsea Torn	personagem	CRLF x2	でも余所の国では、人が走ってる絵が\n非常口の記号として使われてる様なんです。\nそれって、おかしいですよね？		
+cev24_040.scr:5	cev24_040.scr	5	チャット	Chat	personagem	CRLF x2	そんな絵があるんですか？\n確かに、走ったら危ないのに……。\n矛盾していますね……		
+cev24_040.scr:6	cev24_040.scr	6	ジェイ	Jay	personagem		皆さん、難しく考え過ぎですよ		
+cev24_040.scr:7	cev24_040.scr	7	チェルシー	Chelsea Torn	personagem		そうですか？		
+cev24_040.scr:8	cev24_040.scr	8	ジェイ	Jay	personagem	CRLF x1	想像してみればいいんですよ。\nあの絵の人が、普通に歩いているところ		
+cev24_040.scr:9	cev24_040.scr	9	チャット	Chat	personagem	CRLF x1	何か、緊張感が\n無くなりますね		
+cev24_040.scr:10	cev24_040.scr	10	ジェイ	Jay	personagem	CRLF x2	そういう事です。\n恐らくその絵は「非常時」をイメージで\n伝えようとしているんですよ		
+cev24_040.scr:11	cev24_040.scr	11	チェルシー	Chelsea Torn	personagem	CRLF x1	さすが、ジェイさん！\n物知りなんですね		
+cev24_040.scr:12	cev24_040.scr	12	ジェイ	Jay	personagem	CRLF x1	事の真意はボクにもわかりません。\nでも、そう考えれば納得が行くと思って		
+cev24_040.scr:13	cev24_040.scr	13	チャット	Chat	personagem	CRLF x1	ウソかホントかは別としても、\nとってもわかりやすかったですよ！		
+cev24_050.scr:0	cev24_050.scr	0	チャット	Chat	personagem		あ、○○さん		
+cev24_050.scr:1	cev24_050.scr	1	チャット	Chat	personagem	CRLF x2	聞いて下さい。\nついにギルドの所属人数が\n５０人を超えたそうですよ！		
+cev24_050.scr:2	cev24_050.scr	2	(ator 200)	(ator 200)	desconhecido		……！		
+cev24_050.scr:3	cev24_050.scr	3	チャット	Chat	personagem	CRLF x1	つまり、ボクの子分が\nそれだけ増えたという事ですね		
+cev24_050.scr:4	cev24_050.scr	4	チャット	Chat	personagem	CRLF x1	もちろんその分、船長として\n気苦労も多くはなりますが……		
+cev24_050.scr:5	cev24_050.scr	5	リッド	Reid Hershel	personagem	CRLF x2	全くだ。\n賑やか過ぎて、\nおちおち昼寝も出来やしねぇ		
+cev24_050.scr:6	cev24_050.scr	6	リッド	Reid Hershel	personagem	CRLF x1	ま、活気があるのは\n悪い事じゃねえけどな		
+cev24_050.scr:7	cev24_050.scr	7	ルーティ	Rutee Katrea	personagem	CRLF x2	そうねえ。\n人の集まる所は、それだけ\n金銭の動きも大きくなるし		
+cev24_050.scr:8	cev24_050.scr	8	ルーティ	Rutee Katrea	personagem	CRLF x1	いよいよこれから、本格的に\n稼ぎ時の予感だわ♪		
+cev24_050.scr:9	cev24_050.scr	9	ウィル	Will Raynard	personagem		急いては事をし損じるぞ		
+cev24_050.scr:10	cev24_050.scr	10	ウィル	Will Raynard	personagem	CRLF x1	無茶な稼ぎ方や仕事の請負は\n控える様にな、ルーティ		
+cev24_050.scr:11	cev24_050.scr	11	ルーティ	Rutee Katrea	personagem	CRLF x1	い、言われなくたって\nわかってるわよ		
+cev24_050.scr:12	cev24_050.scr	12	チャット	Chat	personagem		とにかく、です		
+cev24_050.scr:13	cev24_050.scr	13	チャット	Chat	personagem	CRLF x1	これからもこの調子でいきましょう。\n仲間は多いに越した事はありません		
+cev24_050.scr:14	cev24_050.scr	14	リッド	Reid Hershel	personagem	CRLF x1	そうだな。\nでもさ、○○		
+cev24_050.scr:15	cev24_050.scr	15	リッド	Reid Hershel	personagem	CRLF x2	新しい仲間だけじゃなくて\n今いる仲間の様子も、なるべく\n見てやる様にしてくれよな		
+cev24_050.scr:16	cev24_050.scr	16	ルーティ	Rutee Katrea	personagem		それ、あたしからもお願いするわ		
+cev24_050.scr:17	cev24_050.scr	17	ルーティ	Rutee Katrea	personagem	CRLF x2	みんな、結構色んな事情を抱えて\n乗船してるんだもの。\n困ってる事や人捜しを頼まれたりするかも		
+cev24_050.scr:18	cev24_050.scr	18	ウィル	Will Raynard	personagem	CRLF x2	ああ。\n困った時こそ、お互いに\n助け合わなくてはな		
+cev24_050.scr:19	cev24_050.scr	19	(ator 200)	(ator 200)	desconhecido		…………		
+cev24_050.scr:20	cev24_050.scr	20	ルーティ	Rutee Katrea	personagem	CRLF x2	そうそう。\nだから、いい儲け話は\nあたしにもどんどん紹介してよね♪		
+cev24_050.scr:21	cev24_050.scr	21	ウィル	Will Raynard	personagem	CRLF x1	いつもの事ながら\nぬかりない営業だな……		
+cev24_060.scr:0	cev24_060.scr	0	チェルシー	Chelsea Torn	personagem		あの、お聞きしたい事があるんですけど		
+cev24_060.scr:1	cev24_060.scr	1	チェルシー	Chelsea Torn	personagem	CRLF x1	バンエルティア号の船長は、\nチャットさんなんですよね？		
+cev24_060.scr:2	cev24_060.scr	2	チャット	Chat	personagem		そうですよ		
+cev24_060.scr:3	cev24_060.scr	3	チェルシー	Chelsea Torn	personagem	CRLF x1	で、この船を拠点にしている、\nアドリビトムのリーダーは、アンジュさん		
+cev24_060.scr:4	cev24_060.scr	4	アンジュ	Ange Serena	personagem		ええ、その通り		
+cev24_060.scr:5	cev24_060.scr	5	チェルシー	Chelsea Torn	personagem	CRLF x1	じゃあ、この船の中で\n一番えらいのは、どちらなんですか？		
+cev24_060.scr:6	cev24_060.scr	6	チャット	Chat	personagem	CRLF x1	それはもちろん、船長のボクです。\n船長の言う事に、子分は従うものです		
+cev24_060.scr:7	cev24_060.scr	7	アンジュ	Ange Serena	personagem		あら、おかしな事を言うのね？		
+cev24_060.scr:8	cev24_060.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	わたしは子分ではなく、ギルドのリーダー。\nあなたとは対等に、契約を結ばせて\nもらってると思ってたんだけどな？		
+cev24_060.scr:9	cev24_060.scr	9	チャット	Chat	personagem	CRLF x2	む……。\nとは言え、船長は\n船で一番えらいものです		
+cev24_060.scr:10	cev24_060.scr	10	チャット	Chat	personagem	CRLF x2	でなければ、船内で有事があった際、\n指示系統が混乱して、\n適切な対応をする事が出来ません		
+cev24_060.scr:11	cev24_060.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	だからこそ、そういう場合は\nリーダーのわたしが指揮を執れば……		
+cev24_060.scr:12	cev24_060.scr	12	チャット	Chat	personagem	CRLF x1	いいえ、その役目は\n船長のボクの仕事です！		
+cev24_060.scr:13	cev24_060.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	いいえ。\nリーダーのわたしがする事です		
+cev24_060.scr:14	cev24_060.scr	14	チャット	Chat	personagem		ボクが！		
+cev24_060.scr:15	cev24_060.scr	15	アンジュ	Ange Serena	personagem		わたしが！		
+cev24_060.scr:16	cev24_060.scr	16	チェルシー	Chelsea Torn	personagem	CRLF x1	あわわ……、ど、どうしましょう。\nちょっと聞いてみただけなのに……		
+cev24_070.scr:0	cev24_070.scr	0	チャット	Chat	personagem	CRLF x1	そ、それ以上、\n近づかないで下さいね……		
+cev24_070.scr:1	cev24_070.scr	1	ヴェイグ	Veigue Lungberg	personagem		……そこまで、動物が苦手なのか？		
+cev24_070.scr:2	cev24_070.scr	2	チャット	Chat	personagem	CRLF x2	ええ、好きか嫌いかで言ったら\n間違いなく好きにはなれませんね。\nこれはもう、遺伝なんです！		
+cev24_070.scr:3	cev24_070.scr	3	チャット	Chat	personagem	CRLF x1	あのふわふわ、モフモフした毛！\nああ、想像しただけでも……！！		
+cev24_070.scr:4	cev24_070.scr	4	クィッキー	Quickie	personagem		クィック、クィッキー♪		
+cev24_070.scr:5	cev24_070.scr	5	チャット	Chat	personagem	CRLF x1	わぁぁぁあん！！\nばか〜〜〜！！！		
+cev24_070.scr:6	cev24_070.scr	6	ヴェイグ	Veigue Lungberg	personagem		そんなに、苦手か……		
+cev24_080.scr:0	cev24_080.scr	0	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	動物が苦手なら、やはりモフモフ族も\n苦手という事になるのか		
+cev24_080.scr:1	cev24_080.scr	1	チャット	Chat	personagem	CRLF x2	もちろんです。\n人語を解するというだけで\n見た目はラッコそのものですからね		
+cev24_080.scr:2	cev24_080.scr	2	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	だが、悪い奴らではない。\n働き者で、気配りをするのに長けている		
+cev24_080.scr:3	cev24_080.scr	3	チャット	Chat	personagem	CRLF x1	わかっていますよ。\nわかっていますけど……		
+cev24_080.scr:4	cev24_080.scr	4	ポッポ	Poppo	personagem	CRLF x1	チャットさん、\n動力部の点検が終わったキュ！		
+cev24_080.scr:5	cev24_080.scr	5	チャット	Chat	personagem		うわあぁぁぁ！！		
+cev24_080.scr:6	cev24_080.scr	6	チャット	Chat	personagem	CRLF x2	きゅ、急に後ろから\n声を掛けないで下さい！\nびっくりするじゃないですか！！		
+cev24_080.scr:7	cev24_080.scr	7	ヴェイグ	Veigue Lungberg	personagem		……気難しい船長だ		
+cev24_090.scr:0	cev24_090.scr	0	チャット	Chat	personagem	CRLF x2	ボクだってわかっているんです。\nポッポさんが、優秀な\nメカニックだっていう事は……		
+cev24_090.scr:1	cev24_090.scr	1	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……ああ。\nポッポはよくやってくれている		
+cev24_090.scr:2	cev24_090.scr	2	チャット	Chat	personagem	CRLF x2	でも、どうしても……\nどうしてもあの、モフモフで\nふわふわなところが……！		
+cev24_090.scr:3	cev24_090.scr	3	ポッポ	Poppo	personagem	CRLF x2	大丈夫だキュ。\n船長さんが、動物が苦手なのは\nポッポ達もわかっているキュ		
+cev24_090.scr:4	cev24_090.scr	4	ポッポ	Poppo	personagem	CRLF x2	ネコが好きなヒトでも、\nネコアレルギーになったりするキュ。\n体質は、どうにもならないものだキュ		
+cev24_090.scr:5	cev24_090.scr	5	ヴェイグ	Veigue Lungberg	personagem		ポッポ……		
+cev24_090.scr:6	cev24_090.scr	6	ポッポ	Poppo	personagem	CRLF x2	だから、気にしてないキュ。\nなるべく船長さんに、嫌な気持ちを\nさせない様に、気を付けるキュ		
+cev24_090.scr:7	cev24_090.scr	7	チャット	Chat	personagem		……でも……		
+cev24_090.scr:8	cev24_090.scr	8	ポッポ	Poppo	personagem	CRLF x1	大丈夫だキュ！\n離れていても会話は出来るキュ		
+cev24_090.scr:9	cev24_090.scr	9	ポッポ	Poppo	personagem	CRLF x1	この船のメンテナンスは、\n大シャコ貝に乗った気でいるキュ！		
+cev24_090.scr:10	cev24_090.scr	10	チャット	Chat	personagem	CRLF x1	子分がここまで\n言ってくれてるのに……		
+cev24_090.scr:11	cev24_090.scr	11	チャット	Chat	personagem		ボクは……ボクは……		
+cev24_100.scr:0	cev24_100.scr	0	チャット	Chat	personagem	CRLF x2	ですから、この動力部と\nメインシステムは特に\n注意して見ていただきたいんです		
+cev24_100.scr:1	cev24_100.scr	1	ポッポ	Poppo	personagem	CRLF x2	わかったキュ。\nそういう事なら、\n張り切って仕事にかかるキュ！		
+cev24_100.scr:2	cev24_100.scr	2	チャット	Chat	personagem	CRLF x1	ええ。\nよろしくお願いします		
+cev24_100.scr:3	cev24_100.scr	3	ポッポ	Poppo	personagem		キュキュ〜〜〜！		
+cev24_100.scr:4	cev24_100.scr	4	チャット	Chat	personagem	CRLF x1	あ……！！\nその、ポッポさん！		
+cev24_100.scr:5	cev24_100.scr	5	チャット	Chat	personagem		その……ボ、ボク……		
+cev24_100.scr:6	cev24_100.scr	6	チャット	Chat	personagem	CRLF x2	ええと……。\n少しずつでも、動物嫌いを……\n克服したいと……		
+cev24_100.scr:7	cev24_100.scr	7	コーダ	Coda	personagem	CRLF x1	こら！\nそれはコーダのおやつだぞ、しかし！		
+cev24_100.scr:8	cev24_100.scr	8	クィッキー	Quickie	personagem		クィー？		
+cev24_100.scr:9	cev24_100.scr	9	クィッキー	Quickie	personagem		クィキキキキ！		
+cev24_100.scr:10	cev24_100.scr	10	チャット	Chat	personagem	CRLF x1	あああぁぁ！！\nやっぱりやだぁぁぁ〜〜！！！		
+cev24_100.scr:11	cev24_100.scr	11	コーダ	Coda	personagem		待つんだな、しかし！		
+cev24_100.scr:12	cev24_100.scr	12	ポッポ	Poppo	personagem	CRLF x1	船長さんも、色々と\n苦労するキュ……		
+cev24_200.scr:0	cev24_200.scr	0	チャット	Chat	personagem	CRLF x1	通常。\n		
+cev24_200.scr:1	cev24_200.scr	1	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:2	cev24_200.scr	2	チャット	Chat	personagem	CRLF x1	笑い。\n		
+cev24_200.scr:3	cev24_200.scr	3	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:4	cev24_200.scr	4	チャット	Chat	personagem	CRLF x1	怒り。\n		
+cev24_200.scr:5	cev24_200.scr	5	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:6	cev24_200.scr	6	チャット	Chat	personagem	CRLF x1	悲しみ。\n		
+cev24_200.scr:7	cev24_200.scr	7	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:8	cev24_200.scr	8	チャット	Chat	personagem	CRLF x1	不機嫌。\n		
+cev24_200.scr:9	cev24_200.scr	9	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:10	cev24_200.scr	10	チャット	Chat	personagem	CRLF x1	叫び。\n		
+cev24_200.scr:11	cev24_200.scr	11	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:12	cev24_200.scr	12	チャット	Chat	personagem	CRLF x1	通常。\n		
+cev24_200.scr:13	cev24_200.scr	13	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:14	cev24_200.scr	14	チャット	Chat	personagem	CRLF x1	笑い。\n		
+cev24_200.scr:15	cev24_200.scr	15	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:16	cev24_200.scr	16	チャット	Chat	personagem	CRLF x1	怒り。\n		
+cev24_200.scr:17	cev24_200.scr	17	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:18	cev24_200.scr	18	チャット	Chat	personagem	CRLF x1	悲しみ。\n		
+cev24_200.scr:19	cev24_200.scr	19	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:20	cev24_200.scr	20	チャット	Chat	personagem	CRLF x1	不機嫌。\n		
+cev24_200.scr:21	cev24_200.scr	21	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:22	cev24_200.scr	22	チャット	Chat	personagem	CRLF x1	叫び。\n		
+cev24_200.scr:23	cev24_200.scr	23	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:24	cev24_200.scr	24	チャット	Chat	personagem	CRLF x1	通常。\n		
+cev24_200.scr:25	cev24_200.scr	25	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:26	cev24_200.scr	26	チャット	Chat	personagem	CRLF x1	笑い。\n		
+cev24_200.scr:27	cev24_200.scr	27	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:28	cev24_200.scr	28	チャット	Chat	personagem	CRLF x1	怒り。\n		
+cev24_200.scr:29	cev24_200.scr	29	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:30	cev24_200.scr	30	チャット	Chat	personagem	CRLF x1	悲しみ。\n		
+cev24_200.scr:31	cev24_200.scr	31	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:32	cev24_200.scr	32	チャット	Chat	personagem	CRLF x1	不機嫌。\n		
+cev24_200.scr:33	cev24_200.scr	33	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev24_200.scr:34	cev24_200.scr	34	チャット	Chat	personagem	CRLF x1	叫び。\n		
+cev24_200.scr:35	cev24_200.scr	35	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

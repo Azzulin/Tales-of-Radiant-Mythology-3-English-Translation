@@ -1,0 +1,118 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev20_010.scr:0	mev20_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	さて、今回の仕事についてだけど、\nルバーブ連山の山頂に行ってもらうね		
+mev20_010.scr:1	mev20_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	山頂には数年前に隕石が衝突していて、\nその隕石の欠片があるかもしれないの。\nそれを入手してきてちょうだい		
+mev20_010.scr:2	mev20_010.scr	2	ハロルド	Harold Berselius	personagem	CRLF x1	隕石に含まれる、ギベオンっていう鉱物が\n必要なのよ		
+mev20_010.scr:3	mev20_010.scr	3	ハロルド	Harold Berselius	personagem	CRLF x1	あんたが持つディセンダーの浄化能力を\nヒトに転写する為にね		
+mev20_010.scr:4	mev20_010.scr	4	アンジュ	Ange Serena	personagem		でも、危険な試みなんでしょう？		
+mev20_010.scr:5	mev20_010.scr	5	ハロルド	Harold Berselius	personagem		私達がやんなきゃ、誰がやるのよ		
+mev20_010.scr:6	mev20_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	そうね。\n準備だけでも進めた方がいいかなぁ…		
+mev20_010.scr:7	mev20_010.scr	7	アンジュ	Ange Serena	personagem		じゃあ、説明を続けるね		
+mev20_010.scr:8	mev20_010.scr	8	アンジュ	Ange Serena	personagem		同行者は、レイヴンさんとアスベル君		
+mev20_010.scr:9	mev20_010.scr	9	アンジュ	Ange Serena	personagem	CRLF x2	山頂へのルートは、霧がかかってる事が\n多いけど、今日なんて気候の条件もいいし\n運良く霧が晴れているかもしれないよ		
+mev20_010.scr:10	mev20_010.scr	10	アンジュ	Ange Serena	personagem		それじゃあ、気を付けて行ってらっしゃい		
+mev20_020.scr:0	mev20_020.scr	0	アスベル	Asbel Lhant	personagem	CRLF x1	いつもは山頂に霧が濃く掛かっているが、\n今日はそこまで見通しは悪くなさそうだ		
+mev20_020.scr:1	mev20_020.scr	1	レイヴン	Raven	personagem	CRLF x1	おっさん、暑い所は平気だけど\nああいうさむーい所は勘弁願いたいわ		
+mev20_020.scr:2	mev20_020.scr	2	レイヴン	Raven	personagem		それにしても隕石ねえ…		
+mev20_020.scr:3	mev20_020.scr	3	レイヴン	Raven	personagem	CRLF x2	この御天道さんの向こうにゃ、\n世界樹から生まれた\n色んな世界があるんだろうねぇ…		
+mev20_020.scr:4	mev20_020.scr	4	アスベル	Asbel Lhant	personagem	CRLF x1	ああ、宙と言うのは本当に広い。\nどこまで俺達は繋がっているんだろう…		
+mev20_020.scr:5	mev20_020.scr	5	アスベル	Asbel Lhant	personagem		しかし、奇妙なものだ		
+mev20_020.scr:6	mev20_020.scr	6	アスベル	Asbel Lhant	personagem	CRLF x2	かつてはエステリーゼ様…いや、\nエステルを連れ戻す為に\nあなたを追っていたのに		
+mev20_020.scr:7	mev20_020.scr	7	レイヴン	Raven	personagem	CRLF x1	今やこうして共に旅する仲間、ってか。\n数奇なもんだねぇ		
+mev20_025.scr:0	mev20_025.scr	0	アスベル	Asbel Lhant	personagem	CRLF x1	霧が少ない…。\n今日は山頂まで進めそうだ		
+mev20_025.scr:1	mev20_025.scr	1	レイヴン	Raven	personagem	CRLF x1	山の天気は変わりやすいって\n言うじゃなーい？		
+mev20_025.scr:2	mev20_025.scr	2	レイヴン	Raven	personagem	CRLF x1	コレ、戻れなくなったりなんて\nしないでしょうね		
+mev20_025.scr:3	mev20_025.scr	3	アスベル	Asbel Lhant	personagem	CRLF x2	…確かに。\nなら、ペースを上げよう。\nよし、行くぞ！		
+mev20_025.scr:4	mev20_025.scr	4	レイヴン	Raven	personagem	CRLF x1	ちょ、ちょっと待ってよ！\nおっさんに山道はしんどいって！		
+mev20_025.scr:5	mev20_025.scr	5	レイヴン	Raven	personagem		あー、もう！　置いてかないでよ〜		
+mev20_030.scr:0	mev20_030.scr	0	レイヴン	Raven	personagem	CRLF x1	おぉ〜…、道が険しい上に\n空気も薄くなってきたわよ		
+mev20_030.scr:1	mev20_030.scr	1	レイヴン	Raven	personagem	CRLF x1	しかも容赦無く襲ってくる魔物…。\n年寄りにはちとキツイよ、これは		
+mev20_030.scr:2	mev20_030.scr	2	アスベル	Asbel Lhant	personagem	CRLF x1	ギルド歴は長いんだろう？\nこういう仕事は慣れているのではないのか？		
+mev20_030.scr:3	mev20_030.scr	3	レイヴン	Raven	personagem	CRLF x1	そりゃおたくみたいに若い頃は\n出来たかもしらんよ		
+mev20_030.scr:4	mev20_030.scr	4	レイヴン	Raven	personagem		ところでおたく、ギルドは楽しいかい？		
+mev20_030.scr:5	mev20_030.scr	5	アスベル	Asbel Lhant	personagem		………		
+mev20_030.scr:6	mev20_030.scr	6	レイヴン	Raven	personagem	CRLF x1	複雑そうな顔するねぇ。\nやっぱ、騎士団に戻りたい？		
+mev20_030.scr:7	mev20_030.scr	7	アスベル	Asbel Lhant	personagem	CRLF x2	俺は…大切なものをこの手で守る為に、\n騎士の道を選んだ。\nそして、守っている気になっていた		
+mev20_030.scr:8	mev20_030.scr	8	レイヴン	Raven	personagem	CRLF x2	うんにゃ、少なくともガルバンゾ国を\n守る事には貢献してたでしょ。\n騎士だもの		
+mev20_030.scr:9	mev20_030.scr	9	アスベル	Asbel Lhant	personagem	CRLF x1	守る一方で、守る為に他の命を\n奪う事もあった		
+mev20_030.scr:10	mev20_030.scr	10	アスベル	Asbel Lhant	personagem	CRLF x1	そして、エステルの話を聞いて、\n俺は何も守れていない事を知った		
+mev20_030.scr:11	mev20_030.scr	11	アスベル	Asbel Lhant	personagem		騎士になっただけでは、駄目だったんだ		
+mev20_030.scr:12	mev20_030.scr	12	レイヴン	Raven	personagem	CRLF x1	ま、ユーリもそうやって\n騎士団を辞めたんだ		
+mev20_030.scr:13	mev20_030.scr	13	レイヴン	Raven	personagem	CRLF x1	騎士団じゃあ、あいつの信念は\n通せなかったんだろうねえ		
+mev20_030.scr:14	mev20_030.scr	14	アスベル	Asbel Lhant	personagem	CRLF x2	どんな人にも守るべきものがある。\n国という枠を越えて、\n全てのヒトは守られなければならない		
+mev20_030.scr:15	mev20_030.scr	15	アスベル	Asbel Lhant	personagem	CRLF x1	アドリビトムに来なければ\nきっと、それに気付けなかった…		
+mev20_030.scr:16	mev20_030.scr	16	レイヴン	Raven	personagem	CRLF x2	ま、今のゴタゴタが終わったら\n帰りな。\nエステル嬢ちゃんを連れてな		
+mev20_030.scr:17	mev20_030.scr	17	アスベル	Asbel Lhant	personagem	CRLF x1	国に戻れば、\n全ての人を助けられない		
+mev20_030.scr:18	mev20_030.scr	18	レイヴン	Raven	personagem	CRLF x1	イカンね〜、勉強した事は\n役に立たせてこそ意味があるのよ		
+mev20_030.scr:19	mev20_030.scr	19	レイヴン	Raven	personagem	CRLF x1	国や騎士団を変えるなら、\nおたくみたいな人が必要なの		
+mev20_030.scr:20	mev20_030.scr	20	アスベル	Asbel Lhant	personagem		………………		
+mev20_030.scr:21	mev20_030.scr	21	レイヴン	Raven	personagem	CRLF x1	ははは。\nまあ、しっかり悩んどけよ、青年		
+mev20_040.scr:0	mev20_040.scr	0	レイヴン	Raven	personagem	CRLF x2	ひ〜…。\nやっと山頂と思ったら、\nお出迎えだわねぇ		
+mev20_040.scr:1	mev20_040.scr	1	アスベル	Asbel Lhant	personagem		来るぞ！		
+mev20_050.scr:0	mev20_050.scr	0	レイヴン	Raven	personagem	CRLF x1	うひゃ〜…、\n向こうはやる気満々じゃないの		
+mev20_050.scr:1	mev20_050.scr	1	アスベル	Asbel Lhant	personagem	CRLF x1	一気に片を付ける。\n前回の様にはならない！		
+mev20_050.scr:2	mev20_050.scr	2	レイヴン	Raven	personagem		そのテンション、わけて欲しいわ〜		
+mev20_060.scr:0	mev20_060.scr	0	レイヴン	Raven	personagem	CRLF x1	さてと。\nギベオンとやらはどいつかな		
+mev20_060.scr:1	mev20_060.scr	1	アスベル	Asbel Lhant	personagem		…表面に、独特の網目模様がある		
+mev20_060.scr:2	mev20_060.scr	2	アスベル	Asbel Lhant	personagem	CRLF x1	隕鉄の特徴を備えている。\n恐らく、こいつだ		
+mev20_060.scr:3	mev20_060.scr	3	レイヴン	Raven	personagem	CRLF x1	んじゃ、欠片でもいいって話だから\nちょこっと削って持ってきゃいいわね		
+mev20_060.scr:4	mev20_060.scr	4	アスベル	Asbel Lhant	personagem		宙からの贈り物か…		
+mev20_060.scr:5	mev20_060.scr	5	アスベル	Asbel Lhant	personagem	CRLF x1	これは、どこかの世界の一部だったかも\nしれないんだな		
+mev20_060.scr:6	mev20_060.scr	6	アスベル	Asbel Lhant	personagem	CRLF x1	宙を隔てても、世界を越えても、\n命は支えあっていくものかもしれない		
+mev20_060.scr:7	mev20_060.scr	7	アスベル	Asbel Lhant	personagem	CRLF x1	俺達も…、遠い世界に何かをして\nあげれる様になれるだろうか		
+mev20_060.scr:8	mev20_060.scr	8	レイヴン	Raven	personagem		そうありたいねえ		
+mev20_060.scr:9	mev20_060.scr	9	レイヴン	Raven	personagem	CRLF x2	生きて、命を繋いで、その先のまたずっと先の\n子孫が意志を継いでくれる世界になる様に\n頑張りましょ。　俺達がね		
+mev20_060.scr:10	mev20_060.scr	10	レイヴン	Raven	personagem	CRLF x1	ま、今は目の前の難題をどうにかする事が\n先だわねぇ…		
+mev20_070.scr:0	mev20_070.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	ギベオンの採取、お疲れ様。\n霧が晴れていて幸いだったね		
+mev20_070.scr:1	mev20_070.scr	1	アンジュ	Ange Serena	personagem		これからは山頂方面の探索も可能なはずよ		
+mev20_070.scr:2	mev20_070.scr	2	ハロルド	Harold Berselius	personagem	CRLF x1	んじゃ、\nギベオンはいただいてくわよ〜ん		
+mev20_070.scr:3	mev20_070.scr	3	ハロルド	Harold Berselius	personagem	CRLF x2	これからディセンダーの能力転写の\n実験を行える様にするから。\nそれまで時間ちょうだいね		
+mev20_080.scr:0	mev20_080.scr	0	カノンノ	Kanonno Grassvalley	personagem		ねえ、○○		
+mev20_080.scr:1	mev20_080.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ディセンダーのドクメントを\n転写させる実験の準備が出来たからって、\nハロルドさんが呼んでるよ		
+mev20_080.scr:2	mev20_080.scr	2	カノンノ	Kanonno Grassvalley	personagem		研究室へ来てだって		
+mev20_090.scr:0	mev20_090.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	被験者にするって、おい！！\n俺は、ゴメンだぜ！！		
+mev20_090.scr:1	mev20_090.scr	1	ハロルド	Harold Berselius	personagem	CRLF x2	ぶ〜…、\nあんた以外に誰がやりゃいいのよ〜。\n信用されて無いわねぇ…		
+mev20_090.scr:2	mev20_090.scr	2	ロニ	Loni Dunamis	personagem		するか！		
+mev20_090.scr:3	mev20_090.scr	3	ロニ	Loni Dunamis	personagem	CRLF x2	お前いっつも俺の脳ミソ調べるとか、\n顔をすげ替えるとか、\nそんなんばっかりじゃねえか！！		
+mev20_090.scr:4	mev20_090.scr	4	ハロルド	Harold Berselius	personagem		あ、来てくれたわね		
+mev20_090.scr:5	mev20_090.scr	5	ハロルド	Harold Berselius	personagem	CRLF x1	早速、実験に移りたいんだけど\n被験者がいなくってねー		
+mev20_090.scr:6	mev20_090.scr	6	リタ	Rita Mordio	personagem	CRLF x1	仕方ないわね。\nあたしが被験者になるわ		
+mev20_090.scr:7	mev20_090.scr	7	ハロルド	Harold Berselius	personagem	CRLF x2	ダメよ。\nドクメントの転写作業は、\nあんたの力も必要なの		
+mev20_090.scr:8	mev20_090.scr	8	ハロルド	Harold Berselius	personagem		私一人じゃ、制御出来ないもの		
+mev20_090.scr:9	mev20_090.scr	9	リタ	Rita Mordio	personagem	CRLF x2	そうは言っても、\n誰もこんな役やりたがらないわよ。\nどうすんの？		
+mev20_090.scr:10	mev20_090.scr	10	カノンノ	Kanonno Grassvalley	personagem		…あのっ		
+mev20_090.scr:11	mev20_090.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	私がやるよ。\n…ダメ、かな？		
+mev20_090.scr:12	mev20_090.scr	12	ロニ	Loni Dunamis	personagem	CRLF x2	待てよ！\n失敗したら、\n死ぬかもしれねぇんだぞ！		
+mev20_090.scr:13	mev20_090.scr	13	ロニ	Loni Dunamis	personagem	CRLF x1	おい、被験者はヒトじゃないと駄目なのか？\n他にもっと方法探せねぇのかよ		
+mev20_090.scr:14	mev20_090.scr	14	リタ	Rita Mordio	personagem	CRLF x1	何かを得るのに、それなりのリスクがあるのは\n当たり前でしょう？		
+mev20_090.scr:15	mev20_090.scr	15	リタ	Rita Mordio	personagem	CRLF x1	何も傷付けずに、望みを叶えようなんて悩み、\n心が贅沢だから出来るのよ		
+mev20_090.scr:16	mev20_090.scr	16	ハロルド	Harold Berselius	personagem	CRLF x1	助かるわ〜。\nじゃ、この天才を信じて任せなさい★		
+mev20_090.scr:17	mev20_090.scr	17	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん。\n私は平気		
+mev20_090.scr:18	mev20_090.scr	18	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	○○と繋がるだけだもの。\n恐くなんかないよ		
+mev20_090.scr:19	mev20_090.scr	19	ハロルド	Harold Berselius	personagem	CRLF x1	じゃあ、二人で\nこの「トランスクリプタ」に立って！		
+mev20_095.scr:0	mev20_095.scr	0	ハロルド	Harold Berselius	personagem		じゃあ、始めるわよ		
+mev20_095.scr:1	mev20_095.scr	1	カノンノ	Kanonno Grassvalley	personagem		はい！		
+mev20_095.scr:2	mev20_095.scr	2	リタ	Rita Mordio	personagem	CRLF x1	これが○○…、\nディセンダーのドクメントね		
+mev20_095.scr:3	mev20_095.scr	3	ハロルド	Harold Berselius	personagem		転写、開始！		
+mev20_095.scr:4	mev20_095.scr	4	カノンノ	Kanonno Grassvalley	personagem		…ぁ………あああ…		
+mev20_095.scr:5	mev20_095.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	私ね…、最も…ステキな事を…\n今から起こすんだ…		
+mev20_095.scr:6	mev20_095.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	未来を創るんだよ…。\n未来を…みんなで…創るんだ…		
+mev20_095.scr:7	mev20_095.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	みんながあなたの様に、\n希望を灯していける様な未来を…		
+mev20_095.scr:8	mev20_095.scr	8	カノンノ	Kanonno Grassvalley	personagem		みんなが、輝ける様に…		
+mev20_095.scr:9	mev20_095.scr	9	リタ	Rita Mordio	personagem		カノンノ、身体はどう？		
+mev20_095.scr:10	mev20_095.scr	10	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	少しふわふわするけど、\n大丈夫みたい…		
+mev20_095.scr:11	mev20_095.scr	11	リタ	Rita Mordio	personagem		ねえ、実験は成功したわけ？		
+mev20_095.scr:12	mev20_095.scr	12	ハロルド	Harold Berselius	personagem	CRLF x1	成功はしてるはずだけど、\n確認が必要ね		
+mev20_095.scr:13	mev20_095.scr	13	ハロルド	Harold Berselius	personagem	CRLF x1	カノンノに能力が転写されているか、\n試してみないと何とも…		
+mev20_095.scr:14	mev20_095.scr	14	ハロルド	Harold Berselius	personagem	CRLF x1	カノンノの疲労もあるから、\nすぐには無理ね		
+mev20_095.scr:15	mev20_095.scr	15	リタ	Rita Mordio	personagem	CRLF x2	そうね。\nカノンノは、\nしばらく医務室で休ませるわ		
+mev20_095.scr:16	mev20_095.scr	16	カノンノ	Kanonno Grassvalley	personagem		私は、平気だよ…		
+mev20_095.scr:17	mev20_095.scr	17	リタ	Rita Mordio	personagem		無茶されて、倒れられた方が迷惑なの		
+mev20_095.scr:18	mev20_095.scr	18	ハロルド	Harold Berselius	personagem	CRLF x1	というわけで、\n検証はカノンノが回復してからね		
+mev20_095.scr:19	mev20_095.scr	19	ハロルド	Harold Berselius	personagem	CRLF x1	あんたも実験に協力してくれて\n感謝するわ		
+mev20_095.scr:20	mev20_095.scr	20	(mensagem de sistema)	(mensagem de sistema)	sistema		カノンノが治療のため、医務室に収容されます		
+mev20_095.scr:21	mev20_095.scr	21	(mensagem de sistema)	(mensagem de sistema)	sistema		カノンノがパーティから外れました		
+mev20_100.scr:0	mev20_100.scr	0	リタ	Rita Mordio	personagem		カノンノの状態、もう大丈夫よ		
+mev20_100.scr:1	mev20_100.scr	1	リタ	Rita Mordio	personagem	CRLF x1	アニーも、もう大丈夫って言ってたし\n試しに行ってもらいたいの		
+mev20_100.scr:2	mev20_100.scr	2	リタ	Rita Mordio	personagem	CRLF x2	今からアンジュに依頼として届けるけど、\nあんたが行くの。\nわかった？		
+mev20_100.scr:3	mev20_100.scr	3	リタ	Rita Mordio	personagem		じゃあ、あとは頼んだから		
+mev20_100.scr:4	mev20_100.scr	4	(mensagem de sistema)	(mensagem de sistema)	sistema		カノンノの治療が終了しました		

@@ -1,0 +1,145 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev01_010.scr:0	cev01_010.scr	0	クレス	Cress Albane	personagem		襲爪雷斬！		
+cev01_010.scr:1	cev01_010.scr	1	ロイド	Lloyd Irving	personagem		くっ……		
+cev01_010.scr:2	cev01_010.scr	2	ロイド	Lloyd Irving	personagem		何の！　瞬迅剣！！		
+cev01_010.scr:3	cev01_010.scr	3	クレス	Cress Albane	personagem		……っ		
+cev01_010.scr:4	cev01_010.scr	4	クレス	Cress Albane	personagem		腕を上げたね、ロイド		
+cev01_010.scr:5	cev01_010.scr	5	ロイド	Lloyd Irving	personagem	CRLF x1	いや……クレスには\nまだまだ敵わないよ		
+cev01_010.scr:6	cev01_010.scr	6	クレス	Cress Albane	personagem	CRLF x1	いや、初めて手合わせした頃より\n着実に腕を上げているよ		
+cev01_010.scr:7	cev01_010.scr	7	クレス	Cress Albane	personagem		今日はここまでにしようか		
+cev01_010.scr:8	cev01_010.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	そうだな。\n腹も減ったし		
+cev01_010.scr:9	cev01_010.scr	9	クレス	Cress Albane	personagem		君も一緒にどうだい？		
+cev01_010.scr:10	cev01_010.scr	10	ロイド	Lloyd Irving	personagem		え？		
+cev01_010.scr:11	cev01_010.scr	11	ルーク	Luke fon Fabre	personagem		……いつから気付いてたんだよ		
+cev01_010.scr:12	cev01_010.scr	12	クレス	Cress Albane	personagem		今日は、最初から、かな		
+cev01_010.scr:13	cev01_010.scr	13	クレス	Cress Albane	personagem	CRLF x1	ここのところ、ずっと僕達の手合わせを\n見ていたよね		
+cev01_010.scr:14	cev01_010.scr	14	ロイド	Lloyd Irving	personagem		えっ、そうだったのか？		
+cev01_010.scr:15	cev01_010.scr	15	ロイド	Lloyd Irving	personagem	CRLF x2	何だよ。\n言ってくれれば\n三人で手合わせ出来たのに		
+cev01_010.scr:16	cev01_010.scr	16	ルーク	Luke fon Fabre	personagem	CRLF x1	べっ、別に俺は\nそんなもんやりたくねーっつの！		
+cev01_010.scr:17	cev01_010.scr	17	ルーク	Luke fon Fabre	personagem		余計なお世話なんだよ！		
+cev01_010.scr:18	cev01_010.scr	18	ロイド	Lloyd Irving	personagem		あっ、ちょっと待……！		
+cev01_010.scr:19	cev01_010.scr	19	ロイド	Lloyd Irving	personagem		……行っちまった		
+cev01_010.scr:20	cev01_010.scr	20	ロイド	Lloyd Irving	personagem	CRLF x1	また来るかな？\nあいつ		
+cev01_010.scr:21	cev01_010.scr	21	クレス	Cress Albane	personagem		僕はそんな気がするよ		
+cev01_010.scr:22	cev01_010.scr	22	クレス	Cress Albane	personagem		その時また、声をかけてみればいいさ		
+cev01_010.scr:23	cev01_010.scr	23	ロイド	Lloyd Irving	personagem	CRLF x1	それもそうだな。\n……そんじゃ		
+cev01_010.scr:24	cev01_010.scr	24	ロイド	Lloyd Irving	personagem		早く食堂に行こうぜ！		
+cev01_020.scr:0	cev01_020.scr	0	イリア	Iria Animi	personagem		あ〜〜暑いぃ……		
+cev01_020.scr:1	cev01_020.scr	1	イリア	Iria Animi	personagem	CRLF x1	汗で体はベタベタするし\n口は砂でジャリジャリだしぃ……		
+cev01_020.scr:2	cev01_020.scr	2	クレス	Cress Albane	personagem	CRLF x1	仕方がないよ。\nここは砂漠なんだから		
+cev01_020.scr:3	cev01_020.scr	3	イリア	Iria Animi	personagem	CRLF x1	っていうか\nよくその格好で平気よねえ！？		
+cev01_020.scr:4	cev01_020.scr	4	イリア	Iria Animi	personagem		見てるこっちが暑くなるわぁ		
+cev01_020.scr:5	cev01_020.scr	5	クレス	Cress Albane	personagem		平気じゃないけど……		
+cev01_020.scr:6	cev01_020.scr	6	クレス	Cress Albane	personagem	CRLF x2	前に、今よりもっと暑い目に\n遭った事があるからね。\n少し慣れたかな		
+cev01_020.scr:7	cev01_020.scr	7	イリア	Iria Animi	personagem	CRLF x1	今より暑い？\n何ソレ、どういう地獄？		
+cev01_020.scr:8	cev01_020.scr	8	クレス	Cress Albane	personagem	CRLF x2	心頭滅却すれば火もまた涼し！　って\nその時の連れが、砂漠の真ん中で\nイフリートを召喚……		
+cev01_020.scr:9	cev01_020.scr	9	イリア	Iria Animi	personagem		ああああいい！　もういいわその話！！		
+cev01_020.scr:10	cev01_020.scr	10	イリア	Iria Animi	personagem	CRLF x1	聞いてるだけで暑過ぎて死ぬ。\n死んじゃうっ		
+cev01_020.scr:11	cev01_020.scr	11	クレス	Cress Albane	personagem		うん……		
+cev01_020.scr:12	cev01_020.scr	12	クレス	Cress Albane	personagem		確かに焼け死ぬかと思ったよ		
+cev01_030.scr:0	cev01_030.scr	0	ロイド	Lloyd Irving	personagem		それにしても、すごい数のゴミだなぁ		
+cev01_030.scr:1	cev01_030.scr	1	ロイド	Lloyd Irving	personagem		捨てに行くのも一苦労だぜ		
+cev01_030.scr:2	cev01_030.scr	2	クレス	Cress Albane	personagem	CRLF x2	ここで暮らしている人数が人数だからね。\n自然と、ゴミの量が多くなるのも\n仕方がないさ		
+cev01_030.scr:3	cev01_030.scr	3	スタン	Stahn Aileron	personagem	CRLF x1	でも、こういうのって……えーと\n「資源の再利用」っていうのか？		
+cev01_030.scr:4	cev01_030.scr	4	スタン	Stahn Aileron	personagem	CRLF x1	そういうのが出来るゴミだって\nあるんだよな		
+cev01_030.scr:5	cev01_030.scr	5	クレス	Cress Albane	personagem	CRLF x1	ああ、ビンや缶などが再利用出来て\n別の素材になったりするんだ		
+cev01_030.scr:6	cev01_030.scr	6	クレス	Cress Albane	personagem	CRLF x1	そういうゴミの分別が\n徐々に広まっている様だね		
+cev01_030.scr:7	cev01_030.scr	7	ロイド	Lloyd Irving	personagem		あ、それこの間授業で習ったぞ		
+cev01_030.scr:8	cev01_030.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	資源を再利用すると\n出されるゴミの量が減るんだろ？		
+cev01_030.scr:9	cev01_030.scr	9	ロイド	Lloyd Irving	personagem		だから、自然とかにも優しいって		
+cev01_030.scr:10	cev01_030.scr	10	クレス	Cress Albane	personagem	CRLF x2	うん。\n例えば、空きビンを幾つか集めて\n新しいビンを作れば、その分のゴミが減る		
+cev01_030.scr:11	cev01_030.scr	11	クレス	Cress Albane	personagem	CRLF x2	素材に使ったビンの数だけ\n自然を汚さなくて済むし\n資源の無駄使いも減るって事だね		
+cev01_030.scr:12	cev01_030.scr	12	ロイド	Lloyd Irving	personagem	CRLF x1	でもさ、\nそれって本当にいい事なのか？		
+cev01_030.scr:13	cev01_030.scr	13	スタン	Stahn Aileron	personagem	CRLF x1	いい事だから\nみんなやってんだろ？		
+cev01_030.scr:14	cev01_030.scr	14	ロイド	Lloyd Irving	personagem	CRLF x1	だってさ、その再利用ってのも\n燃料とか費用がかかんだろ		
+cev01_030.scr:15	cev01_030.scr	15	ロイド	Lloyd Irving	personagem	CRLF x2	同じ一つのビンを作るのに、\n再利用しない方が、金や時間を\nかけずに出来るって事はないのか？		
+cev01_030.scr:16	cev01_030.scr	16	クレス	Cress Albane	personagem		それは……		
+cev01_030.scr:17	cev01_030.scr	17	ロイド	Lloyd Irving	personagem	CRLF x1	なーんかさ、\n再利用っていうと良く聞こえるけど		
+cev01_030.scr:18	cev01_030.scr	18	ロイド	Lloyd Irving	personagem	CRLF x2	ちゃんと仕組みがわからないと\n何かの無駄遣いをしてるって事は\n変わらないんじゃないのかな？		
+cev01_030.scr:19	cev01_030.scr	19	クレス	Cress Albane	personagem	CRLF x1	ロイドって……時々\n鋭い事を言うよなぁ		
+cev01_030.scr:20	cev01_030.scr	20	スタン	Stahn Aileron	personagem	CRLF x2	お〜〜〜。\n俺、そんな難しい事\n考えた事もなかったよ		
+cev01_030.scr:21	cev01_030.scr	21	スタン	Stahn Aileron	personagem		すごいな、ロイドって！		
+cev01_030.scr:22	cev01_030.scr	22	ロイド	Lloyd Irving	personagem		そ、そんな事ないって		
+cev01_030.scr:23	cev01_030.scr	23	ロイド	Lloyd Irving	personagem	CRLF x2	あー、それより今の話、\n何か本気で\n気になってきたぞ……		
+cev01_030.scr:24	cev01_030.scr	24	ロイド	Lloyd Irving	personagem		あとで、先生に聞いてみようかな……		
+cev01_040.scr:0	cev01_040.scr	0	クレス	Cress Albane	personagem	CRLF x1	このギルドも\n人数が増えてきたね		
+cev01_040.scr:1	cev01_040.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	そうね。\n現時点で、既に\n３０人以上がアドリビトムに在籍してる		
+cev01_040.scr:2	cev01_040.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	ギルドの活動が\n徐々に本格化してきたって証ね		
+cev01_040.scr:3	cev01_040.scr	3	スタン	Stahn Aileron	personagem	CRLF x1	人数が増えれば、それだけ\n俺達が出来る事も増えるんだよな		
+cev01_040.scr:4	cev01_040.scr	4	クレス	Cress Albane	personagem	CRLF x1	そうだね。\n単純に、人手が増えるって事だから		
+cev01_040.scr:5	cev01_040.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	何より、ギルドとしての箔も付くでしょう。\n結果、舞い込んでくる依頼についても\n高い報酬が見込めるものが増えるはず		
+cev01_040.scr:6	cev01_040.scr	6	(ator 200)	(ator 200)	desconhecido		…………		
+cev01_040.scr:7	cev01_040.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	ふふ。\nそうね、○○		
+cev01_040.scr:8	cev01_040.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	その分、危険とは常に\n隣り合わせの仕事が増えるのは確かね		
+cev01_040.scr:9	cev01_040.scr	9	スタン	Stahn Aileron	personagem	CRLF x1	それくらい、望むところだよ。\nなあ、○○！		
+cev01_040.scr:10	cev01_040.scr	10	クレス	Cress Albane	personagem	CRLF x2	うん。\n少しずつでも、この調子でギルドの活動を\n軌道に乗せていこう		
+cev01_040.scr:11	cev01_040.scr	11	アンジュ	Ange Serena	personagem		頼もしい言葉を聞けて嬉しいな		
+cev01_040.scr:12	cev01_040.scr	12	アンジュ	Ange Serena	personagem	CRLF x2	もちろん、○○にも\n期待しているよ。\nこれからも、よろしくね♪		
+cev01_050.scr:0	cev01_050.scr	0	クレス	Cress Albane	personagem		あのさ、二人に聞きたいんだけど		
+cev01_050.scr:1	cev01_050.scr	1	クレス	Cress Albane	personagem		生粋の悪人って、いると思うかい？		
+cev01_050.scr:2	cev01_050.scr	2	リッド	Reid Hershel	personagem	CRLF x1	何だよ、突然。\n変なもんでも食ったのか？		
+cev01_050.scr:3	cev01_050.scr	3	クレス	Cress Albane	personagem		そういうわけじゃないんだけど……		
+cev01_050.scr:4	cev01_050.scr	4	クレス	Cress Albane	personagem	CRLF x1	悪事を働いているから悪人だって考えは、\n本当に正しいのかなって、疑問に思って		
+cev01_050.scr:5	cev01_050.scr	5	クレス	Cress Albane	personagem		二人は、どう思うのか聞きたかったんだ		
+cev01_050.scr:6	cev01_050.scr	6	スタン	Stahn Aileron	personagem	CRLF x2	俺は、誰でもいいところは持ってると思う。\nでも、だからって悪い事をしたら\nそれは許されちゃいけないと思う		
+cev01_050.scr:7	cev01_050.scr	7	リッド	Reid Hershel	personagem	CRLF x2	そうだな。\nどんなに善い奴だって\n何でもしていいって事にはならねえしな		
+cev01_050.scr:8	cev01_050.scr	8	クレス	Cress Albane	personagem	CRLF x2	……じゃあ、その「善い奴」が\n善い事をする為に、\n悪事に手を染めていたら？		
+cev01_050.scr:9	cev01_050.scr	9	リッド	Reid Hershel	personagem	CRLF x1	また面倒な質問するなぁ……。\nどう思う、スタン？		
+cev01_050.scr:10	cev01_050.scr	10	スタン	Stahn Aileron	personagem		俺は……悪い事をやめる様に説得する		
+cev01_050.scr:11	cev01_050.scr	11	スタン	Stahn Aileron	personagem	CRLF x1	過去は変えられないけど、\n未来だったら変えられるだろ？		
+cev01_050.scr:12	cev01_050.scr	12	スタン	Stahn Aileron	personagem	CRLF x1	事情があって悪い事をしているなら\n一緒に解決策を探したい		
+cev01_050.scr:13	cev01_050.scr	13	クレス	Cress Albane	personagem	CRLF x1	そうか……。\n確かに、そういう考え方も出来るね		
+cev01_050.scr:14	cev01_050.scr	14	リッド	Reid Hershel	personagem	CRLF x2	何でもいいけどよ。\nあんま難しく考え過ぎんなよ？\n……程々に、な		
+cev01_050.scr:15	cev01_050.scr	15	クレス	Cress Albane	personagem	CRLF x1	うん。\nわかってるよ		
+cev01_050.scr:16	cev01_050.scr	16	クレス	Cress Albane	personagem		（……一緒に解決策を探す、か……）		
+cev01_060.scr:0	cev01_060.scr	0	スタン	Stahn Aileron	personagem	CRLF x1	実は、この間……\nすごい事に気がついたんだ		
+cev01_060.scr:1	cev01_060.scr	1	クレス	Cress Albane	personagem		すごい事だって？		
+cev01_060.scr:2	cev01_060.scr	2	カイル	Kyle Dunamis	personagem	CRLF x1	なになに？\nどうしたの		
+cev01_060.scr:3	cev01_060.scr	3	スタン	Stahn Aileron	personagem	CRLF x1	実は、リヒターとジェイドさんの\n共通の弱点を見つけたんだ		
+cev01_060.scr:4	cev01_060.scr	4	クレス	Cress Albane	personagem	CRLF x1	共通の弱点？\nあの二人にかい？		
+cev01_060.scr:5	cev01_060.scr	5	カイル	Kyle Dunamis	personagem		すごいや、父さ……じゃない、スタンさん！		
+cev01_060.scr:6	cev01_060.scr	6	カイル	Kyle Dunamis	personagem	CRLF x2	それで、\nその共通の弱点っていうのは\nどんなものなの？		
+cev01_060.scr:7	cev01_060.scr	7	スタン	Stahn Aileron	personagem		それは……		
+cev01_060.scr:8	cev01_060.scr	8	スタン	Stahn Aileron	personagem		湯けむりだ！！		
+cev01_060.scr:9	cev01_060.scr	9	クレス	Cress Albane	personagem		ゆ……湯けむり？		
+cev01_060.scr:10	cev01_060.scr	10	スタン	Stahn Aileron	personagem	CRLF x1	ああ。\n二人とも、メガネをかけているだろう？		
+cev01_060.scr:11	cev01_060.scr	11	スタン	Stahn Aileron	personagem	CRLF x1	だから、湯けむりを使って\nメガネを曇らせる事が出来れば……		
+cev01_060.scr:12	cev01_060.scr	12	カイル	Kyle Dunamis	personagem		視界が奪える！？		
+cev01_060.scr:13	cev01_060.scr	13	スタン	Stahn Aileron	personagem		ああ、そういう事だ		
+cev01_060.scr:14	cev01_060.scr	14	クレス	Cress Albane	personagem		……いや……あのさ……		
+cev01_060.scr:15	cev01_060.scr	15	カイル	Kyle Dunamis	personagem	CRLF x2	じゃあ、二人にとっては\n暑い所から寒い所に\n出たりするのも……		
+cev01_060.scr:16	cev01_060.scr	16	スタン	Stahn Aileron	personagem	CRLF x2	ああ。\n恐らく、何かしらの隙が\n生まれるはずだ……		
+cev01_060.scr:17	cev01_060.scr	17	スタン	Stahn Aileron	personagem	CRLF x1	もしその不意を、敵に\n突かれる事があったりしたら……！		
+cev01_060.scr:18	cev01_060.scr	18	カイル	Kyle Dunamis	personagem	CRLF x1	大変だ！　\nすぐに知らせに行こう！！		
+cev01_060.scr:19	cev01_060.scr	19	スタン	Stahn Aileron	personagem		そうだな、行こう！！		
+cev01_060.scr:20	cev01_060.scr	20	クレス	Cress Albane	personagem	CRLF x1	あれを親切心で言ってるのが\n二人のすごいところだよね……		
+cev01_200.scr:0	cev01_200.scr	0	クレス	Cress Albane	personagem	CRLF x1	通常。\n		
+cev01_200.scr:1	cev01_200.scr	1	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev01_200.scr:2	cev01_200.scr	2	クレス	Cress Albane	personagem	CRLF x1	笑い。\n		
+cev01_200.scr:3	cev01_200.scr	3	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev01_200.scr:4	cev01_200.scr	4	クレス	Cress Albane	personagem	CRLF x1	怒り。\n		
+cev01_200.scr:5	cev01_200.scr	5	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev01_200.scr:6	cev01_200.scr	6	クレス	Cress Albane	personagem	CRLF x1	悲しみ。\n		
+cev01_200.scr:7	cev01_200.scr	7	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev01_200.scr:8	cev01_200.scr	8	クレス	Cress Albane	personagem	CRLF x1	驚き。\n		
+cev01_200.scr:9	cev01_200.scr	9	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev01_200.scr:10	cev01_200.scr	10	クレス	Cress Albane	personagem	CRLF x1	通常。\n		
+cev01_200.scr:11	cev01_200.scr	11	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev01_200.scr:12	cev01_200.scr	12	クレス	Cress Albane	personagem	CRLF x1	笑い。\n		
+cev01_200.scr:13	cev01_200.scr	13	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev01_200.scr:14	cev01_200.scr	14	クレス	Cress Albane	personagem	CRLF x1	怒り。\n		
+cev01_200.scr:15	cev01_200.scr	15	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev01_200.scr:16	cev01_200.scr	16	クレス	Cress Albane	personagem	CRLF x1	悲しみ。\n		
+cev01_200.scr:17	cev01_200.scr	17	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev01_200.scr:18	cev01_200.scr	18	クレス	Cress Albane	personagem	CRLF x1	驚き。\n		
+cev01_200.scr:19	cev01_200.scr	19	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev01_200.scr:20	cev01_200.scr	20	クレス	Cress Albane	personagem	CRLF x1	通常。\n		
+cev01_200.scr:21	cev01_200.scr	21	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev01_200.scr:22	cev01_200.scr	22	クレス	Cress Albane	personagem	CRLF x1	笑い。\n		
+cev01_200.scr:23	cev01_200.scr	23	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev01_200.scr:24	cev01_200.scr	24	クレス	Cress Albane	personagem	CRLF x1	怒り。\n		
+cev01_200.scr:25	cev01_200.scr	25	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev01_200.scr:26	cev01_200.scr	26	クレス	Cress Albane	personagem	CRLF x1	悲しみ。\n		
+cev01_200.scr:27	cev01_200.scr	27	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev01_200.scr:28	cev01_200.scr	28	クレス	Cress Albane	personagem	CRLF x1	驚き。\n		
+cev01_200.scr:29	cev01_200.scr	29	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

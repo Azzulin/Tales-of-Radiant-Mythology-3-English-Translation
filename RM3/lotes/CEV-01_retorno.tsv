@@ -1,0 +1,145 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev01_010.scr:0	cev01_010.scr	0	クレス	Cress Albane	personagem		襲爪雷斬！	Lightning Tiger Blade!	
+cev01_010.scr:1	cev01_010.scr	1	ロイド	Lloyd Irving	personagem		くっ……	Ngh...!	
+cev01_010.scr:2	cev01_010.scr	2	ロイド	Lloyd Irving	personagem		何の！　瞬迅剣！！	Not yet! Sonic Thrust!!	
+cev01_010.scr:3	cev01_010.scr	3	クレス	Cress Albane	personagem		……っ	...Kh!	
+cev01_010.scr:4	cev01_010.scr	4	クレス	Cress Albane	personagem		腕を上げたね、ロイド	You've improved, Lloyd.	
+cev01_010.scr:5	cev01_010.scr	5	ロイド	Lloyd Irving	personagem	CRLF x1	いや……クレスには\nまだまだ敵わないよ	No... I'm still no match\nfor you, Cress.	
+cev01_010.scr:6	cev01_010.scr	6	クレス	Cress Albane	personagem	CRLF x1	いや、初めて手合わせした頃より\n着実に腕を上げているよ	No, compared to our first spar,\nyou've steadily become stronger.	
+cev01_010.scr:7	cev01_010.scr	7	クレス	Cress Albane	personagem		今日はここまでにしようか	Shall we call it a day?	
+cev01_010.scr:8	cev01_010.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	そうだな。\n腹も減ったし	Yeah.\nI'm starving anyway.	
+cev01_010.scr:9	cev01_010.scr	9	クレス	Cress Albane	personagem		君も一緒にどうだい？	Would you like to join us?	
+cev01_010.scr:10	cev01_010.scr	10	ロイド	Lloyd Irving	personagem		え？	Huh?	
+cev01_010.scr:11	cev01_010.scr	11	ルーク	Luke fon Fabre	personagem		……いつから気付いてたんだよ	...How long have you known I was here?	
+cev01_010.scr:12	cev01_010.scr	12	クレス	Cress Albane	personagem		今日は、最初から、かな	Today? From the very beginning, I think.	
+cev01_010.scr:13	cev01_010.scr	13	クレス	Cress Albane	personagem	CRLF x1	ここのところ、ずっと僕達の手合わせを\n見ていたよね	You've been watching our spars\nquite a lot lately, haven't you?	
+cev01_010.scr:14	cev01_010.scr	14	ロイド	Lloyd Irving	personagem		えっ、そうだったのか？	Wait, really?	
+cev01_010.scr:15	cev01_010.scr	15	ロイド	Lloyd Irving	personagem	CRLF x2	何だよ。\n言ってくれれば\n三人で手合わせ出来たのに	Aw, man.\nIf you'd just said something,\nwe could have all sparred together!	
+cev01_010.scr:16	cev01_010.scr	16	ルーク	Luke fon Fabre	personagem	CRLF x1	べっ、別に俺は\nそんなもんやりたくねーっつの！	I-It's not like I wanted\nto do that anyway!	
+cev01_010.scr:17	cev01_010.scr	17	ルーク	Luke fon Fabre	personagem		余計なお世話なんだよ！	Mind your own business!	
+cev01_010.scr:18	cev01_010.scr	18	ロイド	Lloyd Irving	personagem		あっ、ちょっと待……！	Hey, wait up...!	
+cev01_010.scr:19	cev01_010.scr	19	ロイド	Lloyd Irving	personagem		……行っちまった	...And he's gone.	
+cev01_010.scr:20	cev01_010.scr	20	ロイド	Lloyd Irving	personagem	CRLF x1	また来るかな？\nあいつ	Think he'll come back?\nThat guy.	
+cev01_010.scr:21	cev01_010.scr	21	クレス	Cress Albane	personagem		僕はそんな気がするよ	I have a feeling he will.	
+cev01_010.scr:22	cev01_010.scr	22	クレス	Cress Albane	personagem		その時また、声をかけてみればいいさ	We can just ask him again then.	
+cev01_010.scr:23	cev01_010.scr	23	ロイド	Lloyd Irving	personagem	CRLF x1	それもそうだな。\n……そんじゃ	Guess you're right.\n...Well, then!	
+cev01_010.scr:24	cev01_010.scr	24	ロイド	Lloyd Irving	personagem		早く食堂に行こうぜ！	Let's head to the cafeteria!	
+cev01_020.scr:0	cev01_020.scr	0	イリア	Iria Animi	personagem		あ〜〜暑いぃ……	Aargh, it's so hot...!	
+cev01_020.scr:1	cev01_020.scr	1	イリア	Iria Animi	personagem	CRLF x1	汗で体はベタベタするし\n口は砂でジャリジャリだしぃ……	I'm sticky with sweat,\nand my mouth is full of gritty sand...!	
+cev01_020.scr:2	cev01_020.scr	2	クレス	Cress Albane	personagem	CRLF x1	仕方がないよ。\nここは砂漠なんだから	It can't be helped.\nWe're in the desert, after all.	
+cev01_020.scr:3	cev01_020.scr	3	イリア	Iria Animi	personagem	CRLF x1	っていうか\nよくその格好で平気よねえ！？	I mean, how can you be fine\nwearing that heavy gear in this heat!?	
+cev01_020.scr:4	cev01_020.scr	4	イリア	Iria Animi	personagem		見てるこっちが暑くなるわぁ	Just looking at you makes me hotter!	
+cev01_020.scr:5	cev01_020.scr	5	クレス	Cress Albane	personagem		平気じゃないけど……	I'm not completely fine, but...	
+cev01_020.scr:6	cev01_020.scr	6	クレス	Cress Albane	personagem	CRLF x2	前に、今よりもっと暑い目に\n遭った事があるからね。\n少し慣れたかな	I've been through worse heat\nin the past, you see.\nSo I suppose I'm somewhat used to it.	
+cev01_020.scr:7	cev01_020.scr	7	イリア	Iria Animi	personagem	CRLF x1	今より暑い？\n何ソレ、どういう地獄？	Worse than this?\nWhat kind of hell was that?	
+cev01_020.scr:8	cev01_020.scr	8	クレス	Cress Albane	personagem	CRLF x2	心頭滅却すれば火もまた涼し！　って\nその時の連れが、砂漠の真ん中で\nイフリートを召喚……	"""Clear your mind and fire feels cool!""\nA friend said that, and summoned\nEfreet in the middle of the desert..."	
+cev01_020.scr:9	cev01_020.scr	9	イリア	Iria Animi	personagem		ああああいい！　もういいわその話！！	Aaargh, stop! I don't want to hear it!!	
+cev01_020.scr:10	cev01_020.scr	10	イリア	Iria Animi	personagem	CRLF x1	聞いてるだけで暑過ぎて死ぬ。\n死んじゃうっ	Just hearing about it is roasting me!\nI'm gonna melt!	
+cev01_020.scr:11	cev01_020.scr	11	クレス	Cress Albane	personagem		うん……	Yeah...	
+cev01_020.scr:12	cev01_020.scr	12	クレス	Cress Albane	personagem		確かに焼け死ぬかと思ったよ	I honestly thought I was going to burn.	
+cev01_030.scr:0	cev01_030.scr	0	ロイド	Lloyd Irving	personagem		それにしても、すごい数のゴミだなぁ	Still, that really is a ton of trash.	
+cev01_030.scr:1	cev01_030.scr	1	ロイド	Lloyd Irving	personagem		捨てに行くのも一苦労だぜ	Taking it all out is quite a chore.	
+cev01_030.scr:2	cev01_030.scr	2	クレス	Cress Albane	personagem	CRLF x2	ここで暮らしている人数が人数だからね。\n自然と、ゴミの量が多くなるのも\n仕方がないさ	With so many people living here,\nit's only natural that we end up\nwith this much garbage.	
+cev01_030.scr:3	cev01_030.scr	3	スタン	Stahn Aileron	personagem	CRLF x1	でも、こういうのって……えーと\n「資源の再利用」っていうのか？	"Still, isn't this stuff... um,\nwhat they call ""recycling resources""?"	
+cev01_030.scr:4	cev01_030.scr	4	スタン	Stahn Aileron	personagem	CRLF x1	そういうのが出来るゴミだって\nあるんだよな	There's some trash that can be\nrecycled like that, right?	
+cev01_030.scr:5	cev01_030.scr	5	クレス	Cress Albane	personagem	CRLF x1	ああ、ビンや缶などが再利用出来て\n別の素材になったりするんだ	Right. Bottles and cans can be recycled\nand turned into other materials.	
+cev01_030.scr:6	cev01_030.scr	6	クレス	Cress Albane	personagem	CRLF x1	そういうゴミの分別が\n徐々に広まっている様だね	Sorting trash like that seems to be\ngradually catching on.	
+cev01_030.scr:7	cev01_030.scr	7	ロイド	Lloyd Irving	personagem		あ、それこの間授業で習ったぞ	Oh, I just learned about that in class!	
+cev01_030.scr:8	cev01_030.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	資源を再利用すると\n出されるゴミの量が減るんだろ？	Recycling resources reduces\nthe amount of trash we produce, right?	
+cev01_030.scr:9	cev01_030.scr	9	ロイド	Lloyd Irving	personagem		だから、自然とかにも優しいって	So it's better for nature, too.	
+cev01_030.scr:10	cev01_030.scr	10	クレス	Cress Albane	personagem	CRLF x2	うん。\n例えば、空きビンを幾つか集めて\n新しいビンを作れば、その分のゴミが減る	Right.\nIf you collect empty bottles to make\nnew ones, you reduce that much waste.	
+cev01_030.scr:11	cev01_030.scr	11	クレス	Cress Albane	personagem	CRLF x2	素材に使ったビンの数だけ\n自然を汚さなくて済むし\n資源の無駄使いも減るって事だね	For every bottle you reuse, you avoid\npolluting nature, and you cut down on\nwasting resources as well.	
+cev01_030.scr:12	cev01_030.scr	12	ロイド	Lloyd Irving	personagem	CRLF x1	でもさ、\nそれって本当にいい事なのか？	Still,\nis that really such a good thing?	
+cev01_030.scr:13	cev01_030.scr	13	スタン	Stahn Aileron	personagem	CRLF x1	いい事だから\nみんなやってんだろ？	Everyone's doing it because\nit's a good thing, right?	
+cev01_030.scr:14	cev01_030.scr	14	ロイド	Lloyd Irving	personagem	CRLF x1	だってさ、その再利用ってのも\n燃料とか費用がかかんだろ	I mean, recycling takes fuel\nand money to do, doesn't it?	
+cev01_030.scr:15	cev01_030.scr	15	ロイド	Lloyd Irving	personagem	CRLF x2	同じ一つのビンを作るのに、\n再利用しない方が、金や時間を\nかけずに出来るって事はないのか？	To make the same bottle, wouldn't it\ncost less time and money to just not\nrecycle it in the first place?	
+cev01_030.scr:16	cev01_030.scr	16	クレス	Cress Albane	personagem		それは……	Well...	
+cev01_030.scr:17	cev01_030.scr	17	ロイド	Lloyd Irving	personagem	CRLF x1	なーんかさ、\n再利用っていうと良く聞こえるけど	Calling it recycling sounds nice\nand all, but...	
+cev01_030.scr:18	cev01_030.scr	18	ロイド	Lloyd Irving	personagem	CRLF x2	ちゃんと仕組みがわからないと\n何かの無駄遣いをしてるって事は\n変わらないんじゃないのかな？	unless you understand the process,\naren't you still just wasting resources\nin some other way?	
+cev01_030.scr:19	cev01_030.scr	19	クレス	Cress Albane	personagem	CRLF x1	ロイドって……時々\n鋭い事を言うよなぁ	You know, Lloyd...\nYou can be surprisingly sharp at times.	
+cev01_030.scr:20	cev01_030.scr	20	スタン	Stahn Aileron	personagem	CRLF x2	お〜〜〜。\n俺、そんな難しい事\n考えた事もなかったよ	Whoa...\nI've never even thought about\nanything that complicated.	
+cev01_030.scr:21	cev01_030.scr	21	スタン	Stahn Aileron	personagem		すごいな、ロイドって！	Lloyd, you're amazing!	
+cev01_030.scr:22	cev01_030.scr	22	ロイド	Lloyd Irving	personagem		そ、そんな事ないって	C-Come on, it's nothing like that.	
+cev01_030.scr:23	cev01_030.scr	23	ロイド	Lloyd Irving	personagem	CRLF x2	あー、それより今の話、\n何か本気で\n気になってきたぞ……	Ah, but now that we're talking about it,\nI'm actually really curious...\nHow does it really work?	
+cev01_030.scr:24	cev01_030.scr	24	ロイド	Lloyd Irving	personagem		あとで、先生に聞いてみようかな……	Maybe I'll ask the professor later...	
+cev01_040.scr:0	cev01_040.scr	0	クレス	Cress Albane	personagem	CRLF x1	このギルドも\n人数が増えてきたね	Our guild's really been\ngrowing in numbers, hasn't it?	
+cev01_040.scr:1	cev01_040.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	そうね。\n現時点で、既に\n３０人以上がアドリビトムに在籍してる	Indeed.\nWe already have over thirty members\nregistered in Ad Libitum.	
+cev01_040.scr:2	cev01_040.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	ギルドの活動が\n徐々に本格化してきたって証ね	It's proof that our guild activities\nare finally getting into full swing.	
+cev01_040.scr:3	cev01_040.scr	3	スタン	Stahn Aileron	personagem	CRLF x1	人数が増えれば、それだけ\n俺達が出来る事も増えるんだよな	With more people, there's that much more\nwe can accomplish together!	
+cev01_040.scr:4	cev01_040.scr	4	クレス	Cress Albane	personagem	CRLF x1	そうだね。\n単純に、人手が増えるって事だから	That's right.\nSimply put, we have more hands on deck.	
+cev01_040.scr:5	cev01_040.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	何より、ギルドとしての箔も付くでしょう。\n結果、舞い込んでくる依頼についても\n高い報酬が見込めるものが増えるはず	It also gives our guild prestige.\nAs a result, we should start receiving\nquests with much higher rewards.	
+cev01_040.scr:6	cev01_040.scr	6	(ator 200)	(ator 200)	desconhecido		…………	......	
+cev01_040.scr:7	cev01_040.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	ふふ。\nそうね、○○	Hehe.\nYou're right, ○○.	
+cev01_040.scr:8	cev01_040.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	その分、危険とは常に\n隣り合わせの仕事が増えるのは確かね	It does mean we'll see more jobs where\ndanger is an ever-present companion.	
+cev01_040.scr:9	cev01_040.scr	9	スタン	Stahn Aileron	personagem	CRLF x1	それくらい、望むところだよ。\nなあ、○○！	That's just what I was hoping for!\nRight, ○○?	
+cev01_040.scr:10	cev01_040.scr	10	クレス	Cress Albane	personagem	CRLF x2	うん。\n少しずつでも、この調子でギルドの活動を\n軌道に乗せていこう	Yeah.\nLet's keep this momentum going and get\nour guild on the right track.	
+cev01_040.scr:11	cev01_040.scr	11	アンジュ	Ange Serena	personagem		頼もしい言葉を聞けて嬉しいな	It's reassuring to hear you say that.	
+cev01_040.scr:12	cev01_040.scr	12	アンジュ	Ange Serena	personagem	CRLF x2	もちろん、○○にも\n期待しているよ。\nこれからも、よろしくね♪	Of course, I'm counting on you\ntoo, ○○.\nI look forward to working with you!	
+cev01_050.scr:0	cev01_050.scr	0	クレス	Cress Albane	personagem		あのさ、二人に聞きたいんだけど	Say, I wanted to ask you two something.	
+cev01_050.scr:1	cev01_050.scr	1	クレス	Cress Albane	personagem		生粋の悪人って、いると思うかい？	Do you think purely evil people exist?	
+cev01_050.scr:2	cev01_050.scr	2	リッド	Reid Hershel	personagem	CRLF x1	何だよ、突然。\n変なもんでも食ったのか？	Where'd that come from all of a sudden?\nDid you eat something weird?	
+cev01_050.scr:3	cev01_050.scr	3	クレス	Cress Albane	personagem		そういうわけじゃないんだけど……	It's not that, but...	
+cev01_050.scr:4	cev01_050.scr	4	クレス	Cress Albane	personagem	CRLF x1	悪事を働いているから悪人だって考えは、\n本当に正しいのかなって、疑問に思って	I just wondered if it's really right to\ncall someone evil just for doing bad.	
+cev01_050.scr:5	cev01_050.scr	5	クレス	Cress Albane	personagem		二人は、どう思うのか聞きたかったんだ	I wanted to hear what you two thought.	
+cev01_050.scr:6	cev01_050.scr	6	スタン	Stahn Aileron	personagem	CRLF x2	俺は、誰でもいいところは持ってると思う。\nでも、だからって悪い事をしたら\nそれは許されちゃいけないと思う	I think everyone has good in them.\nEven so, if they do something wrong,\nI don't think it should be forgiven.	
+cev01_050.scr:7	cev01_050.scr	7	リッド	Reid Hershel	personagem	CRLF x2	そうだな。\nどんなに善い奴だって\n何でもしていいって事にはならねえしな	Yeah.\nNo matter how good of a guy you are,\nit doesn't mean you can do anything.	
+cev01_050.scr:8	cev01_050.scr	8	クレス	Cress Albane	personagem	CRLF x2	……じゃあ、その「善い奴」が\n善い事をする為に、\n悪事に手を染めていたら？	"...Then what if that ""good guy"" turned\nto evil deeds in order to do something\ngood?"	
+cev01_050.scr:9	cev01_050.scr	9	リッド	Reid Hershel	personagem	CRLF x1	また面倒な質問するなぁ……。\nどう思う、スタン？	There you go with the heavy questions...\nWhat do you think, Stahn?	
+cev01_050.scr:10	cev01_050.scr	10	スタン	Stahn Aileron	personagem		俺は……悪い事をやめる様に説得する	I'd... try to convince them to stop.	
+cev01_050.scr:11	cev01_050.scr	11	スタン	Stahn Aileron	personagem	CRLF x1	過去は変えられないけど、\n未来だったら変えられるだろ？	You can't change the past, but you can\nstill change the future, right?	
+cev01_050.scr:12	cev01_050.scr	12	スタン	Stahn Aileron	personagem	CRLF x1	事情があって悪い事をしているなら\n一緒に解決策を探したい	If they had a reason for doing wrong,\nI'd want to find a solution together.	
+cev01_050.scr:13	cev01_050.scr	13	クレス	Cress Albane	personagem	CRLF x1	そうか……。\n確かに、そういう考え方も出来るね	I see...\nThat's certainly one way to look at it.	
+cev01_050.scr:14	cev01_050.scr	14	リッド	Reid Hershel	personagem	CRLF x2	何でもいいけどよ。\nあんま難しく考え過ぎんなよ？\n……程々に、な	Whatever you say, but don't overthink\nthings too much, all right?\n...Keep it in moderation.	
+cev01_050.scr:15	cev01_050.scr	15	クレス	Cress Albane	personagem	CRLF x1	うん。\nわかってるよ	Yeah.\nI know.	
+cev01_050.scr:16	cev01_050.scr	16	クレス	Cress Albane	personagem		（……一緒に解決策を探す、か……）	(...Find a solution together, huh...?)	
+cev01_060.scr:0	cev01_060.scr	0	スタン	Stahn Aileron	personagem	CRLF x1	実は、この間……\nすごい事に気がついたんだ	Actually, the other day...\nI realized something amazing.	
+cev01_060.scr:1	cev01_060.scr	1	クレス	Cress Albane	personagem		すごい事だって？	Something amazing?	
+cev01_060.scr:2	cev01_060.scr	2	カイル	Kyle Dunamis	personagem	CRLF x1	なになに？\nどうしたの	What is it, what is it?\nTell us!	
+cev01_060.scr:3	cev01_060.scr	3	スタン	Stahn Aileron	personagem	CRLF x1	実は、リヒターとジェイドさんの\n共通の弱点を見つけたんだ	I found a shared weakness between\nRichter and Mr. Jade.	
+cev01_060.scr:4	cev01_060.scr	4	クレス	Cress Albane	personagem	CRLF x1	共通の弱点？\nあの二人にかい？	A shared weakness?\nBetween those two?	
+cev01_060.scr:5	cev01_060.scr	5	カイル	Kyle Dunamis	personagem		すごいや、父さ……じゃない、スタンさん！	That's awesome, Da... I mean, Mr. Stahn!	
+cev01_060.scr:6	cev01_060.scr	6	カイル	Kyle Dunamis	personagem	CRLF x2	それで、\nその共通の弱点っていうのは\nどんなものなの？	So, what is this shared weakness\nthat they both have?\nTell me, tell me!	
+cev01_060.scr:7	cev01_060.scr	7	スタン	Stahn Aileron	personagem		それは……	Well...	
+cev01_060.scr:8	cev01_060.scr	8	スタン	Stahn Aileron	personagem		湯けむりだ！！	Steam!!	
+cev01_060.scr:9	cev01_060.scr	9	クレス	Cress Albane	personagem		ゆ……湯けむり？	St... Steam?	
+cev01_060.scr:10	cev01_060.scr	10	スタン	Stahn Aileron	personagem	CRLF x1	ああ。\n二人とも、メガネをかけているだろう？	Yeah.\nThey both wear glasses, don't they?	
+cev01_060.scr:11	cev01_060.scr	11	スタン	Stahn Aileron	personagem	CRLF x1	だから、湯けむりを使って\nメガネを曇らせる事が出来れば……	So if we use steam to fog up\ntheir glasses...	
+cev01_060.scr:12	cev01_060.scr	12	カイル	Kyle Dunamis	personagem		視界が奪える！？	It'll blind them!?	
+cev01_060.scr:13	cev01_060.scr	13	スタン	Stahn Aileron	personagem		ああ、そういう事だ	Yeah, exactly.	
+cev01_060.scr:14	cev01_060.scr	14	クレス	Cress Albane	personagem		……いや……あのさ……	...Uh... guys...	
+cev01_060.scr:15	cev01_060.scr	15	カイル	Kyle Dunamis	personagem	CRLF x2	じゃあ、二人にとっては\n暑い所から寒い所に\n出たりするのも……	Then going from a hot place\nto a cold one would also be...\ndangerous for them, right?	
+cev01_060.scr:16	cev01_060.scr	16	スタン	Stahn Aileron	personagem	CRLF x2	ああ。\n恐らく、何かしらの隙が\n生まれるはずだ……	Yeah.\nIt'd definitely leave an opening\nin their defenses...	
+cev01_060.scr:17	cev01_060.scr	17	スタン	Stahn Aileron	personagem	CRLF x1	もしその不意を、敵に\n突かれる事があったりしたら……！	If an enemy caught them off guard\nat a time like that...!	
+cev01_060.scr:18	cev01_060.scr	18	カイル	Kyle Dunamis	personagem	CRLF x1	大変だ！　\nすぐに知らせに行こう！！	Oh no!\nWe have to go warn them right away!!	
+cev01_060.scr:19	cev01_060.scr	19	スタン	Stahn Aileron	personagem		そうだな、行こう！！	Right! Let's go!!	
+cev01_060.scr:20	cev01_060.scr	20	クレス	Cress Albane	personagem	CRLF x1	あれを親切心で言ってるのが\n二人のすごいところだよね……	The amazing thing about those two is\nthat they genuinely mean well...	
+cev01_200.scr:0	cev01_200.scr	0	クレス	Cress Albane	personagem	CRLF x1	通常。\n	Normal.\n	Expression test: Normal
+cev01_200.scr:1	cev01_200.scr	1	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev01_200.scr:2	cev01_200.scr	2	クレス	Cress Albane	personagem	CRLF x1	笑い。\n	Laughter.\n	Expression test: Laughter
+cev01_200.scr:3	cev01_200.scr	3	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev01_200.scr:4	cev01_200.scr	4	クレス	Cress Albane	personagem	CRLF x1	怒り。\n	Anger.\n	Expression test: Anger
+cev01_200.scr:5	cev01_200.scr	5	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev01_200.scr:6	cev01_200.scr	6	クレス	Cress Albane	personagem	CRLF x1	悲しみ。\n	Sadness.\n	Expression test: Sadness
+cev01_200.scr:7	cev01_200.scr	7	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev01_200.scr:8	cev01_200.scr	8	クレス	Cress Albane	personagem	CRLF x1	驚き。\n	Surprise.\n	Expression test: Surprise
+cev01_200.scr:9	cev01_200.scr	9	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev01_200.scr:10	cev01_200.scr	10	クレス	Cress Albane	personagem	CRLF x1	通常。\n	Normal.\n	Expression test: Normal
+cev01_200.scr:11	cev01_200.scr	11	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev01_200.scr:12	cev01_200.scr	12	クレス	Cress Albane	personagem	CRLF x1	笑い。\n	Laughter.\n	Expression test: Laughter
+cev01_200.scr:13	cev01_200.scr	13	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev01_200.scr:14	cev01_200.scr	14	クレス	Cress Albane	personagem	CRLF x1	怒り。\n	Anger.\n	Expression test: Anger
+cev01_200.scr:15	cev01_200.scr	15	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev01_200.scr:16	cev01_200.scr	16	クレス	Cress Albane	personagem	CRLF x1	悲しみ。\n	Sadness.\n	Expression test: Sadness
+cev01_200.scr:17	cev01_200.scr	17	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev01_200.scr:18	cev01_200.scr	18	クレス	Cress Albane	personagem	CRLF x1	驚き。\n	Surprise.\n	Expression test: Surprise
+cev01_200.scr:19	cev01_200.scr	19	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev01_200.scr:20	cev01_200.scr	20	クレス	Cress Albane	personagem	CRLF x1	通常。\n	Normal.\n	Expression test: Normal
+cev01_200.scr:21	cev01_200.scr	21	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev01_200.scr:22	cev01_200.scr	22	クレス	Cress Albane	personagem	CRLF x1	笑い。\n	Laughter.\n	Expression test: Laughter
+cev01_200.scr:23	cev01_200.scr	23	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev01_200.scr:24	cev01_200.scr	24	クレス	Cress Albane	personagem	CRLF x1	怒り。\n	Anger.\n	Expression test: Anger
+cev01_200.scr:25	cev01_200.scr	25	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev01_200.scr:26	cev01_200.scr	26	クレス	Cress Albane	personagem	CRLF x1	悲しみ。\n	Sadness.\n	Expression test: Sadness
+cev01_200.scr:27	cev01_200.scr	27	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev01_200.scr:28	cev01_200.scr	28	クレス	Cress Albane	personagem	CRLF x1	驚き。\n	Surprise.\n	Expression test: Surprise
+cev01_200.scr:29	cev01_200.scr	29	クレス	Cress Albane	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)

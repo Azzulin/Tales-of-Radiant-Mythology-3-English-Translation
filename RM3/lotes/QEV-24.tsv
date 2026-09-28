@@ -1,0 +1,104 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev24_010.scr:0	qev24_010.scr	0	キール	Keele Zeibel	personagem	CRLF x1	アンジュ、ぼくはもう我慢の限界だ！\n早急に何らかの対処をお願いしたい		
+qev24_010.scr:1	qev24_010.scr	1	アンジュ	Ange Serena	personagem		うーん、気持ちはわかるけど……		
+qev24_010.scr:2	qev24_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	あら、○○。\nそうだ、あなたの意見も\n聞いておこうかな		
+qev24_010.scr:3	qev24_010.scr	3	アンジュ	Ange Serena	personagem		実はね……		
+qev24_010.scr:4	qev24_010.scr	4	メルディ	Meredy	personagem	CRLF x1	キールが見ーつけた♪\nメルディ達、聞きたい事あるよー		
+qev24_010.scr:5	qev24_010.scr	5	メルディ	Meredy	personagem		あのな、これ、どやって書くか？		
+qev24_010.scr:6	qev24_010.scr	6	マオ	Mao	personagem		絶対、送り仮名は「い」だよ		
+qev24_010.scr:7	qev24_010.scr	7	ルビア	Rubia Natwick	personagem	CRLF x1	何言ってるの。\n「ない」に決まってるじゃない		
+qev24_010.scr:8	qev24_010.scr	8	メルディ	Meredy	personagem	CRLF x1	みんな、言ってるが事バラバラな。\nメルディどうするがいいよ？		
+qev24_010.scr:9	qev24_010.scr	9	キール	Keele Zeibel	personagem	CRLF x1	あーもう、しつこいな！\nぼくだって自分の論文があるんだ		
+qev24_010.scr:10	qev24_010.scr	10	キール	Keele Zeibel	personagem	CRLF x1	たまにはハロルドとか\nリタ辺りにでも聞けばいいだろ		
+qev24_010.scr:11	qev24_010.scr	11	メルディ	Meredy	personagem		二人とも、相手してくれないよ……		
+qev24_010.scr:12	qev24_010.scr	12	マオ	Mao	personagem	CRLF x1	自分の研究で忙しいんだって。\nボク達、邪魔者扱いされたんだヨ		
+qev24_010.scr:13	qev24_010.scr	13	ルビア	Rubia Natwick	personagem	CRLF x1	だからこうやって、キールに\n聞きに来てるんじゃない		
+qev24_010.scr:14	qev24_010.scr	14	キール	Keele Zeibel	personagem	CRLF x1	ぼくにだって打ち込みたい\n研究があるんだ！		
+qev24_010.scr:15	qev24_010.scr	15	キール	Keele Zeibel	personagem	CRLF x1	なあ、頼むよアンジュ。\nちゃんとした教師を雇ってくれ		
+qev24_010.scr:16	qev24_010.scr	16	キール	Keele Zeibel	personagem	CRLF x1	毎日こんな事続きで、\nぼくだってもうくたくたなんだ		
+qev24_010.scr:17	qev24_010.scr	17	(ator 200)	(ator 200)	desconhecido		…………		
+qev24_010.scr:18	qev24_010.scr	18	アンジュ	Ange Serena	personagem		……と、いうわけなんだけど……		
+qev24_010.scr:19	qev24_010.scr	19	アンジュ	Ange Serena	personagem	CRLF x1	さて。\nどうしようかな……？		
+qev24_010.scr:20	qev24_010.scr	20	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「ギルドに教師を」が\nエントリーされました。\nクエストカウンタから受ける事が出来ます		
+qev24_020.scr:0	qev24_020.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	行ってくれるのね。\nありがとう		
+qev24_020.scr:1	qev24_020.scr	1	ロイド	Lloyd Irving	personagem	CRLF x2	迎えに行ってもらうのは、\n俺達の先生なんだ。\nすごく頼りになる人ではあるんだけど……		
+qev24_020.scr:2	qev24_020.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	うーん。\n今いる場所が、場所だからなぁ……		
+qev24_020.scr:3	qev24_020.scr	3	コレット	Colette Brunel	personagem	CRLF x1	もしかしたら、いつものアレに\nなっちゃってるかもしれないね		
+qev24_020.scr:4	qev24_020.scr	4	ロイド	Lloyd Irving	personagem		いや、多分確実になってるな		
+qev24_020.scr:5	qev24_020.scr	5	ロイド	Lloyd Irving	personagem	CRLF x1	そういうわけで、多分先生だけだと\n到着が遅くなると思うんだ		
+qev24_020.scr:6	qev24_020.scr	6	ロイド	Lloyd Irving	personagem	CRLF x1	悪いけど、\n迎えに行ってもらえると助かるよ		
+qev24_020.scr:7	qev24_020.scr	7	コレット	Colette Brunel	personagem		私達も、お手伝い出来るよ		
+qev24_020.scr:8	qev24_020.scr	8	コレット	Colette Brunel	personagem		良かったら声をかけてね		
+qev24_020.scr:9	qev24_020.scr	9	アンジュ	Ange Serena	personagem	CRLF x2	そういうわけで。\n申し訳ないけど、丁重且つ迅速に\n先生をここへお連れして欲しいの		
+qev24_020.scr:10	qev24_020.scr	10	アンジュ	Ange Serena	personagem	CRLF x1	キール君が胃痛で倒れるのも\n時間の問題だと思うから……		
+qev24_040.scr:0	qev24_040.scr	0	リフィル	Raine Sage	personagem	CRLF x1	ここは遺跡内で\n一般人が生活していたのか？		
+qev24_040.scr:1	qev24_040.scr	1	リフィル	Raine Sage	personagem	CRLF x2	何という事だ！\n歴史的文化財は保存の徹底が\n最優先事項だというのに！		
+qev24_040.scr:2	qev24_040.scr	2	ジーニアス	Genis Sage	personagem	CRLF x1	姉さん、落ち着いて……！\n誰かに聞こえたらどうするの		
+qev24_040.scr:3	qev24_040.scr	3	リフィル	Raine Sage	personagem	CRLF x1	決まっている。\n即時立ち退きを要請するのだ！		
+qev24_040.scr:4	qev24_040.scr	4	ジーニアス	Genis Sage	personagem	CRLF x1	ええっ！？\nや、やめようよ、そんなの……		
+qev24_040.scr:5	qev24_040.scr	5	リフィル	Raine Sage	personagem	CRLF x2	おお……。\nあちらはまだ、それ程人の手で荒らされては\nいない様だぞ？		
+qev24_040.scr:6	qev24_040.scr	6	ジーニアス	Genis Sage	personagem		えっ？　ちょっと、姉さん？		
+qev24_040.scr:7	qev24_040.scr	7	ジーニアス	Genis Sage	personagem		もう〜、ギルドへはいつ行くのさぁ〜！		
+qev24_050.scr:0	qev24_050.scr	0	リフィル	Raine Sage	personagem	CRLF x1	これ程の遺跡が、これだけ完璧な状態で\n保存されているというのは珍しい……		
+qev24_050.scr:1	qev24_050.scr	1	リフィル	Raine Sage	personagem	CRLF x1	苔の付着の仕方や、材質の劣化の具合からも\n相当に古い建造物の様だな……		
+qev24_050.scr:2	qev24_050.scr	2	ジーニアス	Genis Sage	personagem		姉さん……		
+qev24_050.scr:3	qev24_050.scr	3	リフィル	Raine Sage	personagem	CRLF x2	それにしても、これだけの規模の建物を\nこんな辺鄙な場所に作ったのは\nなぜなんだ？		
+qev24_050.scr:4	qev24_050.scr	4	リフィル	Raine Sage	personagem	CRLF x2	建造技術の度合いから鑑みても、\nそれ相応の目的の元に作られたもので\nあるのは明らか……だとすれば……		
+qev24_050.scr:5	qev24_050.scr	5	ジーニアス	Genis Sage	personagem		姉さんったら！		
+qev24_050.scr:6	qev24_050.scr	6	リフィル	Raine Sage	personagem	CRLF x2	おお、ジーニアス。\nちょうどいい。\nこの遺跡の成り立ちと用途をどう分析する？		
+qev24_050.scr:7	qev24_050.scr	7	ジーニアス	Genis Sage	personagem		えっ……		
+qev24_050.scr:8	qev24_050.scr	8	ジーニアス	Genis Sage	personagem	CRLF x2	……見た目には典型的な神殿構造に\nなっているから、多分何かの祭事用に\n作られたものだと思うけど……		
+qev24_050.scr:9	qev24_050.scr	9	ジーニアス	Genis Sage	personagem		そんな事より		
+qev24_050.scr:10	qev24_050.scr	10	リフィル	Raine Sage	personagem		そんな事とは何だ！		
+qev24_050.scr:11	qev24_050.scr	11	リフィル	Raine Sage	personagem	CRLF x2	一つの遺跡に真摯に向き合い、\n歴史の声に耳を傾ける事から\n浮かび上がる真実がある		
+qev24_050.scr:12	qev24_050.scr	12	リフィル	Raine Sage	personagem	CRLF x1	なぜ、その重大さと意義が\nわからない！		
+qev24_050.scr:13	qev24_050.scr	13	ジーニアス	Genis Sage	personagem	CRLF x2	わかるよ！\nわかるけど、今はとにかく、\n早くギルドへ向かおうよ		
+qev24_050.scr:14	qev24_050.scr	14	ジーニアス	Genis Sage	personagem	CRLF x1	もう、どれだけこの遺跡を検分すれば\n気が済むのさ……		
+qev24_050.scr:15	qev24_050.scr	15	ジーニアス	Genis Sage	personagem		あれ？　キミは……？		
+qev24_050.scr:16	qev24_050.scr	16	(ator 200)	(ator 200)	desconhecido		…………		
+qev24_050.scr:17	qev24_050.scr	17	ジーニアス	Genis Sage	personagem	CRLF x1	ギルドの……？\nやっぱりそうだったんだ！		
+qev24_050.scr:18	qev24_050.scr	18	ジーニアス	Genis Sage	personagem		ほら、姉さん、迎えの人が来たよ！		
+qev24_050.scr:19	qev24_050.scr	19	リフィル	Raine Sage	personagem		あなたが、アドリビトムの……？		
+qev24_050.scr:20	qev24_050.scr	20	(ator 200)	(ator 200)	desconhecido		…………		
+qev24_050.scr:21	qev24_050.scr	21	ジーニアス	Genis Sage	personagem	CRLF x1	ボク達の到着が遅いから、\nわざわざ迎えに来てくれたんだよ！		
+qev24_050.scr:22	qev24_050.scr	22	ジーニアス	Genis Sage	personagem	CRLF x2	ほら、姉さんの仕事はギルドで\n生徒に学問の楽しさを教える事でしょう？\nいつまでも道草してるのは良くないよ		
+qev24_050.scr:23	qev24_050.scr	23	リフィル	Raine Sage	personagem		わかっていてよ、ジーニアス		
+qev24_050.scr:24	qev24_050.scr	24	リフィル	Raine Sage	personagem	CRLF x1	お待たせしてしまったわね。\n私は、リフィル・セイジ		
+qev24_050.scr:25	qev24_050.scr	25	ジーニアス	Genis Sage	personagem		ボクは、弟のジーニアスだよ		
+qev24_050.scr:26	qev24_050.scr	26	ジーニアス	Genis Sage	personagem	CRLF x2	姉さんは遺跡マニアで、\n一度遺跡モードになると、他の事が\n考えられなくなっちゃうんだ		
+qev24_050.scr:27	qev24_050.scr	27	(ator 200)	(ator 200)	desconhecido		…………		
+qev24_050.scr:28	qev24_050.scr	28	リフィル	Raine Sage	personagem	CRLF x1	お黙り。\n全て聞こえていてよ？		
+qev24_050.scr:29	qev24_050.scr	29	リフィル	Raine Sage	personagem	CRLF x1	まだこの遺跡を、十分に\n検証し尽くしてはいないのだけれど……		
+qev24_050.scr:30	qev24_050.scr	30	リフィル	Raine Sage	personagem	CRLF x1	仕方がないわね。\nひとまず、ギルドに案内していただける？		
+qev24_060.scr:0	qev24_060.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	ご苦労様。\n無事にお迎え出来たみたいね		
+qev24_060.scr:1	qev24_060.scr	1	リフィル	Raine Sage	personagem	CRLF x1	ここが、アドリビトム……。\n噂以上の設備ね		
+qev24_060.scr:2	qev24_060.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	ご苦労様。\n無事にお迎え出来たみたいね		
+qev24_060.scr:3	qev24_060.scr	3	リフィル	Raine Sage	personagem	CRLF x1	ここが、アドリビトム……。\n噂以上の設備ね		
+qev24_060.scr:4	qev24_060.scr	4	ロイド	Lloyd Irving	personagem	CRLF x1	先生！\n良かった、無事に……		
+qev24_060.scr:5	qev24_060.scr	5	ロイド	Lloyd Irving	personagem	CRLF x1	あれ、ジーニアス！？\nお前も来てたのか！		
+qev24_060.scr:6	qev24_060.scr	6	ジーニアス	Genis Sage	personagem		聞いてよロイド！		
+qev24_060.scr:7	qev24_060.scr	7	ジーニアス	Genis Sage	personagem	CRLF x1	姉さんたら、またいつもの\n悪い病気が始まって……		
+qev24_060.scr:8	qev24_060.scr	8	リフィル	Raine Sage	personagem		何ですって？		
+qev24_060.scr:9	qev24_060.scr	9	ジーニアス	Genis Sage	personagem		な、何でもないです……		
+qev24_060.scr:10	qev24_060.scr	10	コレット	Colette Brunel	personagem	CRLF x1	とにかく、二人とも無事に着いて\n良かったです		
+qev24_060.scr:11	qev24_060.scr	11	リフィル	Raine Sage	personagem		そうね		
+qev24_060.scr:12	qev24_060.scr	12	リフィル	Raine Sage	personagem	CRLF x1	ええと……○○というのね。\nこれから、弟共々、よろしく頼むわね		
+qev24_060.scr:13	qev24_060.scr	13	ジーニアス	Genis Sage	personagem	CRLF x1	ねえロイド、船の中を案内してよ。\nボク、こんな大きな船初めて！		
+qev24_060.scr:14	qev24_060.scr	14	ロイド	Lloyd Irving	personagem	CRLF x1	ああ、いいぜ。\n好きな所を案内してやるよ		
+qev24_060.scr:15	qev24_060.scr	15	ジーニアス	Genis Sage	personagem	CRLF x1	わぁーい！\nそれじゃあね、ええっと……		
+qev24_060.scr:16	qev24_060.scr	16	コレット	Colette Brunel	personagem		ジーニアス、嬉しそうだね		
+qev24_060.scr:17	qev24_060.scr	17	リフィル	Raine Sage	personagem		あの子は、村の中しか知らないから		
+qev24_060.scr:18	qev24_060.scr	18	リフィル	Raine Sage	personagem	CRLF x2	そうね……。\nそういう意味でも、よい経験が出来ると\nいいのだけれど		
+qev24_060.scr:19	qev24_060.scr	19	アンジュ	Ange Serena	personagem	CRLF x2	そういった経験を欲している生徒が\nうちには何人もいますよ。\n後程、お引き合わせします		
+qev24_060.scr:20	qev24_060.scr	20	リフィル	Raine Sage	personagem	CRLF x1	ええ。\nよろしくお願いするわ		
+qev24_060.scr:21	qev24_060.scr	21	ジーニアス	Genis Sage	personagem	CRLF x2	ねえ、ロイド。\n船の中を案内してよ。\nボク、こんな大きな船初めて！		
+qev24_060.scr:22	qev24_060.scr	22	ロイド	Lloyd Irving	personagem	CRLF x1	ああ、いいぜ。\n好きな所を案内してやるよ		
+qev24_060.scr:23	qev24_060.scr	23	ジーニアス	Genis Sage	personagem	CRLF x1	わぁーい！\nそれじゃあね、ええっと……		
+qev24_060.scr:24	qev24_060.scr	24	アンジュ	Ange Serena	personagem	CRLF x2	ふふ。\nあんなにはしゃいで……。\n余程、この船が珍しかったのね		
+qev24_060.scr:25	qev24_060.scr	25	リフィル	Raine Sage	personagem		あの子は、村の中しか知らないから		
+qev24_060.scr:26	qev24_060.scr	26	リフィル	Raine Sage	personagem	CRLF x2	そうね……。\nそういう意味でも、よい経験が出来ると\nいいのだけれど		
+qev24_060.scr:27	qev24_060.scr	27	アンジュ	Ange Serena	personagem	CRLF x2	そういった経験を欲している生徒が\nうちには何人もいますよ。\n後程、お引き合わせします		
+qev24_060.scr:28	qev24_060.scr	28	リフィル	Raine Sage	personagem	CRLF x1	ええ。\nよろしくお願いするわ		
+qev24_060.scr:29	qev24_060.scr	29	リフィル	Raine Sage	personagem	CRLF x1	ええと……○○というのね。\nこれから、弟共々、よろしく頼むわね		
+qev24_060.scr:30	qev24_060.scr	30	(mensagem de sistema)	(mensagem de sistema)	sistema		ジーニアスがアドリビトムに加入しました		
+qev24_060.scr:31	qev24_060.scr	31	(mensagem de sistema)	(mensagem de sistema)	sistema		リフィルがアドリビトムに加入しました		

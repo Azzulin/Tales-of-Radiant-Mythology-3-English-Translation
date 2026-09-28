@@ -1,0 +1,129 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev61_010.scr:0	cev61_010.scr	0	ロイド	Lloyd Irving	personagem	CRLF x2	あれっ。\nもしかして\nスパーダって二刀流なのか？		
+cev61_010.scr:1	cev61_010.scr	1	スパーダ	Spada Belforma	personagem		あぁ？		
+cev61_010.scr:2	cev61_010.scr	2	スパーダ	Spada Belforma	personagem	CRLF x1	そうだけど……。\nそれがどうしたってェんだ？		
+cev61_010.scr:3	cev61_010.scr	3	ロイド	Lloyd Irving	personagem	CRLF x1	そうかそうか〜！\nいや、実は俺も二刀流なんだ		
+cev61_010.scr:4	cev61_010.scr	4	ロイド	Lloyd Irving	personagem		やっぱいいよな、二刀って！		
+cev61_010.scr:5	cev61_010.scr	5	スパーダ	Spada Belforma	personagem		なんだ、お前もなのか		
+cev61_010.scr:6	cev61_010.scr	6	スパーダ	Spada Belforma	personagem	CRLF x1	バカっぽい顔してる割に、\nいいセレクトじゃねえか		
+cev61_010.scr:7	cev61_010.scr	7	ロイド	Lloyd Irving	personagem	CRLF x1	何といっても、二刀の魅力は\n手数の多さだよなぁ		
+cev61_010.scr:8	cev61_010.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	それでいて、強さの真髄は\nごくシンプルなのもいい		
+cev61_010.scr:9	cev61_010.scr	9	スパーダ	Spada Belforma	personagem	CRLF x1	そうそう。\nなかなかわかって……		
+cev61_010.scr:10	cev61_010.scr	10	ロイド	Lloyd Irving	personagem	CRLF x2	剣が二本で二倍強い！\nこんなシンプルな強さは\n他にないよなー！		
+cev61_010.scr:11	cev61_010.scr	11	スパーダ	Spada Belforma	personagem		……やっぱ、ただのバカか		
+cev61_020.scr:0	cev61_020.scr	0	アニス	Anise Tatlin	personagem	CRLF x2	なに〜？　\nスパーダってばどうしたの？\nさっきからロックスの事、じ〜っと見て		
+cev61_020.scr:1	cev61_020.scr	1	スパーダ	Spada Belforma	personagem	CRLF x1	あぁ？\n別に、何でもねーよ		
+cev61_020.scr:2	cev61_020.scr	2	イリア	Iria Animi	personagem	CRLF x2	スパーダお坊ちゃまは\nご実家に残された執事の事を\n思い出してらっしゃるんですのよね？		
+cev61_020.scr:3	cev61_020.scr	3	アニス	Anise Tatlin	personagem		執事？		
+cev61_020.scr:4	cev61_020.scr	4	アニス	Anise Tatlin	personagem		……って、はわ〜！？		
+cev61_020.scr:5	cev61_020.scr	5	アニス	Anise Tatlin	personagem	CRLF x1	もしかして、スパーダってば\nお金持ちだったの！？		
+cev61_020.scr:6	cev61_020.scr	6	イリア	Iria Animi	personagem	CRLF x1	お金持ちも何も、武門の名家の御曹司。\n生粋のボンボンよ！		
+cev61_020.scr:7	cev61_020.scr	7	イリア	Iria Animi	personagem	CRLF x2	だから、ロックスを見てると\n色々思い出しちゃって、ナーバスに\nなっちゃうのよねぇ？　グシシシシシ		
+cev61_020.scr:8	cev61_020.scr	8	スパーダ	Spada Belforma	personagem		おいテメ、イリア！		
+cev61_020.scr:9	cev61_020.scr	9	イリア	Iria Animi	personagem		オホホホホホホ！		
+cev61_020.scr:10	cev61_020.scr	10	アニス	Anise Tatlin	personagem	CRLF x1	スパーダ……本当にお坊ちゃまだったんだ。\nという事は……		
+cev61_020.scr:11	cev61_020.scr	11	アニス	Anise Tatlin	personagem	CRLF x1	アニスちゃんの王子様かも〜∀\n待って下さい、スパーダ様ぁ∀∀		
+cev61_030.scr:0	cev61_030.scr	0	ロックス	Rocks	personagem		ふう、ふう……		
+cev61_030.scr:1	cev61_030.scr	1	ロックス	Rocks	personagem	CRLF x2	（はぁ……手がちぎれそうです。\n　さすがに、一度にこの量を運ぶのは\n　ちょっと無理があったかなぁ……）		
+cev61_030.scr:2	cev61_030.scr	2	ロックス	Rocks	personagem		（でも、しっかり勤めを果たさないと……！）		
+cev61_030.scr:3	cev61_030.scr	3	スパーダ	Spada Belforma	personagem	CRLF x1	おい、貸せよ。\nこっち持ってやる		
+cev61_030.scr:4	cev61_030.scr	4	ロックス	Rocks	personagem	CRLF x1	いえ、でも……。\nこれが僕の仕事ですので		
+cev61_030.scr:5	cev61_030.scr	5	スパーダ	Spada Belforma	personagem		いーから貸せっつってんだよ！		
+cev61_030.scr:6	cev61_030.scr	6	スパーダ	Spada Belforma	personagem	CRLF x1	ったくよぉ、ンなちっこい体で\nこんな荷物運べるわけねーだろが		
+cev61_030.scr:7	cev61_030.scr	7	スパーダ	Spada Belforma	personagem	CRLF x1	オラ、行くぞ。\nちゃっちゃと運んじまおーぜ！		
+cev61_030.scr:8	cev61_030.scr	8	ロックス	Rocks	personagem	CRLF x1	え？　\nあ……はい		
+cev61_030.scr:9	cev61_030.scr	9	ロックス	Rocks	personagem	CRLF x1	ありがとうございます。\nスパーダ様は、優しいんですね		
+cev61_030.scr:10	cev61_030.scr	10	スパーダ	Spada Belforma	personagem	CRLF x1	バーカ！\n寒ィ事言ってんじゃねーよ！！		
+cev61_030.scr:11	cev61_030.scr	11	スパーダ	Spada Belforma	personagem	CRLF x1	当たり前の事してるだけだってェの。\n勝手に深読みしてんじゃねーよ！		
+cev61_030.scr:12	cev61_030.scr	12	ロックス	Rocks	personagem	CRLF x2	そういうのを、優しいというのだと\n思いますけどね。\nふふ…		
+cev61_040.scr:0	cev61_040.scr	0	ロックス	Rocks	personagem		よいしょ、よいしょ……		
+cev61_040.scr:1	cev61_040.scr	1	ロイド	Lloyd Irving	personagem		うわぁ〜、重そうだなぁ		
+cev61_040.scr:2	cev61_040.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	半分手伝うよ。\nそっちの大きいやつ、貸してくれ		
+cev61_040.scr:3	cev61_040.scr	3	ロックス	Rocks	personagem	CRLF x1	いえ、でも……。\nこれが僕の仕事ですので		
+cev61_040.scr:4	cev61_040.scr	4	ロイド	Lloyd Irving	personagem		いーからいーから		
+cev61_040.scr:5	cev61_040.scr	5	ロイド	Lloyd Irving	personagem	CRLF x2	ドワーフの誓い、第２番。\n困ってる人を見かけたら\n必ず力を貸そう、だ		
+cev61_040.scr:6	cev61_040.scr	6	ロイド	Lloyd Irving	personagem	CRLF x1	ほら、早く行こうぜ。\nこれはどこに運んどけばいいんだ？		
+cev61_040.scr:7	cev61_040.scr	7	ロックス	Rocks	personagem		……じゃあ、お言葉に甘えて		
+cev61_040.scr:8	cev61_040.scr	8	ロックス	Rocks	personagem		その荷物は、食料庫までお願い出来ますか		
+cev61_040.scr:9	cev61_040.scr	9	ロイド	Lloyd Irving	personagem		おう、任しとけ！		
+cev61_040.scr:10	cev61_040.scr	10	ロックス	Rocks	personagem	CRLF x1	あっ、そっちは卵が入ってるんです。\nあまり振らない様にお願い出来ますか……		
+cev61_040.scr:11	cev61_040.scr	11	スパーダ	Spada Belforma	personagem	CRLF x1	ふ〜ん。\n何だよ、ロイドの奴……		
+cev61_040.scr:12	cev61_040.scr	12	スパーダ	Spada Belforma	personagem		いい奴じゃねーか		
+cev61_050.scr:0	cev61_050.scr	0	イリア	Iria Animi	personagem	CRLF x1	しっかし、ロックスってマメよねぇ〜。\nカノンノの世話焼き魔人って感じ		
+cev61_050.scr:1	cev61_050.scr	1	ロックス	Rocks	personagem	CRLF x2	生涯、お嬢様に忠義を尽くし\nお傍で奉公させていただくのが\n僕の一番の喜びですから		
+cev61_050.scr:2	cev61_050.scr	2	スパーダ	Spada Belforma	personagem	CRLF x1	忠義ねェ。\n立派なモンだが		
+cev61_050.scr:3	cev61_050.scr	3	スパーダ	Spada Belforma	personagem	CRLF x1	ま、オレには単なるパシリにしか\n見えねえけどな		
+cev61_050.scr:4	cev61_050.scr	4	ロックス	Rocks	personagem	CRLF x1	パ、パシリとは失礼な！\n僕はそんなんじゃ……		
+cev61_050.scr:5	cev61_050.scr	5	スパーダ	Spada Belforma	personagem	CRLF x1	オラ、つまみが足んねーぞ！\n何チンタラしてんだコラァ！！		
+cev61_050.scr:6	cev61_050.scr	6	ロックス	Rocks	personagem	CRLF x1	ヒィッ！\nす、すみません今すぐに〜〜！！		
+cev61_050.scr:7	cev61_050.scr	7	スパーダ	Spada Belforma	personagem	CRLF x1	ホラな。\nありゃ、完全に条件反射だ		
+cev61_050.scr:8	cev61_050.scr	8	スパーダ	Spada Belforma	personagem		相当な下積み経験があると見たぜ		
+cev61_050.scr:9	cev61_050.scr	9	イリア	Iria Animi	personagem		あんたの嗅覚も大したもんだわ……		
+cev61_060.scr:0	cev61_060.scr	0	スパーダ	Spada Belforma	personagem	CRLF x1	なぁ、ヒトの進化種って\nどんなのがいると思う？		
+cev61_060.scr:1	cev61_060.scr	1	ヴェイグ	Veigue Lungberg	personagem		……どういう意味だ		
+cev61_060.scr:2	cev61_060.scr	2	スパーダ	Spada Belforma	personagem	CRLF x1	例えば、ほら\n種の存続の為にだな……		
+cev61_060.scr:3	cev61_060.scr	3	スパーダ	Spada Belforma	personagem	CRLF x2	狙ってる女の好みのタイプが\n見破れる進化種とか、\nスリーサイズがわかっちまう進化種とか		
+cev61_060.scr:4	cev61_060.scr	4	ヴェイグ	Veigue Lungberg	personagem		…………		
+cev61_060.scr:5	cev61_060.scr	5	スパーダ	Spada Belforma	personagem	CRLF x1	だってよォ、ただでさえ\n出会いが少ない世の中だぜ？		
+cev61_060.scr:6	cev61_060.scr	6	スパーダ	Spada Belforma	personagem	CRLF x1	そン中から、カップルになれる確率なんて\nそれこそ……		
+cev61_060.scr:7	cev61_060.scr	7	スパーダ	Spada Belforma	personagem		っておい、無視かよっ！？		
+cev61_060.scr:8	cev61_060.scr	8	スパーダ	Spada Belforma	personagem		今のはツッコむところだろーが！		
+cev61_070.scr:0	cev61_070.scr	0	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	待っていろ、クレア……。\n今助けに行く！		
+cev61_070.scr:1	cev61_070.scr	1	スパーダ	Spada Belforma	personagem	CRLF x1	オイ！　\n落ち着けって！！		
+cev61_070.scr:2	cev61_070.scr	2	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	痛ッ……何をする！！\nその手を離せ！！		
+cev61_070.scr:3	cev61_070.scr	3	スパーダ	Spada Belforma	personagem	CRLF x1	（やべェ！　咄嗟に髪の毛掴んじまった！\n　こいつの髪、何でこんな長ェんだよ！？）		
+cev61_070.scr:4	cev61_070.scr	4	スパーダ	Spada Belforma	personagem	CRLF x1	こうでもしなきゃ、お前は\nオレの話なんか聞かなかったろーが		
+cev61_070.scr:5	cev61_070.scr	5	スパーダ	Spada Belforma	personagem	CRLF x2	ったく……一人で暴走してんじゃねえ！\nお前がそんなで、確実にクレアを\n助け出す事なんて出来ンのか？		
+cev61_070.scr:6	cev61_070.scr	6	スパーダ	Spada Belforma	personagem		ちったァ、頭冷やせ！		
+cev61_070.scr:7	cev61_070.scr	7	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……そう、だな……。\nスパーダの言う通りだ		
+cev61_070.scr:8	cev61_070.scr	8	ヴェイグ	Veigue Lungberg	personagem		すまなかった		
+cev61_070.scr:9	cev61_070.scr	9	スパーダ	Spada Belforma	personagem	CRLF x1	おう。\nわかりゃあいいんだよ		
+cev61_070.scr:10	cev61_070.scr	10	スパーダ	Spada Belforma	personagem	CRLF x1	（危ねェ危ねェ……。\n　何とかそれっぽく誤魔化せたぜ〜）		
+cev61_080.scr:0	cev61_080.scr	0	スタン	Stahn Aileron	personagem	CRLF x1	なあ、スパーダ。\n話があるんだけど		
+cev61_080.scr:1	cev61_080.scr	1	スパーダ	Spada Belforma	personagem	CRLF x1	あァ？　\n何だよ		
+cev61_080.scr:2	cev61_080.scr	2	スタン	Stahn Aileron	personagem	CRLF x2	スパーダの武器についてなんだけど、\nもっと色んな二刀流を試してみても\nいいんじゃないかな		
+cev61_080.scr:3	cev61_080.scr	3	スパーダ	Spada Belforma	personagem		色んな二刀流だぁ？		
+cev61_080.scr:4	cev61_080.scr	4	スタン	Stahn Aileron	personagem	CRLF x1	そう。\n例えば短剣と弓矢とか！		
+cev61_080.scr:5	cev61_080.scr	5	スパーダ	Spada Belforma	personagem	CRLF x1	短剣持ってたら、\n弓に矢がつがえらんねェだろ		
+cev61_080.scr:6	cev61_080.scr	6	スタン	Stahn Aileron	personagem		あ、そうか		
+cev61_080.scr:7	cev61_080.scr	7	スタン	Stahn Aileron	personagem	CRLF x1	じゃあ、短剣を相手に投げて\nその隙に矢を射るとか！		
+cev61_080.scr:8	cev61_080.scr	8	スパーダ	Spada Belforma	personagem	CRLF x1	二刀流の意味ねェよ！\nってか、刀ですらねえし！！		
+cev61_080.scr:9	cev61_080.scr	9	スタン	Stahn Aileron	personagem	CRLF x1	う〜ん、じゃあ\n長剣とステッキとか……？		
+cev61_080.scr:10	cev61_080.scr	10	スパーダ	Spada Belforma	personagem	CRLF x2	結局何が言いたいんだ、お前はよ……。\n人をおちょくってンのか？　\nああ？		
+cev61_080.scr:11	cev61_080.scr	11	スタン	Stahn Aileron	personagem	CRLF x1	（うーん、なかなか難しいんだな。\n　二刀流って……）		
+cev61_200.scr:0	cev61_200.scr	0	スパーダ	Spada Belforma	personagem	CRLF x1	通常。\n		
+cev61_200.scr:1	cev61_200.scr	1	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:2	cev61_200.scr	2	スパーダ	Spada Belforma	personagem	CRLF x1	笑い。\n		
+cev61_200.scr:3	cev61_200.scr	3	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:4	cev61_200.scr	4	スパーダ	Spada Belforma	personagem	CRLF x1	怒り。\n		
+cev61_200.scr:5	cev61_200.scr	5	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:6	cev61_200.scr	6	スパーダ	Spada Belforma	personagem	CRLF x1	悲しみ。\n		
+cev61_200.scr:7	cev61_200.scr	7	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:8	cev61_200.scr	8	スパーダ	Spada Belforma	personagem	CRLF x1	悪笑い。\n		
+cev61_200.scr:9	cev61_200.scr	9	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:10	cev61_200.scr	10	スパーダ	Spada Belforma	personagem	CRLF x1	メンチ。\n		
+cev61_200.scr:11	cev61_200.scr	11	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:12	cev61_200.scr	12	スパーダ	Spada Belforma	personagem	CRLF x1	通常。\n		
+cev61_200.scr:13	cev61_200.scr	13	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:14	cev61_200.scr	14	スパーダ	Spada Belforma	personagem	CRLF x1	笑い。\n		
+cev61_200.scr:15	cev61_200.scr	15	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:16	cev61_200.scr	16	スパーダ	Spada Belforma	personagem	CRLF x1	怒り。\n		
+cev61_200.scr:17	cev61_200.scr	17	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:18	cev61_200.scr	18	スパーダ	Spada Belforma	personagem	CRLF x1	悲しみ。\n		
+cev61_200.scr:19	cev61_200.scr	19	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:20	cev61_200.scr	20	スパーダ	Spada Belforma	personagem	CRLF x1	悪笑い。\n		
+cev61_200.scr:21	cev61_200.scr	21	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:22	cev61_200.scr	22	スパーダ	Spada Belforma	personagem	CRLF x1	メンチ。\n		
+cev61_200.scr:23	cev61_200.scr	23	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:24	cev61_200.scr	24	スパーダ	Spada Belforma	personagem	CRLF x1	通常。\n		
+cev61_200.scr:25	cev61_200.scr	25	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:26	cev61_200.scr	26	スパーダ	Spada Belforma	personagem	CRLF x1	笑い。\n		
+cev61_200.scr:27	cev61_200.scr	27	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:28	cev61_200.scr	28	スパーダ	Spada Belforma	personagem	CRLF x1	怒り。\n		
+cev61_200.scr:29	cev61_200.scr	29	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:30	cev61_200.scr	30	スパーダ	Spada Belforma	personagem	CRLF x1	悲しみ。\n		
+cev61_200.scr:31	cev61_200.scr	31	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:32	cev61_200.scr	32	スパーダ	Spada Belforma	personagem	CRLF x1	悪笑い。\n		
+cev61_200.scr:33	cev61_200.scr	33	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev61_200.scr:34	cev61_200.scr	34	スパーダ	Spada Belforma	personagem	CRLF x1	メンチ。\n		
+cev61_200.scr:35	cev61_200.scr	35	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

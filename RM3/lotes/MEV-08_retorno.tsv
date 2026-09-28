@@ -1,0 +1,270 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev08_010.scr:0	mev08_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	今回は、アルマナック遺跡にある\n「暁の従者」の拠点へ行ってちょうだい	Please head to the Servants of the Dawn's\nbase located in the Almanac Ruins.	
+mev08_010.scr:1	mev08_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	「暁の従者」は、あの得体のしれない\n光る存在を、救世主「ディセンダー」として、\nルバーブ連山から連れ出した宗教団体よ	The Servants of the Dawn is the cult\nthat took that mysterious glowing entity\nfrom Rhubarb Mountains as the Descender.	
+mev08_010.scr:2	mev08_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	彼らは、ナタリアの国であるライマ国\nばかりでなく、様々な所で暴動を\n起こしているらしいの	They seem to be inciting riots not only\nin Natalia's home, the Kingdom of Lima,\nbut in various other regions as well.	
+mev08_010.scr:3	mev08_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	彼らの拠点に、\nきっとあの光る存在も\nいるでしょう	That glowing entity is almost certainly\npresent at their base\nas well.	
+mev08_010.scr:4	mev08_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	早く、彼らから切り離さなければ\n大変な事になってしまう	If we do not separate it from them soon,\nthe consequences will be dire.	
+mev08_010.scr:5	mev08_010.scr	5	アンジュ	Ange Serena	personagem		今回は、わたしとジェイドさんが同行するから	Jade and I will accompany you this time.	
+mev08_010.scr:6	mev08_010.scr	6	アンジュ	Ange Serena	personagem		準備が整ったら、すぐに発ちましょう	Once you are ready, let us depart at once.	
+mev08_020.scr:0	mev08_020.scr	0	暁の従者・信者１	Dawn Cultist 1	personagem	CRLF x2	ホントさ。\nディセンダー様が手から金を\n山の様に出したんだ	It is true!\nThe Descender produced a mountain of gold\nstraight from their own hands!	
+mev08_020.scr:1	mev08_020.scr	1	暁の従者・信者２	Dawn Cultist 2	personagem	CRLF x2	しかし、ディセンダー様は、\n救世主という自覚がおありでない。\n自分が何者かもわからないとは…	Yet the Descender has no awareness\nof being a savior, not even knowing\ntheir own true identity...	
+mev08_020.scr:2	mev08_020.scr	2	暁の従者・信者１	Dawn Cultist 1	personagem	CRLF x2	ほら、予言でも言うだろう。\nディセンダーは、世界樹から生まれたばかりで\n記憶というものがない	Come now, the prophecy states that too.\nA Descender just born from the World Tree\npossesses no memories whatsoever.	
+mev08_020.scr:3	mev08_020.scr	3	暁の従者・信者１	Dawn Cultist 1	personagem		恐怖すら知らないとな	They do not even know fear, it says.	
+mev08_020.scr:4	mev08_020.scr	4	暁の従者・信者１	Dawn Cultist 1	personagem	CRLF x1	少し前に、俺達の間で裏切り者が出たって\n話があっただろう？	Not long ago, didn't we hear talk\nof a traitor among our ranks?	
+mev08_020.scr:5	mev08_020.scr	5	暁の従者・信者１	Dawn Cultist 1	personagem	CRLF x1	先日、その裏切り者に罰をお与え下さいって\n願った奴がいたんだよ	The other day, someone begged the\nDescender to punish that traitor.	
+mev08_020.scr:6	mev08_020.scr	6	暁の従者・信者１	Dawn Cultist 1	personagem	CRLF x1	そうするとディセンダー様は、\n表情一つ変えずに…	And then, without changing expression\neven in the slightest...	
+mev08_020.scr:7	mev08_020.scr	7	暁の従者・信者１	Dawn Cultist 1	personagem	CRLF x2	ああ、むごい。\n口に出すのもはばかられる程の\nものだった	Ah, it was horrifying...\nSomething so cruel, one could hardly\nbring oneself to speak of it.	
+mev08_020.scr:8	mev08_020.scr	8	暁の従者・信者１	Dawn Cultist 1	personagem	CRLF x1	恐怖という感情があれば…、\n確かにあんな事は出来ないだろう	If one possessed the emotion of fear...\nthey could never do such a thing.	
+mev08_020.scr:9	mev08_020.scr	9	暁の従者・信者２	Dawn Cultist 2	personagem	CRLF x1	俺もディセンダー様に\n願いを叶えてもらいたいものだ	I too would love to have a wish\ngranted by the Descender.	
+mev08_020.scr:10	mev08_020.scr	10	暁の従者・信者１	Dawn Cultist 1	personagem	CRLF x2	無理さ。\n司祭クラスの許可なくしては\n会えないんだろうし	Impossible.\nOne cannot meet them without permission\nfrom the high priest class.	
+mev08_020.scr:11	mev08_020.scr	11	アンジュ	Ange Serena	personagem		やっぱり、この奥が彼らの拠点なのね	So their base truly lies deeper within.	
+mev08_020.scr:12	mev08_020.scr	12	アンジュ	Ange Serena	personagem	CRLF x2	ここは、太古にあったディセンダー信仰の\n場所だったそうだから、彼らも拠点として\nここを選んだんでしょうね	This was once an ancient site\nof Descender worship, so that is likely\nwhy they chose it as their stronghold.	
+mev08_020.scr:13	mev08_020.scr	13	ジェイド	Jade Curtiss	personagem		ディセンダー様、ですか	"Lord Descender," is it?	
+mev08_020.scr:14	mev08_020.scr	14	ジェイド	Jade Curtiss	personagem	CRLF x1	そのいかがわしい存在も\nここに隠しているんでしょうかねぇ…	I wonder if that shady entity\nis hidden in here as well...	
+mev08_030.scr:0	mev08_030.scr	0	暁の従者・信者３	Dawn Cultist 3	personagem		はぁぁぁぁ…ッ！	Haaaaah...!	
+mev08_030.scr:1	mev08_030.scr	1	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x1	見ろ、この力！\nラザリス様がくれたんだ	Behold this power!\nLord Lazaris granted it to me!	
+mev08_030.scr:2	mev08_030.scr	2	暁の従者・信者４	Dawn Cultist 4	personagem		素晴らしい！	Magnificent!	
+mev08_030.scr:3	mev08_030.scr	3	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x2	ああ、この力をもって、\n我々のディセンダー・ラザリス様と共に\nすべての民を平等な世界へと導くんだ	Indeed! With this very power, alongside\nour Descender, Lord Lazaris, we shall\nlead all people to a world of equality!	
+mev08_030.scr:4	mev08_030.scr	4	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x1	んっ、何だお前達は？\n我々の同志になりに来たのか？	Hm? Who are you lot?\nHave you come to join our cause?	
+mev08_030.scr:5	mev08_030.scr	5	アンジュ	Ange Serena	personagem		いいえ、そうではないの	No, that is not why we are here.	
+mev08_030.scr:6	mev08_030.scr	6	暁の従者・信者３	Dawn Cultist 3	personagem		じゃあ、何の目的で来たんだ？	Then for what purpose have you come?	
+mev08_030.scr:7	mev08_030.scr	7	ジェイド	Jade Curtiss	personagem	CRLF x1	あなた方がディセンダーと呼んでいるものを\n引き渡してもらいます	We must ask you to hand over\nwhat you refer to as the Descender.	
+mev08_030.scr:8	mev08_030.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	あれは、ディセンダーなんかじゃないの。\nもっと得体の知れない何かよ	That thing is no Descender.\nIt is something far more sinister.	
+mev08_030.scr:9	mev08_030.scr	9	ジェイド	Jade Curtiss	personagem		そう、危険な存在かもしれませんよ	Indeed, it may be quite dangerous.	
+mev08_030.scr:10	mev08_030.scr	10	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x1	危険な存在だと？\nバカな事を…	A dangerous entity, you say?\nWhat utter foolishness...	
+mev08_030.scr:11	mev08_030.scr	11	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x1	今は誕生されたばかりで、予言通り\n名前以外何も記憶はない	Having just been born, as the prophecy\nforetold, they recall only their name.	
+mev08_030.scr:12	mev08_030.scr	12	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x1	だが、今この奥でこの世の事を\n学んでおられるのだ	Yet even now, deep within this sanctum,\nthey are learning of this world.	
+mev08_030.scr:13	mev08_030.scr	13	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x1	それが終わるまで、誰もこの先へは\n通すわけには行かないのだ	Until that is complete, we cannot allow\na single soul to pass beyond this point!	
+mev08_030.scr:14	mev08_030.scr	14	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x1	この腐敗した世の中を正す為に\n降臨されたディセンダー様だ	The Descender descended to this realm\nsolely to rectify this corrupt world!	
+mev08_030.scr:15	mev08_030.scr	15	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x2	じきに、自ら立ち上がられ、\nこの世界を理想郷へと造り変えられる。\n邪魔はさせないぞ！！	Soon they will rise of their own accord\nand remake this world into an utopia.\nWe shall not allow you to interfere!!	
+mev08_030.scr:16	mev08_030.scr	16	ジェイド	Jade Curtiss	personagem	CRLF x1	やれやれ、ずいぶんな熱の入れ様ですね。\n話になりません	Good grief, quite the zealots, aren't\nthey? There is no reasoning with them.	
+mev08_030.scr:17	mev08_030.scr	17	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x2	我等に勝てると思うな！\nディセンダー様より授かった力、\nとくと見よ！！	Do not think you can defeat us!\nBehold the boundless power\nbestowed upon us by the Descender!!	
+mev08_040.scr:0	mev08_040.scr	0	暁の従者・信者３	Dawn Cultist 3	personagem		性懲りもなく、また来たか！	You still have not learned your lesson?!	
+mev08_040.scr:1	mev08_040.scr	1	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x2	ディセンダー様を守り、\n付き従うのが我等「暁の従者」の使命！\nここは何人たりとも通さんぞ！！	To protect and serve the Descender is\nthe mission of the Servants of the Dawn!\nNone shall pass beyond this point!!	
+mev08_050.scr:0	mev08_050.scr	0	暁の従者・信者３	Dawn Cultist 3	personagem		くっ…、やるな！	Kh...! Not bad!	
+mev08_050.scr:1	mev08_050.scr	1	暁の従者・信者４	Dawn Cultist 4	personagem		だが、まだ屈しはせんぞ	Yet we shall never surrender!	
+mev08_050.scr:2	mev08_050.scr	2	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x2	一部の者ばかりが益を得る\n腐った世の仕組み。\n必ずやディセンダー様が打ち砕く	This rotten system where only a select\nfew reap the benefits... The Descender\nshall surely shatter it to pieces!	
+mev08_050.scr:3	mev08_050.scr	3	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x1	搾取のない、平等で平和な世界を\n望んでいる者達の声の為にも…	For the voices of all who yearn for\na peaceful, equal world without greed...	
+mev08_050.scr:4	mev08_050.scr	4	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x1	ディセンダー様を\nお前達に渡すわけには行かない！！	We cannot possibly hand over\nthe Descender to the likes of you!!	
+mev08_050.scr:5	mev08_050.scr	5	ジェイド	Jade Curtiss	personagem	CRLF x2	世を変えるにも、\nディセンダー頼りですか。\nそれでは、何も変わりませんよ	Relying on the Descender even to change\nthe world? If that is your approach,\nnothing will ever change, you know.	
+mev08_050.scr:6	mev08_050.scr	6	暁の従者・信者３	Dawn Cultist 3	personagem		黙れ！！	Silence!!	
+mev08_050.scr:7	mev08_050.scr	7	暁の従者・信者３	Dawn Cultist 3	personagem		何だ…、これは	What... is this...?	
+mev08_050.scr:8	mev08_050.scr	8	暁の従者・信者３	Dawn Cultist 3	personagem		身体が…、身体がぁぁぁぁ！！	My body... My bodyyyy!!	
+mev08_050.scr:9	mev08_050.scr	9	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x1	ヒィッ！？\nな、何だっ、この姿は！！	Eeeek?!\nWh-What is this form?!	
+mev08_050.scr:10	mev08_050.scr	10	アンジュ	Ange Serena	personagem		まさか…、生物変化現象！？	Could it be... a creature mutation?!	
+mev08_050.scr:11	mev08_050.scr	11	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x2	あぁぁ、…なぜ。\nなぜだ、なぜ…こんな姿に。\nラザリス様…	Aaaah... Why?!\nWhy, why... have I taken this form?!\nLord Lazaris...	
+mev08_050.scr:12	mev08_050.scr	12	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x1	ラザリス様…助けて下さい…。\nディセンダー、ラザリス様ぁぁぁ！！	Lord Lazaris... Please save us...!\nDescender, Lord Lazarissss!!	
+mev08_050.scr:13	mev08_050.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	わたし達や多くの人と同じ様に、\n彼らも平等な世界の理想を持っているのに	Just like us and so many others, they\ntoo dreamed of an equal world...	
+mev08_050.scr:14	mev08_050.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	なのに、世界はバラバラで、\n人々の思いは…かみ合わない	Yet the world remains divided,\nand people's hearts never align...	
+mev08_050.scr:15	mev08_050.scr	15	ジェイド	Jade Curtiss	personagem	CRLF x2	仮にディセンダーが存在したとして、\nこの世界を見たら、\nどう思うんでしょうねえ…	Even if a Descender truly existed,\nI wonder what they would think\nupon looking at such a world...	
+mev08_060.scr:0	mev08_060.scr	0	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x1	ラザリス様…ディセンダー様…、\n助けて下さい…こんな、こんな姿…	Lord Lazaris... Lord Descender...\nSave us... from this... this form...	
+mev08_060.scr:1	mev08_060.scr	1	ラザリス	Lazaris	personagem		助けて…だって？	"Save you"...?	
+mev08_060.scr:2	mev08_060.scr	2	ラザリス	Lazaris	personagem	CRLF x1	望んだから、欲しがったから、\n力をあげたのに…	You wished for it, you begged for it,\nso I gave you power...	
+mev08_060.scr:3	mev08_060.scr	3	ラザリス	Lazaris	personagem	CRLF x1	今の君達はとても強いよ？\nなぜなら僕がそうしてあげたから…	You are remarkably strong now, aren't\nyou? Because I made you that way...	
+mev08_060.scr:4	mev08_060.scr	4	ラザリス	Lazaris	personagem	CRLF x1	君達さ、強くなりたいんだったら、\nこうならなければならなかったんだよ	If you truly wanted to become strong,\nthis is what you had to become.	
+mev08_060.scr:5	mev08_060.scr	5	ラザリス	Lazaris	personagem	CRLF x2	大丈夫。\n今はまだ半分ヒトだろうけど、\nじきに完全に変化するよ	Fret not.\nYou may still be half-human right now,\nbut soon you will transform completely.	
+mev08_060.scr:6	mev08_060.scr	6	ラザリス	Lazaris	personagem		そうすれば、今より強い体になるはずさ	Then you will have a far stronger body.	
+mev08_060.scr:7	mev08_060.scr	7	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x2	そんな！\nこれでは魔物です…。\n元の姿に…	No, this cannot be!\nLike this, we are monsters...\nTurn us back...	
+mev08_060.scr:8	mev08_060.scr	8	ラザリス	Lazaris	personagem	CRLF x1	本当に欲しがってばかりだね…。\nでも、もう君達に付き合う必要もない	You truly do nothing but beg...\nStill, I have no need to humor you now.	
+mev08_060.scr:9	mev08_060.scr	9	ラザリス	Lazaris	personagem	CRLF x1	この醜いヒトの姿は耐え難いものだけど、\nまあいい	This hideous human form is insufferable,\nyet it will suffice for now.	
+mev08_060.scr:10	mev08_060.scr	10	ラザリス	Lazaris	personagem	CRLF x1	やっと自ら行動する身体が\n手に入れられたんだからね…	For I have finally obtained a body\ncapable of acting on its own...	
+mev08_070.scr:0	mev08_070.scr	0	アンジュ	Ange Serena	personagem		あの子が…あの、赤い煙だったもの…？	Is that child... what was the red smoke?	
+mev08_070.scr:1	mev08_070.scr	1	ラザリス	Lazaris	personagem		誰…？	Who are you...?	
+mev08_070.scr:2	mev08_070.scr	2	アンジュ	Ange Serena	personagem		あなたは一体何者なの！？	Just who in the world are you?!	
+mev08_070.scr:3	mev08_070.scr	3	ラザリス	Lazaris	personagem	CRLF x1	ラザリス…。\n僕は、ラザリス…	Lazaris...\nI am... Lazaris...	
+mev08_070.scr:4	mev08_070.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	あなたが人々の願いを叶えてきたの？\n願いを叶えるのはなぜ？	Are you the one granting people's\nwishes? Why would you do that?	
+mev08_070.scr:5	mev08_070.scr	5	ラザリス	Lazaris	personagem	CRLF x1	…どうしてかな？\n実のところ僕にもわからない	...Why, I wonder?\nTo tell the truth, I do not know myself.	
+mev08_070.scr:6	mev08_070.scr	6	ラザリス	Lazaris	personagem	CRLF x1	けども、君らから少しずつ世界を知るには\n都合が良かったからだと思う	Yet I suppose it was convenient\nfor learning about your world bit by bit.	
+mev08_070.scr:7	mev08_070.scr	7	ジェイド	Jade Curtiss	personagem	CRLF x2	あなたが願いを叶えた生物から、\n学習した。\nこういう事ですか？	You learned from the creatures\nwhose wishes you granted.\nIs that what you are saying?	
+mev08_070.scr:8	mev08_070.scr	8	ラザリス	Lazaris	personagem	CRLF x2	そうなるかな。\n「願いを叶えて」と、\n向こうから僕に接触して来たからね	Something like that.\nThey reached out to me on their own,\npleading, "Grant my wish."	
+mev08_070.scr:9	mev08_070.scr	9	ラザリス	Lazaris	personagem	CRLF x1	この世界に出たばかりの時は、\n僕にも接触する能力がなかった	When I first emerged into this world,\nI had no ability to make contact.	
+mev08_070.scr:10	mev08_070.scr	10	ラザリス	Lazaris	personagem	CRLF x1	でも、やがてあらゆる生物が\n僕の方へ手を伸ばしたんだ	Yet in time, all manner of creatures\nreached their hands out toward me.	
+mev08_070.scr:11	mev08_070.scr	11	ラザリス	Lazaris	personagem	CRLF x2	願いを叶えるという意志のコネクトを通じて、\n僕はこの世界の生命力と情報を\n少しずつ手に入れた	By connecting wills to grant wishes,\nI gradually obtained this world's\nlife force and information.	
+mev08_070.scr:12	mev08_070.scr	12	ジェイド	Jade Curtiss	personagem	CRLF x2	なるほど…。\nしいなの仮説が\n当たっていた様ですね	I see...\nIt appears Sheena's hypothesis\nwas right on the mark.	
+mev08_070.scr:13	mev08_070.scr	13	ラザリス	Lazaris	personagem	CRLF x2	おかげで実体も思考も手に入れた。\n思う存分、僕の好きな様に力を\n振るう事が出来る	Thanks to that, I gained form and mind.\nNow I can wield my power\nto my heart's content.	
+mev08_070.scr:14	mev08_070.scr	14	アンジュ	Ange Serena	personagem	CRLF x2	あなたは、さっき\n世界の生命力と情報を\n手に入れたと言ったけれど	You said just now that you obtained\nthe life force and information\nof our world, but...	
+mev08_070.scr:15	mev08_070.scr	15	アンジュ	Ange Serena	personagem	CRLF x1	あなたは、ヒトじゃない。\n…何者なの…？	You are no human.\n...Just what are you...?	
+mev08_070.scr:16	mev08_070.scr	16	ラザリス	Lazaris	personagem	CRLF x1	僕は、この世界ルミナシアの様に、\n誕生するはずだった「世界」だ	I am a "world" that was meant to be born,\njust like this world, Luminasia.	
+mev08_070.scr:17	mev08_070.scr	17	アンジュ	Ange Serena	personagem		誕生するはずだった「世界」？	A "world" that was meant to be born?	
+mev08_080.scr:0	mev08_080.scr	0	ラザリス	Lazaris	personagem	CRLF x2	ああ…、ああ…。\nこの世界にはうんざりだ！\n僕ならもっといい世界になるはずだった！！	Aah... Aaargh...\nI am sick and tired of this world!\nMy world would have been far better!!	
+mev08_080.scr:1	mev08_080.scr	1	ラザリス	Lazaris	personagem	CRLF x2	こんな、腐り切った世界をもたらすヒトが\nいる世界なんて、\n僕なら造らなかった！！	A world plagued by humans who brought\nabout such rottenness...\nI would never have created such a thing!!	
+mev08_080.scr:2	mev08_080.scr	2	ラザリス	Lazaris	personagem	CRLF x1	君も何故こんな者達を守ろうとするんだ。\nわからないよ	Why do you try to protect such creatures?\nI cannot understand it.	
+mev08_080.scr:3	mev08_080.scr	3	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x1	これは…。\n元の姿に！！	This is...\nWe are back to normal!!	
+mev08_080.scr:4	mev08_080.scr	4	アンジュ	Ange Serena	personagem		あなた、その力は…	That power of yours...	
+mev08_080.scr:5	mev08_080.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	あなたにも、\nその力が何かわからないの？	Do you not even know\nwhat that power is yourself?	
+mev08_080.scr:6	mev08_080.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x2	あなたは記憶喪失だそうですが。\n記憶を失う前に、使っていた\n力かもしれませんね	I hear you suffer from amnesia.\nPerhaps it was a power you wielded\nbefore losing your memories.	
+mev08_080.scr:7	mev08_080.scr	7	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x1	ラザリス様は…、\nあれは、ディセンダーではなかったのか…	Lord Lazaris was...\nWas that not a Descender after all...?	
+mev08_080.scr:8	mev08_080.scr	8	ジェイド	Jade Curtiss	personagem	CRLF x1	彼らもやっと、\n目を覚ました様ですね？	It seems they have finally\ncome to their senses, haven't they?	
+mev08_080.scr:9	mev08_080.scr	9	ジェイド	Jade Curtiss	personagem		我々も一旦戻りましょうか	Shall we return for now as well?	
+mev08_080.scr:10	mev08_080.scr	10	(opcao do jogador)	(opcao do jogador)	escolha		わからない、と言う	Say you don't know	
+mev08_080.scr:11	mev08_080.scr	11	(opcao do jogador)	(opcao do jogador)	escolha		こうしなければならない気がした、と言う	Say you felt you had to do this	
+mev08_090.scr:0	mev08_090.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	とうとうあの存在…\nラザリスが意志を持ち、\n一人歩きし始めてしまった	At last, that entity... Lazaris has\ngained a will of their own and begun\nto act independently.	
+mev08_090.scr:1	mev08_090.scr	1	アンジュ	Ange Serena	personagem		ああ、どうすれば…	Oh, what should we do...?	
+mev08_090.scr:2	mev08_090.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	そんな事ないって。\nあなたはよくやってくれたよ…	No, that is not true.\nYou did wonderfully...	
+mev08_090.scr:3	mev08_090.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	そうね。\nリーダーがこんな態度じゃ\nみんなに不安を与えてしまう…	You are right.\nIf the leader acts like this,\nit will only make everyone anxious...	
+mev08_090.scr:4	mev08_090.scr	4	アンジュ	Ange Serena	personagem		さ、気を取り直さなくちゃ	Now, I must pull myself together.	
+mev08_090.scr:5	mev08_090.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	「暁の従者」の信者達に、話を聞いたの。\n彼らが説明してくれた、\n今までの経緯をあなたにも話すね	I spoke with the cultists from the\nServants of the Dawn. Let me recount\nthe events they explained to you.	
+mev08_090.scr:6	mev08_090.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	まず、彼らは願いを叶える存在の噂を聞き、\nラザリスを、自分達の信ずるところの\nディセンダーだと思った	First, hearing rumors of an entity that\ngranted wishes, they believed Lazaris\nto be the Descender of their faith.	
+mev08_090.scr:7	mev08_090.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	そして、「暁の従者」の教義に従い、\nディセンダーを迎えた	And following their cult's doctrine,\nthey welcomed the Descender.	
+mev08_090.scr:8	mev08_090.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	そのディセンダー、ラザリスは自分の名前以外、\n何も知らなかった。\n自我もあまりない状態だった	That Descender, Lazaris, knew nothing\nbeyond their name, scarcely possessing\na sense of self.	
+mev08_090.scr:9	mev08_090.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	だけど、ヒトの願いを叶えると、\n自我、そして思考が生まれていった…	Yet by granting human wishes,\na sense of self and thought emerged...	
+mev08_090.scr:10	mev08_090.scr	10	アンジュ	Ange Serena	personagem		以上がわかった事よ	That is what we learned.	
+mev08_090.scr:11	mev08_090.scr	11	アンジュ	Ange Serena	personagem		それでね、彼ら、最後にこう言ってたの	And then, they mentioned one last thing.	
+mev08_090.scr:12	mev08_090.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	願いを叶える事で、\n何か学習をしている様だったって…	They said that by granting wishes,\nit seemed Lazaris was learning...	
+mev08_090.scr:13	mev08_090.scr	13	ジェイド	Jade Curtiss	personagem	CRLF x2	ラザリスが言っていた、\n「誕生するはずだった世界」という言葉…。\n気になりますね	Lazaris's words about being a\n"world that was meant to be born"...\nQuite intriguing, isn't it?	
+mev08_090.scr:14	mev08_090.scr	14	アンジュ	Ange Serena	personagem		誕生するはずだった世界、かぁ	A world meant to be born, huh...	
+mev08_090.scr:15	mev08_090.scr	15	アンジュ	Ange Serena	personagem	CRLF x1	世界は、世界樹から生まれたって言われてる。\nそれも、大昔から…	They say the world was born from the\nWorld Tree. Since ancient times...	
+mev08_090.scr:16	mev08_090.scr	16	アンジュ	Ange Serena	personagem	CRLF x1	けれど、本当のところは\n誰も知りはしないのよね	Yet the truth of the matter\nis known to no one, is it?	
+mev08_090.scr:17	mev08_090.scr	17	ジェイド	Jade Curtiss	personagem	CRLF x1	認知されているのは、世界樹の生み出す\nマナの恩恵で生物は生きている事	What is recognized is that living beings\nsurvive by the blessings of its Mana.	
+mev08_090.scr:18	mev08_090.scr	18	ジェイド	Jade Curtiss	personagem	CRLF x1	よって、世界樹が世界創造の礎である事も\n何となく容認されてはいますが…	Thus the World Tree being creation's\ncornerstone is passively accepted, but...	
+mev08_090.scr:19	mev08_090.scr	19	ジェイド	Jade Curtiss	personagem	CRLF x2	しかし、\n「本来生まれるはずだった世界」とは\n一体何を表しているというのか…	Still, just what could this\n"world that was meant to be born"\npossibly refer to...?	
+mev08_090.scr:20	mev08_090.scr	20	アンジュ	Ange Serena	personagem	CRLF x1	世界の始まりについては、\nやはり精霊に聞くべきよね	Regarding the origin of the world,\nwe should ask the spirits after all.	
+mev08_090.scr:21	mev08_090.scr	21	アンジュ	Ange Serena	personagem	CRLF x2	教会でも、精霊はヒトよりも古い存在と\n伝えているもの。\nきっと、何か知っているはず	Even the Church teaches that spirits\npredate humanity. They are certain\nto know something.	
+mev08_090.scr:22	mev08_090.scr	22	キール	Keele Zeibel	personagem		アンジュ、その件だが	Ange, regarding that matter.	
+mev08_090.scr:23	mev08_090.scr	23	キール	Keele Zeibel	personagem	CRLF x2	精霊のいる場所が特定出来た。\nあとは、この船を安全に着陸させる\n場所を探すだけだ	I located where the spirit is.\nAll that remains is finding a safe place\nto land this ship.	
+mev08_090.scr:24	mev08_090.scr	24	アンジュ	Ange Serena	personagem	CRLF x1	ありがとう、キール君。\nそれじゃあ、もうすぐ精霊に会えるのね	Thank you, Keele.\nThen we will meet the spirit soon!	
+mev08_090.scr:25	mev08_090.scr	25	(opcao do jogador)	(opcao do jogador)	escolha		自分に力がなかった、と言う	Say you were powerless	
+mev08_090.scr:26	mev08_090.scr	26	(opcao do jogador)	(opcao do jogador)	escolha		悲観的になっても仕方がない、と言う	Say there's no use being pessimistic	
+mev08_090.scr:27	mev08_090.scr	27	(mensagem de sistema)	(mensagem de sistema)	sistema		優先行動（中級者編）が使えるようになりました！	Priority Actions (Intermediate) unlocked!	
+mev08_100.scr:0	mev08_100.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	○○、あのね。\nあなたの力なんだけど。\n研究室のみんなに話したの	○○, you see...\nI spoke with everyone in the lab\nabout that power of yours.	
+mev08_100.scr:1	mev08_100.scr	1	リタ	Rita Mordio	personagem	CRLF x2	変化した生物を元に戻すなんて、\nまるでソウルアルケミーの術を\n持ってる様ね	Restoring mutated creatures to normal...\nIt's as if you possess\nthe art of Soul Alchemy.	
+mev08_100.scr:2	mev08_100.scr	2	リタ	Rita Mordio	personagem	CRLF x1	あんたの記憶が戻りさえすれば、\n真実がわかるのにね	If only your memories would return,\nwe'd know the truth.	
+mev08_100.scr:3	mev08_100.scr	3	リタ	Rita Mordio	personagem	CRLF x2	あんた、記憶を失う前は、\nとんでもない知識を独占してきた術者\nだったんじゃないの？	Before losing your memory, weren't you\nsome mage who monopolized an absurd\namount of knowledge?	
+mev08_100.scr:4	mev08_100.scr	4	ハロルド	Harold Berselius	personagem	CRLF x1	○○の記憶の\nドクメントを見たらわかるかもよ〜♪	Maybe we'd find out if we examine\nthe Document of ○○'s memories!	
+mev08_100.scr:5	mev08_100.scr	5	リタ	Rita Mordio	personagem	CRLF x1	あんた、わかって言ってんでしょ！\nそんな事したら死ぬわよ！	You know what you're saying! If you\ndid that, they'd die!	
+mev08_100.scr:6	mev08_100.scr	6	リタ	Rita Mordio	personagem	CRLF x1	相当細かく展開しなきゃなんないんだもの。\n肉体の負担だって相当なものだわ！	You'd have to unfold it in minute detail!\nThe physical toll would be immense!	
+mev08_100.scr:7	mev08_100.scr	7	ハロルド	Harold Berselius	personagem	CRLF x2	デハハ！\n冗談に決まってるでしょ★\n現実的じゃないもの	Dahaha!\nOf course it's a joke!\nIt's completely impractical, after all!	
+mev08_100.scr:8	mev08_100.scr	8	(opcao do jogador)	(opcao do jogador)	escolha		そんな力は知らない、と言う	Say you know of no such power	
+mev08_100.scr:9	mev08_100.scr	9	(opcao do jogador)	(opcao do jogador)	escolha		自分でもよくわからない、と言う	Say you aren't sure yourself	
+mev08_110.scr:0	mev08_110.scr	0	(narracao)	(narracao)	narracao		一方その頃…	Meanwhile...	
+mev08_110.scr:1	mev08_110.scr	1	ラザリス	Lazaris	personagem	CRLF x1	ヒトは、\nどれだけのものを欲しがるんだ	Just how much\ndo humans desire...?	
+mev08_110.scr:2	mev08_110.scr	2	ラザリス	Lazaris	personagem	CRLF x1	動物や植物や虫達は、\nただ生きたいとしか願わなかったのに	Animals, plants, and insects only ever\nwished to simply live.	
+mev08_110.scr:3	mev08_110.scr	3	ラザリス	Lazaris	personagem	CRLF x2	ヒトが一番、世界を食いつぶしてる。\nこの世界は、このままヒトの手に\nよって死んでいく	Humans devour the world the most.\nAt this rate, this world will die\nby the hands of humans.	
+mev08_110.scr:4	mev08_110.scr	4	ラザリス	Lazaris	personagem	CRLF x2	僕が生みたくても、生めなかった世界。\n僕が世界を造ったら、\nきっとこうではなかったろう	The world I wished to give birth to,\nyet never could... If I had made it,\nsurely it would not have been like this.	
+mev08_110.scr:5	mev08_110.scr	5	ラザリス	Lazaris	personagem		ううん、こんな世界にはしなかった…	No, I would not have made such a world...	
+mev08_120.scr:0	mev08_120.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ねえ、○○。\nロックスがおやつを作ってくれてるよ	Hey, ○○.\nRocks made us some snacks!	
+mev08_120.scr:1	mev08_120.scr	1	カノンノ	Kanonno Grassvalley	personagem		食堂に食べに来て欲しいんだって	He wants you to come to the mess hall!	
+mev08_120.scr:2	mev08_120.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん。\nじゃあ、ロックスにそう伝えるね	Okay.\nI'll go let Rocks know!	
+mev08_120.scr:3	mev08_120.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	うん。\n今日のおやつは、チョコケーキだよ。\nじゃあ、お茶を用意しておくね	Yay!\nToday's snack is chocolate cake.\nI'll have some tea ready for you!	
+mev08_120.scr:4	mev08_120.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	○○、\n行ってらっしゃい。\n早くしないと、誰かに取られちゃうよ！	Run along, ○○.\nIf you don't hurry,\nsomeone else will snatch it up!	
+mev08_120.scr:5	mev08_120.scr	5	(opcao do jogador)	(opcao do jogador)	escolha		すぐ行く、と言う	Say you'll go right away	
+mev08_120.scr:6	mev08_120.scr	6	(opcao do jogador)	(opcao do jogador)	escolha		ありがとう、と言う	Say thank you	
+mev08_130.scr:0	mev08_130.scr	0	ロックス	Rocks	personagem	CRLF x1	さあ、おやつですよ。\nお茶はミルクティーを用意しますね	Here is your snack.\nI prepared milk tea to go with it.	
+mev08_130.scr:1	mev08_130.scr	1	ロックス	Rocks	personagem	CRLF x1	はい、どうぞ。\n召し上がって下さい	Here you are.\nPlease, help yourself.	
+mev08_130.scr:2	mev08_130.scr	2	ロックス	Rocks	personagem	CRLF x1	あっ、いけませんよ。\nちゃんと、いただきますを言わなくては	Ah, that will not do!\nYou must give proper thanks for the meal!	
+mev08_130.scr:3	mev08_130.scr	3	ロックス	Rocks	personagem	CRLF x1	いただきますは、\n食べ物へのご挨拶なんですから！	Giving thanks is a greeting\nto your food, after all!	
+mev08_130.scr:4	mev08_130.scr	4	ロックス	Rocks	personagem	CRLF x1	食べ物はですね、自分の命になってくれる\n身体への大事なお客様なんです	Food, you see, is a precious guest\nthat becomes part of your very life.	
+mev08_130.scr:5	mev08_130.scr	5	ロックス	Rocks	personagem	CRLF x1	だから、いただきますと言うのは\n大事な事なんですよ	That is why giving thanks for meals\nis so terribly important.	
+mev08_130.scr:6	mev08_130.scr	6	カノンノ	Kanonno Grassvalley	personagem		ごちそうさま	Thank you for the feast!	
+mev08_130.scr:7	mev08_130.scr	7	ロックス	Rocks	personagem	CRLF x1	そう。\nごちそうさま、もですよ	Precisely.\nSaying thanks after meals as well!	
+mev08_130.scr:8	mev08_130.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ねえ、○○。\n何か、少し思い出せた事ってある？	Say, ○○.\nDid you manage to remember anything?	
+mev08_130.scr:9	mev08_130.scr	9	カノンノ	Kanonno Grassvalley	personagem		そう…	I see...	
+mev08_130.scr:10	mev08_130.scr	10	カノンノ	Kanonno Grassvalley	personagem		でも、いつかきっと思い出せるよ	Still, I'm sure you will someday!	
+mev08_130.scr:11	mev08_130.scr	11	カノンノ	Kanonno Grassvalley	personagem		そう、まだ記憶は戻らないの	So your memories haven't returned yet.	
+mev08_130.scr:12	mev08_130.scr	12	カノンノ	Kanonno Grassvalley	personagem		私も、何か力になれたらな…	I wish I could help somehow, too...	
+mev08_130.scr:13	mev08_130.scr	13	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	そうだ。\nまた絵を描いたんだ。\n見に来てくれる？	Oh, I know!\nI drew another picture.\nWill you come take a look?	
+mev08_130.scr:14	mev08_130.scr	14	カノンノ	Kanonno Grassvalley	personagem		何かきっかけになるかもしれないし	It might jog your memory, after all!	
+mev08_130.scr:15	mev08_130.scr	15	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	それに、私に出来る事って\nこんな事しかないから…	Besides, something like this is really\nall that I can do to help...	
+mev08_130.scr:16	mev08_130.scr	16	カノンノ	Kanonno Grassvalley	personagem		それじゃあ、待ってるね	Alright, I'll be waiting for you!	
+mev08_130.scr:17	mev08_130.scr	17	ロックス	Rocks	personagem	CRLF x1	彼女、絵を見てくれるあなたの事を\nすっかり気に入ってるみたいですね	She seems quite fond of you\nfor taking the time to view her art.	
+mev08_130.scr:18	mev08_130.scr	18	ロックス	Rocks	personagem	CRLF x1	旦那様と奥様がいたら、\nあんな風に絵を見せていたのかな…	Had the master and mistress been here,\nshe might have shown her art to them...	
+mev08_130.scr:19	mev08_130.scr	19	ロックス	Rocks	personagem	CRLF x1	彼女のご両親、…旦那様と奥様は\nお亡くなりになられているんです	Her parents... the master and mistress,\nhave long since passed away.	
+mev08_130.scr:20	mev08_130.scr	20	ロックス	Rocks	personagem	CRLF x2	二人とも、腕の立つ医者でしたので\n従軍医として、国から戦場へと連れて行かれ…、\n殉職しました	Both were exceedingly skilled doctors,\nso the state conscripted them as combat\nsurgeons... and they died in action.	
+mev08_130.scr:21	mev08_130.scr	21	ロックス	Rocks	personagem	CRLF x2	まだ、お嬢様が生まれてほんのひと月の事…。\n召集がかかり、二人は強引に連れて\n行かれました	It was barely a month after Milady's\nbirth... The draft notice arrived, and\nthey were forcibly taken away.	
+mev08_130.scr:22	mev08_130.scr	22	ロックス	Rocks	personagem	CRLF x2	…戦争の原因ですか？\nお察しの通りです。\n星晶を巡っての戦争でした…	...The cause of the war?\nIt was just as you might imagine.\nA war fought over the Star Crystals...	
+mev08_130.scr:23	mev08_130.scr	23	ロックス	Rocks	personagem	CRLF x1	僕は当時、お嬢様のご両親に使用人として\n雇われていました	Back then, I was employed as a servant\nby Milady's parents.	
+mev08_130.scr:24	mev08_130.scr	24	ロックス	Rocks	personagem	CRLF x1	そして残されたお嬢様を預かり、\n二人の無事を祈りながら育てていたんです	Entrusted with the young mistress,\nI raised her while praying for them.	
+mev08_130.scr:25	mev08_130.scr	25	ロックス	Rocks	personagem	CRLF x2	でも、やがて二人の死を国から伝えられ…、\n戦火は住んでいる村にまで及び、\n僕は幼いお嬢様を連れて旅立ちました	Yet eventually the state notified me\nof their deaths... Flames of war reached\nour village, and I fled with Milady.	
+mev08_130.scr:26	mev08_130.scr	26	ロックス	Rocks	personagem	CRLF x2	仕えていた旦那様と奥様の大事な娘。\n彼女は僕にとって、とても大切な…そして、\n新しい主人でもあったんです	The precious child of my late masters.\nTo me, she was dearly cherished... and\nshe had become my new mistress.	
+mev08_130.scr:27	mev08_130.scr	27	ロックス	Rocks	personagem	CRLF x1	責任をもって、\n立派な淑女に育てるって決めたんです	I resolved to take full responsibility\nand raise her into a fine lady.	
+mev08_130.scr:28	mev08_130.scr	28	ロックス	Rocks	personagem		色々お嬢様には辛い思いをさせました	I put Milady through many hardships.	
+mev08_130.scr:29	mev08_130.scr	29	ロックス	Rocks	personagem	CRLF x2	でも、行き着いたアンジュ様の教会で\nお世話になる事が出来て、この船に乗る事も\n出来て	Yet Lady Ange took us in at her church,\nand we were even able to board\nthis wonderful ship.	
+mev08_130.scr:30	mev08_130.scr	30	ロックス	Rocks	personagem	CRLF x1	何とか健やかに育ってくれてます。\n僕も、お嬢様を育てる事で救われていますし	She has grown up healthy and bright.\nRaising her has been my salvation, too.	
+mev08_130.scr:31	mev08_130.scr	31	ロックス	Rocks	personagem	CRLF x1	どうか、仲良くしてあげて下さいね。\nカノンノお嬢様と…	Please, continue to be a good friend\nto Lady Kanonno...	
+mev08_130.scr:32	mev08_130.scr	32	(opcao do jogador)	(opcao do jogador)	escolha		いただきます、と言う	Say "Thanks for the food"	
+mev08_130.scr:33	mev08_130.scr	33	(opcao do jogador)	(opcao do jogador)	escolha		がっつく	Dig in eagerly	
+mev08_130.scr:34	mev08_130.scr	34	(opcao do jogador)	(opcao do jogador)	escolha		首をかしげる	Tilt your head in confusion	
+mev08_130.scr:35	mev08_130.scr	35	(opcao do jogador)	(opcao do jogador)	escolha		黙って話を聞く	Listen quietly	
+mev08_130.scr:36	mev08_130.scr	36	(opcao do jogador)	(opcao do jogador)	escolha		首を横に振る	Shake your head	
+mev08_130.scr:37	mev08_130.scr	37	(opcao do jogador)	(opcao do jogador)	escolha		黙る	Remain silent	
+mev08_130.scr:38	mev08_130.scr	38	(opcao do jogador)	(opcao do jogador)	escolha		カノンノの両親について聞く	Ask about Kanonno's parents	
+mev08_130.scr:39	mev08_130.scr	39	(opcao do jogador)	(opcao do jogador)	escolha		親代わりをしてるのはなぜか、と聞く	Ask why he acts as her parent	
+mev08_140.scr:0	mev08_140.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あ、○○。\n来てくれたのね	Ah, ○○.\nYou came after all!	
+mev08_140.scr:1	mev08_140.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	どうかな、この風景。\n何か思い出せるかなぁ…	What do you think of this scenery?\nDoes it bring anything back...?	
+mev08_140.scr:2	mev08_140.scr	2	カノンノ	Kanonno Grassvalley	personagem		そっかぁ…	I see...	
+mev08_140.scr:3	mev08_140.scr	3	カノンノ	Kanonno Grassvalley	personagem		ん…、わかった	Yeah... I understand.	
+mev08_140.scr:4	mev08_140.scr	4	カノンノ	Kanonno Grassvalley	personagem		力になれると思ったけど…	I thought I could be of help, but...	
+mev08_140.scr:5	mev08_140.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ごめん。\n何も出来なかったね…	I'm sorry.\nI couldn't do anything for you...	
+mev08_140.scr:6	mev08_140.scr	6	カノンノ	Kanonno Grassvalley	personagem		あ…	Ah...	
+mev08_140.scr:7	mev08_140.scr	7	カノンノ	Kanonno Grassvalley	personagem		ほんとに…ごめんね	I'm really... sorry.	
+mev08_140.scr:8	mev08_140.scr	8	カノンノ	Kanonno Grassvalley	personagem		あ…	Ah...	
+mev08_140.scr:9	mev08_140.scr	9	カノンノ	Kanonno Grassvalley	personagem		ありがとう…	Thank you...	
+mev08_140.scr:10	mev08_140.scr	10	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	何だか今の顔…。\nお父さんとお母さんみたい…	That look on your face just now...\nIt felt just like a parent's...	
+mev08_140.scr:11	mev08_140.scr	11	カノンノ	Kanonno Grassvalley	personagem		ロックスから…、聞いたんだね	You heard... from Rocks, didn't you?	
+mev08_140.scr:12	mev08_140.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	でも、実際は、\nお父さんやお母さんの事なんて、\n何一つ覚えてないんだけどね…	Truth is, though...\nI don't remember a single thing\nabout my father or my mother...	
+mev08_140.scr:13	mev08_140.scr	13	カノンノ	Kanonno Grassvalley	personagem		お父さんもお母さんも、立派な医者で…	Mom and Dad were wonderful doctors...	
+mev08_140.scr:14	mev08_140.scr	14	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	でも、私が生まれてすぐに、戦争で\n死んでしまったって。\nロックスに、そう聞いたんだ	Yet shortly after I was born, they\nwere killed in the war.\nThat's what Rocks told me.	
+mev08_140.scr:15	mev08_140.scr	15	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	お父さんの事もお母さんの事も\n何も知らないけれど	I know nothing about my father\nor my mother, but...	
+mev08_140.scr:16	mev08_140.scr	16	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	○○のさっきの顔を見たら、\nこんな風に笑ってくれてたのかなって\n思ったの	Seeing ○○'s expression just now,\nI wondered if they might have smiled\nat me just like that.	
+mev08_140.scr:17	mev08_140.scr	17	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	寂しい時もあるけど、\nロックスがいるから平気だよ	Sometimes I feel lonely, but having\nRocks around makes it all right.	
+mev08_140.scr:18	mev08_140.scr	18	カノンノ	Kanonno Grassvalley	personagem		ロックスも、よく笑ってくれる	Rocks smiles a lot for me, too.	
+mev08_140.scr:19	mev08_140.scr	19	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	へへ。\n何か嬉しいよ、○○	Heheh.\nI feel so happy somehow, ○○.	
+mev08_140.scr:20	mev08_140.scr	20	カノンノ	Kanonno Grassvalley	personagem		ありがと…	Thanks...	
+mev08_140.scr:21	mev08_140.scr	21	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	また、何か風景が見えたら描くよ。\n出来たら、見てね	If I picture another landscape, I'll\npaint it. Please look when it's done!	
+mev08_140.scr:22	mev08_140.scr	22	カノンノ	Kanonno Grassvalley	personagem		絶対だよ	Promise me, okay?	
+mev08_140.scr:23	mev08_140.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		覚えがない、と言う	Say you don't remember	
+mev08_140.scr:24	mev08_140.scr	24	(opcao do jogador)	(opcao do jogador)	escolha		首を横に振る	Shake your head	
+mev08_140.scr:25	mev08_140.scr	25	(opcao do jogador)	(opcao do jogador)	escolha		微笑んでみせる	Offer a smile	
+mev08_140.scr:26	mev08_140.scr	26	(opcao do jogador)	(opcao do jogador)	escolha		頭をなでる	Pat her head	
+mev08_140.scr:27	mev08_140.scr	27	(opcao do jogador)	(opcao do jogador)	escolha		両親は知らないはず、と言う	Say you shouldn't know her parents	
+mev08_140.scr:28	mev08_140.scr	28	(opcao do jogador)	(opcao do jogador)	escolha		黙っている	Stay silent	
+mev08_140.scr:29	mev08_140.scr	29	(opcao do jogador)	(opcao do jogador)	escolha		寂しくはないか、と尋ねる	Ask if she is lonely	
+mev08_140.scr:30	mev08_140.scr	30	(opcao do jogador)	(opcao do jogador)	escolha		微笑む	Smile	
+mev08_150.scr:0	mev08_150.scr	0	ジェイド	Jade Curtiss	personagem	CRLF x1	いやあ、助かります。\n彼らの様な荷物を引き取って下さって	My, what a tremendous help.\nTaking in such burdensome baggage.	
+mev08_150.scr:1	mev08_150.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	いいえ。\nあの方々がこの船で辛抱して下されば\nいいのだけど	Not at all.\nThough I only hope they can put up with\nlife aboard this ship.	
+mev08_150.scr:2	mev08_150.scr	2	ジェイド	Jade Curtiss	personagem	CRLF x1	そう言って、しっかり働かせる\nおつもりでしょう？	You say that, yet you fully intend\nto work them to the bone, do you not?	
+mev08_150.scr:3	mev08_150.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	あら、そうは言っていないでしょ。\nただ、お部屋代は頂きますけどね	My, I said no such thing.\nThough I shall certainly charge rent!	
+mev08_150.scr:4	mev08_150.scr	4	アンジュ	Ange Serena	personagem		ジェイドさんの仲間よ	They are comrades of Jade.	
+mev08_150.scr:5	mev08_150.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	まあね。\nでも、正式に入るかどうかの話は\nこれからなの	Indeed.\nThough whether they officially join\nis a discussion yet to be had.	
+mev08_150.scr:6	mev08_150.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	今から挨拶に行くから、\nあなたも部屋にいらっしゃい	I am going to greet them now,\nso come along to the room.	
+mev08_150.scr:7	mev08_150.scr	7	(opcao do jogador)	(opcao do jogador)	escolha		あの方々とは、と尋ねる	Ask who those people are	
+mev08_150.scr:8	mev08_150.scr	8	(opcao do jogador)	(opcao do jogador)	escolha		新しいメンバーが来たのか、と尋ねる	Ask if new members have arrived	
+mev08_160.scr:0	mev08_160.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	ようこそ。\n自由のギルド、アドリビトムへ	Welcome.\nTo the free guild, Ad Libitum!	
+mev08_160.scr:1	mev08_160.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	わたしはリーダーを務めるアンジュ・セレーナ。\nライマ国の方々、\nまずは、ごゆっくりおくつろぎ下さい	I am the leader, Ange Serena.\nHonored guests from the Kingdom of Lima,\nplease make yourselves at home.	
+mev08_160.scr:2	mev08_160.scr	2	ヴァン	Van Grants	personagem		心遣い、痛み入る	We are grateful for your hospitality.	
+mev08_160.scr:3	mev08_160.scr	3	ヴァン	Van Grants	personagem	CRLF x2	私は、ヴァン・グランツ。\nライマ国に属し、この二人に\n剣を教えている	I am Van Grants.\nIn service to the Kingdom of Lima,\nI instruct these two in swordsmanship.	
+mev08_160.scr:4	mev08_160.scr	4	アッシュ	Asch	personagem		アッシュだ…	I'm Asch...	
+mev08_160.scr:5	mev08_160.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x1	俺はルーク。\nルーク・フォン・ファブレ	I'm Luke.\nLuke fon Fabre!	
+mev08_160.scr:6	mev08_160.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x2	やれやれ。\n二人とも、剣の腕はともかく、礼儀の方は\n別の教師を付ける必要がありますね	Good grief.\nTheir swordplay aside, they clearly need\na different tutor for their manners.	
+mev08_160.scr:7	mev08_160.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	ここで働いて下さるなら、\nわたしが教えて差し上げますけど？	If they are willing to work here,\nI would gladly teach them, you know?	
+mev08_160.scr:8	mev08_160.scr	8	ルーク	Luke fon Fabre	personagem	CRLF x2	はあ？　何言ってんだ。\n俺は、ここで働かせてくれなんて\n頼んでねーぞ	Huh?! What are you talking about?\nI never asked to work in a dump\nlike this!	
+mev08_160.scr:9	mev08_160.scr	9	ヴァン	Van Grants	personagem	CRLF x2	だが、今ライマ国は動乱の最中だ。\n王位継承者であるお前達を\n連れて戻るわけにはいかん	Yet the Kingdom of Lima is in turmoil.\nI cannot bring the heirs to the throne\nback with me under such circumstances.	
+mev08_160.scr:10	mev08_160.scr	10	アンジュ	Ange Serena	personagem		まあ、王位継承者なのですか…	My, heirs to the throne, are they...?	
+mev08_160.scr:11	mev08_160.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	そう言えば、お顔がそっくりだけれど、\n双子…なのかしら？	Come to think of it, you look alike.\nAre you... twins?	
+mev08_160.scr:12	mev08_160.scr	12	ジェイド	Jade Curtiss	personagem	CRLF x1	ええ。\n二人は、ファブレ公爵家の子息	Indeed.\nSons of the Duke Fabre household.	
+mev08_160.scr:13	mev08_160.scr	13	ジェイド	Jade Curtiss	personagem	CRLF x1	ルークが兄で第一継承者。\nアッシュが弟で第二継承者になります	Luke is the elder and first in line,\nwhile Asch is younger and second.	
+mev08_160.scr:14	mev08_160.scr	14	ジェイド	Jade Curtiss	personagem	CRLF x2	彼らはヴァンの指導の下にて、王族にのみ\n伝えられるアルバート流の剣術を授かる為に、\n修行の旅に出ていたのです	Under Van's tutelage, they set out\non a training journey to master the\nAlbert style of royal swordsmanship.	
+mev08_160.scr:15	mev08_160.scr	15	ジェイド	Jade Curtiss	personagem	CRLF x1	アンジュには既に話しましたが、\nしばらくライマには戻れませんし	As I already informed Ange, they cannot\nreturn to Lima for some time.	
+mev08_160.scr:16	mev08_160.scr	16	ジェイド	Jade Curtiss	personagem	CRLF x1	ここで修行の延長として働くのも、\n悪くないかと思いましてね	I thought working here as an extension\nof their training wouldn't be half bad.	
+mev08_160.scr:17	mev08_160.scr	17	ジェイド	Jade Curtiss	personagem	CRLF x1	そういうわけで、あなた方をこの船に\n呼んだのですよ	And that is precisely why\nI summoned you to this vessel.	
+mev08_160.scr:18	mev08_160.scr	18	アンジュ	Ange Serena	personagem	CRLF x1	それじゃあ、事情がわかったところで\n意思確認をさせてもらおうかな	Now that we understand the situation,\nallow me to confirm your intentions.	
+mev08_160.scr:19	mev08_160.scr	19	アンジュ	Ange Serena	personagem	CRLF x1	あなた方、\nアドリビトムで働く気はあるかしら？	Would you gentlemen be willing\nto work for Ad Libitum?	
+mev08_160.scr:20	mev08_160.scr	20	アッシュ	Asch	personagem	CRLF x1	ちっ…。\n他に選択肢はないんだろう？	Tch...\nNot like we have much of a choice.	
+mev08_160.scr:21	mev08_160.scr	21	ルーク	Luke fon Fabre	personagem	CRLF x2	冗談じゃねえ。\n何で俺がそんな下々がやる様な仕事\nやんなきゃなんねーんだよ	You gotta be kidding me!\nWhy the hell should I do work\nfit only for commoners?!	
+mev08_160.scr:22	mev08_160.scr	22	アンジュ	Ange Serena	personagem	CRLF x1	あっ、そう。\nじゃあ、お引取り下さいな	Oh, is that so?\nThen please see yourself out.	
+mev08_160.scr:23	mev08_160.scr	23	アンジュ	Ange Serena	personagem		働かない人を養う程、ウチは楽じゃないの	We cannot afford to feed freeloaders.	
+mev08_160.scr:24	mev08_160.scr	24	ルーク	Luke fon Fabre	personagem		なっ…！！	Wh-What...?!!	
+mev08_160.scr:25	mev08_160.scr	25	ヴァン	Van Grants	personagem		ルーク、これも修行だ	Luke, this too is part of your training.	
+mev08_160.scr:26	mev08_160.scr	26	ヴァン	Van Grants	personagem	CRLF x1	王となるべき者、民衆がどの様な助けを\n欲しているのかを知るいい機会になるだろう	For one destined to rule, it is a fine\nchance to learn what aid the people need.	
+mev08_160.scr:27	mev08_160.scr	27	ルーク	Luke fon Fabre	personagem	CRLF x2	わーかったよ！\n師匠がそう言うんなら、修行として\n働いてやるよ	Fine, I get it!\nIf Master says so, I'll do it as\npart of my damn training!	
+mev08_160.scr:28	mev08_160.scr	28	アンジュ	Ange Serena	personagem	CRLF x2	ふふふ。\nそれじゃあ、あなた達をアドリビトムの\nメンバーとして迎えます	Fufufu.\nThen I gladly welcome you all\nas members of Ad Libitum.	
+mev08_160.scr:29	mev08_160.scr	29	アンジュ	Ange Serena	personagem		これからしっかり働いてちょうだいね！	Be sure to work hard from now on!	
+mev08_160.scr:30	mev08_160.scr	30	(mensagem de sistema)	(mensagem de sistema)	sistema		ルークがアドリビトムに加入しました	Luke has joined Ad Libitum.	
+mev08_160.scr:31	mev08_160.scr	31	(mensagem de sistema)	(mensagem de sistema)	sistema		アッシュがアドリビトムに加入しました	Asch has joined Ad Libitum.	
+mev08_160.scr:32	mev08_160.scr	32	(mensagem de sistema)	(mensagem de sistema)	sistema		ヴァンがアドリビトムに加入しました	Van has joined Ad Libitum.	
+mev08_170.scr:0	mev08_170.scr	0	チャット	Chat	personagem	CRLF x1	アンジュさん、霊峰アブソールでの\n着陸場所が見つかりましたよ	Ange, we found a landing spot\nat Mt. Absol!	Proposta de toponimo: 霊峰アブソール -> Mt. Absol (padrao Tales para 霊峰; raiz Absol por confirmar).
+mev08_170.scr:1	mev08_170.scr	1	アンジュ	Ange Serena	personagem		そう、いい場所があったのね	I see, so you found a good spot.	
+mev08_170.scr:2	mev08_170.scr	2	チャット	Chat	personagem	CRLF x1	指示があれば、\nすぐにでも船を降ろす事が出来ます	Whenever you give the word,\nwe can set the ship down right away.	
+mev08_170.scr:3	mev08_170.scr	3	アンジュ	Ange Serena	personagem		ありがとう	Thank you.	
+mev08_170.scr:4	mev08_170.scr	4	アンジュ	Ange Serena	personagem		これで、いよいよ精霊に会いに行けるのね	Now we can finally go meet the spirit.	
+mev08_170.scr:5	mev08_170.scr	5	アンジュ	Ange Serena	personagem		それじゃあ、早速依頼を出しておきましょう	Then let us put up the quest at once.	

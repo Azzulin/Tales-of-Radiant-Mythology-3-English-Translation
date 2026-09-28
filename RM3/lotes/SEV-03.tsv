@@ -1,0 +1,82 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+sev03_010.scr:0	sev03_010.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	ねえ、○○。\nこの黒い玉はなぁに？		
+sev03_010.scr:1	sev03_010.scr	1	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	他の人達の部屋にはないんだよ。\n何だろうね…		
+sev03_010.scr:2	sev03_010.scr	2	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	この部屋にだけあるんだよ。\n変じゃない？		
+sev03_010.scr:3	sev03_010.scr	3	カノンノ・イアハート	Kanonno Earhart	personagem		ニアタはわかる？		
+sev03_010.scr:4	sev03_010.scr	4	ニアタ	Niata Monad	personagem		ふむ……		
+sev03_010.scr:5	sev03_010.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	この玉から、\n何かの意思を感じるが…		
+sev03_010.scr:6	sev03_010.scr	6	カノンノ・イアハート	Kanonno Earhart	personagem		意思？		
+sev03_010.scr:7	sev03_010.scr	7	ニアタ	Niata Monad	personagem		これもソウルアルケミーか…？		
+sev03_010.scr:8	sev03_010.scr	8	ニアタ	Niata Monad	personagem	CRLF x1	どうやら、無機物に意思を\n入力したものの様だ		
+sev03_010.scr:9	sev03_010.scr	9	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	意思って、じゃあ、\nこの黒い玉は何かを言っているの？		
+sev03_010.scr:10	sev03_010.scr	10	ニアタ	Niata Monad	personagem		「戻りたい」と言っている様だ		
+sev03_010.scr:11	sev03_010.scr	11	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	どこなんだろう。\nニアタ、いつもの様に世界を覗いて\nわからないかな		
+sev03_010.scr:12	sev03_010.scr	12	ニアタ	Niata Monad	personagem		この玉の意思が望む地は……		
+sev03_010.scr:13	sev03_010.scr	13	ニアタ	Niata Monad	personagem		ルバーブ連山か		
+sev03_010.scr:14	sev03_010.scr	14	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	戻りたいって望んでいるなら\nそうしてあげたいな		
+sev03_010.scr:15	sev03_010.scr	15	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	よし！\nじゃあ、この事を依頼として届けるね！		
+sev03_010.scr:16	sev03_010.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		わからない、と言う		
+sev03_010.scr:17	sev03_010.scr	17	(opcao do jogador)	(opcao do jogador)	escolha		インテリアじゃないか、と言う		
+sev03_020.scr:0	sev03_020.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	このイアハートからの依頼、\nあなたが受けるのね		
+sev03_020.scr:1	sev03_020.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	何でも、戻りたがってる玉を\n送りに行くとか言ってるけれど…		
+sev03_020.scr:2	sev03_020.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	詳しい説明は…。\nニアタ、お願いしていいかな？		
+sev03_020.scr:3	sev03_020.scr	3	ニアタ	Niata Monad	personagem	CRLF x1	まず、イアハートと共に\nルバーブ連山山頂方面へ向かってくれ		
+sev03_020.scr:4	sev03_020.scr	4	ニアタ	Niata Monad	personagem		そこでやらなければならない事は、二つだ		
+sev03_020.scr:5	sev03_020.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	まず、あの黒い玉がはまる穴を探して欲しい。\nそこが、この黒い玉が戻りたい場所だそうだ		
+sev03_020.scr:6	sev03_020.scr	6	ニアタ	Niata Monad	personagem		そして、次に「白い三兄弟」を探す事だ		
+sev03_020.scr:7	sev03_020.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	白い三兄弟？\nそれは、何かしら		
+sev03_020.scr:8	sev03_020.scr	8	ニアタ	Niata Monad	personagem		この黒い玉に連なるものの様だが…		
+sev03_020.scr:9	sev03_020.scr	9	ニアタ	Niata Monad	personagem		いずれもルバーブ連山にいるらしい		
+sev03_020.scr:10	sev03_020.scr	10	アンジュ	Ange Serena	personagem	CRLF x1	でも、こんな黒い玉、\n今まで気にも止めなかったなあ		
+sev03_020.scr:11	sev03_020.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	ねえ、値打ちがあるものか\n鑑定してからにしない？		
+sev03_020.scr:12	sev03_020.scr	12	アンジュ	Ange Serena	personagem		ええ〜、もったいないなぁ…		
+sev03_020.scr:13	sev03_020.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	玉に恩を売るの？\n大した見返り、無さそうだな〜…		
+sev03_020.scr:14	sev03_020.scr	14	アンジュ	Ange Serena	personagem		まあ、いっか…		
+sev03_020.scr:15	sev03_020.scr	15	アンジュ	Ange Serena	personagem	CRLF x1	じゃあ、今のニアタの説明通り\nお仕事してきてね		
+sev03_020.scr:16	sev03_020.scr	16	アンジュ	Ange Serena	personagem		じゃ、行ってらっしゃい		
+sev03_020.scr:17	sev03_020.scr	17	(opcao do jogador)	(opcao do jogador)	escolha		断る		
+sev03_020.scr:18	sev03_020.scr	18	(opcao do jogador)	(opcao do jogador)	escolha		黒い玉が恩返ししてくれるかも、と言う		
+sev03_030.scr:0	sev03_030.scr	0	ニアタ	Niata Monad	personagem	CRLF x1	黒い玉の意思が強くなっている。\nやはり、この山で間違いはない様だ		
+sev03_030.scr:1	sev03_030.scr	1	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	でも、この黒い玉は\n何の為に創られたんだろう？		
+sev03_030.scr:2	sev03_030.scr	2	ニアタ	Niata Monad	personagem		それは、行けばわかるだろう		
+sev03_030.scr:3	sev03_030.scr	3	カノンノ・イアハート	Kanonno Earhart	personagem		うん、そうだね		
+sev03_030.scr:4	sev03_030.scr	4	カノンノ・イアハート	Kanonno Earhart	personagem		じゃあ、山頂への道を目指して行こう！		
+sev03_040.scr:0	sev03_040.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	ねえ、○○。\nこのへこんだ所、ちょうどあの玉が\n入るサイズみたいだよ		
+sev03_040.scr:1	sev03_040.scr	1	ニアタ	Niata Monad	personagem	CRLF x1	うむ、黒い玉もそこに収まる事を\n強く願っている		
+sev03_040.scr:2	sev03_040.scr	2	ニアタ	Niata Monad	personagem	CRLF x1	○○、\n黒い玉を置いてやってくれないか		
+sev03_040.scr:3	sev03_040.scr	3	カノンノ・イアハート	Kanonno Earhart	personagem		扉が開いたよ！		
+sev03_040.scr:4	sev03_040.scr	4	ニアタ	Niata Monad	personagem		……黒い玉の意思反応が消えた		
+sev03_040.scr:5	sev03_040.scr	5	ニアタ	Niata Monad	personagem	CRLF x2	恐らく、役目を終えたのだろう。\n鍵として、そしてここへの案内人としての\n役目を持たされて、生み出されたのだな		
+sev03_040.scr:6	sev03_040.scr	6	カノンノ・イアハート	Kanonno Earhart	personagem		でも誰が、何の為に？		
+sev03_040.scr:7	sev03_040.scr	7	ニアタ	Niata Monad	personagem		真実はわからぬ		
+sev03_040.scr:8	sev03_040.scr	8	ニアタ	Niata Monad	personagem	CRLF x2	だが、モノや場に刻まれた思念を\n読み取る能力を持った者ならば、\n黒い玉の意思に感応出来ただろう		
+sev03_040.scr:9	sev03_040.scr	9	ニアタ	Niata Monad	personagem	CRLF x2	もしかするならば、この先に\n特別な価値のあるものが\n隠されているのかもしれん		
+sev03_040.scr:10	sev03_040.scr	10	ニアタ	Niata Monad	personagem	CRLF x2	何らかの術者が、それを手にするに相応しい\n能力を持った者の為に、案内人、鍵として\n作ったのだと我々は思うのだが…		
+sev03_040.scr:11	sev03_040.scr	11	カノンノ・イアハート	Kanonno Earhart	personagem		へぇぇ…、何があるんだろう		
+sev03_040.scr:12	sev03_040.scr	12	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	そういえば、白い三兄弟を探せって\n言ってたね。\nそれが「価値のあるもの」なのかな？		
+sev03_040.scr:13	sev03_040.scr	13	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	じゃあ、次はこの先を進んで\n白い三兄弟を探そう！！		
+sev03_050.scr:0	sev03_050.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem		ここで行き止まりみたいだね		
+sev03_050.scr:1	sev03_050.scr	1	ニアタ	Niata Monad	personagem		あるのは宝箱が三つか…		
+sev03_060.scr:0	sev03_060.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem		どれも、白い玉だね		
+sev03_060.scr:1	sev03_060.scr	1	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	ひょっとして、\nこれが白い三兄弟なのかな？		
+sev03_060.scr:2	sev03_060.scr	2	カノンノ・イアハート	Kanonno Earhart	personagem		ニアタ、何か感じる？		
+sev03_060.scr:3	sev03_060.scr	3	ニアタ	Niata Monad	personagem	CRLF x1	○○を\n気に入っている様だ		
+sev03_060.scr:4	sev03_060.scr	4	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	○○が、\n黒い玉を置いたからかな？		
+sev03_060.scr:5	sev03_060.scr	5	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	この白い玉も、どこか行きたい場所が\nあるのかもしれないね		
+sev03_060.scr:6	sev03_060.scr	6	ニアタ	Niata Monad	personagem	CRLF x1	とりあえず黒い玉に関しては\n解決だな		
+sev03_060.scr:7	sev03_060.scr	7	ニアタ	Niata Monad	personagem		では、戻ろうか		
+sev03_060.scr:8	sev03_060.scr	8	カノンノ・イアハート	Kanonno Earhart	personagem		うん		
+sev03_060.scr:9	sev03_060.scr	9	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	○○、\n力を貸してくれてありがとう		
+sev03_060.scr:10	sev03_060.scr	10	カノンノ・イアハート	Kanonno Earhart	personagem		さあ、船へ帰ろっ！		
+sev03_070.scr:0	sev03_070.scr	0	アンジュ	Ange Serena	personagem		お疲れ様		
+sev03_070.scr:1	sev03_070.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	それにしても、黒い玉が白い玉三つに\nなるなんてね		
+sev03_070.scr:2	sev03_070.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	ひょっとして、今回の様な事を\n繰り返していたら、どんどん玉が\n増えていったりしないかしら？		
+sev03_070.scr:3	sev03_070.scr	3	カノンノ・イアハート	Kanonno Earhart	personagem		うーん、どうなんだろう		
+sev03_070.scr:4	sev03_070.scr	4	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	でも、この白い玉は、それぞれに\n行きたい所があるみたい		
+sev03_070.scr:5	sev03_070.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	しかし、白い玉にある意思が\n弱い様だ		
+sev03_070.scr:6	sev03_070.scr	6	ニアタ	Niata Monad	personagem		場所については語ってくれぬな		
+sev03_070.scr:7	sev03_070.scr	7	ニアタ	Niata Monad	personagem	CRLF x1	これらの玉は、どうも○○を\n気に入っている様だ		
+sev03_070.scr:8	sev03_070.scr	8	ニアタ	Niata Monad	personagem	CRLF x1	ならば、このまま○○が\n持っているのが良いだろう		
+sev03_070.scr:9	sev03_070.scr	9	カノンノ・イアハート	Kanonno Earhart	personagem		うん、それがいいのかも		
+sev03_070.scr:10	sev03_070.scr	10	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	また、黒い玉を置いた様な所が\nあるかもしれないし		
+sev03_070.scr:11	sev03_070.scr	11	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	じゃあ、白い玉はあなたが持っていてね。\n今日は、付き合ってくれてありがとう。\n嬉しかったよ！		

@@ -1,0 +1,215 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev45_010.scr:0	qev45_010.scr	0	ポッポ	Poppo	personagem		「黄金の鎚」って知ってるキュ？	Do you know of the Golden Hammer, kyu?	
+qev45_010.scr:1	qev45_010.scr	1	ポッポ	Poppo	personagem	CRLF x1	そのアイテムがあれば、\n装備品の強化が出来るんだキュ！	If you have that item,\nwe can reinforce your equipment, kyu!	
+qev45_010.scr:2	qev45_010.scr	2	ポッポ	Poppo	personagem	CRLF x1	強化をすれば、今以上に\n皆さんはもっと強くなれるキュ	If you reinforce it, everyone\nwill become even stronger than now, kyu!	
+qev45_010.scr:3	qev45_010.scr	3	ポッポ	Poppo	personagem	CRLF x1	間違いないキュ。\n大シャコ貝に入った気でいるキュ	There is no doubt about it, kyu.\nRest easy as if in a giant clam, kyu!	
+qev45_010.scr:4	qev45_010.scr	4	ポッポ	Poppo	personagem	CRLF x1	お願いだキュ！\n探しに行ってきて欲しいキュ！	Please, kyu!\nI want you to go search for it, kyu!	
+qev45_010.scr:5	qev45_010.scr	5	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「黄金の槌を探せ！」が\nエントリーされました。\nポッポから受ける事が出来ます	Quest 'Find the Golden Hammer!'\nhas been registered.\nYou can accept it from Poppo.	
+qev45_020.scr:0	qev45_020.scr	0	ポッポ	Poppo	personagem	CRLF x1	引き受けてくれるキュ？\n感謝するキュ！	You will take it on, kyu?\nThank you so much, kyu!	
+qev45_020.scr:1	qev45_020.scr	1	ポッポ	Poppo	personagem	CRLF x2	きっと見つけてくれると信じてるキュ。\nよろしくお願いするキュ！\n気を付けて行くキュ！	I believe you will surely find it, kyu.\nI am counting on you, kyu!\nBe careful out there, kyu!	
+qev45_060.scr:0	qev45_060.scr	0	ポッポ	Poppo	personagem	CRLF x2	感謝するキュ！\nこれで、さらなる強化が\n出来る様になったキュ！	Thank you so much, kyu!\nWith this, we can reinforce\nyour gear even further, kyu!	
+qev45_060.scr:1	qev45_060.scr	1	ポッポ	Poppo	personagem		勝利のダンス、開始だキュ！	Time for the victory dance, kyu!	
+qev45_060.scr:2	qev45_060.scr	2	ポッポ	Poppo	personagem	CRLF x2	キュ〜キュキュ〜キュ〜キュキュッキュ〜♪\nキュキュキュ♪　キュキュキュ♪\nキュキュキュッキュ！	Kyu~ kyukyu~ kyu~ kyukyukkyu~!\nKyukyukyu! Kyukyukyu!\nKyukyukyukkyu!	
+qev46_010.scr:0	qev46_010.scr	0	ポッポ	Poppo	personagem	CRLF x1	「灼熱のコークス」って\n聞いた事あるキュ？	Have you ever heard of\nthe Searing Coke, kyu?	
+qev46_010.scr:1	qev46_010.scr	1	ポッポ	Poppo	personagem	CRLF x2	前とは違うアイテムだキュ。\nもっと装備を強化したいなら、\nそれを探しに行ってきて欲しいキュ！	It is a different item from before, kyu.\nIf you want to reinforce your gear more,\nI want you to go search for it, kyu!	
+qev46_010.scr:2	qev46_010.scr	2	ポッポ	Poppo	personagem	CRLF x1	考えただけで、発明家の血が騒ぐキュ！\nそれくらい、役に立つアイテムなんだキュ！	Just thinking of it stirs my blood, kyu!\nThat is how useful an item it is, kyu!	
+qev46_010.scr:3	qev46_010.scr	3	ポッポ	Poppo	personagem		それじゃ、よろしくお願いするキュ〜！	Well then, I am counting on you, kyu~!	
+qev46_010.scr:4	qev46_010.scr	4	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「灼熱のコークスを探せ！」が\nエントリーされました。\nポッポから受ける事が出来ます	Quest 'Find the Searing Coke!'\nhas been registered.\nYou can accept it from Poppo.	
+qev46_020.scr:0	qev46_020.scr	0	ポッポ	Poppo	personagem	CRLF x1	行ってくれるキュ？\n感謝するキュ！	You will go for me, kyu?\nThank you so much, kyu!	
+qev46_020.scr:1	qev46_020.scr	1	ポッポ	Poppo	personagem	CRLF x1	皆さんの帰りをいつまでも待ってるキュ！\n気を付けて行ってくるキュ〜〜！	I will be waiting for your return, kyu!\nPlease be careful on your way, kyu~~!	
+qev46_060.scr:0	qev46_060.scr	0	ポッポ	Poppo	personagem	CRLF x2	お帰りキュ！\n無事、アイテムを持ってきてくれて\n嬉しいキュ	Welcome back, kyu!\nI am so glad you brought back\nthe item safely, kyu!	
+qev46_060.scr:1	qev46_060.scr	1	ポッポ	Poppo	personagem	CRLF x2	またまた、これで強化が出来るんだキュ！\nかっこいいキュ〜！\nキュキュ〜〜〜！！	Now we can reinforce things again, kyu!\nSo cool, kyu~!\nKyu-kyuuu~~!!	
+qev46_060.scr:2	qev46_060.scr	2	ポッポ	Poppo	personagem		勝利のダンス、開始だキュ！！	Time for the victory dance, kyu!!	
+qev46_060.scr:3	qev46_060.scr	3	ポッポ	Poppo	personagem	CRLF x2	キュ〜キュキュ〜キュ〜キュキュッキュ〜♪\nキュキュキュ♪　キュキュキュ♪\nキュキュキュッキュ！	Kyu~ kyukyu~ kyu~ kyukyukkyu~!\nKyukyukyu! Kyukyukyu!\nKyukyukyukkyu!	
+qev47_010.scr:0	qev47_010.scr	0	ポッポ	Poppo	personagem		「疾風のフイゴ」って見た事あるキュ？	Have you seen the Gale Bellows, kyu?	
+qev47_010.scr:1	qev47_010.scr	1	ポッポ	Poppo	personagem	CRLF x1	それがあれば、またまた\n装備を強化出来るんだキュ！	If we have that, we can reinforce\nyour equipment once again, kyu!	
+qev47_010.scr:2	qev47_010.scr	2	ポッポ	Poppo	personagem	CRLF x2	発明家の好奇心を刺激するキュ！\nぜひ、行ってきて欲しいキュ！\nお願いだキュ！	It sparks an inventor's curiosity, kyu!\nI really want you to go, kyu!\nPlease, kyu!	
+qev47_010.scr:3	qev47_010.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「疾風のフイゴを探せ！」が\nエントリーされました。\nポッポから受ける事が出来ます	Quest 'Find the Gale Bellows!'\nhas been registered.\nYou can accept it from Poppo.	
+qev47_020.scr:0	qev47_020.scr	0	ポッポ	Poppo	personagem		いつも協力、感謝するキュ！	Thanks as always for your help, kyu!	
+qev47_020.scr:1	qev47_020.scr	1	ポッポ	Poppo	personagem	CRLF x2	ポッポももっと頑張って\nもっともっと皆さんの装備を\n強くしてみせるキュ！	Poppo will work even harder, kyu!\nI will make everyone's equipment\nmuch, much stronger, kyu!	
+qev47_020.scr:2	qev47_020.scr	2	ポッポ	Poppo	personagem	CRLF x1	だから、頑張って見つけてくるキュ！\n気を付けて行ってきて欲しいキュ！	So do your best to find it, kyu!\nPlease be careful out there, kyu!	
+qev47_060.scr:0	qev47_060.scr	0	ポッポ	Poppo	personagem	CRLF x1	キュ〜！　これだキュ〜〜！！\nバッチリだキュ〜〜〜！！！	Kyu~! This is it, kyuuu~!!\nIt is absolutely perfect, kyuuu~!!!	
+qev47_060.scr:1	qev47_060.scr	1	ポッポ	Poppo	personagem	CRLF x2	これで、もっとすごい強化が\n出来る様になったキュ！\n勝利のダンス、開始だキュ！	Now we can do even more amazing\nreinforcements, kyu!\nTime for the victory dance, kyu!	
+qev47_060.scr:2	qev47_060.scr	2	ポッポ	Poppo	personagem	CRLF x2	キュ〜キュキュ〜キュ〜キュキュッキュ〜♪\nキュキュキュ♪　キュキュキュ♪\nキュキュキュッキュ！	Kyu~ kyukyu~ kyu~ kyukyukkyu~!\nKyukyukyu! Kyukyukyu!\nKyukyukyukkyu!	
+qev48_010.scr:0	qev48_010.scr	0	ポッポ	Poppo	personagem		「純潔の装束」って知ってるキュ？	Do you know of the Pure Vestments, kyu?	
+qev48_010.scr:1	qev48_010.scr	1	ポッポ	Poppo	personagem	CRLF x1	全ての発明家の憧れにして\nマニア垂涎の幻のアイテムなんだキュ	It is a dream for all inventors, kyu!\nA legendary item collectors drool over!	
+qev48_010.scr:2	qev48_010.scr	2	ポッポ	Poppo	personagem	CRLF x1	これで全てのアイテムが揃って\n最後の強化に挑戦出来るキュ！	With this, all items will be gathered,\nand we can try the final reinforcement!	
+qev48_010.scr:3	qev48_010.scr	3	ポッポ	Poppo	personagem	CRLF x1	幻というくらいだキュ、もしかしたら\n見つけるのはちょっと大変かもだキュ……	Since it is legendary, kyu, it might\nbe a bit tough to find it, kyu...	
+qev48_010.scr:4	qev48_010.scr	4	ポッポ	Poppo	personagem	CRLF x1	でも、皆さんを信じてるキュ！\n気を付けて、探しに行ってきて欲しいキュ！	But I believe in everyone, kyu!\nPlease be careful searching for it, kyu!	
+qev48_010.scr:5	qev48_010.scr	5	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「純潔の装束を探せ！」が\nエントリーされました。\nポッポから受ける事が出来ます	Quest 'Find the Pure Vestments!'\nhas been registered.\nYou can accept it from Poppo.	
+qev48_020.scr:0	qev48_020.scr	0	ポッポ	Poppo	personagem		そう言ってくれると思ったキュ！	I knew you would say that, kyu!	
+qev48_020.scr:1	qev48_020.scr	1	ポッポ	Poppo	personagem	CRLF x2	これで、本当に最後になるキュ！\n気を付けて行ってきて欲しいキュ！\n頑張るんだキュ〜〜！！	This will really be the last one, kyu!\nPlease be careful out there, kyu!\nDo your best, kyuuu~~!!	
+qev48_060.scr:0	qev48_060.scr	0	ポッポ	Poppo	personagem		キュ……	Kyu...	
+qev48_060.scr:1	qev48_060.scr	1	ポッポ	Poppo	personagem		キュキュ〜〜〜〜！！！	Kyu-kyuuuu~~~~!!!	
+qev48_060.scr:2	qev48_060.scr	2	ポッポ	Poppo	personagem	CRLF x1	す、すごいキュ〜〜！\nほんとに、感謝の気持ちで一杯だキュ！	A-Amazing, kyuuu~~!\nI am truly filled with gratitude, kyu!	
+qev48_060.scr:3	qev48_060.scr	3	ポッポ	Poppo	personagem	CRLF x2	これで、皆さんの装備を\n極限まで鍛える事が出来るキュ。\n強化をしたくなったら、いつでも来るキュ！	Now we can temper everyone's gear\nto the absolute limit, kyu.\nCome reinforce whenever you want, kyu!	
+qev48_060.scr:4	qev48_060.scr	4	ポッポ	Poppo	personagem		勝利のダンス、開始だキュ！	Time for the victory dance, kyu!	
+qev48_060.scr:5	qev48_060.scr	5	ポッポ	Poppo	personagem	CRLF x2	キュ〜キュキュ〜キュ〜キュキュッキュ〜♪\nキュキュキュ♪　キュキュキュ♪\nキュキュキュッキュ！	Kyu~ kyukyu~ kyu~ kyukyukkyu~!\nKyukyukyu! Kyukyukyu!\nKyukyukyukkyu!	
+qev49_010.scr:0	qev49_010.scr	0	コーダ	Coda	personagem		コーダはな、夢を見たんだぞ、しかし	Coda had a dream, you know, however!	
+qev49_010.scr:1	qev49_010.scr	1	コーダ	Coda	personagem	CRLF x2	その夢に出て来てくれた奴が\nコーダに幻のレシピを教えて\nくれたんだな	The fellow who appeared in that dream\ntaught Coda a legendary recipe,\nyou see!	
+qev49_010.scr:2	qev49_010.scr	2	コーダ	Coda	personagem	CRLF x1	アレがあれば、レシピ通りの\n新しい料理が出来るはずだぞ、しかし	With that, we can make a new dish\njust like the recipe says, however!	
+qev49_010.scr:3	qev49_010.scr	3	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev49_010.scr:4	qev49_010.scr	4	コーダ	Coda	personagem	CRLF x2	食べてみたいだろ、しかし。\nレシピも欲しいだろ、しかし。\nでも、アレが無いと出来ないんだな	You want to eat it, however!\nYou want the recipe too, however!\nBut we cannot make it without that.	
+qev49_010.scr:5	qev49_010.scr	5	コーダ	Coda	personagem	CRLF x1	いいから早く、誰かに取りに行って\n欲しいんだな、しかし	Never mind that, I want someone\nto go get it quickly, however!	
+qev49_010.scr:6	qev49_010.scr	6	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ１」が\nエントリーされました。\nコーダから受ける事が出来ます	Quest 'Coda's Recipe 1'\nhas been registered.\nYou can accept it from Coda.	
+qev49_020.scr:0	qev49_020.scr	0	コーダ	Coda	personagem	CRLF x1	やっぱり、\n行ってくれると思ったぞ、しかし	I knew it!\nI knew you would go, however!	
+qev49_020.scr:1	qev49_020.scr	1	コーダ	Coda	personagem	CRLF x2	コーダ、お腹すいてるぞ。\nしっかり取って来い。\n待ってるぞ、しかし	Coda is very hungry.\nBe sure to bring it back.\nI will be waiting, however!	
+qev49_060.scr:0	qev49_060.scr	0	コーダ	Coda	personagem	CRLF x1	やっぱり、あったか、しかし。\nコーダの夢は間違いなかったな	It really was there, however!\nCoda's dream was not wrong after all!	
+qev49_060.scr:1	qev49_060.scr	1	コーダ	Coda	personagem	CRLF x1	これで新しい料理が出来るぞ、しかし。\n待ちきれないんだな、しかし	Now we can make a new dish, however!\nI can hardly wait, however!	
+qev49_060.scr:2	qev49_060.scr	2	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev49_060.scr:3	qev49_060.scr	3	コーダ	Coda	personagem	CRLF x1	何でもいいから\nコーダにメシを作るんだぞ、しかし	Anything is fine, so make\nsome food for Coda, however!	
+qev49_060.scr:4	qev49_060.scr	4	コーダ	Coda	personagem	CRLF x1	このレシピはコーダのおかげで\n手に入ったんだからな	After all, this recipe was obtained\nall thanks to Coda, you know!	
+qev49_060.scr:5	qev49_060.scr	5	コーダ	Coda	personagem		ありがたく思って欲しいぞ、しかし	You should be grateful, however!	
+qev49_060.scr:6	qev49_060.scr	6	(mensagem de sistema)	(mensagem de sistema)	sistema		パイナップルご飯のレシピを覚えた！	Learned the recipe for Pineapple Rice!	
+qev50_010.scr:0	qev50_010.scr	0	コーダ	Coda	personagem	CRLF x1	むう〜、あそこにも\nレシピが落ちてるはずだぞ、しかし	Mmm~ There should be a recipe\nlying over there too, however!	
+qev50_010.scr:1	qev50_010.scr	1	コーダ	Coda	personagem	CRLF x1	熱くてハフハフ、\nおなじみのあの料理なんだな、しかし	Piping hot and steaming,\nit is that familiar dish, however!	
+qev50_010.scr:2	qev50_010.scr	2	コーダ	Coda	personagem	CRLF x2	前の夢も当たったから\n今回も間違いないはずだぞ。\n早く行ってきて欲しいぞ	The last dream came true, so this one\nmust be right on the mark too.\nI want you to hurry and go!	
+qev50_010.scr:3	qev50_010.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ２」が\nエントリーされました。\nコーダから受ける事が出来ます	Quest 'Coda's Recipe 2'\nhas been registered.\nYou can accept it from Coda.	
+qev50_020.scr:0	qev50_020.scr	0	コーダ	Coda	personagem	CRLF x1	気を付けて行くんだぞ、しかし。\n忘れずに、しっかり取ってくるんだな	Be careful on your way, however.\nDo not forget to grab it, you hear?	
+qev50_020.scr:1	qev50_020.scr	1	コーダ	Coda	personagem	CRLF x1	新しい料理……\n早く食べたいぞ、しかし	The new dish...\nI want to eat it soon, however!	
+qev50_060.scr:0	qev50_060.scr	0	コーダ	Coda	personagem	CRLF x1	またまた、アタリだったな。\nこれで、新しい料理を作れるぞ、しかし	Right on the mark again, you see!\nNow we can make a new dish, however!	
+qev50_060.scr:1	qev50_060.scr	1	コーダ	Coda	personagem		早く食べてみたいんだな、しかし……	I want to try eating it soon, however...	
+qev50_060.scr:2	qev50_060.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		マーボーカレーのレシピを覚えた！	Learned the recipe for Mabo Curry!	
+qev51_010.scr:0	qev51_010.scr	0	コーダ	Coda	personagem	CRLF x1	おー、コーダ、\n食べるの好きだからなー、しかし	Oh, Coda loves eating,\nyou know, however~!	
+qev51_010.scr:1	qev51_010.scr	1	コーダ	Coda	personagem	CRLF x1	まだまだ、今のレシピだけじゃ\n満足出来ないぞ	Just having the recipes we have now\nis not enough to satisfy me yet!	
+qev51_010.scr:2	qev51_010.scr	2	コーダ	Coda	personagem	CRLF x2	今度のレシピは\n一度食べたらやみ付きになる\nあの料理なんだな、しかし	This next recipe is that dish that is\nso addictive once you eat it,\nhowever!	
+qev51_010.scr:3	qev51_010.scr	3	コーダ	Coda	personagem	CRLF x1	○○、\n早く見つけてきて欲しいぞ、しかし	○○,\nI want you to find it fast, however!	
+qev51_010.scr:4	qev51_010.scr	4	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ３」が\nエントリーされました。\nコーダから受ける事が出来ます	Quest 'Coda's Recipe 3'\nhas been registered.\nYou can accept it from Coda.	
+qev51_020.scr:0	qev51_020.scr	0	コーダ	Coda	personagem	CRLF x1	今度のレシピも\n美味そうな予感がするんだな、しかし	I have a feeling this recipe\nwill be delicious too, however!	
+qev51_020.scr:1	qev51_020.scr	1	コーダ	Coda	personagem	CRLF x1	そういうわけだ。\nコーダはまだまだ食いたいぞ	That is how it is.\nCoda wants to eat much more!	
+qev51_020.scr:2	qev51_020.scr	2	コーダ	Coda	personagem	CRLF x1	○○には\n期待しているんだぞ、しかし	I am counting on ○○,\nyou know, however!	
+qev51_060.scr:0	qev51_060.scr	0	コーダ	Coda	personagem	CRLF x1	おー、やっぱりあったんだな〜。\n早く作って、食べてみたいぞ〜	Oh, it really was there~!\nI want to cook it and eat it soon~!	
+qev51_060.scr:1	qev51_060.scr	1	コーダ	Coda	personagem	CRLF x1	コーダは猛烈に\n腹が減っているんだぞ、しかし！	Coda is terribly hungry,\nyou know, however!	
+qev51_060.scr:2	qev51_060.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		マーボーパイのレシピを覚えた！	Learned the recipe for Mabo Pie!	
+qev52_010.scr:0	qev52_010.scr	0	コーダ	Coda	personagem	CRLF x1	うー、お前ら、興味ないのか、しかし？\nきっとスゴい料理だぞー？	Ugh, are you not interested, however?\nIt is sure to be an amazing dish!	
+qev52_010.scr:1	qev52_010.scr	1	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev52_010.scr:2	qev52_010.scr	2	コーダ	Coda	personagem	CRLF x1	コーダ、また夢を見たんだぞ。\n本当なんだぞ	Coda had another dream, you know.\nIt is the truth!	
+qev52_010.scr:3	qev52_010.scr	3	コーダ	Coda	personagem	CRLF x2	自分の好きな具材を\n色々入れてジュ〜〜ってする\nそんな料理のレシピだったな、しかし	You put in all your favorite ingredients\nand sizzle them up on the grill...\nIt was that kind of recipe, however!	
+qev52_010.scr:4	qev52_010.scr	4	コーダ	Coda	personagem	CRLF x1	早く取りに行った方が\nいい気がするんだぞ、しかし？	I feel like you ought to go\nand get it quickly, however?	
+qev52_010.scr:5	qev52_010.scr	5	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ４」が\nエントリーされました。\nコーダから受ける事が出来ます	Quest 'Coda's Recipe 4'\nhas been registered.\nYou can accept it from Coda.	
+qev52_020.scr:0	qev52_020.scr	0	コーダ	Coda	personagem	CRLF x1	張り切って行ってくるんだぞ。\n楽しみに待っているんだな、しかし	Go off with full enthusiasm.\nI will be waiting excitedly, however!	
+qev52_020.scr:1	qev52_020.scr	1	コーダ	Coda	personagem	CRLF x1	早く食いたいんだな〜。\nつまりメシだぞ、しかし	I want to eat it soon~.\nThat means food, however!	
+qev52_060.scr:0	qev52_060.scr	0	コーダ	Coda	personagem	CRLF x2	よしよし、これでまた新しい\n料理が食える様になったぞ、しかし。\nメシか？　メシの時間だな？	Good, good! Now we can eat yet\nanother new dish, however.\nIs it mealtime? It is mealtime, right?	
+qev52_060.scr:1	qev52_060.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		お好み焼きのレシピを覚えた！	Learned the recipe for Okonomiyaki!	
+qev53_010.scr:0	qev53_010.scr	0	コーダ	Coda	personagem	CRLF x1	うー、美味いものが食べたいぞ、しかし。\n早く取ってきてくれ〜	Ugh, I want yummy food, however!\nHurry and bring it to me~!	
+qev53_010.scr:1	qev53_010.scr	1	コーダ	Coda	personagem	CRLF x1	寒い日に、みんなで食べると\n心まであったまる料理なんだぞ	On a cold day, eating it together\nwarms you right to the soul!	
+qev53_010.scr:2	qev53_010.scr	2	コーダ	Coda	personagem	CRLF x1	食べたいだろ、しかし？\n興味が出て来ただろ、しかし？	You want to eat it, however?\nYou are getting interested, however?	
+qev53_010.scr:3	qev53_010.scr	3	コーダ	Coda	personagem		見つければ、食べ放題だぞー？	If you find it, it is all-you-can-eat~!	
+qev53_010.scr:4	qev53_010.scr	4	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ５」が\nエントリーされました。\nコーダから受ける事が出来ます	Quest 'Coda's Recipe 5'\nhas been registered.\nYou can accept it from Coda.	
+qev53_020.scr:0	qev53_020.scr	0	コーダ	Coda	personagem	CRLF x2	この世界にはまだまだ\n美味しい物があるはずだな！\nコーダは食べ足りないぞ、しかし！	There must still be plenty of tasty\nthings left in this world!\nCoda has not eaten enough, however!	
+qev53_020.scr:1	qev53_020.scr	1	コーダ	Coda	personagem		期待がふくらむんだな〜、しかし……	My expectations are growing, however...	
+qev53_060.scr:0	qev53_060.scr	0	コーダ	Coda	personagem	CRLF x1	おー、待ってたぞ、しかし！\n早くコーダ、食べたいぞー？	Oh, I was waiting, however!\nCoda wants to eat right away~!	
+qev53_060.scr:1	qev53_060.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		おでんのレシピを覚えた！	Learned the recipe for Oden!	
+qev54_010.scr:0	qev54_010.scr	0	コーダ	Coda	personagem		うー、早く、取りに行くのだな〜	Ugh, hurry up and go get it~!	
+qev54_010.scr:1	qev54_010.scr	1	コーダ	Coda	personagem	CRLF x1	今度のレシピは、とろ〜りアツアツ、\n女子も大好きなあの料理だぞ、しかし	This recipe is piping hot and gooey,\nthat dish girls love so much, however!	
+qev54_010.scr:2	qev54_010.scr	2	コーダ	Coda	personagem	CRLF x1	早く行かないと、\n食い物の恨みは恐ろしいぞ、しかし！	If you do not go quickly, food\ngrudges are terrifying, however!	
+qev54_010.scr:3	qev54_010.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ６」が\nエントリーされました。\nコーダから受ける事が出来ます	Quest 'Coda's Recipe 6'\nhas been registered.\nYou can accept it from Coda.	
+qev54_020.scr:0	qev54_020.scr	0	コーダ	Coda	personagem	CRLF x1	○○も、\n腹を空かしてそうな顔をしてるな	○○ looks like\nyou are starving too, you know!	
+qev54_020.scr:1	qev54_020.scr	1	コーダ	Coda	personagem	CRLF x1	ふふん、コーダも当然空腹なのだぞ？\nだから、早く取ってくるのだ、しかし	Hmph, naturally Coda is hungry too!\nSo go grab it quickly, however!	
+qev54_060.scr:0	qev54_060.scr	0	コーダ	Coda	personagem	CRLF x2	これはこれは、素晴らしい料理だな。\nしかし、美味そうだ。\n食うぞ〜！	Well, well, what a wonderful dish.\nIt looks delicious, however.\nTime to dig in~!	
+qev54_060.scr:1	qev54_060.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		チーズフォンデュのレシピを覚えた！	Learned the recipe for Cheese Fondue!	
+qev55_010.scr:0	qev55_010.scr	0	コーダ	Coda	personagem		美味い物、もうないのかー？	Is there not any more yummy food~?	
+qev55_010.scr:1	qev55_010.scr	1	コーダ	Coda	personagem	CRLF x2	今度は、小腹が空いた時に\nついつい手を伸ばしてしまうアレの\nレシピなんだぞ、しかし	This time, it is a recipe for that\nsnack you cannot help reaching for\nwhen you are peckish, however!	
+qev55_010.scr:2	qev55_010.scr	2	コーダ	Coda	personagem	CRLF x1	早く早く、あそこに行って、\n取ってくるんだな、しかし	Hurry, hurry! Go over there and\nbring it back, however!	
+qev55_010.scr:3	qev55_010.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ７」が\nエントリーされました。\nコーダから受ける事が出来ます	Quest 'Coda's Recipe 7'\nhas been registered.\nYou can accept it from Coda.	
+qev55_020.scr:0	qev55_020.scr	0	コーダ	Coda	personagem		コーダ、お腹空いたぞー？　しかし	Coda is hungry, you know? However!	
+qev55_020.scr:1	qev55_020.scr	1	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev55_020.scr:2	qev55_020.scr	2	コーダ	Coda	personagem	CRLF x2	もしかして、信じてないか？\nコーダ、これでも結構\n我慢してるんだぞ、しかし	Could it be you do not believe me?\nCoda has actually been enduring\nquite a lot, however!	
+qev55_020.scr:3	qev55_020.scr	3	コーダ	Coda	personagem	CRLF x2	ほら、どうだ。\nわかったなら、すぐに行ってくるんだな。\n待ってるぞ、しかし	See? How about that?\nIf you get it, go right this second.\nI will be waiting, however!	
+qev55_060.scr:0	qev55_060.scr	0	コーダ	Coda	personagem	CRLF x1	おおー、見つかったなー、しかし。\nぬふぬふ、早く食べたいぞー！	Ooh, you found it, however!\nHehehe, I want to eat it soon~!	
+qev55_060.scr:1	qev55_060.scr	1	コーダ	Coda	personagem	CRLF x1	○○、\nよくやったな、しかし！	○○,\nyou did great, however!	
+qev55_060.scr:2	qev55_060.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		紅茶クッキーのレシピを覚えた！	Learned the recipe for Tea Cookies!	
+qev56_010.scr:0	qev56_010.scr	0	コーダ	Coda	personagem	CRLF x1	とにかく食べたいぞー、しかし。\nだから、早く取ってきて欲しいんだな	Anyway, I want to eat, however!\nSo I want you to go get it quickly!	
+qev56_010.scr:1	qev56_010.scr	1	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev56_010.scr:2	qev56_010.scr	2	コーダ	Coda	personagem	CRLF x2	今度の料理は……うむむ、\nちょっと説明が難しいんだぞ、しかし。\nでも、ファンなら当然知ってるアレなんだな	This next dish... hmm, it is a bit\nhard to explain, however.\nStill, any fan would know it!	
+qev56_010.scr:3	qev56_010.scr	3	コーダ	Coda	personagem	CRLF x1	○○、\n今度も頼んだぞ、しかし	○○,\nI am counting on you again, however!	
+qev56_010.scr:4	qev56_010.scr	4	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ８」が\nエントリーされました。\nコーダから受ける事が出来ます	Quest 'Coda's Recipe 8'\nhas been registered.\nYou can accept it from Coda.	
+qev56_020.scr:0	qev56_020.scr	0	コーダ	Coda	personagem	CRLF x1	しかし、メシの時間はまだか？\nコーダは、我慢の限界だぞー	Is it still not mealtime, however?\nCoda is at the limit of endurance~!	
+qev56_020.scr:1	qev56_020.scr	1	コーダ	Coda	personagem	CRLF x2	急いで行ってきて欲しいんだな、しかし。\nコーダ、腹が減り過ぎて目が回ってきたぞ。\nしかし……	Hurry and go for me, however.\nCoda is so hungry my head is spinning.\nHowever...	
+qev56_060.scr:0	qev56_060.scr	0	コーダ	Coda	personagem	CRLF x1	おお〜！\nまさしくこの料理だな、しかし	Oooh~!\nThis is undeniably the dish, however!	
+qev56_060.scr:1	qev56_060.scr	1	コーダ	Coda	personagem	CRLF x2	食事は食べられる時に\n食べておくのが大事だぞ〜。\n食う事を怠ってはいかんのだ、しかし	It is important to eat meals\nwhenever you can~.\nYou must never neglect eating, however!	
+qev56_060.scr:2	qev56_060.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		通称おいしおいしのレシピを覚えた！	Learned the recipe for Yummy Yummy!	
+qev57_010.scr:0	qev57_010.scr	0	コーダ	Coda	personagem	CRLF x1	んまそうだぞ！\nワクワクするぞー？　しかし	Looks so yummy!\nI am so excited, you know? However!	
+qev57_010.scr:1	qev57_010.scr	1	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev57_010.scr:2	qev57_010.scr	2	コーダ	Coda	personagem	CRLF x1	今度のレシピは、誰もが喜ぶ\nアレをふんだんに使った料理だぞ〜	This next recipe is a dish that uses\nheaps of what everyone loves~!	
+qev57_010.scr:3	qev57_010.scr	3	コーダ	Coda	personagem	CRLF x1	待ちきれないんだな、しかし。\n早く、行ってきて欲しいんだな〜	I can hardly wait, however.\nI want you to hurry and go~!	
+qev57_010.scr:4	qev57_010.scr	4	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ９」が\nエントリーされました。\nコーダから受ける事が出来ます	Quest 'Coda's Recipe 9'\nhas been registered.\nYou can accept it from Coda.	
+qev57_020.scr:0	qev57_020.scr	0	コーダ	Coda	personagem	CRLF x1	むふむふ、コーダ、\n食欲わいてきたんだぞー、しかし	Mhehehe, Coda's appetite\nis roaring now, however~!	
+qev57_020.scr:1	qev57_020.scr	1	コーダ	Coda	personagem	CRLF x1	ただ待ってるだけというのも\nなかなかに辛い立場なんだな	Just sitting and waiting here\nis quite a painful ordeal, you know!	
+qev57_020.scr:2	qev57_020.scr	2	コーダ	Coda	personagem	CRLF x1	○○、\n頼りにしているんだぞ、しかし	○○,\nI am relying on you, however!	
+qev57_060.scr:0	qev57_060.scr	0	コーダ	Coda	personagem	CRLF x1	んまっ！　美味そうだぞ！　しかし！！\n早く食べないと、倒れちゃうんだな	Yum! This looks delicious, however!!\nIf I do not eat soon, I will collapse!	
+qev57_060.scr:1	qev57_060.scr	1	コーダ	Coda	personagem		早速作ってみたいんだな、しかし！	I want to make it right away, however!	
+qev57_060.scr:2	qev57_060.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		山海珍味スープのレシピを覚えた！	Learned the recipe for Delicacy Soup!	
+qev58_010.scr:0	qev58_010.scr	0	コーダ	Coda	personagem	CRLF x1	むむーん、コーダ、\nますます腹が減ってきたんだぞ、しかし	Mmmgh, Coda is getting hungrier\nand hungrier, however!	
+qev58_010.scr:1	qev58_010.scr	1	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev58_010.scr:2	qev58_010.scr	2	コーダ	Coda	personagem	CRLF x2	今度のレシピは\n体に良くてどこか懐かしい気持ちになる、\nあの料理なんだぞ、しかし	This next recipe is that dish that is\ngood for you and feels nostalgic,\nhowever!	
+qev58_010.scr:3	qev58_010.scr	3	コーダ	Coda	personagem	CRLF x2	○○も\n食べたいよな？\nコーダと同じ気持ちだな？	○○,\nyou want to eat it too, right?\nYou feel the same way as Coda, right?	
+qev58_010.scr:4	qev58_010.scr	4	コーダ	Coda	personagem	CRLF x1	よし。\n今回もよろしく頼んだぞ、しかし	All right.\nI am counting on you this time, however!	
+qev58_010.scr:5	qev58_010.scr	5	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ１０」が\nエントリーされました。\nコーダから受ける事が出来ます	Quest 'Coda's Recipe 10'\nhas been registered.\nYou can accept it from Coda.	
+qev58_020.scr:0	qev58_020.scr	0	コーダ	Coda	personagem	CRLF x1	コーダも早く食べたいぞ、しかし。\n食べたい！　食べたい！　のだ	Coda wants to eat it soon, however!\nI wanna eat! I wanna eat!	
+qev58_020.scr:1	qev58_020.scr	1	コーダ	Coda	personagem	CRLF x2	コーダの腹の虫はお喋りなのだ。\n黙らせたかったら、早くレシピを\n取ってきて欲しいんだな、しかし	Coda's tummy grumbles so noisily.\nIf you want to silence it, go get\nthat recipe quickly, however!	
+qev58_060.scr:0	qev58_060.scr	0	コーダ	Coda	personagem	CRLF x1	んー、んまそうだなー、しかし。\nしかし、楽しみだな！	Mmm, looks so yummy, however.\nI am really looking forward to it!	
+qev58_060.scr:1	qev58_060.scr	1	コーダ	Coda	personagem	CRLF x1	よし、○○。\n一緒に食うぞー！	All right, ○○.\nLet us eat it together~!	
+qev58_060.scr:2	qev58_060.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		薬膳チャンプルーのレシピを覚えた！	Learned the recipe for Herbal Chanpuru!	
+qev59_010.scr:0	qev59_010.scr	0	コーダ	Coda	personagem	CRLF x2	コイツは、絶対に、んまい！\nんまいぞ〜！！\n今まで以上に、期待大だな〜	This one is definitely delicious!\nIt is gonna be so yummy~!!\nMy hopes are higher than ever~!	
+qev59_010.scr:1	qev59_010.scr	1	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev59_010.scr:2	qev59_010.scr	2	コーダ	Coda	personagem	CRLF x1	ん？\nどんな料理か知りたいのだな？	Hmm?\nYou want to know what kind of dish?	
+qev59_010.scr:3	qev59_010.scr	3	コーダ	Coda	personagem	CRLF x2	ダメだ、今回ばっかりは\nそこまではっきりとは\nわからなかったんだぞ、しかし	No good! Just this once, even I\ncould not clearly figure out that much,\nhowever!	
+qev59_010.scr:4	qev59_010.scr	4	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev59_010.scr:5	qev59_010.scr	5	コーダ	Coda	personagem	CRLF x1	ただ、絶対に美味い物だという\n予感がするのだ！	Still, I have a premonition that\nit is definitely delicious!	
+qev59_010.scr:6	qev59_010.scr	6	コーダ	Coda	personagem		コーダの直感は本当なんだぞ！　しかし！	Coda's intuition is real! However!	
+qev59_010.scr:7	qev59_010.scr	7	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ１１」が\nエントリーされました。\nコーダから受ける事が出来ます	Quest 'Coda's Recipe 11'\nhas been registered.\nYou can accept it from Coda.	
+qev59_020.scr:0	qev59_020.scr	0	コーダ	Coda	personagem	CRLF x1	ほら、しかし○○！\n早く出掛ける支度をするぞ	Come on, however, ○○!\nGet ready to set out quickly!	
+qev59_020.scr:1	qev59_020.scr	1	コーダ	Coda	personagem	CRLF x1	コーダの胃袋は\n悲しげに泣き続けているんだな	Coda's stomach keeps weeping\nso pitifully, you know!	
+qev59_020.scr:2	qev59_020.scr	2	コーダ	Coda	personagem	CRLF x1	今度こそ、最高に満足のいく料理と\n巡り会える予感がするんだな……しかし	I feel this time we will encounter\nthe most satisfying dish... however!	
+qev59_060.scr:0	qev59_060.scr	0	コーダ	Coda	personagem	CRLF x1	ついにやったぞ〜！\nメシだぞメシ〜♪　しかし♪	We finally did it~!\nIt is food, food~! However!	
+qev59_060.scr:1	qev59_060.scr	1	コーダ	Coda	personagem	CRLF x2	コーダ大満足だぞ！　しかし。\n○○、今まで\n協力してくれて感謝、感謝だな	Coda is thrilled! However!\n○○, thank you so much\nfor all your help up until now!	
+qev59_060.scr:2	qev59_060.scr	2	コーダ	Coda	personagem	CRLF x1	コーダのレシピ、\nたくさん役に立てるんだぞ、しかし	Make great use of Coda's recipes,\nyou hear, however!	
+qev59_060.scr:3	qev59_060.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema		まンカんぜんセきのレシピを覚えた！	Learned the recipe for Imperial Feast!	
+qev60_060.scr:0	qev60_060.scr	0	コングマン	Kongman	personagem	CRLF x2	おい。\nバンなんとかって名前の\n妙ちくりんな船ってぇのはここか	Hey.\nIs this that weird ship called\nVan whatever-its-name-was?	
+qev60_060.scr:1	qev60_060.scr	1	チャット	Chat	personagem		み、妙ちくりん！？　失礼な！	W-Weird?! How rude!	
+qev60_060.scr:2	qev60_060.scr	2	チャット	Chat	personagem	CRLF x1	「バンエルティア号」です。\nこの船はこれでも、れっきとした……	It is the 'Van Eltia'.\nEven so, this ship is a respectable...	
+qev60_060.scr:3	qev60_060.scr	3	コングマン	Kongman	personagem		んなこたぁどうでもいい！	Who gives a damn about that!	
+qev60_060.scr:4	qev60_060.scr	4	コングマン	Kongman	personagem	CRLF x1	とりあえず、俺様は今日から\nこの船に厄介になるからな	Anyway, starting today, the great me\nis gonna be staying on this ship!	
+qev60_060.scr:5	qev60_060.scr	5	コングマン	Kongman	personagem		ありがたく思えよ！	You oughta be grateful!	
+qev60_060.scr:6	qev60_060.scr	6	チャット	Chat	personagem	CRLF x1	ええっ！？\n何を言ってるんですか？	What?!\nWhat are you talking about?	
+qev60_060.scr:7	qev60_060.scr	7	スタン	Stahn Aileron	personagem	CRLF x1	声がすると思ったら……。\nやっぱりコングマンか	I thought I heard a voice...\nIt really is Kongman, huh?	
+qev60_060.scr:8	qev60_060.scr	8	チャット	Chat	personagem	CRLF x1	スタンさん、この大きい人と\n知り合いなんですか？	Stahn, do you know\nthis gigantic person?	
+qev60_060.scr:9	qev60_060.scr	9	コングマン	Kongman	personagem	CRLF x1	大きい人じゃねえ！\nマイティ・コングマンだ！！	Not 'gigantic person'!\nIt is the Mighty Kongman!!	
+qev60_060.scr:10	qev60_060.scr	10	コングマン	Kongman	personagem	CRLF x1	俺様は決めたのよ。\nスタン……それと○○	The great me has decided!\nStahn... and you, ○○!	
+qev60_060.scr:11	qev60_060.scr	11	コングマン	Kongman	personagem	CRLF x1	おめぇ達を倒すまで\nこの船から離れねえってな	Until I defeat you both,\nI am not leaving this ship!	
+qev60_060.scr:12	qev60_060.scr	12	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev60_060.scr:13	qev60_060.scr	13	コングマン	Kongman	personagem	CRLF x1	もちろん、居座る以上、\nこの船の仕事は手伝わせてもらう	Of course, since I am staying,\nI will help out with work on the ship!	
+qev60_060.scr:14	qev60_060.scr	14	コングマン	Kongman	personagem	CRLF x2	ただし、俺様のこの鍛え抜かれた筋肉を\nいかんなく発揮出来る仕事に\n限定はされるがな	Though it is limited only to work where\nI can fully demonstrate these finely\ntrained muscles of mine!	
+qev60_060.scr:15	qev60_060.scr	15	コングマン	Kongman	personagem		わっはっはっはっはっは！	Wahahaha! Wahahaha!	
+qev60_060.scr:16	qev60_060.scr	16	チャット	Chat	personagem		頭が痛くなってきました……	My head is starting to ache...	
+qev60_060.scr:17	qev60_060.scr	17	スタン	Stahn Aileron	personagem	CRLF x1	ここに居座るって……。\nいきなりそう言われてもなぁ……	Stay here, you say...?\nEven if you tell us out of nowhere...	
+qev60_060.scr:18	qev60_060.scr	18	スタン	Stahn Aileron	personagem		どうしても、気持ちは変わらないのか？	Won't anything change your mind at all?	
+qev60_060.scr:19	qev60_060.scr	19	コングマン	Kongman	personagem		あったりめえよ	Damn straight!	
+qev60_060.scr:20	qev60_060.scr	20	コングマン	Kongman	personagem	CRLF x1	俺様はチャンピオン。\nこの世界のガキどもの夢そのものなのよ	The great me is the champion!\nI am the very dream of all the kids!	
+qev60_060.scr:21	qev60_060.scr	21	コングマン	Kongman	personagem	CRLF x1	チャンピオンは常にナンバーワンで\nなくちゃなんねえ……	The champion always has to be\nnumber one, you hear...!	
+qev60_060.scr:22	qev60_060.scr	22	コングマン	Kongman	personagem	CRLF x1	おめぇ達の勝ち逃げなんざ\n到底認めるわけにゃいかねーんだ！	There is no way I will let you\nget away with your victory!	
+qev60_060.scr:23	qev60_060.scr	23	スタン	Stahn Aileron	personagem		コングマン……わかったよ	Kongman... All right, I get it.	
+qev60_060.scr:24	qev60_060.scr	24	スタン	Stahn Aileron	personagem		それじゃ、今日からよろしくな	Well then, glad to have you aboard.	
+qev60_060.scr:25	qev60_060.scr	25	コングマン	Kongman	personagem	CRLF x1	おう、よろしく頼むぜえ！\nわっはっはっはっは！！	Yeah! Good to be with you!\nWahahahaha!!	
+qev60_060.scr:26	qev60_060.scr	26	チャット	Chat	personagem		えぇ？　認めちゃうんですか？	Huh? You are just accepting that?!	
+qev60_060.scr:27	qev60_060.scr	27	チャット	Chat	personagem		はぁ……何かが不安です……	Sigh... I feel so uneasy about this...	
+qev60_060.scr:28	qev60_060.scr	28	(mensagem de sistema)	(mensagem de sistema)	sistema		コングマンがアドリビトムに加入しました	Kongman joined Ad Libitum.	
+qev61_060.scr:0	qev61_060.scr	0	スタン	Stahn Aileron	personagem		ふ〜、何だか腹減ったなぁ……	Phew... I am somehow really hungry...	
+qev61_060.scr:1	qev61_060.scr	1	スタン	Stahn Aileron	personagem		今日の食事当番は誰だったっけ？	Whose turn is it to cook today?	
+qev61_060.scr:2	qev61_060.scr	2	スタン	Stahn Aileron	personagem		何が出るか楽しみだなぁ	I cannot wait to see what we get!	
+qev61_060.scr:3	qev61_060.scr	3	ルーティ	Rutee Katrea	personagem		あんたって平和よねぇ……	You really are carefree, aren't you...?	
+qev61_060.scr:4	qev61_060.scr	4	リリス	Lilith Aileron	personagem	CRLF x1	平和……そうですね。\n抜けているというか……	Carefree... That sounds about right.\nOr maybe just a bit scatterbrained...	
+qev61_060.scr:5	qev61_060.scr	5	リリス	Lilith Aileron	personagem	CRLF x1	何か、決定的に足りないものが\nあるんだと思います	I think he is decisively missing\nsomething essential.	
+qev61_060.scr:6	qev61_060.scr	6	ルーティ	Rutee Katrea	personagem	CRLF x1	そうそう、「足りない」！\nも〜その表現ピッタリ……	Yes, exactly! 'Missing'!\nThat description is just so spot-on...	
+qev61_060.scr:7	qev61_060.scr	7	ルーティ	Rutee Katrea	personagem		って、あら？	...Wait, huh?	
+qev61_060.scr:8	qev61_060.scr	8	スタン	Stahn Aileron	personagem		リリス！？	Lilith?!	
+qev61_060.scr:9	qev61_060.scr	9	リリス	Lilith Aileron	personagem	CRLF x2	えへ。\n来ちゃいました☆\nしばらくこちらでお世話になろうと思って	Ehehe.\nI came all the way here!\nI thought I would stay here for a while.	
+qev61_060.scr:10	qev61_060.scr	10	スタン	Stahn Aileron	personagem	CRLF x1	来ちゃいましたって……。\n何しに来たんだよ、こんなとこまで	What do you mean, you came here...?\nWhat did you come all this way for?!	
+qev61_060.scr:11	qev61_060.scr	11	リリス	Lilith Aileron	personagem	CRLF x2	何しに来た、ですって？\nお兄ちゃんが、\n全然連絡くれないからじゃない！	What did I come for, you ask?!\nIs it not because you never,\never contact me, dear brother?!	
+qev61_060.scr:12	qev61_060.scr	12	リリス	Lilith Aileron	personagem	CRLF x2	自分の不精を棚に上げて何言ってるの！\nいつも私が、どれだけ\n心配してると思ってるのよっ	How can you talk after being so lazy?!\nHow much do you think I worry\nabout you all the time, huh?!	
+qev61_060.scr:13	qev61_060.scr	13	スタン	Stahn Aileron	personagem		うう……、すみません	Ugh... I am sorry.	
+qev61_060.scr:14	qev61_060.scr	14	リリス	Lilith Aileron	personagem		と、いうわけなので……	And, well, with that being the case...	
+qev61_060.scr:15	qev61_060.scr	15	リリス	Lilith Aileron	personagem	CRLF x1	今日からお世話になります。\nスタンの妹のリリスです	I will be in your care starting today.\nI am Stahn's little sister, Lilith.	
+qev61_060.scr:16	qev61_060.scr	16	リリス	Lilith Aileron	personagem	CRLF x1	ふつつかものではありますが、\n兄共々、どうぞよろしくお願いしま〜す∀	Though I may be inexperienced, please\ntreat my brother and me well~!	
+qev61_060.scr:17	qev61_060.scr	17	(mensagem de sistema)	(mensagem de sistema)	sistema		リリスがアドリビトムに加入しました	Lilith joined Ad Libitum.	

@@ -1,0 +1,131 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+sev04_010.scr:0	sev04_010.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	○○、\n白い三兄弟達は、\nみんな自分の場所へ戻れたんだね		
+sev04_010.scr:1	sev04_010.scr	1	ニアタ	Niata Monad	personagem	CRLF x1	しかし、今度はそれぞれ色の違う\n三つの玉がやって来たか…		
+sev04_010.scr:2	sev04_010.scr	2	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	この玉も、\n何か言っているのかなぁ？		
+sev04_010.scr:3	sev04_010.scr	3	ニアタ	Niata Monad	personagem		うむ、では呼びかけてみるとしよう		
+sev04_010.scr:4	sev04_010.scr	4	ニアタ	Niata Monad	personagem	CRLF x2	………ふむ、\nこれらの玉は今までのものよりも\n強い意思を放っている		
+sev04_010.scr:5	sev04_010.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	どうやら、この三色の玉を作成した者の\n意思らしい		
+sev04_010.scr:6	sev04_010.scr	6	ニアタ	Niata Monad	personagem	CRLF x1	これらの玉が収まるべき場所は\n霊峰アブソール…		
+sev04_010.scr:7	sev04_010.scr	7	ニアタ	Niata Monad	personagem	CRLF x1	そして、開かれた道の奥に、\n何かが隠されている様だ		
+sev04_010.scr:8	sev04_010.scr	8	ニアタ	Niata Monad	personagem	CRLF x2	深くは語ってくれぬが、\nこれらの玉が訴えるその場には\n何か畏敬の念の様なものを感じるな		
+sev04_010.scr:9	sev04_010.scr	9	ニアタ	Niata Monad	personagem		いや、そうではない様だ		
+sev04_010.scr:10	sev04_010.scr	10	ニアタ	Niata Monad	personagem	CRLF x2	これらの玉が訴えるその場に、\nとてつもなく価値のあるものが\n待っているかもしれん		
+sev04_010.scr:11	sev04_010.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	駄目よ、そんな大事な話を\nリーダーに内緒にしちゃあ		
+sev04_010.scr:12	sev04_010.scr	12	アンジュ	Ange Serena	personagem	CRLF x2	わたしがいるって事は、ここは教会も同然。\n許してあげるから、今の事を全て\n洗いざらい懺悔なさい？		
+sev04_010.scr:13	sev04_010.scr	13	アンジュ	Ange Serena	personagem	CRLF x2	あなたは、わたし…リーダーに\n隠し事をしようとしているよね？\nさ、白状して？		
+sev04_010.scr:14	sev04_010.scr	14	アンジュ	Ange Serena	personagem	CRLF x2	もう一度言った方がいいのかな？\n大事な話はリーダーにちゃんと\n話さなくっちゃでしょ		
+sev04_010.scr:15	sev04_010.scr	15	アンジュ	Ange Serena	personagem	CRLF x1	でも、まあ、何となく話は聞いてたんだけど。\nもちろん、行くよね？		
+sev04_010.scr:16	sev04_010.scr	16	アンジュ	Ange Serena	personagem		ウフフ、霊峰アブソールよ♪		
+sev04_010.scr:17	sev04_010.scr	17	アンジュ	Ange Serena	personagem	CRLF x2	そんな事ないわよ。\nわたしを差し置いて行動しようとした事は\nちゃんと天に、世界樹に懺悔してくれなくちゃ		
+sev04_010.scr:18	sev04_010.scr	18	アンジュ	Ange Serena	personagem		ま、それはおいといて		
+sev04_010.scr:19	sev04_010.scr	19	アンジュ	Ange Serena	personagem	CRLF x2	その三つの玉を収めに行くって依頼、\nわたしが出すから。\n受けてちょうだいね！		
+sev04_010.scr:20	sev04_010.scr	20	(opcao do jogador)	(opcao do jogador)	escolha		お宝かな…、と聞く		
+sev04_010.scr:21	sev04_010.scr	21	(opcao do jogador)	(opcao do jogador)	escolha		また玉かな…、と聞く		
+sev04_010.scr:22	sev04_010.scr	22	(opcao do jogador)	(opcao do jogador)	escolha		懺悔の必要性を聞く		
+sev04_010.scr:23	sev04_010.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		自分が何をしたのか、しばらく考える		
+sev04_010.scr:24	sev04_010.scr	24	(opcao do jogador)	(opcao do jogador)	escolha		どこに行けと…、と問う		
+sev04_010.scr:25	sev04_010.scr	25	(opcao do jogador)	(opcao do jogador)	escolha		結局懺悔の必要は無かった、と言う		
+sev04_020.scr:0	sev04_020.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	この依頼を受けてくれるの？\nああんもう、いい子ね、\n○○って		
+sev04_020.scr:1	sev04_020.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	その人徳なら、教会に入ったって\n立派な伝道師になれちゃうかもよ？		
+sev04_020.scr:2	sev04_020.scr	2	アンジュ	Ange Serena	personagem		じゃあ、早速依頼の説明をするね		
+sev04_020.scr:3	sev04_020.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	あなたが持つ三つの玉を、\n霊峰アブソールに収めに行ってちょうだい		
+sev04_020.scr:4	sev04_020.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	で、その後が最重要任務よ。\nニアタが言う例の場所まで進んだら、\nそこに何があるのかを確認してきてちょうだい		
+sev04_020.scr:5	sev04_020.scr	5	カノンノ・イアハート	Kanonno Earhart	personagem		確認だけでいいの？		
+sev04_020.scr:6	sev04_020.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	んー、それなりにギルドにとって\n有益なモノだったら、\n持ってきてくれてもいいかな		
+sev04_020.scr:7	sev04_020.scr	7	アンジュ	Ange Serena	personagem		それじゃ、同行はイアハートでいいのね		
+sev04_020.scr:8	sev04_020.scr	8	カノンノ・イアハート	Kanonno Earhart	personagem		はい！		
+sev04_020.scr:9	sev04_020.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	じゃ、いい報告待ってるね。\n行ってらっしゃい♪		
+sev04_030.scr:0	sev04_030.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem		まずはどっちに行けばいいんだろう？		
+sev04_030.scr:1	sev04_030.scr	1	ニアタ	Niata Monad	personagem	CRLF x1	ここからか。\nそうだな…		
+sev04_030.scr:2	sev04_030.scr	2	カノンノ・イアハート	Kanonno Earhart	personagem		○○は、わかるんだね？		
+sev04_030.scr:3	sev04_030.scr	3	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	じゃあ、道案内は○○に\nお願いするよ		
+sev04_040.scr:0	sev04_040.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem		氷の壁が！		
+sev04_040.scr:1	sev04_040.scr	1	ニアタ	Niata Monad	personagem	CRLF x1	三つの玉の意思が消えた。\n彼らの役目も終わったのか		
+sev04_040.scr:2	sev04_040.scr	2	カノンノ・イアハート	Kanonno Earhart	personagem		この先に…、何かが隠されているんだね		
+sev04_040.scr:3	sev04_040.scr	3	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	うんっ！\nじゃあ、○○。\nそこまで行ってみよう		
+sev04_050.scr:0	sev04_050.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	この世界も、ちょっと見てまわったけど\n私の世界と似てる所もあるし、\n似てない所もあるなぁ		
+sev04_050.scr:1	sev04_050.scr	1	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	風景とか、街並とか\nそんなにグラニデと変わらないよ		
+sev04_050.scr:2	sev04_050.scr	2	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	科学技術や、星晶がある所なんかは\n違うのかな		
+sev04_050.scr:3	sev04_050.scr	3	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	でも、アドリビトムも、\nメンバーのみんなもいるし		
+sev04_050.scr:4	sev04_050.scr	4	カノンノ・イアハート	Kanonno Earhart	personagem		そこが一番似ているのかなぁ		
+sev04_050.scr:5	sev04_050.scr	5	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	うん？\nグラニデでのアドリビトムの\nみんなの事？		
+sev04_050.scr:6	sev04_050.scr	6	カノンノ・イアハート	Kanonno Earhart	personagem		みんないい人だよ！		
+sev04_050.scr:7	sev04_050.scr	7	カノンノ・イアハート	Kanonno Earhart	personagem		少し違うなって所もあるけど、えっと…		
+sev04_050.scr:8	sev04_050.scr	8	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	グラニデのアドリビトムのリーダーは、\nチャットで。\nルークはこっちと違って、髪が短くて…		
+sev04_050.scr:9	sev04_050.scr	9	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	不思議だなぁ。\nこんなに似ている世界が、まだ一杯あって\n違う世界の自分に会えたりするのが…		
+sev04_050.scr:10	sev04_050.scr	10	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	そうだ！\n今度、○○も\nグラニデに遊びに来てよ		
+sev04_050.scr:11	sev04_050.scr	11	カノンノ・イアハート	Kanonno Earhart	personagem		ホント！？　嬉しいなぁ		
+sev04_050.scr:12	sev04_050.scr	12	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	うん、ニアタに頼めば\n連れて行ってもらえるはずだから		
+sev04_050.scr:13	sev04_050.scr	13	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	じゃあ、約束！\n絶対だよ、グラニデのアドリビトムに\n遊びに来てね！		
+sev04_050.scr:14	sev04_050.scr	14	(opcao do jogador)	(opcao do jogador)	escolha		どこが似ている、と聞く		
+sev04_050.scr:15	sev04_050.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		イアハートの世界の皆について聞く		
+sev04_050.scr:16	sev04_050.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		ぜひ行きたい、と言う		
+sev04_050.scr:17	sev04_050.scr	17	(opcao do jogador)	(opcao do jogador)	escolha		そのうちに行く、と言う		
+sev04_060.scr:0	sev04_060.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem		あっちゃあ、魔物だ		
+sev04_060.scr:1	sev04_060.scr	1	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	それにあの魔物、\n何だかとても生き生きしてるね		
+sev04_060.scr:2	sev04_060.scr	2	ニアタ	Niata Monad	personagem	CRLF x2	なるほど…。\n隠されていたものとは、\nこの場所の力か		
+sev04_060.scr:3	sev04_060.scr	3	カノンノ・イアハート	Kanonno Earhart	personagem		○○、来るよ！		
+sev04_070.scr:0	sev04_070.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem		これで決めなくちゃ…		
+sev04_070.scr:1	sev04_070.scr	1	カノンノ・イアハート	Kanonno Earhart	personagem		行くよ、○○！		
+sev04_080.scr:0	sev04_080.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	これ、\nリングスポットだ…		
+sev04_080.scr:1	sev04_080.scr	1	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	隠されていたものって、\nきっとこれなんだ		
+sev04_080.scr:2	sev04_080.scr	2	ニアタ	Niata Monad	personagem	CRLF x1	この場は、マナや超自然界的な力の\n通り道になっている		
+sev04_080.scr:3	sev04_080.scr	3	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	ねえ、○○。\n何か感じない？\nこのリングスポットから…		
+sev04_080.scr:4	sev04_080.scr	4	ニアタ	Niata Monad	personagem		それは、このリングスポットの囁きだ		
+sev04_080.scr:5	sev04_080.scr	5	ニアタ	Niata Monad	personagem	CRLF x2	わからぬか？\nカノンノが感じているのは、\nこのリングスポットの囁きだ		
+sev04_080.scr:6	sev04_080.scr	6	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	リングスポットが、\n何かを訴えているってこと？		
+sev04_080.scr:7	sev04_080.scr	7	カノンノ・イアハート	Kanonno Earhart	personagem		そこまでは、私にはわからないなぁ		
+sev04_080.scr:8	sev04_080.scr	8	ニアタ	Niata Monad	personagem	CRLF x1	では、このリングスポットから\n発せられる意思を伝えよう		
+sev04_080.scr:9	sev04_080.scr	9	ニアタ	Niata Monad	personagem	CRLF x2	そなたらは、\nこの力を受け取るにふさわしい者と\n認められた様だ		
+sev04_080.scr:10	sev04_080.scr	10	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	それじゃあ、○○の\nソーサラーリングは\nまだ効力を上げられるって事だね！		
+sev04_080.scr:11	sev04_080.scr	11	ニアタ	Niata Monad	personagem		ああ、それも最高レベルのものだ		
+sev04_080.scr:12	sev04_080.scr	12	ニアタ	Niata Monad	personagem	CRLF x2	どうやら古代の民にとって、\nソーサラーリングは必要不可欠なもの\nだった様だな		
+sev04_080.scr:13	sev04_080.scr	13	ニアタ	Niata Monad	personagem	CRLF x1	リングスポットも、古代の民によって\n作られている		
+sev04_080.scr:14	sev04_080.scr	14	ニアタ	Niata Monad	personagem	CRLF x2	中でもここのリングスポットは、\n大きな力を秘める事から秘匿とされて\nいたものらしい		
+sev04_080.scr:15	sev04_080.scr	15	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	何だか、ここにいると\n力が溢れてくる様な感じがするけど\nそのせいかなぁ		
+sev04_080.scr:16	sev04_080.scr	16	ニアタ	Niata Monad	personagem	CRLF x2	そうだ。\nリングスポットは、場に漂う超自然的な力を\n一点に集めるアンテナの様なものだからな		
+sev04_080.scr:17	sev04_080.scr	17	ニアタ	Niata Monad	personagem	CRLF x1	しかし…これはとてつもなく\n価値のあるものだ…		
+sev04_080.scr:18	sev04_080.scr	18	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	そっかぁ…。\n私の部屋にあった黒い玉が、\nここに辿りつく為の鍵になっていたんだね		
+sev04_080.scr:19	sev04_080.scr	19	ニアタ	Niata Monad	personagem	CRLF x2	ディセンダー。\nその手に持つリングで力を受け止めよ。\nここにある力は、そなたのものだ		
+sev04_080.scr:20	sev04_080.scr	20	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	良かったよね、○○。\n玉は、自分の望む場所へ戻れて…。\nそして私達は、ステキな力に出会えたんだもん		
+sev04_080.scr:21	sev04_080.scr	21	ニアタ	Niata Monad	personagem		では、帰還するとしようか		
+sev04_080.scr:22	sev04_080.scr	22	(opcao do jogador)	(opcao do jogador)	escolha		感じる、と言う		
+sev04_080.scr:23	sev04_080.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		感じない、と言う		
+sev04_090.scr:0	sev04_090.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	何だか、ちょっぴり残念。\nお宝が隠されていると、\n思ったんだけどなぁ…		
+sev04_090.scr:1	sev04_090.scr	1	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	けど、このリングでまた行ける場所が\n増えるんだろうし。\nそれこそ、本当の宝物に出会えるかも		
+sev04_090.scr:2	sev04_090.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	ん〜、そう聞くと\n依頼した甲斐もあったのかな？		
+sev04_090.scr:3	sev04_090.scr	3	ミント	Mint Adenade	personagem	CRLF x2	効力のあるソーサラーリングを手にする者は\n多くいますが、ここまでの効力を持ったものは\n恐らくはいないと思います		
+sev04_090.scr:4	sev04_090.scr	4	ミント	Mint Adenade	personagem	CRLF x1	ですから、リングだけでも大変な価値の\nあるものですよ		
+sev04_090.scr:5	sev04_090.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	じゃあ、これで○○に\n行けない道は無いって事よね？		
+sev04_090.scr:6	sev04_090.scr	6	アンジュ	Ange Serena	personagem		だったら、努めてお宝を集めて回りなさい♪		
+sev04_090.scr:7	sev04_090.scr	7	アンジュ	Ange Serena	personagem		それじゃあ、今回もありがとう		
+sev05_010.scr:0	sev05_010.scr	0	ダオス	Dhaos	personagem		とうとうこの世に現れたか		
+sev05_010.scr:1	sev05_010.scr	1	ダオス	Dhaos	personagem	CRLF x1	お前の事は知っている…。\nディセンダーだな		
+sev05_010.scr:2	sev05_010.scr	2	ダオス	Dhaos	personagem		またお前に会うとは…		
+sev05_010.scr:3	sev05_010.scr	3	ダオス	Dhaos	personagem	CRLF x2	ここまで来るとは大したものだな。\nさすがはヒトの絶望を糧に肥え太る\nディセンダー…		
+sev05_010.scr:4	sev05_010.scr	4	ユグドラシル	Yggdrasill	personagem	CRLF x2	世界の危機が生まれし時、\n世界樹はディセンダーを生み出す。\nそれは、世界の守り手…		
+sev05_010.scr:5	sev05_010.scr	5	ユグドラシル	Yggdrasill	personagem	CRLF x2	だが、私は認めない…。\n結局は、ディセンダーを待ち望む者達に\n堕落を与えただけだ		
+sev05_010.scr:6	sev05_010.scr	6	ユグドラシル	Yggdrasill	personagem	CRLF x2	我々は、ヴェラトローパに生きた民…。\nヒトの祖が地上に降りたその時から、\n今へ渡る時間を生きている		
+sev05_010.scr:7	sev05_010.scr	7	ダオス	Dhaos	personagem		地上へ降りた、多くのヒトの祖の子孫…		
+sev05_010.scr:8	sev05_010.scr	8	ダオス	Dhaos	personagem	CRLF x2	その者達に伝わったディセンダーが\n現れるという予言は、\n絶望から目をそらす者達の大義名分となった		
+sev05_010.scr:9	sev05_010.scr	9	ダオス	Dhaos	personagem	CRLF x2	より世界を混迷に陥れれば、\n救いは現れると！\n愚かな望みを抱かせた！		
+sev05_010.scr:10	sev05_010.scr	10	ダオス	Dhaos	personagem		私は、ディセンダーなど認めぬ		
+sev05_010.scr:11	sev05_010.scr	11	ダオス	Dhaos	personagem		ここで散れ！　偽りの光よ！		
+sev05_010.scr:12	sev05_010.scr	12	(sem caixa de nome)	(sem caixa de nome)	sem_caixa		お前達は何者だ、と問う		
+sev05_020.scr:0	sev05_020.scr	0	ダオス	Dhaos	personagem	CRLF x1	お前の存在は、偽りの希望に過ぎん。\n何度でも散らそうぞ！		
+sev05_030.scr:0	sev05_030.scr	0	ダオス	Dhaos	personagem		おのれ…、ディセンダー…		
+sev05_030.scr:1	sev05_030.scr	1	ユグドラシル	Yggdrasill	personagem	CRLF x2	我々の種族は、ヴェラトローパを降りる時、\nこの世界を治めるに相応しい者として\n設計した		
+sev05_030.scr:2	sev05_030.scr	2	ユグドラシル	Yggdrasill	personagem		天使の力、その全てを見せてやろう		
+sev05_030.scr:3	sev05_030.scr	3	ユグドラシル	Yggdrasill	personagem	CRLF x2	ディセンダーなどいなくとも、\n我等が世界を統治する力を持つ事を\n証明してやる！		
+sev06_010.scr:0	sev06_010.scr	0	ユグドラシル	Yggdrasill	personagem		お前がこの世に現れる事が、道理に反する		
+sev06_010.scr:1	sev06_010.scr	1	ユグドラシル	Yggdrasill	personagem	CRLF x1	お前というマナは我々天使の手によって、\n駆使されるべきなのだ		
+sev06_010.scr:2	sev06_010.scr	2	ユグドラシル	Yggdrasill	personagem		さあ、この手で世界樹へ還してやる！！		
+sev06_020.scr:0	sev06_020.scr	0	ユグドラシル	Yggdrasill	personagem	CRLF x1	さあ、世界樹へ還れ！\nそして、その力を私に！		
+sev06_030.scr:0	sev06_030.scr	0	ユグドラシル	Yggdrasill	personagem	CRLF x2	くっ…。\nこの世界で最強と謳われた\n我等天使を退かせるとは…		
+sev06_030.scr:1	sev06_030.scr	1	ダオス	Dhaos	personagem	CRLF x1	だが、いずれその身を砕き\nマナに還す…		
+sev06_030.scr:2	sev06_030.scr	2	ユグドラシル	Yggdrasill	personagem	CRLF x1	それまで偽りの正義ごっこでも\nやっているんだな…		
+sev07_010.scr:0	sev07_010.scr	0	ダオス	Dhaos	personagem	CRLF x1	お前の存在は、偽りの希望だ。\nまやかしのマナの姿よ、散るがいい！		
+sev07_020.scr:0	sev07_020.scr	0	ユグドラシル	Yggdrasill	personagem	CRLF x2	まだこの世に存在していたか…。\n本来、世界のあるべき姿。\nそれはお前が存在しない世界なんだ		
+sev07_020.scr:1	sev07_020.scr	1	ユグドラシル	Yggdrasill	personagem		さあ、世界樹へと還れ！		
+sev07_030.scr:0	sev07_030.scr	0	ユグドラシル	Yggdrasill	personagem	CRLF x2	お前は世界の影にしか過ぎない。\n共に世界の者と歩む事はならない。\nただ力と原理として在ればいい		
+sev07_030.scr:1	sev07_030.scr	1	ダオス	Dhaos	personagem	CRLF x2	世界全ての者の為に。\nそして、我等天使が世界を統一する為に。\nお前の姿を砕く！		

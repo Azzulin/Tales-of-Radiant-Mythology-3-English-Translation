@@ -1,0 +1,92 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev06_010.scr:0	qev06_010.scr	0	クレス	Cress Albane	personagem	CRLF x1	あんな所に？\n本当に見たのか、チェスター	In a place like that?\nAre you sure, Chester?	
+qev06_010.scr:1	qev06_010.scr	1	チェスター	Chester Barklight	personagem	CRLF x2	ああ、間違いねえ。\n第一、忘れるもんかよ！\nオレ達の故郷を襲った奴なんだぜ！！	Yeah, no doubt about it.\nHow could I forget!?\nHe's the one who attacked our village!!	
+qev06_010.scr:2	qev06_010.scr	2	ミント	Mint Adenade	personagem	CRLF x1	魔王とまで称される男、ダオス…。\nこのまま見過ごすわけには行きません	Dhaos... A man called the Demon King.\nWe cannot let him go unchecked.	
+qev06_010.scr:3	qev06_010.scr	3	チェスター	Chester Barklight	personagem	CRLF x1	もちろんだ。\nオレ達の手で奴を倒さねえと！	Of course not.\nWe've gotta take him down ourselves!	
+qev06_010.scr:4	qev06_010.scr	4	ミント	Mint Adenade	personagem	CRLF x1	ですが、あの強さは尋常ではありません。\n私達だけでは…	But his power is beyond anything\nnormal. We alone might not...	
+qev06_010.scr:5	qev06_010.scr	5	クレス	Cress Albane	personagem		そうだな…	You're right...	
+qev06_010.scr:6	qev06_010.scr	6	クレス	Cress Albane	personagem	CRLF x1	彼が手を貸してくれたら、\n本当に心強いんだが…	If he would lend us a hand,\nthat would really help...	
+qev06_010.scr:7	qev06_010.scr	7	クレス	Cress Albane	personagem	CRLF x1	彼女が手を貸してくれたら、\n本当に心強いんだが…	If she would lend us a hand,\nthat would really help...	
+qev06_010.scr:8	qev06_010.scr	8	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「伝説の戦い」が\nエントリーされました。\nクレスから受ける事が出来ます	Quest 'The Legendary Battle'\nhas been registered.\nYou can accept it from Cress.	
+qev06_020.scr:0	qev06_020.scr	0	クレス	Cress Albane	personagem	CRLF x1	ありがとう。\n君の助けがあれば、きっとダオスを倒せる	Thank you.\nWith your help, we can beat Dhaos.	
+qev06_020.scr:1	qev06_020.scr	1	ミント	Mint Adenade	personagem	CRLF x2	あなたは、追憶の坑道で\n彼に会いましたよね…。\nでしたら、ダオスの力はご存知でしょう	You met him in the Mines of\nMemory before, right...?\nThen you know Dhaos's power.	
+qev06_020.scr:2	qev06_020.scr	2	ミント	Mint Adenade	personagem	CRLF x1	ダオスは只者ではありません。\nその強さは未知数と言ってもいいでしょう	Dhaos is no ordinary foe.\nHis strength is truly an unknown.	
+qev06_020.scr:3	qev06_020.scr	3	チェスター	Chester Barklight	personagem	CRLF x2	ダオスは…、オレ達の故郷に\n封印されていた男だったんだ…。\nそれがある時、封印を破って…	Dhaos was... a man sealed away\nin our village...\nThen one day, he broke free...	
+qev06_020.scr:4	qev06_020.scr	4	クレス	Cress Albane	personagem	CRLF x2	ダオスについて詳しい事は知らないけど、\n封印される程の存在だ。\nあの力はまさに…魔王、ヒトではないよ	We don't know much about Dhaos,\nbut he was powerful enough to be\nsealed. His power is... inhuman.	
+qev06_020.scr:5	qev06_020.scr	5	チェスター	Chester Barklight	personagem	CRLF x1	よし、準備を整えたら行こうぜ！\nブラウニー坑道へな！	Right, let's gear up and head out!\nTo the Brownie Mines!	
+qev06_030.scr:0	qev06_030.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	前に、ここへ仕事に出た時に\nあいつを見たんだ	Last time I was here on a job,\nI spotted him.	
+qev06_030.scr:1	qev06_030.scr	1	チェスター	Chester Barklight	personagem		場所は、ここより奥の方だった	It was deeper in than this.	
+qev06_030.scr:2	qev06_030.scr	2	ミント	Mint Adenade	personagem	CRLF x1	あの、出掛けにロックスさんから\nちょっと気になる話を聞いたんですが…	Um, on our way out, I heard\nsomething from Rocks that concerns me.	
+qev06_030.scr:3	qev06_030.scr	3	クレス	Cress Albane	personagem		どんな話だい？	What kind of story?	
+qev06_030.scr:4	qev06_030.scr	4	ミント	Mint Adenade	personagem	CRLF x1	各国での星晶を巡る戦争は、\nほぼ収まっていますが…	The wars over Star Crystals have\nmostly died down, but...	
+qev06_030.scr:5	qev06_030.scr	5	ミント	Mint Adenade	personagem	CRLF x1	国を襲って、星晶を奪っていく男が\n現れたという話です	A man has appeared who attacks\nnations and steals their Crystals.	
+qev06_030.scr:6	qev06_030.scr	6	ミント	Mint Adenade	personagem		それも、たった一人で…	And he does it all alone...	
+qev06_030.scr:7	qev06_030.scr	7	クレス	Cress Albane	personagem		たった一人で、国を相手に！？	One man, against entire nations!?	
+qev06_030.scr:8	qev06_030.scr	8	ミント	Mint Adenade	personagem	CRLF x1	金色の髪と…、マントに身を包んだ姿。\nそれが男の姿だったそうです	Golden hair... wrapped in a cape.\nThat was how the man was described.	
+qev06_030.scr:9	qev06_030.scr	9	チェスター	Chester Barklight	personagem		その特徴…まさか、奴が！？	That description... Could it be!?	
+qev06_030.scr:10	qev06_030.scr	10	ミント	Mint Adenade	personagem	CRLF x2	そこまではわかりません。\nただ、私としても引っかかるものが\nあったので…	I can't say for certain.\nBut something about it\nbothered me, so...	
+qev06_030.scr:11	qev06_030.scr	11	クレス	Cress Albane	personagem	CRLF x1	僕達の故郷だけじゃない…。\n他の国が犠牲になったというのか…	Not just our village...\nOther nations have suffered too...?	
+qev06_030.scr:12	qev06_030.scr	12	クレス	Cress Albane	personagem	CRLF x1	よし、急ごう。\nあいつの事を、放っては置けない！	Right, let's hurry.\nWe can't leave Dhaos unchecked!	
+qev06_040.scr:0	qev06_040.scr	0	クレス	Cress Albane	personagem	CRLF x2	もし、ミントがさっき話したその男が\nダオスだったとして…。\n何で僕らの村を襲ったんだろう	If the man Mint described really\nis Dhaos...\nWhy did he attack our village?	
+qev06_040.scr:1	qev06_040.scr	1	チェスター	Chester Barklight	personagem		…んな事、知るかよ	...How should I know?	
+qev06_040.scr:2	qev06_040.scr	2	クレス	Cress Albane	personagem	CRLF x1	わずかではあったけども、\n僕らの村には未採掘の星晶があった	Our village had a small amount\nof unmined Star Crystals.	
+qev06_040.scr:3	qev06_040.scr	3	クレス	Cress Albane	personagem	CRLF x1	でも、ダオスはそれを奪っては\nいかなかった	But Dhaos didn't take them\nwhen he attacked.	
+qev06_040.scr:4	qev06_040.scr	4	ミント	Mint Adenade	personagem		そうですね…	That's true...	
+qev06_040.scr:5	qev06_040.scr	5	ミント	Mint Adenade	personagem	CRLF x2	もし、話に聞いた男が仮にダオスであれば、\n今、星晶を集めて、\n何をするつもりなんでしょう	If the man in the reports is Dhaos,\nthen what is he planning\nto do with the Star Crystals?	
+qev06_040.scr:6	qev06_040.scr	6	チェスター	Chester Barklight	personagem	CRLF x1	はッ！\nどうせ良からぬ事だろうよ！	Ha!\nNothing good, that's for sure!	
+qev06_040.scr:7	qev06_040.scr	7	チェスター	Chester Barklight	personagem	CRLF x1	村や国を襲う奴に、\n大層な理由なんてねえよ！	Someone who attacks villages\nhas no noble reason!	
+qev06_040.scr:8	qev06_040.scr	8	チェスター	Chester Barklight	personagem		ほら、行こうぜ！！	Come on, let's go!!	
+qev06_040.scr:9	qev06_040.scr	9	クレス	Cress Albane	personagem		あ、ああ…	Y-Yeah...	
+qev06_050.scr:0	qev06_050.scr	0	ダオス	Dhaos	personagem		ふはははは…	Fwahahaha...	
+qev06_050.scr:1	qev06_050.scr	1	ダオス	Dhaos	personagem	CRLF x2	下等な人間風情が\nここまでやるとは思わなんだぞ。\nそれともこれがディセンダーとやらの力か？	I didn't expect lowly humans\nto push me this far.\nOr is this the Descender's power?	
+qev06_050.scr:2	qev06_050.scr	2	ダオス	Dhaos	personagem	CRLF x1	ひとまずここは引こうではないか。\nだが、私の邪魔はさせぬぞ…	I shall withdraw for now.\nBut I will not let you interfere.	
+qev06_050.scr:3	qev06_050.scr	3	ダオス	Dhaos	personagem	CRLF x1	我等天使の悲願の為に…、ディセンダーよ、\nお前には消えてもらうからな…	For the wish of us angels...\nDescender, I will see you eliminated...	
+qev06_050.scr:4	qev06_050.scr	4	クレス	Cress Albane	personagem		消えた！！	He vanished!!	
+qev06_050.scr:5	qev06_050.scr	5	チェスター	Chester Barklight	personagem		くそっ、あいつを打ち倒せると思ったのに…	Damn, I thought we could beat him.	
+qev06_050.scr:6	qev06_050.scr	6	ミント	Mint Adenade	personagem		戻りましょう	Let's head back.	
+qev06_050.scr:7	qev06_050.scr	7	ミント	Mint Adenade	personagem	CRLF x2	それに、私、\nきっと、ダオスとは、\nまた会う事になると思うんです	Besides, I have a feeling\nthat we will meet Dhaos\nagain.	
+qev06_050.scr:8	qev06_050.scr	8	ミント	Mint Adenade	personagem		そんな気がします…	I just... feel it...	
+qev06_060.scr:0	qev06_060.scr	0	クレス	Cress Albane	personagem		付いてきてくれて、ありがとう	Thank you for coming with us.	
+qev06_060.scr:1	qev06_060.scr	1	クレス	Cress Albane	personagem	CRLF x2	予想以上の強さだったよ…。\n君がいなかったら、\n戻って来れなかったかもしれない	Dhaos was stronger than expected.\nWithout you,\nwe might not have made it back.	
+qev06_060.scr:2	qev06_060.scr	2	チェスター	Chester Barklight	personagem	CRLF x2	ふん、これで諦めるかよ…。\nまた奴を探し出して、\n次こそは勝負を付けてやるさ	Hmph, like I'd give up now...\nWe'll find Dhaos again,\nand next time we'll finish it.	
+qev06_060.scr:3	qev06_060.scr	3	クレス	Cress Albane	personagem		ああ、きっとな…	Yeah, I'm sure of it...	
+qev06_060.scr:4	qev06_060.scr	4	ミント	Mint Adenade	personagem	CRLF x2	でも、彼は…意味もなく国を襲って\n星晶を奪っていたわけでは\nありませんでした…	But... Dhaos wasn't attacking\nnations and stealing Crystals\nwithout reason...	
+qev06_060.scr:5	qev06_060.scr	5	ミント	Mint Adenade	personagem	CRLF x2	ひょっとしたら、\n残忍な性格の持ち主ではない…と\n思うのですが…	Perhaps he isn't as cruel\nas we thought...\nis what I feel...	
+qev06_060.scr:6	qev06_060.scr	6	クレス	Cress Albane	personagem	CRLF x1	ダオスが「星晶をあるべき場所に戻す」と\n言っていた事か…	Dhaos said he'd 'return the Star\nCrystals to where they belong'...	
+qev06_060.scr:7	qev06_060.scr	7	クレス	Cress Albane	personagem	CRLF x1	それは、全ての生き物の為を考えれば\n正しい事かもしれない	For all living things, that may\nactually be the right thing to do.	
+qev06_060.scr:8	qev06_060.scr	8	チェスター	Chester Barklight	personagem	CRLF x1	だからって、襲われた村の連中の\n負った傷がいえるわけじゃねえんだ	But that doesn't heal the wounds\nof the people whose villages fell.	
+qev06_060.scr:9	qev06_060.scr	9	チェスター	Chester Barklight	personagem	CRLF x1	それに、まだ何を目的としてるか\nわかんねえんだぞ	Besides, we still don't know\nwhat his real goal is.	
+qev06_060.scr:10	qev06_060.scr	10	クレス	Cress Albane	personagem		ああ…	Yeah...	
+qev06_060.scr:11	qev06_060.scr	11	クレス	Cress Albane	personagem	CRLF x2	ダオスとはまた戦う事になりそうだ。\n○○、\nその時はまた力を貸してくれ	We'll likely face Dhaos again.\n○○,\nplease lend us your strength then.	
+qev06_060.scr:12	qev06_060.scr	12	クレス	Cress Albane	personagem		今日は、本当にありがとう	Today, truly, thank you.	
+qev06_070.scr:0	qev06_070.scr	0	クレス	Cress Albane	personagem		ダオスだな！	It's Dhaos!	
+qev06_070.scr:1	qev06_070.scr	1	ダオス	Dhaos	personagem		ディセンダー…、またお前に会うとは…	Descender... We meet again...	
+qev06_070.scr:2	qev06_070.scr	2	ダオス	Dhaos	personagem		とうとうこの世に現れたか	So you've finally appeared.	
+qev06_070.scr:3	qev06_070.scr	3	ダオス	Dhaos	personagem	CRLF x1	お前の事は知っている…。\nディセンダーだな	I know of you...\nYou're a Descender.	
+qev06_070.scr:4	qev06_070.scr	4	チェスター	Chester Barklight	personagem	CRLF x2	なっ…。\n○○、お前、\nこいつと何か因縁があったのかよ！	Wh...\n○○, you had\nsome kind of history with him!?	
+qev06_070.scr:5	qev06_070.scr	5	ダオス	Dhaos	personagem	CRLF x1	知らずして当然だ。\nだが、因縁などどうでもいい	Of course you don't know.\nBut past grudges are irrelevant.	
+qev06_070.scr:6	qev06_070.scr	6	ダオス	Dhaos	personagem	CRLF x1	ディセンダーと言う存在が\n私にとって目障りなだけだ	The Descender's existence\nis simply an eyesore to me.	
+qev06_070.scr:7	qev06_070.scr	7	チェスター	Chester Barklight	personagem	CRLF x2	何を余裕かましてやがる！\nオレ達の村のみんなの仇を\nここで取らせてもらうからな！！	Don't get cocky!\nWe'll avenge our village\nright here and now!!	
+qev06_070.scr:8	qev06_070.scr	8	ダオス	Dhaos	personagem	CRLF x1	よかろう。\nディセンダー諸共、消し去ってくれる	Very well.\nI'll erase you along with the Descender.	
+qev06_070.scr:9	qev06_070.scr	9	ミント	Mint Adenade	personagem		待って下さい！	Please wait!	
+qev06_070.scr:10	qev06_070.scr	10	ダオス	Dhaos	personagem	CRLF x1	何だ？\nこの期におよんで命乞いか？	What?\nBegging for your life now?	
+qev06_070.scr:11	qev06_070.scr	11	ミント	Mint Adenade	personagem		あなたに聞きたい事があります	I have a question for you.	
+qev06_070.scr:12	qev06_070.scr	12	ミント	Mint Adenade	personagem	CRLF x1	国を襲い、星晶を奪ったのは\nあなたですか？	The one attacking nations and\nstealing Star Crystals--was it you?	
+qev06_070.scr:13	qev06_070.scr	13	ダオス	Dhaos	personagem		そうだ	It was.	
+qev06_070.scr:14	qev06_070.scr	14	ミント	Mint Adenade	personagem	CRLF x2	前にあなたは、\n私達の村の星晶を奪いませんでした。\nなぜ、ですか？	Before, you didn't take our\nvillage's Star Crystals.\nWhy?	
+qev06_070.scr:15	qev06_070.scr	15	ダオス	Dhaos	personagem	CRLF x1	お前達の村では、大国の様に\n星晶を採掘していなかったからだ	Because your village wasn't mining\nStar Crystals like the great nations.	
+qev06_070.scr:16	qev06_070.scr	16	ダオス	Dhaos	personagem	CRLF x1	大国が各地から集めた星晶は、\nあるべき場所へ戻さねばならんからな	The Crystals hoarded by nations\nmust be returned where they belong.	
+qev06_070.scr:17	qev06_070.scr	17	ミント	Mint Adenade	personagem	CRLF x1	あるべき場所へ戻す？\nあなたがそれを…？	Return them where they belong?\nYou're the one doing that...?	
+qev06_070.scr:18	qev06_070.scr	18	ダオス	Dhaos	personagem	CRLF x2	星晶はヒトだけが独占すべきものではない。\nボルテックスが、星晶を世界樹へ還し、\n再び星晶はあるべき場所へ行渡る	Star Crystals aren't for humans\nalone. The Vortex returns them to\nthe World Tree for all to share.	
+qev06_070.scr:19	qev06_070.scr	19	クレス	Cress Albane	personagem		お前の望みは何なんだ？	What is it you truly want?	
+qev06_070.scr:20	qev06_070.scr	20	ダオス	Dhaos	personagem	CRLF x1	私に…、そして新しくこの世界を治める種族、\n「天使」にはマナが必要なのだ	I... and the angels, the new rulers\nof this world, require mana.	
+qev06_070.scr:21	qev06_070.scr	21	クレス	Cress Albane	personagem		天使…だって？	Angels...you say?	
+qev06_070.scr:22	qev06_070.scr	22	チェスター	Chester Barklight	personagem		ふざけやがって！！	Don't screw with us!!	
+qev06_070.scr:23	qev06_070.scr	23	クレス	Cress Albane	personagem		例え…どんな理由があっても…	No matter......what reason you have.	
+qev06_070.scr:24	qev06_070.scr	24	クレス	Cress Albane	personagem	CRLF x1	村や国の人々の命を奪うお前は、\n絶対に許さない！！	I will never forgive you for taking\nthe lives of our people!!	
+qev06_070.scr:25	qev06_070.scr	25	ダオス	Dhaos	personagem		何とでも言うがいい！！	Say whatever you wish!!	
+qev06_070.scr:26	qev06_070.scr	26	ダオス	Dhaos	personagem	CRLF x1	私の邪魔をすると言うのであれば、\n滅ぼすのみ！	If you stand in my way,\nI will destroy you!	
+qev06_070.scr:27	qev06_070.scr	27	クレス	Cress Albane	personagem		行くぞ！！	Let's go!!	
+qev06_070.scr:28	qev06_070.scr	28	(opcao do jogador)	(opcao do jogador)	escolha		知らない、と言う	Say you don't know	
+qev06_070.scr:29	qev06_070.scr	29	(opcao do jogador)	(opcao do jogador)	escolha		思い出そうとする	Try to remember	
+qev06_080.scr:0	qev06_080.scr	0	ダオス	Dhaos	personagem	CRLF x2	何度でも来るがいい。\n私は、私の理想を追うまでだ！\n邪魔する者は許さぬ！	Come as many times as you like.\nI will pursue my ideals!\nThose who interfere won't be spared!	

@@ -1,0 +1,182 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev10_010.scr:0	mev10_010.scr	0	アンジュ	Ange Serena	personagem		これは、ユージーンさんからの依頼よ	This request comes from Eugene.	
+mev10_010.scr:1	mev10_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	ユージーンさんの故郷、ヘーゼル村の働き手が\n帝国に連れて行かれたそうなの	Laborers from Eugene's home,\nHazel Village, were taken by the Empire.	
+mev10_010.scr:2	mev10_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	村近辺の星晶採掘は終わって、\nみんな解放されていたというのに、	Mining near the village had ended\nand they were supposed to be free, yet...	
+mev10_010.scr:3	mev10_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	今度は遠くの土地の星晶採掘の為に連れて\n行かれて、強制労働を強いられている\nらしいの	they were dragged off to mine\nStar Crystals in distant lands,\nforced into grueling labor.	
+mev10_010.scr:4	mev10_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	ヘーゼル村に残っている者も、\n土地のマナ不足が深刻で、もうあの土地では\n生活してはいけないみたい…	Those remaining in Hazel Village can no\nlonger survive there either, due to the\nsevere lack of Mana in the land...	
+mev10_010.scr:5	mev10_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	そこで、ヘーゼル村のみんなは話し合って、\n決めたそうよ	So the people of Hazel Village\ndiscussed it and came to a decision.	
+mev10_010.scr:6	mev10_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	多少不便でも、マナの恵みにあずかれる土地へ\n移って、村を立て直そうって	Even if inconvenient, they will move\nwhere Mana flows and rebuild their home.	
+mev10_010.scr:7	mev10_010.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	ほら、あなたが以前助けた\nジョアンさん達を覚えてる？	You remember Joan and the others\nwhom you rescued before, yes?	
+mev10_010.scr:8	mev10_010.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	彼らが今、キール君が研究している\nオルタ・ビレッジの構想を元に、\n村を建設中なのよ	Based on the Olta Village concept\nKeele is researching, they are currently\nbuilding a new settlement.	
+mev10_010.scr:9	mev10_010.scr	9	アンジュ	Ange Serena	personagem		そこに住んでもらおうと思ってね	We plan to have them settle there.	
+mev10_010.scr:10	mev10_010.scr	10	アンジュ	Ange Serena	personagem	CRLF x2	ユージーンさんとヴェイグ君は今、\n強制労働の為に連れて行かれた\n村人を解放しに、	Eugene and Veigue have left to free\nthe villagers who were taken\nfor forced labor,	
+mev10_010.scr:11	mev10_010.scr	11	アンジュ	Ange Serena	personagem	CRLF x2	アニーとティトレイ君は、\nヘーゼル村の人達を\n迎えに船を出てるの	while Annie and Tytree departed\nto escort the remaining folks\nfrom Hazel Village.	
+mev10_010.scr:12	mev10_010.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	彼らは新天地へ移動する為に、\nカダイフ砂漠を越える必要があるのよ	To reach their new home, they must\ncross through the Kadaif Desert.	
+mev10_010.scr:13	mev10_010.scr	13	アンジュ	Ange Serena	personagem	CRLF x2	そこで、今回あなたには、ヘーゼル村の\n人達が無事に砂漠を越えられるよう\n魔物を討伐して来てもらいたいの	So this time, I want you to cull\nthe monsters so the villagers can cross\nthe desert in safety.	
+mev10_010.scr:14	mev10_010.scr	14	アンジュ	Ange Serena	personagem		今回の同行者は、すずとユーリさんだよ	Suzu and Yuri will be accompanying you.	
+mev10_010.scr:15	mev10_010.scr	15	アンジュ	Ange Serena	personagem	CRLF x1	それじゃ、ヘーゼル村の人達の為にも\n頑張りましょうね	Now then, let us do our best\nfor the people of Hazel Village!	
+mev10_020.scr:0	mev10_020.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x2	確かにこの環境じゃあ、\n年齢とか男も女も関係なしに\n厳しい砂漠越えになるだろうな	In this harsh environment, crossing\nthe desert is gonna be brutal on\neveryone, young or old, man or woman.	
+mev10_020.scr:1	mev10_020.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x1	それに加えて魔物もわんさか出やがる。\n命懸けもいいとこだ	On top of that, monsters crawl all over.\nThey're putting their lives on the line.	
+mev10_020.scr:2	mev10_020.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x1	ここまでの事態を引き起こしたのは、\n帝国です	It is the Empire that caused matters\nto deteriorate to this extent.	
+mev10_020.scr:3	mev10_020.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x2	オレが、ガルバンゾのギルドにいた時は、\nオレの知る世界は、住んでた場所だけ\nだったな	Back when I was in Garbanzo's guild,\nthe only world I knew was the place\nwhere I lived.	
+mev10_020.scr:4	mev10_020.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x2	帝国の事は知ってたが、\nよその国や、世界の動きなんざ\nまるで見えていなかった	I knew about the Empire, but I had\nzero clue about other nations\nor the state of the wider world.	
+mev10_020.scr:5	mev10_020.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x1	本当、何でも見渡せる自由のギルドだな。\nアドリビトムってのは	Ad Libitum really is a free guild\nwith a view of the whole picture.	
+mev10_020.scr:6	mev10_020.scr	6	すず	Suzu Fujibayashi	personagem		私も里を出て、様々な事を知りました	I too learned much after leaving home.	
+mev10_020.scr:7	mev10_020.scr	7	すず	Suzu Fujibayashi	personagem	CRLF x2	貧富の格差、星晶の大量消費、紛争…。\n大国が小国に強いた、単一栽培が引き起こす\n自然破壊、そして飢餓	The wealth gap, mass Star Crystal use...\nMonoculture imposed by great powers,\nenvironmental ruin, and famine.	
+mev10_020.scr:8	mev10_020.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x1	このまま進んでいけば、\n世界の危機って奴はすぐ訪れる	If things keep going like this,\na global crisis is right around the bend.	
+mev10_020.scr:9	mev10_020.scr	9	ユーリ	Yuri Lowell	personagem	CRLF x2	ラザリスがいようといまいと関係ねえ。\n国のお偉いさんは、全てを食い潰すまで\n気が付かねえんだな	Lazaris or no Lazaris, the bigwigs\nwon't notice until they've devoured\nevery last scrap of this world.	
+mev10_020.scr:10	mev10_020.scr	10	すず	Suzu Fujibayashi	personagem	CRLF x1	その危機を回避出来るかどうか。\n今が岐路の時でしょうね	Whether we can avert that crisis...\nRight now is the crossroads.	
+mev10_020.scr:11	mev10_020.scr	11	ユーリ	Yuri Lowell	personagem		ま、当然だな	Well, damn straight.	
+mev10_020.scr:12	mev10_020.scr	12	ユーリ	Yuri Lowell	personagem	CRLF x1	国のお偉いさんにゃ頼れねえとなると、\nオレ達でやんなきゃな	If we can't count on the brass,\nwe just gotta handle it ourselves.	
+mev10_020.scr:13	mev10_020.scr	13	ユーリ	Yuri Lowell	personagem	CRLF x1	ちっとは気ィ抜けよ。\n気楽にやろうぜ	Loosen up a little.\nTake it easy, alright?	
+mev10_020.scr:14	mev10_020.scr	14	ユーリ	Yuri Lowell	personagem	CRLF x1	ディセンダーか何か知らねえけど、\n気負い過ぎんなよ	Descender or whatever you are,\ndon't put too much pressure on yourself.	
+mev10_020.scr:15	mev10_020.scr	15	すず	Suzu Fujibayashi	personagem		ええ	Indeed.	
+mev10_020.scr:16	mev10_020.scr	16	すず	Suzu Fujibayashi	personagem	CRLF x1	ですから、○○さんは\n一人で抱え込まないで下さい	So please, ○○,\ndo not shoulder everything alone.	
+mev10_020.scr:17	mev10_020.scr	17	すず	Suzu Fujibayashi	personagem		私達がいますから	You have us by your side.	
+mev10_020.scr:18	mev10_020.scr	18	ユーリ	Yuri Lowell	personagem		オレ達が選んだ道だ	This is the path we chose.	
+mev10_020.scr:19	mev10_020.scr	19	ユーリ	Yuri Lowell	personagem	CRLF x2	一つの選択は小さいかもしれねえが、\nその選択が世界を正しい方向に\n変えていくだろうよ	A single choice might seem small,\nbut it can steer the whole world\nin the right direction.	
+mev10_020.scr:20	mev10_020.scr	20	ユーリ	Yuri Lowell	personagem	CRLF x2	やるんだよ、それを。\nお前だけじゃなくて、\nアドリビトムのみんなでな	And that's what we'll do.\nNot just you, but everyone\nin Ad Libitum together.	
+mev10_020.scr:21	mev10_020.scr	21	(opcao do jogador)	(opcao do jogador)	escolha		同意する	Agree	
+mev10_020.scr:22	mev10_020.scr	22	(opcao do jogador)	(opcao do jogador)	escolha		やや不安そうな顔をする	Look somewhat uneasy	
+mev10_025.scr:0	mev10_025.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x1	道はこっちなんだが。\nさて…	The path goes this way, but...\nWell now...	
+mev10_025.scr:1	mev10_025.scr	1	ユーリ	Yuri Lowell	personagem		鍵は、向こう側からかけてあるらしいな	Seems it's locked from the other side.	
+mev10_025.scr:2	mev10_025.scr	2	すず	Suzu Fujibayashi	personagem		私に任せて下さい	Leave it to me.	
+mev10_025.scr:3	mev10_025.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x1	へえ。\nさすがは忍びだな	Heh.\nAs expected of a ninja.	
+mev10_025.scr:4	mev10_025.scr	4	すず	Suzu Fujibayashi	personagem		さあ、先を急ぎましょう	Now, let us make haste.	
+mev10_030.scr:0	mev10_030.scr	0	ユーリ	Yuri Lowell	personagem		魔物が見つかんねえな…	Can't seem to find that monster...	
+mev10_030.scr:1	mev10_030.scr	1	すず	Suzu Fujibayashi	personagem		ティランピオン、でしたか？	The Tyranpion, was it?	Proposta de nome de monstro: ティランピオン -> Tyranpion (Tyrant + Scorpion; monstro da quest do deserto).
+mev10_030.scr:2	mev10_030.scr	2	ユーリ	Yuri Lowell	personagem	CRLF x2	この砂漠の中でも、厄介な相手だ。\n普通の奴が束になってかかっても、\nなかなか倒せるもんじゃねえ	A nasty customer, even for this desert.\nOrdinary fighters couldn't bring it\ndown even in a pack.	
+mev10_030.scr:3	mev10_030.scr	3	ユーリ	Yuri Lowell	personagem		他の魔物はそうでもないんだがな	The other beasts aren't nearly as bad.	
+mev10_030.scr:4	mev10_030.scr	4	すず	Suzu Fujibayashi	personagem	CRLF x1	それを倒せば、ヘーゼル村の皆さんも\n無事に砂漠を渡れるのですね	Defeating it will allow the folks from\nHazel Village to cross safely, then.	
+mev10_030.scr:5	mev10_030.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x2	ああ。\nだから、早いとこそいつを\n見つけ出さなきゃな	Yeah.\nSo we gotta track it down\nas fast as we can.	
+mev10_040.scr:0	mev10_040.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x1	おおっと。\nこりゃ、でかいな	Whoa there.\nNow that's a big boy.	
+mev10_040.scr:1	mev10_040.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x1	これがティランピオンですね。\nでは、行きます	So this is the Tyranpion.\nHere I come!	
+mev10_050.scr:0	mev10_050.scr	0	ユーリ	Yuri Lowell	personagem		お、まだいたか	Oh, still more of you?	
+mev10_050.scr:1	mev10_050.scr	1	ユーリ	Yuri Lowell	personagem		お手柔らかに頼むぜ！	Go easy on us, will ya!	
+mev10_060.scr:0	mev10_060.scr	0	ユーリ	Yuri Lowell	personagem		何とか仕留められたな	Managed to put it down.	
+mev10_060.scr:1	mev10_060.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x1	これでヘーゼル村の皆さんも\n無事に砂漠を越えられます	Now the people of Hazel Village\ncan cross the desert safely.	
+mev10_060.scr:2	mev10_060.scr	2	ユーリ	Yuri Lowell	personagem		じゃあ、戻るか	Alright, let's head back.	
+mev10_060.scr:3	mev10_060.scr	3	サレ	Saleh	personagem		アドリビトム、ねえ…	Ad Libitum, hmm...?	
+mev10_060.scr:4	mev10_060.scr	4	サレ	Saleh	personagem	CRLF x1	…大事な働き手を奪ってくれた報い、\n必ず受けてもらうよ	You will pay dearly for snatching\naway our precious laborers.	
+mev10_060.scr:5	mev10_060.scr	5	サレ	Saleh	personagem	CRLF x1	でも、今日はヴェイグがいないみたいだし、\n僕と遊ぶのはまた今度にしようか…	Though Veigue doesn't seem to be here,\nso our playtime will have to wait...	
+mev10_060.scr:6	mev10_060.scr	6	サレ	Saleh	personagem		楽しみにしているよ…フフフ…	I look forward to it... Hehehe...	
+mev10_070.scr:0	mev10_070.scr	0	ユージーン	Eugene Gallardo	personagem	CRLF x1	ヘーゼル村のみんなは、無事砂漠を越えられた。\n協力に深く感謝する	The villagers crossed the desert safely.\nWe are deeply grateful for your help.	
+mev10_070.scr:1	mev10_070.scr	1	ユージーン	Eugene Gallardo	personagem	CRLF x2	うむ。\n村のみんなは、お前の活躍で\n新しい生活を手に入れられた	Indeed.\nThanks to your valor, the villagers\nhave secured a new life.	
+mev10_070.scr:2	mev10_070.scr	2	ユージーン	Eugene Gallardo	personagem	CRLF x1	いつか、お返しをせねばと\nみんなが感謝していたぞ	They all expressed their gratitude,\nvowing to repay you someday.	
+mev10_070.scr:3	mev10_070.scr	3	ユージーン	Eugene Gallardo	personagem	CRLF x2	そう謙遜する事は無い。\n自分の力を知る事は、\n強くなる為に必要な事だ	There is no need for modesty.\nAcknowledging one's own power is\nvital to growing stronger.	
+mev10_070.scr:4	mev10_070.scr	4	ユージーン	Eugene Gallardo	personagem	CRLF x1	今回のお前の活躍は、\nそれだけの強さを持っていると言う証	Your deeds this time prove that\nyou possess true strength.	
+mev10_070.scr:5	mev10_070.scr	5	ユージーン	Eugene Gallardo	personagem	CRLF x1	さらなる強さを求めるならば、\n今の実力を受け入れておくのだな	If you seek greater strength,\naccept the prowess you wield now.	
+mev10_070.scr:6	mev10_070.scr	6	アンジュ	Ange Serena	personagem		ユージーンさん達も無事で良かった	I am glad you all returned safely too.	
+mev10_070.scr:7	mev10_070.scr	7	ユージーン	Eugene Gallardo	personagem	CRLF x1	ああ、現場にサレがいなかったのが\n幸いだった	Indeed. Fortunately, Saleh was not\npresent at the scene.	
+mev10_070.scr:8	mev10_070.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	オルタ・ビレッジもうまく運営して\nいければいいな	I hope Olta Village can be managed\nsmoothly as well.	
+mev10_070.scr:9	mev10_070.scr	9	ユージーン	Eugene Gallardo	personagem	CRLF x1	暗雲とした世の中、多くの者が\n未来への展望を見失っている	In these dark times, many have lost\nsight of any prospect for the future.	
+mev10_070.scr:10	mev10_070.scr	10	ユージーン	Eugene Gallardo	personagem	CRLF x2	みんな、不安と困惑の中にあり、\nどう生きていけばいいかがわからず\n世の中に失望している	Lost in anxiety and confusion, they\nknow not how to live and grow\ndisillusioned with the world.	
+mev10_070.scr:11	mev10_070.scr	11	ティトレイ	Tytree Crowe	personagem		国も助けてくれないからな…	The state won't lift a finger either...	
+mev10_070.scr:12	mev10_070.scr	12	ユージーン	Eugene Gallardo	personagem	CRLF x1	だが、それでも希望を見つけ、\n自分達で未来を作らなければならない	Yet even so, we must find hope\nand forge our future ourselves.	
+mev10_070.scr:13	mev10_070.scr	13	ユージーン	Eugene Gallardo	personagem	CRLF x2	頼るばかりでなく、一人ひとりが\n希望を生み出せるきっかけに\n我々アドリビトムがならなければな	Rather than fostering dependence,\nwe in Ad Libitum must spark hope\nwithin each individual.	
+mev10_070.scr:14	mev10_070.scr	14	アンジュ	Ange Serena	personagem		それじゃあ、今回もお疲れ様でした	Thank you for your hard work once again.	
+mev10_070.scr:15	mev10_070.scr	15	アンジュ	Ange Serena	personagem	CRLF x2	それから、ちょっと研究室を訪ねてくれる？\nハロルドさん達の研究、\n難航しているみたいだし	Could you visit the lab after this?\nIt seems Harold's research is running\ninto difficulties.	
+mev10_070.scr:16	mev10_070.scr	16	アンジュ	Ange Serena	personagem		ちょっと経過を聞いてきて欲しいの	I want you to check on their progress.	
+mev10_070.scr:17	mev10_070.scr	17	アンジュ	Ange Serena	personagem		じゃ、お願いね	I leave it to you, then!	
+mev10_070.scr:18	mev10_070.scr	18	(opcao do jogador)	(opcao do jogador)	escolha		みんなの無事を喜ぶ	Express relief that all are safe	
+mev10_070.scr:19	mev10_070.scr	19	(opcao do jogador)	(opcao do jogador)	escolha		謙遜する	Act humbly	
+mev10_070.scr:20	mev10_070.scr	20	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	ヴェイグとユージーン、ティトレイとアニーが\n別任務から帰還しました	Veigue, Eugene, Tytree, and Annie\nreturned from their separate mission.	
+mev10_080.scr:0	mev10_080.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	おっ。\nどうした、○○	Yo.\nWhat's up, ○○?	
+mev10_080.scr:1	mev10_080.scr	1	ロニ	Loni Dunamis	personagem	CRLF x2	アンジュも気を揉んでいるんだな。\n無理もねえか。\nあれからほとんど進展してないしな	Ange is fretting too, huh?\nCan't blame her. There's been almost\nzero progress since then.	
+mev10_080.scr:2	mev10_080.scr	2	ロニ	Loni Dunamis	personagem	CRLF x1	みんな、そうやって\nここの様子を見に来るんだ	Everyone keeps dropping by\nto check on things here.	
+mev10_080.scr:3	mev10_080.scr	3	ロニ	Loni Dunamis	personagem		俺も気になって見に来たんだけどな	I came to check out of curiosity too.	
+mev10_080.scr:4	mev10_080.scr	4	ハロルド	Harold Berselius	personagem	CRLF x1	ん〜〜〜〜…、\nあと一歩ってところなのよね〜	Mmmmmmph...\nWe are just one step away, too!	
+mev10_080.scr:5	mev10_080.scr	5	ハロルド	Harold Berselius	personagem		「アレ」さえあれば、いいんだけど	If only we had "that," it'd work!	
+mev10_080.scr:6	mev10_080.scr	6	ハロルド	Harold Berselius	personagem		ん〜、言うのは簡単だけどさ…	Hmm, easy enough to say, but...	
+mev10_080.scr:7	mev10_080.scr	7	ロニ	Loni Dunamis	personagem		ああ、俺も協力するぜ？	Yeah, I'll lend a hand too!	
+mev10_080.scr:8	mev10_080.scr	8	ハロルド	Harold Berselius	personagem		取りに行く…、ねえ	"Go fetch it," huh...	
+mev10_080.scr:9	mev10_080.scr	9	ハロルド	Harold Berselius	personagem		取りに行けるもんならいいけどさぁ…	If only fetching it were that simple...	
+mev10_080.scr:10	mev10_080.scr	10	リタ	Rita Mordio	personagem	CRLF x2	ヴェラトローパを出現させる為には、\nヴェラトローパのドクメントが\n必要なのよ	To make Veratropa appear,\nwe need the Document\nof Veratropa itself.	
+mev10_080.scr:11	mev10_080.scr	11	ロニ	Loni Dunamis	personagem	CRLF x1	ミもフタもないだろ。\n…それがわかったら、苦労しねえよ	Talk about useless advice!\nIf we knew that, we wouldn't be stuck!	
+mev10_080.scr:12	mev10_080.scr	12	ロニ	Loni Dunamis	personagem	CRLF x1	見た事も触った事もない物、\n探せるわけねえもんなあ	Can't go searching for something\nwe've never seen or touched, after all.	
+mev10_080.scr:13	mev10_080.scr	13	リタ	Rita Mordio	personagem	CRLF x1	ほんの一部でもいいから、ヴェラトローパの\n純粋なドクメントがあれば…	Even just a tiny fragment of\nVeratropa's pure Document would do...	
+mev10_080.scr:14	mev10_080.scr	14	リタ	Rita Mordio	personagem	CRLF x1	ヴェラトローパの次元に共鳴させて、\n干渉する事が出来るんだけど	Then we could resonate with its\ndimension and directly interfere with it.	
+mev10_080.scr:15	mev10_080.scr	15	ハロルド	Harold Berselius	personagem		もうちょっと考えてみるわ	I'll ponder it a little more.	
+mev10_080.scr:16	mev10_080.scr	16	ロニ	Loni Dunamis	personagem	CRLF x1	…無理すんなよな。\n寝てねぇだろ	...Don't push yourself too hard.\nYou haven't slept, have you?	
+mev10_080.scr:17	mev10_080.scr	17	ハロルド	Harold Berselius	personagem	CRLF x2	あら！\nこんな面白い事なんだもの、\n寝てる時間も惜しいわよ〜♪	My!\nWith something this fascinating,\nsleeping is a waste of time!	
+mev10_080.scr:18	mev10_080.scr	18	(opcao do jogador)	(opcao do jogador)	escolha		アンジュに頼まれてきた、と言う	Say Ange asked you to come	
+mev10_080.scr:19	mev10_080.scr	19	(opcao do jogador)	(opcao do jogador)	escolha		様子が気になって来た、と言う	Say you were curious how things were	
+mev10_080.scr:20	mev10_080.scr	20	(opcao do jogador)	(opcao do jogador)	escolha		「アレ」とは何かを尋ねる	Ask what "that" is	
+mev10_080.scr:21	mev10_080.scr	21	(opcao do jogador)	(opcao do jogador)	escolha		必要なものがあれば取りに行く、と言う	Say you'll fetch whatever is needed	
+mev10_090.scr:0	mev10_090.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	○○。\nセルシウスは、甲板にいるかな？	○○.\nIs Celsius on the deck?	
+mev10_090.scr:1	mev10_090.scr	1	カノンノ	Kanonno Grassvalley	personagem		うん、ありがと	Yeah, thank you!	
+mev10_090.scr:2	mev10_090.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん、ありがと。\nちょっとセルシウスに会いたかったから	Yeah, thanks.\nI wanted to see Celsius for a bit.	
+mev10_090.scr:3	mev10_090.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	今まで描いた絵をね、\nセルシウスに見てもらおうと思って	I thought I'd show Celsius\nthe pictures I've drawn so far.	
+mev10_090.scr:4	mev10_090.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	絵の風景に、精霊の世界とか\nあったりするのかなあって	I wondered if any of the landscapes\nmight be from the spirit world.	
+mev10_090.scr:5	mev10_090.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	いつもの様に、知らないって\n言われちゃうだけかもしれないけどね…	Though she might just tell me\nshe doesn't know, like usual...	
+mev10_090.scr:6	mev10_090.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	でも、不思議だな。\nこれらの風景がどこかにあるって\n思えてるのが…	Still, it's so mysterious.\nThe fact that I believe these places\ntruly exist somewhere...	
+mev10_090.scr:7	mev10_090.scr	7	カノンノ	Kanonno Grassvalley	personagem		……………ぁ	.........Ah.	
+mev10_090.scr:8	mev10_090.scr	8	カノンノ	Kanonno Grassvalley	personagem		…うん……、そうだね…	...Yeah... you're right...	
+mev10_090.scr:9	mev10_090.scr	9	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	みんなに知らないって言われても、\n諦められないの…	Even when everyone says they don't\nrecognize them, I can't give up...	
+mev10_090.scr:10	mev10_090.scr	10	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ホント、何でなんだろうな。\nそれに、どうして描かずには\nいられないんだろ	Seriously, why is that?\nAnd why do I feel compelled\nto keep drawing them?	
+mev10_090.scr:11	mev10_090.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あ、もし良かったら\n一緒に行ってくれるかな？	Oh, if it's alright with you,\nwould you come with me?	
+mev10_090.scr:12	mev10_090.scr	12	カノンノ	Kanonno Grassvalley	personagem		お願い、○○…	Please, ○○...	
+mev10_090.scr:13	mev10_090.scr	13	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん。\nありがとう、○○	Yay!\nThank you, ○○!	
+mev10_090.scr:14	mev10_090.scr	14	(opcao do jogador)	(opcao do jogador)	escolha		うなずく	Nod in agreement	
+mev10_090.scr:15	mev10_090.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		自信無さそうに答える	Answer without much confidence	
+mev10_090.scr:16	mev10_090.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		その風景が本当にあるから、と言う	Say that the scenery truly exists	
+mev10_090.scr:17	mev10_090.scr	17	(opcao do jogador)	(opcao do jogador)	escolha		不思議だね、と同意する	Agree that it is mysterious	
+mev10_090.scr:18	mev10_090.scr	18	(opcao do jogador)	(opcao do jogador)	escolha		セルシウスに見せるよう促す	Urge her to show it to Celsius	
+mev10_090.scr:19	mev10_090.scr	19	(opcao do jogador)	(opcao do jogador)	escolha		一緒にセルシウスの所へ行く、と言う	Say you will go with her to Celsius	
+mev10_100.scr:0	mev10_100.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ねえ、セルシウス。\nちょっと見てもらいたいものが\nあるんだけど	Say, Celsius.\nThere is something I'd like\nyou to take a look at.	
+mev10_100.scr:1	mev10_100.scr	1	セルシウス	Celsius	personagem		何かしら？	What might that be?	
+mev10_100.scr:2	mev10_100.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	私が、描いた絵なんだけど…。\nこの中に、知ってる風景ってあるかな？	It's drawings that I made...\nDo any of these places look familiar?	
+mev10_100.scr:3	mev10_100.scr	3	セルシウス	Celsius	personagem		いいえ…、知らないわ	No... I recognize none of them.	
+mev10_100.scr:4	mev10_100.scr	4	セルシウス	Celsius	personagem	CRLF x2	精霊は、この世界の事を\nヒトよりはわかるけれども。\n知らないものばかりね…	Spirits understand this world better\nthan humans do, yet there is so much\nI do not know...	
+mev10_100.scr:5	mev10_100.scr	5	カノンノ	Kanonno Grassvalley	personagem		そう…	I see...	
+mev10_100.scr:6	mev10_100.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	精霊にもわからないなら、\nやっぱりただの妄想だったのかな…	If even a spirit doesn't know,\nmaybe it was just my imagination...	
+mev10_100.scr:7	mev10_100.scr	7	セルシウス	Celsius	personagem		あら、一枚落ちたわよ？	Oh, you dropped one.	
+mev10_100.scr:8	mev10_100.scr	8	カノンノ	Kanonno Grassvalley	personagem		あ…、いけない	Ah... oops.	
+mev10_100.scr:9	mev10_100.scr	9	セルシウス	Celsius	personagem		これは…！？	Could this be...?!	
+mev10_100.scr:10	mev10_100.scr	10	カノンノ	Kanonno Grassvalley	personagem		この風景、知ってるの？	Do you recognize this scenery?!	
+mev10_100.scr:11	mev10_100.scr	11	セルシウス	Celsius	personagem	CRLF x2	知ってるも何も…。\nあなた、これがヴェラトローパよ！\nヒトの祖が地上に降りるまで過ごした…	Recognize it? Child, this is Veratropa!\nWhere the Progenitor of Man dwelt\nbefore descending to earth...	
+mev10_100.scr:12	mev10_100.scr	12	カノンノ	Kanonno Grassvalley	personagem		本…当に？	R-Really...?	
+mev10_100.scr:13	mev10_100.scr	13	セルシウス	Celsius	personagem	CRLF x1	その絵を持って、研究室のみんなに\n見せなさい	Take that drawing and show it\nto everyone in the lab at once!	
+mev10_100.scr:14	mev10_100.scr	14	セルシウス	Celsius	personagem	CRLF x2	ディセンダー。\n早く、カノンノを連れて研究室へ。\nいいわね？	Descender.\nHurry, take Kanonno to the lab.\nUnderstood?	
+mev10_110.scr:0	mev10_110.scr	0	リタ	Rita Mordio	personagem		この風景が、ヴェラトローパ？	This scenery is Veratropa?!	
+mev10_110.scr:1	mev10_110.scr	1	ウィル	Will Raynard	personagem		しかし、カノンノがなぜそれを？	Yet why would Kanonno know of it?	
+mev10_110.scr:2	mev10_110.scr	2	カノンノ	Kanonno Grassvalley	personagem		わかりません…	I don't know...	
+mev10_110.scr:3	mev10_110.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ただ、いつもの様に紙の上に\n風景が見えて…	I just saw the landscape on the paper,\nsame as always...	
+mev10_110.scr:4	mev10_110.scr	4	リタ	Rita Mordio	personagem		……これは、どういう事なの…？	...Just what is going on here...?	
+mev10_110.scr:5	mev10_110.scr	5	リタ	Rita Mordio	personagem	CRLF x1	カノンノ、あんたのドクメントを\n見てもいい？	Kanonno, may I take a look\nat your Document?	
+mev10_110.scr:6	mev10_110.scr	6	カノンノ	Kanonno Grassvalley	personagem		あ、うん、いいよ…	Ah, sure, go ahead...	
+mev10_120.scr:0	mev10_120.scr	0	リタ	Rita Mordio	personagem		この頭上のドクメント…	This Document hovering above her...	
+mev10_120.scr:1	mev10_120.scr	1	リタ	Rita Mordio	personagem	CRLF x1	ハロルド、あんたのドクメントと比べたいの。\nいい？	Harold, I want to compare it\nwith your Document. Alright?	
+mev10_120.scr:2	mev10_120.scr	2	ハロルド	Harold Berselius	personagem		オッケー	Okey-dokey!	
+mev10_120.scr:3	mev10_120.scr	3	リタ	Rita Mordio	personagem		やっぱり…	Just as I thought...	
+mev10_120.scr:4	mev10_120.scr	4	リタ	Rita Mordio	personagem	CRLF x1	カノンノの頭上に見えるドクメントは\n普通のヒトとは違う	The Document above Kanonno's head\ndiffers from an ordinary human's!	
+mev10_120.scr:5	mev10_120.scr	5	セルシウス	Celsius	personagem	CRLF x1	感じるわ。\nこの中にヴェラトローパを	I sense it.\nVeratropa is within this.	
+mev10_120.scr:6	mev10_120.scr	6	セルシウス	Celsius	personagem		どうして、カノンノの中に？	Why is it inside Kanonno?	
+mev10_120.scr:7	mev10_120.scr	7	リタ	Rita Mordio	personagem	CRLF x1	ちょっと！\n本当なの、それ！	Hold on!\nIs that really true?!	
+mev10_120.scr:8	mev10_120.scr	8	リタ	Rita Mordio	personagem	CRLF x1	だとしたら、…さらに展開すれば\nヴェラトローパのドクメントが手に入る	If so... unfolding it further\nwill yield Veratropa's Document!	
+mev10_120.scr:9	mev10_120.scr	9	リタ	Rita Mordio	personagem	CRLF x1	でも、これ以上続ければ、\nカノンノの身体に負担が…	Yet continuing beyond this\nwill put a severe strain on her body...	
+mev10_120.scr:10	mev10_120.scr	10	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ううん、続けて。\nヴェラトローパを出現させる為に\n必要なんでしょう	No, keep going.\nIt's necessary to make Veratropa\nappear, isn't it?	
+mev10_120.scr:11	mev10_120.scr	11	リタ	Rita Mordio	personagem		……わかった	...Understood.	
+mev10_120.scr:12	mev10_120.scr	12	リタ	Rita Mordio	personagem		じゃあ、少し我慢して	Hold on tight for a moment.	
+mev10_120.scr:13	mev10_120.scr	13	セルシウス	Celsius	personagem	CRLF x1	これよ。\nヴェラトローパのドクメント！！	This is it!\nThe Document of Veratropa!!	
+mev10_120.scr:14	mev10_120.scr	14	リタ	Rita Mordio	personagem	CRLF x1	よっし、コピー出来たっ！\n可視化を解除するわ！！	Yes! I copied it!\nReleasing visualization now!!	
+mev10_120.scr:15	mev10_120.scr	15	リタ	Rita Mordio	personagem		カノンノ！	Kanonno!	
+mev10_120.scr:16	mev10_120.scr	16	リタ	Rita Mordio	personagem		やっぱり、かなりの負担だったのね	The strain was tremendous after all...	
+mev10_120.scr:17	mev10_120.scr	17	リタ	Rita Mordio	personagem		肉体とドクメントにズレが生じたのかも	Her body and Document fell out of sync.	
+mev10_120.scr:18	mev10_120.scr	18	セルシウス	Celsius	personagem		わたしが医務室へ連れて行くわ	I shall carry her to the infirmary.	
+mev10_120.scr:19	mev10_120.scr	19	ハロルド	Harold Berselius	personagem		ええ、よーく休ませてあげて	Yes, let her rest thoroughly.	
+mev10_120.scr:20	mev10_120.scr	20	ハロルド	Harold Berselius	personagem	CRLF x1	やっぱり、ドクメントを細かく展開するのは、\n危険なのね	Unfolding a Document in detail\ntruly is dangerous, isn't it?	
+mev10_120.scr:21	mev10_120.scr	21	ハロルド	Harold Berselius	personagem	CRLF x1	でも、これでヴェラトローパへ\n行く事が出来るわよ！	Still, with this, we can finally\nhead to Veratropa!	
+mev10_120.scr:22	mev10_120.scr	22	(mensagem de sistema)	(mensagem de sistema)	sistema		カノンノが治療のため、医務室に収容されます	Kanonno rests in the infirmary for care.	
+mev10_120.scr:23	mev10_120.scr	23	(mensagem de sistema)	(mensagem de sistema)	sistema		カノンノがパーティから外れました	Kanonno has left the party.	
+mev10_130.scr:0	mev10_130.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	ええ！？\nその「ヒトの祖」の遺構って、空にあるの？	What?! Ruins of the Progenitor of Man\nare floating in the sky?!	
+mev10_130.scr:1	mev10_130.scr	1	シング	Shing Meteoryte	personagem		でも、何もないじゃないか…	But there is nothing up there...	
+mev10_130.scr:2	mev10_130.scr	2	リタ	Rita Mordio	personagem	CRLF x1	あるの。\n何もない所から、引っ張り出すのよ	It is there.\nWe'll pull it right out of empty air!	
+mev10_130.scr:3	mev10_130.scr	3	ハロルド	Harold Berselius	personagem	CRLF x2	空間が反応してる。\nカノンノにあったドクメントと\n呼応する様に	Space is reacting!\nResonating with the Document\nthat was inside Kanonno!	
+mev10_130.scr:4	mev10_130.scr	4	ハロルド	Harold Berselius	personagem	CRLF x1	これを、私達と同じ物質の振動数に\nおとしてやれば…	If we drop its frequency\nto match our physical matter...	
+mev10_130.scr:5	mev10_130.scr	5	ハロルド	Harold Berselius	personagem		じゃあ、行くわよ！	Here we go!	
+mev10_150.scr:0	mev10_150.scr	0	シング	Shing Meteoryte	personagem		何だ…？　宮殿？	What is that...? A palace?!	
+mev10_150.scr:1	mev10_150.scr	1	ジェイド	Jade Curtiss	personagem	CRLF x1	これが、「ヒトの祖」の遺構…。\nヴェラトローパ…	Ruins of the Progenitor of Man...\nVeratropa...	
+mev10_150.scr:2	mev10_150.scr	2	ハロルド	Harold Berselius	personagem		さてと	Now then.	
+mev10_150.scr:3	mev10_150.scr	3	ハロルド	Harold Berselius	personagem	CRLF x1	この世界の始まり、創世の時のヒミツを\n探りに行ってくれるのは誰かしら？	Who will venture forth to uncover\nthe secrets of this world's creation?	
+mev10_150.scr:4	mev10_150.scr	4	ハロルド	Harold Berselius	personagem		この依頼は、私から出しておくわね	I shall post this quest myself!	

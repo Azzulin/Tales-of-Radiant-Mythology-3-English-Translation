@@ -1,0 +1,154 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev02_010.scr:0	mev02_010.scr	0	アンジュ	Ange Serena	personagem		これは、エステルからの依頼よ		
+mev02_010.scr:1	mev02_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	コンフェイト大森林にある、\nガルバンゾ国が行った星晶採掘の跡地へ行って、\n調査をしてきて欲しいの		
+mev02_010.scr:2	mev02_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	分析調査はフィリアに頼んでるから、\nあなたは、エステルの護衛を\nしっかりお願いね		
+mev02_010.scr:3	mev02_010.scr	3	アンジュ	Ange Serena	personagem		それじゃ、気を付けて行ってらっしゃい		
+mev02_020.scr:0	mev02_020.scr	0	リッド	Reid Hershel	personagem	CRLF x1	ここも随分、動物が減ったなあ。\n狩りにはちょうどいい森だったのに		
+mev02_020.scr:1	mev02_020.scr	1	エステル	Estelle	personagem	CRLF x1	そういえば、魔物は多いけれど\n動物はあまり見かけませんでした		
+mev02_020.scr:2	mev02_020.scr	2	フィリア	Philia Felice	personagem		星晶が採掘され始めてから、ですね		
+mev02_020.scr:3	mev02_020.scr	3	フィリア	Philia Felice	personagem	CRLF x2	星晶は、生命の源であるマナを発します。\nだから、採掘される前は、この土地も\n生命に溢れていたんですが…		
+mev02_020.scr:4	mev02_020.scr	4	エステル	Estelle	personagem		すみません…		
+mev02_020.scr:5	mev02_020.scr	5	リッド	Reid Hershel	personagem	CRLF x2	エステルが謝る事ねえよ。\n星晶採掘を命じたのは、\nエステルじゃないんだろ？		
+mev02_020.scr:6	mev02_020.scr	6	エステル	Estelle	personagem	CRLF x1	はい。\n王女ですが、わたしに止める権限は無くて…		
+mev02_020.scr:7	mev02_020.scr	7	フィリア	Philia Felice	personagem	CRLF x1	ですから、\nご自分の意志で国を出られたのでしょう？		
+mev02_020.scr:8	mev02_020.scr	8	エステル	Estelle	personagem		はい		
+mev02_020.scr:9	mev02_020.scr	9	エステル	Estelle	personagem	CRLF x2	まず、自分の目で生物が変化するという\n現象を確かめて、もしそれが本当なら、\nそれをどうにかしたくて…		
+mev02_020.scr:10	mev02_020.scr	10	フィリア	Philia Felice	personagem	CRLF x2	これから、出来る事をやればいいんです。\n私達アドリビトムは、そうやって\n働いているのですから		
+mev02_020.scr:11	mev02_020.scr	11	リッド	Reid Hershel	personagem	CRLF x2	そうだ。\nエステルはもう、\n立派なアドリビトムの一員なんだからな！		
+mev02_020.scr:12	mev02_020.scr	12	エステル	Estelle	personagem		はい！		
+mev02_030.scr:0	mev02_030.scr	0	リッド	Reid Hershel	personagem	CRLF x1	なあ、星晶の採掘が原因で起こってる\n生物の変化ってどういうもんなんだ？		
+mev02_030.scr:1	mev02_030.scr	1	エステル	Estelle	personagem		まだ、詳しくはわかりません		
+mev02_030.scr:2	mev02_030.scr	2	エステル	Estelle	personagem	CRLF x2	現場で作業をしていた人達による話では、\n全く別の生物になってしまう程の\n変化らしいんです		
+mev02_030.scr:3	mev02_030.scr	3	フィリア	Philia Felice	personagem	CRLF x2	ガルバンゾ国は、この土地以外でも\n世界各地で星晶を採掘していましたよね。\nそこでも同じ様な話があったのでしょうか？		
+mev02_030.scr:4	mev02_030.scr	4	エステル	Estelle	personagem	CRLF x2	はい。\n他にも３ヶ所の土地で起こったと\n聞いています		
+mev02_030.scr:5	mev02_030.scr	5	フィリア	Philia Felice	personagem	CRLF x1	３ヶ所も…。\n星晶採掘地に限ってなのですね		
+mev02_030.scr:6	mev02_030.scr	6	エステル	Estelle	personagem	CRLF x2	はい。\n決まって、採掘が終盤に近づいた頃から\n採掘し終えた期間に起こる様です		
+mev02_030.scr:7	mev02_030.scr	7	フィリア	Philia Felice	personagem		星晶との関連性はわかりませんが…		
+mev02_030.scr:8	mev02_030.scr	8	フィリア	Philia Felice	personagem	CRLF x2	ひょっとしたら、生態系に影響を及ぼす\n有害な物質を掘り当ててしまったという\n可能性もあります		
+mev02_030.scr:9	mev02_030.scr	9	フィリア	Philia Felice	personagem	CRLF x1	何にしても、この現象が本当なら、\n人体にも影響が及ぶかもしれません		
+mev02_030.scr:10	mev02_030.scr	10	リッド	Reid Hershel	personagem		ああ		
+mev02_030.scr:11	mev02_030.scr	11	リッド	Reid Hershel	personagem	CRLF x2	人間に危険なものならちゃんと\n調べておかねえと、作業してる奴らに\n注意すら出来ねえもんな		
+mev02_040.scr:0	mev02_040.scr	0	リッド	Reid Hershel	personagem		なあ、やっぱわかんねえんだけど		
+mev02_040.scr:1	mev02_040.scr	1	リッド	Reid Hershel	personagem	CRLF x1	そんな危ねえもんを、\n何でエステルの国は放っておくんだ？		
+mev02_040.scr:2	mev02_040.scr	2	フィリア	Philia Felice	personagem	CRLF x1	そうですね。\nでは、少しお話をしましょうか		
+mev02_040.scr:3	mev02_040.scr	3	フィリア	Philia Felice	personagem		大きな国には、人が集まりますよね		
+mev02_040.scr:4	mev02_040.scr	4	フィリア	Philia Felice	personagem	CRLF x2	大勢の人は生きる為に産業を行っていますが、\n産業そのものを続けていくには、\n原動力となる資源が必要になります		
+mev02_040.scr:5	mev02_040.scr	5	フィリア	Philia Felice	personagem	CRLF x1	大国の資源といえば、\n今やほとんど星晶ですからね		
+mev02_040.scr:6	mev02_040.scr	6	フィリア	Philia Felice	personagem	CRLF x1	採掘を止めて星晶が不足すれば、産業は滞り、\n多くの人が仕事を失います		
+mev02_040.scr:7	mev02_040.scr	7	フィリア	Philia Felice	personagem	CRLF x1	そうすれば、\n衣食住に困る人が増えてしまいます		
+mev02_040.scr:8	mev02_040.scr	8	リッド	Reid Hershel	personagem	CRLF x1	食い物なんて、森に行けばあるだろ。\n狩りをすればいいし、畑も作ればいいし		
+mev02_040.scr:9	mev02_040.scr	9	エステル	Estelle	personagem	CRLF x2	わたしの国は、産業施設や国民の住宅の為に\n森は切り開かれて、あまりありません。\n畑を開墾する土地もないでしょう		
+mev02_040.scr:10	mev02_040.scr	10	エステル	Estelle	personagem	CRLF x1	食料は、自給ではなく\n他国からの輸入に頼っています		
+mev02_040.scr:11	mev02_040.scr	11	フィリア	Philia Felice	personagem	CRLF x1	どうでしょう、リッドさん。\n他国から食料を輸入する為の産業です		
+mev02_040.scr:12	mev02_040.scr	12	フィリア	Philia Felice	personagem	CRLF x1	ガルバンゾ国は星晶の採掘を止める事は\n出来るでしょうか？		
+mev02_040.scr:13	mev02_040.scr	13	リッド	Reid Hershel	personagem	CRLF x2	そうか。\n大国にも、止めるに止められない\n事情ってのがあるんだな		
+mev02_040.scr:14	mev02_040.scr	14	エステル	Estelle	personagem	CRLF x2	はい。\nですが、このまま目をつぶっておくわけにも\n行きません		
+mev02_040.scr:15	mev02_040.scr	15	フィリア	Philia Felice	personagem	CRLF x1	もちろんです。\nさあ、では先を急ぎましょうか		
+mev02_045.scr:0	mev02_045.scr	0	エステル	Estelle	personagem		お、大きいです…！！		
+mev02_045.scr:1	mev02_045.scr	1	リッド	Reid Hershel	personagem	CRLF x1	あーあ、デカオタだ。\nこいつ、なかなかどいてくれねえんだよな		
+mev02_045.scr:2	mev02_045.scr	2	リッド	Reid Hershel	personagem	CRLF x1	しょうがねえ。\nこっちから行って、追っ払うしかないか		
+mev02_046.scr:0	mev02_046.scr	0	リッド	Reid Hershel	personagem	CRLF x1	ったく、てこずらせやがって。\n今度は負けねえからな！		
+mev02_047.scr:0	mev02_047.scr	0	エステル	Estelle	personagem	CRLF x1	サレの追跡から逃れる為に、\nユーリがこうやって道を隠していたんです		
+mev02_047.scr:1	mev02_047.scr	1	エステル	Estelle	personagem	CRLF x1	ですが、ここで迷った上にユーリ達と\nはぐれてしまって…		
+mev02_047.scr:2	mev02_047.scr	2	エステル	Estelle	personagem	CRLF x1	サレに捕まりそうになった時は\nどうしようかと思いました		
+mev02_047.scr:3	mev02_047.scr	3	リッド	Reid Hershel	personagem	CRLF x1	上手い事作ってあったな。\nオレにはわかんなかったぜ		
+mev02_047.scr:4	mev02_047.scr	4	エステル	Estelle	personagem		さあ、行きましょう		
+mev02_050.scr:0	mev02_050.scr	0	フィリア	Philia Felice	personagem	CRLF x1	ここが、採掘跡地ですね。\n今は封鎖されている様ですが		
+mev02_050.scr:1	mev02_050.scr	1	リッド	Reid Hershel	personagem	CRLF x2	なあ、何か…やばいんじゃないか？\n見てみろよ、周りの植物を。\nこんなもの見た事ねぇぞ		
+mev02_050.scr:2	mev02_050.scr	2	フィリア	Philia Felice	personagem	CRLF x1	一部、無機物化しています。\nもはや植物と呼んでいいのかわかりません		
+mev02_050.scr:3	mev02_050.scr	3	フィリア	Philia Felice	personagem		これらは一体…？		
+mev02_050.scr:4	mev02_050.scr	4	ユージーン	Eugene Gallardo	personagem		…お前達、アドリビトムか		
+mev02_050.scr:5	mev02_050.scr	5	リッド	Reid Hershel	personagem	CRLF x1	あ、前にヘーゼル村に物資を届けに\n行った時に会った…		
+mev02_050.scr:6	mev02_050.scr	6	ユージーン	Eugene Gallardo	personagem		ユージーン・ガラルドだ		
+mev02_050.scr:7	mev02_050.scr	7	ユージーン	Eugene Gallardo	personagem	CRLF x1	アドリビトムには、ヴェイグ達の事も含め\nいつも世話になっている		
+mev02_050.scr:8	mev02_050.scr	8	ティトレイ	Tytree Crowe	personagem		おれはティトレイ・クロウ		
+mev02_050.scr:9	mev02_050.scr	9	ティトレイ	Tytree Crowe	personagem		ヴェイグがまた、サレとやりあったらしいな		
+mev02_050.scr:10	mev02_050.scr	10	ティトレイ	Tytree Crowe	personagem		ったく、あいつもしょうがねえ奴だな		
+mev02_050.scr:11	mev02_050.scr	11	ユージーン	Eugene Gallardo	personagem		今日は、ここに何の用だ		
+mev02_050.scr:12	mev02_050.scr	12	エステル	Estelle	personagem	CRLF x2	星晶採掘地跡で見られる奇妙な現象\nというのが、本当に起こっているのか。\nそれを確かめに来ました		
+mev02_050.scr:13	mev02_050.scr	13	ユージーン	Eugene Gallardo	personagem		奇妙な現象とは、この生物変化の事か？		
+mev02_050.scr:14	mev02_050.scr	14	ユージーン	Eugene Gallardo	personagem	CRLF x2	見ての有様だ。\nこの採掘地から星晶が出尽くした頃から\nこうなった		
+mev02_050.scr:15	mev02_050.scr	15	ユージーン	Eugene Gallardo	personagem	CRLF x2	元々ここは薬草などが豊富に採れたのだが。\n今では何とも言えない妙な植物や、\n虫が増えている		
+mev02_050.scr:16	mev02_050.scr	16	ティトレイ	Tytree Crowe	personagem		星晶の採掘が原因だってのか？		
+mev02_050.scr:17	mev02_050.scr	17	フィリア	Philia Felice	personagem	CRLF x2	星晶との関連性は、まだわかりません。\nですが、生物の変化というのは\n実際に起こっている様ですね		
+mev02_050.scr:18	mev02_050.scr	18	ティトレイ	Tytree Crowe	personagem	CRLF x2	おれ達も、このヤバイ現象を\nヴェイグに伝えようって、\n村を出たところだったんだ		
+mev02_050.scr:19	mev02_050.scr	19	ティトレイ	Tytree Crowe	personagem	CRLF x1	アドリビトムに接触出来て、\nちょうど良かったぜ		
+mev02_050.scr:20	mev02_050.scr	20	フィリア	Philia Felice	personagem	CRLF x1	ですが、村にはサレが…。\n帝国の監視は大丈夫だったのですか？		
+mev02_050.scr:21	mev02_050.scr	21	ティトレイ	Tytree Crowe	personagem	CRLF x1	盗るモン盗ったら、引き上げてったぜ！\nおかげでおれ達の村の星晶はスッカラカンだ		
+mev02_050.scr:22	mev02_050.scr	22	リッド	Reid Hershel	personagem	CRLF x2	まあまあ、ここで長話しても仕方ねえだろ。\nとにかく船に来てもらおうぜ。\n細かい話は帰ってからだな		
+mev02_060.scr:0	mev02_060.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	お帰りなさい。\nエステルから、話は聞いたよ		
+mev02_060.scr:1	mev02_060.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	生物変化現象の事実を確認しただけで、\nまだわからない事の方が多いけど…		
+mev02_060.scr:2	mev02_060.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	ユージーンさん達は、部屋へ通してあるから、\nその現象について、詳しく話を聞きに\n行きましょう		
+mev02_070.scr:0	mev02_070.scr	0	ユージーン	Eugene Gallardo	personagem	CRLF x1	星晶が採掘されて、あの森周辺の村々に\nマナの恵みはなくなった		
+mev02_070.scr:1	mev02_070.scr	1	ティトレイ	Tytree Crowe	personagem	CRLF x2	あそこらは、マナを生み出す世界樹の根も\n張ってねぇし、星晶がわずかに出すマナだけが\nヘーゼル村に恵みを与えていたからな		
+mev02_070.scr:2	mev02_070.scr	2	ユージーン	Eugene Gallardo	personagem	CRLF x2	ああいった生物の変化は、\n星晶採掘が終盤に差し掛かった頃から\n始まった		
+mev02_070.scr:3	mev02_070.scr	3	ユージーン	Eugene Gallardo	personagem	CRLF x1	まず、土地が痩せ、畑からは作物が\n取れなくなっていった		
+mev02_070.scr:4	mev02_070.scr	4	アンジュ	Ange Serena	personagem		あの様な場所は他にも？		
+mev02_070.scr:5	mev02_070.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x1	ああ、村近辺の星晶は\nゴッソリ盗っていかれたからな		
+mev02_070.scr:6	mev02_070.scr	6	ティトレイ	Tytree Crowe	personagem		それから森の生物に奇妙な変化が現れてよ		
+mev02_070.scr:7	mev02_070.scr	7	エステル	Estelle	personagem		具体的には、どの様な…？		
+mev02_070.scr:8	mev02_070.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x1	ほとんどの作物は、\n食えないものになっちまって		
+mev02_070.scr:9	mev02_070.scr	9	ティトレイ	Tytree Crowe	personagem	CRLF x2	狩る動物も同じだ。\n何て言やぁいい…、肉がねえんだよ。\n生き物って感じじゃねえ		
+mev02_070.scr:10	mev02_070.scr	10	ティトレイ	Tytree Crowe	personagem	CRLF x1	仕留めた先から溶けていくものもあった。\nちゃんとした獲物が取れた時は奇跡さ		
+mev02_070.scr:11	mev02_070.scr	11	エステル	Estelle	personagem	CRLF x1	元々星晶もなく、マナを生み出す世界樹の根も\nない土地というのはあります		
+mev02_070.scr:12	mev02_070.scr	12	エステル	Estelle	personagem	CRLF x2	でも、その様な土地で、マナが少ないから\n生き物に変化が現れたという現象は\n起こっていません		
+mev02_070.scr:13	mev02_070.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	マナが少ない以外に、\n原因があるのかもしれないね		
+mev02_070.scr:14	mev02_070.scr	14	ユージーン	Eugene Gallardo	personagem	CRLF x1	原因が判明しない事にはな…。\nあの現象も拡大しつつある		
+mev02_070.scr:15	mev02_070.scr	15	ティトレイ	Tytree Crowe	personagem	CRLF x2	くそっ！\n…村のみんなは、どうやって生活していきゃあ\nいいんだよっ！		
+mev02_070.scr:16	mev02_070.scr	16	ティトレイ	Tytree Crowe	personagem	CRLF x1	サレはいなくなったけど、もう村に\n物資もねぇ、採取もままならねぇ		
+mev02_070.scr:17	mev02_070.scr	17	ティトレイ	Tytree Crowe	personagem	CRLF x1	もっと遠くに行って\n探してくるしかねえのか……		
+mev02_070.scr:18	mev02_070.scr	18	アンジュ	Ange Serena	personagem		じゃあ、ここで働かない？		
+mev02_070.scr:19	mev02_070.scr	19	アンジュ	Ange Serena	personagem	CRLF x1	そんな話を聞いたら、\nますます人手が必要になりそうだもの		
+mev02_070.scr:20	mev02_070.scr	20	ユージーン	Eugene Gallardo	personagem	CRLF x2	そうか、それならばヴェイグ達が今まで\nしてくれていた様に、俺達もここで働き、\n物資を送り届ける事で、村を助けて行けるな		
+mev02_070.scr:21	mev02_070.scr	21	ティトレイ	Tytree Crowe	personagem	CRLF x1	よっしゃ！！\nそうと決まれば、よろしくな！		
+mev02_070.scr:22	mev02_070.scr	22	ティトレイ	Tytree Crowe	personagem		ヴェイグの倍働いてやるぜ！！		
+mev02_070.scr:23	mev02_070.scr	23	(mensagem de sistema)	(mensagem de sistema)	sistema		ユージーンがアドリビトムに加入しました		
+mev02_070.scr:24	mev02_070.scr	24	(mensagem de sistema)	(mensagem de sistema)	sistema		ティトレイがアドリビトムに加入しました		
+mev02_080.scr:0	mev02_080.scr	0	エステル	Estelle	personagem	CRLF x1	これからどうやって、\n調査を進めていけばいいんでしょう……		
+mev02_080.scr:1	mev02_080.scr	1	フィリア	Philia Felice	personagem	CRLF x1	星晶が採掘された後に、\n同じ様な現象が起こっているとしたら…		
+mev02_080.scr:2	mev02_080.scr	2	フィリア	Philia Felice	personagem	CRLF x1	ともかく、各地から情報を\n集めなければなりませんね		
+mev02_080.scr:3	mev02_080.scr	3	エステル	Estelle	personagem		はい…		
+mev02_090.scr:0	mev02_090.scr	0	リッド	Reid Hershel	personagem	CRLF x1	よう。\nキール、メルディ、長旅だったな		
+mev02_090.scr:1	mev02_090.scr	1	ファラ	Farah Oersted	personagem		久しぶり！		
+mev02_090.scr:2	mev02_090.scr	2	メルディ	Meredy	personagem		はいな、久しぶり！		
+mev02_090.scr:3	mev02_090.scr	3	キール	Keele Zeibel	personagem	CRLF x1	やれやれ。\nここはいつ来ても平和そうだな		
+mev02_090.scr:4	mev02_090.scr	4	ファラ	Farah Oersted	personagem	CRLF x1	○○、紹介するね。\nわたしの友達の…		
+mev02_090.scr:5	mev02_090.scr	5	メルディ	Meredy	personagem		メルディだよう！		
+mev02_090.scr:6	mev02_090.scr	6	キール	Keele Zeibel	personagem		キール・ツァイベルだ		
+mev02_090.scr:7	mev02_090.scr	7	キール	Keele Zeibel	personagem	CRLF x1	元々、ぼくとメルディも\nこのギルド発足時からのメンバーだ		
+mev02_090.scr:8	mev02_090.scr	8	メルディ	Meredy	personagem	CRLF x1	おっきい国が大学で、お勉強してたな。\nでも、もうすぐ戦争始まるよ…		
+mev02_090.scr:9	mev02_090.scr	9	キール	Keele Zeibel	personagem	CRLF x1	星晶の採掘権を巡っての戦争だ。\nおかげで大学は休校		
+mev02_090.scr:10	mev02_090.scr	10	キール	Keele Zeibel	personagem	CRLF x2	こうなってしまったら、\n休校どころか大学まで潰れるんじゃ\nないかと思うが…		
+mev02_090.scr:11	mev02_090.scr	11	キール	Keele Zeibel	personagem	CRLF x2	ともかく、これからぼくとメルディも\nここに戻って働く事にした。\nそうするしか、身を寄せる場所もないしな		
+mev02_090.scr:12	mev02_090.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	お帰りなさい。\nキール君、メルディ		
+mev02_090.scr:13	mev02_090.scr	13	アンジュ	Ange Serena	personagem		手紙で頼んでおいた情報収集は？		
+mev02_090.scr:14	mev02_090.scr	14	キール	Keele Zeibel	personagem		ああ、色々聞いてきたよ		
+mev02_090.scr:15	mev02_090.scr	15	キール	Keele Zeibel	personagem	CRLF x1	少し休ませてくれないか？\n話は部屋でさせてくれ		
+mev02_090.scr:16	mev02_090.scr	16	アンジュ	Ange Serena	personagem	CRLF x1	ええ。\nあなた達の部屋はそのまま残ってるわ		
+mev02_090.scr:17	mev02_090.scr	17	アンジュ	Ange Serena	personagem	CRLF x1	ギルドへの再登録は、\n話を聞いた後でいっか！		
+mev02_090.scr:18	mev02_090.scr	18	アンジュ	Ange Serena	personagem	CRLF x1	○○も、\n部屋へいらっしゃい		
+mev02_100.scr:0	mev02_100.scr	0	キール	Keele Zeibel	personagem	CRLF x1	ああ、やっと荷解きが済んだ。\n本が多くて、大変だったよ		
+mev02_100.scr:1	mev02_100.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	○○、キール君とメルディはね、\n「持続可能な社会」を研究しに\n大学へ行っていたの		
+mev02_100.scr:2	mev02_100.scr	2	キール	Keele Zeibel	personagem	CRLF x2	ぼく達の世代が、将来の世代の為に、\n環境をありのまま利用して、充足した社会を\n作るっていうものさ		
+mev02_100.scr:3	mev02_100.scr	3	キール	Keele Zeibel	personagem		よって、星晶の採掘も行わない		
+mev02_100.scr:4	mev02_100.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	人間が自然を壊さず、調和して、\n人々が生活する為の衣食住が十分に\n行き渡る社会		
+mev02_100.scr:5	mev02_100.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	その理念で運営する村、\n「オルタ・ビレッジ」を作るのが\nアドリビトムの目的なの		
+mev02_100.scr:6	mev02_100.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	みんなでお金を貯めて、オルタ・ビレッジを\n各地に作って、大国に消費された村の人達を\n移住させるのよ		
+mev02_100.scr:7	mev02_100.scr	7	メルディ	Meredy	personagem	CRLF x2	はいな！\nみんな幸せ、みんな仲間、\nみんな友達がなれる村！！		
+mev02_100.scr:8	mev02_100.scr	8	メルディ	Meredy	personagem	CRLF x2	きっとする！\nキールが研究、リッパ。\n絶対、実現させるよ		
+mev02_100.scr:9	mev02_100.scr	9	メルディ	Meredy	personagem		そしたら、たくさんの人幸せになる		
+mev02_100.scr:10	mev02_100.scr	10	キール	Keele Zeibel	personagem	CRLF x1	しかし、大学が休校になった今は、\nここで研究を続けていくしかないな		
+mev02_100.scr:11	mev02_100.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	そうそう。\nあの現象については？		
+mev02_100.scr:12	mev02_100.scr	12	キール	Keele Zeibel	personagem	CRLF x1	星晶の採掘跡地で起こる、生物変化現象か。\nぼくが街で聞いたのは…		
+mev02_100.scr:13	mev02_100.scr	13	キール	Keele Zeibel	personagem	CRLF x1	生物に変化が現れた場所には、\n赤い煙の様なものが現れていたらしい		
+mev02_100.scr:14	mev02_100.scr	14	キール	Keele Zeibel	personagem		その後、生物への変化が見られたと言うが		
+mev02_100.scr:15	mev02_100.scr	15	アンジュ	Ange Serena	personagem		赤い煙？		
+mev02_100.scr:16	mev02_100.scr	16	メルディ	Meredy	personagem	CRLF x2	はいな。\nその赤い煙も、ほんの数日現れただけな。\n今は消えてしまってるそうだよう		
+mev02_100.scr:17	mev02_100.scr	17	アンジュ	Ange Serena	personagem		気になる話ね、その赤い煙って…		
+mev02_100.scr:18	mev02_100.scr	18	キール	Keele Zeibel	personagem	CRLF x1	街では失職者もいるらしく、遠征採掘の\n登録所に並んでいる人を見かけたよ		
+mev02_100.scr:19	mev02_100.scr	19	キール	Keele Zeibel	personagem	CRLF x2	そこで聞いた話では、オルタータ火山が\n数日前に採掘を終えたらしい。\n行ってみてはどうだ？		
+mev02_100.scr:20	mev02_100.scr	20	アンジュ	Ange Serena	personagem	CRLF x1	そうね。\nでは、依頼の登録をしておきましょう		
+mev02_100.scr:21	mev02_100.scr	21	(opcao do jogador)	(opcao do jogador)	escolha		素敵な村だ、と言う		
+mev02_100.scr:22	mev02_100.scr	22	(opcao do jogador)	(opcao do jogador)	escolha		実現出来ればいいな、と言う		
+mev02_100.scr:23	mev02_100.scr	23	(mensagem de sistema)	(mensagem de sistema)	sistema		キールがアドリビトムに加入しました		
+mev02_100.scr:24	mev02_100.scr	24	(mensagem de sistema)	(mensagem de sistema)	sistema		メルディがアドリビトムに加入しました		

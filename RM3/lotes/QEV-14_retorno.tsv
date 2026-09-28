@@ -1,0 +1,111 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev14_010.scr:0	qev14_010.scr	0	ティトレイ	Tytree Crowe	personagem		うーん……	Hmmm...	
+qev14_010.scr:1	qev14_010.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	どうしましたの、ティトレイ？\n随分悩んでいる様ですけれど	What's wrong, Tytree?\nYou look troubled.	
+qev14_010.scr:2	qev14_010.scr	2	ティトレイ	Tytree Crowe	personagem	CRLF x1	ああ、実は次の料理当番\nおれに回ってくる事んなってさ	Ah, it's just that I'm on\ncooking duty next.	
+qev14_010.scr:3	qev14_010.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x2	せっかくだし、張り切って\n何か旨いモンでも作ろうと思うんだけど\nいまいちアイデアがわかなくてな〜	I wanted to put in the effort and\nmake something really tasty, but...\nI'm drawing a blank on ideas.	
+qev14_010.scr:4	qev14_010.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		そうでしたのね……	I see...	
+qev14_010.scr:5	qev14_010.scr	5	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	それでしたら、以前お話されていた\nキノコ料理などはいかが？	In that case, how about that mushroom\ndish you mentioned before?	
+qev14_010.scr:6	qev14_010.scr	6	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	滋養強壮にもなりますし、\n私、是非一度味わってみたいですわ	It's highly nutritious.\nI would very much like to try it!	
+qev14_010.scr:7	qev14_010.scr	7	ティトレイ	Tytree Crowe	personagem		ああ、あれかぁ！	Oh, that!	
+qev14_010.scr:8	qev14_010.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x2	でも、あれを作るには\n特別かつ極上の材料がなきゃ\nダメなんだよなぁ	But to make it, I need some\nreally special, top-quality\ningredients.	
+qev14_010.scr:9	qev14_010.scr	9	ティトレイ	Tytree Crowe	personagem	CRLF x1	これから一人で取りに行くってのは、\nちょっと……	Going out to gather them all by\nmyself right now is a bit...	
+qev14_010.scr:10	qev14_010.scr	10	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		人手があればよろしいんですのね？	So you just need some extra hands?	
+qev14_010.scr:11	qev14_010.scr	11	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	わかりました。\n私が何とか掛け合ってみます	Understood.\nI will see what I can do.	
+qev14_010.scr:12	qev14_010.scr	12	ティトレイ	Tytree Crowe	personagem	CRLF x1	本当か？\nそれなら話は早え	Really?\nThat's great!	
+qev14_010.scr:13	qev14_010.scr	13	ティトレイ	Tytree Crowe	personagem	CRLF x1	よーし、思い立ったが何とやらだ。\n行動あるのみだぜ！	Alright, no time like the present.\nLet's get moving!	
+qev14_010.scr:14	qev14_010.scr	14	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「最高の一品を求めて」が\nエントリーされました。\nティトレイから受ける事が出来ます	"The quest ""In Search of the Best"" has\nbeen added to the roster.\nYou can accept it from Tytree."	
+qev14_020.scr:0	qev14_020.scr	0	ティトレイ	Tytree Crowe	personagem		うーっし、みんな集まったな？	Alright, is everyone here?	
+qev14_020.scr:1	qev14_020.scr	1	ウィル	Will Raynard	personagem	CRLF x1	急に呼び付けるから\n何かと思えば……	You called so suddenly,\nI wondered what it was about...	
+qev14_020.scr:2	qev14_020.scr	2	ウィル	Will Raynard	personagem	CRLF x1	ふむ。\nまあ、いい気分転換にはなるか	Hmph.\nWell, I guess it's a nice change of pace.	
+qev14_020.scr:3	qev14_020.scr	3	アッシュ	Asch	personagem	CRLF x1	おい、ちょっと待て。\n何で俺までここに……	Hey, wait a minute.\nWhy am I here...?	
+qev14_020.scr:4	qev14_020.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		私が推薦したのですわ	I recommended you.	
+qev14_020.scr:5	qev14_020.scr	5	アッシュ	Asch	personagem		ナタリア？	Natalia?	
+qev14_020.scr:6	qev14_020.scr	6	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	アッシュは以前、\nお母様のご病気を治す為、\nキノコ採取に行った事があるのです	Asch, you previously went gathering\nmushrooms to cure your mother's\nillness.	
+qev14_020.scr:7	qev14_020.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	きっと、その時の経験を活かして、\n素晴らしいキノコを\n見つけてきてくれるはずですわ	I'm sure you can use that experience\nto help find some truly\nmagnificent mushrooms.	
+qev14_020.scr:8	qev14_020.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	ティトレイの料理は絶品ですもの。\nそのティトレイが是非にと推す一品、\n私もとても楽しみにしていますわ	Tytree's cooking is excellent.\nI am really looking forward to a dish\nthat Tytree highly recommends.	
+qev14_020.scr:9	qev14_020.scr	9	アッシュ	Asch	personagem		ぐ……	Ugh...	
+qev14_020.scr:10	qev14_020.scr	10	ウィル	Will Raynard	personagem		ああまで言われては、断れんな	We can't really refuse her now.	
+qev14_020.scr:11	qev14_020.scr	11	ティトレイ	Tytree Crowe	personagem		んじゃ、決まりだな	Then it's decided!	
+qev14_020.scr:12	qev14_020.scr	12	ティトレイ	Tytree Crowe	personagem	CRLF x1	待ってろナタリア。\n今にすげえ旨いモン食わしてやっからよ	Just you wait, Natalia.\nI'll feed you something real good!	
+qev14_020.scr:13	qev14_020.scr	13	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	期待していますわよ、ティトレイ。\nそれに、アッシュも	I'm counting on you, Tytree.\nAnd Asch, too.	
+qev14_020.scr:14	qev14_020.scr	14	アッシュ	Asch	personagem		…………	...	
+qev14_030.scr:0	qev14_030.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	ここだな？\nハナアブラダケの生息地ってのは	Is this the place?\nThe habitat for Hanaaburadake.	
+qev14_030.scr:1	qev14_030.scr	1	ウィル	Will Raynard	personagem		ああ	Yeah.	
+qev14_030.scr:2	qev14_030.scr	2	ウィル	Will Raynard	personagem	CRLF x2	あまり繁殖力の強いキノコではないから\n数を集めるのに時間はかかるかもしれんが\nここなら問題なく採取出来るだろう	Since they don't reproduce quickly,\ncollecting them may take time, but\nwe should find plenty here.	
+qev14_030.scr:3	qev14_030.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x2	うおっし。\nばんばん採って、みんなに自慢の\nキノコスープを振る舞ってやるぜえ！	Alright!\nI'll gather a ton and treat everyone\nto my famous mushroom soup!	
+qev14_030.scr:4	qev14_030.scr	4	アッシュ	Asch	personagem	CRLF x1	フン。\nそう上手くいけばいいがな……	Hmph.\nLet's hope it goes that smoothly...	
+qev14_040.scr:0	qev14_040.scr	0	ウィル	Will Raynard	personagem	CRLF x1	この辺りは、\n毒性のキノコも多く生息している	This area is also home to\nmany poisonous mushrooms.	
+qev14_040.scr:1	qev14_040.scr	1	ウィル	Will Raynard	personagem	CRLF x1	怪しいと思ったら、むやみに\n手を触れるなよ	If something looks suspicious,\ndon't touch it.	
+qev14_040.scr:2	qev14_040.scr	2	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev14_040.scr:3	qev14_040.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x2	わかってるって。\n要はハナアブラダケしか\n採らなきゃいいんだろ？	I know, I know.\nI just need to avoid picking anything\nbut Hanaaburadake, right?	
+qev14_040.scr:4	qev14_040.scr	4	ティトレイ	Tytree Crowe	personagem		おっ！	Oh!	
+qev14_040.scr:5	qev14_040.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x1	そう言ってる間に、\n早速一つゲットだぜ！！	And just like that,\nI got one already!!	
+qev14_040.scr:6	qev14_040.scr	6	アッシュ	Asch	personagem	CRLF x1	馬鹿、それは\nハナアブラドクドクダケだ！	Idiot, that's a\nHanaaburadokudokudake!	
+qev14_040.scr:7	qev14_040.scr	7	アッシュ	Asch	personagem	CRLF x1	誤って口にしてみろ、\n一瞬であの世逝きだぞ！！	If you eat that by mistake,\nyou'll drop dead in an instant!!	
+qev14_040.scr:8	qev14_040.scr	8	ティトレイ	Tytree Crowe	personagem		えっ？　ほ、本当か！？	Huh? R-Really!?	
+qev14_040.scr:9	qev14_040.scr	9	ウィル	Will Raynard	personagem	CRLF x2	ふむ……。\n確かにこれは、\nハナアブラドクドクダケだ	Hmmm...\nHe's right. This is indeed a\nHanaaburadokudokudake.	
+qev14_040.scr:10	qev14_040.scr	10	ウィル	Will Raynard	personagem	CRLF x2	非常に毒性が高い事で有名だが、\nハナアブラダケと類似点が多く\nなかなか見分ける事が困難なのだ	It's famous for being highly toxic,\nbut it looks so much like a\nHanaaburadake, it's hard to tell apart.	
+qev14_040.scr:11	qev14_040.scr	11	ウィル	Will Raynard	personagem		よく知っていたな	I'm impressed you knew that.	
+qev14_040.scr:12	qev14_040.scr	12	アッシュ	Asch	personagem	CRLF x1	フン……。\n本で少し調べた事があるだけだ	Hmph...\nI just read about it in a book once.	
+qev14_040.scr:13	qev14_040.scr	13	ティトレイ	Tytree Crowe	personagem		ああ、母親の為にってやつか？	Ah, the thing for your mother?	
+qev14_040.scr:14	qev14_040.scr	14	ティトレイ	Tytree Crowe	personagem	CRLF x1	アッシュってツンツンしてっけど、\n結構いいとこあんだなぁ	You act all prickly, Asch, but\nyou actually have a soft side.	
+qev14_040.scr:15	qev14_040.scr	15	アッシュ	Asch	personagem	CRLF x2	だ、黙れ！\n口を動かす暇があったら\n手と頭を動かしやがれ！！	S-Shut up!\nIf you have time to flap your gums,\nmove your hands and use your head!!	
+qev14_040.scr:16	qev14_040.scr	16	ティトレイ	Tytree Crowe	personagem	CRLF x2	ははっ。\n照れてんのか？\n何かお前、いい奴だなぁ	Haha!\nAre you embarrassed?\nYou're a good guy!	
+qev14_040.scr:17	qev14_040.scr	17	ウィル	Will Raynard	personagem		嫌味が全く通じていないな……	The sarcasm didn't get through at all...	
+qev14_041.scr:0	qev14_041.scr	0	ウィル	Will Raynard	personagem		おい……これを見ろ！	Hey... look at this!	
+qev14_041.scr:1	qev14_041.scr	1	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev14_041.scr:2	qev14_041.scr	2	ティトレイ	Tytree Crowe	personagem		何だ、キノコが見つかったのか？	What, did you find a mushroom?	
+qev14_041.scr:3	qev14_041.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x1	って、うわっ！\nすげえ毒々しい色のキノコだな	Whoa!\nThat's one nasty-looking mushroom.	
+qev14_041.scr:4	qev14_041.scr	4	ウィル	Will Raynard	personagem	CRLF x2	ニガニガグリグリダケだ。\nこの辺りでの生息は確認されて\nいなかったのだが……	It's a Niganigaguriguridake.\nI didn't think they grew in\nthis area, though...	
+qev14_041.scr:5	qev14_041.scr	5	ウィル	Will Raynard	personagem	CRLF x2	どうやらどこかから胞子でも\n飛んできたらしい。\nいや、それとも新種か、亜種か？	Some spores must have blown in\nfrom elsewhere.\nWait, could it be a new subspecies?	
+qev14_041.scr:6	qev14_041.scr	6	ウィル	Will Raynard	personagem	CRLF x1	そもそもこことは環境条件が\n適合しないはずだが……	The environmental conditions here\nshouldn't even be suitable for it...	
+qev14_041.scr:7	qev14_041.scr	7	ティトレイ	Tytree Crowe	personagem	CRLF x2	何だよ、\nハナアブラダケじゃないなら\nいいじゃねえか	Whatever.\nIf it's not a Hanaaburadake,\nwho cares?	
+qev14_041.scr:8	qev14_041.scr	8	ティトレイ	Tytree Crowe	personagem		早く探しに行こうぜ	Let's keep looking.	
+qev14_041.scr:9	qev14_041.scr	9	ウィル	Will Raynard	personagem	CRLF x2	何を言う！　貴重なサンプルだぞ。\nこのニガニガグリグリダケを足がかりに\nこの一帯の生態系の変化が掴めるかもしれん	Nonsense! This is a rare sample!\nThis Niganigaguriguridake might help us\nunderstand local ecological changes!	
+qev14_041.scr:10	qev14_041.scr	10	アッシュ	Asch	personagem	CRLF x2	ニガニガグリグリだか、\nイボイボブツブツだか知らねえが、\nいつまで油を売ってるつもりだ？	Niganiga whatever, Iboibo whatever,\nI don't care.\nHow long are you going to slack off?	
+qev14_041.scr:11	qev14_041.scr	11	ティトレイ	Tytree Crowe	personagem	CRLF x1	おお〜、ハナアブラダケだけに\n油を売ってるって？	Ooh, slacking off like a lazy\nHanaaburadake? Nice pun!	
+qev14_041.scr:12	qev14_041.scr	12	ティトレイ	Tytree Crowe	personagem	CRLF x2	はっはっはっは。\nやっぱ、アッシュって\n面白ぇ奴だよな〜！	Hahahaha!\nYou really are a funny\nguy, Asch!	
+qev14_041.scr:13	qev14_041.scr	13	アッシュ	Asch	personagem		ギャグで言ったわけじゃねえ！	I wasn't making a joke!	
+qev14_041.scr:14	qev14_041.scr	14	ウィル	Will Raynard	personagem	CRLF x2	おい、二人とも手を貸せ！\n状態のいいニガニガグリグリダケを\n幾つか採取していくぞ	Hey, both of you lend a hand!\nWe're going to collect some good\nNiganigaguriguridake samples!	
+qev14_041.scr:15	qev14_041.scr	15	アッシュ	Asch	personagem		お前は人の話を聞け！！	Listen to me!!	
+qev14_042.scr:0	qev14_042.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	しっかし、アッシュはほんとに\n毒キノコの見分け方が上手いよなぁ	Still, you're really good at spotting\npoisonous mushrooms, Asch.	
+qev14_042.scr:1	qev14_042.scr	1	ティトレイ	Tytree Crowe	personagem		何かコツでもあんのか？	Do you have some kind of trick?	
+qev14_042.scr:2	qev14_042.scr	2	アッシュ	Asch	personagem	CRLF x1	ひだの色や傘の膨らみ、\nそれに条線の有無で判別している	I check the color of the gills,\nthe shape of the cap and the striations.	
+qev14_042.scr:3	qev14_042.scr	3	アッシュ	Asch	personagem	CRLF x2	それぞれ別のキノコである以上、\nどこかに決定的な違いがあるはずだ。\nそれを見分けているだけに過ぎん	Since they're different mushrooms,\nthere has to be a decisive difference.\nI just look for it.	
+qev14_042.scr:4	qev14_042.scr	4	ティトレイ	Tytree Crowe	personagem	CRLF x1	すっげえなぁ。\nキノコのスペシャリストって感じだな	Amazing.\nYou're like a mushroom specialist.	
+qev14_042.scr:5	qev14_042.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x1	いや、いっそ博士か。\nよっ、キノコ博士！	No, more like a professor.\nHey there, Professor Mushroom!	
+qev14_042.scr:6	qev14_042.scr	6	アッシュ	Asch	personagem	CRLF x1	妙な名前で呼ぶんじゃねえ！\n斬られたいか！！	Don't call me that!\nDo you want to get sliced!?	
+qev14_042.scr:7	qev14_042.scr	7	ウィル	Will Raynard	personagem		おい、みんな！　すごいぞ！！	Hey, everyone! This is amazing!!	
+qev14_042.scr:8	qev14_042.scr	8	ウィル	Will Raynard	personagem	CRLF x2	すぐそこに貴重な魔物の巣を見つけた。\n卵を早速サンプルとして\n採取してみたんだが……	I found a rare monster nest nearby.\nI collected an egg as a sample,\nbut...	
+qev14_042.scr:9	qev14_042.scr	9	アッシュ	Asch	personagem	CRLF x1	おい。\nまさか……	Hey.\nDon't tell me...	
+qev14_042.scr:10	qev14_042.scr	10	ティトレイ	Tytree Crowe	personagem	CRLF x1	シッ。\n何か聞こえるぜ	Shh.\nI hear something.	
+qev14_042.scr:11	qev14_042.scr	11	ウィル	Will Raynard	personagem	CRLF x1	ああ、どうやら親に勘付かれたらしい。\nこの卵だけは死守するぞ、お前達も手伝え！	The parents seem to have noticed.\nWe must protect this egg! Help me out!	
+qev14_042.scr:12	qev14_042.scr	12	(ator 200)	(ator 200)	desconhecido		……！！	...!!	
+qev14_042.scr:13	qev14_042.scr	13	アッシュ	Asch	personagem	CRLF x1	この偏執博物学者が！\nお前の脳みそはスポンジか！？	You eccentric natural historian!\nIs your brain made of sponge!?	
+qev14_042.scr:14	qev14_042.scr	14	ティトレイ	Tytree Crowe	personagem	CRLF x1	やばいって、\nマジで大群でこっち来んぞ！！	This is bad,\na whole swarm is coming right at us!!	
+qev14_042.scr:15	qev14_042.scr	15	ウィル	Will Raynard	personagem	CRLF x2	うむ。\nだから早く逃げろと伝えに来たのだ。\n行くぞ	Yes.\nThat's why I came to tell you to run.\nLet's go!	
+qev14_042.scr:16	qev14_042.scr	16	アッシュ	Asch	personagem	CRLF x1	くっ……、覚えておけ。\n後で必ず、血祭りにあげてやる……！！	Ugh... just you wait.\nI'll make you pay for this later...!!	
+qev14_042.scr:17	qev14_042.scr	17	ティトレイ	Tytree Crowe	personagem		待てよ、おれを置いてくなって！	Wait, don't leave me behind!	
+qev14_050.scr:0	qev14_050.scr	0	ティトレイ	Tytree Crowe	personagem		よーっし、こんだけあれば十分だろ	Alright, this should be enough.	
+qev14_050.scr:1	qev14_050.scr	1	ウィル	Will Raynard	personagem	CRLF x2	ふむ……。\n貴重なサンプルも手に入ったし、\nなかなか充実した時間だったな	Hmmm...\nI got some precious samples too.\nThat was quite a fulfilling time.	
+qev14_050.scr:2	qev14_050.scr	2	アッシュ	Asch	personagem		…………	...	
+qev14_050.scr:3	qev14_050.scr	3	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev14_050.scr:4	qev14_050.scr	4	ティトレイ	Tytree Crowe	personagem	CRLF x2	何だよ、アッシュ。\nこれくらいで、\nへこたれちまったのか？	What's wrong, Asch?\nDid that little sprint\ntire you out?	
+qev14_050.scr:5	qev14_050.scr	5	ティトレイ	Tytree Crowe	personagem		ちっと、修行が足りないんじゃねえのか	You need to train more.	
+qev14_050.scr:6	qev14_050.scr	6	アッシュ	Asch	personagem		誰のせいだと思っている！	Whose fault do you think it is!?	
+qev14_050.scr:7	qev14_050.scr	7	ウィル	Will Raynard	personagem	CRLF x1	そうだぞティトレイ。\n反省しろ	He's right, Tytree.\nYou should reflect on your actions.	
+qev14_050.scr:8	qev14_050.scr	8	アッシュ	Asch	personagem		お前もだ！！	You too!!	
+qev14_060.scr:0	qev14_060.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	さ〜て。\nこっからは、おれの本領発揮だな	Well then.\nNow it's time for me to shine.	
+qev14_060.scr:1	qev14_060.scr	1	アッシュ	Asch	personagem		…………	...	
+qev14_060.scr:2	qev14_060.scr	2	ティトレイ	Tytree Crowe	personagem	CRLF x1	何だよアッシュ、怖い顔して。\n嬉しくねえのか？	What's with the scary look, Asch?\nAren't you happy?	
+qev14_060.scr:3	qev14_060.scr	3	アッシュ	Asch	personagem	CRLF x2	これから先、お前達には同行しない。\n何があってもごめんだ。\n二度とな	I'm never traveling with you two again.\nNo matter what happens.\nNever again.	
+qev14_060.scr:4	qev14_060.scr	4	ウィル	Will Raynard	personagem	CRLF x2	随分な物言いだな。\n仲間同士、もう少し仲良くしたら\nどうなんだ	That's quite a thing to say.\nShouldn't comrades get along a\nlittle better?	
+qev14_060.scr:5	qev14_060.scr	5	アッシュ	Asch	personagem		誰のせいでこうなったと思っている！！	Whose fault do you think this is!!	
+qev14_060.scr:6	qev14_060.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x2	あ〜わかったわかった。\nアッシュは腹減って\nイライラしてんだろ？	Ah, I get it, I get it.\nYou're just irritable because you're\nhungry, right, Asch?	
+qev14_060.scr:7	qev14_060.scr	7	ティトレイ	Tytree Crowe	personagem	CRLF x1	すぐ支度すっからよ、\n楽しみに待っててくれよな	I'll start cooking right away,\nso look forward to it!	
+qev14_060.scr:8	qev14_060.scr	8	アッシュ	Asch	personagem		…………	...	
+qev14_060.scr:9	qev14_060.scr	9	ウィル	Will Raynard	personagem	CRLF x1	そう落ち込むな。\nナタリアの喜ぶ顔が見たかったのだろう？	Don't be so down. You wanted to see\nNatalia's happy face, didn't you?	
+qev14_060.scr:10	qev14_060.scr	10	アッシュ	Asch	personagem		黙れ、この偏執博物学者	Shut up, you eccentric scholar.	
+qev14_060.scr:11	qev14_060.scr	11	アッシュ	Asch	personagem	CRLF x1	くっ、ナタリアの頼みでさえなければ\n誰がこんなくだらん雑用を……	Ugh, if it wasn't for Natalia's request,\nI wouldn't be doing such trivial chores.	
+qev14_060.scr:12	qev14_060.scr	12	ウィル	Will Raynard	personagem		まあそう言うな	Now, don't say that.	
+qev14_060.scr:13	qev14_060.scr	13	ウィル	Will Raynard	personagem	CRLF x2	○○もご苦労だったな。\n少し体を休めて、折を見てから\n食事にしようか	Good work, ○○.\nLet's rest our bodies for a bit,\nthen eat when the time is right.	

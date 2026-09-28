@@ -1,0 +1,165 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev01_010.scr:0	mev01_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	あなたが引き受けてくれるのね。\n今回、行ってもらうのは\nコンフェイト大森林	So you'll accept the job.\nThis time, I need you to head to\nthe Confeito Great Forest.	Confeito Great Forest conforme INDICE_NOMES.
+mev01_010.scr:1	mev01_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	そこで、ヘーゼル村の人と接触し、\n必要な物資を届ける事が仕事よ	Your mission is to contact someone from\nHazel Village and deliver supplies.	Hazel Village conforme INDICE_NOMES.
+mev01_010.scr:2	mev01_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	同行者は、ヴェイグ君、ミント、\nそれからシング君	Going with you will be Veigue, Mint,\nand Shing.	Honorifico -kun omitido (J2).
+mev01_010.scr:3	mev01_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	ヘーゼル村は今、ウリズン帝国により\n星晶の搾取と採掘の労働を強いられているの	The Urizen Empire is currently forcing\nHazel Village to mine Star Crystals.	Urizen Empire e Star Crystals.
+mev01_010.scr:4	mev01_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	だから畑仕事や狩りも出来ないみたいで…、\nこんな形でしか助けられないのだけれど…	They can't even farm or hunt, so this\nis the only way we can assist them...	
+mev01_010.scr:5	mev01_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	ヘーゼル村の人は、\nヴェイグ君が知っているから	Veigue knows the people\nof Hazel Village well.	
+mev01_010.scr:6	mev01_010.scr	6	アンジュ	Ange Serena	personagem		それじゃあ、お願いね	Well then, I'm counting on you.	
+mev01_020.scr:0	mev01_020.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	ウリズン帝国の奴ら、どれだけ星晶を\n奪い取るつもりなんだ！	Just how many Star Crystals do those\nUrizen Empire jerks intend to steal?!	
+mev01_020.scr:1	mev01_020.scr	1	ミント	Mint Adenade	personagem	CRLF x1	そういえば、\nシングさんの故郷もでしたね…	Come to think of it, the same thing\nhappened to your hometown, Shing...	
+mev01_020.scr:2	mev01_020.scr	2	シング	Shing Meteoryte	personagem		あいつら、突然村に押しかけて来たんだ	Those guys barged into our village!	
+mev01_020.scr:3	mev01_020.scr	3	シング	Shing Meteoryte	personagem	CRLF x1	村を封鎖した上に、星晶を採り尽くすまで\n男の人はみんな働かされて…	They blockaded us, forcing all the men\nto mine until the crystals were dry...	
+mev01_020.scr:4	mev01_020.scr	4	シング	Shing Meteoryte	personagem	CRLF x2	残された女の人や子どもだけじゃ\n狩りが出来ないから、\n食べ物も足りなくなったんだ	The women and kids left behind couldn't\nhunt on their own, so we started\nrunning out of food.	
+mev01_020.scr:5	mev01_020.scr	5	シング	Shing Meteoryte	personagem	CRLF x1	星晶を失った土地はやせ衰えて、\n森からは動物がいなくなったよ	Without Star Crystals, the land withered,\nand animals vanished from the woods.	
+mev01_020.scr:6	mev01_020.scr	6	シング	Shing Meteoryte	personagem	CRLF x1	オレの村で有名だった果物もさっぱり\n採れなくなってしまったし	Even the famous fruit from my village\ncompletely stopped growing.	
+mev01_020.scr:7	mev01_020.scr	7	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	ヘーゼル村も同じ運命をたどる、\nという事か…	So Hazel Village will suffer\nthe exact same fate...	
+mev01_020.scr:8	mev01_020.scr	8	シング	Shing Meteoryte	personagem	CRLF x1	えっ！！\nそ、そういう意味で言ったんじゃ…！！	What?! T-That's not what I meant,\nI swear...!!	
+mev01_020.scr:9	mev01_020.scr	9	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	わかっている。\n行くぞ。\n仲間が先で待っている	I know.\nLet us move.\nOur allies are waiting ahead.	
+mev01_020.scr:10	mev01_020.scr	10	シング	Shing Meteoryte	personagem		よーし、ガンドコ行こう！	All right, let's go Gandoko!	Termo inventado por Shing (portmanteau).
+mev01_020.scr:11	mev01_020.scr	11	ミント	Mint Adenade	personagem		ガンドコ、ですか？	Gandoko, you say?	
+mev01_020.scr:12	mev01_020.scr	12	シング	Shing Meteoryte	personagem	CRLF x2	うん！\n「ガンガン、どこまでも」で\n「ガンドコ」さ！	Yeah!\n"Gung-ho" + "to the ends of the earth"\nmakes "Gandoko"!	Explicacao do trocadilho de Shing.
+mev01_030.scr:0	mev01_030.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	ねえ、ヴェイグ。\n聞いていいかな？	Hey, Veigue.\nCan I ask you something?	
+mev01_030.scr:1	mev01_030.scr	1	ヴェイグ	Veigue Lungberg	personagem		何だ	What is it?	
+mev01_030.scr:2	mev01_030.scr	2	シング	Shing Meteoryte	personagem	CRLF x1	ヘーゼル村を支配している帝国の使者は、\nどんな奴なの？	What kind of guy is this imperial envoy\nruling over Hazel Village?	
+mev01_030.scr:3	mev01_030.scr	3	シング	Shing Meteoryte	personagem	CRLF x1	オレの故郷に来たのは、\nものっすごい悪い奴でさ	The one who came to my hometown\nwas an extraordinarily evil jerk.	
+mev01_030.scr:4	mev01_030.scr	4	シング	Shing Meteoryte	personagem	CRLF x2	村一番の力自慢がかかっていっても\n汗一つかかずにあっさりと倒してしまうくらい\n強い騎士だったんだ	He was a knight so powerful he wiped out\nour strongest villagers without even\nbreaking a sweat.	
+mev01_030.scr:5	mev01_030.scr	5	シング	Shing Meteoryte	personagem	CRLF x1	紫色の髪の、\n変なしゃべり方をする奴だったけど	He had purple hair\nand spoke in a real creepy way, though.	
+mev01_030.scr:6	mev01_030.scr	6	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	…！？\nまさか、「サレ」か？	...!?\nCould it be... "Saleh"?	Saleh conforme INDICE_NOMES.
+mev01_030.scr:7	mev01_030.scr	7	シング	Shing Meteoryte	personagem	CRLF x1	じゃあ、ヘーゼル村には今、\nオレの村と同じ奴が来てるってこと！？	You mean that same monster\nis at Hazel Village right now?!	
+mev01_030.scr:8	mev01_030.scr	8	ミント	Mint Adenade	personagem		サレという騎士の悪行は有名です…	Saleh's wicked deeds are well-known...	
+mev01_030.scr:9	mev01_030.scr	9	ミント	Mint Adenade	personagem	CRLF x2	彼は嵐を起こす力を持っていて、\n命令に従わない村を幾つも\n破壊しているとか…	He possesses the power to summon storms,\nand has reportedly destroyed several\nvillages that disobeyed him...	
+mev01_030.scr:10	mev01_030.scr	10	シング	Shing Meteoryte	personagem	CRLF x2	オレの村も、初めは星晶を採られない様に\n抵抗したけど、土地も村の人も犠牲になるから\n大人しく従うしかなかったんだ…	My village resisted at first, but with\nour land and people being sacrificed,\nwe had no choice but to submit...	
+mev01_030.scr:11	mev01_030.scr	11	シング	Shing Meteoryte	personagem	CRLF x1	くそっ、オレにもっと力があればッ！！\n村のみんなも、星晶も守る事が出来たのに	Damn it, if only I were stronger!!\nI could've protected everyone and the ore!	
+mev01_040.scr:0	mev01_040.scr	0	サレ	Saleh	personagem	CRLF x1	残念、この道はハズレなんだよ。\nハ・ズ・レ	Too bad, you picked the wrong path.\nW-r-o-n-g!	Provocacao de Saleh sobre ハ・ズ・レ.
+mev01_040.scr:1	mev01_040.scr	1	サレ	Saleh	personagem	CRLF x1	小うるさいお供の目の届かない所に\n引っ張り出すのは苦労したよ	It was quite an ordeal luring you away\nfrom those noisy little escorts of yours.	
+mev01_040.scr:2	mev01_040.scr	2	サレ	Saleh	personagem	CRLF x1	さあ、僕と来てくれるかな？\nガルバンゾ国王女、エステリーゼ様	Now then, will you come with me?\nPrincess of Garbanzo, Lady Estellise.	Garbanzo e Estellise.
+mev01_040.scr:3	mev01_040.scr	3	サレ	Saleh	personagem	CRLF x2	キミさえ来てくれれば、\nガルバンゾ国が保有する多大な星晶も、\n帝国のものだ…	As long as you come along,\nGarbanzo's vast hoard of Star Crystals\nwill belong to the Empire...	
+mev01_040.scr:4	mev01_040.scr	4	サレ	Saleh	personagem	CRLF x1	わかるよね？\n近々、キミの国とは戦争になる	You understand, don't you?\nOur nations will be at war very soon.	
+mev01_040.scr:5	mev01_040.scr	5	サレ	Saleh	personagem	CRLF x2	でも、キミが人質になって、\nガルバンゾ国の星晶を渡してもらえれば\n多くの人は血を流さずに済む	If you become our hostage and yield\nGarbanzo's Star Crystals to us,\nmany people will be spared from bloodshed.	
+mev01_040.scr:6	mev01_040.scr	6	サレ	Saleh	personagem	CRLF x2	ガルバンゾ 国民の命は今、キミの手の中にある。\nどう？\n命って重いのかな？	Garbanzo's lives rest in your hands.\nWell?\nDo you find life to be heavy?	
+mev01_040.scr:7	mev01_040.scr	7	シング	Shing Meteoryte	personagem	CRLF x1	サレだ…！\nねえ、あの女の人が危ないよ！	It's Saleh...!\nHey, that girl is in danger!	
+mev01_040.scr:8	mev01_040.scr	8	ミント	Mint Adenade	personagem	CRLF x1	ガルバンゾ国の王女、と聞こえましたが…。\nなぜここに…？	Did he say the Princess of Garbanzo...?\nWhy would she be here...?	
+mev01_040.scr:9	mev01_040.scr	9	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	わからない…。\n星晶狙いな事は間違いないだろう	I know not...\nHe clearly targets Star Crystals, though.	
+mev01_040.scr:10	mev01_040.scr	10	シング	Shing Meteoryte	personagem	CRLF x1	何て奴だ！\n助けよう、二人とも！	What a monster!\nLet's save her, both of you!	
+mev01_040.scr:11	mev01_040.scr	11	ミント	Mint Adenade	personagem	CRLF x1	あっ。\n皆さん！	Ah!\nEveryone!	
+mev01_040.scr:12	mev01_040.scr	12	ミント	Mint Adenade	personagem		正面から行くのは危険ですよ！！	Charging in head-on is too dangerous!!	
+mev01_040.scr:13	mev01_040.scr	13	ヴェイグ	Veigue Lungberg	personagem		退け…	Step aside...	
+mev01_040.scr:14	mev01_040.scr	14	サレ	Saleh	personagem	CRLF x1	やあ、ヴェイグ。\nお久しぶり	Well now, Veigue.\nLong time no see.	
+mev01_040.scr:15	mev01_040.scr	15	サレ	Saleh	personagem	CRLF x2	キミの事はよく覚えているよ。\n僕に刃向かい、村を捨てて逃げた\nドブネズミくん	I remember you well.\nThe little sewer rat who turned his blade\non me and fled his village.	
+mev01_040.scr:16	mev01_040.scr	16	ヴェイグ	Veigue Lungberg	personagem		くッ…	Ngh...!	
+mev01_040.scr:17	mev01_040.scr	17	サレ	Saleh	personagem	CRLF x2	逃げなければ、\n僕の玩具になれていたのになぁ…。\n残念だ	Had you not fled,\nyou could've been my little plaything...\nWhat a shame.	
+mev01_040.scr:18	mev01_040.scr	18	サレ	Saleh	personagem	CRLF x2	でも、再会出来て嬉しいよ。\nここでキミをズタズタに\n弄んでやれるんだもの	Still, I'm delighted to see you again.\nNow I can toy with you right here\nuntil you are torn to shreds.	
+mev01_040.scr:19	mev01_040.scr	19	サレ	Saleh	personagem	CRLF x1	僕に剣を向け、傷を付けた者なんて\nキミが初めてだからね！！	After all, you were the first person to\never point a sword at me and wound me!!	
+mev01_050.scr:0	mev01_050.scr	0	サレ	Saleh	personagem		やあ、また来てくれたのかい？	Well now, did you come back for more?	
+mev01_050.scr:1	mev01_050.scr	1	サレ	Saleh	personagem	CRLF x2	その必死な目……キライだな。\nキミみたいな人を見ると、\nもっといじめたくなるんだよね、僕	Those desperate eyes... I despise them.\nWhen I see people like you,\nit makes me want to torment them more!	
+mev01_060.scr:0	mev01_060.scr	0	ミント	Mint Adenade	personagem		もう、大丈夫ですよ	It's all right now.	
+mev01_060.scr:1	mev01_060.scr	1	エステル	Estelle	personagem		ありがとうございます…	Thank you so very much...	
+mev01_060.scr:2	mev01_060.scr	2	サレ	Saleh	personagem	CRLF x1	う、ウソだろう……？\n僕が、本気で……こんなヤツに……	N-No way... is this a lie...?\nI went all out... against this filth...?!	
+mev01_060.scr:3	mev01_060.scr	3	サレ	Saleh	personagem	CRLF x2	これまで僕は、\nずっと人の心をバカにして生きてきた…。\n軽く遊んでやればいいと思っていた	All my life, I've lived mocking\nthe hearts of others... Thinking it fine\nto toy with them lightly.	
+mev01_060.scr:4	mev01_060.scr	4	サレ	Saleh	personagem	CRLF x2	でも、キミ達との戦いで心の大切さってヤツを\n学ばされたよ。\nああ、今まで大きな間違いを犯していた	Yet battling you taught me the worth\nof the heart. Ah, what a grave mistake\nI had been making until now!	
+mev01_060.scr:5	mev01_060.scr	5	サレ	Saleh	personagem	CRLF x1	よく、わかったよ。\n心の力は強くて、大きい	I understand it all too well now.\nThe heart's power is truly formidable!	
+mev01_060.scr:6	mev01_060.scr	6	サレ	Saleh	personagem		そして、実に不愉快なものだと！	And completely, utterly disgusting!	
+mev01_060.scr:7	mev01_060.scr	7	サレ	Saleh	personagem	CRLF x1	だから…、次は本気で叩き潰す。\nキミ達の……人の心をね！	So next time, I'll crush it for real...\nYour hearts... the hearts of all mankind!	
+mev01_060.scr:8	mev01_060.scr	8	エステル	Estelle	personagem	CRLF x1	あ、あの。\n助けていただいてありがとうございます	Um, excuse me...\nThank you so much for saving me.	
+mev01_060.scr:9	mev01_060.scr	9	エステル	Estelle	personagem	CRLF x2	わたし、\nエステリーゼ・シデス・ヒュラッセイン\nと言います	My name is\nEstellise Sidos Heurassein.\nIt is a pleasure.	Estellise Sidos Heurassein nome oficial Vesperia.
+mev01_060.scr:10	mev01_060.scr	10	エステル	Estelle	personagem		エステルって呼んで下さい	Please, call me Estelle.	
+mev01_060.scr:11	mev01_060.scr	11	リタ	Rita Mordio	personagem	CRLF x1	エステル！\nケガはない？	Estelle!\nAre you hurt?!	
+mev01_060.scr:12	mev01_060.scr	12	エステル	Estelle	personagem	CRLF x1	大丈夫です。\nこの方達に助けていただきました	I am fine.\nThese kind people came to my rescue.	
+mev01_060.scr:13	mev01_060.scr	13	ユーリ	Yuri Lowell	personagem	CRLF x2	そうか。\nあの変な口調の奴は\nどうした？	Glad to hear it.\nWhat happened to that guy\nwith the bizarre way of talking?	
+mev01_060.scr:14	mev01_060.scr	14	ヴェイグ	Veigue Lungberg	personagem		駐在しているヘーゼル村へ戻ったのだろう	He likely returned to Hazel Village.	
+mev01_060.scr:15	mev01_060.scr	15	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	この一件で、サレの監視が厳しくなって、\nオレの仲間も外には出られない状態に\nなっているかもしれない	Saleh's watch will tighten over this;\nmy allies might no longer even be able\nto step outside.	
+mev01_060.scr:16	mev01_060.scr	16	シング	Shing Meteoryte	personagem	CRLF x1	そっか…。\n今日は引き返した方がいいかなあ…	I see...\nMaybe we should head back for today...	
+mev01_060.scr:17	mev01_060.scr	17	ミント	Mint Adenade	personagem	CRLF x1	あの、エステリーゼ様…い、いえ、\nエステルさん、ですよね	Um, Lady Estellise... e-er, rather,\nEstelle, right?	
+mev01_060.scr:18	mev01_060.scr	18	ミント	Mint Adenade	personagem	CRLF x1	私達は、アドリビトムという\nギルドの者です	We are members of a guild\nknown as Ad Libitum.	
+mev01_060.scr:19	mev01_060.scr	19	ミント	Mint Adenade	personagem	CRLF x1	お疲れの様ですし、皆さん\n私達の船で体を休めてはいかがでしょうか？	You all look weary; would you care to\nrest aboard our ship?	
+mev01_060.scr:20	mev01_060.scr	20	エステル	Estelle	personagem	CRLF x1	ユーリ、リタ。\nどうします？	Yuri, Rita.\nWhat should we do?	
+mev01_060.scr:21	mev01_060.scr	21	ユーリ	Yuri Lowell	personagem	CRLF x1	アドリビトム？\nああ、あの妙な船を拠点にしてるギルドか	Ad Libitum?\nAh, that guild based on the strange ship.	
+mev01_060.scr:22	mev01_060.scr	22	ユーリ	Yuri Lowell	personagem	CRLF x2	せっかくだから、行こうぜ。\nこの森で迷ってから、\nまともに食えてないもんな	Might as well take them up on it.\nWe haven't eaten a decent meal\nsince getting lost in this forest.	
+mev01_070.scr:0	mev01_070.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	お帰りなさい。\nヘーゼル村に物資を届けられなくて\n残念だったね	Welcome back.\nIt's a shame you couldn't deliver\nthose supplies to Hazel Village.	
+mev01_070.scr:1	mev01_070.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	でも、今回はサレがいたんだもん。\n仕方ないよ	Still, Saleh was there this time.\nIt couldn't be helped.	
+mev01_070.scr:2	mev01_070.scr	2	アンジュ	Ange Serena	personagem		物資を届けるのは、またの機会にしましょ	Let's deliver the goods another time.	
+mev01_070.scr:3	mev01_070.scr	3	ミント	Mint Adenade	personagem	CRLF x1	エステルさん達は、\n食堂のとなりの部屋へ案内しました	I guided Estelle and her companions\nto the room beside the dining hall.	
+mev01_070.scr:4	mev01_070.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	じゃあ、挨拶しないとね。\nガルバンゾ国のお姫様だったら、\nあんな森にいたのも事情がありそうだし	Then I must go greet them.\nA Garbanzo princess in such a forest\nmust have quite the story behind it.	
+mev01_070.scr:5	mev01_070.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	○○、あなたもいらっしゃい。\n一緒に話を聞きましょう	○○, you come along too.\nLet's hear what they have to say together.	Preservado ○○ conforme R2/E11.
+mev01_080.scr:0	mev01_080.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	さて、あなた達。\nもし良かったら、話を聞いてもいい？	Now then, would you mind\ntelling us your story?	
+mev01_080.scr:1	mev01_080.scr	1	アンジュ	Ange Serena	personagem		その前に自己紹介をしなくちゃね	Though I should introduce myself first.	
+mev01_080.scr:2	mev01_080.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	わたしは、アンジュ。\nこのギルド、アドリビトムのリーダーよ	I am Ange,\nleader of this guild, Ad Libitum.	
+mev01_080.scr:3	mev01_080.scr	3	エステル	Estelle	personagem	CRLF x2	申し遅れました。\nわたしは、ガルバンゾ国の王女エステリーゼ。\nエステル、って呼んで下さい	Pardon my delayed introduction.\nI am Estellise, Princess of Garbanzo.\nPlease, call me Estelle.	
+mev01_080.scr:4	mev01_080.scr	4	エステル	Estelle	personagem	CRLF x1	ええと、あなたの名は\n○○でしたね	And um, your name is\n○○, correct?	Preservado ○○ conforme R2/E11.
+mev01_080.scr:5	mev01_080.scr	5	エステル	Estelle	personagem		助けていただいて、ありがとうございます	Thank you so much for saving my life.	
+mev01_080.scr:6	mev01_080.scr	6	リタ	Rita Mordio	personagem		あたしは、リタ・モルディオ	I'm Rita Mordio.	Rita Mordio conforme INDICE_NOMES.
+mev01_080.scr:7	mev01_080.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x1	オレはユーリ・ローウェル。\nガルバンゾ国のギルドの者だ	I'm Yuri Lowell.\nMember of a guild in Garbanzo.	Yuri Lowell conforme INDICE_NOMES.
+mev01_080.scr:8	mev01_080.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x1	今は、このお姫様に\n旅の護衛として雇われている	Currently hired as a bodyguard\nfor her highness here.	
+mev01_080.scr:9	mev01_080.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	あなたの様な大国の王族がなぜ、\nギルドを雇って旅なんてしているの？	Why would royalty of a major nation travel\nwith a guild for hire?	
+mev01_080.scr:10	mev01_080.scr	10	エステル	Estelle	personagem	CRLF x1	コンフェイト大森林には、ガルバンゾ国の\n星晶採掘地があるんです	In the Confeito Great Forest, Garbanzo\nhas a Star Crystal mining site.	
+mev01_080.scr:11	mev01_080.scr	11	エステル	Estelle	personagem	CRLF x1	現在、ウリズン帝国とその土地をめぐって\n緊張状態なのですが…	Tensions with the Urizen Empire run high\nover that land right now, but...	
+mev01_080.scr:12	mev01_080.scr	12	エステル	Estelle	personagem	CRLF x2	その採掘地で今、\n変な現象が起こっているという話を\n聞いたんです	I heard reports of a strange\nphenomenon currently occurring\nat that very mining site.	
+mev01_080.scr:13	mev01_080.scr	13	アンジュ	Ange Serena	personagem		変な現象？	A strange phenomenon?	
+mev01_080.scr:14	mev01_080.scr	14	リタ	Rita Mordio	personagem	CRLF x1	採掘が行われた土地の生物が、\n変化してるって話よ	They say living creatures in mined lands\nare undergoing bizarre mutations.	
+mev01_080.scr:15	mev01_080.scr	15	リタ	Rita Mordio	personagem	CRLF x2	どんな変化が起こってるかってのは、\n明確にわかってるわけじゃないけど\n採掘者の間でそんな話が上がってて	Nobody knows the exact nature yet,\nbut miners have been whispering\nsuch rumors among themselves.	
+mev01_080.scr:16	mev01_080.scr	16	リタ	Rita Mordio	personagem	CRLF x2	それを聞いた学者が「土地にある星晶を\n取り過ぎたせいではないか」って\n仮説を立てて、騒ぎ始めたのよ	Scholars hypothesized it was caused by\nover-mining the land's Star Crystals,\nkicking up quite a fuss.	
+mev01_080.scr:17	mev01_080.scr	17	リタ	Rita Mordio	personagem	CRLF x2	でも、それに対して国の評議会は何も\n調査をせず、ついには世間を騒がせた罪で\n学者まで逮捕、ってわけ	Yet the State Council did zero research;\nthey even arrested the scholars on charges\nof disturbing public order!	
+mev01_080.scr:18	mev01_080.scr	18	エステル	Estelle	personagem	CRLF x1	その話を知って、わたし、\n本当の事が知りたくて	Upon hearing that, I desperately\nwanted to learn the truth.	
+mev01_080.scr:19	mev01_080.scr	19	エステル	Estelle	personagem	CRLF x1	国が動かないのなら、まず自分で調査を\nしようと国を出たんです	If the nation would not act, I set out\nto investigate the matter myself.	
+mev01_080.scr:20	mev01_080.scr	20	ユーリ	Yuri Lowell	personagem	CRLF x2	そこまでは良かったんだが。\n森で迷うわ、あのサレって奴に\nエステルがさらわれるわでな	All well and good, until we got lost\nin the forest and that Saleh guy\nwent and snatched Estelle.	
+mev01_080.scr:21	mev01_080.scr	21	アンジュ	Ange Serena	personagem	CRLF x2	サレの所属するウリズン帝国と\nあなたのガルバンゾ国は、今星晶を巡って\n緊張状態にあるものね…	The Urizen Empire where Saleh serves\nand your Garbanzo are currently in\na tense standoff over Star Crystals...	Oracao relativa mantida.
+mev01_080.scr:22	mev01_080.scr	22	エステル	Estelle	personagem	CRLF x1	コンフェイト大森林の辺りは、様々な国が\n星晶採掘に関わっていますし…	Around Confeito Great Forest, many nations\nare involved in mining Star Crystals...	
+mev01_080.scr:23	mev01_080.scr	23	エステル	Estelle	personagem		早く、問題の採掘地へ急がないと…	We must hurry to that mining site...	
+mev01_080.scr:24	mev01_080.scr	24	アンジュ	Ange Serena	personagem	CRLF x1	焦っては、駄目。\nまず、あなた達には休養が必要よ	Haste will not do.\nFirst and foremost, you all need rest.	
+mev01_080.scr:25	mev01_080.scr	25	アンジュ	Ange Serena	personagem	CRLF x1	わたし達も何か手伝えそうだから、\n今はゆっくりくつろいでいて	We may be able to assist you, so please\nmake yourselves at home for now.	
+mev01_080.scr:26	mev01_080.scr	26	エステル	Estelle	personagem	CRLF x1	はい。\nそうさせていただきます	Thank you.\nWe shall gladly accept your hospitality.	
+mev01_090.scr:0	mev01_090.scr	0	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	すまない。\n物資を届けられなくて	Forgive me.\nI failed to deliver the supplies.	
+mev01_090.scr:1	mev01_090.scr	1	クレア	Claire Bennett	personagem	CRLF x1	仕方ないわ。\nサレがいたんでしょう？	It wasn't your fault.\nSaleh was there, wasn't he?	
+mev01_090.scr:2	mev01_090.scr	2	クレア	Claire Bennett	personagem	CRLF x1	でも、今後はヘーゼル村へ接触するのは\n難しくなりそうね	Even so, making contact with Hazel Village\nwill likely be difficult from now on.	
+mev01_090.scr:3	mev01_090.scr	3	ヴェイグ	Veigue Lungberg	personagem		そうだな	Indeed.	
+mev01_090.scr:4	mev01_090.scr	4	クレア	Claire Bennett	personagem	CRLF x2	ごめんなさい。\n村を出なければならなくなったのは\n私がサレに逆らったから…	I am so sorry.\nWe had to flee our village only because\nI dared to stand up to Saleh...	
+mev01_090.scr:5	mev01_090.scr	5	ヴェイグ	Veigue Lungberg	personagem		あの時、クレアがした事は正しかった	What you did back then, Claire, was right.	
+mev01_090.scr:6	mev01_090.scr	6	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	奴にいたぶられる村の人を庇った。\nその事を、責める必要は無い	You shielded villagers being tormented.\nYou have no reason to blame yourself.	
+mev01_090.scr:7	mev01_090.scr	7	クレア	Claire Bennett	personagem	CRLF x1	ヴェイグも随分無茶をしたわね。\nサレに剣を向けるなんて	You were terribly reckless too, Veigue,\ndrawing your sword against Saleh.	
+mev01_090.scr:8	mev01_090.scr	8	ヴェイグ	Veigue Lungberg	personagem		クレアを守りたかった…	I wanted to protect you, Claire...	
+mev01_090.scr:9	mev01_090.scr	9	クレア	Claire Bennett	personagem	CRLF x1	守ってくれてありがとう、ヴェイグ。\nでも、ヘーゼル村のみんなが心配ね	Thank you for protecting me, Veigue.\nYet I still worry for Hazel Village.	
+mev01_090.scr:10	mev01_090.scr	10	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	みんな、オレ達をサレから逃がしてくれた。\nでも、逃げずに戦えば…	They let us escape from Saleh.\nYet if only I'd stayed and fought...	
+mev01_090.scr:11	mev01_090.scr	11	クレア	Claire Bennett	personagem	CRLF x2	いえ、そんな事は無いわ。\n今はこうして、外から村のみんなを\n助ける事が出来るんだもの	No, don't say that.\nThis way, we can assist everyone in the\nvillage from the outside.	
+mev01_090.scr:12	mev01_090.scr	12	クレア	Claire Bennett	personagem	CRLF x1	いい方に考えましょう。\nまだ、みんなを助ける道はあるはずだから	Let's look on the bright side.\nThere must still be a way to save them.	
+mev01_090.scr:13	mev01_090.scr	13	ヴェイグ	Veigue Lungberg	personagem		ああ…	Yeah...	
+mev01_100.scr:0	mev01_100.scr	0	カイウス	Caius Qualls	personagem	CRLF x1	ガルバンゾ国のお姫様かぁ。\nちょっと話したけど、悪い人じゃなかったな	A Princess of Garbanzo, huh?\nI talked with her, and she seems nice.	
+mev01_100.scr:1	mev01_100.scr	1	チャット	Chat	personagem	CRLF x1	エステルさん？\nなぜ、悪い人だと思ったのですか？	Estelle?\nWhy did you assume she was a bad person?	
+mev01_100.scr:2	mev01_100.scr	2	カイウス	Caius Qualls	personagem	CRLF x1	オレは生まれ故郷を追い出されたんだ。\n村の人達みんな、ガルバンゾ国から	I was driven out of my home village.\nAll of our people were, by Garbanzo.	
+mev01_100.scr:3	mev01_100.scr	3	カイウス	Caius Qualls	personagem	CRLF x1	星晶採掘の為に土地を明け渡せって、\n移住させられたんだ	They forced us to relocate, demanding we\nsurrender our land for Star Crystals.	
+mev01_100.scr:4	mev01_100.scr	4	チャット	Chat	personagem		そうだったんですか	Is that so...	
+mev01_100.scr:5	mev01_100.scr	5	カイウス	Caius Qualls	personagem	CRLF x2	でも、エステルは違う。\nむしろ、人々の為に行動したいと\n言ってる	Yet Estelle is different.\nShe said she wants to take action\nfor the sake of the people.	
+mev01_100.scr:6	mev01_100.scr	6	チャット	Chat	personagem	CRLF x1	大国は往々にして、小さい国や村を\n食いものにするものですから	Major powers all too often\nprey upon small nations and villages.	
+mev01_100.scr:7	mev01_100.scr	7	チャット	Chat	personagem	CRLF x1	偏見を持ってしまうのは、\n仕方ないかもしれないですね	Having some prejudice might be\nunavoidable under such circumstances.	
+mev01_100.scr:8	mev01_100.scr	8	カイウス	Caius Qualls	personagem	CRLF x1	ああ。\nここにいるみんなも、そう思う奴は多かった	Yeah.\nPlenty of people here felt the same way.	
+mev01_100.scr:9	mev01_100.scr	9	カイウス	Caius Qualls	personagem	CRLF x2	大国に食いつぶされて、\n価値が無くなったら\n見捨てられてきたから	They were bled dry by major powers,\nand tossed aside the moment\nthey lost their value.	
+mev01_100.scr:10	mev01_100.scr	10	カイウス	Caius Qualls	personagem	CRLF x2	でも、見方変わったよ。\n全部の人が、そう悪いヤツじゃ\nないんだな	Still, my outlook has changed.\nNot everyone from those lands\nis a bad person, after all.	
+mev01_110.scr:0	mev01_110.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x1	リーダーさんよ、\nちっと頼みがあんだけど	Hey there, Leader.\nGot a small favor to ask.	
+mev01_110.scr:1	mev01_110.scr	1	アンジュ	Ange Serena	personagem		何かしら？	What might that be?	
+mev01_110.scr:2	mev01_110.scr	2	ユーリ	Yuri Lowell	personagem		オレもここで雇ってくんねぇか？	Think you could hire me on here?	
+mev01_110.scr:3	mev01_110.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x2	どうやらオレは、姫様誘拐の疑いで\n指名手配中って事になってて、しばらく\nガルバンゾには戻れなさそうだからな	Seems I'm wanted for kidnapping her,\nso I won't be able to return to\nGarbanzo for quite a while.	
+mev01_110.scr:4	mev01_110.scr	4	エステル	Estelle	personagem	CRLF x2	誘拐だなんて、ひどいです…。\nすみません。\nわたしがユーリに依頼したばかりにご迷惑を…	Kidnapping?! How awful... I'm so sorry!\nBecause I hired you, Yuri,\nI caused you so much trouble...	
+mev01_110.scr:5	mev01_110.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x2	気にすんな。\nお偉いさんにゃ、\n真偽なんかどうでもいいんだろ	Don't sweat it.\nBig shots in power don't care\nabout what's true anyway.	
+mev01_110.scr:6	mev01_110.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x1	大事なのは、王女が自ら調査に出たってのを\n周囲に隠せるかって事さ	All they care about is covering up that\ntheir princess investigated on her own.	
+mev01_110.scr:7	mev01_110.scr	7	リタ	Rita Mordio	personagem		ねえ、あたしもここで働きたいんだけど	Hey, I want to work here too.	
+mev01_110.scr:8	mev01_110.scr	8	アンジュ	Ange Serena	personagem		あなたも指名手配になっているの？	Are you a wanted fugitive as well?	
+mev01_110.scr:9	mev01_110.scr	9	リタ	Rita Mordio	personagem	CRLF x1	国から兵器開発の協力を要請されてたの。\n戦争が近いからね	The government wanted me to build weapons,\nwhat with war on the horizon.	
+mev01_110.scr:10	mev01_110.scr	10	リタ	Rita Mordio	personagem	CRLF x2	けど、興味ないし、\n協力する気もないからユーリに付いて\n国を出たのよ	I've zero interest in that,\nso I followed Yuri and skipped\nout of the country.	
+mev01_110.scr:11	mev01_110.scr	11	リタ	Rita Mordio	personagem	CRLF x1	あたしはただ、どこかに腰を落ち着けて\n自分の研究課題に取り組めればいいの	All I want is a quiet place to settle down\nand work on my research projects.	
+mev01_110.scr:12	mev01_110.scr	12	リタ	Rita Mordio	personagem	CRLF x1	それとさ、エステルだって\nしばらくここにいた方がいいんじゃない？	Besides, wouldn't it be better for Estelle\nto stay here for a while too?	
+mev01_110.scr:13	mev01_110.scr	13	リタ	Rita Mordio	personagem	CRLF x1	帰ったら、もう城から出してもらえなく\nなっちゃうかもしれないわよ	If you go home, they might never let you\nleave the castle again.	
+mev01_110.scr:14	mev01_110.scr	14	ユーリ	Yuri Lowell	personagem		そいつは、エステル自身が決める事だ	That's up to Estelle to decide.	
+mev01_110.scr:15	mev01_110.scr	15	エステル	Estelle	personagem		わたしは…	I...	
+mev01_110.scr:16	mev01_110.scr	16	エステル	Estelle	personagem	CRLF x2	わたしも、ここで働きたいです！！\n剣も多少は心得ていますし\nお役に立てると思います	I wish to work here as well!!\nI know my way around a sword,\nso I am certain I can be of help!	
+mev01_110.scr:17	mev01_110.scr	17	エステル	Estelle	personagem	CRLF x1	採掘場に起こる異常現象の原因を確かめて、\n出来れば自分の力で解決したいから	I want to find the cause of the anomalies\nand resolve it with my own power!	
+mev01_110.scr:18	mev01_110.scr	18	エステル	Estelle	personagem	CRLF x1	まだ、具体的にどうすればいいか、\n何もわかりませんが…	Though I still have no idea\nwhat concrete steps to take...	
+mev01_110.scr:19	mev01_110.scr	19	アンジュ	Ange Serena	personagem	CRLF x1	それについては、\nみんなで協力して取り組みましょう	As for that, we can all work\ntogether to tackle the problem.	
+mev01_110.scr:20	mev01_110.scr	20	アンジュ	Ange Serena	personagem	CRLF x1	じゃあ、メンバー登録するから\nちゃんと働いてね	Well then, I'll register you as members.\nMake sure you work hard!	
+mev01_110.scr:21	mev01_110.scr	21	エステル	Estelle	personagem		ありがとうございます！	Thank you very much!	
+mev01_110.scr:22	mev01_110.scr	22	リタ	Rita Mordio	personagem		んじゃ、早速あたしは研究室を借りるわ	Then I'm borrowing a lab right away!	
+mev01_110.scr:23	mev01_110.scr	23	エステル	Estelle	personagem	CRLF x1	わたしは、早速調査の依頼を\n登録したいんですが	And I would like to post our\ninvestigation request right away!	
+mev01_110.scr:24	mev01_110.scr	24	アンジュ	Ange Serena	personagem	CRLF x1	コンフェイト大森林の\n星晶採掘地跡へ行きたいのね	You want to visit the abandoned mine\nin the Confeito Great Forest, yes?	
+mev01_110.scr:25	mev01_110.scr	25	アンジュ	Ange Serena	personagem	CRLF x1	じゃあ、登録して同行者を募るから\n待っててちょうだい	I'll post it and gather companions,\nso please wait a moment.	
+mev01_110.scr:26	mev01_110.scr	26	(mensagem de sistema)	(mensagem de sistema)	sistema		ユーリがアドリビトムに加入しました	Yuri has joined Ad Libitum.	
+mev01_110.scr:27	mev01_110.scr	27	(mensagem de sistema)	(mensagem de sistema)	sistema		エステルがアドリビトムに加入しました	Estelle has joined Ad Libitum.	
+mev01_110.scr:28	mev01_110.scr	28	(mensagem de sistema)	(mensagem de sistema)	sistema		リタがアドリビトムに加入しました	Rita has joined Ad Libitum.	

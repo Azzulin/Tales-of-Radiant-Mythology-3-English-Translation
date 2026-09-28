@@ -1,0 +1,73 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev32_010.scr:0	qev32_010.scr	0	ジェイド	Jade Curtiss	personagem		ああ、○○でしたか		
+qev32_010.scr:1	qev32_010.scr	1	ジェイド	Jade Curtiss	personagem	CRLF x1	いえ、実はあなたにぴったりの\n頼み事が出来そうでして		
+qev32_010.scr:2	qev32_010.scr	2	ジェイド	Jade Curtiss	personagem		後で、また来て頂けますよね？		
+qev32_010.scr:3	qev32_010.scr	3	(ator 200)	(ator 200)	desconhecido		…………		
+qev32_010.scr:4	qev32_010.scr	4	ジェイド	Jade Curtiss	personagem	CRLF x1	もちろん、無理にとは言いません。\n時間に都合の付く時で構いませんし		
+qev32_010.scr:5	qev32_010.scr	5	ジェイド	Jade Curtiss	personagem	CRLF x1	頼りにしていますよ、\n○○		
+qev32_010.scr:6	qev32_010.scr	6	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「お金大好き∀」が\nエントリーされました。\nジェイドから受ける事が出来ます		
+qev32_020.scr:0	qev32_020.scr	0	ジェイド	Jade Curtiss	personagem	CRLF x1	おや。\n協力していただけるんですか？		
+qev32_020.scr:1	qev32_020.scr	1	ジェイド	Jade Curtiss	personagem	CRLF x2	いやぁ、助かります。\nさすがに私一人で、あの山を\n捜索するのは、骨が折れますから		
+qev32_030.scr:0	qev32_030.scr	0	ジェイド	Jade Curtiss	personagem	CRLF x1	ここですね。\n全く、手のかかる部下を持つと大変です		
+qev32_030.scr:1	qev32_030.scr	1	ジェイド	Jade Curtiss	personagem	CRLF x1	お仕置きを考えておかないと\nいけませんねえ		
+qev32_030.scr:2	qev32_030.scr	2	(ator 200)	(ator 200)	desconhecido		…………		
+qev32_030.scr:3	qev32_030.scr	3	ジェイド	Jade Curtiss	personagem	CRLF x1	おや、どうしました？\nああ、今のはほんの冗談です		
+qev32_030.scr:4	qev32_030.scr	4	ジェイド	Jade Curtiss	personagem		さあ、行きましょうか		
+qev32_040.scr:0	qev32_040.scr	0	ジェイド	Jade Curtiss	personagem		ふむ……マナが乱れていますね		
+qev32_040.scr:1	qev32_040.scr	1	ジェイド	Jade Curtiss	personagem	CRLF x1	どうやら、この山のどこかにいるのは\n間違いなさそうです		
+qev32_040.scr:2	qev32_040.scr	2	(ator 200)	(ator 200)	desconhecido		…………		
+qev32_040.scr:3	qev32_040.scr	3	ジェイド	Jade Curtiss	personagem	CRLF x2	心配する事はないでしょう。\n見た目以上にしっかりした\n型破りな子です		
+qev32_040.scr:4	qev32_040.scr	4	ジェイド	Jade Curtiss	personagem	CRLF x2	崖から落ちようが\n船から落ちようが\n何の心配もいりませんよ		
+qev32_040.scr:5	qev32_040.scr	5	(ator 200)	(ator 200)	desconhecido		…………		
+qev32_040.scr:6	qev32_040.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x2	おや。\n私は本当の事を言ったまでですよ。\n部下の事を、心から信頼していますから		
+qev32_040.scr:7	qev32_040.scr	7	(ator 200)	(ator 200)	desconhecido		…………		
+qev32_040.scr:8	qev32_040.scr	8	ジェイド	Jade Curtiss	personagem	CRLF x2	有事の際は奥の手もあります。\nその時は、あなたにも\n手伝ってもらいますので		
+qev32_040.scr:9	qev32_040.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x1	さてさて。\nそろそろ先に進みましょうか		
+qev32_050.scr:0	qev32_050.scr	0	ジェイド	Jade Curtiss	personagem	CRLF x1	おやおや、こんな所で\nかくれんぼですか？		
+qev32_050.scr:1	qev32_050.scr	1	ジェイド	Jade Curtiss	personagem		そこにいるのでしょう、アニス		
+qev32_050.scr:2	qev32_050.scr	2	アニス	Anise Tatlin	personagem	CRLF x1	さっすが大佐☆\nどうしてわかったんですかぁ？		
+qev32_050.scr:3	qev32_050.scr	3	ジェイド	Jade Curtiss	personagem	CRLF x1	さぁ、どうしてでしょう？\n不思議ですねえ		
+qev32_050.scr:4	qev32_050.scr	4	ジェイド	Jade Curtiss	personagem	CRLF x1	とっさに、大量の始末書が\n頭に思い浮かんだからでしょうか		
+qev32_050.scr:5	qev32_050.scr	5	ジェイド	Jade Curtiss	personagem	CRLF x2	さて。\nその始末書は、\n誰が書くものなんでしょうね？		
+qev32_050.scr:6	qev32_050.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x2	途中で勝手な寄り道をして、\n合流の遅れたかわいそうな部下にでも\nやらせてみましょうか		
+qev32_050.scr:7	qev32_050.scr	7	アニス	Anise Tatlin	personagem		はうあ！　そ、それだけは！		
+qev32_050.scr:8	qev32_050.scr	8	ジェイド	Jade Curtiss	personagem	CRLF x2	おや。\n何を動揺しているんです？\n今更じゃないですか		
+qev32_050.scr:9	qev32_050.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x1	次回の給与明細が楽しみですね。\nね、アニス∀		
+qev32_050.scr:10	qev32_050.scr	10	アニス	Anise Tatlin	personagem		ううう……大佐の鬼、悪魔〜！		
+qev32_050.scr:11	qev32_050.scr	11	ジェイド	Jade Curtiss	personagem		と、私が本気で言うとでも思いましたか？		
+qev32_050.scr:12	qev32_050.scr	12	ジェイド	Jade Curtiss	personagem	CRLF x1	無事で何よりです。\nよく連絡をくれました		
+qev32_050.scr:13	qev32_050.scr	13	アニス	Anise Tatlin	personagem		大佐ぁ……		
+qev32_050.scr:14	qev32_050.scr	14	アニス	Anise Tatlin	personagem	CRLF x1	でもさっきの、半分目が\n本気でしたよぅ？		
+qev32_050.scr:15	qev32_050.scr	15	ジェイド	Jade Curtiss	personagem	CRLF x2	そう見えたのなら、\nそれはそれでいいですよ。\n既成事実にするだけですから		
+qev32_050.scr:16	qev32_050.scr	16	(ator 200)	(ator 200)	desconhecido		…………		
+qev32_050.scr:17	qev32_050.scr	17	ジェイド	Jade Curtiss	personagem	CRLF x1	おや、そういえば\n紹介がまだでしたね		
+qev32_050.scr:18	qev32_050.scr	18	ジェイド	Jade Curtiss	personagem		私の部下のアニスです		
+qev32_050.scr:19	qev32_050.scr	19	アニス	Anise Tatlin	personagem	CRLF x1	アニス・タトリンです∀\n初めまして∀∀		
+qev32_050.scr:20	qev32_050.scr	20	ジェイド	Jade Curtiss	personagem	CRLF x2	とまあ、少々クセのある性格ですが\nそのうち慣れると思うので\nあまり気にしないで下さい		
+qev32_050.scr:21	qev32_050.scr	21	アニス	Anise Tatlin	personagem	CRLF x1	はうあ！\nそれ、大佐にだけは言われたくないですぅ！		
+qev32_050.scr:22	qev32_050.scr	22	ジェイド	Jade Curtiss	personagem	CRLF x1	さて、アニスも無事見つけた事ですし\n帰るとしましょうか		
+qev32_050.scr:23	qev32_050.scr	23	アニス	Anise Tatlin	personagem		って、思いっきり聞いてないし……！		
+qev32_060.scr:0	qev32_060.scr	0	ジェイド	Jade Curtiss	personagem	CRLF x1	やれやれ。\nやっと戻って来れましたね		
+qev32_060.scr:1	qev32_060.scr	1	アニス	Anise Tatlin	personagem		ほんとにすみませんでした、大佐……		
+qev32_060.scr:2	qev32_060.scr	2	ジェイド	Jade Curtiss	personagem	CRLF x1	いえいえ。\nいいんですよ、アニス		
+qev32_060.scr:3	qev32_060.scr	3	ジェイド	Jade Curtiss	personagem		その分、キリキリ働いてもらいますから∀		
+qev32_060.scr:4	qev32_060.scr	4	アニス	Anise Tatlin	personagem	CRLF x1	はうあ！\nやっぱり大佐って鬼……！！		
+qev32_060.scr:5	qev32_060.scr	5	ルーク	Luke fon Fabre	personagem		何だぁ？　随分にぎやか……		
+qev32_060.scr:6	qev32_060.scr	6	アニス	Anise Tatlin	personagem		ルーク様ぁ∀		
+qev32_060.scr:7	qev32_060.scr	7	ルーク	Luke fon Fabre	personagem		うわっ、何だ！？		
+qev32_060.scr:8	qev32_060.scr	8	アニス	Anise Tatlin	personagem	CRLF x2	ルーク様、会いたかったですう∀\nもうアニスちゃん、ルーク様の事が\n心配で心配で……		
+qev32_060.scr:9	qev32_060.scr	9	ルーク	Luke fon Fabre	personagem	CRLF x1	わかった、わかったから。\nいーから離れろ！		
+qev32_060.scr:10	qev32_060.scr	10	アニス	Anise Tatlin	personagem	CRLF x2	もう。\nルーク様ったら、\n照れ屋さんなんだからぁ∀		
+qev32_060.scr:11	qev32_060.scr	11	ルーク	Luke fon Fabre	personagem		そうじゃねえっつーの		
+qev32_060.scr:12	qev32_060.scr	12	ジェイド	Jade Curtiss	personagem	CRLF x1	おやおや、相変わらず\nラブラブが炸裂している様ですねえ、アニス		
+qev32_060.scr:13	qev32_060.scr	13	アニス	Anise Tatlin	personagem	CRLF x1	えへ∀\n大佐にもわかっちゃいますぅ？		
+qev32_060.scr:14	qev32_060.scr	14	ルーク	Luke fon Fabre	personagem		だから、そんなんじゃねーって！		
+qev32_060.scr:15	qev32_060.scr	15	ジェイド	Jade Curtiss	personagem	CRLF x1	むきになって否定するところが\nますます怪しいですねえ		
+qev32_060.scr:16	qev32_060.scr	16	ルーク	Luke fon Fabre	personagem	CRLF x1	っくそ、こいつらと話してると\n埒があかねえ……		
+qev32_060.scr:17	qev32_060.scr	17	ルーク	Luke fon Fabre	personagem		とんだ疫病神コンビだぜ、ったく		
+qev32_060.scr:18	qev32_060.scr	18	ジェイド	Jade Curtiss	personagem		ルーク？　聞こえていますよ		
+qev32_060.scr:19	qev32_060.scr	19	ジェイド	Jade Curtiss	personagem	CRLF x1	……とまあ、そういうわけで\n無事目的も達成出来ました		
+qev32_060.scr:20	qev32_060.scr	20	ジェイド	Jade Curtiss	personagem	CRLF x1	ご協力感謝しますよ、\n○○		
+qev32_060.scr:21	qev32_060.scr	21	ジェイド	Jade Curtiss	personagem	CRLF x1	また何かあった時には、\nお願いする事もあるかもしれません		
+qev32_060.scr:22	qev32_060.scr	22	ジェイド	Jade Curtiss	personagem		今後ともよろしくお願いします、ね？		
+qev32_060.scr:23	qev32_060.scr	23	(mensagem de sistema)	(mensagem de sistema)	sistema		アニスがアドリビトムに加入しました		

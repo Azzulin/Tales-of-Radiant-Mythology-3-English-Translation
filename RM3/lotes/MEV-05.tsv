@@ -1,0 +1,205 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev05_010.scr:0	mev05_010.scr	0	アンジュ	Ange Serena	personagem		今回は、ちょっと変わった依頼よ		
+mev05_010.scr:1	mev05_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	カダイフ砂漠のオアシスまで行って、\n魔物を捨ててきて欲しいの		
+mev05_010.scr:2	mev05_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	カダイフ砂漠に着いたら、\n依頼主のトマスさんから\n魔物が入ったケージを渡されるから		
+mev05_010.scr:3	mev05_010.scr	3	アンジュ	Ange Serena	personagem		オアシスまで、そのケージを運んでちょうだい		
+mev05_010.scr:4	mev05_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	今回は、クレス君とイリアが\n同行する事になってるから		
+mev05_010.scr:5	mev05_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	それと、契約で渡されたケージの中は\n絶対に見ないでくれって言われてるの。\nそれは守ってちょうだいね		
+mev05_010.scr:6	mev05_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	じゃあ、頼んだわよ。\n行ってらっしゃい		
+mev05_020.scr:0	mev05_020.scr	0	トマス	Thomas	personagem	CRLF x1	あんたらァ、\nこの仕事を引き受けてくれる者だね…		
+mev05_020.scr:1	mev05_020.scr	1	トマス	Thomas	personagem	CRLF x2	そうだなァ…、この土地がいいだろうなァ…。\nここなら、人に会う事も無かろうなァ。\nオアシスもあるしなァ…		
+mev05_020.scr:2	mev05_020.scr	2	クレス	Cress Albane	personagem	CRLF x1	なぜ、わざわざ捕まえた魔物を\n捨てるんですか		
+mev05_020.scr:3	mev05_020.scr	3	トマス	Thomas	personagem		殺すまでは…出来なくてなァ…		
+mev05_020.scr:4	mev05_020.scr	4	クレス	Cress Albane	personagem		はぁ…		
+mev05_020.scr:5	mev05_020.scr	5	イリア	Iria Animi	personagem	CRLF x1	どれどれ。\nどんな奴が入ってんの？		
+mev05_020.scr:6	mev05_020.scr	6	トマス	Thomas	personagem		開けては、ならァん！！		
+mev05_020.scr:7	mev05_020.scr	7	トマス	Thomas	personagem	CRLF x1	薬で眠らせてあるんだ！\n開ければ…光で目覚めてしまうぞィ		
+mev05_020.scr:8	mev05_020.scr	8	イリア	Iria Animi	personagem	CRLF x1	ゲッ！？\nさ、先に言えっての！		
+mev05_020.scr:9	mev05_020.scr	9	クレス	Cress Albane	personagem	CRLF x2	すみません。\n確か、ケージの中を見ない、\n…そういう契約でしたね		
+mev05_020.scr:10	mev05_020.scr	10	トマス	Thomas	personagem		………		
+mev05_020.scr:11	mev05_020.scr	11	トマス	Thomas	personagem	CRLF x2	それじゃあ、頼んだよ。\n着いたら扉の鍵を外して、\nそのまま立ち去ってくれ		
+mev05_020.scr:12	mev05_020.scr	12	トマス	Thomas	personagem	CRLF x1	そうすれば、後は勝手に出て行くだろうよゥ。\nくれぐれも、中は見ない様になァ		
+mev05_020.scr:13	mev05_020.scr	13	イリア	Iria Animi	personagem	CRLF x2	めんどくさっ…。\n魔物なんて、\nここで始末してっても良さそうじゃん		
+mev05_020.scr:14	mev05_020.scr	14	イリア	Iria Animi	personagem	CRLF x1	あたしが何発か撃ち込むから、それで\n仕事終わりにしない？		
+mev05_020.scr:15	mev05_020.scr	15	クレス	Cress Albane	personagem	CRLF x1	だ、駄目だよ、イリア。\n依頼を受けた以上、指示には従わないと…		
+mev05_020.scr:16	mev05_020.scr	16	イリア	Iria Animi	personagem	CRLF x1	へいへい。\nんじゃ、行くとしますか		
+mev05_025.scr:0	mev05_025.scr	0	イリア	Iria Animi	personagem		うっわ、最悪！！		
+mev05_025.scr:1	mev05_025.scr	1	イリア	Iria Animi	personagem	CRLF x1	砂漠でこいつだけには\n会いたくなかったのに…		
+mev05_025.scr:2	mev05_025.scr	2	クレス	Cress Albane	personagem	CRLF x1	ケージを守る為にも、\n倒しておいた方が良さそうだ		
+mev05_025.scr:3	mev05_025.scr	3	イリア	Iria Animi	personagem	CRLF x1	ケージをアイツに放り投げて、\nそれで仕事も終わりでいいじゃん、もう！		
+mev05_025.scr:4	mev05_025.scr	4	クレス	Cress Albane	personagem		行くぞ、イリア！！		
+mev05_025.scr:5	mev05_025.scr	5	イリア	Iria Animi	personagem		聞いとんのかい！		
+mev05_026.scr:0	mev05_026.scr	0	クレス	Cress Albane	personagem		行くぞ、イリア！！		
+mev05_026.scr:1	mev05_026.scr	1	イリア	Iria Animi	personagem	CRLF x1	はいはい。\nやりゃあいいんでしょ〜…		
+mev05_027.scr:0	mev05_027.scr	0	クレス	Cress Albane	personagem	CRLF x1	よし。\nこれで、ケージを安全に運べるぞ		
+mev05_027.scr:1	mev05_027.scr	1	イリア	Iria Animi	personagem	CRLF x1	う〜〜お〜〜…。\nもうひと仕事終わった気分になってた…		
+mev05_027.scr:2	mev05_027.scr	2	イリア	Iria Animi	personagem		しょっぱなから、ハードな仕事だわ〜		
+mev05_030.scr:0	mev05_030.scr	0	ジョアン	Joan	personagem		………ァァァ…		
+mev05_030.scr:1	mev05_030.scr	1	イリア	Iria Animi	personagem		ちょっとっ！！		
+mev05_030.scr:2	mev05_030.scr	2	イリア	Iria Animi	personagem	CRLF x1	今、何か聞こえなかった！？\nうめき声みたいなの		
+mev05_030.scr:3	mev05_030.scr	3	クレス	Cress Albane	personagem		風のうなりじゃないのか？		
+mev05_030.scr:4	mev05_030.scr	4	ミゲル	Miguel	personagem		ウ…、ウ…、ウゥゥ……		
+mev05_030.scr:5	mev05_030.scr	5	イリア	Iria Animi	personagem		ホラ！！		
+mev05_030.scr:6	mev05_030.scr	6	イリア	Iria Animi	personagem		ケージよ、ケージの中だって！！		
+mev05_030.scr:7	mev05_030.scr	7	イリア	Iria Animi	personagem	CRLF x2	っか〜〜〜〜〜！！\nやっぱ、ここで何発かブチ込んだ方が\n安全だって！！		
+mev05_030.scr:8	mev05_030.scr	8	クレス	Cress Albane	personagem		落ち着くんだ、イリア！！		
+mev05_030.scr:9	mev05_030.scr	9	クレス	Cress Albane	personagem	CRLF x2	魔物の眠り薬が\n切れ始めているかもしれない。\n変に刺激しない様にしないと		
+mev05_030.scr:10	mev05_030.scr	10	クレス	Cress Albane	personagem	CRLF x1	とにかく、今は急ごう。\nオアシスまで、もう少しだ		
+mev05_040.scr:0	mev05_040.scr	0	イリア	Iria Animi	personagem		ふ〜…、やっとオアシスね		
+mev05_040.scr:1	mev05_040.scr	1	イリア	Iria Animi	personagem		さっさと済ませて帰りましょ		
+mev05_040.scr:2	mev05_040.scr	2	クレス	Cress Albane	personagem	CRLF x2	手順は、まず鍵を外して…。\nそのまま開けずに、\nここを去ればいいんだったね		
+mev05_040.scr:3	mev05_040.scr	3	クレス	Cress Albane	personagem		しまった、魔物に！！		
+mev05_040.scr:4	mev05_040.scr	4	イリア	Iria Animi	personagem	CRLF x1	ゲェッ！！\nまさかあんた、アレを追っ払う気？		
+mev05_040.scr:5	mev05_040.scr	5	イリア	Iria Animi	personagem	CRLF x1	向こう、こっちに目もくれてないじゃない。\nもう、このまま逃げりゃいいでしょ！！		
+mev05_040.scr:6	mev05_040.scr	6	クレス	Cress Albane	personagem	CRLF x1	駄目だ。\nそれでは依頼を完遂した事にはならない		
+mev05_040.scr:7	mev05_040.scr	7	イリア	Iria Animi	personagem	CRLF x1	なんつー、どマジメ人間。\n絶対結婚したくないタイプ…		
+mev05_040.scr:8	mev05_040.scr	8	ジョアン	Joan	personagem	CRLF x1	ひいいい！！　何だ、何なんだよ！！\n何が起こってるんだあああ！？		
+mev05_040.scr:9	mev05_040.scr	9	ミゲル	Miguel	personagem		た、助けて、助けてくれェェェ！！！		
+mev05_040.scr:10	mev05_040.scr	10	クレス	Cress Albane	personagem		ケージの中から悲鳴が！！		
+mev05_040.scr:11	mev05_040.scr	11	クレス	Cress Albane	personagem	CRLF x1	あの中は魔物なんかじゃない！！\nヒトが入っているんだ！！		
+mev05_040.scr:12	mev05_040.scr	12	イリア	Iria Animi	personagem		なぬ！？		
+mev05_040.scr:13	mev05_040.scr	13	イリア	Iria Animi	personagem	CRLF x1	じゃあ、あたし…危うく撃っちゃう\nとこだったワケ！？		
+mev05_040.scr:14	mev05_040.scr	14	クレス	Cress Albane	personagem		まずはあの魔物を倒さないと！		
+mev05_040.scr:15	mev05_040.scr	15	イリア	Iria Animi	personagem		ったく、しょーがないわね！！		
+mev05_040.scr:16	mev05_040.scr	16	イリア	Iria Animi	personagem	CRLF x1	んじゃ、エンリョなく\nハデに行かせてもらうわよ！！		
+mev05_050.scr:0	mev05_050.scr	0	クレス	Cress Albane	personagem		さあ、ケージから離れろ！！		
+mev05_050.scr:1	mev05_050.scr	1	イリア	Iria Animi	personagem		言って聞く相手かい…		
+mev05_060.scr:0	mev05_060.scr	0	クレス	Cress Albane	personagem		よし、ケージを開けよう		
+mev05_060.scr:1	mev05_060.scr	1	イリア	Iria Animi	personagem		契約は？		
+mev05_060.scr:2	mev05_060.scr	2	クレス	Cress Albane	personagem	CRLF x1	…中にいるのは魔物じゃない。\nヒトだ		
+mev05_060.scr:3	mev05_060.scr	3	クレス	Cress Albane	personagem		僕達が受けたのは、ヒトを捨てる仕事じゃない		
+mev05_060.scr:4	mev05_060.scr	4	クレス	Cress Albane	personagem	CRLF x1	あなたは、\n以前依頼に来たジョアン…さん、ですか？		
+mev05_060.scr:5	mev05_060.scr	5	ジョアン	Joan	personagem		は、はいぃ…		
+mev05_060.scr:6	mev05_060.scr	6	クレス	Cress Albane	personagem		なぜそんな姿に…		
+mev05_060.scr:7	mev05_060.scr	7	ジョアン	Joan	personagem		そ、それが私達にもわからないのです		
+mev05_060.scr:8	mev05_060.scr	8	ジョアン	Joan	personagem	CRLF x1	あの赤い煙に触れてから、病は治って\n村で過ごしていたんですが…		
+mev05_060.scr:9	mev05_060.scr	9	ジョアン	Joan	personagem	CRLF x1	なぜかはわかりませんが、村の中にいる事が\nひどく居心地悪く感じる様になって		
+mev05_060.scr:10	mev05_060.scr	10	ジョアン	Joan	personagem	CRLF x2	村…だけじゃなく、\nこの世に生きている事自体に…。\n自分で、自分の存在がわからなくなって…		
+mev05_060.scr:11	mev05_060.scr	11	ジョアン	Joan	personagem		自分が今まで知っている自分でない気がして…		
+mev05_060.scr:12	mev05_060.scr	12	ジョアン	Joan	personagem	CRLF x1	そうして、次に意識がハッキリした時には\n檻の中でした		
+mev05_060.scr:13	mev05_060.scr	13	ジョアン	Joan	personagem	CRLF x1	私は、この異形の姿になって\n暴れていたらしいのです		
+mev05_060.scr:14	mev05_060.scr	14	ジョアン	Joan	personagem	CRLF x2	彼、ミゲルもです。\n私よりも前に赤い煙に触れ、病気が治った後\n同じ様に肉体が変化し始めたんです		
+mev05_060.scr:15	mev05_060.scr	15	ミゲル	Miguel	personagem	CRLF x2	もう、村には置いておけないと…。\nでも、確かに…俺の身体は\nもうヒトとは違う様だ		
+mev05_060.scr:16	mev05_060.scr	16	ミゲル	Miguel	personagem		ヒトの中じゃ、生きていけないんだろうよ		
+mev05_060.scr:17	mev05_060.scr	17	ミゲル	Miguel	personagem	CRLF x1	ああ、これから俺はどうすりゃいい。\nここに残って死ぬのを待つしかねえのか…		
+mev05_060.scr:18	mev05_060.scr	18	イリア	Iria Animi	personagem		ゲェッ！？		
+mev05_060.scr:19	mev05_060.scr	19	ジョアン	Joan	personagem		ヒトの…、元の姿に！！		
+mev05_060.scr:20	mev05_060.scr	20	ジョアン	Joan	personagem	CRLF x1	ああ、あなたには助けられてばかりです。\nありがとうございます		
+mev05_060.scr:21	mev05_060.scr	21	クレス	Cress Albane	personagem	CRLF x1	○○。\n君がやったのか！？		
+mev05_060.scr:22	mev05_060.scr	22	イリア	Iria Animi	personagem		無意識にやったってワケ？		
+mev05_060.scr:23	mev05_060.scr	23	イリア	Iria Animi	personagem	CRLF x1	それともやっぱ、\nアンタの力じゃないって事？		
+mev05_060.scr:24	mev05_060.scr	24	イリア	Iria Animi	personagem		黙ってたらわかんないでしょ！		
+mev05_060.scr:25	mev05_060.scr	25	イリア	Iria Animi	personagem	CRLF x1	ってかさ、アンタの力かどうかも\n怪しいもんだし…		
+mev05_060.scr:26	mev05_060.scr	26	ミゲル	Miguel	personagem	CRLF x2	でも、このまま村には帰れねえぞ。\n帰っても、みんなにまたあの姿になると\n思われちまう		
+mev05_060.scr:27	mev05_060.scr	27	クレス	Cress Albane	personagem	CRLF x1	それじゃあ、僕達の船へ来て下さい。\nここに留まるのは危険ですから		
+mev05_060.scr:28	mev05_060.scr	28	イリア	Iria Animi	personagem	CRLF x2	そうね。\n誰か、いい知恵出してくれるだろうし。\n船に戻りましょ		
+mev05_060.scr:29	mev05_060.scr	29	(opcao do jogador)	(opcao do jogador)	escolha		よくわからない、と言う		
+mev05_060.scr:30	mev05_060.scr	30	(opcao do jogador)	(opcao do jogador)	escolha		黙っている		
+mev05_070.scr:0	mev05_070.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	お疲れ様、○○。\n肉体的にも精神的にも、\nなかなかハードな仕事だったね		
+mev05_070.scr:1	mev05_070.scr	1	アンジュ	Ange Serena	personagem		さてと…、ハロルドさん		
+mev05_070.scr:2	mev05_070.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	赤い煙を浴びたコクヨウ玉虫、\nそしてジョアンさん達に起きた変化		
+mev05_070.scr:3	mev05_070.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	この二つから、赤い煙が\n「生物変化の原因」であると確定した、\nと言ってもいいのかしら？		
+mev05_070.scr:4	mev05_070.scr	4	ハロルド	Harold Berselius	personagem		そうね		
+mev05_070.scr:5	mev05_070.scr	5	ハロルド	Harold Berselius	personagem	CRLF x2	ただ、人を治癒したり、\n生物変化を起こしたりする過程については\nわからないけど		
+mev05_070.scr:6	mev05_070.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	○○。\n今、医務室でアニーがジョアンさん達を\n診ているの		
+mev05_070.scr:7	mev05_070.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	あの二人の今後についてね。\nそれは、任せて		
+mev05_070.scr:8	mev05_070.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	ちょっと、ね。\nすんなり村に帰れました、というわけには\n行かないだろうけど…		
+mev05_070.scr:9	mev05_070.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	医務室へ行って、彼らと話をしてみないとね。\n一緒にいらっしゃい		
+mev05_070.scr:10	mev05_070.scr	10	(opcao do jogador)	(opcao do jogador)	escolha		あの二人の今後について尋ねる		
+mev05_070.scr:11	mev05_070.scr	11	(opcao do jogador)	(opcao do jogador)	escolha		二人は村には帰れないのか尋ねる		
+mev05_080.scr:0	mev05_080.scr	0	アニー	Annie Barrs	personagem		あっ、今お二人を診終わったところです		
+mev05_080.scr:1	mev05_080.scr	1	アンジュ	Ange Serena	personagem		二人とも異常はない？		
+mev05_080.scr:2	mev05_080.scr	2	アニー	Annie Barrs	personagem	CRLF x1	はい、普通の人間と特に変わった点は\nありません		
+mev05_080.scr:3	mev05_080.scr	3	アンジュ	Ange Serena	personagem		そう、良かった		
+mev05_080.scr:4	mev05_080.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	ジョアンさん、ミゲルさん、\n確かに今は故郷へ帰るのは\n難しいかもしれません		
+mev05_080.scr:5	mev05_080.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	ですが、わたしが所属していた教会なら\n受け入れてくれます		
+mev05_080.scr:6	mev05_080.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	あなた方さえよろしければ、\nそこで働いてはいただけないでしょうか？		
+mev05_080.scr:7	mev05_080.scr	7	ジョアン	Joan	personagem		いいんですか？		
+mev05_080.scr:8	mev05_080.scr	8	ミゲル	Miguel	personagem		そりゃ、願ってもない事で		
+mev05_080.scr:9	mev05_080.scr	9	アンジュ	Ange Serena	personagem	CRLF x2	嬉しい！\nちょうど男性の働き手が\n欲しいと言われていたから		
+mev05_080.scr:10	mev05_080.scr	10	アンジュ	Ange Serena	personagem	CRLF x1	それじゃあ、教会への紹介状を書いて\nその街までお送りいたしますね		
+mev05_080.scr:11	mev05_080.scr	11	ジョアン	Joan	personagem	CRLF x2	ああ、何でもするよ。\nありがとう。\n本当に、ありがとう		
+mev05_090.scr:0	mev05_090.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	ジョアンさん達には、教会で働きながら\nオルタ・ビレッジの建築を進めて\nもらいましょう		
+mev05_090.scr:1	mev05_090.scr	1	アンジュ	Ange Serena	personagem		さあ、こっちの方も忙しくなりそうね		
+mev05_090.scr:2	mev05_090.scr	2	ミント	Mint Adenade	personagem		それにしても、悲しい事件でしたね		
+mev05_090.scr:3	mev05_090.scr	3	ミント	Mint Adenade	personagem	CRLF x1	魔物化したとはいえ、同じ村の民を\n捨てるなんて…		
+mev05_090.scr:4	mev05_090.scr	4	フィリア	Philia Felice	personagem		他に方法が無かったのでしょう		
+mev05_090.scr:5	mev05_090.scr	5	フィリア	Philia Felice	personagem	CRLF x2	村人全員に被害が出る可能性があるならば、\n村長さんもああするしかなかったのかも\nしれません		
+mev05_090.scr:6	mev05_090.scr	6	ミント	Mint Adenade	personagem	CRLF x2	そう…ですね…。\n殺さず、オアシスに追放するのは、\nせめてもの処置だったのでしょう…		
+mev05_090.scr:7	mev05_090.scr	7	ミント	Mint Adenade	personagem	CRLF x1	でも、悲しい話です。\n人が人を捨てるなんて…		
+mev05_090.scr:8	mev05_090.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	そう。\nだからもう二度と赤い煙が人に\n接触しない様にしないとね		
+mev05_090.scr:9	mev05_090.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	生物を変化させる原理はわからないけれど、\n原因はあの赤い煙だという事がわかったんだし		
+mev05_090.scr:10	mev05_090.scr	10	ミント	Mint Adenade	personagem	CRLF x1	赤い煙の出現は、短期間なのですよね。\n次はどこに現れるのでしょうか？		
+mev05_090.scr:11	mev05_090.scr	11	フィリア	Philia Felice	personagem	CRLF x1	しかも、最近は星晶採掘地跡以外でも\n現れるという「噂」もあります		
+mev05_090.scr:12	mev05_090.scr	12	フィリア	Philia Felice	personagem		あくまで、噂の様ですが…		
+mev05_090.scr:13	mev05_090.scr	13	アンジュ	Ange Serena	personagem	CRLF x2	また、護衛の依頼が来るはずだし、\nその情報から、次にどこに行けばいいかが\nわかるかも		
+mev05_090.scr:14	mev05_090.scr	14	アンジュ	Ange Serena	personagem		今は、それを待ちましょう		
+mev05_100.scr:0	mev05_100.scr	0	アーチェ	Arche Klein	personagem	CRLF x2	あたし、アーチェ。\nアーチェ・クライン。\nよろしくね		
+mev05_100.scr:1	mev05_100.scr	1	アーチェ	Arche Klein	personagem		はいはい、よろしく		
+mev05_100.scr:2	mev05_100.scr	2	アーチェ	Arche Klein	personagem	CRLF x1	あんたもギルドのメンバーなんでしょ？\nあたし、今日からここで働くからさ		
+mev05_100.scr:3	mev05_100.scr	3	アーチェ	Arche Klein	personagem	CRLF x1	変に飾ってかしこまるのも、何だかね〜。\n気を遣われるのも疲れるじゃん？		
+mev05_100.scr:4	mev05_100.scr	4	アーチェ	Arche Klein	personagem	CRLF x2	あたし、今日からここのメンバーになったのよ。\nどうせずっと一緒にやってく事になるんだし、\n堅っ苦しい挨拶はナシ！		
+mev05_100.scr:5	mev05_100.scr	5	ミント	Mint Adenade	personagem		アーチェさん、お待ちしていました		
+mev05_100.scr:6	mev05_100.scr	6	アーチェ	Arche Klein	personagem	CRLF x2	ミントが欲しがってたのって、\nこれでしょ？\nソーサラーリング		
+mev05_100.scr:7	mev05_100.scr	7	ミント	Mint Adenade	personagem	CRLF x2	はい。\nこれの力を借りれば、\n未踏の地へ行けるかもしれません		
+mev05_100.scr:8	mev05_100.scr	8	ミント	Mint Adenade	personagem	CRLF x1	これからアドリビトムにとって、\n必要なものになると思っていたもので		
+mev05_100.scr:9	mev05_100.scr	9	アーチェ	Arche Klein	personagem	CRLF x1	でも、今はまっさらな状態で\nなーんの力もないのよね		
+mev05_100.scr:10	mev05_100.scr	10	アーチェ	Arche Klein	personagem	CRLF x1	だから、このリングにまず、\n息吹を吹き込んでやんないといけないの		
+mev05_100.scr:11	mev05_100.scr	11	ミント	Mint Adenade	personagem	CRLF x1	では、ひとまずこれは\nアンジュさんに預けましょう		
+mev05_100.scr:12	mev05_100.scr	12	ミント	Mint Adenade	personagem	CRLF x1	どなたかが、このリングに息吹を与えて\nくれる様に依頼を出しておきますね		
+mev05_100.scr:13	mev05_100.scr	13	アーチェ	Arche Klein	personagem	CRLF x1	んじゃ、○○。\n仕事で組みたい時は呼んでね！		
+mev05_100.scr:14	mev05_100.scr	14	アーチェ	Arche Klein	personagem		あたし、専門は魔術だから役に立つわよ		
+mev05_100.scr:15	mev05_100.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		よろしくと挨拶をする		
+mev05_100.scr:16	mev05_100.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		唐突な挨拶に驚く		
+mev05_100.scr:17	mev05_100.scr	17	(mensagem de sistema)	(mensagem de sistema)	sistema		アーチェがアドリビトムに加入しました		
+mev05_110.scr:0	mev05_110.scr	0	ファラ	Farah Oersted	personagem	CRLF x1	赤い煙は、最近じゃ色々な形に見える、って\n言ってたよね？		
+mev05_110.scr:1	mev05_110.scr	1	ファラ	Farah Oersted	personagem		もしかして、実体を持とうとしてる…のかな？		
+mev05_110.scr:2	mev05_110.scr	2	コハク	Kohaku Hearts	personagem		精霊なら、正体を知っていたりするかな		
+mev05_110.scr:3	mev05_110.scr	3	ファラ	Farah Oersted	personagem		精霊って、本当にいるの？		
+mev05_110.scr:4	mev05_110.scr	4	コハク	Kohaku Hearts	personagem		どうかな…		
+mev05_110.scr:5	mev05_110.scr	5	コハク	Kohaku Hearts	personagem	CRLF x1	昔はいたって聞いた事あるけど、\nどこまで本当かわからないよね		
+mev05_110.scr:6	mev05_110.scr	6	クラトス	Kratos Aurion	personagem	CRLF x1	精霊と交流を持つ、\n「ミブナの里」という場所がある		
+mev05_110.scr:7	mev05_110.scr	7	ファラ	Farah Oersted	personagem		どこにあるの？		
+mev05_110.scr:8	mev05_110.scr	8	クラトス	Kratos Aurion	personagem	CRLF x1	行く意志があるのなら、案内する。\n依頼として届けておこう		
+mev05_110.scr:9	mev05_110.scr	9	ロックス	Rocks	personagem	CRLF x1	ミブナの里…、聞いた事があります。\nあそこは妙な昔話があるんです		
+mev05_110.scr:10	mev05_110.scr	10	ロックス	Rocks	personagem	CRLF x1	本が…確か、「異類化生記」だったかな…。\nあの地方に伝わる昔話を集めた本があるんです		
+mev05_110.scr:11	mev05_110.scr	11	ロックス	Rocks	personagem	CRLF x1	人がお化けになったり、\n動物になったりする昔話です		
+mev05_110.scr:12	mev05_110.scr	12	ロックス	Rocks	personagem	CRLF x1	他にも、悪い事をしてカエルにされた\n男の話とか…		
+mev05_110.scr:13	mev05_110.scr	13	ファラ	Farah Oersted	personagem		ロックスも元々ヒトだったりしてね！		
+mev05_110.scr:14	mev05_110.scr	14	ロックス	Rocks	personagem	CRLF x1	えーぇぇぇ…ぇっと。\n何でしょうか、ヤブカラボーに…		
+mev05_110.scr:15	mev05_110.scr	15	ファラ	Farah Oersted	personagem	CRLF x2	ふふ、冗談だよ！\nただ、ロックスってすごく\nヒトみたいだから		
+mev05_110.scr:16	mev05_110.scr	16	ファラ	Farah Oersted	personagem	CRLF x1	わたし達より頭がいいし、色んな事出来るし。\n何だかヒトとの違いを感じないもの		
+mev05_110.scr:17	mev05_110.scr	17	ロックス	Rocks	personagem	CRLF x1	そ、そうですか。\nそれは…、どうも……		
+mev05_110.scr:18	mev05_110.scr	18	ロックス	Rocks	personagem	CRLF x1	ヒトとの違いを感じないっていうのは、\nそうですね、うれしいものですね…		
+mev05_110.scr:19	mev05_110.scr	19	ロックス	Rocks	personagem	CRLF x1	お嬢様のご両親の代わりをして\n生きてきましたが…		
+mev05_110.scr:20	mev05_110.scr	20	ロックス	Rocks	personagem	CRLF x1	僕みたいなのが親代わりなんて、\n恥ずかしいと思ってはいないだろうか…って		
+mev05_110.scr:21	mev05_110.scr	21	ロックス	Rocks	personagem		それはずっと…気になっていましたし		
+mev05_110.scr:22	mev05_110.scr	22	ロックス	Rocks	personagem		ありがとうございます		
+mev05_110.scr:23	mev05_110.scr	23	ロックス	Rocks	personagem	CRLF x2	でも、駄目ですね。\nそう思う僕の方が親代わりとしての\n意識を欠いてますよね…		
+mev05_110.scr:24	mev05_110.scr	24	ロックス	Rocks	personagem		あ、ありがとうございます		
+mev05_110.scr:25	mev05_110.scr	25	ロックス	Rocks	personagem	CRLF x1	そう言ってもらえると、救われます。\n本当に…		
+mev05_110.scr:26	mev05_110.scr	26	ロックス	Rocks	personagem	CRLF x1	いつもいつも、好奇の目で見られました。\n僕が親代わりをしている事に…		
+mev05_110.scr:27	mev05_110.scr	27	ロックス	Rocks	personagem	CRLF x1	お嬢様もその事でからかわれて、\n恥ずかしい思いをしたでしょうに		
+mev05_110.scr:28	mev05_110.scr	28	コハク	Kohaku Hearts	personagem	CRLF x1	ううん。\nロックスはわたし達の家族だよ		
+mev05_110.scr:29	mev05_110.scr	29	ロックス	Rocks	personagem	CRLF x1	はい…。\nありがとうございます！		
+mev05_110.scr:30	mev05_110.scr	30	コハク	Kohaku Hearts	personagem		そういえば、ロックスって何て種族なの？		
+mev05_110.scr:31	mev05_110.scr	31	ロックス	Rocks	personagem		ぅ、えーっと……		
+mev05_110.scr:32	mev05_110.scr	32	ロックス	Rocks	personagem	CRLF x2	ななななな何でしょうね。\nひょっとしたら僕、新種かも…。\nタハハハハ……		
+mev05_110.scr:33	mev05_110.scr	33	(opcao do jogador)	(opcao do jogador)	escolha		ロックスは立派だ、と言う		
+mev05_110.scr:34	mev05_110.scr	34	(opcao do jogador)	(opcao do jogador)	escolha		恥ずかしいなんて思うものか、と言う		
+mev05_120.scr:0	mev05_120.scr	0	キール	Keele Zeibel	personagem		メルディ、何だこの紙は？		
+mev05_120.scr:1	mev05_120.scr	1	メルディ	Meredy	personagem	CRLF x1	それな、街に買い出し行った時もらった。\nキールにあげる		
+mev05_120.scr:2	mev05_120.scr	2	キール	Keele Zeibel	personagem		なになに…、「終末近し」だって？		
+mev05_120.scr:3	mev05_120.scr	3	キール	Keele Zeibel	personagem		「今こそ救世主ディセンダーが降臨する時」		
+mev05_120.scr:4	mev05_120.scr	4	キール	Keele Zeibel	personagem	CRLF x2	「ディセンダーをこの世に迎え、\n　腐敗した世界を共に打ち砕き、\n　輝ける未来を再建しよう」		
+mev05_120.scr:5	mev05_120.scr	5	キール	Keele Zeibel	personagem		「世界再建の要…、暁の従者」		
+mev05_120.scr:6	mev05_120.scr	6	キール	Keele Zeibel	personagem	CRLF x2	最近世間を騒がせている、\nディセンダーの出現を待つ新興宗教の\nチラシだな		
+mev05_120.scr:7	mev05_120.scr	7	キール	Keele Zeibel	personagem	CRLF x1	大体ディセンダーなんて、いるわけがないんだ。\nお前もこんなのに引っかかるんじゃないぞ		
+mev05_120.scr:8	mev05_120.scr	8	メルディ	Meredy	personagem	CRLF x2	バイバ！\nなあキール、\nほんとにディセンダーいるがいいな！		
+mev05_120.scr:9	mev05_120.scr	9	メルディ	Meredy	personagem		世界を救うんだよぅ		
+mev05_120.scr:10	mev05_120.scr	10	キール	Keele Zeibel	personagem	CRLF x2	で、結局こういう奴らは何も出来ずに延々と\n在りもしないディセンダーを待ち続けて、\n何も掴めない人生で終わるんだ		
+mev05_120.scr:11	mev05_120.scr	11	メルディ	Meredy	personagem	CRLF x2	待つだけがダメだな。\nでも、この「暁の従者」信じるが人、\n増えてるよ		
+mev05_120.scr:12	mev05_120.scr	12	メルディ	Meredy	personagem		みんな、自分持つが力、知らないか？		
+mev05_120.scr:13	mev05_120.scr	13	キール	Keele Zeibel	personagem		さあな		
+mev05_120.scr:14	mev05_120.scr	14	キール	Keele Zeibel	personagem	CRLF x2	ただ、本気で何かをした事がなく、\n我が身の不幸を嘆くばかりの奴が\nこういうのに入信してしまうんだ		
+mev05_120.scr:15	mev05_120.scr	15	メルディ	Meredy	personagem	CRLF x2	メルディ、自分何か出来るがわかると、\nすぐそれやろうと思うよ。\nみんな違うか？		

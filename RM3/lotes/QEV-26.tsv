@@ -1,0 +1,82 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev26_010.scr:0	qev26_010.scr	0	メルディ	Meredy	personagem		ジーニアス		
+qev26_010.scr:1	qev26_010.scr	1	メルディ	Meredy	personagem		ジーニアス！		
+qev26_010.scr:2	qev26_010.scr	2	メルディ	Meredy	personagem	CRLF x1	ジーニアスてば！\nもう、何見てるか？		
+qev26_010.scr:3	qev26_010.scr	3	ジーニアス	Genis Sage	personagem	CRLF x1	わぁ、ビックリした！\nもう、おどかさないでよ		
+qev26_010.scr:4	qev26_010.scr	4	メルディ	Meredy	personagem		どして驚くか？		
+qev26_010.scr:5	qev26_010.scr	5	メルディ	Meredy	personagem	CRLF x1	メルディ、何度も\nジーニアス呼んだよ		
+qev26_010.scr:6	qev26_010.scr	6	ジーニアス	Genis Sage	personagem	CRLF x2	え……そ、そうなの？\nごめんね。\n気が付かなかったよ		
+qev26_010.scr:7	qev26_010.scr	7	メルディ	Meredy	personagem	CRLF x2	な、な。\nそれ、何だよ？\nとっても可愛いな∀		
+qev26_010.scr:8	qev26_010.scr	8	ジーニアス	Genis Sage	personagem	CRLF x1	これ？\nこれはね、幸せのお守りなんだ		
+qev26_010.scr:9	qev26_010.scr	9	ジーニアス	Genis Sage	personagem		ボクの……その		
+qev26_010.scr:10	qev26_010.scr	10	ジーニアス	Genis Sage	personagem	CRLF x2	友達が作ってて。\n最近は、大きな街でも\n結構流行ってるんだよ		
+qev26_010.scr:11	qev26_010.scr	11	メルディ	Meredy	personagem	CRLF x1	へぇ、友達すごいな！\nメルディもお守り欲しいよ〜		
+qev26_010.scr:12	qev26_010.scr	12	メルディ	Meredy	personagem	CRLF x1	リッドとファラとキールと……\nみんながおそろいで持つな		
+qev26_010.scr:13	qev26_010.scr	13	メルディ	Meredy	personagem		どすればいいか？		
+qev26_010.scr:14	qev26_010.scr	14	ジーニアス	Genis Sage	personagem		えっ……そ、そうだなぁ		
+qev26_010.scr:15	qev26_010.scr	15	ジーニアス	Genis Sage	personagem	CRLF x1	そんなにたくさん、一度には\n手に入らないと思うし……		
+qev26_010.scr:16	qev26_010.scr	16	ジーニアス	Genis Sage	personagem		……呼んだら、来てくれるかなぁ……		
+qev26_010.scr:17	qev26_010.scr	17	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「キミと一緒に」が\nエントリーされました。\nジーニアスから受ける事が出来ます		
+qev26_020.scr:0	qev26_020.scr	0	ジーニアス	Genis Sage	personagem	CRLF x2	良かった。\n○○が\n手伝ってくれるんだね		
+qev26_020.scr:1	qev26_020.scr	1	ジーニアス	Genis Sage	personagem		心強いよ		
+qev26_020.scr:2	qev26_020.scr	2	(ator 200)	(ator 200)	desconhecido		…………		
+qev26_020.scr:3	qev26_020.scr	3	ジーニアス	Genis Sage	personagem	CRLF x1	待ち合わせ場所までは魔物が出るから、\nしっかり準備してから出発しよう		
+qev26_020.scr:4	qev26_020.scr	4	ジーニアス	Genis Sage	personagem	CRLF x1	久しぶりに会うのに、かっこ悪いところ\n見せられないからね……		
+qev26_020.scr:5	qev26_020.scr	5	(ator 200)	(ator 200)	desconhecido		……？		
+qev26_020.scr:6	qev26_020.scr	6	ジーニアス	Genis Sage	personagem	CRLF x1	あ、ううん。\n何でもないよ		
+qev26_020.scr:7	qev26_020.scr	7	ジーニアス	Genis Sage	personagem		さ、行こう！		
+qev26_030.scr:0	qev26_030.scr	0	ジーニアス	Genis Sage	personagem		よし、着いたね		
+qev26_030.scr:1	qev26_030.scr	1	ジーニアス	Genis Sage	personagem		ここの奥で……会えるんだ		
+qev26_030.scr:2	qev26_030.scr	2	ジーニアス	Genis Sage	personagem		…………		
+qev26_030.scr:3	qev26_030.scr	3	(ator 200)	(ator 200)	desconhecido		…………		
+qev26_030.scr:4	qev26_030.scr	4	ジーニアス	Genis Sage	personagem	CRLF x1	……ご、ごめんね。\n何か、緊張……してきたかも		
+qev26_030.scr:5	qev26_030.scr	5	ジーニアス	Genis Sage	personagem	CRLF x2	ほんとに久しぶりなんだ、会うの……。\nどういう顔で会ったらいいんだろう。\n何て話せば、いいのかなぁ……		
+qev26_030.scr:6	qev26_030.scr	6	ジーニアス	Genis Sage	personagem		……はぁ		
+qev26_040.scr:0	qev26_040.scr	0	ジーニアス	Genis Sage	personagem		久しぶりだね！　元気にしてた？		
+qev26_040.scr:1	qev26_040.scr	1	ジーニアス	Genis Sage	personagem		…………		
+qev26_040.scr:2	qev26_040.scr	2	ジーニアス	Genis Sage	personagem	CRLF x1	しばらく見ない間に……\nまた、キレイになったね		
+qev26_040.scr:3	qev26_040.scr	3	ジーニアス	Genis Sage	personagem	CRLF x1	ダメだ、これじゃどこかの女好きと\n同じになっちゃうよ		
+qev26_040.scr:4	qev26_040.scr	4	(ator 200)	(ator 200)	desconhecido		…………		
+qev26_040.scr:5	qev26_040.scr	5	ジーニアス	Genis Sage	personagem	CRLF x1	どうしたらいいのかなぁ……。\nボクね、プレ……		
+qev26_040.scr:6	qev26_040.scr	6	ジーニアス	Genis Sage	personagem	CRLF x1	あっ……。\nこれから迎えに行く女の子の事だけど		
+qev26_040.scr:7	qev26_040.scr	7	ジーニアス	Genis Sage	personagem	CRLF x1	その子が、たまに見せてくれる\n笑顔が……その、だ、大好きなんだ		
+qev26_040.scr:8	qev26_040.scr	8	(ator 200)	(ator 200)	desconhecido		…………		
+qev26_040.scr:9	qev26_040.scr	9	ジーニアス	Genis Sage	personagem	CRLF x2	もちろん、いつも見せてくれる顔も\nすごく魅力的なんだけど。\nやっぱり……、笑ってる顔を見た時が		
+qev26_040.scr:10	qev26_040.scr	10	ジーニアス	Genis Sage	personagem	CRLF x1	ボクも一番……、\n幸せな気持ちになれるんだ		
+qev26_040.scr:11	qev26_040.scr	11	(ator 200)	(ator 200)	desconhecido		…………		
+qev26_040.scr:12	qev26_040.scr	12	ジーニアス	Genis Sage	personagem	CRLF x1	へ、変だよね。\nいきなりこんな話		
+qev26_040.scr:13	qev26_040.scr	13	ジーニアス	Genis Sage	personagem		ごめん、もう……大丈夫だから		
+qev26_040.scr:14	qev26_040.scr	14	ジーニアス	Genis Sage	personagem		…………		
+qev26_050.scr:0	qev26_050.scr	0	ジーニアス	Genis Sage	personagem		プ、ププププレセア！		
+qev26_050.scr:1	qev26_050.scr	1	プレセア	Presea Combatir	personagem		ジーニアス……		
+qev26_050.scr:2	qev26_050.scr	2	プレセア	Presea Combatir	personagem		久しぶり……ですね		
+qev26_050.scr:3	qev26_050.scr	3	ジーニアス	Genis Sage	personagem	CRLF x1	えっと、その……。\nま……待った？		
+qev26_050.scr:4	qev26_050.scr	4	プレセア	Presea Combatir	personagem	CRLF x1	いいえ……。\n私も来たばかり……です		
+qev26_050.scr:5	qev26_050.scr	5	ジーニアス	Genis Sage	personagem		そ、そっか……良かったぁ		
+qev26_050.scr:6	qev26_050.scr	6	(ator 200)	(ator 200)	desconhecido		…………		
+qev26_050.scr:7	qev26_050.scr	7	プレセア	Presea Combatir	personagem		……変なジーニアス		
+qev26_050.scr:8	qev26_050.scr	8	ジーニアス	Genis Sage	personagem	CRLF x1	（笑った……！\n　か、可愛いよぅ……！）		
+qev26_050.scr:9	qev26_050.scr	9	プレセア	Presea Combatir	personagem	CRLF x1	私のお守り……、アドリビトムでも\n役に立てるのでしょうか……		
+qev26_050.scr:10	qev26_050.scr	10	ジーニアス	Genis Sage	personagem	CRLF x2	も、もちろんさ！\nプレセアがいてくれたら\nもう怖いものなしだよ		
+qev26_050.scr:11	qev26_050.scr	11	ジーニアス	Genis Sage	personagem		プレセアは強いし、可愛いし……		
+qev26_050.scr:12	qev26_050.scr	12	プレセア	Presea Combatir	personagem	CRLF x1	私の力……皆さんに\n気味悪く……思われないでしょうか		
+qev26_050.scr:13	qev26_050.scr	13	(ator 200)	(ator 200)	desconhecido		……？		
+qev26_050.scr:14	qev26_050.scr	14	ジーニアス	Genis Sage	personagem	CRLF x2	どうして？\nプレセアはちょっと人より\n重いものが持てるってだけじゃない		
+qev26_050.scr:15	qev26_050.scr	15	ジーニアス	Genis Sage	personagem	CRLF x1	もし、それを悪く言う奴がいたら\nボクがこらしめてやるから！		
+qev26_050.scr:16	qev26_050.scr	16	ジーニアス	Genis Sage	personagem		だから……い、一緒に……		
+qev26_050.scr:17	qev26_050.scr	17	プレセア	Presea Combatir	personagem		ジーニアス……		
+qev26_050.scr:18	qev26_050.scr	18	プレセア	Presea Combatir	personagem		ありがとう……		
+qev26_050.scr:19	qev26_050.scr	19	(ator 200)	(ator 200)	desconhecido		…………		
+qev26_050.scr:20	qev26_050.scr	20	プレセア	Presea Combatir	personagem	CRLF x2	私は、プレセア・コンバティール……です。\n木こりをしながら、時々\nお守り作りも……しています		
+qev26_050.scr:21	qev26_050.scr	21	プレセア	Presea Combatir	personagem		よろしく……お願いします		
+qev26_060.scr:0	qev26_060.scr	0	プレセア	Presea Combatir	personagem	CRLF x1	早速ですが……、\n工房をお借りしたいのですが		
+qev26_060.scr:1	qev26_060.scr	1	ジーニアス	Genis Sage	personagem		えっ？　こ、工房？		
+qev26_060.scr:2	qev26_060.scr	2	ジーニアス	Genis Sage	personagem	CRLF x2	ああ、お守りを作る場所が\n欲しいって事だよね。\n待ってね、ボクが何とかするから		
+qev26_060.scr:3	qev26_060.scr	3	プレセア	Presea Combatir	personagem		……はい		
+qev26_060.scr:4	qev26_060.scr	4	ジーニアス	Genis Sage	personagem	CRLF x1	○○、\n今日はありがとう		
+qev26_060.scr:5	qev26_060.scr	5	ジーニアス	Genis Sage	personagem	CRLF x1	ボク……、一人じゃ緊張して\n何も話せなかったかも……		
+qev26_060.scr:6	qev26_060.scr	6	ジーニアス	Genis Sage	personagem	CRLF x1	だから、悔しいけど\n……ちょっとだけ助かったよ		
+qev26_060.scr:7	qev26_060.scr	7	(ator 200)	(ator 200)	desconhecido		…………		
+qev26_060.scr:8	qev26_060.scr	8	ジーニアス	Genis Sage	personagem	CRLF x2	○○が困った時は、\n今度はボクが力になるから\n何でも言ってね		
+qev26_060.scr:9	qev26_060.scr	9	ジーニアス	Genis Sage	personagem		それじゃ！		
+qev26_060.scr:10	qev26_060.scr	10	(mensagem de sistema)	(mensagem de sistema)	sistema		プレセアがアドリビトムに加入しました		

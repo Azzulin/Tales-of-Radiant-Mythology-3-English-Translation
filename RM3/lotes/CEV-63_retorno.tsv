@@ -1,0 +1,147 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	traducao
+cev63_010.scr:0	cev63_010.scr	0	ユージーン	Eugene Gallardo	personagem		また会ったな	We meet again.		We meet again.
+cev63_010.scr:1	cev63_010.scr	1	リヒター	Richter Abend	personagem		ああ……	Yeah...		Yeah...
+cev63_010.scr:2	cev63_010.scr	2	リヒター	Richter Abend	personagem		相変わらず、滑らかな布地だな	Smooth fabric, as always.		Smooth fabric, as always.
+cev63_010.scr:3	cev63_010.scr	3	ユージーン	Eugene Gallardo	personagem		そういうリヒターも……	You too, Richter...		You too, Richter...
+cev63_010.scr:4	cev63_010.scr	4	ユージーン	Eugene Gallardo	personagem	CRLF x1	そのメガネの\n磨きぬかれたレンズ……見事だ	Those thoroughly polished lenses\non your glasses... magnificent.		Those thoroughly polished lenses\non your glasses... magnificent.
+cev63_010.scr:5	cev63_010.scr	5	リカルド	Ricardo Soldato	personagem		…………	......		......
+cev63_010.scr:6	cev63_010.scr	6	ユージーン	Eugene Gallardo	personagem	CRLF x1	おい、ちょっと待て。\nお前……	Hey, wait a moment.\nYou...		Hey, wait a moment.\nYou...
+cev63_010.scr:7	cev63_010.scr	7	リヒター	Richter Abend	personagem		……只者ではないな	...You are no ordinary man.		...You are no ordinary man.
+cev63_010.scr:8	cev63_010.scr	8	リカルド	Ricardo Soldato	personagem		……何が言いたい？	...What are you getting at?		...What are you getting at?
+cev63_010.scr:9	cev63_010.scr	9	リヒター	Richter Abend	personagem	CRLF x2	つまらん謙遜はよせ。\n見ればわかる。\nお前のその……	Spare us the pointless humility.\nOne look tells all.\nFrom your...		Spare us the pointless humility.\nOne look tells all.\nFrom your...
+cev63_010.scr:10	cev63_010.scr	10	リヒター	Richter Abend	personagem		コートの質感を見ればな	From the texture of your coat.		From the texture of your coat.
+cev63_010.scr:11	cev63_010.scr	11	リカルド	Ricardo Soldato	personagem	CRLF x1	ふ……。\nこれの良さがわかるのか？	Heh...\nYou can tell its quality?		Heh...\nYou can tell its quality?
+cev63_010.scr:12	cev63_010.scr	12	ユージーン	Eugene Gallardo	personagem		言われずとも、な	Without being told, yes.		Without being told, yes.
+cev63_010.scr:13	cev63_010.scr	13	リカルド	Ricardo Soldato	personagem	CRLF x1	なるほど……どうりでお前達も\nただならぬ貫禄があるわけだ	I see... No wonder the two of you\npossess such extraordinary dignity.		I see... No wonder the two of you\npossess such extraordinary dignity.
+cev63_010.scr:14	cev63_010.scr	14	リカルド	Ricardo Soldato	personagem		……面白い	...Fascinating.		...Fascinating.
+cev63_010.scr:15	cev63_010.scr	15	リヒター	Richter Abend	personagem		…………	......		......
+cev63_010.scr:16	cev63_010.scr	16	ユージーン	Eugene Gallardo	personagem		…………	......		......
+cev63_010.scr:17	cev63_010.scr	17	リカルド	Ricardo Soldato	personagem		…………	......		......
+cev63_020.scr:0	cev63_020.scr	0	リカルド	Ricardo Soldato	personagem	CRLF x1	お前の生徒はくせ者ばかりだな。\n苦労をするだろう	Your students are quite a handful.\nIt must be tough on you.		Your students are quite a handful.\nIt must be tough on you.
+cev63_020.scr:1	cev63_020.scr	1	リフィル	Raine Sage	personagem	CRLF x1	ええ、そうね……。\nだからこそ、やりがいもあるのだけれど	Yes, indeed...\nThough that's what makes it rewarding.		Yes, indeed...\nThough that's what makes it rewarding.
+cev63_020.scr:2	cev63_020.scr	2	リカルド	Ricardo Soldato	personagem	CRLF x1	なぜそうまで入れ込む？\nあきらめれば全てそこで片が付くだろう	Why invest yourself so deeply?\nGive up, and that would be the end of it.		Why invest yourself so deeply?\nGive up, and that would be the end of it.
+cev63_020.scr:3	cev63_020.scr	3	リフィル	Raine Sage	personagem	CRLF x2	教師というのは、そういうものなのよ。\nいえ、そういう存在であるべきと\n言ってもいいかもしれないわね	That is what a teacher does.\nOr rather, that may be what\na teacher ought to be.		That is what a teacher does.\nOr rather, that may be what\na teacher ought to be.
+cev63_020.scr:4	cev63_020.scr	4	リカルド	Ricardo Soldato	personagem		フン、随分と損な仕事だ	Hmph. Quite a thankless job.		Hmph. Quite a thankless job.
+cev63_020.scr:5	cev63_020.scr	5	リフィル	Raine Sage	personagem		そうかしら？	Do you think so?		Do you think so?
+cev63_020.scr:6	cev63_020.scr	6	リカルド	Ricardo Soldato	personagem	CRLF x2	そうだろう。\n少なくとも戦場では\n弱い者が一番初めに淘汰される	Naturally.\nOn the battlefield at least,\nthe weak are the first to be culled.		Naturally.\nOn the battlefield at least,\nthe weak are the first to be culled.
+cev63_020.scr:7	cev63_020.scr	7	リフィル	Raine Sage	personagem	CRLF x1	確かに、弱い人間を育てずに、\n放っておくという事も出来るでしょうね	True, one could choose not to teach\nthe weak and simply leave them behind.		True, one could choose not to teach\nthe weak and simply leave them behind.
+cev63_020.scr:8	cev63_020.scr	8	リフィル	Raine Sage	personagem	CRLF x1	でも、それでは遠からず\n社会も、そして世界も死んでいくわ	But doing that would before long\ncause society and the world to perish.		But doing that would before long\ncause society and the world to perish.
+cev63_020.scr:9	cev63_020.scr	9	リカルド	Ricardo Soldato	personagem		ほう？	Oh?		Oh?
+cev63_020.scr:10	cev63_020.scr	10	リフィル	Raine Sage	personagem	CRLF x2	ここは戦場ではないの。\n基準から漏れた者を弾けばいいというのは\nただ都合の悪い存在を間引いているだけ	This is not a battlefield.\nDiscarding those who fall below standard\nis merely weeding out the inconvenient.		This is not a battlefield.\nDiscarding those who fall below standard\nis merely weeding out the inconvenient.
+cev63_020.scr:11	cev63_020.scr	11	リフィル	Raine Sage	personagem	CRLF x1	教育とは全く主旨の異なる考えだわ。\n教師の仕事は、人を育てる事	That is completely contrary to education.\nA teacher's job is to nurture people.		That is completely contrary to education.\nA teacher's job is to nurture people.
+cev63_020.scr:12	cev63_020.scr	12	リフィル	Raine Sage	personagem		だから生徒にも真正面から向き合うの	That is why I face my students head-on.		That is why I face my students head-on.
+cev63_020.scr:13	cev63_020.scr	13	リカルド	Ricardo Soldato	personagem		育てる事と間引く事……か	Nurturing and weeding out, huh...		Nurturing and weeding out, huh...
+cev63_020.scr:14	cev63_020.scr	14	リカルド	Ricardo Soldato	personagem		フン……やはり教師など損な仕事だ	Hmph... Teachers have a thankless job.		Hmph... Teachers have a thankless job.
+cev63_020.scr:15	cev63_020.scr	15	リフィル	Raine Sage	personagem	CRLF x2	そうかもしれないわね。\nでも、あなたも存外\n同じ性分なのではなくて？	Perhaps so.\nYet aren't you unexpectedly\ncut from the same cloth?		Perhaps so.\nYet aren't you unexpectedly\ncut from the same cloth?
+cev63_020.scr:16	cev63_020.scr	16	リカルド	Ricardo Soldato	personagem	CRLF x1	さあ。　\n知らんな	Who knows.\nI wouldn't know.		Who knows.\nI wouldn't know.
+cev63_030.scr:0	cev63_030.scr	0	コハク	Kohaku Hearts	personagem		きゃああ！！	Kyaaaah!!		Kyaaaah!!
+cev63_030.scr:1	cev63_030.scr	1	リカルド	Ricardo Soldato	personagem		うおおおお！？	Whooooaa?!		Whooooaa?!
+cev63_030.scr:2	cev63_030.scr	2	リカルド	Ricardo Soldato	personagem	CRLF x1	突風だと……くそっ。\nこんな時に……！	A sudden gust... Damn it!\nAt a time like this...!		A sudden gust... Damn it!\nAt a time like this...!
+cev63_030.scr:3	cev63_030.scr	3	リカルド	Ricardo Soldato	personagem		大丈夫か、ハーツ？	Are you alright, Hearts?		Are you alright, Hearts?
+cev63_030.scr:4	cev63_030.scr	4	コハク	Kohaku Hearts	personagem	CRLF x1	え……ええ。\n私は大丈夫	Y-Yeah...\nI'm all right.		Y-Yeah...\nI'm all right.
+cev63_030.scr:5	cev63_030.scr	5	コハク	Kohaku Hearts	personagem	CRLF x1	でも……、\n下が、見えちゃった……	B-But...\nI ended up looking down...		B-But...\nI ended up looking down...
+cev63_030.scr:6	cev63_030.scr	6	コハク	Kohaku Hearts	personagem	CRLF x2	すごく……、\n高い所を飛んでるんですね……。\nこの船……	This ship is...\nflying really high up, isn't it...?\nWay up in the sky...		This ship is...\nflying really high up, isn't it...?\nWay up in the sky...
+cev63_030.scr:7	cev63_030.scr	7	リカルド	Ricardo Soldato	personagem	CRLF x1	馬鹿、高いとか言うな！\n余計、高度を意識するだろうが！？	"Idiot, don't say ""high""!\nYou're just making me notice the height!"		"Idiot, don't say ""high""!\nYou're just making me notice the height!"
+cev63_030.scr:8	cev63_030.scr	8	コハク	Kohaku Hearts	personagem		そんな事言ったって……！	Even if you say that...!		Even if you say that...!
+cev63_030.scr:9	cev63_030.scr	9	リカルド	Ricardo Soldato	personagem	CRLF x1	くそっ、だから甲板掃除など\n嫌だったのだ……！	Damn it, this is why I hated\ndeck cleaning duty...!		Damn it, this is why I hated\ndeck cleaning duty...!
+cev63_030.scr:10	cev63_030.scr	10	コハク	Kohaku Hearts	personagem	CRLF x1	リカルドさん……もしかして\n足、震えてます？	Ricardo... Could your legs\nbe shaking?		Ricardo... Could your legs\nbe shaking?
+cev63_030.scr:11	cev63_030.scr	11	リカルド	Ricardo Soldato	personagem	CRLF x2	違う！　\nこれは……そう……、\n武者震いだ！！	They're not!\nThis is... yes...\ntrembling with battle excitement!!		They're not!\nThis is... yes...\ntrembling with battle excitement!!
+cev63_030.scr:12	cev63_030.scr	12	コハク	Kohaku Hearts	personagem		何に……？	Excitement for what...?		Excitement for what...?
+cev63_030.scr:13	cev63_030.scr	13	リカルド	Ricardo Soldato	personagem		…………	......		......
+cev63_030.scr:14	cev63_030.scr	14	コハク	Kohaku Hearts	personagem		…………	......		......
+cev63_040.scr:0	cev63_040.scr	0	ミント	Mint Adenade	personagem		とてもいいお天気ですね……	The weather is truly lovely...		The weather is truly lovely...
+cev63_040.scr:1	cev63_040.scr	1	リアラ	Reala	personagem	CRLF x2	本当ね……。\nこの世界のどこかで、今も戦いが\n起きてるなんて、嘘みたい……	It really is...\nTo think fighting is still happening\nsomewhere in this world feels unreal...		It really is...\nTo think fighting is still happening\nsomewhere in this world feels unreal...
+cev63_040.scr:2	cev63_040.scr	2	リカルド	Ricardo Soldato	personagem	CRLF x2	フン。\n戦いのない世界など\nまやかしに過ぎん	Hmph.\nA world without conflict\nis nothing but an illusion.		Hmph.\nA world without conflict\nis nothing but an illusion.
+cev63_040.scr:3	cev63_040.scr	3	リカルド	Ricardo Soldato	personagem	CRLF x1	ヒトは、相争う。\nそういう業を背負っている	Humans fight each other.\nIt is the karma we bear.		Humans fight each other.\nIt is the karma we bear.
+cev63_040.scr:4	cev63_040.scr	4	リカルド	Ricardo Soldato	personagem		だからこそ、俺の様な仕事がある	That is why jobs like mine exist.		That is why jobs like mine exist.
+cev63_040.scr:5	cev63_040.scr	5	ミント	Mint Adenade	personagem		そうかもしれません……	That may be true...		That may be true...
+cev63_040.scr:6	cev63_040.scr	6	ミント	Mint Adenade	personagem	CRLF x2	ですが、そんな理由で\n今日のお天気を楽しまないなんて\nもったいないと思います	Still, I think it is such a waste\nto let that keep you from enjoying\ntoday's lovely weather.		Still, I think it is such a waste\nto let that keep you from enjoying\ntoday's lovely weather.
+cev63_040.scr:7	cev63_040.scr	7	リアラ	Reala	personagem	CRLF x2	そうですよ、リカルドさん。\nほら、見て下さい。\n窓の外の景色	She's right, Ricardo.\nCome on, take a look\nat the view outside the window.		She's right, Ricardo.\nCome on, take a look\nat the view outside the window.
+cev63_040.scr:8	cev63_040.scr	8	リアラ	Reala	personagem	CRLF x1	雲に、お日様の光が反射して……\nとっても綺麗なんですよ	The sunlight shines off the clouds...\nIt's truly breathtaking.		The sunlight shines off the clouds...\nIt's truly breathtaking.
+cev63_040.scr:9	cev63_040.scr	9	リカルド	Ricardo Soldato	personagem		いや……俺はいい	No... I'll pass.		No... I'll pass.
+cev63_040.scr:10	cev63_040.scr	10	ミント	Mint Adenade	personagem	CRLF x1	そうおっしゃらずに、少しだけ\n一緒にこの景色を眺めませんか？	Don't say that. Won't you look\nat the view with us, just for a bit?		Don't say that. Won't you look\nat the view with us, just for a bit?
+cev63_040.scr:11	cev63_040.scr	11	ミント	Mint Adenade	personagem	CRLF x1	あなたの心にも……この陽射しの様に\nあたたかい光が差し込むかもしれません	A warm light might shine into your heart,\njust like these sunbeams.		A warm light might shine into your heart,\njust like these sunbeams.
+cev63_040.scr:12	cev63_040.scr	12	リカルド	Ricardo Soldato	personagem	CRLF x1	俺はそんな事を望んじゃいない。\n大体……	I didn't ask for anything like that.\nBesides...		I didn't ask for anything like that.\nBesides...
+cev63_040.scr:13	cev63_040.scr	13	リアラ	Reala	personagem	CRLF x1	ほら、あの雲！\nお魚みたいですよ、リカルドさん	Look at that cloud!\nIt looks just like a fish, Ricardo!		Look at that cloud!\nIt looks just like a fish, Ricardo!
+cev63_040.scr:14	cev63_040.scr	14	ミント	Mint Adenade	personagem	CRLF x1	ほんの少しでいいんです。\nお願いします	Just for a little while is enough.\nPlease?		Just for a little while is enough.\nPlease?
+cev63_040.scr:15	cev63_040.scr	15	リカルド	Ricardo Soldato	personagem	CRLF x1	き……急用を思い出した。\nその話はまた今度だ	I... I just remembered urgent business.\nWe'll talk some other time!		I... I just remembered urgent business.\nWe'll talk some other time!
+cev63_040.scr:16	cev63_040.scr	16	リアラ	Reala	personagem		あっ……	Ah...		Ah...
+cev63_040.scr:17	cev63_040.scr	17	ミント	Mint Adenade	personagem		リカルドさん？	Ricardo?		Ricardo?
+cev63_050.scr:0	cev63_050.scr	0	アニス	Anise Tatlin	personagem	CRLF x1	ジューダスって〜、\nいつもその仮面付けてるよねえ	Judas, you always wear\nthat mask, don't you~?		Judas, you always wear\nthat mask, don't you~?
+cev63_050.scr:1	cev63_050.scr	1	アニス	Anise Tatlin	personagem		外したりしないの？	Don't you ever take it off?		Don't you ever take it off?
+cev63_050.scr:2	cev63_050.scr	2	ジューダス	Judas	personagem		外す必要がないからな	Because there is no need to remove it.		Because there is no need to remove it.
+cev63_050.scr:3	cev63_050.scr	3	アニス	Anise Tatlin	personagem		ふーん……	Hmm...		Hmm...
+cev63_050.scr:4	cev63_050.scr	4	アニス	Anise Tatlin	personagem	CRLF x1	ねえ、リカルドってさ〜。\n何気に髪、結構長いよね〜？	Hey, Ricardo~.\nYour hair is actually pretty long, huh~?		Hey, Ricardo~.\nYour hair is actually pretty long, huh~?
+cev63_050.scr:5	cev63_050.scr	5	アニス	Anise Tatlin	personagem		切ったりしないの？	Don't you ever cut it?		Don't you ever cut it?
+cev63_050.scr:6	cev63_050.scr	6	リカルド	Ricardo Soldato	personagem		切る意味がないからな	Because there is no point in cutting it.		Because there is no point in cutting it.
+cev63_050.scr:7	cev63_050.scr	7	アニス	Anise Tatlin	personagem		ふ〜ん……	Hmm~...		Hmm~...
+cev63_050.scr:8	cev63_050.scr	8	アニス	Anise Tatlin	personagem	CRLF x1	って、ちょっと……。\n何、この空気の重さ！	Wait a second...\nWhy is the mood so heavy?!		Wait a second...\nWhy is the mood so heavy?!
+cev63_050.scr:9	cev63_050.scr	9	アニス	Anise Tatlin	personagem	CRLF x1	ぶ〜……。\n何で、この二人と留守番なのぉ〜……	Boo~... Why am I stuck watching\nthe ship with these two~...?		Boo~... Why am I stuck watching\nthe ship with these two~...?
+cev63_060.scr:0	cev63_060.scr	0	リアラ	Reala	personagem	CRLF x1	リカルドさんのお顔の傷って……\nどうされたんですか？	The scar on your face, Ricardo...\nHow did you get it?		The scar on your face, Ricardo...\nHow did you get it?
+cev63_060.scr:1	cev63_060.scr	1	リカルド	Ricardo Soldato	personagem		つまらん事は気にしなくていい	No need to fret over trivial things.		No need to fret over trivial things.
+cev63_060.scr:2	cev63_060.scr	2	リアラ	Reala	personagem		す、すみません……	I-I'm so sorry......		I-I'm so sorry......
+cev63_060.scr:3	cev63_060.scr	3	リカルド	Ricardo Soldato	personagem	CRLF x1	人には誰しも、\n触れられたくない過去がある	Everyone has a past\nthey'd rather not have brought up.		Everyone has a past\nthey'd rather not have brought up.
+cev63_060.scr:4	cev63_060.scr	4	リカルド	Ricardo Soldato	personagem	CRLF x2	……安易な思い付きで\n軽々しく他人の傷に触れるのは\nやめておく事だ	...You would do well to stop\ncasually prying into others' wounds\non a thoughtless whim.		...You would do well to stop\ncasually prying into others' wounds\non a thoughtless whim.
+cev63_060.scr:5	cev63_060.scr	5	リアラ	Reala	personagem	CRLF x1	そうですね。\n……気を付けます	You're right.\n...I'll be more careful.		You're right.\n...I'll be more careful.
+cev63_060.scr:6	cev63_060.scr	6	ジューダス	Judas	personagem	CRLF x1	どうした。\n……何か揉めている様だったが	What happened?\n...It sounded like you were arguing.		What happened?\n...It sounded like you were arguing.
+cev63_060.scr:7	cev63_060.scr	7	リアラ	Reala	personagem	CRLF x2	そうよね……。\nどんなに目に付くものでも、\n触れられたくないものって、あるのよね	It's true, isn't it...\nNo matter how noticeable something is,\nsome things shouldn't be touched upon.		It's true, isn't it...\nNo matter how noticeable something is,\nsome things shouldn't be touched upon.
+cev63_060.scr:8	cev63_060.scr	8	ジューダス	Judas	personagem	CRLF x2	……おい。\nなぜそんな目で仮面を見る。\n僕に喧嘩を売っているのか？	...Hey.\nWhy are you looking at my mask like that?\nAre you picking a fight with me?		...Hey.\nWhy are you looking at my mask like that?\nAre you picking a fight with me?
+cev63_070.scr:0	cev63_070.scr	0	リカルド	Ricardo Soldato	personagem	CRLF x1	しかし、ここは本当に\nどこを見てもガキだらけだな……	Still, everywhere you look here,\nit really is nothing but brats...		Still, everywhere you look here,\nit really is nothing but brats...
+cev63_070.scr:1	cev63_070.scr	1	リカルド	Ricardo Soldato	personagem	CRLF x1	こんな状態で、よくギルドを\n運営しようという気になったものだ	How anyone expected to run a guild\nunder these conditions is beyond me.		How anyone expected to run a guild\nunder these conditions is beyond me.
+cev63_070.scr:2	cev63_070.scr	2	コングマン	Kongman	personagem	CRLF x1	そうは言うが、ここにいるのは\nただのガキどもじゃねえ	You say that, but the ones here\nain't just ordinary brats.		You say that, but the ones here\nain't just ordinary brats.
+cev63_070.scr:3	cev63_070.scr	3	コングマン	Kongman	personagem	CRLF x1	己の信念や目的を持った\nワケ有りの奴らばかりよ	They're all people with a past,\neach with their own beliefs and goals.		They're all people with a past,\neach with their own beliefs and goals.
+cev63_070.scr:4	cev63_070.scr	4	リカルド	Ricardo Soldato	personagem	CRLF x2	……その様だな。\nガキはガキらしくしていれば\nいいものを……	...So it seems.\nIf only brats would just act\nlike brats, though...		...So it seems.\nIf only brats would just act\nlike brats, though...
+cev63_070.scr:5	cev63_070.scr	5	コングマン	Kongman	personagem		おめぇの言いたい事もわかるんだがよ	I get what you're trying to say, but...		I get what you're trying to say, but...
+cev63_070.scr:6	cev63_070.scr	6	コングマン	Kongman	personagem	CRLF x2	あいつらは見てるだけじゃなく\n自分の手で、望んだ未来を\n勝ち取りたいと願ってんだ	They don't just want to watch--\nthey want to seize the future they desire\nwith their own two hands.		They don't just want to watch--\nthey want to seize the future they desire\nwith their own two hands.
+cev63_070.scr:7	cev63_070.scr	7	コングマン	Kongman	personagem	CRLF x1	その思いの強さに、\n「ガキ」も「強さ」も関係ねえってこった	"With resolve like that, being a ""kid""\nor being ""strong"" doesn't even matter!"		"With resolve like that, being a ""kid""\nor being ""strong"" doesn't even matter!"
+cev63_070.scr:8	cev63_070.scr	8	リカルド	Ricardo Soldato	personagem	CRLF x2	ふん……。\nそれだけ俺達「大人」が\n頼りにされなくなった、という事か	"Hmph...\nDoes that mean we ""adults"" are simply\nno longer relied upon?"		"Hmph...\nDoes that mean we ""adults"" are simply\nno longer relied upon?"
+cev63_070.scr:9	cev63_070.scr	9	コングマン	Kongman	personagem	CRLF x1	そうでもねえだろ。\n俺達は俺達で、出来る事がある	That ain't true at all.\nWe've got things we can do our own way.		That ain't true at all.\nWe've got things we can do our own way.
+cev63_070.scr:10	cev63_070.scr	10	コングマン	Kongman	personagem		俺達にしかやれねえ事も、きっとな	Things that only we can do, for sure.		Things that only we can do, for sure.
+cev63_070.scr:11	cev63_070.scr	11	リカルド	Ricardo Soldato	personagem		ふっ……そうだな	Heh... Fair enough.		Heh... Fair enough.
+cev63_070.scr:12	cev63_070.scr	12	リカルド	Ricardo Soldato	personagem	CRLF x2	やれやれ。　どうあっても\nガキのお守りをする事になる、か。\n……大人の仕事は山積みだな	Good grief. In the end, we still\nhave to babysit the brats, huh?\n...Adults have a mountain of work.		Good grief. In the end, we still\nhave to babysit the brats, huh?\n...Adults have a mountain of work.
+cev63_080.scr:0	cev63_080.scr	0	リカルド	Ricardo Soldato	personagem	CRLF x1	お前は闘技場で、\n見世物の戦いをしていたそうだな	I heard you used to fight\nexhibition matches in the arena.		I heard you used to fight\nexhibition matches in the arena.
+cev63_080.scr:1	cev63_080.scr	1	コングマン	Kongman	personagem	CRLF x1	あぁ！？\n俺様の戦いは見世物なんかじゃねえぞ！！	Say what?! My fights\nain't no mere exhibition!!		Say what?! My fights\nain't no mere exhibition!!
+cev63_080.scr:2	cev63_080.scr	2	リカルド	Ricardo Soldato	personagem	CRLF x1	だが、本物の戦場ではない。\n見世物でなくて何なのだ	Yet it was not a true battlefield.\nIf not a show, what else was it?		Yet it was not a true battlefield.\nIf not a show, what else was it?
+cev63_080.scr:3	cev63_080.scr	3	コングマン	Kongman	personagem	CRLF x2	いいか、よぅく聞け。\n俺様の仕事はな、\n戦いで観客に、夢を見せる事なのよ	Listen up, and listen good.\nMy job is to give the crowd dreams\nthrough the way I fight!		Listen up, and listen good.\nMy job is to give the crowd dreams\nthrough the way I fight!
+cev63_080.scr:4	cev63_080.scr	4	コングマン	Kongman	personagem	CRLF x1	強くなれば、敵に勝てる。\n強くなれば、明日が勝ちとれる	If you get stronger, you beat the enemy.\nIf you get stronger, you win tomorrow!		If you get stronger, you beat the enemy.\nIf you get stronger, you win tomorrow!
+cev63_080.scr:5	cev63_080.scr	5	コングマン	Kongman	personagem	CRLF x2	そんな風に、見ている奴らを\n奮い立たせるのは、チャンピオンである\n俺様にしか出来ない事よ	Inspiring the folks watching like that\nis something only the Champion--\nyours truly--can do!		Inspiring the folks watching like that\nis something only the Champion--\nyours truly--can do!
+cev63_080.scr:6	cev63_080.scr	6	リカルド	Ricardo Soldato	personagem	CRLF x1	ほう……夢、か。\nなるほどな……	Ho... Dreams, is it?\nI see...		Ho... Dreams, is it?\nI see...
+cev63_080.scr:7	cev63_080.scr	7	リカルド	Ricardo Soldato	personagem	CRLF x1	戦う理由が、千差万別である様に\n戦場にも、様々な主旨があるという事か	Just as reasons to fight differ,\nbattlefields have diverse purposes too.		Just as reasons to fight differ,\nbattlefields have diverse purposes too.
+cev63_080.scr:8	cev63_080.scr	8	コングマン	Kongman	personagem		おうよ！	Hell yeah!		Hell yeah!
+cev63_080.scr:9	cev63_080.scr	9	コングマン	Kongman	personagem	CRLF x2	だからこそ、俺様は\nこれからも無敵のチャンピオンで\nあり続けなきゃなんねえんだ！	And that's why yours truly\nhas gotta keep on being\nthe invincible champion!		And that's why yours truly\nhas gotta keep on being\nthe invincible champion!
+cev63_200.scr:0	cev63_200.scr	0	リカルド	Ricardo Soldato	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev63_200.scr:1	cev63_200.scr	1	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:2	cev63_200.scr	2	リカルド	Ricardo Soldato	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev63_200.scr:3	cev63_200.scr	3	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:4	cev63_200.scr	4	リカルド	Ricardo Soldato	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev63_200.scr:5	cev63_200.scr	5	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:6	cev63_200.scr	6	リカルド	Ricardo Soldato	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev63_200.scr:7	cev63_200.scr	7	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:8	cev63_200.scr	8	リカルド	Ricardo Soldato	personagem	CRLF x1	不機嫌。\n	Displeased.\n		Displeased.\n
+cev63_200.scr:9	cev63_200.scr	9	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:10	cev63_200.scr	10	リカルド	Ricardo Soldato	personagem	CRLF x1	照れ。\n	Blushing.\n		Blushing.\n
+cev63_200.scr:11	cev63_200.scr	11	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:12	cev63_200.scr	12	リカルド	Ricardo Soldato	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev63_200.scr:13	cev63_200.scr	13	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:14	cev63_200.scr	14	リカルド	Ricardo Soldato	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev63_200.scr:15	cev63_200.scr	15	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:16	cev63_200.scr	16	リカルド	Ricardo Soldato	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev63_200.scr:17	cev63_200.scr	17	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:18	cev63_200.scr	18	リカルド	Ricardo Soldato	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev63_200.scr:19	cev63_200.scr	19	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:20	cev63_200.scr	20	リカルド	Ricardo Soldato	personagem	CRLF x1	不機嫌。\n	Displeased.\n		Displeased.\n
+cev63_200.scr:21	cev63_200.scr	21	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:22	cev63_200.scr	22	リカルド	Ricardo Soldato	personagem	CRLF x1	照れ。\n	Blushing.\n		Blushing.\n
+cev63_200.scr:23	cev63_200.scr	23	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:24	cev63_200.scr	24	リカルド	Ricardo Soldato	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev63_200.scr:25	cev63_200.scr	25	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:26	cev63_200.scr	26	リカルド	Ricardo Soldato	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev63_200.scr:27	cev63_200.scr	27	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:28	cev63_200.scr	28	リカルド	Ricardo Soldato	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev63_200.scr:29	cev63_200.scr	29	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:30	cev63_200.scr	30	リカルド	Ricardo Soldato	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev63_200.scr:31	cev63_200.scr	31	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:32	cev63_200.scr	32	リカルド	Ricardo Soldato	personagem	CRLF x1	不機嫌。\n	Displeased.\n		Displeased.\n
+cev63_200.scr:33	cev63_200.scr	33	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev63_200.scr:34	cev63_200.scr	34	リカルド	Ricardo Soldato	personagem	CRLF x1	照れ。\n	Blushing.\n		Blushing.\n
+cev63_200.scr:35	cev63_200.scr	35	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.

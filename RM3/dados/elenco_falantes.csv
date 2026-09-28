@@ -1,0 +1,115 @@
+ator_id,indice0,nome_jp,nome_en,fonte_nome,jogo_de_origem,fonte_jogo,nota
+1,0,クレス,Cress Albane,rm2,Phantasia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 (nome) + sobrenome oficial
+2,1,ミント,Mint Adenade,rm2,Phantasia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+3,2,チェスター,Chester Barklight,rm2,Phantasia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+4,3,アーチェ,Arche Klein,rm2,Phantasia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+5,4,すず,Suzu Fujibayashi,rm2,Phantasia,"conhecimento da serie Tales, NAO da ROM",
+6,5,スタン,Stahn Aileron,rm2,Destiny,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+7,6,ルーティ,Rutee Katrea,rm2,Destiny,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+8,7,フィリア,Philia Felice,rm2,Destiny,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+9,8,リオン,Leon Magnus,rm2,Destiny,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+10,9,ウッドロウ,Woodrow Kelvin,rm2,Destiny,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+11,10,チェルシー,Chelsea Torn,elenco_rm3,Destiny,"conhecimento da serie Tales, NAO da ROM",proposta — Legendia
+12,11,コングマン,Kongman,rm2,Destiny,"conhecimento da serie Tales, NAO da ROM",nome nao confirmado no RM2
+13,12,リリス,Lilith Aileron,rm2,Destiny,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+14,13,カイル,Kyle Dunamis,rm2,Destiny 2,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+15,14,リアラ,Reala,rm2,Destiny 2,"conhecimento da serie Tales, NAO da ROM",termbase RM2
+16,15,ロニ,Loni Dunamis,rm2,Destiny 2,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+17,16,ジューダス,Judas,rm2,Destiny 2,"conhecimento da serie Tales, NAO da ROM",termbase RM2
+18,17,ナナリー,Nanaly Fletch,rm2,Destiny 2,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+19,18,ハロルド,Harold Berselius,rm2,Destiny 2,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+20,19,リッド,Reid Hershel,rm2,Eternia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+21,20,ファラ,Farah Oersted,rm2,Eternia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+22,21,キール,Keele Zeibel,rm2,Eternia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+23,22,メルディ,Meredy,rm2,Eternia,"conhecimento da serie Tales, NAO da ROM",termbase RM2
+24,23,チャット,Chat,rm2,Eternia,"conhecimento da serie Tales, NAO da ROM",termbase RM2
+25,24,セルシウス,Celsius,rm2,Eternia,"conhecimento da serie Tales, NAO da ROM",termbase RM2
+26,25,ロイド,Lloyd Irving,rm2,Symphonia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+27,26,コレット,Colette Brunel,rm2,Symphonia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+28,27,ジーニアス,Genis Sage,rm2,Symphonia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+29,28,リフィル,Raine Sage,rm2,Symphonia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 — CASO CANONICO: id interno diz refill
+30,29,クラトス,Kratos Aurion,rm2,Symphonia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+31,30,しいな,Sheena Fujibayashi,rm2,Symphonia,"conhecimento da serie Tales, NAO da ROM",
+32,31,ゼロス,Zelos Wilder,rm2,Symphonia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+33,32,プレセア,Presea Combatir,rm2,Symphonia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+34,33,エミル,Emil Castagnier,elenco_rm3,Symphonia DotNW,"conhecimento da serie Tales, NAO da ROM",proposta — Symphonia DotNW
+35,34,マルタ,Marta Lualdi,elenco_rm3,Symphonia DotNW,"conhecimento da serie Tales, NAO da ROM",proposta — Symphonia DotNW
+36,35,リヒター,Richter Abend,elenco_rm3,Symphonia DotNW,"conhecimento da serie Tales, NAO da ROM",proposta — Symphonia DotNW
+37,36,ヴェイグ,Veigue Lungberg,rm2,Rebirth,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+38,37,クレア,Claire Bennett,rm2,Rebirth,"conhecimento da serie Tales, NAO da ROM",termbase RM2 (Claire) + sobrenome oficial
+39,38,ユージーン,Eugene Gallardo,rm2,Rebirth,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+40,39,マオ,Mao,rm2,Rebirth,"conhecimento da serie Tales, NAO da ROM",termbase RM2
+41,40,ティトレイ,Tytree Crowe,elenco_rm3,Rebirth,"conhecimento da serie Tales, NAO da ROM",proposta — Rebirth
+42,41,アニー,Annie Barrs,rm2,Rebirth,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+43,42,セネル,Senel Coolidge,rm2,Legendia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+44,43,シャーリィ,Shirley Fennes,elenco_rm3,Legendia,"conhecimento da serie Tales, NAO da ROM",proposta — Legendia
+45,44,ウィル,Will Raynard,elenco_rm3,Legendia,"conhecimento da serie Tales, NAO da ROM",proposta — Legendia
+46,45,クロエ,Chloe Valens,rm2,Legendia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+47,46,ノーマ,Norma Beatty,elenco_rm3,Legendia,"conhecimento da serie Tales, NAO da ROM",proposta — Legendia
+48,47,ジェイ,Jay,elenco_rm3,Legendia,"conhecimento da serie Tales, NAO da ROM",proposta — Innocence
+49,48,ルーク,Luke fon Fabre,rm2,Abyss,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + nome oficial completo
+50,49,ティア,Tear Grants,rm2,Abyss,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+51,50,ガイ,Guy Cecil,rm2,Abyss,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+52,51,ジェイド,Jade Curtiss,rm2,Abyss,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+53,52,アニス,Anise Tatlin,rm2,Abyss,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+54,53,ナタリア,Natalia Luzu Kimlasca-Lanvaldear,elenco_rm3,Abyss,"conhecimento da serie Tales, NAO da ROM","proposta — Abyss, nome oficial completo"
+55,54,アッシュ,Asch,rm2,Abyss,"conhecimento da serie Tales, NAO da ROM",termbase RM2
+56,55,ヴァン,Van Grants,elenco_rm3,Abyss,"conhecimento da serie Tales, NAO da ROM",proposta — Abyss
+57,56,カイウス,Caius Qualls,rm2,Innocence,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+58,57,ルビア,Rubia Natwick,rm2,Innocence,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+59,58,ルカ,Ruca Milda,rm2,Innocence,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+60,59,イリア,Iria Animi,rm2,Innocence,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+61,60,スパーダ,Spada Belforma,rm2,Innocence,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+62,61,アンジュ,Ange Serena,elenco_rm3,Radiant Mythology 2,"conhecimento da serie Tales, NAO da ROM",proposta — original do RM3
+63,62,リカルド,Ricardo Soldato,elenco_rm3,Radiant Mythology 2,"conhecimento da serie Tales, NAO da ROM",proposta — Innocence
+64,63,ユーリ,Yuri Lowell,rm2,Vesperia,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+65,64,エステル,Estelle,rm2,Vesperia,"conhecimento da serie Tales, NAO da ROM",apelido de Estellise Sidos Heurassein
+66,65,ジュディス,Judith,elenco_rm3,Vesperia,"conhecimento da serie Tales, NAO da ROM",proposta — Vesperia
+67,66,リタ,Rita Mordio,elenco_rm3,Vesperia,"conhecimento da serie Tales, NAO da ROM",proposta — Vesperia
+68,67,レイヴン,Raven,elenco_rm3,Vesperia,"conhecimento da serie Tales, NAO da ROM",proposta — Vesperia
+69,68,フレン,Flynn Scifo,elenco_rm3,Vesperia,"conhecimento da serie Tales, NAO da ROM",proposta — Vesperia
+70,69,シング,Shing Meteoryte,elenco_rm3,Hearts,"conhecimento da serie Tales, NAO da ROM",proposta — Hearts
+71,70,コハク,Kohaku Hearts,elenco_rm3,Hearts,"conhecimento da serie Tales, NAO da ROM",proposta — Hearts
+72,71,ヒスイ,Hisui Hearts,elenco_rm3,Hearts,"conhecimento da serie Tales, NAO da ROM",proposta — Hearts
+73,72,アスベル,Asbel Lhant,elenco_rm3,Graces,"conhecimento da serie Tales, NAO da ROM",proposta — Graces
+74,73,ソフィ,Sophie,elenco_rm3,Graces,"conhecimento da serie Tales, NAO da ROM",proposta — Graces
+75,74,シェリア,Cheria Barnes,elenco_rm3,Graces,"conhecimento da serie Tales, NAO da ROM",proposta — Graces
+76,75,ダオス,Dhaos,rm2,Phantasia,"conhecimento da serie Tales, NAO da ROM",termbase RM2
+77,76,バルバトス,Barbatos Goetia,rm2,Destiny 2,"conhecimento da serie Tales, NAO da ROM",termbase RM2 + sobrenome oficial
+78,77,ユグドラシル,Yggdrasill,elenco_rm3,Symphonia,"conhecimento da serie Tales, NAO da ROM",proposta — Symphonia
+79,78,サレ,Saleh,elenco_rm3,Radiant Mythology,"conhecimento da serie Tales, NAO da ROM",proposta — Rebirth
+80,79,ミミー,Mimmy Bread,elenco_rm3,Radiant Mythology,"conhecimento da serie Tales, NAO da ROM",proposta — original do RM3
+81,80,クィッキー,Quickie,elenco_rm3,Radiant Mythology,"conhecimento da serie Tales, NAO da ROM",proposta — original da serie Mythology
+82,81,キュッポ,Kyuppo,elenco_rm3,Radiant Mythology,"conhecimento da serie Tales, NAO da ROM",proposta — original
+83,82,ピッポ,Pippo,elenco_rm3,Radiant Mythology,"conhecimento da serie Tales, NAO da ROM",proposta — original
+84,83,ポッポ,Poppo,elenco_rm3,Radiant Mythology,"conhecimento da serie Tales, NAO da ROM",proposta — original
+85,84,コーダ,Coda,elenco_rm3,Radiant Mythology,"conhecimento da serie Tales, NAO da ROM",proposta — original do RM3 (quests de receita)
+86,85,カノンノ,Kanonno Grassvalley,jogo,RM3 (original),"conhecimento da serie Tales, NAO da ROM","HEROINA DO RM3. Prova: em mev00_040 ela mesma diz ""私はカノンノ。カノンノ・グラスバレー。"" Companheira do jogador do cap. 00 ao fim, 572 falas"
+87,86,オリジナル・カノンノ,Original Kanonno,novo,Radiant Mythology,"conhecimento da serie Tales, NAO da ROM","a Kanonno ""original"", aparece no desfecho"
+88,87,パスカ・カノンノ,Pasca Kanonno,rm2,Radiant Mythology 2,"conhecimento da serie Tales, NAO da ROM","heroina do RM2. Entra na Ad Libitum em mev26_090, onde diz ""私の事は、パスカと呼んで下さい"""
+89,88,カノンノ・イアハート,Kanonno Earhart,jogo,Radiant Mythology,"conhecimento da serie Tales, NAO da ROM","heroina do RM1. Entra em mev26_030: ""私、カノンノ・イアハート。グラニデって世界から来ました"""
+90,89,ロックス,Rocks,novo,RM3 (original),"conhecimento da serie Tales, NAO da ROM","morador de Niata; leitura alternativa ""Rox"""
+91,90,ニアタ,Niata Monad,rm2,RM3 (original),"conhecimento da serie Tales, NAO da ROM",termbase RM2
+92,91,ウィダーシン,Widdershin,elenco_rm3,RM3 (original),"conhecimento da serie Tales, NAO da ROM",proposta — id interno vidasin difere
+93,92,ゲーデ,Goede,rm2,Radiant Mythology,"conhecimento da serie Tales, NAO da ROM","termbase RM2, marcado (?)"
+94,93,モルモ,Mormo,elenco_rm3,Radiant Mythology,"conhecimento da serie Tales, NAO da ROM",proposta — original do RM3
+95,94,ラザリス,Lazaris,elenco_rm3,RM3 (original),"conhecimento da serie Tales, NAO da ROM","proposta — original do RM3, tres formas em battle_prx"
+96,95,ラザリス２,Lazaris 2,novo,RM3 (original),"conhecimento da serie Tales, NAO da ROM",segunda forma do antagonista
+97,96,アーダ,Arda,novo,RM3 (original),"conhecimento da serie Tales, NAO da ROM",
+98,97,リザーブ１,Reserve 1,novo,-,"conhecimento da serie Tales, NAO da ROM","slot vazio de desenvolvimento, nao aparece em jogo"
+99,98,リザーブ２,Reserve 2,novo,-,"conhecimento da serie Tales, NAO da ROM",slot vazio de desenvolvimento
+100,99,リザーブ３,Reserve 3,novo,-,"conhecimento da serie Tales, NAO da ROM",slot vazio de desenvolvimento
+101,100,ジョアン,Joan,novo,RM3 (original),"conhecimento da serie Tales, NAO da ROM",
+102,101,ミゲル,Miguel,novo,RM3 (original),"conhecimento da serie Tales, NAO da ROM",
+103,102,トマス,Thomas,novo,RM3 (original),"conhecimento da serie Tales, NAO da ROM",
+104,103,青年,Young Man,rm2,-,"conhecimento da serie Tales, NAO da ROM","generico; no binario do RM2 virou ""Youth"" por limite de bytes"
+105,104,女性,Woman,novo,-,"conhecimento da serie Tales, NAO da ROM",generico
+106,105,暁の従者・信者１,Dawn Cultist 1,novo,RM3 (original),"conhecimento da serie Tales, NAO da ROM","暁の従者 = Servos do Alvorecer, seita; 信者 = fiel"
+107,106,暁の従者・信者２,Dawn Cultist 2,novo,RM3 (original),"conhecimento da serie Tales, NAO da ROM",
+108,107,暁の従者・信者３,Dawn Cultist 3,novo,RM3 (original),"conhecimento da serie Tales, NAO da ROM",
+109,108,暁の従者・信者４,Dawn Cultist 4,novo,RM3 (original),"conhecimento da serie Tales, NAO da ROM",
+110,109,手配犯,Wanted Criminal,novo,-,"conhecimento da serie Tales, NAO da ROM",generico
+111,110,部下Ａ,Henchman A,novo,-,"conhecimento da serie Tales, NAO da ROM",generico
+112,111,部下Ｂ,Henchman B,novo,-,"conhecimento da serie Tales, NAO da ROM",generico
+113,112,悪漢Ａ,Thug A,novo,-,"conhecimento da serie Tales, NAO da ROM",generico
+114,113,悪漢Ｂ,Thug B,novo,-,"conhecimento da serie Tales, NAO da ROM",generico

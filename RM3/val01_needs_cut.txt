@@ -1,0 +1,876 @@
+[000] valuables#910 | cut: 10 / need: 15 (diff: 5)
+  OLD: Secret arte: follows left and right slashes by slamming the ground to strike with shockwaves.
+  CUR: Secret arte: follows dual slashes by slamming the ground to strike with shockwaves.
+  PROPS: []
+
+[001] valuables#1028 | cut: 3 / need: 15 (diff: 12)
+  OLD: Arcane arte: slashes enemies skyward with spinning impacts and strikes with flashing thrusts.
+  CUR: Arcane arte: slashes foes skyward with spinning impacts and strikes with flashing thrusts.
+  PROPS: []
+
+[004] valuables#783 | cut: 8 / need: 14 (diff: 6)
+  OLD: An arcane arte where whirlwinds vortex from the impact of thrusting a spear into the ground.
+  CUR: Arcane arte: whirlwinds vortex from the impact of thrusting a spear into the ground.
+  PROPS: []
+
+[009] valuables#1934 | cut: 7 / need: 14 (diff: 7)
+  OLD: An infinite dagger arcane arte that restores conscious inorganic matter to its proper form.
+  CUR: Infinite dagger arcane arte: restores conscious inorganic matter to its proper form.
+  PROPS: []
+
+[010] valuables#147 | cut: 13 / need: 14 (diff: 1)
+  OLD: Protects the wearer from splattering water and spitting oil with divine power. Detachable.
+  CUR: Protects wearer from splattering water and oil with divine power. Detachable.
+  PROPS: ['Detachable', 'Protects']
+
+[013] valuables#763 | cut: 13 / need: 14 (diff: 1)
+  OLD: Arcane arte: impales enemies while moving at high speed, drawing them into aerial slashes.
+  CUR: Arcane arte: impales enemies at high speed, drawing them into aerial slashes.
+  PROPS: []
+
+[015] valuables#1556 | cut: 0 / need: 14 (diff: 14)
+  OLD: Secret arte: impales foes from midair with freezing spears and thrusts again upon landing.
+  PROPS: []
+
+[017] valuables#521 | cut: 7 / need: 14 (diff: 7)
+  OLD: A fire arte where scalding orbs detonate on enemies as if possessing a will of their own.
+  CUR: Fire arte: scalding orbs detonate on enemies as if possessing a will of their own.
+  PROPS: []
+
+[020] valuables#165 | cut: 12 / need: 14 (diff: 2)
+  OLD: The afterword calls this the definitive edition, but a sequel already ships this summer.
+  CUR: Afterword calls this the definitive edition, but a sequel ships this summer.
+  PROPS: []
+
+[022] valuables#842 | cut: 5 / need: 14 (diff: 9)
+  OLD: Arcane arte: sweeps enemies away with flame-cloaked fists and showers them with slashes.
+  CUR: Arcane arte: sweeps enemies with flame-cloaked fists and showers them with slashes.
+  PROPS: []
+
+[024] valuables#945 | cut: 13 / need: 14 (diff: 1)
+  OLD: Arcane arte: follows Crouching Dragon Flash with two more vacuum wave strikes in midair.
+  CUR: Arcane arte: follows Crouching Dragon Flash with two vacuum strikes in air.
+  PROPS: ['Crouching', 'Dragon', 'Flash']
+
+[029] valuables#793 | cut: 4 / need: 14 (diff: 10)
+  OLD: Arcane arte: launches enemies sky-high, impales them with a spear, and slams them down.
+  CUR: Arcane arte: launches enemies high, impales them with a spear, and slams them down.
+  PROPS: []
+
+[030] valuables#1281 | cut: 6 / need: 14 (diff: 8)
+  OLD: Arcane arte: launches upward from rapid thrusts and chases with Tempest and Demon Fang.
+  CUR: Arcane arte: launches upward from thrusts and chases with Tempest and Demon Fang.
+  PROPS: ['Demon', 'Fang', 'Tempest']
+
+[031] valuables#824 | cut: 0 / need: 14 (diff: 14)
+  OLD: Secret arte: draws in enemies with long-range combo strikes coiling like water snakes.
+  PROPS: []
+
+[032] valuables#1165 | cut: 0 / need: 14 (diff: 14)
+  OLD: Arcane arte: enters the enemy's pocket and delivers heavy slashes, knocking them down.
+  PROPS: []
+
+[033] valuables#1287 | cut: 0 / need: 14 (diff: 14)
+  OLD: Secret arte: slashes upward with Crescent Slash and chases airborne foes with Tempest.
+  PROPS: ['Crescent', 'Slash', 'Tempest']
+
+[034] valuables#1696 | cut: 13 / need: 14 (diff: 1)
+  OLD: A skill that leaps and fires arrows that detonate when enemies approach that position.
+  CUR: Leaps and fires arrows that detonate when enemies approach that position.
+  PROPS: []
+
+[035] valuables#186 | cut: 0 / need: 13 (diff: 13)
+  OLD: A supreme, scrumptious dish. So delicious that a single bite will bring you to tears.
+  PROPS: []
+
+[036] valuables#606 | cut: 2 / need: 13 (diff: 11)
+  OLD: Arcane arte: draws enemies into a spinning slash and slams them with fighting spirit.
+  CUR: Arcane arte: draws enemies to a spinning slash and slams them with fighting spirit.
+  PROPS: []
+
+[038] valuables#1594 | cut: 0 / need: 13 (diff: 13)
+  OLD: Arcane arte: dives into the pocket, fires water pressure shots, and creates distance.
+  PROPS: []
+
+[040] valuables#471 | cut: 0 / need: 13 (diff: 13)
+  OLD: Arte: releases freezing energy asleep in the earth to strike with a giant ice arrow.
+  PROPS: []
+
+[041] valuables#602 | cut: 4 / need: 13 (diff: 9)
+  OLD: Secret arte: executes high-speed spinning slashes while juggling enemies in the air.
+  CUR: Secret arte: executes high-speed spin slashes while juggling enemies in the air.
+  PROPS: []
+
+[043] valuables#1352 | cut: 8 / need: 13 (diff: 5)
+  OLD: An arcane arte that, amidst a flash, does unmentionable things to neighboring wives.
+  CUR: Arcane arte: amidst a flash, does unmentionable things to neighboring wives.
+  PROPS: []
+
+[044] valuables#1839 | cut: 8 / need: 13 (diff: 5)
+  OLD: An arcane arte where raging flames turn to dragons, enveloping self to slay enemies.
+  CUR: Arcane arte: raging flames turn to dragons, enveloping self to slay enemies.
+  PROPS: []
+
+[045] valuables#745 | cut: 0 / need: 13 (diff: 13)
+  OLD: Arcane arte: thrusts enemies skyward, cloaks in flame, dives, and knocks them down.
+  PROPS: []
+
+[046] valuables#795 | cut: 3 / need: 13 (diff: 10)
+  OLD: Arcane arte: launches enemies with lightning, then tosses up minerals to follow up.
+  CUR: Arcane arte: launches foes with lightning, then tosses up minerals to follow up.
+  PROPS: []
+
+[049] valuables#1216 | cut: 3 / need: 13 (diff: 10)
+  OLD: Arcane arte: attacks surrounding enemies with chakrams while continuously spinning.
+  CUR: Arcane arte: attacks surrounding foes with chakrams while continuously spinning.
+  PROPS: []
+
+[052] valuables#1890 | cut: 3 / need: 13 (diff: 10)
+  OLD: Arcane arte: launches enemies with sword combos and transitions to sheathed stance.
+  CUR: Arcane arte: launches foes with sword combos and transitions to sheathed stance.
+  PROPS: []
+
+[053] valuables#107 | cut: 9 / need: 13 (diff: 4)
+  OLD: The writing spaces are stark white; looking at it fills one with a sense of ennui.
+  CUR: The writing spaces are stark white; looking at them fills one with ennui.
+  PROPS: []
+
+[054] valuables#113 | cut: 10 / need: 13 (diff: 3)
+  OLD: Used to illuminate dark places. Being oil is no excuse to use it for weird things.
+  CUR: Used to illuminate dark places. Being oil is no excuse for weird things.
+  PROPS: ['Being']
+
+[055] valuables#124 | cut: 6 / need: 13 (diff: 7)
+  OLD: Slime extracted from a Polwiggle. Used in medicine, cosmetics, and industry alike.
+  CUR: Slime extracted from a Polwiggle. Used in medicine, cosmetics, and industry.
+  PROPS: ['Polwiggle', 'Slime']
+
+[056] valuables#741 | cut: 9 / need: 13 (diff: 4)
+  OLD: Arcane arte: closes distance instantly, striking repeatedly and launching enemies.
+  CUR: Arcane arte: closes instantly, striking repeatedly and launching enemies.
+  PROPS: []
+
+[060] valuables#982 | cut: 3 / need: 13 (diff: 10)
+  OLD: Arcane arte: launches enemies skyward and follows up with explosive flame thrusts.
+  CUR: Arcane arte: launches enemies skyward and follows with explosive flame thrusts.
+  PROPS: []
+
+[066] valuables#98 | cut: 8 / need: 13 (diff: 5)
+  OLD: A favorite item of an unfortunate girl. She is still alive, so there is no curse.
+  CUR: Favorite item of an unfortunate girl. She is alive, so there is no curse.
+  PROPS: ['She']
+
+[067] valuables#133 | cut: 8 / need: 13 (diff: 5)
+  OLD: As one grows up, the contents become plentiful, and gradually it becomes a chore.
+  CUR: As one grows up, contents become plentiful, and gradually become a chore.
+  PROPS: []
+
+[068] valuables#198 | cut: 3 / need: 13 (diff: 10)
+  OLD: The kind of ordinary thing you realize was happiness only after you have lost it.
+  CUR: The kind of ordinary thing you realize was happiness only after losing it all.
+  PROPS: []
+
+[069] valuables#467 | cut: 10 / need: 13 (diff: 3)
+  OLD: Arte: causes countless bubbles to surge from the ground beneath the target enemy.
+  CUR: Arte: Arte: causes countless bubbles to surge beneath the target enemy.
+  PROPS: []
+
+[070] valuables#491 | cut: 6 / need: 13 (diff: 7)
+  OLD: Arte: prevents status ailments and stat debuffs for a single ally for a set time.
+  CUR: Arte: prevents status ailments and stat debuffs for an ally for a set time.
+  PROPS: []
+
+[071] valuables#636 | cut: 8 / need: 13 (diff: 5)
+  OLD: Arcane arte: attacks enemies by slamming them with flame-cloaked fighting spirit.
+  CUR: Arcane arte: attacks by slamming foes with flame-cloaked fighting spirit.
+  PROPS: []
+
+[072] valuables#834 | cut: 2 / need: 13 (diff: 11)
+  OLD: An arcane arte boasting tremendous homing capabilities against attacking enemies.
+  CUR: Arcane arte: boasting tremendous homing capabilities against attacking enemies.
+  PROPS: []
+
+[073] valuables#994 | cut: 8 / need: 13 (diff: 5)
+  OLD: An arcane arte where shockwaves trace a cross, attacking with slashes and blasts.
+  CUR: Arcane arte: shockwaves trace a cross, attacking with slashes and blasts.
+  PROPS: []
+
+[077] valuables#1291 | cut: 9 / need: 13 (diff: 4)
+  OLD: Arcane arte: rushes forward, launches enemies, and unleashes consecutive slashes.
+  CUR: Arcane arte: rushes forward, launches foes, and unleashes rapid slashes.
+  PROPS: []
+
+[078] valuables#1624 | cut: 7 / need: 13 (diff: 6)
+  OLD: Arcane arte: calls up lightning from the ground to attack after Shadow Run Blast.
+  CUR: Arcane arte: calls lightning from ground to attack after Shadow Run Blast.
+  PROPS: ['Blast', 'Run', 'Shadow']
+
+[081] valuables#127 | cut: 9 / need: 13 (diff: 4)
+  OLD: Doctors use it to hear heartbeats. By rule, if pointed at you, you must undress.
+  CUR: Doctors use it to hear heartbeats. If pointed at you, you must undress.
+  PROPS: ['Doctors']
+
+[082] valuables#139 | cut: 12 / need: 13 (diff: 1)
+  OLD: Comes with a pointlessly grandiose note saying, "The board is the entire world!"
+  CUR: Comes with a grandiose note saying, "The board is the entire world".
+  PROPS: ['Comes']
+
+[083] valuables#159 | cut: 11 / need: 13 (diff: 2)
+  OLD: Belonged to a woman who met an unfortunate mishap. She's since bought a new one.
+  CUR: Belonged to a woman who met a mishap. She has since bought a new one.
+  PROPS: ['Belonged', 'She']
+
+[085] valuables#561 | cut: 10 / need: 13 (diff: 3)
+  OLD: Arte: raises an ally's physical attack and cures status ailments for a set time.
+  CUR: Arte: Arte: raises an ally's attack and cures ailments for a set time.
+  PROPS: []
+
+[088] valuables#731 | cut: 9 / need: 13 (diff: 4)
+  OLD: Secret arte: halts enemy movement with a heavy thrust and launches them skyward.
+  CUR: Secret arte: halts enemy with a heavy thrust and launches them skyward.
+  PROPS: []
+
+[090] valuables#848 | cut: 8 / need: 13 (diff: 5)
+  OLD: An arcane arte where godspeed thrusts stir up sudden gusts to blow enemies away.
+  CUR: Arcane arte: godspeed thrusts stir up sudden gusts to blow enemies away.
+  PROPS: []
+
+[091] valuables#869 | cut: 3 / need: 13 (diff: 10)
+  OLD: Secret arte: launches enemies with slashes and follows with three combo strikes.
+  CUR: Secret arte: launches foes with slashes and follows with three combo strikes.
+  PROPS: []
+
+[092] valuables#912 | cut: 11 / need: 13 (diff: 2)
+  OLD: Secret arte: delivers a single sword flash while closing distance in an instant.
+  CUR: Secret arte: delivers a sword flash while closing distance instantly.
+  PROPS: []
+
+[094] valuables#1055 | cut: 3 / need: 13 (diff: 10)
+  OLD: Arcane arte: attacks surrounding enemies with four consecutive spinning slashes.
+  CUR: Arcane arte: attacks surrounding foes with four consecutive spinning slashes.
+  PROPS: []
+
+[095] valuables#1149 | cut: 12 / need: 13 (diff: 1)
+  OLD: Arcane arte: slashes enemies skyward, stacking slashes with high-speed movement.
+  CUR: Arcane arte: slashes foes skyward, stacking slashes with high speed.
+  PROPS: []
+
+[097] valuables#1196 | cut: 6 / need: 13 (diff: 7)
+  OLD: A space-time sword arcane arte that shreds enemies with intense fighting spirit.
+  CUR: Space-time sword arcane arte: shreds enemies with intense fighting spirit.
+  PROPS: []
+
+[098] valuables#1313 | cut: 0 / need: 13 (diff: 13)
+  OLD: Arcane arte: conjures shockwaves and delivers a straight punch to airborne foes.
+  PROPS: []
+
+[101] valuables#1719 | cut: 0 / need: 13 (diff: 13)
+  OLD: Secret arte: snipes enemies with ground fragments shattered from aerial strikes.
+  PROPS: []
+
+[104] valuables#118 | cut: 6 / need: 12 (diff: 6)
+  OLD: Many women drink this as a sleep aid to end the day feeling true to themselves.
+  CUR: Many women drink this as a sleep aid to end the day feeling true to self.
+  PROPS: ['Many']
+
+[105] valuables#180 | cut: 10 / need: 12 (diff: 2)
+  OLD: In exchange for summer vacation memories, it can be wielded as a lethal weapon.
+  CUR: In exchange for vacation memories, can be wielded as a lethal weapon.
+  PROPS: []
+
+[106] valuables#204 | cut: 5 / need: 12 (diff: 7)
+  OLD: A charred doll discovered in a dense forest. Its eyeballs have been gouged out.
+  CUR: A charred doll found in a dense forest. Its eyeballs have been gouged out.
+  PROPS: []
+
+[109] valuables#840 | cut: 0 / need: 12 (diff: 12)
+  OLD: Secret arte: follows a thrust with a skyward fist strike that shakes the earth.
+  PROPS: []
+
+[111] valuables#1331 | cut: 8 / need: 12 (diff: 4)
+  OLD: Arcane arte: launches enemies with shockwave slashes and slams down with a cut.
+  CUR: Arcane arte: launches with shockwave slashes and slams down with a cut.
+  PROPS: []
+
+[112] valuables#1443 | cut: 9 / need: 12 (diff: 3)
+  OLD: Arcane arte: launches enemies, then lands spinning kicks and slashes in midair.
+  CUR: Arcane arte: launches foes, landing spinning kicks and slashes in air.
+  PROPS: []
+
+[113] valuables#1455 | cut: 10 / need: 12 (diff: 2)
+  OLD: Arcane arte: launches enemies with a shield bash and chases with sharp thrusts.
+  CUR: Arcane arte: launches with a shield bash, chasing with sharp thrusts.
+  PROPS: []
+
+[114] valuables#1671 | cut: 7 / need: 12 (diff: 5)
+  OLD: Arcane arte: launches enemies sky-high from godspeed upward slashes into kicks.
+  CUR: Arcane arte: launches foes high from godspeed upward slashes into kicks.
+  PROPS: []
+
+[115] valuables#1737 | cut: 5 / need: 12 (diff: 7)
+  OLD: Arcane arte: sweeps enemies away with lightning slashes after consecutive cuts.
+  CUR: Arcane arte: sweeps enemies with lightning slashes after consecutive cuts.
+  PROPS: []
+
+[116] valuables#1739 | cut: 8 / need: 12 (diff: 4)
+  OLD: Arcane arte: launches enemies, ascends with spinning slashes, and fires blasts.
+  CUR: Arcane arte: launches, ascends with spinning slashes, and fires blasts.
+  PROPS: []
+
+[117] valuables#1930 | cut: 0 / need: 12 (diff: 12)
+  OLD: Secret arte: fires lightning-imbued daggers radially to call down thunderbolts.
+  PROPS: []
+
+[118] valuables#2063 | cut: 5 / need: 12 (diff: 7)
+  OLD: Arcane arte: detonates one's own fighting spirit to blow away surrounding foes.
+  CUR: Arcane arte: detonates one's own fighting spirit to blow away nearby foes.
+  PROPS: []
+
+[119] valuables#2261 | cut: 9 / need: 12 (diff: 3)
+  OLD: Title given to someone who knows the world's unexplored regions inside and out.
+  CUR: Title for one who knows the world's unexplored regions inside and out.
+  PROPS: ['Title']
+
+[120] valuables#101 | cut: 11 / need: 12 (diff: 1)
+  OLD: A party gag item, but getting a laugh with it is considered a formidable feat.
+  CUR: A party gag item, but getting a laugh with it is considered a feat.
+  PROPS: []
+
+[121] valuables#174 | cut: 11 / need: 12 (diff: 1)
+  OLD: Extremely fragile; putting your weight on it will shatter it into tiny pieces.
+  CUR: Extremely fragile; putting weight on it shatters it to tiny pieces.
+  PROPS: ['Extremely']
+
+[123] valuables#207 | cut: 11 / need: 12 (diff: 1)
+  OLD: A portrait of a child. The face is blacked out, but only the eyes can be seen.
+  CUR: Portrait of a child. Face is blacked out, but the eyes can be seen.
+  PROPS: []
+
+[124] valuables#565 | cut: 8 / need: 12 (diff: 4)
+  OLD: Arte: raises an ally's physical defense and cures stat debuffs for a set time.
+  CUR: Arte: Arte: raises an ally's defense and cures debuffs for a set time.
+  PROPS: []
+
+[125] valuables#638 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: cloaks oneself in flame fighting spirit and dives like a phoenix.
+  PROPS: []
+
+[126] valuables#787 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: follows Flying Ruin Spear by conjuring tornadoes from the ground.
+  PROPS: ['Flying', 'Ruin', 'Spear']
+
+[128] valuables#830 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: fires five cold-cloaked arrows simultaneously toward the heavens.
+  PROPS: []
+
+[129] valuables#924 | cut: 0 / need: 12 (diff: 12)
+  OLD: Secret arte: teleports above the enemy's head to deliver flame-imbued slashes.
+  PROPS: []
+
+[130] valuables#956 | cut: 3 / need: 12 (diff: 9)
+  OLD: Arcane arte: lifts enemies with sword pressure and sweeps them away in midair.
+  CUR: Arcane arte: lifts enemies with sword pressure and sweeps them away in air.
+  PROPS: []
+
+[131] valuables#1002 | cut: 8 / need: 12 (diff: 4)
+  OLD: Arcane arte: releases vacuum waves from two-stage upward and downward slashes.
+  CUR: Arcane arte: releases vacuum waves from two-stage up and down slashes.
+  PROPS: []
+
+[133] valuables#1333 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: pulls enemies in from a downward swing and closes in with a rush.
+  PROPS: []
+
+[134] valuables#1437 | cut: 2 / need: 12 (diff: 10)
+  OLD: Secret arte: slams wolf-shaped fighting spirit into enemies to blow them away.
+  CUR: Secret arte: slams wolf-shaped fighting spirit into foes, blowing them away.
+  PROPS: []
+
+[135] valuables#1620 | cut: 7 / need: 12 (diff: 5)
+  OLD: Arcane arte: calls up flames from the ground to attack after Shadow Run Blast.
+  CUR: Arcane arte: calls flames from ground to attack after Shadow Run Blast.
+  PROPS: ['Blast', 'Run', 'Shadow']
+
+[136] valuables#1785 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: strikes with an axe, thrusts with a sword, and cleaves crosswise.
+  PROPS: []
+
+[138] valuables#1924 | cut: 10 / need: 12 (diff: 2)
+  OLD: A skill that throws a dagger harboring the will of a snake to draw enemies in.
+  CUR: Secret arte: replicates the skill of a snake to draw enemies closer.
+  PROPS: []
+
+[139] valuables#630 | cut: 0 / need: 12 (diff: 12)
+  OLD: Secret arte: slashes upward while generating a tornado with a spinning slash.
+  PROPS: []
+
+[140] valuables#634 | cut: 0 / need: 12 (diff: 12)
+  OLD: Secret arte: lifts enemies with sword pressure and delivers a finishing blow.
+  PROPS: []
+
+[141] valuables#702 | cut: 9 / need: 12 (diff: 3)
+  OLD: Arcane arte: swings weapons to sweep enemies away along with fighting spirit.
+  CUR: Arcane arte: swings weapons to sweep foes away with fighting spirit.
+  PROPS: []
+
+[142] valuables#951 | cut: 8 / need: 12 (diff: 4)
+  OLD: Secret arte: slashes upward and downward, tracing a crescent moon trajectory.
+  CUR: Secret arte: slashes up and down, tracing a crescent moon trajectory.
+  PROPS: []
+
+[144] valuables#1006 | cut: 8 / need: 12 (diff: 4)
+  OLD: An arcane arte where cold-cloaked shockwaves trace a cross to attack enemies.
+  CUR: Arcane arte: cold-cloaked shockwaves trace a cross to attack enemies.
+  PROPS: []
+
+[147] valuables#1186 | cut: 3 / need: 12 (diff: 9)
+  OLD: Arcane arte: slashes down, launches up, and follows up with spinning slashes.
+  CUR: Arcane arte: slashes down, launches up, and follows with spinning slashes.
+  PROPS: []
+
+[148] valuables#1447 | cut: 8 / need: 12 (diff: 4)
+  OLD: Arcane arte: stacks high-speed sword clashes to produce windstorm shockwaves.
+  CUR: Arcane arte: stacks sword clashes at high speed, creating windstorms.
+  PROPS: []
+
+[152] valuables#1552 | cut: 3 / need: 12 (diff: 9)
+  OLD: Secret arte: summons thunder to strike enemies and follows up with lightning.
+  CUR: Secret arte: summons thunder to strike enemies and follows with lightning.
+  PROPS: []
+
+[153] valuables#1596 | cut: 3 / need: 12 (diff: 9)
+  OLD: Arcane arte: blows enemies away with uppercuts and mysterious triangle kicks.
+  CUR: Arcane arte: blows foes away with uppercuts and mysterious triangle kicks.
+  PROPS: []
+
+[155] valuables#1715 | cut: 3 / need: 12 (diff: 9)
+  OLD: Secret arte: repeatedly slashes airborne foes in midair after upward slashes.
+  CUR: Secret arte: repeatedly slashes airborne foes in air after upward slashes.
+  PROPS: []
+
+[156] valuables#1750 | cut: 6 / need: 12 (diff: 6)
+  OLD: Arcane arte: unleashes shockwaves from two sharp sword strikes after thrusts.
+  CUR: Arcane arte: unleashes shockwaves from two sword strikes after thrusts.
+  PROPS: []
+
+[157] valuables#1813 | cut: 10 / need: 12 (diff: 2)
+  OLD: Arcane arte: binds upward-slashed enemies to the heavens with a fierce flash.
+  CUR: Arcane arte: binds slashed foes to the heavens with a fierce flash.
+  PROPS: []
+
+[158] valuables#1827 | cut: 5 / need: 12 (diff: 7)
+  OLD: An arcane arte of magnificent five-hit combos unleashed by a fighting maiden.
+  CUR: Arcane arte: magnificent five-hit combos unleashed by a fighting maiden.
+  PROPS: []
+
+[159] valuables#1868 | cut: 8 / need: 12 (diff: 4)
+  OLD: Secret arte: blows enemies away with lion roars that slaughter fierce tigers.
+  CUR: Secret arte: blows foes away with lion roars that slay fierce tigers.
+  PROPS: []
+
+[161] valuables#210 | cut: 7 / need: 12 (diff: 5)
+  OLD: Decorated with countless eyes, though the mirror surfaces are painted black.
+  CUR: Decorated with countless eyes; the mirror surfaces are painted black.
+  PROPS: ['Decorated']
+
+[162] valuables#791 | cut: 7 / need: 12 (diff: 5)
+  OLD: Arcane arte: thrusts at enemies in the back while sweeping aside front foes.
+  CUR: Arcane arte: thrusts at rear enemies while sweeping aside front foes.
+  PROPS: []
+
+[163] valuables#799 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: launches minerals after a surprise strike to blow enemies away.
+  PROPS: []
+
+[165] valuables#817 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: fires one straight arrow and four homing arrows simultaneously.
+  PROPS: []
+
+[166] valuables#885 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: leaves five presents at enemy feet after Explosive Thrust Raid.
+  PROPS: ['Explosive', 'Raid', 'Thrust']
+
+[167] valuables#932 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: combines Flashing Fang, Severing Moon Flower, and Ruinous Palm.
+  PROPS: ['Fang', 'Flashing', 'Flower', 'Moon', 'Palm', 'Ruinous', 'Severing']
+
+[168] valuables#1194 | cut: 6 / need: 12 (diff: 6)
+  OLD: A space-time sword secret arte that distorts space to cleave enemies in two.
+  CUR: Space-time sword secret arte: distorts space to cleave enemies in two.
+  PROPS: []
+
+[169] valuables#1200 | cut: 6 / need: 12 (diff: 6)
+  OLD: A space-time sword arcane arte that teleports in front of enemies to attack.
+  CUR: Space-time sword arcane arte: teleports in front of enemies to attack.
+  PROPS: []
+
+[170] valuables#1256 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: follows a kick with water-element bullets to blow enemies away.
+  PROPS: []
+
+[171] valuables#1283 | cut: 3 / need: 12 (diff: 9)
+  OLD: Arcane arte: blows enemies away with Fierce Claw and chases with Demon Fang.
+  CUR: Arcane arte: blows foes away with Fierce Claw and chases with Demon Fang.
+  PROPS: ['Claw', 'Demon', 'Fang', 'Fierce']
+
+[172] valuables#1293 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: punches with a flame-cloaked fist and boils up lava all around.
+  PROPS: []
+
+[174] valuables#1650 | cut: 8 / need: 12 (diff: 4)
+  OLD: An arcane arte where countless pages fly from an open book to slice enemies.
+  CUR: Arcane arte: countless pages fly from an open book to slice enemies.
+  PROPS: []
+
+[175] valuables#1669 | cut: 0 / need: 12 (diff: 12)
+  OLD: Secret arte: slices with sword clashes and whirlwinds, then slams down wind.
+  PROPS: []
+
+[176] valuables#1688 | cut: 0 / need: 12 (diff: 12)
+  OLD: Secret arte: strikes down slashes onto enemies like lightning in an instant.
+  PROPS: []
+
+[179] valuables#1798 | cut: 0 / need: 12 (diff: 12)
+  OLD: Secret arte: slashes enemies upward while delivering three spinning slashes.
+  PROPS: []
+
+[181] valuables#130 | cut: 3 / need: 12 (diff: 9)
+  OLD: Purpose unknown. Rumor says you'll die peering through it like a telescope.
+  CUR: Purpose unknown. Rumor says you die peering through it like a telescope.
+  PROPS: ['Purpose', 'Rumor']
+
+[182] valuables#142 | cut: 4 / need: 12 (diff: 8)
+  OLD: A nice pocket watch, but the hands move at startling speed. It is harmless.
+  CUR: A nice pocket watch, but hands move at startling speed. It is harmless.
+  PROPS: []
+
+[183] valuables#357 | cut: 10 / need: 12 (diff: 2)
+  OLD: Arte: creates sharp blocks of ice from the ground beneath the target enemy.
+  CUR: Arte: Arte: creates sharp blocks of ice beneath the target enemy.
+  PROPS: []
+
+[184] valuables#372 | cut: 4 / need: 12 (diff: 8)
+  OLD: Arte: creates a gravity field at the target's feet to launch them sky-high.
+  CUR: Arte: creates a gravity field at the target's feet to launch them high.
+  PROPS: []
+
+[185] valuables#567 | cut: -1 / need: 12 (diff: 13)
+  OLD: Arte: raises an ally's magic defense and cures stat debuffs for a set time.
+  CUR: Arte: Arte: raises an ally's magic defense and cures debuffs for a set time.
+  PROPS: []
+
+[187] valuables#657 | cut: 8 / need: 12 (diff: 4)
+  OLD: An arcane arte where high-speed thrusts turn to light and impale the enemy.
+  CUR: Arcane arte: high-speed thrusts turn to light and impale the enemy.
+  PROPS: []
+
+[188] valuables#838 | cut: 0 / need: 12 (diff: 12)
+  OLD: Secret arte: delivers an axe kick from midair and boils up lava all around.
+  PROPS: []
+
+[191] valuables#1188 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: scorches surrounding enemies with a sword cloaked in flame qi.
+  PROPS: []
+
+[194] valuables#1721 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: leaps back while kicking enemies up, chasing with rapid dives.
+  PROPS: []
+
+[195] valuables#1849 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: creates whirlwinds at impact points, sweeping enemies skyward.
+  PROPS: []
+
+[197] valuables#1917 | cut: 0 / need: 12 (diff: 12)
+  OLD: Secret arte: spins both feet like twin swords, dealing consecutive strikes.
+  PROPS: []
+
+[199] valuables#1993 | cut: 8 / need: 12 (diff: 4)
+  OLD: An arcane arte where arrows shot skyward rain down as countless ice blades.
+  CUR: Arcane arte: arrows shot skyward rain down as countless ice blades.
+  PROPS: []
+
+[200] valuables#2055 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: jumps and shoots light spheres at diagonally downward enemies.
+  PROPS: []
+
+[202] valuables#2272 | cut: 9 / need: 12 (diff: 3)
+  OLD: Title given to someone who walked a storied battle history with companions.
+  CUR: Title for one who walked a storied battle history with companions.
+  PROPS: ['Title']
+
+[204] valuables#116 | cut: 0 / need: 12 (diff: 12)
+  OLD: A lavish item made with mellow grapes. Grape lovers will ascend to heaven.
+  CUR: A lavish item made with mellow grapes. Grape lovers will ascend to heaven.
+  PROPS: ['Grape']
+
+[205] valuables#162 | cut: 0 / need: 12 (diff: 12)
+  OLD: An invention devised by humankind to proceed through shopping efficiently.
+  CUR: An invention devised by humankind to proceed through shopping efficiently.
+  PROPS: []
+
+[206] valuables#563 | cut: -1 / need: 12 (diff: 13)
+  OLD: Arte: raises an ally's magic attack and cures stat debuffs for a set time.
+  CUR: Arte: Arte: raises an ally's magic attack and cures debuffs for a set time.
+  PROPS: []
+
+[207] valuables#684 | cut: 3 / need: 12 (diff: 9)
+  OLD: Secret arte: repeatedly swings weapons to blow enemies away with momentum.
+  CUR: Secret arte: repeatedly swings weapons to blow foes away with momentum.
+  PROPS: []
+
+[209] valuables#757 | cut: 3 / need: 12 (diff: 9)
+  OLD: Arcane arte: attacks enemies with light orbs rising from the surroundings.
+  CUR: Arcane arte: attacks foes with light orbs rising from the surroundings.
+  PROPS: []
+
+[211] valuables#875 | cut: 0 / need: 12 (diff: 12)
+  OLD: Secret arte: throws bombs while closing distance and then thrusts forward.
+  PROPS: []
+
+[213] valuables#978 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: thrusts a spear into the ground, whipping up gusts to attack.
+  PROPS: []
+
+[214] valuables#1135 | cut: 3 / need: 12 (diff: 9)
+  OLD: Arcane arte: follows rapid thrusts with upward slashes, chasing in midair.
+  CUR: Arcane arte: follows rapid thrusts with upward slashes, chasing in air.
+  PROPS: []
+
+[215] valuables#1340 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: combines Spinning Cherry Blossom and Explosive Shatter Slash.
+  PROPS: ['Blossom', 'Cherry', 'Explosive', 'Shatter', 'Slash', 'Spinning']
+
+[216] valuables#1480 | cut: 3 / need: 12 (diff: 9)
+  OLD: Arcane arte: slashes enemies with dual swords and attacks with shockwaves.
+  CUR: Arcane arte: slashes foes with dual swords and attacks with shockwaves.
+  PROPS: []
+
+[217] valuables#1526 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: thrusts a sword into the ground, summoning ice spears around.
+  PROPS: []
+
+[218] valuables#1528 | cut: 5 / need: 12 (diff: 7)
+  OLD: Arte: traps targets in a magic circle and unleashes four pillars of flame.
+  CUR: Arte: Arte: traps targets in a circle, unleashing four flame pillars.
+  PROPS: []
+
+[219] valuables#1585 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: closes distance and punches skyward alongside water torrents.
+  PROPS: []
+
+[220] valuables#1651 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: captures enemies with weapons and detonates with magic power.
+  PROPS: []
+
+[222] valuables#1741 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: circles behind enemies with slashes and lands further combos.
+  PROPS: []
+
+[223] valuables#1823 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: impales enemies with long blades of light thought in weapons.
+  PROPS: []
+
+[225] valuables#1833 | cut: 3 / need: 12 (diff: 9)
+  OLD: Secret arte: attacks surrounding enemies with fire thought-imbued strikes.
+  CUR: Secret arte: attacks surrounding foes with fire thought-imbued strikes.
+  PROPS: []
+
+[226] valuables#1886 | cut: 3 / need: 12 (diff: 9)
+  OLD: Arcane arte: slices upward-slashed enemies in midair and impales downward.
+  CUR: Arcane arte: slices upward-slashed enemies in air and impales downward.
+  PROPS: []
+
+[227] valuables#1985 | cut: 9 / need: 12 (diff: 3)
+  OLD: A short-range skill that launches enemies with bow attacks and follows up.
+  CUR: Short-range skill: launches foes with bow attacks and follows up.
+  PROPS: []
+
+[229] valuables#104 | cut: 0 / need: 12 (diff: 12)
+  OLD: Seals a demon that once drove heaven, earth, and the demon realm to ruin.
+  CUR: Seals a demon that once drove heaven, earth, and the demon realm to ruin.
+  PROPS: []
+
+[230] valuables#121 | cut: 2 / need: 12 (diff: 10)
+  OLD: A part from an antique clock destroyed by a grandfather in a fit of rage.
+  CUR: Part from an antique clock destroyed by a grandfather in a fit of rage.
+  PROPS: []
+
+[231] valuables#213 | cut: 0 / need: 12 (diff: 12)
+  OLD: A spherical compass shaped like an eyeball. The needle spins ceaselessly.
+  CUR: A spherical compass shaped like an eyeball. The needle spins ceaselessly.
+  PROPS: []
+
+[232] valuables#378 | cut: 6 / need: 12 (diff: 6)
+  OLD: Arte: causes a massive torrent of water to surge around the target enemy.
+  CUR: Arte: Arte: causes a torrent of water to surge around target enemy.
+  PROPS: []
+
+[233] valuables#418 | cut: 8 / need: 12 (diff: 4)
+  OLD: Arte: rains down flame spheres causing powerful explosions on the ground.
+  CUR: Arte: Arte: rains flame spheres causing explosions on the ground.
+  PROPS: []
+
+[234] valuables#429 | cut: 6 / need: 12 (diff: 6)
+  OLD: Arte: cures status ailments and moderately restores HP for a single ally.
+  CUR: Arte: cures status ailments and moderately restores HP for an ally.
+  PROPS: ['HP']
+
+[235] valuables#632 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: unleashes a flurry of attacks while stepping into the enemy.
+  PROPS: []
+
+[236] valuables#646 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: unleashes explosive fiery energy to scorch the surroundings.
+  PROPS: []
+
+[237] valuables#721 | cut: 3 / need: 12 (diff: 9)
+  OLD: Arcane arte: blows enemies away and knocks them down at the end of kicks.
+  CUR: Arcane arte: blows foes away and knocks them down at the end of kicks.
+  PROPS: []
+
+[239] valuables#781 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: pierces through enemies with a gale-cloaked spinning thrust.
+  PROPS: []
+
+[240] valuables#1016 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: traces the moon through weapon arcs, attacking continuously.
+  PROPS: []
+
+[241] valuables#1050 | cut: 9 / need: 12 (diff: 3)
+  OLD: Arcane arte: repeatedly swings weapons to blow away numerous rock shards.
+  CUR: Arcane arte: repeatedly swings weapons to blow away rock shards.
+  PROPS: []
+
+[242] valuables#1131 | cut: 10 / need: 12 (diff: 2)
+  OLD: Arcane arte: creates countless icicles from the impact of upward slashes.
+  CUR: Arcane arte: creates icicles from the impact of upward slashes.
+  PROPS: []
+
+[243] valuables#1245 | cut: 4 / need: 12 (diff: 8)
+  OLD: Secret arte: steps into the enemy pocket while attacking and rapid-fires.
+  CUR: Secret arte: steps into enemy pocket while attacking and rapid-fires.
+  PROPS: []
+
+[244] valuables#1356 | cut: 1 / need: 12 (diff: 11)
+  OLD: A secret arte reminiscent of sprinkling water during intense summer heat.
+  CUR: Secret arte: reminiscent of sprinkling water during intense summer heat.
+  PROPS: []
+
+[245] valuables#1401 | cut: 0 / need: 12 (diff: 12)
+  OLD: Arcane arte: launches a spinning suicide dive at enemies high in the sky.
+  PROPS: []
+
+[247] valuables#1677 | cut: 3 / need: 12 (diff: 9)
+  OLD: Secret arte: punches enemy vitals with weapon pommels to knock them down.
+  CUR: Secret arte: punches vitals with weapon pommels to knock enemies down.
+  PROPS: []
+
+[248] valuables#1700 | cut: 8 / need: 12 (diff: 4)
+  OLD: An arcane arte where arrows fired high into the sky rain down all around.
+  CUR: Arcane arte: arrows fired high into the sky rain down all around.
+  PROPS: []
+
+[249] valuables#1727 | cut: 4 / need: 12 (diff: 8)
+  OLD: Secret arte: slashes enemies sky-high, delivering dive kicks and slashes.
+  CUR: Secret arte: slashes enemies high, delivering dive kicks and slashes.
+  PROPS: []
+
+[250] valuables#1752 | cut: 3 / need: 12 (diff: 9)
+  OLD: Arcane arte: slashes enemies into the air and unleashes spinning slashes.
+  CUR: Arcane arte: slashes foes into the air and unleashes spinning slashes.
+  PROPS: []
+
+[251] valuables#1768 | cut: 3 / need: 12 (diff: 9)
+  OLD: Arcane arte: launches enemies with upper roundhouse kicks into axe kicks.
+  CUR: Arcane arte: launches foes with upper roundhouse kicks into axe kicks.
+  PROPS: []
+
+[252] valuables#1857 | cut: 9 / need: 12 (diff: 3)
+  OLD: Arcane arte: fires a powerful shot skyward capable of piercing even gods.
+  CUR: Arcane arte: fires a shot skyward capable of piercing even gods.
+  PROPS: []
+
+[253] valuables#1884 | cut: 1 / need: 12 (diff: 11)
+  OLD: A wide-range multi-hit iai slash arcane arte accompanied by vacuum waves.
+  CUR: Arcane arte: wide-range multi-hit iai slash accompanied by vacuum waves.
+  PROPS: []
+
+[255] valuables#1913 | cut: 1 / need: 12 (diff: 11)
+  OLD: Arcane arte: delivers aerial kicks and connects into consecutive attacks.
+  CUR: Arcane arte: delivers aerial kicks, connecting into consecutive attacks.
+  PROPS: []
+
+[256] valuables#1926 | cut: 5 / need: 12 (diff: 7)
+  OLD: Secret arte: throws daggers blessed with water three times in succession.
+  CUR: Secret arte: throws water-blessed daggers three times in succession.
+  PROPS: []
+
+[257] valuables#2046 | cut: 4 / need: 12 (diff: 8)
+  OLD: Secret arte: dances into the air and fires twelve bullets while spinning.
+  CUR: Secret arte: dances into air and fires twelve bullets while spinning.
+  PROPS: []
+
+[258] valuables#95 | cut: 0 / need: 11 (diff: 11)
+  OLD: Reverts skin age to just before infancy. Risks vanishing you completely.
+  CUR: Reverts skin age to just before infancy. Risks vanishing you completely.
+  PROPS: ['Reverts', 'Risks']
+
+[259] valuables#156 | cut: 5 / need: 11 (diff: 6)
+  OLD: A picture of an adorable kitten. Contains clues on how to eliminate war.
+  CUR: A picture of an adorable kitten. Contains clues on eliminating war.
+  PROPS: []
+
+[260] valuables#168 | cut: 4 / need: 11 (diff: 7)
+  OLD: A banner bearing a tiger pattern. Exudes the nobility of the Beast King.
+  CUR: A banner bearing a tiger pattern. Exudes nobility of the Beast King.
+  PROPS: ['Beast', 'Exudes', 'King']
+
+[261] valuables#275 | cut: 2 / need: 11 (diff: 9)
+  OLD: A green jewel obtained from a green chest in the Holy Land of Langriths.
+  CUR: Green jewel obtained from a green chest in the Holy Land of Langriths.
+  PROPS: ['Holy', 'Land', 'Langriths']
+
+[262] valuables#571 | cut: 3 / need: 11 (diff: 8)
+  OLD: Arte: slightly restores TP of allies in range and cures status ailments.
+  CUR: Arte: Arte: slightly restores TP of nearby allies and cures ailments.
+  PROPS: ['TP']
+
+[263] valuables#644 | cut: 8 / need: 11 (diff: 3)
+  OLD: Secret arte: sweeps enemies away while releasing fire power all at once.
+  CUR: Secret arte: sweeps foes away, releasing fire power all at once.
+  PROPS: []
+
+[265] valuables#749 | cut: 3 / need: 11 (diff: 8)
+  OLD: Arcane arte: launches enemies skyward and follows up with sharp thrusts.
+  CUR: Arcane arte: launches enemies skyward and follows with sharp thrusts.
+  PROPS: []
+
+[266] valuables#785 | cut: 6 / need: 11 (diff: 5)
+  OLD: Arcane arte: follows two consecutive slashes with diagonal vacuum waves.
+  CUR: Arcane arte: follows two rapid slashes with diagonal vacuum waves.
+  PROPS: []
+
+[267] valuables#986 | cut: 3 / need: 11 (diff: 8)
+  OLD: Arcane arte: launches enemies with a spear and conjures giant lightning.
+  CUR: Arcane arte: launches foes with a spear and conjures giant lightning.
+  PROPS: []
+
+[269] valuables#1090 | cut: 0 / need: 11 (diff: 11)
+  OLD: Arcane arte: combines Crouching Dragon Strike and Flowing Shadow Strike.
+  PROPS: ['Crouching', 'Dragon', 'Flowing', 'Shadow', 'Strike']
+
+[273] valuables#1243 | cut: 2 / need: 11 (diff: 9)
+  OLD: Secret arte: attacks surroundings and raises icicles from impact points.
+  CUR: Secret arte: attacks surroundings, raising icicles from impact points.
+  PROPS: []
+
+[275] valuables#1472 | cut: 3 / need: 11 (diff: 8)
+  OLD: Secret arte: launches enemies, attacks, and delivers additional strikes.
+  CUR: Secret arte: launches foes, attacks, and delivers additional strikes.
+  PROPS: []
+
+[276] valuables#1474 | cut: 3 / need: 11 (diff: 8)
+  OLD: Secret arte: hits four times with dual swords, launches, and follows up.
+  CUR: Secret arte: hits four times with dual swords, launches, and follows.
+  PROPS: []
+

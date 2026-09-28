@@ -1,0 +1,185 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev06_010.scr:0	mev06_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	精霊と関わりのある里が\n実際にあったなんて…	To think a village with ties to spirits\nactually existed...	
+mev06_010.scr:1	mev06_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	教会でも、世界樹と共に精霊を奉じるけど、\nわたし達の様な教会関係者でも\n精霊と会った人なんていなかったから…	The Church reveres spirits with the World\nTree, yet none of our clergy have ever\nactually met one in person...	
+mev06_010.scr:2	mev06_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	でも、もし、精霊に話を聞けて、\n赤い煙について何かわかるのなら\nとても心強いよね	Still, if we can speak with a spirit\nand learn anything about that red smoke,\nit would be immensely reassuring.	
+mev06_010.scr:3	mev06_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	さあ、ミブナの里へ行く方法なのだけれど、\nブラウニー坑道を通る事になるの	Now, as for reaching Mibuna Village,\nyou will pass through Brownie Mine.	
+mev06_010.scr:4	mev06_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	同行は、クラトスさん。\nそれと、ハロルドさんが行ってくれるよ	Kratos will accompany you,\nalong with Harold.	
+mev06_010.scr:5	mev06_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	それじゃあ、\n気を付けて行ってらっしゃい	Well then,\nstay safe out there!	
+mev06_020.scr:0	mev06_020.scr	0	ハロルド	Harold Berselius	personagem	CRLF x2	ねえ、クラトス。\nそのミブナの里って、\nここを通らないと行けないわけ？	Hey, Kratos.\nIs passing through here the only way\nto reach that Mibuna Village?	
+mev06_020.scr:1	mev06_020.scr	1	クラトス	Kratos Aurion	personagem	CRLF x1	ミブナの里は、忍びの者が住む里だ。\n一般の者には見つかりづらい場所にある	Mibuna Village is home to shinobi.\nIt is hidden from ordinary people.	
+mev06_020.scr:2	mev06_020.scr	2	クラトス	Kratos Aurion	personagem		この坑道が、そこへ繋がる唯一の道だ	This mine is the sole path leading there.	
+mev06_020.scr:3	mev06_020.scr	3	ハロルド	Harold Berselius	personagem		なるほど、忍びねえ	I see. Shinobi, huh?	
+mev06_020.scr:4	mev06_020.scr	4	ハロルド	Harold Berselius	personagem	CRLF x1	隠密行動しないといけないなら\n外部に知られてはまずいわね	If they operate covertly, outsiders\nfinding out would indeed be troublesome.	
+mev06_020.scr:5	mev06_020.scr	5	クラトス	Kratos Aurion	personagem		それもある	That is true.	
+mev06_020.scr:6	mev06_020.scr	6	クラトス	Kratos Aurion	personagem	CRLF x1	だが、ウリズン帝国がミブナの星晶を狙って\nいるという話もあるのでな	However, word has it the Urizen Empire\nseeks Mibuna's Star Crystals as well.	
+mev06_020.scr:7	mev06_020.scr	7	ハロルド	Harold Berselius	personagem	CRLF x1	ああ…、ヴェイグの故郷の星晶を採り尽くした\nサレって奴がいる国…	Ah... That country where Saleh stripped\nVeigue's homeland of its Star Crystals...	
+mev06_020.scr:8	mev06_020.scr	8	クラトス	Kratos Aurion	personagem	CRLF x1	だから、外部の者には\n並々ならぬ警戒を抱いているはずだ	They are bound to view all outsiders\nwith extraordinary vigilance.	
+mev06_020.scr:9	mev06_020.scr	9	ハロルド	Harold Berselius	personagem		でも、何であんたは道を知ってるの？	Still, how do you know the way?	
+mev06_020.scr:10	mev06_020.scr	10	クラトス	Kratos Aurion	personagem	CRLF x2	ミブナの里の近くに、\n唯一忍びと交流のある村がある。\n私はそこから来た	Near Mibuna Village lies the only\nsettlement that communes with shinobi.\nI came from there.	
+mev06_020.scr:11	mev06_020.scr	11	ハロルド	Harold Berselius	personagem		ふ〜ん、そりゃまた珍しいわね	Hmm, now that's quite a rarity.	
+mev06_025.scr:0	mev06_025.scr	0	ハロルド	Harold Berselius	personagem	CRLF x1	道、無いじゃない。\nこっちであってんの？	There's no path here!\nAre we really going the right way?	
+mev06_025.scr:1	mev06_025.scr	1	ハロルド	Harold Berselius	personagem	CRLF x1	ふうん。\n忍びが作った隠し通路ってワケね	Hmm. A hidden passage\ncrafted by shinobi, then.	
+mev06_025.scr:2	mev06_025.scr	2	クラトス	Kratos Aurion	personagem		…行くぞ	...Let us proceed.	
+mev06_030.scr:0	mev06_030.scr	0	クラトス	Kratos Aurion	personagem	CRLF x1	何を読んでいる？\nそれは何だ？	What are you reading?\nWhat is that paper?	
+mev06_030.scr:1	mev06_030.scr	1	ハロルド	Harold Berselius	personagem	CRLF x1	そこに落ちてた紙。\n新興宗教の勧誘チラシよ	Found it lying around.\nIt's a recruitment flyer for a new cult.	
+mev06_030.scr:2	mev06_030.scr	2	ハロルド	Harold Berselius	personagem	CRLF x1	こんな人のいない所にまで布教だなんて、\nご苦労な事よね〜	Proselytizing in a deserted place like\nthis... Talk about dedicated!	
+mev06_030.scr:3	mev06_030.scr	3	クラトス	Kratos Aurion	personagem	CRLF x1	暁の従者…、\nディセンダーの出現を待つ集団か	Servants of the Dawn...\nA faction awaiting the Descender?	
+mev06_030.scr:4	mev06_030.scr	4	ハロルド	Harold Berselius	personagem	CRLF x1	世界の危機が訪れた時に現れるディセンダー、\nね〜	A Descender who appears whenever\na world crisis arrives, eh?	
+mev06_030.scr:5	mev06_030.scr	5	ハロルド	Harold Berselius	personagem	CRLF x1	まあ、危機の感じ方って人それぞれだろうけど、\n今が危機の最たる時なワケかしら？	Well, everyone defines crisis differently,\nbut could right now be the peak of one?	
+mev06_030.scr:6	mev06_030.scr	6	クラトス	Kratos Aurion	personagem	CRLF x2	さあな、世界の住人はヒトだけではない。\nヒト以外のものが危機を感じているならば、\nそうかもしれぬが…	Who can say. Humans are not this world's\nsole residents. If non-humans sense\na crisis, that may indeed be so...	
+mev06_030.scr:7	mev06_030.scr	7	しいな	Sheena Fujibayashi	personagem		わー！！　待てっ！　こらーーーーっ！！	Waaah!! Hold it! Heyyyy!!	
+mev06_030.scr:8	mev06_030.scr	8	ハロルド	Harold Berselius	personagem		なぁに、今の声？	What in the world was that voice?	
+mev06_030.scr:9	mev06_030.scr	9	クラトス	Kratos Aurion	personagem		あの声は…！	That voice...!	
+mev06_030.scr:10	mev06_030.scr	10	クラトス	Kratos Aurion	personagem	CRLF x1	何か、異様な気配が流れてくる。\n先を急ぐぞ	A bizarre presence is drifting our way.\nWe must make haste.	
+mev06_040.scr:0	mev06_040.scr	0	クラトス	Kratos Aurion	personagem		先程の気配はこいつか	Is this what caused that presence?	
+mev06_040.scr:1	mev06_040.scr	1	ハロルド	Harold Berselius	personagem		ねえ、こいつと戦うの？	Say, are we fighting this thing?	
+mev06_040.scr:2	mev06_040.scr	2	クラトス	Kratos Aurion	personagem		恐らく、門番のつもりだろう	It appears to be a gatekeeper.	
+mev06_040.scr:3	mev06_040.scr	3	クラトス	Kratos Aurion	personagem	CRLF x1	こいつを倒さねば、ミブナの里へは\n行けそうにないだろうからな	Unless we defeat it, reaching\nMibuna Village seems impossible.	
+mev06_040.scr:4	mev06_040.scr	4	ハロルド	Harold Berselius	personagem	CRLF x1	やっぱり〜！\nこれが忍びの技術なのね♪	I knew it!\nSo this is shinobi craft, is it?!	
+mev06_040.scr:5	mev06_040.scr	5	ハロルド	Harold Berselius	personagem		面白そうだから、相手しちゃうわよ！	Looks like fun, I'll take it on!	
+mev06_050.scr:0	mev06_050.scr	0	ハロルド	Harold Berselius	personagem	CRLF x1	さあ、忍びの技って奴を\nもっと見せなさい♪	Come now, show me more\nof what shinobi can do!	
+mev06_060.scr:0	mev06_060.scr	0	ハロルド	Harold Berselius	personagem	CRLF x1	倒したら、跡形もなく消えちゃった。\nと、言う事は呪術的な存在ね	Defeated, it vanished without a trace.\nMeaning it's an occult entity.	
+mev06_060.scr:1	mev06_060.scr	1	ハロルド	Harold Berselius	personagem		これは興味深いわ、グフフッ！	How fascinating, hehehe!	
+mev06_060.scr:2	mev06_060.scr	2	クラトス	Kratos Aurion	personagem		そいつは人工精霊だ	That was an artificial spirit.	
+mev06_060.scr:3	mev06_060.scr	3	ハロルド	Harold Berselius	personagem		人工精霊〜？	An artificial spirit...?	
+mev06_060.scr:4	mev06_060.scr	4	クラトス	Kratos Aurion	personagem	CRLF x1	しいな。\nお前だったか…	Sheena.\nSo it was you...	
+mev06_060.scr:5	mev06_060.scr	5	しいな	Sheena Fujibayashi	personagem		クラトスだったのかい！	Kratos! It's really you!	
+mev06_060.scr:6	mev06_060.scr	6	しいな	Sheena Fujibayashi	personagem	CRLF x1	久しぶりだねぇ。\nあいつを始末してくれて助かったよ	Long time no see!\nThanks for taking care of that thing.	
+mev06_060.scr:7	mev06_060.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x2	あんた達が倒したのは、\nあたしが「光気丹術」で\n作ったものなんだ	What you defeated just now\nwas something I created\nusing Light Alchemy.	
+mev06_060.scr:8	mev06_060.scr	8	ハロルド	Harold Berselius	personagem	CRLF x1	ふんふん、光気丹術っていうのね！\nワクワクしちゃう〜★	Aha, Light Alchemy, you say!\nHow exciting!	
+mev06_060.scr:9	mev06_060.scr	9	しいな	Sheena Fujibayashi	personagem		扱いきれなくて暴走しちまってさ…	I couldn't control it and it ran wild...	
+mev06_060.scr:10	mev06_060.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x1	もしあれが外に出たら大変だったよ\nありがとう	If it had escaped outside, we'd have been\nin serious trouble. Thank you.	
+mev06_060.scr:11	mev06_060.scr	11	しいな	Sheena Fujibayashi	personagem		ところで何の用だったんだい？	By the way, what brings you here?	
+mev06_060.scr:12	mev06_060.scr	12	クラトス	Kratos Aurion	personagem	CRLF x1	精霊と話がしたい。\n会わせてはくれないか？	We wish to speak with a spirit.\nCould you grant us an audience?	
+mev06_060.scr:13	mev06_060.scr	13	しいな	Sheena Fujibayashi	personagem	CRLF x1	ミブナの里の精霊にかい？\n前は精霊と交流があったけど、今はいないよ	With the spirits of Mibuna Village?\nWe used to commune, but none remain now.	
+mev06_060.scr:14	mev06_060.scr	14	しいな	Sheena Fujibayashi	personagem	CRLF x1	ミブナの里周辺の星晶が採取され始めてから、\nいなくなったんだ	Once Star Crystals around Mibuna Village\nstarted being mined, they vanished.	
+mev06_060.scr:15	mev06_060.scr	15	クラトス	Kratos Aurion	personagem		ウリズン帝国か…	The Urizen Empire...	
+mev06_060.scr:16	mev06_060.scr	16	しいな	Sheena Fujibayashi	personagem	CRLF x2	それ以外の国もだね…。\n奴ら、星晶ばかりじゃなく、土地にあるものを\n何でも取っていこうとする	And other countries too...\nThose vultures take everything this land\nhas, not just Star Crystals.	
+mev06_060.scr:17	mev06_060.scr	17	しいな	Sheena Fujibayashi	personagem	CRLF x1	ミブナの里が奴らに見つかるのも\n時間の問題だよ	It's only a matter of time before\nMibuna Village is discovered by them.	
+mev06_060.scr:18	mev06_060.scr	18	しいな	Sheena Fujibayashi	personagem	CRLF x1	だから、奴らが入って来れない様にって、\n人工精霊を作ろうとしたんだ	That's why I tried making artificial\nspirits to keep intruders out.	
+mev06_060.scr:19	mev06_060.scr	19	しいな	Sheena Fujibayashi	personagem	CRLF x2	でも、難しくてダメだったね。\nあたしなりの解釈だったんだけど、\n結局あの程度さ	Too difficult, though.\nIt was just my own take on the craft,\nand that was all I could manage.	
+mev06_060.scr:20	mev06_060.scr	20	ハロルド	Harold Berselius	personagem	CRLF x1	んー、とりあえず、精霊への接触は\nムリって事ね	Hmm, so reaching a spirit here\nis out of the question, then.	
+mev06_060.scr:21	mev06_060.scr	21	ハロルド	Harold Berselius	personagem		どうする？　引き返す？	Let us withdraw.	
+mev06_060.scr:22	mev06_060.scr	22	クラトス	Kratos Aurion	personagem		そうだな	Indeed.	
+mev06_060.scr:23	mev06_060.scr	23	しいな	Sheena Fujibayashi	personagem	CRLF x2	待ちなよ！\nあんたが精霊を頼るって事は、\n余程の事なんだね	Wait up!\nFor you to rely on spirits, something\nterrible must be happening.	
+mev06_060.scr:24	mev06_060.scr	24	しいな	Sheena Fujibayashi	personagem	CRLF x2	ミブナの里に精霊はいないけど、\n他の地域にいる精霊についてだったら、\n何かわかるかもしれないよ	We have no spirits in Mibuna Village,\nbut our lore might reveal something\nabout spirits in other regions.	
+mev06_060.scr:25	mev06_060.scr	25	ハロルド	Harold Berselius	personagem		あら、いいわね〜！	Oh, now that sounds lovely!	
+mev06_060.scr:26	mev06_060.scr	26	しいな	Sheena Fujibayashi	personagem	CRLF x1	里に文献があるんだ。\n後であんた達のギルドに届けにいくよ	We keep texts in the village.\nI'll deliver them to your guild later.	
+mev06_060.scr:27	mev06_060.scr	27	クラトス	Kratos Aurion	personagem	CRLF x1	わかった。\nでは、それを待つとしよう	Understood.\nWe shall await your arrival.	
+mev06_060.scr:28	mev06_060.scr	28	しいな	Sheena Fujibayashi	personagem		ああ、待ってておくれよ！	Yeah, sit tight till then!	
+mev06_070.scr:0	mev06_070.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	精霊に会えなかったのは残念だけど、\nまだ望みが絶たれたわけじゃないでしょ？	Failing to meet a spirit is unfortunate,\nbut all hope isn't lost yet, right?	
+mev06_070.scr:1	mev06_070.scr	1	アンジュ	Ange Serena	personagem		しいなさんの来船を待ちましょ	Let's wait for Sheena's arrival.	
+mev06_070.scr:2	mev06_070.scr	2	ハロルド	Harold Berselius	personagem	CRLF x2	それにしても、人工精霊や\n光気丹術の存在を知る事が出来たのは\n私にとって大収穫だわ〜	Even so, discovering artificial spirits\nand Light Alchemy was a huge harvest\nfor me!	
+mev06_070.scr:3	mev06_070.scr	3	リタ	Rita Mordio	personagem	CRLF x2	そう、その光気丹術！\nあたしが研究しているものと\n同じかもしれないのよ	Yes, that Light Alchemy!\nIt might be the very same thing\nI have been researching!	
+mev06_070.scr:4	mev06_070.scr	4	ハロルド	Harold Berselius	personagem		あらそう	Is that so?	
+mev06_070.scr:5	mev06_070.scr	5	ハロルド	Harold Berselius	personagem		んで、何を研究してたんだっけ？	And what were you researching again?	
+mev06_070.scr:6	mev06_070.scr	6	リタ	Rita Mordio	personagem	CRLF x1	ソウルアルケミーよ！\n魔術の曙とでも言える太古の技術	Soul Alchemy!\nAn ancient art called the dawn of magic!	
+mev06_070.scr:7	mev06_070.scr	7	ハロルド	Harold Berselius	personagem	CRLF x1	あら、あんたそれ研究してんの？\nでも、資料あんましないっしょ？	Oh, you're studying that?\nHardly any reference materials exist, no?	
+mev06_070.scr:8	mev06_070.scr	8	ハロルド	Harold Berselius	personagem		私もいずれは研究したいと思ってたのよねぇ♪	I've wanted to study it eventually too!	
+mev06_070.scr:9	mev06_070.scr	9	ハロルド	Harold Berselius	personagem	CRLF x1	うーん、でも光気丹術とソウルアルケミーの\n関連性はまだわかんないわね	Hmm, though the link between Light\nAlchemy and Soul Alchemy is still unclear.	
+mev06_070.scr:10	mev06_070.scr	10	ハロルド	Harold Berselius	personagem	CRLF x1	詳しく聞く為にも、\nしいなが来るのを待ちましょ	To learn more,\nlet's wait until Sheena arrives.	
+mev06_070.scr:11	mev06_070.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	それじゃ、今回もお疲れ様。\nまた仕事を受けに来てね	Well then, thank you for your hard work.\nCome take on another job soon!	
+mev06_080.scr:0	mev06_080.scr	0	しいな	Sheena Fujibayashi	personagem	CRLF x1	ええっと、ああ、あんた。\nこないだクラトスといた…	Uhm, oh, hey there.\nYou were with Kratos the other day...	
+mev06_080.scr:1	mev06_080.scr	1	しいな	Sheena Fujibayashi	personagem		ああ、やっぱりそうなんだね	Ah, so it really is you.	
+mev06_080.scr:2	mev06_080.scr	2	しいな	Sheena Fujibayashi	personagem	CRLF x2	○○か。\nいい名だね。\nよろしく	○○, huh?\nNice name.\nGood to meet ya.	
+mev06_080.scr:3	mev06_080.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x1	そういえば、\nちゃんと挨拶してなかったね	Come to think of it,\nI haven't introduced myself properly.	
+mev06_080.scr:4	mev06_080.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x1	あたしは、しいな。\n藤林　しいなだよ	I'm Sheena.\nSheena Fujibayashi.	
+mev06_080.scr:5	mev06_080.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x1	今日は、精霊についての文献を\n持って来たんだ	I brought the ancient texts\nconcerning spirits today.	
+mev06_080.scr:6	mev06_080.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	あら、いらっしゃい。\nようこそ、アドリビトムへ	Oh, welcome!\nWelcome to Ad Libitum.	
+mev06_080.scr:7	mev06_080.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x1	えーっと、ギルドのリーダーさんだよね。\n実は、あたしをここに置いて欲しいんだよ	Uhm, you're the guild leader, right?\nTruth is, I'd like to stay here.	
+mev06_080.scr:8	mev06_080.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	働いてくれるのなら、構わないけど。\nでも、なぜ？	If you'll work for us, by all means.\nHowever, why the sudden request?	
+mev06_080.scr:9	mev06_080.scr	9	しいな	Sheena Fujibayashi	personagem	CRLF x2	光気丹術を使った事がばれちまって、\nほとぼりが冷めるまで里に居られなく\nなったんだよ	My use of Light Alchemy got found out,\nso I can't stay in the village\nuntil things cool down.	
+mev06_080.scr:10	mev06_080.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x2	あの人工精霊は、\n侵入者専用の門番にしようと\n作ったものなんだ	I made that artificial spirit\nto serve as a gatekeeper\nspecifically against intruders.	
+mev06_080.scr:11	mev06_080.scr	11	しいな	Sheena Fujibayashi	personagem	CRLF x1	でも、うちの里では\n禁呪に値するものだったからね	Yet in our village,\nit amounts to forbidden arts.	
+mev06_080.scr:12	mev06_080.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x2	里の人達にはばれてないんだけど、\n頭領だけがあたしが使ったって事を\n見抜いててさ…	The villagers didn't find out,\nbut our Chief saw right through me...\nHe knew I had cast it.	
+mev06_080.scr:13	mev06_080.scr	13	しいな	Sheena Fujibayashi	personagem	CRLF x1	それで一時的に里を出る事を\nすすめられたんだよ	So he advised me to leave the village\nfor a little while.	
+mev06_080.scr:14	mev06_080.scr	14	しいな	Sheena Fujibayashi	personagem	CRLF x1	それに、\nやっぱりここで働いてみたいんだ	Besides,\nI really want to work here.	
+mev06_080.scr:15	mev06_080.scr	15	しいな	Sheena Fujibayashi	personagem		連れもいるんだけど、いいかい？	I've got companions with me, is that okay?	
+mev06_080.scr:16	mev06_080.scr	16	アンジュ	Ange Serena	personagem	CRLF x2	ええ。\nにぎやかになるから歓迎よ。\nそれじゃあ、部屋を用意しないとね	Yes, you are very welcome!\nThe more the merrier.\nNow then, we must prepare your rooms.	
+mev06_080.scr:17	mev06_080.scr	17	アンジュ	Ange Serena	personagem	CRLF x2	ねえ、○○。\n一緒に部屋へ来てちょうだい。\n部屋の準備の手伝い、お願いね	Say, ○○.\nCome with us to the room, please.\nHelp us get it ready, won't you?	
+mev06_080.scr:18	mev06_080.scr	18	(opcao do jogador)	(opcao do jogador)	escolha		会釈をする	Nod politely	
+mev06_080.scr:19	mev06_080.scr	19	(opcao do jogador)	(opcao do jogador)	escolha		自己紹介をする	Introduce yourself	
+mev06_090.scr:0	mev06_090.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	これでいいかな。\n部屋は、ここを使ってちょうだいね	This should do.\nPlease feel free to use this room.	
+mev06_090.scr:1	mev06_090.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	ありがとう。\nそうそう、連れの紹介もしないとね	Thanks!\nOh right, let me introduce the others.	
+mev06_090.scr:2	mev06_090.scr	2	ロイド	Lloyd Irving	personagem	CRLF x2	俺は、ロイド。\nロイド・アーヴィング。\nよろしくな	I'm Lloyd.\nLloyd Irving.\nNice to meet you!	
+mev06_090.scr:3	mev06_090.scr	3	コレット	Colette Brunel	personagem	CRLF x2	私はコレット。\nコレット・ブルーネルです。\nこれからお世話になります	I am Colette.\nColette Brunel.\nI'll be in your care from now on.	
+mev06_090.scr:4	mev06_090.scr	4	すず	Suzu Fujibayashi	personagem		藤林　すずです	I am Suzu Fujibayashi.	
+mev06_090.scr:5	mev06_090.scr	5	すず	Suzu Fujibayashi	personagem	CRLF x2	故郷を出るのは初めてです。\nここで、外の世界について\n勉強させて下さい	This is my first time leaving my homeland.\nPlease allow me to learn about\nthe outside world here.	
+mev06_090.scr:6	mev06_090.scr	6	しいな	Sheena Fujibayashi	personagem	CRLF x1	あたしとすずは姓が一緒だけど、\n繋がりはないんだ	Suzu and I share the same surname,\nbut we aren't related.	
+mev06_090.scr:7	mev06_090.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x1	これは「あざな」で、\nあたしらの本名は、また違うんだよ	It is an alias.\nOur true names are entirely different.	
+mev06_090.scr:8	mev06_090.scr	8	すず	Suzu Fujibayashi	personagem	CRLF x2	本名は、本人や両親、名付け親、頭領の他、\n結婚相手のみしか知る事はありません。\nご了承下さい	True names are known only to oneself,\nparents, godparents, Chief, and spouse.\nWe ask for your understanding.	
+mev06_090.scr:9	mev06_090.scr	9	アンジュ	Ange Serena	personagem		へえぇ、変わった習慣ね	My, what a peculiar custom.	
+mev06_090.scr:10	mev06_090.scr	10	しいな	Sheena Fujibayashi	personagem		精霊の居場所は、文献から特定しておくれ	Find where spirits dwell from the texts.	
+mev06_090.scr:11	mev06_090.scr	11	しいな	Sheena Fujibayashi	personagem	CRLF x1	暗号になっていて、\nあたしでは正確にわからないんだ	It's written in cipher,\nso I can't decipher it accurately.	
+mev06_090.scr:12	mev06_090.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	ありがとう。\n文献の解読はみんなで行うわ	Thank you.\nWe shall all work together to decode it.	
+mev06_090.scr:13	mev06_090.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	それじゃあ、部屋は自由に使ってね。\nごゆっくり	Feel free to make yourselves at home.\nRest up and take your time!	
+mev06_090.scr:14	mev06_090.scr	14	(mensagem de sistema)	(mensagem de sistema)	sistema		しいながアドリビトムに加入しました	Sheena has joined Ad Libitum.	
+mev06_090.scr:15	mev06_090.scr	15	(mensagem de sistema)	(mensagem de sistema)	sistema		ロイドがアドリビトムに加入しました	Lloyd has joined Ad Libitum.	
+mev06_090.scr:16	mev06_090.scr	16	(mensagem de sistema)	(mensagem de sistema)	sistema		コレットがアドリビトムに加入しました	Colette has joined Ad Libitum.	
+mev06_090.scr:17	mev06_090.scr	17	(mensagem de sistema)	(mensagem de sistema)	sistema		すずがアドリビトムに加入しました	Suzu has joined Ad Libitum.	
+mev06_100.scr:0	mev06_100.scr	0	リタ	Rita Mordio	personagem	CRLF x1	ねえ、しいな。\n光気丹術について聞きたいんだけど	Hey, Sheena.\nI want to ask you about Light Alchemy.	
+mev06_100.scr:1	mev06_100.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	悪いね。\nあれは、外部の者には教えられないんだ	Sorry.\nI can't teach that to outsiders.	
+mev06_100.scr:2	mev06_100.scr	2	リタ	Rita Mordio	personagem		興味本位で言ってるんじゃないわ	I'm not asking out of idle curiosity.	
+mev06_100.scr:3	mev06_100.scr	3	リタ	Rita Mordio	personagem	CRLF x2	今、ヒトや植物、ううん、それだけじゃない。\nあらゆるモノを変異させてしまう現象が\n各地で起こってるの	Across the world, people, plants, and all\nmanner of things are mutating right now.\nIt's happening everywhere.	
+mev06_100.scr:4	mev06_100.scr	4	しいな	Sheena Fujibayashi	personagem		何だって…？	What did you say...?	
+mev06_100.scr:5	mev06_100.scr	5	リタ	Rita Mordio	personagem	CRLF x2	その仕組みはわかってないけど、\nひょっとしたらあんたの里に伝わるそれが、\n解決の糸口になるかもしれないのよ	We don't understand the mechanism, but\nwhat's handed down in your village\nmight be the clue to solving it!	
+mev06_100.scr:6	mev06_100.scr	6	しいな	Sheena Fujibayashi	personagem	CRLF x1	○○。\n本当の話かい	○○.\nIs that really true?	
+mev06_100.scr:7	mev06_100.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x1	わかった。\nあんたを信じるよ	Understood.\nI believe you.	
+mev06_100.scr:8	mev06_100.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x1	わかった。\nそういう事なら協力するよ	Understood.\nIf that's the case, I'll cooperate.	
+mev06_100.scr:9	mev06_100.scr	9	しいな	Sheena Fujibayashi	personagem		これが「光気丹術経」	This is the Tome of Light Alchemy.	
+mev06_100.scr:10	mev06_100.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x2	人工精霊の作り方や何やら載ってるけど、\nあんたにわかるかい？\nあたしには、さっぱりだよ	It details making artificial spirits,\nbut can you make sense of it?\nIt's completely beyond me.	
+mev06_100.scr:11	mev06_100.scr	11	リタ	Rita Mordio	personagem	CRLF x1	わからないならわかるまで、\n調べ尽くすまでよ	If I don't understand it, I'll research\nuntil I do. That's all there is to it.	
+mev06_100.scr:12	mev06_100.scr	12	リタ	Rita Mordio	personagem	CRLF x1	他に、あの怪現象を解明する手立てが\nないんだもの	We have no other way\nto unravel this mystery, after all.	
+mev06_100.scr:13	mev06_100.scr	13	(opcao do jogador)	(opcao do jogador)	escolha		うなずく	Nod in agreement	
+mev06_100.scr:14	mev06_100.scr	14	(opcao do jogador)	(opcao do jogador)	escolha		しいなに協力を請う	Ask for Sheena's cooperation	
+mev06_110.scr:0	mev06_110.scr	0	リタ	Rita Mordio	personagem	CRLF x2	光気丹術経、ざっと目を通してみたけど。\nやっぱり、これはソウルアルケミーの\n技術の一端よ	I skimmed the Tome of Light Alchemy.\nAs expected, it is a facet of the\nart of Soul Alchemy.	
+mev06_110.scr:1	mev06_110.scr	1	メルディ	Meredy	personagem	CRLF x1	こないだが聞いた、\n魔術の曙な技術だな！	That's the art called dawn of magic\nwe heard about recently, yeah!	
+mev06_110.scr:2	mev06_110.scr	2	アンジュ	Ange Serena	personagem		でも、それは一体どういうものなの？	What kind of art is that, exactly?	
+mev06_110.scr:3	mev06_110.scr	3	リタ	Rita Mordio	personagem	CRLF x2	根底にある理論として、\nまず全ての物質は「ドクメント」を\n持ってる、って事よ	As its fundamental theory,\nall matter possesses a Document\nto begin with.	
+mev06_110.scr:4	mev06_110.scr	4	アンジュ	Ange Serena	personagem		ドクメント？	A Document?	
+mev06_110.scr:5	mev06_110.scr	5	ハロルド	Harold Berselius	personagem		見せた方が早いんじゃない？	Wouldn't showing it be much faster?	
+mev06_110.scr:6	mev06_110.scr	6	リタ	Rita Mordio	personagem	CRLF x1	そうね、じゃあメルディ。\nちょっと協力して	True. Meredy,\nlend me a hand for a moment.	
+mev06_110.scr:7	mev06_110.scr	7	メルディ	Meredy	personagem		はいな！	Sure thing!	
+mev06_120.scr:0	mev06_120.scr	0	リタ	Rita Mordio	personagem		見てて	Watch closely.	
+mev06_120.scr:1	mev06_120.scr	1	メルディ	Meredy	personagem	CRLF x1	バイバ！\nメルディが周りに輪っかが出来たよぅ	Baiba!\nA ring appeared around Meredy, wow!	
+mev06_120.scr:2	mev06_120.scr	2	リタ	Rita Mordio	personagem	CRLF x2	これが、ドクメント。\nメルディの情報、あるいは設計書\nみたいなものと思って	This is a Document.\nThink of it as Meredy's information,\nor an informational blueprint.	
+mev06_120.scr:3	mev06_120.scr	3	リタ	Rita Mordio	personagem	CRLF x1	物質はまず、このドクメントという\nエネルギー体ありきなの	All matter exists primarily through\nthis energy body known as a Document.	
+mev06_120.scr:4	mev06_120.scr	4	リタ	Rita Mordio	personagem	CRLF x1	自分の設計書を持って、みんな生まれてくる。\nこれは生命の営みでもあるの	Everyone is born with their own blueprint.\nIt is the very essence of life.	
+mev06_120.scr:5	mev06_120.scr	5	リタ	Rita Mordio	personagem		そして、さらに細かく見ると…	Looking even closer...	
+mev06_120.scr:6	mev06_120.scr	6	リタ	Rita Mordio	personagem	CRLF x1	これは潜在能力とか、病気になりうる要素とか、\n設計書のさらに細かい所ね	Here are latent talents, disease factors,\nand other finer details of the blueprint.	
+mev06_120.scr:7	mev06_120.scr	7	リタ	Rita Mordio	personagem	CRLF x1	ドクメントと物質体は、\n互いにフィードバックしあってるの	A Document and its physical form\nconstantly provide feedback to each other.	
+mev06_120.scr:8	mev06_120.scr	8	リタ	Rita Mordio	personagem	CRLF x2	治癒術ってのは、実はここに干渉して\n傷や疲労を治したりするの。\nみんな知らずに使ってるけど	Healing artes actually interfere here\nto heal wounds and fatigue.\nPeople use them without ever knowing.	
+mev06_120.scr:9	mev06_120.scr	9	ハロルド	Harold Berselius	personagem	CRLF x2	いわゆる「呪い」って奴も、\n実はこのドクメントに干渉して\n相手にダメージを刷り込むわけ	What we call a 'curse' also interferes\nwith this Document to imprint damage\nupon an opponent.	
+mev06_120.scr:10	mev06_120.scr	10	リタ	Rita Mordio	personagem	CRLF x2	このソウルアルケミーは、\nドクメントをいじったり、\n作り出したりする技術	This Soul Alchemy is the technique\nof manipulating\nand creating Documents.	
+mev06_120.scr:11	mev06_120.scr	11	リタ	Rita Mordio	personagem	CRLF x1	ミブナの里に伝わる人工精霊も\nこれの応用よ	The artificial spirits of Mibuna Village\nare an application of this.	
+mev06_120.scr:12	mev06_120.scr	12	ハロルド	Harold Berselius	personagem	CRLF x2	ドクメントの中の、\nヒトをヒトたらしめている設計を\nいじる事が出来るんだもの	After all, you can alter the design\nwithin a Document\nthat makes a human human.	
+mev06_120.scr:13	mev06_120.scr	13	ハロルド	Harold Berselius	personagem	CRLF x1	ヒトの存在や形を変えてしまう事も\n出来るかもしれないわね	It could very well be capable of\naltering a human's form and existence.	
+mev06_120.scr:14	mev06_120.scr	14	アンジュ	Ange Serena	personagem	CRLF x2	なるほど。\n生物変化は、この仕組みで\n起こっているかもしれないのね	I see.\nCreature mutations might be occurring\nthrough this very mechanism.	
+mev06_120.scr:15	mev06_120.scr	15	リタ	Rita Mordio	personagem		じゃあ、ドクメントを閉じるわね	Now then, I'll close the Document.	
+mev06_130.scr:0	mev06_130.scr	0	メルディ	Meredy	personagem		メルディ、何か、クラクラするよ〜	Meredy feel all dizzy...	
+mev06_130.scr:1	mev06_130.scr	1	リタ	Rita Mordio	personagem	CRLF x1	ごめん。\n無理をさせてしまったわね	Sorry.\nI pushed you too hard.	
+mev06_130.scr:2	mev06_130.scr	2	リタ	Rita Mordio	personagem	CRLF x2	本来、不可視のものを、今は無理矢理\n可視状態にしてるから、被験者には\n負担がかかってしまうのよ	Forcing something invisible to manifest\nin a visible state places quite a burden\nupon the subject.	
+mev06_130.scr:3	mev06_130.scr	3	ハロルド	Harold Berselius	personagem	CRLF x2	細かいドクメントの展開も危険ね。\n本当は細かいトコまで解析させて\nもらいたいけど	Unfolding detailed Documents is risky too.\nThough I'd love to analyze those fine\ndetails thoroughly, truth be told.	
+mev06_130.scr:4	mev06_130.scr	4	アンジュ	Ange Serena	personagem		人工精霊は、どうやって出来ているの？	How are artificial spirits created?	
+mev06_130.scr:5	mev06_130.scr	5	ハロルド	Harold Berselius	personagem	CRLF x1	人工精霊は、人工的にドクメントを作り出す\nところから始まるわ	Creating an artificial spirit begins\nby fashioning an artificial Document.	
+mev06_130.scr:6	mev06_130.scr	6	ハロルド	Harold Berselius	personagem	CRLF x2	ドクメントは、精妙な非物質エネルギー。\n術者の念、自然界の気なんかを\n掛け合わせてドクメントを作るの	A Document is subtle immaterial energy.\nYou combine intent and natural energy\nto construct a Document.	
+mev06_130.scr:7	mev06_130.scr	7	ハロルド	Harold Berselius	personagem	CRLF x2	んで、その人工ドクメントエネルギーの\n振動数を、濃密な状態へ落とすと\n実体化するってワケ	Then, lowering the vibration of that\nartificial Document energy to a dense\nstate materializes it.	
+mev06_130.scr:8	mev06_130.scr	8	ハロルド	Harold Berselius	personagem	CRLF x2	あ、ほら。\n聖者が何もない所から、食べ物や衣類を出して\n人々に与えたって話とかあるでしょ？	You know the legends of saints producing\nfood and clothing out of nothing\nto grant to the people?	
+mev06_130.scr:9	mev06_130.scr	9	ハロルド	Harold Berselius	personagem		あれは、この技術の為と言われてるわ	They say that was thanks to this art.	
+mev06_130.scr:10	mev06_130.scr	10	ハロルド	Harold Berselius	personagem	CRLF x1	マナ、自然界の気、術者の意識をもって\n非物質状態でドクメントを構成して	With mana, nature's energy, and intent,\nyou construct a Document immaterially,	
+mev06_130.scr:11	mev06_130.scr	11	ハロルド	Harold Berselius	personagem	CRLF x1	そのドクメントの振動数を落としてやると\n物質になっていくのよ	and lowering its vibrational frequency\nturns it into physical matter.	
+mev06_130.scr:12	mev06_130.scr	12	アンジュ	Ange Serena	personagem		それは……神の力…？	Is that... the power of gods...?	
+mev06_130.scr:13	mev06_130.scr	13	リタ	Rita Mordio	personagem	CRLF x1	まあ、術者の精神力や技量によって\nまちまちよ	Well, it varies greatly depending on\nthe caster's willpower and skill.	
+mev06_130.scr:14	mev06_130.scr	14	リタ	Rita Mordio	personagem	CRLF x2	そこまでの力を持つ様な\n精神力の持ち主は\n滅多にいないと思うわ	Hardly anyone possesses\nthe mental fortitude required\nto wield such great power.	
+mev06_130.scr:15	mev06_130.scr	15	リタ	Rita Mordio	personagem	CRLF x1	この技術は、そうそう簡単に\n使えるもんじゃないわね	This art isn't something\nanyone can just pick up and use.	
+mev06_140.scr:0	mev06_140.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	キール君、\n精霊の居場所の特定は\nまだかなあ？	Keele,\nhave you located\nwhere the spirits dwell yet?	
+mev06_140.scr:1	mev06_140.scr	1	キール	Keele Zeibel	personagem	CRLF x2	まだかかりそうだ。\nミブナの里の文献は、この上なく\nひねくれた暗号で書かれてるからな	It will take more time.\nThe texts from Mibuna Village are written\nin an exceedingly convoluted cipher.	
+mev06_140.scr:2	mev06_140.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x2	容易に秘密を知られては困りますので、\n身内にもわからない様に\n記してあるはずです	Secrets must not be easily revealed,\nso it was recorded to be unintelligible\neven to our own people.	
+mev06_140.scr:3	mev06_140.scr	3	キール	Keele Zeibel	personagem	CRLF x1	しかし、これじゃあ書いた本人も、\n解読法を忘れるんじゃないのか…？	At this rate, even the author would\nforget how to decode it, wouldn't they...?	
+mev06_140.scr:4	mev06_140.scr	4	すず	Suzu Fujibayashi	personagem	CRLF x2	アンジュさん。\n「例の存在に会いたい」と護衛の依頼が\n届きました	Ange.\nAn escort request arrived seeking\nto meet 'that very entity.'	
+mev06_140.scr:5	mev06_140.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	赤い煙…。\n願いを叶えるという存在ね…	The red smoke...\nThe entity said to grant wishes...	
+mev06_140.scr:6	mev06_140.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	…依頼内容によれば、場所はルバーブ連山ね。\n依頼者には悪いけど、わたし達は、\nその存在を追いましょう！	According to the request, the location\nis Rhubarb Mountains. We must pursue that\nentity, even if we turn the client away!	
+mev06_140.scr:7	mev06_140.scr	7	すず	Suzu Fujibayashi	personagem		了解しました	Understood.	
+mev06_140.scr:8	mev06_140.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	ルバーブ連山。\nあそこに、いるというわけね…	Rhubarb Mountains.\nSo it has appeared there...	
+mev06_140.scr:9	mev06_140.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	これでまた噂が広まれば、\n向かう人々が増えてしまう…	If rumors spread further,\nmore people will flock there...	
+mev06_140.scr:10	mev06_140.scr	10	アンジュ	Ange Serena	personagem		これ以上、接触はさせない様にしないと…	We must prevent anyone from touching it...	

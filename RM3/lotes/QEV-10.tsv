@@ -1,0 +1,148 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev10_010.scr:0	qev10_010.scr	0	アッシュ	Asch	personagem		本当に……、それでいいんだな		
+qev10_010.scr:1	qev10_010.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	ええ。\n私は決めたのです。もう逃げない、と		
+qev10_010.scr:2	qev10_010.scr	2	アッシュ	Asch	personagem		……そうか		
+qev10_010.scr:3	qev10_010.scr	3	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	アッシュ。\nあなたは十分、王にふさわしい資質を\n持っています		
+qev10_010.scr:4	qev10_010.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		ですから、どうか……		
+qev10_010.scr:5	qev10_010.scr	5	ルーク	Luke fon Fabre	personagem		……そーいう事かよ		
+qev10_010.scr:6	qev10_010.scr	6	アッシュ	Asch	personagem	CRLF x2	……盗み聞きとは恐れ入るな。\nお前の性根は、\nどこまで腐っていやがるんだ		
+qev10_010.scr:7	qev10_010.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x2	聞きたくて聞いたんじゃねえ！\nお前らが勝手に話してたのが\n悪いんだろ！？		
+qev10_010.scr:8	qev10_010.scr	8	ルーク	Luke fon Fabre	personagem	CRLF x1	二人で隠れてコソコソと……。\n胸糞悪ぃ……！！		
+qev10_010.scr:9	qev10_010.scr	9	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	ルーク、違いますのよ！\n私達は……		
+qev10_010.scr:10	qev10_010.scr	10	アッシュ	Asch	personagem	CRLF x1	胸糞悪いのはどっちだ。\n責任転嫁も大概にしやがれ！		
+qev10_010.scr:11	qev10_010.scr	11	アッシュ	Asch	personagem	CRLF x1	いつまでもそうして甘ったれて、\nナタリア一人に国の未来を背負わせて！！		
+qev10_010.scr:12	qev10_010.scr	12	アッシュ	Asch	personagem	CRLF x1	それで文句を言おうなんざ、\n虫が良過ぎるんだよ！		
+qev10_010.scr:13	qev10_010.scr	13	ルーク	Luke fon Fabre	personagem		な……		
+qev10_010.scr:14	qev10_010.scr	14	ルーク	Luke fon Fabre	personagem		何だと！？		
+qev10_010.scr:15	qev10_010.scr	15	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		二人共、喧嘩はおやめになって！		
+qev10_010.scr:16	qev10_010.scr	16	ルーク	Luke fon Fabre	personagem	CRLF x2	っるせえ！\nナタリアだって、本当は\n俺がいなくなればいいと思ってんだろ！？		
+qev10_010.scr:17	qev10_010.scr	17	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		そんなこと……！		
+qev10_010.scr:18	qev10_010.scr	18	アッシュ	Asch	personagem	CRLF x2	もういい、ナタリア。\n馬鹿に構うな。\n時間の無駄だ		
+qev10_010.scr:19	qev10_010.scr	19	ルーク	Luke fon Fabre	personagem	CRLF x2	っくそ……。\nみんな、俺を馬鹿にしやがって……。\n俺は……		
+qev10_010.scr:20	qev10_010.scr	20	ルーク	Luke fon Fabre	personagem	CRLF x1	俺が……！\n第一王位継承者なんだぞ！！		
+qev10_010.scr:21	qev10_010.scr	21	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		ルーク……		
+qev10_010.scr:22	qev10_010.scr	22	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「二人の王」が\nエントリーされました。\nアンジュから受ける事が出来ます		
+qev10_020.scr:0	qev10_020.scr	0	ルーク	Luke fon Fabre	personagem	CRLF x2	師匠！\n何で俺が、こいつなんかと\n一緒に行かなくちゃなんねーんだ！		
+qev10_020.scr:1	qev10_020.scr	1	アッシュ	Asch	personagem		それはこっちの台詞だ		
+qev10_020.scr:2	qev10_020.scr	2	ルーク	Luke fon Fabre	personagem		何！？		
+qev10_020.scr:3	qev10_020.scr	3	ヴァン	Van Grants	personagem		二人とも、落ち着きなさい		
+qev10_020.scr:4	qev10_020.scr	4	ヴァン	Van Grants	personagem	CRLF x1	何の為にここへ来たのか\nよもや、忘れたわけではあるまい？		
+qev10_020.scr:5	qev10_020.scr	5	ヴァン	Van Grants	personagem	CRLF x2	いずれは国の行く末を担うお前達に\n世界を見、人と触れ、見聞を広げよと\n陛下がお心を砕いて下さったのだ		
+qev10_020.scr:6	qev10_020.scr	6	ヴァン	Van Grants	personagem	CRLF x1	その事を、二人ともが\nもっとよく理解する必要がある様だな		
+qev10_020.scr:7	qev10_020.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x1	そんなん、する必要なんかねーよ。\n……うぜーっつの		
+qev10_020.scr:8	qev10_020.scr	8	アッシュ	Asch	personagem		ふん……		
+qev10_020.scr:9	qev10_020.scr	9	ヴァン	Van Grants	personagem		とにかく、話は目的地へ着いてからだ		
+qev10_020.scr:10	qev10_020.scr	10	ヴァン	Van Grants	personagem	CRLF x1	○○、すまないが\n二人をよろしく頼む		
+qev10_030.scr:0	qev10_030.scr	0	ルーク	Luke fon Fabre	personagem		おい		
+qev10_030.scr:1	qev10_030.scr	1	ルーク	Luke fon Fabre	personagem		おい！　聞こえねーのかよ！		
+qev10_030.scr:2	qev10_030.scr	2	アッシュ	Asch	personagem	CRLF x2	……うるせえ！\nガタガタわめくな。\n少し静かにしていろ、馬鹿が		
+qev10_030.scr:3	qev10_030.scr	3	ルーク	Luke fon Fabre	personagem		お前が無視すっからだろ！？		
+qev10_030.scr:4	qev10_030.scr	4	アッシュ	Asch	personagem	CRLF x2	その耳障りな馬鹿声で、いたずらに魔物を\n刺激するなと言っているんだ。\nそんな事もわからないのか……！		
+qev10_030.scr:5	qev10_030.scr	5	アッシュ	Asch	personagem		貴様、ヴァンから一体何を学んできた		
+qev10_030.scr:6	qev10_030.scr	6	ルーク	Luke fon Fabre	personagem		何っ！？		
+qev10_030.scr:7	qev10_030.scr	7	(ator 200)	(ator 200)	desconhecido		…………		
+qev10_030.scr:8	qev10_030.scr	8	アッシュ	Asch	personagem	CRLF x1	……ちっ。\nとにかく先へ進むぞ		
+qev10_030.scr:9	qev10_030.scr	9	ルーク	Luke fon Fabre	personagem	CRLF x1	いちいちお前に言われなくても、\nわかってるっつーの		
+qev10_030.scr:10	qev10_030.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x1	おい、○○。\nお前も遅れんじゃねーぞ！		
+qev10_040.scr:0	qev10_040.scr	0	アッシュ	Asch	personagem		おい……、お前に聞きたい事がある		
+qev10_040.scr:1	qev10_040.scr	1	アッシュ	Asch	personagem		お前は、ナタリアをどう思っているんだ		
+qev10_040.scr:2	qev10_040.scr	2	ルーク	Luke fon Fabre	personagem		どうって、どーいう意味だよ？		
+qev10_040.scr:3	qev10_040.scr	3	アッシュ	Asch	personagem	CRLF x1	決まっているだろう。\n国を……		
+qev10_040.scr:4	qev10_040.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x2	はっ。\nんなの、いちいち聞かれなくても\nわかってるよ！		
+qev10_040.scr:5	qev10_040.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x1	別に何とも思っちゃいねーよ！\n誰かさんと違ってな！		
+qev10_040.scr:6	qev10_040.scr	6	アッシュ	Asch	personagem	CRLF x2	……っ、この馬鹿が！！\nナタリアと婚約しているお前が\nゆくゆくは王位を継ぐんだぞ		
+qev10_040.scr:7	qev10_040.scr	7	アッシュ	Asch	personagem	CRLF x1	あいつは国の将来を案じ、\n何か行動を起こせないかと模索している		
+qev10_040.scr:8	qev10_040.scr	8	アッシュ	Asch	personagem	CRLF x2	そんなあいつを見て、\nお前は何も考えないのかと\n聞いているんだ！		
+qev10_040.scr:9	qev10_040.scr	9	ルーク	Luke fon Fabre	personagem	CRLF x1	知らねーっつの！\nうぜぇんだよ、そういうの！		
+qev10_040.scr:10	qev10_040.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x2	大体、好きで今の立場に\n生まれたわけじゃねえし、\nナタリアとの婚約も俺の意志じゃねえ		
+qev10_040.scr:11	qev10_040.scr	11	ルーク	Luke fon Fabre	personagem	CRLF x1	何で俺がそんな事で、\nいちいち悩まなくちゃなんねーんだよ！		
+qev10_040.scr:12	qev10_040.scr	12	アッシュ	Asch	personagem		お前の言い分はよくわかった		
+qev10_040.scr:13	qev10_040.scr	13	アッシュ	Asch	personagem		……お前が心底、屑だって事もな		
+qev10_040.scr:14	qev10_040.scr	14	ルーク	Luke fon Fabre	personagem	CRLF x1	俺に……、どうしろってんだよ。\n第一王位継承者は俺だ……だけど		
+qev10_040.scr:15	qev10_040.scr	15	ルーク	Luke fon Fabre	personagem		本当は……、お前の方が……		
+qev10_040.scr:16	qev10_040.scr	16	ルーク	Luke fon Fabre	personagem		ああもう、くそっ		
+qev10_041.scr:0	qev10_041.scr	0	ルーク	Luke fon Fabre	personagem		おい、お前はどうしたいんだよ		
+qev10_041.scr:1	qev10_041.scr	1	アッシュ	Asch	personagem		屑に聞かせる義理はない		
+qev10_041.scr:2	qev10_041.scr	2	ルーク	Luke fon Fabre	personagem	CRLF x1	何なんだよその態度はよ。\n人がフツーに接してやってんのに！		
+qev10_041.scr:3	qev10_041.scr	3	アッシュ	Asch	personagem		頼んだ覚えはない		
+qev10_041.scr:4	qev10_041.scr	4	アッシュ	Asch	personagem	CRLF x1	第一、話以前にお前は\n王族としての自覚がなさ過ぎる		
+qev10_041.scr:5	qev10_041.scr	5	アッシュ	Asch	personagem		少しは自分の立場というものを考えろ！		
+qev10_041.scr:6	qev10_041.scr	6	ルーク	Luke fon Fabre	personagem	CRLF x2	立場とか、どっちが先に生まれたとか。\nそんなつまんねえ事実を聞いてるんじゃねえ。\n俺は、お前がどうしたいかを聞いてんだ		
+qev10_041.scr:7	qev10_041.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x2	それとも何か？\nお前にとって大事なのは\n自分の肩書きだけなのかよ		
+qev10_041.scr:8	qev10_041.scr	8	アッシュ	Asch	personagem	CRLF x1	何を言うかと思えば……。\n屑の言う事は、所詮屑だな		
+qev10_041.scr:9	qev10_041.scr	9	アッシュ	Asch	personagem	CRLF x1	お前が思ってる程、簡単じゃねえんだよ！\n人も、国も！！		
+qev10_041.scr:10	qev10_041.scr	10	ルーク	Luke fon Fabre	personagem		はっ		
+qev10_041.scr:11	qev10_041.scr	11	ルーク	Luke fon Fabre	personagem	CRLF x1	……てめえはお堅く\n考え過ぎなんだっつーの！！		
+qev10_041.scr:12	qev10_041.scr	12	(ator 200)	(ator 200)	desconhecido		……！		
+qev10_041.scr:13	qev10_041.scr	13	(ator 200)	(ator 200)	desconhecido		…………		
+qev10_041.scr:14	qev10_041.scr	14	ルーク	Luke fon Fabre	personagem	CRLF x2	何だよ。\n別に……、本気でやり合う\nつもりなんかねーよ		
+qev10_041.scr:15	qev10_041.scr	15	アッシュ	Asch	personagem	CRLF x1	……とにかく、\n真相はヴァンから明かされる		
+qev10_041.scr:16	qev10_041.scr	16	アッシュ	Asch	personagem		話はそれからだ		
+qev10_041.scr:17	qev10_041.scr	17	ルーク	Luke fon Fabre	personagem	CRLF x1	けっ。\n……わーったよ		
+qev10_050.scr:0	qev10_050.scr	0	ヴァン	Van Grants	personagem		……これが、お前達の力か		
+qev10_050.scr:1	qev10_050.scr	1	ヴァン	Van Grants	personagem		フッ……、なるほどな		
+qev10_050.scr:2	qev10_050.scr	2	ルーク	Luke fon Fabre	personagem	CRLF x1	……はぁ、はぁ……。\nそれで……師匠……		
+qev10_050.scr:3	qev10_050.scr	3	アッシュ	Asch	personagem		……約束だ、……話してもらうぞ		
+qev10_050.scr:4	qev10_050.scr	4	ヴァン	Van Grants	personagem	CRLF x2	今回の旅の目的は、他でもない……。\n陛下たっての希望で、私達は今こうしている。\nそう……		
+qev10_050.scr:5	qev10_050.scr	5	ヴァン	Van Grants	personagem	CRLF x1	二人のうち、どちらが王としてふさわしいか。\nそれを見極める為に		
+qev10_050.scr:6	qev10_050.scr	6	ルーク	Luke fon Fabre	personagem	CRLF x1	待ってくれよ……。\nそれじゃ、俺は王になれないって事なのか？		
+qev10_050.scr:7	qev10_050.scr	7	ヴァン	Van Grants	personagem	CRLF x2	そうは言っていない。\nただ資質を見せてもらっているまでの事。\n世襲で政は良くはならんのが通例だ		
+qev10_050.scr:8	qev10_050.scr	8	ヴァン	Van Grants	personagem	CRLF x2	……もとより、ルーク。\nお前も今の立場にあぐらをかいて\n王になろうだなどと……		
+qev10_050.scr:9	qev10_050.scr	9	ヴァン	Van Grants	personagem		よもや、思ってはいないだろう？		
+qev10_050.scr:10	qev10_050.scr	10	ルーク	Luke fon Fabre	personagem		そ、それは……		
+qev10_050.scr:11	qev10_050.scr	11	アッシュ	Asch	personagem	CRLF x1	つまり、よりふさわしい資質を\n持った者が、王になる資格を得る……		
+qev10_050.scr:12	qev10_050.scr	12	アッシュ	Asch	personagem		そういう事なんだな？		
+qev10_050.scr:13	qev10_050.scr	13	ヴァン	Van Grants	personagem	CRLF x1	端的に言えばそういう事だ。\nそして…		
+qev10_050.scr:14	qev10_050.scr	14	ヴァン	Van Grants	personagem	CRLF x1	今回剣を交えた事で、その答えも\n大方私には見えてきたと思っている		
+qev10_050.scr:15	qev10_050.scr	15	ルーク	Luke fon Fabre	personagem		…………！		
+qev10_050.scr:16	qev10_050.scr	16	アッシュ	Asch	personagem		それじゃあ……！		
+qev10_050.scr:17	qev10_050.scr	17	ヴァン	Van Grants	personagem		二人とも、失格だ		
+qev10_050.scr:18	qev10_050.scr	18	ヴァン	Van Grants	personagem	CRLF x2	身近な人間といがみ合う事しか\n出来ぬお前達が、他者と協調し\n国をより良くしていく事など出来るのか？		
+qev10_050.scr:19	qev10_050.scr	19	ヴァン	Van Grants	personagem		私には、そうは思えんな		
+qev10_050.scr:20	qev10_050.scr	20	ルーク	Luke fon Fabre	personagem		……そんな……		
+qev10_050.scr:21	qev10_050.scr	21	アッシュ	Asch	personagem	CRLF x1	……そういう事だったのかよ……！\nクソッ……！		
+qev10_050.scr:22	qev10_050.scr	22	ヴァン	Van Grants	personagem	CRLF x1	手を煩わせたな、○○。\nすまなかった		
+qev10_050.scr:23	qev10_050.scr	23	ヴァン	Van Grants	personagem	CRLF x1	目的は果たした。\n船へ戻るぞ		
+qev10_060.scr:0	qev10_060.scr	0	アッシュ	Asch	personagem	CRLF x1	……おい、ヴァン。\n俺はもう休むからな		
+qev10_060.scr:1	qev10_060.scr	1	ヴァン	Van Grants	personagem	CRLF x1	ああ……。\nそうするといい		
+qev10_060.scr:2	qev10_060.scr	2	ルーク	Luke fon Fabre	personagem		師匠……		
+qev10_060.scr:3	qev10_060.scr	3	ヴァン	Van Grants	personagem		どうした、ルーク		
+qev10_060.scr:4	qev10_060.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x1	師匠は……俺の事……。\n…………		
+qev10_060.scr:5	qev10_060.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x1	いや……。\nやっぱり何でもない		
+qev10_060.scr:6	qev10_060.scr	6	ヴァン	Van Grants	personagem	CRLF x1	やはり、どちらも心の迷いが\n顔に出ているな……		
+qev10_060.scr:7	qev10_060.scr	7	ヴァン	Van Grants	personagem		思った通り、二人ともまだ、幼い		
+qev10_060.scr:8	qev10_060.scr	8	(ator 200)	(ator 200)	desconhecido		…………		
+qev10_060.scr:9	qev10_060.scr	9	ヴァン	Van Grants	personagem	CRLF x2	今回の一件が、二人にとって\n己と、ひいては互いと\n真に向き合う契機となればいいのだがな		
+qev10_060.scr:10	qev10_060.scr	10	ヴァン	Van Grants	personagem		その時こそ、私の悲願も……		
+qev10_060.scr:11	qev10_060.scr	11	(ator 200)	(ator 200)	desconhecido		……？		
+qev10_060.scr:12	qev10_060.scr	12	ヴァン	Van Grants	personagem	CRLF x2	フッ……。\nあえて陛下の敷いたレールの上を\n歩く必要もあるまい、という事だ		
+qev10_060.scr:13	qev10_060.scr	13	ヴァン	Van Grants	personagem	CRLF x2	どちらか一人がではなく、\n二人が心を一つとして\n国を治めるのも一つの道		
+qev10_060.scr:14	qev10_060.scr	14	(ator 200)	(ator 200)	desconhecido		…………		
+qev10_060.scr:15	qev10_060.scr	15	ヴァン	Van Grants	personagem	CRLF x2	未来とは定められたものではない。\nなれば、未来へ至る道も\n一つではないという事だ		
+qev10_060.scr:16	qev10_060.scr	16	ヴァン	Van Grants	personagem	CRLF x1	そう……。\n決して、一つなどではないのだよ……		
+qev10_060.scr:17	qev10_060.scr	17	ヴァン	Van Grants	personagem		ふっ……		
+qev10_060.scr:18	qev10_060.scr	18	ヴァン	Van Grants	personagem	CRLF x1	……それではな、○○。\nこの度の協力、感謝する		
+qev10_070.scr:0	qev10_070.scr	0	ヴァン	Van Grants	personagem		……来たか		
+qev10_070.scr:1	qev10_070.scr	1	ルーク	Luke fon Fabre	personagem		師匠、教えてくれ！		
+qev10_070.scr:2	qev10_070.scr	2	アッシュ	Asch	personagem	CRLF x1	ヴァン、答えろ！\n何のつもりでこんな真似をする		
+qev10_070.scr:3	qev10_070.scr	3	ヴァン	Van Grants	personagem		こんな真似とは？		
+qev10_070.scr:4	qev10_070.scr	4	アッシュ	Asch	personagem	CRLF x1	とぼけるな。\n散々、人を試す様な事をしやがって……		
+qev10_070.scr:5	qev10_070.scr	5	アッシュ	Asch	personagem	CRLF x2	民間のギルドに身を寄せるなどという\nふざけた提案を承諾したのもそうだ。\nそれが王位を継ぐ修行に何の関係がある？		
+qev10_070.scr:6	qev10_070.scr	6	アッシュ	Asch	personagem		一体お前は、何を企んでいるんだ		
+qev10_070.scr:7	qev10_070.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x2	うるせーっつの！\n師匠と話してるのは俺なんだ。\nお前は引っ込んでろ！！		
+qev10_070.scr:8	qev10_070.scr	8	アッシュ	Asch	personagem		黙れ屑！！		
+qev10_070.scr:9	qev10_070.scr	9	ヴァン	Van Grants	personagem	CRLF x1	やれやれ……。\nどうやら話をする雰囲気ではないらしい		
+qev10_070.scr:10	qev10_070.scr	10	ヴァン	Van Grants	personagem	CRLF x1	それではこうしよう、私を倒した方が\n事の真相を聞く権利を得る、というのは？		
+qev10_070.scr:11	qev10_070.scr	11	ヴァン	Van Grants	personagem		自信が無いのか？		
+qev10_070.scr:12	qev10_070.scr	12	ルーク	Luke fon Fabre	personagem		そんな事ありません！		
+qev10_070.scr:13	qev10_070.scr	13	アッシュ	Asch	personagem		俺はこんな屑とは違う！		
+qev10_070.scr:14	qev10_070.scr	14	ヴァン	Van Grants	personagem		ふっ、いいだろう		
+qev10_070.scr:15	qev10_070.scr	15	ヴァン	Van Grants	personagem	CRLF x1	ならば、全員まとめて相手をしよう。\n全力でかかってきなさい		
+qev10_070.scr:16	qev10_070.scr	16	アッシュ	Asch	personagem		ちっ……舐めやがって		
+qev10_070.scr:17	qev10_070.scr	17	アッシュ	Asch	personagem		その言葉……後悔させてやるぜ！！		
+qev10_070.scr:18	qev10_070.scr	18	ルーク	Luke fon Fabre	personagem	CRLF x1	やっぱ、こうなんのかよ……。\nどうして俺の話を聞いてくれないんだ？		
+qev10_070.scr:19	qev10_070.scr	19	ルーク	Luke fon Fabre	personagem		何でなんだよ、師匠……！		
+qev10_080.scr:0	qev10_080.scr	0	ヴァン	Van Grants	personagem		待っていたぞ		
+qev10_080.scr:1	qev10_080.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x1	師匠……、俺は……、\n今度こそ負けねえ！		
+qev10_080.scr:2	qev10_080.scr	2	アッシュ	Asch	personagem		足を引っ張るなよ、屑！		
+qev10_080.scr:3	qev10_080.scr	3	ルーク	Luke fon Fabre	personagem		屑って言うんじゃねえ！		

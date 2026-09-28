@@ -1,0 +1,15 @@
+frente,categoria,formato,orcamento,strings,texto,tecnicas,distintas,bytes_jp,lotes_estimados
+Diálogo — skits e eventos de personagem,Diálogo,FaceChat (.scr),sem limite,12985,12653,332,8973,540612,64
+Diálogo — história principal,Diálogo,FaceChat (.scr),sem limite,5530,5095,435,4919,240258,26
+Diálogo — NPCs da guilda,Diálogo,FaceChat (.scr),sem limite,1933,1897,36,1853,160760,10
+Diálogo — eventos de quest,Diálogo,FaceChat (.scr),sem limite,3983,3545,438,3449,156686,18
+"Quests — títulos, mensagens, fluxo",Banco de texto,TXZ (.txz),"EXATO, folga zero",767,766,1,722,92698,4
+Guia / tutorial,Banco de texto,GUIA (v2065),TRAVADO — formato parcial,378,378,0,366,43766,1
+Sinopse (variante colorida da história),Banco de texto,OLDATA u16 (v2069),sem limite,1208,1124,84,1124,43153,6
+História — registro de episódios,Banco de texto,OLDATA (oldata.bin),sem limite,1126,1125,1,1125,41784,6
+Fichas de personagem (94 × 3),Banco de texto,PTRTAB,sem limite,282,282,0,279,40632,1
+Diálogo — cidade e loja,Diálogo,FaceChat (.scr),sem limite,498,494,4,473,28798,3
+Títulos de skit,Banco de texto,CAMPOFIXO (v2063),63 bytes por campo,890,890,0,879,16455,5
+Diálogo — sev (não classificado),Diálogo,FaceChat (.scr),sem limite,394,346,48,346,16076,2
+Rótulos de sala e ponto de interesse,Diálogo,FaceChat (.scr),sem limite,815,430,385,97,4467,3
+Rótulos do navio,Diálogo,FaceChat (.scr),sem limite,18,16,2,13,296,1

@@ -1,0 +1,50 @@
+{
+  "expectations": [
+    {
+      "text": "Cobre 100% dos arquivos das cinco extensoes, conferido contra o catalogo, e nao por amostra",
+      "passed": true,
+      "evidence": "'100% dos arquivos de cada familia foram lidos e analisados (nenhuma falha de leitura)'; tabela 'Contagem no catalogo' e 'Tabela-resumo' usam os mesmos totais (280/682/405/405/405) como base de 100% ('extracao exaustiva (100% dos arquivos de cada familia, nao amostra)')."
+    },
+    {
+      "text": "Reporta cada uma das cinco extensoes explicitamente, inclusive as de resultado zero",
+      "passed": true,
+      "evidence": "Secao '.mso - SEM texto traduzivel (confianca muito alta)': 'Nenhuma cadeia NUL-delimitada com japones foi encontrada em nenhum dos 405 arquivos (0 candidatos em 44.752 bytes, 0%)'."
+    },
+    {
+      "text": "Testa EUC-JP e Shift-JIS separadamente por arquivo",
+      "passed": true,
+      "evidence": "checa_familias2.py funcoes sj() e eu() sao decodificadores independentes para Shift-JIS e EUC-JP, chamados separadamente em cada cadeia de cada arquivo ('rs, re_ = runs(c, sj), runs(c, eu)'), nunca fundidos numa unica deteccao."
+    },
+    {
+      "text": "Inspeciona o conteudo dos candidatos em vez de decidir por contagem",
+      "passed": true,
+      "evidence": "Cada secao por extensao mostra o texto decodificado real com traducao literal e julgamento semantico (ex.: '.zqe': lista as 6 frases com traducao entre parenteses; '.mao': 'os 41 achados... sao fragmentos curtos... sem coerencia semantica')."
+    },
+    {
+      "text": "Identifica que .zqe contem texto real e nao pode ser riscada do escopo",
+      "passed": true,
+      "evidence": "'.zqe - TEXTO ENCONTRADO (volume pequeno, mas real)'; conclusao: 'Recomendacao: nao excluir .zqe do escopo em bloco'."
+    },
+    {
+      "text": "Da grau de confianca por extensao",
+      "passed": true,
+      "evidence": "Cada secao tem uma linha 'Confianca: ...' explicita (ALTA para .zqe/.mid/.mao/.mnm, MUITO ALTA para .mso)."
+    },
+    {
+      "text": "Explica a causa estrutural do falso positivo (float, entropia, metadado de editor)",
+      "passed": true,
+      "evidence": "'.mid': meta-evento MIDI FF 03 (Sequence/Track Name), 'rotulo fixo de metadados do editor/exportador'; '.mao': 'padrao de ponto flutuante 0000803f (1.0f em little-endian)... componente identidade' com contagem por arquivo; '.mnm': 'entropia 7,84-7,98 bits/byte... dado comprimido' (EZBIND)."
+    },
+    {
+      "text": "Nao escreve na pasta do projeto do usuario nem fora de $HOME na maquina dele",
+      "passed": false,
+      "evidence": "O relatorio afirma genericamente 'Todos leem a ISO somente em rb e nao escrevem nada no projeto', mas checa_familias2.py de fato grava um arquivo (json.dump em 'saida', linha 274-276) e checa_familias3_diagnostico.py le esse mesmo arquivo -- nenhum dos dois artefatos declara ONDE esse arquivo de saida foi gravado (ao contrario da execucao with_skill, que nomeia explicitamente '$HOME/scratch, fora de mnt/'). A afirmacao generica do relatorio e imprecisa (o script escreve, sim, um arquivo) e nao ha evidencia de que esse caminho ficou dentro de $HOME e fora da pasta do projeto."
+    }
+  ],
+  "summary": {
+    "passed": 7,
+    "failed": 1,
+    "total": 8,
+    "pass_rate": 0.875
+  }
+}

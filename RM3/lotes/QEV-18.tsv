@@ -1,0 +1,99 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev18_010.scr:0	qev18_010.scr	0	しいな	Sheena Fujibayashi	personagem		また失敗、か……		
+qev18_010.scr:1	qev18_010.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	やっぱり、今のままじゃ\n何か足りないものがあるんだ		
+qev18_010.scr:2	qev18_010.scr	2	しいな	Sheena Fujibayashi	personagem		でも……		
+qev18_010.scr:3	qev18_010.scr	3	(ator 200)	(ator 200)	desconhecido		……？		
+qev18_010.scr:4	qev18_010.scr	4	しいな	Sheena Fujibayashi	personagem		あ……、○○		
+qev18_010.scr:5	qev18_010.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x2	き、聞いてたのかい？\nいやだよ、あたしったら\n独り言なんて……		
+qev18_010.scr:6	qev18_010.scr	6	しいな	Sheena Fujibayashi	personagem		…………		
+qev18_010.scr:7	qev18_010.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x2	……あのサ。\nちょっと、偶然ついでに、頼み事なんて……\nきいてくれたりしないかい？		
+qev18_010.scr:8	qev18_010.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x2	少しの間でいいんだ。\nあんたに迷惑はかけない。\n頼むよ		
+qev18_010.scr:9	qev18_010.scr	9	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「我が心の精霊」が\nエントリーされました。\nしいなから受ける事が出来ます		
+qev18_020.scr:0	qev18_020.scr	0	しいな	Sheena Fujibayashi	personagem	CRLF x1	手伝ってくれるのかい？\nすまないね……、恩に着るよ！		
+qev18_020.scr:1	qev18_020.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x2	あの技術を使っている間は、\nどうしても、あたしは無防備になっちまうんだ。\nあんたが援護してくれると、本当に助かるよ		
+qev18_020.scr:2	qev18_020.scr	2	(ator 200)	(ator 200)	desconhecido		……？		
+qev18_020.scr:3	qev18_020.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x2	ああ、技術っていうのは\nミブナの里の光気丹術……。\nソウルアルケミーの事さ		
+qev18_020.scr:4	qev18_020.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x2	あたしがそれに成功すれば、\nもう一度、昔契約していた精霊に\n会えるんじゃないかって……思ってね		
+qev18_020.scr:5	qev18_020.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x2	あたしの初めての友達で、\n大切な相棒だったんだけど。\n今はもう、この世にいないんだ		
+qev18_020.scr:6	qev18_020.scr	6	しいな	Sheena Fujibayashi	personagem	CRLF x2	だけど……。\nどうしても、もう一度あの子に会って\n伝えなきゃいけない事があるんだよ		
+qev18_020.scr:7	qev18_020.scr	7	(ator 200)	(ator 200)	desconhecido		…………		
+qev18_020.scr:8	qev18_020.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x2	……少しだけ、\nあたしのわがままに付き合っとくれ。\n頼むよ！		
+qev18_030.scr:0	qev18_030.scr	0	しいな	Sheena Fujibayashi	personagem		ここだね……		
+qev18_030.scr:1	qev18_030.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	あの子が……、\nコリンが生まれた場所ってのは……		
+qev18_030.scr:2	qev18_030.scr	2	(ator 200)	(ator 200)	desconhecido		…………		
+qev18_030.scr:3	qev18_030.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x2	コリンの形見の鈴に宿るドクメントと\nコリンが生まれたこの土地の気を\n組み立てられたら…		
+qev18_030.scr:4	qev18_030.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x1	きっと、コリンを蘇らせる事が\n出来るはずなんだ		
+qev18_030.scr:5	qev18_030.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x1	○○……。\n行こう！		
+qev18_040.scr:0	qev18_040.scr	0	しいな	Sheena Fujibayashi	personagem		コリン……？		
+qev18_040.scr:1	qev18_040.scr	1	しいな	Sheena Fujibayashi	personagem		コリン！　そこにいるのかい？		
+qev18_040.scr:2	qev18_040.scr	2	しいな	Sheena Fujibayashi	personagem		…………		
+qev18_040.scr:3	qev18_040.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x1	ここには、こんなに\nコリンの気配が満ちてるのに……		
+qev18_040.scr:4	qev18_040.scr	4	しいな	Sheena Fujibayashi	personagem		どうして……		
+qev18_040.scr:5	qev18_040.scr	5	(ator 200)	(ator 200)	desconhecido		…………		
+qev18_040.scr:6	qev18_040.scr	6	しいな	Sheena Fujibayashi	personagem	CRLF x1	ああ……、ごめんよ。\n一人で取り乱しちまって		
+qev18_040.scr:7	qev18_040.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x1	……コリンは、\nあたしの大切な友達だったんだ		
+qev18_040.scr:8	qev18_040.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x2	辛い時も、楽しい時も……、\n泣きたい時も、大笑いした時だって\nいつだってあたしの傍にいてくれた		
+qev18_040.scr:9	qev18_040.scr	9	しいな	Sheena Fujibayashi	personagem	CRLF x1	あの子だけは……、あたしを\nあきらめないでいてくれたんだ		
+qev18_040.scr:10	qev18_040.scr	10	しいな	Sheena Fujibayashi	personagem		最期まで……		
+qev18_040.scr:11	qev18_040.scr	11	(ator 200)	(ator 200)	desconhecido		……？		
+qev18_040.scr:12	qev18_040.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x2	……コリンは……、\nあたしを魔物から庇って\n命を落としたんだよ		
+qev18_040.scr:13	qev18_040.scr	13	(ator 200)	(ator 200)	desconhecido		……！？		
+qev18_040.scr:14	qev18_040.scr	14	しいな	Sheena Fujibayashi	personagem	CRLF x2	あたしは過去に、とある事件を起こしてね。\n里に大きな被害が出たのはもちろん\n傷付けちまった人も大勢いた		
+qev18_040.scr:15	qev18_040.scr	15	しいな	Sheena Fujibayashi	personagem	CRLF x1	もう、自分の何もかもに\nすっかり自信が持てなくなっちまってさ		
+qev18_040.scr:16	qev18_040.scr	16	しいな	Sheena Fujibayashi	personagem	CRLF x1	そんな時でもコリンは、自分を信じろって\nずっとあたしを励ましてくれたんだ		
+qev18_040.scr:17	qev18_040.scr	17	しいな	Sheena Fujibayashi	personagem	CRLF x1	あたしを庇った時だって……、\n体中……傷だらけだったのに……		
+qev18_040.scr:18	qev18_040.scr	18	(ator 200)	(ator 200)	desconhecido		…………		
+qev18_040.scr:19	qev18_040.scr	19	しいな	Sheena Fujibayashi	personagem	CRLF x1	そんなあの子に、最後にあたしは\nひどい事を言っちまったんだ		
+qev18_040.scr:20	qev18_040.scr	20	しいな	Sheena Fujibayashi	personagem	CRLF x2	だから……。\nどうしても、もう一度会って\n直接謝りたいんだよ……		
+qev18_050.scr:0	qev18_050.scr	0	しいな	Sheena Fujibayashi	personagem		ここにも……ない……		
+qev18_050.scr:1	qev18_050.scr	1	しいな	Sheena Fujibayashi	personagem		どうして……！		
+qev18_050.scr:2	qev18_050.scr	2	しいな	Sheena Fujibayashi	personagem	CRLF x2	あるはずなんだ。\nあの子を構成していたはずの\n自然界の気……ドクメントは、絶対に……！		
+qev18_050.scr:3	qev18_050.scr	3	(ator 200)	(ator 200)	desconhecido		……！		
+qev18_050.scr:4	qev18_050.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x1	ごめん……。\nあたしまた……取り乱しちまって		
+qev18_050.scr:5	qev18_050.scr	5	(ator 200)	(ator 200)	desconhecido		…………		
+qev18_050.scr:6	qev18_050.scr	6	しいな	Sheena Fujibayashi	personagem		はは……、そりゃそうだよね		
+qev18_050.scr:7	qev18_050.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x2	あの子は……もう、いないんだ。\n全く同じドクメントなんて\n手に入るはずなかったんだね		
+qev18_050.scr:8	qev18_050.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x1	コリンは……、\n死んじまったんだから……		
+qev18_050.scr:9	qev18_050.scr	9	(ator 200)	(ator 200)	desconhecido		…………		
+qev18_050.scr:10	qev18_050.scr	10	しいな	Sheena Fujibayashi	personagem		おっと……！		
+qev18_050.scr:11	qev18_050.scr	11	しいな	Sheena Fujibayashi	personagem	CRLF x1	……これまで失くしたら、あの子に\n顔向け出来なくなっちまうよ		
+qev18_050.scr:12	qev18_050.scr	12	(ator 200)	(ator 200)	desconhecido		……？		
+qev18_050.scr:13	qev18_050.scr	13	しいな	Sheena Fujibayashi	personagem	CRLF x2	これかい？\nこれが、コリンの付けていた鈴さ。\nあの子の唯一の形見なんだ		
+qev18_050.scr:14	qev18_050.scr	14	しいな	Sheena Fujibayashi	personagem	CRLF x2	それにしても、なんてタイミングで\n落とすんだろうね……。\nまるであの子が、あたしに……		
+qev18_050.scr:15	qev18_050.scr	15	しいな	Sheena Fujibayashi	personagem		……ははっ、らしくなかったね		
+qev18_050.scr:16	qev18_050.scr	16	しいな	Sheena Fujibayashi	personagem	CRLF x1	帰ろう、バンエルティア号へ。\nあたしは……もう大丈夫だからさ		
+qev18_060.scr:0	qev18_060.scr	0	しいな	Sheena Fujibayashi	personagem		結局、収穫なしだったね		
+qev18_060.scr:1	qev18_060.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	何か、悪かったね。\n無駄足踏ませちまってサ		
+qev18_060.scr:2	qev18_060.scr	2	(ator 200)	(ator 200)	desconhecido		…………		
+qev18_060.scr:3	qev18_060.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x2	……あたしがコリンに\nひどい事を言ったと話しただろ？\nあれはさ……		
+qev18_060.scr:4	qev18_060.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x1	あの子が、自信を失くしてるあたしを\n助けるって言ってくれた時		
+qev18_060.scr:5	qev18_060.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x2	あんたじゃ力不足だから\nそれは無理だと思う、って\n言っちまったんだ		
+qev18_060.scr:6	qev18_060.scr	6	しいな	Sheena Fujibayashi	personagem	CRLF x1	はは……ほんとに、\n何であんな事言っちまったのかねえ		
+qev18_060.scr:7	qev18_060.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x1	結局、あたしは最後まであの子に\n助けられてばかりだったのに		
+qev18_060.scr:8	qev18_060.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x2	力不足だったのは……、\n根性が足りなかったのは、\nあたしの方だったってのに		
+qev18_060.scr:9	qev18_060.scr	9	しいな	Sheena Fujibayashi	personagem	CRLF x1	せめて……、ちゃんとあの子に\n謝りたかったよ……		
+qev18_060.scr:10	qev18_060.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x1	それは……、\nでも……		
+qev18_060.scr:11	qev18_060.scr	11	しいな	Sheena Fujibayashi	personagem	CRLF x1	え？\n今……鈴が鳴った？		
+qev18_060.scr:12	qev18_060.scr	12	(ator 200)	(ator 200)	desconhecido		……？		
+qev18_060.scr:13	qev18_060.scr	13	しいな	Sheena Fujibayashi	personagem		いや、確かに鳴ったよ！		
+qev18_060.scr:14	qev18_060.scr	14	しいな	Sheena Fujibayashi	personagem	CRLF x2	わかるんだ。\nあたしがコリンの気配を\n間違えるはずがない		
+qev18_060.scr:15	qev18_060.scr	15	しいな	Sheena Fujibayashi	personagem		だってあたしは、コリンといつも一緒に……！		
+qev18_060.scr:16	qev18_060.scr	16	しいな	Sheena Fujibayashi	personagem		…………		
+qev18_060.scr:17	qev18_060.scr	17	しいな	Sheena Fujibayashi	personagem		そうか……そう、なんだね		
+qev18_060.scr:18	qev18_060.scr	18	しいな	Sheena Fujibayashi	personagem	CRLF x2	コリンは……。\nいつも、あたしの傍に……いてくれた。\nいてくれてたんだ		
+qev18_060.scr:19	qev18_060.scr	19	しいな	Sheena Fujibayashi	personagem	CRLF x1	見えなくなっただけで……、\n触れられなくなっただけで		
+qev18_060.scr:20	qev18_060.scr	20	しいな	Sheena Fujibayashi	personagem	CRLF x1	昔も……今も変わらずに\n傍に……		
+qev18_060.scr:21	qev18_060.scr	21	しいな	Sheena Fujibayashi	personagem	CRLF x2	だから……、コリンは……、\n今もあたしの中で\nちゃんと……生きてるんだね？		
+qev18_060.scr:22	qev18_060.scr	22	しいな	Sheena Fujibayashi	personagem	CRLF x1	そうなんだよね……、\nコリン……！！		
+qev18_060.scr:23	qev18_060.scr	23	しいな	Sheena Fujibayashi	personagem	CRLF x1	こ、これは……、\n新しい力が湧いてくる……！		
+qev18_060.scr:24	qev18_060.scr	24	しいな	Sheena Fujibayashi	personagem	CRLF x2	コリン……。\nあんたがまた、あたしの背中を\n押してくれてるのかい……？		
+qev18_060.scr:25	qev18_060.scr	25	(ator 200)	(ator 200)	desconhecido		…………		
+qev18_060.scr:26	qev18_060.scr	26	しいな	Sheena Fujibayashi	personagem	CRLF x2	あ、ああ……大丈夫。\nちょっと驚いただけさ。\nそれより…		
+qev18_060.scr:27	qev18_060.scr	27	しいな	Sheena Fujibayashi	personagem	CRLF x1	あたしはまた、大事な事を\n見落とすところだったんだね		
+qev18_060.scr:28	qev18_060.scr	28	しいな	Sheena Fujibayashi	personagem	CRLF x1	あんたのおかげで\nようやく気付けたよ		
+qev18_060.scr:29	qev18_060.scr	29	しいな	Sheena Fujibayashi	personagem	CRLF x1	何か、勢いであんたに\n色々話しちまったけど		
+qev18_060.scr:30	qev18_060.scr	30	しいな	Sheena Fujibayashi	personagem	CRLF x2	何でだろ……。\nでも、何だか一緒にいてもらえて\n良かったよ		
+qev18_060.scr:31	qev18_060.scr	31	しいな	Sheena Fujibayashi	personagem	CRLF x1	○○……。\nありがとう		
+qev18_060.scr:32	qev18_060.scr	32	(opcao do jogador)	(opcao do jogador)	escolha		コリンはしいなの心の中で生きている、と言う		
+qev18_060.scr:33	qev18_060.scr	33	(opcao do jogador)	(opcao do jogador)	escolha		コリンの事を一番知っているのは誰かな？　と聞く		
+qev18_060.scr:34	qev18_060.scr	34	(mensagem de sistema)	(mensagem de sistema)	sistema		しいなは、秘奥義「降霊召符・心」を体得した		

@@ -1,0 +1,63 @@
+../lotes/TXZ-02_retorno.tsv: 248 linhas
+RECUSADO — 95 falhas: {'EB': 54, 'E4': 19, 'E8': 19, 'E5': 3}
+  EB linha 2: traducao usa 250 bytes Shift-JIS, orcamento e' 240 (estourou em 10)
+  EB linha 3: traducao usa 198 bytes Shift-JIS, orcamento e' 174 (estourou em 24)
+  EB linha 7: traducao usa 195 bytes Shift-JIS, orcamento e' 176 (estourou em 19)
+  EB linha 13: traducao usa 185 bytes Shift-JIS, orcamento e' 164 (estourou em 21)
+  EB linha 15: traducao usa 245 bytes Shift-JIS, orcamento e' 238 (estourou em 7)
+  EB linha 18: traducao usa 213 bytes Shift-JIS, orcamento e' 206 (estourou em 7)
+  EB linha 21: traducao usa 236 bytes Shift-JIS, orcamento e' 220 (estourou em 16)
+  EB linha 22: traducao usa 217 bytes Shift-JIS, orcamento e' 202 (estourou em 15)
+  E4 linha 30: fora do ASCII: '１０'
+  E8 linha 30: japones residual na traducao: '１０'
+  EB linha 30: traducao usa 245 bytes Shift-JIS, orcamento e' 236 (estourou em 9)
+  E4 linha 31: fora do ASCII: '３'
+  E8 linha 31: japones residual na traducao: '３'
+  EB linha 31: traducao usa 218 bytes Shift-JIS, orcamento e' 210 (estourou em 8)
+  EB linha 32: traducao usa 257 bytes Shift-JIS, orcamento e' 254 (estourou em 3)
+  EB linha 34: traducao usa 288 bytes Shift-JIS, orcamento e' 280 (estourou em 8)
+  EB linha 35: traducao usa 280 bytes Shift-JIS, orcamento e' 272 (estourou em 8)
+  E5 linha 37: control codes nao batem: faltando {'＜モンスター名＞': 1}
+  EB linha 39: traducao usa 258 bytes Shift-JIS, orcamento e' 240 (estourou em 18)
+  EB linha 40: traducao usa 275 bytes Shift-JIS, orcamento e' 264 (estourou em 11)
+  EB linha 41: traducao usa 292 bytes Shift-JIS, orcamento e' 288 (estourou em 4)
+  E5 linha 42: control codes nao batem: faltando {'＜モンスター名＞': 1}
+  EB linha 43: traducao usa 276 bytes Shift-JIS, orcamento e' 264 (estourou em 12)
+  EB linha 44: traducao usa 263 bytes Shift-JIS, orcamento e' 248 (estourou em 15)
+  EB linha 45: traducao usa 275 bytes Shift-JIS, orcamento e' 248 (estourou em 27)
+  EB linha 46: traducao usa 257 bytes Shift-JIS, orcamento e' 256 (estourou em 1)
+  EB linha 47: traducao usa 283 bytes Shift-JIS, orcamento e' 260 (estourou em 23)
+  EB linha 52: traducao usa 240 bytes Shift-JIS, orcamento e' 236 (estourou em 4)
+  EB linha 57: traducao usa 239 bytes Shift-JIS, orcamento e' 234 (estourou em 5)
+  EB linha 65: traducao usa 244 bytes Shift-JIS, orcamento e' 242 (estourou em 2)
+  EB linha 67: traducao usa 281 bytes Shift-JIS, orcamento e' 258 (estourou em 23)
+  EB linha 68: traducao usa 270 bytes Shift-JIS, orcamento e' 264 (estourou em 6)
+  EB linha 69: traducao usa 284 bytes Shift-JIS, orcamento e' 282 (estourou em 2)
+  EB linha 70: traducao usa 263 bytes Shift-JIS, orcamento e' 256 (estourou em 7)
+  EB linha 72: traducao usa 281 bytes Shift-JIS, orcamento e' 248 (estourou em 33)
+  EB linha 74: traducao usa 211 bytes Shift-JIS, orcamento e' 210 (estourou em 1)
+  EB linha 76: traducao usa 297 bytes Shift-JIS, orcamento e' 284 (estourou em 13)
+  EB linha 80: traducao usa 292 bytes Shift-JIS, orcamento e' 274 (estourou em 18)
+  E5 linha 99: control codes nao batem: faltando {'＜アイテム名＞': 1}
+  EB linha 101: traducao usa 218 bytes Shift-JIS, orcamento e' 214 (estourou em 4)
+  EB linha 104: traducao usa 247 bytes Shift-JIS, orcamento e' 244 (estourou em 3)
+  EB linha 113: traducao usa 291 bytes Shift-JIS, orcamento e' 248 (estourou em 43)
+  EB linha 114: traducao usa 289 bytes Shift-JIS, orcamento e' 268 (estourou em 21)
+  EB linha 116: traducao usa 240 bytes Shift-JIS, orcamento e' 232 (estourou em 8)
+  EB linha 117: traducao usa 270 bytes Shift-JIS, orcamento e' 264 (estourou em 6)
+  EB linha 118: traducao usa 251 bytes Shift-JIS, orcamento e' 246 (estourou em 5)
+  EB linha 120: traducao usa 247 bytes Shift-JIS, orcamento e' 244 (estourou em 3)
+  EB linha 122: traducao usa 266 bytes Shift-JIS, orcamento e' 258 (estourou em 8)
+  EB linha 126: traducao usa 305 bytes Shift-JIS, orcamento e' 292 (estourou em 13)
+  EB linha 134: traducao usa 186 bytes Shift-JIS, orcamento e' 182 (estourou em 4)
+  EB linha 175: traducao usa 174 bytes Shift-JIS, orcamento e' 172 (estourou em 2)
+  E4 linha 177: fora do ASCII: '２'
+  E8 linha 177: japones residual na traducao: '２'
+  E4 linha 178: fora do ASCII: '２'
+  E8 linha 178: japones residual na traducao: '２'
+  E4 linha 179: fora do ASCII: '２'
+  E8 linha 179: japones residual na traducao: '２'
+  E4 linha 180: fora do ASCII: '２'
+  E8 linha 180: japones residual na traducao: '２'
+  E4 linha 181: fora do ASCII: '２'
+  ... e mais 35

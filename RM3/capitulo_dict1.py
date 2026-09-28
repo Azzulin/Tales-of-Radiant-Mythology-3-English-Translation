@@ -1,0 +1,63 @@
+from sinopse_dict1 import SINOPSE_1
+
+CAPITULO_TITLES = {
+    'capitulo#0': 'To Ad Libitum',
+    'capitulo#1': 'The Foretold One',
+    'capitulo#2': 'Challenging Saleh',
+    'capitulo#3': 'A Princess Rises',
+    'capitulo#4': 'Tracking Anomalies',
+    'capitulo#5': 'Rumors of Anomalies',
+    'capitulo#6': 'Red Smoke',
+    'capitulo#7': 'Kokuyo Beetle',
+    'capitulo#8': 'Escorting Joan',
+    'capitulo#9': 'Shifting Smoke',
+    'capitulo#10': 'A Peculiar Quest',
+    'capitulo#11': 'Source of Mutation',
+    'capitulo#12': 'Breath of Nature',
+    'capitulo#13': 'To Mibuna Village',
+    'capitulo#14': 'Soul Alchemy',
+    'capitulo#15': 'Wish-Granting Being',
+    'capitulo#16': "Sheena's Hypothesis",
+    'capitulo#17': 'Lazaris',
+    'capitulo#18': 'Rocks and Kanonno',
+    'capitulo#19': 'The Descender?',
+    'capitulo#20': 'Progenitor of Man',
+    'capitulo#21': 'Hazel Village Emigrants',
+    'capitulo#22': 'Veratropa Appears',
+    'capitulo#23': 'Witness of Genesis',
+    'capitulo#24': 'Corroding Fangs',
+    'capitulo#25': 'Barbatos',
+    'capitulo#26': "The Tree's Intent?",
+    'capitulo#27': 'Spreading Corruption',
+    'capitulo#28': 'Olta Village Troubles',
+    'capitulo#29': 'Plundering Heritage?',
+    'capitulo#30': "Kanonno's Wish",
+    'capitulo#31': 'Niata Restored',
+    'capitulo#32': "Van Eltia's Secrets",
+    'capitulo#33': 'The Red Oasis',
+    'capitulo#34': 'A New Breakthrough',
+    'capitulo#35': 'Seeking Descendants',
+    'capitulo#36': 'Persistent Diligence',
+    'capitulo#37': 'The Yulung Tree',
+    'capitulo#38': 'Parallel Ad Libitum?',
+    'capitulo#39': "Lazaris's Grief",
+    'capitulo#40': "Niata's Doubts",
+    'capitulo#41': 'Dawn of Genesis',
+    'capitulo#42': 'Sustained by Life',
+    'capitulo#43': 'Celestial Gift',
+    'capitulo#44': 'Bonds of Strength',
+    'capitulo#45': 'Dawn Cultist Reunion',
+    'capitulo#46': 'Beacon of Hope',
+    'capitulo#47': 'Gathering Life Shards',
+    'capitulo#48': 'Crystal Substitute',
+    'capitulo#49': 'Zirdia Resists',
+    'capitulo#50': 'The Final Quest',
+    'capitulo#51': 'Vitality of Life',
+}
+
+CAPITULO_1 = {}
+CAPITULO_1.update(CAPITULO_TITLES)
+
+# Map narrative lines 52 to 319 from SINOPSE_1
+for i in range(52, 320):
+    CAPITULO_1[f'capitulo#{i}'] = SINOPSE_1[f'sinopse#{i}']

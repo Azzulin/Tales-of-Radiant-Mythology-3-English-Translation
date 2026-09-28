@@ -1,0 +1,82 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+sev03_010.scr:0	sev03_010.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	ねえ、○○。\nこの黒い玉はなぁに？	Hey, ○○.\nWhat's this black orb?	
+sev03_010.scr:1	sev03_010.scr	1	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	他の人達の部屋にはないんだよ。\n何だろうね…	It isn't in anyone else's room.\nI wonder what it could be...	
+sev03_010.scr:2	sev03_010.scr	2	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	この部屋にだけあるんだよ。\n変じゃない？	It's only in this room.\nIsn't that strange?	
+sev03_010.scr:3	sev03_010.scr	3	カノンノ・イアハート	Kanonno Earhart	personagem		ニアタはわかる？	Do you know anything, Niata?	
+sev03_010.scr:4	sev03_010.scr	4	ニアタ	Niata Monad	personagem		ふむ……	Hmph...	
+sev03_010.scr:5	sev03_010.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	この玉から、\n何かの意思を感じるが…	I sense some kind of will\nemanating from this orb, however...	
+sev03_010.scr:6	sev03_010.scr	6	カノンノ・イアハート	Kanonno Earhart	personagem		意思？	A will?	
+sev03_010.scr:7	sev03_010.scr	7	ニアタ	Niata Monad	personagem		これもソウルアルケミーか…？	Is this Soul Alchemy too...?	
+sev03_010.scr:8	sev03_010.scr	8	ニアタ	Niata Monad	personagem	CRLF x1	どうやら、無機物に意思を\n入力したものの様だ	It appears someone imprinted a will\ninto an inanimate object.	
+sev03_010.scr:9	sev03_010.scr	9	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	意思って、じゃあ、\nこの黒い玉は何かを言っているの？	A will? Then, is this black orb\nsaying something?	
+sev03_010.scr:10	sev03_010.scr	10	ニアタ	Niata Monad	personagem		「戻りたい」と言っている様だ	"It seems to say, ""I want to return."""	
+sev03_010.scr:11	sev03_010.scr	11	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	どこなんだろう。\nニアタ、いつもの様に世界を覗いて\nわからないかな	Where could that be?\nNiata, could you peer into the world\nas usual to find out?	
+sev03_010.scr:12	sev03_010.scr	12	ニアタ	Niata Monad	personagem		この玉の意思が望む地は……	The land this orb's will desires is...	
+sev03_010.scr:13	sev03_010.scr	13	ニアタ	Niata Monad	personagem		ルバーブ連山か	The Rhubarb Mountains, is it?	
+sev03_010.scr:14	sev03_010.scr	14	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	戻りたいって望んでいるなら\nそうしてあげたいな	If it wishes to return,\nI'd like to help it do so.	
+sev03_010.scr:15	sev03_010.scr	15	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	よし！\nじゃあ、この事を依頼として届けるね！	All right!\nI'll submit this as a quest then!	
+sev03_010.scr:16	sev03_010.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		わからない、と言う	Say you don't know	
+sev03_010.scr:17	sev03_010.scr	17	(opcao do jogador)	(opcao do jogador)	escolha		インテリアじゃないか、と言う	Suggest it might be interior decor	
+sev03_020.scr:0	sev03_020.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	このイアハートからの依頼、\nあなたが受けるのね	So you're taking on this request\nfrom Earhart.	
+sev03_020.scr:1	sev03_020.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	何でも、戻りたがってる玉を\n送りに行くとか言ってるけれど…	She said something about taking an orb\nback that wants to return, but...	
+sev03_020.scr:2	sev03_020.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	詳しい説明は…。\nニアタ、お願いしていいかな？	As for the details...\nNiata, could you explain?	
+sev03_020.scr:3	sev03_020.scr	3	ニアタ	Niata Monad	personagem	CRLF x1	まず、イアハートと共に\nルバーブ連山山頂方面へ向かってくれ	First, head toward the summit of the\nRhubarb Mountains with Earhart.	
+sev03_020.scr:4	sev03_020.scr	4	ニアタ	Niata Monad	personagem		そこでやらなければならない事は、二つだ	There are two things you must do there.	
+sev03_020.scr:5	sev03_020.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	まず、あの黒い玉がはまる穴を探して欲しい。\nそこが、この黒い玉が戻りたい場所だそうだ	First, find a hole to fit that black orb.\nThat is where it wishes to return.	
+sev03_020.scr:6	sev03_020.scr	6	ニアタ	Niata Monad	personagem		そして、次に「白い三兄弟」を探す事だ	Next, find the 'Three White Brothers'.	
+sev03_020.scr:7	sev03_020.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	白い三兄弟？\nそれは、何かしら	The Three White Brothers?\nWhat on earth is that?	
+sev03_020.scr:8	sev03_020.scr	8	ニアタ	Niata Monad	personagem		この黒い玉に連なるものの様だが…	They seem connected to this black orb...	
+sev03_020.scr:9	sev03_020.scr	9	ニアタ	Niata Monad	personagem		いずれもルバーブ連山にいるらしい	They seem to be in the Rhubarb Mountains.	
+sev03_020.scr:10	sev03_020.scr	10	アンジュ	Ange Serena	personagem	CRLF x1	でも、こんな黒い玉、\n今まで気にも止めなかったなあ	Still, I never paid any mind\nto a black orb like this until now.	
+sev03_020.scr:11	sev03_020.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	ねえ、値打ちがあるものか\n鑑定してからにしない？	Hey, shouldn't we appraise it first\nto see if it has any value?	
+sev03_020.scr:12	sev03_020.scr	12	アンジュ	Ange Serena	personagem		ええ〜、もったいないなぁ…	Aww, what a waste...	
+sev03_020.scr:13	sev03_020.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	玉に恩を売るの？\n大した見返り、無さそうだな〜…	Doing a favor for an orb?\nDoesn't sound like much of a reward~...	
+sev03_020.scr:14	sev03_020.scr	14	アンジュ	Ange Serena	personagem		まあ、いっか…	Well, whatever...	
+sev03_020.scr:15	sev03_020.scr	15	アンジュ	Ange Serena	personagem	CRLF x1	じゃあ、今のニアタの説明通り\nお仕事してきてね	Then please carry out the job\njust as Niata explained!	
+sev03_020.scr:16	sev03_020.scr	16	アンジュ	Ange Serena	personagem		じゃ、行ってらっしゃい	Well then, take care!	
+sev03_020.scr:17	sev03_020.scr	17	(opcao do jogador)	(opcao do jogador)	escolha		断る	Refuse	
+sev03_020.scr:18	sev03_020.scr	18	(opcao do jogador)	(opcao do jogador)	escolha		黒い玉が恩返ししてくれるかも、と言う	Say the black orb might repay the favor	
+sev03_030.scr:0	sev03_030.scr	0	ニアタ	Niata Monad	personagem	CRLF x1	黒い玉の意思が強くなっている。\nやはり、この山で間違いはない様だ	The black orb's will is growing stronger.\nThis mountain is indeed the right place.	
+sev03_030.scr:1	sev03_030.scr	1	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	でも、この黒い玉は\n何の為に創られたんだろう？	Still, what was this black orb\ncreated for, I wonder?	
+sev03_030.scr:2	sev03_030.scr	2	ニアタ	Niata Monad	personagem		それは、行けばわかるだろう	We should find out once we go there.	
+sev03_030.scr:3	sev03_030.scr	3	カノンノ・イアハート	Kanonno Earhart	personagem		うん、そうだね	Yeah, you're right.	
+sev03_030.scr:4	sev03_030.scr	4	カノンノ・イアハート	Kanonno Earhart	personagem		じゃあ、山頂への道を目指して行こう！	Then let's head for the summit path!	
+sev03_040.scr:0	sev03_040.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	ねえ、○○。\nこのへこんだ所、ちょうどあの玉が\n入るサイズみたいだよ	Hey, ○○.\nThis indentation looks just the right\nsize for that orb to fit!	
+sev03_040.scr:1	sev03_040.scr	1	ニアタ	Niata Monad	personagem	CRLF x1	うむ、黒い玉もそこに収まる事を\n強く願っている	Indeed, the black orb strongly wishes\nto be placed in that spot.	
+sev03_040.scr:2	sev03_040.scr	2	ニアタ	Niata Monad	personagem	CRLF x1	○○、\n黒い玉を置いてやってくれないか	○○,\nwould you place the black orb there?	
+sev03_040.scr:3	sev03_040.scr	3	カノンノ・イアハート	Kanonno Earhart	personagem		扉が開いたよ！	The door opened!	
+sev03_040.scr:4	sev03_040.scr	4	ニアタ	Niata Monad	personagem		……黒い玉の意思反応が消えた	...The black orb's will has faded.	
+sev03_040.scr:5	sev03_040.scr	5	ニアタ	Niata Monad	personagem	CRLF x2	恐らく、役目を終えたのだろう。\n鍵として、そしてここへの案内人としての\n役目を持たされて、生み出されたのだな	It likely fulfilled its purpose.\nCreated with the role of a key,\nand a guide leading to this place.	
+sev03_040.scr:6	sev03_040.scr	6	カノンノ・イアハート	Kanonno Earhart	personagem		でも誰が、何の為に？	But who made it, and for what?	
+sev03_040.scr:7	sev03_040.scr	7	ニアタ	Niata Monad	personagem		真実はわからぬ	The truth is unknown.	
+sev03_040.scr:8	sev03_040.scr	8	ニアタ	Niata Monad	personagem	CRLF x2	だが、モノや場に刻まれた思念を\n読み取る能力を持った者ならば、\n黒い玉の意思に感応出来ただろう	Yet anyone capable of reading thoughts\netched into objects or places could\nhave resonated with the orb's will.	
+sev03_040.scr:9	sev03_040.scr	9	ニアタ	Niata Monad	personagem	CRLF x2	もしかするならば、この先に\n特別な価値のあるものが\n隠されているのかもしれん	Perhaps something of\nextraordinary value is hidden\nbeyond this point.	
+sev03_040.scr:10	sev03_040.scr	10	ニアタ	Niata Monad	personagem	CRLF x2	何らかの術者が、それを手にするに相応しい\n能力を持った者の為に、案内人、鍵として\n作ったのだと我々は思うのだが…	We believe some sorcerer created it as a\nguide and key for one worthy of claiming\nwhat lies within, however...	
+sev03_040.scr:11	sev03_040.scr	11	カノンノ・イアハート	Kanonno Earhart	personagem		へぇぇ…、何があるんだろう	Whoa... I wonder what's ahead?	
+sev03_040.scr:12	sev03_040.scr	12	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	そういえば、白い三兄弟を探せって\n言ってたね。\nそれが「価値のあるもの」なのかな？	Come to think of it, you said to look\nfor the Three White Brothers.\nIs that the 'valuable thing'?	
+sev03_040.scr:13	sev03_040.scr	13	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	じゃあ、次はこの先を進んで\n白い三兄弟を探そう！！	Then let's press on ahead\nand look for the Three White Brothers!!	
+sev03_050.scr:0	sev03_050.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem		ここで行き止まりみたいだね	Looks like a dead end here.	
+sev03_050.scr:1	sev03_050.scr	1	ニアタ	Niata Monad	personagem		あるのは宝箱が三つか…	All that is here are three chests...	
+sev03_060.scr:0	sev03_060.scr	0	カノンノ・イアハート	Kanonno Earhart	personagem		どれも、白い玉だね	They're all white orbs.	
+sev03_060.scr:1	sev03_060.scr	1	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	ひょっとして、\nこれが白い三兄弟なのかな？	Could these be the\nThree White Brothers?	
+sev03_060.scr:2	sev03_060.scr	2	カノンノ・イアハート	Kanonno Earhart	personagem		ニアタ、何か感じる？	Niata, do you feel anything?	
+sev03_060.scr:3	sev03_060.scr	3	ニアタ	Niata Monad	personagem	CRLF x1	○○を\n気に入っている様だ	They appear to have\ntaken a liking to ○○.	
+sev03_060.scr:4	sev03_060.scr	4	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	○○が、\n黒い玉を置いたからかな？	Is it because ○○\nplaced the black orb?	
+sev03_060.scr:5	sev03_060.scr	5	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	この白い玉も、どこか行きたい場所が\nあるのかもしれないね	These white orbs might have somewhere\nthey want to go too.	
+sev03_060.scr:6	sev03_060.scr	6	ニアタ	Niata Monad	personagem	CRLF x1	とりあえず黒い玉に関しては\n解決だな	For now, the matter of the black orb\nis resolved.	
+sev03_060.scr:7	sev03_060.scr	7	ニアタ	Niata Monad	personagem		では、戻ろうか	Shall we head back then?	
+sev03_060.scr:8	sev03_060.scr	8	カノンノ・イアハート	Kanonno Earhart	personagem		うん	Yeah.	
+sev03_060.scr:9	sev03_060.scr	9	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	○○、\n力を貸してくれてありがとう	○○,\nthank you for lending your strength!	
+sev03_060.scr:10	sev03_060.scr	10	カノンノ・イアハート	Kanonno Earhart	personagem		さあ、船へ帰ろっ！	Now, let's head back to the ship!	
+sev03_070.scr:0	sev03_070.scr	0	アンジュ	Ange Serena	personagem		お疲れ様	Welcome back.	
+sev03_070.scr:1	sev03_070.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	それにしても、黒い玉が白い玉三つに\nなるなんてね	Still, to think that one black orb\nturned into three white orbs!	
+sev03_070.scr:2	sev03_070.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	ひょっとして、今回の様な事を\n繰り返していたら、どんどん玉が\n増えていったりしないかしら？	Could it be that if we keep doing this,\nthe orbs will just keep multiplying\nmore and more?	
+sev03_070.scr:3	sev03_070.scr	3	カノンノ・イアハート	Kanonno Earhart	personagem		うーん、どうなんだろう	Hmm, I wonder about that...	
+sev03_070.scr:4	sev03_070.scr	4	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	でも、この白い玉は、それぞれに\n行きたい所があるみたい	Still, it seems each of these white orbs\nhas somewhere it wants to go.	
+sev03_070.scr:5	sev03_070.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	しかし、白い玉にある意思が\n弱い様だ	However, the will within the white orbs\nappears to be weak.	
+sev03_070.scr:6	sev03_070.scr	6	ニアタ	Niata Monad	personagem		場所については語ってくれぬな	They speak not of a destination.	
+sev03_070.scr:7	sev03_070.scr	7	ニアタ	Niata Monad	personagem	CRLF x1	これらの玉は、どうも○○を\n気に入っている様だ	These orbs seem to have taken quite\na liking to ○○.	
+sev03_070.scr:8	sev03_070.scr	8	ニアタ	Niata Monad	personagem	CRLF x1	ならば、このまま○○が\n持っているのが良いだろう	In that case, it would be best for\n○○ to keep holding on to them.	
+sev03_070.scr:9	sev03_070.scr	9	カノンノ・イアハート	Kanonno Earhart	personagem		うん、それがいいのかも	Yeah, that might be for the best.	
+sev03_070.scr:10	sev03_070.scr	10	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	また、黒い玉を置いた様な所が\nあるかもしれないし	There might be other places where\nwe can place them like that black orb.	
+sev03_070.scr:11	sev03_070.scr	11	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	じゃあ、白い玉はあなたが持っていてね。\n今日は、付き合ってくれてありがとう。\n嬉しかったよ！	So keep those white orbs with you, okay?\nThank you for joining me today.\nI was really happy!	

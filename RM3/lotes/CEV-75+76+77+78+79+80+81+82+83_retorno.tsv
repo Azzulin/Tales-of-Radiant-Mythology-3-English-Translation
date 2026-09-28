@@ -1,0 +1,314 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev75_010.scr:0	cev75_010.scr	0	シェリア	Cheria Barnes	personagem	CRLF x1	ねえ、コレット？\nコレットは、天使……なのよね？	Hey, Colette?\nYou're an angel... right?	
+cev75_010.scr:1	cev75_010.scr	1	シェリア	Cheria Barnes	personagem	CRLF x1	羽があるのに、飛んだりしないで\n私達と同じ様に生活をしているのね	Even with wings, you don't fly around\nand live just like the rest of us.	
+cev75_010.scr:2	cev75_010.scr	2	コレット	Colette Brunel	personagem		うん、そだよ	Yep, that's right!	
+cev75_010.scr:3	cev75_010.scr	3	コレット	Colette Brunel	personagem	CRLF x1	飛ぶ事もあるけど……でも\nやっぱり、一緒がいいから	I fly sometimes... but still,\nbeing together with everyone is best.	
+cev75_010.scr:4	cev75_010.scr	4	シェリア	Cheria Barnes	personagem		一緒がいい？	Being together is best?	
+cev75_010.scr:5	cev75_010.scr	5	シェリア	Cheria Barnes	personagem	CRLF x1	ねえ、その「一緒がいい」相手って\nもしかして男の子？	Say, that person you want to be with...\ncould it be a boy?	
+cev75_010.scr:6	cev75_010.scr	6	コレット	Colette Brunel	personagem	CRLF x1	えっ？　\nど、どうして？	Huh?\nH-How did you know?	
+cev75_010.scr:7	cev75_010.scr	7	シェリア	Cheria Barnes	personagem	CRLF x2	女の勘よ、勘。\nそれで、どうなの？　\n本当のところは？	A woman's intuition!\nSo, how about it?\nWhat's the real story?	
+cev75_010.scr:8	cev75_010.scr	8	コレット	Colette Brunel	personagem		う……うん	U-Um... yeah.	
+cev75_010.scr:9	cev75_010.scr	9	シェリア	Cheria Barnes	personagem		やっぱり、そうだったのね	I knew it, it really was!	
+cev75_010.scr:10	cev75_010.scr	10	シェリア	Cheria Barnes	personagem	CRLF x1	ねえコレット、今度あなたの部屋に\n泊りに行ってもいい？	Hey Colette, can I come have\na sleepover in your room sometime?	
+cev75_010.scr:11	cev75_010.scr	11	シェリア	Cheria Barnes	personagem		私、もっとコレットの話を聞きたいな	I want to hear more from you, Colette!	
+cev75_010.scr:12	cev75_010.scr	12	コレット	Colette Brunel	personagem		うん、いいよ	Sure, I'd love that!	
+cev75_010.scr:13	cev75_010.scr	13	シェリア	Cheria Barnes	personagem	CRLF x1	良かった。\nじゃあ、約束ね	Wonderful!\nThen it's a promise.	
+cev75_010.scr:14	cev75_010.scr	14	コレット	Colette Brunel	personagem	CRLF x1	えへへ……。\nうん、約束	Ehehe...\nYep, it's a promise.	
+cev75_010.scr:15	cev75_010.scr	15	コレット	Colette Brunel	personagem	CRLF x1	シェリアの分のお布団、\n用意して待ってるね	I'll have bedding ready\nand wait for you, Cheria!	
+cev75_010.scr:16	cev75_010.scr	16	シェリア	Cheria Barnes	personagem	CRLF x2	ありがとう。\nじゃあ、私は枕も\n持って行っちゃおうかな	Thank you!\nIn that case, maybe I'll bring\nmy own pillow along too!	
+cev75_020.scr:0	cev75_020.scr	0	ナナリー	Nanaly Fletch	personagem	CRLF x1	困ったねえ……。\nどんなものがいいだろう	This is tricky...\nWhat should we make?	
+cev75_020.scr:1	cev75_020.scr	1	クレア	Claire Bennett	personagem	CRLF x2	そうね。\nすぐ思い浮かぶものは\n大体もう作ってしまったし……	Yes.\nWe've already made most things\nthat come to mind right away...	
+cev75_020.scr:2	cev75_020.scr	2	シェリア	Cheria Barnes	personagem		それじゃ、焼き鳥丼なんかはどう？	In that case, how about yakitori bowls?	
+cev75_020.scr:3	cev75_020.scr	3	シェリア	Cheria Barnes	personagem	CRLF x1	スタミナも付くし、タレを工夫すれば\n結構飽きが来ないものよ	It builds stamina, and with good sauce,\npeople won't get tired of it easily.	
+cev75_020.scr:4	cev75_020.scr	4	ナナリー	Nanaly Fletch	personagem		焼き鳥丼か……	A yakitori bowl, huh...	
+cev75_020.scr:5	cev75_020.scr	5	ナナリー	Nanaly Fletch	personagem	CRLF x1	うん。\nいいんじゃないかい？	Yeah.\nSounds pretty good to me!	
+cev75_020.scr:6	cev75_020.scr	6	クレア	Claire Bennett	personagem	CRLF x1	お肉のバリエーションを増やせば\n今後も色んなメニューを楽しめそうね	If we vary the kinds of meat,\nwe can enjoy many different menus too.	
+cev75_020.scr:7	cev75_020.scr	7	クレア	Claire Bennett	personagem		私もシェリアさんの案に賛成です	I agree with Cheria's suggestion as well.	
+cev75_020.scr:8	cev75_020.scr	8	シェリア	Cheria Barnes	personagem	CRLF x2	じゃあ、今晩の献立は\n焼き鳥丼で決まりね。\n問題は材料だけど……	Then tonight's menu is decided\nas yakitori bowls.\nThe only issue is ingredients...	
+cev75_020.scr:9	cev75_020.scr	9	ナナリー	Nanaly Fletch	personagem		それなら心配いらないよ	No need to worry about that!	
+cev75_020.scr:10	cev75_020.scr	10	ナナリー	Nanaly Fletch	personagem	CRLF x2	リッドやカイウス達に頼んで、\n材料をたくさん\n獲ってきてもらえばいいんだ	We can just ask Reid, Caius, and the rest\nto go hunt down\nplenty of ingredients for us!	
+cev75_020.scr:11	cev75_020.scr	11	シェリア	Cheria Barnes	personagem	CRLF x1	みんな、そんな事まで\n協力してくれるの？	Will everyone really help out\nwith that sort of thing?	
+cev75_020.scr:12	cev75_020.scr	12	クレア	Claire Bennett	personagem	CRLF x1	ええ、そうなの。\n自然と役割分担が出来ていて……	Yes, indeed.\nRoles divided naturally like that...	
+cev75_020.scr:13	cev75_020.scr	13	クレア	Claire Bennett	personagem	CRLF x1	こういう時、ここは男性が多いから\n助かっているわ	At times like this, having many men here\nis quite a blessing.	
+cev75_020.scr:14	cev75_020.scr	14	ナナリー	Nanaly Fletch	personagem	CRLF x2	ああ。\n伊達に食料を\n消費してもらってるわけじゃないよ	Yeah.\nThey're not devouring our food supply\njust for show, you know!	
+cev75_020.scr:15	cev75_020.scr	15	ナナリー	Nanaly Fletch	personagem		働かざる者、食うべからずさ	Those who don't work, don't eat!	
+cev75_030.scr:0	cev75_030.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	ったく、あの暴力女……。\n今度も思いっきり関節きめやがって……	Good grief, that violent woman...\nPutting me in a joint lock again...	
+cev75_030.scr:1	cev75_030.scr	1	ロニ	Loni Dunamis	personagem	CRLF x1	ッ！　\n痛っててて……！！	Gah!\nOw-ow-ow-ow-ow...!!	
+cev75_030.scr:2	cev75_030.scr	2	シェリア	Cheria Barnes	personagem		ロニ！	Loni!	
+cev75_030.scr:3	cev75_030.scr	3	シェリア	Cheria Barnes	personagem	CRLF x1	大丈夫？\n足がふらふらじゃない	Are you alright?\nYour legs are wobbling!	
+cev75_030.scr:4	cev75_030.scr	4	ロニ	Loni Dunamis	personagem	CRLF x1	ああ……悪いなシェリア。\n今日のはちっとばかし強烈だったぜ……	Yeah... Sorry, Cheria.\nToday's was a bit extra brutal...	
+cev75_030.scr:5	cev75_030.scr	5	ロニ	Loni Dunamis	personagem		イテテテ……	Ow-ow-ow...	
+cev75_030.scr:6	cev75_030.scr	6	シェリア	Cheria Barnes	personagem		……ねえ、ロニ？	...Say, Loni?	
+cev75_030.scr:7	cev75_030.scr	7	ロニ	Loni Dunamis	personagem		何だ？	What is it?	
+cev75_030.scr:8	cev75_030.scr	8	シェリア	Cheria Barnes	personagem		ロニはナナリーが好きなの？	Do you like Nanaly, Loni?	
+cev75_030.scr:9	cev75_030.scr	9	ロニ	Loni Dunamis	personagem		ぶほぉっ！？	Bwah!?	
+cev75_030.scr:10	cev75_030.scr	10	ロニ	Loni Dunamis	personagem		な、何言って……	Wh-What are you saying...	
+cev75_030.scr:11	cev75_030.scr	11	シェリア	Cheria Barnes	personagem	CRLF x2	だって、これだけ毎回やられてても\nロニはナナリーの事避けたり\n嫌いになったりしないのよね	Even after being beaten like this,\nyou never avoid Nanaly\nor hate her, do you?	
+cev75_030.scr:12	cev75_030.scr	12	シェリア	Cheria Barnes	personagem		それってやっぱり、そこにロマンスが……∀	Doesn't that mean there's romance...? :)	
+cev75_030.scr:13	cev75_030.scr	13	ロニ	Loni Dunamis	personagem	CRLF x1	ない！　\nそんなものは断じてないぞ！！	There isn't!\nThere is absolutely nothing like that!!	
+cev75_030.scr:14	cev75_030.scr	14	シェリア	Cheria Barnes	personagem	CRLF x1	ううん、隠してもだめ。\n私にはわかるんだから！	No, no use hiding it.\nI can see right through you!	
+cev75_030.scr:15	cev75_030.scr	15	ロニ	Loni Dunamis	personagem		何がだーー！！	See through WHAT!?!	
+cev75_040.scr:0	cev75_040.scr	0	キール	Keele Zeibel	personagem		なるほど……	I see......	
+cev75_040.scr:1	cev75_040.scr	1	キール	Keele Zeibel	personagem	CRLF x2	確かに、そういった救護活動の事例は\nオルタ・ビレッジにとっても\n有益な情報になりそうだ	Indeed, such examples of relief work\nlook to be very useful information\nfor Aulter Village as well.	
+cev75_040.scr:2	cev75_040.scr	2	キール	Keele Zeibel	personagem		協力感謝するよ、シェリア	Thanks for your help, Cheria.	
+cev75_040.scr:3	cev75_040.scr	3	シェリア	Cheria Barnes	personagem	CRLF x1	どういたしまして。\n少しでも役に立てたなら良かったわ	You're very welcome.\nI'm glad if I could be of any help.	
+cev75_040.scr:4	cev75_040.scr	4	シェリア	Cheria Barnes	personagem	CRLF x2	でも、随分大がかりな事を\nやろうとしているのね。\nキールが一人で取り仕切っているの？	Still, you're undertaking quite\na massive project, Keele.\nAre you managing it all on your own?	
+cev75_040.scr:5	cev75_040.scr	5	キール	Keele Zeibel	personagem	CRLF x2	いや、一応\nメルディもメンバーなんだが……。\nあいつは色々あってな……	No, Meredy is technically\na member as well, but...\nShe's a handful in many ways...	
+cev75_040.scr:6	cev75_040.scr	6	シェリア	Cheria Barnes	personagem		色々って？	A handful in what way?	
+cev75_040.scr:7	cev75_040.scr	7	キール	Keele Zeibel	personagem	CRLF x2	学習意欲や前向きな気持ちは認めるが、\n成果よりコミュニケーションに\n比重を置き過ぎる	Her eagerness to learn is fine, but\nshe prioritizes socializing\nway over getting actual results.	
+cev75_040.scr:8	cev75_040.scr	8	キール	Keele Zeibel	personagem		少しは自分の立場というものを……	She should consider her position a bit...	
+cev75_040.scr:9	cev75_040.scr	9	シェリア	Cheria Barnes	personagem	CRLF x1	もしかして、\nそれって嫉妬してるっていう事？	Could it be...\nthat you're actually jealous?	
+cev75_040.scr:10	cev75_040.scr	10	キール	Keele Zeibel	personagem	CRLF x1	嫉妬！？\nバカな、そんなわけ……	Jealous!?\nRidiculous, no way could that...	
+cev75_040.scr:11	cev75_040.scr	11	シェリア	Cheria Barnes	personagem	CRLF x1	でも、他の人と仲良くしてるのが\n気になるんでしょう？	Yet you can't stand her getting along\nwith other people, can you?	
+cev75_040.scr:12	cev75_040.scr	12	キール	Keele Zeibel	personagem	CRLF x2	違う！　\nただ……その……\n色々込み入った事情があって……！	That's not it!\nIt's just... well...\nThere are complicated circumstances...!	
+cev75_040.scr:13	cev75_040.scr	13	シェリア	Cheria Barnes	personagem		ええ、そうよね……	Yes, of course...	
+cev75_040.scr:14	cev75_040.scr	14	シェリア	Cheria Barnes	personagem	CRLF x1	その事情というのを、もう少し詳しく\n聞かせてもらえないかしら？	Could you tell me a little more\nabout those circumstances?	
+cev75_040.scr:15	cev75_040.scr	15	キール	Keele Zeibel	personagem	CRLF x2	だから……、\nそんなに期待に満ちた目で見ないでくれ！\n誤解なんだ〜〜！！	I told you...!\nDon't look at me with such hopeful eyes!\nIt's a misunderstanding~~~!!	
+cev75_050.scr:0	cev75_050.scr	0	アスベル	Asbel Lhant	personagem		なぁ、リタ	Hey, Rita.	
+cev75_050.scr:1	cev75_050.scr	1	リタ	Rita Mordio	personagem		……何よ	...What?	
+cev75_050.scr:2	cev75_050.scr	2	リタ	Rita Mordio	personagem		忙しいから、後に……	I'm busy, so later...	
+cev75_050.scr:3	cev75_050.scr	3	アスベル	Asbel Lhant	personagem	CRLF x1	もしかして、\nフレン隊長の事が嫌いなのか？	Could it be...\nyou dislike Captain Flynn?	
+cev75_050.scr:4	cev75_050.scr	4	アスベル	Asbel Lhant	personagem	CRLF x1	何となく、避けてる様に\n見えるけど……	Somehow, it looks like\nyou've been avoiding him...	
+cev75_050.scr:5	cev75_050.scr	5	リタ	Rita Mordio	personagem	CRLF x1	嫌いっていうか……、\n見ててイライラするだけよ	It's not that I dislike him...\nHe just gets on my nerves.	
+cev75_050.scr:6	cev75_050.scr	6	リタ	Rita Mordio	personagem	CRLF x2	頭固いくせして、\nやる事甘いっていうか。\n中途半端なのよね、あいつ	He's completely stiff-necked, yet\nhe acts so soft-hearted.\nHe does everything halfway.	
+cev75_050.scr:7	cev75_050.scr	7	アスベル	Asbel Lhant	personagem	CRLF x2	確かに、融通の利かないところはあるけど\n隊長は筋の通らない事はしない。\nリタの件だってそうだったじゃないか	True, he can be inflexible at times, but\nthe Captain never acts unreasonably.\nWasn't that true with you as well?	
+cev75_050.scr:8	cev75_050.scr	8	リタ	Rita Mordio	personagem	CRLF x1	ああ、そうでしょうね。\nお優しい隊長で結構ですこと	Yeah, sure, whatever.\nGood for you and your gentle Captain.	
+cev75_050.scr:9	cev75_050.scr	9	アスベル	Asbel Lhant	personagem		わからないなぁ……	I just don't get it...	
+cev75_050.scr:10	cev75_050.scr	10	シェリア	Cheria Barnes	personagem		アスベル、どうだった？	Asbel, how did it go?	
+cev75_050.scr:11	cev75_050.scr	11	アスベル	Asbel Lhant	personagem	CRLF x1	だめだよ、シェリア。\nあんまり話したくないみたいだ	No luck, Cheria.\nShe didn't seem to want to talk much.	
+cev75_050.scr:12	cev75_050.scr	12	アスベル	Asbel Lhant	personagem	CRLF x1	よっぽど隊長と\n相性が悪いのかな……	I guess she and the Captain\njust really don't get along...	
+cev75_050.scr:13	cev75_050.scr	13	シェリア	Cheria Barnes	personagem	CRLF x2	そんな事ないわよ。\nそれだけ反応するって事は、\nきっと気がある証拠よ	That's not it at all!\nReacting that strongly is proof\nshe definitely has feelings for him!	
+cev75_050.scr:14	cev75_050.scr	14	アスベル	Asbel Lhant	personagem		そうかなぁ……	I wonder...	
+cev75_050.scr:15	cev75_050.scr	15	シェリア	Cheria Barnes	personagem	CRLF x2	そうよ。　意識するから、\n余計に気持ちが落ち着かなくなるの。\n間違いないわ！！	Because she's conscious of him,\nit makes her even more restless.\nI have no doubt about it!!	
+cev75_050.scr:16	cev75_050.scr	16	アスベル	Asbel Lhant	personagem	CRLF x1	シェリア……もしかして\n楽しんでないか？	Cheria... could you perhaps\nbe enjoying this?	
+cev75_050.scr:17	cev75_050.scr	17	シェリア	Cheria Barnes	personagem		そ、そんな事ないわよ！	Th-That's not true at all!	
+cev75_050.scr:18	cev75_050.scr	18	シェリア	Cheria Barnes	personagem	CRLF x1	私はただ、同じ仲間なんだし\n仲良くして欲しいだけなんだから	Since we're all comrades here, I just\nwant everyone to get along, that's all!	
+cev75_050.scr:19	cev75_050.scr	19	アスベル	Asbel Lhant	personagem		（本当かなぁ……）	(I wonder if that's true...)	
+cev75_060.scr:0	cev75_060.scr	0	ソフィ	Sophie	personagem		ポリポリ……	*scratch* *scratch*...	
+cev75_060.scr:1	cev75_060.scr	1	シェリア	Cheria Barnes	personagem	CRLF x1	ソフィ、あなた\nちゃんとお風呂に入ってる？	Sophie, are you\ntaking baths properly?	
+cev75_060.scr:2	cev75_060.scr	2	ソフィ	Sophie	personagem	CRLF x1	うん……。\n入ってるよ、シェリア	Yeah...\nI'm taking them, Cheria.	
+cev75_060.scr:3	cev75_060.scr	3	シェリア	Cheria Barnes	personagem	CRLF x1	本当？\n最後に入ったのはいつ？	Really?\nWhen was the last time you took one?	
+cev75_060.scr:4	cev75_060.scr	4	ソフィ	Sophie	personagem	CRLF x1	……、\n三日前……？	...\nThree days ago...?	
+cev75_060.scr:5	cev75_060.scr	5	シェリア	Cheria Barnes	personagem	CRLF x1	だめよ！　\nそんな不潔なの！	No, that won't do!\nThat's far too unhygienic!	
+cev75_060.scr:6	cev75_060.scr	6	シェリア	Cheria Barnes	personagem	CRLF x1	私がキレイに洗ってあげる。\nさ、一緒にお風呂行きましょ	I will wash you nice and clean.\nCome, let's go to the bath together.	
+cev75_060.scr:7	cev75_060.scr	7	ソフィ	Sophie	personagem		うん……	Yeah...	
+cev75_070.scr:0	cev75_070.scr	0	ノーマ	Norma Beatty	personagem	CRLF x1	シェリーってさぁ、\n何かおばさんっぽいよね〜	Cherie, ya know,\nyou kinda act like an old lady~	
+cev75_070.scr:1	cev75_070.scr	1	シェリア	Cheria Barnes	personagem		え！？	What!?	
+cev75_070.scr:2	cev75_070.scr	2	シェリア	Cheria Barnes	personagem		……ど……どの辺りが……かしら？	...I-In what way... exactly?	
+cev75_070.scr:3	cev75_070.scr	3	ノーマ	Norma Beatty	personagem	CRLF x2	こないだもさ〜、ソフィたんに\n「風呂入れ〜」とか言ってたじゃん。\nそういうとこ？	Like the other day, you told Sophie-kins\nto take a bath and all that, right?\nStuff like that, ya know?	
+cev75_070.scr:4	cev75_070.scr	4	シェリア	Cheria Barnes	personagem		それって、何かおかしい事……なの？	Is there... something strange about that?	
+cev75_070.scr:5	cev75_070.scr	5	ノーマ	Norma Beatty	personagem	CRLF x1	おかしいとかじゃなくて〜。\nこう、生活臭漂ってるって感じ？	It's not about being strange~\nIt's like... you smell of domestic life?	
+cev75_070.scr:6	cev75_070.scr	6	ジェイ	Jay	personagem	CRLF x1	まぁ、そういうノーマさんが、\nひどく幼いのは確かですけどね	Well, it's undeniable that Norma-san\nherself is terribly childish, though.	
+cev75_070.scr:7	cev75_070.scr	7	ノーマ	Norma Beatty	personagem	CRLF x1	なぬ〜！？　\nこんガキ！	Whaaat!?\nYou little brat!	
+cev75_070.scr:8	cev75_070.scr	8	ジェイ	Jay	personagem	CRLF x1	そうやってすぐ怒るとこなんて\nまさに、じゃないですか	Getting mad right away like that\njust proves my point, doesn't it?	
+cev75_070.scr:9	cev75_070.scr	9	ノーマ	Norma Beatty	personagem	CRLF x1	あんたが怒らす様な事\n言ってんでしょーがっ！！	Because you said something\nto deliberately piss me off!!	
+cev75_070.scr:10	cev75_070.scr	10	シェリア	Cheria Barnes	personagem	CRLF x1	（お、おばさん……。\n　私って、そうなの……？）	(An o-old lady...\n Am I really like that...?)	
+cev75_080.scr:0	cev75_080.scr	0	クロエ	Chloe Valens	personagem		……時にシェリア、質問があるのだが	...Cheria, I have a question for you.	
+cev75_080.scr:1	cev75_080.scr	1	シェリア	Cheria Barnes	personagem		何かしら？	What might that be?	
+cev75_080.scr:2	cev75_080.scr	2	クロエ	Chloe Valens	personagem	CRLF x2	その……誤解を招く様な行動を\nしているなら、改めたいんだ。\nだから、教えてくれ	Well... if I'm doing anything misleading,\nI wish to correct my behavior.\nSo please tell me.	
+cev75_080.scr:3	cev75_080.scr	3	クロエ	Chloe Valens	personagem	CRLF x2	どうして、私がクーリッジに\n特別な感情を持っていると\n誤解が生まれたのだ？	Why did people get the misunderstanding\nthat I harbor special feelings\nfor Coolidge?	
+cev75_080.scr:4	cev75_080.scr	4	シェリア	Cheria Barnes	personagem	CRLF x2	いいのよ、気にしないで。\nあなたは自然体でいるのが\n一番魅力的なのよ！	It's fine, don't worry about it.\nYou being your natural self\nis what makes you most charming!	
+cev75_080.scr:5	cev75_080.scr	5	シェリア	Cheria Barnes	personagem	CRLF x2	周りの目や意見なんか気にしちゃダメ。\nクロエはクロエらしく、ね。\nファイト！	Don't worry about what others think.\nJust be yourself, Chloe.\nFight on!	
+cev75_080.scr:6	cev75_080.scr	6	クロエ	Chloe Valens	personagem	CRLF x1	ま、まあ……自然体では\nいるつもりだが……	W-Well... I do intend\nto be my natural self, but...	
+cev75_080.scr:7	cev75_080.scr	7	シェリア	Cheria Barnes	personagem		だから、そのままでいいのよ	So you're great just the way you are!	
+cev75_080.scr:8	cev75_080.scr	8	シェリア	Cheria Barnes	personagem	CRLF x2	困った事とか、悩みがあったら、\n今みたいに遠慮しないで、\nいつでも私に相談してね	If you have troubles or worries,\ndon't hesitate like today,\ncome consult me anytime, okay?	
+cev75_080.scr:9	cev75_080.scr	9	クロエ	Chloe Valens	personagem	CRLF x1	……？　\nわ、わかった	...?\nU-Understood.	
+cev75_080.scr:10	cev75_080.scr	10	クロエ	Chloe Valens	personagem	CRLF x2	シェリアは、色々と\n心配してくれているだけなのだな。\nすまない……恩に着る	So you were merely worrying, Cheria,\nabout all sorts of things for me.\nI apologize... and thank you.	
+cev75_080.scr:11	cev75_080.scr	11	シェリア	Cheria Barnes	personagem		いいのよ、気にしないで	Don't mention it, think nothing of it!	
+cev75_080.scr:12	cev75_080.scr	12	シェリア	Cheria Barnes	personagem		（うふふ……∀）	(Ufufu... :) )	
+cev75_090.scr:0	cev75_090.scr	0	シェリア	Cheria Barnes	personagem	CRLF x1	フレンさん……ですよね？\nいつもアスベルがお世話になっています	You're Flynn-san... right?\nThanks for always looking after Asbel.	
+cev75_090.scr:1	cev75_090.scr	1	フレン	Flynn Scifo	personagem	CRLF x2	そんな、とんでもない。\nむしろ彼には、こっちが\n助けられているくらいだよ	Not at all, don't mention it.\nIf anything, he is the one\nwho has been helping me out.	
+cev75_090.scr:2	cev75_090.scr	2	シェリア	Cheria Barnes	personagem	CRLF x1	……。\nあの……お聞きしたい事があるんです	...\nUm... there's something I'd like to ask.	
+cev75_090.scr:3	cev75_090.scr	3	シェリア	Cheria Barnes	personagem	CRLF x2	アスベルは……\n騎士として立派に、\n務めを果たせているんでしょうか	Is Asbel...\nfulfilling his duties admirably\nas a knight?	
+cev75_090.scr:4	cev75_090.scr	4	フレン	Flynn Scifo	personagem	CRLF x2	もちろん。\nアスベルはとても誠実で、真面目だ。\nそして正義感が強い	Of course.\nAsbel is deeply sincere and earnest.\nAnd he has a strong sense of justice.	
+cev75_090.scr:5	cev75_090.scr	5	フレン	Flynn Scifo	personagem	CRLF x2	そう遠くない未来に、\n騎士団の未来を担う人物に\nなってくれると思っているよ	In the not-too-distant future,\nI believe he will become someone who\nshoulders the future of the knights.	
+cev75_090.scr:6	cev75_090.scr	6	シェリア	Cheria Barnes	personagem		そうなんですか……	Is that so...?	
+cev75_090.scr:7	cev75_090.scr	7	シェリア	Cheria Barnes	personagem	CRLF x2	（アスベル……騎士団でもずっと\n　頑張り続けていたのね……。\n　子どもの頃からの夢、だったものね……）	(Asbel... you kept giving it your all\n even in the knighthood...\n It was your dream since childhood...)	
+cev75_090.scr:8	cev75_090.scr	8	フレン	Flynn Scifo	personagem	CRLF x1	気になるなら、本人に\n直接聞いてみてはどうだい？	If you're curious, why don't you\nask him yourself directly?	
+cev75_090.scr:9	cev75_090.scr	9	シェリア	Cheria Barnes	personagem	CRLF x1	あ……いえ、いいんです。\nちょっと聞いてみたかっただけですから！	Ah... no, it's fine.\nI just wanted to ask a little, is all!	
+cev75_090.scr:10	cev75_090.scr	10	フレン	Flynn Scifo	personagem		？？	??	
+cev75_100.scr:0	cev75_100.scr	0	マルタ	Marta Lualdi	personagem	CRLF x1	シェリアって、アスベルと\n幼馴染みなんだよね？	Cheria, you're childhood friends\nwith Asbel, right?	
+cev75_100.scr:1	cev75_100.scr	1	シェリア	Cheria Barnes	personagem		そうよ	That's right.	
+cev75_100.scr:2	cev75_100.scr	2	マルタ	Marta Lualdi	personagem	CRLF x2	いいなぁ、あんなかっこいい\n幼馴染みがいるなんて！\nこれぞ、騎士！　って感じだもんね	Must be nice having such a cool\nchildhood friend!\nHe really feels like a true knight!	
+cev75_100.scr:3	cev75_100.scr	3	マルタ	Marta Lualdi	personagem	CRLF x1	昔からモテるタイプだったんじゃない？\n騎士団にいた頃とか……	Was he always popular with girls?\nLike back when he was in the knights...	
+cev75_100.scr:4	cev75_100.scr	4	シェリア	Cheria Barnes	personagem	CRLF x1	……騎士団にいた頃の事は……\nよく知らないの	...About his time in the knighthood...\nI don't really know much.	
+cev75_100.scr:5	cev75_100.scr	5	マルタ	Marta Lualdi	personagem	CRLF x1	え？　\nそうなの？	Huh?\nReally?	
+cev75_100.scr:6	cev75_100.scr	6	シェリア	Cheria Barnes	personagem	CRLF x1	小さい頃、騎士になる！　って言って\n一人で村を飛び出したのよ	When he was young, he said he'd become\na knight, and ran away from home alone.	
+cev75_100.scr:7	cev75_100.scr	7	シェリア	Cheria Barnes	personagem	CRLF x1	それから、７年間……。\nずっと連絡は取っていなかったから	And for seven years after that...\nwe were never in touch at all.	
+cev75_100.scr:8	cev75_100.scr	8	マルタ	Marta Lualdi	personagem		あ……そう、なんだ	Ah... I see...	
+cev75_100.scr:9	cev75_100.scr	9	シェリア	Cheria Barnes	personagem	CRLF x2	そんな顔しないで。\n昔の事だもの。\n別に、気にしてないから	Don't make that face.\nIt's all in the past.\nI really don't mind at all.	
+cev75_100.scr:10	cev75_100.scr	10	シェリア	Cheria Barnes	personagem		……ほんとに、気にしてないから	...Really, I don't mind at all.	
+cev75_200.scr:0	cev75_200.scr	0	シェリア	Cheria Barnes	personagem	CRLF x1	通常。\n	Normal.\n	
+cev75_200.scr:1	cev75_200.scr	1	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:2	cev75_200.scr	2	シェリア	Cheria Barnes	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev75_200.scr:3	cev75_200.scr	3	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:4	cev75_200.scr	4	シェリア	Cheria Barnes	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev75_200.scr:5	cev75_200.scr	5	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:6	cev75_200.scr	6	シェリア	Cheria Barnes	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev75_200.scr:7	cev75_200.scr	7	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:8	cev75_200.scr	8	シェリア	Cheria Barnes	personagem	CRLF x1	真剣。\n	Serious.\n	
+cev75_200.scr:9	cev75_200.scr	9	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:10	cev75_200.scr	10	シェリア	Cheria Barnes	personagem	CRLF x1	苦笑。\n	Wry smile.\n	
+cev75_200.scr:11	cev75_200.scr	11	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:12	cev75_200.scr	12	シェリア	Cheria Barnes	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev75_200.scr:13	cev75_200.scr	13	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:14	cev75_200.scr	14	シェリア	Cheria Barnes	personagem	CRLF x1	通常。\n	Normal.\n	
+cev75_200.scr:15	cev75_200.scr	15	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:16	cev75_200.scr	16	シェリア	Cheria Barnes	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev75_200.scr:17	cev75_200.scr	17	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:18	cev75_200.scr	18	シェリア	Cheria Barnes	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev75_200.scr:19	cev75_200.scr	19	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:20	cev75_200.scr	20	シェリア	Cheria Barnes	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev75_200.scr:21	cev75_200.scr	21	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:22	cev75_200.scr	22	シェリア	Cheria Barnes	personagem	CRLF x1	真剣。\n	Serious.\n	
+cev75_200.scr:23	cev75_200.scr	23	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:24	cev75_200.scr	24	シェリア	Cheria Barnes	personagem	CRLF x1	苦笑。\n	Wry smile.\n	
+cev75_200.scr:25	cev75_200.scr	25	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:26	cev75_200.scr	26	シェリア	Cheria Barnes	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev75_200.scr:27	cev75_200.scr	27	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:28	cev75_200.scr	28	シェリア	Cheria Barnes	personagem	CRLF x1	通常。\n	Normal.\n	
+cev75_200.scr:29	cev75_200.scr	29	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:30	cev75_200.scr	30	シェリア	Cheria Barnes	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev75_200.scr:31	cev75_200.scr	31	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:32	cev75_200.scr	32	シェリア	Cheria Barnes	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev75_200.scr:33	cev75_200.scr	33	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:34	cev75_200.scr	34	シェリア	Cheria Barnes	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev75_200.scr:35	cev75_200.scr	35	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:36	cev75_200.scr	36	シェリア	Cheria Barnes	personagem	CRLF x1	真剣。\n	Serious.\n	
+cev75_200.scr:37	cev75_200.scr	37	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:38	cev75_200.scr	38	シェリア	Cheria Barnes	personagem	CRLF x1	苦笑。\n	Wry smile.\n	
+cev75_200.scr:39	cev75_200.scr	39	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev75_200.scr:40	cev75_200.scr	40	シェリア	Cheria Barnes	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev75_200.scr:41	cev75_200.scr	41	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev76_200.scr:0	cev76_200.scr	0	ダオス	Dhaos	personagem	CRLF x1	通常。\n	Normal.\n	
+cev76_200.scr:1	cev76_200.scr	1	ダオス	Dhaos	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev76_200.scr:2	cev76_200.scr	2	ダオス	Dhaos	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev76_200.scr:3	cev76_200.scr	3	ダオス	Dhaos	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev76_200.scr:4	cev76_200.scr	4	ダオス	Dhaos	personagem	CRLF x1	通常。\n	Normal.\n	
+cev76_200.scr:5	cev76_200.scr	5	ダオス	Dhaos	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev76_200.scr:6	cev76_200.scr	6	ダオス	Dhaos	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev76_200.scr:7	cev76_200.scr	7	ダオス	Dhaos	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev76_200.scr:8	cev76_200.scr	8	ダオス	Dhaos	personagem	CRLF x1	通常。\n	Normal.\n	
+cev76_200.scr:9	cev76_200.scr	9	ダオス	Dhaos	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev76_200.scr:10	cev76_200.scr	10	ダオス	Dhaos	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev76_200.scr:11	cev76_200.scr	11	ダオス	Dhaos	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev77_200.scr:0	cev77_200.scr	0	バルバトス	Barbatos Goetia	personagem	CRLF x1	通常。\n	Normal.\n	
+cev77_200.scr:1	cev77_200.scr	1	バルバトス	Barbatos Goetia	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev77_200.scr:2	cev77_200.scr	2	バルバトス	Barbatos Goetia	personagem	CRLF x1	来いよ！。\n	Come at me!.\n	
+cev77_200.scr:3	cev77_200.scr	3	バルバトス	Barbatos Goetia	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev77_200.scr:4	cev77_200.scr	4	バルバトス	Barbatos Goetia	personagem	CRLF x1	通常。\n	Normal.\n	
+cev77_200.scr:5	cev77_200.scr	5	バルバトス	Barbatos Goetia	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev77_200.scr:6	cev77_200.scr	6	バルバトス	Barbatos Goetia	personagem	CRLF x1	来いよ！。\n	Come at me!.\n	
+cev77_200.scr:7	cev77_200.scr	7	バルバトス	Barbatos Goetia	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev77_200.scr:8	cev77_200.scr	8	バルバトス	Barbatos Goetia	personagem	CRLF x1	通常。\n	Normal.\n	
+cev77_200.scr:9	cev77_200.scr	9	バルバトス	Barbatos Goetia	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev77_200.scr:10	cev77_200.scr	10	バルバトス	Barbatos Goetia	personagem	CRLF x1	来いよ！。\n	Come at me!.\n	
+cev77_200.scr:11	cev77_200.scr	11	バルバトス	Barbatos Goetia	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev78_200.scr:0	cev78_200.scr	0	ユグドラシル	Yggdrasill	personagem	CRLF x1	通常。\n	Normal.\n	
+cev78_200.scr:1	cev78_200.scr	1	ユグドラシル	Yggdrasill	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev78_200.scr:2	cev78_200.scr	2	ユグドラシル	Yggdrasill	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev78_200.scr:3	cev78_200.scr	3	ユグドラシル	Yggdrasill	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev78_200.scr:4	cev78_200.scr	4	ユグドラシル	Yggdrasill	personagem	CRLF x1	通常。\n	Normal.\n	
+cev78_200.scr:5	cev78_200.scr	5	ユグドラシル	Yggdrasill	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev78_200.scr:6	cev78_200.scr	6	ユグドラシル	Yggdrasill	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev78_200.scr:7	cev78_200.scr	7	ユグドラシル	Yggdrasill	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev78_200.scr:8	cev78_200.scr	8	ユグドラシル	Yggdrasill	personagem	CRLF x1	通常。\n	Normal.\n	
+cev78_200.scr:9	cev78_200.scr	9	ユグドラシル	Yggdrasill	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev78_200.scr:10	cev78_200.scr	10	ユグドラシル	Yggdrasill	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev78_200.scr:11	cev78_200.scr	11	ユグドラシル	Yggdrasill	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev79_200.scr:0	cev79_200.scr	0	サレ	Saleh	personagem	CRLF x1	通常。\n	Normal.\n	
+cev79_200.scr:1	cev79_200.scr	1	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev79_200.scr:2	cev79_200.scr	2	サレ	Saleh	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev79_200.scr:3	cev79_200.scr	3	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev79_200.scr:4	cev79_200.scr	4	サレ	Saleh	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev79_200.scr:5	cev79_200.scr	5	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev79_200.scr:6	cev79_200.scr	6	サレ	Saleh	personagem	CRLF x1	高笑い。\n	Loud laughter.\n	
+cev79_200.scr:7	cev79_200.scr	7	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev79_200.scr:8	cev79_200.scr	8	サレ	Saleh	personagem	CRLF x1	通常。\n	Normal.\n	
+cev79_200.scr:9	cev79_200.scr	9	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev79_200.scr:10	cev79_200.scr	10	サレ	Saleh	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev79_200.scr:11	cev79_200.scr	11	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev79_200.scr:12	cev79_200.scr	12	サレ	Saleh	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev79_200.scr:13	cev79_200.scr	13	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev79_200.scr:14	cev79_200.scr	14	サレ	Saleh	personagem	CRLF x1	高笑い。\n	Loud laughter.\n	
+cev79_200.scr:15	cev79_200.scr	15	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev79_200.scr:16	cev79_200.scr	16	サレ	Saleh	personagem	CRLF x1	通常。\n	Normal.\n	
+cev79_200.scr:17	cev79_200.scr	17	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev79_200.scr:18	cev79_200.scr	18	サレ	Saleh	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev79_200.scr:19	cev79_200.scr	19	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev79_200.scr:20	cev79_200.scr	20	サレ	Saleh	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev79_200.scr:21	cev79_200.scr	21	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev79_200.scr:22	cev79_200.scr	22	サレ	Saleh	personagem	CRLF x1	高笑い。\n	Loud laughter.\n	
+cev79_200.scr:23	cev79_200.scr	23	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev80_200.scr:0	cev80_200.scr	0	ミミー	Mimmy Bread	personagem	CRLF x1	通常。\n	Normal.\n	
+cev80_200.scr:1	cev80_200.scr	1	ミミー	Mimmy Bread	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev80_200.scr:2	cev80_200.scr	2	ミミー	Mimmy Bread	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev80_200.scr:3	cev80_200.scr	3	ミミー	Mimmy Bread	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev80_200.scr:4	cev80_200.scr	4	ミミー	Mimmy Bread	personagem	CRLF x1	通常。\n	Normal.\n	
+cev80_200.scr:5	cev80_200.scr	5	ミミー	Mimmy Bread	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev80_200.scr:6	cev80_200.scr	6	ミミー	Mimmy Bread	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev80_200.scr:7	cev80_200.scr	7	ミミー	Mimmy Bread	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev80_200.scr:8	cev80_200.scr	8	ミミー	Mimmy Bread	personagem	CRLF x1	通常。\n	Normal.\n	
+cev80_200.scr:9	cev80_200.scr	9	ミミー	Mimmy Bread	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev80_200.scr:10	cev80_200.scr	10	ミミー	Mimmy Bread	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev80_200.scr:11	cev80_200.scr	11	ミミー	Mimmy Bread	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:0	cev81_200.scr	0	クィッキー	Quickie	personagem	CRLF x1	通常。\n	Normal.\n	
+cev81_200.scr:1	cev81_200.scr	1	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:2	cev81_200.scr	2	クィッキー	Quickie	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev81_200.scr:3	cev81_200.scr	3	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:4	cev81_200.scr	4	クィッキー	Quickie	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev81_200.scr:5	cev81_200.scr	5	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:6	cev81_200.scr	6	クィッキー	Quickie	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev81_200.scr:7	cev81_200.scr	7	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:8	cev81_200.scr	8	クィッキー	Quickie	personagem	CRLF x1	きょとん。\n	Bewildered.\n	
+cev81_200.scr:9	cev81_200.scr	9	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:10	cev81_200.scr	10	クィッキー	Quickie	personagem	CRLF x1	驚かせ。\n	Startle.\n	
+cev81_200.scr:11	cev81_200.scr	11	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:12	cev81_200.scr	12	クィッキー	Quickie	personagem	CRLF x1	通常。\n	Normal.\n	
+cev81_200.scr:13	cev81_200.scr	13	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:14	cev81_200.scr	14	クィッキー	Quickie	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev81_200.scr:15	cev81_200.scr	15	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:16	cev81_200.scr	16	クィッキー	Quickie	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev81_200.scr:17	cev81_200.scr	17	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:18	cev81_200.scr	18	クィッキー	Quickie	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev81_200.scr:19	cev81_200.scr	19	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:20	cev81_200.scr	20	クィッキー	Quickie	personagem	CRLF x1	きょとん。\n	Bewildered.\n	
+cev81_200.scr:21	cev81_200.scr	21	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:22	cev81_200.scr	22	クィッキー	Quickie	personagem	CRLF x1	驚かせ。\n	Startle.\n	
+cev81_200.scr:23	cev81_200.scr	23	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:24	cev81_200.scr	24	クィッキー	Quickie	personagem	CRLF x1	通常。\n	Normal.\n	
+cev81_200.scr:25	cev81_200.scr	25	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:26	cev81_200.scr	26	クィッキー	Quickie	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev81_200.scr:27	cev81_200.scr	27	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:28	cev81_200.scr	28	クィッキー	Quickie	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev81_200.scr:29	cev81_200.scr	29	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:30	cev81_200.scr	30	クィッキー	Quickie	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev81_200.scr:31	cev81_200.scr	31	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:32	cev81_200.scr	32	クィッキー	Quickie	personagem	CRLF x1	きょとん。\n	Bewildered.\n	
+cev81_200.scr:33	cev81_200.scr	33	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev81_200.scr:34	cev81_200.scr	34	クィッキー	Quickie	personagem	CRLF x1	驚かせ。\n	Startle.\n	
+cev81_200.scr:35	cev81_200.scr	35	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev82_200.scr:0	cev82_200.scr	0	キュッポ	Kyuppo	personagem	CRLF x1	通常。\n	Normal.\n	
+cev82_200.scr:1	cev82_200.scr	1	キュッポ	Kyuppo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev82_200.scr:2	cev82_200.scr	2	キュッポ	Kyuppo	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev82_200.scr:3	cev82_200.scr	3	キュッポ	Kyuppo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev82_200.scr:4	cev82_200.scr	4	キュッポ	Kyuppo	personagem	CRLF x1	通常。\n	Normal.\n	
+cev82_200.scr:5	cev82_200.scr	5	キュッポ	Kyuppo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev82_200.scr:6	cev82_200.scr	6	キュッポ	Kyuppo	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev82_200.scr:7	cev82_200.scr	7	キュッポ	Kyuppo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev82_200.scr:8	cev82_200.scr	8	キュッポ	Kyuppo	personagem	CRLF x1	通常。\n	Normal.\n	
+cev82_200.scr:9	cev82_200.scr	9	キュッポ	Kyuppo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev82_200.scr:10	cev82_200.scr	10	キュッポ	Kyuppo	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev82_200.scr:11	cev82_200.scr	11	キュッポ	Kyuppo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev83_200.scr:0	cev83_200.scr	0	ピッポ	Pippo	personagem	CRLF x1	通常。\n	Normal.\n	
+cev83_200.scr:1	cev83_200.scr	1	ピッポ	Pippo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev83_200.scr:2	cev83_200.scr	2	ピッポ	Pippo	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev83_200.scr:3	cev83_200.scr	3	ピッポ	Pippo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev83_200.scr:4	cev83_200.scr	4	ピッポ	Pippo	personagem	CRLF x1	通常。\n	Normal.\n	
+cev83_200.scr:5	cev83_200.scr	5	ピッポ	Pippo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev83_200.scr:6	cev83_200.scr	6	ピッポ	Pippo	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev83_200.scr:7	cev83_200.scr	7	ピッポ	Pippo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev83_200.scr:8	cev83_200.scr	8	ピッポ	Pippo	personagem	CRLF x1	通常。\n	Normal.\n	
+cev83_200.scr:9	cev83_200.scr	9	ピッポ	Pippo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev83_200.scr:10	cev83_200.scr	10	ピッポ	Pippo	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev83_200.scr:11	cev83_200.scr	11	ピッポ	Pippo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	

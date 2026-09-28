@@ -1,0 +1,108 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev09_010.scr:0	qev09_010.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	おい、ヴェイグ……本当に行くのか？\nまた罠かもしれねえんだぞ		
+qev09_010.scr:1	qev09_010.scr	1	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……ああ。\nわかっている		
+qev09_010.scr:2	qev09_010.scr	2	ティトレイ	Tytree Crowe	personagem		だったら……！		
+qev09_010.scr:3	qev09_010.scr	3	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	だが、逃げるわけには行かない。\nサレが逆上すれば、また無関係な人を\n傷付けるかもしれない		
+qev09_010.scr:4	qev09_010.scr	4	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	それに……、\nあいつはオレ達との決着を望んでいる		
+qev09_010.scr:5	qev09_010.scr	5	アニー	Annie Barrs	personagem	CRLF x1	決着なら、もう付いたはずなのに……。\nどうして、そこまで……		
+qev09_010.scr:6	qev09_010.scr	6	ユージーン	Eugene Gallardo	personagem	CRLF x2	プライドの高い奴だからな……。\nとどめを刺されず生き長らえたのが\n余程屈辱的だったんだろう		
+qev09_010.scr:7	qev09_010.scr	7	マオ	Mao	personagem	CRLF x1	それで、死んでも死に切れなくて\nこんなもの送り付けてきたってわけ？		
+qev09_010.scr:8	qev09_010.scr	8	マオ	Mao	personagem	CRLF x2	ほんと、どこまで迷惑な奴なんだヨ！\nせっかく、ヴェイグや\n○○が……		
+qev09_010.scr:9	qev09_010.scr	9	ヴェイグ	Veigue Lungberg	personagem		いいんだ、マオ		
+qev09_010.scr:10	qev09_010.scr	10	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	○○……。\n悪いが、少し付き合ってもらえないか？		
+qev09_010.scr:11	qev09_010.scr	11	(ator 200)	(ator 200)	desconhecido		…………		
+qev09_010.scr:12	qev09_010.scr	12	ティトレイ	Tytree Crowe	personagem	CRLF x1	どいつもこいつも\nどうしてそう、死に急ぐんだ？		
+qev09_010.scr:13	qev09_010.scr	13	ティトレイ	Tytree Crowe	personagem	CRLF x2	命さえありゃ、大概の事はどうにか出来る。\n本当にどうにもならねえ事なんて\nそんなにはねえってのに……！		
+qev09_010.scr:14	qev09_010.scr	14	アニー	Annie Barrs	personagem		ティトレイさん……		
+qev09_010.scr:15	qev09_010.scr	15	ユージーン	Eugene Gallardo	personagem		…………		
+qev09_010.scr:16	qev09_010.scr	16	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「最後の決戦」が\nエントリーされました。\nクエストカウンタから受ける事が出来ます		
+qev09_020.scr:0	qev09_020.scr	0	ヴェイグ	Veigue Lungberg	personagem		……そうか		
+qev09_020.scr:1	qev09_020.scr	1	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……○○まで\n巻き込んでしまって、すまない		
+qev09_020.scr:2	qev09_020.scr	2	マオ	Mao	personagem	CRLF x2	みんなで話し合ったんだけど、\nボクとヴェイグとアニーが\n○○に同行するよ		
+qev09_020.scr:3	qev09_020.scr	3	アニー	Annie Barrs	personagem	CRLF x2	ユージーンさんやティトレイさんには\n万一、敵の奇襲などがあった時の為に\nここに残ってもらう事になりました		
+qev09_020.scr:4	qev09_020.scr	4	ヴェイグ	Veigue Lungberg	personagem		今度こそ、あいつと決着を付ける		
+qev09_020.scr:5	qev09_020.scr	5	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	これで終わりにするんだ……。\n今度こそ……		
+qev09_020.scr:6	qev09_020.scr	6	マオ	Mao	personagem	CRLF x1	今度こそ和解、っていうのは……\nさすがにもう、無理……だよね？		
+qev09_020.scr:7	qev09_020.scr	7	アニー	Annie Barrs	personagem	CRLF x2	憎しみの思念が強過ぎて、\n自分では上手く浄化する事が\n出来ないのだと思います		
+qev09_020.scr:8	qev09_020.scr	8	アニー	Annie Barrs	personagem	CRLF x2	やはり……、\n戦いで決着を付ける以外に\nもう方法は……		
+qev09_020.scr:9	qev09_020.scr	9	ヴェイグ	Veigue Lungberg	personagem		…………		
+qev09_030.scr:0	qev09_030.scr	0	ヴェイグ	Veigue Lungberg	personagem		ここで……、あいつが待っているのか		
+qev09_030.scr:1	qev09_030.scr	1	ヴェイグ	Veigue Lungberg	personagem		サレ……！		
+qev09_030.scr:2	qev09_030.scr	2	マオ	Mao	personagem	CRLF x1	ヴェイグ、気を付けて。\n罠があるかもしれないよ		
+qev09_030.scr:3	qev09_030.scr	3	アニー	Annie Barrs	personagem	CRLF x1	はやる気持ちもわかりますが、\nこういう時こそ、慎重に進みましょう		
+qev09_040.scr:0	qev09_040.scr	0	マオ	Mao	personagem		思えば、サレとの付き合いも長いよね……		
+qev09_040.scr:1	qev09_040.scr	1	マオ	Mao	personagem	CRLF x2	初めて会った時から\n嫌な奴だと思ってたけど、\nここまで曲がった性格だとは思わなかったヨ		
+qev09_040.scr:2	qev09_040.scr	2	アニー	Annie Barrs	personagem	CRLF x2	あの残虐さと冷酷さ……。\nどういう環境に身を置けば、\nあそこまで人に憎しみを持てるのかしら		
+qev09_040.scr:3	qev09_040.scr	3	マオ	Mao	personagem	CRLF x1	あのネチネチした陰険な態度、\nホント徹底してるよネ！		
+qev09_040.scr:4	qev09_040.scr	4	マオ	Mao	personagem	CRLF x1	うう、思い出しただけでも\n背中がゾクゾクしてくるヨ……		
+qev09_040.scr:5	qev09_040.scr	5	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	あいつについて、オレ達が\n知っている事は少ない		
+qev09_040.scr:6	qev09_040.scr	6	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	だが、確かな事もある。\nあいつのしてきた事は決して\n許されるものではない		
+qev09_040.scr:7	qev09_040.scr	7	ヴェイグ	Veigue Lungberg	personagem		それだけは絶対に言えるはずだ		
+qev09_040.scr:8	qev09_040.scr	8	マオ	Mao	personagem	CRLF x1	そうだね……。\n今度こそ、終わりにしなきゃ		
+qev09_040.scr:9	qev09_040.scr	9	アニー	Annie Barrs	personagem	CRLF x1	負の思念の連鎖……。\nわたし達で断ち切りましょう		
+qev09_040.scr:10	qev09_040.scr	10	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	ああ。\n行こう！		
+qev09_050.scr:0	qev09_050.scr	0	サレ	Saleh	personagem		がはっ……ごふ、ごほっ		
+qev09_050.scr:1	qev09_050.scr	1	ヴェイグ	Veigue Lungberg	personagem		……勝負あったな、サレ		
+qev09_050.scr:2	qev09_050.scr	2	サレ	Saleh	personagem	CRLF x1	フ、フフ……ハハハハ……。\nアーハハハハ……！！		
+qev09_050.scr:3	qev09_050.scr	3	サレ	Saleh	personagem	CRLF x1	全く……確かに、キミは……\n強くなった、よ……ヴェイグ		
+qev09_050.scr:4	qev09_050.scr	4	サレ	Saleh	personagem	CRLF x1	キミの、顔が……苦痛に歪み\n泣き叫ぶ……姿を、見られなかった事が		
+qev09_050.scr:5	qev09_050.scr	5	サレ	Saleh	personagem	CRLF x1	本当に……残念で、\nたまらないよ……フフフ		
+qev09_050.scr:6	qev09_050.scr	6	サレ	Saleh	personagem	CRLF x2	でも、これで……わかっただろう？\nどんなに、綺麗事を並べても\nコレが現実……		
+qev09_050.scr:7	qev09_050.scr	7	サレ	Saleh	personagem	CRLF x2	所詮、人間なんて\n互いに……決定的に、相容れない\nもの……なんだよ……		
+qev09_050.scr:8	qev09_050.scr	8	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	オレは、そうは思わない。\nここにいる仲間や……、\nギルドのみんなは違う		
+qev09_050.scr:9	qev09_050.scr	9	ヴェイグ	Veigue Lungberg	personagem		そして、世界も徐々に変わりつつある		
+qev09_050.scr:10	qev09_050.scr	10	サレ	Saleh	personagem	CRLF x2	でも……僕はこうして……\nキミと……\nわかり合う事などなかった！		
+qev09_050.scr:11	qev09_050.scr	11	サレ	Saleh	personagem	CRLF x2	これが！　何を意味するかくらい\nキミにだってわかるだろう！？\nヴェイグ！！		
+qev09_050.scr:12	qev09_050.scr	12	ヴェイグ	Veigue Lungberg	personagem		……！		
+qev09_050.scr:13	qev09_050.scr	13	サレ	Saleh	personagem	CRLF x2	○○……。\nキミも所詮……まがいものの\n作られた、光……		
+qev09_050.scr:14	qev09_050.scr	14	サレ	Saleh	personagem	CRLF x2	キミが絶望に膝を屈して……、\nもがきながら、堕ちていく……日が\nいつか、来る……きっとね……		
+qev09_050.scr:15	qev09_050.scr	15	サレ	Saleh	personagem		楽しみだなぁ……フフ……		
+qev09_050.scr:16	qev09_050.scr	16	サレ	Saleh	personagem		フフフ……アハハハハ……！		
+qev09_050.scr:17	qev09_050.scr	17	サレ	Saleh	personagem		アハハ……ハ……ハ……		
+qev09_050.scr:18	qev09_050.scr	18	アニー	Annie Barrs	personagem	CRLF x1	……これで、本当に……。\n終わったんですね		
+qev09_050.scr:19	qev09_050.scr	19	マオ	Mao	personagem	CRLF x1	最後まで、嫌な奴だったけど……。\nだけど……		
+qev09_050.scr:20	qev09_050.scr	20	マオ	Mao	personagem	CRLF x1	何でかな……こんなのって\n悲し過ぎるよ……		
+qev09_050.scr:21	qev09_050.scr	21	ヴェイグ	Veigue Lungberg	personagem		…………		
+qev09_050.scr:22	qev09_050.scr	22	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	戻ろう。\n……みんなが待っている		
+qev09_060.scr:0	qev09_060.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	ご苦労様。\n……その様子だと、無事に\n決着は付けられたみたいね		
+qev09_060.scr:1	qev09_060.scr	1	アニー	Annie Barrs	personagem		…………		
+qev09_060.scr:2	qev09_060.scr	2	マオ	Mao	personagem	CRLF x1	ほんとに……、\nこれで全部終わったのかな……		
+qev09_060.scr:3	qev09_060.scr	3	ヴェイグ	Veigue Lungberg	personagem		マオ……		
+qev09_060.scr:4	qev09_060.scr	4	ティトレイ	Tytree Crowe	personagem	CRLF x2	サレの奴はもういない。\nだから、あいつに傷付けられて\n苦しむ人達ももういない		
+qev09_060.scr:5	qev09_060.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x2	だけど、それで全部が終わりって\nわけじゃないんだ。\n……そうだろ、ヴェイグ？		
+qev09_060.scr:6	qev09_060.scr	6	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	……ああ。\nサレとは……最後まで\nわかり合う事はなかった		
+qev09_060.scr:7	qev09_060.scr	7	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	同じヒトでも……決定的に\n相容れない存在はある……。\nそうして争いが起こる。そんな事が		
+qev09_060.scr:8	qev09_060.scr	8	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	これから先も……、\n当たり前に続いていいはずはない		
+qev09_060.scr:9	qev09_060.scr	9	ユージーン	Eugene Gallardo	personagem		ヴェイグの言う通りだ		
+qev09_060.scr:10	qev09_060.scr	10	ユージーン	Eugene Gallardo	personagem	CRLF x1	サレは今の時代が生んだ歪み……。\n負、そのものだったのかもしれん		
+qev09_060.scr:11	qev09_060.scr	11	マオ	Mao	personagem	CRLF x2	サレが死んだからって……、\n何かが解決したわけじゃ、\nないんだよね		
+qev09_060.scr:12	qev09_060.scr	12	アニー	Annie Barrs	personagem	CRLF x2	ええ。\nむしろこれからが、\n本当の戦いなのかもしれません		
+qev09_060.scr:13	qev09_060.scr	13	ヴェイグ	Veigue Lungberg	personagem		…………		
+qev09_060.scr:14	qev09_060.scr	14	アンジュ	Ange Serena	personagem	CRLF x2	だけど、少なくともこれからは\n自分達の足で歩いて\n自分達の意志で未来を築いていける		
+qev09_060.scr:15	qev09_060.scr	15	アンジュ	Ange Serena	personagem		そうだよね、○○？		
+qev09_060.scr:16	qev09_060.scr	16	(ator 200)	(ator 200)	desconhecido		…………		
+qev09_060.scr:17	qev09_060.scr	17	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	……そうだな。\n本当に大切なのは、これから\nオレ達が……ヒトがどうしていくかだ		
+qev09_060.scr:18	qev09_060.scr	18	アニー	Annie Barrs	personagem	CRLF x1	そうですね。\n……わたしもそう思います		
+qev09_060.scr:19	qev09_060.scr	19	マオ	Mao	personagem	CRLF x1	後ろ向きな事ばっかり考えてたって、\n仕方ないしネ！		
+qev09_060.scr:20	qev09_060.scr	20	ユージーン	Eugene Gallardo	personagem	CRLF x2	うむ。\n今回の事を、今後にどう活かしていくかが\n課題だろうな		
+qev09_060.scr:21	qev09_060.scr	21	ティトレイ	Tytree Crowe	personagem	CRLF x2	ああ。\nヒトの心はそんなに簡単に\n駄目になっちまう様な弱いモンじゃねぇ		
+qev09_060.scr:22	qev09_060.scr	22	ティトレイ	Tytree Crowe	personagem	CRLF x1	弱さも、負も、変えていけるんだ。\nおれ達は		
+qev09_060.scr:23	qev09_060.scr	23	アンジュ	Ange Serena	personagem	CRLF x1	うふふ。\nいつものみんなに戻ったみたいね		
+qev09_060.scr:24	qev09_060.scr	24	アンジュ	Ange Serena	personagem	CRLF x2	○○。\n今回も本当にお疲れ様。\nゆっくり体を休めてね		
+qev09_060.scr:25	qev09_060.scr	25	アンジュ	Ange Serena	personagem	CRLF x2	……もし思い詰めそうになったら、\nわたしが懺悔を聞いてあげるから。\n遠慮しないで、いつでもいらっしゃい♪		
+qev09_070.scr:0	qev09_070.scr	0	サレ	Saleh	personagem	CRLF x1	待ってたよ、ヴェイグ……。\nそれに、○○		
+qev09_070.scr:1	qev09_070.scr	1	サレ	Saleh	personagem	CRLF x1	随分遅い到着だったねぇ？\n僕、もう待ちくたびれちゃったよ		
+qev09_070.scr:2	qev09_070.scr	2	サレ	Saleh	personagem	CRLF x1	この僕をこんなに待たせて……。\nどうしてくれるのかなあ？　うん？		
+qev09_070.scr:3	qev09_070.scr	3	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	サレ……最後にもう一度聞く。\nこうする以外に、他に方法はないのか？		
+qev09_070.scr:4	qev09_070.scr	4	サレ	Saleh	personagem		こうする以外って？		
+qev09_070.scr:5	qev09_070.scr	5	サレ	Saleh	personagem	CRLF x1	まさか、この期に及んで和解しようなんて\n甘っちょろい事は考えていないよねえ？		
+qev09_070.scr:6	qev09_070.scr	6	サレ	Saleh	personagem	CRLF x2	全く……。\nキミのそういうヒトらしい、\n美しくてキレイな心が……		
+qev09_070.scr:7	qev09_070.scr	7	サレ	Saleh	personagem	CRLF x1	……たまらなく\nヘドが出るんだよぉぉぉっ！！		
+qev09_070.scr:8	qev09_070.scr	8	マオ	Mao	personagem		ヴェイグ！！		
+qev09_070.scr:9	qev09_070.scr	9	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……ああ。\nわかっている……！		
+qev09_070.scr:10	qev09_070.scr	10	ヴェイグ	Veigue Lungberg	personagem		やはり、こうするしかないのか……！		
+qev09_070.scr:11	qev09_070.scr	11	アニー	Annie Barrs	personagem		……来ます！		
+qev09_080.scr:0	qev09_080.scr	0	サレ	Saleh	personagem	CRLF x1	フフフ、死ぬのが怖くなったんじゃ\nなかったのかい？		
+qev09_080.scr:1	qev09_080.scr	1	サレ	Saleh	personagem	CRLF x2	でも、いいね……いいよ、その目。\n叩き潰してやりたくなる……。\n小生意気で必死な目だ！		
+qev09_080.scr:2	qev09_080.scr	2	サレ	Saleh	personagem		僕、ちょっと興奮してきたよ……		
+qev09_080.scr:3	qev09_080.scr	3	サレ	Saleh	personagem	CRLF x2	わかってるよね……。\n楽には死なせてあげないよ？\nハハハハハハ！！		

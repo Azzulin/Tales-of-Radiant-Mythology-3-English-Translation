@@ -1,0 +1,167 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev37_010.scr:0	cev37_010.scr	0	ティトレイ	Tytree Crowe	personagem		たっ、助けてくれえええ！！		
+cev37_010.scr:1	cev37_010.scr	1	リリス	Lilith Aileron	personagem	CRLF x1	もう\n逃・が・し・ま・せ・ん・よ……？		
+cev37_010.scr:2	cev37_010.scr	2	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	どうした。\n何かあったのか		
+cev37_010.scr:3	cev37_010.scr	3	リリス	Lilith Aileron	personagem	CRLF x2	聞いて下さい、ヴェイグさん！\nティトレイさんったら夕飯のマーボーカレーに\n勝手にハチミツ入れちゃったんです		
+cev37_010.scr:4	cev37_010.scr	4	リリス	Lilith Aileron	personagem		おかげで、一から全部作り直しですよ！		
+cev37_010.scr:5	cev37_010.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x2	いや、だって\nマーボーって名の付くモンには\n隠し味にハチミツは鉄板……		
+cev37_010.scr:6	cev37_010.scr	6	リリス	Lilith Aileron	personagem		の、ワケありません！		
+cev37_010.scr:7	cev37_010.scr	7	リリス	Lilith Aileron	personagem	CRLF x1	大体、あんなに大量に入れたら\n全然隠れてないですよ！		
+cev37_010.scr:8	cev37_010.scr	8	ティトレイ	Tytree Crowe	personagem		ヴェイグ、助けてくれよぉ〜		
+cev37_010.scr:9	cev37_010.scr	9	ヴェイグ	Veigue Lungberg	personagem		なるほど……事情はわかった		
+cev37_010.scr:10	cev37_010.scr	10	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	リリス。\n煮るなり焼くなり好きにしてくれ		
+cev37_010.scr:11	cev37_010.scr	11	ティトレイ	Tytree Crowe	personagem	CRLF x2	ちょおっ！　\nヴェイグ！？\nお前、親友を裏切るのか！？		
+cev37_010.scr:12	cev37_010.scr	12	ヴェイグ	Veigue Lungberg	personagem		親友？		
+cev37_010.scr:13	cev37_010.scr	13	ヴェイグ	Veigue Lungberg	personagem		……そうだったか？		
+cev37_010.scr:14	cev37_010.scr	14	リリス	Lilith Aileron	personagem	CRLF x1	さ、ティトレイさん？\n続きはこっちで……		
+cev37_010.scr:15	cev37_010.scr	15	リリス	Lilith Aileron	personagem		みっちり∀　お話しましょうね∀∀		
+cev37_010.scr:16	cev37_010.scr	16	ティトレイ	Tytree Crowe	personagem		ヴェイグの人でなし〜〜〜っっ！！		
+cev37_020.scr:0	cev37_020.scr	0	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……わかった。\nその時間に、甲板に集まろう		
+cev37_020.scr:1	cev37_020.scr	1	ユージーン	Eugene Gallardo	personagem		遅れるなよ、カイウス		
+cev37_020.scr:2	cev37_020.scr	2	カイウス	Caius Qualls	personagem	CRLF x1	こ、子ども扱いするなよ！\nオレはマオとは違うんだぞ		
+cev37_020.scr:3	cev37_020.scr	3	ユージーン	Eugene Gallardo	personagem	CRLF x1	そうか。\nそれは悪かったな		
+cev37_020.scr:4	cev37_020.scr	4	リアラ	Reala	personagem	CRLF x1	ヴェイグさんって、すごいですね。\n色んな人と、ごく自然に会話が出来て……		
+cev37_020.scr:5	cev37_020.scr	5	ヴェイグ	Veigue Lungberg	personagem		……そうか？		
+cev37_020.scr:6	cev37_020.scr	6	リアラ	Reala	personagem		そうですよ		
+cev37_020.scr:7	cev37_020.scr	7	リアラ	Reala	personagem	CRLF x1	どんな相手にも、思い込みや偏見で\n接したりする事がないみたい		
+cev37_020.scr:8	cev37_020.scr	8	リアラ	Reala	personagem		……ちょっと、憧れちゃいます		
+cev37_020.scr:9	cev37_020.scr	9	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……生まれた国や種族が違っても\n同じヒトである事には変わりがない		
+cev37_020.scr:10	cev37_020.scr	10	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	それなら、特別違いを\n意識する必要もないだろう		
+cev37_020.scr:11	cev37_020.scr	11	リアラ	Reala	personagem	CRLF x1	「違う」って感じる事が\n既に違うって事、ですね		
+cev37_020.scr:12	cev37_020.scr	12	リアラ	Reala	personagem		そういうところ……少し、カイルと似てるかも		
+cev37_030.scr:0	cev37_030.scr	0	ハロルド	Harold Berselius	personagem		ヴェ〜イグ♪		
+cev37_030.scr:1	cev37_030.scr	1	ハロルド	Harold Berselius	personagem		珍しいもの持ってるわね？		
+cev37_030.scr:2	cev37_030.scr	2	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	ああ。\n……これは、お守りだ。\nクレアに……		
+cev37_030.scr:3	cev37_030.scr	3	ハロルド	Harold Berselius	personagem		見せて見せて∀		
+cev37_030.scr:4	cev37_030.scr	4	ヴェイグ	Veigue Lungberg	personagem		おい……！		
+cev37_030.scr:5	cev37_030.scr	5	ハロルド	Harold Berselius	personagem	CRLF x1	ふーむ。\n随分手入れが行き届いてるのね		
+cev37_030.scr:6	cev37_030.scr	6	ハロルド	Harold Berselius	personagem	CRLF x1	さしずめ、恋人からのプレゼントって\nとこかしら？		
+cev37_030.scr:7	cev37_030.scr	7	ヴェイグ	Veigue Lungberg	personagem		……クレアはただの幼なじみだ		
+cev37_030.scr:8	cev37_030.scr	8	ハロルド	Harold Berselius	personagem	CRLF x2	あ〜ら、ムキになっちゃって。\nでもそれ、相手にハッキリ\n確かめた事なの？		
+cev37_030.scr:9	cev37_030.scr	9	ヴェイグ	Veigue Lungberg	personagem		どういう意味だ？		
+cev37_030.scr:10	cev37_030.scr	10	ハロルド	Harold Berselius	personagem	CRLF x2	よーするに。\nヴェイグはそう思っていても贈った相手には\n別の意図があったかもしれないってコト		
+cev37_030.scr:11	cev37_030.scr	11	ハロルド	Harold Berselius	personagem	CRLF x2	それって、相手の気持ちに\n見てみぬフリしてるって事に\nならないのかしら？		
+cev37_030.scr:12	cev37_030.scr	12	ハロルド	Harold Berselius	personagem	CRLF x1	ちゃ〜んと確かめた方が\nいいんじゃな〜い？		
+cev37_030.scr:13	cev37_030.scr	13	ヴェイグ	Veigue Lungberg	personagem		…………		
+cev37_030.scr:14	cev37_030.scr	14	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	クレア……。\nいや、そんなはずは……		
+cev37_030.scr:15	cev37_030.scr	15	ハロルド	Harold Berselius	personagem	CRLF x1	あら、行っちゃった。\n本気にしちゃったかしら？		
+cev37_030.scr:16	cev37_030.scr	16	ハロルド	Harold Berselius	personagem		冗談のつもりだったんだけど……まあ		
+cev37_030.scr:17	cev37_030.scr	17	ハロルド	Harold Berselius	personagem		面白そうだから、いっか∀		
+cev37_040.scr:0	cev37_040.scr	0	スパーダ	Spada Belforma	personagem		セルシウスで思い出したんだけどよ		
+cev37_040.scr:1	cev37_040.scr	1	スパーダ	Spada Belforma	personagem	CRLF x1	ヴェイグって、セルシウスと\nデキてんのか？		
+cev37_040.scr:2	cev37_040.scr	2	ヴェイグ	Veigue Lungberg	personagem		……何の話だ？		
+cev37_040.scr:3	cev37_040.scr	3	スパーダ	Spada Belforma	personagem		またまた、隠すなって！		
+cev37_040.scr:4	cev37_040.scr	4	スパーダ	Spada Belforma	personagem	CRLF x2	お前が甲板でセルシウスと\nイイ感じになってンの、\n結構有名なんだぜ？		
+cev37_040.scr:5	cev37_040.scr	5	ヴェイグ	Veigue Lungberg	personagem		…………		
+cev37_040.scr:6	cev37_040.scr	6	スパーダ	Spada Belforma	personagem	CRLF x1	しっかし、お前も隅に置けねェよなぁ？\nクレアの他にセルシウスもだもんな		
+cev37_040.scr:7	cev37_040.scr	7	スパーダ	Spada Belforma	personagem	CRLF x1	しかも、何たってセルシウスは\n精霊だぜ、精霊？		
+cev37_040.scr:8	cev37_040.scr	8	スパーダ	Spada Belforma	personagem	CRLF x1	羨ましいっつーか、\n憎らしいっつーか……		
+cev37_040.scr:9	cev37_040.scr	9	スパーダ	Spada Belforma	personagem	CRLF x1	ってオイ、何だよ。\nまた無視かよっ！？		
+cev37_050.scr:0	cev37_050.scr	0	ルカ	Ruca Milda	personagem		はぁ……		
+cev37_050.scr:1	cev37_050.scr	1	ヴェイグ	Veigue Lungberg	personagem		どうした……何かあったのか		
+cev37_050.scr:2	cev37_050.scr	2	ルカ	Ruca Milda	personagem	CRLF x1	えっ……。\nえ、ええと……その		
+cev37_050.scr:3	cev37_050.scr	3	ヴェイグ	Veigue Lungberg	personagem		……？		
+cev37_050.scr:4	cev37_050.scr	4	ルカ	Ruca Milda	personagem	CRLF x2	ヴェイグは……、\n今の武器を使っていて、\n後悔、とか……した事、ある？		
+cev37_050.scr:5	cev37_050.scr	5	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	後悔……？　\nどういう意味だ		
+cev37_050.scr:6	cev37_050.scr	6	ルカ	Ruca Milda	personagem		え、えと……		
+cev37_050.scr:7	cev37_050.scr	7	ルカ	Ruca Milda	personagem	CRLF x2	例えば……武器が大き過ぎるって\n誰かから何か言われたり……。\nからかわれたり……とか……		
+cev37_050.scr:8	cev37_050.scr	8	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……なるほど。\nそういう事か		
+cev37_050.scr:9	cev37_050.scr	9	ルカ	Ruca Milda	personagem		（わかってくれた……？）		
+cev37_050.scr:10	cev37_050.scr	10	ルカ	Ruca Milda	personagem		じゃあ、ヴェイグも……？		
+cev37_050.scr:11	cev37_050.scr	11	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	いや。\nそんな風に考えた事は\n一度もないな		
+cev37_050.scr:12	cev37_050.scr	12	ルカ	Ruca Milda	personagem		！！		
+cev37_050.scr:13	cev37_050.scr	13	ヴェイグ	Veigue Lungberg	personagem		……この剣は、みんなを守る為の力だ		
+cev37_050.scr:14	cev37_050.scr	14	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	人にどう思われ、\n受け取られようと関係ない		
+cev37_050.scr:15	cev37_050.scr	15	ヴェイグ	Veigue Lungberg	personagem		……違うか？		
+cev37_050.scr:16	cev37_050.scr	16	ルカ	Ruca Milda	personagem		……あ……		
+cev37_050.scr:17	cev37_050.scr	17	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……あまり、深く考え過ぎない方がいい。\nお前は、お前だ……		
+cev37_050.scr:18	cev37_050.scr	18	ルカ	Ruca Milda	personagem	CRLF x1	（今のって、もしかして……\n　励ましてくれた……？）		
+cev37_060.scr:0	cev37_060.scr	0	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	それにしても……、\n暑いな……		
+cev37_060.scr:1	cev37_060.scr	1	セネル	Senel Coolidge	personagem	CRLF x2	火山に停泊しているからな。\nそれで、船内の室温もいつもより\n高くなっているんだろう……		
+cev37_060.scr:2	cev37_060.scr	2	ヴェイグ	Veigue Lungberg	personagem		…………		
+cev37_060.scr:3	cev37_060.scr	3	セネル	Senel Coolidge	personagem	CRLF x1	……おい、ヴェイグ？\n大丈夫か？		
+cev37_060.scr:4	cev37_060.scr	4	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……何でもない。\n大丈夫だ……		
+cev37_060.scr:5	cev37_060.scr	5	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	これくらいの暑さ……、\nクレアがオーブンで火傷をした時の\n辛さに比べたら……！		
+cev37_060.scr:6	cev37_060.scr	6	セネル	Senel Coolidge	personagem		……それは比較の対象になるのか？		
+cev37_070.scr:0	cev37_070.scr	0	ヴェイグ	Veigue Lungberg	personagem		……何をしている？		
+cev37_070.scr:1	cev37_070.scr	1	ロックス	Rocks	personagem		あ……これですか？		
+cev37_070.scr:2	cev37_070.scr	2	ロックス	Rocks	personagem	CRLF x1	今日一日の中で、気が付いた事を\nメモしているんですよ		
+cev37_070.scr:3	cev37_070.scr	3	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	メモ？\n……何の為に？		
+cev37_070.scr:4	cev37_070.scr	4	ロックス	Rocks	personagem	CRLF x2	毎日の仕事や、\n皆様とお話をする中で\n気が付く事がたくさんあるんです		
+cev37_070.scr:5	cev37_070.scr	5	ロックス	Rocks	personagem	CRLF x2	それをこうしてメモする事で、\n次のより良いおもてなしに\n繋げていけたらって……		
+cev37_070.scr:6	cev37_070.scr	6	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	そうか……。\n熱心なんだな……お前は		
+cev37_070.scr:7	cev37_070.scr	7	ロックス	Rocks	personagem	CRLF x2	そんな……。\nコンシェルジュとして\n当たり前の事をしているだけですよ		
+cev37_070.scr:8	cev37_070.scr	8	ロックス	Rocks	personagem	CRLF x1	さて……えっと、\n何をメモしようとしてたんだっけ……		
+cev37_070.scr:9	cev37_070.scr	9	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……そうだったな。\n仕事の邪魔をして、悪かった		
+cev37_070.scr:10	cev37_070.scr	10	ロックス	Rocks	personagem	CRLF x2	あっ、ヴェイグ様！\nお手洗いでしたら、上の階を\n使って下さいね！！		
+cev37_070.scr:11	cev37_070.scr	11	ロックス	Rocks	personagem	CRLF x2	今の時間はリカルド様が\nよくこもっておられる時間なんです。\nいつも、少々お時間がかかる様なので……		
+cev37_070.scr:12	cev37_070.scr	12	ヴェイグ	Veigue Lungberg	personagem		……そうなのか？		
+cev37_070.scr:13	cev37_070.scr	13	ロックス	Rocks	personagem	CRLF x2	ええ。\nですから、朝のお食事にも、\nお野菜を多めに出させていただいています		
+cev37_070.scr:14	cev37_070.scr	14	ロックス	Rocks	personagem		食物繊維は、大事ですから……		
+cev37_070.scr:15	cev37_070.scr	15	ヴェイグ	Veigue Lungberg	personagem		…………		
+cev37_070.scr:16	cev37_070.scr	16	ロックス	Rocks	personagem	CRLF x1	はっ！　\nそうだった！		
+cev37_070.scr:17	cev37_070.scr	17	ロックス	Rocks	personagem	CRLF x2	ロイド様とクラトス様が\nサラダのミニトマトを\n綺麗に残されていた……と		
+cev37_070.scr:18	cev37_070.scr	18	ロックス	Rocks	personagem	CRLF x1	他の調理法を考案する\n必要あり……		
+cev37_070.scr:19	cev37_070.scr	19	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……トマトを\n出さなければいいだろう？		
+cev37_070.scr:20	cev37_070.scr	20	ロックス	Rocks	personagem	CRLF x2	いいえ、リコピンは、トマトが一番\n効率良く摂取出来るんです。\nぜひ、召し上がって頂かないと！		
+cev37_070.scr:21	cev37_070.scr	21	ヴェイグ	Veigue Lungberg	personagem		……本当に、熱心だな……		
+cev37_080.scr:0	cev37_080.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	サレの奴……あとちょっとで\n倒せそうだったのに！		
+cev37_080.scr:1	cev37_080.scr	1	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あいつは執念深い。\n恐らく、このまま黙って\n引き下がってはいないだろう		
+cev37_080.scr:2	cev37_080.scr	2	シング	Shing Meteoryte	personagem		そうだよね……		
+cev37_080.scr:3	cev37_080.scr	3	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……大丈夫だ。\n村にはまだ、オレの仲間がいる		
+cev37_080.scr:4	cev37_080.scr	4	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	サレが再び襲ってきても\n戦う手立てはまだあるはずだ。\n心配はいらない		
+cev37_080.scr:5	cev37_080.scr	5	ヴェイグ	Veigue Lungberg	personagem		……どうした		
+cev37_080.scr:6	cev37_080.scr	6	シング	Shing Meteoryte	personagem	CRLF x2	ううん……。\nヴェイグはその「仲間」を、本当に\n信頼しているんだなって思って		
+cev37_080.scr:7	cev37_080.scr	7	ヴェイグ	Veigue Lungberg	personagem		……ああ		
+cev37_080.scr:8	cev37_080.scr	8	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	長い付き合いだからな。\n安心して、互いに背中を預けられる		
+cev37_080.scr:9	cev37_080.scr	9	ヴェイグ	Veigue Lungberg	personagem		……そんな存在だと思っている		
+cev37_080.scr:10	cev37_080.scr	10	シング	Shing Meteoryte	personagem	CRLF x2	（いつもはクールなヴェイグが\n　ここまで言うなんて……。\n　その「仲間」って、どんな人達なんだろう？）		
+cev37_090.scr:0	cev37_090.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	この船も狭くなったわねえ。\n７０人も乗っていれば、\n当然かもしれないけど		
+cev37_090.scr:1	cev37_090.scr	1	ヴェイグ	Veigue Lungberg	personagem		……気付けば大所帯だな		
+cev37_090.scr:2	cev37_090.scr	2	セネル	Senel Coolidge	personagem	CRLF x1	まさか、ここまで\n規模が大きくなるとはな……		
+cev37_090.scr:3	cev37_090.scr	3	(ator 200)	(ator 200)	desconhecido		…………		
+cev37_090.scr:4	cev37_090.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	そうね、わたしも正直驚いてる。\n○○が\n頑張って動いてくれたのは大きいね		
+cev37_090.scr:5	cev37_090.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	ありがとう、○○。\nなんだか、助けられてばっかりだな		
+cev37_090.scr:6	cev37_090.scr	6	セネル	Senel Coolidge	personagem		最初は、こっちが助けた側だったのにな		
+cev37_090.scr:7	cev37_090.scr	7	ヴェイグ	Veigue Lungberg	personagem		恩を返したという事だろう		
+cev37_090.scr:8	cev37_090.scr	8	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	○○は\n初めから、よく働いてくれていた		
+cev37_090.scr:9	cev37_090.scr	9	セネル	Senel Coolidge	personagem	CRLF x2	そうだな。\n今じゃもう、このギルドに\nなくてはならない存在だよな		
+cev37_090.scr:10	cev37_090.scr	10	(ator 200)	(ator 200)	desconhecido		…………		
+cev37_090.scr:11	cev37_090.scr	11	アンジュ	Ange Serena	personagem	CRLF x2	でも、世界にはまだ\nわたし達が来るのを待ってる\n仲間がいるかもしれない		
+cev37_090.scr:12	cev37_090.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	気を抜かずにいこうね、\n○○		
+cev37_200.scr:0	cev37_200.scr	0	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	通常。\n		
+cev37_200.scr:1	cev37_200.scr	1	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:2	cev37_200.scr	2	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	笑い。\n		
+cev37_200.scr:3	cev37_200.scr	3	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:4	cev37_200.scr	4	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	怒り。\n		
+cev37_200.scr:5	cev37_200.scr	5	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:6	cev37_200.scr	6	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	悲しみ。\n		
+cev37_200.scr:7	cev37_200.scr	7	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:8	cev37_200.scr	8	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	不機嫌。\n		
+cev37_200.scr:9	cev37_200.scr	9	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:10	cev37_200.scr	10	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	うなずき。\n		
+cev37_200.scr:11	cev37_200.scr	11	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:12	cev37_200.scr	12	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	通常。\n		
+cev37_200.scr:13	cev37_200.scr	13	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:14	cev37_200.scr	14	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	笑い。\n		
+cev37_200.scr:15	cev37_200.scr	15	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:16	cev37_200.scr	16	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	怒り。\n		
+cev37_200.scr:17	cev37_200.scr	17	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:18	cev37_200.scr	18	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	悲しみ。\n		
+cev37_200.scr:19	cev37_200.scr	19	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:20	cev37_200.scr	20	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	不機嫌。\n		
+cev37_200.scr:21	cev37_200.scr	21	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:22	cev37_200.scr	22	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	うなずき。\n		
+cev37_200.scr:23	cev37_200.scr	23	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:24	cev37_200.scr	24	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	通常。\n		
+cev37_200.scr:25	cev37_200.scr	25	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:26	cev37_200.scr	26	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	笑い。\n		
+cev37_200.scr:27	cev37_200.scr	27	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:28	cev37_200.scr	28	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	怒り。\n		
+cev37_200.scr:29	cev37_200.scr	29	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:30	cev37_200.scr	30	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	悲しみ。\n		
+cev37_200.scr:31	cev37_200.scr	31	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:32	cev37_200.scr	32	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	不機嫌。\n		
+cev37_200.scr:33	cev37_200.scr	33	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev37_200.scr:34	cev37_200.scr	34	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	うなずき。\n		
+cev37_200.scr:35	cev37_200.scr	35	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

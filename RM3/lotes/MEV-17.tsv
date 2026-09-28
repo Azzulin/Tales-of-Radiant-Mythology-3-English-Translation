@@ -1,0 +1,147 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev17_010.scr:0	mev17_010.scr	0	アンジュ	Ange Serena	personagem		さて、今回の仕事はね…		
+mev17_010.scr:1	mev17_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	行ってもらう場所は、シフノ湧泉洞。\nそこにある「ユルングの樹」の\nドクメントを採取してきてもらうね		
+mev17_010.scr:2	mev17_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	同行するのは、\nアッシュ君とナタリア		
+mev17_010.scr:3	mev17_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	資料とコピーズ・ロッドは\n二人に渡しておいたからね		
+mev17_010.scr:4	mev17_010.scr	4	アンジュ	Ange Serena	personagem		それじゃ、行ってらっしゃい		
+mev17_020.scr:0	mev17_020.scr	0	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	…ライマ国の暴動も収まり、\n秩序も戻り始めている様ですわ		
+mev17_020.scr:1	mev17_020.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		ですが、民の苦しみは続いている		
+mev17_020.scr:2	mev17_020.scr	2	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	どうしてもっと前から、\n国民の苦しみに気付けなかったのでしょう		
+mev17_020.scr:3	mev17_020.scr	3	アッシュ	Asch	personagem		しけたツラをするな！		
+mev17_020.scr:4	mev17_020.scr	4	アッシュ	Asch	personagem	CRLF x1	お前は国の為に\nアドリビトムへ入ったのだろう！		
+mev17_020.scr:5	mev17_020.scr	5	アッシュ	Asch	personagem		それに…		
+mev17_020.scr:6	mev17_020.scr	6	アッシュ	Asch	personagem	CRLF x1	お前がそんな様子では、\n一緒に国を変えられないだろうが		
+mev17_020.scr:7	mev17_020.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		アッシュ…		
+mev17_020.scr:8	mev17_020.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	約束を…、子どもの頃に交わした約束を\n覚えていて下さったのですね		
+mev17_020.scr:9	mev17_020.scr	9	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		その…プロポーズの…言葉も…		
+mev17_020.scr:10	mev17_020.scr	10	アッシュ	Asch	personagem	CRLF x1	所詮、俺はルークの影だ。\n王にはなれない		
+mev17_020.scr:11	mev17_020.scr	11	アッシュ	Asch	personagem		お前との未来も…		
+mev17_020.scr:12	mev17_020.scr	12	アッシュ	Asch	personagem	CRLF x1	だが、お前と一緒に\n国を…、世界を変えていく事は出来る		
+mev17_020.scr:13	mev17_020.scr	13	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	アッシュ。\n…世界を変えられるなら、\n私は王族でなくても構いませんのよ		
+mev17_020.scr:14	mev17_020.scr	14	アッシュ	Asch	personagem		……………………		
+mev17_020.scr:15	mev17_020.scr	15	アッシュ	Asch	personagem		ナタリア…		
+mev17_020.scr:16	mev17_020.scr	16	アッシュ	Asch	personagem		な…！？		
+mev17_020.scr:17	mev17_020.scr	17	アッシュ	Asch	personagem	CRLF x1	何を聞いているッ！！\n死にたいのか、貴様…		
+mev17_020.scr:18	mev17_020.scr	18	アッシュ	Asch	personagem		なっ…		
+mev17_020.scr:19	mev17_020.scr	19	アッシュ	Asch	personagem		何を見ている！！		
+mev17_020.scr:20	mev17_020.scr	20	アッシュ	Asch	personagem		………チッ		
+mev17_020.scr:21	mev17_020.scr	21	アッシュ	Asch	personagem		行くぞ！　ナタリア		
+mev17_020.scr:22	mev17_020.scr	22	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		…はい！		
+mev17_020.scr:23	mev17_020.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		そういう関係かと尋ねる		
+mev17_020.scr:24	mev17_020.scr	24	(opcao do jogador)	(opcao do jogador)	escolha		じっと二人を見ている		
+mev17_030.scr:0	mev17_030.scr	0	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		まあ、花が流れていきますわ…！		
+mev17_030.scr:1	mev17_030.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		何て美しいのでしょう…		
+mev17_030.scr:2	mev17_030.scr	2	アッシュ	Asch	personagem		ユルングの樹の花だ		
+mev17_030.scr:3	mev17_030.scr	3	アッシュ	Asch	personagem		この上流に、樹があるんだろう		
+mev17_030.scr:4	mev17_030.scr	4	アッシュ	Asch	personagem	CRLF x1	…土壁がぬれているな。\n水位が下がっているのか？		
+mev17_030.scr:5	mev17_030.scr	5	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	引き潮…かもしれませんわね。\nここは海と繋がっていますもの		
+mev17_030.scr:6	mev17_030.scr	6	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	潮の満ち引きで水位が変わるのだと\n思いますわ		
+mev17_030.scr:7	mev17_030.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	それにしても、\nユルングの樹というのは\nどの様なものですの？		
+mev17_030.scr:8	mev17_030.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	雄花は水上に、雌花は水中に咲くと\n資料には書いてありましたけれど…。\n受粉の効率が悪そうですわね…		
+mev17_030.scr:9	mev17_030.scr	9	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	なぜ、その様な進化を辿ったのか。\n不思議ですわ…		
+mev17_040.scr:0	mev17_040.scr	0	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		…！！		
+mev17_040.scr:1	mev17_040.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		何ですの、この生物は！？		
+mev17_040.scr:2	mev17_040.scr	2	アッシュ	Asch	personagem	CRLF x1	依頼の品はある様だが、\n簡単には持ち帰れない様だな		
+mev17_040.scr:3	mev17_040.scr	3	アッシュ	Asch	personagem		行くぞ！		
+mev17_050.scr:0	mev17_050.scr	0	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		今度こそ、負けませんわ！		
+mev17_050.scr:1	mev17_050.scr	1	アッシュ	Asch	personagem	CRLF x1	その意気だ。\n行くぞ！		
+mev17_060.scr:0	mev17_060.scr	0	アッシュ	Asch	personagem		これで邪魔は無くなったな		
+mev17_060.scr:1	mev17_060.scr	1	アッシュ	Asch	personagem		…用事を済ませるぞ、ナタリア		
+mev17_060.scr:2	mev17_060.scr	2	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		はい		
+mev17_060.scr:3	mev17_060.scr	3	アッシュ	Asch	personagem	CRLF x1	この時間だけ、\n雌花が水中から顔を出すのか…		
+mev17_060.scr:4	mev17_060.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	では、この落ちてくる雄花とは、\nこの引き潮の時間だけしか\n出会えない、という事ですのね…		
+mev17_060.scr:5	mev17_060.scr	5	アッシュ	Asch	personagem		その様だな		
+mev17_060.scr:6	mev17_060.scr	6	アッシュ	Asch	personagem	CRLF x2	だから、潮が満ちていく時は、\n上に咲く雄花は落下しない様に\nなっているのだろう		
+mev17_060.scr:7	mev17_060.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	事前に頂いた資料によれば\n「陸から水中に根を下ろす様に進化した」と\n書かれていましたわ		
+mev17_060.scr:8	mev17_060.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	植物も生き残る為に\n必死に知恵を絞ったのでしょう		
+mev17_060.scr:9	mev17_060.scr	9	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	栄養が豊富で、\n他の植物には遮られる事のない場所を\n目指した様ですわ		
+mev17_060.scr:10	mev17_060.scr	10	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	呼吸は、水上では葉にある気孔を使って…。\n水中では、根から直接、水に溶けた\n二酸化炭素を取り込んでいますわ		
+mev17_060.scr:11	mev17_060.scr	11	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	水や養分も、根の表面の細胞から\n塩分だけを除いて吸収しているとも\n書かれていますわ		
+mev17_060.scr:12	mev17_060.scr	12	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	生きていく為に、特殊な進化を遂げていった\n植物なのですね		
+mev17_060.scr:13	mev17_060.scr	13	アッシュ	Asch	personagem	CRLF x2	生きる為に、\n次の世代を残していく為に\n変わる…か		
+mev17_060.scr:14	mev17_060.scr	14	アッシュ	Asch	personagem	CRLF x2	他の種の生息域を奪わず、\n新天地に適応する為に\n自らの変化を選んだんだな		
+mev17_060.scr:15	mev17_060.scr	15	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		奪わず…自ら変わる…		
+mev17_060.scr:16	mev17_060.scr	16	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	私達ヒト、そして国や世界も\n変化していく事が出来ますわよね…		
+mev17_060.scr:17	mev17_060.scr	17	アッシュ	Asch	personagem	CRLF x1	…ナタリア。\n○○を見ろ		
+mev17_060.scr:18	mev17_060.scr	18	アッシュ	Asch	personagem	CRLF x1	○○は、故郷も無ければ\n血の繋がった親や兄弟もいない		
+mev17_060.scr:19	mev17_060.scr	19	アッシュ	Asch	personagem	CRLF x1	だがな、こいつは行動する事で\n世界を変えていっている		
+mev17_060.scr:20	mev17_060.scr	20	アッシュ	Asch	personagem		…俺達にも、出来ない事はない…		
+mev17_060.scr:21	mev17_060.scr	21	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	アッシュ…。\nそうですわね…		
+mev17_070.scr:0	mev17_070.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	ユルングの樹のドクメント採取、\nお疲れ様		
+mev17_070.scr:1	mev17_070.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	この船にも各地から、どんどん進化種が\n集まってきてるよ		
+mev17_070.scr:2	mev17_070.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	船のみんなで、ドクメントの抽出作業を\nやっているの		
+mev17_070.scr:3	mev17_070.scr	3	コハク	Kohaku Hearts	personagem		アンジュ、わたしも手伝うよ！		
+mev17_070.scr:4	mev17_070.scr	4	シング	Shing Meteoryte	personagem	CRLF x2	オレもやるよ！\nさっき、やり方を教えてもらったんだ！\nみんなでやった方が早いだろ？		
+mev17_070.scr:5	mev17_070.scr	5	コハク	Kohaku Hearts	personagem	CRLF x2	ええ？\nシングはリタの嫌いなものを\n食べる係なんでしょ？		
+mev17_070.scr:6	mev17_070.scr	6	シング	Shing Meteoryte	personagem	CRLF x2	オレはバカだからさ。\n出来ないって諦める前に、教えてもらって、\nとにかくやってみようと思ったんだ！		
+mev17_070.scr:7	mev17_070.scr	7	シング	Shing Meteoryte	personagem	CRLF x1	ハロルドやリタみたいにはなれないけど、\nオレだってちょっとなら手伝えるさ！		
+mev17_070.scr:8	mev17_070.scr	8	アンジュ	Ange Serena	personagem		えらいわ、シング君♪		
+mev17_070.scr:9	mev17_070.scr	9	ハロルド	Harold Berselius	personagem	CRLF x1	さあさ、また新しい植物が届いたから、\nガンガン手伝ってもらうわよ		
+mev17_070.scr:10	mev17_070.scr	10	シング	Shing Meteoryte	personagem		よーし、頑張ろうね、コハク！		
+mev17_070.scr:11	mev17_070.scr	11	コハク	Kohaku Hearts	personagem		うん！　頑張ろう！		
+mev17_070.scr:12	mev17_070.scr	12	アンジュ	Ange Serena	personagem		ふふふ、みんな頼もしいな		
+mev17_070.scr:13	mev17_070.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	このギルドを立ち上げて、\n本当に良かった		
+mev17_070.scr:14	mev17_070.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	さてと、\n次に採取する植物の資料はまだかな？		
+mev17_070.scr:15	mev17_070.scr	15	ハロルド	Harold Berselius	personagem	CRLF x1	ウィルが作成中よ。\nあと、ちょっとね		
+mev17_070.scr:16	mev17_070.scr	16	アンジュ	Ange Serena	personagem		オッケーよ		
+mev17_070.scr:17	mev17_070.scr	17	アンジュ	Ange Serena	personagem	CRLF x1	それじゃ、○○、\n今回もご苦労様でした		
+mev17_080.scr:0	mev17_080.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ニアタの教えてくれた事、\nちゃんと力になってるよ		
+mev17_080.scr:1	mev17_080.scr	1	カノンノ	Kanonno Grassvalley	personagem		少しずつでも、進んでるもの		
+mev17_080.scr:2	mev17_080.scr	2	ニアタ	Niata Monad	personagem	CRLF x2	そうか…。\nやはり、アドリビトムは\nこうでなくてはな		
+mev17_080.scr:3	mev17_080.scr	3	カノンノ	Kanonno Grassvalley	personagem		うん？		
+mev17_080.scr:4	mev17_080.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	「やはり」って、\nどういう意味なの？		
+mev17_080.scr:5	mev17_080.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	ここではない別の世界にも、\nアドリビトムがあるのだよ		
+mev17_080.scr:6	mev17_080.scr	6	ニアタ	Niata Monad	personagem	CRLF x1	我々の本体は今、異世界グラニデにある\nバンエルティア号の中だ		
+mev17_080.scr:7	mev17_080.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ここではない世界に、\nバンエルティア号や、アドリビトムが？		
+mev17_080.scr:8	mev17_080.scr	8	ニアタ	Niata Monad	personagem	CRLF x2	我々の故郷パスカの因子を受け継ぐ\n世界グラニデ。\nそこに、ここの皆もいるんだよ		
+mev17_080.scr:9	mev17_080.scr	9	ニアタ	Niata Monad	personagem		もちろん、カノンノもだ…		
+mev17_080.scr:10	mev17_080.scr	10	ニアタ	Niata Monad	personagem	CRLF x2	ああ。\nこの船も、この船のメンバーも\n異世界に存在している		
+mev17_080.scr:11	mev17_080.scr	11	ニアタ	Niata Monad	personagem	CRLF x2	だが、全く同じではない。\nどこかしら、違いはある。\nやはり、それぞれの別人の様だ		
+mev17_080.scr:12	mev17_080.scr	12	ニアタ	Niata Monad	personagem	CRLF x1	けれども、アドリビトムの志は一緒だ。\nそれは、世界を越えても変わらない		
+mev17_080.scr:13	mev17_080.scr	13	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	それはやっぱり、ルミナシアの様に\n世界樹がある所なの？		
+mev17_080.scr:14	mev17_080.scr	14	ニアタ	Niata Monad	personagem		そうだよ、カノンノ		
+mev17_080.scr:15	mev17_080.scr	15	ニアタ	Niata Monad	personagem	CRLF x1	そなたや我々、アドリビトムの皆も、\n始めはどこか別々の世界にいたのだろう		
+mev17_080.scr:16	mev17_080.scr	16	ニアタ	Niata Monad	personagem	CRLF x1	世界樹の記憶と共に受け継がれながら出会い、\nまた受け継がれながら出会い…		
+mev17_080.scr:17	mev17_080.scr	17	ニアタ	Niata Monad	personagem	CRLF x1	それを繰り返して、一つの世界で\n出会う様になっていったのかもしれない		
+mev17_080.scr:18	mev17_080.scr	18	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	どんな世界なんだろう。\n私が始めに存在した世界は…		
+mev17_080.scr:19	mev17_080.scr	19	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	何の為に、世界は生まれていくんだろう。\n何の為に、記憶は受け継がれていくんだろう…		
+mev17_080.scr:20	mev17_080.scr	20	(opcao do jogador)	(opcao do jogador)	escolha		「やはり」という言葉の意味を尋ねる		
+mev17_080.scr:21	mev17_080.scr	21	(opcao do jogador)	(opcao do jogador)	escolha		黙っている		
+mev17_090.scr:0	mev17_090.scr	0	ナナリー	Nanaly Fletch	personagem	CRLF x2	あんた達、聞いたかい？\n世界中でやってた戦争が、\n次々と終戦になってるそうじゃないか		
+mev17_090.scr:1	mev17_090.scr	1	マルタ	Marta Lualdi	personagem	CRLF x2	でも、その一方で\nジルディアのキバからの侵食が\n進んでいるんでしょ？		
+mev17_090.scr:2	mev17_090.scr	2	マルタ	Marta Lualdi	personagem	CRLF x1	戦争なんてしてる場合じゃないって、\nやっと気付いたんだよ		
+mev17_090.scr:3	mev17_090.scr	3	ルビア	Rubia Natwick	personagem	CRLF x2	皮肉よね。\n国を越えた危機が訪れない限り、\n人は争いを止められないのかしら？		
+mev17_090.scr:4	mev17_090.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	そういう見方もありますわね。\nですが、他にも理由があるかも\nしれませんわ		
+mev17_090.scr:5	mev17_090.scr	5	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	そうですわね…例えば、\n人々が争う事に疲れ果ててしまった、\nとか…		
+mev17_090.scr:6	mev17_090.scr	6	ルビア	Rubia Natwick	personagem	CRLF x1	ナタリアも、そろそろライマに\n帰れるんじゃないの？		
+mev17_090.scr:7	mev17_090.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	いいえ、その前に王族として、\n国民を守らなくてはなりませんわ		
+mev17_090.scr:8	mev17_090.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	その為にも、最後までこのアドリビトムで\nお手伝いをさせて頂きたいのです		
+mev17_090.scr:9	mev17_090.scr	9	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	それに…世界を守った後、\n私には成すべき計画がありますの		
+mev17_090.scr:10	mev17_090.scr	10	ルビア	Rubia Natwick	personagem		計画？		
+mev17_090.scr:11	mev17_090.scr	11	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		ええ		
+mev17_090.scr:12	mev17_090.scr	12	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	主権者による一方的な支配、統治ではなく、\n全ての人々に権利を与え、\n共に歩む世界を作る計画ですわ		
+mev17_090.scr:13	mev17_090.scr	13	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	今まで人々は、それぞれの自己意識は\nもちろんの事、国を愛する心を持っていて、		
+mev17_090.scr:14	mev17_090.scr	14	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	お互い簡単に譲れるものでは\nありませんでしたわ		
+mev17_090.scr:15	mev17_090.scr	15	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	ですが今、この危機を迎える事によって、\n人々は国や種族を越えて、意識を結び付ける\n事に気が付き始めています		
+mev17_090.scr:16	mev17_090.scr	16	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	私は、この意識があれば、国を越えて、\n世界を統合していけると思うのです		
+mev17_090.scr:17	mev17_090.scr	17	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		きっと、世界を変える事が出来ますわ！		
+mev17_090.scr:18	mev17_090.scr	18	マルタ	Marta Lualdi	personagem	CRLF x1	でも、競争とか、主張とか…。\n人間ってそういうものじゃない？		
+mev17_090.scr:19	mev17_090.scr	19	マルタ	Marta Lualdi	personagem		簡単には行かないと思うけど…		
+mev17_090.scr:20	mev17_090.scr	20	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	競争も、広い視野で見れば、\nあり方が変わってくるはずですわ。\nオルタ・ビレッジの様に		
+mev17_090.scr:21	mev17_090.scr	21	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	意識が変われば、全く別のものに\nなっていくのでしょう		
+mev17_090.scr:22	mev17_090.scr	22	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	そうすれば、世界中の対立を、みんなが越えて、\n人々が結び付いていく様な方向に\nいくだろうと考えていますわ		
+mev17_090.scr:23	mev17_090.scr	23	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	そうすれば、資源も分かち合える様になり、\n新しい倫理を打ち立てる事も出来るでしょう		
+mev17_090.scr:24	mev17_090.scr	24	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	全てのものを全ての人が分かち合う\n文明は必ず生み出せますわ		
+mev17_090.scr:25	mev17_090.scr	25	ナナリー	Nanaly Fletch	personagem	CRLF x2	政治的に統一されて、\n一つの国になるというんじゃ\nないんだね		
+mev17_090.scr:26	mev17_090.scr	26	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	はい。\nそれぞれの多様性を認め、\n文化的に結び付いていく、という事です		
+mev17_090.scr:27	mev17_090.scr	27	ナナリー	Nanaly Fletch	personagem	CRLF x1	いいね。\nそういう世界になれば		
+mev17_090.scr:28	mev17_090.scr	28	ナナリー	Nanaly Fletch	personagem		ううん、そうしなくっちゃいけないんだ		
+mev17_090.scr:29	mev17_090.scr	29	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	はい。\nだから私は、帰れませんの♪		
+mev17_100.scr:0	mev17_100.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x1	ウィルから、\nこいつを預かってきたぜ		
+mev17_100.scr:1	mev17_100.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	次の資料ね。\nありがとう		
+mev17_100.scr:2	mev17_100.scr	2	ユーリ	Yuri Lowell	personagem		…お前、大丈夫か？		
+mev17_100.scr:3	mev17_100.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	大丈夫よ。\n無理してそうに見えるの？		
+mev17_100.scr:4	mev17_100.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x1	張り切んのもいいが、\n一人で無理すんなよ		
+mev17_100.scr:5	mev17_100.scr	5	ユーリ	Yuri Lowell	personagem		もっと皆を頼るんだな		
+mev17_100.scr:6	mev17_100.scr	6	アンジュ	Ange Serena	personagem		ん…、そうするよ		
+mev17_100.scr:7	mev17_100.scr	7	アンジュ	Ange Serena	personagem	CRLF x2	さてと。\n新しい資料も出来た事だし、\n依頼を登録しておかなくっちゃ		

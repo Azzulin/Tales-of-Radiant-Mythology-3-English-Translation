@@ -1,0 +1,292 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	va_ponteiros	ocorrencias	campo_id	ponteiro_secundario	contagem_reg	flags_reg
+rhubarb#0	rhubarb	0	(banner de area)	(area banner)	sistema		ルバーブ連山登頂口			0x08D5E9C4	1	0x00010002	0x08D5E7B0	3	0x000A0101
+rhubarb#1	rhubarb	1	(banner de area)	(area banner)	sistema		峠方面への分かれ道			0x08D5E9D8	1	0x00010003	0x08D5E7D4	2	0x000A0202
+rhubarb#2	rhubarb	2	(banner de area)	(area banner)	sistema		峠への渓谷			0x08D5E9EC;0x08D5EB54	2	0x00010004	0x08D5E7EC	2	0x000A0100
+rhubarb#3	rhubarb	3	(banner de area)	(area banner)	sistema		光の幾何学場			0x08D5EA00;0x08D5EA50;0x08D5EA8C;0x08D5EADC	4	0x00010005	0x08D5E804	1	0x000A0204
+rhubarb#4	rhubarb	4	(banner de area)	(area banner)	sistema		ルバーブ峠			0x08D5EA14;0x08D5EB68	2	0x00010006	0x08D5E810	3	0x00140104
+rhubarb#5	rhubarb	5	(banner de area)	(area banner)	sistema		高原方面への分かれ道			0x08D5EA28	1	0x00010007	0x08D5E834	2	0x00140205
+rhubarb#6	rhubarb	6	(banner de area)	(area banner)	sistema		高原への山道			0x08D5EA3C	1	0x00010008	0x08D5E84C	2	0x00140100
+rhubarb#7	rhubarb	7	(banner de area)	(area banner)	sistema		ルバーブ高原			0x08D5EA64	1	0x0001000A	0x08D5E870	2	0x00270202
+rhubarb#8	rhubarb	8	(banner de area)	(area banner)	sistema		中腹への渓谷			0x08D5EA78	1	0x0001000B	0x08D5E888	2	0x00270100
+rhubarb#9	rhubarb	9	(banner de area)	(area banner)	sistema		中腹			0x08D5EAA0;0x08D5EB7C	2	0x0001000D	0x08D5E8B8	2	0x00460206
+rhubarb#10	rhubarb	10	(banner de area)	(area banner)	sistema		山頂へ続く山道			0x08D5EAB4	1	0x0001000E	0x08D5E8D0	3	0x00460202
+rhubarb#11	rhubarb	11	(banner de area)	(area banner)	sistema		山頂へ続く渓谷			0x08D5EAC8	1	0x0001000F	0x08D5E8F4	2	0x00460104
+rhubarb#12	rhubarb	12	(banner de area)	(area banner)	sistema		ルバーブ山頂			0x08D5EAF0;0x08D5EB90	2	0x00010011	0x08D5E918	2	0x00580302
+rhubarb#13	rhubarb	13	(banner de area)	(area banner)	sistema		ルバーブ渓谷下流			0x08D5EB04	1	0x00010012	0x08D5E930	2	0x00580205
+rhubarb#14	rhubarb	14	(banner de area)	(area banner)	sistema		秘踏ルート　中腹			0x08D5EB18;0x08D5EB2C	2	0x00010014	0x08D5E948	2	0x00580205
+rhubarb#15	rhubarb	15	(banner de area)	(area banner)	sistema		秘踏ルート　８合目			0x08D5EB40	1	0x00010015	0x08D5E978	1	0x000A0202
+elan_vital#0	elan_vital	0	(banner de area)	(area banner)	sistema		展望室			0x08D5E508	1	0x00000001	0x08D5E210	2	0x00000000
+elan_vital#1	elan_vital	1	(banner de area)	(area banner)	sistema		操舵室			0x08D5E51C	1	0x00000002	0x08D5E228	1	0x00000000
+elan_vital#2	elan_vital	2	(banner de area)	(area banner)	sistema		甲板			0x08D5E530	1	0x00000003	0x08D5E234	7	0x00000000
+elan_vital#3	elan_vital	3	(banner de area)	(area banner)	sistema		ホール			0x08D5E544	1	0x00000007	0x08D5E288	1	0x00000000
+elan_vital#4	elan_vital	4	(banner de area)	(area banner)	sistema		ショップ			0x08D5E558	1	0x00000005	0x08D5E294	4	0x00000000
+elan_vital#5	elan_vital	5	(banner de area)	(area banner)	sistema		１Ｆ通路Ａ			0x08D5E56C	1	0x00000006	0x08D5E2C4	1	0x00000000
+elan_vital#6	elan_vital	6	(banner de area)	(area banner)	sistema		食堂			0x08D5E580	1	0x00000009	0x08D5E2D0	1	0x00000000
+elan_vital#7	elan_vital	7	(banner de area)	(area banner)	sistema		１号室			0x08D5E594	1	0x0000000A	0x08D5E2DC	1	0x00000000
+elan_vital#8	elan_vital	8	(banner de area)	(area banner)	sistema		２号室			0x08D5E5A8	1	0x0000000F	0x08D5E2E8	1	0x00000000
+elan_vital#9	elan_vital	9	(banner de area)	(area banner)	sistema		研究室			0x08D5E5BC	1	0x00000008	0x08D5E2F4	4	0x00000000
+elan_vital#10	elan_vital	10	(banner de area)	(area banner)	sistema		１Ｆ通路Ｂ			0x08D5E5D0	1	0x0000000E	0x08D5E324	1	0x00000000
+elan_vital#11	elan_vital	11	(banner de area)	(area banner)	sistema		医務室			0x08D5E5E4	1	0x0000000B	0x08D5E330	1	0x00000000
+elan_vital#12	elan_vital	12	(banner de area)	(area banner)	sistema		３号室			0x08D5E5F8	1	0x00000011	0x08D5E33C	1	0x00000000
+elan_vital#13	elan_vital	13	(banner de area)	(area banner)	sistema		４号室			0x08D5E60C	1	0x00000004	0x08D5E348	4	0x00000000
+elan_vital#14	elan_vital	14	(banner de area)	(area banner)	sistema		機関室			0x08D5E620	1	0x0000000D	0x08D5E378	4	0x00000000
+elan_vital#15	elan_vital	15	(banner de area)	(area banner)	sistema		Ｂ１Ｆ通路Ａ			0x08D5E634	1	0x00000012	0x08D5E3A8	1	0x00000000
+elan_vital#16	elan_vital	16	(banner de area)	(area banner)	sistema		５号室			0x08D5E648	1	0x00000013	0x08D5E3B4	1	0x00000000
+elan_vital#17	elan_vital	17	(banner de area)	(area banner)	sistema		６号室			0x08D5E65C	1	0x00000014	0x08D5E3C0	1	0x00000000
+elan_vital#18	elan_vital	18	(banner de area)	(area banner)	sistema		７号室			0x08D5E670	1	0x00000010	0x08D5E3CC	4	0x00000000
+elan_vital#19	elan_vital	19	(banner de area)	(area banner)	sistema		Ｂ１Ｆ通路Ｂ			0x08D5E684	1	0x00000015	0x08D5E3FC	1	0x00000000
+elan_vital#20	elan_vital	20	(banner de area)	(area banner)	sistema		８号室			0x08D5E698	1	0x00000016	0x08D5E408	1	0x00000000
+elan_vital#21	elan_vital	21	(banner de area)	(area banner)	sistema		９号室			0x08D5E6AC	1	0x00000017	0x08D5E414	1	0x00000000
+elan_vital#22	elan_vital	22	(banner de area)	(area banner)	sistema		１０号室			0x08D5E6C0	1	0x00000018	0x08D5E420	9	0x00000000
+elan_vital#23	elan_vital	23	(banner de area)	(area banner)	sistema		船倉			0x08D5E6D4	1	0x00000019	0x08D5E48C	1	0x00000000
+elan_vital#24	elan_vital	24	(banner de area)	(area banner)	sistema		１１号室			0x08D5E6E8	1	0x0000001A	0x08D5E498	1	0x00000000
+elan_vital#25	elan_vital	25	(banner de area)	(area banner)	sistema		１２号室			0x08D5E6FC	1	0x0000001B	0x08D5E4A4	1	0x00000000
+elan_vital#26	elan_vital	26	(banner de area)	(area banner)	sistema		１３号室			0x08D5E710	1	0x0000001C	0x08D5E4B0	1	0x00000000
+elan_vital#27	elan_vital	27	(banner de area)	(area banner)	sistema		１４号室			0x08D5E724	1	0x0000001D	0x08D5E4BC	1	0x00000000
+elan_vital#28	elan_vital	28	(banner de area)	(area banner)	sistema		１５号室			0x08D5E738	1	0x0000001E	0x08D5E4C8	1	0x00000000
+elan_vital#29	elan_vital	29	(banner de area)	(area banner)	sistema		１６号室			0x08D5E74C	1	0x0000001F	0x08D5E4D4	1	0x00000000
+elan_vital#30	elan_vital	30	(banner de area)	(area banner)	sistema		１７号室			0x08D5E760	1	0x00000020	0x08D5E4E0	1	0x00000000
+elan_vital#31	elan_vital	31	(banner de area)	(area banner)	sistema		１８号室			0x08D5E774	1	0x00000021	0x08D5E4EC	1	0x00000000
+brownie#0	brownie	0	(banner de area)	(area banner)	sistema		坑道入口			0x08D5F204	1	0x00030002	0x08D5EEA0	2	0x00100202
+brownie#1	brownie	1	(banner de area)	(area banner)	sistema		１層採掘区			0x08D5F218	1	0x00030003	0x08D5EEB8	2	0x00100204
+brownie#2	brownie	2	(banner de area)	(area banner)	sistema		２層採掘区			0x08D5F22C	1	0x00030004	0x08D5EED0	3	0x001E0206
+brownie#3	brownie	3	(banner de area)	(area banner)	sistema		２層採掘区　奥			0x08D5F240	1	0x00030005	0x08D5EEF4	2	0x001E0100
+brownie#4	brownie	4	(banner de area)	(area banner)	sistema		光の幾何学場			0x08D5F254;0x08D5F2CC;0x08D5F3D0	3	0x00030006	0x08D5EF0C	1	0x001E0204
+brownie#5	brownie	5	(banner de area)	(area banner)	sistema		２層　最深ポイント			0x08D5F268;0x08D5F434	2	0x00030007	0x08D5EF18	3	0x00100101
+brownie#6	brownie	6	(banner de area)	(area banner)	sistema		立て坑　３層地点			0x08D5F27C	1	0x00030008	0x08D5EF3C	3	0x00250202
+brownie#7	brownie	7	(banner de area)	(area banner)	sistema		３層採掘区			0x08D5F290	1	0x00030009	0x08D5EF60	2	0x00250204
+brownie#8	brownie	8	(banner de area)	(area banner)	sistema		４層採掘区			0x08D5F2A4	1	0x0003000A	0x08D5EF78	2	0x00250206
+brownie#9	brownie	9	(banner de area)	(area banner)	sistema		４層採掘区　奥			0x08D5F2B8	1	0x0003000B	0x08D5EF90	2	0x00250103
+brownie#10	brownie	10	(banner de area)	(area banner)	sistema		４層　最深ポイント			0x08D5F2E0;0x08D5F448	2	0x0003000D	0x08D5EFC0	2	0x00250300
+brownie#11	brownie	11	(banner de area)	(area banner)	sistema		５層採掘区			0x08D5F2F4	1	0x0003001C	0x08D5EFD8	2	0x00100104
+brownie#12	brownie	12	(banner de area)	(area banner)	sistema		立て坑　５層地点			0x08D5F308	1	0x0003000E	0x08D5EFF0	3	0x00100103
+brownie#13	brownie	13	(banner de area)	(area banner)	sistema		立て坑　６層地点			0x08D5F31C	1	0x0003000F	0x08D5F014	3	0x00250206
+brownie#14	brownie	14	(banner de area)	(area banner)	sistema		６層採掘区			0x08D5F330	1	0x00030010	0x08D5F038	4	0x00340102
+brownie#15	brownie	15	(banner de area)	(area banner)	sistema		立て坑　７層地点			0x08D5F344	1	0x00030011	0x08D5F068	7	0x00340200
+brownie#16	brownie	16	(banner de area)	(area banner)	sistema		７層採掘区			0x08D5F358	1	0x00030012	0x08D5F0BC	3	0x00340204
+brownie#17	brownie	17	(banner de area)	(area banner)	sistema		７層採掘区　奥			0x08D5F36C	1	0x00030013	0x08D5F0E0	1	0x00340104
+brownie#18	brownie	18	(banner de area)	(area banner)	sistema		７層　隠し鉱床			0x08D5F380	1	0x00030014	0x08D5F0EC	3	0x00340105
+brownie#19	brownie	19	(banner de area)	(area banner)	sistema		立て坑　８層地点			0x08D5F394	1	0x00030015	0x08D5F110	4	0x00340206
+brownie#20	brownie	20	(banner de area)	(area banner)	sistema		８層採掘区			0x08D5F3A8	1	0x00030016	0x08D5F140	1	0x00340202
+brownie#21	brownie	21	(banner de area)	(area banner)	sistema		８層　陥没現場			0x08D5F3BC	1	0x00030017	0x08D5F14C	2	0x00340104
+brownie#22	brownie	22	(banner de area)	(area banner)	sistema		８層　連絡坑道			0x08D5F3E4	1	0x00030019	0x08D5F17C	2	0x00340103
+brownie#23	brownie	23	(banner de area)	(area banner)	sistema		立て坑　９層地点			0x08D5F3F8	1	0x0003001A	0x08D5F194	2	0x00340201
+brownie#24	brownie	24	(banner de area)	(area banner)	sistema		立て坑　１０層地点			0x08D5F40C	1	0x0003001B	0x08D5F1AC	3	0x00340104
+brownie#25	brownie	25	(banner de area)	(area banner)	sistema		立て坑　最深地点			0x08D5F420	1	0x0003001D	0x08D5F1D0	1	0x001E0204
+shifuno#0	shifuno	0	(banner de area)	(area banner)	sistema		湧泉洞　入洞口			0x08D60C50	1	0x00090002	0x08D60940	5	0x00400201
+shifuno#1	shifuno	1	(banner de area)	(area banner)	sistema		汽水域　交差道			0x08D60C64	1	0x00090003	0x08D6097C	4	0x00400203
+shifuno#2	shifuno	2	(banner de area)	(area banner)	sistema		西の大広間			0x08D60C78	1	0x00090004	0x08D609AC	2	0x00400107
+shifuno#3	shifuno	3	(banner de area)	(area banner)	sistema		大広間　連絡橋			0x08D60C8C	1	0x00090005	0x08D609C4	2	0x00400100
+shifuno#4	shifuno	4	(banner de area)	(area banner)	sistema		汽水域　地下水脈			0x08D60CA0	1	0x00090006	0x08D609DC	3	0x00400205
+shifuno#5	shifuno	5	(banner de area)	(area banner)	sistema		東の大広間			0x08D60CB4	1	0x00090007	0x08D60A00	6	0x00400203
+shifuno#6	shifuno	6	(banner de area)	(area banner)	sistema		汽水域　交差道２			0x08D60CC8	1	0x00090008	0x08D60A48	2	0x00400100
+shifuno#7	shifuno	7	(banner de area)	(area banner)	sistema		光の幾何学場			0x08D60CDC;0x08D60D7C;0x08D60E08	3	0x00090009	0x08D60A60	1	0x00400201
+shifuno#8	shifuno	8	(banner de area)	(area banner)	sistema		ユルングの樹生育地			0x08D60CF0;0x08D60E30	2	0x0009000A	0x08D60A6C	2	0x00480205
+shifuno#9	shifuno	9	(banner de area)	(area banner)	sistema		中層　スロープ			0x08D60D04;0x08D60D18	2	0x00090018	0x08D60A84	3	0x00480205
+shifuno#10	shifuno	10	(banner de area)	(area banner)	sistema		中層　西大橋			0x08D60D2C	1	0x0009000C	0x08D60AC0	2	0x00480107
+shifuno#11	shifuno	11	(banner de area)	(area banner)	sistema		中層　東大橋			0x08D60D40	1	0x0009000D	0x08D60AD8	6	0x00480201
+shifuno#12	shifuno	12	(banner de area)	(area banner)	sistema		中層　交差道			0x08D60D54	1	0x0009000E	0x08D60B20	3	0x00480100
+shifuno#13	shifuno	13	(banner de area)	(area banner)	sistema		シフノ大回廊			0x08D60D68	1	0x0009000F	0x08D60B44	2	0x00480105
+shifuno#14	shifuno	14	(banner de area)	(area banner)	sistema		中層　最深部			0x08D60D90;0x08D60DA4;0x08D60DB8;0x08D60E44	4	0x00090016	0x08D60B68	1	0x00480203
+shifuno#15	shifuno	15	(banner de area)	(area banner)	sistema		中層　地下水脈			0x08D60DCC	1	0x00090012	0x08D60BB0	3	0x00580205
+shifuno#16	shifuno	16	(banner de area)	(area banner)	sistema		湧水源域　地下水脈			0x08D60DE0	1	0x00090013	0x08D60BD4	3	0x00580203
+shifuno#17	shifuno	17	(banner de area)	(area banner)	sistema		湧水源域　スロープ			0x08D60DF4	1	0x00090014	0x08D60BF8	2	0x00580101
+shifuno#18	shifuno	18	(banner de area)	(area banner)	sistema		青き眠りの地			0x08D60E1C	1	0x00090019	0x08D60C1C	1	0x00400201
+ortera#0	ortera	0	(banner de area)	(area banner)	sistema		オルタータ火山　入山口			0x08D5F674	1	0x00040002	0x08D5F484	3	0x001B0202
+ortera#1	ortera	1	(banner de area)	(area banner)	sistema		上層　溶岩道			0x08D5F688	1	0x00040003	0x08D5F4A8	1	0x001B0204
+ortera#2	ortera	2	(banner de area)	(area banner)	sistema		上層　星晶採掘跡地			0x08D5F69C;0x08D5F7F0	2	0x00040004	0x08D5F4B4	2	0x001B0206
+ortera#3	ortera	3	(banner de area)	(area banner)	sistema		上層　灼熱回廊			0x08D5F6B0	1	0x00040005	0x08D5F4CC	2	0x001B0100
+ortera#4	ortera	4	(banner de area)	(area banner)	sistema		光の幾何学場			0x08D5F6C4;0x08D5F7A0	2	0x00040006	0x08D5F4E4	2	0x001B0101
+ortera#5	ortera	5	(banner de area)	(area banner)	sistema		上層　最深ポイント			0x08D5F6D8;0x08D5F6EC;0x08D5F804	3	0x00040013	0x08D5F4FC	3	0x001B0101
+ortera#6	ortera	6	(banner de area)	(area banner)	sistema		リングスポット			0x08D5F700	1	0x00040007	0x08D5F52C	4	0x00360202
+ortera#7	ortera	7	(banner de area)	(area banner)	sistema		交差回廊　上部			0x08D5F714	1	0x00040008	0x08D5F55C	2	0x00360105
+ortera#8	ortera	8	(banner de area)	(area banner)	sistema		交差回廊　下部			0x08D5F728	1	0x00040009	0x08D5F574	2	0x00360104
+ortera#9	ortera	9	(banner de area)	(area banner)	sistema		ループ回廊			0x08D5F73C	1	0x0004000A	0x08D5F58C	3	0x00360206
+ortera#10	ortera	10	(banner de area)	(area banner)	sistema		下層　溶岩道			0x08D5F750	1	0x0004000B	0x08D5F5B0	2	0x00580204
+ortera#11	ortera	11	(banner de area)	(area banner)	sistema		下層　灼熱回廊			0x08D5F764	1	0x0004000C	0x08D5F5C8	2	0x00360102
+ortera#12	ortera	12	(banner de area)	(area banner)	sistema		交差回廊　深部			0x08D5F778	1	0x0004000D	0x08D5F5E0	2	0x00360101
+ortera#13	ortera	13	(banner de area)	(area banner)	sistema		ループ回廊　深部			0x08D5F78C	1	0x0004000E	0x08D5F5F8	2	0x00360100
+ortera#14	ortera	14	(banner de area)	(area banner)	sistema		キバの足元			0x08D5F7B4;0x08D5F7C8;0x08D5F818	3	0x00040010	0x08D5F61C	1	0x00360203
+ortera#15	ortera	15	(banner de area)	(area banner)	sistema		キバの足元跡			0x08D5F7DC	1	0x00040014	0x08D5F634	1	0x001B0204
+langrisse#0	langrisse	0	(banner de area)	(area banner)	sistema		聖地　入口			0x08D61040	1	0x000A0002	0x08D60E74	3	0x00440202
+langrisse#1	langrisse	1	(banner de area)	(area banner)	sistema		魂抜きの道　１			0x08D61054	1	0x000A0003	0x08D60E98	2	0x00440204
+langrisse#2	langrisse	2	(banner de area)	(area banner)	sistema		魂抜きの道　２			0x08D61068	1	0x000A0004	0x08D60EB0	3	0x00440200
+langrisse#3	langrisse	3	(banner de area)	(area banner)	sistema		魂抜きの道　３			0x08D6107C	1	0x000A0005	0x08D60ED4	1	0x00440102
+langrisse#4	langrisse	4	(banner de area)	(area banner)	sistema		幽魂の溜まり場			0x08D61090	1	0x000A0006	0x08D60EE0	2	0x00440103
+langrisse#5	langrisse	5	(banner de area)	(area banner)	sistema		光の幾何学場			0x08D610A4;0x08D61144;0x08D61180	3	0x000A0007	0x08D60EF8	2	0x00440206
+langrisse#6	langrisse	6	(banner de area)	(area banner)	sistema		ボルテックス・トップ			0x08D610B8;0x08D610CC;0x08D611A8;0x08D611BC	4	0x000A0008	0x08D60F10	1	0x00440100
+langrisse#7	langrisse	7	(banner de area)	(area banner)	sistema		幽世への道　１			0x08D610E0	1	0x000A0009	0x08D60F34	2	0x004C0202
+langrisse#8	langrisse	8	(banner de area)	(area banner)	sistema		幽世への道　２			0x08D610F4	1	0x000A0012	0x08D60F4C	2	0x004C0100
+langrisse#9	langrisse	9	(banner de area)	(area banner)	sistema		幽世への道　３			0x08D61108	1	0x000A000A	0x08D60F64	3	0x004C0204
+langrisse#10	langrisse	10	(banner de area)	(area banner)	sistema		幽世への道　４			0x08D6111C	1	0x000A000B	0x08D60F88	2	0x004C0202
+langrisse#11	langrisse	11	(banner de area)	(area banner)	sistema		幽世への道　５			0x08D61130	1	0x000A000C	0x08D60FA0	2	0x004C0100
+langrisse#12	langrisse	12	(banner de area)	(area banner)	sistema		ボルテックス・ボトム			0x08D61158	1	0x000A000E	0x08D60FC4	3	0x00580206
+langrisse#13	langrisse	13	(banner de area)	(area banner)	sistema		マレビトの森			0x08D6116C	1	0x000A000F	0x08D60FE8	2	0x00580100
+langrisse#14	langrisse	14	(banner de area)	(area banner)	sistema		緑の眠りの地			0x08D61194	1	0x000A0013	0x08D6100C	1	0x00440206
+veratropa#0	veratropa	0	(banner de area)	(area banner)	sistema		バンエルティア号　上陸地点			0x08D607D0	1	0x00080002	0x08D60610	2	0x00320202
+veratropa#1	veratropa	1	(banner de area)	(area banner)	sistema		エリア・スシュムナ			0x08D607E4;0x08D607F8	2	0x00080010	0x08D60628	3	0x00320202
+veratropa#2	veratropa	2	(banner de area)	(area banner)	sistema		エリア・イダ			0x08D6080C	1	0x00080004	0x08D6067C	1	0x00320106
+veratropa#3	veratropa	3	(banner de area)	(area banner)	sistema		クルタユガの壁画			0x08D60820	1	0x00080005	0x08D60688	1	0x00320107
+veratropa#4	veratropa	4	(banner de area)	(area banner)	sistema		トレーターユガの壁画			0x08D60834	1	0x00080006	0x08D60694	2	0x00320100
+veratropa#5	veratropa	5	(banner de area)	(area banner)	sistema		光の幾何学場			0x08D60848;0x08D608E8	2	0x00080007	0x08D606AC	4	0x00320206
+veratropa#6	veratropa	6	(banner de area)	(area banner)	sistema		エリア・ピンガラ			0x08D6085C	1	0x00080008	0x08D606DC	1	0x00320104
+veratropa#7	veratropa	7	(banner de area)	(area banner)	sistema		ドゥヴァーパラユガの壁画			0x08D60870	1	0x00080009	0x08D606E8	1	0x00320105
+veratropa#8	veratropa	8	(banner de area)	(area banner)	sistema		カリユガの壁画			0x08D60884	1	0x0008000A	0x08D606F4	3	0x00320202
+veratropa#9	veratropa	9	(banner de area)	(area banner)	sistema		エリア・ガンダーリ			0x08D60898	1	0x00080011	0x08D60718	2	0x00320200
+veratropa#10	veratropa	10	(banner de area)	(area banner)	sistema		エリア・パールナ			0x08D608AC	1	0x0008000B	0x08D60730	1	0x00320206
+veratropa#11	veratropa	11	(banner de area)	(area banner)	sistema		創世伝えし者の間			0x08D608C0	1	0x0008000C	0x08D6073C	3	0x003A0206
+veratropa#12	veratropa	12	(banner de area)	(area banner)	sistema		エリア・チトリニ			0x08D608D4	1	0x0008000D	0x08D60760	2	0x003A0100
+veratropa#13	veratropa	13	(banner de area)	(area banner)	sistema		エリア・シューラ			0x08D608FC	1	0x0008000F	0x08D60790	3	0x003A0204
+veratropa#14	veratropa	14	(banner de area)	(area banner)	sistema		エリア・ヤシャス			0x08D60910	1	0x00080012	0x08D607B4	1	0x00320206
+confeito#0	confeito	0	(banner de area)	(area banner)	sistema		大森林入口			0x08D5ED2C	1	0x00020002	0x08D5EBCC	3	0x000D0201
+confeito#1	confeito	1	(banner de area)	(area banner)	sistema		平地林部１			0x08D5ED40	1	0x00020003	0x08D5EBF0	1	0x000D0103
+confeito#2	confeito	2	(banner de area)	(area banner)	sistema		平地林部２			0x08D5ED54	1	0x00020004	0x08D5EBFC	2	0x000D0100
+confeito#3	confeito	3	(banner de area)	(area banner)	sistema		光の幾何学場			0x08D5ED68;0x08D5EDA4;0x08D5EE08	3	0x00020005	0x08D5EC14	2	0x000D0206
+confeito#4	confeito	4	(banner de area)	(area banner)	sistema		平地林部３			0x08D5ED7C;0x08D5EE44	2	0x00020006	0x08D5EC2C	3	0x00180203
+confeito#5	confeito	5	(banner de area)	(area banner)	sistema		ヘーゼル村管理地			0x08D5ED90	1	0x00020007	0x08D5EC50	2	0x00180100
+confeito#6	confeito	6	(banner de area)	(area banner)	sistema		ヘーゼル村星晶採掘地跡			0x08D5EDB8;0x08D5EDCC;0x08D5EE58	3	0x0002000E	0x08D5EC74	1	0x00180206
+confeito#7	confeito	7	(banner de area)	(area banner)	sistema		樹海部１			0x08D5EDE0	1	0x0002000A	0x08D5ECA4	2	0x004A0305
+confeito#8	confeito	8	(banner de area)	(area banner)	sistema		樹海部２			0x08D5EDF4	1	0x0002000B	0x08D5ECBC	2	0x004A0100
+confeito#9	confeito	9	(banner de area)	(area banner)	sistema		樹海部３			0x08D5EE1C	1	0x0002000D	0x08D5ECE0	2	0x004A0100
+confeito#10	confeito	10	(banner de area)	(area banner)	sistema		樹海部　脇道			0x08D5EE30	1	0x0002000F	0x08D5ECF8	1	0x000D0206
+almanac#0	almanac	0	(banner de area)	(area banner)	sistema		遺跡入口			0x08D5FFE4	1	0x00060002	0x08D5FE78	2	0x002A0201
+almanac#1	almanac	1	(banner de area)	(area banner)	sistema		西通路			0x08D5FFF8	1	0x00060003	0x08D5FE90	2	0x002A0103
+almanac#2	almanac	2	(banner de area)	(area banner)	sistema		光の幾何学場			0x08D6000C;0x08D600D4	2	0x00060004	0x08D5FEA8	2	0x002A0204
+almanac#3	almanac	3	(banner de area)	(area banner)	sistema		希望灯招魂の間			0x08D60020;0x08D600FC	2	0x00060005	0x08D5FEC0	2	0x002A0206
+almanac#4	almanac	4	(banner de area)	(area banner)	sistema		西通路　奥			0x08D60034	1	0x00060006	0x08D5FED8	1	0x002A0201
+almanac#5	almanac	5	(banner de area)	(area banner)	sistema		希望灯受体の間			0x08D60048	1	0x00060007	0x08D5FEE4	2	0x00380305
+almanac#6	almanac	6	(banner de area)	(area banner)	sistema		南通路			0x08D6005C	1	0x00060008	0x08D5FEFC	2	0x00380203
+almanac#7	almanac	7	(banner de area)	(area banner)	sistema		南通路　奥			0x08D60070	1	0x00060009	0x08D5FF14	2	0x00380100
+almanac#8	almanac	8	(banner de area)	(area banner)	sistema		あやかしの間			0x08D60084	1	0x0006000A	0x08D5FF2C	1	0x00380201
+almanac#9	almanac	9	(banner de area)	(area banner)	sistema		生命讃歌の間			0x08D60098	1	0x0006000B	0x08D5FF38	4	0x00580203
+almanac#10	almanac	10	(banner de area)	(area banner)	sistema		東通路			0x08D600AC	1	0x0006000C	0x08D5FF68	4	0x00580206
+almanac#11	almanac	11	(banner de area)	(area banner)	sistema		東通路　奥			0x08D600C0	1	0x0006000D	0x08D5FF98	2	0x00580100
+almanac#12	almanac	12	(banner de area)	(area banner)	sistema		赤き眠りの間			0x08D600E8	1	0x0006000F	0x08D5FFBC	1	0x002A0204
+reminiscencia#0	reminiscencia	0	(banner de area)	(area banner)	sistema		追憶の坑道　入口			0x08D62104	1	0x000C0002	0x08D61B90	2	0x00580201
+reminiscencia#1	reminiscencia	1	(banner de area)	(area banner)	sistema		１１層　坑道１			0x08D62118	1	0x000C0003	0x08D61BA8	2	0x00580103
+reminiscencia#2	reminiscencia	2	(banner de area)	(area banner)	sistema		１１層　坑道２			0x08D6212C	1	0x000C0004	0x08D61BC0	2	0x006A0104
+reminiscencia#3	reminiscencia	3	(banner de area)	(area banner)	sistema		１２層　坑道１			0x08D62140	1	0x000C0005	0x08D61BD8	2	0x006A0201
+reminiscencia#4	reminiscencia	4	(banner de area)	(area banner)	sistema		１２層　坑道２			0x08D62154	1	0x000C0006	0x08D61BF0	2	0x006A0103
+reminiscencia#5	reminiscencia	5	(banner de area)	(area banner)	sistema		１２層　坑道３			0x08D62168	1	0x000C0007	0x08D61C08	2	0x006A0204
+reminiscencia#6	reminiscencia	6	(banner de area)	(area banner)	sistema		１２層　坑道４			0x08D6217C	1	0x000C0008	0x08D61C20	2	0x006A0100
+reminiscencia#7	reminiscencia	7	(banner de area)	(area banner)	sistema		１２層　坑道５			0x08D62190	1	0x000C0009	0x08D61C38	2	0x007D0101
+reminiscencia#8	reminiscencia	8	(banner de area)	(area banner)	sistema		１３層　坑道１			0x08D621A4	1	0x000C000A	0x08D61C50	2	0x007D0204
+reminiscencia#9	reminiscencia	9	(banner de area)	(area banner)	sistema		１３層　坑道２			0x08D621B8	1	0x000C000B	0x08D61C68	2	0x007D0103
+reminiscencia#10	reminiscencia	10	(banner de area)	(area banner)	sistema		１３層　坑道３			0x08D621CC	1	0x000C000C	0x08D61C80	2	0x007D0101
+reminiscencia#11	reminiscencia	11	(banner de area)	(area banner)	sistema		１３層　坑道４			0x08D621E0	1	0x000C000D	0x08D61C98	3	0x007D0102
+reminiscencia#12	reminiscencia	12	(banner de area)	(area banner)	sistema		１３層　坑道５			0x08D621F4	1	0x000C000E	0x08D61CBC	2	0x007D0100
+reminiscencia#13	reminiscencia	13	(banner de area)	(area banner)	sistema		光の幾何学場			0x08D62208;0x08D622E4;0x08D62564	3	0x000C000F	0x08D61CD4	1	0x007D0103
+reminiscencia#14	reminiscencia	14	(banner de area)	(area banner)	sistema		１３層　坑道６			0x08D6221C	1	0x000C0010	0x08D61CE0	2	0x008F0103
+reminiscencia#15	reminiscencia	15	(banner de area)	(area banner)	sistema		１４層　坑道１			0x08D62230	1	0x000C0011	0x08D61CF8	2	0x008F0204
+reminiscencia#16	reminiscencia	16	(banner de area)	(area banner)	sistema		１４層　坑道２			0x08D62244	1	0x000C0012	0x08D61D10	2	0x008F0200
+reminiscencia#17	reminiscencia	17	(banner de area)	(area banner)	sistema		１４層　坑道３			0x08D62258	1	0x000C0013	0x08D61D28	2	0x008F0102
+reminiscencia#18	reminiscencia	18	(banner de area)	(area banner)	sistema		１４層　坑道４			0x08D6226C	1	0x000C0014	0x08D61D40	1	0x00A10103
+reminiscencia#19	reminiscencia	19	(banner de area)	(area banner)	sistema		１５層　坑道１			0x08D62280	1	0x000C0015	0x08D61D4C	2	0x00A10200
+reminiscencia#20	reminiscencia	20	(banner de area)	(area banner)	sistema		１５層　坑道２			0x08D62294	1	0x000C0016	0x08D61D64	2	0x00A10104
+reminiscencia#21	reminiscencia	21	(banner de area)	(area banner)	sistema		１５層　坑道３			0x08D622A8	1	0x000C0017	0x08D61D7C	1	0x00A10101
+reminiscencia#22	reminiscencia	22	(banner de area)	(area banner)	sistema		１５層　坑道６			0x08D622BC	1	0x000C0018	0x08D61D88	2	0x00A10104
+reminiscencia#23	reminiscencia	23	(banner de area)	(area banner)	sistema		１５層　坑道４			0x08D622D0	1	0x000C0019	0x08D61DA0	2	0x00A10100
+reminiscencia#24	reminiscencia	24	(banner de area)	(area banner)	sistema		１５層　坑道５			0x08D622F8	1	0x000C001B	0x08D61DC4	1	0x00B40102
+reminiscencia#25	reminiscencia	25	(banner de area)	(area banner)	sistema		１６層　坑道１			0x08D6230C	1	0x000C001C	0x08D61DD0	2	0x00B40200
+reminiscencia#26	reminiscencia	26	(banner de area)	(area banner)	sistema		１６層　坑道２			0x08D62320	1	0x000C001D	0x08D61DE8	2	0x00B40103
+reminiscencia#27	reminiscencia	27	(banner de area)	(area banner)	sistema		１６層　坑道３			0x08D62334	1	0x000C001E	0x08D61E00	2	0x00B40102
+reminiscencia#28	reminiscencia	28	(banner de area)	(area banner)	sistema		１６層　坑道４			0x08D62348	1	0x000C001F	0x08D61E18	3	0x00B40101
+reminiscencia#29	reminiscencia	29	(banner de area)	(area banner)	sistema		１６層　坑道５			0x08D6235C	1	0x000C0020	0x08D61E3C	1	0x00C50103
+reminiscencia#30	reminiscencia	30	(banner de area)	(area banner)	sistema		１７層　坑道１			0x08D62370	1	0x000C0021	0x08D61E48	2	0x00C50204
+reminiscencia#31	reminiscencia	31	(banner de area)	(area banner)	sistema		１７層　坑道２			0x08D62384	1	0x000C0022	0x08D61E60	3	0x00C50100
+reminiscencia#32	reminiscencia	32	(banner de area)	(area banner)	sistema		１７層　坑道３			0x08D62398	1	0x000C0023	0x08D61E84	2	0x00C50101
+reminiscencia#33	reminiscencia	33	(banner de area)	(area banner)	sistema		１７層　坑道４			0x08D623AC	1	0x000C0024	0x08D61E9C	2	0x00C50202
+reminiscencia#34	reminiscencia	34	(banner de area)	(area banner)	sistema		１７層　坑道５			0x08D623C0	1	0x000C0025	0x08D61EB4	2	0x00C50204
+reminiscencia#35	reminiscencia	35	(banner de area)	(area banner)	sistema		１７層　坑道６			0x08D623D4	1	0x000C0026	0x08D61ECC	2	0x00C50100
+reminiscencia#36	reminiscencia	36	(banner de area)	(area banner)	sistema		１７層　坑道７			0x08D623E8	1	0x000C0027	0x08D61EE4	1	0x00D60102
+reminiscencia#37	reminiscencia	37	(banner de area)	(area banner)	sistema		１８層　坑道１			0x08D623FC	1	0x000C0028	0x08D61EF0	2	0x00D60204
+reminiscencia#38	reminiscencia	38	(banner de area)	(area banner)	sistema		１８層　坑道２			0x08D62410	1	0x000C0029	0x08D61F08	2	0x00D60206
+reminiscencia#39	reminiscencia	39	(banner de area)	(area banner)	sistema		１８層　坑道３			0x08D62424	1	0x000C002A	0x08D61F20	2	0x00D60103
+reminiscencia#40	reminiscencia	40	(banner de area)	(area banner)	sistema		１８層　坑道４			0x08D62438	1	0x000C002B	0x08D61F38	3	0x00D60101
+reminiscencia#41	reminiscencia	41	(banner de area)	(area banner)	sistema		１８層　坑道５			0x08D6244C	1	0x000C002C	0x08D61F5C	1	0x00E80102
+reminiscencia#42	reminiscencia	42	(banner de area)	(area banner)	sistema		１９層　坑道１			0x08D62460	1	0x000C002D	0x08D61F68	2	0x00E80103
+reminiscencia#43	reminiscencia	43	(banner de area)	(area banner)	sistema		１９層　坑道２			0x08D62474	1	0x000C002E	0x08D61F80	2	0x00E80206
+reminiscencia#44	reminiscencia	44	(banner de area)	(area banner)	sistema		１９層　坑道３			0x08D62488	1	0x000C002F	0x08D61F98	3	0x00E80100
+reminiscencia#45	reminiscencia	45	(banner de area)	(area banner)	sistema		１９層　坑道４			0x08D6249C	1	0x000C0030	0x08D61FBC	2	0x00E80201
+reminiscencia#46	reminiscencia	46	(banner de area)	(area banner)	sistema		１９層　坑道５			0x08D624B0	1	0x000C0031	0x08D61FD4	2	0x00E80103
+reminiscencia#47	reminiscencia	47	(banner de area)	(area banner)	sistema		１９層　坑道６			0x08D624C4	1	0x000C0032	0x08D61FEC	2	0x00FA0104
+reminiscencia#48	reminiscencia	48	(banner de area)	(area banner)	sistema		２０層　坑道１			0x08D624D8	1	0x000C0033	0x08D62004	2	0x00FA0105
+reminiscencia#49	reminiscencia	49	(banner de area)	(area banner)	sistema		２０層　坑道７			0x08D624EC	1	0x000C0034	0x08D6201C	1	0x00FA0100
+reminiscencia#50	reminiscencia	50	(banner de area)	(area banner)	sistema		２０層　坑道８			0x08D62500	1	0x000C0035	0x08D62028	2	0x00FA0201
+reminiscencia#51	reminiscencia	51	(banner de area)	(area banner)	sistema		２０層　坑道２			0x08D62514	1	0x000C0036	0x08D62040	3	0x00FA0103
+reminiscencia#52	reminiscencia	52	(banner de area)	(area banner)	sistema		２０層　坑道３			0x08D62528	1	0x000C0037	0x08D62064	2	0x00FA0206
+reminiscencia#53	reminiscencia	53	(banner de area)	(area banner)	sistema		２０層　坑道４			0x08D6253C	1	0x000C0038	0x08D6207C	2	0x00FA0201
+reminiscencia#54	reminiscencia	54	(banner de area)	(area banner)	sistema		２０層　坑道５			0x08D62550	1	0x000C0039	0x08D62094	2	0x00FA0100
+reminiscencia#55	reminiscencia	55	(banner de area)	(area banner)	sistema		記憶流れる道			0x08D62578	1	0x000C003B	0x08D620C4	2	0x00FA0202
+reminiscencia#56	reminiscencia	56	(banner de area)	(area banner)	sistema		エンドレス・ボイド			0x08D6258C	1	0x000C003C	0x08D620DC	1	0x00FA0206
+reminiscencia#57	reminiscencia	57	(banner de area)	(area banner)	sistema		追憶の終点			0x08D625A0	1	0x000C003D	0x08D620E8	1	0x00FA0202
+kadaif#0	kadaif	0	(banner de area)	(area banner)	sistema		カダイフ砂漠　入口			0x08D5FB88	1	0x00050002	0x08D5F848	2	0x00210101
+kadaif#1	kadaif	1	(banner de area)	(area banner)	sistema		光の幾何学場			0x08D5FB9C;0x08D5FBEC;0x08D5FC50;0x08D5FCA0;0x08D5FD2C;0x08D5FDA4	6	0x00050003	0x08D5F860	4	0x00210100
+kadaif#2	kadaif	2	(banner de area)	(area banner)	sistema		オアシスルート１			0x08D5FBB0;0x08D5FDCC	2	0x00050004	0x08D5F890	3	0x00210206
+kadaif#3	kadaif	3	(banner de area)	(area banner)	sistema		オアシスルート２			0x08D5FBC4	1	0x00050005	0x08D5F8B4	4	0x00210102
+kadaif#4	kadaif	4	(banner de area)	(area banner)	sistema		オアシスルート３			0x08D5FBD8	1	0x00050006	0x08D5F8E4	2	0x00210103
+kadaif#5	kadaif	5	(banner de area)	(area banner)	sistema		オアシス			0x08D5FC00;0x08D5FDE0	2	0x00050008	0x08D5F908	2	0x00300204
+kadaif#6	kadaif	6	(banner de area)	(area banner)	sistema		帰らずの荒野１			0x08D5FC14	1	0x00050009	0x08D5F920	2	0x00300301
+kadaif#7	kadaif	7	(banner de area)	(area banner)	sistema		帰らずの荒野２			0x08D5FC28	1	0x0005000A	0x08D5F938	3	0x00300206
+kadaif#8	kadaif	8	(banner de area)	(area banner)	sistema		帰らずの荒野３			0x08D5FC3C	1	0x0005000B	0x08D5F95C	2	0x00300100
+kadaif#9	kadaif	9	(banner de area)	(area banner)	sistema		魔の吹き溜まり			0x08D5FC64;0x08D5FDF4	2	0x0005000D	0x08D5F98C	2	0x00300204
+kadaif#10	kadaif	10	(banner de area)	(area banner)	sistema		後生の門			0x08D5FC78	1	0x0005000E	0x08D5F9A4	2	0x003C0202
+kadaif#11	kadaif	11	(banner de area)	(area banner)	sistema		帰らずの荒野４			0x08D5FC8C	1	0x0005001C	0x08D5F9BC	2	0x003C0100
+kadaif#12	kadaif	12	(banner de area)	(area banner)	sistema		赤のオアシス			0x08D5FCB4;0x08D5FE08	2	0x00050010	0x08D5F9E0	2	0x00420202
+kadaif#13	kadaif	13	(banner de area)	(area banner)	sistema		ステップエリア１			0x08D5FCC8	1	0x00050011	0x08D5F9F8	2	0x00420204
+kadaif#14	kadaif	14	(banner de area)	(area banner)	sistema		ステップエリア２			0x08D5FCDC	1	0x00050012	0x08D5FA10	3	0x00420200
+kadaif#15	kadaif	15	(banner de area)	(area banner)	sistema		ステップエリア３			0x08D5FCF0	1	0x00050013	0x08D5FA34	4	0x00420102
+kadaif#16	kadaif	16	(banner de area)	(area banner)	sistema		ステップエリア４			0x08D5FD04	1	0x00050014	0x08D5FA64	2	0x00420204
+kadaif#17	kadaif	17	(banner de area)	(area banner)	sistema		ステップエリア５			0x08D5FD18	1	0x00050015	0x08D5FA7C	2	0x00420103
+kadaif#18	kadaif	18	(banner de area)	(area banner)	sistema		ステップエリア６			0x08D5FD40	1	0x00050017	0x08D5FAAC	2	0x00420200
+kadaif#19	kadaif	19	(banner de area)	(area banner)	sistema		風来草生育域			0x08D5FD54;0x08D5FD68;0x08D5FD7C;0x08D5FE1C;0x08D5FE30	5	0x00050018	0x08D5FAC4	1	0x00420200
+kadaif#20	kadaif	20	(banner de area)	(area banner)	sistema		ステップエリア７			0x08D5FD90	1	0x0005001A	0x08D5FB00	2	0x00420104
+kadaif#21	kadaif	21	(banner de area)	(area banner)	sistema		邪の吹き溜まり			0x08D5FDB8	1	0x0005001E	0x08D5FB24	1	0x00210100
+absoule#0	absoule	0	(banner de area)	(area banner)	sistema		アブソ−ル登山口			0x08D60400;0x08D60414	2	0x00070002	0x08D60138	4	0x002D0103
+absoule#1	absoule	1	(banner de area)	(area banner)	sistema		登頂道　３合目			0x08D60428	1	0x00070004	0x08D601A4	3	0x002D0200
+absoule#2	absoule	2	(banner de area)	(area banner)	sistema		登頂道　７合目			0x08D6043C	1	0x00070005	0x08D601C8	2	0x002D0102
+absoule#3	absoule	3	(banner de area)	(area banner)	sistema		光の幾何学場			0x08D60450;0x08D604DC;0x08D6057C	3	0x00070006	0x08D601E0	1	0x002D0206
+absoule#4	absoule	4	(banner de area)	(area banner)	sistema		アブソ−ル　山頂			0x08D60464;0x08D605CC	2	0x00070007	0x08D601EC	4	0x003E0100
+absoule#5	absoule	5	(banner de area)	(area banner)	sistema		縦走の別れ道			0x08D60478	1	0x00070015	0x08D6021C	3	0x003E0204
+absoule#6	absoule	6	(banner de area)	(area banner)	sistema		山麓　入り口			0x08D6048C	1	0x00070008	0x08D60240	4	0x003E0202
+absoule#7	absoule	7	(banner de area)	(area banner)	sistema		山麓			0x08D604A0	1	0x00070009	0x08D60270	2	0x003E0200
+absoule#8	absoule	8	(banner de area)	(area banner)	sistema		山麓　中腹			0x08D604B4	1	0x0007000A	0x08D60288	2	0x003E0206
+absoule#9	absoule	9	(banner de area)	(area banner)	sistema		山麓　奥			0x08D604C8	1	0x0007000B	0x08D602A0	2	0x003E0101
+absoule#10	absoule	10	(banner de area)	(area banner)	sistema		アブソ−ル　山間			0x08D604F0	1	0x0007000D	0x08D602C4	3	0x002D0204
+absoule#11	absoule	11	(banner de area)	(area banner)	sistema		アブソ−ル　麓			0x08D60504	1	0x0007000E	0x08D602E8	3	0x00580206
+absoule#12	absoule	12	(banner de area)	(area banner)	sistema		山岳道			0x08D60518	1	0x0007000F	0x08D6030C	2	0x00580100
+absoule#13	absoule	13	(banner de area)	(area banner)	sistema		山岳道　終点			0x08D6052C	1	0x00070010	0x08D60324	2	0x00580102
+absoule#14	absoule	14	(banner de area)	(area banner)	sistema		アブソール　山岳通路			0x08D60540	1	0x00070011	0x08D6033C	2	0x00580204
+absoule#15	absoule	15	(banner de area)	(area banner)	sistema		山岳道　中腹			0x08D60554	1	0x00070012	0x08D60354	3	0x00580206
+absoule#16	absoule	16	(banner de area)	(area banner)	sistema		山岳道　奥			0x08D60568	1	0x00070013	0x08D60378	2	0x00580103
+absoule#17	absoule	17	(banner de area)	(area banner)	sistema		リングスポット			0x08D60590	1	0x00070016	0x08D6039C	2	0x00580100
+absoule#18	absoule	18	(banner de area)	(area banner)	sistema		山岳道　冥途坂			0x08D605A4	1	0x00070017	0x08D603B4	2	0x00580102
+absoule#19	absoule	19	(banner de area)	(area banner)	sistema		山岳道　彼岸坂			0x08D605B8	1	0x00070018	0x08D603CC	1	0x002D0206
+spectrum#0	spectrum	0	(banner de area)	(area banner)	sistema		ワールド・ポータル			0x08D618A4	1	0x000B0002	0x08D61204	3	0x004E0204
+spectrum#1	spectrum	1	(banner de area)	(area banner)	sistema		スペクトルΑ−西分岐			0x08D618B8	1	0x000B0003	0x08D61228	1	0x004E0206
+spectrum#2	spectrum	2	(banner de area)	(area banner)	sistema		スペクトルΑ−西の虚			0x08D618CC	1	0x000B0004	0x08D61234	3	0x004E0206
+spectrum#3	spectrum	3	(banner de area)	(area banner)	sistema		スペクトルΑ−東分岐			0x08D618E0	1	0x000B0005	0x08D61258	1	0x004E0204
+spectrum#4	spectrum	4	(banner de area)	(area banner)	sistema		スペクトルΑ−東の虚			0x08D618F4	1	0x000B0006	0x08D61264	17	0x004E0202
+spectrum#5	spectrum	5	(banner de area)	(area banner)	sistema		スペクトルΑΒ−中央ポータル			0x08D61908	1	0x000B0007	0x08D61330	9	0x004E0202
+spectrum#6	spectrum	6	(banner de area)	(area banner)	sistema		スペクトルΑΒ−西ポータル			0x08D6191C	1	0x000B0008	0x08D6139C	2	0x004E0200
+spectrum#7	spectrum	7	(banner de area)	(area banner)	sistema		スペクトルΒ−西通路			0x08D61930	1	0x000B0009	0x08D613B4	2	0x004E0107
+spectrum#8	spectrum	8	(banner de area)	(area banner)	sistema		光の幾何学場			0x08D61944;0x08D619A8;0x08D61A48;0x08D61A84;0x08D61AE8	5	0x000B000A	0x08D613CC	1	0x004E0204
+spectrum#9	spectrum	9	(banner de area)	(area banner)	sistema		スペクトルΒ−特異点西			0x08D61958;0x08D61B24	2	0x000B000B	0x08D613D8	3	0x004E0206
+spectrum#10	spectrum	10	(banner de area)	(area banner)	sistema		スペクトルΒ−西分岐			0x08D6196C	1	0x000B000C	0x08D613FC	9	0x004E0202
+spectrum#11	spectrum	11	(banner de area)	(area banner)	sistema		スペクトルΑΒ−東ポータル			0x08D61980	1	0x000B000D	0x08D61468	2	0x004E0200
+spectrum#12	spectrum	12	(banner de area)	(area banner)	sistema		スペクトルΒ−東通路			0x08D61994	1	0x000B000E	0x08D61480	2	0x004E0106
+spectrum#13	spectrum	13	(banner de area)	(area banner)	sistema		スペクトルΒ−特異点東			0x08D619BC;0x08D61B38	2	0x000B0010	0x08D614A4	3	0x004E0204
+spectrum#14	spectrum	14	(banner de area)	(area banner)	sistema		スペクトルΒ−東分岐			0x08D619D0	1	0x000B001D	0x08D614C8	1	0x004E0206
+spectrum#15	spectrum	15	(banner de area)	(area banner)	sistema		スペクトルΒ−ヌル１			0x08D619E4	1	0x000B001E	0x08D614D4	1	0x004E0200
+spectrum#16	spectrum	16	(banner de area)	(area banner)	sistema		スペクトルΒ−ヌル３			0x08D619F8	1	0x000B001F	0x08D614E0	1	0x004E0200
+spectrum#17	spectrum	17	(banner de area)	(area banner)	sistema		スペクトルΒ−ヌル２			0x08D61A0C	1	0x000B0020	0x08D614EC	1	0x004E0204
+spectrum#18	spectrum	18	(banner de area)	(area banner)	sistema		スペクトルΒ−ヌル４			0x08D61A20	1	0x000B0011	0x08D614F8	21	0x004E0204
+spectrum#19	spectrum	19	(banner de area)	(area banner)	sistema		スペクトルΒΓ−西ポータル			0x08D61A34	1	0x000B0012	0x08D615F4	2	0x004E0100
+spectrum#20	spectrum	20	(banner de area)	(area banner)	sistema		スペクトルΓ−特異点西			0x08D61A5C;0x08D61B4C	2	0x000B0014	0x08D61618	21	0x004E0206
+spectrum#21	spectrum	21	(banner de area)	(area banner)	sistema		スペクトルΒΓ−東ポータル			0x08D61A70	1	0x000B0015	0x08D61714	2	0x004E0101
+spectrum#22	spectrum	22	(banner de area)	(area banner)	sistema		スペクトルΓ−特異点東			0x08D61A98;0x08D61B60	2	0x000B0017	0x08D61738	3	0x004E0202
+spectrum#23	spectrum	23	(banner de area)	(area banner)	sistema		スペクトルΒ−中央			0x08D61AAC	1	0x000B0018	0x08D6175C	15	0x004E0200
+spectrum#24	spectrum	24	(banner de area)	(area banner)	sistema		スペクトルΓΔ−ポータル			0x08D61AC0	1	0x000B0019	0x08D61810	1	0x004E0204
+spectrum#25	spectrum	25	(banner de area)	(area banner)	sistema		スペクトルΔ−西の虚			0x08D61AD4	1	0x000B001A	0x08D6181C	2	0x004E0106
+spectrum#26	spectrum	26	(banner de area)	(area banner)	sistema		スペクトルΔ−次元上昇の道			0x08D61AFC	1	0x000B001C	0x08D6184C	1	0x004E0201
+spectrum#27	spectrum	27	(banner de area)	(area banner)	sistema		スペクトルΩ−生命の場			0x08D61B10;0x08D61B74	2	0x000B0021	0x08D61858	1	0x004E0204

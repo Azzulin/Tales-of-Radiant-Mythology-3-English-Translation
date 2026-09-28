@@ -1,0 +1,165 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev01_010.scr:0	mev01_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	あなたが引き受けてくれるのね。\n今回、行ってもらうのは\nコンフェイト大森林		
+mev01_010.scr:1	mev01_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	そこで、ヘーゼル村の人と接触し、\n必要な物資を届ける事が仕事よ		
+mev01_010.scr:2	mev01_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	同行者は、ヴェイグ君、ミント、\nそれからシング君		
+mev01_010.scr:3	mev01_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	ヘーゼル村は今、ウリズン帝国により\n星晶の搾取と採掘の労働を強いられているの		
+mev01_010.scr:4	mev01_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	だから畑仕事や狩りも出来ないみたいで…、\nこんな形でしか助けられないのだけれど…		
+mev01_010.scr:5	mev01_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	ヘーゼル村の人は、\nヴェイグ君が知っているから		
+mev01_010.scr:6	mev01_010.scr	6	アンジュ	Ange Serena	personagem		それじゃあ、お願いね		
+mev01_020.scr:0	mev01_020.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	ウリズン帝国の奴ら、どれだけ星晶を\n奪い取るつもりなんだ！		
+mev01_020.scr:1	mev01_020.scr	1	ミント	Mint Adenade	personagem	CRLF x1	そういえば、\nシングさんの故郷もでしたね…		
+mev01_020.scr:2	mev01_020.scr	2	シング	Shing Meteoryte	personagem		あいつら、突然村に押しかけて来たんだ		
+mev01_020.scr:3	mev01_020.scr	3	シング	Shing Meteoryte	personagem	CRLF x1	村を封鎖した上に、星晶を採り尽くすまで\n男の人はみんな働かされて…		
+mev01_020.scr:4	mev01_020.scr	4	シング	Shing Meteoryte	personagem	CRLF x2	残された女の人や子どもだけじゃ\n狩りが出来ないから、\n食べ物も足りなくなったんだ		
+mev01_020.scr:5	mev01_020.scr	5	シング	Shing Meteoryte	personagem	CRLF x1	星晶を失った土地はやせ衰えて、\n森からは動物がいなくなったよ		
+mev01_020.scr:6	mev01_020.scr	6	シング	Shing Meteoryte	personagem	CRLF x1	オレの村で有名だった果物もさっぱり\n採れなくなってしまったし		
+mev01_020.scr:7	mev01_020.scr	7	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	ヘーゼル村も同じ運命をたどる、\nという事か…		
+mev01_020.scr:8	mev01_020.scr	8	シング	Shing Meteoryte	personagem	CRLF x1	えっ！！\nそ、そういう意味で言ったんじゃ…！！		
+mev01_020.scr:9	mev01_020.scr	9	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	わかっている。\n行くぞ。\n仲間が先で待っている		
+mev01_020.scr:10	mev01_020.scr	10	シング	Shing Meteoryte	personagem		よーし、ガンドコ行こう！		
+mev01_020.scr:11	mev01_020.scr	11	ミント	Mint Adenade	personagem		ガンドコ、ですか？		
+mev01_020.scr:12	mev01_020.scr	12	シング	Shing Meteoryte	personagem	CRLF x2	うん！\n「ガンガン、どこまでも」で\n「ガンドコ」さ！		
+mev01_030.scr:0	mev01_030.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	ねえ、ヴェイグ。\n聞いていいかな？		
+mev01_030.scr:1	mev01_030.scr	1	ヴェイグ	Veigue Lungberg	personagem		何だ		
+mev01_030.scr:2	mev01_030.scr	2	シング	Shing Meteoryte	personagem	CRLF x1	ヘーゼル村を支配している帝国の使者は、\nどんな奴なの？		
+mev01_030.scr:3	mev01_030.scr	3	シング	Shing Meteoryte	personagem	CRLF x1	オレの故郷に来たのは、\nものっすごい悪い奴でさ		
+mev01_030.scr:4	mev01_030.scr	4	シング	Shing Meteoryte	personagem	CRLF x2	村一番の力自慢がかかっていっても\n汗一つかかずにあっさりと倒してしまうくらい\n強い騎士だったんだ		
+mev01_030.scr:5	mev01_030.scr	5	シング	Shing Meteoryte	personagem	CRLF x1	紫色の髪の、\n変なしゃべり方をする奴だったけど		
+mev01_030.scr:6	mev01_030.scr	6	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	…！？\nまさか、「サレ」か？		
+mev01_030.scr:7	mev01_030.scr	7	シング	Shing Meteoryte	personagem	CRLF x1	じゃあ、ヘーゼル村には今、\nオレの村と同じ奴が来てるってこと！？		
+mev01_030.scr:8	mev01_030.scr	8	ミント	Mint Adenade	personagem		サレという騎士の悪行は有名です…		
+mev01_030.scr:9	mev01_030.scr	9	ミント	Mint Adenade	personagem	CRLF x2	彼は嵐を起こす力を持っていて、\n命令に従わない村を幾つも\n破壊しているとか…		
+mev01_030.scr:10	mev01_030.scr	10	シング	Shing Meteoryte	personagem	CRLF x2	オレの村も、初めは星晶を採られない様に\n抵抗したけど、土地も村の人も犠牲になるから\n大人しく従うしかなかったんだ…		
+mev01_030.scr:11	mev01_030.scr	11	シング	Shing Meteoryte	personagem	CRLF x1	くそっ、オレにもっと力があればッ！！\n村のみんなも、星晶も守る事が出来たのに		
+mev01_040.scr:0	mev01_040.scr	0	サレ	Saleh	personagem	CRLF x1	残念、この道はハズレなんだよ。\nハ・ズ・レ		
+mev01_040.scr:1	mev01_040.scr	1	サレ	Saleh	personagem	CRLF x1	小うるさいお供の目の届かない所に\n引っ張り出すのは苦労したよ		
+mev01_040.scr:2	mev01_040.scr	2	サレ	Saleh	personagem	CRLF x1	さあ、僕と来てくれるかな？\nガルバンゾ国王女、エステリーゼ様		
+mev01_040.scr:3	mev01_040.scr	3	サレ	Saleh	personagem	CRLF x2	キミさえ来てくれれば、\nガルバンゾ国が保有する多大な星晶も、\n帝国のものだ…		
+mev01_040.scr:4	mev01_040.scr	4	サレ	Saleh	personagem	CRLF x1	わかるよね？\n近々、キミの国とは戦争になる		
+mev01_040.scr:5	mev01_040.scr	5	サレ	Saleh	personagem	CRLF x2	でも、キミが人質になって、\nガルバンゾ国の星晶を渡してもらえれば\n多くの人は血を流さずに済む		
+mev01_040.scr:6	mev01_040.scr	6	サレ	Saleh	personagem	CRLF x2	ガルバンゾ 国民の命は今、キミの手の中にある。\nどう？\n命って重いのかな？		
+mev01_040.scr:7	mev01_040.scr	7	シング	Shing Meteoryte	personagem	CRLF x1	サレだ…！\nねえ、あの女の人が危ないよ！		
+mev01_040.scr:8	mev01_040.scr	8	ミント	Mint Adenade	personagem	CRLF x1	ガルバンゾ国の王女、と聞こえましたが…。\nなぜここに…？		
+mev01_040.scr:9	mev01_040.scr	9	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	わからない…。\n星晶狙いな事は間違いないだろう		
+mev01_040.scr:10	mev01_040.scr	10	シング	Shing Meteoryte	personagem	CRLF x1	何て奴だ！\n助けよう、二人とも！		
+mev01_040.scr:11	mev01_040.scr	11	ミント	Mint Adenade	personagem	CRLF x1	あっ。\n皆さん！		
+mev01_040.scr:12	mev01_040.scr	12	ミント	Mint Adenade	personagem		正面から行くのは危険ですよ！！		
+mev01_040.scr:13	mev01_040.scr	13	ヴェイグ	Veigue Lungberg	personagem		退け…		
+mev01_040.scr:14	mev01_040.scr	14	サレ	Saleh	personagem	CRLF x1	やあ、ヴェイグ。\nお久しぶり		
+mev01_040.scr:15	mev01_040.scr	15	サレ	Saleh	personagem	CRLF x2	キミの事はよく覚えているよ。\n僕に刃向かい、村を捨てて逃げた\nドブネズミくん		
+mev01_040.scr:16	mev01_040.scr	16	ヴェイグ	Veigue Lungberg	personagem		くッ…		
+mev01_040.scr:17	mev01_040.scr	17	サレ	Saleh	personagem	CRLF x2	逃げなければ、\n僕の玩具になれていたのになぁ…。\n残念だ		
+mev01_040.scr:18	mev01_040.scr	18	サレ	Saleh	personagem	CRLF x2	でも、再会出来て嬉しいよ。\nここでキミをズタズタに\n弄んでやれるんだもの		
+mev01_040.scr:19	mev01_040.scr	19	サレ	Saleh	personagem	CRLF x1	僕に剣を向け、傷を付けた者なんて\nキミが初めてだからね！！		
+mev01_050.scr:0	mev01_050.scr	0	サレ	Saleh	personagem		やあ、また来てくれたのかい？		
+mev01_050.scr:1	mev01_050.scr	1	サレ	Saleh	personagem	CRLF x2	その必死な目……キライだな。\nキミみたいな人を見ると、\nもっといじめたくなるんだよね、僕		
+mev01_060.scr:0	mev01_060.scr	0	ミント	Mint Adenade	personagem		もう、大丈夫ですよ		
+mev01_060.scr:1	mev01_060.scr	1	エステル	Estelle	personagem		ありがとうございます…		
+mev01_060.scr:2	mev01_060.scr	2	サレ	Saleh	personagem	CRLF x1	う、ウソだろう……？\n僕が、本気で……こんなヤツに……		
+mev01_060.scr:3	mev01_060.scr	3	サレ	Saleh	personagem	CRLF x2	これまで僕は、\nずっと人の心をバカにして生きてきた…。\n軽く遊んでやればいいと思っていた		
+mev01_060.scr:4	mev01_060.scr	4	サレ	Saleh	personagem	CRLF x2	でも、キミ達との戦いで心の大切さってヤツを\n学ばされたよ。\nああ、今まで大きな間違いを犯していた		
+mev01_060.scr:5	mev01_060.scr	5	サレ	Saleh	personagem	CRLF x1	よく、わかったよ。\n心の力は強くて、大きい		
+mev01_060.scr:6	mev01_060.scr	6	サレ	Saleh	personagem		そして、実に不愉快なものだと！		
+mev01_060.scr:7	mev01_060.scr	7	サレ	Saleh	personagem	CRLF x1	だから…、次は本気で叩き潰す。\nキミ達の……人の心をね！		
+mev01_060.scr:8	mev01_060.scr	8	エステル	Estelle	personagem	CRLF x1	あ、あの。\n助けていただいてありがとうございます		
+mev01_060.scr:9	mev01_060.scr	9	エステル	Estelle	personagem	CRLF x2	わたし、\nエステリーゼ・シデス・ヒュラッセイン\nと言います		
+mev01_060.scr:10	mev01_060.scr	10	エステル	Estelle	personagem		エステルって呼んで下さい		
+mev01_060.scr:11	mev01_060.scr	11	リタ	Rita Mordio	personagem	CRLF x1	エステル！\nケガはない？		
+mev01_060.scr:12	mev01_060.scr	12	エステル	Estelle	personagem	CRLF x1	大丈夫です。\nこの方達に助けていただきました		
+mev01_060.scr:13	mev01_060.scr	13	ユーリ	Yuri Lowell	personagem	CRLF x2	そうか。\nあの変な口調の奴は\nどうした？		
+mev01_060.scr:14	mev01_060.scr	14	ヴェイグ	Veigue Lungberg	personagem		駐在しているヘーゼル村へ戻ったのだろう		
+mev01_060.scr:15	mev01_060.scr	15	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	この一件で、サレの監視が厳しくなって、\nオレの仲間も外には出られない状態に\nなっているかもしれない		
+mev01_060.scr:16	mev01_060.scr	16	シング	Shing Meteoryte	personagem	CRLF x1	そっか…。\n今日は引き返した方がいいかなあ…		
+mev01_060.scr:17	mev01_060.scr	17	ミント	Mint Adenade	personagem	CRLF x1	あの、エステリーゼ様…い、いえ、\nエステルさん、ですよね		
+mev01_060.scr:18	mev01_060.scr	18	ミント	Mint Adenade	personagem	CRLF x1	私達は、アドリビトムという\nギルドの者です		
+mev01_060.scr:19	mev01_060.scr	19	ミント	Mint Adenade	personagem	CRLF x1	お疲れの様ですし、皆さん\n私達の船で体を休めてはいかがでしょうか？		
+mev01_060.scr:20	mev01_060.scr	20	エステル	Estelle	personagem	CRLF x1	ユーリ、リタ。\nどうします？		
+mev01_060.scr:21	mev01_060.scr	21	ユーリ	Yuri Lowell	personagem	CRLF x1	アドリビトム？\nああ、あの妙な船を拠点にしてるギルドか		
+mev01_060.scr:22	mev01_060.scr	22	ユーリ	Yuri Lowell	personagem	CRLF x2	せっかくだから、行こうぜ。\nこの森で迷ってから、\nまともに食えてないもんな		
+mev01_070.scr:0	mev01_070.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	お帰りなさい。\nヘーゼル村に物資を届けられなくて\n残念だったね		
+mev01_070.scr:1	mev01_070.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	でも、今回はサレがいたんだもん。\n仕方ないよ		
+mev01_070.scr:2	mev01_070.scr	2	アンジュ	Ange Serena	personagem		物資を届けるのは、またの機会にしましょ		
+mev01_070.scr:3	mev01_070.scr	3	ミント	Mint Adenade	personagem	CRLF x1	エステルさん達は、\n食堂のとなりの部屋へ案内しました		
+mev01_070.scr:4	mev01_070.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	じゃあ、挨拶しないとね。\nガルバンゾ国のお姫様だったら、\nあんな森にいたのも事情がありそうだし		
+mev01_070.scr:5	mev01_070.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	○○、あなたもいらっしゃい。\n一緒に話を聞きましょう		
+mev01_080.scr:0	mev01_080.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	さて、あなた達。\nもし良かったら、話を聞いてもいい？		
+mev01_080.scr:1	mev01_080.scr	1	アンジュ	Ange Serena	personagem		その前に自己紹介をしなくちゃね		
+mev01_080.scr:2	mev01_080.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	わたしは、アンジュ。\nこのギルド、アドリビトムのリーダーよ		
+mev01_080.scr:3	mev01_080.scr	3	エステル	Estelle	personagem	CRLF x2	申し遅れました。\nわたしは、ガルバンゾ国の王女エステリーゼ。\nエステル、って呼んで下さい		
+mev01_080.scr:4	mev01_080.scr	4	エステル	Estelle	personagem	CRLF x1	ええと、あなたの名は\n○○でしたね		
+mev01_080.scr:5	mev01_080.scr	5	エステル	Estelle	personagem		助けていただいて、ありがとうございます		
+mev01_080.scr:6	mev01_080.scr	6	リタ	Rita Mordio	personagem		あたしは、リタ・モルディオ		
+mev01_080.scr:7	mev01_080.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x1	オレはユーリ・ローウェル。\nガルバンゾ国のギルドの者だ		
+mev01_080.scr:8	mev01_080.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x1	今は、このお姫様に\n旅の護衛として雇われている		
+mev01_080.scr:9	mev01_080.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	あなたの様な大国の王族がなぜ、\nギルドを雇って旅なんてしているの？		
+mev01_080.scr:10	mev01_080.scr	10	エステル	Estelle	personagem	CRLF x1	コンフェイト大森林には、ガルバンゾ国の\n星晶採掘地があるんです		
+mev01_080.scr:11	mev01_080.scr	11	エステル	Estelle	personagem	CRLF x1	現在、ウリズン帝国とその土地をめぐって\n緊張状態なのですが…		
+mev01_080.scr:12	mev01_080.scr	12	エステル	Estelle	personagem	CRLF x2	その採掘地で今、\n変な現象が起こっているという話を\n聞いたんです		
+mev01_080.scr:13	mev01_080.scr	13	アンジュ	Ange Serena	personagem		変な現象？		
+mev01_080.scr:14	mev01_080.scr	14	リタ	Rita Mordio	personagem	CRLF x1	採掘が行われた土地の生物が、\n変化してるって話よ		
+mev01_080.scr:15	mev01_080.scr	15	リタ	Rita Mordio	personagem	CRLF x2	どんな変化が起こってるかってのは、\n明確にわかってるわけじゃないけど\n採掘者の間でそんな話が上がってて		
+mev01_080.scr:16	mev01_080.scr	16	リタ	Rita Mordio	personagem	CRLF x2	それを聞いた学者が「土地にある星晶を\n取り過ぎたせいではないか」って\n仮説を立てて、騒ぎ始めたのよ		
+mev01_080.scr:17	mev01_080.scr	17	リタ	Rita Mordio	personagem	CRLF x2	でも、それに対して国の評議会は何も\n調査をせず、ついには世間を騒がせた罪で\n学者まで逮捕、ってわけ		
+mev01_080.scr:18	mev01_080.scr	18	エステル	Estelle	personagem	CRLF x1	その話を知って、わたし、\n本当の事が知りたくて		
+mev01_080.scr:19	mev01_080.scr	19	エステル	Estelle	personagem	CRLF x1	国が動かないのなら、まず自分で調査を\nしようと国を出たんです		
+mev01_080.scr:20	mev01_080.scr	20	ユーリ	Yuri Lowell	personagem	CRLF x2	そこまでは良かったんだが。\n森で迷うわ、あのサレって奴に\nエステルがさらわれるわでな		
+mev01_080.scr:21	mev01_080.scr	21	アンジュ	Ange Serena	personagem	CRLF x2	サレの所属するウリズン帝国と\nあなたのガルバンゾ国は、今星晶を巡って\n緊張状態にあるものね…		
+mev01_080.scr:22	mev01_080.scr	22	エステル	Estelle	personagem	CRLF x1	コンフェイト大森林の辺りは、様々な国が\n星晶採掘に関わっていますし…		
+mev01_080.scr:23	mev01_080.scr	23	エステル	Estelle	personagem		早く、問題の採掘地へ急がないと…		
+mev01_080.scr:24	mev01_080.scr	24	アンジュ	Ange Serena	personagem	CRLF x1	焦っては、駄目。\nまず、あなた達には休養が必要よ		
+mev01_080.scr:25	mev01_080.scr	25	アンジュ	Ange Serena	personagem	CRLF x1	わたし達も何か手伝えそうだから、\n今はゆっくりくつろいでいて		
+mev01_080.scr:26	mev01_080.scr	26	エステル	Estelle	personagem	CRLF x1	はい。\nそうさせていただきます		
+mev01_090.scr:0	mev01_090.scr	0	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	すまない。\n物資を届けられなくて		
+mev01_090.scr:1	mev01_090.scr	1	クレア	Claire Bennett	personagem	CRLF x1	仕方ないわ。\nサレがいたんでしょう？		
+mev01_090.scr:2	mev01_090.scr	2	クレア	Claire Bennett	personagem	CRLF x1	でも、今後はヘーゼル村へ接触するのは\n難しくなりそうね		
+mev01_090.scr:3	mev01_090.scr	3	ヴェイグ	Veigue Lungberg	personagem		そうだな		
+mev01_090.scr:4	mev01_090.scr	4	クレア	Claire Bennett	personagem	CRLF x2	ごめんなさい。\n村を出なければならなくなったのは\n私がサレに逆らったから…		
+mev01_090.scr:5	mev01_090.scr	5	ヴェイグ	Veigue Lungberg	personagem		あの時、クレアがした事は正しかった		
+mev01_090.scr:6	mev01_090.scr	6	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	奴にいたぶられる村の人を庇った。\nその事を、責める必要は無い		
+mev01_090.scr:7	mev01_090.scr	7	クレア	Claire Bennett	personagem	CRLF x1	ヴェイグも随分無茶をしたわね。\nサレに剣を向けるなんて		
+mev01_090.scr:8	mev01_090.scr	8	ヴェイグ	Veigue Lungberg	personagem		クレアを守りたかった…		
+mev01_090.scr:9	mev01_090.scr	9	クレア	Claire Bennett	personagem	CRLF x1	守ってくれてありがとう、ヴェイグ。\nでも、ヘーゼル村のみんなが心配ね		
+mev01_090.scr:10	mev01_090.scr	10	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	みんな、オレ達をサレから逃がしてくれた。\nでも、逃げずに戦えば…		
+mev01_090.scr:11	mev01_090.scr	11	クレア	Claire Bennett	personagem	CRLF x2	いえ、そんな事は無いわ。\n今はこうして、外から村のみんなを\n助ける事が出来るんだもの		
+mev01_090.scr:12	mev01_090.scr	12	クレア	Claire Bennett	personagem	CRLF x1	いい方に考えましょう。\nまだ、みんなを助ける道はあるはずだから		
+mev01_090.scr:13	mev01_090.scr	13	ヴェイグ	Veigue Lungberg	personagem		ああ…		
+mev01_100.scr:0	mev01_100.scr	0	カイウス	Caius Qualls	personagem	CRLF x1	ガルバンゾ国のお姫様かぁ。\nちょっと話したけど、悪い人じゃなかったな		
+mev01_100.scr:1	mev01_100.scr	1	チャット	Chat	personagem	CRLF x1	エステルさん？\nなぜ、悪い人だと思ったのですか？		
+mev01_100.scr:2	mev01_100.scr	2	カイウス	Caius Qualls	personagem	CRLF x1	オレは生まれ故郷を追い出されたんだ。\n村の人達みんな、ガルバンゾ国から		
+mev01_100.scr:3	mev01_100.scr	3	カイウス	Caius Qualls	personagem	CRLF x1	星晶採掘の為に土地を明け渡せって、\n移住させられたんだ		
+mev01_100.scr:4	mev01_100.scr	4	チャット	Chat	personagem		そうだったんですか		
+mev01_100.scr:5	mev01_100.scr	5	カイウス	Caius Qualls	personagem	CRLF x2	でも、エステルは違う。\nむしろ、人々の為に行動したいと\n言ってる		
+mev01_100.scr:6	mev01_100.scr	6	チャット	Chat	personagem	CRLF x1	大国は往々にして、小さい国や村を\n食いものにするものですから		
+mev01_100.scr:7	mev01_100.scr	7	チャット	Chat	personagem	CRLF x1	偏見を持ってしまうのは、\n仕方ないかもしれないですね		
+mev01_100.scr:8	mev01_100.scr	8	カイウス	Caius Qualls	personagem	CRLF x1	ああ。\nここにいるみんなも、そう思う奴は多かった		
+mev01_100.scr:9	mev01_100.scr	9	カイウス	Caius Qualls	personagem	CRLF x2	大国に食いつぶされて、\n価値が無くなったら\n見捨てられてきたから		
+mev01_100.scr:10	mev01_100.scr	10	カイウス	Caius Qualls	personagem	CRLF x2	でも、見方変わったよ。\n全部の人が、そう悪いヤツじゃ\nないんだな		
+mev01_110.scr:0	mev01_110.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x1	リーダーさんよ、\nちっと頼みがあんだけど		
+mev01_110.scr:1	mev01_110.scr	1	アンジュ	Ange Serena	personagem		何かしら？		
+mev01_110.scr:2	mev01_110.scr	2	ユーリ	Yuri Lowell	personagem		オレもここで雇ってくんねぇか？		
+mev01_110.scr:3	mev01_110.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x2	どうやらオレは、姫様誘拐の疑いで\n指名手配中って事になってて、しばらく\nガルバンゾには戻れなさそうだからな		
+mev01_110.scr:4	mev01_110.scr	4	エステル	Estelle	personagem	CRLF x2	誘拐だなんて、ひどいです…。\nすみません。\nわたしがユーリに依頼したばかりにご迷惑を…		
+mev01_110.scr:5	mev01_110.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x2	気にすんな。\nお偉いさんにゃ、\n真偽なんかどうでもいいんだろ		
+mev01_110.scr:6	mev01_110.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x1	大事なのは、王女が自ら調査に出たってのを\n周囲に隠せるかって事さ		
+mev01_110.scr:7	mev01_110.scr	7	リタ	Rita Mordio	personagem		ねえ、あたしもここで働きたいんだけど		
+mev01_110.scr:8	mev01_110.scr	8	アンジュ	Ange Serena	personagem		あなたも指名手配になっているの？		
+mev01_110.scr:9	mev01_110.scr	9	リタ	Rita Mordio	personagem	CRLF x1	国から兵器開発の協力を要請されてたの。\n戦争が近いからね		
+mev01_110.scr:10	mev01_110.scr	10	リタ	Rita Mordio	personagem	CRLF x2	けど、興味ないし、\n協力する気もないからユーリに付いて\n国を出たのよ		
+mev01_110.scr:11	mev01_110.scr	11	リタ	Rita Mordio	personagem	CRLF x1	あたしはただ、どこかに腰を落ち着けて\n自分の研究課題に取り組めればいいの		
+mev01_110.scr:12	mev01_110.scr	12	リタ	Rita Mordio	personagem	CRLF x1	それとさ、エステルだって\nしばらくここにいた方がいいんじゃない？		
+mev01_110.scr:13	mev01_110.scr	13	リタ	Rita Mordio	personagem	CRLF x1	帰ったら、もう城から出してもらえなく\nなっちゃうかもしれないわよ		
+mev01_110.scr:14	mev01_110.scr	14	ユーリ	Yuri Lowell	personagem		そいつは、エステル自身が決める事だ		
+mev01_110.scr:15	mev01_110.scr	15	エステル	Estelle	personagem		わたしは…		
+mev01_110.scr:16	mev01_110.scr	16	エステル	Estelle	personagem	CRLF x2	わたしも、ここで働きたいです！！\n剣も多少は心得ていますし\nお役に立てると思います		
+mev01_110.scr:17	mev01_110.scr	17	エステル	Estelle	personagem	CRLF x1	採掘場に起こる異常現象の原因を確かめて、\n出来れば自分の力で解決したいから		
+mev01_110.scr:18	mev01_110.scr	18	エステル	Estelle	personagem	CRLF x1	まだ、具体的にどうすればいいか、\n何もわかりませんが…		
+mev01_110.scr:19	mev01_110.scr	19	アンジュ	Ange Serena	personagem	CRLF x1	それについては、\nみんなで協力して取り組みましょう		
+mev01_110.scr:20	mev01_110.scr	20	アンジュ	Ange Serena	personagem	CRLF x1	じゃあ、メンバー登録するから\nちゃんと働いてね		
+mev01_110.scr:21	mev01_110.scr	21	エステル	Estelle	personagem		ありがとうございます！		
+mev01_110.scr:22	mev01_110.scr	22	リタ	Rita Mordio	personagem		んじゃ、早速あたしは研究室を借りるわ		
+mev01_110.scr:23	mev01_110.scr	23	エステル	Estelle	personagem	CRLF x1	わたしは、早速調査の依頼を\n登録したいんですが		
+mev01_110.scr:24	mev01_110.scr	24	アンジュ	Ange Serena	personagem	CRLF x1	コンフェイト大森林の\n星晶採掘地跡へ行きたいのね		
+mev01_110.scr:25	mev01_110.scr	25	アンジュ	Ange Serena	personagem	CRLF x1	じゃあ、登録して同行者を募るから\n待っててちょうだい		
+mev01_110.scr:26	mev01_110.scr	26	(mensagem de sistema)	(mensagem de sistema)	sistema		ユーリがアドリビトムに加入しました		
+mev01_110.scr:27	mev01_110.scr	27	(mensagem de sistema)	(mensagem de sistema)	sistema		エステルがアドリビトムに加入しました		
+mev01_110.scr:28	mev01_110.scr	28	(mensagem de sistema)	(mensagem de sistema)	sistema		リタがアドリビトムに加入しました		

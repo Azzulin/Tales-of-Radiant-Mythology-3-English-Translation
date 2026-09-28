@@ -1,0 +1,169 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev71_010.scr:0	cev71_010.scr	0	ファラ	Farah Oersted	personagem		コハクって、本当に美脚だよね		
+cev71_010.scr:1	cev71_010.scr	1	コハク	Kohaku Hearts	personagem	CRLF x1	え？\nな、何？　いきなり		
+cev71_010.scr:2	cev71_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	そうよ。\nそれに、そのきめ細かな肌。\nどうしたら、そんなに美脚になれるの？		
+cev71_010.scr:3	cev71_010.scr	3	コハク	Kohaku Hearts	personagem	CRLF x2	別に、特別な事は何もしてないよ。\n毎日トレーニングを\n欠かさなかったくらいかな		
+cev71_010.scr:4	cev71_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	それよ！\nどんな事をしてたの？		
+cev71_010.scr:5	cev71_010.scr	5	コハク	Kohaku Hearts	personagem		う〜ん、色々やってたけど		
+cev71_010.scr:6	cev71_010.scr	6	コハク	Kohaku Hearts	personagem	CRLF x2	あっ。\nサンドバッグを蹴るトレーニングだけは\n毎日欠かさずにやってたよ		
+cev71_010.scr:7	cev71_010.scr	7	コハク	Kohaku Hearts	personagem	CRLF x1	でも、音が外に響いて\n前に雪崩が起きちゃって		
+cev71_010.scr:8	cev71_010.scr	8	コハク	Kohaku Hearts	personagem	CRLF x2	その時は、しばらくトレーニングを\n止められちゃったけど、その時以外は\n今もずっと続ける様にしてるよ		
+cev71_010.scr:9	cev71_010.scr	9	ファラ	Farah Oersted	personagem	CRLF x1	サンドバッグを蹴る音で\n雪崩って起きるの……？		
+cev71_010.scr:10	cev71_010.scr	10	アンジュ	Ange Serena	personagem	CRLF x1	だめ。\n次元が違い過ぎてる		
+cev71_010.scr:11	cev71_010.scr	11	コハク	Kohaku Hearts	personagem		？？？		
+cev71_020.scr:0	cev71_020.scr	0	クィッキー	Quickie	personagem		クィック、クィッキ〜〜〜！！		
+cev71_020.scr:1	cev71_020.scr	1	イリア	Iria Animi	personagem		待ちなさい、晩めしっ！		
+cev71_020.scr:2	cev71_020.scr	2	イリア	Iria Animi	personagem	CRLF x1	そんなに怖がらなくたって大丈夫よぉ。\n美・味・し・く・いただいてあげるから∀		
+cev71_020.scr:3	cev71_020.scr	3	クィッキー	Quickie	personagem	CRLF x1	クィ……\nクィ〜〜〜〜〜〜〜……		
+cev71_020.scr:4	cev71_020.scr	4	イリア	Iria Animi	personagem		さあ、観念しなさい！		
+cev71_020.scr:5	cev71_020.scr	5	コハク	Kohaku Hearts	personagem		待って！		
+cev71_020.scr:6	cev71_020.scr	6	コハク	Kohaku Hearts	personagem	CRLF x1	この子、すごく怯えてるよ？\nかわいそうだよ		
+cev71_020.scr:7	cev71_020.scr	7	クィッキー	Quickie	personagem		クィ〜〜……		
+cev71_020.scr:8	cev71_020.scr	8	イリア	Iria Animi	personagem		あぁ〜ら、それは残念		
+cev71_020.scr:9	cev71_020.scr	9	イリア	Iria Animi	personagem	CRLF x2	そのコの肉……ミソ和えにして食べると\n超〜〜〜〜〜〜〜美味だって\n聞いたんだけどなぁ		
+cev71_020.scr:10	cev71_020.scr	10	イリア	Iria Animi	personagem	CRLF x1	食べずに死ねるか！　ってくらいの\n天上級の美味しさなのにぃ……		
+cev71_020.scr:11	cev71_020.scr	11	イリア	Iria Animi	personagem	CRLF x1	あ〜〜残念。\n残念だわぁぁぁ		
+cev71_020.scr:12	cev71_020.scr	12	コハク	Kohaku Hearts	personagem		いい子だね……		
+cev71_020.scr:13	cev71_020.scr	13	コハク	Kohaku Hearts	personagem		ちょっと、こっちにおいで∀		
+cev71_020.scr:14	cev71_020.scr	14	クィッキー	Quickie	personagem		ク、クィッキ〜〜〜〜！！		
+cev71_020.scr:15	cev71_020.scr	15	イリア	Iria Animi	personagem		あっ、逃げやがった！		
+cev71_020.scr:16	cev71_020.scr	16	コハク	Kohaku Hearts	personagem	CRLF x1	そうはいかないよ！\n待ちなさーい！！		
+cev71_030.scr:0	cev71_030.scr	0	ルカ	Ruca Milda	personagem		二人ともひどいよ、もうやめてよ……		
+cev71_030.scr:1	cev71_030.scr	1	イリア	Iria Animi	personagem	CRLF x1	あ〜ら、何言ってらっしゃいますの？\nねえ、スパーダさん？		
+cev71_030.scr:2	cev71_030.scr	2	スパーダ	Spada Belforma	personagem	CRLF x1	そうだよなァ、イリア？\nお楽しみはまだまだ、これからだぜ		
+cev71_030.scr:3	cev71_030.scr	3	ルカ	Ruca Milda	personagem		そんなぁあ〜〜〜		
+cev71_030.scr:4	cev71_030.scr	4	コハク	Kohaku Hearts	personagem		二人とも、何してるの？		
+cev71_030.scr:5	cev71_030.scr	5	コハク	Kohaku Hearts	personagem		まさか、喧嘩……じゃないよね？		
+cev71_030.scr:6	cev71_030.scr	6	コハク	Kohaku Hearts	personagem		友達は大切にしなきゃダメだよ		
+cev71_030.scr:7	cev71_030.scr	7	ルカ	Ruca Milda	personagem		コハク……		
+cev71_030.scr:8	cev71_030.scr	8	イリア	Iria Animi	personagem		べっ、別にそういうワケじゃ……		
+cev71_030.scr:9	cev71_030.scr	9	シング	Shing Meteoryte	personagem	CRLF x1	コハク〜！\nヒスイが探してた……よ！？		
+cev71_030.scr:10	cev71_030.scr	10	コハク	Kohaku Hearts	personagem	CRLF x1	や、やだシング！\nどこ触ってるの！？		
+cev71_030.scr:11	cev71_030.scr	11	シング	Shing Meteoryte	personagem	CRLF x1	転んで、ぶつかった……だけ\nなの、に…………がくっ		
+cev71_030.scr:12	cev71_030.scr	12	スパーダ	Spada Belforma	personagem		おいおい……		
+cev71_030.scr:13	cev71_030.scr	13	ルカ	Ruca Milda	personagem		友達は、大切に……		
+cev71_040.scr:0	cev71_040.scr	0	コハク	Kohaku Hearts	personagem		モグモグモグモグ		
+cev71_040.scr:1	cev71_040.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	コハク？　\n何を食べていますの		
+cev71_040.scr:2	cev71_040.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x1	甘くて香ばしい香りに混じって\n懐かしい匂いがします		
+cev71_040.scr:3	cev71_040.scr	3	コハク	Kohaku Hearts	personagem	CRLF x1	これ？　\nこれはね		
+cev71_040.scr:4	cev71_040.scr	4	コハク	Kohaku Hearts	personagem		ピーチパイのミソ和えだよ♪		
+cev71_040.scr:5	cev71_040.scr	5	コハク	Kohaku Hearts	personagem		二人とも食べる？		
+cev71_040.scr:6	cev71_040.scr	6	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		わ……私は遠慮しておきますわ		
+cev71_040.scr:7	cev71_040.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	あの……コハクはその食べ合わせに\n疑問を感じたりはしませんの？		
+cev71_040.scr:8	cev71_040.scr	8	コハク	Kohaku Hearts	personagem	CRLF x1	疑問？\nううん、とっても美味しいよ！		
+cev71_040.scr:9	cev71_040.scr	9	コハク	Kohaku Hearts	personagem		モグモグモグモグ……		
+cev71_040.scr:10	cev71_040.scr	10	すず	Suzu Fujibayashi	personagem	CRLF x1	甘いものとしょっぱいものを\nあえて同時に食す……		
+cev71_040.scr:11	cev71_040.scr	11	すず	Suzu Fujibayashi	personagem	CRLF x1	間違いありません。\n通の食し方です		
+cev71_040.scr:12	cev71_040.scr	12	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	最近流行ってるらしいですわね。\n塩キャラメルとか、塩バニラとか		
+cev71_040.scr:13	cev71_040.scr	13	コハク	Kohaku Hearts	personagem	CRLF x1	そうみたいだね。\nでもやっぱり、ミソが一番美味しいよ∀		
+cev71_040.scr:14	cev71_040.scr	14	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	コハク……まさに、通の中の通。\n正真正銘のミソミソですわね		
+cev71_050.scr:0	cev71_050.scr	0	メルディ	Meredy	personagem		なぁコハク、メルディが話し方変か？		
+cev71_050.scr:1	cev71_050.scr	1	メルディ	Meredy	personagem	CRLF x1	ルークがな、メルディが事\n変ってからかうよぅ……		
+cev71_050.scr:2	cev71_050.scr	2	コハク	Kohaku Hearts	personagem	CRLF x1	そんな事ないよ。\nとっても可愛いと思うな		
+cev71_050.scr:3	cev71_050.scr	3	メルディ	Meredy	personagem	CRLF x1	ほんとか？　\nほんとそう思うか？		
+cev71_050.scr:4	cev71_050.scr	4	コハク	Kohaku Hearts	personagem	CRLF x1	うん。\nだって……		
+cev71_050.scr:5	cev71_050.scr	5	コハク	Kohaku Hearts	personagem	CRLF x1	おらも普通さ喋ると\nこったら感じだっぺよぉ		
+cev71_050.scr:6	cev71_050.scr	6	コハク	Kohaku Hearts	personagem	CRLF x1	みんなびっくりするけんど\nおんどろくのは最初だけだぁ		
+cev71_050.scr:7	cev71_050.scr	7	コハク	Kohaku Hearts	personagem		おら、どごがおかしいだべか？		
+cev71_050.scr:8	cev71_050.scr	8	メルディ	Meredy	personagem	CRLF x1	ワイール！\nコハクじゃないみたいよー		
+cev71_050.scr:9	cev71_050.scr	9	メルディ	Meredy	personagem	CRLF x1	でも、コハクはコハクよ。\n変なんかじゃないな		
+cev71_050.scr:10	cev71_050.scr	10	コハク	Kohaku Hearts	personagem	CRLF x2	……ね？　\nだから大丈夫だよ。\nメルディも気にする事ない		
+cev71_050.scr:11	cev71_050.scr	11	メルディ	Meredy	personagem		はいな……ちょっと元気出てきた		
+cev71_050.scr:12	cev71_050.scr	12	メルディ	Meredy	personagem	CRLF x1	コトバって面白いんだな。\nありがとな、コハク！		
+cev71_060.scr:0	cev71_060.scr	0	コハク	Kohaku Hearts	personagem	CRLF x2	○○、聞いたよ。\nこれまでの魔物討伐数が\n３００体を超えたって		
+cev71_060.scr:1	cev71_060.scr	1	コハク	Kohaku Hearts	personagem	CRLF x2	○○、\nすっごく頑張ってるねって\nみんなも噂してるよ		
+cev71_060.scr:2	cev71_060.scr	2	アニー	Annie Barrs	personagem	CRLF x2	○○さんは\nどんどん強くなりますね。\n来たばかりの頃とは別人みたい		
+cev71_060.scr:3	cev71_060.scr	3	コハク	Kohaku Hearts	personagem	CRLF x2	うん、わたしもそう思うな。\n気のせいか、雰囲気も少し\n変わった……かも？		
+cev71_060.scr:4	cev71_060.scr	4	アニー	Annie Barrs	personagem	CRLF x2	でも、怪我には気を付けて下さいね。\n何か困った事があったら、\nいつでも医務室に相談に来て下さい		
+cev71_060.scr:5	cev71_060.scr	5	コハク	Kohaku Hearts	personagem		みんなで一緒に、これからも頑張ろうね！		
+cev71_070.scr:0	cev71_070.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	ねえ、コハク！\n食堂のメニュー表、見た？		
+cev71_070.scr:1	cev71_070.scr	1	コハク	Kohaku Hearts	personagem	CRLF x2	もちろん！\nついにメニューの数が\n４０種類になって……		
+cev71_070.scr:2	cev71_070.scr	2	コハク	Kohaku Hearts	personagem	CRLF x1	世界中のレシピを\n見事に集めきったんだよね！！		
+cev71_070.scr:3	cev71_070.scr	3	コーダ	Coda	personagem		コーダ、嬉しいぞ！		
+cev71_070.scr:4	cev71_070.scr	4	コーダ	Coda	personagem	CRLF x2	色んな美味いものが\nここにいるだけで食える。\nとても幸せな事なんだぞ、しかし！		
+cev71_070.scr:5	cev71_070.scr	5	クィッキー	Quickie	personagem		クィッキー！！		
+cev71_070.scr:6	cev71_070.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	まさか本当に集めちゃうなんて……。\n○○も\nみんなも、本当に頑張ったよね		
+cev71_070.scr:7	cev71_070.scr	7	シング	Shing Meteoryte	personagem	CRLF x1	これで、食べたいものを\n毎日選びたい放題だね！		
+cev71_070.scr:8	cev71_070.scr	8	コハク	Kohaku Hearts	personagem	CRLF x1	その為にも、食材の調達は\nマメにしないとね、シング		
+cev71_070.scr:9	cev71_070.scr	9	シング	Shing Meteoryte	personagem	CRLF x1	うん。\nそうだね、コハク！		
+cev71_070.scr:10	cev71_070.scr	10	シング	Shing Meteoryte	personagem	CRLF x1	よし、それじゃ早速\n食料庫の偵察に行ってこよう！		
+cev71_070.scr:11	cev71_070.scr	11	コーダ	Coda	personagem	CRLF x2	コーダにも協力して欲しいか？\n食べる事ならいつでも\n協力は惜しまないぞ、しかし		
+cev71_070.scr:12	cev71_070.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ふふ。\nみんな、嬉しそう……		
+cev71_070.scr:13	cev71_070.scr	13	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	こんなにメニューがあるんだもん、\nみんなの好き嫌いも、こういうのをきっかけに\n少しずつなくなっていけばいいな		
+cev71_070.scr:14	cev71_070.scr	14	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	工夫一つで、素材の美味しさって\n本当に変わってくるものだから……		
+cev71_070.scr:15	cev71_070.scr	15	クィッキー	Quickie	personagem		クィック、クィ、クィッキー！！		
+cev71_070.scr:16	cev71_070.scr	16	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	そうだね、クィッキー。\n色んな事が落ち着いたら……\nみんなでお祝いしようね		
+cev71_070.scr:17	cev71_070.scr	17	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	みんなで集めたレシピのお料理を\nみんなで大きなテーブルに並べて……		
+cev71_070.scr:18	cev71_070.scr	18	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	みんなで、お腹一杯食べるんだ。\nきっと、とっても楽しいと思うな		
+cev71_080.scr:0	cev71_080.scr	0	コハク	Kohaku Hearts	personagem		痛ったたた……		
+cev71_080.scr:1	cev71_080.scr	1	アニー	Annie Barrs	personagem		あともう少し、我慢して下さいね		
+cev71_080.scr:2	cev71_080.scr	2	アニー	Annie Barrs	personagem	CRLF x1	きちんと殺菌消毒をしないと\n傷口が化膿してしまいますから……		
+cev71_080.scr:3	cev71_080.scr	3	コハク	Kohaku Hearts	personagem	CRLF x1	うん、大丈夫。\nわかってるよ		
+cev71_080.scr:4	cev71_080.scr	4	コハク	Kohaku Hearts	personagem	CRLF x2	……何か、ごめんね。\nアニーには、いつも心配させて\n迷惑ばっかりかけちゃってるね……		
+cev71_080.scr:5	cev71_080.scr	5	アニー	Annie Barrs	personagem	CRLF x1	何言ってるんですか。\nそんな事ないですよ		
+cev71_080.scr:6	cev71_080.scr	6	コハク	Kohaku Hearts	personagem		そうかな？		
+cev71_080.scr:7	cev71_080.scr	7	アニー	Annie Barrs	personagem		そうですよ		
+cev71_080.scr:8	cev71_080.scr	8	アニー	Annie Barrs	personagem	CRLF x1	迷惑だと思っていたら、\nもっと染みる消毒液を使っています		
+cev71_080.scr:9	cev71_080.scr	9	コハク	Kohaku Hearts	personagem		えッ！？		
+cev71_080.scr:10	cev71_080.scr	10	アニー	Annie Barrs	personagem	CRLF x1	……なんて。\n冗談です		
+cev71_080.scr:11	cev71_080.scr	11	コハク	Kohaku Hearts	personagem	CRLF x1	今、目が笑ってなかった\n気がするけど……		
+cev71_200.scr:0	cev71_200.scr	0	コハク	Kohaku Hearts	personagem	CRLF x1	通常。\n		
+cev71_200.scr:1	cev71_200.scr	1	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:2	cev71_200.scr	2	コハク	Kohaku Hearts	personagem	CRLF x1	笑い。\n		
+cev71_200.scr:3	cev71_200.scr	3	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:4	cev71_200.scr	4	コハク	Kohaku Hearts	personagem	CRLF x1	怒り。\n		
+cev71_200.scr:5	cev71_200.scr	5	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:6	cev71_200.scr	6	コハク	Kohaku Hearts	personagem	CRLF x1	悲しみ。\n		
+cev71_200.scr:7	cev71_200.scr	7	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:8	cev71_200.scr	8	コハク	Kohaku Hearts	personagem	CRLF x1	照れ。\n		
+cev71_200.scr:9	cev71_200.scr	9	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:10	cev71_200.scr	10	コハク	Kohaku Hearts	personagem	CRLF x1	困惑。\n		
+cev71_200.scr:11	cev71_200.scr	11	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:12	cev71_200.scr	12	コハク	Kohaku Hearts	personagem	CRLF x1	驚き。\n		
+cev71_200.scr:13	cev71_200.scr	13	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:14	cev71_200.scr	14	コハク	Kohaku Hearts	personagem	CRLF x1	呆れ。\n		
+cev71_200.scr:15	cev71_200.scr	15	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:16	cev71_200.scr	16	コハク	Kohaku Hearts	personagem	CRLF x1	疑う。\n		
+cev71_200.scr:17	cev71_200.scr	17	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:18	cev71_200.scr	18	コハク	Kohaku Hearts	personagem	CRLF x1	うっとり。\n		
+cev71_200.scr:19	cev71_200.scr	19	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:20	cev71_200.scr	20	コハク	Kohaku Hearts	personagem	CRLF x1	通常。\n		
+cev71_200.scr:21	cev71_200.scr	21	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:22	cev71_200.scr	22	コハク	Kohaku Hearts	personagem	CRLF x1	笑い。\n		
+cev71_200.scr:23	cev71_200.scr	23	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:24	cev71_200.scr	24	コハク	Kohaku Hearts	personagem	CRLF x1	怒り。\n		
+cev71_200.scr:25	cev71_200.scr	25	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:26	cev71_200.scr	26	コハク	Kohaku Hearts	personagem	CRLF x1	悲しみ。\n		
+cev71_200.scr:27	cev71_200.scr	27	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:28	cev71_200.scr	28	コハク	Kohaku Hearts	personagem	CRLF x1	照れ。\n		
+cev71_200.scr:29	cev71_200.scr	29	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:30	cev71_200.scr	30	コハク	Kohaku Hearts	personagem	CRLF x1	困惑。\n		
+cev71_200.scr:31	cev71_200.scr	31	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:32	cev71_200.scr	32	コハク	Kohaku Hearts	personagem	CRLF x1	驚き。\n		
+cev71_200.scr:33	cev71_200.scr	33	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:34	cev71_200.scr	34	コハク	Kohaku Hearts	personagem	CRLF x1	呆れ。\n		
+cev71_200.scr:35	cev71_200.scr	35	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:36	cev71_200.scr	36	コハク	Kohaku Hearts	personagem	CRLF x1	疑う。\n		
+cev71_200.scr:37	cev71_200.scr	37	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:38	cev71_200.scr	38	コハク	Kohaku Hearts	personagem	CRLF x1	うっとり。\n		
+cev71_200.scr:39	cev71_200.scr	39	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:40	cev71_200.scr	40	コハク	Kohaku Hearts	personagem	CRLF x1	通常。\n		
+cev71_200.scr:41	cev71_200.scr	41	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:42	cev71_200.scr	42	コハク	Kohaku Hearts	personagem	CRLF x1	笑い。\n		
+cev71_200.scr:43	cev71_200.scr	43	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:44	cev71_200.scr	44	コハク	Kohaku Hearts	personagem	CRLF x1	怒り。\n		
+cev71_200.scr:45	cev71_200.scr	45	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:46	cev71_200.scr	46	コハク	Kohaku Hearts	personagem	CRLF x1	悲しみ。\n		
+cev71_200.scr:47	cev71_200.scr	47	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:48	cev71_200.scr	48	コハク	Kohaku Hearts	personagem	CRLF x1	照れ。\n		
+cev71_200.scr:49	cev71_200.scr	49	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:50	cev71_200.scr	50	コハク	Kohaku Hearts	personagem	CRLF x1	困惑。\n		
+cev71_200.scr:51	cev71_200.scr	51	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:52	cev71_200.scr	52	コハク	Kohaku Hearts	personagem	CRLF x1	驚き。\n		
+cev71_200.scr:53	cev71_200.scr	53	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:54	cev71_200.scr	54	コハク	Kohaku Hearts	personagem	CRLF x1	呆れ。\n		
+cev71_200.scr:55	cev71_200.scr	55	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:56	cev71_200.scr	56	コハク	Kohaku Hearts	personagem	CRLF x1	疑う。\n		
+cev71_200.scr:57	cev71_200.scr	57	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev71_200.scr:58	cev71_200.scr	58	コハク	Kohaku Hearts	personagem	CRLF x1	うっとり。\n		
+cev71_200.scr:59	cev71_200.scr	59	コハク	Kohaku Hearts	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

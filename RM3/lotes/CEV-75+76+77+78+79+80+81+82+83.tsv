@@ -1,0 +1,314 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev75_010.scr:0	cev75_010.scr	0	シェリア	Cheria Barnes	personagem	CRLF x1	ねえ、コレット？\nコレットは、天使……なのよね？		
+cev75_010.scr:1	cev75_010.scr	1	シェリア	Cheria Barnes	personagem	CRLF x1	羽があるのに、飛んだりしないで\n私達と同じ様に生活をしているのね		
+cev75_010.scr:2	cev75_010.scr	2	コレット	Colette Brunel	personagem		うん、そだよ		
+cev75_010.scr:3	cev75_010.scr	3	コレット	Colette Brunel	personagem	CRLF x1	飛ぶ事もあるけど……でも\nやっぱり、一緒がいいから		
+cev75_010.scr:4	cev75_010.scr	4	シェリア	Cheria Barnes	personagem		一緒がいい？		
+cev75_010.scr:5	cev75_010.scr	5	シェリア	Cheria Barnes	personagem	CRLF x1	ねえ、その「一緒がいい」相手って\nもしかして男の子？		
+cev75_010.scr:6	cev75_010.scr	6	コレット	Colette Brunel	personagem	CRLF x1	えっ？　\nど、どうして？		
+cev75_010.scr:7	cev75_010.scr	7	シェリア	Cheria Barnes	personagem	CRLF x2	女の勘よ、勘。\nそれで、どうなの？　\n本当のところは？		
+cev75_010.scr:8	cev75_010.scr	8	コレット	Colette Brunel	personagem		う……うん		
+cev75_010.scr:9	cev75_010.scr	9	シェリア	Cheria Barnes	personagem		やっぱり、そうだったのね		
+cev75_010.scr:10	cev75_010.scr	10	シェリア	Cheria Barnes	personagem	CRLF x1	ねえコレット、今度あなたの部屋に\n泊りに行ってもいい？		
+cev75_010.scr:11	cev75_010.scr	11	シェリア	Cheria Barnes	personagem		私、もっとコレットの話を聞きたいな		
+cev75_010.scr:12	cev75_010.scr	12	コレット	Colette Brunel	personagem		うん、いいよ		
+cev75_010.scr:13	cev75_010.scr	13	シェリア	Cheria Barnes	personagem	CRLF x1	良かった。\nじゃあ、約束ね		
+cev75_010.scr:14	cev75_010.scr	14	コレット	Colette Brunel	personagem	CRLF x1	えへへ……。\nうん、約束		
+cev75_010.scr:15	cev75_010.scr	15	コレット	Colette Brunel	personagem	CRLF x1	シェリアの分のお布団、\n用意して待ってるね		
+cev75_010.scr:16	cev75_010.scr	16	シェリア	Cheria Barnes	personagem	CRLF x2	ありがとう。\nじゃあ、私は枕も\n持って行っちゃおうかな		
+cev75_020.scr:0	cev75_020.scr	0	ナナリー	Nanaly Fletch	personagem	CRLF x1	困ったねえ……。\nどんなものがいいだろう		
+cev75_020.scr:1	cev75_020.scr	1	クレア	Claire Bennett	personagem	CRLF x2	そうね。\nすぐ思い浮かぶものは\n大体もう作ってしまったし……		
+cev75_020.scr:2	cev75_020.scr	2	シェリア	Cheria Barnes	personagem		それじゃ、焼き鳥丼なんかはどう？		
+cev75_020.scr:3	cev75_020.scr	3	シェリア	Cheria Barnes	personagem	CRLF x1	スタミナも付くし、タレを工夫すれば\n結構飽きが来ないものよ		
+cev75_020.scr:4	cev75_020.scr	4	ナナリー	Nanaly Fletch	personagem		焼き鳥丼か……		
+cev75_020.scr:5	cev75_020.scr	5	ナナリー	Nanaly Fletch	personagem	CRLF x1	うん。\nいいんじゃないかい？		
+cev75_020.scr:6	cev75_020.scr	6	クレア	Claire Bennett	personagem	CRLF x1	お肉のバリエーションを増やせば\n今後も色んなメニューを楽しめそうね		
+cev75_020.scr:7	cev75_020.scr	7	クレア	Claire Bennett	personagem		私もシェリアさんの案に賛成です		
+cev75_020.scr:8	cev75_020.scr	8	シェリア	Cheria Barnes	personagem	CRLF x2	じゃあ、今晩の献立は\n焼き鳥丼で決まりね。\n問題は材料だけど……		
+cev75_020.scr:9	cev75_020.scr	9	ナナリー	Nanaly Fletch	personagem		それなら心配いらないよ		
+cev75_020.scr:10	cev75_020.scr	10	ナナリー	Nanaly Fletch	personagem	CRLF x2	リッドやカイウス達に頼んで、\n材料をたくさん\n獲ってきてもらえばいいんだ		
+cev75_020.scr:11	cev75_020.scr	11	シェリア	Cheria Barnes	personagem	CRLF x1	みんな、そんな事まで\n協力してくれるの？		
+cev75_020.scr:12	cev75_020.scr	12	クレア	Claire Bennett	personagem	CRLF x1	ええ、そうなの。\n自然と役割分担が出来ていて……		
+cev75_020.scr:13	cev75_020.scr	13	クレア	Claire Bennett	personagem	CRLF x1	こういう時、ここは男性が多いから\n助かっているわ		
+cev75_020.scr:14	cev75_020.scr	14	ナナリー	Nanaly Fletch	personagem	CRLF x2	ああ。\n伊達に食料を\n消費してもらってるわけじゃないよ		
+cev75_020.scr:15	cev75_020.scr	15	ナナリー	Nanaly Fletch	personagem		働かざる者、食うべからずさ		
+cev75_030.scr:0	cev75_030.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	ったく、あの暴力女……。\n今度も思いっきり関節きめやがって……		
+cev75_030.scr:1	cev75_030.scr	1	ロニ	Loni Dunamis	personagem	CRLF x1	ッ！　\n痛っててて……！！		
+cev75_030.scr:2	cev75_030.scr	2	シェリア	Cheria Barnes	personagem		ロニ！		
+cev75_030.scr:3	cev75_030.scr	3	シェリア	Cheria Barnes	personagem	CRLF x1	大丈夫？\n足がふらふらじゃない		
+cev75_030.scr:4	cev75_030.scr	4	ロニ	Loni Dunamis	personagem	CRLF x1	ああ……悪いなシェリア。\n今日のはちっとばかし強烈だったぜ……		
+cev75_030.scr:5	cev75_030.scr	5	ロニ	Loni Dunamis	personagem		イテテテ……		
+cev75_030.scr:6	cev75_030.scr	6	シェリア	Cheria Barnes	personagem		……ねえ、ロニ？		
+cev75_030.scr:7	cev75_030.scr	7	ロニ	Loni Dunamis	personagem		何だ？		
+cev75_030.scr:8	cev75_030.scr	8	シェリア	Cheria Barnes	personagem		ロニはナナリーが好きなの？		
+cev75_030.scr:9	cev75_030.scr	9	ロニ	Loni Dunamis	personagem		ぶほぉっ！？		
+cev75_030.scr:10	cev75_030.scr	10	ロニ	Loni Dunamis	personagem		な、何言って……		
+cev75_030.scr:11	cev75_030.scr	11	シェリア	Cheria Barnes	personagem	CRLF x2	だって、これだけ毎回やられてても\nロニはナナリーの事避けたり\n嫌いになったりしないのよね		
+cev75_030.scr:12	cev75_030.scr	12	シェリア	Cheria Barnes	personagem		それってやっぱり、そこにロマンスが……∀		
+cev75_030.scr:13	cev75_030.scr	13	ロニ	Loni Dunamis	personagem	CRLF x1	ない！　\nそんなものは断じてないぞ！！		
+cev75_030.scr:14	cev75_030.scr	14	シェリア	Cheria Barnes	personagem	CRLF x1	ううん、隠してもだめ。\n私にはわかるんだから！		
+cev75_030.scr:15	cev75_030.scr	15	ロニ	Loni Dunamis	personagem		何がだーー！！		
+cev75_040.scr:0	cev75_040.scr	0	キール	Keele Zeibel	personagem		なるほど……		
+cev75_040.scr:1	cev75_040.scr	1	キール	Keele Zeibel	personagem	CRLF x2	確かに、そういった救護活動の事例は\nオルタ・ビレッジにとっても\n有益な情報になりそうだ		
+cev75_040.scr:2	cev75_040.scr	2	キール	Keele Zeibel	personagem		協力感謝するよ、シェリア		
+cev75_040.scr:3	cev75_040.scr	3	シェリア	Cheria Barnes	personagem	CRLF x1	どういたしまして。\n少しでも役に立てたなら良かったわ		
+cev75_040.scr:4	cev75_040.scr	4	シェリア	Cheria Barnes	personagem	CRLF x2	でも、随分大がかりな事を\nやろうとしているのね。\nキールが一人で取り仕切っているの？		
+cev75_040.scr:5	cev75_040.scr	5	キール	Keele Zeibel	personagem	CRLF x2	いや、一応\nメルディもメンバーなんだが……。\nあいつは色々あってな……		
+cev75_040.scr:6	cev75_040.scr	6	シェリア	Cheria Barnes	personagem		色々って？		
+cev75_040.scr:7	cev75_040.scr	7	キール	Keele Zeibel	personagem	CRLF x2	学習意欲や前向きな気持ちは認めるが、\n成果よりコミュニケーションに\n比重を置き過ぎる		
+cev75_040.scr:8	cev75_040.scr	8	キール	Keele Zeibel	personagem		少しは自分の立場というものを……		
+cev75_040.scr:9	cev75_040.scr	9	シェリア	Cheria Barnes	personagem	CRLF x1	もしかして、\nそれって嫉妬してるっていう事？		
+cev75_040.scr:10	cev75_040.scr	10	キール	Keele Zeibel	personagem	CRLF x1	嫉妬！？\nバカな、そんなわけ……		
+cev75_040.scr:11	cev75_040.scr	11	シェリア	Cheria Barnes	personagem	CRLF x1	でも、他の人と仲良くしてるのが\n気になるんでしょう？		
+cev75_040.scr:12	cev75_040.scr	12	キール	Keele Zeibel	personagem	CRLF x2	違う！　\nただ……その……\n色々込み入った事情があって……！		
+cev75_040.scr:13	cev75_040.scr	13	シェリア	Cheria Barnes	personagem		ええ、そうよね……		
+cev75_040.scr:14	cev75_040.scr	14	シェリア	Cheria Barnes	personagem	CRLF x1	その事情というのを、もう少し詳しく\n聞かせてもらえないかしら？		
+cev75_040.scr:15	cev75_040.scr	15	キール	Keele Zeibel	personagem	CRLF x2	だから……、\nそんなに期待に満ちた目で見ないでくれ！\n誤解なんだ〜〜！！		
+cev75_050.scr:0	cev75_050.scr	0	アスベル	Asbel Lhant	personagem		なぁ、リタ		
+cev75_050.scr:1	cev75_050.scr	1	リタ	Rita Mordio	personagem		……何よ		
+cev75_050.scr:2	cev75_050.scr	2	リタ	Rita Mordio	personagem		忙しいから、後に……		
+cev75_050.scr:3	cev75_050.scr	3	アスベル	Asbel Lhant	personagem	CRLF x1	もしかして、\nフレン隊長の事が嫌いなのか？		
+cev75_050.scr:4	cev75_050.scr	4	アスベル	Asbel Lhant	personagem	CRLF x1	何となく、避けてる様に\n見えるけど……		
+cev75_050.scr:5	cev75_050.scr	5	リタ	Rita Mordio	personagem	CRLF x1	嫌いっていうか……、\n見ててイライラするだけよ		
+cev75_050.scr:6	cev75_050.scr	6	リタ	Rita Mordio	personagem	CRLF x2	頭固いくせして、\nやる事甘いっていうか。\n中途半端なのよね、あいつ		
+cev75_050.scr:7	cev75_050.scr	7	アスベル	Asbel Lhant	personagem	CRLF x2	確かに、融通の利かないところはあるけど\n隊長は筋の通らない事はしない。\nリタの件だってそうだったじゃないか		
+cev75_050.scr:8	cev75_050.scr	8	リタ	Rita Mordio	personagem	CRLF x1	ああ、そうでしょうね。\nお優しい隊長で結構ですこと		
+cev75_050.scr:9	cev75_050.scr	9	アスベル	Asbel Lhant	personagem		わからないなぁ……		
+cev75_050.scr:10	cev75_050.scr	10	シェリア	Cheria Barnes	personagem		アスベル、どうだった？		
+cev75_050.scr:11	cev75_050.scr	11	アスベル	Asbel Lhant	personagem	CRLF x1	だめだよ、シェリア。\nあんまり話したくないみたいだ		
+cev75_050.scr:12	cev75_050.scr	12	アスベル	Asbel Lhant	personagem	CRLF x1	よっぽど隊長と\n相性が悪いのかな……		
+cev75_050.scr:13	cev75_050.scr	13	シェリア	Cheria Barnes	personagem	CRLF x2	そんな事ないわよ。\nそれだけ反応するって事は、\nきっと気がある証拠よ		
+cev75_050.scr:14	cev75_050.scr	14	アスベル	Asbel Lhant	personagem		そうかなぁ……		
+cev75_050.scr:15	cev75_050.scr	15	シェリア	Cheria Barnes	personagem	CRLF x2	そうよ。　意識するから、\n余計に気持ちが落ち着かなくなるの。\n間違いないわ！！		
+cev75_050.scr:16	cev75_050.scr	16	アスベル	Asbel Lhant	personagem	CRLF x1	シェリア……もしかして\n楽しんでないか？		
+cev75_050.scr:17	cev75_050.scr	17	シェリア	Cheria Barnes	personagem		そ、そんな事ないわよ！		
+cev75_050.scr:18	cev75_050.scr	18	シェリア	Cheria Barnes	personagem	CRLF x1	私はただ、同じ仲間なんだし\n仲良くして欲しいだけなんだから		
+cev75_050.scr:19	cev75_050.scr	19	アスベル	Asbel Lhant	personagem		（本当かなぁ……）		
+cev75_060.scr:0	cev75_060.scr	0	ソフィ	Sophie	personagem		ポリポリ……		
+cev75_060.scr:1	cev75_060.scr	1	シェリア	Cheria Barnes	personagem	CRLF x1	ソフィ、あなた\nちゃんとお風呂に入ってる？		
+cev75_060.scr:2	cev75_060.scr	2	ソフィ	Sophie	personagem	CRLF x1	うん……。\n入ってるよ、シェリア		
+cev75_060.scr:3	cev75_060.scr	3	シェリア	Cheria Barnes	personagem	CRLF x1	本当？\n最後に入ったのはいつ？		
+cev75_060.scr:4	cev75_060.scr	4	ソフィ	Sophie	personagem	CRLF x1	……、\n三日前……？		
+cev75_060.scr:5	cev75_060.scr	5	シェリア	Cheria Barnes	personagem	CRLF x1	だめよ！　\nそんな不潔なの！		
+cev75_060.scr:6	cev75_060.scr	6	シェリア	Cheria Barnes	personagem	CRLF x1	私がキレイに洗ってあげる。\nさ、一緒にお風呂行きましょ		
+cev75_060.scr:7	cev75_060.scr	7	ソフィ	Sophie	personagem		うん……		
+cev75_070.scr:0	cev75_070.scr	0	ノーマ	Norma Beatty	personagem	CRLF x1	シェリーってさぁ、\n何かおばさんっぽいよね〜		
+cev75_070.scr:1	cev75_070.scr	1	シェリア	Cheria Barnes	personagem		え！？		
+cev75_070.scr:2	cev75_070.scr	2	シェリア	Cheria Barnes	personagem		……ど……どの辺りが……かしら？		
+cev75_070.scr:3	cev75_070.scr	3	ノーマ	Norma Beatty	personagem	CRLF x2	こないだもさ〜、ソフィたんに\n「風呂入れ〜」とか言ってたじゃん。\nそういうとこ？		
+cev75_070.scr:4	cev75_070.scr	4	シェリア	Cheria Barnes	personagem		それって、何かおかしい事……なの？		
+cev75_070.scr:5	cev75_070.scr	5	ノーマ	Norma Beatty	personagem	CRLF x1	おかしいとかじゃなくて〜。\nこう、生活臭漂ってるって感じ？		
+cev75_070.scr:6	cev75_070.scr	6	ジェイ	Jay	personagem	CRLF x1	まぁ、そういうノーマさんが、\nひどく幼いのは確かですけどね		
+cev75_070.scr:7	cev75_070.scr	7	ノーマ	Norma Beatty	personagem	CRLF x1	なぬ〜！？　\nこんガキ！		
+cev75_070.scr:8	cev75_070.scr	8	ジェイ	Jay	personagem	CRLF x1	そうやってすぐ怒るとこなんて\nまさに、じゃないですか		
+cev75_070.scr:9	cev75_070.scr	9	ノーマ	Norma Beatty	personagem	CRLF x1	あんたが怒らす様な事\n言ってんでしょーがっ！！		
+cev75_070.scr:10	cev75_070.scr	10	シェリア	Cheria Barnes	personagem	CRLF x1	（お、おばさん……。\n　私って、そうなの……？）		
+cev75_080.scr:0	cev75_080.scr	0	クロエ	Chloe Valens	personagem		……時にシェリア、質問があるのだが		
+cev75_080.scr:1	cev75_080.scr	1	シェリア	Cheria Barnes	personagem		何かしら？		
+cev75_080.scr:2	cev75_080.scr	2	クロエ	Chloe Valens	personagem	CRLF x2	その……誤解を招く様な行動を\nしているなら、改めたいんだ。\nだから、教えてくれ		
+cev75_080.scr:3	cev75_080.scr	3	クロエ	Chloe Valens	personagem	CRLF x2	どうして、私がクーリッジに\n特別な感情を持っていると\n誤解が生まれたのだ？		
+cev75_080.scr:4	cev75_080.scr	4	シェリア	Cheria Barnes	personagem	CRLF x2	いいのよ、気にしないで。\nあなたは自然体でいるのが\n一番魅力的なのよ！		
+cev75_080.scr:5	cev75_080.scr	5	シェリア	Cheria Barnes	personagem	CRLF x2	周りの目や意見なんか気にしちゃダメ。\nクロエはクロエらしく、ね。\nファイト！		
+cev75_080.scr:6	cev75_080.scr	6	クロエ	Chloe Valens	personagem	CRLF x1	ま、まあ……自然体では\nいるつもりだが……		
+cev75_080.scr:7	cev75_080.scr	7	シェリア	Cheria Barnes	personagem		だから、そのままでいいのよ		
+cev75_080.scr:8	cev75_080.scr	8	シェリア	Cheria Barnes	personagem	CRLF x2	困った事とか、悩みがあったら、\n今みたいに遠慮しないで、\nいつでも私に相談してね		
+cev75_080.scr:9	cev75_080.scr	9	クロエ	Chloe Valens	personagem	CRLF x1	……？　\nわ、わかった		
+cev75_080.scr:10	cev75_080.scr	10	クロエ	Chloe Valens	personagem	CRLF x2	シェリアは、色々と\n心配してくれているだけなのだな。\nすまない……恩に着る		
+cev75_080.scr:11	cev75_080.scr	11	シェリア	Cheria Barnes	personagem		いいのよ、気にしないで		
+cev75_080.scr:12	cev75_080.scr	12	シェリア	Cheria Barnes	personagem		（うふふ……∀）		
+cev75_090.scr:0	cev75_090.scr	0	シェリア	Cheria Barnes	personagem	CRLF x1	フレンさん……ですよね？\nいつもアスベルがお世話になっています		
+cev75_090.scr:1	cev75_090.scr	1	フレン	Flynn Scifo	personagem	CRLF x2	そんな、とんでもない。\nむしろ彼には、こっちが\n助けられているくらいだよ		
+cev75_090.scr:2	cev75_090.scr	2	シェリア	Cheria Barnes	personagem	CRLF x1	……。\nあの……お聞きしたい事があるんです		
+cev75_090.scr:3	cev75_090.scr	3	シェリア	Cheria Barnes	personagem	CRLF x2	アスベルは……\n騎士として立派に、\n務めを果たせているんでしょうか		
+cev75_090.scr:4	cev75_090.scr	4	フレン	Flynn Scifo	personagem	CRLF x2	もちろん。\nアスベルはとても誠実で、真面目だ。\nそして正義感が強い		
+cev75_090.scr:5	cev75_090.scr	5	フレン	Flynn Scifo	personagem	CRLF x2	そう遠くない未来に、\n騎士団の未来を担う人物に\nなってくれると思っているよ		
+cev75_090.scr:6	cev75_090.scr	6	シェリア	Cheria Barnes	personagem		そうなんですか……		
+cev75_090.scr:7	cev75_090.scr	7	シェリア	Cheria Barnes	personagem	CRLF x2	（アスベル……騎士団でもずっと\n　頑張り続けていたのね……。\n　子どもの頃からの夢、だったものね……）		
+cev75_090.scr:8	cev75_090.scr	8	フレン	Flynn Scifo	personagem	CRLF x1	気になるなら、本人に\n直接聞いてみてはどうだい？		
+cev75_090.scr:9	cev75_090.scr	9	シェリア	Cheria Barnes	personagem	CRLF x1	あ……いえ、いいんです。\nちょっと聞いてみたかっただけですから！		
+cev75_090.scr:10	cev75_090.scr	10	フレン	Flynn Scifo	personagem		？？		
+cev75_100.scr:0	cev75_100.scr	0	マルタ	Marta Lualdi	personagem	CRLF x1	シェリアって、アスベルと\n幼馴染みなんだよね？		
+cev75_100.scr:1	cev75_100.scr	1	シェリア	Cheria Barnes	personagem		そうよ		
+cev75_100.scr:2	cev75_100.scr	2	マルタ	Marta Lualdi	personagem	CRLF x2	いいなぁ、あんなかっこいい\n幼馴染みがいるなんて！\nこれぞ、騎士！　って感じだもんね		
+cev75_100.scr:3	cev75_100.scr	3	マルタ	Marta Lualdi	personagem	CRLF x1	昔からモテるタイプだったんじゃない？\n騎士団にいた頃とか……		
+cev75_100.scr:4	cev75_100.scr	4	シェリア	Cheria Barnes	personagem	CRLF x1	……騎士団にいた頃の事は……\nよく知らないの		
+cev75_100.scr:5	cev75_100.scr	5	マルタ	Marta Lualdi	personagem	CRLF x1	え？　\nそうなの？		
+cev75_100.scr:6	cev75_100.scr	6	シェリア	Cheria Barnes	personagem	CRLF x1	小さい頃、騎士になる！　って言って\n一人で村を飛び出したのよ		
+cev75_100.scr:7	cev75_100.scr	7	シェリア	Cheria Barnes	personagem	CRLF x1	それから、７年間……。\nずっと連絡は取っていなかったから		
+cev75_100.scr:8	cev75_100.scr	8	マルタ	Marta Lualdi	personagem		あ……そう、なんだ		
+cev75_100.scr:9	cev75_100.scr	9	シェリア	Cheria Barnes	personagem	CRLF x2	そんな顔しないで。\n昔の事だもの。\n別に、気にしてないから		
+cev75_100.scr:10	cev75_100.scr	10	シェリア	Cheria Barnes	personagem		……ほんとに、気にしてないから		
+cev75_200.scr:0	cev75_200.scr	0	シェリア	Cheria Barnes	personagem	CRLF x1	通常。\n		
+cev75_200.scr:1	cev75_200.scr	1	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:2	cev75_200.scr	2	シェリア	Cheria Barnes	personagem	CRLF x1	笑い。\n		
+cev75_200.scr:3	cev75_200.scr	3	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:4	cev75_200.scr	4	シェリア	Cheria Barnes	personagem	CRLF x1	怒り。\n		
+cev75_200.scr:5	cev75_200.scr	5	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:6	cev75_200.scr	6	シェリア	Cheria Barnes	personagem	CRLF x1	悲しみ。\n		
+cev75_200.scr:7	cev75_200.scr	7	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:8	cev75_200.scr	8	シェリア	Cheria Barnes	personagem	CRLF x1	真剣。\n		
+cev75_200.scr:9	cev75_200.scr	9	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:10	cev75_200.scr	10	シェリア	Cheria Barnes	personagem	CRLF x1	苦笑。\n		
+cev75_200.scr:11	cev75_200.scr	11	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:12	cev75_200.scr	12	シェリア	Cheria Barnes	personagem	CRLF x1	驚き。\n		
+cev75_200.scr:13	cev75_200.scr	13	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:14	cev75_200.scr	14	シェリア	Cheria Barnes	personagem	CRLF x1	通常。\n		
+cev75_200.scr:15	cev75_200.scr	15	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:16	cev75_200.scr	16	シェリア	Cheria Barnes	personagem	CRLF x1	笑い。\n		
+cev75_200.scr:17	cev75_200.scr	17	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:18	cev75_200.scr	18	シェリア	Cheria Barnes	personagem	CRLF x1	怒り。\n		
+cev75_200.scr:19	cev75_200.scr	19	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:20	cev75_200.scr	20	シェリア	Cheria Barnes	personagem	CRLF x1	悲しみ。\n		
+cev75_200.scr:21	cev75_200.scr	21	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:22	cev75_200.scr	22	シェリア	Cheria Barnes	personagem	CRLF x1	真剣。\n		
+cev75_200.scr:23	cev75_200.scr	23	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:24	cev75_200.scr	24	シェリア	Cheria Barnes	personagem	CRLF x1	苦笑。\n		
+cev75_200.scr:25	cev75_200.scr	25	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:26	cev75_200.scr	26	シェリア	Cheria Barnes	personagem	CRLF x1	驚き。\n		
+cev75_200.scr:27	cev75_200.scr	27	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:28	cev75_200.scr	28	シェリア	Cheria Barnes	personagem	CRLF x1	通常。\n		
+cev75_200.scr:29	cev75_200.scr	29	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:30	cev75_200.scr	30	シェリア	Cheria Barnes	personagem	CRLF x1	笑い。\n		
+cev75_200.scr:31	cev75_200.scr	31	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:32	cev75_200.scr	32	シェリア	Cheria Barnes	personagem	CRLF x1	怒り。\n		
+cev75_200.scr:33	cev75_200.scr	33	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:34	cev75_200.scr	34	シェリア	Cheria Barnes	personagem	CRLF x1	悲しみ。\n		
+cev75_200.scr:35	cev75_200.scr	35	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:36	cev75_200.scr	36	シェリア	Cheria Barnes	personagem	CRLF x1	真剣。\n		
+cev75_200.scr:37	cev75_200.scr	37	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:38	cev75_200.scr	38	シェリア	Cheria Barnes	personagem	CRLF x1	苦笑。\n		
+cev75_200.scr:39	cev75_200.scr	39	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev75_200.scr:40	cev75_200.scr	40	シェリア	Cheria Barnes	personagem	CRLF x1	驚き。\n		
+cev75_200.scr:41	cev75_200.scr	41	シェリア	Cheria Barnes	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev76_200.scr:0	cev76_200.scr	0	ダオス	Dhaos	personagem	CRLF x1	通常。\n		
+cev76_200.scr:1	cev76_200.scr	1	ダオス	Dhaos	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev76_200.scr:2	cev76_200.scr	2	ダオス	Dhaos	personagem	CRLF x1	怒り。\n		
+cev76_200.scr:3	cev76_200.scr	3	ダオス	Dhaos	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev76_200.scr:4	cev76_200.scr	4	ダオス	Dhaos	personagem	CRLF x1	通常。\n		
+cev76_200.scr:5	cev76_200.scr	5	ダオス	Dhaos	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev76_200.scr:6	cev76_200.scr	6	ダオス	Dhaos	personagem	CRLF x1	怒り。\n		
+cev76_200.scr:7	cev76_200.scr	7	ダオス	Dhaos	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev76_200.scr:8	cev76_200.scr	8	ダオス	Dhaos	personagem	CRLF x1	通常。\n		
+cev76_200.scr:9	cev76_200.scr	9	ダオス	Dhaos	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev76_200.scr:10	cev76_200.scr	10	ダオス	Dhaos	personagem	CRLF x1	怒り。\n		
+cev76_200.scr:11	cev76_200.scr	11	ダオス	Dhaos	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev77_200.scr:0	cev77_200.scr	0	バルバトス	Barbatos Goetia	personagem	CRLF x1	通常。\n		
+cev77_200.scr:1	cev77_200.scr	1	バルバトス	Barbatos Goetia	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev77_200.scr:2	cev77_200.scr	2	バルバトス	Barbatos Goetia	personagem	CRLF x1	来いよ！。\n		
+cev77_200.scr:3	cev77_200.scr	3	バルバトス	Barbatos Goetia	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev77_200.scr:4	cev77_200.scr	4	バルバトス	Barbatos Goetia	personagem	CRLF x1	通常。\n		
+cev77_200.scr:5	cev77_200.scr	5	バルバトス	Barbatos Goetia	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev77_200.scr:6	cev77_200.scr	6	バルバトス	Barbatos Goetia	personagem	CRLF x1	来いよ！。\n		
+cev77_200.scr:7	cev77_200.scr	7	バルバトス	Barbatos Goetia	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev77_200.scr:8	cev77_200.scr	8	バルバトス	Barbatos Goetia	personagem	CRLF x1	通常。\n		
+cev77_200.scr:9	cev77_200.scr	9	バルバトス	Barbatos Goetia	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev77_200.scr:10	cev77_200.scr	10	バルバトス	Barbatos Goetia	personagem	CRLF x1	来いよ！。\n		
+cev77_200.scr:11	cev77_200.scr	11	バルバトス	Barbatos Goetia	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev78_200.scr:0	cev78_200.scr	0	ユグドラシル	Yggdrasill	personagem	CRLF x1	通常。\n		
+cev78_200.scr:1	cev78_200.scr	1	ユグドラシル	Yggdrasill	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev78_200.scr:2	cev78_200.scr	2	ユグドラシル	Yggdrasill	personagem	CRLF x1	怒り。\n		
+cev78_200.scr:3	cev78_200.scr	3	ユグドラシル	Yggdrasill	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev78_200.scr:4	cev78_200.scr	4	ユグドラシル	Yggdrasill	personagem	CRLF x1	通常。\n		
+cev78_200.scr:5	cev78_200.scr	5	ユグドラシル	Yggdrasill	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev78_200.scr:6	cev78_200.scr	6	ユグドラシル	Yggdrasill	personagem	CRLF x1	怒り。\n		
+cev78_200.scr:7	cev78_200.scr	7	ユグドラシル	Yggdrasill	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev78_200.scr:8	cev78_200.scr	8	ユグドラシル	Yggdrasill	personagem	CRLF x1	通常。\n		
+cev78_200.scr:9	cev78_200.scr	9	ユグドラシル	Yggdrasill	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev78_200.scr:10	cev78_200.scr	10	ユグドラシル	Yggdrasill	personagem	CRLF x1	怒り。\n		
+cev78_200.scr:11	cev78_200.scr	11	ユグドラシル	Yggdrasill	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev79_200.scr:0	cev79_200.scr	0	サレ	Saleh	personagem	CRLF x1	通常。\n		
+cev79_200.scr:1	cev79_200.scr	1	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev79_200.scr:2	cev79_200.scr	2	サレ	Saleh	personagem	CRLF x1	笑い。\n		
+cev79_200.scr:3	cev79_200.scr	3	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev79_200.scr:4	cev79_200.scr	4	サレ	Saleh	personagem	CRLF x1	怒り。\n		
+cev79_200.scr:5	cev79_200.scr	5	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev79_200.scr:6	cev79_200.scr	6	サレ	Saleh	personagem	CRLF x1	高笑い。\n		
+cev79_200.scr:7	cev79_200.scr	7	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev79_200.scr:8	cev79_200.scr	8	サレ	Saleh	personagem	CRLF x1	通常。\n		
+cev79_200.scr:9	cev79_200.scr	9	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev79_200.scr:10	cev79_200.scr	10	サレ	Saleh	personagem	CRLF x1	笑い。\n		
+cev79_200.scr:11	cev79_200.scr	11	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev79_200.scr:12	cev79_200.scr	12	サレ	Saleh	personagem	CRLF x1	怒り。\n		
+cev79_200.scr:13	cev79_200.scr	13	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev79_200.scr:14	cev79_200.scr	14	サレ	Saleh	personagem	CRLF x1	高笑い。\n		
+cev79_200.scr:15	cev79_200.scr	15	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev79_200.scr:16	cev79_200.scr	16	サレ	Saleh	personagem	CRLF x1	通常。\n		
+cev79_200.scr:17	cev79_200.scr	17	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev79_200.scr:18	cev79_200.scr	18	サレ	Saleh	personagem	CRLF x1	笑い。\n		
+cev79_200.scr:19	cev79_200.scr	19	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev79_200.scr:20	cev79_200.scr	20	サレ	Saleh	personagem	CRLF x1	怒り。\n		
+cev79_200.scr:21	cev79_200.scr	21	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev79_200.scr:22	cev79_200.scr	22	サレ	Saleh	personagem	CRLF x1	高笑い。\n		
+cev79_200.scr:23	cev79_200.scr	23	サレ	Saleh	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev80_200.scr:0	cev80_200.scr	0	ミミー	Mimmy Bread	personagem	CRLF x1	通常。\n		
+cev80_200.scr:1	cev80_200.scr	1	ミミー	Mimmy Bread	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev80_200.scr:2	cev80_200.scr	2	ミミー	Mimmy Bread	personagem	CRLF x1	怒り。\n		
+cev80_200.scr:3	cev80_200.scr	3	ミミー	Mimmy Bread	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev80_200.scr:4	cev80_200.scr	4	ミミー	Mimmy Bread	personagem	CRLF x1	通常。\n		
+cev80_200.scr:5	cev80_200.scr	5	ミミー	Mimmy Bread	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev80_200.scr:6	cev80_200.scr	6	ミミー	Mimmy Bread	personagem	CRLF x1	怒り。\n		
+cev80_200.scr:7	cev80_200.scr	7	ミミー	Mimmy Bread	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev80_200.scr:8	cev80_200.scr	8	ミミー	Mimmy Bread	personagem	CRLF x1	通常。\n		
+cev80_200.scr:9	cev80_200.scr	9	ミミー	Mimmy Bread	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev80_200.scr:10	cev80_200.scr	10	ミミー	Mimmy Bread	personagem	CRLF x1	怒り。\n		
+cev80_200.scr:11	cev80_200.scr	11	ミミー	Mimmy Bread	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:0	cev81_200.scr	0	クィッキー	Quickie	personagem	CRLF x1	通常。\n		
+cev81_200.scr:1	cev81_200.scr	1	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:2	cev81_200.scr	2	クィッキー	Quickie	personagem	CRLF x1	笑い。\n		
+cev81_200.scr:3	cev81_200.scr	3	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:4	cev81_200.scr	4	クィッキー	Quickie	personagem	CRLF x1	怒り。\n		
+cev81_200.scr:5	cev81_200.scr	5	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:6	cev81_200.scr	6	クィッキー	Quickie	personagem	CRLF x1	悲しみ。\n		
+cev81_200.scr:7	cev81_200.scr	7	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:8	cev81_200.scr	8	クィッキー	Quickie	personagem	CRLF x1	きょとん。\n		
+cev81_200.scr:9	cev81_200.scr	9	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:10	cev81_200.scr	10	クィッキー	Quickie	personagem	CRLF x1	驚かせ。\n		
+cev81_200.scr:11	cev81_200.scr	11	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:12	cev81_200.scr	12	クィッキー	Quickie	personagem	CRLF x1	通常。\n		
+cev81_200.scr:13	cev81_200.scr	13	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:14	cev81_200.scr	14	クィッキー	Quickie	personagem	CRLF x1	笑い。\n		
+cev81_200.scr:15	cev81_200.scr	15	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:16	cev81_200.scr	16	クィッキー	Quickie	personagem	CRLF x1	怒り。\n		
+cev81_200.scr:17	cev81_200.scr	17	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:18	cev81_200.scr	18	クィッキー	Quickie	personagem	CRLF x1	悲しみ。\n		
+cev81_200.scr:19	cev81_200.scr	19	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:20	cev81_200.scr	20	クィッキー	Quickie	personagem	CRLF x1	きょとん。\n		
+cev81_200.scr:21	cev81_200.scr	21	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:22	cev81_200.scr	22	クィッキー	Quickie	personagem	CRLF x1	驚かせ。\n		
+cev81_200.scr:23	cev81_200.scr	23	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:24	cev81_200.scr	24	クィッキー	Quickie	personagem	CRLF x1	通常。\n		
+cev81_200.scr:25	cev81_200.scr	25	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:26	cev81_200.scr	26	クィッキー	Quickie	personagem	CRLF x1	笑い。\n		
+cev81_200.scr:27	cev81_200.scr	27	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:28	cev81_200.scr	28	クィッキー	Quickie	personagem	CRLF x1	怒り。\n		
+cev81_200.scr:29	cev81_200.scr	29	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:30	cev81_200.scr	30	クィッキー	Quickie	personagem	CRLF x1	悲しみ。\n		
+cev81_200.scr:31	cev81_200.scr	31	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:32	cev81_200.scr	32	クィッキー	Quickie	personagem	CRLF x1	きょとん。\n		
+cev81_200.scr:33	cev81_200.scr	33	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev81_200.scr:34	cev81_200.scr	34	クィッキー	Quickie	personagem	CRLF x1	驚かせ。\n		
+cev81_200.scr:35	cev81_200.scr	35	クィッキー	Quickie	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev82_200.scr:0	cev82_200.scr	0	キュッポ	Kyuppo	personagem	CRLF x1	通常。\n		
+cev82_200.scr:1	cev82_200.scr	1	キュッポ	Kyuppo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev82_200.scr:2	cev82_200.scr	2	キュッポ	Kyuppo	personagem	CRLF x1	笑い。\n		
+cev82_200.scr:3	cev82_200.scr	3	キュッポ	Kyuppo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev82_200.scr:4	cev82_200.scr	4	キュッポ	Kyuppo	personagem	CRLF x1	通常。\n		
+cev82_200.scr:5	cev82_200.scr	5	キュッポ	Kyuppo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev82_200.scr:6	cev82_200.scr	6	キュッポ	Kyuppo	personagem	CRLF x1	笑い。\n		
+cev82_200.scr:7	cev82_200.scr	7	キュッポ	Kyuppo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev82_200.scr:8	cev82_200.scr	8	キュッポ	Kyuppo	personagem	CRLF x1	通常。\n		
+cev82_200.scr:9	cev82_200.scr	9	キュッポ	Kyuppo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev82_200.scr:10	cev82_200.scr	10	キュッポ	Kyuppo	personagem	CRLF x1	笑い。\n		
+cev82_200.scr:11	cev82_200.scr	11	キュッポ	Kyuppo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev83_200.scr:0	cev83_200.scr	0	ピッポ	Pippo	personagem	CRLF x1	通常。\n		
+cev83_200.scr:1	cev83_200.scr	1	ピッポ	Pippo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev83_200.scr:2	cev83_200.scr	2	ピッポ	Pippo	personagem	CRLF x1	笑い。\n		
+cev83_200.scr:3	cev83_200.scr	3	ピッポ	Pippo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev83_200.scr:4	cev83_200.scr	4	ピッポ	Pippo	personagem	CRLF x1	通常。\n		
+cev83_200.scr:5	cev83_200.scr	5	ピッポ	Pippo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev83_200.scr:6	cev83_200.scr	6	ピッポ	Pippo	personagem	CRLF x1	笑い。\n		
+cev83_200.scr:7	cev83_200.scr	7	ピッポ	Pippo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev83_200.scr:8	cev83_200.scr	8	ピッポ	Pippo	personagem	CRLF x1	通常。\n		
+cev83_200.scr:9	cev83_200.scr	9	ピッポ	Pippo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev83_200.scr:10	cev83_200.scr	10	ピッポ	Pippo	personagem	CRLF x1	笑い。\n		
+cev83_200.scr:11	cev83_200.scr	11	ピッポ	Pippo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

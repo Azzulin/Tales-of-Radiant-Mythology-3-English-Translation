@@ -1,0 +1,264 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev00_180.scr:0	mev00_180.scr	0	カイウス	Caius Qualls	personagem	CRLF x1	オレは、カイウス・クオールズ。\nよろしくな！	I'm Caius Qualls.\nGood to meet ya!	Caius Qualls conforme INDICE_NOMES.
+mev00_180.scr:1	mev00_180.scr	1	ルビア	Rubia Natwick	personagem		あたしは、ルビア・ナトウィック	I'm Rubia Natwick.	Rubia Natwick conforme INDICE_NOMES.
+mev00_180.scr:2	mev00_180.scr	2	ルビア	Rubia Natwick	personagem	CRLF x1	アンジュさんがいた教会で、\n神官の見習いをしてたの	I was an apprentice priestess at\nthe church where Ange served.	Honorifico -san omitido (J2).
+mev00_180.scr:3	mev00_180.scr	3	ルビア	Rubia Natwick	personagem		アンジュさんの後輩、ってところかな	You could say I'm Ange's junior.	
+mev00_180.scr:4	mev00_180.scr	4	カイウス	Caius Qualls	personagem	CRLF x1	アンジュさんが村の教会にいた頃、\nオレ、よく出入りしててさ	Back when Ange was at our church,\nI hung around there a lot.	
+mev00_180.scr:5	mev00_180.scr	5	カイウス	Caius Qualls	personagem	CRLF x2	ギルドを立ち上げるから\n一緒にやらないかって言われて、\nここへ来たんだ	She asked if I'd join her\nin founding a guild,\nso that's why I came!	
+mev00_180.scr:6	mev00_180.scr	6	ルビア	Rubia Natwick	personagem	CRLF x1	あら、カイウスったら、\nアンジュさんに誘われたのはあたしよ？	Hold on, Caius! Ange was the one\nwho invited me, remember?	
+mev00_180.scr:7	mev00_180.scr	7	ルビア	Rubia Natwick	personagem	CRLF x1	あなたは、オレも行くって\n付いて来ただけじゃない	You just tagged along after saying\nyou were coming too!	
+mev00_180.scr:8	mev00_180.scr	8	カイウス	Caius Qualls	personagem	CRLF x2	何だよ、それ！\n大体、お前じゃアンジュさんの足を\n引っ張るだけだろっ	What's that supposed to mean?!\nBesides, you'd only end up\ndragging Ange down!	
+mev00_180.scr:9	mev00_180.scr	9	カイウス	Caius Qualls	personagem	CRLF x2	お前がそうなった時に\n助けてやろうって思って、\n付き合ってやってんじゃないか！	I only came along so I could\nhelp you out when you inevitably\nmess things up!	
+mev00_180.scr:10	mev00_180.scr	10	ルビア	Rubia Natwick	personagem		またやっちゃった…	There we go again...	
+mev00_180.scr:11	mev00_180.scr	11	ルビア	Rubia Natwick	personagem		ごめんなさいね	I'm sorry about that.	
+mev00_180.scr:12	mev00_180.scr	12	ルビア	Rubia Natwick	personagem		あ、ごめんなさい…	Ah, forgive us...	
+mev00_180.scr:13	mev00_180.scr	13	ルビア	Rubia Natwick	personagem	CRLF x2	カイウスとは幼馴染で、\nいっつもこんな調子なの。\nだから、気にしないでね	Caius and I are childhood friends,\nand we're always like this.\nDon't let it bother you!	
+mev00_180.scr:14	mev00_180.scr	14	ルビア	Rubia Natwick	personagem	CRLF x1	それじゃあ、○○。\nこれから、よろしくね	Well then, ○○.\nIt's good to have you with us!	Reproduzido ○○ (nome do jogador) conforme R2/E11.
+mev00_180.scr:15	mev00_180.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		ケンカを止める	Stop the bickering	Opcao de escolha (R8).
+mev00_180.scr:16	mev00_180.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		黙って二人を見ている	Watch the two in silence	Opcao de escolha (R8).
+mev00_190.scr:0	mev00_190.scr	0	イリア	Iria Animi	personagem	CRLF x1	あーん？\nあんた誰？	Huuuh?\nWho're you?	
+mev00_190.scr:1	mev00_190.scr	1	ルカ	Ruca Milda	personagem	CRLF x1	ちょっ、ちょっとイリア。\n今度入ってきた、新しい仲間だよ	W-Wait a second, Iria!\nThis is our newest ally.	
+mev00_190.scr:2	mev00_190.scr	2	イリア	Iria Animi	personagem	CRLF x1	なーんだ、新人なの。\nそんじゃ、ま、自己紹介しないとねー	Oh, just a rookie?\nWell then, gotta introduce myself!	
+mev00_190.scr:3	mev00_190.scr	3	イリア	Iria Animi	personagem	CRLF x2	あたしは、イリア・アニーミ。\n好物は肉。\nよろしく〜	I'm Iria Animi.\nMy favorite thing is meat.\nNice to meetcha!	Iria Animi conforme INDICE_NOMES.
+mev00_190.scr:4	mev00_190.scr	4	ルカ	Ruca Milda	personagem		僕は、ルカ・ミルダ	I'm Ruca Milda.	Ruca Milda conforme INDICE_NOMES.
+mev00_190.scr:5	mev00_190.scr	5	ルカ	Ruca Milda	personagem	CRLF x1	イリアと、それからリーダーのアンジュとは\n同じ故郷なんだ	Iria and I come from the same hometown\nas our leader, Ange.	
+mev00_190.scr:6	mev00_190.scr	6	イリア	Iria Animi	personagem	CRLF x2	あたしはアンジュのギルド発足に\n賛同して付いて来たの。\nウチの故郷の村がまた貧しくってさー！	I agreed with Ange's guild idea\nand came along. You see,\nour home village is dirt poor!	
+mev00_190.scr:7	mev00_190.scr	7	イリア	Iria Animi	personagem	CRLF x2	貧しい上に教育も無い村だから、\n将来あたしが学校を作ろうと思ってね。\nここで、稼がさせてもらってんの	It's poor and has no education,\nso I want to build a school there one day.\nThat's why I'm earning money here!	
+mev00_190.scr:8	mev00_190.scr	8	イリア	Iria Animi	personagem	CRLF x2	あたしのパパ、村長やってんだけど\n村の領主国に綿の単一栽培を\n押し付けられたの	My dad is the village chief, but our lords\nforced monoculture of cotton on the whole\nplace.	cotton conforme INDICE_TERMOS.
+mev00_190.scr:9	mev00_190.scr	9	イリア	Iria Animi	personagem	CRLF x2	領主国はパパが言いなりになるとわかると、\n手のひら返した様な態度になって、\n村はされるがまま！	Once the lords saw Dad would obey,\nthey turned on him and did whatever they\nwanted with the village!	
+mev00_190.scr:10	mev00_190.scr	10	イリア	Iria Animi	personagem	CRLF x1	色々知ってれば、村も守れただろうし。\n教育って必要よね〜	If we'd known better, we could've fought\nback. Education is so important, right?	
+mev00_190.scr:11	mev00_190.scr	11	ルカ	Ruca Milda	personagem	CRLF x1	で、でも村長は\n村のみんなを思って決めたんでしょ？	B-But the chief made that choice\nthinking of everyone in the village...	
+mev00_190.scr:12	mev00_190.scr	12	イリア	Iria Animi	personagem	CRLF x1	わかってる。\n村長なんだから、みんなの為に決断したの	I know that! He made the decision for\neveryone's sake because he's the chief.	
+mev00_190.scr:13	mev00_190.scr	13	イリア	Iria Animi	personagem	CRLF x1	ただ、知らない事が多過ぎて、\n痛い目を見たってだけ	It's just that we didn't know enough,\nand paid a painful price for it.	
+mev00_190.scr:14	mev00_190.scr	14	イリア	Iria Animi	personagem	CRLF x1	あたしはね、\nパパの為にも学校を作りたいの	I want to build that school\nfor my dad's sake too.	
+mev00_190.scr:15	mev00_190.scr	15	ルカ	Ruca Milda	personagem	CRLF x1	その前に、イリアが勉強した方が\nいいんじゃない…	Shouldn't you do some studying first,\nIria...?	
+mev00_190.scr:16	mev00_190.scr	16	イリア	Iria Animi	personagem	CRLF x2	言うわね〜？\nあんたのよーに、村の中でも商家の坊ちゃんで、\n家庭教師が付いてりゃあ、学も身に付くわねぇ	Look who's talking! Born into a merchant\nfamily with private tutors, of course you\ngot an education!	
+mev00_190.scr:17	mev00_190.scr	17	ルカ	Ruca Milda	personagem	CRLF x2	あ、でも、\n僕はその商家を継がされるのが嫌で\n家出してここへ来たんだし…	Ah, but I ran away from home and came here\nbecause I didn't want to take over the\nfamily business...	
+mev00_190.scr:18	mev00_190.scr	18	イリア	Iria Animi	personagem	CRLF x2	わかってるってば。\nあんたはここでお金貯めて、\nあんたがなりたい医者の勉強をして	I know, I know!\nYou're saving up money here\nto study and become a doctor, right?	
+mev00_190.scr:19	mev00_190.scr	19	イリア	Iria Animi	personagem	CRLF x1	村のみんなが待ち望む医者になれば\n親も諦めてくれるわよ	Once you become the doctor everyone needs,\nyour parents will have to accept it.	
+mev00_190.scr:20	mev00_190.scr	20	イリア	Iria Animi	personagem	CRLF x1	ま、こんなわけでガンガン稼ぎたいから\n仕事で組みたい時は呼んでちょうだい	Anyway, I plan to earn tons of cash,\nso call me when you want to team up!	
+mev00_190.scr:21	mev00_190.scr	21	イリア	Iria Animi	personagem		んじゃ、よろしくー♪	Well then, glad to know ya!	Nota musical descartada (R2b).
+mev00_200.scr:0	mev00_200.scr	0	コハク	Kohaku Hearts	personagem	CRLF x1	あっ。\nきみ、新しく入った○○…？	Oh!\nAre you ○○, the new member...?	Reproduzido ○○ conforme R2/E11.
+mev00_200.scr:1	mev00_200.scr	1	コハク	Kohaku Hearts	personagem		話は聞いてたよ	I've heard about you!	
+mev00_200.scr:2	mev00_200.scr	2	シング	Shing Meteoryte	personagem	CRLF x2	初めまして！\nオレは、シング。\nシング・メテオライト	Nice to meet you!\nI'm Shing.\nShing Meteoryte!	Shing Meteoryte conforme INDICE_NOMES.
+mev00_200.scr:3	mev00_200.scr	3	コハク	Kohaku Hearts	personagem	CRLF x1	わたしは、コハク・ハーツ。\nよろしくね	I'm Kohaku Hearts.\nNice to meet you!	Kohaku Hearts conforme INDICE_NOMES.
+mev00_200.scr:4	mev00_200.scr	4	シング	Shing Meteoryte	personagem	CRLF x1	オレ達の故郷は、\nいつもアドリビトムに助けてもらっててさ	Ad Libitum has always helped out\nour hometown, you see.	Ad Libitum conforme INDICE_NOMES.
+mev00_200.scr:5	mev00_200.scr	5	コハク	Kohaku Hearts	personagem	CRLF x2	お礼にわたし達も何か手伝えないかなって\n思って、このギルドに加入させて\nもらったんだよ	We wanted to help out in return,\nso we asked if we could\njoin this guild!	
+mev00_200.scr:6	mev00_200.scr	6	シング	Shing Meteoryte	personagem	CRLF x2	この船に乗った事で、初めて村を出たんだ。\nホント、世界には知らない事ばっかりで\n毎日が驚きだよ	Boarding this ship was my first time ever\nleaving home. The world is full of things\nI never knew! Every day is amazing!	
+mev00_200.scr:7	mev00_200.scr	7	コハク	Kohaku Hearts	personagem	CRLF x2	うん。\nきっと○○も、\nこの仕事が気に入るはずだよ	Yeah.\nI'm sure ○○ will come\nto love this work too!	Reproduzido ○○ conforme R2/E11.
+mev00_200.scr:8	mev00_200.scr	8	コハク	Kohaku Hearts	personagem	CRLF x1	それじゃ、一緒に仕事をする時は\nよろしくね	Well then, let's do our best\nwhenever we work together!	
+mev00_210.scr:0	mev00_210.scr	0	チャット	Chat	personagem		ああ、機械って崇高です…	Ah, machinery is so sublime...	
+mev00_210.scr:1	mev00_210.scr	1	チャット	Chat	personagem	CRLF x1	むっ！？\n誰です、あなたは	Hmph!\nWho are you?	
+mev00_210.scr:2	mev00_210.scr	2	チャット	Chat	personagem	CRLF x1	そうですか。\nそれでは挨拶しなければなりませんね	Is that so?\nThen I must introduce myself.	
+mev00_210.scr:3	mev00_210.scr	3	チャット	Chat	personagem	CRLF x2	ああ、カノンノさんから\n話を聞きました。\n新人さんですね	Ah, I have heard from Kanonno.\nYou are the new recruit,\nare you not?	
+mev00_210.scr:4	mev00_210.scr	4	チャット	Chat	personagem	CRLF x2	ボクは、チャット。\n由緒正しき大海賊アイフリードの子孫。\nこの船、バンエルティア号の船長です	I am Chat, descendant of the renowned\npirate Aifreed, and captain of this ship,\nthe Van Eltia!	Aifreed (termo ausente no indice) e Van Eltia.
+mev00_210.scr:5	mev00_210.scr	5	チャット	Chat	personagem	CRLF x1	アンジュさんはギルド「アドリビトム」の\nリーダー	Ange is the leader of the guild\nAd Libitum.	
+mev00_210.scr:6	mev00_210.scr	6	チャット	Chat	personagem	CRLF x1	ボクはそのアドリビトムの拠点である船、\n「バンエルティア号」の船長です！	And I am the captain of the Van Eltia,\nthe ship that serves as their base!	
+mev00_210.scr:7	mev00_210.scr	7	チャット	Chat	personagem		拠点を提供しているボクの方が偉いんですよ！	I provide the base, so I outrank her!	
+mev00_210.scr:8	mev00_210.scr	8	チャット	Chat	personagem	CRLF x2	ボクのひいおじいさん、アイフリードは、\n貧しき者からは奪わず、むしろ施しの為に\n海賊をやっていました	My great-grandfather, Aifreed, never took\nfrom the poor; he sailed as a pirate\nto bestow charity upon others!	Aifreed historicamente canonico.
+mev00_210.scr:9	mev00_210.scr	9	チャット	Chat	personagem	CRLF x1	ボクは船とその意志を受け継いで、\nギルドの為に船を提供しているのです	I inherited this ship and his will,\nand provide it for the guild's use.	
+mev00_210.scr:10	mev00_210.scr	10	チャット	Chat	personagem	CRLF x2	あなたもこのギルドに所属するという事は、\nアイフリード…そして、ボクの意思に従って\n務めていかなくてはなりません！	Belonging to this guild means\nyou must follow Aifreed's will...\nand my orders!	Aifreed (termo ausente no indice).
+mev00_210.scr:11	mev00_210.scr	11	チャット	Chat	personagem	CRLF x2	それでは、このバンエルティア号の\n船員として相応しくある為に、\n早く一人前になって下さいね	Now then, become a full-fledged sailor\nworthy of the Van Eltia\nas quickly as possible!	Van Eltia conforme INDICE_NOMES.
+mev00_210.scr:12	mev00_210.scr	12	チャット	Chat	personagem		………あ	.........Ah.	
+mev00_210.scr:13	mev00_210.scr	13	チャット	Chat	personagem	CRLF x2	…えっと、やっぱりさっきの\n「ボクの方が偉い」って話、\nアンジュさんには内緒にして下さい…	...Um, that part about me being\nthe one in charge... please keep it\na secret from Ange...	
+mev00_210.scr:14	mev00_210.scr	14	(opcao do jogador)	(opcao do jogador)	escolha		新人として自己紹介をする	Introduce yourself as the new member	Opcao de escolha (R8).
+mev00_210.scr:15	mev00_210.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		記憶喪失の旨を伝える	Explain that you have amnesia	Opcao de escolha (R8).
+mev00_220.scr:0	mev00_220.scr	0	アニー	Annie Barrs	personagem	CRLF x2	こんにちは、初めまして。\nわたしはアニー・バース。\nヘーゼル村の出身です	Hello, nice to meet you.\nI am Annie Barrs,\nfrom Hazel Village.	Annie Barrs e Hazel Village conforme INDICE_NOMES.
+mev00_220.scr:1	mev00_220.scr	1	アニー	Annie Barrs	personagem	CRLF x2	ギルドでは、この医務室を任されています。\nまだ、医者としては不勉強な所もありますが\nどうかよろしくお願いします	I am in charge of this infirmary.\nI still have much to learn as a doctor,\nbut please treat me well.	
+mev00_230.scr:0	mev00_230.scr	0	ウィル	Will Raynard	personagem	CRLF x2	ホールでの話は聞こえていた。\nオレは、ウィル・レイナード。\nよろしく頼む	I heard you out in the hall.\nI'm Will Raynard.\nGood to meet you.	Will Raynard conforme INDICE_NOMES.
+mev00_230.scr:1	mev00_230.scr	1	ウィル	Will Raynard	personagem	CRLF x1	ここへ来る前も、故郷でギルドに所属していた。\n本業は博物学者をやっている	I was in a guild back in my homeland too.\nBy trade, I am a natural historian.	
+mev00_230.scr:2	mev00_230.scr	2	ウィル	Will Raynard	personagem		そういえば、記憶喪失と聞いたが…	By the way, I hear you have amnesia...	
+mev00_230.scr:3	mev00_230.scr	3	ウィル	Will Raynard	personagem	CRLF x1	君は、ここへ来る前に\n世界樹が光るのを見たか？	Did you see the World Tree shining\nbefore you arrived here?	World Tree conforme INDICE_NOMES.
+mev00_230.scr:4	mev00_230.scr	4	ウィル	Will Raynard	personagem	CRLF x2	そうか、見ていないのか。\nオレはちょうど、甲板から見えたのだが…。\n今まで観測された事が無い現象だったからな	I see, so you didn't.\nI saw it from the deck, but...\nit was an unprecedented phenomenon.	
+mev00_230.scr:5	mev00_230.scr	5	ウィル	Will Raynard	personagem	CRLF x2	それについて、\n君が何かを知っていたりするのか\n聞いてみたかっただけだ	I merely wanted to ask\nif you happened to know\nanything about it.	
+mev00_230.scr:6	mev00_230.scr	6	ウィル	Will Raynard	personagem	CRLF x1	記憶喪失の君が知っているはずもないが、\nはるか昔から伝わる「予言」の話だ	Not that someone with amnesia would know,\nbut there is an ancient prophecy.	
+mev00_230.scr:7	mev00_230.scr	7	ウィル	Will Raynard	personagem	CRLF x2	現実的ではないし、\nありえないと考えてはいるのだが、\n記憶が無い、というのが気になってな	It is unrealistic and impossible,\nyet the fact you have no memories\nintrigues me.	
+mev00_230.scr:8	mev00_230.scr	8	ウィル	Will Raynard	personagem	CRLF x1	変な事を聞いてすまなかった。\n君の記憶が早く戻る事を祈る	Forgive me for asking something strange.\nI pray your memories return swiftly.	
+mev00_230.scr:9	mev00_230.scr	9	ウィル	Will Raynard	personagem		では、今後もよろしく頼む	Well, I look forward to working with you.	
+mev00_230.scr:10	mev00_230.scr	10	(opcao do jogador)	(opcao do jogador)	escolha		見ていない、と言う	Say you did not see it	Opcao de escolha (R8).
+mev00_230.scr:11	mev00_230.scr	11	(opcao do jogador)	(opcao do jogador)	escolha		きょとんとする	Stare blankly	Opcao de escolha (R8).
+mev00_240.scr:0	mev00_240.scr	0	クレア	Claire Bennett	personagem	CRLF x2	あたらしい、ギルドの方ですね。\n私は、クレア・ベネット。\n初めまして	You must be the new guild member.\nI am Claire Bennett.\nPleased to meet you.	Claire Bennett conforme INDICE_NOMES.
+mev00_240.scr:1	mev00_240.scr	1	ロックス	Rocks	personagem	CRLF x2	どうも、初めまして。\nロックスプリングスと申します。\nロックス、とお呼び下さい	Greetings, and welcome.\nMy name is Rocksprings.\nPlease, call me Rocks.	Rocks conforme INDICE_NOMES.
+mev00_240.scr:2	mev00_240.scr	2	ロックス	Rocks	personagem	CRLF x2	ご丁寧に、どうも。\n僕はギルドの皆さんの\nお世話をさせて頂いている者です	Thank you for the polite greeting.\nI am the one responsible for looking after\neveryone in the guild.	
+mev00_240.scr:3	mev00_240.scr	3	ロックス	Rocks	personagem	CRLF x1	その、僕は、こちらで、ギルドの皆さんの\nお世話をさせて頂いている者です…	Um, I take care of everyone's needs here\nin the guild...	
+mev00_240.scr:4	mev00_240.scr	4	ロックス	Rocks	personagem	CRLF x2	え、ええっと…、あの…。\n冗談みたいな姿ですけど…、その、\nいじめないで下さい…ね？	Er, well... um...\nI know I look like a bit of a joke,\nbut please don't pick on me, okay?	
+mev00_240.scr:5	mev00_240.scr	5	クレア	Claire Bennett	personagem	CRLF x2	ロックスさんは、家事やギルドの経理なども\n任されている、この船の、いわば\n「コンシェルジュ」なんですよ	Rocks manages our chores and finances.\nHe is, in a sense, our ship's\nconcierge.	
+mev00_240.scr:6	mev00_240.scr	6	ロックス	Rocks	personagem	CRLF x2	この船で皆様が安心してくつろげるよう、\n日々ホスピタリティの向上に努めています。\n何か御用の時は申し付けて下さいね	I strive daily to provide warm hospitality\nso everyone can relax. Please let me know\nif you require anything!	
+mev00_240.scr:7	mev00_240.scr	7	ロックス	Rocks	personagem	CRLF x1	それにしても、また船の中が\nいっそう賑やかになりますね	Even so, things on board will become\nall the more lively now!	
+mev00_240.scr:8	mev00_240.scr	8	クレア	Claire Bennett	personagem	CRLF x1	ええ、食事の時は特に！\n楽しくなると思いますよ	Indeed, especially at mealtimes!\nIt's going to be so much fun.	
+mev00_240.scr:9	mev00_240.scr	9	ロックス	Rocks	personagem	CRLF x2	今日は、○○様が\n新しく入った事ですし。\n腕にヨリをかけて、ご馳走にしましょうか	Since ○○ has joined us today,\nI shall roll up my sleeves\nand prepare a feast!	Reproduzido ○○ conforme R2/E11.
+mev00_240.scr:10	mev00_240.scr	10	クレア	Claire Bennett	personagem	CRLF x1	そうですね。\nそれじゃあ、今日は忙しくなりそうですね	That sounds wonderful!\nIt seems we'll have a busy day ahead.	
+mev00_240.scr:11	mev00_240.scr	11	クレア	Claire Bennett	personagem	CRLF x1	それでは、○○さん。\n今後ともよろしくお願いします	Well then, ○○.\nI look forward to working with you.	Reproduzido ○○ conforme R2/E11.
+mev00_240.scr:12	mev00_240.scr	12	(opcao do jogador)	(opcao do jogador)	escolha		挨拶を返す	Return the greeting	Opcao de escolha (R8).
+mev00_240.scr:13	mev00_240.scr	13	(opcao do jogador)	(opcao do jogador)	escolha		まじまじとロックスを見る	Stare intently at Rocks	Opcao de escolha (R8).
+mev00_250.scr:0	mev00_250.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	みんなへの挨拶は終わったみたいね。\nそれじゃあ、ここでの仕事を説明するよ	Looks like you've finished greeting all\nthe members. Now let me explain the work.	
+mev00_250.scr:1	mev00_250.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	アドリビトムは、どの国にも属さない。\n依頼があれば、どこへでも向かう\n自由のギルド	Ad Libitum belongs to no nation.\nWe are a free guild that answers requests\nwherever they may be.	Ad Libitum conforme INDICE_NOMES.
+mev00_250.scr:2	mev00_250.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	そのギルドに人々から寄せられる依頼を\n「クエスト」と言うんだけど	The requests people send to our guild\nare what we call "Quests."	Quests conforme INDICE_TERMOS.
+mev00_250.scr:3	mev00_250.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	そのクエストは、ここでわたしが\n管理しているから、仕事がしたい時は\n訪ねてね	I manage those quests right here,\nso come visit whenever you'd like to take\non some work.	
+mev00_250.scr:4	mev00_250.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	そうそう、わたしがいるカウンター以外にも、\nメンバーのみんなと話すと、\n直接依頼をしてくる事もあるよ	Oh, and aside from my counter,\nmembers may also ask you for help\ndirectly when you speak with them.	
+mev00_250.scr:5	mev00_250.scr	5	アンジュ	Ange Serena	personagem		その時は聞いてあげてね	Please listen to what they have to say.	
+mev00_250.scr:6	mev00_250.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	でも、そうね…。\n初めてだとわからない事があるだろうし	Still, let's see...\nThere's much you won't know at first.	
+mev00_250.scr:7	mev00_250.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	まずは簡単な仕事を用意するから、\n見習いから始めてもらおっかな	I'll arrange some simple jobs so you can\nstart out as an apprentice.	
+mev00_250.scr:8	mev00_250.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	と言うわけで、\n最初はカノンノを同行者にして\n仕事の仕方を学んでね	So for your first assignments,\nKanonno will accompany you\nso you can learn the ropes.	
+mev00_250.scr:9	mev00_250.scr	9	アンジュ	Ange Serena	personagem		カノンノ、しばらくの間構わない？	Kanonno, could you join them for a while?	
+mev00_250.scr:10	mev00_250.scr	10	カノンノ	Kanonno Grassvalley	personagem		はい！	Not at all!	
+mev00_250.scr:11	mev00_250.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	さてと、早速仕事を用意したから、\nいつ受けてもらっても構わないよ！	All right, I have work ready right away,\nso feel free to accept whenever you like!	
+mev00_260.scr:0	mev00_260.scr	0	ルビア	Rubia Natwick	personagem	CRLF x2	ねえ、○○。\nあなたって、\n空からやって来たって本当？	Hey, ○○.\nIs it true that you really\nfell from the sky?	Reproduzido ○○ conforme R2/E11.
+mev00_260.scr:1	mev00_260.scr	1	ルビア	Rubia Natwick	personagem	CRLF x1	じゃあ、ほんとの事は\nわからないんじゃない	So you don't even know\nthe truth yourself?	
+mev00_260.scr:2	mev00_260.scr	2	ルビア	Rubia Natwick	personagem		知らないって…？	What do you mean, you don't know...?	
+mev00_260.scr:3	mev00_260.scr	3	ルビア	Rubia Natwick	personagem	CRLF x1	それじゃあ、ウソかどうか\n確かめ様が無いじゃない	Then there's no way to tell\nif it's a lie or not!	
+mev00_260.scr:4	mev00_260.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	でも、本当なんだもん。\n光に包まれて、空から降りて来たの	But it's true! They came down from\nthe sky, wrapped in light.	
+mev00_260.scr:5	mev00_260.scr	5	ルビア	Rubia Natwick	personagem		そんな事、簡単には信じられないわ	Something like that is hard to believe.	
+mev00_260.scr:6	mev00_260.scr	6	ミント	Mint Adenade	personagem	CRLF x1	真実であるかどうかは別としても、\n素敵なお話だと思いますよ？	Regardless of whether it is true,\nI think it is a lovely story.	
+mev00_260.scr:7	mev00_260.scr	7	ミント	Mint Adenade	personagem	CRLF x2	世界樹が光を発した日に\n空から降りて来た、なんて…。\nまるで、ディセンダーの様ですね	Coming down from the sky on the day\nthe World Tree shone...\nIt is almost like a Descender.	Descender e World Tree conforme INDICE_NOMES.
+mev00_260.scr:8	mev00_260.scr	8	カノンノ	Kanonno Grassvalley	personagem		ディセンダー？	A Descender?	Descender conforme INDICE_NOMES.
+mev00_260.scr:9	mev00_260.scr	9	ルビア	Rubia Natwick	personagem	CRLF x2	そう。\nあたしやアンジュさんがいた教会には、\n「救世主」の言い伝えがあるの	Yeah.\nThe church where Ange and I served\nhas a legend about a "savior."	
+mev00_260.scr:10	mev00_260.scr	10	ルビア	Rubia Natwick	personagem	CRLF x1	世界に危機が訪れた時、\n世界樹が生み出す存在	A being created by the World Tree\nwhenever crisis befalls the world.	World Tree conforme INDICE_NOMES.
+mev00_260.scr:11	mev00_260.scr	11	ミント	Mint Adenade	personagem		遠い昔から、教会に伝わる「予言」です	It is an ancient prophecy of the church.	
+mev00_260.scr:12	mev00_260.scr	12	ミント	Mint Adenade	personagem	CRLF x1	世界樹から生まれたばかりのディセンダーは\n記憶が無く、世界の事も知らず、	A Descender born from the World Tree\nhas no memories and knows not the world,	World Tree e Descender conforme INDICE_NOMES.
+mev00_260.scr:13	mev00_260.scr	13	ミント	Mint Adenade	personagem	CRLF x1	不可能も恐れも知らない無垢な存在だと\n言います	and is an innocent soul who knows neither\nimpossibility nor fear.	
+mev00_260.scr:14	mev00_260.scr	14	ミント	Mint Adenade	personagem	CRLF x2	そして、人々の為に世界を学び、強くなり、\nゆくゆくは世界を平和に導き…、\nまた世界樹へと還って行くそうです	They learn and grow strong for the people,\nguide the world to peace, and eventually\nreturn to the World Tree.	
+mev00_260.scr:15	mev00_260.scr	15	ミント	Mint Adenade	personagem	CRLF x2	○○さんの\n「記憶が無い」という点は、\nまさにディセンダーの様ですね	○○'s lack of memories\nis just like the Descender\nfrom the prophecies.	Reproduzido ○○ conforme R2/E11.
+mev00_260.scr:16	mev00_260.scr	16	カノンノ	Kanonno Grassvalley	personagem		じゃあ、彼はディセンダー？	Then is he a Descender?	
+mev00_260.scr:17	mev00_260.scr	17	カノンノ	Kanonno Grassvalley	personagem		じゃあ、彼女はディセンダー？	Then is she a Descender?	
+mev00_260.scr:18	mev00_260.scr	18	ウィル	Will Raynard	personagem	CRLF x2	だが、彼がディセンダーか\nどうかの真偽はわからない。\nあくまで予言で伝えられているだけだからな	Still, we cannot know if he is truly\na Descender or not. It is only a tale\nhanded down by prophecy.	
+mev00_260.scr:19	mev00_260.scr	19	ウィル	Will Raynard	personagem	CRLF x2	だが、彼女がディセンダーか\nどうかの真偽はわからない。\nあくまで予言で伝えられているだけだからな	Still, we cannot know if she is truly\na Descender or not. It is only a tale\nhanded down by prophecy.	
+mev00_260.scr:20	mev00_260.scr	20	ウィル	Will Raynard	personagem	CRLF x1	そもそも、その予言自体の真偽すら、\n誰にもわからない	In fact, no one can even confirm the truth\nof the prophecy itself.	
+mev00_260.scr:21	mev00_260.scr	21	ウィル	Will Raynard	personagem		昔の人の創作話という見方が一般的だろう	Most view it as an ancient fabrication.	
+mev00_260.scr:22	mev00_260.scr	22	カノンノ	Kanonno Grassvalley	personagem		そう、ですか…	Is that... so...?	
+mev00_260.scr:23	mev00_260.scr	23	ウィル	Will Raynard	personagem	CRLF x2	いや、かくいうオレも\n世界樹が光ったのを見た時、\n真っ先に予言の話を思い出したからな	Well, when I saw the World Tree light up,\nthe prophecy was the first thing that came\nto mind.	
+mev00_260.scr:24	mev00_260.scr	24	ウィル	Will Raynard	personagem	CRLF x2	しかし…。\n世間ではディセンダーの出現を待つ宗教が\n次々に興っている様だな	Even so... religions awaiting a Descender\nseem to be springing up one after another\nthese days.	
+mev00_260.scr:25	mev00_260.scr	25	ミント	Mint Adenade	personagem	CRLF x1	この様なご時世ですし、\n救いを求める人々が多い証拠ですね	Given the current state of the world,\nit shows how many people seek salvation.	
+mev00_260.scr:26	mev00_260.scr	26	ミント	Mint Adenade	personagem	CRLF x2	各地で争いが絶えませんからね…。\n救いを求める人が増えても、\nおかしくはありません	Conflicts never cease across the land...\nIt is only natural that more people seek\nsalvation.	
+mev00_260.scr:27	mev00_260.scr	27	(opcao do jogador)	(opcao do jogador)	escolha		そういう事だったらしい、と言う	Say that seems to be what happened	Opcao de escolha (R8).
+mev00_260.scr:28	mev00_260.scr	28	(opcao do jogador)	(opcao do jogador)	escolha		自分は知らない、と言う	Say that you do not know	Opcao de escolha (R8).
+mev00_270.scr:0	mev00_270.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ん？　なあに？\n聞きたい事があるって？	Hmm? What is it?\nYou have something you want to ask?	
+mev00_270.scr:1	mev00_270.scr	1	カノンノ	Kanonno Grassvalley	personagem		ミントさんが言ってた話？	About what Mint was saying?	
+mev00_270.scr:2	mev00_270.scr	2	カノンノ	Kanonno Grassvalley	personagem		えっと、今の世界の状況についてだね	Right, about the world's current state.	
+mev00_270.scr:3	mev00_270.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	世界の国々では、\n星晶（ホスチア）を巡って\n国同士の争いが起きてるの	Across the nations of the world,\nconflicts have erupted over\nStar Crystals.	Star Crystals para 星晶（ホスチア）conforme INDICE_NOMES.
+mev00_270.scr:4	mev00_270.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ひょっとして、○○は、\nこの世界についての事まで\n記憶を失ってしまったのかな…	Could it be that ○○ has lost\nall memories about our world,\ntoo...?	Reproduzido ○○ conforme R2/E11.
+mev00_270.scr:5	mev00_270.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	もしかして、\n星晶の事も忘れてしまったのかな…？	Could you have forgotten about\nStar Crystals as well...?	
+mev00_270.scr:6	mev00_270.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	えっと、星晶というのはね、世界中で色んな\nものに使われる、現代のエネルギー資源だよ	Star Crystals are energy resources used\nfor all kinds of things worldwide.	Star Crystals conforme INDICE_NOMES.
+mev00_270.scr:7	mev00_270.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	マナは知ってる？\n世界樹が生み出す生命の源	Do you know about mana?\nThe source of life from the World Tree.	mana e World Tree conforme INDICE_NOMES.
+mev00_270.scr:8	mev00_270.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	マナは、私達生命の源とも言える力なんだけど、\n捉えどころの無い非物質のものだから、\n工業的なエネルギー源としては使えないの	Mana is the very source of our lives,\nbut it's an elusive, non-physical power,\nso it can't be used as industrial energy.	
+mev00_270.scr:9	mev00_270.scr	9	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	でも、星晶は違うの。\n物質で、地下から採掘が出来て、\nエネルギーとして活用消費が出来るのよ	Star Crystals are different. They're\nphysical matter mined from underground,\nused and consumed as energy.	
+mev00_270.scr:10	mev00_270.scr	10	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	星晶も、マナと同じ性質を持っているの。\n世界樹が、長い年月をかけて、マナを結晶化\nさせたものじゃないかって言われてる	They have the same properties as mana.\nThey say the World Tree crystallized mana\nover countless years.	
+mev00_270.scr:11	mev00_270.scr	11	カノンノ	Kanonno Grassvalley	personagem		本当の所は、まだわからないらしいけど	Though nobody knows the full truth yet.	
+mev00_270.scr:12	mev00_270.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	で、さっきも言ったけど\n今はその星晶を巡って国同士の\n争いが起きてる	And like I said earlier,\nnations are fighting over those\nStar Crystals right now.	Star Crystals conforme INDICE_NOMES.
+mev00_270.scr:13	mev00_270.scr	13	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	星晶があるとされる小さな国や村は、\n力のある大国にそれらを搾取されるがまま…	Small lands where they are found\nare exploited by powerful nations...	
+mev00_270.scr:14	mev00_270.scr	14	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	星晶には、土地に恵みを与えるマナを\n出す力があるの	Star Crystals have the power to emit mana,\nblessing the surrounding land.	
+mev00_270.scr:15	mev00_270.scr	15	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	採り尽くされてしまったら、\n土地はみるみる荒れていくわ。\n作物なんか、育たなくなってしまうのよ	If they're mined completely dry,\nthe land quickly withers away, and\ncrops won't even grow anymore.	
+mev00_270.scr:16	mev00_270.scr	16	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	星晶が世界の主要エネルギーに変わってから、\n文明は急成長したと言うわ	Civilization grew rapidly after Star\nCrystals became the world's main energy,	
+mev00_270.scr:17	mev00_270.scr	17	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	でも、多くの国は星晶の採掘権を巡って\n他国との関係は悪化の道をたどるばかり	but many nations fight over mining rights,\nand foreign relations only deteriorate.	
+mev00_270.scr:18	mev00_270.scr	18	カノンノ	Kanonno Grassvalley	personagem		それだけじゃないの	And that's not all.	
+mev00_270.scr:19	mev00_270.scr	19	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	星晶を得て大量消費国となった国は、星晶の\nない他の国や村を植民地化したり、\n労働を強いたりするんだよ	Heavy consumers with Star Crystals\ncolonize countries and villages without\nthem, forcing them into hard labor.	
+mev00_270.scr:20	mev00_270.scr	20	カノンノ	Kanonno Grassvalley	personagem		富める国と貧しい国の差は開く一方なの…	The rich and poor divide only widens...	
+mev00_270.scr:21	mev00_270.scr	21	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	アドリビトムは、これらによって貧富の差が\n拡大した、貧しい土地の出身者ばかりなの	Ad Libitum is made up of people\nfrom those impoverished lands.	Ad Libitum conforme INDICE_NOMES.
+mev00_270.scr:22	mev00_270.scr	22	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	アンジュさんは、みんなの故郷を\n危機的状況から救う為に、\nアドリビトムを立ち上げたのよ	Ange founded Ad Libitum\nto save everyone's hometowns\nfrom this terrible crisis.	Ad Libitum conforme INDICE_NOMES.
+mev00_270.scr:23	mev00_270.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		星晶について詳しく尋ねる	Ask for details about Star Crystals	Opcao de escolha (R8).
+mev00_270.scr:24	mev00_270.scr	24	(opcao do jogador)	(opcao do jogador)	escolha		首をかしげる	Tilt your head in confusion	Opcao de escolha (R8).
+mev00_280.scr:0	mev00_280.scr	0	ロックス	Rocks	personagem	CRLF x1	お帰りなさい。\nお腹が空いたでしょう？	Welcome back.\nYou must be hungry, yes?	
+mev00_280.scr:1	mev00_280.scr	1	ロックス	Rocks	personagem	CRLF x1	食堂へどうぞ。\nシナモンロールが焼けていますよ	Please, head to the dining hall.\nCinnamon rolls are freshly baked!	Cinnamon roll: padrao de comida (J5).
+mev00_280.scr:2	mev00_280.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	どうりでいい匂いがすると思った！\nね、おやつ食べに行こう♪	I knew I smelled something delicious!\nCome on, let's go get a snack!	Nota musical descartada (R2b).
+mev00_290.scr:0	mev00_290.scr	0	ロックス	Rocks	personagem		さあ、どうぞ	Here you are, enjoy!	
+mev00_290.scr:1	mev00_290.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	スゴイいい匂い。\nうん、美味しい	It smells so good!\nMmm, delicious!	
+mev00_290.scr:2	mev00_290.scr	2	ロックス	Rocks	personagem	CRLF x2	お嬢様。\nちゃんと食べる前に「いただきます」を\n言わないといけませんよ	Milady!\nYou must give proper thanks\nbefore you eat, you know.	
+mev00_290.scr:3	mev00_290.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あ……、はい。\nいただきます	Ah... right.\nThank you for the food!	
+mev00_290.scr:4	mev00_290.scr	4	ロックス	Rocks	personagem	CRLF x2	はい。\n食べ物には感謝をしてから\n食べなくては、ですよ	Yes.\nOne must always give thanks\nbefore eating one's food.	
+mev00_290.scr:5	mev00_290.scr	5	クレア	Claire Bennett	personagem		（あぁ……）	(Ah...)	
+mev00_290.scr:6	mev00_290.scr	6	ロックス	Rocks	personagem	CRLF x1	クレア様、どうかしましたか？\n食欲が無い様ですが…	Lady Claire, is something the matter?\nYou seem to have little appetite...	Honorifico -sama adaptado como Lady (J2).
+mev00_290.scr:7	mev00_290.scr	7	クレア	Claire Bennett	personagem	CRLF x1	ごめんなさい。\n故郷のヘーゼル村の事が気になって	I'm sorry. I was just worried about\nmy home, Hazel Village.	Hazel Village conforme INDICE_NOMES.
+mev00_290.scr:8	mev00_290.scr	8	ロックス	Rocks	personagem	CRLF x2	ああ…、でもヴェイグ様が\n頑張ってくれているじゃないですか。\nアドリビトムのみんなも	Ah... But Veigue is doing his best for\nthem, isn't he? And everyone in Ad Libitum\nas well.	Veigue e Ad Libitum conforme INDICE_NOMES.
+mev00_290.scr:9	mev00_290.scr	9	クレア	Claire Bennett	personagem		そうですね	That's true.	
+mev00_290.scr:10	mev00_290.scr	10	ロックス	Rocks	personagem	CRLF x2	ヘーゼル村の方々が、\n無事に暮らしているかどうか\n心配でならないんですよ	She can't help but worry about whether\nthe people of Hazel Village are living\nin safety.	
+mev00_290.scr:11	mev00_290.scr	11	ロックス	Rocks	personagem	CRLF x2	ヘーゼル村の方々が、\n無事に暮らせるよう、\n色々と影から支えているんですよ	She does everything she can from the\nshadows so the people of Hazel Village\ncan live peacefully.	
+mev00_290.scr:12	mev00_290.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ヘーゼル村は今、\nウリズン帝国に占拠されていて…。\n住民は星晶の採掘労働を強いられているの	Hazel Village is currently occupied by the\nUrizen Empire... Its people are forced\ninto Star Crystal mining labor.	Urizen Empire conforme INDICE_NOMES.
+mev00_290.scr:13	mev00_290.scr	13	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	星晶があるとされる小さな国や村が、\n力のある大国から、搾取されるがままに\nなってるって話を前にしたよね	Remember what I said about small\nlands with Star Crystals being\nexploited by major powers?	Star Crystals conforme INDICE_NOMES.
+mev00_290.scr:14	mev00_290.scr	14	カノンノ	Kanonno Grassvalley	personagem		クレアの故郷、ヘーゼル村もそうなの	Claire's home, Hazel Village, is one too.	Hazel Village conforme INDICE_NOMES.
+mev00_290.scr:15	mev00_290.scr	15	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ヘーゼル村の大人達は採掘だけを\n強いられるから、必要な物資や食料を\n自分達で生産する事が出来ないの	The adults of Hazel Village are forced to\nmine, so they can't produce the supplies\nand food they need.	
+mev00_290.scr:16	mev00_290.scr	16	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	だから、ヴェイグさん、クレアやアニーは\nここで物資を集めて送っているのよ	That's why Veigue, Claire, and Annie\ngather supplies here and send them back.	
+mev00_290.scr:17	mev00_290.scr	17	(opcao do jogador)	(opcao do jogador)	escolha		クレアは、故郷の何が気になるのかを聞く	Ask what Claire is worried about	Opcao de escolha (R8).
+mev00_290.scr:18	mev00_290.scr	18	(opcao do jogador)	(opcao do jogador)	escolha		ヴェイグが何をしているのかを聞く	Ask what Veigue is doing	Opcao de escolha (R8).
+mev00_291.scr:0	mev00_291.scr	0	ナナリー	Nanaly Fletch	personagem	CRLF x1	アドリビトムってギルドは、\nここで間違いないかい？	Is this the guild called Ad Libitum,\nright here?	Ad Libitum conforme INDICE_NOMES.
+mev00_291.scr:1	mev00_291.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	はい。\n何か依頼でしょうか？	Yes, it is.\nDo you have a request for us?	
+mev00_291.scr:2	mev00_291.scr	2	ナナリー	Nanaly Fletch	personagem	CRLF x1	先日、ルバーブ連山を村人全員が越えるのに\n協力してもらったペカン村の者さ	We're the folks from Pecan Village\nyou helped cross the Rhubarb Mountains.	Pecan Village (padrao J5, ausente no indice); Rhubarb Mountains conforme INDICE_NOMES.
+mev00_291.scr:3	mev00_291.scr	3	ナナリー	Nanaly Fletch	personagem	CRLF x1	改めて礼を言わせてもらうよ。\nみんなを助けてくれてありがとう	I came to thank you properly.\nThank you for saving everyone.	
+mev00_291.scr:4	mev00_291.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	ああ、ペカン村の方なのね。\nみんな、新天地で落ち着けた？	Ah, you're from Pecan Village!\nHas everyone settled in their new home?	
+mev00_291.scr:5	mev00_291.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あなたと出会った時、\nあの山で私がやってた仕事だよ	That was the job I was doing on the\nmountain when I found you!	
+mev00_291.scr:6	mev00_291.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ペカン村の人が、\n安全に山越え出来る様にしてたの。\nそこの人達だよ	I was making sure the people of Pecan\nVillage could cross safely. They're the\nones!	
+mev00_291.scr:7	mev00_291.scr	7	ハロルド	Harold Berselius	personagem		新しい村の設立は、何とかやってるわ	We're managing our new village somehow.	
+mev00_291.scr:8	mev00_291.scr	8	ハロルド	Harold Berselius	personagem	CRLF x2	元の土地は、ウリズン帝国に星晶を\n採り尽されて、作物も育たないし。\n新しい土地でやっていくしかないもんね	The Urizen Empire mined all our Star\nCrystals dry, so crops won't grow. We had\nno choice but to start over in a new land.	
+mev00_291.scr:9	mev00_291.scr	9	ナナリー	Nanaly Fletch	personagem	CRLF x1	んで、今日は報酬の件で話があってさ。\nその…	We came to talk about your reward...\nThe thing is...	
+mev00_291.scr:10	mev00_291.scr	10	ハロルド	Harold Berselius	personagem	CRLF x1	単刀直入に言っちゃえば、\nお金が無いって事なのよね〜	To put it bluntly,\nwe're completely broke!	
+mev00_291.scr:11	mev00_291.scr	11	ナナリー	Nanaly Fletch	personagem	CRLF x2	村の人々が新しい生活を始める為に、\n色々資金が必要で…、報酬の支払いを\nもう少し待ってもらえないかい？	Our people need funds to start over...\nCould you wait a little longer before we\npay your reward?	
+mev00_291.scr:12	mev00_291.scr	12	ハロルド	Harold Berselius	personagem	CRLF x1	提案なんだけど、あなた、\nこの天才を雇わない？	Here's a proposal: why don't you hire\nthis genius right here?	
+mev00_291.scr:13	mev00_291.scr	13	ハロルド	Harold Berselius	personagem	CRLF x2	ここって設備も良さそうだし！\n私の研究もはかどりそう〜！\n私、役に立つと思うわよ〜♪	Your facilities look great,\nand my research would fly here!\nI'm sure I'd be a huge help!	
+mev00_291.scr:14	mev00_291.scr	14	ハロルド	Harold Berselius	personagem	CRLF x1	で、働いて返しちゃう★\nグフフ、どう？	And we can work off our debt! Hehehe,\nwhat do you say?	Glifo estrela descartado (R2b).
+mev00_291.scr:15	mev00_291.scr	15	ナナリー	Nanaly Fletch	personagem	CRLF x2	待ちなよ。\nそれはあたしも考えたけど、\n村のみんなをほっとくわけにも…	Hold on! I thought about that too, but we\ncan't just abandon everyone in the\nvillage...	
+mev00_291.scr:16	mev00_291.scr	16	アンジュ	Ange Serena	personagem	CRLF x2	大丈夫よ。\nこの船で、すぐに戻る事は出来るから。\nそれに、世界中から物資を集められるし	Don't worry.\nYou can quickly return on this ship, and\nwe can gather supplies from everywhere!	
+mev00_291.scr:17	mev00_291.scr	17	アンジュ	Ange Serena	personagem	CRLF x1	ここのみんなも、そうやってそれぞれの\n故郷を助けているから	Everyone here helps their hometowns the\nvery same way.	
+mev00_291.scr:18	mev00_291.scr	18	アンジュ	Ange Serena	personagem	CRLF x1	あなた達が持つ経験や特技での活躍を\n期待します	We look forward to seeing your skills and\nexperience put to good use!	
+mev00_291.scr:19	mev00_291.scr	19	ハロルド	Harold Berselius	personagem		じゃ、決まり〜！	Then it's settled!	
+mev00_291.scr:20	mev00_291.scr	20	ハロルド	Harold Berselius	personagem	CRLF x1	言ってみるもんねぇ。\nねえ、ナナリー？	Never hurts to ask!\nRight, Nanaly?	
+mev00_291.scr:21	mev00_291.scr	21	ナナリー	Nanaly Fletch	personagem		…ありがとう、リーダーさん	...Thank you, Madam Leader.	Madam Leader para リーダーさん (J2).
+mev00_291.scr:22	mev00_291.scr	22	ナナリー	Nanaly Fletch	personagem	CRLF x2	そういうわけで、\nこれから世話になるよ\nよろしく	With that settled,\nwe'll be in your care from now on.\nLooking forward to it!	
+mev00_291.scr:23	mev00_291.scr	23	ナナリー	Nanaly Fletch	personagem	CRLF x1	あたしは、ナナリー・フレッチ。\n家事と弓の使いならお手の物さ	I'm Nanaly Fletch. Housework and archery\nare my specialties!	Nanaly Fletch conforme INDICE_NOMES.
+mev00_291.scr:24	mev00_291.scr	24	ハロルド	Harold Berselius	personagem	CRLF x2	ハイハイ、ヨロシク〜。\n私は、ハロルド・ベルセリオス。\n大天才科学者よ♪	Yeah, yeah, nice to meetcha!\nI am Harold Berselius, a scientist of\nsupreme genius!	Harold Berselius conforme INDICE_NOMES. Nota musical descartada (R2b).
+mev00_291.scr:25	mev00_291.scr	25	アンジュ	Ange Serena	personagem	CRLF x1	ちょうど良かった！\n人手は、もっと必要だと思ってたの	This worked out wonderfully!\nI was just thinking we needed more hands.	
+mev00_291.scr:26	mev00_291.scr	26	アンジュ	Ange Serena	personagem	CRLF x2	それじゃあ、\nこれから困った人々の為に\nしっかり働いてね	Now then,\nplease work hard for the sake\nof people in need!	
+mev00_291.scr:27	mev00_291.scr	27	(mensagem de sistema)	(mensagem de sistema)	sistema		ナナリーがアドリビトムに加入しました	Nanaly joined Ad Libitum.	Mensagem de sistema (R8).
+mev00_291.scr:28	mev00_291.scr	28	(mensagem de sistema)	(mensagem de sistema)	sistema		ハロルドがアドリビトムに加入しました	Harold joined Ad Libitum.	Mensagem de sistema (R8).
+mev00_292.scr:0	mev00_292.scr	0	ロックス	Rocks	personagem	CRLF x2	お嬢様。\n街でスケッチブックを買っておきましたよ。\nそろそろ無くなる頃でしたよね？	Milady.\nI bought you a sketchbook in town.\nYou were running low, were you not?	
+mev00_292.scr:1	mev00_292.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	うん。\nありがとう、ロックス。\nじゃあ、大事にしまっておかなくちゃ！	Yes!\nThank you, Rocks!\nI'll make sure to treasure it!	
+mev00_292.scr:2	mev00_292.scr	2	ロックス	Rocks	personagem	CRLF x2	はい。\nスケッチブックを買ってあげた時は、\nいつもあの笑顔なんです	Indeed.\nWhenever I buy her a sketchbook,\nshe always wears that wonderful smile.	
+mev00_292.scr:3	mev00_292.scr	3	ロックス	Rocks	personagem	CRLF x1	お嬢様が小さい頃に買ってあげた時と同じ。\n変わらないなぁ…	Just like when I bought them for her as\na child. She never changes...	
+mev00_292.scr:4	mev00_292.scr	4	ロックス	Rocks	personagem	CRLF x2	はい。\n時間がある時はいつも、絵を描いています。\nもう、小さい頃からずっとなんです…	Yes.\nIn her free time, she always draws.\nShe has done so since she was small...	
+mev00_292.scr:5	mev00_292.scr	5	ロックス	Rocks	personagem	CRLF x1	ええ、お嬢様が赤ん坊の時から\n一緒なんです	Indeed, I have been with Milady\never since she was an infant.	
+mev00_292.scr:6	mev00_292.scr	6	ロックス	Rocks	personagem	CRLF x1	色々、事情があって…、お嬢様を引き取り\n育てています	Due to various circumstances...\nI took Milady in and raised her myself.	
+mev00_292.scr:7	mev00_292.scr	7	ロックス	Rocks	personagem	CRLF x2	僕に、親の役が務まっているか、\nそれに、お嬢様をしっかり育てられているか、\n不安ですけど…	I worry if I'm fulfilling a parent's\nrole, or raising Milady properly,\nbut...	
+mev00_292.scr:8	mev00_292.scr	8	ロックス	Rocks	personagem	CRLF x1	でも、お嬢様を素敵なレディに育てて\nあげなくては…	still, I must ensure she grows into\na wonderful lady...	
+mev00_292.scr:9	mev00_292.scr	9	ロックス	Rocks	personagem	CRLF x1	あっ、しまった！！\n絵筆も渡すんだった	Ah, goodness me!\nI forgot to give her the paintbrush!	
+mev00_292.scr:10	mev00_292.scr	10	ロックス	Rocks	personagem	CRLF x2	○○様、すみません。\nお嬢様に絵筆を渡してきてくれませんか？\nいつも、お嬢様は操舵室にいますから	Excuse me, ○○.\nCould you take this paintbrush to Milady?\nShe is usually in the wheelhouse.	Reproduzido ○○ conforme R2/E11.
+mev00_292.scr:11	mev00_292.scr	11	ロックス	Rocks	personagem	CRLF x1	僕は、お鍋を見に行かないといけないので。\nそれじゃあ、お願いしますね	I must go check on the stew pot.\nI shall leave it to you, then!	
+mev00_292.scr:12	mev00_292.scr	12	(opcao do jogador)	(opcao do jogador)	escolha		カノンノが喜んでいた印象を話す	Mention how happy Kanonno looked	Opcao de escolha (R8).
+mev00_292.scr:13	mev00_292.scr	13	(opcao do jogador)	(opcao do jogador)	escolha		カノンノは絵を描くのかと尋ねる	Ask if Kanonno draws pictures	Opcao de escolha (R8).
+mev00_293.scr:0	mev00_293.scr	0	カノンノ	Kanonno Grassvalley	personagem		ん…、誰なの？	Hmm...? Who's there?	
+mev00_293.scr:1	mev00_293.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ああ、○○だったのね。\nどうしたの？	Oh, it's you, ○○.\nWhat's up?	Reproduzido ○○ conforme R2/E11.
+mev00_293.scr:2	mev00_293.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	絵筆を持ってきてくれたの…。\nロックスからだね	You brought me a paintbrush...?\nFrom Rocks, right?	
+mev00_293.scr:3	mev00_293.scr	3	カノンノ	Kanonno Grassvalley	personagem		うん、ありがとう	Yeah, thank you!	
+mev00_293.scr:4	mev00_293.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	絵を？　ロックスに聞いたの？\nあまり上手じゃないよ	My drawings? Rocks told you?\nI'm really not very good, you know.	
+mev00_293.scr:5	mev00_293.scr	5	カノンノ	Kanonno Grassvalley	personagem		でも、見てもらいたいな	Still, I'd love for you to see them.	
+mev00_293.scr:6	mev00_293.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん、好きだよ。\n独学だから、上手じゃないけど	Yeah, I love drawing.\nI'm self-taught, though, so I'm not great.	
+mev00_293.scr:7	mev00_293.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	じゃあ、あなたに\n絵を見てもらおうかなあ。\nいい？	Well then, would you like\nto take a look at my drawings?\nIs that okay?	
+mev00_293.scr:8	mev00_293.scr	8	カノンノ	Kanonno Grassvalley	personagem		こんな風景、見た事ある？	Have you ever seen scenery like this?	
+mev00_293.scr:9	mev00_293.scr	9	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	そっかぁ…。\n記憶の手掛かりになるかと\n思ったんだけど…	I see...\nI thought maybe it could be a clue\nto your memories, but...	
+mev00_293.scr:10	mev00_293.scr	10	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	私もね、この風景を\n実際に見た事無いんだ	I've never actually seen this scenery in\nperson either.	
+mev00_293.scr:11	mev00_293.scr	11	カノンノ	Kanonno Grassvalley	personagem		私も知らない…	I don't know it either...	
+mev00_293.scr:12	mev00_293.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	私はこの風景が、\nどこかにあるんじゃないかなって\n思ってるんだ	I just have this feeling\nthat this place must exist\nout there somewhere.	
+mev00_293.scr:13	mev00_293.scr	13	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	スケッチブックの白い紙を見てるとね、\nたまに見えてくるんだ。\n色んな風景が	When I look at the white paper of my\nsketchbook, scenes sometimes appear to me.\nAll kinds of scenery.	
+mev00_293.scr:14	mev00_293.scr	14	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	その見えた風景を筆でなぞって、\n出来たのがこれらの絵なの	I trace those visions with my brush,\nand that's how these pictures were made.	
+mev00_293.scr:15	mev00_293.scr	15	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	どうしてだかはわからない。\nでも、見えるんだ	I don't know why,\nbut I can see them.	
+mev00_293.scr:16	mev00_293.scr	16	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	他の人にも見せたけど、\n誰もこの風景を知らない	I've shown them to others, but nobody\nrecognizes the scenery.	
+mev00_293.scr:17	mev00_293.scr	17	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	それに、作り話でしょって、\n笑われちゃうの	People just laugh and say\nI made them up.	
+mev00_293.scr:18	mev00_293.scr	18	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん。\n…あり、がとう	Yeah.\n...Thank you.	
+mev00_293.scr:19	mev00_293.scr	19	カノンノ	Kanonno Grassvalley	personagem		うん、事実なんだもん	Yeah, it's the truth, after all.	
+mev00_293.scr:20	mev00_293.scr	20	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	…………。\n○○は、\n信じてくれるんだね	......\nSo ○○ believes me,\nafter all.	Reproduzido ○○ conforme R2/E11.
+mev00_293.scr:21	mev00_293.scr	21	カノンノ	Kanonno Grassvalley	personagem		あり、がとう…	Thank you...	
+mev00_293.scr:22	mev00_293.scr	22	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	この船でさ、色んな所を旅して、\nこれらの風景に出会えたら…	If we journey to many places on this ship\nand find these landscapes...	
+mev00_293.scr:23	mev00_293.scr	23	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	もし出会えたら、\nどうして私に知らない風景が見えるのか、\nその理由がわかるかもしれない…	If we find them,\nmaybe I'll learn why I can see places\nI have never visited before...	
+mev00_293.scr:24	mev00_293.scr	24	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	それにね、「知らなきゃいけない」って\n思いもあるんだ。\n…見えた風景は、綺麗なものだけじゃないの	Besides, I feel like I have to know.\n...The visions I saw\nweren't all pretty.	
+mev00_293.scr:25	mev00_293.scr	25	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	恐い、この世の終わりみたいな\n風景も見えたから…	I've seen terrifying scenery, too...\nLike the end of the world...	
+mev00_293.scr:26	mev00_293.scr	26	(opcao do jogador)	(opcao do jogador)	escolha		描いてる絵を見せて、と言う	Ask to see the pictures she is drawing	Opcao de escolha (R8).
+mev00_293.scr:27	mev00_293.scr	27	(opcao do jogador)	(opcao do jogador)	escolha		絵を描くのは好きか、と聞く	Ask if she likes drawing pictures	Opcao de escolha (R8).
+mev00_293.scr:28	mev00_293.scr	28	(opcao do jogador)	(opcao do jogador)	escolha		ないと答える	Answer that you have not	Opcao de escolha (R8).
+mev00_293.scr:29	mev00_293.scr	29	(opcao do jogador)	(opcao do jogador)	escolha		どこの風景かを尋ねる	Ask what place this scenery depicts	Opcao de escolha (R8).
+mev00_293.scr:30	mev00_293.scr	30	(opcao do jogador)	(opcao do jogador)	escolha		カノンノの話を信じる	Believe what Kanonno says	Opcao de escolha (R8).
+mev00_293.scr:31	mev00_293.scr	31	(opcao do jogador)	(opcao do jogador)	escolha		事実なんだからしょうがない、と言う	Say it cannot be helped since it is true	Opcao de escolha (R8).
+mev00_294.scr:0	mev00_294.scr	0	クレア	Claire Bennett	personagem		いつもの依頼をお願いします	I would like to submit the usual request.	
+mev00_294.scr:1	mev00_294.scr	1	クレア	Claire Bennett	personagem	CRLF x1	故郷のヘーゼル村に、\n物資を届けてもらいたいんです…	We need supplies delivered to my home,\nHazel Village...	Hazel Village conforme INDICE_NOMES.
+mev00_294.scr:2	mev00_294.scr	2	クレア	Claire Bennett	personagem	CRLF x1	ヴェイグと一緒に行ってくれる人は\nいませんか？	Is there anyone who could go together\nwith Veigue?	
+mev00_294.scr:3	mev00_294.scr	3	アンジュ	Ange Serena	personagem		大丈夫よ、みんな協力してくれるわ	Don't worry, everyone will lend a hand.	
+mev00_294.scr:4	mev00_294.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	それより、そろそろ風邪が流行る時期\nじゃない？\nヘーゼル村の人達が心配ね	More importantly, isn't it around the time\ncolds start spreading?\nI worry for the people of Hazel Village.	
+mev00_294.scr:5	mev00_294.scr	5	クレア	Claire Bennett	personagem	CRLF x1	ええ、だから今回は薬を\n一杯届けてもらうつもりなんです	Yes, that's why I plan to have lots of\nmedicine sent this time.	
+mev00_294.scr:6	mev00_294.scr	6	アンジュ	Ange Serena	personagem		その依頼は受け付けておくね	I will accept the request for you.	
+mev00_294.scr:7	mev00_294.scr	7	クレア	Claire Bennett	personagem	CRLF x1	はい。\nいつも、ありがとうございます	Yes.\nAs always, thank you so very much.	

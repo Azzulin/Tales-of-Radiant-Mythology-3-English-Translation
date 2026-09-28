@@ -1,0 +1,61 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+tev05_001.scr:0	tev05_001.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	さあ、いよいよ最後の入隊試験ね。\nまずは説明をよく聞いてちょうだい	This is it, the last enrollment test.\nFirst, listen carefully to the explanation	
+tev05_001.scr:1	tev05_001.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	今回行ってもらうのは、ルバーブ連山。\nそこにいる「ガルーダ」を\n倒してきてもらいます	This time you'll go to Rhubarb Mountains.\nI need you to defeat\nthe "Garuda" there	
+tev05_001.scr:2	tev05_001.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	これが終われば、\nあなたは正式なアドリビトムの一員よ	Once this is done,\nyou'll be a full member of Ad Libitum	
+tev05_001.scr:3	tev05_001.scr	3	アンジュ	Ange Serena	personagem		それじゃ、頑張ってきてね！	Now then, go do your best!	
+tev05_002.scr:0	tev05_002.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	ルバーブ連山へ行ってらっしゃい。\n無事に入隊試験をクリア出来る様に\nここで祈っててあげる♪	Off you go to Rhubarb Mountains.\nI'll be praying here\nthat you clear the test safely!	
+tev05_003.scr:0	tev05_003.scr	0	カノンノ	Kanonno Grassvalley	personagem		準備は出来たかな？	Are you ready?	
+tev05_003.scr:1	tev05_003.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	準備が済んだら、船を出よう。\n行き先は、ルバーブ連山だよ	Once you're ready, let's set sail.\nOur destination is Rhubarb Mountains	
+tev05_004.scr:0	tev05_004.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	違うよ、○○。\n今回の行き先は、ルバーブ連山だよ	That's wrong, ○○.\nThis time, it's Rhubarb Mountains	
+tev05_005.scr:0	tev05_005.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	今回の目的は、ここルバーブ連山で\nガルーダを探して、\n退治する事なんだけど…	This time's goal is to find\nand defeat the Garuda\nhere in Rhubarb Mountains...	
+tev05_005.scr:1	tev05_005.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	そうだなぁ。\nガルーダに会うには、\nちょっと奥へ進まないといけないかな	Let's see.\nTo find the Garuda,\nwe'll need to go a bit further in	
+tev05_005.scr:2	tev05_005.scr	2	カノンノ	Kanonno Grassvalley	personagem		じゃあ、気を付けて進もう！	Alright, let's proceed carefully!	
+tev05_006.scr:0	tev05_006.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ああ、そうだ。\n冒険者には必須の知恵、\n「生産」について教えてあげるね	Oh, that's right.\nLet me teach you about "Craft,"\nessential knowledge for any adventurer	
+tev05_006.scr:1	tev05_006.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	「生産」を行うと、「料理」「グミ」\n「ボトル」といった便利アイテムを、\n自分で作る事が出来るの	With "Craft," you can make\nhandy items yourself, like\n"Cooking," "Gel," and "Bottle"	
+tev05_006.scr:2	tev05_006.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	「生産」を行うには、生産したいモノの\n「レシピ」を持っていること。\n次に、必要な材料を持っていること	To "Craft," you need the "Recipe"\nfor the thing you want to make.\nNext, you need the required materials	
+tev05_006.scr:3	tev05_006.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	これらの条件がそろっていたら、\nメニューの生産から、\n作りたいモノを選択すればいいの	Once you meet those conditions,\njust select what you want to make\nfrom Craft in the menu	
+tev05_006.scr:4	tev05_006.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	レシピは宝箱なんかで手に入る事もあるし、\n色々生産を楽しんでみるといいと思うよ	You can get recipes from treasure\nchests too, so enjoy crafting around	
+tev05_006.scr:5	tev05_006.scr	5	(mensagem de sistema)	(mensagem de sistema)	sistema		メニューの「生産」が使用可能になりました	"Craft" is now available in the menu	
+tev05_006.scr:6	tev05_006.scr	6	(mensagem de sistema)	(mensagem de sistema)	sistema		各種レシピを受け取りました	You received various recipes	
+tev05_006.scr:7	tev05_006.scr	7	(mensagem de sistema)	(mensagem de sistema)	sistema		各種素材を受け取りました	You received various materials	
+tev05_007.scr:0	tev05_007.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	○○、\nガルーダだよ！！	○○,\nit's the Garuda!!	
+tev05_007.scr:1	tev05_007.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	この魔物を退治したら、\n入隊試験は合格だよ。\n準備はいい？	Defeat this monster,\nand you'll pass the test.\nReady?	
+tev05_007.scr:2	tev05_007.scr	2	カノンノ	Kanonno Grassvalley	personagem		行くよっ！	Let's go!	
+tev05_008.scr:0	tev05_008.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ん…、クエスト達成！\n入隊試験、合格した事を見届けました。\nおめでとう、○○	Mm... Quest complete!\nI've witnessed you pass the test.\nCongratulations, ○○	
+tev05_008.scr:1	tev05_008.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	さあ。\n戻って、この事をアンジュさんに\n報告しないとね！	Now.\nLet's head back and\nreport this to Ange!	
+tev05_009.scr:0	tev05_009.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	入隊試験を済ませた事、\nアンジュさんに早く報告しなきゃね！	We need to hurry and tell Ange\nwe finished the enrollment test!	
+tev05_010.scr:0	tev05_010.scr	0	アンジュ	Ange Serena	personagem		無事、入隊試験をクリアしてきた様ね	Looks like you cleared the test safely	
+tev05_010.scr:1	tev05_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	おめでとう。\nこれで、あなたも正式なアドリビトムの一員よ	Congratulations.\nYou're now a full member of Ad Libitum	
+tev05_010.scr:2	tev05_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	さて、あなたには今後ギルドの仕事が円滑に\n進められるよう、ここクエストカウンタの\n機能を教えます	Now, so your guild work goes smoothly\nfrom here on, let me teach you the\nfunctions of the Quest Counter	
+tev05_010.scr:3	tev05_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	まず、「クエストを受ける」ね。\nこれはクエストを受ける時に利用するの	First, "Accept Quest."\nUse this when you want to accept a quest	
+tev05_010.scr:4	tev05_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	それから、「クエストを破棄する」は、受けた\nクエストをキャンセルしたい時に利用するのよ	Next, "Abandon Quest" is what you use\nwhen you want to cancel an accepted quest	
+tev05_010.scr:5	tev05_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	それと、あなた自身の職業を変えたい時は\n「転職」を選んでね。\n手続きはわたしがするから	And if you ever want to change your job,\npick "Change Class."\nI'll take care of the paperwork	
+tev05_010.scr:6	tev05_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	それから、あなたは正式メンバーとして\n働くのだから、このギルドのメンバーと\n自由にパーティを組んでいいのよ	Also, since you're now a full member\nworking here, feel free to team up\nwith any guild member for a party	
+tev05_010.scr:7	tev05_010.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	誰かとパーティを組みたい時は、\nここに来て「パーティ編成」を申請してね	If you want to team up with someone,\ncome here and request "Party Formation"	
+tev05_010.scr:8	tev05_010.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	解散したい時は、「パーティ解散」で\n申請するのよ	If you want to disband,\nrequest it with "Disband Party"	
+tev05_010.scr:9	tev05_010.scr	9	アンジュ	Ange Serena	personagem		それじゃ、これからも頑張っていってね！	Now then, keep doing your best from here!	
+tev05_010.scr:10	tev05_010.scr	10	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	それじゃあ、私とのパーティはここで\n一旦解散ね	Well then, our party\nbreaks up here for now	
+tev05_010.scr:11	tev05_010.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あなたはもう、一人前のギルドメンバーだから\n好きな人とパーティを組んでいいんだよ	You're a full-fledged guild member now,\nso you can party with whoever you like	
+tev05_010.scr:12	tev05_010.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	でも、あなたが誘ってくれたら、\nいつでも組むから！\nあなたの力になれる様に頑張るよ	But if you ever invite me,\nI'll join anytime!\nI'll do my best to help you out	
+tev05_010.scr:13	tev05_010.scr	13	カノンノ	Kanonno Grassvalley	personagem		じゃあ、あなたもこれから頑張ってね	Well then, do your best too from now on	
+tev05_010.scr:14	tev05_010.scr	14	(mensagem de sistema)	(mensagem de sistema)	sistema		カノンノがパーティから外れました。	Kanonno has left the party	
+tev05_010.scr:15	tev05_010.scr	15	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	メニューのライブラリに\n「ガイドブック」と「あらすじ」が\n追加されました	"Guidebook" and "Synopsis" have\nbeen added to the Library\nin the menu	
+tev05_010.scr:16	tev05_010.scr	16	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	ワールドマップより、「闘技場」への移動が\n可能になりました	You can now travel to the "Colosseum"\nfrom the World Map	
+tev05_011.scr:0	tev05_011.scr	0	(narracao)	(narracao)	narracao	CRLF x1	称号「アドリビドムの一員」を\n獲得しました	You earned the title\n"Member of Ad Libitum"	original tem アドリビドム (com um ド extra), provavel typo do jogo para アドリビトム/Ad Libitum -- traduzido pelo nome fechado
+tev05_011.scr:1	tev05_011.scr	1	(narracao)	(narracao)	narracao	CRLF x1	称号は、メニューのライブラリで\n確認出来ます	You can check titles\nin the Library in the menu	
+tev05_011.scr:2	tev05_011.scr	2	(narracao)	(narracao)	narracao	CRLF x1	また、得られた称号をセットする事で\n様々な効果が得られます	Also, setting an earned title\ngrants various effects	
+tev05_012.scr:0	tev05_012.scr	0	(narracao)	(narracao)	narracao		クロス処理のチェックを行ないます	Performing cross-processing check	cena inteira (12 linhas) parece texto de debug/QA interno do jogo (checagem de animação 'cross'), nao dialogo de jogador -- traduzido literal, sem inventar
+tev05_012.scr:1	tev05_012.scr	1	(narracao)	(narracao)	narracao		クロスOFF	Cross OFF	
+tev05_012.scr:2	tev05_012.scr	2	(narracao)	(narracao)	narracao		敗北後モーションをチェック	Check post-defeat motion	
+tev05_012.scr:3	tev05_012.scr	3	(narracao)	(narracao)	narracao		クロスON	Cross ON	
+tev05_012.scr:4	tev05_012.scr	4	(narracao)	(narracao)	narracao		クロスON	Cross ON	
+tev05_012.scr:5	tev05_012.scr	5	(narracao)	(narracao)	narracao		マルタが医務室で休んでいるモーションをチェック	Check Marta's resting-in-Infirmary motion	
+tev05_012.scr:6	tev05_012.scr	6	(narracao)	(narracao)	narracao		クロスOFF	Cross OFF	
+tev05_012.scr:7	tev05_012.scr	7	(narracao)	(narracao)	narracao		クロスON	Cross ON	
+tev05_012.scr:8	tev05_012.scr	8	(narracao)	(narracao)	narracao		ソフィーが医務室で休んでいるモーションをチェック	Check Sophie's resting-in-Infirmary motion	
+tev05_012.scr:9	tev05_012.scr	9	(narracao)	(narracao)	narracao		クロスOFF	Cross OFF	
+tev05_012.scr:10	tev05_012.scr	10	(narracao)	(narracao)	narracao		クロスON	Cross ON	
+tev05_012.scr:11	tev05_012.scr	11	(narracao)	(narracao)	narracao		ユーリが構えているモーションをチェック	Check Yuri's stance motion	
+tev05_012.scr:12	tev05_012.scr	12	(narracao)	(narracao)	narracao		クロスOFF	Cross OFF	
+tev05_012.scr:13	tev05_012.scr	13	(narracao)	(narracao)	narracao		終了します	Finishing up	
+tev05_013.scr:0	tev05_013.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	あっ、待って！\nガルーダがいるのは\nその方向じゃないよ	Oh, wait!\nThe Garuda isn't\nin that direction	

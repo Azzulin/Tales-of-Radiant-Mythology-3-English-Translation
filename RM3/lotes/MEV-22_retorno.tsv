@@ -1,0 +1,80 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev22_010.scr:0	mev22_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	今回の仕事では、コンフェイト大森林に\n行ってもらうね	For this job, I need you to head to\nthe Confeito Great Forest.	
+mev22_010.scr:1	mev22_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	あそこにいるケイブレックスという魔物が\nウズマキフスベを食べていたって\n記録があったらしいの	Apparently, records show that a monster\ncalled Cavelex in that forest\nfed upon the Whirl Puffball.	
+mev22_010.scr:2	mev22_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	それで、ケイブレックスに\nウズマキフスベのドクメントがあるかも\nしれないって事で、今回行ってもらうわけ	So, because the Cavelex might retain\nthe Document of the Whirl Puffball,\nwe are asking you to go investigate.	
+mev22_010.scr:3	mev22_010.scr	3	アンジュ	Ange Serena	personagem		同行者は、セネル君とティア	Your companions will be Senel and Tear.	
+mev22_010.scr:4	mev22_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	ゴツーイ魔物を相手にしなきゃいけないから\n大変だろうけど、お願いね	Facing such a huge monster will be tough,\nbut we're counting on you!	
+mev22_020.scr:0	mev22_020.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	ケイブレックスか。\nまずはそいつを探し出さないとな	A Cavelex, huh?\nFirst, we've got to track it down.	
+mev22_020.scr:1	mev22_020.scr	1	ティア	Tear Grants	personagem	CRLF x2	リタから、ウズマキフスベの\nドクメントピースが入っている\nギベオンチップを借りて来たわ	I borrowed a Gibeon chip from Rita\ncontaining a Document piece of the\nWhirl Puffball.	
+mev22_020.scr:2	mev22_020.scr	2	ティア	Tear Grants	personagem	CRLF x1	これをケイブレックスに当てれば、\nドクメントを採取出来るらしいの	If we apply this to the Cavelex,\nwe can reportedly extract the Document.	
+mev22_020.scr:3	mev22_020.scr	3	セネル	Senel Coolidge	personagem	CRLF x1	そう、簡単に採取出来るとは\n思えないけどな	I doubt it'll be that easy\nto extract, though.	
+mev22_020.scr:4	mev22_020.scr	4	ティア	Tear Grants	personagem	CRLF x1	そうね。\n戦闘になる事も考えられるわ	Indeed.\nWe must be prepared for a fight as well.	
+mev22_030.scr:0	mev22_030.scr	0	ティア	Tear Grants	personagem	CRLF x1	いたわ。\nケイブレックスよ	There it is.\nIt's a Cavelex.	
+mev22_030.scr:1	mev22_030.scr	1	セネル	Senel Coolidge	personagem	CRLF x2	よし、安全にドクメントを\n採取する為にも\nまずは動きを封じるぞ！	All right, to safely extract\nthe Document, we'll pin it down\nand stop its movements first!	
+mev22_040.scr:0	mev22_040.scr	0	ティア	Tear Grants	personagem	CRLF x1	どうやら\nまだここに居てくれた様ね	It seems\nit's still lingering here.	
+mev22_040.scr:1	mev22_040.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	ああ、逃げられてしまう前に\n片付けるぞ！	Yeah, let's take care of it\nbefore it gets away!	
+mev22_050.scr:0	mev22_050.scr	0	ティア	Tear Grants	personagem		ギベオンチップに、ドクメントが入ったわ	The Document entered the Gibeon chip.	
+mev22_050.scr:1	mev22_050.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	そうか。\nじゃあ、これで仕事は終わりだな	I see.\nThen that wraps up the job, right?	
+mev22_050.scr:2	mev22_050.scr	2	ティア	Tear Grants	personagem	CRLF x2	いえ、今のはあくまで\nウズマキフスベのドクメントの一部が\n手に入っただけ	No, what we obtained just now\nwas merely a part of the\nWhirl Puffball's Document.	
+mev22_050.scr:3	mev22_050.scr	3	ティア	Tear Grants	personagem		まだ、集める必要があるわ	We still need to collect more.	
+mev22_050.scr:4	mev22_050.scr	4	セネル	Senel Coolidge	personagem	CRLF x1	じゃあ、まだケイブレックスを\n探す必要があるんだな	So we've still got to track down\nmore Cavelexes, then.	
+mev22_050.scr:5	mev22_050.scr	5	ティア	Tear Grants	personagem		ええ、もっと奥へ行ってみましょう	Yes, let's head further inside.	
+mev22_060.scr:0	mev22_060.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	いたぞ！\nケイブレックスだ	Found one!\nIt's a Cavelex!	
+mev22_060.scr:1	mev22_060.scr	1	ティア	Tear Grants	personagem	CRLF x1	気が立っているわ。\n戦うしか無さそうね	It's on high alert.\nIt looks like we have to fight.	
+mev22_060.scr:2	mev22_060.scr	2	セネル	Senel Coolidge	personagem	CRLF x1	一気に畳み込む。\n行くぞ！	We'll finish this in one go.\nLet's move!	
+mev22_070.scr:0	mev22_070.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	次は気を付けろ。\n潰されない様にな！	Be careful on the next one.\nDon't get crushed!	
+mev22_080.scr:0	mev22_080.scr	0	セネル	Senel Coolidge	personagem	CRLF x2	どうだ。\nウズマキフスベのドクメントは\nあったか	How'd it go?\nDid it have the Whirl Puffball's\nDocument?	
+mev22_080.scr:1	mev22_080.scr	1	ティア	Tear Grants	personagem		ええ	Indeed.	
+mev22_080.scr:2	mev22_080.scr	2	ティア	Tear Grants	personagem		でも、あと少し足りないみたい	However, it still seems slightly short.	
+mev22_080.scr:3	mev22_080.scr	3	ティア	Tear Grants	personagem		まだ、採取する必要があるわ	We still need to extract more.	
+mev22_080.scr:4	mev22_080.scr	4	セネル	Senel Coolidge	personagem	CRLF x1	まだ、あんなのを相手にしないと\nいけないのか…	We've still got to take on\nmore of those things...?	
+mev22_085.scr:0	mev22_085.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	ここら辺りがケイブレックスの棲家だと\n聞いたんだが…	I heard around here was the habitat\nof the Cavelex, but...	
+mev22_085.scr:1	mev22_085.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	しょうがない、他の場所を探して\nまた後で来ようぜ	No helping it. Let's check other spots\nand come back here later.	
+mev22_090.scr:0	mev22_090.scr	0	セネル	Senel Coolidge	personagem		ここにもいたか	There's one here too, huh.	
+mev22_090.scr:1	mev22_090.scr	1	ティア	Tear Grants	personagem	CRLF x1	向こうもこっちに気付いてる。\n来るわよ！	It noticed us too.\nHere it comes!	
+mev22_100.scr:0	mev22_100.scr	0	ティア	Tear Grants	personagem	CRLF x1	いたわ。\nみんな構えて！	There it is.\nEveryone, battle positions!	
+mev22_100.scr:1	mev22_100.scr	1	セネル	Senel Coolidge	personagem		ああ、わかってる！	Yeah, on it!	
+mev22_110.scr:0	mev22_110.scr	0	ティア	Tear Grants	personagem	CRLF x1	ウズマキフスベのドクメントが\n全て埋まったわ	The Whirl Puffball's Document\nhas been completely filled.	
+mev22_110.scr:1	mev22_110.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	任務完了か。\nそれじゃ、船に戻ろう	Mission complete, then.\nLet's head back to the ship.	
+mev22_110.scr:2	mev22_110.scr	2	ティア	Tear Grants	personagem		ええ	Indeed.	
+mev22_115.scr:0	mev22_115.scr	0	ティア	Tear Grants	personagem	CRLF x2	ここは、ケイブレックスの目撃が\n多い場所らしいけれど。\n…いないわね	This is reportedly a spot where many\nCavelexes are sighted, but...\n...None here, it seems.	
+mev22_115.scr:1	mev22_115.scr	1	ティア	Tear Grants	personagem	CRLF x2	それじゃあ、\n今は他の場所を当たって、\nまた後に来ましょう	In that case,\nlet's try other areas for now\nand return here later.	
+mev22_120.scr:0	mev22_120.scr	0	アンジュ	Ange Serena	personagem		お疲れ様	Welcome back.	
+mev22_120.scr:1	mev22_120.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	これで、ウズマキフスベの\n完全なドクメントが\n手に入れられたんだね	So with this, we've obtained\na complete Document for the\nWhirl Puffball, then.	
+mev22_120.scr:2	mev22_120.scr	2	リタ	Rita Mordio	personagem	CRLF x2	これで、塩水晶、ツリガネトンボ草、\nウズマキフスベのドクメントを組み合わせて、\n封印次元を作る事が出来るわ	Now, combining Documents of Salt Crystal,\nBell Dragonfly Herb, and Whirl Puffball,\nwe can forge the Sealing Dimension.	
+mev22_120.scr:3	mev22_120.scr	3	アンジュ	Ange Serena	personagem		長い道のりだったね…	It has been such a long journey...	
+mev22_120.scr:4	mev22_120.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	あの暁の従者の二人の働きで、\n侵食浄化はもとより、また世界中の人々が\n手を繋ぎ始めたそうよ	Thanks to the two Dawn Cultists, not only\nis erosion cleansed, but people across\nthe world are joining hands again.	
+mev22_120.scr:5	mev22_120.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	握手で○○の能力と、\n助け合う為の繋がりが作られているの	Through handshakes, ○○'s ability and\nbonds of mutual aid are being formed.	
+mev22_120.scr:6	mev22_120.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	一人のディセンダーから、\n希望の光は世界中に灯っていく	From a single Descender,\nthe light of hope spreads to the world.	
+mev22_120.scr:7	mev22_120.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	わたし達はその神話を、\n今まさに目にしてるのね…	We are bearing witness to that myth\nwith our very own eyes right now...	
+mev22_120.scr:8	mev22_120.scr	8	リタ	Rita Mordio	personagem	CRLF x2	組み上げたドクメントは、\nマナの流れに乗せて、\n世界樹へ送り込めばいいの	We just place the assembled Document\nupon the mana currents and channel it\nstraight into the World Tree.	
+mev22_120.scr:9	mev22_120.scr	9	リタ	Rita Mordio	personagem		それで、封印次元を形成出来るわ	Then we can form the Sealing Dimension.	
+mev22_120.scr:10	mev22_120.scr	10	リタ	Rita Mordio	personagem	CRLF x1	封印次元を作ったあとは、世界樹を媒体に\nラザリスの情報を送信させればいいの	Once it's formed, we send Lazaris's info\nusing the World Tree as a medium.	
+mev22_120.scr:11	mev22_120.scr	11	ハロルド	Harold Berselius	personagem	CRLF x1	となると、この計画は\n聖地ラングリースで行うのが良さそうね	In that case, conducting this plan in the\nHoly Land of Langriths would be best.	
+mev22_120.scr:12	mev22_120.scr	12	ハロルド	Harold Berselius	personagem	CRLF x1	よし、急いで準備を始めましょう。\nそれまで待ってなさい	All right, let us prepare in haste.\nWait until then!	
+mev22_130.scr:0	mev22_130.scr	0	イリア	Iria Animi	personagem	CRLF x1	○○、\nちょっと話があんの	○○,\nI need to talk to you for a second.	
+mev22_130.scr:1	mev22_130.scr	1	イリア	Iria Animi	personagem	CRLF x2	あたし、あんたがディセンダーってわかって\nすぐに、あんまり当てにしない方が良さそう\n…って言ったけど	When I first learned you were a Descender,\nI said we shouldn't rely on you too much\n...remember?	
+mev22_130.scr:2	mev22_130.scr	2	イリア	Iria Animi	personagem	CRLF x1	あれ、謝るわ。\nゴメン	I want to apologize for that.\nI'm sorry.	
+mev22_130.scr:3	mev22_130.scr	3	イリア	Iria Animi	personagem	CRLF x2	いや、うーん。\nあんたが良くても、\nあたしはスジ通しときたいんだもん	Well, look.\nEven if you don't mind, I want to\nsettle things properly between us.	
+mev22_130.scr:4	mev22_130.scr	4	イリア	Iria Animi	personagem		気にしてないって？	You say you don't mind?	
+mev22_130.scr:5	mev22_130.scr	5	イリア	Iria Animi	personagem		はぁ、まーあんたらしいけどさー…	Sigh, well that's just like you, but...	
+mev22_130.scr:6	mev22_130.scr	6	イリア	Iria Animi	personagem	CRLF x1	これは、あたし自身のケジメでも\nあるんだから	This is also a matter of settling things\nwith myself, you know.	
+mev22_130.scr:7	mev22_130.scr	7	イリア	Iria Animi	personagem	CRLF x2	つか、ディセンダーがどうとかじゃなくて、\nあたしもやれる事をあんたみたいに\nやれば良かったなって	I mean, setting aside being a Descender,\nI wish I had just done what I could,\njust like you did.	
+mev22_130.scr:8	mev22_130.scr	8	イリア	Iria Animi	personagem	CRLF x1	あの時は、甘ったれてたわねーって\n思うわ	Looking back, I realize\nI was just being spoiled and childish.	
+mev22_130.scr:9	mev22_130.scr	9	イリア	Iria Animi	personagem		そんだけよ	That's all.	
+mev22_130.scr:10	mev22_130.scr	10	イリア	Iria Animi	personagem	CRLF x2	ただ、あんたって…。\n予言で伝えられている通り\n世界を救ったら、世界樹へ帰っちゃうワケ？	It's just, you...\nOnce you save the world as prophesied,\nwill you return to the World Tree?	
+mev22_130.scr:11	mev22_130.scr	11	イリア	Iria Animi	personagem		あ〜…、聞いて欲しくなかった？	Ah... You didn't want me to ask that?	
+mev22_130.scr:12	mev22_130.scr	12	イリア	Iria Animi	personagem		そこは触れないでくれって事？	Meaning I shouldn't touch that subject?	
+mev22_130.scr:13	mev22_130.scr	13	イリア	Iria Animi	personagem	CRLF x1	とにかくさ、あんたがいなくなったら\nここのみんなが悲しむじゃん	Anyway, if you were to disappear,\neveryone here would be devastated.	
+mev22_130.scr:14	mev22_130.scr	14	イリア	Iria Animi	personagem	CRLF x2	そうは言っても、\nあたし達はあんたの決める事を\n止められないけど	Even so,\nwe can't stop you from doing\nwhatever you decide, though.	
+mev22_130.scr:15	mev22_130.scr	15	イリア	Iria Animi	personagem	CRLF x1	だって、あんたは誰にも、何にも縛られない\n自由なディセンダーだからさ	Because you're a free Descender, bound\nby no one and nothing, after all.	
+mev22_130.scr:16	mev22_130.scr	16	イリア	Iria Animi	personagem	CRLF x1	ま、そーいうわけで、前の言葉、取り消すわ。\nホントにゴメン	Well, so I take back what I said before.\nI'm really sorry.	
+mev22_130.scr:17	mev22_130.scr	17	(opcao do jogador)	(opcao do jogador)	escolha		気にしていない、と言う	Say you don't mind	
+mev22_130.scr:18	mev22_130.scr	18	(opcao do jogador)	(opcao do jogador)	escolha		笑って返す	Laugh in response	
+mev22_130.scr:19	mev22_130.scr	19	(opcao do jogador)	(opcao do jogador)	escolha		黙る	Remain silent	
+mev22_130.scr:20	mev22_130.scr	20	(opcao do jogador)	(opcao do jogador)	escolha		苦笑する	Smile wryly	
+mev22_140.scr:0	mev22_140.scr	0	リタ	Rita Mordio	personagem	CRLF x1	アンジュ。\n準備が整ったわ	Ange.\nPreparations are complete.	
+mev22_140.scr:1	mev22_140.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	ええ。\nそれじゃあ、依頼として登録するね	Yes.\nThen I'll register it as a quest.	
+mev22_140.scr:2	mev22_140.scr	2	カノンノ	Kanonno Grassvalley	personagem		私も行っていい？	Can I come too?	
+mev22_140.scr:3	mev22_140.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	いいわよ。\nでも、念の為にもう一人、\n募集した方がいいかな	Sure.\nJust to be safe, though, we had better\nrecruit one more person.	
+mev22_140.scr:4	mev22_140.scr	4	リタ	Rita Mordio	personagem	CRLF x2	そうね。\n腕に自信のありそうな奴\n募集しといて	Good idea.\nGo recruit someone who looks\nconfident in their fighting skills.	

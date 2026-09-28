@@ -1,0 +1,67 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev21_010.scr:0	qev21_010.scr	0	ルーティ	Rutee Katrea	personagem	CRLF x1	全く。\n真面目なんだか、自由奔放なんだか	Jeez.\nI can't tell if he's serious or carefree.	
+qev21_010.scr:1	qev21_010.scr	1	フィリア	Philia Felice	personagem	CRLF x1	でも、とても\nウッドロウさんらしいと思いますわ	But, I think it is very\nfitting for Woodrow.	
+qev21_010.scr:2	qev21_010.scr	2	スタン	Stahn Aileron	personagem		そうだな	Yeah.	
+qev21_010.scr:3	qev21_010.scr	3	スタン	Stahn Aileron	personagem	CRLF x1	昔から、こうと決めたら\n引かないところのある人だったし	He's always been the type who won't\nback down once he's decided on something.	
+qev21_010.scr:4	qev21_010.scr	4	ルーティ	Rutee Katrea	personagem	CRLF x1	それ、あんたにだけは\n絶対言われたくないわね……	You're the last person\nwho should be saying that...	
+qev21_010.scr:5	qev21_010.scr	5	アンジュ	Ange Serena	personagem		まあまあ	Now, now.	
+qev21_010.scr:6	qev21_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	とにかく、この方のお人柄とご事情は\nとてもよくわかりました	Anyway, I understand this person's\ncharacter and circumstances very well.	
+qev21_010.scr:7	qev21_010.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	あとは、誰がこの依頼を\n請け負うか、だけれど……	Now it's just a matter of who will\ntake on this request...	
+qev21_010.scr:8	qev21_010.scr	8	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「賢王の遊説」が\nエントリーされました。\nクエストカウンタから受ける事が出来ます	"Quest ""The Wise King's Tour"" has been\nadded.\nYou can accept it at the Quest Counter."	
+qev21_020.scr:0	qev21_020.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	あなたが引き受けてくれるのね。\nありがとう	You'll take it on, right?\nThank you.	
+qev21_020.scr:1	qev21_020.scr	1	スタン	Stahn Aileron	personagem	CRLF x1	ウッドロウさんは、俺達がとても\nお世話になった人で……	Woodrow is someone who took\nreally good care of us...	
+qev21_020.scr:2	qev21_020.scr	2	スタン	Stahn Aileron	personagem	CRLF x2	すごく大きな国の次期王様なんだけど、\nだからって、いばり散らしたりしない\n大らかで懐の深い人なんだ	He's the next king of a huge country,\nbut he doesn't boss people around.\nHe's very generous and open-minded.	
+qev21_020.scr:3	qev21_020.scr	3	スタン	Stahn Aileron	personagem	CRLF x1	きっと、○○も\n仲良くなれるんじゃないかな	I'm sure you'll get along great with him,\n○○.	
+qev21_020.scr:4	qev21_020.scr	4	ルーティ	Rutee Katrea	personagem	CRLF x2	そうねぇ。\nそれに、ああ見えて\n弓の腕前だってかなりのものだし	Yeah.\nAnd despite how he looks,\nhis archery skills are quite something.	
+qev21_020.scr:5	qev21_020.scr	5	ルーティ	Rutee Katrea	personagem	CRLF x2	正直、護衛だの何だの\n気にし過ぎじゃないかと思うけど。\nま、立場上、しょうがないわよね	Honestly, I think they're overthinking\nthis whole escort thing.\nBut given his status, it can't be helped.	
+qev21_020.scr:6	qev21_020.scr	6	フィリア	Philia Felice	personagem	CRLF x1	私達でお手伝い出来る事があれば、\nぜひ声をかけて下さいね	If there's anything we can help with,\nplease let us know.	
+qev21_020.scr:7	qev21_020.scr	7	フィリア	Philia Felice	personagem		精一杯、協力させていただきます	We'll do our best to cooperate.	
+qev21_020.scr:8	qev21_020.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	あなたなら、いつも通りにやれば大丈夫。\nだからあまり気負わずに、ね	You'll be fine if you just do as usual.\nSo don't stress yourself out too much.	
+qev21_020.scr:9	qev21_020.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	それじゃ、気を付けて\n行ってらっしゃい	Well then, take care and\nhave a safe trip.	
+qev21_040.scr:0	qev21_040.scr	0	ウッドロウ	Woodrow Kelvin	personagem		……見つかってしまったか	...I've been found out, huh.	
+qev21_040.scr:1	qev21_040.scr	1	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev21_040.scr:2	qev21_040.scr	2	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	すまないが、まだ城へ\n戻るわけにはいかないのだ	I'm sorry, but I can't return\nto the castle just yet.	
+qev21_040.scr:3	qev21_040.scr	3	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	少しでも見聞を広め、\n国へ還元出来るものを得なければ	I must broaden my horizons and gain\nsomething to give back to my country.	
+qev21_040.scr:4	qev21_040.scr	4	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	それが今の私に出来る\n一番の務めだと思っている	I believe that is the most important\nduty I can fulfill right now.	
+qev21_040.scr:5	qev21_040.scr	5	ウッドロウ	Woodrow Kelvin	personagem		父上にそう伝えてくれたまえ	Please pass that on to my father.	
+qev21_050.scr:0	qev21_050.scr	0	ウッドロウ	Woodrow Kelvin	personagem		また君か……	You again...	
+qev21_050.scr:1	qev21_050.scr	1	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	言ったはずだ。\n私はまだ、国へ帰るつもりはないと	I thought I said it.\nI don't intend to return home yet.	
+qev21_050.scr:2	qev21_050.scr	2	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev21_050.scr:3	qev21_050.scr	3	ウッドロウ	Woodrow Kelvin	personagem		ギルド……護衛？	A guild... escort?	
+qev21_050.scr:4	qev21_050.scr	4	ウッドロウ	Woodrow Kelvin	personagem		……どうやら、私は誤解をしていたらしい	...It seems I've misunderstood.	
+qev21_050.scr:5	qev21_050.scr	5	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	すまないが、詳しく話を聞かせて\nもらえないだろうか	I apologize, but could you please\ntell me more about this?	
+qev21_050.scr:6	qev21_050.scr	6	ウッドロウ	Woodrow Kelvin	personagem		なるほどな……、そういう事だったのか	I see... so that's how it is.	
+qev21_050.scr:7	qev21_050.scr	7	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	これは、一時の猶予を与えられたと\n受け取って構わないのかもしれないな	Perhaps I can take this as being\ngranted a temporary reprieve.	
+qev21_050.scr:8	qev21_050.scr	8	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev21_050.scr:9	qev21_050.scr	9	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	……失礼。\n私ばかりが納得してしまったな	...Forgive me.\nI was just convincing myself.	
+qev21_050.scr:10	qev21_050.scr	10	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev21_050.scr:11	qev21_050.scr	11	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	しかし、どうしたものか……私は一応、\n身分を隠し、各地を遊説している身でな	But what to do... I'm currently traveling\nincognito on a tour of various regions.	
+qev21_050.scr:12	qev21_050.scr	12	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	公式に、ギルドの今回の申し出を\n受ける事は出来ないのだよ	I cannot officially accept the guild's\noffer this time.	
+qev21_050.scr:13	qev21_050.scr	13	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	それでは、身分を隠している意味が\nなくなってしまうからね	If I did, there would be no point in\nhiding my identity.	
+qev21_050.scr:14	qev21_050.scr	14	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev21_050.scr:15	qev21_050.scr	15	ウッドロウ	Woodrow Kelvin	personagem		……一つ、私に考えがあるのだが	...I do have one idea, though.	
+qev21_050.scr:16	qev21_050.scr	16	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	どうだろう？\n私が、そのギルドへ身を寄せるというのは	How about this?\nWhat if I were to join your guild?	
+qev21_050.scr:17	qev21_050.scr	17	(ator 200)	(ator 200)	desconhecido		……！？	...!?	
+qev21_050.scr:18	qev21_050.scr	18	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	表面上はどうあれ、腕に覚えのある者達と\n寝食を共にするのだ。\n国の者達も少しは安心出来よう	Regardless of appearances, I'd be living\nwith capable fighters.\nMy people back home would be reassured.	
+qev21_050.scr:19	qev21_050.scr	19	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	何より、ギルドには民からの生の声が\n多く寄せられるはず	Above all, the guild must receive many\nraw voices from the people.	
+qev21_050.scr:20	qev21_050.scr	20	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	私自身も、大いに学ばせてもらう事が\n出来そうだ。\n悪い案ではないと思うのだが	I feel I could learn a great deal\nfrom that experience as well.\nI don't think it's a bad idea.	
+qev21_050.scr:21	qev21_050.scr	21	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev21_050.scr:22	qev21_050.scr	22	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	……そうだな。\n一度ギルドへ向かい、\n代表者と話をするのが筋だろう	...You're right.\nIt makes sense to head to the guild first\nand speak with the representative.	
+qev21_050.scr:23	qev21_050.scr	23	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	私はウッドロウ・ケルヴィン。\n君の名前は？	I am Woodrow Kelvin.\nAnd your name?	
+qev21_050.scr:24	qev21_050.scr	24	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev21_050.scr:25	qev21_050.scr	25	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	……そうか。\n○○君というのだね	...I see.\nSo you are ○○.	
+qev21_050.scr:26	qev21_050.scr	26	ウッドロウ	Woodrow Kelvin	personagem		では、改めて案内、よろしく頼む	Well then, please lead the way.	
+qev21_060.scr:0	qev21_060.scr	0	ウッドロウ	Woodrow Kelvin	personagem		ここがアドリビトム……	So this is Ad Libitum...	
+qev21_060.scr:1	qev21_060.scr	1	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	なるほど。\n国籍を問わず、多くの人間が集って\nいるというのは本当の様だな	I see.\nIt seems to be true that many people of\nall nationalities gather here.	
+qev21_060.scr:2	qev21_060.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	ご苦労様。\n無事に帰ってきたのね	Good work.\nYou made it back safely.	
+qev21_060.scr:3	qev21_060.scr	3	アンジュ	Ange Serena	personagem		ご無事で何よりです、ええと……	I'm glad you're safe, um...	
+qev21_060.scr:4	qev21_060.scr	4	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ウッドロウで構わない。\nあまりかしこまらず、楽にしていてくれ	Woodrow is fine.\nPlease don't be so formal, be at ease.	
+qev21_060.scr:5	qev21_060.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	わかりました。\nじゃあ、ウッドロウさん。\nわたしがこのギルドのリーダー、アンジュです	Understood.\nWell then, Woodrow.\nI am the leader of this guild, Ange.	
+qev21_060.scr:6	qev21_060.scr	6	ウッドロウ	Woodrow Kelvin	personagem		よろしく頼む	It's a pleasure to meet you.	
+qev21_060.scr:7	qev21_060.scr	7	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	早速で申し訳ないが、実は\n折り入って頼みたい事があるのだが……	I apologize for the suddenness, but I\nactually have a special favor to ask...	
+qev21_060.scr:8	qev21_060.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	お話はわかりました。\nそういう事でしたら、わたし達は\n心からあなたを歓迎します	I understand what you're saying.\nIf that's the case, we welcome you from\nthe bottom of our hearts.	
+qev21_060.scr:9	qev21_060.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	その代わり、みんなと同じ様に\n仕事もきっちりこなして頂きますが	In exchange, we'll expect you to do your\nwork properly, just like everyone else.	
+qev21_060.scr:10	qev21_060.scr	10	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	構わない。\n元より、それがこちらの望みでもある	I don't mind.\nThat was my desire from the start.	
+qev21_060.scr:11	qev21_060.scr	11	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	○○君、そういうわけだ。\nしばらくこちらで世話になる	So that's how it is, ○○.\nI'll be in your care for a while.	
+qev21_060.scr:12	qev21_060.scr	12	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	何かあれば、\n遠慮なく呼び付けてくれ	If anything comes up,\ndon't hesitate to call on me.	
+qev21_060.scr:13	qev21_060.scr	13	(mensagem de sistema)	(mensagem de sistema)	sistema		ウッドロウがアドリビトムに加入しました	Woodrow joined Ad Libitum.	

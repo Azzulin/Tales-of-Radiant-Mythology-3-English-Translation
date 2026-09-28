@@ -1,0 +1,115 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev25_010.scr:0	cev25_010.scr	0	セルシウス	Celsius	personagem	CRLF x2	別に……その人と何かあったわけではないの。\nでも、彼を見ているとどうしても感情が\n抑えられなくて……		
+cev25_010.scr:1	cev25_010.scr	1	セルシウス	Celsius	personagem		わたし、もう……		
+cev25_010.scr:2	cev25_010.scr	2	リヒター	Richter Abend	personagem	CRLF x1	セルシウス……無理をするな。\n精霊にも、そういった感情があって当然だ		
+cev25_010.scr:3	cev25_010.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x2	そうだよ。\nそれぞれに得手不得手があって当然さ。\n気にする事ないよ		
+cev25_010.scr:4	cev25_010.scr	4	セルシウス	Celsius	personagem		二人とも……		
+cev25_010.scr:5	cev25_010.scr	5	セルシウス	Celsius	personagem		ありがとう		
+cev25_010.scr:6	cev25_010.scr	6	コングマン	Kongman	personagem	CRLF x1	おう！　\nおめえら		
+cev25_010.scr:7	cev25_010.scr	7	コングマン	Kongman	personagem	CRLF x1	そんなとこで\nコソコソと何話してやがんだ？		
+cev25_010.scr:8	cev25_010.scr	8	セルシウス	Celsius	personagem		何でもいいでしょ……		
+cev25_010.scr:9	cev25_010.scr	9	セルシウス	Celsius	personagem		話しかけないで		
+cev25_010.scr:10	cev25_010.scr	10	コングマン	Kongman	personagem	CRLF x1	……！！\nな、な、な……		
+cev25_010.scr:11	cev25_010.scr	11	リヒター	Richter Abend	personagem	CRLF x1	……なるほど。　\nこれは相当だな		
+cev25_010.scr:12	cev25_010.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x1	……そんなに似てるのかい？\nその、あんたの言う「苦手な精霊」に		
+cev25_010.scr:13	cev25_010.scr	13	セルシウス	Celsius	personagem		ええ……その		
+cev25_010.scr:14	cev25_010.scr	14	セルシウス	Celsius	personagem		全体的に暑苦しい感じが		
+cev25_020.scr:0	cev25_020.scr	0	コングマン	Kongman	personagem		よ……		
+cev25_020.scr:1	cev25_020.scr	1	コングマン	Kongman	personagem		よう！　セルシウス		
+cev25_020.scr:2	cev25_020.scr	2	セルシウス	Celsius	personagem		……何の用？		
+cev25_020.scr:3	cev25_020.scr	3	コングマン	Kongman	personagem		何の……って		
+cev25_020.scr:4	cev25_020.scr	4	コングマン	Kongman	personagem	CRLF x1	用がなけりゃ、話しかけちゃ\nいけねえってのか？		
+cev25_020.scr:5	cev25_020.scr	5	セルシウス	Celsius	personagem		用がなければ話したくないの		
+cev25_020.scr:6	cev25_020.scr	6	コングマン	Kongman	personagem	CRLF x1	何でぇ、ツンツンしやがってよぉ。\n正真正銘、氷みてぇな女だな		
+cev25_020.scr:7	cev25_020.scr	7	セルシウス	Celsius	personagem		っ！		
+cev25_020.scr:8	cev25_020.scr	8	セルシウス	Celsius	personagem		ふんっ		
+cev25_020.scr:9	cev25_020.scr	9	コングマン	Kongman	personagem		な、何もそこまで怒らなくても……		
+cev25_030.scr:0	cev25_030.scr	0	ヴェイグ	Veigue Lungberg	personagem		……いい風だ		
+cev25_030.scr:1	cev25_030.scr	1	セルシウス	Celsius	personagem		ねえ		
+cev25_030.scr:2	cev25_030.scr	2	セルシウス	Celsius	personagem		隣……いいかしら？		
+cev25_030.scr:3	cev25_030.scr	3	ヴェイグ	Veigue Lungberg	personagem		ああ……構わないが		
+cev25_030.scr:4	cev25_030.scr	4	セルシウス	Celsius	personagem	CRLF x1	あなたって不思議ね。\n……なんだか、とっても落ち着く		
+cev25_030.scr:5	cev25_030.scr	5	ヴェイグ	Veigue Lungberg	personagem		……そうか		
+cev25_030.scr:6	cev25_030.scr	6	セルシウス	Celsius	personagem		ええ……		
+cev25_030.scr:7	cev25_030.scr	7	セルシウス	Celsius	personagem	CRLF x1	ねえ。　\n……時々、またここに来てくれる？		
+cev25_030.scr:8	cev25_030.scr	8	ヴェイグ	Veigue Lungberg	personagem		構わないが、なぜだ？		
+cev25_030.scr:9	cev25_030.scr	9	セルシウス	Celsius	personagem	CRLF x1	ふふ。\n……ナイショ		
+cev25_040.scr:0	cev25_040.scr	0	セルシウス	Celsius	personagem		…………う……		
+cev25_040.scr:1	cev25_040.scr	1	ウィル	Will Raynard	personagem	CRLF x1	おい、ここにいたぞ！\n早く手当を！！		
+cev25_040.scr:2	cev25_040.scr	2	ヴェイグ	Veigue Lungberg	personagem		しっかりしろ、セルシウス！		
+cev25_040.scr:3	cev25_040.scr	3	セルシウス	Celsius	personagem		…………ヴェイ、グ……		
+cev25_040.scr:4	cev25_040.scr	4	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	大丈夫か？　\n……どこか痛むのか		
+cev25_040.scr:5	cev25_040.scr	5	セルシウス	Celsius	personagem	CRLF x1	手……。\n冷たくて……気持ちいい……		
+cev25_040.scr:6	cev25_040.scr	6	ヴェイグ	Veigue Lungberg	personagem		…………		
+cev25_040.scr:7	cev25_040.scr	7	ウィル	Will Raynard	personagem		……完全な熱中症だな		
+cev25_040.scr:8	cev25_040.scr	8	ウィル	Will Raynard	personagem	CRLF x1	だから、火山に停泊中は\n医務室で休んでいろと言ったんだ……		
+cev25_050.scr:0	cev25_050.scr	0	セルシウス	Celsius	personagem	CRLF x2	あなた、\n最近あの暑苦しい人と\nよく話しているのね		
+cev25_050.scr:1	cev25_050.scr	1	ミント	Mint Adenade	personagem	CRLF x1	暑苦しいって……。\nコングマンさんの事ですか？		
+cev25_050.scr:2	cev25_050.scr	2	セルシウス	Celsius	personagem	CRLF x1	コングマン……。\nそう言えば、そんな名前だったかしら		
+cev25_050.scr:3	cev25_050.scr	3	ミント	Mint Adenade	personagem	CRLF x1	セルシウスさんは、\nコングマンさんが苦手なんですか		
+cev25_050.scr:4	cev25_050.scr	4	セルシウス	Celsius	personagem	CRLF x2	……精霊として、恥ずかしい事だと\n思うわ……だけどどうしても、\nあの暑苦しさだけは我慢出来ないのよ		
+cev25_050.scr:5	cev25_050.scr	5	ミント	Mint Adenade	personagem	CRLF x2	確かに、コングマンさんは\n熱い人ですが……。\n正義感の強い、優しい人ですよ		
+cev25_050.scr:6	cev25_050.scr	6	ミント	Mint Adenade	personagem	CRLF x2	良かったら一度、お話してみませんか？\nお互いに、誤解している事が\nあるのかもしれません		
+cev25_050.scr:7	cev25_050.scr	7	セルシウス	Celsius	personagem	CRLF x1	……あなたは、\n彼女と似てるかもしれないわね		
+cev25_050.scr:8	cev25_050.scr	8	ミント	Mint Adenade	personagem		え？		
+cev25_050.scr:9	cev25_050.scr	9	セルシウス	Celsius	personagem	CRLF x2	いえ……、知り合いの水の精霊を\n少し思い出しただけ。\nよくこうやって、悩み事を相談したの		
+cev25_050.scr:10	cev25_050.scr	10	ミント	Mint Adenade	personagem		仲が良かったんですね		
+cev25_050.scr:11	cev25_050.scr	11	セルシウス	Celsius	personagem		彼女は大らかで、話しやすかったから		
+cev25_050.scr:12	cev25_050.scr	12	セルシウス	Celsius	personagem	CRLF x1	……今のわたしを見たら、どう思うかしら。\nきっと、叱られそうね……		
+cev25_060.scr:0	cev25_060.scr	0	チャット	Chat	personagem	CRLF x1	セルシウスさんは、いつも甲板で\n何をしているんですか？		
+cev25_060.scr:1	cev25_060.scr	1	セルシウス	Celsius	personagem		……空を見ているわ		
+cev25_060.scr:2	cev25_060.scr	2	チャット	Chat	personagem	CRLF x1	空？　\nそれだけですか？		
+cev25_060.scr:3	cev25_060.scr	3	セルシウス	Celsius	personagem	CRLF x2	それだけって……、\nあなたはきちんと\n空を見上げた事があるの？		
+cev25_060.scr:4	cev25_060.scr	4	チャット	Chat	personagem	CRLF x1	もちろん、ありますよ！\n当たり前じゃないですか		
+cev25_060.scr:5	cev25_060.scr	5	セルシウス	Celsius	personagem		どのくらい？		
+cev25_060.scr:6	cev25_060.scr	6	チャット	Chat	personagem	CRLF x1	どのくらいって……。\nえーと……		
+cev25_060.scr:7	cev25_060.scr	7	セルシウス	Celsius	personagem	CRLF x1	わたしは一日中、ずっとここで\n空を見ているわ		
+cev25_060.scr:8	cev25_060.scr	8	セルシウス	Celsius	personagem	CRLF x2	太陽の色に染まる地平線や\n天上にきらめく月や星の声。\n風に乗って消えていく雲……		
+cev25_060.scr:9	cev25_060.scr	9	セルシウス	Celsius	personagem	CRLF x1	全部、この船に来るまで\n知らなかった景色だもの		
+cev25_060.scr:10	cev25_060.scr	10	チャット	Chat	personagem		……そうか……		
+cev25_060.scr:11	cev25_060.scr	11	チャット	Chat	personagem	CRLF x1	ずっと、これまで\n山に身を潜めてたんですもんね		
+cev25_060.scr:12	cev25_060.scr	12	セルシウス	Celsius	personagem	CRLF x2	ええ。\nそこで見るものだけが\nわたしの世界の全てだった		
+cev25_060.scr:13	cev25_060.scr	13	チャット	Chat	personagem	CRLF x1	すみません、ボク……、\n余計な事を言いました……		
+cev25_060.scr:14	cev25_060.scr	14	セルシウス	Celsius	personagem		いいのよ		
+cev25_060.scr:15	cev25_060.scr	15	セルシウス	Celsius	personagem	CRLF x1	わたしこそ、長話をしてしまって\nごめんなさい		
+cev25_070.scr:0	cev25_070.scr	0	リヒター	Richter Abend	personagem		…………		
+cev25_070.scr:1	cev25_070.scr	1	セルシウス	Celsius	personagem		お疲れの様子ね		
+cev25_070.scr:2	cev25_070.scr	2	リヒター	Richter Abend	personagem	CRLF x1	……エミルが最近、\n俺に絡んでくる		
+cev25_070.scr:3	cev25_070.scr	3	セルシウス	Celsius	personagem		仲良くなった、ということ？		
+cev25_070.scr:4	cev25_070.scr	4	リヒター	Richter Abend	personagem		そんなわけがあるか		
+cev25_070.scr:5	cev25_070.scr	5	リヒター	Richter Abend	personagem	CRLF x1	俺は少し、戦い方のコツを教えただけだ。\n友達ごっこをするつもりはない		
+cev25_070.scr:6	cev25_070.scr	6	セルシウス	Celsius	personagem	CRLF x1	でも、エミルは\nそう思っていないのでしょう？		
+cev25_070.scr:7	cev25_070.scr	7	リヒター	Richter Abend	personagem	CRLF x1	……あいつが勘違いしているんだ。\n勝手にな		
+cev25_070.scr:8	cev25_070.scr	8	セルシウス	Celsius	personagem	CRLF x1	そう言う割には、\nまんざらでもなさそうだけど		
+cev25_070.scr:9	cev25_070.scr	9	リヒター	Richter Abend	personagem	CRLF x1	……セルシウス。\n少しヒトくさくなったんじゃないか？		
+cev25_070.scr:10	cev25_070.scr	10	セルシウス	Celsius	personagem		フフ……そう？		
+cev25_200.scr:0	cev25_200.scr	0	セルシウス	Celsius	personagem	CRLF x1	通常。\n		
+cev25_200.scr:1	cev25_200.scr	1	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev25_200.scr:2	cev25_200.scr	2	セルシウス	Celsius	personagem	CRLF x1	笑い。\n		
+cev25_200.scr:3	cev25_200.scr	3	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev25_200.scr:4	cev25_200.scr	4	セルシウス	Celsius	personagem	CRLF x1	怒り。\n		
+cev25_200.scr:5	cev25_200.scr	5	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev25_200.scr:6	cev25_200.scr	6	セルシウス	Celsius	personagem	CRLF x1	通常２。\n		
+cev25_200.scr:7	cev25_200.scr	7	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev25_200.scr:8	cev25_200.scr	8	セルシウス	Celsius	personagem	CRLF x1	目閉じ通常２。\n		
+cev25_200.scr:9	cev25_200.scr	9	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev25_200.scr:10	cev25_200.scr	10	セルシウス	Celsius	personagem	CRLF x1	通常。\n		
+cev25_200.scr:11	cev25_200.scr	11	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev25_200.scr:12	cev25_200.scr	12	セルシウス	Celsius	personagem	CRLF x1	笑い。\n		
+cev25_200.scr:13	cev25_200.scr	13	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev25_200.scr:14	cev25_200.scr	14	セルシウス	Celsius	personagem	CRLF x1	怒り。\n		
+cev25_200.scr:15	cev25_200.scr	15	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev25_200.scr:16	cev25_200.scr	16	セルシウス	Celsius	personagem	CRLF x1	通常２。\n		
+cev25_200.scr:17	cev25_200.scr	17	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev25_200.scr:18	cev25_200.scr	18	セルシウス	Celsius	personagem	CRLF x1	目閉じ通常２。\n		
+cev25_200.scr:19	cev25_200.scr	19	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev25_200.scr:20	cev25_200.scr	20	セルシウス	Celsius	personagem	CRLF x1	通常。\n		
+cev25_200.scr:21	cev25_200.scr	21	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev25_200.scr:22	cev25_200.scr	22	セルシウス	Celsius	personagem	CRLF x1	笑い。\n		
+cev25_200.scr:23	cev25_200.scr	23	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev25_200.scr:24	cev25_200.scr	24	セルシウス	Celsius	personagem	CRLF x1	怒り。\n		
+cev25_200.scr:25	cev25_200.scr	25	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev25_200.scr:26	cev25_200.scr	26	セルシウス	Celsius	personagem	CRLF x1	通常２。\n		
+cev25_200.scr:27	cev25_200.scr	27	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev25_200.scr:28	cev25_200.scr	28	セルシウス	Celsius	personagem	CRLF x1	目閉じ通常２。\n		
+cev25_200.scr:29	cev25_200.scr	29	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

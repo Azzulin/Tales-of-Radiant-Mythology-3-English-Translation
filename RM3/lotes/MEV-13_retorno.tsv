@@ -1,0 +1,131 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev13_010.scr:0	mev13_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	この依頼を受けてくれるのね。\nありがとう	You'll accept this request, then.\nThank you.	
+mev13_010.scr:1	mev13_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	ジェイドさんの提案で、\nラザリスが出現させたあのキバらしきものの\n調査をする事になったの	Per Mr. Curtiss's suggestion,\nwe are going to investigate that fang-like\nprotrusion Lazaris summoned.	
+mev13_010.scr:2	mev13_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	そこで、あなたにはあのキバのドクメントを\n採取してきて欲しいんだけど…	So I would like you to go and gather\nthe Document of that Fang, but...	
+mev13_010.scr:3	mev13_010.scr	3	ジェイド	Jade Curtiss	personagem		なに、難しい事ではありません	Why, it is nothing difficult.	
+mev13_010.scr:4	mev13_010.scr	4	ジェイド	Jade Curtiss	personagem	CRLF x2	あのキバの元へ行って、\nこれからお貸しする、コピーズ・ロッドを\nかざすだけでいいんです	You simply need to go to that Fang,\nand hold up the Copy's Rod\nthat I shall lend you.	
+mev13_010.scr:5	mev13_010.scr	5	ジェイド	Jade Curtiss	personagem	CRLF x1	そうすれば、このロッドにドクメントを、\nコピー出来ます	By doing so, the Document\ncan be copied into this rod.	
+mev13_010.scr:6	mev13_010.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x2	あとは、リタや私が解析をしましょう。\nそれで、あのキバの特性について\n少しは知る事が出来るでしょう	Afterwards, Rita and I shall analyze it.\nThat should allow us to learn a bit\nabout the traits of that Fang.	
+mev13_010.scr:7	mev13_010.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	あのキバは、オルタータ火山から\n生えているの	That Fang is sprouting\nfrom Alterata Volcano.	
+mev13_010.scr:8	mev13_010.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	それと、途中で行き止まりになっている所が\nあるから、この宝石で道を作りなさい。\n「セルシウスの涙」よ	Also, there's a dead end along the way,\nso forge a path using this gemstone.\nIt's the 'Tears of Celsius.'	
+mev13_010.scr:9	mev13_010.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	使い方は、同行してくれるロイド君と\nジューダス君に教えてあるから	I've explained how to use it to Lloyd\nand Judas, who are going with you.	
+mev13_010.scr:10	mev13_010.scr	10	アンジュ	Ange Serena	personagem		それじゃあ、行ってらっしゃい	Well then, off you go!	
+mev13_020.scr:0	mev13_020.scr	0	ロイド	Lloyd Irving	personagem	CRLF x2	あのキバって奴、\n空からちょっと見ただけなんだけどさ、\nすごい綺麗だったよな…	I only saw that Fang thing from the sky,\nbut still, it looked\nreally beautiful, you know...?	
+mev13_020.scr:1	mev13_020.scr	1	ロイド	Lloyd Irving	personagem	CRLF x1	…もちろん、ラザリスが世界を\n作り変えようとしてるのはわかってる	...Of course, I know Lazaris is trying\nto remake the world.	
+mev13_020.scr:2	mev13_020.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	でも、あいつの世界は\n綺麗なんじゃないかって、そう思うんだ	Yet I can't help thinking that her world\nmight actually be beautiful.	
+mev13_020.scr:3	mev13_020.scr	3	ジューダス	Judas	personagem		この世界もなかなかだと思うが	I consider this world quite fine as well.	
+mev13_020.scr:4	mev13_020.scr	4	ロイド	Lloyd Irving	personagem	CRLF x1	そうか、ジューダスはルミナシアの\nヒトじゃないんだよな	Oh right, you're not a native\nof Luminasia, are you, Judas?	
+mev13_020.scr:5	mev13_020.scr	5	ロイド	Lloyd Irving	personagem	CRLF x1	なあ、どんな世界なんだ？\n豊かな世界なのか？	Hey, what kind of world is it?\nIs it a rich, bountiful world?	
+mev13_020.scr:6	mev13_020.scr	6	ジューダス	Judas	personagem	CRLF x1	決定的な違いは、世界樹がない事だな。\nそうだな、豊か…なのだろう	The crucial difference is no World Tree.\nIndeed... bountiful, I suppose.	
+mev13_020.scr:7	mev13_020.scr	7	ロイド	Lloyd Irving	personagem	CRLF x2	…そうか。\nルミナシアは、\n俺達ヒトが自然を壊しちまってる	...I see.\nHere in Luminasia, we humans\nhave ended up destroying nature.	
+mev13_020.scr:8	mev13_020.scr	8	ロイド	Lloyd Irving	personagem		産業の為に森を切り開き、戦争で川を汚す…	Clearing woods, fouling rivers with war...	
+mev13_020.scr:9	mev13_020.scr	9	ロイド	Lloyd Irving	personagem	CRLF x1	俺は…、このギルドに入るまで\n世界の問題って奴を知らなかった	Until joining this guild, I never knew\nabout all these issues in the world.	
+mev13_020.scr:10	mev13_020.scr	10	ロイド	Lloyd Irving	personagem	CRLF x1	学べる機会はあったのに…、\nやっぱ勉強って必要なんだな	Even though I had chances to learn...\nGuess studying really is necessary.	
+mev13_020.scr:11	mev13_020.scr	11	ジューダス	Judas	personagem	CRLF x1	真実を知ったのなら、\n次に行動する力が生まれる	Once you learn the truth,\nthe strength to take action is born.	
+mev13_020.scr:12	mev13_020.scr	12	ジューダス	Judas	personagem	CRLF x2	後悔か、それとも違う生き方を選ぶか。\nどちらの行動を起こすのにも\nやるべき仕事量は変わらない	Whether to regret or choose another path,\nthe amount of effort required to act\nremains the same either way.	
+mev13_020.scr:13	mev13_020.scr	13	ジューダス	Judas	personagem	CRLF x1	自分に対して、不当な意味を持たせるな。\nこの世界を変えたいのならな	Do not cast undue doubts upon yourself,\nif you truly wish to change this world.	
+mev13_020.scr:14	mev13_020.scr	14	ロイド	Lloyd Irving	personagem		お…、おう！	Y-Yeah!	
+mev13_030.scr:0	mev13_030.scr	0	ロイド	Lloyd Irving	personagem		うわっ、何だ、こいつ！	Whoa, what is this guy?!	
+mev13_030.scr:1	mev13_030.scr	1	ジューダス	Judas	personagem		先に進む為にも、倒すしかあるまい	To proceed, we must strike it down.	
+mev13_030.scr:2	mev13_030.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	わかってる。\nやるしかねえって事だろ？	I know.\nWe just gotta take it out, right?	
+mev13_030.scr:3	mev13_030.scr	3	ロイド	Lloyd Irving	personagem		じゃあ、行くぜ！	Alright, let's do this!	
+mev13_040.scr:0	mev13_040.scr	0	ロイド	Lloyd Irving	personagem	CRLF x1	ちぇっ。\nまだ、どく気ないのかよ	Tch.\nStill refusing to budge, huh?	
+mev13_040.scr:1	mev13_040.scr	1	ジューダス	Judas	personagem	CRLF x1	今度こそ道を譲ってもらう。\n行くぞ！	This time you will yield the path.\nLet's go!	
+mev13_050.scr:0	mev13_050.scr	0	ロイド	Lloyd Irving	personagem	CRLF x1	ふう。\nこの環境の中、こたえるぜ…	Phew.\nIn heat like this, it takes a toll...	
+mev13_050.scr:1	mev13_050.scr	1	ジューダス	Judas	personagem	CRLF x1	これくらいで、音を上げるな。\n先はまだ長いぞ	Do not whine over this much.\nThe road ahead is still long.	
+mev13_050.scr:2	mev13_050.scr	2	ロイド	Lloyd Irving	personagem		そういや、道を作るってのはここか？	Come to think of it, is this the spot?	
+mev13_050.scr:3	mev13_050.scr	3	ロイド	Lloyd Irving	personagem		ええと、セルシウスの涙を使うんだったな	Let's see, we use the Tears of Celsius.	
+mev13_055.scr:0	mev13_055.scr	0	ロイド	Lloyd Irving	personagem	CRLF x1	すげー！\n溶岩が固まって道になったぞ！	Awesome!\nThe lava hardened into a path!	
+mev13_055.scr:1	mev13_055.scr	1	ジューダス	Judas	personagem		よし、進むぞ	Good, let us move.	
+mev13_060.scr:0	mev13_060.scr	0	ジューダス	Judas	personagem		ここの魔物は異質だ…	The monsters here are abnormal...	
+mev13_060.scr:1	mev13_060.scr	1	ジューダス	Judas	personagem	CRLF x1	いや、この空間自体が異質、\nと言うべきか…	Or rather, this space itself\nshould be called abnormal...	
+mev13_060.scr:2	mev13_060.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	あのキバに近づいてるって\n証拠なのかな	Could it be proof\nthat we're getting closer to that Fang?	
+mev13_060.scr:3	mev13_060.scr	3	ロイド	Lloyd Irving	personagem	CRLF x1	それとも、この場所がラザリスの\n影響を受けているとか…	Or maybe this place is under\nthe influence of Lazaris...?	
+mev13_060.scr:4	mev13_060.scr	4	ジューダス	Judas	personagem	CRLF x2	あのキバを通してラザリスの世界の情報…、\nドクメントが流れ込んでいると\n言っていたな	They said data of Lazaris's world...\na Document, was pouring in\nthrough that Fang.	
+mev13_060.scr:5	mev13_060.scr	5	ジューダス	Judas	personagem		だが、何とも言えない	Still, nothing can be said for certain.	
+mev13_060.scr:6	mev13_060.scr	6	ジューダス	Judas	personagem		確証を得る為にも、先を急ぐぞ	To confirm the truth, let us make haste.	
+mev13_070.scr:0	mev13_070.scr	0	ロイド	Lloyd Irving	personagem		あの壁の色…	The color of that wall...	
+mev13_070.scr:1	mev13_070.scr	1	ロイド	Lloyd Irving	personagem		あれが、ジルディアのキバなんだな	So that is the Fang of Zirdia.	
+mev13_070.scr:2	mev13_070.scr	2	ジューダス	Judas	personagem		この風景は…	This scenery...	
+mev13_070.scr:3	mev13_070.scr	3	ロイド	Lloyd Irving	personagem		何か、夢に見そうな景色だよな	It looks like something from a dream.	
+mev13_070.scr:4	mev13_070.scr	4	ロイド	Lloyd Irving	personagem	CRLF x1	これは、ここがラザリスに\n侵食されてるって証拠なのかな…	Is this proof that this place\nis being eroded by Lazaris...?	
+mev13_070.scr:5	mev13_070.scr	5	ロイド	Lloyd Irving	personagem	CRLF x1	うん、やっぱり綺麗だな\n素直にそう思う	Yeah, it really is beautiful.\nI can say that honestly.	
+mev13_070.scr:6	mev13_070.scr	6	ロイド	Lloyd Irving	personagem		ルミナシアにはない風景…	A landscape unseen in Luminasia...	
+mev13_070.scr:7	mev13_070.scr	7	ジューダス	Judas	personagem	CRLF x2	不思議なものだな。\n確かに美しくはあるが、\n人間が生きていく世界でないとわかる	A wondrous thing.\nBeautiful though it may be, one can tell\nit is no world for humans to live in.	
+mev13_070.scr:8	mev13_070.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	ああ。\nどう表現したらいいんだろう	Yeah.\nHow should I even put it into words?	
+mev13_070.scr:9	mev13_070.scr	9	ロイド	Lloyd Irving	personagem		…命を感じない	...I feel no life in it.	
+mev13_070.scr:10	mev13_070.scr	10	ジューダス	Judas	personagem	CRLF x1	これが、ラザリスの世界。\nジルディアの風景なんだろう…	This is Lazaris's world.\nThe scenery of Zirdia, no doubt...	
+mev13_070.scr:11	mev13_070.scr	11	ロイド	Lloyd Irving	personagem	CRLF x2	ジェイドから借りた\nこのコピーズ・ロッドを\nキバにかざせばいいんだっけ？	We just hold up this Copy's Rod\nwe borrowed from Jade\nto the Fang, right?	
+mev13_070.scr:12	mev13_070.scr	12	ロイド	Lloyd Irving	personagem		これでいいのか？	Is this all it takes?	
+mev13_070.scr:13	mev13_070.scr	13	ジューダス	Judas	personagem	CRLF x1	専門知識を問うものなら、\nお前にこの仕事が任されるはずないだろう	If it required specialized expertise,\nthis task would never be left to you.	
+mev13_070.scr:14	mev13_070.scr	14	ロイド	Lloyd Irving	personagem		ちぇっ、バカにしやがって…	Tch, mock me all you want...	
+mev13_070.scr:15	mev13_070.scr	15	ロイド	Lloyd Irving	personagem		じゃ、仕事はこれで完了なんだな	Then the job is done with this, huh?	
+mev13_070.scr:16	mev13_070.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		見惚れる	Gaze in wonder	
+mev13_070.scr:17	mev13_070.scr	17	(opcao do jogador)	(opcao do jogador)	escolha		呆然とする	Stand dumbfounded	
+mev13_075.scr:0	mev13_075.scr	0	ジューダス	Judas	personagem	CRLF x1	これは？\nこの世界の風景に戻した、というのか…！？	What is this?!\nReverted to this world's scenery...?!	
+mev13_075.scr:1	mev13_075.scr	1	ロイド	Lloyd Irving	personagem	CRLF x1	○○！　おい！！\n大丈夫か！？	○○! Hey!!\nAre you all right?!	
+mev13_080.scr:0	mev13_080.scr	0	ロックス	Rocks	personagem		…やっと、気が付いたんですね	...You have finally awakened.	
+mev13_080.scr:1	mev13_080.scr	1	ロックス	Rocks	personagem	CRLF x1	ここへは三十分程前に…。\nずっと、気を失っていた状態でしたよ	You arrived here thirty minutes ago...\nYou were unconscious the entire time.	
+mev13_080.scr:2	mev13_080.scr	2	ロックス	Rocks	personagem	CRLF x2	あぁ…。\nまだ、はっきりとお目覚めでない\nご様子ですね	Ah...\nYou seem not yet fully awake,\nit appears.	
+mev13_080.scr:3	mev13_080.scr	3	ロックス	Rocks	personagem	CRLF x2	ジューダス様が、\n○○様をここまで背負って\n連れて帰ったんですよ	Lord Judas carried ○○\nupon his back all the way\nhere to bring you home.	
+mev13_080.scr:4	mev13_080.scr	4	ジューダス	Judas	personagem	CRLF x2	ディセンダーの力を使い過ぎたのか？\nお前は、ラザリスの世界の風景を\nこの世界のものに戻したんだ	Did you overuse your Descender power?\nYou reverted the scenery of her world\nback to this world's own.	
+mev13_080.scr:5	mev13_080.scr	5	ジューダス	Judas	personagem	CRLF x1	…しかし、あのキバを消すには\n力及ばなかった様だな	...However, your power was insufficient\nto make that Fang vanish.	
+mev13_080.scr:6	mev13_080.scr	6	ジューダス	Judas	personagem		そう、気を落とすな	Do not be so disheartened.	
+mev13_080.scr:7	mev13_080.scr	7	ジューダス	Judas	personagem		お前が謝る必要はない	There is no need for you to apologize.	
+mev13_080.scr:8	mev13_080.scr	8	ジューダス	Judas	personagem	CRLF x1	…別にお前を責めてなどいない。\nお前が礼を言われてもいいくらいだ	...I am by no means blaming you.\nYou deserve thanks, if anything.	
+mev13_080.scr:9	mev13_080.scr	9	アンジュ	Ange Serena	personagem	CRLF x2	そうよ。\n元々は、ヒトが星晶を採り過ぎなければ、\nこんな事にはならなかったはずだから	Indeed.\nIf humanity hadn't mined so many Star\nCrystals, this wouldn't have happened.	
+mev13_080.scr:10	mev13_080.scr	10	アンジュ	Ange Serena	personagem		ともかく、あなたが無事で良かった	At any rate, I am glad you are safe.	
+mev13_080.scr:11	mev13_080.scr	11	アンジュ	Ange Serena	personagem	CRLF x2	コピーズ・ロッドはロイド君が研究室へ\n持って行ってくれたから。\n今、解析に取り掛かってもらってる	Lloyd brought the Copy's Rod to the lab.\nThey are currently conducting\nits analysis for us.	
+mev13_080.scr:12	mev13_080.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	今回もご苦労様。\nたまにはゆっくり休んでね	Thank you for your hard work.\nPlease get some well-deserved rest.	
+mev13_080.scr:13	mev13_080.scr	13	(opcao do jogador)	(opcao do jogador)	escolha		いつの間に戻ったのか、聞く	Ask when you were brought back	
+mev13_080.scr:14	mev13_080.scr	14	(opcao do jogador)	(opcao do jogador)	escolha		ぼーっとする	Space out	
+mev13_080.scr:15	mev13_080.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		うつむく	Hang your head	
+mev13_080.scr:16	mev13_080.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		謝る	Apologize	
+mev13_090.scr:0	mev13_090.scr	0	ロックス	Rocks	personagem		アンジュ様、お手紙が届いてますよ	Lady Ange, a letter has arrived.	
+mev13_090.scr:1	mev13_090.scr	1	アンジュ	Ange Serena	personagem		ありがとう、ロックス	Thank you, Rocks.	
+mev13_090.scr:2	mev13_090.scr	2	アンジュ	Ange Serena	personagem		このハンコは、オルタ・ビレッジからね	This seal is from Alta Village.	
+mev13_090.scr:3	mev13_090.scr	3	ロックス	Rocks	personagem	CRLF x2	ヘーゼル村の皆さんや、ここにいる皆さんの\n故郷の方々も集まって、もうそろそろ\n一つの村らしくなっているんじゃないですか？	Folks from Hazel Village and homelands\nof all here gathered; shouldn't it look\nlike a proper village by now?	
+mev13_090.scr:4	mev13_090.scr	4	アンジュ	Ange Serena	personagem		まぁ……	Oh dear......	
+mev13_090.scr:5	mev13_090.scr	5	ロックス	Rocks	personagem	CRLF x1	どうかしました？\n何か、良くない事でも…	Is something wrong?\nSomething bad, perhaps...?	
+mev13_090.scr:6	mev13_090.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	色んな所から人々が集まっているせいか、\n文化や価値観の違いで\n衝突が起きているみたい	Perhaps because people gathered from afar,\nclashes seem to be occurring over\ndifferences in cultures and values.	
+mev13_090.scr:7	mev13_090.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	それぞれのやり方を、みんな\n譲ろうとしないらしくて…	It seems neither side is willing\nto compromise their own ways...	
+mev13_090.scr:8	mev13_090.scr	8	アンジュ	Ange Serena	personagem		やっぱり…、難しいものね	As expected... it is truly difficult.	
+mev13_090.scr:9	mev13_090.scr	9	ロックス	Rocks	personagem	CRLF x1	けれども…、皆さん一人ひとりは\nいい人なんですから	However... each and every one of them\nis a good person at heart.	
+mev13_090.scr:10	mev13_090.scr	10	ロックス	Rocks	personagem	CRLF x2	それぞれ、よかれと思って\n自分達のやり方を提案して\nくれてるんですよ	They are proposing their own ways\nwith the best of intentions,\nafter all.	
+mev13_090.scr:11	mev13_090.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	でも、どうすればいいの。\nみんなが一つにまとまる様にするには…	Still, what should we do\nto unite everyone as one...?	
+mev13_090.scr:12	mev13_090.scr	12	ロックス	Rocks	personagem	CRLF x2	そうですね…。\n種族や文化の違いは、押し付けるのではなく\n分かち合うべきだと思うんです	Indeed...\nDifferences in race and culture shouldn't\nbe imposed, but shared with one another.	
+mev13_090.scr:13	mev13_090.scr	13	ロックス	Rocks	personagem	CRLF x2	そうする事で、「お互いが自らの価値観を\n変える事が出来ると認識」出来るんじゃ\nないでしょうか	By doing so, won't both sides recognize\nthat they each have the power\nto reshape their own perspectives?	
+mev13_090.scr:14	mev13_090.scr	14	ロックス	Rocks	personagem	CRLF x2	時間が必要かもしれませんが、\nこの、分かち合ってみると言う事を\n「提案」してみてはどうでしょう	It might require time, but how about\nproposing that they try sharing\nwith one another?	
+mev13_090.scr:15	mev13_090.scr	15	アンジュ	Ange Serena	personagem	CRLF x1	ええ。\nやってみるわ	Yes.\nI shall give that a try.	
+mev13_090.scr:16	mev13_090.scr	16	ロックス	Rocks	personagem	CRLF x2	ただ、ノーと言うんじゃなくて、\nこっちの方もどう、こんなのもあると\n選択肢を増やして、肯定の力で導くというか…	Rather than saying no, offer options,\nlike 'how about this too,' guiding them\nthrough the power of affirmation...	
+mev13_090.scr:17	mev13_090.scr	17	アンジュ	Ange Serena	personagem		そうね	Indeed.	
+mev13_090.scr:18	mev13_090.scr	18	アンジュ	Ange Serena	personagem	CRLF x2	自分自身の事をダメだと思ってても、\n人って色々やってるうちに「自分にこんな\n力があったんだ」と気付けるものね	Even if people think poorly of themselves,\ntrying things helps them realize:\n'I actually had such power in me.'	
+mev13_090.scr:19	mev13_090.scr	19	ロックス	Rocks	personagem	CRLF x2	その…、アンジュ様。\n一人で抱え込まないで下さい。\n僕に出来る事なんて、たかが知れてますけど…	Um... Lady Ange.\nPlease don't carry it all alone.\nThough what I can do is so very modest...	
+mev13_090.scr:20	mev13_090.scr	20	アンジュ	Ange Serena	personagem	CRLF x2	あなたも、もっと自信を持ちなさい。\nあなたがわたしの教会に来てくれなかったら、\nきっとアドリビトムは無かったよ	You should have more confidence as well.\nIf you hadn't come to my church back then,\nAd Libitum wouldn't exist at all.	
+mev13_090.scr:21	mev13_090.scr	21	アンジュ	Ange Serena	personagem	CRLF x2	あなたが提案してくれて、\n色々奔走してくれたから\nアドリビトムが誕生したんだし	Because you proposed it and ran around\nmaking arrangements everywhere,\nAd Libitum was born in the first place.	
+mev13_090.scr:22	mev13_090.scr	22	ロックス	Rocks	personagem	CRLF x2	あ、いや、それは…。\n提案した以上は、\n僕がやらなくてはダメかなと思って…	Ah, well, that is...\nHaving made the proposal, I figured\nI was obliged to follow through...	
+mev13_090.scr:23	mev13_090.scr	23	アンジュ	Ange Serena	personagem	CRLF x1	もう、あなたに全部任せて\nわたしは隠居してもいいかなー	Maybe I should leave everything to you\nand just go into retirement!	
+mev13_090.scr:24	mev13_090.scr	24	ロックス	Rocks	personagem		そ、それは困りますってば！！	Th-That would truly put me in a bind!!	
+mev13_090.scr:25	mev13_090.scr	25	アンジュ	Ange Serena	personagem	CRLF x1	おだてには乗らないかぁ。\n残念だなあ…	Flattery won't win you over, huh?\nWhat a pity...	
+mev13_090.scr:26	mev13_090.scr	26	ロックス	Rocks	personagem		（うう、また丸め込まれる所だった…）	(Ooh, I was nearly sweet-talked again...)	
+mev13_090.scr:27	mev13_090.scr	27	ロックス	Rocks	personagem	CRLF x2	（家事だけって約束のはずが、\n　ほとんど任されてきたもんなぁ。\n　トホホ…）	(I only promised to handle chores,\nyet almost everything got dumped on me.\nGood grief...)	
+mev13_100.scr:0	mev13_100.scr	0	ジェイド	Jade Curtiss	personagem		採取したドクメントの解析が終わりました	The analysis of the Document is complete.	
+mev13_100.scr:1	mev13_100.scr	1	ジェイド	Jade Curtiss	personagem	CRLF x2	以前、ジュディスの報告にあった様に、あの\nキバは、ラザリスの世界の情報をルミナシアに\n送り込むパイプになっている様です	As in Judith's report, that Fang serves\nas a conduit piping data of Lazaris's\nworld into Luminasia.	
+mev13_100.scr:2	mev13_100.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	ニアタ、という方からの情報は正しかった。\nそういう事ね	The information from Niata was accurate.\nThat's what this means, yes?	
+mev13_100.scr:3	mev13_100.scr	3	ジェイド	Jade Curtiss	personagem		そう判断してもいいでしょう	We may safely conclude as much.	
+mev13_100.scr:4	mev13_100.scr	4	ジェイド	Jade Curtiss	personagem	CRLF x1	あのキバの周辺から、\n徐々に世界の侵食が進んでいる	Starting around that Fang,\nthe erosion of the world is spreading.	
+mev13_100.scr:5	mev13_100.scr	5	ジェイド	Jade Curtiss	personagem	CRLF x2	キバを含め、あれらのものは、\nこの世界を構成している何ものにも\n該当しない	The Fang and those phenomena correspond\nto nothing that constitutes\nthis world of ours.	
+mev13_100.scr:6	mev13_100.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x2	○○が侵食を戻す能力を\n持っていたとしても、\n限界があるでしょう	Even if ○○ possesses the ability\nto reverse that erosion,\nthere surely is a limit.	
+mev13_100.scr:7	mev13_100.scr	7	ジェイド	Jade Curtiss	personagem		侵食はキバがある限り続きますから	Erosion continues while the Fang remains.	
+mev13_100.scr:8	mev13_100.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	根本から解決するには、\n封印次元を早急に作り上げる事ね	To resolve this fundamentally, we must\nforge the Sealing Dimension promptly.	
+mev13_100.scr:9	mev13_100.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	…でも、その為には星晶の代わりを\n作らないと…	...Yet for that, we must create\nsubstitutes for Star Crystals...	
+mev13_100.scr:10	mev13_100.scr	10	アンジュ	Ange Serena	personagem	CRLF x2	必要なものはあと二つ。\n両方とも絶滅してしまって、もうこの世界には\n存在しないんだったよね…	We still need two more things.\nBoth went extinct, so they no longer\nexist in this world, right...?	
+mev13_100.scr:11	mev13_100.scr	11	ウィル	Will Raynard	personagem	CRLF x1	ウズマキフスベは２０年前に絶滅した、\nと言われている	The Whirl Puffball is said to have gone\nextinct twenty years ago.	
+mev13_100.scr:12	mev13_100.scr	12	ウィル	Will Raynard	personagem		だが、発見出来る可能性はあるだろう	Yet the chance of finding it remains.	
+mev13_100.scr:13	mev13_100.scr	13	ウィル	Will Raynard	personagem	CRLF x2	絶滅したのは、たった２０年前。\nさらに言えば、生態や分布も\nわかっているからな	It went extinct merely twenty years ago.\nFurthermore, its ecology and habitat\nare already known.	
+mev13_100.scr:14	mev13_100.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	じゃあ、そのウズマキフスベは\nまだ見つかるかもしれないのね	Then that Whirl Puffball\nmight still be found after all!	
+mev13_100.scr:15	mev13_100.scr	15	ウィル	Will Raynard	personagem	CRLF x2	ああ。\nしかし、ウズマキフスベが生息する季節は\n限られていて、今はその季節ではない	Yes.\nHowever, the seasons the Whirl Puffball\ngrows are limited, and now is not one.	
+mev13_100.scr:16	mev13_100.scr	16	ウィル	Will Raynard	personagem	CRLF x2	ツリガネトンボ草の方は、\nもっと古くに絶滅していて\n化石なら入手出来るのだが…	As for the Bell Dragonfly Herb, it went\nextinct far earlier; only fossils\ncan still be acquired, but...	
+mev13_100.scr:17	mev13_100.scr	17	ジェイド	Jade Curtiss	personagem	CRLF x2	ふむ。\n化石にでも、わずかにドクメントがあるなら\n採取する価値はありますね	Hmm.\nEven from a fossil, if a Document\nremains, it is worth gathering.	
+mev13_100.scr:18	mev13_100.scr	18	ウィル	Will Raynard	personagem	CRLF x1	それならば、オレが場所を知っている。\n採取を依頼として届けさせてくれ	If so, I know the location.\nAllow me to submit a gathering request.	
+mev13_100.scr:19	mev13_100.scr	19	アンジュ	Ange Serena	personagem		ええ、もちろんよ	Yes, of course!	

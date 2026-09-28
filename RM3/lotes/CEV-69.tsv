@@ -1,0 +1,183 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev69_010.scr:0	cev69_010.scr	0	フレン	Flynn Scifo	personagem		おはようございます、ルーク様		
+cev69_010.scr:1	cev69_010.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x1	ん？　\nあ〜、はいはい		
+cev69_010.scr:2	cev69_010.scr	2	ルーク	Luke fon Fabre	personagem		おい、お前！		
+cev69_010.scr:3	cev69_010.scr	3	フレン	Flynn Scifo	personagem	CRLF x1	はい！　\n何でしょうか？		
+cev69_010.scr:4	cev69_010.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x1	えーと。\n名前なんつったっけ……？		
+cev69_010.scr:5	cev69_010.scr	5	フレン	Flynn Scifo	personagem	CRLF x1	はい、ガルバンゾ国騎士団隊長\nフレン・シーフォと申します		
+cev69_010.scr:6	cev69_010.scr	6	ルーク	Luke fon Fabre	personagem	CRLF x1	フレン……。\nフレンな、よし覚えた		
+cev69_010.scr:7	cev69_010.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x1	なぁフレン、ちょっと頼みがあるんだ。\n聞いてくれるか？		
+cev69_010.scr:8	cev69_010.scr	8	フレン	Flynn Scifo	personagem		はい、私でお力になれる事でしたら		
+cev69_010.scr:9	cev69_010.scr	9	ルーク	Luke fon Fabre	personagem	CRLF x1	したらさ、ちょっと暇潰しに\n模型でも買ってきてくれよ		
+cev69_010.scr:10	cev69_010.scr	10	フレン	Flynn Scifo	personagem		も、模型ですか？		
+cev69_010.scr:11	cev69_010.scr	11	ルーク	Luke fon Fabre	personagem	CRLF x2	そーだよ！　模型だよ、も・け・い！！\nこ〜んなクソ狭い船の中にいて\n他にやる事ねーっての		
+cev69_010.scr:12	cev69_010.scr	12	フレン	Flynn Scifo	personagem	CRLF x1	で、ですが、船内には\nその様な売り物は……		
+cev69_010.scr:13	cev69_010.scr	13	ルーク	Luke fon Fabre	personagem	CRLF x1	だー、うるせぇっての！\n俺は今、暇なんだよ、ヒ・マ！！		
+cev69_010.scr:14	cev69_010.scr	14	ルーク	Luke fon Fabre	personagem	CRLF x1	わかったら、さっさと買って来いよ。\nじゃーな！！		
+cev69_010.scr:15	cev69_010.scr	15	エステル	Estelle	personagem	CRLF x1	あ、フレン！\nどうしたんです、真剣な顔をして？		
+cev69_010.scr:16	cev69_010.scr	16	フレン	Flynn Scifo	personagem	CRLF x1	あ……、エステリーゼ様！\nおはようございます		
+cev69_010.scr:17	cev69_010.scr	17	フレン	Flynn Scifo	personagem		何でもありませんので、大丈夫です		
+cev69_010.scr:18	cev69_010.scr	18	エステル	Estelle	personagem		そうなんです？		
+cev69_010.scr:19	cev69_010.scr	19	エステル	Estelle	personagem	CRLF x2	でしたら、フレン、少しお話しませんか？\nわたし、昨日、面白い夢を見たんです。\nうふふ		
+cev69_010.scr:20	cev69_010.scr	20	ルーク	Luke fon Fabre	personagem	CRLF x1	おい、フレン！\nまだかよ、さっさとしろよ！！		
+cev69_010.scr:21	cev69_010.scr	21	フレン	Flynn Scifo	personagem	CRLF x1	は、はい！\nもう少々お待ち下さい！！		
+cev69_010.scr:22	cev69_010.scr	22	エステル	Estelle	personagem	CRLF x1	それで、その時\nとっても面白い事が起きたんです		
+cev69_010.scr:23	cev69_010.scr	23	エステル	Estelle	personagem	CRLF x1	何と、フレンがユーリの服を\n間違えて着て……		
+cev69_010.scr:24	cev69_010.scr	24	ルーク	Luke fon Fabre	personagem		フレーン！		
+cev69_010.scr:25	cev69_010.scr	25	フレン	Flynn Scifo	personagem	CRLF x1	は、はぃ……。\nあ、あぁ……		
+cev69_010.scr:26	cev69_010.scr	26	ユーリ	Yuri Lowell	personagem	CRLF x1	はは、相変わらず\nお盛んだな、フレンは		
+cev69_020.scr:0	cev69_020.scr	0	フレン	Flynn Scifo	personagem		ナタリア様……編み物ですか？		
+cev69_020.scr:1	cev69_020.scr	1	フレン	Flynn Scifo	personagem	CRLF x1	素敵ですね。\n何を編まれているんですか？		
+cev69_020.scr:2	cev69_020.scr	2	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		……あら、フレン		
+cev69_020.scr:3	cev69_020.scr	3	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		でも、まだ上手くありませんのよ		
+cev69_020.scr:4	cev69_020.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	「聖なる夜」で使う靴下にと\n考えているのですけれど……		
+cev69_020.scr:5	cev69_020.scr	5	フレン	Flynn Scifo	personagem		「聖なる夜」ですか？		
+cev69_020.scr:6	cev69_020.scr	6	フレン	Flynn Scifo	personagem	CRLF x2	それはいいアイデアです。\nきっと盛り上がりますし、\n子ども達も喜びます		
+cev69_020.scr:7	cev69_020.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	そうでしょう？\nただ、私、心配な事がありますの		
+cev69_020.scr:8	cev69_020.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	その……。\n白ひげのおじいさんというのは、\nどうすれば来て下さいますの？		
+cev69_020.scr:9	cev69_020.scr	9	フレン	Flynn Scifo	personagem		……それは……		
+cev69_020.scr:10	cev69_020.scr	10	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	聞けば、全ての子どもにプレゼントを\n運ぶわけではないのだとか		
+cev69_020.scr:11	cev69_020.scr	11	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	では、どうすれば確実に\nこの船にも呼ぶ事が出来るのか……。\nその方法が思い浮かばないのです		
+cev69_020.scr:12	cev69_020.scr	12	フレン	Flynn Scifo	personagem	CRLF x1	そ、そう……ですね……。\nそれは、難しい問題です……		
+cev69_020.scr:13	cev69_020.scr	13	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	フレンは、下町の出身だと聞きました。\n子どもの頃はどうしていたのですか？		
+cev69_020.scr:14	cev69_020.scr	14	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	白ひげのおじいさんには、\n会った事が……？		
+cev69_020.scr:15	cev69_020.scr	15	フレン	Flynn Scifo	personagem	CRLF x1	あ……。\nえ……ええと……		
+cev69_020.scr:16	cev69_020.scr	16	フレン	Flynn Scifo	personagem	CRLF x2	（どうする……？\n　思い切って架空の人物だと\n　お伝えするか？）		
+cev69_020.scr:17	cev69_020.scr	17	フレン	Flynn Scifo	personagem	CRLF x2	（いや、しかしそれでは\n　ナタリア様のお考えを\n　否定してしまう事に……！）		
+cev69_020.scr:18	cev69_020.scr	18	アスベル	Asbel Lhant	personagem		（フレン隊長……頑張って下さい……！）		
+cev69_030.scr:0	cev69_030.scr	0	アーチェ	Arche Klein	personagem	CRLF x1	あー、フレン！\nねーねー、今ヒマでしょ？		
+cev69_030.scr:1	cev69_030.scr	1	フレン	Flynn Scifo	personagem	CRLF x1	特別、暇というわけでは\nありませんが……		
+cev69_030.scr:2	cev69_030.scr	2	フレン	Flynn Scifo	personagem	CRLF x2	剣の稽古でしたら、\n一区切りついたところですよ。\nどうかしましたか？		
+cev69_030.scr:3	cev69_030.scr	3	アーチェ	Arche Klein	personagem	CRLF x1	ふ〜ん、なるほどね。\nんじゃ、ちょうどいいや！		
+cev69_030.scr:4	cev69_030.scr	4	アーチェ	Arche Klein	personagem		ね、心理テストやってみない？		
+cev69_030.scr:5	cev69_030.scr	5	フレン	Flynn Scifo	personagem	CRLF x1	心理テスト、ですか？\n僕で良ければ、どうぞ		
+cev69_030.scr:6	cev69_030.scr	6	アーチェ	Arche Klein	personagem		そう来なくっちゃ！		
+cev69_030.scr:7	cev69_030.scr	7	アーチェ	Arche Klein	personagem	CRLF x2	はい、じゃじゃ〜ん！\nアーチェさんの指、\nどれでも好きなのを握ってみて！		
+cev69_030.scr:8	cev69_030.scr	8	フレン	Flynn Scifo	personagem		指を握る……、ですか？		
+cev69_030.scr:9	cev69_030.scr	9	アーチェ	Arche Klein	personagem	CRLF x1	うん、そうだよ。\nほらほら、遠慮しないで∀		
+cev69_030.scr:10	cev69_030.scr	10	フレン	Flynn Scifo	personagem		わかりました		
+cev69_030.scr:11	cev69_030.scr	11	フレン	Flynn Scifo	personagem	CRLF x1	ただ、剣の稽古で汗をかいているので\n手を洗って来ますからお待ち下さい		
+cev69_030.scr:12	cev69_030.scr	12	アーチェ	Arche Klein	personagem		あ、ちょちょ、ちょっと〜〜〜！		
+cev69_030.scr:13	cev69_030.scr	13	アーチェ	Arche Klein	personagem		もう、律儀過ぎだっての……		
+cev69_040.scr:0	cev69_040.scr	0	しいな	Sheena Fujibayashi	personagem	CRLF x1	全く、あのアホ男どもは\n何度注意しても直りゃしないよ！		
+cev69_040.scr:1	cev69_040.scr	1	ナナリー	Nanaly Fletch	personagem	CRLF x1	そうだね……これは一度\nガツンと言ってやらないと……		
+cev69_040.scr:2	cev69_040.scr	2	フレン	Flynn Scifo	personagem	CRLF x1	どうしたんだい？\n穏やかじゃない雰囲気だね		
+cev69_040.scr:3	cev69_040.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x1	ああフレン、聞いておくれよ。\n実はかくかくしかじかで……		
+cev69_040.scr:4	cev69_040.scr	4	フレン	Flynn Scifo	personagem	CRLF x1	うん……なるほど。\n船内でナンパが横行……ね		
+cev69_040.scr:5	cev69_040.scr	5	ナナリー	Nanaly Fletch	personagem	CRLF x2	あんた、騎士隊長なんだろ？\n船内の治安を守ると思って、\n何かいい知恵を出してもらえないかい		
+cev69_040.scr:6	cev69_040.scr	6	フレン	Flynn Scifo	personagem		うーん……そうだね……		
+cev69_040.scr:7	cev69_040.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x1	とにかく、一部のアホ男達のおかげで\nこっちはおちおち風呂にも入れやしない		
+cev69_040.scr:8	cev69_040.scr	8	ナナリー	Nanaly Fletch	personagem	CRLF x1	ああ、そういえばこの間\n女湯で覗きがあったんだって？		
+cev69_040.scr:9	cev69_040.scr	9	しいな	Sheena Fujibayashi	personagem	CRLF x2	ああ。\nどこのどいつがやったのかは\n知らないけどね		
+cev69_040.scr:10	cev69_040.scr	10	フレン	Flynn Scifo	personagem	CRLF x1	覗き？\nそれは確かなのかい？		
+cev69_040.scr:11	cev69_040.scr	11	しいな	Sheena Fujibayashi	personagem	CRLF x2	もちろんさ。\n結局犯人は取り逃がしちまったけど\n次に見つけたらタダじゃおかないよ！		
+cev69_040.scr:12	cev69_040.scr	12	フレン	Flynn Scifo	personagem	CRLF x2	……事情はよくわかったよ。\n確かにそれが事実なら、\n看過する事は出来ないな		
+cev69_040.scr:13	cev69_040.scr	13	フレン	Flynn Scifo	personagem	CRLF x2	覗きは犯罪だ。\n罪を犯した人間を\n野放しにはしておけない……		
+cev69_040.scr:14	cev69_040.scr	14	ナナリー	Nanaly Fletch	personagem		じゃあ……		
+cev69_040.scr:15	cev69_040.scr	15	フレン	Flynn Scifo	personagem	CRLF x2	ああ。\n近々、アスベルと協力して\n船内を巡回してみよう		
+cev69_040.scr:16	cev69_040.scr	16	フレン	Flynn Scifo	personagem	CRLF x1	まずは、事実関係を\nはっきりさせなくてはね		
+cev69_050.scr:0	cev69_050.scr	0	アスベル	Asbel Lhant	personagem		…………		
+cev69_050.scr:1	cev69_050.scr	1	フレン	Flynn Scifo	personagem	CRLF x1	どうしたんだい？　アスベル。\n今日は元気がないね		
+cev69_050.scr:2	cev69_050.scr	2	アスベル	Asbel Lhant	personagem	CRLF x2	……フレン隊長。\n俺は、このギルドへ来て\n自分がわからなくなりました		
+cev69_050.scr:3	cev69_050.scr	3	フレン	Flynn Scifo	personagem	CRLF x1	わからない？　\nそれは、どうして？		
+cev69_050.scr:4	cev69_050.scr	4	アスベル	Asbel Lhant	personagem	CRLF x2	大切なものを守る為には\n強くなければならないと思ってました。\nでも、強さは必ずしも、力ではない……		
+cev69_050.scr:5	cev69_050.scr	5	フレン	Flynn Scifo	personagem		うん……そうだね		
+cev69_050.scr:6	cev69_050.scr	6	アスベル	Asbel Lhant	personagem	CRLF x1	俺、色々な事を知らなさ過ぎたなって\n自分が情けなくなって……		
+cev69_050.scr:7	cev69_050.scr	7	フレン	Flynn Scifo	personagem	CRLF x2	自分を恥じる事はないよ、アスベル。\n過去のものであっても、その信念は\n確かに君の真実だったはずだ		
+cev69_050.scr:8	cev69_050.scr	8	アスベル	Asbel Lhant	personagem		俺の、真実？		
+cev69_050.scr:9	cev69_050.scr	9	フレン	Flynn Scifo	personagem	CRLF x2	人は変わっていく。　考えも、生き方も。\nけれど、だからといってそれまでの信念が\n「間違いだった」という事にはならないさ		
+cev69_050.scr:10	cev69_050.scr	10	アスベル	Asbel Lhant	personagem		そうなんでしょうか……		
+cev69_050.scr:11	cev69_050.scr	11	フレン	Flynn Scifo	personagem	CRLF x2	そうだよ。\nその瞬間、君は君に正直に生きてた。\nその事実まで否定しちゃいけない		
+cev69_050.scr:12	cev69_050.scr	12	アスベル	Asbel Lhant	personagem		フレン隊長……		
+cev69_050.scr:13	cev69_050.scr	13	フレン	Flynn Scifo	personagem	CRLF x2	そう……。\nそんな否定からは、何も生まれないんだ。\nきっと……		
+cev69_060.scr:0	cev69_060.scr	0	フレン	Flynn Scifo	personagem		ウ……		
+cev69_060.scr:1	cev69_060.scr	1	フレン	Flynn Scifo	personagem		ウッドロウ……		
+cev69_060.scr:2	cev69_060.scr	2	フレン	Flynn Scifo	personagem		…………様		
+cev69_060.scr:3	cev69_060.scr	3	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	……フレン君。\n私の事は、呼び捨てて構わないと\n言ったはずだが……		
+cev69_060.scr:4	cev69_060.scr	4	フレン	Flynn Scifo	personagem		申し訳ありません……		
+cev69_070.scr:0	cev69_070.scr	0	アスベル	Asbel Lhant	personagem		あの……フレン隊長！		
+cev69_070.scr:1	cev69_070.scr	1	アスベル	Asbel Lhant	personagem	CRLF x2	エステリーゼ様の件……、\n申し訳ありませんでした。\n俺の力不足で……		
+cev69_070.scr:2	cev69_070.scr	2	フレン	Flynn Scifo	personagem	CRLF x2	いいんだ。\nエステリーゼ様が\nご自身で決められた事だよ		
+cev69_070.scr:3	cev69_070.scr	3	アスベル	Asbel Lhant	personagem	CRLF x2	でも、隊長は俺に\nエステリーゼ様を連れ戻すまで\n国へ帰るなと……		
+cev69_070.scr:4	cev69_070.scr	4	フレン	Flynn Scifo	personagem		ああ、あれは……		
+cev69_070.scr:5	cev69_070.scr	5	フレン	Flynn Scifo	personagem	CRLF x1	すまない……。\n実は、君を試させてもらった		
+cev69_070.scr:6	cev69_070.scr	6	アスベル	Asbel Lhant	personagem		試す？		
+cev69_070.scr:7	cev69_070.scr	7	フレン	Flynn Scifo	personagem	CRLF x2	君の様な実直な人間には、\nあえて大きな試練を課した方が\n伸びると、ある方から助言を受けてね		
+cev69_070.scr:8	cev69_070.scr	8	アスベル	Asbel Lhant	personagem		では……		
+cev69_070.scr:9	cev69_070.scr	9	フレン	Flynn Scifo	personagem	CRLF x2	そういう事だ。\n騙す様な形になってしまい\nすまなかった		
+cev69_070.scr:10	cev69_070.scr	10	アスベル	Asbel Lhant	personagem	CRLF x1	……一つ、いいですか？\nその、助言をされた方というのは……		
+cev69_070.scr:11	cev69_070.scr	11	フレン	Flynn Scifo	personagem	CRLF x2	私が、騎士団で尊敬している人物だよ。\n部下はもちろん、団長からも\n篤く信を置かれている		
+cev69_070.scr:12	cev69_070.scr	12	フレン	Flynn Scifo	personagem	CRLF x1	直属の部下ではない君の事も\n気に掛けて下さっている様だ		
+cev69_070.scr:13	cev69_070.scr	13	アスベル	Asbel Lhant	personagem		……そんな方が……		
+cev69_070.scr:14	cev69_070.scr	14	フレン	Flynn Scifo	personagem	CRLF x2	とはいえ、\n気苦労を掛けてしまった事、\n申し訳なく思っているよ		
+cev69_070.scr:15	cev69_070.scr	15	アスベル	Asbel Lhant	personagem		そんな……とんでもないです		
+cev69_070.scr:16	cev69_070.scr	16	アスベル	Asbel Lhant	personagem	CRLF x1	俺は、フレン隊長の部下で\n本当に良かったと思っているんです		
+cev69_070.scr:17	cev69_070.scr	17	アスベル	Asbel Lhant	personagem		隊長は、俺の目標です		
+cev69_070.scr:18	cev69_070.scr	18	フレン	Flynn Scifo	personagem	CRLF x1	そんな出来た人間ではないが……。\nありがとう、アスベル		
+cev69_070.scr:19	cev69_070.scr	19	フレン	Flynn Scifo	personagem		これからも、よろしく頼む		
+cev69_070.scr:20	cev69_070.scr	20	アスベル	Asbel Lhant	personagem		はい！		
+cev69_080.scr:0	cev69_080.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	（おい、おっさん……\n　本当に大丈夫なんだろうな？）		
+cev69_080.scr:1	cev69_080.scr	1	レイヴン	Raven	personagem	CRLF x2	（もちろんよ〜！\n　女湯の中からは死角になる、\n　抜群のスポットがあるのよ！！）		
+cev69_080.scr:2	cev69_080.scr	2	レイヴン	Raven	personagem		（おっさんに任せなさいって！）		
+cev69_080.scr:3	cev69_080.scr	3	チェスター	Chester Barklight	personagem	CRLF x1	（それが本当なら、\n　すげえ美味しい話だぜ……）		
+cev69_080.scr:4	cev69_080.scr	4	チェスター	Chester Barklight	personagem		（おっさん、あんた、男の中の男だな！）		
+cev69_080.scr:5	cev69_080.scr	5	レイヴン	Raven	personagem	CRLF x1	（よしてよ青年！\n　照れちゃうじゃない∀）		
+cev69_080.scr:6	cev69_080.scr	6	フレン	Flynn Scifo	personagem	CRLF x1	お二人とも、\nどちらへ行かれるんですか？		
+cev69_080.scr:7	cev69_080.scr	7	レイヴン	Raven	personagem	CRLF x1	べ……別に、ちょっとヤボ用で……。\nね、青年？		
+cev69_080.scr:8	cev69_080.scr	8	チェスター	Chester Barklight	personagem		お、おう……		
+cev69_080.scr:9	cev69_080.scr	9	フレン	Flynn Scifo	personagem		どちらへ行かれるんですか？		
+cev69_080.scr:10	cev69_080.scr	10	フレン	Flynn Scifo	personagem		……この先は女湯ですが？		
+cev69_080.scr:11	cev69_080.scr	11	レイヴン	Raven	personagem	CRLF x1	もう、や〜ねぇ〜〜。\nただ散歩してるだけよ……		
+cev69_080.scr:12	cev69_080.scr	12	チェスター	Chester Barklight	personagem		そ、そうそう……		
+cev69_080.scr:13	cev69_080.scr	13	フレン	Flynn Scifo	personagem	CRLF x1	そうですか……。\nわかっているとは思いますが		
+cev69_080.scr:14	cev69_080.scr	14	フレン	Flynn Scifo	personagem		……覗きは犯罪です		
+cev69_080.scr:15	cev69_080.scr	15	レイヴン	Raven	personagem	CRLF x1	だ、だから……、\n散歩だって……言ってるじゃない……		
+cev69_080.scr:16	cev69_080.scr	16	フレン	Flynn Scifo	personagem	CRLF x1	ええ、そうですね。\nもちろん、疑ってなどいませんよ		
+cev69_200.scr:0	cev69_200.scr	0	フレン	Flynn Scifo	personagem	CRLF x1	通常。\n		
+cev69_200.scr:1	cev69_200.scr	1	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:2	cev69_200.scr	2	フレン	Flynn Scifo	personagem	CRLF x1	笑い。\n		
+cev69_200.scr:3	cev69_200.scr	3	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:4	cev69_200.scr	4	フレン	Flynn Scifo	personagem	CRLF x1	怒り。\n		
+cev69_200.scr:5	cev69_200.scr	5	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:6	cev69_200.scr	6	フレン	Flynn Scifo	personagem	CRLF x1	悲しみ。\n		
+cev69_200.scr:7	cev69_200.scr	7	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:8	cev69_200.scr	8	フレン	Flynn Scifo	personagem	CRLF x1	照れ。\n		
+cev69_200.scr:9	cev69_200.scr	9	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:10	cev69_200.scr	10	フレン	Flynn Scifo	personagem	CRLF x1	驚き。\n		
+cev69_200.scr:11	cev69_200.scr	11	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:12	cev69_200.scr	12	フレン	Flynn Scifo	personagem	CRLF x1	大笑い。\n		
+cev69_200.scr:13	cev69_200.scr	13	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:14	cev69_200.scr	14	フレン	Flynn Scifo	personagem	CRLF x1	怒り２。\n		
+cev69_200.scr:15	cev69_200.scr	15	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:16	cev69_200.scr	16	フレン	Flynn Scifo	personagem	CRLF x1	通常。\n		
+cev69_200.scr:17	cev69_200.scr	17	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:18	cev69_200.scr	18	フレン	Flynn Scifo	personagem	CRLF x1	笑い。\n		
+cev69_200.scr:19	cev69_200.scr	19	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:20	cev69_200.scr	20	フレン	Flynn Scifo	personagem	CRLF x1	怒り。\n		
+cev69_200.scr:21	cev69_200.scr	21	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:22	cev69_200.scr	22	フレン	Flynn Scifo	personagem	CRLF x1	悲しみ。\n		
+cev69_200.scr:23	cev69_200.scr	23	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:24	cev69_200.scr	24	フレン	Flynn Scifo	personagem	CRLF x1	照れ。\n		
+cev69_200.scr:25	cev69_200.scr	25	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:26	cev69_200.scr	26	フレン	Flynn Scifo	personagem	CRLF x1	驚き。\n		
+cev69_200.scr:27	cev69_200.scr	27	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:28	cev69_200.scr	28	フレン	Flynn Scifo	personagem	CRLF x1	大笑い。\n		
+cev69_200.scr:29	cev69_200.scr	29	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:30	cev69_200.scr	30	フレン	Flynn Scifo	personagem	CRLF x1	怒り２。\n		
+cev69_200.scr:31	cev69_200.scr	31	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:32	cev69_200.scr	32	フレン	Flynn Scifo	personagem	CRLF x1	通常。\n		
+cev69_200.scr:33	cev69_200.scr	33	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:34	cev69_200.scr	34	フレン	Flynn Scifo	personagem	CRLF x1	笑い。\n		
+cev69_200.scr:35	cev69_200.scr	35	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:36	cev69_200.scr	36	フレン	Flynn Scifo	personagem	CRLF x1	怒り。\n		
+cev69_200.scr:37	cev69_200.scr	37	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:38	cev69_200.scr	38	フレン	Flynn Scifo	personagem	CRLF x1	悲しみ。\n		
+cev69_200.scr:39	cev69_200.scr	39	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:40	cev69_200.scr	40	フレン	Flynn Scifo	personagem	CRLF x1	照れ。\n		
+cev69_200.scr:41	cev69_200.scr	41	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:42	cev69_200.scr	42	フレン	Flynn Scifo	personagem	CRLF x1	驚き。\n		
+cev69_200.scr:43	cev69_200.scr	43	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:44	cev69_200.scr	44	フレン	Flynn Scifo	personagem	CRLF x1	大笑い。\n		
+cev69_200.scr:45	cev69_200.scr	45	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev69_200.scr:46	cev69_200.scr	46	フレン	Flynn Scifo	personagem	CRLF x1	怒り２。\n		
+cev69_200.scr:47	cev69_200.scr	47	フレン	Flynn Scifo	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

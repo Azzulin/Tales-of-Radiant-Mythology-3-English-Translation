@@ -1,0 +1,87 @@
+30|Welcome to the world of\nTales of the World: Radiant Mythology 3!|serie|revisar|titulo da serie em ingles oficial
+31|Now you will create the character who\nbecomes your other self on this journey.|novo|revisar|分身 = outro eu / avatar
+32|Name:|rm2|validado|
+33|Gender:|novo|revisar|
+34|Job:|rm2|validado|RM2 3.4 職業=Job
+35|Height/Build|novo|revisar|身長・体型; o ・ vira barra
+36|Hair|novo|revisar|
+37|Face|rm2|validado|RM2 3.7 顔=Face
+38|Skin Tone|novo|revisar|
+39|Victory Pose|novo|revisar|
+40|Voice Type|novo|revisar|
+41|Randomize|rm2|validado|RM2 3.5 ランダムで選ぶ=Randomize, casamento exato
+42|OK|rm2|validado|RM2 3.5 決定=OK/Confirm
+43|Set your character's name|novo|revisar|
+44|Set your character's gender|novo|revisar|
+45|Set the job you will start the game with|novo|revisar|
+46|Set your character's height and build|novo|revisar|
+47|Set your character's hair|novo|revisar|
+48|Set your character's eyes and mouth|novo|revisar|
+49|Set your character's skin tone|novo|revisar|
+50|Set the pose used after winning a battle|novo|revisar|
+51|Set the voice used in battle|novo|revisar|
+52|Create a character at random|novo|revisar|
+53|Confirm your character and start the game|novo|revisar|
+54|Confirm your character|novo|revisar|
+55|Return to the title screen?|novo|revisar|
+56|Stop the remake and restore your\ncharacter's previous look?|novo|revisar|キャラリメイク = remodelar personagem
+57|Please enter a character name|novo|revisar|
+58|No name has been set|novo|revisar|
+59|Player|novo|revisar|nome padrao do personagem
+60|Female|novo|revisar|
+61|Male|novo|revisar|
+62|Warrior|rm2|validado|RM2 3.3
+63|Swordsman|rm2|validado|RM2 3.3
+64|Spellsword|rm2|validado|RM2 3.3
+65|Martial Artist|rm2|validado|RM2 3.3
+66|Hunter|rm2|validado|RM2 3.3
+67|Thief|rm2|validado|RM2 3.3
+68|Ninja|rm2|validado|RM2 3.3
+69|Mage|rm2|validado|RM2 3.3 魔術師=Mage
+70|Priest|rm2|validado|RM2 3.3 神官=Priest; 僧侶 e o mesmo papel
+71|Bishop|rm2|validado|RM2 3.3 aparece no binario como Bishop
+72|Twin Swordsman|rm2|revisar|DIVERGE do termbase RM2 ("Twin Sword", binario "TwinSw") — mas na lista fica ao lado de 剣士=Swordsman
+73|Great Swordsman|rm2|revisar|DIVERGE do termbase RM2 ("Great Sword", binario "G.Swrd") — mesmo motivo
+74|Monk|novo|revisar|
+75|Pirate|rm2|validado|RM2 3.3 Pirate
+76|Paladin|rm2|validado|RM2 3.3 Paladin
+77|Gunman|novo|revisar|ガンマン literal; alternativa "Gunner"
+78|A melee job that attacks with powerful\nweapons. (Beginner)|rm2_deriv|revisar|RM2 3.6 近接戦闘=Melee
+79|A job with a wide variety of sword\nskills. (Beginner)|novo|revisar|
+80|Wields both sword skills and artes.|rm2_deriv|revisar|術=Arte (RM2 3.2); uma linha: o japones nao tem LF
+81|A martial job that excels at bare-fisted\ncombat. (Intermediate)|novo|revisar|
+82|A job that excels at ranged attacks with\na bow. (Intermediate)|novo|revisar|
+83|Excels at swift dagger attacks and\nstealing. (Intermediate)|rm2_deriv|revisar|短剣=Dagger, 盗む=Steal
+84|Master of the body arts of ninjutsu.|novo|revisar|uma linha: o japones nao tem LF
+85|Excels at artes built for attacking.\n(Intermediate-Advanced)|novo|revisar|
+86|Excels at healing and support artes.\n(Intermediate-Advanced)|novo|revisar|
+87|Skilled in both attack and healing artes.|novo|revisar|uma linha: o japones nao tem LF
+88|An unorthodox swordsman with two blades.|novo|revisar|亜流 = escola heterodoxa; uma linha: o japones nao tem LF
+89|A power fighter with a huge greatsword.|novo|revisar|uma linha: o japones nao tem LF
+90|A martial job that also heals with ki.|novo|revisar|気の力 = forca do ki; uma linha: o japones nao tem LF
+91|Mixes ranged gunfire and dagger melee.|novo|revisar|uma linha: o japones nao tem LF
+92|Greatsword power plus support artes.|novo|revisar|uma linha: o japones nao tem LF
+93|Unleashes rapid attacks with twin\npistols. (Intermediate)|novo|revisar|二丁の拳銃 = duas pistolas
+94|Height|novo|revisar|
+95|Build|novo|revisar|
+96|Set your height|novo|revisar|
+97|Set your build|novo|revisar|
+98|Hairstyle|novo|revisar|
+99|Options|serie|validado|RM2/serie オプション=Options
+100|Hair Color|novo|revisar|
+101|Set your character's hairstyle|novo|revisar|
+102|Set an option for your character's hair|novo|revisar|
+103|Set your character's hair color|novo|revisar|
+124|No Option|novo|revisar|
+140|Eye Type|novo|revisar|
+141|Both Eyes|novo|revisar|両目の色 = cor dos dois olhos
+142|Right Eye|novo|revisar|
+143|Left Eye|novo|revisar|
+144|Mouth Type|novo|revisar|
+145|Set your character's eye type|novo|revisar|
+146|Set the color of both eyes|novo|revisar|
+147|Set the right eye color|novo|revisar|
+148|Set the left eye color|novo|revisar|
+149|Set your character's mouth type|novo|revisar|
+226|Create a character at random?|novo|revisar|
+227|Confirm this character?|novo|revisar|

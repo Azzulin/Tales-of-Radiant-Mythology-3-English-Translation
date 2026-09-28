@@ -1,0 +1,109 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev07_010.scr:0	qev07_010.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	おい、本当なのか。\nバルバトスがまた現れたってのは……！		
+qev07_010.scr:1	qev07_010.scr	1	リアラ	Reala	personagem	CRLF x2	間違いないみたい。\n寄せられた情報と、バルバトスの特徴が\nほぼ一致しているわ		
+qev07_010.scr:2	qev07_010.scr	2	ジューダス	Judas	personagem	CRLF x1	放っておけば、また無作為に\n腕の立つ人間を襲いかねんな		
+qev07_010.scr:3	qev07_010.scr	3	カイル	Kyle Dunamis	personagem	CRLF x2	うん、この世界の\n父さん達の事が心配だし\n何より……		
+qev07_010.scr:4	qev07_010.scr	4	カイル	Kyle Dunamis	personagem	CRLF x2	あいつは今、\n○○の事を\n倒すべき敵として認識してるみたいなんだ		
+qev07_010.scr:5	qev07_010.scr	5	リアラ	Reala	personagem	CRLF x1	○○が、\nバルバトスに勝ってしまったから……		
+qev07_010.scr:6	qev07_010.scr	6	ロニ	Loni Dunamis	personagem	CRLF x1	んで、運の悪い事に\n顔を覚えられちまったってわけか		
+qev07_010.scr:7	qev07_010.scr	7	ロニ	Loni Dunamis	personagem	CRLF x1	○○も\nつくづく災難だな		
+qev07_010.scr:8	qev07_010.scr	8	(ator 200)	(ator 200)	desconhecido		…………		
+qev07_010.scr:9	qev07_010.scr	9	ジューダス	Judas	personagem	CRLF x1	とにかく、奴とははっきり\n決着を付けておくべきだろう		
+qev07_010.scr:10	qev07_010.scr	10	ジューダス	Judas	personagem	CRLF x2	戦いの舞台が僕達の世界ではなく\nこちらの世界になっただけの事。\n躊躇う理由は何もない		
+qev07_010.scr:11	qev07_010.scr	11	カイル	Kyle Dunamis	personagem	CRLF x1	うん。\nそうだね		
+qev07_010.scr:12	qev07_010.scr	12	カイル	Kyle Dunamis	personagem	CRLF x2	よ〜し、○○\n待ってて！\n早速オレ達が行って……！！		
+qev07_010.scr:13	qev07_010.scr	13	リアラ	Reala	personagem		ちょっと待って、カイル		
+qev07_010.scr:14	qev07_010.scr	14	リアラ	Reala	personagem	CRLF x1	バルバトスの目的は、\n今は○○なんでしょう？		
+qev07_010.scr:15	qev07_010.scr	15	リアラ	Reala	personagem	CRLF x1	バルバトスの目的は、\n今は○○なんでしょう？		
+qev07_010.scr:16	qev07_010.scr	16	リアラ	Reala	personagem	CRLF x2	だったら、一緒に行ってもらった方が\nいいんじゃないかしら。\nもし入れ違いに襲われでもしたら……		
+qev07_010.scr:17	qev07_010.scr	17	ジューダス	Judas	personagem		まあ、その可能性もなくはないな		
+qev07_010.scr:18	qev07_010.scr	18	ジューダス	Judas	personagem		バルバトスは空間転移が出来る		
+qev07_010.scr:19	qev07_010.scr	19	ジューダス	Judas	personagem	CRLF x2	目撃情報は陽動で、本当の目的は\n○○という事も\nあり得る話だ		
+qev07_010.scr:20	qev07_010.scr	20	ロニ	Loni Dunamis	personagem	CRLF x2	んじゃ、出発は\n○○の\n準備が出来次第、だな		
+qev07_010.scr:21	qev07_010.scr	21	カイル	Kyle Dunamis	personagem	CRLF x1	そっか。\nその方が良さそうだね		
+qev07_010.scr:22	qev07_010.scr	22	カイル	Kyle Dunamis	personagem	CRLF x2	じゃあ、○○、\n準備が済んだらオレに\n声をかけてもらってもいいかな？		
+qev07_010.scr:23	qev07_010.scr	23	カイル	Kyle Dunamis	personagem	CRLF x2	大丈夫。\n○○も父さん達も\n絶対、守ってみせるから！		
+qev07_010.scr:24	qev07_010.scr	24	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「運命の対決」が\nエントリーされました。\nカイルから受ける事が出来ます		
+qev07_020.scr:0	qev07_020.scr	0	ジューダス	Judas	personagem		準備は出来たか？		
+qev07_020.scr:1	qev07_020.scr	1	ジューダス	Judas	personagem	CRLF x2	この先、お前のフォローまで\nしきれんからな。\nくれぐれも足手まといにはなるなよ		
+qev07_020.scr:2	qev07_020.scr	2	リアラ	Reala	personagem	CRLF x1	もう、ジューダスったら\nそんな言い方……		
+qev07_020.scr:3	qev07_020.scr	3	リアラ	Reala	personagem	CRLF x2	ごめんなさい、○○。\nジューダスはあなたの心配を\nしているだけなの		
+qev07_020.scr:4	qev07_020.scr	4	ジューダス	Judas	personagem		だ、誰がそんな事を言った！		
+qev07_020.scr:5	qev07_020.scr	5	カイル	Kyle Dunamis	personagem	CRLF x1	あははっ。\nジューダスは素直じゃないからね		
+qev07_020.scr:6	qev07_020.scr	6	カイル	Kyle Dunamis	personagem	CRLF x2	でも、バルバトスが強敵なのは本当だよ。\n気を引き締めて、今度こそ絶対に\n決着を付けよう		
+qev07_020.scr:7	qev07_020.scr	7	リアラ	Reala	personagem		ええ、そうね		
+qev07_020.scr:8	qev07_020.scr	8	ジューダス	Judas	personagem		お前に言われるまでもない		
+qev07_030.scr:0	qev07_030.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	この先に、バルバトスが……。\nここであいつを止められれば		
+qev07_030.scr:1	qev07_030.scr	1	カイル	Kyle Dunamis	personagem	CRLF x2	オレ達の世界の父さん達も、\nこっちの世界の父さん達も、\nどっちも助ける事が出来るんだ		
+qev07_030.scr:2	qev07_030.scr	2	リアラ	Reala	personagem	CRLF x1	終わらせましょう。\nもう、誰が傷付くところも見たくない		
+qev07_030.scr:3	qev07_030.scr	3	ジューダス	Judas	personagem	CRLF x1	行くぞ。\n奴はきっとこの奥だ		
+qev07_040.scr:0	qev07_040.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	○○、大丈夫？\n疲れてない？		
+qev07_040.scr:1	qev07_040.scr	1	リアラ	Reala	personagem	CRLF x2	ごめんなさい……。\n結果的に、あなたまで\n巻き込む事になってしまって		
+qev07_040.scr:2	qev07_040.scr	2	(ator 200)	(ator 200)	desconhecido		…………		
+qev07_040.scr:3	qev07_040.scr	3	ジューダス	Judas	personagem	CRLF x2	気にする必要はないだろう。\n自分が狙われているから同行したというのは\n恐らく口実に過ぎん		
+qev07_040.scr:4	qev07_040.scr	4	リアラ	Reala	personagem		口実？		
+qev07_040.scr:5	qev07_040.scr	5	ジューダス	Judas	personagem	CRLF x2	止めたとしても、どうせ進んで\n首を突っ込んでいたはずだ。\nこいつは、そういう性分なんだろう		
+qev07_040.scr:6	qev07_040.scr	6	ジューダス	Judas	personagem	CRLF x2	全く……。\nどこかの単純馬鹿と同じで、\nとことん救いようのないお人好しらしい		
+qev07_040.scr:7	qev07_040.scr	7	カイル	Kyle Dunamis	personagem	CRLF x1	単純馬鹿？\nねえジューダス、それって誰の事？		
+qev07_040.scr:8	qev07_040.scr	8	ジューダス	Judas	personagem		さあな		
+qev07_040.scr:9	qev07_040.scr	9	リアラ	Reala	personagem	CRLF x1	形はそれぞれ違っても、\n人にはみんな、幸せになる権利がある		
+qev07_040.scr:10	qev07_040.scr	10	リアラ	Reala	personagem	CRLF x2	でも、自らの欲望を満たす為だけに\n争いを起こし、戦いを続け……、\n多くの人の幸せを壊す……		
+qev07_040.scr:11	qev07_040.scr	11	リアラ	Reala	personagem	CRLF x1	そんなバルバトスを、どうしても\n放っておくわけにはいかないわ		
+qev07_040.scr:12	qev07_040.scr	12	カイル	Kyle Dunamis	personagem	CRLF x2	うん。\n関係のないたくさんの人達を傷付けて……、\nあいつのしてる事は絶対に許せないよ		
+qev07_040.scr:13	qev07_040.scr	13	ジューダス	Judas	personagem		だからこそ、僕達が今ここにいる		
+qev07_040.scr:14	qev07_040.scr	14	ジューダス	Judas	personagem	CRLF x1	他の誰でもない、僕達自身の手で\n未来を変えていく為に		
+qev07_040.scr:15	qev07_040.scr	15	カイル	Kyle Dunamis	personagem	CRLF x2	うん。\n今度こそ絶対に\nバルバトスに勝つ！		
+qev07_040.scr:16	qev07_040.scr	16	リアラ	Reala	personagem	CRLF x1	奪われた未来をもう一度\n取り返しましょう		
+qev07_050.scr:0	qev07_050.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	もうどこにも逃げ場はない！\n覚悟しろ、バルバトス！！		
+qev07_050.scr:1	qev07_050.scr	1	バルバトス	Barbatos Goetia	personagem		ク、ククク……覚悟しろと？		
+qev07_050.scr:2	qev07_050.scr	2	バルバトス	Barbatos Goetia	personagem	CRLF x1	貴様らの様な小僧が\n俺を倒すだと！？		
+qev07_050.scr:3	qev07_050.scr	3	バルバトス	Barbatos Goetia	personagem	CRLF x1	誰に向かってものを言っている！？\n俺は……俺は……！！		
+qev07_050.scr:4	qev07_050.scr	4	バルバトス	Barbatos Goetia	personagem		ぐるぁぁああぁぁぁぁ！！！		
+qev07_050.scr:5	qev07_050.scr	5	カイル	Kyle Dunamis	personagem	CRLF x1	バルバトス！？\n何を……！		
+qev07_050.scr:6	qev07_050.scr	6	リアラ	Reala	personagem		自分で、自分の体を……		
+qev07_050.scr:7	qev07_050.scr	7	ジューダス	Judas	personagem		……貫こうというのか！		
+qev07_050.scr:8	qev07_050.scr	8	バルバトス	Barbatos Goetia	personagem	CRLF x1	誰も、俺は、倒せない！\n倒せないのだあぁぁぁっ！！		
+qev07_050.scr:9	qev07_050.scr	9	バルバトス	Barbatos Goetia	personagem	CRLF x2	フフフ……あーっはっはっは！\nごふっ、……っは、\n……っはーっはっ…はっ……！！		
+qev07_050.scr:10	qev07_050.scr	10	ジューダス	Judas	personagem		…………		
+qev07_050.scr:11	qev07_050.scr	11	ジューダス	Judas	personagem		最後は自らの手で生を断つとは……		
+qev07_050.scr:12	qev07_050.scr	12	カイル	Kyle Dunamis	personagem	CRLF x1	バルバトス……。\nそうまでして、どうして……		
+qev07_050.scr:13	qev07_050.scr	13	ジューダス	Judas	personagem	CRLF x1	奴には奴なりの美学があったんだろう。\n到底、僕達には理解出来ん代物だがな		
+qev07_050.scr:14	qev07_050.scr	14	リアラ	Reala	personagem	CRLF x1	でも、これで……やっと……、\n終わったんだね		
+qev07_050.scr:15	qev07_050.scr	15	カイル	Kyle Dunamis	personagem		ああ……		
+qev07_050.scr:16	qev07_050.scr	16	カイル	Kyle Dunamis	personagem	CRLF x1	……帰ろう！\nみんなに報告しなくちゃ		
+qev07_060.scr:0	qev07_060.scr	0	カイル	Kyle Dunamis	personagem		ただい……		
+qev07_060.scr:1	qev07_060.scr	1	ロニ	Loni Dunamis	personagem	CRLF x1	カイル〜〜〜っ！\n無事だったかぁ！！		
+qev07_060.scr:2	qev07_060.scr	2	ロニ	Loni Dunamis	personagem	CRLF x1	俺の可愛いカイルに万一の事があったら\nどうしようかと俺はもう、心配で心配で……		
+qev07_060.scr:3	qev07_060.scr	3	カイル	Kyle Dunamis	personagem	CRLF x2	ロ、ロニ……。\nわかったから、離れて……。\n苦しいよ……		
+qev07_060.scr:4	qev07_060.scr	4	ナナリー	Nanaly Fletch	personagem	CRLF x2	とか何とか言ってるけど、\n嬉々としてあちこちの女の子に\n片っ端から声をかけてたのは誰だっけ？		
+qev07_060.scr:5	qev07_060.scr	5	リアラ	Reala	personagem	CRLF x1	ロニ！\nまたナンパしてたの？		
+qev07_060.scr:6	qev07_060.scr	6	ロニ	Loni Dunamis	personagem		またとは何だまたとは！		
+qev07_060.scr:7	qev07_060.scr	7	ロニ	Loni Dunamis	personagem	CRLF x2	というか、そもそも俺は\nこんな非常事態にナンパなんかする程\n軽薄な男じゃないぞ！		
+qev07_060.scr:8	qev07_060.scr	8	ナナリー	Nanaly Fletch	personagem	CRLF x1	女の子の尻を追っかける行為を\nナンパ以外に何て呼べってのさ？		
+qev07_060.scr:9	qev07_060.scr	9	カイル	Kyle Dunamis	personagem		ロニ……		
+qev07_060.scr:10	qev07_060.scr	10	ジューダス	Judas	personagem	CRLF x2	フッ、まあいいじゃないか。\nそれだけカイルが心配で\nたまらなかったんだろう		
+qev07_060.scr:11	qev07_060.scr	11	ジューダス	Judas	personagem	CRLF x1	他の事で必死に\n気を紛らわせたくなる程に、な		
+qev07_060.scr:12	qev07_060.scr	12	ロニ	Loni Dunamis	personagem		ジューダス、てめぇ〜〜〜っ！！		
+qev07_060.scr:13	qev07_060.scr	13	リアラ	Reala	personagem	CRLF x1	はいはい、ケンカはそこまで。\nとにかく、みんなが無事で良かったわ		
+qev07_060.scr:14	qev07_060.scr	14	ナナリー	Nanaly Fletch	personagem		そうだね		
+qev07_060.scr:15	qev07_060.scr	15	ナナリー	Nanaly Fletch	personagem	CRLF x1	今回の相手が相手だったんだ、\n随分心配したんだよ		
+qev07_060.scr:16	qev07_060.scr	16	カイル	Kyle Dunamis	personagem	CRLF x2	うん……。\nでも、今回は強力な助っ人も\n一緒だったからね		
+qev07_060.scr:17	qev07_060.scr	17	カイル	Kyle Dunamis	personagem	CRLF x1	○○、手伝ってくれて\n本当にありがとう！		
+qev07_060.scr:18	qev07_060.scr	18	リアラ	Reala	personagem	CRLF x1	何かあったら、○○も\n何でもわたし達に相談してね		
+qev07_060.scr:19	qev07_060.scr	19	ロニ	Loni Dunamis	personagem	CRLF x1	それと、言っておくけどな。\n断じて俺はナンパは……		
+qev07_060.scr:20	qev07_060.scr	20	ジューダス	Judas	personagem		くどい！		
+qev07_070.scr:0	qev07_070.scr	0	バルバトス	Barbatos Goetia	personagem		来たな……		
+qev07_070.scr:1	qev07_070.scr	1	バルバトス	Barbatos Goetia	personagem	CRLF x1	待っていたぞ。\nカイル、そして……○○……！		
+qev07_070.scr:2	qev07_070.scr	2	カイル	Kyle Dunamis	personagem	CRLF x1	バルバトス……。\nお前の好きには、もうさせないぞ！		
+qev07_070.scr:3	qev07_070.scr	3	リアラ	Reala	personagem		これ以上、みんなの幸せは壊させない！		
+qev07_070.scr:4	qev07_070.scr	4	ジューダス	Judas	personagem	CRLF x1	貴様のお遊びには付き合いきれん。\nここで終わりにしてくれる！		
+qev07_070.scr:5	qev07_070.scr	5	バルバトス	Barbatos Goetia	personagem	CRLF x2	はーっはっはっはっはぁ！！\nいい、実にいいぞ。\nククク……！		
+qev07_070.scr:6	qev07_070.scr	6	バルバトス	Barbatos Goetia	personagem	CRLF x1	俺は、俺の渇きを満たす者を\n待っていた……待ち続けていた！		
+qev07_070.scr:7	qev07_070.scr	7	バルバトス	Barbatos Goetia	personagem	CRLF x2	今のままでは到底足りん、\nもっと、もっと……もっとだ。\nクックククク……		
+qev07_070.scr:8	qev07_070.scr	8	バルバトス	Barbatos Goetia	personagem	CRLF x2	さぁ……本気でかかってこい。\nそして！\n俺の乾きを満たしてみろぉぉぉ！！		
+qev07_070.scr:9	qev07_070.scr	9	カイル	Kyle Dunamis	personagem		○○、来るぞ！		
+qev07_080.scr:0	qev07_080.scr	0	バルバトス	Barbatos Goetia	personagem	CRLF x1	はーっはっはっはっはぁ！！\n足りぬ、まだ足りぬぞぉおぉ！		
+qev07_080.scr:1	qev07_080.scr	1	バルバトス	Barbatos Goetia	personagem	CRLF x1	もっと……もっと俺を\n楽しませてみろぉぉぉぉぉ！！		
+qev07_080.scr:2	qev07_080.scr	2	バルバトス	Barbatos Goetia	personagem		ぐるあぁぁぁぁぁああ！！！		
+qev07_080.scr:3	qev07_080.scr	3	ジューダス	Judas	personagem		フン、相変わらず良く吼える……！		
+qev07_080.scr:4	qev07_080.scr	4	ジューダス	Judas	personagem	CRLF x1	行くぞ、○○！\n今度こそ気を抜くな！！		

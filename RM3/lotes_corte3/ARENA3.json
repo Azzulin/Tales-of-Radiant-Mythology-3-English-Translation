@@ -1,0 +1,457 @@
+{
+ "lote": "ARENA3",
+ "bloco": "arena",
+ "meta_bytes_a_cortar": 929,
+ "n_itens": 64,
+ "pool_atual_bytes": 2913,
+ "itens": [
+  {
+   "id": "arena#71",
+   "bloco": "arena",
+   "en": "Their teamwork is spot-on! This inseparable quartet joins the fight!",
+   "bytes": 68,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "arena#67",
+   "bloco": "arena",
+   "en": "Best friends and fierce rivals! The ultimate match enters the ring!",
+   "bytes": 67,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "arena#172",
+   "bloco": "arena",
+   "en": "Even if they walk no knightly path, chivalry burns in their hearts!",
+   "bytes": 67,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "arena#201",
+   "bloco": "arena",
+   "en": "A daunting hero quartet! Who dare challenge this impregnable team?!",
+   "bytes": 67,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "arena#237",
+   "bloco": "arena",
+   "en": "Gekogeko gathered from all over the world! Who dare challenge them?",
+   "bytes": 67,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "arena#58",
+   "bloco": "arena",
+   "en": "They constantly bicker, but today they're cooperating in the ring!",
+   "bytes": 66,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "arena#69",
+   "bloco": "arena",
+   "en": "Fighting like cats and dogs! But do they secretly care? They join!",
+   "bytes": 66,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "arena#166",
+   "bloco": "arena",
+   "en": "They look timid, but take up arms and they transform! They enter!",
+   "bytes": 65,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "arena#168",
+   "bloco": "arena",
+   "en": "Different paths, but both wish to help the weak! This duo enters!",
+   "bytes": 65,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "arena#178",
+   "bloco": "arena",
+   "en": "Poke-Gen for short! A three-person squad from Ad Libitum arrives!",
+   "bytes": 65,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "arena#205",
+   "bloco": "arena",
+   "en": "All-time pervert kings assemble! Win and join their filthy ranks?",
+   "bytes": 65,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "arena#140",
+   "bloco": "arena",
+   "en": "They seem out of harmony, yet click perfectly! This trio enters!",
+   "bytes": 64,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "arena#142",
+   "bloco": "arena",
+   "en": "Sharp-tongued, yet their teamwork fits like a glove! They enter!",
+   "bytes": 64,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "arena#176",
+   "bloco": "arena",
+   "en": "Neo-Gen for short! A three-person squad from Ad Libitum arrives!",
+   "bytes": 64,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "arena#194",
+   "bloco": "arena",
+   "en": "Will god take their side?! An evangelical clash by three clergy!",
+   "bytes": 64,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "arena#56",
+   "bloco": "arena",
+   "en": "A spoiled rich boy and a stoic beauty join forces in the arena!",
+   "bytes": 63,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "arena#128",
+   "bloco": "arena",
+   "en": "Brother and sister stand against you! A mysterious sibling duo!",
+   "bytes": 63,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "arena#196",
+   "bloco": "arena",
+   "en": "True power lies in silence! Three wordless warriors throw down!",
+   "bytes": 63,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "arena#152",
+   "bloco": "arena",
+   "en": "Crashing the fight to protect his sis! A gorgeous sibling duo!",
+   "bytes": 62,
+   "alvo_bytes": 42
+  },
+  {
+   "id": "arena#187",
+   "bloco": "arena",
+   "en": "We won't lose to our big brothers! The ultimate sisters enter!",
+   "bytes": 62,
+   "alvo_bytes": 42
+  },
+  {
+   "id": "arena#203",
+   "bloco": "arena",
+   "en": "Seca-Gen for short! A four-person team from Ad Libitum enters!",
+   "bytes": 62,
+   "alvo_bytes": 42
+  },
+  {
+   "id": "arena#88",
+   "bloco": "arena",
+   "en": "Always lively and easygoing, this quartet gets serious today!",
+   "bytes": 61,
+   "alvo_bytes": 41
+  },
+  {
+   "id": "arena#170",
+   "bloco": "arena",
+   "en": "Slender bodies packing go-go punch power! Brawler girls join!",
+   "bytes": 61,
+   "alvo_bytes": 41
+  },
+  {
+   "id": "arena#189",
+   "bloco": "arena",
+   "en": "Somewhat eerie? A trio with an exotic aura steps up to fight!",
+   "bytes": 61,
+   "alvo_bytes": 41
+  },
+  {
+   "id": "arena#111",
+   "bloco": "arena",
+   "en": "Two warriors who once worked as sheriff-like officers enter!",
+   "bytes": 60,
+   "alvo_bytes": 41
+  },
+  {
+   "id": "arena#198",
+   "bloco": "arena",
+   "en": "Smash evil and aid the weak! Chivalric trio enters the fray!",
+   "bytes": 60,
+   "alvo_bytes": 41
+  },
+  {
+   "id": "arena#61",
+   "bloco": "arena",
+   "en": "A date at the colosseum? A couple (maybe?) enters the fray!",
+   "bytes": 59,
+   "alvo_bytes": 40
+  },
+  {
+   "id": "arena#73",
+   "bloco": "arena",
+   "en": "Polar opposites in style and personality tag up for battle!",
+   "bytes": 59,
+   "alvo_bytes": 40
+  },
+  {
+   "id": "arena#157",
+   "bloco": "arena",
+   "en": "Searching for the answer to true strength, this trio joins!",
+   "bytes": 59,
+   "alvo_bytes": 40
+  },
+  {
+   "id": "arena#185",
+   "bloco": "arena",
+   "en": "Sometimes bold, sometimes sharp, a trio of spearmen enters!",
+   "bytes": 59,
+   "alvo_bytes": 40
+  },
+  {
+   "id": "arena#6",
+   "bloco": "arena",
+   "en": "Three challengers are calling you out! Will you face them?",
+   "bytes": 58,
+   "alvo_bytes": 39
+  },
+  {
+   "id": "arena#42",
+   "bloco": "arena",
+   "en": "A textbook, classic hero and heroine team enters the fray!",
+   "bytes": 58,
+   "alvo_bytes": 39
+  },
+  {
+   "id": "arena#8",
+   "bloco": "arena",
+   "en": "Four challengers are calling you out! Will you face them?",
+   "bytes": 57,
+   "alvo_bytes": 38
+  },
+  {
+   "id": "arena#86",
+   "bloco": "arena",
+   "en": "The Van Eltia captain arrives with her loyal crew in tow!",
+   "bytes": 57,
+   "alvo_bytes": 38
+  },
+  {
+   "id": "arena#4",
+   "bloco": "arena",
+   "en": "Two challengers are calling you out! Will you face them?",
+   "bytes": 56,
+   "alvo_bytes": 38
+  },
+  {
+   "id": "arena#2",
+   "bloco": "arena",
+   "en": "A challenger is calling you out! Will you face them?",
+   "bytes": 52,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "arena#11",
+   "bloco": "arena",
+   "en": "One Justice and Chivalry",
+   "bytes": 24,
+   "alvo_bytes": 16
+  },
+  {
+   "id": "arena#15",
+   "bloco": "arena",
+   "en": "Items? I have them too!",
+   "bytes": 23,
+   "alvo_bytes": 15
+  },
+  {
+   "id": "arena#24",
+   "bloco": "arena",
+   "en": "Twin Swords = 2x Power!",
+   "bytes": 23,
+   "alvo_bytes": 15
+  },
+  {
+   "id": "arena#49",
+   "bloco": "arena",
+   "en": "World Renewal Travelers",
+   "bytes": 23,
+   "alvo_bytes": 15
+  },
+  {
+   "id": "arena#137",
+   "bloco": "arena",
+   "en": "Blade of Secret Longing",
+   "bytes": 23,
+   "alvo_bytes": 15
+  },
+  {
+   "id": "arena#151",
+   "bloco": "arena",
+   "en": "Overprotective Guardian",
+   "bytes": 23,
+   "alvo_bytes": 15
+  },
+  {
+   "id": "arena#171",
+   "bloco": "arena",
+   "en": "Rogue Knight Fierce Cut",
+   "bytes": 23,
+   "alvo_bytes": 15
+  },
+  {
+   "id": "arena#226",
+   "bloco": "arena",
+   "en": "Guardian from Old Times",
+   "bytes": 23,
+   "alvo_bytes": 15
+  },
+  {
+   "id": "arena#9",
+   "bloco": "arena",
+   "en": "Battle-Hardened Heroes",
+   "bytes": 22,
+   "alvo_bytes": 15
+  },
+  {
+   "id": "arena#10",
+   "bloco": "arena",
+   "en": "Mask of Truth and Lies",
+   "bytes": 22,
+   "alvo_bytes": 15
+  },
+  {
+   "id": "arena#20",
+   "bloco": "arena",
+   "en": "Clash! Spacetime Hero!",
+   "bytes": 22,
+   "alvo_bytes": 15
+  },
+  {
+   "id": "arena#68",
+   "bloco": "arena",
+   "en": "Pierce! A Century Love",
+   "bytes": 22,
+   "alvo_bytes": 15
+  },
+  {
+   "id": "arena#116",
+   "bloco": "arena",
+   "en": "Stone Princess & Water",
+   "bytes": 22,
+   "alvo_bytes": 15
+  },
+  {
+   "id": "arena#118",
+   "bloco": "arena",
+   "en": "Hero & Double Heroines",
+   "bytes": 22,
+   "alvo_bytes": 15
+  },
+  {
+   "id": "arena#131",
+   "bloco": "arena",
+   "en": "Overlord and His Blade",
+   "bytes": 22,
+   "alvo_bytes": 15
+  },
+  {
+   "id": "arena#162",
+   "bloco": "arena",
+   "en": "Like Father and Child?",
+   "bytes": 22,
+   "alvo_bytes": 15
+  },
+  {
+   "id": "arena#1",
+   "bloco": "arena",
+   "en": "Exhibition Match (1P)",
+   "bytes": 21,
+   "alvo_bytes": 14
+  },
+  {
+   "id": "arena#3",
+   "bloco": "arena",
+   "en": "Exhibition Match (2P)",
+   "bytes": 21,
+   "alvo_bytes": 14
+  },
+  {
+   "id": "arena#5",
+   "bloco": "arena",
+   "en": "Exhibition Match (3P)",
+   "bytes": 21,
+   "alvo_bytes": 14
+  },
+  {
+   "id": "arena#7",
+   "bloco": "arena",
+   "en": "Exhibition Match (4P)",
+   "bytes": 21,
+   "alvo_bytes": 14
+  },
+  {
+   "id": "arena#32",
+   "bloco": "arena",
+   "en": "Kindhearted Swordsman",
+   "bytes": 21,
+   "alvo_bytes": 14
+  },
+  {
+   "id": "arena#36",
+   "bloco": "arena",
+   "en": "The Champion Arrives!",
+   "bytes": 21,
+   "alvo_bytes": 14
+  },
+  {
+   "id": "arena#37",
+   "bloco": "arena",
+   "en": "War-Crazy: Deathmatch",
+   "bytes": 21,
+   "alvo_bytes": 14
+  },
+  {
+   "id": "arena#47",
+   "bloco": "arena",
+   "en": "Goddess-Chosen Heroes",
+   "bytes": 21,
+   "alvo_bytes": 14
+  },
+  {
+   "id": "arena#57",
+   "bloco": "arena",
+   "en": "Beauty and the Beast?",
+   "bytes": 21,
+   "alvo_bytes": 14
+  },
+  {
+   "id": "arena#66",
+   "bloco": "arena",
+   "en": "As Friends and Rivals",
+   "bytes": 21,
+   "alvo_bytes": 14
+  },
+  {
+   "id": "arena#76",
+   "bloco": "arena",
+   "en": "Heartbreaking Crush 2",
+   "bytes": 21,
+   "alvo_bytes": 14
+  },
+  {
+   "id": "arena#127",
+   "bloco": "arena",
+   "en": "Conflicting Bloodline",
+   "bytes": 21,
+   "alvo_bytes": 14
+  }
+ ]
+}

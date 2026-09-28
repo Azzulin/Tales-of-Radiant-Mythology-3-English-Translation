@@ -1,0 +1,141 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev36_010.scr:0	cev36_010.scr	0	ユージーン	Eugene Gallardo	personagem		…………	......	
+cev36_010.scr:1	cev36_010.scr	1	リヒター	Richter Abend	personagem		…………なんだ？	......What is it?	
+cev36_010.scr:2	cev36_010.scr	2	ユージーン	Eugene Gallardo	personagem	CRLF x1	……一つ聞きたい。\nお前の、その……	...Let me ask you something.\nThose... on your face...	
+cev36_010.scr:3	cev36_010.scr	3	ユージーン	Eugene Gallardo	personagem	CRLF x2	そのメガネは、発売告知時点で即完売し、\n世界で１０セットしか生産されていないという\nレザレノ・カンパニーの限定品……か？	Are those glasses the Lezareno Company\nlimited edition, sold out immediately,\nwith only 10 sets made in the world?	
+cev36_010.scr:4	cev36_010.scr	4	リヒター	Richter Abend	personagem		ほう……これの価値がわかるか	Hoh... You know their value, then.	
+cev36_010.scr:5	cev36_010.scr	5	リヒター	Richter Abend	personagem	CRLF x1	なるほど……その尻尾袋の品質も\n伊達ではないという事か	I see... The quality of your tail pouch\nisn't just for show either, then.	
+cev36_010.scr:6	cev36_010.scr	6	ユージーン	Eugene Gallardo	personagem		どうやら、話の通じる男の様だ	It seems you are a man of discernment.	
+cev36_010.scr:7	cev36_010.scr	7	リヒター	Richter Abend	personagem		……ふっ、お前もな	...Hmph. As are you.	
+cev36_010.scr:8	cev36_010.scr	8	ユージーン	Eugene Gallardo	personagem		…………	......	
+cev36_010.scr:9	cev36_010.scr	9	リヒター	Richter Abend	personagem		…………	......	
+cev36_020.scr:0	cev36_020.scr	0	クレア	Claire Bennett	personagem		リヒターさん、ここにいたんですね	There you are, Richter.	
+cev36_020.scr:1	cev36_020.scr	1	リヒター	Richter Abend	personagem		……何の用だ	...What do you want?	
+cev36_020.scr:2	cev36_020.scr	2	クレア	Claire Bennett	personagem	CRLF x1	あの……また、パイを焼いたんです。\nですから、一緒に……	Um... I baked some pie again.\nSo if you'd like to join me...	
+cev36_020.scr:3	cev36_020.scr	3	リヒター	Richter Abend	personagem	CRLF x1	断る。\n馴れ合う理由も趣味もない	I refuse.\nI have no reason or desire to mingle.	
+cev36_020.scr:4	cev36_020.scr	4	クレア	Claire Bennett	personagem		……そう……ですか	...I... see.	
+cev36_020.scr:5	cev36_020.scr	5	リヒター	Richter Abend	personagem		…………	......	
+cev36_020.scr:6	cev36_020.scr	6	リヒター	Richter Abend	personagem		お前はなぜ、俺に構う	Why do you bother with me?	
+cev36_020.scr:7	cev36_020.scr	7	クレア	Claire Bennett	personagem		なぜ……？	Why...?	
+cev36_020.scr:8	cev36_020.scr	8	クレア	Claire Bennett	personagem		そんなの……理由なんてありません	Well... I don't really have a reason.	
+cev36_020.scr:9	cev36_020.scr	9	リヒター	Richter Abend	personagem		ふっ	Hmph.	
+cev36_020.scr:10	cev36_020.scr	10	リヒター	Richter Abend	personagem		今のは、嫌味のつもりか？	Was that supposed to be sarcastic?	
+cev36_020.scr:11	cev36_020.scr	11	クレア	Claire Bennett	personagem		嫌味……？	Sarcastic...?	
+cev36_020.scr:12	cev36_020.scr	12	クレア	Claire Bennett	personagem		あ……！	Ah......!	
+cev36_020.scr:13	cev36_020.scr	13	クレア	Claire Bennett	personagem	CRLF x2	ごめんなさい。\n理由がないって言ったのは、\nそんなつもりじゃ……	I'm sorry!\nWhen I said I had no reason,\nI didn't mean it like that...	
+cev36_020.scr:14	cev36_020.scr	14	リヒター	Richter Abend	personagem	CRLF x1	お前は相手の顔色を伺わないな。\n決して媚びず、常にまっすぐだ	You don't care about others' reactions.\nNever fawning, always straightforward.	
+cev36_020.scr:15	cev36_020.scr	15	クレア	Claire Bennett	personagem	CRLF x1	……思った事を言っているだけです。\n不快な気持ちにさせてしまったなら……	...I'm only saying what I think.\nIf I made you feel uncomfortable...	
+cev36_020.scr:16	cev36_020.scr	16	リヒター	Richter Abend	personagem	CRLF x2	誰が不快だと言った。\n他人に媚びへつらう事しか知らない\n豚よりはマシだ	Who said I was uncomfortable?\nYou're better than those pigs who only\nknow how to flatter others.	
+cev36_020.scr:17	cev36_020.scr	17	リヒター	Richter Abend	personagem		……おい	...Hey.	
+cev36_020.scr:18	cev36_020.scr	18	クレア	Claire Bennett	personagem		は、はい	Y-Yes?	
+cev36_020.scr:19	cev36_020.scr	19	リヒター	Richter Abend	personagem	CRLF x1	お前の焼いたパイは、\nまだ残っているのか？	Is there any of that pie you baked\nstill left?	
+cev36_020.scr:20	cev36_020.scr	20	クレア	Claire Bennett	personagem	CRLF x2	えっと……、\nたくさん焼きましたから\nまだ大丈夫だと思います	Um...\nI baked plenty of it,\nso there should be some left.	
+cev36_020.scr:21	cev36_020.scr	21	クレア	Claire Bennett	personagem	CRLF x1	でも、無くなってしまっていても\nもう一度作りますから	Even if it's all gone, though,\nI can always bake more for you!	
+cev36_020.scr:22	cev36_020.scr	22	リヒター	Richter Abend	personagem		…………ふん。　そうか	......Hmph. Very well.	
+cev36_030.scr:0	cev36_030.scr	0	リヒター	Richter Abend	personagem		……一つ、お前に尋ねたい事がある	...There's something I want to ask you.	
+cev36_030.scr:1	cev36_030.scr	1	クラトス	Kratos Aurion	personagem		……何だ	...What is it?	
+cev36_030.scr:2	cev36_030.scr	2	リヒター	Richter Abend	personagem	CRLF x1	お前はどう思う。\nこの船の……	What do you think?\nAbout this ship's...	
+cev36_030.scr:3	cev36_030.scr	3	リヒター	Richter Abend	personagem		料理当番制について、なのだが	cooking duty rotation, that is.	
+cev36_030.scr:4	cev36_030.scr	4	クラトス	Kratos Aurion	personagem		……不満か？	...Are you dissatisfied?	
+cev36_030.scr:5	cev36_030.scr	5	リヒター	Richter Abend	personagem	CRLF x1	不満というより疑問を感じるだけだ。\nなぜ、料理が出来ない人間にも役割を与える？	I'm not dissatisfied, merely puzzled.\nWhy give tasks to those who can't cook?	
+cev36_030.scr:6	cev36_030.scr	6	リヒター	Richter Abend	personagem		誰しも得意、不得意はあるだろう	Everyone has their strengths and flaws.	
+cev36_030.scr:7	cev36_030.scr	7	クラトス	Kratos Aurion	personagem		確かに、一見すれば非効率かもしれんな	Indeed, it may seem inefficient at first.	
+cev36_030.scr:8	cev36_030.scr	8	クラトス	Kratos Aurion	personagem	CRLF x2	だが、物事の「始め」は概して危険なものだ。\nそして、始めなければ永遠に\n始まりは無い	Yet beginning anything carries risk.\nAnd if you never take the first step,\nthere can never be a beginning.	
+cev36_030.scr:9	cev36_030.scr	9	リヒター	Richter Abend	personagem		始める事から始まる……か	A start must come from starting, huh...	
+cev36_030.scr:10	cev36_030.scr	10	クラトス	Kratos Aurion	personagem	CRLF x2	恐らく、アンジュは\n個人の未知の可能性を広げる場としても\n当番制は有益だと考えたのだろう	Perhaps Ange felt duty shifts were useful\nas an opportunity to broaden\nan individual's unknown potential.	
+cev36_030.scr:11	cev36_030.scr	11	リヒター	Richter Abend	personagem	CRLF x1	なるほど。\nよくわかった	I see.\nI understand completely.	
+cev36_030.scr:12	cev36_030.scr	12	リヒター	Richter Abend	personagem	CRLF x2	お前は、個人の可能性の助長の為に\n他人の作った不味い飯を\n平らげる覚悟があるという事がな	You're prepared to choke down bad food\ncooked by others, all to nurture\ntheir hidden potential.	
+cev36_030.scr:13	cev36_030.scr	13	クラトス	Kratos Aurion	personagem		む……	Hmm......	
+cev36_030.scr:14	cev36_030.scr	14	リヒター	Richter Abend	personagem	CRLF x2	ちなみに、今日の当番は俺だ。\n料理なぞろくにした事はないが、\n最善を尽くそう	By the way, today's cook is me.\nI've barely ever cooked before,\nbut I shall do my best.	
+cev36_030.scr:15	cev36_030.scr	15	リヒター	Richter Abend	personagem		……食堂で待っているぞ	...I'll be waiting in the dining hall.	
+cev36_030.scr:16	cev36_030.scr	16	クラトス	Kratos Aurion	personagem		…………	......	
+cev36_040.scr:0	cev36_040.scr	0	リヒター	Richter Abend	personagem	CRLF x1	何か不自由な事はないか？　セルシウス。\n体に不調などがあれば言ってくれ	Is everything comfortable, Celsius?\nTell me if your body feels unwell.	
+cev36_040.scr:1	cev36_040.scr	1	セルシウス	Celsius	personagem		特にはないわ	Nothing in particular.	
+cev36_040.scr:2	cev36_040.scr	2	セルシウス	Celsius	personagem	CRLF x2	ここは風が気持ち良くて涼しいし。\nあえて言うなら、\n少し騒がしいのが気になるだけ	The wind is nice and cool here.\nIf I had to say anything,\nit's just a bit noisy.	
+cev36_040.scr:3	cev36_040.scr	3	リヒター	Richter Abend	personagem	CRLF x1	……そうか。\n問題がないならいい	...I see.\nAs long as there's no problem.	
+cev36_040.scr:4	cev36_040.scr	4	セルシウス	Celsius	personagem	CRLF x1	そういうあなたは、\n少し疲れている様だけど	You, on the other hand,\nlook a little tired.	
+cev36_040.scr:5	cev36_040.scr	5	リヒター	Richter Abend	personagem		……気疲れだ	...It's mental fatigue.	
+cev36_040.scr:6	cev36_040.scr	6	リヒター	Richter Abend	personagem	CRLF x1	この船の人間は、よく喋る。\nおまけに世話焼きで、うっとうしい	People on this ship talk too much.\nWhat's more, they're nosy and annoying.	
+cev36_040.scr:7	cev36_040.scr	7	セルシウス	Celsius	personagem	CRLF x1	わたしより、あなたの方が\n不自由さを感じている様ね、リヒター？	It seems you feel far less at ease\nthan I do, don't you, Richter?	
+cev36_040.scr:8	cev36_040.scr	8	リヒター	Richter Abend	personagem		…………そんな事はない	......That is not true.	
+cev36_050.scr:0	cev36_050.scr	0	セルシウス	Celsius	personagem	CRLF x2	不思議なものね。\nヒトというのがどういう生き物か\nわかったつもりでいたけど……	It's strange.\nI thought I understood\nwhat kind of creatures humans were...	
+cev36_050.scr:1	cev36_050.scr	1	リヒター	Richter Abend	personagem	CRLF x1	いざ共に過ごしていると\n違ったものが見えてくる……か？	Living alongside them,\nyou begin to see them differently, huh?	
+cev36_050.scr:2	cev36_050.scr	2	セルシウス	Celsius	personagem		あなたもなの、リヒター？	Is it the same for you, Richter?	
+cev36_050.scr:3	cev36_050.scr	3	リヒター	Richter Abend	personagem	CRLF x2	……まさか。\nヒトは欲深だ。　そして弱い。\n弱さ故に、より弱い存在を求める	...Hardly.\nHumans are greedy. And weak.\nIn weakness, they seek the even weaker.	
+cev36_050.scr:4	cev36_050.scr	4	リヒター	Richter Abend	personagem	CRLF x1	……深く関わるだけ\n迷惑をこうむるのはご免だ	...Getting deeply involved with them\nonly brings trouble I want no part of.	
+cev36_050.scr:5	cev36_050.scr	5	セルシウス	Celsius	personagem	CRLF x1	それは本心？\nそれとも建前かしら？	Is that how you truly feel?\nOr just a pretense?	
+cev36_050.scr:6	cev36_050.scr	6	リヒター	Richter Abend	personagem	CRLF x1	どちらでもない。\n世の真理を言ったまでだ	Neither.\nI merely stated universal truth.	
+cev36_050.scr:7	cev36_050.scr	7	リヒター	Richter Abend	personagem		……お前も知っているだろう？	...You know that as well, don't you?	
+cev36_050.scr:8	cev36_050.scr	8	セルシウス	Celsius	personagem	CRLF x1	確かに、\n犯した過ちは消せないでしょう	Certainly, mistakes made in the past\ncannot be erased.	
+cev36_050.scr:9	cev36_050.scr	9	セルシウス	Celsius	personagem	CRLF x1	けれどその過ちで、未来の全てを\n黒く塗りつぶすのも違うのではない？	Yet should that mistake stain\nthe entire future in black as well?	
+cev36_050.scr:10	cev36_050.scr	10	リヒター	Richter Abend	personagem	CRLF x1	精霊というのは存外、楽観主義だな。\nそれとも、単に気休めを言っているのか？	Spirits are surprisingly optimistic.\nOr are you merely offering empty comfort?	
+cev36_050.scr:11	cev36_050.scr	11	セルシウス	Celsius	personagem	CRLF x1	どちらでもないわ。\n世の真理を言ったまでよ	Neither.\nI merely stated universal truth.	
+cev36_050.scr:12	cev36_050.scr	12	リヒター	Richter Abend	personagem		…………	......	
+cev36_060.scr:0	cev36_060.scr	0	リタ	Rita Mordio	personagem	CRLF x2	なるほどね。\n確かに、この学説の矛盾を突くなら\nそういう解釈も有りかもしれないわ	I see.\nIf you're targeting that flaw,\nthat interpretation could actually work.	
+cev36_060.scr:1	cev36_060.scr	1	リヒター	Richter Abend	personagem	CRLF x2	そういうお前の解釈は少々堅いな。\n思い入れが強いのは結構だが\nその分、視野を狭める事になるぞ	Your own view is rather rigid.\nPassion is fine, but it narrows\nyour field of vision.	
+cev36_060.scr:2	cev36_060.scr	2	リタ	Rita Mordio	personagem	CRLF x1	何よ。\nあんた喧嘩売ってるの？	Excuse me?\nAre you looking for a fight?!	
+cev36_060.scr:3	cev36_060.scr	3	ハロルド	Harold Berselius	personagem	CRLF x2	にしても、ちょっと意外ね。\nリヒターが科学や歴史に\nここまで精通してたなんて	Even so, it's quite surprising.\nTo think Richter was so well-versed\nin science and history!	
+cev36_060.scr:4	cev36_060.scr	4	リヒター	Richter Abend	personagem	CRLF x1	……ただの暇つぶしだ。\nそれくらいしか、する事がなかった	...Just a way to kill time.\nThere was little else for me to do.	
+cev36_060.scr:5	cev36_060.scr	5	リタ	Rita Mordio	personagem	CRLF x2	はぁ？　\n暇つぶし？\nする事なかったって、何よそれ	Huh?!\nKilling time?\nWhat do you mean, 'nothing to do'?!	
+cev36_060.scr:6	cev36_060.scr	6	リタ	Rita Mordio	personagem		引きこもりじゃあるまいし	It's not like you're a shut-in!	
+cev36_060.scr:7	cev36_060.scr	7	ハロルド	Harold Berselius	personagem	CRLF x2	そうよねえ。\nこ〜んなに面白くて楽しいコト、\n暇つぶしにはもったいないわ∀	Indeed!\nSomething this interesting and fun\nis far too precious just to kill time!	
+cev36_060.scr:8	cev36_060.scr	8	リヒター	Richter Abend	personagem	CRLF x2	したい研究を、\nしたいようにすれば良かった\nお前達とは違う	I'm not like you two,\nwho could study whatever you liked,\nin whatever way you pleased.	
+cev36_060.scr:9	cev36_060.scr	9	リヒター	Richter Abend	personagem		……望んでこうなったわけではない！	...I didn't choose to become like this!	
+cev36_060.scr:10	cev36_060.scr	10	ハロルド	Harold Berselius	personagem	CRLF x1	ありゃりゃ。\n怒らせちゃったかしら？	Uh-oh.\nDid we make him angry?	
+cev36_060.scr:11	cev36_060.scr	11	リタ	Rita Mordio	personagem	CRLF x1	何なの、アレ。\n感じ悪っ	What's his problem?!\nTalk about bad attitude.	
+cev36_060.scr:12	cev36_060.scr	12	ハロルド	Harold Berselius	personagem	CRLF x1	もしかしたら、特殊な生い立ちの\n持ち主だったのかもしれないわね〜	Perhaps he comes from rather\nunusual circumstances, hmm~	
+cev36_060.scr:13	cev36_060.scr	13	ハロルド	Harold Berselius	personagem		……どうしたもんかしらねぇ	...I wonder what we should do?	
+cev36_070.scr:0	cev36_070.scr	0	ヒスイ	Hisui Hearts	personagem	CRLF x1	これ以上コハクに近寄ったら\nただじゃおかねえからな！	If you get any closer to Kohaku,\nyou're gonna regret it!	
+cev36_070.scr:1	cev36_070.scr	1	シング	Shing Meteoryte	personagem	CRLF x1	何でだよ。\n別に何もしないよ	Why?!\nI'm not doing anything!	
+cev36_070.scr:2	cev36_070.scr	2	ヒスイ	Hisui Hearts	personagem	CRLF x2	当たり前だろーがッ！\n何かする気だったら、もっと\nただじゃおかねえ！！	Of course you ain't!\nIf you even thought about it,\nI'd beat you senseless!!	
+cev36_070.scr:3	cev36_070.scr	3	シング	Shing Meteoryte	personagem	CRLF x2	ええっ！\nそういう意味で\n言ったんじゃないのに……	What?!\nThat's not at all\nwhat I meant...	
+cev36_070.scr:4	cev36_070.scr	4	ジェイド	Jade Curtiss	personagem	CRLF x2	……やれやれ、またですか。\n妹が大事なのもわかりますが\nあれは、少々考えものですねえ	...Dear me, at it again?\nI understand treasuring a sister,\nbut that is a bit concerning.	
+cev36_070.scr:5	cev36_070.scr	5	リヒター	Richter Abend	personagem	CRLF x2	ほう？\n家族とは一番無縁そうな人間から\nその様な言葉が出るとはな	Hoh?\nSurprising words from someone\nwho seems so distant from family.	
+cev36_070.scr:6	cev36_070.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x2	まあ、人並み程度には\n兄弟愛なるものについて\n理解しているつもりですよ	Well, I believe I understand\nsibling affection reasonably well,\nmuch like any normal person.	
+cev36_070.scr:7	cev36_070.scr	7	ジェイド	Jade Curtiss	personagem		私にも、妹がいますから	After all, I have a younger sister too.	
+cev36_070.scr:8	cev36_070.scr	8	リヒター	Richter Abend	personagem		お前、長男だったのか！？	You're the oldest son?!	
+cev36_070.scr:9	cev36_070.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x2	驚くポイントがずれている気がしますが、\nその通りです。\n何か不都合でも？	Your surprise seems misplaced,\nbut that is correct.\nIs there any problem with that?	
+cev36_070.scr:10	cev36_070.scr	10	リヒター	Richter Abend	personagem		いや……	No...	
+cev36_070.scr:11	cev36_070.scr	11	リヒター	Richter Abend	personagem	CRLF x1	お前の妹、か……。\n想像がつかないな……	A younger sister of yours, huh...\nI can hardly imagine it...	
+cev36_200.scr:0	cev36_200.scr	0	リヒター	Richter Abend	personagem	CRLF x1	通常。\n	Normal.\n	
+cev36_200.scr:1	cev36_200.scr	1	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:2	cev36_200.scr	2	リヒター	Richter Abend	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev36_200.scr:3	cev36_200.scr	3	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:4	cev36_200.scr	4	リヒター	Richter Abend	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev36_200.scr:5	cev36_200.scr	5	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:6	cev36_200.scr	6	リヒター	Richter Abend	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev36_200.scr:7	cev36_200.scr	7	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:8	cev36_200.scr	8	リヒター	Richter Abend	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev36_200.scr:9	cev36_200.scr	9	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:10	cev36_200.scr	10	リヒター	Richter Abend	personagem	CRLF x1	悲しみ２。\n	Sadness 2.\n	
+cev36_200.scr:11	cev36_200.scr	11	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:12	cev36_200.scr	12	リヒター	Richter Abend	personagem	CRLF x1	眼鏡のみ。\n	Glasses only.\n	
+cev36_200.scr:13	cev36_200.scr	13	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:14	cev36_200.scr	14	リヒター	Richter Abend	personagem	CRLF x1	通常。\n	Normal.\n	
+cev36_200.scr:15	cev36_200.scr	15	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:16	cev36_200.scr	16	リヒター	Richter Abend	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev36_200.scr:17	cev36_200.scr	17	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:18	cev36_200.scr	18	リヒター	Richter Abend	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev36_200.scr:19	cev36_200.scr	19	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:20	cev36_200.scr	20	リヒター	Richter Abend	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev36_200.scr:21	cev36_200.scr	21	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:22	cev36_200.scr	22	リヒター	Richter Abend	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev36_200.scr:23	cev36_200.scr	23	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:24	cev36_200.scr	24	リヒター	Richter Abend	personagem	CRLF x1	悲しみ２。\n	Sadness 2.\n	
+cev36_200.scr:25	cev36_200.scr	25	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:26	cev36_200.scr	26	リヒター	Richter Abend	personagem	CRLF x1	眼鏡のみ。\n	Glasses only.\n	
+cev36_200.scr:27	cev36_200.scr	27	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:28	cev36_200.scr	28	リヒター	Richter Abend	personagem	CRLF x1	通常。\n	Normal.\n	
+cev36_200.scr:29	cev36_200.scr	29	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:30	cev36_200.scr	30	リヒター	Richter Abend	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev36_200.scr:31	cev36_200.scr	31	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:32	cev36_200.scr	32	リヒター	Richter Abend	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev36_200.scr:33	cev36_200.scr	33	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:34	cev36_200.scr	34	リヒター	Richter Abend	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev36_200.scr:35	cev36_200.scr	35	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:36	cev36_200.scr	36	リヒター	Richter Abend	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev36_200.scr:37	cev36_200.scr	37	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:38	cev36_200.scr	38	リヒター	Richter Abend	personagem	CRLF x1	悲しみ２。\n	Sadness 2.\n	
+cev36_200.scr:39	cev36_200.scr	39	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev36_200.scr:40	cev36_200.scr	40	リヒター	Richter Abend	personagem	CRLF x1	眼鏡のみ。\n	Glasses only.\n	
+cev36_200.scr:41	cev36_200.scr	41	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	

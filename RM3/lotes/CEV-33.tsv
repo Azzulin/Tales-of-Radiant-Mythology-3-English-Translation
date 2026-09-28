@@ -1,0 +1,148 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev33_010.scr:0	cev33_010.scr	0	プレセア	Presea Combatir	personagem		…………		
+cev33_010.scr:1	cev33_010.scr	1	ソフィ	Sophie	personagem		…………		
+cev33_010.scr:2	cev33_010.scr	2	プレセア	Presea Combatir	personagem		…………		
+cev33_010.scr:3	cev33_010.scr	3	プレセア	Presea Combatir	personagem		静か……ですね……		
+cev33_010.scr:4	cev33_010.scr	4	ソフィ	Sophie	personagem		……うん		
+cev33_010.scr:5	cev33_010.scr	5	プレセア	Presea Combatir	personagem		…………		
+cev33_010.scr:6	cev33_010.scr	6	ソフィ	Sophie	personagem		…………		
+cev33_010.scr:7	cev33_010.scr	7	ソフィ	Sophie	personagem		……静かなのは、悪いこと？		
+cev33_010.scr:8	cev33_010.scr	8	プレセア	Presea Combatir	personagem		……私は……		
+cev33_010.scr:9	cev33_010.scr	9	プレセア	Presea Combatir	personagem	CRLF x1	こういうのも、嫌いじゃ……\nない……です		
+cev33_010.scr:10	cev33_010.scr	10	ソフィ	Sophie	personagem		うん……わたしも		
+cev33_010.scr:11	cev33_010.scr	11	プレセア	Presea Combatir	personagem		…………		
+cev33_010.scr:12	cev33_010.scr	12	ソフィ	Sophie	personagem		…………		
+cev33_020.scr:0	cev33_020.scr	0	プレセア	Presea Combatir	personagem	CRLF x1	ロックス……さん。\n一つ……お願いがあります		
+cev33_020.scr:1	cev33_020.scr	1	ロックス	Rocks	personagem	CRLF x1	はい、何でしょう？\n僕で力になれる事でしたら		
+cev33_020.scr:2	cev33_020.scr	2	プレセア	Presea Combatir	personagem		握手をしても……いいですか？		
+cev33_020.scr:3	cev33_020.scr	3	ロックス	Rocks	personagem		握手、ですか？		
+cev33_020.scr:4	cev33_020.scr	4	ロックス	Rocks	personagem		そんな事で良かったら……どうぞ		
+cev33_020.scr:5	cev33_020.scr	5	プレセア	Presea Combatir	personagem		……にくきゅう……		
+cev33_020.scr:6	cev33_020.scr	6	ロックス	Rocks	personagem		へっ？		
+cev33_020.scr:7	cev33_020.scr	7	プレセア	Presea Combatir	personagem		いい肉球……です		
+cev33_020.scr:8	cev33_020.scr	8	プレセア	Presea Combatir	personagem		ありがとう……ございます		
+cev33_020.scr:9	cev33_020.scr	9	ロックス	Rocks	personagem		どう、いたしまして……？		
+cev33_020.scr:10	cev33_020.scr	10	ロックス	Rocks	personagem		（何だったんだろう……今の？）		
+cev33_030.scr:0	cev33_030.scr	0	エミル	Emil Castagnier	personagem	CRLF x2	ええっと……\n今日のホール掃除のメンバーは\nこれで全員揃ったみたいだね		
+cev33_030.scr:1	cev33_030.scr	1	エミル	Emil Castagnier	personagem	CRLF x2	えっと……。\nじゃあ、手始めに、簡単な\n役割分担を決めようか		
+cev33_030.scr:2	cev33_030.scr	2	エミル	Emil Castagnier	personagem		ホウキ係をやりたい人〜？		
+cev33_030.scr:3	cev33_030.scr	3	エミル	Emil Castagnier	personagem	CRLF x1	えと……。\nじゃあ、ちりとり係をやりたい人〜？		
+cev33_030.scr:4	cev33_030.scr	4	エミル	Emil Castagnier	personagem	CRLF x1	だ、誰も立候補しないの？\nそれじゃあ……		
+cev33_030.scr:5	cev33_030.scr	5	リオン	Leon Magnus	personagem	CRLF x1	いい加減にしろ。\nいつまでくだらんお喋りを続けるつもりだ		
+cev33_030.scr:6	cev33_030.scr	6	リオン	Leon Magnus	personagem	CRLF x1	さっさと終えて帰らせてもらうぞ。\n僕は忙しいんだ		
+cev33_030.scr:7	cev33_030.scr	7	リカルド	Ricardo Soldato	personagem	CRLF x2	同感だな。\nガキの遊びには付き合えん。\n俺も適当にやらせてもらう		
+cev33_030.scr:8	cev33_030.scr	8	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……こっちの事は気にするな。\nそっちはそっちでやればいい		
+cev33_030.scr:9	cev33_030.scr	9	プレセア	Presea Combatir	personagem		あの……元気を出して下さい		
+cev33_030.scr:10	cev33_030.scr	10	エミル	Emil Castagnier	personagem		プレセア……		
+cev33_030.scr:11	cev33_030.scr	11	プレセア	Presea Combatir	personagem	CRLF x2	着手の遅れは……その分、終了の遅れと\n作業モチベーションの低下に\n……繋がります		
+cev33_030.scr:12	cev33_030.scr	12	プレセア	Presea Combatir	personagem		速やかな作業開始を、提案します		
+cev33_030.scr:13	cev33_030.scr	13	エミル	Emil Castagnier	personagem	CRLF x2	うう……。\n僕は、どうせ何をやっても\nダメな人間なんだ……		
+cev33_030.scr:14	cev33_030.scr	14	プレセア	Presea Combatir	personagem	CRLF x2	エミル……さん？\n泣いている……？\n……なぜ……ですか？		
+cev33_040.scr:0	cev33_040.scr	0	プレセア	Presea Combatir	personagem	CRLF x1	ヴェイグさんの持ってる、それは……\nお守り、ですか？		
+cev33_040.scr:1	cev33_040.scr	1	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……ああ。\nクレアからもらったものだ		
+cev33_040.scr:2	cev33_040.scr	2	プレセア	Presea Combatir	personagem	CRLF x1	クレアさんから……ですか。\n持ち歩いて……いるんですね		
+cev33_040.scr:3	cev33_040.scr	3	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……これがあると\n何かに守られている気がするんだ		
+cev33_040.scr:4	cev33_040.scr	4	プレセア	Presea Combatir	personagem		本当に「お守り」……なんですね		
+cev33_040.scr:5	cev33_040.scr	5	ヴェイグ	Veigue Lungberg	personagem		ああ……		
+cev33_040.scr:6	cev33_040.scr	6	プレセア	Presea Combatir	personagem	CRLF x1	（……、私にも……そういうお守りが\n　作れる様になるでしょうか）		
+cev33_040.scr:7	cev33_040.scr	7	プレセア	Presea Combatir	personagem	CRLF x1	（誰かを守ったり……力になれる、\n　そんな……お守りが……）		
+cev33_050.scr:0	cev33_050.scr	0	プレセア	Presea Combatir	personagem		……ジーニアス		
+cev33_050.scr:1	cev33_050.scr	1	ジーニアス	Genis Sage	personagem		あっ……プ、プレセア？		
+cev33_050.scr:2	cev33_050.scr	2	リッド	Reid Hershel	personagem	CRLF x1	（チャンスじゃねえか。\n　ほら、頑張って会話繋げよ！）		
+cev33_050.scr:3	cev33_050.scr	3	ジーニアス	Genis Sage	personagem	CRLF x2	（ちょ、ちょっと。\n　プレッシャーかけるの\n　やめてよね……！）		
+cev33_050.scr:4	cev33_050.scr	4	プレセア	Presea Combatir	personagem		今……忙しいですか？		
+cev33_050.scr:5	cev33_050.scr	5	ジーニアス	Genis Sage	personagem	CRLF x1	ぜ、全然！？　\n大丈夫だよ！		
+cev33_050.scr:6	cev33_050.scr	6	ジーニアス	Genis Sage	personagem	CRLF x1	どうしたの？\n……何か、困った事でもあった？		
+cev33_050.scr:7	cev33_050.scr	7	プレセア	Presea Combatir	personagem	CRLF x1	私があげたお守り……。\n今も、ジーニアスは持っていますか		
+cev33_050.scr:8	cev33_050.scr	8	ジーニアス	Genis Sage	personagem	CRLF x2	うん、もちろんだよ！\nプレセアからもらった、\n大切なお守りだもの		
+cev33_050.scr:9	cev33_050.scr	9	プレセア	Presea Combatir	personagem		では、今見せてもらってもいいですか		
+cev33_050.scr:10	cev33_050.scr	10	ジーニアス	Genis Sage	personagem		えっ？		
+cev33_050.scr:11	cev33_050.scr	11	ジーニアス	Genis Sage	personagem	CRLF x1	い、今は……。\nちょっと、持っていないけど		
+cev33_050.scr:12	cev33_050.scr	12	ジーニアス	Genis Sage	personagem		でも、部屋にはちゃんと飾って……		
+cev33_050.scr:13	cev33_050.scr	13	プレセア	Presea Combatir	personagem		持ち歩いては……いないんですね		
+cev33_050.scr:14	cev33_050.scr	14	プレセア	Presea Combatir	personagem		そうですか……		
+cev33_050.scr:15	cev33_050.scr	15	ジーニアス	Genis Sage	personagem	CRLF x2	えっ？　\nちょ、ちょっとプレセア？\nどうしたのさ？		
+cev33_050.scr:16	cev33_050.scr	16	リッド	Reid Hershel	personagem		何だよ、フラれちまったのか？		
+cev33_050.scr:17	cev33_050.scr	17	リッド	Reid Hershel	personagem	CRLF x1	……ま、でも、そういう事もあるよな。\n元気出せよ、ジーニアス		
+cev33_050.scr:18	cev33_050.scr	18	ジーニアス	Genis Sage	personagem		フラれてなんかないってば！		
+cev33_050.scr:19	cev33_050.scr	19	ジーニアス	Genis Sage	personagem		嫌な事言わないでよ、もう〜！！		
+cev33_060.scr:0	cev33_060.scr	0	チェルシー	Chelsea Torn	personagem	CRLF x1	やっぱり、いざという時の備えとして\n最低限の自衛手段は必要ですよねえ		
+cev33_060.scr:1	cev33_060.scr	1	ルビア	Rubia Natwick	personagem	CRLF x2	全くよね。\nどうしてこんな物騒な世の中に\nなっちゃったのかしら……		
+cev33_060.scr:2	cev33_060.scr	2	チェルシー	Chelsea Torn	personagem	CRLF x1	あっ、プレセアさん！\nどこに行くんですか？		
+cev33_060.scr:3	cev33_060.scr	3	プレセア	Presea Combatir	personagem	CRLF x1	受注していた……お守りが出来たので、\n街まで届けに行ってきます		
+cev33_060.scr:4	cev33_060.scr	4	ルビア	Rubia Natwick	personagem	CRLF x1	届けにって、一人で？\n危なくない？		
+cev33_060.scr:5	cev33_060.scr	5	プレセア	Presea Combatir	personagem		危ない？		
+cev33_060.scr:6	cev33_060.scr	6	チェルシー	Chelsea Torn	personagem	CRLF x2	最近この辺り、物盗りとかが増えて\n物騒になってきてるみたいなんです。\nプレセアさんも気を付けて下さい		
+cev33_060.scr:7	cev33_060.scr	7	ルビア	Rubia Natwick	personagem	CRLF x2	そうよ。\nプレセアなんて特に可愛いんだし、\n悪い奴に目を付けられたら大変じゃない		
+cev33_060.scr:8	cev33_060.scr	8	プレセア	Presea Combatir	personagem	CRLF x1	いえ……私は大丈夫です。\n武器も持っていますし		
+cev33_060.scr:9	cev33_060.scr	9	チェルシー	Chelsea Torn	personagem	CRLF x2	そうは言っても、大人の男性の力は\n思った以上に強いですから。\n用心に越した事はないですよ		
+cev33_060.scr:10	cev33_060.scr	10	ルビア	Rubia Natwick	personagem	CRLF x1	そうよ、プレセア。\n男の人を甘く見たらダメ		
+cev33_060.scr:11	cev33_060.scr	11	ルビア	Rubia Natwick	personagem		男は時として、獣になるものなの！		
+cev33_060.scr:12	cev33_060.scr	12	プレセア	Presea Combatir	personagem		獣……？		
+cev33_060.scr:13	cev33_060.scr	13	チェルシー	Chelsea Torn	personagem	CRLF x2	早く私達みたいな、かよわい女性が安心して\n出かけられる世の中になって欲しいですね。\nルビアさん		
+cev33_060.scr:14	cev33_060.scr	14	ルビア	Rubia Natwick	personagem		そうね、チェルシー		
+cev33_060.scr:15	cev33_060.scr	15	ルビア	Rubia Natwick	personagem	CRLF x1	だからプレセアも、外出する時は\n細心の注意を払わなくちゃダメよ？		
+cev33_060.scr:16	cev33_060.scr	16	プレセア	Presea Combatir	personagem	CRLF x1	……？\nはい……気を付けます		
+cev33_070.scr:0	cev33_070.scr	0	シェリア	Cheria Barnes	personagem	CRLF x1	アスベル？\n正直に話して欲しい事があるの		
+cev33_070.scr:1	cev33_070.scr	1	アスベル	Asbel Lhant	personagem	CRLF x1	どうしたんだ？\nそんなに改まって……		
+cev33_070.scr:2	cev33_070.scr	2	シェリア	Cheria Barnes	personagem	CRLF x1	私って……その……、\nお、おばさんぽいと思う？		
+cev33_070.scr:3	cev33_070.scr	3	アスベル	Asbel Lhant	personagem	CRLF x1	おばさん？　\nシェリアが？		
+cev33_070.scr:4	cev33_070.scr	4	アスベル	Asbel Lhant	personagem	CRLF x1	そんな事はないだろ。\n一度だって、思った事はないよ		
+cev33_070.scr:5	cev33_070.scr	5	シェリア	Cheria Barnes	personagem		アスベル……！		
+cev33_070.scr:6	cev33_070.scr	6	プレセア	Presea Combatir	personagem		おばさん……		
+cev33_070.scr:7	cev33_070.scr	7	プレセア	Presea Combatir	personagem	CRLF x1	一般的には……４０代から５０代の\n中年女性を表す言葉……です		
+cev33_070.scr:8	cev33_070.scr	8	ソフィ	Sophie	personagem	CRLF x1	中年？\nシェリアは、中年なの？		
+cev33_070.scr:9	cev33_070.scr	9	アスベル	Asbel Lhant	personagem	CRLF x1	いや、シェリアは未成年だよ。\nまだ１８歳なんだから		
+cev33_070.scr:10	cev33_070.scr	10	ソフィ	Sophie	personagem		そっか		
+cev33_070.scr:11	cev33_070.scr	11	プレセア	Presea Combatir	personagem		青年……とも呼称されます		
+cev33_070.scr:12	cev33_070.scr	12	シェリア	Cheria Barnes	personagem	CRLF x2	あのね、みんな……。\nそういう事を聞きたかったんじゃ\nないんだけど……		
+cev33_080.scr:0	cev33_080.scr	0	ポッポ	Poppo	personagem		キュ、キュ、キュキュキュ〜♪		
+cev33_080.scr:1	cev33_080.scr	1	プレセア	Presea Combatir	personagem	CRLF x1	ポッポさんは……、\n手先が器用なんですね		
+cev33_080.scr:2	cev33_080.scr	2	ポッポ	Poppo	personagem	CRLF x2	当然だキュ。\n発明家として日々、\n鍛錬は怠っていないキュ		
+cev33_080.scr:3	cev33_080.scr	3	プレセア	Presea Combatir	personagem	CRLF x1	少し、このまま見学しても\nいいでしょうか		
+cev33_080.scr:4	cev33_080.scr	4	ポッポ	Poppo	personagem	CRLF x1	プレセアさんも、\n発明に興味があるキュ？		
+cev33_080.scr:5	cev33_080.scr	5	プレセア	Presea Combatir	personagem	CRLF x2	はい……ポッポさんの技術は\n私のお守り作りの\n参考になりそうです		
+cev33_080.scr:6	cev33_080.scr	6	ポッポ	Poppo	personagem		オーケィ、わかったキュ！		
+cev33_080.scr:7	cev33_080.scr	7	ポッポ	Poppo	personagem	CRLF x1	それなら、見てるだけじゃなくて\n実際に道具や素材にも触れてみるキュ		
+cev33_080.scr:8	cev33_080.scr	8	プレセア	Presea Combatir	personagem	CRLF x1	いいの……ですか？\n道具は、職人の命では……		
+cev33_080.scr:9	cev33_080.scr	9	ポッポ	Poppo	personagem	CRLF x2	問題ないキュ！\nやる気のある人は\nいつでも大歓迎だキュ！		
+cev33_080.scr:10	cev33_080.scr	10	ポッポ	Poppo	personagem	CRLF x1	気が向いたら、いつでも\nまた来て欲しいキュ！		
+cev33_080.scr:11	cev33_080.scr	11	プレセア	Presea Combatir	personagem		ポッポさん……		
+cev33_080.scr:12	cev33_080.scr	12	プレセア	Presea Combatir	personagem		ありがとう……ございます		
+cev33_080.scr:13	cev33_080.scr	13	ポッポ	Poppo	personagem		キュキュ〜〜！！		
+cev33_200.scr:0	cev33_200.scr	0	プレセア	Presea Combatir	personagem	CRLF x1	通常。\n		
+cev33_200.scr:1	cev33_200.scr	1	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:2	cev33_200.scr	2	プレセア	Presea Combatir	personagem	CRLF x1	笑い。\n		
+cev33_200.scr:3	cev33_200.scr	3	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:4	cev33_200.scr	4	プレセア	Presea Combatir	personagem	CRLF x1	悲しみ。\n		
+cev33_200.scr:5	cev33_200.scr	5	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:6	cev33_200.scr	6	プレセア	Presea Combatir	personagem	CRLF x1	不機嫌。\n		
+cev33_200.scr:7	cev33_200.scr	7	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:8	cev33_200.scr	8	プレセア	Presea Combatir	personagem	CRLF x1	疑問。\n		
+cev33_200.scr:9	cev33_200.scr	9	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:10	cev33_200.scr	10	プレセア	Presea Combatir	personagem	CRLF x1	照れ。\n		
+cev33_200.scr:11	cev33_200.scr	11	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:12	cev33_200.scr	12	プレセア	Presea Combatir	personagem	CRLF x1	通常。\n		
+cev33_200.scr:13	cev33_200.scr	13	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:14	cev33_200.scr	14	プレセア	Presea Combatir	personagem	CRLF x1	笑い。\n		
+cev33_200.scr:15	cev33_200.scr	15	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:16	cev33_200.scr	16	プレセア	Presea Combatir	personagem	CRLF x1	悲しみ。\n		
+cev33_200.scr:17	cev33_200.scr	17	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:18	cev33_200.scr	18	プレセア	Presea Combatir	personagem	CRLF x1	不機嫌。\n		
+cev33_200.scr:19	cev33_200.scr	19	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:20	cev33_200.scr	20	プレセア	Presea Combatir	personagem	CRLF x1	疑問。\n		
+cev33_200.scr:21	cev33_200.scr	21	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:22	cev33_200.scr	22	プレセア	Presea Combatir	personagem	CRLF x1	照れ。\n		
+cev33_200.scr:23	cev33_200.scr	23	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:24	cev33_200.scr	24	プレセア	Presea Combatir	personagem	CRLF x1	通常。\n		
+cev33_200.scr:25	cev33_200.scr	25	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:26	cev33_200.scr	26	プレセア	Presea Combatir	personagem	CRLF x1	笑い。\n		
+cev33_200.scr:27	cev33_200.scr	27	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:28	cev33_200.scr	28	プレセア	Presea Combatir	personagem	CRLF x1	悲しみ。\n		
+cev33_200.scr:29	cev33_200.scr	29	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:30	cev33_200.scr	30	プレセア	Presea Combatir	personagem	CRLF x1	不機嫌。\n		
+cev33_200.scr:31	cev33_200.scr	31	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:32	cev33_200.scr	32	プレセア	Presea Combatir	personagem	CRLF x1	疑問。\n		
+cev33_200.scr:33	cev33_200.scr	33	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev33_200.scr:34	cev33_200.scr	34	プレセア	Presea Combatir	personagem	CRLF x1	照れ。\n		
+cev33_200.scr:35	cev33_200.scr	35	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

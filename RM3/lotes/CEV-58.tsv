@@ -1,0 +1,146 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev58_010.scr:0	cev58_010.scr	0	ルビア	Rubia Natwick	personagem		ねえ、カノンノはどう思う？		
+cev58_010.scr:1	cev58_010.scr	1	ルビア	Rubia Natwick	personagem	CRLF x1	あたし、最近ほんとカイウスの\n考えてる事がわからなくて		
+cev58_010.scr:2	cev58_010.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	う〜ん、色んな人がいるから\nそんなに深く考え込まなくても\n大丈夫な気もするけど……		
+cev58_010.scr:3	cev58_010.scr	3	ルビア	Rubia Natwick	personagem	CRLF x1	でも、怖いじゃない？\n夜中にふと目が覚めたら		
+cev58_010.scr:4	cev58_010.scr	4	ルビア	Rubia Natwick	personagem	CRLF x1	部屋で無心になってブーメランを\n投げてる人がいるのよ！		
+cev58_010.scr:5	cev58_010.scr	5	カイウス	Caius Qualls	personagem	CRLF x1	何だよ、その話だったら\nちゃんと説明しただろ？		
+cev58_010.scr:6	cev58_010.scr	6	ルビア	Rubia Natwick	personagem	CRLF x2	理由なんてない、ただ何となく\nそうしたい気分になっただけだ\n……ですって？		
+cev58_010.scr:7	cev58_010.scr	7	ルビア	Rubia Natwick	personagem	CRLF x1	そんなの！　\n余計怖くなるじゃない！		
+cev58_010.scr:8	cev58_010.scr	8	カイウス	Caius Qualls	personagem		何でだよ！？		
+cev58_010.scr:9	cev58_010.scr	9	カイウス	Caius Qualls	personagem	CRLF x1	ほんとに理由はないんだから\nしょうがないだろ		
+cev58_010.scr:10	cev58_010.scr	10	カイウス	Caius Qualls	personagem	CRLF x1	何となく手に取ると\nそのまま……		
+cev58_010.scr:11	cev58_010.scr	11	カイウス	Caius Qualls	personagem		つい、投げ続けちゃうんだよ！		
+cev58_010.scr:12	cev58_010.scr	12	ルビア	Rubia Natwick	personagem	CRLF x1	だったら、投げた後に我に返って\n自分で自分にひくのやめなさいよね！		
+cev58_010.scr:13	cev58_010.scr	13	ルビア	Rubia Natwick	personagem	CRLF x1	もう、ほんっとそういうところ\n子どもなんだから		
+cev58_010.scr:14	cev58_010.scr	14	カイウス	Caius Qualls	personagem		それとこれとは関係ないだろ！？		
+cev58_010.scr:15	cev58_010.scr	15	ルビア	Rubia Natwick	personagem		あーりーまーすー！		
+cev58_010.scr:16	cev58_010.scr	16	カノンノ	Kanonno Grassvalley	personagem		二人とも、本当に仲がいいんだなぁ		
+cev58_020.scr:0	cev58_020.scr	0	ルビア	Rubia Natwick	personagem		どうしよう……困ったなぁ		
+cev58_020.scr:1	cev58_020.scr	1	カイル	Kyle Dunamis	personagem		どうしたの？		
+cev58_020.scr:2	cev58_020.scr	2	ルビア	Rubia Natwick	personagem		あ、カイル		
+cev58_020.scr:3	cev58_020.scr	3	ルビア	Rubia Natwick	personagem	CRLF x1	あのね……洗濯物が飛ばされて\n海に落ちちゃって……		
+cev58_020.scr:4	cev58_020.scr	4	ルビア	Rubia Natwick	personagem		ルーティのシーツなんだけど……		
+cev58_020.scr:5	cev58_020.scr	5	カイル	Kyle Dunamis	personagem		ええっ、母さ……ルーティさんの！？		
+cev58_020.scr:6	cev58_020.scr	6	カイル	Kyle Dunamis	personagem	CRLF x1	大変だ、すぐ取りに行かなくちゃ！\n夜眠れなくなっちゃうよ！！		
+cev58_020.scr:7	cev58_020.scr	7	ルビア	Rubia Natwick	personagem		えっ……でも		
+cev58_020.scr:8	cev58_020.scr	8	カイル	Kyle Dunamis	personagem	CRLF x1	大丈夫。\n心配しないで		
+cev58_020.scr:9	cev58_020.scr	9	カイル	Kyle Dunamis	personagem		これでも泳ぎは得意なんだ！		
+cev58_020.scr:10	cev58_020.scr	10	ロイド	Lloyd Irving	personagem	CRLF x1	あれっ。\n二人とも、何してるんだ？		
+cev58_020.scr:11	cev58_020.scr	11	カイル	Kyle Dunamis	personagem	CRLF x2	ロイド、シング！　\nグッドタイミングだよ！\n実はかくかくしかじかで……		
+cev58_020.scr:12	cev58_020.scr	12	シング	Shing Meteoryte	personagem	CRLF x1	大変だ！\nすぐに探しに行かなくちゃ！		
+cev58_020.scr:13	cev58_020.scr	13	ロイド	Lloyd Irving	personagem	CRLF x1	今ならまだ、そんなに遠くまで\n流されてないんじゃないか？		
+cev58_020.scr:14	cev58_020.scr	14	カイル	Kyle Dunamis	personagem	CRLF x1	オレもそう思う。\nところで二人とも……泳ぎの方は？		
+cev58_020.scr:15	cev58_020.scr	15	シング	Shing Meteoryte	personagem		バッチリだよ！		
+cev58_020.scr:16	cev58_020.scr	16	ロイド	Lloyd Irving	personagem		問題ないぜ！		
+cev58_020.scr:17	cev58_020.scr	17	ルビア	Rubia Natwick	personagem	CRLF x1	えぇぇ！？\nちょっと、泳ぐって、飛び込むの？		
+cev58_020.scr:18	cev58_020.scr	18	ルビア	Rubia Natwick	personagem	CRLF x1	というか、そんな事しなくても\n他の人から借りられれば……		
+cev58_020.scr:19	cev58_020.scr	19	シング	Shing Meteoryte	personagem	CRLF x2	大丈夫だよ。\nオレ達、これでも\n体力には自信あるからさ！		
+cev58_020.scr:20	cev58_020.scr	20	ロイド	Lloyd Irving	personagem	CRLF x2	そうそう。\n木の船に乗ったつもりで\nどーんと待っててくれよな		
+cev58_020.scr:21	cev58_020.scr	21	カイル	Kyle Dunamis	personagem	CRLF x2	よし。\nじゃあみんなで\nガンドコダッシュだ！		
+cev58_020.scr:22	cev58_020.scr	22	シング	Shing Meteoryte	personagem		おー！		
+cev58_020.scr:23	cev58_020.scr	23	ルビア	Rubia Natwick	personagem	CRLF x1	……って、ちょっとぉ……\nなんなの、その勢いとノリ……		
+cev58_030.scr:0	cev58_030.scr	0	ルビア	Rubia Natwick	personagem	CRLF x1	カノンノは一人部屋なんだね。\n寂しくないの？		
+cev58_030.scr:1	cev58_030.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	寂しいとかはないけど……。\nルームメイトは、欲しい……かな		
+cev58_030.scr:2	cev58_030.scr	2	ルビア	Rubia Natwick	personagem	CRLF x2	そうよね。\n女の子一人じゃ\n夜とか少し怖いもの		
+cev58_030.scr:3	cev58_030.scr	3	ルビア	Rubia Natwick	personagem	CRLF x1	でも、ルームメイトはちゃんと\n見定めなくちゃダメよ		
+cev58_030.scr:4	cev58_030.scr	4	ルビア	Rubia Natwick	personagem	CRLF x1	お互いの生活リズムが合って、\n協力してやっていける相手じゃないと		
+cev58_030.scr:5	cev58_030.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ルビアにとっての\nカイウスみたいなものだね		
+cev58_030.scr:6	cev58_030.scr	6	ルビア	Rubia Natwick	personagem	CRLF x2	冗談でしょ！\nカイウスなんてダメよ！　\n全然ダメ！		
+cev58_030.scr:7	cev58_030.scr	7	ルビア	Rubia Natwick	personagem	CRLF x2	寝相は悪いし、いびきはうるさいし\nゴミの日にゴミ出すの忘れるし\nすっごい手がかかるんだから！		
+cev58_030.scr:8	cev58_030.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ふふ……でも、楽しそう。\nルビアの顔にもそう書いてあるよ		
+cev58_030.scr:9	cev58_030.scr	9	ルビア	Rubia Natwick	personagem		そ、そんな事ないわよぅ！		
+cev58_030.scr:10	cev58_030.scr	10	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ルームメイトか……いいなぁ。\n私も、誰かにお願いしてみようかなぁ		
+cev58_040.scr:0	cev58_040.scr	0	ウィル	Will Raynard	personagem	CRLF x1	そういえば、ルビアはどうして\nギルドにやって来たんだ？		
+cev58_040.scr:1	cev58_040.scr	1	ウィル	Will Raynard	personagem		確か、結成時の初期メンバーだと聞いたが		
+cev58_040.scr:2	cev58_040.scr	2	ルビア	Rubia Natwick	personagem	CRLF x2	そっか。\nウィルさんにはまだ\n話した事なかったのよね		
+cev58_040.scr:3	cev58_040.scr	3	ルビア	Rubia Natwick	personagem	CRLF x2	……実は、故郷で色々あって\n何が正しくて何が正しくないのか\nちょっとわからなくなっちゃったの		
+cev58_040.scr:4	cev58_040.scr	4	ルビア	Rubia Natwick	personagem	CRLF x2	でも、みんなが安心して暮らす為に\nギルドを立ち上げてお手伝いをするっていう\nアンジュさんの考えは正しいと思ったわ		
+cev58_040.scr:5	cev58_040.scr	5	ルビア	Rubia Natwick	personagem	CRLF x2	だから、出来る事をしながら\nあたしはあたしで\n色々考えてみようと思ったの		
+cev58_040.scr:6	cev58_040.scr	6	ウィル	Will Raynard	personagem	CRLF x1	そうか。\n……答えは見つかりそうか？		
+cev58_040.scr:7	cev58_040.scr	7	ルビア	Rubia Natwick	personagem		正直、まだまだ考え中		
+cev58_040.scr:8	cev58_040.scr	8	ルビア	Rubia Natwick	personagem	CRLF x1	でも、そんな簡単に答えがわかったら\nつまらないじゃない？		
+cev58_040.scr:9	cev58_040.scr	9	ルビア	Rubia Natwick	personagem	CRLF x1	時間がかかってもいいの。\nあたしは、本当の事が知りたい		
+cev58_040.scr:10	cev58_040.scr	10	ルビア	Rubia Natwick	personagem	CRLF x1	焦ってウソの情報に踊らされるより\nそっちの方がずっとマシよ		
+cev58_040.scr:11	cev58_040.scr	11	ウィル	Will Raynard	personagem	CRLF x1	気が強いとは思っていたが\nこれは予想以上だな		
+cev58_040.scr:12	cev58_040.scr	12	ウィル	Will Raynard	personagem		しっかりしたお嬢さんだ		
+cev58_040.scr:13	cev58_040.scr	13	ルビア	Rubia Natwick	personagem		うふふ、当然よ		
+cev58_040.scr:14	cev58_040.scr	14	ルビア	Rubia Natwick	personagem	CRLF x1	あたしはカイウスのお守りも\nしてるんですからね♪		
+cev58_050.scr:0	cev58_050.scr	0	ルビア	Rubia Natwick	personagem	CRLF x1	感謝の気持ちを忘れるのって\nとっても悲しい事じゃない？		
+cev58_050.scr:1	cev58_050.scr	1	ウィル	Will Raynard	personagem	CRLF x1	いきなりどうした。\n随分実感のこもった言い方だな		
+cev58_050.scr:2	cev58_050.scr	2	ルビア	Rubia Natwick	personagem	CRLF x1	それはそうよ。\nあたしだって、神官見習いなんですもの		
+cev58_050.scr:3	cev58_050.scr	3	ルビア	Rubia Natwick	personagem	CRLF x1	これでも色々、人の気持ちに対して\n思うところがあったりするの		
+cev58_050.scr:4	cev58_050.scr	4	ウィル	Will Raynard	personagem		そうだな……この時勢だ		
+cev58_050.scr:5	cev58_050.scr	5	ウィル	Will Raynard	personagem	CRLF x2	端的な救いを求める者ばかりが増え\n人は、他者への気遣いや感謝の思いを\n日ごとに忘れていっている		
+cev58_050.scr:6	cev58_050.scr	6	ウィル	Will Raynard	personagem	CRLF x1	慈愛の心を説く教会関係者として\n心穏やかではいられまい		
+cev58_050.scr:7	cev58_050.scr	7	ルビア	Rubia Natwick	personagem	CRLF x2	それもそうだけど……。\nあたしが腹を立てているのは\nカイウスのこと！		
+cev58_050.scr:8	cev58_050.scr	8	ルビア	Rubia Natwick	personagem	CRLF x2	カイウスったら最近、あたしが洗濯物を\n片付けてあげたりしても、\nお礼の言葉一つ言わないの		
+cev58_050.scr:9	cev58_050.scr	9	ルビア	Rubia Natwick	personagem	CRLF x2	昔はそんなんじゃなかったのに\nいつから感謝の気持ちを\n忘れてしまったのかしら		
+cev58_050.scr:10	cev58_050.scr	10	ルビア	Rubia Natwick	personagem	CRLF x1	ああ、思い出したら\n余計に腹が立ってきちゃった！		
+cev58_050.scr:11	cev58_050.scr	11	ウィル	Will Raynard	personagem	CRLF x1	それは、感謝の気持ちとは\nまた別の問題があるんじゃないか……？		
+cev58_060.scr:0	cev58_060.scr	0	カイウス	Caius Qualls	personagem	CRLF x2	（……おい。\n　何で今日に限って、偉い人ばっかり\n　集まってるんだよ……）		
+cev58_060.scr:1	cev58_060.scr	1	ルビア	Rubia Natwick	personagem	CRLF x1	（もう、そんな事\n　あたしが知るわけないでしょ？）		
+cev58_060.scr:2	cev58_060.scr	2	ルビア	Rubia Natwick	personagem	CRLF x1	（だけど……困ったわ。\n　出て行きづらいわね……）		
+cev58_060.scr:3	cev58_060.scr	3	カイウス	Caius Qualls	personagem	CRLF x1	（今日のメニューは\n　オレの好物のハンバーグ定食なのに！）		
+cev58_060.scr:4	cev58_060.scr	4	ルビア	Rubia Natwick	personagem	CRLF x2	（あたしだって、日替わりメニューの\n　特製タマゴスープが飲みたいわよ。\n　でも、出直しましょう）		
+cev58_060.scr:5	cev58_060.scr	5	カイウス	Caius Qualls	personagem	CRLF x1	（何でだよ？\n　オレは絶対、定食を食うんだ！）		
+cev58_060.scr:6	cev58_060.scr	6	ルビア	Rubia Natwick	personagem		（馬鹿、わからないの？）		
+cev58_060.scr:7	cev58_060.scr	7	ルビア	Rubia Natwick	personagem	CRLF x2	（あの人達が、ああやって集まって\n　普通にご飯を食べられるのは、\n　このギルドの中だけなのよ）		
+cev58_060.scr:8	cev58_060.scr	8	カイウス	Caius Qualls	personagem	CRLF x2	（そうか……外だともっと\n　堅苦しい理由とか、\n　何か色々なくちゃ、会えないんだよな）		
+cev58_060.scr:9	cev58_060.scr	9	ルビア	Rubia Natwick	personagem	CRLF x1	（そういうこと。\n　ほら、わかったら行くわよ？）		
+cev58_060.scr:10	cev58_060.scr	10	カイウス	Caius Qualls	personagem		（だけどよ……）		
+cev58_060.scr:11	cev58_060.scr	11	ルビア	Rubia Natwick	personagem	CRLF x2	（もう、駄々こねないの。\n　ハンバーグだったら、次の当番の時\n　あたしが特別に作ってあげるから）		
+cev58_060.scr:12	cev58_060.scr	12	カイウス	Caius Qualls	personagem		（本当か？　やったぜ！！）		
+cev58_060.scr:13	cev58_060.scr	13	ルビア	Rubia Natwick	personagem	CRLF x1	（ふぅ……もう、カイウスったら。\n　本当に子どもなんだから……）		
+cev58_070.scr:0	cev58_070.scr	0	ノーマ	Norma Beatty	personagem		チェルっちとビアっちって、似てるよね〜		
+cev58_070.scr:1	cev58_070.scr	1	チェルシー	Chelsea Torn	personagem		そうですか？		
+cev58_070.scr:2	cev58_070.scr	2	ルビア	Rubia Natwick	personagem		確かに、髪の色は近いかも……		
+cev58_070.scr:3	cev58_070.scr	3	チェルシー	Chelsea Torn	personagem	CRLF x1	でも、どちらかというと私はピンクで\nルビアさんは赤ですよね		
+cev58_070.scr:4	cev58_070.scr	4	ノーマ	Norma Beatty	personagem		ぶっぶー、全然外れ		
+cev58_070.scr:5	cev58_070.scr	5	ノーマ	Norma Beatty	personagem	CRLF x1	そこよ、そこ！　\nそこ以外絶対、ない！！		
+cev58_070.scr:6	cev58_070.scr	6	ルビア	Rubia Natwick	personagem		そこって……		
+cev58_070.scr:7	cev58_070.scr	7	チェルシー	Chelsea Torn	personagem		どこですか？		
+cev58_070.scr:8	cev58_070.scr	8	ノーマ	Norma Beatty	personagem	CRLF x1	だから、そのかぼちゃパンツ！\nソックリじゃん！		
+cev58_070.scr:9	cev58_070.scr	9	チェルシー	Chelsea Torn	personagem	CRLF x1	ルビア　　：かぼちゃパンツじゃないわよ！！！\nチェルシー：かぼちゃパンツじゃないです！！！		
+cev58_080.scr:0	cev58_080.scr	0	ルビア	Rubia Natwick	personagem	CRLF x1	ウィルさんって、お洋服着てても\n筋肉隆々なのがわかりますよね		
+cev58_080.scr:1	cev58_080.scr	1	ウィル	Will Raynard	personagem	CRLF x1	隆々ではないさ。\n必要な分だけ鍛えているだけだ		
+cev58_080.scr:2	cev58_080.scr	2	ルビア	Rubia Natwick	personagem	CRLF x2	でも、あんなに\n大きなハンマーを振り回せるのは\nその筋肉があるからですよ		
+cev58_080.scr:3	cev58_080.scr	3	ウィル	Will Raynard	personagem	CRLF x1	気が付いたら、こうなっていた……、\nというのが正しいのかもしれないが		
+cev58_080.scr:4	cev58_080.scr	4	ルビア	Rubia Natwick	personagem	CRLF x1	コ、コングマンさん？\n大丈夫ですか？		
+cev58_080.scr:5	cev58_080.scr	5	コングマン	Kongman	personagem	CRLF x1	俺様の前で筋肉を自慢するとは、\nいい度胸だな、ウィル？		
+cev58_080.scr:6	cev58_080.scr	6	ウィル	Will Raynard	personagem		誰も自慢などしていない		
+cev58_080.scr:7	cev58_080.scr	7	コングマン	Kongman	personagem	CRLF x1	こうなったら勝負だ！\nどっちの筋肉が美しいか決めるぞ！		
+cev58_080.scr:8	cev58_080.scr	8	コングマン	Kongman	personagem		ふっ！		
+cev58_080.scr:9	cev58_080.scr	9	コングマン	Kongman	personagem		む！！		
+cev58_080.scr:10	cev58_080.scr	10	コングマン	Kongman	personagem		はっ！！！		
+cev58_080.scr:11	cev58_080.scr	11	コングマン	Kongman	personagem	CRLF x1	さあ、お前の番だぞウィル。\nそして、ルビアが勝敗を決めてくれ！		
+cev58_080.scr:12	cev58_080.scr	12	ルビア	Rubia Natwick	personagem	CRLF x2	え？　\nえ？　\nあたしですか？		
+cev58_080.scr:13	cev58_080.scr	13	ウィル	Will Raynard	personagem	CRLF x1	コングマン、オレの負けだ。\nお前の筋肉の方がすごい		
+cev58_080.scr:14	cev58_080.scr	14	コングマン	Kongman	personagem	CRLF x1	負けを認めるなんて潔いなぁ！\nよしよし！！		
+cev58_080.scr:15	cev58_080.scr	15	コングマン	Kongman	personagem		フィリアさ〜ん、勝ちましたよ〜∀		
+cev58_080.scr:16	cev58_080.scr	16	ルビア	Rubia Natwick	personagem		ありがとうございます……		
+cev58_080.scr:17	cev58_080.scr	17	ウィル	Will Raynard	personagem		いや、気にする事はない……		
+cev58_200.scr:0	cev58_200.scr	0	ルビア	Rubia Natwick	personagem	CRLF x1	通常。\n		
+cev58_200.scr:1	cev58_200.scr	1	ルビア	Rubia Natwick	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev58_200.scr:2	cev58_200.scr	2	ルビア	Rubia Natwick	personagem	CRLF x1	笑い。\n		
+cev58_200.scr:3	cev58_200.scr	3	ルビア	Rubia Natwick	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev58_200.scr:4	cev58_200.scr	4	ルビア	Rubia Natwick	personagem	CRLF x1	怒り。\n		
+cev58_200.scr:5	cev58_200.scr	5	ルビア	Rubia Natwick	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev58_200.scr:6	cev58_200.scr	6	ルビア	Rubia Natwick	personagem	CRLF x1	悲しみ。\n		
+cev58_200.scr:7	cev58_200.scr	7	ルビア	Rubia Natwick	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev58_200.scr:8	cev58_200.scr	8	ルビア	Rubia Natwick	personagem	CRLF x1	通常。\n		
+cev58_200.scr:9	cev58_200.scr	9	ルビア	Rubia Natwick	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev58_200.scr:10	cev58_200.scr	10	ルビア	Rubia Natwick	personagem	CRLF x1	笑い。\n		
+cev58_200.scr:11	cev58_200.scr	11	ルビア	Rubia Natwick	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev58_200.scr:12	cev58_200.scr	12	ルビア	Rubia Natwick	personagem	CRLF x1	怒り。\n		
+cev58_200.scr:13	cev58_200.scr	13	ルビア	Rubia Natwick	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev58_200.scr:14	cev58_200.scr	14	ルビア	Rubia Natwick	personagem	CRLF x1	悲しみ。\n		
+cev58_200.scr:15	cev58_200.scr	15	ルビア	Rubia Natwick	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev58_200.scr:16	cev58_200.scr	16	ルビア	Rubia Natwick	personagem	CRLF x1	通常。\n		
+cev58_200.scr:17	cev58_200.scr	17	ルビア	Rubia Natwick	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev58_200.scr:18	cev58_200.scr	18	ルビア	Rubia Natwick	personagem	CRLF x1	笑い。\n		
+cev58_200.scr:19	cev58_200.scr	19	ルビア	Rubia Natwick	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev58_200.scr:20	cev58_200.scr	20	ルビア	Rubia Natwick	personagem	CRLF x1	怒り。\n		
+cev58_200.scr:21	cev58_200.scr	21	ルビア	Rubia Natwick	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev58_200.scr:22	cev58_200.scr	22	ルビア	Rubia Natwick	personagem	CRLF x1	悲しみ。\n		
+cev58_200.scr:23	cev58_200.scr	23	ルビア	Rubia Natwick	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

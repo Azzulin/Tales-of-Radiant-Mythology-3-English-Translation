@@ -1,0 +1,215 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev45_010.scr:0	qev45_010.scr	0	ポッポ	Poppo	personagem		「黄金の鎚」って知ってるキュ？		
+qev45_010.scr:1	qev45_010.scr	1	ポッポ	Poppo	personagem	CRLF x1	そのアイテムがあれば、\n装備品の強化が出来るんだキュ！		
+qev45_010.scr:2	qev45_010.scr	2	ポッポ	Poppo	personagem	CRLF x1	強化をすれば、今以上に\n皆さんはもっと強くなれるキュ		
+qev45_010.scr:3	qev45_010.scr	3	ポッポ	Poppo	personagem	CRLF x1	間違いないキュ。\n大シャコ貝に入った気でいるキュ		
+qev45_010.scr:4	qev45_010.scr	4	ポッポ	Poppo	personagem	CRLF x1	お願いだキュ！\n探しに行ってきて欲しいキュ！		
+qev45_010.scr:5	qev45_010.scr	5	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「黄金の槌を探せ！」が\nエントリーされました。\nポッポから受ける事が出来ます		
+qev45_020.scr:0	qev45_020.scr	0	ポッポ	Poppo	personagem	CRLF x1	引き受けてくれるキュ？\n感謝するキュ！		
+qev45_020.scr:1	qev45_020.scr	1	ポッポ	Poppo	personagem	CRLF x2	きっと見つけてくれると信じてるキュ。\nよろしくお願いするキュ！\n気を付けて行くキュ！		
+qev45_060.scr:0	qev45_060.scr	0	ポッポ	Poppo	personagem	CRLF x2	感謝するキュ！\nこれで、さらなる強化が\n出来る様になったキュ！		
+qev45_060.scr:1	qev45_060.scr	1	ポッポ	Poppo	personagem		勝利のダンス、開始だキュ！		
+qev45_060.scr:2	qev45_060.scr	2	ポッポ	Poppo	personagem	CRLF x2	キュ〜キュキュ〜キュ〜キュキュッキュ〜♪\nキュキュキュ♪　キュキュキュ♪\nキュキュキュッキュ！		
+qev46_010.scr:0	qev46_010.scr	0	ポッポ	Poppo	personagem	CRLF x1	「灼熱のコークス」って\n聞いた事あるキュ？		
+qev46_010.scr:1	qev46_010.scr	1	ポッポ	Poppo	personagem	CRLF x2	前とは違うアイテムだキュ。\nもっと装備を強化したいなら、\nそれを探しに行ってきて欲しいキュ！		
+qev46_010.scr:2	qev46_010.scr	2	ポッポ	Poppo	personagem	CRLF x1	考えただけで、発明家の血が騒ぐキュ！\nそれくらい、役に立つアイテムなんだキュ！		
+qev46_010.scr:3	qev46_010.scr	3	ポッポ	Poppo	personagem		それじゃ、よろしくお願いするキュ〜！		
+qev46_010.scr:4	qev46_010.scr	4	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「灼熱のコークスを探せ！」が\nエントリーされました。\nポッポから受ける事が出来ます		
+qev46_020.scr:0	qev46_020.scr	0	ポッポ	Poppo	personagem	CRLF x1	行ってくれるキュ？\n感謝するキュ！		
+qev46_020.scr:1	qev46_020.scr	1	ポッポ	Poppo	personagem	CRLF x1	皆さんの帰りをいつまでも待ってるキュ！\n気を付けて行ってくるキュ〜〜！		
+qev46_060.scr:0	qev46_060.scr	0	ポッポ	Poppo	personagem	CRLF x2	お帰りキュ！\n無事、アイテムを持ってきてくれて\n嬉しいキュ		
+qev46_060.scr:1	qev46_060.scr	1	ポッポ	Poppo	personagem	CRLF x2	またまた、これで強化が出来るんだキュ！\nかっこいいキュ〜！\nキュキュ〜〜〜！！		
+qev46_060.scr:2	qev46_060.scr	2	ポッポ	Poppo	personagem		勝利のダンス、開始だキュ！！		
+qev46_060.scr:3	qev46_060.scr	3	ポッポ	Poppo	personagem	CRLF x2	キュ〜キュキュ〜キュ〜キュキュッキュ〜♪\nキュキュキュ♪　キュキュキュ♪\nキュキュキュッキュ！		
+qev47_010.scr:0	qev47_010.scr	0	ポッポ	Poppo	personagem		「疾風のフイゴ」って見た事あるキュ？		
+qev47_010.scr:1	qev47_010.scr	1	ポッポ	Poppo	personagem	CRLF x1	それがあれば、またまた\n装備を強化出来るんだキュ！		
+qev47_010.scr:2	qev47_010.scr	2	ポッポ	Poppo	personagem	CRLF x2	発明家の好奇心を刺激するキュ！\nぜひ、行ってきて欲しいキュ！\nお願いだキュ！		
+qev47_010.scr:3	qev47_010.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「疾風のフイゴを探せ！」が\nエントリーされました。\nポッポから受ける事が出来ます		
+qev47_020.scr:0	qev47_020.scr	0	ポッポ	Poppo	personagem		いつも協力、感謝するキュ！		
+qev47_020.scr:1	qev47_020.scr	1	ポッポ	Poppo	personagem	CRLF x2	ポッポももっと頑張って\nもっともっと皆さんの装備を\n強くしてみせるキュ！		
+qev47_020.scr:2	qev47_020.scr	2	ポッポ	Poppo	personagem	CRLF x1	だから、頑張って見つけてくるキュ！\n気を付けて行ってきて欲しいキュ！		
+qev47_060.scr:0	qev47_060.scr	0	ポッポ	Poppo	personagem	CRLF x1	キュ〜！　これだキュ〜〜！！\nバッチリだキュ〜〜〜！！！		
+qev47_060.scr:1	qev47_060.scr	1	ポッポ	Poppo	personagem	CRLF x2	これで、もっとすごい強化が\n出来る様になったキュ！\n勝利のダンス、開始だキュ！		
+qev47_060.scr:2	qev47_060.scr	2	ポッポ	Poppo	personagem	CRLF x2	キュ〜キュキュ〜キュ〜キュキュッキュ〜♪\nキュキュキュ♪　キュキュキュ♪\nキュキュキュッキュ！		
+qev48_010.scr:0	qev48_010.scr	0	ポッポ	Poppo	personagem		「純潔の装束」って知ってるキュ？		
+qev48_010.scr:1	qev48_010.scr	1	ポッポ	Poppo	personagem	CRLF x1	全ての発明家の憧れにして\nマニア垂涎の幻のアイテムなんだキュ		
+qev48_010.scr:2	qev48_010.scr	2	ポッポ	Poppo	personagem	CRLF x1	これで全てのアイテムが揃って\n最後の強化に挑戦出来るキュ！		
+qev48_010.scr:3	qev48_010.scr	3	ポッポ	Poppo	personagem	CRLF x1	幻というくらいだキュ、もしかしたら\n見つけるのはちょっと大変かもだキュ……		
+qev48_010.scr:4	qev48_010.scr	4	ポッポ	Poppo	personagem	CRLF x1	でも、皆さんを信じてるキュ！\n気を付けて、探しに行ってきて欲しいキュ！		
+qev48_010.scr:5	qev48_010.scr	5	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「純潔の装束を探せ！」が\nエントリーされました。\nポッポから受ける事が出来ます		
+qev48_020.scr:0	qev48_020.scr	0	ポッポ	Poppo	personagem		そう言ってくれると思ったキュ！		
+qev48_020.scr:1	qev48_020.scr	1	ポッポ	Poppo	personagem	CRLF x2	これで、本当に最後になるキュ！\n気を付けて行ってきて欲しいキュ！\n頑張るんだキュ〜〜！！		
+qev48_060.scr:0	qev48_060.scr	0	ポッポ	Poppo	personagem		キュ……		
+qev48_060.scr:1	qev48_060.scr	1	ポッポ	Poppo	personagem		キュキュ〜〜〜〜！！！		
+qev48_060.scr:2	qev48_060.scr	2	ポッポ	Poppo	personagem	CRLF x1	す、すごいキュ〜〜！\nほんとに、感謝の気持ちで一杯だキュ！		
+qev48_060.scr:3	qev48_060.scr	3	ポッポ	Poppo	personagem	CRLF x2	これで、皆さんの装備を\n極限まで鍛える事が出来るキュ。\n強化をしたくなったら、いつでも来るキュ！		
+qev48_060.scr:4	qev48_060.scr	4	ポッポ	Poppo	personagem		勝利のダンス、開始だキュ！		
+qev48_060.scr:5	qev48_060.scr	5	ポッポ	Poppo	personagem	CRLF x2	キュ〜キュキュ〜キュ〜キュキュッキュ〜♪\nキュキュキュ♪　キュキュキュ♪\nキュキュキュッキュ！		
+qev49_010.scr:0	qev49_010.scr	0	コーダ	Coda	personagem		コーダはな、夢を見たんだぞ、しかし		
+qev49_010.scr:1	qev49_010.scr	1	コーダ	Coda	personagem	CRLF x2	その夢に出て来てくれた奴が\nコーダに幻のレシピを教えて\nくれたんだな		
+qev49_010.scr:2	qev49_010.scr	2	コーダ	Coda	personagem	CRLF x1	アレがあれば、レシピ通りの\n新しい料理が出来るはずだぞ、しかし		
+qev49_010.scr:3	qev49_010.scr	3	(ator 200)	(ator 200)	desconhecido		……？		
+qev49_010.scr:4	qev49_010.scr	4	コーダ	Coda	personagem	CRLF x2	食べてみたいだろ、しかし。\nレシピも欲しいだろ、しかし。\nでも、アレが無いと出来ないんだな		
+qev49_010.scr:5	qev49_010.scr	5	コーダ	Coda	personagem	CRLF x1	いいから早く、誰かに取りに行って\n欲しいんだな、しかし		
+qev49_010.scr:6	qev49_010.scr	6	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ１」が\nエントリーされました。\nコーダから受ける事が出来ます		
+qev49_020.scr:0	qev49_020.scr	0	コーダ	Coda	personagem	CRLF x1	やっぱり、\n行ってくれると思ったぞ、しかし		
+qev49_020.scr:1	qev49_020.scr	1	コーダ	Coda	personagem	CRLF x2	コーダ、お腹すいてるぞ。\nしっかり取って来い。\n待ってるぞ、しかし		
+qev49_060.scr:0	qev49_060.scr	0	コーダ	Coda	personagem	CRLF x1	やっぱり、あったか、しかし。\nコーダの夢は間違いなかったな		
+qev49_060.scr:1	qev49_060.scr	1	コーダ	Coda	personagem	CRLF x1	これで新しい料理が出来るぞ、しかし。\n待ちきれないんだな、しかし		
+qev49_060.scr:2	qev49_060.scr	2	(ator 200)	(ator 200)	desconhecido		……？		
+qev49_060.scr:3	qev49_060.scr	3	コーダ	Coda	personagem	CRLF x1	何でもいいから\nコーダにメシを作るんだぞ、しかし		
+qev49_060.scr:4	qev49_060.scr	4	コーダ	Coda	personagem	CRLF x1	このレシピはコーダのおかげで\n手に入ったんだからな		
+qev49_060.scr:5	qev49_060.scr	5	コーダ	Coda	personagem		ありがたく思って欲しいぞ、しかし		
+qev49_060.scr:6	qev49_060.scr	6	(mensagem de sistema)	(mensagem de sistema)	sistema		パイナップルご飯のレシピを覚えた！		
+qev50_010.scr:0	qev50_010.scr	0	コーダ	Coda	personagem	CRLF x1	むう〜、あそこにも\nレシピが落ちてるはずだぞ、しかし		
+qev50_010.scr:1	qev50_010.scr	1	コーダ	Coda	personagem	CRLF x1	熱くてハフハフ、\nおなじみのあの料理なんだな、しかし		
+qev50_010.scr:2	qev50_010.scr	2	コーダ	Coda	personagem	CRLF x2	前の夢も当たったから\n今回も間違いないはずだぞ。\n早く行ってきて欲しいぞ		
+qev50_010.scr:3	qev50_010.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ２」が\nエントリーされました。\nコーダから受ける事が出来ます		
+qev50_020.scr:0	qev50_020.scr	0	コーダ	Coda	personagem	CRLF x1	気を付けて行くんだぞ、しかし。\n忘れずに、しっかり取ってくるんだな		
+qev50_020.scr:1	qev50_020.scr	1	コーダ	Coda	personagem	CRLF x1	新しい料理……\n早く食べたいぞ、しかし		
+qev50_060.scr:0	qev50_060.scr	0	コーダ	Coda	personagem	CRLF x1	またまた、アタリだったな。\nこれで、新しい料理を作れるぞ、しかし		
+qev50_060.scr:1	qev50_060.scr	1	コーダ	Coda	personagem		早く食べてみたいんだな、しかし……		
+qev50_060.scr:2	qev50_060.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		マーボーカレーのレシピを覚えた！		
+qev51_010.scr:0	qev51_010.scr	0	コーダ	Coda	personagem	CRLF x1	おー、コーダ、\n食べるの好きだからなー、しかし		
+qev51_010.scr:1	qev51_010.scr	1	コーダ	Coda	personagem	CRLF x1	まだまだ、今のレシピだけじゃ\n満足出来ないぞ		
+qev51_010.scr:2	qev51_010.scr	2	コーダ	Coda	personagem	CRLF x2	今度のレシピは\n一度食べたらやみ付きになる\nあの料理なんだな、しかし		
+qev51_010.scr:3	qev51_010.scr	3	コーダ	Coda	personagem	CRLF x1	○○、\n早く見つけてきて欲しいぞ、しかし		
+qev51_010.scr:4	qev51_010.scr	4	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ３」が\nエントリーされました。\nコーダから受ける事が出来ます		
+qev51_020.scr:0	qev51_020.scr	0	コーダ	Coda	personagem	CRLF x1	今度のレシピも\n美味そうな予感がするんだな、しかし		
+qev51_020.scr:1	qev51_020.scr	1	コーダ	Coda	personagem	CRLF x1	そういうわけだ。\nコーダはまだまだ食いたいぞ		
+qev51_020.scr:2	qev51_020.scr	2	コーダ	Coda	personagem	CRLF x1	○○には\n期待しているんだぞ、しかし		
+qev51_060.scr:0	qev51_060.scr	0	コーダ	Coda	personagem	CRLF x1	おー、やっぱりあったんだな〜。\n早く作って、食べてみたいぞ〜		
+qev51_060.scr:1	qev51_060.scr	1	コーダ	Coda	personagem	CRLF x1	コーダは猛烈に\n腹が減っているんだぞ、しかし！		
+qev51_060.scr:2	qev51_060.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		マーボーパイのレシピを覚えた！		
+qev52_010.scr:0	qev52_010.scr	0	コーダ	Coda	personagem	CRLF x1	うー、お前ら、興味ないのか、しかし？\nきっとスゴい料理だぞー？		
+qev52_010.scr:1	qev52_010.scr	1	(ator 200)	(ator 200)	desconhecido		……？		
+qev52_010.scr:2	qev52_010.scr	2	コーダ	Coda	personagem	CRLF x1	コーダ、また夢を見たんだぞ。\n本当なんだぞ		
+qev52_010.scr:3	qev52_010.scr	3	コーダ	Coda	personagem	CRLF x2	自分の好きな具材を\n色々入れてジュ〜〜ってする\nそんな料理のレシピだったな、しかし		
+qev52_010.scr:4	qev52_010.scr	4	コーダ	Coda	personagem	CRLF x1	早く取りに行った方が\nいい気がするんだぞ、しかし？		
+qev52_010.scr:5	qev52_010.scr	5	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ４」が\nエントリーされました。\nコーダから受ける事が出来ます		
+qev52_020.scr:0	qev52_020.scr	0	コーダ	Coda	personagem	CRLF x1	張り切って行ってくるんだぞ。\n楽しみに待っているんだな、しかし		
+qev52_020.scr:1	qev52_020.scr	1	コーダ	Coda	personagem	CRLF x1	早く食いたいんだな〜。\nつまりメシだぞ、しかし		
+qev52_060.scr:0	qev52_060.scr	0	コーダ	Coda	personagem	CRLF x2	よしよし、これでまた新しい\n料理が食える様になったぞ、しかし。\nメシか？　メシの時間だな？		
+qev52_060.scr:1	qev52_060.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		お好み焼きのレシピを覚えた！		
+qev53_010.scr:0	qev53_010.scr	0	コーダ	Coda	personagem	CRLF x1	うー、美味いものが食べたいぞ、しかし。\n早く取ってきてくれ〜		
+qev53_010.scr:1	qev53_010.scr	1	コーダ	Coda	personagem	CRLF x1	寒い日に、みんなで食べると\n心まであったまる料理なんだぞ		
+qev53_010.scr:2	qev53_010.scr	2	コーダ	Coda	personagem	CRLF x1	食べたいだろ、しかし？\n興味が出て来ただろ、しかし？		
+qev53_010.scr:3	qev53_010.scr	3	コーダ	Coda	personagem		見つければ、食べ放題だぞー？		
+qev53_010.scr:4	qev53_010.scr	4	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ５」が\nエントリーされました。\nコーダから受ける事が出来ます		
+qev53_020.scr:0	qev53_020.scr	0	コーダ	Coda	personagem	CRLF x2	この世界にはまだまだ\n美味しい物があるはずだな！\nコーダは食べ足りないぞ、しかし！		
+qev53_020.scr:1	qev53_020.scr	1	コーダ	Coda	personagem		期待がふくらむんだな〜、しかし……		
+qev53_060.scr:0	qev53_060.scr	0	コーダ	Coda	personagem	CRLF x1	おー、待ってたぞ、しかし！\n早くコーダ、食べたいぞー？		
+qev53_060.scr:1	qev53_060.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		おでんのレシピを覚えた！		
+qev54_010.scr:0	qev54_010.scr	0	コーダ	Coda	personagem		うー、早く、取りに行くのだな〜		
+qev54_010.scr:1	qev54_010.scr	1	コーダ	Coda	personagem	CRLF x1	今度のレシピは、とろ〜りアツアツ、\n女子も大好きなあの料理だぞ、しかし		
+qev54_010.scr:2	qev54_010.scr	2	コーダ	Coda	personagem	CRLF x1	早く行かないと、\n食い物の恨みは恐ろしいぞ、しかし！		
+qev54_010.scr:3	qev54_010.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ６」が\nエントリーされました。\nコーダから受ける事が出来ます		
+qev54_020.scr:0	qev54_020.scr	0	コーダ	Coda	personagem	CRLF x1	○○も、\n腹を空かしてそうな顔をしてるな		
+qev54_020.scr:1	qev54_020.scr	1	コーダ	Coda	personagem	CRLF x1	ふふん、コーダも当然空腹なのだぞ？\nだから、早く取ってくるのだ、しかし		
+qev54_060.scr:0	qev54_060.scr	0	コーダ	Coda	personagem	CRLF x2	これはこれは、素晴らしい料理だな。\nしかし、美味そうだ。\n食うぞ〜！		
+qev54_060.scr:1	qev54_060.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		チーズフォンデュのレシピを覚えた！		
+qev55_010.scr:0	qev55_010.scr	0	コーダ	Coda	personagem		美味い物、もうないのかー？		
+qev55_010.scr:1	qev55_010.scr	1	コーダ	Coda	personagem	CRLF x2	今度は、小腹が空いた時に\nついつい手を伸ばしてしまうアレの\nレシピなんだぞ、しかし		
+qev55_010.scr:2	qev55_010.scr	2	コーダ	Coda	personagem	CRLF x1	早く早く、あそこに行って、\n取ってくるんだな、しかし		
+qev55_010.scr:3	qev55_010.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ７」が\nエントリーされました。\nコーダから受ける事が出来ます		
+qev55_020.scr:0	qev55_020.scr	0	コーダ	Coda	personagem		コーダ、お腹空いたぞー？　しかし		
+qev55_020.scr:1	qev55_020.scr	1	(ator 200)	(ator 200)	desconhecido		…………		
+qev55_020.scr:2	qev55_020.scr	2	コーダ	Coda	personagem	CRLF x2	もしかして、信じてないか？\nコーダ、これでも結構\n我慢してるんだぞ、しかし		
+qev55_020.scr:3	qev55_020.scr	3	コーダ	Coda	personagem	CRLF x2	ほら、どうだ。\nわかったなら、すぐに行ってくるんだな。\n待ってるぞ、しかし		
+qev55_060.scr:0	qev55_060.scr	0	コーダ	Coda	personagem	CRLF x1	おおー、見つかったなー、しかし。\nぬふぬふ、早く食べたいぞー！		
+qev55_060.scr:1	qev55_060.scr	1	コーダ	Coda	personagem	CRLF x1	○○、\nよくやったな、しかし！		
+qev55_060.scr:2	qev55_060.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		紅茶クッキーのレシピを覚えた！		
+qev56_010.scr:0	qev56_010.scr	0	コーダ	Coda	personagem	CRLF x1	とにかく食べたいぞー、しかし。\nだから、早く取ってきて欲しいんだな		
+qev56_010.scr:1	qev56_010.scr	1	(ator 200)	(ator 200)	desconhecido		…………		
+qev56_010.scr:2	qev56_010.scr	2	コーダ	Coda	personagem	CRLF x2	今度の料理は……うむむ、\nちょっと説明が難しいんだぞ、しかし。\nでも、ファンなら当然知ってるアレなんだな		
+qev56_010.scr:3	qev56_010.scr	3	コーダ	Coda	personagem	CRLF x1	○○、\n今度も頼んだぞ、しかし		
+qev56_010.scr:4	qev56_010.scr	4	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ８」が\nエントリーされました。\nコーダから受ける事が出来ます		
+qev56_020.scr:0	qev56_020.scr	0	コーダ	Coda	personagem	CRLF x1	しかし、メシの時間はまだか？\nコーダは、我慢の限界だぞー		
+qev56_020.scr:1	qev56_020.scr	1	コーダ	Coda	personagem	CRLF x2	急いで行ってきて欲しいんだな、しかし。\nコーダ、腹が減り過ぎて目が回ってきたぞ。\nしかし……		
+qev56_060.scr:0	qev56_060.scr	0	コーダ	Coda	personagem	CRLF x1	おお〜！\nまさしくこの料理だな、しかし		
+qev56_060.scr:1	qev56_060.scr	1	コーダ	Coda	personagem	CRLF x2	食事は食べられる時に\n食べておくのが大事だぞ〜。\n食う事を怠ってはいかんのだ、しかし		
+qev56_060.scr:2	qev56_060.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		通称おいしおいしのレシピを覚えた！		
+qev57_010.scr:0	qev57_010.scr	0	コーダ	Coda	personagem	CRLF x1	んまそうだぞ！\nワクワクするぞー？　しかし		
+qev57_010.scr:1	qev57_010.scr	1	(ator 200)	(ator 200)	desconhecido		……？		
+qev57_010.scr:2	qev57_010.scr	2	コーダ	Coda	personagem	CRLF x1	今度のレシピは、誰もが喜ぶ\nアレをふんだんに使った料理だぞ〜		
+qev57_010.scr:3	qev57_010.scr	3	コーダ	Coda	personagem	CRLF x1	待ちきれないんだな、しかし。\n早く、行ってきて欲しいんだな〜		
+qev57_010.scr:4	qev57_010.scr	4	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ９」が\nエントリーされました。\nコーダから受ける事が出来ます		
+qev57_020.scr:0	qev57_020.scr	0	コーダ	Coda	personagem	CRLF x1	むふむふ、コーダ、\n食欲わいてきたんだぞー、しかし		
+qev57_020.scr:1	qev57_020.scr	1	コーダ	Coda	personagem	CRLF x1	ただ待ってるだけというのも\nなかなかに辛い立場なんだな		
+qev57_020.scr:2	qev57_020.scr	2	コーダ	Coda	personagem	CRLF x1	○○、\n頼りにしているんだぞ、しかし		
+qev57_060.scr:0	qev57_060.scr	0	コーダ	Coda	personagem	CRLF x1	んまっ！　美味そうだぞ！　しかし！！\n早く食べないと、倒れちゃうんだな		
+qev57_060.scr:1	qev57_060.scr	1	コーダ	Coda	personagem		早速作ってみたいんだな、しかし！		
+qev57_060.scr:2	qev57_060.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		山海珍味スープのレシピを覚えた！		
+qev58_010.scr:0	qev58_010.scr	0	コーダ	Coda	personagem	CRLF x1	むむーん、コーダ、\nますます腹が減ってきたんだぞ、しかし		
+qev58_010.scr:1	qev58_010.scr	1	(ator 200)	(ator 200)	desconhecido		…………		
+qev58_010.scr:2	qev58_010.scr	2	コーダ	Coda	personagem	CRLF x2	今度のレシピは\n体に良くてどこか懐かしい気持ちになる、\nあの料理なんだぞ、しかし		
+qev58_010.scr:3	qev58_010.scr	3	コーダ	Coda	personagem	CRLF x2	○○も\n食べたいよな？\nコーダと同じ気持ちだな？		
+qev58_010.scr:4	qev58_010.scr	4	コーダ	Coda	personagem	CRLF x1	よし。\n今回もよろしく頼んだぞ、しかし		
+qev58_010.scr:5	qev58_010.scr	5	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ１０」が\nエントリーされました。\nコーダから受ける事が出来ます		
+qev58_020.scr:0	qev58_020.scr	0	コーダ	Coda	personagem	CRLF x1	コーダも早く食べたいぞ、しかし。\n食べたい！　食べたい！　のだ		
+qev58_020.scr:1	qev58_020.scr	1	コーダ	Coda	personagem	CRLF x2	コーダの腹の虫はお喋りなのだ。\n黙らせたかったら、早くレシピを\n取ってきて欲しいんだな、しかし		
+qev58_060.scr:0	qev58_060.scr	0	コーダ	Coda	personagem	CRLF x1	んー、んまそうだなー、しかし。\nしかし、楽しみだな！		
+qev58_060.scr:1	qev58_060.scr	1	コーダ	Coda	personagem	CRLF x1	よし、○○。\n一緒に食うぞー！		
+qev58_060.scr:2	qev58_060.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		薬膳チャンプルーのレシピを覚えた！		
+qev59_010.scr:0	qev59_010.scr	0	コーダ	Coda	personagem	CRLF x2	コイツは、絶対に、んまい！\nんまいぞ〜！！\n今まで以上に、期待大だな〜		
+qev59_010.scr:1	qev59_010.scr	1	(ator 200)	(ator 200)	desconhecido		……？		
+qev59_010.scr:2	qev59_010.scr	2	コーダ	Coda	personagem	CRLF x1	ん？\nどんな料理か知りたいのだな？		
+qev59_010.scr:3	qev59_010.scr	3	コーダ	Coda	personagem	CRLF x2	ダメだ、今回ばっかりは\nそこまではっきりとは\nわからなかったんだぞ、しかし		
+qev59_010.scr:4	qev59_010.scr	4	(ator 200)	(ator 200)	desconhecido		…………		
+qev59_010.scr:5	qev59_010.scr	5	コーダ	Coda	personagem	CRLF x1	ただ、絶対に美味い物だという\n予感がするのだ！		
+qev59_010.scr:6	qev59_010.scr	6	コーダ	Coda	personagem		コーダの直感は本当なんだぞ！　しかし！		
+qev59_010.scr:7	qev59_010.scr	7	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「コーダのレシピ１１」が\nエントリーされました。\nコーダから受ける事が出来ます		
+qev59_020.scr:0	qev59_020.scr	0	コーダ	Coda	personagem	CRLF x1	ほら、しかし○○！\n早く出掛ける支度をするぞ		
+qev59_020.scr:1	qev59_020.scr	1	コーダ	Coda	personagem	CRLF x1	コーダの胃袋は\n悲しげに泣き続けているんだな		
+qev59_020.scr:2	qev59_020.scr	2	コーダ	Coda	personagem	CRLF x1	今度こそ、最高に満足のいく料理と\n巡り会える予感がするんだな……しかし		
+qev59_060.scr:0	qev59_060.scr	0	コーダ	Coda	personagem	CRLF x1	ついにやったぞ〜！\nメシだぞメシ〜♪　しかし♪		
+qev59_060.scr:1	qev59_060.scr	1	コーダ	Coda	personagem	CRLF x2	コーダ大満足だぞ！　しかし。\n○○、今まで\n協力してくれて感謝、感謝だな		
+qev59_060.scr:2	qev59_060.scr	2	コーダ	Coda	personagem	CRLF x1	コーダのレシピ、\nたくさん役に立てるんだぞ、しかし		
+qev59_060.scr:3	qev59_060.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema		まンカんぜんセきのレシピを覚えた！		
+qev60_060.scr:0	qev60_060.scr	0	コングマン	Kongman	personagem	CRLF x2	おい。\nバンなんとかって名前の\n妙ちくりんな船ってぇのはここか		
+qev60_060.scr:1	qev60_060.scr	1	チャット	Chat	personagem		み、妙ちくりん！？　失礼な！		
+qev60_060.scr:2	qev60_060.scr	2	チャット	Chat	personagem	CRLF x1	「バンエルティア号」です。\nこの船はこれでも、れっきとした……		
+qev60_060.scr:3	qev60_060.scr	3	コングマン	Kongman	personagem		んなこたぁどうでもいい！		
+qev60_060.scr:4	qev60_060.scr	4	コングマン	Kongman	personagem	CRLF x1	とりあえず、俺様は今日から\nこの船に厄介になるからな		
+qev60_060.scr:5	qev60_060.scr	5	コングマン	Kongman	personagem		ありがたく思えよ！		
+qev60_060.scr:6	qev60_060.scr	6	チャット	Chat	personagem	CRLF x1	ええっ！？\n何を言ってるんですか？		
+qev60_060.scr:7	qev60_060.scr	7	スタン	Stahn Aileron	personagem	CRLF x1	声がすると思ったら……。\nやっぱりコングマンか		
+qev60_060.scr:8	qev60_060.scr	8	チャット	Chat	personagem	CRLF x1	スタンさん、この大きい人と\n知り合いなんですか？		
+qev60_060.scr:9	qev60_060.scr	9	コングマン	Kongman	personagem	CRLF x1	大きい人じゃねえ！\nマイティ・コングマンだ！！		
+qev60_060.scr:10	qev60_060.scr	10	コングマン	Kongman	personagem	CRLF x1	俺様は決めたのよ。\nスタン……それと○○		
+qev60_060.scr:11	qev60_060.scr	11	コングマン	Kongman	personagem	CRLF x1	おめぇ達を倒すまで\nこの船から離れねえってな		
+qev60_060.scr:12	qev60_060.scr	12	(ator 200)	(ator 200)	desconhecido		…………		
+qev60_060.scr:13	qev60_060.scr	13	コングマン	Kongman	personagem	CRLF x1	もちろん、居座る以上、\nこの船の仕事は手伝わせてもらう		
+qev60_060.scr:14	qev60_060.scr	14	コングマン	Kongman	personagem	CRLF x2	ただし、俺様のこの鍛え抜かれた筋肉を\nいかんなく発揮出来る仕事に\n限定はされるがな		
+qev60_060.scr:15	qev60_060.scr	15	コングマン	Kongman	personagem		わっはっはっはっはっは！		
+qev60_060.scr:16	qev60_060.scr	16	チャット	Chat	personagem		頭が痛くなってきました……		
+qev60_060.scr:17	qev60_060.scr	17	スタン	Stahn Aileron	personagem	CRLF x1	ここに居座るって……。\nいきなりそう言われてもなぁ……		
+qev60_060.scr:18	qev60_060.scr	18	スタン	Stahn Aileron	personagem		どうしても、気持ちは変わらないのか？		
+qev60_060.scr:19	qev60_060.scr	19	コングマン	Kongman	personagem		あったりめえよ		
+qev60_060.scr:20	qev60_060.scr	20	コングマン	Kongman	personagem	CRLF x1	俺様はチャンピオン。\nこの世界のガキどもの夢そのものなのよ		
+qev60_060.scr:21	qev60_060.scr	21	コングマン	Kongman	personagem	CRLF x1	チャンピオンは常にナンバーワンで\nなくちゃなんねえ……		
+qev60_060.scr:22	qev60_060.scr	22	コングマン	Kongman	personagem	CRLF x1	おめぇ達の勝ち逃げなんざ\n到底認めるわけにゃいかねーんだ！		
+qev60_060.scr:23	qev60_060.scr	23	スタン	Stahn Aileron	personagem		コングマン……わかったよ		
+qev60_060.scr:24	qev60_060.scr	24	スタン	Stahn Aileron	personagem		それじゃ、今日からよろしくな		
+qev60_060.scr:25	qev60_060.scr	25	コングマン	Kongman	personagem	CRLF x1	おう、よろしく頼むぜえ！\nわっはっはっはっは！！		
+qev60_060.scr:26	qev60_060.scr	26	チャット	Chat	personagem		えぇ？　認めちゃうんですか？		
+qev60_060.scr:27	qev60_060.scr	27	チャット	Chat	personagem		はぁ……何かが不安です……		
+qev60_060.scr:28	qev60_060.scr	28	(mensagem de sistema)	(mensagem de sistema)	sistema		コングマンがアドリビトムに加入しました		
+qev61_060.scr:0	qev61_060.scr	0	スタン	Stahn Aileron	personagem		ふ〜、何だか腹減ったなぁ……		
+qev61_060.scr:1	qev61_060.scr	1	スタン	Stahn Aileron	personagem		今日の食事当番は誰だったっけ？		
+qev61_060.scr:2	qev61_060.scr	2	スタン	Stahn Aileron	personagem		何が出るか楽しみだなぁ		
+qev61_060.scr:3	qev61_060.scr	3	ルーティ	Rutee Katrea	personagem		あんたって平和よねぇ……		
+qev61_060.scr:4	qev61_060.scr	4	リリス	Lilith Aileron	personagem	CRLF x1	平和……そうですね。\n抜けているというか……		
+qev61_060.scr:5	qev61_060.scr	5	リリス	Lilith Aileron	personagem	CRLF x1	何か、決定的に足りないものが\nあるんだと思います		
+qev61_060.scr:6	qev61_060.scr	6	ルーティ	Rutee Katrea	personagem	CRLF x1	そうそう、「足りない」！\nも〜その表現ピッタリ……		
+qev61_060.scr:7	qev61_060.scr	7	ルーティ	Rutee Katrea	personagem		って、あら？		
+qev61_060.scr:8	qev61_060.scr	8	スタン	Stahn Aileron	personagem		リリス！？		
+qev61_060.scr:9	qev61_060.scr	9	リリス	Lilith Aileron	personagem	CRLF x2	えへ。\n来ちゃいました☆\nしばらくこちらでお世話になろうと思って		
+qev61_060.scr:10	qev61_060.scr	10	スタン	Stahn Aileron	personagem	CRLF x1	来ちゃいましたって……。\n何しに来たんだよ、こんなとこまで		
+qev61_060.scr:11	qev61_060.scr	11	リリス	Lilith Aileron	personagem	CRLF x2	何しに来た、ですって？\nお兄ちゃんが、\n全然連絡くれないからじゃない！		
+qev61_060.scr:12	qev61_060.scr	12	リリス	Lilith Aileron	personagem	CRLF x2	自分の不精を棚に上げて何言ってるの！\nいつも私が、どれだけ\n心配してると思ってるのよっ		
+qev61_060.scr:13	qev61_060.scr	13	スタン	Stahn Aileron	personagem		うう……、すみません		
+qev61_060.scr:14	qev61_060.scr	14	リリス	Lilith Aileron	personagem		と、いうわけなので……		
+qev61_060.scr:15	qev61_060.scr	15	リリス	Lilith Aileron	personagem	CRLF x1	今日からお世話になります。\nスタンの妹のリリスです		
+qev61_060.scr:16	qev61_060.scr	16	リリス	Lilith Aileron	personagem	CRLF x1	ふつつかものではありますが、\n兄共々、どうぞよろしくお願いしま〜す∀		
+qev61_060.scr:17	qev61_060.scr	17	(mensagem de sistema)	(mensagem de sistema)	sistema		リリスがアドリビトムに加入しました		

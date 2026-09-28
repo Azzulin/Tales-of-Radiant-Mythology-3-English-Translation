@@ -1,0 +1,95 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev16_010.scr:0	qev16_010.scr	0	ノーマ	Norma Beatty	personagem	CRLF x2	絶対コレいけるって！\nお宝の予感がする〜！\nチャ〜〜ンス！		
+qev16_010.scr:1	qev16_010.scr	1	ルーティ	Rutee Katrea	personagem	CRLF x1	確かに、紙質やインクの感じからして\n結構な年代モノっぽいわね……		
+qev16_010.scr:2	qev16_010.scr	2	ルーティ	Rutee Katrea	personagem	CRLF x1	う〜ん、何かワクワクしてきたわ！\nこの山、乗った♪		
+qev16_010.scr:3	qev16_010.scr	3	ノーマ	Norma Beatty	personagem	CRLF x2	よっしゃー！\nそう来なくっちゃー！\nき〜まりっ！		
+qev16_010.scr:4	qev16_010.scr	4	ノーマ	Norma Beatty	personagem	CRLF x1	んじゃアンジュ、ちょっくら\n依頼出させてよ〜		
+qev16_010.scr:5	qev16_010.scr	5	アンジュ	Ange Serena	personagem		そうね、面白そう		
+qev16_010.scr:6	qev16_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	せっかくだし、\nわたしも乗っかってみようかな		
+qev16_010.scr:7	qev16_010.scr	7	ルーティ	Rutee Katrea	personagem	CRLF x2	あら。\nリーダーにしては珍しく\n積極的じゃない		
+qev16_010.scr:8	qev16_010.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	うふふ。\nその代わり報酬は\nきっちり山分けって事で、どう？		
+qev16_010.scr:9	qev16_010.scr	9	ノーマ	Norma Beatty	personagem		ぐぬぬぅ、そう来たか……		
+qev16_010.scr:10	qev16_010.scr	10	ノーマ	Norma Beatty	personagem	CRLF x1	い、いーわよ別に。\nそれでいきましょ！		
+qev16_010.scr:11	qev16_010.scr	11	アンジュ	Ange Serena	personagem		目が泳いでるね、ノーマ		
+qev16_010.scr:12	qev16_010.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	嘘を吐いたら、契約不履行で\n除名処分も辞さないけれど……		
+qev16_010.scr:13	qev16_010.scr	13	アンジュ	Ange Serena	personagem	CRLF x2	そんな不名誉な肩書きが付いたら、\n他のギルドでももう\n雇ってもらえなくなっちゃうかもね？		
+qev16_010.scr:14	qev16_010.scr	14	ノーマ	Norma Beatty	personagem		均等に山分けでいいと思いまーす		
+qev16_010.scr:15	qev16_010.scr	15	ルーティ	Rutee Katrea	personagem	CRLF x1	アンジュも何だかんだで\nちゃっかりしてるわよねぇ		
+qev16_010.scr:16	qev16_010.scr	16	アンジュ	Ange Serena	personagem	CRLF x1	最近は人も増えて、何かと物入りだから。\nこれくらいは、ね		
+qev16_010.scr:17	qev16_010.scr	17	ルーティ	Rutee Katrea	personagem	CRLF x1	で、どうするの？\nあたし達三人だけで行く？		
+qev16_010.scr:18	qev16_010.scr	18	アンジュ	Ange Serena	personagem	CRLF x2	いえ、ボディガードを一人雇いましょう。\nわたしにちょっと心当たりがあるの。\n任せておいて		
+qev16_010.scr:19	qev16_010.scr	19	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「報酬の価値」が\nエントリーされました。\nクエストカウンタから受ける事が出来ます		
+qev16_020.scr:0	qev16_020.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	○○、\nきっと引き受けてくれるって\n思ってたよ		
+qev16_020.scr:1	qev16_020.scr	1	ルーティ	Rutee Katrea	personagem	CRLF x2	なるほどね〜……。\n確かに○○なら\n腕も確かだし		
+qev16_020.scr:2	qev16_020.scr	2	ルーティ	Rutee Katrea	personagem		いいんじゃない？		
+qev16_020.scr:3	qev16_020.scr	3	ノーマ	Norma Beatty	personagem	CRLF x2	（もしこれが、ただのお宝じゃなくて\n　伝説のあのお宝の地図だったり\n　しちゃったら……）		
+qev16_020.scr:4	qev16_020.scr	4	ノーマ	Norma Beatty	personagem	CRLF x1	（このひかえめな胸を、\n　ばい〜んってしてやるんだから！）		
+qev16_020.scr:5	qev16_020.scr	5	アンジュ	Ange Serena	personagem		何か言った？		
+qev16_020.scr:6	qev16_020.scr	6	ノーマ	Norma Beatty	personagem	CRLF x1	ん〜ん〜、な〜んも！\nちょっと気合入れてただけ∀		
+qev16_020.scr:7	qev16_020.scr	7	ノーマ	Norma Beatty	personagem		んじゃ、早速目的地に出発〜！		
+qev16_030.scr:0	qev16_030.scr	0	ノーマ	Norma Beatty	personagem	CRLF x1	く〜〜っ。\n何だか燃えて来たぁ！！		
+qev16_030.scr:1	qev16_030.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	燃えるのはいいけど、\nあまり先走らない様にね？		
+qev16_030.scr:2	qev16_030.scr	2	ルーティ	Rutee Katrea	personagem	CRLF x2	そうそう。\n今はとにかく、確実にお宝を\n手に入れる事を考えましょ		
+qev16_030.scr:3	qev16_030.scr	3	ノーマ	Norma Beatty	personagem	CRLF x1	お宝ざっくざく……。\nガルドの海で泳げちゃうかも∀		
+qev16_030.scr:4	qev16_030.scr	4	ノーマ	Norma Beatty	personagem		も〜〜〜、たまら〜〜〜ん！！		
+qev16_030.scr:5	qev16_030.scr	5	ルーティ	Rutee Katrea	personagem	CRLF x1	って、全然聞いてないわね。\nこの子……		
+qev16_040.scr:0	qev16_040.scr	0	ルーティ	Rutee Katrea	personagem	CRLF x1	それにしても、ここまで割と\n何の問題もなく来ちゃったけど……		
+qev16_040.scr:1	qev16_040.scr	1	ルーティ	Rutee Katrea	personagem		本当に大丈夫なの？　その地図		
+qev16_040.scr:2	qev16_040.scr	2	ルーティ	Rutee Katrea	personagem	CRLF x2	普通、お宝が眠ってる場所っていったら、\n盗掘犯向けにトラップとか、\nビシバシ仕掛けられてるもんじゃない？		
+qev16_040.scr:3	qev16_040.scr	3	ノーマ	Norma Beatty	personagem	CRLF x2	なにお〜う！　あたしを疑うのっ？\nひど過ぎるよ！　ひど過ぎたよ！\n世知辛過ぎ！　切な過ぎ！		
+qev16_040.scr:4	qev16_040.scr	4	ノーマ	Norma Beatty	personagem	CRLF x1	あ〜も〜、アンジュ〜〜〜。\n優しく、慰めて〜		
+qev16_040.scr:5	qev16_040.scr	5	アンジュ	Ange Serena	personagem		はいはい、おいで		
+qev16_040.scr:6	qev16_040.scr	6	ノーマ	Norma Beatty	personagem	CRLF x1	そうよ、これよこれ∀\nふわふわでふにふにであったかくて……		
+qev16_040.scr:7	qev16_040.scr	7	ノーマ	Norma Beatty	personagem		だ〜〜もう、たまら〜〜ん！！		
+qev16_040.scr:8	qev16_040.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	そんなに喜んでもらえるなんて、\n嬉しいな		
+qev16_040.scr:9	qev16_040.scr	9	ノーマ	Norma Beatty	personagem	CRLF x1	前から思ってたけど、アンジュってさ〜\nイイ体してるよね〜∀		
+qev16_040.scr:10	qev16_040.scr	10	ノーマ	Norma Beatty	personagem	CRLF x2	抱き心地が最高過ぎ。\nあ〜もうあたし、このまま動きたくない。\n寝ちゃいたい		
+qev16_040.scr:11	qev16_040.scr	11	ルーティ	Rutee Katrea	personagem	CRLF x1	あのねぇ、ここへ来た目的を忘れてない？\nお宝はどうなったのよ、お宝は！		
+qev16_040.scr:12	qev16_040.scr	12	ノーマ	Norma Beatty	personagem	CRLF x1	はっ！\nそうだったーーー！！！		
+qev16_040.scr:13	qev16_040.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	もちろん、こうしてたっぷり休憩した分\nこれからキリキリ働くんだよね？		
+qev16_040.scr:14	qev16_040.scr	14	ノーマ	Norma Beatty	personagem	CRLF x1	うっ。\nそ、そりゃあもう……		
+qev16_040.scr:15	qev16_040.scr	15	アンジュ	Ange Serena	personagem	CRLF x1	うふふ。\nさ、それじゃ行きましょう		
+qev16_040.scr:16	qev16_040.scr	16	ルーティ	Rutee Katrea	personagem	CRLF x1	（完全にノーマを\n　コントロールしてるってわけね……）		
+qev16_040.scr:17	qev16_040.scr	17	ルーティ	Rutee Katrea	personagem		（アンジュ……なかなかやり手だわ）		
+qev16_050.scr:0	qev16_050.scr	0	ノーマ	Norma Beatty	personagem	CRLF x1	これよ、これ！\nついにお宝とご対面〜〜〜っ		
+qev16_050.scr:1	qev16_050.scr	1	ルーティ	Rutee Katrea	personagem		ほんとにあったわ……！		
+qev16_050.scr:2	qev16_050.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	開けた瞬間に発動するトラップも……。\nうん、どうやらなさそうね		
+qev16_050.scr:3	qev16_050.scr	3	ノーマ	Norma Beatty	personagem	CRLF x1	は〜い！　みんな！\nあたしにちゅ〜も〜く！！		
+qev16_050.scr:4	qev16_050.scr	4	ノーマ	Norma Beatty	personagem	CRLF x1	んじゃ、開けるよ？\nせ〜〜のっ！		
+qev16_050.scr:5	qev16_050.scr	5	ルーティ	Rutee Katrea	personagem		これ、って……		
+qev16_050.scr:6	qev16_050.scr	6	ノーマ	Norma Beatty	personagem	CRLF x2	えーと……。\nどう見ても、おもちゃ……\nに、見えるけど？		
+qev16_050.scr:7	qev16_050.scr	7	ノーマ	Norma Beatty	personagem	CRLF x1	おっ、まだ他に何か入ってる！\nなになに、この紙束……って		
+qev16_050.scr:8	qev16_050.scr	8	ノーマ	Norma Beatty	personagem	CRLF x1	あ〜、何だと〜！！\nテストの答案！？		
+qev16_050.scr:9	qev16_050.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	……どうやら、お宝はお宝でも\n個人にとっての「お宝」だったみたいね		
+qev16_050.scr:10	qev16_050.scr	10	アンジュ	Ange Serena	personagem	CRLF x2	ノーマが見つけたのは、\nタイムカプセルの地図だったみたい。\nほら、一緒に入ってたこの手紙に書いてある		
+qev16_050.scr:11	qev16_050.scr	11	ルーティ	Rutee Katrea	personagem	CRLF x1	何よそれ。\nここまで来てそういうオチなわけ？		
+qev16_050.scr:12	qev16_050.scr	12	ルーティ	Rutee Katrea	personagem	CRLF x1	はぁ〜〜〜……。\n信っじらんない……		
+qev16_050.scr:13	qev16_050.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	そう？\nまあ、こういう事もあるでしょう		
+qev16_050.scr:14	qev16_050.scr	14	アンジュ	Ange Serena	personagem	CRLF x2	それに、百戦錬磨の二人の事だから\nこれくらいの失敗で挫けたりなんて\nしないよね？		
+qev16_050.scr:15	qev16_050.scr	15	ノーマ	Norma Beatty	personagem		げげっ！？　そこでこっちに振る？		
+qev16_050.scr:16	qev16_050.scr	16	ノーマ	Norma Beatty	personagem	CRLF x2	……ま、ま〜〜ねっ！\nあたしくらいになれば、このくらい\n慣れっこだもんねっ！！		
+qev16_050.scr:17	qev16_050.scr	17	ルーティ	Rutee Katrea	personagem	CRLF x1	ま、確かにこれくらいのガセネタは\nこれまでにもあったしね		
+qev16_050.scr:18	qev16_050.scr	18	ルーティ	Rutee Katrea	personagem	CRLF x1	さすがにそう簡単には\n上手くいかないって事か		
+qev16_050.scr:19	qev16_050.scr	19	アンジュ	Ange Serena	personagem	CRLF x2	お金を稼ぎたかったら、\nありもしない夢にすがるより\n地道にコツコツ貯金をしなさいって事かな		
+qev16_050.scr:20	qev16_050.scr	20	アンジュ	Ange Serena	personagem	CRLF x2	あら。\n何だか、いいお説教のネタに\n出来そうかも		
+qev16_050.scr:21	qev16_050.scr	21	ルーティ	Rutee Katrea	personagem	CRLF x1	さすが、そういうところは\n職業病よね……		
+qev16_050.scr:22	qev16_050.scr	22	ノーマ	Norma Beatty	personagem	CRLF x1	あ〜〜〜ん……。\nあたしのお宝ぁ〜〜〜〜		
+qev16_050.scr:23	qev16_050.scr	23	ノーマ	Norma Beatty	personagem		ばい〜〜〜ん、が……		
+qev16_060.scr:0	qev16_060.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	今回は残念な結果だったけど、\nあまり気落ちしないで\n次にやるべき事を考えていきましょ		
+qev16_060.scr:1	qev16_060.scr	1	ノーマ	Norma Beatty	personagem		へ〜いへいへい……		
+qev16_060.scr:2	qev16_060.scr	2	ルーティ	Rutee Katrea	personagem	CRLF x2	そうねぇ。\n今度こそ、しっかりキッチリ\n稼げる仕事をしないとね		
+qev16_060.scr:3	qev16_060.scr	3	ルーティ	Rutee Katrea	personagem		落ち込んでなんていらんないわ		
+qev16_060.scr:4	qev16_060.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	そうそう。\nその意気、その意気		
+qev16_060.scr:5	qev16_060.scr	5	アーチェ	Arche Klein	personagem	CRLF x1	あのさぁ、この辺で\n古い地図の落とし物見なかった？		
+qev16_060.scr:6	qev16_060.scr	6	ルーティ	Rutee Katrea	personagem		古い地図？		
+qev16_060.scr:7	qev16_060.scr	7	アーチェ	Arche Klein	personagem	CRLF x2	うん。　ちょっと部屋の掃除してたら\n懐かしいものが出て来てさぁ。\nそれがその地図なんだけど……		
+qev16_060.scr:8	qev16_060.scr	8	アーチェ	Arche Klein	personagem	CRLF x2	掃除してるうちに\nどっかにいっちゃった\nみたいなんだよね		
+qev16_060.scr:9	qev16_060.scr	9	アーチェ	Arche Klein	personagem	CRLF x2	あ〜あ。\n思い出の詰まった、タイムカプセルの\n地図だったのにぃ……		
+qev16_060.scr:10	qev16_060.scr	10	ルーティ	Rutee Katrea	personagem		それって、もしかして……		
+qev16_060.scr:11	qev16_060.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	ノーマ？\nどこへ行くつもりなのかな		
+qev16_060.scr:12	qev16_060.scr	12	ノーマ	Norma Beatty	personagem		にょがっ		
+qev16_060.scr:13	qev16_060.scr	13	ノーマ	Norma Beatty	personagem	CRLF x1	え？　いや、別に……。\nそうだ、ト、トイレ！		
+qev16_060.scr:14	qev16_060.scr	14	アンジュ	Ange Serena	personagem		少し我慢なさい		
+qev16_060.scr:15	qev16_060.scr	15	アンジュ	Ange Serena	personagem	CRLF x1	それで？\nどういう事か説明してくれる？		
+qev16_060.scr:16	qev16_060.scr	16	ノーマ	Norma Beatty	personagem	CRLF x1	だ〜〜もう！\nちょっと借りただけなの〜〜！！		
+qev16_060.scr:17	qev16_060.scr	17	ノーマ	Norma Beatty	personagem		もうし〜ま〜せ〜ん〜〜〜！！		

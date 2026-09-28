@@ -1,0 +1,179 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev70_010.scr:0	cev70_010.scr	0	ウッドロウ	Woodrow Kelvin	personagem		はははははは……！！	Hahahahaha...!!	
+cev70_010.scr:1	cev70_010.scr	1	アッシュ	Asch	personagem		くくくっ……はーははははははは！	Heheh... Ah-hahahahaha!	
+cev70_010.scr:2	cev70_010.scr	2	アスベル	Asbel Lhant	personagem	CRLF x1	あはははは、ふふふっ……\nははははは！	Ahahaha, ufufu...\nHahahaha!	
+cev70_010.scr:3	cev70_010.scr	3	シング	Shing Meteoryte	personagem	CRLF x2	わあ。\nみんな随分盛り上がってるね。\nなになに、何の話？	Whoa.\nEveryone seems to be having fun.\nWhat's up? What are you talking about?	
+cev70_010.scr:4	cev70_010.scr	4	ウッドロウ	Woodrow Kelvin	personagem		はーははははははは……！！	Ah-hahahahaha...!!	
+cev70_010.scr:5	cev70_010.scr	5	アッシュ	Asch	personagem	CRLF x1	ぷーーーっ、っくっくっくっく……\nふ、ふは、ふはははははは！！	Pfft, heh-heh-heh-heh...\nHa, haha, hahahahaha!!	
+cev70_010.scr:6	cev70_010.scr	6	シング	Shing Meteoryte	personagem	CRLF x1	ちょっと、みんな？\nずるいよ、自分達だけ楽しんで……	Hey, everyone?\nNo fair having fun all by yourselves...	
+cev70_010.scr:7	cev70_010.scr	7	アスベル	Asbel Lhant	personagem		はあはあ……あははは……はぁ……	*pant* *pant*... Ahaha... haah...	
+cev70_010.scr:8	cev70_010.scr	8	アスベル	Asbel Lhant	personagem		ち……違……	N-No...	
+cev70_010.scr:9	cev70_010.scr	9	シング	Shing Meteoryte	personagem		ちょ、ちょっと、アスベル！？	H-Hey, Asbel!?	
+cev70_010.scr:10	cev70_010.scr	10	シング	Shing Meteoryte	personagem		あれ……何か指で書いてる……	Huh... He's writing with his finger...	
+cev70_010.scr:11	cev70_010.scr	11	シング	Shing Meteoryte	personagem		ト……レ……？	To... le...?	
+cev70_010.scr:12	cev70_010.scr	12	プレセア	Presea Combatir	personagem	CRLF x2	……これは、毒キノコの中毒症状……です。\n症状が治まるまで、\nあと……９分２７秒……	...Symptoms of mushroom poison...\nUntil the symptoms subside,\nthere is... 9 minutes and 27 seconds...	
+cev70_010.scr:13	cev70_010.scr	13	プレセア	Presea Combatir	personagem		もうすぐ、アニーさんが……	Annie will be here soon...	
+cev70_010.scr:14	cev70_010.scr	14	シング	Shing Meteoryte	personagem	CRLF x1	ど、毒！？\nそれって……誰かに盛られたってこと？	P-Poison!?\nDoes that mean... someone poisoned them?	
+cev70_010.scr:15	cev70_010.scr	15	シング	Shing Meteoryte	personagem	CRLF x1	じゃあもしかして、今アスベルの\n書いてたのって……！	Then could what Asbel was just writing\npossibly be...!?	
+cev70_010.scr:16	cev70_010.scr	16	プレセア	Presea Combatir	personagem		実は……	Actually...	
+cev70_010.scr:17	cev70_010.scr	17	シング	Shing Meteoryte	personagem		トイレに行きたいって事だったんだね！？	You need to go to the toilet!?	
+cev70_010.scr:18	cev70_010.scr	18	シング	Shing Meteoryte	personagem	CRLF x1	わかったよ、アスベル！\n今連れて行ってあげるからね！！	I got it, Asbel!\nI'll take you there right now!!	
+cev70_010.scr:19	cev70_010.scr	19	プレセア	Presea Combatir	personagem	CRLF x1	ティトレイさんが……うっかり毒キノコを\nスープに入れて……しまったのですが……	Tytree accidentally put poisonous\nmushrooms into the soup, but...	
+cev70_010.scr:20	cev70_010.scr	20	プレセア	Presea Combatir	personagem		シングさん……行ってしまいました	Shing... has left.	
+cev70_010.scr:21	cev70_010.scr	21	ウッドロウ	Woodrow Kelvin	personagem		ははははは……はぁはぁ……！	Hahahaha... *pant* *pant*...!	
+cev70_010.scr:22	cev70_010.scr	22	アッシュ	Asch	personagem		ふははは……はぁ……！	Puhahaha... haah...!	
+cev70_010.scr:23	cev70_010.scr	23	アッシュ	Asch	personagem	CRLF x1	くく……あの、雑草頭……\n……許さ、っははは……ねえ……	Heh... That weed-head...\nI won't... forgive... hahah... him...	
+cev70_020.scr:0	cev70_020.scr	0	ミント	Mint Adenade	personagem	CRLF x2	ヴェイグさん。\nヘーゼル村というのは\n本来どういった雰囲気の村なのですか？	Veigue.\nWhat is Hazel Village\nnormally like?	
+cev70_020.scr:1	cev70_020.scr	1	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……資源豊かで\n小さいがあたたかな村だ	...It is rich in resources,\na small but warm village.	
+cev70_020.scr:2	cev70_020.scr	2	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	近くの清流から水を引いている為、\n家庭料理は、どこのものも旨い。\n素材の味が締まり、引き立つ	With fresh water from a nearby stream,\nhome cooking tastes good everywhere.\nThe flavors are sharp and brought out.	
+cev70_020.scr:3	cev70_020.scr	3	シング	Shing Meteoryte	personagem		へぇ、美味しそうだなぁ…	Ooh, that sounds delicious...	
+cev70_020.scr:4	cev70_020.scr	4	シング	Shing Meteoryte	personagem	CRLF x1	ねえ、何か\n名物料理みたいなものってあるの？	Hey, is there any kind of\nfamous local specialty?	
+cev70_020.scr:5	cev70_020.scr	5	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	名物……？　\nそうだな……	A specialty...?\nLet me see...	
+cev70_020.scr:6	cev70_020.scr	6	ミント	Mint Adenade	personagem	CRLF x2	クレアさんから聞いた事があります。\nヴェイグさんはヘーゼル村の\nピーチパイに目がないそうですね	I heard from Claire.\nYou have quite the sweet tooth for\nHazel Village's peach pie, Veigue.	
+cev70_020.scr:7	cev70_020.scr	7	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	ピ……ピーチパイは\n別に名物料理じゃない	P-Peach pie isn't\na local specialty in particular.	
+cev70_020.scr:8	cev70_020.scr	8	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	近所の馴染みのおばさんが\n親切で持ってきてくれているだけだ	A familiar neighborhood lady simply\nbrings some out of kindness.	
+cev70_020.scr:9	cev70_020.scr	9	シング	Shing Meteoryte	personagem	CRLF x2	ヴェイグの為に、わざわざ\nピーチパイを作ってくれる\nおばさんがいるの？	There's a lady who goes out of\nher way to bake peach pie\njust for you, Veigue?	
+cev70_020.scr:10	cev70_020.scr	10	シング	Shing Meteoryte	personagem		すごいや	That's amazing!	
+cev70_020.scr:11	cev70_020.scr	11	シング	Shing Meteoryte	personagem		マダムキラーなんだね、ヴェイグ！	You're a real ladies' man, Veigue!	
+cev70_020.scr:12	cev70_020.scr	12	ヴェイグ	Veigue Lungberg	personagem		違う！	I am not!	
+cev70_030.scr:0	cev70_030.scr	0	ロイド	Lloyd Irving	personagem	CRLF x1	くっ……。\nまたこうなるのか、よっ……	Guh... Why does it have to\nturn out like this again...	
+cev70_030.scr:1	cev70_030.scr	1	ロイド	Lloyd Irving	personagem		二人とも……無事か……！？	Are you two... all right...!?	
+cev70_030.scr:2	cev70_030.scr	2	カイル	Kyle Dunamis	personagem	CRLF x1	辛いけど……、\nオレは平気、だよ……っ	It's tough... but I'm...\nokay... ngh...	
+cev70_030.scr:3	cev70_030.scr	3	シング	Shing Meteoryte	personagem		ごめん……！	I'm sorry...!	
+cev70_030.scr:4	cev70_030.scr	4	シング	Shing Meteoryte	personagem		……そろそろ……限、界……	...I'm reaching... my... limit...	
+cev70_030.scr:5	cev70_030.scr	5	ロイド	Lloyd Irving	personagem		シング、しっかりしろ！	Shing, hang in there!	
+cev70_030.scr:6	cev70_030.scr	6	ロイド	Lloyd Irving	personagem	CRLF x1	くそっ……、\nいくら何でも長過ぎるだろ！	Damn it...\nThey're taking way too long in there!	
+cev70_030.scr:7	cev70_030.scr	7	カイル	Kyle Dunamis	personagem		一体……誰が……ッ	Just who is in there...?!	
+cev70_030.scr:8	cev70_030.scr	8	ヴァン	Van Grants	personagem		…………む	......Mm.	
+cev70_030.scr:9	cev70_030.scr	9	ロイド	Lloyd Irving	personagem		…………	......	
+cev70_030.scr:10	cev70_030.scr	10	カイル	Kyle Dunamis	personagem		…………	......	
+cev70_030.scr:11	cev70_030.scr	11	シング	Shing Meteoryte	personagem		…………	......	
+cev70_030.scr:12	cev70_030.scr	12	レイヴン	Raven	personagem	CRLF x1	はいはい、\nちょっとごめんなさいよ〜っと	Pardon me,\ncomin' through now~~	
+cev70_030.scr:13	cev70_030.scr	13	ロイド	Lloyd Irving	personagem		　　　	......	
+cev70_040.scr:0	cev70_040.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	コレットって、本当に\n不思議な雰囲気があるよね	Colette, you really have\nsuch a mysterious aura about you.	
+cev70_040.scr:1	cev70_040.scr	1	シング	Shing Meteoryte	personagem	CRLF x1	声も羽も、透き通ってるって感じで\n何だか癒されるっていうか……	Your voice and wings feel so clear,\nthey're kind of soothing...	
+cev70_040.scr:2	cev70_040.scr	2	コレット	Colette Brunel	personagem		そ……そかな	I... Is that so?	
+cev70_040.scr:3	cev70_040.scr	3	シング	Shing Meteoryte	personagem	CRLF x1	うん。\nそれに……	Yeah.\nAnd besides...	
+cev70_040.scr:4	cev70_040.scr	4	シング	Shing Meteoryte	personagem	CRLF x1	リアラも目が大きくて\n可愛いらしいし	Reala has such big eyes too,\nshe's really lovely.	
+cev70_040.scr:5	cev70_040.scr	5	リアラ	Reala	personagem		えっ……	Huh......	
+cev70_040.scr:6	cev70_040.scr	6	リアラ	Reala	personagem		やだ、シングったら……	Oh stop, Shing...	
+cev70_040.scr:7	cev70_040.scr	7	シング	Shing Meteoryte	personagem	CRLF x1	ミントも、さらさらの長い髪が\nとってもキレイだよ	Mint, your smooth long hair\nis so very pretty too.	
+cev70_040.scr:8	cev70_040.scr	8	ミント	Mint Adenade	personagem		あ……ありがとうございます	Ah... Thank you very much.	
+cev70_040.scr:9	cev70_040.scr	9	しいな	Sheena Fujibayashi	personagem	CRLF x1	まぁたやってるね？　\nシングの奴……	There he goes again,\nthat Shing...	
+cev70_040.scr:10	cev70_040.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x1	ギルド中の女って女を褒め倒して、\nどうするつもりなのかねえ	Complimenting every woman in the guild,\nwhat is he trying to pull?	
+cev70_040.scr:11	cev70_040.scr	11	ロイド	Lloyd Irving	personagem		いや、あいつのは天然だろ？	Nah, isn't that just his nature?	
+cev70_040.scr:12	cev70_040.scr	12	ロイド	Lloyd Irving	personagem		下心なく褒めてるからスゴイっていうか	He flatters without any ulterior motive.	
+cev70_040.scr:13	cev70_040.scr	13	ロイド	Lloyd Irving	personagem	CRLF x1	女の人に勘違いされないか、\nたまに心配になるよなぁ	Sometimes I worry women will get\nthe wrong idea about him, though.	
+cev70_040.scr:14	cev70_040.scr	14	しいな	Sheena Fujibayashi	personagem		あんたがそれを言うのかい……	You're one to talk...	
+cev70_050.scr:0	cev70_050.scr	0	シング	Shing Meteoryte	personagem	CRLF x2	リッドって本当に食べるのが\n大好きだよね。\n好き嫌いとか全然なさそう！	You really love eating, Reid.\nIt feels like you have no\ndislikes at all!	
+cev70_050.scr:1	cev70_050.scr	1	リッド	Reid Hershel	personagem	CRLF x1	ああ。\n基本的には、何でも食べられるぜ？	Yeah.\nBasically, I can eat anything.	
+cev70_050.scr:2	cev70_050.scr	2	リッド	Reid Hershel	personagem	CRLF x2	そうそう、\n素材を生かした料理ってのにも\n最近ハマってんだ	Oh yeah,\nlately I've been into dishes that\nbring out raw ingredients.	
+cev70_050.scr:3	cev70_050.scr	3	リッド	Reid Hershel	personagem		モロキュウっていうのか？	What's it called, morokyu?	
+cev70_050.scr:4	cev70_050.scr	4	リッド	Reid Hershel	personagem	CRLF x1	この間初めて食べたけど\nあれ、結構美味いよなぁ	I had it for the first time recently,\nand it was pretty delicious.	
+cev70_050.scr:5	cev70_050.scr	5	シング	Shing Meteoryte	personagem		もろきゅう？	Morokyu?	
+cev70_050.scr:6	cev70_050.scr	6	シング	Shing Meteoryte	personagem	CRLF x1	……ああ、\n「モロにキュウリ」の事だね！	...Ah,\nyou mean 'straight-up cucumber'!	
+cev70_050.scr:7	cev70_050.scr	7	セネル	Senel Coolidge	personagem		何で略称だと思うんだよ！	Why do you think it's an abbreviation!?	
+cev70_050.scr:8	cev70_050.scr	8	セネル	Senel Coolidge	personagem	CRLF x1	モロキュウっていうのは、\nもろみミソを付けたキュウリの事だ	Morokyu is cucumber served\nwith moromi miso.	
+cev70_050.scr:9	cev70_050.scr	9	セネル	Senel Coolidge	personagem	CRLF x1	コハク辺りに勧めたら\n喜ぶんじゃないのか？	If you recommend it to Kohaku,\nwouldn't she love it?	
+cev70_050.scr:10	cev70_050.scr	10	シング	Shing Meteoryte	personagem	CRLF x1	そっか。\nもろみミソ……ね	I see.\nMoromi miso, huh.	
+cev70_050.scr:11	cev70_050.scr	11	シング	Shing Meteoryte	personagem	CRLF x1	モロキュウのモロは、\nもろみミソのモロなのか	So the 'moro' in morokyu\nis from moromi miso.	
+cev70_050.scr:12	cev70_050.scr	12	シング	Shing Meteoryte	personagem		という事は……	Which means...	
+cev70_050.scr:13	cev70_050.scr	13	シング	Shing Meteoryte	personagem	CRLF x1	オレ、モロバナナとか\nモロピーナッツとかも知ってるよ！！	I also know about moro-banana\nand moro-peanuts!!	
+cev70_050.scr:14	cev70_050.scr	14	セネル	Senel Coolidge	personagem		そんなものはない！！	Those don't exist!!	
+cev70_050.scr:15	cev70_050.scr	15	シング	Shing Meteoryte	personagem	CRLF x1	だって、コハクが\nいっつも美味しそうに食べてるよ？	But Kohaku always eats them\nlooking so happy!	
+cev70_050.scr:16	cev70_050.scr	16	セネル	Senel Coolidge	personagem	CRLF x1	だからって\n何でもかんでもモロを付けるな！	That doesn't mean you can stick\n'moro' onto everything!	
+cev70_050.scr:17	cev70_050.scr	17	リッド	Reid Hershel	personagem	CRLF x2	そういえば、コハクは\n何にでもマイミソを付けちまう\nミソミソ味覚の持ち主だったな……	Come to think of it, Kohaku always\nputs her own miso on everything.\nShe has quite a miso palate...	
+cev70_060.scr:0	cev70_060.scr	0	カイウス	Caius Qualls	personagem	CRLF x2	聞いたぞ、○○。\nこれまでの魔物討伐数が\n１００体を超えたんだってな	I heard, ○○.\nThe total monsters defeated so far\nhas surpassed 100!	
+cev70_060.scr:1	cev70_060.scr	1	カイウス	Caius Qualls	personagem		やったな！	Nice job!	
+cev70_060.scr:2	cev70_060.scr	2	シング	Shing Meteoryte	personagem	CRLF x1	このギルドが発足してから\n色んな事があったけど……	A lot has happened since\nthis guild was established, but...	
+cev70_060.scr:3	cev70_060.scr	3	シング	Shing Meteoryte	personagem	CRLF x2	こうやって数字になったものを見ると\nちょっとずつでも、しっかり\n前進してるって感じがするよね	Seeing it put into numbers like this\nmakes me feel like we're moving forward,\neven if it's little by little.	
+cev70_060.scr:4	cev70_060.scr	4	カイウス	Caius Qualls	personagem	CRLF x2	ああ。\n○○もみんなも、\n頑張ってくれてるからな	Yeah.\nAfter all, ○○ and everyone\nhave been working really hard.	
+cev70_060.scr:5	cev70_060.scr	5	シング	Shing Meteoryte	personagem	CRLF x1	これからもこの調子で\nガンドコ行こう！	Let's keep going Gandoko\nat this rate!	
+cev70_060.scr:6	cev70_060.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	ああ。\nガンドコ行くぜ！	Yeah.\nLet's go Gandoko!	
+cev70_070.scr:0	cev70_070.scr	0	シング	Shing Meteoryte	personagem		前から疑問に思ってたんだけどさ……	I've been wondering for a while...	
+cev70_070.scr:1	cev70_070.scr	1	シング	Shing Meteoryte	personagem	CRLF x1	ロックスがたまに言う、\n「ほすぴたりてぃ」って何なんだ？	What is that 'hospitality' you\nsometimes talk about, Rocks?	
+cev70_070.scr:2	cev70_070.scr	2	ロックス	Rocks	personagem	CRLF x2	簡単に言えば、\n「お互いを思いやり、手厚くもてなす」\nという事ですね	Simply put,\nit means showing mutual care\nand offering warm hospitality.	
+cev70_070.scr:3	cev70_070.scr	3	シング	Shing Meteoryte	personagem	CRLF x1	お互いを思いやる……？\n相手を思いやるんじゃなくて？	Mutual care...?\nNot just caring for the other person?	
+cev70_070.scr:4	cev70_070.scr	4	ロックス	Rocks	personagem		いい質問です	An excellent question.	
+cev70_070.scr:5	cev70_070.scr	5	ロックス	Rocks	personagem	CRLF x2	そうです。\nコンシェルジュの奉仕とは、\n単にお客様にへり下る事ではないんです	Indeed.\nA concierge's service isn't simply\nhumbling oneself before guests.	
+cev70_070.scr:6	cev70_070.scr	6	ロックス	Rocks	personagem	CRLF x2	お仕えする者自身も仕事を通じて、\n成長したり、喜びを感じる……。\nそれがホスピタリティの精神です	The server also grows and feels joy\nthrough their work... That is the\ntrue spirit of hospitality.	
+cev70_070.scr:7	cev70_070.scr	7	シング	Shing Meteoryte	personagem	CRLF x1	えっと……。\nわかる……様な、わからない様な？	Umm...\nI kind of get it... or do I?	
+cev70_070.scr:8	cev70_070.scr	8	ロックス	Rocks	personagem	CRLF x2	つまり、お客様とのふれあいを通じて\nお互いにハッピーな気持ちになる事を\n仕事にさせていただいてるんです	In other words, my job is to ensure\nboth parties feel happy through\nour interactions together.	
+cev70_070.scr:9	cev70_070.scr	9	シング	Shing Meteoryte	personagem	CRLF x2	ハッピーな気持ちかぁ。\n確かに、みんながハッピーな気持ちになるなら\nこんないい事ってないよね！	A happy feeling, huh.\nIf everyone gets to feel happy,\nthere's nothing better than that!	
+cev70_070.scr:10	cev70_070.scr	10	ロックス	Rocks	personagem	CRLF x1	その通りです！\nそして、それこそがコンシェルジュの信条	Precisely!\nAnd that is a concierge's creed.	
+cev70_070.scr:11	cev70_070.scr	11	ロックス	Rocks	personagem	CRLF x1	仕事をする上で\n最も心がけている事なのです！！	It is what I keep in mind most\nwhile doing my work!!	
+cev70_070.scr:12	cev70_070.scr	12	シング	Shing Meteoryte	personagem	CRLF x2	へぇ〜、そうだったんだ……。\nコンシェルジュの仕事って\nすごいんだなぁ……	Whoa, is that so...\nThe work of a concierge\nis really amazing...	
+cev70_070.scr:13	cev70_070.scr	13	ロックス	Rocks	personagem	CRLF x2	そ、そんな事は……。\nそれに、僕の仕事は\n皆様がいて下さってのものですから	N-Not at all...\nBesides, my job only exists\nbecause all of you are here.	
+cev70_070.scr:14	cev70_070.scr	14	ロックス	Rocks	personagem	CRLF x1	つい熱っぽく語ってしまって\nすみません……	Forgive me for speaking\nso passionately...	
+cev70_200.scr:0	cev70_200.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	通常。\n	Normal.\n	
+cev70_200.scr:1	cev70_200.scr	1	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:2	cev70_200.scr	2	シング	Shing Meteoryte	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev70_200.scr:3	cev70_200.scr	3	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:4	cev70_200.scr	4	シング	Shing Meteoryte	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev70_200.scr:5	cev70_200.scr	5	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:6	cev70_200.scr	6	シング	Shing Meteoryte	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev70_200.scr:7	cev70_200.scr	7	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:8	cev70_200.scr	8	シング	Shing Meteoryte	personagem	CRLF x1	真剣。\n	Serious.\n	
+cev70_200.scr:9	cev70_200.scr	9	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:10	cev70_200.scr	10	シング	Shing Meteoryte	personagem	CRLF x1	苦笑。\n	Wry smile.\n	
+cev70_200.scr:11	cev70_200.scr	11	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:12	cev70_200.scr	12	シング	Shing Meteoryte	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev70_200.scr:13	cev70_200.scr	13	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:14	cev70_200.scr	14	シング	Shing Meteoryte	personagem	CRLF x1	笑い２。\n	Laughter 2.\n	
+cev70_200.scr:15	cev70_200.scr	15	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:16	cev70_200.scr	16	シング	Shing Meteoryte	personagem	CRLF x1	驚き２。\n	Surprise 2.\n	
+cev70_200.scr:17	cev70_200.scr	17	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:18	cev70_200.scr	18	シング	Shing Meteoryte	personagem	CRLF x1	思案。\n	Thinking.\n	
+cev70_200.scr:19	cev70_200.scr	19	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:20	cev70_200.scr	20	シング	Shing Meteoryte	personagem	CRLF x1	うっとり。\n	Entranced.\n	
+cev70_200.scr:21	cev70_200.scr	21	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:22	cev70_200.scr	22	シング	Shing Meteoryte	personagem	CRLF x1	ひく。\n	Taken aback.\n	
+cev70_200.scr:23	cev70_200.scr	23	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:24	cev70_200.scr	24	シング	Shing Meteoryte	personagem	CRLF x1	通常。\n	Normal.\n	
+cev70_200.scr:25	cev70_200.scr	25	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:26	cev70_200.scr	26	シング	Shing Meteoryte	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev70_200.scr:27	cev70_200.scr	27	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:28	cev70_200.scr	28	シング	Shing Meteoryte	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev70_200.scr:29	cev70_200.scr	29	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:30	cev70_200.scr	30	シング	Shing Meteoryte	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev70_200.scr:31	cev70_200.scr	31	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:32	cev70_200.scr	32	シング	Shing Meteoryte	personagem	CRLF x1	真剣。\n	Serious.\n	
+cev70_200.scr:33	cev70_200.scr	33	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:34	cev70_200.scr	34	シング	Shing Meteoryte	personagem	CRLF x1	苦笑。\n	Wry smile.\n	
+cev70_200.scr:35	cev70_200.scr	35	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:36	cev70_200.scr	36	シング	Shing Meteoryte	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev70_200.scr:37	cev70_200.scr	37	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:38	cev70_200.scr	38	シング	Shing Meteoryte	personagem	CRLF x1	笑い２。\n	Laughter 2.\n	
+cev70_200.scr:39	cev70_200.scr	39	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:40	cev70_200.scr	40	シング	Shing Meteoryte	personagem	CRLF x1	驚き２。\n	Surprise 2.\n	
+cev70_200.scr:41	cev70_200.scr	41	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:42	cev70_200.scr	42	シング	Shing Meteoryte	personagem	CRLF x1	思案。\n	Thinking.\n	
+cev70_200.scr:43	cev70_200.scr	43	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:44	cev70_200.scr	44	シング	Shing Meteoryte	personagem	CRLF x1	うっとり。\n	Entranced.\n	
+cev70_200.scr:45	cev70_200.scr	45	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:46	cev70_200.scr	46	シング	Shing Meteoryte	personagem	CRLF x1	ひく。\n	Taken aback.\n	
+cev70_200.scr:47	cev70_200.scr	47	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:48	cev70_200.scr	48	シング	Shing Meteoryte	personagem	CRLF x1	通常。\n	Normal.\n	
+cev70_200.scr:49	cev70_200.scr	49	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:50	cev70_200.scr	50	シング	Shing Meteoryte	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev70_200.scr:51	cev70_200.scr	51	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:52	cev70_200.scr	52	シング	Shing Meteoryte	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev70_200.scr:53	cev70_200.scr	53	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:54	cev70_200.scr	54	シング	Shing Meteoryte	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev70_200.scr:55	cev70_200.scr	55	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:56	cev70_200.scr	56	シング	Shing Meteoryte	personagem	CRLF x1	真剣。\n	Serious.\n	
+cev70_200.scr:57	cev70_200.scr	57	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:58	cev70_200.scr	58	シング	Shing Meteoryte	personagem	CRLF x1	苦笑。\n	Wry smile.\n	
+cev70_200.scr:59	cev70_200.scr	59	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:60	cev70_200.scr	60	シング	Shing Meteoryte	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev70_200.scr:61	cev70_200.scr	61	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:62	cev70_200.scr	62	シング	Shing Meteoryte	personagem	CRLF x1	笑い２。\n	Laughter 2.\n	
+cev70_200.scr:63	cev70_200.scr	63	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:64	cev70_200.scr	64	シング	Shing Meteoryte	personagem	CRLF x1	驚き２。\n	Surprise 2.\n	
+cev70_200.scr:65	cev70_200.scr	65	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:66	cev70_200.scr	66	シング	Shing Meteoryte	personagem	CRLF x1	思案。\n	Thinking.\n	
+cev70_200.scr:67	cev70_200.scr	67	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:68	cev70_200.scr	68	シング	Shing Meteoryte	personagem	CRLF x1	うっとり。\n	Entranced.\n	
+cev70_200.scr:69	cev70_200.scr	69	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev70_200.scr:70	cev70_200.scr	70	シング	Shing Meteoryte	personagem	CRLF x1	ひく。\n	Taken aback.\n	
+cev70_200.scr:71	cev70_200.scr	71	シング	Shing Meteoryte	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	

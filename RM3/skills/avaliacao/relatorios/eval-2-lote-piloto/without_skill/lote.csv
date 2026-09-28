@@ -1,0 +1,944 @@
+id,sub_lote,arquivo,ordem_na_cena,tipo,original_jp,traducao_en,control_codes,nota,id_fonte
+mev00_010.scr#0,MEV-00a,mev00_010.scr,0,tecnico_nao_traduzir,sc01.pmf,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:0
+mev00_010.scr#1,MEV-00a,mev00_010.scr,1,texto,"世界樹の恩恵によって、
+人々が暮らす世界「ルミナシア」",,CRLF,"FaceChat: sem limite de bytes | TERMO-CHAVE DO MUNDO: ルミナシア, 世界樹 — ver glossario_referencia.csv",18:mev00_010.scr:1
+mev00_010.scr#2,MEV-00a,mev00_010.scr,2,texto,世界樹が生み出したとされる「マナ」と「星晶」,,-,"FaceChat: sem limite de bytes | TERMO-CHAVE DO MUNDO: 星晶, マナ, 世界樹 — ver glossario_referencia.csv",18:mev00_010.scr:2
+mev00_010.scr#3,MEV-00a,mev00_010.scr,3,texto,"人々は、「星晶」をエネルギー資源とし、
+文明はめまぐるしく発展していった",,CRLF,FaceChat: sem limite de bytes | TERMO-CHAVE DO MUNDO: 星晶 — ver glossario_referencia.csv,18:mev00_010.scr:3
+mev00_010.scr#4,MEV-00a,mev00_010.scr,4,texto,"やがて、世界中の大国は「星晶」の保有を求め、
+各地で争いが繰り広げられるようになった",,CRLF,FaceChat: sem limite de bytes | TERMO-CHAVE DO MUNDO: 星晶 — ver glossario_referencia.csv,18:mev00_010.scr:4
+mev00_010.scr#5,MEV-00a,mev00_010.scr,5,texto,"混迷していく世界。
+閉塞した時代の中、
+人々は一人の救世主を待ち望んでいた",,CRLF,FaceChat: sem limite de bytes,18:mev00_010.scr:5
+mev00_010.scr#6,MEV-00a,mev00_010.scr,6,texto,"世界樹の守り手「ディセンダー」。
+太古より予言されていたそれは、
+世界樹より生み出され、世界を守護する為に現れる",,CRLF,FaceChat: sem limite de bytes | TERMO-CHAVE DO MUNDO: 世界樹 — ver glossario_referencia.csv,18:mev00_010.scr:6
+mev00_010.scr#7,MEV-00a,mev00_010.scr,7,texto,"「ディセンダー」に過去の履歴は一切ない。
+国も家族も記憶もなく、在るのは自由と命のみ",,CRLF,FaceChat: sem limite de bytes,18:mev00_010.scr:7
+mev00_010.scr#8,MEV-00a,mev00_010.scr,8,texto,"何も知らぬ無垢な者。
+不可能も恐れも知らぬ者",,CRLF,FaceChat: sem limite de bytes,18:mev00_010.scr:8
+mev00_010.scr#9,MEV-00a,mev00_010.scr,9,texto,"そして、かの者は光を奪わず。
+惜しみなく全てのものに光を分け与えん",,CRLF,FaceChat: sem limite de bytes,18:mev00_010.scr:9
+mev00_010.scr#10,MEV-00a,mev00_010.scr,10,texto,"それは自由の灯火なり。
+己に対する幻想を持たぬ者。
+幼子のようにその瞬間を生きる者…",,CRLF,FaceChat: sem limite de bytes,18:mev00_010.scr:10
+mev00_010.scr#11,MEV-00a,mev00_010.scr,11,texto,エモ出します,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:11
+mev00_010.scr#12,MEV-00a,mev00_010.scr,12,texto,"世界樹の恩恵によって、
+人々が暮らす世界「ルミナシア」",,CRLF,"FaceChat: sem limite de bytes | TERMO-CHAVE DO MUNDO: ルミナシア, 世界樹 — ver glossario_referencia.csv",18:mev00_010.scr:12
+mev00_010.scr#13,MEV-00a,mev00_010.scr,13,texto,影,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:13
+mev00_010.scr#14,MEV-00a,mev00_010.scr,14,texto,巨大,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:14
+mev00_010.scr#15,MEV-00a,mev00_010.scr,15,texto,薄い,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:15
+mev00_010.scr#16,MEV-00a,mev00_010.scr,16,texto,武器,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:16
+mev00_010.scr#17,MEV-00a,mev00_010.scr,17,texto,地震,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:17
+mev00_010.scr#18,MEV-00a,mev00_010.scr,18,texto,浮遊,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:18
+mev00_010.scr#19,MEV-00a,mev00_010.scr,19,texto,カットイン,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:19
+mev00_010.scr#20,MEV-00a,mev00_010.scr,20,texto,色,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:20
+mev00_010.scr#21,MEV-00a,mev00_010.scr,21,texto,薄い・色い,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:21
+mev00_010.scr#22,MEV-00a,mev00_010.scr,22,texto,背景,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:22
+mev00_010.scr#23,MEV-00a,mev00_010.scr,23,texto,持つ,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:23
+mev00_010.scr#24,MEV-00a,mev00_010.scr,24,texto,ハンパねー,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:24
+mev00_010.scr#25,MEV-00a,mev00_010.scr,25,texto,巨大「化」,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:25
+mev00_010.scr#26,MEV-00a,mev00_010.scr,26,texto,イリア、影がなくなる！？,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:26
+mev00_010.scr#27,MEV-00a,mev00_010.scr,27,texto,うそうそ,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:27
+mev00_010.scr#28,MEV-00a,mev00_010.scr,28,texto,イリア、大きくなる！,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:28
+mev00_010.scr#29,MEV-00a,mev00_010.scr,29,texto,イリア、薄くなる！,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:29
+mev00_010.scr#30,MEV-00a,mev00_010.scr,30,texto,イリア、武器が出る,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:30
+mev00_010.scr#31,MEV-00a,mev00_010.scr,31,texto,冗談だってば,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:31
+mev00_010.scr#32,MEV-00a,mev00_010.scr,32,texto,地震,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:32
+mev00_010.scr#33,MEV-00a,mev00_010.scr,33,texto,こわいねー,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:33
+mev00_010.scr#34,MEV-00a,mev00_010.scr,34,texto,浮遊,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:34
+mev00_010.scr#35,MEV-00a,mev00_010.scr,35,texto,とんでます,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:35
+mev00_010.scr#36,MEV-00a,mev00_010.scr,36,texto,カットイン,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:36
+mev00_010.scr#37,MEV-00a,mev00_010.scr,37,tecnico_nao_traduzir,eci_001.ppt,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:37
+mev00_010.scr#38,MEV-00a,mev00_010.scr,38,texto,消しますぞ！,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:38
+mev00_010.scr#39,MEV-00a,mev00_010.scr,39,texto,真っ黒,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:39
+mev00_010.scr#40,MEV-00a,mev00_010.scr,40,texto,真っ赤,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:40
+mev00_010.scr#41,MEV-00a,mev00_010.scr,41,texto,真っ白,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:41
+mev00_010.scr#42,MEV-00a,mev00_010.scr,42,texto,・・・に、ならない,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:42
+mev00_010.scr#43,MEV-00a,mev00_010.scr,43,texto,だんだん、黒,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:43
+mev00_010.scr#44,MEV-00a,mev00_010.scr,44,texto,戻す,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:44
+mev00_010.scr#45,MEV-00a,mev00_010.scr,45,texto,だんだん、薄,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:45
+mev00_010.scr#46,MEV-00a,mev00_010.scr,46,texto,戻す,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:46
+mev00_010.scr#47,MEV-00a,mev00_010.scr,47,texto,だんだん、両方,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:47
+mev00_010.scr#48,MEV-00a,mev00_010.scr,48,texto,戻す,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:48
+mev00_010.scr#49,MEV-00a,mev00_010.scr,49,texto,青い背景,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:49
+mev00_010.scr#50,MEV-00a,mev00_010.scr,50,texto,薄くなる,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:50
+mev00_010.scr#51,MEV-00a,mev00_010.scr,51,texto,緑くなる,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:51
+mev00_010.scr#52,MEV-00a,mev00_010.scr,52,texto,濃いくなる,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:52
+mev00_010.scr#53,MEV-00a,mev00_010.scr,53,texto,絵,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:53
+mev00_010.scr#54,MEV-00a,mev00_010.scr,54,tecnico_nao_traduzir,ebg_001.ppt,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:54
+mev00_010.scr#55,MEV-00a,mev00_010.scr,55,texto,消える,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:55
+mev00_010.scr#56,MEV-00a,mev00_010.scr,56,texto,持ちます,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:56
+mev00_010.scr#57,MEV-00a,mev00_010.scr,57,tecnico_nao_traduzir,L_Hand_Dummy,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:57
+mev00_010.scr#58,MEV-00a,mev00_010.scr,58,texto,歩きます,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:58
+mev00_010.scr#59,MEV-00a,mev00_010.scr,59,texto,捨てます,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:59
+mev00_010.scr#60,MEV-00a,mev00_010.scr,60,texto,おわり,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:60
+mev00_010.scr#61,MEV-00a,mev00_010.scr,61,texto,持ちます,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:61
+mev00_010.scr#62,MEV-00a,mev00_010.scr,62,tecnico_nao_traduzir,L_Hand_Dummy,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:62
+mev00_010.scr#63,MEV-00a,mev00_010.scr,63,texto,歩きます,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:63
+mev00_010.scr#64,MEV-00a,mev00_010.scr,64,texto,捨てます,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:64
+mev00_010.scr#65,MEV-00a,mev00_010.scr,65,texto,ハンパねーっす,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:65
+mev00_010.scr#66,MEV-00a,mev00_010.scr,66,texto,膨らみます,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:66
+mev00_010.scr#67,MEV-00a,mev00_010.scr,67,texto,縮みます,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:67
+mev00_010.scr#68,MEV-00a,mev00_010.scr,68,texto,戻ります,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:68
+mev00_010.scr#69,MEV-00a,mev00_010.scr,69,texto,嘘じゃないぉ！,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:69
+mev00_010.scr#70,MEV-00a,mev00_010.scr,70,texto,カメラ回します,,-,FaceChat: sem limite de bytes,18:mev00_010.scr:70
+mev00_010.scr#71,MEV-00a,mev00_010.scr,71,texto,世界樹が生み出したとされる「マナ」と「星晶」,,-,"FaceChat: sem limite de bytes | TERMO-CHAVE DO MUNDO: 星晶, マナ, 世界樹 — ver glossario_referencia.csv",18:mev00_010.scr:71
+mev00_010.scr#72,MEV-00a,mev00_010.scr,72,texto,"人々は、「星晶」をエネルギー資源とし、
+文明はめぐるましく発展していった",,CRLF,FaceChat: sem limite de bytes | TERMO-CHAVE DO MUNDO: 星晶 — ver glossario_referencia.csv,18:mev00_010.scr:72
+mev00_010.scr#73,MEV-00a,mev00_010.scr,73,texto,"やがて、世界中の大国は「星晶」の保有を求め、
+各地で争いが繰り広げられるようになった",,CRLF,FaceChat: sem limite de bytes | TERMO-CHAVE DO MUNDO: 星晶 — ver glossario_referencia.csv,18:mev00_010.scr:73
+mev00_010.scr#74,MEV-00a,mev00_010.scr,74,texto,"混迷していく世界。
+閉塞した時代の中、
+人々は一人の救世主を待ち望んでいた",,CRLF,FaceChat: sem limite de bytes,18:mev00_010.scr:74
+mev00_010.scr#75,MEV-00a,mev00_010.scr,75,texto,"世界樹の守り手「ディセンダー」。
+太古より予言されていたそれは、
+世界樹より生み出され、世界を守護する為に現れる",,CRLF,FaceChat: sem limite de bytes | TERMO-CHAVE DO MUNDO: 世界樹 — ver glossario_referencia.csv,18:mev00_010.scr:75
+mev00_010.scr#76,MEV-00a,mev00_010.scr,76,texto,"「ディセンダー」に過去の履歴は一切ない。
+国も家族も記憶もなく、在るのは自由と命のみ",,CRLF,FaceChat: sem limite de bytes,18:mev00_010.scr:76
+mev00_010.scr#77,MEV-00a,mev00_010.scr,77,texto,"何も知らぬ無垢な者。
+不可能も恐れも知らぬ者",,CRLF,FaceChat: sem limite de bytes,18:mev00_010.scr:77
+mev00_010.scr#78,MEV-00a,mev00_010.scr,78,texto,"そして、かの者は光を奪わず。
+惜しみなく全てのものに光を分け与えん",,CRLF,FaceChat: sem limite de bytes,18:mev00_010.scr:78
+mev00_010.scr#79,MEV-00a,mev00_010.scr,79,texto,"それは自由の灯火なり。
+己に対する幻想を持たぬ者。
+幼子のようにその瞬間を生きる者…",,CRLF,FaceChat: sem limite de bytes,18:mev00_010.scr:79
+mev00_020.scr#0,MEV-00a,mev00_020.scr,0,tecnico_nao_traduzir,se_mev00_020.arc,,-,FaceChat: sem limite de bytes,22:mev00_020.scr:0
+mev00_020.scr#1,MEV-00a,mev00_020.scr,1,texto,"さて、と。
+今回の仕事も、これで終わり！
+船に戻らなくちゃ",,CRLF,FaceChat: sem limite de bytes,22:mev00_020.scr:1
+mev00_020.scr#2,MEV-00a,mev00_020.scr,2,texto,何だろう…,,-,FaceChat: sem limite de bytes,22:mev00_020.scr:2
+mev00_020.scr#3,MEV-00a,mev00_020.scr,3,texto,迎えまで、まだ時間がある,,-,FaceChat: sem limite de bytes,22:mev00_020.scr:3
+mev00_020.scr#4,MEV-00a,mev00_020.scr,4,texto,行ってみよう,,-,FaceChat: sem limite de bytes,22:mev00_020.scr:4
+mev00_020.scr#5,MEV-00a,mev00_020.scr,5,tecnico_nao_traduzir,map_D01A22,,-,FaceChat: sem limite de bytes,22:mev00_020.scr:5
+mev00_020.scr#6,MEV-00a,mev00_020.scr,6,tecnico_nao_traduzir,point_10501,,-,FaceChat: sem limite de bytes,22:mev00_020.scr:6
+mev00_030.scr#0,MEV-00a,mev00_030.scr,0,tecnico_nao_traduzir,se_mev00_030.arc,,-,FaceChat: sem limite de bytes,30:mev00_030.scr:0
+mev00_030.scr#1,MEV-00a,mev00_030.scr,1,tecnico_nao_traduzir,Bip01 Spine,,-,FaceChat: sem limite de bytes,30:mev00_030.scr:1
+mev00_030.scr#2,MEV-00a,mev00_030.scr,2,texto,何…、光…？,,-,FaceChat: sem limite de bytes,30:mev00_030.scr:2
+mev00_030.scr#3,MEV-00a,mev00_030.scr,3,texto,"人…、だ！？
+空から人が降りて…",,CRLF,FaceChat: sem limite de bytes,30:mev00_030.scr:3
+mev00_040.scr#0,MEV-00a,mev00_040.scr,0,texto,"気が付いて良かった。
+空から降りて来たんだもん。
+すっごく驚いたよ！",,CRLF,FaceChat: sem limite de bytes,32:mev00_040.scr:0
+mev00_040.scr#1,MEV-00a,mev00_040.scr,1,texto,あれは、何かの魔術なの？,,-,FaceChat: sem limite de bytes,32:mev00_040.scr:1
+mev00_040.scr#2,MEV-00a,mev00_040.scr,2,texto,"覚えて無いの？
+あなた、空から降りて来たのよ",,CRLF,FaceChat: sem limite de bytes,32:mev00_040.scr:2
+mev00_040.scr#3,MEV-00a,mev00_040.scr,3,texto,空から降りたのが本当か、尋ねる,,-,FaceChat: sem limite de bytes,32:mev00_040.scr:3
+mev00_040.scr#4,MEV-00a,mev00_040.scr,4,texto,魔術とは何か、と尋ねる,,-,FaceChat: sem limite de bytes,32:mev00_040.scr:4
+mev00_040.scr#5,MEV-00a,mev00_040.scr,5,texto,"そう。
+光に包まれて、
+空からフワフワ降りて来たんだよ",,CRLF,FaceChat: sem limite de bytes,32:mev00_040.scr:5
+mev00_040.scr#6,MEV-00a,mev00_040.scr,6,texto,"違うの？
+スゴイ魔術で空を飛んだのかなあって
+思ったんだけど",,CRLF,FaceChat: sem limite de bytes,32:mev00_040.scr:6
+mev00_040.scr#7,MEV-00a,mev00_040.scr,7,texto,"ともかく、気が付いて良かった。
+まるで眠ってしまった様な状態だったもの。
+ここは魔物が多くて危険だから…",,CRLF,FaceChat: sem limite de bytes,32:mev00_040.scr:7
+mev00_040.scr#8,MEV-00a,mev00_040.scr,8,texto,"私はカノンノ。
+カノンノ・グラスバレー。
+あなたは？",,CRLF,FaceChat: sem limite de bytes,32:mev00_040.scr:8
+mev00_040.scr#9,MEV-00a,mev00_040.scr,9,texto,名乗る,,-,FaceChat: sem limite de bytes,32:mev00_040.scr:9
+mev00_040.scr#10,MEV-00a,mev00_040.scr,10,texto,自信はないが名乗ってみる,,-,FaceChat: sem limite de bytes,32:mev00_040.scr:10
+mev00_040.scr#11,MEV-00a,mev00_040.scr,11,texto,"○○…。
+いい名前ね",,CRLF,FaceChat: sem limite de bytes,32:mev00_040.scr:11
+mev00_040.scr#12,MEV-00a,mev00_040.scr,12,texto,"とりあえず、ここは危険だから
+山を降りましょう",,CRLF,FaceChat: sem limite de bytes,32:mev00_040.scr:12
+mev00_040.scr#13,MEV-00a,mev00_040.scr,13,tecnico_nao_traduzir,map_D01A05,,-,FaceChat: sem limite de bytes,32:mev00_040.scr:13
+mev00_040.scr#14,MEV-00a,mev00_040.scr,14,tecnico_nao_traduzir,point_20501,,-,FaceChat: sem limite de bytes,32:mev00_040.scr:14
+mev00_050.scr#0,MEV-00a,mev00_050.scr,0,texto,あっちゃあ…、魔物だ,,-,FaceChat: sem limite de bytes,58:mev00_050.scr:0
+mev00_050.scr#1,MEV-00a,mev00_050.scr,1,texto,通してくれそうに無いなぁ,,-,FaceChat: sem limite de bytes,58:mev00_050.scr:1
+mev00_050.scr#2,MEV-00a,mev00_050.scr,2,texto,武器を持ってる事を伝える,,-,FaceChat: sem limite de bytes,58:mev00_050.scr:2
+mev00_050.scr#3,MEV-00a,mev00_050.scr,3,texto,戦う事を伝える,,-,FaceChat: sem limite de bytes,58:mev00_050.scr:3
+mev00_050.scr#4,MEV-00a,mev00_050.scr,4,texto,"ホント！？
+じゃあ、私もサポートするから、
+ここは頑張ろう！",,CRLF,FaceChat: sem limite de bytes,58:mev00_050.scr:4
+mev00_050.scr#5,MEV-00a,mev00_050.scr,5,texto,"そうみたいだね…。
+倒さないと、先には進めなさそう",,CRLF,FaceChat: sem limite de bytes,58:mev00_050.scr:5
+mev00_050.scr#6,MEV-00a,mev00_050.scr,6,texto,"えっ。
+○○も手伝ってくれるって？",,CRLF,FaceChat: sem limite de bytes,58:mev00_050.scr:6
+mev00_050.scr#7,MEV-00a,mev00_050.scr,7,texto,うん、じゃあ、一緒に戦おう！,,-,FaceChat: sem limite de bytes,58:mev00_050.scr:7
+mev00_050.scr#8,MEV-00a,mev00_050.scr,8,texto,じゃあ、行くよ！,,-,FaceChat: sem limite de bytes,58:mev00_050.scr:8
+mev00_060.scr#0,MEV-00a,mev00_060.scr,0,texto,"モンスターを倒すと、
+アイテムをドロップする事があります",,CRLF,FaceChat: sem limite de bytes,64:mev00_060.scr:0
+mev00_060.scr#1,MEV-00a,mev00_060.scr,1,texto,"なお、ドロップするアイテムは
+モンスターの種類により異なります",,CRLF,FaceChat: sem limite de bytes,64:mev00_060.scr:1
+mev00_060.scr#2,MEV-00a,mev00_060.scr,2,texto,大丈夫だった？,,-,FaceChat: sem limite de bytes,64:mev00_060.scr:2
+mev00_060.scr#3,MEV-00a,mev00_060.scr,3,texto,"あ、そろそろ船が到着する時間だ。
+急いで山を降りなきゃ！",,CRLF,FaceChat: sem limite de bytes,64:mev00_060.scr:3
+mev00_060.scr#4,MEV-00a,mev00_060.scr,4,texto,少し急ぐ事になるけど、いいかな？,,-,FaceChat: sem limite de bytes,64:mev00_060.scr:4
+mev00_060.scr#5,MEV-00a,mev00_060.scr,5,texto,"船に乗ったら、あなたの希望する場所へ
+送ってもらえる様に伝えるから",,CRLF,FaceChat: sem limite de bytes,64:mev00_060.scr:5
+mev00_060.scr#6,MEV-00a,mev00_060.scr,6,texto,希望する場所について悩む,,-,FaceChat: sem limite de bytes,64:mev00_060.scr:6
+mev00_060.scr#7,MEV-00a,mev00_060.scr,7,texto,送ると言われて悩む,,-,FaceChat: sem limite de bytes,64:mev00_060.scr:7
+mev00_060.scr#8,MEV-00a,mev00_060.scr,8,texto,"そう。
+どこかへ行こうとしていたんでしょう？
+それで、ここへ降りてしまったとか…",,CRLF,FaceChat: sem limite de bytes,64:mev00_060.scr:8
+mev00_060.scr#9,MEV-00a,mev00_060.scr,9,texto,"え…？
+どこへ行ったらいいのか、わからない？",,CRLF,FaceChat: sem limite de bytes,64:mev00_060.scr:9
+mev00_060.scr#10,MEV-00a,mev00_060.scr,10,texto,え………,,-,FaceChat: sem limite de bytes,64:mev00_060.scr:10
+mev00_060.scr#11,MEV-00a,mev00_060.scr,11,texto,"ええっ！？
+自分の名前以外、何もわからないって…",,CRLF,FaceChat: sem limite de bytes,64:mev00_060.scr:11
+mev00_060.scr#12,MEV-00a,mev00_060.scr,12,texto,"んーんんん…。
+それじゃあ、どうすればいいかな",,CRLF,FaceChat: sem limite de bytes,64:mev00_060.scr:12
+mev00_060.scr#13,MEV-00a,mev00_060.scr,13,texto,"とりあえず、船までおいでよ。
+それから一緒に考えるから",,CRLF,FaceChat: sem limite de bytes,64:mev00_060.scr:13
+mev00_060.scr#14,MEV-00a,mev00_060.scr,14,texto,行こっ！,,-,FaceChat: sem limite de bytes,64:mev00_060.scr:14
+mev00_060.scr#15,MEV-00a,mev00_060.scr,15,texto,"△ボタンを押すとメニューを起動します。
+メニューからアイテムの使用や、
+ステータスで状態の確認などが出来ます",,CRLF,FaceChat: sem limite de bytes,64:mev00_060.scr:15
+mev00_060.scr#16,MEV-00a,mev00_060.scr,16,texto,"×ボタンを押すと、ミニマップを表示し、
+周囲を確認出来ます",,CRLF,FaceChat: sem limite de bytes,64:mev00_060.scr:16
+mev00_060.scr#17,MEV-00a,mev00_060.scr,17,texto,"再び非表示にするには、
+×ボタンを押して下さい",,CRLF,FaceChat: sem limite de bytes,64:mev00_060.scr:17
+mev00_070.scr#0,MEV-00a,mev00_070.scr,0,tecnico_nao_traduzir,se_mev00_070.arc,,-,FaceChat: sem limite de bytes,6369:mev00_070.scr:0
+mev00_070.scr#1,MEV-00a,mev00_070.scr,1,texto,"あれ？
+まだ船が到着してない。
+私達の方が、先だったかな",,CRLF,FaceChat: sem limite de bytes,6369:mev00_070.scr:1
+mev00_070.scr#2,MEV-00a,mev00_070.scr,2,texto,"ねえ、○○。
+ひょっとしたら、あなたは
+記憶喪失なのかもしれないね",,CRLF,FaceChat: sem limite de bytes,6369:mev00_070.scr:2
+mev00_070.scr#3,MEV-00a,mev00_070.scr,3,texto,"何か、原因があって…。
+そういう状態になっているんじゃ
+ないかなぁ",,CRLF,FaceChat: sem limite de bytes,6369:mev00_070.scr:3
+mev00_070.scr#4,MEV-00a,mev00_070.scr,4,texto,記憶喪失の原因について尋ねる,,-,FaceChat: sem limite de bytes,6369:mev00_070.scr:4
+mev00_070.scr#5,MEV-00a,mev00_070.scr,5,texto,黙っている,,-,FaceChat: sem limite de bytes,6369:mev00_070.scr:5
+mev00_070.scr#6,MEV-00a,mev00_070.scr,6,texto,"わからない。
+それこそ、理由は色々あると思うから",,CRLF,FaceChat: sem limite de bytes,6369:mev00_070.scr:6
+mev00_070.scr#7,MEV-00a,mev00_070.scr,7,texto,"でも、あなたがこの山へ降りて来た時以前の
+記憶が無い所をみると、あなたを包んでいた
+光に原因があったりするのかなぁ",,CRLF,FaceChat: sem limite de bytes,6369:mev00_070.scr:7
+mev00_070.scr#8,MEV-00a,mev00_070.scr,8,texto,"…うん。
+今は、無理に思い出そうとしない方が
+いいよ",,CRLF,FaceChat: sem limite de bytes,6369:mev00_070.scr:8
+mev00_070.scr#9,MEV-00a,mev00_070.scr,9,texto,"あなたが良ければ、
+これからどうしていけばいいかを
+一緒に考えるよ",,CRLF,FaceChat: sem limite de bytes,6369:mev00_070.scr:9
+mev00_070.scr#10,MEV-00a,mev00_070.scr,10,texto,船が来たよ！,,-,FaceChat: sem limite de bytes,6369:mev00_070.scr:10
+mev00_080.scr#0,MEV-00a,mev00_080.scr,0,tecnico_nao_traduzir,sc02.pmf,,-,FaceChat: sem limite de bytes,6370:mev00_080.scr:0
+mev00_080.scr#1,MEV-00a,mev00_080.scr,1,tecnico_nao_traduzir,map_D00A03,,-,FaceChat: sem limite de bytes,6370:mev00_080.scr:1
+mev00_080.scr#2,MEV-00a,mev00_080.scr,2,tecnico_nao_traduzir,point_20301,,-,FaceChat: sem limite de bytes,6370:mev00_080.scr:2
+mev00_090.scr#0,MEV-00a,mev00_090.scr,0,texto,お疲れ様、カノンノ,,-,FaceChat: sem limite de bytes,6371:mev00_090.scr:0
+mev00_090.scr#1,MEV-00a,mev00_090.scr,1,texto,"あなたが魔物を討伐してくれたお陰で、
+ペカン村の人達の移民は無事に済んだよ",,CRLF,FaceChat: sem limite de bytes,6371:mev00_090.scr:1
+mev00_090.scr#2,MEV-00a,mev00_090.scr,2,texto,ところで、そちらの男性は？,,-,FaceChat: sem limite de bytes,6371:mev00_090.scr:2
+mev00_090.scr#3,MEV-00a,mev00_090.scr,3,texto,彼とは、ルバーブ連山で出会って…,,-,FaceChat: sem limite de bytes,6371:mev00_090.scr:3
+mev00_090.scr#4,MEV-00a,mev00_090.scr,4,texto,ところで、そちらの女性は？,,-,FaceChat: sem limite de bytes,6371:mev00_090.scr:4
+mev00_090.scr#5,MEV-00a,mev00_090.scr,5,texto,彼女とは、ルバーブ連山で出会って…,,-,FaceChat: sem limite de bytes,6371:mev00_090.scr:5
+mev00_090.scr#6,MEV-00a,mev00_090.scr,6,texto,それじゃあ、まずは自己紹介からね,,-,FaceChat: sem limite de bytes,6371:mev00_090.scr:6
+mev00_090.scr#7,MEV-00a,mev00_090.scr,7,texto,"わたしはアンジュ・セレーナ。
+あなたの話を聞いてもいいかな？",,CRLF,FaceChat: sem limite de bytes,6371:mev00_090.scr:7
+mev00_090.scr#8,MEV-00a,mev00_090.scr,8,texto,ありのまま話す,,-,FaceChat: sem limite de bytes,6371:mev00_090.scr:8
+mev00_090.scr#9,MEV-00a,mev00_090.scr,9,texto,自信は無いが話す,,-,FaceChat: sem limite de bytes,6371:mev00_090.scr:9
+mev00_090.scr#10,MEV-00a,mev00_090.scr,10,texto,"そう。
+記憶が無いなら、どこに行っていいかも
+わからないよね",,CRLF,FaceChat: sem limite de bytes,6371:mev00_090.scr:10
+mev00_090.scr#11,MEV-00a,mev00_090.scr,11,texto,記憶が戻るまで、ここに置くのは構いません,,-,FaceChat: sem limite de bytes,6371:mev00_090.scr:11
+mev00_090.scr#12,MEV-00a,mev00_090.scr,12,texto,"でも、話を聞く限り体力には自信が
+ある様だし、働いてもらいましょうか",,CRLF,FaceChat: sem limite de bytes,6371:mev00_090.scr:12
+mev00_090.scr#13,MEV-00a,mev00_090.scr,13,texto,"それじゃあ、今からあなたを
+ギルド「アドリビトム」の一員として
+迎えるね",,CRLF,FaceChat: sem limite de bytes,6371:mev00_090.scr:13
+mev00_090.scr#14,MEV-00a,mev00_090.scr,14,texto,アドリビトムとは何かを聞く,,-,FaceChat: sem limite de bytes,6371:mev00_090.scr:14
+mev00_090.scr#15,MEV-00a,mev00_090.scr,15,texto,仕事は体力の要る仕事かと聞く,,-,FaceChat: sem limite de bytes,6371:mev00_090.scr:15
+mev00_090.scr#16,MEV-00a,mev00_090.scr,16,texto,"このギルドの名前の事かな？
+古代神官語で「自由」という意味よ",,CRLF,FaceChat: sem limite de bytes,6371:mev00_090.scr:16
+mev00_090.scr#17,MEV-00a,mev00_090.scr,17,texto,"まあ、おおむねそういうのが多いかな。
+だって、ここはギルドだもの",,CRLF,FaceChat: sem limite de bytes,6371:mev00_090.scr:17
+mev00_090.scr#18,MEV-00a,mev00_090.scr,18,texto,"ギルドというのは、人々から寄せられる依頼を
+こなす、いわゆる何でも屋さんと思って
+くれればいいかな",,CRLF,FaceChat: sem limite de bytes,6371:mev00_090.scr:18
+mev00_090.scr#19,MEV-00a,mev00_090.scr,19,texto,"でも、仕事の話よりも、まずは
+他のメンバーとの顔合わせが必要よ",,CRLF,FaceChat: sem limite de bytes,6371:mev00_090.scr:19
+mev00_090.scr#20,MEV-00a,mev00_090.scr,20,texto,みんなの所へ行って、挨拶してらっしゃい,,-,FaceChat: sem limite de bytes,6371:mev00_090.scr:20
+mev00_090.scr#21,MEV-00a,mev00_090.scr,21,texto,それが終わったら、仕事について教えるから,,-,FaceChat: sem limite de bytes,6371:mev00_090.scr:21
+mev00_090.scr#22,MEV-00a,mev00_090.scr,22,texto,"カノンノ、みんなへの挨拶に付いて行って
+あげてくれる？",,CRLF,FaceChat: sem limite de bytes,6371:mev00_090.scr:22
+mev00_090.scr#23,MEV-00a,mev00_090.scr,23,texto,はい,,-,FaceChat: sem limite de bytes,6371:mev00_090.scr:23
+mev00_090.scr#24,MEV-00a,mev00_090.scr,24,texto,"それじゃあ、このギルドの拠点となる船、
+「バンエルティア号」の艦内見取り図を
+あげるね",,CRLF,FaceChat: sem limite de bytes,6371:mev00_090.scr:24
+mev00_090.scr#25,MEV-00a,mev00_090.scr,25,texto,"これを見れば、これから行く場所が
+わかりやすいよ。
+迷ったら見てね",,CRLF,FaceChat: sem limite de bytes,6371:mev00_090.scr:25
+mev00_090.scr#26,MEV-00a,mev00_090.scr,26,texto,"今、下の階のみんなは
+仕事で外出中なの",,CRLF,FaceChat: sem limite de bytes,6371:mev00_090.scr:26
+mev00_090.scr#27,MEV-00a,mev00_090.scr,27,texto,"下の階には今行けない様になってるから、
+注意してね。
+まずは、１階のみんなに挨拶に行こう",,CRLF,FaceChat: sem limite de bytes,6371:mev00_090.scr:27
+mev00_090.scr#28,MEV-00a,mev00_090.scr,28,texto,それじゃあ、早速見取り図を見てみて！,,-,FaceChat: sem limite de bytes,6371:mev00_090.scr:28
+mev00_100.scr#0,MEV-00a,mev00_100.scr,0,texto,やあ、新しい仲間だね,,-,FaceChat: sem limite de bytes,6372:mev00_100.scr:0
+mev00_100.scr#1,MEV-00a,mev00_100.scr,1,texto,"僕はクレス・アルベイン。
+これから、よろしく",,CRLF,FaceChat: sem limite de bytes,6372:mev00_100.scr:1
+mev00_100.scr#2,MEV-00a,mev00_100.scr,2,texto,私はミント・アドネードです,,-,FaceChat: sem limite de bytes,6372:mev00_100.scr:2
+mev00_100.scr#3,MEV-00a,mev00_100.scr,3,texto,"アドリビトムのリーダーである
+アンジュさんとは、
+元々教会で修行をした旧知の仲でした",,CRLF,FaceChat: sem limite de bytes,6372:mev00_100.scr:3
+mev00_100.scr#4,MEV-00a,mev00_100.scr,4,texto,"ギルドの発足に手を貸して欲しいと便りを頂き、
+アドリビトムに加わりました",,CRLF,FaceChat: sem limite de bytes,6372:mev00_100.scr:4
+mev00_100.scr#5,MEV-00a,mev00_100.scr,5,texto,僕はミントに付いて来たんだ,,-,FaceChat: sem limite de bytes,6372:mev00_100.scr:5
+mev00_100.scr#6,MEV-00a,mev00_100.scr,6,texto,"僕は将来、自分の故郷にギルドを
+作りたくてね。
+勉強の為に、ここに居るんだ",,CRLF,FaceChat: sem limite de bytes,6372:mev00_100.scr:6
+mev00_100.scr#7,MEV-00a,mev00_100.scr,7,texto,"それでは、
+今後ともよろしくお願いします",,CRLF,FaceChat: sem limite de bytes,6372:mev00_100.scr:7
+mev00_110.scr#0,MEV-00a,mev00_110.scr,0,texto,あ、キミが新しいメンバーだよね？,,-,FaceChat: sem limite de bytes,6373:mev00_110.scr:0
+mev00_110.scr#1,MEV-00a,mev00_110.scr,1,texto,"私は、マルタ・ルアルディ。
+よろしくね",,CRLF,FaceChat: sem limite de bytes,6373:mev00_110.scr:1
+mev00_110.scr#2,MEV-00a,mev00_110.scr,2,texto,ほら、エミルも！,,-,FaceChat: sem limite de bytes,6373:mev00_110.scr:2
+mev00_110.scr#3,MEV-00a,mev00_110.scr,3,texto,"……あ、…え。
+エ、エミル・キャスタニエ…です",,CRLF,FaceChat: sem limite de bytes,6373:mev00_110.scr:3
+mev00_110.scr#4,MEV-00a,mev00_110.scr,4,texto,"もう！　男なら、はっきりする！
+そんな風に、いちいち他人の顔色窺ってたら
+相手に気を遣わせちゃうでしょ",,CRLF,FaceChat: sem limite de bytes,6373:mev00_110.scr:4
+mev00_110.scr#5,MEV-00a,mev00_110.scr,5,texto,う、うん…、ごめん…,,-,FaceChat: sem limite de bytes,6373:mev00_110.scr:5
+mev00_110.scr#6,MEV-00a,mev00_110.scr,6,texto,"彼、あなたとの初対面で
+ちょっと緊張してるみたい。
+でも、すぐになれるから",,CRLF,FaceChat: sem limite de bytes,6373:mev00_110.scr:6
+mev00_110.scr#7,MEV-00a,mev00_110.scr,7,texto,"私達はアンジュと故郷が同じで、
+ギルド発足を手伝ったの。
+そのままここで働いてるんだ",,CRLF,FaceChat: sem limite de bytes,6373:mev00_110.scr:7
+mev00_110.scr#8,MEV-00a,mev00_110.scr,8,texto,"今日からキミも仲間だね！
+一緒に頑張ろう",,CRLF,FaceChat: sem limite de bytes,6373:mev00_110.scr:8
+mev00_120.scr#0,MEV-00a,mev00_120.scr,0,texto,"クラトス・アウリオンだ。
+リーダーのアンジュより、
+傭兵として雇われている",,CRLF,FaceChat: sem limite de bytes,6374:mev00_120.scr:0
+mev00_120.scr#1,MEV-00a,mev00_120.scr,1,texto,"…？
+お前は…",,CRLF,FaceChat: sem limite de bytes,6374:mev00_120.scr:1
+mev00_120.scr#2,MEV-00a,mev00_120.scr,2,texto,"いや…、何でもない。
+早く仕事を覚えるのだな",,CRLF,FaceChat: sem limite de bytes,6374:mev00_120.scr:2
+mev00_130.scr#0,MEV-00a,mev00_130.scr,0,texto,はいはい、新人さんね,,-,FaceChat: sem limite de bytes,6375:mev00_130.scr:0
+mev00_130.scr#1,MEV-00a,mev00_130.scr,1,texto,"あたしは、ルーティ・カトレット。
+遺跡発掘専門のトレジャーハンターよ",,CRLF,FaceChat: sem limite de bytes,6375:mev00_130.scr:1
+mev00_130.scr#2,MEV-00a,mev00_130.scr,2,texto,"俺は、スタン・エルロン！
+よろしくな",,CRLF,FaceChat: sem limite de bytes,6375:mev00_130.scr:2
+mev00_130.scr#3,MEV-00a,mev00_130.scr,3,texto,フィリアには、もう会ったか？,,-,FaceChat: sem limite de bytes,6375:mev00_130.scr:3
+mev00_130.scr#4,MEV-00a,mev00_130.scr,4,texto,"フィリアがさ、世界中の人を手助けする
+ギルドに入るって聞いて…、な？",,CRLF,FaceChat: sem limite de bytes,6375:mev00_130.scr:4
+mev00_130.scr#5,MEV-00a,mev00_130.scr,5,texto,"あたし達も手伝いましょ、って事で
+この船に乗ったの",,CRLF,FaceChat: sem limite de bytes,6375:mev00_130.scr:5
+mev00_130.scr#6,MEV-00a,mev00_130.scr,6,texto,"ま、目的はそれだけじゃないんだけど。
+孤児院を経営する為の
+資金稼ぎしなくちゃなんないの",,CRLF,FaceChat: sem limite de bytes,6375:mev00_130.scr:6
+mev00_130.scr#7,MEV-00a,mev00_130.scr,7,texto,"そういうわけで、
+儲かりそうな仕事の時には
+声をかけてちょうだい♪",,CRLF,FaceChat: sem limite de bytes,6375:mev00_130.scr:7
+mev00_140.scr#0,MEV-00a,mev00_140.scr,0,texto,"私から伺おうと思っていましたのに、
+ご丁寧にありがとうございます",,CRLF,FaceChat: sem limite de bytes,6376:mev00_140.scr:0
+mev00_140.scr#1,MEV-00a,mev00_140.scr,1,texto,"私は、フィリア・フィリスと申します。
+よろしくお願いします",,CRLF,FaceChat: sem limite de bytes,6376:mev00_140.scr:1
+mev00_140.scr#2,MEV-00a,mev00_140.scr,2,texto,"私とアンジュさんは、
+教会に勤めていた時からの知り合いなのです",,CRLF,FaceChat: sem limite de bytes,6376:mev00_140.scr:2
+mev00_140.scr#3,MEV-00a,mev00_140.scr,3,texto,"出身国は違いますけれど、
+私達は教会出身者なんですよ",,CRLF,FaceChat: sem limite de bytes,6376:mev00_140.scr:3
+mev00_140.scr#4,MEV-00a,mev00_140.scr,4,texto,"それで、アンジュさんが多くの人々の
+力になれるギルドを立ち上げたと
+便りをくれて",,CRLF,FaceChat: sem limite de bytes,6376:mev00_140.scr:4
+mev00_140.scr#5,MEV-00a,mev00_140.scr,5,texto,私も、ぜひ協力したくて来たんです,,-,FaceChat: sem limite de bytes,6376:mev00_140.scr:5
+mev00_140.scr#6,MEV-00a,mev00_140.scr,6,texto,では、今後ともよろしくお願い致します,,-,FaceChat: sem limite de bytes,6376:mev00_140.scr:6
+mev00_150.scr#0,MEV-00a,mev00_150.scr,0,texto,"こんにちは、初めまして。
+わたしは、シャーリィ・フェンネスと
+いいます",,CRLF,FaceChat: sem limite de bytes,6377:mev00_150.scr:0
+mev00_150.scr#1,MEV-00a,mev00_150.scr,1,texto,そして、こっちはわたしの兄の…,,-,FaceChat: sem limite de bytes,6377:mev00_150.scr:1
+mev00_150.scr#2,MEV-00a,mev00_150.scr,2,texto,セネル・クーリッジだ,,-,FaceChat: sem limite de bytes,6377:mev00_150.scr:2
+mev00_150.scr#3,MEV-00a,mev00_150.scr,3,texto,"元はギルド専属のマリントルーパーを
+やっていた。
+ここへはつい最近、加入したばかりだ",,CRLF,FaceChat: sem limite de bytes,6377:mev00_150.scr:3
+mev00_150.scr#4,MEV-00a,mev00_150.scr,4,texto,元々は故郷のギルドに所属していました,,-,FaceChat: sem limite de bytes,6377:mev00_150.scr:4
+mev00_150.scr#5,MEV-00a,mev00_150.scr,5,texto,"でも、わたし達の国は、
+戦争で焼け野原となってしまって…",,CRLF,FaceChat: sem limite de bytes,6377:mev00_150.scr:5
+mev00_150.scr#6,MEV-00a,mev00_150.scr,6,texto,"それで、こっちのギルドへ移ったわけだ。
+故郷のギルドは、解体してしまったからな",,CRLF,FaceChat: sem limite de bytes,6377:mev00_150.scr:6
+mev00_150.scr#7,MEV-00a,mev00_150.scr,7,texto,"でも、バンエルティア号のお陰で
+いつでも故郷のみんなを助けに行けます",,CRLF,FaceChat: sem limite de bytes,6377:mev00_150.scr:7
+mev00_150.scr#8,MEV-00a,mev00_150.scr,8,texto,"そういえば、研究室のウィルさんには
+会いましたか？",,CRLF,FaceChat: sem limite de bytes,6377:mev00_150.scr:8
+mev00_150.scr#9,MEV-00a,mev00_150.scr,9,texto,"ウィルさんも、わたし達と同じ故郷、
+同じギルドにいたんです",,CRLF,FaceChat: sem limite de bytes,6377:mev00_150.scr:9
+mev00_150.scr#10,MEV-00a,mev00_150.scr,10,texto,"それじゃあ、
+これからよろしくお願いします",,CRLF,FaceChat: sem limite de bytes,6377:mev00_150.scr:10
+mev00_160.scr#0,MEV-00a,mev00_160.scr,0,texto,"あっ、初めまして。
+あなたが、新しい仲間になるのね",,CRLF,FaceChat: sem limite de bytes,6378:mev00_160.scr:0
+mev00_160.scr#1,MEV-00a,mev00_160.scr,1,texto,"わたしはファラ。
+ファラ・エルステッド",,CRLF,FaceChat: sem limite de bytes,6378:mev00_160.scr:1
+mev00_160.scr#2,MEV-00a,mev00_160.scr,2,texto,"アンジュとは故郷が同じで、
+ギルドを立ち上げた時からのメンバーなの",,CRLF,FaceChat: sem limite de bytes,6378:mev00_160.scr:2
+mev00_160.scr#3,MEV-00a,mev00_160.scr,3,texto,"オレはリッド・ハーシェル。
+同じく、ギルド発足当時からのメンバーだ。
+よろしくな",,CRLF,FaceChat: sem limite de bytes,6378:mev00_160.scr:3
+mev00_160.scr#4,MEV-00a,mev00_160.scr,4,texto,元々は、故郷の村で猟師をやってた,,-,FaceChat: sem limite de bytes,6378:mev00_160.scr:4
+mev00_160.scr#5,MEV-00a,mev00_160.scr,5,texto,"でも、領主国がオレ達の村に綿の栽培を強制
+させようと、畑を広げる為に
+猟をする森まで焼いちまったんだよ",,CRLF,FaceChat: sem limite de bytes,6378:mev00_160.scr:5
+mev00_160.scr#6,MEV-00a,mev00_160.scr,6,texto,"わたしは農家出身なんだけど、
+綿の栽培を強制されたから、自分達の
+食料すらまかなえなくなっちゃったの",,CRLF,FaceChat: sem limite de bytes,6378:mev00_160.scr:6
+mev00_160.scr#7,MEV-00a,mev00_160.scr,7,texto,"綿じゃあ、腹一杯には
+ならねえからなあ",,CRLF,FaceChat: sem limite de bytes,6378:mev00_160.scr:7
+mev00_160.scr#8,MEV-00a,mev00_160.scr,8,texto,"でも、このギルドで働けば、
+村に不足している物資を集めて
+届ける事も出来るんだ",,CRLF,FaceChat: sem limite de bytes,6378:mev00_160.scr:8
+mev00_160.scr#9,MEV-00a,mev00_160.scr,9,texto,じゃ、これからよろしくな,,-,FaceChat: sem limite de bytes,6378:mev00_160.scr:9
+mev00_170.scr#0,MEV-00b,mev00_170.scr,0,texto,"新入りか。
+さっき、話を聞いた",,CRLF,FaceChat: sem limite de bytes,6379:mev00_170.scr:0
+mev00_170.scr#1,MEV-00b,mev00_170.scr,1,texto,"オレは、ヴェイグ・リュングベル。
+アニーやクレアと同じヘーゼル村出身だ",,CRLF,FaceChat: sem limite de bytes,6379:mev00_170.scr:1
+mev00_170.scr#2,MEV-00b,mev00_170.scr,2,texto,"ここへは最近入ったばかりで、
+オレから教えられる事は少ない",,CRLF,FaceChat: sem limite de bytes,6379:mev00_170.scr:2
+mev00_170.scr#3,MEV-00b,mev00_170.scr,3,texto,"ギルドのみんなは、
+それぞれ故郷での事情があって
+ここへ来ている",,CRLF,FaceChat: sem limite de bytes,6379:mev00_170.scr:3
+mev00_170.scr#4,MEV-00b,mev00_170.scr,4,texto,良ければ、力になって欲しい,,-,FaceChat: sem limite de bytes,6379:mev00_170.scr:4
+mev00_180.scr#0,MEV-00b,mev00_180.scr,0,texto,"オレは、カイウス・クオールズ。
+よろしくな！",,CRLF,FaceChat: sem limite de bytes,6380:mev00_180.scr:0
+mev00_180.scr#1,MEV-00b,mev00_180.scr,1,texto,あたしは、ルビア・ナトウィック,,-,FaceChat: sem limite de bytes,6380:mev00_180.scr:1
+mev00_180.scr#2,MEV-00b,mev00_180.scr,2,texto,"アンジュさんがいた教会で、
+神官の見習いをしてたの",,CRLF,FaceChat: sem limite de bytes,6380:mev00_180.scr:2
+mev00_180.scr#3,MEV-00b,mev00_180.scr,3,texto,アンジュさんの後輩、ってところかな,,-,FaceChat: sem limite de bytes,6380:mev00_180.scr:3
+mev00_180.scr#4,MEV-00b,mev00_180.scr,4,texto,"アンジュさんが村の教会にいた頃、
+オレ、よく出入りしててさ",,CRLF,FaceChat: sem limite de bytes,6380:mev00_180.scr:4
+mev00_180.scr#5,MEV-00b,mev00_180.scr,5,texto,"ギルドを立ち上げるから
+一緒にやらないかって言われて、
+ここへ来たんだ",,CRLF,FaceChat: sem limite de bytes,6380:mev00_180.scr:5
+mev00_180.scr#6,MEV-00b,mev00_180.scr,6,texto,"あら、カイウスったら、
+アンジュさんに誘われたのはあたしよ？",,CRLF,FaceChat: sem limite de bytes,6380:mev00_180.scr:6
+mev00_180.scr#7,MEV-00b,mev00_180.scr,7,texto,"あなたは、オレも行くって
+付いて来ただけじゃない",,CRLF,FaceChat: sem limite de bytes,6380:mev00_180.scr:7
+mev00_180.scr#8,MEV-00b,mev00_180.scr,8,texto,"何だよ、それ！
+大体、お前じゃアンジュさんの足を
+引っ張るだけだろっ",,CRLF,FaceChat: sem limite de bytes,6380:mev00_180.scr:8
+mev00_180.scr#9,MEV-00b,mev00_180.scr,9,texto,"お前がそうなった時に
+助けてやろうって思って、
+付き合ってやってんじゃないか！",,CRLF,FaceChat: sem limite de bytes,6380:mev00_180.scr:9
+mev00_180.scr#10,MEV-00b,mev00_180.scr,10,texto,ケンカを止める,,-,FaceChat: sem limite de bytes,6380:mev00_180.scr:10
+mev00_180.scr#11,MEV-00b,mev00_180.scr,11,texto,黙って二人を見ている,,-,FaceChat: sem limite de bytes,6380:mev00_180.scr:11
+mev00_180.scr#12,MEV-00b,mev00_180.scr,12,texto,またやっちゃった…,,-,FaceChat: sem limite de bytes,6380:mev00_180.scr:12
+mev00_180.scr#13,MEV-00b,mev00_180.scr,13,texto,ごめんなさいね,,-,FaceChat: sem limite de bytes,6380:mev00_180.scr:13
+mev00_180.scr#14,MEV-00b,mev00_180.scr,14,texto,あ、ごめんなさい…,,-,FaceChat: sem limite de bytes,6380:mev00_180.scr:14
+mev00_180.scr#15,MEV-00b,mev00_180.scr,15,texto,"カイウスとは幼馴染で、
+いっつもこんな調子なの。
+だから、気にしないでね",,CRLF,FaceChat: sem limite de bytes,6380:mev00_180.scr:15
+mev00_180.scr#16,MEV-00b,mev00_180.scr,16,texto,"それじゃあ、○○。
+これから、よろしくね",,CRLF,FaceChat: sem limite de bytes,6380:mev00_180.scr:16
+mev00_190.scr#0,MEV-00b,mev00_190.scr,0,texto,"あーん？
+あんた誰？",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:0
+mev00_190.scr#1,MEV-00b,mev00_190.scr,1,texto,"ちょっ、ちょっとイリア。
+今度入ってきた、新しい仲間だよ",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:1
+mev00_190.scr#2,MEV-00b,mev00_190.scr,2,texto,"なーんだ、新人なの。
+そんじゃ、ま、自己紹介しないとねー",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:2
+mev00_190.scr#3,MEV-00b,mev00_190.scr,3,texto,"あたしは、イリア・アニーミ。
+好物は肉。
+よろしく〜",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:3
+mev00_190.scr#4,MEV-00b,mev00_190.scr,4,texto,僕は、ルカ・ミルダ,,-,FaceChat: sem limite de bytes,6381:mev00_190.scr:4
+mev00_190.scr#5,MEV-00b,mev00_190.scr,5,texto,"イリアと、それからリーダーのアンジュとは
+同じ故郷なんだ",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:5
+mev00_190.scr#6,MEV-00b,mev00_190.scr,6,texto,"あたしはアンジュのギルド発足に
+賛同して付いて来たの。
+ウチの故郷の村がまた貧しくってさー！",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:6
+mev00_190.scr#7,MEV-00b,mev00_190.scr,7,texto,"貧しい上に教育も無い村だから、
+将来あたしが学校を作ろうと思ってね。
+ここで、稼がさせてもらってんの",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:7
+mev00_190.scr#8,MEV-00b,mev00_190.scr,8,texto,"あたしのパパ、村長やってんだけど
+村の領主国に綿の単一栽培を
+押し付けられたの",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:8
+mev00_190.scr#9,MEV-00b,mev00_190.scr,9,texto,"領主国はパパが言いなりになるとわかると、
+手のひら返した様な態度になって、
+村はされるがまま！",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:9
+mev00_190.scr#10,MEV-00b,mev00_190.scr,10,texto,"色々知ってれば、村も守れただろうし。
+教育って必要よね〜",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:10
+mev00_190.scr#11,MEV-00b,mev00_190.scr,11,texto,"で、でも村長は
+村のみんなを思って決めたんでしょ？",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:11
+mev00_190.scr#12,MEV-00b,mev00_190.scr,12,texto,"わかってる。
+村長なんだから、みんなの為に決断したの",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:12
+mev00_190.scr#13,MEV-00b,mev00_190.scr,13,texto,"ただ、知らない事が多過ぎて、
+痛い目を見たってだけ",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:13
+mev00_190.scr#14,MEV-00b,mev00_190.scr,14,texto,"あたしはね、
+パパの為にも学校を作りたいの",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:14
+mev00_190.scr#15,MEV-00b,mev00_190.scr,15,texto,"その前に、イリアが勉強した方が
+いいんじゃない…",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:15
+mev00_190.scr#16,MEV-00b,mev00_190.scr,16,texto,"言うわね〜？
+あんたのよーに、村の中でも商家の坊ちゃんで、
+家庭教師が付いてりゃあ、学も身に付くわねぇ",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:16
+mev00_190.scr#17,MEV-00b,mev00_190.scr,17,texto,"あ、でも、
+僕はその商家を継がされるのが嫌で
+家出してここへ来たんだし…",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:17
+mev00_190.scr#18,MEV-00b,mev00_190.scr,18,texto,"わかってるってば。
+あんたはここでお金貯めて、
+あんたがなりたい医者の勉強をして",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:18
+mev00_190.scr#19,MEV-00b,mev00_190.scr,19,texto,"村のみんなが待ち望む医者になれば
+親も諦めてくれるわよ",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:19
+mev00_190.scr#20,MEV-00b,mev00_190.scr,20,texto,"ま、こんなわけでガンガン稼ぎたいから
+仕事で組みたい時は呼んでちょうだい",,CRLF,FaceChat: sem limite de bytes,6381:mev00_190.scr:20
+mev00_190.scr#21,MEV-00b,mev00_190.scr,21,texto,んじゃ、よろしくー♪,,-,FaceChat: sem limite de bytes,6381:mev00_190.scr:21
+mev00_200.scr#0,MEV-00b,mev00_200.scr,0,texto,"あっ。
+きみ、新しく入った○○…？",,CRLF,FaceChat: sem limite de bytes,6382:mev00_200.scr:0
+mev00_200.scr#1,MEV-00b,mev00_200.scr,1,texto,話は聞いてたよ,,-,FaceChat: sem limite de bytes,6382:mev00_200.scr:1
+mev00_200.scr#2,MEV-00b,mev00_200.scr,2,texto,"初めまして！
+オレは、シング。
+シング・メテオライト",,CRLF,FaceChat: sem limite de bytes,6382:mev00_200.scr:2
+mev00_200.scr#3,MEV-00b,mev00_200.scr,3,texto,"わたしは、コハク・ハーツ。
+よろしくね",,CRLF,FaceChat: sem limite de bytes,6382:mev00_200.scr:3
+mev00_200.scr#4,MEV-00b,mev00_200.scr,4,texto,"オレ達の故郷は、
+いつもアドリビトムに助けてもらっててさ",,CRLF,FaceChat: sem limite de bytes,6382:mev00_200.scr:4
+mev00_200.scr#5,MEV-00b,mev00_200.scr,5,texto,"お礼にわたし達も何か手伝えないかなって
+思って、このギルドに加入させて
+もらったんだよ",,CRLF,FaceChat: sem limite de bytes,6382:mev00_200.scr:5
+mev00_200.scr#6,MEV-00b,mev00_200.scr,6,texto,"この船に乗った事で、初めて村を出たんだ。
+ホント、世界には知らない事ばっかりで
+毎日が驚きだよ",,CRLF,FaceChat: sem limite de bytes,6382:mev00_200.scr:6
+mev00_200.scr#7,MEV-00b,mev00_200.scr,7,texto,"うん。
+きっと○○も、
+この仕事が気に入るはずだよ",,CRLF,FaceChat: sem limite de bytes,6382:mev00_200.scr:7
+mev00_200.scr#8,MEV-00b,mev00_200.scr,8,texto,"それじゃ、一緒に仕事をする時は
+よろしくね",,CRLF,FaceChat: sem limite de bytes,6382:mev00_200.scr:8
+mev00_210.scr#0,MEV-00b,mev00_210.scr,0,tecnico_nao_traduzir,se_mev00_210.arc,,-,FaceChat: sem limite de bytes,6383:mev00_210.scr:0
+mev00_210.scr#1,MEV-00b,mev00_210.scr,1,texto,ああ、機械って崇高です…,,-,FaceChat: sem limite de bytes,6383:mev00_210.scr:1
+mev00_210.scr#2,MEV-00b,mev00_210.scr,2,texto,"むっ！？
+誰です、あなたは",,CRLF,FaceChat: sem limite de bytes,6383:mev00_210.scr:2
+mev00_210.scr#3,MEV-00b,mev00_210.scr,3,texto,新人として自己紹介をする,,-,FaceChat: sem limite de bytes,6383:mev00_210.scr:3
+mev00_210.scr#4,MEV-00b,mev00_210.scr,4,texto,記憶喪失の旨を伝える,,-,FaceChat: sem limite de bytes,6383:mev00_210.scr:4
+mev00_210.scr#5,MEV-00b,mev00_210.scr,5,texto,"そうですか。
+それでは挨拶しなければなりませんね",,CRLF,FaceChat: sem limite de bytes,6383:mev00_210.scr:5
+mev00_210.scr#6,MEV-00b,mev00_210.scr,6,texto,"ああ、カノンノさんから
+話を聞きました。
+新人さんですね",,CRLF,FaceChat: sem limite de bytes,6383:mev00_210.scr:6
+mev00_210.scr#7,MEV-00b,mev00_210.scr,7,texto,"ボクは、チャット。
+由緒正しき大海賊アイフリードの子孫。
+この船、バンエルティア号の船長です",,CRLF,FaceChat: sem limite de bytes,6383:mev00_210.scr:7
+mev00_210.scr#8,MEV-00b,mev00_210.scr,8,texto,"アンジュさんはギルド「アドリビトム」の
+リーダー",,CRLF,FaceChat: sem limite de bytes,6383:mev00_210.scr:8
+mev00_210.scr#9,MEV-00b,mev00_210.scr,9,texto,"ボクはそのアドリビトムの拠点である船、
+「バンエルティア号」の船長です！",,CRLF,FaceChat: sem limite de bytes,6383:mev00_210.scr:9
+mev00_210.scr#10,MEV-00b,mev00_210.scr,10,texto,拠点を提供しているボクの方が偉いんですよ！,,-,FaceChat: sem limite de bytes,6383:mev00_210.scr:10
+mev00_210.scr#11,MEV-00b,mev00_210.scr,11,texto,"ボクのひいおじいさん、アイフリードは、
+貧しき者からは奪わず、むしろ施しの為に
+海賊をやっていました",,CRLF,FaceChat: sem limite de bytes,6383:mev00_210.scr:11
+mev00_210.scr#12,MEV-00b,mev00_210.scr,12,texto,"ボクは船とその意志を受け継いで、
+ギルドの為に船を提供しているのです",,CRLF,FaceChat: sem limite de bytes,6383:mev00_210.scr:12
+mev00_210.scr#13,MEV-00b,mev00_210.scr,13,texto,"あなたもこのギルドに所属するという事は、
+アイフリード…そして、ボクの意思に従って
+務めていかなくてはなりません！",,CRLF,FaceChat: sem limite de bytes,6383:mev00_210.scr:13
+mev00_210.scr#14,MEV-00b,mev00_210.scr,14,texto,"それでは、このバンエルティア号の
+船員として相応しくある為に、
+早く一人前になって下さいね",,CRLF,FaceChat: sem limite de bytes,6383:mev00_210.scr:14
+mev00_210.scr#15,MEV-00b,mev00_210.scr,15,texto,………あ,,-,FaceChat: sem limite de bytes,6383:mev00_210.scr:15
+mev00_210.scr#16,MEV-00b,mev00_210.scr,16,texto,"…えっと、やっぱりさっきの
+「ボクの方が偉い」って話、
+アンジュさんには内緒にして下さい…",,CRLF,FaceChat: sem limite de bytes,6383:mev00_210.scr:16
+mev00_220.scr#0,MEV-00b,mev00_220.scr,0,texto,"こんにちは、初めまして。
+わたしはアニー・バース。
+ヘーゼル村の出身です",,CRLF,FaceChat: sem limite de bytes,6384:mev00_220.scr:0
+mev00_220.scr#1,MEV-00b,mev00_220.scr,1,texto,"ギルドでは、この医務室を任されています。
+まだ、医者としては不勉強な所もありますが
+どうかよろしくお願いします",,CRLF,FaceChat: sem limite de bytes,6384:mev00_220.scr:1
+mev00_230.scr#0,MEV-00b,mev00_230.scr,0,texto,"ホールでの話は聞こえていた。
+オレは、ウィル・レイナード。
+よろしく頼む",,CRLF,FaceChat: sem limite de bytes,6385:mev00_230.scr:0
+mev00_230.scr#1,MEV-00b,mev00_230.scr,1,texto,"ここへ来る前も、故郷でギルドに所属していた。
+本業は博物学者をやっている",,CRLF,FaceChat: sem limite de bytes,6385:mev00_230.scr:1
+mev00_230.scr#2,MEV-00b,mev00_230.scr,2,texto,そういえば、記憶喪失と聞いたが…,,-,FaceChat: sem limite de bytes,6385:mev00_230.scr:2
+mev00_230.scr#3,MEV-00b,mev00_230.scr,3,texto,"君は、ここへ来る前に
+世界樹が光るのを見たか？",,CRLF,FaceChat: sem limite de bytes,6385:mev00_230.scr:3
+mev00_230.scr#4,MEV-00b,mev00_230.scr,4,texto,見ていない、と言う,,-,FaceChat: sem limite de bytes,6385:mev00_230.scr:4
+mev00_230.scr#5,MEV-00b,mev00_230.scr,5,texto,きょとんとする,,-,FaceChat: sem limite de bytes,6385:mev00_230.scr:5
+mev00_230.scr#6,MEV-00b,mev00_230.scr,6,texto,"そうか、見ていないのか。
+オレはちょうど、甲板から見えたのだが…。
+今まで観測された事が無い現象だったからな",,CRLF,FaceChat: sem limite de bytes,6385:mev00_230.scr:6
+mev00_230.scr#7,MEV-00b,mev00_230.scr,7,texto,"それについて、
+君が何かを知っていたりするのか
+聞いてみたかっただけだ",,CRLF,FaceChat: sem limite de bytes,6385:mev00_230.scr:7
+mev00_230.scr#8,MEV-00b,mev00_230.scr,8,texto,"記憶喪失の君が知っているはずもないが、
+はるか昔から伝わる「予言」の話だ",,CRLF,FaceChat: sem limite de bytes,6385:mev00_230.scr:8
+mev00_230.scr#9,MEV-00b,mev00_230.scr,9,texto,"現実的ではないし、
+ありえないと考えてはいるのだが、
+記憶が無い、というのが気になってな",,CRLF,FaceChat: sem limite de bytes,6385:mev00_230.scr:9
+mev00_230.scr#10,MEV-00b,mev00_230.scr,10,texto,"変な事を聞いてすまなかった。
+君の記憶が早く戻る事を祈る",,CRLF,FaceChat: sem limite de bytes,6385:mev00_230.scr:10
+mev00_230.scr#11,MEV-00b,mev00_230.scr,11,texto,では、今後もよろしく頼む,,-,FaceChat: sem limite de bytes,6385:mev00_230.scr:11
+mev00_240.scr#0,MEV-00b,mev00_240.scr,0,texto,"あたらしい、ギルドの方ですね。
+私は、クレア・ベネット。
+初めまして",,CRLF,FaceChat: sem limite de bytes,6386:mev00_240.scr:0
+mev00_240.scr#1,MEV-00b,mev00_240.scr,1,texto,"どうも、初めまして。
+ロックスプリングスと申します。
+ロックス、とお呼び下さい",,CRLF,FaceChat: sem limite de bytes,6386:mev00_240.scr:1
+mev00_240.scr#2,MEV-00b,mev00_240.scr,2,texto,挨拶を返す,,-,FaceChat: sem limite de bytes,6386:mev00_240.scr:2
+mev00_240.scr#3,MEV-00b,mev00_240.scr,3,texto,まじまじとロックスを見る,,-,FaceChat: sem limite de bytes,6386:mev00_240.scr:3
+mev00_240.scr#4,MEV-00b,mev00_240.scr,4,texto,"ご丁寧に、どうも。
+僕はギルドの皆さんの
+お世話をさせて頂いている者です",,CRLF,FaceChat: sem limite de bytes,6386:mev00_240.scr:4
+mev00_240.scr#5,MEV-00b,mev00_240.scr,5,texto,"その、僕は、こちらで、ギルドの皆さんの
+お世話をさせて頂いている者です…",,CRLF,FaceChat: sem limite de bytes,6386:mev00_240.scr:5
+mev00_240.scr#6,MEV-00b,mev00_240.scr,6,texto,"え、ええっと…、あの…。
+冗談みたいな姿ですけど…、その、
+いじめないで下さい…ね？",,CRLF,FaceChat: sem limite de bytes,6386:mev00_240.scr:6
+mev00_240.scr#7,MEV-00b,mev00_240.scr,7,texto,"ロックスさんは、家事やギルドの経理なども
+任されている、この船の、いわば
+「コンシェルジュ」なんですよ",,CRLF,FaceChat: sem limite de bytes,6386:mev00_240.scr:7
+mev00_240.scr#8,MEV-00b,mev00_240.scr,8,texto,"この船で皆様が安心してくつろげるよう、
+日々ホスピタリティの向上に努めています。
+何か御用の時は申し付けて下さいね",,CRLF,FaceChat: sem limite de bytes,6386:mev00_240.scr:8
+mev00_240.scr#9,MEV-00b,mev00_240.scr,9,texto,"それにしても、また船の中が
+いっそう賑やかになりますね",,CRLF,FaceChat: sem limite de bytes,6386:mev00_240.scr:9
+mev00_240.scr#10,MEV-00b,mev00_240.scr,10,texto,"ええ、食事の時は特に！
+楽しくなると思いますよ",,CRLF,FaceChat: sem limite de bytes,6386:mev00_240.scr:10
+mev00_240.scr#11,MEV-00b,mev00_240.scr,11,texto,"今日は、○○様が
+新しく入った事ですし。
+腕にヨリをかけて、ご馳走にしましょうか",,CRLF,FaceChat: sem limite de bytes,6386:mev00_240.scr:11
+mev00_240.scr#12,MEV-00b,mev00_240.scr,12,texto,"そうですね。
+それじゃあ、今日は忙しくなりそうですね",,CRLF,FaceChat: sem limite de bytes,6386:mev00_240.scr:12
+mev00_240.scr#13,MEV-00b,mev00_240.scr,13,texto,"それでは、○○さん。
+今後ともよろしくお願いします",,CRLF,FaceChat: sem limite de bytes,6386:mev00_240.scr:13
+mev00_250.scr#0,MEV-00b,mev00_250.scr,0,texto,"みんなへの挨拶は終わったみたいね。
+それじゃあ、ここでの仕事を説明するよ",,CRLF,FaceChat: sem limite de bytes,6387:mev00_250.scr:0
+mev00_250.scr#1,MEV-00b,mev00_250.scr,1,texto,"アドリビトムは、どの国にも属さない。
+依頼があれば、どこへでも向かう
+自由のギルド",,CRLF,FaceChat: sem limite de bytes,6387:mev00_250.scr:1
+mev00_250.scr#2,MEV-00b,mev00_250.scr,2,texto,"そのギルドに人々から寄せられる依頼を
+「クエスト」と言うんだけど",,CRLF,FaceChat: sem limite de bytes,6387:mev00_250.scr:2
+mev00_250.scr#3,MEV-00b,mev00_250.scr,3,texto,"そのクエストは、ここでわたしが
+管理しているから、仕事がしたい時は
+訪ねてね",,CRLF,FaceChat: sem limite de bytes,6387:mev00_250.scr:3
+mev00_250.scr#4,MEV-00b,mev00_250.scr,4,texto,"そうそう、わたしがいるカウンター以外にも、
+メンバーのみんなと話すと、
+直接依頼をしてくる事もあるよ",,CRLF,FaceChat: sem limite de bytes,6387:mev00_250.scr:4
+mev00_250.scr#5,MEV-00b,mev00_250.scr,5,texto,その時は聞いてあげてね,,-,FaceChat: sem limite de bytes,6387:mev00_250.scr:5
+mev00_250.scr#6,MEV-00b,mev00_250.scr,6,texto,"でも、そうね…。
+初めてだとわからない事があるだろうし",,CRLF,FaceChat: sem limite de bytes,6387:mev00_250.scr:6
+mev00_250.scr#7,MEV-00b,mev00_250.scr,7,texto,"まずは簡単な仕事を用意するから、
+見習いから始めてもらおっかな",,CRLF,FaceChat: sem limite de bytes,6387:mev00_250.scr:7
+mev00_250.scr#8,MEV-00b,mev00_250.scr,8,texto,"と言うわけで、
+最初はカノンノを同行者にして
+仕事の仕方を学んでね",,CRLF,FaceChat: sem limite de bytes,6387:mev00_250.scr:8
+mev00_250.scr#9,MEV-00b,mev00_250.scr,9,texto,カノンノ、しばらくの間構わない？,,-,FaceChat: sem limite de bytes,6387:mev00_250.scr:9
+mev00_250.scr#10,MEV-00b,mev00_250.scr,10,texto,はい！,,-,FaceChat: sem limite de bytes,6387:mev00_250.scr:10
+mev00_250.scr#11,MEV-00b,mev00_250.scr,11,texto,"さてと、早速仕事を用意したから、
+いつ受けてもらっても構わないよ！",,CRLF,FaceChat: sem limite de bytes,6387:mev00_250.scr:11
+mev00_260.scr#0,MEV-00b,mev00_260.scr,0,texto,"ねえ、○○。
+あなたって、
+空からやって来たって本当？",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:0
+mev00_260.scr#1,MEV-00b,mev00_260.scr,1,texto,そういう事だったらしい、と言う,,-,FaceChat: sem limite de bytes,6388:mev00_260.scr:1
+mev00_260.scr#2,MEV-00b,mev00_260.scr,2,texto,自分は知らない、と言う,,-,FaceChat: sem limite de bytes,6388:mev00_260.scr:2
+mev00_260.scr#3,MEV-00b,mev00_260.scr,3,texto,"じゃあ、ほんとの事は
+わからないんじゃない",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:3
+mev00_260.scr#4,MEV-00b,mev00_260.scr,4,texto,知らないって…？,,-,FaceChat: sem limite de bytes,6388:mev00_260.scr:4
+mev00_260.scr#5,MEV-00b,mev00_260.scr,5,texto,"それじゃあ、ウソかどうか
+確かめ様が無いじゃない",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:5
+mev00_260.scr#6,MEV-00b,mev00_260.scr,6,texto,"でも、本当なんだもん。
+光に包まれて、空から降りて来たの",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:6
+mev00_260.scr#7,MEV-00b,mev00_260.scr,7,texto,そんな事、簡単には信じられないわ,,-,FaceChat: sem limite de bytes,6388:mev00_260.scr:7
+mev00_260.scr#8,MEV-00b,mev00_260.scr,8,texto,"真実であるかどうかは別としても、
+素敵なお話だと思いますよ？",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:8
+mev00_260.scr#9,MEV-00b,mev00_260.scr,9,texto,"世界樹が光を発した日に
+空から降りて来た、なんて…。
+まるで、ディセンダーの様ですね",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:9
+mev00_260.scr#10,MEV-00b,mev00_260.scr,10,texto,ディセンダー？,,-,FaceChat: sem limite de bytes,6388:mev00_260.scr:10
+mev00_260.scr#11,MEV-00b,mev00_260.scr,11,texto,"そう。
+あたしやアンジュさんがいた教会には、
+「救世主」の言い伝えがあるの",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:11
+mev00_260.scr#12,MEV-00b,mev00_260.scr,12,texto,"世界に危機が訪れた時、
+世界樹が生み出す存在",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:12
+mev00_260.scr#13,MEV-00b,mev00_260.scr,13,texto,遠い昔から、教会に伝わる「予言」です,,-,FaceChat: sem limite de bytes,6388:mev00_260.scr:13
+mev00_260.scr#14,MEV-00b,mev00_260.scr,14,texto,"世界樹から生まれたばかりのディセンダーは
+記憶が無く、世界の事も知らず、",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:14
+mev00_260.scr#15,MEV-00b,mev00_260.scr,15,texto,"不可能も恐れも知らない無垢な存在だと
+言います",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:15
+mev00_260.scr#16,MEV-00b,mev00_260.scr,16,texto,"そして、人々の為に世界を学び、強くなり、
+ゆくゆくは世界を平和に導き…、
+また世界樹へと還って行くそうです",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:16
+mev00_260.scr#17,MEV-00b,mev00_260.scr,17,texto,"○○さんの
+「記憶が無い」という点は、
+まさにディセンダーの様ですね",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:17
+mev00_260.scr#18,MEV-00b,mev00_260.scr,18,texto,じゃあ、彼はディセンダー？,,-,FaceChat: sem limite de bytes,6388:mev00_260.scr:18
+mev00_260.scr#19,MEV-00b,mev00_260.scr,19,texto,じゃあ、彼女はディセンダー？,,-,FaceChat: sem limite de bytes,6388:mev00_260.scr:19
+mev00_260.scr#20,MEV-00b,mev00_260.scr,20,texto,"だが、彼がディセンダーか
+どうかの真偽はわからない。
+あくまで予言で伝えられているだけだからな",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:20
+mev00_260.scr#21,MEV-00b,mev00_260.scr,21,texto,"だが、彼女がディセンダーか
+どうかの真偽はわからない。
+あくまで予言で伝えられているだけだからな",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:21
+mev00_260.scr#22,MEV-00b,mev00_260.scr,22,texto,"そもそも、その予言自体の真偽すら、
+誰にもわからない",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:22
+mev00_260.scr#23,MEV-00b,mev00_260.scr,23,texto,昔の人の創作話という見方が一般的だろう,,-,FaceChat: sem limite de bytes,6388:mev00_260.scr:23
+mev00_260.scr#24,MEV-00b,mev00_260.scr,24,texto,そう、ですか…,,-,FaceChat: sem limite de bytes,6388:mev00_260.scr:24
+mev00_260.scr#25,MEV-00b,mev00_260.scr,25,texto,"いや、かくいうオレも
+世界樹が光ったのを見た時、
+真っ先に予言の話を思い出したからな",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:25
+mev00_260.scr#26,MEV-00b,mev00_260.scr,26,texto,"しかし…。
+世間ではディセンダーの出現を待つ宗教が
+次々に興っている様だな",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:26
+mev00_260.scr#27,MEV-00b,mev00_260.scr,27,texto,"この様なご時世ですし、
+救いを求める人々が多い証拠ですね",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:27
+mev00_260.scr#28,MEV-00b,mev00_260.scr,28,texto,"各地で争いが絶えませんからね…。
+救いを求める人が増えても、
+おかしくはありません",,CRLF,FaceChat: sem limite de bytes,6388:mev00_260.scr:28
+mev00_270.scr#0,MEV-00b,mev00_270.scr,0,texto,"ん？　なあに？
+聞きたい事があるって？",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:0
+mev00_270.scr#1,MEV-00b,mev00_270.scr,1,texto,ミントさんが言ってた話？,,-,FaceChat: sem limite de bytes,6389:mev00_270.scr:1
+mev00_270.scr#2,MEV-00b,mev00_270.scr,2,texto,えっと、今の世界の状況についてだね,,-,FaceChat: sem limite de bytes,6389:mev00_270.scr:2
+mev00_270.scr#3,MEV-00b,mev00_270.scr,3,texto,"世界の国々では、
+星晶（ホスチア）を巡って
+国同士の争いが起きてるの",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:3
+mev00_270.scr#4,MEV-00b,mev00_270.scr,4,texto,星晶について詳しく尋ねる,,-,FaceChat: sem limite de bytes,6389:mev00_270.scr:4
+mev00_270.scr#5,MEV-00b,mev00_270.scr,5,texto,首をかしげる,,-,FaceChat: sem limite de bytes,6389:mev00_270.scr:5
+mev00_270.scr#6,MEV-00b,mev00_270.scr,6,texto,"ひょっとして、○○は、
+この世界についての事まで
+記憶を失ってしまったのかな…",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:6
+mev00_270.scr#7,MEV-00b,mev00_270.scr,7,texto,"もしかして、
+星晶の事も忘れてしまったのかな…？",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:7
+mev00_270.scr#8,MEV-00b,mev00_270.scr,8,texto,"えっと、星晶というのはね、世界中で色んな
+ものに使われる、現代のエネルギー資源だよ",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:8
+mev00_270.scr#9,MEV-00b,mev00_270.scr,9,texto,"マナは知ってる？
+世界樹が生み出す生命の源",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:9
+mev00_270.scr#10,MEV-00b,mev00_270.scr,10,texto,"マナは、私達生命の源とも言える力なんだけど、
+捉えどころの無い非物質のものだから、
+工業的なエネルギー源としては使えないの",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:10
+mev00_270.scr#11,MEV-00b,mev00_270.scr,11,texto,"でも、星晶は違うの。
+物質で、地下から採掘が出来て、
+エネルギーとして活用消費が出来るのよ",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:11
+mev00_270.scr#12,MEV-00b,mev00_270.scr,12,texto,"星晶も、マナと同じ性質を持っているの。
+世界樹が、長い年月をかけて、マナを結晶化
+させたものじゃないかって言われてる",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:12
+mev00_270.scr#13,MEV-00b,mev00_270.scr,13,texto,本当の所は、まだわからないらしいけど,,-,FaceChat: sem limite de bytes,6389:mev00_270.scr:13
+mev00_270.scr#14,MEV-00b,mev00_270.scr,14,texto,"で、さっきも言ったけど
+今はその星晶を巡って国同士の
+争いが起きてる",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:14
+mev00_270.scr#15,MEV-00b,mev00_270.scr,15,texto,"星晶があるとされる小さな国や村は、
+力のある大国にそれらを搾取されるがまま…",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:15
+mev00_270.scr#16,MEV-00b,mev00_270.scr,16,texto,"星晶には、土地に恵みを与えるマナを
+出す力があるの",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:16
+mev00_270.scr#17,MEV-00b,mev00_270.scr,17,texto,"採り尽くされてしまったら、
+土地はみるみる荒れていくわ。
+作物なんか、育たなくなってしまうのよ",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:17
+mev00_270.scr#18,MEV-00b,mev00_270.scr,18,texto,"星晶が世界の主要エネルギーに変わってから、
+文明は急成長したと言うわ",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:18
+mev00_270.scr#19,MEV-00b,mev00_270.scr,19,texto,"でも、多くの国は星晶の採掘権を巡って
+他国との関係は悪化の道をたどるばかり",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:19
+mev00_270.scr#20,MEV-00b,mev00_270.scr,20,texto,それだけじゃないの,,-,FaceChat: sem limite de bytes,6389:mev00_270.scr:20
+mev00_270.scr#21,MEV-00b,mev00_270.scr,21,texto,"星晶を得て大量消費国となった国は、星晶の
+ない他の国や村を植民地化したり、
+労働を強いたりするんだよ",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:21
+mev00_270.scr#22,MEV-00b,mev00_270.scr,22,texto,富める国と貧しい国の差は開く一方なの…,,-,FaceChat: sem limite de bytes,6389:mev00_270.scr:22
+mev00_270.scr#23,MEV-00b,mev00_270.scr,23,texto,"アドリビトムは、これらによって貧富の差が
+拡大した、貧しい土地の出身者ばかりなの",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:23
+mev00_270.scr#24,MEV-00b,mev00_270.scr,24,texto,"アンジュさんは、みんなの故郷を
+危機的状況から救う為に、
+アドリビトムを立ち上げたのよ",,CRLF,FaceChat: sem limite de bytes,6389:mev00_270.scr:24
+mev00_280.scr#0,MEV-00b,mev00_280.scr,0,texto,"お帰りなさい。
+お腹が空いたでしょう？",,CRLF,FaceChat: sem limite de bytes,6390:mev00_280.scr:0
+mev00_280.scr#1,MEV-00b,mev00_280.scr,1,texto,"食堂へどうぞ。
+シナモンロールが焼けていますよ",,CRLF,FaceChat: sem limite de bytes,6390:mev00_280.scr:1
+mev00_280.scr#2,MEV-00b,mev00_280.scr,2,texto,"どうりでいい匂いがすると思った！
+ね、おやつ食べに行こう♪",,CRLF,FaceChat: sem limite de bytes,6390:mev00_280.scr:2
+mev00_290.scr#0,MEV-00b,mev00_290.scr,0,tecnico_nao_traduzir,se_mev00_290.arc,,-,FaceChat: sem limite de bytes,6391:mev00_290.scr:0
+mev00_290.scr#1,MEV-00b,mev00_290.scr,1,tecnico_nao_traduzir,eci_001.ppt,,-,FaceChat: sem limite de bytes,6391:mev00_290.scr:1
+mev00_290.scr#2,MEV-00b,mev00_290.scr,2,texto,さあ、どうぞ,,-,FaceChat: sem limite de bytes,6391:mev00_290.scr:2
+mev00_290.scr#3,MEV-00b,mev00_290.scr,3,texto,"スゴイいい匂い。
+うん、美味しい",,CRLF,FaceChat: sem limite de bytes,6391:mev00_290.scr:3
+mev00_290.scr#4,MEV-00b,mev00_290.scr,4,texto,"お嬢様。
+ちゃんと食べる前に「いただきます」を
+言わないといけませんよ",,CRLF,FaceChat: sem limite de bytes,6391:mev00_290.scr:4
+mev00_290.scr#5,MEV-00b,mev00_290.scr,5,texto,"あ……、はい。
+いただきます",,CRLF,FaceChat: sem limite de bytes,6391:mev00_290.scr:5
+mev00_290.scr#6,MEV-00b,mev00_290.scr,6,texto,"はい。
+食べ物には感謝をしてから
+食べなくては、ですよ",,CRLF,FaceChat: sem limite de bytes,6391:mev00_290.scr:6
+mev00_290.scr#7,MEV-00b,mev00_290.scr,7,texto,（あぁ……）,,-,FaceChat: sem limite de bytes,6391:mev00_290.scr:7
+mev00_290.scr#8,MEV-00b,mev00_290.scr,8,texto,"クレア様、どうかしましたか？
+食欲が無い様ですが…",,CRLF,FaceChat: sem limite de bytes,6391:mev00_290.scr:8
+mev00_290.scr#9,MEV-00b,mev00_290.scr,9,texto,"ごめんなさい。
+故郷のヘーゼル村の事が気になって",,CRLF,FaceChat: sem limite de bytes,6391:mev00_290.scr:9
+mev00_290.scr#10,MEV-00b,mev00_290.scr,10,texto,"ああ…、でもヴェイグ様が
+頑張ってくれているじゃないですか。
+アドリビトムのみんなも",,CRLF,FaceChat: sem limite de bytes,6391:mev00_290.scr:10
+mev00_290.scr#11,MEV-00b,mev00_290.scr,11,texto,そうですね,,-,FaceChat: sem limite de bytes,6391:mev00_290.scr:11
+mev00_290.scr#12,MEV-00b,mev00_290.scr,12,texto,クレアは、故郷の何が気になるのかを聞く,,-,FaceChat: sem limite de bytes,6391:mev00_290.scr:12
+mev00_290.scr#13,MEV-00b,mev00_290.scr,13,texto,ヴェイグが何をしているのかを聞く,,-,FaceChat: sem limite de bytes,6391:mev00_290.scr:13
+mev00_290.scr#14,MEV-00b,mev00_290.scr,14,texto,"ヘーゼル村の方々が、
+無事に暮らしているかどうか
+心配でならないんですよ",,CRLF,FaceChat: sem limite de bytes,6391:mev00_290.scr:14
+mev00_290.scr#15,MEV-00b,mev00_290.scr,15,texto,"ヘーゼル村の方々が、
+無事に暮らせるよう、
+色々と影から支えているんですよ",,CRLF,FaceChat: sem limite de bytes,6391:mev00_290.scr:15
+mev00_290.scr#16,MEV-00b,mev00_290.scr,16,texto,"ヘーゼル村は今、
+ウリズン帝国に占拠されていて…。
+住民は星晶の採掘労働を強いられているの",,CRLF,FaceChat: sem limite de bytes,6391:mev00_290.scr:16
+mev00_290.scr#17,MEV-00b,mev00_290.scr,17,texto,"星晶があるとされる小さな国や村が、
+力のある大国から、搾取されるがままに
+なってるって話を前にしたよね",,CRLF,FaceChat: sem limite de bytes,6391:mev00_290.scr:17
+mev00_290.scr#18,MEV-00b,mev00_290.scr,18,texto,クレアの故郷、ヘーゼル村もそうなの,,-,FaceChat: sem limite de bytes,6391:mev00_290.scr:18
+mev00_290.scr#19,MEV-00b,mev00_290.scr,19,texto,"ヘーゼル村の大人達は採掘だけを
+強いられるから、必要な物資や食料を
+自分達で生産する事が出来ないの",,CRLF,FaceChat: sem limite de bytes,6391:mev00_290.scr:19
+mev00_290.scr#20,MEV-00b,mev00_290.scr,20,texto,"だから、ヴェイグさん、クレアやアニーは
+ここで物資を集めて送っているのよ",,CRLF,FaceChat: sem limite de bytes,6391:mev00_290.scr:20
+mev00_291.scr#0,MEV-00b,mev00_291.scr,0,texto,"アドリビトムってギルドは、
+ここで間違いないかい？",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:0
+mev00_291.scr#1,MEV-00b,mev00_291.scr,1,texto,"はい。
+何か依頼でしょうか？",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:1
+mev00_291.scr#2,MEV-00b,mev00_291.scr,2,texto,"先日、ルバーブ連山を村人全員が越えるのに
+協力してもらったペカン村の者さ",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:2
+mev00_291.scr#3,MEV-00b,mev00_291.scr,3,texto,"改めて礼を言わせてもらうよ。
+みんなを助けてくれてありがとう",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:3
+mev00_291.scr#4,MEV-00b,mev00_291.scr,4,texto,"ああ、ペカン村の方なのね。
+みんな、新天地で落ち着けた？",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:4
+mev00_291.scr#5,MEV-00b,mev00_291.scr,5,texto,"あなたと出会った時、
+あの山で私がやってた仕事だよ",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:5
+mev00_291.scr#6,MEV-00b,mev00_291.scr,6,texto,"ペカン村の人が、
+安全に山越え出来る様にしてたの。
+そこの人達だよ",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:6
+mev00_291.scr#7,MEV-00b,mev00_291.scr,7,texto,新しい村の設立は、何とかやってるわ,,-,FaceChat: sem limite de bytes,6392:mev00_291.scr:7
+mev00_291.scr#8,MEV-00b,mev00_291.scr,8,texto,"元の土地は、ウリズン帝国に星晶を
+採り尽されて、作物も育たないし。
+新しい土地でやっていくしかないもんね",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:8
+mev00_291.scr#9,MEV-00b,mev00_291.scr,9,texto,"んで、今日は報酬の件で話があってさ。
+その…",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:9
+mev00_291.scr#10,MEV-00b,mev00_291.scr,10,texto,"単刀直入に言っちゃえば、
+お金が無いって事なのよね〜",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:10
+mev00_291.scr#11,MEV-00b,mev00_291.scr,11,texto,"村の人々が新しい生活を始める為に、
+色々資金が必要で…、報酬の支払いを
+もう少し待ってもらえないかい？",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:11
+mev00_291.scr#12,MEV-00b,mev00_291.scr,12,texto,"提案なんだけど、あなた、
+この天才を雇わない？",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:12
+mev00_291.scr#13,MEV-00b,mev00_291.scr,13,texto,"ここって設備も良さそうだし！
+私の研究もはかどりそう〜！
+私、役に立つと思うわよ〜♪",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:13
+mev00_291.scr#14,MEV-00b,mev00_291.scr,14,texto,"で、働いて返しちゃう★
+グフフ、どう？",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:14
+mev00_291.scr#15,MEV-00b,mev00_291.scr,15,texto,"待ちなよ。
+それはあたしも考えたけど、
+村のみんなをほっとくわけにも…",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:15
+mev00_291.scr#16,MEV-00b,mev00_291.scr,16,texto,"大丈夫よ。
+この船で、すぐに戻る事は出来るから。
+それに、世界中から物資を集められるし",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:16
+mev00_291.scr#17,MEV-00b,mev00_291.scr,17,texto,"ここのみんなも、そうやってそれぞれの
+故郷を助けているから",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:17
+mev00_291.scr#18,MEV-00b,mev00_291.scr,18,texto,"あなた達が持つ経験や特技での活躍を
+期待します",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:18
+mev00_291.scr#19,MEV-00b,mev00_291.scr,19,texto,じゃ、決まり〜！,,-,FaceChat: sem limite de bytes,6392:mev00_291.scr:19
+mev00_291.scr#20,MEV-00b,mev00_291.scr,20,texto,"言ってみるもんねぇ。
+ねえ、ナナリー？",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:20
+mev00_291.scr#21,MEV-00b,mev00_291.scr,21,texto,…ありがとう、リーダーさん,,-,FaceChat: sem limite de bytes,6392:mev00_291.scr:21
+mev00_291.scr#22,MEV-00b,mev00_291.scr,22,texto,"そういうわけで、
+これから世話になるよ
+よろしく",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:22
+mev00_291.scr#23,MEV-00b,mev00_291.scr,23,texto,"あたしは、ナナリー・フレッチ。
+家事と弓の使いならお手の物さ",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:23
+mev00_291.scr#24,MEV-00b,mev00_291.scr,24,texto,"ハイハイ、ヨロシク〜。
+私は、ハロルド・ベルセリオス。
+大天才科学者よ♪",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:24
+mev00_291.scr#25,MEV-00b,mev00_291.scr,25,texto,"ちょうど良かった！
+人手は、もっと必要だと思ってたの",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:25
+mev00_291.scr#26,MEV-00b,mev00_291.scr,26,texto,"それじゃあ、
+これから困った人々の為に
+しっかり働いてね",,CRLF,FaceChat: sem limite de bytes,6392:mev00_291.scr:26
+mev00_291.scr#27,MEV-00b,mev00_291.scr,27,texto,ナナリーがアドリビトムに加入しました,,-,FaceChat: sem limite de bytes,6392:mev00_291.scr:27
+mev00_291.scr#28,MEV-00b,mev00_291.scr,28,texto,ハロルドがアドリビトムに加入しました,,-,FaceChat: sem limite de bytes,6392:mev00_291.scr:28
+mev00_291.scr#29,MEV-00b,mev00_291.scr,29,tecnico_nao_traduzir,map_D00A03,,-,FaceChat: sem limite de bytes,6392:mev00_291.scr:29
+mev00_291.scr#30,MEV-00b,mev00_291.scr,30,tecnico_nao_traduzir,point_20301,,-,FaceChat: sem limite de bytes,6392:mev00_291.scr:30
+mev00_292.scr#0,MEV-00b,mev00_292.scr,0,tecnico_nao_traduzir,se_mev00_292.arc,,-,FaceChat: sem limite de bytes,6393:mev00_292.scr:0
+mev00_292.scr#1,MEV-00b,mev00_292.scr,1,texto,"お嬢様。
+街でスケッチブックを買っておきましたよ。
+そろそろ無くなる頃でしたよね？",,CRLF,FaceChat: sem limite de bytes,6393:mev00_292.scr:1
+mev00_292.scr#2,MEV-00b,mev00_292.scr,2,tecnico_nao_traduzir,eci_002.ppt,,-,FaceChat: sem limite de bytes,6393:mev00_292.scr:2
+mev00_292.scr#3,MEV-00b,mev00_292.scr,3,texto,"うん。
+ありがとう、ロックス。
+じゃあ、大事にしまっておかなくちゃ！",,CRLF,FaceChat: sem limite de bytes,6393:mev00_292.scr:3
+mev00_292.scr#4,MEV-00b,mev00_292.scr,4,texto,カノンノが喜んでいた印象を話す,,-,FaceChat: sem limite de bytes,6393:mev00_292.scr:4
+mev00_292.scr#5,MEV-00b,mev00_292.scr,5,texto,カノンノは絵を描くのかと尋ねる,,-,FaceChat: sem limite de bytes,6393:mev00_292.scr:5
+mev00_292.scr#6,MEV-00b,mev00_292.scr,6,texto,"はい。
+スケッチブックを買ってあげた時は、
+いつもあの笑顔なんです",,CRLF,FaceChat: sem limite de bytes,6393:mev00_292.scr:6
+mev00_292.scr#7,MEV-00b,mev00_292.scr,7,texto,"お嬢様が小さい頃に買ってあげた時と同じ。
+変わらないなぁ…",,CRLF,FaceChat: sem limite de bytes,6393:mev00_292.scr:7
+mev00_292.scr#8,MEV-00b,mev00_292.scr,8,texto,"はい。
+時間がある時はいつも、絵を描いています。
+もう、小さい頃からずっとなんです…",,CRLF,FaceChat: sem limite de bytes,6393:mev00_292.scr:8
+mev00_292.scr#9,MEV-00b,mev00_292.scr,9,texto,"ええ、お嬢様が赤ん坊の時から
+一緒なんです",,CRLF,FaceChat: sem limite de bytes,6393:mev00_292.scr:9
+mev00_292.scr#10,MEV-00b,mev00_292.scr,10,texto,"色々、事情があって…、お嬢様を引き取り
+育てています",,CRLF,FaceChat: sem limite de bytes,6393:mev00_292.scr:10
+mev00_292.scr#11,MEV-00b,mev00_292.scr,11,texto,"僕に、親の役が務まっているか、
+それに、お嬢様をしっかり育てられているか、
+不安ですけど…",,CRLF,FaceChat: sem limite de bytes,6393:mev00_292.scr:11
+mev00_292.scr#12,MEV-00b,mev00_292.scr,12,texto,"でも、お嬢様を素敵なレディに育てて
+あげなくては…",,CRLF,FaceChat: sem limite de bytes,6393:mev00_292.scr:12
+mev00_292.scr#13,MEV-00b,mev00_292.scr,13,texto,"あっ、しまった！！
+絵筆も渡すんだった",,CRLF,FaceChat: sem limite de bytes,6393:mev00_292.scr:13
+mev00_292.scr#14,MEV-00b,mev00_292.scr,14,tecnico_nao_traduzir,eci_003.ppt,,-,FaceChat: sem limite de bytes,6393:mev00_292.scr:14
+mev00_292.scr#15,MEV-00b,mev00_292.scr,15,texto,"○○様、すみません。
+お嬢様に絵筆を渡してきてくれませんか？
+いつも、お嬢様は操舵室にいますから",,CRLF,FaceChat: sem limite de bytes,6393:mev00_292.scr:15
+mev00_292.scr#16,MEV-00b,mev00_292.scr,16,texto,"僕は、お鍋を見に行かないといけないので。
+それじゃあ、お願いしますね",,CRLF,FaceChat: sem limite de bytes,6393:mev00_292.scr:16
+mev00_293.scr#0,MEV-00b,mev00_293.scr,0,texto,ん…、誰なの？,,-,FaceChat: sem limite de bytes,6394:mev00_293.scr:0
+mev00_293.scr#1,MEV-00b,mev00_293.scr,1,texto,"ああ、○○だったのね。
+どうしたの？",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:1
+mev00_293.scr#2,MEV-00b,mev00_293.scr,2,texto,"絵筆を持ってきてくれたの…。
+ロックスからだね",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:2
+mev00_293.scr#3,MEV-00b,mev00_293.scr,3,texto,うん、ありがとう,,-,FaceChat: sem limite de bytes,6394:mev00_293.scr:3
+mev00_293.scr#4,MEV-00b,mev00_293.scr,4,texto,描いてる絵を見せて、と言う,,-,FaceChat: sem limite de bytes,6394:mev00_293.scr:4
+mev00_293.scr#5,MEV-00b,mev00_293.scr,5,texto,絵を描くのは好きか、と聞く,,-,FaceChat: sem limite de bytes,6394:mev00_293.scr:5
+mev00_293.scr#6,MEV-00b,mev00_293.scr,6,texto,"絵を？　ロックスに聞いたの？
+あまり上手じゃないよ",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:6
+mev00_293.scr#7,MEV-00b,mev00_293.scr,7,texto,でも、見てもらいたいな,,-,FaceChat: sem limite de bytes,6394:mev00_293.scr:7
+mev00_293.scr#8,MEV-00b,mev00_293.scr,8,texto,"うん、好きだよ。
+独学だから、上手じゃないけど",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:8
+mev00_293.scr#9,MEV-00b,mev00_293.scr,9,texto,"じゃあ、あなたに
+絵を見てもらおうかなあ。
+いい？",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:9
+mev00_293.scr#10,MEV-00b,mev00_293.scr,10,tecnico_nao_traduzir,eci_004.ppt,,-,FaceChat: sem limite de bytes,6394:mev00_293.scr:10
+mev00_293.scr#11,MEV-00b,mev00_293.scr,11,texto,こんな風景、見た事ある？,,-,FaceChat: sem limite de bytes,6394:mev00_293.scr:11
+mev00_293.scr#12,MEV-00b,mev00_293.scr,12,texto,ないと答える,,-,FaceChat: sem limite de bytes,6394:mev00_293.scr:12
+mev00_293.scr#13,MEV-00b,mev00_293.scr,13,texto,どこの風景かを尋ねる,,-,FaceChat: sem limite de bytes,6394:mev00_293.scr:13
+mev00_293.scr#14,MEV-00b,mev00_293.scr,14,texto,"そっかぁ…。
+記憶の手掛かりになるかと
+思ったんだけど…",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:14
+mev00_293.scr#15,MEV-00b,mev00_293.scr,15,texto,"私もね、この風景を
+実際に見た事無いんだ",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:15
+mev00_293.scr#16,MEV-00b,mev00_293.scr,16,texto,私も知らない…,,-,FaceChat: sem limite de bytes,6394:mev00_293.scr:16
+mev00_293.scr#17,MEV-00b,mev00_293.scr,17,texto,"私はこの風景が、
+どこかにあるんじゃないかなって
+思ってるんだ",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:17
+mev00_293.scr#18,MEV-00b,mev00_293.scr,18,texto,"スケッチブックの白い紙を見てるとね、
+たまに見えてくるんだ。
+色んな風景が",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:18
+mev00_293.scr#19,MEV-00b,mev00_293.scr,19,texto,"その見えた風景を筆でなぞって、
+出来たのがこれらの絵なの",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:19
+mev00_293.scr#20,MEV-00b,mev00_293.scr,20,texto,"どうしてだかはわからない。
+でも、見えるんだ",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:20
+mev00_293.scr#21,MEV-00b,mev00_293.scr,21,texto,"他の人にも見せたけど、
+誰もこの風景を知らない",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:21
+mev00_293.scr#22,MEV-00b,mev00_293.scr,22,texto,"それに、作り話でしょって、
+笑われちゃうの",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:22
+mev00_293.scr#23,MEV-00b,mev00_293.scr,23,texto,カノンノの話を信じる,,-,FaceChat: sem limite de bytes,6394:mev00_293.scr:23
+mev00_293.scr#24,MEV-00b,mev00_293.scr,24,texto,事実なんだからしょうがない、と言う,,-,FaceChat: sem limite de bytes,6394:mev00_293.scr:24
+mev00_293.scr#25,MEV-00b,mev00_293.scr,25,texto,"うん。
+…あり、がとう",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:25
+mev00_293.scr#26,MEV-00b,mev00_293.scr,26,texto,うん、事実なんだもん,,-,FaceChat: sem limite de bytes,6394:mev00_293.scr:26
+mev00_293.scr#27,MEV-00b,mev00_293.scr,27,texto,"…………。
+○○は、
+信じてくれるんだね",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:27
+mev00_293.scr#28,MEV-00b,mev00_293.scr,28,texto,あり、がとう…,,-,FaceChat: sem limite de bytes,6394:mev00_293.scr:28
+mev00_293.scr#29,MEV-00b,mev00_293.scr,29,texto,"この船でさ、色んな所を旅して、
+これらの風景に出会えたら…",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:29
+mev00_293.scr#30,MEV-00b,mev00_293.scr,30,texto,"もし出会えたら、
+どうして私に知らない風景が見えるのか、
+その理由がわかるかもしれない…",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:30
+mev00_293.scr#31,MEV-00b,mev00_293.scr,31,texto,"それにね、「知らなきゃいけない」って
+思いもあるんだ。
+…見えた風景は、綺麗なものだけじゃないの",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:31
+mev00_293.scr#32,MEV-00b,mev00_293.scr,32,texto,"恐い、この世の終わりみたいな
+風景も見えたから…",,CRLF,FaceChat: sem limite de bytes,6394:mev00_293.scr:32
+mev00_294.scr#0,MEV-00b,mev00_294.scr,0,texto,いつもの依頼をお願いします,,-,FaceChat: sem limite de bytes,6395:mev00_294.scr:0
+mev00_294.scr#1,MEV-00b,mev00_294.scr,1,texto,"故郷のヘーゼル村に、
+物資を届けてもらいたいんです…",,CRLF,FaceChat: sem limite de bytes,6395:mev00_294.scr:1
+mev00_294.scr#2,MEV-00b,mev00_294.scr,2,texto,"ヴェイグと一緒に行ってくれる人は
+いませんか？",,CRLF,FaceChat: sem limite de bytes,6395:mev00_294.scr:2
+mev00_294.scr#3,MEV-00b,mev00_294.scr,3,texto,大丈夫よ、みんな協力してくれるわ,,-,FaceChat: sem limite de bytes,6395:mev00_294.scr:3
+mev00_294.scr#4,MEV-00b,mev00_294.scr,4,texto,"それより、そろそろ風邪が流行る時期
+じゃない？
+ヘーゼル村の人達が心配ね",,CRLF,FaceChat: sem limite de bytes,6395:mev00_294.scr:4
+mev00_294.scr#5,MEV-00b,mev00_294.scr,5,texto,"ええ、だから今回は薬を
+一杯届けてもらうつもりなんです",,CRLF,FaceChat: sem limite de bytes,6395:mev00_294.scr:5
+mev00_294.scr#6,MEV-00b,mev00_294.scr,6,texto,その依頼は受け付けておくね,,-,FaceChat: sem limite de bytes,6395:mev00_294.scr:6
+mev00_294.scr#7,MEV-00b,mev00_294.scr,7,texto,"はい。
+いつも、ありがとうございます",,CRLF,FaceChat: sem limite de bytes,6395:mev00_294.scr:7

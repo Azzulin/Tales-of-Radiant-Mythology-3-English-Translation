@@ -1,0 +1,199 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev32_010.scr:0	cev32_010.scr	0	リオン	Leon Magnus	personagem		お前……なぜ僕に構う		
+cev32_010.scr:1	cev32_010.scr	1	ゼロス	Zelos Wilder	personagem	CRLF x1	はぁ？　\n何言っちゃってんの〜？		
+cev32_010.scr:2	cev32_010.scr	2	ゼロス	Zelos Wilder	personagem	CRLF x1	気のせいだろ。\n俺さま、野郎に興味ないし		
+cev32_010.scr:3	cev32_010.scr	3	リオン	Leon Magnus	personagem	CRLF x2	ならなぜ後を尾ける。\n言いたい事があるなら\nはっきり言葉にしたらどうだ？		
+cev32_010.scr:4	cev32_010.scr	4	リオン	Leon Magnus	personagem		そのよく回る口はお飾りか		
+cev32_010.scr:5	cev32_010.scr	5	ゼロス	Zelos Wilder	personagem		ははっ、辛辣だねぇ		
+cev32_010.scr:6	cev32_010.scr	6	ゼロス	Zelos Wilder	personagem	CRLF x1	……こりゃホントに\n知られちゃマズイ事でもあんのかね		
+cev32_010.scr:7	cev32_010.scr	7	リオン	Leon Magnus	personagem		何？		
+cev32_010.scr:8	cev32_010.scr	8	ゼロス	Zelos Wilder	personagem	CRLF x2	理由なんてねえよ。\nただ……、\nお前からは、俺と同じにおいがする		
+cev32_010.scr:9	cev32_010.scr	9	ゼロス	Zelos Wilder	personagem		それがちっと気になっただけだ		
+cev32_010.scr:10	cev32_010.scr	10	リオン	Leon Magnus	personagem		…………		
+cev32_010.scr:11	cev32_010.scr	11	ゼロス	Zelos Wilder	personagem	CRLF x1	ま、せいぜい後悔のない\n選択をすりゃいいさ		
+cev32_010.scr:12	cev32_010.scr	12	ゼロス	Zelos Wilder	personagem	CRLF x1	ぶっちゃけそんなの、俺さまにゃ\nどーでもいい事だけどよ		
+cev32_010.scr:13	cev32_010.scr	13	リオン	Leon Magnus	personagem		何を言っているのか、理解出来んな		
+cev32_010.scr:14	cev32_010.scr	14	ゼロス	Zelos Wilder	personagem	CRLF x1	あー、そうだな。\nわかんなくていいんだよ		
+cev32_010.scr:15	cev32_010.scr	15	ゼロス	Zelos Wilder	personagem		……わからねぇ方がいいんだ		
+cev32_020.scr:0	cev32_020.scr	0	ゼロス	Zelos Wilder	personagem	CRLF x1	ロイドく〜〜ん∀\n会いたかったぜぇ		
+cev32_020.scr:1	cev32_020.scr	1	ロイド	Lloyd Irving	personagem		うわ、何だよ、くっ付くなよ		
+cev32_020.scr:2	cev32_020.scr	2	ゼロス	Zelos Wilder	personagem	CRLF x1	つれない事言うなよ。\n俺さまとロイドくんの仲だろ？		
+cev32_020.scr:3	cev32_020.scr	3	ロイド	Lloyd Irving	personagem		どーいう仲だよ……		
+cev32_020.scr:4	cev32_020.scr	4	シング	Shing Meteoryte	personagem	CRLF x1	ロイド！\n新しい仲間が増えたって？		
+cev32_020.scr:5	cev32_020.scr	5	コハク	Kohaku Hearts	personagem		もしかして、その人が？		
+cev32_020.scr:6	cev32_020.scr	6	ロイド	Lloyd Irving	personagem	CRLF x1	ああ、そうなんだ。\nこいつがゼロ……		
+cev32_020.scr:7	cev32_020.scr	7	ゼロス	Zelos Wilder	personagem	CRLF x2	わ〜〜ぉ、美しいお嬢さん∀\n俺さま、ゼロス。\n仲良くしようぜぇ∀∀		
+cev32_020.scr:8	cev32_020.scr	8	コハク	Kohaku Hearts	personagem		は……はぁ		
+cev32_020.scr:9	cev32_020.scr	9	シング	Shing Meteoryte	personagem	CRLF x1	へえ、ゼロスっていうのか。\nオレ、シン……		
+cev32_020.scr:10	cev32_020.scr	10	ゼロス	Zelos Wilder	personagem	CRLF x1	お嬢さんの名前を\n聞かせてもらってもいいかな〜		
+cev32_020.scr:11	cev32_020.scr	11	コハク	Kohaku Hearts	personagem		えっと……コハク・ハーツです		
+cev32_020.scr:12	cev32_020.scr	12	ゼロス	Zelos Wilder	personagem	CRLF x2	コハクちゃんだね〜〜∀\nうん、覚えた覚えた。\nも〜〜バッチリ		
+cev32_020.scr:13	cev32_020.scr	13	ゼロス	Zelos Wilder	personagem	CRLF x1	それにしてもコハクちゃんって、\nすんごい美脚だよねえ……むふふふ！		
+cev32_020.scr:14	cev32_020.scr	14	ゼロス	Zelos Wilder	personagem		俺さま、も〜〜メロメロ〜〜〜！！		
+cev32_020.scr:15	cev32_020.scr	15	コハク	Kohaku Hearts	personagem		やだっ、どこ見てるのよッ		
+cev32_020.scr:16	cev32_020.scr	16	ゼロス	Zelos Wilder	personagem		ごほぉっ！！？		
+cev32_020.scr:17	cev32_020.scr	17	シング	Shing Meteoryte	personagem		大丈夫、コハク？		
+cev32_020.scr:18	cev32_020.scr	18	コハク	Kohaku Hearts	personagem		うん		
+cev32_020.scr:19	cev32_020.scr	19	コハク	Kohaku Hearts	personagem		大丈夫だよ……シング		
+cev32_020.scr:20	cev32_020.scr	20	ゼロス	Zelos Wilder	personagem	CRLF x1	コハクちゃん……、\n結構、強いの……ね……		
+cev32_020.scr:21	cev32_020.scr	21	ロイド	Lloyd Irving	personagem	CRLF x1	ほんと……。\nお前、相変わらずだなぁ		
+cev32_030.scr:0	cev32_030.scr	0	レイヴン	Raven	personagem	CRLF x1	しいなちゃんってば、魅力的よねぇ〜。\nほんっと、ナイスバディ！		
+cev32_030.scr:1	cev32_030.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	ちょ……、突然\n何を言い出すんだい？		
+cev32_030.scr:2	cev32_030.scr	2	レイヴン	Raven	personagem	CRLF x2	照れない照れない。\nしいなちゃんがそんだけ、女性として\n素晴らしいってこと∀		
+cev32_030.scr:3	cev32_030.scr	3	ゼロス	Zelos Wilder	personagem	CRLF x2	そうそう。\nいつも俺さまが言ってんだろ？\nしいなは素材はいいんだからってさ		
+cev32_030.scr:4	cev32_030.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x1	ゼ、ゼロスまで\n何を言ってるのさ！		
+cev32_030.scr:5	cev32_030.scr	5	レイヴン	Raven	personagem	CRLF x1	この船の中でも\nしいなちゃん、トップクラスよ〜		
+cev32_030.scr:6	cev32_030.scr	6	ゼロス	Zelos Wilder	personagem	CRLF x2	ホントホント。\nお前は、自分の体に\nもっと、自信を持つべきなんだよ		
+cev32_030.scr:7	cev32_030.scr	7	レイヴン	Raven	personagem	CRLF x1	誰も放っておかないわよ〜。\nもったいないねぇ		
+cev32_030.scr:8	cev32_030.scr	8	ゼロス	Zelos Wilder	personagem	CRLF x2	何だったら、俺さまが\nもっと磨きをかけてやろうか？\nこう、色々手取り足取りさ∀		
+cev32_030.scr:9	cev32_030.scr	9	レイヴン	Raven	personagem	CRLF x1	ちょっと、抜け駆けはズルイっしょ。\nやるなら、おっさんにも手伝わせてよ		
+cev32_030.scr:10	cev32_030.scr	10	ゼロス	Zelos Wilder	personagem	CRLF x2	お〜、いいねいいねえ∀\nそういう手伝いだったらもう、\n俺さまいつでも大歓迎∀		
+cev32_030.scr:11	cev32_030.scr	11	しいな	Sheena Fujibayashi	personagem	CRLF x1	いい加減にしな！\nこのエロガッパども！！！		
+cev32_040.scr:0	cev32_040.scr	0	ゼロス	Zelos Wilder	personagem	CRLF x1	ティアちゃん、可愛いねぇ〜。\n俺さま、超〜〜〜タイプよ∀		
+cev32_040.scr:1	cev32_040.scr	1	ルーク	Luke fon Fabre	personagem		（あれは、ティア？　何してんだ？）		
+cev32_040.scr:2	cev32_040.scr	2	ティア	Tear Grants	personagem		そうかしら？		
+cev32_040.scr:3	cev32_040.scr	3	ティア	Tear Grants	personagem	CRLF x2	社交辞令だと思うけど、\n一応お礼は言っておくわ。\nありがとう		
+cev32_040.scr:4	cev32_040.scr	4	ゼロス	Zelos Wilder	personagem	CRLF x2	な〜に言ってんの〜。\n社交辞令なんかじゃないって！\nティアちゃん、ホント可愛いよ〜		
+cev32_040.scr:5	cev32_040.scr	5	ゼロス	Zelos Wilder	personagem	CRLF x1	それに俺さま、\nちゃ〜んと知ってるんだぜ？		
+cev32_040.scr:6	cev32_040.scr	6	ティア	Tear Grants	personagem	CRLF x1	知ってる？　\n私の何を？		
+cev32_040.scr:7	cev32_040.scr	7	ゼロス	Zelos Wilder	personagem	CRLF x2	ティアちゃんって、\n動物とかぬいぐるみ見た時\nひそかにかわいい顔してるよねえ∀		
+cev32_040.scr:8	cev32_040.scr	8	ティア	Tear Grants	personagem		そ……、そんな事、ないわ		
+cev32_040.scr:9	cev32_040.scr	9	ゼロス	Zelos Wilder	personagem	CRLF x1	ま〜たまたそんな\n強がっちゃって		
+cev32_040.scr:10	cev32_040.scr	10	ゼロス	Zelos Wilder	personagem	CRLF x1	けどさ、これを見ても\nまだそんな事言えるかなぁ〜？		
+cev32_040.scr:11	cev32_040.scr	11	ゼロス	Zelos Wilder	personagem	CRLF x1	じゃじゃ〜〜ん！\nティアちゃん、コレ好きっしょ？		
+cev32_040.scr:12	cev32_040.scr	12	キュッポ	Kyuppo	personagem	CRLF x2	キュ？　\nキュ？\nな、何だキュ？		
+cev32_040.scr:13	cev32_040.scr	13	ゼロス	Zelos Wilder	personagem	CRLF x1	ほらほら〜、その顔∀\nティアちゃん、超〜〜〜カワイイよ∀		
+cev32_040.scr:14	cev32_040.scr	14	ティア	Tear Grants	personagem		い、いや、だ、だめ……		
+cev32_040.scr:15	cev32_040.scr	15	ゼロス	Zelos Wilder	personagem	CRLF x1	もう、素直じゃないんだから〜。\nでもホントは、コレが好きなんでしょ？		
+cev32_040.scr:16	cev32_040.scr	16	ゼロス	Zelos Wilder	personagem		ほらほらほら∀		
+cev32_040.scr:17	cev32_040.scr	17	ティア	Tear Grants	personagem	CRLF x1	（もふもふしてて……、\n　か……、かわいい∀）		
+cev32_040.scr:18	cev32_040.scr	18	ルーク	Luke fon Fabre	personagem	CRLF x2	な、何なんだよアイツ……。\nあのティアを、あんな風に\nしちまえるなんて……		
+cev32_040.scr:19	cev32_040.scr	19	ルーク	Luke fon Fabre	personagem	CRLF x2	くっ……！\nな、何か腹立って来たけど\n何で俺がむかつかなきゃなんねーんだ？		
+cev32_040.scr:20	cev32_040.scr	20	ルーク	Luke fon Fabre	personagem		あーもう、くそっ！		
+cev32_050.scr:0	cev32_050.scr	0	ゼロス	Zelos Wilder	personagem	CRLF x1	はーーー……。\n俺さまもうダメかも……		
+cev32_050.scr:1	cev32_050.scr	1	ロイド	Lloyd Irving	personagem	CRLF x1	何だよ、\nでっかいため息なんか吐いて		
+cev32_050.scr:2	cev32_050.scr	2	ジーニアス	Genis Sage	personagem	CRLF x1	ロイド！\nそこに触れちゃダメだってば！		
+cev32_050.scr:3	cev32_050.scr	3	ゼロス	Zelos Wilder	personagem	CRLF x1	お〜、ハニー！\nよくぞ聞いてくれたぜぇ		
+cev32_050.scr:4	cev32_050.scr	4	ゼロス	Zelos Wilder	personagem	CRLF x1	冷静に考えてみてくれよ、\nこの部屋あんまりだと思わねえ？		
+cev32_050.scr:5	cev32_050.scr	5	ゼロス	Zelos Wilder	personagem		だって、女子が一人もいないんだぜ！？		
+cev32_050.scr:6	cev32_050.scr	6	ゼロス	Zelos Wilder	personagem	CRLF x2	むさ苦しいっつーか、\n華がないっつーか……。\n何で俺さま達の部屋だけこうなのよ！		
+cev32_050.scr:7	cev32_050.scr	7	ジーニアス	Genis Sage	personagem	CRLF x1	あちゃ〜。\n始まっちゃったよ……		
+cev32_050.scr:8	cev32_050.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	しょうがないだろ。\nそういう部屋割りなんだからさ		
+cev32_050.scr:9	cev32_050.scr	9	ゼロス	Zelos Wilder	personagem		どこがしょーがないっつーのよ！		
+cev32_050.scr:10	cev32_050.scr	10	ゼロス	Zelos Wilder	personagem	CRLF x2	他の部屋は、美少女や美女達と\n獰猛で野蛮な野郎どもが\n寝食共にしてんだぜ？		
+cev32_050.scr:11	cev32_050.scr	11	ゼロス	Zelos Wilder	personagem	CRLF x1	どーして俺さまだけが\n割を食わなきゃなんないのよ		
+cev32_050.scr:12	cev32_050.scr	12	ゼロス	Zelos Wilder	personagem	CRLF x1	どう考えたってこんな仕打ち、\n納得出来るわけないでしょーが！！		
+cev32_050.scr:13	cev32_050.scr	13	ロイド	Lloyd Irving	personagem		ンな事言ったって……		
+cev32_050.scr:14	cev32_050.scr	14	ジーニアス	Genis Sage	personagem	CRLF x2	ダメだよ、ロイド。\nこうなったゼロスには、何言ったって\nまともになんか通じないんだから		
+cev32_050.scr:15	cev32_050.scr	15	ゼロス	Zelos Wilder	personagem	CRLF x2	あ〜〜〜もう、\n俺さまも女子と一緒に\n寝泊まりした〜〜い！！		
+cev32_060.scr:0	cev32_060.scr	0	ゼロス	Zelos Wilder	personagem	CRLF x1	あれ〜？\nこっちに来たと思ったんだけどなぁ		
+cev32_060.scr:1	cev32_060.scr	1	レイヴン	Raven	personagem	CRLF x1	またまた探し人〜？\n今度は誰を探してんの、この色男……		
+cev32_060.scr:2	cev32_060.scr	2	レイヴン	Raven	personagem		って、ちょい待ち！		
+cev32_060.scr:3	cev32_060.scr	3	レイヴン	Raven	personagem	CRLF x1	な〜んで無視するのよ。\n明らかに今、気付いてたでしょーが！		
+cev32_060.scr:4	cev32_060.scr	4	ゼロス	Zelos Wilder	personagem	CRLF x1	俺さま、おっさんに興味ないの。\nほんじゃ悪いけど、そういう事で		
+cev32_060.scr:5	cev32_060.scr	5	レイヴン	Raven	personagem	CRLF x1	だぁーーーっ！\nこれだから今時の若者ってヤツはっ		
+cev32_060.scr:6	cev32_060.scr	6	レイヴン	Raven	personagem	CRLF x1	どうせまたあのロイドって子でも\n探してたんでしょ〜？		
+cev32_060.scr:7	cev32_060.scr	7	レイヴン	Raven	personagem		随分お熱なのねえ、野郎相手に		
+cev32_060.scr:8	cev32_060.scr	8	ゼロス	Zelos Wilder	personagem		ハニーだけは特別なんだよ		
+cev32_060.scr:9	cev32_060.scr	9	ゼロス	Zelos Wilder	personagem	CRLF x1	ま、あんたにゃ\nわかんねえかもしれないけどな		
+cev32_060.scr:10	cev32_060.scr	10	レイヴン	Raven	personagem	CRLF x1	へぇ〜。\nやっぱ、タダ者じゃないってワケね		
+cev32_060.scr:11	cev32_060.scr	11	レイヴン	Raven	personagem		ロイド・アーヴィング、か……		
+cev32_070.scr:0	cev32_070.scr	0	ゼロス	Zelos Wilder	personagem		すずちゃんはいつも冷静だねぇ		
+cev32_070.scr:1	cev32_070.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x1	それが忍者というものです。\n忍者にとって感情は、邪魔なものなのです		
+cev32_070.scr:2	cev32_070.scr	2	ゼロス	Zelos Wilder	personagem		でも、しいなだってすずと同じ忍者だろ？		
+cev32_070.scr:3	cev32_070.scr	3	ゼロス	Zelos Wilder	personagem	CRLF x2	あいつは怒ったり、泣いたり、\n結構、感情表現激しいけどなぁ？\nありゃ忍者的にオッケーなわけ？		
+cev32_070.scr:4	cev32_070.scr	4	すず	Suzu Fujibayashi	personagem	CRLF x1	しいなさんは、いざという時\n冷静に任務を遂行する事が出来ます		
+cev32_070.scr:5	cev32_070.scr	5	すず	Suzu Fujibayashi	personagem	CRLF x1	ですから、普段は感情を\n表に出していて平気なのだと思います		
+cev32_070.scr:6	cev32_070.scr	6	ゼロス	Zelos Wilder	personagem	CRLF x2	んじゃ、すずちゃんだって\nもっと感情を出してっても\nいいんじゃねーの？		
+cev32_070.scr:7	cev32_070.scr	7	すず	Suzu Fujibayashi	personagem		私は……まだ未熟者ですから		
+cev32_070.scr:8	cev32_070.scr	8	ゼロス	Zelos Wilder	personagem	CRLF x2	そうか？\nしいなよりかは、よっぽど\nしっかりしてると思うけどねえ		
+cev32_070.scr:9	cev32_070.scr	9	ゼロス	Zelos Wilder	personagem	CRLF x2	……ま、何にしても。\n感情を殺して生きるなんざ、\nぞっとしねえ話だな……		
+cev32_080.scr:0	cev32_080.scr	0	ロニ	Loni Dunamis	personagem		……俺、つくづく思うんだけどよ		
+cev32_080.scr:1	cev32_080.scr	1	ロニ	Loni Dunamis	personagem	CRLF x2	死ぬ前に一度、……一度でいいっ。\n美女にかいがいしく\n介抱されてみたいよなぁ〜〜！！		
+cev32_080.scr:2	cev32_080.scr	2	ゼロス	Zelos Wilder	personagem	CRLF x1	あ〜、あれだな。\n男のロマンって奴だ？		
+cev32_080.scr:3	cev32_080.scr	3	ゼロス	Zelos Wilder	personagem	CRLF x2	わかるわかる。\n心配とかされちゃってさ〜、\n抱かれちゃったりする事もあったり？∀		
+cev32_080.scr:4	cev32_080.scr	4	レイヴン	Raven	personagem		おたくらは、まだまだ子どもだねぇ〜		
+cev32_080.scr:5	cev32_080.scr	5	ロニ	Loni Dunamis	personagem	CRLF x2	何だよ。　誰だって、苦しい病床で\n美女が優しく介抱してくれたら\n嬉しいもんだろ？		
+cev32_080.scr:6	cev32_080.scr	6	レイヴン	Raven	personagem	CRLF x1	そうじゃなくて、どうせ介抱されるなら\nもっとこう親密にしてもらうのがいいでしょ？		
+cev32_080.scr:7	cev32_080.scr	7	ゼロス	Zelos Wilder	personagem		はは〜ん？　なるほどな		
+cev32_080.scr:8	cev32_080.scr	8	ゼロス	Zelos Wilder	personagem	CRLF x1	んで？　ズバリ、\nおっさんは何が言いたいのよ？		
+cev32_080.scr:9	cev32_080.scr	9	レイヴン	Raven	personagem	CRLF x1	雪山登山とかで、体が冷えた時\nどうするといいか知ってる？		
+cev32_080.scr:10	cev32_080.scr	10	ロニ	Loni Dunamis	personagem	CRLF x1	素肌を密着させた方が、\nいいんじゃなかったか？		
+cev32_080.scr:11	cev32_080.scr	11	レイヴン	Raven	personagem	CRLF x1	おー、さすが。\nと言う事は、つまり？		
+cev32_080.scr:12	cev32_080.scr	12	ゼロス	Zelos Wilder	personagem	CRLF x1	女の子と二人っきりで、\n雪山で遭難すれば……		
+cev32_080.scr:13	cev32_080.scr	13	レイヴン	Raven	personagem	CRLF x2	ね？　\n夢のシチュエーションでしょ？\n介抱もされて、密着出来て、そしてそして……		
+cev32_080.scr:14	cev32_080.scr	14	(narracao)	(narracao)	narracao		むふふふ……∀		
+cev32_080.scr:15	cev32_080.scr	15	レイヴン	Raven	personagem		はっ……くしゅん！		
+cev32_080.scr:16	cev32_080.scr	16	レイヴン	Raven	personagem		うう、想像しただけで寒……		
+cev32_080.scr:17	cev32_080.scr	17	ゼロス	Zelos Wilder	personagem	CRLF x1	おいおい、\nどんだけ寒がりなのよ……		
+cev32_090.scr:0	cev32_090.scr	0	ロニ	Loni Dunamis	personagem	CRLF x2	しかしだな……。\n雪山に行って遭難するなんて、\nちょっと危険があり過ぎじゃねぇか？		
+cev32_090.scr:1	cev32_090.scr	1	ゼロス	Zelos Wilder	personagem	CRLF x2	そうだな。\nっつか、そもそもそんな場所に\n二人っきりで行くってのも難しいわ		
+cev32_090.scr:2	cev32_090.scr	2	レイヴン	Raven	personagem	CRLF x2	そうねえ。\nもっと手っ取り早く、\n体を冷やせればいいんだけどね……		
+cev32_090.scr:3	cev32_090.scr	3	レイヴン	Raven	personagem		あれは、ジュディスちゃん		
+cev32_090.scr:4	cev32_090.scr	4	ロニ	Loni Dunamis	personagem	CRLF x2	ん？　\nセルシウスんとこに\n行ったみたいだけど……		
+cev32_090.scr:5	cev32_090.scr	5	ゼロス	Zelos Wilder	personagem	CRLF x1	って事は、今、セルシウスさまに、\n氷で冷やしてもらえれば……		
+cev32_090.scr:6	cev32_090.scr	6	レイヴン	Raven	personagem	CRLF x1	ジュディスちゃんが……、\n体を……		
+cev32_090.scr:7	cev32_090.scr	7	ロニ	Loni Dunamis	personagem	CRLF x2	な！　\nて、てめぇ……！\n抜け駆けは……		
+cev32_090.scr:8	cev32_090.scr	8	ゼロス	Zelos Wilder	personagem	CRLF x1	お、俺さまが……、最初に、\n気付いたんだろうが……！		
+cev32_090.scr:9	cev32_090.scr	9	レイヴン	Raven	personagem	CRLF x1	こ、こういう時は……、\n年長者に譲るもんでしょ……！		
+cev32_090.scr:10	cev32_090.scr	10	ジュディス	Judith	personagem	CRLF x2	うふふ。\nあんなに密着し合って、\n体が熱くなるんじゃないかしら？∀		
+cev32_200.scr:0	cev32_200.scr	0	ゼロス	Zelos Wilder	personagem	CRLF x1	通常。\n		
+cev32_200.scr:1	cev32_200.scr	1	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:2	cev32_200.scr	2	ゼロス	Zelos Wilder	personagem	CRLF x1	笑い。\n		
+cev32_200.scr:3	cev32_200.scr	3	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:4	cev32_200.scr	4	ゼロス	Zelos Wilder	personagem	CRLF x1	怒り。\n		
+cev32_200.scr:5	cev32_200.scr	5	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:6	cev32_200.scr	6	ゼロス	Zelos Wilder	personagem	CRLF x1	悲しみ。\n		
+cev32_200.scr:7	cev32_200.scr	7	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:8	cev32_200.scr	8	ゼロス	Zelos Wilder	personagem	CRLF x1	皮肉。\n		
+cev32_200.scr:9	cev32_200.scr	9	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:10	cev32_200.scr	10	ゼロス	Zelos Wilder	personagem	CRLF x1	真剣。\n		
+cev32_200.scr:11	cev32_200.scr	11	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:12	cev32_200.scr	12	ゼロス	Zelos Wilder	personagem	CRLF x1	驚き。\n		
+cev32_200.scr:13	cev32_200.scr	13	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:14	cev32_200.scr	14	ゼロス	Zelos Wilder	personagem	CRLF x1	微笑。\n		
+cev32_200.scr:15	cev32_200.scr	15	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:16	cev32_200.scr	16	ゼロス	Zelos Wilder	personagem	CRLF x1	困惑。\n		
+cev32_200.scr:17	cev32_200.scr	17	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:18	cev32_200.scr	18	ゼロス	Zelos Wilder	personagem	CRLF x1	ハート目。\n		
+cev32_200.scr:19	cev32_200.scr	19	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:20	cev32_200.scr	20	ゼロス	Zelos Wilder	personagem	CRLF x1	通常。\n		
+cev32_200.scr:21	cev32_200.scr	21	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:22	cev32_200.scr	22	ゼロス	Zelos Wilder	personagem	CRLF x1	笑い。\n		
+cev32_200.scr:23	cev32_200.scr	23	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:24	cev32_200.scr	24	ゼロス	Zelos Wilder	personagem	CRLF x1	怒り。\n		
+cev32_200.scr:25	cev32_200.scr	25	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:26	cev32_200.scr	26	ゼロス	Zelos Wilder	personagem	CRLF x1	悲しみ。\n		
+cev32_200.scr:27	cev32_200.scr	27	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:28	cev32_200.scr	28	ゼロス	Zelos Wilder	personagem	CRLF x1	皮肉。\n		
+cev32_200.scr:29	cev32_200.scr	29	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:30	cev32_200.scr	30	ゼロス	Zelos Wilder	personagem	CRLF x1	真剣。\n		
+cev32_200.scr:31	cev32_200.scr	31	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:32	cev32_200.scr	32	ゼロス	Zelos Wilder	personagem	CRLF x1	驚き。\n		
+cev32_200.scr:33	cev32_200.scr	33	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:34	cev32_200.scr	34	ゼロス	Zelos Wilder	personagem	CRLF x1	微笑。\n		
+cev32_200.scr:35	cev32_200.scr	35	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:36	cev32_200.scr	36	ゼロス	Zelos Wilder	personagem	CRLF x1	困惑。\n		
+cev32_200.scr:37	cev32_200.scr	37	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:38	cev32_200.scr	38	ゼロス	Zelos Wilder	personagem	CRLF x1	ハート目。\n		
+cev32_200.scr:39	cev32_200.scr	39	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:40	cev32_200.scr	40	ゼロス	Zelos Wilder	personagem	CRLF x1	通常。\n		
+cev32_200.scr:41	cev32_200.scr	41	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:42	cev32_200.scr	42	ゼロス	Zelos Wilder	personagem	CRLF x1	笑い。\n		
+cev32_200.scr:43	cev32_200.scr	43	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:44	cev32_200.scr	44	ゼロス	Zelos Wilder	personagem	CRLF x1	怒り。\n		
+cev32_200.scr:45	cev32_200.scr	45	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:46	cev32_200.scr	46	ゼロス	Zelos Wilder	personagem	CRLF x1	悲しみ。\n		
+cev32_200.scr:47	cev32_200.scr	47	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:48	cev32_200.scr	48	ゼロス	Zelos Wilder	personagem	CRLF x1	皮肉。\n		
+cev32_200.scr:49	cev32_200.scr	49	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:50	cev32_200.scr	50	ゼロス	Zelos Wilder	personagem	CRLF x1	真剣。\n		
+cev32_200.scr:51	cev32_200.scr	51	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:52	cev32_200.scr	52	ゼロス	Zelos Wilder	personagem	CRLF x1	驚き。\n		
+cev32_200.scr:53	cev32_200.scr	53	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:54	cev32_200.scr	54	ゼロス	Zelos Wilder	personagem	CRLF x1	微笑。\n		
+cev32_200.scr:55	cev32_200.scr	55	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:56	cev32_200.scr	56	ゼロス	Zelos Wilder	personagem	CRLF x1	困惑。\n		
+cev32_200.scr:57	cev32_200.scr	57	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev32_200.scr:58	cev32_200.scr	58	ゼロス	Zelos Wilder	personagem	CRLF x1	ハート目。\n		
+cev32_200.scr:59	cev32_200.scr	59	ゼロス	Zelos Wilder	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

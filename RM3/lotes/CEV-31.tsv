@@ -1,0 +1,136 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev31_010.scr:0	cev31_010.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	今の仕掛け、びっくりしたなぁ。\nまさか横に開くなんて……		
+cev31_010.scr:1	cev31_010.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x2	心理トラップって奴さ。\n扉っていったら、大抵は\n押し引きするタイプの奴が一般的だろ？		
+cev31_010.scr:2	cev31_010.scr	2	しいな	Sheena Fujibayashi	personagem	CRLF x1	その先入観を利用して、まるで\n開かずの扉の様に見せかけるってわけさ		
+cev31_010.scr:3	cev31_010.scr	3	カイル	Kyle Dunamis	personagem		先入観か……ふむふむ		
+cev31_010.scr:4	cev31_010.scr	4	カイル	Kyle Dunamis	personagem	CRLF x2	じゃあ、人に知られたくない内緒の扉は\n全部さっきみたいにしとけば\nいいって事なんだね！		
+cev31_010.scr:5	cev31_010.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x1	いや、全部そうしちまったら\n仕掛けが一般的になっちまうだろ……		
+cev31_020.scr:0	cev31_020.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	辛かった日も、楽しかった日も\n自分には宝物……かぁ		
+cev31_020.scr:1	cev31_020.scr	1	カイル	Kyle Dunamis	personagem		いい言葉だね！		
+cev31_020.scr:2	cev31_020.scr	2	しいな	Sheena Fujibayashi	personagem		そ、そうかい？		
+cev31_020.scr:3	cev31_020.scr	3	カイル	Kyle Dunamis	personagem	CRLF x2	うん。\nだって辛い事があったら\nつい否定したくなるのが普通でしょ？		
+cev31_020.scr:4	cev31_020.scr	4	カイル	Kyle Dunamis	personagem		忘れたりとか、誤魔化したりとか		
+cev31_020.scr:5	cev31_020.scr	5	カイル	Kyle Dunamis	personagem		でも、しいなは違うんだね		
+cev31_020.scr:6	cev31_020.scr	6	カイル	Kyle Dunamis	personagem	CRLF x2	そういうのも\n全部宝物に出来るんだ。\nすごいよ		
+cev31_020.scr:7	cev31_020.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x2	……それを教えてくれた友達がいたんだよ。\n逃げてばかりだったあたしを、体を張って\n叱ったり、励ましてくれたんだ……		
+cev31_020.scr:8	cev31_020.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x1	その子のおかげで\n今のあたしがここにいるのさ		
+cev31_020.scr:9	cev31_020.scr	9	カイル	Kyle Dunamis	personagem		へぇ〜、そうだったんだ……		
+cev31_020.scr:10	cev31_020.scr	10	カイル	Kyle Dunamis	personagem		その友達って、すごい人だったんだね！		
+cev31_020.scr:11	cev31_020.scr	11	しいな	Sheena Fujibayashi	personagem		……ああ、そうだね……		
+cev31_020.scr:12	cev31_020.scr	12	しいな	Sheena Fujibayashi	personagem		多分、一生頭が上がらないよ		
+cev31_030.scr:0	cev31_030.scr	0	しいな	Sheena Fujibayashi	personagem		…………		
+cev31_030.scr:1	cev31_030.scr	1	カイル	Kyle Dunamis	personagem	CRLF x1	何？\nオレの顔に何か付いてる？		
+cev31_030.scr:2	cev31_030.scr	2	しいな	Sheena Fujibayashi	personagem	CRLF x2	前から思ってたんだけどさ。\nな〜んか、どっかでカイルに似たのを\n見た様な気がするんだよね		
+cev31_030.scr:3	cev31_030.scr	3	カイル	Kyle Dunamis	personagem		ぎくっ！		
+cev31_030.scr:4	cev31_030.scr	4	しいな	Sheena Fujibayashi	personagem		何だろう……う〜ん		
+cev31_030.scr:5	cev31_030.scr	5	カイル	Kyle Dunamis	personagem	CRLF x2	えっと、ほら、オ、オレなんて\nその辺にいくらでもいる顔って\nいうか…		
+cev31_030.scr:6	cev31_030.scr	6	カイル	Kyle Dunamis	personagem	CRLF x1	世界には似た顔の人間が\n何人もいるって話だし		
+cev31_030.scr:7	cev31_030.scr	7	しいな	Sheena Fujibayashi	personagem		あっ、わかった		
+cev31_030.scr:8	cev31_030.scr	8	カイル	Kyle Dunamis	personagem		えっ！？		
+cev31_030.scr:9	cev31_030.scr	9	しいな	Sheena Fujibayashi	personagem		栗だ！！		
+cev31_030.scr:10	cev31_030.scr	10	カイル	Kyle Dunamis	personagem		く……栗？		
+cev31_030.scr:11	cev31_030.scr	11	しいな	Sheena Fujibayashi	personagem	CRLF x2	ほら、そのツンツン頭がさ。\nあたしの里の栗の木が\n毎年付ける実にソックリなんだよ		
+cev31_030.scr:12	cev31_030.scr	12	しいな	Sheena Fujibayashi	personagem		懐かしいねえ		
+cev31_030.scr:13	cev31_030.scr	13	カイル	Kyle Dunamis	personagem		似てるって……そっち？		
+cev31_040.scr:0	cev31_040.scr	0	リッド	Reid Hershel	personagem	CRLF x2	何だか、あっという間に\n随分遠い所まで\n来ちまったよなぁ……		
+cev31_040.scr:1	cev31_040.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	何だい、いきなり。\n随分しんみりしてるじゃないか		
+cev31_040.scr:2	cev31_040.scr	2	キール	Keele Zeibel	personagem	CRLF x2	無理もないさ。\nリッドはもともと食事と睡眠が仕事みたいな\n生活をしていたんだ		
+cev31_040.scr:3	cev31_040.scr	3	キール	Keele Zeibel	personagem	CRLF x1	世界の為に先陣を切って戦うなんて、\n本来は一番縁遠い人間だろうな		
+cev31_040.scr:4	cev31_040.scr	4	リッド	Reid Hershel	personagem	CRLF x1	何だよ、その言い方。\nオレの事、馬鹿にしてんのか？		
+cev31_040.scr:5	cev31_040.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x2	まあまあ、いいじゃねえか。\nとにかくこうして、おれ達はみんなで\n力を合わせて戦ってる		
+cev31_040.scr:6	cev31_040.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x1	それは多分、多くの人の助けや\n未来に繋がる戦いなんだとおれは思う		
+cev31_040.scr:7	cev31_040.scr	7	ティトレイ	Tytree Crowe	personagem	CRLF x1	確かに、ちっとばかしスケールのでかい\n話になっちまったかもしれねえが		
+cev31_040.scr:8	cev31_040.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x1	結果的にみんなが幸せになるんなら、\nおれは最後まで戦うぜ		
+cev31_040.scr:9	cev31_040.scr	9	ルーティ	Rutee Katrea	personagem		いつも思うけど……		
+cev31_040.scr:10	cev31_040.scr	10	ルーティ	Rutee Katrea	personagem	CRLF x2	ティトレイって、たまに\n物語の正統派主人公みたいな事\nごく自然に言うわよねぇ〜		
+cev31_040.scr:11	cev31_040.scr	11	ルーティ	Rutee Katrea	personagem	CRLF x2	でも、そうね。\nあんたのそういう考え方\n嫌いじゃないわよ		
+cev31_040.scr:12	cev31_040.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x1	顔も知らない、だけどこの世界に\n確かに存在している誰かの為に		
+cev31_040.scr:13	cev31_040.scr	13	しいな	Sheena Fujibayashi	personagem	CRLF x1	そして、何よりも\nあたし達自身の為に……		
+cev31_040.scr:14	cev31_040.scr	14	しいな	Sheena Fujibayashi	personagem	CRLF x1	きっちり戦い抜こうじゃないか。\nあたし達に出来る、精一杯でさ		
+cev31_040.scr:15	cev31_040.scr	15	リッド	Reid Hershel	personagem		どこかの誰かの未来の為に、か……		
+cev31_040.scr:16	cev31_040.scr	16	リッド	Reid Hershel	personagem	CRLF x2	そうだな。\nどうせだったら、結末はとびっきりの\nハッピーエンドにしてやろうぜ		
+cev31_040.scr:17	cev31_040.scr	17	キール	Keele Zeibel	personagem		当然だな		
+cev31_040.scr:18	cev31_040.scr	18	ティトレイ	Tytree Crowe	personagem	CRLF x1	ああ。\nおれ達は一人じゃない		
+cev31_040.scr:19	cev31_040.scr	19	ティトレイ	Tytree Crowe	personagem		必ずやれるさ！		
+cev31_050.scr:0	cev31_050.scr	0	ティア	Tear Grants	personagem		やっぱり、そうよね……		
+cev31_050.scr:1	cev31_050.scr	1	ミント	Mint Adenade	personagem	CRLF x1	はい……それが一番、\n楽な姿勢ではないかと思います		
+cev31_050.scr:2	cev31_050.scr	2	クロエ	Chloe Valens	personagem	CRLF x1	全く……我が身の事ながら\n不便極まりないな		
+cev31_050.scr:3	cev31_050.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x1	ほんとだねえ……肩は凝るし、\n走りづらいし……		
+cev31_050.scr:4	cev31_050.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x2	胸なんて、あって喜ぶのはスケベ男共だけで\n当のあたしらには、これっぽっちも\nいい事なんてありゃしないよ		
+cev31_050.scr:5	cev31_050.scr	5	アーチェ	Arche Klein	personagem	CRLF x1	ちょっとちょっと、どったの〜？\nみんな揃って、深刻な顔しちゃって		
+cev31_050.scr:6	cev31_050.scr	6	アーチェ	Arche Klein	personagem	CRLF x1	このアーチェさんに\nど〜〜んと相談してみなさい！		
+cev31_050.scr:7	cev31_050.scr	7	ミント	Mint Adenade	personagem	CRLF x1	いえ……すみません。\n深刻な話というのとは、少し違うのです		
+cev31_050.scr:8	cev31_050.scr	8	ティア	Tear Grants	personagem	CRLF x1	眠る時に、どういう姿勢が一番楽か、\n話をしていたの		
+cev31_050.scr:9	cev31_050.scr	9	アーチェ	Arche Klein	personagem	CRLF x1	ほえ？　\n寝る時の姿勢？		
+cev31_050.scr:10	cev31_050.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x2	要約すると、やっぱり、\nうつぶせが圧倒的に\n楽って事になりそうだね		
+cev31_050.scr:11	cev31_050.scr	11	クロエ	Chloe Valens	personagem	CRLF x2	そうだな。\n何と言っても、\n呼吸のしやすさが違う		
+cev31_050.scr:12	cev31_050.scr	12	アーチェ	Arche Klein	personagem	CRLF x2	え〜？　そう？\nあたしはそんな風に思った事\nないけどなぁ		
+cev31_050.scr:13	cev31_050.scr	13	アーチェ	Arche Klein	personagem	CRLF x1	ねえ、仰向けじゃ\nどうしていけないの？		
+cev31_050.scr:14	cev31_050.scr	14	クロエ	Chloe Valens	personagem	CRLF x1	そ……それはだな……。\nこう、単純に重いというか……		
+cev31_050.scr:15	cev31_050.scr	15	ミント	Mint Adenade	personagem		息苦しい感じがします……よね？		
+cev31_050.scr:16	cev31_050.scr	16	アーチェ	Arche Klein	personagem	CRLF x1	重いって、何が？\nあたしはそんな事ないよ？		
+cev31_050.scr:17	cev31_050.scr	17	しいな	Sheena Fujibayashi	personagem	CRLF x2	ほら、こういうのは\n個人差があるからさ。\n……ねえ、ティア？		
+cev31_050.scr:18	cev31_050.scr	18	ティア	Tear Grants	personagem		え、ええ……そうね		
+cev31_050.scr:19	cev31_050.scr	19	アーチェ	Arche Klein	personagem		？？？		
+cev31_051.scr:0	cev31_051.scr	0	ティア	Tear Grants	personagem		やっぱり、そうよね……		
+cev31_051.scr:1	cev31_051.scr	1	ジュディス	Judith	personagem	CRLF x1	私も、それが一番\n楽な姿勢のような気がするわ		
+cev31_051.scr:2	cev31_051.scr	2	ミント	Mint Adenade	personagem	CRLF x2	あまり知られていませんが\n実は、日常生活で\n不便を感じる事は多いですよね……		
+cev31_051.scr:3	cev31_051.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x1	ほんとだねえ……肩は凝るし、\n走りづらいし……		
+cev31_051.scr:4	cev31_051.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x2	胸なんて、あって喜ぶのはスケベ男共だけで\n当のあたしらには、これっぽっちも\n良い事なんてありゃしないよ		
+cev31_051.scr:5	cev31_051.scr	5	アーチェ	Arche Klein	personagem	CRLF x1	ちょっとちょっと、どったの〜？\n皆揃って、深刻な顔しちゃって		
+cev31_051.scr:6	cev31_051.scr	6	アーチェ	Arche Klein	personagem	CRLF x1	このアーチェさんに\nど〜〜んと相談してみなさい！		
+cev31_051.scr:7	cev31_051.scr	7	ミント	Mint Adenade	personagem	CRLF x1	いえ……すみません。\n深刻な話というのとは、少し違うのです		
+cev31_051.scr:8	cev31_051.scr	8	ティア	Tear Grants	personagem	CRLF x1	眠る時に、どういう姿勢が一番楽か、\n話をしていたの		
+cev31_051.scr:9	cev31_051.scr	9	アーチェ	Arche Klein	personagem		ほえ？　寝る時の姿勢？		
+cev31_051.scr:10	cev31_051.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x2	要約すると、やっぱり、\nうつぶせが圧倒的に\n楽って事になりそうだね		
+cev31_051.scr:11	cev31_051.scr	11	ジュディス	Judith	personagem	CRLF x1	そうね。\n明らかに、呼吸のしやすさが違うもの		
+cev31_051.scr:12	cev31_051.scr	12	アーチェ	Arche Klein	personagem	CRLF x2	え〜？　そう？\nあたしはそんな風に\n思った事ないけどなぁ		
+cev31_051.scr:13	cev31_051.scr	13	アーチェ	Arche Klein	personagem		ねえ、仰向けじゃどうしていけないの？		
+cev31_051.scr:14	cev31_051.scr	14	ティア	Tear Grants	personagem	CRLF x1	そ……それは……\nその、単純に重いから……		
+cev31_051.scr:15	cev31_051.scr	15	ミント	Mint Adenade	personagem		息苦しい感じがします……よね？		
+cev31_051.scr:16	cev31_051.scr	16	アーチェ	Arche Klein	personagem	CRLF x1	重いって、何が？\nあたしはそんな事ないよ？		
+cev31_051.scr:17	cev31_051.scr	17	しいな	Sheena Fujibayashi	personagem	CRLF x1	ほら、こういうのは個人差があるからさ。\n……ねえ、ジュディス？		
+cev31_051.scr:18	cev31_051.scr	18	ジュディス	Judith	personagem		うふふ……そうね		
+cev31_051.scr:19	cev31_051.scr	19	アーチェ	Arche Klein	personagem		？？？		
+cev31_200.scr:0	cev31_200.scr	0	しいな	Sheena Fujibayashi	personagem	CRLF x1	通常。\n		
+cev31_200.scr:1	cev31_200.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:2	cev31_200.scr	2	しいな	Sheena Fujibayashi	personagem	CRLF x1	笑い。\n		
+cev31_200.scr:3	cev31_200.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:4	cev31_200.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x1	怒り。\n		
+cev31_200.scr:5	cev31_200.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:6	cev31_200.scr	6	しいな	Sheena Fujibayashi	personagem	CRLF x1	悲しみ。\n		
+cev31_200.scr:7	cev31_200.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:8	cev31_200.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x1	真剣。\n		
+cev31_200.scr:9	cev31_200.scr	9	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:10	cev31_200.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x1	微笑。\n		
+cev31_200.scr:11	cev31_200.scr	11	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:12	cev31_200.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x1	照れ。\n		
+cev31_200.scr:13	cev31_200.scr	13	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:14	cev31_200.scr	14	しいな	Sheena Fujibayashi	personagem	CRLF x1	通常。\n		
+cev31_200.scr:15	cev31_200.scr	15	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:16	cev31_200.scr	16	しいな	Sheena Fujibayashi	personagem	CRLF x1	笑い。\n		
+cev31_200.scr:17	cev31_200.scr	17	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:18	cev31_200.scr	18	しいな	Sheena Fujibayashi	personagem	CRLF x1	怒り。\n		
+cev31_200.scr:19	cev31_200.scr	19	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:20	cev31_200.scr	20	しいな	Sheena Fujibayashi	personagem	CRLF x1	悲しみ。\n		
+cev31_200.scr:21	cev31_200.scr	21	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:22	cev31_200.scr	22	しいな	Sheena Fujibayashi	personagem	CRLF x1	真剣。\n		
+cev31_200.scr:23	cev31_200.scr	23	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:24	cev31_200.scr	24	しいな	Sheena Fujibayashi	personagem	CRLF x1	微笑。\n		
+cev31_200.scr:25	cev31_200.scr	25	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:26	cev31_200.scr	26	しいな	Sheena Fujibayashi	personagem	CRLF x1	照れ。\n		
+cev31_200.scr:27	cev31_200.scr	27	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:28	cev31_200.scr	28	しいな	Sheena Fujibayashi	personagem	CRLF x1	通常。\n		
+cev31_200.scr:29	cev31_200.scr	29	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:30	cev31_200.scr	30	しいな	Sheena Fujibayashi	personagem	CRLF x1	笑い。\n		
+cev31_200.scr:31	cev31_200.scr	31	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:32	cev31_200.scr	32	しいな	Sheena Fujibayashi	personagem	CRLF x1	怒り。\n		
+cev31_200.scr:33	cev31_200.scr	33	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:34	cev31_200.scr	34	しいな	Sheena Fujibayashi	personagem	CRLF x1	悲しみ。\n		
+cev31_200.scr:35	cev31_200.scr	35	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:36	cev31_200.scr	36	しいな	Sheena Fujibayashi	personagem	CRLF x1	真剣。\n		
+cev31_200.scr:37	cev31_200.scr	37	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:38	cev31_200.scr	38	しいな	Sheena Fujibayashi	personagem	CRLF x1	微笑。\n		
+cev31_200.scr:39	cev31_200.scr	39	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev31_200.scr:40	cev31_200.scr	40	しいな	Sheena Fujibayashi	personagem	CRLF x1	照れ。\n		
+cev31_200.scr:41	cev31_200.scr	41	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

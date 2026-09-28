@@ -1,0 +1,272 @@
+﻿id	arquivo	original	traducao	nota_do_tradutor	orcamento_bytes
+v1424_NewQuestFlowCommonMessage.txz:0	v1424_NewQuestFlowCommonMessage.txz	この依頼を受けてくれるのね。\nそれじゃあ、速やかに仕事に\n取り掛かってね！\n	You'll accept this quest?\nThen please get to\nwork right away!\n		76
+v1424_NewQuestFlowCommonMessage.txz:1	v1424_NewQuestFlowCommonMessage.txz	それ、\n納品を頼んでたものだよね。\n渡してくれるのかな？\n	The delivery item, right?\nWill you hand it over?\n\n		58
+v1424_NewQuestFlowCommonMessage.txz:2	v1424_NewQuestFlowCommonMessage.txz	お疲れさま。\nこれで、この仕事は終わりね\n\n	Good job.\nThis job is done now.\n\n		44
+v1424_NewQuestFlowCommonMessage.txz:3	v1424_NewQuestFlowCommonMessage.txz	報酬を渡したいんだけど、\nアイテムがいっぱいみたいね。\n整理をして、また来てちょうだい\n	I'd like to pay you,\nbut your items are full.\nPlease sort and return.\n		88
+v1424_NewQuestFlowCommonMessage.txz:4	v1424_NewQuestFlowCommonMessage.txz	あなたが今受けている依頼の報告は、\n＜依頼者＞にお願いね。\nだって、わたしの管轄外なんだもん\n	Report your quest to\n＜依頼者＞, please.\nIt's out of my hands!\n		94
+v1424_NewQuestFlowCommonMessage.txz:5	v1424_NewQuestFlowCommonMessage.txz	わたしからの依頼、破棄しちゃうの？\nせっかく、報酬弾んであげようと\n思ってたのになぁ〜\n	Abandoning my quest?\nAnd here I was thinking\nof giving a big reward...\n		88
+v1424_NewQuestFlowCommonMessage.txz:6	v1424_NewQuestFlowCommonMessage.txz	うーん…。\nまあ、＜依頼者＞にはそう伝えるけど。\n次からなるべく、依頼は終わらせてあげてね\n	Hmm...\nI'll tell ＜依頼者＞ that.\nTry to finish next time!\n		92
+v1424_NewQuestFlowCommonMessage.txz:7	v1424_NewQuestFlowCommonMessage.txz	今あなたに振れる仕事は、\nこれだけあるよ。\nさあ、どれを受けてくれるのかな？\n	These are the jobs I have\nfor you right now.\nWhich will you take?\n		78
+v1424_NewQuestFlowCommonMessage.txz:8	v1424_NewQuestFlowCommonMessage.txz	＜アイテム名＞は頼んでいたけども、\n数が足りないよ？\nちゃんと頼んでいた分持ってきてくれるかな？\n	I asked for ＜アイテム名＞,\nbut you have too few.\nPlease bring the full amount!\n		98
+v1424_NewQuestFlowCommonMessage.txz:9	v1424_NewQuestFlowCommonMessage.txz	その＜アイテム名＞、\n納品を頼んでたものだよね。\n渡してくれるのかな？\n	That ＜アイテム名＞,\nwas for delivery.\nWill you hand it over?\n		72
+v1424_NewQuestFlowCommonMessage.txz:10	v1424_NewQuestFlowCommonMessage.txz	もう＜アイテム名＞を\n持ってるみたいね？\nじゃあ、それを渡してくれたら依頼完了だよ\n	You have ＜アイテム名＞?\nHanding that over\nwill complete the quest!\n		84
+v1424_NewQuestFlowCommonMessage.txz:11	v1424_NewQuestFlowCommonMessage.txz	この数じゃあ、みんなをもてなせねえだろ？\n＜数＞個は必要なんだよなあ。\nもちっと集めてもらわねぇと…\n	This won't feed all!\nWe need ＜数＞ of them.\nCould you gather more...?\n		102
+v1424_NewQuestFlowCommonMessage.txz:12	v1424_NewQuestFlowCommonMessage.txz	この依頼は大事なものなんだから、\n破棄しちゃダメよ？\nちゃーんと責任持ってね！\nしたいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n早くクエスト達成したいな。（仮）\n\n\n	This request is important,\nso don't abandon it!\nTake responsibility!\nwanna complete it. (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\nWanna finish this quest! (temp)\n\n\n	Preserved repeated concatenated string from original data.	900
+v1424_NewQuestFlowMessage1.txz:0	v1424_NewQuestFlowMessage1.txz	ありがとう。\nじゃあ、お願いするよ\n\n	Thanks.\nOK, please handle it.\n\n		38
+v1424_NewQuestFlowMessage1.txz:1	v1424_NewQuestFlowMessage1.txz	おっと、そう来なくっちゃな！\nじゃあ、頼んだぜ\n\n	That's the spirit!\nI'm counting on you!\n\n		50
+v1424_NewQuestFlowMessage1.txz:2	v1424_NewQuestFlowMessage1.txz	ありがとうございます。\nでは、後はあなたに一任します\n\n	Thank you very much.\nI will leave the rest to you.\n\n		56
+v1424_NewQuestFlowMessage1.txz:3	v1424_NewQuestFlowMessage1.txz	ありがとう。\n君が受けてくれるのなら、安心だな\n\n	Thanks.\nIf you're taking it, I'm at ease.\n\n		50
+v1424_NewQuestFlowMessage1.txz:4	v1424_NewQuestFlowMessage1.txz	サンキュー♪\n心配しないで。\n報酬は、ちゃーんと出してあげるわよ\n	Thank you~\nDon't worry, I'll pay you well!\n\n		66
+v1424_NewQuestFlowMessage1.txz:5	v1424_NewQuestFlowMessage1.txz	感謝するよ。\n君になら、安心して仕事を任せられる\n\n	I'm grateful.\nI know I can trust you with this.\n\n		52
+v1424_NewQuestFlowMessage1.txz:6	v1424_NewQuestFlowMessage1.txz	おう、やってくれるんだな！？\nよぉっし、じゃあその腕見せてもらうぜ！\n\n	Oh, you'll do it?!\nAlright, show me what you got!\n\n		72
+v1424_NewQuestFlowMessage1.txz:7	v1424_NewQuestFlowMessage1.txz	お、受けてくれるんだな？\nへへ、やっぱお前に頼まなきゃ\n始まんねーもんな！\n	Oh, you'll take it?\nHeh, it wouldn't start without you!\n\n		76
+v1424_NewQuestFlowMessage1.txz:8	v1424_NewQuestFlowMessage1.txz	わあ、ありがとう！\nじゃあ、期待してるからね！\n\n	Wow, thanks!\nI'm counting on you!\n\n		50
+v1424_NewQuestFlowMessage1.txz:9	v1424_NewQuestFlowMessage1.txz	では、確かにお願いしましたよ！\n\n\n	Then, I have made the request.\n\n\n		36
+v1424_NewQuestFlowMessage1.txz:10	v1424_NewQuestFlowMessage1.txz	ありがとう。\nじゃあ、お互い頑張ろうね！\n\n	Thanks.\nLet's both do our best!\n\n		44
+v1424_NewQuestFlowMessage1.txz:11	v1424_NewQuestFlowMessage1.txz	そうか。\nお前が受ける、か…\n\n	I see.\nYou accept then...\n\n		32
+v1424_NewQuestFlowMessage1.txz:12	v1424_NewQuestFlowMessage1.txz	ありがとう。\nこれは、あんたに受けてもらいたかったんだ\n\n	Thanks.\nI really wanted you to take this.\n\n		58
+v1424_NewQuestFlowMessage1.txz:13	v1424_NewQuestFlowMessage1.txz	あら、この依頼を受けるなんて\n見る目あるじゃない？\nじゃあ、早速行ってもらうわよ\n	My, accepting this quest?\nYou have good eyes!\nGo right away!\n		82
+v1424_NewQuestFlowMessage1.txz:14	v1424_NewQuestFlowMessage1.txz	すまないな、こんな事頼んでさ。\n恩に着るよ\n\n	Sorry to ask this of you.\nI owe you one.\n\n		46
+v1424_NewQuestFlowMessage1.txz:15	v1424_NewQuestFlowMessage1.txz	やったぁ！\nじゃあ、頼んだよ。\n途中で止めるのはナシだからね！\n	Yay!\nI'm counting on you.\nNo quitting halfway!\n		64
+v1424_NewQuestFlowMessage1.txz:16	v1424_NewQuestFlowMessage1.txz	頼みを聞いてくれるのね。\nありがとう。\nそれじゃあ、頼んだわね\n	You'll hear my request?\nThank you.\nI'm counting on you.\n		64
+v1424_NewQuestFlowMessage1.txz:17	v1424_NewQuestFlowMessage1.txz	これを受けるか。\nすまんな…\n\n	Taking it?\nI'm sorry...\n\n		32
+v1424_NewQuestFlowMessage1.txz:18	v1424_NewQuestFlowMessage1.txz	ああ、ありがとう。\nあんたが受けてくれるのなら、\n本当に心強いよ\n	Ah, thank you.\nIt's truly reassuring that you took it.\n\n		66
+v1424_NewQuestFlowMessage1.txz:19	v1424_NewQuestFlowMessage1.txz	受けてくれるか。\nよろしく頼む\n\n	You'll take it?\nThanks.\n\n		34
+v1424_NewQuestFlowMessage1.txz:20	v1424_NewQuestFlowMessage1.txz	頼みを聞いてくれるか。\nお前の力なら問題ない。\nこちらとしても大船に乗ったつもりだ\n	You'll hear my request?\nWith your strength, there's no issue.\nI feel safe.\n		84
+v1424_NewQuestFlowMessage1.txz:21	v1424_NewQuestFlowMessage1.txz	すまないな。\nけど、受けた以上は最期まで\nやり切ってくれよ\n	Sorry about this.\nSince you took it, see it through.\n\n		60
+v1424_NewQuestFlowMessage1.txz:22	v1424_NewQuestFlowMessage1.txz	すまないな。\nけど、受けた以上は最後まで\nやり切ってくれよ\n	Sorry about this.\nSince you took it, see it through.\n\n		60
+v1424_NewQuestFlowMessage1.txz:23	v1424_NewQuestFlowMessage1.txz	感謝する。\nでは、お互いに\nいい成果にしようじゃないか\n	Thank you.\nLet's make sure this brings results.\n\n		56
+v1424_NewQuestFlowMessage1.txz:24	v1424_NewQuestFlowMessage1.txz	お、受けてくれるんだな！\nんじゃ、ちゃちゃっと頼むぜ\n\n	Oh, you'll take it!\nThen handle it quick!\n\n		56
+v1424_NewQuestFlowMessage1.txz:25	v1424_NewQuestFlowMessage1.txz	それは助かります。\nでは、あなたも準備はぬかりなく…\n\n	That is a great help.\nPlease prepare thoroughly.\n\n		56
+v1424_NewQuestFlowMessage1.txz:26	v1424_NewQuestFlowMessage1.txz	まあ…。\n御厚意、感謝しますわ\n\n	My...\nThank you kindly.\n\n		34
+v1424_NewQuestFlowMessage1.txz:27	v1424_NewQuestFlowMessage1.txz	受けてくれるか。\nこれは、おまえにしか頼めない事だからな\n\n	You'll take it?\nI could only ask this of you.\n\n		60
+v1424_NewQuestFlowMessage1.txz:28	v1424_NewQuestFlowMessage1.txz	へへっ。\nじゃあ、頼んだぜ！\n\n	Heh.\nI'm counting on you!\n\n		32
+v1424_NewQuestFlowMessage1.txz:29	v1424_NewQuestFlowMessage1.txz	ありがとう！\n君以外の人になんて、\nとても頼む勇気なかったから…\n	Thank you!\nI had no courage to ask anyone else...\n\n		66
+v1424_NewQuestFlowMessage1.txz:30	v1424_NewQuestFlowMessage1.txz	ヘッ、当然だよなぁ。\nダチの頼みだからよ！\n\n	Heh, of course!\nFriends help friends!\n\n		46
+v1424_NewQuestFlowMessage1.txz:31	v1424_NewQuestFlowMessage1.txz	この依頼を受けてくれるのね。\nそれじゃあ、速やかに仕事に\n取り掛かってね！\n	You'll accept this quest?\nThen please get to\nwork right away!\n		76
+v1424_NewQuestFlowMessage1.txz:32	v1424_NewQuestFlowMessage1.txz	では、報酬分の働きを期待しているぞ\n\n\n	I expect work worth the reward.\n\n\n		40
+v1424_NewQuestFlowMessage1.txz:33	v1424_NewQuestFlowMessage1.txz	じゃ、頑張ってくれよ。\n報酬も用意してあるからな\n\n	Give it your best.\nI've prepared a reward.\n\n		52
+v1424_NewQuestFlowMessage1.txz:34	v1424_NewQuestFlowMessage1.txz	ありがとうございます！\nやっぱり、○○は\n頼りになります\n	Thank you very much!\n○○ is truly reliable.\n\n		58
+v1424_NewQuestFlowMessage1.txz:35	v1424_NewQuestFlowMessage1.txz	う…、受けてくれるの！？\n…ううん、嫌じゃないよ！！\nちょっと…、びっくりしただけ…\n	Y-You'll take it?!\nNo, I'm not unhappy!\nI was just surprised...\n		86
+v1424_NewQuestFlowMessage1.txz:36	v1424_NewQuestFlowMessage1.txz	そうか。\nでは、早く行け。\n時間を無駄にしたくない\n	I see.\nThen go at once.\nDon't waste time.\n		52
+v1424_NewQuestFlowMessage1.txz:37	v1424_NewQuestFlowMessage1.txz	ホント！？\nうわあ、助かったよ。\n依頼を聞いてくれてありがとう\n	Really?!\nThat's a huge help.\nThank you for listening.\n		64
+v1424_NewQuestFlowMessage1.txz:38	v1424_NewQuestFlowMessage1.txz	すまない。\n仕事とはいえ、恩に着るよ\n\n	Sorry.\nWork or not, I owe you.\n\n		40
+v1424_NewQuestFlowMessage1.txz:39	v1424_NewQuestFlowMessage1.txz	あ、…うんっ！\nありがとう。\n私も頑張るよ！！\n	Ah... yes!\nThank you.\nI'll do my best too!\n		48
+v1424_NewQuestFlowMessage1.txz:40	v1424_NewQuestFlowMessage1.txz	受けてくれるか、しかし！\n\n\n	You accept, however!\n\n\n		30
+v1424_NewQuestFlowMessage1.txz:41	v1424_NewQuestFlowMessage1.txz	嬉しいキュ！\n助かったキュ〜\n\n	Happy, kyu!\nBig help, kyu~\n\n		32
+v1424_NewQuestFlowMessage1.txz:42	v1424_NewQuestFlowMessage1.txz	○○の協力に\n感謝するキュ〜〜〜！！\n\n\n	Thanks for the help, ○○, kyu~!\n\n\n\n		42
+v1424_NewQuestFlowMessage2.txz:0	v1424_NewQuestFlowMessage2.txz	そうか。\nでも、依頼は君が受けられる時で\n構わないから\n	I see.\nTake it whenever you are able.\n\n		56
+v1424_NewQuestFlowMessage2.txz:1	v1424_NewQuestFlowMessage2.txz	まあ、しょうがねえよな。\n手助けしてくれる奴を気長に待つさ\n\n	Well, can't be helped.\nI'll wait patiently for a hand.\n\n		62
+v1424_NewQuestFlowMessage2.txz:2	v1424_NewQuestFlowMessage2.txz	いえ、受けられないのであれば\n仕方ありません\n\n	No, if you cannot,\nit cannot be helped.\n\n		48
+v1424_NewQuestFlowMessage2.txz:3	v1424_NewQuestFlowMessage2.txz	また、依頼を見に来てくれよ。\n気が乗ったら受けてくれ\n\n	Check again later.\nTake it if you want.\n\n		56
+v1424_NewQuestFlowMessage2.txz:4	v1424_NewQuestFlowMessage2.txz	ま、ダメなら今回は仕方ないわね。\nそのうち受けてくれたらいいわ\n\n	Well, if you can't, it's fine.\nTake it whenever you can.\n\n		66
+v1424_NewQuestFlowMessage2.txz:5	v1424_NewQuestFlowMessage2.txz	なあに、気にしないでくれ。\n受けたくなった時で構わないさ\n\n	Don't mind it.\nTake it whenever you like.\n\n		60
+v1424_NewQuestFlowMessage2.txz:6	v1424_NewQuestFlowMessage2.txz	おうおう、\n俺様の依頼は受けられねえってのか！？\nチンケな野郎だぜ！\n	What, you won't take my request?!\nYou small-time punk!\n\n		70
+v1424_NewQuestFlowMessage2.txz:7	v1424_NewQuestFlowMessage2.txz	今は受けられないか。\nうーん、ちょっと期待してたんだけどな。\nま、しょうがねえよな\n	Can't take it now, huh?\nI had high hopes, but oh well.\nCan't be helped.\n		84
+v1424_NewQuestFlowMessage2.txz:8	v1424_NewQuestFlowMessage2.txz	うん、わかった。\nそんなに急いでるわけじゃないから、\n今度受けに来てくれたらいいかな\n	Alright, I understand.\nIt's not urgent, so come take it later.\n\n		86
+v1424_NewQuestFlowMessage2.txz:9	v1424_NewQuestFlowMessage2.txz	あまり気乗りしませんか？\nまあ、受けたいと思ったら\nまた来てください\n	Not feeling it?\nWell, if you want to take it, come back.\n\n		70
+v1424_NewQuestFlowMessage2.txz:10	v1424_NewQuestFlowMessage2.txz	えっ…、そうなの？\n依頼を聞いてくれると思ったのになぁ\n\n	Eh... really?\nAnd here I thought you'd hear me out.\n\n		58
+v1424_NewQuestFlowMessage2.txz:11	v1424_NewQuestFlowMessage2.txz	この依頼は、お前に受けて欲しいんだがな。\nまあいい…\n\n	I wanted you to take this request.\nOh well...\n\n		56
+v1424_NewQuestFlowMessage2.txz:12	v1424_NewQuestFlowMessage2.txz	まあ、受けられないならいいよ。\n興味がわいたら、来ておくれ\n\n	If you can't, it's fine.\nCome back if interested.\n\n		62
+v1424_NewQuestFlowMessage2.txz:13	v1424_NewQuestFlowMessage2.txz	う〜ん、私からの依頼は\n琴線に触れなかった？\n\n	Hmm, my request didn't\nappeal to you?\n\n		48
+v1424_NewQuestFlowMessage2.txz:14	v1424_NewQuestFlowMessage2.txz	今は受けられないか…。\n出来れば、力を借りたいんだけどな\n\n	Can't take it now, huh?\nI'd love your help, though.\n\n		60
+v1424_NewQuestFlowMessage2.txz:15	v1424_NewQuestFlowMessage2.txz	そ、そう？\n受けてくれたら助かったんだけど…\n\n	I-Is that so?\nIt would have helped, but...\n\n		48
+v1424_NewQuestFlowMessage2.txz:16	v1424_NewQuestFlowMessage2.txz	いえ、よくてよ。\nあなたは自分に合った仕事をすればいいわ\n\n	No, that's fine.\nDo work that suits you.\n\n		60
+v1424_NewQuestFlowMessage2.txz:17	v1424_NewQuestFlowMessage2.txz	そうか。\nならば、今回はいい。\nいずれ受けてもらう\n	I see.\nNever mind for now.\nTake it later.\n		52
+v1424_NewQuestFlowMessage2.txz:18	v1424_NewQuestFlowMessage2.txz	そうかい、残念だね。\nでも、無理を言うわけにも行かないからねえ…\n\n	I see, too bad.\nCan't force you, after all...\n\n		68
+v1424_NewQuestFlowMessage2.txz:19	v1424_NewQuestFlowMessage2.txz	あくまで依頼だ、強制じゃない。\nやらないのなら、それでもいい\n\n	It's a request, not an order.\nIf you won't, it's fine.\n\n		64
+v1424_NewQuestFlowMessage2.txz:20	v1424_NewQuestFlowMessage2.txz	それでいい。\n無理に何でも引き受けるのは\nいい事ではないからな\n	That is fine.\nTaking on everything\nis not a good idea.\n		64
+v1424_NewQuestFlowMessage2.txz:21	v1424_NewQuestFlowMessage2.txz	そっか〜…。\nあんまりこの依頼にはピンと来ないか…\n\n	I see...\nDoesn't really appeal to you, huh?\n\n		54
+v1424_NewQuestFlowMessage2.txz:22	v1424_NewQuestFlowMessage2.txz	そうか。\nお前なら受けてくれると思ったんだが…\n\n	I see.\nThought you'd take it, but...\n\n		50
+v1424_NewQuestFlowMessage2.txz:23	v1424_NewQuestFlowMessage2.txz	そうか。\nでは、気長に待とう。\nいずれ誰かが受けてくれるだろう\n	I see.\nI shall wait patiently.\nSomeone will take it.\n		64
+v1424_NewQuestFlowMessage2.txz:24	v1424_NewQuestFlowMessage2.txz	あ？　テメェ、何しに来たんだよ！\n俺の依頼を受けに来たんじゃねーのかよ！！\n\n	Huh?! What'd you come here for then?!\nWeren't you gonna take my request?!\n\n		78
+v1424_NewQuestFlowMessage2.txz:25	v1424_NewQuestFlowMessage2.txz	まあ、そんなに面白い依頼でもありませんし。\nいいですよ、他に受けてくれる者を\n待ちますから\n	Well, it's not a particularly fun request.\nIt's fine, I'll wait for someone else.\n\n		92
+v1424_NewQuestFlowMessage2.txz:26	v1424_NewQuestFlowMessage2.txz	そうですか。\nこの依頼とは縁がなかったのですわね\n\n	I see.\nFate was not with this request, then.\n\n		52
+v1424_NewQuestFlowMessage2.txz:27	v1424_NewQuestFlowMessage2.txz	では、仕方がない。\nその力を借りられたらと思ったが…\n\n	Can't be helped.\nI had hoped for your aid...\n\n		56
+v1424_NewQuestFlowMessage2.txz:28	v1424_NewQuestFlowMessage2.txz	そっか、じゃあしょうがないな。\nそのうち依頼を聞いてくれたら\n助かるんだけど\n	I see, can't be helped.\nIt'd help if you took it eventually, though.\n\n		78
+v1424_NewQuestFlowMessage2.txz:29	v1424_NewQuestFlowMessage2.txz	そっか、僕の依頼なんて\n興味ないよね…\n\n	Not interested in\nmy request, huh...\n\n		42
+v1424_NewQuestFlowMessage2.txz:30	v1424_NewQuestFlowMessage2.txz	チェッ、冷やかしかよ。\nつまんねぇの！\n\n	Tch, just browsing?\nHow boring!\n\n		42
+v1424_NewQuestFlowMessage2.txz:31	v1424_NewQuestFlowMessage2.txz	ダメなの？　ケチー…。\nいいもん、他に頼むから\n\n	No?\nStingy...\nFine, I'll ask someone else.\n		50
+v1424_NewQuestFlowMessage2.txz:32	v1424_NewQuestFlowMessage2.txz	そうか、ならばいい。\n仕事を見極めるのも大事だからな\n\n	I see, fine.\nChoosing your work is key.\n\n		56
+v1424_NewQuestFlowMessage2.txz:33	v1424_NewQuestFlowMessage2.txz	ああ、だったら他を当たるさ\n\n\n	Yeah, I'll ask another.\n\n\n		32
+v1424_NewQuestFlowMessage2.txz:34	v1424_NewQuestFlowMessage2.txz	そうですか。\n残念です…\n\n	I see.\nToo bad...\n\n		28
+v1424_NewQuestFlowMessage2.txz:35	v1424_NewQuestFlowMessage2.txz	そ、そうだよね…。\nこんな頼みは聞いてもらえないよね…\n\n	R-Right...\nGuess you wouldn't hear such a plea...\n\n		58
+v1424_NewQuestFlowMessage2.txz:36	v1424_NewQuestFlowMessage2.txz	だったらいい。\n俺も遊び半分で受けて欲しくはないからな\n\n	Then fine.\nI don't want half-hearted help anyway.\n\n		58
+v1424_NewQuestFlowMessage2.txz:37	v1424_NewQuestFlowMessage2.txz	困ったな。\n誰か力になってくれないかなあ…\n\n	Trouble here.\nHope someone helps...\n\n		46
+v1424_NewQuestFlowMessage2.txz:38	v1424_NewQuestFlowMessage2.txz	わかった。\nならば、受けてくれるまで待とう\n\n	Understood.\nI'll wait till you take it.\n\n		46
+v1424_NewQuestFlowMessage2.txz:39	v1424_NewQuestFlowMessage2.txz	じゃあ、また今度ね。\nううん、いいの。\n気にしないでね！\n	Then next time.\nNo, it's fine.\nDon't worry about it!\n		58
+v1424_NewQuestFlowMessage2.txz:40	v1424_NewQuestFlowMessage2.txz	ヒドイ奴だな、しかし。\nしかし、いずれ受けてもらうぞ\n\n	Cruel, however!\nYou will take it eventually!\n\n		56
+v1424_NewQuestFlowMessage2.txz:41	v1424_NewQuestFlowMessage2.txz	それはしょうがないキュ…。\nまたよろしくお願いするキュ\n\n	Can't be helped, kyu...\nPlease help next time, kyu!\n\n		58
+v1424_NewQuestFlowMessage2.txz:42	v1424_NewQuestFlowMessage2.txz	残念だキュ…。\nまた今度にでもお願いするキュ…\n\n\n\n	Too bad, kyu...\nAsk again next time, kyu...\n\n\n\n		54
+v1424_NewQuestFlowMessage3.txz:0	v1424_NewQuestFlowMessage3.txz	そうか。\nじゃあ、君の都合が付く時にまた頼むよ\n\n	I see.\nThen ask again when you have time.\n\n		50
+v1424_NewQuestFlowMessage3.txz:1	v1424_NewQuestFlowMessage3.txz	なるべくなら、\nお前に受けて欲しかったんだがな。\nじゃあ、そのうちオレの依頼も受けてくれ\n	I really wanted you to take it, but oh well.\nTake my request next time.\n\n		90
+v1424_NewQuestFlowMessage3.txz:2	v1424_NewQuestFlowMessage3.txz	そうですか。\nでは、機会があればお願いします\n\n	I see.\nAnother time then, please.\n\n		48
+v1424_NewQuestFlowMessage3.txz:3	v1424_NewQuestFlowMessage3.txz	そっか。\nまあ、仕方ないか。\nじゃあ、今度また頼む事にするよ\n	I see.\nWell, can't be helped.\nI'll ask again next time.\n		62
+v1424_NewQuestFlowMessage3.txz:4	v1424_NewQuestFlowMessage3.txz	うーん、受けてくれると思ったんだけど。\nま、今回は諦めるわ。\nその代わり、次の機会にでもお願いね\n	Hmm, thought you'd do it.\nWell, giving up for now.\nAsk again next time!\n		98
+v1424_NewQuestFlowMessage3.txz:5	v1424_NewQuestFlowMessage3.txz	まあ、君にも都合というものがあるからな。\n残念だが、また今度にでも頼むよ\n\n	Well, you have your own matters.\nToo bad, but another time then.\n\n		76
+v1424_NewQuestFlowMessage3.txz:6	v1424_NewQuestFlowMessage3.txz	俺様の依頼が受けられねえだと？\nだったらとっとと消えやがれ！\n\n	Can't take my request?!\nThen get lost already!\n\n		64
+v1424_NewQuestFlowMessage3.txz:7	v1424_NewQuestFlowMessage3.txz	まあ、いいさ。\nどうしてもってワケでもねぇし。\nまた今度頼むぜ\n	Well, that's fine.\nWasn't urgent anyway.\nNext time then!\n		64
+v1424_NewQuestFlowMessage3.txz:8	v1424_NewQuestFlowMessage3.txz	うーん、残念だなぁ。\nじゃあ、暇な時にまた受けてね\n\n	Hmm, too bad.\nTake it when you're free, okay?\n\n		54
+v1424_NewQuestFlowMessage3.txz:9	v1424_NewQuestFlowMessage3.txz	そうですか…。\nでは、またの機会にでもお願いします\n\n	I see...\nThen please, if another chance arises.\n\n		54
+v1424_NewQuestFlowMessage3.txz:10	v1424_NewQuestFlowMessage3.txz	えっ…、受けてくれると思ったのに。\nしょうがないや。\nじゃあ、今度付き合ってくれよな！\n	Eh... thought you'd do it.\nCan't be helped.\nJoin me next time!\n		88
+v1424_NewQuestFlowMessage3.txz:11	v1424_NewQuestFlowMessage3.txz	しょうがない奴だな…。\nまあいい。\nまた機会はあるだろう\n	Hopeless fool...\nOh well.\nThere'll be other chances.\n		58
+v1424_NewQuestFlowMessage3.txz:12	v1424_NewQuestFlowMessage3.txz	そうかい、残念だね。\nまあ、他にやる事があるんだろ？\nだったら、そっちを優先しな\n	I see, too bad.\nYou got other things to do, right?\nPrioritize those then.\n		82
+v1424_NewQuestFlowMessage3.txz:13	v1424_NewQuestFlowMessage3.txz	ま、いいわ。\n無理強いしてもしょうがないし。\nまた受けに来てくれればいいわ\n	Well, fine.\nNo point forcing you.\nJust come take it another time.\n		76
+v1424_NewQuestFlowMessage3.txz:14	v1424_NewQuestFlowMessage3.txz	そうか、今は無理なんだな。\nそれでも○○の力を借りたいから、\nまた受けに来てくれよ\n	I see, can't right now.\nStill want ○○'s help, though,\nso come take it again!\n		84
+v1424_NewQuestFlowMessage3.txz:15	v1424_NewQuestFlowMessage3.txz	ええ、せっかく受けてくれたのに…。\nひどいや…\n\n	Aww, and after you accepted...\nHow mean...\n\n		50
+v1424_NewQuestFlowMessage3.txz:16	v1424_NewQuestFlowMessage3.txz	どうしてもと言うのなら、仕方ないわ。\nそれじゃ、またの機会に\n\n	If you must, it can't be helped.\nUntil next time, then.\n\n		64
+v1424_NewQuestFlowMessage3.txz:17	v1424_NewQuestFlowMessage3.txz	この依頼を破棄するか。\n仕方ない。\n別の機会に頼むとしよう\n	Abandoning it?\nCan't be helped.\nAnother time then.\n		60
+v1424_NewQuestFlowMessage3.txz:18	v1424_NewQuestFlowMessage3.txz	はぁ…、やっぱり駄目かい。\nしょうがないね…。\nじゃあ、今度にでも受けておくれよ\n	Sigh... no good, huh?\nCan't be helped...\nTake it another time, okay?\n		82
+v1424_NewQuestFlowMessage3.txz:19	v1424_NewQuestFlowMessage3.txz	そうか…。\n気が変わって、また受けてくれれば\nそれでいい\n	I see...\nTake it again if you wish,\nthat's fine.\n		58
+v1424_NewQuestFlowMessage3.txz:20	v1424_NewQuestFlowMessage3.txz	…まいったな。\nしかし、受けられないと言うなら仕方ない。\nでは、機会があったらまた頼む\n	Troublesome...\nIf you can't, it can't be helped.\nI'll ask another time.\n		88
+v1424_NewQuestFlowMessage3.txz:21	v1424_NewQuestFlowMessage3.txz	おいおい、一旦受けといてそりゃないぜ。\nまあ、他に用があるならしょうがねえな…。\nまた、受けに来てくれよ\n	Hey, dropping it after accepting?\nWell, if you have other business, fine.\nCome back again!\n		106
+v1424_NewQuestFlowMessage3.txz:22	v1424_NewQuestFlowMessage3.txz	今回は力になれないってのか？\nしょうがないな。\nさて、どうするか…\n	Can't lend a hand this time?\nCan't be helped.\nNow what to do...\n		68
+v1424_NewQuestFlowMessage3.txz:23	v1424_NewQuestFlowMessage3.txz	…そうか、残念だ。\nしかし、途中で依頼を破棄するのは感心せんな\n\n	I see, too bad.\nAbandoning a quest halfway isn't admirable.\n\n		66
+v1424_NewQuestFlowMessage3.txz:24	v1424_NewQuestFlowMessage3.txz	馬鹿言ってんじゃねえよ！\nだったら最初から受けるなっつーの！\n\n	Don't talk nonsense!\nDon't accept in the first place then!\n\n		64
+v1424_NewQuestFlowMessage3.txz:25	v1424_NewQuestFlowMessage3.txz	おやおや、私の依頼は重要ではないと。\n残念ですねえ…。\nもっといい仕事でも入ったのですか？\n	Oh dear, my request isn't important?\nToo bad...\nDid you get a better job?\n		92
+v1424_NewQuestFlowMessage3.txz:26	v1424_NewQuestFlowMessage3.txz	そうですか…、仕方ありませんわ。\nでは、別の機会に受けてくださいませ\n\n	I see... it can't be helped.\nPlease accept on another occasion.\n\n		72
+v1424_NewQuestFlowMessage3.txz:27	v1424_NewQuestFlowMessage3.txz	そうか。\nその力を借りたかったのだが…。\nでは、またの機会にしよう\n	I see.\nI wanted your help...\nAnother time, then.\n		68
+v1424_NewQuestFlowMessage3.txz:28	v1424_NewQuestFlowMessage3.txz	何だよ、期待してたのに。\n仕方ないな、自分で何とかやってみるさ…\n\n	What, had high hopes.\nCan't be helped, I'll manage somehow...\n\n		68
+v1424_NewQuestFlowMessage3.txz:29	v1424_NewQuestFlowMessage3.txz	ええ、破棄するの？\nひどいなぁ、もう…。\n信頼してたのに\n	Abandoning it?\nHow mean, really...\nAnd I trusted you.\n		58
+v1424_NewQuestFlowMessage3.txz:30	v1424_NewQuestFlowMessage3.txz	ああ、やっぱ止めるだぁ？\nテメェ、スジ通せよな…。\n今度埋め合わせしてもらうぜ\n	Ah, quitting after all?\nShow some backbone...\nMake it up to me next time!\n		80
+v1424_NewQuestFlowMessage3.txz:31	v1424_NewQuestFlowMessage3.txz	依頼を破棄しちゃうの？\nせっかく、報酬弾んであげようと\n思ってたのになぁ〜\n	Abandoning it?\nAnd here I was thinking\nof giving a big reward...\n		76
+v1424_NewQuestFlowMessage3.txz:32	v1424_NewQuestFlowMessage3.txz	構わんさ。\nこっちも報酬代が浮いたからな\n\n	Fine.\nSaves me the reward money.\n\n		44
+v1424_NewQuestFlowMessage3.txz:33	v1424_NewQuestFlowMessage3.txz	しょうがねえな。\nじゃあ、今度また頼むわ\n\n	Can't be helped.\nNext time, then.\n\n		44
+v1424_NewQuestFlowMessage3.txz:34	v1424_NewQuestFlowMessage3.txz	ひどいです…。\nもっと責任を持って依頼を受けてください\n\n	How cruel...\nTake requests responsibly.\n\n		58
+v1424_NewQuestFlowMessage3.txz:35	v1424_NewQuestFlowMessage3.txz	えぇぇ…、そんな……。\nせっかく勇気を出して頼んだのに…\n\n	No way...\nAfter working up courage to ask...\n\n		60
+v1424_NewQuestFlowMessage3.txz:36	v1424_NewQuestFlowMessage3.txz	そうか…。\nだったら、おまえに用はない\n\n	I see...\nThen I have no use for you.\n\n		42
+v1424_NewQuestFlowMessage3.txz:37	v1424_NewQuestFlowMessage3.txz	そっか、残念だなあ。\nでも、また受けに来てくれよ。\nオレ、いつでも待ってるから！\n	I see, too bad.\nCome take it again though.\nI'll always be waiting!\n		82
+v1424_NewQuestFlowMessage3.txz:38	v1424_NewQuestFlowMessage3.txz	そうか、○○なら\nやり遂げてくれると思ったんだが。\n仕方ないな…\n	I see, thought ○○\nwould see it through.\nCan't be helped...\n		66
+v1424_NewQuestFlowMessage3.txz:39	v1424_NewQuestFlowMessage3.txz	ううん、気にしてないよ。\nあなたは、あなたがしたい事をすればいいよ。\nじゃ、またね！\n	No, don't worry about it.\nJust do whatever it is you want to do.\nSee you later!\n		86
+v1424_NewQuestFlowMessage3.txz:40	v1424_NewQuestFlowMessage3.txz	無責任な奴だな、しかし。\n食い物の恨みは恐ろしいんだぞ、しかし！\n\n	Irresponsible, however!\nFood grudges are terrifying, however!\n\n		68
+v1424_NewQuestFlowMessage3.txz:41	v1424_NewQuestFlowMessage3.txz	しょうがないキュ…。\nそれじゃあ、他を当たってみるキュ。\n\n	Can't be helped, kyu...\nI'll ask someone else, kyu.\n\n		60
+v1424_NewQuestFlowMessage3.txz:42	v1424_NewQuestFlowMessage3.txz	キュ〜…、武器強化への道が遠のいたキュ。\nでも、また今度受けに来てくれたら\n嬉しいキュ！\nしいキュ！\n	Path to weapons is far, kyu...\nGlad if you come again!\nGlad, kyu!\nNext time, kyu!\n		102
+v1424_NewQuestFlowMessage4.txz:0	v1424_NewQuestFlowMessage4.txz	それじゃ、この依頼のお礼を渡さないとね\n\n\n	Now then, here is your thanks.\n\n\n		44
+v1424_NewQuestFlowMessage4.txz:1	v1424_NewQuestFlowMessage4.txz	おっと、忘れないうちに報酬を渡さないとな\n\n\n	Oops, gotta hand over the reward!\n\n\n		46
+v1424_NewQuestFlowMessage4.txz:2	v1424_NewQuestFlowMessage4.txz	では、今回の報酬を渡さなくてはいけませんね\n\n\n	Now, I must hand over your reward.\n\n\n		48
+v1424_NewQuestFlowMessage4.txz:3	v1424_NewQuestFlowMessage4.txz	今日は、ありがとう。\n報酬を渡さないとね\n\n	Thanks today.\nMust give your reward.\n\n		44
+v1424_NewQuestFlowMessage4.txz:4	v1424_NewQuestFlowMessage4.txz	さてと、報酬を渡さないとね！\n\n\n	Now, gotta hand over pay!\n\n\n		34
+v1424_NewQuestFlowMessage4.txz:5	v1424_NewQuestFlowMessage4.txz	さて、君には今回の礼をしなくては\nならないな\n\n	Now, I must thank you for this job.\n\n\n		48
+v1424_NewQuestFlowMessage4.txz:6	v1424_NewQuestFlowMessage4.txz	おう、今日は楽しかったぜ。\n俺様からの報酬を受け取りな！\n\n	That was fun today.\nTake this reward from me!\n\n		60
+v1424_NewQuestFlowMessage4.txz:7	v1424_NewQuestFlowMessage4.txz	ああ、依頼を済ませてもらったから\n報酬を渡さないとな\n\n	Ah, quest is done, gotta give your reward.\n\n\n		56
+v1424_NewQuestFlowMessage4.txz:8	v1424_NewQuestFlowMessage4.txz	えっと。\nじゃあ、報酬を渡さなくっちゃね！\n\n	Umm.\nThen I gotta hand over the reward!\n\n		46
+v1424_NewQuestFlowMessage4.txz:9	v1424_NewQuestFlowMessage4.txz	今日はありがとうございました。\nでは、ボクからの報酬を受け取ってください\n\n	Thank you for today.\nPlease accept my reward.\n\n		76
+v1424_NewQuestFlowMessage4.txz:10	v1424_NewQuestFlowMessage4.txz	そうだ、報酬を渡さないとね\n\n\n	Right, here is your pay!\n\n\n		32
+v1424_NewQuestFlowMessage4.txz:11	v1424_NewQuestFlowMessage4.txz	付き合わせてすまなかった。\n礼を渡そう\n\n	Thanks for coming along.\nHere.\n\n		42
+v1424_NewQuestFlowMessage4.txz:12	v1424_NewQuestFlowMessage4.txz	付き合ってくれて感謝するよ。\nじゃあ、報酬を渡さないとね\n\n	Thanks for tagging along.\nNow, gotta give your reward.\n\n		60
+v1424_NewQuestFlowMessage4.txz:13	v1424_NewQuestFlowMessage4.txz	ああ、そうそう。\n手を貸してくれたんだから\n報酬を渡さないとね♪\n	Ah, right.\nYou lent a hand, so here's your reward~\n\n		66
+v1424_NewQuestFlowMessage4.txz:14	v1424_NewQuestFlowMessage4.txz	今日はサンキュな。\nじゃあ、報酬を受け取ってくれよ\n\n	Thanks for today.\nTake your reward, now.\n\n		54
+v1424_NewQuestFlowMessage4.txz:15	v1424_NewQuestFlowMessage4.txz	えっと、今日は付き合ってくれて\n助かったよ。\nそれじゃ、ボクからの報酬を渡すね\n	Umm, thanks for joining me today, it helped.\nHere is my reward for you.\n\n		80
+v1424_NewQuestFlowMessage4.txz:16	v1424_NewQuestFlowMessage4.txz	今日はありがとう。\nこれからも頼りにしていてよ？\nそれじゃあ、報酬を渡すわね\n	Thanks for today.\nKeep relying on me, okay?\nHere is your reward.\n		78
+v1424_NewQuestFlowMessage4.txz:17	v1424_NewQuestFlowMessage4.txz	世話になったな。\n受け取れ。\n今日の報酬だ…\n	You helped.\nTake it.\nToday's reward...\n		46
+v1424_NewQuestFlowMessage4.txz:18	v1424_NewQuestFlowMessage4.txz	力になってくれてありがとう。\nええっと、今日の報酬を\n渡さないといけないね\n	Thanks for lending a hand.\nUmm, must give you today's reward.\n\n		76
+v1424_NewQuestFlowMessage4.txz:19	v1424_NewQuestFlowMessage4.txz	いつも、力を借りてばかりだな。\nすまない。\nオレからの報酬を受け取ってくれ\n	Always borrowing your strength.\nSorry.\nTake my reward.\n		76
+v1424_NewQuestFlowMessage4.txz:20	v1424_NewQuestFlowMessage4.txz	いつもすまんな。\nでは、俺からの報酬だ\n\n	Thanks as always.\nHere's your reward.\n\n		42
+v1424_NewQuestFlowMessage4.txz:21	v1424_NewQuestFlowMessage4.txz	今日はいい汗かいたぜ。\nおっと、いけねえ。\n報酬を渡さないとな\n	Worked up a sweat.\nWhoops, gotta give your reward.\n\n		64
+v1424_NewQuestFlowMessage4.txz:22	v1424_NewQuestFlowMessage4.txz	今日はお前も疲れただろ？\nそれと、これは俺からだ。\n取っておいてくれ\n	Tired today, aren't you?\nAnd this is from me.\nKeep it.\n		70
+v1424_NewQuestFlowMessage4.txz:23	v1424_NewQuestFlowMessage4.txz	君もいい仕事をしてくれるな。\nでは、オレからのお礼だ。\n受け取ってくれ\n	You do good work too.\nHere's a thank-you from me.\nTake it.\n		72
+v1424_NewQuestFlowMessage4.txz:24	v1424_NewQuestFlowMessage4.txz	ま、一応頼みは聞いてもらったわけだしな。\n報酬くらい、取っとけよ\n\n	Well, you heard my plea.\nTake this reward at least.\n\n		68
+v1424_NewQuestFlowMessage4.txz:25	v1424_NewQuestFlowMessage4.txz	ああ、依頼の報酬です。\n受け取ってください\n\n	Ah, the quest reward.\nPlease take it.\n\n		46
+v1424_NewQuestFlowMessage4.txz:26	v1424_NewQuestFlowMessage4.txz	あなたには礼を。\nどうぞ。\n依頼の報酬を差し上げますわ\n	My thanks.\nHere you are.\nYour quest reward.\n		56
+v1424_NewQuestFlowMessage4.txz:27	v1424_NewQuestFlowMessage4.txz	さあ、受け取ってくれ。\n私からの報酬だ\n\n	Here, take it.\nMy reward to you.\n\n		42
+v1424_NewQuestFlowMessage4.txz:28	v1424_NewQuestFlowMessage4.txz	ありがとう。\nええと、依頼の報酬を渡さないとな！\n\n	Thanks.\nUmm, gotta hand over the quest reward!\n\n		52
+v1424_NewQuestFlowMessage4.txz:29	v1424_NewQuestFlowMessage4.txz	ごめんね、依頼を受けてくれて。\nえっと…、報酬を渡さないと…\n\n	Sorry for asking you to take it.\nUmm... must give reward...\n\n		64
+v1424_NewQuestFlowMessage4.txz:30	v1424_NewQuestFlowMessage4.txz	おい。\n依頼の礼だ、取っとけよ\n\n	Hey.\nHere's your pay.\n\n		34
+v1424_NewQuestFlowMessage4.txz:31	v1424_NewQuestFlowMessage4.txz	お疲れさま。\nこれで、この仕事は終わりね\n\n	Good job.\nThis job is done now.\n\n		44
+v1424_NewQuestFlowMessage4.txz:32	v1424_NewQuestFlowMessage4.txz	報酬だ。\n依頼分の働きは見せてもらったからな\n\n	Your reward.\nI saw work worth the request.\n\n		48
+v1424_NewQuestFlowMessage4.txz:33	v1424_NewQuestFlowMessage4.txz	ああ、報酬を渡さないとな。\nほら、受け取んな\n\n	Ah, gotta hand over the pay.\nHere, take it.\n\n		48
+v1424_NewQuestFlowMessage4.txz:34	v1424_NewQuestFlowMessage4.txz	どうも、ありがとうございます。\n報酬、受け取ってくれます？\n\n	Thank you very much.\nWill you accept the reward?\n\n		62
+v1424_NewQuestFlowMessage4.txz:35	v1424_NewQuestFlowMessage4.txz	えっと…、ありがとう…。\nお礼、渡さなくっちゃね\n\n	Umm... thanks...\nMust hand over thanks...\n\n		52
+v1424_NewQuestFlowMessage4.txz:36	v1424_NewQuestFlowMessage4.txz	依頼の礼だ。\n早く受け取れ\n\n	Quest pay.\nTake it quick.\n\n		30
+v1424_NewQuestFlowMessage4.txz:37	v1424_NewQuestFlowMessage4.txz	頼みを聞いてくれてありがとう。\nじゃあ、お礼を渡すよ！\n\n	Thanks for hearing my request.\nHere's a thank-you!\n\n		58
+v1424_NewQuestFlowMessage4.txz:38	v1424_NewQuestFlowMessage4.txz	今回の依頼は、○○にしか\n頼めなかったよ。\nさあ、報酬を受け取ってくれ\n	Could only ask ○○\nfor this quest.\nNow, take your reward.\n		72
+v1424_NewQuestFlowMessage4.txz:39	v1424_NewQuestFlowMessage4.txz	あなたと過ごせて楽しかった。\nこれ、私からのお礼なんだけど…、\n受け取ってくれるかな？\n	Fun spending time with you.\nThis is my thanks...\nWill you accept it?\n		88
+v1424_NewQuestFlowMessage4.txz:40	v1424_NewQuestFlowMessage4.txz	報酬だぞ、しかし。\nありがたく受け取っておくんだな\n\n	Your reward, however!\nReceive it with gratitude!\n\n		54
+v1424_NewQuestFlowMessage4.txz:41	v1424_NewQuestFlowMessage4.txz	依頼を聞いてくれてありがとうキュ！\nキュッポからの報酬を\n受け取って欲しいキュ！\n	Thanks for hearing my quest, kyu!\nPlease accept Kyuppo's reward, kyu!\n\n		82
+v1424_NewQuestFlowMessage4.txz:42	v1424_NewQuestFlowMessage4.txz	これはポッポからのお礼だキュ！\n○○にあげるキュ！\n\n	Thanks from Poppo, kyu!\nFor you, ○○, kyu!\n\n		54
+v1424_NewQuestFlowMessage5.txz:0	v1424_NewQuestFlowMessage5.txz	おや？\n荷物がいっぱいみたいだね。\n整理してまた来てくれるかな\n	Oh?\nYour bag looks full.\nSort it and come back.\n		64
+v1424_NewQuestFlowMessage5.txz:1	v1424_NewQuestFlowMessage5.txz	…っと、荷物がいっぱいみたいだな。\nちょっと整理してきな。\n報酬を渡すのはそれからだ\n	Whoa, bag's full.\nGo sort it out.\nReward comes after that.\n		86
+v1424_NewQuestFlowMessage5.txz:2	v1424_NewQuestFlowMessage5.txz	あなたの荷物がいっぱいの様ですね。\nそれでは、荷物の整理をお願いします。\n報酬はその後に渡しましょう\n	Your bag appears to be full.\nPlease sort your items.\nI will give your reward after.\n		102
+v1424_NewQuestFlowMessage5.txz:3	v1424_NewQuestFlowMessage5.txz	うん？\n荷物がいっぱいだね。\nじゃあ、整理してからまたおいでよ\n	Hm?\nYour bag is full.\nCome back after sorting it.\n		64
+v1424_NewQuestFlowMessage5.txz:4	v1424_NewQuestFlowMessage5.txz	あらら、こんな時に荷物がいっぱいなの？\n報酬を渡したいんだけど、\nちょっと整理してくれなきゃ無理だわ\n	Oh dear, bag's full now?\nI wanna give your reward,\nbut can't unless you sort it!\n		102
+v1424_NewQuestFlowMessage5.txz:5	v1424_NewQuestFlowMessage5.txz	いや、荷物がいっぱいの様だね。\nふむ、これでは渡せないな。\nでは、整理をしてまた来てくれないか\n	No, your bag looks full.\nHm, can't give it like this.\nSort it and come back, please.\n		96
+v1424_NewQuestFlowMessage5.txz:6	v1424_NewQuestFlowMessage5.txz	何でぇ、荷物がいっぱいってのか？\nじゃあ、整理してからまた来な！\n\n	What, your bag is full?!\nGo sort it and come back!\n\n		68
+v1424_NewQuestFlowMessage5.txz:7	v1424_NewQuestFlowMessage5.txz	おいおい、荷物がいっぱいじゃねえか。\nまいったな。\nじゃあ、整理してからまた来いよ\n	Whoa, bag's totally full.\nTroublesome.\nGo sort it and come back.\n		84
+v1424_NewQuestFlowMessage5.txz:8	v1424_NewQuestFlowMessage5.txz	あ、待って。\nあなたの荷物を整理しなきゃ。\nそんなにいっぱいだと報酬を渡せないよ\n	Ah, wait.\nMust sort your bag.\nCan't give reward if it's so full!\n		82
+v1424_NewQuestFlowMessage5.txz:9	v1424_NewQuestFlowMessage5.txz	おや？　荷物がいっぱいなんですか？\nそれでは報酬を渡せませんよ。\n整理してきてください\n	Oh? Your bag is full?\nCan't give your reward then.\nGo sort it, please.\n		88
+v1424_NewQuestFlowMessage5.txz:10	v1424_NewQuestFlowMessage5.txz	えっ？　受け取れない？\nああ、荷物がいっぱいなんだね。\nそれじゃ、整理してから受け取りに来てよ！\n	Eh? Can't receive it?\nAh, your bag is full.\nCome get it after sorting!\n		98
+v1424_NewQuestFlowMessage5.txz:11	v1424_NewQuestFlowMessage5.txz	何だ、荷物に空きが無いのか。\n全く…、その荷物を整理して\nもう一度来い\n	No room in your bag?\nSheesh... sort your bag\nand come back again.\n		72
+v1424_NewQuestFlowMessage5.txz:12	v1424_NewQuestFlowMessage5.txz	さあ、受け取っておくれ…って。\n荷物がいっぱいじゃないか。\nじゃあ、整理してからまた来なよ\n	Here, take it... wait.\nYour bag is full.\nSort it and come back, now.\n		92
+v1424_NewQuestFlowMessage5.txz:13	v1424_NewQuestFlowMessage5.txz	荷物がいっぱい？\nそんなの、整理してくりゃいいでしょ。\nほら、とっとと整理しておいで！\n	Bag full?\nJust go sort it out!\nCome on, go sort it quick!\n		88
+v1424_NewQuestFlowMessage5.txz:14	v1424_NewQuestFlowMessage5.txz	ん、待てよ？\n荷物がいっぱいじゃねえか。\n整理してからじゃないと報酬は渡せないな\n	Hm, hold on?\nYour bag is full.\nCan't give reward until you sort it.\n		82
+v1424_NewQuestFlowMessage5.txz:15	v1424_NewQuestFlowMessage5.txz	ええ、荷物がいっぱいだって？\nしょうがないなぁ。\nそれじゃ、荷物を整理してまた来てよ\n	What, your bag is full?\nCan't be helped.\nSort your bag and come back.\n		86
+v1424_NewQuestFlowMessage5.txz:16	v1424_NewQuestFlowMessage5.txz	あら、荷物がいっぱいなのね。\nじゃあ、整理してまた来なさい。\nその時に報酬を渡すわ\n	My, your bag is full.\nSort it and come back.\nI'll give your reward then.\n		84
+v1424_NewQuestFlowMessage5.txz:17	v1424_NewQuestFlowMessage5.txz	そうか、荷物がいっぱいか。\nでは、整理をして、\n改めて受け取りに来るがいい\n	I see, your bag is full.\nSort it out and come back to receive it.\n\n		76
+v1424_NewQuestFlowMessage5.txz:18	v1424_NewQuestFlowMessage5.txz	ああ、今は荷物がいっぱいなんだね。\nじゃあ、荷物に空きが出来たら\n報酬を渡すよ\n	Ah, bag's full right now.\nWhen you make room,\nI'll give your reward.\n		80
+v1424_NewQuestFlowMessage5.txz:19	v1424_NewQuestFlowMessage5.txz	荷物がいっぱいなのか？\nだったら、空きが出来たら\n報酬を受け取りに来てくれ\n	Your bag is full?\nWhen you have room,\ncome get your reward.\n		76
+v1424_NewQuestFlowMessage5.txz:20	v1424_NewQuestFlowMessage5.txz	ふむ、荷物がいっぱいなのか。\nでは、またの機会にするか。\nまずは、荷物を整理するとよかろう\n	Hm, your bag is full?\nAnother time then.\nBest sort your bag first.\n		92
+v1424_NewQuestFlowMessage5.txz:21	v1424_NewQuestFlowMessage5.txz	何だよ、荷物がいっぱいで受け取れないってか？\nしょうがない奴だな。\nんじゃ、整理してからまた来いよ\n	What, bag's full, can't take it?\nHelpless...\nWell, sort it and come back.\n		100
+v1424_NewQuestFlowMessage5.txz:22	v1424_NewQuestFlowMessage5.txz	荷物がいっぱい、か…。\nそれじゃ、少し整理してきてくれ。\n今のままじゃ、報酬を渡せないからな\n	Bag is full, huh...\nGo sort it out a bit.\nCan't give reward as you are.\n		94
+v1424_NewQuestFlowMessage5.txz:23	v1424_NewQuestFlowMessage5.txz	ん？　そうか、荷物がいっぱいか。\nでは、整理出来たら来てくれ。\nそれから報酬を渡すとしよう\n	Hm? I see, bag's full.\nCome when you've sorted it.\nWe'll do rewards then.\n		92
+v1424_NewQuestFlowMessage5.txz:24	v1424_NewQuestFlowMessage5.txz	ああ？　荷物が多過ぎて受け取れねぇだと？\nとっとと整理して来いっつうの！！\nこっちゃ、報酬を用意してやってんだぞ！\n	Huh? Too much stuff, can't take it?!\nGo sort it out already!!\nI got rewards ready here!\n		116
+v1424_NewQuestFlowMessage5.txz:25	v1424_NewQuestFlowMessage5.txz	荷物がいっぱいなんですね。\nでは、整理をしてから、また来てください\n\n	Your bag is full.\nPlease sort it and come back again.\n\n		70
+v1424_NewQuestFlowMessage5.txz:26	v1424_NewQuestFlowMessage5.txz	今は荷物が多くて受け取れないんですね。\nでは、整理をしてから受け取りなさい。\nお待ちしておりますわ\n	Too much stuff to receive it now.\nReceive it after sorting.\nI shall be waiting.\n		100
+v1424_NewQuestFlowMessage5.txz:27	v1424_NewQuestFlowMessage5.txz	…む、そうか。\n荷物がいっぱいでは受け取れんな。\nでは、整理してからまた来てくれ\n	Hm, I see.\nCan't receive with a full bag.\nSort it and come back.\n		82
+v1424_NewQuestFlowMessage5.txz:28	v1424_NewQuestFlowMessage5.txz	ああ、手荷物がいっぱいなんだな。\nじゃあ、整理してくるといい。\n受け取れるようになったら、また来てくれよ\n	Ah, hands are full.\nGo sort it out.\nCome back when you can receive it!\n		106
+v1424_NewQuestFlowMessage5.txz:29	v1424_NewQuestFlowMessage5.txz	どうしたの？　荷物がいっぱいなの？\nじゃあ…、荷物を整理しておいでよ。\nそしたら、報酬を渡せるから\n	What's wrong? Bag full?\nThen... go sort your bag.\nThen I can give your reward.\n		100
+v1424_NewQuestFlowMessage5.txz:30	v1424_NewQuestFlowMessage5.txz	はあ？　受け取れねえって…。\nああ、荷物がいっぱいなのかよ。\nしょうがねえなあ、整理してきな\n	Huh? Can't receive it...\nAh, your bag is full.\nCan't be helped, go sort it.\n		94
+v1424_NewQuestFlowMessage5.txz:31	v1424_NewQuestFlowMessage5.txz	報酬を渡したいんだけど、\nアイテムがいっぱいみたいね。\n整理をして、また来てちょうだい\n	I'd like to pay you,\nbut your items are full.\nPlease sort and return.\n		88
+v1424_NewQuestFlowMessage5.txz:32	v1424_NewQuestFlowMessage5.txz	受け取れないだと？\n報酬に預かる時は、荷物を空けておけ。\nいいな…\n	Can't receive?!\nKeep room for rewards.\nUnderstood...?\n		68
+v1424_NewQuestFlowMessage5.txz:33	v1424_NewQuestFlowMessage5.txz	何だ、荷物がいっぱいなのか。\nじゃあ、整理してきな。\nそれまで報酬はお預けだ\n	What, bag is full?\nGo sort it out.\nReward is on hold till then.\n		78
+v1424_NewQuestFlowMessage5.txz:34	v1424_NewQuestFlowMessage5.txz	えっ…、荷物がいっぱいなんですか？\n困りましたね。\nそれじゃ、整理してきてもらえます？\n	Eh... your bag is full?\nTroublesome.\nCould you go sort it out?\n		88
+v1424_NewQuestFlowMessage5.txz:35	v1424_NewQuestFlowMessage5.txz	あ、あの…、荷物がいっぱいなの？\nじゃあ、…荷物を整理してくれたら、\n報酬を渡すよ\n	U-Umm... your bag is full?\nThen... once you sort it,\nI'll give your reward.\n		84
+v1424_NewQuestFlowMessage5.txz:36	v1424_NewQuestFlowMessage5.txz	受け取れない？\n普段から荷物の整理ぐらいしておくんだな。\n整理が付いたら受け取りに来い\n	Can't receive?\nKeep your bag sorted normally.\nCome back once it's sorted.\n		88
+v1424_NewQuestFlowMessage5.txz:37	v1424_NewQuestFlowMessage5.txz	あっ、そっか！\n荷物がいっぱいだから受け取れないんだね。\nじゃあ、一度整理しておいでよ\n	Ah, I see!\nBag's full so you can't take it.\nGo sort it out once!\n		88
+v1424_NewQuestFlowMessage5.txz:38	v1424_NewQuestFlowMessage5.txz	ああ、荷物がいっぱいなんだな。\n報酬は持っておくよ。\n荷物を整理したら、また来てくれ\n	Ah, your bag is full.\nI'll hold the reward.\nCome back after sorting.\n		86
+v1424_NewQuestFlowMessage5.txz:39	v1424_NewQuestFlowMessage5.txz	あ…、荷物がいっぱいなんだね。\nじゃあ、お礼は預かっておくよ。\n荷物を整理したら、また来てね！\n	Ah... your bag is full.\nI'll hold your thanks.\nCome back once you sort it!\n		96
+v1424_NewQuestFlowMessage5.txz:40	v1424_NewQuestFlowMessage5.txz	しかし、荷物がいっぱいか。\nじゃあ、荷物を整理して、また来るんだな\n\n	However, bag is full.\nSort your bag and come back, however!\n\n		70
+v1424_NewQuestFlowMessage5.txz:41	v1424_NewQuestFlowMessage5.txz	キュ〜？\n荷物がいっぱいの様だキュ。\n整理して、また受け取りに来て欲しいキュ\n	Kyu~?\nBag looks full, kyu.\nSort and come back to receive it, kyu!\n		78
+v1424_NewQuestFlowMessage5.txz:42	v1424_NewQuestFlowMessage5.txz	キュ〜…、お礼を渡したいけど\n荷物がいっぱいで渡せないキュ…。\n荷物を整理して、またここへ来て欲しいキュ\n	Kyu~... wanna give thanks,\nbut bag is full, kyu...\nSort it and come back, kyu!\n		106
+v1424_NewQuestFlowMessage6.txz:0	v1424_NewQuestFlowMessage6.txz	早く目的地へ急ごう。\n今回の目的は何としても達成させたいんだ\n\n	Hurry to the goal.\nMust achieve this no matter what.\n\n		64
+v1424_NewQuestFlowMessage6.txz:1	v1424_NewQuestFlowMessage6.txz	さあ、早く依頼を達成させてくれよ。\nこうしている間にまたクレスに\n追い越されちまう\n	Come on, finish the quest quick!\nCress will overtake me at this rate!\n\n		84
+v1424_NewQuestFlowMessage6.txz:2	v1424_NewQuestFlowMessage6.txz	早く一人前の忍者にならなくては…。\nどうかオルタータ火山でのフィアブロンク退治に\nあなたの力を貸してください\n	Must become a full-fledged ninja soon...\nPlease help slay the Fiabronk\nat Alterata Volcano!\n		110
+v1424_NewQuestFlowMessage6.txz:3	v1424_NewQuestFlowMessage6.txz	えーっと、俺からの依頼には\nまだ取り掛かれないのかなぁ？\n\n	Umm, can you not\nstart on my quest yet?\n\n		60
+v1424_NewQuestFlowMessage6.txz:4	v1424_NewQuestFlowMessage6.txz	ちょっと、あたしの依頼を受けたんでしょ？\nだったら、さっさと取り掛かってくれないかしら\n\n	Hey, you took my quest, right?\nThen won't you get to it already?\n\n		90
+v1424_NewQuestFlowMessage6.txz:5	v1424_NewQuestFlowMessage6.txz	すまないね、この様な事を頼んでしまって。\nしかし、なるべく急いでもらえると\n助かるのだが…\n	Sorry to ask this of you.\nHowever, it would help\nif you hurried...\n		92
+v1424_NewQuestFlowMessage6.txz:6	v1424_NewQuestFlowMessage6.txz	おうおう、一度俺様の依頼を引き受けたのなら\n最後まできっちりやってもらわねぇとな！\n\n	Hey, once you take my request,\nyou gotta see it through to the end!\n\n		86
+v1424_NewQuestFlowMessage6.txz:7	v1424_NewQuestFlowMessage6.txz	早くクエスト達成したいな。（仮）\n\n\n	Wanna finish this quest! (temp)\n\n\n		38
+v1424_NewQuestFlowMessage6.txz:8	v1424_NewQuestFlowMessage6.txz	さあ、コンフェイト大森林へ行こう！\nキールとの勝負、負けるわけには\nいかないもんね！\n	To Confeito Forest!\nCan't afford to lose\nmy match with Keele!\n		86
+v1424_NewQuestFlowMessage6.txz:9	v1424_NewQuestFlowMessage6.txz	早くクエスト達成したいな。（仮）\n\n\n	Wanna finish this quest! (temp)\n\n\n		38
+v1424_NewQuestFlowMessage6.txz:10	v1424_NewQuestFlowMessage6.txz	今度こそバルバトスと決着を付けるんだ。\n急ごう！　霊峰アブソールへ\n\n	Settling things with Barbatos this time!\nHurry to Mt. Absole!\n\n		70
+v1424_NewQuestFlowMessage6.txz:11	v1424_NewQuestFlowMessage6.txz	何をのんびりとしている。行くぞ。\nそれともお前に手を借りたのが\n間違いだったか？\n	What are you idling for? Let's go.\nOr was asking for your help a mistake?\n\n		82
+v1424_NewQuestFlowMessage6.txz:12	v1424_NewQuestFlowMessage6.txz	早くクエスト達成したいな。（仮）\n\n\n	Wanna finish this quest! (temp)\n\n\n		38
+v1424_NewQuestFlowMessage6.txz:13	v1424_NewQuestFlowMessage6.txz	さーあ、カニを求めて\nシフノ湧泉洞へ行くわよ！！\nあ、今更抜けるってのはナシだからね☆\n	Now, off to Sifnos Spring Cave for crabs!!\nNo backing out now, okay?~\n\n		88
+v1424_NewQuestFlowMessage6.txz:14	v1424_NewQuestFlowMessage6.txz	ユグドラシルを止めないと…。\n頼む、ヴェラトローパへ急いでくれ！\n\n	Must stop Yggdrasill...\nPlease, hurry to Veratropa!\n\n		68
+v1424_NewQuestFlowMessage6.txz:15	v1424_NewQuestFlowMessage6.txz	ねぇってば、コンフェイト大森林に早く\n行かないと約束の時間が過ぎちゃうよ！！\nああ、もう待たせちゃっているかも…\n	Hey, hurry to Confeito Forest\nor the promised time will pass!!\nMight be waiting already...\n		114
+v1424_NewQuestFlowMessage6.txz:16	v1424_NewQuestFlowMessage6.txz	早くクエスト達成したいな。（仮）\n\n\n	Wanna finish this quest! (temp)\n\n\n		38
+v1424_NewQuestFlowMessage6.txz:17	v1424_NewQuestFlowMessage6.txz	目的地は聖地ラングリースだ。\nなに、お前となら用はすぐに済む。\n早く船を出るぞ\n	Destination is Holy Langriths.\nWith you, it'll be over soon.\nDepart now.\n		80
+v1424_NewQuestFlowMessage6.txz:18	v1424_NewQuestFlowMessage6.txz	すまないね、こんな依頼を頼んじまってさ。\nでも、あんたの事、頼りにしてるんだ。\n目的地へ急ごう\n	Sorry to ask for such a quest.\nStill, I'm counting on you.\nHurry there.\n		96
+v1424_NewQuestFlowMessage6.txz:19	v1424_NewQuestFlowMessage6.txz	\n\n\n	\n\n\n		6
+v1424_NewQuestFlowMessage6.txz:20	v1424_NewQuestFlowMessage6.txz	迎えに行く「家族」はまだ子どもなんでな。\n早く行って合流したい。\nお前の準備が済み次第船を出よう\n	The family I'm meeting is still a child.\nHurry and meet up.\nDepart once ready.\n		98
+v1424_NewQuestFlowMessage6.txz:21	v1424_NewQuestFlowMessage6.txz	早くコンフェイト大森林へ行こうぜ。\nナタリアにもみんなにも最高の一品を\n用意するからさ！\n	Hurry to Confeito Forest.\nI'll make the finest dish\nfor Natalia and all!\n		90
+v1424_NewQuestFlowMessage6.txz:22	v1424_NewQuestFlowMessage6.txz	早くクエスト達成したいな。（仮）\n\n\n	Wanna finish this quest! (temp)\n\n\n		38
+v1424_NewQuestFlowMessage6.txz:23	v1424_NewQuestFlowMessage6.txz	早くクエスト達成したいな。（仮）\n\n\n	Wanna finish this quest! (temp)\n\n\n		38
+v1424_NewQuestFlowMessage6.txz:24	v1424_NewQuestFlowMessage6.txz	バカ、急げっつーの！\nじゃねえと、うるせー奴らにバレちまうだろ？\n早くカダイフ砂漠まで行くぞ！\n	Idiot, hurry up!\nOr the loudmouths will notice!\nOff to Cadaif Desert!\n		96
+v1424_NewQuestFlowMessage6.txz:25	v1424_NewQuestFlowMessage6.txz	霊峰アブソールは、今日当たり吹雪くんじゃ\nないですか？\n私の部下も無事でいればいいんですがね\n	Blizzard on Mt. Absole today, no?\nI hope my subordinates are safe.\n\n		94
+v1424_NewQuestFlowMessage6.txz:26	v1424_NewQuestFlowMessage6.txz	早くクエスト達成したいな。（仮）\n\n\n	Wanna finish this quest! (temp)\n\n\n		38
+v1424_NewQuestFlowMessage6.txz:27	v1424_NewQuestFlowMessage6.txz	この依頼はルークとアッシュの将来の為に、だ。\nすまないが、今回この依頼には最後まで\n付き合って欲しい\n	This quest is for Luke and Asch's future.\nSorry, but please see it through.\n\n		102
+v1424_NewQuestFlowMessage6.txz:28	v1424_NewQuestFlowMessage6.txz	早くクエスト達成したいな。（仮）\n\n\n	Wanna finish this quest! (temp)\n\n\n		38
+v1424_NewQuestFlowMessage6.txz:29	v1424_NewQuestFlowMessage6.txz	早くクエスト達成したいな。（仮）\n\n\n	Wanna finish this quest! (temp)\n\n\n		38
+v1424_NewQuestFlowMessage6.txz:30	v1424_NewQuestFlowMessage6.txz	あ？　まさかオレの依頼を断るってか？\nそんなわけねーよなあ。\nダチの頼みは最後まで付う合うもんだよなあ？\n	Huh? Refusing my request?!\nNo way.\nYou stick with a pal's request to the end!\n		106
+v1424_NewQuestFlowMessage6.txz:31	v1424_NewQuestFlowMessage6.txz	この依頼は大事なものなんだから、\n破棄しちゃダメよ？\nちゃーんと責任持ってね！\n	This request is important,\nso don't abandon it!\nTake responsibility!\n		80
+v1424_NewQuestFlowMessage6.txz:32	v1424_NewQuestFlowMessage6.txz	早くクエスト達成したいな。（仮）\n\n\n	Wanna finish this quest! (temp)\n\n\n		38
+v1424_NewQuestFlowMessage6.txz:33	v1424_NewQuestFlowMessage6.txz	面倒くさい依頼だろうが、\n早いとこ頼むぜ\n\n	Troublesome quest, but do it quick.\n\n\n		44
+v1424_NewQuestFlowMessage6.txz:34	v1424_NewQuestFlowMessage6.txz	早くクエスト達成したいな。（仮）\n\n\n	Wanna finish this quest! (temp)\n\n\n		38
+v1424_NewQuestFlowMessage6.txz:35	v1424_NewQuestFlowMessage6.txz	早くクエスト達成したいな。（仮）\n\n\n	Wanna finish this quest! (temp)\n\n\n		38
+v1424_NewQuestFlowMessage6.txz:36	v1424_NewQuestFlowMessage6.txz	エミルのフォローはお前が適任だ。\n他には頼めない。\n早く、オルタータ火山へ向かってもらおうか\n	You're suited to back up Emil.\nCan't ask anyone else.\nHurry to Alterata Volcano.\n		94
+v1424_NewQuestFlowMessage6.txz:37	v1424_NewQuestFlowMessage6.txz	依頼を受けてくれてありがとう。\nこっちは準備出来てるよ！\n早く、「おとぎ話の魔物」を探しに行こう！\n	Thanks for accepting.\nI'm ready here!\nLet's go find the fairy-tale monster!\n		100
+v1424_NewQuestFlowMessage6.txz:38	v1424_NewQuestFlowMessage6.txz	目的地はルバーブ連山だ。\nソフィの笑顔を守る為に…頼む！\n\n	To Rhubarb Mountains.\nProtect Sophie's smile... please!\n\n		60
+v1424_NewQuestFlowMessage6.txz:39	v1424_NewQuestFlowMessage6.txz	早くクエスト達成したいな。（仮）\n\n\n	Wanna finish this quest! (temp)\n\n\n		38
+v1424_NewQuestFlowMessage6.txz:40	v1424_NewQuestFlowMessage6.txz	コーダの願い、早く叶えて欲しいのだ、しかし！\nレシピが欲しいぞ、しかし！！\n\n	Grant Coda's wish soon, however!\nI want recipes, however!!\n\n		78
+v1424_NewQuestFlowMessage6.txz:41	v1424_NewQuestFlowMessage6.txz	ポッポが心配だキュ！\n早く探しに行って欲しいキュ！\n\n	Worried about Poppo, kyu!\nGo find him, kyu!\n\n		54
+v1424_NewQuestFlowMessage6.txz:42	v1424_NewQuestFlowMessage6.txz	○○、お願いだキュ！\nポッポからの頼み、早く聞いてもらえると\n助かるキュ！\n\n	○○, please, kyu!\nHelp Poppo soon, kyu!\n\n\n		78

@@ -1,0 +1,148 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev33_010.scr:0	cev33_010.scr	0	プレセア	Presea Combatir	personagem		…………	......	
+cev33_010.scr:1	cev33_010.scr	1	ソフィ	Sophie	personagem		…………	......	
+cev33_010.scr:2	cev33_010.scr	2	プレセア	Presea Combatir	personagem		…………	......	
+cev33_010.scr:3	cev33_010.scr	3	プレセア	Presea Combatir	personagem		静か……ですね……	It is quiet...... isn't it......?	
+cev33_010.scr:4	cev33_010.scr	4	ソフィ	Sophie	personagem		……うん	...Yeah.	
+cev33_010.scr:5	cev33_010.scr	5	プレセア	Presea Combatir	personagem		…………	......	
+cev33_010.scr:6	cev33_010.scr	6	ソフィ	Sophie	personagem		…………	......	
+cev33_010.scr:7	cev33_010.scr	7	ソフィ	Sophie	personagem		……静かなのは、悪いこと？	......Is being quiet a bad thing?	
+cev33_010.scr:8	cev33_010.scr	8	プレセア	Presea Combatir	personagem		……私は……	......As for me......	
+cev33_010.scr:9	cev33_010.scr	9	プレセア	Presea Combatir	personagem	CRLF x1	こういうのも、嫌いじゃ……\nない……です	I do not...... dislike this kind\nof atmosphere...... either.	
+cev33_010.scr:10	cev33_010.scr	10	ソフィ	Sophie	personagem		うん……わたしも	Yeah...... Me neither.	
+cev33_010.scr:11	cev33_010.scr	11	プレセア	Presea Combatir	personagem		…………	......	
+cev33_010.scr:12	cev33_010.scr	12	ソフィ	Sophie	personagem		…………	......	
+cev33_020.scr:0	cev33_020.scr	0	プレセア	Presea Combatir	personagem	CRLF x1	ロックス……さん。\n一つ……お願いがあります	Mr. Rocks......\nI have...... a request.	
+cev33_020.scr:1	cev33_020.scr	1	ロックス	Rocks	personagem	CRLF x1	はい、何でしょう？\n僕で力になれる事でしたら	Yes, what is it?\nIf it's something I can help with.	
+cev33_020.scr:2	cev33_020.scr	2	プレセア	Presea Combatir	personagem		握手をしても……いいですか？	May I...... shake your hand?	
+cev33_020.scr:3	cev33_020.scr	3	ロックス	Rocks	personagem		握手、ですか？	A handshake?	
+cev33_020.scr:4	cev33_020.scr	4	ロックス	Rocks	personagem		そんな事で良かったら……どうぞ	If you're fine with that... go ahead.	
+cev33_020.scr:5	cev33_020.scr	5	プレセア	Presea Combatir	personagem		……にくきゅう……	......Paw pads......	
+cev33_020.scr:6	cev33_020.scr	6	ロックス	Rocks	personagem		へっ？	Huh?	
+cev33_020.scr:7	cev33_020.scr	7	プレセア	Presea Combatir	personagem		いい肉球……です	They are...... wonderful paw pads.	
+cev33_020.scr:8	cev33_020.scr	8	プレセア	Presea Combatir	personagem		ありがとう……ございます	Thank you...... very much.	
+cev33_020.scr:9	cev33_020.scr	9	ロックス	Rocks	personagem		どう、いたしまして……？	You're... welcome......?	
+cev33_020.scr:10	cev33_020.scr	10	ロックス	Rocks	personagem		（何だったんだろう……今の？）	(What was that...... just now?)	
+cev33_030.scr:0	cev33_030.scr	0	エミル	Emil Castagnier	personagem	CRLF x2	ええっと……\n今日のホール掃除のメンバーは\nこれで全員揃ったみたいだね	U-Um...\nIt seems all the members for today's\nhall cleaning are gathered here.	
+cev33_030.scr:1	cev33_030.scr	1	エミル	Emil Castagnier	personagem	CRLF x2	えっと……。\nじゃあ、手始めに、簡単な\n役割分担を決めようか	Um...\nTo start with, let's divide up\nsome simple roles, okay?	
+cev33_030.scr:2	cev33_030.scr	2	エミル	Emil Castagnier	personagem		ホウキ係をやりたい人〜？	Anyone want to be on broom duty~?	
+cev33_030.scr:3	cev33_030.scr	3	エミル	Emil Castagnier	personagem	CRLF x1	えと……。\nじゃあ、ちりとり係をやりたい人〜？	Er...\nThen who wants dustpan duty~?	
+cev33_030.scr:4	cev33_030.scr	4	エミル	Emil Castagnier	personagem	CRLF x1	だ、誰も立候補しないの？\nそれじゃあ……	N-No one's volunteering?\nIn that case......	
+cev33_030.scr:5	cev33_030.scr	5	リオン	Leon Magnus	personagem	CRLF x1	いい加減にしろ。\nいつまでくだらんお喋りを続けるつもりだ	Enough already.\nHow long will this idle chatter go on?	
+cev33_030.scr:6	cev33_030.scr	6	リオン	Leon Magnus	personagem	CRLF x1	さっさと終えて帰らせてもらうぞ。\n僕は忙しいんだ	I'll finish this quickly and leave.\nI have things to do.	
+cev33_030.scr:7	cev33_030.scr	7	リカルド	Ricardo Soldato	personagem	CRLF x2	同感だな。\nガキの遊びには付き合えん。\n俺も適当にやらせてもらう	Agreed.\nI won't play along with kids' games.\nI'll handle things on my own.	
+cev33_030.scr:8	cev33_030.scr	8	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……こっちの事は気にするな。\nそっちはそっちでやればいい	......Pay no mind to us.\nJust do things as you see fit.	
+cev33_030.scr:9	cev33_030.scr	9	プレセア	Presea Combatir	personagem		あの……元気を出して下さい	Um...... please cheer up.	
+cev33_030.scr:10	cev33_030.scr	10	エミル	Emil Castagnier	personagem		プレセア……	Presea......	
+cev33_030.scr:11	cev33_030.scr	11	プレセア	Presea Combatir	personagem	CRLF x2	着手の遅れは……その分、終了の遅れと\n作業モチベーションの低下に\n……繋がります	A delay in starting causes a delay\nin finishing and leads to......\na drop in work motivation.	
+cev33_030.scr:12	cev33_030.scr	12	プレセア	Presea Combatir	personagem		速やかな作業開始を、提案します	I propose an immediate start to the work.	
+cev33_030.scr:13	cev33_030.scr	13	エミル	Emil Castagnier	personagem	CRLF x2	うう……。\n僕は、どうせ何をやっても\nダメな人間なんだ……	Ugh......\nNo matter what I do, I'm just\na hopeless failure anyway......	
+cev33_030.scr:14	cev33_030.scr	14	プレセア	Presea Combatir	personagem	CRLF x2	エミル……さん？\n泣いている……？\n……なぜ……ですか？	Mr. Emil......?\nAre you crying......?\n......Why......?	
+cev33_040.scr:0	cev33_040.scr	0	プレセア	Presea Combatir	personagem	CRLF x1	ヴェイグさんの持ってる、それは……\nお守り、ですか？	The item you're holding, Mr. Veigue...\nIs it...... a charm?	
+cev33_040.scr:1	cev33_040.scr	1	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……ああ。\nクレアからもらったものだ	......Yeah.\nClaire gave it to me.	
+cev33_040.scr:2	cev33_040.scr	2	プレセア	Presea Combatir	personagem	CRLF x1	クレアさんから……ですか。\n持ち歩いて……いるんですね	From Miss Claire...... is it?\nYou carry it...... with you, then.	
+cev33_040.scr:3	cev33_040.scr	3	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……これがあると\n何かに守られている気がするんだ	...When I have this with me,\nI feel as if something protects me.	
+cev33_040.scr:4	cev33_040.scr	4	プレセア	Presea Combatir	personagem		本当に「お守り」……なんですね	It truly is...... a 'charm', then.	
+cev33_040.scr:5	cev33_040.scr	5	ヴェイグ	Veigue Lungberg	personagem		ああ……	Yeah...	
+cev33_040.scr:6	cev33_040.scr	6	プレセア	Presea Combatir	personagem	CRLF x1	（……、私にも……そういうお守りが\n　作れる様になるでしょうか）	(......Will I ever be able to make...\n a charm like that?)	
+cev33_040.scr:7	cev33_040.scr	7	プレセア	Presea Combatir	personagem	CRLF x1	（誰かを守ったり……力になれる、\n　そんな……お守りが……）	(A charm that could protect someone...\n and give them strength......?)	
+cev33_050.scr:0	cev33_050.scr	0	プレセア	Presea Combatir	personagem		……ジーニアス	......Genis.	
+cev33_050.scr:1	cev33_050.scr	1	ジーニアス	Genis Sage	personagem		あっ……プ、プレセア？	Ah... P-Presea?	
+cev33_050.scr:2	cev33_050.scr	2	リッド	Reid Hershel	personagem	CRLF x1	（チャンスじゃねえか。\n　ほら、頑張って会話繋げよ！）	(Here's your chance, isn't it?!\n Come on, keep the talking going!)	
+cev33_050.scr:3	cev33_050.scr	3	ジーニアス	Genis Sage	personagem	CRLF x2	（ちょ、ちょっと。\n　プレッシャーかけるの\n　やめてよね……！）	(W-Wait a minute!\n Stop putting pressure\n on me like that......!)	
+cev33_050.scr:4	cev33_050.scr	4	プレセア	Presea Combatir	personagem		今……忙しいですか？	Are you...... busy right now?	
+cev33_050.scr:5	cev33_050.scr	5	ジーニアス	Genis Sage	personagem	CRLF x1	ぜ、全然！？　\n大丈夫だよ！	N-Not at all?!\nI'm totally free!	
+cev33_050.scr:6	cev33_050.scr	6	ジーニアス	Genis Sage	personagem	CRLF x1	どうしたの？\n……何か、困った事でもあった？	What's up?\n...Did something happen?	
+cev33_050.scr:7	cev33_050.scr	7	プレセア	Presea Combatir	personagem	CRLF x1	私があげたお守り……。\n今も、ジーニアスは持っていますか	The charm that I gave you......\nDo you still have it, Genis?	
+cev33_050.scr:8	cev33_050.scr	8	ジーニアス	Genis Sage	personagem	CRLF x2	うん、もちろんだよ！\nプレセアからもらった、\n大切なお守りだもの	Yeah, of course!\nIt's the precious charm\nthat I received from Presea!	
+cev33_050.scr:9	cev33_050.scr	9	プレセア	Presea Combatir	personagem		では、今見せてもらってもいいですか	Then, may I see it right now?	
+cev33_050.scr:10	cev33_050.scr	10	ジーニアス	Genis Sage	personagem		えっ？	Eh?	
+cev33_050.scr:11	cev33_050.scr	11	ジーニアス	Genis Sage	personagem	CRLF x1	い、今は……。\nちょっと、持っていないけど	R-Right now......?\nI don't have it on me, but...	
+cev33_050.scr:12	cev33_050.scr	12	ジーニアス	Genis Sage	personagem		でも、部屋にはちゃんと飾って……	it's neatly displayed in my room...	
+cev33_050.scr:13	cev33_050.scr	13	プレセア	Presea Combatir	personagem		持ち歩いては……いないんですね	You don't carry it...... with you, then.	
+cev33_050.scr:14	cev33_050.scr	14	プレセア	Presea Combatir	personagem		そうですか……	I see...	
+cev33_050.scr:15	cev33_050.scr	15	ジーニアス	Genis Sage	personagem	CRLF x2	えっ？　\nちょ、ちょっとプレセア？\nどうしたのさ？	Eh?\nW-Wait, Presea?!\nWhat's wrong?	
+cev33_050.scr:16	cev33_050.scr	16	リッド	Reid Hershel	personagem		何だよ、フラれちまったのか？	What, did you just get rejected?	
+cev33_050.scr:17	cev33_050.scr	17	リッド	Reid Hershel	personagem	CRLF x1	……ま、でも、そういう事もあるよな。\n元気出せよ、ジーニアス	...Well, these things happen.\nKeep your chin up, Genis.	
+cev33_050.scr:18	cev33_050.scr	18	ジーニアス	Genis Sage	personagem		フラれてなんかないってば！	I didn't get dumped, all right?!	
+cev33_050.scr:19	cev33_050.scr	19	ジーニアス	Genis Sage	personagem		嫌な事言わないでよ、もう〜！！	Stop saying such mean things, geez!!	
+cev33_060.scr:0	cev33_060.scr	0	チェルシー	Chelsea Torn	personagem	CRLF x1	やっぱり、いざという時の備えとして\n最低限の自衛手段は必要ですよねえ	Basic self-defense to prepare\nfor emergencies is truly essential.	
+cev33_060.scr:1	cev33_060.scr	1	ルビア	Rubia Natwick	personagem	CRLF x2	全くよね。\nどうしてこんな物騒な世の中に\nなっちゃったのかしら……	Seriously.\nHow did the world become\nsuch a dangerous place, I wonder......	
+cev33_060.scr:2	cev33_060.scr	2	チェルシー	Chelsea Torn	personagem	CRLF x1	あっ、プレセアさん！\nどこに行くんですか？	Ah, Miss Presea!\nWhere are you heading off to?	
+cev33_060.scr:3	cev33_060.scr	3	プレセア	Presea Combatir	personagem	CRLF x1	受注していた……お守りが出来たので、\n街まで届けに行ってきます	The charm ordered... is finished,\nso I will deliver it to town.	
+cev33_060.scr:4	cev33_060.scr	4	ルビア	Rubia Natwick	personagem	CRLF x1	届けにって、一人で？\n危なくない？	To deliver it, alone?\nIsn't that dangerous?	
+cev33_060.scr:5	cev33_060.scr	5	プレセア	Presea Combatir	personagem		危ない？	Dangerous?	
+cev33_060.scr:6	cev33_060.scr	6	チェルシー	Chelsea Torn	personagem	CRLF x2	最近この辺り、物盗りとかが増えて\n物騒になってきてるみたいなんです。\nプレセアさんも気を付けて下さい	Thieves have increased around here,\nmaking things quite unsafe lately.\nPlease be careful too, Miss Presea.	
+cev33_060.scr:7	cev33_060.scr	7	ルビア	Rubia Natwick	personagem	CRLF x2	そうよ。\nプレセアなんて特に可愛いんだし、\n悪い奴に目を付けられたら大変じゃない	That's right.\nYou are especially cute, Presea,\nso if bad guys target you, it's awful!	
+cev33_060.scr:8	cev33_060.scr	8	プレセア	Presea Combatir	personagem	CRLF x1	いえ……私は大丈夫です。\n武器も持っていますし	No...... I am fine.\nI have my weapon with me.	
+cev33_060.scr:9	cev33_060.scr	9	チェルシー	Chelsea Torn	personagem	CRLF x2	そうは言っても、大人の男性の力は\n思った以上に強いですから。\n用心に越した事はないですよ	Even so, adult men are stronger\nthan you might imagine.\nYou can never be too careful!	
+cev33_060.scr:10	cev33_060.scr	10	ルビア	Rubia Natwick	personagem	CRLF x1	そうよ、プレセア。\n男の人を甘く見たらダメ	That's right, Presea.\nYou must never underestimate men!	
+cev33_060.scr:11	cev33_060.scr	11	ルビア	Rubia Natwick	personagem		男は時として、獣になるものなの！	At times, men turn into wild beasts!	
+cev33_060.scr:12	cev33_060.scr	12	プレセア	Presea Combatir	personagem		獣……？	Wild beasts......?	
+cev33_060.scr:13	cev33_060.scr	13	チェルシー	Chelsea Torn	personagem	CRLF x2	早く私達みたいな、かよわい女性が安心して\n出かけられる世の中になって欲しいですね。\nルビアさん	I hope a peaceful world where\nfrail girls like us can go out safely\ncomes soon, Miss Rubia.	
+cev33_060.scr:14	cev33_060.scr	14	ルビア	Rubia Natwick	personagem		そうね、チェルシー	Indeed, Chelsea.	
+cev33_060.scr:15	cev33_060.scr	15	ルビア	Rubia Natwick	personagem	CRLF x1	だからプレセアも、外出する時は\n細心の注意を払わなくちゃダメよ？	So Presea, pay the utmost attention\nwhenever you step outside, all right?	
+cev33_060.scr:16	cev33_060.scr	16	プレセア	Presea Combatir	personagem	CRLF x1	……？\nはい……気を付けます	......?\nYes...... I will take care.	
+cev33_070.scr:0	cev33_070.scr	0	シェリア	Cheria Barnes	personagem	CRLF x1	アスベル？\n正直に話して欲しい事があるの	Asbel?\nI want you to be honest with me.	
+cev33_070.scr:1	cev33_070.scr	1	アスベル	Asbel Lhant	personagem	CRLF x1	どうしたんだ？\nそんなに改まって……	What is it?\nActing so serious all of a sudden...	
+cev33_070.scr:2	cev33_070.scr	2	シェリア	Cheria Barnes	personagem	CRLF x1	私って……その……、\nお、おばさんぽいと思う？	Do I seem...... um...\nl-like an auntie to you?	
+cev33_070.scr:3	cev33_070.scr	3	アスベル	Asbel Lhant	personagem	CRLF x1	おばさん？　\nシェリアが？	An auntie?\nYou, Cheria?	
+cev33_070.scr:4	cev33_070.scr	4	アスベル	Asbel Lhant	personagem	CRLF x1	そんな事はないだろ。\n一度だって、思った事はないよ	Of course not.\nI haven't thought that even once.	
+cev33_070.scr:5	cev33_070.scr	5	シェリア	Cheria Barnes	personagem		アスベル……！	Asbel......!	
+cev33_070.scr:6	cev33_070.scr	6	プレセア	Presea Combatir	personagem		おばさん……	Auntie......	
+cev33_070.scr:7	cev33_070.scr	7	プレセア	Presea Combatir	personagem	CRLF x1	一般的には……４０代から５０代の\n中年女性を表す言葉……です	Generally... it refers to women\nin their forties or fifties.	
+cev33_070.scr:8	cev33_070.scr	8	ソフィ	Sophie	personagem	CRLF x1	中年？\nシェリアは、中年なの？	Middle-aged?\nCheria, are you middle-aged?	
+cev33_070.scr:9	cev33_070.scr	9	アスベル	Asbel Lhant	personagem	CRLF x1	いや、シェリアは未成年だよ。\nまだ１８歳なんだから	No, Cheria is still a minor.\nShe's only eighteen, after all.	
+cev33_070.scr:10	cev33_070.scr	10	ソフィ	Sophie	personagem		そっか	I see.	
+cev33_070.scr:11	cev33_070.scr	11	プレセア	Presea Combatir	personagem		青年……とも呼称されます	She is also designated...... as a youth.	
+cev33_070.scr:12	cev33_070.scr	12	シェリア	Cheria Barnes	personagem	CRLF x2	あのね、みんな……。\nそういう事を聞きたかったんじゃ\nないんだけど……	Listen, everyone......\nThat is not what I was trying\nto ask about, though......	
+cev33_080.scr:0	cev33_080.scr	0	ポッポ	Poppo	personagem		キュ、キュ、キュキュキュ〜♪	Kyu, kyu, kyukyukyu~~!	
+cev33_080.scr:1	cev33_080.scr	1	プレセア	Presea Combatir	personagem	CRLF x1	ポッポさんは……、\n手先が器用なんですね	Mr. Poppo......\nyou are very skilled with your hands.	
+cev33_080.scr:2	cev33_080.scr	2	ポッポ	Poppo	personagem	CRLF x2	当然だキュ。\n発明家として日々、\n鍛錬は怠っていないキュ	Of course, kyu!\nAs an inventor, I never neglect\nmy daily practice, kyu!	
+cev33_080.scr:3	cev33_080.scr	3	プレセア	Presea Combatir	personagem	CRLF x1	少し、このまま見学しても\nいいでしょうか	May I observe you for a bit\njust like this?	
+cev33_080.scr:4	cev33_080.scr	4	ポッポ	Poppo	personagem	CRLF x1	プレセアさんも、\n発明に興味があるキュ？	Are you interested in inventing\nas well, Miss Presea, kyu?	
+cev33_080.scr:5	cev33_080.scr	5	プレセア	Presea Combatir	personagem	CRLF x2	はい……ポッポさんの技術は\n私のお守り作りの\n参考になりそうです	Yes... Mr. Poppo's techniques\nwill likely aid me\nin crafting my charms.	
+cev33_080.scr:6	cev33_080.scr	6	ポッポ	Poppo	personagem		オーケィ、わかったキュ！	Okey-dokey, got it, kyu!	
+cev33_080.scr:7	cev33_080.scr	7	ポッポ	Poppo	personagem	CRLF x1	それなら、見てるだけじゃなくて\n実際に道具や素材にも触れてみるキュ	In that case, don't just watch, feel\nfree to touch tools and materials, kyu!	
+cev33_080.scr:8	cev33_080.scr	8	プレセア	Presea Combatir	personagem	CRLF x1	いいの……ですか？\n道具は、職人の命では……	Are you...... sure?\nAren't tools a craftsman's life......?	
+cev33_080.scr:9	cev33_080.scr	9	ポッポ	Poppo	personagem	CRLF x2	問題ないキュ！\nやる気のある人は\nいつでも大歓迎だキュ！	No problem, kyu!\nThose with motivation are always\nmore than welcome, kyu!	
+cev33_080.scr:10	cev33_080.scr	10	ポッポ	Poppo	personagem	CRLF x1	気が向いたら、いつでも\nまた来て欲しいキュ！	Whenever you feel like it,\nplease visit anytime, kyu!	
+cev33_080.scr:11	cev33_080.scr	11	プレセア	Presea Combatir	personagem		ポッポさん……	Mr. Poppo......	
+cev33_080.scr:12	cev33_080.scr	12	プレセア	Presea Combatir	personagem		ありがとう……ございます	Thank you...... very much.	
+cev33_080.scr:13	cev33_080.scr	13	ポッポ	Poppo	personagem		キュキュ〜〜！！	Kyukyu~~~~!!	
+cev33_200.scr:0	cev33_200.scr	0	プレセア	Presea Combatir	personagem	CRLF x1	通常。\n	Normal.\n	
+cev33_200.scr:1	cev33_200.scr	1	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:2	cev33_200.scr	2	プレセア	Presea Combatir	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev33_200.scr:3	cev33_200.scr	3	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:4	cev33_200.scr	4	プレセア	Presea Combatir	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev33_200.scr:5	cev33_200.scr	5	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:6	cev33_200.scr	6	プレセア	Presea Combatir	personagem	CRLF x1	不機嫌。\n	Displeased.\n	
+cev33_200.scr:7	cev33_200.scr	7	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:8	cev33_200.scr	8	プレセア	Presea Combatir	personagem	CRLF x1	疑問。\n	Puzzled.\n	
+cev33_200.scr:9	cev33_200.scr	9	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:10	cev33_200.scr	10	プレセア	Presea Combatir	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev33_200.scr:11	cev33_200.scr	11	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:12	cev33_200.scr	12	プレセア	Presea Combatir	personagem	CRLF x1	通常。\n	Normal.\n	
+cev33_200.scr:13	cev33_200.scr	13	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:14	cev33_200.scr	14	プレセア	Presea Combatir	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev33_200.scr:15	cev33_200.scr	15	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:16	cev33_200.scr	16	プレセア	Presea Combatir	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev33_200.scr:17	cev33_200.scr	17	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:18	cev33_200.scr	18	プレセア	Presea Combatir	personagem	CRLF x1	不機嫌。\n	Displeased.\n	
+cev33_200.scr:19	cev33_200.scr	19	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:20	cev33_200.scr	20	プレセア	Presea Combatir	personagem	CRLF x1	疑問。\n	Puzzled.\n	
+cev33_200.scr:21	cev33_200.scr	21	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:22	cev33_200.scr	22	プレセア	Presea Combatir	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev33_200.scr:23	cev33_200.scr	23	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:24	cev33_200.scr	24	プレセア	Presea Combatir	personagem	CRLF x1	通常。\n	Normal.\n	
+cev33_200.scr:25	cev33_200.scr	25	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:26	cev33_200.scr	26	プレセア	Presea Combatir	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev33_200.scr:27	cev33_200.scr	27	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:28	cev33_200.scr	28	プレセア	Presea Combatir	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev33_200.scr:29	cev33_200.scr	29	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:30	cev33_200.scr	30	プレセア	Presea Combatir	personagem	CRLF x1	不機嫌。\n	Displeased.\n	
+cev33_200.scr:31	cev33_200.scr	31	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:32	cev33_200.scr	32	プレセア	Presea Combatir	personagem	CRLF x1	疑問。\n	Puzzled.\n	
+cev33_200.scr:33	cev33_200.scr	33	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev33_200.scr:34	cev33_200.scr	34	プレセア	Presea Combatir	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev33_200.scr:35	cev33_200.scr	35	プレセア	Presea Combatir	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	

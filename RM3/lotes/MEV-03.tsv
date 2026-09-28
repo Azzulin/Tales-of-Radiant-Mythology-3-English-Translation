@@ -1,0 +1,92 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev03_010.scr:0	mev03_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	あなたが引き受けてくれるのね。\nそれじゃ、説明するよ		
+mev03_010.scr:1	mev03_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	目的地はオルタータ火山。\nそこに、つい最近\n星晶採掘が終了した場所があるの		
+mev03_010.scr:2	mev03_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	そこへ向かって、何か異常がないか\n調査してきてちょうだい		
+mev03_010.scr:3	mev03_010.scr	3	アンジュ	Ange Serena	personagem		今回の同行者は、ウィルさんとルビアよ		
+mev03_010.scr:4	mev03_010.scr	4	アンジュ	Ange Serena	personagem		それじゃあ、お願いね		
+mev03_020.scr:0	mev03_020.scr	0	ルビア	Rubia Natwick	personagem		あぁ〜〜〜…、暑ぅい…		
+mev03_020.scr:1	mev03_020.scr	1	ルビア	Rubia Natwick	personagem	CRLF x1	勇んでこの仕事に参加したけど、\nこんなに過酷な所だったなんて…		
+mev03_020.scr:2	mev03_020.scr	2	ウィル	Will Raynard	personagem	CRLF x2	それにしても、キールが聞いたという情報が\n気になるな。\n赤い煙か…		
+mev03_020.scr:3	mev03_020.scr	3	ウィル	Will Raynard	personagem	CRLF x1	採掘の際に、\n有害なガスが噴き出したのか…		
+mev03_020.scr:4	mev03_020.scr	4	ルビア	Rubia Natwick	personagem	CRLF x1	ここは火山だし、\n空気の悪そうな所だし…		
+mev03_020.scr:5	mev03_020.scr	5	ウィル	Will Raynard	personagem	CRLF x1	しかし、他の土地でもあったとなると、\n火山性ガスなどの類ではない		
+mev03_020.scr:6	mev03_020.scr	6	ウィル	Will Raynard	personagem	CRLF x1	生物に変化を及ぼす物質など、\nオレも聞いた事がないしな…		
+mev03_020.scr:7	mev03_020.scr	7	ウィル	Will Raynard	personagem		星晶との因果関係もまだ…		
+mev03_020.scr:8	mev03_020.scr	8	ルビア	Rubia Natwick	personagem	CRLF x1	ああ、もう！\nじっとしていた方が暑苦しいわ		
+mev03_020.scr:9	mev03_020.scr	9	ルビア	Rubia Natwick	personagem		早く先に進みましょ！		
+mev03_030.scr:0	mev03_030.scr	0	ルビア	Rubia Natwick	personagem		何かしら、今の音…		
+mev03_030.scr:1	mev03_030.scr	1	ウィル	Will Raynard	personagem	CRLF x2	ここは近年、安定した状態と\n言われているが、見たところ\nそうでもないらしいな		
+mev03_030.scr:2	mev03_030.scr	2	ルビア	Rubia Natwick	personagem	CRLF x1	ここの火山活動が、\n活発になっているって事？		
+mev03_030.scr:3	mev03_030.scr	3	ウィル	Will Raynard	personagem		星晶の採掘は、自然にも影響を与えてしまう		
+mev03_030.scr:4	mev03_030.scr	4	ルビア	Rubia Natwick	personagem	CRLF x1	星晶も、土地に恵みを与える\nマナそのものでもあるからなのね		
+mev03_030.scr:5	mev03_030.scr	5	ウィル	Will Raynard	personagem	CRLF x2	この火山でも、採掘は行われた。\nマナの恵みが無くなり、\n不安定な状態になっているのだろう		
+mev03_030.scr:6	mev03_030.scr	6	ルビア	Rubia Natwick	personagem	CRLF x2	星晶がエネルギーとして使用される様に\nなるまで、人々は世界樹が生み出すマナだけで\n生きていたのに…		
+mev03_030.scr:7	mev03_030.scr	7	ルビア	Rubia Natwick	personagem	CRLF x2	昔の人は、マナを生み出してくれる世界樹に\n感謝を捧げていたのに、今の人や文明は\n星晶をむさぼるばかり		
+mev03_030.scr:8	mev03_030.scr	8	ルビア	Rubia Natwick	personagem		感謝する事すら忘れているわ		
+mev03_030.scr:9	mev03_030.scr	9	ウィル	Will Raynard	personagem	CRLF x2	星晶を採掘し尽くしてしまうと、\nもう人々は今の様な豊かな暮らしは\n出来なくなるな		
+mev03_030.scr:10	mev03_030.scr	10	ウィル	Will Raynard	personagem	CRLF x2	だが、もっと恐ろしいのは、\n世界樹が生み出している非物質のマナを\nエネルギー利用する技術が出来た時だ		
+mev03_030.scr:11	mev03_030.scr	11	ウィル	Will Raynard	personagem	CRLF x1	そうなれば、人々はこの世界の生命を支える\nマナまでも奪い尽くすだろう		
+mev03_030.scr:12	mev03_030.scr	12	ウィル	Will Raynard	personagem	CRLF x1	一時の繁栄と引き換えに世界樹は枯れ、\n世界は滅亡してしまう		
+mev03_030.scr:13	mev03_030.scr	13	ルビア	Rubia Natwick	personagem		星晶に頼らない世界になればいいな…		
+mev03_030.scr:14	mev03_030.scr	14	ルビア	Rubia Natwick	personagem	CRLF x1	早く、オルタ・ビレッジが\n実現すればいいのに		
+mev03_040.scr:0	mev03_040.scr	0	ルビア	Rubia Natwick	personagem		キャッ！　虫！？		
+mev03_040.scr:1	mev03_040.scr	1	ウィル	Will Raynard	personagem	CRLF x2	これは…！！\nここにしか生息しない貴重な生物、\n「コクヨウ玉虫」だ		
+mev03_040.scr:2	mev03_040.scr	2	ルビア	Rubia Natwick	personagem	CRLF x2	こんな環境で虫が？\n動かないわ。\n死んでる…？		
+mev03_040.scr:3	mev03_040.scr	3	ウィル	Will Raynard	personagem	CRLF x2	コクヨウ玉虫は、この苔を食するのだが。\nこいつも枯れているな…。\n不安定な地熱のせいで枯れたのだろう		
+mev03_040.scr:4	mev03_040.scr	4	ウィル	Will Raynard	personagem		やはり、星晶の採掘が原因かもしれんな		
+mev03_040.scr:5	mev03_040.scr	5	ウィル	Will Raynard	personagem	CRLF x1	コクヨウ玉虫に、この苔…。\nどちらも貴重な種だと言うのに…		
+mev03_040.scr:6	mev03_040.scr	6	ルビア	Rubia Natwick	personagem		これって、赤い煙！？		
+mev03_040.scr:7	mev03_040.scr	7	ウィル	Will Raynard	personagem		この煙の動きは…！		
+mev03_040.scr:8	mev03_040.scr	8	ウィル	Will Raynard	personagem	CRLF x2	何だ、今のは…。\nあの赤い煙、まるで意志がある様に\n動いていた…		
+mev03_040.scr:9	mev03_040.scr	9	ウィル	Will Raynard	personagem	CRLF x1	これは、単なる有害なガスなどでは\n無さそうだ		
+mev03_040.scr:10	mev03_040.scr	10	ウィル	Will Raynard	personagem	CRLF x1	む…？\nまだ生きている様だな		
+mev03_040.scr:11	mev03_040.scr	11	ウィル	Will Raynard	personagem		ならば、こいつを持って帰るか		
+mev03_040.scr:12	mev03_040.scr	12	ルビア	Rubia Natwick	personagem		ええ〜、気持ちわる〜い		
+mev03_040.scr:13	mev03_040.scr	13	ウィル	Will Raynard	personagem	CRLF x2	だが、今の赤い煙が\n生物変化の要因かもしれない。\n調べれば何かわかるだろう		
+mev03_040.scr:14	mev03_040.scr	14	ルビア	Rubia Natwick	personagem	CRLF x1	それじゃあ、早く戻りましょう。\nこんな場所、もうこりごりだわ！		
+mev03_050.scr:0	mev03_050.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	今回、赤い煙が本当に現れたのは、\n収穫だったね		
+mev03_050.scr:1	mev03_050.scr	1	ウィル	Will Raynard	personagem	CRLF x1	あの場で生物変化は確認出来なかったが、\n現れたあの赤い煙…		
+mev03_050.scr:2	mev03_050.scr	2	ウィル	Will Raynard	personagem	CRLF x1	奇妙な事に、生きている虫にしか\nまとわり付かなかった		
+mev03_050.scr:3	mev03_050.scr	3	ウィル	Will Raynard	personagem	CRLF x1	持ち帰った虫を調べてみたが、\n取り立てて変化は無い		
+mev03_050.scr:4	mev03_050.scr	4	ウィル	Will Raynard	personagem	CRLF x1	ほんのわずかだが餌も手に入れられた。\nしばらく飼育してみようと思う		
+mev03_050.scr:5	mev03_050.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	はい。\nそれじゃあ、管理はお願いします		
+mev03_050.scr:6	mev03_050.scr	6	(mensagem de sistema)	(mensagem de sistema)	sistema		優先行動（初級者編）が使えるようになりました！		
+mev03_060.scr:0	mev03_060.scr	0	レイヴン	Raven	personagem		よう、少年		
+mev03_060.scr:1	mev03_060.scr	1	レイヴン	Raven	personagem	CRLF x1	アドリビトムってギルドは、\nここで良かったかな？		
+mev03_060.scr:2	mev03_060.scr	2	レイヴン	Raven	personagem		おっ、そこのお嬢さん！		
+mev03_060.scr:3	mev03_060.scr	3	レイヴン	Raven	personagem	CRLF x1	アドリビトムってギルドは、\nここで良かったのかな？		
+mev03_060.scr:4	mev03_060.scr	4	レイヴン	Raven	personagem	CRLF x2	あらー。\nおっさん、そんなに怪しい？\nおっさんの魅力に胸がどきどき？		
+mev03_060.scr:5	mev03_060.scr	5	ジュディス	Judith	personagem	CRLF x1	あら、この人があなたの魅力を\nわかってくれる人だったらいいのだけれど		
+mev03_060.scr:6	mev03_060.scr	6	レイヴン	Raven	personagem		…ジュディスちゃん…		
+mev03_060.scr:7	mev03_060.scr	7	ジュディス	Judith	personagem	CRLF x1	私達、ここで働きたいの。\nリーダーはどちら？		
+mev03_060.scr:8	mev03_060.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	はい、わたしがこのギルド\nアドリビトムのリーダー、アンジュです。\n何か御用でしょうか？		
+mev03_060.scr:9	mev03_060.scr	9	ジュディス	Judith	personagem	CRLF x1	私はジュディス。\nそして彼が…		
+mev03_060.scr:10	mev03_060.scr	10	レイヴン	Raven	personagem	CRLF x1	俺はレイヴン。\nここにユーリのあんちゃんいるっしょ？		
+mev03_060.scr:11	mev03_060.scr	11	レイヴン	Raven	personagem		俺達、あいつが元いたギルドの仲間なのよ		
+mev03_060.scr:12	mev03_060.scr	12	ジュディス	Judith	personagem	CRLF x1	エステルの依頼を受けたあとで、\n彼、指名手配になったでしょう？		
+mev03_060.scr:13	mev03_060.scr	13	レイヴン	Raven	personagem	CRLF x2	そーそー、そのせいで俺達のギルドまで\nガサ入れが入っちゃって、エステル嬢ちゃん\n誘拐の手引きをしたと疑いをかけられてるのよ		
+mev03_060.scr:14	mev03_060.scr	14	レイヴン	Raven	personagem		ま、手引きをしたのはウソじゃないんだけどね		
+mev03_060.scr:15	mev03_060.scr	15	レイヴン	Raven	personagem	CRLF x1	そんで、ガルバンゾをしばらく出た方が\nいいんじゃないかねって		
+mev03_060.scr:16	mev03_060.scr	16	ジュディス	Judith	personagem	CRLF x1	ユーリがここで仕事をしてるって\n噂を聞いたから来てみたの		
+mev03_060.scr:17	mev03_060.scr	17	ジュディス	Judith	personagem	CRLF x1	どうかしら？\nここで働かせてもらえない？		
+mev03_060.scr:18	mev03_060.scr	18	アンジュ	Ange Serena	personagem	CRLF x1	オッケーよ。\nそれじゃあ、加入の手続きをするね		
+mev03_060.scr:19	mev03_060.scr	19	レイヴン	Raven	personagem	CRLF x1	ふい〜。\nやっと、逃亡生活とおさらばなのね		
+mev03_060.scr:20	mev03_060.scr	20	レイヴン	Raven	personagem		んじゃ、これからよろしくな、少年！		
+mev03_060.scr:21	mev03_060.scr	21	レイヴン	Raven	personagem		んじゃ、これからよろしくな、お嬢さん！		
+mev03_060.scr:22	mev03_060.scr	22	(mensagem de sistema)	(mensagem de sistema)	sistema		ジュディスがアドリビトムに加入しました		
+mev03_060.scr:23	mev03_060.scr	23	(mensagem de sistema)	(mensagem de sistema)	sistema		レイヴンがアドリビトムに加入しました		
+mev03_070.scr:0	mev03_070.scr	0	ジョアン	Joan	personagem	CRLF x2	すみません…。\nアドリビトムというギルドは\nこちらでしょうか？		
+mev03_070.scr:1	mev03_070.scr	1	アンジュ	Ange Serena	personagem		はい		
+mev03_070.scr:2	mev03_070.scr	2	ジョアン	Joan	personagem	CRLF x2	私は、モラード村から来ました。\nジョアンと言います。\nここへ、依頼をしに来たんですけど…		
+mev03_070.scr:3	mev03_070.scr	3	アンジュ	Ange Serena	personagem		どういった依頼でしょうか？		
+mev03_070.scr:4	mev03_070.scr	4	ジョアン	Joan	personagem	CRLF x2	ゴホッ…！！\nブラウニー坑道の奥地へ行きたくて、\n護衛を…ゴホゴホッ…、お願いしたいんです		
+mev03_070.scr:5	mev03_070.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	顔色が随分悪い様ですが、\nお薬をもってきましょうか？		
+mev03_070.scr:6	mev03_070.scr	6	ジョアン	Joan	personagem	CRLF x1	いいえ、私の病気は薬では治りません。\n医者ですら、さじを投げたんですから…		
+mev03_070.scr:7	mev03_070.scr	7	ジョアン	Joan	personagem		でも、治す方法が一つだけ…		
+mev03_070.scr:8	mev03_070.scr	8	ジョアン	Joan	personagem	CRLF x2	そのブラウニー坑道の奥には\n「病気を治してくれる存在」が\nいるそうなので…		
+mev03_070.scr:9	mev03_070.scr	9	アンジュ	Ange Serena	personagem		病気を治す…？		
+mev03_070.scr:10	mev03_070.scr	10	ジョアン	Joan	personagem	CRLF x1	護衛を…、ゴホッ…、\n引き受けていただけますか…？		
+mev03_070.scr:11	mev03_070.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	はい…。\n依頼とあれば…		
+mev03_070.scr:12	mev03_070.scr	12	ジョアン	Joan	personagem	CRLF x1	では、受けていただける時に\n連絡を下さい		
+mev03_070.scr:13	mev03_070.scr	13	ジョアン	Joan	personagem		失礼します…、ゴホゴホゴホッ…！		
+mev03_070.scr:14	mev03_070.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	はい。\nでは、お体、お大事になさって下さいね		

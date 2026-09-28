@@ -1,0 +1,305 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+bow#0	bow	0	(item/equipamento)	(item/equipment)	sistema		スモールボウ	Small Bow	
+bow#1	bow	1	(item/equipamento)	(item/equipment)	sistema		使いやすさを重視した小型の弓	A small bow emphasizing ease of use.	
+bow#2	bow	2	(item/equipamento)	(item/equipment)	sistema		セルフボウ	Self Bow	
+bow#3	bow	3	(item/equipamento)	(item/equipment)	sistema		単一の素材から作られた弓	A bow crafted from a single material.	
+bow#4	bow	4	(item/equipamento)	(item/equipment)	sistema		ボウ	Bow	
+bow#5	bow	5	(item/equipamento)	(item/equipment)	sistema		初心者が扱う汎用的な弓	A versatile bow handled by beginners.	
+bow#6	bow	6	(item/equipamento)	(item/equipment)	sistema		コンポジットボウ	Composite Bow	
+bow#7	bow	7	(item/equipamento)	(item/equipment)	sistema		複数の素材から作られた弓	A bow crafted from multiple materials.	
+bow#8	bow	8	(item/equipamento)	(item/equipment)	sistema		ラピッドボウ	Rapid Bow	
+bow#9	bow	9	(item/equipamento)	(item/equipment)	sistema		連射しやすい構造を持つ弓	A bow structured for rapid firing.	
+bow#10	bow	10	(item/equipamento)	(item/equipment)	sistema		スプレッド	Spread	
+bow#11	bow	11	(item/equipamento)	(item/equipment)	sistema		まき散らすの意を持つ弓	A bow meaning to scatter.	
+bow#12	bow	12	(item/equipamento)	(item/equipment)	sistema		アイアンボウ	Iron Bow	
+bow#13	bow	13	(item/equipamento)	(item/equipment)	sistema		鉄弓	An iron bow.	
+bow#14	bow	14	(item/equipamento)	(item/equipment)	sistema		バトルボウ	Battle Bow	
+bow#15	bow	15	(item/equipamento)	(item/equipment)	sistema		金属で補強され、より実戦向きになった弓	A bow reinforced with metal to be more suited for combat.	
+bow#16	bow	16	(item/equipamento)	(item/equipment)	sistema		ライトニングボウ	Lightning Bow	
+bow#17	bow	17	(item/equipamento)	(item/equipment)	sistema		雷の如く高速で矢を撃ち出せる弓	A bow capable of firing arrows at lightning speed.	
+bow#18	bow	18	(item/equipamento)	(item/equipment)	sistema		ゴシックボウ	Gothic Bow	
+bow#19	bow	19	(item/equipamento)	(item/equipment)	sistema		装飾が施された弓	An ornamented bow.	
+bow#20	bow	20	(item/equipamento)	(item/equipment)	sistema		ガードボウ	Guard Bow	
+bow#21	bow	21	(item/equipamento)	(item/equipment)	sistema		シールドがあしらわれた頑丈な弓	A sturdy bow fitted with a shield.	
+bow#22	bow	22	(item/equipamento)	(item/equipment)	sistema		クレインクィン	Cranequin	
+bow#23	bow	23	(item/equipamento)	(item/equipment)	sistema		大変優れた構造を持つ弓	A bow with a remarkably superior structure.	
+bow#24	bow	24	(item/equipamento)	(item/equipment)	sistema		シージボウ	Siege Bow	
+bow#25	bow	25	(item/equipamento)	(item/equipment)	sistema		城攻めの時に使用されていた弓	A bow used during castle sieges.	
+bow#26	bow	26	(item/equipamento)	(item/equipment)	sistema		メタルボウ	Metal Bow	
+bow#27	bow	27	(item/equipamento)	(item/equipment)	sistema		しなやかな金属で作られた弓	A bow made of pliable metal.	
+bow#28	bow	28	(item/equipamento)	(item/equipment)	sistema		エルヴンボウ	Elven Bow	
+bow#29	bow	29	(item/equipamento)	(item/equipment)	sistema		弓使いに長けた一族に伝わる伝説の弓	A legendary bow handed down in a clan renowned for archery.	
+bow#30	bow	30	(item/equipamento)	(item/equipment)	sistema		グリムボウ	Grimm Bow	
+bow#31	bow	31	(item/equipamento)	(item/equipment)	sistema		この弓で撃たれた者は、残酷な結末を迎える	Those shot by this bow meet a cruel end.	
+bow#32	bow	32	(item/equipamento)	(item/equipment)	sistema		シェルボウ	Shell Bow	
+bow#33	bow	33	(item/equipamento)	(item/equipment)	sistema		魔物の甲殻で作られた弓	A bow crafted from monster carapace.	
+bow#34	bow	34	(item/equipamento)	(item/equipment)	sistema		キューピッドボウ	Cupid Bow	
+bow#35	bow	35	(item/equipamento)	(item/equipment)	sistema		天使の弓を模した弓	A bow modeled after an angel's bow.	
+bow#36	bow	36	(item/equipamento)	(item/equipment)	sistema		コンパクトボウ	Compact Bow	
+bow#37	bow	37	(item/equipamento)	(item/equipment)	sistema		さらなる軽量化で使いやすくなった弓	A bow made even easier to use through further weight reduction.	
+bow#38	bow	38	(item/equipamento)	(item/equipment)	sistema		マイティボウ	Mighty Bow	
+bow#39	bow	39	(item/equipamento)	(item/equipment)	sistema		威力を高めたセルフボウ	A self bow with enhanced power.	
+bow#40	bow	40	(item/equipamento)	(item/equipment)	sistema		ショートボウ	Shortbow	
+bow#41	bow	41	(item/equipamento)	(item/equipment)	sistema		中級者が使う汎用的な弓	A versatile bow used by intermediate archers.	
+bow#42	bow	42	(item/equipamento)	(item/equipment)	sistema		シルバーボウ	Silver Bow	
+bow#43	bow	43	(item/equipamento)	(item/equipment)	sistema		銀装飾がなされたコンポジットボウ	A composite bow decorated with silver.	
+bow#44	bow	44	(item/equipamento)	(item/equipment)	sistema		マシンガン	Machine Gun	
+bow#45	bow	45	(item/equipamento)	(item/equipment)	sistema		より連射しやすい構造を持つ弓	A bow structured for even easier rapid firing.	
+bow#46	bow	46	(item/equipamento)	(item/equipment)	sistema		ボーンスプレッド	Bone Spread	
+bow#47	bow	47	(item/equipamento)	(item/equipment)	sistema		当たった者は骨をまき散らす意の弓	A bow meaning those hit will scatter their bones.	
+bow#48	bow	48	(item/equipamento)	(item/equipment)	sistema		ゴールドボウ	Gold Bow	
+bow#49	bow	49	(item/equipamento)	(item/equipment)	sistema		金細工が施されている豪華な弓	A gorgeous bow adorned with gold craftsmanship.	
+bow#50	bow	50	(item/equipamento)	(item/equipment)	sistema		ウォーボウ	War Bow	
+bow#51	bow	51	(item/equipamento)	(item/equipment)	sistema		実戦用弓	A combat bow.	
+bow#52	bow	52	(item/equipamento)	(item/equipment)	sistema		サンダーボウ	Thunder Bow	
+bow#53	bow	53	(item/equipamento)	(item/equipment)	sistema		雷撃の如き一閃を放つ名弓	A renowned bow unleashing a flash like a lightning strike.	
+bow#54	bow	54	(item/equipamento)	(item/equipment)	sistema		ドラゴンボウ	Dragon Bow	
+bow#55	bow	55	(item/equipamento)	(item/equipment)	sistema		龍の装飾が施された弓	A bow decorated with dragon ornamentation.	
+bow#56	bow	56	(item/equipamento)	(item/equipment)	sistema		シールドボウ	Shield Bow	
+bow#57	bow	57	(item/equipamento)	(item/equipment)	sistema		攻防一体となった弓	A bow combining offense and defense in one.	
+bow#58	bow	58	(item/equipamento)	(item/equipment)	sistema		クルセイダーボウ	Crusader Bow	
+bow#59	bow	59	(item/equipamento)	(item/equipment)	sistema		信心深い者が持つ弓	A bow wielded by the devout.	
+bow#60	bow	60	(item/equipamento)	(item/equipment)	sistema		ロングシージボウ	Long Siege Bow	
+bow#61	bow	61	(item/equipamento)	(item/equipment)	sistema		遠距離からの狙撃が可能な弓	A bow capable of sniping from long range.	
+bow#62	bow	62	(item/equipamento)	(item/equipment)	sistema		ハイメタルボウ	High Metal Bow	
+bow#63	bow	63	(item/equipamento)	(item/equipment)	sistema		希少価値の高い金属で作られた弓	A bow made of highly valuable metal.	
+bow#64	bow	64	(item/equipamento)	(item/equipment)	sistema		ブレードボウ	Blade Bow	
+bow#65	bow	65	(item/equipamento)	(item/equipment)	sistema		矢に細工がしてある弓	A bow with specially crafted arrows.	
+bow#66	bow	66	(item/equipamento)	(item/equipment)	sistema		ルーンボウ	Rune Bow	
+bow#67	bow	67	(item/equipamento)	(item/equipment)	sistema		魔法文様を施した弓	A bow inscribed with magical patterns.	
+bow#68	bow	68	(item/equipamento)	(item/equipment)	sistema		ビーストシェルボウ	Beast Shell Bow	
+bow#69	bow	69	(item/equipamento)	(item/equipment)	sistema		より強い魔物の甲殻で作られた弓	A bow crafted from the carapace of stronger monsters.	
+bow#70	bow	70	(item/equipamento)	(item/equipment)	sistema		エンジェルボウ	Angel Bow	
+bow#71	bow	71	(item/equipamento)	(item/equipment)	sistema		天使が罰を下すとされる弓	A bow said to be used by angels to pass judgment.	
+bow#72	bow	72	(item/equipamento)	(item/equipment)	sistema		ライトボウ	Light Bow	
+bow#73	bow	73	(item/equipamento)	(item/equipment)	sistema		軽量化に軽量化を重ねた名弓	A renowned bow lightened again and again.	
+bow#74	bow	74	(item/equipamento)	(item/equipment)	sistema		スナイパーボウ	Sniper Bow	
+bow#75	bow	75	(item/equipamento)	(item/equipment)	sistema		更に命中精度を上げたセルフボウ	A self bow with further improved accuracy.	
+bow#76	bow	76	(item/equipamento)	(item/equipment)	sistema		ロングボウ	Longbow	
+bow#77	bow	77	(item/equipamento)	(item/equipment)	sistema		上級者が使う弓	A bow used by advanced archers.	
+bow#78	bow	78	(item/equipamento)	(item/equipment)	sistema		ミスリルボウ	Mithril Bow	
+bow#79	bow	79	(item/equipamento)	(item/equipment)	sistema		ミスリル銀を使用したコンポジットボウ	A composite bow using mithril silver.	
+bow#80	bow	80	(item/equipamento)	(item/equipment)	sistema		バルカン	Vulcan	
+bow#81	bow	81	(item/equipamento)	(item/equipment)	sistema		まるで矢をばらまく様に撃てるかも…	Shoots arrows as though spraying them across the battlefield...	
+bow#82	bow	82	(item/equipamento)	(item/equipment)	sistema		ゴーストスプレッド	Ghost Spread	
+bow#83	bow	83	(item/equipamento)	(item/equipment)	sistema		撃たれた者は魂までをもまき散らす	Those struck by it have even their souls scattered.	
+bow#84	bow	84	(item/equipamento)	(item/equipment)	sistema		ダイヤボウ	Diamond Bow	
+bow#85	bow	85	(item/equipamento)	(item/equipment)	sistema		ダイヤモンド細工が施されているかなり豪華な弓	A lavish bow adorned with diamond craftsmanship.	
+bow#86	bow	86	(item/equipamento)	(item/equipment)	sistema		ロングウォーボウ	Long War Bow	
+bow#87	bow	87	(item/equipamento)	(item/equipment)	sistema		長距離射撃用の強力な弓	A powerful bow meant for long-distance firing.	
+bow#88	bow	88	(item/equipamento)	(item/equipment)	sistema		メイデンボウ	Maiden Bow	
+bow#89	bow	89	(item/equipamento)	(item/equipment)	sistema		乙女の名を冠する名弓	A renowned bow bearing the name of a maiden.	
+bow#90	bow	90	(item/equipamento)	(item/equipment)	sistema		ハイドラボウ	Hydra Bow	
+bow#91	bow	91	(item/equipamento)	(item/equipment)	sistema		九の頭を持つ蛇の装飾が施された弓	A bow decorated with the motif of a nine-headed serpent.	
+bow#92	bow	92	(item/equipamento)	(item/equipment)	sistema		プロテクトボウ	Protect Bow	
+bow#93	bow	93	(item/equipamento)	(item/equipment)	sistema		攻防を兼ね備えた名弓	A renowned bow combining offense and defense.	
+bow#94	bow	94	(item/equipamento)	(item/equipment)	sistema		ベルセルクアロー	Berserk Arrow	
+bow#95	bow	95	(item/equipamento)	(item/equipment)	sistema		狂戦士の弓。とても強力な一撃を放てる	A berserker's bow capable of firing an intensely powerful shot.	
+bow#96	bow	96	(item/equipamento)	(item/equipment)	sistema		ソウルスティール	Soul Steal	
+bow#97	bow	97	(item/equipamento)	(item/equipment)	sistema		射抜いた相手の魂までも貫くとされる強力な魔弓	A powerful magic bow said to pierce even the soul of the target.	
+bow#98	bow	98	(item/equipamento)	(item/equipment)	sistema		レアメタルボウ	Rare Metal Bow	
+bow#99	bow	99	(item/equipamento)	(item/equipment)	sistema		希少な金属で作られた名弓	A renowned bow crafted from rare metals.	
+bow#100	bow	100	(item/equipamento)	(item/equipment)	sistema		エッジボウ	Edge Bow	
+bow#101	bow	101	(item/equipamento)	(item/equipment)	sistema		矢に傷口が広がる細工がしてある弓	A bow with arrows designed to widen wounds.	
+bow#102	bow	102	(item/equipamento)	(item/equipment)	sistema		エンシェントボウ	Ancient Bow	
+bow#103	bow	103	(item/equipamento)	(item/equipment)	sistema		古代様式の弓	A bow crafted in ancient style.	
+bow#104	bow	104	(item/equipamento)	(item/equipment)	sistema		ドラゴンシェルボウ	Dragon Shell Bow	
+bow#105	bow	105	(item/equipamento)	(item/equipment)	sistema		竜の甲殻から作られた名弓	A renowned bow crafted from dragon carapace.	
+bow#106	bow	106	(item/equipamento)	(item/equipment)	sistema		ゴッドボウ	God Bow	
+bow#107	bow	107	(item/equipamento)	(item/equipment)	sistema		大神が使ったとされる弓を模した名弓	A renowned bow modeled after the bow of a great deity.	
+bow#108	bow	108	(item/equipamento)	(item/equipment)	sistema		狩人の弓	Hunter's Bow	
+bow#109	bow	109	(item/equipamento)	(item/equipment)	sistema		カリュウドノユミ	Hunter's Bow	
+bow#110	bow	110	(item/equipamento)	(item/equipment)	sistema		ディセンダーと認められた狩人専用の弓	A bow exclusive to hunters recognized as Descenders.	
+bow#111	bow	111	(item/equipamento)	(item/equipment)	sistema		名射手の弓	Master Archer's Bow	
+bow#112	bow	112	(item/equipamento)	(item/equipment)	sistema		メイイテノユミ	Master Archer's Bow	
+bow#113	bow	113	(item/equipamento)	(item/equipment)	sistema		ディセンダーの為に作られた狩人専用の弓	A bow crafted for hunters recognized as Descenders.	
+bow#114	bow	114	(item/equipamento)	(item/equipment)	sistema		破魔の弓	Demon-Banishment Bow	
+bow#115	bow	115	(item/equipamento)	(item/equipment)	sistema		ハマノユミ	Demon-Banishment Bow	
+bow#116	bow	116	(item/equipamento)	(item/equipment)	sistema		東方の英雄が魔獸退治に使ったとされる退魔の弓	A demon-slaying bow used by an eastern hero to defeat beasts.	
+bow#117	bow	117	(item/equipamento)	(item/equipment)	sistema		ウィンドフォース	Windforce	
+bow#118	bow	118	(item/equipamento)	(item/equipment)	sistema		神風の異名を持つ伝説の弓	A legendary bow renowned by the name of the divine wind.	
+bow#119	bow	119	(item/equipamento)	(item/equipment)	sistema		アルテミスの弓	Artemis Bow	
+bow#120	bow	120	(item/equipamento)	(item/equipment)	sistema		アルテミスノユミ	Artemis Bow	
+bow#121	bow	121	(item/equipamento)	(item/equipment)	sistema		アルテミス神が使ったとされる伝説の弓	A legendary bow said to have been used by the goddess Artemis.	
+bow#122	bow	122	(item/equipamento)	(item/equipment)	sistema		天鹿児弓	Ame-no-Kakoyumi	
+bow#123	bow	123	(item/equipamento)	(item/equipment)	sistema		アマノカコユミ	Ame-no-Kakoyumi	
+bow#124	bow	124	(item/equipamento)	(item/equipment)	sistema		矢を放てば、天まで届くといわれる神器	A sacred bow said to reach the heavens when an arrow is loosed.	
+bow#125	bow	125	(item/equipamento)	(item/equipment)	sistema		セラフボウ	Seraph Bow	
+bow#126	bow	126	(item/equipamento)	(item/equipment)	sistema		天使の羽を纏う事の出来る弓	A bow capable of being cloaked in angelic wings.	
+bow#127	bow	127	(item/equipamento)	(item/equipment)	sistema		デビルボウ	Devil Bow	
+bow#128	bow	128	(item/equipamento)	(item/equipment)	sistema		悪魔の羽を纏う事の出来る弓	A bow capable of being cloaked in demonic wings.	
+bow#129	bow	129	(item/equipamento)	(item/equipment)	sistema		エデンズファイア	Eden's Fire	
+bow#130	bow	130	(item/equipamento)	(item/equipment)	sistema		ＴＯＤ２に登場したナナリーが本作で装備している武器	Weapon equipped in this title by Nanaly from TOD2.	
+bow#131	bow	131	(item/equipamento)	(item/equipment)	sistema		プライマルエルヴンボウ	Primal Elven Bow	
+bow#132	bow	132	(item/equipamento)	(item/equipment)	sistema		ＴＯＰに登場したチェスターが本作で装備している武器	Weapon equipped in this title by Chester from TOP.	
+bow#133	bow	133	(item/equipamento)	(item/equipment)	sistema		ヴァリアブルエッジ	Variable Edge	
+bow#134	bow	134	(item/equipamento)	(item/equipment)	sistema		ＴＯＶに登場したレイヴンが本作で装備している武器	Weapon equipped in this title by Raven from TOV.	
+bow#135	bow	135	(item/equipamento)	(item/equipment)	sistema		セレスティアルスター	Celestial Star	
+bow#136	bow	136	(item/equipamento)	(item/equipment)	sistema		ＴＯＡに登場したナタリアが本作で装備している武器	Weapon equipped in this title by Natalia from TOA.	
+bow#137	bow	137	(item/equipamento)	(item/equipment)	sistema		ウッドアローＤ	Wood Arrow D	
+bow#138	bow	138	(item/equipamento)	(item/equipment)	sistema		ＴＯＤに登場したチェルシーが本作で装備している武器	Weapon equipped in this title by Chelsea from TOD.	
+bow#139	bow	139	(item/equipamento)	(item/equipment)	sistema		トライアルボウ	Trial Bow	
+bow#140	bow	140	(item/equipamento)	(item/equipment)	sistema		最大値（弓）	Max Value (Bow)	
+handgun#0	handgun	0	(item/equipamento)	(item/equipment)	sistema		リボルバーＳＡ	Revolver SA	
+handgun#1	handgun	1	(item/equipamento)	(item/equipment)	sistema		リボルバーシングルアクション	Revolver SA	
+handgun#2	handgun	2	(item/equipamento)	(item/equipment)	sistema		数世代前の銃	A firearm from several generations ago.	
+handgun#3	handgun	3	(item/equipamento)	(item/equipment)	sistema		オートマカスタム	Automa Custom	
+handgun#4	handgun	4	(item/equipamento)	(item/equipment)	sistema		市販されている自動式拳銃	A commercially sold automatic pistol.	
+handgun#5	handgun	5	(item/equipamento)	(item/equipment)	sistema		テキサスブレイズ	Texas Blaze	
+handgun#6	handgun	6	(item/equipamento)	(item/equipment)	sistema		開拓者がもっぱら愛用している銃	A firearm favored extensively by frontiersmen.	
+handgun#7	handgun	7	(item/equipamento)	(item/equipment)	sistema		スタンダードマグ	Standard Mag	
+handgun#8	handgun	8	(item/equipamento)	(item/equipment)	sistema		マグナム弾を使うリボルバー銃	A revolver that fires magnum rounds.	
+handgun#9	handgun	9	(item/equipamento)	(item/equipment)	sistema		ボルテックマグ	Voltek Mag	
+handgun#10	handgun	10	(item/equipamento)	(item/equipment)	sistema		雷球を思わせる弾丸を撃ち出す閃光の銃	A flashing handgun firing bullets reminiscent of ball lightning.	
+handgun#11	handgun	11	(item/equipamento)	(item/equipment)	sistema		オートマグ	Auto Mag	
+handgun#12	handgun	12	(item/equipamento)	(item/equipment)	sistema		マグナム弾を使う自動式拳銃	An automatic pistol that fires magnum rounds.	
+handgun#13	handgun	13	(item/equipamento)	(item/equipment)	sistema		ブリザードマグ	Blizzard Mag	
+handgun#14	handgun	14	(item/equipamento)	(item/equipment)	sistema		魂をも凍らせる冷たき弾丸を撃ち出す拳銃	A handgun firing freezing bullets that chill even the soul.	
+handgun#15	handgun	15	(item/equipamento)	(item/equipment)	sistema		バイパーマグ	Viper Mag	
+handgun#16	handgun	16	(item/equipamento)	(item/equipment)	sistema		大口径のマグナム弾を使用する拳銃	A handgun using large-caliber magnum rounds.	
+handgun#17	handgun	17	(item/equipamento)	(item/equipment)	sistema		ファストマグ	Fast Mag	
+handgun#18	handgun	18	(item/equipamento)	(item/equipment)	sistema		良質故に射撃衝動を抑えるのが大変な銃	A gun so fine it is hard to suppress the urge to shoot it.	
+handgun#19	handgun	19	(item/equipamento)	(item/equipment)	sistema		クイックワーカ	Quick Worker	
+handgun#20	handgun	20	(item/equipamento)	(item/equipment)	sistema		素早く射撃体勢に移れるスマートなデザインの銃	A smartly designed gun that shifts swiftly into shooting stance.	
+handgun#21	handgun	21	(item/equipamento)	(item/equipment)	sistema		ピットスイーパー	Pit Sweeper	
+handgun#22	handgun	22	(item/equipamento)	(item/equipment)	sistema		あまり良い目的には使われない不遇の銃	An unfortunate gun rarely used for good purposes.	
+handgun#23	handgun	23	(item/equipamento)	(item/equipment)	sistema		デザートベリアル	Desert Burial	
+handgun#24	handgun	24	(item/equipamento)	(item/equipment)	sistema		環境の悪さを苦にしないといわれる銃	A gun said not to mind harsh environments in the least.	
+handgun#25	handgun	25	(item/equipamento)	(item/equipment)	sistema		レンドバスター	Rend Buster	
+handgun#26	handgun	26	(item/equipamento)	(item/equipment)	sistema		悪の加担者をすべて抹殺する恐銃	A terrifying gun that obliterates all accomplices of evil.	
+handgun#27	handgun	27	(item/equipamento)	(item/equipment)	sistema		ピースキーパー	Peacekeeper	
+handgun#28	handgun	28	(item/equipamento)	(item/equipment)	sistema		紛争解決の調停者が所有する銃	A firearm possessed by arbiters of conflict resolution.	
+handgun#29	handgun	29	(item/equipamento)	(item/equipment)	sistema		ビリーズレガシー	Billy's Legacy	
+handgun#30	handgun	30	(item/equipamento)	(item/equipment)	sistema		伝説のガンマンの遺産と称される魔銃	A magic gun hailed as the legacy of a legendary gunslinger.	
+handgun#31	handgun	31	(item/equipamento)	(item/equipment)	sistema		リボルバーＤＡ	Revolver DA	
+handgun#32	handgun	32	(item/equipamento)	(item/equipment)	sistema		リボルバーダブルアクション	Revolver DA	
+handgun#33	handgun	33	(item/equipamento)	(item/equipment)	sistema		強力かつ扱いやすいリボルバー銃	A powerful and easy-to-handle revolver.	
+handgun#34	handgun	34	(item/equipamento)	(item/equipment)	sistema		オートマハイパー	Automa Hyper	
+handgun#35	handgun	35	(item/equipamento)	(item/equipment)	sistema		オートマカスタムの強化版	An enhanced version of the Automa Custom.	
+handgun#36	handgun	36	(item/equipamento)	(item/equipment)	sistema		アンクルテキサス	Uncle Texas	
+handgun#37	handgun	37	(item/equipamento)	(item/equipment)	sistema		歴代の開拓者から受け継がれてきた銃	A gun handed down across generations of frontiersmen.	
+handgun#38	handgun	38	(item/equipamento)	(item/equipment)	sistema		スタンダードマグ３２	Standard Mag 32	
+handgun#39	handgun	39	(item/equipamento)	(item/equipment)	sistema		スタンダードマグサンジュウニ	Standard Mag 32	
+handgun#40	handgun	40	(item/equipamento)	(item/equipment)	sistema		スタンダードマグの強化版	An enhanced version of the Standard Mag.	
+handgun#41	handgun	41	(item/equipamento)	(item/equipment)	sistema		グリズリーマグナム	Grizzly Magnum	
+handgun#42	handgun	42	(item/equipamento)	(item/equipment)	sistema		灰色熊を思わせる強大な威力！	Mighty power reminiscent of a grizzly bear!	
+handgun#43	handgun	43	(item/equipamento)	(item/equipment)	sistema		ライトトリガー	Light Trigger	
+handgun#44	handgun	44	(item/equipamento)	(item/equipment)	sistema		引き金の張力が７０ｇの銃	A handgun with a trigger pull of 70 grams.	
+handgun#45	handgun	45	(item/equipamento)	(item/equipment)	sistema		ヴァイパー	Viper	
+handgun#46	handgun	46	(item/equipamento)	(item/equipment)	sistema		毒蛇の名を冠する銃	A gun bearing the name of a venomous snake.	
+handgun#47	handgun	47	(item/equipamento)	(item/equipment)	sistema		パニッシャー	Punisher	
+handgun#48	handgun	48	(item/equipamento)	(item/equipment)	sistema		神罰代行者の聖なる銃	The holy gun of an agent of divine punishment.	
+handgun#49	handgun	49	(item/equipamento)	(item/equipment)	sistema		レッドイーグル	Red Eagle	
+handgun#50	handgun	50	(item/equipamento)	(item/equipment)	sistema		その弾速は狩りをするイーグルに例えられる恐るべき銃	A fearsome gun whose bullet speed is likened to a hunting eagle.	
+handgun#51	handgun	51	(item/equipamento)	(item/equipment)	sistema		トラディショナルガン	Traditional Gun	
+handgun#52	handgun	52	(item/equipamento)	(item/equipment)	sistema		伝統ある匠によって作られた銃	A gun crafted by traditional artisans.	
+handgun#53	handgun	53	(item/equipamento)	(item/equipment)	sistema		ヘビーリコイル	Heavy Recoil	
+handgun#54	handgun	54	(item/equipamento)	(item/equipment)	sistema		反動を強く感じるがそれなりの威力	Has noticeable recoil, but boasts respectable power.	
+handgun#55	handgun	55	(item/equipamento)	(item/equipment)	sistema		トルーパー	Trooper	
+handgun#56	handgun	56	(item/equipamento)	(item/equipment)	sistema		騎兵用拳銃	A handgun for cavalry troops.	
+handgun#57	handgun	57	(item/equipamento)	(item/equipment)	sistema		ブラックイーグル	Black Eagle	
+handgun#58	handgun	58	(item/equipamento)	(item/equipment)	sistema		レッドイーグルよりも大口径の銃	A gun with a larger caliber than the Red Eagle.	
+handgun#59	handgun	59	(item/equipamento)	(item/equipment)	sistema		レイジングドッグ	Raging Dog	
+handgun#60	handgun	60	(item/equipamento)	(item/equipment)	sistema		闘犬の如くタフな銃	A gun as tough as a fighting dog.	
+handgun#61	handgun	61	(item/equipamento)	(item/equipment)	sistema		戦士の銃	Warrior's Gun	
+handgun#62	handgun	62	(item/equipamento)	(item/equipment)	sistema		センシノジュウ	Warrior's Gun	
+handgun#63	handgun	63	(item/equipamento)	(item/equipment)	sistema		勇気と正しき心の象徴と称される銃	A gun hailed as a symbol of courage and a righteous heart.	
+handgun#64	handgun	64	(item/equipamento)	(item/equipment)	sistema		リボルバーＴＡ	Revolver TA	
+handgun#65	handgun	65	(item/equipamento)	(item/equipment)	sistema		リボルバートリプルアクション	Revolver TA	
+handgun#66	handgun	66	(item/equipamento)	(item/equipment)	sistema		全ての面で高レベルの性能を持つ銃	A gun boasting high performance in every aspect.	
+handgun#67	handgun	67	(item/equipamento)	(item/equipment)	sistema		ショートリコイル	Short Recoil	
+handgun#68	handgun	68	(item/equipamento)	(item/equipment)	sistema		威力と使いやすさのバランスを取った銃	A gun balancing power and ease of handling.	
+handgun#69	handgun	69	(item/equipamento)	(item/equipment)	sistema		テキサスサンダー	Texas Thunder	
+handgun#70	handgun	70	(item/equipamento)	(item/equipment)	sistema		荒野に轟く雷と例えられる開拓者魂が宿る銃	A gun harboring the frontiersman spirit, likened to thunder over the wild.	
+handgun#71	handgun	71	(item/equipamento)	(item/equipment)	sistema		カスール	Casull	
+handgun#72	handgun	72	(item/equipamento)	(item/equipment)	sistema		カスール弾を撃てる汎用拳銃	A versatile handgun capable of firing Casull rounds.	
+handgun#73	handgun	73	(item/equipamento)	(item/equipment)	sistema		ピットヴァイパー	Pit Viper	
+handgun#74	handgun	74	(item/equipamento)	(item/equipment)	sistema		マムシの名を冠する銃	A gun bearing the name of a pit viper.	
+handgun#75	handgun	75	(item/equipamento)	(item/equipment)	sistema		協和軍正式拳銃	Commonwealth Army Service Pistol	
+handgun#76	handgun	76	(item/equipamento)	(item/equipment)	sistema		キョウワグンセイシキケンジュウ	Commonwealth Army Service Pistol	
+handgun#77	handgun	77	(item/equipamento)	(item/equipment)	sistema		軍が正式採用した優秀な拳銃	An excellent pistol officially adopted by the military.	
+handgun#78	handgun	78	(item/equipamento)	(item/equipment)	sistema		ベビーホーク	Baby Hawk	
+handgun#79	handgun	79	(item/equipamento)	(item/equipment)	sistema		小型の使いやすい銃	A compact, easy-to-use handgun.	
+handgun#80	handgun	80	(item/equipamento)	(item/equipment)	sistema		ドレッドトリガー	Dread Trigger	
+handgun#81	handgun	81	(item/equipamento)	(item/equipment)	sistema		標的を恐怖に陥れる銃	A gun that plunges its targets into dread.	
+handgun#82	handgun	82	(item/equipamento)	(item/equipment)	sistema		インソレントバスター	Insolent Buster	
+handgun#83	handgun	83	(item/equipamento)	(item/equipment)	sistema		無礼者を排除する銃	A gun that eliminates the insolent.	
+handgun#84	handgun	84	(item/equipamento)	(item/equipment)	sistema		百発百中丸	Bullseye Gun	
+handgun#85	handgun	85	(item/equipamento)	(item/equipment)	sistema		ヒャッパツヒャクチュウマル	Bullseye Gun	
+handgun#86	handgun	86	(item/equipamento)	(item/equipment)	sistema		狙いのつけやすさはピカイチの拳銃	A pistol whose ease of aiming is top-notch.	
+handgun#87	handgun	87	(item/equipamento)	(item/equipment)	sistema		マシンピストル	Machine Pistol	
+handgun#88	handgun	88	(item/equipamento)	(item/equipment)	sistema		連射力と威力のバランスを取った銃	A gun balancing rapid-fire capability with stopping power.	
+handgun#89	handgun	89	(item/equipamento)	(item/equipment)	sistema		グリズリーカスタム	Grizzly Custom	
+handgun#90	handgun	90	(item/equipamento)	(item/equipment)	sistema		灰色熊をも倒せる威力の銃	A gun with enough power to bring down a grizzly bear.	
+handgun#91	handgun	91	(item/equipamento)	(item/equipment)	sistema		トルーパーＳＰ	Trooper SP	
+handgun#92	handgun	92	(item/equipamento)	(item/equipment)	sistema		トルーパースペシャル	Trooper SP	
+handgun#93	handgun	93	(item/equipamento)	(item/equipment)	sistema		トルーパーの強化版拳銃	An enhanced version of the Trooper pistol.	
+handgun#94	handgun	94	(item/equipamento)	(item/equipment)	sistema		デザートホーク	Desert Hawk	
+handgun#95	handgun	95	(item/equipamento)	(item/equipment)	sistema		ベビーホークよりも大口径の銃	A gun with a larger caliber than the Baby Hawk.	
+handgun#96	handgun	96	(item/equipamento)	(item/equipment)	sistema		対戦車銃	Anti-Tank Gun	
+handgun#97	handgun	97	(item/equipamento)	(item/equipment)	sistema		タイセンシャジュウ	Anti-Tank Gun	
+handgun#98	handgun	98	(item/equipamento)	(item/equipment)	sistema		どんな重装甲をも貫く軍用の銃	A military gun capable of piercing any heavy armor.	
+handgun#99	handgun	99	(item/equipamento)	(item/equipment)	sistema		海賊の拳銃	Pirate's Pistol	
+handgun#100	handgun	100	(item/equipamento)	(item/equipment)	sistema		カイゾクノケンジュウ	Pirate's Pistol	
+handgun#101	handgun	101	(item/equipamento)	(item/equipment)	sistema		ディセンダーと認められた海賊専用の銃	A gun exclusive to pirates recognized as Descenders.	
+handgun#102	handgun	102	(item/equipamento)	(item/equipment)	sistema		聖銃士の拳銃	Holy Gunner's Pistol	
+handgun#103	handgun	103	(item/equipamento)	(item/equipment)	sistema		セイジュウシノケンジュウ	Holy Gunner's Pistol	
+handgun#104	handgun	104	(item/equipamento)	(item/equipment)	sistema		ディセンダーと認められたガンマン専用の聖銃	A sacred gun exclusive to gunners recognized as Descenders.	
+handgun#105	handgun	105	(item/equipamento)	(item/equipment)	sistema		魔銃士の拳銃	Magic Gunner's Pistol	
+handgun#106	handgun	106	(item/equipamento)	(item/equipment)	sistema		マジュウシノケンジュウ	Magic Gunner's Pistol	
+handgun#107	handgun	107	(item/equipamento)	(item/equipment)	sistema		ディセンダーと認められたガンマン専用の魔銃	A demonic gun exclusive to gunners recognized as Descenders.	
+handgun#108	handgun	108	(item/equipamento)	(item/equipment)	sistema		ヴァイキングガン	Viking Gun	
+handgun#109	handgun	109	(item/equipamento)	(item/equipment)	sistema		ディセンダーの為に作られた海賊専用の銃	A gun crafted for pirates recognized as Descenders.	
+handgun#110	handgun	110	(item/equipamento)	(item/equipment)	sistema		エンジェルショット	Angel Shot	
+handgun#111	handgun	111	(item/equipamento)	(item/equipment)	sistema		ディセンダーの為に作られたガンマン専用の聖銃	A sacred gun crafted for gunners recognized as Descenders.	
+handgun#112	handgun	112	(item/equipamento)	(item/equipment)	sistema		デビルショット	Devil Shot	
+handgun#113	handgun	113	(item/equipamento)	(item/equipment)	sistema		ディセンダーの為に作られたガンマン専用の魔銃	A demonic gun crafted for gunners recognized as Descenders.	
+handgun#114	handgun	114	(item/equipamento)	(item/equipment)	sistema		フラッシュインザダーク	Flash in the Dark	
+handgun#115	handgun	115	(item/equipamento)	(item/equipment)	sistema		一瞬の光陰と共に標的を仕留める銃	A gun that finishes off targets with a momentary flash.	
+handgun#116	handgun	116	(item/equipamento)	(item/equipment)	sistema		サティスファクション	Satisfaction	
+handgun#117	handgun	117	(item/equipamento)	(item/equipment)	sistema		決して満たされぬ暗い衝動を伴う銃	A gun accompanied by a dark urge that is never satisfied.	
+handgun#118	handgun	118	(item/equipamento)	(item/equipment)	sistema		デスゲイズ	Death Gaze	
+handgun#119	handgun	119	(item/equipamento)	(item/equipment)	sistema		死を呼び込む禍の秘銃	A calamitous secret gun that invites death.	
+handgun#120	handgun	120	(item/equipamento)	(item/equipment)	sistema		黄金銃	Golden Gun	
+handgun#121	handgun	121	(item/equipamento)	(item/equipment)	sistema		オウゴンジュウ	Golden Gun	
+handgun#122	handgun	122	(item/equipamento)	(item/equipment)	sistema		金色に輝く気品に満ちた宝銃	A treasured gun shining gold and filled with nobility.	
+handgun#123	handgun	123	(item/equipamento)	(item/equipment)	sistema		トライアルガン	Trial Gun	
+handgun#124	handgun	124	(item/equipamento)	(item/equipment)	sistema		最大値（拳銃）	Max Value (Handgun)	
+spear#0	spear	0	(item/equipamento)	(item/equipment)	sistema		スピアー	Spear	
+spear#1	spear	1	(item/equipamento)	(item/equipment)	sistema		ごく普通に手に入る槍（ＴＯ専用武器）	An ordinary spear easily obtained. (Tales Exclusive Weapon)	
+spear#2	spear	2	(item/equipamento)	(item/equipment)	sistema		フォーク	Fork	
+spear#3	spear	3	(item/equipamento)	(item/equipment)	sistema		研ぎ澄まされた美しいフォーク（ＴＯ専用武器）	A sharpened, beautiful fork. (Tales Exclusive Weapon)	
+spear#4	spear	4	(item/equipamento)	(item/equipment)	sistema		ウォーパイク	War Pike	
+spear#5	spear	5	(item/equipamento)	(item/equipment)	sistema		高威力の戦争用長槍（ＴＯ専用武器）	A high-powered military pike. (Tales Exclusive Weapon)	
+spear#6	spear	6	(item/equipamento)	(item/equipment)	sistema		ハルバード	Halberd	
+spear#7	spear	7	(item/equipamento)	(item/equipment)	sistema		斧と槍の特性をあわせもつ槍（ＴＯ専用武器）	A polearm combining properties of axe and spear. (Tales Exclusive Weapon)	
+spear#8	spear	8	(item/equipamento)	(item/equipment)	sistema		ブレディット	Bledit	
+spear#9	spear	9	(item/equipamento)	(item/equipment)	sistema		３０ｃｍ以上の穂身をもつ槍（ＴＯ専用武器）	A spear with a point exceeding 30 cm. (Tales Exclusive Weapon)	
+spear#10	spear	10	(item/equipamento)	(item/equipment)	sistema		ライトニングフューリ	Lightning Fury	
+spear#11	spear	11	(item/equipamento)	(item/equipment)	sistema		狂暴なるイナズマの名をもつ槍（ＴＯ専用武器）	A spear bearing the name of furious lightning. (Tales Exclusive Weapon)	
+spear#12	spear	12	(item/equipamento)	(item/equipment)	sistema		シルバーハルバード	Silver Halberd	
+spear#13	spear	13	(item/equipamento)	(item/equipment)	sistema		銀製のハルバード（ＴＯ専用武器）	A halberd made of silver. (Tales Exclusive Weapon)	
+spear#14	spear	14	(item/equipamento)	(item/equipment)	sistema		ブランディストック	Brandistock	
+spear#15	spear	15	(item/equipamento)	(item/equipment)	sistema		三叉槍の一種（ＴＯ専用武器）	A type of three-pronged spear. (Tales Exclusive Weapon)	
+spear#16	spear	16	(item/equipamento)	(item/equipment)	sistema		ドラグナーランス	Dragoon Lance	
+spear#17	spear	17	(item/equipamento)	(item/equipment)	sistema		竜騎兵用槍（ＴＯ専用武器）	A lance for dragoons. (Tales Exclusive Weapon)	
+spear#18	spear	18	(item/equipamento)	(item/equipment)	sistema		シルバーリュッセル	Silver Ruessel	
+spear#19	spear	19	(item/equipamento)	(item/equipment)	sistema		銀製のリュッセル（ＴＯ専用武器）	A ruessel made of silver. (Tales Exclusive Weapon)	
+spear#20	spear	20	(item/equipamento)	(item/equipment)	sistema		シルバーギサルメ	Silver Guisarme	
+spear#21	spear	21	(item/equipamento)	(item/equipment)	sistema		銀製のギサルメ（ＴＯ専用武器）	A guisarme made of silver. (Tales Exclusive Weapon)	
+spear#22	spear	22	(item/equipamento)	(item/equipment)	sistema		インペールパイク	Impale Pike	
+spear#23	spear	23	(item/equipamento)	(item/equipment)	sistema		思わず敵を串刺しにしてしまう長槍（ＴＯ専用武器）	A long pike that impales enemies effortlessly. (Tales Exclusive Weapon)	
+spear#24	spear	24	(item/equipamento)	(item/equipment)	sistema		ミスリルランス	Mithril Lance	
+spear#25	spear	25	(item/equipamento)	(item/equipment)	sistema		ミスリル銀を用いた槍（ＴＯ専用武器）	A lance using mithril silver. (Tales Exclusive Weapon)	
+spear#26	spear	26	(item/equipamento)	(item/equipment)	sistema		ゴールドハルバード	Gold Halberd	
+spear#27	spear	27	(item/equipamento)	(item/equipment)	sistema		金製のハルバード（ＴＯ専用武器）	A halberd made of gold. (Tales Exclusive Weapon)	
+spear#28	spear	28	(item/equipamento)	(item/equipment)	sistema		ドラグナーパイク	Dragoon Pike	
+spear#29	spear	29	(item/equipamento)	(item/equipment)	sistema		竜騎兵用長槍（ＴＯ専用武器）	A long pike for dragoons. (Tales Exclusive Weapon)	
+spear#30	spear	30	(item/equipamento)	(item/equipment)	sistema		朱槍	Vermilion Spear	
+spear#31	spear	31	(item/equipamento)	(item/equipment)	sistema		シュソウ	Vermilion Spear	
+spear#32	spear	32	(item/equipamento)	(item/equipment)	sistema		東方で最も勇気ある武人が持った槍（ＴＯ専用武器）	A spear held by the bravest warrior in the East. (Tales Exclusive Weapon)	
+spear#33	spear	33	(item/equipamento)	(item/equipment)	sistema		ゴールドギサルメ	Gold Guisarme	
+spear#34	spear	34	(item/equipamento)	(item/equipment)	sistema		金製のギサルメ（ＴＯ専用武器）	A guisarme made of gold. (Tales Exclusive Weapon)	
+spear#35	spear	35	(item/equipamento)	(item/equipment)	sistema		フォルティスピア	Fortis Spear	
+spear#36	spear	36	(item/equipamento)	(item/equipment)	sistema		海を割る程の力を秘めた槍（ＴＯ専用武器）	A spear harboring power to cleave the sea. (Tales Exclusive Weapon)	
+spear#37	spear	37	(item/equipamento)	(item/equipment)	sistema		最大値（槍）	Max Value (Spear)	

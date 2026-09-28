@@ -1,0 +1,163 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev17_010.scr:0	cev17_010.scr	0	ロイド	Lloyd Irving	personagem		なあ、ジューダス		
+cev17_010.scr:1	cev17_010.scr	1	ジューダス	Judas	personagem		……何だ		
+cev17_010.scr:2	cev17_010.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	何だよ。\nそんな警戒しなくたっていいだろ？		
+cev17_010.scr:3	cev17_010.scr	3	ジューダス	Judas	personagem		…………		
+cev17_010.scr:4	cev17_010.scr	4	ジューダス	Judas	personagem		気味悪く思わないのか？		
+cev17_010.scr:5	cev17_010.scr	5	ロイド	Lloyd Irving	personagem		何がだ？		
+cev17_010.scr:6	cev17_010.scr	6	ジューダス	Judas	personagem	CRLF x2	僕は、異世界の人間なんだ。\n任務とは言え、得体の知れない人間と\nよくも気安く同行出来たものだと思ってな		
+cev17_010.scr:7	cev17_010.scr	7	ロイド	Lloyd Irving	personagem	CRLF x1	異世界の人間だろうが何だろうが、\nジューダスはジューダスだろ		
+cev17_010.scr:8	cev17_010.scr	8	ロイド	Lloyd Irving	personagem	CRLF x2	というか、住んでる世界が違うってだけで\n相手を気味悪いとか思うのって\n何かおかしくないか？		
+cev17_010.scr:9	cev17_010.scr	9	ジューダス	Judas	personagem		……フッ		
+cev17_010.scr:10	cev17_010.scr	10	ロイド	Lloyd Irving	personagem		な、何だよ		
+cev17_010.scr:11	cev17_010.scr	11	ジューダス	Judas	personagem	CRLF x2	いや。\nどこかの単純バカと\n同じ様な事を言うと思っただけだ		
+cev17_010.scr:12	cev17_010.scr	12	ロイド	Lloyd Irving	personagem		どこかの単純バカ？		
+cev17_010.scr:13	cev17_010.scr	13	ジューダス	Judas	personagem	CRLF x1	案外、似た者同士で気が合うかもしれんな。\nまた、余計な気苦労が増えそうだ……		
+cev17_010.scr:14	cev17_010.scr	14	ロイド	Lloyd Irving	personagem		？？？		
+cev17_020.scr:0	cev17_020.scr	0	ジューダス	Judas	personagem		……ふう		
+cev17_020.scr:1	cev17_020.scr	1	ロイド	Lloyd Irving	personagem	CRLF x1	なあジューダス。\n暑くないのか？		
+cev17_020.scr:2	cev17_020.scr	2	ジューダス	Judas	personagem		暑いに決まっている		
+cev17_020.scr:3	cev17_020.scr	3	ジューダス	Judas	personagem	CRLF x1	ここは火山なんだぞ。\nつまらん質問をするな		
+cev17_020.scr:4	cev17_020.scr	4	ロイド	Lloyd Irving	personagem	CRLF x1	じゃあ、その仮面\n取ればいいじゃないか		
+cev17_020.scr:5	cev17_020.scr	5	ロイド	Lloyd Irving	personagem	CRLF x1	だってさ、そんなもん付けてたら\n汗かいても拭きづらいだろうし		
+cev17_020.scr:6	cev17_020.scr	6	ロイド	Lloyd Irving	personagem	CRLF x2	見るからに暑そうっていうか、\n邪魔そうっていうか……。\n何の為に付けてるのかなぁって		
+cev17_020.scr:7	cev17_020.scr	7	ジューダス	Judas	personagem	CRLF x1	付けている意味ならある。\nお前に心配される必要はない		
+cev17_020.scr:8	cev17_020.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	そうなのか？\nどんな意味があるんだ		
+cev17_020.scr:9	cev17_020.scr	9	ジューダス	Judas	personagem		それは……		
+cev17_020.scr:10	cev17_020.scr	10	ロイド	Lloyd Irving	personagem		もしかして……		
+cev17_020.scr:11	cev17_020.scr	11	ロイド	Lloyd Irving	personagem	CRLF x1	付けてるだけで攻撃力が二倍になるとか\n移動速度が三倍速いとか、そんなのか？		
+cev17_020.scr:12	cev17_020.scr	12	ジューダス	Judas	personagem		ま……まあ、そんなところだ		
+cev17_020.scr:13	cev17_020.scr	13	ロイド	Lloyd Irving	personagem		へえ、すっげえなぁ〜		
+cev17_020.scr:14	cev17_020.scr	14	ロイド	Lloyd Irving	personagem	CRLF x1	なあなあ\nちょっと俺にもかぶらせてくれよ！		
+cev17_020.scr:15	cev17_020.scr	15	ジューダス	Judas	personagem	CRLF x1	っ！　\nおい、触るな！		
+cev17_020.scr:16	cev17_020.scr	16	ロイド	Lloyd Irving	personagem	CRLF x1	ちょっとだけだよ。\nすぐ返すからさ、な？		
+cev17_020.scr:17	cev17_020.scr	17	ジューダス	Judas	personagem	CRLF x1	やめろ、この馬鹿者が！\n切り刻まれたいか！！		
+cev17_020.scr:18	cev17_020.scr	18	ロイド	Lloyd Irving	personagem		ちぇっ、けちー		
+cev17_030.scr:0	cev17_030.scr	0	リオン	Leon Magnus	personagem	CRLF x1	いい度胸だ……この僕に\n真正面から勝負を挑もうとはな		
+cev17_030.scr:1	cev17_030.scr	1	リオン	Leon Magnus	personagem	CRLF x1	いいだろう。\n受けて立ってやる		
+cev17_030.scr:2	cev17_030.scr	2	ジューダス	Judas	personagem	CRLF x1	ふん。\n望むところだ		
+cev17_030.scr:3	cev17_030.scr	3	カイル	Kyle Dunamis	personagem		はいはいちょっと、スト〜〜ップ！		
+cev17_030.scr:4	cev17_030.scr	4	カイル	Kyle Dunamis	personagem	CRLF x1	二人とも、どうしたの？\n一体何を揉めてるのさ		
+cev17_030.scr:5	cev17_030.scr	5	ジューダス	Judas	personagem	CRLF x2	カイル。\n余計な口出しをするな。\nこれは僕達の問題だ		
+cev17_030.scr:6	cev17_030.scr	6	リオン	Leon Magnus	personagem	CRLF x1	そうだ。\n部外者は余計な口を挟むな		
+cev17_030.scr:7	cev17_030.scr	7	カイル	Kyle Dunamis	personagem		そんな事言ったって……		
+cev17_030.scr:8	cev17_030.scr	8	スタン	Stahn Aileron	personagem	CRLF x1	あ、いたいたリオン。\n探したぞ〜		
+cev17_030.scr:9	cev17_030.scr	9	スタン	Stahn Aileron	personagem	CRLF x1	ん？　どうしたんだ、みんな。\n何かあったのか？		
+cev17_030.scr:10	cev17_030.scr	10	カイル	Kyle Dunamis	personagem	CRLF x1	あっ、父さ……スタンさん！\nちょうどいいところに		
+cev17_030.scr:11	cev17_030.scr	11	カイル	Kyle Dunamis	personagem	CRLF x1	実は、二人がちょっと\n喧嘩してるみたいで……		
+cev17_030.scr:12	cev17_030.scr	12	ジューダス	Judas	personagem		カイル、余計な事を……！		
+cev17_030.scr:13	cev17_030.scr	13	スタン	Stahn Aileron	personagem		喧嘩ぁ？		
+cev17_030.scr:14	cev17_030.scr	14	スタン	Stahn Aileron	personagem	CRLF x2	二人とも、喧嘩は良くないぞ。\nここのみんなは仲間なんだ。\n仲良くしなくちゃ		
+cev17_030.scr:15	cev17_030.scr	15	リオン	Leon Magnus	personagem		僕は、別に……！		
+cev17_030.scr:16	cev17_030.scr	16	スタン	Stahn Aileron	personagem	CRLF x2	あっ。\nわかった！\nリオン、朝飯まだ食ってないんだろ？		
+cev17_030.scr:17	cev17_030.scr	17	スタン	Stahn Aileron	personagem	CRLF x2	腹減ると、イライラしやすいって\n聞いた事あるぞ。\nだからじゃないか？		
+cev17_030.scr:18	cev17_030.scr	18	カイル	Kyle Dunamis	personagem	CRLF x1	なるほど。\nさすがスタンさん！		
+cev17_030.scr:19	cev17_030.scr	19	カイル	Kyle Dunamis	personagem		そうと決まれば、みんなでご飯だ！		
+cev17_030.scr:20	cev17_030.scr	20	ジューダス	Judas	personagem		……馬鹿が二人揃うと手が付けられん		
+cev17_030.scr:21	cev17_030.scr	21	リオン	Leon Magnus	personagem		……全くだ		
+cev17_040.scr:0	cev17_040.scr	0	アスベル	Asbel Lhant	personagem	CRLF x1	あれ……ルーティ？\n何を探してるんだろう		
+cev17_040.scr:1	cev17_040.scr	1	ジューダス	Judas	personagem	CRLF x1	放っておけ。\n……いつもの小銭探しだ		
+cev17_040.scr:2	cev17_040.scr	2	アスベル	Asbel Lhant	personagem		え？		
+cev17_040.scr:3	cev17_040.scr	3	ルーティ	Rutee Katrea	personagem	CRLF x1	あ！　\n３ガルドみっけ！！		
+cev17_040.scr:4	cev17_040.scr	4	アスベル	Asbel Lhant	personagem	CRLF x1	……本当だ。\nよくわかったな、ジューダス		
+cev17_040.scr:5	cev17_040.scr	5	ジューダス	Judas	personagem	CRLF x1	サーチガルドは、\nあいつの悪癖の様なものだからな		
+cev17_040.scr:6	cev17_040.scr	6	アスベル	Asbel Lhant	personagem	CRLF x1	へえ……。\nルーティの事、よく知っているんだね		
+cev17_040.scr:7	cev17_040.scr	7	ジューダス	Judas	personagem	CRLF x1	そ、そんな事はない。\n動きをみれば誰にでもわかる		
+cev17_040.scr:8	cev17_040.scr	8	アスベル	Asbel Lhant	personagem		俺は、わからなかったけど……		
+cev17_040.scr:9	cev17_040.scr	9	ジューダス	Judas	personagem	CRLF x1	修行が足りない証拠だ。\nせいぜい腕を磨くんだな		
+cev17_040.scr:10	cev17_040.scr	10	アスベル	Asbel Lhant	personagem	CRLF x1	えっと……。\n磨くって……何の腕を……？		
+cev17_050.scr:0	cev17_050.scr	0	ジューダス	Judas	personagem		……どこにいても、騒がしい連中だ		
+cev17_050.scr:1	cev17_050.scr	1	カイル	Kyle Dunamis	personagem	CRLF x1	父さんと母さん……。\n若い時は、あんな風だったんだ		
+cev17_050.scr:2	cev17_050.scr	2	ジューダス	Judas	personagem	CRLF x1	あの二人に関しては、歳を重ねたとしても\nそう変わりはないだろうと思うがな		
+cev17_050.scr:3	cev17_050.scr	3	カイル	Kyle Dunamis	personagem	CRLF x1	ジューダス……あのさ。\n無理はしないでよ？		
+cev17_050.scr:4	cev17_050.scr	4	ジューダス	Judas	personagem	CRLF x1	無理？　\n何の話だ		
+cev17_050.scr:5	cev17_050.scr	5	カイル	Kyle Dunamis	personagem	CRLF x1	……別に、ちょっと\n言ってみたくなっただけだよ		
+cev17_050.scr:6	cev17_050.scr	6	ジューダス	Judas	personagem	CRLF x1	フン……。\nいらん気を回すな		
+cev17_060.scr:0	cev17_060.scr	0	ルーティ	Rutee Katrea	personagem		あーもー、こんなとこにいたの？		
+cev17_060.scr:1	cev17_060.scr	1	ルーティ	Rutee Katrea	personagem	CRLF x1	ちょっと、探したじゃない。\nリオン！		
+cev17_060.scr:2	cev17_060.scr	2	ジューダス	Judas	personagem		……僕はジューダスだ		
+cev17_060.scr:3	cev17_060.scr	3	ルーティ	Rutee Katrea	personagem	CRLF x1	あら？　\nホントだわ、ごめんなさい！		
+cev17_060.scr:4	cev17_060.scr	4	ルーティ	Rutee Katrea	personagem	CRLF x1	背格好がそっくりだったもんだから\n見間違えたのね……		
+cev17_060.scr:5	cev17_060.scr	5	ジューダス	Judas	personagem		大して似ていないと思うが		
+cev17_060.scr:6	cev17_060.scr	6	ルーティ	Rutee Katrea	personagem	CRLF x1	そうでもないわよ。\nその小生意気な話し方とか、それから……		
+cev17_060.scr:7	cev17_060.scr	7	ジューダス	Judas	personagem		おい、近寄るな！		
+cev17_060.scr:8	cev17_060.scr	8	ジューダス	Judas	personagem		用がないなら、僕に構わないでくれ		
+cev17_060.scr:9	cev17_060.scr	9	ルーティ	Rutee Katrea	personagem		あ……行っちゃった		
+cev17_060.scr:10	cev17_060.scr	10	ルーティ	Rutee Katrea	personagem	CRLF x1	うーん……やっぱり、\n似てる様な気がするのよねえ……		
+cev17_070.scr:0	cev17_070.scr	0	リアラ	Reala	personagem		潮風が気持ちいい……		
+cev17_070.scr:1	cev17_070.scr	1	ジューダス	Judas	personagem	CRLF x1	そう言えば、こうして潮風を感じるのは\n久しぶりかもしれないな		
+cev17_070.scr:2	cev17_070.scr	2	リアラ	Reala	personagem	CRLF x2	ねえ、ジューダス。覚えてる？\nわたしとカイル、ロニ、それからあなたの\n四人で初めて、船に乗った時のこと		
+cev17_070.scr:3	cev17_070.scr	3	ジューダス	Judas	personagem		ああ……あの時は帆船だったな		
+cev17_070.scr:4	cev17_070.scr	4	リアラ	Reala	personagem	CRLF x2	ええ。\n今とあの時は全然違うわ。\nこうしていると、本当にそう思うの……		
+cev17_070.scr:5	cev17_070.scr	5	リアラ	Reala	personagem		……あの時と今ではお互いの信頼感……		
+cev17_070.scr:6	cev17_070.scr	6	ジューダス	Judas	personagem	CRLF x1	あの時は、船が魔物に襲われて\n大変だった		
+cev17_070.scr:7	cev17_070.scr	7	ジューダス	Judas	personagem	CRLF x2	今回この世界に来た事といい、\nお前達といると厄介事に\n巻き込まれてばかりだ		
+cev17_070.scr:8	cev17_070.scr	8	リアラ	Reala	personagem	CRLF x1	もう、わたしはそういう事が\n言いたいんじゃなくて……！		
+cev17_070.scr:9	cev17_070.scr	9	ジューダス	Judas	personagem		フ……、僕の記憶ではそうなっている		
+cev17_080.scr:0	cev17_080.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	こうやって、みんなで一緒の部屋で\n生活するのって、楽しいね！		
+cev17_080.scr:1	cev17_080.scr	1	リアラ	Reala	personagem	CRLF x1	そうね。\nちょっとわくわくするかも		
+cev17_080.scr:2	cev17_080.scr	2	ロニ	Loni Dunamis	personagem	CRLF x1	あ〜、こういうのは何て言うんだっけか？\n同居人じゃなくて、えーと……		
+cev17_080.scr:3	cev17_080.scr	3	ジューダス	Judas	personagem		ルームメイトだ		
+cev17_080.scr:4	cev17_080.scr	4	ロニ	Loni Dunamis	personagem		ああ、それそれ！　それだよ		
+cev17_080.scr:5	cev17_080.scr	5	リアラ	Reala	personagem		ルームメイト？		
+cev17_080.scr:6	cev17_080.scr	6	ジューダス	Judas	personagem	CRLF x1	同じ部屋で、一緒に暮らす相手の事を\nそんな風に呼ぶ事もある		
+cev17_080.scr:7	cev17_080.scr	7	リアラ	Reala	personagem	CRLF x1	そうなの……なんだか素敵ね。\nみんなで仲良く、一緒に暮らせて……		
+cev17_080.scr:8	cev17_080.scr	8	カイル	Kyle Dunamis	personagem		うん、家族みたいだ！		
+cev17_080.scr:9	cev17_080.scr	9	ジューダス	Judas	personagem		家族……？		
+cev17_080.scr:10	cev17_080.scr	10	ロニ	Loni Dunamis	personagem	CRLF x2	そうだなぁ。\nルーティさんとお前と、孤児院のみんなと……。\n一緒に暮らしてた頃は、こんな感じだったな		
+cev17_080.scr:11	cev17_080.scr	11	カイル	Kyle Dunamis	personagem	CRLF x1	そうそう。\n掃除や洗濯も当番制だったし		
+cev17_080.scr:12	cev17_080.scr	12	リアラ	Reala	personagem	CRLF x1	家族……って、\nやっぱり特別なもの？		
+cev17_080.scr:13	cev17_080.scr	13	カイル	Kyle Dunamis	personagem		うん、特別に大事な存在だよ		
+cev17_080.scr:14	cev17_080.scr	14	カイル	Kyle Dunamis	personagem	CRLF x1	そういう意味じゃ、リアラだって\nもうオレの家族みたいな感じだよ		
+cev17_080.scr:15	cev17_080.scr	15	リアラ	Reala	personagem		カイル……		
+cev17_080.scr:16	cev17_080.scr	16	ロニ	Loni Dunamis	personagem		ひゅーひゅー、お熱いねえ		
+cev17_080.scr:17	cev17_080.scr	17	カイル	Kyle Dunamis	personagem	CRLF x1	ちょ、ちょっとロニ？\nそんなんじゃないったら……		
+cev17_080.scr:18	cev17_080.scr	18	ジューダス	Judas	personagem		…………		
+cev17_090.scr:0	cev17_090.scr	0	ジューダス	Judas	personagem		早く元の世界に戻らなければな……		
+cev17_090.scr:1	cev17_090.scr	1	カイル	Kyle Dunamis	personagem		そうだね……みんなの事が心配だよ		
+cev17_090.scr:2	cev17_090.scr	2	ジューダス	Judas	personagem	CRLF x1	……家族というのは、\nかけがえのないものだ		
+cev17_090.scr:3	cev17_090.scr	3	ジューダス	Judas	personagem	CRLF x1	得てして失うまで、その大切さや重みに\n気が付きにくいものだがな		
+cev17_090.scr:4	cev17_090.scr	4	カイル	Kyle Dunamis	personagem		ジューダス？		
+cev17_090.scr:5	cev17_090.scr	5	ジューダス	Judas	personagem	CRLF x2	僕には家族がいない。\nだが、お前には守るべき存在がある。\n……そういう事だ		
+cev17_090.scr:6	cev17_090.scr	6	カイル	Kyle Dunamis	personagem	CRLF x1	何言ってるの、ジューダス。\nジューダスにだっているじゃない、家族		
+cev17_090.scr:7	cev17_090.scr	7	ジューダス	Judas	personagem	CRLF x1	……あいつの事か？\n僕は別に……		
+cev17_090.scr:8	cev17_090.scr	8	カイル	Kyle Dunamis	personagem	CRLF x1	それもそうだけど。\nルームメイト！		
+cev17_090.scr:9	cev17_090.scr	9	カイル	Kyle Dunamis	personagem	CRLF x2	ジューダスとオレ達は、もう\n家族同然なんだよ。\n言っただろ？		
+cev17_090.scr:10	cev17_090.scr	10	ジューダス	Judas	personagem	CRLF x2	フン……くだらん。\n赤の他人に、よくもそんな事が\nぬけぬけと言えたものだ		
+cev17_090.scr:11	cev17_090.scr	11	カイル	Kyle Dunamis	personagem	CRLF x1	オレ、ロニと血は繋がってないけど\n家族だと思ってるし、ロニもそうだと思う		
+cev17_090.scr:12	cev17_090.scr	12	カイル	Kyle Dunamis	personagem	CRLF x1	だから、ジューダスだって同じだよ。\nオレの……オレ達の、家族だ		
+cev17_090.scr:13	cev17_090.scr	13	ジューダス	Judas	personagem		…………		
+cev17_090.scr:14	cev17_090.scr	14	カイル	Kyle Dunamis	personagem	CRLF x2	全部が終わって、落ち着いたら\nまたこうやってみんなで暮らそう。\nきっと楽しいよ！		
+cev17_090.scr:15	cev17_090.scr	15	カイル	Kyle Dunamis	personagem	CRLF x2	だからそれまで、\n一緒に頑張ろう。\nジューダス！		
+cev17_090.scr:16	cev17_090.scr	16	ジューダス	Judas	personagem		……お前は、本当に馬鹿者だな		
+cev17_090.scr:17	cev17_090.scr	17	ジューダス	Judas	personagem		本当に……大馬鹿者だ……		
+cev17_200.scr:0	cev17_200.scr	0	ジューダス	Judas	personagem	CRLF x1	通常。\n		
+cev17_200.scr:1	cev17_200.scr	1	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev17_200.scr:2	cev17_200.scr	2	ジューダス	Judas	personagem	CRLF x1	笑い。\n		
+cev17_200.scr:3	cev17_200.scr	3	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev17_200.scr:4	cev17_200.scr	4	ジューダス	Judas	personagem	CRLF x1	怒り。\n		
+cev17_200.scr:5	cev17_200.scr	5	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev17_200.scr:6	cev17_200.scr	6	ジューダス	Judas	personagem	CRLF x1	悲しみ。\n		
+cev17_200.scr:7	cev17_200.scr	7	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev17_200.scr:8	cev17_200.scr	8	ジューダス	Judas	personagem	CRLF x1	不機嫌。\n		
+cev17_200.scr:9	cev17_200.scr	9	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev17_200.scr:10	cev17_200.scr	10	ジューダス	Judas	personagem	CRLF x1	通常。\n		
+cev17_200.scr:11	cev17_200.scr	11	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev17_200.scr:12	cev17_200.scr	12	ジューダス	Judas	personagem	CRLF x1	笑い。\n		
+cev17_200.scr:13	cev17_200.scr	13	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev17_200.scr:14	cev17_200.scr	14	ジューダス	Judas	personagem	CRLF x1	怒り。\n		
+cev17_200.scr:15	cev17_200.scr	15	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev17_200.scr:16	cev17_200.scr	16	ジューダス	Judas	personagem	CRLF x1	悲しみ。\n		
+cev17_200.scr:17	cev17_200.scr	17	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev17_200.scr:18	cev17_200.scr	18	ジューダス	Judas	personagem	CRLF x1	不機嫌。\n		
+cev17_200.scr:19	cev17_200.scr	19	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev17_200.scr:20	cev17_200.scr	20	ジューダス	Judas	personagem	CRLF x1	通常。\n		
+cev17_200.scr:21	cev17_200.scr	21	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev17_200.scr:22	cev17_200.scr	22	ジューダス	Judas	personagem	CRLF x1	笑い。\n		
+cev17_200.scr:23	cev17_200.scr	23	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev17_200.scr:24	cev17_200.scr	24	ジューダス	Judas	personagem	CRLF x1	怒り。\n		
+cev17_200.scr:25	cev17_200.scr	25	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev17_200.scr:26	cev17_200.scr	26	ジューダス	Judas	personagem	CRLF x1	悲しみ。\n		
+cev17_200.scr:27	cev17_200.scr	27	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev17_200.scr:28	cev17_200.scr	28	ジューダス	Judas	personagem	CRLF x1	不機嫌。\n		
+cev17_200.scr:29	cev17_200.scr	29	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

@@ -1,0 +1,321 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+valuables#320	valuables	320	(item/equipamento)	(item/equipment)	sistema		フォトン	Photon	
+valuables#321	valuables	321	(item/equipamento)	(item/equipment)	sistema		収束する光で敵を攻撃する術	An arte that attacks enemies with converging light.	
+valuables#322	valuables	322	(item/equipamento)	(item/equipment)	sistema		レイ	Ray	
+valuables#323	valuables	323	(item/equipamento)	(item/equipment)	sistema		対象となる敵の周囲に無数の光線を発する術	An arte that shoots countless light rays around the target enemy.	
+valuables#324	valuables	324	(item/equipamento)	(item/equipment)	sistema		セイクリッドシャイン	Sacred Shine	
+valuables#325	valuables	325	(item/equipamento)	(item/equipment)	sistema		秘奥義	Mystic Arte	
+valuables#326	valuables	326	(item/equipamento)	(item/equipment)	sistema		アクアエッジ	Aqua Edge	
+valuables#327	valuables	327	(item/equipamento)	(item/equipment)	sistema		対象となる敵に向かって水の塊を撃ち出す術	An arte that launches a mass of water toward the target enemy.	
+valuables#328	valuables	328	(item/equipamento)	(item/equipment)	sistema		スプレッド	Spread	
+valuables#329	valuables	329	(item/equipamento)	(item/equipment)	sistema		水流の力を圧縮させ、上空に向けて撃ち出す術	An arte that compresses water power and shoots it skyward.	
+valuables#330	valuables	330	(item/equipamento)	(item/equipment)	sistema		タイダルウェイブ	Tidal Wave	
+valuables#331	valuables	331	(item/equipamento)	(item/equipment)	sistema		大洪水を発生させる術	An arte that conjures a massive deluge.	
+valuables#332	valuables	332	(item/equipamento)	(item/equipment)	sistema		ファイアボール	Fire Ball	
+valuables#333	valuables	333	(item/equipamento)	(item/equipment)	sistema		対象となる敵に向かって火炎弾を発する術	An arte that fires flaming spheres toward the target enemy.	
+valuables#334	valuables	334	(item/equipamento)	(item/equipment)	sistema		イラプション	Eruption	
+valuables#335	valuables	335	(item/equipamento)	(item/equipment)	sistema		対象となる敵の周囲に溶岩流を出現させる術	An arte that causes a lava stream to appear around the target enemy.	
+valuables#336	valuables	336	(item/equipamento)	(item/equipment)	sistema		エクスプロード	Explode	
+valuables#337	valuables	337	(item/equipamento)	(item/equipment)	sistema		上空から火球を落として大爆発を起こす術	An arte that drops a fire sphere from the sky to trigger a huge explosion.	
+valuables#338	valuables	338	(item/equipamento)	(item/equipment)	sistema		ウィンドカッター	Wind Cutter	
+valuables#339	valuables	339	(item/equipamento)	(item/equipment)	sistema		対象となる敵の周囲に風の刃を発生させる術	An arte that creates wind blades around the target enemy.	
+valuables#340	valuables	340	(item/equipamento)	(item/equipment)	sistema		エアスラスト	Air Thrust	
+valuables#341	valuables	341	(item/equipamento)	(item/equipment)	sistema		敵の周囲に風の刃を発生させ触れる者を切り刻む術	An arte that creates wind blades around enemies to slice those who touch them.	
+valuables#342	valuables	342	(item/equipamento)	(item/equipment)	sistema		サイクロン	Cyclone	
+valuables#343	valuables	343	(item/equipamento)	(item/equipment)	sistema		対象となる敵の周囲に竜巻を発生させる術	An arte that creates a tornado around the target enemy.	
+valuables#344	valuables	344	(item/equipamento)	(item/equipment)	sistema		ストーンブラスト	Stone Blast	
+valuables#345	valuables	345	(item/equipamento)	(item/equipment)	sistema		対象となる敵の周囲から石つぶてを湧き出させる術	An arte that causes gravel to surge up from around the target enemy.	
+valuables#346	valuables	346	(item/equipamento)	(item/equipment)	sistema		ロックブレイク	Rock Break	
+valuables#347	valuables	347	(item/equipamento)	(item/equipment)	sistema		対象となる敵の地面から鋭利な岩を出現させる術	An arte that creates sharp rocks from the ground beneath the target enemy.	
+valuables#348	valuables	348	(item/equipamento)	(item/equipment)	sistema		グランドダッシャー	Ground Dasher	
+valuables#349	valuables	349	(item/equipamento)	(item/equipment)	sistema		大地の破壊のエネルギーを呼び起こす術	An arte that awakens destructive earth energy.	
+valuables#350	valuables	350	(item/equipamento)	(item/equipment)	sistema		ライトニング	Lightning	
+valuables#351	valuables	351	(item/equipamento)	(item/equipment)	sistema		対象となる敵の上空から小さな落雷を発する術	An arte that calls down a small lightning bolt from above the target enemy.	
+valuables#352	valuables	352	(item/equipamento)	(item/equipment)	sistema		サンダーブレード	Thunder Blade	
+valuables#353	valuables	353	(item/equipamento)	(item/equipment)	sistema		電撃の剣を地面に突き刺し稲妻を発生させる術	An arte that thrusts a lightning sword into the ground to strike with thunder.	
+valuables#354	valuables	354	(item/equipamento)	(item/equipment)	sistema		インディグネイション	Indignation	
+valuables#355	valuables	355	(item/equipamento)	(item/equipment)	sistema		対象となる敵の周囲に神の雷を落とす術	An arte that calls down divine thunder around the target enemy.	
+valuables#356	valuables	356	(item/equipamento)	(item/equipment)	sistema		アイシクル	Icicle	
+valuables#357	valuables	357	(item/equipamento)	(item/equipment)	sistema		対象となる敵の地面から鋭利な氷の塊を発生させる術	An arte that creates sharp blocks of ice from the ground beneath the target enemy.	
+valuables#358	valuables	358	(item/equipamento)	(item/equipment)	sistema		アイストーネード	Ice Tornado	
+valuables#359	valuables	359	(item/equipamento)	(item/equipment)	sistema		対象となる敵の周囲に氷の嵐を発生させる術	An arte that creates an ice storm around the target enemy.	
+valuables#360	valuables	360	(item/equipamento)	(item/equipment)	sistema		レイジングミスト	Raging Mist	
+valuables#361	valuables	361	(item/equipamento)	(item/equipment)	sistema		敵の周囲に熱霧を作りだし攻撃する術	An arte that creates scalding mist around enemies to attack.	
+valuables#362	valuables	362	(item/equipamento)	(item/equipment)	sistema		メテオスウォーム	Meteor Swarm	
+valuables#363	valuables	363	(item/equipamento)	(item/equipment)	sistema		何処より飛来する流星を呼び寄せる術	An arte that summons meteors hurtling from afar.	
+valuables#364	valuables	364	(item/equipamento)	(item/equipment)	sistema		インディグネイト・ジャッジメント	Indignate Judgment	
+valuables#365	valuables	365	(item/equipamento)	(item/equipment)	sistema		アイスニードル	Ice Needle	
+valuables#366	valuables	366	(item/equipamento)	(item/equipment)	sistema		対象となる敵に向かって氷弾を発する術	An arte that fires ice needles toward the target enemy.	
+valuables#367	valuables	367	(item/equipamento)	(item/equipment)	sistema		ストーム	Storm	
+valuables#368	valuables	368	(item/equipamento)	(item/equipment)	sistema		対象の敵に向かって突風を巻き起こす術	An arte that stirs up a sudden gust toward the target enemy.	
+valuables#369	valuables	369	(item/equipamento)	(item/equipment)	sistema		グレイブ	Grave	
+valuables#370	valuables	370	(item/equipamento)	(item/equipment)	sistema		対象となる敵の足元から岩の塊を複数出現させる術	An arte that causes multiple rock masses to emerge beneath the target enemy.	
+valuables#371	valuables	371	(item/equipamento)	(item/equipment)	sistema		トラクタービーム	Tractor Beam	
+valuables#372	valuables	372	(item/equipamento)	(item/equipment)	sistema		対象の足元に重力場を発生させ天高く跳ね上げる術	An arte that creates a gravity field at the target's feet to launch them sky-high.	
+valuables#373	valuables	373	(item/equipamento)	(item/equipment)	sistema		ファイアストーム	Fire Storm	
+valuables#374	valuables	374	(item/equipamento)	(item/equipment)	sistema		対象の敵に向かって火炎風を起こす術	An arte that stirs up a fiery gale toward the target enemy.	
+valuables#375	valuables	375	(item/equipamento)	(item/equipment)	sistema		ロックマウンテン	Rock Mountain	
+valuables#376	valuables	376	(item/equipamento)	(item/equipment)	sistema		上空から無数の落石を発生させる術	An arte that causes countless falling rocks from above.	
+valuables#377	valuables	377	(item/equipamento)	(item/equipment)	sistema		メイルシュトローム	Maelstrom	
+valuables#378	valuables	378	(item/equipamento)	(item/equipment)	sistema		対象となる敵の周辺から大量の水流を出現させる術	An arte that causes a massive torrent of water to surge around the target enemy.	
+valuables#379	valuables	379	(item/equipamento)	(item/equipment)	sistema		ゴッドブレス	God Breath	
+valuables#380	valuables	380	(item/equipamento)	(item/equipment)	sistema		天空に魔法陣を紡ぎ強大な風の力を呼び込む術	An arte that weaves a magic circle in the sky to summon mighty wind power.	
+valuables#381	valuables	381	(item/equipamento)	(item/equipment)	sistema		ブラックホール	Black Hole	
+valuables#382	valuables	382	(item/equipamento)	(item/equipment)	sistema		目標の敵付近に亜空間を発生させ大ダメージを与える術	An arte that creates a sub-space near target enemies, dealing heavy damage.	
+valuables#383	valuables	383	(item/equipamento)	(item/equipment)	sistema		ビッグバン	Big Bang	
+valuables#384	valuables	384	(item/equipamento)	(item/equipment)	sistema		全ての敵を一瞬で葬り去るほどの威力を持つ術	An arte powerful enough to instantly wipe out all enemies.	
+valuables#385	valuables	385	(item/equipamento)	(item/equipment)	sistema		ヒールストリーム	Heal Stream	
+valuables#386	valuables	386	(item/equipamento)	(item/equipment)	sistema		味方全員のＨＰを中程度回復する術(戦闘中は範囲）	An arte that moderately restores HP to all allies (area of effect in battle).	
+valuables#387	valuables	387	(item/equipamento)	(item/equipment)	sistema		ヒールウィンド	Heal Wind	
+valuables#388	valuables	388	(item/equipamento)	(item/equipment)	sistema		味方全員のＨＰを少し回復する術（戦闘中は範囲）	An arte that slightly restores HP to all allies (area of effect in battle).	
+valuables#389	valuables	389	(item/equipamento)	(item/equipment)	sistema		ジャッジメント	Judgment	
+valuables#390	valuables	390	(item/equipamento)	(item/equipment)	sistema		裁きの光によって対象の敵周辺を攻撃する術	An arte that attacks around the target enemy with the light of judgment.	
+valuables#391	valuables	391	(item/equipamento)	(item/equipment)	sistema		ヒール	Heal	
+valuables#392	valuables	392	(item/equipamento)	(item/equipment)	sistema		対象となる味方一人のＨＰを中程度回復させる術	An arte that moderately restores HP to a single target ally.	
+valuables#393	valuables	393	(item/equipamento)	(item/equipment)	sistema		シャープネス	Sharpness	
+valuables#394	valuables	394	(item/equipamento)	(item/equipment)	sistema		味方一人の攻撃力を一定時間上昇させる術	An arte that raises a single ally's physical attack for a set time.	
+valuables#395	valuables	395	(item/equipamento)	(item/equipment)	sistema		アシッドレイン	Acid Rain	
+valuables#396	valuables	396	(item/equipamento)	(item/equipment)	sistema		敵に与えられる物理ダメージが増加する術	An arte that increases physical damage dealt to enemies.	
+valuables#397	valuables	397	(item/equipamento)	(item/equipment)	sistema		ディープミスト	Deep Mist	
+valuables#398	valuables	398	(item/equipamento)	(item/equipment)	sistema		対象の敵からのクリティカルが発生しなくなる術	An arte that prevents critical hits from the target enemy.	
+valuables#399	valuables	399	(item/equipamento)	(item/equipment)	sistema		キュア	Cure	
+valuables#400	valuables	400	(item/equipamento)	(item/equipment)	sistema		対象となる味方一人のＨＰを大幅に回復する術	An arte that greatly restores HP to a single target ally.	
+valuables#401	valuables	401	(item/equipamento)	(item/equipment)	sistema		ブリザード	Blizzard	
+valuables#402	valuables	402	(item/equipamento)	(item/equipment)	sistema		氷の吹雪を発生させる術	An arte that conjures an icy blizzard.	
+valuables#403	valuables	403	(item/equipamento)	(item/equipment)	sistema		ピコハン	Pow Hammer	
+valuables#404	valuables	404	(item/equipamento)	(item/equipment)	sistema		敵の上空にピコハンを発生させ攻撃する術	An arte that creates a toy hammer above the enemy to attack.	
+valuables#405	valuables	405	(item/equipamento)	(item/equipment)	sistema		エナジーブラスト	Energy Blast	
+valuables#406	valuables	406	(item/equipamento)	(item/equipment)	sistema		対象となる敵の位置に小規模な爆発を発生させる術	An arte that triggers a small explosion at the target enemy's position.	
+valuables#407	valuables	407	(item/equipamento)	(item/equipment)	sistema		ピコピコハンマー	Piko Piko Hammer	
+valuables#408	valuables	408	(item/equipamento)	(item/equipment)	sistema		ハンマーを敵の頭上に大量に降らせる術	An arte that rains down a multitude of hammers on the enemy's head.	
+valuables#409	valuables	409	(item/equipamento)	(item/equipment)	sistema		インスペクトマジック	Inspect Magic	
+valuables#410	valuables	410	(item/equipamento)	(item/equipment)	sistema		対象となる敵の能力値を把握する術	An arte that reveals the target enemy's stats.	
+valuables#411	valuables	411	(item/equipamento)	(item/equipment)	sistema		アグリゲットシャープ	Aggregate Sharp	
+valuables#412	valuables	412	(item/equipamento)	(item/equipment)	sistema		味方全員の攻撃力を一定時間上昇させる術	An arte that raises all allies' physical attack for a set time.	
+valuables#413	valuables	413	(item/equipamento)	(item/equipment)	sistema		ホーリーランス	Holy Lance	
+valuables#414	valuables	414	(item/equipamento)	(item/equipment)	sistema		対象となる敵を聖なる槍で貫く術	An arte that impales the target enemy with holy lances.	
+valuables#415	valuables	415	(item/equipamento)	(item/equipment)	sistema		エアプレッシャー	Air Pressure	
+valuables#416	valuables	416	(item/equipamento)	(item/equipment)	sistema		重力場を発生させて押しつぶし大地もろとも破砕する術	An arte that creates a gravity field to crush and shatter the earth together.	
+valuables#417	valuables	417	(item/equipamento)	(item/equipment)	sistema		バーンストライク	Burn Strike	
+valuables#418	valuables	418	(item/equipamento)	(item/equipment)	sistema		地面で強力な爆発を起こす火炎弾を降らせる術	An arte that rains down flame spheres causing powerful explosions on the ground.	
+valuables#419	valuables	419	(item/equipamento)	(item/equipment)	sistema		アクアスパイク	Aqua Spike	
+valuables#420	valuables	420	(item/equipamento)	(item/equipment)	sistema		高速回転させ圧縮した水を発射する術	An arte that fires high-speed spinning compressed water.	
+valuables#421	valuables	421	(item/equipamento)	(item/equipment)	sistema		ウィンドスラッシュ	Wind Slash	
+valuables#422	valuables	422	(item/equipamento)	(item/equipment)	sistema		相手との距離に関係なく真空の刃を発生させる術	An arte that creates vacuum blades regardless of the distance to the opponent.	
+valuables#423	valuables	423	(item/equipamento)	(item/equipment)	sistema		インブレイスエンド	Embrace End	
+valuables#424	valuables	424	(item/equipamento)	(item/equipment)	sistema		氷の棺に敵を閉じ込め、「終焉」を与える術	An arte that traps enemies in an ice coffin, delivering their 'demise'.	
+valuables#425	valuables	425	(item/equipamento)	(item/equipment)	sistema		ライフディスチャージ	Life Discharge	
+valuables#426	valuables	426	(item/equipamento)	(item/equipment)	sistema		デモンズランス	Demon's Lance	
+valuables#427	valuables	427	(item/equipamento)	(item/equipment)	sistema		対象となる敵を闇の槍で貫く術	An arte that impales the target enemy with dark lances.	
+valuables#428	valuables	428	(item/equipamento)	(item/equipment)	sistema		メディテーション	Meditation	
+valuables#429	valuables	429	(item/equipamento)	(item/equipment)	sistema		味方一人の状態異常とＨＰを中程度回復する術	An arte that cures status ailments and moderately restores HP for a single ally.	
+valuables#430	valuables	430	(item/equipamento)	(item/equipment)	sistema		スペル・エンハンス	Spell Enhance	
+valuables#431	valuables	431	(item/equipamento)	(item/equipment)	sistema		対象となる味方一人の固有詠唱時間を短縮させる術	An arte that reduces the innate cast time of a single target ally.	
+valuables#432	valuables	432	(item/equipamento)	(item/equipment)	sistema		エクレールラルム	Eclair Larme	
+valuables#433	valuables	433	(item/equipamento)	(item/equipment)	sistema		十字の印を焼き付ける術	An arte that brands enemies with a holy cross.	
+valuables#434	valuables	434	(item/equipamento)	(item/equipment)	sistema		ナイトメア	Nightmare	
+valuables#435	valuables	435	(item/equipamento)	(item/equipment)	sistema		対象となる敵の足元に無数の闇属性の泡を発生させる術	An arte that creates countless dark-element bubbles beneath the target enemy.	
+valuables#436	valuables	436	(item/equipamento)	(item/equipment)	sistema		ホーリーソング	Holy Song	
+valuables#437	valuables	437	(item/equipamento)	(item/equipment)	sistema		味方全員の能力を上昇させ、かつＨＰを少量回復する術	An arte that raises all allies' stats and restores a small amount of HP.	
+valuables#438	valuables	438	(item/equipamento)	(item/equipment)	sistema		グランドクロス	Grand Cross	
+valuables#439	valuables	439	(item/equipamento)	(item/equipment)	sistema		悪しき者を滅ぼす光で攻撃する術	An arte that attacks with light that purges evil beings.	
+valuables#440	valuables	440	(item/equipamento)	(item/equipment)	sistema		イノセント・シャイン	Innocent Shine	
+valuables#441	valuables	441	(item/equipamento)	(item/equipment)	sistema		フレイムバースト	Flame Burst	
+valuables#442	valuables	442	(item/equipamento)	(item/equipment)	sistema		対象となる敵の位置に小規模な炎の爆発を起こす術	An arte that triggers a small flame explosion at the target enemy's position.	
+valuables#443	valuables	443	(item/equipamento)	(item/equipment)	sistema		タービュランス	Turbulence	
+valuables#444	valuables	444	(item/equipamento)	(item/equipment)	sistema		突風を起こし、敵を巻き上げ攻撃する術	An arte that creates a gust of wind to lift and attack enemies.	
+valuables#445	valuables	445	(item/equipamento)	(item/equipment)	sistema		ネガティブゲイト	Negative Gate	
+valuables#446	valuables	446	(item/equipamento)	(item/equipment)	sistema		敵の動きを封じ込める魔空間を引き出す術	An arte that draws out a demonic space to seal away enemy movement.	
+valuables#447	valuables	447	(item/equipamento)	(item/equipment)	sistema		エンシェントノヴァ	Ancient Nova	
+valuables#448	valuables	448	(item/equipamento)	(item/equipment)	sistema		古代より伝えられし浄化の炎を呼び起こす術	An arte that awakens the ancient flames of purification.	
+valuables#449	valuables	449	(item/equipamento)	(item/equipment)	sistema		ディバイン・ジャッジメント	Divine Judgment	
+valuables#450	valuables	450	(item/equipamento)	(item/equipment)	sistema		ストーンウォール	Stone Wall	
+valuables#451	valuables	451	(item/equipamento)	(item/equipment)	sistema		敵の頭上から石の槍を落とす術	An arte that drops stone spears from above enemies.	
+valuables#452	valuables	452	(item/equipamento)	(item/equipment)	sistema		シャドウエッジ	Shadow Edge	
+valuables#453	valuables	453	(item/equipamento)	(item/equipment)	sistema		地面から発生した闇の刃が敵を貫く術	An arte where dark blades rising from the ground impale enemies.	
+valuables#454	valuables	454	(item/equipamento)	(item/equipment)	sistema		デルタレイ	Delta Ray	
+valuables#455	valuables	455	(item/equipamento)	(item/equipment)	sistema		三つの光弾を同時に撃ち出す術	An arte that fires three light spheres simultaneously.	
+valuables#456	valuables	456	(item/equipamento)	(item/equipment)	sistema		コチハン	Kochi Hammer	
+valuables#457	valuables	457	(item/equipamento)	(item/equipment)	sistema		コチコチするハンマーを敵に落とす術	An arte that drops a chilling hammer on enemies.	
+valuables#458	valuables	458	(item/equipamento)	(item/equipment)	sistema		フレイムドライブ	Flame Drive	
+valuables#459	valuables	459	(item/equipamento)	(item/equipment)	sistema		複数の火球弾が敵を狙う術	An arte where multiple fireballs target enemies.	
+valuables#460	valuables	460	(item/equipamento)	(item/equipment)	sistema		スプラッシュ	Splash	
+valuables#461	valuables	461	(item/equipamento)	(item/equipment)	sistema		連続的に水流を地面に叩き付ける術	An arte that repeatedly pounds water torrents into the ground.	
+valuables#462	valuables	462	(item/equipamento)	(item/equipment)	sistema		スラストファング	Thrust Fang	
+valuables#463	valuables	463	(item/equipamento)	(item/equipment)	sistema		無数の真空の刃で敵を切り裂く術	An arte that shreds enemies with countless vacuum blades.	
+valuables#464	valuables	464	(item/equipamento)	(item/equipment)	sistema		アイシクルレイン	Icicle Rain	
+valuables#465	valuables	465	(item/equipamento)	(item/equipment)	sistema		対象の敵の上空から無数の氷撃を繰り出す術	An arte that rains down countless ice strikes from above the target enemy.	
+valuables#466	valuables	466	(item/equipamento)	(item/equipment)	sistema		セイントバブル	Saint Bubble	
+valuables#467	valuables	467	(item/equipamento)	(item/equipment)	sistema		対象となる敵の地面から無数の泡を出現させる術	An arte that causes countless bubbles to surge from the ground beneath the target enemy.	
+valuables#468	valuables	468	(item/equipamento)	(item/equipment)	sistema		アブソリュート	Absolute	
+valuables#469	valuables	469	(item/equipamento)	(item/equipment)	sistema		対象となる敵を氷塊で覆い炸裂させる術	An arte that encases the target enemy in ice and shatters it.	
+valuables#470	valuables	470	(item/equipamento)	(item/equipment)	sistema		フリジットコフィン	Frigid Coffin	
+valuables#471	valuables	471	(item/equipamento)	(item/equipment)	sistema		大地に眠る凍気を解放し、巨大な氷矢で攻撃する術	An arte that releases freezing energy asleep in the earth to strike with a giant ice arrow.	
+valuables#472	valuables	472	(item/equipamento)	(item/equipment)	sistema		ミスティック・ケージ	Mystic Cage	
+valuables#473	valuables	473	(item/equipamento)	(item/equipment)	sistema		ディバインセイバー	Divine Saber	
+valuables#474	valuables	474	(item/equipamento)	(item/equipment)	sistema		神聖なる裁きの雷を撃ち放つ術	An arte that fires sacred thunderbolts of judgment.	
+valuables#475	valuables	475	(item/equipamento)	(item/equipment)	sistema		フレアトルネード	Flare Tornado	
+valuables#476	valuables	476	(item/equipamento)	(item/equipment)	sistema		地面から火炎流を噴出させる術	An arte that erupts a flaming torrent from the ground.	
+valuables#477	valuables	477	(item/equipamento)	(item/equipment)	sistema		ミラクルハンマー	Miracle Hammer	
+valuables#478	valuables	478	(item/equipamento)	(item/equipment)	sistema		対象の上空に豪華なハンマーを作り出し攻撃する術	An arte that creates a magnificent hammer above the target to attack.	
+valuables#479	valuables	479	(item/equipamento)	(item/equipment)	sistema		スパークウェブ	Spark Web	
+valuables#480	valuables	480	(item/equipamento)	(item/equipment)	sistema		敵の頭上に巨大な雷球を発生させ攻撃する術	An arte that creates a giant lightning orb above enemies to attack.	
+valuables#481	valuables	481	(item/equipamento)	(item/equipment)	sistema		ヴォルテックヒート	Vortex Heat	
+valuables#482	valuables	482	(item/equipamento)	(item/equipment)	sistema		熱風を起こして敵を大きく吹き飛ばす術	An arte that whips up a scalding gale to blow enemies far away.	
+valuables#483	valuables	483	(item/equipamento)	(item/equipment)	sistema		エンジェル・フェザー	Angel Feather	
+valuables#484	valuables	484	(item/equipamento)	(item/equipment)	sistema		光輪を出現させ敵を攻撃する術	An arte that summons halos to attack enemies.	
+valuables#485	valuables	485	(item/equipamento)	(item/equipment)	sistema		治癒功	Chi Healing	
+valuables#486	valuables	486	(item/equipamento)	(item/equipment)	sistema		回生功	Chi Restoration	
+valuables#487	valuables	487	(item/equipamento)	(item/equipment)	sistema		解毒功	Chi Detox	
+valuables#488	valuables	488	(item/equipamento)	(item/equipment)	sistema		対象となる味方一人の毒異常を回復させる術	An arte that cures poison status for a single target ally.	
+valuables#489	valuables	489	(item/equipamento)	(item/equipment)	sistema		ホーリージャッジメント	Holy Judgment	
+valuables#490	valuables	490	(item/equipamento)	(item/equipment)	sistema		レジスト	Resist	
+valuables#491	valuables	491	(item/equipamento)	(item/equipment)	sistema		一定時間、味方単体の状態異常、状態変化を防ぐ術	An arte that prevents status ailments and stat debuffs for a single ally for a set time.	
+valuables#492	valuables	492	(item/equipamento)	(item/equipment)	sistema		アンチマジック	Anti-Magic	
+valuables#493	valuables	493	(item/equipamento)	(item/equipment)	sistema		一定時間、味方単体の魔法ダメージを軽減させる術	An arte that reduces magic damage taken by a single ally for a set time.	
+valuables#494	valuables	494	(item/equipamento)	(item/equipment)	sistema		フレイムランス	Flame Lance	
+valuables#495	valuables	495	(item/equipamento)	(item/equipment)	sistema		天空より複数の炎の槍が対象を突き刺す術	An arte where multiple fire lances from the sky impale the target.	
+valuables#496	valuables	496	(item/equipamento)	(item/equipment)	sistema		シューティングスター	Shooting Star	
+valuables#497	valuables	497	(item/equipamento)	(item/equipment)	sistema		広範囲に流星を呼び出し、攻撃する術	An arte that calls down meteors over a wide area to attack.	
+valuables#498	valuables	498	(item/equipamento)	(item/equipment)	sistema		ホーリーブレス	Holy Breath	
+valuables#499	valuables	499	(item/equipamento)	(item/equipment)	sistema		受けたダメージを徐々に回復する術	An arte that gradually restores damage taken over time.	
+valuables#500	valuables	500	(item/equipamento)	(item/equipment)	sistema		ストーンザッパー	Stone Zapper	
+valuables#501	valuables	501	(item/equipamento)	(item/equipment)	sistema		複数の石片を弧を描いて敵にぶつける術	An arte that hurls multiple stone shards in an arc at enemies.	
+valuables#502	valuables	502	(item/equipamento)	(item/equipment)	sistema		フィアフルストーム	Fearful Storm	
+valuables#503	valuables	503	(item/equipamento)	(item/equipment)	sistema		壊滅的な威力の嵐を巻き起こす術	An arte that stirs up a storm of catastrophic destructive power.	
+valuables#504	valuables	504	(item/equipamento)	(item/equipment)	sistema		グランヴァニッシュ	Grand Vanish	
+valuables#505	valuables	505	(item/equipamento)	(item/equipment)	sistema		大地の力を圧縮し、そして解放させる術	An arte that compresses earth power and then unleashes it.	
+valuables#506	valuables	506	(item/equipamento)	(item/equipment)	sistema		ブラッディクロス	Bloody Cross	
+valuables#507	valuables	507	(item/equipamento)	(item/equipment)	sistema		闇の刃から生じる呪いの波動を撃ち出す術	An arte that releases cursed waves emanating from dark blades.	
+valuables#508	valuables	508	(item/equipamento)	(item/equipment)	sistema		フレアショット	Flare Shot	
+valuables#509	valuables	509	(item/equipamento)	(item/equipment)	sistema		小さな火球を撃ち出し、爆発させる火系の術	A fire arte that fires a small fireball and detonates it.	
+valuables#510	valuables	510	(item/equipamento)	(item/equipment)	sistema		ウィンドエッジ	Wind Edge	
+valuables#511	valuables	511	(item/equipamento)	(item/equipment)	sistema		真空の刃を続けて生み出す風系の術	A wind arte that continuously generates vacuum blades.	
+valuables#512	valuables	512	(item/equipamento)	(item/equipment)	sistema		アーチシェイド	Arch Shade	
+valuables#513	valuables	513	(item/equipamento)	(item/equipment)	sistema		歪の力が両側から引き裂く闇系の術	A dark arte where distorted power tears from both sides.	
+valuables#514	valuables	514	(item/equipamento)	(item/equipment)	sistema		ガスティーネイル	Gusty Nail	
+valuables#515	valuables	515	(item/equipamento)	(item/equipment)	sistema		巨大な真空の爪で敵を切り裂く風系の術	A wind arte that slices enemies with giant vacuum claws.	
+valuables#516	valuables	516	(item/equipamento)	(item/equipment)	sistema		エイミングヒート	Aiming Heat	
+valuables#517	valuables	517	(item/equipamento)	(item/equipment)	sistema		灼熱弾を乱れ撃ちして敵を狙う火系の術	A fire arte that fires a barrage of scalding shots targeting enemies.	
+valuables#518	valuables	518	(item/equipamento)	(item/equipment)	sistema		ゲイルスラッシュ	Gale Slash	
+valuables#519	valuables	519	(item/equipamento)	(item/equipment)	sistema		突風が敵を襲う風系の術	A wind arte where a sudden gust attacks enemies.	
+valuables#520	valuables	520	(item/equipamento)	(item/equipment)	sistema		ブレイジングハーツ	Blazing Hearts	
+valuables#521	valuables	521	(item/equipamento)	(item/equipment)	sistema		灼熱弾が意思を持つが如く敵に炸裂する火系の術	A fire arte where scalding orbs detonate on enemies as if possessing a will of their own.	
+valuables#522	valuables	522	(item/equipamento)	(item/equipment)	sistema		ディザスターロアー	Disaster Roar	
+valuables#523	valuables	523	(item/equipamento)	(item/equipment)	sistema		絶望の咆哮が敵を引き裂く闇系の術	A dark arte where a roar of despair tears enemies apart.	
+valuables#524	valuables	524	(item/equipamento)	(item/equipment)	sistema		ウインドアロー	Wind Arrow	
+valuables#525	valuables	525	(item/equipamento)	(item/equipment)	sistema		術者の頭上から風の矢を生み出す術	An arte that creates wind arrows above the caster's head.	
+valuables#526	valuables	526	(item/equipamento)	(item/equipment)	sistema		ストリームアロー	Stream Arrow	
+valuables#527	valuables	527	(item/equipamento)	(item/equipment)	sistema		対象を狙う風の矢が、敵を複数回攻撃する術	An arte where wind arrows targeting enemies attack multiple times.	
+valuables#528	valuables	528	(item/equipamento)	(item/equipment)	sistema		プリズムフラッシャ	Prism Flasher	
+valuables#529	valuables	529	(item/equipamento)	(item/equipment)	sistema		光の洗礼を受けた七色の剣が降り注ぐ術	An arte that rains down rainbow-colored swords blessed by light.	
+valuables#530	valuables	530	(item/equipamento)	(item/equipment)	sistema		エクセキューション	Execution	
+valuables#531	valuables	531	(item/equipamento)	(item/equipment)	sistema		漆黒の闇の淵へ引きずり込む術	An arte that drags enemies into the pitch-black abyss.	
+valuables#532	valuables	532	(item/equipamento)	(item/equipment)	sistema		トリニティスパーク	Trinity Spark	
+valuables#533	valuables	533	(item/equipamento)	(item/equipment)	sistema		稲妻を前方の敵に撃ち放つ術	An arte that fires lightning at enemies ahead.	
+valuables#534	valuables	534	(item/equipamento)	(item/equipment)	sistema		クラッシュガスト	Crash Gust	
+valuables#535	valuables	535	(item/equipamento)	(item/equipment)	sistema		対象の敵に向かって暗雲を纏った暴風を起こす術	An arte that stirs up a storm cloaked in dark clouds toward the target enemy.	
+valuables#536	valuables	536	(item/equipamento)	(item/equipment)	sistema		イービルスフィア	Evil Sphere	
+valuables#537	valuables	537	(item/equipamento)	(item/equipment)	sistema		敵を魔空間で包み、生命力をそぎ取る術	An arte that traps enemies in a demonic space to drain their vitality.	
+valuables#538	valuables	538	(item/equipamento)	(item/equipment)	sistema		シャイニングスピア	Shining Spear	
+valuables#539	valuables	539	(item/equipamento)	(item/equipment)	sistema		光の洗礼を受けた無数の剣が降り注ぐ術	An arte that rains down countless swords blessed by light.	
+valuables#540	valuables	540	(item/equipamento)	(item/equipment)	sistema		アクアリムス	Aqualimus	
+valuables#541	valuables	541	(item/equipamento)	(item/equipment)	sistema		プリンセス・オブ・マーメイド	Princess of Mermaid	
+valuables#542	valuables	542	(item/equipamento)	(item/equipment)	sistema		Ｄ・レーベン	D Leben	
+valuables#543	valuables	543	(item/equipamento)	(item/equipment)	sistema		範囲内の敵のＨＰを吸収して自分のＨＰを回復させる術	An arte that absorbs HP from enemies in range to restore the caster's own HP.	
+valuables#544	valuables	544	(item/equipamento)	(item/equipment)	sistema		Ｒ・エリキシル	R Elixir	
+valuables#545	valuables	545	(item/equipamento)	(item/equipment)	sistema		範囲内の戦闘不能な味方を復活させる術	An arte that revives KO'd allies in range.	
+valuables#546	valuables	546	(item/equipamento)	(item/equipment)	sistema		レデュース・レーゲン	Reduce Regen	
+valuables#547	valuables	547	(item/equipamento)	(item/equipment)	sistema		一定時間、敵の物理攻撃を少し減少させる術	An arte that slightly reduces enemy physical attack for a set time.	
+valuables#548	valuables	548	(item/equipamento)	(item/equipment)	sistema		アーツ・レーゲン	Artes Regen	
+valuables#549	valuables	549	(item/equipamento)	(item/equipment)	sistema		リミッツゲージを少し増加する術	An arte that slightly increases the Overlimit gauge.	
+valuables#550	valuables	550	(item/equipamento)	(item/equipment)	sistema		シェイブ・レーゲン	Shave Regen	
+valuables#551	valuables	551	(item/equipamento)	(item/equipment)	sistema		一定時間、敵の物理防御を少し低下させる術	An arte that slightly reduces enemy physical defense for a set time.	
+valuables#552	valuables	552	(item/equipamento)	(item/equipment)	sistema		ブレイク・レーゲン	Break Regen	
+valuables#553	valuables	553	(item/equipamento)	(item/equipment)	sistema		一定時間、敵のガードをブレイクし易くなる術	An arte that makes it easier to break enemy guards for a set time.	
+valuables#554	valuables	554	(item/equipamento)	(item/equipment)	sistema		ガンビット・レーゲン	Gambit Regen	
+valuables#555	valuables	555	(item/equipamento)	(item/equipment)	sistema		一定時間、敵の術防御を少し低下させる術	An arte that slightly reduces enemy magic defense for a set time.	
+valuables#556	valuables	556	(item/equipamento)	(item/equipment)	sistema		ブラスト・レーゲン	Blast Regen	
+valuables#557	valuables	557	(item/equipamento)	(item/equipment)	sistema		一定時間、敵の術攻撃を少し低下させる術	An arte that slightly reduces enemy magic attack for a set time.	
+valuables#558	valuables	558	(item/equipamento)	(item/equipment)	sistema		ヒール・レーゲン	Heal Regen	
+valuables#559	valuables	559	(item/equipamento)	(item/equipment)	sistema		味方全員のＨＰを中回復する術	An arte that moderately restores HP to all allies.	
+valuables#560	valuables	560	(item/equipamento)	(item/equipment)	sistema		パワー・クラフト	Power Craft	
+valuables#561	valuables	561	(item/equipamento)	(item/equipment)	sistema		一定時間、味方の物理攻撃上昇、状態異常を回復する術	An arte that raises an ally's physical attack and cures status ailments for a set time.	
+valuables#562	valuables	562	(item/equipamento)	(item/equipment)	sistema		マインド・ガイスト	Mind Geist	
+valuables#563	valuables	563	(item/equipamento)	(item/equipment)	sistema		一定時間、味方の術攻撃上昇、状態変化を回復する術	An arte that raises an ally's magic attack and cures stat debuffs for a set time.	
+valuables#564	valuables	564	(item/equipamento)	(item/equipment)	sistema		ガード・ヴァッサー	Guard Wasser	
+valuables#565	valuables	565	(item/equipamento)	(item/equipment)	sistema		一定時間、味方の物理防御上昇、状態変化を回復する術	An arte that raises an ally's physical defense and cures stat debuffs for a set time.	
+valuables#566	valuables	566	(item/equipamento)	(item/equipment)	sistema		レジスト・ヴィレ	Resist Wille	
+valuables#567	valuables	567	(item/equipamento)	(item/equipment)	sistema		一定時間、味方の術防御上昇、状態変化を回復する術	An arte that raises an ally's magic defense and cures stat debuffs for a set time.	
+valuables#568	valuables	568	(item/equipamento)	(item/equipment)	sistema		ライフ・マテリア	Life Materia	
+valuables#569	valuables	569	(item/equipamento)	(item/equipment)	sistema		味方のＨＰを徐々に回復、状態異常を回復する術	An arte that gradually restores an ally's HP and cures status ailments.	
+valuables#570	valuables	570	(item/equipamento)	(item/equipment)	sistema		チャージ・ヴィント	Charge Wind	
+valuables#571	valuables	571	(item/equipamento)	(item/equipment)	sistema		範囲内の味方のＴＰを微回復後、状態異常を回復する術	An arte that slightly restores TP of allies in range and cures status ailments.	
+valuables#572	valuables	572	(item/equipamento)	(item/equipment)	sistema		テトラスペル	Tetra Spell	
+valuables#573	valuables	573	(item/equipamento)	(item/equipment)	sistema		未定	TBD	
+valuables#574	valuables	574	(item/equipamento)	(item/equipment)	sistema		フリーズランサー	Freeze Lancer	
+valuables#575	valuables	575	(item/equipamento)	(item/equipment)	sistema		多数の氷槍を撃ち出す術	An arte that fires a multitude of ice lances.	
+valuables#576	valuables	576	(item/equipamento)	(item/equipment)	sistema		アンチェインド・ノート	Unchained Note	
+valuables#577	valuables	577	(item/equipamento)	(item/equipment)	sistema		発氣治癒功	Chi Qi Healing	
+valuables#578	valuables	578	(item/equipamento)	(item/equipment)	sistema		対象となる味方一人のＨＰを中回復する術	An arte that moderately restores HP to a single target ally.	
+valuables#579	valuables	579	(item/equipamento)	(item/equipment)	sistema		魔神剣	Demon Fang	
+valuables#580	valuables	580	(item/equipamento)	(item/equipment)	sistema		斬撃を飛ばして敵を攻撃する特技	A skill that launches a shockwave slash to attack enemies.	
+valuables#581	valuables	581	(item/equipamento)	(item/equipment)	sistema		魔神剣・双牙	Double Demon Fang	
+valuables#582	valuables	582	(item/equipamento)	(item/equipment)	sistema		斬撃による衝撃波を２連続で繰り出す秘技	A secret arte that unleashes two shockwave slashes in rapid succession.	
+valuables#583	valuables	583	(item/equipamento)	(item/equipment)	sistema		魔神連牙斬	Demonic Chaos	
+valuables#584	valuables	584	(item/equipamento)	(item/equipment)	sistema		斬撃による衝撃波を連続で繰り出す奥義	An arcane arte that unleashes a barrage of shockwave slashes.	
+valuables#585	valuables	585	(item/equipamento)	(item/equipment)	sistema		虎牙破斬	Tiger Blade	
+valuables#586	valuables	586	(item/equipamento)	(item/equipment)	sistema		敵を斬り上げた後、追撃を行う特技	A skill that slashes upward at the enemy and follows up with a strike.	
+valuables#587	valuables	587	(item/equipamento)	(item/equipment)	sistema		虎牙連斬	Tiger Rage	
+valuables#588	valuables	588	(item/equipamento)	(item/equipment)	sistema		斬り上げの後、敵への連撃を行う秘技	A secret arte that follows an upward slash with a rapid combo.	
+valuables#589	valuables	589	(item/equipamento)	(item/equipment)	sistema		瞬迅剣	Sonic Thrust	
+valuables#590	valuables	590	(item/equipamento)	(item/equipment)	sistema		前進しながら鋭い突きを繰り出す特技	A skill that unleashes a sharp forward-lunging thrust.	
+valuables#591	valuables	591	(item/equipamento)	(item/equipment)	sistema		風迅剣	Hurricane Thrust	
+valuables#592	valuables	592	(item/equipamento)	(item/equipment)	sistema		強力な突きにより生じた風圧で敵を攻撃する秘技	A secret arte that attacks enemies with air pressure generated from a powerful thrust.	
+valuables#593	valuables	593	(item/equipamento)	(item/equipment)	sistema		散沙雨	Sword Rain	
+valuables#594	valuables	594	(item/equipamento)	(item/equipment)	sistema		連続で突きを繰り出す特技	A skill that unleashes a rapid succession of thrusts.	
+valuables#595	valuables	595	(item/equipamento)	(item/equipment)	sistema		秋沙雨	Sword Rain: Alpha	
+valuables#596	valuables	596	(item/equipamento)	(item/equipment)	sistema		無数の突きを繰り出した後に追撃を行う秘技	A secret arte that unleashes countless thrusts followed by an extra strike.	
+valuables#597	valuables	597	(item/equipamento)	(item/equipment)	sistema		斬光時雨	Sword Rain: Beta	
+valuables#598	valuables	598	(item/equipamento)	(item/equipment)	sistema		無数の突きを繰り出し空中で追い打ちをかける奥義	An arcane arte that unleashes countless thrusts and follows up in midair.	
+valuables#599	valuables	599	(item/equipamento)	(item/equipment)	sistema		裂空斬	Tempest	
+valuables#600	valuables	600	(item/equipamento)	(item/equipment)	sistema		回転斬りで敵を攻撃する特技	A skill that attacks enemies with a spinning aerial slash.	
+valuables#601	valuables	601	(item/equipamento)	(item/equipment)	sistema		真空裂斬	Omega Tempest	
+valuables#602	valuables	602	(item/equipamento)	(item/equipment)	sistema		敵を浮かせた状態で高速回転斬りを行う秘技	A secret arte that executes high-speed spinning slashes while juggling enemies in the air.	
+valuables#603	valuables	603	(item/equipamento)	(item/equipment)	sistema		獅子戦吼	Beast	
+valuables#604	valuables	604	(item/equipamento)	(item/equipment)	sistema		闘気を敵に叩き付け吹き飛ばす秘技	A secret arte that slams fighting spirit into the enemy to blow them away.	
+valuables#605	valuables	605	(item/equipamento)	(item/equipment)	sistema		獅吼旋破	Rending Beast	
+valuables#606	valuables	606	(item/equipamento)	(item/equipment)	sistema		敵を回転斬りにより巻き込み闘気を叩き付ける奥義	An arcane arte that draws enemies into a spinning slash and slams them with fighting spirit.	
+valuables#607	valuables	607	(item/equipamento)	(item/equipment)	sistema		飛天翔駆	Light Spear	
+valuables#608	valuables	608	(item/equipamento)	(item/equipment)	sistema		空中に飛び上がり、急降下によって敵を攻撃する奥義	An arcane arte that leaps into the air and attacks enemies with a rapid dive.	
+valuables#609	valuables	609	(item/equipamento)	(item/equipment)	sistema		魔神空牙衝	Demonic Sonic Thrust	
+valuables#610	valuables	610	(item/equipamento)	(item/equipment)	sistema		魔神剣と瞬迅剣を組合わせた奥義	An arcane arte that combines Demon Fang and Sonic Thrust.	
+valuables#611	valuables	611	(item/equipamento)	(item/equipment)	sistema		魔神双破斬	Demonic Tiger Blade	
+valuables#612	valuables	612	(item/equipamento)	(item/equipment)	sistema		魔神剣と虎牙破斬を組合わせた奥義	An arcane arte that combines Demon Fang and Tiger Blade.	
+valuables#613	valuables	613	(item/equipamento)	(item/equipment)	sistema		烈風空牙衝	Tempest Thrust	
+valuables#614	valuables	614	(item/equipamento)	(item/equipment)	sistema		回転斬り後、突きを繰り出す奥義	An arcane arte that follows a spinning slash with a thrust.	
+valuables#615	valuables	615	(item/equipamento)	(item/equipment)	sistema		獅吼烈風	Beast Tempest	
+valuables#616	valuables	616	(item/equipamento)	(item/equipment)	sistema		裂空斬と獅子戦吼を組合わせた奥義	An arcane arte that combines Tempest and Beast.	
+valuables#617	valuables	617	(item/equipamento)	(item/equipment)	sistema		驟雨双破斬	Raining Tiger Blade	
+valuables#618	valuables	618	(item/equipamento)	(item/equipment)	sistema		散沙雨と虎牙破斬を組合わせた奥義	An arcane arte that combines Sword Rain and Tiger Blade.	
+valuables#619	valuables	619	(item/equipamento)	(item/equipment)	sistema		獅子千裂破	Beast Sword Rain	
+valuables#620	valuables	620	(item/equipamento)	(item/equipment)	sistema		連続突きの後、止めに獅子戦吼を放つ奥義	An arcane arte that unleashes rapid thrusts and finishes with Beast.	
+valuables#621	valuables	621	(item/equipamento)	(item/equipment)	sistema		真空千裂破	Tempest Sword Rain	
+valuables#622	valuables	622	(item/equipamento)	(item/equipment)	sistema		散沙雨と裂空斬を組合わせた奥義	An arcane arte that combines Sword Rain and Tempest.	
+valuables#623	valuables	623	(item/equipamento)	(item/equipment)	sistema		天翔蒼破斬	Heavenly Dragon Slash	
+valuables#624	valuables	624	(item/equipamento)	(item/equipment)	sistema		飛燕連脚	Swallow Dance	
+valuables#625	valuables	625	(item/equipamento)	(item/equipment)	sistema		連続して回転蹴りを行う特技	A skill that executes consecutive spinning kicks.	
+valuables#626	valuables	626	(item/equipamento)	(item/equipment)	sistema		緋炎連脚	Crimson Swallow Dance	
+valuables#627	valuables	627	(item/equipamento)	(item/equipment)	sistema		炎をまとった回転蹴りを連続して行う秘技	A secret arte that executes consecutive flame-cloaked spinning kicks.	
+valuables#628	valuables	628	(item/equipamento)	(item/equipment)	sistema		烈空斬	Severe Tempest	
+valuables#629	valuables	629	(item/equipamento)	(item/equipment)	sistema		断空剣	Severing Wind	
+valuables#630	valuables	630	(item/equipamento)	(item/equipment)	sistema		回転斬りによって竜巻を生じさせつつ斬り上げる秘技	A secret arte that slashes upward while generating a tornado with a spinning slash.	
+valuables#631	valuables	631	(item/equipamento)	(item/equipment)	sistema		爪竜連牙斬	Dragon Swarm	
+valuables#632	valuables	632	(item/equipamento)	(item/equipment)	sistema		敵に踏み込みながら連撃を繰り出す奥義	An arcane arte that unleashes a flurry of attacks while stepping into the enemy.	
+valuables#633	valuables	633	(item/equipamento)	(item/equipment)	sistema		閃空裂破	Flashing Blast	
+valuables#634	valuables	634	(item/equipamento)	(item/equipment)	sistema		剣圧で敵を浮かせ、その後止めの一撃を繰り出す秘技	A secret arte that lifts enemies with sword pressure and delivers a finishing blow.	
+valuables#635	valuables	635	(item/equipamento)	(item/equipment)	sistema		紅蓮剣	Fiery Beast	
+valuables#636	valuables	636	(item/equipamento)	(item/equipment)	sistema		炎を纏った闘気を敵にぶつけて攻撃する奥義	An arcane arte that attacks enemies by slamming them with flame-cloaked fighting spirit.	
+valuables#637	valuables	637	(item/equipamento)	(item/equipment)	sistema		鳳凰天駆	Rising Phoenix	
+valuables#638	valuables	638	(item/equipamento)	(item/equipment)	sistema		炎の闘気を纏い鳳凰の如く、急降下攻撃をする奥義	An arcane arte that cloaks oneself in flame fighting spirit and dives like a phoenix.	
+valuables#639	valuables	639	(item/equipamento)	(item/equipment)	sistema		空牙昇竜脚	Rising Dragon	

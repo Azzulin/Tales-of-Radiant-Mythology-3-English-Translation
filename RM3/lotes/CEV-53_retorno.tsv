@@ -1,0 +1,180 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev53_010.scr:0	cev53_010.scr	0	アニス	Anise Tatlin	personagem		う〜ん、う〜ん	Hmm, hmmm...	
+cev53_010.scr:1	cev53_010.scr	1	アニス	Anise Tatlin	personagem		う〜〜〜〜〜むむむむ……	Hrmmmmmmm...	
+cev53_010.scr:2	cev53_010.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	……どうしたの？\n随分、悩んでいるみたいだけど……	...Is something wrong?\nYou seem quite troubled...	
+cev53_010.scr:3	cev53_010.scr	3	アニス	Anise Tatlin	personagem	CRLF x1	悩むよ〜！\n悩むに決まってるじゃん！	Of course I am~!\nHow could I not be?!	
+cev53_010.scr:4	cev53_010.scr	4	アニス	Anise Tatlin	personagem		だって、だってぇ……	I mean, I mean...	
+cev53_010.scr:5	cev53_010.scr	5	カノンノ	Kanonno Grassvalley	personagem		うん……話、聞くよ？	Yeah... I'm listening, okay?	
+cev53_010.scr:6	cev53_010.scr	6	アニス	Anise Tatlin	personagem		だってぇ……	Well, you see...	
+cev53_010.scr:7	cev53_010.scr	7	アニス	Anise Tatlin	personagem	CRLF x1	最初はルーク様狙いだったけど\nちょっとわがまま過ぎるのがアレだしぃ	At first I had my eye on Master Luke,\nbut he's just a bit too spoiled...	
+cev53_010.scr:8	cev53_010.scr	8	アニス	Anise Tatlin	personagem	CRLF x2	ウッドロウ様もゼロス様も\nナイスイケメン∀　だけど\nどっちも競争率高そうだしぃ	Both Lord Woodrow and Master Zelos\nare super hunks! But competition\nfor them looks fierce...	
+cev53_010.scr:9	cev53_010.scr	9	アニス	Anise Tatlin	personagem	CRLF x2	アスベル様も領主の息子ってとこで\n捨てがたいんだけど\n何か真面目一直線過ぎ？　っていうか〜	Lord Asbel is a lord's son too,\nwhich is hard to pass up, but\nhe's way too strait-laced~	
+cev53_010.scr:10	cev53_010.scr	10	アニス	Anise Tatlin	personagem		となるとぉ、やっぱり……	Which means, after all...	
+cev53_010.scr:11	cev53_010.scr	11	アニス	Anise Tatlin	personagem	CRLF x2	スパーダ様が、アニスちゃんの王子様\nなのかなぁって∀\nえへへ∀　∀えへへ∀∀	Lord Sparda might just be\nAnise-chan's prince! Ehehe!\nEhehe~!	
+cev53_010.scr:12	cev53_010.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そ、そう……なんだ。\n大変だね……	I-I... see.\nSounds rough...	
+cev53_010.scr:13	cev53_010.scr	13	アニス	Anise Tatlin	personagem	CRLF x1	きゃわ〜〜〜ん、このギルドってば\n何気により取り見取りじゃん！	Eeeeeep! This guild is actually\nfull of top-tier choices!	
+cev53_010.scr:14	cev53_010.scr	14	アニス	Anise Tatlin	personagem		アニスちゃん困っちゃう〜〜∀∀	Anise-chan is so spoiled for choice~~!	
+cev53_020.scr:0	cev53_020.scr	0	リタ	Rita Mordio	personagem		この船の乗員も、随分増えたものね	The crew on this ship has grown so much.	
+cev53_020.scr:1	cev53_020.scr	1	チャット	Chat	personagem	CRLF x2	そうですね。\n大勢の方がいらして、\nとても賑やかになったと思います	Indeed.\nWith so many people aboard,\nit has become quite lively.	
+cev53_020.scr:2	cev53_020.scr	2	アニス	Anise Tatlin	personagem		老若男女ってヤツだね∀	People of all ages and walks of life!	
+cev53_020.scr:3	cev53_020.scr	3	アニス	Anise Tatlin	personagem	CRLF x2	この調子で、\nお金持ちがも〜〜っと増えてくれれば\n最高なんだけどね〜∀	At this rate, if waaaay more\nrich people joined the ship,\nit'd be the absolute best~!	
+cev53_020.scr:4	cev53_020.scr	4	リタ	Rita Mordio	personagem	CRLF x1	っていうかさ、人だけじゃなくて、\n色んな動物っぽいのも増えてない？	Though hasn't the ship gained\nlots of animal-like folks too?	
+cev53_020.scr:5	cev53_020.scr	5	チャット	Chat	personagem		う……、そうですね	Er... you are quite right.	
+cev53_020.scr:6	cev53_020.scr	6	チャット	Chat	personagem	CRLF x1	それってつまり、ロックスさんや\nモフモフ族の皆さんの事ですよね？	You mean Rocks and the members\nof the Fluffy Tribe, correct?	
+cev53_020.scr:7	cev53_020.scr	7	アニス	Anise Tatlin	personagem	CRLF x1	何か、生き物大集合！　\nって感じ〜？	It's like a grand gathering\nof all kinds of critters~?	
+cev53_020.scr:8	cev53_020.scr	8	アニス	Anise Tatlin	personagem	CRLF x2	これをウリにして、お客さん集めてぇ、\nギルドを観光名所に出来ないかなー∀\nなんて……∀	Couldn't we use that to draw tourists\nand turn the guild into a hotspot?\nJust wondering~!	
+cev53_020.scr:9	cev53_020.scr	9	リタ	Rita Mordio	personagem	CRLF x2	そうねえ。\n例えばだけど、ここら辺で無機物な奴とか\n出て来たら面白いんだけどね〜	True enough.\nIt'd be fun if some inanimate\nthing popped up around here~	
+cev53_020.scr:10	cev53_020.scr	10	チャット	Chat	personagem		無機物……ですか？	An inanimate... object?	
+cev53_020.scr:11	cev53_020.scr	11	アニス	Anise Tatlin	personagem	CRLF x2	それってつまりぃ〜、\n機械とか物が動いたり\n喋ったりするってこと？	You mean like machines or objects\nwalking around and talking\non their own?	
+cev53_020.scr:12	cev53_020.scr	12	リタ	Rita Mordio	personagem		そうそう	Exactly.	
+cev53_020.scr:13	cev53_020.scr	13	リタ	Rita Mordio	personagem	CRLF x1	ほら、タンスが歩き回って\n喋ったりしたら面白くない？	Like, wouldn't a walking,\ntalkwardrobe be hilarious?	
+cev53_020.scr:14	cev53_020.scr	14	リタ	Rita Mordio	personagem		いや、気持ち悪いだけだわ……	Actually, that's just creepy...	
+cev53_020.scr:15	cev53_020.scr	15	チャット	Chat	personagem		ですね……	Indeed it is...	
+cev53_020.scr:16	cev53_020.scr	16	アニス	Anise Tatlin	personagem		中にタンス預金があれば……	If it has a secret cash stash inside...	
+cev53_030.scr:0	cev53_030.scr	0	アニス	Anise Tatlin	personagem	CRLF x1	あ〜、暇だなぁ〜。\nな〜んか、楽しい事ないかなぁ〜	Aah, I'm so boooored~\nIsn't there anything fun to do~?	
+cev53_030.scr:1	cev53_030.scr	1	マオ	Mao	personagem		そうだネ〜	Sure is~!	
+cev53_030.scr:2	cev53_030.scr	2	チャット	Chat	personagem	CRLF x1	暇とは何です、暇とは。\nお二人とも、緊張感が足りませんよ	What do you mean, bored?!\nYou both lack any sense of urgency!	
+cev53_030.scr:3	cev53_030.scr	3	アニス	Anise Tatlin	personagem	CRLF x2	ぶーぶー。\n少しぐらい、気晴らししたって\nいいじゃん	Boo, hiss!\nWhat's wrong with having a little\nfun to pass the time?!	
+cev53_030.scr:4	cev53_030.scr	4	マオ	Mao	personagem	CRLF x1	そうだ！\nみんなでさ、あれやって遊ぼうよ！	I know!\nLet's all play that game together!	
+cev53_030.scr:5	cev53_030.scr	5	マオ	Mao	personagem	CRLF x1	騎士団と、泥棒に分かれて\n遊ぶ……何だっけ、ほら……	You split into knights and thieves...\nWhat was it called again? You know...	
+cev53_030.scr:6	cev53_030.scr	6	アニス	Anise Tatlin	personagem		ああ、「どろきし」のこと？	Oh, you mean 'Thieves & Knights'?	
+cev53_030.scr:7	cev53_030.scr	7	マオ	Mao	personagem		そうそう、それだヨ！	Yeah, yeah, that's it!	
+cev53_030.scr:8	cev53_030.scr	8	マオ	Mao	personagem	CRLF x1	運動になるし、暇も潰せて\nいい事づくめ……	It's good exercise, kills time,\nand has lots of perks...	
+cev53_030.scr:9	cev53_030.scr	9	チャット	Chat	personagem	CRLF x1	待って下さい。\n今、何ておっしゃいました？	Please hold on.\nWhat did you just say?	
+cev53_030.scr:10	cev53_030.scr	10	アニス	Anise Tatlin	personagem	CRLF x1	え〜？　\n何って、何？	Eh~?\nWhat do you mean, what?	
+cev53_030.scr:11	cev53_030.scr	11	チャット	Chat	personagem		先程の、遊びの名前の事ですよ！	I mean the name of the game just now!	
+cev53_030.scr:12	cev53_030.scr	12	アニス	Anise Tatlin	personagem		あ〜、「どろきし」のこと？	Ah, 'Thieves & Knights'?	
+cev53_030.scr:13	cev53_030.scr	13	チャット	Chat	personagem		そう、それです	Yes, that!	
+cev53_030.scr:14	cev53_030.scr	14	チャット	Chat	personagem	CRLF x1	ずばり言わせていただきますが\n「きしどろ」の間違いじゃないですか？	Allow me to be blunt: aren't you\nmistaken? It's 'Knights & Thieves'!	
+cev53_030.scr:15	cev53_030.scr	15	アニス	Anise Tatlin	personagem	CRLF x2	まっさかぁ〜。\nだって、泥棒が主役の遊びなんだから\n「どろきし」の方が正しいでしょ！	No waaay~!\nThe thieves are the stars of the game,\nso 'Thieves & Knights' is right!	
+cev53_030.scr:16	cev53_030.scr	16	チャット	Chat	personagem	CRLF x2	いいえ。\n騎士団が偉いんだから、\n「きしどろ」に決まってます！	Incorrect!\nThe knights hold all authority,\nso it must be 'Knights & Thieves'!	
+cev53_030.scr:17	cev53_030.scr	17	マオ	Mao	personagem	CRLF x1	ちょ、ちょっと二人とも……\n少し落ち着こうよ	H-Hold on, you two...\nLet's calm down a bit.	
+cev53_030.scr:18	cev53_030.scr	18	マオ	Mao	personagem	CRLF x1	そんなのどっちでもいいじゃない。\nネ？	Either way is totally fine, right?\nHuh?	
+cev53_030.scr:19	cev53_030.scr	19	アニス	Anise Tatlin	personagem		どこがいいってのよ！	It is NOT fine at all!	
+cev53_030.scr:20	cev53_030.scr	20	チャット	Chat	personagem		ちっとも良くありません！	It is not fine in the least!	
+cev53_030.scr:21	cev53_030.scr	21	マオ	Mao	personagem	CRLF x1	も〜〜〜。\nこれじゃ、全然遊べないヨ……	Geez~~~\nWe can't play at all like this...	
+cev53_040.scr:0	cev53_040.scr	0	チャット	Chat	personagem		じゃあ、誰か他の方にも聞いてみましょう	Then let us ask someone else!	
+cev53_040.scr:1	cev53_040.scr	1	チャット	Chat	personagem	CRLF x2	「どろきし」と「きしどろ」、\nどちらの呼び方で通っているか、\n文句なしの一発勝負です！	'Thieves & Knights' or\n'Knights & Thieves'--we settle\nwhich is standard once and for all!	
+cev53_040.scr:2	cev53_040.scr	2	アニス	Anise Tatlin	personagem	CRLF x1	いいよ。\nやったろーじゃん！	Fine by me.\nLet's do this!	
+cev53_040.scr:3	cev53_040.scr	3	アニス	Anise Tatlin	personagem		（後で吠え面かくなよ、チビッ子！）	(Don't come crying later, runt!)	
+cev53_040.scr:4	cev53_040.scr	4	マオ	Mao	personagem		も〜、二人とも強情だなぁ……	Sheesh, you're both so stubborn...	
+cev53_040.scr:5	cev53_040.scr	5	ヒスイ	Hisui Hearts	personagem	CRLF x1	何だお前ら、そんなつまんねえ事で\n喧嘩してんのかぁ？	What're you arguing over such\na stupid thing for, huh?	
+cev53_040.scr:6	cev53_040.scr	6	ヒスイ	Hisui Hearts	personagem	CRLF x2	俺のとこじゃ、\n「きしどろ」も「どろきし」も\nどっちも使わねえな	Where I'm from, we don't use\n'Knights & Thieves' or\n'Thieves & Knights' at all.	
+cev53_040.scr:7	cev53_040.scr	7	アニス	Anise Tatlin	personagem		うっそ！？	No way?!	
+cev53_040.scr:8	cev53_040.scr	8	チャット	Chat	personagem		第三勢力の介入ですか！？	A third party intervention?!	
+cev53_040.scr:9	cev53_040.scr	9	マオ	Mao	personagem	CRLF x1	じゃあ、ヒスイのとこは\n何て名前で呼んでたの？	Then what did you call it\nwhere you grew up, Hisui?	
+cev53_040.scr:10	cev53_040.scr	10	ヒスイ	Hisui Hearts	personagem		「ちゅんさんとんとん」だ	It was called 'Chun-san Ton-ton'!	
+cev53_040.scr:11	cev53_040.scr	11	アニス	Anise Tatlin	personagem		ちゅんさ……？	Chun-sa...?	
+cev53_040.scr:12	cev53_040.scr	12	アニス	Anise Tatlin	personagem	CRLF x1	え、何それ……。\n初めて聞いたんですけど……	What on earth is that...?\nI've never heard of that before...	
+cev53_040.scr:13	cev53_040.scr	13	チャット	Chat	personagem	CRLF x1	言葉のどこにも、騎士と泥棒が\n入ってないじゃないですか……	Neither 'knight' nor 'thief'\nis anywhere in that name...	
+cev53_040.scr:14	cev53_040.scr	14	ヒスイ	Hisui Hearts	personagem		はっ、まだまだ甘いな！	Hah, you've still got a lot to learn!	
+cev53_040.scr:15	cev53_040.scr	15	ヒスイ	Hisui Hearts	personagem	CRLF x2	いいか？\n「駐在さん」と「山賊」で\n「ちゅんさん」なんだよッ！！	Listen up!\n'Resident cop' and 'mountain bandit'\nmake 'Chun-san'!!	
+cev53_040.scr:16	cev53_040.scr	16	マオ	Mao	personagem		じゃあ、とんとんって……？	Then what about the 'Ton-ton'...?	
+cev53_040.scr:17	cev53_040.scr	17	ヒスイ	Hisui Hearts	personagem	CRLF x1	そりゃ、ただの語感だ。\n言った時に、気持ちいい感じがするだろ？	That's just rhythm. It rolls right\noff the tongue, doesn't it?	
+cev53_050.scr:0	cev53_050.scr	0	アニス	Anise Tatlin	personagem	CRLF x1	さて、今日のご飯は\n何にしよっかな〜☆	Now then, what should I eat\nfor dinner today~?	
+cev53_050.scr:1	cev53_050.scr	1	ロックス	Rocks	personagem	CRLF x1	たっぷり卵のオムレツの\nホワイトソースがけはいかがですか？	How about an extra-egg omelet\ndrizzled with rich white sauce?	
+cev53_050.scr:2	cev53_050.scr	2	ロックス	Rocks	personagem	CRLF x2	バターでライスとベーコンを\nよぅく炒めて、ソースは生クリームを\nふんだんに使うのがオススメです	I recommend frying the rice\nand bacon in lots of butter,\nwith plenty of heavy cream.	
+cev53_050.scr:3	cev53_050.scr	3	アニス	Anise Tatlin	personagem	CRLF x2	うげっ。\n何かカロリー高そう……。\n他にいい案とかないの？	Blech.\nThat sounds insanely high-calorie...\nGot any other suggestions?	
+cev53_050.scr:4	cev53_050.scr	4	ロックス	Rocks	personagem		そうですねぇ	Let me think...	
+cev53_050.scr:5	cev53_050.scr	5	ロックス	Rocks	personagem	CRLF x2	グラタン、カルボナーラ、\nピザ、シチュー……\nあっ、ステーキなんかもいいですね	Gratin, carbonara,\npizza, stew... Ah, steak\nwould be marvelous as well.	
+cev53_050.scr:6	cev53_050.scr	6	アニス	Anise Tatlin	personagem		って、それ全部高カロリーじゃん！！	Hey, all of those are high-calorie!!	
+cev53_050.scr:7	cev53_050.scr	7	アニス	Anise Tatlin	personagem	CRLF x1	そんなの食べたら、\n女子はみるみる太っちゃうっての！	If a girl ate that kind of food,\nshe'd gain weight in no time flat!	
+cev53_050.scr:8	cev53_050.scr	8	ロックス	Rocks	personagem		だからいいんじゃないですか……	That is precisely what makes it good...	
+cev53_050.scr:9	cev53_050.scr	9	アニス	Anise Tatlin	personagem		え？	Huh?	
+cev53_050.scr:10	cev53_050.scr	10	ロックス	Rocks	personagem		いえ、何でもありません	No, it is nothing at all.	
+cev53_050.scr:11	cev53_050.scr	11	ロックス	Rocks	personagem	CRLF x2	余計な口を挟んでしまって\n申し訳ありませんでした。\n僕も、そろそろ仕事に戻りますね	I apologize for intruding.\nI shall return to my chores\nshortly, then.	
+cev53_050.scr:12	cev53_050.scr	12	アニス	Anise Tatlin	personagem	CRLF x1	何か今、ものすごく\nダークなものを見た様な……	I feel like I just caught a glimpse\nof something profoundly dark...	
+cev53_060.scr:0	cev53_060.scr	0	アニス	Anise Tatlin	personagem		ウッドロウさまぁ∀	Lord Woodrow~!	
+cev53_060.scr:1	cev53_060.scr	1	アニス	Anise Tatlin	personagem	CRLF x2	初めまして。\n私、アニス・タトリンって言います。\nよろしくお願いします∀	It's an honor to meet you.\nMy name is Anise Tatlin.\nIt's a pleasure~!	
+cev53_060.scr:2	cev53_060.scr	2	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ああ、よろしく。\n私は……	Yes, nice to meet you.\nI am...	
+cev53_060.scr:3	cev53_060.scr	3	アニス	Anise Tatlin	personagem	CRLF x2	ウッドロウ様はぁ……、\nもう、将来を誓い合った恋人とか\nいらっしゃるんですかぁ？	Lord Woodrow~... Do you happen\nto have a lover you've pledged\nyour future to already~?	
+cev53_060.scr:4	cev53_060.scr	4	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	いや、そういった相手は\n特にいないよ	No, I do not have anyone\nlike that in particular.	
+cev53_060.scr:5	cev53_060.scr	5	アニス	Anise Tatlin	personagem	CRLF x2	きゃわ〜〜ん∀\nこれってばチャンス？\nもしくは、運命なのかも？？	Eeeeeep!\nCould this be my chance?!\nOr perhaps... destiny?!	
+cev53_060.scr:6	cev53_060.scr	6	アニス	Anise Tatlin	personagem	CRLF x1	ウッドロウ様ぁ∀\nもし良かったら、今度……	Lord Woodrow~!\nIf you'd like, next time...	
+cev53_060.scr:7	cev53_060.scr	7	チェルシー	Chelsea Torn	personagem	CRLF x2	それ以上！\nいやらしい目でウッドロウさまを\n見ないで下さいっ！	Stop right there!\nDo not look at Lord Woodrow\nwith such scandalous eyes!	
+cev53_060.scr:8	cev53_060.scr	8	アニス	Anise Tatlin	personagem	CRLF x1	げっ。\n何か面倒なのが出て来た	Gah.\nA total pest just showed up.	
+cev53_060.scr:9	cev53_060.scr	9	チェルシー	Chelsea Torn	personagem	CRLF x1	ウッドロウさま。\nいけません、こんな女の甘言に乗っては！	Lord Woodrow! You must not fall\nfor this woman's sweet-talk!	
+cev53_060.scr:10	cev53_060.scr	10	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	大丈夫だよ、チェルシー。\n何か誤解をしている様だが……	It is all right, Chelsea.\nIt seems there is a misunderstanding...	
+cev53_060.scr:11	cev53_060.scr	11	アニス	Anise Tatlin	personagem	CRLF x2	ぶーぶー。　そうだよぉ。\nアニスちゃん、ただウッドロウさまと\nお話してただけなのに、ひどいよぅ……	Yeah, totally! Anise-chan was\njust talking with Lord Woodrow.\nYou're being so mean...!	
+cev53_060.scr:12	cev53_060.scr	12	チェルシー	Chelsea Torn	personagem	CRLF x2	泣き落としでウッドロウさまの\n気を引こうとしたって駄目です。\n……その手には乗りませんから	Fake tears will not win\nLord Woodrow over! I will not\nfall for your tricks!	
+cev53_060.scr:13	cev53_060.scr	13	アニス	Anise Tatlin	personagem		（ちっ。勘付かれたか）	(Tch. Did she see right through me?)	
+cev53_070.scr:0	cev53_070.scr	0	チェルシー	Chelsea Torn	personagem	CRLF x2	これだけは言っておきますけど\nウッドロウさまのお嫁さんになるのは\nこの私ですから！	Let me make one thing clear:\nthe one who will become\nLord Woodrow's bride is ME!	
+cev53_070.scr:1	cev53_070.scr	1	アニス	Anise Tatlin	personagem	CRLF x2	その話なんだけどぉ……。\nそれって、正式に婚約とかしてるの？\nウッドロウ様の公認とか？	About that, though...\nAre you two formally engaged?\nDid Lord Woodrow endorse that?	
+cev53_070.scr:2	cev53_070.scr	2	チェルシー	Chelsea Torn	personagem	CRLF x1	そ……そういうわけじゃ\nないですけど……	Th-That's not exactly how\nit is, but...	
+cev53_070.scr:3	cev53_070.scr	3	アニス	Anise Tatlin	personagem	CRLF x1	なんだ。\nただの妄想か	What.\nJust pure delusion, then.	
+cev53_070.scr:4	cev53_070.scr	4	チェルシー	Chelsea Torn	personagem	CRLF x1	？\n今、何か言いました？	?\nDid you just say something?	
+cev53_070.scr:5	cev53_070.scr	5	アニス	Anise Tatlin	personagem		別に、何も〜？☆	Nope, nothing at all~!	
+cev53_070.scr:6	cev53_070.scr	6	チェルシー	Chelsea Torn	personagem	CRLF x1	とにかく、ウッドロウさまは\n渡しませんから！	Regardless, I won't ever\nhand Lord Woodrow over to you!	
+cev53_070.scr:7	cev53_070.scr	7	アニス	Anise Tatlin	personagem	CRLF x2	渡すとか渡さないとか、\nそもそもあんたのじゃ\nないでしょっての	'Hand him over'?\nHe was never yours to begin\nwith, you know.	
+cev53_070.scr:8	cev53_070.scr	8	アニス	Anise Tatlin	personagem	CRLF x1	しかし、ウッドロウ様には\n面倒なのが付きまとってるわけか……	Still, Lord Woodrow has quite\na nuisance clinging to him...	
+cev53_070.scr:9	cev53_070.scr	9	アニス	Anise Tatlin	personagem	CRLF x1	これって、他の相手も見繕って\nおいた方がいいのかも……？	Maybe I oughta look into other\nsuitable candidates just in case...?	
+cev53_080.scr:0	cev53_080.scr	0	アニス	Anise Tatlin	personagem	CRLF x2	ゼロス様ぁ∀\n良かったら今度、私と\nどこか遊びに行きませんかぁ？	Master Zelos~!\nWould you like to hang out\nwith me sometime~?	
+cev53_080.scr:1	cev53_080.scr	1	ゼロス	Zelos Wilder	personagem	CRLF x2	あ〜、ごめんねアニスちゃん。\n俺さま、ちょ〜っと今、予定が\n立て込んじゃってるんだわ	Ah, sorry, Anise-chan!\nThe great me has a suuuper\npacked schedule right now.	
+cev53_080.scr:2	cev53_080.scr	2	ゼロス	Zelos Wilder	personagem	CRLF x1	また今度誘うから\nその時にヨロシク∀	I'll invite you next time,\nso stay tuned, babe!	
+cev53_080.scr:3	cev53_080.scr	3	アニス	Anise Tatlin	personagem		えっ、ゼロス様……	Huh? Master Zelos...	
+cev53_080.scr:4	cev53_080.scr	4	ゼロス	Zelos Wilder	personagem	CRLF x1	ティアちゃ〜ん∀\nこれから俺さまとデートしない？	Tear-chaaaan!\nWanna go on a date with me?	
+cev53_080.scr:5	cev53_080.scr	5	ティア	Tear Grants	personagem		お断りするわ	I refuse.	
+cev53_080.scr:6	cev53_080.scr	6	ゼロス	Zelos Wilder	personagem	CRLF x1	あ〜んもう、ティアちゃんってば\n冷たい∀	Aww, come on, Tear-chan,\nyou're so cold!	
+cev53_080.scr:7	cev53_080.scr	7	アニス	Anise Tatlin	personagem	CRLF x2	ちっ……噂に違わぬ女たらしか。\nあれはモノにするのに\n時間がかかるかも……	Tch... A ladies' man just like the\nrumors say. Reeling him in might\ntake way too much time...	
+cev53_080.scr:8	cev53_080.scr	8	アニス	Anise Tatlin	personagem		他の手を考えよ……	Better think of another angle...	
+cev53_080.scr:9	cev53_080.scr	9	アニス	Anise Tatlin	personagem	CRLF x1	お金持ちは、他にも\nい〜〜っぱいいるもんね！	There are still tons and tons of\nother rich guys around, after all!	
+cev53_200.scr:0	cev53_200.scr	0	アニス	Anise Tatlin	personagem	CRLF x1	通常。\n	Normal.\n	
+cev53_200.scr:1	cev53_200.scr	1	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:2	cev53_200.scr	2	アニス	Anise Tatlin	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev53_200.scr:3	cev53_200.scr	3	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:4	cev53_200.scr	4	アニス	Anise Tatlin	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev53_200.scr:5	cev53_200.scr	5	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:6	cev53_200.scr	6	アニス	Anise Tatlin	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev53_200.scr:7	cev53_200.scr	7	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:8	cev53_200.scr	8	アニス	Anise Tatlin	personagem	CRLF x1	困惑。\n	Confusion.\n	
+cev53_200.scr:9	cev53_200.scr	9	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:10	cev53_200.scr	10	アニス	Anise Tatlin	personagem	CRLF x1	悲しみ２。\n	Sadness 2.\n	
+cev53_200.scr:11	cev53_200.scr	11	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:12	cev53_200.scr	12	アニス	Anise Tatlin	personagem	CRLF x1	笑い２。\n	Laughter 2.\n	
+cev53_200.scr:13	cev53_200.scr	13	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:14	cev53_200.scr	14	アニス	Anise Tatlin	personagem	CRLF x1	さぁ〜？。\n	Who knows~?\n	
+cev53_200.scr:15	cev53_200.scr	15	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:16	cev53_200.scr	16	アニス	Anise Tatlin	personagem	CRLF x1	ジト目。\n	Cold stare.\n	
+cev53_200.scr:17	cev53_200.scr	17	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:18	cev53_200.scr	18	アニス	Anise Tatlin	personagem	CRLF x1	激怒。\n	Rage.\n	
+cev53_200.scr:19	cev53_200.scr	19	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:20	cev53_200.scr	20	アニス	Anise Tatlin	personagem	CRLF x1	通常。\n	Normal.\n	
+cev53_200.scr:21	cev53_200.scr	21	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:22	cev53_200.scr	22	アニス	Anise Tatlin	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev53_200.scr:23	cev53_200.scr	23	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:24	cev53_200.scr	24	アニス	Anise Tatlin	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev53_200.scr:25	cev53_200.scr	25	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:26	cev53_200.scr	26	アニス	Anise Tatlin	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev53_200.scr:27	cev53_200.scr	27	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:28	cev53_200.scr	28	アニス	Anise Tatlin	personagem	CRLF x1	困惑。\n	Confusion.\n	
+cev53_200.scr:29	cev53_200.scr	29	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:30	cev53_200.scr	30	アニス	Anise Tatlin	personagem	CRLF x1	悲しみ２。\n	Sadness 2.\n	
+cev53_200.scr:31	cev53_200.scr	31	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:32	cev53_200.scr	32	アニス	Anise Tatlin	personagem	CRLF x1	笑い２。\n	Laughter 2.\n	
+cev53_200.scr:33	cev53_200.scr	33	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:34	cev53_200.scr	34	アニス	Anise Tatlin	personagem	CRLF x1	さぁ〜？。\n	Who knows~?\n	
+cev53_200.scr:35	cev53_200.scr	35	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:36	cev53_200.scr	36	アニス	Anise Tatlin	personagem	CRLF x1	ジト目。\n	Cold stare.\n	
+cev53_200.scr:37	cev53_200.scr	37	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:38	cev53_200.scr	38	アニス	Anise Tatlin	personagem	CRLF x1	激怒。\n	Rage.\n	
+cev53_200.scr:39	cev53_200.scr	39	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:40	cev53_200.scr	40	アニス	Anise Tatlin	personagem	CRLF x1	通常。\n	Normal.\n	
+cev53_200.scr:41	cev53_200.scr	41	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:42	cev53_200.scr	42	アニス	Anise Tatlin	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev53_200.scr:43	cev53_200.scr	43	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:44	cev53_200.scr	44	アニス	Anise Tatlin	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev53_200.scr:45	cev53_200.scr	45	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:46	cev53_200.scr	46	アニス	Anise Tatlin	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev53_200.scr:47	cev53_200.scr	47	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:48	cev53_200.scr	48	アニス	Anise Tatlin	personagem	CRLF x1	困惑。\n	Confusion.\n	
+cev53_200.scr:49	cev53_200.scr	49	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:50	cev53_200.scr	50	アニス	Anise Tatlin	personagem	CRLF x1	悲しみ２。\n	Sadness 2.\n	
+cev53_200.scr:51	cev53_200.scr	51	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:52	cev53_200.scr	52	アニス	Anise Tatlin	personagem	CRLF x1	笑い２。\n	Laughter 2.\n	
+cev53_200.scr:53	cev53_200.scr	53	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:54	cev53_200.scr	54	アニス	Anise Tatlin	personagem	CRLF x1	さぁ〜？。\n	Who knows~?\n	
+cev53_200.scr:55	cev53_200.scr	55	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:56	cev53_200.scr	56	アニス	Anise Tatlin	personagem	CRLF x1	ジト目。\n	Cold stare.\n	
+cev53_200.scr:57	cev53_200.scr	57	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev53_200.scr:58	cev53_200.scr	58	アニス	Anise Tatlin	personagem	CRLF x1	激怒。\n	Rage.\n	
+cev53_200.scr:59	cev53_200.scr	59	アニス	Anise Tatlin	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	

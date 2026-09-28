@@ -1,0 +1,208 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	traducao
+cev64_010.scr:0	cev64_010.scr	0	マオ	Mao	personagem		ぷー、ぷー	Poo, poo~		Poo, poo~
+cev64_010.scr:1	cev64_010.scr	1	マオ	Mao	personagem		プーリーン♪	Puu-ddiiing~		Puu-ddiiing~
+cev64_010.scr:2	cev64_010.scr	2	マオ	Mao	personagem		プーリーンーの気持ち♪	In the mood for puu-ddiiing~		In the mood for puu-ddiiing~
+cev64_010.scr:3	cev64_010.scr	3	マオ	Mao	personagem	CRLF x1	みーんなで食べたーい\nお願い誰か、作ってヨ〜♪	We all wanna eat some! Won't somebody\nplease make it for us~?		We all wanna eat some! Won't somebody\nplease make it for us~?
+cev64_010.scr:4	cev64_010.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x1	それって、もしかしなくても\nオレに言ってんのか？	Are you by any chance--or rather,\ndefinitely talking to me?		Are you by any chance--or rather,\ndefinitely talking to me?
+cev64_010.scr:5	cev64_010.scr	5	マオ	Mao	personagem	CRLF x2	えへ。\nだって、ユーリって\nお菓子作り得意なんでしょ？	Ehe.\nI mean, you're super good\nat making sweets, right, Yuri?		Ehe.\nI mean, you're super good\nat making sweets, right, Yuri?
+cev64_010.scr:6	cev64_010.scr	6	マオ	Mao	personagem		エステルとリタに聞いたんだ	I heard it from Estelle and Rita!		I heard it from Estelle and Rita!
+cev64_010.scr:7	cev64_010.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x1	へーえ。\nそりゃ、どこのユーリさんかね	Oh really?\nAnd which Yuri would that be, now?		Oh really?\nAnd which Yuri would that be, now?
+cev64_010.scr:8	cev64_010.scr	8	ユーリ	Yuri Lowell	personagem		おーい、ユーリさんとやらー	Heeey, mister Yuri, whoever you are~		Heeey, mister Yuri, whoever you are~
+cev64_010.scr:9	cev64_010.scr	9	マオ	Mao	personagem		って、ちょっと！？	Wait, hey!?		Wait, hey!?
+cev64_010.scr:10	cev64_010.scr	10	マオ	Mao	personagem	CRLF x1	もう！　\n意地悪しないでヨー！	Geez!\nStop being so mean~!		Geez!\nStop being so mean~!
+cev64_020.scr:0	cev64_020.scr	0	マオ	Mao	personagem	CRLF x1	あっ、ナタリアニー。\nさっきアンが探してたヨ	Ah, Nataliannie!\nAn was looking for you earlier!		Ah, Nataliannie!\nAn was looking for you earlier!
+cev64_020.scr:1	cev64_020.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		そうなんですの？	Is that so?		Is that so?
+cev64_020.scr:2	cev64_020.scr	2	アニー	Annie Barrs	personagem	CRLF x1	もしかしてあの件かしら……。\nありがとう、行ってみます	Perhaps it's about that matter...\nThank you, we'll go see her.		Perhaps it's about that matter...\nThank you, we'll go see her.
+cev64_020.scr:3	cev64_020.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x1	おい、アンなんて奴\nこの船に乗ってたか？	Hey, is someone named 'An'\neven on this ship?		Hey, is someone named 'An'\neven on this ship?
+cev64_020.scr:4	cev64_020.scr	4	マオ	Mao	personagem	CRLF x2	えっ？　\nやだなぁユーリ。\nアンっていうのはアンジュの事だよ	Eh?\nCome on, Yuri!\n'An' means Ange, obviously!		Eh?\nCome on, Yuri!\n'An' means Ange, obviously!
+cev64_020.scr:5	cev64_020.scr	5	マオ	Mao	personagem		ユーリが自分で広めたんじゃない	Didn't you spread it around yourself?		Didn't you spread it around yourself?
+cev64_020.scr:6	cev64_020.scr	6	ユーリ	Yuri Lowell	personagem		はあ？	Haaah?!		Haaah?!
+cev64_020.scr:7	cev64_020.scr	7	マオ	Mao	personagem	CRLF x1	あ、リリスタン！\nどこ行くの？	Ah, Lilistahn!\nWhere are you off to?		Ah, Lilistahn!\nWhere are you off to?
+cev64_020.scr:8	cev64_020.scr	8	マオ	Mao	personagem		買い物だったらボクも行くヨ♪	If it's shopping, I'm coming too~!		If it's shopping, I'm coming too~!
+cev64_020.scr:9	cev64_020.scr	9	リリス	Lilith Aileron	personagem		今日はお菓子は買わないわよ？	We're not buying snacks today, okay?		We're not buying snacks today, okay?
+cev64_020.scr:10	cev64_020.scr	10	マオ	Mao	personagem	CRLF x1	別に、お菓子が欲しくて\n手伝うんじゃないヨ！	It's not like I'm helping\njust because I want snacks!		It's not like I'm helping\njust because I want snacks!
+cev64_020.scr:11	cev64_020.scr	11	スタン	Stahn Aileron	personagem	CRLF x1	なあ、リリス。\nマオが行くなら、俺は寝てても……	Hey, Lilith. If Mao's going,\ncan't I just stay and sleep...?		Hey, Lilith. If Mao's going,\ncan't I just stay and sleep...?
+cev64_020.scr:12	cev64_020.scr	12	リリス	Lilith Aileron	personagem		お兄ちゃんも行くの！	Big Brother, you are coming too!		Big Brother, you are coming too!
+cev64_020.scr:13	cev64_020.scr	13	リリス	Lilith Aileron	personagem		それと、リリスじゃなくて、リリー∀	And it's not Lilith, it's Lily! :)		And it's not Lilith, it's Lily! :)
+cev64_020.scr:14	cev64_020.scr	14	スタン	Stahn Aileron	personagem	CRLF x1	どっちでもいい気が\nするんだけどなぁ……	I feel like either one\nis fine, really...		I feel like either one\nis fine, really...
+cev64_020.scr:15	cev64_020.scr	15	スタン	Stahn Aileron	personagem	CRLF x1	なあユーリ、何が良くて\nそんなルール決めたんだ？	Hey Yuri, what made you\ncome up with a rule like that?		Hey Yuri, what made you\ncome up with a rule like that?
+cev64_020.scr:16	cev64_020.scr	16	ユーリ	Yuri Lowell	personagem		ルール？	A rule?		A rule?
+cev64_020.scr:17	cev64_020.scr	17	リリス	Lilith Aileron	personagem	CRLF x1	名前を短くしたり、まとめ呼びするのって\nユーリさんの発案だって聞きましたけど？	Shortening names and combining them--\nI heard that was Yuri's idea?		Shortening names and combining them--\nI heard that was Yuri's idea?
+cev64_020.scr:18	cev64_020.scr	18	マオ	Mao	personagem	CRLF x2	今、ひそかなブームなんだヨ！\nいつもと違う呼び方って\n何か新鮮でいいよね♪	It's totally trending right now!\nCalling people by new names\nfeels so fresh and fun~!		It's totally trending right now!\nCalling people by new names\nfeels so fresh and fun~!
+cev64_020.scr:19	cev64_020.scr	19	ユーリ	Yuri Lowell	personagem	CRLF x2	そういう事か……。\n誰だ？　\n余計な話を広めた奴は……	So that's it...\nWho is it?\nWho spread that nonsense around...?		So that's it...\nWho is it?\nWho spread that nonsense around...?
+cev64_030.scr:0	cev64_030.scr	0	エステル	Estelle	personagem	CRLF x1	　　　　　　　　　　　　　　　　　　\n　　　　　　　　　　　　　　　　　　	......\n......		......\n......
+cev64_030.scr:1	cev64_030.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x1	へえ……。\nこりゃ、珍しい事もあるもんだ	Heh...\nNow that's something you rarely see.		Heh...\nNow that's something you rarely see.
+cev64_030.scr:2	cev64_030.scr	2	エステル	Estelle	personagem	CRLF x1	みんな……！\nいつから聞いてたんです？	Everyone...!\nHow long have you been listening?		Everyone...!\nHow long have you been listening?
+cev64_030.scr:3	cev64_030.scr	3	クレア	Claire Bennett	personagem	CRLF x2	ごめんなさい。\n立ち聞きするつもりは\nなかったのだけど……	I'm so sorry.\nWe had no intention of eavesdropping,\nbut...		I'm so sorry.\nWe had no intention of eavesdropping,\nbut...
+cev64_030.scr:4	cev64_030.scr	4	クレア	Claire Bennett	personagem		とっても綺麗な歌声だったから、つい	Your singing voice was just so lovely...		Your singing voice was just so lovely...
+cev64_030.scr:5	cev64_030.scr	5	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	ああ。\n思わず聞き入ってしまった	Yeah.\nI was completely captivated.		Yeah.\nI was completely captivated.
+cev64_030.scr:6	cev64_030.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x1	というわけだ。\n良かったな、褒められて	So there you have it.\nGood for you, getting praised.		So there you have it.\nGood for you, getting praised.
+cev64_030.scr:7	cev64_030.scr	7	エステル	Estelle	personagem	CRLF x1	そんな……。\nは、恥ずかしいです……	Oh dear...\nI-I'm so embarrassed...		Oh dear...\nI-I'm so embarrassed...
+cev64_030.scr:8	cev64_030.scr	8	エステル	Estelle	personagem		でも、ありがとうございます	Still, thank you very much.		Still, thank you very much.
+cev64_030.scr:9	cev64_030.scr	9	ユーリ	Yuri Lowell	personagem		しかし、何でまた歌なんだ？	Still, what made you start singing?		Still, what made you start singing?
+cev64_030.scr:10	cev64_030.scr	10	エステル	Estelle	personagem		ああ、それは……	Ah, well that's...		Ah, well that's...
+cev64_030.scr:11	cev64_030.scr	11	クィッキー	Quickie	personagem		クィッキー！！	Quickieee!!		Quickieee!!
+cev64_030.scr:12	cev64_030.scr	12	ユーリ	Yuri Lowell	personagem		何だお前、やけにご機嫌だな	What's with you? In a mighty fine mood.		What's with you? In a mighty fine mood.
+cev64_030.scr:13	cev64_030.scr	13	クレア	Claire Bennett	personagem	CRLF x1	いい子ね、クィッキー。\nあとでおやつをあげましょうね	Good boy, Quickie.\nI'll give you a treat later, okay?		Good boy, Quickie.\nI'll give you a treat later, okay?
+cev64_030.scr:14	cev64_030.scr	14	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	こいつは、クレアの作る燻製に\n目がないからな	He has a real weakness\nfor Claire's smoked treats.		He has a real weakness\nfor Claire's smoked treats.
+cev64_030.scr:15	cev64_030.scr	15	クィッキー	Quickie	personagem		クィクィ、クィック、クィッキー♪	Qui-qui, quick, Quickieee~!		Qui-qui, quick, Quickieee~!
+cev64_030.scr:16	cev64_030.scr	16	エステル	Estelle	personagem		何だか……みんなずるいです	Somehow... everyone is being unfair.		Somehow... everyone is being unfair.
+cev64_030.scr:17	cev64_030.scr	17	ユーリ	Yuri Lowell	personagem	CRLF x1	んで、エステル。\n何で歌ってたんだっけか？	So, Estelle.\nWhy were you singing again?		So, Estelle.\nWhy were you singing again?
+cev64_030.scr:18	cev64_030.scr	18	エステル	Estelle	personagem		ユーリは意地悪です	Yuri, you're mean.		Yuri, you're mean.
+cev64_040.scr:0	cev64_040.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x2	身軽なもんだな。\n忍びなら、これくらいの仕掛けは\n朝飯前ってわけか	Pretty nimble.\nFor a shinobi, traps like this\nmust be a piece of cake, huh?		Pretty nimble.\nFor a shinobi, traps like this\nmust be a piece of cake, huh?
+cev64_040.scr:1	cev64_040.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x2	当然です。　これくらいで動揺したり\n足止めを食らっている様では\nとてもみんなを束ねる忍びにはなれません	Naturally. If something like this\ncould shake me or slow me down,\nI could never lead the shinobi.		Naturally. If something like this\ncould shake me or slow me down,\nI could never lead the shinobi.
+cev64_040.scr:2	cev64_040.scr	2	ユーリ	Yuri Lowell	personagem	CRLF x1	へえ。\nすずは将来、忍びの頭領にでもなるのか	Heh.\nGonna be head of the shinobi, Suzu?		Heh.\nGonna be head of the shinobi, Suzu?
+cev64_040.scr:3	cev64_040.scr	3	すず	Suzu Fujibayashi	personagem	CRLF x1	いえ……。\nまだそうと決まったわけでは	No...\nNothing has been decided yet.		No...\nNothing has been decided yet.
+cev64_040.scr:4	cev64_040.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x1	いいじゃねえか。　\n胸張って「はい、そうです」って言っとけよ	Sounds fine to me.\nPuff out your chest and say 'Yes, I am!'		Sounds fine to me.\nPuff out your chest and say 'Yes, I am!'
+cev64_040.scr:5	cev64_040.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x2	知ってるか？　\n人間の脳ってのは\n発した言葉が一種の自己暗示になって	You know? The human brain\ntakes the words you utter\nas a kind of self-hypnosis.		You know? The human brain\ntakes the words you utter\nas a kind of self-hypnosis.
+cev64_040.scr:6	cev64_040.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x1	言葉どおりの未来を実現しようと\n影に日向に働いているらしいぜ	It supposedly works behind the scenes\nto make those words reality.		It supposedly works behind the scenes\nto make those words reality.
+cev64_040.scr:7	cev64_040.scr	7	ユーリ	Yuri Lowell	personagem		本人の意志に関係なく、な	Regardless of what you consciously want.		Regardless of what you consciously want.
+cev64_040.scr:8	cev64_040.scr	8	すず	Suzu Fujibayashi	personagem		それは……言霊ですか？	Is that... the power of words?		Is that... the power of words?
+cev64_040.scr:9	cev64_040.scr	9	すず	Suzu Fujibayashi	personagem	CRLF x1	つまり、口にした言葉が\n現実になる、という……	In other words, speaking words\nmakes them become reality...?		In other words, speaking words\nmakes them become reality...?
+cev64_040.scr:10	cev64_040.scr	10	ユーリ	Yuri Lowell	personagem		ああ、そういうもんかもな	Yeah, something like that.		Yeah, something like that.
+cev64_040.scr:11	cev64_040.scr	11	ユーリ	Yuri Lowell	personagem	CRLF x2	言うだけならタダなんだ、だったら\n夢だのなんだの、前向きな言葉は\n積極的に口にしたっていいんじゃねえか？	Words don't cost a thing, so why not\nspeak positive words like dreams\nout loud with confidence?		Words don't cost a thing, so why not\nspeak positive words like dreams\nout loud with confidence?
+cev64_040.scr:12	cev64_040.scr	12	すず	Suzu Fujibayashi	personagem		そういう考え方もあるんですね……	I see... There's that way of thinking.		I see... There's that way of thinking.
+cev64_040.scr:13	cev64_040.scr	13	すず	Suzu Fujibayashi	personagem	CRLF x1	言葉の力……。\n勉強になります	The power of words...\nI've learned a valuable lesson.		The power of words...\nI've learned a valuable lesson.
+cev64_040.scr:14	cev64_040.scr	14	ユーリ	Yuri Lowell	personagem		ま、あくまで一つの例だよ	Well, it's just one way to look at it.		Well, it's just one way to look at it.
+cev64_040.scr:15	cev64_040.scr	15	ユーリ	Yuri Lowell	personagem	CRLF x1	病は気からとも言うし\n何事も気の持ち様って事かもな	They say illness begins in the mind.\nIt all comes down to mindset.		They say illness begins in the mind.\nIt all comes down to mindset.
+cev64_050.scr:0	cev64_050.scr	0	ユーリ	Yuri Lowell	personagem		よっ！　王位継承者殿	Yo! Lord Heir to the Throne.		Yo! Lord Heir to the Throne.
+cev64_050.scr:1	cev64_050.scr	1	ルーク	Luke fon Fabre	personagem		お……、おう！	O-Oh!		O-Oh!
+cev64_050.scr:2	cev64_050.scr	2	ルーク	Luke fon Fabre	personagem	CRLF x1	お前、確か\nガルバンゾ国のユーリ……だよな？	You're... Yuri from the Kingdom\nof Garbanzo, right?		You're... Yuri from the Kingdom\nof Garbanzo, right?
+cev64_050.scr:3	cev64_050.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x1	ん？\n確かにそうだが、どうした？	Hm?\nThat's right, what about it?		Hm?\nThat's right, what about it?
+cev64_050.scr:4	cev64_050.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x1	こ、こいつが、ジェイドの言ってた\n大罪人のユーリ……	T-This guy is the great sinner Yuri\nJade was talking about...		T-This guy is the great sinner Yuri\nJade was talking about...
+cev64_050.scr:5	cev64_050.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x1	あんな事をしでかして\nよく平気な顔してやがるぜ……	Doing something like that, yet he's\nacting completely unbothered...		Doing something like that, yet he's\nacting completely unbothered...
+cev64_050.scr:6	cev64_050.scr	6	ユーリ	Yuri Lowell	personagem		何、ひとりでぶつぶつ言ってんだよ	What are you muttering about alone?		What are you muttering about alone?
+cev64_050.scr:7	cev64_050.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x2	な！　\n近寄るなよ、この罪人が！\nお前自分のしでかした事わかってんのか！	Wh-!\nStay back, you criminal!\nDo you even know what you've done?!		Wh-!\nStay back, you criminal!\nDo you even know what you've done?!
+cev64_050.scr:8	cev64_050.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x1	それがどうした？\nオレはオレの考えで行動したつもりだ	So what?\nI acted according to my own beliefs.		So what?\nI acted according to my own beliefs.
+cev64_050.scr:9	cev64_050.scr	9	ユーリ	Yuri Lowell	personagem		後悔はしてねぇよ	I don't regret it.		I don't regret it.
+cev64_050.scr:10	cev64_050.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x2	……は！\nジェイドの言ってた通り\n大層な罪人だぜ	...Ha!\nJust like Jade said,\na truly brazen criminal!		...Ha!\nJust like Jade said,\na truly brazen criminal!
+cev64_050.scr:11	cev64_050.scr	11	ユーリ	Yuri Lowell	personagem	CRLF x1	ジェイド？　\n罪人？	Jade?\nA criminal?		Jade?\nA criminal?
+cev64_050.scr:12	cev64_050.scr	12	ユーリ	Yuri Lowell	personagem	CRLF x1	なーるほどな。\nそういう事か	I see, I see.\nSo that's what this is about.		I see, I see.\nSo that's what this is about.
+cev64_050.scr:13	cev64_050.scr	13	ルーク	Luke fon Fabre	personagem		お、おい、聞いてんのかよ！	H-Hey, are you listening to me?!		H-Hey, are you listening to me?!
+cev64_050.scr:14	cev64_050.scr	14	ユーリ	Yuri Lowell	personagem	CRLF x2	あ？　何だよ、温室育ちのおぼっちゃま！\n罪を一度犯すも、二度犯すも\n大して変わりゃしないんだぜ……	Huh? What is it, sheltered young master?\nCommitting a crime once or twice\ndoesn't make much difference, you know...		Huh? What is it, sheltered young master?\nCommitting a crime once or twice\ndoesn't make much difference, you know...
+cev64_050.scr:15	cev64_050.scr	15	ユーリ	Yuri Lowell	personagem	CRLF x1	いっその事、この場で、\nお前も同じ様にしてやるか？	Should I just go ahead and do\nthe same to you right here?		Should I just go ahead and do\nthe same to you right here?
+cev64_050.scr:16	cev64_050.scr	16	ルーク	Luke fon Fabre	personagem	CRLF x1	だ！　\nて、てめぇ、近づくんじゃねぇ！	Wh-!\nD-Don't come any closer!		Wh-!\nD-Don't come any closer!
+cev64_050.scr:17	cev64_050.scr	17	ルーク	Luke fon Fabre	personagem	CRLF x2	俺に何かしてみろ、\n父上に言って、お前なんかすぐに\n牢屋にぶちこんでやるんだからな！	Just try doing something to me!\nI'll tell Father, and he'll throw\nyou into prison in no time!		Just try doing something to me!\nI'll tell Father, and he'll throw\nyou into prison in no time!
+cev64_050.scr:18	cev64_050.scr	18	ユーリ	Yuri Lowell	personagem	CRLF x1	……ったく、冗談も通じねぇなんて\n噂以上にお子様だな	...Geez, can't even take a joke.\nEven more of a kid than rumored.		...Geez, can't even take a joke.\nEven more of a kid than rumored.
+cev64_050.scr:19	cev64_050.scr	19	ユーリ	Yuri Lowell	personagem	CRLF x1	王女誘拐の大罪、ねえ……。\nどんだけ尾ひれが付いてんだか	The grave crime of kidnapping a princess,\nhuh... How exaggerated did it get?		The grave crime of kidnapping a princess,\nhuh... How exaggerated did it get?
+cev64_060.scr:0	cev64_060.scr	0	リッド	Reid Hershel	personagem	CRLF x1	ふぅー……。\nやっと終わったぜ……	Whew...\nFinally done with that...		Whew...\nFinally done with that...
+cev64_060.scr:1	cev64_060.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x1	ご苦労さん。\n今日のゴミ当番か？	Good work.\nOn trash duty today?		Good work.\nOn trash duty today?
+cev64_060.scr:2	cev64_060.scr	2	リッド	Reid Hershel	personagem	CRLF x2	ああ……。\nファラの奴、張り切ってゴミかき集めて\nくるから大変だったぜ……	Yeah...\nFarah was so gung-ho gathering trash,\nit made things a real pain...		Yeah...\nFarah was so gung-ho gathering trash,\nit made things a real pain...
+cev64_060.scr:3	cev64_060.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x1	ははっ。\nファラらしいな	Haha.\nSounds just like Farah.		Haha.\nSounds just like Farah.
+cev64_060.scr:4	cev64_060.scr	4	リッド	Reid Hershel	personagem	CRLF x2	笑い事じゃねえって。\nいつもそんで貧乏クジ引くのは\nオレなんだ	It's not a laughing matter.\nI'm always the one who draws\nthe short straw because of it!		It's not a laughing matter.\nI'm always the one who draws\nthe short straw because of it!
+cev64_060.scr:5	cev64_060.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x1	そうだな。\nま、若い時なんてのはそんなもんだ	True enough.\nWell, that's youth for you.		True enough.\nWell, that's youth for you.
+cev64_060.scr:6	cev64_060.scr	6	リッド	Reid Hershel	personagem	CRLF x2	ちぇ。\n何だよ、悟ったみたいな\n言い方しやがって	Che.\nWhat's with you acting like\nyou've reached enlightenment?		Che.\nWhat's with you acting like\nyou've reached enlightenment?
+cev64_060.scr:7	cev64_060.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x1	何事も引き際と\nあきらめが肝心、ってな	Knowing when to quit and give up\nis what's essential in life.		Knowing when to quit and give up\nis what's essential in life.
+cev64_060.scr:8	cev64_060.scr	8	リッド	Reid Hershel	personagem		何か、ユーリってずるいな	Yuri, you're somehow sneaky.		Yuri, you're somehow sneaky.
+cev64_060.scr:9	cev64_060.scr	9	ユーリ	Yuri Lowell	personagem	CRLF x2	そうか？\n厄介事に巻き込まれる数じゃ、\n負けてないと思うぜ	Think so?\nWhen it comes to getting dragged into\ntrouble, I don't think I lose to anyone.		Think so?\nWhen it comes to getting dragged into\ntrouble, I don't think I lose to anyone.
+cev64_060.scr:10	cev64_060.scr	10	リッド	Reid Hershel	personagem	CRLF x1	その割には、余裕があるっていうか……。\nとにかく、何かずるいぞ	Even so, you act so relaxed...\nAnyway, you're just being sneaky!		Even so, you act so relaxed...\nAnyway, you're just being sneaky!
+cev64_060.scr:11	cev64_060.scr	11	ユーリ	Yuri Lowell	personagem	CRLF x1	へいへい。\nんじゃ、そういう事にしとこうかね	Yeah, yeah.\nLet's just leave it at that, then.		Yeah, yeah.\nLet's just leave it at that, then.
+cev64_070.scr:0	cev64_070.scr	0	リオン	Leon Magnus	personagem	CRLF x1	おい、ユーリ。\nその……	Hey, Yuri.\nUm...		Hey, Yuri.\nUm...
+cev64_070.scr:1	cev64_070.scr	1	リオン	Leon Magnus	personagem		……いつもの奴を頼む	...Give me the usual.		...Give me the usual.
+cev64_070.scr:2	cev64_070.scr	2	ユーリ	Yuri Lowell	personagem	CRLF x1	ふ……。\n好きだねえ	Heh...\nYou really love that stuff.		Heh...\nYou really love that stuff.
+cev64_070.scr:3	cev64_070.scr	3	ユーリ	Yuri Lowell	personagem		よっぽど、気に入ったんだな	You must be awfully fond of it.		You must be awfully fond of it.
+cev64_070.scr:4	cev64_070.scr	4	リオン	Leon Magnus	personagem	CRLF x1	うるさい。\nいいから黙って手を動かせ	Shut up.\nJust keep quiet and get to work.		Shut up.\nJust keep quiet and get to work.
+cev64_070.scr:5	cev64_070.scr	5	ユーリ	Yuri Lowell	personagem		へいへい	Yeah, yeah.		Yeah, yeah.
+cev64_070.scr:6	cev64_070.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x1	わかっちゃいると思うが\n高く付くぜ？	I'm sure you know this,\nbut it won't come cheap.		I'm sure you know this,\nbut it won't come cheap.
+cev64_070.scr:7	cev64_070.scr	7	リオン	Leon Magnus	personagem		わかっている	I know.		I know.
+cev64_070.scr:8	cev64_070.scr	8	リオン	Leon Magnus	personagem	CRLF x2	……例のアレだが、\nお前の分も面倒を見てやる。\nそれでいいだろう	...As for that thing,\nI'll take care of your share too.\nThat should suffice.		...As for that thing,\nI'll take care of your share too.\nThat should suffice.
+cev64_070.scr:9	cev64_070.scr	9	ユーリ	Yuri Lowell	personagem		んじゃ、取引成立、だな	Then we've got a deal.		Then we've got a deal.
+cev64_070.scr:10	cev64_070.scr	10	リオン	Leon Magnus	personagem		ふん……	Hmph...		Hmph...
+cev64_070.scr:11	cev64_070.scr	11	リオン	Leon Magnus	personagem	CRLF x1	ちょっと待て。\nその生クリームはもう少し多めに頼む	Hold on.\nAdd a bit more whipped cream to that.		Hold on.\nAdd a bit more whipped cream to that.
+cev64_070.scr:12	cev64_070.scr	12	ユーリ	Yuri Lowell	personagem	CRLF x1	あ？　\nこれ以上乗せるとバランス悪いぜ	Huh?\nPut any more and it throws off balance.		Huh?\nPut any more and it throws off balance.
+cev64_070.scr:13	cev64_070.scr	13	リオン	Leon Magnus	personagem		いいから、言う通りにしろ！	Just do as you're told!		Just do as you're told!
+cev64_070.scr:14	cev64_070.scr	14	リオン	Leon Magnus	personagem	CRLF x2	……お前は腹の立つ奴だが\n菓子作りの腕前だけは\n本国の一流パティシエにも引けを取らん	...You're an irritating fellow,\nbut your sweet-making skills rival even\nthe top pastry chefs back home.		...You're an irritating fellow,\nbut your sweet-making skills rival even\nthe top pastry chefs back home.
+cev64_070.scr:15	cev64_070.scr	15	リオン	Leon Magnus	personagem	CRLF x2	特に、その生クリーム……。\n甘さも舌触りも絶妙だ。\n何より、口溶けの品がいい	Especially that whipped cream...\nThe sweetness and texture are exquisite.\nAbove all, it melts with elegance.		Especially that whipped cream...\nThe sweetness and texture are exquisite.\nAbove all, it melts with elegance.
+cev64_070.scr:16	cev64_070.scr	16	ユーリ	Yuri Lowell	personagem		そりゃ、光栄だね	Well, I'm honored.		Well, I'm honored.
+cev64_070.scr:17	cev64_070.scr	17	ユーリ	Yuri Lowell	personagem	CRLF x1	……ほら。\n特製プリン、おまっとさん	...Here.\nSpecial pudding, thanks for waiting.		...Here.\nSpecial pudding, thanks for waiting.
+cev64_070.scr:18	cev64_070.scr	18	リオン	Leon Magnus	personagem	CRLF x1	いつもの事ながら、\n鮮やかな手並みだな……	As always,\nyour technique is quite impressive...		As always,\nyour technique is quite impressive...
+cev64_070.scr:19	cev64_070.scr	19	ユーリ	Yuri Lowell	personagem		そりゃどーも	Thanks much.		Thanks much.
+cev64_070.scr:20	cev64_070.scr	20	ユーリ	Yuri Lowell	personagem		契約、忘れんなよ？	Don't forget our agreement, okay?		Don't forget our agreement, okay?
+cev64_070.scr:21	cev64_070.scr	21	リオン	Leon Magnus	personagem		わかっている	I know.		I know.
+cev64_070.scr:22	cev64_070.scr	22	リオン	Leon Magnus	personagem	CRLF x2	本国一流パティシエの\n新作スイーツ試食会招待券……。\nお前の分も手配してやる	An invite to the new sweets tasting\nby top chefs from the capital...\nI will secure your ticket too.		An invite to the new sweets tasting\nby top chefs from the capital...\nI will secure your ticket too.
+cev64_070.scr:23	cev64_070.scr	23	ユーリ	Yuri Lowell	personagem		期待してるぜ	I'll be counting on it.		I'll be counting on it.
+cev64_080.scr:0	cev64_080.scr	0	ノーマ	Norma Beatty	personagem	CRLF x2	あんた達さ〜、\nそんなに甘い物ばっかり食べてると\n虫歯になっちゃうわよ〜〜〜？？	You guys~!\nEat nothing but sweets like that and\nyou're gonna get cavitieeees, ya know?!		You guys~!\nEat nothing but sweets like that and\nyou're gonna get cavitieeees, ya know?!
+cev64_080.scr:1	cev64_080.scr	1	ユーリ	Yuri Lowell	personagem		食べてるだけなら、な	If we only ate them, sure.		If we only ate them, sure.
+cev64_080.scr:2	cev64_080.scr	2	ユーリ	Yuri Lowell	personagem	CRLF x1	ちゃんと食後に歯は磨いてっから、\n問題ねえだろ	We brush our teeth after eating,\nso there's no problem.		We brush our teeth after eating,\nso there's no problem.
+cev64_080.scr:3	cev64_080.scr	3	リオン	Leon Magnus	personagem		常識的に考えて、わからないのか？	Can't you figure that out using logic?		Can't you figure that out using logic?
+cev64_080.scr:4	cev64_080.scr	4	ノーマ	Norma Beatty	personagem	CRLF x2	ちょっと！　\n何その反応！\n何かあたしが、物知らずみたいじゃん！	Hey!\nWhat's with that reaction?!\nYou're making me look ignorant!		Hey!\nWhat's with that reaction?!\nYou're making me look ignorant!
+cev64_080.scr:5	cev64_080.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x1	あ？　\n間違ってないだろ？	Huh?\nAre we wrong?		Huh?\nAre we wrong?
+cev64_080.scr:6	cev64_080.scr	6	ノーマ	Norma Beatty	personagem	CRLF x2	むきーーー！\nだったら、あんた達\nちゃんと毎回磨けてんの！？	Gaaah!\nThen do you two actually brush\nevery single time?!		Gaaah!\nThen do you two actually brush\nevery single time?!
+cev64_080.scr:7	cev64_080.scr	7	リオン	Leon Magnus	personagem	CRLF x2	愚問だな。\nたかが歯磨きとはいえ、これも\n健康管理の一環だ	What a foolish question.\nThough it's merely brushing teeth,\nit is part of health management.		What a foolish question.\nThough it's merely brushing teeth,\nit is part of health management.
+cev64_080.scr:8	cev64_080.scr	8	リオン	Leon Magnus	personagem		僕が怠るはずがないだろう	There is no way I would neglect it.		There is no way I would neglect it.
+cev64_080.scr:9	cev64_080.scr	9	ユーリ	Yuri Lowell	personagem	CRLF x1	俺の傍には口うるさいお姫様がいるからな。\n生活習慣にも、色々言ってくるぜ	I have a nagging princess around me.\nShe nags about my lifestyle habits too.		I have a nagging princess around me.\nShe nags about my lifestyle habits too.
+cev64_080.scr:10	cev64_080.scr	10	ノーマ	Norma Beatty	personagem	CRLF x2	何なのよ、いったい！\nもーーー！！！\nあんた達、隙なさ過ぎ！！！	What is with you two?!\nSheesh!!!\nYou've got no openings at all!!!		What is with you two?!\nSheesh!!!\nYou've got no openings at all!!!
+cev64_080.scr:11	cev64_080.scr	11	ユーリ	Yuri Lowell	personagem	CRLF x1	何だよ、怒ってばっかだな。\nカルシウム不足か？	Always getting angry.\nLacking calcium or something?		Always getting angry.\nLacking calcium or something?
+cev64_080.scr:12	cev64_080.scr	12	リオン	Leon Magnus	personagem		虫歯になっても知らんぞ	Don't blame us if you get cavities.		Don't blame us if you get cavities.
+cev64_080.scr:13	cev64_080.scr	13	ノーマ	Norma Beatty	personagem	CRLF x1	う、うぅ……。\n虫歯は、嫌ぁ…………	U-Ugh...\nI don't want cavitieeees......		U-Ugh...\nI don't want cavitieeees......
+cev64_090.scr:0	cev64_090.scr	0	レイヴン	Raven	personagem	CRLF x2	バリバリ！　\nあら？　バリ……、\n何食べてるのよ？　バリバリ……	*Crunch crunch!*\nOh? *Crunch...*\nWhat're you eating? *Crunch crunch...*		*Crunch crunch!*\nOh? *Crunch...*\nWhat're you eating? *Crunch crunch...*
+cev64_090.scr:1	cev64_090.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x1	おっさんこそ、何食ってんだよ。\nすげぇ音立てながら	What are you eating yourself, old man?\nMaking all that racket.		What are you eating yourself, old man?\nMaking all that racket.
+cev64_090.scr:2	cev64_090.scr	2	レイヴン	Raven	personagem	CRLF x2	ん？　\nバリ……、せんべいよ。\n醤油仕立て〜、バリバリ……	Hm?\n*Crunch...* Rice crackers.\nSoy sauce flavor~ *crunch crunch...*		Hm?\n*Crunch...* Rice crackers.\nSoy sauce flavor~ *crunch crunch...*
+cev64_090.scr:3	cev64_090.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x1	ふ〜ん、せんべいねぇ。\nまた渋いの食ってんのな	Hmm, rice crackers, huh?\nEating something old-school again.		Hmm, rice crackers, huh?\nEating something old-school again.
+cev64_090.scr:4	cev64_090.scr	4	レイヴン	Raven	personagem	CRLF x2	ぷはー。\nまーったく、青年こそグミなんて、\nかわいくモグモグしちゃって〜	Phew!\nGood grief, lad, munching on gummies\nall cute like that~		Phew!\nGood grief, lad, munching on gummies\nall cute like that~
+cev64_090.scr:5	cev64_090.scr	5	レイヴン	Raven	personagem	CRLF x1	そのギャップで、女子のハート鷲掴みって？\nもう、やり手なんだから〜	Grabbing girls' hearts with the gap?\nMy my, you sly devil~		Grabbing girls' hearts with the gap?\nMy my, you sly devil~
+cev64_090.scr:6	cev64_090.scr	6	ユーリ	Yuri Lowell	personagem		食いたいもん食って何が悪いんだよ	What's wrong with eating what I want?		What's wrong with eating what I want?
+cev64_090.scr:7	cev64_090.scr	7	レイヴン	Raven	personagem	CRLF x1	気にしないのよ、そんな細かい事。\nおっさんも一つお呼ばれしようかしら？	Don't sweat the small stuff.\nMaybe this old man can have one too?		Don't sweat the small stuff.\nMaybe this old man can have one too?
+cev64_090.scr:8	cev64_090.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x1	ん？　\nおっさん甘い物嫌いだろ？	Hm?\nYou hate sweets, don't you, old man?		Hm?\nYou hate sweets, don't you, old man?
+cev64_090.scr:9	cev64_090.scr	9	ユーリ	Yuri Lowell	personagem		……そういや、グミは平気で食うよな？	...Come to think of it, you eat gummies.		...Come to think of it, you eat gummies.
+cev64_090.scr:10	cev64_090.scr	10	レイヴン	Raven	personagem	CRLF x1	あ〜ら、よく知ってるわね〜。\nおっさん感激だわ〜	Oh my, you know me so well~\nThis old man is deeply moved~		Oh my, you know me so well~\nThis old man is deeply moved~
+cev64_090.scr:11	cev64_090.scr	11	ユーリ	Yuri Lowell	personagem		言ってろ……	Keep talking...		Keep talking...
+cev64_090.scr:12	cev64_090.scr	12	レイヴン	Raven	personagem		じゃ、遠慮なくいただきま〜す∀	Well, don't mind if I do! :)		Well, don't mind if I do! :)
+cev64_090.scr:13	cev64_090.scr	13	レイヴン	Raven	personagem		かぷっ∀	*Chomp!* :)		*Chomp!* :)
+cev64_090.scr:14	cev64_090.scr	14	ユーリ	Yuri Lowell	personagem		な！	Hey!		Hey!
+cev64_090.scr:15	cev64_090.scr	15	レイヴン	Raven	personagem		ん〜、ちょっと塩味が聞いてて、美味∀	Mmm, nice hint of saltiness, tasty! :)		Mmm, nice hint of saltiness, tasty! :)
+cev64_100.scr:0	cev64_100.scr	0	レイヴン	Raven	personagem	CRLF x1	グミって、戦闘以外で食べても、\n美味しいものね∀	Gummies are delicious even outside\nof battle, aren't they! :)		Gummies are delicious even outside\nof battle, aren't they! :)
+cev64_100.scr:1	cev64_100.scr	1	ユーリ	Yuri Lowell	personagem		へいへい、そりゃ良かったな	Yeah, yeah, good for you.		Yeah, yeah, good for you.
+cev64_100.scr:2	cev64_100.scr	2	レイヴン	Raven	personagem	CRLF x2	バリバリ……。\nそんな冷たい言い方、バリ……、\nしなくても、バリバリ……	*Crunch...* No need to be\nso cold, *crunch...*\nabout it, *crunch crunch...*		*Crunch...* No need to be\nso cold, *crunch...*\nabout it, *crunch crunch...*
+cev64_100.scr:3	cev64_100.scr	3	ユーリ	Yuri Lowell	personagem		せんべい食いながら言われてもな……	Hard to care while you munch crackers...		Hard to care while you munch crackers...
+cev64_100.scr:4	cev64_100.scr	4	レイヴン	Raven	personagem	CRLF x1	せっかくだから、バリバリ……、\nもう１個ちょうだいよ∀	While we're at it, *crunch...*\ngive me one more! :)		While we're at it, *crunch...*\ngive me one more! :)
+cev64_100.scr:5	cev64_100.scr	5	ユーリ	Yuri Lowell	personagem		ほらよ！	Here!		Here!
+cev64_100.scr:6	cev64_100.scr	6	レイヴン	Raven	personagem		もぐもぐ……	*Munch munch...*		*Munch munch...*
+cev64_100.scr:7	cev64_100.scr	7	レイヴン	Raven	personagem		こ、これは……！	Th-This is...!		Th-This is...!
+cev64_100.scr:8	cev64_100.scr	8	レイヴン	Raven	personagem	CRLF x2	せんべいのしょっぱさに、グミの香り……。\nこの二つの出会いが、\n新たなハーモニーを奏でる……	Cracker saltiness and gummy aroma...\nThe union of these two creates\na brand new harmony...!		Cracker saltiness and gummy aroma...\nThe union of these two creates\na brand new harmony...!
+cev64_100.scr:9	cev64_100.scr	9	レイヴン	Raven	personagem	CRLF x1	うむ！　\n美味い！！！	Yes!\nDelicious!!!		Yes!\nDelicious!!!
+cev64_100.scr:10	cev64_100.scr	10	ユーリ	Yuri Lowell	personagem		そりゃ、良かったな	Well, good for you.		Well, good for you.
+cev64_100.scr:11	cev64_100.scr	11	レイヴン	Raven	personagem	CRLF x1	青年が触ったからねぇ〜∀\nこれでおっさんも、モッテモテ〜∀	Because you touched it, lad! :)\nNow this old man will be popular! :)		Because you touched it, lad! :)\nNow this old man will be popular! :)
+cev64_100.scr:12	cev64_100.scr	12	ユーリ	Yuri Lowell	personagem		一人でやってろ……	Go do that on your own...		Go do that on your own...
+cev64_200.scr:0	cev64_200.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev64_200.scr:1	cev64_200.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:2	cev64_200.scr	2	ユーリ	Yuri Lowell	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev64_200.scr:3	cev64_200.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:4	cev64_200.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev64_200.scr:5	cev64_200.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:6	cev64_200.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev64_200.scr:7	cev64_200.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:8	cev64_200.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x1	照れ。\n	Blushing.\n		Blushing.\n
+cev64_200.scr:9	cev64_200.scr	9	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:10	cev64_200.scr	10	ユーリ	Yuri Lowell	personagem	CRLF x1	ニヤリ。\n	Grin.\n		Grin.\n
+cev64_200.scr:11	cev64_200.scr	11	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:12	cev64_200.scr	12	ユーリ	Yuri Lowell	personagem	CRLF x1	興味なし。\n	No interest.\n		No interest.\n
+cev64_200.scr:13	cev64_200.scr	13	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:14	cev64_200.scr	14	ユーリ	Yuri Lowell	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev64_200.scr:15	cev64_200.scr	15	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:16	cev64_200.scr	16	ユーリ	Yuri Lowell	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev64_200.scr:17	cev64_200.scr	17	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:18	cev64_200.scr	18	ユーリ	Yuri Lowell	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev64_200.scr:19	cev64_200.scr	19	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:20	cev64_200.scr	20	ユーリ	Yuri Lowell	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev64_200.scr:21	cev64_200.scr	21	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:22	cev64_200.scr	22	ユーリ	Yuri Lowell	personagem	CRLF x1	照れ。\n	Blushing.\n		Blushing.\n
+cev64_200.scr:23	cev64_200.scr	23	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:24	cev64_200.scr	24	ユーリ	Yuri Lowell	personagem	CRLF x1	ニヤリ。\n	Grin.\n		Grin.\n
+cev64_200.scr:25	cev64_200.scr	25	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:26	cev64_200.scr	26	ユーリ	Yuri Lowell	personagem	CRLF x1	興味なし。\n	No interest.\n		No interest.\n
+cev64_200.scr:27	cev64_200.scr	27	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:28	cev64_200.scr	28	ユーリ	Yuri Lowell	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev64_200.scr:29	cev64_200.scr	29	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:30	cev64_200.scr	30	ユーリ	Yuri Lowell	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev64_200.scr:31	cev64_200.scr	31	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:32	cev64_200.scr	32	ユーリ	Yuri Lowell	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev64_200.scr:33	cev64_200.scr	33	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:34	cev64_200.scr	34	ユーリ	Yuri Lowell	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev64_200.scr:35	cev64_200.scr	35	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:36	cev64_200.scr	36	ユーリ	Yuri Lowell	personagem	CRLF x1	照れ。\n	Blushing.\n		Blushing.\n
+cev64_200.scr:37	cev64_200.scr	37	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:38	cev64_200.scr	38	ユーリ	Yuri Lowell	personagem	CRLF x1	ニヤリ。\n	Grin.\n		Grin.\n
+cev64_200.scr:39	cev64_200.scr	39	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev64_200.scr:40	cev64_200.scr	40	ユーリ	Yuri Lowell	personagem	CRLF x1	興味なし。\n	No interest.\n		No interest.\n
+cev64_200.scr:41	cev64_200.scr	41	ユーリ	Yuri Lowell	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.

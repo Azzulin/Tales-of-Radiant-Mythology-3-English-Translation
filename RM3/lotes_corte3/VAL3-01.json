@@ -1,0 +1,2095 @@
+{
+ "lote": "VAL3-01",
+ "bloco": "valuables",
+ "meta_bytes_a_cortar": 2805,
+ "n_itens": 298,
+ "pool_atual_bytes": 44884,
+ "itens": [
+  {
+   "id": "valuables#227",
+   "bloco": "valuables",
+   "en": "A key used to make contact with other worlds. It seems to have lost its magic power for now.",
+   "bytes": 92,
+   "alvo_bytes": 79
+  },
+  {
+   "id": "valuables#87",
+   "bloco": "valuables",
+   "en": "A letter persistently torn to shreds. The writing is illegible, but the grudge is palpable.",
+   "bytes": 91,
+   "alvo_bytes": 78
+  },
+  {
+   "id": "valuables#110",
+   "bloco": "valuables",
+   "en": "Paper that breeds money. In a sense, it could be called the most terrifying monster of all.",
+   "bytes": 91,
+   "alvo_bytes": 78
+  },
+  {
+   "id": "valuables#147",
+   "bloco": "valuables",
+   "en": "Protects the wearer from splattering water and spitting oil with divine power. Detachable.",
+   "bytes": 90,
+   "alvo_bytes": 77
+  },
+  {
+   "id": "valuables#189",
+   "bloco": "valuables",
+   "en": "A hot spring egg risking life and limb to make inside an active volcano. Reasonably tasty.",
+   "bytes": 90,
+   "alvo_bytes": 77
+  },
+  {
+   "id": "valuables#201",
+   "bloco": "valuables",
+   "en": "The mirror's surface bears the pattern of an eye, scratched into it by its previous owner.",
+   "bytes": 90,
+   "alvo_bytes": 77
+  },
+  {
+   "id": "valuables#224",
+   "bloco": "valuables",
+   "en": "A key that unlocks the door to the sealed land. Chipped in places and currently unusable.",
+   "bytes": 89,
+   "alvo_bytes": 76
+  },
+  {
+   "id": "valuables#165",
+   "bloco": "valuables",
+   "en": "The afterword calls this the definitive edition, but a sequel already ships this summer.",
+   "bytes": 88,
+   "alvo_bytes": 75
+  },
+  {
+   "id": "valuables#263",
+   "bloco": "valuables",
+   "en": "A jewel that, for some reason, had been left in a room on the Van Eltia for a long time.",
+   "bytes": 88,
+   "alvo_bytes": 75
+  },
+  {
+   "id": "valuables#186",
+   "bloco": "valuables",
+   "en": "A supreme, scrumptious dish. So delicious that a single bite will bring you to tears.",
+   "bytes": 85,
+   "alvo_bytes": 73
+  },
+  {
+   "id": "valuables#136",
+   "bloco": "valuables",
+   "en": "Blowing it creates a shockwave that shatters every window within a 100-meter radius.",
+   "bytes": 84,
+   "alvo_bytes": 72
+  },
+  {
+   "id": "valuables#107",
+   "bloco": "valuables",
+   "en": "The writing spaces are stark white; looking at it fills one with a sense of ennui.",
+   "bytes": 82,
+   "alvo_bytes": 70
+  },
+  {
+   "id": "valuables#113",
+   "bloco": "valuables",
+   "en": "Used to illuminate dark places. Being oil is no excuse to use it for weird things.",
+   "bytes": 82,
+   "alvo_bytes": 70
+  },
+  {
+   "id": "valuables#124",
+   "bloco": "valuables",
+   "en": "Slime extracted from a Polwiggle. Used in medicine, cosmetics, and industry alike.",
+   "bytes": 82,
+   "alvo_bytes": 70
+  },
+  {
+   "id": "valuables#72",
+   "bloco": "valuables",
+   "en": "The recipe for \"Commonly Known as Delicious-Delicious\" that Coda is yearning for.",
+   "bytes": 81,
+   "alvo_bytes": 69
+  },
+  {
+   "id": "valuables#98",
+   "bloco": "valuables",
+   "en": "A favorite item of an unfortunate girl. She is still alive, so there is no curse.",
+   "bytes": 81,
+   "alvo_bytes": 69
+  },
+  {
+   "id": "valuables#133",
+   "bloco": "valuables",
+   "en": "As one grows up, the contents become plentiful, and gradually it becomes a chore.",
+   "bytes": 81,
+   "alvo_bytes": 69
+  },
+  {
+   "id": "valuables#198",
+   "bloco": "valuables",
+   "en": "The kind of ordinary thing you realize was happiness only after you have lost it.",
+   "bytes": 81,
+   "alvo_bytes": 69
+  },
+  {
+   "id": "valuables#92",
+   "bloco": "valuables",
+   "en": "Rope meant for luggage, but also well regarded by those who enjoy being tied up.",
+   "bytes": 80,
+   "alvo_bytes": 68
+  },
+  {
+   "id": "valuables#127",
+   "bloco": "valuables",
+   "en": "Doctors use it to hear heartbeats. By rule, if pointed at you, you must undress.",
+   "bytes": 80,
+   "alvo_bytes": 68
+  },
+  {
+   "id": "valuables#139",
+   "bloco": "valuables",
+   "en": "Comes with a pointlessly grandiose note saying, \"The board is the entire world!\"",
+   "bytes": 80,
+   "alvo_bytes": 68
+  },
+  {
+   "id": "valuables#159",
+   "bloco": "valuables",
+   "en": "Belonged to a woman who met an unfortunate mishap. She's since bought a new one.",
+   "bytes": 80,
+   "alvo_bytes": 68
+  },
+  {
+   "id": "valuables#118",
+   "bloco": "valuables",
+   "en": "Many women drink this as a sleep aid to end the day feeling true to themselves.",
+   "bytes": 79,
+   "alvo_bytes": 67
+  },
+  {
+   "id": "valuables#180",
+   "bloco": "valuables",
+   "en": "In exchange for summer vacation memories, it can be wielded as a lethal weapon.",
+   "bytes": 79,
+   "alvo_bytes": 67
+  },
+  {
+   "id": "valuables#204",
+   "bloco": "valuables",
+   "en": "A charred doll discovered in a dense forest. Its eyeballs have been gouged out.",
+   "bytes": 79,
+   "alvo_bytes": 67
+  },
+  {
+   "id": "valuables#101",
+   "bloco": "valuables",
+   "en": "A party gag item, but getting a laugh with it is considered a formidable feat.",
+   "bytes": 78,
+   "alvo_bytes": 66
+  },
+  {
+   "id": "valuables#174",
+   "bloco": "valuables",
+   "en": "Extremely fragile; putting your weight on it will shatter it into tiny pieces.",
+   "bytes": 78,
+   "alvo_bytes": 66
+  },
+  {
+   "id": "valuables#195",
+   "bloco": "valuables",
+   "en": "A horrifying item you can never escape. Beware, as it strikes without warning.",
+   "bytes": 78,
+   "alvo_bytes": 66
+  },
+  {
+   "id": "valuables#207",
+   "bloco": "valuables",
+   "en": "A portrait of a child. The face is blacked out, but only the eyes can be seen.",
+   "bytes": 78,
+   "alvo_bytes": 66
+  },
+  {
+   "id": "valuables#144",
+   "bloco": "valuables",
+   "en": "A tool used to crush ice. If found near a bed, proceed with extreme caution.",
+   "bytes": 76,
+   "alvo_bytes": 65
+  },
+  {
+   "id": "valuables#210",
+   "bloco": "valuables",
+   "en": "Decorated with countless eyes, though the mirror surfaces are painted black.",
+   "bytes": 76,
+   "alvo_bytes": 65
+  },
+  {
+   "id": "valuables#130",
+   "bloco": "valuables",
+   "en": "Purpose unknown. Rumor says you'll die peering through it like a telescope.",
+   "bytes": 75,
+   "alvo_bytes": 64
+  },
+  {
+   "id": "valuables#142",
+   "bloco": "valuables",
+   "en": "A nice pocket watch, but the hands move at startling speed. It is harmless.",
+   "bytes": 75,
+   "alvo_bytes": 64
+  },
+  {
+   "id": "valuables#75",
+   "bloco": "valuables",
+   "en": "The recipe for \"Mountain and Sea Delicacy Soup\" that Coda is yearning for.",
+   "bytes": 74,
+   "alvo_bytes": 63
+  },
+  {
+   "id": "valuables#116",
+   "bloco": "valuables",
+   "en": "A lavish item made with mellow grapes. Grape lovers will ascend to heaven.",
+   "bytes": 74,
+   "alvo_bytes": 63
+  },
+  {
+   "id": "valuables#162",
+   "bloco": "valuables",
+   "en": "An invention devised by humankind to proceed through shopping efficiently.",
+   "bytes": 74,
+   "alvo_bytes": 63
+  },
+  {
+   "id": "valuables#104",
+   "bloco": "valuables",
+   "en": "Seals a demon that once drove heaven, earth, and the demon realm to ruin.",
+   "bytes": 73,
+   "alvo_bytes": 62
+  },
+  {
+   "id": "valuables#121",
+   "bloco": "valuables",
+   "en": "A part from an antique clock destroyed by a grandfather in a fit of rage.",
+   "bytes": 73,
+   "alvo_bytes": 62
+  },
+  {
+   "id": "valuables#213",
+   "bloco": "valuables",
+   "en": "A spherical compass shaped like an eyeball. The needle spins ceaselessly.",
+   "bytes": 73,
+   "alvo_bytes": 62
+  },
+  {
+   "id": "valuables#95",
+   "bloco": "valuables",
+   "en": "Reverts skin age to just before infancy. Risks vanishing you completely.",
+   "bytes": 72,
+   "alvo_bytes": 61
+  },
+  {
+   "id": "valuables#156",
+   "bloco": "valuables",
+   "en": "A picture of an adorable kitten. Contains clues on how to eliminate war.",
+   "bytes": 72,
+   "alvo_bytes": 61
+  },
+  {
+   "id": "valuables#168",
+   "bloco": "valuables",
+   "en": "A banner bearing a tiger pattern. Exudes the nobility of the Beast King.",
+   "bytes": 72,
+   "alvo_bytes": 61
+  },
+  {
+   "id": "valuables#275",
+   "bloco": "valuables",
+   "en": "A green jewel obtained from a green chest in the Holy Land of Langriths.",
+   "bytes": 72,
+   "alvo_bytes": 61
+  },
+  {
+   "id": "valuables#1281",
+   "bloco": "valuables",
+   "en": "Arcane arte: launches from thrusts, chasing with Tempest and Demon Fang.",
+   "bytes": 72,
+   "alvo_bytes": 61
+  },
+  {
+   "id": "valuables#150",
+   "bloco": "valuables",
+   "en": "Lets you see at night as if it were broad daylight. Not for weird uses.",
+   "bytes": 71,
+   "alvo_bytes": 60
+  },
+  {
+   "id": "valuables#885",
+   "bloco": "valuables",
+   "en": "Arcane arte: leaves presents at enemy feet after Explosive Thrust Raid.",
+   "bytes": 71,
+   "alvo_bytes": 60
+  },
+  {
+   "id": "valuables#1493",
+   "bloco": "valuables",
+   "en": "Secret arte: flings a talisman briefly lowering enemy attack by chance.",
+   "bytes": 71,
+   "alvo_bytes": 60
+  },
+  {
+   "id": "valuables#1886",
+   "bloco": "valuables",
+   "en": "Arcane arte: slices upward-slashed enemies in air and impales downward.",
+   "bytes": 71,
+   "alvo_bytes": 60
+  },
+  {
+   "id": "valuables#222",
+   "bloco": "valuables",
+   "en": "A tablet inscribed with numbers, encrypting the world's entire \"past.\"",
+   "bytes": 70,
+   "alvo_bytes": 60
+  },
+  {
+   "id": "valuables#571",
+   "bloco": "valuables",
+   "en": "Arte: slightly restores TP of nearby allies and cures status ailments.",
+   "bytes": 70,
+   "alvo_bytes": 60
+  },
+  {
+   "id": "valuables#1194",
+   "bloco": "valuables",
+   "en": "Space-time sword secret arte: distorts space to cleave enemies in two.",
+   "bytes": 70,
+   "alvo_bytes": 60
+  },
+  {
+   "id": "valuables#81",
+   "bloco": "valuables",
+   "en": "The recipe for \"Manchu-Han Imperial Feast\" that Coda is yearning for.",
+   "bytes": 69,
+   "alvo_bytes": 59
+  },
+  {
+   "id": "valuables#763",
+   "bloco": "valuables",
+   "en": "Arcane arte: impales foes at high speed, drawing into aerial slashes.",
+   "bytes": 69,
+   "alvo_bytes": 59
+  },
+  {
+   "id": "valuables#817",
+   "bloco": "valuables",
+   "en": "Arcane arte: fires one straight arrow and four homing arrows at once.",
+   "bytes": 69,
+   "alvo_bytes": 59
+  },
+  {
+   "id": "valuables#824",
+   "bloco": "valuables",
+   "en": "Secret arte: draws foes with combo strikes coiling like water snakes.",
+   "bytes": 69,
+   "alvo_bytes": 59
+  },
+  {
+   "id": "valuables#971",
+   "bloco": "valuables",
+   "en": "Deploys a barrier blowing enemies away while slightly healing allies.",
+   "bytes": 69,
+   "alvo_bytes": 59
+  },
+  {
+   "id": "valuables#1455",
+   "bloco": "valuables",
+   "en": "Arcane arte: launches with a shield bash, chasing with sharp thrusts.",
+   "bytes": 69,
+   "alvo_bytes": 59
+  },
+  {
+   "id": "valuables#1573",
+   "bloco": "valuables",
+   "en": "Fires arrows above enemies that burst to target those directly below.",
+   "bytes": 69,
+   "alvo_bytes": 59
+  },
+  {
+   "id": "valuables#1651",
+   "bloco": "valuables",
+   "en": "Arcane arte: captures foes with weapons, detonating with magic power.",
+   "bytes": 69,
+   "alvo_bytes": 59
+  },
+  {
+   "id": "valuables#1802",
+   "bloco": "valuables",
+   "en": "Unleashes three attacks (slash, strike, slash) like an enraged beast.",
+   "bytes": 69,
+   "alvo_bytes": 59
+  },
+  {
+   "id": "valuables#84",
+   "bloco": "valuables",
+   "en": "Passionately builds a romantic mood between men and women... or not.",
+   "bytes": 68,
+   "alvo_bytes": 58
+  },
+  {
+   "id": "valuables#731",
+   "bloco": "valuables",
+   "en": "Secret arte: halts foes with a heavy thrust, launching them skyward.",
+   "bytes": 68,
+   "alvo_bytes": 58
+  },
+  {
+   "id": "valuables#1293",
+   "bloco": "valuables",
+   "en": "Arcane arte: punches with flaming fist and boils up lava all around.",
+   "bytes": 68,
+   "alvo_bytes": 58
+  },
+  {
+   "id": "valuables#1650",
+   "bloco": "valuables",
+   "en": "Arcane arte: countless pages fly from an open book to slice enemies.",
+   "bytes": 68,
+   "alvo_bytes": 58
+  },
+  {
+   "id": "valuables#1785",
+   "bloco": "valuables",
+   "en": "Arcane arte: strikes with an axe, thrusts with a sword, and cleaves.",
+   "bytes": 68,
+   "alvo_bytes": 58
+  },
+  {
+   "id": "valuables#266",
+   "bloco": "valuables",
+   "en": "A white jewel obtained from a green chest in the Rhubarb Mountains.",
+   "bytes": 67,
+   "alvo_bytes": 57
+  },
+  {
+   "id": "valuables#567",
+   "bloco": "valuables",
+   "en": "Arte: raises an ally's magic defense and cures debuffs temporarily.",
+   "bytes": 67,
+   "alvo_bytes": 57
+  },
+  {
+   "id": "valuables#630",
+   "bloco": "valuables",
+   "en": "Secret arte: slashes up while creating a tornado with a spin slash.",
+   "bytes": 67,
+   "alvo_bytes": 57
+  },
+  {
+   "id": "valuables#883",
+   "bloco": "valuables",
+   "en": "Arcane arte: delivers advancing slashes, following with shockwaves.",
+   "bytes": 67,
+   "alvo_bytes": 57
+  },
+  {
+   "id": "valuables#1677",
+   "bloco": "valuables",
+   "en": "Secret arte: punches vitals with weapon pommels to knock foes down.",
+   "bytes": 67,
+   "alvo_bytes": 57
+  },
+  {
+   "id": "valuables#1715",
+   "bloco": "valuables",
+   "en": "Secret arte: repeatedly slashes airborne foes after upward slashes.",
+   "bytes": 67,
+   "alvo_bytes": 57
+  },
+  {
+   "id": "valuables#1739",
+   "bloco": "valuables",
+   "en": "Arcane arte: launches, ascends with spin slashes, and fires blasts.",
+   "bytes": 67,
+   "alvo_bytes": 57
+  },
+  {
+   "id": "valuables#1758",
+   "bloco": "valuables",
+   "en": "Slashes foes like a fluttering swallow, kicking them up at the end.",
+   "bytes": 67,
+   "alvo_bytes": 57
+  },
+  {
+   "id": "valuables#1791",
+   "bloco": "valuables",
+   "en": "Arcane arte: slashes like flowing water, finishing with shockwaves.",
+   "bytes": 67,
+   "alvo_bytes": 57
+  },
+  {
+   "id": "valuables#1813",
+   "bloco": "valuables",
+   "en": "Arcane arte: binds slashed foes to the heavens with a fierce flash.",
+   "bytes": 67,
+   "alvo_bytes": 57
+  },
+  {
+   "id": "valuables#1930",
+   "bloco": "valuables",
+   "en": "Secret arte: fires lightning daggers radially to call down thunder.",
+   "bytes": 67,
+   "alvo_bytes": 57
+  },
+  {
+   "id": "valuables#272",
+   "bloco": "valuables",
+   "en": "A blue jewel obtained from a green chest in the Sifno Spring Cave.",
+   "bytes": 66,
+   "alvo_bytes": 56
+  },
+  {
+   "id": "valuables#563",
+   "bloco": "valuables",
+   "en": "Arte: raises an ally's magic attack and cures debuffs temporarily.",
+   "bytes": 66,
+   "alvo_bytes": 56
+  },
+  {
+   "id": "valuables#634",
+   "bloco": "valuables",
+   "en": "Secret arte: lifts foes with sword pressure and delivers a finish.",
+   "bytes": 66,
+   "alvo_bytes": 56
+  },
+  {
+   "id": "valuables#674",
+   "bloco": "valuables",
+   "en": "Executes a two-stage slash connecting downward and upward slashes.",
+   "bytes": 66,
+   "alvo_bytes": 56
+  },
+  {
+   "id": "valuables#1313",
+   "bloco": "valuables",
+   "en": "Arcane arte: conjures shockwaves, punching airborne foes directly.",
+   "bytes": 66,
+   "alvo_bytes": 56
+  },
+  {
+   "id": "valuables#1443",
+   "bloco": "valuables",
+   "en": "Arcane arte: launches foes, landing spin kicks and slashes in air.",
+   "bytes": 66,
+   "alvo_bytes": 56
+  },
+  {
+   "id": "valuables#1727",
+   "bloco": "valuables",
+   "en": "Secret arte: slashes foes high, delivering dive kicks and slashes.",
+   "bytes": 66,
+   "alvo_bytes": 56
+  },
+  {
+   "id": "valuables#219",
+   "bloco": "valuables",
+   "en": "A two-handed sword said to have been favored by a legendary hero.",
+   "bytes": 65,
+   "alvo_bytes": 55
+  },
+  {
+   "id": "valuables#301",
+   "bloco": "valuables",
+   "en": "Arte: restores a moderate amount of HP to all allies (in battle).",
+   "bytes": 65,
+   "alvo_bytes": 55
+  },
+  {
+   "id": "valuables#807",
+   "bloco": "valuables",
+   "en": "Creates rock masses from the impact of arrows hitting the ground.",
+   "bytes": 65,
+   "alvo_bytes": 55
+  },
+  {
+   "id": "valuables#848",
+   "bloco": "valuables",
+   "en": "Arcane arte: godspeed thrusts stir up gusts to blow enemies away.",
+   "bytes": 65,
+   "alvo_bytes": 55
+  },
+  {
+   "id": "valuables#908",
+   "bloco": "valuables",
+   "en": "Thrusts sword into ground, summoning rock lances with shockwaves.",
+   "bytes": 65,
+   "alvo_bytes": 55
+  },
+  {
+   "id": "valuables#924",
+   "bloco": "valuables",
+   "en": "Secret arte: teleports above the enemy, delivering flame slashes.",
+   "bytes": 65,
+   "alvo_bytes": 55
+  },
+  {
+   "id": "valuables#980",
+   "bloco": "valuables",
+   "en": "Arcane arte: thrusts a spear into ground, raising a water pillar.",
+   "bytes": 65,
+   "alvo_bytes": 55
+  },
+  {
+   "id": "valuables#982",
+   "bloco": "valuables",
+   "en": "Arcane arte: launches foes skyward, following with flame thrusts.",
+   "bytes": 65,
+   "alvo_bytes": 55
+  },
+  {
+   "id": "valuables#1333",
+   "bloco": "valuables",
+   "en": "Arcane arte: pulls foes from a downward swing and rushes forward.",
+   "bytes": 65,
+   "alvo_bytes": 55
+  },
+  {
+   "id": "valuables#1667",
+   "bloco": "valuables",
+   "en": "Secret arte: drops from a leap, attacking with impact on landing.",
+   "bytes": 65,
+   "alvo_bytes": 55
+  },
+  {
+   "id": "valuables#1901",
+   "bloco": "valuables",
+   "en": "Secret arte: shapes photons into swords, swinging like iai draws.",
+   "bytes": 65,
+   "alvo_bytes": 55
+  },
+  {
+   "id": "valuables#1985",
+   "bloco": "valuables",
+   "en": "Short-range skill: launches foes with bow attacks and follows up.",
+   "bytes": 65,
+   "alvo_bytes": 55
+  },
+  {
+   "id": "valuables#16",
+   "bloco": "valuables",
+   "en": "Allows listening to 'Meeting at the Fountain Plaza' at Claire's.",
+   "bytes": 64,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#177",
+   "bloco": "valuables",
+   "en": "Features an image sketch that looks far creepier than necessary.",
+   "bytes": 64,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1008",
+   "bloco": "valuables",
+   "en": "Arcane arte: two-stage slashes from Crescent Flash, up and down.",
+   "bytes": 64,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1024",
+   "bloco": "valuables",
+   "en": "Takes atmospheric qi into the body to restore physical strength.",
+   "bytes": 64,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1050",
+   "bloco": "valuables",
+   "en": "Arcane arte: repeatedly swings weapons to blow away rock shards.",
+   "bytes": 64,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1449",
+   "bloco": "valuables",
+   "en": "Arcane arte: punches like biting fangs to crush foes repeatedly.",
+   "bytes": 64,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1457",
+   "bloco": "valuables",
+   "en": "Distances oneself, then rushes forward and attacks with thrusts.",
+   "bytes": 64,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1857",
+   "bloco": "valuables",
+   "en": "Arcane arte: fires a shot skyward capable of piercing even gods.",
+   "bytes": 64,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1994",
+   "bloco": "valuables",
+   "en": "Secret arte: jumps, firing multiple arrows from above to ground.",
+   "bytes": 64,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1998",
+   "bloco": "valuables",
+   "en": "Arcane arte: fires arrows in fan shape, focusing arrows forward.",
+   "bytes": 64,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#2055",
+   "bloco": "valuables",
+   "en": "Arcane arte: jumps and shoots light spheres at diagonal enemies.",
+   "bytes": 64,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#2063",
+   "bloco": "valuables",
+   "en": "Arcane arte: detonates fighting spirit to blow away nearby foes.",
+   "bytes": 64,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#89",
+   "bloco": "valuables",
+   "en": "In other words, a candle. How it is used depends on the person.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#192",
+   "bloco": "valuables",
+   "en": "A photo so embarrassing it makes even complete strangers blush.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#216",
+   "bloco": "valuables",
+   "en": "Proof obtainable only by one who has conquered the sealed land.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#341",
+   "bloco": "valuables",
+   "en": "Arte: creates wind blades around foes, slicing those who touch.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#370",
+   "bloco": "valuables",
+   "en": "Arte: causes multiple rock masses to emerge beneath target foe.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#608",
+   "bloco": "valuables",
+   "en": "Arcane arte: leaps into air and attacks foes with a rapid dive.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#785",
+   "bloco": "valuables",
+   "en": "Arcane arte: delivers thrusts and charges forward with a spear.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#873",
+   "bloco": "valuables",
+   "en": "Secret arte: delivers rapid slashes in air after Soaring Blade.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#875",
+   "bloco": "valuables",
+   "en": "Secret arte: throws bombs while closing in and thrusts forward.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#912",
+   "bloco": "valuables",
+   "en": "Secret arte: delivers a sword flash while closing in instantly.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#951",
+   "bloco": "valuables",
+   "en": "Secret arte: slashes up and down in a crescent moon trajectory.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1061",
+   "bloco": "valuables",
+   "en": "Wind secret arte: slams weapons down with momentum from midair.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1476",
+   "bloco": "valuables",
+   "en": "Secret arte: passes through foes while slashing, chasing again.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1596",
+   "bloco": "valuables",
+   "en": "Arcane arte: blows foes away with uppercuts and triangle kicks.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1598",
+   "bloco": "valuables",
+   "en": "Arcane arte: slaps back and forth using feet to blow foes away.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1637",
+   "bloco": "valuables",
+   "en": "Pins the enemy's shadow to the ground to increase stagger time.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1686",
+   "bloco": "valuables",
+   "en": "Alters trajectory in air from a leap and drops knees onto foes.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1754",
+   "bloco": "valuables",
+   "en": "Arcane arte: slashes foes skyward dancingly, kicking them down.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1777",
+   "bloco": "valuables",
+   "en": "Connects spinning axe slashes into sword strikes with momentum.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1783",
+   "bloco": "valuables",
+   "en": "Arcane arte: sweeps feet, launching foes with explosive blasts.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1823",
+   "bloco": "valuables",
+   "en": "Arcane arte: impales foes with long blades of light in weapons.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#1855",
+   "bloco": "valuables",
+   "en": "Fires special buckshot bursting above enemies and raining down.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#2030",
+   "bloco": "valuables",
+   "en": "Arcane arte: launches with lightning, dropping steel onto foes.",
+   "bytes": 63,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "valuables#37",
+   "bloco": "valuables",
+   "en": "Key activating DL Quest 'A Closed Heart, A Continuing Future'.",
+   "bytes": 62,
+   "alvo_bytes": 53
+  },
+  {
+   "id": "valuables#78",
+   "bloco": "valuables",
+   "en": "The recipe for \"Medicinal Champuru\" that Coda is yearning for.",
+   "bytes": 62,
+   "alvo_bytes": 53
+  },
+  {
+   "id": "valuables#787",
+   "bloco": "valuables",
+   "en": "Arcane arte: follows Flying Ruin Spear by conjuring tornadoes.",
+   "bytes": 62,
+   "alvo_bytes": 53
+  },
+  {
+   "id": "valuables#918",
+   "bloco": "valuables",
+   "en": "Teleports above the enemy's head to deliver a surprise attack.",
+   "bytes": 62,
+   "alvo_bytes": 53
+  },
+  {
+   "id": "valuables#1216",
+   "bloco": "valuables",
+   "en": "Arcane arte: attacks nearby foes with chakrams while spinning.",
+   "bytes": 62,
+   "alvo_bytes": 53
+  },
+  {
+   "id": "valuables#1459",
+   "bloco": "valuables",
+   "en": "Secret arte: delivers steep skyward thrusts after dash thrust.",
+   "bytes": 62,
+   "alvo_bytes": 53
+  },
+  {
+   "id": "valuables#1684",
+   "bloco": "valuables",
+   "en": "Arcane arte: launches foes, follows, and slams them to ground.",
+   "bytes": 62,
+   "alvo_bytes": 53
+  },
+  {
+   "id": "valuables#1750",
+   "bloco": "valuables",
+   "en": "Releases slashes like cherry blossoms, launching foes skyward.",
+   "bytes": 62,
+   "alvo_bytes": 53
+  },
+  {
+   "id": "valuables#1815",
+   "bloco": "valuables",
+   "en": "Slices foes with vacuum waves along with swift upward slashes.",
+   "bytes": 62,
+   "alvo_bytes": 53
+  },
+  {
+   "id": "valuables#1851",
+   "bloco": "valuables",
+   "en": "Refines storm thoughts and fires them as giant masses of wind.",
+   "bytes": 62,
+   "alvo_bytes": 53
+  },
+  {
+   "id": "valuables#69",
+   "bloco": "valuables",
+   "en": "The recipe for \"Black Tea Cookies\" that Coda is yearning for.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#171",
+   "bloco": "valuables",
+   "en": "So nutritious it keeps you awake, unable to blink for a week.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#269",
+   "bloco": "valuables",
+   "en": "A red jewel obtained from a green chest in the Almanac Ruins.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#378",
+   "bloco": "valuables",
+   "en": "Arte: causes a torrent of water to surge around target enemy.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#561",
+   "bloco": "valuables",
+   "en": "Arte: raises an ally's attack and cures ailments temporarily.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#565",
+   "bloco": "valuables",
+   "en": "Arte: raises an ally's defense and cures debuffs temporarily.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#871",
+   "bloco": "valuables",
+   "en": "Secret arte: delivers rapid slashes in air after Fang Thrust.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#1006",
+   "bloco": "valuables",
+   "en": "Arcane arte: cold-cloaked shockwaves trace a cross to attack.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#1049",
+   "bloco": "valuables",
+   "en": "Secret arte: blows rock shards away with down and up impacts.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#1084",
+   "bloco": "valuables",
+   "en": "Arcane arte: leaps, unleashing shockwaves from air to ground.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#1104",
+   "bloco": "valuables",
+   "en": "Secret arte: follows with an up-thrust after Flashing Impact.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#1453",
+   "bloco": "valuables",
+   "en": "Shreds foes with rapid thrusts and repels them with a shield.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#1483",
+   "bloco": "valuables",
+   "en": "Attaches a talisman briefly lowering enemy defense by chance.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#1489",
+   "bloco": "valuables",
+   "en": "Attaches a talisman briefly lowering enemy agility by chance.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#1503",
+   "bloco": "valuables",
+   "en": "Arcane arte: increases stagger time for an enemy temporarily.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#1635",
+   "bloco": "valuables",
+   "en": "Arcane arte: kicks foes skyward, shredding with wind sickles.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#1659",
+   "bloco": "valuables",
+   "en": "Dives into the enemy's pocket, rotating while kicking upward.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#1915",
+   "bloco": "valuables",
+   "en": "Arcane arte: manifests wings of light to chase airborne foes.",
+   "bytes": 61,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "valuables#353",
+   "bloco": "valuables",
+   "en": "Arte: thrusts lightning sword into ground to strike thunder.",
+   "bytes": 60,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "valuables#684",
+   "bloco": "valuables",
+   "en": "Secret arte: swings weapons to blow foes away with momentum.",
+   "bytes": 60,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "valuables#727",
+   "bloco": "valuables",
+   "en": "Secret arte: throws knocked-down foes, dealing heavy damage.",
+   "bytes": 60,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "valuables#1026",
+   "bloco": "valuables",
+   "en": "Arcane arte: slams a freezing palm strike to blow foes away.",
+   "bytes": 60,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "valuables#1053",
+   "bloco": "valuables",
+   "en": "Secret arte: swings weapons with momentum rapidly to attack.",
+   "bytes": 60,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "valuables#1141",
+   "bloco": "valuables",
+   "en": "Arcane arte: takes distance, executing vacuum cross slashes.",
+   "bytes": 60,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "valuables#1301",
+   "bloco": "valuables",
+   "en": "Secret arte: delivers downward dive bombing with a cool hip.",
+   "bytes": 60,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "valuables#1487",
+   "bloco": "valuables",
+   "en": "Attaches a talisman briefly lowering enemy attack by chance.",
+   "bytes": 60,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "valuables#1544",
+   "bloco": "valuables",
+   "en": "Summons lightning from training results and unleashes power.",
+   "bytes": 60,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "valuables#1554",
+   "bloco": "valuables",
+   "en": "Secret arte: flings foes forward while launching shockwaves.",
+   "bytes": 60,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "valuables#1592",
+   "bloco": "valuables",
+   "en": "Arcane arte: gathers qi to produce multi-hit qigong bullets.",
+   "bytes": 60,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "valuables#1618",
+   "bloco": "valuables",
+   "en": "Arcane arte: calls giant tree-shaped ice blocks from ground.",
+   "bytes": 60,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "valuables#1673",
+   "bloco": "valuables",
+   "en": "Secret arte: slashes foes skyward with weapon upward swings.",
+   "bytes": 60,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "valuables#1888",
+   "bloco": "valuables",
+   "en": "Arcane arte: unleashes merciless follow-ups on impaled foes.",
+   "bytes": 60,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "valuables#2053",
+   "bloco": "valuables",
+   "en": "Arcane arte: attacks with Charge Bullets exploding up close.",
+   "bytes": 60,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "valuables#13",
+   "bloco": "valuables",
+   "en": "Allows listening to '...have a good rest time' at Claire's.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#153",
+   "bloco": "valuables",
+   "en": "Astonishingly, it can be used to nail plywood and the like.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#418",
+   "bloco": "valuables",
+   "en": "Arte: rains flame spheres causing explosions on the ground.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#467",
+   "bloco": "valuables",
+   "en": "Arte: causes countless bubbles to surge beneath target foe.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#598",
+   "bloco": "valuables",
+   "en": "Arcane arte: unleashes countless thrusts, following in air.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#678",
+   "bloco": "valuables",
+   "en": "Unleashes a sharp thrust followed by an upward fist strike.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#869",
+   "bloco": "valuables",
+   "en": "Secret arte: launches foes with slashes into three strikes.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#894",
+   "bloco": "valuables",
+   "en": "Secret arte: throws daggers down to attack with shockwaves.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#976",
+   "bloco": "valuables",
+   "en": "Arcane arte: launches foes skyward, following with thrusts.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1030",
+   "bloco": "valuables",
+   "en": "Arcane arte: thrusts a powered fist to blast captured foes.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1111",
+   "bloco": "valuables",
+   "en": "Swings swords at high speed enough to shred falling leaves.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1147",
+   "bloco": "valuables",
+   "en": "Circles around to the enemy's back with a thrust to attack.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1275",
+   "bloco": "valuables",
+   "en": "Arcane arte: dives from air onto ground foes like a meteor.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1394",
+   "bloco": "valuables",
+   "en": "Secret arte: executes rapid slashes in air after Wing Edge.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1405",
+   "bloco": "valuables",
+   "en": "Arcane arte: shoots guns while distracting with Pow Hammer.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1441",
+   "bloco": "valuables",
+   "en": "Arcane arte: shreds foes with spun weapons after 3 strikes.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1587",
+   "bloco": "valuables",
+   "en": "Arcane arte: pins foes to ground with a ferocious axe kick.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1696",
+   "bloco": "valuables",
+   "en": "Leaps and fires arrows that detonate when enemies approach.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1713",
+   "bloco": "valuables",
+   "en": "Slashes foes skyward with a kodachi and chases with arrows.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1717",
+   "bloco": "valuables",
+   "en": "Secret arte: finishes upward-slashed foes with bow strikes.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1876",
+   "bloco": "valuables",
+   "en": "Secret: delivers swift forward lunges that pierce anything.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#1880",
+   "bloco": "valuables",
+   "en": "Arcane arte: executes iai slashes, slipping behind the foe.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#2032",
+   "bloco": "valuables",
+   "en": "Executes three kicks, raises a sword overhead, and slashes.",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#2390",
+   "bloco": "valuables",
+   "en": "Result TP Recovery +10%, Restore 3% TP Upon Defeating Enemy",
+   "bytes": 59,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "valuables#54",
+   "bloco": "valuables",
+   "en": "The recipe for \"Pineapple Rice\" that Coda is yearning for.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#380",
+   "bloco": "valuables",
+   "en": "Arte: weaves a magic circle in sky to summon mighty winds.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#478",
+   "bloco": "valuables",
+   "en": "Arte: creates a magnificent hammer above target to attack.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#551",
+   "bloco": "valuables",
+   "en": "Arte: slightly reduces enemy physical defense temporarily.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#836",
+   "bloco": "valuables",
+   "en": "Arcane arte: creates a fiery flash piercing numerous foes.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#914",
+   "bloco": "valuables",
+   "en": "Secret arte: leaps back, throwing kunai forward to attack.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#984",
+   "bloco": "valuables",
+   "en": "Arcane arte: shatters foes along with manifested crystals.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1002",
+   "bloco": "valuables",
+   "en": "Arcane arte: releases vacuum waves from two-stage slashes.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1018",
+   "bloco": "valuables",
+   "en": "Arcane arte: slashes the ground, blowing away rock shards.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1186",
+   "bloco": "valuables",
+   "en": "Arcane arte: slashes down, launches up, into spin slashes.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1260",
+   "bloco": "valuables",
+   "en": "Secret arte: executes rapid-fire attacks after a backstep.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#1835",
+   "bloco": "valuables",
+   "en": "Arcane arte: delivers six aerial spin kicks while soaring.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#2001",
+   "bloco": "valuables",
+   "en": "Deals continuous damage to hit foes with gunpowder arrows.",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#2302",
+   "bloco": "valuables",
+   "en": "Result TP Recovery +6%, Restore 2% HP Upon Defeating Enemy",
+   "bytes": 58,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "valuables#34",
+   "bloco": "valuables",
+   "en": "Key activating DL Quest 'The Wall That Must Be Overcome'.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#40",
+   "bloco": "valuables",
+   "en": "Key activating DL Quest 'In Search of the Ultimate Dish'.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#66",
+   "bloco": "valuables",
+   "en": "The recipe for \"Cheese Fondue\" that Coda is yearning for.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#317",
+   "bloco": "valuables",
+   "en": "Arte: increases all allies' physical defense temporarily.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#347",
+   "bloco": "valuables",
+   "en": "Arte: creates sharp rocks from ground beneath target foe.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#382",
+   "bloco": "valuables",
+   "en": "Arte: creates sub-space near target foes, dealing damage.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1066",
+   "bloco": "valuables",
+   "en": "Wind secret arte: swings weapons with momentum to attack.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1115",
+   "bloco": "valuables",
+   "en": "Vacuum waves from high-speed slashes vortex into a flash.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1348",
+   "bloco": "valuables",
+   "en": "Secret arte: bangs frying pan to launch acoustic attacks.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1376",
+   "bloco": "valuables",
+   "en": "Secret arte: launches an up-kick into a lightning strike.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1392",
+   "bloco": "valuables",
+   "en": "Secret arte: delivers up-kicks, slashing after Fang Edge.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1416",
+   "bloco": "valuables",
+   "en": "Secret arte: delivers qi crushing punches from stompings.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1509",
+   "bloco": "valuables",
+   "en": "Arte: attacks foes with a shower of light-blessed swords.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1847",
+   "bloco": "valuables",
+   "en": "Refines thoughts, firing arrows that pierce through foes.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1874",
+   "bloco": "valuables",
+   "en": "Secret arte: leaps up and thrusts down a lightning sword.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1964",
+   "bloco": "valuables",
+   "en": "Arcane arte: triggers earth-cleaving shockwaves upon hit.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#2084",
+   "bloco": "valuables",
+   "en": "Arcane arte: rushes with gunblade, attacking with gravel.",
+   "bytes": 57,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#437",
+   "bloco": "valuables",
+   "en": "Arte: raises all allies' stats and slightly restores HP.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#493",
+   "bloco": "valuables",
+   "en": "Arte: reduces magic damage taken by an ally temporarily.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#596",
+   "bloco": "valuables",
+   "en": "Secret arte: unleashes thrusts followed by an extra hit.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#676",
+   "bloco": "valuables",
+   "en": "Slams a palm strike, detonating qi to blow enemies away.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#916",
+   "bloco": "valuables",
+   "en": "Knocks down foes by releasing fighting spirit into them.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#992",
+   "bloco": "valuables",
+   "en": "Arcane arte: shatters giant crystals with sword strikes.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1100",
+   "bloco": "valuables",
+   "en": "Secret arte: shockwaves skyward after Sky Soaring Slash.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1102",
+   "bloco": "valuables",
+   "en": "Secret arte: fire-infused slashes after Explosion Sword.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1159",
+   "bloco": "valuables",
+   "en": "Secret arte: dives into foe's pocket, blowing them away.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1214",
+   "bloco": "valuables",
+   "en": "Secret arte: attacks nearby foes with chakrams spinning.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1220",
+   "bloco": "valuables",
+   "en": "Arcane: throws crossing chakrams to call down lightning.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1243",
+   "bloco": "valuables",
+   "en": "Secret arte: attacks nearbys, raising icicles on impact.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1325",
+   "bloco": "valuables",
+   "en": "Unleashes high-power slashes from downward sword swings.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1342",
+   "bloco": "valuables",
+   "en": "Unleashes the terror of a frying pan attacking from air.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1350",
+   "bloco": "valuables",
+   "en": "Arcane arte: figured out the answer to handling sunfish.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1407",
+   "bloco": "valuables",
+   "en": "Secret arte: shoots at enemy feet, raising water pillar.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1581",
+   "bloco": "valuables",
+   "en": "Arcane arte: fires qigong bullets that hit distant foes.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1819",
+   "bloco": "valuables",
+   "en": "Secret arte: charges weapons, piercing and slicing foes.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1837",
+   "bloco": "valuables",
+   "en": "Secret: fires fire thought as circular rings from above.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1913",
+   "bloco": "valuables",
+   "en": "Arcane arte: aerial kicks connecting into rapid attacks.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#1936",
+   "bloco": "valuables",
+   "en": "Arcane arte: rains down freezing daggers around the foe.",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#2189",
+   "bloco": "valuables",
+   "en": "Monster Symbol Speed +, Spawn Frequency +, Ambush Rate +",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#2193",
+   "bloco": "valuables",
+   "en": "Monster Symbol Speed -, Spawn Frequency -, Ambush Rate -",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#2370",
+   "bloco": "valuables",
+   "en": "Max TP -20%, Base Physical Attack +30%, Base Agility -20",
+   "bytes": 56,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "valuables#61",
+   "bloco": "valuables",
+   "en": "The recipe for \"Okonomiyaki\" that Coda is yearning for.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#335",
+   "bloco": "valuables",
+   "en": "Arte: causes a lava stream to appear around target foe.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#345",
+   "bloco": "valuables",
+   "en": "Arte: causes gravel to surge up from around target foe.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#416",
+   "bloco": "valuables",
+   "en": "Arte: creates a gravity field, crushing earth together.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#527",
+   "bloco": "valuables",
+   "en": "Arte: wind arrows targeting foes attack multiple times.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#757",
+   "bloco": "valuables",
+   "en": "Arcane arte: attacks foes with light orbs from nearbys.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#775",
+   "bloco": "valuables",
+   "en": "Rushes forward while sweeping the spear left and right.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#779",
+   "bloco": "valuables",
+   "en": "Launches foes, follows up in air, and knocks them down.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#809",
+   "bloco": "valuables",
+   "en": "Arcane arte: fires eight arrows simultaneously skyward.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1004",
+   "bloco": "valuables",
+   "en": "Arcane arte: cloaks in Phoenix aura, attacking skyward.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1317",
+   "bloco": "valuables",
+   "en": "Arcane arte: focuses qi intensely, inflating massively.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1430",
+   "bloco": "valuables",
+   "en": "Cleaves through foes instantly and slashes from behind.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1590",
+   "bloco": "valuables",
+   "en": "Arcane arte: kicks up endlessly, slamming down grandly.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1700",
+   "bloco": "valuables",
+   "en": "Arcane arte: arrows fired skyward rain down all around.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1706",
+   "bloco": "valuables",
+   "en": "Secret arte: brandishes weapons to smoothly slash foes.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#1800",
+   "bloco": "valuables",
+   "en": "Arcane arte: connects rapid three-hit combo into Beast.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#2044",
+   "bloco": "valuables",
+   "en": "Secret arte: shoots light spheres from crossed muzzles.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#2057",
+   "bloco": "valuables",
+   "en": "Secret arte: punches with full soul to knock foes down.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#2499",
+   "bloco": "valuables",
+   "en": "Title for someone dedicated to living as an adventurer.",
+   "bytes": 55,
+   "alvo_bytes": 47
+  },
+  {
+   "id": "valuables#25",
+   "bloco": "valuables",
+   "en": "Key to DL Quest 'A Closed Heart, A Continuing Future'.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#31",
+   "bloco": "valuables",
+   "en": "Key activating DL Quest 'A Fight That Cannot Be Lost'.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#56",
+   "bloco": "valuables",
+   "en": "The recipe for \"Mabo Curry\" that Coda is yearning for.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#640",
+   "bloco": "valuables",
+   "en": "Secret arte: executes flame-cloaked aerial spin kicks.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#705",
+   "bloco": "valuables",
+   "en": "Unleashes a single fist flash while advancing forward.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#717",
+   "bloco": "valuables",
+   "en": "Steps into the pocket and launches foes high into air.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#723",
+   "bloco": "valuables",
+   "en": "Secret arte: throws knocked-down foes, dealing damage.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#937",
+   "bloco": "valuables",
+   "en": "Secret arte: slashes up and through after dash thrust.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1129",
+   "bloco": "valuables",
+   "en": "Arcane arte: cold-cloaked slashes spread in a V-shape.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1190",
+   "bloco": "valuables",
+   "en": "Arcane arte: slashes up, releasing fire power at once.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1299",
+   "bloco": "valuables",
+   "en": "Launches foes with a shoulder tackle into an uppercut.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1579",
+   "bloco": "valuables",
+   "en": "Arcane arte: unleashes piercing shots from an up-kick.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1680",
+   "bloco": "valuables",
+   "en": "Arcane arte: leaps and delivers accelerated dive kick.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1733",
+   "bloco": "valuables",
+   "en": "Secret arte: dances into air and unleashes shockwaves.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1781",
+   "bloco": "valuables",
+   "en": "Temporarily boosts stats after attacking with icicles.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1882",
+   "bloco": "valuables",
+   "en": "Arcane arte: delivers rapid kicks, stepping into foes.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#1984",
+   "bloco": "valuables",
+   "en": "Fires several arrows in the blink of an eye to attack.",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#2298",
+   "bloco": "valuables",
+   "en": "TP Consumption -6%, Restore 2% TP Upon Defeating Enemy",
+   "bytes": 54,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "valuables#357",
+   "bloco": "valuables",
+   "en": "Arte: creates sharp blocks of ice beneath target foe.",
+   "bytes": 53,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#394",
+   "bloco": "valuables",
+   "en": "Arte: raises a single ally's physical attack briefly.",
+   "bytes": 53,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#515",
+   "bloco": "valuables",
+   "en": "A wind arte that slices foes with giant vacuum claws.",
+   "bytes": 53,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#517",
+   "bloco": "valuables",
+   "en": "Fire arte: fires a barrage of scalding shots at foes.",
+   "bytes": 53,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#547",
+   "bloco": "valuables",
+   "en": "Arte: slightly reduces enemy physical attack briefly.",
+   "bytes": 53,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#582",
+   "bloco": "valuables",
+   "en": "Secret arte: unleashes two shockwave slashes rapidly.",
+   "bytes": 53,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#659",
+   "bloco": "valuables",
+   "en": "Arcane arte: draws flame power, releasing it at once.",
+   "bytes": 53,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#707",
+   "bloco": "valuables",
+   "en": "Delivers a full-powered thrust to knock enemies down.",
+   "bytes": 53,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "valuables#887",
+   "bloco": "valuables",
+   "en": "Secret arte: lifts foes with an up-thrust from below.",
+   "bytes": 53,
+   "alvo_bytes": 45
+  }
+ ]
+}

@@ -1,0 +1,201 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev28_010.scr:0	cev28_010.scr	0	ルカ	Ruca Milda	personagem	CRLF x1	じゃあ……ジーニアスにも\n好きな人がいるんだ？		
+cev28_010.scr:1	cev28_010.scr	1	ジーニアス	Genis Sage	personagem		う、うん……		
+cev28_010.scr:2	cev28_010.scr	2	ジーニアス	Genis Sage	personagem	CRLF x1	プレセアを見てると、ドキドキして\n胸が苦しくなるよ……		
+cev28_010.scr:3	cev28_010.scr	3	ルカ	Ruca Milda	personagem	CRLF x2	そうかぁ……。\nジーニアスは、本当に\nプレセアの事が大好きなんだね		
+cev28_010.scr:4	cev28_010.scr	4	ルカ	Ruca Milda	personagem		ねえ、どんなところが好きなの？		
+cev28_010.scr:5	cev28_010.scr	5	ジーニアス	Genis Sage	personagem	CRLF x1	えっ？\nうーん、そうだなぁ		
+cev28_010.scr:6	cev28_010.scr	6	ジーニアス	Genis Sage	personagem	CRLF x2	頑張り屋さんで、お父さん思いで……\nミステリアスなんだけど\n女の子らしいところ……かな？		
+cev28_010.scr:7	cev28_010.scr	7	ジーニアス	Genis Sage	personagem		あっ、プッ……プレセア？		
+cev28_010.scr:8	cev28_010.scr	8	ジーニアス	Genis Sage	personagem	CRLF x2	どこ行くの？　え、ロックスの手伝い？\nボクも手伝うよ。それ、どこに運ぶの？\n……うっ！　重……ッ		
+cev28_010.scr:9	cev28_010.scr	9	ジーニアス	Genis Sage	personagem	CRLF x2	あ、ううん。何でもない。\n全っ然平気だよ、このくらい！\nあははははっ		
+cev28_010.scr:10	cev28_010.scr	10	ルカ	Ruca Milda	personagem		ジーニアス……積極的だなぁ……		
+cev28_010.scr:11	cev28_010.scr	11	ルカ	Ruca Milda	personagem		よ〜し、僕だって……！		
+cev28_020.scr:0	cev28_020.scr	0	ジーニアス	Genis Sage	personagem	CRLF x2	えっと……ソフィ？\nボク、ジーニアスっていうんだ。\nよろしくね		
+cev28_020.scr:1	cev28_020.scr	1	ソフィ	Sophie	personagem	CRLF x2	……ジーニアス。\nうん。　\nよろしく		
+cev28_020.scr:2	cev28_020.scr	2	ジーニアス	Genis Sage	personagem	CRLF x1	ここには歳の近い子があんまりいないから、\nソフィが来てくれて嬉しいよ		
+cev28_020.scr:3	cev28_020.scr	3	ソフィ	Sophie	personagem		…………どうして？		
+cev28_020.scr:4	cev28_020.scr	4	ジーニアス	Genis Sage	personagem		え？		
+cev28_020.scr:5	cev28_020.scr	5	ソフィ	Sophie	personagem		歳が近い子がいると、どうして嬉しいの		
+cev28_020.scr:6	cev28_020.scr	6	ジーニアス	Genis Sage	personagem	CRLF x2	えっと……ほら、年上の人ばっかりだと\n色々気を遣うじゃない？\nそういうのがないから、気楽でいいしさ		
+cev28_020.scr:7	cev28_020.scr	7	ソフィ	Sophie	personagem		……そういうものなの？		
+cev28_020.scr:8	cev28_020.scr	8	ジーニアス	Genis Sage	personagem		う、うん……多分……		
+cev28_020.scr:9	cev28_020.scr	9	ソフィ	Sophie	personagem	CRLF x1	そう……。\nわかった		
+cev28_020.scr:10	cev28_020.scr	10	ジーニアス	Genis Sage	personagem	CRLF x1	え？　\nちょ、ちょっと……		
+cev28_020.scr:11	cev28_020.scr	11	ジーニアス	Genis Sage	personagem		……何か、ソフィって		
+cev28_020.scr:12	cev28_020.scr	12	ジーニアス	Genis Sage	personagem		プレセアに似てるかも……		
+cev28_030.scr:0	cev28_030.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	なぁ、さっきよ……そこの廊下で\n妙な女とすれ違ったんだが……		
+cev28_030.scr:1	cev28_030.scr	1	リッド	Reid Hershel	personagem		妙な女？		
+cev28_030.scr:2	cev28_030.scr	2	ロニ	Loni Dunamis	personagem		ああ……		
+cev28_030.scr:3	cev28_030.scr	3	ロニ	Loni Dunamis	personagem	CRLF x1	あれは、この世のものとは\n思えない……		
+cev28_030.scr:4	cev28_030.scr	4	ジーニアス	Genis Sage	personagem	CRLF x1	またまたぁ〜。\nロニってば、そんな事言って		
+cev28_030.scr:5	cev28_030.scr	5	ジーニアス	Genis Sage	personagem	CRLF x2	ボク達を脅かそうとしたって\n無駄だよ。\nねえ、リッド？		
+cev28_030.scr:6	cev28_030.scr	6	リッド	Reid Hershel	personagem	CRLF x1	そ、そうだぞロニ。\n変な事言い出すなよな		
+cev28_030.scr:7	cev28_030.scr	7	ロニ	Loni Dunamis	personagem	CRLF x1	冗談なんかじゃない、本当なんだ。\n血の気のない顔で……髪が長くて……		
+cev28_030.scr:8	cev28_030.scr	8	リッド	Reid Hershel	personagem		お、おいおい……		
+cev28_030.scr:9	cev28_030.scr	9	ジーニアス	Genis Sage	personagem	CRLF x1	ふわふわ浮いてて、死んだみたいに\n冷たい体をしてるんでしょ		
+cev28_030.scr:10	cev28_030.scr	10	ジーニアス	Genis Sage	personagem	CRLF x1	怪談の定番だね。\n全然怖く……		
+cev28_030.scr:11	cev28_030.scr	11	ロニ	Loni Dunamis	personagem	CRLF x1	どわ〜〜〜っっ！！\n出たぁぁぁぁーーーー！！！		
+cev28_030.scr:12	cev28_030.scr	12	リッド	Reid Hershel	personagem	CRLF x1	うわぁぁあああぁ！！\n嫌だぁぁぁぁぁああ！！！！		
+cev28_030.scr:13	cev28_030.scr	13	セルシウス	Celsius	personagem		随分賑やかね……何かあったの？		
+cev28_030.scr:14	cev28_030.scr	14	ジーニアス	Genis Sage	personagem		あ、ははは……何でもないよ		
+cev28_030.scr:15	cev28_030.scr	15	ジーニアス	Genis Sage	personagem		（「幽霊の　正体見たり　セルシウス」と…）		
+cev28_040.scr:0	cev28_040.scr	0	アーチェ	Arche Klein	personagem	CRLF x1	ソフィとアスベルって\nいつでも一緒ってイメージあるよね		
+cev28_040.scr:1	cev28_040.scr	1	ソフィ	Sophie	personagem		……そう？		
+cev28_040.scr:2	cev28_040.scr	2	ジーニアス	Genis Sage	personagem	CRLF x2	ソフィは、アスベルの事が\nきっと大好きなんだね。\n見てればわかるよ		
+cev28_040.scr:3	cev28_040.scr	3	ソフィ	Sophie	personagem	CRLF x1	うん……。\nアスベル、好き		
+cev28_040.scr:4	cev28_040.scr	4	ソフィ	Sophie	personagem	CRLF x1	大切な友達だから\nずっと、一緒にいる		
+cev28_040.scr:5	cev28_040.scr	5	ジーニアス	Genis Sage	personagem		ずっと一緒に、か……		
+cev28_040.scr:6	cev28_040.scr	6	ジーニアス	Genis Sage	personagem	CRLF x2	大好きな人と\nずっと一緒にいられたら\n本当に幸せだよね		
+cev28_040.scr:7	cev28_040.scr	7	ジーニアス	Genis Sage	personagem	CRLF x1	……ずっと、一緒に\nいられたらいいのにね		
+cev28_040.scr:8	cev28_040.scr	8	ソフィ	Sophie	personagem		ジーニアス……どうしたの？		
+cev28_040.scr:9	cev28_040.scr	9	ジーニアス	Genis Sage	personagem	CRLF x1	ううん、何でも……。\n何でもないよ		
+cev28_040.scr:10	cev28_040.scr	10	アーチェ	Arche Klein	personagem		……一緒にいればいいじゃん？		
+cev28_040.scr:11	cev28_040.scr	11	アーチェ	Arche Klein	personagem	CRLF x1	相手がピンピンしてるうちは\nうんざりするぐらい、一緒にさ！		
+cev28_040.scr:12	cev28_040.scr	12	ジーニアス	Genis Sage	personagem		アーチェ……		
+cev28_040.scr:13	cev28_040.scr	13	ジーニアス	Genis Sage	personagem	CRLF x1	うん……、そうだね。\nそうだよね		
+cev28_050.scr:0	cev28_050.scr	0	マオ	Mao	personagem	CRLF x1	どうしたの、ジーニアス？\nさっきから怖い顔してさ……		
+cev28_050.scr:1	cev28_050.scr	1	ジーニアス	Genis Sage	personagem		えっ……？		
+cev28_050.scr:2	cev28_050.scr	2	ジーニアス	Genis Sage	personagem	CRLF x1	……言ってもいいんだけどさ。\n笑わない？		
+cev28_050.scr:3	cev28_050.scr	3	マオ	Mao	personagem	CRLF x1	どうして笑う必要があるの？\nちゃんと聞くから、教えてヨ		
+cev28_050.scr:4	cev28_050.scr	4	ジーニアス	Genis Sage	personagem		……えっとね……その、		
+cev28_050.scr:5	cev28_050.scr	5	ジーニアス	Genis Sage	personagem		マオは、まだ……身長、伸びてる？		
+cev28_050.scr:6	cev28_050.scr	6	マオ	Mao	personagem		身長？		
+cev28_050.scr:7	cev28_050.scr	7	マオ	Mao	personagem	CRLF x2	う〜ん、ちゃんと計った事はないけど\n多分伸びてるんじゃない？\n成長期だしネ		
+cev28_050.scr:8	cev28_050.scr	8	ジーニアス	Genis Sage	personagem		……ボクも、まだ伸びるかなぁ……		
+cev28_050.scr:9	cev28_050.scr	9	ジーニアス	Genis Sage	personagem	CRLF x2	マオとは歳が近いのに、\nもう１０センチも差があるんだもん……。\n自信なくすよ……		
+cev28_050.scr:10	cev28_050.scr	10	マオ	Mao	personagem		えっ？		
+cev28_050.scr:11	cev28_050.scr	11	マオ	Mao	personagem	CRLF x2	何だ、そんなコトで悩んでたの？\nあはははは！\n心配し過ぎだヨ〜		
+cev28_050.scr:12	cev28_050.scr	12	ジーニアス	Genis Sage	personagem	CRLF x1	ちょ、ちょっと！\n笑わないって言ったじゃないか！		
+cev28_050.scr:13	cev28_050.scr	13	ジーニアス	Genis Sage	personagem	CRLF x1	ボクは真剣なのに……。\nもう、マオのバカ！！		
+cev28_060.scr:0	cev28_060.scr	0	カイウス	Caius Qualls	personagem		じゃあな、ジーニアス！		
+cev28_060.scr:1	cev28_060.scr	1	ジーニアス	Genis Sage	personagem	CRLF x1	うん、カイウス。\nまた明日！		
+cev28_060.scr:2	cev28_060.scr	2	ジーニアス	Genis Sage	personagem		あ、姉さん……と、リタ		
+cev28_060.scr:3	cev28_060.scr	3	リタ	Rita Mordio	personagem	CRLF x1	ちょっと何よ。\nそのオマケみたいな呼び方		
+cev28_060.scr:4	cev28_060.scr	4	リフィル	Raine Sage	personagem	CRLF x1	随分楽しそうに話していたわね。\n明日もまた、会う約束を？		
+cev28_060.scr:5	cev28_060.scr	5	ジーニアス	Genis Sage	personagem	CRLF x1	うん！　\n一緒に遊ぶんだ		
+cev28_060.scr:6	cev28_060.scr	6	リフィル	Raine Sage	personagem	CRLF x1	そう。　\nいい事だわ		
+cev28_060.scr:7	cev28_060.scr	7	ジーニアス	Genis Sage	personagem	CRLF x2	ほら、カイウスってリカンツでしょ？\n獣に変身出来るから、今までと違う\n色んな遊びが出来るんじゃないかなって		
+cev28_060.scr:8	cev28_060.scr	8	ジーニアス	Genis Sage	personagem	CRLF x1	知ってた？　獣になるとね、周りの色とか\n匂いとか、全然普段と違うんだって！		
+cev28_060.scr:9	cev28_060.scr	9	ジーニアス	Genis Sage	personagem	CRLF x1	すごいなぁ……。\n一体どんな感じなんだろ		
+cev28_060.scr:10	cev28_060.scr	10	リフィル	Raine Sage	personagem	CRLF x2	ジーニアス……気持ちはわかるけれど\nあまり大きな声で「リカンツ」という\n種族名を口にしない方がいいわ		
+cev28_060.scr:11	cev28_060.scr	11	ジーニアス	Genis Sage	personagem		どうしてさ？		
+cev28_060.scr:12	cev28_060.scr	12	リタ	Rita Mordio	personagem	CRLF x1	元々は蔑称だったのよ、リカンツって。\nすっごい大昔の話だけど		
+cev28_060.scr:13	cev28_060.scr	13	ジーニアス	Genis Sage	personagem		えっ！？　そうだったの？		
+cev28_060.scr:14	cev28_060.scr	14	リフィル	Raine Sage	personagem	CRLF x2	もちろん、現在は他意なく\n種族名として使われてはいるけれど\n元々の由来を思うと……複雑なところね		
+cev28_060.scr:15	cev28_060.scr	15	リタ	Rita Mordio	personagem	CRLF x2	そう？　\n別にいいんじゃない？\n当のカイウスは気にしてないみたいだし		
+cev28_060.scr:16	cev28_060.scr	16	リタ	Rita Mordio	personagem	CRLF x1	気にし過ぎる方が\nかえって良くないでしょ、こういうの		
+cev28_060.scr:17	cev28_060.scr	17	リフィル	Raine Sage	personagem		それはそうだけれど……		
+cev28_060.scr:18	cev28_060.scr	18	リタ	Rita Mordio	personagem	CRLF x2	ま、根本は「何が差別か？」って\nとこなんでしょうけど。　あたしにとっては\n気にする方も気にしろって方も同罪ね		
+cev28_060.scr:19	cev28_060.scr	19	リフィル	Raine Sage	personagem		……リタは手厳しいわね		
+cev28_060.scr:20	cev28_060.scr	20	リタ	Rita Mordio	personagem		率直な意見を述べたまでよ		
+cev28_060.scr:21	cev28_060.scr	21	ジーニアス	Genis Sage	personagem		…………		
+cev28_070.scr:0	cev28_070.scr	0	ジーニアス	Genis Sage	personagem	CRLF x1	あ……！\nちょっと待って、カイウス！		
+cev28_070.scr:1	cev28_070.scr	1	カイウス	Caius Qualls	personagem		何だ、ジーニアスか		
+cev28_070.scr:2	cev28_070.scr	2	カイウス	Caius Qualls	personagem	CRLF x1	どうしたんだよ？\n眉間にシワが寄ってるぜ？		
+cev28_070.scr:3	cev28_070.scr	3	ジーニアス	Genis Sage	personagem		もう……茶化さないでよ		
+cev28_070.scr:4	cev28_070.scr	4	ジーニアス	Genis Sage	personagem	CRLF x1	……ほら、この間キミの事\n色々教えてもらったでしょ？		
+cev28_070.scr:5	cev28_070.scr	5	ジーニアス	Genis Sage	personagem	CRLF x2	ボク、その時に\n「リカンツってすごいね！」って\n言っちゃったけど……嫌じゃなかった？		
+cev28_070.scr:6	cev28_070.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	嫌？　\n何でだ？		
+cev28_070.scr:7	cev28_070.scr	7	ジーニアス	Genis Sage	personagem	CRLF x2	聞いたんだ。その……リカンツって\nカイウス達の種族をバカにして\n呼ぶ時の言い方だったって……		
+cev28_070.scr:8	cev28_070.scr	8	カイウス	Caius Qualls	personagem		ああ……そういう事か		
+cev28_070.scr:9	cev28_070.scr	9	カイウス	Caius Qualls	personagem	CRLF x2	確かに、昔はそうだったみたいだな。\nオレ達は珍しい種族みたいだし……\n他の奴から見たら、気味悪く思えたんだろ		
+cev28_070.scr:10	cev28_070.scr	10	ジーニアス	Genis Sage	personagem		気味悪くなんてないよ！		
+cev28_070.scr:11	cev28_070.scr	11	ジーニアス	Genis Sage	personagem	CRLF x2	ボクは……そういうの嫌なんだ。\n種族で、自分の価値まで\n決められるのって……おかしいよ！		
+cev28_070.scr:12	cev28_070.scr	12	カイウス	Caius Qualls	personagem	CRLF x1	そういえば……ジーニアスは\nハーフエルフなんだよな？		
+cev28_070.scr:13	cev28_070.scr	13	ジーニアス	Genis Sage	personagem	CRLF x2	うん……ギルドのみんなは優しいけど\nまだ、世界にはボク達への偏見が\n根強く残ってる……		
+cev28_070.scr:14	cev28_070.scr	14	カイウス	Caius Qualls	personagem	CRLF x1	差別意識……ってやつか。\n難しいよな……		
+cev28_070.scr:15	cev28_070.scr	15	ジーニアス	Genis Sage	personagem	CRLF x2	……うん。　だからボクはもう\nカイウスの事、リカンツって\n呼びたくないんだ……		
+cev28_070.scr:16	cev28_070.scr	16	ジーニアス	Genis Sage	personagem		……何も知らなくて、ごめんね		
+cev28_070.scr:17	cev28_070.scr	17	カイウス	Caius Qualls	personagem		……ジーニアス……		
+cev28_080.scr:0	cev28_080.scr	0	ジーニアス	Genis Sage	personagem		レイモーンの民……		
+cev28_080.scr:1	cev28_080.scr	1	ジーニアス	Genis Sage	personagem	CRLF x1	それが、カイウス達の種族の\n本当の名前なの？		
+cev28_080.scr:2	cev28_080.scr	2	カイウス	Caius Qualls	personagem		ああ		
+cev28_080.scr:3	cev28_080.scr	3	カイウス	Caius Qualls	personagem	CRLF x1	オレ達の種族は、レイモーンって都に\n元々は住んでたらしいんだ		
+cev28_080.scr:4	cev28_080.scr	4	カイウス	Caius Qualls	personagem	CRLF x2	だから、いつの間にかそういう名前で\n呼ばれる様になったみたいだって\nリタが教えてくれた		
+cev28_080.scr:5	cev28_080.scr	5	ジーニアス	Genis Sage	personagem	CRLF x2	そうなんだ……。\nなんだか、そっちの名前の方が\nカッコイイね！		
+cev28_080.scr:6	cev28_080.scr	6	カイウス	Caius Qualls	personagem	CRLF x2	へへっ。\nそうか？　\nありがとな		
+cev28_080.scr:7	cev28_080.scr	7	カイウス	Caius Qualls	personagem	CRLF x2	でも……ほんと言うとさ、オレ、\n別にリカンツって呼ばれても\nいいかなって思ってるんだ		
+cev28_080.scr:8	cev28_080.scr	8	ジーニアス	Genis Sage	personagem	CRLF x1	えっ……どうしてさ？\nだって、蔑称だったんでしょ？		
+cev28_080.scr:9	cev28_080.scr	9	カイウス	Caius Qualls	personagem	CRLF x2	そうだけど……ジーニアスみたいに\nバカにしようとして呼んだわけじゃ\nないなら、別にいいかなって		
+cev28_080.scr:10	cev28_080.scr	10	ジーニアス	Genis Sage	personagem	CRLF x2	そうかな……？　だって、その言葉で\n呼ばれてる限り、今じゃなくても\n昔辛い事があったのを思い出さない？		
+cev28_080.scr:11	cev28_080.scr	11	カイウス	Caius Qualls	personagem	CRLF x1	でも、それは昔の話だろ。\n今っていうわけじゃない		
+cev28_080.scr:12	cev28_080.scr	12	ジーニアス	Genis Sage	personagem	CRLF x1	それは……。\nそうなのかもしれないけど……		
+cev28_080.scr:13	cev28_080.scr	13	カイウス	Caius Qualls	personagem	CRLF x1	なぁ、オレ思うんだけど……\n本当に大事なのは、言葉そのものより		
+cev28_080.scr:14	cev28_080.scr	14	カイウス	Caius Qualls	personagem	CRLF x1	どういう気持ちでその言葉を\n使ったかって事じゃないのかな……？		
+cev28_080.scr:15	cev28_080.scr	15	ジーニアス	Genis Sage	personagem		言葉に込めた、気持ち……かぁ……		
+cev28_090.scr:0	cev28_090.scr	0	ジーニアス	Genis Sage	personagem	CRLF x1	今度の料理当番、すずだよね？\nもう何を作るか決めたの？		
+cev28_090.scr:1	cev28_090.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x1	はい。\nカレーを作るつもりです		
+cev28_090.scr:2	cev28_090.scr	2	マオ	Mao	personagem	CRLF x2	あれっ？\nすずは辛いものが\n苦手なんじゃなかったの？		
+cev28_090.scr:3	cev28_090.scr	3	すず	Suzu Fujibayashi	personagem	CRLF x2	得意ではないというだけです。\nですから、カレーは\n甘口にしようと考えています		
+cev28_090.scr:4	cev28_090.scr	4	ジーニアス	Genis Sage	personagem	CRLF x1	なるほど。\nそれなら辛くないもんね		
+cev28_090.scr:5	cev28_090.scr	5	マオ	Mao	personagem	CRLF x1	カレーっていいよネ。\nボクは甘口も中辛も、どっちも好きだヨ！		
+cev28_090.scr:6	cev28_090.scr	6	ジーニアス	Genis Sage	personagem	CRLF x1	はぁ〜。\nわかってないなぁ、マオは……		
+cev28_090.scr:7	cev28_090.scr	7	ジーニアス	Genis Sage	personagem	CRLF x1	カレーは辛いからこそ美味しいんだよ。\nそこに通の大人の味わいがあるんだ		
+cev28_090.scr:8	cev28_090.scr	8	マオ	Mao	personagem	CRLF x1	ちょっと、それってボクの事\n子ども扱いしてる？		
+cev28_090.scr:9	cev28_090.scr	9	ジーニアス	Genis Sage	personagem	CRLF x2	当然でしょ！\nカレーで甘口を食べている様じゃ\nまだまだ子どもだよ		
+cev28_090.scr:10	cev28_090.scr	10	マオ	Mao	personagem		そんな事ないヨ！！		
+cev28_090.scr:11	cev28_090.scr	11	すず	Suzu Fujibayashi	personagem		二人とも、落ち着いて下さい		
+cev28_090.scr:12	cev28_090.scr	12	すず	Suzu Fujibayashi	personagem	CRLF x1	食べ物の話題で喧嘩をするなんて\n子どものする事です		
+cev28_090.scr:13	cev28_090.scr	13	すず	Suzu Fujibayashi	personagem	CRLF x1	こんな事で感情を乱す様では\nまだまだ修行が足りませんね		
+cev28_100.scr:0	cev28_100.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	しかしこの船、\n結構高い所を飛んでるよなぁ……		
+cev28_100.scr:1	cev28_100.scr	1	リッド	Reid Hershel	personagem	CRLF x1	ああ。\n落ちたら多分、ひとたまりもないな……		
+cev28_100.scr:2	cev28_100.scr	2	チェスター	Chester Barklight	personagem	CRLF x1	おい、やめろって！\n不吉な事言うなよ		
+cev28_100.scr:3	cev28_100.scr	3	ジーニアス	Genis Sage	personagem	CRLF x2	馬鹿だなぁ。\nこの船が落ちるなんて、\nそんな事あるはずないじゃない		
+cev28_100.scr:4	cev28_100.scr	4	ジーニアス	Genis Sage	personagem	CRLF x2	整備は毎日入念にされてるし、\nそもそも星晶を消費せずに動くから\nエネルギー切れの心配もない		
+cev28_100.scr:5	cev28_100.scr	5	ジーニアス	Genis Sage	personagem	CRLF x2	この船を落としたかったら、\n大型戦艦でも用意しないと\n無理だろうね		
+cev28_100.scr:6	cev28_100.scr	6	リッド	Reid Hershel	personagem	CRLF x2	大型戦艦だぁ？\nそんなもん、そうそう\nお目にかかる機会なんてねえよ		
+cev28_100.scr:7	cev28_100.scr	7	ジーニアス	Genis Sage	personagem	CRLF x1	そうだよ。\nだから、この船は「落ちない」んだ		
+cev28_100.scr:8	cev28_100.scr	8	ジーニアス	Genis Sage	personagem		わかってもらえた？		
+cev28_100.scr:9	cev28_100.scr	9	リッド	Reid Hershel	personagem		なるほどな……		
+cev28_100.scr:10	cev28_100.scr	10	リッド	Reid Hershel	personagem		おかげさまで、よ〜くわかったよ		
+cev28_100.scr:11	cev28_100.scr	11	チェスター	Chester Barklight	personagem	CRLF x2	ああ。\nジーニアスは、こまっしゃくれた\nガキだって事がな		
+cev28_100.scr:12	cev28_100.scr	12	ジーニアス	Genis Sage	personagem	CRLF x1	ちょ、ちょっと！\nそれどういう意味？		
+cev28_200.scr:0	cev28_200.scr	0	ジーニアス	Genis Sage	personagem	CRLF x1	通常。\n		
+cev28_200.scr:1	cev28_200.scr	1	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:2	cev28_200.scr	2	ジーニアス	Genis Sage	personagem	CRLF x1	笑い。\n		
+cev28_200.scr:3	cev28_200.scr	3	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:4	cev28_200.scr	4	ジーニアス	Genis Sage	personagem	CRLF x1	怒り。\n		
+cev28_200.scr:5	cev28_200.scr	5	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:6	cev28_200.scr	6	ジーニアス	Genis Sage	personagem	CRLF x1	悲しみ。\n		
+cev28_200.scr:7	cev28_200.scr	7	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:8	cev28_200.scr	8	ジーニアス	Genis Sage	personagem	CRLF x1	がっくし。\n		
+cev28_200.scr:9	cev28_200.scr	9	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:10	cev28_200.scr	10	ジーニアス	Genis Sage	personagem	CRLF x1	照れ。\n		
+cev28_200.scr:11	cev28_200.scr	11	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:12	cev28_200.scr	12	ジーニアス	Genis Sage	personagem	CRLF x1	落ち込み。\n		
+cev28_200.scr:13	cev28_200.scr	13	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:14	cev28_200.scr	14	ジーニアス	Genis Sage	personagem	CRLF x1	驚き。\n		
+cev28_200.scr:15	cev28_200.scr	15	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:16	cev28_200.scr	16	ジーニアス	Genis Sage	personagem	CRLF x1	通常。\n		
+cev28_200.scr:17	cev28_200.scr	17	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:18	cev28_200.scr	18	ジーニアス	Genis Sage	personagem	CRLF x1	笑い。\n		
+cev28_200.scr:19	cev28_200.scr	19	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:20	cev28_200.scr	20	ジーニアス	Genis Sage	personagem	CRLF x1	怒り。\n		
+cev28_200.scr:21	cev28_200.scr	21	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:22	cev28_200.scr	22	ジーニアス	Genis Sage	personagem	CRLF x1	悲しみ。\n		
+cev28_200.scr:23	cev28_200.scr	23	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:24	cev28_200.scr	24	ジーニアス	Genis Sage	personagem	CRLF x1	がっくし。\n		
+cev28_200.scr:25	cev28_200.scr	25	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:26	cev28_200.scr	26	ジーニアス	Genis Sage	personagem	CRLF x1	照れ。\n		
+cev28_200.scr:27	cev28_200.scr	27	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:28	cev28_200.scr	28	ジーニアス	Genis Sage	personagem	CRLF x1	落ち込み。\n		
+cev28_200.scr:29	cev28_200.scr	29	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:30	cev28_200.scr	30	ジーニアス	Genis Sage	personagem	CRLF x1	驚き。\n		
+cev28_200.scr:31	cev28_200.scr	31	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:32	cev28_200.scr	32	ジーニアス	Genis Sage	personagem	CRLF x1	通常。\n		
+cev28_200.scr:33	cev28_200.scr	33	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:34	cev28_200.scr	34	ジーニアス	Genis Sage	personagem	CRLF x1	笑い。\n		
+cev28_200.scr:35	cev28_200.scr	35	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:36	cev28_200.scr	36	ジーニアス	Genis Sage	personagem	CRLF x1	怒り。\n		
+cev28_200.scr:37	cev28_200.scr	37	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:38	cev28_200.scr	38	ジーニアス	Genis Sage	personagem	CRLF x1	悲しみ。\n		
+cev28_200.scr:39	cev28_200.scr	39	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:40	cev28_200.scr	40	ジーニアス	Genis Sage	personagem	CRLF x1	がっくし。\n		
+cev28_200.scr:41	cev28_200.scr	41	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:42	cev28_200.scr	42	ジーニアス	Genis Sage	personagem	CRLF x1	照れ。\n		
+cev28_200.scr:43	cev28_200.scr	43	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:44	cev28_200.scr	44	ジーニアス	Genis Sage	personagem	CRLF x1	落ち込み。\n		
+cev28_200.scr:45	cev28_200.scr	45	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev28_200.scr:46	cev28_200.scr	46	ジーニアス	Genis Sage	personagem	CRLF x1	驚き。\n		
+cev28_200.scr:47	cev28_200.scr	47	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

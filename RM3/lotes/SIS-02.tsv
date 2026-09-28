@@ -1,0 +1,59 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	va_ponteiros	ocorrencias
+quests_sistema#0	quests_sistema	0	(sistema)	(system)	sistema		現在受けているクエストはありません			0x08D83230	1
+quests_sistema#1	quests_sistema	1	(sistema)	(system)	sistema	%d x1 %s x1	%sのモンスターを%d匹退治せよ！！			0x08D83234	1
+quests_sistema#2	quests_sistema	2	(sistema)	(system)	sistema	%d x1 %s x1	%sを%d匹退治せよ！！			0x08D83238;0x08D8323C	2
+quests_sistema#3	quests_sistema	3	(sistema)	(system)	sistema	%d x1 %s x1	%sを%d個ゲットしろ！！			0x08D83240;0x08D83244;0x08D83248	3
+quests_sistema#4	quests_sistema	4	(sistema)	(system)	sistema		青い宝箱から、目的の品をゲットしろ！！			0x08D8324C;0x08D83268	2
+quests_sistema#5	quests_sistema	5	(sistema)	(system)	sistema	%s x1	%sと対決して勝利せよ！！			0x08D83250	1
+quests_sistema#6	quests_sistema	6	(sistema)	(system)	sistema	%s x1	%sを退治せよ！！			0x08D83254	1
+quests_sistema#7	quests_sistema	7	(sistema)	(system)	sistema		なし			0x08D83258;0x08D83264;0x08D8326C;0x08D83274	4
+quests_sistema#8	quests_sistema	8	(sistema)	(system)	sistema		緑道　３を目指せ！			0x08D8325C	1
+quests_sistema#9	quests_sistema	9	(sistema)	(system)	sistema		ハナアブラダケを10個ゲットしろ！			0x08D83260	1
+quests_sistema#10	quests_sistema	10	(sistema)	(system)	sistema		４層　最深ポイントを目指せ！			0x08D83270	1
+quests_sistema#11	quests_sistema	11	(sistema)	(system)	sistema		クレスの仲間を探し出せ！			0x08D83278	1
+quests_sistema#12	quests_sistema	12	(sistema)	(system)	sistema		ウッドロウを探し出せ！			0x08D8327C	1
+quests_sistema#13	quests_sistema	13	(sistema)	(system)	sistema		少年剣士を探し出せ！			0x08D83280	1
+quests_sistema#14	quests_sistema	14	(sistema)	(system)	sistema		弓使いの少女を探し出せ！			0x08D83284	1
+quests_sistema#15	quests_sistema	15	(sistema)	(system)	sistema		ギルドに招いた教師を探し出せ！			0x08D83288	1
+quests_sistema#16	quests_sistema	16	(sistema)	(system)	sistema		ロイドの仲間を探し出せ！			0x08D8328C	1
+quests_sistema#17	quests_sistema	17	(sistema)	(system)	sistema		ジーニアスの友達を探し出せ！			0x08D83290	1
+quests_sistema#18	quests_sistema	18	(sistema)	(system)	sistema		ユージーンの仲間を探し出せ！			0x08D83294	1
+quests_sistema#19	quests_sistema	19	(sistema)	(system)	sistema		この土地に潜む悪漢を追え！			0x08D83298	1
+quests_sistema#20	quests_sistema	20	(sistema)	(system)	sistema		ノーマを探し出せ！			0x08D8329C	1
+quests_sistema#21	quests_sistema	21	(sistema)	(system)	sistema		ジェイを探し出せ！			0x08D832A0	1
+quests_sistema#22	quests_sistema	22	(sistema)	(system)	sistema		ルークの仲間を探し出せ！			0x08D832A4	1
+quests_sistema#23	quests_sistema	23	(sistema)	(system)	sistema		ジェイドの部下を探し出せ！			0x08D832A8	1
+quests_sistema#24	quests_sistema	24	(sistema)	(system)	sistema		リカルドを探し出せ！			0x08D832AC	1
+quests_sistema#25	quests_sistema	25	(sistema)	(system)	sistema		フレンを探し出せ！			0x08D832B0	1
+quests_sistema#26	quests_sistema	26	(sistema)	(system)	sistema		誘拐犯と被害者を探し出せ！			0x08D832B4	1
+quests_sistema#27	quests_sistema	27	(sistema)	(system)	sistema		アスベルの仲間を探し出せ！			0x08D832B8	1
+quests_sistema#28	quests_sistema	28	(sistema)	(system)	sistema		ワンダーパン職人を探し出せ！			0x08D832BC	1
+quests_sistema#29	quests_sistema	29	(sistema)	(system)	sistema		ミミーを探し出せ！			0x08D832C0;0x08D832C4;0x08D832C8;0x08D832CC	4
+quests_sistema#30	quests_sistema	30	(sistema)	(system)	sistema		ポッポを探し出せ！			0x08D832D0	1
+quests_sistema#31	quests_sistema	31	(sistema)	(system)	sistema	%d x1 %s x1	%sを%d個入手しました			0x08D83300	1
+quests_sistema#32	quests_sistema	32	(sistema)	(system)	sistema	%d x1	%dガルド得ました			0x08D83304	1
+quests_sistema#33	quests_sistema	33	(sistema)	(system)	sistema		バンエルティア号に戻りますか？			0x08D83308	1
+quests_sistema#34	quests_sistema	34	(sistema)	(system)	sistema	%d x1 %s x1	%sを%d個入手出来ませんでした			0x08D8330C	1
+quests_sistema#35	quests_sistema	35	(sistema)	(system)	sistema		アイテムを渡しますか？			0x08D83310	1
+quests_sistema#36	quests_sistema	36	(sistema)	(system)	sistema		アイテムを納品しています			0x08D83314	1
+quests_sistema#37	quests_sistema	37	(sistema)	(system)	sistema	%d x1 %s x1	%sを%d個渡しました			0x08D83318	1
+quests_sistema#38	quests_sistema	38	(sistema)	(system)	sistema		クエストを破棄しますか？			0x08D8331C	1
+quests_sistema#39	quests_sistema	39	(sistema)	(system)	sistema		このクエストを受けますか？			0x08D83324	1
+quests_sistema#40	quests_sistema	40	(sistema)	(system)	sistema	%s x1	%sを入手しました			0x08D83328	1
+quests_sistema#41	quests_sistema	41	(sistema)	(system)	sistema		パッと戻れるのは、クエストを達成した後だけです			0x08D8332C	1
+quests_sistema#42	quests_sistema	42	(sistema)	(system)	sistema	%s x1	%sの討伐に成功しました			0x08D83330	1
+quests_sistema#43	quests_sistema	43	(sistema)	(system)	sistema		ターゲットをパーティから外してください			0x08D83334	1
+quests_sistema#44	quests_sistema	44	(sistema)	(system)	sistema		パーティの人数がメンバー数を超えています			0x08D83338	1
+quests_sistema#45	quests_sistema	45	(sistema)	(system)	sistema	%d x1	このクエストを受けるにはあと%d人の空きが必要です			0x08D8333C	1
+quests_sistema#46	quests_sistema	46	(sistema)	(system)	sistema		パーティを解散してこのクエストを受けますか？			0x08D83340	1
+quests_sistema#47	quests_sistema	47	(sistema)	(system)	sistema	%s x1	%sを破棄しました			0x08D83350	1
+quests_sistema#48	quests_sistema	48	(sistema)	(system)	sistema		パーティ編成に制限があるクエストです			0x08D83354	1
+quests_sistema#49	quests_sistema	49	(sistema)	(system)	sistema	%d x1	パーティ人数は%d人以内で編成する必要があります			0x08D83358	1
+quests_sistema#50	quests_sistema	50	(sistema)	(system)	sistema	%s x1	メンバーに%sが指定されています			0x08D8335C	1
+quests_sistema#51	quests_sistema	51	(sistema)	(system)	sistema		パーティ解散中			0x08D83360	1
+quests_sistema#52	quests_sistema	52	(sistema)	(system)	sistema		パーティ編成中			0x08D83364	1
+quests_sistema#53	quests_sistema	53	(sistema)	(system)	sistema	%s x1	現在のメンバーは%sです			0x08D83368	1
+quests_sistema#54	quests_sistema	54	(sistema)	(system)	sistema		パーティを再編成してこのクエストを受けますか？			0x08D8336C	1
+quests_sistema#55	quests_sistema	55	(sistema)	(system)	sistema	LF x1	パーティから外れるメンバーの\n装備を全て外しますか？			0x08D83370	1
+quests_sistema#56	quests_sistema	56	(sistema)	(system)	sistema	LF x1	アイテムが一杯なので、\n装備を解除することが出来ませんでした			0x08D83374	1
+quests_sistema#57	quests_sistema	57	(sistema)	(system)	sistema	LF x1	アイテムが一杯なので、\n全員の装備を解除することが出来ませんでした			0x08D83378	1

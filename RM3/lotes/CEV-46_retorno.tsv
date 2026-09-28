@@ -1,0 +1,197 @@
+﻿id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev46_010.scr:0	cev46_010.scr	0	クロエ	Chloe Valens	personagem	CRLF x2	（くっ、どうして私が\n　よりによって甲板掃除の\n　当番などに……！）	(Ugh, why did I of all people\n have to end up on deck cleaning\n duty, of all things...?!)	
+cev46_010.scr:1	cev46_010.scr	1	クロエ	Chloe Valens	personagem	CRLF x2	（下は海なのか…。\n　でも、泳げなくて海が怖いから\n　当番を代わってくれなんて言えないし…）	(Below is the ocean... But I can't\n say I'm scared of the sea 'cause\n I can't swim, and ask to trade...)	
+cev46_010.scr:2	cev46_010.scr	2	クロエ	Chloe Valens	personagem	CRLF x2	（大丈夫、怖くない。\n　落ち着け。\n　これさえ終われば……）	(It's alright, I'm not scared.\n Calm down.\n Once this is finished...)	
+cev46_010.scr:3	cev46_010.scr	3	ヒスイ	Hisui Hearts	personagem	CRLF x2	（クソッ、何でよりによって俺が\n　甲板の掃除当番なんかやんなきゃ\n　なんねーんだよ！）	(Dammit, why of all people do I\n have to be on deck cleaning duty,\n for cryin' out loud?!)	
+cev46_010.scr:4	cev46_010.scr	4	ヒスイ	Hisui Hearts	personagem	CRLF x1	（うう、この揺れ……おえっぷ。\n　どうにかなんねえのか……！？）	(Ugh, this swaying... *urp*.\n Can't someone fix this ship...?! )	
+cev46_010.scr:5	cev46_010.scr	5	ヒスイ	Hisui Hearts	personagem	CRLF x2	（いや、そんな事より下は海…。\n　落ちねぇよな、この船……？\n　もし落ちたりなんてしたら……）	(No, forget that, the sea is below...\n This ship won't drop, right...?\n What if I fall into the water...?!)	
+cev46_010.scr:6	cev46_010.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	でさ、あの時のロニの顔！\nデレーって鼻の下伸ばしちゃって	And then, Loni's face back then!\nHe was totally ogling her with a grin.	
+cev46_010.scr:7	cev46_010.scr	7	ルカ	Ruca Milda	personagem	CRLF x1	あはは。\nその顔、目に浮かぶみたいだよ	Ahaha.\nI can picture that face clearly.	
+cev46_010.scr:8	cev46_010.scr	8	カイウス	Caius Qualls	personagem		……、あの二人、何してんだ？	...What are those two doing?	
+cev46_010.scr:9	cev46_010.scr	9	ルカ	Ruca Milda	personagem	CRLF x1	風に当たってるんじゃないかな？\n今日は潮風が気持ちいいし	Getting some fresh air, maybe?\nThe sea breeze feels nice today.	
+cev46_010.scr:10	cev46_010.scr	10	カイウス	Caius Qualls	personagem		ルカ、ちょっと耳貸せよ	Ruca, lend me your ear for a sec.	
+cev46_010.scr:11	cev46_010.scr	11	ルカ	Ruca Milda	personagem		えー、そんなの危ないよ！	Ehh, that's dangerous!	
+cev46_010.scr:12	cev46_010.scr	12	カイウス	Caius Qualls	personagem	CRLF x2	しっ！　\n大丈夫だって、\n落ちやしないって	Shh!\nIt'll be fine,\nthey won't fall off!	
+cev46_010.scr:13	cev46_010.scr	13	ルカ	Ruca Milda	personagem		で、でも……	B-But......	
+cev46_010.scr:14	cev46_010.scr	14	カイウス	Caius Qualls	personagem		いいから、行くぞ	Just come on, let's do it!	
+cev46_010.scr:15	cev46_010.scr	15	(narracao)	(narracao)	narracao		せーのっ！	Ready, set...!	
+cev46_010.scr:16	cev46_010.scr	16	(narracao)	(narracao)	narracao		わーーーーーっ！！！！！	BOOOOOOOOO!!!!!	
+cev46_010.scr:17	cev46_010.scr	17	(narracao)	(narracao)	narracao		ひっ……！	Eeep...!!	
+cev46_010.scr:18	cev46_010.scr	18	カイウス	Caius Qualls	personagem	CRLF x2	何だ、\nあんまり面白い反応じゃなかったなあ。\n行こうぜ、ルカ	What the heck?\nThat wasn't a fun reaction at all.\nLet's go, Ruca.	
+cev46_010.scr:19	cev46_010.scr	19	ルカ	Ruca Milda	personagem	CRLF x2	え、え？\nあ、うん。\nご、ごめんなさい	Eh, wha...?\nAh, okay.\nS-Sorry about that!	
+cev46_010.scr:20	cev46_010.scr	20	コレット	Colette Brunel	personagem	CRLF x2	うわー、ふたりでお昼寝してるの、\nいいな、いいなぁ〜。\n私も一緒にお昼寝しよーっと∀	Whoa, the two of you are napping?\nHow nice, looks so cozy~\nI'll take a nap together too!	
+cev46_020.scr:0	cev46_020.scr	0	シャーリィ	Shirley Fennes	personagem	CRLF x1	もう、お兄ちゃんったら\n全然言う事聞いてくれなくて	Jeez, big brother just won't\nlisten to a word I say.	
+cev46_020.scr:1	cev46_020.scr	1	クロエ	Chloe Valens	personagem	CRLF x1	ふふ。\nクーリッジらしいじゃないか	Fufu.\nSounds just like Coolidge.	
+cev46_020.scr:2	cev46_020.scr	2	シャーリィ	Shirley Fennes	personagem	CRLF x1	今度、クロエさんからも\n言って下さいね	Could you tell him too next time,\nChloe?	
+cev46_020.scr:3	cev46_020.scr	3	クロエ	Chloe Valens	personagem	CRLF x1	え……わ、私が言うのか？\nかえって迷惑になったりは……	Eh... M-Me? Tell him?\nWouldn't that be a nuisance...?	
+cev46_020.scr:4	cev46_020.scr	4	クロエ	Chloe Valens	personagem	CRLF x1	は……、は……、\nはっくしょん！	Ah... ah...\nAtchoo!!	
+cev46_020.scr:5	cev46_020.scr	5	シャーリィ	Shirley Fennes	personagem		クロエさん、大丈……	Chloe, are you alrigh--	
+cev46_020.scr:6	cev46_020.scr	6	シャーリィ	Shirley Fennes	personagem	CRLF x1	………………、\nくしゅん……！	......\n*sniffle*... Atchoo!	
+cev46_020.scr:7	cev46_020.scr	7	アーチェ	Arche Klein	personagem	CRLF x2	ちょっとちょっと、\n二人してくしゃみなんて\nもしかして風邪？	Hold on, hold on!\nBoth of you sneezing like that...\nCould it be a cold?	
+cev46_020.scr:8	cev46_020.scr	8	クロエ	Chloe Valens	personagem	CRLF x1	いや、これは……、\nたまたまというか……	No, this is...\njust a coincidence, or rather...	
+cev46_020.scr:9	cev46_020.scr	9	アーチェ	Arche Klein	personagem	CRLF x1	はいはい、わかってますって〜。\nこのアーチェさんに任せなさい！	Yeah, yeah, I get it~\nLeave it to Arche here!	
+cev46_020.scr:10	cev46_020.scr	10	アーチェ	Arche Klein	personagem	CRLF x2	じゃじゃじゃじゃ〜〜ん！\n風邪にはもってこいの\nスペシャルドリンクだよ∀	Ta-daaa-da-daaa!\nThis special drink is\njust the thing for a cold!	
+cev46_020.scr:11	cev46_020.scr	11	クロエ	Chloe Valens	personagem		こ……この強烈な……	Th-This intensely potent...	
+cev46_020.scr:12	cev46_020.scr	12	シャーリィ	Shirley Fennes	personagem	CRLF x1	何とも言えない……\n臭いは……？	indescribable...\nsmell is...?	
+cev46_020.scr:13	cev46_020.scr	13	アーチェ	Arche Klein	personagem	CRLF x2	これを飲んだらね、チェスターの風邪も\n一発で治っちゃったんだから。\nささ、ぐぐ〜〜〜っと飲んじゃって！	When Chester drank this, his cold was\ncured in one shot! Come on, chug it\nall down right now!	
+cev46_020.scr:14	cev46_020.scr	14	クロエ	Chloe Valens	personagem	CRLF x1	そ……そうなのか……。\nそれじゃ……	I-Is that so...?\nWell then...	
+cev46_020.scr:15	cev46_020.scr	15	シャーリィ	Shirley Fennes	personagem		いただきます……	Down the hatch......	
+cev46_020.scr:16	cev46_020.scr	16	アーチェ	Arche Klein	personagem	CRLF x1	どうどう？\n結構イケてない！？	How is it? How is it?\nPretty tasty, right?!	
+cev46_020.scr:17	cev46_020.scr	17	アーチェ	Arche Klein	personagem	CRLF x1	ありゃ？\n二人とももう寝ちゃうの？	Huh?\nBoth of you are going to sleep already?	
+cev46_020.scr:18	cev46_020.scr	18	アーチェ	Arche Klein	personagem	CRLF x2	……ま、いっか！\n風邪には薬と、たっぷりの睡眠が\nよく効くもんね∀	...Well, whatever!\nMedicine and plenty of sleep work\nwonders on a cold, after all!	
+cev46_030.scr:0	cev46_030.scr	0	クロエ	Chloe Valens	personagem	CRLF x1	その時、私が\nその悪漢を打ち倒したのだ！	At that very moment,\nI struck down the villain!	
+cev46_030.scr:1	cev46_030.scr	1	クロエ	Chloe Valens	personagem	CRLF x1	結果、女性は無事救出され\n一件落着……というわけだな	In the end, the lady was safely rescued,\nand all was settled, you see.	
+cev46_030.scr:2	cev46_030.scr	2	コレット	Colette Brunel	personagem		すごーい！	Amaaazing!	
+cev46_030.scr:3	cev46_030.scr	3	コレット	Colette Brunel	personagem	CRLF x1	クロエは強いんだね。\nみんなの味方なんだ	You're so strong, Chloe!\nYou're everyone's friend!	
+cev46_030.scr:4	cev46_030.scr	4	クロエ	Chloe Valens	personagem	CRLF x2	そ、それ程の事ではない……。\n私は騎士として、当然の事を\nしただけなのだからな	I-It was nothing so grand...\nAs a knight, I simply did\nwhat was natural.	
+cev46_030.scr:5	cev46_030.scr	5	コレット	Colette Brunel	personagem	CRLF x1	当然の事？　\nそうなの？	What was natural?\nIs that so?	
+cev46_030.scr:6	cev46_030.scr	6	クロエ	Chloe Valens	personagem	CRLF x1	ああ。\nそれに私は「みんなの味方」ではない	"Yes.\nBesides, I'm not ""everyone's friend."""	
+cev46_030.scr:7	cev46_030.scr	7	クロエ	Chloe Valens	personagem	CRLF x2	悪党は敵だ。\n善良な市民を脅かす輩は\n騎士として、放ってはおけない	Villains are enemies.\nThose who threaten good citizens cannot\nbe overlooked by a knight.	
+cev46_030.scr:8	cev46_030.scr	8	コレット	Colette Brunel	personagem	CRLF x1	あれ、クラトスさん？\nお話、最後まで聞かないの？	Huh, Kratos?\nAren't you going to hear the story?	
+cev46_030.scr:9	cev46_030.scr	9	クラトス	Kratos Aurion	personagem	CRLF x2	……ああ。\n正義の味方ごっこの武勇伝を\n聞いていても意味がなかろう	...No.\nListening to heroic tales of playing\nhero of justice serves no purpose.	
+cev46_030.scr:10	cev46_030.scr	10	クロエ	Chloe Valens	personagem	CRLF x2	……「ごっこ」だと？　\n無礼な……！\n貴公は、私を侮辱するのか！	"...""Playing"" hero?!\nInsolent...!\nDo you dare insult me?!"	
+cev46_030.scr:11	cev46_030.scr	11	クラトス	Kratos Aurion	personagem	CRLF x2	侮辱と受け取るならそれもよかろう。\n……この程度の事もわからず騎士を\n名乗る様では、器が知れるな	Take it as an insult if you will.\nCalling yourself a knight without\ngrasping this shows your caliber.	
+cev46_030.scr:12	cev46_030.scr	12	クロエ	Chloe Valens	personagem	CRLF x1	な……！\nおい、逃げるのか、卑怯だぞ！！	Wh-What...!\nHey, running away is cowardly!!	
+cev46_030.scr:13	cev46_030.scr	13	コレット	Colette Brunel	personagem		…………	......	
+cev46_040.scr:0	cev46_040.scr	0	クロエ	Chloe Valens	personagem	CRLF x1	コレット。\nアウリオンから話を聞いてきたぞ	Colette.\nI went and spoke with Aurion.	
+cev46_040.scr:1	cev46_040.scr	1	コレット	Colette Brunel	personagem	CRLF x1	お話し出来たの？　\n良かったね！	You got to talk?\nThat's great!	
+cev46_040.scr:2	cev46_040.scr	2	コレット	Colette Brunel	personagem	CRLF x1	ね？\nクラトスさん、怒ってなかったでしょ？	See?\nKratos wasn't mad, was he?	
+cev46_040.scr:3	cev46_040.scr	3	クロエ	Chloe Valens	personagem		ああ……怒ってはいなかったが……	Yeah... He wasn't mad, but...	
+cev46_040.scr:4	cev46_040.scr	4	コレット	Colette Brunel	personagem	CRLF x2	……クロエ？　どしたの？\nやっぱり、私が付いていった方が\n良かったかな……？	...Chloe? What's wrong?\nWould it have been better if I\nhad gone with you after all...?	
+cev46_040.scr:5	cev46_040.scr	5	クロエ	Chloe Valens	personagem	CRLF x2	ああ、いや、違うんだ。\n私がそう望んだのだから、\nコレットが気に病む事はない	Ah, no, that's not it.\nI wanted to go alone, so you have\nno reason to worry, Colette.	
+cev46_040.scr:6	cev46_040.scr	6	コレット	Colette Brunel	personagem		じゃあ、どうして元気がないの？	Then why do you seem so down?	
+cev46_040.scr:7	cev46_040.scr	7	クロエ	Chloe Valens	personagem		いや……何というか	Well... How should I put it...	
+cev46_040.scr:8	cev46_040.scr	8	クロエ	Chloe Valens	personagem	CRLF x1	アウリオンの言葉は\n難解だな……と思ってな……	I was thinking Aurion's words\nare quite difficult to decipher...	
+cev46_040.scr:9	cev46_040.scr	9	コレット	Colette Brunel	personagem	CRLF x2	うん、クラトスさんはいつもそうだよ。\nきっとこれまで、たくさん\n色んな勉強をしてきたんだね	Yeah, Kratos is always like that.\nHe must have studied so many things\nthroughout his life.	
+cev46_040.scr:10	cev46_040.scr	10	クロエ	Chloe Valens	personagem	CRLF x1	コレットは、アウリオンの言う\n言葉の意味がわかるのか？	Do you understand what Aurion means\nwhen he speaks, Colette?	
+cev46_040.scr:11	cev46_040.scr	11	コレット	Colette Brunel	personagem	CRLF x2	……うんとね……言葉は難しいけど\n優しい気持ちは、いつも\n伝わってくるよ	...Well, his words are hard,\nbut his gentle heart always comes\nthrough clearly to me.	
+cev46_040.scr:12	cev46_040.scr	12	クロエ	Chloe Valens	personagem		……優しい気持ち……か	...A gentle heart, hm...?	
+cev46_040.scr:13	cev46_040.scr	13	クロエ	Chloe Valens	personagem	CRLF x2	なるほど……。\n物事には、確かに様々な\n解釈の仕方がある様だ	I see...\nIndeed, there seem to be many different\nways to interpret things.	
+cev46_040.scr:14	cev46_040.scr	14	クロエ	Chloe Valens	personagem		……私もまだまだ、だな	...I still have a long way to go.	
+cev46_040.scr:15	cev46_040.scr	15	コレット	Colette Brunel	personagem		？？	??	
+cev46_050.scr:0	cev46_050.scr	0	クレス	Cress Albane	personagem	CRLF x2	ふぅー……、クロエは強いな。\n女性でここまでの使い手に\n出会うのは、初めてだよ	Phew... You're strong, Chloe.\nIt's my first time meeting a female\nswordsman of your caliber.	
+cev46_050.scr:1	cev46_050.scr	1	クロエ	Chloe Valens	personagem	CRLF x1	私は騎士だ。\n騎士に性別は関係ない	I am a knight.\nGender has nothing to do with it.	
+cev46_050.scr:2	cev46_050.scr	2	クロエ	Chloe Valens	personagem	CRLF x1	いざという時、務めを果たせなければ\n意味がないのだからな	If I cannot fulfill my duty in a pinch,\nmy blade is meaningless.	
+cev46_050.scr:3	cev46_050.scr	3	クレス	Cress Albane	personagem	CRLF x2	それはそうだけど……。\nでも、どうしてわざわざ\n騎士になろうと思ったんだい？	That's true, but...\nWhy did you specifically choose\nto become a knight?	
+cev46_050.scr:4	cev46_050.scr	4	クロエ	Chloe Valens	personagem	CRLF x2	……私は、\n騎士の名門ヴァレンス家の人間だ。\n家名に泥を塗るわけにはいかない	...I hail from the Valens family,\na prestigious line of knights.\nI cannot dishonor our name.	
+cev46_050.scr:5	cev46_050.scr	5	クレス	Cress Albane	personagem		へぇ……、そうなんだ	Ohh... I see.	
+cev46_050.scr:6	cev46_050.scr	6	クレス	Cress Albane	personagem	CRLF x1	普通の、貴族のお嬢様とは違うんだね。\nさすが、騎士の名門は違うなあ	You're unlike ordinary noble ladies.\nAs expected from a prestigious house!	
+cev46_050.scr:7	cev46_050.scr	7	クレス	Cress Albane	personagem	CRLF x1	あれっ、クロエ？　\nどうしたんだい？	Wait, Chloe?\nWhat's the matter?	
+cev46_050.scr:8	cev46_050.scr	8	クレス	Cress Albane	personagem	CRLF x1	……、……何か、\n気に障る事を言ったかな？	...Did I say something\nthat offended you?	
+cev46_060.scr:0	cev46_060.scr	0	クロエ	Chloe Valens	personagem		４９７、４９８、４９９……！	497, 498, 499...!	
+cev46_060.scr:1	cev46_060.scr	1	クロエ	Chloe Valens	personagem		５００……！！	500...!!	
+cev46_060.scr:2	cev46_060.scr	2	クロエ	Chloe Valens	personagem	CRLF x1	ふぅ……。\nこれで、素振りは一通り終わり……と	Phew...\nThat finishes this set of practice swings.	
+cev46_060.scr:3	cev46_060.scr	3	クレス	Cress Albane	personagem	CRLF x1	やぁ、クロエ。\n今日も気合いが入っているね	Hey, Chloe.\nYou're fired up today too, I see.	
+cev46_060.scr:4	cev46_060.scr	4	クロエ	Chloe Valens	personagem		ああ……、アルベインか	Ah... Albane.	
+cev46_060.scr:5	cev46_060.scr	5	クロエ	Chloe Valens	personagem	CRLF x2	当然だ。\n日々の鍛錬を欠かして、\n実戦で力は発揮出来ないからな	Of course.\nIf one neglects daily training,\none cannot perform in true battle.	
+cev46_060.scr:6	cev46_060.scr	6	クレス	Cress Albane	personagem	CRLF x1	……僕の気のせいだったらごめん。\nでも、一つだけ聞かせて欲しいんだ	...Forgive me if it's my imagination.\nThere's just one thing I want to ask.	
+cev46_060.scr:7	cev46_060.scr	7	クレス	Cress Albane	personagem	CRLF x1	君には、誰か明確に\n倒したいと思う相手がいるのかい？	Do you have someone specific\nthat you are resolved to strike down?	
+cev46_060.scr:8	cev46_060.scr	8	クロエ	Chloe Valens	personagem		な……！	Wh-What...?!	
+cev46_060.scr:9	cev46_060.scr	9	クレス	Cress Albane	personagem	CRLF x1	君が剣に打ち込む姿を見ていると……、\n時々、強い気迫を感じる事があるんだ	Watching you devote yourself to the blade,\nI sometimes sense a fierce spirit.	
+cev46_060.scr:10	cev46_060.scr	10	クレス	Cress Albane	personagem	CRLF x1	まるで、倒す相手を思い描いて\n剣を振るっている様な……	Almost as if you're swinging your sword\nwith your target pictured in your mind...	
+cev46_060.scr:11	cev46_060.scr	11	クロエ	Chloe Valens	personagem		…………	......	
+cev46_060.scr:12	cev46_060.scr	12	クレス	Cress Albane	personagem	CRLF x1	もちろん、無理に事情を\n聞き出したいとは思っていないよ	Of course, I don't intend to force\nthe truth out of you.	
+cev46_060.scr:13	cev46_060.scr	13	クレス	Cress Albane	personagem	CRLF x2	ただ……、\n太刀筋は言葉以上に雄弁だ。\nだから……	However...\nSwordplay speaks louder than words.\nAnd so...	
+cev46_060.scr:14	cev46_060.scr	14	クロエ	Chloe Valens	personagem	CRLF x1	……驚いた。\nアルベインの想像力は豊かなのだな	...I am surprised.\nYou have a vivid imagination, Albane.	
+cev46_060.scr:15	cev46_060.scr	15	クレス	Cress Albane	personagem		え？	Huh?	
+cev46_060.scr:16	cev46_060.scr	16	クロエ	Chloe Valens	personagem	CRLF x1	だが、それはあくまで貴公の想像だ。\n心配はいらない	However, that is merely your imagination.\nThere is no need to worry.	
+cev46_060.scr:17	cev46_060.scr	17	クロエ	Chloe Valens	personagem	CRLF x1	……すまないが、休ませてもらうよ。\n少し疲れたのでな……	...Excuse me, but I shall go rest.\nI am a bit fatigued...	
+cev46_060.scr:18	cev46_060.scr	18	クレス	Cress Albane	personagem		……クロエ……	...Chloe...	
+cev46_070.scr:0	cev46_070.scr	0	シェリア	Cheria Barnes	personagem	CRLF x1	あの……クロエ？\nちょっと今、いいかしら	Um... Chloe?\nDo you have a moment?	
+cev46_070.scr:1	cev46_070.scr	1	クロエ	Chloe Valens	personagem	CRLF x1	どうした、シェリア。\n何か困り事か？	What is it, Cheria?\nAre you troubled by something?	
+cev46_070.scr:2	cev46_070.scr	2	シェリア	Cheria Barnes	personagem	CRLF x1	ええ、その……。\n内緒で相談したい事があるの	Yes, well...\nThere's something I want to ask in secret.	
+cev46_070.scr:3	cev46_070.scr	3	シェリア	Cheria Barnes	personagem		恋の事で……	About love...	
+cev46_070.scr:4	cev46_070.scr	4	クロエ	Chloe Valens	personagem		こ、恋！？	L-Love!?!	
+cev46_070.scr:5	cev46_070.scr	5	シェリア	Cheria Barnes	personagem		正直、セネルの事はどう思ってるのっ？	Honestly, how do you feel about Senel?!	
+cev46_070.scr:6	cev46_070.scr	6	クロエ	Chloe Valens	personagem		しかも、私の話なのかっ！？	Wait, you're talking about ME!?!	
+cev46_070.scr:7	cev46_070.scr	7	クロエ	Chloe Valens	personagem	CRLF x1	べ、べべ別に、私は……\n何も……	I-I-It's not like that at all...\nI don't...	
+cev46_070.scr:8	cev46_070.scr	8	シェリア	Cheria Barnes	personagem	CRLF x2	どうして自分にウソを吐くの？\nそれじゃ、自分の気持ちを閉じ込めて\nあなただって苦しいでしょう？	Why lie to yourself?\nBottle up your feelings like that,\nand you'll just suffer, right?	
+cev46_070.scr:9	cev46_070.scr	9	クロエ	Chloe Valens	personagem		い……いや……	N-No......	
+cev46_070.scr:10	cev46_070.scr	10	シェリア	Cheria Barnes	personagem	CRLF x2	クロエはスタイルもいいし、\n声だってすごく可愛らしいわ。\nもっと自分に自信を持って！	You have a great figure, Chloe,\nand your voice is super cute, too!\nHave more confidence in yourself!	
+cev46_070.scr:11	cev46_070.scr	11	クロエ	Chloe Valens	personagem	CRLF x1	ま、待ってくれ。\n私は別に、クーリッジの事……	W-Wait a moment!\nI don't feel that way about Coolidge...	
+cev46_070.scr:12	cev46_070.scr	12	シェリア	Cheria Barnes	personagem	CRLF x1	いい！？\n何事も、アタックあるのみよ！	Listen to me!\nIn everything, you just have to go for it!	
+cev46_070.scr:13	cev46_070.scr	13	クロエ	Chloe Valens	personagem		シェリア……	Cheria...	
+cev46_070.scr:14	cev46_070.scr	14	クロエ	Chloe Valens	personagem	CRLF x2	何か勘違いをしている様だが、\n私を気にかけてくれる気持ちについては\n嬉しく思う……ありがとう	You seem to be misunderstanding,\nbut I'm glad that you care about me...\nThank you.	
+cev46_070.scr:15	cev46_070.scr	15	シェリア	Cheria Barnes	personagem	CRLF x1	そんな……私はただ、\n思った事を言っているだけよ	Oh, stop...\nI'm just speaking my mind, that's all.	
+cev46_070.scr:16	cev46_070.scr	16	シェリア	Cheria Barnes	personagem	CRLF x2	あまり堅苦しく考えないで、\n目の前の恋を楽しみましょう。\nね？	Don't think about it so strictly,\njust enjoy love right before your eyes.\nOkay?	
+cev46_080.scr:0	cev46_080.scr	0	クロエ	Chloe Valens	personagem		なぁ、ジュディス？	Say, Judith?	
+cev46_080.scr:1	cev46_080.scr	1	ジュディス	Judith	personagem		何、改まって？	What is it, so formal?	
+cev46_080.scr:2	cev46_080.scr	2	クロエ	Chloe Valens	personagem	CRLF x1	その……、そんな格好をしていて\n恥ずかしかったりはしないのか？	Um... Aren't you embarrassed\ndressing like that?	
+cev46_080.scr:3	cev46_080.scr	3	ジュディス	Judith	personagem		あら、どうして？	My, why would I be?	
+cev46_080.scr:4	cev46_080.scr	4	クロエ	Chloe Valens	personagem	CRLF x2	どうしてって……。\nそんなに肌を出せば、普通\n恥ずかしいのではないか？	Why, you ask...?\nShowing that much skin, wouldn't anyone\nordinarily feel embarrassed?	
+cev46_080.scr:5	cev46_080.scr	5	ジュディス	Judith	personagem	CRLF x1	それなら、あなたのその服は\n恥ずかしくないの？	In that case, aren't you embarrassed\nby your own outfit?	
+cev46_080.scr:6	cev46_080.scr	6	クロエ	Chloe Valens	personagem	CRLF x1	わ、わたしは、\n肌は出していない！	I-I am not showing\nany bare skin!	
+cev46_080.scr:7	cev46_080.scr	7	ジュディス	Judith	personagem	CRLF x1	でも、フィットしているおかげで\n体のラインがハッキリとわかるわよ？	True, but being form-fitting, the lines\nof your body are on full display, no?	
+cev46_080.scr:8	cev46_080.scr	8	クロエ	Chloe Valens	personagem	CRLF x1	こ、これは、動きやすさを考えて\nこの服を着ているだけだ！	Th-This is purely for mobility!\nThat is the only reason I wear this!	
+cev46_080.scr:9	cev46_080.scr	9	ジュディス	Judith	personagem	CRLF x2	ふふ。\nわたしも、動きやすさを考えて\nこのお洋服にしているのよ？	Fufu.\nI chose this outfit for ease of\nmovement as well, you know?	
+cev46_080.scr:10	cev46_080.scr	10	ジュディス	Judith	personagem	CRLF x1	肌が見えているか見えていないかで\n考え方は一緒じゃない？	Whether skin shows or not,\nour reasoning is identical, isn't it?	
+cev46_080.scr:11	cev46_080.scr	11	クロエ	Chloe Valens	personagem		一緒にされても……	Lumping me in with you is...	
+cev46_080.scr:12	cev46_080.scr	12	ジュディス	Judith	personagem	CRLF x1	今度、このお洋服、貸してあげるわね。\nきっと、あなたにお似合いよ∀	I'll lend you this outfit sometime.\nI'm sure it will look lovely on you~	
+cev46_080.scr:13	cev46_080.scr	13	クロエ	Chloe Valens	personagem		え、遠慮する！	I-I respectfully decline!	
+cev46_090.scr:0	cev46_090.scr	0	シェリア	Cheria Barnes	personagem	CRLF x1	やっぱり、夏といったら\n海よねぇ	When people think of summer,\nit's definitely the beach!	
+cev46_090.scr:1	cev46_090.scr	1	コハク	Kohaku Hearts	personagem	CRLF x1	青い空、白い雲。\nどこまでも続く水平線……	Blue skies, white clouds,\nand an endless horizon stretching on...	
+cev46_090.scr:2	cev46_090.scr	2	コハク	Kohaku Hearts	personagem	CRLF x1	うん、考えただけでも\nワクワクしてきちゃうね！	Yeah! Just thinking about it\nmakes my heart race!	
+cev46_090.scr:3	cev46_090.scr	3	クロエ	Chloe Valens	personagem		そ、そうだな……	Y-Yeah, I suppose...	
+cev46_090.scr:4	cev46_090.scr	4	シェリア	Cheria Barnes	personagem	CRLF x2	好きな人と一緒に、\nキラキラした海を見る事が出来たら\nとってもロマンチックでしょうね……	Looking at the sparkling ocean\ntogether with someone you love\nwould be so romantic...	
+cev46_090.scr:5	cev46_090.scr	5	コハク	Kohaku Hearts	personagem	CRLF x2	クロエ？\nどうしたの、さっきから\n元気がないけど……	Chloe?\nWhat's wrong? You've seemed down\nfor a while now...	
+cev46_090.scr:6	cev46_090.scr	6	クロエ	Chloe Valens	personagem	CRLF x1	そ、そんな事はないぞ。\n私は、いたっていつも通りだ	N-Nothing of the sort.\nI am entirely as usual.	
+cev46_090.scr:7	cev46_090.scr	7	シェリア	Cheria Barnes	personagem	CRLF x1	ね、クロエも\n海へ行きたいと思わない？	Hey, don't you want to go\nto the sea too, Chloe?	
+cev46_090.scr:8	cev46_090.scr	8	シェリア	Cheria Barnes	personagem	CRLF x2	セネルは泳ぐの得意みたいだし\nこれってきっと、\n絶好のデートスポットよね	Senel is a great swimmer, after all.\nThis would surely be\nthe ultimate date spot!	
+cev46_090.scr:9	cev46_090.scr	9	クロエ	Chloe Valens	personagem		ななな、何を……！	Wh-Wh-What are you...?!	
+cev46_090.scr:10	cev46_090.scr	10	クロエ	Chloe Valens	personagem	CRLF x1	そ、それに、どうしてそこで\nクーリッジの名前が出てくるんだ	A-And why would Coolidge's name\neven come up here?!	
+cev46_090.scr:11	cev46_090.scr	11	コハク	Kohaku Hearts	personagem	CRLF x1	クロエは、セネルと一緒じゃ\n嫌なの？	Would you not want to be\ntogether with Senel, Chloe?	
+cev46_090.scr:12	cev46_090.scr	12	クロエ	Chloe Valens	personagem		そんな事はない！	That is not the case!	
+cev46_090.scr:13	cev46_090.scr	13	シェリア	Cheria Barnes	personagem		じゃあ、決まりね∀	Then it's settled!	
+cev46_090.scr:14	cev46_090.scr	14	シェリア	Cheria Barnes	personagem	CRLF x1	今度、みんなを誘って\n海に行ってみましょうよ	Next time, let's invite everyone\nand head to the beach!	
+cev46_090.scr:15	cev46_090.scr	15	コハク	Kohaku Hearts	personagem		わあ、楽しそう！　賛成！！	Waaa, sounds fun! Agreed!!	
+cev46_090.scr:16	cev46_090.scr	16	クロエ	Chloe Valens	personagem		…………	......	
+cev46_100.scr:0	cev46_100.scr	0	クロエ	Chloe Valens	personagem		シーフォ殿！	Sir Scifo!	
+cev46_100.scr:1	cev46_100.scr	1	クロエ	Chloe Valens	personagem	CRLF x1	……どうされましたか？\n何やら、ものものしい装備ですが……	...What has happened?\nYou bear rather alarming gear...	
+cev46_100.scr:2	cev46_100.scr	2	フレン	Flynn Scifo	personagem	CRLF x1	ああ、これから浴場掃除なんだ。\n当番だからね	Ah, I'm cleaning the baths now.\nIt's my shift, you see.	
+cev46_100.scr:3	cev46_100.scr	3	クロエ	Chloe Valens	personagem		シーフォ殿が、風呂掃除！？	Sir Scifo... cleaning the baths!?!	
+cev46_100.scr:4	cev46_100.scr	4	フレン	Flynn Scifo	personagem	CRLF x1	ああ。\n隅々までピカピカにしてみせるよ	Indeed.\nI shall make every corner sparkle.	
+cev46_100.scr:5	cev46_100.scr	5	クロエ	Chloe Valens	personagem	CRLF x2	それくらい、私がやります！\nシーフォ殿には他に成すべき事が\nあるはずです！	I shall handle such tasks for you!\nYou must have far more pressing deeds\nto accomplish, Sir Scifo!	
+cev46_100.scr:6	cev46_100.scr	6	フレン	Flynn Scifo	personagem		それは違うよ、クロエ	You are mistaken, Chloe.	
+cev46_100.scr:7	cev46_100.scr	7	フレン	Flynn Scifo	personagem	CRLF x2	どんな仕事でも、仕事は仕事だ。\nましてや、当番制はこの船の\n法的秩序の様なもの	Whatever the job, duty is duty.\nFurthermore, the chore rotation is like\nthe legal order of this vessel.	
+cev46_100.scr:8	cev46_100.scr	8	フレン	Flynn Scifo	personagem		規則である以上、遵守するべきだ	As rules exist, they must be upheld.	
+cev46_100.scr:9	cev46_100.scr	9	クロエ	Chloe Valens	personagem		シーフォ殿……	Sir Scifo...	
+cev46_100.scr:10	cev46_100.scr	10	フレン	Flynn Scifo	personagem	CRLF x1	それに、カビ退治はとても\nやり甲斐があって楽しいものだよ	Besides, eradicating mold is truly\nrewarding and enjoyable work.	
+cev46_100.scr:11	cev46_100.scr	11	フレン	Flynn Scifo	personagem		それじゃあ	Well then.	
+cev46_100.scr:12	cev46_100.scr	12	クロエ	Chloe Valens	personagem	CRLF x1	悪漢のみならず、カビまで\n自ら退治されるとは……	Vanquishing not only villains, but\neven mold with his own hands...	
+cev46_100.scr:13	cev46_100.scr	13	クロエ	Chloe Valens	personagem	CRLF x1	シーフォ殿……。\n騎士の鑑の様な方だ……！	Sir Scifo...\nA true paragon of a knight...!	
+cev46_200.scr:0	cev46_200.scr	0	クロエ	Chloe Valens	personagem	CRLF x1	通常。\n	Normal.\n	
+cev46_200.scr:1	cev46_200.scr	1	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:2	cev46_200.scr	2	クロエ	Chloe Valens	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev46_200.scr:3	cev46_200.scr	3	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:4	cev46_200.scr	4	クロエ	Chloe Valens	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev46_200.scr:5	cev46_200.scr	5	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:6	cev46_200.scr	6	クロエ	Chloe Valens	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev46_200.scr:7	cev46_200.scr	7	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:8	cev46_200.scr	8	クロエ	Chloe Valens	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev46_200.scr:9	cev46_200.scr	9	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:10	cev46_200.scr	10	クロエ	Chloe Valens	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev46_200.scr:11	cev46_200.scr	11	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:12	cev46_200.scr	12	クロエ	Chloe Valens	personagem	CRLF x1	通常。\n	Normal.\n	
+cev46_200.scr:13	cev46_200.scr	13	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:14	cev46_200.scr	14	クロエ	Chloe Valens	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev46_200.scr:15	cev46_200.scr	15	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:16	cev46_200.scr	16	クロエ	Chloe Valens	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev46_200.scr:17	cev46_200.scr	17	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:18	cev46_200.scr	18	クロエ	Chloe Valens	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev46_200.scr:19	cev46_200.scr	19	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:20	cev46_200.scr	20	クロエ	Chloe Valens	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev46_200.scr:21	cev46_200.scr	21	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:22	cev46_200.scr	22	クロエ	Chloe Valens	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev46_200.scr:23	cev46_200.scr	23	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:24	cev46_200.scr	24	クロエ	Chloe Valens	personagem	CRLF x1	通常。\n	Normal.\n	
+cev46_200.scr:25	cev46_200.scr	25	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:26	cev46_200.scr	26	クロエ	Chloe Valens	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev46_200.scr:27	cev46_200.scr	27	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:28	cev46_200.scr	28	クロエ	Chloe Valens	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev46_200.scr:29	cev46_200.scr	29	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:30	cev46_200.scr	30	クロエ	Chloe Valens	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev46_200.scr:31	cev46_200.scr	31	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:32	cev46_200.scr	32	クロエ	Chloe Valens	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev46_200.scr:33	cev46_200.scr	33	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev46_200.scr:34	cev46_200.scr	34	クロエ	Chloe Valens	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev46_200.scr:35	cev46_200.scr	35	クロエ	Chloe Valens	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	

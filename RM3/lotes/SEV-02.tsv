@@ -1,0 +1,78 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+sev02_010.scr:0	sev02_010.scr	0	キール	Keele Zeibel	personagem	CRLF x2	アンジュ。\n新しいリングスポットの場所が\nわかったぞ		
+sev02_010.scr:1	sev02_010.scr	1	アンジュ	Ange Serena	personagem		まあ、ほんとに？		
+sev02_010.scr:2	sev02_010.scr	2	キール	Keele Zeibel	personagem	CRLF x2	場所はカダイフ砂漠だ。\nここで新たな自然界の息吹を得れば、\nリングに新しい機能が生まれるはずだ		
+sev02_010.scr:3	sev02_010.scr	3	アンジュ	Ange Serena	personagem		○○、聞いた？		
+sev02_010.scr:4	sev02_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	あなたが持ってるソーサラーリング、\nもっと使える様にして欲しいな♪		
+sev02_010.scr:5	sev02_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	これから依頼として登録するから、\nヨロシクね！		
+sev02_020.scr:0	sev02_020.scr	0	アンジュ	Ange Serena	personagem		じゃあ、依頼の説明をするね		
+sev02_020.scr:1	sev02_020.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	今回あなたには、ソーサラーリングの\n効力を上げる為に、新しいリングスポットへ\n行ってもらいます		
+sev02_020.scr:2	sev02_020.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	えーっと。\n詳しい話は、キール君に\nお願いしちゃおうかな		
+sev02_020.scr:3	sev02_020.scr	3	キール	Keele Zeibel	personagem		じゃあ、手短に説明するぞ		
+sev02_020.scr:4	sev02_020.scr	4	キール	Keele Zeibel	personagem	CRLF x2	今回目指すリングスポットは、\nカダイフ砂漠奥地の赤い水が湧く、\n「赤のオアシス」という所にある		
+sev02_020.scr:5	sev02_020.scr	5	キール	Keele Zeibel	personagem	CRLF x1	ただし、そこは立ち入れない様に\n壁が作られている		
+sev02_020.scr:6	sev02_020.scr	6	アンジュ	Ange Serena	personagem		どうして壁が作られているの？		
+sev02_020.scr:7	sev02_020.scr	7	キール	Keele Zeibel	personagem	CRLF x2	文献によると、赤い水に不吉なものを感じた\n大昔の民が、人が立ち入らない様に\n作ったものだそうだ		
+sev02_020.scr:8	sev02_020.scr	8	キール	Keele Zeibel	personagem	CRLF x2	実際は、ただの鉄分が多く含まれた水って\nだけだろうけど、昔の人からはその色から\n忌むべき場所と考えたんだろう		
+sev02_020.scr:9	sev02_020.scr	9	キール	Keele Zeibel	personagem	CRLF x1	さて、目的の為に壁を壊す必要がある。\nこの爆弾を持っていってくれ		
+sev02_020.scr:10	sev02_020.scr	10	アンジュ	Ange Serena	personagem	CRLF x1	同行者は、コレットとコハクよ。\n爆弾の取り扱いにはくれぐれも注意してね		
+sev02_020.scr:11	sev02_020.scr	11	アンジュ	Ange Serena	personagem		それじゃあ、行ってらっしゃい！		
+sev02_030.scr:0	sev02_030.scr	0	コレット	Colette Brunel	personagem	CRLF x2	ねえねえ。\nこれから行く赤のオアシスって、\nどんな所だろ？		
+sev02_030.scr:1	sev02_030.scr	1	コハク	Kohaku Hearts	personagem	CRLF x1	大昔の人が不吉に思ったくらいだから、\n血の色かもしれないよ		
+sev02_030.scr:2	sev02_030.scr	2	コレット	Colette Brunel	personagem	CRLF x2	そっかぁ〜。\nいちごのジャムみたいな水だったら\nいいのにね		
+sev02_030.scr:3	sev02_030.scr	3	コレット	Colette Brunel	personagem	CRLF x2	一杯取って、好きなだけ\nアイスやヨーグルトにかけたり\n出来るから		
+sev02_030.scr:4	sev02_030.scr	4	コハク	Kohaku Hearts	personagem	CRLF x1	ジャムかぁ。\nわたしだったら、赤ミソがいいな！		
+sev02_030.scr:5	sev02_030.scr	5	コレット	Colette Brunel	personagem	CRLF x1	赤くておいしそうなものって、\n他に何があるかな？		
+sev02_030.scr:6	sev02_030.scr	6	コハク	Kohaku Hearts	personagem		う〜ん…、意外と思い付かないね		
+sev02_040.scr:0	sev02_040.scr	0	コレット	Colette Brunel	personagem	CRLF x2	喉が渇いちゃった。\nこの辺で一休みして、\nお水飲んでもいいかな？		
+sev02_040.scr:1	sev02_040.scr	1	コハク	Kohaku Hearts	personagem	CRLF x2	あっ、じゃあわたしが持って来た\nキュウリ食べる？\nミソも付けてあげるよ		
+sev02_040.scr:2	sev02_040.scr	2	コレット	Colette Brunel	personagem		きゅうりにミソ？		
+sev02_040.scr:3	sev02_040.scr	3	コハク	Kohaku Hearts	personagem	CRLF x2	キュウリは軽食になるし、水分も取れるよ。\nそれに、汗で出た塩分はミソで\n補給出来るでしょ？		
+sev02_040.scr:4	sev02_040.scr	4	コハク	Kohaku Hearts	personagem	CRLF x1	はい、一本どうぞ。\n○○も食べてね！		
+sev02_040.scr:5	sev02_040.scr	5	コレット	Colette Brunel	personagem	CRLF x2	すごーい。\nミソでくるまって、\nキュウリが全然見えないよ〜？		
+sev02_040.scr:6	sev02_040.scr	6	コレット	Colette Brunel	personagem	CRLF x1	こんなに一気にミソ食べて、\nだいじょぶかな？		
+sev02_040.scr:7	sev02_040.scr	7	コハク	Kohaku Hearts	personagem	CRLF x1	どう？\n美味しいでしょ？		
+sev02_040.scr:8	sev02_040.scr	8	コハク	Kohaku Hearts	personagem	CRLF x2	それじゃあ、バナナも持って来たから\nミソ付けてあげるね！\nマイミソ、一杯持ってきてるから！		
+sev02_040.scr:9	sev02_040.scr	9	コレット	Colette Brunel	personagem	CRLF x2	わぁ〜。\nコハクって、\nホントにミソが好きなんだねぇ〜		
+sev02_040.scr:10	sev02_040.scr	10	コハク	Kohaku Hearts	personagem	CRLF x1	慌てて食べるからだよ。\nでも、気に入ってくれたんだね！		
+sev02_040.scr:11	sev02_040.scr	11	コハク	Kohaku Hearts	personagem	CRLF x1	じゃあ、はい！\nミソ増量してあげる！		
+sev02_040.scr:12	sev02_040.scr	12	コハク	Kohaku Hearts	personagem		コレットも、ミソもう少しいる？		
+sev02_040.scr:13	sev02_040.scr	13	コレット	Colette Brunel	personagem	CRLF x2	え？\nううん。\n私は平気だよ		
+sev02_040.scr:14	sev02_040.scr	14	コハク	Kohaku Hearts	personagem		そう？　遠慮しなくていいのにな		
+sev02_040.scr:15	sev02_040.scr	15	コハク	Kohaku Hearts	personagem	CRLF x1	このくらい全然平気なのに。\n他にも、色々付けるんだよ！		
+sev02_040.scr:16	sev02_040.scr	16	コハク	Kohaku Hearts	personagem	CRLF x2	特に桜餅とかに付けると美味しいんだけど、\nみんなわたしの事、\nミソミソって言うんだよね		
+sev02_040.scr:17	sev02_040.scr	17	コレット	Colette Brunel	personagem	CRLF x1	そういえば、コハクは\nずっとミソを持ち歩いてるね		
+sev02_040.scr:18	sev02_040.scr	18	コハク	Kohaku Hearts	personagem	CRLF x2	うん、マイミソなの。\nいつでもすぐに食べられるから、\n便利でしょ？		
+sev02_040.scr:19	sev02_040.scr	19	コレット	Colette Brunel	personagem		ホントにミソが好きなんだねえ		
+sev02_040.scr:20	sev02_040.scr	20	(opcao do jogador)	(opcao do jogador)	escolha		ミソキュウリをかじる		
+sev02_040.scr:21	sev02_040.scr	21	(opcao do jogador)	(opcao do jogador)	escolha		身体によくない、とたしなめる		
+sev02_040.scr:22	sev02_040.scr	22	(opcao do jogador)	(opcao do jogador)	escolha		うなずく		
+sev02_040.scr:23	sev02_040.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		慌てて水を飲む		
+sev02_050.scr:0	sev02_050.scr	0	コレット	Colette Brunel	personagem		ここが赤のオアシス…だよね？		
+sev02_050.scr:1	sev02_050.scr	1	コハク	Kohaku Hearts	personagem		邪魔されちゃってるなあ…		
+sev02_050.scr:2	sev02_050.scr	2	コハク	Kohaku Hearts	personagem	CRLF x1	でも、ここに用があるんだから\nさっさとボコメキョにしちゃおう！		
+sev02_060.scr:0	sev02_060.scr	0	コハク	Kohaku Hearts	personagem	CRLF x1	行くよ、○○、コレット！\n今度こそやっつけよう！		
+sev02_070.scr:0	sev02_070.scr	0	コハク	Kohaku Hearts	personagem	CRLF x1	えっと…、この壁の向こうに\n赤のオアシスがあるんだね		
+sev02_070.scr:1	sev02_070.scr	1	コレット	Colette Brunel	personagem	CRLF x1	キールが持たせてくれた爆弾で\n壁を壊すんだね		
+sev02_070.scr:2	sev02_070.scr	2	コハク	Kohaku Hearts	personagem		じゃあ、爆弾を早く仕掛けよう		
+sev02_070.scr:3	sev02_070.scr	3	コレット	Colette Brunel	personagem	CRLF x1	○○、\n私もお手伝いするね		
+sev02_070.scr:4	sev02_070.scr	4	コレット	Colette Brunel	personagem		あ、あれ…？		
+sev02_070.scr:5	sev02_070.scr	5	コレット	Colette Brunel	personagem		ごめんね、倒れちゃったみたい…		
+sev02_070.scr:6	sev02_070.scr	6	コハク	Kohaku Hearts	personagem		あ、謝る事はないんじゃないかな		
+sev02_070.scr:7	sev02_070.scr	7	コハク	Kohaku Hearts	personagem	CRLF x1	でも、大昔からあった、誰も通さない壁が\nあっさり倒れちゃうなんて		
+sev02_070.scr:8	sev02_070.scr	8	コレット	Colette Brunel	personagem	CRLF x2	あ、そっか。\nもう爆弾で壊さなくても\n向こうに行けるんだね！		
+sev02_070.scr:9	sev02_070.scr	9	コハク	Kohaku Hearts	personagem	CRLF x1	でも、つまずく様な所なかったよね…？\nどうやって転んだの？		
+sev02_070.scr:10	sev02_070.scr	10	コレット	Colette Brunel	personagem		…わかんない		
+sev02_080.scr:0	sev02_080.scr	0	コレット	Colette Brunel	personagem	CRLF x1	わぁ〜。\nホントに赤い水が湧いてるね		
+sev02_080.scr:1	sev02_080.scr	1	コハク	Kohaku Hearts	personagem	CRLF x1	やっぱり、ミソじゃなかったかぁ。\nちょっとがっかり…		
+sev02_080.scr:2	sev02_080.scr	2	コレット	Colette Brunel	personagem	CRLF x1	あ、ほら、○○。\nあそこにリングスポットがあるよ		
+sev02_080.scr:3	sev02_080.scr	3	コハク	Kohaku Hearts	personagem	CRLF x1	これでまた、ソーサラーリングの\n効力が上がったんだね		
+sev02_080.scr:4	sev02_080.scr	4	コレット	Colette Brunel	personagem		うん、これで依頼は完了だね		
+sev02_080.scr:5	sev02_080.scr	5	コレット	Colette Brunel	personagem		それじゃ、船に戻ろ？		
+sev02_090.scr:0	sev02_090.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	お疲れ様。\nこれでまた、リングの効果が上がったね		
+sev02_090.scr:1	sev02_090.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	キール君、新しい効果がどんなものか\nわかるかな？		
+sev02_090.scr:2	sev02_090.scr	2	キール	Keele Zeibel	personagem		そうだな、今のリングの能力は…		
+sev02_090.scr:3	sev02_090.scr	3	キール	Keele Zeibel	personagem	CRLF x2	魔物に向かって撃つと、\nわずかな間だが相手の動きを\n止める事が出来るはずだ		
+sev02_090.scr:4	sev02_090.scr	4	キール	Keele Zeibel	personagem	CRLF x2	あとは、火の力が強まっているな。\n雪の塊くらいは溶かす事が\n出来るかもしれないぞ		
+sev02_090.scr:5	sev02_090.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	じゃあ、そういった環境の所では\n活躍しそうね。\n良かったじゃない		
+sev02_090.scr:6	sev02_090.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	それじゃ、今回もご苦労様。\nまた仕事を受けに来てちょうだい		

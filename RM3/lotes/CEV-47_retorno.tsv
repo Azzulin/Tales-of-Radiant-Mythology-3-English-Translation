@@ -1,0 +1,128 @@
+﻿id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev47_010.scr:0	cev47_010.scr	0	ノーマ	Norma Beatty	personagem		お〜い、ティーンティーン！	Heeey, Tyyy-Tyyy!	
+cev47_010.scr:1	cev47_010.scr	1	ノーマ	Norma Beatty	personagem	CRLF x1	ちょっとぉ、無視しないでよ。\nティンティン！！	Heyyy, don't ignore me!\nTy-Ty!!	
+cev47_010.scr:2	cev47_010.scr	2	ティトレイ	Tytree Crowe	personagem	CRLF x1	あ？　\nおれの事呼んでたのか？	Huh?\nWere you calling me?	
+cev47_010.scr:3	cev47_010.scr	3	ノーマ	Norma Beatty	personagem	CRLF x1	当たり前でしょ。\n他に誰がいるってのよ	Of course!\nWho else would it be?	
+cev47_010.scr:4	cev47_010.scr	4	ティトレイ	Tytree Crowe	personagem		あんな呼び方でわかるわけねぇだろ！	How am I supposed to know with that name?!	
+cev47_010.scr:5	cev47_010.scr	5	ノーマ	Norma Beatty	personagem	CRLF x1	何でよ〜。\nぶー	Why not~?\nBoo.	
+cev47_010.scr:6	cev47_010.scr	6	ノーマ	Norma Beatty	personagem	CRLF x1	ティトレイだから、ティンティンでしょ。\n察してよ、それで	You're Tytree, so you're Ty-Ty!\nFigure it out already!	
+cev47_010.scr:7	cev47_010.scr	7	ティトレイ	Tytree Crowe	personagem		無理言うなよ！	Don't ask the impossible!	
+cev47_010.scr:8	cev47_010.scr	8	ノーマ	Norma Beatty	personagem		はいはい、わかったわかった	Yeah, yeah, alright, alright.	
+cev47_010.scr:9	cev47_010.scr	9	ノーマ	Norma Beatty	personagem		そんな事より、あたしのストロー見なかった？	Anyway, seen my straw around?	
+cev47_010.scr:10	cev47_010.scr	10	ティトレイ	Tytree Crowe	personagem	CRLF x1	そんな事って……。\n見てねぇよ、お前の武器なんて！	"""Anyway""...?\nI haven't seen your weapon!"	
+cev47_010.scr:11	cev47_010.scr	11	ノーマ	Norma Beatty	personagem	CRLF x2	そっかぁ……。\nじゃ、他を当たってみるわ。\nじゃーね、ティンティン	I see...\nGuess I'll check elsewhere.\nSee ya, Ty-Ty!	
+cev47_010.scr:12	cev47_010.scr	12	ティトレイ	Tytree Crowe	personagem		だから、その呼び方止めろって！	I told you to stop calling me that!	
+cev47_010.scr:13	cev47_010.scr	13	ノーマ	Norma Beatty	personagem	CRLF x1	えー、せっかく気に入ってたのに……。\nじゃぁねぇ、ティトレイだから	Aww, and I liked it so much...\nWell then, since you're Tytree...	
+cev47_010.scr:14	cev47_010.scr	14	ノーマ	Norma Beatty	personagem		「トイレっち」で、どう？	"How about ""Toilet-kins""?"	
+cev47_010.scr:15	cev47_010.scr	15	ティトレイ	Tytree Crowe	personagem		もう、怒る気も無くなってきた……	I don't even have energy to get mad...	
+cev47_010.scr:16	cev47_010.scr	16	ノーマ	Norma Beatty	personagem	CRLF x2	うそうそ〜。\n真に受けないの。\n「トレっち」、ね、これでいいでしょ？	"Kidding, kidding~\nDon't take it so seriously.\n""Ty-kins"", alright? Happy now?"	
+cev47_010.scr:17	cev47_010.scr	17	ティトレイ	Tytree Crowe	personagem		あー、もう何でもいいよ……	Ah, whatever, call me what you want...	
+cev47_010.scr:18	cev47_010.scr	18	ノーマ	Norma Beatty	personagem	CRLF x1	じゃ、あたし、行くよ。\nまたね、ティンティ……	Well, I'm off then.\nSee ya, Ty-T--	
+cev47_010.scr:19	cev47_010.scr	19	ノーマ	Norma Beatty	personagem		じゃなくて、トレっち∀	I mean, Ty-kins!	
+cev47_020.scr:0	cev47_020.scr	0	ノーマ	Norma Beatty	personagem	CRLF x1	お〜、ジェージェー！\n久しぶり〜	Oh, Jay-Jay!\nLong time no see~	
+cev47_020.scr:1	cev47_020.scr	1	ジェイ	Jay	personagem		ノーマさんも、お変わりない様ですね	You haven't changed either, Norma.	
+cev47_020.scr:2	cev47_020.scr	2	ジェイ	Jay	personagem		色々な意味で	In more ways than one.	
+cev47_020.scr:3	cev47_020.scr	3	ノーマ	Norma Beatty	personagem	CRLF x1	ちょっとあんた。\nそれどーゆー意味よ？	Hey, you!\nWhat's that supposed to mean?	
+cev47_020.scr:4	cev47_020.scr	4	ジェイ	Jay	personagem		言葉通りの意味ですが	Exactly what the words mean.	
+cev47_020.scr:5	cev47_020.scr	5	ジェイ	Jay	personagem	CRLF x1	通じない辺りが\nいかにもノーマさんらしいですね	Not understanding it is just so\ncharacteristic of you, Norma.	
+cev47_020.scr:6	cev47_020.scr	6	ノーマ	Norma Beatty	personagem		何だとこらァ〜〜！	Why you little punk--!	
+cev47_020.scr:7	cev47_020.scr	7	ウィル	Will Raynard	personagem		やめんか、二人とも	Knock it off, both of you.	
+cev47_020.scr:8	cev47_020.scr	8	ノーマ	Norma Beatty	personagem		みょごっ	Myogoh!	
+cev47_020.scr:9	cev47_020.scr	9	ジェイ	Jay	personagem		何でぼくまで……	Why me too...?	
+cev47_020.scr:10	cev47_020.scr	10	ウィル	Will Raynard	personagem	CRLF x1	遊びに来ているのではないだろう。\nここには各国の要人もいらっしゃるのだ	We are not here to play.\nVIPs from various nations are present.	
+cev47_020.scr:11	cev47_020.scr	11	ウィル	Will Raynard	personagem	CRLF x1	悪ふざけも程々にする様に。\nいいな？	Keep your horseplay in moderation.\nUnderstood?	
+cev47_020.scr:12	cev47_020.scr	12	ノーマ	Norma Beatty	personagem		ぬぐぐ〜〜……わかったわよう	Grrr... Fine, I got it.	
+cev47_020.scr:13	cev47_020.scr	13	ノーマ	Norma Beatty	personagem	CRLF x2	ここでガッポガッポ稼いで、\n今にウィルっちをギャフンと\n言わせてやるんだから〜！	I'll rake in loads of Gald here,\nand make Will-power eat his words,\njust you wait!	
+cev47_020.scr:14	cev47_020.scr	14	ジェイ	Jay	personagem		ギャフン	His words.	
+cev47_020.scr:15	cev47_020.scr	15	ノーマ	Norma Beatty	personagem		あんたが言うなっての！	Not you, stupid!	
+cev47_020.scr:16	cev47_020.scr	16	ウィル	Will Raynard	personagem		…………	......	
+cev47_030.scr:0	cev47_030.scr	0	ロックス	Rocks	personagem	CRLF x1	わぁぁっ！\nちょっ、これは一体どういう……！	Waaah!\nWait, what on earth is this...?!	
+cev47_030.scr:1	cev47_030.scr	1	エステル	Estelle	personagem	CRLF x2	その……ロックスの肉球は\nとても良い手触りだと\nプレセアからうかがいました	Um... I heard from Presea that\nRocks' paw pads have a wonderful\ntexture to the touch.	
+cev47_030.scr:2	cev47_030.scr	2	エステル	Estelle	personagem		ですから、その……	And so, um...	
+cev47_030.scr:3	cev47_030.scr	3	クロエ	Chloe Valens	personagem		わ……私達とも、握手してくれないか？	W-Would you shake hands with us too?	
+cev47_030.scr:4	cev47_030.scr	4	コレット	Colette Brunel	personagem	CRLF x1	肉球って、ぷにぷになんだよね。\nすっごく気持ちいいんだろうね〜♪	Paw pads are squishy, aren't they?\nThey must feel so nice to squeeze~	
+cev47_030.scr:5	cev47_030.scr	5	ティア	Tear Grants	personagem		えっと……わ、私は……	Um... I-I just...	
+cev47_030.scr:6	cev47_030.scr	6	ロックス	Rocks	personagem		ま、待って下さい！	P-Please wait a moment!	
+cev47_030.scr:7	cev47_030.scr	7	ロックス	Rocks	personagem	CRLF x1	そんな事急に言われて\n皆さんで押しかけられても……	To have everyone crowd me all at once\nwith such a sudden request...	
+cev47_030.scr:8	cev47_030.scr	8	ロックス	Rocks	personagem		それに僕にも、仕事が……	Besides, I have work to do...	
+cev47_030.scr:9	cev47_030.scr	9	ノーマ	Norma Beatty	personagem	CRLF x1	は〜い、押さない押さな〜い。\n順番に並んで〜！	Alright, no pushing, no shoving!\nLine up in an orderly fashion~!	
+cev47_030.scr:10	cev47_030.scr	10	ノーマ	Norma Beatty	personagem	CRLF x1	握手一回、５００ガルド！\n５００ガルドぽっきりだよ〜！	One handshake, 500 Gald!\nA flat 500 Gald only~!	
+cev47_030.scr:11	cev47_030.scr	11	ロックス	Rocks	personagem		って、ノーマ様！	Wait, Lady Norma!	
+cev47_030.scr:12	cev47_030.scr	12	ロックス	Rocks	personagem	CRLF x1	どさくさに紛れて\nお金儲けしないで下さい！！	Please do not make a profit\noff of this chaos!!	
+cev47_040.scr:0	cev47_040.scr	0	ノーマ	Norma Beatty	personagem	CRLF x2	ねーねー。\nチェスとドロんってさ、\n似た者同士だよね〜？	Hey, hey.\nChes-kins and Woody are two\nof a kind, aren't they~?	
+cev47_040.scr:1	cev47_040.scr	1	ウッドロウ	Woodrow Kelvin	personagem		なぜ、そう思うのかな？	Whatever makes you think so?	
+cev47_040.scr:2	cev47_040.scr	2	チェスター	Chester Barklight	personagem	CRLF x1	どこも似てないだろ？\n髪型だって、着てる服だって	We're nothing alike!\nNot our hair, not the clothes we wear!	
+cev47_040.scr:3	cev47_040.scr	3	ノーマ	Norma Beatty	personagem	CRLF x2	そだね。\n言葉遣いも、溢れる気品も\nドロんの方が上だよね	True that.\nWoody's way ahead in speech\nand brimming elegance!	
+cev47_040.scr:4	cev47_040.scr	4	チェスター	Chester Barklight	personagem		んだよ、それ！	What's that supposed to mean?!	
+cev47_040.scr:5	cev47_040.scr	5	ノーマ	Norma Beatty	personagem		なんつーのかなぁ……	How should I put it...	
+cev47_040.scr:6	cev47_040.scr	6	ノーマ	Norma Beatty	personagem	CRLF x1	こう、がーっとなってて、\nぐぃーって感じのとこっていうの？	"Like, how you go all ""whaaam"",\nand then ""swoooosh"", ya know?"	
+cev47_040.scr:7	cev47_040.scr	7	ノーマ	Norma Beatty	personagem	CRLF x1	ね？　\nソフィたん？	Right?\nLittle Sophie?	
+cev47_040.scr:8	cev47_040.scr	8	ソフィ	Sophie	personagem		ぼ〜〜〜	Staaaaare...	
+cev47_040.scr:9	cev47_040.scr	9	ノーマ	Norma Beatty	personagem		ありゃ、どっか行っちゃってるわ	Oops, she spaced out completely.	
+cev47_040.scr:10	cev47_040.scr	10	ウッドロウ	Woodrow Kelvin	personagem		む……	Hmm......	
+cev47_050.scr:0	cev47_050.scr	0	ノーマ	Norma Beatty	personagem	CRLF x1	やっほぉおぉい！！\nガルドめっけ〜〜〜♪♪	Yaaaay-hoooo!!\nFound some Gald~~~!	
+cev47_050.scr:1	cev47_050.scr	1	ノーマ	Norma Beatty	personagem	CRLF x2	いやぁ、今日はいい事ありそうな\n予感がするねえ∀　\nむふふふ∀∀	Man, I've got a hunch something great\nis gonna happen today!\nHehehe!	
+cev47_050.scr:2	cev47_050.scr	2	ノーマ	Norma Beatty	personagem	CRLF x1	何よ〜、ベルベル。\nどったの？	What's up, Bel-bel?\nSomething wrong?	
+cev47_050.scr:3	cev47_050.scr	3	ノーマ	Norma Beatty	personagem	CRLF x2	はっ……。\nまさか、このガルドが欲しいの？\nそうなのね！？	Gasp...!\nDon't tell me you want this Gald?!\nThat's it, isn't it?!	
+cev47_050.scr:4	cev47_050.scr	4	アスベル	Asbel Lhant	personagem		いや、そうじゃないよ	No, that's not it.	
+cev47_050.scr:5	cev47_050.scr	5	アスベル	Asbel Lhant	personagem	CRLF x1	……ノーマを見てると、時々\n知り合いの事を思い出すんだよな……	...Looking at you, Norma, I sometimes\nremember an acquaintance of mine...	
+cev47_050.scr:6	cev47_050.scr	6	ソフィ	Sophie	personagem		うん……似てる	Yeah... Similar.	
+cev47_050.scr:7	cev47_050.scr	7	ノーマ	Norma Beatty	personagem	CRLF x1	ほほ〜〜う。\n知り合いとな？	Ohooo~\nAn acquaintance, you say?	
+cev47_050.scr:8	cev47_050.scr	8	ノーマ	Norma Beatty	personagem	CRLF x1	なになに、どんな人なわけ？\nもっと詳しく教えてよ〜〜	Tell me, what kind of person are they?\nGive me all the juicy details~~	
+cev47_050.scr:9	cev47_050.scr	9	ノーマ	Norma Beatty	personagem	CRLF x1	……って、ソフィたん？\n何で逃げるのさ	...Wait, Little Sophie?\nWhy are you backing away?	
+cev47_050.scr:10	cev47_050.scr	10	ソフィ	Sophie	personagem		……触られるのかと思ったから	...I thought you were gonna touch me.	
+cev47_050.scr:11	cev47_050.scr	11	ノーマ	Norma Beatty	personagem	CRLF x1	触る！？　\nどこをっ？	Touch you!?\nWhere?!	
+cev47_050.scr:12	cev47_050.scr	12	アスベル	Asbel Lhant	personagem	CRLF x1	いや……気にしないでくれ。\n知り合いを重ねて見てるだけなんだ……	No... Don't worry about it.\nI was just projecting a friend onto you...	
+cev47_060.scr:0	cev47_060.scr	0	マルタ	Marta Lualdi	personagem		ノーマの武器って変わってるよね	Your weapon is pretty unusual, Norma.	
+cev47_060.scr:1	cev47_060.scr	1	エミル	Emil Castagnier	personagem	CRLF x2	うん。　ジーニアスのけん玉もすごいけど\nストローで戦うなんて\nなかなか出来る事じゃないよね	Yeah. Genis's kendama is neat, but\nfighting with a straw is something\nnot just anyone can pull off!	
+cev47_060.scr:2	cev47_060.scr	2	ノーマ	Norma Beatty	personagem	CRLF x2	も〜〜、ミルミルったら！\nそんなに褒めたって、\n何にも出ないんだかんね∀	Aww, Mil-mil!\nPraising me that much won't get you\nanything, you know~!	
+cev47_060.scr:3	cev47_060.scr	3	マルタ	Marta Lualdi	personagem	CRLF x1	でも、どうしてシャボン玉で\n敵にダメージを与えられるの？	Still, how do soap bubbles\ndeal damage to enemies?	
+cev47_060.scr:4	cev47_060.scr	4	ノーマ	Norma Beatty	personagem	CRLF x2	およ。　\nマルちんったらいい質問！\nそんなのアレに決まってんでしょ〜♪	Oho! Great question,\nMar-tin! It could only be\nthat, of course~!	
+cev47_060.scr:5	cev47_060.scr	5	エミル	Emil Castagnier	personagem		なになに？	Ooh, tell me, tell me!	
+cev47_060.scr:6	cev47_060.scr	6	ノーマ	Norma Beatty	personagem	CRLF x1	や、毒だから。\nシャボン液	Well, it's poison.\nThe soap liquid.	
+cev47_060.scr:7	cev47_060.scr	7	(narracao)	(narracao)	narracao		ええぇ〜〜っ！？	Whaaaat!?!	
+cev47_070.scr:0	cev47_070.scr	0	コハク	Kohaku Hearts	personagem		うーん	Hmm...	
+cev47_070.scr:1	cev47_070.scr	1	シェリア	Cheria Barnes	personagem	CRLF x1	声じゃないし……。\n考え方、というわけでも……	It's not the voice...\nNor their way of thinking, either...	
+cev47_070.scr:2	cev47_070.scr	2	ノーマ	Norma Beatty	personagem	CRLF x1	ちょっとちょっと〜。\nさっきからどったの、二人して？	Hold on, hold on~\nWhat's up with the two of you?	
+cev47_070.scr:3	cev47_070.scr	3	コハク	Kohaku Hearts	personagem	CRLF x2	あ……今、シェリアと話しててね、\nアスベルとウッドロウって、何だか\n雰囲気が似てるねって話になって……	Ah... Cheria and I were talking,\nsaying Asbel and Woodrow kind of have\na similar vibe, and...	
+cev47_070.scr:4	cev47_070.scr	4	シェリア	Cheria Barnes	personagem	CRLF x1	でも、どこが似てるか\nさっぱりわからないのよね	Yet we have no idea\nwhere that similarity comes from.	
+cev47_070.scr:5	cev47_070.scr	5	シェリア	Cheria Barnes	personagem	CRLF x2	こう、外見的な特徴じゃなくて、\nイメージ的に似ている部分が\nある様な気がするんだけど……	It's not their physical traits,\nbut more like a shared impression\nthat they give off...	
+cev47_070.scr:6	cev47_070.scr	6	ノーマ	Norma Beatty	personagem	CRLF x1	あ〜。\nひょっとして	Aaah.\nCould it be...	
+cev47_070.scr:7	cev47_070.scr	7	ノーマ	Norma Beatty	personagem		幸薄そうなとこじゃない？	That they both look totally unlucky?	
+cev47_070.scr:8	cev47_070.scr	8	(narracao)	(narracao)	narracao		……それだ！	...That's it!	
+cev47_200.scr:0	cev47_200.scr	0	ノーマ	Norma Beatty	personagem	CRLF x1	通常。\n	Normal.\n	
+cev47_200.scr:1	cev47_200.scr	1	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:2	cev47_200.scr	2	ノーマ	Norma Beatty	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev47_200.scr:3	cev47_200.scr	3	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:4	cev47_200.scr	4	ノーマ	Norma Beatty	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev47_200.scr:5	cev47_200.scr	5	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:6	cev47_200.scr	6	ノーマ	Norma Beatty	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev47_200.scr:7	cev47_200.scr	7	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:8	cev47_200.scr	8	ノーマ	Norma Beatty	personagem	CRLF x1	呆れ。\n	Exasperation.\n	
+cev47_200.scr:9	cev47_200.scr	9	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:10	cev47_200.scr	10	ノーマ	Norma Beatty	personagem	CRLF x1	からかい。\n	Teasing.\n	
+cev47_200.scr:11	cev47_200.scr	11	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:12	cev47_200.scr	12	ノーマ	Norma Beatty	personagem	CRLF x1	通常。\n	Normal.\n	
+cev47_200.scr:13	cev47_200.scr	13	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:14	cev47_200.scr	14	ノーマ	Norma Beatty	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev47_200.scr:15	cev47_200.scr	15	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:16	cev47_200.scr	16	ノーマ	Norma Beatty	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev47_200.scr:17	cev47_200.scr	17	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:18	cev47_200.scr	18	ノーマ	Norma Beatty	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev47_200.scr:19	cev47_200.scr	19	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:20	cev47_200.scr	20	ノーマ	Norma Beatty	personagem	CRLF x1	呆れ。\n	Exasperation.\n	
+cev47_200.scr:21	cev47_200.scr	21	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:22	cev47_200.scr	22	ノーマ	Norma Beatty	personagem	CRLF x1	からかい。\n	Teasing.\n	
+cev47_200.scr:23	cev47_200.scr	23	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:24	cev47_200.scr	24	ノーマ	Norma Beatty	personagem	CRLF x1	通常。\n	Normal.\n	
+cev47_200.scr:25	cev47_200.scr	25	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:26	cev47_200.scr	26	ノーマ	Norma Beatty	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev47_200.scr:27	cev47_200.scr	27	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:28	cev47_200.scr	28	ノーマ	Norma Beatty	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev47_200.scr:29	cev47_200.scr	29	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:30	cev47_200.scr	30	ノーマ	Norma Beatty	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev47_200.scr:31	cev47_200.scr	31	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:32	cev47_200.scr	32	ノーマ	Norma Beatty	personagem	CRLF x1	呆れ。\n	Exasperation.\n	
+cev47_200.scr:33	cev47_200.scr	33	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev47_200.scr:34	cev47_200.scr	34	ノーマ	Norma Beatty	personagem	CRLF x1	からかい。\n	Teasing.\n	
+cev47_200.scr:35	cev47_200.scr	35	ノーマ	Norma Beatty	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	

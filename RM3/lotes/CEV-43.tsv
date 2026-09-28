@@ -1,0 +1,118 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev43_010.scr:0	cev43_010.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	アスベルの剣とヴェイグの剣は\n対照的だな		
+cev43_010.scr:1	cev43_010.scr	1	アスベル	Asbel Lhant	personagem		確かにそうかもしれないな		
+cev43_010.scr:2	cev43_010.scr	2	アスベル	Asbel Lhant	personagem	CRLF x1	ヴェイグの剣は大ぶりで\n太刀筋も俺とは全く違う		
+cev43_010.scr:3	cev43_010.scr	3	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	お前の「抜刀」……。\n見た事もない、独特の構えだ		
+cev43_010.scr:4	cev43_010.scr	4	ヴェイグ	Veigue Lungberg	personagem		オレには出来ない戦い方だろう		
+cev43_010.scr:5	cev43_010.scr	5	セネル	Senel Coolidge	personagem		俺はこの拳だけで戦うからな		
+cev43_010.scr:6	cev43_010.scr	6	セネル	Senel Coolidge	personagem	CRLF x1	見栄えのする武器を使ってるのって、\nちょっと羨ましい気もするな		
+cev43_010.scr:7	cev43_010.scr	7	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	そうか？\n……オレは拳もいいと思う		
+cev43_010.scr:8	cev43_010.scr	8	ヴェイグ	Veigue Lungberg	personagem		拳でしか、語れないものもある		
+cev43_010.scr:9	cev43_010.scr	9	セネル	Senel Coolidge	personagem		ヴェイグ、なかなか話がわかるじゃないか		
+cev43_010.scr:10	cev43_010.scr	10	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	男は、拳を交わして\n語らう事が出来るものだ		
+cev43_010.scr:11	cev43_010.scr	11	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	そうする事でしか\nわかり合えない事もある		
+cev43_010.scr:12	cev43_010.scr	12	セネル	Senel Coolidge	personagem	CRLF x1	そうそう！　\nそうなんだよな		
+cev43_010.scr:13	cev43_010.scr	13	アスベル	Asbel Lhant	personagem	CRLF x1	……途中から、話が渋い方向に\nいっているのは気のせいか？		
+cev43_020.scr:0	cev43_020.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	そういえば、\nティアは歌が得意なんだよな		
+cev43_020.scr:1	cev43_020.scr	1	セネル	Senel Coolidge	personagem		誰かに習っていたのか？		
+cev43_020.scr:2	cev43_020.scr	2	ティア	Tear Grants	personagem		そんな話、誰に聞いたの？		
+cev43_020.scr:3	cev43_020.scr	3	ティア	Tear Grants	personagem		別に、得意っていう程じゃ……		
+cev43_020.scr:4	cev43_020.scr	4	セネル	Senel Coolidge	personagem		そうなのか？		
+cev43_020.scr:5	cev43_020.scr	5	セネル	Senel Coolidge	personagem	CRLF x2	でも、聞いた話じゃ\nあんまりみんなが歌えない\n特別なのも歌えるんだろ？		
+cev43_020.scr:6	cev43_020.scr	6	ティア	Tear Grants	personagem	CRLF x1	特別……。\nそうね、そうとも言えるかしら		
+cev43_020.scr:7	cev43_020.scr	7	ティア	Tear Grants	personagem	CRLF x2	私が歌うのはとても古い歌で、\n言葉や歌そのものの意味を\n正しく解釈するのが、とても難しいから		
+cev43_020.scr:8	cev43_020.scr	8	セネル	Senel Coolidge	personagem	CRLF x1	へえ。\nよくわからないけど、すごいんだな		
+cev43_020.scr:9	cev43_020.scr	9	セネル	Senel Coolidge	personagem	CRLF x2	そうだ。\n機会があったら今度\n聞かせてくれないか？		
+cev43_020.scr:10	cev43_020.scr	10	ティア	Tear Grants	personagem		私の歌を？		
+cev43_020.scr:11	cev43_020.scr	11	セネル	Senel Coolidge	personagem		他に誰がいるんだ？		
+cev43_020.scr:12	cev43_020.scr	12	ティア	Tear Grants	personagem	CRLF x2	いえ……そんな風に\n面と向かってお願いされた事が\nないものだから……		
+cev43_020.scr:13	cev43_020.scr	13	ティア	Tear Grants	personagem		でも……ありがとう		
+cev43_020.scr:14	cev43_020.scr	14	セネル	Senel Coolidge	personagem	CRLF x1	そこ、礼を言うところなのか？\n何だか、照れくさいな……		
+cev43_030.scr:0	cev43_030.scr	0	ティア	Tear Grants	personagem	CRLF x2	セネルは以前、\n保安官の仕事をしていたそうね。\n長く勤めていたの？		
+cev43_030.scr:1	cev43_030.scr	1	セネル	Senel Coolidge	personagem		だ、誰からそんな話聞いたんだ？		
+cev43_030.scr:2	cev43_030.scr	2	セネル	Senel Coolidge	personagem	CRLF x2	別に、保安官をしていたわけじゃない。\nただ、世話になってた人間が\n保安官みたいな事をしていて……		
+cev43_030.scr:3	cev43_030.scr	3	セネル	Senel Coolidge	personagem	CRLF x1	その仕事を手伝ううち、周りが勝手に\nそんな風に茶化して言う様になっただけだ		
+cev43_030.scr:4	cev43_030.scr	4	ティア	Tear Grants	personagem	CRLF x1	そう。\n周りが勝手に、ね……		
+cev43_030.scr:5	cev43_030.scr	5	セネル	Senel Coolidge	personagem	CRLF x1	何だよ。\nその含みのある言い方は		
+cev43_030.scr:6	cev43_030.scr	6	ティア	Tear Grants	personagem	CRLF x2	不本意そうに説明する割には、\nちっとも表情が嫌そうじゃ\nないんだもの		
+cev43_030.scr:7	cev43_030.scr	7	ティア	Tear Grants	personagem		素直じゃないのね、あなたも		
+cev43_040.scr:0	cev43_040.scr	0	フィリア	Philia Felice	personagem		あ、○○さん		
+cev43_040.scr:1	cev43_040.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	ちょうどいいところに。\n今、あなたの話をしていたの		
+cev43_040.scr:2	cev43_040.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	依頼達成数３００回突破、\nおめでとう！		
+cev43_040.scr:3	cev43_040.scr	3	セネル	Senel Coolidge	personagem		おめでとう		
+cev43_040.scr:4	cev43_040.scr	4	シング	Shing Meteoryte	personagem		おめでとう！		
+cev43_040.scr:5	cev43_040.scr	5	フィリア	Philia Felice	personagem		おめでとうございます		
+cev43_040.scr:6	cev43_040.scr	6	ユーリ	Yuri Lowell	personagem		おめでとさん		
+cev43_040.scr:7	cev43_040.scr	7	(ator 200)	(ator 200)	desconhecido		……！！		
+cev43_040.scr:8	cev43_040.scr	8	シング	Shing Meteoryte	personagem	CRLF x1	すごいね。\nもう３００回だって……		
+cev43_040.scr:9	cev43_040.scr	9	シング	Shing Meteoryte	personagem	CRLF x1	どうりで最近、ギルドに仕事が\nたくさん来るはずだよね		
+cev43_040.scr:10	cev43_040.scr	10	フィリア	Philia Felice	personagem	CRLF x2	そうですね。\n○○さんの活躍で\nギルドの活動が軌道に乗った感じがします		
+cev43_040.scr:11	cev43_040.scr	11	セネル	Senel Coolidge	personagem	CRLF x1	○○、\n頑張ってるもんな		
+cev43_040.scr:12	cev43_040.scr	12	セネル	Senel Coolidge	personagem	CRLF x1	ここには色んな依頼が来るのに、\n毎回、きちんと目を通してさ……		
+cev43_040.scr:13	cev43_040.scr	13	ユーリ	Yuri Lowell	personagem	CRLF x1	ああ。\nま、日頃の行いの積み重ねって奴か		
+cev43_040.scr:14	cev43_040.scr	14	アンジュ	Ange Serena	personagem	CRLF x2	そうね。\nおかげでアドリビトムの知名度も\n上がってきてるみたいだし……		
+cev43_040.scr:15	cev43_040.scr	15	アンジュ	Ange Serena	personagem	CRLF x2	○○には\n感謝もしてるけど、今は\nどこまで成長してくれるかも楽しみかな		
+cev43_040.scr:16	cev43_040.scr	16	アンジュ	Ange Serena	personagem	CRLF x1	これからも無理はしない程度に\nこの調子で、よろしくね		
+cev43_050.scr:0	cev43_050.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	セネルの顔の模様って変わってるよなぁ。\n生まれ付きか？		
+cev43_050.scr:1	cev43_050.scr	1	セネル	Senel Coolidge	personagem		そんなわけあるか！		
+cev43_050.scr:2	cev43_050.scr	2	セネル	Senel Coolidge	personagem	CRLF x2	……これは、マリントルーパーの証だ。\nこの職に就く者はみんな、体に\nそうとわかる刻印をしているんだ		
+cev43_050.scr:3	cev43_050.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x1	そうだったのか。\n身分証明書みたいなもんなんだな		
+cev43_050.scr:4	cev43_050.scr	4	セネル	Senel Coolidge	personagem		そういう事だ		
+cev43_050.scr:5	cev43_050.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x2	でも、そのマリンなんちゃらを知らない\nおれ達にとっちゃ、その模様も\nアザとあんまり変わらないよな！		
+cev43_050.scr:6	cev43_050.scr	6	セネル	Senel Coolidge	personagem		……それを言うな！		
+cev43_060.scr:0	cev43_060.scr	0	スタン	Stahn Aileron	personagem	CRLF x2	あれ？　\nセネルじゃないか！\nこんな所で何してるんだ？		
+cev43_060.scr:1	cev43_060.scr	1	ルーティ	Rutee Katrea	personagem	CRLF x1	あー、またいつものアレね……。\n仕方ないわ、起こしてあげましょ？		
+cev43_060.scr:2	cev43_060.scr	2	スタン	Stahn Aileron	personagem		ああ、そうだな		
+cev43_060.scr:3	cev43_060.scr	3	スタン	Stahn Aileron	personagem	CRLF x1	おーい、セネル！\nこんな所で寝てたら、風邪引くぞ？		
+cev43_060.scr:4	cev43_060.scr	4	セネル	Senel Coolidge	personagem		うー……ん……		
+cev43_060.scr:5	cev43_060.scr	5	セネル	Senel Coolidge	personagem		シャーリィ……まだ眠いよ……		
+cev43_060.scr:6	cev43_060.scr	6	スタン	Stahn Aileron	personagem	CRLF x1	シャーリィ？\n俺はスタンだよ、セネル		
+cev43_060.scr:7	cev43_060.scr	7	ルーティ	Rutee Katrea	personagem	CRLF x1	……って、今の明らかに寝言でしょ。\nあんたもいちいちツッコまないの！		
+cev43_060.scr:8	cev43_060.scr	8	スタン	Stahn Aileron	personagem	CRLF x1	寝言？　\nそうなのか？		
+cev43_060.scr:9	cev43_060.scr	9	セネル	Senel Coolidge	personagem		むにゃ……		
+cev43_060.scr:10	cev43_060.scr	10	ルーティ	Rutee Katrea	personagem		はぁ……頭痛いわ……		
+cev43_070.scr:0	cev43_070.scr	0	コハク	Kohaku Hearts	personagem	CRLF x1	ねえ、セネル？\nセネルは、泳ぎが得意なんだよね		
+cev43_070.scr:1	cev43_070.scr	1	セネル	Senel Coolidge	personagem	CRLF x2	まあ、そうだな。\nそうでなければ、マリントルーパーなんて\n仕事は務まらないからな		
+cev43_070.scr:2	cev43_070.scr	2	コハク	Kohaku Hearts	personagem	CRLF x1	じゃあ、泳ぎ方を教えてもらう事は\n出来ないかな？		
+cev43_070.scr:3	cev43_070.scr	3	セネル	Senel Coolidge	personagem		コハクにか？		
+cev43_070.scr:4	cev43_070.scr	4	コハク	Kohaku Hearts	personagem	CRLF x1	ううん、わたしじゃなくて\nお兄……		
+cev43_070.scr:5	cev43_070.scr	5	ヒスイ	Hisui Hearts	personagem		いやぁ〜今日はいい天気だなぁ！		
+cev43_070.scr:6	cev43_070.scr	6	ヒスイ	Hisui Hearts	personagem	CRLF x1	ほらコハク、あそこに綺麗な鳥が\n飛んでるぞぉ！？		
+cev43_070.scr:7	cev43_070.scr	7	コハク	Kohaku Hearts	personagem		ちょ、ちょっと、お兄ちゃん！？		
+cev43_070.scr:8	cev43_070.scr	8	セネル	Senel Coolidge	personagem		……何だったんだ？		
+cev43_200.scr:0	cev43_200.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	通常。\n		
+cev43_200.scr:1	cev43_200.scr	1	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:2	cev43_200.scr	2	セネル	Senel Coolidge	personagem	CRLF x1	笑い。\n		
+cev43_200.scr:3	cev43_200.scr	3	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:4	cev43_200.scr	4	セネル	Senel Coolidge	personagem	CRLF x1	怒り。\n		
+cev43_200.scr:5	cev43_200.scr	5	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:6	cev43_200.scr	6	セネル	Senel Coolidge	personagem	CRLF x1	悲しみ。\n		
+cev43_200.scr:7	cev43_200.scr	7	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:8	cev43_200.scr	8	セネル	Senel Coolidge	personagem	CRLF x1	照れ。\n		
+cev43_200.scr:9	cev43_200.scr	9	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:10	cev43_200.scr	10	セネル	Senel Coolidge	personagem	CRLF x1	驚き。\n		
+cev43_200.scr:11	cev43_200.scr	11	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:12	cev43_200.scr	12	セネル	Senel Coolidge	personagem	CRLF x1	通常。\n		
+cev43_200.scr:13	cev43_200.scr	13	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:14	cev43_200.scr	14	セネル	Senel Coolidge	personagem	CRLF x1	笑い。\n		
+cev43_200.scr:15	cev43_200.scr	15	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:16	cev43_200.scr	16	セネル	Senel Coolidge	personagem	CRLF x1	怒り。\n		
+cev43_200.scr:17	cev43_200.scr	17	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:18	cev43_200.scr	18	セネル	Senel Coolidge	personagem	CRLF x1	悲しみ。\n		
+cev43_200.scr:19	cev43_200.scr	19	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:20	cev43_200.scr	20	セネル	Senel Coolidge	personagem	CRLF x1	照れ。\n		
+cev43_200.scr:21	cev43_200.scr	21	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:22	cev43_200.scr	22	セネル	Senel Coolidge	personagem	CRLF x1	驚き。\n		
+cev43_200.scr:23	cev43_200.scr	23	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:24	cev43_200.scr	24	セネル	Senel Coolidge	personagem	CRLF x1	通常。\n		
+cev43_200.scr:25	cev43_200.scr	25	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:26	cev43_200.scr	26	セネル	Senel Coolidge	personagem	CRLF x1	笑い。\n		
+cev43_200.scr:27	cev43_200.scr	27	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:28	cev43_200.scr	28	セネル	Senel Coolidge	personagem	CRLF x1	怒り。\n		
+cev43_200.scr:29	cev43_200.scr	29	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:30	cev43_200.scr	30	セネル	Senel Coolidge	personagem	CRLF x1	悲しみ。\n		
+cev43_200.scr:31	cev43_200.scr	31	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:32	cev43_200.scr	32	セネル	Senel Coolidge	personagem	CRLF x1	照れ。\n		
+cev43_200.scr:33	cev43_200.scr	33	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev43_200.scr:34	cev43_200.scr	34	セネル	Senel Coolidge	personagem	CRLF x1	驚き。\n		
+cev43_200.scr:35	cev43_200.scr	35	セネル	Senel Coolidge	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

@@ -1,0 +1,321 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	va_string	bytes_jp	max_bytes
+creditos#0	creditos	0	(creditos)	(credits)	sistema		キャラクターデザイン			0x08D1F888	20	63
+creditos#1	creditos	1	(creditos)	(credits)	sistema		　いのまたむつみ			0x08D1F8CC	16	63
+creditos#2	creditos	2	(creditos)	(credits)	sistema		　藤島　康介			0x08D1F910	12	63
+creditos#3	creditos	3	(creditos)	(credits)	sistema		　中澤　一登			0x08D1F954	12	63
+creditos#4	creditos	4	(creditos)	(credits)	sistema		　奥村　大悟（NBGI）			0x08D1F998	20	63
+creditos#5	creditos	5	(creditos)	(credits)	sistema		　岩本　稔（NBGI）			0x08D1F9DC	18	63
+creditos#9	creditos	9	(creditos)	(credits)	sistema		キャスト			0x08D1FAEC	8	63
+creditos#10	creditos	10	(creditos)	(credits)	sistema		クレス・アルベイン			0x08D1FB30	18	63
+creditos#11	creditos	11	(creditos)	(credits)	sistema		　草尾　毅			0x08D1FB74	10	63
+creditos#12	creditos	12	(creditos)	(credits)	sistema		ミント・アドネード			0x08D1FBB8	18	63
+creditos#13	creditos	13	(creditos)	(credits)	sistema		　岩男　潤子			0x08D1FBFC	12	63
+creditos#14	creditos	14	(creditos)	(credits)	sistema		チェスター・バークライト			0x08D1FC40	24	63
+creditos#15	creditos	15	(creditos)	(credits)	sistema		　伊藤　健太郎			0x08D1FC84	14	63
+creditos#16	creditos	16	(creditos)	(credits)	sistema		アーチェ・クライン			0x08D1FCC8	18	63
+creditos#17	creditos	17	(creditos)	(credits)	sistema		　かない　みか			0x08D1FD0C	14	63
+creditos#18	creditos	18	(creditos)	(credits)	sistema		藤林すず			0x08D1FD50	8	63
+creditos#19	creditos	19	(creditos)	(credits)	sistema		　川田　妙子			0x08D1FD94	12	63
+creditos#20	creditos	20	(creditos)	(credits)	sistema		ダオス			0x08D1FDD8	6	63
+creditos#21	creditos	21	(creditos)	(credits)	sistema		　森川　智之			0x08D1FE1C	12	63
+creditos#22	creditos	22	(creditos)	(credits)	sistema		スタン・エルロン			0x08D1FE60	16	63
+creditos#23	creditos	23	(creditos)	(credits)	sistema		　関　智一			0x08D1FEA4	10	63
+creditos#24	creditos	24	(creditos)	(credits)	sistema		ルーティ・カトレット			0x08D1FEE8	20	63
+creditos#25	creditos	25	(creditos)	(credits)	sistema		　今井　由香			0x08D1FF2C	12	63
+creditos#26	creditos	26	(creditos)	(credits)	sistema		リオン・マグナス			0x08D1FF70	16	63
+creditos#27	creditos	27	(creditos)	(credits)	sistema		　緑川　光			0x08D1FFB4	10	63
+creditos#28	creditos	28	(creditos)	(credits)	sistema		フィリア・フィリス			0x08D1FFF8	18	63
+creditos#29	creditos	29	(creditos)	(credits)	sistema		　井上　喜久子			0x08D2003C	14	63
+creditos#30	creditos	30	(creditos)	(credits)	sistema		ウッドロウ・ケルヴィン			0x08D20080	22	63
+creditos#31	creditos	31	(creditos)	(credits)	sistema		　速水　奨			0x08D200C4	10	63
+creditos#32	creditos	32	(creditos)	(credits)	sistema		チェルシー・トーン			0x08D20108	18	63
+creditos#33	creditos	33	(creditos)	(credits)	sistema		　渡辺　菜生子			0x08D2014C	14	63
+creditos#34	creditos	34	(creditos)	(credits)	sistema		マイティ・コングマン			0x08D20190	20	63
+creditos#35	creditos	35	(creditos)	(credits)	sistema		　玄田　哲章			0x08D201D4	12	63
+creditos#36	creditos	36	(creditos)	(credits)	sistema		リリス・エルロン			0x08D20218	16	63
+creditos#37	creditos	37	(creditos)	(credits)	sistema		　沢口　千恵			0x08D2025C	12	63
+creditos#38	creditos	38	(creditos)	(credits)	sistema		リッド・ハーシェル			0x08D202A0	18	63
+creditos#39	creditos	39	(creditos)	(credits)	sistema		　石田　彰			0x08D202E4	10	63
+creditos#40	creditos	40	(creditos)	(credits)	sistema		ファラ・エルステッド			0x08D20328	20	63
+creditos#41	creditos	41	(creditos)	(credits)	sistema		　皆口　裕子			0x08D2036C	12	63
+creditos#42	creditos	42	(creditos)	(credits)	sistema		キール・ツァイベル			0x08D203B0	18	63
+creditos#43	creditos	43	(creditos)	(credits)	sistema		　保志　総一朗			0x08D203F4	14	63
+creditos#44	creditos	44	(creditos)	(credits)	sistema		メルディ			0x08D20438	8	63
+creditos#45	creditos	45	(creditos)	(credits)	sistema		　南　央美			0x08D2047C	10	63
+creditos#46	creditos	46	(creditos)	(credits)	sistema		チャット			0x08D204C0	8	63
+creditos#47	creditos	47	(creditos)	(credits)	sistema		　野田　順子			0x08D20504	12	63
+creditos#48	creditos	48	(creditos)	(credits)	sistema		セルシウス			0x08D20548	10	63
+creditos#49	creditos	49	(creditos)	(credits)	sistema		　野田　順子			0x08D2058C	12	63
+creditos#50	creditos	50	(creditos)	(credits)	sistema		クィッキー			0x08D205D0	10	63
+creditos#51	creditos	51	(creditos)	(credits)	sistema		　住友　優子			0x08D20614	12	63
+creditos#52	creditos	52	(creditos)	(credits)	sistema		カイル・デュナミス			0x08D20658	18	63
+creditos#53	creditos	53	(creditos)	(credits)	sistema		　福山　潤			0x08D2069C	10	63
+creditos#54	creditos	54	(creditos)	(credits)	sistema		リアラ			0x08D206E0	6	63
+creditos#55	creditos	55	(creditos)	(credits)	sistema		　柚木　涼香			0x08D20724	12	63
+creditos#56	creditos	56	(creditos)	(credits)	sistema		ロニ・デュナミス			0x08D20768	16	63
+creditos#57	creditos	57	(creditos)	(credits)	sistema		　関　俊彦			0x08D207AC	10	63
+creditos#58	creditos	58	(creditos)	(credits)	sistema		ジューダス			0x08D207F0	10	63
+creditos#59	creditos	59	(creditos)	(credits)	sistema		　緑川　光			0x08D20834	10	63
+creditos#60	creditos	60	(creditos)	(credits)	sistema		ナナリー・フレッチ			0x08D20878	18	63
+creditos#61	creditos	61	(creditos)	(credits)	sistema		　かかず　ゆみ			0x08D208BC	14	63
+creditos#62	creditos	62	(creditos)	(credits)	sistema		ハロルド・ベルセリオス			0x08D20900	22	63
+creditos#63	creditos	63	(creditos)	(credits)	sistema		　平松　晶子			0x08D20944	12	63
+creditos#64	creditos	64	(creditos)	(credits)	sistema		バルバトス・ゲーティア			0x08D20988	22	63
+creditos#65	creditos	65	(creditos)	(credits)	sistema		　若本　規夫			0x08D209CC	12	63
+creditos#66	creditos	66	(creditos)	(credits)	sistema		ロイド・アーヴィング			0x08D20A10	20	63
+creditos#67	creditos	67	(creditos)	(credits)	sistema		　小西　克幸			0x08D20A54	12	63
+creditos#68	creditos	68	(creditos)	(credits)	sistema		コレット・ブルーネル			0x08D20A98	20	63
+creditos#69	creditos	69	(creditos)	(credits)	sistema		　水樹　奈々			0x08D20ADC	12	63
+creditos#70	creditos	70	(creditos)	(credits)	sistema		ジーニアス・セイジ			0x08D20B20	18	63
+creditos#71	creditos	71	(creditos)	(credits)	sistema		　折笠　愛			0x08D20B64	10	63
+creditos#72	creditos	72	(creditos)	(credits)	sistema		リフィル・セイジ			0x08D20BA8	16	63
+creditos#73	creditos	73	(creditos)	(credits)	sistema		　冬馬　由美			0x08D20BEC	12	63
+creditos#74	creditos	74	(creditos)	(credits)	sistema		クラトス・アウリオン			0x08D20C30	20	63
+creditos#75	creditos	75	(creditos)	(credits)	sistema		　立木　文彦			0x08D20C74	12	63
+creditos#76	creditos	76	(creditos)	(credits)	sistema		藤林しいな			0x08D20CB8	10	63
+creditos#77	creditos	77	(creditos)	(credits)	sistema		　岡村　明美			0x08D20CFC	12	63
+creditos#78	creditos	78	(creditos)	(credits)	sistema		ゼロス・ワイルダー			0x08D20D40	18	63
+creditos#79	creditos	79	(creditos)	(credits)	sistema		　小野坂　昌也			0x08D20D84	14	63
+creditos#80	creditos	80	(creditos)	(credits)	sistema		プレセア・コンバティール			0x08D20DC8	24	63
+creditos#81	creditos	81	(creditos)	(credits)	sistema		　桑島　法子			0x08D20E0C	12	63
+creditos#82	creditos	82	(creditos)	(credits)	sistema		ユグドラシル			0x08D20E50	12	63
+creditos#83	creditos	83	(creditos)	(credits)	sistema		　田中　秀幸			0x08D20E94	12	63
+creditos#84	creditos	84	(creditos)	(credits)	sistema		ヴェイグ・リュングベル			0x08D20ED8	22	63
+creditos#85	creditos	85	(creditos)	(credits)	sistema		　檜山　修之			0x08D20F1C	12	63
+creditos#86	creditos	86	(creditos)	(credits)	sistema		クレア・ベネット			0x08D20F60	16	63
+creditos#87	creditos	87	(creditos)	(credits)	sistema		　安田　未央			0x08D20FA4	12	63
+creditos#88	creditos	88	(creditos)	(credits)	sistema		マオ			0x08D20FE8	4	63
+creditos#89	creditos	89	(creditos)	(credits)	sistema		　渡辺　明乃			0x08D2102C	12	63
+creditos#90	creditos	90	(creditos)	(credits)	sistema		ユージーン・ガラルド			0x08D21070	20	63
+creditos#91	creditos	91	(creditos)	(credits)	sistema		　石塚　運昇			0x08D210B4	12	63
+creditos#92	creditos	92	(creditos)	(credits)	sistema		アニー・バース			0x08D210F8	14	63
+creditos#93	creditos	93	(creditos)	(credits)	sistema		　矢島　晶子			0x08D2113C	12	63
+creditos#94	creditos	94	(creditos)	(credits)	sistema		ティトレイ・クロウ			0x08D21180	18	63
+creditos#95	creditos	95	(creditos)	(credits)	sistema		　山口　勝平			0x08D211C4	12	63
+creditos#96	creditos	96	(creditos)	(credits)	sistema		サレ			0x08D21208	4	63
+creditos#97	creditos	97	(creditos)	(credits)	sistema		　菊池　正美			0x08D2124C	12	63
+creditos#98	creditos	98	(creditos)	(credits)	sistema		セネル・クーリッジ			0x08D21290	18	63
+creditos#99	creditos	99	(creditos)	(credits)	sistema		　鈴村　健一			0x08D212D4	12	63
+creditos#100	creditos	100	(creditos)	(credits)	sistema		シャーリィ・フェンネス			0x08D21318	22	63
+creditos#101	creditos	101	(creditos)	(credits)	sistema		　広橋　涼			0x08D2135C	10	63
+creditos#102	creditos	102	(creditos)	(credits)	sistema		ウィル・レイナード			0x08D213A0	18	63
+creditos#103	creditos	103	(creditos)	(credits)	sistema		　千葉　進歩			0x08D213E4	12	63
+creditos#104	creditos	104	(creditos)	(credits)	sistema		クロエ・ヴァレンス			0x08D21428	18	63
+creditos#105	creditos	105	(creditos)	(credits)	sistema		　浅野　真澄			0x08D2146C	12	63
+creditos#106	creditos	106	(creditos)	(credits)	sistema		ノーマ・ビアッティ			0x08D214B0	18	63
+creditos#107	creditos	107	(creditos)	(credits)	sistema		　水橋　かおり			0x08D214F4	14	63
+creditos#108	creditos	108	(creditos)	(credits)	sistema		ジェイ			0x08D21538	6	63
+creditos#109	creditos	109	(creditos)	(credits)	sistema		　白石　涼子			0x08D2157C	12	63
+creditos#110	creditos	110	(creditos)	(credits)	sistema		キュッポ			0x08D215C0	8	63
+creditos#111	creditos	111	(creditos)	(credits)	sistema		　高橋　美佳子			0x08D21604	14	63
+creditos#112	creditos	112	(creditos)	(credits)	sistema		ピッポ			0x08D21648	6	63
+creditos#113	creditos	113	(creditos)	(credits)	sistema		　中山　さら			0x08D2168C	12	63
+creditos#114	creditos	114	(creditos)	(credits)	sistema		ポッポ			0x08D216D0	6	63
+creditos#115	creditos	115	(creditos)	(credits)	sistema		　羽多野　渉			0x08D21714	12	63
+creditos#116	creditos	116	(creditos)	(credits)	sistema		ミミー・ブレッド			0x08D21758	16	63
+creditos#117	creditos	117	(creditos)	(credits)	sistema		　神田　朱未			0x08D2179C	12	63
+creditos#118	creditos	118	(creditos)	(credits)	sistema		ルーク・フォン・ファブレ			0x08D217E0	24	63
+creditos#119	creditos	119	(creditos)	(credits)	sistema		　鈴木　千尋			0x08D21824	12	63
+creditos#120	creditos	120	(creditos)	(credits)	sistema		ティア・グランツ			0x08D21868	16	63
+creditos#121	creditos	121	(creditos)	(credits)	sistema		　ゆかな			0x08D218AC	8	63
+creditos#122	creditos	122	(creditos)	(credits)	sistema		ジェイド・カーティス			0x08D218F0	20	63
+creditos#123	creditos	123	(creditos)	(credits)	sistema		　子安　武人			0x08D21934	12	63
+creditos#124	creditos	124	(creditos)	(credits)	sistema		アニス・タトリン			0x08D21978	16	63
+creditos#125	creditos	125	(creditos)	(credits)	sistema		　桃井　はるこ			0x08D219BC	14	63
+creditos#126	creditos	126	(creditos)	(credits)	sistema		ガイ・セシル			0x08D21A00	12	63
+creditos#127	creditos	127	(creditos)	(credits)	sistema		　松本　保典			0x08D21A44	12	63
+creditos#128	creditos	128	(creditos)	(credits)	sistema		ナタリア・ルツ・キムラスカ・ランバルディア			0x08D21A88	42	63
+creditos#129	creditos	129	(creditos)	(credits)	sistema		　根谷　美智子			0x08D21ACC	14	63
+creditos#130	creditos	130	(creditos)	(credits)	sistema		ヴァン・グランツ			0x08D21B10	16	63
+creditos#131	creditos	131	(creditos)	(credits)	sistema		　中田　譲治			0x08D21B54	12	63
+creditos#132	creditos	132	(creditos)	(credits)	sistema		アッシュ			0x08D21B98	8	63
+creditos#133	creditos	133	(creditos)	(credits)	sistema		　鈴木　千尋			0x08D21BDC	12	63
+creditos#134	creditos	134	(creditos)	(credits)	sistema		カイウス・クオールズ			0x08D21C20	20	63
+creditos#135	creditos	135	(creditos)	(credits)	sistema		　高城　元気			0x08D21C64	12	63
+creditos#136	creditos	136	(creditos)	(credits)	sistema		ルビア・ナトウィック			0x08D21CA8	20	63
+creditos#137	creditos	137	(creditos)	(credits)	sistema		　門脇　舞以			0x08D21CEC	12	63
+creditos#138	creditos	138	(creditos)	(credits)	sistema		ルカ・ミルダ			0x08D21D30	12	63
+creditos#139	creditos	139	(creditos)	(credits)	sistema		　木村　亜希子			0x08D21D74	14	63
+creditos#140	creditos	140	(creditos)	(credits)	sistema		イリア・アニーミ			0x08D21DB8	16	63
+creditos#141	creditos	141	(creditos)	(credits)	sistema		　笹本　優子			0x08D21DFC	12	63
+creditos#142	creditos	142	(creditos)	(credits)	sistema		スパーダ・ベルフォルマ			0x08D21E40	22	63
+creditos#143	creditos	143	(creditos)	(credits)	sistema		　うえだ　ゆうじ			0x08D21E84	16	63
+creditos#144	creditos	144	(creditos)	(credits)	sistema		リカルド・ソルダート			0x08D21EC8	20	63
+creditos#145	creditos	145	(creditos)	(credits)	sistema		　平田　広明			0x08D21F0C	12	63
+creditos#146	creditos	146	(creditos)	(credits)	sistema		アンジュ・セレーナ			0x08D21F50	18	63
+creditos#147	creditos	147	(creditos)	(credits)	sistema		　名塚　佳織			0x08D21F94	12	63
+creditos#148	creditos	148	(creditos)	(credits)	sistema		コーダ/アーダ			0x08D21FD8	13	63
+creditos#149	creditos	149	(creditos)	(credits)	sistema		　小桜　エツ子			0x08D2201C	14	63
+creditos#150	creditos	150	(creditos)	(credits)	sistema		エミル・キャスタニエ			0x08D22060	20	63
+creditos#151	creditos	151	(creditos)	(credits)	sistema		　下野　紘			0x08D220A4	10	63
+creditos#152	creditos	152	(creditos)	(credits)	sistema		マルタ・ルアルディ			0x08D220E8	18	63
+creditos#153	creditos	153	(creditos)	(credits)	sistema		　釘宮　理恵			0x08D2212C	12	63
+creditos#154	creditos	154	(creditos)	(credits)	sistema		リヒター・アーベント			0x08D22170	20	63
+creditos#155	creditos	155	(creditos)	(credits)	sistema		　浜田　賢二			0x08D221B4	12	63
+creditos#156	creditos	156	(creditos)	(credits)	sistema		ユーリ・ローウェル			0x08D221F8	18	63
+creditos#157	creditos	157	(creditos)	(credits)	sistema		　鳥海　浩輔			0x08D2223C	12	63
+creditos#158	creditos	158	(creditos)	(credits)	sistema		エステリーゼ・シデス・ヒュラッセイン			0x08D22280	36	63
+creditos#159	creditos	159	(creditos)	(credits)	sistema		　中原　麻衣			0x08D222C4	12	63
+creditos#160	creditos	160	(creditos)	(credits)	sistema		フレン・シーフォ			0x08D22308	16	63
+creditos#161	creditos	161	(creditos)	(credits)	sistema		　宮野　真守			0x08D2234C	12	63
+creditos#162	creditos	162	(creditos)	(credits)	sistema		リタ・モルディオ			0x08D22390	16	63
+creditos#163	creditos	163	(creditos)	(credits)	sistema		　森永　理科			0x08D223D4	12	63
+creditos#164	creditos	164	(creditos)	(credits)	sistema		レイヴン			0x08D22418	8	63
+creditos#165	creditos	165	(creditos)	(credits)	sistema		　竹本　英史			0x08D2245C	12	63
+creditos#166	creditos	166	(creditos)	(credits)	sistema		ジュディス			0x08D224A0	10	63
+creditos#167	creditos	167	(creditos)	(credits)	sistema		　久川　綾			0x08D224E4	10	63
+creditos#168	creditos	168	(creditos)	(credits)	sistema		シング・メテオライト			0x08D22528	20	63
+creditos#169	creditos	169	(creditos)	(credits)	sistema		　柿原　徹也			0x08D2256C	12	63
+creditos#170	creditos	170	(creditos)	(credits)	sistema		コハク・ハーツ			0x08D225B0	14	63
+creditos#171	creditos	171	(creditos)	(credits)	sistema		　井上　麻里奈			0x08D225F4	14	63
+creditos#172	creditos	172	(creditos)	(credits)	sistema		ヒスイ・ハーツ			0x08D22638	14	63
+creditos#173	creditos	173	(creditos)	(credits)	sistema		　松風　雅也			0x08D2267C	12	63
+creditos#174	creditos	174	(creditos)	(credits)	sistema		アスベル・ラント			0x08D226C0	16	63
+creditos#175	creditos	175	(creditos)	(credits)	sistema		　櫻井　孝宏			0x08D22704	12	63
+creditos#176	creditos	176	(creditos)	(credits)	sistema		ソフィ			0x08D22748	6	63
+creditos#177	creditos	177	(creditos)	(credits)	sistema		　花澤　香菜			0x08D2278C	12	63
+creditos#178	creditos	178	(creditos)	(credits)	sistema		シェリア・バーンズ			0x08D227D0	18	63
+creditos#179	creditos	179	(creditos)	(credits)	sistema		　河原木　志穂			0x08D22814	14	63
+creditos#181	creditos	181	(creditos)	(credits)	sistema		カノンノ・グラスバレー			0x08D2289C	22	63
+creditos#182	creditos	182	(creditos)	(credits)	sistema		　平野　綾			0x08D228E0	10	63
+creditos#183	creditos	183	(creditos)	(credits)	sistema		ロックス			0x08D22924	8	63
+creditos#184	creditos	184	(creditos)	(credits)	sistema		　相葉　弘樹			0x08D22968	12	63
+creditos#185	creditos	185	(creditos)	(credits)	sistema		ニアタ			0x08D229AC	6	63
+creditos#186	creditos	186	(creditos)	(credits)	sistema		　大場　真人			0x08D229F0	12	63
+creditos#187	creditos	187	(creditos)	(credits)	sistema		オリジナル・カノンノ			0x08D22A34	20	63
+creditos#188	creditos	188	(creditos)	(credits)	sistema		　金月　真美			0x08D22A78	12	63
+creditos#189	creditos	189	(creditos)	(credits)	sistema		ラザリス			0x08D22ABC	8	63
+creditos#190	creditos	190	(creditos)	(credits)	sistema		　佐藤　聡美			0x08D22B00	12	63
+creditos#192	creditos	192	(creditos)	(credits)	sistema		パスカ・カノンノ			0x08D22B88	16	63
+creditos#193	creditos	193	(creditos)	(credits)	sistema		　工藤　晴香			0x08D22BCC	12	63
+creditos#194	creditos	194	(creditos)	(credits)	sistema		カノンノ・イアハート			0x08D22C10	20	63
+creditos#195	creditos	195	(creditos)	(credits)	sistema		　伊藤　かな恵			0x08D22C54	14	63
+creditos#196	creditos	196	(creditos)	(credits)	sistema		モルモ			0x08D22C98	6	63
+creditos#197	creditos	197	(creditos)	(credits)	sistema		　阪口　大助			0x08D22CDC	12	63
+creditos#198	creditos	198	(creditos)	(credits)	sistema		ゲーデ			0x08D22D20	6	63
+creditos#199	creditos	199	(creditos)	(credits)	sistema		　野島　健児			0x08D22D64	12	63
+creditos#200	creditos	200	(creditos)	(credits)	sistema		ウィダーシン			0x08D22DA8	12	63
+creditos#201	creditos	201	(creditos)	(credits)	sistema		　島田　敏			0x08D22DEC	10	63
+creditos#202	creditos	202	(creditos)	(credits)	sistema		ジョアン			0x08D22E30	8	63
+creditos#203	creditos	203	(creditos)	(credits)	sistema		　織田　優成			0x08D22E74	12	63
+creditos#204	creditos	204	(creditos)	(credits)	sistema		トマス			0x08D22EB8	6	63
+creditos#205	creditos	205	(creditos)	(credits)	sistema		　田中　亮一			0x08D22EFC	12	63
+creditos#206	creditos	206	(creditos)	(credits)	sistema		ミゲル			0x08D22F40	6	63
+creditos#207	creditos	207	(creditos)	(credits)	sistema		　田中　一成			0x08D22F84	12	63
+creditos#209	creditos	209	(creditos)	(credits)	sistema		ヒーローズボイス			0x08D2300C	16	63
+creditos#210	creditos	210	(creditos)	(credits)	sistema		　宮坂　俊蔵			0x08D23050	12	63
+creditos#211	creditos	211	(creditos)	(credits)	sistema		冨岡　美沙子			0x08D23094	12	67
+creditos#212	creditos	212	(creditos)	(credits)	sistema		　赤羽根　健治			0x08D230D8	14	63
+creditos#213	creditos	213	(creditos)	(credits)	sistema		藤堂　真衣			0x08D2311C	10	67
+creditos#214	creditos	214	(creditos)	(credits)	sistema		　島崎　信長			0x08D23160	12	63
+creditos#215	creditos	215	(creditos)	(credits)	sistema		三上　枝織			0x08D231A4	10	67
+creditos#216	creditos	216	(creditos)	(credits)	sistema		　津田　美波			0x08D231E8	12	63
+creditos#217	creditos	217	(creditos)	(credits)	sistema		斉藤　佑圭			0x08D2322C	10	67
+creditos#218	creditos	218	(creditos)	(credits)	sistema		　藤本　たかひろ			0x08D23270	16	63
+creditos#219	creditos	219	(creditos)	(credits)	sistema		石黒　千尋			0x08D232B4	10	67
+creditos#220	creditos	220	(creditos)	(credits)	sistema		　松原　大典			0x08D232F8	12	63
+creditos#221	creditos	221	(creditos)	(credits)	sistema		相沢　舞			0x08D2333C	8	67
+creditos#222	creditos	222	(creditos)	(credits)	sistema		　宮崎　寛務			0x08D23380	12	63
+creditos#223	creditos	223	(creditos)	(credits)	sistema		松永　真依			0x08D233C4	10	67
+creditos#224	creditos	224	(creditos)	(credits)	sistema		　平井　啓二			0x08D23408	12	63
+creditos#225	creditos	225	(creditos)	(credits)	sistema		牛田　裕子			0x08D2344C	10	67
+creditos#226	creditos	226	(creditos)	(credits)	sistema		　福原　耕平			0x08D23490	12	63
+creditos#227	creditos	227	(creditos)	(credits)	sistema		池辺　久美子			0x08D234D4	12	131
+creditos#231	creditos	231	(creditos)	(credits)	sistema		音響制作			0x08D235E4	8	63
+creditos#233	creditos	233	(creditos)	(credits)	sistema		キャスティングマネージメント			0x08D2366C	28	63
+creditos#234	creditos	234	(creditos)	(credits)	sistema		　株式会社青二プロダクション			0x08D236B0	28	63
+creditos#235	creditos	235	(creditos)	(credits)	sistema		　角　康昭			0x08D236F4	10	63
+creditos#237	creditos	237	(creditos)	(credits)	sistema		収録スタジオ			0x08D2377C	12	63
+creditos#238	creditos	238	(creditos)	(credits)	sistema		　株式会社音響ハウス			0x08D237C0	20	63
+creditos#239	creditos	239	(creditos)	(credits)	sistema		　株式会社タバック			0x08D23804	18	63
+creditos#241	creditos	241	(creditos)	(credits)	sistema		サウンドエンジニア			0x08D2388C	18	63
+creditos#242	creditos	242	(creditos)	(credits)	sistema		　太田　友基（音響ハウス）			0x08D238D0	26	63
+creditos#243	creditos	243	(creditos)	(credits)	sistema		　高村政貴（音響ハウス）			0x08D23914	24	63
+creditos#244	creditos	244	(creditos)	(credits)	sistema		　萩谷　仁美（音響ハウス）			0x08D23958	26	63
+creditos#245	creditos	245	(creditos)	(credits)	sistema		　二ノ宮規寛　（音響ハウス）			0x08D2399C	28	63
+creditos#246	creditos	246	(creditos)	(credits)	sistema		　阿部　知佳子（タバック）			0x08D239E0	26	63
+creditos#247	creditos	247	(creditos)	(credits)	sistema		　藤村　聡（タバック）			0x08D23A24	22	63
+creditos#248	creditos	248	(creditos)	(credits)	sistema		　澤村　裕樹（タバック）			0x08D23A68	24	63
+creditos#250	creditos	250	(creditos)	(credits)	sistema		音響効果			0x08D23AF0	8	63
+creditos#251	creditos	251	(creditos)	(credits)	sistema		　株式会社スワラ・プロ			0x08D23B34	22	63
+creditos#252	creditos	252	(creditos)	(credits)	sistema		　今野　康之			0x08D23B78	12	63
+creditos#254	creditos	254	(creditos)	(credits)	sistema		音響監督			0x08D23C00	8	63
+creditos#255	creditos	255	(creditos)	(credits)	sistema		　有限会社エックスワン			0x08D23C44	22	63
+creditos#256	creditos	256	(creditos)	(credits)	sistema		　鳥島　和也			0x08D23C88	12	63
+creditos#260	creditos	260	(creditos)	(credits)	sistema		ミュージックコンポーザー			0x08D23D98	24	63
+creditos#261	creditos	261	(creditos)	(credits)	sistema		　桜庭　統			0x08D23DDC	10	63
+creditos#262	creditos	262	(creditos)	(credits)	sistema		中村　和宏			0x08D23E20	10	67
+creditos#263	creditos	263	(creditos)	(credits)	sistema		　椎名　豪（NBGI）			0x08D23E64	18	63
+creditos#264	creditos	264	(creditos)	(credits)	sistema		青山　響			0x08D23EA8	8	131
+creditos#268	creditos	268	(creditos)	(credits)	sistema		プロモーションビデオ			0x08D23FB8	20	63
+creditos#269	creditos	269	(creditos)	(credits)	sistema		　有限会社エックスワン			0x08D23FFC	22	63
+creditos#270	creditos	270	(creditos)	(credits)	sistema		　岡林　克樹			0x08D24040	12	63
+creditos#274	creditos	274	(creditos)	(credits)	sistema		アニメーションムービー			0x08D24150	22	63
+creditos#276	creditos	276	(creditos)	(credits)	sistema		プロデューサー			0x08D241D8	14	63
+creditos#277	creditos	277	(creditos)	(credits)	sistema		　寺川　英和			0x08D2421C	12	63
+creditos#279	creditos	279	(creditos)	(credits)	sistema		監督・絵コンテ			0x08D242A4	14	63
+creditos#280	creditos	280	(creditos)	(credits)	sistema		　亀井　幹太			0x08D242E8	12	63
+creditos#282	creditos	282	(creditos)	(credits)	sistema		作画監督・キャラクターデザイン			0x08D24370	30	63
+creditos#283	creditos	283	(creditos)	(credits)	sistema		　松竹　徳幸			0x08D243B4	12	63
+creditos#285	creditos	285	(creditos)	(credits)	sistema		作画監督補			0x08D2443C	10	63
+creditos#286	creditos	286	(creditos)	(credits)	sistema		　海谷　敏久			0x08D24480	12	63
+creditos#288	creditos	288	(creditos)	(credits)	sistema		オープニング原画			0x08D24508	16	63
+creditos#289	creditos	289	(creditos)	(credits)	sistema		　吉川　真帆			0x08D2454C	12	63
+creditos#290	creditos	290	(creditos)	(credits)	sistema		中嶋　敦子			0x08D24590	10	67
+creditos#291	creditos	291	(creditos)	(credits)	sistema		　海谷　敏久			0x08D245D4	12	63
+creditos#292	creditos	292	(creditos)	(credits)	sistema		高橋　英樹			0x08D24618	10	67
+creditos#293	creditos	293	(creditos)	(credits)	sistema		　山田　誠			0x08D2465C	10	63
+creditos#294	creditos	294	(creditos)	(credits)	sistema		宮澤　康紀			0x08D246A0	10	67
+creditos#295	creditos	295	(creditos)	(credits)	sistema		　中原　久文			0x08D246E4	12	63
+creditos#296	creditos	296	(creditos)	(credits)	sistema		佐藤　由紀			0x08D24728	10	131
+creditos#298	creditos	298	(creditos)	(credits)	sistema		イベント原画			0x08D247B0	12	63
+creditos#299	creditos	299	(creditos)	(credits)	sistema		　大塚　舞			0x08D247F4	10	63
+creditos#300	creditos	300	(creditos)	(credits)	sistema		黒岩　裕美			0x08D24838	10	67
+creditos#301	creditos	301	(creditos)	(credits)	sistema		　吉川　真帆			0x08D2487C	12	63
+creditos#302	creditos	302	(creditos)	(credits)	sistema		井上　慎也			0x08D248C0	10	67
+creditos#303	creditos	303	(creditos)	(credits)	sistema		　中原　久文			0x08D24904	12	63
+creditos#304	creditos	304	(creditos)	(credits)	sistema		近藤　源一郎			0x08D24948	12	67
+creditos#305	creditos	305	(creditos)	(credits)	sistema		　小谷　杏子			0x08D2498C	12	63
+creditos#306	creditos	306	(creditos)	(credits)	sistema		井上　敦子			0x08D249D0	10	131
+creditos#308	creditos	308	(creditos)	(credits)	sistema		フェイスチャット・カットイン原画			0x08D24A58	32	63
+creditos#309	creditos	309	(creditos)	(credits)	sistema		　松竹　徳幸			0x08D24A9C	12	63
+creditos#310	creditos	310	(creditos)	(credits)	sistema		　海谷　敏久			0x08D24AE0	12	63
+creditos#312	creditos	312	(creditos)	(credits)	sistema		　金　允智			0x08D24B68	10	63
+creditos#313	creditos	313	(creditos)	(credits)	sistema		　吉川　真帆			0x08D24BAC	12	63
+creditos#314	creditos	314	(creditos)	(credits)	sistema		　津島　桂			0x08D24BF0	10	63
+creditos#316	creditos	316	(creditos)	(credits)	sistema		動画検査			0x08D24C78	8	63
+creditos#317	creditos	317	(creditos)	(credits)	sistema		　金　允智			0x08D24CBC	10	63
+creditos#319	creditos	319	(creditos)	(credits)	sistema		動画			0x08D24D44	4	63
+creditos#320	creditos	320	(creditos)	(credits)	sistema		　Production I.G			0x08D24D88	16	63
+creditos#321	creditos	321	(creditos)	(credits)	sistema		　金　允智			0x08D24DCC	10	63
+creditos#322	creditos	322	(creditos)	(credits)	sistema		古林　美里			0x08D24E10	10	67
+creditos#323	creditos	323	(creditos)	(credits)	sistema		　中山　知世			0x08D24E54	12	63
+creditos#324	creditos	324	(creditos)	(credits)	sistema		春日　広子			0x08D24E98	10	67
+creditos#325	creditos	325	(creditos)	(credits)	sistema		　沼田　くみ子			0x08D24EDC	14	63
+creditos#326	creditos	326	(creditos)	(credits)	sistema		山梶　明美			0x08D24F20	10	67
+creditos#327	creditos	327	(creditos)	(credits)	sistema		　杉田　まるみ			0x08D24F64	14	63
+creditos#328	creditos	328	(creditos)	(credits)	sistema		荒木　涼			0x08D24FA8	8	67
+creditos#329	creditos	329	(creditos)	(credits)	sistema		　鈴木　野々子			0x08D24FEC	14	63
+creditos#330	creditos	330	(creditos)	(credits)	sistema		津坂　美織			0x08D25030	10	67
+creditos#331	creditos	331	(creditos)	(credits)	sistema		　岡田　麻美子			0x08D25074	14	63
+creditos#332	creditos	332	(creditos)	(credits)	sistema		横山　雄樹			0x08D250B8	10	67
+creditos#333	creditos	333	(creditos)	(credits)	sistema		　冨田　恵子			0x08D250FC	12	63
+creditos#334	creditos	334	(creditos)	(credits)	sistema		渡辺　愛			0x08D25140	8	67
+creditos#335	creditos	335	(creditos)	(credits)	sistema		　角田　桂一			0x08D25184	12	63
+creditos#336	creditos	336	(creditos)	(credits)	sistema		和田　卓也			0x08D251C8	10	67
+creditos#337	creditos	337	(creditos)	(credits)	sistema		　伊藤　世菜			0x08D2520C	12	63
+creditos#338	creditos	338	(creditos)	(credits)	sistema		水谷　慶大			0x08D25250	10	67
+creditos#339	creditos	339	(creditos)	(credits)	sistema		　上田　美紀			0x08D25294	12	63
+creditos#340	creditos	340	(creditos)	(credits)	sistema		高木　勝弘			0x08D252D8	10	67
+creditos#341	creditos	341	(creditos)	(credits)	sistema		　森　かや乃			0x08D2531C	12	63
+creditos#343	creditos	343	(creditos)	(credits)	sistema		　吉田　一枝			0x08D253A4	12	63
+creditos#344	creditos	344	(creditos)	(credits)	sistema		津島　桂			0x08D253E8	8	131
+creditos#346	creditos	346	(creditos)	(credits)	sistema		　OH!プロダクション			0x08D25470	19	63
+creditos#347	creditos	347	(creditos)	(credits)	sistema		　ウォンバット			0x08D254B4	14	63
+creditos#349	creditos	349	(creditos)	(credits)	sistema		美術監督			0x08D2553C	8	63
+creditos#350	creditos	350	(creditos)	(credits)	sistema		　西田　稔			0x08D25580	10	63
+creditos#352	creditos	352	(creditos)	(credits)	sistema		背景			0x08D25608	4	63
+creditos#353	creditos	353	(creditos)	(credits)	sistema		　いわき万里子(ＰＡＣ)			0x08D2564C	22	63
+creditos#354	creditos	354	(creditos)	(credits)	sistema		　川嶋優嘉（アトリエブーカ）			0x08D25690	28	63
+creditos#355	creditos	355	(creditos)	(credits)	sistema		　柴田正人（手塚プロダクション）			0x08D256D4	32	63
+creditos#357	creditos	357	(creditos)	(credits)	sistema		色彩設計・色指定			0x08D2575C	16	63

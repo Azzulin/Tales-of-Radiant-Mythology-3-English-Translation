@@ -1,0 +1,321 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+foot_equip#960	foot_equip	960	(item/equipamento)	(item/equipment)	sistema		Ｒパイレーツ	R Pirate	
+foot_equip#961	foot_equip	961	(item/equipamento)	(item/equipment)	sistema		Ｒパラディン	R Paladin	
+foot_equip#962	foot_equip	962	(item/equipamento)	(item/equipment)	sistema		Ｒガンマン	R Gunman	
+foot_equip#963	foot_equip	963	(item/equipamento)	(item/equipment)	sistema		位	Rank	
+foot_equip#964	foot_equip	964	(item/equipamento)	(item/equipment)	sistema		識	Knowledge	
+foot_equip#965	foot_equip	965	(item/equipamento)	(item/equipment)	sistema		勘	Intuition	
+foot_equip#966	foot_equip	966	(item/equipamento)	(item/equipment)	sistema		発	Release	
+foot_equip#967	foot_equip	967	(item/equipamento)	(item/equipment)	sistema		医	Medicine	
+foot_equip#968	foot_equip	968	(item/equipamento)	(item/equipment)	sistema		存在しない優先行動です	Invalid priority action.	
+foot_equip#969	foot_equip	969	(item/equipamento)	(item/equipment)	sistema		術を盛大に使え	Go All Out with Artes	
+foot_equip#970	foot_equip	970	(item/equipamento)	(item/equipment)	sistema		威力の高い術に比重をおいた戦闘を優先して行う	Prioritize fighting with a focus on high-power artes.	
+foot_equip#971	foot_equip	971	(item/equipamento)	(item/equipment)	sistema		術を使って闘え	Fight with Artes	
+foot_equip#972	foot_equip	972	(item/equipamento)	(item/equipment)	sistema		中程度の威力の術までに比重をおいた戦闘を優先して行う	Prioritize fighting with a focus on moderate-power artes.	
+foot_equip#973	foot_equip	973	(item/equipamento)	(item/equipment)	sistema		弱い術を使え	Use Weak Artes	
+foot_equip#974	foot_equip	974	(item/equipamento)	(item/equipment)	sistema		弱めの威力の術に抑えた戦闘を優先して行う	Prioritize fighting while keeping to lower-power artes.	
+foot_equip#975	foot_equip	975	(item/equipamento)	(item/equipment)	sistema		後衛を攻撃しろ	Attack Rearguard	
+foot_equip#976	foot_equip	976	(item/equipamento)	(item/equipment)	sistema		遠くにいる敵を優先して攻撃する	Prioritize attacking enemies far away.	
+foot_equip#977	foot_equip	977	(item/equipamento)	(item/equipment)	sistema		秘奥義を使え	Use Mystic Artes	
+foot_equip#978	foot_equip	978	(item/equipamento)	(item/equipment)	sistema		オーバーリミッツ中に秘奥義を実行する	Execute Mystic Artes during Over Limit.	
+foot_equip#979	foot_equip	979	(item/equipamento)	(item/equipment)	sistema		自由に秘奥義を使え	Use Mystic Artes Freely	
+foot_equip#980	foot_equip	980	(item/equipamento)	(item/equipment)	sistema		オーバーリミッツと秘奥義を自由に実行する	Execute Over Limit and Mystic Artes freely.	
+foot_equip#981	foot_equip	981	(item/equipamento)	(item/equipment)	sistema		詠唱を阻止しろ	Interrupt Chanting	
+foot_equip#982	foot_equip	982	(item/equipamento)	(item/equipment)	sistema		詠唱中の敵を攻撃し、詠唱を阻止すべく行動する	Attack enemies while chanting to interrupt them.	
+foot_equip#983	foot_equip	983	(item/equipamento)	(item/equipment)	sistema		同じ敵を狙え	Target Same Enemy	
+foot_equip#984	foot_equip	984	(item/equipamento)	(item/equipment)	sistema		PCがターゲットしている同じ敵を優先して攻撃する	Prioritize attacking the same enemy the PC is targeting.	
+foot_equip#985	foot_equip	985	(item/equipamento)	(item/equipment)	sistema		違う敵を狙え	Target Different Enemy	
+foot_equip#986	foot_equip	986	(item/equipamento)	(item/equipment)	sistema		PCがターゲットしている以外の敵を攻撃する	Attack enemies other than the one the PC is targeting.	
+foot_equip#987	foot_equip	987	(item/equipamento)	(item/equipment)	sistema		守りを固めろ	Tighten Defense	
+foot_equip#988	foot_equip	988	(item/equipamento)	(item/equipment)	sistema		防御行動を優先して行う	Prioritize defensive actions.	
+foot_equip#989	foot_equip	989	(item/equipamento)	(item/equipment)	sistema		回避行動を優先	Prioritize Evasion	
+foot_equip#990	foot_equip	990	(item/equipamento)	(item/equipment)	sistema		回避行動を優先して行う	Prioritize evasive actions.	
+foot_equip#991	foot_equip	991	(item/equipamento)	(item/equipment)	sistema		消極的な行動で	Act Passively	
+foot_equip#992	foot_equip	992	(item/equipamento)	(item/equipment)	sistema		攻撃を控え、防御や回避などの行動を優先的に行う	Refrain from attacking and prioritize actions like defending and evading.	
+foot_equip#993	foot_equip	993	(item/equipamento)	(item/equipment)	sistema		弱ったときは待機	Stand By When Weak	
+foot_equip#994	foot_equip	994	(item/equipamento)	(item/equipment)	sistema		HPが少ない時には攻撃を抑えた行動を優先して行う	Prioritize restraining attacks when HP is low.	
+foot_equip#995	foot_equip	995	(item/equipamento)	(item/equipment)	sistema		敵から離れろ	Keep Away from Enemy	
+foot_equip#996	foot_equip	996	(item/equipamento)	(item/equipment)	sistema		ターゲット中の敵から距離を開ける事を優先して行う	Prioritize keeping distance from the targeted enemy.	
+foot_equip#997	foot_equip	997	(item/equipamento)	(item/equipment)	sistema		味方を蘇生しろ	Revive Allies	
+foot_equip#998	foot_equip	998	(item/equipamento)	(item/equipment)	sistema		戦闘不能状態の仲間を術や技で蘇生する	Revive fallen allies using artes or skills.	
+foot_equip#999	foot_equip	999	(item/equipamento)	(item/equipment)	sistema		HPを小回復しろ	Slightly Recover HP	
+foot_equip#1000	foot_equip	1000	(item/equipamento)	(item/equipment)	sistema		小回復の術や技を使用して回復を行う	Recover using low-tier healing artes or skills.	
+foot_equip#1001	foot_equip	1001	(item/equipamento)	(item/equipment)	sistema		HPを中回復しろ	Moderately Recover HP	
+foot_equip#1002	foot_equip	1002	(item/equipamento)	(item/equipment)	sistema		中回復の術や技を使用して回復を行う	Recover using mid-tier healing artes or skills.	
+foot_equip#1003	foot_equip	1003	(item/equipamento)	(item/equipment)	sistema		HPを大回復しろ	Greatly Recover HP	
+foot_equip#1004	foot_equip	1004	(item/equipamento)	(item/equipment)	sistema		大回復の術や技を使用して回復を行う	Recover using high-tier healing artes or skills.	
+foot_equip#1005	foot_equip	1005	(item/equipamento)	(item/equipment)	sistema		状態回復を優先しろ	Prioritize Status Recovery	
+foot_equip#1006	foot_equip	1006	(item/equipamento)	(item/equipment)	sistema		状態異常や状態変化の仲間を術で治療する	Treat allies with status ailments or stat changes using artes.	
+foot_equip#1007	foot_equip	1007	(item/equipamento)	(item/equipment)	sistema		HP回復は自力で	Self-Heal HP	
+foot_equip#1008	foot_equip	1008	(item/equipamento)	(item/equipment)	sistema		自己回復専用の術や技を所有していれば\nそれを用いて自己を回復する	If possessing artes or skills dedicated to self-healing,\nuse them to heal self.	
+foot_equip#1009	foot_equip	1009	(item/equipamento)	(item/equipment)	sistema		アップルグミ使え	Use Apple Gummy	
+foot_equip#1010	foot_equip	1010	(item/equipamento)	(item/equipment)	sistema		アップルグミを使って仲間のHPを回復する	Recover an ally's HP using an Apple Gummy.	
+foot_equip#1011	foot_equip	1011	(item/equipamento)	(item/equipment)	sistema		オレンジグミ使え	Use Orange Gummy	
+foot_equip#1012	foot_equip	1012	(item/equipamento)	(item/equipment)	sistema		オレンジグミを使って、仲間のTPを回復する	Recover an ally's TP using an Orange Gummy.	
+foot_equip#1013	foot_equip	1013	(item/equipamento)	(item/equipment)	sistema		レモングミ使え	Use Lemon Gummy	
+foot_equip#1014	foot_equip	1014	(item/equipamento)	(item/equipment)	sistema		レモングミを使って、仲間のHPを回復する	Recover an ally's HP using a Lemon Gummy.	
+foot_equip#1015	foot_equip	1015	(item/equipamento)	(item/equipment)	sistema		ライフボトル使え	Use Life Bottle	
+foot_equip#1016	foot_equip	1016	(item/equipamento)	(item/equipment)	sistema		ライフボトルを使って戦闘不能状態の仲間を蘇生する	Revive a fallen ally using a Life Bottle.	
+foot_equip#1017	foot_equip	1017	(item/equipamento)	(item/equipment)	sistema		敵を分析しろ	Analyze Enemy	
+foot_equip#1018	foot_equip	1018	(item/equipamento)	(item/equipment)	sistema		未分析の敵をスペクタクルズや\nインスペクトアイを用いて分析する	Analyze unanalyzed enemies using Spectacles\nor Inspect Eye.	
+foot_equip#1019	foot_equip	1019	(item/equipamento)	(item/equipment)	sistema		回復アイテム使え	Use Healing Items	
+foot_equip#1020	foot_equip	1020	(item/equipamento)	(item/equipment)	sistema		すべての回復アイテムを用いて\n『回復』『治療』『蘇生』の行動を行う	"Use all recovery items to perform\n""Recover"", ""Cure"", and ""Revive"" actions."	
+foot_equip#1021	foot_equip	1021	(item/equipamento)	(item/equipment)	sistema		パイングミ使え	Use Pine Gummy	
+foot_equip#1022	foot_equip	1022	(item/equipamento)	(item/equipment)	sistema		パイングミを使って、仲間のTPを回復する	Recover an ally's TP using a Pine Gummy.	
+foot_equip#1023	foot_equip	1023	(item/equipamento)	(item/equipment)	sistema		ミックスグミ使え	Use Mix Gummy	
+foot_equip#1024	foot_equip	1024	(item/equipamento)	(item/equipment)	sistema		ミックスグミを使って、仲間のTPとHPを回復する	Recover an ally's HP and TP using a Mix Gummy.	
+foot_equip#1025	foot_equip	1025	(item/equipamento)	(item/equipment)	sistema		ミラクルグミ使え	Use Miracle Gummy	
+foot_equip#1026	foot_equip	1026	(item/equipamento)	(item/equipment)	sistema		ミラクルグミを使って、仲間のTPとHPを回復する	Recover an ally's HP and TP using a Miracle Gummy.	
+foot_equip#1027	foot_equip	1027	(item/equipamento)	(item/equipment)	sistema		ボトルで状態異常を回復	Cure Ailments with Bottle	
+foot_equip#1028	foot_equip	1028	(item/equipamento)	(item/equipment)	sistema		状態異常の治療可能なアイテムを使う	Use items capable of treating status ailments.	
+foot_equip#1029	foot_equip	1029	(item/equipamento)	(item/equipment)	sistema		ボトルで状態変化を回復	Cure Changes with Bottle	
+foot_equip#1030	foot_equip	1030	(item/equipamento)	(item/equipment)	sistema		状態変化の治療可能なアイテムを使う	Use items capable of treating stat changes.	
+foot_equip#1031	foot_equip	1031	(item/equipamento)	(item/equipment)	sistema		ボトルで回復	Recover with Bottle	
+foot_equip#1032	foot_equip	1032	(item/equipamento)	(item/equipment)	sistema		状態異常、状態変化、戦闘不能状態を治療可能なアイテムを使う	Use items capable of treating status ailments, stat changes, and incapacitation.	
+foot_equip#1033	foot_equip	1033	(item/equipamento)	(item/equipment)	sistema		薬で全員HP回復	Recover Party HP with Medicine	
+foot_equip#1034	foot_equip	1034	(item/equipamento)	(item/equipment)	sistema		仲間全員のHPを回復可能な薬を使う	Use medicine capable of recovering all allies' HP.	
+foot_equip#1035	foot_equip	1035	(item/equipamento)	(item/equipment)	sistema		薬で全員TP回復	Recover Party TP with Medicine	
+foot_equip#1036	foot_equip	1036	(item/equipamento)	(item/equipment)	sistema		仲間全員のTPを回復可能な薬を使う	Use medicine capable of recovering all allies' TP.	
+foot_equip#1037	foot_equip	1037	(item/equipamento)	(item/equipment)	sistema		アイテムを奪え	Steal Items	
+foot_equip#1038	foot_equip	1038	(item/equipamento)	(item/equipment)	sistema		盗む事のできる技を所有している場合に\n１戦闘中に盗んでいない敵からアイテムを盗む	If possessing a skill capable of stealing,\nsteal items from enemies not yet stolen from in battle.	
+foot_equip#1039	foot_equip	1039	(item/equipamento)	(item/equipment)	sistema		待機しろ	Stand By	
+foot_equip#1040	foot_equip	1040	(item/equipamento)	(item/equipment)	sistema		攻撃を止め、防御や回避などの待機行動を行う	Stop attacking and perform standby actions like defending and evading.	
+foot_equip#1041	foot_equip	1041	(item/equipamento)	(item/equipment)	sistema		お金を奪え	Steal Gald	
+foot_equip#1042	foot_equip	1042	(item/equipamento)	(item/equipment)	sistema		サーチガルドを使って、お金を奪う、拾う行動を行う	Use Search Gald to steal and gather Gald.	
+foot_equip#1043	foot_equip	1043	(item/equipamento)	(item/equipment)	sistema		補助術を積極的に使え	Aggressively Use Support Artes	
+foot_equip#1044	foot_equip	1044	(item/equipamento)	(item/equipment)	sistema		 敵の強さに関係無く積極的に補助術を使う	 Aggressively use support artes regardless of enemy strength.	
+foot_equip#1045	foot_equip	1045	(item/equipamento)	(item/equipment)	sistema		補助術を適度に使え	Moderately Use Support Artes	
+foot_equip#1046	foot_equip	1046	(item/equipamento)	(item/equipment)	sistema		 敵の強さに関係無く適度に補助術を使う	 Moderately use support artes regardless of enemy strength.	
+foot_equip#1047	foot_equip	1047	(item/equipamento)	(item/equipment)	sistema		オーバーリミッツを使え	Use Over Limit	
+foot_equip#1048	foot_equip	1048	(item/equipamento)	(item/equipment)	sistema		リミッツゲージが満了時にオーバーリミッツ状態になる	Enter Over Limit when the Over Limit Gauge is full.	
+foot_equip#1049	foot_equip	1049	(item/equipamento)	(item/equipment)	sistema		全力で闘え	Fight with All Your Might	
+foot_equip#1050	foot_equip	1050	(item/equipamento)	(item/equipment)	sistema		ＴＰを際限無く使って全力で闘う	Fight with all your might, using TP without limit.	
+foot_equip#1051	foot_equip	1051	(item/equipamento)	(item/equipment)	sistema		ほどほどに闘え	Fight Moderately	
+foot_equip#1052	foot_equip	1052	(item/equipamento)	(item/equipment)	sistema		攻撃頻度をほどほどにＴＰの使用を抑えて闘う	Fight with moderate attack frequency, restraining TP consumption.	
+foot_equip#1053	foot_equip	1053	(item/equipamento)	(item/equipment)	sistema		手加減して闘え	Go Easy on the Enemy	
+foot_equip#1054	foot_equip	1054	(item/equipamento)	(item/equipment)	sistema		攻撃頻度をかなり控えＴＰの使用を抑えて闘う	Fight while significantly reducing attack frequency and saving TP.	
+foot_equip#1055	foot_equip	1055	(item/equipamento)	(item/equipment)	sistema		技は使わず闘え	Fight Without Using Skills	
+foot_equip#1056	foot_equip	1056	(item/equipamento)	(item/equipment)	sistema		技をあまり使わず、通常攻撃を主体とした戦闘を行う	Fight primarily with normal attacks without using many skills.	
+foot_equip#1057	foot_equip	1057	(item/equipamento)	(item/equipment)	sistema		試し	Test	
+foot_equip#1058	foot_equip	1058	(item/equipamento)	(item/equipment)	sistema		お試し	Trial	
+foot_equip#1059	foot_equip	1059	(item/equipamento)	(item/equipment)	sistema		ダミー	Dummy	
+foot_equip#1060	foot_equip	1060	(item/equipamento)	(item/equipment)	sistema		プレイヤー	Player	
+foot_equip#1061	foot_equip	1061	(item/equipamento)	(item/equipment)	sistema		剣士	Swordsman	
+foot_equip#1062	foot_equip	1062	(item/equipamento)	(item/equipment)	sistema		聖職者	Cleric	
+foot_equip#1063	foot_equip	1063	(item/equipamento)	(item/equipment)	sistema		ハンター	Hunter	
+foot_equip#1064	foot_equip	1064	(item/equipamento)	(item/equipment)	sistema		マジックユーザー	Magic User	
+foot_equip#1065	foot_equip	1065	(item/equipamento)	(item/equipment)	sistema		雀忍者	Sparrow Ninja	
+foot_equip#1066	foot_equip	1066	(item/equipamento)	(item/equipment)	sistema		田舎の正直者	Honest Country Boy	
+foot_equip#1067	foot_equip	1067	(item/equipamento)	(item/equipment)	sistema		強欲の魔女	Greedy Witch	
+foot_equip#1068	foot_equip	1068	(item/equipamento)	(item/equipment)	sistema		王国客員剣士	Kingdom Guest Swordsman	
+foot_equip#1069	foot_equip	1069	(item/equipamento)	(item/equipment)	sistema		王族	Royalty	
+foot_equip#1070	foot_equip	1070	(item/equipamento)	(item/equipment)	sistema		小弓ガール	Shortbow Girl	
+foot_equip#1071	foot_equip	1071	(item/equipamento)	(item/equipment)	sistema		チャンピオン	Champion	
+foot_equip#1072	foot_equip	1072	(item/equipamento)	(item/equipment)	sistema		家事手伝い	Homemaker	
+foot_equip#1073	foot_equip	1073	(item/equipamento)	(item/equipment)	sistema		猟師	Huntsman	
+foot_equip#1074	foot_equip	1074	(item/equipamento)	(item/equipment)	sistema		ファーマー	Farmer	
+foot_equip#1075	foot_equip	1075	(item/equipamento)	(item/equipment)	sistema		学士	Scholar	
+foot_equip#1076	foot_equip	1076	(item/equipamento)	(item/equipment)	sistema		異国の少女？	Foreign Girl?	
+foot_equip#1077	foot_equip	1077	(item/equipamento)	(item/equipment)	sistema		キャプテン	Captain	
+foot_equip#1078	foot_equip	1078	(item/equipamento)	(item/equipment)	sistema		氷の精霊	Ice Spirit	
+foot_equip#1079	foot_equip	1079	(item/equipamento)	(item/equipment)	sistema		英雄志願	Aspiring Hero	
+foot_equip#1080	foot_equip	1080	(item/equipamento)	(item/equipment)	sistema		聖女	Holy Maiden	
+foot_equip#1081	foot_equip	1081	(item/equipamento)	(item/equipment)	sistema		護衛兵	Bodyguard	
+foot_equip#1082	foot_equip	1082	(item/equipamento)	(item/equipment)	sistema		仮面の剣士	Masked Swordsman	
+foot_equip#1083	foot_equip	1083	(item/equipamento)	(item/equipment)	sistema		弓使い	Archer	
+foot_equip#1084	foot_equip	1084	(item/equipamento)	(item/equipment)	sistema		天才科学者	Genius Scientist	
+foot_equip#1085	foot_equip	1085	(item/equipamento)	(item/equipment)	sistema		ドジっ娘	Clumsy Girl	
+foot_equip#1086	foot_equip	1086	(item/equipamento)	(item/equipment)	sistema		優等生	Honor Student	
+foot_equip#1087	foot_equip	1087	(item/equipamento)	(item/equipment)	sistema		教師	Teacher	
+foot_equip#1088	foot_equip	1088	(item/equipamento)	(item/equipment)	sistema		傭兵	Mercenary	
+foot_equip#1089	foot_equip	1089	(item/equipamento)	(item/equipment)	sistema		ミブナの忍び	Mibuna Shinobi	
+foot_equip#1090	foot_equip	1090	(item/equipamento)	(item/equipment)	sistema		魔剣士	Magic Swordsman	
+foot_equip#1091	foot_equip	1091	(item/equipamento)	(item/equipment)	sistema		寡黙な娘	Taciturn Girl	
+foot_equip#1092	foot_equip	1092	(item/equipamento)	(item/equipment)	sistema		クレア	Claire	
+foot_equip#1093	foot_equip	1093	(item/equipamento)	(item/equipment)	sistema		元軍人	Former Soldier	
+foot_equip#1094	foot_equip	1094	(item/equipamento)	(item/equipment)	sistema		術使い	Arte User	
+foot_equip#1095	foot_equip	1095	(item/equipamento)	(item/equipment)	sistema		エコロジスト	Ecologist	
+foot_equip#1096	foot_equip	1096	(item/equipamento)	(item/equipment)	sistema		医者志望	Aspiring Doctor	
+foot_equip#1097	foot_equip	1097	(item/equipamento)	(item/equipment)	sistema		やさしいお兄ちゃん	Kind Big Brother	
+foot_equip#1098	foot_equip	1098	(item/equipamento)	(item/equipment)	sistema		いのる少女	Praying Maiden	
+foot_equip#1099	foot_equip	1099	(item/equipamento)	(item/equipment)	sistema		博物オヤジ	Naturalist Old Man	
+foot_equip#1100	foot_equip	1100	(item/equipamento)	(item/equipment)	sistema		少女剣士	Girl Swordsman	
+foot_equip#1101	foot_equip	1101	(item/equipamento)	(item/equipment)	sistema		おたから娘	Treasure Hunter Girl	
+foot_equip#1102	foot_equip	1102	(item/equipamento)	(item/equipment)	sistema		「不可視」のジェイ	"""Invisible"" Jay"	
+foot_equip#1103	foot_equip	1103	(item/equipamento)	(item/equipment)	sistema		王位第一継承者	First in Line to the Throne	
+foot_equip#1104	foot_equip	1104	(item/equipamento)	(item/equipment)	sistema		クールレディ	Cool Lady	
+foot_equip#1105	foot_equip	1105	(item/equipamento)	(item/equipment)	sistema		護衛剣士	Guard Swordsman	
+foot_equip#1106	foot_equip	1106	(item/equipamento)	(item/equipment)	sistema		大佐	Colonel	
+foot_equip#1107	foot_equip	1107	(item/equipamento)	(item/equipment)	sistema		大人な子ども（？）	Mature Child (?)	
+foot_equip#1108	foot_equip	1108	(item/equipamento)	(item/equipment)	sistema		王女	Princess	
+foot_equip#1109	foot_equip	1109	(item/equipamento)	(item/equipment)	sistema		王位第二継承者	Second in Line to the Throne	
+foot_equip#1110	foot_equip	1110	(item/equipamento)	(item/equipment)	sistema		騎士団主席総長	Knight Commander-in-Chief	
+foot_equip#1111	foot_equip	1111	(item/equipamento)	(item/equipment)	sistema		村の少年	Village Boy	
+foot_equip#1112	foot_equip	1112	(item/equipamento)	(item/equipment)	sistema		商家の息子	Merchant's Son	
+foot_equip#1113	foot_equip	1113	(item/equipamento)	(item/equipment)	sistema		村長の娘	Village Chief's Daughter	
+foot_equip#1114	foot_equip	1114	(item/equipamento)	(item/equipment)	sistema		不良少年	Delinquent Boy	
+foot_equip#1115	foot_equip	1115	(item/equipamento)	(item/equipment)	sistema		ギルドリーダー	Guild Leader	
+foot_equip#1116	foot_equip	1116	(item/equipamento)	(item/equipment)	sistema		凄腕のスナイパー	Master Sniper	
+foot_equip#1117	foot_equip	1117	(item/equipamento)	(item/equipment)	sistema		下町の青年	Lower Quarter Youth	
+foot_equip#1118	foot_equip	1118	(item/equipamento)	(item/equipment)	sistema		真実を求める姫君	Princess Seeking Truth	
+foot_equip#1119	foot_equip	1119	(item/equipamento)	(item/equipment)	sistema		ビューティランサー	Beauty Lancer	
+foot_equip#1120	foot_equip	1120	(item/equipamento)	(item/equipment)	sistema		天才少女	Genius Girl	
+foot_equip#1121	foot_equip	1121	(item/equipamento)	(item/equipment)	sistema		うさんくさいおっさん	Suspicious Old Guy	
+foot_equip#1122	foot_equip	1122	(item/equipamento)	(item/equipment)	sistema		騎士団団長	Knight Captain	
+foot_equip#1123	foot_equip	1123	(item/equipamento)	(item/equipment)	sistema		内気な少年	Timid Boy	
+foot_equip#1124	foot_equip	1124	(item/equipamento)	(item/equipment)	sistema		想いが重い（？）少女	Heavyhearted (?) Girl	
+foot_equip#1125	foot_equip	1125	(item/equipamento)	(item/equipment)	sistema		精霊の守り人	Guardian of Spirits	
+foot_equip#1126	foot_equip	1126	(item/equipamento)	(item/equipment)	sistema		夢見る少年	Dreaming Boy	
+foot_equip#1127	foot_equip	1127	(item/equipamento)	(item/equipment)	sistema		キックの鬼	Demon of Kicking	
+foot_equip#1128	foot_equip	1128	(item/equipamento)	(item/equipment)	sistema		兄貴 ＯＦ 兄貴	Bro of Bros	
+foot_equip#1129	foot_equip	1129	(item/equipamento)	(item/equipment)	sistema		騎士	Knight	
+foot_equip#1130	foot_equip	1130	(item/equipamento)	(item/equipment)	sistema		花の名の少女	Girl Named After a Flower	
+foot_equip#1131	foot_equip	1131	(item/equipamento)	(item/equipment)	sistema		お世話エンプレス	Caretaker Empress	
+foot_equip#1132	foot_equip	1132	(item/equipamento)	(item/equipment)	sistema		夢を描く少女	Dream-Weaving Girl	
+foot_equip#1133	foot_equip	1133	(item/equipamento)	(item/equipment)	sistema		オリジナル・カノンノ	Original Kanonno	
+foot_equip#1134	foot_equip	1134	(item/equipamento)	(item/equipment)	sistema		パスカのディセンダー	Pasca's Descender	
+foot_equip#1135	foot_equip	1135	(item/equipamento)	(item/equipment)	sistema		おとぎ少女	Fairytale Girl	
+foot_equip#1136	foot_equip	1136	(item/equipamento)	(item/equipment)	sistema		クィッキー	Quickie	
+foot_equip#1137	foot_equip	1137	(item/equipamento)	(item/equipment)	sistema		キュッポ	Kyuppo	
+foot_equip#1138	foot_equip	1138	(item/equipamento)	(item/equipment)	sistema		ピッポ	Pippo	
+foot_equip#1139	foot_equip	1139	(item/equipamento)	(item/equipment)	sistema		ポッポ	Poppo	
+foot_equip#1140	foot_equip	1140	(item/equipamento)	(item/equipment)	sistema		コーダ	Coda	
+foot_equip#1141	foot_equip	1141	(item/equipamento)	(item/equipment)	sistema		アーダ	Arda	
+foot_equip#1142	foot_equip	1142	(item/equipamento)	(item/equipment)	sistema		ロックス	Rocks	
+foot_equip#1143	foot_equip	1143	(item/equipamento)	(item/equipment)	sistema		ニアタ	Niata	
+foot_equip#1144	foot_equip	1144	(item/equipamento)	(item/equipment)	sistema		ジョアン	Joan	
+foot_equip#1145	foot_equip	1145	(item/equipamento)	(item/equipment)	sistema		ミゲル	Miguel	
+foot_equip#1146	foot_equip	1146	(item/equipamento)	(item/equipment)	sistema		トマス	Thomas	
+foot_equip#1147	foot_equip	1147	(item/equipamento)	(item/equipment)	sistema		ＮＰＣ男	Male NPC	
+foot_equip#1148	foot_equip	1148	(item/equipamento)	(item/equipment)	sistema		ＮＰＣ女	Female NPC	
+foot_equip#1149	foot_equip	1149	(item/equipamento)	(item/equipment)	sistema		信者１	Cultist 1	
+foot_equip#1150	foot_equip	1150	(item/equipamento)	(item/equipment)	sistema		信者２	Cultist 2	
+foot_equip#1151	foot_equip	1151	(item/equipamento)	(item/equipment)	sistema		信者３	Cultist 3	
+foot_equip#1152	foot_equip	1152	(item/equipamento)	(item/equipment)	sistema		信者４	Cultist 4	
+foot_equip#1153	foot_equip	1153	(item/equipamento)	(item/equipment)	sistema		オーギュスト	Auguste	
+foot_equip#1154	foot_equip	1154	(item/equipamento)	(item/equipment)	sistema		レイチェル	Rachel	
+foot_equip#1155	foot_equip	1155	(item/equipamento)	(item/equipment)	sistema		ヴォイト	Voigt	
+foot_equip#1156	foot_equip	1156	(item/equipamento)	(item/equipment)	sistema		ヴィヴィアン	Vivian	
+foot_equip#1157	foot_equip	1157	(item/equipamento)	(item/equipment)	sistema		フォックス	Fox	
+foot_equip#1158	foot_equip	1158	(item/equipamento)	(item/equipment)	sistema		ハルベリー	Halberry	
+foot_equip#1159	foot_equip	1159	(item/equipamento)	(item/equipment)	sistema		ステイサム	Statham	
+foot_equip#1160	foot_equip	1160	(item/equipamento)	(item/equipment)	sistema		ナオミ	Naomi	
+foot_equip#1161	foot_equip	1161	(item/equipamento)	(item/equipment)	sistema		ディーゼル	Diesel	
+foot_equip#1162	foot_equip	1162	(item/equipamento)	(item/equipment)	sistema		ロビンライト	Robinlight	
+foot_equip#1163	foot_equip	1163	(item/equipamento)	(item/equipment)	sistema		ムスタファ	Mustafa	
+foot_equip#1164	foot_equip	1164	(item/equipamento)	(item/equipment)	sistema		フェイ	Faye	
+foot_equip#1165	foot_equip	1165	(item/equipamento)	(item/equipment)	sistema		マシュー	Matthew	
+foot_equip#1166	foot_equip	1166	(item/equipamento)	(item/equipment)	sistema		マギー	Maggie	
+foot_equip#1167	foot_equip	1167	(item/equipamento)	(item/equipment)	sistema		リシャール	Richard	
+foot_equip#1168	foot_equip	1168	(item/equipamento)	(item/equipment)	sistema		ユン	Yun	
+foot_equip#1169	foot_equip	1169	(item/equipamento)	(item/equipment)	sistema		シーガル	Seagull	
+foot_equip#1170	foot_equip	1170	(item/equipamento)	(item/equipment)	sistema		ロッタ	Lotta	
+foot_equip#1171	foot_equip	1171	(item/equipamento)	(item/equipment)	sistema		ハーヴェイ	Harvey	
+foot_equip#1172	foot_equip	1172	(item/equipamento)	(item/equipment)	sistema		ウルスラ	Ursula	
+foot_equip#1173	foot_equip	1173	(item/equipamento)	(item/equipment)	sistema		ラザー	Lazar	
+foot_equip#1174	foot_equip	1174	(item/equipamento)	(item/equipment)	sistema		ザジ	Zaji	
+foot_equip#1175	foot_equip	1175	(item/equipamento)	(item/equipment)	sistema		トラビス	Travis	
+foot_equip#1176	foot_equip	1176	(item/equipamento)	(item/equipment)	sistema		サンディ	Sandy	
+foot_equip#1177	foot_equip	1177	(item/equipamento)	(item/equipment)	sistema		イヅマル	Izumaru	
+foot_equip#1178	foot_equip	1178	(item/equipamento)	(item/equipment)	sistema		リュウ・イー	Liu Yi	
+foot_equip#1179	foot_equip	1179	(item/equipamento)	(item/equipment)	sistema		バーニー	Barney	
+foot_equip#1180	foot_equip	1180	(item/equipamento)	(item/equipment)	sistema		アラニス	Alanis	
+foot_equip#1181	foot_equip	1181	(item/equipamento)	(item/equipment)	sistema		パイパー	Piper	
+foot_equip#1182	foot_equip	1182	(item/equipamento)	(item/equipment)	sistema		ペール	Pere	
+foot_equip#1183	foot_equip	1183	(item/equipamento)	(item/equipment)	sistema		ローランド	Roland	
+foot_equip#1184	foot_equip	1184	(item/equipamento)	(item/equipment)	sistema		オーキッド	Orchid	
+foot_equip#1185	foot_equip	1185	(item/equipamento)	(item/equipment)	sistema		ダウンロード傭兵１	Download Mercenary 1	
+foot_equip#1186	foot_equip	1186	(item/equipamento)	(item/equipment)	sistema		ダウンロード傭兵２	Download Mercenary 2	
+foot_equip#1187	foot_equip	1187	(item/equipamento)	(item/equipment)	sistema		ダウンロード傭兵３	Download Mercenary 3	
+foot_equip#1188	foot_equip	1188	(item/equipamento)	(item/equipment)	sistema		ダウンロード傭兵４	Download Mercenary 4	
+foot_equip#1189	foot_equip	1189	(item/equipamento)	(item/equipment)	sistema		ダウンロード傭兵５	Download Mercenary 5	
+foot_equip#1190	foot_equip	1190	(item/equipamento)	(item/equipment)	sistema		終端	End	
+foot_equip#1191	foot_equip	1191	(item/equipamento)	(item/equipment)	sistema		無効値	Invalid Value	
+foot_equip#1192	foot_equip	1192	(item/equipamento)	(item/equipment)	sistema		なし	None	
+foot_equip#1193	foot_equip	1193	(item/equipamento)	(item/equipment)	sistema		パン	Bread	
+foot_equip#1194	foot_equip	1194	(item/equipamento)	(item/equipment)	sistema		素朴な味わい	A simple flavor.	
+foot_equip#1195	foot_equip	1195	(item/equipamento)	(item/equipment)	sistema		ライスパン	Rice Bread	
+foot_equip#1196	foot_equip	1196	(item/equipamento)	(item/equipment)	sistema		食感もっちり！	A chewy texture!	
+foot_equip#1197	foot_equip	1197	(item/equipamento)	(item/equipment)	sistema		カレーパン	Curry Bread	
+foot_equip#1198	foot_equip	1198	(item/equipamento)	(item/equipment)	sistema		絶妙なスパイスが効いたカレーパン	Curry bread spiced to perfection.	
+foot_equip#1199	foot_equip	1199	(item/equipamento)	(item/equipment)	sistema		ツナサンド	Tuna Sandwich	
+foot_equip#1200	foot_equip	1200	(item/equipamento)	(item/equipment)	sistema		ツナとマヨネーズのハーモニーがたまらない	An irresistible harmony of tuna and mayonnaise.	
+foot_equip#1201	foot_equip	1201	(item/equipamento)	(item/equipment)	sistema		ミックスサンド	Mixed Sandwich	
+foot_equip#1202	foot_equip	1202	(item/equipamento)	(item/equipment)	sistema		具沢山のサンドイッチ	A sandwich loaded with fillings.	
+foot_equip#1203	foot_equip	1203	(item/equipamento)	(item/equipment)	sistema		チーズバーガー	Cheeseburger	
+foot_equip#1204	foot_equip	1204	(item/equipamento)	(item/equipment)	sistema		とろーりチーズと、パテから溢れる肉汁がもう最高！	Melted cheese and juicy patties make this the best!	
+foot_equip#1205	foot_equip	1205	(item/equipamento)	(item/equipment)	sistema		フレンチトースト	French Toast	
+foot_equip#1206	foot_equip	1206	(item/equipamento)	(item/equipment)	sistema		タマゴ、ミルク、シナモンが染み込んだパン	Bread soaked with eggs, milk, and cinnamon.	
+foot_equip#1207	foot_equip	1207	(item/equipamento)	(item/equipment)	sistema		ベーグル・サーモン	Salmon Bagel	
+foot_equip#1208	foot_equip	1208	(item/equipamento)	(item/equipment)	sistema		サーモンが具になった、ヘルシーなパン	A healthy bagel filled with salmon.	
+foot_equip#1209	foot_equip	1209	(item/equipamento)	(item/equipment)	sistema		マーボーカレーパン	Mabo Curry Bread	
+foot_equip#1210	foot_equip	1210	(item/equipamento)	(item/equipment)	sistema		伝説とまで言われたパンの中のパンの極上パン	A superb bread among breads, hailed as legendary.	
+foot_equip#1211	foot_equip	1211	(item/equipamento)	(item/equipment)	sistema		野菜サラダ	Vegetable Salad	
+foot_equip#1212	foot_equip	1212	(item/equipamento)	(item/equipment)	sistema		野菜たっぷりのヘルシーサラダ	A healthy salad packed with vegetables.	
+foot_equip#1213	foot_equip	1213	(item/equipamento)	(item/equipment)	sistema		シーザーサラダ	Caesar Salad	
+foot_equip#1214	foot_equip	1214	(item/equipamento)	(item/equipment)	sistema		様々な具が盛りだくさんのごちそうサラダ	A feast of a salad packed with various ingredients.	
+foot_equip#1215	foot_equip	1215	(item/equipamento)	(item/equipment)	sistema		オニギリ	Rice Ball	
+foot_equip#1216	foot_equip	1216	(item/equipamento)	(item/equipment)	sistema		冒険のお供に	A companion for your adventures.	
+foot_equip#1217	foot_equip	1217	(item/equipamento)	(item/equipment)	sistema		バラ寿司	Chirashizushi	
+foot_equip#1218	foot_equip	1218	(item/equipamento)	(item/equipment)	sistema		酢飯の上に色々な魚介肉がのった寿司	Sushi topped with various seafood on vinegared rice.	
+foot_equip#1219	foot_equip	1219	(item/equipamento)	(item/equipment)	sistema		オムライス	Omelet Rice	
+foot_equip#1220	foot_equip	1220	(item/equipamento)	(item/equipment)	sistema		ケチャップご飯を薄焼き卵でくるみました	Ketchup-seasoned rice wrapped in a thin omelet.	
+foot_equip#1221	foot_equip	1221	(item/equipamento)	(item/equipment)	sistema		パイナップルご飯	Pineapple Rice	
+foot_equip#1222	foot_equip	1222	(item/equipamento)	(item/equipment)	sistema		パインと一緒に煮込んだご飯。意外と合う	Rice cooked with pineapple. Surprisingly good.	
+foot_equip#1223	foot_equip	1223	(item/equipamento)	(item/equipment)	sistema		カレーライス	Curry Rice	
+foot_equip#1224	foot_equip	1224	(item/equipamento)	(item/equipment)	sistema		絶妙なスパイスが効いたカレーライス	Curry rice spiced to perfection.	
+foot_equip#1225	foot_equip	1225	(item/equipamento)	(item/equipment)	sistema		マーボーカレー	Mabo Curry	
+foot_equip#1226	foot_equip	1226	(item/equipamento)	(item/equipment)	sistema		伝説とまで言われた極上料理	A superb dish hailed as legendary.	
+foot_equip#1227	foot_equip	1227	(item/equipamento)	(item/equipment)	sistema		マーボーパイ	Mabo Pie	
+foot_equip#1228	foot_equip	1228	(item/equipamento)	(item/equipment)	sistema		麻婆豆腐を具に迎えた極上のパイ	A superb pie with mabo tofu as its filling.	
+foot_equip#1229	foot_equip	1229	(item/equipamento)	(item/equipment)	sistema		お好み焼き	Okonomiyaki	
+foot_equip#1230	foot_equip	1230	(item/equipamento)	(item/equipment)	sistema		小麦粉の生地に具を加え、鉄板の上で焼いたもの	Ingredients added to flour batter and grilled on an iron plate.	
+foot_equip#1231	foot_equip	1231	(item/equipamento)	(item/equipment)	sistema		トロピカルピザ	Tropical Pizza	
+foot_equip#1232	foot_equip	1232	(item/equipamento)	(item/equipment)	sistema		フルーツがトッピングされた南国エキゾチックな味	An exotic tropical flavor topped with fruit.	
+foot_equip#1233	foot_equip	1233	(item/equipamento)	(item/equipment)	sistema		プッタネスカ	Puttanesca	
+foot_equip#1234	foot_equip	1234	(item/equipamento)	(item/equipment)	sistema		小魚とケッパーが入っているパスタ	Pasta with small fish and capers.	
+foot_equip#1235	foot_equip	1235	(item/equipamento)	(item/equipment)	sistema		海鮮茶碗蒸し	Seafood Chawanmushi	
+foot_equip#1236	foot_equip	1236	(item/equipamento)	(item/equipment)	sistema		海の幸から出た旨み溢れる茶碗蒸し	Steamed egg custard brimming with seafood flavor.	
+foot_equip#1237	foot_equip	1237	(item/equipamento)	(item/equipment)	sistema		じゃがバター	Butter Potato	
+foot_equip#1238	foot_equip	1238	(item/equipamento)	(item/equipment)	sistema		バターが塗られたホクホクのイモ	A steaming-hot potato smothered in butter.	
+foot_equip#1239	foot_equip	1239	(item/equipamento)	(item/equipment)	sistema		だご汁	Dango Soup	
+foot_equip#1240	foot_equip	1240	(item/equipamento)	(item/equipment)	sistema		小麦粉で作られた団子が入った味噌汁	Miso soup with dumplings made from flour.	
+foot_equip#1241	foot_equip	1241	(item/equipamento)	(item/equipment)	sistema		おでん	Oden	
+foot_equip#1242	foot_equip	1242	(item/equipamento)	(item/equipment)	sistema		どこか懐かしく、優しい味わい	A comforting and somewhat nostalgic flavor.	
+foot_equip#1243	foot_equip	1243	(item/equipamento)	(item/equipment)	sistema		麻婆豆腐	Mabo Tofu	
+foot_equip#1244	foot_equip	1244	(item/equipamento)	(item/equipment)	sistema		絶妙なスパイスとトロミがたまらない	Exquisite spices and rich sauce make it irresistible.	
+foot_equip#1245	foot_equip	1245	(item/equipamento)	(item/equipment)	sistema		ハンバーグ	Hamburg Steak	
+foot_equip#1246	foot_equip	1246	(item/equipamento)	(item/equipment)	sistema		家庭の定番料理	A staple of home cooking.	
+foot_equip#1247	foot_equip	1247	(item/equipamento)	(item/equipment)	sistema		ロールキャベツ	Cabbage Roll	
+foot_equip#1248	foot_equip	1248	(item/equipamento)	(item/equipment)	sistema		柔らかく煮込まれた肉汁たっぷりのロールキャベツ	Tender, simmered cabbage rolls bursting with juicy flavor.	
+foot_equip#1249	foot_equip	1249	(item/equipamento)	(item/equipment)	sistema		紅茶煮豚	Tea-Simmered Pork	
+foot_equip#1250	foot_equip	1250	(item/equipamento)	(item/equipment)	sistema		紅茶で煮込まれた豚肉。紅茶が染み込んでいます	Pork simmered in black tea. Infused with tea flavor.	
+foot_equip#1251	foot_equip	1251	(item/equipamento)	(item/equipment)	sistema		ラタトゥイユ	Ratatouille	
+foot_equip#1252	foot_equip	1252	(item/equipamento)	(item/equipment)	sistema		野菜のごった煮	A hearty stew of vegetables.	
+foot_equip#1253	foot_equip	1253	(item/equipamento)	(item/equipment)	sistema		チーズフォンデュ	Cheese Fondue	
+foot_equip#1254	foot_equip	1254	(item/equipamento)	(item/equipment)	sistema		様々な具を、熱したチーズにつけて食べる料理	A dish where various ingredients are dipped in melted cheese.	
+foot_equip#1255	foot_equip	1255	(item/equipamento)	(item/equipment)	sistema		フルーツグラタン	Fruit Gratin	
+foot_equip#1256	foot_equip	1256	(item/equipamento)	(item/equipment)	sistema		フルーツたっぷりのグラタン	A gratin packed with fruit.	
+foot_equip#1257	foot_equip	1257	(item/equipamento)	(item/equipment)	sistema		レモンパイ	Lemon Pie	
+foot_equip#1258	foot_equip	1258	(item/equipamento)	(item/equipment)	sistema		アツアツサクサクの焼き立てレモンパイ	A piping-hot, crispy, freshly baked lemon pie.	
+foot_equip#1259	foot_equip	1259	(item/equipamento)	(item/equipment)	sistema		チャイ	Chai	
+foot_equip#1260	foot_equip	1260	(item/equipamento)	(item/equipment)	sistema		ミルクで煮出した紅茶	Black tea brewed with milk.	
+foot_equip#1261	foot_equip	1261	(item/equipamento)	(item/equipment)	sistema		紅茶クッキー	Tea Cookies	
+foot_equip#1262	foot_equip	1262	(item/equipamento)	(item/equipment)	sistema		紅茶の香りがするクッキー	Cookies fragrant with black tea.	
+foot_equip#1263	foot_equip	1263	(item/equipamento)	(item/equipment)	sistema		クレープシュゼット	Crepe Suzette	
+foot_equip#1264	foot_equip	1264	(item/equipamento)	(item/equipment)	sistema		オレンジのソースで煮込んだクレープ	Crepes simmered in orange sauce.	
+foot_equip#1265	foot_equip	1265	(item/equipamento)	(item/equipment)	sistema		通称おいしおいし	Commonly Known as Yummy-Yum	
+foot_equip#1266	foot_equip	1266	(item/equipamento)	(item/equipment)	sistema		フルーツパフェ・ウィズ・ショコラバナ〜ヌおいしおいし	Fruit Parfait with Choco-Banane Yummy-Yum	
+foot_equip#1267	foot_equip	1267	(item/equipamento)	(item/equipment)	sistema		山海珍味スープ	Mountain and Sea Delicacy Soup	
+foot_equip#1268	foot_equip	1268	(item/equipamento)	(item/equipment)	sistema		山と海の珍味が大集合したスープ	A soup bringing together delicacies from land and sea.	
+foot_equip#1269	foot_equip	1269	(item/equipamento)	(item/equipment)	sistema		薬膳チャンプルー	Medicinal Champuru	
+foot_equip#1270	foot_equip	1270	(item/equipamento)	(item/equipment)	sistema		野菜、豆腐を混ぜて炒めた料理	A stir-fry mixing vegetables and tofu.	
+foot_equip#1271	foot_equip	1271	(item/equipamento)	(item/equipment)	sistema		まンカんぜんセき	Manchu-Han Imperial Feast	
+foot_equip#1272	foot_equip	1272	(item/equipamento)	(item/equipment)	sistema		漢気で全ての席を満たしたと故事に残る料理、満漢全席	A legendary feast said to have filled every seat with manly spirit: the Manchu-Han Imperial Feast.	
+foot_equip#1273	foot_equip	1273	(item/equipamento)	(item/equipment)	sistema		最大値	Maximum Value	
+foot_equip#1274	foot_equip	1274	(item/equipamento)	(item/equipment)	sistema		戦士初期装備	Warrior Default Equipment	
+foot_equip#1275	foot_equip	1275	(item/equipamento)	(item/equipment)	sistema		剣士初期装備	Swordsman Default Equipment	
+foot_equip#1276	foot_equip	1276	(item/equipamento)	(item/equipment)	sistema		魔法剣士初期装備	Spellsword Default Equipment	
+foot_equip#1277	foot_equip	1277	(item/equipamento)	(item/equipment)	sistema		格闘家初期装備	Martial Artist Default Equipment	
+foot_equip#1278	foot_equip	1278	(item/equipamento)	(item/equipment)	sistema		狩人初期装備	Hunter Default Equipment	
+foot_equip#1279	foot_equip	1279	(item/equipamento)	(item/equipment)	sistema		盗賊初期装備	Thief Default Equipment	

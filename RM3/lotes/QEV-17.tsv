@@ -1,0 +1,80 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev17_010.scr:0	qev17_010.scr	0	すず	Suzu Fujibayashi	personagem		…………		
+qev17_010.scr:1	qev17_010.scr	1	すず	Suzu Fujibayashi	personagem		あ……		
+qev17_010.scr:2	qev17_010.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x1	すみません、\n少しぼーっとしていた様です		
+qev17_010.scr:3	qev17_010.scr	3	すず	Suzu Fujibayashi	personagem		私に何か御用ですか？		
+qev17_010.scr:4	qev17_010.scr	4	(ator 200)	(ator 200)	desconhecido		…………		
+qev17_010.scr:5	qev17_010.scr	5	すず	Suzu Fujibayashi	personagem		…………		
+qev17_010.scr:6	qev17_010.scr	6	すず	Suzu Fujibayashi	personagem	CRLF x2	わかっています。\nあなたは、私を心配して\n声をかけてくれたのですね		
+qev17_010.scr:7	qev17_010.scr	7	すず	Suzu Fujibayashi	personagem	CRLF x1	忍者は非情でなくては務まらないのに……。\n私は、まだまだ、未熟者です……		
+qev17_010.scr:8	qev17_010.scr	8	すず	Suzu Fujibayashi	personagem		あの、○○さん		
+qev17_010.scr:9	qev17_010.scr	9	すず	Suzu Fujibayashi	personagem		お願いがあります		
+qev17_010.scr:10	qev17_010.scr	10	すず	Suzu Fujibayashi	personagem	CRLF x2	身勝手な申し出で心苦しいのですが……。\n聞いていただくわけには\nいかないでしょうか？		
+qev17_010.scr:11	qev17_010.scr	11	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「超えるべき試練」が\nエントリーされました。\nすずから受ける事が出来ます		
+qev17_020.scr:0	qev17_020.scr	0	すず	Suzu Fujibayashi	personagem	CRLF x1	一緒に行ってくれるのですね。\nありがとうございます		
+qev17_020.scr:1	qev17_020.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x2	忍びの道は険しき道。\nですが、私は早く一人前の忍者になって\n皆さんのお力になりたいのです		
+qev17_020.scr:2	qev17_020.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x2	それが、里の皆や\n今は亡き父上、母上の望みでも\nあります……		
+qev17_020.scr:3	qev17_020.scr	3	すず	Suzu Fujibayashi	personagem		よろしくお願いいたします		
+qev17_030.scr:0	qev17_030.scr	0	すず	Suzu Fujibayashi	personagem		オルタータ火山……		
+qev17_030.scr:1	qev17_030.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x2	見事、ここで試練を乗り越え\n日頃の修行の成果を出す事が出来れば\n新たな力を会得出来ると言われています		
+qev17_030.scr:2	qev17_030.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x1	○○さん、\n行きましょう		
+qev17_040.scr:0	qev17_040.scr	0	すず	Suzu Fujibayashi	personagem	CRLF x1	「試練にいどむ者、五つの問いに答えよ。\n　問いに惑い、答え乱れるが最も悪し」		
+qev17_040.scr:1	qev17_040.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x2	「人として生きるか、\n　忍びとして生きるか、\n　心して進むがよい」		
+qev17_040.scr:2	qev17_040.scr	2	(ator 200)	(ator 200)	desconhecido		…………？		
+qev17_040.scr:3	qev17_040.scr	3	すず	Suzu Fujibayashi	personagem	CRLF x1	……これですか？\n父上が、私に残してくれた言葉です		
+qev17_040.scr:4	qev17_040.scr	4	すず	Suzu Fujibayashi	personagem	CRLF x2	忍者の何たるかを、まだ\n心得る事の出来ていない私に\n訓示として残してくれたものです		
+qev17_040.scr:5	qev17_040.scr	5	すず	Suzu Fujibayashi	personagem	CRLF x2	「怒り……\n　それは、冷静な判断を\n　失わせるものと知れ」		
+qev17_040.scr:6	qev17_040.scr	6	すず	Suzu Fujibayashi	personagem	CRLF x1	「悲しみ……\n　それは、力を失う元と知れ」		
+qev17_040.scr:7	qev17_040.scr	7	すず	Suzu Fujibayashi	personagem	CRLF x1	「喜び……\n　それは、他人にねたまれる元と知れ」		
+qev17_040.scr:8	qev17_040.scr	8	(ator 200)	(ator 200)	desconhecido		…………		
+qev17_040.scr:9	qev17_040.scr	9	すず	Suzu Fujibayashi	personagem	CRLF x1	あなたには、もう会得出来てしまって\nいる事かもしれませんね		
+qev17_040.scr:10	qev17_040.scr	10	すず	Suzu Fujibayashi	personagem		でも、私は……		
+qev17_040.scr:11	qev17_040.scr	11	すず	Suzu Fujibayashi	personagem	CRLF x1	……いいえ、弱気になっている場合では\nありませんでしたね		
+qev17_040.scr:12	qev17_040.scr	12	すず	Suzu Fujibayashi	personagem		先へ進みましょう		
+qev17_041.scr:0	qev17_041.scr	0	すず	Suzu Fujibayashi	personagem	CRLF x1	「あわれみ……\n　それは、自分の死につながるものと知れ」		
+qev17_041.scr:1	qev17_041.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x1	「笑い……\n　それは、心のスキを見せるものと知れ」		
+qev17_041.scr:2	qev17_041.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x1	「答えは一つにあらず。\n　己の心の思うまま、それが答えなり」		
+qev17_041.scr:3	qev17_041.scr	3	(ator 200)	(ator 200)	desconhecido		…………		
+qev17_041.scr:4	qev17_041.scr	4	すず	Suzu Fujibayashi	personagem	CRLF x2	忍者は非情でなくては務まりません。\nですが……時々、あのギルドで\n皆さんと一緒にいると		
+qev17_041.scr:5	qev17_041.scr	5	すず	Suzu Fujibayashi	personagem		わからなくなる事が……あるのです		
+qev17_041.scr:6	qev17_041.scr	6	すず	Suzu Fujibayashi	personagem	CRLF x1	心が動く事や……、\n感情を表に出す事……		
+qev17_041.scr:7	qev17_041.scr	7	すず	Suzu Fujibayashi	personagem	CRLF x1	それは本当に、\nいけない事なのでしょうか……？		
+qev17_041.scr:8	qev17_041.scr	8	すず	Suzu Fujibayashi	personagem	CRLF x1	……すみません、考え込んでいても\n仕方がないのに……		
+qev17_041.scr:9	qev17_041.scr	9	すず	Suzu Fujibayashi	personagem	CRLF x1	もう大丈夫です。\n試練の場まで、あともう少しのはず		
+qev17_041.scr:10	qev17_041.scr	10	すず	Suzu Fujibayashi	personagem		気を抜かずに行きましょう		
+qev17_050.scr:0	qev17_050.scr	0	すず	Suzu Fujibayashi	personagem		やりました……		
+qev17_050.scr:1	qev17_050.scr	1	(ator 200)	(ator 200)	desconhecido		…………		
+qev17_050.scr:2	qev17_050.scr	2	すず	Suzu Fujibayashi	personagem		私なら……大丈夫です		
+qev17_050.scr:3	qev17_050.scr	3	すず	Suzu Fujibayashi	personagem	CRLF x1	でも……結局、私は\nあなたの力を借りなければ		
+qev17_050.scr:4	qev17_050.scr	4	すず	Suzu Fujibayashi	personagem	CRLF x1	あの番人を倒す事は……、\n出来なかったと、思います		
+qev17_050.scr:5	qev17_050.scr	5	(ator 200)	(ator 200)	desconhecido		…………		
+qev17_050.scr:6	qev17_050.scr	6	すず	Suzu Fujibayashi	personagem	CRLF x1	ここまで付き合って\nいただいたのに……		
+qev17_050.scr:7	qev17_050.scr	7	すず	Suzu Fujibayashi	personagem		私は、私の力を示せなかった……		
+qev17_050.scr:8	qev17_050.scr	8	すず	Suzu Fujibayashi	personagem		すみません……		
+qev17_050.scr:9	qev17_050.scr	9	すず	Suzu Fujibayashi	personagem	CRLF x2	私は、忍者として、まだまだですね。\n少なくとも、それを……\nあなたから学ぶ事が出来ました		
+qev17_050.scr:10	qev17_050.scr	10	すず	Suzu Fujibayashi	personagem		ありがとうございます		
+qev17_050.scr:11	qev17_050.scr	11	すず	Suzu Fujibayashi	personagem		い、今のは……？		
+qev17_050.scr:12	qev17_050.scr	12	すず	Suzu Fujibayashi	personagem	CRLF x1	力が……\n私の中に……？		
+qev17_050.scr:13	qev17_050.scr	13	すず	Suzu Fujibayashi	personagem	CRLF x2	どうしてでしょう……。\nどこか、懐かしい……、\nあたたかい……力……		
+qev17_050.scr:14	qev17_050.scr	14	すず	Suzu Fujibayashi	personagem	CRLF x2	（……父上、母上……？\n　すずを、見守って下さっているのなら\n　教えて下さい）		
+qev17_050.scr:15	qev17_050.scr	15	すず	Suzu Fujibayashi	personagem		（すずは、まだ迷っています）		
+qev17_050.scr:16	qev17_050.scr	16	すず	Suzu Fujibayashi	personagem	CRLF x1	（忍びの道とはどういったものなのか……\n　忍者とは、本当はどうあるべきなのか……）		
+qev17_050.scr:17	qev17_050.scr	17	すず	Suzu Fujibayashi	personagem	CRLF x1	（それでも……この力を継ぐ資格が\n　あるというのですか？）		
+qev17_050.scr:18	qev17_050.scr	18	すず	Suzu Fujibayashi	personagem		（……すずは……）		
+qev17_050.scr:19	qev17_050.scr	19	(ator 200)	(ator 200)	desconhecido		…………		
+qev17_050.scr:20	qev17_050.scr	20	すず	Suzu Fujibayashi	personagem		…………あっ		
+qev17_050.scr:21	qev17_050.scr	21	すず	Suzu Fujibayashi	personagem		すみません、何でもありません……		
+qev17_050.scr:22	qev17_050.scr	22	すず	Suzu Fujibayashi	personagem		目的は果たしました		
+qev17_050.scr:23	qev17_050.scr	23	すず	Suzu Fujibayashi	personagem		……戻りましょう、○○さん		
+qev17_050.scr:24	qev17_050.scr	24	(mensagem de sistema)	(mensagem de sistema)	sistema		すずは、秘奥義「児雷也」を体得した		
+qev17_060.scr:0	qev17_060.scr	0	すず	Suzu Fujibayashi	personagem		どうもありがとうございました		
+qev17_060.scr:1	qev17_060.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x1	今回の試練で、\n色々な事に気付けた様な気がします		
+qev17_060.scr:2	qev17_060.scr	2	すず	Suzu Fujibayashi	personagem		あの……○○さん		
+qev17_060.scr:3	qev17_060.scr	3	すず	Suzu Fujibayashi	personagem	CRLF x1	……私で力になれる事なら、\nいつでも声を掛けて下さい		
+qev17_060.scr:4	qev17_060.scr	4	すず	Suzu Fujibayashi	personagem		ずっと、待っていますから……		
+qev17_060.scr:5	qev17_060.scr	5	すず	Suzu Fujibayashi	personagem		……それでは		
+qev17_070.scr:0	qev17_070.scr	0	すず	Suzu Fujibayashi	personagem		あれが……試練の番人		
+qev17_070.scr:1	qev17_070.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x2	……あの番人を倒せば、\n私はまた一つ、忍びの道を\n極められる……		
+qev17_070.scr:2	qev17_070.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x1	……負けられません。\n行きましょう、○○さん！		
+qev17_080.scr:0	qev17_080.scr	0	すず	Suzu Fujibayashi	personagem		今度は、敵に後れを取りません！		
+qev17_080.scr:1	qev17_080.scr	1	すず	Suzu Fujibayashi	personagem		……行きます！		

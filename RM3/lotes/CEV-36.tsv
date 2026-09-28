@@ -1,0 +1,141 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev36_010.scr:0	cev36_010.scr	0	ユージーン	Eugene Gallardo	personagem		…………		
+cev36_010.scr:1	cev36_010.scr	1	リヒター	Richter Abend	personagem		…………なんだ？		
+cev36_010.scr:2	cev36_010.scr	2	ユージーン	Eugene Gallardo	personagem	CRLF x1	……一つ聞きたい。\nお前の、その……		
+cev36_010.scr:3	cev36_010.scr	3	ユージーン	Eugene Gallardo	personagem	CRLF x2	そのメガネは、発売告知時点で即完売し、\n世界で１０セットしか生産されていないという\nレザレノ・カンパニーの限定品……か？		
+cev36_010.scr:4	cev36_010.scr	4	リヒター	Richter Abend	personagem		ほう……これの価値がわかるか		
+cev36_010.scr:5	cev36_010.scr	5	リヒター	Richter Abend	personagem	CRLF x1	なるほど……その尻尾袋の品質も\n伊達ではないという事か		
+cev36_010.scr:6	cev36_010.scr	6	ユージーン	Eugene Gallardo	personagem		どうやら、話の通じる男の様だ		
+cev36_010.scr:7	cev36_010.scr	7	リヒター	Richter Abend	personagem		……ふっ、お前もな		
+cev36_010.scr:8	cev36_010.scr	8	ユージーン	Eugene Gallardo	personagem		…………		
+cev36_010.scr:9	cev36_010.scr	9	リヒター	Richter Abend	personagem		…………		
+cev36_020.scr:0	cev36_020.scr	0	クレア	Claire Bennett	personagem		リヒターさん、ここにいたんですね		
+cev36_020.scr:1	cev36_020.scr	1	リヒター	Richter Abend	personagem		……何の用だ		
+cev36_020.scr:2	cev36_020.scr	2	クレア	Claire Bennett	personagem	CRLF x1	あの……また、パイを焼いたんです。\nですから、一緒に……		
+cev36_020.scr:3	cev36_020.scr	3	リヒター	Richter Abend	personagem	CRLF x1	断る。\n馴れ合う理由も趣味もない		
+cev36_020.scr:4	cev36_020.scr	4	クレア	Claire Bennett	personagem		……そう……ですか		
+cev36_020.scr:5	cev36_020.scr	5	リヒター	Richter Abend	personagem		…………		
+cev36_020.scr:6	cev36_020.scr	6	リヒター	Richter Abend	personagem		お前はなぜ、俺に構う		
+cev36_020.scr:7	cev36_020.scr	7	クレア	Claire Bennett	personagem		なぜ……？		
+cev36_020.scr:8	cev36_020.scr	8	クレア	Claire Bennett	personagem		そんなの……理由なんてありません		
+cev36_020.scr:9	cev36_020.scr	9	リヒター	Richter Abend	personagem		ふっ		
+cev36_020.scr:10	cev36_020.scr	10	リヒター	Richter Abend	personagem		今のは、嫌味のつもりか？		
+cev36_020.scr:11	cev36_020.scr	11	クレア	Claire Bennett	personagem		嫌味……？		
+cev36_020.scr:12	cev36_020.scr	12	クレア	Claire Bennett	personagem		あ……！		
+cev36_020.scr:13	cev36_020.scr	13	クレア	Claire Bennett	personagem	CRLF x2	ごめんなさい。\n理由がないって言ったのは、\nそんなつもりじゃ……		
+cev36_020.scr:14	cev36_020.scr	14	リヒター	Richter Abend	personagem	CRLF x1	お前は相手の顔色を伺わないな。\n決して媚びず、常にまっすぐだ		
+cev36_020.scr:15	cev36_020.scr	15	クレア	Claire Bennett	personagem	CRLF x1	……思った事を言っているだけです。\n不快な気持ちにさせてしまったなら……		
+cev36_020.scr:16	cev36_020.scr	16	リヒター	Richter Abend	personagem	CRLF x2	誰が不快だと言った。\n他人に媚びへつらう事しか知らない\n豚よりはマシだ		
+cev36_020.scr:17	cev36_020.scr	17	リヒター	Richter Abend	personagem		……おい		
+cev36_020.scr:18	cev36_020.scr	18	クレア	Claire Bennett	personagem		は、はい		
+cev36_020.scr:19	cev36_020.scr	19	リヒター	Richter Abend	personagem	CRLF x1	お前の焼いたパイは、\nまだ残っているのか？		
+cev36_020.scr:20	cev36_020.scr	20	クレア	Claire Bennett	personagem	CRLF x2	えっと……、\nたくさん焼きましたから\nまだ大丈夫だと思います		
+cev36_020.scr:21	cev36_020.scr	21	クレア	Claire Bennett	personagem	CRLF x1	でも、無くなってしまっていても\nもう一度作りますから		
+cev36_020.scr:22	cev36_020.scr	22	リヒター	Richter Abend	personagem		…………ふん。　そうか		
+cev36_030.scr:0	cev36_030.scr	0	リヒター	Richter Abend	personagem		……一つ、お前に尋ねたい事がある		
+cev36_030.scr:1	cev36_030.scr	1	クラトス	Kratos Aurion	personagem		……何だ		
+cev36_030.scr:2	cev36_030.scr	2	リヒター	Richter Abend	personagem	CRLF x1	お前はどう思う。\nこの船の……		
+cev36_030.scr:3	cev36_030.scr	3	リヒター	Richter Abend	personagem		料理当番制について、なのだが		
+cev36_030.scr:4	cev36_030.scr	4	クラトス	Kratos Aurion	personagem		……不満か？		
+cev36_030.scr:5	cev36_030.scr	5	リヒター	Richter Abend	personagem	CRLF x1	不満というより疑問を感じるだけだ。\nなぜ、料理が出来ない人間にも役割を与える？		
+cev36_030.scr:6	cev36_030.scr	6	リヒター	Richter Abend	personagem		誰しも得意、不得意はあるだろう		
+cev36_030.scr:7	cev36_030.scr	7	クラトス	Kratos Aurion	personagem		確かに、一見すれば非効率かもしれんな		
+cev36_030.scr:8	cev36_030.scr	8	クラトス	Kratos Aurion	personagem	CRLF x2	だが、物事の「始め」は概して危険なものだ。\nそして、始めなければ永遠に\n始まりは無い		
+cev36_030.scr:9	cev36_030.scr	9	リヒター	Richter Abend	personagem		始める事から始まる……か		
+cev36_030.scr:10	cev36_030.scr	10	クラトス	Kratos Aurion	personagem	CRLF x2	恐らく、アンジュは\n個人の未知の可能性を広げる場としても\n当番制は有益だと考えたのだろう		
+cev36_030.scr:11	cev36_030.scr	11	リヒター	Richter Abend	personagem	CRLF x1	なるほど。\nよくわかった		
+cev36_030.scr:12	cev36_030.scr	12	リヒター	Richter Abend	personagem	CRLF x2	お前は、個人の可能性の助長の為に\n他人の作った不味い飯を\n平らげる覚悟があるという事がな		
+cev36_030.scr:13	cev36_030.scr	13	クラトス	Kratos Aurion	personagem		む……		
+cev36_030.scr:14	cev36_030.scr	14	リヒター	Richter Abend	personagem	CRLF x2	ちなみに、今日の当番は俺だ。\n料理なぞろくにした事はないが、\n最善を尽くそう		
+cev36_030.scr:15	cev36_030.scr	15	リヒター	Richter Abend	personagem		……食堂で待っているぞ		
+cev36_030.scr:16	cev36_030.scr	16	クラトス	Kratos Aurion	personagem		…………		
+cev36_040.scr:0	cev36_040.scr	0	リヒター	Richter Abend	personagem	CRLF x1	何か不自由な事はないか？　セルシウス。\n体に不調などがあれば言ってくれ		
+cev36_040.scr:1	cev36_040.scr	1	セルシウス	Celsius	personagem		特にはないわ		
+cev36_040.scr:2	cev36_040.scr	2	セルシウス	Celsius	personagem	CRLF x2	ここは風が気持ち良くて涼しいし。\nあえて言うなら、\n少し騒がしいのが気になるだけ		
+cev36_040.scr:3	cev36_040.scr	3	リヒター	Richter Abend	personagem	CRLF x1	……そうか。\n問題がないならいい		
+cev36_040.scr:4	cev36_040.scr	4	セルシウス	Celsius	personagem	CRLF x1	そういうあなたは、\n少し疲れている様だけど		
+cev36_040.scr:5	cev36_040.scr	5	リヒター	Richter Abend	personagem		……気疲れだ		
+cev36_040.scr:6	cev36_040.scr	6	リヒター	Richter Abend	personagem	CRLF x1	この船の人間は、よく喋る。\nおまけに世話焼きで、うっとうしい		
+cev36_040.scr:7	cev36_040.scr	7	セルシウス	Celsius	personagem	CRLF x1	わたしより、あなたの方が\n不自由さを感じている様ね、リヒター？		
+cev36_040.scr:8	cev36_040.scr	8	リヒター	Richter Abend	personagem		…………そんな事はない		
+cev36_050.scr:0	cev36_050.scr	0	セルシウス	Celsius	personagem	CRLF x2	不思議なものね。\nヒトというのがどういう生き物か\nわかったつもりでいたけど……		
+cev36_050.scr:1	cev36_050.scr	1	リヒター	Richter Abend	personagem	CRLF x1	いざ共に過ごしていると\n違ったものが見えてくる……か？		
+cev36_050.scr:2	cev36_050.scr	2	セルシウス	Celsius	personagem		あなたもなの、リヒター？		
+cev36_050.scr:3	cev36_050.scr	3	リヒター	Richter Abend	personagem	CRLF x2	……まさか。\nヒトは欲深だ。　そして弱い。\n弱さ故に、より弱い存在を求める		
+cev36_050.scr:4	cev36_050.scr	4	リヒター	Richter Abend	personagem	CRLF x1	……深く関わるだけ\n迷惑をこうむるのはご免だ		
+cev36_050.scr:5	cev36_050.scr	5	セルシウス	Celsius	personagem	CRLF x1	それは本心？\nそれとも建前かしら？		
+cev36_050.scr:6	cev36_050.scr	6	リヒター	Richter Abend	personagem	CRLF x1	どちらでもない。\n世の真理を言ったまでだ		
+cev36_050.scr:7	cev36_050.scr	7	リヒター	Richter Abend	personagem		……お前も知っているだろう？		
+cev36_050.scr:8	cev36_050.scr	8	セルシウス	Celsius	personagem	CRLF x1	確かに、\n犯した過ちは消せないでしょう		
+cev36_050.scr:9	cev36_050.scr	9	セルシウス	Celsius	personagem	CRLF x1	けれどその過ちで、未来の全てを\n黒く塗りつぶすのも違うのではない？		
+cev36_050.scr:10	cev36_050.scr	10	リヒター	Richter Abend	personagem	CRLF x1	精霊というのは存外、楽観主義だな。\nそれとも、単に気休めを言っているのか？		
+cev36_050.scr:11	cev36_050.scr	11	セルシウス	Celsius	personagem	CRLF x1	どちらでもないわ。\n世の真理を言ったまでよ		
+cev36_050.scr:12	cev36_050.scr	12	リヒター	Richter Abend	personagem		…………		
+cev36_060.scr:0	cev36_060.scr	0	リタ	Rita Mordio	personagem	CRLF x2	なるほどね。\n確かに、この学説の矛盾を突くなら\nそういう解釈も有りかもしれないわ		
+cev36_060.scr:1	cev36_060.scr	1	リヒター	Richter Abend	personagem	CRLF x2	そういうお前の解釈は少々堅いな。\n思い入れが強いのは結構だが\nその分、視野を狭める事になるぞ		
+cev36_060.scr:2	cev36_060.scr	2	リタ	Rita Mordio	personagem	CRLF x1	何よ。\nあんた喧嘩売ってるの？		
+cev36_060.scr:3	cev36_060.scr	3	ハロルド	Harold Berselius	personagem	CRLF x2	にしても、ちょっと意外ね。\nリヒターが科学や歴史に\nここまで精通してたなんて		
+cev36_060.scr:4	cev36_060.scr	4	リヒター	Richter Abend	personagem	CRLF x1	……ただの暇つぶしだ。\nそれくらいしか、する事がなかった		
+cev36_060.scr:5	cev36_060.scr	5	リタ	Rita Mordio	personagem	CRLF x2	はぁ？　\n暇つぶし？\nする事なかったって、何よそれ		
+cev36_060.scr:6	cev36_060.scr	6	リタ	Rita Mordio	personagem		引きこもりじゃあるまいし		
+cev36_060.scr:7	cev36_060.scr	7	ハロルド	Harold Berselius	personagem	CRLF x2	そうよねえ。\nこ〜んなに面白くて楽しいコト、\n暇つぶしにはもったいないわ∀		
+cev36_060.scr:8	cev36_060.scr	8	リヒター	Richter Abend	personagem	CRLF x2	したい研究を、\nしたいようにすれば良かった\nお前達とは違う		
+cev36_060.scr:9	cev36_060.scr	9	リヒター	Richter Abend	personagem		……望んでこうなったわけではない！		
+cev36_060.scr:10	cev36_060.scr	10	ハロルド	Harold Berselius	personagem	CRLF x1	ありゃりゃ。\n怒らせちゃったかしら？		
+cev36_060.scr:11	cev36_060.scr	11	リタ	Rita Mordio	personagem	CRLF x1	何なの、アレ。\n感じ悪っ		
+cev36_060.scr:12	cev36_060.scr	12	ハロルド	Harold Berselius	personagem	CRLF x1	もしかしたら、特殊な生い立ちの\n持ち主だったのかもしれないわね〜		
+cev36_060.scr:13	cev36_060.scr	13	ハロルド	Harold Berselius	personagem		……どうしたもんかしらねぇ		
+cev36_070.scr:0	cev36_070.scr	0	ヒスイ	Hisui Hearts	personagem	CRLF x1	これ以上コハクに近寄ったら\nただじゃおかねえからな！		
+cev36_070.scr:1	cev36_070.scr	1	シング	Shing Meteoryte	personagem	CRLF x1	何でだよ。\n別に何もしないよ		
+cev36_070.scr:2	cev36_070.scr	2	ヒスイ	Hisui Hearts	personagem	CRLF x2	当たり前だろーがッ！\n何かする気だったら、もっと\nただじゃおかねえ！！		
+cev36_070.scr:3	cev36_070.scr	3	シング	Shing Meteoryte	personagem	CRLF x2	ええっ！\nそういう意味で\n言ったんじゃないのに……		
+cev36_070.scr:4	cev36_070.scr	4	ジェイド	Jade Curtiss	personagem	CRLF x2	……やれやれ、またですか。\n妹が大事なのもわかりますが\nあれは、少々考えものですねえ		
+cev36_070.scr:5	cev36_070.scr	5	リヒター	Richter Abend	personagem	CRLF x2	ほう？\n家族とは一番無縁そうな人間から\nその様な言葉が出るとはな		
+cev36_070.scr:6	cev36_070.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x2	まあ、人並み程度には\n兄弟愛なるものについて\n理解しているつもりですよ		
+cev36_070.scr:7	cev36_070.scr	7	ジェイド	Jade Curtiss	personagem		私にも、妹がいますから		
+cev36_070.scr:8	cev36_070.scr	8	リヒター	Richter Abend	personagem		お前、長男だったのか！？		
+cev36_070.scr:9	cev36_070.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x2	驚くポイントがずれている気がしますが、\nその通りです。\n何か不都合でも？		
+cev36_070.scr:10	cev36_070.scr	10	リヒター	Richter Abend	personagem		いや……		
+cev36_070.scr:11	cev36_070.scr	11	リヒター	Richter Abend	personagem	CRLF x1	お前の妹、か……。\n想像がつかないな……		
+cev36_200.scr:0	cev36_200.scr	0	リヒター	Richter Abend	personagem	CRLF x1	通常。\n		
+cev36_200.scr:1	cev36_200.scr	1	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:2	cev36_200.scr	2	リヒター	Richter Abend	personagem	CRLF x1	笑い。\n		
+cev36_200.scr:3	cev36_200.scr	3	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:4	cev36_200.scr	4	リヒター	Richter Abend	personagem	CRLF x1	怒り。\n		
+cev36_200.scr:5	cev36_200.scr	5	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:6	cev36_200.scr	6	リヒター	Richter Abend	personagem	CRLF x1	悲しみ。\n		
+cev36_200.scr:7	cev36_200.scr	7	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:8	cev36_200.scr	8	リヒター	Richter Abend	personagem	CRLF x1	驚き。\n		
+cev36_200.scr:9	cev36_200.scr	9	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:10	cev36_200.scr	10	リヒター	Richter Abend	personagem	CRLF x1	悲しみ２。\n		
+cev36_200.scr:11	cev36_200.scr	11	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:12	cev36_200.scr	12	リヒター	Richter Abend	personagem	CRLF x1	眼鏡のみ。\n		
+cev36_200.scr:13	cev36_200.scr	13	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:14	cev36_200.scr	14	リヒター	Richter Abend	personagem	CRLF x1	通常。\n		
+cev36_200.scr:15	cev36_200.scr	15	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:16	cev36_200.scr	16	リヒター	Richter Abend	personagem	CRLF x1	笑い。\n		
+cev36_200.scr:17	cev36_200.scr	17	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:18	cev36_200.scr	18	リヒター	Richter Abend	personagem	CRLF x1	怒り。\n		
+cev36_200.scr:19	cev36_200.scr	19	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:20	cev36_200.scr	20	リヒター	Richter Abend	personagem	CRLF x1	悲しみ。\n		
+cev36_200.scr:21	cev36_200.scr	21	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:22	cev36_200.scr	22	リヒター	Richter Abend	personagem	CRLF x1	驚き。\n		
+cev36_200.scr:23	cev36_200.scr	23	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:24	cev36_200.scr	24	リヒター	Richter Abend	personagem	CRLF x1	悲しみ２。\n		
+cev36_200.scr:25	cev36_200.scr	25	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:26	cev36_200.scr	26	リヒター	Richter Abend	personagem	CRLF x1	眼鏡のみ。\n		
+cev36_200.scr:27	cev36_200.scr	27	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:28	cev36_200.scr	28	リヒター	Richter Abend	personagem	CRLF x1	通常。\n		
+cev36_200.scr:29	cev36_200.scr	29	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:30	cev36_200.scr	30	リヒター	Richter Abend	personagem	CRLF x1	笑い。\n		
+cev36_200.scr:31	cev36_200.scr	31	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:32	cev36_200.scr	32	リヒター	Richter Abend	personagem	CRLF x1	怒り。\n		
+cev36_200.scr:33	cev36_200.scr	33	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:34	cev36_200.scr	34	リヒター	Richter Abend	personagem	CRLF x1	悲しみ。\n		
+cev36_200.scr:35	cev36_200.scr	35	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:36	cev36_200.scr	36	リヒター	Richter Abend	personagem	CRLF x1	驚き。\n		
+cev36_200.scr:37	cev36_200.scr	37	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:38	cev36_200.scr	38	リヒター	Richter Abend	personagem	CRLF x1	悲しみ２。\n		
+cev36_200.scr:39	cev36_200.scr	39	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev36_200.scr:40	cev36_200.scr	40	リヒター	Richter Abend	personagem	CRLF x1	眼鏡のみ。\n		
+cev36_200.scr:41	cev36_200.scr	41	リヒター	Richter Abend	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

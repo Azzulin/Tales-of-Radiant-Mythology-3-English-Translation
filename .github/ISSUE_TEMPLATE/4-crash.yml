@@ -1,0 +1,49 @@
+name: Crash / freeze / bug
+description: The game crashes, freezes, or behaves differently from the original Japanese version.
+title: "[Crash] "
+labels: ["bug"]
+body:
+  - type: input
+    id: build
+    attributes:
+      label: Build
+      description: Patch version you are testing.
+      placeholder: en20
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Platform
+      description: Emulator and version, or real hardware and firmware.
+      placeholder: "PPSSPP 1.18 (Windows) / PSP-3000 6.61 PRO-C"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What you did right before it happened.
+      placeholder: |
+        1. Load save in Chapter 5
+        2. Talk to the NPC at the inn
+        3. Game freezes when the dialogue box opens
+    validations:
+      required: true
+  - type: dropdown
+    id: original
+    attributes:
+      label: Does it also happen on the unpatched Japanese ISO?
+      options:
+        - I don't know / didn't test
+        - "No, only with the patch"
+        - "Yes, also on the original"
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot / log
+      description: |
+        Screenshot of the moment, and if you use PPSSPP, the log (Debug → Log console) helps a lot.
+        A save file or save state right before the crash is extremely useful. Attach it as a .zip.

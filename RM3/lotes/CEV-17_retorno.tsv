@@ -1,0 +1,163 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	traducao
+cev17_010.scr:0	cev17_010.scr	0	ロイド	Lloyd Irving	personagem		なあ、ジューダス	Hey, Judas.		Hey, Judas.
+cev17_010.scr:1	cev17_010.scr	1	ジューダス	Judas	personagem		……何だ	...What is it?		...What is it?
+cev17_010.scr:2	cev17_010.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	何だよ。\nそんな警戒しなくたっていいだろ？	Come on.\nYou don't have to be on guard like that.		Come on.\nYou don't have to be on guard like that.
+cev17_010.scr:3	cev17_010.scr	3	ジューダス	Judas	personagem		…………	......		......
+cev17_010.scr:4	cev17_010.scr	4	ジューダス	Judas	personagem		気味悪く思わないのか？	Do you not find me creepy?		Do you not find me creepy?
+cev17_010.scr:5	cev17_010.scr	5	ロイド	Lloyd Irving	personagem		何がだ？	Find what creepy?		Find what creepy?
+cev17_010.scr:6	cev17_010.scr	6	ジューダス	Judas	personagem	CRLF x2	僕は、異世界の人間なんだ。\n任務とは言え、得体の知れない人間と\nよくも気安く同行出来たものだと思ってな	I am a person from another world.\nEven on a mission, I wonder how you\ncan travel with a stranger so casually.		I am a person from another world.\nEven on a mission, I wonder how you\ncan travel with a stranger so casually.
+cev17_010.scr:7	cev17_010.scr	7	ロイド	Lloyd Irving	personagem	CRLF x1	異世界の人間だろうが何だろうが、\nジューダスはジューダスだろ	Whether you're from another world or not,\nJudas is still Judas, right?		Whether you're from another world or not,\nJudas is still Judas, right?
+cev17_010.scr:8	cev17_010.scr	8	ロイド	Lloyd Irving	personagem	CRLF x2	というか、住んでる世界が違うってだけで\n相手を気味悪いとか思うのって\n何かおかしくないか？	Finding someone creepy just because their\nworld is different... isn't that\nsort of strange to you?		Finding someone creepy just because their\nworld is different... isn't that\nsort of strange to you?
+cev17_010.scr:9	cev17_010.scr	9	ジューダス	Judas	personagem		……フッ	...Heh.		...Heh.
+cev17_010.scr:10	cev17_010.scr	10	ロイド	Lloyd Irving	personagem		な、何だよ	Wh-What's that for?		Wh-What's that for?
+cev17_010.scr:11	cev17_010.scr	11	ジューダス	Judas	personagem	CRLF x2	いや。\nどこかの単純バカと\n同じ様な事を言うと思っただけだ	No.\nI just thought you said something similar\nto a certain simpleton I know.		No.\nI just thought you said something similar\nto a certain simpleton I know.
+cev17_010.scr:12	cev17_010.scr	12	ロイド	Lloyd Irving	personagem		どこかの単純バカ？	A certain simpleton?		A certain simpleton?
+cev17_010.scr:13	cev17_010.scr	13	ジューダス	Judas	personagem	CRLF x1	案外、似た者同士で気が合うかもしれんな。\nまた、余計な気苦労が増えそうだ……	You two might hit it off quite well.\nLooks like I'm in for more headaches...		You two might hit it off quite well.\nLooks like I'm in for more headaches...
+cev17_010.scr:14	cev17_010.scr	14	ロイド	Lloyd Irving	personagem		？？？	???		???
+cev17_020.scr:0	cev17_020.scr	0	ジューダス	Judas	personagem		……ふう	...Phew.		...Phew.
+cev17_020.scr:1	cev17_020.scr	1	ロイド	Lloyd Irving	personagem	CRLF x1	なあジューダス。\n暑くないのか？	Hey, Judas.\nAren't you hot?		Hey, Judas.\nAren't you hot?
+cev17_020.scr:2	cev17_020.scr	2	ジューダス	Judas	personagem		暑いに決まっている	Of course I'm hot.		Of course I'm hot.
+cev17_020.scr:3	cev17_020.scr	3	ジューダス	Judas	personagem	CRLF x1	ここは火山なんだぞ。\nつまらん質問をするな	This is a volcano.\nDon't ask such foolish questions.		This is a volcano.\nDon't ask such foolish questions.
+cev17_020.scr:4	cev17_020.scr	4	ロイド	Lloyd Irving	personagem	CRLF x1	じゃあ、その仮面\n取ればいいじゃないか	Then why don't you\njust take that mask off?		Then why don't you\njust take that mask off?
+cev17_020.scr:5	cev17_020.scr	5	ロイド	Lloyd Irving	personagem	CRLF x1	だってさ、そんなもん付けてたら\n汗かいても拭きづらいだろうし	Wearing that makes it hard to wipe\noff your sweat when you perspire, right?		Wearing that makes it hard to wipe\noff your sweat when you perspire, right?
+cev17_020.scr:6	cev17_020.scr	6	ロイド	Lloyd Irving	personagem	CRLF x2	見るからに暑そうっていうか、\n邪魔そうっていうか……。\n何の為に付けてるのかなぁって	It looks really hot, or rather,\nlike it's totally in the way...\nWhat are you wearing it for, anyway?		It looks really hot, or rather,\nlike it's totally in the way...\nWhat are you wearing it for, anyway?
+cev17_020.scr:7	cev17_020.scr	7	ジューダス	Judas	personagem	CRLF x1	付けている意味ならある。\nお前に心配される必要はない	I have my reasons for wearing it.\nI don't need your concern.		I have my reasons for wearing it.\nI don't need your concern.
+cev17_020.scr:8	cev17_020.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	そうなのか？\nどんな意味があるんだ	Is that so?\nWhat kind of reason is it?		Is that so?\nWhat kind of reason is it?
+cev17_020.scr:9	cev17_020.scr	9	ジューダス	Judas	personagem		それは……	Well...		Well...
+cev17_020.scr:10	cev17_020.scr	10	ロイド	Lloyd Irving	personagem		もしかして……	Could it be......		Could it be......
+cev17_020.scr:11	cev17_020.scr	11	ロイド	Lloyd Irving	personagem	CRLF x1	付けてるだけで攻撃力が二倍になるとか\n移動速度が三倍速いとか、そんなのか？	Does wearing it double your attack power,\nor make you move three times as fast?		Does wearing it double your attack power,\nor make you move three times as fast?
+cev17_020.scr:12	cev17_020.scr	12	ジューダス	Judas	personagem		ま……まあ、そんなところだ	W-Well... something along those lines.		W-Well... something along those lines.
+cev17_020.scr:13	cev17_020.scr	13	ロイド	Lloyd Irving	personagem		へえ、すっげえなぁ〜	Whoa, that is so cool~~!		Whoa, that is so cool~~!
+cev17_020.scr:14	cev17_020.scr	14	ロイド	Lloyd Irving	personagem	CRLF x1	なあなあ\nちょっと俺にもかぶらせてくれよ！	Come on, come on!\nLet me try putting it on for a bit!		Come on, come on!\nLet me try putting it on for a bit!
+cev17_020.scr:15	cev17_020.scr	15	ジューダス	Judas	personagem	CRLF x1	っ！　\nおい、触るな！	Ngh!\nHey, don't touch me!		Ngh!\nHey, don't touch me!
+cev17_020.scr:16	cev17_020.scr	16	ロイド	Lloyd Irving	personagem	CRLF x1	ちょっとだけだよ。\nすぐ返すからさ、な？	Just for a second!\nI'll give it right back, please?		Just for a second!\nI'll give it right back, please?
+cev17_020.scr:17	cev17_020.scr	17	ジューダス	Judas	personagem	CRLF x1	やめろ、この馬鹿者が！\n切り刻まれたいか！！	Stop it, you absolute fool!\nDo you wish to be sliced to ribbons!?		Stop it, you absolute fool!\nDo you wish to be sliced to ribbons!?
+cev17_020.scr:18	cev17_020.scr	18	ロイド	Lloyd Irving	personagem		ちぇっ、けちー	Tch, stingy...		Tch, stingy...
+cev17_030.scr:0	cev17_030.scr	0	リオン	Leon Magnus	personagem	CRLF x1	いい度胸だ……この僕に\n真正面から勝負を挑もうとはな	You've got some nerve... challenging\nme to a head-on duel.		You've got some nerve... challenging\nme to a head-on duel.
+cev17_030.scr:1	cev17_030.scr	1	リオン	Leon Magnus	personagem	CRLF x1	いいだろう。\n受けて立ってやる	Very well.\nI accept your challenge.		Very well.\nI accept your challenge.
+cev17_030.scr:2	cev17_030.scr	2	ジューダス	Judas	personagem	CRLF x1	ふん。\n望むところだ	Hmph.\nJust what I wanted.		Hmph.\nJust what I wanted.
+cev17_030.scr:3	cev17_030.scr	3	カイル	Kyle Dunamis	personagem		はいはいちょっと、スト〜〜ップ！	All right, all right, stoooop!!		All right, all right, stoooop!!
+cev17_030.scr:4	cev17_030.scr	4	カイル	Kyle Dunamis	personagem	CRLF x1	二人とも、どうしたの？\n一体何を揉めてるのさ	What's wrong with you two?\nWhat are you arguing about?		What's wrong with you two?\nWhat are you arguing about?
+cev17_030.scr:5	cev17_030.scr	5	ジューダス	Judas	personagem	CRLF x2	カイル。\n余計な口出しをするな。\nこれは僕達の問題だ	Kyle.\nDo not meddle in this.\nThis is our problem.		Kyle.\nDo not meddle in this.\nThis is our problem.
+cev17_030.scr:6	cev17_030.scr	6	リオン	Leon Magnus	personagem	CRLF x1	そうだ。\n部外者は余計な口を挟むな	Indeed.\nOutsiders should keep their mouths shut.		Indeed.\nOutsiders should keep their mouths shut.
+cev17_030.scr:7	cev17_030.scr	7	カイル	Kyle Dunamis	personagem		そんな事言ったって……	Even if you say that......		Even if you say that......
+cev17_030.scr:8	cev17_030.scr	8	スタン	Stahn Aileron	personagem	CRLF x1	あ、いたいたリオン。\n探したぞ〜	Ah, there you are, Leon!\nI was looking for you~~		Ah, there you are, Leon!\nI was looking for you~~
+cev17_030.scr:9	cev17_030.scr	9	スタン	Stahn Aileron	personagem	CRLF x1	ん？　どうしたんだ、みんな。\n何かあったのか？	Hm? What's going on, everyone?\nDid something happen?		Hm? What's going on, everyone?\nDid something happen?
+cev17_030.scr:10	cev17_030.scr	10	カイル	Kyle Dunamis	personagem	CRLF x1	あっ、父さ……スタンさん！\nちょうどいいところに	Ah, Da... Mr. Stahn!\nYou came at just the right time!		Ah, Da... Mr. Stahn!\nYou came at just the right time!
+cev17_030.scr:11	cev17_030.scr	11	カイル	Kyle Dunamis	personagem	CRLF x1	実は、二人がちょっと\n喧嘩してるみたいで……	Actually, it looks like\nthese two are having a fight...		Actually, it looks like\nthese two are having a fight...
+cev17_030.scr:12	cev17_030.scr	12	ジューダス	Judas	personagem		カイル、余計な事を……！	Kyle, don't blab unnecessary things...!		Kyle, don't blab unnecessary things...!
+cev17_030.scr:13	cev17_030.scr	13	スタン	Stahn Aileron	personagem		喧嘩ぁ？	A fight?		A fight?
+cev17_030.scr:14	cev17_030.scr	14	スタン	Stahn Aileron	personagem	CRLF x2	二人とも、喧嘩は良くないぞ。\nここのみんなは仲間なんだ。\n仲良くしなくちゃ	Fighting isn't good, you two.\nEveryone here is comrades.\nYou have to get along!		Fighting isn't good, you two.\nEveryone here is comrades.\nYou have to get along!
+cev17_030.scr:15	cev17_030.scr	15	リオン	Leon Magnus	personagem		僕は、別に……！	I'm not particularly...!		I'm not particularly...!
+cev17_030.scr:16	cev17_030.scr	16	スタン	Stahn Aileron	personagem	CRLF x2	あっ。\nわかった！\nリオン、朝飯まだ食ってないんだろ？	Ah!\nI've got it!\nLeon, you skipped breakfast, right?		Ah!\nI've got it!\nLeon, you skipped breakfast, right?
+cev17_030.scr:17	cev17_030.scr	17	スタン	Stahn Aileron	personagem	CRLF x2	腹減ると、イライラしやすいって\n聞いた事あるぞ。\nだからじゃないか？	I've heard people get easily irritated\nwhen they're hungry, you know.\nIsn't that why?		I've heard people get easily irritated\nwhen they're hungry, you know.\nIsn't that why?
+cev17_030.scr:18	cev17_030.scr	18	カイル	Kyle Dunamis	personagem	CRLF x1	なるほど。\nさすがスタンさん！	I see!\nJust as expected of Mr. Stahn!		I see!\nJust as expected of Mr. Stahn!
+cev17_030.scr:19	cev17_030.scr	19	カイル	Kyle Dunamis	personagem		そうと決まれば、みんなでご飯だ！	Now that that's settled, let's go eat!		Now that that's settled, let's go eat!
+cev17_030.scr:20	cev17_030.scr	20	ジューダス	Judas	personagem		……馬鹿が二人揃うと手が付けられん	...Two idiots together are beyond hope.		...Two idiots together are beyond hope.
+cev17_030.scr:21	cev17_030.scr	21	リオン	Leon Magnus	personagem		……全くだ	...Entirely.		...Entirely.
+cev17_040.scr:0	cev17_040.scr	0	アスベル	Asbel Lhant	personagem	CRLF x1	あれ……ルーティ？\n何を探してるんだろう	Huh... Rutee?\nI wonder what she's looking for.		Huh... Rutee?\nI wonder what she's looking for.
+cev17_040.scr:1	cev17_040.scr	1	ジューダス	Judas	personagem	CRLF x1	放っておけ。\n……いつもの小銭探しだ	Leave her be.\n...Just her usual coin-hunting.		Leave her be.\n...Just her usual coin-hunting.
+cev17_040.scr:2	cev17_040.scr	2	アスベル	Asbel Lhant	personagem		え？	Huh?		Huh?
+cev17_040.scr:3	cev17_040.scr	3	ルーティ	Rutee Katrea	personagem	CRLF x1	あ！　\n３ガルドみっけ！！	Ah!\nFound 3 Gald!!		Ah!\nFound 3 Gald!!
+cev17_040.scr:4	cev17_040.scr	4	アスベル	Asbel Lhant	personagem	CRLF x1	……本当だ。\nよくわかったな、ジューダス	...It's true.\nYou knew right away, Judas.		...It's true.\nYou knew right away, Judas.
+cev17_040.scr:5	cev17_040.scr	5	ジューダス	Judas	personagem	CRLF x1	サーチガルドは、\nあいつの悪癖の様なものだからな	Search Gald is something\nof a bad habit of hers, after all.		Search Gald is something\nof a bad habit of hers, after all.
+cev17_040.scr:6	cev17_040.scr	6	アスベル	Asbel Lhant	personagem	CRLF x1	へえ……。\nルーティの事、よく知っているんだね	Heh...\nYou know Rutee quite well, don't you?		Heh...\nYou know Rutee quite well, don't you?
+cev17_040.scr:7	cev17_040.scr	7	ジューダス	Judas	personagem	CRLF x1	そ、そんな事はない。\n動きをみれば誰にでもわかる	Th-That isn't true.\nAnyone could tell just by watching her.		Th-That isn't true.\nAnyone could tell just by watching her.
+cev17_040.scr:8	cev17_040.scr	8	アスベル	Asbel Lhant	personagem		俺は、わからなかったけど……	I couldn't tell, though......		I couldn't tell, though......
+cev17_040.scr:9	cev17_040.scr	9	ジューダス	Judas	personagem	CRLF x1	修行が足りない証拠だ。\nせいぜい腕を磨くんだな	Proof that your training is lacking.\nDo your best to hone your skills.		Proof that your training is lacking.\nDo your best to hone your skills.
+cev17_040.scr:10	cev17_040.scr	10	アスベル	Asbel Lhant	personagem	CRLF x1	えっと……。\n磨くって……何の腕を……？	Um...\nHone... what kind of skills......?		Um...\nHone... what kind of skills......?
+cev17_050.scr:0	cev17_050.scr	0	ジューダス	Judas	personagem		……どこにいても、騒がしい連中だ	...No matter where they go, they're noisy.		...No matter where they go, they're noisy.
+cev17_050.scr:1	cev17_050.scr	1	カイル	Kyle Dunamis	personagem	CRLF x1	父さんと母さん……。\n若い時は、あんな風だったんだ	Dad and Mom...\nSo that's how they were when young.		Dad and Mom...\nSo that's how they were when young.
+cev17_050.scr:2	cev17_050.scr	2	ジューダス	Judas	personagem	CRLF x1	あの二人に関しては、歳を重ねたとしても\nそう変わりはないだろうと思うがな	As for those two, even as they age,\nI doubt they change very much at all.		As for those two, even as they age,\nI doubt they change very much at all.
+cev17_050.scr:3	cev17_050.scr	3	カイル	Kyle Dunamis	personagem	CRLF x1	ジューダス……あのさ。\n無理はしないでよ？	Judas... hey.\nDon't push yourself too hard, okay?		Judas... hey.\nDon't push yourself too hard, okay?
+cev17_050.scr:4	cev17_050.scr	4	ジューダス	Judas	personagem	CRLF x1	無理？　\n何の話だ	Push myself?\nWhat are you talking about?		Push myself?\nWhat are you talking about?
+cev17_050.scr:5	cev17_050.scr	5	カイル	Kyle Dunamis	personagem	CRLF x1	……別に、ちょっと\n言ってみたくなっただけだよ	...Nothing, I just felt like\nsaying it, that's all.		...Nothing, I just felt like\nsaying it, that's all.
+cev17_050.scr:6	cev17_050.scr	6	ジューダス	Judas	personagem	CRLF x1	フン……。\nいらん気を回すな	Hmph...\nDon't waste your energy worrying.		Hmph...\nDon't waste your energy worrying.
+cev17_060.scr:0	cev17_060.scr	0	ルーティ	Rutee Katrea	personagem		あーもー、こんなとこにいたの？	Geez, is this where you've been?		Geez, is this where you've been?
+cev17_060.scr:1	cev17_060.scr	1	ルーティ	Rutee Katrea	personagem	CRLF x1	ちょっと、探したじゃない。\nリオン！	Hey, I was looking for you!\nLeon!		Hey, I was looking for you!\nLeon!
+cev17_060.scr:2	cev17_060.scr	2	ジューダス	Judas	personagem		……僕はジューダスだ	...I am Judas.		...I am Judas.
+cev17_060.scr:3	cev17_060.scr	3	ルーティ	Rutee Katrea	personagem	CRLF x1	あら？　\nホントだわ、ごめんなさい！	Oh?\nYou're right, I'm sorry!		Oh?\nYou're right, I'm sorry!
+cev17_060.scr:4	cev17_060.scr	4	ルーティ	Rutee Katrea	personagem	CRLF x1	背格好がそっくりだったもんだから\n見間違えたのね……	Your build was so similar\nthat I completely mistook you...		Your build was so similar\nthat I completely mistook you...
+cev17_060.scr:5	cev17_060.scr	5	ジューダス	Judas	personagem		大して似ていないと思うが	I don't think we look alike at all.		I don't think we look alike at all.
+cev17_060.scr:6	cev17_060.scr	6	ルーティ	Rutee Katrea	personagem	CRLF x1	そうでもないわよ。\nその小生意気な話し方とか、それから……	That's not true.\nThat cheeky way of talking, and then...		That's not true.\nThat cheeky way of talking, and then...
+cev17_060.scr:7	cev17_060.scr	7	ジューダス	Judas	personagem		おい、近寄るな！	Hey, stay back!		Hey, stay back!
+cev17_060.scr:8	cev17_060.scr	8	ジューダス	Judas	personagem		用がないなら、僕に構わないでくれ	If you have no business, leave me alone.		If you have no business, leave me alone.
+cev17_060.scr:9	cev17_060.scr	9	ルーティ	Rutee Katrea	personagem		あ……行っちゃった	Ah... he left.		Ah... he left.
+cev17_060.scr:10	cev17_060.scr	10	ルーティ	Rutee Katrea	personagem	CRLF x1	うーん……やっぱり、\n似てる様な気がするのよねえ……	Hmm... Still,\nI really feel like they're so similar...		Hmm... Still,\nI really feel like they're so similar...
+cev17_070.scr:0	cev17_070.scr	0	リアラ	Reala	personagem		潮風が気持ちいい……	The sea breeze feels so good......		The sea breeze feels so good......
+cev17_070.scr:1	cev17_070.scr	1	ジューダス	Judas	personagem	CRLF x1	そう言えば、こうして潮風を感じるのは\n久しぶりかもしれないな	Come to think of it, feeling a sea breeze\nlike this has been quite a while.		Come to think of it, feeling a sea breeze\nlike this has been quite a while.
+cev17_070.scr:2	cev17_070.scr	2	リアラ	Reala	personagem	CRLF x2	ねえ、ジューダス。覚えてる？\nわたしとカイル、ロニ、それからあなたの\n四人で初めて、船に乗った時のこと	Hey, Judas, do you remember?\nWhen Kyle, Loni, you, and I\nall boarded a ship for the first time?		Hey, Judas, do you remember?\nWhen Kyle, Loni, you, and I\nall boarded a ship for the first time?
+cev17_070.scr:3	cev17_070.scr	3	ジューダス	Judas	personagem		ああ……あの時は帆船だったな	Yeah... back then, it was a sailboat.		Yeah... back then, it was a sailboat.
+cev17_070.scr:4	cev17_070.scr	4	リアラ	Reala	personagem	CRLF x2	ええ。\n今とあの時は全然違うわ。\nこうしていると、本当にそう思うの……	Yes.\nIt's so different now compared to then.\nBeing here, I truly feel that way...		Yes.\nIt's so different now compared to then.\nBeing here, I truly feel that way...
+cev17_070.scr:5	cev17_070.scr	5	リアラ	Reala	personagem		……あの時と今ではお互いの信頼感……	...Our trust now compared to back then...		...Our trust now compared to back then...
+cev17_070.scr:6	cev17_070.scr	6	ジューダス	Judas	personagem	CRLF x1	あの時は、船が魔物に襲われて\n大変だった	Back then, monsters attacked the ship\nand it was a total disaster.		Back then, monsters attacked the ship\nand it was a total disaster.
+cev17_070.scr:7	cev17_070.scr	7	ジューダス	Judas	personagem	CRLF x2	今回この世界に来た事といい、\nお前達といると厄介事に\n巻き込まれてばかりだ	Coming to this world this time too...\nBeing around you guys only ever drags me\ninto nothing but trouble.		Coming to this world this time too...\nBeing around you guys only ever drags me\ninto nothing but trouble.
+cev17_070.scr:8	cev17_070.scr	8	リアラ	Reala	personagem	CRLF x1	もう、わたしはそういう事が\n言いたいんじゃなくて……！	Geez, that is not at all\nwhat I was trying to say...!		Geez, that is not at all\nwhat I was trying to say...!
+cev17_070.scr:9	cev17_070.scr	9	ジューダス	Judas	personagem		フ……、僕の記憶ではそうなっている	Heh... That is how my memory records it.		Heh... That is how my memory records it.
+cev17_080.scr:0	cev17_080.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	こうやって、みんなで一緒の部屋で\n生活するのって、楽しいね！	Living together in the same room like this\nwith everyone is really fun!		Living together in the same room like this\nwith everyone is really fun!
+cev17_080.scr:1	cev17_080.scr	1	リアラ	Reala	personagem	CRLF x1	そうね。\nちょっとわくわくするかも	Yes.\nIt's kind of exciting!		Yes.\nIt's kind of exciting!
+cev17_080.scr:2	cev17_080.scr	2	ロニ	Loni Dunamis	personagem	CRLF x1	あ〜、こういうのは何て言うんだっけか？\n同居人じゃなくて、えーと……	Ah, what was that word again?\nNot housemates, but, um...		Ah, what was that word again?\nNot housemates, but, um...
+cev17_080.scr:3	cev17_080.scr	3	ジューダス	Judas	personagem		ルームメイトだ	Roommates.		Roommates.
+cev17_080.scr:4	cev17_080.scr	4	ロニ	Loni Dunamis	personagem		ああ、それそれ！　それだよ	Yeah, that's it! That's the one!		Yeah, that's it! That's the one!
+cev17_080.scr:5	cev17_080.scr	5	リアラ	Reala	personagem		ルームメイト？	Roommates?		Roommates?
+cev17_080.scr:6	cev17_080.scr	6	ジューダス	Judas	personagem	CRLF x1	同じ部屋で、一緒に暮らす相手の事を\nそんな風に呼ぶ事もある	People who share and live in the same room\nare sometimes called that.		People who share and live in the same room\nare sometimes called that.
+cev17_080.scr:7	cev17_080.scr	7	リアラ	Reala	personagem	CRLF x1	そうなの……なんだか素敵ね。\nみんなで仲良く、一緒に暮らせて……	I see... That sounds wonderful.\nEveryone living peacefully together...		I see... That sounds wonderful.\nEveryone living peacefully together...
+cev17_080.scr:8	cev17_080.scr	8	カイル	Kyle Dunamis	personagem		うん、家族みたいだ！	Yeah, just like a family!		Yeah, just like a family!
+cev17_080.scr:9	cev17_080.scr	9	ジューダス	Judas	personagem		家族……？	Family......?		Family......?
+cev17_080.scr:10	cev17_080.scr	10	ロニ	Loni Dunamis	personagem	CRLF x2	そうだなぁ。\nルーティさんとお前と、孤児院のみんなと……。\n一緒に暮らしてた頃は、こんな感じだったな	Yeah, true.\nWith Ms. Rutee, you, and all the kids...\nLiving together back then felt like this.		Yeah, true.\nWith Ms. Rutee, you, and all the kids...\nLiving together back then felt like this.
+cev17_080.scr:11	cev17_080.scr	11	カイル	Kyle Dunamis	personagem	CRLF x1	そうそう。\n掃除や洗濯も当番制だったし	Right!\nCleaning and chores were on rotation too!		Right!\nCleaning and chores were on rotation too!
+cev17_080.scr:12	cev17_080.scr	12	リアラ	Reala	personagem	CRLF x1	家族……って、\nやっぱり特別なもの？	Is a "family"...\nreally that special?		Is a "family"...\nreally that special?
+cev17_080.scr:13	cev17_080.scr	13	カイル	Kyle Dunamis	personagem		うん、特別に大事な存在だよ	Yeah, an exceptionally precious presence.		Yeah, an exceptionally precious presence.
+cev17_080.scr:14	cev17_080.scr	14	カイル	Kyle Dunamis	personagem	CRLF x1	そういう意味じゃ、リアラだって\nもうオレの家族みたいな感じだよ	In that sense, Reala is already\nlike family to me too.		In that sense, Reala is already\nlike family to me too.
+cev17_080.scr:15	cev17_080.scr	15	リアラ	Reala	personagem		カイル……	Kyle......		Kyle......
+cev17_080.scr:16	cev17_080.scr	16	ロニ	Loni Dunamis	personagem		ひゅーひゅー、お熱いねえ	Ooh-lala, things are heating up!		Ooh-lala, things are heating up!
+cev17_080.scr:17	cev17_080.scr	17	カイル	Kyle Dunamis	personagem	CRLF x1	ちょ、ちょっとロニ？\nそんなんじゃないったら……	H-Hold on, Loni!\nIt's not like that at all......		H-Hold on, Loni!\nIt's not like that at all......
+cev17_080.scr:18	cev17_080.scr	18	ジューダス	Judas	personagem		…………	......		......
+cev17_090.scr:0	cev17_090.scr	0	ジューダス	Judas	personagem		早く元の世界に戻らなければな……	We must return to our world soon...		We must return to our world soon...
+cev17_090.scr:1	cev17_090.scr	1	カイル	Kyle Dunamis	personagem		そうだね……みんなの事が心配だよ	Yeah... I'm worried about everyone.		Yeah... I'm worried about everyone.
+cev17_090.scr:2	cev17_090.scr	2	ジューダス	Judas	personagem	CRLF x1	……家族というのは、\nかけがえのないものだ	...Family is something\nirreplaceable.		...Family is something\nirreplaceable.
+cev17_090.scr:3	cev17_090.scr	3	ジューダス	Judas	personagem	CRLF x1	得てして失うまで、その大切さや重みに\n気が付きにくいものだがな	Yet often, one rarely realizes its worth\nor gravity until it is lost.		Yet often, one rarely realizes its worth\nor gravity until it is lost.
+cev17_090.scr:4	cev17_090.scr	4	カイル	Kyle Dunamis	personagem		ジューダス？	Judas?		Judas?
+cev17_090.scr:5	cev17_090.scr	5	ジューダス	Judas	personagem	CRLF x2	僕には家族がいない。\nだが、お前には守るべき存在がある。\n……そういう事だ	I have no family.\nHowever, you have ones you must protect.\n...That is all.		I have no family.\nHowever, you have ones you must protect.\n...That is all.
+cev17_090.scr:6	cev17_090.scr	6	カイル	Kyle Dunamis	personagem	CRLF x1	何言ってるの、ジューダス。\nジューダスにだっているじゃない、家族	What are you saying, Judas?\nYou have family too, Judas!		What are you saying, Judas?\nYou have family too, Judas!
+cev17_090.scr:7	cev17_090.scr	7	ジューダス	Judas	personagem	CRLF x1	……あいつの事か？\n僕は別に……	...You mean her?\nI don't really...		...You mean her?\nI don't really...
+cev17_090.scr:8	cev17_090.scr	8	カイル	Kyle Dunamis	personagem	CRLF x1	それもそうだけど。\nルームメイト！	That too, but...\nRoommates!		That too, but...\nRoommates!
+cev17_090.scr:9	cev17_090.scr	9	カイル	Kyle Dunamis	personagem	CRLF x2	ジューダスとオレ達は、もう\n家族同然なんだよ。\n言っただろ？	Judas and all of us are\nalready just like family.\nI told you, right?		Judas and all of us are\nalready just like family.\nI told you, right?
+cev17_090.scr:10	cev17_090.scr	10	ジューダス	Judas	personagem	CRLF x2	フン……くだらん。\n赤の他人に、よくもそんな事が\nぬけぬけと言えたものだ	Hmph... Ridiculous.\nHow boldly you utter such things\nto a total stranger.		Hmph... Ridiculous.\nHow boldly you utter such things\nto a total stranger.
+cev17_090.scr:11	cev17_090.scr	11	カイル	Kyle Dunamis	personagem	CRLF x1	オレ、ロニと血は繋がってないけど\n家族だと思ってるし、ロニもそうだと思う	I'm not related by blood to Loni,\nbut I see him as family, and so does Loni.		I'm not related by blood to Loni,\nbut I see him as family, and so does Loni.
+cev17_090.scr:12	cev17_090.scr	12	カイル	Kyle Dunamis	personagem	CRLF x1	だから、ジューダスだって同じだよ。\nオレの……オレ達の、家族だ	So it's the same for Judas too.\nYou are my... our family!		So it's the same for Judas too.\nYou are my... our family!
+cev17_090.scr:13	cev17_090.scr	13	ジューダス	Judas	personagem		…………	......		......
+cev17_090.scr:14	cev17_090.scr	14	カイル	Kyle Dunamis	personagem	CRLF x2	全部が終わって、落ち着いたら\nまたこうやってみんなで暮らそう。\nきっと楽しいよ！	Once this is all over and settles down,\nlet's all live together like this again.\nI know it'll be fun!		Once this is all over and settles down,\nlet's all live together like this again.\nI know it'll be fun!
+cev17_090.scr:15	cev17_090.scr	15	カイル	Kyle Dunamis	personagem	CRLF x2	だからそれまで、\n一緒に頑張ろう。\nジューダス！	So until then,\nlet's do our best together,\nJudas!		So until then,\nlet's do our best together,\nJudas!
+cev17_090.scr:16	cev17_090.scr	16	ジューダス	Judas	personagem		……お前は、本当に馬鹿者だな	...You really are a fool.		...You really are a fool.
+cev17_090.scr:17	cev17_090.scr	17	ジューダス	Judas	personagem		本当に……大馬鹿者だ……	Truly... an utter fool......		Truly... an utter fool......
+cev17_200.scr:0	cev17_200.scr	0	ジューダス	Judas	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev17_200.scr:1	cev17_200.scr	1	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev17_200.scr:2	cev17_200.scr	2	ジューダス	Judas	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev17_200.scr:3	cev17_200.scr	3	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev17_200.scr:4	cev17_200.scr	4	ジューダス	Judas	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev17_200.scr:5	cev17_200.scr	5	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev17_200.scr:6	cev17_200.scr	6	ジューダス	Judas	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev17_200.scr:7	cev17_200.scr	7	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev17_200.scr:8	cev17_200.scr	8	ジューダス	Judas	personagem	CRLF x1	不機嫌。\n	Displeased.\n		Displeased.\n
+cev17_200.scr:9	cev17_200.scr	9	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev17_200.scr:10	cev17_200.scr	10	ジューダス	Judas	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev17_200.scr:11	cev17_200.scr	11	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev17_200.scr:12	cev17_200.scr	12	ジューダス	Judas	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev17_200.scr:13	cev17_200.scr	13	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev17_200.scr:14	cev17_200.scr	14	ジューダス	Judas	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev17_200.scr:15	cev17_200.scr	15	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev17_200.scr:16	cev17_200.scr	16	ジューダス	Judas	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev17_200.scr:17	cev17_200.scr	17	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev17_200.scr:18	cev17_200.scr	18	ジューダス	Judas	personagem	CRLF x1	不機嫌。\n	Displeased.\n		Displeased.\n
+cev17_200.scr:19	cev17_200.scr	19	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev17_200.scr:20	cev17_200.scr	20	ジューダス	Judas	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev17_200.scr:21	cev17_200.scr	21	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev17_200.scr:22	cev17_200.scr	22	ジューダス	Judas	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev17_200.scr:23	cev17_200.scr	23	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev17_200.scr:24	cev17_200.scr	24	ジューダス	Judas	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev17_200.scr:25	cev17_200.scr	25	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev17_200.scr:26	cev17_200.scr	26	ジューダス	Judas	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev17_200.scr:27	cev17_200.scr	27	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev17_200.scr:28	cev17_200.scr	28	ジューダス	Judas	personagem	CRLF x1	不機嫌。\n	Displeased.\n		Displeased.\n
+cev17_200.scr:29	cev17_200.scr	29	ジューダス	Judas	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.

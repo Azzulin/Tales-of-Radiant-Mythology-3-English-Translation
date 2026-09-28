@@ -1,0 +1,185 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev38_010.scr:0	cev38_010.scr	0	ファラ	Farah Oersted	personagem		ん〜、いいにおい！	Mmm, smells delicious!	
+cev38_010.scr:1	cev38_010.scr	1	ファラ	Farah Oersted	personagem	CRLF x1	そのお料理、どうしたの？\nご飯……は、さっきみんなと食べてたよね？	What's that dish for?\nYou ate with everyone earlier, right?	
+cev38_010.scr:2	cev38_010.scr	2	クレア	Claire Bennett	personagem	CRLF x1	あ……差し入れなの。\nキールさんと、ハロルドさんに	Oh... it's a delivery\nfor Keele and Harold.	
+cev38_010.scr:3	cev38_010.scr	3	クレア	Claire Bennett	personagem	CRLF x1	二人とも、研究に没頭していて\nあまり食堂に来られないみたいだから	They're both immersed in research\nand can barely visit the dining hall.	
+cev38_010.scr:4	cev38_010.scr	4	ファラ	Farah Oersted	personagem		わぁ、デザートまで付いてる！	Whoa, it even comes with dessert!	
+cev38_010.scr:5	cev38_010.scr	5	ファラ	Farah Oersted	personagem	CRLF x2	……クレアはえらいね。\nいつもそうやって、人の事を\n思いやって動いてて……	...You're admirable, Claire.\nAlways thinking of others\nand looking out for them...	
+cev38_010.scr:6	cev38_010.scr	6	クレア	Claire Bennett	personagem	CRLF x1	私は、難しい事はわからないし\n戦う力もなくて……	I don't understand complicated things,\nand I have no strength to fight...	
+cev38_010.scr:7	cev38_010.scr	7	クレア	Claire Bennett	personagem	CRLF x2	こんな事くらいでしか\nみんなの役に立てないけど。\nでも、出来る事はしていきたいの	This is about the only way\nI can be of any help to everyone.\nStill, I want to do what I can.	
+cev38_010.scr:8	cev38_010.scr	8	ファラ	Farah Oersted	personagem		そっか	I see.	
+cev38_010.scr:9	cev38_010.scr	9	ファラ	Farah Oersted	personagem	CRLF x2	そんなクレアがいるから\nみんなも安心して、自分の好きな事に\n集中していられるのかもね	Because you're here, Claire,\neveryone feels at ease to focus\non what they love to do!	
+cev38_010.scr:10	cev38_010.scr	10	ファラ	Farah Oersted	personagem	CRLF x1	誰にでも出来る事じゃない、すごい事だよ。\n縁の下の力持ちって感じ	Not just anyone can do that!\nYou're the pillar supporting everyone.	
+cev38_010.scr:11	cev38_010.scr	11	クレア	Claire Bennett	personagem		そんな事……	Not at all...	
+cev38_010.scr:12	cev38_010.scr	12	ファラ	Farah Oersted	personagem		でも、頑張り過ぎはだめ	Still, don't push yourself too hard!	
+cev38_010.scr:13	cev38_010.scr	13	ファラ	Farah Oersted	personagem		クレアはもう少し、自分の事も考えないと	Think about yourself a bit more, Claire!	
+cev38_010.scr:14	cev38_010.scr	14	ファラ	Farah Oersted	personagem		大変な時は、私も手伝うから	Whenever it's tough, I'll help you out.	
+cev38_010.scr:15	cev38_010.scr	15	ファラ	Farah Oersted	personagem		一緒に頑張って行こうね！	Let's work hard together, okay!	
+cev38_010.scr:16	cev38_010.scr	16	クレア	Claire Bennett	personagem		……ええ	...Yes.	
+cev38_010.scr:17	cev38_010.scr	17	クレア	Claire Bennett	personagem		ありがとう、ファラ	Thank you, Farah.	
+cev38_020.scr:0	cev38_020.scr	0	リリス	Lilith Aileron	personagem		次、こっち焼き上がりま〜す！	Next batch is fresh out of the oven~!	
+cev38_020.scr:1	cev38_020.scr	1	クレア	Claire Bennett	personagem		こちらも、もうお出し出来ます	These are ready to be served as well.	
+cev38_020.scr:2	cev38_020.scr	2	クレア	Claire Bennett	personagem	CRLF x1	ロックスさん、それが終わったら\nこっちを見てもらえますか？	Rocks, once you finish that,\ncould you check over here?	
+cev38_020.scr:3	cev38_020.scr	3	ロックス	Rocks	personagem		はい、すぐに！	Yes, right away!	
+cev38_020.scr:4	cev38_020.scr	4	ロックス	Rocks	personagem	CRLF x2	あ、リリス様。\nそれはそっちじゃなくてあっちに。\nああ、右のは調理台にそのままで	Ah, Lady Lilith!\nNot there, over that way.\nLeave the right one on the prep counter!	
+cev38_020.scr:5	cev38_020.scr	5	リリス	Lilith Aileron	personagem		はーい、了解です☆	Okaaay, roger that!	
+cev38_020.scr:6	cev38_020.scr	6	クレア	Claire Bennett	personagem	CRLF x1	あの仕上げって\nどなたかもう……	Has anyone done\nthe finishing touches yet...?	
+cev38_020.scr:7	cev38_020.scr	7	リリス	Lilith Aileron	personagem	CRLF x1	私がやっておきました！\nあとは盛り付けで完成です	I already handled that!\nJust plating left to finish it up!	
+cev38_020.scr:8	cev38_020.scr	8	クレア	Claire Bennett	personagem		わかりました	Understood.	
+cev38_020.scr:9	cev38_020.scr	9	ロックス	Rocks	personagem	CRLF x1	あの、そっちのお鍋！\nそれって……	Um, that pot over there!\nIs that...?	
+cev38_020.scr:10	cev38_020.scr	10	リッド	Reid Hershel	personagem		ひゃー……戦場って感じだな	Whoa... Feels like a battlefield.	
+cev38_020.scr:11	cev38_020.scr	11	ユージーン	Eugene Gallardo	personagem		昼時前は、いつもこんなものらしい	It seems it's always like this by lunch.	
+cev38_020.scr:12	cev38_020.scr	12	ユージーン	Eugene Gallardo	personagem	CRLF x2	しかし、いつ見ても見事なものだ。\n互いの意思疎通はもちろん\n各々の連携もよく取れている	Still, it is splendid to behold.\nNot only is communication seamless,\ntheir teamwork is perfectly in sync.	
+cev38_020.scr:13	cev38_020.scr	13	リッド	Reid Hershel	personagem	CRLF x2	あれとかそれとかしか\n言ってないもんな。\n……敵に回したら厄介そうだ	They only say 'this' and 'that'.\nYet they understand each other.\n...They'd be scary as enemies.	
+cev38_020.scr:14	cev38_020.scr	14	ユージーン	Eugene Gallardo	personagem	CRLF x1	ああ。\nつまみ食いなどもってのほかだな	Indeed.\nSneaking a bite is out of the question.	
+cev38_020.scr:15	cev38_020.scr	15	リッド	Reid Hershel	personagem		つっ、つまみ食いなんて……！	S-Sneaking a bite...?!	
+cev38_020.scr:16	cev38_020.scr	16	リッド	Reid Hershel	personagem		……しねえよ……	...I wouldn't do that...	
+cev38_030.scr:0	cev38_030.scr	0	クレア	Claire Bennett	personagem		ここで、お塩を少し入れるの	Here, we add a little salt.	
+cev38_030.scr:1	cev38_030.scr	1	クレア	Claire Bennett	personagem		こうすれば、甘みがより引き立つのよ	That way, the sweetness stands out more.	
+cev38_030.scr:2	cev38_030.scr	2	メルディ	Meredy	personagem		んー……	Hrmmm...	
+cev38_030.scr:3	cev38_030.scr	3	メルディ	Meredy	personagem	CRLF x1	しょっぱいが後に甘いの食べる。\nだからもっと甘く感じるか	Eat sweet after salty.\nSo taste much more sweeter?	
+cev38_030.scr:4	cev38_030.scr	4	クレア	Claire Bennett	personagem		そうよ	That's right.	
+cev38_030.scr:5	cev38_030.scr	5	メルディ	Meredy	personagem	CRLF x1	ワイール！\nいい事教わったな！	Waa-i-ru!\nLearned something great!	
+cev38_030.scr:6	cev38_030.scr	6	メルディ	Meredy	personagem	CRLF x1	メルディこれで、クレアみたいに\n料理うまくなるよー	Now Meredy can cook\nas good as Claire!	
+cev38_030.scr:7	cev38_030.scr	7	キール	Keele Zeibel	personagem	CRLF x2	無駄だな。\n表層のテクニックだけ盗んでも\nクレアの料理は作れない	Pointless.\nStealing surface techniques won't let\nyou cook like Claire.	
+cev38_030.scr:8	cev38_030.scr	8	メルディ	Meredy	personagem		な、なぜそう言うか？	W-Why you say that?!	
+cev38_030.scr:9	cev38_030.scr	9	キール	Keele Zeibel	personagem	CRLF x1	お前の料理は極端なんだ。\nいつも甘いか辛いかの二択じゃないか！	Your cooking is far too extreme!\nIt's always either pure sweet or spicy!	
+cev38_030.scr:10	cev38_030.scr	10	メルディ	Meredy	personagem		そんな事ない！	Not true at all!	
+cev38_030.scr:11	cev38_030.scr	11	キール	Keele Zeibel	personagem	CRLF x2	いいや、この際だからはっきり言っておく。\nひどい味覚崩壊を起こしたお前が、\nクレアの料理に並ぶはずがないんだ	No, let me make this clear now.\nWith taste buds ruined like yours,\nyou cannot rival Claire's cooking!	
+cev38_030.scr:12	cev38_030.scr	12	キール	Keele Zeibel	personagem	CRLF x2	まぁ、何なら\n正常な味覚の持ち主であるぼくが\n料理の基礎やコツを教えてやっても……	Well, if needed,\nsomeone with normal tastes like me\ncould teach you basic tips...	
+cev38_030.scr:13	cev38_030.scr	13	メルディ	Meredy	personagem		メルディひどくなんてない！	Meredy not ruined at all!	
+cev38_030.scr:14	cev38_030.scr	14	メルディ	Meredy	personagem	CRLF x1	ひどいのはキール！　\n嫌い！！	Keele is the ruined one!\nI hate you!!	
+cev38_030.scr:15	cev38_030.scr	15	クレア	Claire Bennett	personagem	CRLF x2	大丈夫。\n二人ともちょっと不器用なところが\nあるだけなのよね	It's all right.\nThe two of you are just\na little clumsy with each other.	
+cev38_030.scr:16	cev38_030.scr	16	クレア	Claire Bennett	personagem	CRLF x1	お塩があるから、お砂糖の甘みが\n引き立つのと同じ	Just as salt brings out\nthe sweetness in sugar,	
+cev38_030.scr:17	cev38_030.scr	17	クレア	Claire Bennett	personagem	CRLF x2	ちゃんと話せば\n今よりきっとわかり合えるから。\n元気を出して。……ね？	if you talk properly, you'll understand\neach other much better.\nCheer up, okay?	
+cev38_040.scr:0	cev38_040.scr	0	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	まあ……またあの二人ですわ。\n最近よく甲板で見かけますわね	My... those two again.\nI often see them on deck lately.	
+cev38_040.scr:1	cev38_040.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		特に会話もない様ですのに……	Even though they barely talk...	
+cev38_040.scr:2	cev38_040.scr	2	クレア	Claire Bennett	personagem		ヴェイグ……	Veigue...	
+cev38_040.scr:3	cev38_040.scr	3	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		き、気にする事はありませんわ	Y-You need not mind them!	
+cev38_040.scr:4	cev38_040.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	ここにいるのだって\nきっと何かの偶然……	Them being here\nis surely just a coincidence...	
+cev38_040.scr:5	cev38_040.scr	5	クレア	Claire Bennett	personagem	CRLF x1	良かった。\nまた、新しいお友達が出来たのね	I'm so glad.\nHe made a new friend again.	
+cev38_040.scr:6	cev38_040.scr	6	クレア	Claire Bennett	personagem	CRLF x2	ヴェイグは、あまりお喋りが得意ではないし\n笑ったりする事も少ないから\n人に誤解される事が多いんです	Veigue isn't very good at talking\nand rarely smiles, so people\noften misunderstand him.	
+cev38_040.scr:7	cev38_040.scr	7	クレア	Claire Bennett	personagem	CRLF x1	でも、ここへ来てから\n少しずつお友達が増えているみたい	Yet since coming here,\nhis friends seem to be growing.	
+cev38_040.scr:8	cev38_040.scr	8	クレア	Claire Bennett	personagem	CRLF x1	良かった。\nなんだか嬉しいわ	I'm so glad.\nIt makes me truly happy.	
+cev38_040.scr:9	cev38_040.scr	9	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		…………	......	
+cev38_040.scr:10	cev38_040.scr	10	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	クレアは本当に、ヴェイグの事を\n心から思っているんですのね	You truly care for Veigue\nfrom the bottom of your heart, Claire.	
+cev38_040.scr:11	cev38_040.scr	11	クレア	Claire Bennett	personagem	CRLF x1	ええ。\n大切な家族ですもの	Yes.\nHe is my precious family, after all.	
+cev38_040.scr:12	cev38_040.scr	12	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	……あなたのそういう\n真っ直ぐに相手を思う姿勢。\n私も見習っていきたいですわ	...Your straightforward devotion\ntoward those you cherish...\nI wish to learn from it as well.	
+cev38_050.scr:0	cev38_050.scr	0	シェリア	Cheria Barnes	personagem		ねえ、クレア？	Hey, Claire?	
+cev38_050.scr:1	cev38_050.scr	1	シェリア	Cheria Barnes	personagem	CRLF x1	クレアとヴェイグって親しそうだけど\nどういう関係なの？	Claire, you and Veigue seem close,\nso what is your relationship?	
+cev38_050.scr:2	cev38_050.scr	2	クレア	Claire Bennett	personagem		ヴェイグは、私の幼馴染みよ	Veigue is my childhood friend.	
+cev38_050.scr:3	cev38_050.scr	3	クレア	Claire Bennett	personagem	CRLF x1	小さい時、ヴェイグが私の家に越してきて\nそれからずっと一緒に暮らして来たの	When small, Veigue moved in with us\nand we lived together ever since.	
+cev38_050.scr:4	cev38_050.scr	4	シェリア	Cheria Barnes	personagem		一つ屋根の下っていうわけね……	Under one roof, you mean...?	
+cev38_050.scr:5	cev38_050.scr	5	シェリア	Cheria Barnes	personagem		とっても素敵ね！	That's so wonderful!	
+cev38_050.scr:6	cev38_050.scr	6	クレア	Claire Bennett	personagem	CRLF x2	ええ。　ヴェイグが来てからの生活は\nそれまでよりもっと楽しくて\n明るいものになったわ	Yes. Life after Veigue arrived\nbecame so much brighter and\nhappier than ever before.	
+cev38_050.scr:7	cev38_050.scr	7	シェリア	Cheria Barnes	personagem	CRLF x1	じゃあ、やっぱりクレアにとって……\nヴェイグはすごく、大事な人？	Then to you, Claire...\nVeigue must be very important?	
+cev38_050.scr:8	cev38_050.scr	8	クレア	Claire Bennett	personagem		そうね……	Yeah......	
+cev38_050.scr:9	cev38_050.scr	9	クレア	Claire Bennett	personagem		とても大切な人……そう、	A very precious person... yes,	
+cev38_050.scr:10	cev38_050.scr	10	クレア	Claire Bennett	personagem		家族みたいな……	almost like family...	
+cev38_050.scr:11	cev38_050.scr	11	シェリア	Cheria Barnes	personagem		家族……！！	Family...?!!	
+cev38_050.scr:12	cev38_050.scr	12	シェリア	Cheria Barnes	personagem	CRLF x1	二人は恋人という関係を飛び越えて、\nそんな高みまで上り詰めていたのね……！	The two of you leaped past lovers\nand climbed all the way to that peak...!	
+cev38_050.scr:13	cev38_050.scr	13	クレア	Claire Bennett	personagem	CRLF x2	シェリアさん……？\n顔が赤いわ。\n熱でもあるの？	Cheria...?\nYour face is red.\nDo you have a fever?	
+cev38_050.scr:14	cev38_050.scr	14	シェリア	Cheria Barnes	personagem		あ……	Ah......	
+cev38_050.scr:15	cev38_050.scr	15	シェリア	Cheria Barnes	personagem	CRLF x1	ううん、何でもないわ。\n気にしないで	No, it's nothing.\nDon't mind me!	
+cev38_060.scr:0	cev38_060.scr	0	クレア	Claire Bennett	personagem	CRLF x1	ジーニアスくん？\n……どうしたの？	Genis?\n...What's the matter?	
+cev38_060.scr:1	cev38_060.scr	1	ジーニアス	Genis Sage	personagem		……あ……クレア……	...Ah... Claire...	
+cev38_060.scr:2	cev38_060.scr	2	ジーニアス	Genis Sage	personagem		……ちょっと本を読んでただけなんだ	...I was just reading a book.	
+cev38_060.scr:3	cev38_060.scr	3	ジーニアス	Genis Sage	personagem	CRLF x1	ぐすっ……ごめんね。\n恥ずかしいところ見せちゃった……	*sniff*... Sorry.\nYou caught me at an embarrassing time...	
+cev38_060.scr:4	cev38_060.scr	4	クレア	Claire Bennett	personagem	CRLF x1	悲しいお話だったのね……。\nほら、涙を拭いて	It must have been sad...\nHere, wipe your tears.	
+cev38_060.scr:5	cev38_060.scr	5	クレア	Claire Bennett	personagem		どんなお話だったか、聞いてもいい？	May I ask what kind of story it was?	
+cev38_060.scr:6	cev38_060.scr	6	ジーニアス	Genis Sage	personagem	CRLF x1	…………。\nハーフエルフと、人間の話だよ	......\nIt's about a half-elf and humans.	
+cev38_060.scr:7	cev38_060.scr	7	ジーニアス	Genis Sage	personagem	CRLF x2	お互いがお互いを忌み嫌って\n憎み合って……ヒトだけじゃなくて\n最後は、世界まで傷付けてしまう話	They loathed and hated each other...\nhurting not just people,\nbut even the world itself in the end.	
+cev38_060.scr:8	cev38_060.scr	8	クレア	Claire Bennett	personagem		…………	......	
+cev38_060.scr:9	cev38_060.scr	9	ジーニアス	Genis Sage	personagem	CRLF x2	頭ではわかってるんだ。\nこのままじゃいけないって。\nその教訓の為に書かれた本なんだって	I know in my head\nthat things can't stay this way,\nand the book was written as a lesson.	
+cev38_060.scr:10	cev38_060.scr	10	ジーニアス	Genis Sage	personagem	CRLF x2	でもボク、どうしても心から\n人間を好きになれないなって……。\nそういう気持ちが、なかなか消せないんだ	Yet no matter what,\nI can't bring myself to love humans.\nI can't make that feeling vanish...	
+cev38_060.scr:11	cev38_060.scr	11	ジーニアス	Genis Sage	personagem		嫌な奴だよね……	I'm awful, aren't I...?	
+cev38_060.scr:12	cev38_060.scr	12	クレア	Claire Bennett	personagem	CRLF x1	……あなたもたくさん\n辛い事があって、傷付いて来たのね	...You've been through so much pain\nand been hurt deeply too, haven't you?	
+cev38_060.scr:13	cev38_060.scr	13	ジーニアス	Genis Sage	personagem		…………	......	
+cev38_060.scr:14	cev38_060.scr	14	クレア	Claire Bennett	personagem	CRLF x2	ジーニアスくん。\nハーフエルフにも、ヒトにも\n同じ様に心があるわ	Genis.\nBoth half-elves and humans\npossess the very same heart.	
+cev38_060.scr:15	cev38_060.scr	15	クレア	Claire Bennett	personagem	CRLF x1	傷付いたら、誰だって痛いと感じる。\nなぜだと思う？	When hurt, anyone feels pain.\nWhy do you think that is?	
+cev38_060.scr:16	cev38_060.scr	16	ジーニアス	Genis Sage	personagem		……同じ、ヒトだからっていうの？	...Because we're the same humans?	
+cev38_060.scr:17	cev38_060.scr	17	クレア	Claire Bennett	personagem		半分正解で、半分はずれかしら	Half right, and half wrong, perhaps.	
+cev38_060.scr:18	cev38_060.scr	18	クレア	Claire Bennett	personagem	CRLF x1	答えはね……。\n心には、種族なんてないからよ	The answer is...\nHearts have no race at all.	
+cev38_060.scr:19	cev38_060.scr	19	ジーニアス	Genis Sage	personagem		心には……種族がない……	Hearts have... no race...	
+cev38_060.scr:20	cev38_060.scr	20	クレア	Claire Bennett	personagem	CRLF x1	誰かを愛しいと思ったり、\n食べ物を美味しいと感じたり……	Holding someone dear,\nthinking food tastes delicious...	
+cev38_060.scr:21	cev38_060.scr	21	クレア	Claire Bennett	personagem	CRLF x1	そういう時、自分がどんな種族であるかを\nあなたは意識しているかしら？	In moments like that,\nare you ever conscious of your race?	
+cev38_060.scr:22	cev38_060.scr	22	ジーニアス	Genis Sage	personagem	CRLF x1	……そんな風に\n思ってみた事もなかったよ	...I never once\nthought of it that way before.	
+cev38_060.scr:23	cev38_060.scr	23	ジーニアス	Genis Sage	personagem		そうか……そうなんだね……	I see... That's true, isn't it...?	
+cev38_060.scr:24	cev38_060.scr	24	クレア	Claire Bennett	personagem	CRLF x2	今度、ジーニアスくんの為に\n美味しいピーチパイを焼くわ。\nだから、良かったら食べに来て	I'll bake a delicious peach pie\njust for you next time, Genis.\nSo please come and have some!	
+cev38_060.scr:25	cev38_060.scr	25	クレア	Claire Bennett	personagem	CRLF x1	ロイドさんやコレットさんや……\nあなたの大切なお友達と一緒に	Together with Lloyd, Colette,\nand all your precious friends.	
+cev38_060.scr:26	cev38_060.scr	26	ジーニアス	Genis Sage	personagem		……うん	...Yeah.	
+cev38_060.scr:27	cev38_060.scr	27	ジーニアス	Genis Sage	personagem		みんなと……絶対、食べに行くよ！	I'll definitely come with everyone!	
+cev38_070.scr:0	cev38_070.scr	0	リフィル	Raine Sage	personagem	CRLF x1	クレア、この間は弟が\nお世話になったみたいね	Claire, it seems you took care of\nmy little brother the other day.	
+cev38_070.scr:1	cev38_070.scr	1	リフィル	Raine Sage	personagem	CRLF x2	美味しいピーチパイを\nご馳走になったと聞いたわ。\nありがとう	I heard you treated him\nto some delicious peach pie.\nThank you.	
+cev38_070.scr:2	cev38_070.scr	2	クレア	Claire Bennett	personagem	CRLF x2	いいえ。\n私は私のしたい事をしただけだもの。\nお礼なんて……	Not at all.\nI only did what I wished to do.\nNo thanks are necessary...	
+cev38_070.scr:3	cev38_070.scr	3	リヒター	Richter Abend	personagem	CRLF x1	……ふん。\n同情のつもりか？	...Hmph.\nWas that supposed to be pity?	
+cev38_070.scr:4	cev38_070.scr	4	クレア	Claire Bennett	personagem		え？	Huh?	
+cev38_070.scr:5	cev38_070.scr	5	リヒター	Richter Abend	personagem	CRLF x2	落ち込んでいるハーフエルフの子どもを\n放っておけなかった。\nきっかけはそれだけだったかもしれん	You couldn't ignore\na depressed half-elf child.\nPerhaps that was all that started it.	
+cev38_070.scr:6	cev38_070.scr	6	リヒター	Richter Abend	personagem	CRLF x2	だが、あいつはこの先現実を知る。\n異端視される種族自体は、決して\nこの世界から消える事はないと	Yet he will learn reality later:\nthe stigma against his race\nwill never vanish from this world.	
+cev38_070.scr:7	cev38_070.scr	7	リフィル	Raine Sage	personagem		リヒター！	Richter!	
+cev38_070.scr:8	cev38_070.scr	8	リヒター	Richter Abend	personagem	CRLF x2	その時、あいつは抱いた希望の分\n深く傷付く事になるだろう。\nその絶望と落胆に、お前は責任を持てるのか？	He will be hurt as deeply\nas the hope he once harbored.\nCan you take responsibility for that?	
+cev38_070.scr:9	cev38_070.scr	9	リヒター	Richter Abend	personagem		……つまらん同情で無責任な発言をするな	...Don't make promises out of cheap pity.	
+cev38_070.scr:10	cev38_070.scr	10	クレア	Claire Bennett	personagem	CRLF x2	それでも……きっとわかり合えると\n私は信じています。　だって私達は\n同じ世界に生きる、同じヒトなんだもの	Even so... I believe\nwe can surely understand one another.\nFor we are all humans in the same world.	
+cev38_070.scr:11	cev38_070.scr	11	クレア	Claire Bennett	personagem	CRLF x2	あきらめてしまったら、完全に\n可能性はゼロになってしまうわ。　それは……\nもっと悲しい事なんじゃないかしら	If you give up, possibility becomes zero.\nIsn't that...\nsomething far more sorrowful?	
+cev38_070.scr:12	cev38_070.scr	12	リヒター	Richter Abend	personagem		…………	......	
+cev38_070.scr:13	cev38_070.scr	13	リフィル	Raine Sage	personagem	CRLF x1	難しい話ね……。\n確かに、簡単に結論は出せないけれど	A difficult topic...\nWe cannot easily reach a conclusion,	
+cev38_070.scr:14	cev38_070.scr	14	リフィル	Raine Sage	personagem	CRLF x1	だからと言って、今すぐに可能性を\n投げ出す理由にもならない	yet that is no reason\nto cast away possibilities right now.	
+cev38_070.scr:15	cev38_070.scr	15	リフィル	Raine Sage	personagem	CRLF x1	そうではなくて？　\nリヒター	Don't you agree,\nRichter?	
+cev38_070.scr:16	cev38_070.scr	16	リヒター	Richter Abend	personagem		……ふん	...Hmph.	
+cev38_070.scr:17	cev38_070.scr	17	リフィル	Raine Sage	personagem		もう……素直じゃないわね	Honestly... so stubborn.	
+cev38_070.scr:18	cev38_070.scr	18	クレア	Claire Bennett	personagem		リヒターさん……	Richter...	
+cev38_080.scr:0	cev38_080.scr	0	マルタ	Marta Lualdi	personagem	CRLF x1	最近、ご飯のメニューが\n豪華になったよね！	Lately, the meal menu\nhas gotten so luxurious!	
+cev38_080.scr:1	cev38_080.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	うん。\n○○が\nレシピを集めてくれてるの	Yeah.\n○○ has been\ngathering recipes for us!	
+cev38_080.scr:2	cev38_080.scr	2	ナナリー	Nanaly Fletch	personagem	CRLF x1	今、ちょうど２０種類くらいだっけ？\n順調に集められてるみたいだね	Isn't it around 20 kinds now?\nSeems gathering is going smoothly.	
+cev38_080.scr:3	cev38_080.scr	3	クレア	Claire Bennett	personagem	CRLF x2	ええ。\n作れるお料理が増えると\n献立にも悩まずに済むから、助かるわ	Yes.\nHaving more dishes to cook\nsaves us from meal-planning stress!	
+cev38_080.scr:4	cev38_080.scr	4	マルタ	Marta Lualdi	personagem	CRLF x2	じゃあ、もっともっと集めて\nたくさん美味しいものが\n食べられる様にしようよ！	Then let's gather more and more\nso we can eat tons of\ndelicious food!	
+cev38_080.scr:5	cev38_080.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	それは\n○○次第……かな？	I guess that depends\non ○○... right?	
+cev38_080.scr:6	cev38_080.scr	6	ナナリー	Nanaly Fletch	personagem		何にしても、これからが楽しみだね	Either way, I'm looking forward to it!	
+cev38_080.scr:7	cev38_080.scr	7	クレア	Claire Bennett	personagem	CRLF x1	そうね。\n期待して待ちましょう	Indeed.\nLet's wait with high hopes!	
+cev38_090.scr:0	cev38_090.scr	0	クレア	Claire Bennett	personagem		綺麗な光……	What beautiful light...	
+cev38_090.scr:1	cev38_090.scr	1	クレア	Claire Bennett	personagem	CRLF x1	地上がどんなに、戦いで乱れても……\n空の上は、こんなに綺麗なのね	No matter how ravaged by battle...\nthe sky above remains so lovely.	
+cev38_090.scr:2	cev38_090.scr	2	ヴェイグ	Veigue Lungberg	personagem		クレア……	Claire...	
+cev38_090.scr:3	cev38_090.scr	3	ヴェイグ	Veigue Lungberg	personagem		戦うのが、辛いか？	Is it painful to fight?	
+cev38_090.scr:4	cev38_090.scr	4	クレア	Claire Bennett	personagem	CRLF x1	辛い？　\n……どうして？	Painful?\n...Why do you ask?	
+cev38_090.scr:5	cev38_090.scr	5	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	お前を助ける為とは言え……、\n半ば強引に、このギルドへ\n連れて来てしまった	Even if to save you...\nI practically forced you\ninto this guild.	
+cev38_090.scr:6	cev38_090.scr	6	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	おじさんやおばさんの事も、\n心配だろう	You must worry about\nyour uncle and aunt too.	
+cev38_090.scr:7	cev38_090.scr	7	クレア	Claire Bennett	personagem	CRLF x1	そうね……。\n村のみんなの事も、心配よ	Yes...\nI worry for everyone in the village too.	
+cev38_090.scr:8	cev38_090.scr	8	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……すまない。\n俺の身勝手で、クレアを巻き込んだ	...I am sorry.\nMy selfishness dragged Claire into this.	
+cev38_090.scr:9	cev38_090.scr	9	クレア	Claire Bennett	personagem	CRLF x1	そんな事ないわ。\n私は、自分で選んだのよ、ヴェイグ	That's not true.\nI chose this myself, Veigue.	
+cev38_090.scr:10	cev38_090.scr	10	クレア	Claire Bennett	personagem	CRLF x2	戦いに出る事は出来ないけれど……。\nみんなと一緒に、同じ問題に同じ様に\n向き合いたかったの	Though I cannot fight on the front...\nI wanted to face the same troubles\ntogether with everyone.	
+cev38_090.scr:11	cev38_090.scr	11	クレア	Claire Bennett	personagem	CRLF x1	自分で決めたのよ。\nだから、大丈夫	I decided this on my own.\nSo I am all right.	
+cev38_090.scr:12	cev38_090.scr	12	ヴェイグ	Veigue Lungberg	personagem		クレア……	Claire...	
+cev38_090.scr:13	cev38_090.scr	13	クレア	Claire Bennett	personagem	CRLF x1	一人で戦っているなんて\n思わないでね、ヴェイグ	Please don't think you are\nfighting alone, Veigue.	
+cev38_090.scr:14	cev38_090.scr	14	クレア	Claire Bennett	personagem	CRLF x1	いつも一緒よ。\n私も、みんなも	We are always together.\nBoth me, and everyone else.	
+cev38_090.scr:15	cev38_090.scr	15	ヴェイグ	Veigue Lungberg	personagem		ああ……	Yeah...	
+cev38_090.scr:16	cev38_090.scr	16	ヴェイグ	Veigue Lungberg	personagem		ありがとう……	Thank you...	
+cev38_200.scr:0	cev38_200.scr	0	クレア	Claire Bennett	personagem	CRLF x1	通常。\n	Normal.\n	
+cev38_200.scr:1	cev38_200.scr	1	クレア	Claire Bennett	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev38_200.scr:2	cev38_200.scr	2	クレア	Claire Bennett	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev38_200.scr:3	cev38_200.scr	3	クレア	Claire Bennett	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev38_200.scr:4	cev38_200.scr	4	クレア	Claire Bennett	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev38_200.scr:5	cev38_200.scr	5	クレア	Claire Bennett	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev38_200.scr:6	cev38_200.scr	6	クレア	Claire Bennett	personagem	CRLF x1	悲しみ２。\n	Sadness 2.\n	
+cev38_200.scr:7	cev38_200.scr	7	クレア	Claire Bennett	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev38_200.scr:8	cev38_200.scr	8	クレア	Claire Bennett	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev38_200.scr:9	cev38_200.scr	9	クレア	Claire Bennett	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev38_200.scr:10	cev38_200.scr	10	クレア	Claire Bennett	personagem	CRLF x1	通常。\n	Normal.\n	
+cev38_200.scr:11	cev38_200.scr	11	クレア	Claire Bennett	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev38_200.scr:12	cev38_200.scr	12	クレア	Claire Bennett	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev38_200.scr:13	cev38_200.scr	13	クレア	Claire Bennett	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev38_200.scr:14	cev38_200.scr	14	クレア	Claire Bennett	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev38_200.scr:15	cev38_200.scr	15	クレア	Claire Bennett	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev38_200.scr:16	cev38_200.scr	16	クレア	Claire Bennett	personagem	CRLF x1	悲しみ２。\n	Sadness 2.\n	
+cev38_200.scr:17	cev38_200.scr	17	クレア	Claire Bennett	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev38_200.scr:18	cev38_200.scr	18	クレア	Claire Bennett	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev38_200.scr:19	cev38_200.scr	19	クレア	Claire Bennett	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev38_200.scr:20	cev38_200.scr	20	クレア	Claire Bennett	personagem	CRLF x1	通常。\n	Normal.\n	
+cev38_200.scr:21	cev38_200.scr	21	クレア	Claire Bennett	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev38_200.scr:22	cev38_200.scr	22	クレア	Claire Bennett	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev38_200.scr:23	cev38_200.scr	23	クレア	Claire Bennett	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev38_200.scr:24	cev38_200.scr	24	クレア	Claire Bennett	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev38_200.scr:25	cev38_200.scr	25	クレア	Claire Bennett	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev38_200.scr:26	cev38_200.scr	26	クレア	Claire Bennett	personagem	CRLF x1	悲しみ２。\n	Sadness 2.\n	
+cev38_200.scr:27	cev38_200.scr	27	クレア	Claire Bennett	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev38_200.scr:28	cev38_200.scr	28	クレア	Claire Bennett	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev38_200.scr:29	cev38_200.scr	29	クレア	Claire Bennett	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	

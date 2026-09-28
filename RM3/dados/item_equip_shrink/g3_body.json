@@ -1,0 +1,3768 @@
+{
+ "categorias": {
+  "body_equip": {
+   "arena_bytes": 19337,
+   "pool_atual_bytes": 19469,
+   "folga_atual": -132,
+   "meta_bytes_a_cortar": 1678,
+   "itens": [
+    {
+     "id": "body_equip#642",
+     "jp": "使い手に同調し最高の性能を発揮する至高の鎧",
+     "en": "The supreme armor that resonates with its wielder to unleash maximum performance.",
+     "bytes": 81
+    },
+    {
+     "id": "body_equip#222",
+     "jp": "堅い守りと重量感溢れる銀色全身鎧の胴部",
+     "en": "Torso section of silver full-body armor overflowing with solid defense and heft.",
+     "bytes": 80
+    },
+    {
+     "id": "body_equip#622",
+     "jp": "幾戦もの闘いの末、返り血を浴び続けた曰く付きの鎧",
+     "en": "Armor steeped in history, drenched in spurting blood through countless battles.",
+     "bytes": 79
+    },
+    {
+     "id": "body_equip#630",
+     "jp": "戦場でも傷つかない守り神の名を冠するローブ",
+     "en": "A robe bearing the name of a guardian deity unwounded even on the battlefield.",
+     "bytes": 78
+    },
+    {
+     "id": "body_equip#502",
+     "jp": "夜空を支配する月の力で満ちた呪装",
+     "en": "Enchanted vestments brimming with the power of the moon ruling the night sky.",
+     "bytes": 77
+    },
+    {
+     "id": "body_equip#633",
+     "jp": "纏う者は不死鳥の加護を得るという伝説の衣",
+     "en": "Legendary clothing whose wearer is said to gain the blessing of the phoenix.",
+     "bytes": 76
+    },
+    {
+     "id": "body_equip#468",
+     "jp": "魂で超常的存在と接触する者が着用するジャケット",
+     "en": "A jacket worn by those who make spiritual contact with paranormal beings.",
+     "bytes": 73
+    },
+    {
+     "id": "body_equip#489",
+     "jp": "正道から外れ異端の道を行く術士の衣",
+     "en": "Clothing of spellcasters who strayed from the righteous path into heresy.",
+     "bytes": 73
+    },
+    {
+     "id": "body_equip#627",
+     "jp": "纏う者は天を翔けたという伝説のクローク",
+     "en": "A legendary cloak whose wearer is said to have soared across the heavens.",
+     "bytes": 73
+    },
+    {
+     "id": "body_equip#635",
+     "jp": "イシュタル伝説に名を残す勇者ギルガメシュの鎧",
+     "en": "Armor of the hero Gilgamesh, whose name lives on in the legend of Ishtar.",
+     "bytes": 73
+    },
+    {
+     "id": "body_equip#399",
+     "jp": "伝説の巨神と見紛う防御と威圧感の鎧",
+     "en": "Armor with defense and intimidation mistaken for the legendary colossus.",
+     "bytes": 72
+    },
+    {
+     "id": "body_equip#298",
+     "jp": "中佐の階級の者が着用する第二種礼装用のローブ",
+     "en": "A robe for Type 2 dress uniform worn by the rank of Lieutenant Colonel.",
+     "bytes": 71
+    },
+    {
+     "id": "body_equip#476",
+     "jp": "城の親衛隊長となった術者のローブ",
+     "en": "A robe worn by spellcasters who serve as captain of the imperial guard.",
+     "bytes": 71
+    },
+    {
+     "id": "body_equip#382",
+     "jp": "古の聖人マイトレヤに正義を誓う者が着用する鎧",
+     "en": "Armor worn by those who swear justice to the ancient saint Maitreya.",
+     "bytes": 68
+    },
+    {
+     "id": "body_equip#388",
+     "jp": "千夜一夜の魔法の国で鰐を意味する鎧",
+     "en": "Armor whose name means crocodile in the magical land of 1001 Nights.",
+     "bytes": 68
+    },
+    {
+     "id": "body_equip#393",
+     "jp": "守護騎士団所属の証となる鎧",
+     "en": "Armor that serves as proof of membership in the Guardian Knighthood.",
+     "bytes": 68
+    },
+    {
+     "id": "body_equip#556",
+     "jp": "ディセンダーと認められた大剣士専用の鎧",
+     "en": "Armor exclusively for a Great Swordsman recognized as the Descender.",
+     "bytes": 68
+    },
+    {
+     "id": "body_equip#35",
+     "jp": "古の聖人ジャーメインに正義を誓う者が着用する鎧",
+     "en": "Armor worn by those who swear justice to the ancient saint Germain.",
+     "bytes": 67
+    },
+    {
+     "id": "body_equip#142",
+     "jp": "掟を破り破門された術士の衣",
+     "en": "A robe worn by spellcasters excommunicated for breaking the tenets.",
+     "bytes": 67
+    },
+    {
+     "id": "body_equip#515",
+     "jp": "天空の星の力で身を守るクローク",
+     "en": "A cloak that protects its wearer with the power of celestial stars.",
+     "bytes": 67
+    },
+    {
+     "id": "body_equip#517",
+     "jp": "伝説のパタンナーが現代に蘇らせた古代のガーブ",
+     "en": "Ancient garb revived in the modern age by a legendary patternmaker.",
+     "bytes": 67
+    },
+    {
+     "id": "body_equip#553",
+     "jp": "ディセンダーと認められた双剣士専用の鎧",
+     "en": "Armor exclusively for a Twin Swordsman recognized as the Descender.",
+     "bytes": 67
+    },
+    {
+     "id": "body_equip#209",
+     "jp": "古の聖人クスミに正義を誓う者が着用する鎧",
+     "en": "Armor worn by those who swear justice to the ancient saint Kusumi.",
+     "bytes": 66
+    },
+    {
+     "id": "body_equip#215",
+     "jp": "千夜一夜の魔法の国で蛇を意味する鎧",
+     "en": "Armor whose name means serpent in the magical land of 1001 Nights.",
+     "bytes": 66
+    },
+    {
+     "id": "body_equip#253",
+     "jp": "法敵を討つ僧兵の布鎧",
+     "en": "Cloth armor of warrior monks who strike down enemies of the faith.",
+     "bytes": 66
+    },
+    {
+     "id": "body_equip#711",
+     "jp": "身につければあのキャラに！（全身変化の装備です）",
+     "en": "Wear it to become that character! (Full-body transform equipment.)",
+     "bytes": 66
+    },
+    {
+     "id": "body_equip#271",
+     "jp": "小龍の位を持つ功夫使いが着用する衣",
+     "en": "A robe worn by kung fu masters holding the rank of Lesser Dragon.",
+     "bytes": 65
+    },
+    {
+     "id": "body_equip#464",
+     "jp": "魔術結社で被免達人の階位に与えられるクローク",
+     "en": "A cloak awarded to the rank of Exempt Adept in magical societies.",
+     "bytes": 65
+    },
+    {
+     "id": "body_equip#529",
+     "jp": "ディセンダーと認められた魔法剣士専用の鎧",
+     "en": "Armor exclusively for a Magic Knight recognized as the Descender.",
+     "bytes": 65
+    },
+    {
+     "id": "body_equip#118",
+     "jp": "魔術結社で小達人の階位に与えられるクローク",
+     "en": "A cloak awarded to the rank of Minor Adept in magical societies.",
+     "bytes": 64
+    },
+    {
+     "id": "body_equip#220",
+     "jp": "聖騎士団所属の証となる鎧",
+     "en": "Armor that serves as proof of membership in the Holy Knighthood.",
+     "bytes": 64
+    },
+    {
+     "id": "body_equip#277",
+     "jp": "校則に定められた晶霊学士用の制服",
+     "en": "A uniform prescribed by school regulations for Craymel scholars.",
+     "bytes": 64
+    },
+    {
+     "id": "body_equip#291",
+     "jp": "魔術結社で大達人の階位に与えられるクローク",
+     "en": "A cloak awarded to the rank of Major Adept in magical societies.",
+     "bytes": 64
+    },
+    {
+     "id": "body_equip#494",
+     "jp": "宇宙存在エイワスの波動を受けた外套",
+     "en": "A mantle that received vibrations from the cosmic entity Aiwass.",
+     "bytes": 64
+    },
+    {
+     "id": "body_equip#147",
+     "jp": "宇宙存在アリオンの波動を受けた外套",
+     "en": "A mantle that received vibrations from the cosmic entity Arion.",
+     "bytes": 63
+    },
+    {
+     "id": "body_equip#181",
+     "jp": "守りを捨て攻撃に特化する事こそ最大の防御なり",
+     "en": "Abandoning defense to focus on offense is the ultimate defense.",
+     "bytes": 63
+    },
+    {
+     "id": "body_equip#380",
+     "jp": "伝説の製法で作られた全身鎧の胴部",
+     "en": "Torso section of full-body armor made via legendary techniques.",
+     "bytes": 63
+    },
+    {
+     "id": "body_equip#444",
+     "jp": "龍王の位を持つ功夫使いが着用する衣",
+     "en": "A robe worn by kung fu masters holding the rank of Dragon King.",
+     "bytes": 63
+    },
+    {
+     "id": "body_equip#450",
+     "jp": "校則に定められた精霊学士用の制服",
+     "en": "A uniform prescribed by school regulations for spirit scholars.",
+     "bytes": 63
+    },
+    {
+     "id": "body_equip#532",
+     "jp": "ディセンダーと認められた格闘家専用のキトン",
+     "en": "A chiton exclusively for a Fighter recognized as the Descender.",
+     "bytes": 63
+    },
+    {
+     "id": "body_equip#7",
+     "jp": "見た目の露出度とは裏腹に防御力には優れた鎧",
+     "en": "Armor with excellent defense despite its revealing appearance.",
+     "bytes": 62
+    },
+    {
+     "id": "body_equip#41",
+     "jp": "千夜一夜の魔法の国で蜂を意味する鎧",
+     "en": "Armor whose name means bee in the magical land of 1001 Nights.",
+     "bytes": 62
+    },
+    {
+     "id": "body_equip#61",
+     "jp": "とある民族の守り神ファルコンの加護を受けたジャケット",
+     "en": "A jacket blessed by Falcon, guardian deity of a certain tribe.",
+     "bytes": 62
+    },
+    {
+     "id": "body_equip#280",
+     "jp": "神前儀式で活発な動きで舞う者の装束",
+     "en": "Garb worn by those performing vigorous dances in sacred rites.",
+     "bytes": 62
+    },
+    {
+     "id": "body_equip#526",
+     "jp": "ディセンダーと認められた剣士専用の鎧",
+     "en": "Armor exclusively for a Swordsman recognized as the Descender.",
+     "bytes": 62
+    },
+    {
+     "id": "body_equip#568",
+     "jp": "ディセンダーと認められたガンマン専用のジャケット",
+     "en": "A jacket exclusively for a Gunner recognized as the Descender.",
+     "bytes": 62
+    },
+    {
+     "id": "body_equip#640",
+     "jp": "太古の聖戦に使用されたという伝説の鎧",
+     "en": "Legendary armor said to have been used in an ancient holy war.",
+     "bytes": 62
+    },
+    {
+     "id": "body_equip#666",
+     "jp": "全身黒タイツ。怪しい人物を華麗に演じます",
+     "en": "Full-body black tights. Elegantly play a suspicious character.",
+     "bytes": 62
+    },
+    {
+     "id": "body_equip#408",
+     "jp": "とある民族の守り神イーグルの加護を受けたジャケット",
+     "en": "A jacket blessed by Eagle, guardian deity of a certain tribe.",
+     "bytes": 61
+    },
+    {
+     "id": "body_equip#453",
+     "jp": "神前儀式で勇猛な動きで舞う者の装束",
+     "en": "Garb worn by those performing valiant dances in sacred rites.",
+     "bytes": 61
+    },
+    {
+     "id": "body_equip#535",
+     "jp": "ディセンダーと認められた狩人専用の服",
+     "en": "Clothes exclusively for a Hunter recognized as the Descender.",
+     "bytes": 61
+    },
+    {
+     "id": "body_equip#547",
+     "jp": "ディセンダーと認められた僧侶専用のクローク",
+     "en": "A cloak exclusively for a Priest recognized as the Descender.",
+     "bytes": 61
+    },
+    {
+     "id": "body_equip#562",
+     "jp": "ディセンダーと認められた海賊専用の服",
+     "en": "Clothes exclusively for a Pirate recognized as the Descender.",
+     "bytes": 61
+    },
+    {
+     "id": "body_equip#638",
+     "jp": "大いなる大地母神の守りを受けた鎧",
+     "en": "Armor that received the protection of the great Earth Mother.",
+     "bytes": 61
+    },
+    {
+     "id": "body_equip#106",
+     "jp": "神前儀式で静穏な動きで舞う者の装束",
+     "en": "Garb worn by those performing serene dances in sacred rites.",
+     "bytes": 60
+    },
+    {
+     "id": "body_equip#122",
+     "jp": "魂の開放を求めて踊る者が着用するジャケット",
+     "en": "A jacket worn by those dancing in search of soul liberation.",
+     "bytes": 60
+    },
+    {
+     "id": "body_equip#207",
+     "jp": "継ぎ目の少ない全身鎧の胴部",
+     "en": "Torso section of full-body armor with seamless construction.",
+     "bytes": 60
+    },
+    {
+     "id": "body_equip#235",
+     "jp": "とある民族の守り神ホークの加護を受けたジャケット",
+     "en": "A jacket blessed by Hawk, guardian deity of a certain tribe.",
+     "bytes": 60
+    },
+    {
+     "id": "body_equip#320",
+     "jp": "宇宙存在ラーの波動を受けた外套",
+     "en": "A mantle that received vibrations from the cosmic entity Ra.",
+     "bytes": 60
+    },
+    {
+     "id": "body_equip#471",
+     "jp": "大佐の階級の者が着用する第二種礼装用のローブ",
+     "en": "A robe for Type 2 dress uniform worn by the rank of Colonel.",
+     "bytes": 60
+    },
+    {
+     "id": "body_equip#523",
+     "jp": "ディセンダーと認められた戦士専用の鎧",
+     "en": "Armor exclusively for a Warrior recognized as the Descender.",
+     "bytes": 60
+    },
+    {
+     "id": "body_equip#538",
+     "jp": "ディセンダーと認められた盗賊専用の服",
+     "en": "Clothes exclusively for a Thief recognized as the Descender.",
+     "bytes": 60
+    },
+    {
+     "id": "body_equip#550",
+     "jp": "ディセンダーと認められたビショップ専用のローブ",
+     "en": "A robe exclusively for a Bishop recognized as the Descender.",
+     "bytes": 60
+    },
+    {
+     "id": "body_equip#559",
+     "jp": "ディセンダーと認められたモンク専用のジャケット",
+     "en": "A jacket exclusively for a Monk recognized as the Descender.",
+     "bytes": 60
+    },
+    {
+     "id": "body_equip#565",
+     "jp": "ディセンダーと認められた聖騎士専用の鎧",
+     "en": "Armor exclusively for a Paladin recognized as the Descender.",
+     "bytes": 60
+    },
+    {
+     "id": "body_equip#737",
+     "jp": "なつかしのビデオゲームのキャラクターのＴシャツ",
+     "en": "A T-shirt featuring a character from a nostalgic video game.",
+     "bytes": 60
+    },
+    {
+     "id": "body_equip#46",
+     "jp": "騎士団所属の証となる鎧",
+     "en": "Armor that serves as proof of membership in the knighthood.",
+     "bytes": 59
+    },
+    {
+     "id": "body_equip#374",
+     "jp": "東方の戦の麒麟児義経が着用していた鎧",
+     "en": "Armor once worn by Yoshitsune, the East's military prodigy.",
+     "bytes": 59
+    },
+    {
+     "id": "body_equip#750",
+     "jp": "皆様の要望にお応えして部位ごとに装備可能に！",
+     "en": "In response to popular demand, can now be equipped by part!",
+     "bytes": 59
+    },
+    {
+     "id": "body_equip#33",
+     "jp": "古式の製法で作られた全身鎧の胴部",
+     "en": "Torso section of full-body armor made via antique methods.",
+     "bytes": 58
+    },
+    {
+     "id": "body_equip#125",
+     "jp": "少佐の階級の者が着用する第二種礼装用のローブ",
+     "en": "A robe for Type 2 dress uniform worn by the rank of Major.",
+     "bytes": 58
+    },
+    {
+     "id": "body_equip#544",
+     "jp": "ディセンダーと認められた魔術師専用のローブ",
+     "en": "A robe exclusively for a Mage recognized as the Descender.",
+     "bytes": 58
+    },
+    {
+     "id": "body_equip#604",
+     "jp": "ディセンダーの為に作られた大剣士専用の鎧",
+     "en": "Armor crafted exclusively for a Great Swordsman Descender.",
+     "bytes": 58
+    },
+    {
+     "id": "body_equip#52",
+     "jp": "抜群の防御と威圧感の鎧",
+     "en": "Armor with outstanding defense and intimidating presence.",
+     "bytes": 57
+    },
+    {
+     "id": "body_equip#79",
+     "jp": "荒行に挑む修行僧の布鎧",
+     "en": "Cloth armor worn by ascetic monks facing rigorous trials.",
+     "bytes": 57
+    },
+    {
+     "id": "body_equip#201",
+     "jp": "東方の大男弁慶が着用していた鎧",
+     "en": "Armor once worn by Benkei, the giant warrior of the East.",
+     "bytes": 57
+    },
+    {
+     "id": "body_equip#226",
+     "jp": "巨人と見紛う防御と威圧感の鎧",
+     "en": "Armor with defense and intimidation mistaken for a giant.",
+     "bytes": 57
+    },
+    {
+     "id": "body_equip#541",
+     "jp": "ディセンダーと認められた忍者専用の衣",
+     "en": "Garb exclusively for a Ninja recognized as the Descender.",
+     "bytes": 57
+    },
+    {
+     "id": "body_equip#601",
+     "jp": "ディセンダーの為に作られた双剣士専用の鎧",
+     "en": "Armor crafted exclusively for a Twin Swordsman Descender.",
+     "bytes": 57
+    },
+    {
+     "id": "body_equip#54",
+     "jp": "魔界の大公爵アスタロトの福音を受けたメイル",
+     "en": "Mail blessed by Astaroth, Grand Duke of the Netherworld.",
+     "bytes": 56
+    },
+    {
+     "id": "body_equip#84",
+     "jp": "物の怪土蜘蛛を討伐する者が着用する装束",
+     "en": "Garb worn by those who subjugate the monster Tsuchigumo.",
+     "bytes": 56
+    },
+    {
+     "id": "body_equip#103",
+     "jp": "校則に定められた学士用の制服",
+     "en": "A uniform prescribed by school regulations for scholars.",
+     "bytes": 56
+    },
+    {
+     "id": "body_equip#137",
+     "jp": "尊敬を一身に集める術士のガーブ",
+     "en": "Garb worn by spellcasters who command universal respect.",
+     "bytes": 56
+    },
+    {
+     "id": "body_equip#315",
+     "jp": "外法の術を使う術士の衣",
+     "en": "A robe worn by spellcasters who practice heretical arts.",
+     "bytes": 56
+    },
+    {
+     "id": "body_equip#364",
+     "jp": "戦鬼となった闘士が身に着けるという胴衣",
+     "en": "A vest said to be worn by warriors turned battle demons.",
+     "bytes": 56
+    },
+    {
+     "id": "body_equip#497",
+     "jp": "東方の秘神クラヤマツミの加護を受けた衣",
+     "en": "A robe blessed by Kurayamatsumi, secret god of the East.",
+     "bytes": 56
+    },
+    {
+     "id": "body_equip#507",
+     "jp": "東方で最も高位の貴族が着用する着物",
+     "en": "A kimono worn by the highest-ranking nobles of the East.",
+     "bytes": 56
+    },
+    {
+     "id": "body_equip#753",
+     "jp": "血湧き肉躍る！漢の祭装備",
+     "en": "Blood boiling and flesh stirring! A manly festival gear.",
+     "bytes": 56
+    },
+    {
+     "id": "body_equip#39",
+     "jp": "ナイトの称号を持つ者に与えられる鎧",
+     "en": "Armor bestowed upon those who hold the title of Knight.",
+     "bytes": 55
+    },
+    {
+     "id": "body_equip#87",
+     "jp": "少尉の階級の証である制服",
+     "en": "A uniform that signifies the rank of second lieutenant.",
+     "bytes": 55
+    },
+    {
+     "id": "body_equip#130",
+     "jp": "城の衛士となった術者のローブ",
+     "en": "A robe worn by spellcasters who serve as castle guards.",
+     "bytes": 55
+    },
+    {
+     "id": "body_equip#681",
+     "jp": "究極の雷装備。その名も「ブラック（黒）」",
+     "en": "The ultimate thunder gear. Its name is 'Black (Black)'.",
+     "bytes": 55
+    },
+    {
+     "id": "body_equip#213",
+     "jp": "バロンの称号を持つ者に与えられる鎧",
+     "en": "Armor bestowed upon those who hold the title of Baron.",
+     "bytes": 54
+    },
+    {
+     "id": "body_equip#261",
+     "jp": "中尉の階級の証である制服",
+     "en": "A uniform that signifies the rank of first lieutenant.",
+     "bytes": 54
+    },
+    {
+     "id": "body_equip#303",
+     "jp": "城の近衛兵となった術者のローブ",
+     "en": "A robe worn by spellcasters who serve as royal guards.",
+     "bytes": 54
+    },
+    {
+     "id": "body_equip#700",
+     "jp": "鶏のヒナを模したスーツ。レア色で着色済み",
+     "en": "A suit resembling a baby chick. Colored in rare tones.",
+     "bytes": 54
+    },
+    {
+     "id": "body_equip#112",
+     "jp": "聖獣朱雀の名を冠する衣服",
+     "en": "Clothing bearing the name of the sacred beast Suzaku.",
+     "bytes": 53
+    },
+    {
+     "id": "body_equip#228",
+     "jp": "魔界の君主ベルゼバブの福音を受けたメイル",
+     "en": "Mail blessed by Beelzebub, Prince of the Netherworld.",
+     "bytes": 53
+    },
+    {
+     "id": "body_equip#323",
+     "jp": "東方の秘神ミカハヤヒの加護を受けた衣",
+     "en": "A robe blessed by Mikahayahi, secret god of the East.",
+     "bytes": 53
+    },
+    {
+     "id": "body_equip#386",
+     "jp": "デュークの称号を持つ者に与えられる鎧",
+     "en": "Armor bestowed upon those who hold the title of Duke.",
+     "bytes": 53
+    },
+    {
+     "id": "body_equip#418",
+     "jp": "歴戦の傭兵の活動に適したオーバーオール",
+     "en": "Overalls well-suited for battle-hardened mercenaries.",
+     "bytes": 53
+    },
+    {
+     "id": "body_equip#426",
+     "jp": "教義を広める僧正の布鎧",
+     "en": "Cloth armor of high priests who spread the teachings.",
+     "bytes": 53
+    },
+    {
+     "id": "body_equip#458",
+     "jp": "聖獣白虎の名を冠する衣服",
+     "en": "Clothing bearing the name of the sacred beast Byakko.",
+     "bytes": 53
+    },
+    {
+     "id": "body_equip#577",
+     "jp": "ディセンダーの為に作られた魔法剣士専用の鎧",
+     "en": "Armor crafted exclusively for a Spellsword Descender.",
+     "bytes": 53
+    },
+    {
+     "id": "body_equip#580",
+     "jp": "ディセンダーの為に作られた格闘家専用のキトン",
+     "en": "A chiton crafted exclusively for a Fighter Descender.",
+     "bytes": 53
+    },
+    {
+     "id": "body_equip#707",
+     "jp": "珍しい色をした両生類を模したスーツ",
+     "en": "A suit resembling an amphibian with unusual coloring.",
+     "bytes": 53
+    },
+    {
+     "id": "body_equip#285",
+     "jp": "聖獣玄武の名を冠する衣服",
+     "en": "Clothing bearing the name of the sacred beast Genbu.",
+     "bytes": 52
+    },
+    {
+     "id": "body_equip#295",
+     "jp": "新しい魂の道を求める者が着用するジャケット",
+     "en": "A jacket worn by those seeking a new spiritual path.",
+     "bytes": 52
+    },
+    {
+     "id": "body_equip#367",
+     "jp": "覇龍の魂が宿るといわれる鎧",
+     "en": "Armor said to harbor the soul of the Supreme Dragon.",
+     "bytes": 52
+    },
+    {
+     "id": "body_equip#369",
+     "jp": "上級の爵位を持つ者に与えられる鎧",
+     "en": "Armor bestowed upon high-ranking noble titleholders.",
+     "bytes": 52
+    },
+    {
+     "id": "body_equip#401",
+     "jp": "魔界の皇帝ルシフェルの福音を受けたメイル",
+     "en": "Mail blessed by Lucifer, Emperor of the Netherworld.",
+     "bytes": 52
+    },
+    {
+     "id": "body_equip#574",
+     "jp": "ディセンダーの為に作られた剣士専用の鎧",
+     "en": "Armor crafted exclusively for a Swordsman Descender.",
+     "bytes": 52
+    },
+    {
+     "id": "body_equip#614",
+     "jp": "ディセンダーの為に作られたガンマン専用のジャケット",
+     "en": "A jacket crafted exclusively for a Gunner Descender.",
+     "bytes": 52
+    },
+    {
+     "id": "body_equip#144",
+     "jp": "不思議な魔力が込められた可愛い衣装",
+     "en": "A cute outfit imbued with mysterious magical power.",
+     "bytes": 51
+    },
+    {
+     "id": "body_equip#310",
+     "jp": "信頼を一身に集める術士のガーブ",
+     "en": "Garb worn by spellcasters who command utmost trust.",
+     "bytes": 51
+    },
+    {
+     "id": "body_equip#328",
+     "jp": "三日月の様な美しい輝きを放つガーブ",
+     "en": "Garb radiating a beautiful crescent moon-like glow.",
+     "bytes": 51
+    },
+    {
+     "id": "body_equip#431",
+     "jp": "物の怪天狗を討伐する者が着用する装束",
+     "en": "Garb worn by those who subjugate the monster Tengu.",
+     "bytes": 51
+    },
+    {
+     "id": "body_equip#583",
+     "jp": "ディセンダーの為に作られた狩人専用の服",
+     "en": "Clothes crafted exclusively for a Hunter Descender.",
+     "bytes": 51
+    },
+    {
+     "id": "body_equip#595",
+     "jp": "ディセンダーの為に作られた僧侶専用のクローク",
+     "en": "A cloak crafted exclusively for a Priest Descender.",
+     "bytes": 51
+    },
+    {
+     "id": "body_equip#609",
+     "jp": "ディセンダーの為に作られた海賊専用のクロース",
+     "en": "Clothes crafted exclusively for a Pirate Descender.",
+     "bytes": 51
+    },
+    {
+     "id": "body_equip#150",
+     "jp": "東方の秘神イハサクの加護を受けた衣",
+     "en": "A robe blessed by Ihasaku, secret god of the East.",
+     "bytes": 50
+    },
+    {
+     "id": "body_equip#169",
+     "jp": "煌めく星をイメージしたクローク",
+     "en": "A cloak fashioned in the image of sparkling stars.",
+     "bytes": 50
+    },
+    {
+     "id": "body_equip#179",
+     "jp": "霊草ガルヒーナの名を冠する鎧",
+     "en": "Armor bearing the name of the sacred herb Garhina.",
+     "bytes": 50
+    },
+    {
+     "id": "body_equip#341",
+     "jp": "かつて天上人が着用したというクローク",
+     "en": "A cloak said to have once been worn by celestials.",
+     "bytes": 50
+    },
+    {
+     "id": "body_equip#491",
+     "jp": "光にも似た強烈なオーラを放つ可愛い衣装",
+     "en": "A cute outfit emitting an intense aura like light.",
+     "bytes": 50
+    },
+    {
+     "id": "body_equip#571",
+     "jp": "ディセンダーの為に作られた戦士専用の鎧",
+     "en": "Armor crafted exclusively for a Warrior Descender.",
+     "bytes": 50
+    },
+    {
+     "id": "body_equip#586",
+     "jp": "ディセンダーの為に作られた盗賊専用の服",
+     "en": "Clothes crafted exclusively for a Thief Descender.",
+     "bytes": 50
+    },
+    {
+     "id": "body_equip#598",
+     "jp": "ディセンダーの為に作られたビショップ専用のローブ",
+     "en": "A robe crafted exclusively for a Bishop Descender.",
+     "bytes": 50
+    },
+    {
+     "id": "body_equip#607",
+     "jp": "ディセンダーの為に作られたモンク専用のジャケット",
+     "en": "A jacket crafted exclusively for a Monk Descender.",
+     "bytes": 50
+    },
+    {
+     "id": "body_equip#612",
+     "jp": "ディセンダーの為に作られた聖騎士専用の鎧",
+     "en": "Armor crafted exclusively for a Paladin Descender.",
+     "bytes": 50
+    },
+    {
+     "id": "body_equip#5",
+     "jp": "霊草ブラフミーの名を冠する鎧",
+     "en": "Armor bearing the name of the sacred herb Brahmi.",
+     "bytes": 49
+    },
+    {
+     "id": "body_equip#20",
+     "jp": "小龍の魂が宿るといわれる鎧",
+     "en": "Armor said to harbor the soul of a lesser dragon.",
+     "bytes": 49
+    },
+    {
+     "id": "body_equip#91",
+     "jp": "呪術師イエロー・スパイダーが祈祷したジャケット",
+     "en": "A jacket consecrated by the shaman Yellow Spider.",
+     "bytes": 49
+    },
+    {
+     "id": "body_equip#155",
+     "jp": "古き月の女神を信仰する者のガーブ",
+     "en": "Garb for worshippers of the ancient moon goddess.",
+     "bytes": 49
+    },
+    {
+     "id": "body_equip#194",
+     "jp": "龍王の魂が宿るといわれる鎧",
+     "en": "Armor said to harbor the soul of the Dragon King.",
+     "bytes": 49
+    },
+    {
+     "id": "body_equip#196",
+     "jp": "爵位を持つ者に与えられる鎧",
+     "en": "Armor bestowed upon those who hold a noble title.",
+     "bytes": 49
+    },
+    {
+     "id": "body_equip#198",
+     "jp": "風の如き動作を可能にした胴部用防具",
+     "en": "Torso armor enabling movements swift as the wind.",
+     "bytes": 49
+    },
+    {
+     "id": "body_equip#245",
+     "jp": "野戦活動に適したオーバーオール",
+     "en": "Overalls well-suited for field combat activities.",
+     "bytes": 49
+    },
+    {
+     "id": "body_equip#258",
+     "jp": "物の怪鵺を討伐する者が着用する装束",
+     "en": "Garb worn by those who subjugate the monster Nue.",
+     "bytes": 49
+    },
+    {
+     "id": "body_equip#312",
+     "jp": "着る者の目標達成を助けるというガーブ",
+     "en": "Garb said to help the wearer achieve their goals.",
+     "bytes": 49
+    },
+    {
+     "id": "body_equip#354",
+     "jp": "頑強な筋肉の動きを妨げぬよう研究された鎧",
+     "en": "Armor engineered not to hinder muscular movement.",
+     "bytes": 49
+    },
+    {
+     "id": "body_equip#421",
+     "jp": "総督が警備の巡察で着用するコート",
+     "en": "A coat worn by governors on security inspections.",
+     "bytes": 49
+    },
+    {
+     "id": "body_equip#43",
+     "jp": "獣神ガネーシャの名を冠する鎧",
+     "en": "Armor bearing the name of the beast god Ganesha.",
+     "bytes": 48
+    },
+    {
+     "id": "body_equip#217",
+     "jp": "獣神ハヌマーンの名を冠する鎧",
+     "en": "Armor bearing the name of the beast god Hanuman.",
+     "bytes": 48
+    },
+    {
+     "id": "body_equip#243",
+     "jp": "寺院警備の僧兵が着用する袈裟",
+     "en": "A kasaya worn by warrior monks guarding temples.",
+     "bytes": 48
+    },
+    {
+     "id": "body_equip#352",
+     "jp": "霊草トゥルシーの名を冠する鎧",
+     "en": "Armor bearing the name of the sacred herb Tulsi.",
+     "bytes": 48
+    },
+    {
+     "id": "body_equip#592",
+     "jp": "ディセンダーの為に作られた魔術師専用のローブ",
+     "en": "A robe crafted exclusively for a Mage Descender.",
+     "bytes": 48
+    },
+    {
+     "id": "body_equip#672",
+     "jp": "中級雷様が装備出来るスーツ",
+     "en": "A suit that intermediate thunder gods can equip.",
+     "bytes": 48
+    },
+    {
+     "id": "body_equip#729",
+     "jp": "テイルズ　オブ　マスコットキャラクターのＴシャツ",
+     "en": "A T-shirt featuring a Tales of mascot character.",
+     "bytes": 48
+    },
+    {
+     "id": "body_equip#63",
+     "jp": "逃げる牛を追う者が着用するシャツ",
+     "en": "A shirt worn by those who chase fleeing cattle.",
+     "bytes": 47
+    },
+    {
+     "id": "body_equip#153",
+     "jp": "激しい祈りに耐える丈夫な装束",
+     "en": "Durable garb built to withstand intense prayer.",
+     "bytes": 47
+    },
+    {
+     "id": "body_equip#371",
+     "jp": "竜の威風を持つ胴部用防具",
+     "en": "Torso armor possessing the majesty of a dragon.",
+     "bytes": 47
+    },
+    {
+     "id": "body_equip#390",
+     "jp": "獣神アヌビスの名を冠する鎧",
+     "en": "Armor bearing the name of the beast god Anubis.",
+     "bytes": 47
+    },
+    {
+     "id": "body_equip#416",
+     "jp": "説法に赴く僧正が着用する袈裟",
+     "en": "A kasaya worn by high priests on sermon visits.",
+     "bytes": 47
+    },
+    {
+     "id": "body_equip#438",
+     "jp": "呪術師シルバー・ピューマが祈祷したジャケット",
+     "en": "A jacket consecrated by the shaman Silver Puma.",
+     "bytes": 47
+    },
+    {
+     "id": "body_equip#441",
+     "jp": "謎の暗殺教団が着用するスーツ",
+     "en": "A suit worn by a mysterious order of assassins.",
+     "bytes": 47
+    },
+    {
+     "id": "body_equip#447",
+     "jp": "竜の調教を生業とする者が着用する制服",
+     "en": "A uniform worn by professional dragon trainers.",
+     "bytes": 47
+    },
+    {
+     "id": "body_equip#589",
+     "jp": "ディセンダーの為に作られた忍者専用の衣",
+     "en": "Garb crafted exclusively for a Ninja Descender.",
+     "bytes": 47
+    },
+    {
+     "id": "body_equip#48",
+     "jp": "堅い守りと重量感溢れる鎧",
+     "en": "Armor overflowing with solid defense and heft.",
+     "bytes": 46
+    },
+    {
+     "id": "body_equip#211",
+     "jp": "戦国武将を彷彿とさせる鎧",
+     "en": "Armor reminiscent of a Warring States warlord.",
+     "bytes": 46
+    },
+    {
+     "id": "body_equip#224",
+     "jp": "不吉な意匠の鎧の胴部",
+     "en": "Torso section of armor with an ominous design.",
+     "bytes": 46
+    },
+    {
+     "id": "body_equip#265",
+     "jp": "呪術師レッド・コヨーテが祈祷したジャケット",
+     "en": "A jacket consecrated by the shaman Red Coyote.",
+     "bytes": 46
+    },
+    {
+     "id": "body_equip#274",
+     "jp": "虎の調教を生業とする者が着用する制服",
+     "en": "A uniform worn by professional tiger trainers.",
+     "bytes": 46
+    },
+    {
+     "id": "body_equip#397",
+     "jp": "禍々しい意匠の鎧の胴部",
+     "en": "Torso section of armor with a sinister design.",
+     "bytes": 46
+    },
+    {
+     "id": "body_equip#678",
+     "jp": "お色気専門雷様用。その名も「桃色時代」",
+     "en": "For sexy thunder gods. Its name is 'Pink Era'.",
+     "bytes": 46
+    },
+    {
+     "id": "body_equip#17",
+     "jp": "一匹狼の戦士が身に着けるという胴衣",
+     "en": "A vest said to be worn by lone wolf warriors.",
+     "bytes": 45
+    },
+    {
+     "id": "body_equip#71",
+     "jp": "サバイバル活動に適したオーバーオール",
+     "en": "Overalls well-suited for survival activities.",
+     "bytes": 45
+    },
+    {
+     "id": "body_equip#188",
+     "jp": "小さな青銅の板をあしらった軽鎧",
+     "en": "Light armor adorned with small bronze plates.",
+     "bytes": 45
+    },
+    {
+     "id": "body_equip#255",
+     "jp": "大型戦艦の艦長が着用するスーツ",
+     "en": "A suit worn by captains of large battleships.",
+     "bytes": 45
+    },
+    {
+     "id": "body_equip#361",
+     "jp": "小さなクロームの板をあしらった軽鎧",
+     "en": "Light armor adorned with small chrome plates.",
+     "bytes": 45
+    },
+    {
+     "id": "body_equip#384",
+     "jp": "戦国大名を彷彿とさせる鎧",
+     "en": "Armor reminiscent of a Warring States daimyo.",
+     "bytes": 45
+    },
+    {
+     "id": "body_equip#434",
+     "jp": "大尉の階級の証である制服",
+     "en": "A uniform that signifies the rank of captain.",
+     "bytes": 45
+    },
+    {
+     "id": "body_equip#645",
+     "jp": "バンエルティア号船長公式体操着",
+     "en": "The Van Eltia captain's official gym clothes.",
+     "bytes": 45
+    },
+    {
+     "id": "body_equip#748",
+     "jp": "トナカイさんから頂いた毛皮で作成したスーツ",
+     "en": "A suit crafted from fur gifted by a reindeer.",
+     "bytes": 45
+    },
+    {
+     "id": "body_equip#781",
+     "jp": "胴体を保護する一般的な皮の鎧",
+     "en": "Common leather armor that protects the torso.",
+     "bytes": 45
+    },
+    {
+     "id": "body_equip#14",
+     "jp": "小さな金属板をあしらった軽鎧",
+     "en": "Light armor adorned with small metal plates.",
+     "bytes": 44
+    },
+    {
+     "id": "body_equip#50",
+     "jp": "不気味な意匠の鎧の胴部",
+     "en": "Torso section of armor with an eerie design.",
+     "bytes": 44
+    },
+    {
+     "id": "body_equip#59",
+     "jp": "厚手の布を多用したジャケット",
+     "en": "A jacket that heavily utilizes thick fabric.",
+     "bytes": 44
+    },
+    {
+     "id": "body_equip#97",
+     "jp": "入門したての功夫使いが着用する衣",
+     "en": "A robe worn by novice kung fu practitioners.",
+     "bytes": 44
+    },
+    {
+     "id": "body_equip#100",
+     "jp": "犬の調教を生業とする者が着用する制服",
+     "en": "A uniform worn by professional dog trainers.",
+     "bytes": 44
+    },
+    {
+     "id": "body_equip#248",
+     "jp": "隊長が巡回警備で着用するコート",
+     "en": "A coat worn by squad leaders on patrol duty.",
+     "bytes": 44
+    },
+    {
+     "id": "body_equip#455",
+     "jp": "大海賊の風格を持ったジャケット",
+     "en": "A jacket bearing the aura of a great pirate.",
+     "bytes": 44
+    },
+    {
+     "id": "body_equip#625",
+     "jp": "地味めだが、実用性の高いクローク",
+     "en": "A somewhat plain yet highly practical cloak.",
+     "bytes": 44
+    },
+    {
+     "id": "body_equip#675",
+     "jp": "上級雷様が装備出来るスーツ",
+     "en": "A suit that advanced thunder gods can equip.",
+     "bytes": 44
+    },
+    {
+     "id": "body_equip#69",
+     "jp": "修行に励む修行僧が着用する袈裟",
+     "en": "A kasaya worn by ascetic monks in training.",
+     "bytes": 43
+    },
+    {
+     "id": "body_equip#317",
+     "jp": "奇跡の力が込められた可愛い衣装",
+     "en": "A cute outfit imbued with miraculous power.",
+     "bytes": 43
+    },
+    {
+     "id": "body_equip#410",
+     "jp": "早撃ちの名手が着用するシャツ",
+     "en": "A shirt worn by master quick-draw marksmen.",
+     "bytes": 43
+    },
+    {
+     "id": "body_equip#618",
+     "jp": "天使の名を冠する神秘のガーブ",
+     "en": "Mystical garb bearing the name of an angel.",
+     "bytes": 43
+    },
+    {
+     "id": "body_equip#24",
+     "jp": "動きやすさ重視の胴部用防具",
+     "en": "Torso armor designed for ease of movement.",
+     "bytes": 42
+    },
+    {
+     "id": "body_equip#191",
+     "jp": "無法者の戦士が身に着けるという胴衣",
+     "en": "A vest said to be worn by outlaw warriors.",
+     "bytes": 42
+    },
+    {
+     "id": "body_equip#237",
+     "jp": "荒野の流れ者が着用するシャツ",
+     "en": "A shirt worn by drifters of the wasteland.",
+     "bytes": 42
+    },
+    {
+     "id": "body_equip#308",
+     "jp": "占い師が着用する摩訶不思議なローブ",
+     "en": "A mysterious robe worn by fortune-tellers.",
+     "bytes": 42
+    },
+    {
+     "id": "body_equip#428",
+     "jp": "艦隊を率いる提督が着用するスーツ",
+     "en": "A suit worn by admirals commanding fleets.",
+     "bytes": 42
+    },
+    {
+     "id": "body_equip#656",
+     "jp": "バンエルティア号船長公式水着",
+     "en": "The Van Eltia captain's official swimsuit.",
+     "bytes": 42
+    },
+    {
+     "id": "body_equip#669",
+     "jp": "初級雷様が装備出来るスーツ",
+     "en": "A suit that novice thunder gods can equip.",
+     "bytes": 42
+    },
+    {
+     "id": "body_equip#694",
+     "jp": "鶏のヒナを模したスーツ。未着色",
+     "en": "A suit resembling a baby chick. Uncolored.",
+     "bytes": 42
+    },
+    {
+     "id": "body_equip#746",
+     "jp": "お子様に夢を与える赤い服",
+     "en": "Red clothes that bring dreams to children.",
+     "bytes": 42
+    },
+    {
+     "id": "body_equip#164",
+     "jp": "白くて清潔感が漂うガーブ",
+     "en": "Garb that radiates a clean white feeling.",
+     "bytes": 41
+    },
+    {
+     "id": "body_equip#240",
+     "jp": "霊威みなぎる胴衣",
+     "en": "A vest brimming with spiritual authority.",
+     "bytes": 41
+    },
+    {
+     "id": "body_equip#343",
+     "jp": "貴い芸術品でもあるガーブ",
+     "en": "Garb that is also a precious work of art.",
+     "bytes": 41
+    },
+    {
+     "id": "body_equip#37",
+     "jp": "鎧武者を彷彿とさせる鎧",
+     "en": "Armor reminiscent of an armored warrior.",
+     "bytes": 40
+    },
+    {
+     "id": "body_equip#268",
+     "jp": "軍属の粛清執行人が着用するスーツ",
+     "en": "A suit worn by military purge enforcers.",
+     "bytes": 40
+    },
+    {
+     "id": "body_equip#296",
+     "jp": "軍中佐第二種礼装服",
+     "en": "Lieutenant Colonel Service Dress Uniform",
+     "bytes": 40
+    },
+    {
+     "id": "body_equip#684",
+     "jp": "格闘技の試合用に作られた胴着",
+     "en": "A gi made for martial arts competitions.",
+     "bytes": 40
+    },
+    {
+     "id": "body_equip#696",
+     "jp": "鶏のヒナを模したスーツ。着色済み",
+     "en": "A suit resembling a baby chick. Colored.",
+     "bytes": 40
+    },
+    {
+     "id": "body_equip#779",
+     "jp": "胴体を保護する一般的なジャケット",
+     "en": "A common jacket that protects the torso.",
+     "bytes": 40
+    },
+    {
+     "id": "body_equip#3",
+     "jp": "星雲級と称えられたジャケット",
+     "en": "A jacket praised as being nebula-class.",
+     "bytes": 39
+    },
+    {
+     "id": "body_equip#74",
+     "jp": "兵士が巡回警備で着用するコート",
+     "en": "A coat worn by soldiers on patrol duty.",
+     "bytes": 39
+    },
+    {
+     "id": "body_equip#177",
+     "jp": "銀河級と称えられたジャケット",
+     "en": "A jacket praised as being galaxy-class.",
+     "bytes": 39
+    },
+    {
+     "id": "body_equip#350",
+     "jp": "クエーサー級と称えられたジャケット",
+     "en": "A jacket praised as being quasar-class.",
+     "bytes": 39
+    },
+    {
+     "id": "body_equip#461",
+     "jp": "実践者の術士が着用するローブ",
+     "en": "A robe worn by practicing spellcasters.",
+     "bytes": 39
+    },
+    {
+     "id": "body_equip#479",
+     "jp": "名軍師が好んで着用する着物",
+     "en": "A kimono favored by master strategists.",
+     "bytes": 39
+    },
+    {
+     "id": "body_equip#500",
+     "jp": "神の依り代が纏う神聖な衣",
+     "en": "Sacred clothing worn by divine vessels.",
+     "bytes": 39
+    },
+    {
+     "id": "body_equip#511",
+     "jp": "プラチナの飾り付けが施されたガーブ",
+     "en": "Garb adorned with platinum decorations.",
+     "bytes": 39
+    },
+    {
+     "id": "body_equip#171",
+     "jp": "古くさい製法で作られたガーブ",
+     "en": "Garb made using antiquated techniques.",
+     "bytes": 38
+    },
+    {
+     "id": "body_equip#306",
+     "jp": "名策士が好んで着用する着物",
+     "en": "A kimono favored by master tacticians.",
+     "bytes": 38
+    },
+    {
+     "id": "body_equip#423",
+     "jp": "荒野の用心棒が着用するジャケット",
+     "en": "A jacket worn by wasteland bodyguards.",
+     "bytes": 38
+    },
+    {
+     "id": "body_equip#717",
+     "jp": "テイルズオブマガジンオリジナルのＴシャツ",
+     "en": "An original Tales of Magazine T-shirt.",
+     "bytes": 38
+    },
+    {
+     "id": "body_equip#173",
+     "jp": "闇の眷属が着用するローブ",
+     "en": "A robe worn by creatures of darkness.",
+     "bytes": 37
+    },
+    {
+     "id": "body_equip#231",
+     "jp": "中堅傭兵が着用するジャケット",
+     "en": "A jacket worn by regular mercenaries.",
+     "bytes": 37
+    },
+    {
+     "id": "body_equip#333",
+     "jp": "東方の摂政が着用する着物",
+     "en": "A kimono worn by regents of the East.",
+     "bytes": 37
+    },
+    {
+     "id": "body_equip#348",
+     "jp": "魔物の革製の鎧",
+     "en": "Armor made from the hide of monsters.",
+     "bytes": 37
+    },
+    {
+     "id": "body_equip#29",
+     "jp": "下士官用の鎧",
+     "en": "Armor for non-commissioned officers.",
+     "bytes": 36
+    },
+    {
+     "id": "body_equip#57",
+     "jp": "新米傭兵が着用するジャケット",
+     "en": "A jacket worn by novice mercenaries.",
+     "bytes": 36
+    },
+    {
+     "id": "body_equip#160",
+     "jp": "東方の貴族が着用する着物",
+     "en": "A kimono worn by nobles of the East.",
+     "bytes": 36
+    },
+    {
+     "id": "body_equip#288",
+     "jp": "熱心者の術士が着用するローブ",
+     "en": "A robe worn by zealous spellcasters.",
+     "bytes": 36
+    },
+    {
+     "id": "body_equip#330",
+     "jp": "異国の豪族が身に着ける装束",
+     "en": "Garb worn by powerful foreign clans.",
+     "bytes": 36
+    },
+    {
+     "id": "body_equip#337",
+     "jp": "銀の刺繍が施されたガーブ",
+     "en": "Garb adorned with silver embroidery.",
+     "bytes": 36
+    },
+    {
+     "id": "body_equip#339",
+     "jp": "奇異なる術士が着用する装束",
+     "en": "Garb worn by eccentric spellcasters.",
+     "bytes": 36
+    },
+    {
+     "id": "body_equip#404",
+     "jp": "玄人傭兵が着用するジャケット",
+     "en": "A jacket worn by expert mercenaries.",
+     "bytes": 36
+    },
+    {
+     "id": "body_equip#27",
+     "jp": "東方の兵士が着用していた鎧",
+     "en": "Armor worn by soldiers of the East.",
+     "bytes": 35
+    },
+    {
+     "id": "body_equip#66",
+     "jp": "妙なる光を湛えた胴衣",
+     "en": "A vest filled with exquisite light.",
+     "bytes": 35
+    },
+    {
+     "id": "body_equip#76",
+     "jp": "流浪のガンマンが着用するジャケット",
+     "en": "A jacket worn by wandering gunners.",
+     "bytes": 35
+    },
+    {
+     "id": "body_equip#115",
+     "jp": "新参者の術士が着用するローブ",
+     "en": "A robe worn by novice spellcasters.",
+     "bytes": 35
+    },
+    {
+     "id": "body_equip#233",
+     "jp": "メッシュ加工がされたジャケット",
+     "en": "A jacket processed with mesh weave.",
+     "bytes": 35
+    },
+    {
+     "id": "body_equip#263",
+     "jp": "異国の風来坊が着用するジャケット",
+     "en": "A jacket worn by foreign wanderers.",
+     "bytes": 35
+    },
+    {
+     "id": "body_equip#300",
+     "jp": "執事やメイドが着用するクローク",
+     "en": "A cloak worn by stewards and maids.",
+     "bytes": 35
+    },
+    {
+     "id": "body_equip#326",
+     "jp": "儀式に用いる派手なローブ",
+     "en": "A flamboyant robe used for rituals.",
+     "bytes": 35
+    },
+    {
+     "id": "body_equip#395",
+     "jp": "神秘文様を刻んだ鎧",
+     "en": "Armor engraved with mystical runes.",
+     "bytes": 35
+    },
+    {
+     "id": "body_equip#483",
+     "jp": "神に愛されし聖人のガーブ",
+     "en": "Garb worn by saints beloved by God.",
+     "bytes": 35
+    },
+    {
+     "id": "body_equip#486",
+     "jp": "上位のワーロックが着用するガーブ",
+     "en": "Garb worn by high-ranking warlocks.",
+     "bytes": 35
+    },
+    {
+     "id": "body_equip#89",
+     "jp": "異国の戦士が着用するジャケット",
+     "en": "A jacket worn by foreign warriors.",
+     "bytes": 34
+    },
+    {
+     "id": "body_equip#127",
+     "jp": "お手伝いさんが着用するクローク",
+     "en": "A cloak worn by maids and helpers.",
+     "bytes": 34
+    },
+    {
+     "id": "body_equip#135",
+     "jp": "幸運を求めし者のローブ",
+     "en": "A robe for those who seek fortune.",
+     "bytes": 34
+    },
+    {
+     "id": "body_equip#378",
+     "jp": "名のある忍びが着用していたジャケット",
+     "en": "A jacket worn by renowned shinobi.",
+     "bytes": 34
+    },
+    {
+     "id": "body_equip#722",
+     "jp": "ＰＥＮＧＵＩＮ　Ｂｒｏｓ．のオリジナルのＴシャツ",
+     "en": "An original PENGUIN Bros. T-shirt.",
+     "bytes": 34
+    },
+    {
+     "id": "body_equip#10",
+     "jp": "歩兵隊猟兵に支給される鎧",
+     "en": "Armor issued to infantry jaegers.",
+     "bytes": 33
+    },
+    {
+     "id": "body_equip#162",
+     "jp": "マフィアの相談役顧問が着用するスーツ",
+     "en": "A suit worn by mafia consiglieri.",
+     "bytes": 33
+    },
+    {
+     "id": "body_equip#167",
+     "jp": "陰陽師が着る儀式用の衣",
+     "en": "Ritual clothing worn by Onmyouji.",
+     "bytes": 33
+    },
+    {
+     "id": "body_equip#184",
+     "jp": "山岳兵隊猟兵に支給される鎧",
+     "en": "Armor issued to mountain jaegers.",
+     "bytes": 33
+    },
+    {
+     "id": "body_equip#481",
+     "jp": "裏地に神秘文様を施したローブ",
+     "en": "A robe lined with mystical runes.",
+     "bytes": 33
+    },
+    {
+     "id": "body_equip#509",
+     "jp": "マフィアの若頭が着用するスーツ",
+     "en": "A suit worn by mafia underbosses.",
+     "bytes": 33
+    },
+    {
+     "id": "body_equip#727",
+     "jp": "電撃マ王オリジナルのＴシャツ",
+     "en": "An original Dengeki Maoh T-shirt.",
+     "bytes": 33
+    },
+    {
+     "id": "body_equip#94",
+     "jp": "フリーの殺し屋が着用するスーツ",
+     "en": "A suit worn by freelance hitmen.",
+     "bytes": 32
+    },
+    {
+     "id": "body_equip#203",
+     "jp": "士官用の鎧",
+     "en": "Armor for commissioned officers.",
+     "bytes": 32
+    },
+    {
+     "id": "body_equip#293",
+     "jp": "ギンネム染のスーツ",
+     "en": "A suit dyed with white leadtree.",
+     "bytes": 32
+    },
+    {
+     "id": "body_equip#357",
+     "jp": "騎兵隊猟兵に支給される鎧",
+     "en": "Armor issued to cavalry jaegers.",
+     "bytes": 32
+    },
+    {
+     "id": "body_equip#520",
+     "jp": "不死の王が着用するローブ",
+     "en": "A robe worn by the Undying King.",
+     "bytes": 32
+    },
+    {
+     "id": "body_equip#31",
+     "jp": "隠密が着用していたジャケット",
+     "en": "A jacket worn by covert agents.",
+     "bytes": 31
+    },
+    {
+     "id": "body_equip#133",
+     "jp": "策士が好んで着用する着物",
+     "en": "A kimono favored by tacticians.",
+     "bytes": 31
+    },
+    {
+     "id": "body_equip#406",
+     "jp": "羽の様に軽いジャケット",
+     "en": "A jacket as light as a feather.",
+     "bytes": 31
+    },
+    {
+     "id": "body_equip#413",
+     "jp": "神光発する胴衣",
+     "en": "A vest that emits divine light.",
+     "bytes": 31
+    },
+    {
+     "id": "body_equip#616",
+     "jp": "暗殺者用に作られたジャケット",
+     "en": "A jacket crafted for assassins.",
+     "bytes": 31
+    },
+    {
+     "id": "body_equip#702",
+     "jp": "両生類を模したスーツ",
+     "en": "A suit resembling an amphibian.",
+     "bytes": 31
+    },
+    {
+     "id": "body_equip#715",
+     "jp": "ゲームスタウンオリジナルのＴシャツ",
+     "en": "An original Games Town T-shirt.",
+     "bytes": 31
+    },
+    {
+     "id": "body_equip#157",
+     "jp": "異国の巡礼者が身に着ける装束",
+     "en": "Garb worn by foreign pilgrims.",
+     "bytes": 30
+    },
+    {
+     "id": "body_equip#335",
+     "jp": "マフィアの幹部が着用するスーツ",
+     "en": "A suit worn by mafia captains.",
+     "bytes": 30
+    },
+    {
+     "id": "body_equip#81",
+     "jp": "船長が着用するスーツ",
+     "en": "A suit worn by ship captains.",
+     "bytes": 29
+    },
+    {
+     "id": "body_equip#282",
+     "jp": "はぐれ者達が愛用するジャケット",
+     "en": "A jacket favored by outcasts.",
+     "bytes": 29
+    },
+    {
+     "id": "body_equip#469",
+     "jp": "軍大佐第二種礼装服",
+     "en": "Colonel Service Dress Uniform",
+     "bytes": 29
+    },
+    {
+     "id": "body_equip#474",
+     "jp": "親衛隊長のローブ",
+     "en": "Imperial Guard Captain's Robe",
+     "bytes": 29
+    },
+    {
+     "id": "body_equip#620",
+     "jp": "豪華にしつらえられたジャケット",
+     "en": "A gorgeously tailored jacket.",
+     "bytes": 29
+    },
+    {
+     "id": "body_equip#109",
+     "jp": "野盗が好んで装備するジャケット",
+     "en": "A jacket favored by bandits.",
+     "bytes": 28
+    },
+    {
+     "id": "body_equip#175",
+     "jp": "厚手の革で作られた鎧",
+     "en": "Armor made of thick leather.",
+     "bytes": 28
+    },
+    {
+     "id": "body_equip#473",
+     "jp": "秘書が着用するクローク",
+     "en": "A cloak worn by secretaries.",
+     "bytes": 28
+    },
+    {
+     "id": "body_equip#513",
+     "jp": "死霊使いが着用するローブ",
+     "en": "A robe worn by necromancers.",
+     "bytes": 28
+    },
+    {
+     "id": "body_equip#720",
+     "jp": "ファミ通オリジナルのＴシャツ",
+     "en": "An original Famitsu T-shirt.",
+     "bytes": 28
+    },
+    {
+     "id": "body_equip#724",
+     "jp": "電撃オリジナルのＴシャツ",
+     "en": "An original Dengeki T-shirt.",
+     "bytes": 28
+    },
+    {
+     "id": "body_equip#123",
+     "jp": "軍少佐第二種礼装服",
+     "en": "Major Service Dress Uniform",
+     "bytes": 27
+    },
+    {
+     "id": "body_equip#436",
+     "jp": "魔法で強化されたジャケット",
+     "en": "A jacket enhanced by magic.",
+     "bytes": 27
+    },
+    {
+     "id": "body_equip#466",
+     "jp": "パイナップル染のスーツ",
+     "en": "A suit dyed with pineapple.",
+     "bytes": 27
+    },
+    {
+     "id": "body_equip#504",
+     "jp": "異国の国王が身に着ける装束",
+     "en": "Garb worn by foreign kings.",
+     "bytes": 27
+    },
+    {
+     "id": "body_equip#250",
+     "jp": "開拓者が着用するジャケット",
+     "en": "A jacket worn by pioneers.",
+     "bytes": 26
+    },
+    {
+     "id": "body_equip#251",
+     "jp": "僧兵の布鎧",
+     "en": "Warrior Monk's Cloth Armor",
+     "bytes": 26
+    },
+    {
+     "id": "body_equip#376",
+     "jp": "上級士官用の鎧",
+     "en": "Armor for senior officers.",
+     "bytes": 26
+    },
+    {
+     "id": "body_equip#477",
+     "jp": "名軍師の着物",
+     "en": "Master Strategist's Kimono",
+     "bytes": 26
+    },
+    {
+     "id": "body_equip#584",
+     "jp": "義賊の服",
+     "en": "Chivalrous Thief's Clothes",
+     "bytes": 26
+    },
+    {
+     "id": "body_equip#785",
+     "jp": "最大値（体装備）",
+     "en": "Maximum Value (Body Equip)",
+     "bytes": 26
+    },
+    {
+     "id": "body_equip#22",
+     "jp": "剣闘士が身に着ける鎧",
+     "en": "Armor worn by gladiators.",
+     "bytes": 25
+    },
+    {
+     "id": "body_equip#85",
+     "jp": "少尉の制服",
+     "en": "Second Lieutenant Uniform",
+     "bytes": 25
+    },
+    {
+     "id": "body_equip#304",
+     "jp": "名策士の着物",
+     "en": "Master Tactician's Kimono",
+     "bytes": 25
+    },
+    {
+     "id": "body_equip#359",
+     "jp": "オリカルクム製の鎧",
+     "en": "Armor made of orichalcum.",
+     "bytes": 25
+    },
+    {
+     "id": "body_equip#424",
+     "jp": "僧正の布鎧",
+     "en": "High Priest's Cloth Armor",
+     "bytes": 25
+    },
+    {
+     "id": "body_equip#120",
+     "jp": "藍染のスーツ",
+     "en": "A suit dyed with indigo.",
+     "bytes": 24
+    },
+    {
+     "id": "body_equip#229",
+     "jp": "中堅傭兵のジャケット",
+     "en": "Regular Mercenary Jacket",
+     "bytes": 24
+    },
+    {
+     "id": "body_equip#259",
+     "jp": "中尉の制服",
+     "en": "First Lieutenant Uniform",
+     "bytes": 24
+    },
+    {
+     "id": "body_equip#345",
+     "jp": "吸血鬼が着用するローブ",
+     "en": "A robe worn by vampires.",
+     "bytes": 24
+    },
+    {
+     "id": "body_equip#55",
+     "jp": "新米傭兵のジャケット",
+     "en": "Novice Mercenary Jacket",
+     "bytes": 23
+    },
+    {
+     "id": "body_equip#64",
+     "jp": "妙光胴衣",
+     "en": "Vest of Exquisite Light",
+     "bytes": 23
+    },
+    {
+     "id": "body_equip#139",
+     "jp": "詠唱者の為のガーブ",
+     "en": "Garb made for chanters.",
+     "bytes": 23
+    },
+    {
+     "id": "body_equip#186",
+     "jp": "タングステン製の鎧",
+     "en": "Armor made of tungsten.",
+     "bytes": 23
+    },
+    {
+     "id": "body_equip#205",
+     "jp": "忍者が着用していたジャケット",
+     "en": "A jacket worn by ninja.",
+     "bytes": 23
+    },
+    {
+     "id": "body_equip#238",
+     "jp": "霊光胴衣",
+     "en": "Vest of Spiritual Light",
+     "bytes": 23
+    },
+    {
+     "id": "body_equip#275",
+     "jp": "晶霊学士の制服",
+     "en": "Craymel Scholar Uniform",
+     "bytes": 23
+    },
+    {
+     "id": "body_equip#391",
+     "jp": "守護騎士団の鎧",
+     "en": "Guardian Knights' Armor",
+     "bytes": 23
+    },
+    {
+     "id": "body_equip#402",
+     "jp": "玄人傭兵のジャケット",
+     "en": "Expert Mercenary Jacket",
+     "bytes": 23
+    },
+    {
+     "id": "body_equip#554",
+     "jp": "大剣士の鎧",
+     "en": "Great Swordsman's Armor",
+     "bytes": 23
+    },
+    {
+     "id": "body_equip#599",
+     "jp": "二天剣士の鎧",
+     "en": "Niten Swordsman's Armor",
+     "bytes": 23
+    },
+    {
+     "id": "body_equip#1",
+     "jp": "革製の鎧",
+     "en": "Armor made of leather.",
+     "bytes": 22
+    },
+    {
+     "id": "body_equip#25",
+     "jp": "足軽大将の甲冑",
+     "en": "Ashigaru General Armor",
+     "bytes": 22
+    },
+    {
+     "id": "body_equip#82",
+     "jp": "土蜘蛛討ちの装束",
+     "en": "Tsuchigumo Slayer Garb",
+     "bytes": 22
+    },
+    {
+     "id": "body_equip#445",
+     "jp": "竜調教師の制服",
+     "en": "Dragon Trainer Uniform",
+     "bytes": 22
+    },
+    {
+     "id": "body_equip#448",
+     "jp": "精霊学士の制服",
+     "en": "Spirit Scholar Uniform",
+     "bytes": 22
+    },
+    {
+     "id": "body_equip#551",
+     "jp": "二刀剣士の鎧",
+     "en": "Twin Swordsman's Armor",
+     "bytes": 22
+    },
+    {
+     "id": "body_equip#716",
+     "jp": "テイルズマガジンＴシャツ",
+     "en": "Tales Magazine T-Shirt",
+     "bytes": 22
+    },
+    {
+     "id": "body_equip#8",
+     "jp": "歩兵隊猟兵の鎧",
+     "en": "Infantry Jaeger Armor",
+     "bytes": 21
+    },
+    {
+     "id": "body_equip#182",
+     "jp": "山岳兵隊猟兵の鎧",
+     "en": "Mountain Jaeger Armor",
+     "bytes": 21
+    },
+    {
+     "id": "body_equip#241",
+     "jp": "僧兵の袈裟",
+     "en": "Warrior Monk's Kasaya",
+     "bytes": 21
+    },
+    {
+     "id": "body_equip#266",
+     "jp": "粛清執行人のスーツ",
+     "en": "Purge Enforcer's Suit",
+     "bytes": 21
+    },
+    {
+     "id": "body_equip#272",
+     "jp": "虎調教師の制服",
+     "en": "Tiger Trainer Uniform",
+     "bytes": 21
+    },
+    {
+     "id": "body_equip#278",
+     "jp": "走舞の装束",
+     "en": "Hashirimai Dance Garb",
+     "bytes": 21
+    },
+    {
+     "id": "body_equip#780",
+     "jp": "クラシックレザーアーマー",
+     "en": "Classic Leather Armor",
+     "bytes": 21
+    },
+    {
+     "id": "body_equip#62",
+     "jp": "スティアレスラーシャツ",
+     "en": "Steer Wrestler Shirt",
+     "bytes": 20
+    },
+    {
+     "id": "body_equip#140",
+     "jp": "破門者の衣",
+     "en": "Excommunicate's Robe",
+     "bytes": 20
+    },
+    {
+     "id": "body_equip#158",
+     "jp": "公家の着物",
+     "en": "Court Noble's Kimono",
+     "bytes": 20
+    },
+    {
+     "id": "body_equip#355",
+     "jp": "騎兵隊猟兵の鎧",
+     "en": "Cavalry Jaeger Armor",
+     "bytes": 20
+    },
+    {
+     "id": "body_equip#365",
+     "jp": "覇龍の鎧",
+     "en": "Supreme Dragon Armor",
+     "bytes": 20
+    },
+    {
+     "id": "body_equip#411",
+     "jp": "神光胴衣",
+     "en": "Vest of Divine Light",
+     "bytes": 20
+    },
+    {
+     "id": "body_equip#414",
+     "jp": "僧正の袈裟",
+     "en": "High Priest's Kasaya",
+     "bytes": 20
+    },
+    {
+     "id": "body_equip#462",
+     "jp": "被免達人のクローク",
+     "en": "Exempt Adept's Cloak",
+     "bytes": 20
+    },
+    {
+     "id": "body_equip#495",
+     "jp": "クラヤマツミの衣",
+     "en": "Kurayamatsumi's Robe",
+     "bytes": 20
+    },
+    {
+     "id": "body_equip#527",
+     "jp": "魔法剣士の鎧",
+     "en": "Magic Knight's Armor",
+     "bytes": 20
+    },
+    {
+     "id": "body_equip#575",
+     "jp": "魔法騎士の鎧",
+     "en": "Magic Knight's Plate",
+     "bytes": 20
+    },
+    {
+     "id": "body_equip#605",
+     "jp": "大範士のジャケット",
+     "en": "Grandmaster's Jacket",
+     "bytes": 20
+    },
+    {
+     "id": "body_equip#623",
+     "jp": "巫の装束",
+     "en": "Shrine Maiden's Garb",
+     "bytes": 20
+    },
+    {
+     "id": "body_equip#628",
+     "jp": "摩利支天の衣服",
+     "en": "Marishiten's Clothes",
+     "bytes": 20
+    },
+    {
+     "id": "body_equip#725",
+     "jp": "電撃マ王Ｔシャツ",
+     "en": "Dengeki Maoh T-Shirt",
+     "bytes": 20
+    },
+    {
+     "id": "body_equip#12",
+     "jp": "鉄製の鎧",
+     "en": "Armor made of iron.",
+     "bytes": 19
+    },
+    {
+     "id": "body_equip#18",
+     "jp": "小龍の鎧",
+     "en": "Lesser Dragon Armor",
+     "bytes": 19
+    },
+    {
+     "id": "body_equip#98",
+     "jp": "犬調教師の制服",
+     "en": "Dog Trainer Uniform",
+     "bytes": 19
+    },
+    {
+     "id": "body_equip#116",
+     "jp": "小達人のクローク",
+     "en": "Minor Adept's Cloak",
+     "bytes": 19
+    },
+    {
+     "id": "body_equip#165",
+     "jp": "陰陽師の衣服",
+     "en": "Onmyouji's Clothing",
+     "bytes": 19
+    },
+    {
+     "id": "body_equip#218",
+     "jp": "聖騎士団の鎧",
+     "en": "Holy Knights' Armor",
+     "bytes": 19
+    },
+    {
+     "id": "body_equip#289",
+     "jp": "大達人のクローク",
+     "en": "Major Adept's Cloak",
+     "bytes": 19
+    },
+    {
+     "id": "body_equip#439",
+     "jp": "暗殺教団のスーツ",
+     "en": "Assassin Order Suit",
+     "bytes": 19
+    },
+    {
+     "id": "body_equip#459",
+     "jp": "実践者のローブ",
+     "en": "Practitioner's Robe",
+     "bytes": 19
+    },
+    {
+     "id": "body_equip#505",
+     "jp": "関白の着物",
+     "en": "Chancellor's Kimono",
+     "bytes": 19
+    },
+    {
+     "id": "body_equip#602",
+     "jp": "処刑執行人の鎧",
+     "en": "Executioner's Armor",
+     "bytes": 19
+    },
+    {
+     "id": "body_equip#610",
+     "jp": "剣聖の鎧",
+     "en": "Sword Saint's Armor",
+     "bytes": 19
+    },
+    {
+     "id": "body_equip#77",
+     "jp": "修行僧の布鎧",
+     "en": "Monk's Cloth Armor",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#104",
+     "jp": "平舞の装束",
+     "en": "Hiramai Dance Garb",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#131",
+     "jp": "策士の着物",
+     "en": "Tactician's Kimono",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#174",
+     "jp": "ハードレザーアーマー",
+     "en": "Hard Leather Armor",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#236",
+     "jp": "ブロンコライダーシャツ",
+     "en": "Bronco Rider Shirt",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#269",
+     "jp": "小龍の衣",
+     "en": "Lesser Dragon Robe",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#301",
+     "jp": "近衛兵のローブ",
+     "en": "Royal Guard's Robe",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#372",
+     "jp": "義経の甲冑",
+     "en": "Yoshitsune's Armor",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#417",
+     "jp": "マーセナリオーバーオール",
+     "en": "Mercenary Overalls",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#581",
+     "jp": "名射手の服",
+     "en": "Marksman's Clothes",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#709",
+     "jp": "めざせ！きゅーぴっと",
+     "en": "Aim to be a Cupid!",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#714",
+     "jp": "ゲームスタウンＴシャツ",
+     "en": "Games Town T-Shirt",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#754",
+     "jp": "なりきりテイルズオブＡ",
+     "en": "Tales of Cosplay A",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#756",
+     "jp": "なりきりテイルズオブＢ",
+     "en": "Tales of Cosplay B",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#758",
+     "jp": "なりきりテイルズオブＣ",
+     "en": "Tales of Cosplay C",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#760",
+     "jp": "なりきりテイルズオブＤ",
+     "en": "Tales of Cosplay D",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#762",
+     "jp": "なりきりテイルズオブＥ",
+     "en": "Tales of Cosplay E",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#764",
+     "jp": "なりきりテイルズオブＦ",
+     "en": "Tales of Cosplay F",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#766",
+     "jp": "なりきりテイルズオブＧ",
+     "en": "Tales of Cosplay G",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#768",
+     "jp": "なりきりテイルズオブＨ",
+     "en": "Tales of Cosplay H",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#770",
+     "jp": "なりきりテイルズオブＩ",
+     "en": "Tales of Cosplay I",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#772",
+     "jp": "なりきりテイルズオブＪ",
+     "en": "Tales of Cosplay J",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#774",
+     "jp": "なりきりテイルズオブＫ",
+     "en": "Tales of Cosplay K",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#776",
+     "jp": "なりきりテイルズオブＬ",
+     "en": "Tales of Cosplay L",
+     "bytes": 18
+    },
+    {
+     "id": "body_equip#70",
+     "jp": "サバイバルオーバーオール",
+     "en": "Survival Overalls",
+     "bytes": 17
+    },
+    {
+     "id": "body_equip#101",
+     "jp": "学士の制服",
+     "en": "Scholar's Uniform",
+     "bytes": 17
+    },
+    {
+     "id": "body_equip#192",
+     "jp": "龍王の鎧",
+     "en": "Dragon King Armor",
+     "bytes": 17
+    },
+    {
+     "id": "body_equip#321",
+     "jp": "ミカハヤヒの衣",
+     "en": "Mikahayahi's Robe",
+     "bytes": 17
+    },
+    {
+     "id": "body_equip#429",
+     "jp": "天狗討ちの装束",
+     "en": "Tengu Slayer Garb",
+     "bytes": 17
+    },
+    {
+     "id": "body_equip#432",
+     "jp": "大尉の制服",
+     "en": "Captain's Uniform",
+     "bytes": 17
+    },
+    {
+     "id": "body_equip#518",
+     "jp": "始祖のローブ",
+     "en": "Progenitor's Robe",
+     "bytes": 17
+    },
+    {
+     "id": "body_equip#524",
+     "jp": "剣士の鎧",
+     "en": "Swordsman's Armor",
+     "bytes": 17
+    },
+    {
+     "id": "body_equip#569",
+     "jp": "闘士の鎧",
+     "en": "Gladiator's Armor",
+     "bytes": 17
+    },
+    {
+     "id": "body_equip#578",
+     "jp": "小覇王のキトン",
+     "en": "Champion's Chiton",
+     "bytes": 17
+    },
+    {
+     "id": "body_equip#682",
+     "jp": "胴着Ａ",
+     "en": "Martial Arts Gi A",
+     "bytes": 17
+    },
+    {
+     "id": "body_equip#685",
+     "jp": "胴着Ｂ",
+     "en": "Martial Arts Gi B",
+     "bytes": 17
+    },
+    {
+     "id": "body_equip#687",
+     "jp": "胴着Ｃ",
+     "en": "Martial Arts Gi C",
+     "bytes": 17
+    },
+    {
+     "id": "body_equip#689",
+     "jp": "胴着Ｄ",
+     "en": "Martial Arts Gi D",
+     "bytes": 17
+    },
+    {
+     "id": "body_equip#691",
+     "jp": "胴着Ｅ",
+     "en": "Martial Arts Gi E",
+     "bytes": 17
+    },
+    {
+     "id": "body_equip#161",
+     "jp": "コンシリエーレスーツ",
+     "en": "Consigliere Suit",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#246",
+     "jp": "隊長のコート",
+     "en": "Commander's Coat",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#346",
+     "jp": "ＢＨ・アーマー",
+     "en": "Beast Hide Armor",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#409",
+     "jp": "ガンスリンガーシャツ",
+     "en": "Gunslinger Shirt",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#442",
+     "jp": "龍王の衣",
+     "en": "Dragon King Robe",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#451",
+     "jp": "武舞の装束",
+     "en": "Bumai Dance Garb",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#467",
+     "jp": "コンタクティジャケット",
+     "en": "Contactee Jacket",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#512",
+     "jp": "ネクロマンサーローブ",
+     "en": "Necromancer Robe",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#530",
+     "jp": "拳闘士のキトン",
+     "en": "Fighter's Chiton",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#533",
+     "jp": "狩人の服",
+     "en": "Hunter's Clothes",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#560",
+     "jp": "海賊の服",
+     "en": "Pirate's Clothes",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#587",
+     "jp": "頭領の衣",
+     "en": "Chieftain's Garb",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#613",
+     "jp": "ガンマスタージャケット",
+     "en": "Gunmaster Jacket",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#732",
+     "jp": "モフモフＴシャツ",
+     "en": "Mofumofu T-Shirt",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#735",
+     "jp": "テネブラエＴシャツ",
+     "en": "Tenebrae T-Shirt",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#738",
+     "jp": "ギャラクシアンＴシャツ",
+     "en": "Galaxian T-Shirt",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#784",
+     "jp": "装備を外す",
+     "en": "Remove Equipment",
+     "bytes": 16
+    },
+    {
+     "id": "body_equip#21",
+     "jp": "グラディエータチェスト",
+     "en": "Gladiator Chest",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#172",
+     "jp": "ナイトブリードローブ",
+     "en": "Nightbreed Robe",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#249",
+     "jp": "フロンティアジャケット",
+     "en": "Frontier Jacket",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#256",
+     "jp": "鵺討ちの装束",
+     "en": "Nue Slayer Garb",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#311",
+     "jp": "アテイメントガーブ",
+     "en": "Attainment Garb",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#331",
+     "jp": "摂政の着物",
+     "en": "Regent's Kimono",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#334",
+     "jp": "カポレジームスーツ",
+     "en": "Caporegime Suit",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#340",
+     "jp": "セレスティアルクローク",
+     "en": "Celestial Cloak",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#353",
+     "jp": "バーバリアンアーマー",
+     "en": "Barbarian Armor",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#358",
+     "jp": "オリカルクムメイル",
+     "en": "Orichalcum Mail",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#419",
+     "jp": "総督のコート",
+     "en": "Governor's Coat",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#472",
+     "jp": "セクレタリークローク",
+     "en": "Secretary Cloak",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#492",
+     "jp": "エイワスの外套",
+     "en": "Aiwass's Mantle",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#521",
+     "jp": "戦士の鎧",
+     "en": "Warrior's Armor",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#536",
+     "jp": "盗賊の服",
+     "en": "Thief's Clothes",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#563",
+     "jp": "従士隊の鎧",
+     "en": "Paladin's Armor",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#566",
+     "jp": "狙撃手のジャケット",
+     "en": "Gunner's Jacket",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#590",
+     "jp": "魔導師のローブ",
+     "en": "Sorcerer's Robe",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#718",
+     "jp": "ファミ通Ｔシャツ",
+     "en": "Famitsu T-Shirt",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#721",
+     "jp": "ペンギンＴシャツ",
+     "en": "Penguin T-Shirt",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#723",
+     "jp": "ポリタンＴシャツ",
+     "en": "Politan T-Shirt",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#728",
+     "jp": "クィッキーＴシャツ",
+     "en": "Quickie T-Shirt",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#730",
+     "jp": "コリンＴシャツ",
+     "en": "Corrine T-Shirt",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#739",
+     "jp": "ゼビウスＴシャツ",
+     "en": "Xevious T-Shirt",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#740",
+     "jp": "ディグダグＴシャツ",
+     "en": "Dig Dug T-Shirt",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#741",
+     "jp": "パックマンＴシャツ",
+     "en": "Pac-Man T-Shirt",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#743",
+     "jp": "ラリーXＴシャツ",
+     "en": "Rally-X T-Shirt",
+     "bytes": 15
+    },
+    {
+     "id": "body_equip#15",
+     "jp": "孤狼の胴衣",
+     "en": "Lone Wolf Vest",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#30",
+     "jp": "オンミツジャケット",
+     "en": "Onmitsu Jacket",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#44",
+     "jp": "騎士団の鎧",
+     "en": "Knights' Armor",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#58",
+     "jp": "キルトジャケット",
+     "en": "Quilted Jacket",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#72",
+     "jp": "兵士のコート",
+     "en": "Soldier's Coat",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#80",
+     "jp": "キャプテンスーツ",
+     "en": "Captain's Suit",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#145",
+     "jp": "アリオンの外套",
+     "en": "Arion's Mantle",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#148",
+     "jp": "イハサクの衣",
+     "en": "Ihasaku's Robe",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#199",
+     "jp": "弁慶の甲冑",
+     "en": "Benkei's Armor",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#206",
+     "jp": "エンボスプレート",
+     "en": "Embossed Plate",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#227",
+     "jp": "ベルゼバブメイル",
+     "en": "Beelzebub Mail",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#254",
+     "jp": "コマンダースーツ",
+     "en": "Commander Suit",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#262",
+     "jp": "ストレンジジャケット",
+     "en": "Strange Jacket",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#294",
+     "jp": "ニューエイジジャケット",
+     "en": "New Age Jacket",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#313",
+     "jp": "外法者の衣",
+     "en": "Heretic's Robe",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#368",
+     "jp": "アークロードチェスト",
+     "en": "Archlord Chest",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#377",
+     "jp": "シノビジャケット",
+     "en": "Shinobi Jacket",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#398",
+     "jp": "コロッサスプレート",
+     "en": "Colossus Plate",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#405",
+     "jp": "フェザージャケット",
+     "en": "Feather Jacket",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#422",
+     "jp": "ウエスタンジャケット",
+     "en": "Western Jacket",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#487",
+     "jp": "異端者の衣",
+     "en": "Heretic's Garb",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#498",
+     "jp": "預言者のローブ",
+     "en": "Prophet's Robe",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#508",
+     "jp": "アンダーボススーツ",
+     "en": "Underboss Suit",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#545",
+     "jp": "修道士のクローク",
+     "en": "Priest's Cloak",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#572",
+     "jp": "騎士の鎧",
+     "en": "Knight's Armor",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#593",
+     "jp": "司祭のクローク",
+     "en": "Curate's Cloak",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#596",
+     "jp": "教皇のローブ",
+     "en": "Pontiff's Robe",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#608",
+     "jp": "ヴァイキングクロース",
+     "en": "Viking Clothes",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#641",
+     "jp": "ハーモニックアーマー",
+     "en": "Harmonic Armor",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#712",
+     "jp": "ナムコオールディーズＡ",
+     "en": "Namco Oldies A",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#713",
+     "jp": "ナムコオールディーズＢ",
+     "en": "Namco Oldies B",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#736",
+     "jp": "ギャラガＴシャツ",
+     "en": "Galaga T-Shirt",
+     "bytes": 14
+    },
+    {
+     "id": "body_equip#0",
+     "jp": "レザーアーマー",
+     "en": "Leather Armor",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#2",
+     "jp": "ネビュラジャケット",
+     "en": "Nebula Jacket",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#42",
+     "jp": "ガネーシャプレート",
+     "en": "Ganesha Plate",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#53",
+     "jp": "アスタロトメイル",
+     "en": "Astaroth Mail",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#60",
+     "jp": "ファルコンジャケット",
+     "en": "Falcon Jacket",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#67",
+     "jp": "修行僧の袈裟",
+     "en": "Monk's Kasaya",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#75",
+     "jp": "ガンナージャケット",
+     "en": "Gunner Jacket",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#90",
+     "jp": "スパイダージャケット",
+     "en": "Spider Jacket",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#92",
+     "jp": "殺し屋のスーツ",
+     "en": "Hitman's Suit",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#107",
+     "jp": "野盗のジャケット",
+     "en": "Bandit Jacket",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#113",
+     "jp": "新参者のローブ",
+     "en": "Novice's Robe",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#176",
+     "jp": "ギャラクシージャケット",
+     "en": "Galaxy Jacket",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#185",
+     "jp": "タングステンメイル",
+     "en": "Tungsten Mail",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#202",
+     "jp": "オフィサープレート",
+     "en": "Officer Plate",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#210",
+     "jp": "センゴクアーマー",
+     "en": "Sengoku Armor",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#216",
+     "jp": "ハヌマーンプレート",
+     "en": "Hanuman Plate",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#221",
+     "jp": "テンプルアーマー",
+     "en": "Templar Armor",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#244",
+     "jp": "アーミーオーバーオール",
+     "en": "Army Overalls",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#264",
+     "jp": "コヨーテジャケット",
+     "en": "Coyote Jacket",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#281",
+     "jp": "フォルバンジャケット",
+     "en": "Forban Jacket",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#286",
+     "jp": "熱心者のローブ",
+     "en": "Zealot's Robe",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#299",
+     "jp": "スチュワードクローク",
+     "en": "Steward Cloak",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#324",
+     "jp": "神官のローブ",
+     "en": "Priest's Robe",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#327",
+     "jp": "クレセントガーブ",
+     "en": "Crescent Garb",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#342",
+     "jp": "プレシャスガーブ",
+     "en": "Precious Garb",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#349",
+     "jp": "クエーサージャケット",
+     "en": "Quasar Jacket",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#362",
+     "jp": "鬼神の胴衣",
+     "en": "Kishin's Vest",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#375",
+     "jp": "カーネルプレート",
+     "en": "Colonel Plate",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#379",
+     "jp": "エンシェントプレート",
+     "en": "Ancient Plate",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#381",
+     "jp": "マイトレヤメイル",
+     "en": "Maitreya Mail",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#454",
+     "jp": "パイレーツジャケット",
+     "en": "Pirate Jacket",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#465",
+     "jp": "サッバロットスーツ",
+     "en": "Sapparot Suit",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#510",
+     "jp": "プラチナガーブ",
+     "en": "Platinum Garb",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#548",
+     "jp": "司教のローブ",
+     "en": "Bishop's Robe",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#557",
+     "jp": "准拳士のジャケット",
+     "en": "Monk's Jacket",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#617",
+     "jp": "ヘヴンリーガーブ",
+     "en": "Heavenly Garb",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#639",
+     "jp": "ラストクルセイダー",
+     "en": "Last Crusader",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#643",
+     "jp": "体操着Ａ",
+     "en": "Gym Clothes A",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#646",
+     "jp": "体操着Ｂ",
+     "en": "Gym Clothes B",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#648",
+     "jp": "体操着Ｃ",
+     "en": "Gym Clothes C",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#650",
+     "jp": "体操着Ｄ",
+     "en": "Gym Clothes D",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#652",
+     "jp": "体操着Ｅ",
+     "en": "Gym Clothes E",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#667",
+     "jp": "かみなり様Ａ",
+     "en": "Thunder God A",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#670",
+     "jp": "かみなり様Ｂ",
+     "en": "Thunder God B",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#673",
+     "jp": "かみなり様Ｃ",
+     "en": "Thunder God C",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#679",
+     "jp": "ブラック（黒）",
+     "en": "Black (Black)",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#731",
+     "jp": "ザピィＴシャツ",
+     "en": "Zapie T-Shirt",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#742",
+     "jp": "マッピーＴシャツ",
+     "en": "Mappy T-Shirt",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#747",
+     "jp": "トナカイ・スーツ",
+     "en": "Reindeer Suit",
+     "bytes": 13
+    },
+    {
+     "id": "body_equip#6",
+     "jp": "ビキニアーマー",
+     "en": "Bikini Armor",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#32",
+     "jp": "ゴシックプレート",
+     "en": "Gothic Plate",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#34",
+     "jp": "ジャーメインメイル",
+     "en": "Germain Mail",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#38",
+     "jp": "ナイトプレート",
+     "en": "Knight Plate",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#88",
+     "jp": "ミスティジャケット",
+     "en": "Misty Jacket",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#95",
+     "jp": "功夫の衣",
+     "en": "Kung Fu Robe",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#126",
+     "jp": "ヘルパークローク",
+     "en": "Helper Cloak",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#128",
+     "jp": "衛士のローブ",
+     "en": "Guard's Robe",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#134",
+     "jp": "フォーチュンローブ",
+     "en": "Fortune Robe",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#136",
+     "jp": "リスペクトガーブ",
+     "en": "Respect Garb",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#143",
+     "jp": "マジカルスーツ",
+     "en": "Magical Suit",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#156",
+     "jp": "ピルグリムローブ",
+     "en": "Pilgrim Robe",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#170",
+     "jp": "エンシェントガーブ",
+     "en": "Ancient Garb",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#178",
+     "jp": "ガルヒーナメイル",
+     "en": "Garhina Mail",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#204",
+     "jp": "ニンジャジャケット",
+     "en": "Ninja Jacket",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#214",
+     "jp": "ソーバーンメイル",
+     "en": "Thu'ban Mail",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#316",
+     "jp": "ミラクルスーツ",
+     "en": "Miracle Suit",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#344",
+     "jp": "ヴァンパイアローブ",
+     "en": "Vampire Robe",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#383",
+     "jp": "ダイミョーアーマー",
+     "en": "Daimyo Armor",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#389",
+     "jp": "アヌビスプレート",
+     "en": "Anubis Plate",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#400",
+     "jp": "ルシフェルメイル",
+     "en": "Lucifer Mail",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#407",
+     "jp": "イーグルジャケット",
+     "en": "Eagle Jacket",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#427",
+     "jp": "アドミラルスーツ",
+     "en": "Admiral Suit",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#435",
+     "jp": "ウィッチジャケット",
+     "en": "Witch Jacket",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#484",
+     "jp": "ワーロックガーブ",
+     "en": "Warlock Garb",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#539",
+     "jp": "忍の衣",
+     "en": "Ninja's Garb",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#631",
+     "jp": "鳳凰の衣",
+     "en": "Phoenix Robe",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#634",
+     "jp": "ゴールドアーマー",
+     "en": "Golden Armor",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#710",
+     "jp": "ソウルコスチューム",
+     "en": "Soul Costume",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#733",
+     "jp": "ミュウＴシャツ",
+     "en": "Mieu T-Shirt",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#734",
+     "jp": "コーダＴシャツ",
+     "en": "Coda T-Shirt",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#778",
+     "jp": "トライアルジャケット",
+     "en": "Trial Jacket",
+     "bytes": 12
+    },
+    {
+     "id": "body_equip#4",
+     "jp": "ブラフミーメイル",
+     "en": "Brahmi Mail",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#28",
+     "jp": "チーフプレート",
+     "en": "Chief Plate",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#36",
+     "jp": "ムシャアーマー",
+     "en": "Musha Armor",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#47",
+     "jp": "クロスアーマー",
+     "en": "Cross Armor",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#51",
+     "jp": "グレートプレート",
+     "en": "Great Plate",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#110",
+     "jp": "朱雀の衣",
+     "en": "Suzaku Robe",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#119",
+     "jp": "インディゴスーツ",
+     "en": "Indigo Suit",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#121",
+     "jp": "レイヴジャケット",
+     "en": "Rave Jacket",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#151",
+     "jp": "祈祷師のローブ",
+     "en": "Prayer Robe",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#168",
+     "jp": "ブリンククローク",
+     "en": "Blink Cloak",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#180",
+     "jp": "ネイキッドアーマー",
+     "en": "Naked Armor",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#187",
+     "jp": "ブロンズメイル",
+     "en": "Bronze Mail",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#189",
+     "jp": "無法の胴衣",
+     "en": "Outlaw Vest",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#208",
+     "jp": "クスミメイル",
+     "en": "Kusumi Mail",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#212",
+     "jp": "バロンプレート",
+     "en": "Baron Plate",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#225",
+     "jp": "ジャイアントプレート",
+     "en": "Giant Plate",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#232",
+     "jp": "メッシュジャケット",
+     "en": "Mesh Jacket",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#234",
+     "jp": "ホークジャケット",
+     "en": "Hawk Jacket",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#292",
+     "jp": "クラーティンスーツ",
+     "en": "Kratin Suit",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#307",
+     "jp": "アルカナローブ",
+     "en": "Arcana Robe",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#309",
+     "jp": "ビリーブガーブ",
+     "en": "Belief Garb",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#318",
+     "jp": "ラーの外套",
+     "en": "Ra's Mantle",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#336",
+     "jp": "シルバーガーブ",
+     "en": "Silver Garb",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#338",
+     "jp": "シャーマンローブ",
+     "en": "Shaman Robe",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#360",
+     "jp": "クロームメイル",
+     "en": "Chrome Mail",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#370",
+     "jp": "ドラゴンスキン",
+     "en": "Dragon Skin",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#387",
+     "jp": "テムサーフメイル",
+     "en": "Timsah Mail",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#396",
+     "jp": "ゴーストプレート",
+     "en": "Ghost Plate",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#437",
+     "jp": "ピューマジャケット",
+     "en": "Puma Jacket",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#456",
+     "jp": "白虎の衣",
+     "en": "Byakko Robe",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#503",
+     "jp": "スルタンローブ",
+     "en": "Sultan Robe",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#516",
+     "jp": "レジェンドガーブ",
+     "en": "Legend Garb",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#542",
+     "jp": "魔術師のローブ",
+     "en": "Mage's Robe",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#701",
+     "jp": "カエルスーツＡ",
+     "en": "Frog Suit A",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#703",
+     "jp": "カエルスーツＢ",
+     "en": "Frog Suit B",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#704",
+     "jp": "カエルスーツＣ",
+     "en": "Frog Suit C",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#705",
+     "jp": "カエルスーツＤ",
+     "en": "Frog Suit D",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#706",
+     "jp": "カエルスーツＥ",
+     "en": "Frog Suit E",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#749",
+     "jp": "フレンチ・メイド",
+     "en": "French Maid",
+     "bytes": 11
+    },
+    {
+     "id": "body_equip#13",
+     "jp": "トランクメイル",
+     "en": "Trunk Mail",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#23",
+     "jp": "フィールドスキン",
+     "en": "Field Skin",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#40",
+     "jp": "ナハラメイル",
+     "en": "Nahla Mail",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#49",
+     "jp": "ボーンプレート",
+     "en": "Bone Plate",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#154",
+     "jp": "メディアガーブ",
+     "en": "Medea Garb",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#163",
+     "jp": "ホワイトガーブ",
+     "en": "White Garb",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#195",
+     "jp": "ロードチェスト",
+     "en": "Lord Chest",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#223",
+     "jp": "グリムプレート",
+     "en": "Grim Plate",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#283",
+     "jp": "玄武の衣",
+     "en": "Genbu Robe",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#329",
+     "jp": "ラージャローブ",
+     "en": "Rajah Robe",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#351",
+     "jp": "トゥルシーメイル",
+     "en": "Tulsi Mail",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#385",
+     "jp": "デュークプレート",
+     "en": "Duke Plate",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#394",
+     "jp": "ルーンアーマー",
+     "en": "Rune Armor",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#482",
+     "jp": "セイントガーブ",
+     "en": "Saint Garb",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#490",
+     "jp": "フラッシュスーツ",
+     "en": "Flash Suit",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#514",
+     "jp": "スタークローク",
+     "en": "Star Cloak",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#654",
+     "jp": "水着Ａ",
+     "en": "Swimsuit A",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#657",
+     "jp": "水着Ｂ",
+     "en": "Swimsuit B",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#659",
+     "jp": "水着Ｃ",
+     "en": "Swimsuit C",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#661",
+     "jp": "水着Ｄ",
+     "en": "Swimsuit D",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#663",
+     "jp": "水着Ｅ",
+     "en": "Swimsuit E",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#708",
+     "jp": "エンジェル・スーツ",
+     "en": "Angel Suit",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#745",
+     "jp": "サンタ・スーツ",
+     "en": "Santa Suit",
+     "bytes": 10
+    },
+    {
+     "id": "body_equip#11",
+     "jp": "アイアンメイル",
+     "en": "Iron Mail",
+     "bytes": 9
+    },
+    {
+     "id": "body_equip#138",
+     "jp": "アリアガーブ",
+     "en": "Aria Garb",
+     "bytes": 9
+    },
+    {
+     "id": "body_equip#197",
+     "jp": "ゲイルスキン",
+     "en": "Gale Skin",
+     "bytes": 9
+    },
+    {
+     "id": "body_equip#480",
+     "jp": "ルーンローブ",
+     "en": "Rune Robe",
+     "bytes": 9
+    },
+    {
+     "id": "body_equip#501",
+     "jp": "ムーンガーブ",
+     "en": "Moon Garb",
+     "bytes": 9
+    },
+    {
+     "id": "body_equip#621",
+     "jp": "ヴァーミリオン",
+     "en": "Vermilion",
+     "bytes": 9
+    },
+    {
+     "id": "body_equip#782",
+     "jp": "すっぴんの体",
+     "en": "Bare Body",
+     "bytes": 9
+    },
+    {
+     "id": "body_equip#619",
+     "jp": "ヴァルメガー",
+     "en": "Valmegar",
+     "bytes": 8
+    },
+    {
+     "id": "body_equip#676",
+     "jp": "桃色時代",
+     "en": "Pink Era",
+     "bytes": 8
+    },
+    {
+     "id": "body_equip#693",
+     "jp": "ピヨコＡ",
+     "en": "Piyoko A",
+     "bytes": 8
+    },
+    {
+     "id": "body_equip#695",
+     "jp": "ピヨコＢ",
+     "en": "Piyoko B",
+     "bytes": 8
+    },
+    {
+     "id": "body_equip#697",
+     "jp": "ピヨコＣ",
+     "en": "Piyoko C",
+     "bytes": 8
+    },
+    {
+     "id": "body_equip#698",
+     "jp": "ピヨコＤ",
+     "en": "Piyoko D",
+     "bytes": 8
+    },
+    {
+     "id": "body_equip#699",
+     "jp": "ピヨコＥ",
+     "en": "Piyoko E",
+     "bytes": 8
+    },
+    {
+     "id": "body_equip#615",
+     "jp": "リィーディアル",
+     "en": "Leadiel",
+     "bytes": 7
+    },
+    {
+     "id": "body_equip#636",
+     "jp": "マム・ベイン",
+     "en": "Mumbane",
+     "bytes": 7
+    },
+    {
+     "id": "body_equip#751",
+     "jp": "法被",
+     "en": "Happi",
+     "bytes": 5
+    },
+    {
+     "id": "body_equip#626",
+     "jp": "エクサール",
+     "en": "Exar",
+     "bytes": 4
+    },
+    {
+     "id": "body_equip#665",
+     "jp": "モジョ",
+     "en": "Mojo",
+     "bytes": 4
+    }
+   ]
+  }
+ }
+}

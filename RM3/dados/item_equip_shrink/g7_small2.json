@@ -1,0 +1,2298 @@
+{
+ "categorias": {
+  "cleaning_tool": {
+   "arena_bytes": 1117,
+   "pool_atual_bytes": 1369,
+   "folga_atual": -252,
+   "meta_bytes_a_cortar": 341,
+   "itens": [
+    {
+     "id": "cleaning_tool#13",
+     "jp": "雑巾付き清掃具。空も飛べます（ＴＯ専用武器）",
+     "en": "A cleaning tool with a rag attached. Can fly in the sky. (Tales Exclusive Weapon)",
+     "bytes": 81
+    },
+    {
+     "id": "cleaning_tool#35",
+     "jp": "宇宙の星々すら磨ける？ブラシ（ＴＯ専用武器）",
+     "en": "A brush capable of polishing even the stars of space? (Tales Exclusive Weapon)",
+     "bytes": 78
+    },
+    {
+     "id": "cleaning_tool#31",
+     "jp": "このブラシで磨けばピカピカです！（ＴＯ専用武器）",
+     "en": "Scrubbing with this brush makes everything sparkle! (Tales Exclusive Weapon)",
+     "bytes": 76
+    },
+    {
+     "id": "cleaning_tool#25",
+     "jp": "磨き掃除用清掃具。空も飛べます（ＴＯ専用武器）",
+     "en": "A cleaning tool for scrubbing. Can fly in the sky. (Tales Exclusive Weapon)",
+     "bytes": 75
+    },
+    {
+     "id": "cleaning_tool#1",
+     "jp": "通称ホウキ。空を飛べます（ＴＯ専用武器）",
+     "en": "Commonly known as a broom. Can fly in the sky. (Tales Exclusive Weapon)",
+     "bytes": 71
+    },
+    {
+     "id": "cleaning_tool#21",
+     "jp": "そのモップはチリ一つ残しません（ＴＯ専用武器）",
+     "en": "This mop leaves not a single speck of dust. (Tales Exclusive Weapon)",
+     "bytes": 68
+    },
+    {
+     "id": "cleaning_tool#27",
+     "jp": "子馬さんの毛を使った優しいブラシ（ＴＯ専用武器）",
+     "en": "A gentle brush using the hair of a pony. (Tales Exclusive Weapon)",
+     "bytes": 65
+    },
+    {
+     "id": "cleaning_tool#7",
+     "jp": "妖精の力を秘めたホウキ（ＴＯ専用武器）",
+     "en": "A broom harboring the power of fairies. (Tales Exclusive Weapon)",
+     "bytes": 64
+    },
+    {
+     "id": "cleaning_tool#23",
+     "jp": "宇宙も掃除出来る？モップ（ＴＯ専用武器）",
+     "en": "A mop capable of cleaning space itself? (Tales Exclusive Weapon)",
+     "bytes": 64
+    },
+    {
+     "id": "cleaning_tool#5",
+     "jp": "魔法効果を付与したホウキ（ＴＯ専用武器）",
+     "en": "A broom imbued with magical effects. (Tales Exclusive Weapon)",
+     "bytes": 61
+    },
+    {
+     "id": "cleaning_tool#15",
+     "jp": "力強く清掃出来るモップ（ＴＯ専用武器）",
+     "en": "A mop capable of vigorous cleaning. (Tales Exclusive Weapon)",
+     "bytes": 60
+    },
+    {
+     "id": "cleaning_tool#3",
+     "jp": "ミステリアスな雰囲気のホウキ（ＴＯ専用武器）",
+     "en": "A broom with a mysterious aura. (Tales Exclusive Weapon)",
+     "bytes": 56
+    },
+    {
+     "id": "cleaning_tool#9",
+     "jp": "そのホウキは世界を掃除する（ＴＯ専用武器）",
+     "en": "This broom cleans up the world. (Tales Exclusive Weapon)",
+     "bytes": 56
+    },
+    {
+     "id": "cleaning_tool#33",
+     "jp": "柄が金製のブラシ（ＴＯ専用武器）",
+     "en": "A brush with a golden handle. (Tales Exclusive Weapon)",
+     "bytes": 54
+    },
+    {
+     "id": "cleaning_tool#17",
+     "jp": "柄が銀製のモップ（ＴＯ専用武器）",
+     "en": "A mop with a silver handle. (Tales Exclusive Weapon)",
+     "bytes": 52
+    },
+    {
+     "id": "cleaning_tool#19",
+     "jp": "柄が金製のモップ（ＴＯ専用武器）",
+     "en": "A mop with a golden handle. (Tales Exclusive Weapon)",
+     "bytes": 52
+    },
+    {
+     "id": "cleaning_tool#29",
+     "jp": "素晴しいブラシ（ＴＯ専用武器）",
+     "en": "A magnificent brush. (Tales Exclusive Weapon)",
+     "bytes": 45
+    },
+    {
+     "id": "cleaning_tool#11",
+     "jp": "星降るホウキ（ＴＯ専用武器）",
+     "en": "A starry broom. (Tales Exclusive Weapon)",
+     "bytes": 40
+    },
+    {
+     "id": "cleaning_tool#36",
+     "jp": "最大値（清掃具）",
+     "en": "Max Value (Cleaning Tool)",
+     "bytes": 25
+    },
+    {
+     "id": "cleaning_tool#28",
+     "jp": "エクセレントブラシ",
+     "en": "Excellent Brush",
+     "bytes": 15
+    },
+    {
+     "id": "cleaning_tool#34",
+     "jp": "スターダストブラシ",
+     "en": "Stardust Brush",
+     "bytes": 14
+    },
+    {
+     "id": "cleaning_tool#4",
+     "jp": "マジカルブルーム",
+     "en": "Magical Broom",
+     "bytes": 13
+    },
+    {
+     "id": "cleaning_tool#30",
+     "jp": "シャイニングブラシ",
+     "en": "Shining Brush",
+     "bytes": 13
+    },
+    {
+     "id": "cleaning_tool#8",
+     "jp": "ワンダーブルーム",
+     "en": "Wonder Broom",
+     "bytes": 12
+    },
+    {
+     "id": "cleaning_tool#22",
+     "jp": "スターダストモップ",
+     "en": "Stardust Mop",
+     "bytes": 12
+    },
+    {
+     "id": "cleaning_tool#26",
+     "jp": "ギャロップブラシ",
+     "en": "Gallop Brush",
+     "bytes": 12
+    },
+    {
+     "id": "cleaning_tool#32",
+     "jp": "ゴールデンブラシ",
+     "en": "Golden Brush",
+     "bytes": 12
+    },
+    {
+     "id": "cleaning_tool#2",
+     "jp": "ミスティブルーム",
+     "en": "Misty Broom",
+     "bytes": 11
+    },
+    {
+     "id": "cleaning_tool#6",
+     "jp": "シルフィブルーム",
+     "en": "Sylph Broom",
+     "bytes": 11
+    },
+    {
+     "id": "cleaning_tool#10",
+     "jp": "スターブルーム",
+     "en": "Star Broom",
+     "bytes": 10
+    },
+    {
+     "id": "cleaning_tool#16",
+     "jp": "シルバーモップ",
+     "en": "Silver Mop",
+     "bytes": 10
+    },
+    {
+     "id": "cleaning_tool#14",
+     "jp": "マイトモップ",
+     "en": "Might Mop",
+     "bytes": 9
+    },
+    {
+     "id": "cleaning_tool#20",
+     "jp": "ハイパーモップ",
+     "en": "Hyper Mop",
+     "bytes": 9
+    },
+    {
+     "id": "cleaning_tool#18",
+     "jp": "ゴールドモップ",
+     "en": "Gold Mop",
+     "bytes": 8
+    },
+    {
+     "id": "cleaning_tool#0",
+     "jp": "ブルーム",
+     "en": "Broom",
+     "bytes": 5
+    },
+    {
+     "id": "cleaning_tool#24",
+     "jp": "ブラシ",
+     "en": "Brush",
+     "bytes": 5
+    },
+    {
+     "id": "cleaning_tool#12",
+     "jp": "モップ",
+     "en": "Mop",
+     "bytes": 3
+    }
+   ]
+  },
+  "spear": {
+   "arena_bytes": 1073,
+   "pool_atual_bytes": 1322,
+   "folga_atual": -249,
+   "meta_bytes_a_cortar": 334,
+   "itens": [
+    {
+     "id": "spear#7",
+     "jp": "斧と槍の特性をあわせもつ槍（ＴＯ専用武器）",
+     "en": "A polearm combining properties of axe and spear. (Tales Exclusive Weapon)",
+     "bytes": 73
+    },
+    {
+     "id": "spear#32",
+     "jp": "東方で最も勇気ある武人が持った槍（ＴＯ専用武器）",
+     "en": "A spear held by the bravest warrior in the East. (Tales Exclusive Weapon)",
+     "bytes": 73
+    },
+    {
+     "id": "spear#11",
+     "jp": "狂暴なるイナズマの名をもつ槍（ＴＯ専用武器）",
+     "en": "A spear bearing the name of furious lightning. (Tales Exclusive Weapon)",
+     "bytes": 71
+    },
+    {
+     "id": "spear#23",
+     "jp": "思わず敵を串刺しにしてしまう長槍（ＴＯ専用武器）",
+     "en": "A long pike that impales enemies effortlessly. (Tales Exclusive Weapon)",
+     "bytes": 71
+    },
+    {
+     "id": "spear#36",
+     "jp": "海を割る程の力を秘めた槍（ＴＯ専用武器）",
+     "en": "A spear harboring power to cleave the sea. (Tales Exclusive Weapon)",
+     "bytes": 67
+    },
+    {
+     "id": "spear#9",
+     "jp": "３０ｃｍ以上の穂身をもつ槍（ＴＯ専用武器）",
+     "en": "A spear with a point exceeding 30 cm. (Tales Exclusive Weapon)",
+     "bytes": 62
+    },
+    {
+     "id": "spear#1",
+     "jp": "ごく普通に手に入る槍（ＴＯ専用武器）",
+     "en": "An ordinary spear easily obtained. (Tales Exclusive Weapon)",
+     "bytes": 59
+    },
+    {
+     "id": "spear#15",
+     "jp": "三叉槍の一種（ＴＯ専用武器）",
+     "en": "A type of three-pronged spear. (Tales Exclusive Weapon)",
+     "bytes": 55
+    },
+    {
+     "id": "spear#5",
+     "jp": "高威力の戦争用長槍（ＴＯ専用武器）",
+     "en": "A high-powered military pike. (Tales Exclusive Weapon)",
+     "bytes": 54
+    },
+    {
+     "id": "spear#25",
+     "jp": "ミスリル銀を用いた槍（ＴＯ専用武器）",
+     "en": "A lance using mithril silver. (Tales Exclusive Weapon)",
+     "bytes": 54
+    },
+    {
+     "id": "spear#3",
+     "jp": "研ぎ澄まされた美しいフォーク（ＴＯ専用武器）",
+     "en": "A sharpened, beautiful fork. (Tales Exclusive Weapon)",
+     "bytes": 53
+    },
+    {
+     "id": "spear#21",
+     "jp": "銀製のギサルメ（ＴＯ専用武器）",
+     "en": "A guisarme made of silver. (Tales Exclusive Weapon)",
+     "bytes": 51
+    },
+    {
+     "id": "spear#13",
+     "jp": "銀製のハルバード（ＴＯ専用武器）",
+     "en": "A halberd made of silver. (Tales Exclusive Weapon)",
+     "bytes": 50
+    },
+    {
+     "id": "spear#19",
+     "jp": "銀製のリュッセル（ＴＯ専用武器）",
+     "en": "A ruessel made of silver. (Tales Exclusive Weapon)",
+     "bytes": 50
+    },
+    {
+     "id": "spear#29",
+     "jp": "竜騎兵用長槍（ＴＯ専用武器）",
+     "en": "A long pike for dragoons. (Tales Exclusive Weapon)",
+     "bytes": 50
+    },
+    {
+     "id": "spear#34",
+     "jp": "金製のギサルメ（ＴＯ専用武器）",
+     "en": "A guisarme made of gold. (Tales Exclusive Weapon)",
+     "bytes": 49
+    },
+    {
+     "id": "spear#27",
+     "jp": "金製のハルバード（ＴＯ専用武器）",
+     "en": "A halberd made of gold. (Tales Exclusive Weapon)",
+     "bytes": 48
+    },
+    {
+     "id": "spear#17",
+     "jp": "竜騎兵用槍（ＴＯ専用武器）",
+     "en": "A lance for dragoons. (Tales Exclusive Weapon)",
+     "bytes": 46
+    },
+    {
+     "id": "spear#37",
+     "jp": "最大値（槍）",
+     "en": "Max Value (Spear)",
+     "bytes": 17
+    },
+    {
+     "id": "spear#20",
+     "jp": "シルバーギサルメ",
+     "en": "Silver Guisarme",
+     "bytes": 15
+    },
+    {
+     "id": "spear#30",
+     "jp": "朱槍",
+     "en": "Vermilion Spear",
+     "bytes": 15
+    },
+    {
+     "id": "spear#10",
+     "jp": "ライトニングフューリ",
+     "en": "Lightning Fury",
+     "bytes": 14
+    },
+    {
+     "id": "spear#12",
+     "jp": "シルバーハルバード",
+     "en": "Silver Halberd",
+     "bytes": 14
+    },
+    {
+     "id": "spear#18",
+     "jp": "シルバーリュッセル",
+     "en": "Silver Ruessel",
+     "bytes": 14
+    },
+    {
+     "id": "spear#16",
+     "jp": "ドラグナーランス",
+     "en": "Dragoon Lance",
+     "bytes": 13
+    },
+    {
+     "id": "spear#24",
+     "jp": "ミスリルランス",
+     "en": "Mithril Lance",
+     "bytes": 13
+    },
+    {
+     "id": "spear#33",
+     "jp": "ゴールドギサルメ",
+     "en": "Gold Guisarme",
+     "bytes": 13
+    },
+    {
+     "id": "spear#26",
+     "jp": "ゴールドハルバード",
+     "en": "Gold Halberd",
+     "bytes": 12
+    },
+    {
+     "id": "spear#28",
+     "jp": "ドラグナーパイク",
+     "en": "Dragoon Pike",
+     "bytes": 12
+    },
+    {
+     "id": "spear#35",
+     "jp": "フォルティスピア",
+     "en": "Fortis Spear",
+     "bytes": 12
+    },
+    {
+     "id": "spear#14",
+     "jp": "ブランディストック",
+     "en": "Brandistock",
+     "bytes": 11
+    },
+    {
+     "id": "spear#22",
+     "jp": "インペールパイク",
+     "en": "Impale Pike",
+     "bytes": 11
+    },
+    {
+     "id": "spear#4",
+     "jp": "ウォーパイク",
+     "en": "War Pike",
+     "bytes": 8
+    },
+    {
+     "id": "spear#6",
+     "jp": "ハルバード",
+     "en": "Halberd",
+     "bytes": 7
+    },
+    {
+     "id": "spear#8",
+     "jp": "ブレディット",
+     "en": "Bledit",
+     "bytes": 6
+    },
+    {
+     "id": "spear#0",
+     "jp": "スピアー",
+     "en": "Spear",
+     "bytes": 5
+    },
+    {
+     "id": "spear#2",
+     "jp": "フォーク",
+     "en": "Fork",
+     "bytes": 4
+    }
+   ]
+  },
+  "chakram": {
+   "arena_bytes": 1091,
+   "pool_atual_bytes": 1304,
+   "folga_atual": -213,
+   "meta_bytes_a_cortar": 300,
+   "itens": [
+    {
+     "id": "chakram#36",
+     "jp": "強い魔法効果が付与された戦輪（ＴＯ専用武器）",
+     "en": "A battle ring imbued with strong magic effects. (Tales Exclusive Weapon)",
+     "bytes": 72
+    },
+    {
+     "id": "chakram#1",
+     "jp": "投擲後、手元に戻ってくる戦輪（ＴＯ専用武器）",
+     "en": "A battle ring that returns after being thrown. (Tales Exclusive Weapon)",
+     "bytes": 71
+    },
+    {
+     "id": "chakram#22",
+     "jp": "力みなぎる感じがする戦輪（ＴＯ専用武器）",
+     "en": "A battle ring that feels bursting with power. (Tales Exclusive Weapon)",
+     "bytes": 70
+    },
+    {
+     "id": "chakram#14",
+     "jp": "打撃と投擲のバランスを取った戦輪（ＴＯ専用武器）",
+     "en": "A battle ring balancing strikes and throws. (Tales Exclusive Weapon)",
+     "bytes": 68
+    },
+    {
+     "id": "chakram#28",
+     "jp": "縁に長い棘が付いている戦輪（ＴＯ専用武器）",
+     "en": "A battle ring with long thorns on its rim. (Tales Exclusive Weapon)",
+     "bytes": 67
+    },
+    {
+     "id": "chakram#32",
+     "jp": "古代の投擲競技に使われた円盤（ＴＯ専用武器）",
+     "en": "A discus used in ancient throwing events. (Tales Exclusive Weapon)",
+     "bytes": 66
+    },
+    {
+     "id": "chakram#3",
+     "jp": "戦闘用に作られたリング状の武器（ＴＯ専用武器）",
+     "en": "A ring-shaped weapon crafted for combat. (Tales Exclusive Weapon)",
+     "bytes": 65
+    },
+    {
+     "id": "chakram#26",
+     "jp": "古の戦士が使った戦輪（ＴＯ専用武器）",
+     "en": "A battle ring used by warriors of old. (Tales Exclusive Weapon)",
+     "bytes": 63
+    },
+    {
+     "id": "chakram#34",
+     "jp": "金細工が施された戦輪（ＴＯ専用武器）",
+     "en": "A battle ring adorned with gold craft. (Tales Exclusive Weapon)",
+     "bytes": 63
+    },
+    {
+     "id": "chakram#6",
+     "jp": "パーティに使える戦輪（ＴＯ専用武器）",
+     "en": "A battle ring you can use at parties. (Tales Exclusive Weapon)",
+     "bytes": 62
+    },
+    {
+     "id": "chakram#30",
+     "jp": "永遠の名を冠したリング（ＴＯ専用武器）",
+     "en": "A ring bearing the name of eternity. (Tales Exclusive Weapon)",
+     "bytes": 61
+    },
+    {
+     "id": "chakram#8",
+     "jp": "ミスリル銀を用いたリング（ＴＯ専用武器）",
+     "en": "A ring using mithril silver. (Tales Exclusive Weapon)",
+     "bytes": 53
+    },
+    {
+     "id": "chakram#16",
+     "jp": "クローム化されたホイール（ＴＯ専用武器）",
+     "en": "A chrome-plated wheel. (Tales Exclusive Weapon)",
+     "bytes": 47
+    },
+    {
+     "id": "chakram#20",
+     "jp": "プラチナを用いたリング（ＴＯ専用武器）",
+     "en": "A ring using platinum. (Tales Exclusive Weapon)",
+     "bytes": 47
+    },
+    {
+     "id": "chakram#10",
+     "jp": "月のリング（ＴＯ専用武器）",
+     "en": "A ring of the moon. (Tales Exclusive Weapon)",
+     "bytes": 44
+    },
+    {
+     "id": "chakram#18",
+     "jp": "星屑のリング（ＴＯ専用武器）",
+     "en": "A ring of stardust. (Tales Exclusive Weapon)",
+     "bytes": 44
+    },
+    {
+     "id": "chakram#24",
+     "jp": "太陽のリング（ＴＯ専用武器）",
+     "en": "A ring of the sun. (Tales Exclusive Weapon)",
+     "bytes": 43
+    },
+    {
+     "id": "chakram#12",
+     "jp": "天使の輪（ＴＯ専用武器）",
+     "en": "An angel's halo. (Tales Exclusive Weapon)",
+     "bytes": 41
+    },
+    {
+     "id": "chakram#37",
+     "jp": "最大値（戦輪）",
+     "en": "Max Value (Chakram)",
+     "bytes": 19
+    },
+    {
+     "id": "chakram#9",
+     "jp": "リングオブムーン",
+     "en": "Ring of the Moon",
+     "bytes": 16
+    },
+    {
+     "id": "chakram#23",
+     "jp": "リングオブサン",
+     "en": "Ring of the Sun",
+     "bytes": 15
+    },
+    {
+     "id": "chakram#17",
+     "jp": "スターダストリング",
+     "en": "Stardust Ring",
+     "bytes": 13
+    },
+    {
+     "id": "chakram#19",
+     "jp": "プラチナリング",
+     "en": "Platinum Ring",
+     "bytes": 13
+    },
+    {
+     "id": "chakram#7",
+     "jp": "ミスリルリング",
+     "en": "Mithril Ring",
+     "bytes": 12
+    },
+    {
+     "id": "chakram#15",
+     "jp": "クロームホイール",
+     "en": "Chrome Wheel",
+     "bytes": 12
+    },
+    {
+     "id": "chakram#29",
+     "jp": "エターナルリング",
+     "en": "Eternal Ring",
+     "bytes": 12
+    },
+    {
+     "id": "chakram#2",
+     "jp": "リングスライサー",
+     "en": "Ring Slicer",
+     "bytes": 11
+    },
+    {
+     "id": "chakram#13",
+     "jp": "バトルリング",
+     "en": "Battle Ring",
+     "bytes": 11
+    },
+    {
+     "id": "chakram#33",
+     "jp": "ゴールドソーサー",
+     "en": "Gold Saucer",
+     "bytes": 11
+    },
+    {
+     "id": "chakram#11",
+     "jp": "エンジェルハイロウ",
+     "en": "Angel Halo",
+     "bytes": 10
+    },
+    {
+     "id": "chakram#21",
+     "jp": "マイトリング",
+     "en": "Might Ring",
+     "bytes": 10
+    },
+    {
+     "id": "chakram#27",
+     "jp": "スパイクディッシュ",
+     "en": "Spike Dish",
+     "bytes": 10
+    },
+    {
+     "id": "chakram#31",
+     "jp": "ルーンディスク",
+     "en": "Rune Disc",
+     "bytes": 9
+    },
+    {
+     "id": "chakram#35",
+     "jp": "ブルーリング",
+     "en": "Blue Ring",
+     "bytes": 9
+    },
+    {
+     "id": "chakram#25",
+     "jp": "ウォーリング",
+     "en": "War Ring",
+     "bytes": 8
+    },
+    {
+     "id": "chakram#0",
+     "jp": "チャクラム",
+     "en": "Chakram",
+     "bytes": 7
+    },
+    {
+     "id": "chakram#4",
+     "jp": "パイ皿",
+     "en": "Pie Pan",
+     "bytes": 7
+    }
+   ]
+  },
+  "straw": {
+   "arena_bytes": 1247,
+   "pool_atual_bytes": 1408,
+   "folga_atual": -161,
+   "meta_bytes_a_cortar": 260,
+   "itens": [
+    {
+     "id": "straw#29",
+     "jp": "ハートを幾つもあしらった溢れる愛のストロー（ＴＯ専用武器）",
+     "en": "A straw overflowing with love, adorned with multiple hearts. (Tales Exclusive Weapon)",
+     "bytes": 85
+    },
+    {
+     "id": "straw#21",
+     "jp": "ハート型とリボンがラブリーなストロー（ＴＯ専用武器）",
+     "en": "A lovely straw adorned with heart shapes and ribbons. (Tales Exclusive Weapon)",
+     "bytes": 78
+    },
+    {
+     "id": "straw#19",
+     "jp": "お子様に大人気のピヨピヨを模したストロー（ＴＯ専用武器）",
+     "en": "A straw modeled after the beloved chick Piyo Piyo. (Tales Exclusive Weapon)",
+     "bytes": 75
+    },
+    {
+     "id": "straw#31",
+     "jp": "ミスリル製の絶対折れないストロー（ＴＯ専用武器）",
+     "en": "An absolutely unbreakable straw made of mithril. (Tales Exclusive Weapon)",
+     "bytes": 73
+    },
+    {
+     "id": "straw#7",
+     "jp": "ウォータージェットを吹きかけるストロー（ＴＯ専用武器）",
+     "en": "A straw that sprays high-pressure water jets. (Tales Exclusive Weapon)",
+     "bytes": 70
+    },
+    {
+     "id": "straw#23",
+     "jp": "狙った獲物は逃さないストロー（ＴＯ専用武器）",
+     "en": "A straw that never lets targeted prey escape. (Tales Exclusive Weapon)",
+     "bytes": 70
+    },
+    {
+     "id": "straw#3",
+     "jp": "薄い鉄板を筒状にしたストロー（ＴＯ専用武器）",
+     "en": "A straw formed by rolling thin iron plate. (Tales Exclusive Weapon)",
+     "bytes": 67
+    },
+    {
+     "id": "straw#35",
+     "jp": "白金製の超高級ストロー（ＴＯ専用武器）",
+     "en": "An ultra-luxurious straw made of platinum. (Tales Exclusive Weapon)",
+     "bytes": 67
+    },
+    {
+     "id": "straw#17",
+     "jp": "毒を吹きかける危険なストロー（ＴＯ専用武器）",
+     "en": "A dangerous straw that sprays poison. (Tales Exclusive Weapon)",
+     "bytes": 62
+    },
+    {
+     "id": "straw#13",
+     "jp": "銀製の折れないストロー（ＴＯ専用武器）",
+     "en": "An unbreakable straw made of silver. (Tales Exclusive Weapon)",
+     "bytes": 61
+    },
+    {
+     "id": "straw#15",
+     "jp": "カマイタチを発生させるストロー（ＴＯ専用武器）",
+     "en": "A straw that generates wind scythes. (Tales Exclusive Weapon)",
+     "bytes": 61
+    },
+    {
+     "id": "straw#27",
+     "jp": "しましま模様が可愛いストロー（ＴＯ専用武器）",
+     "en": "A cute straw with a striped pattern. (Tales Exclusive Weapon)",
+     "bytes": 61
+    },
+    {
+     "id": "straw#11",
+     "jp": "小ぶりな岩石を吹きかけるストロー（ＴＯ専用武器）",
+     "en": "A straw that blows out small rocks. (Tales Exclusive Weapon)",
+     "bytes": 60
+    },
+    {
+     "id": "straw#25",
+     "jp": "黄金で作られた至高のストロー（ＴＯ専用武器）",
+     "en": "A supreme straw crafted from gold. (Tales Exclusive Weapon)",
+     "bytes": 59
+    },
+    {
+     "id": "straw#33",
+     "jp": "スコープの付いたストロー（ＴＯ専用武器）",
+     "en": "A straw fitted with a scope. (Tales Exclusive Weapon)",
+     "bytes": 53
+    },
+    {
+     "id": "straw#5",
+     "jp": "炎を吹きかけるストロー（ＴＯ専用武器）",
+     "en": "A straw that sprays flames. (Tales Exclusive Weapon)",
+     "bytes": 52
+    },
+    {
+     "id": "straw#1",
+     "jp": "丈夫に作られたストロー（ＴＯ専用武器）",
+     "en": "A sturdily crafted straw. (Tales Exclusive Weapon)",
+     "bytes": 50
+    },
+    {
+     "id": "straw#9",
+     "jp": "ブロンズ製のストロー（ＴＯ専用武器）",
+     "en": "A straw made of bronze. (Tales Exclusive Weapon)",
+     "bytes": 48
+    },
+    {
+     "id": "straw#36",
+     "jp": "最大値（ストロー）",
+     "en": "Max Value (Straw)",
+     "bytes": 17
+    },
+    {
+     "id": "straw#28",
+     "jp": "ラブラブストロー",
+     "en": "Love-Love Straw",
+     "bytes": 15
+    },
+    {
+     "id": "straw#34",
+     "jp": "プラチナストロー",
+     "en": "Platinum Straw",
+     "bytes": 14
+    },
+    {
+     "id": "straw#30",
+     "jp": "ミスリルストロー",
+     "en": "Mithril Straw",
+     "bytes": 13
+    },
+    {
+     "id": "straw#8",
+     "jp": "ブロンズストロー",
+     "en": "Bronze Straw",
+     "bytes": 12
+    },
+    {
+     "id": "straw#12",
+     "jp": "シルバーストロー",
+     "en": "Silver Straw",
+     "bytes": 12
+    },
+    {
+     "id": "straw#16",
+     "jp": "ポイズンストロー",
+     "en": "Poison Straw",
+     "bytes": 12
+    },
+    {
+     "id": "straw#22",
+     "jp": "ストライクストロー",
+     "en": "Strike Straw",
+     "bytes": 12
+    },
+    {
+     "id": "straw#26",
+     "jp": "マーブルストロー",
+     "en": "Marble Straw",
+     "bytes": 12
+    },
+    {
+     "id": "straw#4",
+     "jp": "フレイムストロー",
+     "en": "Flame Straw",
+     "bytes": 11
+    },
+    {
+     "id": "straw#6",
+     "jp": "ウォーターストロー",
+     "en": "Water Straw",
+     "bytes": 11
+    },
+    {
+     "id": "straw#10",
+     "jp": "グレイブストロー",
+     "en": "Grave Straw",
+     "bytes": 11
+    },
+    {
+     "id": "straw#32",
+     "jp": "スコープストロー",
+     "en": "Scope Straw",
+     "bytes": 11
+    },
+    {
+     "id": "straw#2",
+     "jp": "アイアンストロー",
+     "en": "Iron Straw",
+     "bytes": 10
+    },
+    {
+     "id": "straw#14",
+     "jp": "ウィンドストロー",
+     "en": "Wind Straw",
+     "bytes": 10
+    },
+    {
+     "id": "straw#20",
+     "jp": "ラブストロー",
+     "en": "Love Straw",
+     "bytes": 10
+    },
+    {
+     "id": "straw#24",
+     "jp": "ゴールドストロー",
+     "en": "Gold Straw",
+     "bytes": 10
+    },
+    {
+     "id": "straw#18",
+     "jp": "ピヨロー",
+     "en": "Piyoro",
+     "bytes": 6
+    },
+    {
+     "id": "straw#0",
+     "jp": "ストロー",
+     "en": "Straw",
+     "bytes": 5
+    }
+   ]
+  },
+  "baton": {
+   "arena_bytes": 1217,
+   "pool_atual_bytes": 1377,
+   "folga_atual": -160,
+   "meta_bytes_a_cortar": 257,
+   "itens": [
+    {
+     "id": "baton#29",
+     "jp": "伝説のバトントワラーが特訓に使ったバトン（ＴＯ専用武器）",
+     "en": "A baton used by a legendary baton twirler for special training. (Tales Exclusive Weapon)",
+     "bytes": 88
+    },
+    {
+     "id": "baton#27",
+     "jp": "踊りでも戦闘でも優れた性能を発揮するバトン（ＴＯ専用武器）",
+     "en": "A baton performing excellently in dance and battle alike. (Tales Exclusive Weapon)",
+     "bytes": 82
+    },
+    {
+     "id": "baton#19",
+     "jp": "ボールとチップの硬度が大幅に強化されたバトン（ＴＯ専用武器）",
+     "en": "A baton with greatly enhanced ball and tip hardness. (Tales Exclusive Weapon)",
+     "bytes": 77
+    },
+    {
+     "id": "baton#21",
+     "jp": "シャフトを太くし、より実戦的な強化がなされたバトン（ＴＯ専用武器）",
+     "en": "A baton with a thicker shaft reinforced for combat. (Tales Exclusive Weapon)",
+     "bytes": 76
+    },
+    {
+     "id": "baton#35",
+     "jp": "伝説のバトントワラーが競技に使用したバトン（ＴＯ専用武器）",
+     "en": "A baton used in tournaments by a legendary twirler. (Tales Exclusive Weapon)",
+     "bytes": 76
+    },
+    {
+     "id": "baton#13",
+     "jp": "シャフトを強化し折れにくくなったバトン（ＴＯ専用武器）",
+     "en": "A baton with a reinforced, break-resistant shaft. (Tales Exclusive Weapon)",
+     "bytes": 74
+    },
+    {
+     "id": "baton#23",
+     "jp": "重い一打を放つ為に重量を増したバトン（ＴＯ専用武器）",
+     "en": "A heavier baton designed to land heavy strikes. (Tales Exclusive Weapon)",
+     "bytes": 72
+    },
+    {
+     "id": "baton#33",
+     "jp": "戦闘用として完成された品質を誇るバトン（ＴＯ専用武器）",
+     "en": "A baton boasting perfected quality for combat. (Tales Exclusive Weapon)",
+     "bytes": 71
+    },
+    {
+     "id": "baton#15",
+     "jp": "高度な振り回しを目指して強化されたバトン（ＴＯ専用武器）",
+     "en": "A baton reinforced for advanced twirling. (Tales Exclusive Weapon)",
+     "bytes": 66
+    },
+    {
+     "id": "baton#31",
+     "jp": "一流のバトントワラーが一度は手にする高級バトン（ＴＯ専用武器）",
+     "en": "A luxury baton held by top-tier twirlers. (Tales Exclusive Weapon)",
+     "bytes": 66
+    },
+    {
+     "id": "baton#17",
+     "jp": "なぜか護身用武器として用いられるバトン（ＴＯ専用武器）",
+     "en": "A baton strangely used for self-defense. (Tales Exclusive Weapon)",
+     "bytes": 65
+    },
+    {
+     "id": "baton#7",
+     "jp": "材質にこだわった良質のバトン（ＴＯ専用武器）",
+     "en": "A high-quality baton of fine materials. (Tales Exclusive Weapon)",
+     "bytes": 64
+    },
+    {
+     "id": "baton#9",
+     "jp": "リズムを取る拍子木としても使われるバトン（ＴＯ専用武器）",
+     "en": "A baton also used as rhythm clappers. (Tales Exclusive Weapon)",
+     "bytes": 62
+    },
+    {
+     "id": "baton#25",
+     "jp": "近接戦闘用のバトン（ＴＯ専用武器）",
+     "en": "A baton for close-quarters combat. (Tales Exclusive Weapon)",
+     "bytes": 59
+    },
+    {
+     "id": "baton#11",
+     "jp": "硬質のボールとチップが付いたバトン（ＴＯ専用武器）",
+     "en": "A baton with a hard ball and tip. (Tales Exclusive Weapon)",
+     "bytes": 58
+    },
+    {
+     "id": "baton#3",
+     "jp": "軽快な踊りに最適のバトン（ＴＯ専用武器）",
+     "en": "A baton ideal for lively dances. (Tales Exclusive Weapon)",
+     "bytes": 57
+    },
+    {
+     "id": "baton#1",
+     "jp": "ダンスに用いる基本的なバトン（ＴＯ専用武器）",
+     "en": "A basic baton used for dancing. (Tales Exclusive Weapon)",
+     "bytes": 56
+    },
+    {
+     "id": "baton#5",
+     "jp": "競技用のバトン（ＴＯ専用武器）",
+     "en": "A baton for competitions. (Tales Exclusive Weapon)",
+     "bytes": 50
+    },
+    {
+     "id": "baton#36",
+     "jp": "最大値（バトン）",
+     "en": "Max Value (Baton)",
+     "bytes": 17
+    },
+    {
+     "id": "baton#16",
+     "jp": "トゥリステス",
+     "en": "Tristis",
+     "bytes": 7
+    },
+    {
+     "id": "baton#20",
+     "jp": "クラージュ",
+     "en": "Courage",
+     "bytes": 7
+    },
+    {
+     "id": "baton#22",
+     "jp": "バチャータ",
+     "en": "Bachata",
+     "bytes": 7
+    },
+    {
+     "id": "baton#0",
+     "jp": "エルロンド",
+     "en": "Elrond",
+     "bytes": 6
+    },
+    {
+     "id": "baton#6",
+     "jp": "オリーブル",
+     "en": "Orible",
+     "bytes": 6
+    },
+    {
+     "id": "baton#10",
+     "jp": "ピスティス",
+     "en": "Pistis",
+     "bytes": 6
+    },
+    {
+     "id": "baton#28",
+     "jp": "アグラード",
+     "en": "Agrado",
+     "bytes": 6
+    },
+    {
+     "id": "baton#30",
+     "jp": "バレ",
+     "en": "Ballet",
+     "bytes": 6
+    },
+    {
+     "id": "baton#2",
+     "jp": "ルンバ",
+     "en": "Rumba",
+     "bytes": 5
+    },
+    {
+     "id": "baton#4",
+     "jp": "オールダー",
+     "en": "Alder",
+     "bytes": 5
+    },
+    {
+     "id": "baton#8",
+     "jp": "サルサ",
+     "en": "Salsa",
+     "bytes": 5
+    },
+    {
+     "id": "baton#12",
+     "jp": "メリアー",
+     "en": "Melia",
+     "bytes": 5
+    },
+    {
+     "id": "baton#14",
+     "jp": "タンゴ",
+     "en": "Tango",
+     "bytes": 5
+    },
+    {
+     "id": "baton#24",
+     "jp": "メーニス",
+     "en": "Menis",
+     "bytes": 5
+    },
+    {
+     "id": "baton#26",
+     "jp": "ヴァルス",
+     "en": "Valse",
+     "bytes": 5
+    },
+    {
+     "id": "baton#32",
+     "jp": "ピリアー",
+     "en": "Pilia",
+     "bytes": 5
+    },
+    {
+     "id": "baton#18",
+     "jp": "ジャズ",
+     "en": "Jazz",
+     "bytes": 4
+    },
+    {
+     "id": "baton#34",
+     "jp": "イーレクス",
+     "en": "Ilex",
+     "bytes": 4
+    }
+   ]
+  },
+  "bag": {
+   "arena_bytes": 1153,
+   "pool_atual_bytes": 1307,
+   "folga_atual": -154,
+   "meta_bytes_a_cortar": 246,
+   "itens": [
+    {
+     "id": "bag#26",
+     "jp": "社長気分になれるバッグ（ＴＯ専用武器）",
+     "en": "A bag that makes you feel like a company president. (Tales Exclusive Weapon)",
+     "bytes": 76
+    },
+    {
+     "id": "bag#11",
+     "jp": "旅行かばん。お土産満載でとても重い（ＴＯ専用武器）",
+     "en": "A travel bag packed with souvenirs, very heavy. (Tales Exclusive Weapon)",
+     "bytes": 72
+    },
+    {
+     "id": "bag#36",
+     "jp": "多分書類は入っていません（ＴＯ専用武器）",
+     "en": "It probably does not contain legal documents. (Tales Exclusive Weapon)",
+     "bytes": 70
+    },
+    {
+     "id": "bag#13",
+     "jp": "船長だけが所有を許されるバッグ（ＴＯ専用武器）",
+     "en": "A bag only the captain is permitted to own. (Tales Exclusive Weapon)",
+     "bytes": 68
+    },
+    {
+     "id": "bag#22",
+     "jp": "革製の上品でおしゃれなバッグ（ＴＯ専用武器）",
+     "en": "An elegant and stylish bag made of leather. (Tales Exclusive Weapon)",
+     "bytes": 68
+    },
+    {
+     "id": "bag#1",
+     "jp": "これで気分はキャプテン！（ＴＯ専用武器）",
+     "en": "With this you will feel like a captain! (Tales Exclusive Weapon)",
+     "bytes": 64
+    },
+    {
+     "id": "bag#7",
+     "jp": "トートバッグより更に大型のバッグ（ＴＯ専用武器）",
+     "en": "An even larger bag than a tote bag. (Tales Exclusive Weapon)",
+     "bytes": 60
+    },
+    {
+     "id": "bag#32",
+     "jp": "ボウリングの球などが入ってます（ＴＯ専用武器）",
+     "en": "Contains bowling balls and such. (Tales Exclusive Weapon)",
+     "bytes": 57
+    },
+    {
+     "id": "bag#15",
+     "jp": "見かけよりも重いバッグです（ＴＯ専用武器）",
+     "en": "A bag heavier than it appears. (Tales Exclusive Weapon)",
+     "bytes": 55
+    },
+    {
+     "id": "bag#24",
+     "jp": "衣服などを入れる事が出来ます（ＴＯ専用武器）",
+     "en": "Can hold clothes and garments. (Tales Exclusive Weapon)",
+     "bytes": 55
+    },
+    {
+     "id": "bag#34",
+     "jp": "現金輸送などによく使われます（ＴＯ専用武器）",
+     "en": "Often used for cash transport. (Tales Exclusive Weapon)",
+     "bytes": 55
+    },
+    {
+     "id": "bag#5",
+     "jp": "環境にやさしい買い物用バッグ（ＴＯ専用武器）",
+     "en": "An eco-friendly shopping bag. (Tales Exclusive Weapon)",
+     "bytes": 54
+    },
+    {
+     "id": "bag#17",
+     "jp": "ゴルフボールなどが入ってます（ＴＯ専用武器）",
+     "en": "Contains golf balls and such. (Tales Exclusive Weapon)",
+     "bytes": 54
+    },
+    {
+     "id": "bag#28",
+     "jp": "中身はとても軽いバッグ（ＴＯ専用武器）",
+     "en": "Its contents are very light. (Tales Exclusive Weapon)",
+     "bytes": 53
+    },
+    {
+     "id": "bag#3",
+     "jp": "大型の角型バッグ（ＴＯ専用武器）",
+     "en": "A large rectangular bag. (Tales Exclusive Weapon)",
+     "bytes": 49
+    },
+    {
+     "id": "bag#30",
+     "jp": "とても…重いです（ＴＯ専用武器）",
+     "en": "It is... very heavy. (Tales Exclusive Weapon)",
+     "bytes": 45
+    },
+    {
+     "id": "bag#19",
+     "jp": "とても大きいバッグです（ＴＯ専用武器）",
+     "en": "A very large bag. (Tales Exclusive Weapon)",
+     "bytes": 42
+    },
+    {
+     "id": "bag#9",
+     "jp": "福袋？なバッグ（ＴＯ専用武器）",
+     "en": "A lucky bag? (Tales Exclusive Weapon)",
+     "bytes": 37
+    },
+    {
+     "id": "bag#20",
+     "jp": "本革バッグ",
+     "en": "Genuine Leather Bag",
+     "bytes": 19
+    },
+    {
+     "id": "bag#37",
+     "jp": "最大値（バッグ）",
+     "en": "Max Value (Bag)",
+     "bytes": 15
+    },
+    {
+     "id": "bag#33",
+     "jp": "ジュラルミンバッグ",
+     "en": "Duralumin Case",
+     "bytes": 14
+    },
+    {
+     "id": "bag#25",
+     "jp": "プレジデントバッグ",
+     "en": "President Bag",
+     "bytes": 13
+    },
+    {
+     "id": "bag#35",
+     "jp": "ローヤーズバッグ",
+     "en": "Lawyer's Bag",
+     "bytes": 12
+    },
+    {
+     "id": "bag#12",
+     "jp": "キャプテンバッグ",
+     "en": "Captain Bag",
+     "bytes": 11
+    },
+    {
+     "id": "bag#23",
+     "jp": "ガーメントバッグ",
+     "en": "Garment Bag",
+     "bytes": 11
+    },
+    {
+     "id": "bag#10",
+     "jp": "ワンダーバッグ",
+     "en": "Wonder Bag",
+     "bytes": 10
+    },
+    {
+     "id": "bag#31",
+     "jp": "スポーツバッグ",
+     "en": "Sports Bag",
+     "bytes": 10
+    },
+    {
+     "id": "bag#8",
+     "jp": "ラックバッグ",
+     "en": "Lucky Bag",
+     "bytes": 9
+    },
+    {
+     "id": "bag#18",
+     "jp": "ラージバッグ",
+     "en": "Large Bag",
+     "bytes": 9
+    },
+    {
+     "id": "bag#27",
+     "jp": "ブランドバッグ",
+     "en": "Brand Bag",
+     "bytes": 9
+    },
+    {
+     "id": "bag#0",
+     "jp": "チャットバッグ",
+     "en": "Chat Bag",
+     "bytes": 8
+    },
+    {
+     "id": "bag#2",
+     "jp": "トートバッグ",
+     "en": "Tote Bag",
+     "bytes": 8
+    },
+    {
+     "id": "bag#16",
+     "jp": "ゴルフバッグ",
+     "en": "Golf Bag",
+     "bytes": 8
+    },
+    {
+     "id": "bag#29",
+     "jp": "ヒュージバッグ",
+     "en": "Huge Bag",
+     "bytes": 8
+    },
+    {
+     "id": "bag#4",
+     "jp": "エコバッグ",
+     "en": "Eco Bag",
+     "bytes": 7
+    },
+    {
+     "id": "bag#6",
+     "jp": "ビッグバッグ",
+     "en": "Big Bag",
+     "bytes": 7
+    },
+    {
+     "id": "bag#14",
+     "jp": "ハンドバッグ",
+     "en": "Handbag",
+     "bytes": 7
+    }
+   ]
+  },
+  "rifle": {
+   "arena_bytes": 1267,
+   "pool_atual_bytes": 1370,
+   "folga_atual": -103,
+   "meta_bytes_a_cortar": 204,
+   "itens": [
+    {
+     "id": "rifle#31",
+     "jp": "その銃声は狙われた者への鎮魂歌と恐れられるライフル（ＴＯ専用武器）",
+     "en": "A fearsome rifle whose gunshots are a requiem for targets. (Tales Exclusive Weapon)",
+     "bytes": 83
+    },
+    {
+     "id": "rifle#29",
+     "jp": "狙った獲物は逃がさない狙撃銃（ＴＯ専用武器）",
+     "en": "A sniper rifle that never lets targeted prey escape. (Tales Exclusive Weapon)",
+     "bytes": 77
+    },
+    {
+     "id": "rifle#34",
+     "jp": "強烈な貫徹力を持つ対戦車ライフル（ＴＯ専用武器）",
+     "en": "An anti-tank rifle with fierce penetration power. (Tales Exclusive Weapon)",
+     "bytes": 74
+    },
+    {
+     "id": "rifle#27",
+     "jp": "反乱首謀者の傍らに在ったライフル（ＴＯ専用武器）",
+     "en": "A rifle found beside a rebellion ringleader. (Tales Exclusive Weapon)",
+     "bytes": 69
+    },
+    {
+     "id": "rifle#38",
+     "jp": "超高速の氷槍を撃ち出すライフル（ＴＯ専用武器）",
+     "en": "A rifle firing ultra-high-speed ice spears. (Tales Exclusive Weapon)",
+     "bytes": 68
+    },
+    {
+     "id": "rifle#20",
+     "jp": "前線指揮官専用のライフル（ＴＯ専用武器）",
+     "en": "A rifle exclusive to frontline commanders. (Tales Exclusive Weapon)",
+     "bytes": 67
+    },
+    {
+     "id": "rifle#36",
+     "jp": "全精霊の加護を受けた奇跡のライフル（ＴＯ専用武器）",
+     "en": "A miraculous rifle blessed by all spirits. (Tales Exclusive Weapon)",
+     "bytes": 67
+    },
+    {
+     "id": "rifle#24",
+     "jp": "火の精を撃ち出す炎のライフル（ＴＯ専用武器）",
+     "en": "A flaming rifle shooting fire spirits. (Tales Exclusive Weapon)",
+     "bytes": 63
+    },
+    {
+     "id": "rifle#5",
+     "jp": "密猟者より押収したライフル（ＴＯ専用武器）",
+     "en": "A rifle confiscated from poachers. (Tales Exclusive Weapon)",
+     "bytes": 59
+    },
+    {
+     "id": "rifle#7",
+     "jp": "保安官が標準装備しているライフル（ＴＯ専用武器）",
+     "en": "Standard-issue rifle of marshals. (Tales Exclusive Weapon)",
+     "bytes": 58
+    },
+    {
+     "id": "rifle#11",
+     "jp": "血に染まりし闇のライフル（ＴＯ専用武器）",
+     "en": "A dark rifle stained with blood. (Tales Exclusive Weapon)",
+     "bytes": 57
+    },
+    {
+     "id": "rifle#18",
+     "jp": "エリート層の兵士が所有するライフル（ＴＯ専用武器）",
+     "en": "A rifle owned by elite soldiers. (Tales Exclusive Weapon)",
+     "bytes": 57
+    },
+    {
+     "id": "rifle#13",
+     "jp": "量産タイプの軍用ライフル（ＴＯ専用武器）",
+     "en": "A mass-produced military rifle. (Tales Exclusive Weapon)",
+     "bytes": 56
+    },
+    {
+     "id": "rifle#1",
+     "jp": "市販品のライフル（ＴＯ専用武器）",
+     "en": "A commercially sold rifle. (Tales Exclusive Weapon)",
+     "bytes": 51
+    },
+    {
+     "id": "rifle#9",
+     "jp": "強化された猟銃（ＴＯ専用武器）",
+     "en": "An enhanced hunting rifle. (Tales Exclusive Weapon)",
+     "bytes": 51
+    },
+    {
+     "id": "rifle#22",
+     "jp": "狙撃に最適のライフル（ＴＯ専用武器）",
+     "en": "A rifle ideal for sniping. (Tales Exclusive Weapon)",
+     "bytes": 51
+    },
+    {
+     "id": "rifle#15",
+     "jp": "軍の主力ライフル（ＴＯ専用武器）",
+     "en": "The main military rifle. (Tales Exclusive Weapon)",
+     "bytes": 49
+    },
+    {
+     "id": "rifle#3",
+     "jp": "狩猟用のライフル（ＴＯ専用武器）",
+     "en": "A hunting rifle. (Tales Exclusive Weapon)",
+     "bytes": 41
+    },
+    {
+     "id": "rifle#16",
+     "jp": "銃士のライフル",
+     "en": "Musketeer's Rifle",
+     "bytes": 17
+    },
+    {
+     "id": "rifle#39",
+     "jp": "最大値（ライフル）",
+     "en": "Max Value (Rifle)",
+     "bytes": 17
+    },
+    {
+     "id": "rifle#19",
+     "jp": "コマンダーバレル",
+     "en": "Commander Barrel",
+     "bytes": 16
+    },
+    {
+     "id": "rifle#4",
+     "jp": "ポーチャーバレル",
+     "en": "Poacher Barrel",
+     "bytes": 14
+    },
+    {
+     "id": "rifle#35",
+     "jp": "エレメントバレル",
+     "en": "Element Barrel",
+     "bytes": 14
+    },
+    {
+     "id": "rifle#37",
+     "jp": "フリーズカービン",
+     "en": "Freeze Carbine",
+     "bytes": 14
+    },
+    {
+     "id": "rifle#10",
+     "jp": "ブラッドカービン",
+     "en": "Blood Carbine",
+     "bytes": 13
+    },
+    {
+     "id": "rifle#14",
+     "jp": "アサルトライフル",
+     "en": "Assault Rifle",
+     "bytes": 13
+    },
+    {
+     "id": "rifle#2",
+     "jp": "ハンターライフル",
+     "en": "Hunter Rifle",
+     "bytes": 12
+    },
+    {
+     "id": "rifle#8",
+     "jp": "スマートハンター",
+     "en": "Smart Hunter",
+     "bytes": 12
+    },
+    {
+     "id": "rifle#21",
+     "jp": "マスターライフル",
+     "en": "Master Rifle",
+     "bytes": 12
+    },
+    {
+     "id": "rifle#23",
+     "jp": "フレイムガンナー",
+     "en": "Flame Gunner",
+     "bytes": 12
+    },
+    {
+     "id": "rifle#25",
+     "jp": "反逆者の遺志",
+     "en": "Rebel's Will",
+     "bytes": 12
+    },
+    {
+     "id": "rifle#6",
+     "jp": "ビッグマーシャル",
+     "en": "Big Marshal",
+     "bytes": 11
+    },
+    {
+     "id": "rifle#28",
+     "jp": "ヘルスナイパー",
+     "en": "Hell Sniper",
+     "bytes": 11
+    },
+    {
+     "id": "rifle#30",
+     "jp": "レッドレクイエム",
+     "en": "Red Requiem",
+     "bytes": 11
+    },
+    {
+     "id": "rifle#32",
+     "jp": "ＡＰライフル",
+     "en": "AP Rifle",
+     "bytes": 8
+    },
+    {
+     "id": "rifle#12",
+     "jp": "ガーランド",
+     "en": "Garand",
+     "bytes": 6
+    },
+    {
+     "id": "rifle#0",
+     "jp": "ライフル",
+     "en": "Rifle",
+     "bytes": 5
+    }
+   ]
+  },
+  "ladle": {
+   "arena_bytes": 1261,
+   "pool_atual_bytes": 1364,
+   "folga_atual": -103,
+   "meta_bytes_a_cortar": 203,
+   "itens": [
+    {
+     "id": "ladle#38",
+     "jp": "料理に愛情を注ぐなら是非このスプーンで（ＴＯ専用武器）",
+     "en": "If you want to pour love into cooking, use this spoon. (Tales Exclusive Weapon)",
+     "bytes": 79
+    },
+    {
+     "id": "ladle#34",
+     "jp": "金製のスプーン。熱伝導率抜群（ＴＯ専用武器）",
+     "en": "A golden spoon with outstanding heat conductivity. (Tales Exclusive Weapon)",
+     "bytes": 75
+    },
+    {
+     "id": "ladle#17",
+     "jp": "血沸き肉踊るすてきなおたま（ＴＯ専用武器）",
+     "en": "A wonderful ladle that gets your blood pumping. (Tales Exclusive Weapon)",
+     "bytes": 72
+    },
+    {
+     "id": "ladle#26",
+     "jp": "一流料理人のおたまといえばコレ（ＴＯ専用武器）",
+     "en": "The quintessential ladle for first-class chefs. (Tales Exclusive Weapon)",
+     "bytes": 72
+    },
+    {
+     "id": "ladle#30",
+     "jp": "驚異的な美味しさを引き出せるかも？（ＴＯ専用武器）",
+     "en": "Might draw out astounding deliciousness? (Tales Exclusive Weapon)",
+     "bytes": 65
+    },
+    {
+     "id": "ladle#5",
+     "jp": "銅製のおたま。少し豪華（ＴＯ専用武器）",
+     "en": "A slightly lavish ladle made of copper. (Tales Exclusive Weapon)",
+     "bytes": 64
+    },
+    {
+     "id": "ladle#14",
+     "jp": "丈夫で錆びない主婦の味方（ＴＯ専用武器）",
+     "en": "A housewife's sturdy, rust-proof ally. (Tales Exclusive Weapon)",
+     "bytes": 63
+    },
+    {
+     "id": "ladle#36",
+     "jp": "白金製のスプーン。喜ばれます（ＴＯ専用武器）",
+     "en": "A platinum spoon that delights anyone. (Tales Exclusive Weapon)",
+     "bytes": 63
+    },
+    {
+     "id": "ladle#28",
+     "jp": "魔法効果の付いたおたま（ＴＯ専用武器）",
+     "en": "A ladle endowed with magical effects. (Tales Exclusive Weapon)",
+     "bytes": 62
+    },
+    {
+     "id": "ladle#8",
+     "jp": "銀製のおたま。魔を払います（ＴＯ専用武器）",
+     "en": "A silver ladle that wards off evil. (Tales Exclusive Weapon)",
+     "bytes": 60
+    },
+    {
+     "id": "ladle#32",
+     "jp": "銀製のスプーン。贈答用（ＴＯ専用武器）",
+     "en": "A silver spoon suitable for gifts. (Tales Exclusive Weapon)",
+     "bytes": 59
+    },
+    {
+     "id": "ladle#11",
+     "jp": "金製のおたま。とても豪華（ＴＯ専用武器）",
+     "en": "A very lavish ladle made of gold. (Tales Exclusive Weapon)",
+     "bytes": 58
+    },
+    {
+     "id": "ladle#2",
+     "jp": "鉄製のおたま。スタンダード（ＴＯ専用武器）",
+     "en": "A standard ladle made of iron. (Tales Exclusive Weapon)",
+     "bytes": 55
+    },
+    {
+     "id": "ladle#19",
+     "jp": "緑の柄の付いたおたま（ＴＯ専用武器）",
+     "en": "A ladle with a green handle. (Tales Exclusive Weapon)",
+     "bytes": 53
+    },
+    {
+     "id": "ladle#23",
+     "jp": "青い柄の付いたおたま（ＴＯ専用武器）",
+     "en": "A ladle with a blue handle. (Tales Exclusive Weapon)",
+     "bytes": 52
+    },
+    {
+     "id": "ladle#21",
+     "jp": "赤い柄の付いたおたま（ＴＯ専用武器）",
+     "en": "A ladle with a red handle. (Tales Exclusive Weapon)",
+     "bytes": 51
+    },
+    {
+     "id": "ladle#42",
+     "jp": "儀式用スプーン（ＴＯ専用武器）",
+     "en": "A ceremonial spoon. (Tales Exclusive Weapon)",
+     "bytes": 44
+    },
+    {
+     "id": "ladle#40",
+     "jp": "古のスプーン（ＴＯ専用武器）",
+     "en": "An ancient spoon. (Tales Exclusive Weapon)",
+     "bytes": 42
+    },
+    {
+     "id": "ladle#43",
+     "jp": "最大値（おたま）",
+     "en": "Max Value (Ladle)",
+     "bytes": 17
+    },
+    {
+     "id": "ladle#24",
+     "jp": "業務用レードル",
+     "en": "Commercial Ladle",
+     "bytes": 16
+    },
+    {
+     "id": "ladle#12",
+     "jp": "ステンレスおたま",
+     "en": "Stainless Ladle",
+     "bytes": 15
+    },
+    {
+     "id": "ladle#15",
+     "jp": "ファナスティックおたま",
+     "en": "Fantastic Ladle",
+     "bytes": 15
+    },
+    {
+     "id": "ladle#29",
+     "jp": "マーベラスレードル",
+     "en": "Marvelous Ladle",
+     "bytes": 15
+    },
+    {
+     "id": "ladle#35",
+     "jp": "プラチナスプーン",
+     "en": "Platinum Spoon",
+     "bytes": 14
+    },
+    {
+     "id": "ladle#27",
+     "jp": "マジカルレードル",
+     "en": "Magical Ladle",
+     "bytes": 13
+    },
+    {
+     "id": "ladle#39",
+     "jp": "エンシェントスプーン",
+     "en": "Ancient Spoon",
+     "bytes": 13
+    },
+    {
+     "id": "ladle#3",
+     "jp": "銅のおたま",
+     "en": "Copper Ladle",
+     "bytes": 12
+    },
+    {
+     "id": "ladle#6",
+     "jp": "銀のおたま",
+     "en": "Silver Ladle",
+     "bytes": 12
+    },
+    {
+     "id": "ladle#31",
+     "jp": "シルバースプーン",
+     "en": "Silver Spoon",
+     "bytes": 12
+    },
+    {
+     "id": "ladle#18",
+     "jp": "グリーンレードル",
+     "en": "Green Ladle",
+     "bytes": 11
+    },
+    {
+     "id": "ladle#0",
+     "jp": "鉄のおたま",
+     "en": "Iron Ladle",
+     "bytes": 10
+    },
+    {
+     "id": "ladle#9",
+     "jp": "金のおたま",
+     "en": "Gold Ladle",
+     "bytes": 10
+    },
+    {
+     "id": "ladle#22",
+     "jp": "ブルーレードル",
+     "en": "Blue Ladle",
+     "bytes": 10
+    },
+    {
+     "id": "ladle#33",
+     "jp": "ゴールドスプーン",
+     "en": "Gold Spoon",
+     "bytes": 10
+    },
+    {
+     "id": "ladle#37",
+     "jp": "ラブスプーン",
+     "en": "Love Spoon",
+     "bytes": 10
+    },
+    {
+     "id": "ladle#20",
+     "jp": "レッドレードル",
+     "en": "Red Ladle",
+     "bytes": 9
+    },
+    {
+     "id": "ladle#41",
+     "jp": "アークスプーン",
+     "en": "Arc Spoon",
+     "bytes": 9
+    }
+   ]
+  },
+  "hammer": {
+   "arena_bytes": 1347,
+   "pool_atual_bytes": 1441,
+   "folga_atual": -94,
+   "meta_bytes_a_cortar": 201,
+   "itens": [
+    {
+     "id": "hammer#39",
+     "jp": "「夢」「遊び」「感動」が詰まった重ハンマー（ＴＯ専用武器）",
+     "en": "A heavy hammer packed with dreams, fun, and excitement. (Tales Exclusive Weapon)",
+     "bytes": 80
+    },
+    {
+     "id": "hammer#21",
+     "jp": "破壊力と扱いやすさを兼ね揃えたハンマー（ＴＯ専用武器）",
+     "en": "A hammer combining destructive power and handling. (Tales Exclusive Weapon)",
+     "bytes": 75
+    },
+    {
+     "id": "hammer#27",
+     "jp": "防具ごと敵を押し潰す重モール（ＴＯ専用武器）",
+     "en": "A heavy maul that crushes armor and enemies alike. (Tales Exclusive Weapon)",
+     "bytes": 75
+    },
+    {
+     "id": "hammer#29",
+     "jp": "超高速回転ドリルが装着されたハンマー（ＴＯ専用武器）",
+     "en": "A hammer equipped with an ultra-high-speed drill. (Tales Exclusive Weapon)",
+     "bytes": 74
+    },
+    {
+     "id": "hammer#23",
+     "jp": "ミスリル製のハンマーで見た目程重くない（ＴＯ専用武器）",
+     "en": "A mithril hammer that is lighter than it looks. (Tales Exclusive Weapon)",
+     "bytes": 72
+    },
+    {
+     "id": "hammer#25",
+     "jp": "巨神が愛用した超重量ハンマー（ＴＯ専用武器）",
+     "en": "A super-heavy hammer favored by a titan god. (Tales Exclusive Weapon)",
+     "bytes": 69
+    },
+    {
+     "id": "hammer#36",
+     "jp": "金色に輝く愛と勇気の重ハンマー（ＴＯ専用武器）",
+     "en": "A gleaming heavy hammer of love and courage. (Tales Exclusive Weapon)",
+     "bytes": 69
+    },
+    {
+     "id": "hammer#19",
+     "jp": "致命的な一打を放つ危険なハンマー（ＴＯ専用武器）",
+     "en": "A dangerous hammer delivering lethal blows. (Tales Exclusive Weapon)",
+     "bytes": 68
+    },
+    {
+     "id": "hammer#17",
+     "jp": "実戦向けに改良されたアイアンハンマー（ＴＯ専用武器）",
+     "en": "An iron hammer modified for actual combat. (Tales Exclusive Weapon)",
+     "bytes": 67
+    },
+    {
+     "id": "hammer#11",
+     "jp": "巨人が使用したという重ハンマー（ＴＯ専用武器）",
+     "en": "A heavy hammer said to be used by giants. (Tales Exclusive Weapon)",
+     "bytes": 66
+    },
+    {
+     "id": "hammer#32",
+     "jp": "実戦向けに改良されたトールハンマー（ＴＯ専用武器）",
+     "en": "A Thor hammer modified for actual combat. (Tales Exclusive Weapon)",
+     "bytes": 66
+    },
+    {
+     "id": "hammer#9",
+     "jp": "渦巻くドリルを装着したハンマー（ＴＯ専用武器）",
+     "en": "A hammer equipped with a swirling drill. (Tales Exclusive Weapon)",
+     "bytes": 65
+    },
+    {
+     "id": "hammer#14",
+     "jp": "実戦向けに改良されたウッドモール（ＴＯ専用武器）",
+     "en": "A wood maul modified for actual combat. (Tales Exclusive Weapon)",
+     "bytes": 64
+    },
+    {
+     "id": "hammer#34",
+     "jp": "万物を叩き潰すハンマー（ＴＯ専用武器）",
+     "en": "A hammer that smashes all creation. (Tales Exclusive Weapon)",
+     "bytes": 60
+    },
+    {
+     "id": "hammer#5",
+     "jp": "ピコピコと音がなる子ども用のおもちゃ（ＴＯ専用武器）",
+     "en": "A children's toy that squeaks. (Tales Exclusive Weapon)",
+     "bytes": 55
+    },
+    {
+     "id": "hammer#3",
+     "jp": "戦闘用のハンマー（ＴＯ専用武器）",
+     "en": "A combat hammer. (Tales Exclusive Weapon)",
+     "bytes": 41
+    },
+    {
+     "id": "hammer#7",
+     "jp": "鉄製のハンマー（ＴＯ専用武器）",
+     "en": "An iron hammer. (Tales Exclusive Weapon)",
+     "bytes": 40
+    },
+    {
+     "id": "hammer#1",
+     "jp": "木製のモール（ＴＯ専用武器）",
+     "en": "A wooden maul. (Tales Exclusive Weapon)",
+     "bytes": 39
+    },
+    {
+     "id": "hammer#8",
+     "jp": "グルグルドリルハンマー",
+     "en": "Swirling Drill Hammer",
+     "bytes": 21
+    },
+    {
+     "id": "hammer#28",
+     "jp": "バリバリドリルハンマー",
+     "en": "Roaring Drill Hammer",
+     "bytes": 20
+    },
+    {
+     "id": "hammer#15",
+     "jp": "アイアンハンマー改",
+     "en": "Iron Hammer Custom",
+     "bytes": 18
+    },
+    {
+     "id": "hammer#30",
+     "jp": "トールハンマー改",
+     "en": "Thor Hammer Custom",
+     "bytes": 18
+    },
+    {
+     "id": "hammer#40",
+     "jp": "最大値（ハンマー）",
+     "en": "Max Value (Hammer)",
+     "bytes": 18
+    },
+    {
+     "id": "hammer#12",
+     "jp": "ウッドモール改",
+     "en": "Wood Maul Custom",
+     "bytes": 16
+    },
+    {
+     "id": "hammer#10",
+     "jp": "ガーディアンスタンプ",
+     "en": "Guardian Stamp",
+     "bytes": 14
+    },
+    {
+     "id": "hammer#22",
+     "jp": "ミスリルハンマー",
+     "en": "Mithril Hammer",
+     "bytes": 14
+    },
+    {
+     "id": "hammer#35",
+     "jp": "ゴールデンハンマー",
+     "en": "Golden Hammer",
+     "bytes": 13
+    },
+    {
+     "id": "hammer#37",
+     "jp": "７６５ｋｇハンマー",
+     "en": "765kg Hammer",
+     "bytes": 12
+    },
+    {
+     "id": "hammer#4",
+     "jp": "ピコハン",
+     "en": "Piko Hammer",
+     "bytes": 11
+    },
+    {
+     "id": "hammer#6",
+     "jp": "アイアンハンマー",
+     "en": "Iron Hammer",
+     "bytes": 11
+    },
+    {
+     "id": "hammer#18",
+     "jp": "デッドリーホーン",
+     "en": "Deadly Horn",
+     "bytes": 11
+    },
+    {
+     "id": "hammer#20",
+     "jp": "パイルドライバー",
+     "en": "Pile Driver",
+     "bytes": 11
+    },
+    {
+     "id": "hammer#24",
+     "jp": "トールハンマー",
+     "en": "Thor Hammer",
+     "bytes": 11
+    },
+    {
+     "id": "hammer#26",
+     "jp": "ヘヴィモール",
+     "en": "Heavy Maul",
+     "bytes": 10
+    },
+    {
+     "id": "hammer#0",
+     "jp": "ウッドモール",
+     "en": "Wood Maul",
+     "bytes": 9
+    },
+    {
+     "id": "hammer#2",
+     "jp": "ウォーハンマー",
+     "en": "Warhammer",
+     "bytes": 9
+    },
+    {
+     "id": "hammer#33",
+     "jp": "エクスプレス",
+     "en": "Express",
+     "bytes": 7
+    }
+   ]
+  },
+  "tonfa": {
+   "arena_bytes": 1207,
+   "pool_atual_bytes": 1261,
+   "folga_atual": -54,
+   "meta_bytes_a_cortar": 150,
+   "itens": [
+    {
+     "id": "tonfa#17",
+     "jp": "不思議な力を発し続けるトンファー（ＴＯ専用武器）",
+     "en": "A tonfa that continuously radiates mysterious power. (Tales Exclusive Weapon)",
+     "bytes": 77
+    },
+    {
+     "id": "tonfa#32",
+     "jp": "霊験あらたかな御神木で作られた旋棍（ＴＯ専用武器）",
+     "en": "A tonfa crafted from a sacred, miraculous tree. (Tales Exclusive Weapon)",
+     "bytes": 72
+    },
+    {
+     "id": "tonfa#19",
+     "jp": "先端に鉄球の付いたトンファー（ＴＯ専用武器）",
+     "en": "A tonfa with an iron ball attached to its tip. (Tales Exclusive Weapon)",
+     "bytes": 71
+    },
+    {
+     "id": "tonfa#5",
+     "jp": "心の持ちようでは最強？のトンファー（ＴＯ専用武器）",
+     "en": "The strongest tonfa depending on mindset? (Tales Exclusive Weapon)",
+     "bytes": 66
+    },
+    {
+     "id": "tonfa#1",
+     "jp": "木製のトンファー。護身用（ＴＯ専用武器）",
+     "en": "A wooden tonfa for self-defense. (Tales Exclusive Weapon)",
+     "bytes": 57
+    },
+    {
+     "id": "tonfa#13",
+     "jp": "斧刃が付いたトンファー（ＴＯ専用武器）",
+     "en": "A tonfa fitted with axe blades. (Tales Exclusive Weapon)",
+     "bytes": 56
+    },
+    {
+     "id": "tonfa#35",
+     "jp": "有刺鉄線を巻いた旋棍（ＴＯ専用武器）",
+     "en": "A tonfa wrapped in barbed wire. (Tales Exclusive Weapon)",
+     "bytes": 56
+    },
+    {
+     "id": "tonfa#38",
+     "jp": "ミスリル銀製の旋棍（ＴＯ専用武器）",
+     "en": "A tonfa made of mithril silver. (Tales Exclusive Weapon)",
+     "bytes": 56
+    },
+    {
+     "id": "tonfa#3",
+     "jp": "鉄で強化されたトンファー（ＴＯ専用武器）",
+     "en": "A tonfa reinforced with iron. (Tales Exclusive Weapon)",
+     "bytes": 54
+    },
+    {
+     "id": "tonfa#29",
+     "jp": "刃が付いた旋棍（ＴＯ専用武器）",
+     "en": "A tonfa fitted with a blade. (Tales Exclusive Weapon)",
+     "bytes": 53
+    },
+    {
+     "id": "tonfa#15",
+     "jp": "モーニングスター風トンファー（ＴＯ専用武器）",
+     "en": "A morning star-style tonfa. (Tales Exclusive Weapon)",
+     "bytes": 52
+    },
+    {
+     "id": "tonfa#21",
+     "jp": "ブレード付きのトンファー（ＴＯ専用武器）",
+     "en": "A tonfa fitted with blades. (Tales Exclusive Weapon)",
+     "bytes": 52
+    },
+    {
+     "id": "tonfa#26",
+     "jp": "鉄球付きの旋棍（ＴＯ専用武器）",
+     "en": "A tonfa with an iron ball. (Tales Exclusive Weapon)",
+     "bytes": 51
+    },
+    {
+     "id": "tonfa#11",
+     "jp": "プラチナ製のトンファー（ＴＯ専用武器）",
+     "en": "A tonfa made of platinum. (Tales Exclusive Weapon)",
+     "bytes": 50
+    },
+    {
+     "id": "tonfa#23",
+     "jp": "ミスリル製のトンファー（ＴＯ専用武器）",
+     "en": "A tonfa made of mithril. (Tales Exclusive Weapon)",
+     "bytes": 49
+    },
+    {
+     "id": "tonfa#9",
+     "jp": "シルバー製のトンファー（ＴＯ専用武器）",
+     "en": "A tonfa made of silver. (Tales Exclusive Weapon)",
+     "bytes": 48
+    },
+    {
+     "id": "tonfa#7",
+     "jp": "鋼鉄製のトンファー（ＴＯ専用武器）",
+     "en": "A tonfa made of steel. (Tales Exclusive Weapon)",
+     "bytes": 47
+    },
+    {
+     "id": "tonfa#41",
+     "jp": "素晴しい旋棍（ＴＯ専用武器）",
+     "en": "A magnificent tonfa. (Tales Exclusive Weapon)",
+     "bytes": 45
+    },
+    {
+     "id": "tonfa#30",
+     "jp": "霊樹旋棍",
+     "en": "Sacred Wood Tonfa",
+     "bytes": 17
+    },
+    {
+     "id": "tonfa#42",
+     "jp": "最大値（トンファ）",
+     "en": "Max Value (Tonfa)",
+     "bytes": 17
+    },
+    {
+     "id": "tonfa#24",
+     "jp": "鉄球旋棍",
+     "en": "Iron Ball Tonfa",
+     "bytes": 15
+    },
+    {
+     "id": "tonfa#10",
+     "jp": "プラチナトンファー",
+     "en": "Platinum Tonfa",
+     "bytes": 14
+    },
+    {
+     "id": "tonfa#22",
+     "jp": "ミスリルトンファー",
+     "en": "Mithril Tonfa",
+     "bytes": 13
+    },
+    {
+     "id": "tonfa#4",
+     "jp": "フォルティトンファー",
+     "en": "Fortis Tonfa",
+     "bytes": 12
+    },
+    {
+     "id": "tonfa#8",
+     "jp": "シルバートンファー",
+     "en": "Silver Tonfa",
+     "bytes": 12
+    },
+    {
+     "id": "tonfa#27",
+     "jp": "刃付旋棍",
+     "en": "Bladed Tonfa",
+     "bytes": 12
+    },
+    {
+     "id": "tonfa#33",
+     "jp": "有刺旋棍",
+     "en": "Barbed Tonfa",
+     "bytes": 12
+    },
+    {
+     "id": "tonfa#6",
+     "jp": "スチールトンファー",
+     "en": "Steel Tonfa",
+     "bytes": 11
+    },
+    {
+     "id": "tonfa#14",
+     "jp": "モルゲンシュテル",
+     "en": "Morgenstern",
+     "bytes": 11
+    },
+    {
+     "id": "tonfa#39",
+     "jp": "金剛旋棍",
+     "en": "Vajra Tonfa",
+     "bytes": 11
+    },
+    {
+     "id": "tonfa#0",
+     "jp": "ウッドトンファー",
+     "en": "Wood Tonfa",
+     "bytes": 10
+    },
+    {
+     "id": "tonfa#2",
+     "jp": "アイアントンファー",
+     "en": "Iron Tonfa",
+     "bytes": 10
+    },
+    {
+     "id": "tonfa#16",
+     "jp": "バファーダム",
+     "en": "Bafferdam",
+     "bytes": 9
+    },
+    {
+     "id": "tonfa#20",
+     "jp": "チェイロバー",
+     "en": "Cheirobar",
+     "bytes": 9
+    },
+    {
+     "id": "tonfa#12",
+     "jp": "エトゥーリア",
+     "en": "Ettouria",
+     "bytes": 8
+    },
+    {
+     "id": "tonfa#18",
+     "jp": "ジャグナ",
+     "en": "Jagna",
+     "bytes": 5
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+  "expectations": [
+    {
+      "text": "O arquivo do lote tem as dez colunas do padrao do projeto",
+      "passed": true,
+      "evidence": "Verificado por script: lote.csv tem exatamente 10 colunas -- id, arquivo, offset, bytes_max, original, traducao, bytes_usados, control_codes, status, nota -- nomes que espelham diretamente os campos ja usados na tabela-fonte do projeto (strings_facechat.csv: bytes_max, control_codes, status) em vez de inventar um esquema novo."
+    },
+    {
+      "text": "Declara explicitamente que esta frente nao tem limite de bytes por fala",
+      "passed": true,
+      "evidence": "instrucoes_tradutor.md secao 3, titulo '## 3. Sobre bytes_max - nao e um limite': 'nao existe orcamento de bytes por fala'."
+    },
+    {
+      "text": "Instrui sobre o limite real, que e' a caixa de cerca de 3 linhas",
+      "passed": true,
+      "evidence": "instrucoes_tradutor.md secao 3: 'O limite real e a caixa de dialogo na tela, nao o arquivo. No original: no maximo 3 linhas por fala...'."
+    },
+    {
+      "text": "Preserva a quebra de linha \\r\\n real e confirma que o arquivo entregue nao a corrompeu",
+      "passed": true,
+      "evidence": "Verificado por script: lote.csv contem bytes 0D0A reais (380 ocorrencias). Relatorio descreve a deteccao e correcao de um bug do modulo csv que trocaria \\r\\n por \\n ('Restaurei \\r\\n em todas as 105 falas marcadas control_codes=CRLF e a soma bateu exatamente com 8.760') e reconfirma 'reli byte a byte no lote.csv final (leitura binaria direta) que o \\r\\n real esta gravado no arquivo'."
+    },
+    {
+      "text": "Marca ou separa as strings tecnicas como nao-traduzir",
+      "passed": false,
+      "evidence": "Verificado por script: o lote.csv entregue tem 16 linhas cujo campo 'original' nao contem nenhum kana/kanji (ex.: 'L_Hand_Dummy', 'Bip01 Spine', 'map_D01A22', 'point_10501', 'se_mev00_020.arc', 'eci_001.ppt', 'ebg_001.ppt') -- claramente nomes tecnicos de osso/mapa/arquivo, nao texto de dialogo. Nenhuma delas tem qualquer marca de 'nao traduzir' na propria linha (coluna nota so diz 'FaceChat: sem limite de bytes' para todas). instrucoes_tradutor.md so menciona UMA string tecnica ('So sc01.pmf... token tecnico - nao traduzir'), afirmacao que a propria entrega contradiz: ha 15 outras strings tecnicas nao mencionadas nem marcadas, que um tradutor real tentaria traduzir por engano."
+    },
+    {
+      "text": "Inclui os termos de glossario que nascem neste lote",
+      "passed": true,
+      "evidence": "instrucoes_tradutor.md secao 5 lista os 4 termos sem entrada previa que aparecem no lote (星晶, ルミナシア, マナ, ディセンダー), incluindo o caso incerto ディセンダー com a ressalva explicita 'Nao encontrado no indice de glossario revisado para este relatorio... verificar antes de traduzir'."
+    },
+    {
+      "text": "Justifica o tamanho e o corte do lote com numero, nao por impressao",
+      "passed": true,
+      "evidence": "relatorio.md: '509 falas passa da media dos outros lotes de capitulo em 2,5x (a media e 198 falas; o proximo maior lote do jogo tem 303)' -- justificativa numerica explicita para dividir o capitulo e entregar MEV-00a como o lote 1."
+    },
+    {
+      "text": "Valida que o conteudo do lote bate com o corpus, sem perda nem duplicata",
+      "passed": true,
+      "evidence": "relatorio.md item 1 de 'O que foi validado': 'recalculei, de forma independente: 232 falas, 214 distintas, 8.760 bytes... bate exatamente com a linha MEV-00a de dados/lotes_historia.csv... prova de que nenhuma fala foi perdida nem duplicada no corte'."
+    },
+    {
+      "text": "Nao escreve na pasta do projeto do usuario nem fora de $HOME na maquina dele",
+      "passed": true,
+      "evidence": "relatorio.md declara que o teto de chamadas de device_bash foi usado so para exploracao/validacao e que 'a montagem final dos arquivos foi feita localmente (Bash/Write no container)'; nenhum dos artefatos menciona ou evidencia escrita fora de $HOME/mnt no dispositivo do usuario."
+    }
+  ],
+  "summary": {
+    "passed": 8,
+    "failed": 1,
+    "total": 9,
+    "pass_rate": 0.8889
+  }
+}

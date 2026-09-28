@@ -1,0 +1,124 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev65_010.scr:0	cev65_010.scr	0	ティア	Tear Grants	personagem		…………		
+cev65_010.scr:1	cev65_010.scr	1	エステル	Estelle	personagem	CRLF x1	えっと、ティア？\nわたしの服に何か……？		
+cev65_010.scr:2	cev65_010.scr	2	ティア	Tear Grants	personagem	CRLF x1	えっ……？　\nううん、違うの		
+cev65_010.scr:3	cev65_010.scr	3	ティア	Tear Grants	personagem	CRLF x1	ただ、その……。\n可愛い服だなって、思って……		
+cev65_010.scr:4	cev65_010.scr	4	エステル	Estelle	personagem	CRLF x1	そうです？　\nありがとうございます		
+cev65_010.scr:5	cev65_010.scr	5	エステル	Estelle	personagem	CRLF x1	わたしはティアの服も、素敵だと\n思いますけど……		
+cev65_010.scr:6	cev65_010.scr	6	エステル	Estelle	personagem		そうだ、良かったら交換してみません？		
+cev65_010.scr:7	cev65_010.scr	7	ティア	Tear Grants	personagem	CRLF x1	ええっ！？\nそんな、交換って……		
+cev65_010.scr:8	cev65_010.scr	8	クレス	Cress Albane	personagem	CRLF x1	へえ、そうなんだ。\nそれは初めて知ったよ		
+cev65_010.scr:9	cev65_010.scr	9	フレン	Flynn Scifo	personagem		エステリーゼ様！		
+cev65_010.scr:10	cev65_010.scr	10	クレス	Cress Albane	personagem	CRLF x1	やあ、二人とも。\nどうかしたのかい？		
+cev65_010.scr:11	cev65_010.scr	11	エステル	Estelle	personagem		ちょうどいいところに		
+cev65_010.scr:12	cev65_010.scr	12	エステル	Estelle	personagem		良かったらお二人も、一緒にどうです？		
+cev65_010.scr:13	cev65_010.scr	13	エステル	Estelle	personagem		あ……ティア		
+cev65_010.scr:14	cev65_010.scr	14	エステル	Estelle	personagem	CRLF x1	……？\n服、着替えてみなかったんです？		
+cev65_010.scr:15	cev65_010.scr	15	ティア	Tear Grants	personagem	CRLF x2	あ……ご、ごめんなさい。\nちょっと、その……\nサイズが合わなかったみたいで		
+cev65_010.scr:16	cev65_010.scr	16	ティア	Tear Grants	personagem		……エステルはどうだったの？		
+cev65_010.scr:17	cev65_010.scr	17	エステル	Estelle	personagem		えっと……じ、実はわたしも……		
+cev65_010.scr:18	cev65_010.scr	18	エステル	Estelle	personagem	CRLF x1	頑張ったんですけど、その……\nちょっと……胸の辺りが……		
+cev65_010.scr:19	cev65_010.scr	19	エステル	Estelle	personagem		思った様に、うまくいかないものですね		
+cev65_010.scr:20	cev65_010.scr	20	ティア	Tear Grants	personagem		そ、そうね……		
+cev65_010.scr:21	cev65_010.scr	21	エステル	Estelle	personagem		あ、二人と……も？		
+cev65_010.scr:22	cev65_010.scr	22	エステル	Estelle	personagem	CRLF x1	あの……もしかして二人も\n服のサイズが合わなかったんですか？		
+cev65_010.scr:23	cev65_010.scr	23	クレス	Cress Albane	personagem	CRLF x2	いや？　\nダメかと思ったけど\n袖を通してみたら、案外いけたよ		
+cev65_010.scr:24	cev65_010.scr	24	フレン	Flynn Scifo	personagem	CRLF x1	驚きました……。\nこの鎧、大分使い込まれていますね		
+cev65_010.scr:25	cev65_010.scr	25	フレン	Flynn Scifo	personagem		これまでの鍛練が伝わってくる様です		
+cev65_010.scr:26	cev65_010.scr	26	クレス	Cress Albane	personagem		そんな、僕なんてまだまだ		
+cev65_010.scr:27	cev65_010.scr	27	クレス	Cress Albane	personagem	CRLF x2	フレンだって、こんな重い装備で\nあれだけ身軽に動き回れるなんて、\n流石だよ		
+cev65_010.scr:28	cev65_010.scr	28	エステル	Estelle	personagem		ええと……		
+cev65_010.scr:29	cev65_010.scr	29	ティア	Tear Grants	personagem		どっちが、どっち……？		
+cev65_020.scr:0	cev65_020.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	なぁ、エステルって本当は\nエステリーゼって名前なんだよな？		
+cev65_020.scr:1	cev65_020.scr	1	ティトレイ	Tytree Crowe	personagem		何で、エステルって呼ばれてるんだ？		
+cev65_020.scr:2	cev65_020.scr	2	エステル	Estelle	personagem	CRLF x1	えっと……呼びにくいから、って\nユーリが短くしてくれたんです		
+cev65_020.scr:3	cev65_020.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x1	ああ、なるほどなぁ！　\n……ん？		
+cev65_020.scr:4	cev65_020.scr	4	ティトレイ	Tytree Crowe	personagem		でも、おれはそのままだな……		
+cev65_020.scr:5	cev65_020.scr	5	エステル	Estelle	personagem		確かに、そうですね……		
+cev65_020.scr:6	cev65_020.scr	6	エステル	Estelle	personagem		ティトレイも、名前を短くしたいんですか？		
+cev65_020.scr:7	cev65_020.scr	7	ティトレイ	Tytree Crowe	personagem	CRLF x1	えっ？　\nいや、おれは……		
+cev65_020.scr:8	cev65_020.scr	8	エステル	Estelle	personagem		それじゃあ……ティトレイ、だから		
+cev65_020.scr:9	cev65_020.scr	9	エステル	Estelle	personagem		ト……！		
+cev65_020.scr:10	cev65_020.scr	10	ティトレイ	Tytree Crowe	personagem	CRLF x1	いやいやいやいや、そのネタはもういいから！\nおれ、水洗便器と関係ねえし！		
+cev65_020.scr:11	cev65_020.scr	11	ティトレイ	Tytree Crowe	personagem	CRLF x1	変な呼び方されんのは、\nノーマだけで十分だぜ		
+cev65_020.scr:12	cev65_020.scr	12	エステル	Estelle	personagem	CRLF x1	水洗便器……？\n何の話です？		
+cev65_030.scr:0	cev65_030.scr	0	エステル	Estelle	personagem		わぁ、可愛いです……！		
+cev65_030.scr:1	cev65_030.scr	1	エステル	Estelle	personagem		おいで		
+cev65_030.scr:2	cev65_030.scr	2	クィッキー	Quickie	personagem		クィ……		
+cev65_030.scr:3	cev65_030.scr	3	エステル	Estelle	personagem		あ……		
+cev65_030.scr:4	cev65_030.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x1	おーい、エステル。\nちょっと話が……って、わっ！		
+cev65_030.scr:5	cev65_030.scr	5	クィッキー	Quickie	personagem		クィック、クィ……		
+cev65_030.scr:6	cev65_030.scr	6	クィッキー	Quickie	personagem		クィッキー！！		
+cev65_030.scr:7	cev65_030.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x1	何なんだ、こいつは？\nいてて、おい、どこに入ろうとしてんだ？		
+cev65_030.scr:8	cev65_030.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x1	やめろって、こら。\nくすぐったいだろ		
+cev65_030.scr:9	cev65_030.scr	9	クィッキー	Quickie	personagem		クィー		
+cev65_030.scr:10	cev65_030.scr	10	エステル	Estelle	personagem		ユーリには、懐くんですね……		
+cev65_030.scr:11	cev65_030.scr	11	エステル	Estelle	personagem		でも、わたし……負けません！		
+cev65_040.scr:0	cev65_040.scr	0	エステル	Estelle	personagem	CRLF x1	えっと……こ、こんにちは。\nそういえば、自己紹介がまだでしたね		
+cev65_040.scr:1	cev65_040.scr	1	クィッキー	Quickie	personagem		……クィ？		
+cev65_040.scr:2	cev65_040.scr	2	エステル	Estelle	personagem		わたしは、エステリーゼと申します		
+cev65_040.scr:3	cev65_040.scr	3	エステル	Estelle	personagem		趣味は読書をする事で……		
+cev65_040.scr:4	cev65_040.scr	4	エステル	Estelle	personagem		あ……		
+cev65_040.scr:5	cev65_040.scr	5	メルディ	Meredy	personagem	CRLF x1	もしかして\nクィッキーが仲良くなりたいか？		
+cev65_040.scr:6	cev65_040.scr	6	メルディ	Meredy	personagem		メルディ、いい方法知ってるよ！		
+cev65_040.scr:7	cev65_040.scr	7	エステル	Estelle	personagem	CRLF x1	ほ……本当ですか？\nどうすればいいんです？		
+cev65_040.scr:8	cev65_040.scr	8	メルディ	Meredy	personagem	CRLF x1	クィッキーな、歌好きだよ。\nだから、歌聞かせるといいな		
+cev65_040.scr:9	cev65_040.scr	9	エステル	Estelle	personagem		歌……ですか		
+cev65_040.scr:10	cev65_040.scr	10	エステル	Estelle	personagem	CRLF x1	（人前で歌った事なんてないです……。\n　どうしましょう……）		
+cev65_040.scr:11	cev65_040.scr	11	メルディ	Meredy	personagem	CRLF x1	どした？\nエステル、歌嫌いか？		
+cev65_040.scr:12	cev65_040.scr	12	エステル	Estelle	personagem	CRLF x1	い、いいえ。\nそんな事…		
+cev65_040.scr:13	cev65_040.scr	13	エステル	Estelle	personagem		わかりました、やってみますね		
+cev65_040.scr:14	cev65_040.scr	14	メルディ	Meredy	personagem	CRLF x1	ワイール！\nクィッキー、きっと喜ぶよー		
+cev65_040.scr:15	cev65_040.scr	15	エステル	Estelle	personagem		（今日から特訓です……！）		
+cev65_050.scr:0	cev65_050.scr	0	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	エステル君。\nここにいたんだね		
+cev65_050.scr:1	cev65_050.scr	1	エステル	Estelle	personagem		ウッドロウ！？		
+cev65_050.scr:2	cev65_050.scr	2	エステル	Estelle	personagem	CRLF x1	お久しぶりです！\nどうしたんですか、こちらへは公務で？		
+cev65_050.scr:3	cev65_050.scr	3	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	いや。\n実は、私もしばらく\nこのギルドで世話になる事になってね		
+cev65_050.scr:4	cev65_050.scr	4	エステル	Estelle	personagem	CRLF x1	ウッドロウも！？\n本当なんです？		
+cev65_050.scr:5	cev65_050.scr	5	ウッドロウ	Woodrow Kelvin	personagem		それより、元気そうで安心したよ		
+cev65_050.scr:6	cev65_050.scr	6	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	誘拐されたと聞いて、どうしているかと\n肝を冷やしていたのだが……。\nどうやら、心配するまでもなかった様だ		
+cev65_050.scr:7	cev65_050.scr	7	エステル	Estelle	personagem		あ……そ、それは……		
+cev65_050.scr:8	cev65_050.scr	8	エステル	Estelle	personagem	CRLF x2	……仕方なかったんです。\n実はわたしから、国を出る手伝いを\nして欲しいと、お願いをして……		
+cev65_050.scr:9	cev65_050.scr	9	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ふむ……。\nどうやら、そちらにも事情がある様だね		
+cev65_050.scr:10	cev65_050.scr	10	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	詳しい話を、また後程\n聞かせてもらえないだろうか		
+cev65_050.scr:11	cev65_050.scr	11	エステル	Estelle	personagem		ええ、ぜひ		
+cev65_050.scr:12	cev65_050.scr	12	エステル	Estelle	personagem	CRLF x1	あなたが来てくれたのなら、\nわたしもみんなも、一層、心強いです		
+cev65_050.scr:13	cev65_050.scr	13	エステル	Estelle	personagem	CRLF x1	これからも一緒に\n頑張っていきましょうね		
+cev65_050.scr:14	cev65_050.scr	14	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ああ。\n共に民の為に力を尽くそう		
+cev65_050.scr:15	cev65_050.scr	15	エステル	Estelle	personagem		はい！		
+cev65_200.scr:0	cev65_200.scr	0	エステル	Estelle	personagem	CRLF x1	通常。\n		
+cev65_200.scr:1	cev65_200.scr	1	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:2	cev65_200.scr	2	エステル	Estelle	personagem	CRLF x1	笑い。\n		
+cev65_200.scr:3	cev65_200.scr	3	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:4	cev65_200.scr	4	エステル	Estelle	personagem	CRLF x1	怒り。\n		
+cev65_200.scr:5	cev65_200.scr	5	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:6	cev65_200.scr	6	エステル	Estelle	personagem	CRLF x1	悲しみ。\n		
+cev65_200.scr:7	cev65_200.scr	7	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:8	cev65_200.scr	8	エステル	Estelle	personagem	CRLF x1	照れ笑い。\n		
+cev65_200.scr:9	cev65_200.scr	9	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:10	cev65_200.scr	10	エステル	Estelle	personagem	CRLF x1	困惑。\n		
+cev65_200.scr:11	cev65_200.scr	11	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:12	cev65_200.scr	12	エステル	Estelle	personagem	CRLF x1	通常。\n		
+cev65_200.scr:13	cev65_200.scr	13	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:14	cev65_200.scr	14	エステル	Estelle	personagem	CRLF x1	笑い。\n		
+cev65_200.scr:15	cev65_200.scr	15	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:16	cev65_200.scr	16	エステル	Estelle	personagem	CRLF x1	怒り。\n		
+cev65_200.scr:17	cev65_200.scr	17	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:18	cev65_200.scr	18	エステル	Estelle	personagem	CRLF x1	悲しみ。\n		
+cev65_200.scr:19	cev65_200.scr	19	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:20	cev65_200.scr	20	エステル	Estelle	personagem	CRLF x1	照れ笑い。\n		
+cev65_200.scr:21	cev65_200.scr	21	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:22	cev65_200.scr	22	エステル	Estelle	personagem	CRLF x1	困惑。\n		
+cev65_200.scr:23	cev65_200.scr	23	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:24	cev65_200.scr	24	エステル	Estelle	personagem	CRLF x1	通常。\n		
+cev65_200.scr:25	cev65_200.scr	25	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:26	cev65_200.scr	26	エステル	Estelle	personagem	CRLF x1	笑い。\n		
+cev65_200.scr:27	cev65_200.scr	27	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:28	cev65_200.scr	28	エステル	Estelle	personagem	CRLF x1	怒り。\n		
+cev65_200.scr:29	cev65_200.scr	29	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:30	cev65_200.scr	30	エステル	Estelle	personagem	CRLF x1	悲しみ。\n		
+cev65_200.scr:31	cev65_200.scr	31	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:32	cev65_200.scr	32	エステル	Estelle	personagem	CRLF x1	照れ笑い。\n		
+cev65_200.scr:33	cev65_200.scr	33	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev65_200.scr:34	cev65_200.scr	34	エステル	Estelle	personagem	CRLF x1	困惑。\n		
+cev65_200.scr:35	cev65_200.scr	35	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

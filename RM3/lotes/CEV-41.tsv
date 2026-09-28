@@ -1,0 +1,173 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev41_010.scr:0	cev41_010.scr	0	マオ	Mao	personagem		ティトレイとロニってさ、似てるよネ		
+cev41_010.scr:1	cev41_010.scr	1	ティトレイ	Tytree Crowe	personagem	CRLF x1	あ？　\nそうかぁ？		
+cev41_010.scr:2	cev41_010.scr	2	マオ	Mao	personagem	CRLF x1	そうだよ。\nだって……		
+cev41_010.scr:3	cev41_010.scr	3	ロニ	Loni Dunamis	personagem		探したぞ、マオーーーッ！		
+cev41_010.scr:4	cev41_010.scr	4	ロニ	Loni Dunamis	personagem	CRLF x1	この船が宇宙船で、チャットが宇宙人だぁ？\nよくもそんな……		
+cev41_010.scr:5	cev41_010.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x1	なにっ、宇宙船！？\n……そうだったのか！？		
+cev41_010.scr:6	cev41_010.scr	6	ロニ	Loni Dunamis	personagem	CRLF x1	っておい、待て。\nお前まで騙されるんじゃねえ！		
+cev41_010.scr:7	cev41_010.scr	7	マオ	Mao	personagem		ほーらネ♪		
+cev41_010.scr:8	cev41_010.scr	8	ユージーン	Eugene Gallardo	personagem		…………		
+cev41_020.scr:0	cev41_020.scr	0	ルーク	Luke fon Fabre	personagem	CRLF x1	あ〜〜〜〜ったく……。\nアッシュの奴！！		
+cev41_020.scr:1	cev41_020.scr	1	ティトレイ	Tytree Crowe	personagem	CRLF x1	何だよ、また喧嘩か？\nほんっとお前ら、毎日そればっかだなぁ		
+cev41_020.scr:2	cev41_020.scr	2	ルーク	Luke fon Fabre	personagem	CRLF x2	うっせぇ！　俺は悪くねえ！！\nあいつが、事あるごとに\n俺につっかかってきやがんだ		
+cev41_020.scr:3	cev41_020.scr	3	ルーク	Luke fon Fabre	personagem	CRLF x2	ったく、言いたい事があんなら、\nネチネチ嫌味たれてねーで、\nハッキリ言ってこいっつーの！		
+cev41_020.scr:4	cev41_020.scr	4	ティトレイ	Tytree Crowe	personagem	CRLF x1	アッシュ、だっけか？\nあいつも素直じゃなさそうだからなぁ		
+cev41_020.scr:5	cev41_020.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x2	なあ、たまには口喧嘩じゃなくて\n思い切って殴り合いの喧嘩でも\nしてみたらどうだ？		
+cev41_020.scr:6	cev41_020.scr	6	ルーク	Luke fon Fabre	personagem		はぁ？		
+cev41_020.scr:7	cev41_020.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x1	何で俺が、ンな野蛮で面倒な事\nわざわざやんなきゃなんねーんだ		
+cev41_020.scr:8	cev41_020.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x2	世の中にはさ、\n自分の気持ちを言葉で表現すんのが\n得意じゃねえ奴だっているんだよ		
+cev41_020.scr:9	cev41_020.scr	9	ティトレイ	Tytree Crowe	personagem	CRLF x1	だから、そういう時は\n直接拳で語り合っちまえばいい		
+cev41_020.scr:10	cev41_020.scr	10	ティトレイ	Tytree Crowe	personagem	CRLF x1	男同士だからこそ\n伝わるもんってーのは、あると思うぜ		
+cev41_020.scr:11	cev41_020.scr	11	ルーク	Luke fon Fabre	personagem	CRLF x1	……そういうあんたは\nやった事あんのかよ？		
+cev41_020.scr:12	cev41_020.scr	12	ティトレイ	Tytree Crowe	personagem	CRLF x1	おう。\nもちろんだぜ！		
+cev41_020.scr:13	cev41_020.scr	13	ティトレイ	Tytree Crowe	personagem	CRLF x2	力づくってのは、あんま好きじゃねーけど\n一発ぶん殴ってやらねえと\n大事なモンに気付けない奴もいっからよ		
+cev41_020.scr:14	cev41_020.scr	14	ルーク	Luke fon Fabre	personagem		そういう……もんなのか？		
+cev41_020.scr:15	cev41_020.scr	15	ティトレイ	Tytree Crowe	personagem		そういうもんだよ		
+cev41_020.scr:16	cev41_020.scr	16	ルーク	Luke fon Fabre	personagem		…………		
+cev41_020.scr:17	cev41_020.scr	17	ルーク	Luke fon Fabre	personagem		ちっ……面倒くせえ		
+cev41_030.scr:0	cev41_030.scr	0	ティトレイ	Tytree Crowe	personagem		はぁあぁぁぁ〜〜〜〜……		
+cev41_030.scr:1	cev41_030.scr	1	ジーニアス	Genis Sage	personagem	CRLF x1	あれ？\n珍しいね、ティトレイが落ち込んでる		
+cev41_030.scr:2	cev41_030.scr	2	すず	Suzu Fujibayashi	personagem		何かあったのでしょうか？		
+cev41_030.scr:3	cev41_030.scr	3	カイウス	Caius Qualls	personagem	CRLF x1	変なモノでも食って\n腹壊したとかじゃないのか？		
+cev41_030.scr:4	cev41_030.scr	4	すず	Suzu Fujibayashi	personagem		その可能性は低いと思います		
+cev41_030.scr:5	cev41_030.scr	5	すず	Suzu Fujibayashi	personagem	CRLF x2	ティトレイさんの性格でしたら、\n本当に体調不良になっていれば\n周りに症状を訴えて大騒ぎするはずです		
+cev41_030.scr:6	cev41_030.scr	6	ジーニアス	Genis Sage	personagem		す、すずの分析は容赦ないなぁ……		
+cev41_030.scr:7	cev41_030.scr	7	すず	Suzu Fujibayashi	personagem	CRLF x2	忍者とはそういうものです。\nいついかなる時も、冷静な判断を\n下せなければ務まりません		
+cev41_030.scr:8	cev41_030.scr	8	カイウス	Caius Qualls	personagem		へえ、大変なんだな……		
+cev41_030.scr:9	cev41_030.scr	9	カイウス	Caius Qualls	personagem	CRLF x2	……じゃなくて。\n本当に具合が悪いなら医務室に連れてったり\nした方がいいんじゃないのか？		
+cev41_030.scr:10	cev41_030.scr	10	マオ	Mao	personagem		ああ、気にしない気にしない		
+cev41_030.scr:11	cev41_030.scr	11	マオ	Mao	personagem		いつもの発作が起きてるだけだヨ		
+cev41_030.scr:12	cev41_030.scr	12	ジーニアス	Genis Sage	personagem		発作？		
+cev41_030.scr:13	cev41_030.scr	13	カイウス	Caius Qualls	personagem		ティトレイって、持病があったのか？		
+cev41_030.scr:14	cev41_030.scr	14	マオ	Mao	personagem	CRLF x2	あはは、まあ、持病みたいなものかな？\nあれは一生治らないと思うから\n気にする事ないって		
+cev41_030.scr:15	cev41_030.scr	15	すず	Suzu Fujibayashi	personagem		そう……なんですか？		
+cev41_030.scr:16	cev41_030.scr	16	ティトレイ	Tytree Crowe	personagem		う、ううう……		
+cev41_030.scr:17	cev41_030.scr	17	ティトレイ	Tytree Crowe	personagem		姉貴ィ……		
+cev41_040.scr:0	cev41_040.scr	0	ロニ	Loni Dunamis	personagem		ジュディスって、色っぽいよなあ……！		
+cev41_040.scr:1	cev41_040.scr	1	ロニ	Loni Dunamis	personagem		なあ、話した事あるか？		
+cev41_040.scr:2	cev41_040.scr	2	ティトレイ	Tytree Crowe	personagem	CRLF x1	え？\nそりゃ、挨拶とかはした事あっけど……		
+cev41_040.scr:3	cev41_040.scr	3	ロニ	Loni Dunamis	personagem	CRLF x2	マジかよ！！\nどんな人なんだ？　\nなあ、なあ？		
+cev41_040.scr:4	cev41_040.scr	4	ティトレイ	Tytree Crowe	personagem	CRLF x2	う〜ん。　そうだな。\n落ち着いてるし、頭もいいし\n人当たりもソフトで、こう		
+cev41_040.scr:5	cev41_040.scr	5	ティトレイ	Tytree Crowe	personagem		大人の女性〜って感じだな		
+cev41_040.scr:6	cev41_040.scr	6	ティトレイ	Tytree Crowe	personagem		おまけに美人だしな！		
+cev41_040.scr:7	cev41_040.scr	7	ロニ	Loni Dunamis	personagem		ああ、美女に悪い人はいない！		
+cev41_040.scr:8	cev41_040.scr	8	ティトレイ	Tytree Crowe	personagem		同感だ		
+cev41_040.scr:9	cev41_040.scr	9	ティトレイ	Tytree Crowe	personagem		ま、おれの姉貴の方が美人だけどな		
+cev41_040.scr:10	cev41_040.scr	10	ロニ	Loni Dunamis	personagem		やっぱそれなのかよッ！？		
+cev41_050.scr:0	cev41_050.scr	0	ティトレイ	Tytree Crowe	personagem		えっと、リカルド……だったよな？		
+cev41_050.scr:1	cev41_050.scr	1	リカルド	Ricardo Soldato	personagem	CRLF x1	……そうだが。\n何か用か		
+cev41_050.scr:2	cev41_050.scr	2	ティトレイ	Tytree Crowe	personagem	CRLF x1	いや、用って程の用じゃないんだけどさ。\n新しい仲間に挨拶すんのは、礼儀だろ		
+cev41_050.scr:3	cev41_050.scr	3	リカルド	Ricardo Soldato	personagem	CRLF x1	……ふっ。\n礼儀、か		
+cev41_050.scr:4	cev41_050.scr	4	リカルド	Ricardo Soldato	personagem	CRLF x1	おめでたい発想だな。\n随分と恵まれた環境で育ったと見える		
+cev41_050.scr:5	cev41_050.scr	5	ティトレイ	Tytree Crowe	personagem		おっ、わかるか？		
+cev41_050.scr:6	cev41_050.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x2	おれの姉貴がデキた人でさ〜、\nおかげで、誰からも「気さくないい奴」って\n言われるまでに育ったんだよなぁ！		
+cev41_050.scr:7	cev41_050.scr	7	リカルド	Ricardo Soldato	personagem		…………		
+cev41_060.scr:0	cev41_060.scr	0	ティトレイ	Tytree Crowe	personagem		にしても、広い船だよな〜		
+cev41_060.scr:1	cev41_060.scr	1	ティトレイ	Tytree Crowe	personagem	CRLF x1	こんだけの設備を持ったギルドとなると\n文句なしに“四つ星”級だぜ！		
+cev41_060.scr:2	cev41_060.scr	2	マオ	Mao	personagem		その評価制度、まだ生きてたんだネ……		
+cev41_060.scr:3	cev41_060.scr	3	エミル	Emil Castagnier	personagem	CRLF x1	ねえ、四つ星……って\nどういう意味なの？		
+cev41_060.scr:4	cev41_060.scr	4	マオ	Mao	personagem	CRLF x2	ティトレイ独特の評価の仕方なんだヨ。\n最低ランクが一つで、\n最大が、星五つまであるんだって		
+cev41_060.scr:5	cev41_060.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x1	ノンノンノン！　\nマオ、忘れたのか？		
+cev41_060.scr:6	cev41_060.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x2	最低なモンには、\n星一個たりともやれないんだぜ。\nここ、重要だからな		
+cev41_060.scr:7	cev41_060.scr	7	マオ	Mao	personagem	CRLF x1	そうだっけ……？\n正直、どっちでもいい気がするけど		
+cev41_060.scr:8	cev41_060.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x2	何言ってんだ！　\n星を取るってのはな、\n並大抵の事じゃねえんだぞ？		
+cev41_060.scr:9	cev41_060.scr	9	ティトレイ	Tytree Crowe	personagem		そう簡単にやれるもんじゃねえんだ		
+cev41_060.scr:10	cev41_060.scr	10	エミル	Emil Castagnier	personagem	CRLF x1	よくわからないけど……。\nそこが重要なのは、よく伝わったよ		
+cev41_060.scr:11	cev41_060.scr	11	ティトレイ	Tytree Crowe	personagem	CRLF x1	おっ、エミルも使いたくなったか？\n遠慮しないでバンバン使ってくれよな！		
+cev41_060.scr:12	cev41_060.scr	12	エミル	Emil Castagnier	personagem		う……か、考えておくよ		
+cev41_070.scr:0	cev41_070.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	エミルって面白い力を持ってるよなぁ。\nなぁ、それって生まれ付きなのか？		
+cev41_070.scr:1	cev41_070.scr	1	エミル	Emil Castagnier	personagem		えっ……		
+cev41_070.scr:2	cev41_070.scr	2	エミル	Emil Castagnier	personagem	CRLF x1	面白い力って……\n戦闘している時の僕の事……だよね？		
+cev41_070.scr:3	cev41_070.scr	3	ティトレイ	Tytree Crowe	personagem		ああ、もちろん		
+cev41_070.scr:4	cev41_070.scr	4	ティトレイ	Tytree Crowe	personagem	CRLF x1	何せ、あんだけキャラが変わると\nほとんど別人だからなぁ！		
+cev41_070.scr:5	cev41_070.scr	5	エミル	Emil Castagnier	personagem	CRLF x2	……あの力は……、\n生まれ付きなんかじゃないよ。\n上手く、説明出来ないんだけど……		
+cev41_070.scr:6	cev41_070.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x2	へえ〜。\nんじゃ、後から手に入れた\n特別な力ってワケか		
+cev41_070.scr:7	cev41_070.scr	7	エミル	Emil Castagnier	personagem	CRLF x1	……変な奴だって、思う？\n僕の事……		
+cev41_070.scr:8	cev41_070.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x1	変？　\n逆だろ？		
+cev41_070.scr:9	cev41_070.scr	9	ティトレイ	Tytree Crowe	personagem	CRLF x1	自分が二通り味わえて面白えじゃねえか！\n何だか得した感じだな！！		
+cev41_070.scr:10	cev41_070.scr	10	エミル	Emil Castagnier	personagem	CRLF x1	……ティトレイって……その……\nちょっと……変わってるよね？		
+cev41_070.scr:11	cev41_070.scr	11	ティトレイ	Tytree Crowe	personagem	CRLF x2	ははははは！　そうかぁ？\nエミルに言われるとは\n思わなかったけどなぁ		
+cev41_070.scr:12	cev41_070.scr	12	エミル	Emil Castagnier	personagem		（……二通りの自分……か……）		
+cev41_080.scr:0	cev41_080.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	マルタのその髪飾り、キレイだなぁ。\n造花か？		
+cev41_080.scr:1	cev41_080.scr	1	マルタ	Marta Lualdi	personagem	CRLF x1	えっ？　\nそ、そうだけど……		
+cev41_080.scr:2	cev41_080.scr	2	マルタ	Marta Lualdi	personagem	CRLF x1	どうして造花だってわかったの？\nみんな、本物の花と間違えるのに		
+cev41_080.scr:3	cev41_080.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x1	そりゃあなあ。\n花弁のツヤを見れば、それくらいはな		
+cev41_080.scr:4	cev41_080.scr	4	ティトレイ	Tytree Crowe	personagem	CRLF x1	何より、この季節に\n咲いてる花じゃねえだろ？		
+cev41_080.scr:5	cev41_080.scr	5	マルタ	Marta Lualdi	personagem	CRLF x1	意外……。\nティトレイって、花に詳しいんだ		
+cev41_080.scr:6	cev41_080.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x2	意外とは何だ、意外とは。\nこう見えて、草木に関する知識には\nちっとばかし自信があるぜ		
+cev41_080.scr:7	cev41_080.scr	7	マルタ	Marta Lualdi	personagem	CRLF x1	ボーボーの雑草頭は\n伊達じゃないって事ね……		
+cev41_080.scr:8	cev41_080.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x2	まぁな。\n何事も自然が一番！\nだろ？		
+cev41_080.scr:9	cev41_080.scr	9	マルタ	Marta Lualdi	personagem	CRLF x1	別に、今のは褒めたワケじゃ\nないんだけど……		
+cev41_090.scr:0	cev41_090.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	しっかし、この船にはいい奴が多いなぁ。\nみんな話しやすいし、親切だし……		
+cev41_090.scr:1	cev41_090.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	そういえば、ティトレイは\n色んな奴と話をしているよな……		
+cev41_090.scr:2	cev41_090.scr	2	セネル	Senel Coolidge	personagem		誰と一番気が合うんだ？		
+cev41_090.scr:3	cev41_090.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x1	気の合う奴か？　\nそうだなあ……		
+cev41_090.scr:4	cev41_090.scr	4	ティトレイ	Tytree Crowe	personagem	CRLF x1	クレスとか、スタンとか、\nシング辺りとはよく話すな		
+cev41_090.scr:5	cev41_090.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x1	なんつーか、心根がまっすぐで\n話してて気持ちいいよな！		
+cev41_090.scr:6	cev41_090.scr	6	セネル	Senel Coolidge	personagem	CRLF x1	ああ……。\nまっすぐというか、熱い奴らだよな		
+cev41_090.scr:7	cev41_090.scr	7	ティトレイ	Tytree Crowe	personagem	CRLF x2	みんな、どっかの誰かに責任を\n被せるんじゃなくて、自分の行動で\n何かをどうにか変えていこうとしてる		
+cev41_090.scr:8	cev41_090.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x2	そういう姿勢が尊敬出来んだよな。\nどこもこういう奴ばっかりだと\nいいんだけどな！		
+cev41_090.scr:9	cev41_090.scr	9	セネル	Senel Coolidge	personagem		なるほどな……とりあえず		
+cev41_090.scr:10	cev41_090.scr	10	セネル	Senel Coolidge	personagem	CRLF x1	お前も熱い奴だという事は、\nよくわかったよ		
+cev41_100.scr:0	cev41_100.scr	0	ティトレイ	Tytree Crowe	personagem		おれ、思うんだけどよ……		
+cev41_100.scr:1	cev41_100.scr	1	ティトレイ	Tytree Crowe	personagem	CRLF x2	ラザリスの奴は結局、一人ぼっちで\n寂しいってだけなんじゃないのか？\nだから、自分の居場所が欲しいんだよな？		
+cev41_100.scr:2	cev41_100.scr	2	ルーティ	Rutee Katrea	personagem	CRLF x1	また唐突に\nザックリまとめて来たわね……		
+cev41_100.scr:3	cev41_100.scr	3	フィリア	Philia Felice	personagem	CRLF x1	でも、私も同じ事を考えていました。\n悪い人……では、ない様な気がします		
+cev41_100.scr:4	cev41_100.scr	4	ルーティ	Rutee Katrea	personagem	CRLF x2	だとしても、よ。\nあたし達のやるべき事は\n何も変わらないわ		
+cev41_100.scr:5	cev41_100.scr	5	ルーティ	Rutee Katrea	personagem	CRLF x2	大体、そんな単純に\nどうこう出来る問題じゃないから\nあっちだって苦しんでるわけでしょ		
+cev41_100.scr:6	cev41_100.scr	6	フィリア	Philia Felice	personagem	CRLF x1	ええ……。\nそれは、そうかもしれません		
+cev41_100.scr:7	cev41_100.scr	7	フィリア	Philia Felice	personagem	CRLF x2	事は世界創世にまで関わる話です。\n根が深い分だけ、簡単に和解する事も\n出来ない……という事なんでしょう		
+cev41_100.scr:8	cev41_100.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x2	何でだよ？\n辛い時は、お互いに助け合う。\n寂しいなら、一緒にいたいって言えばいい		
+cev41_100.scr:9	cev41_100.scr	9	ティトレイ	Tytree Crowe	personagem		おれ、何か間違った事言ってるか？		
+cev41_100.scr:10	cev41_100.scr	10	フィリア	Philia Felice	personagem		間違っては……いませんけど		
+cev41_100.scr:11	cev41_100.scr	11	ルーティ	Rutee Katrea	personagem	CRLF x1	ティトレイ見てると、ほんと\nどっかのスカタンを思い出すわ……		
+cev41_100.scr:12	cev41_100.scr	12	ティトレイ	Tytree Crowe	personagem		？？？		
+cev41_200.scr:0	cev41_200.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	通常。\n		
+cev41_200.scr:1	cev41_200.scr	1	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:2	cev41_200.scr	2	ティトレイ	Tytree Crowe	personagem	CRLF x1	笑い。\n		
+cev41_200.scr:3	cev41_200.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:4	cev41_200.scr	4	ティトレイ	Tytree Crowe	personagem	CRLF x1	怒り。\n		
+cev41_200.scr:5	cev41_200.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:6	cev41_200.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x1	悲しみ。\n		
+cev41_200.scr:7	cev41_200.scr	7	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:8	cev41_200.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x1	真剣。\n		
+cev41_200.scr:9	cev41_200.scr	9	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:10	cev41_200.scr	10	ティトレイ	Tytree Crowe	personagem	CRLF x1	困惑。\n		
+cev41_200.scr:11	cev41_200.scr	11	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:12	cev41_200.scr	12	ティトレイ	Tytree Crowe	personagem	CRLF x1	驚き。\n		
+cev41_200.scr:13	cev41_200.scr	13	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:14	cev41_200.scr	14	ティトレイ	Tytree Crowe	personagem	CRLF x1	照れ。\n		
+cev41_200.scr:15	cev41_200.scr	15	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:16	cev41_200.scr	16	ティトレイ	Tytree Crowe	personagem	CRLF x1	通常。\n		
+cev41_200.scr:17	cev41_200.scr	17	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:18	cev41_200.scr	18	ティトレイ	Tytree Crowe	personagem	CRLF x1	笑い。\n		
+cev41_200.scr:19	cev41_200.scr	19	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:20	cev41_200.scr	20	ティトレイ	Tytree Crowe	personagem	CRLF x1	怒り。\n		
+cev41_200.scr:21	cev41_200.scr	21	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:22	cev41_200.scr	22	ティトレイ	Tytree Crowe	personagem	CRLF x1	悲しみ。\n		
+cev41_200.scr:23	cev41_200.scr	23	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:24	cev41_200.scr	24	ティトレイ	Tytree Crowe	personagem	CRLF x1	真剣。\n		
+cev41_200.scr:25	cev41_200.scr	25	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:26	cev41_200.scr	26	ティトレイ	Tytree Crowe	personagem	CRLF x1	困惑。\n		
+cev41_200.scr:27	cev41_200.scr	27	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:28	cev41_200.scr	28	ティトレイ	Tytree Crowe	personagem	CRLF x1	驚き。\n		
+cev41_200.scr:29	cev41_200.scr	29	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:30	cev41_200.scr	30	ティトレイ	Tytree Crowe	personagem	CRLF x1	照れ。\n		
+cev41_200.scr:31	cev41_200.scr	31	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:32	cev41_200.scr	32	ティトレイ	Tytree Crowe	personagem	CRLF x1	通常。\n		
+cev41_200.scr:33	cev41_200.scr	33	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:34	cev41_200.scr	34	ティトレイ	Tytree Crowe	personagem	CRLF x1	笑い。\n		
+cev41_200.scr:35	cev41_200.scr	35	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:36	cev41_200.scr	36	ティトレイ	Tytree Crowe	personagem	CRLF x1	怒り。\n		
+cev41_200.scr:37	cev41_200.scr	37	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:38	cev41_200.scr	38	ティトレイ	Tytree Crowe	personagem	CRLF x1	悲しみ。\n		
+cev41_200.scr:39	cev41_200.scr	39	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:40	cev41_200.scr	40	ティトレイ	Tytree Crowe	personagem	CRLF x1	真剣。\n		
+cev41_200.scr:41	cev41_200.scr	41	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:42	cev41_200.scr	42	ティトレイ	Tytree Crowe	personagem	CRLF x1	困惑。\n		
+cev41_200.scr:43	cev41_200.scr	43	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:44	cev41_200.scr	44	ティトレイ	Tytree Crowe	personagem	CRLF x1	驚き。\n		
+cev41_200.scr:45	cev41_200.scr	45	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev41_200.scr:46	cev41_200.scr	46	ティトレイ	Tytree Crowe	personagem	CRLF x1	照れ。\n		
+cev41_200.scr:47	cev41_200.scr	47	ティトレイ	Tytree Crowe	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

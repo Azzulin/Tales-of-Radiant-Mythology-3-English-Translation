@@ -1,0 +1,232 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	va_ponteiros	ocorrencias	bytes_jp	max_bytes
+shield#0	shield	0	(sistema)	(system)	sistema		闘技場	Arena	Coliseu/Arena (max 6)	0x08D625D4;0x08D626F4	2	6	6
+shield#1	shield	1	(sistema)	(system)	sistema		ワールドマップ	World Map		0x08D625F4;0x08D62704	2	14	15
+shield#2	shield	2	(sistema)	(system)	sistema		デバッグ部屋	Debug Room		0x08D62614;0x08D62714	2	12	13
+shield#3	shield	3	(sistema)	(system)	sistema		バンエルティア号	Van Eltia		0x08D62624	1	16	17
+shield#4	shield	4	(sistema)	(system)	sistema		ルバーブ連山	Mt. Rhubarb	Rhubarb Mountains	0x08D62634	1	12	13
+shield#5	shield	5	(sistema)	(system)	sistema		コンフェイト大森林	Confeito Forest	Confeito Great Forest	0x08D62644	1	18	19
+shield#6	shield	6	(sistema)	(system)	sistema		ブラウニー坑道	Brownie Mine		0x08D62654	1	14	15
+shield#7	shield	7	(sistema)	(system)	sistema		オルタータ火山	Mt. Alterata	Alterata Volcano curto	0x08D62664	1	14	15
+shield#8	shield	8	(sistema)	(system)	sistema		カダイフ砂漠	Kadaif Desert		0x08D62674	1	12	13
+shield#9	shield	9	(sistema)	(system)	sistema		アルマナック遺跡	Almanac Ruins		0x08D62684	1	16	17
+shield#10	shield	10	(sistema)	(system)	sistema		霊峰アブソール	Mt. Absol		0x08D62694	1	14	15
+shield#11	shield	11	(sistema)	(system)	sistema		ヴェラトローパ	Veratropa		0x08D626A4	1	14	15
+shield#12	shield	12	(sistema)	(system)	sistema		シフノ湧泉洞	Sifno Spring	Sifno Spring Cave curto	0x08D626B4	1	12	13
+shield#13	shield	13	(sistema)	(system)	sistema		聖地ラングリース	Holy Langriths	Langriths	0x08D626C4	1	16	17
+shield#14	shield	14	(sistema)	(system)	sistema		エラン・ヴィタール	Elan Vital		0x08D626D4	1	18	19
+shield#15	shield	15	(sistema)	(system)	sistema		追憶の坑道	Memory Mine	Mine of Reminiscence curto	0x08D626E4	1	10	11
+shield#16	shield	16	(sistema)	(system)	sistema		バックラー	Buckler		0x08C636F4;0x08C636F8	2	10	11
+shield#17	shield	17	(sistema)	(system)	sistema		小型の盾で、機動性と防御力に優れている	A light shield with great defense.		0x08C636FC	1	38	41
+shield#18	shield	18	(sistema)	(system)	sistema		スモールシールド	Small Shield		0x08C63728;0x08C6372C	2	16	17
+shield#19	shield	19	(sistema)	(system)	sistema		小型の盾	Compact.	小型の盾 (max 8)	0x08C63730	1	8	8
+shield#20	shield	20	(sistema)	(system)	sistema		アルミ鍋のふた	Alum Pot Lid	アルミ鍋のふた (max 15)	0x08C6375C	1	14	15
+shield#21	shield	21	(sistema)	(system)	sistema		アルミナベノフタ	Alum Pot Lid	leitura kana	0x08C63760	1	16	17
+shield#22	shield	22	(sistema)	(system)	sistema		アルミ製の鍋のふた	An alum pot lid.	アルミ製の鍋のふた (max 19)	0x08C63764	1	18	19
+shield#23	shield	23	(sistema)	(system)	sistema		ウッドシールド	Wood Shield		0x08C63790;0x08C63794	2	14	15
+shield#24	shield	24	(sistema)	(system)	sistema		木製の盾	Wooden.	木製の盾 (max 8)	0x08C63798	1	8	8
+shield#25	shield	25	(sistema)	(system)	sistema		ラウンドシールド	Round Shield		0x08C637C4;0x08C637C8	2	16	17
+shield#26	shield	26	(sistema)	(system)	sistema		丸形の盾	Round.	丸形の盾 (max 8)	0x08C637CC	1	8	8
+shield#27	shield	27	(sistema)	(system)	sistema		アイアンシールド	Iron Shield		0x08C637F8;0x08C637FC	2	16	17
+shield#28	shield	28	(sistema)	(system)	sistema		鉄製のシールド	Iron shield.	鉄製のシールド (max 15)	0x08C63800	1	14	15
+shield#29	shield	29	(sistema)	(system)	sistema		ラージシールド	Large Shield		0x08C6382C;0x08C63830	2	14	15
+shield#30	shield	30	(sistema)	(system)	sistema		大型の盾。スモールシールドより防御しやすい	Large shield. Blocks better than small.	大型の盾 (max 45)	0x08C63834	1	42	45
+shield#31	shield	31	(sistema)	(system)	sistema		カイトシールド	Kite Shield		0x08C63860;0x08C63864	2	14	15
+shield#32	shield	32	(sistema)	(system)	sistema		逆三角形の凧型の盾	Kite-shape shield.	逆三角形の凧型の盾 (max 19)	0x08C63868	1	18	19
+shield#33	shield	33	(sistema)	(system)	sistema		ニードルシールド	Needle Shield		0x08C63894;0x08C63898	2	16	17
+shield#34	shield	34	(sistema)	(system)	sistema		正面にニードルがあしらわれた盾	A shield adorned with needles.		0x08C6389C	1	30	32
+shield#35	shield	35	(sistema)	(system)	sistema		タワーシールド	Tower Shield		0x08C638C8;0x08C638CC	2	14	15
+shield#36	shield	36	(sistema)	(system)	sistema		超大型の盾。普段は地面に設置して使用	A huge shield set on the ground to use.		0x08C638D0	1	36	39
+shield#37	shield	37	(sistema)	(system)	sistema		甲羅の盾	Carapace	甲羅の盾 (max 8)	0x08C638FC	1	8	8
+shield#38	shield	38	(sistema)	(system)	sistema		コウラノタテ	Carapace	leitura kana	0x08C63900	1	12	13
+shield#39	shield	39	(sistema)	(system)	sistema		大亀の甲羅から作られた盾	Turtle shell shield.	大亀の甲羅から作られた盾 (max 26)	0x08C63904	1	24	26
+shield#40	shield	40	(sistema)	(system)	sistema		マーベルシールド	Marvel Shield		0x08C63930;0x08C63934	2	16	17
+shield#41	shield	41	(sistema)	(system)	sistema		昔話に登場した盾を模したもの	Modeled on ancient lore.	昔話に登場した盾を模したもの (max 30)	0x08C63938	1	28	30
+shield#42	shield	42	(sistema)	(system)	sistema		プレイヤーシールド	Prayer Shield		0x08C63964;0x08C63968	2	18	19
+shield#43	shield	43	(sistema)	(system)	sistema		祈祷の為に作られた仮面を模した盾	Shield shaped like prayer mask.	祈祷の為に作られた仮面を模した盾 (max 35)	0x08C6396C	1	32	35
+shield#44	shield	44	(sistema)	(system)	sistema		ソルジャーシールド	Soldier Shield		0x08C63998;0x08C6399C	2	18	19
+shield#45	shield	45	(sistema)	(system)	sistema		兵士が好んで使う盾	Favored by troops.	兵士が好んで使う盾 (max 19)	0x08C639A0	1	18	19
+shield#46	shield	46	(sistema)	(system)	sistema		ゴシックシールド	Gothic Shield		0x08C639CC;0x08C639D0	2	16	17
+shield#47	shield	47	(sistema)	(system)	sistema		防御力だけではなく、美しさも兼ね備えた盾	A shield boasting both defense and beauty.		0x08C639D4	1	40	43
+shield#48	shield	48	(sistema)	(system)	sistema		バトルシールド	Battle Shield		0x08C63A00;0x08C63A04	2	14	15
+shield#49	shield	49	(sistema)	(system)	sistema		戦闘用に開発された盾	Crafted for combat.	戦闘用に開発された盾 (max 21)	0x08C63A08	1	20	21
+shield#50	shield	50	(sistema)	(system)	sistema		メタルシールド	Metal Shield		0x08C63A34;0x08C63A38	2	14	15
+shield#51	shield	51	(sistema)	(system)	sistema		鋼鉄で鍛えられた汎用的な盾	Versatile steel shield.	鋼鉄で鍛えられた汎用的な盾 (max 28)	0x08C63A3C	1	26	28
+shield#52	shield	52	(sistema)	(system)	sistema		アイアンカバーシールド	Iron Cover Shield		0x08C63A68;0x08C63A6C	2	22	24
+shield#53	shield	53	(sistema)	(system)	sistema		金属板で強化されたウッドシールド	Wood shield plated in metal.	金属板で強化されたウッドシールド (max 35)	0x08C63A70	1	32	35
+shield#54	shield	54	(sistema)	(system)	sistema		ビーストシールド	Beast Shield		0x08C63A9C;0x08C63AA0	2	16	17
+shield#55	shield	55	(sistema)	(system)	sistema		獣の面をあしらったシールド	Shield with beast visage.	獣の面をあしらったシールド (max 28)	0x08C63AA4	1	26	28
+shield#56	shield	56	(sistema)	(system)	sistema		プリンスシールド	Prince Shield		0x08C63AD0;0x08C63AD4	2	16	17
+shield#57	shield	57	(sistema)	(system)	sistema		戦いに赴く王子の為に作られた盾	Made for a prince at war.	戦いに赴く王子の為に作られた盾 (max 32)	0x08C63AD8	1	30	32
+shield#58	shield	58	(sistema)	(system)	sistema		プリンセスシールド	Princess Shield		0x08C63B04;0x08C63B08	2	18	19
+shield#59	shield	59	(sistema)	(system)	sistema		戦いに赴く王女の為に作られた盾	Made for princess at war.	戦いに赴く王女の為に作られた盾 (max 32)	0x08C63B0C	1	30	32
+shield#60	shield	60	(sistema)	(system)	sistema		パワーストーンシールド	Power Stone Shield		0x08C63B38;0x08C63B3C	2	22	24
+shield#61	shield	61	(sistema)	(system)	sistema		運気を上げるとされる石をあしらった盾	A shield adorned with lucky stones.		0x08C63B40	1	36	39
+shield#62	shield	62	(sistema)	(system)	sistema		エウノミアシールド	Eunomia Shield		0x08C63B6C;0x08C63B70	2	18	19
+shield#63	shield	63	(sistema)	(system)	sistema		美の女神の一面である「秩序」を意味する盾	A shield meaning order, a goddess aspect.		0x08C63B74	1	40	43
+shield#64	shield	64	(sistema)	(system)	sistema		ラージボーンシールド	Large Bone Shield		0x08C63BA0;0x08C63BA4	2	20	21
+shield#65	shield	65	(sistema)	(system)	sistema		魔物の骨で作られたラージシールド	Large shield of monster bone.	魔物の骨で作られたラージシールド (max 35)	0x08C63BA8	1	32	35
+shield#66	shield	66	(sistema)	(system)	sistema		デビルシールド	Devil Shield		0x08C63BD4;0x08C63BD8	2	14	15
+shield#67	shield	67	(sistema)	(system)	sistema		悪魔の妖面があしらわれた盾	Shield with a demon face.	悪魔の妖面があしらわれた盾 (max 28)	0x08C63BDC	1	26	28
+shield#68	shield	68	(sistema)	(system)	sistema		グレートバックラー	Great Buckler		0x08C63C08;0x08C63C0C	2	18	19
+shield#69	shield	69	(sistema)	(system)	sistema		鋼鉄板で防御力を上げたバックラー	Buckler bolstered with steel.	鋼鉄板で防御力を上げたバックラー (max 35)	0x08C63C10	1	32	35
+shield#70	shield	70	(sistema)	(system)	sistema		シルバースモール	Silver Small		0x08C63C3C;0x08C63C40	2	16	17
+shield#71	shield	71	(sistema)	(system)	sistema		銀製のスモールシールド	Small shield of silver.	銀製のスモールシールド (max 24)	0x08C63C44	1	22	24
+shield#72	shield	72	(sistema)	(system)	sistema		銅鍋のふた	Copper Lid	銅鍋のふた (max 11)	0x08C63C70	1	10	11
+shield#73	shield	73	(sistema)	(system)	sistema		ドウナベノフタ	Copper Lid	leitura kana	0x08C63C74	1	14	15
+shield#74	shield	74	(sistema)	(system)	sistema		銅製の鍋のふた	Copper pot lid.	銅製の鍋のふた (max 15)	0x08C63C78	1	14	15
+shield#75	shield	75	(sistema)	(system)	sistema		オークシールド	Oak Shield		0x08C63CA4;0x08C63CA8	2	14	15
+shield#76	shield	76	(sistema)	(system)	sistema		オーク材を使った堅牢な盾	Stout shield of oak.	オーク材を使った堅牢な盾 (max 26)	0x08C63CAC	1	24	26
+shield#77	shield	77	(sistema)	(system)	sistema		ムーンシールド	Moon Shield		0x08C63CD8;0x08C63CDC	2	14	15
+shield#78	shield	78	(sistema)	(system)	sistema		月をモチーフにした盾	Shield of the moon.	月をモチーフにした盾 (max 21)	0x08C63CE0	1	20	21
+shield#79	shield	79	(sistema)	(system)	sistema		シルバーシールド	Silver Shield		0x08C63D0C;0x08C63D10	2	16	17
+shield#80	shield	80	(sistema)	(system)	sistema		銀製のシールド	Silver shield.	銀製のシールド (max 15)	0x08C63D14	1	14	15
+shield#81	shield	81	(sistema)	(system)	sistema		アーミーシールド	Army Shield		0x08C63D40;0x08C63D44	2	16	17
+shield#82	shield	82	(sistema)	(system)	sistema		歩兵が使用していた大型盾	Infantry large shield.	歩兵が使用していた大型盾 (max 26)	0x08C63D48	1	24	26
+shield#83	shield	83	(sistema)	(system)	sistema		ナイツシールド	Knight Shield		0x08C63D74;0x08C63D78	2	14	15
+shield#84	shield	84	(sistema)	(system)	sistema		その昔騎士が好んで使用した盾	Shield favored by knights.	その昔騎士が好んで使用した盾 (max 30)	0x08C63D7C	1	28	30
+shield#85	shield	85	(sistema)	(system)	sistema		スパイクシールド	Spike Shield		0x08C63DA8;0x08C63DAC	2	16	17
+shield#86	shield	86	(sistema)	(system)	sistema		巨大なスパイクが正面にあしらわれた突撃兵向けの盾	A shield with giant spikes made for shock troops.		0x08C63DB0	1	48	52
+shield#87	shield	87	(sistema)	(system)	sistema		フルタワーシールド	Full Tower Shield		0x08C63DDC;0x08C63DE0	2	18	19
+shield#88	shield	88	(sistema)	(system)	sistema		超大型の盾。使いこなすにはそれなりの力が必要	Huge shield. Takes great strength to wield.	超大型の盾 (max 48)	0x08C63DE4	1	44	48
+shield#89	shield	89	(sistema)	(system)	sistema		上質な甲羅の盾	Fine Carapace	上質な甲羅の盾 (max 15)	0x08C63E10	1	14	15
+shield#90	shield	90	(sistema)	(system)	sistema		ジョウシツナコウラノタテ	Fine Carapace	leitura kana	0x08C63E14	1	24	26
+shield#91	shield	91	(sistema)	(system)	sistema		上質な大亀の甲羅から作られた盾	Shield of fine turtle shell.	上質な大亀の甲羅から作られた盾 (max 32)	0x08C63E18	1	30	32
+shield#92	shield	92	(sistema)	(system)	sistema		アリスシールド	Alice Shield		0x08C63E44;0x08C63E48	2	14	15
+shield#93	shield	93	(sistema)	(system)	sistema		おとぎ話に登場した盾を模したもの	Modeled on fairy tale shield.	おとぎ話に登場した盾を模したもの (max 35)	0x08C63E4C	1	32	35
+shield#94	shield	94	(sistema)	(system)	sistema		シャーマンシールド	Shaman Shield		0x08C63E78;0x08C63E7C	2	18	19
+shield#95	shield	95	(sistema)	(system)	sistema		シャーマンが祈祷に使用する仮面を模した盾	A shield shaped like a shaman ritual mask.		0x08C63E80	1	40	43
+shield#96	shield	96	(sistema)	(system)	sistema		ミドル・Ｓ・シールド	Middle S Shield		0x08C63EAC	1	20	21
+shield#97	shield	97	(sistema)	(system)	sistema		ミドルエスシールド	Middle S Shield	leitura kana	0x08C63EB0	1	18	19
+shield#98	shield	98	(sistema)	(system)	sistema		階級の高い兵士が好んで使う盾	Favored by elite soldiers.	階級の高い兵士が好んで使う盾 (max 30)	0x08C63EB4	1	28	30
+shield#99	shield	99	(sistema)	(system)	sistema		エンボスシールド	Emboss Shield		0x08C63EE0;0x08C63EE4	2	16	17
+shield#100	shield	100	(sistema)	(system)	sistema		古代様式の文様を施した盾	Carved in ancient style.	古代様式の文様を施した盾 (max 26)	0x08C63EE8	1	24	26
+shield#101	shield	101	(sistema)	(system)	sistema		デュエルシールド	Duel Shield		0x08C63F14;0x08C63F18	2	16	17
+shield#102	shield	102	(sistema)	(system)	sistema		決闘用として改良を施された盾	Shield refined for duels.	決闘用として改良を施された盾 (max 30)	0x08C63F1C	1	28	30
+shield#103	shield	103	(sistema)	(system)	sistema		ハイメタルシールド	High Metal Shield		0x08C63F48;0x08C63F4C	2	18	19
+shield#104	shield	104	(sistema)	(system)	sistema		硬度の高い金属で鍛えられた汎用的な盾	Versatile shield of hard metal.	硬度の高い金属で鍛えられた汎用的な盾 (max 39)	0x08C63F50	1	36	39
+shield#105	shield	105	(sistema)	(system)	sistema		アルミカバーシールド	Aluminum Cover		0x08C63F7C;0x08C63F80	2	20	21
+shield#106	shield	106	(sistema)	(system)	sistema		より強度の高い金属で強化されたウッドシールド	A wood shield reinforced with stronger metal.		0x08C63F84	1	44	48
+shield#107	shield	107	(sistema)	(system)	sistema		ライオンハート	Lionheart		0x08C63FB0;0x08C63FB4	2	14	15
+shield#108	shield	108	(sistema)	(system)	sistema		百獣の王ライオンの魂をあらわした頑強な盾	Stout shield with a lion soul.	百獣の王ライオンの魂 (max 43)	0x08C63FB8	1	40	43
+shield#109	shield	109	(sistema)	(system)	sistema		キングシールド	King Shield		0x08C63FE4;0x08C63FE8	2	14	15
+shield#110	shield	110	(sistema)	(system)	sistema		戦いに赴く王の為に作られた盾	Forged for a king at war.	戦いに赴く王の為に作られた盾 (max 30)	0x08C63FEC	1	28	30
+shield#111	shield	111	(sistema)	(system)	sistema		クィーンシールド	Queen Shield		0x08C64018;0x08C6401C	2	16	17
+shield#112	shield	112	(sistema)	(system)	sistema		戦いに赴く女王の為に作られた盾	Forged for queen at war.	戦いに赴く女王の為に作られた盾 (max 32)	0x08C64020	1	30	32
+shield#113	shield	113	(sistema)	(system)	sistema		ジュエルシールド	Jewel Shield		0x08C6404C;0x08C64050	2	16	17
+shield#114	shield	114	(sistema)	(system)	sistema		運気を上げるとされる宝石をあしらった盾	A shield decorated with lucky gemstones.		0x08C64054	1	38	41
+shield#115	shield	115	(sistema)	(system)	sistema		ディケーシールド	Dike Shield		0x08C64080;0x08C64084	2	16	17
+shield#116	shield	116	(sistema)	(system)	sistema		美の女神の一面である「運命」を意味する盾	A shield meaning fate, a goddess aspect.		0x08C64088	1	40	43
+shield#117	shield	117	(sistema)	(system)	sistema		ヒュージボーンシールド	Huge Bone Shield		0x08C640B4;0x08C640B8	2	22	24
+shield#118	shield	118	(sistema)	(system)	sistema		硬くて丈夫な魔物の骨で作られたラージシールド	A large shield crafted from hard monster bone.		0x08C640BC	1	44	48
+shield#119	shield	119	(sistema)	(system)	sistema		デーモンシールド	Demon Shield		0x08C640E8;0x08C640EC	2	16	17
+shield#120	shield	120	(sistema)	(system)	sistema		大悪魔の面が見る者を畏怖させる	Archdemon face causes dread.	大悪魔の面が見る者を畏怖させる (max 32)	0x08C640F0	1	30	32
+shield#121	shield	121	(sistema)	(system)	sistema		ヘビーバックラー	Heavy Buckler		0x08C6411C;0x08C64120	2	16	17
+shield#122	shield	122	(sistema)	(system)	sistema		鋼鉄製のバックラー	Buckler of steel.	鋼鉄製のバックラー (max 19)	0x08C64124	1	18	19
+shield#123	shield	123	(sistema)	(system)	sistema		ミスリルスモール	Mithril Small		0x08C64150;0x08C64154	2	16	17
+shield#124	shield	124	(sistema)	(system)	sistema		ミスリル製のスモールシールド	Small shield of mithril.	ミスリル製のスモールシールド (max 30)	0x08C64158	1	28	30
+shield#125	shield	125	(sistema)	(system)	sistema		モリブデン鋼鍋のふた	Moly Steel Pot Lid		0x08C64184	1	20	21
+shield#126	shield	126	(sistema)	(system)	sistema		モリブデンコウノフタ	Moly Steel Pot Lid	leitura kana	0x08C64188	1	20	21
+shield#127	shield	127	(sistema)	(system)	sistema		モリブデン鋼製の鍋のふた	Pot lid of moly steel.	モリブデン鋼製の鍋のふた (max 26)	0x08C6418C	1	24	26
+shield#128	shield	128	(sistema)	(system)	sistema		ラージオークシールド	Large Oak Shield		0x08C641B8;0x08C641BC	2	20	21
+shield#129	shield	129	(sistema)	(system)	sistema		オーク材を使った堅牢かつ大型の盾	Large, stout oak shield.	オーク材を使った堅牢かつ大型の盾 (max 35)	0x08C641C0	1	32	35
+shield#130	shield	130	(sistema)	(system)	sistema		ルーンシールド	Rune Shield		0x08C641EC;0x08C641F0	2	14	15
+shield#131	shield	131	(sistema)	(system)	sistema		ムーンシールドに魔法文様を施した盾	Moon shield carved with runes.	ムーンシールドに魔法文様を施した盾 (max 37)	0x08C641F4	1	34	37
+shield#132	shield	132	(sistema)	(system)	sistema		ミスリルシールド	Mithril Shield		0x08C64220;0x08C64224	2	16	17
+shield#133	shield	133	(sistema)	(system)	sistema		ミスリル製のシールド	Mithril shield.	ミスリル製のシールド (max 21)	0x08C64228	1	20	21
+shield#134	shield	134	(sistema)	(system)	sistema		マスターシールド	Master Shield		0x08C64254;0x08C64258	2	16	17
+shield#135	shield	135	(sistema)	(system)	sistema		戦闘の熟練者が使っていたとされる大型盾	Large shield wielded by veterans.	戦闘の熟練者が使っていたとされる大型盾 (max 41)	0x08C6425C	1	38	41
+shield#136	shield	136	(sistema)	(system)	sistema		パラディンシールド	Paladin Shield		0x08C64288;0x08C6428C	2	18	19
+shield#137	shield	137	(sistema)	(system)	sistema		聖騎士が使用していた盾	Used by holy knights.	聖騎士が使用していた盾 (max 24)	0x08C64290	1	22	24
+shield#138	shield	138	(sistema)	(system)	sistema		スパルタカス	Spartacus		0x08C642BC;0x08C642C0	2	12	13
+shield#139	shield	139	(sistema)	(system)	sistema		古代の闘技場で使われた決闘用の盾	Duel shield from arena of old.	古代の闘技場で使われた決闘用の盾 (max 35)	0x08C642C4	1	32	35
+shield#140	shield	140	(sistema)	(system)	sistema		フォートレス	Fortress		0x08C642F0;0x08C642F4	2	12	13
+shield#141	shield	141	(sistema)	(system)	sistema		要塞防御用の盾	Fortress guard.	要塞防御用の盾 (max 15)	0x08C642F8	1	14	15
+shield#142	shield	142	(sistema)	(system)	sistema		千年亀の盾	Aegis Sh.	千年亀の盾 (max 11)	0x08C64324	1	10	11
+shield#143	shield	143	(sistema)	(system)	sistema		センネンガメノタテ	Aegis Sh.	leitura kana	0x08C64328	1	18	19
+shield#144	shield	144	(sistema)	(system)	sistema		千年生きた大亀の甲羅から作られた盾	Shield of 1,000-year turtle.	千年生きた大亀の甲羅から作られた盾 (max 37)	0x08C6432C	1	34	37
+shield#145	shield	145	(sistema)	(system)	sistema		フェアリーシールド	Fairy Shield		0x08C64358;0x08C6435C	2	18	19
+shield#146	shield	146	(sistema)	(system)	sistema		英雄譚に登場した盾を模したもの	Modeled on heroic legend.	英雄譚に登場した盾を模したもの (max 32)	0x08C64360	1	30	32
+shield#147	shield	147	(sistema)	(system)	sistema		ネクロマンサーシールド	Necromancer Shield		0x08C6438C;0x08C64390	2	22	24
+shield#148	shield	148	(sistema)	(system)	sistema		死者の復活の儀式に用いられた仮面を模した盾	Shield styled as rebirth ritual mask.	死者の復活の儀式に用いられた仮面 (max 45)	0x08C64394	1	42	45
+shield#149	shield	149	(sistema)	(system)	sistema		マスター・Ｓ・シールド	Master S Shield		0x08C643C0	1	22	24
+shield#150	shield	150	(sistema)	(system)	sistema		マスターエスシールド	Master S Shield	leitura kana	0x08C643C4	1	20	21
+shield#151	shield	151	(sistema)	(system)	sistema		歴戦の戦士が愛用する実戦にとても適した盾	Combat shield beloved by veterans.	歴戦の戦士が愛用する実戦にとても適した盾 (max 43)	0x08C643C8	1	40	43
+shield#152	shield	152	(sistema)	(system)	sistema		エンシェントシールド	Ancient Shield		0x08C643F4;0x08C643F8	2	20	21
+shield#153	shield	153	(sistema)	(system)	sistema		伝説の盾	Legend.	伝説の盾 (max 8)	0x08C643FC	1	8	8
+shield#154	shield	154	(sistema)	(system)	sistema		ウォーシールド	War Shield		0x08C64428;0x08C6442C	2	14	15
+shield#155	shield	155	(sistema)	(system)	sistema		戦時中に使われたとされる歴戦を勝ち残った名品	Wartime masterwork surviving many wars.	戦時中に使われたとされる歴戦を勝ち残った名品 (max 48)	0x08C64430	1	44	48
+shield#156	shield	156	(sistema)	(system)	sistema		レアメタルシールド	Rare Metal Shield		0x08C6445C;0x08C64460	2	18	19
+shield#157	shield	157	(sistema)	(system)	sistema		希少な鋼鉄で鍛えられた汎用的な盾	Versatile shield of rare steel.	希少な鋼鉄で鍛えられた汎用的な盾 (max 35)	0x08C64464	1	32	35
+shield#158	shield	158	(sistema)	(system)	sistema		チタンカバーシールド	Titanium Cover		0x08C64490;0x08C64494	2	20	21
+shield#159	shield	159	(sistema)	(system)	sistema		更に強度の高い金属で強化されたウッドシールド	Wood shield clad in extra strong metal.	更に強度の高い金属で強化されたウッドシールド (max 48)	0x08C64498	1	44	48
+shield#160	shield	160	(sistema)	(system)	sistema		キングオブビースト	King of Beasts		0x08C644C4;0x08C644C8	2	18	19
+shield#161	shield	161	(sistema)	(system)	sistema		百獣の王の中でも頂点に立つ獅子の王が刻まれた名品	A masterwork engraved with the sovereign lion king.		0x08C644CC	1	48	52
+shield#162	shield	162	(sistema)	(system)	sistema		エンペラーシールド	Emperor Shield		0x08C644F8;0x08C644FC	2	18	19
+shield#163	shield	163	(sistema)	(system)	sistema		戦いに赴く皇帝の為に作られた盾	Made for an emperor at war.	戦いに赴く皇帝の為に作られた盾 (max 32)	0x08C64500	1	30	32
+shield#164	shield	164	(sistema)	(system)	sistema		エンプレスシールド	Empress Shield		0x08C6452C;0x08C64530	2	18	19
+shield#165	shield	165	(sistema)	(system)	sistema		戦いに赴く女帝の為に作られた盾	Made for an empress at war.	戦いに赴く女帝の為に作られた盾 (max 32)	0x08C64534	1	30	32
+shield#166	shield	166	(sistema)	(system)	sistema		オーブシールド	Orb Shield		0x08C64560;0x08C64564	2	14	15
+shield#167	shield	167	(sistema)	(system)	sistema		運気を上げるとされる魔石をあしらった盾	Shield set with lucky stones.	運気を上げるとされる魔石をあしらった盾 (max 41)	0x08C64568	1	38	41
+shield#168	shield	168	(sistema)	(system)	sistema		エイレーネーシールド	Eirene Shield		0x08C64594;0x08C64598	2	20	21
+shield#169	shield	169	(sistema)	(system)	sistema		美の女神の一面である「平和」を意味する盾	A shield meaning peace, a goddess aspect.		0x08C6459C	1	40	43
+shield#170	shield	170	(sistema)	(system)	sistema		エンシェントボーン	Ancient Bone		0x08C645C8;0x08C645CC	2	18	19
+shield#171	shield	171	(sistema)	(system)	sistema		古生代の魔物の骨で作られた屈強なシールド	Rugged shield of ancient bones.	古生代の魔物の骨で作られた屈強なシールド (max 43)	0x08C645D0	1	40	43
+shield#172	shield	172	(sistema)	(system)	sistema		アーク・Ｄ・シールド	Arch D Shield		0x08C645FC	1	20	21
+shield#173	shield	173	(sistema)	(system)	sistema		アークディーシールド	Arch D Shield	leitura kana	0x08C64600	1	20	21
+shield#174	shield	174	(sistema)	(system)	sistema		上級悪魔の妖面が魔物すら怯えさせる脅威の盾	Dread shield scaring even fiends.	上級悪魔の妖面が魔物すら怯えさせる脅威の盾 (max 45)	0x08C64604	1	42	45
+shield#175	shield	175	(sistema)	(system)	sistema		戦士の盾	Warrior	戦士の盾 (max 8)	0x08C64630	1	8	8
+shield#176	shield	176	(sistema)	(system)	sistema		センシノタテ	Warrior	leitura kana	0x08C64634	1	12	13
+shield#177	shield	177	(sistema)	(system)	sistema		ディセンダーと認められた戦士専用の盾	Shield for Descender warriors.	ディセンダーと認められた戦士専用の盾 (max 39)	0x08C64638	1	36	39
+shield#178	shield	178	(sistema)	(system)	sistema		剣士の盾	Swordsmn	剣士の盾 (max 8)	0x08C64664	1	8	8
+shield#179	shield	179	(sistema)	(system)	sistema		ケンシノタテ	Swordsmn	leitura kana	0x08C64668	1	12	13
+shield#180	shield	180	(sistema)	(system)	sistema		ディセンダーと認められた剣士専用の盾	Shield for Descender swordsmen.	ディセンダーと認められた剣士専用の盾 (max 39)	0x08C6466C	1	36	39
+shield#181	shield	181	(sistema)	(system)	sistema		魔法剣士の盾	Spellblade	魔法剣士の盾 (max 13)	0x08C64698	1	12	13
+shield#182	shield	182	(sistema)	(system)	sistema		マホウケンシノタテ	Spellblade	leitura kana	0x08C6469C	1	18	19
+shield#183	shield	183	(sistema)	(system)	sistema		ディセンダーと認められた魔法剣士専用の盾	Shield for Descender spellblades.	ディセンダーと認められた魔法剣士専用の盾 (max 43)	0x08C646A0	1	40	43
+shield#184	shield	184	(sistema)	(system)	sistema		闘士の盾	Fighter	闘士の盾 (max 8)	0x08C646CC	1	8	8
+shield#185	shield	185	(sistema)	(system)	sistema		トウシノタテ	Fighter	leitura kana	0x08C646D0	1	12	13
+shield#186	shield	186	(sistema)	(system)	sistema		ディセンダーの為に作られた戦士専用の盾	Shield made for Descender warriors.	ディセンダーの為に作られた戦士専用の盾 (max 41)	0x08C646D4	1	38	41
+shield#187	shield	187	(sistema)	(system)	sistema		騎士の盾	Knight	騎士の盾 (max 8)	0x08C64700	1	8	8
+shield#188	shield	188	(sistema)	(system)	sistema		キシノタテ	Knight	leitura kana	0x08C64704	1	10	11
+shield#189	shield	189	(sistema)	(system)	sistema		ディセンダーの為に作られた剣士専用の盾	Shield made for Descender swordsmen.	ディセンダーの為に作られた剣士専用の盾 (max 41)	0x08C64708	1	38	41
+shield#190	shield	190	(sistema)	(system)	sistema		魔法騎士の盾	M. Knight	魔法騎士の盾 (max 13)	0x08C64734	1	12	13
+shield#191	shield	191	(sistema)	(system)	sistema		マホウキシノタテ	M. Knight	leitura kana	0x08C64738	1	16	17
+shield#192	shield	192	(sistema)	(system)	sistema		ディセンダーの為に作られた魔法剣士専用の盾	Shield made for Descender spellblades.	ディセンダーの為に作られた魔法剣士専用の盾 (max 45)	0x08C6473C	1	42	45
+shield#193	shield	193	(sistema)	(system)	sistema		Ｒラインシールド	R Line Shield		0x08C64768	1	16	17
+shield#194	shield	194	(sistema)	(system)	sistema		レッドラインシールド	Red Line Shield		0x08C6476C	1	20	21
+shield#195	shield	195	(sistema)	(system)	sistema		赤いラインが鮮やかな勇者ギルガメシュの盾	Gilgamesh shield with red lines.	赤いラインが鮮やかな勇者ギルガメシュの盾 (max 43)	0x08C64770	1	40	43
+shield#196	shield	196	(sistema)	(system)	sistema		Ｂラインシールド	B Line Shield		0x08C6479C	1	16	17
+shield#197	shield	197	(sistema)	(system)	sistema		ブルーラインシールド	Blue Line Shield		0x08C647A0	1	20	21
+shield#198	shield	198	(sistema)	(system)	sistema		青いラインが鮮やかな勇者ギルガメシュの盾	Gilgamesh shield with blue lines.	青いラインが鮮やかな勇者ギルガメシュの盾 (max 43)	0x08C647A4	1	40	43
+shield#199	shield	199	(sistema)	(system)	sistema		ストームシールド	Storm Shield		0x08C647D0;0x08C647D4	2	16	17
+shield#200	shield	200	(sistema)	(system)	sistema		どんな嵐をも防ぐとされる伝説の盾	Shield repelling any storm.	どんな嵐をも防ぐとされる伝説の盾 (max 35)	0x08C647D8	1	32	35
+shield#201	shield	201	(sistema)	(system)	sistema		ドミニオン	Dominion		0x08C64804;0x08C64808	2	10	11
+shield#202	shield	202	(sistema)	(system)	sistema		幾枚もの羽を持つ主天使の姿をした伝説の盾	Winged angel shield of legend.	幾枚もの羽を持つ主天使の姿をした伝説の盾 (max 43)	0x08C6480C	1	40	43
+shield#203	shield	203	(sistema)	(system)	sistema		義理チョコ	Friend Choc	Giri choco (max 11)	0x08C64838	1	10	11
+shield#204	shield	204	(sistema)	(system)	sistema		ギリチョコ	Friend Choc	leitura kana	0x08C6483C	1	10	11
+shield#205	shield	205	(sistema)	(system)	sistema		お世話になっている人への感謝の印	Token of thanks for kindness.	お世話になっている人への感謝の印 (max 35)	0x08C64840	1	32	35
+shield#206	shield	206	(sistema)	(system)	sistema		本命チョコ	True Love	Honmei choco (max 11)	0x08C6486C	1	10	11
+shield#207	shield	207	(sistema)	(system)	sistema		ホンメイチョコ	True Love Choc	leitura kana (max 15)	0x08C64870	1	14	15
+shield#208	shield	208	(sistema)	(system)	sistema		この想いをあなただけに…	These feelings, just you.	この想いをあなただけに… (max 26)	0x08C64874	1	24	26
+shield#209	shield	209	(sistema)	(system)	sistema		和田どん	Don-chan		0x08C648A0	1	8	8
+shield#210	shield	210	(sistema)	(system)	sistema		ワダドン	Don-chan	leitura kana	0x08C648A4	1	8	8
+shield#211	shield	211	(sistema)	(system)	sistema		これで防御しても「どん！」と音は鳴りません	Blocking with this makes no 'don!' sound.		0x08C648A8	1	42	45
+shield#212	shield	212	(sistema)	(system)	sistema		和田かつ	Kat-chan		0x08C648D4	1	8	8
+shield#213	shield	213	(sistema)	(system)	sistema		ワダカツ	Kat-chan	leitura kana	0x08C648D8	1	8	8
+shield#214	shield	214	(sistema)	(system)	sistema		これで防御しても「かつ！」と音は鳴りません	Blocking with this makes no 'kat!' sound.		0x08C648DC	1	42	45
+shield#215	shield	215	(sistema)	(system)	sistema		ヒラメ	Flound	Hirame (max 6)	0x08C64908;0x08C6490C	2	6	6
+shield#216	shield	216	(sistema)	(system)	sistema		上品な白身魚。冷凍してあるので結構丈夫です	A fine white fish. Frozen, so it's sturdy.		0x08C64910	1	42	45
+shield#217	shield	217	(sistema)	(system)	sistema		レアシールド	Rare Shield		0x08C6493C;0x08C64940	2	12	13
+shield#218	shield	218	(sistema)	(system)	sistema		ＴＯＳに登場したクラトスが本作で装備している盾	Shield equipped by Kratos from TOS in this game.		0x08C64944	1	46	50
+shield#219	shield	219	(sistema)	(system)	sistema		クィーンオブハート	Queen of Hearts		0x08C64970;0x08C64974	2	18	19
+shield#220	shield	220	(sistema)	(system)	sistema		ＴＯＶに登場したエステルが本作で装備している盾	Shield equipped by Estelle from TOV in this game.		0x08C64978	1	46	50
+shield#221	shield	221	(sistema)	(system)	sistema		アンドアジェネシス	Andor Genesis		0x08C649A4;0x08C649A8	2	18	19
+shield#222	shield	222	(sistema)	(system)	sistema		あの難攻不落の要塞が今ここに！	That fortress of legend is here!		0x08C649AC	1	30	32
+shield#223	shield	223	(sistema)	(system)	sistema		トーロイド	Toroid		0x08C649D8;0x08C649DC	2	10	11
+shield#224	shield	224	(sistema)	(system)	sistema		なつかしのビデオゲームのキャラクターが装備で登場！	Classic video game character appears as equipment!		0x08C649E0;0x08C6CB4C	2	50	54
+shield#225	shield	225	(sistema)	(system)	sistema		バキュラ	Bacura		0x08C64A0C;0x08C64A10	2	8	8
+shield#226	shield	226	(sistema)	(system)	sistema		２５６発攻撃されても壊れません	Won't break even after 256 hits!		0x08C64A14	1	30	32
+shield#227	shield	227	(sistema)	(system)	sistema		ホワイトナイトシールド	White Knight Shield		0x08C64A40;0x08C64A44	2	22	24
+shield#228	shield	228	(sistema)	(system)	sistema		ＴＯＶに登場したフレンが本作で装備している盾	Shield equipped by Flynn from TOV in this game.		0x08C64A48	1	44	48
+shield#229	shield	229	(sistema)	(system)	sistema		ビームシールド	Beam Shield		0x08C64A74;0x08C64A78	2	14	15
+shield#230	shield	230	(sistema)	(system)	sistema		未知の技術の結晶体	Unknown tech core.	未知の技術の結晶体 (max 19)	0x08C64A7C	1	18	19

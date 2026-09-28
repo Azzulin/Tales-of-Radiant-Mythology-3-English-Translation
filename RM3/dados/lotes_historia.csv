@@ -1,0 +1,31 @@
+lote,frente,escopo,cenas,falas,falas_distintas,bytes_jp,primeira,ultima
+MEV-00a,mev (historia principal),"cap. 00, 1a metade",16,232,214,8760,mev00_010.scr,mev00_160.scr
+MEV-00b,mev (historia principal),"cap. 00, 2a metade",17,277,277,14581,mev00_170.scr,mev00_294.scr
+MEV-01,mev (historia principal),cap. 01,11,172,172,8627,mev01_010.scr,mev01_110.scr
+MEV-02,mev (historia principal),cap. 02,13,169,167,8447,mev02_010.scr,mev02_100.scr
+MEV-03,mev (historia principal),cap. 03,7,97,97,4578,mev03_010.scr,mev03_070.scr
+MEV-04,mev (historia principal),cap. 04,14,174,174,7872,mev04_010.scr,mev04_130.scr
+MEV-05,mev (historia principal),cap. 05,15,228,220,9813,mev05_010.scr,mev05_120.scr
+MEV-06,mev (historia principal),cap. 06,15,197,197,9120,mev06_010.scr,mev06_140.scr
+MEV-07,mev (historia principal),cap. 07,13,248,245,12176,mev07_010.scr,mev07_120.scr
+MEV-08,mev (historia principal),cap. 08,17,295,287,13133,mev08_010.scr,mev08_170.scr
+MEV-09a,mev (historia principal),"cap. 09, 1a metade",9,176,155,7326,mev09_010.scr,mev09_090.scr
+MEV-09b,mev (historia principal),"cap. 09, 2a metade",10,210,206,9628,mev09_100.scr,mev09_190.scr
+MEV-10,mev (historia principal),cap. 10,16,197,197,7916,mev10_010.scr,mev10_150.scr
+MEV-11,mev (historia principal),cap. 11,15,303,302,14513,mev11_010.scr,mev11_140.scr
+MEV-12,mev (historia principal),cap. 12,18,233,231,9711,mev12_010.scr,mev12_170.scr
+MEV-13,mev (historia principal),cap. 13,12,157,149,6832,mev13_010.scr,mev13_100.scr
+MEV-14,mev (historia principal),cap. 14,9,169,169,7401,mev14_010.scr,mev14_080.scr
+MEV-15,mev (historia principal),cap. 15,16,205,204,8700,mev15_010.scr,mev15_120.scr
+MEV-16,mev (historia principal),cap. 16,10,117,116,5064,mev16_010.scr,mev16_090.scr
+MEV-17,mev (historia principal),cap. 17,10,153,153,6725,mev17_010.scr,mev17_100.scr
+MEV-18,mev (historia principal),cap. 18,14,253,251,11290,mev18_010.scr,mev18_110.scr
+MEV-19,mev (historia principal),cap. 19,17,256,247,10571,mev19_010.scr,mev19_150.scr
+MEV-20,mev (historia principal),cap. 20,12,128,126,5517,mev20_010.scr,mev20_100.scr
+MEV-21,mev (historia principal),cap. 21,13,210,210,9652,mev21_010.scr,mev21_110.scr
+MEV-22,mev (historia principal),cap. 22,16,101,93,3814,mev22_010.scr,mev22_140.scr
+MEV-23,mev (historia principal),cap. 23,10,126,124,5216,mev23_010.scr,mev23_100.scr
+MEV-24+25,mev (historia principal),cap. 24 + cap. 25,18,241,166,10069,mev24_010.scr,mev25_010.scr
+MEV-26,mev (historia principal),cap. 26,10,206,203,8359,mev26_010.scr,mev26_090.scr
+HIST-OLD,oldata.bin (registro de historia),52 titulos + 1074 linhas,1,1126,1126,41790,oldata.bin,oldata.bin
+HIST-SIN,"v2069 (sinopse, com codigo de cor)",52 titulos + 1156 linhas,1,1208,1126,43159,v2069,v2069

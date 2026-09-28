@@ -1,0 +1,3348 @@
+{
+ "categorias": {
+  "hand_equip": {
+   "arena_bytes": 17941,
+   "pool_atual_bytes": 19008,
+   "folga_atual": -1067,
+   "meta_bytes_a_cortar": 2502,
+   "itens": [
+    {
+     "id": "hand_equip#428",
+     "jp": "伝説の巨神と見紛う防御と威圧感のガントレット",
+     "en": "Gauntlets with defense and presence that could be mistaken for a legendary colossus.",
+     "bytes": 84
+    },
+    {
+     "id": "hand_equip#417",
+     "jp": "千夜一夜の魔法の国で鰐を意味するガントレット",
+     "en": "Gauntlets named after the word for crocodile in the magical land of 1001 Nights.",
+     "bytes": 80
+    },
+    {
+     "id": "hand_equip#657",
+     "jp": "イシュタル伝説に名を残す勇者ギルガメシュの篭手",
+     "en": "Gauntlets of the hero Gilgamesh, whose name lives on in the legend of Ishtar.",
+     "bytes": 77
+    },
+    {
+     "id": "hand_equip#229",
+     "jp": "千夜一夜の魔法の国で蛇を意味するガントレット",
+     "en": "Gauntlets named after the word for snake in the magical land of 1001 Nights.",
+     "bytes": 76
+    },
+    {
+     "id": "hand_equip#664",
+     "jp": "東方の異国から伝わった篭手。神木の加護がある",
+     "en": "Gauntlets brought from an eastern foreign land. Blessed by the sacred tree.",
+     "bytes": 75
+    },
+    {
+     "id": "hand_equip#41",
+     "jp": "千夜一夜の魔法の国で蜂を意味するガントレット",
+     "en": "Gauntlets named after the word for bee in the magical land of 1001 Nights.",
+     "bytes": 74
+    },
+    {
+     "id": "hand_equip#312",
+     "jp": "中佐の階級の者が着用する第二種礼装用の手袋",
+     "en": "Type 2 service dress gloves worn by an officer of lieutenant colonel rank.",
+     "bytes": 74
+    },
+    {
+     "id": "hand_equip#240",
+     "jp": "巨人と見紛う防御と威圧感のガントレット",
+     "en": "Gauntlets with defense and presence that could be mistaken for a giant's.",
+     "bytes": 73
+    },
+    {
+     "id": "hand_equip#411",
+     "jp": "古の聖人マイトレヤに正義を誓う者が着用するガントレット",
+     "en": "Gauntlets worn by those who swear justice to the ancient saint Maitreya.",
+     "bytes": 72
+    },
+    {
+     "id": "hand_equip#528",
+     "jp": "この手袋を装備する者は神託を得られると言われる",
+     "en": "It is said that whoever equips these gloves will receive divine oracles.",
+     "bytes": 72
+    },
+    {
+     "id": "hand_equip#35",
+     "jp": "古の聖人ジャーメインに正義を誓う者が着用するガントレット",
+     "en": "Gauntlets worn by those who swear justice to the ancient saint Germain.",
+     "bytes": 71
+    },
+    {
+     "id": "hand_equip#223",
+     "jp": "古の聖人クスミに正義を誓う者が着用するガントレット",
+     "en": "Gauntlets worn by those who swear justice to the ancient saint Kusumi.",
+     "bytes": 70
+    },
+    {
+     "id": "hand_equip#497",
+     "jp": "魂で超常的存在と接触する者が着用するグローブ",
+     "en": "Gloves worn by those who commune spiritually with paranormal entities.",
+     "bytes": 70
+    },
+    {
+     "id": "hand_equip#517",
+     "jp": "正道から外れ異端の道を行く術士の手袋",
+     "en": "Gloves worn by mages who strayed from orthodoxy onto heretical paths.",
+     "bytes": 69
+    },
+    {
+     "id": "hand_equip#543",
+     "jp": "天空の星の力で身を守るグローブ",
+     "en": "Gloves that protect the wearer with the celestial power of the stars.",
+     "bytes": 69
+    },
+    {
+     "id": "hand_equip#545",
+     "jp": "伝説のパタンナーが現代に蘇らせた古代のグローブ",
+     "en": "Ancient gloves revived in the modern age by a legendary patternmaker.",
+     "bytes": 69
+    },
+    {
+     "id": "hand_equip#52",
+     "jp": "抜群の防御と威圧感のガントレット",
+     "en": "Gauntlets offering outstanding defense and an intimidating presence.",
+     "bytes": 68
+    },
+    {
+     "id": "hand_equip#61",
+     "jp": "とある民族の守り神ファルコンの加護を受けたアームガード",
+     "en": "Arm guards blessed by the Falcon, guardian deity of a certain tribe.",
+     "bytes": 68
+    },
+    {
+     "id": "hand_equip#294",
+     "jp": "神前儀式で活発な動きで舞う者の篭手",
+     "en": "Gauntlets worn by those who dance with lively vigor in sacred rites.",
+     "bytes": 68
+    },
+    {
+     "id": "hand_equip#409",
+     "jp": "伝説の製法で作られた全身鎧の腕部",
+     "en": "Arm sections of a full suit of armor made with legendary techniques.",
+     "bytes": 68
+    },
+    {
+     "id": "hand_equip#422",
+     "jp": "守護騎士団所属の証となる篭手",
+     "en": "Gauntlets that serve as proof of membership in the Guardian Knights.",
+     "bytes": 68
+    },
+    {
+     "id": "hand_equip#661",
+     "jp": "手から手へ、選ばれし者へ受け継がれる伝説の篭手",
+     "en": "Legendary gauntlets passed down from hand to hand to the chosen one.",
+     "bytes": 68
+    },
+    {
+     "id": "hand_equip#682",
+     "jp": "押して押して転がしまくる、夢の詰まったステキ手袋",
+     "en": "Wonderful gloves full of dreams: push, push, and roll up everything!",
+     "bytes": 68
+    },
+    {
+     "id": "hand_equip#267",
+     "jp": "法敵を討つ僧兵の数珠",
+     "en": "Prayer beads of warrior monks who strike down enemies of the faith.",
+     "bytes": 67
+    },
+    {
+     "id": "hand_equip#393",
+     "jp": "戦鬼となった闘士が身に着けるという篭手",
+     "en": "Gauntlets said to be worn by warriors turned into demons of battle.",
+     "bytes": 67
+    },
+    {
+     "id": "hand_equip#403",
+     "jp": "東方の戦の麒麟児義経が着用していた篭手",
+     "en": "Gauntlets once worn by Yoshitsune, the prodigy warrior of the East.",
+     "bytes": 67
+    },
+    {
+     "id": "hand_equip#437",
+     "jp": "とある民族の守り神イーグルの加護を受けたアームガード",
+     "en": "Arm guards blessed by the Eagle, guardian deity of a certain tribe.",
+     "bytes": 67
+    },
+    {
+     "id": "hand_equip#482",
+     "jp": "神前儀式で勇猛な動きで舞う者の篭手",
+     "en": "Gauntlets worn by those who dance with brave vigor in sacred rites.",
+     "bytes": 67
+    },
+    {
+     "id": "hand_equip#573",
+     "jp": "ディセンダーと認められた格闘家専用の腕輪",
+     "en": "A bracelet exclusive to a Martial Artist recognized as a Descender.",
+     "bytes": 67
+    },
+    {
+     "id": "hand_equip#597",
+     "jp": "ディセンダーと認められた大剣士専用の篭手",
+     "en": "Gauntlets exclusive to a Great Swordsman recognized as a Descender.",
+     "bytes": 67
+    },
+    {
+     "id": "hand_equip#33",
+     "jp": "古式の製法で作られた全身鎧の腕部",
+     "en": "Arm sections of a full suit of armor made with archaic techniques.",
+     "bytes": 66
+    },
+    {
+     "id": "hand_equip#106",
+     "jp": "神前儀式で静穏な動きで舞う者の篭手",
+     "en": "Gauntlets worn by those who dance with calm grace in sacred rites.",
+     "bytes": 66
+    },
+    {
+     "id": "hand_equip#236",
+     "jp": "装甲を足し、防御力を増したグレートグローブ",
+     "en": "Great gloves augmented with additional armor for superior defense.",
+     "bytes": 66
+    },
+    {
+     "id": "hand_equip#249",
+     "jp": "とある民族の守り神ホークの加護を受けたアームガード",
+     "en": "Arm guards blessed by the Hawk, guardian deity of a certain tribe.",
+     "bytes": 66
+    },
+    {
+     "id": "hand_equip#291",
+     "jp": "校則に定められた晶霊学士用のリストバンド",
+     "en": "A wristband for Craymel scholars prescribed by school regulations.",
+     "bytes": 66
+    },
+    {
+     "id": "hand_equip#594",
+     "jp": "ディセンダーと認められた双剣士専用の篭手",
+     "en": "Gauntlets exclusive to a Twin Swordsman recognized as a Descender.",
+     "bytes": 66
+    },
+    {
+     "id": "hand_equip#142",
+     "jp": "掟を破り破門された術士の手袋",
+     "en": "Gloves worn by mages who broke the rules and were excommunicated.",
+     "bytes": 65
+    },
+    {
+     "id": "hand_equip#479",
+     "jp": "校則に定められた精霊学士用のリストバンド",
+     "en": "A wristband for Spirit scholars prescribed by school regulations.",
+     "bytes": 65
+    },
+    {
+     "id": "hand_equip#493",
+     "jp": "魔術結社で被免達人の階位に与えられる手袋",
+     "en": "Gloves bestowed upon the rank of Exempt Adept in a magical order.",
+     "bytes": 65
+    },
+    {
+     "id": "hand_equip#667",
+     "jp": "聖獣朱雀の名を冠する伝説の腕輪",
+     "en": "A legendary bracelet bearing the name of the sacred beast Suzaku.",
+     "bytes": 65
+    },
+    {
+     "id": "hand_equip#673",
+     "jp": "聖獣白虎の名を冠する伝説の腕輪",
+     "en": "A legendary bracelet bearing the name of the sacred beast Byakko.",
+     "bytes": 65
+    },
+    {
+     "id": "hand_equip#676",
+     "jp": "聖獣青竜の名を冠する伝説の腕輪",
+     "en": "A legendary bracelet bearing the name of the sacred beast Seiryu.",
+     "bytes": 65
+    },
+    {
+     "id": "hand_equip#118",
+     "jp": "魔術結社で小達人の階位に与えられる手袋",
+     "en": "Gloves bestowed upon the rank of Minor Adept in a magical order.",
+     "bytes": 64
+    },
+    {
+     "id": "hand_equip#234",
+     "jp": "聖騎士団所属の証となる篭手",
+     "en": "Gauntlets that serve as proof of membership in the Holy Knights.",
+     "bytes": 64
+    },
+    {
+     "id": "hand_equip#305",
+     "jp": "魔術結社で大達人の階位に与えられる手袋",
+     "en": "Gloves bestowed upon the rank of Major Adept in a magical order.",
+     "bytes": 64
+    },
+    {
+     "id": "hand_equip#317",
+     "jp": "城の近衛兵となった術者のグローブ",
+     "en": "Gloves worn by mages appointed to the royal guard of the castle.",
+     "bytes": 64
+    },
+    {
+     "id": "hand_equip#659",
+     "jp": "冷気を纏う事からその名を付けられた伝説の篭手",
+     "en": "Legendary gauntlets named after the chilling frost they command.",
+     "bytes": 64
+    },
+    {
+     "id": "hand_equip#670",
+     "jp": "聖獣玄武の名を冠する伝説の腕輪",
+     "en": "A legendary bracelet bearing the name of the sacred beast Genbu.",
+     "bytes": 64
+    },
+    {
+     "id": "hand_equip#79",
+     "jp": "荒行に挑む修行僧の数珠",
+     "en": "Prayer beads of ascetic monks undertaking rigorous austerities.",
+     "bytes": 63
+    },
+    {
+     "id": "hand_equip#285",
+     "jp": "小龍の位を持つ功夫使いが着用する腕輪",
+     "en": "A bracelet worn by kung fu practitioners of Lesser Dragon rank.",
+     "bytes": 63
+    },
+    {
+     "id": "hand_equip#383",
+     "jp": "頑強な筋肉の動きを妨げぬよう研究されたグローブ",
+     "en": "Gloves designed to allow unhindered movement of rugged muscles.",
+     "bytes": 63
+    },
+    {
+     "id": "hand_equip#500",
+     "jp": "大佐の階級の者が着用する第二種礼装用の手袋",
+     "en": "Type 2 service dress gloves worn by an officer of colonel rank.",
+     "bytes": 63
+    },
+    {
+     "id": "hand_equip#46",
+     "jp": "騎士団所属の証となる篭手",
+     "en": "Gauntlets that serve as proof of membership in the knighthood.",
+     "bytes": 62
+    },
+    {
+     "id": "hand_equip#522",
+     "jp": "宇宙存在エイワスの波動を受けた手袋",
+     "en": "Gloves that have received waves from the cosmic entity Aiwass.",
+     "bytes": 62
+    },
+    {
+     "id": "hand_equip#530",
+     "jp": "夜空を支配する月の力で満ちたグローブ",
+     "en": "Gloves filled with the power of the moon ruling the night sky.",
+     "bytes": 62
+    },
+    {
+     "id": "hand_equip#570",
+     "jp": "ディセンダーと認められた魔法剣士専用の篭手",
+     "en": "Gauntlets exclusive to a Spellsword recognized as a Descender.",
+     "bytes": 62
+    },
+    {
+     "id": "hand_equip#621",
+     "jp": "ディセンダーの為に作られた格闘家専用の腕輪",
+     "en": "A bracelet crafted exclusively for a Descender Martial Artist.",
+     "bytes": 62
+    },
+    {
+     "id": "hand_equip#645",
+     "jp": "ディセンダーの為に作られた大剣士専用の篭手",
+     "en": "Gauntlets crafted exclusively for a Descender Great Swordsman.",
+     "bytes": 62
+    },
+    {
+     "id": "hand_equip#54",
+     "jp": "魔界の大公爵アスタロトの福音を受けたガントレット",
+     "en": "Gauntlets blessed by Astaroth, Grand Duke of the Netherworld.",
+     "bytes": 61
+    },
+    {
+     "id": "hand_equip#122",
+     "jp": "魂の開放を求めて踊る者が着用するグローブ",
+     "en": "Gloves worn by dancers seeking the liberation of their souls.",
+     "bytes": 61
+    },
+    {
+     "id": "hand_equip#125",
+     "jp": "少佐の階級の者が着用する第二種礼装用の手袋",
+     "en": "Type 2 service dress gloves worn by an officer of major rank.",
+     "bytes": 61
+    },
+    {
+     "id": "hand_equip#147",
+     "jp": "宇宙存在アリオンの波動を受けた手袋",
+     "en": "Gloves that have received waves from the cosmic entity Arion.",
+     "bytes": 61
+    },
+    {
+     "id": "hand_equip#215",
+     "jp": "東方の大男弁慶が着用していた篭手",
+     "en": "Gauntlets once worn by Benkei, the giant warrior of the East.",
+     "bytes": 61
+    },
+    {
+     "id": "hand_equip#473",
+     "jp": "龍王の位を持つ功夫使いが着用する腕輪",
+     "en": "A bracelet worn by kung fu practitioners of Dragon King rank.",
+     "bytes": 61
+    },
+    {
+     "id": "hand_equip#505",
+     "jp": "城の親衛隊長となった術者のグローブ",
+     "en": "Gloves worn by mages appointed as captain of the royal guard.",
+     "bytes": 61
+    },
+    {
+     "id": "hand_equip#567",
+     "jp": "ディセンダーと認められた剣士専用の篭手",
+     "en": "Gauntlets exclusive to a Swordsman recognized as a Descender.",
+     "bytes": 61
+    },
+    {
+     "id": "hand_equip#642",
+     "jp": "ディセンダーの為に作られた双剣士専用の篭手",
+     "en": "Gauntlets crafted exclusively for a Descender Twin Swordsman.",
+     "bytes": 61
+    },
+    {
+     "id": "hand_equip#413",
+     "jp": "戦国大名を彷彿とさせる篭手",
+     "en": "Gauntlets reminiscent of feudal lords of the Warring States.",
+     "bytes": 60
+    },
+    {
+     "id": "hand_equip#39",
+     "jp": "ナイトの称号を持つ者に与えられるガントレット",
+     "en": "Gauntlets bestowed upon those who hold the title of Knight.",
+     "bytes": 59
+    },
+    {
+     "id": "hand_equip#519",
+     "jp": "光にも似た強烈なオーラを放つ可愛いアームカバー",
+     "en": "Cute arm covers radiating an intense aura resembling light.",
+     "bytes": 59
+    },
+    {
+     "id": "hand_equip#525",
+     "jp": "東方の秘神クラヤマツミの加護を受けた手帯",
+     "en": "Handwraps blessed by Kurayamatsumi, secret god of the East.",
+     "bytes": 59
+    },
+    {
+     "id": "hand_equip#564",
+     "jp": "ディセンダーと認められた戦士専用の篭手",
+     "en": "Gauntlets exclusive to a Warrior recognized as a Descender.",
+     "bytes": 59
+    },
+    {
+     "id": "hand_equip#606",
+     "jp": "ディセンダーと認められた聖騎士専用の篭手",
+     "en": "Gauntlets exclusive to a Paladin recognized as a Descender.",
+     "bytes": 59
+    },
+    {
+     "id": "hand_equip#84",
+     "jp": "物の怪土蜘蛛を討伐する者が着用する手帯",
+     "en": "Handwraps worn by those who hunt the monstrous Tsuchigumo.",
+     "bytes": 58
+    },
+    {
+     "id": "hand_equip#103",
+     "jp": "校則に定められた学士用のリストバンド",
+     "en": "A wristband for scholars prescribed by school regulations.",
+     "bytes": 58
+    },
+    {
+     "id": "hand_equip#221",
+     "jp": "継ぎ目の少ない全身鎧の腕部",
+     "en": "Arm sections of a full suit of armor with seamless plates.",
+     "bytes": 58
+    },
+    {
+     "id": "hand_equip#227",
+     "jp": "バロンの称号を持つ者に与えられるガントレット",
+     "en": "Gauntlets bestowed upon those who hold the title of Baron.",
+     "bytes": 58
+    },
+    {
+     "id": "hand_equip#334",
+     "jp": "宇宙存在ラーの波動を受けた手袋",
+     "en": "Gloves that have received waves from the cosmic entity Ra.",
+     "bytes": 58
+    },
+    {
+     "id": "hand_equip#450",
+     "jp": "総督が警備の巡察で着用するグローブ",
+     "en": "Gloves worn by a governor-general on security inspections.",
+     "bytes": 58
+    },
+    {
+     "id": "hand_equip#535",
+     "jp": "東方で最も高位の貴族が着用するブレスレット",
+     "en": "A bracelet worn by the highest-ranking nobles of the East.",
+     "bytes": 58
+    },
+    {
+     "id": "hand_equip#576",
+     "jp": "ディセンダーと認められた狩人専用の篭手",
+     "en": "Gauntlets exclusive to a Hunter recognized as a Descender.",
+     "bytes": 58
+    },
+    {
+     "id": "hand_equip#603",
+     "jp": "ディセンダーと認められた海賊専用の篭手",
+     "en": "Gauntlets exclusive to a Pirate recognized as a Descender.",
+     "bytes": 58
+    },
+    {
+     "id": "hand_equip#87",
+     "jp": "少尉の階級の証である手袋",
+     "en": "Gloves serving as proof of the rank of second lieutenant.",
+     "bytes": 57
+    },
+    {
+     "id": "hand_equip#415",
+     "jp": "デュークの称号を持つ者に与えられるガントレット",
+     "en": "Gauntlets bestowed upon those who hold the title of Duke.",
+     "bytes": 57
+    },
+    {
+     "id": "hand_equip#430",
+     "jp": "魔界の皇帝ルシフェルの福音を受けたガントレット",
+     "en": "Gauntlets blessed by Lucifer, Emperor of the Netherworld.",
+     "bytes": 57
+    },
+    {
+     "id": "hand_equip#579",
+     "jp": "ディセンダーと認められた盗賊専用の篭手",
+     "en": "Gauntlets exclusive to a Thief recognized as a Descender.",
+     "bytes": 57
+    },
+    {
+     "id": "hand_equip#582",
+     "jp": "ディセンダーと認められた忍者専用の篭手",
+     "en": "Gauntlets exclusive to a Ninja recognized as a Descender.",
+     "bytes": 57
+    },
+    {
+     "id": "hand_equip#600",
+     "jp": "ディセンダーと認められたモンク専用の腕輪",
+     "en": "A bracelet exclusive to a Monk recognized as a Descender.",
+     "bytes": 57
+    },
+    {
+     "id": "hand_equip#618",
+     "jp": "ディセンダーの為に作られた魔法剣士専用の篭手",
+     "en": "Gauntlets crafted exclusively for a Descender Spellsword.",
+     "bytes": 57
+    },
+    {
+     "id": "hand_equip#225",
+     "jp": "戦国武将を彷彿とさせる篭手",
+     "en": "Gauntlets reminiscent of warlords of the Warring States.",
+     "bytes": 56
+    },
+    {
+     "id": "hand_equip#242",
+     "jp": "魔界の君主ベルゼバブの福音を受けたガントレット",
+     "en": "Gauntlets blessed by Beelzebub, Lord of the Netherworld.",
+     "bytes": 56
+    },
+    {
+     "id": "hand_equip#275",
+     "jp": "中尉の階級の証である手袋",
+     "en": "Gloves serving as proof of the rank of first lieutenant.",
+     "bytes": 56
+    },
+    {
+     "id": "hand_equip#337",
+     "jp": "東方の秘神ミカハヤヒの加護を受けた手帯",
+     "en": "Handwraps blessed by Mikahayahi, secret god of the East.",
+     "bytes": 56
+    },
+    {
+     "id": "hand_equip#342",
+     "jp": "三日月の様な美しい輝きを放つグローブ",
+     "en": "Gloves giving off a beautiful glow like a crescent moon.",
+     "bytes": 56
+    },
+    {
+     "id": "hand_equip#470",
+     "jp": "謎の暗殺教団が着用するガントレット",
+     "en": "Gauntlets worn by members of a mysterious assassin cult.",
+     "bytes": 56
+    },
+    {
+     "id": "hand_equip#510",
+     "jp": "裏地に神秘文様を施したグローブ",
+     "en": "Gloves lined with mystical patterns on the reverse side.",
+     "bytes": 56
+    },
+    {
+     "id": "hand_equip#615",
+     "jp": "ディセンダーの為に作られた剣士専用の篭手",
+     "en": "Gauntlets crafted exclusively for a Descender Swordsman.",
+     "bytes": 56
+    },
+    {
+     "id": "hand_equip#69",
+     "jp": "修行に励む修行僧が着用する手袋",
+     "en": "Gloves worn by ascetic monks devoted to their training.",
+     "bytes": 55
+    },
+    {
+     "id": "hand_equip#326",
+     "jp": "着る者の目標達成を助けるというグローブ",
+     "en": "Gloves said to aid the wearer in achieving their goals.",
+     "bytes": 55
+    },
+    {
+     "id": "hand_equip#588",
+     "jp": "ディセンダーと認められた僧侶専用の手袋",
+     "en": "Gloves exclusive to a Priest recognized as a Descender.",
+     "bytes": 55
+    },
+    {
+     "id": "hand_equip#591",
+     "jp": "ディセンダーと認められたビショップ専用の手袋",
+     "en": "Gloves exclusive to a Bishop recognized as a Descender.",
+     "bytes": 55
+    },
+    {
+     "id": "hand_equip#609",
+     "jp": "ディセンダーと認められたガンマン専用のグローブ",
+     "en": "Gloves exclusive to a Gunman recognized as a Descender.",
+     "bytes": 55
+    },
+    {
+     "id": "hand_equip#48",
+     "jp": "堅い守りと重量感溢れるガントレット",
+     "en": "Gauntlets boasting solid defense and substantial heft.",
+     "bytes": 54
+    },
+    {
+     "id": "hand_equip#112",
+     "jp": "聖獣朱雀の名を冠する篭手",
+     "en": "Gauntlets bearing the name of the sacred beast Suzaku.",
+     "bytes": 54
+    },
+    {
+     "id": "hand_equip#193",
+     "jp": "霊草ガルヒーナの名を冠するガントレット",
+     "en": "Gauntlets bearing the name of the sacred herb garhina.",
+     "bytes": 54
+    },
+    {
+     "id": "hand_equip#356",
+     "jp": "かつて天上人が着用したというグローブ",
+     "en": "Gloves said to have once been worn by heavenly beings.",
+     "bytes": 54
+    },
+    {
+     "id": "hand_equip#396",
+     "jp": "覇龍の魂が宿るといわれる篭手",
+     "en": "Gauntlets said to harbor the soul of a supreme dragon.",
+     "bytes": 54
+    },
+    {
+     "id": "hand_equip#487",
+     "jp": "聖獣白虎の名を冠する篭手",
+     "en": "Gauntlets bearing the name of the sacred beast Byakko.",
+     "bytes": 54
+    },
+    {
+     "id": "hand_equip#612",
+     "jp": "ディセンダーの為に作られた戦士専用の篭手",
+     "en": "Gauntlets crafted exclusively for a Descender Warrior.",
+     "bytes": 54
+    },
+    {
+     "id": "hand_equip#653",
+     "jp": "ディセンダーの為に作られた聖騎士専用の篭手",
+     "en": "Gauntlets crafted exclusively for a Descender Paladin.",
+     "bytes": 54
+    },
+    {
+     "id": "hand_equip#5",
+     "jp": "霊草ブラフミーの名を冠するガントレット",
+     "en": "Gauntlets bearing the name of the sacred herb brahmi.",
+     "bytes": 53
+    },
+    {
+     "id": "hand_equip#7",
+     "jp": "露出度にちょっとしたアクセントのグローブ",
+     "en": "Gloves that add a little accent to revealing outfits.",
+     "bytes": 53
+    },
+    {
+     "id": "hand_equip#20",
+     "jp": "小龍の魂が宿るといわれる篭手",
+     "en": "Gauntlets said to harbor the soul of a lesser dragon.",
+     "bytes": 53
+    },
+    {
+     "id": "hand_equip#144",
+     "jp": "不思議な魔力が込められた可愛いアームカバー",
+     "en": "Cute arm covers imbued with mysterious magical power.",
+     "bytes": 53
+    },
+    {
+     "id": "hand_equip#150",
+     "jp": "東方の秘神イハサクの加護を受けた手帯",
+     "en": "Handwraps blessed by Ihasaku, secret god of the East.",
+     "bytes": 53
+    },
+    {
+     "id": "hand_equip#195",
+     "jp": "素肌を際立たせるアクセントとなるグローブ",
+     "en": "Gloves that serve as an accent to show off bare skin.",
+     "bytes": 53
+    },
+    {
+     "id": "hand_equip#208",
+     "jp": "龍王の魂が宿るといわれる篭手",
+     "en": "Gauntlets said to harbor the soul of the Dragon King.",
+     "bytes": 53
+    },
+    {
+     "id": "hand_equip#231",
+     "jp": "獣神ハヌマーンの名を冠するガントレット",
+     "en": "Gauntlets bearing the name of the monkey god Hanuman.",
+     "bytes": 53
+    },
+    {
+     "id": "hand_equip#299",
+     "jp": "聖獣玄武の名を冠する篭手",
+     "en": "Gauntlets bearing the name of the sacred beast Genbu.",
+     "bytes": 53
+    },
+    {
+     "id": "hand_equip#445",
+     "jp": "説法に赴く僧正が着用する手袋",
+     "en": "Gloves worn by high priests going to deliver sermons.",
+     "bytes": 53
+    },
+    {
+     "id": "hand_equip#455",
+     "jp": "教義を広める僧正の数珠",
+     "en": "Prayer beads of a high priest spreading the doctrine.",
+     "bytes": 53
+    },
+    {
+     "id": "hand_equip#460",
+     "jp": "物の怪天狗を討伐する者が着用する手帯",
+     "en": "Handwraps worn by those who hunt the monstrous Tengu.",
+     "bytes": 53
+    },
+    {
+     "id": "hand_equip#484",
+     "jp": "大海賊の風格を持ったブレスレット",
+     "en": "A bracelet possessing the presence of a great pirate.",
+     "bytes": 53
+    },
+    {
+     "id": "hand_equip#585",
+     "jp": "ディセンダーと認められた魔術師専用の手袋",
+     "en": "Gloves exclusive to a Mage recognized as a Descender.",
+     "bytes": 53
+    },
+    {
+     "id": "hand_equip#624",
+     "jp": "ディセンダーの為に作られた狩人専用の篭手",
+     "en": "Gauntlets crafted exclusively for a Descender Hunter.",
+     "bytes": 53
+    },
+    {
+     "id": "hand_equip#43",
+     "jp": "獣神ガネーシャの名を冠するガントレット",
+     "en": "Gauntlets bearing the name of the beast god Ganesha.",
+     "bytes": 52
+    },
+    {
+     "id": "hand_equip#155",
+     "jp": "古き月の女神を信仰する者のグローブ",
+     "en": "Gloves worn by devotees of the ancient moon goddess.",
+     "bytes": 52
+    },
+    {
+     "id": "hand_equip#162",
+     "jp": "マフィアの相談役顧問が着用するグラブ",
+     "en": "Gloves worn by advisors and counselors of the mafia.",
+     "bytes": 52
+    },
+    {
+     "id": "hand_equip#309",
+     "jp": "新しい魂の道を求める者が着用するグローブ",
+     "en": "Gloves worn by those seeking a new path of the soul.",
+     "bytes": 52
+    },
+    {
+     "id": "hand_equip#329",
+     "jp": "外法の術を使う術士の手袋",
+     "en": "Gloves worn by mages who practice forbidden sorcery.",
+     "bytes": 52
+    },
+    {
+     "id": "hand_equip#381",
+     "jp": "霊草トゥルシーの名を冠するガントレット",
+     "en": "Gauntlets bearing the name of the sacred herb tulsi.",
+     "bytes": 52
+    },
+    {
+     "id": "hand_equip#476",
+     "jp": "竜の調教を生業とする者が着用する手袋",
+     "en": "Gloves worn by those who train dragons for a living.",
+     "bytes": 52
+    },
+    {
+     "id": "hand_equip#627",
+     "jp": "ディセンダーの為に作られた盗賊専用の篭手",
+     "en": "Gauntlets crafted exclusively for a Descender Thief.",
+     "bytes": 52
+    },
+    {
+     "id": "hand_equip#630",
+     "jp": "ディセンダーの為に作られた忍者専用の篭手",
+     "en": "Gauntlets crafted exclusively for a Descender Ninja.",
+     "bytes": 52
+    },
+    {
+     "id": "hand_equip#648",
+     "jp": "ディセンダーの為に作られたモンク専用の腕輪",
+     "en": "A bracelet crafted exclusively for a Descender Monk.",
+     "bytes": 52
+    },
+    {
+     "id": "hand_equip#63",
+     "jp": "逃げる牛を追う者が着用するグローブ",
+     "en": "Gloves worn by those who chase down fleeing cattle.",
+     "bytes": 51
+    },
+    {
+     "id": "hand_equip#137",
+     "jp": "尊敬を一身に集める術士のグローブ",
+     "en": "Gloves worn by mages who command universal respect.",
+     "bytes": 51
+    },
+    {
+     "id": "hand_equip#272",
+     "jp": "物の怪鵺を討伐する者が着用する手帯",
+     "en": "Handwraps worn by those who hunt the monstrous Nue.",
+     "bytes": 51
+    },
+    {
+     "id": "hand_equip#288",
+     "jp": "虎の調教を生業とする者が着用する手袋",
+     "en": "Gloves worn by those who train tigers for a living.",
+     "bytes": 51
+    },
+    {
+     "id": "hand_equip#398",
+     "jp": "上級の爵位を持つ者に与えられるグラブ",
+     "en": "Gloves granted to those holding a high noble title.",
+     "bytes": 51
+    },
+    {
+     "id": "hand_equip#419",
+     "jp": "獣神アヌビスの名を冠するガントレット",
+     "en": "Gauntlets bearing the name of the beast god Anubis.",
+     "bytes": 51
+    },
+    {
+     "id": "hand_equip#447",
+     "jp": "歴戦の傭兵の活動に適したグローブ",
+     "en": "Gloves well suited for battle-hardened mercenaries.",
+     "bytes": 51
+    },
+    {
+     "id": "hand_equip#37",
+     "jp": "鎧武者を彷彿とさせる篭手",
+     "en": "Gauntlets reminiscent of armored samurai warriors.",
+     "bytes": 50
+    },
+    {
+     "id": "hand_equip#358",
+     "jp": "貴い芸術品でもあるグローブ",
+     "en": "Gloves that also serve as a priceless work of art.",
+     "bytes": 50
+    },
+    {
+     "id": "hand_equip#400",
+     "jp": "竜の威風を持つ腕部用防具",
+     "en": "Arm armor exuding the majestic dignity of dragons.",
+     "bytes": 50
+    },
+    {
+     "id": "hand_equip#556",
+     "jp": "古代の技法で作られた伝説の腕輪",
+     "en": "A legendary bracelet made with ancient techniques.",
+     "bytes": 50
+    },
+    {
+     "id": "hand_equip#636",
+     "jp": "ディセンダーの為に作られた僧侶専用の手袋",
+     "en": "Gloves crafted exclusively for a Descender Priest.",
+     "bytes": 50
+    },
+    {
+     "id": "hand_equip#639",
+     "jp": "ディセンダーの為に作られたビショップ専用の手袋",
+     "en": "Gloves crafted exclusively for a Descender Bishop.",
+     "bytes": 50
+    },
+    {
+     "id": "hand_equip#650",
+     "jp": "ディセンダーの為に作られた海賊専用のグローブ",
+     "en": "Gloves crafted exclusively for a Descender Pirate.",
+     "bytes": 50
+    },
+    {
+     "id": "hand_equip#655",
+     "jp": "ディセンダーの為に作られたガンマン専用のグローブ",
+     "en": "Gloves crafted exclusively for a Descender Gunman.",
+     "bytes": 50
+    },
+    {
+     "id": "hand_equip#100",
+     "jp": "犬の調教を生業とする者が着用する手袋",
+     "en": "Gloves worn by those who train dogs for a living.",
+     "bytes": 49
+    },
+    {
+     "id": "hand_equip#202",
+     "jp": "小さな青銅の板をあしらった布のガントレット",
+     "en": "Cloth gauntlets adorned with small bronze plates.",
+     "bytes": 49
+    },
+    {
+     "id": "hand_equip#390",
+     "jp": "小さなクロームの板をあしらった布のガントレット",
+     "en": "Cloth gauntlets adorned with small chrome plates.",
+     "bytes": 49
+    },
+    {
+     "id": "hand_equip#14",
+     "jp": "小さな金属板をあしらった布のガントレット",
+     "en": "Cloth gauntlets adorned with small metal plates.",
+     "bytes": 48
+    },
+    {
+     "id": "hand_equip#17",
+     "jp": "一匹狼の戦士が身に着けるという篭手",
+     "en": "Gauntlets said to be worn by lone wolf warriors.",
+     "bytes": 48
+    },
+    {
+     "id": "hand_equip#97",
+     "jp": "入門したての功夫使いが着用する腕輪",
+     "en": "A bracelet worn by novice kung fu practitioners.",
+     "bytes": 48
+    },
+    {
+     "id": "hand_equip#262",
+     "jp": "隊長が巡回警備で着用するグローブ",
+     "en": "Gloves worn by squad leaders during patrol duty.",
+     "bytes": 48
+    },
+    {
+     "id": "hand_equip#633",
+     "jp": "ディセンダーの為に作られた魔術師専用の手袋",
+     "en": "Gloves crafted exclusively for a Descender Mage.",
+     "bytes": 48
+    },
+    {
+     "id": "hand_equip#91",
+     "jp": "呪術師イエロー・スパイダーが祈祷したグローブ",
+     "en": "Gloves consecrated by the shaman Yellow Spider.",
+     "bytes": 47
+    },
+    {
+     "id": "hand_equip#463",
+     "jp": "大尉の階級の証である手袋",
+     "en": "Gloves serving as proof of the rank of captain.",
+     "bytes": 47
+    },
+    {
+     "id": "hand_equip#130",
+     "jp": "城の衛士となった術者のグローブ",
+     "en": "Gloves worn by mages serving as castle guards.",
+     "bytes": 46
+    },
+    {
+     "id": "hand_equip#153",
+     "jp": "祈祷用に作られた手袋",
+     "en": "Gloves crafted specifically for ritual prayer.",
+     "bytes": 46
+    },
+    {
+     "id": "hand_equip#169",
+     "jp": "煌めく星をイメージしたグローブ",
+     "en": "Gloves styled in the image of twinkling stars.",
+     "bytes": 46
+    },
+    {
+     "id": "hand_equip#210",
+     "jp": "爵位を持つ者に与えられるグラブ",
+     "en": "Gloves granted to those holding a noble title.",
+     "bytes": 46
+    },
+    {
+     "id": "hand_equip#212",
+     "jp": "風の如き動作を可能にした腕部用防具",
+     "en": "Arm armor that enables movement like the wind.",
+     "bytes": 46
+    },
+    {
+     "id": "hand_equip#257",
+     "jp": "寺院警備の僧兵が着用する手袋",
+     "en": "Gloves worn by warrior monks guarding temples.",
+     "bytes": 46
+    },
+    {
+     "id": "hand_equip#324",
+     "jp": "信頼を一身に集める術士のグローブ",
+     "en": "Gloves worn by mages who enjoy complete trust.",
+     "bytes": 46
+    },
+    {
+     "id": "hand_equip#367",
+     "jp": "鉛版が入っている特訓用の腕輪",
+     "en": "A training bracelet weighted with lead plates.",
+     "bytes": 46
+    },
+    {
+     "id": "hand_equip#686",
+     "jp": "腕を保護する一般的な皮のグローブ",
+     "en": "Standard leather gloves that protect the arms.",
+     "bytes": 46
+    },
+    {
+     "id": "hand_equip#205",
+     "jp": "無法者の戦士が身に着けるという篭手",
+     "en": "Gauntlets said to be worn by outlaw warriors.",
+     "bytes": 45
+    },
+    {
+     "id": "hand_equip#238",
+     "jp": "不吉な意匠の鎧の腕部",
+     "en": "Arm sections of armor with an ominous design.",
+     "bytes": 45
+    },
+    {
+     "id": "hand_equip#269",
+     "jp": "大型戦艦の艦長が着用するグラブ",
+     "en": "Gloves worn by captains of large battleships.",
+     "bytes": 45
+    },
+    {
+     "id": "hand_equip#331",
+     "jp": "奇跡の力が込められた可愛いアームカバー",
+     "en": "Cute arm covers imbued with miraculous power.",
+     "bytes": 45
+    },
+    {
+     "id": "hand_equip#426",
+     "jp": "禍々しい意匠の鎧の腕部",
+     "en": "Arm sections of armor with a sinister design.",
+     "bytes": 45
+    },
+    {
+     "id": "hand_equip#467",
+     "jp": "呪術師シルバー・ピューマが祈祷したグローブ",
+     "en": "Gloves consecrated by the shaman Silver Puma.",
+     "bytes": 45
+    },
+    {
+     "id": "hand_equip#27",
+     "jp": "東方の兵士が着用していた篭手",
+     "en": "Gauntlets once worn by soldiers of the East.",
+     "bytes": 44
+    },
+    {
+     "id": "hand_equip#279",
+     "jp": "呪術師レッド・コヨーテが祈祷したグローブ",
+     "en": "Gloves consecrated by the shaman Red Coyote.",
+     "bytes": 44
+    },
+    {
+     "id": "hand_equip#452",
+     "jp": "荒野の用心棒が着用するグラブ",
+     "en": "Gloves worn by bodyguards of the wilderness.",
+     "bytes": 44
+    },
+    {
+     "id": "hand_equip#50",
+     "jp": "不気味な意匠の鎧の腕部",
+     "en": "Arm sections of armor with an eerie design.",
+     "bytes": 43
+    },
+    {
+     "id": "hand_equip#66",
+     "jp": "妙なる光を湛えた篭手",
+     "en": "Gauntlets brimming with an exquisite light.",
+     "bytes": 43
+    },
+    {
+     "id": "hand_equip#71",
+     "jp": "サバイバル活動に適したグローブ",
+     "en": "Gloves well suited for survival activities.",
+     "bytes": 43
+    },
+    {
+     "id": "hand_equip#74",
+     "jp": "兵士が巡回警備で着用するグローブ",
+     "en": "Gloves worn by soldiers during patrol duty.",
+     "bytes": 43
+    },
+    {
+     "id": "hand_equip#191",
+     "jp": "銀河級と称えられたグローブ",
+     "en": "Gloves hailed as being on a galactic scale.",
+     "bytes": 43
+    },
+    {
+     "id": "hand_equip#282",
+     "jp": "軍属の粛清執行人が着用するガントレット",
+     "en": "Gauntlets worn by military purge enforcers.",
+     "bytes": 43
+    },
+    {
+     "id": "hand_equip#433",
+     "jp": "玄人傭兵が着用するグラブ",
+     "en": "Gloves worn by seasoned expert mercenaries.",
+     "bytes": 43
+    },
+    {
+     "id": "hand_equip#539",
+     "jp": "プラチナの飾り付けが施されたバンド",
+     "en": "A band embellished with platinum ornaments.",
+     "bytes": 43
+    },
+    {
+     "id": "hand_equip#3",
+     "jp": "星雲級と称えられたグローブ",
+     "en": "Gloves hailed as being on a nebular scale.",
+     "bytes": 42
+    },
+    {
+     "id": "hand_equip#167",
+     "jp": "退魔の術士が着用する篭手",
+     "en": "Gauntlets worn by demon-banishing onmyoji.",
+     "bytes": 42
+    },
+    {
+     "id": "hand_equip#171",
+     "jp": "古くさい製法で作られたグローブ",
+     "en": "Gloves made with archaic crafting methods.",
+     "bytes": 42
+    },
+    {
+     "id": "hand_equip#251",
+     "jp": "荒野の流れ者が着用するグローブ",
+     "en": "Gloves worn by drifters of the wilderness.",
+     "bytes": 42
+    },
+    {
+     "id": "hand_equip#322",
+     "jp": "占い師が着用する摩訶不思議なグローブ",
+     "en": "Mysterious gloves worn by fortune-tellers.",
+     "bytes": 42
+    },
+    {
+     "id": "hand_equip#424",
+     "jp": "神秘文様を刻んだガントレット",
+     "en": "Gauntlets engraved with mystical patterns.",
+     "bytes": 42
+    },
+    {
+     "id": "hand_equip#457",
+     "jp": "艦隊を率いる提督が着用するグラブ",
+     "en": "Gloves worn by an admiral leading a fleet.",
+     "bytes": 42
+    },
+    {
+     "id": "hand_equip#24",
+     "jp": "動きやすさ重視の腕部用防具",
+     "en": "Arm armor designed with mobility in mind.",
+     "bytes": 41
+    },
+    {
+     "id": "hand_equip#164",
+     "jp": "白くて清潔感が漂うバンド",
+     "en": "A clean white band with an air of purity.",
+     "bytes": 41
+    },
+    {
+     "id": "hand_equip#247",
+     "jp": "メッシュ加工がされたグローブ",
+     "en": "Gloves featuring breathable mesh styling.",
+     "bytes": 41
+    },
+    {
+     "id": "hand_equip#254",
+     "jp": "霊威みなぎる篭手",
+     "en": "Gauntlets surging with spiritual majesty.",
+     "bytes": 41
+    },
+    {
+     "id": "hand_equip#302",
+     "jp": "熱心者の術士が着用するリストバンド",
+     "en": "A wristband worn by devout zealous mages.",
+     "bytes": 41
+    },
+    {
+     "id": "hand_equip#379",
+     "jp": "クエーサー級と称えられたグローブ",
+     "en": "Gloves hailed as being on a quasar scale.",
+     "bytes": 41
+    },
+    {
+     "id": "hand_equip#439",
+     "jp": "早撃ちの名手が着用するグローブ",
+     "en": "Gloves worn by master quick-draw artists.",
+     "bytes": 41
+    },
+    {
+     "id": "hand_equip#508",
+     "jp": "名軍師が好んで着用する腕輪",
+     "en": "A bracelet favored by master strategists.",
+     "bytes": 41
+    },
+    {
+     "id": "hand_equip#29",
+     "jp": "下士官用のガントレット",
+     "en": "Gauntlets for non-commissioned officers.",
+     "bytes": 40
+    },
+    {
+     "id": "hand_equip#160",
+     "jp": "東方の貴族が着用するブレスレット",
+     "en": "A bracelet worn by nobility of the East.",
+     "bytes": 40
+    },
+    {
+     "id": "hand_equip#259",
+     "jp": "野戦活動に適したグローブ",
+     "en": "Gloves well suited for field operations.",
+     "bytes": 40
+    },
+    {
+     "id": "hand_equip#320",
+     "jp": "名策士が好んで着用する腕輪",
+     "en": "A bracelet favored by master tacticians.",
+     "bytes": 40
+    },
+    {
+     "id": "hand_equip#349",
+     "jp": "マフィアの幹部が着用するグラブ",
+     "en": "Gloves worn by caporegimes of the mafia.",
+     "bytes": 40
+    },
+    {
+     "id": "hand_equip#532",
+     "jp": "異国の国王が身に着けるバングル",
+     "en": "A bangle worn by kings of foreign lands.",
+     "bytes": 40
+    },
+    {
+     "id": "hand_equip#537",
+     "jp": "マフィアの若頭が着用するグラブ",
+     "en": "Gloves worn by underbosses of the mafia.",
+     "bytes": 40
+    },
+    {
+     "id": "hand_equip#679",
+     "jp": "お子様に夢を与える赤い手袋",
+     "en": "Red gloves that give dreams to children.",
+     "bytes": 40
+    },
+    {
+     "id": "hand_equip#59",
+     "jp": "厚手の布を多用したグローブ",
+     "en": "Gloves made with plenty of thick cloth.",
+     "bytes": 39
+    },
+    {
+     "id": "hand_equip#135",
+     "jp": "幸運を求めし者のグローブ",
+     "en": "Gloves worn by seekers of good fortune.",
+     "bytes": 39
+    },
+    {
+     "id": "hand_equip#296",
+     "jp": "はぐれ者達が身に着けるブレスレット",
+     "en": "A bracelet worn by outcasts and rogues.",
+     "bytes": 39
+    },
+    {
+     "id": "hand_equip#310",
+     "jp": "軍中佐第二種礼装手袋",
+     "en": "Lieutenant Colonel Service Dress Gloves",
+     "bytes": 39
+    },
+    {
+     "id": "hand_equip#340",
+     "jp": "儀式に用いる派手な手袋",
+     "en": "Showy gloves used in religious rituals.",
+     "bytes": 39
+    },
+    {
+     "id": "hand_equip#347",
+     "jp": "東方の摂政が着用するブレスレット",
+     "en": "A bracelet worn by regents of the East.",
+     "bytes": 39
+    },
+    {
+     "id": "hand_equip#94",
+     "jp": "フリーの殺し屋が着用するガントレット",
+     "en": "Gauntlets worn by freelance assassins.",
+     "bytes": 38
+    },
+    {
+     "id": "hand_equip#127",
+     "jp": "お手伝いさんが着用するグローブ",
+     "en": "Gloves worn by housekeepers and maids.",
+     "bytes": 38
+    },
+    {
+     "id": "hand_equip#184",
+     "jp": "ガラスの玉をつなげた腕輪",
+     "en": "A bracelet made of strung glass beads.",
+     "bytes": 38
+    },
+    {
+     "id": "hand_equip#559",
+     "jp": "隕鉄を素材にした腕輪",
+     "en": "A bracelet crafted from meteoric iron.",
+     "bytes": 38
+    },
+    {
+     "id": "hand_equip#684",
+     "jp": "腕を保護する一般的なグローブ",
+     "en": "Standard gloves that protect the arms.",
+     "bytes": 38
+    },
+    {
+     "id": "hand_equip#10",
+     "jp": "歩兵隊猟兵に支給される篭手",
+     "en": "Gauntlets issued to infantry jaegers.",
+     "bytes": 37
+    },
+    {
+     "id": "hand_equip#31",
+     "jp": "隠密が着用していたグラブ",
+     "en": "Gloves once worn by undercover spies.",
+     "bytes": 37
+    },
+    {
+     "id": "hand_equip#198",
+     "jp": "山岳兵隊猟兵に支給される篭手",
+     "en": "Gauntlets issued to mountain jaegers.",
+     "bytes": 37
+    },
+    {
+     "id": "hand_equip#277",
+     "jp": "異国の風来坊が着用するアームガード",
+     "en": "Arm guards worn by foreign wanderers.",
+     "bytes": 37
+    },
+    {
+     "id": "hand_equip#370",
+     "jp": "ヒスイで装飾された腕輪",
+     "en": "A bracelet decorated with Hisui jade.",
+     "bytes": 37
+    },
+    {
+     "id": "hand_equip#407",
+     "jp": "名のある忍びが着用していたグラブ",
+     "en": "Gloves once worn by renowned shinobi.",
+     "bytes": 37
+    },
+    {
+     "id": "hand_equip#490",
+     "jp": "実践者の術士が着用するリストバンド",
+     "en": "A wristband worn by practicing mages.",
+     "bytes": 37
+    },
+    {
+     "id": "hand_equip#512",
+     "jp": "神に愛されし聖人のグローブ",
+     "en": "Gloves worn by saints beloved of God.",
+     "bytes": 37
+    },
+    {
+     "id": "hand_equip#514",
+     "jp": "上位のワーロックが着用するグローブ",
+     "en": "Gloves worn by high-ranking warlocks.",
+     "bytes": 37
+    },
+    {
+     "id": "hand_equip#89",
+     "jp": "異国の戦士が着用するアームガード",
+     "en": "Arm guards worn by foreign warriors.",
+     "bytes": 36
+    },
+    {
+     "id": "hand_equip#344",
+     "jp": "異国の豪族が身に着けるバングル",
+     "en": "A bangle worn by foreign chieftains.",
+     "bytes": 36
+    },
+    {
+     "id": "hand_equip#386",
+     "jp": "騎兵隊猟兵に支給される篭手",
+     "en": "Gauntlets issued to cavalry jaegers.",
+     "bytes": 36
+    },
+    {
+     "id": "hand_equip#245",
+     "jp": "中堅傭兵が着用するグラブ",
+     "en": "Gloves worn by veteran mercenaries.",
+     "bytes": 35
+    },
+    {
+     "id": "hand_equip#57",
+     "jp": "新米傭兵が着用するグラブ",
+     "en": "Gloves worn by novice mercenaries.",
+     "bytes": 34
+    },
+    {
+     "id": "hand_equip#139",
+     "jp": "詠唱者の為のグローブ",
+     "en": "Gloves tailored for chant casters.",
+     "bytes": 34
+    },
+    {
+     "id": "hand_equip#157",
+     "jp": "異国の巡礼者が身に着けるバングル",
+     "en": "A bangle worn by foreign pilgrims.",
+     "bytes": 34
+    },
+    {
+     "id": "hand_equip#173",
+     "jp": "闇の眷属が着用するグラブ",
+     "en": "Gloves worn by scions of darkness.",
+     "bytes": 34
+    },
+    {
+     "id": "hand_equip#495",
+     "jp": "パイナップル染のグローブ",
+     "en": "Gloves dyed with pineapple fibers.",
+     "bytes": 34
+    },
+    {
+     "id": "hand_equip#115",
+     "jp": "新参者の術士が着用するリストバンド",
+     "en": "A wristband worn by novice mages.",
+     "bytes": 33
+    },
+    {
+     "id": "hand_equip#133",
+     "jp": "策士が好んで着用する腕輪",
+     "en": "A bracelet favored by tacticians.",
+     "bytes": 33
+    },
+    {
+     "id": "hand_equip#176",
+     "jp": "ドライフラワーで作られた腕輪",
+     "en": "A bracelet made of dried flowers.",
+     "bytes": 33
+    },
+    {
+     "id": "hand_equip#264",
+     "jp": "開拓者が着用するグラブ",
+     "en": "Gloves worn by frontier pioneers.",
+     "bytes": 33
+    },
+    {
+     "id": "hand_equip#314",
+     "jp": "執事やメイドが着用するグローブ",
+     "en": "Gloves worn by butlers and maids.",
+     "bytes": 33
+    },
+    {
+     "id": "hand_equip#354",
+     "jp": "奇異なる術士が着用するグローブ",
+     "en": "Gloves worn by eccentric shamans.",
+     "bytes": 33
+    },
+    {
+     "id": "hand_equip#442",
+     "jp": "神光発する篭手",
+     "en": "Gauntlets radiating divine light.",
+     "bytes": 33
+    },
+    {
+     "id": "hand_equip#465",
+     "jp": "魔法で強化されたアームガード",
+     "en": "Arm guards reinforced with magic.",
+     "bytes": 33
+    },
+    {
+     "id": "hand_equip#548",
+     "jp": "不死の王が着用する手袋",
+     "en": "Gloves worn by the immortal king.",
+     "bytes": 33
+    },
+    {
+     "id": "hand_equip#561",
+     "jp": "真珠で装飾された腕輪",
+     "en": "A bracelet decorated with pearls.",
+     "bytes": 33
+    },
+    {
+     "id": "hand_equip#76",
+     "jp": "流浪のガンマンが着用するグラブ",
+     "en": "Gloves worn by wandering gunmen.",
+     "bytes": 32
+    },
+    {
+     "id": "hand_equip#120",
+     "jp": "藍染のグローブ",
+     "en": "Gloves dyed with natural indigo.",
+     "bytes": 32
+    },
+    {
+     "id": "hand_equip#217",
+     "jp": "士官用のガントレット",
+     "en": "Gauntlets for military officers.",
+     "bytes": 32
+    },
+    {
+     "id": "hand_equip#307",
+     "jp": "ギンネム染のグローブ",
+     "en": "Gloves dyed with white leadtree.",
+     "bytes": 32
+    },
+    {
+     "id": "hand_equip#365",
+     "jp": "水晶が散りばめられた腕輪",
+     "en": "A bracelet inlaid with crystals.",
+     "bytes": 32
+    },
+    {
+     "id": "hand_equip#374",
+     "jp": "琥珀をつなげた腕輪",
+     "en": "A bracelet made of strung amber.",
+     "bytes": 32
+    },
+    {
+     "id": "hand_equip#554",
+     "jp": "ダイヤが散りばめられた腕輪",
+     "en": "A bracelet inlaid with diamonds.",
+     "bytes": 32
+    },
+    {
+     "id": "hand_equip#180",
+     "jp": "厚手の布で作られた腕輪",
+     "en": "A bracelet made of thick cloth.",
+     "bytes": 31
+    },
+    {
+     "id": "hand_equip#352",
+     "jp": "銀の刺繍が施されたバンド",
+     "en": "A band embroidered with silver.",
+     "bytes": 31
+    },
+    {
+     "id": "hand_equip#109",
+     "jp": "野盗が好んで装備する腕輪",
+     "en": "A bracelet favored by bandits.",
+     "bytes": 30
+    },
+    {
+     "id": "hand_equip#372",
+     "jp": "珊瑚を素材にした腕輪",
+     "en": "A bracelet crafted from coral.",
+     "bytes": 30
+    },
+    {
+     "id": "hand_equip#405",
+     "jp": "上級士官用のガントレット",
+     "en": "Gauntlets for senior officers.",
+     "bytes": 30
+    },
+    {
+     "id": "hand_equip#81",
+     "jp": "船長が着用するグラブ",
+     "en": "Gloves worn by ship captains.",
+     "bytes": 29
+    },
+    {
+     "id": "hand_equip#189",
+     "jp": "厚手の革で作られたグローブ",
+     "en": "Gloves made of thick leather.",
+     "bytes": 29
+    },
+    {
+     "id": "hand_equip#435",
+     "jp": "羽の様に軽いグローブ",
+     "en": "Gloves as light as a feather.",
+     "bytes": 29
+    },
+    {
+     "id": "hand_equip#377",
+     "jp": "魔物の革製のグローブ",
+     "en": "Gloves made of monster hide.",
+     "bytes": 28
+    },
+    {
+     "id": "hand_equip#498",
+     "jp": "軍大佐第二種礼装手袋",
+     "en": "Colonel Service Dress Gloves",
+     "bytes": 28
+    },
+    {
+     "id": "hand_equip#541",
+     "jp": "死霊使いが着用するグローブ",
+     "en": "Gloves worn by necromancers.",
+     "bytes": 28
+    },
+    {
+     "id": "hand_equip#552",
+     "jp": "白金製の腕輪",
+     "en": "A bracelet made of platinum.",
+     "bytes": 28
+    },
+    {
+     "id": "hand_equip#625",
+     "jp": "義賊の篭手",
+     "en": "Chivalrous Thief's Gauntlets",
+     "bytes": 28
+    },
+    {
+     "id": "hand_equip#82",
+     "jp": "土蜘蛛討ちの手帯",
+     "en": "Tsuchigumo Hunter Handwraps",
+     "bytes": 27
+    },
+    {
+     "id": "hand_equip#182",
+     "jp": "革製の腕輪",
+     "en": "A bracelet made of leather.",
+     "bytes": 27
+    },
+    {
+     "id": "hand_equip#420",
+     "jp": "守護騎士団の篭手",
+     "en": "Guardian Knights' Gauntlets",
+     "bytes": 27
+    },
+    {
+     "id": "hand_equip#502",
+     "jp": "秘書が着用するグローブ",
+     "en": "Gloves worn by secretaries.",
+     "bytes": 27
+    },
+    {
+     "id": "hand_equip#595",
+     "jp": "大剣士の篭手",
+     "en": "Great Swordsman's Gauntlets",
+     "bytes": 27
+    },
+    {
+     "id": "hand_equip#22",
+     "jp": "剣闘士が身に着けるグラブ",
+     "en": "Gloves worn by gladiators.",
+     "bytes": 26
+    },
+    {
+     "id": "hand_equip#25",
+     "jp": "足軽大将の篭手",
+     "en": "Ashigaru Captain Gauntlets",
+     "bytes": 26
+    },
+    {
+     "id": "hand_equip#123",
+     "jp": "軍少佐第二種礼装手袋",
+     "en": "Major Service Dress Gloves",
+     "bytes": 26
+    },
+    {
+     "id": "hand_equip#219",
+     "jp": "忍者が着用していたグラブ",
+     "en": "Gloves once worn by ninja.",
+     "bytes": 26
+    },
+    {
+     "id": "hand_equip#362",
+     "jp": "銀製の腕輪",
+     "en": "A bracelet made of silver.",
+     "bytes": 26
+    },
+    {
+     "id": "hand_equip#388",
+     "jp": "オリカルクム製のグローブ",
+     "en": "Gloves made of orichalcum.",
+     "bytes": 26
+    },
+    {
+     "id": "hand_equip#503",
+     "jp": "親衛隊長のグローブ",
+     "en": "Royal Guard Captain Gloves",
+     "bytes": 26
+    },
+    {
+     "id": "hand_equip#506",
+     "jp": "名軍師の腕輪",
+     "en": "Master Strategist Bracelet",
+     "bytes": 26
+    },
+    {
+     "id": "hand_equip#687",
+     "jp": "最大値（手装備）",
+     "en": "Max Value (Hand Equipment)",
+     "bytes": 26
+    },
+    {
+     "id": "hand_equip#8",
+     "jp": "歩兵隊猟兵の篭手",
+     "en": "Infantry Jaeger Gauntlets",
+     "bytes": 25
+    },
+    {
+     "id": "hand_equip#187",
+     "jp": "真鍮製の腕輪",
+     "en": "A bracelet made of brass.",
+     "bytes": 25
+    },
+    {
+     "id": "hand_equip#196",
+     "jp": "山岳兵隊猟兵の篭手",
+     "en": "Mountain Jaeger Gauntlets",
+     "bytes": 25
+    },
+    {
+     "id": "hand_equip#289",
+     "jp": "晶霊学士のリストバンド",
+     "en": "Craymel Scholar Wristband",
+     "bytes": 25
+    },
+    {
+     "id": "hand_equip#318",
+     "jp": "名策士の腕輪",
+     "en": "Master Tactician Bracelet",
+     "bytes": 25
+    },
+    {
+     "id": "hand_equip#622",
+     "jp": "名射手の篭手",
+     "en": "Master Archer's Gauntlets",
+     "bytes": 25
+    },
+    {
+     "id": "hand_equip#640",
+     "jp": "二天剣士の篭手",
+     "en": "Niten Swordsman Gauntlets",
+     "bytes": 25
+    },
+    {
+     "id": "hand_equip#85",
+     "jp": "少尉の手袋",
+     "en": "Second Lieutenant Gloves",
+     "bytes": 24
+    },
+    {
+     "id": "hand_equip#178",
+     "jp": "木製の腕輪",
+     "en": "A bracelet made of wood.",
+     "bytes": 24
+    },
+    {
+     "id": "hand_equip#200",
+     "jp": "タングステン製のグローブ",
+     "en": "Gloves made of tungsten.",
+     "bytes": 24
+    },
+    {
+     "id": "hand_equip#243",
+     "jp": "中堅傭兵のグラブ",
+     "en": "Veteran Mercenary Gloves",
+     "bytes": 24
+    },
+    {
+     "id": "hand_equip#280",
+     "jp": "粛清執行人のガントレット",
+     "en": "Purge Enforcer Gauntlets",
+     "bytes": 24
+    },
+    {
+     "id": "hand_equip#360",
+     "jp": "吸血鬼が着用するグラブ",
+     "en": "Gloves worn by vampires.",
+     "bytes": 24
+    },
+    {
+     "id": "hand_equip#384",
+     "jp": "騎兵隊猟兵の篭手",
+     "en": "Cavalry Jaeger Gauntlets",
+     "bytes": 24
+    },
+    {
+     "id": "hand_equip#394",
+     "jp": "覇龍の篭手",
+     "en": "Supreme Dragon Gauntlets",
+     "bytes": 24
+    },
+    {
+     "id": "hand_equip#468",
+     "jp": "暗殺教団のガントレット",
+     "en": "Assassin Order Gauntlets",
+     "bytes": 24
+    },
+    {
+     "id": "hand_equip#477",
+     "jp": "精霊学士のリストバンド",
+     "en": "Spirit Scholar Wristband",
+     "bytes": 24
+    },
+    {
+     "id": "hand_equip#550",
+     "jp": "金製の腕輪",
+     "en": "A bracelet made of gold.",
+     "bytes": 24
+    },
+    {
+     "id": "hand_equip#592",
+     "jp": "二刀剣士の篭手",
+     "en": "Dual Swordsman Gauntlets",
+     "bytes": 24
+    },
+    {
+     "id": "hand_equip#616",
+     "jp": "魔法騎士の篭手",
+     "en": "Magic Knight's Gauntlets",
+     "bytes": 24
+    },
+    {
+     "id": "hand_equip#1",
+     "jp": "革製のグローブ",
+     "en": "Gloves made of leather.",
+     "bytes": 23
+    },
+    {
+     "id": "hand_equip#18",
+     "jp": "小龍の篭手",
+     "en": "Lesser Dragon Gauntlets",
+     "bytes": 23
+    },
+    {
+     "id": "hand_equip#55",
+     "jp": "新米傭兵のグラブ",
+     "en": "Novice Mercenary Gloves",
+     "bytes": 23
+    },
+    {
+     "id": "hand_equip#232",
+     "jp": "聖騎士団の篭手",
+     "en": "Holy Knights' Gauntlets",
+     "bytes": 23
+    },
+    {
+     "id": "hand_equip#273",
+     "jp": "中尉の手袋",
+     "en": "First Lieutenant Gloves",
+     "bytes": 23
+    },
+    {
+     "id": "hand_equip#431",
+     "jp": "玄人傭兵のグラブ",
+     "en": "Expert Mercenary Gloves",
+     "bytes": 23
+    },
+    {
+     "id": "hand_equip#448",
+     "jp": "総督のグローブ",
+     "en": "Governor-General Gloves",
+     "bytes": 23
+    },
+    {
+     "id": "hand_equip#480",
+     "jp": "武舞の篭手",
+     "en": "Martial Dance Gauntlets",
+     "bytes": 23
+    },
+    {
+     "id": "hand_equip#523",
+     "jp": "クラヤマツミの手帯",
+     "en": "Kurayamatsumi Handwraps",
+     "bytes": 23
+    },
+    {
+     "id": "hand_equip#598",
+     "jp": "准拳士の腕輪",
+     "en": "Associate Fist Bracelet",
+     "bytes": 23
+    },
+    {
+     "id": "hand_equip#643",
+     "jp": "処刑執行人の篭手",
+     "en": "Executioner's Gauntlets",
+     "bytes": 23
+    },
+    {
+     "id": "hand_equip#104",
+     "jp": "平舞の篭手",
+     "en": "Serene Dance Gauntlets",
+     "bytes": 22
+    },
+    {
+     "id": "hand_equip#283",
+     "jp": "小龍の腕輪",
+     "en": "Lesser Dragon Bracelet",
+     "bytes": 22
+    },
+    {
+     "id": "hand_equip#458",
+     "jp": "天狗討ちの手帯",
+     "en": "Tengu Hunter Handwraps",
+     "bytes": 22
+    },
+    {
+     "id": "hand_equip#488",
+     "jp": "実践者のリストバンド",
+     "en": "Practitioner Wristband",
+     "bytes": 22
+    },
+    {
+     "id": "hand_equip#568",
+     "jp": "魔法剣士の篭手",
+     "en": "Spellsword's Gauntlets",
+     "bytes": 22
+    },
+    {
+     "id": "hand_equip#646",
+     "jp": "大範士の腕輪",
+     "en": "Grandmaster's Bracelet",
+     "bytes": 22
+    },
+    {
+     "id": "hand_equip#685",
+     "jp": "クラシックレザーグローブ",
+     "en": "Classic Leather Gloves",
+     "bytes": 22
+    },
+    {
+     "id": "hand_equip#62",
+     "jp": "スティアレスラーグローブ",
+     "en": "Steer Wrestler Gloves",
+     "bytes": 21
+    },
+    {
+     "id": "hand_equip#206",
+     "jp": "龍王の篭手",
+     "en": "Dragon King Gauntlets",
+     "bytes": 21
+    },
+    {
+     "id": "hand_equip#292",
+     "jp": "走舞の篭手",
+     "en": "Swift Dance Gauntlets",
+     "bytes": 21
+    },
+    {
+     "id": "hand_equip#474",
+     "jp": "竜調教師の手袋",
+     "en": "Dragon Trainer Gloves",
+     "bytes": 21
+    },
+    {
+     "id": "hand_equip#565",
+     "jp": "剣士の篭手",
+     "en": "Swordsman's Gauntlets",
+     "bytes": 21
+    },
+    {
+     "id": "hand_equip#628",
+     "jp": "頭領の篭手",
+     "en": "Chieftain's Gauntlets",
+     "bytes": 21
+    },
+    {
+     "id": "hand_equip#651",
+     "jp": "剣聖の篭手",
+     "en": "Sword Saint Gauntlets",
+     "bytes": 21
+    },
+    {
+     "id": "hand_equip#12",
+     "jp": "鉄製のグローブ",
+     "en": "Gloves made of iron.",
+     "bytes": 20
+    },
+    {
+     "id": "hand_equip#158",
+     "jp": "公家のブレスレット",
+     "en": "Court Noble Bracelet",
+     "bytes": 20
+    },
+    {
+     "id": "hand_equip#270",
+     "jp": "鵺討ちの手帯",
+     "en": "Nue Hunter Handwraps",
+     "bytes": 20
+    },
+    {
+     "id": "hand_equip#286",
+     "jp": "虎調教師の手袋",
+     "en": "Tiger Trainer Gloves",
+     "bytes": 20
+    },
+    {
+     "id": "hand_equip#335",
+     "jp": "ミカハヤヒの手帯",
+     "en": "Mikahayahi Handwraps",
+     "bytes": 20
+    },
+    {
+     "id": "hand_equip#391",
+     "jp": "鬼神の篭手",
+     "en": "Fierce God Gauntlets",
+     "bytes": 20
+    },
+    {
+     "id": "hand_equip#401",
+     "jp": "義経の篭手",
+     "en": "Yoshitsune Gauntlets",
+     "bytes": 20
+    },
+    {
+     "id": "hand_equip#471",
+     "jp": "龍王の腕輪",
+     "en": "Dragon King Bracelet",
+     "bytes": 20
+    },
+    {
+     "id": "hand_equip#610",
+     "jp": "闘士の篭手",
+     "en": "Champion's Gauntlets",
+     "bytes": 20
+    },
+    {
+     "id": "hand_equip#619",
+     "jp": "小覇王の腕輪",
+     "en": "Conqueror's Bracelet",
+     "bytes": 20
+    },
+    {
+     "id": "hand_equip#15",
+     "jp": "孤狼の篭手",
+     "en": "Lone Wolf Gauntlets",
+     "bytes": 19
+    },
+    {
+     "id": "hand_equip#67",
+     "jp": "修行僧の手袋",
+     "en": "Ascetic Monk Gloves",
+     "bytes": 19
+    },
+    {
+     "id": "hand_equip#128",
+     "jp": "衛士のグローブ",
+     "en": "Castle Guard Gloves",
+     "bytes": 19
+    },
+    {
+     "id": "hand_equip#188",
+     "jp": "ハードレザーグローブ",
+     "en": "Hard Leather Gloves",
+     "bytes": 19
+    },
+    {
+     "id": "hand_equip#241",
+     "jp": "ベルゼバブガントレット",
+     "en": "Beelzebub Gauntlets",
+     "bytes": 19
+    },
+    {
+     "id": "hand_equip#250",
+     "jp": "ブロンコライダーグローブ",
+     "en": "Bronco Rider Gloves",
+     "bytes": 19
+    },
+    {
+     "id": "hand_equip#260",
+     "jp": "隊長のグローブ",
+     "en": "Squad Leader Gloves",
+     "bytes": 19
+    },
+    {
+     "id": "hand_equip#368",
+     "jp": "ヒスイの腕輪",
+     "en": "Hisui Jade Bracelet",
+     "bytes": 19
+    },
+    {
+     "id": "hand_equip#491",
+     "jp": "被免達人の手袋",
+     "en": "Exempt Adept Gloves",
+     "bytes": 19
+    },
+    {
+     "id": "hand_equip#562",
+     "jp": "戦士の篭手",
+     "en": "Warrior's Gauntlets",
+     "bytes": 19
+    },
+    {
+     "id": "hand_equip#662",
+     "jp": "タマグシの篭手",
+     "en": "Tamagushi Gauntlets",
+     "bytes": 19
+    },
+    {
+     "id": "hand_equip#44",
+     "jp": "騎士団の篭手",
+     "en": "Knights' Gauntlets",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#53",
+     "jp": "アスタロトガントレット",
+     "en": "Astaroth Gauntlets",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#77",
+     "jp": "修行僧の数珠",
+     "en": "Ascetic Monk Beads",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#92",
+     "jp": "殺し屋のガントレット",
+     "en": "Assassin Gauntlets",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#98",
+     "jp": "犬調教師の手袋",
+     "en": "Dog Trainer Gloves",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#116",
+     "jp": "小達人の手袋",
+     "en": "Minor Adept Gloves",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#131",
+     "jp": "策士の腕輪",
+     "en": "Tactician Bracelet",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#143",
+     "jp": "マジカルアームカバー",
+     "en": "Magical Arm Covers",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#161",
+     "jp": "コンシリエーレグラブ",
+     "en": "Consigliere Gloves",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#220",
+     "jp": "エンボスガントレット",
+     "en": "Embossed Gauntlets",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#276",
+     "jp": "ストレンジアームガード",
+     "en": "Strange Arm Guards",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#303",
+     "jp": "大達人の手袋",
+     "en": "Major Adept Gloves",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#315",
+     "jp": "近衛兵のグローブ",
+     "en": "Royal Guard Gloves",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#330",
+     "jp": "ミラクルアームカバー",
+     "en": "Miracle Arm Covers",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#410",
+     "jp": "マイトレヤガントレット",
+     "en": "Maitreya Gauntlets",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#427",
+     "jp": "コロッサスガントレット",
+     "en": "Colossus Gauntlets",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#443",
+     "jp": "僧正の手袋",
+     "en": "High Priest Gloves",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#540",
+     "jp": "ネクロマンサーグローブ",
+     "en": "Necromancer Gloves",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#571",
+     "jp": "拳闘士の腕輪",
+     "en": "Brawler's Bracelet",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#574",
+     "jp": "狩人の篭手",
+     "en": "Hunter's Gauntlets",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#601",
+     "jp": "海賊の篭手",
+     "en": "Pirate's Gauntlets",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#613",
+     "jp": "騎士の篭手",
+     "en": "Knight's Gauntlets",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#680",
+     "jp": "塊魂の王子",
+     "en": "Prince of Katamari",
+     "bytes": 18
+    },
+    {
+     "id": "hand_equip#34",
+     "jp": "ジャーメインガントレット",
+     "en": "Germain Gauntlets",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#42",
+     "jp": "ガネーシャガントレット",
+     "en": "Ganesha Gauntlets",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#60",
+     "jp": "ファルコンアームガード",
+     "en": "Falcon Arm Guards",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#101",
+     "jp": "学士のリストバンド",
+     "en": "Scholar Wristband",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#148",
+     "jp": "イハサクの手帯",
+     "en": "Ihasaku Handwraps",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#165",
+     "jp": "陰陽師の篭手",
+     "en": "Onmyoji Gauntlets",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#172",
+     "jp": "ナイトブリードグラブ",
+     "en": "Nightbreed Gloves",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#174",
+     "jp": "手製の腕輪",
+     "en": "Handmade Bracelet",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#192",
+     "jp": "ガルヒーナガントレット",
+     "en": "Garhina Gauntlets",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#216",
+     "jp": "オフィサーガントレット",
+     "en": "Officer Gauntlets",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#224",
+     "jp": "センゴクガントレット",
+     "en": "Sengoku Gauntlets",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#228",
+     "jp": "ソーバーンガントレット",
+     "en": "Thu'ban Gauntlets",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#230",
+     "jp": "ハヌマーンガントレット",
+     "en": "Hanuman Gauntlets",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#325",
+     "jp": "アテイメントグローブ",
+     "en": "Attainment Gloves",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#348",
+     "jp": "カポレジームグラブ",
+     "en": "Caporegime Gloves",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#351",
+     "jp": "シルバーアームカバー",
+     "en": "Silver Arm Covers",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#375",
+     "jp": "ＢＨ・グローブ",
+     "en": "Beast Hide Gloves",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#387",
+     "jp": "オリカルクムグローブ",
+     "en": "Orichalcum Gloves",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#404",
+     "jp": "カーネルガントレット",
+     "en": "Colonel Gauntlets",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#408",
+     "jp": "エンシェントガントレット",
+     "en": "Ancient Gauntlets",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#429",
+     "jp": "ルシフェルガントレット",
+     "en": "Lucifer Gauntlets",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#438",
+     "jp": "ガンスリンガーグローブ",
+     "en": "Gunslinger Gloves",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#453",
+     "jp": "僧正の数珠",
+     "en": "High Priest Beads",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#546",
+     "jp": "始祖の手袋",
+     "en": "Progenitor Gloves",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#551",
+     "jp": "プラチナブレスレット",
+     "en": "Platinum Bracelet",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#577",
+     "jp": "盗賊の篭手",
+     "en": "Thief's Gauntlets",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#580",
+     "jp": "忍の篭手",
+     "en": "Shinobi Gauntlets",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#631",
+     "jp": "魔導師の手袋",
+     "en": "Sorcerer's Gloves",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#637",
+     "jp": "教皇の手袋",
+     "en": "Pontiff's Mittens",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#654",
+     "jp": "ガンマスターグローブ",
+     "en": "Gun Master Gloves",
+     "bytes": 17
+    },
+    {
+     "id": "hand_equip#4",
+     "jp": "ブラフミーガントレット",
+     "en": "Brahmi Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#21",
+     "jp": "グラディエータグラブ",
+     "en": "Gladiator Gloves",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#32",
+     "jp": "ゴシックガントレット",
+     "en": "Gothic Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#38",
+     "jp": "ナイトガントレット",
+     "en": "Knight Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#88",
+     "jp": "ミスティアームガード",
+     "en": "Misty Arm Guards",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#95",
+     "jp": "功夫の腕輪",
+     "en": "Kung Fu Bracelet",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#110",
+     "jp": "朱雀の篭手",
+     "en": "Suzaku Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#113",
+     "jp": "新参者のリストバンド",
+     "en": "Novice Wristband",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#201",
+     "jp": "ブロンズガントレット",
+     "en": "Bronze Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#203",
+     "jp": "無法の篭手",
+     "en": "Outlaw Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#213",
+     "jp": "弁慶の篭手",
+     "en": "Benkei Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#222",
+     "jp": "クスミガントレット",
+     "en": "Kusumi Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#235",
+     "jp": "テンプルガントレット",
+     "en": "Temple Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#268",
+     "jp": "コマンダーグラブ",
+     "en": "Commander Gloves",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#300",
+     "jp": "熱心者のリストバンド",
+     "en": "Zealot Wristband",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#355",
+     "jp": "セレスティアルグローブ",
+     "en": "Celestial Gloves",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#363",
+     "jp": "水晶の腕輪",
+     "en": "Crystal Bracelet",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#382",
+     "jp": "バーバリアングローブ",
+     "en": "Barbarian Gloves",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#389",
+     "jp": "クロームガントレット",
+     "en": "Chrome Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#412",
+     "jp": "ダイミョーガントレット",
+     "en": "Daimyo Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#416",
+     "jp": "テムサーフガントレット",
+     "en": "Timsah Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#418",
+     "jp": "アヌビスガントレット",
+     "en": "Anubis Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#436",
+     "jp": "イーグルアームガード",
+     "en": "Eagle Arm Guards",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#440",
+     "jp": "神光篭手",
+     "en": "Shinko Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#446",
+     "jp": "マーセナリグローブ",
+     "en": "Mercenary Gloves",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#464",
+     "jp": "ウィッチアームガード",
+     "en": "Witch Arm Guards",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#485",
+     "jp": "白虎の篭手",
+     "en": "Byakko Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#496",
+     "jp": "コンタクティグローブ",
+     "en": "Contactee Gloves",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#501",
+     "jp": "セクレタリーグローブ",
+     "en": "Secretary Gloves",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#515",
+     "jp": "異端者の手袋",
+     "en": "Heretic's Gloves",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#518",
+     "jp": "フラッシュアームカバー",
+     "en": "Flash Arm Covers",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#533",
+     "jp": "関白のブレスレット",
+     "en": "Kanpaku Bracelet",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#536",
+     "jp": "アンダーボスグラブ",
+     "en": "Underboss Gloves",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#553",
+     "jp": "ダイヤブレスレット",
+     "en": "Diamond Bracelet",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#589",
+     "jp": "司教の手袋",
+     "en": "Bishop's Mittens",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#604",
+     "jp": "従士隊の篭手",
+     "en": "Squire Gauntlets",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#634",
+     "jp": "司祭の手袋",
+     "en": "Priest's Mittens",
+     "bytes": 16
+    },
+    {
+     "id": "hand_equip#13",
+     "jp": "トランクガントレット",
+     "en": "Trunk Gauntlets",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#28",
+     "jp": "チーフガントレット",
+     "en": "Chief Gauntlets",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#36",
+     "jp": "ムシャガントレット",
+     "en": "Musha Gauntlets",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#47",
+     "jp": "クロスガントレット",
+     "en": "Cross Gauntlets",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#51",
+     "jp": "グレートガントレット",
+     "en": "Great Gauntlets",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#64",
+     "jp": "妙光篭手",
+     "en": "Myoko Gauntlets",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#70",
+     "jp": "サバイバルグローブ",
+     "en": "Survival Gloves",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#107",
+     "jp": "野盗のブレスレット",
+     "en": "Bandit Bracelet",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#199",
+     "jp": "タングステングローブ",
+     "en": "Tungsten Gloves",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#226",
+     "jp": "バロンガントレット",
+     "en": "Baron Gauntlets",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#239",
+     "jp": "ジャイアントガントレット",
+     "en": "Giant Gauntlets",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#248",
+     "jp": "ホークアームガード",
+     "en": "Hawk Arm Guards",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#252",
+     "jp": "霊光篭手",
+     "en": "Reiko Gauntlets",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#263",
+     "jp": "フロンティアグラブ",
+     "en": "Frontier Gloves",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#295",
+     "jp": "フォルバンブレスレット",
+     "en": "Forban Bracelet",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#297",
+     "jp": "玄武の篭手",
+     "en": "Genbu Gauntlets",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#341",
+     "jp": "クレセントグローブ",
+     "en": "Crescent Gloves",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#345",
+     "jp": "摂政のブレスレット",
+     "en": "Regent Bracelet",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#357",
+     "jp": "プレシャスグローブ",
+     "en": "Precious Gloves",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#361",
+     "jp": "シルバーブレスレット",
+     "en": "Silver Bracelet",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#380",
+     "jp": "トゥルシーガントレット",
+     "en": "Tulsi Gauntlets",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#397",
+     "jp": "アークロードグラブ",
+     "en": "Archlord Gloves",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#425",
+     "jp": "ゴーストガントレット",
+     "en": "Ghost Gauntlets",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#483",
+     "jp": "パイレーツブレスレット",
+     "en": "Pirate Bracelet",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#494",
+     "jp": "サッバロットグローブ",
+     "en": "Sapparot Gloves",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#557",
+     "jp": "流星の腕輪",
+     "en": "Meteor Bracelet",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#586",
+     "jp": "修道士の手袋",
+     "en": "Friar's Mittens",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#607",
+     "jp": "狙撃手のグローブ",
+     "en": "Sniper's Gloves",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#656",
+     "jp": "ハイパーガントレット",
+     "en": "Hyper Gauntlets",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#665",
+     "jp": "朱雀の腕輪",
+     "en": "Suzaku Bracelet",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#671",
+     "jp": "白虎の腕輪",
+     "en": "Byakko Bracelet",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#674",
+     "jp": "青竜の腕輪",
+     "en": "Seiryu Bracelet",
+     "bytes": 15
+    },
+    {
+     "id": "hand_equip#0",
+     "jp": "レザーグローブ",
+     "en": "Leather Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#30",
+     "jp": "オンミツグラブ",
+     "en": "Onmitsu Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#40",
+     "jp": "ナハラガントレット",
+     "en": "Nahl Gauntlets",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#49",
+     "jp": "ボーンガントレット",
+     "en": "Bone Gauntlets",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#72",
+     "jp": "兵士のグローブ",
+     "en": "Soldier Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#80",
+     "jp": "キャプテングラブ",
+     "en": "Captain Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#134",
+     "jp": "フォーチュングローブ",
+     "en": "Fortune Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#136",
+     "jp": "リスペクトグローブ",
+     "en": "Respect Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#140",
+     "jp": "破門者の手袋",
+     "en": "Outcast Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#156",
+     "jp": "ピルグリムバングル",
+     "en": "Pilgrim Bangle",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#170",
+     "jp": "エンシェントグローブ",
+     "en": "Ancient Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#185",
+     "jp": "真鍮の腕輪",
+     "en": "Brass Bracelet",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#237",
+     "jp": "グリムガントレット",
+     "en": "Grim Gauntlets",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#308",
+     "jp": "ニューエイジグローブ",
+     "en": "New Age Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#313",
+     "jp": "スチュワードグローブ",
+     "en": "Steward Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#327",
+     "jp": "外法者の手袋",
+     "en": "Heretic Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#359",
+     "jp": "ヴァンパイアグラブ",
+     "en": "Vampire Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#371",
+     "jp": "コーラルブレスレット",
+     "en": "Coral Bracelet",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#373",
+     "jp": "アンバーブレスレット",
+     "en": "Amber Bracelet",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#406",
+     "jp": "シノビグラブ",
+     "en": "Shinobi Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#414",
+     "jp": "デュークガントレット",
+     "en": "Duke Gauntlets",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#423",
+     "jp": "ルーンガントレット",
+     "en": "Rune Gauntlets",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#434",
+     "jp": "フェザーグローブ",
+     "en": "Feather Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#451",
+     "jp": "ウエスタングラブ",
+     "en": "Western Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#456",
+     "jp": "アドミラルグラブ",
+     "en": "Admiral Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#513",
+     "jp": "ワーロックグローブ",
+     "en": "Warlock Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#526",
+     "jp": "預言者の手袋",
+     "en": "Prophet Gloves",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#560",
+     "jp": "パールブレスレット",
+     "en": "Pearl Bracelet",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#668",
+     "jp": "玄武の腕輪",
+     "en": "Genbu Bracelet",
+     "bytes": 14
+    },
+    {
+     "id": "hand_equip#2",
+     "jp": "ネビュラグローブ",
+     "en": "Nebula Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#6",
+     "jp": "ビキニグローブ",
+     "en": "Bikini Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#75",
+     "jp": "ガンナーグラブ",
+     "en": "Gunner Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#90",
+     "jp": "スパイダーグローブ",
+     "en": "Spider Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#119",
+     "jp": "インディゴグローブ",
+     "en": "Indigo Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#126",
+     "jp": "ヘルパーグローブ",
+     "en": "Helper Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#151",
+     "jp": "祈祷師の手袋",
+     "en": "Shaman Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#190",
+     "jp": "ギャラクシーグローブ",
+     "en": "Galaxy Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#278",
+     "jp": "コヨーテグローブ",
+     "en": "Coyote Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#321",
+     "jp": "アルカナグローブ",
+     "en": "Arcana Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#323",
+     "jp": "ビリーブグローブ",
+     "en": "Belief Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#338",
+     "jp": "神官の手袋",
+     "en": "Priest Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#378",
+     "jp": "クエーサーグローブ",
+     "en": "Quasar Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#520",
+     "jp": "エイワスの手袋",
+     "en": "Aiwass Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#531",
+     "jp": "スルタンバングル",
+     "en": "Sultan Bangle",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#538",
+     "jp": "プラチナバンド",
+     "en": "Platinum Band",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#544",
+     "jp": "レジェンドグローブ",
+     "en": "Legend Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#549",
+     "jp": "ゴールドブレスレット",
+     "en": "Gold Bracelet",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#583",
+     "jp": "魔術師の手袋",
+     "en": "Mage's Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#649",
+     "jp": "ヴァイキンググローブ",
+     "en": "Viking Gloves",
+     "bytes": 13
+    },
+    {
+     "id": "hand_equip#58",
+     "jp": "キルトグローブ",
+     "en": "Quilt Gloves",
+     "bytes": 12
+    },
+    {
+     "id": "hand_equip#145",
+     "jp": "アリオンの手袋",
+     "en": "Arion Gloves",
+     "bytes": 12
+    },
+    {
+     "id": "hand_equip#154",
+     "jp": "メディアグローブ",
+     "en": "Medea Gloves",
+     "bytes": 12
+    },
+    {
+     "id": "hand_equip#168",
+     "jp": "ブリンクグローブ",
+     "en": "Blink Gloves",
+     "bytes": 12
+    },
+    {
+     "id": "hand_equip#181",
+     "jp": "レザーバンド",
+     "en": "Leather Band",
+     "bytes": 12
+    },
+    {
+     "id": "hand_equip#194",
+     "jp": "ネイキッドグローブ",
+     "en": "Naked Gloves",
+     "bytes": 12
+    },
+    {
+     "id": "hand_equip#218",
+     "jp": "ニンジャグラブ",
+     "en": "Ninja Gloves",
+     "bytes": 12
+    },
+    {
+     "id": "hand_equip#255",
+     "jp": "僧兵の手袋",
+     "en": "Sohei Gloves",
+     "bytes": 12
+    },
+    {
+     "id": "hand_equip#343",
+     "jp": "ラージャバングル",
+     "en": "Rajah Bangle",
+     "bytes": 12
+    },
+    {
+     "id": "hand_equip#511",
+     "jp": "セイントグローブ",
+     "en": "Saint Gloves",
+     "bytes": 12
+    },
+    {
+     "id": "hand_equip#555",
+     "jp": "エンシェントリング",
+     "en": "Ancient Ring",
+     "bytes": 12
+    },
+    {
+     "id": "hand_equip#660",
+     "jp": "ハンドトゥハンド",
+     "en": "Hand-to-Hand",
+     "bytes": 12
+    },
+    {
+     "id": "hand_equip#677",
+     "jp": "サンタ手袋",
+     "en": "Santa Gloves",
+     "bytes": 12
+    },
+    {
+     "id": "hand_equip#683",
+     "jp": "トライアルグローブ",
+     "en": "Trial Gloves",
+     "bytes": 12
+    },
+    {
+     "id": "hand_equip#11",
+     "jp": "アイアングローブ",
+     "en": "Iron Gloves",
+     "bytes": 11
+    },
+    {
+     "id": "hand_equip#121",
+     "jp": "レイヴグローブ",
+     "en": "Rave Gloves",
+     "bytes": 11
+    },
+    {
+     "id": "hand_equip#138",
+     "jp": "アリアグローブ",
+     "en": "Aria Gloves",
+     "bytes": 11
+    },
+    {
+     "id": "hand_equip#209",
+     "jp": "ロードグラブ",
+     "en": "Lord Gloves",
+     "bytes": 11
+    },
+    {
+     "id": "hand_equip#246",
+     "jp": "メッシュグローブ",
+     "en": "Mesh Gloves",
+     "bytes": 11
+    },
+    {
+     "id": "hand_equip#258",
+     "jp": "アーミーグローブ",
+     "en": "Army Gloves",
+     "bytes": 11
+    },
+    {
+     "id": "hand_equip#265",
+     "jp": "僧兵の数珠",
+     "en": "Sohei Beads",
+     "bytes": 11
+    },
+    {
+     "id": "hand_equip#306",
+     "jp": "クラーティングローブ",
+     "en": "Klad Gloves",
+     "bytes": 11
+    },
+    {
+     "id": "hand_equip#350",
+     "jp": "シルバーバンド",
+     "en": "Silver Band",
+     "bytes": 11
+    },
+    {
+     "id": "hand_equip#366",
+     "jp": "パワーリスト",
+     "en": "Power Wrist",
+     "bytes": 11
+    },
+    {
+     "id": "hand_equip#466",
+     "jp": "ピューマグローブ",
+     "en": "Puma Gloves",
+     "bytes": 11
+    },
+    {
+     "id": "hand_equip#509",
+     "jp": "ルーングローブ",
+     "en": "Rune Gloves",
+     "bytes": 11
+    },
+    {
+     "id": "hand_equip#529",
+     "jp": "ムーングローブ",
+     "en": "Moon Gloves",
+     "bytes": 11
+    },
+    {
+     "id": "hand_equip#542",
+     "jp": "スターグローブ",
+     "en": "Star Gloves",
+     "bytes": 11
+    },
+    {
+     "id": "hand_equip#163",
+     "jp": "ホワイトバンド",
+     "en": "White Band",
+     "bytes": 10
+    },
+    {
+     "id": "hand_equip#183",
+     "jp": "ビードロリング",
+     "en": "Vidro Ring",
+     "bytes": 10
+    },
+    {
+     "id": "hand_equip#399",
+     "jp": "ドラゴンアーム",
+     "en": "Dragon Arm",
+     "bytes": 10
+    },
+    {
+     "id": "hand_equip#658",
+     "jp": "ジャックフロスト",
+     "en": "Jack Frost",
+     "bytes": 10
+    },
+    {
+     "id": "hand_equip#23",
+     "jp": "フィールドアーム",
+     "en": "Field Arm",
+     "bytes": 9
+    },
+    {
+     "id": "hand_equip#177",
+     "jp": "ウッドリング",
+     "en": "Wood Ring",
+     "bytes": 9
+    },
+    {
+     "id": "hand_equip#179",
+     "jp": "リストバンド",
+     "en": "Wristband",
+     "bytes": 9
+    },
+    {
+     "id": "hand_equip#332",
+     "jp": "ラーの手袋",
+     "en": "Ra Gloves",
+     "bytes": 9
+    },
+    {
+     "id": "hand_equip#211",
+     "jp": "ゲイルアーム",
+     "en": "Gale Arm",
+     "bytes": 8
+    }
+   ]
+  }
+ }
+}

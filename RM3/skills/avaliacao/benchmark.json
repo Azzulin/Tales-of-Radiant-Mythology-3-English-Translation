@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "skill_name": "rom-pipeline",
+    "skill_path": "/home/claude/skills-rm3/skills/{rom-inventario-texto,rom-extrair-lotes,rom-formato-desconhecido}",
+    "executor_model": "claude-sonnet (subagentes)",
+    "analyzer_model": "<model-name>",
+    "timestamp": "2026-09-04T18:50:46Z",
+    "evals_run": [
+      0,
+      1,
+      2
+    ],
+    "runs_per_configuration": 1
+  },
+  "runs": [
+    {
+      "eval_id": 0,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 9,
+        "failed": 0,
+        "total": 9,
+        "time_seconds": 403.8,
+        "tokens": 123913,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Identifica o tamanho do registro (36 bytes) e o offset onde a tabela comeca",
+          "passed": true,
+          "evidence": "relatorio.md secao 'Layout final (verificado)': '0x0020 count x registro de 36 bytes'; guia2.py define HDR=0x20, REC=36. Verificado por invariante independente na tabela 'Como cada afirmacao foi verificada' linha 1: '0x20 + 211*36 = 0x1dcc, bate exatamente com o offset onde o pool de ordem comeca' (script verifica_guia.py, checagem 1)."
+        },
+        {
+          "text": "Determina que os offsets das strings sao ABSOLUTOS no arquivo, nao relativos",
+          "passed": true,
+          "evidence": "relatorio.md: '+28 u32 off_titulo offset ABSOLUTO do titulo, a partir do inicio da entrada' e '+32 u32 off_corpo offset ABSOLUTO do corpo'."
+        },
+        {
+          "text": "Caracteriza a regiao nao identificada entre o fim da tabela e o pool de strings",
+          "passed": true,
+          "evidence": "Nao so caracteriza como resolve por completo: 'pool de ordem: (count-1) x u32 - permutacao exata de 1..count-1; os filhos do no X sao exatamente ordem[filho_ini:filho_ini+filho_num]', com verificacao formal (checagens 3 e 4 da tabela: cobertura 0 furos/0 sobreposicoes, permutacao True)."
+        },
+        {
+          "text": "Testa se algum campo do registro e' cache derivado do conteudo, em vez de so' marcar como nao identificado",
+          "passed": true,
+          "evidence": "verifica_guia.py linhas 74-93 testa A,B,C,D contra len(titulo), len(corpo), linhas(corpo) etc. Resultado na tabela: 'B = cache do numero de linhas do corpo ... 211/211 batem - identificado com confianca total'; A/C/D testados e descartados como coincidencia (maior taxa 44/211=21%)."
+        },
+        {
+          "text": "Verifica round-trip byte-perfeito contra a entrada v2065 real da ISO",
+          "passed": true,
+          "evidence": "Tabela de verificacao, item 8: 'Round-trip byte-perfeito no arquivo real: build(parse(dados)) == dados -> True - 55296 bytes identicos aos 55296 lidos da ISO'. verifica_guia.py linha 44-45 imprime 'ROUND-TRIP byte-perfeito: %s'."
+        },
+        {
+          "text": "Entrega um build() que aceita texto de tamanho diferente, ou justifica por que nao entregar",
+          "passed": true,
+          "evidence": "guia2.py define build() e build_para_span(); teste_reinsercao.py troca titulo/corpo do registro 5 por texto MAIOR e de quebras de linha diferentes, reconstroi com build_para_span() e reparsa com strict=True com sucesso (checagem 10 da tabela)."
+        },
+        {
+          "text": "Quantifica a folga disponivel sem tocar o indice do container",
+          "passed": true,
+          "evidence": "relatorio.md: 'a entrada v2065 tem hoje 1816 bytes de folga (55296 reservados - 53480 de conteudo)'; verifica_guia.py imprime 'conteudo atual: %d B; span reservado pelo indice: %d B; folga = %d B'."
+        },
+        {
+          "text": "Declara explicitamente o que ficou nao verificado",
+          "passed": true,
+          "evidence": "Secao dedicada '## O que ficou [nao verificado]' lista 4 itens: semantica de A/C/D, aceitacao pelo jogo em execucao, se C/D sao lidos pelo motor, e os 7 u32 do cabecalho em outras instancias (so existe uma instancia do formato)."
+        },
+        {
+          "text": "Distingue parser provado de aceitacao pelo jogo em execucao",
+          "passed": true,
+          "evidence": "Secao 'Veredito', item 4 'Ressalva - so o parser foi provado, nao o jogo': 'Round-trip byte-perfeito e reparse estrito provam que a biblioteca nao perde informacao... Nao executamos o arquivo modificado num emulador ou no PSP real'."
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 1,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 8,
+        "failed": 0,
+        "total": 8,
+        "time_seconds": 452.7,
+        "tokens": 114173,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Cobre 100% dos arquivos das cinco extensoes, conferido contra o catalogo, e nao por amostra",
+          "passed": true,
+          "evidence": "Tabela secao 1: para as 5 extensoes 'arquivos (catalogo)' == 'lidos na varredura dirigida' (280/280, 682/682, 405/405, 405/405, 405/405), 'ilegivel'=0, 'cobertura'='completa' em todas as linhas; varre_cinco_ext.py imprime 'cobertura COMPLETA' comparando contra bdi_catalogo2.csv."
+        },
+        {
+          "text": "Reporta cada uma das cinco extensoes explicitamente, inclusive as de resultado zero",
+          "passed": true,
+          "evidence": "Secao 5 tem um paragrafo dedicado a cada uma das 5 extensoes, incluindo '.mso - SEM texto, o caso mais limpo dos cinco... zero trechos com kana em qualquer arquivo'."
+        },
+        {
+          "text": "Testa EUC-JP e Shift-JIS separadamente por arquivo",
+          "passed": true,
+          "evidence": "varre_cinco_ext.py funcao scan(): calcula peso de EUC-JP e Shift-JIS separadamente por arquivo (peso[enc] para cada blob) e escolhe a codificacao vencedora por arquivo, nunca herdando de outro."
+        },
+        {
+          "text": "Inspeciona o conteudo dos candidatos em vez de decidir por contagem",
+          "passed": true,
+          "evidence": "Secao 3 apresenta o texto literal de cada candidato decodificado (ex.: listagem de 6 frases de .zqe, rotulos de .mid como 'GM DEVICE 1'); rescore_candidatos.py reordena e imprime o texto para inspecao ocular, nao apenas a contagem."
+        },
+        {
+          "text": "Identifica que .zqe contem texto real e nao pode ser riscada do escopo",
+          "passed": true,
+          "evidence": "'Resposta curta: ... A quinta, .zqe, tem: 6 frases curtas, ~116 bytes, em 3 de 280 arquivos - volume desprezivel, mas nao e zero, entao a familia nao pode ser riscada inteira do escopo.'"
+        },
+        {
+          "text": "Da grau de confianca por extensao",
+          "passed": true,
+          "evidence": "Secao 5 da um grau de confianca textual explicito para cada extensao: 'confianca alta' (.zqe, .mid, .mao), 'confianca media-alta' (.mnm), 'confianca muito alta' (.mso)."
+        },
+        {
+          "text": "Explica a causa estrutural do falso positivo (float, entropia, metadado de editor)",
+          "passed": true,
+          "evidence": "'.mid': 'rotulos padrao de editor MIDI/DTM'; '.mso': 'o token fff? e a cauda ASCII de um float32 comum (padrao de mantissa)'; '.mnm'/'.mao': 'campo de ponto-flutuante/keyframe alinhado em posicao fixa'."
+        },
+        {
+          "text": "Nao escreve na pasta do projeto do usuario nem fora de $HOME na maquina dele",
+          "passed": true,
+          "evidence": "'Saidas brutas da varredura... ficaram em scratch da maquina do usuario ($HOME/scratch, fora de mnt/), nao commitadas'. Local declarado explicitamente e compativel com a regra (dentro de $HOME, fora da pasta mnt do projeto)."
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 2,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.8889,
+        "passed": 8,
+        "failed": 1,
+        "total": 9,
+        "time_seconds": 564.3,
+        "tokens": 126573,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "O arquivo do lote tem as dez colunas do padrao do projeto",
+          "passed": true,
+          "evidence": "Verificado por script: lote.csv tem exatamente 10 colunas -- id, arquivo, offset, bytes_max, original, traducao, bytes_usados, control_codes, status, nota -- nomes que espelham diretamente os campos ja usados na tabela-fonte do projeto (strings_facechat.csv: bytes_max, control_codes, status) em vez de inventar um esquema novo."
+        },
+        {
+          "text": "Declara explicitamente que esta frente nao tem limite de bytes por fala",
+          "passed": true,
+          "evidence": "instrucoes_tradutor.md secao 3, titulo '## 3. Sobre bytes_max - nao e um limite': 'nao existe orcamento de bytes por fala'."
+        },
+        {
+          "text": "Instrui sobre o limite real, que e' a caixa de cerca de 3 linhas",
+          "passed": true,
+          "evidence": "instrucoes_tradutor.md secao 3: 'O limite real e a caixa de dialogo na tela, nao o arquivo. No original: no maximo 3 linhas por fala...'."
+        },
+        {
+          "text": "Preserva a quebra de linha \\r\\n real e confirma que o arquivo entregue nao a corrompeu",
+          "passed": true,
+          "evidence": "Verificado por script: lote.csv contem bytes 0D0A reais (380 ocorrencias). Relatorio descreve a deteccao e correcao de um bug do modulo csv que trocaria \\r\\n por \\n ('Restaurei \\r\\n em todas as 105 falas marcadas control_codes=CRLF e a soma bateu exatamente com 8.760') e reconfirma 'reli byte a byte no lote.csv final (leitura binaria direta) que o \\r\\n real esta gravado no arquivo'."
+        },
+        {
+          "text": "Marca ou separa as strings tecnicas como nao-traduzir",
+          "passed": false,
+          "evidence": "Verificado por script: o lote.csv entregue tem 16 linhas cujo campo 'original' nao contem nenhum kana/kanji (ex.: 'L_Hand_Dummy', 'Bip01 Spine', 'map_D01A22', 'point_10501', 'se_mev00_020.arc', 'eci_001.ppt', 'ebg_001.ppt') -- claramente nomes tecnicos de osso/mapa/arquivo, nao texto de dialogo. Nenhuma delas tem qualquer marca de 'nao traduzir' na propria linha (coluna nota so diz 'FaceChat: sem limite de bytes' para todas). instrucoes_tradutor.md so menciona UMA string tecnica ('So sc01.pmf... token tecnico - nao traduzir'), afirmacao que a propria entrega contradiz: ha 15 outras strings tecnicas nao mencionadas nem marcadas, que um tradutor real tentaria traduzir por engano."
+        },
+        {
+          "text": "Inclui os termos de glossario que nascem neste lote",
+          "passed": true,
+          "evidence": "instrucoes_tradutor.md secao 5 lista os 4 termos sem entrada previa que aparecem no lote (星晶, ルミナシア, マナ, ディセンダー), incluindo o caso incerto ディセンダー com a ressalva explicita 'Nao encontrado no indice de glossario revisado para este relatorio... verificar antes de traduzir'."
+        },
+        {
+          "text": "Justifica o tamanho e o corte do lote com numero, nao por impressao",
+          "passed": true,
+          "evidence": "relatorio.md: '509 falas passa da media dos outros lotes de capitulo em 2,5x (a media e 198 falas; o proximo maior lote do jogo tem 303)' -- justificativa numerica explicita para dividir o capitulo e entregar MEV-00a como o lote 1."
+        },
+        {
+          "text": "Valida que o conteudo do lote bate com o corpus, sem perda nem duplicata",
+          "passed": true,
+          "evidence": "relatorio.md item 1 de 'O que foi validado': 'recalculei, de forma independente: 232 falas, 214 distintas, 8.760 bytes... bate exatamente com a linha MEV-00a de dados/lotes_historia.csv... prova de que nenhuma fala foi perdida nem duplicada no corte'."
+        },
+        {
+          "text": "Nao escreve na pasta do projeto do usuario nem fora de $HOME na maquina dele",
+          "passed": true,
+          "evidence": "relatorio.md declara que o teto de chamadas de device_bash foi usado so para exploracao/validacao e que 'a montagem final dos arquivos foi feita localmente (Bash/Write no container)'; nenhum dos artefatos menciona ou evidencia escrita fora de $HOME/mnt no dispositivo do usuario."
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 0,
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.5556,
+        "passed": 5,
+        "failed": 4,
+        "total": 9,
+        "time_seconds": 572.3,
+        "tokens": 121709,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Identifica o tamanho do registro (36 bytes) e o offset onde a tabela comeca",
+          "passed": false,
+          "evidence": "O relatorio afirma 'Tabela de registros - 0x3C, 211x36 bytes' (registro de 36B correto, mas o offset 0x3C/60 da tabela esta errado). Verificacao cruzada: em ambos os enquadramentos os campos off_titulo/off_corpo caem exatamente na mesma posicao absoluta no arquivo (36*i+60 em ambos, checado por script), o que so acontece porque o enquadramento sem_skill esta desalinhado (deslocado) em relacao ao real; a execucao com_skill prova formalmente (permutacao exata 1..210 do pool de ordem, cobertura sem furos/sobreposicoes, round-trip byte-perfeito) que o cabecalho real e' 0x20 e nao 0x3C. Sem_skill nao fez nenhum desses testes de fechamento e por isso nao percebeu o desalinhamento (evidenciado pelas 'anomalias' nao resolvidas do proprio relatorio: id=1 repetido no registro 0 e 210, 'nao investiguei a causa')."
+        },
+        {
+          "text": "Determina que os offsets das strings sao ABSOLUTOS no arquivo, nao relativos",
+          "passed": true,
+          "evidence": "Secao 7: 'off_titulo e off_corpo sao estritamente crescentes... offsets absolutos'; secao 3 tabela: 'off_titulo u32, offset absoluto no blob'."
+        },
+        {
+          "text": "Caracteriza a regiao nao identificada entre o fim da tabela e o pool de strings",
+          "passed": true,
+          "evidence": "Secao 6: 'um vao de 812 bytes... sao 203 valores u32, todos nao-zero, todos no intervalo [2,210]... Hipotese nao fechada: uma tabela auxiliar de indice/ordenacao'."
+        },
+        {
+          "text": "Testa se algum campo do registro e' cache derivado do conteudo, em vez de so' marcar como nao identificado",
+          "passed": false,
+          "evidence": "A tabela da secao 3 e o texto so testam se os 6 campos 'resto' sao offsets de bytes (faixa/valor), nunca comparam esses campos contra grandezas derivadas do texto (numero de linhas, tamanho do titulo/corpo). Nenhuma linha do relatorio ou dos 3 scripts calcula corpo.count('\\n') ou len(titulo/corpo) para comparar com um campo do registro."
+        },
+        {
+          "text": "Verifica round-trip byte-perfeito contra a entrada v2065 real da ISO",
+          "passed": false,
+          "evidence": "O proprio relatorio admite: 'Nao escrevi nem testei um build()/reempacotador - a tarefa pedida foi decifrar o formato e avaliar seguranca, nao implementar a reinsercao.' Nao ha nenhum teste de round-trip nos 3 scripts anexos."
+        },
+        {
+          "text": "Entrega um build() que aceita texto de tamanho diferente, ou justifica por que nao entregar",
+          "passed": false,
+          "evidence": "Nenhum build()/reempacotador foi entregue. A 'justificativa' dada ('a tarefa pedida foi decifrar o formato e avaliar seguranca, nao implementar a reinsercao') e' fraca frente ao proprio pedido do usuario ('me diz, com evidencia, se a reinsercao e segura'): sem um build(), a conclusao de que os offsets 'poderiam, em tese, ser recalculados' fica em linguagem especulativa ('poderia, em tese') em vez de comprovada."
+        },
+        {
+          "text": "Quantifica a folga disponivel sem tocar o indice do container",
+          "passed": true,
+          "evidence": "Secao 8: 'span reservado da entrada: 55.296 bytes; usado ate o fim do ultimo corpo: 53.480 bytes; folga (zeros ate o fim do span): 1.816 bytes'."
+        },
+        {
+          "text": "Declara explicitamente o que ficou nao verificado",
+          "passed": true,
+          "evidence": "Secao '## Nao verificado / limitacoes' lista 6 itens: semantica dos 6 campos resto, semantica do bloco de 812B, regra de parentesco secao->item, anomalia do registro 210, uso em runtime, referencias externas ao blob."
+        },
+        {
+          "text": "Distingue parser provado de aceitacao pelo jogo em execucao",
+          "passed": true,
+          "evidence": "Secao 'Nao verificado': 'Uso em runtime dos campos nao decifrados... nao pode ser verificado por leitura estatica de bytes - exigiria teste no jogo (playtest)'; conclusao cita P-30 'arquivo bem-formado != jogo aceita'."
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 1,
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.875,
+        "passed": 7,
+        "failed": 1,
+        "total": 8,
+        "time_seconds": 967.3,
+        "tokens": 163889,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "Cobre 100% dos arquivos das cinco extensoes, conferido contra o catalogo, e nao por amostra",
+          "passed": true,
+          "evidence": "'100% dos arquivos de cada familia foram lidos e analisados (nenhuma falha de leitura)'; tabela 'Contagem no catalogo' e 'Tabela-resumo' usam os mesmos totais (280/682/405/405/405) como base de 100% ('extracao exaustiva (100% dos arquivos de cada familia, nao amostra)')."
+        },
+        {
+          "text": "Reporta cada uma das cinco extensoes explicitamente, inclusive as de resultado zero",
+          "passed": true,
+          "evidence": "Secao '.mso - SEM texto traduzivel (confianca muito alta)': 'Nenhuma cadeia NUL-delimitada com japones foi encontrada em nenhum dos 405 arquivos (0 candidatos em 44.752 bytes, 0%)'."
+        },
+        {
+          "text": "Testa EUC-JP e Shift-JIS separadamente por arquivo",
+          "passed": true,
+          "evidence": "checa_familias2.py funcoes sj() e eu() sao decodificadores independentes para Shift-JIS e EUC-JP, chamados separadamente em cada cadeia de cada arquivo ('rs, re_ = runs(c, sj), runs(c, eu)'), nunca fundidos numa unica deteccao."
+        },
+        {
+          "text": "Inspeciona o conteudo dos candidatos em vez de decidir por contagem",
+          "passed": true,
+          "evidence": "Cada secao por extensao mostra o texto decodificado real com traducao literal e julgamento semantico (ex.: '.zqe': lista as 6 frases com traducao entre parenteses; '.mao': 'os 41 achados... sao fragmentos curtos... sem coerencia semantica')."
+        },
+        {
+          "text": "Identifica que .zqe contem texto real e nao pode ser riscada do escopo",
+          "passed": true,
+          "evidence": "'.zqe - TEXTO ENCONTRADO (volume pequeno, mas real)'; conclusao: 'Recomendacao: nao excluir .zqe do escopo em bloco'."
+        },
+        {
+          "text": "Da grau de confianca por extensao",
+          "passed": true,
+          "evidence": "Cada secao tem uma linha 'Confianca: ...' explicita (ALTA para .zqe/.mid/.mao/.mnm, MUITO ALTA para .mso)."
+        },
+        {
+          "text": "Explica a causa estrutural do falso positivo (float, entropia, metadado de editor)",
+          "passed": true,
+          "evidence": "'.mid': meta-evento MIDI FF 03 (Sequence/Track Name), 'rotulo fixo de metadados do editor/exportador'; '.mao': 'padrao de ponto flutuante 0000803f (1.0f em little-endian)... componente identidade' com contagem por arquivo; '.mnm': 'entropia 7,84-7,98 bits/byte... dado comprimido' (EZBIND)."
+        },
+        {
+          "text": "Nao escreve na pasta do projeto do usuario nem fora de $HOME na maquina dele",
+          "passed": false,
+          "evidence": "O relatorio afirma genericamente 'Todos leem a ISO somente em rb e nao escrevem nada no projeto', mas checa_familias2.py de fato grava um arquivo (json.dump em 'saida', linha 274-276) e checa_familias3_diagnostico.py le esse mesmo arquivo -- nenhum dos dois artefatos declara ONDE esse arquivo de saida foi gravado (ao contrario da execucao with_skill, que nomeia explicitamente '$HOME/scratch, fora de mnt/'). A afirmacao generica do relatorio e imprecisa (o script escreve, sim, um arquivo) e nao ha evidencia de que esse caminho ficou dentro de $HOME e fora da pasta do projeto."
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 2,
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.5556,
+        "passed": 5,
+        "failed": 4,
+        "total": 9,
+        "time_seconds": 347.5,
+        "tokens": 102779,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "O arquivo do lote tem as dez colunas do padrao do projeto",
+          "passed": false,
+          "evidence": "Verificado por script: lote.csv tem 10 colunas, mas com nomes que nao correspondem ao padrao/fontes do projeto -- id, sub_lote, arquivo, ordem_na_cena, tipo, original_jp, traducao_en, control_codes, nota, id_fonte -- um esquema proprio inventado nesta execucao (falta bytes_max, offset, status, bytes_usados; renomeia original/traducao para original_jp/traducao_en), em vez de reusar as colunas ja padronizadas em strings_facechat.csv/lotes_historia.csv que a propria execucao leu."
+        },
+        {
+          "text": "Declara explicitamente que esta frente nao tem limite de bytes por fala",
+          "passed": true,
+          "evidence": "instrucoes_tradutor.md secao 'Limites de tamanho': 'este formato (FaceChat...) nao tem orcamento de bytes por fala'."
+        },
+        {
+          "text": "Instrui sobre o limite real, que e' a caixa de cerca de 3 linhas",
+          "passed": true,
+          "evidence": "instrucoes_tradutor.md: 'existe um limite de exibicao em tela: a caixa de dialogo do jogo mostra no maximo 3 linhas'."
+        },
+        {
+          "text": "Preserva a quebra de linha \\r\\n real e confirma que o arquivo entregue nao a corrompeu",
+          "passed": true,
+          "evidence": "Verificado por script: lote.csv contem bytes 0D0A reais (944 ocorrencias). relatorio.md descreve releitura de verificacao: 'lote.csv foi relido com csv.DictReader... para confirmar que os 509 registros voltam intactos, incluindo os campos com quebra de linha real (\\r\\n) dentro da celula'."
+        },
+        {
+          "text": "Marca ou separa as strings tecnicas como nao-traduzir",
+          "passed": true,
+          "evidence": "Verificado por script: as 25 linhas sem kana/kanji no lote.csv tem tipo='tecnico_nao_traduzir' explicitamente marcado (contagem correta e integral); instrucoes_tradutor.md lista os exemplos e instrui 'Deixe traducao_en vazio nessas linhas... nao sao texto de historia'."
+        },
+        {
+          "text": "Inclui os termos de glossario que nascem neste lote",
+          "passed": false,
+          "evidence": "glossario_referencia.csv e a secao 'Termos do mundo' de instrucoes_tradutor.md tratam apenas 星晶 e ルミナシア como termos em aberto (mais 世界樹/マナ/バンエルティア号 ja fixados) -- mas o proprio relatorio (Achados #8) e a secao 'Contexto da cena' de instrucoes_tradutor.md mencionam que ディセンダー ('Descendente') tambem aparece na narracao de abertura como conceito central; esse termo nao entra na tabela de decisao de glossario nem no glossario_referencia.csv, ficando sem confirmacao formal ao contrario do tratamento dado a 星晶/ルミナシア."
+        },
+        {
+          "text": "Justifica o tamanho e o corte do lote com numero, nao por impressao",
+          "passed": false,
+          "evidence": "A execucao decide explicitamente NAO cortar o lote ('Decisao tomada: enviar o capitulo 00 inteiro (33 cenas, 509 falas) em um unico arquivo'), apesar de ter encontrado a recomendacao do proprio projeto de dividir em MEV-00a/00b por volume ('>320 falas e o limite usado', 'o passo 4 do ESTADO_DO_PROJETO.md recomenda literalmente enviar so MEV-00a como piloto'). A justificativa dada para nao cortar e' de interpretacao literal do pedido ('foi isso que o dono pediu... por nome de arquivo'), nao uma justificativa numerica para o tamanho/corte entregue -- na pratica, nenhum corte por tamanho foi aplicado."
+        },
+        {
+          "text": "Valida que o conteudo do lote bate com o corpus, sem perda nem duplicata",
+          "passed": true,
+          "evidence": "relatorio.md 'Validacao feita': soma de bytes_max das 509 linhas (23.341) bate com lotes_historia.csv (8.760+14.581); todas as 33 cenas do intervalo aparecem 'sem lacunas nem repeticao de arquivo (conferido por sorted(set(...)))'; lote.csv relido com DictReader para confirmar integridade."
+        },
+        {
+          "text": "Nao escreve na pasta do projeto do usuario nem fora de $HOME na maquina dele",
+          "passed": false,
+          "evidence": "O proprio relatorio admite a violacao: 'o unico arquivo escrito no dispositivo do usuario durante a investigacao foi um scratch temporario em /tmp/mev00_extract.txt - fora de mnt/, mas fora de $HOME tambem, o que violou a instrucao de forma leniente; foi removido com rm -f na ultima chamada'."
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "run_summary": {
+    "with_skill": {
+      "pass_rate": {
+        "mean": 0.963,
+        "stddev": 0.0641,
+        "min": 0.8889,
+        "max": 1.0
+      },
+      "time_seconds": {
+        "mean": 473.6,
+        "stddev": 82.2658,
+        "min": 403.8,
+        "max": 564.3
+      },
+      "tokens": {
+        "mean": 121553.0,
+        "stddev": 6528.185,
+        "min": 114173,
+        "max": 126573
+      }
+    },
+    "without_skill": {
+      "pass_rate": {
+        "mean": 0.6621,
+        "stddev": 0.1844,
+        "min": 0.5556,
+        "max": 0.875
+      },
+      "time_seconds": {
+        "mean": 629.0333,
+        "stddev": 313.7706,
+        "min": 347.5,
+        "max": 967.3
+      },
+      "tokens": {
+        "mean": 129459.0,
+        "stddev": 31283.4605,
+        "min": 102779,
+        "max": 163889
+      }
+    },
+    "delta": {
+      "pass_rate": "+0.30",
+      "time_seconds": "-155.4",
+      "tokens": "-7906"
+    }
+  },
+  "notes": [
+    "1 execucao por configuracao (nao 3): a primeira tentativa com opus foi cortada pelo limite de sessao. Sem repeticao, o desvio-padrao reportado e' entre casos de teste, nao entre execucoes do mesmo caso.",
+    "16 de 26 assertivas nao discriminaram (mesmo veredito nos dois lados) — o piso da baseline e' alto porque o projeto ja tem documentacao e bibliotecas validadas em disco, e os dois lados as leem.",
+    "Variancia: com skill 6%, sem skill 18%. O efeito maior da skill foi consistencia, nao pico.",
+    "Tempo e tokens: com skill foi MAIS rapido (-155s) e MAIS barato (-7.9k tokens). Nas transcricoes, a baseline gastou uma passada exploratoria extra antes de achar o metodo.",
+    "eval-0: as duas leituras do formato colocam os offsets de string no MESMO byte absoluto (36*i+60), entao a baseline 'funcionou' por coincidencia aritmetica com o enquadramento deslocado em 28 bytes. So o lado com skill provou qual enquadramento e' o real (permutacao exata 1..210 + round-trip).",
+    "eval-2 with_skill falhou uma assertiva REAL: afirmou que so 'sc01.pmf' era token tecnico quando o proprio lote entregue tem 16 linhas sem kana/kanji. A baseline marcou as 25 equivalentes com coluna dedicada. E' lacuna da skill, nao do modelo.",
+    "Achado de projeto vindo do eval-1: as duas execucoes encontraram texto japones REAL em .zqe (incantacao de misticas, ex. キセキハオトズレナイ), que o inventario do projeto havia classificado como falso positivo."
+  ]
+}

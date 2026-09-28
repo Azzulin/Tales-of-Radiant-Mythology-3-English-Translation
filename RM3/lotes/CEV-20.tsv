@@ -1,0 +1,226 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev20_010.scr:0	cev20_010.scr	0	スタン	Stahn Aileron	personagem		よいっしょ……っと		
+cev20_010.scr:1	cev20_010.scr	1	スタン	Stahn Aileron	personagem	CRLF x1	ふう〜。\nあとどれくらいだぁ？		
+cev20_010.scr:2	cev20_010.scr	2	リッド	Reid Hershel	personagem	CRLF x1	このホールが終わったら\n甲板で終わりだよ		
+cev20_010.scr:3	cev20_010.scr	3	リッド	Reid Hershel	personagem	CRLF x1	ったく……。\nこの貸し、大きくつくぜ		
+cev20_010.scr:4	cev20_010.scr	4	リッド	Reid Hershel	personagem	CRLF x1	リリスのマーボーカレー大盛り、\n今度差し入れ決定、な		
+cev20_010.scr:5	cev20_010.scr	5	スタン	Stahn Aileron	personagem	CRLF x2	だってさ、普通、きゃー！　って\n女の人の声が聞こえたら\n助けに行かなきゃって思うだろ？		
+cev20_010.scr:6	cev20_010.scr	6	スタン	Stahn Aileron	personagem	CRLF x1	まさか、体重計に乗っただけで\n悲鳴上げてるなんて思わないよ		
+cev20_010.scr:7	cev20_010.scr	7	リッド	Reid Hershel	personagem		だからって女湯飛び込むか、普通？		
+cev20_010.scr:8	cev20_010.scr	8	スタン	Stahn Aileron	personagem		リッドだって、飛び込んで来たじゃないか		
+cev20_010.scr:9	cev20_010.scr	9	リッド	Reid Hershel	personagem	CRLF x1	それは、スタンの悲鳴が聞こえたからだよ。\n……でもまぁ、結果的には同じ事か		
+cev20_010.scr:10	cev20_010.scr	10	リッド	Reid Hershel	personagem	CRLF x1	だからこうして、一緒に罰掃除\nさせられてるんだしな		
+cev20_010.scr:11	cev20_010.scr	11	スタン	Stahn Aileron	personagem		うう、ごめん……		
+cev20_010.scr:12	cev20_010.scr	12	リッド	Reid Hershel	personagem	CRLF x1	まあ、起きた事を悔やんでも\n仕方ないし、今度から気を付け……		
+cev20_010.scr:13	cev20_010.scr	13	スタン	Stahn Aileron	personagem	CRLF x2	あれっ！　\n今何か聞こえなかったか？\n喧嘩してるみたいな……		
+cev20_010.scr:14	cev20_010.scr	14	スタン	Stahn Aileron	personagem		俺、ちょっと見てくる！		
+cev20_010.scr:15	cev20_010.scr	15	リッド	Reid Hershel	personagem	CRLF x2	お、おい！\n掃除どうするんだよ！？\nスタン！		
+cev20_010.scr:16	cev20_010.scr	16	リッド	Reid Hershel	personagem		はぁ……勘弁してくれよ……		
+cev20_020.scr:0	cev20_020.scr	0	マオ	Mao	personagem		ね、怖い話しよっか？		
+cev20_020.scr:1	cev20_020.scr	1	リッド	Reid Hershel	personagem	CRLF x1	え？\nな、何だよいきなり！		
+cev20_020.scr:2	cev20_020.scr	2	マオ	Mao	personagem	CRLF x1	だってここ、薄暗くて\n雰囲気あるんだもん〜		
+cev20_020.scr:3	cev20_020.scr	3	マオ	Mao	personagem	CRLF x2	前に、ちょうどこんな感じの\n暗〜くて、ジメッ……とした森に\n行った時にさ……		
+cev20_020.scr:4	cev20_020.scr	4	マオ	Mao	personagem	CRLF x2	一人で歩いてるはずなのに、いつの間にか\n足音が二つ聞こえてきて……。\nボク、ちょっと怖くなって		
+cev20_020.scr:5	cev20_020.scr	5	マオ	Mao	personagem		思わず走り出したら急に		
+cev20_020.scr:6	cev20_020.scr	6	マオ	Mao	personagem		ガッ！！　と		
+cev20_020.scr:7	cev20_020.scr	7	リッド	Reid Hershel	personagem		ぎゃぁあぁあぁぁぁぁ！！！！！		
+cev20_020.scr:8	cev20_020.scr	8	マオ	Mao	personagem	CRLF x1	……今のはリッドの反応の方が\n怖かったヨ……		
+cev20_030.scr:0	cev20_030.scr	0	リッド	Reid Hershel	personagem	CRLF x1	お……こりゃ\nウルフの足跡だな		
+cev20_030.scr:1	cev20_030.scr	1	フィリア	Philia Felice	personagem		危険な魔物なのですか？		
+cev20_030.scr:2	cev20_030.scr	2	リッド	Reid Hershel	personagem		ああ、そうじゃなくてさ		
+cev20_030.scr:3	cev20_030.scr	3	リッド	Reid Hershel	personagem	CRLF x2	コイツの肉は、さっと火を通して\n塩コショウで味付けすると\n結構旨いんだぜ♪		
+cev20_030.scr:4	cev20_030.scr	4	エステル	Estelle	personagem	CRLF x1	ウルフって\n食べられるんです？		
+cev20_030.scr:5	cev20_030.scr	5	リッド	Reid Hershel	personagem	CRLF x2	ああ、食えるぜ？　っていうか、\n毒性のあるものじゃなきゃ\n大概のものは何でも食える		
+cev20_030.scr:6	cev20_030.scr	6	リッド	Reid Hershel	personagem	CRLF x1	そのへんは、\n腕の見せ所って奴だな		
+cev20_030.scr:7	cev20_030.scr	7	フィリア	Philia Felice	personagem	CRLF x2	元々ある食材を、\nより美味しく食せるよう工夫する……。\nお料理の原点ですね		
+cev20_030.scr:8	cev20_030.scr	8	リッド	Reid Hershel	personagem	CRLF x1	エステルも食ってみるか？\n案外、価値観変わるかもしれないぜ		
+cev20_030.scr:9	cev20_030.scr	9	エステル	Estelle	personagem	CRLF x1	お料理の原点を知る、です？\n……そうですね		
+cev20_030.scr:10	cev20_030.scr	10	エステル	Estelle	personagem		ぜひ、お願いします！		
+cev20_040.scr:0	cev20_040.scr	0	エステル	Estelle	personagem	CRLF x1	あんな大きなオタオタ……。\n初めて見ました		
+cev20_040.scr:1	cev20_040.scr	1	フィリア	Philia Felice	personagem	CRLF x2	この一帯は特別発育がいい様ですね。\nギルドにも、これまでに何度か\n掃討依頼が来ていた様ですが……		
+cev20_040.scr:2	cev20_040.scr	2	リッド	Reid Hershel	personagem		なあ……こんな話を知ってるか？		
+cev20_040.scr:3	cev20_040.scr	3	リッド	Reid Hershel	personagem	CRLF x1	あるところに\nそそっかしい女の子がいました		
+cev20_040.scr:4	cev20_040.scr	4	リッド	Reid Hershel	personagem	CRLF x2	ある日、女の子は森で見つけたオタオタが\n弱っているのをかわいそうに思って\n毎日食事を運んであげました		
+cev20_040.scr:5	cev20_040.scr	5	リッド	Reid Hershel	personagem	CRLF x2	以来、森に生息するオタオタは\n栄養状態がとても良くなって\nみるみる大きくなっていきましたとさ		
+cev20_040.scr:6	cev20_040.scr	6	エステル	Estelle	personagem	CRLF x1	もしかして……。\n今のオタオタはその時の？		
+cev20_040.scr:7	cev20_040.scr	7	フィリア	Philia Felice	personagem	CRLF x2	その……そそっかしい女の子というのは\n髪が短くて、格闘技が得意な\n活発な女の子……ですか？		
+cev20_040.scr:8	cev20_040.scr	8	リッド	Reid Hershel	personagem		ご想像にお任せします……		
+cev20_050.scr:0	cev20_050.scr	0	ルビア	Rubia Natwick	personagem	CRLF x1	ちょっと、カイウス！\n部屋のゴミ箱、昨日のままだったわよ		
+cev20_050.scr:1	cev20_050.scr	1	ルビア	Rubia Natwick	personagem	CRLF x1	今回のゴミ当番はカイウスでしょ！\n約束はちゃんと守ってよね		
+cev20_050.scr:2	cev20_050.scr	2	カイウス	Caius Qualls	personagem		あ……		
+cev20_050.scr:3	cev20_050.scr	3	カイウス	Caius Qualls	personagem		後でやろうと思ってたんだよ！		
+cev20_050.scr:4	cev20_050.scr	4	ルビア	Rubia Natwick	personagem	CRLF x2	嘘。　絶対忘れてたでしょ？\nもう、あたしが言わないと\nいつもこうなんだから		
+cev20_050.scr:5	cev20_050.scr	5	ルビア	Rubia Natwick	personagem	CRLF x1	ほんとカイウスって\nそういうとこ子どもよね		
+cev20_050.scr:6	cev20_050.scr	6	カイウス	Caius Qualls	personagem		忘れてないって言ってるだろ！		
+cev20_050.scr:7	cev20_050.scr	7	カイウス	Caius Qualls	personagem		それに、オレはもう大人なんだ！		
+cev20_050.scr:8	cev20_050.scr	8	ルビア	Rubia Natwick	personagem	CRLF x1	大人っていうのはね、自分から\n「自分は大人だ」なんて言わないものよ		
+cev20_050.scr:9	cev20_050.scr	9	カイウス	Caius Qualls	personagem		誰がそんな事決めたんだよ		
+cev20_050.scr:10	cev20_050.scr	10	ルビア	Rubia Natwick	personagem	CRLF x1	決めたんじゃなくて\nそういうものなの！		
+cev20_050.scr:11	cev20_050.scr	11	リッド	Reid Hershel	personagem	CRLF x2	なぁに喧嘩してんだよ？\n子どもとか大人とか、そんなの\nどっちだっていいじゃねえか		
+cev20_050.scr:12	cev20_050.scr	12	リッド	Reid Hershel	personagem		カイウスはカイウスだろ？		
+cev20_050.scr:13	cev20_050.scr	13	リッド	Reid Hershel	personagem	CRLF x1	大人なんて、焦んなくても\n気付けば勝手になっちまうもんだぜ		
+cev20_050.scr:14	cev20_050.scr	14	リッド	Reid Hershel	personagem		あんま細かい事気にすんなって		
+cev20_050.scr:15	cev20_050.scr	15	カイウス	Caius Qualls	personagem		リッド……		
+cev20_050.scr:16	cev20_050.scr	16	ファラ	Farah Oersted	personagem	CRLF x1	見つけた！！　\nもう、リッド！？		
+cev20_050.scr:17	cev20_050.scr	17	ファラ	Farah Oersted	personagem	CRLF x1	わたしが大事に取っておいた\nカレーパン食べたでしょ？		
+cev20_050.scr:18	cev20_050.scr	18	リッド	Reid Hershel	personagem	CRLF x2	ち、違う！　\nオレじゃない。\nオレじゃないぞ		
+cev20_050.scr:19	cev20_050.scr	19	ファラ	Farah Oersted	personagem	CRLF x1	嘘。\n口の周り、カレー付いてるもん		
+cev20_050.scr:20	cev20_050.scr	20	リッド	Reid Hershel	personagem	CRLF x1	えっ！？　\nど、どこに？		
+cev20_050.scr:21	cev20_050.scr	21	ファラ	Farah Oersted	personagem	CRLF x1	ほら！\nやっぱり犯人はリッドじゃない！！		
+cev20_050.scr:22	cev20_050.scr	22	ファラ	Farah Oersted	personagem		あっ		
+cev20_050.scr:23	cev20_050.scr	23	ファラ	Farah Oersted	personagem	CRLF x1	ちょっと！　\n待ちなさい！		
+cev20_050.scr:24	cev20_050.scr	24	カイウス	Caius Qualls	personagem	CRLF x2	リッドって……、\n大人なのか子どもなのか\nよくわからない時あるよな		
+cev20_050.scr:25	cev20_050.scr	25	ルビア	Rubia Natwick	personagem		そうね……		
+cev20_060.scr:0	cev20_060.scr	0	リッド	Reid Hershel	personagem		ぐがー……ぐごー……		
+cev20_060.scr:1	cev20_060.scr	1	スタン	Stahn Aileron	personagem		ぐー……ぐー……		
+cev20_060.scr:2	cev20_060.scr	2	カイル	Kyle Dunamis	personagem	CRLF x1	ぐーぐー……むにゃ……。\nぐー……		
+cev20_060.scr:3	cev20_060.scr	3	リフィル	Raine Sage	personagem		こら、そこの三人！！		
+cev20_060.scr:4	cev20_060.scr	4	リフィル	Raine Sage	personagem	CRLF x1	授業中に堂々と居眠りなんて……、\nいい度胸をしているわね？		
+cev20_060.scr:5	cev20_060.scr	5	リッド	Reid Hershel	personagem		いや、その……すみません！		
+cev20_060.scr:6	cev20_060.scr	6	リッド	Reid Hershel	personagem	CRLF x1	昨日、遅くまでみんなで\nちょっと……勉強を……		
+cev20_060.scr:7	cev20_060.scr	7	スタン	Stahn Aileron	personagem		ぐおー、ぐおー！		
+cev20_060.scr:8	cev20_060.scr	8	リフィル	Raine Sage	personagem	CRLF x2	あら。\n……勉強会をしていたの？\n教科は何を？		
+cev20_060.scr:9	cev20_060.scr	9	リッド	Reid Hershel	personagem		……カードゲームです……		
+cev20_060.scr:10	cev20_060.scr	10	カイル	Kyle Dunamis	personagem		ごー……ぐおー！		
+cev20_060.scr:11	cev20_060.scr	11	リフィル	Raine Sage	personagem		よろしい		
+cev20_060.scr:12	cev20_060.scr	12	リフィル	Raine Sage	personagem		リッド……覚悟は出来ているわね？		
+cev20_060.scr:13	cev20_060.scr	13	リッド	Reid Hershel	personagem	CRLF x1	う……。\n何で二人とも起きないんだよ……		
+cev20_060.scr:14	cev20_060.scr	14	スタン	Stahn Aileron	personagem		んがが……		
+cev20_060.scr:15	cev20_060.scr	15	カイル	Kyle Dunamis	personagem		ぐおー！		
+cev20_070.scr:0	cev20_070.scr	0	リッド	Reid Hershel	personagem	CRLF x1	チェスター……だっけ？\nお前、猟師なんだってな！		
+cev20_070.scr:1	cev20_070.scr	1	チェスター	Chester Barklight	personagem		ああ、そうだが……お前は？		
+cev20_070.scr:2	cev20_070.scr	2	リッド	Reid Hershel	personagem	CRLF x2	オレはリッド。\n実はオレも、ギルドに来る前は\n猟師をやってたんだ		
+cev20_070.scr:3	cev20_070.scr	3	チェスター	Chester Barklight	personagem	CRLF x2	へえ、そうなのか？\nまさか、こんな所で\n同業者に会うとはな		
+cev20_070.scr:4	cev20_070.scr	4	リッド	Reid Hershel	personagem		本当だよなぁ		
+cev20_070.scr:5	cev20_070.scr	5	リッド	Reid Hershel	personagem	CRLF x2	なぁ、今度一緒に狩りに行かないか？\nだいぶ蓄えが減っててさ、\nそろそろ行かなきゃって思ってたんだ		
+cev20_070.scr:6	cev20_070.scr	6	チェスター	Chester Barklight	personagem	CRLF x1	おっ、いいねぇ！\nそういう事なら、喜んで協力するぜ		
+cev20_070.scr:7	cev20_070.scr	7	リッド	Reid Hershel	personagem	CRLF x1	そう来なくっちゃ。\nんじゃ、よろしくな、チェスター！		
+cev20_070.scr:8	cev20_070.scr	8	チェスター	Chester Barklight	personagem	CRLF x1	ああ。\nこちらこそよろしく、リッド！		
+cev20_080.scr:0	cev20_080.scr	0	リッド	Reid Hershel	personagem	CRLF x2	あの時のチェスターの遠距離攻撃！\nタイミングといい、的中した場所といい\n見事だったぜ		
+cev20_080.scr:1	cev20_080.scr	1	チェスター	Chester Barklight	personagem	CRLF x1	そういうリッドの剣さばきも\nなかなかのもんだったぜ		
+cev20_080.scr:2	cev20_080.scr	2	チェスター	Chester Barklight	personagem	CRLF x1	あれなら、クレスと手合わせしても\nいい線いくかもしれないな		
+cev20_080.scr:3	cev20_080.scr	3	リッド	Reid Hershel	personagem	CRLF x2	手合わせかぁ……。\nオレ、そういう修行とか稽古とか\nあんまり興味ないんだよなあ		
+cev20_080.scr:4	cev20_080.scr	4	チェスター	Chester Barklight	personagem	CRLF x2	そうなのか？\nてっきり、厳しい師匠にでも付いて\n相当鍛えてきたのかと思ったぜ		
+cev20_080.scr:5	cev20_080.scr	5	リッド	Reid Hershel	personagem	CRLF x2	まさか。　オレの剣は我流だよ。\n狩りをしていく中で、\n自然と身に付いたものなんだ		
+cev20_080.scr:6	cev20_080.scr	6	チェスター	Chester Barklight	personagem		生きてく為に……ってやつか？		
+cev20_080.scr:7	cev20_080.scr	7	リッド	Reid Hershel	personagem	CRLF x2	ああ。\n狩りがきちんと出来る程度に\n剣が扱えれば、それでいい		
+cev20_080.scr:8	cev20_080.scr	8	チェスター	Chester Barklight	personagem	CRLF x2	もったいねえな……。\n資質はあるのに、それじゃ\n宝の持ち腐れじゃねえか		
+cev20_080.scr:9	cev20_080.scr	9	リッド	Reid Hershel	personagem		いいんだよ		
+cev20_080.scr:10	cev20_080.scr	10	リッド	Reid Hershel	personagem	CRLF x2	美味い飯が食えて、たっぷり寝られる\n場所がある……そんだけで\nオレは十分なんだ		
+cev20_090.scr:0	cev20_090.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	どうしたんだよ、二人とも。\n震えてるのか？		
+cev20_090.scr:1	cev20_090.scr	1	リッド	Reid Hershel	personagem	CRLF x1	あっ、わかった！\nヘソ出して寝て、風邪引いたんだろ？		
+cev20_090.scr:2	cev20_090.scr	2	チェルシー	Chelsea Torn	personagem		違いますっ！		
+cev20_090.scr:3	cev20_090.scr	3	チェルシー	Chelsea Torn	personagem	CRLF x1	実は昨日の夜、お風呂場で\n……出たんですよぅ！！		
+cev20_090.scr:4	cev20_090.scr	4	チェスター	Chester Barklight	personagem		出た？　何がだ？		
+cev20_090.scr:5	cev20_090.scr	5	ルビア	Rubia Natwick	personagem	CRLF x2	あたし達がお湯に浸かっていたら\n隣から、何かのうなり声みたいなのが\n聞こえてきて……		
+cev20_090.scr:6	cev20_090.scr	6	リッド	Reid Hershel	personagem		う……うなり声？		
+cev20_090.scr:7	cev20_090.scr	7	リッド	Reid Hershel	personagem	CRLF x1	お、大げさに言うなよな、\nそんなの……空耳だろ……		
+cev20_090.scr:8	cev20_090.scr	8	ルビア	Rubia Natwick	personagem	CRLF x1	空耳なんかじゃないわよ！\nね、チェルシー？		
+cev20_090.scr:9	cev20_090.scr	9	チェルシー	Chelsea Torn	personagem	CRLF x1	はい。\n二人で、確かに聞きました！		
+cev20_090.scr:10	cev20_090.scr	10	チェルシー	Chelsea Torn	personagem	CRLF x2	「うぉー、うぉー」って声が\n何かを訴えるみたいに\n響いてきたんです……！		
+cev20_090.scr:11	cev20_090.scr	11	リッド	Reid Hershel	personagem		ひぃぃぃ！		
+cev20_090.scr:12	cev20_090.scr	12	ルビア	Rubia Natwick	personagem	CRLF x2	あれは、もしかしたら\n成仏出来なかった霊達の\n声だったのかも……		
+cev20_090.scr:13	cev20_090.scr	13	リッド	Reid Hershel	personagem	CRLF x2	何でそんな話するんだよ！\nオレ、もう一人で風呂に\n入れないじゃねえかよぉ……！！		
+cev20_090.scr:14	cev20_090.scr	14	チェスター	Chester Barklight	personagem	CRLF x2	……あのさ。\nその声が聞こえて来たのって\n大体いつくらいなんだ？		
+cev20_090.scr:15	cev20_090.scr	15	ルビア	Rubia Natwick	personagem		えっと……いつだったかしら		
+cev20_090.scr:16	cev20_090.scr	16	チェルシー	Chelsea Torn	personagem	CRLF x2	ほら、チェスターさんと\n廊下ですれ違ったじゃないですか。\nあの後、すぐですよ		
+cev20_090.scr:17	cev20_090.scr	17	チェスター	Chester Barklight	personagem		……そ、そうか		
+cev20_090.scr:18	cev20_090.scr	18	ルビア	Rubia Natwick	personagem	CRLF x1	あたしもう、怖くて当分\n夜にお風呂に入れないわ……		
+cev20_090.scr:19	cev20_090.scr	19	チェルシー	Chelsea Torn	personagem		私もです……		
+cev20_090.scr:20	cev20_090.scr	20	チェスター	Chester Barklight	personagem	CRLF x2	（言えねえ……。\n　オレとリッドが風呂場で\n　歌ってただけなんて……）		
+cev20_200.scr:0	cev20_200.scr	0	リッド	Reid Hershel	personagem	CRLF x1	通常。\n		
+cev20_200.scr:1	cev20_200.scr	1	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:2	cev20_200.scr	2	リッド	Reid Hershel	personagem	CRLF x1	笑い。\n		
+cev20_200.scr:3	cev20_200.scr	3	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:4	cev20_200.scr	4	リッド	Reid Hershel	personagem	CRLF x1	怒り。\n		
+cev20_200.scr:5	cev20_200.scr	5	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:6	cev20_200.scr	6	リッド	Reid Hershel	personagem	CRLF x1	悲しみ。\n		
+cev20_200.scr:7	cev20_200.scr	7	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:8	cev20_200.scr	8	リッド	Reid Hershel	personagem	CRLF x1	無表情。\n		
+cev20_200.scr:9	cev20_200.scr	9	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:10	cev20_200.scr	10	リッド	Reid Hershel	personagem	CRLF x1	悲しみ２。\n		
+cev20_200.scr:11	cev20_200.scr	11	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:12	cev20_200.scr	12	リッド	Reid Hershel	personagem	CRLF x1	思案。\n		
+cev20_200.scr:13	cev20_200.scr	13	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:14	cev20_200.scr	14	リッド	Reid Hershel	personagem	CRLF x1	青ざめる。\n		
+cev20_200.scr:15	cev20_200.scr	15	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:16	cev20_200.scr	16	リッド	Reid Hershel	personagem	CRLF x1	叫び。\n		
+cev20_200.scr:17	cev20_200.scr	17	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:18	cev20_200.scr	18	リッド	Reid Hershel	personagem	CRLF x1	泣きそう。\n		
+cev20_200.scr:19	cev20_200.scr	19	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:20	cev20_200.scr	20	リッド	Reid Hershel	personagem	CRLF x1	真剣。\n		
+cev20_200.scr:21	cev20_200.scr	21	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:22	cev20_200.scr	22	リッド	Reid Hershel	personagem	CRLF x1	薄笑い。\n		
+cev20_200.scr:23	cev20_200.scr	23	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:24	cev20_200.scr	24	リッド	Reid Hershel	personagem	CRLF x1	遠い目。\n		
+cev20_200.scr:25	cev20_200.scr	25	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:26	cev20_200.scr	26	リッド	Reid Hershel	personagem	CRLF x1	眠り。\n		
+cev20_200.scr:27	cev20_200.scr	27	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:28	cev20_200.scr	28	リッド	Reid Hershel	personagem	CRLF x1	ぷんぷん。\n		
+cev20_200.scr:29	cev20_200.scr	29	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:30	cev20_200.scr	30	リッド	Reid Hershel	personagem	CRLF x1	がっくし。\n		
+cev20_200.scr:31	cev20_200.scr	31	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:32	cev20_200.scr	32	リッド	Reid Hershel	personagem	CRLF x1	通常。\n		
+cev20_200.scr:33	cev20_200.scr	33	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:34	cev20_200.scr	34	リッド	Reid Hershel	personagem	CRLF x1	笑い。\n		
+cev20_200.scr:35	cev20_200.scr	35	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:36	cev20_200.scr	36	リッド	Reid Hershel	personagem	CRLF x1	怒り。\n		
+cev20_200.scr:37	cev20_200.scr	37	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:38	cev20_200.scr	38	リッド	Reid Hershel	personagem	CRLF x1	悲しみ。\n		
+cev20_200.scr:39	cev20_200.scr	39	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:40	cev20_200.scr	40	リッド	Reid Hershel	personagem	CRLF x1	無表情。\n		
+cev20_200.scr:41	cev20_200.scr	41	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:42	cev20_200.scr	42	リッド	Reid Hershel	personagem	CRLF x1	悲しみ２。\n		
+cev20_200.scr:43	cev20_200.scr	43	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:44	cev20_200.scr	44	リッド	Reid Hershel	personagem	CRLF x1	思案。\n		
+cev20_200.scr:45	cev20_200.scr	45	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:46	cev20_200.scr	46	リッド	Reid Hershel	personagem	CRLF x1	青ざめる。\n		
+cev20_200.scr:47	cev20_200.scr	47	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:48	cev20_200.scr	48	リッド	Reid Hershel	personagem	CRLF x1	叫び。\n		
+cev20_200.scr:49	cev20_200.scr	49	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:50	cev20_200.scr	50	リッド	Reid Hershel	personagem	CRLF x1	泣きそう。\n		
+cev20_200.scr:51	cev20_200.scr	51	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:52	cev20_200.scr	52	リッド	Reid Hershel	personagem	CRLF x1	真剣。\n		
+cev20_200.scr:53	cev20_200.scr	53	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:54	cev20_200.scr	54	リッド	Reid Hershel	personagem	CRLF x1	薄笑い。\n		
+cev20_200.scr:55	cev20_200.scr	55	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:56	cev20_200.scr	56	リッド	Reid Hershel	personagem	CRLF x1	遠い目。\n		
+cev20_200.scr:57	cev20_200.scr	57	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:58	cev20_200.scr	58	リッド	Reid Hershel	personagem	CRLF x1	眠り。\n		
+cev20_200.scr:59	cev20_200.scr	59	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:60	cev20_200.scr	60	リッド	Reid Hershel	personagem	CRLF x1	ぷんぷん。\n		
+cev20_200.scr:61	cev20_200.scr	61	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:62	cev20_200.scr	62	リッド	Reid Hershel	personagem	CRLF x1	がっくし。\n		
+cev20_200.scr:63	cev20_200.scr	63	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:64	cev20_200.scr	64	リッド	Reid Hershel	personagem	CRLF x1	通常。\n		
+cev20_200.scr:65	cev20_200.scr	65	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:66	cev20_200.scr	66	リッド	Reid Hershel	personagem	CRLF x1	笑い。\n		
+cev20_200.scr:67	cev20_200.scr	67	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:68	cev20_200.scr	68	リッド	Reid Hershel	personagem	CRLF x1	怒り。\n		
+cev20_200.scr:69	cev20_200.scr	69	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:70	cev20_200.scr	70	リッド	Reid Hershel	personagem	CRLF x1	悲しみ。\n		
+cev20_200.scr:71	cev20_200.scr	71	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:72	cev20_200.scr	72	リッド	Reid Hershel	personagem	CRLF x1	無表情。\n		
+cev20_200.scr:73	cev20_200.scr	73	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:74	cev20_200.scr	74	リッド	Reid Hershel	personagem	CRLF x1	悲しみ２。\n		
+cev20_200.scr:75	cev20_200.scr	75	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:76	cev20_200.scr	76	リッド	Reid Hershel	personagem	CRLF x1	思案。\n		
+cev20_200.scr:77	cev20_200.scr	77	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:78	cev20_200.scr	78	リッド	Reid Hershel	personagem	CRLF x1	青ざめる。\n		
+cev20_200.scr:79	cev20_200.scr	79	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:80	cev20_200.scr	80	リッド	Reid Hershel	personagem	CRLF x1	叫び。\n		
+cev20_200.scr:81	cev20_200.scr	81	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:82	cev20_200.scr	82	リッド	Reid Hershel	personagem	CRLF x1	泣きそう。\n		
+cev20_200.scr:83	cev20_200.scr	83	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:84	cev20_200.scr	84	リッド	Reid Hershel	personagem	CRLF x1	真剣。\n		
+cev20_200.scr:85	cev20_200.scr	85	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:86	cev20_200.scr	86	リッド	Reid Hershel	personagem	CRLF x1	薄笑い。\n		
+cev20_200.scr:87	cev20_200.scr	87	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:88	cev20_200.scr	88	リッド	Reid Hershel	personagem	CRLF x1	遠い目。\n		
+cev20_200.scr:89	cev20_200.scr	89	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:90	cev20_200.scr	90	リッド	Reid Hershel	personagem	CRLF x1	眠り。\n		
+cev20_200.scr:91	cev20_200.scr	91	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:92	cev20_200.scr	92	リッド	Reid Hershel	personagem	CRLF x1	ぷんぷん。\n		
+cev20_200.scr:93	cev20_200.scr	93	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev20_200.scr:94	cev20_200.scr	94	リッド	Reid Hershel	personagem	CRLF x1	がっくし。\n		
+cev20_200.scr:95	cev20_200.scr	95	リッド	Reid Hershel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

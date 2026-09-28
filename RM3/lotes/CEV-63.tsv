@@ -1,0 +1,147 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev63_010.scr:0	cev63_010.scr	0	ユージーン	Eugene Gallardo	personagem		また会ったな		
+cev63_010.scr:1	cev63_010.scr	1	リヒター	Richter Abend	personagem		ああ……		
+cev63_010.scr:2	cev63_010.scr	2	リヒター	Richter Abend	personagem		相変わらず、滑らかな布地だな		
+cev63_010.scr:3	cev63_010.scr	3	ユージーン	Eugene Gallardo	personagem		そういうリヒターも……		
+cev63_010.scr:4	cev63_010.scr	4	ユージーン	Eugene Gallardo	personagem	CRLF x1	そのメガネの\n磨きぬかれたレンズ……見事だ		
+cev63_010.scr:5	cev63_010.scr	5	リカルド	Ricardo Soldato	personagem		…………		
+cev63_010.scr:6	cev63_010.scr	6	ユージーン	Eugene Gallardo	personagem	CRLF x1	おい、ちょっと待て。\nお前……		
+cev63_010.scr:7	cev63_010.scr	7	リヒター	Richter Abend	personagem		……只者ではないな		
+cev63_010.scr:8	cev63_010.scr	8	リカルド	Ricardo Soldato	personagem		……何が言いたい？		
+cev63_010.scr:9	cev63_010.scr	9	リヒター	Richter Abend	personagem	CRLF x2	つまらん謙遜はよせ。\n見ればわかる。\nお前のその……		
+cev63_010.scr:10	cev63_010.scr	10	リヒター	Richter Abend	personagem		コートの質感を見ればな		
+cev63_010.scr:11	cev63_010.scr	11	リカルド	Ricardo Soldato	personagem	CRLF x1	ふ……。\nこれの良さがわかるのか？		
+cev63_010.scr:12	cev63_010.scr	12	ユージーン	Eugene Gallardo	personagem		言われずとも、な		
+cev63_010.scr:13	cev63_010.scr	13	リカルド	Ricardo Soldato	personagem	CRLF x1	なるほど……どうりでお前達も\nただならぬ貫禄があるわけだ		
+cev63_010.scr:14	cev63_010.scr	14	リカルド	Ricardo Soldato	personagem		……面白い		
+cev63_010.scr:15	cev63_010.scr	15	リヒター	Richter Abend	personagem		…………		
+cev63_010.scr:16	cev63_010.scr	16	ユージーン	Eugene Gallardo	personagem		…………		
+cev63_010.scr:17	cev63_010.scr	17	リカルド	Ricardo Soldato	personagem		…………		
+cev63_020.scr:0	cev63_020.scr	0	リカルド	Ricardo Soldato	personagem	CRLF x1	お前の生徒はくせ者ばかりだな。\n苦労をするだろう		
+cev63_020.scr:1	cev63_020.scr	1	リフィル	Raine Sage	personagem	CRLF x1	ええ、そうね……。\nだからこそ、やりがいもあるのだけれど		
+cev63_020.scr:2	cev63_020.scr	2	リカルド	Ricardo Soldato	personagem	CRLF x1	なぜそうまで入れ込む？\nあきらめれば全てそこで片が付くだろう		
+cev63_020.scr:3	cev63_020.scr	3	リフィル	Raine Sage	personagem	CRLF x2	教師というのは、そういうものなのよ。\nいえ、そういう存在であるべきと\n言ってもいいかもしれないわね		
+cev63_020.scr:4	cev63_020.scr	4	リカルド	Ricardo Soldato	personagem		フン、随分と損な仕事だ		
+cev63_020.scr:5	cev63_020.scr	5	リフィル	Raine Sage	personagem		そうかしら？		
+cev63_020.scr:6	cev63_020.scr	6	リカルド	Ricardo Soldato	personagem	CRLF x2	そうだろう。\n少なくとも戦場では\n弱い者が一番初めに淘汰される		
+cev63_020.scr:7	cev63_020.scr	7	リフィル	Raine Sage	personagem	CRLF x1	確かに、弱い人間を育てずに、\n放っておくという事も出来るでしょうね		
+cev63_020.scr:8	cev63_020.scr	8	リフィル	Raine Sage	personagem	CRLF x1	でも、それでは遠からず\n社会も、そして世界も死んでいくわ		
+cev63_020.scr:9	cev63_020.scr	9	リカルド	Ricardo Soldato	personagem		ほう？		
+cev63_020.scr:10	cev63_020.scr	10	リフィル	Raine Sage	personagem	CRLF x2	ここは戦場ではないの。\n基準から漏れた者を弾けばいいというのは\nただ都合の悪い存在を間引いているだけ		
+cev63_020.scr:11	cev63_020.scr	11	リフィル	Raine Sage	personagem	CRLF x1	教育とは全く主旨の異なる考えだわ。\n教師の仕事は、人を育てる事		
+cev63_020.scr:12	cev63_020.scr	12	リフィル	Raine Sage	personagem		だから生徒にも真正面から向き合うの		
+cev63_020.scr:13	cev63_020.scr	13	リカルド	Ricardo Soldato	personagem		育てる事と間引く事……か		
+cev63_020.scr:14	cev63_020.scr	14	リカルド	Ricardo Soldato	personagem		フン……やはり教師など損な仕事だ		
+cev63_020.scr:15	cev63_020.scr	15	リフィル	Raine Sage	personagem	CRLF x2	そうかもしれないわね。\nでも、あなたも存外\n同じ性分なのではなくて？		
+cev63_020.scr:16	cev63_020.scr	16	リカルド	Ricardo Soldato	personagem	CRLF x1	さあ。　\n知らんな		
+cev63_030.scr:0	cev63_030.scr	0	コハク	Kohaku Hearts	personagem		きゃああ！！		
+cev63_030.scr:1	cev63_030.scr	1	リカルド	Ricardo Soldato	personagem		うおおおお！？		
+cev63_030.scr:2	cev63_030.scr	2	リカルド	Ricardo Soldato	personagem	CRLF x1	突風だと……くそっ。\nこんな時に……！		
+cev63_030.scr:3	cev63_030.scr	3	リカルド	Ricardo Soldato	personagem		大丈夫か、ハーツ？		
+cev63_030.scr:4	cev63_030.scr	4	コハク	Kohaku Hearts	personagem	CRLF x1	え……ええ。\n私は大丈夫		
+cev63_030.scr:5	cev63_030.scr	5	コハク	Kohaku Hearts	personagem	CRLF x1	でも……、\n下が、見えちゃった……		
+cev63_030.scr:6	cev63_030.scr	6	コハク	Kohaku Hearts	personagem	CRLF x2	すごく……、\n高い所を飛んでるんですね……。\nこの船……		
+cev63_030.scr:7	cev63_030.scr	7	リカルド	Ricardo Soldato	personagem	CRLF x1	馬鹿、高いとか言うな！\n余計、高度を意識するだろうが！？		
+cev63_030.scr:8	cev63_030.scr	8	コハク	Kohaku Hearts	personagem		そんな事言ったって……！		
+cev63_030.scr:9	cev63_030.scr	9	リカルド	Ricardo Soldato	personagem	CRLF x1	くそっ、だから甲板掃除など\n嫌だったのだ……！		
+cev63_030.scr:10	cev63_030.scr	10	コハク	Kohaku Hearts	personagem	CRLF x1	リカルドさん……もしかして\n足、震えてます？		
+cev63_030.scr:11	cev63_030.scr	11	リカルド	Ricardo Soldato	personagem	CRLF x2	違う！　\nこれは……そう……、\n武者震いだ！！		
+cev63_030.scr:12	cev63_030.scr	12	コハク	Kohaku Hearts	personagem		何に……？		
+cev63_030.scr:13	cev63_030.scr	13	リカルド	Ricardo Soldato	personagem		…………		
+cev63_030.scr:14	cev63_030.scr	14	コハク	Kohaku Hearts	personagem		…………		
+cev63_040.scr:0	cev63_040.scr	0	ミント	Mint Adenade	personagem		とてもいいお天気ですね……		
+cev63_040.scr:1	cev63_040.scr	1	リアラ	Reala	personagem	CRLF x2	本当ね……。\nこの世界のどこかで、今も戦いが\n起きてるなんて、嘘みたい……		
+cev63_040.scr:2	cev63_040.scr	2	リカルド	Ricardo Soldato	personagem	CRLF x2	フン。\n戦いのない世界など\nまやかしに過ぎん		
+cev63_040.scr:3	cev63_040.scr	3	リカルド	Ricardo Soldato	personagem	CRLF x1	ヒトは、相争う。\nそういう業を背負っている		
+cev63_040.scr:4	cev63_040.scr	4	リカルド	Ricardo Soldato	personagem		だからこそ、俺の様な仕事がある		
+cev63_040.scr:5	cev63_040.scr	5	ミント	Mint Adenade	personagem		そうかもしれません……		
+cev63_040.scr:6	cev63_040.scr	6	ミント	Mint Adenade	personagem	CRLF x2	ですが、そんな理由で\n今日のお天気を楽しまないなんて\nもったいないと思います		
+cev63_040.scr:7	cev63_040.scr	7	リアラ	Reala	personagem	CRLF x2	そうですよ、リカルドさん。\nほら、見て下さい。\n窓の外の景色		
+cev63_040.scr:8	cev63_040.scr	8	リアラ	Reala	personagem	CRLF x1	雲に、お日様の光が反射して……\nとっても綺麗なんですよ		
+cev63_040.scr:9	cev63_040.scr	9	リカルド	Ricardo Soldato	personagem		いや……俺はいい		
+cev63_040.scr:10	cev63_040.scr	10	ミント	Mint Adenade	personagem	CRLF x1	そうおっしゃらずに、少しだけ\n一緒にこの景色を眺めませんか？		
+cev63_040.scr:11	cev63_040.scr	11	ミント	Mint Adenade	personagem	CRLF x1	あなたの心にも……この陽射しの様に\nあたたかい光が差し込むかもしれません		
+cev63_040.scr:12	cev63_040.scr	12	リカルド	Ricardo Soldato	personagem	CRLF x1	俺はそんな事を望んじゃいない。\n大体……		
+cev63_040.scr:13	cev63_040.scr	13	リアラ	Reala	personagem	CRLF x1	ほら、あの雲！\nお魚みたいですよ、リカルドさん		
+cev63_040.scr:14	cev63_040.scr	14	ミント	Mint Adenade	personagem	CRLF x1	ほんの少しでいいんです。\nお願いします		
+cev63_040.scr:15	cev63_040.scr	15	リカルド	Ricardo Soldato	personagem	CRLF x1	き……急用を思い出した。\nその話はまた今度だ		
+cev63_040.scr:16	cev63_040.scr	16	リアラ	Reala	personagem		あっ……		
+cev63_040.scr:17	cev63_040.scr	17	ミント	Mint Adenade	personagem		リカルドさん？		
+cev63_050.scr:0	cev63_050.scr	0	アニス	Anise Tatlin	personagem	CRLF x1	ジューダスって〜、\nいつもその仮面付けてるよねえ		
+cev63_050.scr:1	cev63_050.scr	1	アニス	Anise Tatlin	personagem		外したりしないの？		
+cev63_050.scr:2	cev63_050.scr	2	ジューダス	Judas	personagem		外す必要がないからな		
+cev63_050.scr:3	cev63_050.scr	3	アニス	Anise Tatlin	personagem		ふーん……		
+cev63_050.scr:4	cev63_050.scr	4	アニス	Anise Tatlin	personagem	CRLF x1	ねえ、リカルドってさ〜。\n何気に髪、結構長いよね〜？		
+cev63_050.scr:5	cev63_050.scr	5	アニス	Anise Tatlin	personagem		切ったりしないの？		
+cev63_050.scr:6	cev63_050.scr	6	リカルド	Ricardo Soldato	personagem		切る意味がないからな		
+cev63_050.scr:7	cev63_050.scr	7	アニス	Anise Tatlin	personagem		ふ〜ん……		
+cev63_050.scr:8	cev63_050.scr	8	アニス	Anise Tatlin	personagem	CRLF x1	って、ちょっと……。\n何、この空気の重さ！		
+cev63_050.scr:9	cev63_050.scr	9	アニス	Anise Tatlin	personagem	CRLF x1	ぶ〜……。\n何で、この二人と留守番なのぉ〜……		
+cev63_060.scr:0	cev63_060.scr	0	リアラ	Reala	personagem	CRLF x1	リカルドさんのお顔の傷って……\nどうされたんですか？		
+cev63_060.scr:1	cev63_060.scr	1	リカルド	Ricardo Soldato	personagem		つまらん事は気にしなくていい		
+cev63_060.scr:2	cev63_060.scr	2	リアラ	Reala	personagem		す、すみません……		
+cev63_060.scr:3	cev63_060.scr	3	リカルド	Ricardo Soldato	personagem	CRLF x1	人には誰しも、\n触れられたくない過去がある		
+cev63_060.scr:4	cev63_060.scr	4	リカルド	Ricardo Soldato	personagem	CRLF x2	……安易な思い付きで\n軽々しく他人の傷に触れるのは\nやめておく事だ		
+cev63_060.scr:5	cev63_060.scr	5	リアラ	Reala	personagem	CRLF x1	そうですね。\n……気を付けます		
+cev63_060.scr:6	cev63_060.scr	6	ジューダス	Judas	personagem	CRLF x1	どうした。\n……何か揉めている様だったが		
+cev63_060.scr:7	cev63_060.scr	7	リアラ	Reala	personagem	CRLF x2	そうよね……。\nどんなに目に付くものでも、\n触れられたくないものって、あるのよね		
+cev63_060.scr:8	cev63_060.scr	8	ジューダス	Judas	personagem	CRLF x2	……おい。\nなぜそんな目で仮面を見る。\n僕に喧嘩を売っているのか？		
+cev63_070.scr:0	cev63_070.scr	0	リカルド	Ricardo Soldato	personagem	CRLF x1	しかし、ここは本当に\nどこを見てもガキだらけだな……		
+cev63_070.scr:1	cev63_070.scr	1	リカルド	Ricardo Soldato	personagem	CRLF x1	こんな状態で、よくギルドを\n運営しようという気になったものだ		
+cev63_070.scr:2	cev63_070.scr	2	コングマン	Kongman	personagem	CRLF x1	そうは言うが、ここにいるのは\nただのガキどもじゃねえ		
+cev63_070.scr:3	cev63_070.scr	3	コングマン	Kongman	personagem	CRLF x1	己の信念や目的を持った\nワケ有りの奴らばかりよ		
+cev63_070.scr:4	cev63_070.scr	4	リカルド	Ricardo Soldato	personagem	CRLF x2	……その様だな。\nガキはガキらしくしていれば\nいいものを……		
+cev63_070.scr:5	cev63_070.scr	5	コングマン	Kongman	personagem		おめぇの言いたい事もわかるんだがよ		
+cev63_070.scr:6	cev63_070.scr	6	コングマン	Kongman	personagem	CRLF x2	あいつらは見てるだけじゃなく\n自分の手で、望んだ未来を\n勝ち取りたいと願ってんだ		
+cev63_070.scr:7	cev63_070.scr	7	コングマン	Kongman	personagem	CRLF x1	その思いの強さに、\n「ガキ」も「強さ」も関係ねえってこった		
+cev63_070.scr:8	cev63_070.scr	8	リカルド	Ricardo Soldato	personagem	CRLF x2	ふん……。\nそれだけ俺達「大人」が\n頼りにされなくなった、という事か		
+cev63_070.scr:9	cev63_070.scr	9	コングマン	Kongman	personagem	CRLF x1	そうでもねえだろ。\n俺達は俺達で、出来る事がある		
+cev63_070.scr:10	cev63_070.scr	10	コングマン	Kongman	personagem		俺達にしかやれねえ事も、きっとな		
+cev63_070.scr:11	cev63_070.scr	11	リカルド	Ricardo Soldato	personagem		ふっ……そうだな		
+cev63_070.scr:12	cev63_070.scr	12	リカルド	Ricardo Soldato	personagem	CRLF x2	やれやれ。　どうあっても\nガキのお守りをする事になる、か。\n……大人の仕事は山積みだな		
+cev63_080.scr:0	cev63_080.scr	0	リカルド	Ricardo Soldato	personagem	CRLF x1	お前は闘技場で、\n見世物の戦いをしていたそうだな		
+cev63_080.scr:1	cev63_080.scr	1	コングマン	Kongman	personagem	CRLF x1	あぁ！？\n俺様の戦いは見世物なんかじゃねえぞ！！		
+cev63_080.scr:2	cev63_080.scr	2	リカルド	Ricardo Soldato	personagem	CRLF x1	だが、本物の戦場ではない。\n見世物でなくて何なのだ		
+cev63_080.scr:3	cev63_080.scr	3	コングマン	Kongman	personagem	CRLF x2	いいか、よぅく聞け。\n俺様の仕事はな、\n戦いで観客に、夢を見せる事なのよ		
+cev63_080.scr:4	cev63_080.scr	4	コングマン	Kongman	personagem	CRLF x1	強くなれば、敵に勝てる。\n強くなれば、明日が勝ちとれる		
+cev63_080.scr:5	cev63_080.scr	5	コングマン	Kongman	personagem	CRLF x2	そんな風に、見ている奴らを\n奮い立たせるのは、チャンピオンである\n俺様にしか出来ない事よ		
+cev63_080.scr:6	cev63_080.scr	6	リカルド	Ricardo Soldato	personagem	CRLF x1	ほう……夢、か。\nなるほどな……		
+cev63_080.scr:7	cev63_080.scr	7	リカルド	Ricardo Soldato	personagem	CRLF x1	戦う理由が、千差万別である様に\n戦場にも、様々な主旨があるという事か		
+cev63_080.scr:8	cev63_080.scr	8	コングマン	Kongman	personagem		おうよ！		
+cev63_080.scr:9	cev63_080.scr	9	コングマン	Kongman	personagem	CRLF x2	だからこそ、俺様は\nこれからも無敵のチャンピオンで\nあり続けなきゃなんねえんだ！		
+cev63_200.scr:0	cev63_200.scr	0	リカルド	Ricardo Soldato	personagem	CRLF x1	通常。\n		
+cev63_200.scr:1	cev63_200.scr	1	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:2	cev63_200.scr	2	リカルド	Ricardo Soldato	personagem	CRLF x1	笑い。\n		
+cev63_200.scr:3	cev63_200.scr	3	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:4	cev63_200.scr	4	リカルド	Ricardo Soldato	personagem	CRLF x1	怒り。\n		
+cev63_200.scr:5	cev63_200.scr	5	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:6	cev63_200.scr	6	リカルド	Ricardo Soldato	personagem	CRLF x1	悲しみ。\n		
+cev63_200.scr:7	cev63_200.scr	7	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:8	cev63_200.scr	8	リカルド	Ricardo Soldato	personagem	CRLF x1	不機嫌。\n		
+cev63_200.scr:9	cev63_200.scr	9	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:10	cev63_200.scr	10	リカルド	Ricardo Soldato	personagem	CRLF x1	照れ。\n		
+cev63_200.scr:11	cev63_200.scr	11	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:12	cev63_200.scr	12	リカルド	Ricardo Soldato	personagem	CRLF x1	通常。\n		
+cev63_200.scr:13	cev63_200.scr	13	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:14	cev63_200.scr	14	リカルド	Ricardo Soldato	personagem	CRLF x1	笑い。\n		
+cev63_200.scr:15	cev63_200.scr	15	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:16	cev63_200.scr	16	リカルド	Ricardo Soldato	personagem	CRLF x1	怒り。\n		
+cev63_200.scr:17	cev63_200.scr	17	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:18	cev63_200.scr	18	リカルド	Ricardo Soldato	personagem	CRLF x1	悲しみ。\n		
+cev63_200.scr:19	cev63_200.scr	19	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:20	cev63_200.scr	20	リカルド	Ricardo Soldato	personagem	CRLF x1	不機嫌。\n		
+cev63_200.scr:21	cev63_200.scr	21	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:22	cev63_200.scr	22	リカルド	Ricardo Soldato	personagem	CRLF x1	照れ。\n		
+cev63_200.scr:23	cev63_200.scr	23	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:24	cev63_200.scr	24	リカルド	Ricardo Soldato	personagem	CRLF x1	通常。\n		
+cev63_200.scr:25	cev63_200.scr	25	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:26	cev63_200.scr	26	リカルド	Ricardo Soldato	personagem	CRLF x1	笑い。\n		
+cev63_200.scr:27	cev63_200.scr	27	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:28	cev63_200.scr	28	リカルド	Ricardo Soldato	personagem	CRLF x1	怒り。\n		
+cev63_200.scr:29	cev63_200.scr	29	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:30	cev63_200.scr	30	リカルド	Ricardo Soldato	personagem	CRLF x1	悲しみ。\n		
+cev63_200.scr:31	cev63_200.scr	31	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:32	cev63_200.scr	32	リカルド	Ricardo Soldato	personagem	CRLF x1	不機嫌。\n		
+cev63_200.scr:33	cev63_200.scr	33	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev63_200.scr:34	cev63_200.scr	34	リカルド	Ricardo Soldato	personagem	CRLF x1	照れ。\n		
+cev63_200.scr:35	cev63_200.scr	35	リカルド	Ricardo Soldato	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

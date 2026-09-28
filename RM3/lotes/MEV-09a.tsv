@@ -1,0 +1,158 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev09_010.scr:0	mev09_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	しいなが提供してくれた\n資料の解読が済んで、やっと\n精霊に会いに行ける様になったの		
+mev09_010.scr:1	mev09_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	今回、あなたには精霊に会って\nラザリスの事、世界の始まりの事を\n聞いてきてもらうね		
+mev09_010.scr:2	mev09_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	行き先は、霊峰アブソールという雪山。\nエミル君とカイウス君に\n同行を頼んでいるから		
+mev09_010.scr:3	mev09_010.scr	3	アンジュ	Ange Serena	personagem		それじゃあ、よろしくね		
+mev09_020.scr:0	mev09_020.scr	0	エミル	Emil Castagnier	personagem		うわっ…、寒いね		
+mev09_020.scr:1	mev09_020.scr	1	カイウス	Caius Qualls	personagem	CRLF x1	そうか？\nそこまでひどい寒さじゃないと思うけど		
+mev09_020.scr:2	mev09_020.scr	2	カイウス	Caius Qualls	personagem	CRLF x1	それに、いざとなれば\nオレは獣人化して毛皮まとえるし		
+mev09_020.scr:3	mev09_020.scr	3	エミル	Emil Castagnier	personagem	CRLF x2	そうか、カイウスは獣人に変身出来る\nリカンツだったね。\n初めて変身した姿を見た時はびっくりしたな		
+mev09_020.scr:4	mev09_020.scr	4	カイウス	Caius Qualls	personagem	CRLF x1	オレは、エミルが戦う時に出る\n妙な人格の方がびっくりしたけどな		
+mev09_020.scr:5	mev09_020.scr	5	エミル	Emil Castagnier	personagem		あ…、ご、ごめん…		
+mev09_020.scr:6	mev09_020.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	いや、もう付き合い長いから\n慣れたけどさ		
+mev09_020.scr:7	mev09_020.scr	7	カイウス	Caius Qualls	personagem	CRLF x2	それに、アドリビトムには\n人間だけじゃなくて、色んな種族がいるから、\n誰が珍しいっていうのはないよな		
+mev09_020.scr:8	mev09_020.scr	8	エミル	Emil Castagnier	personagem	CRLF x1	そうだね。\nそれに、種族の差を感じないし		
+mev09_020.scr:9	mev09_020.scr	9	カイウス	Caius Qualls	personagem	CRLF x1	外から見れば、相当変わったギルドに\n見えてるかもしれないけどな		
+mev09_020.scr:10	mev09_020.scr	10	エミル	Emil Castagnier	personagem	CRLF x1	精霊も、そうかな？\nヒトとあまり変わらないのかな		
+mev09_020.scr:11	mev09_020.scr	11	エミル	Emil Castagnier	personagem	CRLF x2	何かありそうな気がするんだ。\nそう、やすやすと会ってくれるとも\n限らないし…		
+mev09_020.scr:12	mev09_020.scr	12	エミル	Emil Castagnier	personagem	CRLF x2	ヒトと心を通わせてくれるのかな…。\n僕は…、不安だな。\n何かありそうな気がするし…		
+mev09_020.scr:13	mev09_020.scr	13	(opcao do jogador)	(opcao do jogador)	escolha		よくわからない、と言う		
+mev09_020.scr:14	mev09_020.scr	14	(opcao do jogador)	(opcao do jogador)	escolha		ヒトと同じだと思う、と言う		
+mev09_030.scr:0	mev09_030.scr	0	カイウス	Caius Qualls	personagem	CRLF x1	精霊は、マナが豊かな所にしか\nいられないんだろ？		
+mev09_030.scr:1	mev09_030.scr	1	カイウス	Caius Qualls	personagem	CRLF x1	この山に精霊がいるなら、ここは\nマナが豊富なのかな		
+mev09_030.scr:2	mev09_030.scr	2	エミル	Emil Castagnier	personagem	CRLF x1	…ええっと。\nそういう事に…なるのかな？		
+mev09_030.scr:3	mev09_030.scr	3	エミル	Emil Castagnier	personagem	CRLF x1	土地がマナに恵まれる条件は二つあって、\nまず一つが、地下に世界樹の根が通ってる事		
+mev09_030.scr:4	mev09_030.scr	4	エミル	Emil Castagnier	personagem		そして、もう一つは星晶がある事		
+mev09_030.scr:5	mev09_030.scr	5	カイウス	Caius Qualls	personagem	CRLF x1	ここはどうなんだろうな。\nこんな寒い所に世界樹の根が伸びるかな		
+mev09_030.scr:6	mev09_030.scr	6	エミル	Emil Castagnier	personagem	CRLF x2	寒さとかは関係ないんじゃないかな。\n普通の樹じゃないんだから。\nマグマの中でも根は伸びてるって言うし		
+mev09_030.scr:7	mev09_030.scr	7	カイウス	Caius Qualls	personagem	CRLF x2	星晶は、マナが物質化したものなんだろ。\n根が張ってない所にも星晶があるのは\n何でなんだ？		
+mev09_030.scr:8	mev09_030.scr	8	エミル	Emil Castagnier	personagem		そ、そこまでは…僕にはわからないよ		
+mev09_030.scr:9	mev09_030.scr	9	エミル	Emil Castagnier	personagem	CRLF x1	でも、世界樹も成長の途中で…、世界中に\n根を伸ばしきれていないとか…		
+mev09_030.scr:10	mev09_030.scr	10	エミル	Emil Castagnier	personagem	CRLF x2	だから、世界中に根が張り尽くされるまで、\n世界樹はマナを物質化させる事で\n星晶を作って…、		
+mev09_030.scr:11	mev09_030.scr	11	エミル	Emil Castagnier	personagem	CRLF x1	根が張っていない土地に星晶を据えたって\nそういう「説」はあるみたいだね		
+mev09_030.scr:12	mev09_030.scr	12	カイウス	Caius Qualls	personagem	CRLF x1	じゃあ、やっぱそういうのも含めて\n精霊に聞くしかないのか		
+mev09_040.scr:0	mev09_040.scr	0	エミル	Emil Castagnier	personagem		だ、誰かいるよ…		
+mev09_040.scr:1	mev09_040.scr	1	カイウス	Caius Qualls	personagem		精霊じゃ無さそうだな		
+mev09_040.scr:2	mev09_040.scr	2	カイウス	Caius Qualls	personagem	CRLF x1	でも、アンジュさんの指示じゃ\n目的地はここなんだけどな		
+mev09_040.scr:3	mev09_040.scr	3	リヒター	Richter Abend	personagem		精霊を探している、だと？		
+mev09_040.scr:4	mev09_040.scr	4	エミル	Emil Castagnier	personagem		…あ……、…その、僕達は…		
+mev09_040.scr:5	mev09_040.scr	5	エミル	Emil Castagnier	personagem	CRLF x1	…ギルドの者で…\n精霊を……探していて………		
+mev09_040.scr:6	mev09_040.scr	6	リヒター	Richter Abend	personagem	CRLF x1	精霊に会わせる事は出来ない。\n早々に立ち去れ		
+mev09_040.scr:7	mev09_040.scr	7	カイウス	Caius Qualls	personagem	CRLF x2	でも、オレ達は精霊に\n聞かなきゃいけない事があるんだよ。\n話がしたいだけなんだ		
+mev09_040.scr:8	mev09_040.scr	8	リヒター	Richter Abend	personagem		話だと？		
+mev09_040.scr:9	mev09_040.scr	9	リヒター	Richter Abend	personagem		そんな嘘は、今まで訪れた者は皆言っていた		
+mev09_040.scr:10	mev09_040.scr	10	リヒター	Richter Abend	personagem	CRLF x2	お前達の目的は、精霊を捕え\n星晶がある場所を探知させる為に\n利用したいだけなのだろう？		
+mev09_040.scr:11	mev09_040.scr	11	エミル	Emil Castagnier	personagem		い、いいえ……		
+mev09_040.scr:12	mev09_040.scr	12	エミル	Emil Castagnier	personagem		そんな事は…、絶対に……		
+mev09_040.scr:13	mev09_040.scr	13	カイウス	Caius Qualls	personagem		精霊を知ってるんだな		
+mev09_040.scr:14	mev09_040.scr	14	カイウス	Caius Qualls	personagem		あんたこそ、何者なんだよ！		
+mev09_040.scr:15	mev09_040.scr	15	リヒター	Richter Abend	personagem	CRLF x2	俺は、リヒター・アーベント。\nここにいる精霊と契約し、\nこの地と精霊を守る者だ		
+mev09_040.scr:16	mev09_040.scr	16	リヒター	Richter Abend	personagem		精霊に会いたくば、俺に勝ってみせろ		
+mev09_040.scr:17	mev09_040.scr	17	カイウス	Caius Qualls	personagem		そういう事か		
+mev09_040.scr:18	mev09_040.scr	18	カイウス	Caius Qualls	personagem		よし、行くぜ！　みんな！		
+mev09_040.scr:19	mev09_040.scr	19	リヒター	Richter Abend	personagem		お前達、ここへ何しに来た…		
+mev09_040.scr:20	mev09_040.scr	20	エミル	Emil Castagnier	personagem		…あ……、…その、僕達は…		
+mev09_040.scr:21	mev09_040.scr	21	エミル	Emil Castagnier	personagem	CRLF x1	…ギルドの者で…\n精霊を……探していて………		
+mev09_040.scr:22	mev09_040.scr	22	リヒター	Richter Abend	personagem	CRLF x1	精霊に会わせる事は出来ない。\n早々に立ち去れ		
+mev09_040.scr:23	mev09_040.scr	23	カイウス	Caius Qualls	personagem	CRLF x2	でも、オレ達は精霊に\n聞かなきゃいけない事があるんだよ。\n話がしたいだけなんだ		
+mev09_040.scr:24	mev09_040.scr	24	リヒター	Richter Abend	personagem		話だと？		
+mev09_040.scr:25	mev09_040.scr	25	リヒター	Richter Abend	personagem		そんな嘘は、今まで訪れた者は皆言っていた		
+mev09_040.scr:26	mev09_040.scr	26	リヒター	Richter Abend	personagem	CRLF x2	お前達の目的は、精霊を捕え\n星晶がある場所を探知させる為に\n利用したいだけなのだろう？		
+mev09_040.scr:27	mev09_040.scr	27	エミル	Emil Castagnier	personagem		い、いいえ……		
+mev09_040.scr:28	mev09_040.scr	28	エミル	Emil Castagnier	personagem		そんな事は…、絶対に……		
+mev09_040.scr:29	mev09_040.scr	29	カイウス	Caius Qualls	personagem		精霊を知ってるんだな		
+mev09_040.scr:30	mev09_040.scr	30	カイウス	Caius Qualls	personagem		あんたこそ、何者なんだよ！		
+mev09_040.scr:31	mev09_040.scr	31	リヒター	Richter Abend	personagem	CRLF x2	俺は、リヒター・アーベント。\nここにいる精霊と契約し、\nこの地と精霊を守る者だ		
+mev09_040.scr:32	mev09_040.scr	32	リヒター	Richter Abend	personagem		精霊に会いたくば、俺に勝ってみせろ		
+mev09_040.scr:33	mev09_040.scr	33	カイウス	Caius Qualls	personagem		そういう事か		
+mev09_040.scr:34	mev09_040.scr	34	カイウス	Caius Qualls	personagem		よし、行くぜ！　みんな！		
+mev09_040.scr:35	mev09_040.scr	35	(opcao do jogador)	(opcao do jogador)	escolha		男に精霊の居場所を聞いてみる		
+mev09_040.scr:36	mev09_040.scr	36	(opcao do jogador)	(opcao do jogador)	escolha		男を無視して、精霊を探す		
+mev09_050.scr:0	mev09_050.scr	0	リヒター	Richter Abend	personagem	CRLF x1	何度来ようと同じ事だ。\n精霊を守るという俺の役目は変わらない…		
+mev09_060.scr:0	mev09_060.scr	0	リヒター	Richter Abend	personagem		………くっ！		
+mev09_060.scr:1	mev09_060.scr	1	エミル	Emil Castagnier	personagem	CRLF x2	僕…、僕達は……、\n精霊を捕らえようなんて\n思ってなくて……		
+mev09_060.scr:2	mev09_060.scr	2	エミル	Emil Castagnier	personagem	CRLF x2	本当に、ただ、話をしたくて…。\nすみません、それが済んだら\nすぐに帰りますから…		
+mev09_060.scr:3	mev09_060.scr	3	エミル	Emil Castagnier	personagem	CRLF x2	そ、それより…あなたに手当てを……。\nすみません…！\n今、手当てをします…		
+mev09_060.scr:4	mev09_060.scr	4	セルシウス	Celsius	personagem	CRLF x1	闘気をおさめて、リヒター。\nそのヒト達は、敵ではないわ		
+mev09_060.scr:5	mev09_060.scr	5	セルシウス	Celsius	personagem		わたしは、氷の精霊セルシウス		
+mev09_060.scr:6	mev09_060.scr	6	セルシウス	Celsius	personagem		あなた達が知りたい事に答えるわ		
+mev09_070.scr:0	mev09_070.scr	0	カイウス	Caius Qualls	personagem	CRLF x1	ええっと、じゃあまず世界の始まり、\n創世の時についてかな		
+mev09_070.scr:1	mev09_070.scr	1	セルシウス	Celsius	personagem		創世の時…		
+mev09_070.scr:2	mev09_070.scr	2	セルシウス	Celsius	personagem	CRLF x1	ごめんなさい。\nそれについては答えられないわ		
+mev09_070.scr:3	mev09_070.scr	3	エミル	Emil Castagnier	personagem		ええっ！？　そんなぁ…		
+mev09_070.scr:4	mev09_070.scr	4	セルシウス	Celsius	personagem	CRLF x1	だって、精霊にも世界の始まりの事は\nわからないんだもの		
+mev09_070.scr:5	mev09_070.scr	5	セルシウス	Celsius	personagem	CRLF x1	精霊という存在は、\n世界が創られた後に生まれた者		
+mev09_070.scr:6	mev09_070.scr	6	セルシウス	Celsius	personagem	CRLF x1	わたし達は、マナを自然界の現象に\n作用させる為に生まれたのよ		
+mev09_070.scr:7	mev09_070.scr	7	セルシウス	Celsius	personagem	CRLF x1	そして、星晶により封じられていた\n「あの存在」の事しか知らないわ		
+mev09_070.scr:8	mev09_070.scr	8	カイウス	Caius Qualls	personagem		あの存在って何だ？		
+mev09_070.scr:9	mev09_070.scr	9	セルシウス	Celsius	personagem		わたし達、精霊にもわからないの		
+mev09_070.scr:10	mev09_070.scr	10	セルシウス	Celsius	personagem	CRLF x1	ただ、精霊が生まれる以前に、\n既にこの世界にいたものの様よ		
+mev09_070.scr:11	mev09_070.scr	11	セルシウス	Celsius	personagem	CRLF x1	精霊ですら届かない次元にいる、\n何か歪んだ力…		
+mev09_070.scr:12	mev09_070.scr	12	セルシウス	Celsius	personagem	CRLF x1	そして、それが大きな災厄となる事を、\n本能的に察知しているだけなのよ		
+mev09_070.scr:13	mev09_070.scr	13	エミル	Emil Castagnier	personagem	CRLF x1	大きな災厄になる、歪んだ力…。\nそれを、星晶が封じていたの？		
+mev09_070.scr:14	mev09_070.scr	14	セルシウス	Celsius	personagem	CRLF x1	けれど、その封印は解かれてしまったわ。\n星晶を人々が採り尽くした事で…		
+mev09_070.scr:15	mev09_070.scr	15	エミル	Emil Castagnier	personagem		……やっぱり		
+mev09_070.scr:16	mev09_070.scr	16	エミル	Emil Castagnier	personagem		いい話じゃないとは思ってた…		
+mev09_070.scr:17	mev09_070.scr	17	セルシウス	Celsius	personagem	CRLF x1	だから、\n世界樹は「あなた」を遣わせたのかしら？		
+mev09_070.scr:18	mev09_070.scr	18	カイウス	Caius Qualls	personagem		オレ…？		
+mev09_070.scr:19	mev09_070.scr	19	セルシウス	Celsius	personagem		いいえ		
+mev09_070.scr:20	mev09_070.scr	20	エミル	Emil Castagnier	personagem		ぼ…、僕でもないと思うけど…		
+mev09_070.scr:21	mev09_070.scr	21	セルシウス	Celsius	personagem		ええ、違うわ		
+mev09_070.scr:22	mev09_070.scr	22	セルシウス	Celsius	personagem		あなたの事よ、ディセンダー		
+mev09_070.scr:23	mev09_070.scr	23	カイウス	Caius Qualls	personagem		○○、って…		
+mev09_070.scr:24	mev09_070.scr	24	カイウス	Caius Qualls	personagem	CRLF x1	えええ！！！\nディセンダーだって！？		
+mev09_070.scr:25	mev09_070.scr	25	エミル	Emil Castagnier	personagem		あ……、じゃあ記憶が無いっていうのは…		
+mev09_070.scr:26	mev09_070.scr	26	エミル	Emil Castagnier	personagem	CRLF x2	予言で言う通り、\n世界樹から生まれて\n何も知らないからだったんだ		
+mev09_070.scr:27	mev09_070.scr	27	リヒター	Richter Abend	personagem	CRLF x1	そういう事か、セルシウス。\n…こいつがディセンダーとはな		
+mev09_070.scr:28	mev09_070.scr	28	セルシウス	Celsius	personagem		世界樹の福音を受けし、光まとう者…		
+mev09_070.scr:29	mev09_070.scr	29	セルシウス	Celsius	personagem		わたしも、あなたに与して力を貸すわ		
+mev09_070.scr:30	mev09_070.scr	30	セルシウス	Celsius	personagem	CRLF x2	あの存在が、どんな災厄かはわからないし、\n何を目的としているのか、\nわたし達精霊にもわからないけれど…		
+mev09_070.scr:31	mev09_070.scr	31	カイウス	Caius Qualls	personagem	CRLF x1	もしかして、その災厄ってのは\n「ラザリス」の事じゃないのか？		
+mev09_070.scr:32	mev09_070.scr	32	セルシウス	Celsius	personagem		…ラザリス…？		
+mev09_070.scr:33	mev09_070.scr	33	セルシウス	Celsius	personagem		そうね…		
+mev09_070.scr:34	mev09_070.scr	34	セルシウス	Celsius	personagem	CRLF x2	ねえ、リヒター。\nこの地を守るだけでは\n済みそうにないみたいだわ		
+mev09_070.scr:35	mev09_070.scr	35	リヒター	Richter Abend	personagem		その様だな…		
+mev09_070.scr:36	mev09_070.scr	36	セルシウス	Celsius	personagem	CRLF x2	ディセンダー。\nわたしもあなたに付いていくわ。\n解き放たれた災厄より、この世界を守る為に		
+mev09_070.scr:37	mev09_070.scr	37	リヒター	Richter Abend	personagem		案内しろ		
+mev09_070.scr:38	mev09_070.scr	38	エミル	Emil Castagnier	personagem		え…？		
+mev09_070.scr:39	mev09_070.scr	39	リヒター	Richter Abend	personagem		お前達の拠点へ案内しろ		
+mev09_070.scr:40	mev09_070.scr	40	エミル	Emil Castagnier	personagem		は、はいっ…！！		
+mev09_070.scr:41	mev09_070.scr	41	(opcao do jogador)	(opcao do jogador)	escolha		「あなた」とは誰か、と聞き返す		
+mev09_070.scr:42	mev09_070.scr	42	(opcao do jogador)	(opcao do jogador)	escolha		カイウスとエミルを見る		
+mev09_080.scr:0	mev09_080.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	まさか、あなたが\nディセンダーだったなんて…。\n………		
+mev09_080.scr:1	mev09_080.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	ごめんなさい、何と言うか…、\nあまりにも驚いてしまって、\n上手く言葉が出て来ないの…		
+mev09_080.scr:2	mev09_080.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	そうよね。\n一番、戸惑っているのは\nあなたの方よね		
+mev09_080.scr:3	mev09_080.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	え、ええ…。\nそうよね、\nこういう時こそ落ち着かないと…		
+mev09_080.scr:4	mev09_080.scr	4	カイウス	Caius Qualls	personagem	CRLF x2	ってもなぁ。\n取り立てて、オレ達と違う所なんて\nないのになぁ		
+mev09_080.scr:5	mev09_080.scr	5	イリア	Iria Animi	personagem		いーや、あるわよ		
+mev09_080.scr:6	mev09_080.scr	6	イリア	Iria Animi	personagem	CRLF x1	だって、あんた生物変化を起こした\nジョアン達を元に戻したでしょ		
+mev09_080.scr:7	mev09_080.scr	7	イリア	Iria Animi	personagem		あれがきっと、ディセンダーの力なのよ		
+mev09_080.scr:8	mev09_080.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	そういえば、\n「暁の従者」の人達もあなたが…		
+mev09_080.scr:9	mev09_080.scr	9	エミル	Emil Castagnier	personagem	CRLF x2	あの、アンジュさん。\n部屋へ案内するって伝えたんだけど、\nセルシウスさんは、甲板がいいって…		
+mev09_080.scr:10	mev09_080.scr	10	アンジュ	Ange Serena	personagem	CRLF x2	了解よ、エミル君。\n氷の精霊だから、少しでも涼しい場所が\nいいのかしらね		
+mev09_080.scr:11	mev09_080.scr	11	アンジュ	Ange Serena	personagem	CRLF x2	とりあえず、○○。\nあなたの話は、また近いうちにする事に\nしましょう		
+mev09_080.scr:12	mev09_080.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	今は、セルシウスから\n話を聞かないとね		
+mev09_080.scr:13	mev09_080.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	先に甲板へ訪ねておいてくれるかしら？\nわたしは、リタを呼んでから行くから		
+mev09_080.scr:14	mev09_080.scr	14	(opcao do jogador)	(opcao do jogador)	escolha		自分も戸惑っている事を伝える		
+mev09_080.scr:15	mev09_080.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		落ち付く様に諭す		
+mev09_090.scr:0	mev09_090.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	さて、セルシウス。\n色々、あなたから話を聞きたいんだけど		
+mev09_090.scr:1	mev09_090.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	そうね、まず星晶に封じられていた\n「災厄」について		
+mev09_090.scr:2	mev09_090.scr	2	セルシウス	Celsius	personagem	CRLF x2	そちらの話も、エミルに聞いたわ。\nあなた達が、ラザリスと呼ぶ者。\nそれがきっと、災厄でしょうね		
+mev09_090.scr:3	mev09_090.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	ラザリスは自分の事を、\n「誕生するはずだった世界」と言ったの		
+mev09_090.scr:4	mev09_090.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	その「誕生するはずだった世界」がなぜ、\nこの世界ルミナシアに封じられていたのか、\nどういう災厄になっていくのか		
+mev09_090.scr:5	mev09_090.scr	5	アンジュ	Ange Serena	personagem		それについては…？		
+mev09_090.scr:6	mev09_090.scr	6	セルシウス	Celsius	personagem	CRLF x1	いえ。\nその様な事までは、精霊も知らないわ		
+mev09_090.scr:7	mev09_090.scr	7	リタ	Rita Mordio	personagem	CRLF x1	ともかく、星晶の採掘が\n引き金だったわけね		
+mev09_090.scr:8	mev09_090.scr	8	リタ	Rita Mordio	personagem	CRLF x2	はぁ…。\n知らなかったとはいえ、\nこんな事態を引き起こすなんてね…		
+mev09_090.scr:9	mev09_090.scr	9	リタ	Rita Mordio	personagem		今から採掘を止めても、手遅れみたいね		
+mev09_090.scr:10	mev09_090.scr	10	セルシウス	Celsius	personagem		「生まれるはずだった世界」、ね…		
+mev09_090.scr:11	mev09_090.scr	11	セルシウス	Celsius	personagem	CRLF x1	そういえば、この世の創世に\n立ち会った者がいたらしいけれど		
+mev09_090.scr:12	mev09_090.scr	12	リタ	Rita Mordio	personagem		そんなヒトがいるわけ？		
+mev09_090.scr:13	mev09_090.scr	13	セルシウス	Celsius	personagem	CRLF x2	創世に立ち会ったのは、\nもちろんヒトではないわ。\n精霊でもないの		
+mev09_090.scr:14	mev09_090.scr	14	セルシウス	Celsius	personagem	CRLF x2	そして、その存在から、\n創世の時について聞いたのが\n「ヒトの祖」なのよ		
+mev09_090.scr:15	mev09_090.scr	15	リタ	Rita Mordio	personagem		「ヒトの祖」…？		
+mev09_090.scr:16	mev09_090.scr	16	アンジュ	Ange Serena	personagem	CRLF x2	何だか話が長くなりそうね。\nリタ、この話については、\nあなたが聞いておいてくれる？		
+mev09_090.scr:17	mev09_090.scr	17	リタ	Rita Mordio	personagem		わかったわ		
+mev09_090.scr:18	mev09_090.scr	18	アンジュ	Ange Serena	personagem	CRLF x2	それじゃあ、セルシウスとリヒターさんは\n今後ギルドの人員となるよう、\n手続きをするわね		
+mev09_090.scr:19	mev09_090.scr	19	(mensagem de sistema)	(mensagem de sistema)	sistema		セルシウスがアドリビトムに加入しました		
+mev09_090.scr:20	mev09_090.scr	20	(mensagem de sistema)	(mensagem de sistema)	sistema		リヒターがアドリビトムに加入しました		

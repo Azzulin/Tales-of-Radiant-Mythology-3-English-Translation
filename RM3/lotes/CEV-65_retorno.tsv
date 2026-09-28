@@ -1,0 +1,124 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	traducao
+cev65_010.scr:0	cev65_010.scr	0	ティア	Tear Grants	personagem		…………	......		......
+cev65_010.scr:1	cev65_010.scr	1	エステル	Estelle	personagem	CRLF x1	えっと、ティア？\nわたしの服に何か……？	Um, Tear?\nIs there something on my clothes...?		Um, Tear?\nIs there something on my clothes...?
+cev65_010.scr:2	cev65_010.scr	2	ティア	Tear Grants	personagem	CRLF x1	えっ……？　\nううん、違うの	Eh...?\nNo, that's not it.		Eh...?\nNo, that's not it.
+cev65_010.scr:3	cev65_010.scr	3	ティア	Tear Grants	personagem	CRLF x1	ただ、その……。\n可愛い服だなって、思って……	Just, well...\nI was thinking what cute clothes...		Just, well...\nI was thinking what cute clothes...
+cev65_010.scr:4	cev65_010.scr	4	エステル	Estelle	personagem	CRLF x1	そうです？　\nありがとうございます	Really?\nThank you very much.		Really?\nThank you very much.
+cev65_010.scr:5	cev65_010.scr	5	エステル	Estelle	personagem	CRLF x1	わたしはティアの服も、素敵だと\n思いますけど……	I think your outfit is lovely too,\nTear, but...		I think your outfit is lovely too,\nTear, but...
+cev65_010.scr:6	cev65_010.scr	6	エステル	Estelle	personagem		そうだ、良かったら交換してみません？	Oh! Why don't we try swapping outfits?		Oh! Why don't we try swapping outfits?
+cev65_010.scr:7	cev65_010.scr	7	ティア	Tear Grants	personagem	CRLF x1	ええっ！？\nそんな、交換って……	Ehh?!\nS-Swapping outfits, you say...?		Ehh?!\nS-Swapping outfits, you say...?
+cev65_010.scr:8	cev65_010.scr	8	クレス	Cress Albane	personagem	CRLF x1	へえ、そうなんだ。\nそれは初めて知ったよ	Oh, is that so?\nI never knew that.		Oh, is that so?\nI never knew that.
+cev65_010.scr:9	cev65_010.scr	9	フレン	Flynn Scifo	personagem		エステリーゼ様！	Lady Estellise!		Lady Estellise!
+cev65_010.scr:10	cev65_010.scr	10	クレス	Cress Albane	personagem	CRLF x1	やあ、二人とも。\nどうかしたのかい？	Hello, you two.\nIs something the matter?		Hello, you two.\nIs something the matter?
+cev65_010.scr:11	cev65_010.scr	11	エステル	Estelle	personagem		ちょうどいいところに	You're just in time!		You're just in time!
+cev65_010.scr:12	cev65_010.scr	12	エステル	Estelle	personagem		良かったらお二人も、一緒にどうです？	Would you two like to join in as well?		Would you two like to join in as well?
+cev65_010.scr:13	cev65_010.scr	13	エステル	Estelle	personagem		あ……ティア	Ah... Tear.		Ah... Tear.
+cev65_010.scr:14	cev65_010.scr	14	エステル	Estelle	personagem	CRLF x1	……？\n服、着替えてみなかったんです？	...?\nDidn't you try changing outfits?		...?\nDidn't you try changing outfits?
+cev65_010.scr:15	cev65_010.scr	15	ティア	Tear Grants	personagem	CRLF x2	あ……ご、ごめんなさい。\nちょっと、その……\nサイズが合わなかったみたいで	Ah... I-I'm sorry.\nIt seemed... well...\nthe size didn't quite fit.		Ah... I-I'm sorry.\nIt seemed... well...\nthe size didn't quite fit.
+cev65_010.scr:16	cev65_010.scr	16	ティア	Tear Grants	personagem		……エステルはどうだったの？	...How was it for you, Estelle?		...How was it for you, Estelle?
+cev65_010.scr:17	cev65_010.scr	17	エステル	Estelle	personagem		えっと……じ、実はわたしも……	Um... A-Actually, me too...		Um... A-Actually, me too...
+cev65_010.scr:18	cev65_010.scr	18	エステル	Estelle	personagem	CRLF x1	頑張ったんですけど、その……\nちょっと……胸の辺りが……	I tried my best, but... well...\naround the chest area was a bit...		I tried my best, but... well...\naround the chest area was a bit...
+cev65_010.scr:19	cev65_010.scr	19	エステル	Estelle	personagem		思った様に、うまくいかないものですね	Things don't always go as planned, huh?		Things don't always go as planned, huh?
+cev65_010.scr:20	cev65_010.scr	20	ティア	Tear Grants	personagem		そ、そうね……	Y-Yeah...		Y-Yeah...
+cev65_010.scr:21	cev65_010.scr	21	エステル	Estelle	personagem		あ、二人と……も？	Ah, you two... as well?		Ah, you two... as well?
+cev65_010.scr:22	cev65_010.scr	22	エステル	Estelle	personagem	CRLF x1	あの……もしかして二人も\n服のサイズが合わなかったんですか？	Um... Did the sizes not fit\nfor you two either?		Um... Did the sizes not fit\nfor you two either?
+cev65_010.scr:23	cev65_010.scr	23	クレス	Cress Albane	personagem	CRLF x2	いや？　\nダメかと思ったけど\n袖を通してみたら、案外いけたよ	No?\nWe thought it wouldn't work,\nbut slipping them on worked fine.		No?\nWe thought it wouldn't work,\nbut slipping them on worked fine.
+cev65_010.scr:24	cev65_010.scr	24	フレン	Flynn Scifo	personagem	CRLF x1	驚きました……。\nこの鎧、大分使い込まれていますね	I am astonished...\nThis armor has seen extensive use.		I am astonished...\nThis armor has seen extensive use.
+cev65_010.scr:25	cev65_010.scr	25	フレン	Flynn Scifo	personagem		これまでの鍛練が伝わってくる様です	I can feel your rigorous training in it.		I can feel your rigorous training in it.
+cev65_010.scr:26	cev65_010.scr	26	クレス	Cress Albane	personagem		そんな、僕なんてまだまだ	Oh no, I still have much to learn.		Oh no, I still have much to learn.
+cev65_010.scr:27	cev65_010.scr	27	クレス	Cress Albane	personagem	CRLF x2	フレンだって、こんな重い装備で\nあれだけ身軽に動き回れるなんて、\n流石だよ	To move so nimbly in such heavy gear,\nyou are truly impressive yourself,\nFlynn.		To move so nimbly in such heavy gear,\nyou are truly impressive yourself,\nFlynn.
+cev65_010.scr:28	cev65_010.scr	28	エステル	Estelle	personagem		ええと……	Um......		Um......
+cev65_010.scr:29	cev65_010.scr	29	ティア	Tear Grants	personagem		どっちが、どっち……？	Which one is which...?		Which one is which...?
+cev65_020.scr:0	cev65_020.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	なぁ、エステルって本当は\nエステリーゼって名前なんだよな？	Hey, your real name is actually\nEstellise, right, Estelle?		Hey, your real name is actually\nEstellise, right, Estelle?
+cev65_020.scr:1	cev65_020.scr	1	ティトレイ	Tytree Crowe	personagem		何で、エステルって呼ばれてるんだ？	Why does everyone call you Estelle?		Why does everyone call you Estelle?
+cev65_020.scr:2	cev65_020.scr	2	エステル	Estelle	personagem	CRLF x1	えっと……呼びにくいから、って\nユーリが短くしてくれたんです	Um... Yuri shortened it because\nit was hard to say, he said.		Um... Yuri shortened it because\nit was hard to say, he said.
+cev65_020.scr:3	cev65_020.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x1	ああ、なるほどなぁ！　\n……ん？	Ah, I get it now!\n...Wait?		Ah, I get it now!\n...Wait?
+cev65_020.scr:4	cev65_020.scr	4	ティトレイ	Tytree Crowe	personagem		でも、おれはそのままだな……	Yet mine stays just as it is...		Yet mine stays just as it is...
+cev65_020.scr:5	cev65_020.scr	5	エステル	Estelle	personagem		確かに、そうですね……	Indeed, you are right...		Indeed, you are right...
+cev65_020.scr:6	cev65_020.scr	6	エステル	Estelle	personagem		ティトレイも、名前を短くしたいんですか？	Do you want a shorter name too, Tytree?		Do you want a shorter name too, Tytree?
+cev65_020.scr:7	cev65_020.scr	7	ティトレイ	Tytree Crowe	personagem	CRLF x1	えっ？　\nいや、おれは……	Eh?\nNo, I mean...		Eh?\nNo, I mean...
+cev65_020.scr:8	cev65_020.scr	8	エステル	Estelle	personagem		それじゃあ……ティトレイ、だから	Well then... Since you're Tytree...		Well then... Since you're Tytree...
+cev65_020.scr:9	cev65_020.scr	9	エステル	Estelle	personagem		ト……！	To...!		To...!
+cev65_020.scr:10	cev65_020.scr	10	ティトレイ	Tytree Crowe	personagem	CRLF x1	いやいやいやいや、そのネタはもういいから！\nおれ、水洗便器と関係ねえし！	No no no no, not that joke again!\nI have nothing to do with flush toilets!		No no no no, not that joke again!\nI have nothing to do with flush toilets!
+cev65_020.scr:11	cev65_020.scr	11	ティトレイ	Tytree Crowe	personagem	CRLF x1	変な呼び方されんのは、\nノーマだけで十分だぜ	Having Norma give me weird nicknames\nis more than enough!		Having Norma give me weird nicknames\nis more than enough!
+cev65_020.scr:12	cev65_020.scr	12	エステル	Estelle	personagem	CRLF x1	水洗便器……？\n何の話です？	Flush toilets...?\nWhat are you talking about?		Flush toilets...?\nWhat are you talking about?
+cev65_030.scr:0	cev65_030.scr	0	エステル	Estelle	personagem		わぁ、可愛いです……！	Wah, so cute...!		Wah, so cute...!
+cev65_030.scr:1	cev65_030.scr	1	エステル	Estelle	personagem		おいで	Come here.		Come here.
+cev65_030.scr:2	cev65_030.scr	2	クィッキー	Quickie	personagem		クィ……	Qui...		Qui...
+cev65_030.scr:3	cev65_030.scr	3	エステル	Estelle	personagem		あ……	Ah......		Ah......
+cev65_030.scr:4	cev65_030.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x1	おーい、エステル。\nちょっと話が……って、わっ！	Heeey, Estelle.\nNeed to talk to you for a--whoa!		Heeey, Estelle.\nNeed to talk to you for a--whoa!
+cev65_030.scr:5	cev65_030.scr	5	クィッキー	Quickie	personagem		クィック、クィ……	Quick, qui...		Quick, qui...
+cev65_030.scr:6	cev65_030.scr	6	クィッキー	Quickie	personagem		クィッキー！！	Quickieee!!		Quickieee!!
+cev65_030.scr:7	cev65_030.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x1	何なんだ、こいつは？\nいてて、おい、どこに入ろうとしてんだ？	What's with this guy?\nOw, hey, where are you trying to crawl?!		What's with this guy?\nOw, hey, where are you trying to crawl?!
+cev65_030.scr:8	cev65_030.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x1	やめろって、こら。\nくすぐったいだろ	Cut it out, hey.\nThat tickles, you know.		Cut it out, hey.\nThat tickles, you know.
+cev65_030.scr:9	cev65_030.scr	9	クィッキー	Quickie	personagem		クィー	Quiii~		Quiii~
+cev65_030.scr:10	cev65_030.scr	10	エステル	Estelle	personagem		ユーリには、懐くんですね……	He's so attached to you, Yuri...		He's so attached to you, Yuri...
+cev65_030.scr:11	cev65_030.scr	11	エステル	Estelle	personagem		でも、わたし……負けません！	But I... will not lose!		But I... will not lose!
+cev65_040.scr:0	cev65_040.scr	0	エステル	Estelle	personagem	CRLF x1	えっと……こ、こんにちは。\nそういえば、自己紹介がまだでしたね	Um... H-Hello there.\nI haven't introduced myself yet, have I?		Um... H-Hello there.\nI haven't introduced myself yet, have I?
+cev65_040.scr:1	cev65_040.scr	1	クィッキー	Quickie	personagem		……クィ？	...Qui?		...Qui?
+cev65_040.scr:2	cev65_040.scr	2	エステル	Estelle	personagem		わたしは、エステリーゼと申します	My name is Estellise.		My name is Estellise.
+cev65_040.scr:3	cev65_040.scr	3	エステル	Estelle	personagem		趣味は読書をする事で……	My hobby is reading books, and...		My hobby is reading books, and...
+cev65_040.scr:4	cev65_040.scr	4	エステル	Estelle	personagem		あ……	Ah......		Ah......
+cev65_040.scr:5	cev65_040.scr	5	メルディ	Meredy	personagem	CRLF x1	もしかして\nクィッキーが仲良くなりたいか？	Could it be\nyou want to be friends with Quickie?		Could it be\nyou want to be friends with Quickie?
+cev65_040.scr:6	cev65_040.scr	6	メルディ	Meredy	personagem		メルディ、いい方法知ってるよ！	Meredy knows a great way!		Meredy knows a great way!
+cev65_040.scr:7	cev65_040.scr	7	エステル	Estelle	personagem	CRLF x1	ほ……本当ですか？\nどうすればいいんです？	R-Really?\nWhat should I do?		R-Really?\nWhat should I do?
+cev65_040.scr:8	cev65_040.scr	8	メルディ	Meredy	personagem	CRLF x1	クィッキーな、歌好きだよ。\nだから、歌聞かせるといいな	Quickie loves singing!\nSo sing him a song, that'll be good!		Quickie loves singing!\nSo sing him a song, that'll be good!
+cev65_040.scr:9	cev65_040.scr	9	エステル	Estelle	personagem		歌……ですか	A song... is it?		A song... is it?
+cev65_040.scr:10	cev65_040.scr	10	エステル	Estelle	personagem	CRLF x1	（人前で歌った事なんてないです……。\n　どうしましょう……）	(I've never sung before others...\n What should I do...?)		(I've never sung before others...\n What should I do...?)
+cev65_040.scr:11	cev65_040.scr	11	メルディ	Meredy	personagem	CRLF x1	どした？\nエステル、歌嫌いか？	What's wrong?\nDo you dislike singing, Estelle?		What's wrong?\nDo you dislike singing, Estelle?
+cev65_040.scr:12	cev65_040.scr	12	エステル	Estelle	personagem	CRLF x1	い、いいえ。\nそんな事…	N-No.\nIt's not that...		N-No.\nIt's not that...
+cev65_040.scr:13	cev65_040.scr	13	エステル	Estelle	personagem		わかりました、やってみますね	Understood, I'll give it a try.		Understood, I'll give it a try.
+cev65_040.scr:14	cev65_040.scr	14	メルディ	Meredy	personagem	CRLF x1	ワイール！\nクィッキー、きっと喜ぶよー	Waa-i-ru!\nQuickie will definitely be happy~		Waa-i-ru!\nQuickie will definitely be happy~
+cev65_040.scr:15	cev65_040.scr	15	エステル	Estelle	personagem		（今日から特訓です……！）	(Special training starts today...!)		(Special training starts today...!)
+cev65_050.scr:0	cev65_050.scr	0	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	エステル君。\nここにいたんだね	Estelle.\nSo this is where you were.		Estelle.\nSo this is where you were.
+cev65_050.scr:1	cev65_050.scr	1	エステル	Estelle	personagem		ウッドロウ！？	Woodrow?!		Woodrow?!
+cev65_050.scr:2	cev65_050.scr	2	エステル	Estelle	personagem	CRLF x1	お久しぶりです！\nどうしたんですか、こちらへは公務で？	It's been so long!\nWhat brings you here, official business?		It's been so long!\nWhat brings you here, official business?
+cev65_050.scr:3	cev65_050.scr	3	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	いや。\n実は、私もしばらく\nこのギルドで世話になる事になってね	No.\nActually, I'll be staying with this\nguild for a while myself.		No.\nActually, I'll be staying with this\nguild for a while myself.
+cev65_050.scr:4	cev65_050.scr	4	エステル	Estelle	personagem	CRLF x1	ウッドロウも！？\n本当なんです？	You too, Woodrow?!\nIs that really true?		You too, Woodrow?!\nIs that really true?
+cev65_050.scr:5	cev65_050.scr	5	ウッドロウ	Woodrow Kelvin	personagem		それより、元気そうで安心したよ	More importantly, I'm glad you're well.		More importantly, I'm glad you're well.
+cev65_050.scr:6	cev65_050.scr	6	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	誘拐されたと聞いて、どうしているかと\n肝を冷やしていたのだが……。\nどうやら、心配するまでもなかった様だ	Hearing you were kidnapped chilled my\nheart, wondering how you were... Yet it\nseems there was no need to worry.		Hearing you were kidnapped chilled my\nheart, wondering how you were... Yet it\nseems there was no need to worry.
+cev65_050.scr:7	cev65_050.scr	7	エステル	Estelle	personagem		あ……そ、それは……	Ah... W-Well, that's...		Ah... W-Well, that's...
+cev65_050.scr:8	cev65_050.scr	8	エステル	Estelle	personagem	CRLF x2	……仕方なかったんです。\n実はわたしから、国を出る手伝いを\nして欲しいと、お願いをして……	...I had no choice.\nIn truth, I was the one who asked him\nto help me leave the country...		...I had no choice.\nIn truth, I was the one who asked him\nto help me leave the country...
+cev65_050.scr:9	cev65_050.scr	9	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ふむ……。\nどうやら、そちらにも事情がある様だね	Hm...\nIt seems you have your reasons as well.		Hm...\nIt seems you have your reasons as well.
+cev65_050.scr:10	cev65_050.scr	10	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	詳しい話を、また後程\n聞かせてもらえないだろうか	Could you tell me the full story\nsometime later?		Could you tell me the full story\nsometime later?
+cev65_050.scr:11	cev65_050.scr	11	エステル	Estelle	personagem		ええ、ぜひ	Yes, by all means.		Yes, by all means.
+cev65_050.scr:12	cev65_050.scr	12	エステル	Estelle	personagem	CRLF x1	あなたが来てくれたのなら、\nわたしもみんなも、一層、心強いです	With you here, I and everyone else\nfeel all the more reassured.		With you here, I and everyone else\nfeel all the more reassured.
+cev65_050.scr:13	cev65_050.scr	13	エステル	Estelle	personagem	CRLF x1	これからも一緒に\n頑張っていきましょうね	Let us continue to do\nour best together!		Let us continue to do\nour best together!
+cev65_050.scr:14	cev65_050.scr	14	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ああ。\n共に民の為に力を尽くそう	Indeed.\nLet us do our utmost for the people.		Indeed.\nLet us do our utmost for the people.
+cev65_050.scr:15	cev65_050.scr	15	エステル	Estelle	personagem		はい！	Right!		Right!
+cev65_200.scr:0	cev65_200.scr	0	エステル	Estelle	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev65_200.scr:1	cev65_200.scr	1	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:2	cev65_200.scr	2	エステル	Estelle	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev65_200.scr:3	cev65_200.scr	3	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:4	cev65_200.scr	4	エステル	Estelle	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev65_200.scr:5	cev65_200.scr	5	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:6	cev65_200.scr	6	エステル	Estelle	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev65_200.scr:7	cev65_200.scr	7	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:8	cev65_200.scr	8	エステル	Estelle	personagem	CRLF x1	照れ笑い。\n	Bashful smile.\n		Bashful smile.\n
+cev65_200.scr:9	cev65_200.scr	9	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:10	cev65_200.scr	10	エステル	Estelle	personagem	CRLF x1	困惑。\n	Confusion.\n		Confusion.\n
+cev65_200.scr:11	cev65_200.scr	11	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:12	cev65_200.scr	12	エステル	Estelle	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev65_200.scr:13	cev65_200.scr	13	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:14	cev65_200.scr	14	エステル	Estelle	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev65_200.scr:15	cev65_200.scr	15	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:16	cev65_200.scr	16	エステル	Estelle	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev65_200.scr:17	cev65_200.scr	17	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:18	cev65_200.scr	18	エステル	Estelle	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev65_200.scr:19	cev65_200.scr	19	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:20	cev65_200.scr	20	エステル	Estelle	personagem	CRLF x1	照れ笑い。\n	Bashful smile.\n		Bashful smile.\n
+cev65_200.scr:21	cev65_200.scr	21	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:22	cev65_200.scr	22	エステル	Estelle	personagem	CRLF x1	困惑。\n	Confusion.\n		Confusion.\n
+cev65_200.scr:23	cev65_200.scr	23	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:24	cev65_200.scr	24	エステル	Estelle	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev65_200.scr:25	cev65_200.scr	25	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:26	cev65_200.scr	26	エステル	Estelle	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev65_200.scr:27	cev65_200.scr	27	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:28	cev65_200.scr	28	エステル	Estelle	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev65_200.scr:29	cev65_200.scr	29	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:30	cev65_200.scr	30	エステル	Estelle	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev65_200.scr:31	cev65_200.scr	31	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:32	cev65_200.scr	32	エステル	Estelle	personagem	CRLF x1	照れ笑い。\n	Bashful smile.\n		Bashful smile.\n
+cev65_200.scr:33	cev65_200.scr	33	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev65_200.scr:34	cev65_200.scr	34	エステル	Estelle	personagem	CRLF x1	困惑。\n	Confusion.\n		Confusion.\n
+cev65_200.scr:35	cev65_200.scr	35	エステル	Estelle	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.

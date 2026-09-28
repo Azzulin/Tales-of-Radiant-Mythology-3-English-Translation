@@ -1,0 +1,100 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev04_010.scr:0	qev04_010.scr	0	ロイド	Lloyd Irving	personagem		ただいまー！	I'm back!	
+qev04_010.scr:1	qev04_010.scr	1	ジーニアス	Genis Sage	personagem		あ、お帰り	Oh, welcome back.	
+qev04_010.scr:2	qev04_010.scr	2	ジーニアス	Genis Sage	personagem	CRLF x1	どうしたの？\n何か随分ご機嫌だね	What's up?\nYou seem really chipper.	
+qev04_010.scr:3	qev04_010.scr	3	ロイド	Lloyd Irving	personagem		へへっ、わかるか？	Hehe, can you tell?	
+qev04_010.scr:4	qev04_010.scr	4	ロイド	Lloyd Irving	personagem		今日の模擬試合もさ、連戦連勝だったんだ	I won every sparring match today!	
+qev04_010.scr:5	qev04_010.scr	5	ジーニアス	Genis Sage	personagem	CRLF x2	模擬試合って、\nクレスとかヴェイグとかと\n手合わせしてるっていう、あれ？	You mean those sparring sessions\nwith Cress and Veigue\nand the others?	
+qev04_010.scr:6	qev04_010.scr	6	ジーニアス	Genis Sage	personagem		へぇ〜、やるじゃない	Wow, not bad at all!	
+qev04_010.scr:7	qev04_010.scr	7	ジーニアス	Genis Sage	personagem		絶好調だね、ロイド	You're on fire, Lloyd!	
+qev04_010.scr:8	qev04_010.scr	8	ロイド	Lloyd Irving	personagem		ああ	Yeah!	
+qev04_010.scr:9	qev04_010.scr	9	ロイド	Lloyd Irving	personagem	CRLF x1	今ならクラトスにも\n負ける気がしないな！	At this rate, I don't think I'd\neven lose to Kratos!	
+qev04_010.scr:10	qev04_010.scr	10	クラトス	Kratos Aurion	personagem		……フッ	......Hmph.	
+qev04_010.scr:11	qev04_010.scr	11	ロイド	Lloyd Irving	personagem	CRLF x1	な、何だよ。\n何か俺、おかしな事言ったか？	W-What?\nDid I say something weird?	
+qev04_010.scr:12	qev04_010.scr	12	クラトス	Kratos Aurion	personagem	CRLF x1	強さとは、目に見える力だけが\n全てではない	Strength is not measured by\nvisible power alone.	
+qev04_010.scr:13	qev04_010.scr	13	クラトス	Kratos Aurion	personagem	CRLF x2	ただ闇雲に振るっただけの剣では、\n赤子が武器を振り回しているのと\nさして変わりはしないだろう	A sword swung without thought\nis no different from a child\nflailing a weapon around.	
+qev04_010.scr:14	qev04_010.scr	14	ロイド	Lloyd Irving	personagem	CRLF x1	わ……わかってるさ！\nそんなこと	I-I know that already!\nObviously!	
+qev04_010.scr:15	qev04_010.scr	15	ロイド	Lloyd Irving	personagem	CRLF x2	ただ、剣の技術を磨くのだって必要だろ？\nいざって時に力がなくちゃ\n大事な時に大事なものを守れない	But honing your sword skills\nmatters too, right? Without power,\nyou can't protect what matters.	
+qev04_010.scr:16	qev04_010.scr	16	ロイド	Lloyd Irving	personagem		そんなの……、俺は絶対に嫌だ！	That......I absolutely refuse!	
+qev04_010.scr:17	qev04_010.scr	17	ジーニアス	Genis Sage	personagem		ロイド……	Lloyd......	
+qev04_010.scr:18	qev04_010.scr	18	ロイド	Lloyd Irving	personagem	CRLF x2	俺は……みんなにはいつも\n笑っていて欲しいんだ。\nだから……	I......want everyone to always\nbe smiling.\nThat's why......	
+qev04_010.scr:19	qev04_010.scr	19	クラトス	Kratos Aurion	personagem		…………	............	
+qev04_010.scr:20	qev04_010.scr	20	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「超えなければならぬ壁」が\nエントリーされました。\nクラトスから受ける事が出来ます	Quest 'The Wall to Overcome'\nhas been registered.\nYou can accept it from Kratos.	
+qev04_020.scr:0	qev04_020.scr	0	クラトス	Kratos Aurion	personagem		お前なら、受けてくれると思っていた	I knew you would accept.	
+qev04_020.scr:1	qev04_020.scr	1	クラトス	Kratos Aurion	personagem		……面倒をかけてすまないな	......Sorry for the trouble.	
+qev04_020.scr:2	qev04_020.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	なあ、どういう事なんだ？\n急に稽古だなんて……	Hey, what's going on?\nTraining out of the blue......	
+qev04_020.scr:3	qev04_020.scr	3	クラトス	Kratos Aurion	personagem	CRLF x1	腕に自信があるのだろう？\nその力の程を見せてもらう	You're confident in your skill,\nyes? Show me what you've got.	
+qev04_020.scr:4	qev04_020.scr	4	ロイド	Lloyd Irving	personagem	CRLF x1	だったら、別に\nわざわざ外へ行かなくても……	In that case, we don't really\nneed to go all the way outside...	
+qev04_020.scr:5	qev04_020.scr	5	クラトス	Kratos Aurion	personagem	CRLF x1	私は先に行っている。\nあまり遅れるなよ、ロイド	I'll go on ahead.\nDon't fall too far behind, Lloyd.	
+qev04_020.scr:6	qev04_020.scr	6	ロイド	Lloyd Irving	personagem		あっ、おい……！	H-Hey, wait......!	
+qev04_020.scr:7	qev04_020.scr	7	ロイド	Lloyd Irving	personagem	CRLF x1	ちぇっ……。\n何だよ、クラトスの奴	Tch......\nWhat's Kratos thinking?	
+qev04_020.scr:8	qev04_020.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	しょうがねえ。\nサクッと行ってくるとするか！	Oh well.\nLet's get this over with quick!	
+qev04_020.scr:9	qev04_020.scr	9	ロイド	Lloyd Irving	personagem		行こうぜ、○○	Let's go, ○○!	
+qev04_030.scr:0	qev04_030.scr	0	ロイド	Lloyd Irving	personagem		……着いたな	......We're here.	
+qev04_030.scr:1	qev04_030.scr	1	ロイド	Lloyd Irving	personagem	CRLF x2	よし。\n早く追い付いて、\nクラトスをあっと言わせてやろうぜ！	All right.\nLet's catch up fast\nand blow Kratos away!	
+qev04_040.scr:0	qev04_040.scr	0	ロイド	Lloyd Irving	personagem		……クラトス、ここにもいないな	......Kratos isn't here either.	
+qev04_040.scr:1	qev04_040.scr	1	ロイド	Lloyd Irving	personagem		もっと奥の方まで行っちまったのか？	Did he go even deeper in?	
+qev04_040.scr:2	qev04_040.scr	2	(ator 200)	(ator 200)	desconhecido		…………	............	
+qev04_040.scr:3	qev04_040.scr	3	ロイド	Lloyd Irving	personagem	CRLF x1	悪いな。\n何か、付き合わせちまって	Sorry.\nI dragged you into this.	
+qev04_040.scr:4	qev04_040.scr	4	(ator 200)	(ator 200)	desconhecido		…………	............	
+qev04_040.scr:5	qev04_040.scr	5	ロイド	Lloyd Irving	personagem		クラトスはさ、俺の剣の師匠なんだ	Kratos is my sword teacher.	
+qev04_040.scr:6	qev04_040.scr	6	ロイド	Lloyd Irving	personagem	CRLF x1	あいつが傭兵として雇われて、\n俺の村に来た時知り合ってさ	He came to my village as a hired\nmercenary. That's how we met.	
+qev04_040.scr:7	qev04_040.scr	7	ロイド	Lloyd Irving	personagem	CRLF x1	それから、時々だけど稽古を付けて\nもらう様になって……	After that, he'd train me\nevery now and then......	
+qev04_040.scr:8	qev04_040.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	口数は少ないし、愛想もないしで\n正直何考えてるかわかんねーけど	He's quiet and blunt, so I can\nnever tell what he's thinking.	
+qev04_040.scr:9	qev04_040.scr	9	ロイド	Lloyd Irving	personagem	CRLF x1	あれで結構、\n頼りになったりするんだぜ？	But he's actually pretty\nreliable, you know?	
+qev04_040.scr:10	qev04_040.scr	10	(ator 200)	(ator 200)	desconhecido		…………	............	
+qev04_040.scr:11	qev04_040.scr	11	ロイド	Lloyd Irving	personagem	CRLF x1	あいつの言葉には\nいつも何か意味がある	His words always carry\nsome deeper meaning.	
+qev04_040.scr:12	qev04_040.scr	12	ロイド	Lloyd Irving	personagem	CRLF x2	……何かあるたび、\nそうやって俺に助言をくれた。\nクラトスは、そういう奴なんだ	......Whenever something happened,\nKratos would give me advice.\nThat's the kind of guy he is.	
+qev04_040.scr:13	qev04_040.scr	13	(ator 200)	(ator 200)	desconhecido		…………	............	
+qev04_040.scr:14	qev04_040.scr	14	ロイド	Lloyd Irving	personagem	CRLF x2	……そうだな。\nって事は、今回も何かクラトスなりの\n考えがあるって事なんだよな	......Right.\nSo this time too, Kratos must have\nhis reasons.	
+qev04_040.scr:15	qev04_040.scr	15	ロイド	Lloyd Irving	personagem	CRLF x1	あいつは、理由もなしに\nこんな事する様な奴じゃない……	He's not the kind of guy who'd\ndo something like this for nothing.	
+qev04_040.scr:16	qev04_040.scr	16	ロイド	Lloyd Irving	personagem	CRLF x2	……○○、ありがとな。\n何か、話聞いてもらって、\nちょっとすっきりした気がするぜ	......○○, thanks.\nTalking to you helped me\nclear my head a bit.	
+qev04_040.scr:17	qev04_040.scr	17	ロイド	Lloyd Irving	personagem	CRLF x1	よし、先を急ごう。\n……クラトスが待ってる	All right, let's keep going.\n......Kratos is waiting.	
+qev04_041.scr:0	qev04_041.scr	0	ロイド	Lloyd Irving	personagem	CRLF x1	なあ、○○。\n魔物って……、仲間に出来ねえのかな	Hey, ○○.\nCan monsters......become allies?	
+qev04_041.scr:1	qev04_041.scr	1	(ator 200)	(ator 200)	desconhecido		…………？	............?	
+qev04_041.scr:2	qev04_041.scr	2	ロイド	Lloyd Irving	personagem	CRLF x2	いや、ふと思ったんだけどさ。\n人間にだって、いい奴もいれば\n悪い奴もいるだろ？	No, I just thought about it.\nAmong people, there are good ones\nand bad ones, right?	
+qev04_041.scr:3	qev04_041.scr	3	ロイド	Lloyd Irving	personagem	CRLF x1	魔物もそうだったりしねえのかなって、\nちょっと思ってさ	I wondered if monsters might be\nthe same way.	
+qev04_041.scr:4	qev04_041.scr	4	ロイド	Lloyd Irving	personagem	CRLF x2	もし仲間に出来たらすっげえよな。\nあいつらも、結構強い力を\n持ってたりするし！	If we could befriend them, that'd\nbe amazing! Some of them are\npretty powerful!	
+qev04_041.scr:5	qev04_041.scr	5	ロイド	Lloyd Irving	personagem	CRLF x1	強い力……か。\n強い魔物はたくさんいるけど	Powerful......huh.\nThere are lots of strong monsters.	
+qev04_041.scr:6	qev04_041.scr	6	ロイド	Lloyd Irving	personagem	CRLF x1	そういえば、それを本当の強さだって\n言う奴は俺、見た事ないな	Come to think of it, I've never\nheard anyone call that true strength.	
+qev04_041.scr:7	qev04_041.scr	7	ロイド	Lloyd Irving	personagem	CRLF x1	本当の、強さ……。\n「強い」だけじゃ足りない……って事か？	True......strength......\nBeing 'strong' alone isn't enough?	
+qev04_041.scr:8	qev04_041.scr	8	ロイド	Lloyd Irving	personagem		それって……	That means......	
+qev04_041.scr:9	qev04_041.scr	9	ロイド	Lloyd Irving	personagem		…………	............	
+qev04_050.scr:0	qev04_050.scr	0	クラトス	Kratos Aurion	personagem		……強くなったな	......You've grown stronger.	
+qev04_050.scr:1	qev04_050.scr	1	ロイド	Lloyd Irving	personagem		ああ……	Yeah......	
+qev04_050.scr:2	qev04_050.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	あんたの言ってた言葉の意味が\nわかったからな	I figured out what your words\nmeant.	
+qev04_050.scr:3	qev04_050.scr	3	ロイド	Lloyd Irving	personagem	CRLF x1	ここに来るまでの間、\nずっと考えてたんだ	On the way here,\nI was thinking about it.	
+qev04_050.scr:4	qev04_050.scr	4	ロイド	Lloyd Irving	personagem	CRLF x1	あんたが俺に\n何を伝えようとしているのか	About what you were trying\nto tell me.	
+qev04_050.scr:5	qev04_050.scr	5	クラトス	Kratos Aurion	personagem		……そうか	......I see.	
+qev04_050.scr:6	qev04_050.scr	6	クラトス	Kratos Aurion	personagem		それで、答えは見つかったのか	And did you find your answer?	
+qev04_050.scr:7	qev04_050.scr	7	ロイド	Lloyd Irving	personagem	CRLF x1	ただ力を持つんじゃなくて、\n何の為にその力を使うのか	Not just having power, but knowing\nwhat you're using it for.	
+qev04_050.scr:8	qev04_050.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	心も剣と同じくらい、\n強く持たなければ意味がない……	Your heart must be just as strong\nas your sword, or it's meaningless.	
+qev04_050.scr:9	qev04_050.scr	9	クラトス	Kratos Aurion	personagem		…………	............	
+qev04_050.scr:10	qev04_050.scr	10	ロイド	Lloyd Irving	personagem	CRLF x2	俺の剣は、赤ん坊が武器を\n振り回してるのと同じだって\nあんた言っただろ	You said my swordsmanship was\nno different from a child\nswinging a weapon, right?	
+qev04_050.scr:11	qev04_050.scr	11	ロイド	Lloyd Irving	personagem	CRLF x2	それって……そういう意味だったのかなって。\nあんたは、俺に本当の強さがあるか\n確かめようとしたんだよな	That's......what you meant, right?\nYou wanted to see if I had\ntrue strength.	
+qev04_050.scr:12	qev04_050.scr	12	ロイド	Lloyd Irving	personagem	CRLF x1	剣術だけ磨いてもダメなんだ。\nそんな剣じゃ……誰も、何も救えない	Swordplay alone isn't enough.\nSuch a sword can't save anything.	
+qev04_050.scr:13	qev04_050.scr	13	ロイド	Lloyd Irving	personagem	CRLF x2	闇雲に力をふるうだけじゃ、\nそれは単なる暴力と同じなんだ。\nきっと	Swinging power around blindly\nis no different from mere violence.\nI'm sure of it.	
+qev04_050.scr:14	qev04_050.scr	14	クラトス	Kratos Aurion	personagem	CRLF x1	……そこまでわかっているのなら、\n私から言う事は何もない	......If you understand that much,\nthen I have nothing left to say.	
+qev04_050.scr:15	qev04_050.scr	15	クラトス	Kratos Aurion	personagem	CRLF x1	……少し長話が過ぎた。\n戻るぞ、ロイド	......We've talked long enough.\nLet's head back, Lloyd.	
+qev04_050.scr:16	qev04_050.scr	16	ロイド	Lloyd Irving	personagem		……ああ！	......Yeah!	
+qev04_060.scr:0	qev04_060.scr	0	ロイド	Lloyd Irving	personagem		クラトス、……あのさ	Kratos, ......listen.	
+qev04_060.scr:1	qev04_060.scr	1	クラトス	Kratos Aurion	personagem		どうした	What is it?	
+qev04_060.scr:2	qev04_060.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	……何ていうか……ごめん。\n今回のこと……	......How do I put it......sorry.\nAbout earlier......	
+qev04_060.scr:3	qev04_060.scr	3	ロイド	Lloyd Irving	personagem	CRLF x2	あの時、わかってるって言ったけど、\nやっぱり俺……、\n何もわかってなかったんだな	Back then, I said I understood,\nbut really......\nI didn't understand anything.	
+qev04_060.scr:4	qev04_060.scr	4	クラトス	Kratos Aurion	personagem		過ちは正せばいい	One need only correct one's errors.	
+qev04_060.scr:5	qev04_060.scr	5	クラトス	Kratos Aurion	personagem	CRLF x1	過ちを犯さぬ人間など、\nこの世に存在しないのだからな	No one in this world\nis free from mistakes.	
+qev04_060.scr:6	qev04_060.scr	6	クラトス	Kratos Aurion	personagem	CRLF x1	重要なのは、悔い改め\n同じ過ちを繰り返さぬ事だ	What matters is to reflect\nand never repeat the same error.	
+qev04_060.scr:7	qev04_060.scr	7	ロイド	Lloyd Irving	personagem		ああ……、そうだな	Yeah......you're right.	
+qev04_060.scr:8	qev04_060.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	○○。\n付き合ってくれてありがとう	○○.\nThanks for coming along.	
+qev04_060.scr:9	qev04_060.scr	9	ロイド	Lloyd Irving	personagem	CRLF x1	お前と話してるうちに\n何か色々見えてきたっていうか	Talking with you helped me\nsee a lot of things more clearly.	
+qev04_060.scr:10	qev04_060.scr	10	ロイド	Lloyd Irving	personagem		とにかく、感謝してるぜ	Anyway, I really appreciate it.	
+qev04_060.scr:11	qev04_060.scr	11	ロイド	Lloyd Irving	personagem	CRLF x1	お前も困った事があったら、\n何でも言ってくれよな！	If you're ever in trouble,\njust let me know!	
+qev04_070.scr:0	qev04_070.scr	0	クラトス	Kratos Aurion	personagem		……来たか	......You've come.	
+qev04_070.scr:1	qev04_070.scr	1	クラトス	Kratos Aurion	personagem		用意はいいな、ロイド	Are you ready, Lloyd?	
+qev04_070.scr:2	qev04_070.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	ああ。\nもちろんだぜ	Yeah.\nYou bet I am.	
+qev04_070.scr:3	qev04_070.scr	3	クラトス	Kratos Aurion	personagem		……そうか	......I see.	
+qev04_070.scr:4	qev04_070.scr	4	クラトス	Kratos Aurion	personagem	CRLF x1	では、お前の強さとやら……、\n見せてもらおう！	Then show me this strength\nof yours......!	
+qev04_080.scr:0	qev04_080.scr	0	ロイド	Lloyd Irving	personagem		クラトス！	Kratos!	
+qev04_080.scr:1	qev04_080.scr	1	ロイド	Lloyd Irving	personagem		今度こそ、俺はあんたに勝つ！	This time, I will beat you!	
+qev04_080.scr:2	qev04_080.scr	2	クラトス	Kratos Aurion	personagem		フッ、威勢だけはいい様だな	Hmph, at least you've got spirit.	
+qev04_080.scr:3	qev04_080.scr	3	クラトス	Kratos Aurion	personagem		……行くぞ！	......Here I come!	

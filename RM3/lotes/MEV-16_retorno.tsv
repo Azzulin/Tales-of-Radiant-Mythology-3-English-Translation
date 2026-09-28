@@ -1,0 +1,109 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev16_010.scr:0	mev16_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	この依頼、あなたが行ってくれるのね。\nじゃ、説明するよ	You'll take on this request, then.\nAlright, I'll explain.	
+mev16_010.scr:1	mev16_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	これからツリガネトンボ草の進化種を\n集める事になったの	We shall now collect evolved\nspecies of Bell Dragonfly Herb.	
+mev16_010.scr:2	mev16_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	集めるのは１４０属２０００種近くに\nなるけれど…、	We need to gather nearly 2,000 species\nacross 140 genera, but...	
+mev16_010.scr:3	mev16_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	比較的安全な場所のものは、\nみんなの故郷の人達や各国のギルドに\n応援を頼む事にしたから	For those in relatively safe places,\nwe asked people from everyone's hometowns\nand guilds of all nations to help.	
+mev16_010.scr:4	mev16_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	わたし達は、わたし達でしか\n集められないものを採取するのよ	We shall gather only those specimens\nthat only we can collect.	
+mev16_010.scr:5	mev16_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	それで…っと、その進化種の名称や分布が\n不明なものもあるけど、\nまずは判明しているものからね	Now then, while some species have unknown\nnames and distributions,\nlet's start with those we've identified.	
+mev16_010.scr:6	mev16_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	目標は、霊峰アブソールにある\n「オイルツリー」	Our target is the 'Oil Tree'\nlocated on Mt. Absol.	
+mev16_010.scr:7	mev16_010.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	でね、そこに向かう為の道なんだけど、\n新しい道をセルシウスが作ってくれたの	As for the path to reach it,\nCelsius forged a new route for us.	
+mev16_010.scr:8	mev16_010.scr	8	セルシウス	Celsius	personagem	CRLF x2	入ってすぐ右に、道が出来ているわ。\nそこを通れば、オイルツリーの所まで\n辿りつけるから	A path was made right by the entrance.\nFollow it, and you will reach\nthe Oil Tree.	
+mev16_010.scr:9	mev16_010.scr	9	アンジュ	Ange Serena	personagem		同行するのは、ヴェイグ君とスパーダ君よ	Veigue and Spada will accompany you.	
+mev16_010.scr:10	mev16_010.scr	10	アンジュ	Ange Serena	personagem		それじゃあ、気を付けて行ってらっしゃい	Well then, take care and off you go!	
+mev16_020.scr:0	mev16_020.scr	0	スパーダ	Spada Belforma	personagem	CRLF x2	でェ、採って来なきゃなんねー\nオイルツリーってのは\nどんなモンなんだ？	So, what kind of thing is this\nOil Tree we've gotta go\nand harvest, anyway?	
+mev16_020.scr:1	mev16_020.scr	1	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	寒冷地に生息する植物で、\nその名の通り油分を多く含むそうだ	It is a plant native to cold regions,\nsaid to be rich in oil, true to its name.	
+mev16_020.scr:2	mev16_020.scr	2	スパーダ	Spada Belforma	personagem		外見的なモンは？	What does it look like?	
+mev16_020.scr:3	mev16_020.scr	3	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	大型植物で、樹全体が赤いらしい。\nこの環境の中では目立つから\nすぐ判別出来そうだ	It's large, and the tree is entirely red.\nIt should stand out in this snowy area,\nmaking it easily distinguishable.	
+mev16_020.scr:4	mev16_020.scr	4	スパーダ	Spada Belforma	personagem	CRLF x1	大型？\nそりゃまた、持って帰るのも一苦労だな	Large? Man, dragging that whole thing\nback will be a real chore.	
+mev16_020.scr:5	mev16_020.scr	5	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	コピーズ・ロッドを持ってきている。\nドクメントさえ採取すればいいそうだ	I brought the Copy's Rod along.\nWe only need to gather its Document.	
+mev16_020.scr:6	mev16_020.scr	6	スパーダ	Spada Belforma	personagem	CRLF x1	ふーん。\nじゃあ、まあ楽だな	Hmph.\nThen that makes it easy enough.	
+mev16_020.scr:7	mev16_020.scr	7	スパーダ	Spada Belforma	personagem	CRLF x2	しっかし、進化ねぇ。\n化石になったアレよか\nずいぶん形状変わってそうだな	Still, evolution, huh?\nIts shape must've changed a whole lot\nfrom that fossilized thing back then.	
+mev16_020.scr:8	mev16_020.scr	8	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	もらった資料には、\n種子のサイズをより小さく、そして\n多くしていった進化種であると書かれていた	The notes state that this branch evolved\nby making its seeds smaller\nand far more numerous.	
+mev16_020.scr:9	mev16_020.scr	9	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	寒冷地で生き延びる為に、\nエネルギー効率の良い油脂の形で樹や種子に\n養分を蓄えるよう、進化したらしい	To survive the bitter cold, it evolved\nto store nutrients as efficient oil\nin its wood and seeds, huh?	
+mev16_020.scr:10	mev16_020.scr	10	スパーダ	Spada Belforma	personagem	CRLF x1	そんな進化種が世にあふれてるのか。\n世界って変化してんだな	Such evolved species fill the world, huh?\nThis world really keeps changing.	
+mev16_020.scr:11	mev16_020.scr	11	スパーダ	Spada Belforma	personagem		ヒトも変わってんのかな？	I wonder if humans have changed too?	
+mev16_020.scr:12	mev16_020.scr	12	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	そうだな。\nヴェラトローパから地上に降りた多くの人種も、\n何らかの変化はしているだろうな	Indeed.\nThe diverse peoples who descended to earth\nfrom Veratropa must have changed somehow.	
+mev16_020.scr:13	mev16_020.scr	13	スパーダ	Spada Belforma	personagem	CRLF x2	にしても、\n一つの生物から２０００種ってなぁ。\nどんだけだよ	Still, two thousand species\nfrom just one organism, huh?\nThat's insane!	
+mev16_020.scr:14	mev16_020.scr	14	スパーダ	Spada Belforma	personagem		ま、やるしかねーんだけど	Well, we just gotta get it done!	
+mev16_025.scr:0	mev16_025.scr	0	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	…こっちか。\nセルシウスの言う通り、\n通れる様になっているな	...This way.\nJust as Celsius said,\nthe path has been opened.	
+mev16_025.scr:1	mev16_025.scr	1	スパーダ	Spada Belforma	personagem		んじゃ、行こうぜ	Alright then, let's go!	
+mev16_030.scr:0	mev16_030.scr	0	ヴェイグ	Veigue Lungberg	personagem		…！！	...!!	
+mev16_030.scr:1	mev16_030.scr	1	スパーダ	Spada Belforma	personagem		おい、どうしたよ？	Hey, what's up?	
+mev16_030.scr:2	mev16_030.scr	2	ヴェイグ	Veigue Lungberg	personagem		風に乗って、声が聞こえた…	Riding the wind, I heard a voice...	
+mev16_030.scr:3	mev16_030.scr	3	スパーダ	Spada Belforma	personagem	CRLF x1	ハァ？\nそりゃお前、ただの空耳じゃねーの？	Huh? You sure you're not just\nhearing things, pal?	
+mev16_030.scr:4	mev16_030.scr	4	クレア	Claire Bennett	personagem		きゃあああ…	Kyaaaah...!	
+mev16_030.scr:5	mev16_030.scr	5	ヴェイグ	Veigue Lungberg	personagem		クレア…？	Claire...?	
+mev16_030.scr:6	mev16_030.scr	6	スパーダ	Spada Belforma	personagem		クレアは街に買出しに行ってたはずだ	Claire should be shopping in town...	
+mev16_030.scr:7	mev16_030.scr	7	スパーダ	Spada Belforma	personagem		けど、今の声は…	Yet that voice just now...	
+mev16_030.scr:8	mev16_030.scr	8	ヴェイグ	Veigue Lungberg	personagem		クレア…、	Claire...	
+mev16_030.scr:9	mev16_030.scr	9	ヴェイグ	Veigue Lungberg	personagem		クレアアアアアアアアア！	CLAAAAAAIIIIRRE!!	
+mev16_030.scr:10	mev16_030.scr	10	スパーダ	Spada Belforma	personagem	CRLF x1	声は、この奥からだ。\n行こうぜ！！	The voice came from deeper in!\nLet's move!!	
+mev16_040.scr:0	mev16_040.scr	0	ヴェイグ	Veigue Lungberg	personagem		クレア！	Claire!	
+mev16_040.scr:1	mev16_040.scr	1	クレア	Claire Bennett	personagem		ヴェイグ…	Veigue...	
+mev16_040.scr:2	mev16_040.scr	2	サレ	Saleh	personagem	CRLF x1	ようこそ、アドリビトムの諸君。\nそして久しぶり、ヴェイグ	Welcome, members of Ad Libitum.\nAnd long time no see, Veigue.	
+mev16_040.scr:3	mev16_040.scr	3	ヴェイグ	Veigue Lungberg	personagem		サレ…！	Saleh...!	
+mev16_040.scr:4	mev16_040.scr	4	サレ	Saleh	personagem		やっと会えたね、ヴェイグ	We finally meet again, Veigue.	
+mev16_040.scr:5	mev16_040.scr	5	クレア	Claire Bennett	personagem	CRLF x1	ごめんなさい…、ヴェイグ。\n街に出ていた間に見つかって…	I'm sorry... Veigue.\nI was found while I was out in town...	
+mev16_040.scr:6	mev16_040.scr	6	サレ	Saleh	personagem	CRLF x2	ねえ、クレアちゃん。\nあんな場所で会うなんて、\n本当に運命を感じたよ	Now now, little Claire.\nRunning into you in such a place,\nI felt truly fated!	
+mev16_040.scr:7	mev16_040.scr	7	サレ	Saleh	personagem	CRLF x2	クレアちゃんには、\nキミ達をおびき寄せる餌に\nなってもらおうと思ってね	I thought I would have little Claire\nserve as bait to lure\nyou all out, you see.	
+mev16_040.scr:8	mev16_040.scr	8	サレ	Saleh	personagem	CRLF x2	でも、まさかキミ達の方…。\nしかもヴェイグが\nやって来てくれるなんて	Yet to think you yourself...\nand above all Veigue himself,\nwould come straight to me!	
+mev16_040.scr:9	mev16_040.scr	9	サレ	Saleh	personagem	CRLF x2	ますます運命を感じちゃうなあ。\nキミ達が働き手を奪ってくれたせいで、\n星晶の採掘がストップしてしまったよ	I feel destiny calling all the more.\nThanks to you snatching our workers away,\nStar Crystal mining has ground to a halt.	
+mev16_040.scr:10	mev16_040.scr	10	サレ	Saleh	personagem	CRLF x2	さあ、言うんだ。\n大事な労働資源をどこに連れて\n行ったんだい？	Come now, speak up.\nWhere did you take our precious\nlabor resources?	
+mev16_040.scr:11	mev16_040.scr	11	サレ	Saleh	personagem	CRLF x2	素直に話してくれないと、\nヘーゼル村イチバンの上玉、\nクレアちゃんに傷が付いちゃうよ？	If you don't speak truthfully,\nHazel Village's top gem, little Claire,\nmight end up bruised, you know?	
+mev16_040.scr:12	mev16_040.scr	12	クレア	Claire Bennett	personagem	CRLF x1	星晶の採掘が、\n世界の危機を招いているんですよ！	Mining Star Crystals is what invites\nthe crisis threatening this world!	
+mev16_040.scr:13	mev16_040.scr	13	クレア	Claire Bennett	personagem	CRLF x1	今は国も、種族も奪い合うのを止めて\n世界を守る為に心を一つにすべき時です	Nations and races must cease plundering;\nnow is the time to unite as one!	
+mev16_040.scr:14	mev16_040.scr	14	サレ	Saleh	personagem	CRLF x1	だったら僕は、それを踏みにじるまでさ！\n僕は人の心の力なんて信用しないからね…	Then I shall merely trample it underfoot!\nFor I put zero faith in the human heart...	
+mev16_040.scr:15	mev16_040.scr	15	サレ	Saleh	personagem	CRLF x1	本当は、働き手なんてどうでもいい。\nそんなものはどこでも手に入る	Truth is, I care nothing for workers.\nSuch things can be acquired anywhere.	
+mev16_040.scr:16	mev16_040.scr	16	サレ	Saleh	personagem	CRLF x1	ただね、キミ達アドリビトムを\nつぶしたいってのはあるんだよね	It's just that I simply desire\nto crush you Ad Libitum insects, you see.	
+mev16_040.scr:17	mev16_040.scr	17	サレ	Saleh	personagem	CRLF x1	アドリビトム…自由という意味だっけかな？\n自由ってのはどういう事か知ってるかい？	Ad Libitum... meant 'freedom', was it?\nDo you know what freedom truly entails?	
+mev16_040.scr:18	mev16_040.scr	18	サレ	Saleh	personagem	CRLF x2	自由にはね、\n常に多くの危険が付きまとうものさ。\n気の休まる暇のない危険がね	You see, danger always stalks freedom.\nA relentless danger that offers\nnever a single moment of peace.	
+mev16_040.scr:19	mev16_040.scr	19	サレ	Saleh	personagem		僕がキミ達をその危険から救ってあげるよ	I shall save you all from that danger.	
+mev16_040.scr:20	mev16_040.scr	20	スパーダ	Spada Belforma	personagem		要するに、手下になれってか？	In short, become your lackeys, huh?	
+mev16_040.scr:21	mev16_040.scr	21	スパーダ	Spada Belforma	personagem	CRLF x1	不自由を手に入れて得る、平穏な日々なんて\n退屈でしゃーねぇなぁ	Peaceful days gained by trading freedom\nwould be boring as all hell!	
+mev16_040.scr:22	mev16_040.scr	22	スパーダ	Spada Belforma	personagem	CRLF x2	ああ。\n自由が危険なんて、オレは思わねーし、\n危険だからって誰かに自由を預けられっか！	Yeah.\nI don't believe for a second freedom is\nrisky enough to surrender it to someone!	
+mev16_040.scr:23	mev16_040.scr	23	スパーダ	Spada Belforma	personagem	CRLF x2	オレぁ、自由を捨ててテメェに\n力を頼って生きる方が\nよっぽどあぶねー気がするぜ	Casting away freedom to rely on your power\nstrikes me as far more dangerous\nthan anything else, bastard!	
+mev16_040.scr:24	mev16_040.scr	24	スパーダ	Spada Belforma	personagem	CRLF x2	誰かに力を頼る程、\nその相手の力に支配されて、\n自由を奪われんだ	The more you lean on another's power,\nthe more you're ruled by it,\nand your freedom gets stolen away!	
+mev16_040.scr:25	mev16_040.scr	25	スパーダ	Spada Belforma	personagem	CRLF x1	オレ達アドリビトムが、\nてめーなんかに屈するかよ！！	We of Ad Libitum will never bend\nthe knee to the likes of you!!	
+mev16_040.scr:26	mev16_040.scr	26	サレ	Saleh	personagem		フフフ、そうかい	Fufufu, is that so?	
+mev16_040.scr:27	mev16_040.scr	27	サレ	Saleh	personagem	CRLF x2	いいね。\nキミ達程の強い心を踏みにじるのは、\nとても楽しそうだ	Splendid.\nTrampling hearts as stubborn as yours\nsounds delightfully entertaining.	
+mev16_040.scr:28	mev16_040.scr	28	サレ	Saleh	personagem		…じゃあ、本気で叩き潰す事にするよ	...Then I shall crush you in earnest.	
+mev16_040.scr:29	mev16_040.scr	29	サレ	Saleh	personagem		キミ達の……ヒトの心をね！	Your hearts... your human hearts!	
+mev16_040.scr:30	mev16_040.scr	30	スパーダ	Spada Belforma	personagem	CRLF x1	面白ぇ！\nケツから蹴り上げてやるぜ！	Bring it on!\nI'll kick your teeth down your throat!	
+mev16_040.scr:31	mev16_040.scr	31	ヴェイグ	Veigue Lungberg	personagem		待ってろ、クレア…	Hold on, Claire...	
+mev16_040.scr:32	mev16_040.scr	32	(opcao do jogador)	(opcao do jogador)	escolha		自由の意味は人それぞれが決める、と言う	Say each person defines freedom's meaning	
+mev16_040.scr:33	mev16_040.scr	33	(opcao do jogador)	(opcao do jogador)	escolha		自由を危険と解釈するのもお前の自由、と言う	Say calling freedom risky is your choice	
+mev16_050.scr:0	mev16_050.scr	0	ヴェイグ	Veigue Lungberg	personagem		クレアアアア！	CLAAAAAAIIIIRRE!!	
+mev16_050.scr:1	mev16_050.scr	1	サレ	Saleh	personagem		待ってたよ	I was waiting for this!	
+mev16_050.scr:2	mev16_050.scr	2	サレ	Saleh	personagem		今度こそ……ぶっ殺してあげるよ！	This time... I shall butcher you!	
+mev16_050.scr:3	mev16_050.scr	3	スパーダ	Spada Belforma	personagem	CRLF x1	次こそ\nひん剥いてやらぁ！	Next up,\nI'll strip you down to bones!	
+mev16_060.scr:0	mev16_060.scr	0	サレ	Saleh	personagem		この僕が…ッ……	I... lost...?!	
+mev16_060.scr:1	mev16_060.scr	1	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	…クレア。\n無事で良かった	...Claire.\nThank goodness you're safe.	
+mev16_060.scr:2	mev16_060.scr	2	サレ	Saleh	personagem		待てよ……どこに行くんだ……？	Wait...... Where are you going......?!	
+mev16_060.scr:3	mev16_060.scr	3	サレ	Saleh	personagem		もう、終わりだって言うのか…？	Are you saying... it's over already...?	
+mev16_060.scr:4	mev16_060.scr	4	ヴェイグ	Veigue Lungberg	personagem		オレは、オレに出来る事をやるだけだ	I only do what I am able to do.	
+mev16_060.scr:5	mev16_060.scr	5	サレ	Saleh	personagem	CRLF x1	何だよそれ……。\n情けをかけてるつもりかい？	What is that...?\nDo you think you're showing me mercy?!	
+mev16_060.scr:6	mev16_060.scr	6	サレ	Saleh	personagem	CRLF x1	こんな終わり方は認めない。\n認められるもんか…	I won't accept this ending!\nI could never accept it...!	
+mev16_060.scr:7	mev16_060.scr	7	サレ	Saleh	personagem		殺せ……殺せよっ！	Kill me...... KILL ME!	
+mev16_060.scr:8	mev16_060.scr	8	ヴェイグ	Veigue Lungberg	personagem		戻るぞ…	Let's head back...	
+mev16_060.scr:9	mev16_060.scr	9	サレ	Saleh	personagem	CRLF x1	殺せって言ってるだろう！！\nこんちくしょうがぁぁぁぁッ！！	I told you to kill me!!\nYou goddamn basssstaaard...!!	
+mev16_070.scr:0	mev16_070.scr	0	ロックス	Rocks	personagem	CRLF x1	クレア様…！！\nまさかクレア様が誘拐されるだなんて	Lady Claire...!!\nTo think you would be kidnapped!	
+mev16_070.scr:1	mev16_070.scr	1	ロックス	Rocks	personagem		何もされませんでした？	Did they do anything to you?	
+mev16_070.scr:2	mev16_070.scr	2	ロックス	Rocks	personagem	CRLF x1	ああ…もう…。\n無事で本当に良かった…	Ah... dear me...\nI'm so glad you are safe and sound...	
+mev16_070.scr:3	mev16_070.scr	3	クレア	Claire Bennett	personagem	CRLF x1	大丈夫ですよ、ロックスさん。\nご心配おかけしました	I am fine, Mr. Rocks.\nI am sorry for making you worry.	
+mev16_070.scr:4	mev16_070.scr	4	スパーダ	Spada Belforma	personagem	CRLF x1	サレの奴もいい具合にシメてやったから、\nさすがにもう手を出してこねーだろ	We beat Saleh to a pulp, so he won't\ndare lay a finger on you again!	
+mev16_070.scr:5	mev16_070.scr	5	スパーダ	Spada Belforma	personagem	CRLF x1	で、何か一杯荷物が来てるな。\nありゃあ、何だ？	By the way, whole piles of cargo arrived.\nWhat's all that?	
+mev16_070.scr:6	mev16_070.scr	6	ロックス	Rocks	personagem		ツリガネトンボ草の進化種です	Evolved species of Bell Dragonfly Herb.	
+mev16_070.scr:7	mev16_070.scr	7	ロックス	Rocks	personagem	CRLF x1	協力してくれた皆さんの手で\n集められたものなんですよ	Gathered by the hands of everyone\nwho lent their cooperation.	
+mev16_070.scr:8	mev16_070.scr	8	ロックス	Rocks	personagem	CRLF x1	皆さんで、一つの目標に向かって。\nこの世界を守る為に…	Everyone uniting towards a single goal...\nTo protect this world.	
+mev16_070.scr:9	mev16_070.scr	9	スパーダ	Spada Belforma	personagem		へえ、そりゃすげーな	Heh, that's pretty awesome.	
+mev16_070.scr:10	mev16_070.scr	10	ロックス	Rocks	personagem	CRLF x1	さあ、中に入って下さい。\nみんなに元気な姿を見せないと！	Come now, please step inside.\nShow everyone your cheerful face!	
+mev16_080.scr:0	mev16_080.scr	0	アンジュ	Ange Serena	personagem		今回は思わぬ事態になったね…	Things took quite an unexpected turn...	
+mev16_080.scr:1	mev16_080.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	でも、目的は完遂出来たし、\nクレアもあなた達も無事で\n本当に良かった	Still, our objective was completed,\nand Claire and you all are safe;\nI am truly relieved.	
+mev16_080.scr:2	mev16_080.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	次に採取するのものについての資料は\nもうすぐ出来るそうよ。\nあとちょっと、待っててね	Notes on the next specimen to harvest\nshould be ready very soon.\nPlease wait just a little longer!	
+mev16_080.scr:3	mev16_080.scr	3	スパーダ	Spada Belforma	personagem		次はどんな奴なんだ？	What kind of thing is it next?	
+mev16_080.scr:4	mev16_080.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	水の上をスイスイすべる花よ。\nとても珍しいんですって	A flower that glides across water.\nExtremely rare, they say.	
+mev16_080.scr:5	mev16_080.scr	5	スパーダ	Spada Belforma	personagem		ふーん、想像も付かねえな	Hmph, can't even imagine that.	
+mev16_090.scr:0	mev16_090.scr	0	シャーリィ	Shirley Fennes	personagem	CRLF x2	アンジュさん。\n次に採取するものの資料が出来たので\n届けに来ました	Ange.\nNotes on the next gathering target\nare ready, so I brought them.	
+mev16_090.scr:1	mev16_090.scr	1	アンジュ	Ange Serena	personagem		ありがとう、シャーリィ	Thank you, Shirley.	
+mev16_090.scr:2	mev16_090.scr	2	アンジュ	Ange Serena	personagem		えっと、依頼主は…わたしでいっか	Let's see, the client... I'll do!	
+mev16_090.scr:3	mev16_090.scr	3	アンジュ	Ange Serena	personagem		早速、依頼の登録をしておきましょう	Let's register the request right away!	

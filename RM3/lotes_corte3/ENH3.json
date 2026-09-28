@@ -1,0 +1,359 @@
+{
+ "lote": "ENH3",
+ "bloco": "enhance_material",
+ "meta_bytes_a_cortar": 115,
+ "n_itens": 50,
+ "pool_atual_bytes": 2518,
+ "itens": [
+  {
+   "id": "enhance_material#143",
+   "bloco": "enhance_material",
+   "en": "A bone that continues to possess a lingering will even after death.",
+   "bytes": 67,
+   "alvo_bytes": 64
+  },
+  {
+   "id": "enhance_material#116",
+   "bloco": "enhance_material",
+   "en": "A degraded feather that shed naturally after serving its purpose.",
+   "bytes": 65,
+   "alvo_bytes": 62
+  },
+  {
+   "id": "enhance_material#173",
+   "bloco": "enhance_material",
+   "en": "A tentacle that keeps hunting for prey even after being severed.",
+   "bytes": 64,
+   "alvo_bytes": 61
+  },
+  {
+   "id": "enhance_material#20",
+   "bloco": "enhance_material",
+   "en": "A gemstone of the quartz family that emits soft, varied colors.",
+   "bytes": 63,
+   "alvo_bytes": 60
+  },
+  {
+   "id": "enhance_material#71",
+   "bloco": "enhance_material",
+   "en": "A beak frequently cited as evidence of environmental pollution.",
+   "bytes": 63,
+   "alvo_bytes": 60
+  },
+  {
+   "id": "enhance_material#164",
+   "bloco": "enhance_material",
+   "en": "A tentacle still moving even after being severed from the body.",
+   "bytes": 63,
+   "alvo_bytes": 60
+  },
+  {
+   "id": "enhance_material#68",
+   "bloco": "enhance_material",
+   "en": "A scale that gleams bright enough to be mistaken for a jewel.",
+   "bytes": 61,
+   "alvo_bytes": 58
+  },
+  {
+   "id": "enhance_material#98",
+   "bloco": "enhance_material",
+   "en": "A whisker that appears and disappears, yet definitely exists.",
+   "bytes": 61,
+   "alvo_bytes": 58
+  },
+  {
+   "id": "enhance_material#92",
+   "bloco": "enhance_material",
+   "en": "A firm and springy whisker that does not waver in the wind.",
+   "bytes": 59,
+   "alvo_bytes": 56
+  },
+  {
+   "id": "enhance_material#113",
+   "bloco": "enhance_material",
+   "en": "A hide so elegant it feels presumptuous to even look at it.",
+   "bytes": 59,
+   "alvo_bytes": 56
+  },
+  {
+   "id": "enhance_material#38",
+   "bloco": "enhance_material",
+   "en": "A fiber said to be dropped by unidentified flying objects.",
+   "bytes": 58,
+   "alvo_bytes": 55
+  },
+  {
+   "id": "enhance_material#31",
+   "bloco": "enhance_material",
+   "en": "Yields moisture-absorbent fibers resistant to stretching.",
+   "bytes": 57,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "enhance_material#152",
+   "bloco": "enhance_material",
+   "en": "A needle containing lethal venom that kills when pierced.",
+   "bytes": 57,
+   "alvo_bytes": 54
+  },
+  {
+   "id": "enhance_material#53",
+   "bloco": "enhance_material",
+   "en": "A fang that evokes the commanding presence of its owner.",
+   "bytes": 56,
+   "alvo_bytes": 53
+  },
+  {
+   "id": "enhance_material#83",
+   "bloco": "enhance_material",
+   "en": "A tenacious beak that has devoured all manner of things.",
+   "bytes": 56,
+   "alvo_bytes": 53
+  },
+  {
+   "id": "enhance_material#59",
+   "bloco": "enhance_material",
+   "en": "A scale that protected against the outside environment.",
+   "bytes": 55,
+   "alvo_bytes": 53
+  },
+  {
+   "id": "enhance_material#122",
+   "bloco": "enhance_material",
+   "en": "A feather serving as the deciding factor in courtship.",
+   "bytes": 54,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "enhance_material#155",
+   "bloco": "enhance_material",
+   "en": "A transparent needle hard to notice even when pierced.",
+   "bytes": 54,
+   "alvo_bytes": 52
+  },
+  {
+   "id": "enhance_material#22",
+   "bloco": "enhance_material",
+   "en": "A precious gemstone encasing seven types of minerals.",
+   "bytes": 53,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "enhance_material#137",
+   "bloco": "enhance_material",
+   "en": "An outsized bone that underwent abnormal development.",
+   "bytes": 53,
+   "alvo_bytes": 51
+  },
+  {
+   "id": "enhance_material#140",
+   "bloco": "enhance_material",
+   "en": "A bone steeped in bitter grudges from its past life.",
+   "bytes": 52,
+   "alvo_bytes": 50
+  },
+  {
+   "id": "enhance_material#5",
+   "bloco": "enhance_material",
+   "en": "A valuable mineral that shines with a white luster.",
+   "bytes": 51,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "enhance_material#170",
+   "bloco": "enhance_material",
+   "en": "A tentacle constantly dripping with sluggish slime.",
+   "bytes": 51,
+   "alvo_bytes": 49
+  },
+  {
+   "id": "enhance_material#8",
+   "bloco": "enhance_material",
+   "en": "A valuable mineral that shines with golden luster.",
+   "bytes": 50,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "enhance_material#11",
+   "bloco": "enhance_material",
+   "en": "A tough mineral featuring woodgrain-like patterns.",
+   "bytes": 50,
+   "alvo_bytes": 48
+  },
+  {
+   "id": "enhance_material#65",
+   "bloco": "enhance_material",
+   "en": "A scale developed more for offense than defense.",
+   "bytes": 48,
+   "alvo_bytes": 46
+  },
+  {
+   "id": "enhance_material#18",
+   "bloco": "enhance_material",
+   "en": "A glassy gemstone formed by a meteorite impact.",
+   "bytes": 47,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "enhance_material#89",
+   "bloco": "enhance_material",
+   "en": "A supple tail that sways gently back and forth.",
+   "bytes": 47,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "enhance_material#149",
+   "bloco": "enhance_material",
+   "en": "A needle difficult to pull out once it pierces.",
+   "bytes": 47,
+   "alvo_bytes": 45
+  },
+  {
+   "id": "enhance_material#125",
+   "bloco": "enhance_material",
+   "en": "A mysterious feather that emits a sweet aroma.",
+   "bytes": 46,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "enhance_material#128",
+   "bloco": "enhance_material",
+   "en": "A rare feather that shines with its own light.",
+   "bytes": 46,
+   "alvo_bytes": 44
+  },
+  {
+   "id": "enhance_material#13",
+   "bloco": "enhance_material",
+   "en": "A living mineral that emits its own radiance.",
+   "bytes": 45,
+   "alvo_bytes": 43
+  },
+  {
+   "id": "enhance_material#62",
+   "bloco": "enhance_material",
+   "en": "A scale that defended against enemy attacks.",
+   "bytes": 44,
+   "alvo_bytes": 42
+  },
+  {
+   "id": "enhance_material#95",
+   "bloco": "enhance_material",
+   "en": "A beautiful, yet not particularly cute tail.",
+   "bytes": 44,
+   "alvo_bytes": 42
+  },
+  {
+   "id": "enhance_material#101",
+   "bloco": "enhance_material",
+   "en": "A tough hide that is difficult to work with.",
+   "bytes": 44,
+   "alvo_bytes": 42
+  },
+  {
+   "id": "enhance_material#16",
+   "bloco": "enhance_material",
+   "en": "A colorless, transparent gemstone like ice.",
+   "bytes": 43,
+   "alvo_bytes": 41
+  },
+  {
+   "id": "enhance_material#80",
+   "bloco": "enhance_material",
+   "en": "A beak that also served to intimidate foes.",
+   "bytes": 43,
+   "alvo_bytes": 41
+  },
+  {
+   "id": "enhance_material#33",
+   "bloco": "enhance_material",
+   "en": "An elastic fiber that traps plenty of air.",
+   "bytes": 42,
+   "alvo_bytes": 40
+  },
+  {
+   "id": "enhance_material#74",
+   "bloco": "enhance_material",
+   "en": "A beak that is long, but not very sturdy.",
+   "bytes": 41,
+   "alvo_bytes": 39
+  },
+  {
+   "id": "enhance_material#131",
+   "bloco": "enhance_material",
+   "en": "A bone that suffered from poor nutrition.",
+   "bytes": 41,
+   "alvo_bytes": 39
+  },
+  {
+   "id": "enhance_material#158",
+   "bloco": "enhance_material",
+   "en": "A needle said to pierce through anything.",
+   "bytes": 41,
+   "alvo_bytes": 39
+  },
+  {
+   "id": "enhance_material#167",
+   "bloco": "enhance_material",
+   "en": "A tentacle that stays fresh indefinitely.",
+   "bytes": 41,
+   "alvo_bytes": 39
+  },
+  {
+   "id": "enhance_material#56",
+   "bloco": "enhance_material",
+   "en": "A paper-thin and easily breakable scale.",
+   "bytes": 40,
+   "alvo_bytes": 38
+  },
+  {
+   "id": "enhance_material#146",
+   "bloco": "enhance_material",
+   "en": "A needle lacking its vital sharp point.",
+   "bytes": 39,
+   "alvo_bytes": 37
+  },
+  {
+   "id": "enhance_material#104",
+   "bloco": "enhance_material",
+   "en": "A smooth hide that is easy to process.",
+   "bytes": 38,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "enhance_material#50",
+   "bloco": "enhance_material",
+   "en": "A sturdy and highly aggressive fang.",
+   "bytes": 36,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "enhance_material#77",
+   "bloco": "enhance_material",
+   "en": "A beak with considerable durability.",
+   "bytes": 36,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "enhance_material#41",
+   "bloco": "enhance_material",
+   "en": "A brittle fang eroded by cavities.",
+   "bytes": 34,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "enhance_material#86",
+   "bloco": "enhance_material",
+   "en": "A stiff tail that does not bend.",
+   "bytes": 32,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "enhance_material#161",
+   "bloco": "enhance_material",
+   "en": "A tentacle lacking flexibility.",
+   "bytes": 31,
+   "alvo_bytes": 29
+  }
+ ]
+}

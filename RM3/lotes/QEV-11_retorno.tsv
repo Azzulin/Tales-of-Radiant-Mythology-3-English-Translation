@@ -1,0 +1,100 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev11_010.scr:0	qev11_010.scr	0	リッド	Reid Hershel	personagem	CRLF x2	ふん。\nそんなんだから、\nキールは泣き虫ベソかきって言われんだ	Hmph.\nThat's why everyone calls\nKeele a big crybaby.	
+qev11_010.scr:1	qev11_010.scr	1	キール	Keele Zeibel	personagem	CRLF x1	い、言いがかりだ！\n誰もぼくをそんな風に言ったりしないぞ	Th-That's completely baseless!\nNo one calls me that at all!	
+qev11_010.scr:2	qev11_010.scr	2	ファラ	Farah Oersted	personagem		はいはい、ケンカはそこまで	Okay, okay, that's enough fighting.	
+qev11_010.scr:3	qev11_010.scr	3	ファラ	Farah Oersted	personagem	CRLF x2	もう。\nいつまでつまんない\n言い合いを続けるつもり？	Geez.\nHow long do you two plan\nto keep this silly argument going?	
+qev11_010.scr:4	qev11_010.scr	4	メルディ	Meredy	personagem	CRLF x1	ワイール！\nメルディ知ってるよ	WA-IRU!\nMeredy knows!	
+qev11_010.scr:5	qev11_010.scr	5	メルディ	Meredy	personagem	CRLF x2	オトコが黙って、\nセーセードードー勝負するべし。\n……な？	Men should stay quiet and\nfight fair and square.\n...Right?	
+qev11_010.scr:6	qev11_010.scr	6	リッド	Reid Hershel	personagem		勝負だぁ？	A fight?	
+qev11_010.scr:7	qev11_010.scr	7	キール	Keele Zeibel	personagem	CRLF x1	また脈絡のない事を\n言い出したぞ……	She's saying things with\nno context again...	
+qev11_010.scr:8	qev11_010.scr	8	ファラ	Farah Oersted	personagem	CRLF x1	いいじゃない、面白そう！\nね、狩りの勝負なんかはどう？	Why not? Sounds fun!\nHey, how about a hunting contest?	
+qev11_010.scr:9	qev11_010.scr	9	ファラ	Farah Oersted	personagem	CRLF x1	どっちが多く獲物を仕留められるか。\n公平だし、わかりやすいでしょ	See who can hunt the most prey.\nIt's fair and simple to understand, right?	
+qev11_010.scr:10	qev11_010.scr	10	キール	Keele Zeibel	personagem		ぼくは反対だ！	I'm against this!	
+qev11_010.scr:11	qev11_010.scr	11	キール	Keele Zeibel	personagem	CRLF x2	そもそも学生のぼくが、\nどうしてそんな馬鹿げた事に\n付き合わなきゃならないんだ	Why should I, an academic,\nhave to tag along for\nsomething so completely ridiculous?	
+qev11_010.scr:12	qev11_010.scr	12	リッド	Reid Hershel	personagem		自信がないんだな	You just don't have any confidence.	
+qev11_010.scr:13	qev11_010.scr	13	キール	Keele Zeibel	personagem	CRLF x1	違う！\n学生の本分は勉学だと言っているんだ！	Wrong!\nI'm saying a student's duty is to study!	
+qev11_010.scr:14	qev11_010.scr	14	メルディ	Meredy	personagem	CRLF x1	メルディが狩り、手伝うな！\n三人と三人なら、ビョウドウ	Meredy will help hunt!\nThree against three, perfectly equal!	
+qev11_010.scr:15	qev11_010.scr	15	メルディ	Meredy	personagem	CRLF x2	メルディと、キールと、クィッキー。\nあと、ファラとリッドと\n○○	Meredy, Keele, and Quickie.\nAnd Farah, Reid, and\n○○.	
+qev11_010.scr:16	qev11_010.scr	16	メルディ	Meredy	personagem	CRLF x2	これで三人ずつ。\nビョウドウな！\n楽しいよー	Now it's three against three.\nEqual!\nIt'll be fun!	
+qev11_010.scr:17	qev11_010.scr	17	キール	Keele Zeibel	personagem	CRLF x1	冗談だろ？\nこっちは三人じゃないじゃないか！	Are you joking?\nWe don't even have three people!	
+qev11_010.scr:18	qev11_010.scr	18	クィッキー	Quickie	personagem		クィック、クィッキー！！	Quik, Quickie!!	
+qev11_010.scr:19	qev11_010.scr	19	メルディ	Meredy	personagem	CRLF x1	ダイジョーブ！\nクィッキー手伝う言ってるな	It's okay!\nQuickie says he'll help!	
+qev11_010.scr:20	qev11_010.scr	20	キール	Keele Zeibel	personagem	CRLF x1	そうじゃない。\nぼくが言いたいのは……	That's not it.\nWhat I want to say is...	
+qev11_010.scr:21	qev11_010.scr	21	リッド	Reid Hershel	personagem		決まりだな	It's decided.	
+qev11_010.scr:22	qev11_010.scr	22	ファラ	Farah Oersted	personagem		だね	Yep.	
+qev11_010.scr:23	qev11_010.scr	23	ファラ	Farah Oersted	personagem	CRLF x2	じゃ、○○。\n都合のいい時に\n声をかけてもらってもいい？	Well then, ○○.\nLet us know when\nyou're ready to go, alright?	
+qev11_010.scr:24	qev11_010.scr	24	ファラ	Farah Oersted	personagem		その時から、勝負スタートって事で！	When you do, the contest starts!	
+qev11_010.scr:25	qev11_010.scr	25	キール	Keele Zeibel	personagem		だから、勝手に話を進めるなぁ〜！	I said, stop deciding things on your own!	
+qev11_010.scr:26	qev11_010.scr	26	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「負けられない戦い」が\nエントリーされました。\nファラから受ける事が出来ます	"Quest ""An Unbeatable Battle"" has\nbeen entered.\nYou can accept it from Farah."	
+qev11_020.scr:0	qev11_020.scr	0	メルディ	Meredy	personagem	CRLF x1	ワイール！\n○○、待ってたよぅ	WA-IRU!\n○○, we were waiting!	
+qev11_020.scr:1	qev11_020.scr	1	リッド	Reid Hershel	personagem	CRLF x2	悪いな。\nお前も暇じゃねえのに、\nくだらねえ事に巻き込んじまって	My bad.\nI know you're busy, but we\nended up dragging you into this nonsense.	
+qev11_020.scr:2	qev11_020.scr	2	キール	Keele Zeibel	personagem	CRLF x1	悪いと思うなら、\nやめればいいだろ	If you feel bad,\nthen we should just cancel this.	
+qev11_020.scr:3	qev11_020.scr	3	リッド	Reid Hershel	personagem		それとこれとは、話が別だ	That's a completely different matter.	
+qev11_020.scr:4	qev11_020.scr	4	ファラ	Farah Oersted	personagem	CRLF x2	ルールは確認してもらった通りだよ。\n先に決められた数の獲物を倒した方が勝ち。\nいいよね？	The rules are as we confirmed.\nThe first to hunt the target amount wins.\nSound good?	
+qev11_020.scr:5	qev11_020.scr	5	メルディ	Meredy	personagem	CRLF x1	早速出発するな！\nメルディ楽しみ♪	Let's head out right away!\nMeredy is excited!	
+qev11_020.scr:6	qev11_020.scr	6	メルディ	Meredy	personagem	CRLF x1	キール、何持ってく？\nバナナおやつ入るか？	Keele, what will you bring?\nDo we have room for banana snacks?	
+qev11_020.scr:7	qev11_020.scr	7	キール	Keele Zeibel	personagem	CRLF x1	……本当に何しに行くか、\nわかってるのか？	...Do you even realize\nwhat we're going to do?	
+qev11_030.scr:0	qev11_030.scr	0	リッド	Reid Hershel	personagem	CRLF x2	よし。\nサクッと狩って、\nキールをあっと言わせてやろうぜ	Alright.\nLet's hunt 'em up quick\nand leave Keele totally speechless.	
+qev11_030.scr:1	qev11_030.scr	1	ファラ	Farah Oersted	personagem		リッドったら、張り切っちゃって	Reid, you're so fired up.	
+qev11_030.scr:2	qev11_030.scr	2	リッド	Reid Hershel	personagem	CRLF x1	当たり前だろ。\n狩りの腕で、オレがキールに負けるもんか	Of course I am.\nNo way I'd lose to Keele at hunting.	
+qev11_030.scr:3	qev11_030.scr	3	ファラ	Farah Oersted	personagem		勉強では負けっぱなしだけどね	You always lose when it comes to studying.	
+qev11_030.scr:4	qev11_030.scr	4	リッド	Reid Hershel	personagem		う、うるせえ	Sh-Shut up!	
+qev11_040.scr:0	qev11_040.scr	0	リッド	Reid Hershel	personagem	CRLF x1	よし。\nこの調子でいこうぜ	Alright.\nLet's keep this pace up.	
+qev11_040.scr:1	qev11_040.scr	1	キール	Keele Zeibel	personagem		ウィンドカッター！	Wind Blade!	
+qev11_040.scr:2	qev11_040.scr	2	メルディ	Meredy	personagem	CRLF x1	ワイール！　仕留めたよぅ。\nキールすごいな！	WA-IRU! We took it down.\nKeele is amazing!	
+qev11_040.scr:3	qev11_040.scr	3	キール	Keele Zeibel	personagem	CRLF x1	フン。\nこれくらい造作もないさ	Hmph.\nThis is nothing for me.	
+qev11_040.scr:4	qev11_040.scr	4	クィッキー	Quickie	personagem		クィッククィック、クィッキー！！	Quik-quik, Quickie!!	
+qev11_040.scr:5	qev11_040.scr	5	メルディ	Meredy	personagem	CRLF x1	これなら、リッド達にも負けないよー。\nクィッキーもそう言ってる	With this, we won't lose to Reid's team!\nQuickie says so too.	
+qev11_040.scr:6	qev11_040.scr	6	キール	Keele Zeibel	personagem	CRLF x1	当たり前だろう。\nぼくを誰だと思っているんだ	Obviously.\nWho do you think I am?	
+qev11_040.scr:7	qev11_040.scr	7	リッド	Reid Hershel	personagem		あいつ、調子いい事言ってんな	He sure is acting all high and mighty.	
+qev11_040.scr:8	qev11_040.scr	8	ファラ	Farah Oersted	personagem	CRLF x1	うん。\nでもあの様子だと、そろそろ……	Yeah.\nBut by the looks of it, soon...	
+qev11_040.scr:9	qev11_040.scr	9	メルディ	Meredy	personagem	CRLF x1	キール！　なぜ転ぶか？\nだいじょぶか	Keele! Why did you fall?\nAre you okay?	
+qev11_040.scr:10	qev11_040.scr	10	キール	Keele Zeibel	personagem	CRLF x1	う……うるさい！\nちょっと大きな石につまづいただけだ	Sh... Shut up!\nI just tripped over a slightly large rock.	
+qev11_040.scr:11	qev11_040.scr	11	メルディ	Meredy	personagem		休憩するか？	Should we rest?	
+qev11_040.scr:12	qev11_040.scr	12	キール	Keele Zeibel	personagem		必要ない	I don't need to.	
+qev11_040.scr:13	qev11_040.scr	13	メルディ	Meredy	personagem	CRLF x1	……でも、血出てるな。\n無理しないがいいよ	...But you're bleeding.\nYou shouldn't push yourself.	
+qev11_040.scr:14	qev11_040.scr	14	キール	Keele Zeibel	personagem	CRLF x1	いいって言ってるだろ！\nよ、寄るな、触るな！	I told you I'm fine!\nD-Don't get close, don't touch me!	
+qev11_040.scr:15	qev11_040.scr	15	メルディ	Meredy	personagem	CRLF x1	何だよー！！\n心配した、なぜ怒るか？	What's your deal?!\nMeredy was just worried, why so angry?	
+qev11_040.scr:16	qev11_040.scr	16	リッド	Reid Hershel	personagem		あいつ、ほんと体力ねえよなぁ	That guy seriously lacks stamina.	
+qev11_040.scr:17	qev11_040.scr	17	ファラ	Farah Oersted	personagem		でも、油断してたら負けちゃうよ	But if we let our guard down, we'll lose.	
+qev11_040.scr:18	qev11_040.scr	18	ファラ	Farah Oersted	personagem	CRLF x2	よぉし。\nわたし達も頑張ろ！\nイケるイケる！	Alright.\nLet's do our best too!\nWe can do it!	
+qev11_041.scr:0	qev11_041.scr	0	ファラ	Farah Oersted	personagem		だんだんゴールが見えて来たね	The goal is coming into view.	
+qev11_041.scr:1	qev11_041.scr	1	ファラ	Farah Oersted	personagem	CRLF x1	この調子なら勝てそう。\nうん、イケるイケる！	At this rate, we can win.\nYeah, we can totally do this!	
+qev11_041.scr:2	qev11_041.scr	2	リッド	Reid Hershel	personagem		イケるのは結構だけどよ……	That's all fine and well, but...	
+qev11_041.scr:3	qev11_041.scr	3	ファラ	Farah Oersted	personagem		いたっ……！	Ouch...!	
+qev11_041.scr:4	qev11_041.scr	4	リッド	Reid Hershel	personagem	CRLF x1	やっぱりな。\n今の戦闘で足、ひねったんだろ？	I knew it.\nYou twisted your ankle in that last fight?	
+qev11_041.scr:5	qev11_041.scr	5	リッド	Reid Hershel	personagem		ったく、無理すんなよな	Geez, don't push yourself so hard.	
+qev11_041.scr:6	qev11_041.scr	6	ファラ	Farah Oersted	personagem		これくらい！　何でもないよ	This is nothing! I'm completely fine!	
+qev11_041.scr:7	qev11_041.scr	7	リッド	Reid Hershel	personagem	CRLF x1	ファラ。\nオレ達は今、三人で戦ってるんだぞ？	Farah.\nWe're fighting as a team of three now.	
+qev11_041.scr:8	qev11_041.scr	8	リッド	Reid Hershel	personagem	CRLF x1	お前一人が\n背負い込む事ねえんだ	There's no need for you\nto shoulder the burden all on your own.	
+qev11_041.scr:9	qev11_041.scr	9	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev11_041.scr:10	qev11_041.scr	10	ファラ	Farah Oersted	personagem	CRLF x1	リッド……。\n○○まで……	Reid...\nAnd even ○○...	
+qev11_041.scr:11	qev11_041.scr	11	ファラ	Farah Oersted	personagem	CRLF x2	そだね。\nみんなもいるんだもんね。\n無理はしないよ、大丈夫	You're right.\nI have everyone with me.\nI won't overdo it, I'm okay!	
+qev11_041.scr:12	qev11_041.scr	12	リッド	Reid Hershel	personagem		しんどくなったら言えよ	Tell us if it gets too rough.	
+qev11_041.scr:13	qev11_041.scr	13	ファラ	Farah Oersted	personagem	CRLF x1	うん。\nありがと	Yeah.\nThanks.	
+qev11_050.scr:0	qev11_050.scr	0	ファラ	Farah Oersted	personagem	CRLF x1	やった！\n今ので目標達成だよ！！	We did it!\nThat completes our goal!!	
+qev11_050.scr:1	qev11_050.scr	1	リッド	Reid Hershel	personagem		こんくらい、チョロイもんだぜ	This much was a piece of cake.	
+qev11_050.scr:2	qev11_050.scr	2	ファラ	Farah Oersted	personagem	CRLF x1	キール達、どうしてるかな。\nもう帰ってたりして……	I wonder how Keele's team is doing.\nMaybe they went back already...	
+qev11_050.scr:3	qev11_050.scr	3	リッド	Reid Hershel	personagem	CRLF x1	ま、戻ってみりゃわかるだろ。\nさっさと獲物をまとめて帰ろうぜ	Well, we'll see once we head back.\nLet's pack up our prey and go home.	
+qev11_050.scr:4	qev11_050.scr	4	ファラ	Farah Oersted	personagem	CRLF x1	うん。\nそうだね	Yeah.\nLet's go.	
+qev11_060.scr:0	qev11_060.scr	0	キール	Keele Zeibel	personagem		ふん、遅かったじゃないか	Hmph, you took your sweet time.	
+qev11_060.scr:1	qev11_060.scr	1	リッド	Reid Hershel	personagem		キール！？	Keele!?	
+qev11_060.scr:2	qev11_060.scr	2	ファラ	Farah Oersted	personagem		えっ、もう戻って来てたの？	Huh, you're back already?	
+qev11_060.scr:3	qev11_060.scr	3	ファラ	Farah Oersted	personagem		すっごーい！　早かったんだね	Amazing! You guys were so fast!	
+qev11_060.scr:4	qev11_060.scr	4	クィッキー	Quickie	personagem		クィ？	Quik?	
+qev11_060.scr:5	qev11_060.scr	5	キール	Keele Zeibel	personagem		ま、まぁな……	W-Well, yeah...	
+qev11_060.scr:6	qev11_060.scr	6	メルディ	Meredy	personagem		それ違うよ	That's not right.	
+qev11_060.scr:7	qev11_060.scr	7	メルディ	Meredy	personagem	CRLF x1	キール転んで、パンツ破けた。\nだから替え取りに来たよ	Keele fell and ripped his pants.\nSo we came to get a spare.	
+qev11_060.scr:8	qev11_060.scr	8	キール	Keele Zeibel	personagem		メルディ！！	Meredy!!	
+qev11_060.scr:9	qev11_060.scr	9	リッド	Reid Hershel	personagem	CRLF x1	ほ〜う……、パンツが破けたのか。\nそりゃ大変だったなぁ、キール？	Oho... So your pants ripped.\nThat must have been awful, Keele.	
+qev11_060.scr:10	qev11_060.scr	10	キール	Keele Zeibel	personagem	CRLF x2	違う！\n破けたのは衣服で、\n下着なんかじゃ……	Wrong!\nWhat tore was my outer garments,\nnot my underwear...	
+qev11_060.scr:11	qev11_060.scr	11	メルディ	Meredy	personagem		じゃ、どしてパンツ押さえたよ？	Then why were you holding your pants?	
+qev11_060.scr:12	qev11_060.scr	12	キール	Keele Zeibel	personagem		だ、だからお前は、パンツパンツ言うな！	I-I told you to stop saying pants!	
+qev11_060.scr:13	qev11_060.scr	13	ファラ	Farah Oersted	personagem	CRLF x1	キール、破れたパンツどこ？\n繕ってあげるから、出しておいてね	Keele, where are your torn pants?\nI'll sew them up, so bring them out.	
+qev11_060.scr:14	qev11_060.scr	14	メルディ	Meredy	personagem	CRLF x1	あ、メルディもパンツ手伝う！\nボタン付け教えて欲しいよー	Ah, Meredy will help with the pants too!\nI want to learn how to sew on a button!	
+qev11_060.scr:15	qev11_060.scr	15	リッド	Reid Hershel	personagem	CRLF x1	良かったな、キール。\n思い出のパンツが出来そうで	Good for you, Keele.\nYou'll get some memorable pants.	
+qev11_060.scr:16	qev11_060.scr	16	クィッキー	Quickie	personagem		クィック、クィキキキ	Quik, quikikiki.	
+qev11_060.scr:17	qev11_060.scr	17	キール	Keele Zeibel	personagem	CRLF x1	ううぅ……。\nだから、違うのに……	Uuurgh...\nI told you, that's not it...	
+qev11_060.scr:18	qev11_060.scr	18	ファラ	Farah Oersted	personagem	CRLF x1	何か、勝負の結果は\nあやふやになっちゃったね……	Somehow, the contest's results\nended up a bit ambiguous...	
+qev11_060.scr:19	qev11_060.scr	19	ファラ	Farah Oersted	personagem	CRLF x2	でも、○○が\n手伝ってくれて嬉しかったよ。\nすごく助かっちゃった	But I was really happy that\n○○ helped us out.\nIt was a huge help.	
+qev11_060.scr:20	qev11_060.scr	20	ファラ	Farah Oersted	personagem		ありがと！	Thanks!	

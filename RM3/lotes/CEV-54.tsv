@@ -1,0 +1,154 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev54_010.scr:0	cev54_010.scr	0	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		はぁ……		
+cev54_010.scr:1	cev54_010.scr	1	カイウス	Caius Qualls	personagem	CRLF x1	ナタリア？\nどうしたんだ？		
+cev54_010.scr:2	cev54_010.scr	2	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	あら……カイウスですの……。\nいえ……少し、考え事をしていて……		
+cev54_010.scr:3	cev54_010.scr	3	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	ねえ、カイウス……これまで\n誰にも話せない悩み事を\n抱えた事は……		
+cev54_010.scr:4	cev54_010.scr	4	カイウス	Caius Qualls	personagem	CRLF x1	え？　\nいきなり何だよ？		
+cev54_010.scr:5	cev54_010.scr	5	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	そ、そうですわよね……。\nごめんなさい、今の質問は……		
+cev54_010.scr:6	cev54_010.scr	6	カイウス	Caius Qualls	personagem	CRLF x2	そりゃ、オレにだって\n人に打ち明けられない……\n打ち明けづらい悩みは、あるぜ		
+cev54_010.scr:7	cev54_010.scr	7	カイウス	Caius Qualls	personagem		ただ、それももう過去形だけどな		
+cev54_010.scr:8	cev54_010.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		過去形……？		
+cev54_010.scr:9	cev54_010.scr	9	カイウス	Caius Qualls	personagem	CRLF x2	この船のみんなは、\nオレの変わった体質の事を知っても\n変わらずに接してくれた		
+cev54_010.scr:10	cev54_010.scr	10	カイウス	Caius Qualls	personagem	CRLF x2	だからもう、悩んでたのは過去だ。\nこれからも悩む事はあると思うけど……\n変わっていける事を知ったからな		
+cev54_010.scr:11	cev54_010.scr	11	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		強いんですのね、あなたは……		
+cev54_010.scr:12	cev54_010.scr	12	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	私は、自分の気持ちを\n伝える事すら出来ずに\nこうして立ち止まっていますのに		
+cev54_010.scr:13	cev54_010.scr	13	カイウス	Caius Qualls	personagem	CRLF x2	それって、相手に拒絶されたら、とか\n相手を傷付けたらどうしようって\n気持ちからだろ？		
+cev54_010.scr:14	cev54_010.scr	14	カイウス	Caius Qualls	personagem	CRLF x2	信じてみればいいんじゃないか？\n自分の気持ち、相手に伝わるって。\n自分で否定する前にさ		
+cev54_010.scr:15	cev54_010.scr	15	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		カイウス……		
+cev54_010.scr:16	cev54_010.scr	16	カイウス	Caius Qualls	personagem	CRLF x2	勇気は夢を叶える魔法だ。\n……あ、これは\nエミルの受け売りなんだけどさ		
+cev54_010.scr:17	cev54_010.scr	17	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	そう……ですわね。\n行動する前からあきらめてしまっては\n何も変わりませんものね……		
+cev54_010.scr:18	cev54_010.scr	18	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	私、話してみる事にしますわ。\nずっと……これまで考えていた事を		
+cev54_010.scr:19	cev54_010.scr	19	カイウス	Caius Qualls	personagem	CRLF x2	そっか。\nよくわからないけど\nナタリアの夢が叶うといいな		
+cev54_010.scr:20	cev54_010.scr	20	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	そうですわね。\nありがとう、カイウス		
+cev54_020.scr:0	cev54_020.scr	0	アッシュ	Asch	personagem	CRLF x2	どうだ。\n……ここでの暮らしには\nもう慣れたか		
+cev54_020.scr:1	cev54_020.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	ええ。\n皆さん、とても良くして下さいます		
+cev54_020.scr:2	cev54_020.scr	2	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	ギルドの一員として守るべき規則から\nちょっとした暮らしの知恵まで……。\n色々と学ばせていただきましたわ		
+cev54_020.scr:3	cev54_020.scr	3	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	どうすれば、お皿の汚れが早く落ちるのかとか\nお掃除をする時のコツとか		
+cev54_020.scr:4	cev54_020.scr	4	アッシュ	Asch	personagem		そんな事までやらされているのか		
+cev54_020.scr:5	cev54_020.scr	5	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	いいえ、私が望んでしているのです。\n聞けば、そのくらいの知識は\n小さな子どもでも心得ていると……		
+cev54_020.scr:6	cev54_020.scr	6	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	私は……このギルドへやってくるまで\nそんな当たり前の知識や、現実すら\n知らずにいました		
+cev54_020.scr:7	cev54_020.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		……自分が恥ずかしいですわ		
+cev54_020.scr:8	cev54_020.scr	8	アッシュ	Asch	personagem	CRLF x2	……そんな事はない。\n少なくともお前は、\n今現実を受け止める事が出来ている		
+cev54_020.scr:9	cev54_020.scr	9	アッシュ	Asch	personagem	CRLF x1	重要なのはこれからだ。\n事実を知り、何を成すのか……		
+cev54_020.scr:10	cev54_020.scr	10	アッシュ	Asch	personagem	CRLF x1	それを考えるのが、俺達の役割だろう。\n間違わずに完璧でいる事じゃない		
+cev54_020.scr:11	cev54_020.scr	11	アッシュ	Asch	personagem		違うか？		
+cev54_020.scr:12	cev54_020.scr	12	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		アッシュ……		
+cev54_020.scr:13	cev54_020.scr	13	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		どこへ行きますの？		
+cev54_020.scr:14	cev54_020.scr	14	アッシュ	Asch	personagem		その話の続きは、ルークにしてやれ		
+cev54_020.scr:15	cev54_020.scr	15	アッシュ	Asch	personagem	CRLF x1	お前の婚約者は、俺じゃない。\nあいつだ		
+cev54_020.scr:16	cev54_020.scr	16	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	そうやって、あなたは……\nいつも距離を置こうとしますのね		
+cev54_020.scr:17	cev54_020.scr	17	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		私からも……ルークからも		
+cev54_030.scr:0	cev54_030.scr	0	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		それにしても、本当に綺麗ですわね……		
+cev54_030.scr:1	cev54_030.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	こうしていると、世界に迫る危機など\n何かの悪い冗談の様に思えてきますわ		
+cev54_030.scr:2	cev54_030.scr	2	アッシュ	Asch	personagem		…………		
+cev54_030.scr:3	cev54_030.scr	3	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	ごめんなさい。\n私ったら……		
+cev54_030.scr:4	cev54_030.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	危機を回避する為、みんなが力を\n尽くしていますのに……不謹慎でしたわ		
+cev54_030.scr:5	cev54_030.scr	5	アッシュ	Asch	personagem	CRLF x1	……全てが終わったら、\nまたここへ来ればいい		
+cev54_030.scr:6	cev54_030.scr	6	アッシュ	Asch	personagem	CRLF x1	そうすれば、何の気兼ねもなく\nお前も景色に見入っていられるだろう		
+cev54_030.scr:7	cev54_030.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		アッシュ……		
+cev54_030.scr:8	cev54_030.scr	8	アッシュ	Asch	personagem		その為にも、今すべき事に集中するぞ		
+cev54_030.scr:9	cev54_030.scr	9	アッシュ	Asch	personagem		……遅れるなよ、ナタリア		
+cev54_030.scr:10	cev54_030.scr	10	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		はい！		
+cev54_040.scr:0	cev54_040.scr	0	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	下町の生活というのは\nやはり、大変な事が多いんですの？		
+cev54_040.scr:1	cev54_040.scr	1	コレット	Colette Brunel	personagem	CRLF x1	う〜ん、楽ではないと思うけど\nそんなに大変って思った事もないよ		
+cev54_040.scr:2	cev54_040.scr	2	コレット	Colette Brunel	personagem		楽しい事だって一杯あるし		
+cev54_040.scr:3	cev54_040.scr	3	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	楽しい事？\n曲芸師が訪れて、何か余興を\n見せてくれたりするのですか？		
+cev54_040.scr:4	cev54_040.scr	4	コレット	Colette Brunel	personagem	CRLF x2	曲芸師さんは\nそんなに来てくれないよ〜。\n来るのは、行商のおじさんくらいかなぁ		
+cev54_040.scr:5	cev54_040.scr	5	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	行商？\n行商とは、何ですの？\n何か家畜でも飼っているのですか？		
+cev54_040.scr:6	cev54_040.scr	6	コレット	Colette Brunel	personagem	CRLF x2	家畜？　\n家畜って、豚さんとか？\n最近は、ブウサギとかが人気だよね		
+cev54_040.scr:7	cev54_040.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	ブウサギ！\n聞いた事がありますわ		
+cev54_040.scr:8	cev54_040.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	どこかの国の陛下も、\nペットとして飼っているそうですわね		
+cev54_040.scr:9	cev54_040.scr	9	コレット	Colette Brunel	personagem	CRLF x1	へぇ、そうなの？\n私もペット欲しいんだ		
+cev54_040.scr:10	cev54_040.scr	10	コレット	Colette Brunel	personagem	CRLF x1	やっぱり、犬さんかなぁ。\nわんわんって		
+cev54_040.scr:11	cev54_040.scr	11	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	犬は手間が掛かるのではなくて？\n散歩に連れて行く必要が\nあるのでしょう？		
+cev54_040.scr:12	cev54_040.scr	12	コレット	Colette Brunel	personagem	CRLF x2	でも、お散歩なら、\n一緒にすればいいよ。\nだって、お外歩くの気持ちいいもんね		
+cev54_040.scr:13	cev54_040.scr	13	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	そうですわね……。\n私も、庭の花壇を散歩するのは、\n好きですわ		
+cev54_040.scr:14	cev54_040.scr	14	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		花の匂いも、心地良いですし		
+cev54_040.scr:15	cev54_040.scr	15	コレット	Colette Brunel	personagem	CRLF x2	気持ちいいよねぇ。\n水浴びとかしたりね。\n早く、夏にならないかなぁ〜		
+cev54_040.scr:16	cev54_040.scr	16	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	夏だと、やはり海ですわ。\nみんなで一緒に泳ぎに行けると\n良いですわね		
+cev54_040.scr:17	cev54_040.scr	17	コレット	Colette Brunel	personagem	CRLF x1	うんうん。\nほんとにそうだよね！		
+cev54_040.scr:18	cev54_040.scr	18	コレット	Colette Brunel	personagem		どしたの？		
+cev54_040.scr:19	cev54_040.scr	19	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	あ、いえ……。\n私達、何の話をしていたのでしょう？		
+cev54_040.scr:20	cev54_040.scr	20	コレット	Colette Brunel	personagem		う〜んとね……		
+cev54_040.scr:21	cev54_040.scr	21	コレット	Colette Brunel	personagem		ワンちゃんだよ∀		
+cev54_050.scr:0	cev54_050.scr	0	エステル	Estelle	personagem		ナタリア、知ってます？		
+cev54_050.scr:1	cev54_050.scr	1	エステル	Estelle	personagem	CRLF x2	冬になると、外の国の皆さんは\n「聖なる夜」にお祝いを\n一斉にするんだそうですよ		
+cev54_050.scr:2	cev54_050.scr	2	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		せいなるよる？		
+cev54_050.scr:3	cev54_050.scr	3	コレット	Colette Brunel	personagem	CRLF x2	うんとね、赤い帽子と\n白いひげのおじいさんが\n煙突からみんなの家に入って来るんだって		
+cev54_050.scr:4	cev54_050.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	まぁ！\n不法侵入ではありませんか！		
+cev54_050.scr:5	cev54_050.scr	5	エステル	Estelle	personagem	CRLF x2	でも、いいおじいさんなんですよ。\n子ども達の為に、プレゼントを\n置いていってくれるんです		
+cev54_050.scr:6	cev54_050.scr	6	コレット	Colette Brunel	personagem	CRLF x1	うん。\n靴下の中に入れてくれるんだよね		
+cev54_050.scr:7	cev54_050.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	靴下の中……？\nいささか不衛生な気もしますが……		
+cev54_050.scr:8	cev54_050.scr	8	エステル	Estelle	personagem	CRLF x1	あっ、靴下は\n新しい物を用意するんですよ		
+cev54_050.scr:9	cev54_050.scr	9	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	そ……それくらい。\nもちろん、私もわかっていますわ		
+cev54_050.scr:10	cev54_050.scr	10	コレット	Colette Brunel	personagem	CRLF x1	いいなぁ、「聖なる夜」……。\n私の所にも、おじいさん来ないかなぁ		
+cev54_050.scr:11	cev54_050.scr	11	エステル	Estelle	personagem	CRLF x1	きっと来てくれますよ。\nいい子にしていれば、大丈夫です		
+cev54_050.scr:12	cev54_050.scr	12	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		…………		
+cev54_060.scr:0	cev54_060.scr	0	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	まあ、ウッドロウ！\nウッドロウではありませんか！		
+cev54_060.scr:1	cev54_060.scr	1	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ナタリア君。\n久しぶりだな		
+cev54_060.scr:2	cev54_060.scr	2	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	まさか、この様な場所で\nあなたにお会い出来るとは……\n思ってもいませんでしたわ		
+cev54_060.scr:3	cev54_060.scr	3	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	私もだよ。\nアンジュ君から君達の話を聞いた時は、\n驚いた		
+cev54_060.scr:4	cev54_060.scr	4	ウッドロウ	Woodrow Kelvin	personagem		数奇な偶然もあるものだとね		
+cev54_060.scr:5	cev54_060.scr	5	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		ええ。　全く……		
+cev54_060.scr:6	cev54_060.scr	6	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	とは言え、ここでは私も\n民の為に力を尽くしたいと願う、\n一人の人間に過ぎない		
+cev54_060.scr:7	cev54_060.scr	7	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	ここで過ごす間は、どうか畏まらず、\n皆と同じ様に接しては\nもらえないだろうか		
+cev54_060.scr:8	cev54_060.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	それは、私からも\nぜひお願いしたいと思っていました		
+cev54_060.scr:9	cev54_060.scr	9	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	このギルドの方々は、\n王族であるからと言って\n私達を特別扱いしたりは致しません		
+cev54_060.scr:10	cev54_060.scr	10	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	ですが、王族同士で固い会話をしていては\n皆さんも、心中あまり穏やかでは\nいられないと思いますもの		
+cev54_060.scr:11	cev54_060.scr	11	ウッドロウ	Woodrow Kelvin	personagem		それはそうだな		
+cev54_060.scr:12	cev54_060.scr	12	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ここには、ガルバンゾの姫君も\nいらっしゃると聞いている		
+cev54_060.scr:13	cev54_060.scr	13	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	図らずも、各国の要人が集結しているのだ。\nそれこそ、首脳会談を開いていても\nおかしくはないのだからね		
+cev54_060.scr:14	cev54_060.scr	14	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	違いませんわね。\nふふ、そのアイデアも\nなかなか面白いと思いますけれど		
+cev54_060.scr:15	cev54_060.scr	15	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	……ひとまず、改めて\nこれからもギルドの一員として\nよろしくお願い致しますわね		
+cev54_060.scr:16	cev54_060.scr	16	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ああ。\nこちらこそ、よろしく頼む		
+cev54_070.scr:0	cev54_070.scr	0	ノーマ	Norma Beatty	personagem	CRLF x1	はいは〜い。\nここでクイズです〜		
+cev54_070.scr:1	cev54_070.scr	1	ノーマ	Norma Beatty	personagem	CRLF x1	パンはパンでも食べられないパンは、\n何でしょうか〜？		
+cev54_070.scr:2	cev54_070.scr	2	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	それなら、知っていますわ。\n答えは「フライパン」ですわよね		
+cev54_070.scr:3	cev54_070.scr	3	リフィル	Raine Sage	personagem	CRLF x1	あら、そんな簡単な答えなら\nわざわざクイズに出さないでしょう		
+cev54_070.scr:4	cev54_070.scr	4	リフィル	Raine Sage	personagem	CRLF x1	正解は裏をかいて\n「腐ったパン」とか？		
+cev54_070.scr:5	cev54_070.scr	5	アーチェ	Arche Klein	personagem		ちっちっちっ〜〜〜		
+cev54_070.scr:6	cev54_070.scr	6	アーチェ	Arche Klein	personagem		これは、大定番「短パン」でしょ？		
+cev54_070.scr:7	cev54_070.scr	7	ノーマ	Norma Beatty	personagem	CRLF x1	語尾にパンパン付ける、\nうるさい奴ってのが正解なんだけどね		
+cev54_070.scr:8	cev54_070.scr	8	ノーマ	Norma Beatty	personagem		ま、盛り上がったからいっか！		
+cev54_200.scr:0	cev54_200.scr	0	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	通常。\n		
+cev54_200.scr:1	cev54_200.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:2	cev54_200.scr	2	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	笑い。\n		
+cev54_200.scr:3	cev54_200.scr	3	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:4	cev54_200.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	怒り。\n		
+cev54_200.scr:5	cev54_200.scr	5	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:6	cev54_200.scr	6	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	悲しみ。\n		
+cev54_200.scr:7	cev54_200.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:8	cev54_200.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	驚き。\n		
+cev54_200.scr:9	cev54_200.scr	9	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:10	cev54_200.scr	10	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	困惑。\n		
+cev54_200.scr:11	cev54_200.scr	11	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:12	cev54_200.scr	12	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	照れ。\n		
+cev54_200.scr:13	cev54_200.scr	13	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:14	cev54_200.scr	14	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	通常。\n		
+cev54_200.scr:15	cev54_200.scr	15	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:16	cev54_200.scr	16	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	笑い。\n		
+cev54_200.scr:17	cev54_200.scr	17	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:18	cev54_200.scr	18	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	怒り。\n		
+cev54_200.scr:19	cev54_200.scr	19	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:20	cev54_200.scr	20	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	悲しみ。\n		
+cev54_200.scr:21	cev54_200.scr	21	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:22	cev54_200.scr	22	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	驚き。\n		
+cev54_200.scr:23	cev54_200.scr	23	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:24	cev54_200.scr	24	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	困惑。\n		
+cev54_200.scr:25	cev54_200.scr	25	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:26	cev54_200.scr	26	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	照れ。\n		
+cev54_200.scr:27	cev54_200.scr	27	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:28	cev54_200.scr	28	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	通常。\n		
+cev54_200.scr:29	cev54_200.scr	29	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:30	cev54_200.scr	30	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	笑い。\n		
+cev54_200.scr:31	cev54_200.scr	31	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:32	cev54_200.scr	32	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	怒り。\n		
+cev54_200.scr:33	cev54_200.scr	33	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:34	cev54_200.scr	34	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	悲しみ。\n		
+cev54_200.scr:35	cev54_200.scr	35	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:36	cev54_200.scr	36	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	驚き。\n		
+cev54_200.scr:37	cev54_200.scr	37	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:38	cev54_200.scr	38	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	困惑。\n		
+cev54_200.scr:39	cev54_200.scr	39	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev54_200.scr:40	cev54_200.scr	40	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	照れ。\n		
+cev54_200.scr:41	cev54_200.scr	41	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

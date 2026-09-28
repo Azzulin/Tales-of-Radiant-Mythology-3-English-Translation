@@ -1,0 +1,238 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev18_010.scr:0	mev18_010.scr	0	アンジュ	Ange Serena	personagem		この仕事を受けるのね	You'll take this job, then?	
+mev18_010.scr:1	mev18_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	ハードな仕事は、みんなあなたが\n引き受けちゃうから、\n無理してないか心配になっちゃうな	You take on all the tough jobs,\nso I can't help worrying\nwhether you're overdoing it.	
+mev18_010.scr:2	mev18_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	ディセンダーは、恐れや不可能も\n無理も知らないってわけじゃないよね	It's not as if Descenders know no fear,\nimpossibility, or reckless strain.	
+mev18_010.scr:3	mev18_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	ん、ちょっと心配だっただけ。\n無理をしてないなら、いいの	Mm, I was just a little concerned.\nAs long as you aren't overdoing it.	
+mev18_010.scr:4	mev18_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	そう。\nだったら応援するよ	I see.\nThen I'll cheer you on!	
+mev18_010.scr:5	mev18_010.scr	5	アンジュ	Ange Serena	personagem		ちょっと、心配だけど…	Though I do worry a bit...	
+mev18_010.scr:6	mev18_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	じゃ、気持ちを切り替えて\n依頼の説明をするね	Now, let's switch gears and go over\nthe request details.	
+mev18_010.scr:7	mev18_010.scr	7	アンジュ	Ange Serena	personagem	CRLF x2	今回行ってもらうのは、カダイフ砂漠。\nそこに生きる「風来草」という植物の\nドクメントを採取してきて欲しいの	This time, head to the Kadaif Desert.\nI want you to collect the Document\nof a plant named the Wanderer Herb.	
+mev18_010.scr:8	mev18_010.scr	8	アンジュ	Ange Serena	personagem		同行者は、スタン君とロニさんよ	Accompanying you are Stahn and Loni.	
+mev18_010.scr:9	mev18_010.scr	9	アンジュ	Ange Serena	personagem		それじゃ、気を付けて行ってらっしゃい	Well then, take care on your way.	
+mev18_010.scr:10	mev18_010.scr	10	(opcao do jogador)	(opcao do jogador)	escolha		無理はしていない、と言う	Say that you are not pushing yourself	
+mev18_010.scr:11	mev18_010.scr	11	(opcao do jogador)	(opcao do jogador)	escolha		やりたい事をやってるだけ、と言う	Say you are just doing what you want	
+mev18_020.scr:0	mev18_020.scr	0	スタン	Stahn Aileron	personagem	CRLF x2	あっ！\nあの転がってるのが\n風来草じゃないか？	Ah!\nIsn't that rolling thing\nthe Wanderer Herb?!	
+mev18_020.scr:1	mev18_020.scr	1	スタン	Stahn Aileron	personagem	CRLF x1	こんな所で見つけられるなんて、\n意外と楽な仕事だったな	Finding it in a place like this,\nthis was an easier job than I thought!	
+mev18_020.scr:2	mev18_020.scr	2	ロニ	Loni Dunamis	personagem	CRLF x2	スタンさん。\n必ず地面から生えている状態の奴しか\nダメって資料に書いてありますよ	Stahn.\nThe notes said only specimens still\nrooted in the ground will work.	
+mev18_020.scr:3	mev18_020.scr	3	スタン	Stahn Aileron	personagem	CRLF x1	何だ…。\n結局、奥まで行かなきゃなんないのか	Aw, man...\nGuess we have to go deeper in after all.	
+mev18_020.scr:4	mev18_020.scr	4	スタン	Stahn Aileron	personagem		転がっていたのは、枯れた奴なのかな	Was that rolling one a dead specimen?	
+mev18_020.scr:5	mev18_020.scr	5	ロニ	Loni Dunamis	personagem	CRLF x2	成長したら、あんな風に茎から切り離して\n転がりながら種を撒くって\n書いてありました	It said once mature, it breaks off its\nstem like that and scatters seeds\nas it rolls along.	
+mev18_020.scr:6	mev18_020.scr	6	スタン	Stahn Aileron	personagem	CRLF x1	ふーん、あれもツリガネトンボ草の\n進化種なんだよな	Hmm, so that too is an evolved\nspecies of Bell Dragonfly Herb.	
+mev18_020.scr:7	mev18_020.scr	7	ロニ	Loni Dunamis	personagem		………………	............	
+mev18_020.scr:8	mev18_020.scr	8	ロニ	Loni Dunamis	personagem	CRLF x2	（この世界のスタンさんは、\n　まだ英雄になっていない…。\n　少なくとも、そうは呼ばれていない）	(The Stahn of this world hasn't become\na hero yet... At least, no one calls\nhim that yet.)	
+mev18_020.scr:9	mev18_020.scr	9	ロニ	Loni Dunamis	personagem	CRLF x2	（俺の世界では…、\n　英雄として名を残した事が原因で、\n　バルバトスに狙われた）	(In my world... having his name etched\nas a hero was the exact reason\nBarbatos targeted him.)	
+mev18_020.scr:10	mev18_020.scr	10	ロニ	Loni Dunamis	personagem	CRLF x1	（そして、今バルバトスもこの世界に\n　飛ばされている…）	(And right now, Barbatos has been\nthrown into this world as well...)	
+mev18_020.scr:11	mev18_020.scr	11	ロニ	Loni Dunamis	personagem	CRLF x2	（もし、スタンさんが英雄と呼ばれる様に\n　なったら…？\n　バルバトスに襲われるのか…）	(If Stahn ends up being hailed\nas a hero...? Will Barbatos\ncome after him...?)	
+mev18_020.scr:12	mev18_020.scr	12	ロニ	Loni Dunamis	personagem	CRLF x2	（そして、スタンさんやルーティさんに\n　何かあったら、この世界にカイルは\n　生まれないのか…？）	(And if something happens to Stahn\nor Rutee, will Kyle never be born\ninto this world...?)	
+mev18_020.scr:13	mev18_020.scr	13	スタン	Stahn Aileron	personagem	CRLF x1	どうしたんだ、ロニ。\n腹でも痛いのか？	What's wrong, Loni?\nDoes your stomach hurt or something?	
+mev18_020.scr:14	mev18_020.scr	14	ロニ	Loni Dunamis	personagem		えっ…、	Eh...?	
+mev18_020.scr:15	mev18_020.scr	15	ロニ	Loni Dunamis	personagem	CRLF x1	えええええ、いやいやいやいやいや。\n何にも、どこもございませんっ！	Eeeeeh, nonononono!\nNothing, not a single thing is wrong!	
+mev18_020.scr:16	mev18_020.scr	16	ロニ	Loni Dunamis	personagem	CRLF x2	さーあ、風来草を探しに行きましょう。\nスタンさん、ここは俺が守りますから\n長生きして下さいよ！	Noww, let's go search for that herb!\nI'll protect you here, Stahn,\nso make sure you live a long life!	
+mev18_020.scr:17	mev18_020.scr	17	スタン	Stahn Aileron	personagem	CRLF x2	ええっ？\n俺、ロニより年下なのに\n何でそんな心配されなきゃなんないんだよ！	Eeeh?! I'm younger than you, Loni!\nWhy in the world are you worrying\nabout that for me?!	
+mev18_025.scr:0	mev18_025.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	こっちの道って行けねぇのかな？\nなーんか、この先が気になるんだよな	Can we not take this path?\nSomething about what's ahead bugs me.	
+mev18_025.scr:1	mev18_025.scr	1	スタン	Stahn Aileron	personagem	CRLF x2	無理だよ。\nこんな大きな岩、\nそう簡単に動かせるわけが…	No way.\nThere's no way a boulder this huge\ncould be moved so easily...	
+mev18_025.scr:2	mev18_025.scr	2	スタン	Stahn Aileron	personagem		動いた…	It moved...	
+mev18_025.scr:3	mev18_025.scr	3	ロニ	Loni Dunamis	personagem	CRLF x1	（もしや英雄の力か…？\n　ま、まさか、な）	(Could this be the power of a hero...?\nN-No way, right?)	
+mev18_025.scr:4	mev18_025.scr	4	ロニ	Loni Dunamis	personagem	CRLF x1	スタンさんっ、すげえ！\nすげえよ！！	Stahn, that's amazing!\nFreaking incredible!!	
+mev18_025.scr:5	mev18_025.scr	5	スタン	Stahn Aileron	personagem		え、あ？	Eh, huh?	
+mev18_025.scr:6	mev18_025.scr	6	スタン	Stahn Aileron	personagem	CRLF x1	いや、今のはたまたまだよ。\nたまたま	No, that was just a fluke.\nA total fluke!	
+mev18_025.scr:7	mev18_025.scr	7	ロニ	Loni Dunamis	personagem	CRLF x1	よっし、向こうへの道も開けたし\n早速こっちへ行くとしようか！	Alright! The path over there is open,\nso let's head right in!	
+mev18_030.scr:0	mev18_030.scr	0	(narracao)	(narracao)	narracao		一方　その頃…	Meanwhile, around that time...	
+mev18_030.scr:1	mev18_030.scr	1	ラザリス	Lazaris	personagem		ヒトの争いの火が消えた	The flames of human strife have died out.	
+mev18_030.scr:2	mev18_030.scr	2	ラザリス	Lazaris	personagem	CRLF x2	そうか…。\nこの世界のヒトにとって、\n敵が僕に代わったんだね	I see...\nFor the humans of this world,\nI have become their sole enemy.	
+mev18_030.scr:3	mev18_030.scr	3	ラザリス	Lazaris	personagem		苦しいかい…	Is it painful...?	
+mev18_030.scr:4	mev18_030.scr	4	ラザリス	Lazaris	personagem	CRLF x1	僕の世界とルミナシアは、\n土壌も大気も理が違うんだ	My world and Luminasia possess\ndifferent laws for soil and air alike.	
+mev18_030.scr:5	mev18_030.scr	5	ラザリス	Lazaris	personagem	CRLF x1	早く、君達が生きていける様に、\nこの世界の理を塗り替えてあげる	So that you can quickly survive,\nI will rewrite this world's laws for you.	
+mev18_030.scr:6	mev18_030.scr	6	ラザリス	Lazaris	personagem		生きたいよね…	You want to live, don't you...?	
+mev18_035.scr:0	mev18_035.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	スタンさん…、とルーティさんは、\nなぜアドリビトムへ入ったんですか？	Stahn... why did you and Rutee\njoin Ad Libitum?	
+mev18_035.scr:1	mev18_035.scr	1	スタン	Stahn Aileron	personagem	CRLF x1	フィリアが世界中の人を手助けする\n仕事があるって教えてくれてさ	Philia told us there was work helping\npeople all over the world.	
+mev18_035.scr:2	mev18_035.scr	2	スタン	Stahn Aileron	personagem	CRLF x1	それで、俺達も手伝おうって\nルーティとアドリビトムへ入ったんだ	So Rutee and I joined Ad Libitum\nto lend our help too.	
+mev18_035.scr:3	mev18_035.scr	3	ロニ	Loni Dunamis	personagem		（英雄の一人である、フィリアさんからか…）	(From Philia, one of the heroes, huh...?)	
+mev18_035.scr:4	mev18_035.scr	4	ロニ	Loni Dunamis	personagem	CRLF x1	（けど、フィリアさんもまだ、\n　この世界では英雄になってないな）	(Though Philia hasn't become a hero\nin this world yet either.)	
+mev18_035.scr:5	mev18_035.scr	5	スタン	Stahn Aileron	personagem	CRLF x1	戦争で親を失った子ども達の為に、\n俺がしてあげられる事をしたいんだ	For kids who lost their parents to war,\nI want to do whatever I can for them.	
+mev18_035.scr:6	mev18_035.scr	6	スタン	Stahn Aileron	personagem	CRLF x1	その為の資金も稼がなきゃって、\nルーティが言うしさ	And Rutee said we have to earn\nthe funds for that, too.	
+mev18_035.scr:7	mev18_035.scr	7	ロニ	Loni Dunamis	personagem		………	.........	
+mev18_035.scr:8	mev18_035.scr	8	ロニ	Loni Dunamis	personagem	CRLF x1	ええと、孤児院とかですよね…。\n…その、孤児院の…名前は？	Er, an orphanage, right...?\n...What is... that orphanage's... name?	
+mev18_035.scr:9	mev18_035.scr	9	スタン	Stahn Aileron	personagem		はは、そこまではまだ決めてないよ	Haha, I haven't decided that far ahead.	
+mev18_035.scr:10	mev18_035.scr	10	スタン	Stahn Aileron	personagem	CRLF x2	ただ俺は、困ってる人を助けて、\n子ども達が、明るく元気に育って\nいってくれたらなって思うんだ	I just want to help folks in need\nand hope the children grow up\nbright, healthy, and cheerful.	
+mev18_035.scr:11	mev18_035.scr	11	ロニ	Loni Dunamis	personagem	CRLF x2	…カイルのヤツも、\n困ってる人を放って置けない\n性分なんだよな	...That Kyle, too,\ncan never leave people in trouble alone.\nIt's just in his nature.	
+mev18_035.scr:12	mev18_035.scr	12	スタン	Stahn Aileron	personagem	CRLF x1	うん。\nカイルは、優しい子だよ	Yeah.\nKyle is a truly kind kid.	
+mev18_035.scr:13	mev18_035.scr	13	スタン	Stahn Aileron	personagem	CRLF x1	あんな風に、子どもがまっすぐ育つ\n場所にしたいよな	I want to make it a place where kids\ncan grow up honest and true like that.	
+mev18_035.scr:14	mev18_035.scr	14	ロニ	Loni Dunamis	personagem	CRLF x1	はい！\nスタンさんならきっと出来ます！	Yes!\nI know you can do it, Stahn!	
+mev18_040.scr:0	mev18_040.scr	0	スタン	Stahn Aileron	personagem		ここは、割と緑があるな	There's quite a bit of greenery here.	
+mev18_040.scr:1	mev18_040.scr	1	ロニ	Loni Dunamis	personagem	CRLF x1	はて？\nこの先に水場があったっけな？	Huh?\nWas there a waterhole ahead?	
+mev18_040.scr:2	mev18_040.scr	2	ロニ	Loni Dunamis	personagem		それとも地下水でもあるとか…	Or maybe there's groundwater...	
+mev18_040.scr:3	mev18_040.scr	3	スタン	Stahn Aileron	personagem	CRLF x1	じゃあ、風来草も\nこの先にあるかもしれないな！	Then the Wanderer Herb\nmight be just up ahead!	
+mev18_040.scr:4	mev18_040.scr	4	スタン	Stahn Aileron	personagem	CRLF x1	けど、この先に何かあるのかな？\nニオイ、じゃないな	Still, is there something ahead?\nIt's not... a smell.	
+mev18_040.scr:5	mev18_040.scr	5	スタン	Stahn Aileron	personagem		妙な空気を感じないか？	Don't you feel something odd in the air?	
+mev18_040.scr:6	mev18_040.scr	6	ロニ	Loni Dunamis	personagem	CRLF x1	この先、ヤバイのでも\n待ち構えていそうですね…	Feels like something dangerous\nis lying in wait up ahead...	
+mev18_040.scr:7	mev18_040.scr	7	ロニ	Loni Dunamis	personagem	CRLF x2	じゃあ、スタンさん、\nあとは俺と○○で行くので\n待ってて下さい	Alright, Stahn,\n○○ and I will go on ahead,\nso please wait here.	
+mev18_040.scr:8	mev18_040.scr	8	スタン	Stahn Aileron	personagem	CRLF x1	えっ！\nな、何でだよ	Eh?!\nW-Why's that?!	
+mev18_040.scr:9	mev18_040.scr	9	ロニ	Loni Dunamis	personagem	CRLF x1	危ない目に遭ってもらっては\n困るんです	I can't have you\nrunning into danger!	
+mev18_040.scr:10	mev18_040.scr	10	ロニ	Loni Dunamis	personagem		頼みます…！！	I'm begging you...!!	
+mev18_040.scr:11	mev18_040.scr	11	スタン	Stahn Aileron	personagem		それは、みんな同じだろ？	Isn't that true for everyone?	
+mev18_040.scr:12	mev18_040.scr	12	スタン	Stahn Aileron	personagem	CRLF x1	仕事を無事に終わらせる為に、\nこの三人で行けって言われてるんじゃないか	We were told to go as a trio\nto finish the job safely, weren't we?	
+mev18_040.scr:13	mev18_040.scr	13	ロニ	Loni Dunamis	personagem	CRLF x1	あなたには…、スタンさんには\n英雄になってもらいたいからです	Because for you... Stahn, I want you\nto become a hero!	
+mev18_040.scr:14	mev18_040.scr	14	スタン	Stahn Aileron	personagem	CRLF x1	え、英雄……？\n俺が？	A... hero...?\nMe?	
+mev18_040.scr:15	mev18_040.scr	15	ロニ	Loni Dunamis	personagem	CRLF x1	（いけね…！\n　未来の事を話すのはダメだったんだ！）	(Crap...! I wasn't supposed to\ntalk about the future!)	
+mev18_040.scr:16	mev18_040.scr	16	ロニ	Loni Dunamis	personagem	CRLF x1	と、とにかく長生きして、結婚して、\n子どもも欲しいでしょうし…！	A-Anyway, you want to live a long life,\nget married, and have kids, right...?!	
+mev18_040.scr:17	mev18_040.scr	17	スタン	Stahn Aileron	personagem		そ、そんな先の事は考えてないよ	I-I'm not thinking that far ahead!	
+mev18_040.scr:18	mev18_040.scr	18	ロニ	Loni Dunamis	personagem	CRLF x1	いやっ…！！\nそこはもう考えていただかないと！	No way...!!\nYou've gotta start thinking about it now!	
+mev18_040.scr:19	mev18_040.scr	19	ロニ	Loni Dunamis	personagem		とにかく、ここで待ってて下さい！	Just wait here, please!	
+mev18_040.scr:20	mev18_040.scr	20	スタン	Stahn Aileron	personagem	CRLF x1	ロニが何を心配してくれてるのか\nわからないけどさ…	I don't know what you're worrying\nabout so much, Loni, but...	
+mev18_040.scr:21	mev18_040.scr	21	スタン	Stahn Aileron	personagem	CRLF x1	英雄にならなきゃいけないのなら、\n危機に立ち向かっていく力が必要だろ？	If I have to become a hero, I'll need\nthe strength to confront crises, won't I?	
+mev18_040.scr:22	mev18_040.scr	22	ロニ	Loni Dunamis	personagem		う…………	Ugh............	
+mev18_040.scr:23	mev18_040.scr	23	ロニ	Loni Dunamis	personagem		そ、…そうだな…	Th-... that's true...	
+mev18_040.scr:24	mev18_040.scr	24	スタン	Stahn Aileron	personagem	CRLF x1	俺は英雄になる為に、\nこの仕事をしてるわけじゃないけどさ…	I'm not doing this job just to become\na hero, though...	
+mev18_040.scr:25	mev18_040.scr	25	ロニ	Loni Dunamis	personagem	CRLF x1	よっし、わかりました！\nだったら、徹底してお助けします！！	Alright, I hear ya!\nThen I'll back you up to the bitter end!!	
+mev18_040.scr:26	mev18_040.scr	26	スタン	Stahn Aileron	personagem	CRLF x1	ハハ…、よくわかんないけど、\nよろしく頼むよ	Haha... I don't really get it,\nbut I'm counting on you!	
+mev18_050.scr:0	mev18_050.scr	0	スタン	Stahn Aileron	personagem		…ッ！	...Gh!	
+mev18_050.scr:1	mev18_050.scr	1	スタン	Stahn Aileron	personagem	CRLF x1	何だ、ここ…は。\n目が痛む…	What is this... place?\nMy eyes sting...	
+mev18_050.scr:2	mev18_050.scr	2	ロニ	Loni Dunamis	personagem		喉にも刺激が…	My throat is burning too...	
+mev18_050.scr:3	mev18_050.scr	3	ロニ	Loni Dunamis	personagem	CRLF x1	ん？\n向こうに何かいるぞ！？	Hm?\nSomething's over there?!	
+mev18_060.scr:0	mev18_060.scr	0	ラザリス	Lazaris	personagem	CRLF x1	ディセンダー…。\n招かざる客が来てくれたね	Descender...\nAn uninvited guest has arrived.	
+mev18_060.scr:1	mev18_060.scr	1	ロニ	Loni Dunamis	personagem	CRLF x1	ここの空気は、どうしちまってんだ？\nさっきより、ひでぇ	What's the deal with the air here?\nIt's even worse than before!	
+mev18_060.scr:2	mev18_060.scr	2	ラザリス	Lazaris	personagem	CRLF x1	ここの空気は僕の世界のもの。\n君達ルミナシアの民が居る場所じゃない	This air belongs to my world.\nIt is no place for people of Luminasia.	
+mev18_060.scr:3	mev18_060.scr	3	ラザリス	Lazaris	personagem		あまりここに居ると、命に関わるよ	Linger here too long, and it'll cost you.	
+mev18_060.scr:4	mev18_060.scr	4	スタン	Stahn Aileron	personagem	CRLF x1	ラザリス…。\nここはお前が侵食したのか？	Lazaris...\nDid you erode this place?	
+mev18_060.scr:5	mev18_060.scr	5	ラザリス	Lazaris	personagem	CRLF x1	そうだよ。\n僕の世界の住人に、快適な環境が必要なんだ	That's right. The citizens of my world\nneed a comfortable environment.	
+mev18_060.scr:6	mev18_060.scr	6	スタン	Stahn Aileron	personagem		まさか、そこにいる生物は…	Don't tell me... the creature there is...	
+mev18_060.scr:7	mev18_060.scr	7	ラザリス	Lazaris	personagem	CRLF x2	僕が生み出した。\n君達の世界にとって変わる新しい世界、\nジルディアの民だ	I created them.\nA citizen of Zirdia, the new world\nthat shall supplant your own.	
+mev18_060.scr:8	mev18_060.scr	8	ラザリス	Lazaris	personagem	CRLF x1	手前の彼は、元は君達の世界のヒトだった。\nでも、今は僕の世界の住人さ	The one before you was once human from\nyour world. But now he lives in mine.	
+mev18_060.scr:9	mev18_060.scr	9	ロニ	Loni Dunamis	personagem		何…だと！？	What... did you say?!	
+mev18_060.scr:10	mev18_060.scr	10	ロニ	Loni Dunamis	personagem	CRLF x2	元に戻しやがれ！！\nこの世界をお前なんかに\n渡してたまるか！	Turn him back right now!!\nLike hell we'll ever hand this world\nover to someone like you!	
+mev18_060.scr:11	mev18_060.scr	11	ロニ	Loni Dunamis	personagem	CRLF x1	おい、○○！\nお前の力で戻せるんだろう？	Hey, ○○!\nCan't you restore him with your power?!	
+mev18_060.scr:12	mev18_060.scr	12	ロニ	Loni Dunamis	personagem		ヒトの姿に戻してやってくれ！！	Turn him back into a human!!	
+mev18_060.scr:13	mev18_060.scr	13	スタン	Stahn Aileron	personagem	CRLF x1	拒んでるのか？\nどうしてだよ…	Is he rejecting it?\nWhy...?	
+mev18_060.scr:14	mev18_060.scr	14	ラザリス	Lazaris	personagem	CRLF x1	何も知らないくせに、\nとんでもないエゴを吐くんだね	Knowing nothing at all, you spout\nsuch outrageous, selfish ego.	
+mev18_060.scr:15	mev18_060.scr	15	ラザリス	Lazaris	personagem		彼が、僕と共に生きたいと願ったんだ	He wished to live alongside me.	
+mev18_060.scr:16	mev18_060.scr	16	ロニ	Loni Dunamis	personagem		何だと…	What did you say...?	
+mev18_060.scr:17	mev18_060.scr	17	ラザリス	Lazaris	personagem	CRLF x2	君達の世界では、ヒトがヒトを見捨てている。\n国が民衆を、親が子を、友が友を、\n隣人が隣人を…	In your world, humans abandon humans.\nNations abandon people, parents children,\nfriends, friends, neighbors, neighbors...	
+mev18_060.scr:18	mev18_060.scr	18	ラザリス	Lazaris	personagem	CRLF x1	ここにいるヒトだった者は、\n君達ルミナシアの民が見捨てたんだ！！	The former human standing here was\nabandoned by you people of Luminasia!!	
+mev18_060.scr:19	mev18_060.scr	19	ラザリス	Lazaris	personagem	CRLF x2	君達に返して、どうするのさ…。\n彼らに豊かさと、恐れのない未来を\n約束出来るのか！！	What good is returning him to you...?\nCan you promise them abundance and\na future free of fear?!	
+mev18_060.scr:20	mev18_060.scr	20	ラザリス	Lazaris	personagem	CRLF x2	こんなに大地が疲弊するまで、\n自らのエゴの為に戦い、\n生き物を殺し、奪い、捨てて！	Fighting for ego until the earth decays,\nslaughtering living things, plundering,\nand casting them aside!	
+mev18_060.scr:21	mev18_060.scr	21	スタン	Stahn Aileron	personagem	CRLF x2	ラザリス。\n生命の場はお前が手にしたところで、\n扱えるものじゃない！	Lazaris!\nEven if you obtained the Field of Life,\nit is not something you can handle!	
+mev18_060.scr:22	mev18_060.scr	22	スタン	Stahn Aileron	personagem	CRLF x2	精霊がそう言ってたんだ。\n生命の場を扱う事で、この世界も\nお前の世界も滅びるかもしれないんだぞ！	The Spirits said so! Wielding the Field\nof Life could destroy both this world\nand your world as well!	
+mev18_060.scr:23	mev18_060.scr	23	ラザリス	Lazaris	personagem	CRLF x1	じゃあ、諦めろって言うのか！\n僕に、このまま死ねと！！	Then are you telling me to give up?!\nTo just die like this?!	
+mev18_060.scr:24	mev18_060.scr	24	ラザリス	Lazaris	personagem	CRLF x2	生まれてしまった僕には、\n死ぬ運命しか残っていないと。\nそう言いたいんだね？	For having been born, is death\nthe only fate left for me?\nThat is what you wish to say, right?!	
+mev18_060.scr:25	mev18_060.scr	25	ラザリス	Lazaris	personagem	CRLF x1	じゃあ、こっちも死ぬ気で奪うよ。\n生命の場を	Then I'll seize it with my very life:\nthe Field of Life!	
+mev18_060.scr:26	mev18_060.scr	26	ラザリス	Lazaris	personagem	CRLF x2	死ぬかどうかなんて、\n僕にはどうでもいい。\n僕はやり尽くす事を選ぶ！	Whether I die means nothing to me.\nI choose to see this through\nto the bitter end!	
+mev18_060.scr:27	mev18_060.scr	27	ラザリス	Lazaris	personagem		生命の場は、僕のものだ	The Field of Life belongs to me.	
+mev18_060.scr:28	mev18_060.scr	28	ラザリス	Lazaris	personagem	CRLF x2	ディセンダー、君もね。\n僕と、僕の世界を守るディセンダーに\nなってくれよ	And you too, Descender.\nBecome the Descender who protects me\nand my world!	
+mev18_060.scr:29	mev18_060.scr	29	ラザリス	Lazaris	personagem		来ないかい、僕と一緒に	Won't you come with me?	
+mev18_060.scr:30	mev18_060.scr	30	ラザリス	Lazaris	personagem	CRLF x1	僕を消した所で、ルミナシアの世界の住人は\nまた争いを始めるんだよ？	Even if you erase me, the people\nof Luminasia will just wage war again!	
+mev18_060.scr:31	mev18_060.scr	31	ラザリス	Lazaris	personagem		わかりきってる事さ…	It's so glaringly obvious...	
+mev18_060.scr:32	mev18_060.scr	32	ラザリス	Lazaris	personagem		そうかい…	Is that so...	
+mev18_060.scr:33	mev18_060.scr	33	ラザリス	Lazaris	personagem	CRLF x1	でも、もう遅いよ…。\nバカだな…	Yet it's already too late...\nFools...	
+mev18_060.scr:34	mev18_060.scr	34	ロニ	Loni Dunamis	personagem		何だ、この地震は！！	What is this earthquake?!	
+mev18_060.scr:35	mev18_060.scr	35	スタン	Stahn Aileron	personagem		どうしたんだ、○○！	What's wrong, ○○?!	
+mev18_060.scr:36	mev18_060.scr	36	(opcao do jogador)	(opcao do jogador)	escolha		言葉に詰まる	At a loss for words	
+mev18_060.scr:37	mev18_060.scr	37	(opcao do jogador)	(opcao do jogador)	escolha		うつむく	Hang your head	
+mev18_065.scr:0	mev18_065.scr	0	ロニ	Loni Dunamis	personagem		あれは、風来草…	That's... the Wanderer Herb...	
+mev18_065.scr:1	mev18_065.scr	1	ロニ	Loni Dunamis	personagem		○○、お前…	○○, you...	
+mev18_065.scr:2	mev18_065.scr	2	ロニ	Loni Dunamis	personagem	CRLF x1	今ので、ひどく力を使ったんじゃないか？\n大丈夫なのかよ！？	Didn't that just drain your power?!\nAre you okay?!	
+mev18_065.scr:3	mev18_065.scr	3	スタン	Stahn Aileron	personagem	CRLF x1	俺も、ラザリスの気持ちは、\nわからないでもないよ	I don't completely fail to understand\nhow Lazaris feels, either.	
+mev18_065.scr:4	mev18_065.scr	4	スタン	Stahn Aileron	personagem	CRLF x1	でも、世界の全ての人を救えるかなんて、\nここで思い悩んでも仕方ないさ	Still, agonizing here over whether we can\nsave everyone in the world won't help.	
+mev18_065.scr:5	mev18_065.scr	5	スタン	Stahn Aileron	personagem		俺達は、俺達がすべき事をしよう	Let's just do what we must do.	
+mev18_065.scr:6	mev18_065.scr	6	ロニ	Loni Dunamis	personagem	CRLF x2	スタンさん。\n○○を\n休ませなければ…	Stahn.\nWe must let ○○\nrest at once...	
+mev18_065.scr:7	mev18_065.scr	7	ロニ	Loni Dunamis	personagem	CRLF x1	早く風来草のドクメントを採取して、\n船へ戻りましょう	Let's quickly take the Wanderer Herb's\nDocument and return to the ship.	
+mev18_065.scr:8	mev18_065.scr	8	スタン	Stahn Aileron	personagem		ああ	Yeah.	
+mev18_065.scr:9	mev18_065.scr	9	(opcao do jogador)	(opcao do jogador)	escolha		大丈夫だと返す	Say you are fine	
+mev18_065.scr:10	mev18_065.scr	10	(opcao do jogador)	(opcao do jogador)	escolha		黙っている	Stay silent	
+mev18_070.scr:0	mev18_070.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	戻ってすぐなのに、悪い知らせよ。\nジルディアのキバが、また増えたの…	I'm sorry right after your return,\nbut more Fangs of Zirdia appeared...	
+mev18_070.scr:1	mev18_070.scr	1	ロックス	Rocks	personagem	CRLF x1	ちょうど甲板で洗濯物を取り込んでいる時に、\n大地が震えている様子が見えたと思ったら…	Just as I was taking in laundry on deck,\nI saw the earth trembling, and then...	
+mev18_070.scr:2	mev18_070.scr	2	ロックス	Rocks	personagem		あのキバが二本、現れたんです	Two of those Fangs emerged.	
+mev18_070.scr:3	mev18_070.scr	3	ロニ	Loni Dunamis	personagem		さっきの地震は、そのせいだったのか	So that earthquake was because of them!	
+mev18_070.scr:4	mev18_070.scr	4	スタン	Stahn Aileron	personagem	CRLF x2	急がないと、\n侵食の速度はさらにスピードを\n上げるだろうな	If we don't hurry, the rate of erosion\nwill speed up\neven faster, won't it?	
+mev18_070.scr:5	mev18_070.scr	5	スタン	Stahn Aileron	personagem		どうにか出来ないのかな…	Can't we do something about it...?	
+mev18_070.scr:6	mev18_070.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	ディセンダーの能力でも、\nあのキバを消す事は出来ない	Even with a Descender's power,\nerasing those Fangs is impossible.	
+mev18_070.scr:7	mev18_070.scr	7	アンジュ	Ange Serena	personagem	CRLF x2	だったらもう、ラザリスを封印する事だけに\n集中していた方が、時間の無駄にはならない\nでしょ	Then focusing solely on sealing Lazaris\nwill avoid wasting precious time,\nwill it not?	
+mev18_070.scr:8	mev18_070.scr	8	スタン	Stahn Aileron	personagem		そうだな…	I suppose so...	
+mev18_070.scr:9	mev18_070.scr	9	アンジュ	Ange Serena	personagem	CRLF x2	でもね、今回の風来草でやっと、ツリガネ\nトンボ草のドクメントを構築出来るのよ。\n他は全て手に入ったから	With this Wanderer Herb, we can finally\npiece together the Bell Dragonfly Herb's\nDocument! All the rest is gathered!	
+mev18_070.scr:10	mev18_070.scr	10	アンジュ	Ange Serena	personagem	CRLF x1	残りはウズマキフスベだけだけど。\nそろそろ採取シーズンよね	Now only the Whirl Puffball remains,\nand its gathering season is soon upon us.	
+mev18_070.scr:11	mev18_070.scr	11	ロニ	Loni Dunamis	personagem	CRLF x1	運良く絶滅を逃れていたものがありゃあ\nいいんだけどな…	If only some lucky specimen survived\nextinction, that'd be great...	
+mev18_070.scr:12	mev18_070.scr	12	アンジュ	Ange Serena	personagem		それじゃあ、今回はご苦労様	Well then, thank you for your work today.	
+mev18_070.scr:13	mev18_070.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	採取した風来草のドクメントは\n研究室へ持って行ってね	Please take the Wanderer Herb's\nDocument to the laboratory.	
+mev18_080.scr:0	mev18_080.scr	0	リタ	Rita Mordio	personagem	CRLF x1	さーて、これでツリガネトンボ草の\nドクメントを構築出来るわ	Alright! With this, we can construct\nthe Bell Dragonfly Herb Document!	
+mev18_080.scr:1	mev18_080.scr	1	ミント	Mint Adenade	personagem	CRLF x1	風来草…。\n不思議な植物ですね	The Wanderer Herb...\nA wondrous plant, isn't it?	
+mev18_080.scr:2	mev18_080.scr	2	ミント	Mint Adenade	personagem	CRLF x2	ツリガネトンボ草の時と比べて、\n羽を退化させて、株ごと転がる事で、\n種子を蒔くなんて…	Compared to the Bell Dragonfly Herb,\nits wings atrophied, rolling whole\nto scatter its seeds like that...	
+mev18_080.scr:3	mev18_080.scr	3	ウィル	Will Raynard	personagem	CRLF x2	根は水を溜め込む為に\n地下八メートルを超える程伸びるらしい。\nだから、この植物の近くは緑が増えるそうだ	Its roots reach over eight meters deep\nto store water. That is why greenery\nflourishes near this plant.	
+mev18_080.scr:4	mev18_080.scr	4	ミント	Mint Adenade	personagem		根が伸びる事で、緑が増えるのですか？	Greenery thrives because roots extend?	
+mev18_080.scr:5	mev18_080.scr	5	ウィル	Will Raynard	personagem	CRLF x2	植物の根は水を吸収するだけではなく、\n放出もする。\nそうやって、他の植物に水を分け与えるんだ	Plant roots don't just absorb water;\nthey release it too, sharing moisture\nwith neighboring plants.	
+mev18_080.scr:6	mev18_080.scr	6	ミント	Mint Adenade	personagem	CRLF x2	世界樹のマナと同じですね。\n取り込みもするし、放出もする。\nそうやってマナは循環していきますから	Just like the World Tree's mana.\nIt absorbs and releases,\ncirculating mana through the world.	
+mev18_080.scr:7	mev18_080.scr	7	ウィル	Will Raynard	personagem	CRLF x1	風来草は、砂漠の他の植物達には\nなくてはならないもの	The Wanderer Herb is indispensable\nto other plants in the desert.	
+mev18_080.scr:8	mev18_080.scr	8	ウィル	Will Raynard	personagem	CRLF x1	砂漠の生き物と、\n調和する為に進化したのだな	It evolved to live in harmony\nwith desert life.	
+mev18_080.scr:9	mev18_080.scr	9	ウィル	Will Raynard	personagem	CRLF x1	これらの生物は、単体で生きている\nわけではない	These living creatures\ndo not exist in isolation.	
+mev18_080.scr:10	mev18_080.scr	10	ウィル	Will Raynard	personagem	CRLF x1	周りの自然の中で、「生かされている」\n生き物なわけだ	They are sustained and kept alive\nby the nature around them.	
+mev18_080.scr:11	mev18_080.scr	11	ミント	Mint Adenade	personagem	CRLF x2	ヒトもそうですね。\nでも、ヒトはその事を忘れ、\n自分独りで生きていると思っています	Humans are the same.\nYet people forget this, believing\nthey live entirely on their own.	
+mev18_080.scr:12	mev18_080.scr	12	ミント	Mint Adenade	personagem	CRLF x2	人間の大きな過ちとは、\nお互いを全く意識せずにそれぞれの人生を\n生きていると思いこんでいる事…	Mankind's great mistake is presuming\nwe live our lives entirely oblivious\nto one another...	
+mev18_080.scr:13	mev18_080.scr	13	ミント	Mint Adenade	personagem	CRLF x2	自然の在り方の様に、\n調和していける事を知らず、\n心の飢餓に苦しんでいます…	Ignorant of harmony found in nature,\nthey suffer from starvation\nof the heart...	
+mev18_080.scr:14	mev18_080.scr	14	ウィル	Will Raynard	personagem	CRLF x2	ヒトだけの間ではない。\nその教えに気付かせてくれる自然との繋がりも\n切り離されている	Not just among humans.\nConnections to nature that grant insight\nhave been severed as well.	
+mev18_080.scr:15	mev18_080.scr	15	ウィル	Will Raynard	personagem	CRLF x1	挙句、ヒトは最高の教師である自然を\n壊しているのだからな…	In the end, humans destroy nature,\ntheir greatest teacher...	
+mev18_090.scr:0	mev18_090.scr	0	ニアタ	Niata Monad	personagem	CRLF x2	この世界にあるもう一つの世界、\nジルディア。\nラザリスの世界の理か…	Zirdia, another world in this one.\nThe laws of\nLazaris's world, huh...?	
+mev18_090.scr:1	mev18_090.scr	1	カノンノ	Kanonno Grassvalley	personagem		何か、気になるの？	Is something bothering you?	
+mev18_090.scr:2	mev18_090.scr	2	ニアタ	Niata Monad	personagem		ああ…	Yeah...	
+mev18_090.scr:3	mev18_090.scr	3	ニアタ	Niata Monad	personagem	CRLF x2	当時のルミナシアの世界樹が、\nラザリスの世界を取り込んだ時の異変は\n本当に凄まじかった	Back then, when Luminasia's World Tree\nabsorbed Lazaris's world, the anomaly\nwas truly terrifying.	
+mev18_090.scr:4	mev18_090.scr	4	ニアタ	Niata Monad	personagem	CRLF x2	何と形容していいかわからぬ。\nこの世界がめくり返る様な…、\n互いの情報がねじれかえる程の異変だ	Words fail to describe it.\nAs if the world was flipped inside out...\nmutual data twisted upon itself.	
+mev18_090.scr:5	mev18_090.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	まず、あのまま封印出来ていなければ、\n世界としての存在はありえなかっただろう	Had we failed to seal it back then,\nour existence would have been impossible.	
+mev18_090.scr:6	mev18_090.scr	6	カノンノ	Kanonno Grassvalley	personagem		そんなに…	That bad...?	
+mev18_090.scr:7	mev18_090.scr	7	ニアタ	Niata Monad	personagem	CRLF x1	本来なら、封印が解けた時点で、\n当時の異変がそのまま起きていたはず	Ordinarily, when the seal broke,\nthat same anomaly should have occurred.	
+mev18_090.scr:8	mev18_090.scr	8	ニアタ	Niata Monad	personagem		だが、…そこまでの異変は起きていない	Yet... an anomaly of that scale has not.	
+mev18_090.scr:9	mev18_090.scr	9	ニアタ	Niata Monad	personagem	CRLF x2	ルミナシアの世界樹が当時に比べ、\n安定を保つ様になったからか…。\nそれとも…	Has Luminasia's World Tree gained\nmore stability compared to before...?\nOr perhaps...	
+mev18_090.scr:10	mev18_090.scr	10	ニアタ	Niata Monad	personagem		……………………	................	
+mev18_090.scr:11	mev18_090.scr	11	ニアタ	Niata Monad	personagem	CRLF x2	何にせよ、ルミナシアの世界樹は\nラザリスの世界ジルディアを取り込んだ。\nその真意は、…一体何なのだろうな	Regardless, Luminasia's World Tree\nabsorbed Lazaris's world of Zirdia.\nWhat was its true intention, I wonder?	
+mev18_090.scr:12	mev18_090.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	うん。\n取り込まなければ、\nラザリスの世界はそのまま滅んでいた…	Yeah.\nIf it hadn't absorbed it,\nLazaris's world would have perished...	
+mev18_090.scr:13	mev18_090.scr	13	カノンノ	Kanonno Grassvalley	personagem		私も知りたいな…	I'd like to know too...	
+mev18_090.scr:14	mev18_090.scr	14	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	もし、本当に私の中に、世界を越えて\n受け継がれた記憶の証明としての過去が\nあるのなら…そのドクメントがあるはず	If there truly is a past inside me\nproving memories across worlds,\na Document of it must exist...	
+mev18_090.scr:15	mev18_090.scr	15	カノンノ	Kanonno Grassvalley	personagem		それを見る事が出来ればなぁ…	If only I could see it...	
+mev18_090.scr:16	mev18_090.scr	16	ニアタ	Niata Monad	personagem	CRLF x1	個体のドクメントをあまり深く\n掘り下げると命に関わる	Delving too deeply into an individual's\nDocument can endanger your life.	
+mev18_090.scr:17	mev18_090.scr	17	カノンノ	Kanonno Grassvalley	personagem		うん…	Yeah...	
+mev18_090.scr:18	mev18_090.scr	18	ロックス	Rocks	personagem		皆さ〜ん、おやつですよ〜！！	Everyone! Tea and snacks are ready!!	
+mev18_090.scr:19	mev18_090.scr	19	カノンノ	Kanonno Grassvalley	personagem		○○、おやつだって	○○, snacks are ready!	
+mev18_090.scr:20	mev18_090.scr	20	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	一緒に食堂へ行こう！\nお手伝いしなきゃ	Let's head to the dining hall together!\nWe have to help out!	
+mev18_090.scr:21	mev18_090.scr	21	(opcao do jogador)	(opcao do jogador)	escolha		自分も世界樹の真意が知りたい、と言う	Say you want to know the Tree's motive	
+mev18_090.scr:22	mev18_090.scr	22	(opcao do jogador)	(opcao do jogador)	escolha		黙っている	Stay silent	
+mev18_100.scr:0	mev18_100.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ロックス。\nケーキ、みんなに配り終えたよ	Rocks! I finished passing out\nthe cake to everyone.	
+mev18_100.scr:1	mev18_100.scr	1	ロックス	Rocks	personagem	CRLF x1	はい。\nお手伝い、ありがとうございます	Yes.\nThank you so much for your help.	
+mev18_100.scr:2	mev18_100.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	今日のケーキは、\nバナナケーキなんだね	Today's cake\nis banana cake, isn't it?	
+mev18_100.scr:3	mev18_100.scr	3	カノンノ	Kanonno Grassvalley	personagem		これ、お母さんが得意だったんだよね…	Mother was wonderful at making this...	
+mev18_100.scr:4	mev18_100.scr	4	ロックス	Rocks	personagem	CRLF x2	ええ、奥様…あなたのお母様に教わりました。\n旦那様は、これにコニャックをきかせたのが\n好きでしたよ…	Yes, the Madam... your mother taught me.\nThe Master loved this\nwith a dash of cognac...	
+mev18_100.scr:5	mev18_100.scr	5	ロックス	Rocks	personagem	CRLF x1	いつか、お嬢様に作り方を\nお教えしないといけませんね	I must teach you how to make it\none of these days, Milady.	
+mev18_100.scr:6	mev18_100.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん。\nありがとう、ロックス	Yeah.\nThank you, Rocks.	
+mev18_100.scr:7	mev18_100.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	お父さんとお母さんにはもう会えないけど…、\n二人の思い出の味を、ロックスが守ってきて\nくれたんだね…	I can't see Father and Mother anymore,\nyet Rocks protected the flavor\nof their memories for me...	
+mev18_100.scr:8	mev18_100.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	お父さんとお母さん、どんな顔して\n食べてたんだろう	I wonder what expressions Father\nand Mother made while eating it?	
+mev18_100.scr:9	mev18_100.scr	9	ロックス	Rocks	personagem		………お嬢様	.........Milady.	
+mev18_100.scr:10	mev18_100.scr	10	ロックス	Rocks	personagem	CRLF x1	旦那様と奥様のお顔は…、\n覚えていたんですか？	Did you remember the faces of\nthe Master and Madam...?	
+mev18_100.scr:11	mev18_100.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ううん？\n亡くなったのは、\n私がホントに赤ちゃんの時でしょう？	No?\nThey passed away when\nI was just a tiny baby, didn't they?	
+mev18_100.scr:12	mev18_100.scr	12	ロックス	Rocks	personagem	CRLF x1	お嬢様に言うべきか、\n迷っていたのですが…	I was uncertain whether I should\nmention this to you, Milady...	
+mev18_100.scr:13	mev18_100.scr	13	カノンノ	Kanonno Grassvalley	personagem		私が描いた絵？	A drawing that I made?	
+mev18_100.scr:14	mev18_100.scr	14	ロックス	Rocks	personagem	CRLF x2	そう。\nそしてこれは…、\n旦那様と奥様のお姿です……	Indeed.\nAnd this... is the likeness\nof the Master and Madam......	
+mev18_100.scr:15	mev18_100.scr	15	ロックス	Rocks	personagem	CRLF x1	こんな幸せそうな顔で、\nバナナケーキを食べていました	They ate banana cake with happy smiles\njust like this.	
+mev18_100.scr:16	mev18_100.scr	16	カノンノ	Kanonno Grassvalley	personagem		ほん…とう、なの？	Is that... really true...?	
+mev18_100.scr:17	mev18_100.scr	17	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	どうして、知らないのに…。\n私はお父さんとお母さんを………	Why, when I didn't know them...?\nI... Father and Mother.........	
+mev18_100.scr:18	mev18_100.scr	18	ニアタ	Niata Monad	personagem		受け継がれた記憶の証明、か…	Proof of inherited memories, huh...?	
+mev18_100.scr:19	mev18_100.scr	19	カノンノ	Kanonno Grassvalley	personagem		私の中にある、記憶…	Memories existing inside me...	
+mev18_100.scr:20	mev18_100.scr	20	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ニアタ、やっぱり私は知りたい。\nドクメントを探るのは危険だとしても！	Niata, I still want to know!\nEven if probing Documents is dangerous!	
+mev18_100.scr:21	mev18_100.scr	21	ニアタ	Niata Monad	personagem		しかし…	However...	
+mev18_100.scr:22	mev18_100.scr	22	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	今がそうすべき時なんだよ。\nそれに、自分自身の問題でもあるの	Now is the time I must do so.\nBesides, this concerns my own self!	
+mev18_100.scr:23	mev18_100.scr	23	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	どうしてそんな記憶が私にあるのか\n知りたいし	I want to know why such memories\nreside within me.	
+mev18_100.scr:24	mev18_100.scr	24	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	何より、お父さんとお母さんが、\nそうしなさいって言ってる気がする	Above all, I feel as though Father\nand Mother are telling me to do it.	
+mev18_100.scr:25	mev18_100.scr	25	カノンノ	Kanonno Grassvalley	personagem		だから、絵に現れてくれた気がするの	That's why I feel they appeared in my art.	
+mev18_100.scr:26	mev18_100.scr	26	ロックス	Rocks	personagem	CRLF x1	…そうですね。\n僕も、そんな気がします	...Indeed.\nI feel that way as well.	
+mev18_100.scr:27	mev18_100.scr	27	ロックス	Rocks	personagem	CRLF x1	意味もなく、旦那様や奥様が\nこんな風に現れてくれるわけがない…	The Master and Madam would never\nappear like this without reason...	
+mev18_100.scr:28	mev18_100.scr	28	ロックス	Rocks	personagem	CRLF x1	ですが、お嬢様の身に危険があると\n思うと…	Yet thinking that danger could\nbefall Milady...	
+mev18_100.scr:29	mev18_100.scr	29	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	だけど、私は知りたい…。\n知りたいよ！	Still, I want to know...\nI need to know!	
+mev18_100.scr:30	mev18_100.scr	30	ニアタ	Niata Monad	personagem	CRLF x1	わかった。\n考えてみよう…	Understood.\nLet us ponder a way...	
+mev18_110.scr:0	mev18_110.scr	0	ニアタ	Niata Monad	personagem	CRLF x2	カノンノのドクメントを展開する以外に、\n過去や異世界の記憶について知る手立てが\n一つだけある	Apart from expanding Kanonno's Document,\nthere is one way to learn of memories\nfrom the past and parallel worlds.	
+mev18_110.scr:1	mev18_110.scr	1	ニアタ	Niata Monad	personagem	CRLF x1	いや、危険な事に変わりはないが、\n幾分かリスクは下がるだろう	It remains dangerous, certainly,\nbut the risk will be somewhat lower.	
+mev18_110.scr:2	mev18_110.scr	2	カノンノ	Kanonno Grassvalley	personagem		どうすればいいの？	What should we do?	
+mev18_110.scr:3	mev18_110.scr	3	ニアタ	Niata Monad	personagem	CRLF x1	自分自身のドクメントに、\nダイブしなさい	Dive into your\nvery own Document.	
+mev18_110.scr:4	mev18_110.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ドクメントにダイブ？\nどうやって？	Dive into a Document?\nHow?	
+mev18_110.scr:5	mev18_110.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	そなたの意識を広げなければならん。\n…ボルテックスへ行く必要がある	You must expand your consciousness.\n...You must travel to the Vortex.	
+mev18_110.scr:6	mev18_110.scr	6	カノンノ	Kanonno Grassvalley	personagem		ボルテックス…？	The Vortex...?	
+mev18_110.scr:7	mev18_110.scr	7	ニアタ	Niata Monad	personagem	CRLF x1	世界樹が生み出すマナの\n渦巻く場所だ	A place where mana generated\nby the World Tree swirls.	
+mev18_110.scr:8	mev18_110.scr	8	ニアタ	Niata Monad	personagem	CRLF x1	放出されるマナも、\n地域によってあらゆる性質がある	Released mana possesses diverse\nproperties depending on the region.	
+mev18_110.scr:9	mev18_110.scr	9	ニアタ	Niata Monad	personagem	CRLF x1	ボルテックスは、そのあらゆる性質のマナが\n１ヶ所に渦巻く特異な場所だ	The Vortex is a unique place where mana\nof every property swirls in one place.	
+mev18_110.scr:10	mev18_110.scr	10	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そんな場所があるんだ。\n誰か知っているかな…？	Such a place exists?\nI wonder if anyone knows where...?	
+mev18_110.scr:11	mev18_110.scr	11	ニアタ	Niata Monad	personagem		我々から依頼を出してこよう	We shall issue a request ourselves.	
+mev18_110.scr:12	mev18_110.scr	12	ニアタ	Niata Monad	personagem	CRLF x2	ディセンダー。\n我々からの頼みだ。\n力になってやってくれ…	Descender.\nThis is our plea to you.\nPlease lend her your strength...	

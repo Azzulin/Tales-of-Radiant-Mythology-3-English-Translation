@@ -1,0 +1,236 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev07_010.scr:0	mev07_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	あの「願いを叶える」と噂される存在が、\nルバーブ連山にいるらしいの	The entity rumored to grant wishes\nis reportedly in the Rhubarb Mountains.	
+mev07_010.scr:1	mev07_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	以前見た時は「赤い煙」だったけれど、\nスパーダ君から聞いた通り、\n今は他の姿をしている可能性があるかもね	It was red smoke when we saw it before,\nbut like Spada said, it may very well\nhave taken on a different form by now.	
+mev07_010.scr:2	mev07_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	出来うる限りその存在に接触して、\n調査をしてちょうだい。\n方法、手段は問わないから	Make contact with it if you can\nand investigate. I leave the methods\nand means entirely up to you.	
+mev07_010.scr:3	mev07_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	もし道中、その存在を求める民間人に会ったら、\n接触させない様に追い返すのよ	If you meet civilians seeking it,\nturn them back so they don't touch it.	
+mev07_010.scr:4	mev07_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	今回は、ティトレイ君とメルディが\n一緒に行ってくれるから	Tytree and Meredy will be\ngoing with you this time.	
+mev07_010.scr:5	mev07_010.scr	5	アンジュ	Ange Serena	personagem		それじゃあ、お願いね！	Well then, I'm counting on you!	
+mev07_020.scr:0	mev07_020.scr	0	メルディ	Meredy	personagem	CRLF x1	あそこが人、山登るか？\nやめる言わないとダメだな！	People over there climbing mountain?\nMust tell them to stop!	
+mev07_020.scr:1	mev07_020.scr	1	ティトレイ	Tytree Crowe	personagem	CRLF x1	おーい、そこの二人。\nそんな軽装じゃ、この山登れないぜ	Hey, you two!\nYou can't climb this in such light gear!	
+mev07_020.scr:2	mev07_020.scr	2	青年	Young Man	personagem	CRLF x1	登れないつったって、\nこっちゃ登らなきゃならないんだよ	Can't climb or not,\nwe gotta get up there anyway!	
+mev07_020.scr:3	mev07_020.scr	3	青年	Young Man	personagem	CRLF x1	願いを叶えてくれるってのが\n山の上にいるんだろーよ？	The thing that grants wishes\nis up top of this mountain, right?	
+mev07_020.scr:4	mev07_020.scr	4	女性	Woman	personagem	CRLF x1	アタシら、そいつに会いに行くんだよね。\nで、この山って危ないの？	We're going to meet it!\nSo, is this mountain really dangerous?	
+mev07_020.scr:5	mev07_020.scr	5	青年	Young Man	personagem	CRLF x1	っていうかさ、\nおたくら武器とか持って、何なの？	Wait a sec...\nWhat's with the weapons, anyway?	
+mev07_020.scr:6	mev07_020.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x1	おれ達は、\nアドリビトムってギルドのモンだ	We're members\nof a guild called Ad Libitum.	
+mev07_020.scr:7	mev07_020.scr	7	女性	Woman	personagem		ギルドって何でも屋でしょ？	A guild's like handy jacks, right?	
+mev07_020.scr:8	mev07_020.scr	8	女性	Woman	personagem	CRLF x1	ちょっとウチらの護衛頼まれても\nいいんじゃない？	Why don't you guys\nescort us up for a bit?	
+mev07_020.scr:9	mev07_020.scr	9	青年	Young Man	personagem	CRLF x2	オレら、この山にいる\n願いを叶える奴に\n大金持ちにしてもらうんだよ	That wish-granting guy on this mountain\nis gonna make us filthy rich!\nSo we'll pay you after that, see?	
+mev07_020.scr:10	mev07_020.scr	10	青年	Young Man	personagem		だから、報酬はその後払うからさー	So we'll pay your reward afterward!	
+mev07_020.scr:11	mev07_020.scr	11	女性	Woman	personagem	CRLF x1	ええ？　それホント？\n街で聞いた話と違うじゃない	Huh? Is that true?\nThat's not what we heard in town!	
+mev07_020.scr:12	mev07_020.scr	12	青年	Young Man	personagem	CRLF x1	チェッ！　じゃあ、いいや。\n元々二人だけで行くつもりだったし	Tch! Never mind then.\nWe planned on going alone anyway.	
+mev07_020.scr:13	mev07_020.scr	13	メルディ	Meredy	personagem	CRLF x1	んとな、それはな…。\nんと……な	Uhm, you see, that is...\nUhm... yeah...	
+mev07_020.scr:14	mev07_020.scr	14	ティトレイ	Tytree Crowe	personagem	CRLF x1	…あー。\n…ああー！　残念だったなっ！	...Ah.\n...Aaaah! Too bad for you!	
+mev07_020.scr:15	mev07_020.scr	15	ティトレイ	Tytree Crowe	personagem	CRLF x2	今あの、街…街にいるらしいぜっ！！\nほら、早く行かねえと\nまたどっか行っちまうぜ！	It's in town right now, apparently!!\nHurry, or it'll take off\nsomewhere else again!	
+mev07_020.scr:16	mev07_020.scr	16	女性	Woman	personagem	CRLF x2	なあんだ。\nだったら、こんなトコいないで\n帰ろ帰ろっ！	What, really?\nThen let's not hang around here,\nlet's head right back!	
+mev07_020.scr:17	mev07_020.scr	17	青年	Young Man	personagem		つまんねえのっ！	What a total buzzkill!	
+mev07_020.scr:18	mev07_020.scr	18	ティトレイ	Tytree Crowe	personagem	CRLF x1	命知らずな上に、俗っぽい奴らだぜ。\n人の欲って、際限ねえからな	Reckless and shallow to the bone.\nHuman greed really knows no bounds.	
+mev07_020.scr:19	mev07_020.scr	19	ティトレイ	Tytree Crowe	personagem	CRLF x2	あんな連中が私利私欲の為に\n一斉に願いを叶えまくったら、\n世の中滅茶苦茶になっちまう	If greedy folks like that got their wishes\ngranted all at once,\nthe whole world would go to ruin.	
+mev07_020.scr:20	mev07_020.scr	20	メルディ	Meredy	personagem		さ、メルディ達も行こー、行こー！	Come on, let's go too, go go!	
+mev07_020.scr:21	mev07_020.scr	21	(opcao do jogador)	(opcao do jogador)	escolha		願いを叶える存在はいないと諭す	Warn them no wish-granting entity exists	
+mev07_020.scr:22	mev07_020.scr	22	(opcao do jogador)	(opcao do jogador)	escolha		断る	Refuse	
+mev07_025.scr:0	mev07_025.scr	0	ティトレイ	Tytree Crowe	personagem		こっちは通れなかったはずなのに…	This path should've been blocked...	
+mev07_025.scr:1	mev07_025.scr	1	メルディ	Meredy	personagem		きっと誰かが通ったよ	Someone definitely passed through here!	
+mev07_025.scr:2	mev07_025.scr	2	ティトレイ	Tytree Crowe	personagem	CRLF x2	そうだな…。\n「願いを叶える存在」を\n探しに来た奴かもしれねえ	Yeah...\nCould be someone looking for that\n'wish-granting entity.'	
+mev07_025.scr:3	mev07_025.scr	3	ティトレイ	Tytree Crowe	personagem		こっから、ちいっと急ぐか！	Let's pick up the pace from here on out!	
+mev07_030.scr:0	mev07_030.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	他に、民間人の姿は見えねえな。\nけど、時間の問題かもな	No sign of other civilians.\nStill, it's only a matter of time.	
+mev07_030.scr:1	mev07_030.scr	1	ティトレイ	Tytree Crowe	personagem	CRLF x1	登山口にいた様な奴が、\n今からわんさか訪れるかもしんねえし	Folks like those at the trailhead\nmight come swarming up any minute.	
+mev07_030.scr:2	mev07_030.scr	2	メルディ	Meredy	personagem	CRLF x1	最初がビョウキ、治すだけだったよ。\nどして願いが叶うか？	At first it only cure illness.\nWhy it grant wishes now?	
+mev07_030.scr:3	mev07_030.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x1	さあな。\nそれを今から調べに行くんだろ	Who knows.\nThat's what we're here to find out.	
+mev07_030.scr:4	mev07_030.scr	4	メルディ	Meredy	personagem		ティトレイ、何か怒ってるか？	Tytree, you angry about something?	
+mev07_030.scr:5	mev07_030.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x2	大して努力もせずに、\n夢を叶えようってヤロウを見ると\nムカムカするんだよ	Seeing slackers expect dreams to come true\nwithout lifting a single finger\nmakes me sick to my stomach.	
+mev07_030.scr:6	mev07_030.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x1	正直、登山口にいた奴も\n一発殴らせろって思ったくらいだ	Honestly, I wanted to punch that guy\nat the trailhead square in the jaw.	
+mev07_030.scr:7	mev07_030.scr	7	ティトレイ	Tytree Crowe	personagem	CRLF x1	ああいうヤロウは、何でもしてもらって\n当然って思ってやがる	Punks like that take it for granted\nthat everyone should cater to them.	
+mev07_030.scr:8	mev07_030.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x2	だから、他人の大事なものを\n平気で踏みにじって、\n奪い取れるんだよ	That's why they can trample what others\nhold dear without a second thought\nand steal it away.	
+mev07_030.scr:9	mev07_030.scr	9	ティトレイ	Tytree Crowe	personagem	CRLF x1	大国の偉い奴らなんか、そうだろ。\n小さい国を食いつぶしていくだけだ	Just like big shots from great empires.\nAll they do is devour smaller nations.	
+mev07_030.scr:10	mev07_030.scr	10	メルディ	Meredy	personagem	CRLF x2	でもな、ティトレイ。\nエステルが、違うよ。\nみんな全部、そうじゃない	Still, Tytree.\nEstelle is different.\nNot everyone is like that.	
+mev07_030.scr:11	mev07_030.scr	11	ティトレイ	Tytree Crowe	personagem		…ああ、わかってるさ	...Yeah, I know.	
+mev07_040.scr:0	mev07_040.scr	0	ティトレイ	Tytree Crowe	personagem		おい、ありゃ何だ？	Hey, what's that?	
+mev07_040.scr:1	mev07_040.scr	1	メルディ	Meredy	personagem		光ってるよ！	It's glowing!	
+mev07_040.scr:2	mev07_040.scr	2	ティトレイ	Tytree Crowe	personagem	CRLF x1	こいつが、赤い煙だった奴か？\n願いを叶える存在なのか？	Is that the red smoke thing?\nThe wish-granting entity?	
+mev07_040.scr:3	mev07_040.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x1	人間…じゃねえな。\nお前は何だ、何者なんだよ！	Ain't human... that's for sure.\nWhat are you? Who the heck are you!?	
+mev07_040.scr:4	mev07_040.scr	4	ティトレイ	Tytree Crowe	personagem		お、おい…、○○	H-Hey... ○○.	
+mev07_040.scr:5	mev07_040.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x1	大丈夫なのか？\n気を付けろよ…	Are you alright?\nWatch out...	
+mev07_040.scr:6	mev07_040.scr	6	暁の従者・信者１	Dawn Cultist 1	personagem	CRLF x1	いたぞ！！\nディセンダー様だ！！	Found him!!\nIt is Lord Descender!!	
+mev07_040.scr:7	mev07_040.scr	7	暁の従者・信者１	Dawn Cultist 1	personagem	CRLF x2	願いを叶え、全ての者を導き給うお方。\nディセンダー様！\nやはり、降臨されていたか！	He who grants wishes and guides all!\nLord Descender!\nHe has truly descended upon us!	
+mev07_040.scr:8	mev07_040.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x1	ディセンダー？\n何言ってやがる、そんなワケあるか！！	Descender?\nWhat nonsense are you spewing?! No way!!	
+mev07_040.scr:9	mev07_040.scr	9	メルディ	Meredy	personagem	CRLF x1	あの人、街でチラシ配ってた。\n「暁の従者」だな	Those people handed out flyers in town.\n'Servants of the Dawn'!	
+mev07_040.scr:10	mev07_040.scr	10	ティトレイ	Tytree Crowe	personagem	CRLF x1	あのディセンダーの出現を\n待ち望んでるってアレか？	Those loonies waiting around\nfor a Descender to show up?	
+mev07_040.scr:11	mev07_040.scr	11	ティトレイ	Tytree Crowe	personagem	CRLF x1	こりゃ、ややこしい連中に\n出くわしたもんだな	Man, we sure ran into\na troublesome bunch.	
+mev07_040.scr:12	mev07_040.scr	12	暁の従者・信者２	Dawn Cultist 2	personagem		我々の救世主をお運びするぞ！	Let us carry our Savior away!	
+mev07_040.scr:13	mev07_040.scr	13	ティトレイ	Tytree Crowe	personagem	CRLF x2	おっと、待てよ！\nコイツがディセンダーだって確証はあるのか？\nうかつに接触しない方がいいぜ	Whoa, hold it!\nYou got any proof that's a Descender?\nYou shouldn't touch it carelessly!	
+mev07_040.scr:14	mev07_040.scr	14	暁の従者・信者２	Dawn Cultist 2	personagem	CRLF x1	何だ、お前達は。\n邪魔をするな！！	Who do you think you are?\nOut of our way!!	
+mev07_040.scr:15	mev07_040.scr	15	暁の従者・信者１	Dawn Cultist 1	personagem	CRLF x2	その方こそが、貧しき者を救いに導き、\n私欲に肥え膨れ、堕落した大国の者共を\n成敗する為に降臨したディセンダー様だ	He is Lord Descender, descended to lead\nthe poor to salvation and strike down\ncorrupt empires fat on selfish greed!	
+mev07_040.scr:16	mev07_040.scr	16	ティトレイ	Tytree Crowe	personagem	CRLF x2	コイツはヒトだけじゃなく、\n生物全てに害を成す\n危険な存在かもしれねえんだぞ	This thing could be dangerous,\nharming not just humans,\nbut all living creatures!	
+mev07_040.scr:17	mev07_040.scr	17	ティトレイ	Tytree Crowe	personagem	CRLF x1	小難しい説法してねえで、\nとっとと帰りやがれ	Cut the high-and-mighty preaching\nand get lost already!	
+mev07_040.scr:18	mev07_040.scr	18	暁の従者・信者２	Dawn Cultist 2	personagem		ディセンダー様を侮辱するか！！	You dare insult Lord Descender?!	
+mev07_040.scr:19	mev07_040.scr	19	暁の従者・信者１	Dawn Cultist 1	personagem	CRLF x2	お前達、ディセンダー様を\n私欲の為に独占する気だな。\nならば、これでも食らえ！！	You want to hoard Lord Descender\nfor your own selfish gain, don't you?!\nThen take this!!	
+mev07_040.scr:20	mev07_040.scr	20	メルディ	Meredy	personagem	CRLF x1	バイバ！！\n見えないよぅ！	Baiba!!\nCan't see anything!	
+mev07_040.scr:21	mev07_040.scr	21	ティトレイ	Tytree Crowe	personagem	CRLF x1	ああああああっ！！\n光ってる奴がいねえ！	Aaaaargh!!\nThe glowing guy is gone!	
+mev07_040.scr:22	mev07_040.scr	22	ティトレイ	Tytree Crowe	personagem		おい！　あいつらどこへ行きやがった！	Hey! Where'd those bastards go?!	
+mev07_040.scr:23	mev07_040.scr	23	メルディ	Meredy	personagem	CRLF x1	イナイよー。\n連れてかれたな！	They gone!\nCarried him away!	
+mev07_040.scr:24	mev07_040.scr	24	ティトレイ	Tytree Crowe	personagem		急いで戻って報告だ！	Hurry, we gotta report back!	
+mev07_040.scr:25	mev07_040.scr	25	ティトレイ	Tytree Crowe	personagem	CRLF x1	アレが人の手に渡ったんだ。\nえらい事になるぜ…	That thing fell into human hands.\nThis is gonna get ugly...	
+mev07_050.scr:0	mev07_050.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	まさか、あの存在が人の手に\n渡ってしまうなんて。\nしかも、暁の従者に…	To think that entity fell\ninto human hands.\nAnd to the Servants of the Dawn, too...	
+mev07_050.scr:1	mev07_050.scr	1	メルディ	Meredy	personagem	CRLF x1	赤い煙が違った。\nヒトが姿してたな	Red smoke was different.\nLooked like a human.	
+mev07_050.scr:2	mev07_050.scr	2	メルディ	Meredy	personagem	CRLF x1	けれど、なぜ姿が持ってたか\nわかんなかったよー	Still, why it have that shape?\nMeredy not understand at all!	
+mev07_050.scr:3	mev07_050.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x1	うす気味悪い奴だったぜ。\n何を考えてるか、まるで読めねえ感じだな	Creepy fellow, alright.\nCouldn't read what it was thinking at all.	
+mev07_050.scr:4	mev07_050.scr	4	ティトレイ	Tytree Crowe	personagem	CRLF x2	そうだな、何となくなんだけどよ、\nあの存在、どうも自分が何者か\nわかっていない様だったぜ	Yeah, just a hunch, but...\nthat thing didn't seem to know\nwho it even was.	
+mev07_050.scr:5	mev07_050.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	ディセンダー？\nいいえ、まさかそんなはずは…	A Descender?\nNo, that couldn't possibly be...	
+mev07_050.scr:6	mev07_050.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	もし、あのまま信仰の対象にされて、\n多くの人々に接触してしまったら\n大変な事になってしまう…	If they worship it and bring it\ninto contact with many people,\nthe results will be catastrophic...	
+mev07_050.scr:7	mev07_050.scr	7	メルディ	Meredy	personagem	CRLF x1	ジョアンさん達がみたいに\nたくさんのヒトが魔物になるか？	Lots of humans turn into monsters\nlike Joan and Miguel did?	
+mev07_050.scr:8	mev07_050.scr	8	アンジュ	Ange Serena	personagem		大いに考えられる事ね	That is very likely.	
+mev07_050.scr:9	mev07_050.scr	9	ティトレイ	Tytree Crowe	personagem		「暁の従者」か…	The Servants of the Dawn, huh...	
+mev07_050.scr:10	mev07_050.scr	10	ティトレイ	Tytree Crowe	personagem	CRLF x2	これから、その団体は\n変な真似しねえ様に\n見張ってねえとな	We'll have to keep a sharp eye\non that cult to make sure\nthey don't pull anything crazy.	
+mev07_050.scr:11	mev07_050.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	あ、そうだ。\nリタの研究に進展があったみたい	Oh, right.\nRita's research seems to have progressed.	
+mev07_050.scr:12	mev07_050.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	今から話を聞く為に、\n研究室へ行きましょう	Let's head to the lab\nand hear what she has to say.	
+mev07_060.scr:0	mev07_060.scr	0	リタ	Rita Mordio	personagem	CRLF x1	待ってたわよ。\nそれじゃあ、早速説明を始めるわね	I've been waiting for you.\nLet me begin the explanation right away.	
+mev07_060.scr:1	mev07_060.scr	1	リタ	Rita Mordio	personagem	CRLF x2	コクヨウ玉虫のドクメントを調べたんだけど、\nやっぱりこの虫本来のドクメントが\n侵食されてるみたいなの	I examined the beetle's Document.\nIts original Document seems to have\nbeen completely eroded away.	
+mev07_060.scr:2	mev07_060.scr	2	リタ	Rita Mordio	personagem	CRLF x1	全く違う生物にドクメントが書き換えられてる。\nううん…、生物という仕組みじゃないわね	Its Document was completely rewritten.\nNo... not even like a living organism.	
+mev07_060.scr:3	mev07_060.scr	3	リタ	Rita Mordio	personagem	CRLF x1	あたし達の世界には、\n存在し得ないドクメントなのよ	It is a Document that cannot\npossibly exist in our world.	
+mev07_060.scr:4	mev07_060.scr	4	ハロルド	Harold Berselius	personagem	CRLF x2	そういえば、前に助けた二人のドクメントも\n確かめてきたんだけど、\nちゃんとヒトのドクメントに戻ってたわ	I checked the Documents of those two\nwe saved before, and they've properly\nreturned to human Documents.	
+mev07_060.scr:5	mev07_060.scr	5	リタ	Rita Mordio	personagem	CRLF x2	あの、赤い煙…だった存在は、\n…あたし達の世界にはない「異質なドクメント」\nなのかもしれない	That entity that was red smoke...\nmight be an 'alien Document'\nnot belonging to our world.	
+mev07_060.scr:6	mev07_060.scr	6	リタ	Rita Mordio	personagem	CRLF x2	でも、どこからどうやって現れたかは\nわからないし、\n目的が何かもわからないわ	Still, we don't know where or how\nit appeared,\nnor what its purpose is.	
+mev07_060.scr:7	mev07_060.scr	7	ティトレイ	Tytree Crowe	personagem		目的がねえのが、いちばんタチ悪いんだよ…	Having no purpose makes it the worst...	
+mev07_060.scr:8	mev07_060.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x2	「赤い煙」が他の生物に接触する事で、\nその生物のドクメントが変化…。\nそして、「赤い煙」自身の変容…	Contact with the red smoke alters\nthat creature's Document...\nAnd transforms the red smoke itself...	
+mev07_060.scr:9	mev07_060.scr	9	しいな	Sheena Fujibayashi	personagem		例えば、だけどさ	Just as an example, but...	
+mev07_060.scr:10	mev07_060.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x2	今までの出来事から「願いを叶えて欲しい」\nという強い想いに「赤い煙」は反応している\nらしいじゃないか	From what happened so far, it seems\nthe red smoke reacts to strong desires\nfor wishes to be granted.	
+mev07_060.scr:11	mev07_060.scr	11	しいな	Sheena Fujibayashi	personagem		その「赤い煙」って奴は意志を持ってて…、	If that red smoke has a will of its own...	
+mev07_060.scr:12	mev07_060.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x2	相手の「想い」に接触する時に、\n相手の「ドクメント」を覗き込む事で学習、\n進化してる…としたらどうだい？	What if it peers into their Document\nupon touching their desires,\nlearning and evolving from it?	
+mev07_060.scr:13	mev07_060.scr	13	ティトレイ	Tytree Crowe	personagem	CRLF x2	人はそうかもしれねえ。\nでも、虫や植物の変化も\n起きてるじゃねえか	That might be true for humans.\nYet bugs and plants\nhave been mutating too, right?	
+mev07_060.scr:14	mev07_060.scr	14	ティトレイ	Tytree Crowe	personagem		そいつらにも意志や、願いがあるってのか？	You saying they got wills and wishes too?	
+mev07_060.scr:15	mev07_060.scr	15	しいな	Sheena Fujibayashi	personagem	CRLF x1	ああ、あるよ。\n「生存欲」さ	Yes, they do.\nThe will to survive.	
+mev07_060.scr:16	mev07_060.scr	16	しいな	Sheena Fujibayashi	personagem	CRLF x1	生物が瀕死に陥った時、もしくは絶体絶命の\n危機が迫った時の意識は絶大だからね	A creature near death or facing peril\npossesses tremendous consciousness.	
+mev07_060.scr:17	mev07_060.scr	17	ティトレイ	Tytree Crowe	personagem	CRLF x1	うーん。\nわかる様な、わかんねえ様な	Hmm.\nI kinda get it, and kinda don't.	
+mev07_060.scr:18	mev07_060.scr	18	しいな	Sheena Fujibayashi	personagem	CRLF x1	そうだねえ。\nじゃ、もっと具体的な例を見せようか	Right.\nShall I show you a more concrete example?	
+mev07_070.scr:0	mev07_070.scr	0	しいな	Sheena Fujibayashi	personagem		さて、見ててごらん	Now then, watch closely.	
+mev07_070.scr:1	mev07_070.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	さーて、このサボテンはもう要らないし、\n燃やしちまおうかねぇ？	Well, I don't need this cactus anymore.\nShall I just burn it to ash?	
+mev07_070.scr:2	mev07_070.scr	2	しいな	Sheena Fujibayashi	personagem		ごめん、試させてもらったよ	Sorry, had to test something.	
+mev07_070.scr:3	mev07_070.scr	3	しいな	Sheena Fujibayashi	personagem		さ、みんな、これでわかったかい？	Now, do you all understand?	
+mev07_070.scr:4	mev07_070.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x2	「光気丹術」、つまりソウルアルケミーで\n言えば、生物の生存欲ってものは、\nドクメントにそれだけ影響を及ぼすって事さ	In terms of Light Alchemy...\nthat is, Soul Alchemy... survival instinct\naffects a Document that deeply.	
+mev07_070.scr:5	mev07_070.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x1	今まで赤い煙が現れた場所には、\n星晶がなかったんだろ？	There were no Star Crystals where\nthe red smoke appeared before, right?	
+mev07_070.scr:6	mev07_070.scr	6	しいな	Sheena Fujibayashi	personagem	CRLF x1	星晶が無くなり、土地からマナが枯渇した為に、\n植物や虫達にとって危機的な状況となった	No Star Crystals meant mana drained away,\ncreating a crisis for plants and bugs.	
+mev07_070.scr:7	mev07_070.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x2	赤い煙は植物や虫、\n動物の生存欲を察知して接触、\nドクメントに干渉…	The red smoke senses survival desire\nin plants, bugs, and animals,\ntouching and altering their Document...	
+mev07_070.scr:8	mev07_070.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x1	やがて、その対象はヒトとなり学習、\nそして「赤い煙」自体が進化…ってとこかねえ	Eventually it moved to humans, learned,\nand evolved itself... That's my guess.	
+mev07_070.scr:9	mev07_070.scr	9	ハロルド	Harold Berselius	personagem	CRLF x2	なるほどね〜。\n「赤い煙」が意識体、と仮定するならば、\n意識もドクメントの一つ	I see!\nAssuming red smoke is a conscious entity,\nconsciousness is a Document too.	
+mev07_070.scr:10	mev07_070.scr	10	ハロルド	Harold Berselius	personagem		進化ってのも考えられなくないわね	Evolution isn't out of the question, then.	
+mev07_070.scr:11	mev07_070.scr	11	しいな	Sheena Fujibayashi	personagem	CRLF x2	でも、仮定だからねぇ。\nそもそも、そいつが現れた理由が\nわかんないね…	Still, that's just a hypothesis.\nWe don't even know why it appeared\nin the first place...	
+mev07_070.scr:12	mev07_070.scr	12	ティトレイ	Tytree Crowe	personagem	CRLF x2	「赤い煙」…いや、\n「願いを叶える存在」がいて、\n生物に影響を及ぼしているのはわかったよ	I get that the wish-granting entity\naffects living things now.\nI really do.	
+mev07_070.scr:13	mev07_070.scr	13	ティトレイ	Tytree Crowe	personagem	CRLF x1	でもよ、何でそいつは相手の願いを叶える？\n何で相手の姿形を変えちまうんだ？	Why does it grant wishes, though?\nWhy change their forms?	
+mev07_070.scr:14	mev07_070.scr	14	ティトレイ	Tytree Crowe	personagem		目的がわかんねえよ	I just don't get its goal.	
+mev07_080.scr:0	mev07_080.scr	0	アスベル	Asbel Lhant	personagem		アドリビトムというギルドはここか？	Is this the guild known as Ad Libitum?	
+mev07_080.scr:1	mev07_080.scr	1	アスベル	Asbel Lhant	personagem	CRLF x1	ふう…。\nようやく着いたか…	Phew...\nFinally made it...	
+mev07_080.scr:2	mev07_080.scr	2	アスベル	Asbel Lhant	personagem	CRLF x1	すみません、ここに探している人が\nいるのですが…	Pardon me, I am looking for someone\nwho should be here...	
+mev07_080.scr:3	mev07_080.scr	3	アスベル	Asbel Lhant	personagem	CRLF x1	あれ、違ったのか…？\nここで間違いないと思ったんだが…	Wait, was I mistaken...?\nI was certain this was the place...	
+mev07_080.scr:4	mev07_080.scr	4	アスベル	Asbel Lhant	personagem	CRLF x1	あの、すみません。\n実は、人を探しているんです	Excuse me. The truth is,\nI am searching for someone.	
+mev07_080.scr:5	mev07_080.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	あら、○○。\nそちらはお客様かしら？	Oh, ○○.\nIs this gentleman a guest?	
+mev07_080.scr:6	mev07_080.scr	6	アスベル	Asbel Lhant	personagem	CRLF x1	あなたがこのギルドの\nリーダーでしょうか？	Are you the leader\nof this guild?	
+mev07_080.scr:7	mev07_080.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	ええ。\nわたしはアンジュといいます	Yes.\nMy name is Ange.	
+mev07_080.scr:8	mev07_080.scr	8	アンジュ	Ange Serena	personagem		あなたは？	And who might you be?	
+mev07_080.scr:9	mev07_080.scr	9	アスベル	Asbel Lhant	personagem	CRLF x2	私は、ガルバンゾ国騎士団に所属する、\nアスベル・ラントです。\n横に居るのが…さあ、ソフィ	I am Asbel Lhant of the Garbanzo Knights.\nBeside me is...\ngo on, Sophie.	
+mev07_080.scr:10	mev07_080.scr	10	ソフィ	Sophie	personagem	CRLF x1	わたしの名前…ソフィ。\nアスベルが…そう呼ぶから	My name... Sophie.\nBecause Asbel... calls me that.	
+mev07_080.scr:11	mev07_080.scr	11	アスベル	Asbel Lhant	personagem	CRLF x1	…すみません。\nソフィにはその、事情がありまして…	Forgive her.\nSophie has complicated circumstances...	
+mev07_080.scr:12	mev07_080.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	いいえ、お気になさらず。\nそれで、御用件は何でしょうか？	No need to apologize.\nNow then, what is your business here?	
+mev07_080.scr:13	mev07_080.scr	13	アスベル	Asbel Lhant	personagem	CRLF x2	はい。\nここにガルバンゾ国王女、エステリーゼ様が\n滞在されているはず…	Yes.\nLady Estellise, Princess of Garbanzo,\nshould be staying here...	
+mev07_080.scr:14	mev07_080.scr	14	アスベル	Asbel Lhant	personagem		すぐにお会いしたいのです	I must see her at once.	
+mev07_080.scr:15	mev07_080.scr	15	アンジュ	Ange Serena	personagem		…なぜ、そう思うのかしら？	...What makes you think she is here?	
+mev07_080.scr:16	mev07_080.scr	16	アスベル	Asbel Lhant	personagem	CRLF x1	…王女誘拐の罪で指名手配になっている、\nユーリ・ローウェルはご存知ですね？	...You know of Yuri Lowell, wanted for the\nkidnapping of the Princess, correct?	
+mev07_080.scr:17	mev07_080.scr	17	アスベル	Asbel Lhant	personagem	CRLF x1	彼と同じギルドだったという仲間が二人、\nこのアドリビトムに逃亡してきたはずです	Two comrades from his former guild\nreportedly fled here to Ad Libitum.	
+mev07_080.scr:18	mev07_080.scr	18	アスベル	Asbel Lhant	personagem	CRLF x1	私達は彼らを追って来ました。\n…エステリーゼ様はここにいるはずです	We tracked them here.\n...Lady Estellise must be in this guild.	
+mev07_080.scr:19	mev07_080.scr	19	アンジュ	Ange Serena	personagem		（エステルを連れ戻しに来たのね…）	(He came to bring Estelle back...)	
+mev07_080.scr:20	mev07_080.scr	20	アンジュ	Ange Serena	personagem	CRLF x1	…騎士団の権力があれば、\n武力行使だって出来たでしょうに…	With the Knights' authority,\nyou could have used force...	
+mev07_080.scr:21	mev07_080.scr	21	アンジュ	Ange Serena	personagem	CRLF x1	紳士的な対応、感謝いたします。\nさあ、中へどうぞ	I appreciate your gentlemanly approach.\nPlease, come inside.	
+mev07_080.scr:22	mev07_080.scr	22	アンジュ	Ange Serena	personagem	CRLF x1	断ったところで、\n止められるものじゃないでしょ	Even if I refused,\nyou wouldn't simply leave, would you?	
+mev07_080.scr:23	mev07_080.scr	23	アンジュ	Ange Serena	personagem		それは、エステルが決める事よ	That is for Estelle to decide.	
+mev07_080.scr:24	mev07_080.scr	24	アンジュ	Ange Serena	personagem	CRLF x1	そうね。\n様子が気になるよね	Indeed.\nYou must be curious about how she's doing.	
+mev07_080.scr:25	mev07_080.scr	25	アンジュ	Ange Serena	personagem	CRLF x2	それじゃあ、あなたにお願い。\nエステルの部屋へ行って\n様子を見てきてくれないかしら？	Then I have a favor to ask of you.\nCould you go to Estelle's room\nand check on her?	
+mev07_080.scr:26	mev07_080.scr	26	(opcao do jogador)	(opcao do jogador)	escolha		はい、と言う	Say yes	
+mev07_080.scr:27	mev07_080.scr	27	(opcao do jogador)	(opcao do jogador)	escolha		黙っている	Stay silent	
+mev07_080.scr:28	mev07_080.scr	28	(opcao do jogador)	(opcao do jogador)	escolha		会わせていいのかと聞く	Ask if it is alright to let them meet	
+mev07_080.scr:29	mev07_080.scr	29	(opcao do jogador)	(opcao do jogador)	escolha		エステルは帰るのかと聞く	Ask if Estelle will return home	
+mev07_090.scr:0	mev07_090.scr	0	エステル	Estelle	personagem	CRLF x1	わたしは…、戻りません。\nそう、フレンに伝えて下さい	I will not... return.\nPlease tell Flynn that.	
+mev07_090.scr:1	mev07_090.scr	1	エステル	Estelle	personagem	CRLF x2	わたしは、自分の国が起こした事による異変を\n解決するまで、ガルバンゾへは戻らないと\n決めたんです	I decided not to return to Garbanzo\nuntil I resolve the anomaly\nmy country caused.	
+mev07_090.scr:2	mev07_090.scr	2	アスベル	Asbel Lhant	personagem	CRLF x2	ですが、エステリーゼ様が仰った\n生物が変化する現象の調査は、\nこれから評議会に提起すれば…	However, regarding the creature mutation\nphenomenon you mentioned, Lady Estellise,\nif we bring it before the council...	
+mev07_090.scr:3	mev07_090.scr	3	エステル	Estelle	personagem		それでは、いつまでも変わりません	Nothing will ever change that way.	
+mev07_090.scr:4	mev07_090.scr	4	エステル	Estelle	personagem	CRLF x2	アスベル。\nわたしは国を守る為にも、\nここにいなければと思っています	Asbel.\nTo protect our country, I believe\nI must remain here.	
+mev07_090.scr:5	mev07_090.scr	5	アスベル	Asbel Lhant	personagem	CRLF x2	…異変についてはわかりました。\n私も国、そして守るべき民の為に\n尽くしたい思いは同じです	...I understand about the anomaly.\nI too wish to devote myself to our country\nand the people we must protect.	
+mev07_090.scr:6	mev07_090.scr	6	アスベル	Asbel Lhant	personagem	CRLF x2	ですが、フレン様は\nあなたを連れてくるまで\nガルバンゾへは戻るなと…	However, Lord Flynn commanded me\nnot to return to Garbanzo\nwithout you...	
+mev07_090.scr:7	mev07_090.scr	7	エステル	Estelle	personagem	CRLF x1	だったら、\nここにいていいんじゃありません？	Then wouldn't it be fine\nif you stayed here as well?	
+mev07_090.scr:8	mev07_090.scr	8	アスベル	Asbel Lhant	personagem	CRLF x1	ここに？\nこのギルドにですか？	Here?\nIn this guild?	
+mev07_090.scr:9	mev07_090.scr	9	エステル	Estelle	personagem	CRLF x1	はい。\nここなら、色んな人を守る事が出来ます	Yes.\nHere, we can protect all kinds of people.	
+mev07_090.scr:10	mev07_090.scr	10	ユーリ	Yuri Lowell	personagem	CRLF x1	おいおい、いいのかよ。\nこっちゃ誘拐犯になってんだ	Hold on, are you sure about this?\nI'm branded a kidnapper over here.	
+mev07_090.scr:11	mev07_090.scr	11	ユーリ	Yuri Lowell	personagem	CRLF x2	お前がここに残れば、\nこのアスベルって奴にまで\n罪が及ぶぞ	If you stay here,\ncharges might fall\non this Asbel guy too.	
+mev07_090.scr:12	mev07_090.scr	12	エステル	Estelle	personagem	CRLF x1	フレンならわかってくれます。\nいえ、わかってくれてるはずです	Flynn will understand.\nNo, I know he will.	
+mev07_090.scr:13	mev07_090.scr	13	アスベル	Asbel Lhant	personagem		…わかりました	...Understood.	
+mev07_090.scr:14	mev07_090.scr	14	アスベル	Asbel Lhant	personagem	CRLF x1	ここに残って、\n王女の為に尽力いたします	I shall remain here\nand dedicate myself to the Princess.	
+mev07_090.scr:15	mev07_090.scr	15	エステル	Estelle	personagem	CRLF x1	ありがとうございます。\n早速アンジュに伝えないと、ですね	Thank you.\nWe must tell Ange right away!	
+mev07_090.scr:16	mev07_090.scr	16	エステル	Estelle	personagem	CRLF x1	そして、同じギルドのメンバーとして\nこれからもよろしくお願いしますね	And as fellow guild members,\nI look forward to working with you!	
+mev07_090.scr:17	mev07_090.scr	17	アスベル	Asbel Lhant	personagem		同じ、メンバー…ですか？	Fellow... members?	
+mev07_090.scr:18	mev07_090.scr	18	エステル	Estelle	personagem	CRLF x2	はい、だからここでは\nかた苦しい言葉はなしです。\nいいです？	Yes! So no stiff,\nformal speech here.\nUnderstood?	
+mev07_090.scr:19	mev07_090.scr	19	エステル	Estelle	personagem		これは、わたしからのお願いです	This is a personal request from me.	
+mev07_090.scr:20	mev07_090.scr	20	アスベル	Asbel Lhant	personagem		えっと、その…	Uh, well, that is...	
+mev07_090.scr:21	mev07_090.scr	21	アスベル	Asbel Lhant	personagem		努力します…	I will try my best...	
+mev07_090.scr:22	mev07_090.scr	22	(mensagem de sistema)	(mensagem de sistema)	sistema		アスベルがアドリビトムに加入しました	Asbel has joined Ad Libitum.	
+mev07_090.scr:23	mev07_090.scr	23	(mensagem de sistema)	(mensagem de sistema)	sistema		ソフィがアドリビトムに加入しました	Sophie has joined Ad Libitum.	
+mev07_100.scr:0	mev07_100.scr	0	ジェイド	Jade Curtiss	personagem	CRLF x1	国に属さない中立のギルド、\nアドリビトムはこちらでしょうか？	Is this the neutral, unaligned guild\nknown as Ad Libitum?	
+mev07_100.scr:1	mev07_100.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	はい。\nわたしがリーダーのアンジュです。\n何か依頼でしょうか？	Yes.\nI am Ange, the leader.\nDo you have a request for us?	
+mev07_100.scr:2	mev07_100.scr	2	ジェイド	Jade Curtiss	personagem	CRLF x1	依頼というか、そうですねぇ…。\nしばらく、かくまって欲しいのですが	A request, you say? Well now...\nWe'd like you to harbor us for a while.	
+mev07_100.scr:3	mev07_100.scr	3	アンジュ	Ange Serena	personagem		かくまう、ですか？	Harbor you?	
+mev07_100.scr:4	mev07_100.scr	4	ジェイド	Jade Curtiss	personagem	CRLF x2	ええ。\nここはどの国にも属さない\n自由のギルドと聞いているのでね	Indeed.\nWe hear this is an independent guild\nbeholden to no nation.	
+mev07_100.scr:5	mev07_100.scr	5	ジェイド	Jade Curtiss	personagem	CRLF x1	高貴な身分の方を隠すには、\nちょうどいいと思いまして	We thought it the perfect place\nto shelter a person of noble birth.	
+mev07_100.scr:6	mev07_100.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x1	申し遅れました、私はライマ国国軍大佐\nジェイド・カーティスです	Pardon the delay. I'm Colonel Jade Curtiss\nof the Lima Kingdom Royal Army.	
+mev07_100.scr:7	mev07_100.scr	7	ジェイド	Jade Curtiss	personagem	CRLF x1	そして、こちらがライマ国王女の\nナタリア姫です	And this is Princess Natalia,\nroyal daughter of the Lima Kingdom.	
+mev07_100.scr:8	mev07_100.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	ジェイド。\nあなたは私の家庭教師でしょう？\nいつもの通り、ナタリアで構いませんわ	Jade.\nYou are my tutor, are you not?\nYou may address me simply as Natalia.	
+mev07_100.scr:9	mev07_100.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x1	おや、そうですか。\nでは、遠慮なく	Oh my, is that so?\nThen I shall not hesitate.	
+mev07_100.scr:10	mev07_100.scr	10	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	ナタリア・ルツ・キムラスカ・ランバルディア\nです。\nよろしくお願いしますわ	I am Natalia Luzu Kimlasca-Lanvaldear.\nIt is a pleasure\nto make your acquaintance.	
+mev07_100.scr:11	mev07_100.scr	11	ジェイド	Jade Curtiss	personagem	CRLF x1	そして彼女は、私の部下のティア。\nナタリアの護衛です	And this is my subordinate, Tear.\nShe serves as Natalia's bodyguard.	
+mev07_100.scr:12	mev07_100.scr	12	ティア	Tear Grants	personagem	CRLF x1	私はティア。\nティア・グランツ	I am Tear.\nTear Grants.	
+mev07_100.scr:13	mev07_100.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	はい、よろしく。\nともかく、込み入った事情がありそうね	Welcome! It seems you have\nquite complicated circumstances.	
+mev07_100.scr:14	mev07_100.scr	14	アンジュ	Ange Serena	personagem	CRLF x2	それじゃ、ジェイドさん。\n部屋へお通ししますね。\nお話はそこでお伺いします	Well then, Jade.\nI'll show you to your room.\nWe can hear your story there.	
+mev07_100.scr:15	mev07_100.scr	15	アンジュ	Ange Serena	personagem	CRLF x2	○○。\nあなたも部屋の用意を手伝いに来てちょうだい。\nお願いね	○○.\nCome help us prepare the rooms, please.\nI'm counting on you!	
+mev07_110.scr:0	mev07_110.scr	0	アンジュ	Ange Serena	personagem		部屋は気に入ってくれたかしら？	Do you find the room to your liking?	
+mev07_110.scr:1	mev07_110.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		ええ、素敵ですわ	Yes, it is wonderful.	
+mev07_110.scr:2	mev07_110.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	ふふ、良かった。\nもちろん、お部屋代もしっかり頂きますけど♪	Hehe, glad to hear it.\nOf course, we will charge full rent!	
+mev07_110.scr:3	mev07_110.scr	3	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		まあ…！	My goodness...!	
+mev07_110.scr:4	mev07_110.scr	4	ジェイド	Jade Curtiss	personagem	CRLF x1	困りましたねぇ。\n今、我々は持ち合わせがないもので	How troublesome.\nWe have no funds on hand right now.	
+mev07_110.scr:5	mev07_110.scr	5	アンジュ	Ange Serena	personagem		このギルドでは、王族だろうと容赦しません	In this guild, even royalty gets no mercy!	
+mev07_110.scr:6	mev07_110.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	居付くなら家賃を払うか、ここでギルドの\nメンバーとして働くか、好きな方を選んでね♪	If you stay, pay rent or work as members\nof the guild. Whichever you prefer!	
+mev07_110.scr:7	mev07_110.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	私は構いませんわ。\nいつライマ国に戻れるか、\nわからないのでしょう？	I do not mind at all.\nAfter all, who knows when we can return\nto the Kingdom of Lima?	
+mev07_110.scr:8	mev07_110.scr	8	ジェイド	Jade Curtiss	personagem	CRLF x1	暴動が収まるまでは\n仕方ありません	Until the riots subside,\nwe have little choice.	
+mev07_110.scr:9	mev07_110.scr	9	ジェイド	Jade Curtiss	personagem		では、ここで働くという事で	Then we shall work here.	
+mev07_110.scr:10	mev07_110.scr	10	アンジュ	Ange Serena	personagem		決まりね♪	It's a deal!	
+mev07_110.scr:11	mev07_110.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	それじゃあ、次の話をしましょう。\nあなた達の国では、何があったの？	Now then, on to the next matter.\nWhat happened in your country?	
+mev07_110.scr:12	mev07_110.scr	12	ジェイド	Jade Curtiss	personagem	CRLF x2	我がライマ国で、暴動が起こりましてね。\n「暁の従者」という宗教組織の\n導引によるものです	Riots broke out in our Lima Kingdom.\nIncited by a religious order\ncalling themselves Servants of the Dawn.	
+mev07_110.scr:13	mev07_110.scr	13	アンジュ	Ange Serena	personagem		「暁の従者」？	The Servants of the Dawn?	
+mev07_110.scr:14	mev07_110.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	ディセンダーを奉るという\n新興宗教ね	That new cult\nthat reveres the Descender.	
+mev07_110.scr:15	mev07_110.scr	15	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	「暁の従者」の信者達は皆、\n人を超えた異様な力を持っていました	Every cultist of the Servants of the Dawn\nwielded uncanny, superhuman strength.	
+mev07_110.scr:16	mev07_110.scr	16	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	国民は信者に煽られてしまい、\n城を攻め落とそうと…	Citizens stirred up by cultists\nmarched to lay siege to the castle...	
+mev07_110.scr:17	mev07_110.scr	17	ジェイド	Jade Curtiss	personagem	CRLF x1	まあ、そんなわけで王族には安全の為、\n国を離れた方が良いと思いましてねえ	Thus, I deemed it wise for royalty\nto depart the country for their safety.	
+mev07_110.scr:18	mev07_110.scr	18	ジェイド	Jade Curtiss	personagem	CRLF x1	そういえば、ディセンダーが降臨したと\n言っていましたね	Come to think of it,\nthey said the Descender had descended.	
+mev07_110.scr:19	mev07_110.scr	19	アンジュ	Ange Serena	personagem	CRLF x1	その「ディセンダー」と呼ばれる者を\n連れていたの？	Were they accompanied\nby this supposed 'Descender'?	
+mev07_110.scr:20	mev07_110.scr	20	ジェイド	Jade Curtiss	personagem		そこまでは、確認していません	We did not confirm that much.	
+mev07_110.scr:21	mev07_110.scr	21	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		私達王族が至らないばかりに…	It is all due to our failure as royalty...	
+mev07_110.scr:22	mev07_110.scr	22	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	国は星晶の利権には恵まれず、\n国民には、苦しい思いをさせてしまって\nいましたわ	Our land lacked Star Crystal riches,\nleaving our people to endure\ngreat hardship...	
+mev07_110.scr:23	mev07_110.scr	23	ジェイド	Jade Curtiss	personagem	CRLF x2	そこで「暁の従者」が現れ、ディセンダーを\n担ぎ出して、救いとやらを持ち出した事で、\n国民の不満が爆発してしまった様ですねえ	Then the cult appeared with a Descender,\npromising salvation and causing\nthe people's fury to erupt.	
+mev07_110.scr:24	mev07_110.scr	24	ジェイド	Jade Curtiss	personagem		困ったものです	A truly vexing situation.	
+mev07_110.scr:25	mev07_110.scr	25	アンジュ	Ange Serena	personagem	CRLF x2	「暁の従者」は、\n大国に搾取されるがままだった\n人達により興ったと聞いたな…	I heard the Servants of the Dawn\narose from people exploited\nby larger nations...	
+mev07_110.scr:26	mev07_110.scr	26	アンジュ	Ange Serena	personagem	CRLF x2	でも、小さな宗教団体が、大きな力を手に入れ\n一つの国を没落寸前に追い込むなんて\n考えられない事態よ	Yet a small cult gaining such power\nand driving an entire nation to ruin\nis utterly unthinkable.	
+mev07_110.scr:27	mev07_110.scr	27	アンジュ	Ange Serena	personagem	CRLF x2	信者が、人を超えた異様な力を\n持っていたって、\nそこが気になるんだけど…	What concerns me is that cultists\nwielded uncanny, superhuman power...\nThat is quite alarming.	
+mev07_110.scr:28	mev07_110.scr	28	アンジュ	Ange Serena	personagem		わたし達も、「暁の従者」を追っているから	We too are pursuing the cult.	
+mev07_110.scr:29	mev07_110.scr	29	ジェイド	Jade Curtiss	personagem	CRLF x2	そうですか。\nこちらでは、彼らの拠点情報を\n掴んでいますよ	Is that so?\nWe happen to possess information\nregarding their base of operations.	
+mev07_110.scr:30	mev07_110.scr	30	ジェイド	Jade Curtiss	personagem		アルマナック遺跡、という話です	The Almanac Ruins, reportedly.	
+mev07_110.scr:31	mev07_110.scr	31	アンジュ	Ange Serena	personagem		そう…、貴重な情報をありがとう	I see... Thank you for the valuable intel.	
+mev07_110.scr:32	mev07_110.scr	32	アンジュ	Ange Serena	personagem	CRLF x1	アルマナック遺跡…。\n誰か行ってみてくれないかしら…	Almanac Ruins...\nI wonder if someone could investigate...	
+mev07_110.scr:33	mev07_110.scr	33	(mensagem de sistema)	(mensagem de sistema)	sistema		ナタリアがアドリビトムに加入しました	Natalia has joined Ad Libitum.	
+mev07_110.scr:34	mev07_110.scr	34	(mensagem de sistema)	(mensagem de sistema)	sistema		ジェイドがアドリビトムに加入しました	Jade has joined Ad Libitum.	
+mev07_110.scr:35	mev07_110.scr	35	(mensagem de sistema)	(mensagem de sistema)	sistema		ティアがアドリビトムに加入しました	Tear has joined Ad Libitum.	
+mev07_120.scr:0	mev07_120.scr	0	エステル	Estelle	personagem	CRLF x2	新しい方ですね。\nわたしはエステリーゼと言います。\nよろしくお願いしますね	You must be new.\nI am Estellise.\nIt is a pleasure to meet you!	
+mev07_120.scr:1	mev07_120.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	ナタリアです。\nこちらこそ、よろしくお願いしますわ	I am Natalia.\nThe pleasure is entirely mine.	
+mev07_120.scr:2	mev07_120.scr	2	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	ところで、あなたはガルバンゾ国の\n王女とお聞きしていますけれど	By the way, I hear you are\nthe Princess of the Kingdom of Garbanzo.	
+mev07_120.scr:3	mev07_120.scr	3	エステル	Estelle	personagem	CRLF x2	はい…。\n城の中に居るだけでは、国民や、世界の為に\n成すべき事も出来ませんでしたから	Yes... Remaining inside the castle walls,\nI could accomplish nothing for my people\nor for the world at large.	
+mev07_120.scr:4	mev07_120.scr	4	エステル	Estelle	personagem	CRLF x1	わたしに出来る事をしようと\nここで働かせてもらってます	So I work here in this guild\nto do whatever I can.	
+mev07_120.scr:5	mev07_120.scr	5	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		世界の為に…ですか	For the sake of the world... you say?	
+mev07_120.scr:6	mev07_120.scr	6	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	素敵ですわ！\n私も国民の為に何か出来ないかと\n思っていましたの	How wonderful!\nI too have been pondering what I might do\nfor the sake of my people.	
+mev07_120.scr:7	mev07_120.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	王女という身でありながら、\n国民の為に尽くしたくとも、なかなか自由に\n行動させてもらえなくて	Despite being a princess,\nmy desire to serve my people was stifled\nby restrictions on my freedom.	
+mev07_120.scr:8	mev07_120.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	ここでなら、国民のみならず\n様々な人を助けていけるのですわね	Here, we can aid not just our citizens,\nbut all manner of people, yes?	
+mev07_120.scr:9	mev07_120.scr	9	エステル	Estelle	personagem		はい	Yes!	
+mev07_120.scr:10	mev07_120.scr	10	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	私、ギルドという仕事は初めてですので、\n至らないところもあるかと思います。\nどうぞよろしくお願い致しますわね	This is my first time working in a guild,\nso I may have shortcomings.\nI shall be in your care!	

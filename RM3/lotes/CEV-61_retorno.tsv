@@ -1,0 +1,129 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev61_010.scr:0	cev61_010.scr	0	ロイド	Lloyd Irving	personagem	CRLF x2	あれっ。\nもしかして\nスパーダって二刀流なのか？	Huh?\nCould it be you're a dual wielder,\nSpada?	
+cev61_010.scr:1	cev61_010.scr	1	スパーダ	Spada Belforma	personagem		あぁ？	Hah?	
+cev61_010.scr:2	cev61_010.scr	2	スパーダ	Spada Belforma	personagem	CRLF x1	そうだけど……。\nそれがどうしたってェんだ？	Yeah, so what......?\nWhat's it to ya?	
+cev61_010.scr:3	cev61_010.scr	3	ロイド	Lloyd Irving	personagem	CRLF x1	そうかそうか〜！\nいや、実は俺も二刀流なんだ	I see, I see~!\nTruth is, I'm a dual wielder too!	
+cev61_010.scr:4	cev61_010.scr	4	ロイド	Lloyd Irving	personagem		やっぱいいよな、二刀って！	Dual wielding really is the best!	
+cev61_010.scr:5	cev61_010.scr	5	スパーダ	Spada Belforma	personagem		なんだ、お前もなのか	Oh, so you're one too, huh?	
+cev61_010.scr:6	cev61_010.scr	6	スパーダ	Spada Belforma	personagem	CRLF x1	バカっぽい顔してる割に、\nいいセレクトじゃねえか	For someone with an idiot face,\nthat's a pretty sweet choice.	
+cev61_010.scr:7	cev61_010.scr	7	ロイド	Lloyd Irving	personagem	CRLF x1	何といっても、二刀の魅力は\n手数の多さだよなぁ	Above all, the beauty of two swords\nis the sheer number of hits, right?	
+cev61_010.scr:8	cev61_010.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	それでいて、強さの真髄は\nごくシンプルなのもいい	And the core of its strength\nis so purely simple too!	
+cev61_010.scr:9	cev61_010.scr	9	スパーダ	Spada Belforma	personagem	CRLF x1	そうそう。\nなかなかわかって……	Right, right.\nYou actually get it......	
+cev61_010.scr:10	cev61_010.scr	10	ロイド	Lloyd Irving	personagem	CRLF x2	剣が二本で二倍強い！\nこんなシンプルな強さは\n他にないよなー！	Two swords make you twice as strong!\nThere's no other kind of strength\nas simple as that!	
+cev61_010.scr:11	cev61_010.scr	11	スパーダ	Spada Belforma	personagem		……やっぱ、ただのバカか	......Never mind, you're just an idiot.	
+cev61_020.scr:0	cev61_020.scr	0	アニス	Anise Tatlin	personagem	CRLF x2	なに〜？　\nスパーダってばどうしたの？\nさっきからロックスの事、じ〜っと見て	What's up?\nWhat's the matter, Spada?\nStaring at Rocks this whole time...	
+cev61_020.scr:1	cev61_020.scr	1	スパーダ	Spada Belforma	personagem	CRLF x1	あぁ？\n別に、何でもねーよ	Hah?\nIt's nothin', alright.	
+cev61_020.scr:2	cev61_020.scr	2	イリア	Iria Animi	personagem	CRLF x2	スパーダお坊ちゃまは\nご実家に残された執事の事を\n思い出してらっしゃるんですのよね？	Master Spada is remembering\nthe butler back at his family estate,\nisn't that right?	
+cev61_020.scr:3	cev61_020.scr	3	アニス	Anise Tatlin	personagem		執事？	A butler?	
+cev61_020.scr:4	cev61_020.scr	4	アニス	Anise Tatlin	personagem		……って、はわ〜！？	......Wait, hawaaa?!	
+cev61_020.scr:5	cev61_020.scr	5	アニス	Anise Tatlin	personagem	CRLF x1	もしかして、スパーダってば\nお金持ちだったの！？	Could it be you're actually\nfilthy rich, Spada?!	
+cev61_020.scr:6	cev61_020.scr	6	イリア	Iria Animi	personagem	CRLF x1	お金持ちも何も、武門の名家の御曹司。\n生粋のボンボンよ！	Rich? Scion of a noble martial house!\nA bonafide spoiled rich boy!	
+cev61_020.scr:7	cev61_020.scr	7	イリア	Iria Animi	personagem	CRLF x2	だから、ロックスを見てると\n色々思い出しちゃって、ナーバスに\nなっちゃうのよねぇ？　グシシシシシ	So seeing Rocks makes you remember\nall that and gets you nervous,\ndoesn't it? Gushishishi!	
+cev61_020.scr:8	cev61_020.scr	8	スパーダ	Spada Belforma	personagem		おいテメ、イリア！	Hey, damn you, Iria!	
+cev61_020.scr:9	cev61_020.scr	9	イリア	Iria Animi	personagem		オホホホホホホ！	Ohohohohoho!	
+cev61_020.scr:10	cev61_020.scr	10	アニス	Anise Tatlin	personagem	CRLF x1	スパーダ……本当にお坊ちゃまだったんだ。\nという事は……	Spada... You really were a rich boy.\nWhich means......	
+cev61_020.scr:11	cev61_020.scr	11	アニス	Anise Tatlin	personagem	CRLF x1	アニスちゃんの王子様かも〜∀\n待って下さい、スパーダ様ぁ∀∀	You might be Anise's prince~!\nWait for me, Lord Spada~~!	
+cev61_030.scr:0	cev61_030.scr	0	ロックス	Rocks	personagem		ふう、ふう……	Phew, pant......	
+cev61_030.scr:1	cev61_030.scr	1	ロックス	Rocks	personagem	CRLF x2	（はぁ……手がちぎれそうです。\n　さすがに、一度にこの量を運ぶのは\n　ちょっと無理があったかなぁ……）	(Haaah... My arms feel like tearing off.\nCarrying this much at once was a bit\ntoo much, wasn't it...?)	
+cev61_030.scr:2	cev61_030.scr	2	ロックス	Rocks	personagem		（でも、しっかり勤めを果たさないと……！）	(Still, I must do my duties properly...!)	
+cev61_030.scr:3	cev61_030.scr	3	スパーダ	Spada Belforma	personagem	CRLF x1	おい、貸せよ。\nこっち持ってやる	Hey, hand it over.\nI'll take this one.	
+cev61_030.scr:4	cev61_030.scr	4	ロックス	Rocks	personagem	CRLF x1	いえ、でも……。\nこれが僕の仕事ですので	No, but......\nThis is my job, after all.	
+cev61_030.scr:5	cev61_030.scr	5	スパーダ	Spada Belforma	personagem		いーから貸せっつってんだよ！	I said give it here, already!	
+cev61_030.scr:6	cev61_030.scr	6	スパーダ	Spada Belforma	personagem	CRLF x1	ったくよぉ、ンなちっこい体で\nこんな荷物運べるわけねーだろが	Good grief, no way your tiny body\ncan carry luggage like this!	
+cev61_030.scr:7	cev61_030.scr	7	スパーダ	Spada Belforma	personagem	CRLF x1	オラ、行くぞ。\nちゃっちゃと運んじまおーぜ！	Come on, let's move.\nLet's get this hauled in a flash!	
+cev61_030.scr:8	cev61_030.scr	8	ロックス	Rocks	personagem	CRLF x1	え？　\nあ……はい	Eh?\nAh...... yes!	
+cev61_030.scr:9	cev61_030.scr	9	ロックス	Rocks	personagem	CRLF x1	ありがとうございます。\nスパーダ様は、優しいんですね	Thank you very much.\nYou are so kind, Lord Spada.	
+cev61_030.scr:10	cev61_030.scr	10	スパーダ	Spada Belforma	personagem	CRLF x1	バーカ！\n寒ィ事言ってんじゃねーよ！！	Idiot!\nDon't say such cheesy crap!!	
+cev61_030.scr:11	cev61_030.scr	11	スパーダ	Spada Belforma	personagem	CRLF x1	当たり前の事してるだけだってェの。\n勝手に深読みしてんじゃねーよ！	I'm just doing what's obvious!\nDon't go overthinking it!	
+cev61_030.scr:12	cev61_030.scr	12	ロックス	Rocks	personagem	CRLF x2	そういうのを、優しいというのだと\n思いますけどね。\nふふ…	I believe that is precisely\nwhat kindness is, though.\nFufu...	
+cev61_040.scr:0	cev61_040.scr	0	ロックス	Rocks	personagem		よいしょ、よいしょ……	Heave, ho......	
+cev61_040.scr:1	cev61_040.scr	1	ロイド	Lloyd Irving	personagem		うわぁ〜、重そうだなぁ	Whoa~ Looks really heavy!	
+cev61_040.scr:2	cev61_040.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	半分手伝うよ。\nそっちの大きいやつ、貸してくれ	I'll help you with half.\nGive me that big one over there.	
+cev61_040.scr:3	cev61_040.scr	3	ロックス	Rocks	personagem	CRLF x1	いえ、でも……。\nこれが僕の仕事ですので	No, but......\nThis is my job, after all.	
+cev61_040.scr:4	cev61_040.scr	4	ロイド	Lloyd Irving	personagem		いーからいーから	Don't worry about it!	
+cev61_040.scr:5	cev61_040.scr	5	ロイド	Lloyd Irving	personagem	CRLF x2	ドワーフの誓い、第２番。\n困ってる人を見かけたら\n必ず力を貸そう、だ	Dwarven Vow number 2:\nIf you see someone in trouble,\nalways lend a hand!	
+cev61_040.scr:6	cev61_040.scr	6	ロイド	Lloyd Irving	personagem	CRLF x1	ほら、早く行こうぜ。\nこれはどこに運んどけばいいんだ？	Come on, let's hurry up.\nWhere should I carry this to?	
+cev61_040.scr:7	cev61_040.scr	7	ロックス	Rocks	personagem		……じゃあ、お言葉に甘えて	......Then, I'll take you up on that.	
+cev61_040.scr:8	cev61_040.scr	8	ロックス	Rocks	personagem		その荷物は、食料庫までお願い出来ますか	Could you take that load to the pantry?	
+cev61_040.scr:9	cev61_040.scr	9	ロイド	Lloyd Irving	personagem		おう、任しとけ！	Yeah, leave it to me!	
+cev61_040.scr:10	cev61_040.scr	10	ロックス	Rocks	personagem	CRLF x1	あっ、そっちは卵が入ってるんです。\nあまり振らない様にお願い出来ますか……	Ah, there are eggs in that one.\nPlease try not to shake it much......	
+cev61_040.scr:11	cev61_040.scr	11	スパーダ	Spada Belforma	personagem	CRLF x1	ふ〜ん。\n何だよ、ロイドの奴……	Hmph.\nLook at that Lloyd guy......	
+cev61_040.scr:12	cev61_040.scr	12	スパーダ	Spada Belforma	personagem		いい奴じゃねーか	He's a pretty good guy, ain't he?	
+cev61_050.scr:0	cev61_050.scr	0	イリア	Iria Animi	personagem	CRLF x1	しっかし、ロックスってマメよねぇ〜。\nカノンノの世話焼き魔人って感じ	Still, Rocks is so diligent~\nLike a fiend devoted to Kanonno's care.	
+cev61_050.scr:1	cev61_050.scr	1	ロックス	Rocks	personagem	CRLF x2	生涯、お嬢様に忠義を尽くし\nお傍で奉公させていただくのが\n僕の一番の喜びですから	Serving with loyalty at milady's side\nfor the rest of my days\nis my greatest joy, after all.	
+cev61_050.scr:2	cev61_050.scr	2	スパーダ	Spada Belforma	personagem	CRLF x1	忠義ねェ。\n立派なモンだが	Loyalty, huh?\nAdmirable and all, but...	
+cev61_050.scr:3	cev61_050.scr	3	スパーダ	Spada Belforma	personagem	CRLF x1	ま、オレには単なるパシリにしか\n見えねえけどな	Well, to me it just looks\nlike being a plain errand boy.	
+cev61_050.scr:4	cev61_050.scr	4	ロックス	Rocks	personagem	CRLF x1	パ、パシリとは失礼な！\n僕はそんなんじゃ……	A-An errand boy?! How rude!\nI'm not doing anything like......	
+cev61_050.scr:5	cev61_050.scr	5	スパーダ	Spada Belforma	personagem	CRLF x1	オラ、つまみが足んねーぞ！\n何チンタラしてんだコラァ！！	Hey, we're outta snacks here!\nStop dragging your feet, damn it!!	
+cev61_050.scr:6	cev61_050.scr	6	ロックス	Rocks	personagem	CRLF x1	ヒィッ！\nす、すみません今すぐに〜〜！！	Eeeek!\nI-I'm so sorry, right away~~!!	
+cev61_050.scr:7	cev61_050.scr	7	スパーダ	Spada Belforma	personagem	CRLF x1	ホラな。\nありゃ、完全に条件反射だ	See that?\nThat was a conditioned reflex.	
+cev61_050.scr:8	cev61_050.scr	8	スパーダ	Spada Belforma	personagem		相当な下積み経験があると見たぜ	I bet he's done tons of grunt work.	
+cev61_050.scr:9	cev61_050.scr	9	イリア	Iria Animi	personagem		あんたの嗅覚も大したもんだわ……	Your nose for that is pretty sharp too...	
+cev61_060.scr:0	cev61_060.scr	0	スパーダ	Spada Belforma	personagem	CRLF x1	なぁ、ヒトの進化種って\nどんなのがいると思う？	Hey, what kind of evolved humans\ndo you think are out there?	
+cev61_060.scr:1	cev61_060.scr	1	ヴェイグ	Veigue Lungberg	personagem		……どういう意味だ	......What do you mean?	
+cev61_060.scr:2	cev61_060.scr	2	スパーダ	Spada Belforma	personagem	CRLF x1	例えば、ほら\n種の存続の為にだな……	Like, say,\nfor the survival of the species...	
+cev61_060.scr:3	cev61_060.scr	3	スパーダ	Spada Belforma	personagem	CRLF x2	狙ってる女の好みのタイプが\n見破れる進化種とか、\nスリーサイズがわかっちまう進化種とか	An evolved type who sees a girl's type,\nor one who can tell her measurements\nat a glance!	
+cev61_060.scr:4	cev61_060.scr	4	ヴェイグ	Veigue Lungberg	personagem		…………	......	
+cev61_060.scr:5	cev61_060.scr	5	スパーダ	Spada Belforma	personagem	CRLF x1	だってよォ、ただでさえ\n出会いが少ない世の中だぜ？	Come on, meetings are rare enough\nin this world as it is, right?	
+cev61_060.scr:6	cev61_060.scr	6	スパーダ	Spada Belforma	personagem	CRLF x1	そン中から、カップルになれる確率なんて\nそれこそ……	The chances of becoming a couple\nfrom that are basically......	
+cev61_060.scr:7	cev61_060.scr	7	スパーダ	Spada Belforma	personagem		っておい、無視かよっ！？	Hey, you're ignoring me?!	
+cev61_060.scr:8	cev61_060.scr	8	スパーダ	Spada Belforma	personagem		今のはツッコむところだろーが！	That was your cue to call me out!	
+cev61_070.scr:0	cev61_070.scr	0	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	待っていろ、クレア……。\n今助けに行く！	Wait for me, Claire......\nI'm coming to save you now!	
+cev61_070.scr:1	cev61_070.scr	1	スパーダ	Spada Belforma	personagem	CRLF x1	オイ！　\n落ち着けって！！	Hey!\nCalm down, damn it!!	
+cev61_070.scr:2	cev61_070.scr	2	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	痛ッ……何をする！！\nその手を離せ！！	Ow... What are you doing?!\nLet go of me!!	
+cev61_070.scr:3	cev61_070.scr	3	スパーダ	Spada Belforma	personagem	CRLF x1	（やべェ！　咄嗟に髪の毛掴んじまった！\n　こいつの髪、何でこんな長ェんだよ！？）	(Crap! I grabbed his hair on reflex!\nWhy the hell is it so damn long?!)	
+cev61_070.scr:4	cev61_070.scr	4	スパーダ	Spada Belforma	personagem	CRLF x1	こうでもしなきゃ、お前は\nオレの話なんか聞かなかったろーが	If I didn't, you wouldn't have\nlistened to a word I said, would ya?!	
+cev61_070.scr:5	cev61_070.scr	5	スパーダ	Spada Belforma	personagem	CRLF x2	ったく……一人で暴走してんじゃねえ！\nお前がそんなで、確実にクレアを\n助け出す事なんて出来ンのか？	Jeez... Don't go running off alone!\nActing like that, do you really think\nyou can save Claire for sure?!	
+cev61_070.scr:6	cev61_070.scr	6	スパーダ	Spada Belforma	personagem		ちったァ、頭冷やせ！	Cool your head down a bit!	
+cev61_070.scr:7	cev61_070.scr	7	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……そう、だな……。\nスパーダの言う通りだ	......You're right......\nIt's just as you say, Spada.	
+cev61_070.scr:8	cev61_070.scr	8	ヴェイグ	Veigue Lungberg	personagem		すまなかった	I am sorry.	
+cev61_070.scr:9	cev61_070.scr	9	スパーダ	Spada Belforma	personagem	CRLF x1	おう。\nわかりゃあいいんだよ	Yeah.\nAs long as you get it, it's cool.	
+cev61_070.scr:10	cev61_070.scr	10	スパーダ	Spada Belforma	personagem	CRLF x1	（危ねェ危ねェ……。\n　何とかそれっぽく誤魔化せたぜ〜）	(Close one, that was close...\nManaged to bluff my way through~)	
+cev61_080.scr:0	cev61_080.scr	0	スタン	Stahn Aileron	personagem	CRLF x1	なあ、スパーダ。\n話があるんだけど	Hey, Spada.\nThere's something I want to discuss.	
+cev61_080.scr:1	cev61_080.scr	1	スパーダ	Spada Belforma	personagem	CRLF x1	あァ？　\n何だよ	Hah?\nWhat is it?	
+cev61_080.scr:2	cev61_080.scr	2	スタン	Stahn Aileron	personagem	CRLF x2	スパーダの武器についてなんだけど、\nもっと色んな二刀流を試してみても\nいいんじゃないかな	It's about your weapons, Spada.\nWhy don't you try out all kinds\nof different dual wielding styles?	
+cev61_080.scr:3	cev61_080.scr	3	スパーダ	Spada Belforma	personagem		色んな二刀流だぁ？	Different dual wielding styles?!	
+cev61_080.scr:4	cev61_080.scr	4	スタン	Stahn Aileron	personagem	CRLF x1	そう。\n例えば短剣と弓矢とか！	Yeah!\nLike a dagger and a bow and arrow!	
+cev61_080.scr:5	cev61_080.scr	5	スパーダ	Spada Belforma	personagem	CRLF x1	短剣持ってたら、\n弓に矢がつがえらんねェだろ	If you're holding a dagger, you can't\nnock an arrow to a bow, moron!	
+cev61_080.scr:6	cev61_080.scr	6	スタン	Stahn Aileron	personagem		あ、そうか	Ah, good point.	
+cev61_080.scr:7	cev61_080.scr	7	スタン	Stahn Aileron	personagem	CRLF x1	じゃあ、短剣を相手に投げて\nその隙に矢を射るとか！	Then throw the dagger at the foe\nand shoot an arrow in the opening!	
+cev61_080.scr:8	cev61_080.scr	8	スパーダ	Spada Belforma	personagem	CRLF x1	二刀流の意味ねェよ！\nってか、刀ですらねえし！！	Zero point in dual wielding then!\nAnd a bow ain't even a blade!!	
+cev61_080.scr:9	cev61_080.scr	9	スタン	Stahn Aileron	personagem	CRLF x1	う〜ん、じゃあ\n長剣とステッキとか……？	Hmm, then how about\na longsword and a cane......?	
+cev61_080.scr:10	cev61_080.scr	10	スパーダ	Spada Belforma	personagem	CRLF x2	結局何が言いたいんだ、お前はよ……。\n人をおちょくってンのか？　\nああ？	What're you even trying to say?!\nAre you mocking me?!\nHuh?!	
+cev61_080.scr:11	cev61_080.scr	11	スタン	Stahn Aileron	personagem	CRLF x1	（うーん、なかなか難しいんだな。\n　二刀流って……）	(Hmm, dual wielding really is\nquite difficult, isn't it......)	
+cev61_200.scr:0	cev61_200.scr	0	スパーダ	Spada Belforma	personagem	CRLF x1	通常。\n	Normal.\n	
+cev61_200.scr:1	cev61_200.scr	1	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:2	cev61_200.scr	2	スパーダ	Spada Belforma	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev61_200.scr:3	cev61_200.scr	3	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:4	cev61_200.scr	4	スパーダ	Spada Belforma	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev61_200.scr:5	cev61_200.scr	5	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:6	cev61_200.scr	6	スパーダ	Spada Belforma	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev61_200.scr:7	cev61_200.scr	7	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:8	cev61_200.scr	8	スパーダ	Spada Belforma	personagem	CRLF x1	悪笑い。\n	Evil laughter.\n	
+cev61_200.scr:9	cev61_200.scr	9	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:10	cev61_200.scr	10	スパーダ	Spada Belforma	personagem	CRLF x1	メンチ。\n	Glare.\n	
+cev61_200.scr:11	cev61_200.scr	11	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:12	cev61_200.scr	12	スパーダ	Spada Belforma	personagem	CRLF x1	通常。\n	Normal.\n	
+cev61_200.scr:13	cev61_200.scr	13	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:14	cev61_200.scr	14	スパーダ	Spada Belforma	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev61_200.scr:15	cev61_200.scr	15	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:16	cev61_200.scr	16	スパーダ	Spada Belforma	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev61_200.scr:17	cev61_200.scr	17	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:18	cev61_200.scr	18	スパーダ	Spada Belforma	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev61_200.scr:19	cev61_200.scr	19	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:20	cev61_200.scr	20	スパーダ	Spada Belforma	personagem	CRLF x1	悪笑い。\n	Evil laughter.\n	
+cev61_200.scr:21	cev61_200.scr	21	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:22	cev61_200.scr	22	スパーダ	Spada Belforma	personagem	CRLF x1	メンチ。\n	Glare.\n	
+cev61_200.scr:23	cev61_200.scr	23	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:24	cev61_200.scr	24	スパーダ	Spada Belforma	personagem	CRLF x1	通常。\n	Normal.\n	
+cev61_200.scr:25	cev61_200.scr	25	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:26	cev61_200.scr	26	スパーダ	Spada Belforma	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev61_200.scr:27	cev61_200.scr	27	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:28	cev61_200.scr	28	スパーダ	Spada Belforma	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev61_200.scr:29	cev61_200.scr	29	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:30	cev61_200.scr	30	スパーダ	Spada Belforma	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev61_200.scr:31	cev61_200.scr	31	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:32	cev61_200.scr	32	スパーダ	Spada Belforma	personagem	CRLF x1	悪笑い。\n	Evil laughter.\n	
+cev61_200.scr:33	cev61_200.scr	33	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev61_200.scr:34	cev61_200.scr	34	スパーダ	Spada Belforma	personagem	CRLF x1	メンチ。\n	Glare.\n	
+cev61_200.scr:35	cev61_200.scr	35	スパーダ	Spada Belforma	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	

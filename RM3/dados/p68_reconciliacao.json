@@ -1,0 +1,440 @@
+{
+ "MISC": [
+  [
+   "bgm#3",
+   "War Begins",
+   "Opening of Battle"
+  ],
+  [
+   "lugares#1",
+   "Gildia",
+   "Zirdia"
+  ],
+  [
+   "lugares#5",
+   "Urizn Empire",
+   "Urizen Empire"
+  ],
+  [
+   "lugares#16",
+   "Raima",
+   "Lima"
+  ],
+  [
+   "lugares#17",
+   "Raima",
+   "Lima"
+  ],
+  [
+   "questfiltro#15",
+   "Peddler Gamel",
+   "Merchant Gamel"
+  ],
+  [
+   "questfiltro#27",
+   "Dreamer Rina",
+   "Dreaming Girl Rina"
+  ],
+  [
+   "questfiltro#30",
+   "Celebrity Sylvia",
+   "Socialite Sylvia"
+  ],
+  [
+   "questfiltro#40",
+   "OO",
+   "○○."
+  ],
+  [
+   "bonus#13",
+   "War Begins",
+   "Opening of Battle"
+  ]
+ ],
+ "UI-01": [
+  [
+   "ui#31",
+   "Melee class attacking with powerful weapons.",
+   "A melee job that attacks with powerful weapons."
+  ],
+  [
+   "ui#33",
+   "All-rounder wielding both swords and attack artes.",
+   "Wields both sword skills and artes."
+  ],
+  [
+   "ui#34",
+   "Brawler class specializing in hand-to-hand combat.",
+   "A martial job that excels at bare-fisted combat."
+  ],
+  [
+   "ui#35",
+   "Class skilled in fast dagger attacks and stealing.",
+   "Excels at swift dagger attacks and stealing."
+  ],
+  [
+   "ui#36",
+   "Class adept in special martial arts called ninjutsu.",
+   "Master of the body arts of ninjutsu."
+  ],
+  [
+   "ui#37",
+   "A class specializing in offensive spells.",
+   "Excels at artes built for attacking."
+  ],
+  [
+   "ui#38",
+   "A class skilled in healing and support spells.",
+   "Excels at healing and support artes."
+  ],
+  [
+   "ui#39",
+   "All-rounder proficient in attack and healing artes.",
+   "Skilled in both attack and healing artes."
+  ],
+  [
+   "ui#40",
+   "Dual-wielding swordsman fighting with two blades.",
+   "An unorthodox swordsman with two blades."
+  ],
+  [
+   "ui#41",
+   "Power fighter wielding a massive greatsword.",
+   "A power fighter with a huge greatsword."
+  ],
+  [
+   "ui#42",
+   "Brawler class equipped with ki healing techniques.",
+   "A martial job that also heals with ki."
+  ],
+  [
+   "ui#43",
+   "Combines ranged gun attacks with close-range daggers.",
+   "Mixes ranged gunfire and dagger melee."
+  ],
+  [
+   "ui#44",
+   "Versatile class combining greatswords and support.",
+   "Greatsword power plus support artes."
+  ],
+  [
+   "ui#45",
+   "A class unleashing rapid attacks with dual guns.",
+   "Unleashes rapid attacks with twin pistols."
+  ],
+  [
+   "ui#125",
+   "TOS: Dawn of New World",
+   "Tales of Symphonia: Dawn of the New World"
+  ],
+  [
+   "ui#142",
+   "Merc",
+   "Mercenary"
+  ],
+  [
+   "ui#147",
+   "Equip",
+   "Equipment"
+  ],
+  [
+   "ui#156",
+   "Tools",
+   "Item"
+  ],
+  [
+   "ui#225",
+   "Check Skill",
+   "View Skills"
+  ],
+  [
+   "ui#226",
+   "Check Effect",
+   "View Effect"
+  ],
+  [
+   "ui#250",
+   "Items",
+   "Item"
+  ],
+  [
+   "ui#289",
+   "Novelty Weapon",
+   "Misc Weapon"
+  ],
+  [
+   "ui#292",
+   "Face Equip",
+   "Face Gear"
+  ],
+  [
+   "ui#294",
+   "Legs Equip",
+   "Footwear"
+  ],
+  [
+   "ui#298",
+   "Gun",
+   "Handgun"
+  ],
+  [
+   "ui#314",
+   "Bangle",
+   "Bracelet"
+  ]
+ ],
+ "UI-02": [
+  [
+   "ui#360",
+   "Gun",
+   "Handgun"
+  ],
+  [
+   "ui#362",
+   "Novelty Weapon",
+   "Misc Weapon"
+  ],
+  [
+   "ui#364",
+   "Face Equip",
+   "Face Gear"
+  ],
+  [
+   "ui#367",
+   "Bangle",
+   "Bracelet"
+  ],
+  [
+   "ui#368",
+   "Legs Equip",
+   "Footwear"
+  ],
+  [
+   "ui#381",
+   "Fists",
+   "Fist"
+  ],
+  [
+   "ui#383",
+   "Gun",
+   "Handgun"
+  ],
+  [
+   "ui#385",
+   "Novelty Weapon",
+   "Misc Weapon"
+  ],
+  [
+   "ui#387",
+   "Clothes",
+   "Clothing"
+  ],
+  [
+   "ui#391",
+   "Face Equip",
+   "Face Gear"
+  ],
+  [
+   "ui#393",
+   "Bangle",
+   "Bracelet"
+  ],
+  [
+   "ui#394",
+   "Legs Equip",
+   "Footwear"
+  ],
+  [
+   "ui#454",
+   "Default Play",
+   "Default Playback"
+  ],
+  [
+   "ui#455",
+   "Random Play",
+   "Random Playback"
+  ],
+  [
+   "ui#497",
+   "Name has not been set.",
+   "No name has been set"
+  ],
+  [
+   "ui#519",
+   "Stun Resist Break",
+   "Stagger Resistance Break"
+  ],
+  [
+   "ui#522",
+   "Guard Boost",
+   "Guard Reinforcement"
+  ],
+  [
+   "ui#523",
+   "Stun Resistance",
+   "Stagger Resistance"
+  ],
+  [
+   "ui#541",
+   "Skill Slots Up",
+   "Skill Slot Boost"
+  ],
+  [
+   "ui#550",
+   "Prevent Petrifaction",
+   "Prevent Petrification"
+  ],
+  [
+   "ui#591",
+   "Equippable Characters",
+   "Equippable By"
+  ],
+  [
+   "ui#612",
+   "Strategy Config",
+   "Strategy Settings"
+  ],
+  [
+   "ui#637",
+   "Toggle Usage",
+   "Toggle Use"
+  ]
+ ],
+ "UI-03": [
+  [
+   "ui#645",
+   "Equip",
+   "Equipment"
+  ],
+  [
+   "ui#646",
+   "Items",
+   "Item"
+  ],
+  [
+   "ui#654",
+   "Bottles",
+   "Bottle"
+  ],
+  [
+   "ui#671",
+   "Change and check gear.",
+   "Change/View Gear"
+  ],
+  [
+   "ui#785",
+   "Bridge",
+   "Helm Room"
+  ],
+  [
+   "ui#795",
+   "1F Hallway A",
+   "1F Passage A"
+  ],
+  [
+   "ui#800",
+   "Clinic",
+   "Infirmary"
+  ],
+  [
+   "ui#803",
+   "1F Hallway B",
+   "1F Passage B"
+  ],
+  [
+   "ui#804",
+   "Lab",
+   "Laboratory"
+  ],
+  [
+   "ui#805",
+   "B1F Hallway A",
+   "B1F Passage A"
+  ],
+  [
+   "ui#812",
+   "B1F Hallway B",
+   "B1F Passage B"
+  ],
+  [
+   "ui#831",
+   "Default Play",
+   "Default Playback"
+  ],
+  [
+   "ui#832",
+   "Random Play",
+   "Random Playback"
+  ],
+  [
+   "ui#833",
+   "Select All Battle BGM",
+   "Select from all battle themes"
+  ],
+  [
+   "ui#834",
+   "Choose from Standard BGM",
+   "Select from normal battle themes"
+  ],
+  [
+   "ui#835",
+   "Choose from Boss BGM",
+   "Select from boss battle themes"
+  ],
+  [
+   "ui#839",
+   "TOS: Dawn of New World",
+   "Tales of Symphonia: Dawn of the New World"
+  ],
+  [
+   "ui#840",
+   "Plays standard default music.",
+   "Plays the standard theme without specifying a song"
+  ],
+  [
+   "ui#841",
+   "Plays random track from available music.",
+   "Plays a random song from the selectable themes"
+  ],
+  [
+   "ui#842",
+   "Select from all available tracks.",
+   "Selects from all selectable themes"
+  ],
+  [
+   "ui#843",
+   "Select from normal battle tracks.",
+   "Selects from the normal battle themes"
+  ],
+  [
+   "ui#844",
+   "Select from boss battle tracks.",
+   "Selects from the boss battle themes"
+  ],
+  [
+   "ui#845",
+   "Filters tracks by game series.",
+   "Filters songs by series"
+  ],
+  [
+   "ui#846",
+   "Filters tracks by musical artist.",
+   "Filters songs by artist"
+  ],
+  [
+   "ui#847",
+   "Select from TOS: Dawn of New World battle tracks.",
+   "Selects from the Tales of Symphonia: Dawn of the New World battle themes"
+  ],
+  [
+   "ui#856",
+   "Page Turn",
+   "Next Page"
+  ],
+  [
+   "ui#858",
+   "Decide",
+   "OK"
+  ]
+ ]
+}

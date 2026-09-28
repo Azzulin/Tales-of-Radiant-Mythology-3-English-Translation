@@ -1,0 +1,224 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev49_010.scr:0	cev49_010.scr	0	ルーク	Luke fon Fabre	personagem		あー、だりぃ		
+cev49_010.scr:1	cev49_010.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x1	ガイ。\n何か面白い事ねぇのかよ		
+cev49_010.scr:2	cev49_010.scr	2	ガイ	Guy Cecil	personagem		またルークの退屈病が始まったな		
+cev49_010.scr:3	cev49_010.scr	3	ティア	Tear Grants	personagem		ルーク、時間は有効に活用するべきよ		
+cev49_010.scr:4	cev49_010.scr	4	ティア	Tear Grants	personagem	CRLF x1	この機会に、普段やらない事に\n挑戦してみるというのはどうかしら		
+cev49_010.scr:5	cev49_010.scr	5	ガイ	Guy Cecil	personagem		お、それはいいかもしれないな		
+cev49_010.scr:6	cev49_010.scr	6	ガイ	Guy Cecil	personagem	CRLF x1	料理なんてどうだ、ルーク？\n楽しいぞ		
+cev49_010.scr:7	cev49_010.scr	7	コーダ	Coda	personagem	CRLF x1	何だ、メシの時間か？\nコーダは腹が減ったぞ、しかし		
+cev49_010.scr:8	cev49_010.scr	8	ルーク	Luke fon Fabre	personagem		何だぁ？　このアホザル		
+cev49_010.scr:9	cev49_010.scr	9	ガイ	Guy Cecil	personagem	CRLF x1	こいつは……。\n確か、イリアの飼ってるサルか？		
+cev49_010.scr:10	cev49_010.scr	10	ティア	Tear Grants	personagem		（大きな耳……かわいい……）		
+cev49_010.scr:11	cev49_010.scr	11	コーダ	Coda	personagem		メシはいつ出るんだ？　しかし		
+cev49_010.scr:12	cev49_010.scr	12	ルーク	Luke fon Fabre	personagem		飯なんて出ねぇよ、アホザル		
+cev49_010.scr:13	cev49_010.scr	13	コーダ	Coda	personagem	CRLF x1	コーダは、クレアの\nピーチパイが好物なんだな、しかし		
+cev49_010.scr:14	cev49_010.scr	14	ルーク	Luke fon Fabre	personagem		うっせー！		
+cev49_010.scr:15	cev49_010.scr	15	ルーク	Luke fon Fabre	personagem	CRLF x1	お前！\nいちいち喋りがうぜーっつーの！！		
+cev49_010.scr:16	cev49_010.scr	16	コーダ	Coda	personagem	CRLF x1	はっ。\n美味そうな匂い……		
+cev49_010.scr:17	cev49_010.scr	17	コーダ	Coda	personagem		あっちなんだな、しかし！		
+cev49_010.scr:18	cev49_010.scr	18	ルーク	Luke fon Fabre	personagem		てめ、待ちやがれ、このアホザル！！		
+cev49_010.scr:19	cev49_010.scr	19	ガイ	Guy Cecil	personagem	CRLF x1	やれやれ……。\nいい退屈しのぎにはなるか？		
+cev49_010.scr:20	cev49_010.scr	20	ティア	Tear Grants	personagem	CRLF x1	ご飯があれば……、\n触らせてくれるかしら……		
+cev49_010.scr:21	cev49_010.scr	21	ガイ	Guy Cecil	personagem		おいおい		
+cev49_020.scr:0	cev49_020.scr	0	クィッキー	Quickie	personagem		クィ……、ク……		
+cev49_020.scr:1	cev49_020.scr	1	クィッキー	Quickie	personagem		クィッキーーー！		
+cev49_020.scr:2	cev49_020.scr	2	ピッポ	Pippo	personagem	CRLF x1	キュ？\nどうしたキュ？		
+cev49_020.scr:3	cev49_020.scr	3	クィッキー	Quickie	personagem		ク……、クィッキ……		
+cev49_020.scr:4	cev49_020.scr	4	ポッポ	Poppo	personagem	CRLF x1	あ、あそこに黒くて\nカサカサ動いている虫がいるキュ！		
+cev49_020.scr:5	cev49_020.scr	5	キュッポ	Kyuppo	personagem	CRLF x1	あれが怖いだキュ？\nそれならキュッポに任せるキュ！		
+cev49_020.scr:6	cev49_020.scr	6	キュッポ	Kyuppo	personagem		もう大丈夫だキュ		
+cev49_020.scr:7	cev49_020.scr	7	ピッポ	Pippo	personagem		さすがはキュッポ兄さんだキュ		
+cev49_020.scr:8	cev49_020.scr	8	ポッポ	Poppo	personagem		勝利のダンス、開始だキュ！		
+cev49_020.scr:9	cev49_020.scr	9	(narracao)	(narracao)	narracao	CRLF x2	キュ〜キュキュ〜キュ〜キュキュッキュ〜♪\nキュキュキュ♪　キュキュキュ♪\nキュキュキュッキュ！		
+cev49_020.scr:10	cev49_020.scr	10	クィッキー	Quickie	personagem	CRLF x1	クィ〜、クィクィ〜クククィッキ〜♪\nクィクィクィ♪　クィッキ〜〜♪		
+cev49_020.scr:11	cev49_020.scr	11	コーダ	Coda	personagem		全く、騒がしいぞ、しかし		
+cev49_020.scr:12	cev49_020.scr	12	(narracao)	(narracao)	narracao		キュキュ〜♪		
+cev49_020.scr:13	cev49_020.scr	13	クィッキー	Quickie	personagem		クィッキ〜〜♪		
+cev49_020.scr:14	cev49_020.scr	14	コーダ	Coda	personagem	CRLF x1	コーダが騒がしいと言っているのに\n踊るのをやめないのか？　しかし		
+cev49_020.scr:15	cev49_020.scr	15	ルーク	Luke fon Fabre	personagem		うるせーぞ、このアホザル！！		
+cev49_020.scr:16	cev49_020.scr	16	クィッキー	Quickie	personagem		クィ〜〜〜〜〜〜		
+cev49_020.scr:17	cev49_020.scr	17	コーダ	Coda	personagem	CRLF x1	ひどいな。\nお前のペットとは違うぞ、しかし		
+cev49_020.scr:18	cev49_020.scr	18	ルーク	Luke fon Fabre	personagem	CRLF x1	んなもん、かんけーねぇってーの！\nうぜぇもんは、うぜぇんだよ！！		
+cev49_030.scr:0	cev49_030.scr	0	ルーク	Luke fon Fabre	personagem	CRLF x1	「しばらくバンエルティア号っつー船で\n　世話んなる事になった」		
+cev49_030.scr:1	cev49_030.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x2	「久々に好き勝手動けるかと思ったら\n　ギルドの仕事が回ってこねーと\n　外に出たらダメらしい」		
+cev49_030.scr:2	cev49_030.scr	2	ルーク	Luke fon Fabre	personagem		「ちぇっ、つまんねー」		
+cev49_030.scr:3	cev49_030.scr	3	ルーク	Luke fon Fabre	personagem	CRLF x2	「ただ、ヴァン師匠も一緒だし、\n　暇な時剣の稽古もつけるって\n　約束してくれたから」		
+cev49_030.scr:4	cev49_030.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x1	「それはちょっとラッキーだったな。\n　へへっ」		
+cev49_030.scr:5	cev49_030.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x2	「いけすかねーアッシュもいるが、少なくとも\n　城ン中に閉じ込められてる生活よりか\n　だいぶマシかもしんねーな」		
+cev49_030.scr:6	cev49_030.scr	6	ルーク	Luke fon Fabre	personagem		…………		
+cev49_030.scr:7	cev49_030.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x1	……ふう。\nこんなもんか？		
+cev49_030.scr:8	cev49_030.scr	8	ティトレイ	Tytree Crowe	personagem		よおルーク、遊びに来たぜ〜		
+cev49_030.scr:9	cev49_030.scr	9	ティトレイ	Tytree Crowe	personagem	CRLF x2	おっ。\n何書いてんだ？　\n日記か？		
+cev49_030.scr:10	cev49_030.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x1	！！\nば、ばか、見るな！		
+cev49_030.scr:11	cev49_030.scr	11	ルーク	Luke fon Fabre	personagem		つか、勝手に入ってくんじゃねー！		
+cev49_040.scr:0	cev49_040.scr	0	エステル	Estelle	personagem	CRLF x1	ルーク！\nすみません、少しいいです？		
+cev49_040.scr:1	cev49_040.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x1	あ？　\nなんだ、エステルか		
+cev49_040.scr:2	cev49_040.scr	2	ルーク	Luke fon Fabre	personagem		何の用だよ		
+cev49_040.scr:3	cev49_040.scr	3	エステル	Estelle	personagem	CRLF x2	あの……わたしの気のせいかもしれませんが\n最近、ナタリアの元気がない様な\n気がするんです		
+cev49_040.scr:4	cev49_040.scr	4	エステル	Estelle	personagem		何か、心当たりはありませんか？		
+cev49_040.scr:5	cev49_040.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x1	え？\n……別に、知らねえよ		
+cev49_040.scr:6	cev49_040.scr	6	ルーク	Luke fon Fabre	personagem	CRLF x1	変なモンでも食って\n腹壊してるとかじゃねーのか？		
+cev49_040.scr:7	cev49_040.scr	7	エステル	Estelle	personagem		それはないと思いますけど……		
+cev49_040.scr:8	cev49_040.scr	8	エステル	Estelle	personagem	CRLF x2	……やっぱり、わたしの勘違いかも\nしれませんね。\n変な事聞いてすみませんでした		
+cev49_040.scr:9	cev49_040.scr	9	ルーク	Luke fon Fabre	personagem	CRLF x2	ったく……俺が知るわけねーだろっつの。\nあいつ、そういうの何にも\n話さねーんだからよ		
+cev49_040.scr:10	cev49_040.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x2	だーーっ、もう！\n何で俺がモヤモヤしなくちゃなんねーんだ！\nくそっ		
+cev49_040.scr:11	cev49_040.scr	11	ルーク	Luke fon Fabre	personagem	CRLF x1	……しょうがねえ。\nちっと確かめてみるか……		
+cev49_050.scr:0	cev49_050.scr	0	ロックス	Rocks	personagem		お、っと……とととと		
+cev49_050.scr:1	cev49_050.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x1	おわ！　\n危ねぇ！		
+cev49_050.scr:2	cev49_050.scr	2	ルーク	Luke fon Fabre	personagem	CRLF x2	チッ。\nんだよ、ブタ執事。\nどこ見て歩いてんだよ！		
+cev49_050.scr:3	cev49_050.scr	3	ロックス	Rocks	personagem	CRLF x1	も、申し訳……ありません。\n何でも、ありません……ので		
+cev49_050.scr:4	cev49_050.scr	4	ガイ	Guy Cecil	personagem	CRLF x1	おい、本当に大丈夫か？\n顔色が真っ青じゃないか		
+cev49_050.scr:5	cev49_050.scr	5	ロックス	Rocks	personagem		大丈夫です……		
+cev49_050.scr:6	cev49_050.scr	6	ロックス	Rocks	personagem		あう……		
+cev49_050.scr:7	cev49_050.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x1	何だぁ？\n腹減ってんのかよ		
+cev49_050.scr:8	cev49_050.scr	8	ルーク	Luke fon Fabre	personagem		ったく、しょうがねーな		
+cev49_050.scr:9	cev49_050.scr	9	ルーク	Luke fon Fabre	personagem	CRLF x1	おらよ。\nこれでも食ってろ		
+cev49_050.scr:10	cev49_050.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x1	つってもまぁ、あんま腹の足しには\nなんねーと思うけどな		
+cev49_050.scr:11	cev49_050.scr	11	ロックス	Rocks	personagem		ビスケット……		
+cev49_050.scr:12	cev49_050.scr	12	ロックス	Rocks	personagem		でも……		
+cev49_050.scr:13	cev49_050.scr	13	ガイ	Guy Cecil	personagem	CRLF x2	もらっておけよ。\nこれでも、ルークなりに\n気を遣ってるんだ		
+cev49_050.scr:14	cev49_050.scr	14	ルーク	Luke fon Fabre	personagem	CRLF x1	ガイ！\n余計な事言うなっつーの！		
+cev49_050.scr:15	cev49_050.scr	15	ロックス	Rocks	personagem		心配……して下さったんですか		
+cev49_050.scr:16	cev49_050.scr	16	ロックス	Rocks	personagem		ありがとうございます		
+cev49_050.scr:17	cev49_050.scr	17	ルーク	Luke fon Fabre	personagem		別に、そんなんじゃねーよ		
+cev49_050.scr:18	cev49_050.scr	18	ルーク	Luke fon Fabre	personagem	CRLF x1	ただお前、たまに飯食わないで\n仕事してんだろ		
+cev49_050.scr:19	cev49_050.scr	19	ルーク	Luke fon Fabre	personagem	CRLF x2	程々にしとけよ。\nそんでぶっ倒れられたら、\nそれこそこっちが迷惑だからな		
+cev49_050.scr:20	cev49_050.scr	20	ガイ	Guy Cecil	personagem	CRLF x1	ははは。\n相変わらず素直じゃないねえ		
+cev49_050.scr:21	cev49_050.scr	21	ロックス	Rocks	personagem	CRLF x1	（ガイ様が、ルーク様にお仕えする理由……。\n　何だかわかった気がします）		
+cev49_060.scr:0	cev49_060.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x1	よお、お坊ちゃま！\nどした、そんな楽しそうな顔して		
+cev49_060.scr:1	cev49_060.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x1	これのどこが楽しそうな顔に見えんだよ！\nお前バカだろ！		
+cev49_060.scr:2	cev49_060.scr	2	ユーリ	Yuri Lowell	personagem		はは、案外当たってるぜ、それ		
+cev49_060.scr:3	cev49_060.scr	3	ルーク	Luke fon Fabre	personagem	CRLF x1	腹減ってイライラしてる時に\n余計な事言うんじゃねぇよ！		
+cev49_060.scr:4	cev49_060.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x1	腹減ってるって\nさっき飯食ったばっかじゃねぇか？		
+cev49_060.scr:5	cev49_060.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x2	はん！　\nあんなしょぼい飯、\n俺の口に合うわけねぇだろうが		
+cev49_060.scr:6	cev49_060.scr	6	ルーク	Luke fon Fabre	personagem		そうだお前、ちょうどいい！		
+cev49_060.scr:7	cev49_060.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x1	おい。\n俺の口に合う飯を買って来いよ！		
+cev49_060.scr:8	cev49_060.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x1	はは、面白い事言うお坊ちゃんだな。\nんで、どこで買って来いってんだ？		
+cev49_060.scr:9	cev49_060.scr	9	ルーク	Luke fon Fabre	personagem	CRLF x2	んなもん、自分で考えろっつーの。\n金なら幾らでもあんだから、\nちゃっちゃと行って買って来い！		
+cev49_060.scr:10	cev49_060.scr	10	ユーリ	Yuri Lowell	personagem	CRLF x2	そんなに大金を所持してんなら\nご自分のお眼鏡にかなうコックでも\n雇ってくりゃいいんじゃないのかね		
+cev49_060.scr:11	cev49_060.scr	11	ルーク	Luke fon Fabre	personagem	CRLF x2	お前、バカか？\nこんな空の上で、どうやって\nコックを見つけて来いってんだよ！		
+cev49_060.scr:12	cev49_060.scr	12	ユーリ	Yuri Lowell	personagem	CRLF x1	そうだよなぁ〜。\nこんな空の上だもんなあ		
+cev49_060.scr:13	cev49_060.scr	13	ユーリ	Yuri Lowell	personagem	CRLF x1	という事は、ご馳走を揃えるってのも\n到底無理な相談だよな		
+cev49_060.scr:14	cev49_060.scr	14	ルーク	Luke fon Fabre	personagem		む……、ぐぐぐ……		
+cev49_060.scr:15	cev49_060.scr	15	ルーク	Luke fon Fabre	personagem	CRLF x2	うっせぇー！\nちょっと、俺が\n言い間違えただけだろうが！		
+cev49_060.scr:16	cev49_060.scr	16	ルーク	Luke fon Fabre	personagem	CRLF x2	いいから、どうにか飯を\n旨くしてくれりゃいいんだよ！\nお前ならそれぐらい出来んだろ！		
+cev49_060.scr:17	cev49_060.scr	17	ルーク	Luke fon Fabre	personagem	CRLF x1	いいか、俺はお前に頼んだからな！\n忘れんなよ！！		
+cev49_060.scr:18	cev49_060.scr	18	ユーリ	Yuri Lowell	personagem	CRLF x1	へいへい、わかったわかった。\n考えとくよ、お坊ちゃま		
+cev49_060.scr:19	cev49_060.scr	19	ユーリ	Yuri Lowell	personagem	CRLF x2	へえ……。\n意外に、自分の間違いも\n素直に認められんだな		
+cev49_060.scr:20	cev49_060.scr	20	ユーリ	Yuri Lowell	personagem	CRLF x1	最初に思った程\nお子様じゃないって事なのかね		
+cev49_070.scr:0	cev49_070.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	そういやルークって、\nどうして日記を始めようと思ったんだ？		
+cev49_070.scr:1	cev49_070.scr	1	ルーク	Luke fon Fabre	personagem		ああ？		
+cev49_070.scr:2	cev49_070.scr	2	ルーク	Luke fon Fabre	personagem	CRLF x1	どうしてそんな事、わざわざお前に\n教えてやんなきゃなんねーんだよ		
+cev49_070.scr:3	cev49_070.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x2	だってよ、ルークって\nそういうマメな事しなさそうっていうか\n結構律儀な奴なんだなぁって思ってさ		
+cev49_070.scr:4	cev49_070.scr	4	ルーク	Luke fon Fabre	personagem		…………		
+cev49_070.scr:5	cev49_070.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x2	そんなんじゃねーよ。\nガキの頃からのつまんねー習慣が\n今も何となく続いてるだけだ……		
+cev49_070.scr:6	cev49_070.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x1	って事は、結構長く\n日記付けてるって事だよな？		
+cev49_070.scr:7	cev49_070.scr	7	ティトレイ	Tytree Crowe	personagem		やっぱルークってマメなんだなぁ！		
+cev49_070.scr:8	cev49_070.scr	8	ルーク	Luke fon Fabre	personagem	CRLF x1	だ、だから\nそんなんじゃねーっつーの！！		
+cev49_080.scr:0	cev49_080.scr	0	ルーク	Luke fon Fabre	personagem		おい、ウッドロウじゃねえか！？		
+cev49_080.scr:1	cev49_080.scr	1	ティア	Tear Grants	personagem		ちょっと、ルーク！？		
+cev49_080.scr:2	cev49_080.scr	2	ルーク	Luke fon Fabre	personagem		やっぱそうだ！		
+cev49_080.scr:3	cev49_080.scr	3	ルーク	Luke fon Fabre	personagem	CRLF x1	何だよ、お前もこのギルドで\n働く事んなったのか？		
+cev49_080.scr:4	cev49_080.scr	4	ウッドロウ	Woodrow Kelvin	personagem		ああ、実は成り行きで、そうなってね		
+cev49_080.scr:5	cev49_080.scr	5	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	久しぶりだな、ルーク君。\n変わりない様で何よりだ		
+cev49_080.scr:6	cev49_080.scr	6	ルーク	Luke fon Fabre	personagem	CRLF x1	当ったり前だろ？\nそう簡単に変わってたまるかっつーの		
+cev49_080.scr:7	cev49_080.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x2	にしても、お前\nよくこんなショボイ所に\n来る気になったよな		
+cev49_080.scr:8	cev49_080.scr	8	ルーク	Luke fon Fabre	personagem	CRLF x1	金に困ったってわけじゃねーだろうし\n相変わらず物好きなんだな		
+cev49_080.scr:9	cev49_080.scr	9	ティア	Tear Grants	personagem	CRLF x1	ルーク！　\n失礼でしょう		
+cev49_080.scr:10	cev49_080.scr	10	ティア	Tear Grants	personagem	CRLF x1	殿下、ご無礼を申し訳ありません。\n後できつく言い聞かせますから……		
+cev49_080.scr:11	cev49_080.scr	11	ウッドロウ	Woodrow Kelvin	personagem		なに、気にする事はない		
+cev49_080.scr:12	cev49_080.scr	12	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ここは公式の場ではないのだし、\nそう畏まられても、私も困惑してしまう		
+cev49_080.scr:13	cev49_080.scr	13	ティア	Tear Grants	personagem		ですが……		
+cev49_080.scr:14	cev49_080.scr	14	ルーク	Luke fon Fabre	personagem		だよなぁ？		
+cev49_080.scr:15	cev49_080.scr	15	ルーク	Luke fon Fabre	personagem	CRLF x2	へへっ。\n俺、お前のそういう\n堅苦しくねーとこ、楽で助かるわ		
+cev49_080.scr:16	cev49_080.scr	16	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ここでは、そういった接し方の方が\n他の者にとっても、気が楽だろうと思ってね		
+cev49_080.scr:17	cev49_080.scr	17	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	これからも、ギルドの一員として\nよろしく頼むよ。\nルーク君		
+cev49_080.scr:18	cev49_080.scr	18	ルーク	Luke fon Fabre	personagem	CRLF x1	ああ。\n任せとけって！		
+cev49_080.scr:19	cev49_080.scr	19	ティア	Tear Grants	personagem		……頭が痛いわ……		
+cev49_090.scr:0	cev49_090.scr	0	ノーマ	Norma Beatty	personagem	CRLF x1	はい皆さ〜ん。\nここでクイズです〜		
+cev49_090.scr:1	cev49_090.scr	1	ノーマ	Norma Beatty	personagem	CRLF x1	パンはパンでも食べられないパンとは、\n一体何でしょうか〜？		
+cev49_090.scr:2	cev49_090.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	なんだ。\nそんなの簡単だろ！		
+cev49_090.scr:3	cev49_090.scr	3	ノーマ	Norma Beatty	personagem	CRLF x1	あ、フライパンとか\n短パンはなしだからね！		
+cev49_090.scr:4	cev49_090.scr	4	ロイド	Lloyd Irving	personagem	CRLF x2	違う違う。\n食べられないのは、\nリフィル先生が作ったパンだよ！		
+cev49_090.scr:5	cev49_090.scr	5	ロイド	Lloyd Irving	personagem	CRLF x1	とてもじゃないけど、\n一口食べただけで……		
+cev49_090.scr:6	cev49_090.scr	6	チェスター	Chester Barklight	personagem	CRLF x1	な〜に言ってんだよ。\n口に入るだけましだろ！		
+cev49_090.scr:7	cev49_090.scr	7	チェスター	Chester Barklight	personagem	CRLF x1	食べられないパンってのは、\nアーチェが作ったパンだって		
+cev49_090.scr:8	cev49_090.scr	8	チェスター	Chester Barklight	personagem		臭いからして、絶対無理だぜ……		
+cev49_090.scr:9	cev49_090.scr	9	ルーク	Luke fon Fabre	personagem		お前ら、ほんっとわかってねぇなぁ！		
+cev49_090.scr:10	cev49_090.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x1	食えねぇパンってのは、\nナタリアのパンだって		
+cev49_090.scr:11	cev49_090.scr	11	ルーク	Luke fon Fabre	personagem	CRLF x2	あいつの作ったのは、\n持ちたくないぐらい、\nすげぇパンなんだぞ！		
+cev49_090.scr:12	cev49_090.scr	12	ノーマ	Norma Beatty	personagem		ここまで言われる三人って……		
+cev49_090.scr:13	cev49_090.scr	13	ノーマ	Norma Beatty	personagem		でも、面白いからいいや∀		
+cev49_200.scr:0	cev49_200.scr	0	ルーク	Luke fon Fabre	personagem	CRLF x1	通常。\n		
+cev49_200.scr:1	cev49_200.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:2	cev49_200.scr	2	ルーク	Luke fon Fabre	personagem	CRLF x1	笑い。\n		
+cev49_200.scr:3	cev49_200.scr	3	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:4	cev49_200.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x1	怒り。\n		
+cev49_200.scr:5	cev49_200.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:6	cev49_200.scr	6	ルーク	Luke fon Fabre	personagem	CRLF x1	悲しみ。\n		
+cev49_200.scr:7	cev49_200.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:8	cev49_200.scr	8	ルーク	Luke fon Fabre	personagem	CRLF x1	驚き。\n		
+cev49_200.scr:9	cev49_200.scr	9	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:10	cev49_200.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x1	大笑い。\n		
+cev49_200.scr:11	cev49_200.scr	11	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:12	cev49_200.scr	12	ルーク	Luke fon Fabre	personagem	CRLF x1	照れ。\n		
+cev49_200.scr:13	cev49_200.scr	13	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:14	cev49_200.scr	14	ルーク	Luke fon Fabre	personagem	CRLF x1	へ〜。\n		
+cev49_200.scr:15	cev49_200.scr	15	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:16	cev49_200.scr	16	ルーク	Luke fon Fabre	personagem	CRLF x1	激怒。\n		
+cev49_200.scr:17	cev49_200.scr	17	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:18	cev49_200.scr	18	ルーク	Luke fon Fabre	personagem	CRLF x1	そっぽ向。\n		
+cev49_200.scr:19	cev49_200.scr	19	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:20	cev49_200.scr	20	ルーク	Luke fon Fabre	personagem	CRLF x1	興味なし。\n		
+cev49_200.scr:21	cev49_200.scr	21	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:22	cev49_200.scr	22	ルーク	Luke fon Fabre	personagem	CRLF x1	痛い。\n		
+cev49_200.scr:23	cev49_200.scr	23	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:24	cev49_200.scr	24	ルーク	Luke fon Fabre	personagem	CRLF x1	通常。\n		
+cev49_200.scr:25	cev49_200.scr	25	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:26	cev49_200.scr	26	ルーク	Luke fon Fabre	personagem	CRLF x1	笑い。\n		
+cev49_200.scr:27	cev49_200.scr	27	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:28	cev49_200.scr	28	ルーク	Luke fon Fabre	personagem	CRLF x1	怒り。\n		
+cev49_200.scr:29	cev49_200.scr	29	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:30	cev49_200.scr	30	ルーク	Luke fon Fabre	personagem	CRLF x1	悲しみ。\n		
+cev49_200.scr:31	cev49_200.scr	31	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:32	cev49_200.scr	32	ルーク	Luke fon Fabre	personagem	CRLF x1	驚き。\n		
+cev49_200.scr:33	cev49_200.scr	33	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:34	cev49_200.scr	34	ルーク	Luke fon Fabre	personagem	CRLF x1	大笑い。\n		
+cev49_200.scr:35	cev49_200.scr	35	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:36	cev49_200.scr	36	ルーク	Luke fon Fabre	personagem	CRLF x1	照れ。\n		
+cev49_200.scr:37	cev49_200.scr	37	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:38	cev49_200.scr	38	ルーク	Luke fon Fabre	personagem	CRLF x1	へ〜。\n		
+cev49_200.scr:39	cev49_200.scr	39	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:40	cev49_200.scr	40	ルーク	Luke fon Fabre	personagem	CRLF x1	激怒。\n		
+cev49_200.scr:41	cev49_200.scr	41	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:42	cev49_200.scr	42	ルーク	Luke fon Fabre	personagem	CRLF x1	そっぽ向。\n		
+cev49_200.scr:43	cev49_200.scr	43	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:44	cev49_200.scr	44	ルーク	Luke fon Fabre	personagem	CRLF x1	興味なし。\n		
+cev49_200.scr:45	cev49_200.scr	45	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:46	cev49_200.scr	46	ルーク	Luke fon Fabre	personagem	CRLF x1	痛い。\n		
+cev49_200.scr:47	cev49_200.scr	47	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:48	cev49_200.scr	48	ルーク	Luke fon Fabre	personagem	CRLF x1	通常。\n		
+cev49_200.scr:49	cev49_200.scr	49	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:50	cev49_200.scr	50	ルーク	Luke fon Fabre	personagem	CRLF x1	笑い。\n		
+cev49_200.scr:51	cev49_200.scr	51	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:52	cev49_200.scr	52	ルーク	Luke fon Fabre	personagem	CRLF x1	怒り。\n		
+cev49_200.scr:53	cev49_200.scr	53	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:54	cev49_200.scr	54	ルーク	Luke fon Fabre	personagem	CRLF x1	悲しみ。\n		
+cev49_200.scr:55	cev49_200.scr	55	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:56	cev49_200.scr	56	ルーク	Luke fon Fabre	personagem	CRLF x1	驚き。\n		
+cev49_200.scr:57	cev49_200.scr	57	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:58	cev49_200.scr	58	ルーク	Luke fon Fabre	personagem	CRLF x1	大笑い。\n		
+cev49_200.scr:59	cev49_200.scr	59	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:60	cev49_200.scr	60	ルーク	Luke fon Fabre	personagem	CRLF x1	照れ。\n		
+cev49_200.scr:61	cev49_200.scr	61	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:62	cev49_200.scr	62	ルーク	Luke fon Fabre	personagem	CRLF x1	へ〜。\n		
+cev49_200.scr:63	cev49_200.scr	63	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:64	cev49_200.scr	64	ルーク	Luke fon Fabre	personagem	CRLF x1	激怒。\n		
+cev49_200.scr:65	cev49_200.scr	65	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:66	cev49_200.scr	66	ルーク	Luke fon Fabre	personagem	CRLF x1	そっぽ向。\n		
+cev49_200.scr:67	cev49_200.scr	67	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:68	cev49_200.scr	68	ルーク	Luke fon Fabre	personagem	CRLF x1	興味なし。\n		
+cev49_200.scr:69	cev49_200.scr	69	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev49_200.scr:70	cev49_200.scr	70	ルーク	Luke fon Fabre	personagem	CRLF x1	痛い。\n		
+cev49_200.scr:71	cev49_200.scr	71	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

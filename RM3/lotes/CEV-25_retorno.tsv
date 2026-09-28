@@ -1,0 +1,115 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	traducao
+cev25_010.scr:0	cev25_010.scr	0	セルシウス	Celsius	personagem	CRLF x2	別に……その人と何かあったわけではないの。\nでも、彼を見ているとどうしても感情が\n抑えられなくて……	Nothing actually happened between us...\nYet looking at him, I simply\ncannot keep my emotions in check......		Nothing actually happened between us...\nYet looking at him, I simply\ncannot keep my emotions in check......
+cev25_010.scr:1	cev25_010.scr	1	セルシウス	Celsius	personagem		わたし、もう……	I just......		I just......
+cev25_010.scr:2	cev25_010.scr	2	リヒター	Richter Abend	personagem	CRLF x1	セルシウス……無理をするな。\n精霊にも、そういった感情があって当然だ	Celsius... don't push yourself.\nSpirits naturally have such feelings too.		Celsius... don't push yourself.\nSpirits naturally have such feelings too.
+cev25_010.scr:3	cev25_010.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x2	そうだよ。\nそれぞれに得手不得手があって当然さ。\n気にする事ないよ	That's right.\nEveryone has things they can't handle.\nThere's no need to fret over it.		That's right.\nEveryone has things they can't handle.\nThere's no need to fret over it.
+cev25_010.scr:4	cev25_010.scr	4	セルシウス	Celsius	personagem		二人とも……	Both of you......		Both of you......
+cev25_010.scr:5	cev25_010.scr	5	セルシウス	Celsius	personagem		ありがとう	Thank you.		Thank you.
+cev25_010.scr:6	cev25_010.scr	6	コングマン	Kongman	personagem	CRLF x1	おう！　\nおめえら	Yo!\nYou folks!		Yo!\nYou folks!
+cev25_010.scr:7	cev25_010.scr	7	コングマン	Kongman	personagem	CRLF x1	そんなとこで\nコソコソと何話してやがんだ？	What're you over there\nwhispering about in secret, huh?		What're you over there\nwhispering about in secret, huh?
+cev25_010.scr:8	cev25_010.scr	8	セルシウス	Celsius	personagem		何でもいいでしょ……	It's none of your business......		It's none of your business......
+cev25_010.scr:9	cev25_010.scr	9	セルシウス	Celsius	personagem		話しかけないで	Don't speak to me.		Don't speak to me.
+cev25_010.scr:10	cev25_010.scr	10	コングマン	Kongman	personagem	CRLF x1	……！！\nな、な、な……	......!!\nWh-Wh-What......		......!!\nWh-Wh-What......
+cev25_010.scr:11	cev25_010.scr	11	リヒター	Richter Abend	personagem	CRLF x1	……なるほど。　\nこれは相当だな	...I see.\nThis is quite severe.		...I see.\nThis is quite severe.
+cev25_010.scr:12	cev25_010.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x1	……そんなに似てるのかい？\nその、あんたの言う「苦手な精霊」に	...Is he really that similar?\nTo that "spirit you can't stand"?		...Is he really that similar?\nTo that "spirit you can't stand"?
+cev25_010.scr:13	cev25_010.scr	13	セルシウス	Celsius	personagem		ええ……その	Yes...... Well,		Yes...... Well,
+cev25_010.scr:14	cev25_010.scr	14	セルシウス	Celsius	personagem		全体的に暑苦しい感じが	That whole stiflingly hot aura...		That whole stiflingly hot aura...
+cev25_020.scr:0	cev25_020.scr	0	コングマン	Kongman	personagem		よ……	Yo......		Yo......
+cev25_020.scr:1	cev25_020.scr	1	コングマン	Kongman	personagem		よう！　セルシウス	Yo! Celsius!		Yo! Celsius!
+cev25_020.scr:2	cev25_020.scr	2	セルシウス	Celsius	personagem		……何の用？	...What do you want?		...What do you want?
+cev25_020.scr:3	cev25_020.scr	3	コングマン	Kongman	personagem		何の……って	What do I... well,		What do I... well,
+cev25_020.scr:4	cev25_020.scr	4	コングマン	Kongman	personagem	CRLF x1	用がなけりゃ、話しかけちゃ\nいけねえってのか？	Can't I come talk to you\nunless I have business?		Can't I come talk to you\nunless I have business?
+cev25_020.scr:5	cev25_020.scr	5	セルシウス	Celsius	personagem		用がなければ話したくないの	Without business, I don't want to talk.		Without business, I don't want to talk.
+cev25_020.scr:6	cev25_020.scr	6	コングマン	Kongman	personagem	CRLF x1	何でぇ、ツンツンしやがってよぉ。\n正真正銘、氷みてぇな女だな	Why act so prickly, huh?\nA real ice woman through and through.		Why act so prickly, huh?\nA real ice woman through and through.
+cev25_020.scr:7	cev25_020.scr	7	セルシウス	Celsius	personagem		っ！	...!		...!
+cev25_020.scr:8	cev25_020.scr	8	セルシウス	Celsius	personagem		ふんっ	Hmph!		Hmph!
+cev25_020.scr:9	cev25_020.scr	9	コングマン	Kongman	personagem		な、何もそこまで怒らなくても……	D-Did you have to get that angry......?		D-Did you have to get that angry......?
+cev25_030.scr:0	cev25_030.scr	0	ヴェイグ	Veigue Lungberg	personagem		……いい風だ	...A pleasant breeze.		...A pleasant breeze.
+cev25_030.scr:1	cev25_030.scr	1	セルシウス	Celsius	personagem		ねえ	Say...		Say...
+cev25_030.scr:2	cev25_030.scr	2	セルシウス	Celsius	personagem		隣……いいかしら？	May I sit... beside you?		May I sit... beside you?
+cev25_030.scr:3	cev25_030.scr	3	ヴェイグ	Veigue Lungberg	personagem		ああ……構わないが	Yeah... I don't mind.		Yeah... I don't mind.
+cev25_030.scr:4	cev25_030.scr	4	セルシウス	Celsius	personagem	CRLF x1	あなたって不思議ね。\n……なんだか、とっても落ち着く	You're such a curious person.\n...Somehow, I feel so at ease.		You're such a curious person.\n...Somehow, I feel so at ease.
+cev25_030.scr:5	cev25_030.scr	5	ヴェイグ	Veigue Lungberg	personagem		……そうか	...I see.		...I see.
+cev25_030.scr:6	cev25_030.scr	6	セルシウス	Celsius	personagem		ええ……	Yes......		Yes......
+cev25_030.scr:7	cev25_030.scr	7	セルシウス	Celsius	personagem	CRLF x1	ねえ。　\n……時々、またここに来てくれる？	Say...\n...Will you come here again sometimes?		Say...\n...Will you come here again sometimes?
+cev25_030.scr:8	cev25_030.scr	8	ヴェイグ	Veigue Lungberg	personagem		構わないが、なぜだ？	I don't mind, but why?		I don't mind, but why?
+cev25_030.scr:9	cev25_030.scr	9	セルシウス	Celsius	personagem	CRLF x1	ふふ。\n……ナイショ	Fufu.\n...It's a secret.		Fufu.\n...It's a secret.
+cev25_040.scr:0	cev25_040.scr	0	セルシウス	Celsius	personagem		…………う……	............Ugh......		............Ugh......
+cev25_040.scr:1	cev25_040.scr	1	ウィル	Will Raynard	personagem	CRLF x1	おい、ここにいたぞ！\n早く手当を！！	Hey, she's over here!\nQuick, treat her immediately!!		Hey, she's over here!\nQuick, treat her immediately!!
+cev25_040.scr:2	cev25_040.scr	2	ヴェイグ	Veigue Lungberg	personagem		しっかりしろ、セルシウス！	Hold on, Celsius!		Hold on, Celsius!
+cev25_040.scr:3	cev25_040.scr	3	セルシウス	Celsius	personagem		…………ヴェイ、グ……	............Vei... Veigue......		............Vei... Veigue......
+cev25_040.scr:4	cev25_040.scr	4	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	大丈夫か？　\n……どこか痛むのか	Are you alright?\n...Does something hurt?		Are you alright?\n...Does something hurt?
+cev25_040.scr:5	cev25_040.scr	5	セルシウス	Celsius	personagem	CRLF x1	手……。\n冷たくて……気持ちいい……	Your hand......\nIt's cold... and feels so good......		Your hand......\nIt's cold... and feels so good......
+cev25_040.scr:6	cev25_040.scr	6	ヴェイグ	Veigue Lungberg	personagem		…………	......		......
+cev25_040.scr:7	cev25_040.scr	7	ウィル	Will Raynard	personagem		……完全な熱中症だな	...A textbook case of heatstroke.		...A textbook case of heatstroke.
+cev25_040.scr:8	cev25_040.scr	8	ウィル	Will Raynard	personagem	CRLF x1	だから、火山に停泊中は\n医務室で休んでいろと言ったんだ……	I told her to stay in the infirmary\nwhile anchored at the volcano......		I told her to stay in the infirmary\nwhile anchored at the volcano......
+cev25_050.scr:0	cev25_050.scr	0	セルシウス	Celsius	personagem	CRLF x2	あなた、\n最近あの暑苦しい人と\nよく話しているのね	You seem to talk quite often\nwith that stiflingly hot person\nlately, don't you?		You seem to talk quite often\nwith that stiflingly hot person\nlately, don't you?
+cev25_050.scr:1	cev25_050.scr	1	ミント	Mint Adenade	personagem	CRLF x1	暑苦しいって……。\nコングマンさんの事ですか？	Stiflingly hot......?\nDo you mean Mr. Kongman?		Stiflingly hot......?\nDo you mean Mr. Kongman?
+cev25_050.scr:2	cev25_050.scr	2	セルシウス	Celsius	personagem	CRLF x1	コングマン……。\nそう言えば、そんな名前だったかしら	Kongman......\nCome to think of it, was that his name?		Kongman......\nCome to think of it, was that his name?
+cev25_050.scr:3	cev25_050.scr	3	ミント	Mint Adenade	personagem	CRLF x1	セルシウスさんは、\nコングマンさんが苦手なんですか	Celsius, do you have trouble\ngetting along with Mr. Kongman?		Celsius, do you have trouble\ngetting along with Mr. Kongman?
+cev25_050.scr:4	cev25_050.scr	4	セルシウス	Celsius	personagem	CRLF x2	……精霊として、恥ずかしい事だと\n思うわ……だけどどうしても、\nあの暑苦しさだけは我慢出来ないのよ	...As a spirit, I think it is\nquite shameful... but I simply\ncannot bear that suffocating heat.		...As a spirit, I think it is\nquite shameful... but I simply\ncannot bear that suffocating heat.
+cev25_050.scr:5	cev25_050.scr	5	ミント	Mint Adenade	personagem	CRLF x2	確かに、コングマンさんは\n熱い人ですが……。\n正義感の強い、優しい人ですよ	Certainly, Mr. Kongman is\na passionate man, but... he is kind\nwith a strong sense of justice.		Certainly, Mr. Kongman is\na passionate man, but... he is kind\nwith a strong sense of justice.
+cev25_050.scr:6	cev25_050.scr	6	ミント	Mint Adenade	personagem	CRLF x2	良かったら一度、お話してみませんか？\nお互いに、誤解している事が\nあるのかもしれません	Why not try talking with him once?\nPerhaps there are misunderstandings\nbetween the two of you.		Why not try talking with him once?\nPerhaps there are misunderstandings\nbetween the two of you.
+cev25_050.scr:7	cev25_050.scr	7	セルシウス	Celsius	personagem	CRLF x1	……あなたは、\n彼女と似てるかもしれないわね	...You might actually\nresemble her a little bit.		...You might actually\nresemble her a little bit.
+cev25_050.scr:8	cev25_050.scr	8	ミント	Mint Adenade	personagem		え？	Huh?		Huh?
+cev25_050.scr:9	cev25_050.scr	9	セルシウス	Celsius	personagem	CRLF x2	いえ……、知り合いの水の精霊を\n少し思い出しただけ。\nよくこうやって、悩み事を相談したの	No... you just reminded me\nof a water spirit I once knew.\nI often brought my worries to her.		No... you just reminded me\nof a water spirit I once knew.\nI often brought my worries to her.
+cev25_050.scr:10	cev25_050.scr	10	ミント	Mint Adenade	personagem		仲が良かったんですね	You must have been close.		You must have been close.
+cev25_050.scr:11	cev25_050.scr	11	セルシウス	Celsius	personagem		彼女は大らかで、話しやすかったから	She was generous and easy to talk to.		She was generous and easy to talk to.
+cev25_050.scr:12	cev25_050.scr	12	セルシウス	Celsius	personagem	CRLF x1	……今のわたしを見たら、どう思うかしら。\nきっと、叱られそうね……	...I wonder what she'd think of me now.\nI'm sure she would scold me......		...I wonder what she'd think of me now.\nI'm sure she would scold me......
+cev25_060.scr:0	cev25_060.scr	0	チャット	Chat	personagem	CRLF x1	セルシウスさんは、いつも甲板で\n何をしているんですか？	Celsius, what are you always\ndoing out here on the deck?		Celsius, what are you always\ndoing out here on the deck?
+cev25_060.scr:1	cev25_060.scr	1	セルシウス	Celsius	personagem		……空を見ているわ	...I am watching the sky.		...I am watching the sky.
+cev25_060.scr:2	cev25_060.scr	2	チャット	Chat	personagem	CRLF x1	空？　\nそれだけですか？	The sky?\nIs that all?		The sky?\nIs that all?
+cev25_060.scr:3	cev25_060.scr	3	セルシウス	Celsius	personagem	CRLF x2	それだけって……、\nあなたはきちんと\n空を見上げた事があるの？	Just that...?\nHave you ever truly taken\na proper look at the sky?		Just that...?\nHave you ever truly taken\na proper look at the sky?
+cev25_060.scr:4	cev25_060.scr	4	チャット	Chat	personagem	CRLF x1	もちろん、ありますよ！\n当たり前じゃないですか	Of course I have!\nIsn't that a given?		Of course I have!\nIsn't that a given?
+cev25_060.scr:5	cev25_060.scr	5	セルシウス	Celsius	personagem		どのくらい？	For how long?		For how long?
+cev25_060.scr:6	cev25_060.scr	6	チャット	Chat	personagem	CRLF x1	どのくらいって……。\nえーと……	For how long...?\nWell, uh......		For how long...?\nWell, uh......
+cev25_060.scr:7	cev25_060.scr	7	セルシウス	Celsius	personagem	CRLF x1	わたしは一日中、ずっとここで\n空を見ているわ	I stay right here all day long,\ngazing up at the sky.		I stay right here all day long,\ngazing up at the sky.
+cev25_060.scr:8	cev25_060.scr	8	セルシウス	Celsius	personagem	CRLF x2	太陽の色に染まる地平線や\n天上にきらめく月や星の声。\n風に乗って消えていく雲……	The horizon dyed in the sun's light,\nthe voices of the moon and stars above,\nthe clouds fading upon the wind......		The horizon dyed in the sun's light,\nthe voices of the moon and stars above,\nthe clouds fading upon the wind......
+cev25_060.scr:9	cev25_060.scr	9	セルシウス	Celsius	personagem	CRLF x1	全部、この船に来るまで\n知らなかった景色だもの	All of them are sights I never knew\nbefore boarding this vessel.		All of them are sights I never knew\nbefore boarding this vessel.
+cev25_060.scr:10	cev25_060.scr	10	チャット	Chat	personagem		……そうか……	...I see......		...I see......
+cev25_060.scr:11	cev25_060.scr	11	チャット	Chat	personagem	CRLF x1	ずっと、これまで\n山に身を潜めてたんですもんね	You had spent all your time\nhiding in the mountains until now, right?		You had spent all your time\nhiding in the mountains until now, right?
+cev25_060.scr:12	cev25_060.scr	12	セルシウス	Celsius	personagem	CRLF x2	ええ。\nそこで見るものだけが\nわたしの世界の全てだった	Yes.\nThe few things I saw there\nwere the entirety of my world.		Yes.\nThe few things I saw there\nwere the entirety of my world.
+cev25_060.scr:13	cev25_060.scr	13	チャット	Chat	personagem	CRLF x1	すみません、ボク……、\n余計な事を言いました……	I'm sorry... I said something\ncompletely unnecessary......		I'm sorry... I said something\ncompletely unnecessary......
+cev25_060.scr:14	cev25_060.scr	14	セルシウス	Celsius	personagem		いいのよ	It is quite alright.		It is quite alright.
+cev25_060.scr:15	cev25_060.scr	15	セルシウス	Celsius	personagem	CRLF x1	わたしこそ、長話をしてしまって\nごめんなさい	I should be the one apologizing\nfor talking for so long.		I should be the one apologizing\nfor talking for so long.
+cev25_070.scr:0	cev25_070.scr	0	リヒター	Richter Abend	personagem		…………	......		......
+cev25_070.scr:1	cev25_070.scr	1	セルシウス	Celsius	personagem		お疲れの様子ね	You seem rather exhausted.		You seem rather exhausted.
+cev25_070.scr:2	cev25_070.scr	2	リヒター	Richter Abend	personagem	CRLF x1	……エミルが最近、\n俺に絡んでくる	...Emil has been pestering\nme constantly as of late.		...Emil has been pestering\nme constantly as of late.
+cev25_070.scr:3	cev25_070.scr	3	セルシウス	Celsius	personagem		仲良くなった、ということ？	Does that mean you've become friends?		Does that mean you've become friends?
+cev25_070.scr:4	cev25_070.scr	4	リヒター	Richter Abend	personagem		そんなわけがあるか	As if that could ever be the case.		As if that could ever be the case.
+cev25_070.scr:5	cev25_070.scr	5	リヒター	Richter Abend	personagem	CRLF x1	俺は少し、戦い方のコツを教えただけだ。\n友達ごっこをするつもりはない	I only gave him a few tips on combat.\nI have no intention of playing friends.		I only gave him a few tips on combat.\nI have no intention of playing friends.
+cev25_070.scr:6	cev25_070.scr	6	セルシウス	Celsius	personagem	CRLF x1	でも、エミルは\nそう思っていないのでしょう？	Yet Emil doesn't seem\nto see it that way, does he?		Yet Emil doesn't seem\nto see it that way, does he?
+cev25_070.scr:7	cev25_070.scr	7	リヒター	Richter Abend	personagem	CRLF x1	……あいつが勘違いしているんだ。\n勝手にな	...He is mistaken.\nEntirely of his own accord.		...He is mistaken.\nEntirely of his own accord.
+cev25_070.scr:8	cev25_070.scr	8	セルシウス	Celsius	personagem	CRLF x1	そう言う割には、\nまんざらでもなさそうだけど	For all you say, you don't\nseem entirely averse to it.		For all you say, you don't\nseem entirely averse to it.
+cev25_070.scr:9	cev25_070.scr	9	リヒター	Richter Abend	personagem	CRLF x1	……セルシウス。\n少しヒトくさくなったんじゃないか？	...Celsius.\nHaven't you become more human lately?		...Celsius.\nHaven't you become more human lately?
+cev25_070.scr:10	cev25_070.scr	10	セルシウス	Celsius	personagem		フフ……そう？	Fufu... you think so?		Fufu... you think so?
+cev25_200.scr:0	cev25_200.scr	0	セルシウス	Celsius	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev25_200.scr:1	cev25_200.scr	1	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev25_200.scr:2	cev25_200.scr	2	セルシウス	Celsius	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev25_200.scr:3	cev25_200.scr	3	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev25_200.scr:4	cev25_200.scr	4	セルシウス	Celsius	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev25_200.scr:5	cev25_200.scr	5	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev25_200.scr:6	cev25_200.scr	6	セルシウス	Celsius	personagem	CRLF x1	通常２。\n	Normal 2.\n		Normal 2.\n
+cev25_200.scr:7	cev25_200.scr	7	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev25_200.scr:8	cev25_200.scr	8	セルシウス	Celsius	personagem	CRLF x1	目閉じ通常２。\n	Eyes closed normal 2.\n		Eyes closed normal 2.\n
+cev25_200.scr:9	cev25_200.scr	9	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev25_200.scr:10	cev25_200.scr	10	セルシウス	Celsius	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev25_200.scr:11	cev25_200.scr	11	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev25_200.scr:12	cev25_200.scr	12	セルシウス	Celsius	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev25_200.scr:13	cev25_200.scr	13	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev25_200.scr:14	cev25_200.scr	14	セルシウス	Celsius	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev25_200.scr:15	cev25_200.scr	15	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev25_200.scr:16	cev25_200.scr	16	セルシウス	Celsius	personagem	CRLF x1	通常２。\n	Normal 2.\n		Normal 2.\n
+cev25_200.scr:17	cev25_200.scr	17	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev25_200.scr:18	cev25_200.scr	18	セルシウス	Celsius	personagem	CRLF x1	目閉じ通常２。\n	Eyes closed normal 2.\n		Eyes closed normal 2.\n
+cev25_200.scr:19	cev25_200.scr	19	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev25_200.scr:20	cev25_200.scr	20	セルシウス	Celsius	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev25_200.scr:21	cev25_200.scr	21	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev25_200.scr:22	cev25_200.scr	22	セルシウス	Celsius	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev25_200.scr:23	cev25_200.scr	23	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev25_200.scr:24	cev25_200.scr	24	セルシウス	Celsius	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev25_200.scr:25	cev25_200.scr	25	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev25_200.scr:26	cev25_200.scr	26	セルシウス	Celsius	personagem	CRLF x1	通常２。\n	Normal 2.\n		Normal 2.\n
+cev25_200.scr:27	cev25_200.scr	27	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev25_200.scr:28	cev25_200.scr	28	セルシウス	Celsius	personagem	CRLF x1	目閉じ通常２。\n	Eyes closed normal 2.\n		Eyes closed normal 2.\n
+cev25_200.scr:29	cev25_200.scr	29	セルシウス	Celsius	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.

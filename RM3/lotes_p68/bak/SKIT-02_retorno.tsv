@@ -1,0 +1,315 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	va_ponteiros	ocorrencias	bytes_jp	max_bytes
+skit#320	skit	320	(sistema)	(system)	sistema		心理テスト！・ユージーン編	Quiz! Eugene		0x08D76E30	1	26	29
+skit#321	skit	321	(sistema)	(system)	sistema		アドリビトムの歌だヨ！	Ad Libitum's Song!		0x08D76E7C	1	22	24
+skit#322	skit	322	(sistema)	(system)	sistema		マオのラブソング	Mao's Love Song		0x08D76EC8	1	16	18
+skit#323	skit	323	(sistema)	(system)	sistema		大事なものと、大事にしたい気持ち	Precious Things & Love		0x08D76F14	1	32	35
+skit#324	skit	324	(sistema)	(system)	sistema		思い出さなきゃ……ダメ？	Must I Remember?		0x08D76F60	1	24	26
+skit#325	skit	325	(sistema)	(system)	sistema		ボク達の両親	Our Parents		0x08D76FAC	1	12	13
+skit#326	skit	326	(sistema)	(system)	sistema		マオのお父さん	Mao's Father		0x08D76FF8	1	14	15
+skit#327	skit	327	(sistema)	(system)	sistema		すごいよユージーンさん	Amazing, Sir Eugene		0x08D77044	1	22	24
+skit#328	skit	328	(sistema)	(system)	sistema		好みの女性のタイプ	Ideal Woman Type		0x08D77090	1	18	20
+skit#329	skit	329	(sistema)	(system)	sistema		念のために教えるヨ	Just In Case, I Say		0x08D770DC;0x08D77128	2	18	20
+skit#330	skit	330	(sistema)	(system)	sistema		暑いのへっちゃら	Heat is Nothing		0x08D77174	1	16	18
+skit#331	skit	331	(sistema)	(system)	sistema		騙されやすい？	Easily Tricked?		0x08D771C0	1	14	15
+skit#332	skit	332	(sistema)	(system)	sistema		分かり合うために	To Understand		0x08D7720C	1	16	18
+skit#333	skit	333	(sistema)	(system)	sistema		悲しみの理由	Sad Reasons		0x08D77258	1	12	13
+skit#334	skit	334	(sistema)	(system)	sistema		美女談議・その２	Beauty Chat: Pt 2		0x08D772A4	1	16	18
+skit#335	skit	335	(sistema)	(system)	sistema		育ちの良いティトレイ	Well-Bred Tytree		0x08D772F0	1	20	22
+skit#336	skit	336	(sistema)	(system)	sistema		バンエルティア号は、星いくつ？	Van Eltia: Star Rating?		0x08D7733C	1	30	33
+skit#337	skit	337	(sistema)	(system)	sistema		不思議な力	Magic Power		0x08D77388	1	10	11
+skit#338	skit	338	(sistema)	(system)	sistema		エコロジストな男	Ecologist Man		0x08D773D4	1	16	18
+skit#339	skit	339	(sistema)	(system)	sistema		気の合う仲間	Kindred Minds		0x08D77420	1	12	13
+skit#340	skit	340	(sistema)	(system)	sistema		ティトレイの素朴な疑問	Tytree's Query		0x08D7746C	1	22	24
+skit#341	skit	341	(sistema)	(system)	sistema		医者仲間	Doc Pals		0x08D774B8	1	8	9
+skit#342	skit	342	(sistema)	(system)	sistema		勉強会をしよう	Study Session		0x08D77504	1	14	15
+skit#343	skit	343	(sistema)	(system)	sistema		アニーの気がかり	Annie's Worry		0x08D77550	1	16	18
+skit#344	skit	344	(sistema)	(system)	sistema		アニーのタロット	Annie's Tarot		0x08D7759C	1	16	18
+skit#345	skit	345	(sistema)	(system)	sistema		思い出の言葉	Fond Words		0x08D775E8	1	12	13
+skit#346	skit	346	(sistema)	(system)	sistema		医者を目指す理由	Why Be a Doctor		0x08D77634	1	16	18
+skit#347	skit	347	(sistema)	(system)	sistema		ヒミツの日記	Secret Diary		0x08D77680	1	12	13
+skit#348	skit	348	(sistema)	(system)	sistema		油断も隙もないったら……	Never Let Guard Down...		0x08D776CC	1	24	26
+skit#349	skit	349	(sistema)	(system)	sistema		絶対、参加しませんから！	Will Never Join In!		0x08D77718	1	24	26
+skit#350	skit	350	(sistema)	(system)	sistema		日記の中の呟き	Diary Murmurs		0x08D77764	1	14	15
+skit#351	skit	351	(sistema)	(system)	sistema		武器について思うこと	Thoughts on Arms		0x08D777B0	1	20	22
+skit#352	skit	352	(sistema)	(system)	sistema		ティアの歌	Tear's Song		0x08D777FC	1	10	11
+skit#353	skit	353	(sistema)	(system)	sistema		素直じゃないね	Not Very Honest		0x08D77848;0x08D78720	2	14	15
+skit#354	skit	354	(sistema)	(system)	sistema		達成数３００回、突破！	Cleared 300 Quests!		0x08D77894	1	22	24
+skit#355	skit	355	(sistema)	(system)	sistema		セネルの模様？	Senel's Marks?		0x08D778E0	1	14	15
+skit#356	skit	356	(sistema)	(system)	sistema		セネル捕獲	Catch Senel		0x08D7792C	1	10	11
+skit#357	skit	357	(sistema)	(system)	sistema		セネルにお願い	Ask Senel		0x08D77978	1	14	15
+skit#358	skit	358	(sistema)	(system)	sistema		無理しないでね	Don't Overdo It		0x08D779C4	1	14	15
+skit#359	skit	359	(sistema)	(system)	sistema		どこから年配？	Who Is Elderly?		0x08D77A10	1	14	15
+skit#360	skit	360	(sistema)	(system)	sistema		うっかり見ちゃった	Accidental Peep		0x08D77A5C	1	18	20
+skit#361	skit	361	(sistema)	(system)	sistema		セネル失踪	Lost Senel		0x08D77AA8	1	10	11
+skit#362	skit	362	(sistema)	(system)	sistema		ロックスの好み	Rocks's Taste		0x08D77AF4	1	14	15
+skit#363	skit	363	(sistema)	(system)	sistema		ロックスの好み・その２	Rocks's Taste: Pt 2		0x08D77B40	1	22	24
+skit#364	skit	364	(sistema)	(system)	sistema		泳ぎ上手の事情	Swimmer Facts		0x08D77B8C	1	14	15
+skit#365	skit	365	(sistema)	(system)	sistema		これからは…	From Now On..		0x08D77BD8	1	12	13
+skit#366	skit	366	(sistema)	(system)	sistema		だって、もったいないんだもん	It's Such a Waste!		0x08D77C24	1	28	31
+skit#367	skit	367	(sistema)	(system)	sistema		行き過ぎた好奇心	Wild Curiosity		0x08D77C70	1	16	18
+skit#368	skit	368	(sistema)	(system)	sistema		すごいぞ、８００体！	Crushed 800 Foes!		0x08D77CBC	1	20	22
+skit#369	skit	369	(sistema)	(system)	sistema		アレにかかったのかも	Caught That Thing		0x08D77D08	1	20	22
+skit#370	skit	370	(sistema)	(system)	sistema		他人の評価	Peer Views		0x08D77D54	1	10	11
+skit#371	skit	371	(sistema)	(system)	sistema		ジェイってどんな人？	What's Jay Like?		0x08D77DA0	1	20	22
+skit#372	skit	372	(sistema)	(system)	sistema		教えるのって難しい	Teaching Is Hard		0x08D77DEC	1	18	20
+skit#373	skit	373	(sistema)	(system)	sistema		流行のアレ	Trendy Fad		0x08D77E38	1	10	11
+skit#374	skit	374	(sistema)	(system)	sistema		怖くない怖くない…	Not Scared At All...		0x08D77E84	1	18	20
+skit#375	skit	375	(sistema)	(system)	sistema		すぺしゃる・その２	Special: Pt 2		0x08D77ED0	1	18	20
+skit#376	skit	376	(sistema)	(system)	sistema		騎士の武勇伝	Knight's Tale		0x08D77F1C	1	12	13
+skit#377	skit	377	(sistema)	(system)	sistema		様々な解釈	Many Views		0x08D77F68	1	10	11
+skit#378	skit	378	(sistema)	(system)	sistema		女性騎士クロエ	Knight Chloe		0x08D77FB4	1	14	15
+skit#379	skit	379	(sistema)	(system)	sistema		剣の太刀筋	Sword Arc		0x08D78000	1	10	11
+skit#380	skit	380	(sistema)	(system)	sistema		教えて、恋の話・クロエ編	Love Talk: Chloe		0x08D7804C	1	24	26
+skit#381	skit	381	(sistema)	(system)	sistema		恥じらう乙女	Shy Maiden		0x08D78098	1	12	13
+skit#382	skit	382	(sistema)	(system)	sistema		そうだ、海へ行こう	Let's Go to Sea		0x08D780E4	1	18	20
+skit#383	skit	383	(sistema)	(system)	sistema		騎士の鑑	Paragon		0x08D78130	1	8	9
+skit#384	skit	384	(sistema)	(system)	sistema		それ禁止！	Forbidden!		0x08D7817C	1	10	11
+skit#385	skit	385	(sistema)	(system)	sistema		お久しぶりです	Been a While!		0x08D781C8	1	14	15
+skit#386	skit	386	(sistema)	(system)	sistema		大人気ロックス	Popular Rocks		0x08D78214	1	14	15
+skit#387	skit	387	(sistema)	(system)	sistema		どのへんが？	In What Way?		0x08D78260	1	12	13
+skit#388	skit	388	(sistema)	(system)	sistema		重ねて見ちゃう	Seeing Double		0x08D782AC	1	14	15
+skit#389	skit	389	(sistema)	(system)	sistema		シャボン娘に聞いてみた	Asked the Bubble Girl		0x08D782F8	1	22	24
+skit#390	skit	390	(sistema)	(system)	sistema		どこが似ている？	How Similar?		0x08D78344	1	16	18
+skit#391	skit	391	(sistema)	(system)	sistema		只者ではない	No Mere Man		0x08D78390	1	12	13
+skit#392	skit	392	(sistema)	(system)	sistema		子どもが多い	So Many Kids		0x08D783DC	1	12	13
+skit#393	skit	393	(sistema)	(system)	sistema		あってるキュ？	Correct, Kyu?		0x08D78428	1	14	15
+skit#394	skit	394	(sistema)	(system)	sistema		小さい、仲間	Tiny Ally		0x08D78474	1	12	13
+skit#395	skit	395	(sistema)	(system)	sistema		もう一つの「忍び」	Another Shinobi		0x08D784C0	1	18	20
+skit#396	skit	396	(sistema)	(system)	sistema		思い出の鈴	Memory Bell		0x08D7850C	1	10	11
+skit#397	skit	397	(sistema)	(system)	sistema		美白の秘訣	Skin Secret		0x08D78558	1	10	11
+skit#398	skit	398	(sistema)	(system)	sistema		美白の秘訣・その２	Fair Skin: Pt 2		0x08D785A4	1	18	20
+skit#399	skit	399	(sistema)	(system)	sistema		その喋り方……	That Accent...		0x08D785F0	1	14	15
+skit#400	skit	400	(sistema)	(system)	sistema		勝利のダンス！	Victory Dance!		0x08D7863C	1	14	15
+skit#401	skit	401	(sistema)	(system)	sistema		ルークの日課	Luke's Habit		0x08D78688	1	12	13
+skit#402	skit	402	(sistema)	(system)	sistema		モヤモヤすること	Murky Thoughts		0x08D786D4	1	16	18
+skit#403	skit	403	(sistema)	(system)	sistema		意外な一面？	Hidden Side?		0x08D7876C	1	12	13
+skit#404	skit	404	(sistema)	(system)	sistema		ルークの日記	Luke's Diary		0x08D787B8	1	12	13
+skit#405	skit	405	(sistema)	(system)	sistema		ルークとの再会	Rejoining Luke		0x08D78804	1	14	15
+skit#406	skit	406	(sistema)	(system)	sistema		食べられない！？	Inedible!?		0x08D78850;0x08D7889C;0x08D788E8;0x08D78934	4	16	18
+skit#407	skit	407	(sistema)	(system)	sistema		執事ロックスの苦悩	Butler Rocks Agony		0x08D78980	1	18	20
+skit#408	skit	408	(sistema)	(system)	sistema		（欠番）判別不可能？・その２	Indistinct: Pt 2 (Unused)		0x08D789CC	1	28	31
+skit#409	skit	409	(sistema)	(system)	sistema		カノンノが羨ましい	Envious of Kanonno		0x08D78A18	1	18	20
+skit#410	skit	410	(sistema)	(system)	sistema		下から見たきょうだい	Siblings from Below		0x08D78A64	1	20	22
+skit#411	skit	411	(sistema)	(system)	sistema		「ファブレ」・その２	Fabre: Pt 2		0x08D78AB0	1	20	22
+skit#412	skit	412	(sistema)	(system)	sistema		兄弟喧嘩	Bro Spat		0x08D78AFC;0x08D78B48	2	8	9
+skit#413	skit	413	(sistema)	(system)	sistema		俺の幼馴染みを紹介します	My Childhood Friend		0x08D78B94	1	24	26
+skit#414	skit	414	(sistema)	(system)	sistema		使用人の絆	Staff Ties		0x08D78BE0	1	10	11
+skit#415	skit	415	(sistema)	(system)	sistema		お互い、大変だな	Tough for Us Both		0x08D78C2C	1	16	18
+skit#416	skit	416	(sistema)	(system)	sistema		機械大好き！	Mech Lovers!		0x08D78C78	1	12	13
+skit#417	skit	417	(sistema)	(system)	sistema		ピンチ到来！	In a Pinch!		0x08D78CC4	1	12	13
+skit#418	skit	418	(sistema)	(system)	sistema		使用人の絆・その２	Servant Bond: Pt 2		0x08D78D10	1	18	20
+skit#419	skit	419	(sistema)	(system)	sistema		使用人の絆・その３	Servant Bond: Pt 3		0x08D78D5C	1	18	20
+skit#420	skit	420	(sistema)	(system)	sistema		すぺしゃる・その３	Special: Pt 3		0x08D78DA8	1	18	20
+skit#421	skit	421	(sistema)	(system)	sistema		男は黙って……	Silent Men...		0x08D78DF4	1	14	15
+skit#422	skit	422	(sistema)	(system)	sistema		ばんばんばん	Bang Bang!		0x08D78E40	1	12	13
+skit#423	skit	423	(sistema)	(system)	sistema		暁の従者	Dawn Page		0x08D78E8C	1	8	9
+skit#424	skit	424	(sistema)	(system)	sistema		本質を見据える者	Seeing Essence		0x08D78ED8	1	16	18
+skit#425	skit	425	(sistema)	(system)	sistema		言うべきか、言わざるべきか？	To Speak or Not to Speak?		0x08D78F24	1	28	31
+skit#426	skit	426	(sistema)	(system)	sistema		陰険ジェイド	Spiteful Jade		0x08D78F70	1	12	13
+skit#427	skit	427	(sistema)	(system)	sistema		お掃除仲間	Clean Pals		0x08D78FBC	1	10	11
+skit#428	skit	428	(sistema)	(system)	sistema		お掃除仲間・その２	Cleaning Pals: Pt 2		0x08D79008	1	18	20
+skit#429	skit	429	(sistema)	(system)	sistema		お掃除仲間・その３	Cleaning Pals: Pt 3		0x08D79054	1	18	20
+skit#430	skit	430	(sistema)	(system)	sistema		真剣な悩み	Deep Worry		0x08D790A0	1	10	11
+skit#431	skit	431	(sistema)	(system)	sistema		ろうにゃくなんにょ	Young and Old		0x08D790EC	1	18	20
+skit#432	skit	432	(sistema)	(system)	sistema		どっちでも…	Either Way...		0x08D79138	1	12	13
+skit#433	skit	433	(sistema)	(system)	sistema		結局、どっちなの？	Which Is It?		0x08D79184	1	18	20
+skit#434	skit	434	(sistema)	(system)	sistema		ただならぬ執事	Elite Butler		0x08D791D0	1	14	15
+skit#435	skit	435	(sistema)	(system)	sistema		愛しのウッドロウ	Dear Woodrow		0x08D7921C	1	16	18
+skit#436	skit	436	(sistema)	(system)	sistema		愛しのウッドロウ・その２	Dear Woodrow: Pt 2		0x08D79268	1	24	26
+skit#437	skit	437	(sistema)	(system)	sistema		愛しのゼロス	Dear Zelos		0x08D792B4;0x08D79300	2	12	13
+skit#438	skit	438	(sistema)	(system)	sistema		ナタリアの悩み事	Natalia's Worry		0x08D7934C	1	16	18
+skit#439	skit	439	(sistema)	(system)	sistema		新しい生活、消えないしがらみ	New Life, Old Ties		0x08D79398	1	28	31
+skit#440	skit	440	(sistema)	(system)	sistema		美しい景色	Fine View		0x08D793E4	1	10	11
+skit#441	skit	441	(sistema)	(system)	sistema		噛みあって、る？	Are We Clicking?		0x08D79430	1	16	18
+skit#442	skit	442	(sistema)	(system)	sistema		聖なる夜を祝おう	Holy Night Joy		0x08D7947C	1	16	18
+skit#443	skit	443	(sistema)	(system)	sistema		ナタリアとの再会	Reunion: Natalia		0x08D794C8	1	16	18
+skit#444	skit	444	(sistema)	(system)	sistema		定番！？	Classic!?		0x08D79514	1	8	9
+skit#445	skit	445	(sistema)	(system)	sistema		アッシュの事情	Asch's Motive		0x08D79560	1	14	15
+skit#446	skit	446	(sistema)	(system)	sistema		拳で語り合う二人	Fists Speak Louder		0x08D795AC	1	16	18
+skit#447	skit	447	(sistema)	(system)	sistema		「ファブレ」	Fabre		0x08D795F8	1	12	13
+skit#448	skit	448	(sistema)	(system)	sistema		あなたって不思議	You're a Mystery		0x08D79644	1	16	18
+skit#449	skit	449	(sistema)	(system)	sistema		アッシュとの再会	Reunion with Asch		0x08D79690	1	16	18
+skit#450	skit	450	(sistema)	(system)	sistema		変わらない君	Same As Ever		0x08D796DC	1	12	13
+skit#451	skit	451	(sistema)	(system)	sistema		怒りのアッシュ	Asch's Fury		0x08D79728	1	14	15
+skit#452	skit	452	(sistema)	(system)	sistema		困った兄	Pesky Bro		0x08D79774	1	8	9
+skit#453	skit	453	(sistema)	(system)	sistema		ばんばん∀	Bang Bang!		0x08D797C0	1	10	11
+skit#454	skit	454	(sistema)	(system)	sistema		定められた未来	Fated Future		0x08D7980C	1	14	15
+skit#455	skit	455	(sistema)	(system)	sistema		哀愁と達観	Bittersweet		0x08D79858	1	10	11
+skit#456	skit	456	(sistema)	(system)	sistema		ソレの使い方って？	How to Use That?		0x08D798A4	1	18	20
+skit#457	skit	457	(sistema)	(system)	sistema		「達」	Plural		0x08D798F0	1	6	6
+skit#458	skit	458	(sistema)	(system)	sistema		懐かしい遊び	Old Games		0x08D7993C	1	12	13
+skit#459	skit	459	(sistema)	(system)	sistema		得難き、今	Rare Moment		0x08D79988;0x08D799D4	2	10	11
+skit#460	skit	460	(sistema)	(system)	sistema		懐かしい遊び・その２	Old Games: Pt 2		0x08D79A20	1	20	22
+skit#461	skit	461	(sistema)	(system)	sistema		一緒に作ろう	Let's Make It		0x08D79A6C	1	12	13
+skit#462	skit	462	(sistema)	(system)	sistema		どこにやったかな？	Where Was It?		0x08D79AB8	1	18	20
+skit#463	skit	463	(sistema)	(system)	sistema		雪の日のお約束・その２	Snow Promise: Pt 2		0x08D79B04	1	22	24
+skit#464	skit	464	(sistema)	(system)	sistema		余裕あるなぁ	Quite Relaxed		0x08D79B50	1	12	13
+skit#465	skit	465	(sistema)	(system)	sistema		カイウスの夜事情	Caius's Night		0x08D79B9C	1	16	18
+skit#466	skit	466	(sistema)	(system)	sistema		霊峰ってなに？	What Peak?		0x08D79BE8	1	14	15
+skit#467	skit	467	(sistema)	(system)	sistema		真夜中の異変	Midnight Stir		0x08D79C34	1	12	13
+skit#468	skit	468	(sistema)	(system)	sistema		ノリが良すぎる？	Too Energetic?		0x08D79C80	1	16	18
+skit#469	skit	469	(sistema)	(system)	sistema		ルームメイト	Roommates		0x08D79CCC	1	12	13
+skit#470	skit	470	(sistema)	(system)	sistema		どうしてギルドに？	Why Join Guild?		0x08D79D18	1	18	20
+skit#471	skit	471	(sistema)	(system)	sistema		感謝の気持ちを忘れずに	Always Be Grateful		0x08D79D64	1	22	24
+skit#472	skit	472	(sistema)	(system)	sistema		今だけだから	Only for Now		0x08D79DB0	1	12	13
+skit#473	skit	473	(sistema)	(system)	sistema		二人の共通点	Shared Traits		0x08D79DFC	1	12	13
+skit#474	skit	474	(sistema)	(system)	sistema		筋肉で勝負	Muscle Duel		0x08D79E48	1	10	11
+skit#475	skit	475	(sistema)	(system)	sistema		ホームシック	Homesick		0x08D79E94	1	12	13
+skit#476	skit	476	(sistema)	(system)	sistema		空気を読んで	Read the Room		0x08D79EE0	1	12	13
+skit#477	skit	477	(sistema)	(system)	sistema		将来の夢	Our Dream		0x08D79F2C	1	8	9
+skit#478	skit	478	(sistema)	(system)	sistema		肩が凝ったら	Stiff Neck?		0x08D79F78	1	12	13
+skit#479	skit	479	(sistema)	(system)	sistema		すごいよルカさん	Amazing, Sir Ruca		0x08D79FC4	1	16	18
+skit#480	skit	480	(sistema)	(system)	sistema		気付けた、大事な事	Key Realization		0x08D7A010	1	18	20
+skit#481	skit	481	(sistema)	(system)	sistema		口の悪い人々	Foul Mouths		0x08D7A05C	1	12	13
+skit#482	skit	482	(sistema)	(system)	sistema		めがねめがね・その２	Glasses: Pt 2		0x08D7A0A8	1	20	22
+skit#483	skit	483	(sistema)	(system)	sistema		暑い！・その２	Hot!: Pt 2		0x08D7A0F4	1	14	15
+skit#484	skit	484	(sistema)	(system)	sistema		ぬかりなき戦略	Solid Strategy		0x08D7A140	1	14	15
+skit#485	skit	485	(sistema)	(system)	sistema		今後に期待	Great Hopes		0x08D7A18C	1	10	11
+skit#486	skit	486	(sistema)	(system)	sistema		済んだことでしょ！	It's Over Now!		0x08D7A1D8	1	18	20
+skit#487	skit	487	(sistema)	(system)	sistema		だって退屈なんだもん	Because I'm Bored!		0x08D7A224	1	20	22
+skit#488	skit	488	(sistema)	(system)	sistema		じゃんけん！	RPS Showdown!		0x08D7A270	1	12	13
+skit#489	skit	489	(sistema)	(system)	sistema		二刀っていいよな！	Dual Blades Rock!		0x08D7A2BC	1	18	20
+skit#490	skit	490	(sistema)	(system)	sistema		スパーダの事情	Spada's Plight		0x08D7A308	1	14	15
+skit#491	skit	491	(sistema)	(system)	sistema		優しいひと	Gentle Soul		0x08D7A354	1	10	11
+skit#492	skit	492	(sistema)	(system)	sistema		優しいひと・その２	Gentle Soul: Pt 2		0x08D7A3A0	1	18	20
+skit#493	skit	493	(sistema)	(system)	sistema		マメさの理由	Why So Neat?		0x08D7A3EC	1	12	13
+skit#494	skit	494	(sistema)	(system)	sistema		ヒトの進化種	Evolved Human		0x08D7A438	1	12	13
+skit#495	skit	495	(sistema)	(system)	sistema		スパーダ、危機一髪	Close Call, Spada		0x08D7A484	1	18	20
+skit#496	skit	496	(sistema)	(system)	sistema		究極の戦術理論・その３	Tactics Theory: Pt 3		0x08D7A4D0	1	22	24
+skit#497	skit	497	(sistema)	(system)	sistema		アンジュの憂い	Ange's Sorrow		0x08D7A51C	1	14	15
+skit#498	skit	498	(sistema)	(system)	sistema		分かり合えない二人	Clashing Duo		0x08D7A568	1	18	20
+skit#499	skit	499	(sistema)	(system)	sistema		油断ならぬ人物	Wary Person		0x08D7A5B4	1	14	15
+skit#500	skit	500	(sistema)	(system)	sistema		違う世界の同じ自分へ	To My Other Self		0x08D7A600	1	20	22
+skit#501	skit	501	(sistema)	(system)	sistema		達成数１００回、突破！	Cleared 100 Quests!		0x08D7A64C	1	22	24
+skit#502	skit	502	(sistema)	(system)	sistema		達成数５００回、突破！	Cleared 500 Quests!		0x08D7A698	1	22	24
+skit#503	skit	503	(sistema)	(system)	sistema		達成数８００回、突破！	Cleared 800 Quests!		0x08D7A6E4	1	22	24
+skit#504	skit	504	(sistema)	(system)	sistema		達成数１０００回、突破！！	Cleared 1,000 Quests!!		0x08D7A730	1	26	29
+skit#505	skit	505	(sistema)	(system)	sistema		元気になるのを、待ってるから	Waiting for You to Heal		0x08D7A77C	1	28	31
+skit#506	skit	506	(sistema)	(system)	sistema		違いの分かる男・その２	Discerning Man: Pt 2		0x08D7A7C8	1	22	24
+skit#507	skit	507	(sistema)	(system)	sistema		損な仕事	Sour Task		0x08D7A814	1	8	9
+skit#508	skit	508	(sistema)	(system)	sistema		武者震いだ！	Warrior Zeal!		0x08D7A860	1	12	13
+skit#509	skit	509	(sistema)	(system)	sistema		本日は晴天なり	Fine Weather		0x08D7A8AC	1	14	15
+skit#510	skit	510	(sistema)	(system)	sistema		こんな留守番は嫌だ	Worst House-Sitting		0x08D7A8F8	1	18	20
+skit#511	skit	511	(sistema)	(system)	sistema		触れられたくない過去	Untouchable Past		0x08D7A944	1	20	22
+skit#512	skit	512	(sistema)	(system)	sistema		子どもは、子どもらしく	Kids Should Be Kids		0x08D7A990	1	22	24
+skit#513	skit	513	(sistema)	(system)	sistema		戦いの意味	Why Fight?		0x08D7A9DC	1	10	11
+skit#514	skit	514	(sistema)	(system)	sistema		食べたいんだヨ	I Want to Eat		0x08D7AA28	1	14	15
+skit#515	skit	515	(sistema)	(system)	sistema		短くする・その３	Shorten It: Pt 3		0x08D7AA74	1	16	18
+skit#516	skit	516	(sistema)	(system)	sistema		クィッキーと仲良し・その３	Quickie Friends: Pt 3		0x08D7AAC0	1	26	29
+skit#517	skit	517	(sistema)	(system)	sistema		言葉の力	Word Sway		0x08D7AB0C	1	8	9
+skit#518	skit	518	(sistema)	(system)	sistema		大罪人ユーリ！？	Villain Yuri!?		0x08D7AB58	1	16	18
+skit#519	skit	519	(sistema)	(system)	sistema		なんか、ずるいぞ	Kind of Unfair		0x08D7ABA4	1	16	18
+skit#520	skit	520	(sistema)	(system)	sistema		黒髪、甘党の剣士達	Sweet-Tooth Blades		0x08D7ABF0	1	18	20
+skit#521	skit	521	(sistema)	(system)	sistema		かわいげがない人々	Uncharming Folks		0x08D7AC3C	1	18	20
+skit#522	skit	522	(sistema)	(system)	sistema		それも食べるの？	Eating That Too?		0x08D7AC88	1	16	18
+skit#523	skit	523	(sistema)	(system)	sistema		それも食べるの？・その２	Eating That Too: Pt 2		0x08D7ACD4	1	24	26
+skit#524	skit	524	(sistema)	(system)	sistema		衣装を交換	Swap Gear		0x08D7AD20	1	10	11
+skit#525	skit	525	(sistema)	(system)	sistema		短くする	Trim It		0x08D7AD6C	1	8	9
+skit#526	skit	526	(sistema)	(system)	sistema		クィッキーと仲良し	Quickie Friends		0x08D7ADB8	1	18	20
+skit#527	skit	527	(sistema)	(system)	sistema		クィッキーと仲良し・その２	Quickie Friends: Pt 2		0x08D7AE04	1	26	29
+skit#528	skit	528	(sistema)	(system)	sistema		エステルとの再会	Reunion: Estelle		0x08D7AE50	1	16	18
+skit#529	skit	529	(sistema)	(system)	sistema		視線をそらす	Looking Away		0x08D7AE9C	1	12	13
+skit#530	skit	530	(sistema)	(system)	sistema		志は高いけれど	Noble Ambitions		0x08D7AEE8	1	14	15
+skit#531	skit	531	(sistema)	(system)	sistema		似た者同士	Twin Souls		0x08D7AF34	1	10	11
+skit#532	skit	532	(sistema)	(system)	sistema		もっと呼びやすく	Make It Simpler		0x08D7AF80	1	16	18
+skit#533	skit	533	(sistema)	(system)	sistema		心理テスト！・ジュディス編	Quiz! Judith		0x08D7AFCC	1	26	29
+skit#534	skit	534	(sistema)	(system)	sistema		再利用はいいこと？・その３	Is Reusing Good: Pt 3		0x08D7B018	1	26	29
+skit#535	skit	535	(sistema)	(system)	sistema		珍しくて、つい	A Rare Sight!		0x08D7B064	1	14	15
+skit#536	skit	536	(sistema)	(system)	sistema		憧れる……けど	Admired, But...		0x08D7B0B0	1	14	15
+skit#537	skit	537	(sistema)	(system)	sistema		短くする・その２	Shorten It: Pt 2		0x08D7B0FC	1	16	18
+skit#538	skit	538	(sistema)	(system)	sistema		めがねめがね	Glasses!		0x08D7B148	1	12	13
+skit#539	skit	539	(sistema)	(system)	sistema		仲良くお勉強	Study Group		0x08D7B194	1	12	13
+skit#540	skit	540	(sistema)	(system)	sistema		新メンバーは騎士隊長	Captain Joins		0x08D7B1E0	1	20	22
+skit#541	skit	541	(sistema)	(system)	sistema		本が欲しい	Need Books		0x08D7B22C	1	10	11
+skit#542	skit	542	(sistema)	(system)	sistema		本が欲しいんだってば	I Really Want Books!		0x08D7B278	1	20	22
+skit#543	skit	543	(sistema)	(system)	sistema		カタブツで、甘ちゃん	Stiff and Naive		0x08D7B2C4	1	20	22
+skit#544	skit	544	(sistema)	(system)	sistema		ここだけの本心	Just Between Us		0x08D7B310	1	14	15
+skit#545	skit	545	(sistema)	(system)	sistema		無言の訴え	Silent Plea		0x08D7B35C	1	10	11
+skit#546	skit	546	(sistema)	(system)	sistema		レイヴンの憂鬱	Raven's Gloom		0x08D7B3A8	1	14	15
+skit#547	skit	547	(sistema)	(system)	sistema		そっちはどうなの？	How About You?		0x08D7B3F4	1	18	20
+skit#548	skit	548	(sistema)	(system)	sistema		ここでする話なの？	Talk Here?		0x08D7B440	1	18	20
+skit#549	skit	549	(sistema)	(system)	sistema		ニヒルなアッシュ	Cynical Asch		0x08D7B48C	1	16	18
+skit#550	skit	550	(sistema)	(system)	sistema		気を遣ってる？	Being Mindful?		0x08D7B4D8	1	14	15
+skit#551	skit	551	(sistema)	(system)	sistema		似てないでしょ	Nothing Alike		0x08D7B524	1	14	15
+skit#552	skit	552	(sistema)	(system)	sistema		おっさん炸裂	Old Man Burst		0x08D7B570	1	12	13
+skit#553	skit	553	(sistema)	(system)	sistema		素敵でしょ！？	Lovely, Right!?		0x08D7B5BC	1	14	15
+skit#554	skit	554	(sistema)	(system)	sistema		どうやって切り抜ける？	How to Break Out?		0x08D7B608	1	22	24
+skit#555	skit	555	(sistema)	(system)	sistema		天気晴朗なれど……	Clear Skies, Yet...		0x08D7B654	1	18	20
+skit#556	skit	556	(sistema)	(system)	sistema		どうしよ……？	What to Do...?		0x08D7B6A0	1	14	15
+skit#557	skit	557	(sistema)	(system)	sistema		聖なる夜を祝おう・その２	Holy Night Joy: Pt 2		0x08D7B6EC	1	24	26
+skit#558	skit	558	(sistema)	(system)	sistema		心理テスト！・フレン編	Quiz! Flynn		0x08D7B738	1	22	24
+skit#559	skit	559	(sistema)	(system)	sistema		船内の治安を守れ	Keep Ship Safe		0x08D7B784;0x08D7B7D0	2	16	18
+skit#560	skit	560	(sistema)	(system)	sistema		事実と真実の狭間で	Fact Versus Truth		0x08D7B81C	1	18	20
+skit#561	skit	561	(sistema)	(system)	sistema		フレンの奮闘	Flynn's Zeal		0x08D7B868	1	12	13
+skit#562	skit	562	(sistema)	(system)	sistema		命令の真意	True Intent		0x08D7B8B4	1	10	11
+skit#563	skit	563	(sistema)	(system)	sistema		散歩してるだけです	Just Taking a Walk		0x08D7B900	1	18	20
+skit#564	skit	564	(sistema)	(system)	sistema		大盛り上がりのワケ	Why So Hyped		0x08D7B94C	1	18	20
+skit#565	skit	565	(sistema)	(system)	sistema		ヘーゼル村ってどんな村？	What's Hazel Like?		0x08D7B998	1	24	26
+skit#566	skit	566	(sistema)	(system)	sistema		友愛の試練、再び	Amity Trial Redux		0x08D7B9E4	1	16	18
+skit#567	skit	567	(sistema)	(system)	sistema		天然ですから	Airheaded		0x08D7BA30	1	12	13
+skit#568	skit	568	(sistema)	(system)	sistema		モロキュウとモロモロ	Cucumber & Things		0x08D7BA7C	1	20	22
+skit#569	skit	569	(sistema)	(system)	sistema		まずは、１００体！	First 100 Foes!		0x08D7BAC8	1	18	20
+skit#570	skit	570	(sistema)	(system)	sistema		「ほすぴたりてぃ」って何だ？	What Is 'Hospitality'?		0x08D7BB14	1	28	31
+skit#571	skit	571	(sistema)	(system)	sistema		美脚の秘訣	Lovely Legs		0x08D7BB60	1	10	11
+skit#572	skit	572	(sistema)	(system)	sistema		至上の美味	Top Flavor		0x08D7BBAC	1	10	11
+skit#573	skit	573	(sistema)	(system)	sistema		友達は大切に	Value Friends		0x08D7BBF8	1	12	13
+skit#574	skit	574	(sistema)	(system)	sistema		通なコハク	Kohaku Wit		0x08D7BC44	1	10	11
+skit#575	skit	575	(sistema)	(system)	sistema		言葉って面白い	Words Are Fun		0x08D7BC90	1	14	15
+skit#576	skit	576	(sistema)	(system)	sistema		やったね、３００体！	Crushed 300 Foes!		0x08D7BCDC	1	20	22
+skit#577	skit	577	(sistema)	(system)	sistema		目指せ、豪華献立への道！・その３	Road to Feasts: Pt 3		0x08D7BD28	1	32	35
+skit#578	skit	578	(sistema)	(system)	sistema		アニーの手当て	Annie's Nursing		0x08D7BD74	1	14	15
+skit#579	skit	579	(sistema)	(system)	sistema		恐るべき菌	Dread Germ		0x08D7BDC0	1	10	11
+skit#580	skit	580	(sistema)	(system)	sistema		きょうだい自慢	Proud Siblings		0x08D7BE0C	1	14	15
+skit#581	skit	581	(sistema)	(system)	sistema		伝説の魔王、見つけました	Found Demon Lord		0x08D7BE58	1	24	26
+skit#582	skit	582	(sistema)	(system)	sistema		知らないコトバ	Unknown Word		0x08D7BEA4	1	14	15
+skit#583	skit	583	(sistema)	(system)	sistema		大口開けて	Open Wide		0x08D7BEF0	1	10	11
+skit#584	skit	584	(sistema)	(system)	sistema		想像してみて	Just Imagine		0x08D7BF3C	1	12	13
+skit#585	skit	585	(sistema)	(system)	sistema		上から見たきょうだい	Siblings from Above		0x08D7BF88	1	20	22
+skit#586	skit	586	(sistema)	(system)	sistema		どう思う？	What Think?		0x08D7BFD4	1	10	11
+skit#587	skit	587	(sistema)	(system)	sistema		若気の至り	Youth Folly		0x08D7C020	1	10	11
+skit#588	skit	588	(sistema)	(system)	sistema		答えを探して	Seek Answers		0x08D7C06C	1	12	13
+skit#589	skit	589	(sistema)	(system)	sistema		彼女は××料理人・その４	She's a XX Cook: Pt 4		0x08D7C0B8	1	24	26
+skit#590	skit	590	(sistema)	(system)	sistema		彼も××料理人	He's a XX Cook		0x08D7C104	1	14	15
+skit#591	skit	591	(sistema)	(system)	sistema		迷いと答え	Doubts Away		0x08D7C150	1	10	11
+skit#592	skit	592	(sistema)	(system)	sistema		きょうだいのこと	About Siblings		0x08D7C19C	1	16	18
+skit#593	skit	593	(sistema)	(system)	sistema		尊敬です、フレン隊長	Respect, Captain Flynn		0x08D7C1E8	1	20	22
+skit#594	skit	594	(sistema)	(system)	sistema		アスベルの父さん	Asbel's Father		0x08D7C234	1	16	18
+skit#595	skit	595	(sistema)	(system)	sistema		オショウガツを祝おう	Happy New Year!		0x08D7C280	1	20	22
+skit#596	skit	596	(sistema)	(system)	sistema		ソフィってやっぱり……	Sophie Truly Is...		0x08D7C2CC	1	22	24
+skit#597	skit	597	(sistema)	(system)	sistema		世界樹の思い	Tree's Heart		0x08D7C318	1	12	13
+skit#598	skit	598	(sistema)	(system)	sistema		それも食べるの？・その３	Eating That Too: Pt 3		0x08D7C364	1	24	26
+skit#599	skit	599	(sistema)	(system)	sistema		カニタマ記念日	Omelet Holiday		0x08D7C3B0	1	14	15
+skit#600	skit	600	(sistema)	(system)	sistema		女の勘	Hunch		0x08D7C3FC	1	6	6
+skit#601	skit	601	(sistema)	(system)	sistema		役割分担	Job Roles		0x08D7C448	1	8	9
+skit#602	skit	602	(sistema)	(system)	sistema		教えて、恋の話・ロニ編	Love Talk: Roni		0x08D7C494	1	22	24
+skit#603	skit	603	(sistema)	(system)	sistema		教えて、恋の話・キール編	Love Talk: Keele		0x08D7C4E0	1	24	26
+skit#604	skit	604	(sistema)	(system)	sistema		相性が悪い？	Bad Match?		0x08D7C52C;0x08D7C578;0x08D7C5C4;0x08D7C610;0x08D7C65C	5	12	13
+skit#605	skit	605	(sistema)	(system)	sistema		キレイにしようね	Let's Clean Up		0x08D7C6A8	1	16	18
+skit#606	skit	606	(sistema)	(system)	sistema		シェリアって……	Cheria is...		0x08D7C6F4	1	16	18
+skit#607	skit	607	(sistema)	(system)	sistema		クロエの魅力	Chloe's Charm		0x08D7C740;0x08D7C78C	2	12	13
+skit#608	skit	608	(sistema)	(system)	sistema		複雑な思い	Mixed Views		0x08D7C7D8	1	10	11
+skit#609	skit	609	(sistema)	(system)	sistema		昔の話	Of Old		0x08D7C824	1	6	6
+skit#610	skit	610	(sistema)	(system)	sistema		光気丹術経	Kouki Lore		0x08D7C870	1	10	11
+skit#611	skit	611	(sistema)	(system)	sistema		異類化生記	Beast Lore		0x08D7C8BC	1	10	11
+skit#612	skit	612	(sistema)	(system)	sistema		ドクメントでわかる事	Truth from Document		0x08D7C908	1	20	22
+skit#613	skit	613	(sistema)	(system)	sistema		オルタ・ビレッジ	Alta Village		0x08D7C954	1	16	18
+skit#614	skit	614	(sistema)	(system)	sistema		ロックス仕込み	Rocks-Trained		0x08D7C9A0	1	14	15
+skit#615	skit	615	(sistema)	(system)	sistema		告白	Love		0x08D7C9EC	1	4	4
+skit#616	skit	616	(sistema)	(system)	sistema		もう一つの姿	Another Form		0x08D7CA38	1	12	13
+skit#617	skit	617	(sistema)	(system)	sistema		軍人がニガテ？	Dislike Troops?		0x08D7CA84	1	14	15
+skit#618	skit	618	(sistema)	(system)	sistema		かしましい	Chatty		0x08D7CAD0	1	10	11
+skit#619	skit	619	(sistema)	(system)	sistema		そっち専門	Specialist		0x08D7CB1C	1	10	11
+skit#620	skit	620	(sistema)	(system)	sistema		これからの旅	Journey Ahead		0x08D7CB68	1	12	13
+skit#621	skit	621	(sistema)	(system)	sistema		あなたを描く	Painting You		0x08D7CBB4;0x08D7CC00;0x08D7CC4C;0x08D7CC98;0x08D7CCE4	5	12	13
+skit#622	skit	622	(sistema)	(system)	sistema		いつも、どこにでも	Always, Everywhere		0x08D7CD30	1	18	20
+skit#623	skit	623	(sistema)	(system)	sistema		新しい命の声	Voice of Life		0x08D7CD7C	1	12	13
+skit#624	skit	624	(sistema)	(system)	sistema		端末	Node		0x08D7CDC8	1	4	4
+skit#625	skit	625	(sistema)	(system)	sistema		異世界の風景	Other Vistas		0x08D7CE14;0x08D7CE60;0x08D7CEAC;0x08D7CEF8	4	12	13
+skit#626	skit	626	(sistema)	(system)	sistema		ヒーロー？	A Hero?		0x08D7CF44	1	10	11
+skit#627	skit	627	(sistema)	(system)	sistema		ニアタの身体	Niata's Body		0x08D7CF90	1	12	13
+skit#628	skit	628	(sistema)	(system)	sistema		不思議な液体	Mystic Drink		0x08D7CFDC;0x08D7D028;0x08D7D074;0x08D7D0C0;0x08D7D10C;0x08D7D158;0x08D7D1A4	7	12	13
+skit#629	skit	629	(sistema)	(system)	sistema		ディセンダー自慢	Descender Boast		0x08D7D1F0	1	16	18
+skit#630	skit	630	(sistema)	(system)	sistema		前作との違いは！？	Sequel Changes!?		0x08D7D23C	1	18	20
+skit#631	skit	631	(sistema)	(system)	sistema		ダンジョンもパワーアップ！	Dungeons Powered Up!		0x08D7D288	1	26	29
+skit#632	skit	632	(sistema)	(system)	sistema		キャラメイクはどうだったかな？	How Was Char Creation?		0x08D7D2D4	1	30	33
+skit#633	skit	633	(sistema)	(system)	sistema		本作品の戦闘は！？	How Battles Work!?		0x08D7D320	1	18	20

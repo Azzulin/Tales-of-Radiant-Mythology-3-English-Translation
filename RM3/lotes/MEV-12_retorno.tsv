@@ -1,0 +1,217 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev12_010.scr:0	mev12_010.scr	0	アンジュ	Ange Serena	personagem		リタからの依頼、あなたが受けてくれるのね	You'll take on Rita's request, then.	
+mev12_010.scr:1	mev12_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	ええと、今回の目的地はブラウニー坑道。\n塩水晶の採取よ	Let's see, your goal is Brownie Mine.\nTo gather Salt Crystals.	
+mev12_010.scr:2	mev12_010.scr	2	アンジュ	Ange Serena	personagem		同行者は、しいなとカイル君	Sheena and Kyle will go with you.	
+mev12_010.scr:3	mev12_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	でも、そんな素材で\n本当にラザリスを封印出来るのかしら…	Still, could such materials really\nseal Lazaris away, I wonder...?	
+mev12_010.scr:4	mev12_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	そう。\nそれじゃあ、わたしは\nあなたを信じる事にするね	I see.\nWell then, I will choose to place\nmy faith in you.	
+mev12_010.scr:5	mev12_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	そうね、代案を出せって言われたって、\n他に手掛かりすらないんだものね…	True, even if we were asked for\nan alternative, we have no other clues...	
+mev12_010.scr:6	mev12_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	やれる事からやりましょう。\n後悔だけはしない様に	Let's do what we can first.\nSo that we have no regrets.	
+mev12_010.scr:7	mev12_010.scr	7	アンジュ	Ange Serena	personagem		それじゃ、行ってらっしゃい	Well then, have a safe trip!	
+mev12_010.scr:8	mev12_010.scr	8	(opcao do jogador)	(opcao do jogador)	escolha		自分はニアタを信じる、と言う	Say you believe in Niata	
+mev12_010.scr:9	mev12_010.scr	9	(opcao do jogador)	(opcao do jogador)	escolha		他に方法があるのか、と問う	Ask if there is another way	
+mev12_020.scr:0	mev12_020.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	えっと…、ラザリスを封印するのに\n何が必要なんだっけ？	Um... what did we need again\nto seal Lazaris?	
+mev12_020.scr:1	mev12_020.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x2	今から取りに行く、塩水晶。\nそれから、羽があって飛び回る実と\n全身から汗を流すパン、だとさ	The Salt Crystals we're after now.\nPlus a winged fruit that flits about,\nand bread sweating all over, they say.	
+mev12_020.scr:2	mev12_020.scr	2	カイル	Kyle Dunamis	personagem	CRLF x1	全身から汗を流すパン！？\nそんなものどうやって作ればいいんだ？	Bread sweating all over?!\nHow are we even supposed to bake that?!	
+mev12_020.scr:3	mev12_020.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x1	本当にパンかどうかはわからないよ。\nジュディスがそういうイメージで捉えただけさ	We don't know if it's really bread.\nJudith only perceived that kind of image.	
+mev12_020.scr:4	mev12_020.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x1	残り二つがどういうものかってのは、\n船にいるみんなが調べてくれてるよ	As for what the other two are,\neveryone on the ship is looking into it.	
+mev12_020.scr:5	mev12_020.scr	5	カイル	Kyle Dunamis	personagem	CRLF x2	良かった〜。\nさすがにそんなパンは、\n食べる気にならないもんな	Whew, thank goodness!\nI really wouldn't feel like eating\nbread like that, after all.	
+mev12_020.scr:6	mev12_020.scr	6	しいな	Sheena Fujibayashi	personagem		そこは心配するトコじゃないだろ…	That's not what you should worry about...	
+mev12_025.scr:0	mev12_025.scr	0	カイル	Kyle Dunamis	personagem		この扉、開かないよ	This door won't open.	
+mev12_025.scr:1	mev12_025.scr	1	しいな	Sheena Fujibayashi	personagem		こいつはちょっと、仕掛けがあるんだよ	There's a trick to this one.	
+mev12_025.scr:2	mev12_025.scr	2	しいな	Sheena Fujibayashi	personagem		ほら、開いただろ	See? It opened.	
+mev12_025.scr:3	mev12_025.scr	3	カイル	Kyle Dunamis	personagem		うわぁ、セコい仕掛け…	Whoa, what a cheap trick...	
+mev12_030.scr:0	mev12_030.scr	0	しいな	Sheena Fujibayashi	personagem	CRLF x1	カイル。\nあんた、あたし達の世界には慣れたかい？	Kyle.\nHave you gotten used to our world yet?	
+mev12_030.scr:1	mev12_030.scr	1	カイル	Kyle Dunamis	personagem	CRLF x1	うん！\n見た事無い術とかあるし、面白いよ	Yeah!\nThere are artes I've never seen; it's fun!	
+mev12_030.scr:2	mev12_030.scr	2	しいな	Sheena Fujibayashi	personagem	CRLF x1	全く、本当に面白いよ。\nヴェラトローパの話は聞いたかい？	Indeed, it really is interesting.\nDid you hear about Veratropa?	
+mev12_030.scr:3	mev12_030.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x2	あたしの故郷に伝わる光気丹術は、\nソウルアルケミーの一端だったって\n言ってたろ？	You heard that the Light Alchemy\npassed down in my homeland was just\na facet of Soul Alchemy, right?	
+mev12_030.scr:4	mev12_030.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x2	その術は、遥か昔からあった\nヴェラトローパの民が\n使用してたってんだよ	That art was used by the people\nof Veratropa from the distant past,\nthey say.	
+mev12_030.scr:5	mev12_030.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x1	すごいと思わないかい？\nそんなに長い間伝わってきたなんてさ	Don't you think that's amazing?\nTo be passed down for so long, I mean.	
+mev12_030.scr:6	mev12_030.scr	6	カイル	Kyle Dunamis	personagem	CRLF x1	何でも創り出せる力だったんでしょ？\nいつの頃から、ヒトはその力を失ったんだろう	It was a power to create anything, right?\nWhen did humans end up losing that power?	
+mev12_030.scr:7	mev12_030.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x2	さあね。\nだけど、ほんの一部は残ってるじゃないか。\nあたしらが知ってる魔術って形でさ	Who knows?\nYet a small part of it still remains,\nin the form of magic that we know.	
+mev12_030.scr:8	mev12_030.scr	8	カイル	Kyle Dunamis	personagem		え？　魔術もソウルアルケミー？	Huh? Magic is Soul Alchemy too?	
+mev12_030.scr:9	mev12_030.scr	9	しいな	Sheena Fujibayashi	personagem	CRLF x2	そう。\nドクメントの創造なんて事は、普通の人には\nおいそれと出来やしないけど	Right.\nCreating Documents isn't something\nordinary folks can just pull off, though.	
+mev12_030.scr:10	mev12_030.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x1	まあ、ちょっとだけ使えてるってのが\n今あたし達の間で知られてる魔術だね	Well, using just a tiny bit of it\nis the magic known among us today.	
+mev12_030.scr:11	mev12_030.scr	11	カイル	Kyle Dunamis	personagem	CRLF x1	魔術が使えるってだけでも\nすごいと思うけどなぁ…	Just being able to use magic\nseems amazing enough to me, though...	
+mev12_030.scr:12	mev12_030.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x2	真のソウルアルケミーの使い手が\nいるとしたら…、魔術を使うにしても\n詠唱も道具も要らないだろうって言われてるよ	If a true Soul Alchemy wielder exists...\nthey say they'd need neither chanting\nnor tools, even when using magic.	
+mev12_030.scr:13	mev12_030.scr	13	しいな	Sheena Fujibayashi	personagem		願えば何でも現実になるんだから	Whatever they wish for becomes reality.	
+mev12_030.scr:14	mev12_030.scr	14	カイル	Kyle Dunamis	personagem	CRLF x1	ふぅん、やっぱ神様みたいだなぁ。\nオレ達ヒトには出来ない事だよね	Hmm, sounds just like a god.\nIt's something we humans could never do.	
+mev12_030.scr:15	mev12_030.scr	15	しいな	Sheena Fujibayashi	personagem	CRLF x2	何でも出来ちゃあ面白くないし、\nそれで生きてるって実感が\n沸くもんかねえ？	If you can do anything, it's no fun.\nCould anyone truly feel alive that way,\nI wonder?	
+mev12_030.scr:16	mev12_030.scr	16	しいな	Sheena Fujibayashi	personagem	CRLF x2	ヴェラトローパの民…ヒトの祖は、\n苦難に満ちたものであっても、その力を捨てて、\n生きる事を学ぶと決めたとかって話だし	The people of Veratropa... the Progenitor\nof Man, cast off that power and chose\nto learn what it means to live.	
+mev12_030.scr:17	mev12_030.scr	17	カイル	Kyle Dunamis	personagem	CRLF x2	そっか。\nそれで今、オレ達は生きてる事の喜びや辛さを\n知る事が出来てるんだね	I see.\nThat's why we're able to know\nthe joys and hardships of living today.	
+mev12_030.scr:18	mev12_030.scr	18	しいな	Sheena Fujibayashi	personagem	CRLF x2	あたしは、その力を捨てた\nヒトの祖の子孫である事を\n誇りに思うよ	I am proud to be a descendant\nof that Progenitor of Man who cast\nthat power aside.	
+mev12_030.scr:19	mev12_030.scr	19	しいな	Sheena Fujibayashi	personagem	CRLF x1	辛かった日々も、楽しかった日々も\nあたしには宝物だからね	The painful days and the happy days\nare both precious treasures to me.	
+mev12_040.scr:0	mev12_040.scr	0	しいな	Sheena Fujibayashi	personagem		誰かいるよ！	Someone's here!	
+mev12_040.scr:1	mev12_040.scr	1	カイル	Kyle Dunamis	personagem	CRLF x1	あっ！\nあいつは、バルバトス…！！	Ah!\nThat's Barbatos...!!	
+mev12_040.scr:2	mev12_040.scr	2	しいな	Sheena Fujibayashi	personagem		ええ！？	What?!	
+mev12_040.scr:3	mev12_040.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x1	まさか、あいつが「強い者がいると聞けば、\n戦いを挑むというめちゃくちゃな奴」かい！？	Don't tell me he's that lunatic who\nchallenges anyone strong he hears of?!	
+mev12_040.scr:4	mev12_040.scr	4	カイル	Kyle Dunamis	personagem	CRLF x1	あいつも、一緒にこの世界へ\n飛ばされて来てたのか…	So he was flung into this world\nalong with the rest of us...	
+mev12_040.scr:5	mev12_040.scr	5	バルバトス	Barbatos Goetia	personagem	CRLF x1	ほう…、死に損ないが。\nまだ生きていたのか	Hoh... you wretched survivor.\nYou're still breathing, are you?	
+mev12_040.scr:6	mev12_040.scr	6	バルバトス	Barbatos Goetia	personagem	CRLF x1	妙な所へ飛ばされたせいで、\n我が餓えを満たす相手がいなくてなぁ…	Flung into this strange place, I lacked\nfoes to satisfy my eternal hunger...	
+mev12_040.scr:7	mev12_040.scr	7	カイル	Kyle Dunamis	personagem	CRLF x1	望むところだ、バルバトス！\nお前なんかに父さんを殺させやしない！	Just what I wanted, Barbatos!\nI won't let the likes of you kill my dad!	
+mev12_040.scr:8	mev12_040.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x1	カイル、待ちなって！\n勝てる相手なのかい？	Kyle, hold on!\nIs he someone you can actually beat?!	
+mev12_040.scr:9	mev12_040.scr	9	バルバトス	Barbatos Goetia	personagem	CRLF x1	心配するな。\nその答えは一つしかない	Do not fret.\nThere is but a single answer to that.	
+mev12_040.scr:10	mev12_040.scr	10	バルバトス	Barbatos Goetia	personagem		貴様達はここで骸になるだけだ	You will merely become corpses right here.	
+mev12_040.scr:11	mev12_040.scr	11	バルバトス	Barbatos Goetia	personagem	CRLF x1	逃げられるとは思うなよ。\nさあ、来い！！	Do not think you can flee.\nNow, come at me!!	
+mev12_050.scr:0	mev12_050.scr	0	バルバトス	Barbatos Goetia	personagem	CRLF x1	ちょこざいな……。\nだが、今度は帰れぬぞ	Insolent fools...\nYet this time, you shall not return!	
+mev12_050.scr:1	mev12_050.scr	1	バルバトス	Barbatos Goetia	personagem		その身、ここで塵にしてくれるわ！！	I shall reduce your bodies to dust here!!	
+mev12_060.scr:0	mev12_060.scr	0	バルバトス	Barbatos Goetia	personagem		ぐぉぉぉぉ……ッ	Gwoooooh...!	
+mev12_060.scr:1	mev12_060.scr	1	しいな	Sheena Fujibayashi	personagem		し、仕留めた…！？	D-Did we finish him...?!	
+mev12_060.scr:2	mev12_060.scr	2	バルバトス	Barbatos Goetia	personagem		クク、ククク…	Heh, hehehe...	
+mev12_060.scr:3	mev12_060.scr	3	バルバトス	Barbatos Goetia	personagem		いいぞ…	Splendid...	
+mev12_060.scr:4	mev12_060.scr	4	バルバトス	Barbatos Goetia	personagem		いいぞ、いいぞ、いいぞ！！	Splendid, splendid, SPLENDID!!	
+mev12_060.scr:5	mev12_060.scr	5	バルバトス	Barbatos Goetia	personagem	CRLF x1	貴様だ！\n貴様が俺の渇きをいやす者！	It is you!\nYou are the one to quench my thirst!	
+mev12_060.scr:6	mev12_060.scr	6	バルバトス	Barbatos Goetia	personagem	CRLF x1	覚えたぞ、貴様の顔。\n次に相見える時は血祭りにあげてやる	I have memorized your face.\nNext time we meet, I'll slaughter you!	
+mev12_060.scr:7	mev12_060.scr	7	バルバトス	Barbatos Goetia	personagem		それまで首をよーく洗っておくんだな	Wash your neck well until then!	
+mev12_060.scr:8	mev12_060.scr	8	バルバトス	Barbatos Goetia	personagem		ククク…	Kukuku...	
+mev12_060.scr:9	mev12_060.scr	9	バルバトス	Barbatos Goetia	personagem		ハァーッハッハッハッハ！	Bwahahahaha!	
+mev12_060.scr:10	mev12_060.scr	10	カイル	Kyle Dunamis	personagem		とどめを、刺せなかった…	We couldn't... finish him off...	
+mev12_070.scr:0	mev12_070.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	でも、あいつを倒さないと\n父さんが！！	Still, if we don't defeat him,\nmy dad will be--!!	
+mev12_070.scr:1	mev12_070.scr	1	カイル	Kyle Dunamis	personagem	CRLF x1	あいつ、前に会った時より\n強くなってた…	He was stronger than the last time\nwe crossed paths...	
+mev12_070.scr:2	mev12_070.scr	2	カイル	Kyle Dunamis	personagem		きっとまた、次に会う時は…	Next time we meet, he'll surely be...	
+mev12_070.scr:3	mev12_070.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x2	全く、熱くなり過ぎだよ。\nあんなに見境なく突っ込んでたら、\n命がいくらあっても足りないね	Honestly, you got far too reckless.\nCharging in so blindly, no amount of lives\nwould be enough!	
+mev12_070.scr:4	mev12_070.scr	4	カイル	Kyle Dunamis	personagem		…！！	...!!	
+mev12_070.scr:5	mev12_070.scr	5	カイル	Kyle Dunamis	personagem	CRLF x1	ごめん。\nオレ、みんなの事を考えて無かった…	I'm sorry.\nI wasn't thinking of the rest of you...	
+mev12_070.scr:6	mev12_070.scr	6	カイル	Kyle Dunamis	personagem		巻き込んで、ごめん…	I'm sorry for dragging you into this...	
+mev12_070.scr:7	mev12_070.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x2	巻き込まれたって事は構わないさ。\nあんたの父親を守りたいって気持ちもわかるし、\nそれに協力はしてあげたいしね	I don't mind being dragged into it.\nI understand wanting to protect your dad,\nand I want to help you with that.	
+mev12_070.scr:8	mev12_070.scr	8	しいな	Sheena Fujibayashi	personagem		ただ、何でも闇雲に行くのはよしなって事さ	Just don't rush blindly into things.	
+mev12_070.scr:9	mev12_070.scr	9	カイル	Kyle Dunamis	personagem		う、うん…	Y-Yeah...	
+mev12_070.scr:10	mev12_070.scr	10	しいな	Sheena Fujibayashi	personagem		よし、じゃあこの話は終わりだ	Alright, that's enough of this.	
+mev12_070.scr:11	mev12_070.scr	11	しいな	Sheena Fujibayashi	personagem		さてと…	Now then...	
+mev12_070.scr:12	mev12_070.scr	12	(opcao do jogador)	(opcao do jogador)	escolha		無謀にも挑んだカイルを咎める	Scold Kyle for recklessly challenging him	
+mev12_070.scr:13	mev12_070.scr	13	(opcao do jogador)	(opcao do jogador)	escolha		溜息を吐く	Sigh	
+mev12_080.scr:0	mev12_080.scr	0	しいな	Sheena Fujibayashi	personagem	CRLF x2	ふぅ…、用があったのは\nあのバルバトスって奴じゃなくて\nこいつだったのにね	Phew... the one we had business with\nwasn't that Barbatos fellow,\nit was this thing here.	
+mev12_080.scr:1	mev12_080.scr	1	カイル	Kyle Dunamis	personagem		それが塩水晶？	Is that the Salt Crystal?	
+mev12_080.scr:2	mev12_080.scr	2	しいな	Sheena Fujibayashi	personagem	CRLF x1	そうさ。\nこれで依頼は達成	That's right.\nWith this, the request is fulfilled.	
+mev12_080.scr:3	mev12_080.scr	3	しいな	Sheena Fujibayashi	personagem		さあ、船に戻るよ	Come on, let's get back to the ship.	
+mev12_090.scr:0	mev12_090.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	ご苦労様。\n今回は大変だったね。\n恐い人に目を付けられちゃって…	Welcome back.\nIt was tough this time, wasn't it?\nCatching the eye of such a scary man...	
+mev12_090.scr:1	mev12_090.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	各国も大変な状況みたい。\nジルディアのキバが現れたせいで\nどこも大騒ぎよ	The nations seem in turmoil as well.\nDue to the Fang of Zirdia's emergence,\neverywhere is in utter uproar.	
+mev12_090.scr:2	mev12_090.scr	2	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	以前紛争が起きていた場所も、\n今は停戦となって、\n人々は結束し始めている様ですわ	Even places where conflict once raged\nhave entered ceasefires, and people\nseem to be uniting together.	
+mev12_090.scr:3	mev12_090.scr	3	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	あのキバの出現を目の当たりにする事で、\n争っている場合ではない、\nと気が付いてくれたのでしょう	Witnessing the emergence of that Fang,\nthey must have realized it is no time\nfor petty squabbling.	
+mev12_090.scr:4	mev12_090.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	ですが…、この様な危機を迎える事でしか、\n人々は手を取り合う事が出来ないので\nしょうか…？	Yet... is facing such a dire crisis\nthe only way people can bring themselves\nto join hands together...?	
+mev12_090.scr:5	mev12_090.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	そうね。\nでも、そんなに悲観的にならないで	Indeed.\nStill, please don't be so pessimistic.	
+mev12_090.scr:6	mev12_090.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	手を取り合える事を「知る」その一歩が\n大事なんだから	Learning that we can take each other's\nhands is the vital first step.	
+mev12_090.scr:7	mev12_090.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		そうですわね	That is true.	
+mev12_100.scr:0	mev12_100.scr	0	(narracao)	(narracao)	narracao		一方、その頃	Meanwhile, around that time...	
+mev12_100.scr:1	mev12_100.scr	1	ラザリス	Lazaris	personagem	CRLF x1	生き物のフリをしてるだけだ。\nまだ不完全で、まともに動く事も出来ないか	Merely pretending to be alive.\nStill incomplete, unable to even move...	
+mev12_100.scr:2	mev12_100.scr	2	ラザリス	Lazaris	personagem	CRLF x2	くっ…、\n僕の作りたかったのは\nこんなものじゃない	Kh...\nWhat I wanted to create\nwasn't something like this!	
+mev12_100.scr:3	mev12_100.scr	3	ラザリス	Lazaris	personagem		…………	......	
+mev12_100.scr:4	mev12_100.scr	4	ラザリス	Lazaris	personagem		…いや、不完全なのは僕も同じか	...No, I am just as incomplete, aren't I?	
+mev12_100.scr:5	mev12_100.scr	5	ラザリス	Lazaris	personagem	CRLF x2	ルミナシアの民から得た醜い身体…。\n僕にもっと力があれば、\nこんな姿は捨てられるのに…	A hideous body taken from Luminasia...\nIf only I possessed greater power,\nI could discard this form...	
+mev12_100.scr:6	mev12_100.scr	6	ラザリス	Lazaris	personagem	CRLF x2	ごめんよ。\n生まれてきてくれたんだよね。\nごめん…	I'm sorry.\nYou were born for me, weren't you?\nI'm sorry...	
+mev12_100.scr:7	mev12_100.scr	7	ラザリス	Lazaris	personagem	CRLF x1	生きよう。\n一緒に生きようね…	Let us live.\nLet us live together, alright...?	
+mev12_100.scr:8	mev12_100.scr	8	ラザリス	Lazaris	personagem	CRLF x2	やっぱり、世界樹を…。\n生命の場を手に入れるまでは\n世界を奪い尽くせないのか…	In the end, until I claim the World Tree\nand the Field of Life...\nI cannot rob this world completely...?	
+mev12_110.scr:0	mev12_110.scr	0	ウィル	Will Raynard	personagem	CRLF x1	アンジュ、封印次元を作る為の\n残り二つが判明した	Ange, the remaining two components\nto forge the Sealing Dimension are known.	
+mev12_110.scr:1	mev12_110.scr	1	アンジュ	Ange Serena	personagem		ホント？	Really?	
+mev12_110.scr:2	mev12_110.scr	2	ウィル	Will Raynard	personagem	CRLF x1	羽があって飛び回る実…、\nこれはツリガネトンボ草の事だ	A fruit with wings that flies around...\nThis refers to the Bell Dragonfly Herb.	
+mev12_110.scr:3	mev12_110.scr	3	ウィル	Will Raynard	personagem	CRLF x1	もう一つ、全身から汗を流すパンというのは、\n多孔菌の一種、ウズマキフスベというキノコだ	The sweating bread is a polypore fungus,\na mushroom called the Whirl Puffball.	
+mev12_110.scr:4	mev12_110.scr	4	シャーリィ	Shirley Fennes	personagem	CRLF x1	じゃあ、それらを採取しに行けば\nいいんですね	Then we just need to go\nand gather them, correct?	
+mev12_110.scr:5	mev12_110.scr	5	ウィル	Will Raynard	personagem		いや、それがそうは行かないんだ…	No, it won't be that simple...	
+mev12_110.scr:6	mev12_110.scr	6	アンジュ	Ange Serena	personagem		危険な場所へ行かなければならないの？	Must we go to a dangerous place?	
+mev12_110.scr:7	mev12_110.scr	7	ウィル	Will Raynard	personagem	CRLF x1	いや、その二つはもうこの世に\n存在しない	No, those two no longer exist\nin this world.	
+mev12_110.scr:8	mev12_110.scr	8	ウィル	Will Raynard	personagem		既に絶滅したものなんだ	They have already gone extinct.	
+mev12_110.scr:9	mev12_110.scr	9	シャーリィ	Shirley Fennes	personagem		絶滅？	Extinct?	
+mev12_110.scr:10	mev12_110.scr	10	シャーリィ	Shirley Fennes	personagem	CRLF x1	そんな…。\nそれじゃもう、手に入らないんですか…？	No way...\nThen can we never obtain them...?	
+mev12_110.scr:11	mev12_110.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	ウィルさん、その二つは\nどうやって調べたのですか？	Mr. Raynard, how did you manage\nto identify those two?	
+mev12_110.scr:12	mev12_110.scr	12	ウィル	Will Raynard	personagem		その事なんだが…	About that...	
+mev12_110.scr:13	mev12_110.scr	13	ウィル	Will Raynard	personagem	CRLF x1	実は、二つともカノンノが描いた風景の中に\nあってな	Actually, both of them appeared\nwithin landscapes Kanonno sketched.	
+mev12_110.scr:14	mev12_110.scr	14	ウィル	Will Raynard	personagem	CRLF x2	ジュディスがそれを見て、\nプレートで伝えられた情報と同じものだと\n教えてくれたわけだ	Judith saw them and told us\nthey matched the information inscribed\non the stone plate.	
+mev12_110.scr:15	mev12_110.scr	15	ウィル	Will Raynard	personagem	CRLF x1	それを元に調べた結果、この二つのものの\n正体がわかったのだが…	Investigating based on that,\nwe uncovered their true identities, but...	
+mev12_110.scr:16	mev12_110.scr	16	ウィル	Will Raynard	personagem	CRLF x1	○○。\nカノンノの所へ行ってくれるか？	○○.\nCould you go see Kanonno?	
+mev12_110.scr:17	mev12_110.scr	17	ウィル	Will Raynard	personagem		この事で、彼女も動揺してる様だ	She seems quite shaken by this.	
+mev12_110.scr:18	mev12_110.scr	18	ウィル	Will Raynard	personagem		カノンノの所へ行くのか？	You're going to see Kanonno?	
+mev12_110.scr:19	mev12_110.scr	19	ウィル	Will Raynard	personagem	CRLF x1	ああ、そうしてくれ。\n今回の件で、彼女も動揺している様だからな	Yes, please.\nShe seems shaken by this revelation.	
+mev12_110.scr:20	mev12_110.scr	20	アンジュ	Ange Serena	personagem	CRLF x1	そういえば、少しカノンノの\n様子がおかしかったわね…	Come to think of it, Kanonno seemed\na little unusual earlier...	
+mev12_110.scr:21	mev12_110.scr	21	アンジュ	Ange Serena	personagem	CRLF x2	○○。\nわたしからもお願い。\nカノンノの所へ行ってあげて	○○.\nPlease, I ask of you as well.\nGo see how Kanonno is doing.	
+mev12_110.scr:22	mev12_110.scr	22	(opcao do jogador)	(opcao do jogador)	escolha		カノンノの事を気にする	Worry about Kanonno	
+mev12_110.scr:23	mev12_110.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		カノンノの所へ行く	Go to see Kanonno	
+mev12_120.scr:0	mev12_120.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あ、○○…。\nあなただったんだ…	Ah, ○○...\nIt was you...	
+mev12_120.scr:1	mev12_120.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ん、ありがとう。\nちょっと、自分の絵の事で\n色々考えちゃって…	Mm, thank you.\nI was just thinking about lots of things\nregarding my paintings...	
+mev12_120.scr:2	mev12_120.scr	2	カノンノ	Kanonno Grassvalley	personagem		そうなの？	Is that so?	
+mev12_120.scr:3	mev12_120.scr	3	カノンノ	Kanonno Grassvalley	personagem		ふふ、嬉しいな	Fufu, that makes me happy.	
+mev12_120.scr:4	mev12_120.scr	4	カノンノ	Kanonno Grassvalley	personagem		ヴェラトローパの他にも、あったんだ	There was more besides Veratropa, too.	
+mev12_120.scr:5	mev12_120.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ジュディスさんが私の絵を見て、\nこれから探さなくちゃいけない二つのものが\n絵の中にあったって	Judith saw my paintings and told me\nthe two things we need to search for\nwere right there in the drawings.	
+mev12_120.scr:6	mev12_120.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	何で、私には知らない風景が\n見えてるんだろう。\n何の為に見えてるんだろう	Why am I able to see landscapes\nthat I know nothing about?\nAnd for what purpose can I see them?	
+mev12_120.scr:7	mev12_120.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	私って、一体何なのかな…って\nちょっと考えてた	I was just thinking to myself...\nwhat in the world am I?	
+mev12_120.scr:8	mev12_120.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	それよりも、ね。\nあなたも何だか\n思い詰めた様な顔をしてる	More importantly, though...\nYou also look troubled somehow,\nlike something's on your mind.	
+mev12_120.scr:9	mev12_120.scr	9	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	気になる事でもあるの？\n良かったら…、聞かせて欲しいな	Is there something bothering you?\nIf you'd like... please tell me.	
+mev12_120.scr:10	mev12_120.scr	10	カノンノ	Kanonno Grassvalley	personagem		ラザリスの事…？	About Lazaris...?	
+mev12_120.scr:11	mev12_120.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	…放っておけば朽ちるはずだった、\nラザリスの世界、ジルディア…。\nそれを私達の世界、ルミナシアが取り込んだ…	...Lazaris's world, Zirdia,\ndestined to rot if left alone...\nOur world, Luminasia, absorbed it...	
+mev12_120.scr:12	mev12_120.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	なぜ、世界樹が\nジルディアを取り込んだんだろう、って？	Why did the World Tree\nabsorb Zirdia, you ask?	
+mev12_120.scr:13	mev12_120.scr	13	カノンノ	Kanonno Grassvalley	personagem		そう…だね	Yeah... that's right.	
+mev12_120.scr:14	mev12_120.scr	14	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ルミナシアにとって、\n災厄となるかもしれないのに、世界樹は\nわざわざ取り込んで、封印したんだよね	Even though it might become a calamity\nfor Luminasia, the World Tree went out\nof its way to absorb and seal it.	
+mev12_120.scr:15	mev12_120.scr	15	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	その、世界樹の意志は…私にはわからない。\nでも…。\n世界樹には、何か考えがあったのかなぁ…	I don't understand the Tree's will...\nStill...\nDid the World Tree have something in mind?	
+mev12_120.scr:16	mev12_120.scr	16	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	うん。\n世界樹の本当の気持ち。\n私も知りたいな…	Yeah.\nThe World Tree's true feelings.\nI want to know them too...	
+mev12_120.scr:17	mev12_120.scr	17	カノンノ	Kanonno Grassvalley	personagem		ごめん…、何も力になれなくて…	I'm sorry... I couldn't be of any help...	
+mev12_120.scr:18	mev12_120.scr	18	カノンノ	Kanonno Grassvalley	personagem		…あの、ね	...U-Um...	
+mev12_120.scr:19	mev12_120.scr	19	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	その…、話を聞かせてもらっておきながら\n何にも力になれなかったけど。\n…その、何て言えばいいのかな	I asked to hear your thoughts,\nyet I couldn't help you at all, but...\n...Um, how should I put it?	
+mev12_120.scr:20	mev12_120.scr	20	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	一人で抱え込まないで。\nみんないるから。\n私も、みんなもいるから	Don't carry it all alone.\nEveryone is here for you.\nI am here, and everyone else is too.	
+mev12_120.scr:21	mev12_120.scr	21	カノンノ	Kanonno Grassvalley	personagem		……ね？	...Okay?	
+mev12_120.scr:22	mev12_120.scr	22	(opcao do jogador)	(opcao do jogador)	escolha		様子が気になった、と言う	Say you were concerned about her	
+mev12_120.scr:23	mev12_120.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		ただ、何となく来てみた、と言う	Say you just happened to drop by	
+mev12_120.scr:24	mev12_120.scr	24	(opcao do jogador)	(opcao do jogador)	escolha		話す	Tell her	
+mev12_120.scr:25	mev12_120.scr	25	(opcao do jogador)	(opcao do jogador)	escolha		言いにくそうに話す	Speak with hesitation	
+mev12_120.scr:26	mev12_120.scr	26	(opcao do jogador)	(opcao do jogador)	escolha		真相が知りたい、と言う	Say you want to know the truth	
+mev12_120.scr:27	mev12_120.scr	27	(opcao do jogador)	(opcao do jogador)	escolha		何も知らない事に落ち込む	Despondently say you know nothing	
+mev12_130.scr:0	mev12_130.scr	0	ジュディス	Judith	personagem	CRLF x1	そうだわ、○○。\nあなたに話があるの	Oh right, ○○.\nThere's something I wish to discuss.	
+mev12_130.scr:1	mev12_130.scr	1	ジュディス	Judith	personagem		甲板で待っているわね	I'll be waiting on the deck.	
+mev12_140.scr:0	mev12_140.scr	0	ジュディス	Judith	personagem	CRLF x1	話がしたかったの。\nあなたと	I wanted to talk.\nWith you.	
+mev12_140.scr:1	mev12_140.scr	1	ジュディス	Judith	personagem	CRLF x1	故郷とディセンダーの為に肉体を捨て、\n機械に宿った異世界の賢人達	Otherworld sages who dwelt in machines,\ncasting off flesh for their Descender...	
+mev12_140.scr:2	mev12_140.scr	2	ジュディス	Judith	personagem	CRLF x1	ニアタの欠片よ。\nあの時、持って帰ったの	It is a fragment of Niata.\nI brought it back with me back then.	
+mev12_140.scr:3	mev12_140.scr	3	ジュディス	Judith	personagem	CRLF x1	これにあった情報…、読んでいたのよ。\n聞きたい、かしら？	I was reading the data held within it...\nWould you like to hear?	
+mev12_140.scr:4	mev12_140.scr	4	ジュディス	Judith	personagem		じゃあ、あなたに話しておくわ	Well then, I shall tell you.	
+mev12_140.scr:5	mev12_140.scr	5	ジュディス	Judith	personagem	CRLF x1	それは、聞く意志があると\n判断してもいいのかしら	May I take that as a sign\nof your willingness to listen?	
+mev12_140.scr:6	mev12_140.scr	6	ジュディス	Judith	personagem	CRLF x1	どちらにしても、\nあなたは知っておいた方が良さそうだけど	Either way,\nyou really should know about this.	
+mev12_140.scr:7	mev12_140.scr	7	ジュディス	Judith	personagem	CRLF x1	欠片を読んでみたら、\nニアタの故郷のディセンダーの姿が見えたわ	Reading into the fragment, I caught\nsight of Niata's homeland Descender.	
+mev12_140.scr:8	mev12_140.scr	8	ジュディス	Judith	personagem	CRLF x1	そのディセンダーが、カノンノにそっくりなの。\n信じられなかったわ	That Descender looked just like Kanonno.\nI could hardly believe it.	
+mev12_140.scr:9	mev12_140.scr	9	ジュディス	Judith	personagem		名も…カノンノと言うらしいから	And her name... is also Kanonno, it seems.	
+mev12_140.scr:10	mev12_140.scr	10	ジュディス	Judith	personagem		でも、本当の事よ	Yet it is the truth.	
+mev12_140.scr:11	mev12_140.scr	11	ジュディス	Judith	personagem		私も最初は、読んだ情報を疑ったわ	I doubted what I read at first too.	
+mev12_140.scr:12	mev12_140.scr	12	ジュディス	Judith	personagem	CRLF x1	でも、何度読んでも同じだから、\n認めざるを得なかった	Yet no matter how often I read it,\nit was the same; I had to accept it.	
+mev12_140.scr:13	mev12_140.scr	13	ジュディス	Judith	personagem	CRLF x2	欠片からとても強く伝わってくる。\nパスカという異世界のディセンダー、\nカノンノを	It emanates strongly from the fragment.\nFeelings for the otherworld Descender,\nPasca Kanonno.	
+mev12_140.scr:14	mev12_140.scr	14	ジュディス	Judith	personagem	CRLF x1	共にずっと、\n故郷の世界を守り抜いていた固い絆	The unyielding bond they shared,\nprotecting their home world together.	
+mev12_140.scr:15	mev12_140.scr	15	ジュディス	Judith	personagem		ニアタは、ディセンダーを愛していたようよ	Niata truly loved that Descender.	
+mev12_140.scr:16	mev12_140.scr	16	ジュディス	Judith	personagem		孫の様に、娘の様に、ね	Like a grandchild, like a daughter.	
+mev12_140.scr:17	mev12_140.scr	17	ジュディス	Judith	personagem	CRLF x2	偶然なのかしらね。\n私達の仲間のカノンノが、彼のディセンダーと、\nとても似たヒト、そして同じ名前だったのは…	Is it sheer coincidence?\nThat our companion Kanonno resembles his\nDescender so, and shares her name...?	
+mev12_140.scr:18	mev12_140.scr	18	ジュディス	Judith	personagem	CRLF x2	彼、言っていたわね。\n「この世界は、故郷パスカの情報因子を\n　受け継いでいない」って	He did mention it before, didn't he?\n'This world has not inherited the\ninformational factors of Pasca.'	
+mev12_140.scr:19	mev12_140.scr	19	ジュディス	Judith	personagem	CRLF x1	でも、カノンノは存在するのよ。\nまるで世界の記憶が受け継がれていた様に、ね	Yet here Kanonno exists.\nAs though the world's memory lived on.	
+mev12_140.scr:20	mev12_140.scr	20	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	スケッチブックを忘れて、取りに来たの。\n見なかった？	I forgot my sketchbook and came back.\nHave you seen it?	
+mev12_140.scr:21	mev12_140.scr	21	ジュディス	Judith	personagem		さっき、ロックスが持って行ったわ	Rocks took it with him earlier.	
+mev12_140.scr:22	mev12_140.scr	22	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ロックスが…。\nあちゃあ…、また片付けなかったって\n怒られちゃうなぁ	Rocks did...?\nOh dear... he'll scold me again\nfor not putting it away.	
+mev12_140.scr:23	mev12_140.scr	23	ジュディス	Judith	personagem		欠片が…	The fragment is...	
+mev12_140.scr:24	mev12_140.scr	24	カノンノ	Kanonno Grassvalley	personagem		今のは、なぁに…？	What was that just now...?	
+mev12_140.scr:25	mev12_140.scr	25	ジュディス	Judith	personagem		…いいえ、何でもないわ	...No, it's nothing.	
+mev12_140.scr:26	mev12_140.scr	26	ジュディス	Judith	personagem		それじゃ、またね	Well then, see you later!	
+mev12_140.scr:27	mev12_140.scr	27	(opcao do jogador)	(opcao do jogador)	escolha		頷く	Nod	
+mev12_140.scr:28	mev12_140.scr	28	(opcao do jogador)	(opcao do jogador)	escolha		黙っている	Stay silent	
+mev12_140.scr:29	mev12_140.scr	29	(opcao do jogador)	(opcao do jogador)	escolha		驚愕する	Look on in shock	
+mev12_140.scr:30	mev12_140.scr	30	(opcao do jogador)	(opcao do jogador)	escolha		信じられない、と言う	Say you can't believe it	
+mev12_150.scr:0	mev12_150.scr	0	ロックス	Rocks	personagem		　　　　　　　	Waaaaugh!	
+mev12_150.scr:1	mev12_150.scr	1	アンジュ	Ange Serena	personagem		今のは、ロックスの声！？	Was that Rocks's voice?!	
+mev12_150.scr:2	mev12_150.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	○○。\n急いで食堂へ様子を見に行って！！	○○.\nHurry to the dining hall and check!!	
+mev12_160.scr:0	mev12_160.scr	0	ロックス	Rocks	personagem		あわわわわわわわ……	A-Wawawawawa......	
+mev12_160.scr:1	mev12_160.scr	1	ロックス	Rocks	personagem	CRLF x1	はっ…！？\nい、いらしてたんですか…	Huh...?!\nY-You were here...?	
+mev12_160.scr:2	mev12_160.scr	2	ロックス	Rocks	personagem	CRLF x1	え、ええっ…！\nぼ、僕はそんなに大きな声を！？	Wh-What...?!\nD-Did I scream that loudly?!	
+mev12_160.scr:3	mev12_160.scr	3	ロックス	Rocks	personagem		す、すみません…	I-I am so sorry...	
+mev12_160.scr:4	mev12_160.scr	4	ロックス	Rocks	personagem	CRLF x1	は、はい。\nすみません、取り乱してしまって…	Y-Yes.\nForgive me, I lost my composure...	
+mev12_160.scr:5	mev12_160.scr	5	ロックス	Rocks	personagem	CRLF x1	実は…、お嬢様のスケッチブックを片付けて\nここで絵を見ていたんです	Truth is... I was tidying Milady's\nsketchbook and looked at the drawings.	
+mev12_160.scr:6	mev12_160.scr	6	ロックス	Rocks	personagem		そのテーブルの上の絵ですが…	Regarding the drawing on that table...	
+mev12_160.scr:7	mev12_160.scr	7	ロックス	Rocks	personagem	CRLF x1	お嬢様は知らないはずなんです。\n旦那様と奥様のお顔は…	Milady should have no memory of them.\nThe faces of the Master and Mistress...	
+mev12_160.scr:8	mev12_160.scr	8	ロックス	Rocks	personagem		なのに、お嬢様は……	And yet, Milady has......	
+mev12_160.scr:9	mev12_160.scr	9	ロックス	Rocks	personagem	CRLF x1	まるで、今しがた見た様な正確さで\nお二人の姿を描いて…	Drawn their figures with such accuracy,\nas if seen just moments ago...	
+mev12_160.scr:10	mev12_160.scr	10	ロックス	Rocks	personagem		なぜ、お嬢様がこんな事を…	Why would Milady be able to do this...?	
+mev12_160.scr:11	mev12_160.scr	11	ロックス	Rocks	personagem	CRLF x1	風景の絵も、お嬢様の想像だと思っていました。\nお嬢様の豊かな才能だと、そう思いたかった…	I thought landscapes were her imagination.\nI wanted to believe it was her talent...	
+mev12_160.scr:12	mev12_160.scr	12	ロックス	Rocks	personagem	CRLF x2	ですが、ヴェラトローパの絵や、既に絶滅\nしている植物の絵を描かれていた、と聞いて\n…確信したんです	Yet hearing she sketched Veratropa and\nplants that had already gone extinct...\n...I became certain.	
+mev12_160.scr:13	mev12_160.scr	13	ロックス	Rocks	personagem	CRLF x1	お嬢様は…、何かを背負って生きている。\n僕には計り知れない何かを	Milady lives carrying a heavy burden...\nSomething far beyond my comprehension.	
+mev12_160.scr:14	mev12_160.scr	14	ロックス	Rocks	personagem		お嬢様…	Milady...	
+mev12_160.scr:15	mev12_160.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		悲鳴の原因を聞く	Ask what caused the scream	
+mev12_160.scr:16	mev12_160.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		大丈夫かと声をかける	Ask if he is all right	
+mev12_170.scr:0	mev12_170.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	そう、そんな事があったの…。\nだから、ロックスは悲鳴をあげたのね	I see, so that's what happened...\nThat explains why Rocks screamed.	
+mev12_170.scr:1	mev12_170.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	カノンノだけに見える風景、\n彼女にしかないドクメント…	Landscapes only Kanonno can see,\na Document unique to her alone...	
+mev12_170.scr:2	mev12_170.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	カノンノには、\n何か隠された秘密があるのかしらね	Could Kanonno have some secret\nhidden within her, I wonder?	
+mev12_170.scr:3	mev12_170.scr	3	ジェイド	Jade Curtiss	personagem	CRLF x1	お話の途中、すみません。\n一つ、依頼があるのですが	Excuse me for interrupting,\nbut we have received a request.	
+mev12_170.scr:4	mev12_170.scr	4	アンジュ	Ange Serena	personagem		はい、何でしょうか	Yes, what might it be?	
+mev12_170.scr:5	mev12_170.scr	5	ジェイド	Jade Curtiss	personagem	CRLF x1	ジルディアのキバについて、\n調査をしてみた方が良いと思いまして	I think it would be wise to launch\nan investigation into the Fang of Zirdia.	
+mev12_170.scr:6	mev12_170.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x2	既に各国のギルドに\n依頼が行っている様なのですが、\nどこも断っているそうなのです	Requests seem sent to guilds everywhere,\nyet it appears all of them\nhave turned it down.	
+mev12_170.scr:7	mev12_170.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	あのキバについては\n調べておく必要があるなあ	We do need to investigate\nthat Fang, certainly.	
+mev12_170.scr:8	mev12_170.scr	8	アンジュ	Ange Serena	personagem		よし！　それは私達がやりましょう！	All right! We shall take it on!	
+mev12_170.scr:9	mev12_170.scr	9	アンジュ	Ange Serena	personagem		そうねぇ、誰が行ってくれるかしら…	Now then, who will go for us...?	

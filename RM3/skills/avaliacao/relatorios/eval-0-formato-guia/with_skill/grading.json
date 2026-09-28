@@ -1,0 +1,55 @@
+{
+  "expectations": [
+    {
+      "text": "Identifica o tamanho do registro (36 bytes) e o offset onde a tabela comeca",
+      "passed": true,
+      "evidence": "relatorio.md secao 'Layout final (verificado)': '0x0020 count x registro de 36 bytes'; guia2.py define HDR=0x20, REC=36. Verificado por invariante independente na tabela 'Como cada afirmacao foi verificada' linha 1: '0x20 + 211*36 = 0x1dcc, bate exatamente com o offset onde o pool de ordem comeca' (script verifica_guia.py, checagem 1)."
+    },
+    {
+      "text": "Determina que os offsets das strings sao ABSOLUTOS no arquivo, nao relativos",
+      "passed": true,
+      "evidence": "relatorio.md: '+28 u32 off_titulo offset ABSOLUTO do titulo, a partir do inicio da entrada' e '+32 u32 off_corpo offset ABSOLUTO do corpo'."
+    },
+    {
+      "text": "Caracteriza a regiao nao identificada entre o fim da tabela e o pool de strings",
+      "passed": true,
+      "evidence": "Nao so caracteriza como resolve por completo: 'pool de ordem: (count-1) x u32 - permutacao exata de 1..count-1; os filhos do no X sao exatamente ordem[filho_ini:filho_ini+filho_num]', com verificacao formal (checagens 3 e 4 da tabela: cobertura 0 furos/0 sobreposicoes, permutacao True)."
+    },
+    {
+      "text": "Testa se algum campo do registro e' cache derivado do conteudo, em vez de so' marcar como nao identificado",
+      "passed": true,
+      "evidence": "verifica_guia.py linhas 74-93 testa A,B,C,D contra len(titulo), len(corpo), linhas(corpo) etc. Resultado na tabela: 'B = cache do numero de linhas do corpo ... 211/211 batem - identificado com confianca total'; A/C/D testados e descartados como coincidencia (maior taxa 44/211=21%)."
+    },
+    {
+      "text": "Verifica round-trip byte-perfeito contra a entrada v2065 real da ISO",
+      "passed": true,
+      "evidence": "Tabela de verificacao, item 8: 'Round-trip byte-perfeito no arquivo real: build(parse(dados)) == dados -> True - 55296 bytes identicos aos 55296 lidos da ISO'. verifica_guia.py linha 44-45 imprime 'ROUND-TRIP byte-perfeito: %s'."
+    },
+    {
+      "text": "Entrega um build() que aceita texto de tamanho diferente, ou justifica por que nao entregar",
+      "passed": true,
+      "evidence": "guia2.py define build() e build_para_span(); teste_reinsercao.py troca titulo/corpo do registro 5 por texto MAIOR e de quebras de linha diferentes, reconstroi com build_para_span() e reparsa com strict=True com sucesso (checagem 10 da tabela)."
+    },
+    {
+      "text": "Quantifica a folga disponivel sem tocar o indice do container",
+      "passed": true,
+      "evidence": "relatorio.md: 'a entrada v2065 tem hoje 1816 bytes de folga (55296 reservados - 53480 de conteudo)'; verifica_guia.py imprime 'conteudo atual: %d B; span reservado pelo indice: %d B; folga = %d B'."
+    },
+    {
+      "text": "Declara explicitamente o que ficou nao verificado",
+      "passed": true,
+      "evidence": "Secao dedicada '## O que ficou [nao verificado]' lista 4 itens: semantica de A/C/D, aceitacao pelo jogo em execucao, se C/D sao lidos pelo motor, e os 7 u32 do cabecalho em outras instancias (so existe uma instancia do formato)."
+    },
+    {
+      "text": "Distingue parser provado de aceitacao pelo jogo em execucao",
+      "passed": true,
+      "evidence": "Secao 'Veredito', item 4 'Ressalva - so o parser foi provado, nao o jogo': 'Round-trip byte-perfeito e reparse estrito provam que a biblioteca nao perde informacao... Nao executamos o arquivo modificado num emulador ou no PSP real'."
+    }
+  ],
+  "summary": {
+    "passed": 9,
+    "failed": 0,
+    "total": 9,
+    "pass_rate": 1.0
+  }
+}

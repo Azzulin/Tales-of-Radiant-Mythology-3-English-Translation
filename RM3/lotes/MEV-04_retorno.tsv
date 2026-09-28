@@ -1,0 +1,160 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev04_010.scr:0	mev04_010.scr	0	アンジュ	Ange Serena	personagem		今回の仕事は護衛よ	Your assignment this time is an escort.	
+mev04_010.scr:1	mev04_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	モラード村のジョアンさんを\nブラウニー坑道の奥へ\n連れて行ってもらいたいの	I'd like you to escort Joan\nof Morado Village\ndeep into Brownie Mine.	
+mev04_010.scr:2	mev04_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	詳しい話は、\n現地でジョアンさんに聞いてね	As for the details, you can\nask Joan once you're there.	
+mev04_010.scr:3	mev04_010.scr	3	アンジュ	Ange Serena	personagem		この仕事の同行者は、ファラとマルタ	Farah and Marta will be going with you.	
+mev04_010.scr:4	mev04_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	それじゃあ、ジョアンさんに\n怪我をさせてはダメよ？	Now then, make sure you keep Joan\nsafe from harm, alright?	
+mev04_010.scr:5	mev04_010.scr	5	アンジュ	Ange Serena	personagem		行ってらっしゃい！	Have a safe trip!	
+mev04_020.scr:0	mev04_020.scr	0	マルタ	Marta Lualdi	personagem	CRLF x2	ジョアンさん、大丈夫ですか？\n歩くのも辛そうなのに、\nそんな無理をしてまで行くなんて	Are you alright, Joan? You look\nlike it hurts just to walk... Why push\nyourself so hard to make this trip?	
+mev04_020.scr:1	mev04_020.scr	1	ジョアン	Joan	personagem	CRLF x2	はぁ…、はぁ…、これが…\n私にとっての…最後のチャンスなんだ。\n生き延びる為の…	*pant*... *pant*... This is...\nmy last chance to survive...\nMy only hope to go on living...	
+mev04_020.scr:2	mev04_020.scr	2	ファラ	Farah Oersted	personagem		生き延びる為のって…	To survive...?	
+mev04_020.scr:3	mev04_020.scr	3	ジョアン	Joan	personagem	CRLF x1	私は、もう…長くないんだ。\n医者も見離した病気でね…	I don't have much time left...\nEven doctors gave up on my illness.	
+mev04_020.scr:4	mev04_020.scr	4	ジョアン	Joan	personagem		ゴホッ、ゴホッ…	*cough* *cough*...	
+mev04_020.scr:5	mev04_020.scr	5	ジョアン	Joan	personagem	CRLF x1	だけど、この奥にいるという\n病気を治してくれる存在に会えれば…	But if I can meet the being in the depths\nsaid to cure all disease...	
+mev04_020.scr:6	mev04_020.scr	6	マルタ	Marta Lualdi	personagem	CRLF x1	病気を治してくれる存在なんて、\n本当にいるのかなあ	A being that can heal illnesses...\nCould something like that really exist?	
+mev04_020.scr:7	mev04_020.scr	7	ファラ	Farah Oersted	personagem		それは行ってみないとわからないよ	We won't know until we go and look.	
+mev04_020.scr:8	mev04_020.scr	8	ファラ	Farah Oersted	personagem	CRLF x1	ジョアンさん、そこまでしっかり護衛するから\n頑張りましょう！	We'll escort you safely all the way,\nJoan, so let's do our best!	
+mev04_020.scr:9	mev04_020.scr	9	ファラ	Farah Oersted	personagem		うん、イケる、イケる！	Yeah, we can do this, we can do it!	
+mev04_020.scr:10	mev04_020.scr	10	ジョアン	Joan	personagem		はい、お願いします…	Yes... Please help me...	
+mev04_025.scr:0	mev04_025.scr	0	マルタ	Marta Lualdi	personagem	CRLF x1	ジョアンさん。\nこの先、行き止まりになってますよ…	Joan...\nIt's a dead end up ahead...	
+mev04_025.scr:1	mev04_025.scr	1	ジョアン	Joan	personagem	CRLF x1	はぁ…、はぁ…。\nこっちで、構わない…	*pant*... *pant*...\nThis way is fine...	
+mev04_025.scr:2	mev04_025.scr	2	ジョアン	Joan	personagem	CRLF x1	ごふっ…、ここの鍵を…\n持っているんでね…	*wheeze*... I have the key...\nto this place...	
+mev04_025.scr:3	mev04_025.scr	3	ジョアン	Joan	personagem	CRLF x1	ゴホゴホッ…。\n目的地は…、もうすぐだ	*cough* *hack*...\nOur destination... is just ahead...	
+mev04_030.scr:0	mev04_030.scr	0	マルタ	Marta Lualdi	personagem	CRLF x2	あの、ジョアンさん。\nその病気を治す存在って、\nどうやって知ったんですか？	Um, Joan?\nHow did you find out about this being\nthat can cure illnesses?	
+mev04_030.scr:1	mev04_030.scr	1	ジョアン	Joan	personagem	CRLF x2	ゴフッ…、故郷のモラード村に、私と同じ\n病気に…ゴホッ…なったミゲルという男が\nいてね…	*wheeze*... In my home of Morado Village,\na man named Miguel caught the same...\n*cough*... illness as me...	
+mev04_030.scr:2	mev04_030.scr	2	ジョアン	Joan	personagem	CRLF x2	彼はいい医者に見てもらおうと、\nこの坑道を通って…ゴホゴホッ。\n…大きな街を目指していたんだ	Hoping to be seen by a good doctor,\nhe passed through this mine... *cough*...\nheading for a larger city...	
+mev04_030.scr:3	mev04_030.scr	3	ジョアン	Joan	personagem	CRLF x1	けれども、道中で発作が始まり、\nどうにも身動きが取れなくなって、	Yet along the way, an attack struck him,\nand he couldn't move at all...	
+mev04_030.scr:4	mev04_030.scr	4	ジョアン	Joan	personagem		死を覚悟…ゴホゴホッ…したらしい	He braced... *cough* *hack*... for death.	
+mev04_030.scr:5	mev04_030.scr	5	ジョアン	Joan	personagem	CRLF x1	そして、ここで死ぬのかと目をつぶり、\nもっと生きたいと思っていたら	He closed his eyes, thinking he'd die,\nwishing he could just live longer...	
+mev04_030.scr:6	mev04_030.scr	6	ジョアン	Joan	personagem	CRLF x1	ゴホッ、ゴホッ…、\nどこからともなく…、赤い煙が現れたそうだ	*cough* *cough*...\nOut of nowhere... red smoke appeared.	
+mev04_030.scr:7	mev04_030.scr	7	マルタ	Marta Lualdi	personagem		赤い煙…？	Red smoke...?	
+mev04_030.scr:8	mev04_030.scr	8	ジョアン	Joan	personagem	CRLF x1	赤い煙は周囲を包み、ミゲルにはそれが\nあの世からの迎えだと思ったそうだ	The red smoke enveloped him, and Miguel\nthought death had come to take him.	
+mev04_030.scr:9	mev04_030.scr	9	ジョアン	Joan	personagem	CRLF x2	それから彼は\n「死にたくない、もっと生きたい」。\nゴホッ…そう、強く願った	Then, he thought...\n'I don't want to die! I want to live!'\n*cough*... He prayed so fervently...	
+mev04_030.scr:10	mev04_030.scr	10	ジョアン	Joan	personagem	CRLF x1	すると、次に気が付いた時は赤い煙はなく、\nすっかり病気は治っていたらしい…	When he came to, the red smoke was gone,\nand his illness was completely cured...	
+mev04_030.scr:11	mev04_030.scr	11	ファラ	Farah Oersted	personagem		それが病気を治す存在なんだね	So that's the being that heals people.	
+mev04_030.scr:12	mev04_030.scr	12	ファラ	Farah Oersted	personagem	CRLF x1	実際に体験した人がいたんだ。\n不思議な話…	Someone actually experienced that, huh?\nWhat a mysterious tale...	
+mev04_030.scr:13	mev04_030.scr	13	マルタ	Marta Lualdi	personagem		何だろう、精霊みたいなものかな？	I wonder what it is. Like a spirit?	
+mev04_030.scr:14	mev04_030.scr	14	ジョアン	Joan	personagem		私にもわからないよ	I don't know either.	
+mev04_030.scr:15	mev04_030.scr	15	ジョアン	Joan	personagem	CRLF x1	けれども、私ももっと長生きがしたい。\nその存在に会いたいんだ	Even so, I want to live longer, too.\nI want to meet this being.	
+mev04_030.scr:16	mev04_030.scr	16	ジョアン	Joan	personagem		本当に、わらにもすがる思いなんだよ…	I'm truly grasping at straws here...	
+mev04_030.scr:17	mev04_030.scr	17	ジョアン	Joan	personagem		ゴホッ、ゴホゴホッ…	*cough*, *hack* *hack*...	
+mev04_040.scr:0	mev04_040.scr	0	ファラ	Farah Oersted	personagem	CRLF x1	目的地はここみたいだけど、\n魔物がいるよ	Looks like this is the place,\nbut there are monsters here!	
+mev04_040.scr:1	mev04_040.scr	1	マルタ	Marta Lualdi	personagem	CRLF x1	ちょっと大変そうな相手だけど、\n戦うしかないね！	They look pretty tough, but\nwe have no choice but to fight!	
+mev04_040.scr:2	mev04_040.scr	2	ジョアン	Joan	personagem	CRLF x2	はぁ…、はぁ…。\nお、お願いします！\nアドリビトムの皆さん…	*pant*... *pant*...\nP-Please protect me,\nmembers of Ad Libitum...!	
+mev04_040.scr:3	mev04_040.scr	3	ファラ	Farah Oersted	personagem		行こう、○○！	Let's go, ○○!	
+mev04_050.scr:0	mev04_050.scr	0	マルタ	Marta Lualdi	personagem		今度こそ、負けないんだから！	This time, I'm definitely not losing!	
+mev04_050.scr:1	mev04_050.scr	1	ファラ	Farah Oersted	personagem	CRLF x1	よっし！\n行くよ、○○！	Alright!\nLet's do this, ○○!	
+mev04_060.scr:0	mev04_060.scr	0	ファラ	Farah Oersted	personagem		ジョアンさん、もうここは安全ですよ	Joan, it's safe now.	
+mev04_060.scr:1	mev04_060.scr	1	ジョアン	Joan	personagem		はぁ…、はぁ…、ありがとうございます	*pant*... *pant*... Thank you so much.	
+mev04_060.scr:2	mev04_060.scr	2	ジョアン	Joan	personagem	CRLF x2	やはり、一人で来るのは無理だった\nみたいですね…良かった…。\nゴホゴホッ！	I never could have made it here alone...\nI'm so glad you're here...\n*hack* *cough*!	
+mev04_060.scr:3	mev04_060.scr	3	マルタ	Marta Lualdi	personagem	CRLF x1	でも、病気を治す存在なんて、\nどこにいるの？	Still, where is this being\nthat heals illnesses?	
+mev04_060.scr:4	mev04_060.scr	4	ジョアン	Joan	personagem		………	.........	
+mev04_060.scr:5	mev04_060.scr	5	ジョアン	Joan	personagem	CRLF x2	ミゲルの病気を治してくれた方、\nどこにいるんですか？\n私もお願いに参りました	You who cured Miguel's illness,\nwhere are you?\nI have come to beg your aid as well!	
+mev04_060.scr:6	mev04_060.scr	6	ジョアン	Joan	personagem	CRLF x2	ゴホッ…ゴホッ。\nどうか…、私の病気を…、\n治して下さい！！	*cough*... *cough*...\nPlease... I beg you...\nHeal my illness!!	
+mev04_060.scr:7	mev04_060.scr	7	ジョアン	Joan	personagem		………………………………！？	........................!?	
+mev04_060.scr:8	mev04_060.scr	8	ジョアン	Joan	personagem	CRLF x2	息が…、苦しくない…？\n治ったんだ、私の病気が！！\n奇跡だ！	My breathing... isn't painful...?\nI'm cured! My illness is gone!!\nIt's a miracle!	
+mev04_060.scr:9	mev04_060.scr	9	ジョアン	Joan	personagem	CRLF x1	あんなに私を苦しめていたセキも。\n身体の節々の痛みも無い	That dreadful cough that tormented me...\nThe ache in every joint... All gone!	
+mev04_060.scr:10	mev04_060.scr	10	ジョアン	Joan	personagem		本当に治ったんだ！！	I'm truly cured!!	
+mev04_060.scr:11	mev04_060.scr	11	ファラ	Farah Oersted	personagem	CRLF x2	ねえ、○○。\n気にならなかった？\nコクヨウ玉虫を包んだ赤い煙の事…	Say, ○○.\nDid you notice that red smoke\nthat enveloped the Obsidian Jewel Beetle?	
+mev04_060.scr:12	mev04_060.scr	12	ファラ	Farah Oersted	personagem	CRLF x1	わたし…、\n今のを見て、思い出したんだ	Seeing that...\nit just reminded me of something.	
+mev04_060.scr:13	mev04_060.scr	13	ファラ	Farah Oersted	personagem	CRLF x1	あの、ジョアンさん。\n本当に大丈夫なんですか？	Um, Joan?\nAre you really sure you're alright?	
+mev04_060.scr:14	mev04_060.scr	14	ジョアン	Joan	personagem		いやぁ？　大丈夫だよ	Hm? Of course I am!	
+mev04_060.scr:15	mev04_060.scr	15	ジョアン	Joan	personagem	CRLF x2	ああ、とてもすがすがしい気分だ。\n健康とは、こんなにも素晴らしいもの\nだったのか！	Ah, I feel so refreshed!\nTo think good health was such\na wonderful thing!	
+mev04_060.scr:16	mev04_060.scr	16	ジョアン	Joan	personagem	CRLF x2	さあ、ここを出よう。\n早く帰って、みんなの為に\nバリバリ働くぞ！	Come, let's head out of here.\nI'll rush back and work my hardest\nfor everyone!	
+mev04_060.scr:17	mev04_060.scr	17	ファラ	Farah Oersted	personagem		大丈夫かなぁ…	I wonder if he's really okay...	
+mev04_060.scr:18	mev04_060.scr	18	マルタ	Marta Lualdi	personagem	CRLF x2	うん。\n何か、こっちが\nすっきりしない気分だね…	Yeah...\nI can't help feeling\na little uneasy about this...	
+mev04_070.scr:0	mev04_070.scr	0	ファラ	Farah Oersted	personagem	CRLF x1	結果的に病気は治ってたみたいだけど。\nジョアンさん、本当に大丈夫かな	His illness seemed to be cured, but...\nis Joan really going to be alright?	
+mev04_070.scr:1	mev04_070.scr	1	マルタ	Marta Lualdi	personagem	CRLF x1	赤い煙が、生物変化の原因…かも\nしれないんでしょ？	The red smoke could be what caused\nthe creature mutations... right?	
+mev04_070.scr:2	mev04_070.scr	2	ウィル	Will Raynard	personagem	CRLF x2	まだ、確定ではない。\nキールが街で聞いた話、\nオレ達がオルタータ火山で見た赤い煙…	Nothing is certain yet.\nWhat Keele heard in town, and the red\nsmoke we saw at Alterata Volcano...	
+mev04_070.scr:3	mev04_070.scr	3	ウィル	Will Raynard	personagem	CRLF x2	はっきりわかっているのは、赤い煙と\n生物変化という現象が「実在した」という\n事までだ	All we know for certain is that both\nthe red smoke and the creature mutations\nactually happened.	
+mev04_070.scr:4	mev04_070.scr	4	ウィル	Will Raynard	personagem	CRLF x1	この二つの現象の因果関係は、\nまだ確認していないからな	We have yet to confirm any causal link\nbetween those two phenomena.	
+mev04_070.scr:5	mev04_070.scr	5	ウィル	Will Raynard	personagem	CRLF x2	だが、赤い煙…。\nやはり、単なるガスなどの物質とは\n考えにくい	Still, that red smoke...\nIt's hard to believe it's merely\nsome ordinary matter like gas.	
+mev04_070.scr:6	mev04_070.scr	6	ウィル	Will Raynard	personagem		あれは、超常的な何かかもしれない	It might be something supernatural.	
+mev04_070.scr:7	mev04_070.scr	7	ウィル	Will Raynard	personagem	CRLF x2	自然界のものにも、科学的に作り出した\nものにも、あんな特性を持った物質は\nないからな	Nothing in nature or synthetic science\ndisplays properties quite like that,\nafter all.	
+mev04_070.scr:8	mev04_070.scr	8	アンジュ	Ange Serena	personagem		そうね…、わからない事はまだ多いなぁ	Indeed... There's so much left unknown.	
+mev04_070.scr:9	mev04_070.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	赤い煙が危険なのかどうかすらわからないし、\nもうこれに関する依頼は受けられないかな…	We don't know if that red smoke is safe,\nso we can't take requests tied to it...	
+mev04_070.scr:10	mev04_070.scr	10	マルタ	Marta Lualdi	personagem		何かあったの？	Did something happen?	
+mev04_070.scr:11	mev04_070.scr	11	アンジュ	Ange Serena	personagem	CRLF x2	護衛の依頼が殺到しているのよ。\n例の「病気を治す存在」の元へ連れて行って\n欲しいって	We've been flooded with escort requests.\nPeople want us to take them to this being\nthat supposedly cures illnesses.	
+mev04_070.scr:12	mev04_070.scr	12	アンジュ	Ange Serena	personagem		ずいぶん、噂が広まってるみたい	The rumors seem to have spread quite far.	
+mev04_070.scr:13	mev04_070.scr	13	アンジュ	Ange Serena	personagem	CRLF x2	仕事が増えるのは嬉しいけれど、\nあんな得体のしれないものに引き合わせて、\n依頼者とトラブルになったら大変でしょ	I'm glad to have more work, but...\nintroducing clients to an unknown entity\ncould easily cause trouble for us.	
+mev04_070.scr:14	mev04_070.scr	14	ウィル	Will Raynard	personagem	CRLF x1	ああ、むしろ今後は接触させない様に\nしなければならないな	Right. Moving forward, we should keep\npeople from coming into contact with it.	
+mev04_070.scr:15	mev04_070.scr	15	アンジュ	Ange Serena	personagem	CRLF x2	そうね。\nこれから危ない仕事が増えそうだし、\n…もっと人を増やさないと駄目かも	Indeed.\nDangerous jobs will likely increase now,\nso we may need to bring in more people.	
+mev04_070.scr:16	mev04_070.scr	16	アンジュ	Ange Serena	personagem		アテがあるから、手紙を出してみましょう	I have an idea, so I'll send a letter.	
+mev04_070.scr:17	mev04_070.scr	17	アンジュ	Ange Serena	personagem	CRLF x1	それじゃ、今回はお疲れ様。\nまたお願いね、○○	Well then, thank you for your hard work.\nI'll be counting on you next time, ○○.	
+mev04_080.scr:0	mev04_080.scr	0	スパーダ	Spada Belforma	personagem		よう、来たぜアンジュ	Yo, Ange! I made it.	
+mev04_080.scr:1	mev04_080.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	いらっしゃい、スパーダ君。\n旅先まで手紙が届いて、良かったぁ	Welcome, Spada!\nI'm so glad my letter reached you!	
+mev04_080.scr:2	mev04_080.scr	2	スパーダ	Spada Belforma	personagem	CRLF x1	なーんか、ギルド始めたって書いてあって\nビックリしたぜ	Caught me off guard reading you started\na guild of your own, though!	
+mev04_080.scr:3	mev04_080.scr	3	スパーダ	Spada Belforma	personagem		ルカとイリアもいるんだろ？	Ruca and Iria are here too, right?	
+mev04_080.scr:4	mev04_080.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	ええ、二人とも待ってるよ。\nすぐ部屋に案内するね	Yes, both of them are waiting.\nI'll show you to their room right away.	
+mev04_080.scr:5	mev04_080.scr	5	アンジュ	Ange Serena	personagem		リカルドさんは一緒じゃないの？	Isn't Ricardo with you?	
+mev04_080.scr:6	mev04_080.scr	6	スパーダ	Spada Belforma	personagem	CRLF x1	ちょっくら雇われて戦場へ行ったぜ。\n一仕事終わったら、連絡してくるんじゃね？	Got hired for a battlefield gig.\nHe'll get in touch once the job's done.	
+mev04_080.scr:7	mev04_080.scr	7	イリア	Iria Animi	personagem	CRLF x1	うおっと、スパーダじゃん。\n何しに来たワケ？	Whoa, if it isn't Spada!\nWhat brings you here?	
+mev04_080.scr:8	mev04_080.scr	8	イリア	Iria Animi	personagem		リカルドと旅してたんじゃないの？	Weren't you traveling with Ricardo?	
+mev04_080.scr:9	mev04_080.scr	9	スパーダ	Spada Belforma	personagem	CRLF x1	何しにって、アンジュが手伝いに\n来いっつったから、来たんだよ	What d'you mean? Ange told me to come\nlend a hand, so here I am.	
+mev04_080.scr:10	mev04_080.scr	10	スパーダ	Spada Belforma	personagem		旅も出来るし、面白そうだしな	Plus I get to travel, and it sounded fun.	
+mev04_080.scr:11	mev04_080.scr	11	イリア	Iria Animi	personagem	CRLF x1	んじゃ、ルカちゃまと\nあたしの部屋まで案内してやるか	Well then, guess I'll take you\nto little Ruca's and my room.	
+mev04_080.scr:12	mev04_080.scr	12	スパーダ	Spada Belforma	personagem	CRLF x2	おお、ルカちゃまな。\n久しぶりにイジってやるか。\nグヘヘ…	Oh, little Ruca, huh?\nTime to mess with him after so long.\nHehehe...	
+mev04_080.scr:13	mev04_080.scr	13	イリア	Iria Animi	personagem	CRLF x1	久しぶりだからって、\nあんまりやり過ぎないでよ	Just 'cause it's been a while,\ndon't take it too far, got it?	
+mev04_080.scr:14	mev04_080.scr	14	スパーダ	Spada Belforma	personagem		あー、シメのいじりは譲れってか？	Ah, savin' the final jab for yourself?	
+mev04_080.scr:15	mev04_080.scr	15	イリア	Iria Animi	personagem	CRLF x1	よくわかってんじゃん。\nギヒヒヒヒヒ…	Look who gets it.\nGyahihihihi...	
+mev04_080.scr:16	mev04_080.scr	16	アンジュ	Ange Serena	personagem	CRLF x2	○○、\n彼らにとっては、いつもの事だから\n気にしないで	○○,\nthat's just business as usual for them,\nso pay it no mind.	
+mev04_080.scr:17	mev04_080.scr	17	アンジュ	Ange Serena	personagem	CRLF x1	基本、行き過ぎない程度までは\nわたしもスルーしてるし	As long as it doesn't go overboard,\nI usually let it slide, too.	
+mev04_080.scr:18	mev04_080.scr	18	アンジュ	Ange Serena	personagem	CRLF x1	そうそう、あなたにも彼を紹介するから\n部屋へいらっしゃい	Oh right! I'll introduce him to you,\nso come along to the room.	
+mev04_090.scr:0	mev04_090.scr	0	スパーダ	Spada Belforma	personagem		あン、誰だァコイツ？	Huh? Who's this?	
+mev04_090.scr:1	mev04_090.scr	1	ルカ	Ruca Milda	personagem	CRLF x1	ちょっ、スパーダったらもう！\nこのギルドの仲間だよ	Come on, Spada!\nThey're our guildmate!	
+mev04_090.scr:2	mev04_090.scr	2	スパーダ	Spada Belforma	personagem	CRLF x2	おー、そうか。\nってか、ビビらすつもりは\nさらさら無かったんだけどな	Oh, gotcha.\nDidn't mean to scare 'em or nothin',\nfor the record.	
+mev04_090.scr:3	mev04_090.scr	3	ルカ	Ruca Milda	personagem	CRLF x1	君は、誰に対してもそうだけど\n中には恐がる人もいるし…	You act like that with everyone, but\nsome people really get scared...	
+mev04_090.scr:4	mev04_090.scr	4	スパーダ	Spada Belforma	personagem	CRLF x1	ルカとかな、ヒャハハハ！\n初めて会った時のお前、そうだったよな	Like you, right? Hyahaha!\nYou were just like that when we met!	
+mev04_090.scr:5	mev04_090.scr	5	スパーダ	Spada Belforma	personagem	CRLF x1	オレはスパーダ。\nスパーダ・ベルフォルマ	I'm Spada.\nSpada Belforma.	
+mev04_090.scr:6	mev04_090.scr	6	スパーダ	Spada Belforma	personagem		こいつらのダチだ、よろしくな	Pal of these guys. Nice to meet ya.	
+mev04_090.scr:7	mev04_090.scr	7	アンジュ	Ange Serena	personagem	CRLF x2	ところで、スパーダ君。\n手紙にも書いておいたけど、\n情報は仕入れてきてくれた？	By the way, Spada.\nLike I wrote in my letter,\ndid you gather any information?	
+mev04_090.scr:8	mev04_090.scr	8	スパーダ	Spada Belforma	personagem	CRLF x1	あー、赤い煙ってヤツかぁ？\nアレ、割と知れ渡っているみたいだな	Ah, that red smoke stuff?\nWord of that seems pretty widespread.	
+mev04_090.scr:9	mev04_090.scr	9	スパーダ	Spada Belforma	personagem	CRLF x1	気になんのは、見る者によって、\nその煙の姿が違うらしいって事だ	Thing is, it seems its form varies\ndepending on who looks at it.	
+mev04_090.scr:10	mev04_090.scr	10	ルカ	Ruca Milda	personagem	CRLF x2	姿？\n煙とかモヤとか、\nそんな不定形なものでしょ？	Form?\nIsn't it shapeless like smoke\nor haze or something?	
+mev04_090.scr:11	mev04_090.scr	11	スパーダ	Spada Belforma	personagem	CRLF x1	ソイツの存在がわかった頃は\n煙だったらしいな	Seems it started out as smoke\nwhen folks first discovered it.	
+mev04_090.scr:12	mev04_090.scr	12	スパーダ	Spada Belforma	personagem	CRLF x1	けど今は、花や、虫、魚、色んな姿で\n現れるらしいぜ	Now it appears in all sorts of forms:\nflowers, bugs, fish, you name it.	
+mev04_090.scr:13	mev04_090.scr	13	ルカ	Ruca Milda	personagem		…まるで、進化しているみたいだね	...It's almost like it's evolving.	
+mev04_090.scr:14	mev04_090.scr	14	スパーダ	Spada Belforma	personagem	CRLF x1	それだけじゃねェ。\n変わってんのは街の人もだ	That ain't all.\nFolks in town are changin', too.	
+mev04_090.scr:15	mev04_090.scr	15	スパーダ	Spada Belforma	personagem	CRLF x1	「病気を治す」から、いつの間にか\n「願いを叶える」って話になってんだぜ	Went from 'curing illness' to\n'granting wishes' before anyone noticed.	
+mev04_090.scr:16	mev04_090.scr	16	アンジュ	Ange Serena	personagem		願いを叶える？	Granting wishes...?	
+mev04_090.scr:17	mev04_090.scr	17	アンジュ	Ange Serena	personagem	CRLF x2	…それはもはや……。\nそれは、病気を治すなんて\nものではない…	...That goes far beyond...\nThat's no mere thing\nthat simply cures diseases...	
+mev04_090.scr:18	mev04_090.scr	18	アンジュ	Ange Serena	personagem		もっと、「とんでもない」ものよ	It's something far more outrageous.	
+mev04_090.scr:19	mev04_090.scr	19	ルカ	Ruca Milda	personagem		願いを叶える、か…	Granting wishes, huh...?	
+mev04_090.scr:20	mev04_090.scr	20	ルカ	Ruca Milda	personagem	CRLF x1	じゃあ、もっとたくさんの人が\nその存在に会いたがるんだろうね	Then even more people will probably\nwant to go seek it out...	
+mev04_090.scr:21	mev04_090.scr	21	(mensagem de sistema)	(mensagem de sistema)	sistema		スパーダがアドリビトムに加入しました	Spada has joined Ad Libitum.	
+mev04_100.scr:0	mev04_100.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	○○、\nもうすっかりここに慣れたみたいね。\n仕事もすごく頑張ってるし	○○,\nit looks like you're right at home now.\nYou've been working so hard, too.	
+mev04_100.scr:1	mev04_100.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	どうかな。\n何か、思い出せた記憶ってある？	How are you feeling?\nHave you remembered anything at all?	
+mev04_100.scr:2	mev04_100.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そっか…。\nまだ、何も思い出せないんだね	I see...\nYou still can't remember anything, huh?	
+mev04_100.scr:3	mev04_100.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	うん。\nまたスケッチブックを買わなきゃ。\nもう無くなってきちゃったから	Yeah.\nI need to buy another sketchbook soon.\nI'm running out of paper.	
+mev04_100.scr:4	mev04_100.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	…ううん。\nまだ、どの風景にも出会ってない	...No.\nI haven't come across any of them yet.	
+mev04_100.scr:5	mev04_100.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	最近はね、前よりも風景が見える様になって。\n一杯絵に描き留めて、どんどん紙が\n無くなっちゃう	Lately, I've been seeing even more\nlandscapes, so I keep drawing them,\nburning through paper so quickly.	
+mev04_100.scr:6	mev04_100.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	でも、やっぱり一番に思うのは…。\n私の知らない風景が、\nどうして見えるのかってこと	Yet what I wonder most of all is...\nWhy am I seeing all these landscapes\nthat I've never even known?	
+mev04_100.scr:7	mev04_100.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	根拠は無いけど、やっぱりこれらの風景は\nどこかにある様な気がするんだ…	I have no proof, but I can't shake\nthe feeling they exist somewhere...	
+mev04_100.scr:8	mev04_100.scr	8	(opcao do jogador)	(opcao do jogador)	escolha		何も思い出せない、と言う	Say that you cannot remember anything	
+mev04_100.scr:9	mev04_100.scr	9	(opcao do jogador)	(opcao do jogador)	escolha		首を横に振る	Shake your head	
+mev04_100.scr:10	mev04_100.scr	10	(opcao do jogador)	(opcao do jogador)	escolha		また絵を描いてたのかと尋ねる	Ask if she has been drawing again	
+mev04_100.scr:11	mev04_100.scr	11	(opcao do jogador)	(opcao do jogador)	escolha		描いた風景は見つかったかと尋ねる	Ask if she found the scenery she drew	
+mev04_110.scr:0	mev04_110.scr	0	イリア	Iria Animi	personagem		　　　　　　　　　　　　　	Kyaaaah!	Original is 13 full-width spaces (off-screen scream audio trigger). Translated as 'Kyaaaah!' to satisfy E3.
+mev04_110.scr:1	mev04_110.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	今の、イリアの悲鳴じゃない？\n研究室の方からね	Wasn't that Iria screaming just now?\nIt came from the lab!	
+mev04_110.scr:2	mev04_110.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	○○。\nちょっと研究室へ行って、\n見てきてくれる？	○○.\nCould you head over to the lab\nand see what happened?	
+mev04_120.scr:0	mev04_120.scr	0	ウィル	Will Raynard	personagem		よし、やっと捕まえたぞ…	Alright, finally caught it...	
+mev04_120.scr:1	mev04_120.scr	1	イリア	Iria Animi	personagem	CRLF x2	○○！！\n見てよこの虫！！\nこんなんなっちゃってんのよ、気色悪ぅ！！	○○!!\nLook at this bug!!\nIt turned into this! It's so gross!!	
+mev04_120.scr:2	mev04_120.scr	2	ハロルド	Harold Berselius	personagem	CRLF x2	羽根も鉱物の様に固いわね。\nそして、呼吸する為の気門が無い。\n目も、口も無くなってる	Its wings are hard as mineral, too.\nPlus, it lacks spiracles to breathe.\nIts eyes and mouth are completely gone.	
+mev04_120.scr:3	mev04_120.scr	3	ハロルド	Harold Berselius	personagem	CRLF x1	生物として、あるべきものが\n欠けているわ	It lacks the very organs that\na living creature ought to have.	
+mev04_120.scr:4	mev04_120.scr	4	イリア	Iria Animi	personagem		これって、あの赤い煙のせいなわけ？	Is this because of that red smoke?	
+mev04_120.scr:5	mev04_120.scr	5	ハロルド	Harold Berselius	personagem		その可能性は濃厚ね	The likelihood of that is very high.	
+mev04_120.scr:6	mev04_120.scr	6	ハロルド	Harold Berselius	personagem	CRLF x1	もう一例くらい、\n確認出来ればいいんだけど	If only we could confirm\nat least one more case, though.	
+mev04_130.scr:0	mev04_130.scr	0	トマス	Thomas	personagem	CRLF x2	ワシは、モラード村の村長の\nトマスという者でのゥ。\n一つ、受けてもらいたい依頼があるんだが	I'm Thomas, the village chief\nof Morado Village.\nGot a request I'd like ya to take on.	
+mev04_130.scr:1	mev04_130.scr	1	アンジュ	Ange Serena	personagem		はい	Yes!	
+mev04_130.scr:2	mev04_130.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	モラード村といえば、\n以前ジョアンさんという方が\n当ギルドを利用されましたが	Speaking of Morado Village,\na gentleman named Joan\nused our guild's services recently.	
+mev04_130.scr:3	mev04_130.scr	3	アンジュ	Ange Serena	personagem		ジョアンさんはその後、どんなご様子ですか？	How has Joan been doing since then?	
+mev04_130.scr:4	mev04_130.scr	4	トマス	Thomas	personagem	CRLF x2	…ああ、ジョアンはなァ。\n元気になった途端、今までの倍働くと\n行商に出て行ったでなァ…	...Ah, Joan, ya see.\nThe moment he recovered, he set off\npeddling, vowed to work twice as hard...	
+mev04_130.scr:5	mev04_130.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	そうですか、お元気なのですね。\n良かった	I see, so he is in good health.\nThat's wonderful to hear.	
+mev04_130.scr:6	mev04_130.scr	6	アンジュ	Ange Serena	personagem		それでは、依頼とは何でしょうか？	Now then, what is your request?	
+mev04_130.scr:7	mev04_130.scr	7	トマス	Thomas	personagem	CRLF x2	ワシの村に魔物が入り込んでのゥ。\nそれを捕まえたんで、遠くの地に\n捨ててきて欲しいんだァ	A monster got into my village, ya see.\nWe caught it, so I want ya to take it\nfar away and dump it somewhere.	
+mev04_130.scr:8	mev04_130.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	捕まえた魔物を捨てる、ですか？\n討伐などではなく？	Dump a captured monster...?\nRather than slay it, you mean?	
+mev04_130.scr:9	mev04_130.scr	9	トマス	Thomas	personagem		受けてもらえんのかァ…？	Won't ya take the job...?	
+mev04_130.scr:10	mev04_130.scr	10	アンジュ	Ange Serena	personagem	CRLF x1	いえ…。\n依頼とあれば	Not at all...\nIf it's an official request, then...	
+mev04_130.scr:11	mev04_130.scr	11	トマス	Thomas	personagem	CRLF x2	場所は…、カダイフ砂漠がいいかのゥ。\nあそこにあるオアシスにでも\n捨ててきてくれんかなァ	As for where... Kadaif Desert might do.\nCould ya go dump it by the oasis\nover there, perhaps?	
+mev04_130.scr:12	mev04_130.scr	12	トマス	Thomas	personagem	CRLF x2	それじゃ、頼んだでよゥ。\n仕事を受けてくれる者が決まったら、\n魔物を引き渡すんでなァ	I'll leave it to ya, then.\nOnce ya pick who's takin' the job,\nwe'll hand the monster over.	
+mev04_130.scr:13	mev04_130.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	はい。\nわかりました…	Yes.\nUnderstood...	

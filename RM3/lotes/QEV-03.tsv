@@ -1,0 +1,89 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev03_010.scr:0	qev03_010.scr	0	ユーリ	Yuri Lowell	personagem		何だよ、話って		
+qev03_010.scr:1	qev03_010.scr	1	フレン	Flynn Scifo	personagem	CRLF x2	星晶にまつわる事実、世界の情勢……。\n全ては明らかにされ、\n徐々に事態は収束し始めている		
+qev03_010.scr:2	qev03_010.scr	2	フレン	Flynn Scifo	personagem	CRLF x1	約束だ、ユーリ。\nそろそろ……		
+qev03_010.scr:3	qev03_010.scr	3	ユーリ	Yuri Lowell	personagem		エステルを返してくれ、ってか		
+qev03_010.scr:4	qev03_010.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x2	悪ぃが、それは本人と交渉してくれ。\nお前だって、無理矢理エステルを\n連れ戻したくはねぇだろ？		
+qev03_010.scr:5	qev03_010.scr	5	フレン	Flynn Scifo	personagem	CRLF x1	もちろん、それもある。\nでも、それだけじゃない		
+qev03_010.scr:6	qev03_010.scr	6	フレン	Flynn Scifo	personagem	CRLF x1	ユーリ。\n君も、僕と一緒に騎士団へ戻らないか		
+qev03_010.scr:7	qev03_010.scr	7	ユーリ	Yuri Lowell	personagem		何を言い出すかと思えば、その話か		
+qev03_010.scr:8	qev03_010.scr	8	フレン	Flynn Scifo	personagem	CRLF x1	冗談ではない事くらい\n君ならわかっているだろう？		
+qev03_010.scr:9	qev03_010.scr	9	ユーリ	Yuri Lowell	personagem	CRLF x1	だったら、オレがどう答えんのかも\nお前にはわかってるはずだよな		
+qev03_010.scr:10	qev03_010.scr	10	フレン	Flynn Scifo	personagem		……やはり、口では君に敵わないな		
+qev03_010.scr:11	qev03_010.scr	11	ユーリ	Yuri Lowell	personagem		今更だろ		
+qev03_010.scr:12	qev03_010.scr	12	ユーリ	Yuri Lowell	personagem		……んじゃ、やっぱこいつで来るか？		
+qev03_010.scr:13	qev03_010.scr	13	フレン	Flynn Scifo	personagem	CRLF x1	君はいつもそうだな。\n全く、昔から変わっていない		
+qev03_010.scr:14	qev03_010.scr	14	ユーリ	Yuri Lowell	personagem		お前にだけは言われたくねぇな		
+qev03_010.scr:15	qev03_010.scr	15	フレン	Flynn Scifo	personagem		時間と場所は追って伝える		
+qev03_010.scr:16	qev03_010.scr	16	フレン	Flynn Scifo	personagem		そこで、全ての決着を付けよう		
+qev03_010.scr:17	qev03_010.scr	17	ユーリ	Yuri Lowell	personagem	CRLF x1	ああ、いいぜ。\n受けて立ってやる		
+qev03_010.scr:18	qev03_010.scr	18	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「互いの正義」が\nエントリーされました。\nユーリから受ける事が出来ます		
+qev03_020.scr:0	qev03_020.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x1	やっぱ、お前が受けてくれるか。\nいつも面倒ばっかで悪いな		
+qev03_020.scr:1	qev03_020.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x1	んじゃ……、\nサクッと行ってきますか		
+qev03_030.scr:0	qev03_030.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x2	おいおい、魔物だらけじゃねぇか。\n相変わらず、あいつの考えは\nどっかずれてるっつーか……		
+qev03_030.scr:1	qev03_030.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x2	しょうがねぇ。\n準備運動がてら、\nのんびり行くか		
+qev03_040.scr:0	qev03_040.scr	0	ユーリ	Yuri Lowell	personagem		ふー、やれやれ		
+qev03_040.scr:1	qev03_040.scr	1	(ator 200)	(ator 200)	desconhecido		…………		
+qev03_040.scr:2	qev03_040.scr	2	ユーリ	Yuri Lowell	personagem	CRLF x1	悪ぃな、つまんねえ事に\n巻き込んじまって		
+qev03_040.scr:3	qev03_040.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x1	あいつも、いつまでエステルに\n固執する気なんだろうな		
+qev03_040.scr:4	qev03_040.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x2	任務に忠実なのは結構だが、\nそのせいで、毎回振り回されるのは\n結局オレなんだよな		
+qev03_040.scr:5	qev03_040.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x2	フレンにしろ、エステルにしろ\nどうしてこうも厄介事ばかり\n運んでくるかねぇ		
+qev03_040.scr:6	qev03_040.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x1	特にフレンは、昔っから融通きかなくて\n頭固くてさ		
+qev03_040.scr:7	qev03_040.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x1	そのせいで、いらん苦労まで\nしょい込んで……		
+qev03_040.scr:8	qev03_040.scr	8	(ator 200)	(ator 200)	desconhecido		…………		
+qev03_040.scr:9	qev03_040.scr	9	ユーリ	Yuri Lowell	personagem		おっと、ちと長話が過ぎたか		
+qev03_040.scr:10	qev03_040.scr	10	ユーリ	Yuri Lowell	personagem	CRLF x2	どうも愚痴っぽくなっちまうのは、\n色々あったって事なのかもな。\nあいつとは……		
+qev03_050.scr:0	qev03_050.scr	0	フレン	Flynn Scifo	personagem		……腕を上げたな、ユーリ		
+qev03_050.scr:1	qev03_050.scr	1	ユーリ	Yuri Lowell	personagem		……お前もな		
+qev03_050.scr:2	qev03_050.scr	2	フレン	Flynn Scifo	personagem	CRLF x1	互いに背負うもの、\n守るべきものが出来た……		
+qev03_050.scr:3	qev03_050.scr	3	フレン	Flynn Scifo	personagem	CRLF x1	あの頃とは、そこが\n決定的に違うのかもしれないな		
+qev03_050.scr:4	qev03_050.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x1	それでも、目指してるもんは\n同じ……だろ？		
+qev03_050.scr:5	qev03_050.scr	5	フレン	Flynn Scifo	personagem		ああ……そうだな		
+qev03_050.scr:6	qev03_050.scr	6	ユーリ	Yuri Lowell	personagem		なら、互いに歩いて行こうぜ		
+qev03_050.scr:7	qev03_050.scr	7	ユーリ	Yuri Lowell	personagem		お互いの道を、お互いのやり方でな		
+qev03_050.scr:8	qev03_050.scr	8	フレン	Flynn Scifo	personagem		…………		
+qev03_050.scr:9	qev03_050.scr	9	フレン	Flynn Scifo	personagem	CRLF x1	ユーリ。\nエステリーゼ様の事を頼む		
+qev03_050.scr:10	qev03_050.scr	10	ユーリ	Yuri Lowell	personagem	CRLF x2	おっ。\nエステルの事は、\nあきらめる気になったのか？		
+qev03_050.scr:11	qev03_050.scr	11	フレン	Flynn Scifo	personagem	CRLF x2	そういうわけじゃない。\nただ……そうだな、\n道が一つじゃないと気付いただけだ		
+qev03_050.scr:12	qev03_050.scr	12	ユーリ	Yuri Lowell	personagem	CRLF x1	へぇ。\nそりゃ……		
+qev03_050.scr:13	qev03_050.scr	13	ユーリ	Yuri Lowell	personagem	CRLF x1	でかい一歩を踏み出したみたいだな、\nフレン隊長殿は		
+qev03_050.scr:14	qev03_050.scr	14	フレン	Flynn Scifo	personagem		からかうなよ		
+qev03_050.scr:15	qev03_050.scr	15	ユーリ	Yuri Lowell	personagem		へいへい		
+qev03_050.scr:16	qev03_050.scr	16	フレン	Flynn Scifo	personagem		ははははは		
+qev03_060.scr:0	qev03_060.scr	0	エステル	Estelle	personagem	CRLF x1	二人とも！\nどこ行ってたんです？		
+qev03_060.scr:1	qev03_060.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x1	ああ……。\nちっと野暮用で、な		
+qev03_060.scr:2	qev03_060.scr	2	フレン	Flynn Scifo	personagem	CRLF x2	エステリーゼ様……。\nご心配をお掛けして\n申し訳ありませんでした		
+qev03_060.scr:3	qev03_060.scr	3	エステル	Estelle	personagem	CRLF x1	もう、その用事というのは\n終わったのですか？		
+qev03_060.scr:4	qev03_060.scr	4	フレン	Flynn Scifo	personagem		……はい		
+qev03_060.scr:5	qev03_060.scr	5	エステル	Estelle	personagem	CRLF x1	そうですか。\nそれなら良かったです		
+qev03_060.scr:6	qev03_060.scr	6	エステル	Estelle	personagem	CRLF x1	二人の身に何かあったのではと\n心配していたんですよ		
+qev03_060.scr:7	qev03_060.scr	7	フレン	Flynn Scifo	personagem		エステリーゼ様……		
+qev03_060.scr:8	qev03_060.scr	8	エステル	Estelle	personagem	CRLF x1	さあ、それでは二人とも\n行きましょう！		
+qev03_060.scr:9	qev03_060.scr	9	ユーリ	Yuri Lowell	personagem		行くって……		
+qev03_060.scr:10	qev03_060.scr	10	フレン	Flynn Scifo	personagem		どこへ、でしょうか……？		
+qev03_060.scr:11	qev03_060.scr	11	エステル	Estelle	personagem	CRLF x2	世界図書館ですよ。\n取り寄せていた本が届いたと\n連絡があったんです		
+qev03_060.scr:12	qev03_060.scr	12	エステル	Estelle	personagem	CRLF x1	今度は、二人がわたしの用事に\n付き合ってくれる番、ですよね？		
+qev03_060.scr:13	qev03_060.scr	13	ユーリ	Yuri Lowell	personagem	CRLF x1	やれやれ……。\n帰ってきてすぐこれかよ		
+qev03_060.scr:14	qev03_060.scr	14	フレン	Flynn Scifo	personagem	CRLF x1	エステリーゼ様の頼みでしたら、\n私は喜んで、ご一緒させて頂きます		
+qev03_060.scr:15	qev03_060.scr	15	エステル	Estelle	personagem	CRLF x1	二人ならそう言ってくれると\n思っていました！		
+qev03_060.scr:16	qev03_060.scr	16	エステル	Estelle	personagem	CRLF x2	それじゃわたし、\n支度をして来ますから。\n少し待ってて下さいね		
+qev03_060.scr:17	qev03_060.scr	17	ユーリ	Yuri Lowell	personagem	CRLF x1	お前のお人好しも、\n大概だな……		
+qev03_060.scr:18	qev03_060.scr	18	フレン	Flynn Scifo	personagem	CRLF x1	ははっ。\nユーリには、言われたくないさ		
+qev03_070.scr:0	qev03_070.scr	0	ユーリ	Yuri Lowell	personagem		お招きどうもありがとさん		
+qev03_070.scr:1	qev03_070.scr	1	フレン	Flynn Scifo	personagem		気持ちは変わらないのか		
+qev03_070.scr:2	qev03_070.scr	2	ユーリ	Yuri Lowell	personagem		何度も言わせんなって		
+qev03_070.scr:3	qev03_070.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x2	お前には、お前の。\nオレには、オレのやり方がある。\nそんだけの話だろ		
+qev03_070.scr:4	qev03_070.scr	4	フレン	Flynn Scifo	personagem	CRLF x1	万人が等しく扱われる法秩序を築く……。\nそれが僕の願いであり、目的だ		
+qev03_070.scr:5	qev03_070.scr	5	フレン	Flynn Scifo	personagem	CRLF x2	だけどユーリ、君だって思いは同じはず。\nだからこそ、一度は騎士団の門を\n叩いたんだろう？		
+qev03_070.scr:6	qev03_070.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x2	じゃあ、お前、騎士団に入って\n何か変わったのか？\n変えられたのかよ？		
+qev03_070.scr:7	qev03_070.scr	7	フレン	Flynn Scifo	personagem	CRLF x2	確かに、まだやりきれていない事はある。\nだからと言って君の様に、\n人が人を裁く道を肯定する事は出来ない		
+qev03_070.scr:8	qev03_070.scr	8	フレン	Flynn Scifo	personagem		認めるわけにはいかないんだ……		
+qev03_070.scr:9	qev03_070.scr	9	フレン	Flynn Scifo	personagem	CRLF x1	……もう一度聞く。\nそれでも、気持ちは変わらないか？		
+qev03_070.scr:10	qev03_070.scr	10	ユーリ	Yuri Lowell	personagem		いい加減、この問答にも飽きてきたな		
+qev03_070.scr:11	qev03_070.scr	11	フレン	Flynn Scifo	personagem		そうか……ならば		
+qev03_070.scr:12	qev03_070.scr	12	フレン	Flynn Scifo	personagem	CRLF x1	こうするより他に\n道はないという事だな		
+qev03_070.scr:13	qev03_070.scr	13	ユーリ	Yuri Lowell	personagem		そういうこったな		
+qev03_070.scr:14	qev03_070.scr	14	ユーリ	Yuri Lowell	personagem		んじゃ、行くぜ！		
+qev03_080.scr:0	qev03_080.scr	0	フレン	Flynn Scifo	personagem	CRLF x2	ユーリ……。\nあえて罪人の道を行くというのなら、\n僕の取るべき行動は一つだ		
+qev03_080.scr:1	qev03_080.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x2	そう何度も\n同じ結果になると思ったら\n大間違いだぜ		
+qev03_080.scr:2	qev03_080.scr	2	フレン	Flynn Scifo	personagem		……行くぞ、ユーリ！！		

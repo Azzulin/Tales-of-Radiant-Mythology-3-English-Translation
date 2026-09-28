@@ -1,0 +1,104 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev12_010.scr:0	cev12_010.scr	0	ファラ	Farah Oersted	personagem		ふっ、はぁっ！		
+cev12_010.scr:1	cev12_010.scr	1	コハク	Kohaku Hearts	personagem		やぁっ！		
+cev12_010.scr:2	cev12_010.scr	2	ソフィ	Sophie	personagem		……そこっ！		
+cev12_010.scr:3	cev12_010.scr	3	コングマン	Kongman	personagem	CRLF x1	おう。おめぇら気合い入ってんな！\n三人でトレーニングかぁ？		
+cev12_010.scr:4	cev12_010.scr	4	ファラ	Farah Oersted	personagem	CRLF x1	うん。\nまぁ、そんなとこかな		
+cev12_010.scr:5	cev12_010.scr	5	コハク	Kohaku Hearts	personagem	CRLF x1	最近、ずっと船の中にいるから。\nじっとしてたら体が鈍っちゃうもん		
+cev12_010.scr:6	cev12_010.scr	6	ソフィ	Sophie	personagem	CRLF x1	ファラもコハクも、とっても強いの。\n色んな事、教えてくれるんだ		
+cev12_010.scr:7	cev12_010.scr	7	コングマン	Kongman	personagem	CRLF x1	なるほどねえ。\nく〜〜〜っ、いいねえいいねえ！		
+cev12_010.scr:8	cev12_010.scr	8	コングマン	Kongman	personagem		継続は力になり、鍛練は筋肉になる！！		
+cev12_010.scr:9	cev12_010.scr	9	コングマン	Kongman	personagem	CRLF x1	前途有望な若者達に、特別に\n俺様のヒミツの技を伝授してやる！		
+cev12_010.scr:10	cev12_010.scr	10	ファラ	Farah Oersted	personagem	CRLF x2	えっ？　\nチャンピオンの技を？\nいいの？		
+cev12_010.scr:11	cev12_010.scr	11	コングマン	Kongman	personagem	CRLF x1	おうよ。\n俺様の代表的な技……その名も		
+cev12_010.scr:12	cev12_010.scr	12	コハク	Kohaku Hearts	personagem		ごくり……その名も？		
+cev12_010.scr:13	cev12_010.scr	13	コングマン	Kongman	personagem		イカスヒップだぁ！！！		
+cev12_010.scr:14	cev12_010.scr	14	コングマン	Kongman	personagem	CRLF x1	はーはっはっはっはぁ！！\nどうでえ、嬉しいだろう？		
+cev12_010.scr:15	cev12_010.scr	15	ソフィ	Sophie	personagem		……イカが、どうしたの？		
+cev12_020.scr:0	cev12_020.scr	0	クロエ	Chloe Valens	personagem	CRLF x1	ん！\n……おい、何か臭わないか？		
+cev12_020.scr:1	cev12_020.scr	1	ミント	Mint Adenade	personagem	CRLF x1	そう言われてみれば……\n何か、変な臭いがしますね……		
+cev12_020.scr:2	cev12_020.scr	2	フィリア	Philia Felice	personagem	CRLF x1	ええ……何でしょう、\nこれは……		
+cev12_020.scr:3	cev12_020.scr	3	クロエ	Chloe Valens	personagem		まさか……敵の毒ガス攻撃か！？		
+cev12_020.scr:4	cev12_020.scr	4	ミント	Mint Adenade	personagem	CRLF x1	いえ、船の中ですから\nさすがにそれはないと思いますけど……		
+cev12_020.scr:5	cev12_020.scr	5	フィリア	Philia Felice	personagem	CRLF x1	でも、確かに、この強烈な臭い……。\n毒素があってもおかしくないですわ……		
+cev12_020.scr:6	cev12_020.scr	6	クロエ	Chloe Valens	personagem	CRLF x1	とにかく、急いで換気をしなければ！\n行こう！！		
+cev12_020.scr:7	cev12_020.scr	7	ミント	Mint Adenade	personagem		ええ		
+cev12_020.scr:8	cev12_020.scr	8	コングマン	Kongman	personagem	CRLF x2	フィリアさん、すいません……。\nさっき、にんにく食ったのが\nいけなかったのか……？		
+cev12_030.scr:0	cev12_030.scr	0	ミント	Mint Adenade	personagem	CRLF x1	それで、その後フィリアさんとは\nどんな感じなのですか？		
+cev12_030.scr:1	cev12_030.scr	1	コングマン	Kongman	personagem	CRLF x2	おう。\n今度、フィリアさん特製のスイーツを\nご馳走してもらえる事になったぜ！		
+cev12_030.scr:2	cev12_030.scr	2	ミント	Mint Adenade	personagem	CRLF x2	スイーツですか、うらやましいです。\nそういえばフィリアさんは\nお菓子作りが得意でしたね		
+cev12_030.scr:3	cev12_030.scr	3	コングマン	Kongman	personagem	CRLF x2	く〜〜〜っ、今から当日が\n待ち遠しくて眠れねえ！\nどうすりゃいいんだぁ！？		
+cev12_030.scr:4	cev12_030.scr	4	ミント	Mint Adenade	personagem	CRLF x1	（まるで、遠足前日の\n　子どもみたいですね……）		
+cev12_040.scr:0	cev12_040.scr	0	フィリア	Philia Felice	personagem		（あんな所に画びょうが……？）		
+cev12_040.scr:1	cev12_040.scr	1	フィリア	Philia Felice	personagem	CRLF x2	（大変……！\n　誰かが踏んでしまう前に\n　拾っておかなくては……）		
+cev12_040.scr:2	cev12_040.scr	2	コングマン	Kongman	personagem	CRLF x2	フィリアさ〜ん！\n良かったら、俺様と\nお茶でもどうです？		
+cev12_040.scr:3	cev12_040.scr	3	フィリア	Philia Felice	personagem	CRLF x1	コ、コングマンさん……！\nその……足、大丈夫……ですか？		
+cev12_040.scr:4	cev12_040.scr	4	コングマン	Kongman	personagem	CRLF x1	足、ですか？\n別に何もないですよ		
+cev12_040.scr:5	cev12_040.scr	5	コングマン	Kongman	personagem		ほら、この通り！！		
+cev12_040.scr:6	cev12_040.scr	6	フィリア	Philia Felice	personagem	CRLF x1	そ、そうですか……。\n何もないのでしたら、いいんです……		
+cev12_040.scr:7	cev12_040.scr	7	コングマン	Kongman	personagem	CRLF x1	フィリアさん……そんなにも\n俺様の事を心配して……∀		
+cev12_040.scr:8	cev12_040.scr	8	コングマン	Kongman	personagem	CRLF x1	くぅ〜〜っ！！\n身に余る光栄ですっ！！		
+cev12_040.scr:9	cev12_040.scr	9	フィリア	Philia Felice	personagem	CRLF x1	（……、さっきの画びょうが\n　ぺしゃんこになってます……）		
+cev12_050.scr:0	cev12_050.scr	0	コングマン	Kongman	personagem		おー、いちちち……		
+cev12_050.scr:1	cev12_050.scr	1	ミント	Mint Adenade	personagem	CRLF x1	コングマンさん？\nどこか、具合でも悪いのですか？		
+cev12_050.scr:2	cev12_050.scr	2	コングマン	Kongman	personagem	CRLF x1	いや、これっくらい大した事はねえ。\nただのかすり傷だ、舐めときゃ治……		
+cev12_050.scr:3	cev12_050.scr	3	ミント	Mint Adenade	personagem		いけません！		
+cev12_050.scr:4	cev12_050.scr	4	ミント	Mint Adenade	personagem	CRLF x1	どんなに小さなものでも、怪我は怪我です。\nきちんと手当てしなくては……		
+cev12_050.scr:5	cev12_050.scr	5	ミント	Mint Adenade	personagem		……ファーストエイド！		
+cev12_050.scr:6	cev12_050.scr	6	ミント	Mint Adenade	personagem		はい、これでもう大丈夫ですよ		
+cev12_050.scr:7	cev12_050.scr	7	ミント	Mint Adenade	personagem	CRLF x1	お体には、気を付けて下さいね。\nコングマンさん		
+cev12_050.scr:8	cev12_050.scr	8	コングマン	Kongman	personagem		は……白衣の天使だ……		
+cev12_050.scr:9	cev12_050.scr	9	ミント	Mint Adenade	personagem		はい？　どうしました？		
+cev12_050.scr:10	cev12_050.scr	10	コングマン	Kongman	personagem		はっ！　俺様は今、何を！？		
+cev12_050.scr:11	cev12_050.scr	11	ミント	Mint Adenade	personagem		コングマンさん……？		
+cev12_050.scr:12	cev12_050.scr	12	コングマン	Kongman	personagem	CRLF x2	すまねえミント。\n俺は……俺様は！！\nフィリアさん一筋なんだ〜〜〜！！		
+cev12_050.scr:13	cev12_050.scr	13	ミント	Mint Adenade	personagem		？？？		
+cev12_060.scr:0	cev12_060.scr	0	ノーマ	Norma Beatty	personagem	CRLF x1	ねーねー、\nコングって何でスキンヘッドなの？		
+cev12_060.scr:1	cev12_060.scr	1	コングマン	Kongman	personagem	CRLF x1	あ？　\nそりゃ、俺様はチャンピオンだからな		
+cev12_060.scr:2	cev12_060.scr	2	コングマン	Kongman	personagem	CRLF x1	少しでも見た目が\n格好いい方がいいだろうがよ		
+cev12_060.scr:3	cev12_060.scr	3	ノーマ	Norma Beatty	personagem	CRLF x2	ほ〜？　\nコングんとこじゃ、\nスキンが格好いいって思われてんのね〜		
+cev12_060.scr:4	cev12_060.scr	4	コングマン	Kongman	personagem	CRLF x1	あったりめぇよ！\nこのツルンとした肌触りなんか、最高だろ！		
+cev12_060.scr:5	cev12_060.scr	5	ノーマ	Norma Beatty	personagem		………肌触り？		
+cev12_060.scr:6	cev12_060.scr	6	コングマン	Kongman	personagem	CRLF x2	はっは〜ん。\nさては、おめぇも触りてぇんだな。\nわかるぜぇ〜		
+cev12_060.scr:7	cev12_060.scr	7	ノーマ	Norma Beatty	personagem		いや別に、むしろどーでも……		
+cev12_060.scr:8	cev12_060.scr	8	コングマン	Kongman	personagem	CRLF x2	おら、出血大サービスだ！\nしっかり触って、その脳みそに\n焼き付けていけい！		
+cev12_060.scr:9	cev12_060.scr	9	ノーマ	Norma Beatty	personagem	CRLF x1	ほ〜ほ〜。\n確かに触りたくなる頭だわ〜		
+cev12_070.scr:0	cev12_070.scr	0	リタ	Rita Mordio	personagem	CRLF x1	ねぇ、ジュディス。\nいい加減その格好どうにかしたら？		
+cev12_070.scr:1	cev12_070.scr	1	リタ	Rita Mordio	personagem		初対面の人間が面食らうでしょ		
+cev12_070.scr:2	cev12_070.scr	2	ジュディス	Judith	personagem	CRLF x1	あらどうして？\n別に構わないわよ、私は		
+cev12_070.scr:3	cev12_070.scr	3	リタ	Rita Mordio	personagem	CRLF x2	あんたが良くても、\nそんな裸に近い状態で歩かれたら\n周りは気になってしょうがないわよ		
+cev12_070.scr:4	cev12_070.scr	4	ジュディス	Judith	personagem		裸じゃないだけマシじゃないかしら？		
+cev12_070.scr:5	cev12_070.scr	5	リタ	Rita Mordio	personagem	CRLF x1	当たり前でしょ！\n裸で人前歩くなんて狂気の沙汰だわ！！		
+cev12_070.scr:6	cev12_070.scr	6	コングマン	Kongman	personagem	CRLF x1	ふ〜……いけねえいけねえ。\nつい昼寝しちまったぜ……		
+cev12_070.scr:7	cev12_070.scr	7	ジュディス	Judith	personagem	CRLF x1	いたじゃない。\n良かったわね∀		
+cev12_070.scr:8	cev12_070.scr	8	リタ	Rita Mordio	personagem		何がよ！		
+cev12_200.scr:0	cev12_200.scr	0	コングマン	Kongman	personagem	CRLF x1	通常。\n		
+cev12_200.scr:1	cev12_200.scr	1	コングマン	Kongman	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev12_200.scr:2	cev12_200.scr	2	コングマン	Kongman	personagem	CRLF x1	笑い。\n		
+cev12_200.scr:3	cev12_200.scr	3	コングマン	Kongman	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev12_200.scr:4	cev12_200.scr	4	コングマン	Kongman	personagem	CRLF x1	怒り。\n		
+cev12_200.scr:5	cev12_200.scr	5	コングマン	Kongman	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev12_200.scr:6	cev12_200.scr	6	コングマン	Kongman	personagem	CRLF x1	悲しみ。\n		
+cev12_200.scr:7	cev12_200.scr	7	コングマン	Kongman	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev12_200.scr:8	cev12_200.scr	8	コングマン	Kongman	personagem	CRLF x1	驚き。\n		
+cev12_200.scr:9	cev12_200.scr	9	コングマン	Kongman	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev12_200.scr:10	cev12_200.scr	10	コングマン	Kongman	personagem	CRLF x1	通常。\n		
+cev12_200.scr:11	cev12_200.scr	11	コングマン	Kongman	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev12_200.scr:12	cev12_200.scr	12	コングマン	Kongman	personagem	CRLF x1	笑い。\n		
+cev12_200.scr:13	cev12_200.scr	13	コングマン	Kongman	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev12_200.scr:14	cev12_200.scr	14	コングマン	Kongman	personagem	CRLF x1	怒り。\n		
+cev12_200.scr:15	cev12_200.scr	15	コングマン	Kongman	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev12_200.scr:16	cev12_200.scr	16	コングマン	Kongman	personagem	CRLF x1	悲しみ。\n		
+cev12_200.scr:17	cev12_200.scr	17	コングマン	Kongman	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev12_200.scr:18	cev12_200.scr	18	コングマン	Kongman	personagem	CRLF x1	驚き。\n		
+cev12_200.scr:19	cev12_200.scr	19	コングマン	Kongman	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev12_200.scr:20	cev12_200.scr	20	コングマン	Kongman	personagem	CRLF x1	通常。\n		
+cev12_200.scr:21	cev12_200.scr	21	コングマン	Kongman	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev12_200.scr:22	cev12_200.scr	22	コングマン	Kongman	personagem	CRLF x1	笑い。\n		
+cev12_200.scr:23	cev12_200.scr	23	コングマン	Kongman	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev12_200.scr:24	cev12_200.scr	24	コングマン	Kongman	personagem	CRLF x1	怒り。\n		
+cev12_200.scr:25	cev12_200.scr	25	コングマン	Kongman	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev12_200.scr:26	cev12_200.scr	26	コングマン	Kongman	personagem	CRLF x1	悲しみ。\n		
+cev12_200.scr:27	cev12_200.scr	27	コングマン	Kongman	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev12_200.scr:28	cev12_200.scr	28	コングマン	Kongman	personagem	CRLF x1	驚き。\n		
+cev12_200.scr:29	cev12_200.scr	29	コングマン	Kongman	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

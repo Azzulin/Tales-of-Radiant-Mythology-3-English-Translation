@@ -1,0 +1,55 @@
+{
+  "expectations": [
+    {
+      "text": "Identifica o tamanho do registro (36 bytes) e o offset onde a tabela comeca",
+      "passed": false,
+      "evidence": "O relatorio afirma 'Tabela de registros - 0x3C, 211x36 bytes' (registro de 36B correto, mas o offset 0x3C/60 da tabela esta errado). Verificacao cruzada: em ambos os enquadramentos os campos off_titulo/off_corpo caem exatamente na mesma posicao absoluta no arquivo (36*i+60 em ambos, checado por script), o que so acontece porque o enquadramento sem_skill esta desalinhado (deslocado) em relacao ao real; a execucao com_skill prova formalmente (permutacao exata 1..210 do pool de ordem, cobertura sem furos/sobreposicoes, round-trip byte-perfeito) que o cabecalho real e' 0x20 e nao 0x3C. Sem_skill nao fez nenhum desses testes de fechamento e por isso nao percebeu o desalinhamento (evidenciado pelas 'anomalias' nao resolvidas do proprio relatorio: id=1 repetido no registro 0 e 210, 'nao investiguei a causa')."
+    },
+    {
+      "text": "Determina que os offsets das strings sao ABSOLUTOS no arquivo, nao relativos",
+      "passed": true,
+      "evidence": "Secao 7: 'off_titulo e off_corpo sao estritamente crescentes... offsets absolutos'; secao 3 tabela: 'off_titulo u32, offset absoluto no blob'."
+    },
+    {
+      "text": "Caracteriza a regiao nao identificada entre o fim da tabela e o pool de strings",
+      "passed": true,
+      "evidence": "Secao 6: 'um vao de 812 bytes... sao 203 valores u32, todos nao-zero, todos no intervalo [2,210]... Hipotese nao fechada: uma tabela auxiliar de indice/ordenacao'."
+    },
+    {
+      "text": "Testa se algum campo do registro e' cache derivado do conteudo, em vez de so' marcar como nao identificado",
+      "passed": false,
+      "evidence": "A tabela da secao 3 e o texto so testam se os 6 campos 'resto' sao offsets de bytes (faixa/valor), nunca comparam esses campos contra grandezas derivadas do texto (numero de linhas, tamanho do titulo/corpo). Nenhuma linha do relatorio ou dos 3 scripts calcula corpo.count('\\n') ou len(titulo/corpo) para comparar com um campo do registro."
+    },
+    {
+      "text": "Verifica round-trip byte-perfeito contra a entrada v2065 real da ISO",
+      "passed": false,
+      "evidence": "O proprio relatorio admite: 'Nao escrevi nem testei um build()/reempacotador - a tarefa pedida foi decifrar o formato e avaliar seguranca, nao implementar a reinsercao.' Nao ha nenhum teste de round-trip nos 3 scripts anexos."
+    },
+    {
+      "text": "Entrega um build() que aceita texto de tamanho diferente, ou justifica por que nao entregar",
+      "passed": false,
+      "evidence": "Nenhum build()/reempacotador foi entregue. A 'justificativa' dada ('a tarefa pedida foi decifrar o formato e avaliar seguranca, nao implementar a reinsercao') e' fraca frente ao proprio pedido do usuario ('me diz, com evidencia, se a reinsercao e segura'): sem um build(), a conclusao de que os offsets 'poderiam, em tese, ser recalculados' fica em linguagem especulativa ('poderia, em tese') em vez de comprovada."
+    },
+    {
+      "text": "Quantifica a folga disponivel sem tocar o indice do container",
+      "passed": true,
+      "evidence": "Secao 8: 'span reservado da entrada: 55.296 bytes; usado ate o fim do ultimo corpo: 53.480 bytes; folga (zeros ate o fim do span): 1.816 bytes'."
+    },
+    {
+      "text": "Declara explicitamente o que ficou nao verificado",
+      "passed": true,
+      "evidence": "Secao '## Nao verificado / limitacoes' lista 6 itens: semantica dos 6 campos resto, semantica do bloco de 812B, regra de parentesco secao->item, anomalia do registro 210, uso em runtime, referencias externas ao blob."
+    },
+    {
+      "text": "Distingue parser provado de aceitacao pelo jogo em execucao",
+      "passed": true,
+      "evidence": "Secao 'Nao verificado': 'Uso em runtime dos campos nao decifrados... nao pode ser verificado por leitura estatica de bytes - exigiria teste no jogo (playtest)'; conclusao cita P-30 'arquivo bem-formado != jogo aceita'."
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "failed": 4,
+    "total": 9,
+    "pass_rate": 0.5556
+  }
+}

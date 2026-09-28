@@ -1,0 +1,89 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev03_010.scr:0	qev03_010.scr	0	ユーリ	Yuri Lowell	personagem		何だよ、話って	So what's this about?	
+qev03_010.scr:1	qev03_010.scr	1	フレン	Flynn Scifo	personagem	CRLF x2	星晶にまつわる事実、世界の情勢……。\n全ては明らかにされ、\n徐々に事態は収束し始めている	The truth about the Star Crystals,\nthe state of the world......\nAll has been brought to light.	
+qev03_010.scr:2	qev03_010.scr	2	フレン	Flynn Scifo	personagem	CRLF x1	約束だ、ユーリ。\nそろそろ……	It's a promise, Yuri.\nIt's about time......	
+qev03_010.scr:3	qev03_010.scr	3	ユーリ	Yuri Lowell	personagem		エステルを返してくれ、ってか	You want Estelle back, is that it?	
+qev03_010.scr:4	qev03_010.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x2	悪ぃが、それは本人と交渉してくれ。\nお前だって、無理矢理エステルを\n連れ戻したくはねぇだろ？	Sorry, but take that up with her.\nYou don't want to drag Estelle\nback by force either, right?	
+qev03_010.scr:5	qev03_010.scr	5	フレン	Flynn Scifo	personagem	CRLF x1	もちろん、それもある。\nでも、それだけじゃない	Of course, there's that.\nBut that's not all.	
+qev03_010.scr:6	qev03_010.scr	6	フレン	Flynn Scifo	personagem	CRLF x1	ユーリ。\n君も、僕と一緒に騎士団へ戻らないか	Yuri.\nWhy not rejoin the Knights with me?	
+qev03_010.scr:7	qev03_010.scr	7	ユーリ	Yuri Lowell	personagem		何を言い出すかと思えば、その話か	Of all the things to bring up...	
+qev03_010.scr:8	qev03_010.scr	8	フレン	Flynn Scifo	personagem	CRLF x1	冗談ではない事くらい\n君ならわかっているだろう？	You should know I'm not joking,\ndon't you?	
+qev03_010.scr:9	qev03_010.scr	9	ユーリ	Yuri Lowell	personagem	CRLF x1	だったら、オレがどう答えんのかも\nお前にはわかってるはずだよな	Then you should also know\nhow I'd answer, right?	
+qev03_010.scr:10	qev03_010.scr	10	フレン	Flynn Scifo	personagem		……やはり、口では君に敵わないな	......I can never beat you in words.	
+qev03_010.scr:11	qev03_010.scr	11	ユーリ	Yuri Lowell	personagem		今更だろ	That's old news.	
+qev03_010.scr:12	qev03_010.scr	12	ユーリ	Yuri Lowell	personagem		……んじゃ、やっぱこいつで来るか？	......So, we settle this the usual way?	
+qev03_010.scr:13	qev03_010.scr	13	フレン	Flynn Scifo	personagem	CRLF x1	君はいつもそうだな。\n全く、昔から変わっていない	You're always like this.\nHonestly, you haven't changed a bit.	
+qev03_010.scr:14	qev03_010.scr	14	ユーリ	Yuri Lowell	personagem		お前にだけは言われたくねぇな	You're the last one to talk.	
+qev03_010.scr:15	qev03_010.scr	15	フレン	Flynn Scifo	personagem		時間と場所は追って伝える	I'll send the time and place later.	
+qev03_010.scr:16	qev03_010.scr	16	フレン	Flynn Scifo	personagem		そこで、全ての決着を付けよう	There, we'll settle everything.	
+qev03_010.scr:17	qev03_010.scr	17	ユーリ	Yuri Lowell	personagem	CRLF x1	ああ、いいぜ。\n受けて立ってやる	Yeah, fine by me.\nBring it on.	
+qev03_010.scr:18	qev03_010.scr	18	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「互いの正義」が\nエントリーされました。\nユーリから受ける事が出来ます	Quest 'Each Other's Justice'\nhas been registered.\nYou can accept it from Yuri.	
+qev03_020.scr:0	qev03_020.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x1	やっぱ、お前が受けてくれるか。\nいつも面倒ばっかで悪いな	Figured you'd take this one.\nSorry for always dragging you in.	
+qev03_020.scr:1	qev03_020.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x1	んじゃ……、\nサクッと行ってきますか	Well then......\nLet's get this over with quick.	
+qev03_030.scr:0	qev03_030.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x2	おいおい、魔物だらけじゃねぇか。\n相変わらず、あいつの考えは\nどっかずれてるっつーか……	Whoa, the place is crawling\nwith monsters. That guy's sense\nof direction is off as always...	
+qev03_030.scr:1	qev03_030.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x2	しょうがねぇ。\n準備運動がてら、\nのんびり行くか	Oh well.\nMight as well use 'em\nas a warm-up.	
+qev03_040.scr:0	qev03_040.scr	0	ユーリ	Yuri Lowell	personagem		ふー、やれやれ	Phew, good grief.	
+qev03_040.scr:1	qev03_040.scr	1	(ator 200)	(ator 200)	desconhecido		…………	............	
+qev03_040.scr:2	qev03_040.scr	2	ユーリ	Yuri Lowell	personagem	CRLF x1	悪ぃな、つまんねえ事に\n巻き込んじまって	Sorry for dragging you into\nsomething so dull.	
+qev03_040.scr:3	qev03_040.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x1	あいつも、いつまでエステルに\n固執する気なんだろうな	I wonder how long he's gonna\nkeep fixating on Estelle.	
+qev03_040.scr:4	qev03_040.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x2	任務に忠実なのは結構だが、\nそのせいで、毎回振り回されるのは\n結局オレなんだよな	Being devoted to duty is fine,\nbut the one who gets dragged\naround every time is me.	
+qev03_040.scr:5	qev03_040.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x2	フレンにしろ、エステルにしろ\nどうしてこうも厄介事ばかり\n運んでくるかねぇ	Whether it's Flynn or Estelle,\nwhy do they always bring\nnothing but trouble?	
+qev03_040.scr:6	qev03_040.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x1	特にフレンは、昔っから融通きかなくて\n頭固くてさ	Flynn especially -- he's always been\nstubborn and inflexible.	
+qev03_040.scr:7	qev03_040.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x1	そのせいで、いらん苦労まで\nしょい込んで……	And because of that, he takes on\nburdens he doesn't need to......	
+qev03_040.scr:8	qev03_040.scr	8	(ator 200)	(ator 200)	desconhecido		…………	............	
+qev03_040.scr:9	qev03_040.scr	9	ユーリ	Yuri Lowell	personagem		おっと、ちと長話が過ぎたか	Oops, I've been rambling too long.	
+qev03_040.scr:10	qev03_040.scr	10	ユーリ	Yuri Lowell	personagem	CRLF x2	どうも愚痴っぽくなっちまうのは、\n色々あったって事なのかもな。\nあいつとは……	Maybe all this griping means\nwe've been through a lot together.\nMe and him......	
+qev03_050.scr:0	qev03_050.scr	0	フレン	Flynn Scifo	personagem		……腕を上げたな、ユーリ	......You've gotten stronger, Yuri.	
+qev03_050.scr:1	qev03_050.scr	1	ユーリ	Yuri Lowell	personagem		……お前もな	......Same to you.	
+qev03_050.scr:2	qev03_050.scr	2	フレン	Flynn Scifo	personagem	CRLF x1	互いに背負うもの、\n守るべきものが出来た……	We each carry something now,\nsomething to protect......	
+qev03_050.scr:3	qev03_050.scr	3	フレン	Flynn Scifo	personagem	CRLF x1	あの頃とは、そこが\n決定的に違うのかもしれないな	That might be what's fundamentally\ndifferent from back then.	
+qev03_050.scr:4	qev03_050.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x1	それでも、目指してるもんは\n同じ……だろ？	Even so, what we're aiming for\nis the same......right?	
+qev03_050.scr:5	qev03_050.scr	5	フレン	Flynn Scifo	personagem		ああ……そうだな	Yeah......that's true.	
+qev03_050.scr:6	qev03_050.scr	6	ユーリ	Yuri Lowell	personagem		なら、互いに歩いて行こうぜ	Then let's keep walking forward.	
+qev03_050.scr:7	qev03_050.scr	7	ユーリ	Yuri Lowell	personagem		お互いの道を、お互いのやり方でな	Our own paths, our own way.	
+qev03_050.scr:8	qev03_050.scr	8	フレン	Flynn Scifo	personagem		…………	............	
+qev03_050.scr:9	qev03_050.scr	9	フレン	Flynn Scifo	personagem	CRLF x1	ユーリ。\nエステリーゼ様の事を頼む	Yuri.\nI'm entrusting Estellise to you.	
+qev03_050.scr:10	qev03_050.scr	10	ユーリ	Yuri Lowell	personagem	CRLF x2	おっ。\nエステルの事は、\nあきらめる気になったのか？	Oh.\nSo you're ready to let go\nof Estelle?	
+qev03_050.scr:11	qev03_050.scr	11	フレン	Flynn Scifo	personagem	CRLF x2	そういうわけじゃない。\nただ……そうだな、\n道が一つじゃないと気付いただけだ	It's not like that.\nI just......realized\nthere's more than one path.	
+qev03_050.scr:12	qev03_050.scr	12	ユーリ	Yuri Lowell	personagem	CRLF x1	へぇ。\nそりゃ……	Heh.\nThat's......	
+qev03_050.scr:13	qev03_050.scr	13	ユーリ	Yuri Lowell	personagem	CRLF x1	でかい一歩を踏み出したみたいだな、\nフレン隊長殿は	One big step forward for you,\nCaptain Flynn.	
+qev03_050.scr:14	qev03_050.scr	14	フレン	Flynn Scifo	personagem		からかうなよ	Don't tease me.	
+qev03_050.scr:15	qev03_050.scr	15	ユーリ	Yuri Lowell	personagem		へいへい	Yeah, yeah.	
+qev03_050.scr:16	qev03_050.scr	16	フレン	Flynn Scifo	personagem		ははははは	Hahahahaha.	
+qev03_060.scr:0	qev03_060.scr	0	エステル	Estelle	personagem	CRLF x1	二人とも！\nどこ行ってたんです？	You two!\nWhere have you been?	
+qev03_060.scr:1	qev03_060.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x1	ああ……。\nちっと野暮用で、な	Oh......\nJust had some business to handle.	
+qev03_060.scr:2	qev03_060.scr	2	フレン	Flynn Scifo	personagem	CRLF x2	エステリーゼ様……。\nご心配をお掛けして\n申し訳ありませんでした	Estellise......\nI apologize for\ncausing you worry.	
+qev03_060.scr:3	qev03_060.scr	3	エステル	Estelle	personagem	CRLF x1	もう、その用事というのは\n終わったのですか？	So, is this business of yours\nfinished now?	
+qev03_060.scr:4	qev03_060.scr	4	フレン	Flynn Scifo	personagem		……はい	......Yes.	
+qev03_060.scr:5	qev03_060.scr	5	エステル	Estelle	personagem	CRLF x1	そうですか。\nそれなら良かったです	I see.\nThat's good to hear.	
+qev03_060.scr:6	qev03_060.scr	6	エステル	Estelle	personagem	CRLF x1	二人の身に何かあったのではと\n心配していたんですよ	I was worried something might have\nhappened to you two.	
+qev03_060.scr:7	qev03_060.scr	7	フレン	Flynn Scifo	personagem		エステリーゼ様……	Estellise......	
+qev03_060.scr:8	qev03_060.scr	8	エステル	Estelle	personagem	CRLF x1	さあ、それでは二人とも\n行きましょう！	Now then, both of you,\nlet's go!	
+qev03_060.scr:9	qev03_060.scr	9	ユーリ	Yuri Lowell	personagem		行くって……	Go where......?	
+qev03_060.scr:10	qev03_060.scr	10	フレン	Flynn Scifo	personagem		どこへ、でしょうか……？	Where to, if I may ask......?	
+qev03_060.scr:11	qev03_060.scr	11	エステル	Estelle	personagem	CRLF x2	世界図書館ですよ。\n取り寄せていた本が届いたと\n連絡があったんです	The World Library, of course.\nI got word that the book I ordered\nhas arrived!	
+qev03_060.scr:12	qev03_060.scr	12	エステル	Estelle	personagem	CRLF x1	今度は、二人がわたしの用事に\n付き合ってくれる番、ですよね？	Now it's your turn to help me\nwith my errand, right?	
+qev03_060.scr:13	qev03_060.scr	13	ユーリ	Yuri Lowell	personagem	CRLF x1	やれやれ……。\n帰ってきてすぐこれかよ	Good grief......\nJust got back and it's this already.	
+qev03_060.scr:14	qev03_060.scr	14	フレン	Flynn Scifo	personagem	CRLF x1	エステリーゼ様の頼みでしたら、\n私は喜んで、ご一緒させて頂きます	If it is Estellise's wish,\nI would be happy to accompany you.	
+qev03_060.scr:15	qev03_060.scr	15	エステル	Estelle	personagem	CRLF x1	二人ならそう言ってくれると\n思っていました！	I knew you two\nwould say that!	
+qev03_060.scr:16	qev03_060.scr	16	エステル	Estelle	personagem	CRLF x2	それじゃわたし、\n支度をして来ますから。\n少し待ってて下さいね	Well then, let me go\nget ready.\nPlease wait just a moment!	
+qev03_060.scr:17	qev03_060.scr	17	ユーリ	Yuri Lowell	personagem	CRLF x1	お前のお人好しも、\n大概だな……	Your soft-heartedness\nknows no bounds......	
+qev03_060.scr:18	qev03_060.scr	18	フレン	Flynn Scifo	personagem	CRLF x1	ははっ。\nユーリには、言われたくないさ	Ha.\nYuri, you're one to talk.	
+qev03_070.scr:0	qev03_070.scr	0	ユーリ	Yuri Lowell	personagem		お招きどうもありがとさん	Thanks for the warm invitation.	
+qev03_070.scr:1	qev03_070.scr	1	フレン	Flynn Scifo	personagem		気持ちは変わらないのか	So your mind hasn't changed?	
+qev03_070.scr:2	qev03_070.scr	2	ユーリ	Yuri Lowell	personagem		何度も言わせんなって	Don't make me say it again.	
+qev03_070.scr:3	qev03_070.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x2	お前には、お前の。\nオレには、オレのやり方がある。\nそんだけの話だろ	You have your way.\nI have mine.\nThat's all there is to it.	
+qev03_070.scr:4	qev03_070.scr	4	フレン	Flynn Scifo	personagem	CRLF x1	万人が等しく扱われる法秩序を築く……。\nそれが僕の願いであり、目的だ	To build a just order where all are\ntreated equally... That is my wish.	
+qev03_070.scr:5	qev03_070.scr	5	フレン	Flynn Scifo	personagem	CRLF x2	だけどユーリ、君だって思いは同じはず。\nだからこそ、一度は騎士団の門を\n叩いたんだろう？	But Yuri, you must feel the same.\nThat's exactly why you once knocked\non the Knights' door, isn't it?	
+qev03_070.scr:6	qev03_070.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x2	じゃあ、お前、騎士団に入って\n何か変わったのか？\n変えられたのかよ？	So, did joining the Knights\nchange anything?\nDid you change anything?	
+qev03_070.scr:7	qev03_070.scr	7	フレン	Flynn Scifo	personagem	CRLF x2	確かに、まだやりきれていない事はある。\nだからと言って君の様に、\n人が人を裁く道を肯定する事は出来ない	True, there's still work undone.\nBut I cannot condone your way--\nwhere one person judges another.	
+qev03_070.scr:8	qev03_070.scr	8	フレン	Flynn Scifo	personagem		認めるわけにはいかないんだ……	I can't allow it......	
+qev03_070.scr:9	qev03_070.scr	9	フレン	Flynn Scifo	personagem	CRLF x1	……もう一度聞く。\nそれでも、気持ちは変わらないか？	......I'll ask once more.\nEven so, your mind won't change?	
+qev03_070.scr:10	qev03_070.scr	10	ユーリ	Yuri Lowell	personagem		いい加減、この問答にも飽きてきたな	I'm tired of this back-and-forth.	
+qev03_070.scr:11	qev03_070.scr	11	フレン	Flynn Scifo	personagem		そうか……ならば	I see......then.	
+qev03_070.scr:12	qev03_070.scr	12	フレン	Flynn Scifo	personagem	CRLF x1	こうするより他に\n道はないという事だな	There's no other way\nbut to do this.	
+qev03_070.scr:13	qev03_070.scr	13	ユーリ	Yuri Lowell	personagem		そういうこったな	Guess so.	
+qev03_070.scr:14	qev03_070.scr	14	ユーリ	Yuri Lowell	personagem		んじゃ、行くぜ！	All right, let's go!	
+qev03_080.scr:0	qev03_080.scr	0	フレン	Flynn Scifo	personagem	CRLF x2	ユーリ……。\nあえて罪人の道を行くというのなら、\n僕の取るべき行動は一つだ	Yuri......\nIf you insist on walking the path\nof a sinner, I have but one duty.	
+qev03_080.scr:1	qev03_080.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x2	そう何度も\n同じ結果になると思ったら\n大間違いだぜ	Don't think you'll get\nthe same result\nevery time.	
+qev03_080.scr:2	qev03_080.scr	2	フレン	Flynn Scifo	personagem		……行くぞ、ユーリ！！	......Let's go, Yuri!!	

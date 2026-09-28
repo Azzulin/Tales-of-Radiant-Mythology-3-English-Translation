@@ -1,0 +1,90 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev31_010.scr:0	qev31_010.scr	0	ルーク	Luke fon Fabre	personagem	CRLF x1	おっ、○○\nいいところに来たな！		
+qev31_010.scr:1	qev31_010.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x1	実はさ、頼みがあんだ。\nティアや師匠達にはナイショでさ		
+qev31_010.scr:2	qev31_010.scr	2	(ator 200)	(ator 200)	desconhecido		…………		
+qev31_010.scr:3	qev31_010.scr	3	ルーク	Luke fon Fabre	personagem	CRLF x2	つってもまあ、難しい事じゃねえ。\n知られたら、まぁた周りが大騒ぎして\n変に面倒な事になっからよ		
+qev31_010.scr:4	qev31_010.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x1	ちょっくら、お忍びで外出っつーわけだ。\n……ってなわけ、で		
+qev31_010.scr:5	qev31_010.scr	5	ルーク	Luke fon Fabre	personagem		○○、お前も付き合え		
+qev31_010.scr:6	qev31_010.scr	6	(ator 200)	(ator 200)	desconhecido		…………		
+qev31_010.scr:7	qev31_010.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x1	言っとくが、\nお前に選択権はないからな		
+qev31_010.scr:8	qev31_010.scr	8	ルーク	Luke fon Fabre	personagem	CRLF x2	いいか。\nこの事は絶っ対に誰にも言うなよ？\n詳しい事は、あ〜……適当にまた連絡すっから		
+qev31_010.scr:9	qev31_010.scr	9	(ator 200)	(ator 200)	desconhecido		…………		
+qev31_010.scr:10	qev31_010.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x2	く〜っ。\nこれでちっとは、毎日\n退屈しないですみそうだぜ！		
+qev31_010.scr:11	qev31_010.scr	11	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「ルーク様ご一行」が\nエントリーされました。\nルークから受ける事が出来ます		
+qev31_020.scr:0	qev31_020.scr	0	ルーク	Luke fon Fabre	personagem	CRLF x1	ったく、遅せーっつーの。\n日が暮れちまうかと思ったぜ		
+qev31_020.scr:1	qev31_020.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x1	んじゃ、うるせー奴らに\n見つかる前に出発するぞ		
+qev31_030.scr:0	qev31_030.scr	0	ルーク	Luke fon Fabre	personagem		だぁ〜〜〜っ！		
+qev31_030.scr:1	qev31_030.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x1	何だよ、この暑さ！\n暑くて焼け死ぬっつーの！！		
+qev31_030.scr:2	qev31_030.scr	2	(ator 200)	(ator 200)	desconhecido		…………		
+qev31_030.scr:3	qev31_030.scr	3	ルーク	Luke fon Fabre	personagem	CRLF x1	クソッ！\nさっさと合流しねぇと……		
+qev31_030.scr:4	qev31_030.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x1	おい、○○。\nモタモタすんなよ！		
+qev31_040.scr:0	qev31_040.scr	0	ルーク	Luke fon Fabre	personagem	CRLF x1	あ〜……。\nあちーな、くそっ……		
+qev31_040.scr:1	qev31_040.scr	1	ルーク	Luke fon Fabre	personagem		う〜〜ぜ〜〜〜〜！！		
+qev31_040.scr:2	qev31_040.scr	2	ルーク	Luke fon Fabre	personagem	CRLF x1	おい、○○。\n水！		
+qev31_040.scr:3	qev31_040.scr	3	(ator 200)	(ator 200)	desconhecido		……？		
+qev31_040.scr:4	qev31_040.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x1	何、ボケーッとしてんだ。\n水だよ、水		
+qev31_040.scr:5	qev31_040.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x2	……って、まさかお前。\n持ってきてねえとか\n言うんじゃねえだろうな？		
+qev31_040.scr:6	qev31_040.scr	6	(ator 200)	(ator 200)	desconhecido		…………		
+qev31_040.scr:7	qev31_040.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x1	かーーっ、マジかよ！？\nありえねーっつーの！！		
+qev31_040.scr:8	qev31_040.scr	8	ルーク	Luke fon Fabre	personagem	CRLF x1	砂漠だぞ砂漠！　水分補給は必須だろ？\nお前、俺に干からびて死ねっつーのか！		
+qev31_040.scr:9	qev31_040.scr	9	ルーク	Luke fon Fabre	personagem		俺を誰だと思ってんだ、あぁ！？		
+qev31_040.scr:10	qev31_040.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x2	……ちっ。\nしょうがねえ。\nあいつと合流すれば何とかなるだろ		
+qev31_040.scr:11	qev31_040.scr	11	ルーク	Luke fon Fabre	personagem		そういう部分は、いつも抜かりねえからな		
+qev31_040.scr:12	qev31_040.scr	12	ルーク	Luke fon Fabre	personagem	CRLF x1	おい、もたもたすんなよ？\n遅れたら、お前の分の水はねーからな！		
+qev31_040.scr:13	qev31_040.scr	13	ルーク	Luke fon Fabre	personagem	CRLF x2	ああそれと、先に言っておくけどな。\nあいつに会っても、お前は軽々しく\n近付いたりするんじゃねーぞ		
+qev31_040.scr:14	qev31_040.scr	14	(ator 200)	(ator 200)	desconhecido		……？		
+qev31_040.scr:15	qev31_040.scr	15	ルーク	Luke fon Fabre	personagem	CRLF x1	だーっ、めんどくせー！！\nいちいち説明を求めんな！		
+qev31_040.scr:16	qev31_040.scr	16	ルーク	Luke fon Fabre	personagem	CRLF x1	とにかく、俺の言った通りに\nすればいいんだよ！		
+qev31_040.scr:17	qev31_040.scr	17	ルーク	Luke fon Fabre	personagem		おら、行くぞ！！		
+qev31_050.scr:0	qev31_050.scr	0	ルーク	Luke fon Fabre	personagem	CRLF x1	おっ。\nいたいた		
+qev31_050.scr:1	qev31_050.scr	1	ルーク	Luke fon Fabre	personagem		おーい、ガイ！		
+qev31_050.scr:2	qev31_050.scr	2	ガイ	Guy Cecil	personagem		ルーク……か？		
+qev31_050.scr:3	qev31_050.scr	3	ガイ	Guy Cecil	personagem		お前、どうしてここに……		
+qev31_050.scr:4	qev31_050.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x2	ガイがこっちに向かってるって言うからさ。\n迎えに行ってやろうと思ってよ！\nへへっ		
+qev31_050.scr:5	qev31_050.scr	5	ガイ	Guy Cecil	personagem	CRLF x1	という事は、また黙って\n抜け出して来たんだな？		
+qev31_050.scr:6	qev31_050.scr	6	ガイ	Guy Cecil	personagem	CRLF x1	相変わらず無茶ばかりする……。\nええと……そちらは？		
+qev31_050.scr:7	qev31_050.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x2	あ？　○○か。\n俺が今、世話んなってる\nギルドの奴		
+qev31_050.scr:8	qev31_050.scr	8	ガイ	Guy Cecil	personagem	CRLF x1	ああ、あなたが。\nお話は伺っています		
+qev31_050.scr:9	qev31_050.scr	9	ガイ	Guy Cecil	personagem	CRLF x2	俺はガイ。\nファブレ家でお世話に\nなっている使用人です		
+qev31_050.scr:10	qev31_050.scr	10	ガイ	Guy Cecil	personagem		よろしく		
+qev31_050.scr:11	qev31_050.scr	11	(ator 200)	(ator 200)	desconhecido		…………		
+qev31_050.scr:12	qev31_050.scr	12	ルーク	Luke fon Fabre	personagem	CRLF x2	だーっ。　ったく、挨拶なんかいいだろ！\nそれよりガイ、お前、水持ってないか？\n俺もう、喉がカラカラで		
+qev31_050.scr:13	qev31_050.scr	13	ガイ	Guy Cecil	personagem	CRLF x1	はいはい、ルーク坊ちゃん。\n水なら、このボトルの中に……		
+qev31_050.scr:14	qev31_050.scr	14	ルーク	Luke fon Fabre	personagem	CRLF x1	おお、さすがガイ！\n水、水！！		
+qev31_050.scr:15	qev31_050.scr	15	ガイ	Guy Cecil	personagem		……っとと！		
+qev31_050.scr:16	qev31_050.scr	16	ガイ	Guy Cecil	personagem	CRLF x2	ああ……すまない。\n支えてくれて助かったよ、\n○○		
+qev31_050.scr:17	qev31_050.scr	17	(ator 200)	(ator 200)	desconhecido		…………		
+qev31_050.scr:18	qev31_050.scr	18	ルーク	Luke fon Fabre	personagem	CRLF x1	ごくごく……ぷは〜っ。\n生き返ったぜ〜		
+qev31_050.scr:19	qev31_050.scr	19	ガイ	Guy Cecil	personagem	CRLF x1	ははっ。\n全く……		
+qev31_050.scr:20	qev31_050.scr	20	ガイ	Guy Cecil	personagem	CRLF x2	さて、と。\nそれじゃ、ここからは俺も\nお供するとしましょうか		
+qev31_050.scr:21	qev31_050.scr	21	ガイ	Guy Cecil	personagem	CRLF x1	ルークの世話は、とにかく\n手がかかるもので		
+qev31_050.scr:22	qev31_050.scr	22	ルーク	Luke fon Fabre	personagem		なーんか言ったか？		
+qev31_050.scr:23	qev31_050.scr	23	ガイ	Guy Cecil	personagem		いいや、何も？		
+qev31_050.scr:24	qev31_050.scr	24	ガイ	Guy Cecil	personagem	CRLF x1	ひっ。\nく、来るな！		
+qev31_050.scr:25	qev31_050.scr	25	(ator 200)	(ator 200)	desconhecido		…………		
+qev31_050.scr:26	qev31_050.scr	26	ガイ	Guy Cecil	personagem	CRLF x1	ああ、いや、違うんだ。\n君がどうというわけじゃ……		
+qev31_050.scr:27	qev31_050.scr	27	ルーク	Luke fon Fabre	personagem	CRLF x1	あー……、だから言ったろ？\n近付くなって		
+qev31_050.scr:28	qev31_050.scr	28	ルーク	Luke fon Fabre	personagem		こいつ、女嫌いなんだ		
+qev31_050.scr:29	qev31_050.scr	29	ガイ	Guy Cecil	personagem	CRLF x1	違うぞ、ルーク。\n俺は、女性は大好きだ		
+qev31_050.scr:30	qev31_050.scr	30	ガイ	Guy Cecil	personagem	CRLF x1	ただ、その……、\n少し、苦手なだけで		
+qev31_050.scr:31	qev31_050.scr	31	ルーク	Luke fon Fabre	personagem	CRLF x1	はいはい。\nそうでしたね、と		
+qev31_050.scr:32	qev31_050.scr	32	ルーク	Luke fon Fabre	personagem	CRLF x1	ごくごく……ぷは〜っ。\n生き返ったぜ〜		
+qev31_050.scr:33	qev31_050.scr	33	ガイ	Guy Cecil	personagem	CRLF x1	ははっ。\n呑気なもんだな、全く……		
+qev31_050.scr:34	qev31_050.scr	34	ガイ	Guy Cecil	personagem	CRLF x2	さて、と。\nそれじゃ、ここからは俺も\nお供するとしましょうか		
+qev31_050.scr:35	qev31_050.scr	35	ガイ	Guy Cecil	personagem	CRLF x1	ルークの世話は、とにかく\n手がかかるもので		
+qev31_050.scr:36	qev31_050.scr	36	ルーク	Luke fon Fabre	personagem		なーんか言ったか？		
+qev31_050.scr:37	qev31_050.scr	37	ガイ	Guy Cecil	personagem		いいや、何も？		
+qev31_060.scr:0	qev31_060.scr	0	ルーク	Luke fon Fabre	personagem	CRLF x2	は〜、やっと帰ってきたぜ。\nあやうく干からびて\n死ぬとこだったっつーの……		
+qev31_060.scr:1	qev31_060.scr	1	ガイ	Guy Cecil	personagem	CRLF x2	ははは。\n確かに、ルーク坊ちゃんにとっては\n久しぶりの「冒険」だったな		
+qev31_060.scr:2	qev31_060.scr	2	ガイ	Guy Cecil	personagem	CRLF x2	疲れたなら、\n先に部屋で休んでていいぞ。\n俺も後からすぐ行くから		
+qev31_060.scr:3	qev31_060.scr	3	ルーク	Luke fon Fabre	personagem	CRLF x1	……そうすっか。\nんじゃ、後は適当に頼むわ		
+qev31_060.scr:4	qev31_060.scr	4	ガイ	Guy Cecil	personagem	CRLF x2	迷惑をかけてすまなかったな。\nあいつ、ガッチガチの箱入りなもんで\nちょっとわがままが目立つと思うが……		
+qev31_060.scr:5	qev31_060.scr	5	ガイ	Guy Cecil	personagem	CRLF x1	悪気はないんだ。\n目をつぶってやってくれ		
+qev31_060.scr:6	qev31_060.scr	6	(ator 200)	(ator 200)	desconhecido		…………		
+qev31_060.scr:7	qev31_060.scr	7	ガイ	Guy Cecil	personagem	CRLF x1	……それにしても……、\nここは女性が多いんだな……		
+qev31_060.scr:8	qev31_060.scr	8	(ator 200)	(ator 200)	desconhecido		……？		
+qev31_060.scr:9	qev31_060.scr	9	ガイ	Guy Cecil	personagem	CRLF x2	ああいや、何でもない。\n気にしないでくれ。\nはは……		
+qev31_060.scr:10	qev31_060.scr	10	ガイ	Guy Cecil	personagem	CRLF x2	それと……さっきは、その\nすまなかった。\n気を悪くしないでくれ		
+qev31_060.scr:11	qev31_060.scr	11	(ator 200)	(ator 200)	desconhecido		……？		
+qev31_060.scr:12	qev31_060.scr	12	ガイ	Guy Cecil	personagem	CRLF x2	まあ、とにかくだ。\nこれからここで厄介になる。\n一つ、よろしく頼むよ		
+qev31_060.scr:13	qev31_060.scr	13	(mensagem de sistema)	(mensagem de sistema)	sistema		ガイがアドリビトムに加入しました		

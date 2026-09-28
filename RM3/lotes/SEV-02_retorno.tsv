@@ -1,0 +1,78 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+sev02_010.scr:0	sev02_010.scr	0	キール	Keele Zeibel	personagem	CRLF x2	アンジュ。\n新しいリングスポットの場所が\nわかったぞ	Ange.\nI've found the location of a new\nRing Spot.	
+sev02_010.scr:1	sev02_010.scr	1	アンジュ	Ange Serena	personagem		まあ、ほんとに？	My, really?	
+sev02_010.scr:2	sev02_010.scr	2	キール	Keele Zeibel	personagem	CRLF x2	場所はカダイフ砂漠だ。\nここで新たな自然界の息吹を得れば、\nリングに新しい機能が生まれるはずだ	The location is Kadaif Desert.\nIf we receive a new breath of nature\nthere, the ring should gain a new power.	
+sev02_010.scr:3	sev02_010.scr	3	アンジュ	Ange Serena	personagem		○○、聞いた？	Did you hear that, ○○?	
+sev02_010.scr:4	sev02_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	あなたが持ってるソーサラーリング、\nもっと使える様にして欲しいな♪	I'd love for your Sorcerer's Ring\nto become even more useful!	
+sev02_010.scr:5	sev02_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	これから依頼として登録するから、\nヨロシクね！	I'll register it as a quest now,\nso I'm counting on you!	
+sev02_020.scr:0	sev02_020.scr	0	アンジュ	Ange Serena	personagem		じゃあ、依頼の説明をするね	All right, I'll explain the quest.	
+sev02_020.scr:1	sev02_020.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	今回あなたには、ソーサラーリングの\n効力を上げる為に、新しいリングスポットへ\n行ってもらいます	This time, I need you to head to a new\nRing Spot to increase the power of the\nSorcerer's Ring.	
+sev02_020.scr:2	sev02_020.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	えーっと。\n詳しい話は、キール君に\nお願いしちゃおうかな	Um...\nI think I'll leave the details\nto Keele.	
+sev02_020.scr:3	sev02_020.scr	3	キール	Keele Zeibel	personagem		じゃあ、手短に説明するぞ	Then I'll make this brief.	
+sev02_020.scr:4	sev02_020.scr	4	キール	Keele Zeibel	personagem	CRLF x2	今回目指すリングスポットは、\nカダイフ砂漠奥地の赤い水が湧く、\n「赤のオアシス」という所にある	The Ring Spot we seek is located deep in\nKadaif Desert, at a place called the\nRed Oasis, where red water springs up.	
+sev02_020.scr:5	sev02_020.scr	5	キール	Keele Zeibel	personagem	CRLF x1	ただし、そこは立ち入れない様に\n壁が作られている	However, a wall was built there\nto prevent anyone from entering.	
+sev02_020.scr:6	sev02_020.scr	6	アンジュ	Ange Serena	personagem		どうして壁が作られているの？	Why was a wall built there?	
+sev02_020.scr:7	sev02_020.scr	7	キール	Keele Zeibel	personagem	CRLF x2	文献によると、赤い水に不吉なものを感じた\n大昔の民が、人が立ち入らない様に\n作ったものだそうだ	According to records, ancient people felt\nthe red water was an ill omen, so they\nbuilt it to keep people away.	
+sev02_020.scr:8	sev02_020.scr	8	キール	Keele Zeibel	personagem	CRLF x2	実際は、ただの鉄分が多く含まれた水って\nだけだろうけど、昔の人からはその色から\n忌むべき場所と考えたんだろう	In truth, it was likely just water rich\nin iron, but ancient folk must have seen\nit as an ominous place from its color.	
+sev02_020.scr:9	sev02_020.scr	9	キール	Keele Zeibel	personagem	CRLF x1	さて、目的の為に壁を壊す必要がある。\nこの爆弾を持っていってくれ	Now, we need to break that wall for our\ngoal. Take this bomb with you.	
+sev02_020.scr:10	sev02_020.scr	10	アンジュ	Ange Serena	personagem	CRLF x1	同行者は、コレットとコハクよ。\n爆弾の取り扱いにはくれぐれも注意してね	Your companions are Colette and Kohaku.\nPlease be very careful handling the bomb!	
+sev02_020.scr:11	sev02_020.scr	11	アンジュ	Ange Serena	personagem		それじゃあ、行ってらっしゃい！	Well then, have a safe trip!	
+sev02_030.scr:0	sev02_030.scr	0	コレット	Colette Brunel	personagem	CRLF x2	ねえねえ。\nこれから行く赤のオアシスって、\nどんな所だろ？	Hey, hey.\nWhat kind of place is the Red Oasis\nwe're heading to, I wonder?	
+sev02_030.scr:1	sev02_030.scr	1	コハク	Kohaku Hearts	personagem	CRLF x1	大昔の人が不吉に思ったくらいだから、\n血の色かもしれないよ	Ancient people thought it an ill omen,\nso it might be the color of blood.	
+sev02_030.scr:2	sev02_030.scr	2	コレット	Colette Brunel	personagem	CRLF x2	そっかぁ〜。\nいちごのジャムみたいな水だったら\nいいのにね	I see...\nIf only the water were like\nstrawberry jam, that'd be nice.	
+sev02_030.scr:3	sev02_030.scr	3	コレット	Colette Brunel	personagem	CRLF x2	一杯取って、好きなだけ\nアイスやヨーグルトにかけたり\n出来るから	We could take plenty and pour as much\nas we want over ice cream\nor yogurt.	
+sev02_030.scr:4	sev02_030.scr	4	コハク	Kohaku Hearts	personagem	CRLF x1	ジャムかぁ。\nわたしだったら、赤ミソがいいな！	Jam, huh?\nIf it were me, I'd prefer red miso!	
+sev02_030.scr:5	sev02_030.scr	5	コレット	Colette Brunel	personagem	CRLF x1	赤くておいしそうなものって、\n他に何があるかな？	What else is there that's red and\ntasty, I wonder?	
+sev02_030.scr:6	sev02_030.scr	6	コハク	Kohaku Hearts	personagem		う〜ん…、意外と思い付かないね	Hmm... Surprisingly, none come to mind.	
+sev02_040.scr:0	sev02_040.scr	0	コレット	Colette Brunel	personagem	CRLF x2	喉が渇いちゃった。\nこの辺で一休みして、\nお水飲んでもいいかな？	I've gotten thirsty.\nCan we take a break around here\nand drink some water?	
+sev02_040.scr:1	sev02_040.scr	1	コハク	Kohaku Hearts	personagem	CRLF x2	あっ、じゃあわたしが持って来た\nキュウリ食べる？\nミソも付けてあげるよ	Ah, then how about a cucumber I brought?\nDo you want one?\nI'll put some miso on it too!	
+sev02_040.scr:2	sev02_040.scr	2	コレット	Colette Brunel	personagem		きゅうりにミソ？	Miso on a cucumber?	
+sev02_040.scr:3	sev02_040.scr	3	コハク	Kohaku Hearts	personagem	CRLF x2	キュウリは軽食になるし、水分も取れるよ。\nそれに、汗で出た塩分はミソで\n補給出来るでしょ？	Cucumbers make a light snack and hydrate.\nPlus, miso restores the salt\nlost from sweat, right?	
+sev02_040.scr:4	sev02_040.scr	4	コハク	Kohaku Hearts	personagem	CRLF x1	はい、一本どうぞ。\n○○も食べてね！	Here, have one!\n○○, you eat one too!	
+sev02_040.scr:5	sev02_040.scr	5	コレット	Colette Brunel	personagem	CRLF x2	すごーい。\nミソでくるまって、\nキュウリが全然見えないよ〜？	Amazing.\nIt's so covered in miso that I can't\neven see the cucumber at all!	
+sev02_040.scr:6	sev02_040.scr	6	コレット	Colette Brunel	personagem	CRLF x1	こんなに一気にミソ食べて、\nだいじょぶかな？	Is it really okay to eat this much\nmiso all at once?	
+sev02_040.scr:7	sev02_040.scr	7	コハク	Kohaku Hearts	personagem	CRLF x1	どう？\n美味しいでしょ？	How is it?\nDelicious, right?	
+sev02_040.scr:8	sev02_040.scr	8	コハク	Kohaku Hearts	personagem	CRLF x2	それじゃあ、バナナも持って来たから\nミソ付けてあげるね！\nマイミソ、一杯持ってきてるから！	I also brought bananas, so I'll add\nmiso to those too!\nI brought plenty of my miso!	
+sev02_040.scr:9	sev02_040.scr	9	コレット	Colette Brunel	personagem	CRLF x2	わぁ〜。\nコハクって、\nホントにミソが好きなんだねぇ〜	Whoa~.\nKohaku, you really love\nmiso, don't you~?	
+sev02_040.scr:10	sev02_040.scr	10	コハク	Kohaku Hearts	personagem	CRLF x1	慌てて食べるからだよ。\nでも、気に入ってくれたんだね！	That's because you ate in a rush!\nStill, you liked it, didn't you?!	
+sev02_040.scr:11	sev02_040.scr	11	コハク	Kohaku Hearts	personagem	CRLF x1	じゃあ、はい！\nミソ増量してあげる！	Well then, here!\nI'll give you extra miso!	
+sev02_040.scr:12	sev02_040.scr	12	コハク	Kohaku Hearts	personagem		コレットも、ミソもう少しいる？	Colette, do you want a bit more miso too?	
+sev02_040.scr:13	sev02_040.scr	13	コレット	Colette Brunel	personagem	CRLF x2	え？\nううん。\n私は平気だよ	Huh?\nNo, no.\nI'm fine!	
+sev02_040.scr:14	sev02_040.scr	14	コハク	Kohaku Hearts	personagem		そう？　遠慮しなくていいのにな	Really? You don't have to hold back.	
+sev02_040.scr:15	sev02_040.scr	15	コハク	Kohaku Hearts	personagem	CRLF x1	このくらい全然平気なのに。\n他にも、色々付けるんだよ！	This amount is totally fine.\nI put it on all sorts of things too!	
+sev02_040.scr:16	sev02_040.scr	16	コハク	Kohaku Hearts	personagem	CRLF x2	特に桜餅とかに付けると美味しいんだけど、\nみんなわたしの事、\nミソミソって言うんだよね	It's especially good on sakura mochi,\nbut everyone keeps calling me\nMiso-Miso, you know.	
+sev02_040.scr:17	sev02_040.scr	17	コレット	Colette Brunel	personagem	CRLF x1	そういえば、コハクは\nずっとミソを持ち歩いてるね	Come to think of it, Kohaku,\nyou carry miso around all the time.	
+sev02_040.scr:18	sev02_040.scr	18	コハク	Kohaku Hearts	personagem	CRLF x2	うん、マイミソなの。\nいつでもすぐに食べられるから、\n便利でしょ？	Yep, it's my miso.\nIt's so handy because I can eat it\nanytime right away, right?	
+sev02_040.scr:19	sev02_040.scr	19	コレット	Colette Brunel	personagem		ホントにミソが好きなんだねえ	You really do love miso, huh?	
+sev02_040.scr:20	sev02_040.scr	20	(opcao do jogador)	(opcao do jogador)	escolha		ミソキュウリをかじる	Bite into the miso cucumber	
+sev02_040.scr:21	sev02_040.scr	21	(opcao do jogador)	(opcao do jogador)	escolha		身体によくない、とたしなめる	Warn that it's bad for health	
+sev02_040.scr:22	sev02_040.scr	22	(opcao do jogador)	(opcao do jogador)	escolha		うなずく	Nod in agreement	
+sev02_040.scr:23	sev02_040.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		慌てて水を飲む	Frantically drink water	
+sev02_050.scr:0	sev02_050.scr	0	コレット	Colette Brunel	personagem		ここが赤のオアシス…だよね？	This is the Red Oasis... right?	
+sev02_050.scr:1	sev02_050.scr	1	コハク	Kohaku Hearts	personagem		邪魔されちゃってるなあ…	We're being blocked...	
+sev02_050.scr:2	sev02_050.scr	2	コハク	Kohaku Hearts	personagem	CRLF x1	でも、ここに用があるんだから\nさっさとボコメキョにしちゃおう！	But we have business here,\nso let's beat 'em to a pulp already!	
+sev02_060.scr:0	sev02_060.scr	0	コハク	Kohaku Hearts	personagem	CRLF x1	行くよ、○○、コレット！\n今度こそやっつけよう！	Let's go, ○○, Colette!\nLet's take them down this time!	
+sev02_070.scr:0	sev02_070.scr	0	コハク	Kohaku Hearts	personagem	CRLF x1	えっと…、この壁の向こうに\n赤のオアシスがあるんだね	Um... So the Red Oasis is on the other\nside of this wall, right?	
+sev02_070.scr:1	sev02_070.scr	1	コレット	Colette Brunel	personagem	CRLF x1	キールが持たせてくれた爆弾で\n壁を壊すんだね	We're going to break the wall with\nthe bomb Keele gave us, right?	
+sev02_070.scr:2	sev02_070.scr	2	コハク	Kohaku Hearts	personagem		じゃあ、爆弾を早く仕掛けよう	Then let's set the bomb quickly.	
+sev02_070.scr:3	sev02_070.scr	3	コレット	Colette Brunel	personagem	CRLF x1	○○、\n私もお手伝いするね	○○,\nI'll help out too!	
+sev02_070.scr:4	sev02_070.scr	4	コレット	Colette Brunel	personagem		あ、あれ…？	H-Huh...?	
+sev02_070.scr:5	sev02_070.scr	5	コレット	Colette Brunel	personagem		ごめんね、倒れちゃったみたい…	I'm sorry, it looks like I fell down...	
+sev02_070.scr:6	sev02_070.scr	6	コハク	Kohaku Hearts	personagem		あ、謝る事はないんじゃないかな	I-I don't think you need to apologize.	
+sev02_070.scr:7	sev02_070.scr	7	コハク	Kohaku Hearts	personagem	CRLF x1	でも、大昔からあった、誰も通さない壁が\nあっさり倒れちゃうなんて	Still, for an ancient impenetrable wall\nto fall down so easily...	
+sev02_070.scr:8	sev02_070.scr	8	コレット	Colette Brunel	personagem	CRLF x2	あ、そっか。\nもう爆弾で壊さなくても\n向こうに行けるんだね！	Oh, that's right!\nNow we can go across without having\nto break it with the bomb!	
+sev02_070.scr:9	sev02_070.scr	9	コハク	Kohaku Hearts	personagem	CRLF x1	でも、つまずく様な所なかったよね…？\nどうやって転んだの？	Still, there wasn't anything to trip on,\nright...? How did you fall?	
+sev02_070.scr:10	sev02_070.scr	10	コレット	Colette Brunel	personagem		…わかんない	...I don't know.	
+sev02_080.scr:0	sev02_080.scr	0	コレット	Colette Brunel	personagem	CRLF x1	わぁ〜。\nホントに赤い水が湧いてるね	Whoa~.\nRed water really is welling up!	
+sev02_080.scr:1	sev02_080.scr	1	コハク	Kohaku Hearts	personagem	CRLF x1	やっぱり、ミソじゃなかったかぁ。\nちょっとがっかり…	As expected, it wasn't miso.\nI'm a little disappointed...	
+sev02_080.scr:2	sev02_080.scr	2	コレット	Colette Brunel	personagem	CRLF x1	あ、ほら、○○。\nあそこにリングスポットがあるよ	Oh, look, ○○.\nThere's a Ring Spot over there!	
+sev02_080.scr:3	sev02_080.scr	3	コハク	Kohaku Hearts	personagem	CRLF x1	これでまた、ソーサラーリングの\n効力が上がったんだね	With this, the Sorcerer's Ring has\ngained more power once again!	
+sev02_080.scr:4	sev02_080.scr	4	コレット	Colette Brunel	personagem		うん、これで依頼は完了だね	Yeah, that completes our quest!	
+sev02_080.scr:5	sev02_080.scr	5	コレット	Colette Brunel	personagem		それじゃ、船に戻ろ？	Shall we head back to the ship then?	
+sev02_090.scr:0	sev02_090.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	お疲れ様。\nこれでまた、リングの効果が上がったね	Welcome back.\nThat boosted the ring's power again!	
+sev02_090.scr:1	sev02_090.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	キール君、新しい効果がどんなものか\nわかるかな？	Keele, do you know what the new\neffect is?	
+sev02_090.scr:2	sev02_090.scr	2	キール	Keele Zeibel	personagem		そうだな、今のリングの能力は…	Let's see, the ring's current power is...	
+sev02_090.scr:3	sev02_090.scr	3	キール	Keele Zeibel	personagem	CRLF x2	魔物に向かって撃つと、\nわずかな間だが相手の動きを\n止める事が出来るはずだ	If you shoot it at a monster, it should\nstop its movement, if only for a brief\nmoment.	
+sev02_090.scr:4	sev02_090.scr	4	キール	Keele Zeibel	personagem	CRLF x2	あとは、火の力が強まっているな。\n雪の塊くらいは溶かす事が\n出来るかもしれないぞ	Also, its fire power has grown stronger.\nIt might even be able to melt blocks\nof snow.	
+sev02_090.scr:5	sev02_090.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	じゃあ、そういった環境の所では\n活躍しそうね。\n良かったじゃない	Then it seems it'll be quite useful in\nthose environments.\nIsn't that wonderful?	
+sev02_090.scr:6	sev02_090.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	それじゃ、今回もご苦労様。\nまた仕事を受けに来てちょうだい	Well then, great job this time as well.\nPlease come take on more jobs again!	

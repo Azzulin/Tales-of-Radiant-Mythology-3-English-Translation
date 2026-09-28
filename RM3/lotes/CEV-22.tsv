@@ -1,0 +1,179 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev22_010.scr:0	cev22_010.scr	0	キール	Keele Zeibel	personagem	CRLF x1	今日は特別に\n屋外実験を行う許可をもらって来た		
+cev22_010.scr:1	cev22_010.scr	1	キール	Keele Zeibel	personagem	CRLF x2	正確な手順を踏めば\n魔術の素養のない人間でも\n簡単な火をおこす事が出来る実験だ		
+cev22_010.scr:2	cev22_010.scr	2	リッド	Reid Hershel	personagem		素養がなくて悪かったな！		
+cev22_010.scr:3	cev22_010.scr	3	カイウス	Caius Qualls	personagem	CRLF x1	実験はいいけどさ……。\nオレ、難しい事はよくわかんないぜ？		
+cev22_010.scr:4	cev22_010.scr	4	キール	Keele Zeibel	personagem	CRLF x2	問題ない。\nごく初歩的で簡単なものだからな。\n理論は後で説明する		
+cev22_010.scr:5	cev22_010.scr	5	キール	Keele Zeibel	personagem	CRLF x2	さて、さっきレンズを渡しただろう？\nこれに太陽光を当て、\n黒いものに向けるんだ		
+cev22_010.scr:6	cev22_010.scr	6	キール	Keele Zeibel	personagem		いいか、こうやって……		
+cev22_010.scr:7	cev22_010.scr	7	リッド	Reid Hershel	personagem		黒いもの、ねぇ……		
+cev22_010.scr:8	cev22_010.scr	8	ロックス	Rocks	personagem		ん？　何だか焦げ臭……		
+cev22_010.scr:9	cev22_010.scr	9	ロックス	Rocks	personagem		ちょ！　燃えてる！？		
+cev22_010.scr:10	cev22_010.scr	10	ロックス	Rocks	personagem		アチ、アチチチチ！		
+cev22_010.scr:11	cev22_010.scr	11	リッド	Reid Hershel	personagem		すっげー！　ホントに燃えたぜ！		
+cev22_010.scr:12	cev22_010.scr	12	キール	Keele Zeibel	personagem		バカ、人に向けて使う奴があるか！		
+cev22_010.scr:13	cev22_010.scr	13	カイウス	Caius Qualls	personagem		（リッドって……たまに天然だよなぁ）		
+cev22_020.scr:0	cev22_020.scr	0	キール	Keele Zeibel	personagem		今日も屋外での実験を行う		
+cev22_020.scr:1	cev22_020.scr	1	キール	Keele Zeibel	personagem	CRLF x1	空気が乾燥していて、環境としては\n理想的な条件が整っているからな		
+cev22_020.scr:2	cev22_020.scr	2	リッド	Reid Hershel	personagem		何でもいいけどよ		
+cev22_020.scr:3	cev22_020.scr	3	リッド	Reid Hershel	personagem		んで、今日はどういう実験なんだ		
+cev22_020.scr:4	cev22_020.scr	4	キール	Keele Zeibel	personagem	CRLF x2	正確な手順を踏めば、\n魔術の素養のない人間でも\n簡単な電気を起こす事が出来る実験だ		
+cev22_020.scr:5	cev22_020.scr	5	リッド	Reid Hershel	personagem	CRLF x1	また「素養がない」かよ……。\nつくづく嫌味な奴だな		
+cev22_020.scr:6	cev22_020.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	まあ、いいじゃないか。\nとにかくやるだけやってみようぜ		
+cev22_020.scr:7	cev22_020.scr	7	カイウス	Caius Qualls	personagem	CRLF x1	キール、今日はこの\n板みたいなのを使うのか？		
+cev22_020.scr:8	cev22_020.scr	8	キール	Keele Zeibel	personagem	CRLF x2	そうだ。\nこの薄い板を衣服に軽く何度かこすり付ける。\nそして……		
+cev22_020.scr:9	cev22_020.scr	9	キール	Keele Zeibel	personagem	CRLF x1	このテーブルに置いた風船に\n近づけてみる		
+cev22_020.scr:10	cev22_020.scr	10	カイウス	Caius Qualls	personagem	CRLF x1	風船が板にくっ付いた！！\nすっげえ！		
+cev22_020.scr:11	cev22_020.scr	11	キール	Keele Zeibel	personagem	CRLF x2	だろう？\nこれは、摩擦で起きる\n微粒子の対流が……		
+cev22_020.scr:12	cev22_020.scr	12	リッド	Reid Hershel	personagem	CRLF x1	すっげえ！\nホントにくっ付いたぜ！		
+cev22_020.scr:13	cev22_020.scr	13	カイウス	Caius Qualls	personagem	CRLF x1	キールの髪\nめちゃくちゃ逆立ってる！！		
+cev22_020.scr:14	cev22_020.scr	14	キール	Keele Zeibel	personagem		リッド！　真面目にやれよ！！		
+cev22_020.scr:15	cev22_020.scr	15	リッド	Reid Hershel	personagem	CRLF x1	何だよ、お前の言う通り\n実験してるんだろ		
+cev22_020.scr:16	cev22_020.scr	16	リッド	Reid Hershel	personagem		何で怒るんだよ		
+cev22_020.scr:17	cev22_020.scr	17	キール	Keele Zeibel	personagem		ぼくの髪で実験したからだ！！		
+cev22_030.scr:0	cev22_030.scr	0	ジュディス	Judith	personagem		少し休憩しましょうか？		
+cev22_030.scr:1	cev22_030.scr	1	キール	Keele Zeibel	personagem		ひ……必要ない		
+cev22_030.scr:2	cev22_030.scr	2	キール	Keele Zeibel	personagem	CRLF x2	この先に、ぼく達の……いや\nこの世界の全ての学者が渇望する\n真実があるかもしれないんだ		
+cev22_030.scr:3	cev22_030.scr	3	キール	Keele Zeibel	personagem	CRLF x1	それを思えば\nこれくらい……何ともないさ		
+cev22_030.scr:4	cev22_030.scr	4	ジュディス	Judith	personagem		そう……		
+cev22_030.scr:5	cev22_030.scr	5	ジュディス	Judith	personagem		ねえ、キール？		
+cev22_030.scr:6	cev22_030.scr	6	キール	Keele Zeibel	personagem		なんだ……！？		
+cev22_030.scr:7	cev22_030.scr	7	ジュディス	Judith	personagem	CRLF x1	転ばない様に気を付けて。\n足が震えているわよ？		
+cev22_030.scr:8	cev22_030.scr	8	キール	Keele Zeibel	personagem	CRLF x1	紛らわしいタイミングで\n声を掛けるのはやめてくれ！		
+cev22_040.scr:0	cev22_040.scr	0	ジーニアス	Genis Sage	personagem	CRLF x1	じゃあ、ボク達の世界に似た世界が\n実は幾つも存在しているかもしれないの？		
+cev22_040.scr:1	cev22_040.scr	1	ジーニアス	Genis Sage	personagem	CRLF x2	っていう事は、ボク達だけど\nボク達じゃない存在が\n普通にいるかもしれないってこと？		
+cev22_040.scr:2	cev22_040.scr	2	キール	Keele Zeibel	personagem	CRLF x1	推論だが、その可能性は\n十分あり得るとぼくは考えている		
+cev22_040.scr:3	cev22_040.scr	3	キール	Keele Zeibel	personagem	CRLF x1	そもそも、世界樹の成り立ちを\n鑑みても……		
+cev22_040.scr:4	cev22_040.scr	4	キール	Keele Zeibel	personagem	CRLF x1	こ、この推論を裏付ける\n有力な証拠が、幾つか……		
+cev22_040.scr:5	cev22_040.scr	5	リッド	Reid Hershel	personagem		あ〜、うまかった		
+cev22_040.scr:6	cev22_040.scr	6	リッド	Reid Hershel	personagem	CRLF x2	おーい、キール。\nお前が残してたせんべい、\nもったいないから食っといてやったぞ		
+cev22_040.scr:7	cev22_040.scr	7	リッド	Reid Hershel	personagem		ああ、あとお茶もか		
+cev22_040.scr:8	cev22_040.scr	8	キール	Keele Zeibel	personagem		冗談だろ？		
+cev22_040.scr:9	cev22_040.scr	9	キール	Keele Zeibel	personagem	CRLF x1	あれは残したんじゃない、\n後で食べようと取っておいたんだ！！		
+cev22_040.scr:10	cev22_040.scr	10	リッド	Reid Hershel	personagem	CRLF x2	何だよ、食べるなら食べるって\n言っとけよ。\nわかんないじゃねえか		
+cev22_040.scr:11	cev22_040.scr	11	キール	Keele Zeibel	personagem		普通、食べる前に確認するだろ！		
+cev22_040.scr:12	cev22_040.scr	12	リッド	Reid Hershel	personagem	CRLF x1	ん〜。\nまあ、もういいじゃねえか		
+cev22_040.scr:13	cev22_040.scr	13	リッド	Reid Hershel	personagem	CRLF x1	ふあぁ……\nさて、昼寝、昼寝と……		
+cev22_040.scr:14	cev22_040.scr	14	ジーニアス	Genis Sage	personagem	CRLF x1	ねえ、キール？\nリッドってもしかして、いつも……		
+cev22_040.scr:15	cev22_040.scr	15	キール	Keele Zeibel	personagem	CRLF x2	そうなんだ！\nあの遠慮のカケラもない態度に加えて\n下品な食べ方！　俗悪な音！！		
+cev22_040.scr:16	cev22_040.scr	16	キール	Keele Zeibel	personagem	CRLF x1	何もかもが耐えられないのに、\n何度注意しても直らないんだ〜〜！！		
+cev22_040.scr:17	cev22_040.scr	17	ジーニアス	Genis Sage	personagem		苦労してるんだね……		
+cev22_050.scr:0	cev22_050.scr	0	キール	Keele Zeibel	personagem		この食感……この風味……		
+cev22_050.scr:1	cev22_050.scr	1	キール	Keele Zeibel	personagem	CRLF x2	ダメだ、やっぱり失敗だ！\nこんなものがパスタだなんて\nぼくは認められない！！		
+cev22_050.scr:2	cev22_050.scr	2	カノンノ	Kanonno Grassvalley	personagem		ちょっと待って、キール！		
+cev22_050.scr:3	cev22_050.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	せっかく作ったお料理なのに……\n捨てちゃうなんて、もったいないよ		
+cev22_050.scr:4	cev22_050.scr	4	キール	Keele Zeibel	personagem	CRLF x2	止めないでくれ、カノンノ。\nこのパスタは、パスタ本来の旨みを\n全く引き出せていないんだ		
+cev22_050.scr:5	cev22_050.scr	5	キール	Keele Zeibel	personagem	CRLF x2	ぼくが料理当番を務めるからには、\n道具、素材、調理……全てに妥協しない\n一品を作らなければ気が済まない！		
+cev22_050.scr:6	cev22_050.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	うん……。\n一生懸命なキールの気持ちもわかるよ。\nでもね……		
+cev22_050.scr:7	cev22_050.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	これから捨てる野菜や、麺や、お肉……。\n全部、誰かに食べてもらう為に加工されて\n今、私達の目の前にあるものなんだよ？		
+cev22_050.scr:8	cev22_050.scr	8	キール	Keele Zeibel	personagem		そ、それが……どうしたっていうんだ		
+cev22_050.scr:9	cev22_050.scr	9	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	お料理を捨ててしまう事は、\nその素材になる為に生まれてきた\n命を捨ててしまう事と同じ		
+cev22_050.scr:10	cev22_050.scr	10	キール	Keele Zeibel	personagem		…………		
+cev22_050.scr:11	cev22_050.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ね、もう一度考えてみて？\nこのパスタは、本当に\n捨てなければならないもの？		
+cev22_050.scr:12	cev22_050.scr	12	キール	Keele Zeibel	personagem	CRLF x2	……だ、だって……、\n美味くもないものを\n誰かに食べさせるなんて……		
+cev22_050.scr:13	cev22_050.scr	13	ティトレイ	Tytree Crowe	personagem	CRLF x1	おっ、いい匂いだなぁ。\nもう飯が出来てるのか？		
+cev22_050.scr:14	cev22_050.scr	14	ティトレイ	Tytree Crowe	personagem		どれ、ちょっと味見、と……		
+cev22_050.scr:15	cev22_050.scr	15	キール	Keele Zeibel	personagem		バ、バカ！　それは……		
+cev22_050.scr:16	cev22_050.scr	16	ティトレイ	Tytree Crowe	personagem	CRLF x1	おお〜〜！？\nなかなか美味いじゃねえか！		
+cev22_050.scr:17	cev22_050.scr	17	ティトレイ	Tytree Crowe	personagem	CRLF x1	キールって料理も出来るんだな。\nなぁ、今度このレシピ教えてくれよ		
+cev22_050.scr:18	cev22_050.scr	18	キール	Keele Zeibel	personagem		えっ……		
+cev22_050.scr:19	cev22_050.scr	19	キール	Keele Zeibel	personagem		ま……まぁ		
+cev22_050.scr:20	cev22_050.scr	20	キール	Keele Zeibel	personagem	CRLF x1	そうまで言うなら、\n教えてやらない事もないが……		
+cev22_050.scr:21	cev22_050.scr	21	ティトレイ	Tytree Crowe	personagem		本当か？　やったぜ！！		
+cev22_050.scr:22	cev22_050.scr	22	カノンノ	Kanonno Grassvalley	personagem		ふふ……		
+cev22_060.scr:0	cev22_060.scr	0	メルディ	Meredy	personagem	CRLF x1	キール！\n世界樹が事、聞いてもいいか？		
+cev22_060.scr:1	cev22_060.scr	1	キール	Keele Zeibel	personagem		今度は何なんだ……		
+cev22_060.scr:2	cev22_060.scr	2	キール	Keele Zeibel	personagem	CRLF x1	ぼくだって忙しいんだ。\n質問は手短に済ませてくれよ		
+cev22_060.scr:3	cev22_060.scr	3	メルディ	Meredy	personagem		はいな！　じゃ、いくよー		
+cev22_060.scr:4	cev22_060.scr	4	メルディ	Meredy	personagem	CRLF x2	世界樹、世界いっぱい生んだ。\nメルディ達が世界が他に、いっぱい。\nカノンノそう言ってたよ		
+cev22_060.scr:5	cev22_060.scr	5	メルディ	Meredy	personagem		だから、世界樹はきっとオカーサンな		
+cev22_060.scr:6	cev22_060.scr	6	キール	Keele Zeibel	personagem	CRLF x2	まあ、確かに生命を生み育む\n母なるものの象徴とも\n言えるかもしれないが……		
+cev22_060.scr:7	cev22_060.scr	7	メルディ	Meredy	personagem		じゃ、オトーサンどこいるよ？		
+cev22_060.scr:8	cev22_060.scr	8	キール	Keele Zeibel	personagem		はぁ？　お父さんだって？		
+cev22_060.scr:9	cev22_060.scr	9	メルディ	Meredy	personagem	CRLF x2	メルディ、聞いた事ある。\nオカーサンとオトーサン、一緒で\n子ども達、生まれてくる		
+cev22_060.scr:10	cev22_060.scr	10	メルディ	Meredy	personagem	CRLF x1	世界もきっと同じ。　\n……な？		
+cev22_060.scr:11	cev22_060.scr	11	キール	Keele Zeibel	personagem		そ、それは……		
+cev22_060.scr:12	cev22_060.scr	12	メルディ	Meredy	personagem		それは？		
+cev22_060.scr:13	cev22_060.scr	13	すず	Suzu Fujibayashi	personagem	CRLF x2	それはですね、世界樹は私達人間や\nいわゆる動植物とは違い、恐らく\n一般的に言われるところの生殖……		
+cev22_060.scr:14	cev22_060.scr	14	キール	Keele Zeibel	personagem		わーー、言うな！		
+cev22_060.scr:15	cev22_060.scr	15	キール	Keele Zeibel	personagem		ぼくがまだ、考えているんだぁ〜！！		
+cev22_070.scr:0	cev22_070.scr	0	リフィル	Raine Sage	personagem	CRLF x2	キールは随分書物を読んでいる様ね。\n何か、知りたいと思う事や\n気になる事でもあるのかしら？		
+cev22_070.scr:1	cev22_070.scr	1	キール	Keele Zeibel	personagem		「不可知なるものを学べ」……		
+cev22_070.scr:2	cev22_070.scr	2	キール	Keele Zeibel	personagem		その言葉の意味を知りたいんだ		
+cev22_070.scr:3	cev22_070.scr	3	リフィル	Raine Sage	personagem		それは、どなたかの……？		
+cev22_070.scr:4	cev22_070.scr	4	キール	Keele Zeibel	personagem	CRLF x2	ああ。　ぼくが師とあおぐ人物から言われた。\nぼくはもっと、不可知なるものを\n学ばなくてはならないと		
+cev22_070.scr:5	cev22_070.scr	5	リフィル	Raine Sage	personagem	CRLF x1	なるほど……。\nさぞ、高名な方だったのでしょうね		
+cev22_070.scr:6	cev22_070.scr	6	キール	Keele Zeibel	personagem		リフィルには、意味がわかるのか？		
+cev22_070.scr:7	cev22_070.scr	7	リフィル	Raine Sage	personagem	CRLF x1	さあ、どうかしら。\nただ、私に言えるとしたら……		
+cev22_070.scr:8	cev22_070.scr	8	リフィル	Raine Sage	personagem	CRLF x2	その正解は、あなたの中にあるもの。\nあなた自身からしか\n生まれ得ないものだという事ね		
+cev22_070.scr:9	cev22_070.scr	9	キール	Keele Zeibel	personagem		ますますわけがわからないぞ……		
+cev22_070.scr:10	cev22_070.scr	10	キール	Keele Zeibel	personagem	CRLF x1	不可知とは何だ……？\n一体、ぼくに何が足りないっていうんだ		
+cev22_080.scr:0	cev22_080.scr	0	キール	Keele Zeibel	personagem		先程、ソフィにしていた話だが		
+cev22_080.scr:1	cev22_080.scr	1	キール	Keele Zeibel	personagem	CRLF x1	憶測で、子どもにものを教えるのは\n感心しないな		
+cev22_080.scr:2	cev22_080.scr	2	セルシウス	Celsius	personagem		あら。　どうして憶測だと？		
+cev22_080.scr:3	cev22_080.scr	3	キール	Keele Zeibel	personagem	CRLF x2	ぼくは文献に書かれた事以外は信じない。\n今の話が、個人の仮説であるなら\nまだ理解を示す事は可能だが……		
+cev22_080.scr:4	cev22_080.scr	4	セルシウス	Celsius	personagem	CRLF x2	……フン。\n目に見え、形になったものだけが\n真実と思うのは、ヒトの傲慢な考えね		
+cev22_080.scr:5	cev22_080.scr	5	セルシウス	Celsius	personagem	CRLF x1	……思考の海で遊んでいたいなら、\n好きになさい		
+cev22_080.scr:6	cev22_080.scr	6	キール	Keele Zeibel	personagem		何だって？		
+cev22_080.scr:7	cev22_080.scr	7	キール	Keele Zeibel	personagem	CRLF x1	ちょ、ちょっと待て！　\nどういう意味だ？		
+cev22_080.scr:8	cev22_080.scr	8	キール	Keele Zeibel	personagem	CRLF x2	さっきの話が仮説でないなら、\nもう一度詳しく聞かせてくれ。\nおい、セルシウス！		
+cev22_200.scr:0	cev22_200.scr	0	キール	Keele Zeibel	personagem	CRLF x1	通常。\n		
+cev22_200.scr:1	cev22_200.scr	1	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:2	cev22_200.scr	2	キール	Keele Zeibel	personagem	CRLF x1	笑い。\n		
+cev22_200.scr:3	cev22_200.scr	3	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:4	cev22_200.scr	4	キール	Keele Zeibel	personagem	CRLF x1	怒り。\n		
+cev22_200.scr:5	cev22_200.scr	5	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:6	cev22_200.scr	6	キール	Keele Zeibel	personagem	CRLF x1	悲しみ。\n		
+cev22_200.scr:7	cev22_200.scr	7	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:8	cev22_200.scr	8	キール	Keele Zeibel	personagem	CRLF x1	ふ〜ん。\n		
+cev22_200.scr:9	cev22_200.scr	9	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:10	cev22_200.scr	10	キール	Keele Zeibel	personagem	CRLF x1	真剣。\n		
+cev22_200.scr:11	cev22_200.scr	11	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:12	cev22_200.scr	12	キール	Keele Zeibel	personagem	CRLF x1	がっくし。\n		
+cev22_200.scr:13	cev22_200.scr	13	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:14	cev22_200.scr	14	キール	Keele Zeibel	personagem	CRLF x1	怒り２。\n		
+cev22_200.scr:15	cev22_200.scr	15	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:16	cev22_200.scr	16	キール	Keele Zeibel	personagem	CRLF x1	説明。\n		
+cev22_200.scr:17	cev22_200.scr	17	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:18	cev22_200.scr	18	キール	Keele Zeibel	personagem	CRLF x1	説明２。\n		
+cev22_200.scr:19	cev22_200.scr	19	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:20	cev22_200.scr	20	キール	Keele Zeibel	personagem	CRLF x1	通常。\n		
+cev22_200.scr:21	cev22_200.scr	21	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:22	cev22_200.scr	22	キール	Keele Zeibel	personagem	CRLF x1	笑い。\n		
+cev22_200.scr:23	cev22_200.scr	23	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:24	cev22_200.scr	24	キール	Keele Zeibel	personagem	CRLF x1	怒り。\n		
+cev22_200.scr:25	cev22_200.scr	25	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:26	cev22_200.scr	26	キール	Keele Zeibel	personagem	CRLF x1	悲しみ。\n		
+cev22_200.scr:27	cev22_200.scr	27	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:28	cev22_200.scr	28	キール	Keele Zeibel	personagem	CRLF x1	ふ〜ん。\n		
+cev22_200.scr:29	cev22_200.scr	29	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:30	cev22_200.scr	30	キール	Keele Zeibel	personagem	CRLF x1	真剣。\n		
+cev22_200.scr:31	cev22_200.scr	31	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:32	cev22_200.scr	32	キール	Keele Zeibel	personagem	CRLF x1	がっくし。\n		
+cev22_200.scr:33	cev22_200.scr	33	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:34	cev22_200.scr	34	キール	Keele Zeibel	personagem	CRLF x1	怒り２。\n		
+cev22_200.scr:35	cev22_200.scr	35	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:36	cev22_200.scr	36	キール	Keele Zeibel	personagem	CRLF x1	説明。\n		
+cev22_200.scr:37	cev22_200.scr	37	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:38	cev22_200.scr	38	キール	Keele Zeibel	personagem	CRLF x1	説明２。\n		
+cev22_200.scr:39	cev22_200.scr	39	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:40	cev22_200.scr	40	キール	Keele Zeibel	personagem	CRLF x1	通常。\n		
+cev22_200.scr:41	cev22_200.scr	41	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:42	cev22_200.scr	42	キール	Keele Zeibel	personagem	CRLF x1	笑い。\n		
+cev22_200.scr:43	cev22_200.scr	43	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:44	cev22_200.scr	44	キール	Keele Zeibel	personagem	CRLF x1	怒り。\n		
+cev22_200.scr:45	cev22_200.scr	45	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:46	cev22_200.scr	46	キール	Keele Zeibel	personagem	CRLF x1	悲しみ。\n		
+cev22_200.scr:47	cev22_200.scr	47	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:48	cev22_200.scr	48	キール	Keele Zeibel	personagem	CRLF x1	ふ〜ん。\n		
+cev22_200.scr:49	cev22_200.scr	49	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:50	cev22_200.scr	50	キール	Keele Zeibel	personagem	CRLF x1	真剣。\n		
+cev22_200.scr:51	cev22_200.scr	51	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:52	cev22_200.scr	52	キール	Keele Zeibel	personagem	CRLF x1	がっくし。\n		
+cev22_200.scr:53	cev22_200.scr	53	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:54	cev22_200.scr	54	キール	Keele Zeibel	personagem	CRLF x1	怒り２。\n		
+cev22_200.scr:55	cev22_200.scr	55	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:56	cev22_200.scr	56	キール	Keele Zeibel	personagem	CRLF x1	説明。\n		
+cev22_200.scr:57	cev22_200.scr	57	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev22_200.scr:58	cev22_200.scr	58	キール	Keele Zeibel	personagem	CRLF x1	説明２。\n		
+cev22_200.scr:59	cev22_200.scr	59	キール	Keele Zeibel	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

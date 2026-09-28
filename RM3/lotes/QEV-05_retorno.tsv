@@ -1,0 +1,102 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev05_010.scr:0	qev05_010.scr	0	リオン	Leon Magnus	personagem		……ふっ	......Hmph.	
+qev05_010.scr:1	qev05_010.scr	1	ジューダス	Judas	personagem		何がおかしい	What's so funny?	
+qev05_010.scr:2	qev05_010.scr	2	リオン	Leon Magnus	personagem	CRLF x2	いや……。\nそのおかしな仮面を食事中も付けているとは、\n知らなくてな	Nothing......\nI just didn't know you wore that\nridiculous mask even while eating.	
+qev05_010.scr:3	qev05_010.scr	3	リオン	Leon Magnus	personagem	CRLF x1	余程、後ろめたい過去でも\nあるらしい	You must have quite the shameful\npast to hide.	
+qev05_010.scr:4	qev05_010.scr	4	ルーティ	Rutee Katrea	personagem		ちょっと、リオン！	Hey, Leon!	
+qev05_010.scr:5	qev05_010.scr	5	ジューダス	Judas	personagem	CRLF x2	フン……。\n心に仮面を付けているお前に\nどうこう言われる筋合いはない	Hmph......\nI don't need lectures from someone\nwho wears a mask over his heart.	
+qev05_010.scr:6	qev05_010.scr	6	リオン	Leon Magnus	personagem		何だと……	What did you say......	
+qev05_010.scr:7	qev05_010.scr	7	カイル	Kyle Dunamis	personagem		ま、まあまあ二人とも！	N-Now, now, you two!	
+qev05_010.scr:8	qev05_010.scr	8	カイル	Kyle Dunamis	personagem	CRLF x2	えっと……リオンさん？\nすみません、ジューダスは\nいつもこうで……	Um......Leon?\nI'm sorry, Judas is\nalways like this......	
+qev05_010.scr:9	qev05_010.scr	9	ジューダス	Judas	personagem	CRLF x1	カイル。\n余計な事を言うな	Kyle.\nDon't say anything unnecessary.	
+qev05_010.scr:10	qev05_010.scr	10	カイル	Kyle Dunamis	personagem		だって……	But......	
+qev05_010.scr:11	qev05_010.scr	11	リオン	Leon Magnus	personagem		フン、不愉快だ	Hmph, how unpleasant.	
+qev05_010.scr:12	qev05_010.scr	12	リオン	Leon Magnus	personagem		行くぞ、ルーティ	Let's go, Rutee.	
+qev05_010.scr:13	qev05_010.scr	13	ルーティ	Rutee Katrea	personagem		ちょ、ちょっと……	W-Wait......	
+qev05_010.scr:14	qev05_010.scr	14	ルーティ	Rutee Katrea	personagem	CRLF x2	ほんと、ごめんなさいね？\nあいつ、いつも無愛想で礼儀とか知らなくて。\n勘弁してやって	Really, I'm so sorry.\nHe's always cold and has no manners.\nPlease forgive him.	
+qev05_010.scr:15	qev05_010.scr	15	カイル	Kyle Dunamis	personagem		…………	............	
+qev05_010.scr:16	qev05_010.scr	16	カイル	Kyle Dunamis	personagem		ジューダス、……大丈夫？	Judas, ......are you okay?	
+qev05_010.scr:17	qev05_010.scr	17	ジューダス	Judas	personagem	CRLF x1	フン、あんな戯言を\nいちいち真に受ける僕だと思うか？	Hmph, do you really think I'd take\nsuch drivel to heart?	
+qev05_010.scr:18	qev05_010.scr	18	ジューダス	Judas	personagem		…………	............	
+qev05_010.scr:19	qev05_010.scr	19	ジューダス	Judas	personagem	CRLF x1	……おい、○○。\n何を見ている	......Hey, ○○.\nWhat are you looking at?	
+qev05_010.scr:20	qev05_010.scr	20	(ator 200)	(ator 200)	desconhecido		…………	............	
+qev05_010.scr:21	qev05_010.scr	21	ジューダス	Judas	personagem		…………	............	
+qev05_010.scr:22	qev05_010.scr	22	ジューダス	Judas	personagem		フン	Hmph.	
+qev05_010.scr:23	qev05_010.scr	23	カイル	Kyle Dunamis	personagem	CRLF x2	えっ？\nちょっと、ジューダス？\n食べないの？	Huh?\nHey, Judas?\nYou're not going to eat?	
+qev05_010.scr:24	qev05_010.scr	24	カイル	Kyle Dunamis	personagem	CRLF x1	ごめん、○○。\nオレ、行くね	Sorry, ○○.\nI gotta go.	
+qev05_010.scr:25	qev05_010.scr	25	カイル	Kyle Dunamis	personagem		ジューダス、待ってよー！！	Judas, wait up!!	
+qev05_010.scr:26	qev05_010.scr	26	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「閉じた心、続く未来」が\nエントリーされました。\nジューダスから受ける事が出来ます	Quest 'A Closed Heart, An Open\nFuture' has been registered.\nYou can accept it from Judas.	
+qev05_020.scr:0	qev05_020.scr	0	ジューダス	Judas	personagem		待っていたぞ	I was waiting for you.	
+qev05_020.scr:1	qev05_020.scr	1	ジューダス	Judas	personagem	CRLF x2	お前の手を借りるのは不本意だが……。\n中立の立場の人間がいた方が、後々\nいらぬ面倒事を起こさずに済むからな	Borrowing your help is not ideal,\nbut having a neutral party along\nwill prevent complications later.	
+qev05_020.scr:2	qev05_020.scr	2	(ator 200)	(ator 200)	desconhecido		…………	............	
+qev05_020.scr:3	qev05_020.scr	3	ジューダス	Judas	personagem	CRLF x1	それと言っておくが、\nこの事は他言無用だ	And let me be clear:\nthis stays between us.	
+qev05_020.scr:4	qev05_020.scr	4	ジューダス	Judas	personagem	CRLF x1	万一、誰かに漏らす様な事があれば……\nわかっているな？	If you so much as breathe a word\nto anyone...... You understand?	
+qev05_020.scr:5	qev05_020.scr	5	(ator 200)	(ator 200)	desconhecido		…………	............	
+qev05_020.scr:6	qev05_020.scr	6	ジューダス	Judas	personagem	CRLF x1	……話は終わりだ。\n行くぞ	......That's all.\nLet's go.	
+qev05_030.scr:0	qev05_030.scr	0	ジューダス	Judas	personagem	CRLF x2	フン……。\nここなら人目に付かないと踏んだわけか。\n全く……	Hmph......\nSo he figured no one would see him\nout here. Honestly......	
+qev05_030.scr:1	qev05_030.scr	1	(ator 200)	(ator 200)	desconhecido		……？	......?	
+qev05_030.scr:2	qev05_030.scr	2	ジューダス	Judas	personagem	CRLF x1	いや……、何でもない。\n先を急ぐぞ	No......it's nothing.\nLet's keep moving.	
+qev05_040.scr:0	qev05_040.scr	0	ジューダス	Judas	personagem		…………	............	
+qev05_040.scr:1	qev05_040.scr	1	ジューダス	Judas	personagem	CRLF x1	何だ。\n何か言いたい事がありそうだな	What?\nYou look like you want to say something.	
+qev05_040.scr:2	qev05_040.scr	2	(ator 200)	(ator 200)	desconhecido		…………	............	
+qev05_040.scr:3	qev05_040.scr	3	ジューダス	Judas	personagem		…………	............	
+qev05_040.scr:4	qev05_040.scr	4	ジューダス	Judas	personagem	CRLF x1	事情も知らずに協力は出来かねる……。\nという事か？	You can't cooperate without\nknowing the circumstances, is that it?	
+qev05_040.scr:5	qev05_040.scr	5	ジューダス	Judas	personagem	CRLF x1	フン……。\nまあ、いいだろう	Hmph......\nFine, have it your way.	
+qev05_040.scr:6	qev05_040.scr	6	ジューダス	Judas	personagem	CRLF x2	カイルが、この世界のスタンとルーティに\n自分の両親を重ねている様に\n僕もあいつに、とある人物を重ねている	Just as Kyle sees his parents\nin this world's Stahn and Rutee,\nI see someone in that man.	
+qev05_040.scr:7	qev05_040.scr	7	(ator 200)	(ator 200)	desconhecido		…………	............	
+qev05_040.scr:8	qev05_040.scr	8	ジューダス	Judas	personagem	CRLF x2	無論、言うまでもないが別人だ。\nだが……、奴の言動を見ていると\nどうも気になってな	He's a different person, obviously.\nBut......watching his behavior\njust gets under my skin.	
+qev05_040.scr:9	qev05_040.scr	9	ジューダス	Judas	personagem	CRLF x1	余計な邪魔の入らない場所で、\n一度話をしてみたいと思っていた	I wanted to talk to him somewhere\nwithout any interruptions.	
+qev05_040.scr:10	qev05_040.scr	10	ジューダス	Judas	personagem	CRLF x1	どうやら、向こうも少なからず\n僕を意識している様だしな	It seems the feeling is mutual--\nhe's been aware of me as well.	
+qev05_040.scr:11	qev05_040.scr	11	(ator 200)	(ator 200)	desconhecido		……？	......?	
+qev05_040.scr:12	qev05_040.scr	12	ジューダス	Judas	personagem		そこまで話す義理はない	I'm not obligated to tell you more.	
+qev05_040.scr:13	qev05_040.scr	13	ジューダス	Judas	personagem	CRLF x2	つまらん義理人情で余計な詮索はしない事だ。\nお人好しも度が過ぎると……そのうちお前も\n身を滅ぼす事になるかもしれんぞ	Don't go prying out of idle sympathy.\nToo much goodwill can destroy you\nin the end.	
+qev05_040.scr:14	qev05_040.scr	14	(ator 200)	(ator 200)	desconhecido		…………	............	
+qev05_050.scr:0	qev05_050.scr	0	リオン	Leon Magnus	personagem		くっ……	Kh......	
+qev05_050.scr:1	qev05_050.scr	1	ジューダス	Judas	personagem	CRLF x1	勝負あったな。\n質問に答えてもらおうか	The match is settled.\nNow answer my questions.	
+qev05_050.scr:2	qev05_050.scr	2	リオン	Leon Magnus	personagem		誰が、貴様……などに……	As if......I'd ever......tell you...	
+qev05_050.scr:3	qev05_050.scr	3	ジューダス	Judas	personagem		…………	............	
+qev05_050.scr:4	qev05_050.scr	4	ジューダス	Judas	personagem	CRLF x1	……なるほど。\n話の通じる相手ではないらしい	......I see.\nYou're not one to reason with.	
+qev05_050.scr:5	qev05_050.scr	5	ジューダス	Judas	personagem	CRLF x1	他人と関わる余裕もない程、\n個人の都合で手一杯と見える	Too consumed by personal matters\nto spare a thought for others.	
+qev05_050.scr:6	qev05_050.scr	6	リオン	Leon Magnus	personagem	CRLF x1	……！\n何が言いたい！	......!\nWhat are you getting at!?	
+qev05_050.scr:7	qev05_050.scr	7	ジューダス	Judas	personagem		そのままの意味のつもりだが？	Exactly what I said.	
+qev05_050.scr:8	qev05_050.scr	8	リオン	Leon Magnus	personagem	CRLF x2	…………フン。\nお前に僕の何がわかる？\n知った風な……口を……！	............Hmph.\nWhat could you know about me?\nDon't speak......as if you do!	
+qev05_050.scr:9	qev05_050.scr	9	ジューダス	Judas	personagem		……リオン・マグナス	......Leon Magnus.	
+qev05_050.scr:10	qev05_050.scr	10	ジューダス	Judas	personagem	CRLF x2	お前はお前が思うより、\n多くのものを手にしている。\nその事を、忘れるな	You have far more than you\nrealize.\nDon't forget that.	
+qev05_050.scr:11	qev05_050.scr	11	リオン	Leon Magnus	personagem		……？	......?	
+qev05_050.scr:12	qev05_050.scr	12	リオン	Leon Magnus	personagem		貴様……何を……	You......what do you......	
+qev05_050.scr:13	qev05_050.scr	13	リオン	Leon Magnus	personagem		うっ、げほっ、ごほっ	Ugh, cough, cough......	
+qev05_050.scr:14	qev05_050.scr	14	ジューダス	Judas	personagem		○○、行くぞ	○○, let's go.	
+qev05_050.scr:15	qev05_050.scr	15	(ator 200)	(ator 200)	desconhecido		…………	............	
+qev05_050.scr:16	qev05_050.scr	16	ジューダス	Judas	personagem	CRLF x2	放っておけ。\n命に別状はない。\nそれに……	Leave him be.\nHis life's not in danger.\nBesides......	
+qev05_050.scr:17	qev05_050.scr	17	ジューダス	Judas	personagem		あとは、こいつ自身の問題だ	The rest is his own affair.	
+qev05_060.scr:0	qev05_060.scr	0	ジューダス	Judas	personagem		忘れろ	Forget it.	
+qev05_060.scr:1	qev05_060.scr	1	(ator 200)	(ator 200)	desconhecido		？？？	???	
+qev05_060.scr:2	qev05_060.scr	2	ジューダス	Judas	personagem	CRLF x1	今回見聞きした事だ。\n全て忘れろと言っている	Everything you saw and heard today.\nForget all of it.	
+qev05_060.scr:3	qev05_060.scr	3	(ator 200)	(ator 200)	desconhecido		…………	............	
+qev05_060.scr:4	qev05_060.scr	4	ジューダス	Judas	personagem	CRLF x1	お前は本当に、\n遠慮というものを知らないな	You truly don't know the meaning\nof restraint, do you?	
+qev05_060.scr:5	qev05_060.scr	5	ジューダス	Judas	personagem	CRLF x1	……そういうところは、\nどこかの馬鹿にそっくりだ	......In that way, you're just like\na certain fool I know.	
+qev05_060.scr:6	qev05_060.scr	6	ジューダス	Judas	personagem	CRLF x2	とにかく、\n今回の事は他言無用だ。\n……いいな	In any case,\ntoday's events stay between us.\n......Understood?	
+qev05_070.scr:0	qev05_070.scr	0	リオン	Leon Magnus	personagem		……頼んだぞ	......I'm counting on you.	
+qev05_070.scr:1	qev05_070.scr	1	リオン	Leon Magnus	personagem		…………	............	
+qev05_070.scr:2	qev05_070.scr	2	リオン	Leon Magnus	personagem		……？	......?	
+qev05_070.scr:3	qev05_070.scr	3	リオン	Leon Magnus	personagem		……誰だ！	......Who's there!?	
+qev05_070.scr:4	qev05_070.scr	4	リオン	Leon Magnus	personagem	CRLF x1	お前は……。\nなぜ、ここにいる	You......\nWhy are you here?	
+qev05_070.scr:5	qev05_070.scr	5	ジューダス	Judas	personagem	CRLF x1	それはこちらの台詞だな。\nなぜ、こんな所で鳩を飛ばしている？	That's my line.\nWhy are you sending pigeons here?	
+qev05_070.scr:6	qev05_070.scr	6	リオン	Leon Magnus	personagem		答える必要はない	I don't have to answer that.	
+qev05_070.scr:7	qev05_070.scr	7	ジューダス	Judas	personagem	CRLF x2	ふっ。\n人に知られて困る相手と通じている……。\nそう解釈されても構わん、という事か？	Heh.\nCorresponding with someone you can't\nlet others know about, then?	
+qev05_070.scr:8	qev05_070.scr	8	リオン	Leon Magnus	personagem		……言っている意味が理解出来んな	......I don't follow.	
+qev05_070.scr:9	qev05_070.scr	9	ジューダス	Judas	personagem	CRLF x1	手紙の相手とは、数度に渡って\nやり取りをしているはずだ	You've exchanged letters with this\nperson multiple times.	
+qev05_070.scr:10	qev05_070.scr	10	ジューダス	Judas	personagem	CRLF x1	時には花や茶葉など、物品の受け渡しを\nしている事も、既に調べが付いている	Sometimes even sending flowers and\ntea leaves. I've already confirmed it.	
+qev05_070.scr:11	qev05_070.scr	11	リオン	Leon Magnus	personagem		……！	......!	
+qev05_070.scr:12	qev05_070.scr	12	リオン	Leon Magnus	personagem		……だとしても、お前に何の関係がある	......Even so, how is it your concern?	
+qev05_070.scr:13	qev05_070.scr	13	ジューダス	Judas	personagem	CRLF x1	フン……。\n寝首をかかれては敵わんからな	Hmph......\nI'd rather not be stabbed in my sleep.	
+qev05_070.scr:14	qev05_070.scr	14	ジューダス	Judas	personagem	CRLF x2	やましい事がなければ、\n素直にそう言えばいい。\nどうなんだ	If you've nothing to hide,\njust say so.\nWell?	
+qev05_070.scr:15	qev05_070.scr	15	リオン	Leon Magnus	personagem	CRLF x1	言ったはずだ。\n答える必要はない	I already told you.\nI don't have to answer.	
+qev05_070.scr:16	qev05_070.scr	16	リオン	Leon Magnus	personagem	CRLF x1	……これ以上僕を愚弄すれば、\n痛い目を見る事になるぞ	......If you insult me further,\nyou will regret it.	
+qev05_070.scr:17	qev05_070.scr	17	ジューダス	Judas	personagem	CRLF x2	ほう？\n面白い。\nならば……、力ずくで聞き出すまでだ	Oh?\nInteresting.\nThen I'll extract the answer by force.	
+qev05_070.scr:18	qev05_070.scr	18	ジューダス	Judas	personagem	CRLF x1	やむをえん。\n残念だが、向こうがそれをお望みだ	It can't be helped.\nIt seems that's what he wants.	
+qev05_070.scr:19	qev05_070.scr	19	ジューダス	Judas	personagem	CRLF x1	構えろ、○○。\n来るぞ！	Ready yourself, ○○.\nHere he comes!	
+qev05_080.scr:0	qev05_080.scr	0	リオン	Leon Magnus	personagem	CRLF x1	貴様も懲りないな……。\n何度来ても結果は同じだ	You never learn......\nNo matter what, it ends the same.	
+qev05_080.scr:1	qev05_080.scr	1	ジューダス	Judas	personagem		それはどうかな	That remains to be seen.	
+qev05_080.scr:2	qev05_080.scr	2	ジューダス	Judas	personagem	CRLF x1	定まった未来などない。\nそれを今から証明してやる！	The future is not set in stone.\nI'll prove it to you right now!	
+qev05_080.scr:3	qev05_080.scr	3	ジューダス	Judas	personagem		行くぞ、○○！	Let's go, ○○!	

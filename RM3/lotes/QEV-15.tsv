@@ -1,0 +1,99 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev15_010.scr:0	qev15_010.scr	0	リヒター	Richter Abend	personagem		おい		
+qev15_010.scr:1	qev15_010.scr	1	エミル	Emil Castagnier	personagem		え……、は、はい！		
+qev15_010.scr:2	qev15_010.scr	2	リヒター	Richter Abend	personagem	CRLF x2	お前の戦い方は、\nいつもああなのか？\nまるで別人の様だったな		
+qev15_010.scr:3	qev15_010.scr	3	エミル	Emil Castagnier	personagem	CRLF x1	え、えっと……そう……なんです。\nすみません……		
+qev15_010.scr:4	qev15_010.scr	4	リヒター	Richter Abend	personagem		なぜ謝る		
+qev15_010.scr:5	qev15_010.scr	5	エミル	Emil Castagnier	personagem	CRLF x1	いえ……あの……。\nすみません……		
+qev15_010.scr:6	qev15_010.scr	6	リヒター	Richter Abend	personagem		…………		
+qev15_010.scr:7	qev15_010.scr	7	リヒター	Richter Abend	personagem	CRLF x1	好戦的なのは結構だが、\n間合いを一息に詰め過ぎだ		
+qev15_010.scr:8	qev15_010.scr	8	リヒター	Richter Abend	personagem	CRLF x2	敵にただ畳み掛けるだけの\n戦い方では、いつか大怪我をする。\nそうなってからでは遅い		
+qev15_010.scr:9	qev15_010.scr	9	エミル	Emil Castagnier	personagem		心配……してくれたんですか？		
+qev15_010.scr:10	qev15_010.scr	10	エミル	Emil Castagnier	personagem		リヒターさんって、優し……		
+qev15_010.scr:11	qev15_010.scr	11	リヒター	Richter Abend	personagem	CRLF x2	わざわざ死に急ぐ事もない。\nそう思ったから忠告した。\nそれだけだ		
+qev15_010.scr:12	qev15_010.scr	12	エミル	Emil Castagnier	personagem		あ、あの……！		
+qev15_010.scr:13	qev15_010.scr	13	エミル	Emil Castagnier	personagem	CRLF x2	間合いって……、その、\nどういう風に……掴めば\nいいものなんですか		
+qev15_010.scr:14	qev15_010.scr	14	リヒター	Richter Abend	personagem		…………		
+qev15_010.scr:15	qev15_010.scr	15	エミル	Emil Castagnier	personagem		……え……えっと……		
+qev15_010.scr:16	qev15_010.scr	16	エミル	Emil Castagnier	personagem		すみませ……		
+qev15_010.scr:17	qev15_010.scr	17	リヒター	Richter Abend	personagem	CRLF x1	口で説明出来るものではない。\n…………		
+qev15_010.scr:18	qev15_010.scr	18	リヒター	Richter Abend	personagem		機会があれば指南してやる		
+qev15_010.scr:19	qev15_010.scr	19	エミル	Emil Castagnier	personagem		え？		
+qev15_010.scr:20	qev15_010.scr	20	エミル	Emil Castagnier	personagem		リ、リヒターさん！？		
+qev15_010.scr:21	qev15_010.scr	21	エミル	Emil Castagnier	personagem		…………		
+qev15_010.scr:22	qev15_010.scr	22	エミル	Emil Castagnier	personagem	CRLF x1	怒らせた……のかな。\n僕……		
+qev15_010.scr:23	qev15_010.scr	23	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「リヒターの戦術指南」が\nエントリーされました。\nリヒターから受ける事が出来ます		
+qev15_020.scr:0	qev15_020.scr	0	リヒター	Richter Abend	personagem	CRLF x1	来たか。\n準備が出来たなら出発するぞ		
+qev15_020.scr:1	qev15_020.scr	1	エミル	Emil Castagnier	personagem		あ、あの！　リヒターさん		
+qev15_020.scr:2	qev15_020.scr	2	リヒター	Richter Abend	personagem		何だ		
+qev15_020.scr:3	qev15_020.scr	3	エミル	Emil Castagnier	personagem		いえ、その……		
+qev15_020.scr:4	qev15_020.scr	4	エミル	Emil Castagnier	personagem	CRLF x1	この間の話、\n覚えててくれたんですね		
+qev15_020.scr:5	qev15_020.scr	5	リヒター	Richter Abend	personagem		この間？		
+qev15_020.scr:6	qev15_020.scr	6	エミル	Emil Castagnier	personagem		間合いの話です		
+qev15_020.scr:7	qev15_020.scr	7	リヒター	Richter Abend	personagem		……それがどうした		
+qev15_020.scr:8	qev15_020.scr	8	エミル	Emil Castagnier	personagem		あ……えっと……		
+qev15_020.scr:9	qev15_020.scr	9	エミル	Emil Castagnier	personagem	CRLF x1	気にしてくれてたのが、\n嬉しかったんです		
+qev15_020.scr:10	qev15_020.scr	10	リヒター	Richter Abend	personagem		……ただの気まぐれだ		
+qev15_020.scr:11	qev15_020.scr	11	リヒター	Richter Abend	personagem		行くぞ		
+qev15_020.scr:12	qev15_020.scr	12	エミル	Emil Castagnier	personagem		あっ		
+qev15_020.scr:13	qev15_020.scr	13	エミル	Emil Castagnier	personagem		ま、待って下さい！		
+qev15_030.scr:0	qev15_030.scr	0	リヒター	Richter Abend	personagem	CRLF x2	わかっていると思うが、\n今回はお前の戦い方を\n改めて見直すのが目的だ		
+qev15_030.scr:1	qev15_030.scr	1	リヒター	Richter Abend	personagem		それを忘れるな		
+qev15_030.scr:2	qev15_030.scr	2	エミル	Emil Castagnier	personagem	CRLF x1	はい。\n……頑張ります！		
+qev15_030.scr:3	qev15_030.scr	3	リヒター	Richter Abend	personagem	CRLF x1	いい返事だ。\n……が		
+qev15_030.scr:4	qev15_030.scr	4	リヒター	Richter Abend	personagem	CRLF x1	気合を入れ過ぎて空回りしない事だ。\n一瞬の隙が、死を招く事もある		
+qev15_030.scr:5	qev15_030.scr	5	エミル	Emil Castagnier	personagem	CRLF x1	は……はい。\nすみません……		
+qev15_030.scr:6	qev15_030.scr	6	リヒター	Richter Abend	personagem		……お前はなぜ、不必要に謝る		
+qev15_030.scr:7	qev15_030.scr	7	エミル	Emil Castagnier	personagem		えっ！？　あの……その		
+qev15_030.scr:8	qev15_030.scr	8	エミル	Emil Castagnier	personagem		すみませ……ん		
+qev15_030.scr:9	qev15_030.scr	9	リヒター	Richter Abend	personagem		…………		
+qev15_040.scr:0	qev15_040.scr	0	リヒター	Richter Abend	personagem		徐々に動きが安定して来たな		
+qev15_040.scr:1	qev15_040.scr	1	エミル	Emil Castagnier	personagem	CRLF x1	そう、ですか？\nありがとうございます		
+qev15_040.scr:2	qev15_040.scr	2	エミル	Emil Castagnier	personagem	CRLF x1	リヒターさんが、\n色々教えてくれたおかげです		
+qev15_040.scr:3	qev15_040.scr	3	リヒター	Richter Abend	personagem		…………		
+qev15_040.scr:4	qev15_040.scr	4	リヒター	Richter Abend	personagem	CRLF x1	そうして笑うと……、\n本当にそっくりだな……		
+qev15_040.scr:5	qev15_040.scr	5	エミル	Emil Castagnier	personagem		え？　今、何て？		
+qev15_040.scr:6	qev15_040.scr	6	リヒター	Richter Abend	personagem	CRLF x1	……少し褒められたからといって、\n図に乗るなと言ったのだ		
+qev15_040.scr:7	qev15_040.scr	7	エミル	Emil Castagnier	personagem		あ……		
+qev15_040.scr:8	qev15_040.scr	8	エミル	Emil Castagnier	personagem		そう……ですよね……		
+qev15_040.scr:9	qev15_040.scr	9	エミル	Emil Castagnier	personagem		すみません……		
+qev15_040.scr:10	qev15_040.scr	10	リヒター	Richter Abend	personagem		…………		
+qev15_040.scr:11	qev15_040.scr	11	リヒター	Richter Abend	personagem		いや、今のは少々言い過ぎた		
+qev15_040.scr:12	qev15_040.scr	12	リヒター	Richter Abend	personagem	CRLF x2	油断が隙に、その隙が死に繋がる。\n気を引き締めていけ。\n……それから		
+qev15_040.scr:13	qev15_040.scr	13	リヒター	Richter Abend	personagem	CRLF x2	簡単に謝罪の言葉を口にするのはやめろ。\nそんな事は、他人に媚びへつらう豚……いや\n豚以下の人間がする事だ		
+qev15_040.scr:14	qev15_040.scr	14	エミル	Emil Castagnier	personagem		ぶ……豚		
+qev15_040.scr:15	qev15_040.scr	15	リヒター	Richter Abend	personagem	CRLF x2	……お前は人間だろう？\n自分の意志で考え\n行動する事を忘れるな		
+qev15_040.scr:16	qev15_040.scr	16	エミル	Emil Castagnier	personagem		あ……は、はい		
+qev15_040.scr:17	qev15_040.scr	17	エミル	Emil Castagnier	personagem	CRLF x1	（リヒターさんって……厳しいけど\n　やっぱり……優しい人なのかもしれない）		
+qev15_040.scr:18	qev15_040.scr	18	リヒター	Richter Abend	personagem		……なぜ俺の顔をじっと見ている？		
+qev15_040.scr:19	qev15_040.scr	19	エミル	Emil Castagnier	personagem	CRLF x1	えっ！？\nあ、あの……、すみませ……あっ		
+qev15_040.scr:20	qev15_040.scr	20	リヒター	Richter Abend	personagem		…………		
+qev15_050.scr:0	qev15_050.scr	0	エミル	Emil Castagnier	personagem	CRLF x1	はぁ、はぁ……。\n今ので、最後……ですね		
+qev15_050.scr:1	qev15_050.scr	1	リヒター	Richter Abend	personagem	CRLF x1	ああ。\n少しはコツが掴めたか？		
+qev15_050.scr:2	qev15_050.scr	2	エミル	Emil Castagnier	personagem	CRLF x2	はい。　まだ、完全にではないですけど……\nリヒターさんの戦い方を見て\n自分にないものが、わかった様な気がします		
+qev15_050.scr:3	qev15_050.scr	3	リヒター	Richter Abend	personagem	CRLF x1	その感触を忘れない事だ。\n常に意識し、鍛練に励め		
+qev15_050.scr:4	qev15_050.scr	4	リヒター	Richter Abend	personagem		俺は……、お前が死ぬのを見たくない		
+qev15_050.scr:5	qev15_050.scr	5	エミル	Emil Castagnier	personagem		リヒターさん……？		
+qev15_050.scr:6	qev15_050.scr	6	リヒター	Richter Abend	personagem	CRLF x1	無駄死にするのを見たくない\nと言ったんだ		
+qev15_050.scr:7	qev15_050.scr	7	リヒター	Richter Abend	personagem		何かおかしいか？		
+qev15_050.scr:8	qev15_050.scr	8	エミル	Emil Castagnier	personagem	CRLF x1	いえ……、やっぱり……\nリヒターさんは、優しいです		
+qev15_050.scr:9	qev15_050.scr	9	リヒター	Richter Abend	personagem		…………フン		
+qev15_050.scr:10	qev15_050.scr	10	リヒター	Richter Abend	personagem		好きに思っていればいい		
+qev15_050.scr:11	qev15_050.scr	11	エミル	Emil Castagnier	personagem	CRLF x1	はい。\nそうします		
+qev15_050.scr:12	qev15_050.scr	12	エミル	Emil Castagnier	personagem		えっと……		
+qev15_050.scr:13	qev15_050.scr	13	エミル	Emil Castagnier	personagem	CRLF x1	僕は……、人間ですから。\n僕の思ったまま、思った様に行動して		
+qev15_050.scr:14	qev15_050.scr	14	エミル	Emil Castagnier	personagem		……いいんですよね？		
+qev15_050.scr:15	qev15_050.scr	15	リヒター	Richter Abend	personagem		……随分口達者になったものだ		
+qev15_050.scr:16	qev15_050.scr	16	エミル	Emil Castagnier	personagem		……はい		
+qev15_060.scr:0	qev15_060.scr	0	エミル	Emil Castagnier	personagem		リヒターさん、ありがとうございました		
+qev15_060.scr:1	qev15_060.scr	1	リヒター	Richter Abend	personagem	CRLF x1	礼なら\n○○に言っておけ		
+qev15_060.scr:2	qev15_060.scr	2	リヒター	Richter Abend	personagem	CRLF x1	お前のフォローの為に、\nわざわざ時間を割いてくれたのだからな		
+qev15_060.scr:3	qev15_060.scr	3	エミル	Emil Castagnier	personagem		あ……、そうか		
+qev15_060.scr:4	qev15_060.scr	4	エミル	Emil Castagnier	personagem		ありがとう、○○		
+qev15_060.scr:5	qev15_060.scr	5	エミル	Emil Castagnier	personagem		あっ、リヒターさん！		
+qev15_060.scr:6	qev15_060.scr	6	リヒター	Richter Abend	personagem		今度は何だ		
+qev15_060.scr:7	qev15_060.scr	7	エミル	Emil Castagnier	personagem	CRLF x1	その……。\nま、また、一緒に行ってくれますか？		
+qev15_060.scr:8	qev15_060.scr	8	リヒター	Richter Abend	personagem		もう教える事はない		
+qev15_060.scr:9	qev15_060.scr	9	エミル	Emil Castagnier	personagem	CRLF x1	えっ……。\nそれってどういう……		
+qev15_060.scr:10	qev15_060.scr	10	エミル	Emil Castagnier	personagem		……行っちゃった		
+qev15_060.scr:11	qev15_060.scr	11	エミル	Emil Castagnier	personagem	CRLF x1	リヒターさんって……、何だか\n不思議な人だなぁ……		

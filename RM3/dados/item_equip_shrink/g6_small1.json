@@ -1,0 +1,1872 @@
+{
+ "categorias": {
+  "accessory": {
+   "arena_bytes": 1709,
+   "pool_atual_bytes": 2046,
+   "folga_atual": -337,
+   "meta_bytes_a_cortar": 473,
+   "itens": [
+    {
+     "id": "accessory#75",
+     "jp": "闘志を体力に変えるバングル",
+     "en": "A bangle that converts fighting spirit into physical strength.",
+     "bytes": 62
+    },
+    {
+     "id": "accessory#73",
+     "jp": "闘志を体力に変える指輪",
+     "en": "A ring that converts fighting spirit into physical strength.",
+     "bytes": 60
+    },
+    {
+     "id": "accessory#27",
+     "jp": "歴戦の戦士の魂が宿る装飾品",
+     "en": "An ornament housing the soul of a battle-hardened warrior.",
+     "bytes": 58
+    },
+    {
+     "id": "accessory#71",
+     "jp": "悪魔が魔力を注いだ月の石",
+     "en": "A moonstone into which a demon poured magical power.",
+     "bytes": 52
+    },
+    {
+     "id": "accessory#31",
+     "jp": "退魔の法術が施されたお守り",
+     "en": "An amulet blessed with demon-banishing holy arts.",
+     "bytes": 49
+    },
+    {
+     "id": "accessory#35",
+     "jp": "石化魔法の達人が作った指輪",
+     "en": "A ring made by a master of petrification magic.",
+     "bytes": 47
+    },
+    {
+     "id": "accessory#37",
+     "jp": "水の力が宿る手編みのマント",
+     "en": "A hand-knit cloak housing the power of water.",
+     "bytes": 45
+    },
+    {
+     "id": "accessory#39",
+     "jp": "土の力が宿る手編みのマント",
+     "en": "A hand-knit cloak housing the power of earth.",
+     "bytes": 45
+    },
+    {
+     "id": "accessory#45",
+     "jp": "光の力が宿る手編みのマント",
+     "en": "A hand-knit cloak housing the power of light.",
+     "bytes": 45
+    },
+    {
+     "id": "accessory#41",
+     "jp": "火の力が宿る手編みのマント",
+     "en": "A hand-knit cloak housing the power of fire.",
+     "bytes": 44
+    },
+    {
+     "id": "accessory#43",
+     "jp": "風の力が宿る手編みのマント",
+     "en": "A hand-knit cloak housing the power of wind.",
+     "bytes": 44
+    },
+    {
+     "id": "accessory#59",
+     "jp": "魔法は一切関係無い煙幕弾",
+     "en": "A smoke bomb completely unrelated to magic.",
+     "bytes": 43
+    },
+    {
+     "id": "accessory#33",
+     "jp": "伝説の大僧侶が作ったお守り",
+     "en": "An amulet made by a legendary high priest.",
+     "bytes": 42
+    },
+    {
+     "id": "accessory#1",
+     "jp": "女神の祝福が宿るお守り",
+     "en": "An amulet housing the goddess's blessing.",
+     "bytes": 41
+    },
+    {
+     "id": "accessory#63",
+     "jp": "法儀礼を受けた石",
+     "en": "A stone that received a religious ritual.",
+     "bytes": 41
+    },
+    {
+     "id": "accessory#29",
+     "jp": "武神と呼ばれた男の胸像",
+     "en": "The bust of a man called the God of War.",
+     "bytes": 40
+    },
+    {
+     "id": "accessory#55",
+     "jp": "呪文が書かれたタトゥシール",
+     "en": "A tattoo seal written with incantations.",
+     "bytes": 40
+    },
+    {
+     "id": "accessory#57",
+     "jp": "呪文が書かれた石版",
+     "en": "A stone slate written with incantations.",
+     "bytes": 40
+    },
+    {
+     "id": "accessory#79",
+     "jp": "闘志を高めるバングル",
+     "en": "A bangle that heightens fighting spirit.",
+     "bytes": 40
+    },
+    {
+     "id": "accessory#3",
+     "jp": "法術で強化されたタリスマン",
+     "en": "A talisman strengthened with holy arts.",
+     "bytes": 39
+    },
+    {
+     "id": "accessory#23",
+     "jp": "精霊の力が宿るバングル",
+     "en": "A bangle housing the power of spirits.",
+     "bytes": 38
+    },
+    {
+     "id": "accessory#77",
+     "jp": "闘志を高める指輪",
+     "en": "A ring that heightens fighting spirit.",
+     "bytes": 38
+    },
+    {
+     "id": "accessory#19",
+     "jp": "精霊の力が宿るマント",
+     "en": "A cloak housing the power of spirits.",
+     "bytes": 37
+    },
+    {
+     "id": "accessory#5",
+     "jp": "宗教儀式用のタトゥーシール",
+     "en": "A tattoo seal for religious rituals.",
+     "bytes": 36
+    },
+    {
+     "id": "accessory#53",
+     "jp": "妖精の力が宿る指輪",
+     "en": "A ring housing the power of fairies.",
+     "bytes": 36
+    },
+    {
+     "id": "accessory#65",
+     "jp": "大僧侶が削り出した石",
+     "en": "A stone carved out by a high priest.",
+     "bytes": 36
+    },
+    {
+     "id": "accessory#47",
+     "jp": "怨念が宿る手編みのマント",
+     "en": "A hand-knit cloak housing grudges.",
+     "bytes": 34
+    },
+    {
+     "id": "accessory#69",
+     "jp": "職人が磨き上げた月の石",
+     "en": "A moonstone polished by craftsmen.",
+     "bytes": 34
+    },
+    {
+     "id": "accessory#7",
+     "jp": "宗教儀式用のピアス",
+     "en": "An earring for religious rituals.",
+     "bytes": 33
+    },
+    {
+     "id": "accessory#61",
+     "jp": "聖水で磨かれた石",
+     "en": "A stone polished with holy water.",
+     "bytes": 33
+    },
+    {
+     "id": "accessory#67",
+     "jp": "魔力を帯びた月の石",
+     "en": "A moonstone imbued with magic.",
+     "bytes": 30
+    },
+    {
+     "id": "accessory#11",
+     "jp": "武僧用のバングル",
+     "en": "A bangle for warrior monks.",
+     "bytes": 27
+    },
+    {
+     "id": "accessory#21",
+     "jp": "軽く、頑丈なバングル",
+     "en": "A light and sturdy bangle.",
+     "bytes": 26
+    },
+    {
+     "id": "accessory#9",
+     "jp": "武僧用の指輪",
+     "en": "A ring for warrior monks.",
+     "bytes": 25
+    },
+    {
+     "id": "accessory#17",
+     "jp": "軽く、頑丈なマント",
+     "en": "A light and sturdy cloak.",
+     "bytes": 25
+    },
+    {
+     "id": "accessory#15",
+     "jp": "魔術師が作ったバングル",
+     "en": "A bangle made by a mage.",
+     "bytes": 24
+    },
+    {
+     "id": "accessory#25",
+     "jp": "特殊な科学用品",
+     "en": "Special scientific gear.",
+     "bytes": 24
+    },
+    {
+     "id": "accessory#13",
+     "jp": "魔術師が作った指輪",
+     "en": "A ring made by a mage.",
+     "bytes": 22
+    },
+    {
+     "id": "accessory#49",
+     "jp": "サファイアの指輪",
+     "en": "A sapphire ring.",
+     "bytes": 16
+    },
+    {
+     "id": "accessory#51",
+     "jp": "エメラルドの指輪",
+     "en": "An emerald ring.",
+     "bytes": 16
+    },
+    {
+     "id": "accessory#32",
+     "jp": "パラライチェック",
+     "en": "Paralysis Check",
+     "bytes": 15
+    },
+    {
+     "id": "accessory#68",
+     "jp": "ホワイトムーンストーン",
+     "en": "White Moonstone",
+     "bytes": 15
+    },
+    {
+     "id": "accessory#10",
+     "jp": "プロテクトバングル",
+     "en": "Protect Bangle",
+     "bytes": 14
+    },
+    {
+     "id": "accessory#20",
+     "jp": "フェザーバングル",
+     "en": "Feather Bangle",
+     "bytes": 14
+    },
+    {
+     "id": "accessory#26",
+     "jp": "ウィークネスチェック",
+     "en": "Weakness Check",
+     "bytes": 14
+    },
+    {
+     "id": "accessory#66",
+     "jp": "ブルームーンストーン",
+     "en": "Blue Moonstone",
+     "bytes": 14
+    },
+    {
+     "id": "accessory#2",
+     "jp": "ブルータリスマン",
+     "en": "Blue Talisman",
+     "bytes": 13
+    },
+    {
+     "id": "accessory#16",
+     "jp": "フェザーマント",
+     "en": "Feather Cloak",
+     "bytes": 13
+    },
+    {
+     "id": "accessory#48",
+     "jp": "サファイアリング",
+     "en": "Sapphire Ring",
+     "bytes": 13
+    },
+    {
+     "id": "accessory#78",
+     "jp": "メンタルバングル",
+     "en": "Mental Bangle",
+     "bytes": 13
+    },
+    {
+     "id": "accessory#8",
+     "jp": "プロテクトリング",
+     "en": "Protect Ring",
+     "bytes": 12
+    },
+    {
+     "id": "accessory#14",
+     "jp": "マジックバングル",
+     "en": "Magic Bangle",
+     "bytes": 12
+    },
+    {
+     "id": "accessory#22",
+     "jp": "エルヴンバングル",
+     "en": "Elven Bangle",
+     "bytes": 12
+    },
+    {
+     "id": "accessory#24",
+     "jp": "ポイズンチェック",
+     "en": "Poison Check",
+     "bytes": 12
+    },
+    {
+     "id": "accessory#50",
+     "jp": "エメラルドリング",
+     "en": "Emerald Ring",
+     "bytes": 12
+    },
+    {
+     "id": "accessory#56",
+     "jp": "ミスティシンボル",
+     "en": "Mysti Symbol",
+     "bytes": 12
+    },
+    {
+     "id": "accessory#70",
+     "jp": "ムーンクリスタル",
+     "en": "Moon Crystal",
+     "bytes": 12
+    },
+    {
+     "id": "accessory#6",
+     "jp": "フィートシンボル",
+     "en": "Feet Symbol",
+     "bytes": 11
+    },
+    {
+     "id": "accessory#18",
+     "jp": "エルヴンマント",
+     "en": "Elven Cloak",
+     "bytes": 11
+    },
+    {
+     "id": "accessory#34",
+     "jp": "ストーンチェック",
+     "en": "Stone Check",
+     "bytes": 11
+    },
+    {
+     "id": "accessory#38",
+     "jp": "アースマント",
+     "en": "Earth Cloak",
+     "bytes": 11
+    },
+    {
+     "id": "accessory#40",
+     "jp": "フレアマント",
+     "en": "Flare Cloak",
+     "bytes": 11
+    },
+    {
+     "id": "accessory#44",
+     "jp": "ライトマント",
+     "en": "Light Cloak",
+     "bytes": 11
+    },
+    {
+     "id": "accessory#74",
+     "jp": "ヒールバングル",
+     "en": "Heal Bangle",
+     "bytes": 11
+    },
+    {
+     "id": "accessory#76",
+     "jp": "メンタルリング",
+     "en": "Mental Ring",
+     "bytes": 11
+    },
+    {
+     "id": "accessory#12",
+     "jp": "マジックリング",
+     "en": "Magic Ring",
+     "bytes": 10
+    },
+    {
+     "id": "accessory#28",
+     "jp": "ピヨチェック",
+     "en": "Stun Check",
+     "bytes": 10
+    },
+    {
+     "id": "accessory#30",
+     "jp": "シールチェック",
+     "en": "Seal Check",
+     "bytes": 10
+    },
+    {
+     "id": "accessory#36",
+     "jp": "アクアマント",
+     "en": "Aqua Cloak",
+     "bytes": 10
+    },
+    {
+     "id": "accessory#42",
+     "jp": "ウィンドマント",
+     "en": "Wind Cloak",
+     "bytes": 10
+    },
+    {
+     "id": "accessory#46",
+     "jp": "ダークマント",
+     "en": "Dark Cloak",
+     "bytes": 10
+    },
+    {
+     "id": "accessory#52",
+     "jp": "フェアリィリング",
+     "en": "Fairy Ring",
+     "bytes": 10
+    },
+    {
+     "id": "accessory#54",
+     "jp": "ミスティマーク",
+     "en": "Mysti Mark",
+     "bytes": 10
+    },
+    {
+     "id": "accessory#58",
+     "jp": "マジックミスト",
+     "en": "Magic Mist",
+     "bytes": 10
+    },
+    {
+     "id": "accessory#60",
+     "jp": "モスアゲート",
+     "en": "Moss Agate",
+     "bytes": 10
+    },
+    {
+     "id": "accessory#64",
+     "jp": "ブラックオニキス",
+     "en": "Black Onyx",
+     "bytes": 10
+    },
+    {
+     "id": "accessory#4",
+     "jp": "フィートマーク",
+     "en": "Feet Mark",
+     "bytes": 9
+    },
+    {
+     "id": "accessory#72",
+     "jp": "ヒールリング",
+     "en": "Heal Ring",
+     "bytes": 9
+    },
+    {
+     "id": "accessory#0",
+     "jp": "タリスマン",
+     "en": "Talisman",
+     "bytes": 8
+    },
+    {
+     "id": "accessory#62",
+     "jp": "サードオニキス",
+     "en": "Sardonyx",
+     "bytes": 8
+    }
+   ]
+  },
+  "talisman": {
+   "arena_bytes": 1157,
+   "pool_atual_bytes": 1589,
+   "folga_atual": -432,
+   "meta_bytes_a_cortar": 524,
+   "itens": [
+    {
+     "id": "talisman#50",
+     "jp": "様々な神霊の加護を受けた神符（ＴＯ専用武器）",
+     "en": "A divine talisman receiving the protection of numerous spirits. (Tales Exclusive Weapon)",
+     "bytes": 88
+    },
+    {
+     "id": "talisman#44",
+     "jp": "神鳥を封じ、その力を行使出来るという霊符（ＴＯ専用武器）",
+     "en": "A sacred talisman sealing a divine bird to command its might. (Tales Exclusive Weapon)",
+     "bytes": 86
+    },
+    {
+     "id": "talisman#47",
+     "jp": "邪神の力を行使出来るという魔符（ＴＯ専用武器）",
+     "en": "A demonic talisman capable of wielding an evil god's power. (Tales Exclusive Weapon)",
+     "bytes": 84
+    },
+    {
+     "id": "talisman#29",
+     "jp": "雷精を従え使役出来るといわれる符（ＴＯ専用武器）",
+     "en": "A talisman said to command and control thunder spirits. (Tales Exclusive Weapon)",
+     "bytes": 80
+    },
+    {
+     "id": "talisman#53",
+     "jp": "日の女神より賜った聖符（ＴＯ専用武器）",
+     "en": "A sacred talisman bestowed by the goddess of the sun. (Tales Exclusive Weapon)",
+     "bytes": 78
+    },
+    {
+     "id": "talisman#23",
+     "jp": "風精を従え使役出来るといわれる符（ＴＯ専用武器）",
+     "en": "A talisman said to command and control wind spirits. (Tales Exclusive Weapon)",
+     "bytes": 77
+    },
+    {
+     "id": "talisman#41",
+     "jp": "雷神の力が込められた符（ＴＯ専用武器）",
+     "en": "A talisman imbued with the power of the thunder god. (Tales Exclusive Weapon)",
+     "bytes": 77
+    },
+    {
+     "id": "talisman#26",
+     "jp": "氷精を従え使役出来るといわれる符（ＴＯ専用武器）",
+     "en": "A talisman said to command and control ice spirits. (Tales Exclusive Weapon)",
+     "bytes": 76
+    },
+    {
+     "id": "talisman#38",
+     "jp": "鬼神の力が込められた符（ＴＯ専用武器）",
+     "en": "A talisman imbued with the power of a fierce deity. (Tales Exclusive Weapon)",
+     "bytes": 76
+    },
+    {
+     "id": "talisman#8",
+     "jp": "水精の力が込められた符（ＴＯ専用武器）",
+     "en": "A talisman imbued with the power of water spirits. (Tales Exclusive Weapon)",
+     "bytes": 75
+    },
+    {
+     "id": "talisman#11",
+     "jp": "地精の力が込められた符（ＴＯ専用武器）",
+     "en": "A talisman imbued with the power of earth spirits. (Tales Exclusive Weapon)",
+     "bytes": 75
+    },
+    {
+     "id": "talisman#32",
+     "jp": "絶大な法力が封じられた戦符（ＴＯ専用武器）",
+     "en": "A battle talisman sealing immense spiritual power. (Tales Exclusive Weapon)",
+     "bytes": 75
+    },
+    {
+     "id": "talisman#17",
+     "jp": "火精の力が込められた符（ＴＯ専用武器）",
+     "en": "A talisman imbued with the power of fire spirits. (Tales Exclusive Weapon)",
+     "bytes": 74
+    },
+    {
+     "id": "talisman#35",
+     "jp": "風神の力が込められた符（ＴＯ専用武器）",
+     "en": "A talisman imbued with the power of the wind god. (Tales Exclusive Weapon)",
+     "bytes": 74
+    },
+    {
+     "id": "talisman#14",
+     "jp": "闘神の力が込められた符（ＴＯ専用武器）",
+     "en": "A talisman imbued with the power of a war deity. (Tales Exclusive Weapon)",
+     "bytes": 73
+    },
+    {
+     "id": "talisman#20",
+     "jp": "法力が込められた符（ＴＯ専用武器）",
+     "en": "A talisman imbued with dharmic spiritual power. (Tales Exclusive Weapon)",
+     "bytes": 72
+    },
+    {
+     "id": "talisman#5",
+     "jp": "大盛況の縁起物（ＴＯ専用武器）",
+     "en": "A lucky charm celebrating a thriving business. (Tales Exclusive Weapon)",
+     "bytes": 71
+    },
+    {
+     "id": "talisman#2",
+     "jp": "儀式や呪術に用いられる基本的な符（ＴＯ専用武器）",
+     "en": "A basic talisman used in rituals and spells. (Tales Exclusive Weapon)",
+     "bytes": 69
+    },
+    {
+     "id": "talisman#54",
+     "jp": "最大値（符）",
+     "en": "Max Value (Talisman)",
+     "bytes": 20
+    },
+    {
+     "id": "talisman#0",
+     "jp": "式符",
+     "en": "Ceremonial Talisman",
+     "bytes": 19
+    },
+    {
+     "id": "talisman#3",
+     "jp": "大入袋",
+     "en": "Full House Pouch",
+     "bytes": 16
+    },
+    {
+     "id": "talisman#27",
+     "jp": "雷鼠",
+     "en": "Thunder Rat",
+     "bytes": 11
+    },
+    {
+     "id": "talisman#6",
+     "jp": "水鳥",
+     "en": "Water Bird",
+     "bytes": 10
+    },
+    {
+     "id": "talisman#15",
+     "jp": "火熊",
+     "en": "Fire Bear",
+     "bytes": 9
+    },
+    {
+     "id": "talisman#42",
+     "jp": "鳳凰",
+     "en": "Fenghuang",
+     "bytes": 9
+    },
+    {
+     "id": "talisman#51",
+     "jp": "天照",
+     "en": "Amaterasu",
+     "bytes": 9
+    },
+    {
+     "id": "talisman#12",
+     "jp": "羅刹",
+     "en": "Rakshasa",
+     "bytes": 8
+    },
+    {
+     "id": "talisman#21",
+     "jp": "風猫",
+     "en": "Wind Cat",
+     "bytes": 8
+    },
+    {
+     "id": "talisman#24",
+     "jp": "氷狼",
+     "en": "Ice Wolf",
+     "bytes": 8
+    },
+    {
+     "id": "talisman#36",
+     "jp": "夜叉",
+     "en": "Yaksha",
+     "bytes": 6
+    },
+    {
+     "id": "talisman#39",
+     "jp": "雷神",
+     "en": "Raijin",
+     "bytes": 6
+    },
+    {
+     "id": "talisman#18",
+     "jp": "金剛",
+     "en": "Vajra",
+     "bytes": 5
+    },
+    {
+     "id": "talisman#33",
+     "jp": "風神",
+     "en": "Fujin",
+     "bytes": 5
+    },
+    {
+     "id": "talisman#45",
+     "jp": "阿修羅",
+     "en": "Asura",
+     "bytes": 5
+    },
+    {
+     "id": "talisman#48",
+     "jp": "神威",
+     "en": "Kamui",
+     "bytes": 5
+    },
+    {
+     "id": "talisman#9",
+     "jp": "土竜",
+     "en": "Mole",
+     "bytes": 4
+    },
+    {
+     "id": "talisman#30",
+     "jp": "不動",
+     "en": "Fudo",
+     "bytes": 4
+    }
+   ]
+  },
+  "sash": {
+   "arena_bytes": 1321,
+   "pool_atual_bytes": 1641,
+   "folga_atual": -320,
+   "meta_bytes_a_cortar": 425,
+   "itens": [
+    {
+     "id": "sash#1",
+     "jp": "マナ伝導率の高い繊維で編まれた伸縮自在の腰布（ＴＯ専用武器）",
+     "en": "An elastic waistcloth woven from fibers with high mana conductivity. (Tales Exclusive Weapon)",
+     "bytes": 93
+    },
+    {
+     "id": "sash#35",
+     "jp": "マナ加工の帯を適当な長さに切った武器（ＴＯ専用武器）",
+     "en": "A weapon made by cutting mana-treated sashes to appropriate length. (Tales Exclusive Weapon)",
+     "bytes": 92
+    },
+    {
+     "id": "sash#27",
+     "jp": "幻惑効果の高い模様が描かれた長帯（ＴＯ専用武器）",
+     "en": "A long sash painted with patterns having high bewitching effects. (Tales Exclusive Weapon)",
+     "bytes": 90
+    },
+    {
+     "id": "sash#4",
+     "jp": "荒っぽい調教や拷問用と考えられがちな一本鞭（ＴＯ専用武器）",
+     "en": "A single-tail whip often mistaken for rough training or torture. (Tales Exclusive Weapon)",
+     "bytes": 89
+    },
+    {
+     "id": "sash#21",
+     "jp": "古代神殿の銅像から作られた特殊な鎖（ＴＯ専用武器）",
+     "en": "A special chain forged from bronze statues of ancient temples. (Tales Exclusive Weapon)",
+     "bytes": 87
+    },
+    {
+     "id": "sash#33",
+     "jp": "金糸を使い満天の星空を描いた美しい織物（ＴＯ専用武器）",
+     "en": "A beautiful fabric depicting a starry sky with golden threads. (Tales Exclusive Weapon)",
+     "bytes": 87
+    },
+    {
+     "id": "sash#29",
+     "jp": "何かを封印した痕跡のある絵画の一片（ＴＯ専用武器）",
+     "en": "A fragment of a painting bearing traces of a sealed entity. (Tales Exclusive Weapon)",
+     "bytes": 84
+    },
+    {
+     "id": "sash#17",
+     "jp": "決死の想いが込められた血判の巻物（ＴＯ専用武器）",
+     "en": "A blood-sealed scroll filled with desperate determination. (Tales Exclusive Weapon)",
+     "bytes": 83
+    },
+    {
+     "id": "sash#11",
+     "jp": "ハート形の花びらをモチーフにした反物（ＴＯ専用武器）",
+     "en": "Cloth patterned with a motif of heart-shaped petals. (Tales Exclusive Weapon)",
+     "bytes": 77
+    },
+    {
+     "id": "sash#7",
+     "jp": "色々と気になるサイズをチェック出来る道具（ＴＯ専用武器）",
+     "en": "A tool used to check various curious measurements. (Tales Exclusive Weapon)",
+     "bytes": 75
+    },
+    {
+     "id": "sash#23",
+     "jp": "海洋民族が使った幸運を呼ぶ染物（ＴＯ専用武器）",
+     "en": "A fortunate dyed cloth used by sea-dwelling folk. (Tales Exclusive Weapon)",
+     "bytes": 74
+    },
+    {
+     "id": "sash#13",
+     "jp": "決して色あせる事の無い完全な緑色の染物（ＴＯ専用武器）",
+     "en": "A dyed fabric of pure green that never fades. (Tales Exclusive Weapon)",
+     "bytes": 70
+    },
+    {
+     "id": "sash#15",
+     "jp": "帯にリベットが埋め込まれているベルト（ＴＯ専用武器）",
+     "en": "A belt studded with rivets along its strap. (Tales Exclusive Weapon)",
+     "bytes": 68
+    },
+    {
+     "id": "sash#19",
+     "jp": "液体状のマナ伝導体をしみこませたリボン（ＴＯ専用武器）",
+     "en": "A ribbon soaked in liquid mana conductors. (Tales Exclusive Weapon)",
+     "bytes": 67
+    },
+    {
+     "id": "sash#25",
+     "jp": "伝説の魔術師が着用していたマントの一部（ＴＯ専用武器）",
+     "en": "Part of a cloak worn by a legendary mage. (Tales Exclusive Weapon)",
+     "bytes": 66
+    },
+    {
+     "id": "sash#37",
+     "jp": "なぞの金属で作られている鎖（ＴＯ専用武器）",
+     "en": "A chain crafted from a mysterious metal. (Tales Exclusive Weapon)",
+     "bytes": 65
+    },
+    {
+     "id": "sash#9",
+     "jp": "ちょっと考えられないサイズのベルト（ＴＯ専用武器）",
+     "en": "A belt of almost unimaginable size. (Tales Exclusive Weapon)",
+     "bytes": 60
+    },
+    {
+     "id": "sash#31",
+     "jp": "呪いの絵画の一片（ＴＯ専用武器）",
+     "en": "A fragment of a cursed painting. (Tales Exclusive Weapon)",
+     "bytes": 57
+    },
+    {
+     "id": "sash#38",
+     "jp": "最大値（帯）",
+     "en": "Max Value (Sash)",
+     "bytes": 16
+    },
+    {
+     "id": "sash#8",
+     "jp": "キングサイズベルト",
+     "en": "King Size Belt",
+     "bytes": 14
+    },
+    {
+     "id": "sash#16",
+     "jp": "カクゴノキロク",
+     "en": "Resolve Scroll",
+     "bytes": 14
+    },
+    {
+     "id": "sash#18",
+     "jp": "グローイングリボン",
+     "en": "Glowing Ribbon",
+     "bytes": 14
+    },
+    {
+     "id": "sash#28",
+     "jp": "デスコントラスト",
+     "en": "Death Contrast",
+     "bytes": 14
+    },
+    {
+     "id": "sash#10",
+     "jp": "エンドレスハート",
+     "en": "Endless Heart",
+     "bytes": 13
+    },
+    {
+     "id": "sash#12",
+     "jp": "パーフェクトグリーン",
+     "en": "Perfect Green",
+     "bytes": 13
+    },
+    {
+     "id": "sash#20",
+     "jp": "グリムカーディアン",
+     "en": "Grim Guardian",
+     "bytes": 13
+    },
+    {
+     "id": "sash#2",
+     "jp": "皮のムチ",
+     "en": "Leather Whip",
+     "bytes": 12
+    },
+    {
+     "id": "sash#5",
+     "jp": "巻き尺",
+     "en": "Tape Measure",
+     "bytes": 12
+    },
+    {
+     "id": "sash#24",
+     "jp": "ティンクルスター",
+     "en": "Twinkle Star",
+     "bytes": 12
+    },
+    {
+     "id": "sash#26",
+     "jp": "サイケデリカ",
+     "en": "Psychedelica",
+     "bytes": 12
+    },
+    {
+     "id": "sash#36",
+     "jp": "セイクリッドチェーン",
+     "en": "Sacred Chain",
+     "bytes": 12
+    },
+    {
+     "id": "sash#14",
+     "jp": "リベットベルト",
+     "en": "Rivet Belt",
+     "bytes": 10
+    },
+    {
+     "id": "sash#22",
+     "jp": "エヴァーブルー",
+     "en": "Ever Blue",
+     "bytes": 9
+    },
+    {
+     "id": "sash#32",
+     "jp": "ミルキーウェイ",
+     "en": "Milky Way",
+     "bytes": 9
+    },
+    {
+     "id": "sash#30",
+     "jp": "アヌビス",
+     "en": "Anubis",
+     "bytes": 6
+    },
+    {
+     "id": "sash#34",
+     "jp": "アスピオン",
+     "en": "Aspion",
+     "bytes": 6
+    },
+    {
+     "id": "sash#0",
+     "jp": "サッシュ",
+     "en": "Sash",
+     "bytes": 4
+    }
+   ]
+  },
+  "crossbow": {
+   "arena_bytes": 1195,
+   "pool_atual_bytes": 1466,
+   "folga_atual": -271,
+   "meta_bytes_a_cortar": 366,
+   "itens": [
+    {
+     "id": "crossbow#5",
+     "jp": "弦の改良で威力と射程が上がったボウガン（ＴＯ専用武器）",
+     "en": "A crossbow with increased power and range via bowstring improvements. (Tales Exclusive Weapon)",
+     "bytes": 94
+    },
+    {
+     "id": "crossbow#33",
+     "jp": "魔の力を借りて威力を上げたボウガン（ＴＯ専用武器）",
+     "en": "A crossbow whose power is enhanced by borrowing demonic forces. (Tales Exclusive Weapon)",
+     "bytes": 88
+    },
+    {
+     "id": "crossbow#29",
+     "jp": "聖なる力で如何なるものも射程に捉えるボウガン（ＴＯ専用武器）",
+     "en": "A crossbow with holy power bringing all targets into range. (Tales Exclusive Weapon)",
+     "bytes": 84
+    },
+    {
+     "id": "crossbow#23",
+     "jp": "限られた者しか入手出来ない特注品のボウガン（ＴＯ専用武器）",
+     "en": "A custom-ordered crossbow available only to a select few. (Tales Exclusive Weapon)",
+     "bytes": 82
+    },
+    {
+     "id": "crossbow#35",
+     "jp": "竜の鱗をも貫く伝説級のボウガン（ＴＯ専用武器）",
+     "en": "A legendary crossbow that pierces even dragon scales. (Tales Exclusive Weapon)",
+     "bytes": 78
+    },
+    {
+     "id": "crossbow#27",
+     "jp": "量産品から稀に出てくる超高品質のボウガン（ＴＯ専用武器）",
+     "en": "A superb crossbow rarely produced from mass lines. (Tales Exclusive Weapon)",
+     "bytes": 75
+    },
+    {
+     "id": "crossbow#19",
+     "jp": "軽量でありながら高い性能を誇るボウガン（ＴＯ専用武器）",
+     "en": "A lightweight crossbow boasting high performance. (Tales Exclusive Weapon)",
+     "bytes": 74
+    },
+    {
+     "id": "crossbow#25",
+     "jp": "悪天候でも安定した性能を発揮するボウガン（ＴＯ専用武器）",
+     "en": "A crossbow performing stably even in bad weather. (Tales Exclusive Weapon)",
+     "bytes": 74
+    },
+    {
+     "id": "crossbow#9",
+     "jp": "簡易構造でメンテナンスが楽なボウガン（ＴＯ専用武器）",
+     "en": "A crossbow of simple structure easy to maintain. (Tales Exclusive Weapon)",
+     "bytes": 73
+    },
+    {
+     "id": "crossbow#31",
+     "jp": "必ず急所に当たると噂されるボウガン（ＴＯ専用武器）",
+     "en": "A crossbow rumored to always strike vital spots. (Tales Exclusive Weapon)",
+     "bytes": 73
+    },
+    {
+     "id": "crossbow#11",
+     "jp": "矢の装填に時間がかからないボウガン（ＴＯ専用武器）",
+     "en": "A crossbow that takes no time to reload bolts. (Tales Exclusive Weapon)",
+     "bytes": 71
+    },
+    {
+     "id": "crossbow#17",
+     "jp": "魔獣を狩る為に作られたボウガン（ＴＯ専用武器）",
+     "en": "A crossbow crafted for hunting magical beasts. (Tales Exclusive Weapon)",
+     "bytes": 71
+    },
+    {
+     "id": "crossbow#21",
+     "jp": "特殊な矢を使う高威力のボウガン（ＴＯ専用武器）",
+     "en": "A high-powered crossbow using special bolts. (Tales Exclusive Weapon)",
+     "bytes": 69
+    },
+    {
+     "id": "crossbow#13",
+     "jp": "命中精度が高い狙撃用のボウガン（ＴＯ専用武器）",
+     "en": "A sniping crossbow with high accuracy. (Tales Exclusive Weapon)",
+     "bytes": 63
+    },
+    {
+     "id": "crossbow#15",
+     "jp": "軍でも用いられている良質なボウガン（ＴＯ専用武器）",
+     "en": "A fine crossbow used by the military. (Tales Exclusive Weapon)",
+     "bytes": 62
+    },
+    {
+     "id": "crossbow#1",
+     "jp": "市販品のボウガン（ＴＯ専用武器）",
+     "en": "A commercially sold crossbow. (Tales Exclusive Weapon)",
+     "bytes": 54
+    },
+    {
+     "id": "crossbow#7",
+     "jp": "護身用のボウガン（ＴＯ専用武器）",
+     "en": "A self-defense crossbow. (Tales Exclusive Weapon)",
+     "bytes": 49
+    },
+    {
+     "id": "crossbow#3",
+     "jp": "狩猟用のボウガン（ＴＯ専用武器）",
+     "en": "A hunting crossbow. (Tales Exclusive Weapon)",
+     "bytes": 44
+    },
+    {
+     "id": "crossbow#36",
+     "jp": "最大値（ボウガン）",
+     "en": "Max Value (Crossbow)",
+     "bytes": 20
+    },
+    {
+     "id": "crossbow#30",
+     "jp": "ペレグリノ",
+     "en": "Pellegrino",
+     "bytes": 10
+    },
+    {
+     "id": "crossbow#32",
+     "jp": "フレズベルグ",
+     "en": "Hraesvelgr",
+     "bytes": 10
+    },
+    {
+     "id": "crossbow#34",
+     "jp": "アレクトリス",
+     "en": "Alectoris",
+     "bytes": 9
+    },
+    {
+     "id": "crossbow#0",
+     "jp": "ゲイルアーク",
+     "en": "Gale Arc",
+     "bytes": 8
+    },
+    {
+     "id": "crossbow#6",
+     "jp": "シュヴァルベ",
+     "en": "Schwalbe",
+     "bytes": 8
+    },
+    {
+     "id": "crossbow#10",
+     "jp": "パシアノス",
+     "en": "Pasianos",
+     "bytes": 8
+    },
+    {
+     "id": "crossbow#28",
+     "jp": "ヴィゾフニル",
+     "en": "Vidofnir",
+     "bytes": 8
+    },
+    {
+     "id": "crossbow#8",
+     "jp": "マルファス",
+     "en": "Malphas",
+     "bytes": 7
+    },
+    {
+     "id": "crossbow#22",
+     "jp": "シームルグ",
+     "en": "Simurgh",
+     "bytes": 7
+    },
+    {
+     "id": "crossbow#24",
+     "jp": "ミストラル",
+     "en": "Mistral",
+     "bytes": 7
+    },
+    {
+     "id": "crossbow#26",
+     "jp": "アムルゼス",
+     "en": "Amulzes",
+     "bytes": 7
+    },
+    {
+     "id": "crossbow#12",
+     "jp": "コルニクス",
+     "en": "Cornix",
+     "bytes": 6
+    },
+    {
+     "id": "crossbow#16",
+     "jp": "ガルダ",
+     "en": "Garuda",
+     "bytes": 6
+    },
+    {
+     "id": "crossbow#20",
+     "jp": "アウストル",
+     "en": "Auster",
+     "bytes": 6
+    },
+    {
+     "id": "crossbow#2",
+     "jp": "インバット",
+     "en": "Imbat",
+     "bytes": 5
+    },
+    {
+     "id": "crossbow#14",
+     "jp": "クレイン",
+     "en": "Crane",
+     "bytes": 5
+    },
+    {
+     "id": "crossbow#18",
+     "jp": "オルテュクス",
+     "en": "Ortyx",
+     "bytes": 5
+    },
+    {
+     "id": "crossbow#4",
+     "jp": "シャックス",
+     "en": "Shax",
+     "bytes": 4
+    }
+   ]
+  },
+  "kendama": {
+   "arena_bytes": 1055,
+   "pool_atual_bytes": 1321,
+   "folga_atual": -266,
+   "meta_bytes_a_cortar": 350,
+   "itens": [
+    {
+     "id": "kendama#3",
+     "jp": "おもちゃでも本気で殴れるケンダマ（ＴＯ専用武器）",
+     "en": "A kendama you can strike seriously with despite being a toy. (Tales Exclusive Weapon)",
+     "bytes": 85
+    },
+    {
+     "id": "kendama#11",
+     "jp": "中級者用本格的ケンダマ（ＴＯ専用武器）",
+     "en": "An authentic kendama for intermediate players. (Tales Exclusive Weapon)",
+     "bytes": 71
+    },
+    {
+     "id": "kendama#15",
+     "jp": "奇抜な技を披露できるケンダマ（ＴＯ専用武器）",
+     "en": "A kendama capable of performing flashy tricks. (Tales Exclusive Weapon)",
+     "bytes": 71
+    },
+    {
+     "id": "kendama#17",
+     "jp": "影で踊る地道なプレイ用ケンダマ（ＴＯ専用武器）",
+     "en": "A kendama for steady practice in the shadows. (Tales Exclusive Weapon)",
+     "bytes": 70
+    },
+    {
+     "id": "kendama#31",
+     "jp": "振るとオーロラが見えるケンダマ（ＴＯ専用武器）",
+     "en": "A kendama that displays auroras when swung. (Tales Exclusive Weapon)",
+     "bytes": 68
+    },
+    {
+     "id": "kendama#27",
+     "jp": "上級者用本格的ケンダマ（ＴＯ専用武器）",
+     "en": "An authentic kendama for advanced players. (Tales Exclusive Weapon)",
+     "bytes": 67
+    },
+    {
+     "id": "kendama#29",
+     "jp": "伝統ある儀式に使われたケンダマ（ＴＯ専用武器）",
+     "en": "A kendama used in traditional ceremonies. (Tales Exclusive Weapon)",
+     "bytes": 66
+    },
+    {
+     "id": "kendama#35",
+     "jp": "気分は銀河一周（ＴＯ専用武器）",
+     "en": "Feeling like traveling across the galaxy. (Tales Exclusive Weapon)",
+     "bytes": 66
+    },
+    {
+     "id": "kendama#23",
+     "jp": "気分は世界一周（ＴＯ専用武器）",
+     "en": "Feeling like traveling around the world. (Tales Exclusive Weapon)",
+     "bytes": 65
+    },
+    {
+     "id": "kendama#7",
+     "jp": "初心者用本格的ケンダマ（ＴＯ専用武器）",
+     "en": "An authentic kendama for beginners. (Tales Exclusive Weapon)",
+     "bytes": 60
+    },
+    {
+     "id": "kendama#5",
+     "jp": "イナズマの様なスーパーケンダマ（ＴＯ専用武器）",
+     "en": "A super kendama like lightning. (Tales Exclusive Weapon)",
+     "bytes": 56
+    },
+    {
+     "id": "kendama#21",
+     "jp": "イリュージョニスト用ケンダマ（ＴＯ専用武器）",
+     "en": "A kendama for illusionists. (Tales Exclusive Weapon)",
+     "bytes": 52
+    },
+    {
+     "id": "kendama#33",
+     "jp": "まさに神業（ＴＯ専用武器）",
+     "en": "Truly a divine performance. (Tales Exclusive Weapon)",
+     "bytes": 52
+    },
+    {
+     "id": "kendama#19",
+     "jp": "少し大型のケンダマ（ＴＯ専用武器）",
+     "en": "A slightly larger kendama. (Tales Exclusive Weapon)",
+     "bytes": 51
+    },
+    {
+     "id": "kendama#25",
+     "jp": "飛行機の様に軽やか！（ＴＯ専用武器）",
+     "en": "Light as an airplane! (Tales Exclusive Weapon)",
+     "bytes": 46
+    },
+    {
+     "id": "kendama#9",
+     "jp": "小型のケンダマ（ＴＯ専用武器）",
+     "en": "A compact kendama. (Tales Exclusive Weapon)",
+     "bytes": 43
+    },
+    {
+     "id": "kendama#1",
+     "jp": "木製のケンダマ（ＴＯ専用武器）",
+     "en": "A wooden kendama. (Tales Exclusive Weapon)",
+     "bytes": 42
+    },
+    {
+     "id": "kendama#13",
+     "jp": "戦闘用ケンダマ（ＴＯ専用武器）",
+     "en": "A combat kendama. (Tales Exclusive Weapon)",
+     "bytes": 42
+    },
+    {
+     "id": "kendama#36",
+     "jp": "最大値（剣玉）",
+     "en": "Max Value (Kendama)",
+     "bytes": 19
+    },
+    {
+     "id": "kendama#22",
+     "jp": "アラウンドザワールド",
+     "en": "Around the World",
+     "bytes": 16
+    },
+    {
+     "id": "kendama#30",
+     "jp": "ノーザンライト",
+     "en": "Northern Light",
+     "bytes": 14
+    },
+    {
+     "id": "kendama#4",
+     "jp": "サンダードリフト",
+     "en": "Thunder Drift",
+     "bytes": 13
+    },
+    {
+     "id": "kendama#16",
+     "jp": "シャドウダンサー",
+     "en": "Shadow Dancer",
+     "bytes": 13
+    },
+    {
+     "id": "kendama#20",
+     "jp": "ファンタゴズマリア",
+     "en": "Fantagosmaria",
+     "bytes": 13
+    },
+    {
+     "id": "kendama#32",
+     "jp": "ヘヴンリープレイ",
+     "en": "Heavenly Play",
+     "bytes": 13
+    },
+    {
+     "id": "kendama#6",
+     "jp": "ナイチンゲール",
+     "en": "Nightingale",
+     "bytes": 11
+    },
+    {
+     "id": "kendama#8",
+     "jp": "ハミングバード",
+     "en": "Hummingbird",
+     "bytes": 11
+    },
+    {
+     "id": "kendama#34",
+     "jp": "ギャラクシープレイ",
+     "en": "Galaxy Play",
+     "bytes": 11
+    },
+    {
+     "id": "kendama#14",
+     "jp": "トリックプレイ",
+     "en": "Trick Play",
+     "bytes": 10
+    },
+    {
+     "id": "kendama#28",
+     "jp": "ライジングサン",
+     "en": "Rising Sun",
+     "bytes": 10
+    },
+    {
+     "id": "kendama#0",
+     "jp": "イージープレイ",
+     "en": "Easy Play",
+     "bytes": 9
+    },
+    {
+     "id": "kendama#2",
+     "jp": "デュエルプレイ",
+     "en": "Duel Play",
+     "bytes": 9
+    },
+    {
+     "id": "kendama#12",
+     "jp": "ウォープレイ",
+     "en": "War Play",
+     "bytes": 8
+    },
+    {
+     "id": "kendama#24",
+     "jp": "エアプレーン",
+     "en": "Airplane",
+     "bytes": 8
+    },
+    {
+     "id": "kendama#10",
+     "jp": "ハヤテ",
+     "en": "Hayate",
+     "bytes": 6
+    },
+    {
+     "id": "kendama#18",
+     "jp": "ファルコン",
+     "en": "Falcon",
+     "bytes": 6
+    },
+    {
+     "id": "kendama#26",
+     "jp": "シュライン",
+     "en": "Shrine",
+     "bytes": 6
+    }
+   ]
+  },
+  "flute": {
+   "arena_bytes": 1253,
+   "pool_atual_bytes": 1519,
+   "folga_atual": -266,
+   "meta_bytes_a_cortar": 366,
+   "itens": [
+    {
+     "id": "flute#13",
+     "jp": "東方より伝わった竹製の木管楽器（ＴＯ専用武器）",
+     "en": "A bamboo woodwind instrument passed down from the East. (Tales Exclusive Weapon)",
+     "bytes": 80
+    },
+    {
+     "id": "flute#24",
+     "jp": "ウグイスの鳴き声を模した小さな笛（ＴＯ専用武器）",
+     "en": "A small whistle mimicking the song of a bush warbler. (Tales Exclusive Weapon)",
+     "bytes": 78
+    },
+    {
+     "id": "flute#37",
+     "jp": "東方より伝わりし落人伝説の笛（ＴＯ専用武器）",
+     "en": "A flute of fugitive legend handed down from the East. (Tales Exclusive Weapon)",
+     "bytes": 78
+    },
+    {
+     "id": "flute#17",
+     "jp": "お子様に大人気のピヨピヨを模したホイッスル（ＴＯ専用武器）",
+     "en": "A whistle modeled after the beloved chick Piyo Piyo. (Tales Exclusive Weapon)",
+     "bytes": 77
+    },
+    {
+     "id": "flute#20",
+     "jp": "熱血教師向けの汗と涙のホイッスル（ＴＯ専用武器）",
+     "en": "A whistle of sweat and tears for passionate coaches. (Tales Exclusive Weapon)",
+     "bytes": 77
+    },
+    {
+     "id": "flute#15",
+     "jp": "高い音域を出す事に秀でた横笛（ＴＯ専用武器）",
+     "en": "A transverse flute excelling in high pitch ranges. (Tales Exclusive Weapon)",
+     "bytes": 75
+    },
+    {
+     "id": "flute#28",
+     "jp": "思わずリズムを取りたくなる軽快な音のホイッスル（ＴＯ専用武器）",
+     "en": "A whistle with a lively sound that makes you move. (Tales Exclusive Weapon)",
+     "bytes": 75
+    },
+    {
+     "id": "flute#5",
+     "jp": "戦の合図や号令に使われた貝で出来た笛（ＴＯ専用武器）",
+     "en": "A shell flute used for war signals and commands. (Tales Exclusive Weapon)",
+     "bytes": 73
+    },
+    {
+     "id": "flute#1",
+     "jp": "合図や指示に使われる簡易な笛（ＴＯ専用武器）",
+     "en": "A simple whistle used for signals and commands. (Tales Exclusive Weapon)",
+     "bytes": 72
+    },
+    {
+     "id": "flute#22",
+     "jp": "進軍の合図に使われる軍用ラッパ（ＴＯ専用武器）",
+     "en": "A military bugle used as an advance signal. (Tales Exclusive Weapon)",
+     "bytes": 68
+    },
+    {
+     "id": "flute#30",
+     "jp": "幼いころの思い出が込められたホイッスル（ＴＯ専用武器）",
+     "en": "A whistle carrying memories from childhood. (Tales Exclusive Weapon)",
+     "bytes": 68
+    },
+    {
+     "id": "flute#32",
+     "jp": "その音色は瞬く星の如く（ＴＯ専用武器）",
+     "en": "Its timbre sparkles like twinkling stars. (Tales Exclusive Weapon)",
+     "bytes": 66
+    },
+    {
+     "id": "flute#34",
+     "jp": "突撃の合図に使われる軍用ラッパ（ＴＯ専用武器）",
+     "en": "A military bugle used as a charge signal. (Tales Exclusive Weapon)",
+     "bytes": 66
+    },
+    {
+     "id": "flute#8",
+     "jp": "犬に命令を与える時に使用する笛（ＴＯ専用武器）",
+     "en": "A whistle used to give commands to dogs. (Tales Exclusive Weapon)",
+     "bytes": 65
+    },
+    {
+     "id": "flute#10",
+     "jp": "筒の先が広がった金管楽器（ＴＯ専用武器）",
+     "en": "A brass instrument with a flared bell. (Tales Exclusive Weapon)",
+     "bytes": 63
+    },
+    {
+     "id": "flute#39",
+     "jp": "永遠に変わる事のない真実の音（ＴＯ専用武器）",
+     "en": "The timeless sound of eternal truth. (Tales Exclusive Weapon)",
+     "bytes": 61
+    },
+    {
+     "id": "flute#3",
+     "jp": "初心者用の縦笛（ＴＯ専用武器）",
+     "en": "A vertical flute for beginners. (Tales Exclusive Weapon)",
+     "bytes": 56
+    },
+    {
+     "id": "flute#26",
+     "jp": "とても可愛いホラガイ（ＴＯ専用武器）",
+     "en": "A very cute conch horn. (Tales Exclusive Weapon)",
+     "bytes": 48
+    },
+    {
+     "id": "flute#18",
+     "jp": "体育教師ホイッスル",
+     "en": "Gym Teacher Whistle",
+     "bytes": 19
+    },
+    {
+     "id": "flute#16",
+     "jp": "ピヨピヨホイッスル",
+     "en": "Piyo Piyo Whistle",
+     "bytes": 17
+    },
+    {
+     "id": "flute#25",
+     "jp": "プリティホラガイ",
+     "en": "Pretty Conch Horn",
+     "bytes": 17
+    },
+    {
+     "id": "flute#40",
+     "jp": "最大値（笛）",
+     "en": "Max Value (Flute)",
+     "bytes": 17
+    },
+    {
+     "id": "flute#23",
+     "jp": "ウグイスブエ",
+     "en": "Warbler Whistle",
+     "bytes": 15
+    },
+    {
+     "id": "flute#21",
+     "jp": "シングンラッパ",
+     "en": "Marching Bugle",
+     "bytes": 14
+    },
+    {
+     "id": "flute#29",
+     "jp": "メモリーホイッスル",
+     "en": "Memory Whistle",
+     "bytes": 14
+    },
+    {
+     "id": "flute#38",
+     "jp": "エターニアメロディ",
+     "en": "Eternia Melody",
+     "bytes": 14
+    },
+    {
+     "id": "flute#27",
+     "jp": "サンバホイッスル",
+     "en": "Samba Whistle",
+     "bytes": 13
+    },
+    {
+     "id": "flute#31",
+     "jp": "トゥインクルフルート",
+     "en": "Twinkle Flute",
+     "bytes": 13
+    },
+    {
+     "id": "flute#33",
+     "jp": "トツゲキラッパ",
+     "en": "Charge Bugle",
+     "bytes": 12
+    },
+    {
+     "id": "flute#6",
+     "jp": "犬笛",
+     "en": "Dog Whistle",
+     "bytes": 11
+    },
+    {
+     "id": "flute#4",
+     "jp": "ホラガイ",
+     "en": "Conch Horn",
+     "bytes": 10
+    },
+    {
+     "id": "flute#11",
+     "jp": "尺八",
+     "en": "Shakuhachi",
+     "bytes": 10
+    },
+    {
+     "id": "flute#35",
+     "jp": "青葉の笛",
+     "en": "Aoba Flute",
+     "bytes": 10
+    },
+    {
+     "id": "flute#2",
+     "jp": "リコーダー",
+     "en": "Recorder",
+     "bytes": 8
+    },
+    {
+     "id": "flute#0",
+     "jp": "ホイッスル",
+     "en": "Whistle",
+     "bytes": 7
+    },
+    {
+     "id": "flute#9",
+     "jp": "ラッパ",
+     "en": "Bugle",
+     "bytes": 5
+    },
+    {
+     "id": "flute#14",
+     "jp": "フルート",
+     "en": "Flute",
+     "bytes": 5
+    }
+   ]
+  },
+  "pen": {
+   "arena_bytes": 1363,
+   "pool_atual_bytes": 1617,
+   "folga_atual": -254,
+   "meta_bytes_a_cortar": 363,
+   "itens": [
+    {
+     "id": "pen#5",
+     "jp": "僅かなミスも見逃さない編集者御用達のペン（ＴＯ専用武器）",
+     "en": "An editor's favorite pen that overlooks not a single mistake. (Tales Exclusive Weapon)",
+     "bytes": 86
+    },
+    {
+     "id": "pen#38",
+     "jp": "たまに字を間違える高貴なる筆記具（ＴＯ専用武器）",
+     "en": "A noble writing brush that occasionally slips up characters. (Tales Exclusive Weapon)",
+     "bytes": 85
+    },
+    {
+     "id": "pen#18",
+     "jp": "動物の毛を束ね、墨を使って字を書く筆（ＴＯ専用武器）",
+     "en": "A brush bundling animal hair to write characters with ink. (Tales Exclusive Weapon)",
+     "bytes": 83
+    },
+    {
+     "id": "pen#43",
+     "jp": "断筆した作家が使っていた非業のペン（ＴＯ専用武器）",
+     "en": "The tragic pen once used by an author who gave up writing. (Tales Exclusive Weapon)",
+     "bytes": 83
+    },
+    {
+     "id": "pen#23",
+     "jp": "強弱の付いた線が引ける器用なペン（ＴＯ専用武器）",
+     "en": "A versatile pen capable of drawing varied line thickness. (Tales Exclusive Weapon)",
+     "bytes": 82
+    },
+    {
+     "id": "pen#20",
+     "jp": "均一の線が引ける地図作成用のペン（ＴＯ専用武器）",
+     "en": "A pen for cartography capable of drawing uniform lines. (Tales Exclusive Weapon)",
+     "bytes": 80
+    },
+    {
+     "id": "pen#46",
+     "jp": "剣の一撃よりペンの一檄（ＴＯ専用武器）",
+     "en": "A rousing word from a pen strikes harder than a sword. (Tales Exclusive Weapon)",
+     "bytes": 79
+    },
+    {
+     "id": "pen#35",
+     "jp": "国家間取り決めの時に用いられるペン（ＴＯ専用武器）",
+     "en": "A pen used during treaty agreements between nations. (Tales Exclusive Weapon)",
+     "bytes": 77
+    },
+    {
+     "id": "pen#15",
+     "jp": "使いやすさを追求した筆記具（ＴＯ専用武器）",
+     "en": "A writing instrument pursuing supreme ease of use. (Tales Exclusive Weapon)",
+     "bytes": 75
+    },
+    {
+     "id": "pen#26",
+     "jp": "硬くて鋭いペン先の筆記具（ＴＯ専用武器）",
+     "en": "A writing instrument with a hard, sharp pen tip. (Tales Exclusive Weapon)",
+     "bytes": 73
+    },
+    {
+     "id": "pen#32",
+     "jp": "多くの傑作を生み出してきた筆（ＴＯ専用武器）",
+     "en": "A brush that has produced numerous masterpieces. (Tales Exclusive Weapon)",
+     "bytes": 73
+    },
+    {
+     "id": "pen#40",
+     "jp": "魔力で字を書く不思議なペン（ＴＯ専用武器）",
+     "en": "A mysterious pen that writes with magical power. (Tales Exclusive Weapon)",
+     "bytes": 73
+    },
+    {
+     "id": "pen#2",
+     "jp": "鳥の羽を使った筆記具（ＴＯ専用武器）",
+     "en": "A writing instrument made from a bird feather. (Tales Exclusive Weapon)",
+     "bytes": 71
+    },
+    {
+     "id": "pen#10",
+     "jp": "子どもがラクガキに使う筆記具（ＴＯ専用武器）",
+     "en": "A writing tool used by children for doodling. (Tales Exclusive Weapon)",
+     "bytes": 70
+    },
+    {
+     "id": "pen#13",
+     "jp": "グリップにインクが溜められた便利なペン（ＴＯ専用武器）",
+     "en": "A convenient pen holding ink in its grip. (Tales Exclusive Weapon)",
+     "bytes": 66
+    },
+    {
+     "id": "pen#29",
+     "jp": "永久に使用可能といわれるペン（ＴＯ専用武器）",
+     "en": "A pen said to be usable for eternity. (Tales Exclusive Weapon)",
+     "bytes": 62
+    },
+    {
+     "id": "pen#49",
+     "jp": "神託を記録する為に用いられるペン（ＴＯ専用武器）",
+     "en": "A pen used to record divine oracles. (Tales Exclusive Weapon)",
+     "bytes": 61
+    },
+    {
+     "id": "pen#8",
+     "jp": "採点用のペン（ＴＯ専用武器）",
+     "en": "A pen used for grading. (Tales Exclusive Weapon)",
+     "bytes": 48
+    },
+    {
+     "id": "pen#44",
+     "jp": "剣よりも強いペン",
+     "en": "Pen Mightier Than the Sword",
+     "bytes": 27
+    },
+    {
+     "id": "pen#30",
+     "jp": "文豪の筆",
+     "en": "Master Writer's Brush",
+     "bytes": 21
+    },
+    {
+     "id": "pen#33",
+     "jp": "調印式のペン",
+     "en": "Signing Ceremony Pen",
+     "bytes": 20
+    },
+    {
+     "id": "pen#41",
+     "jp": "断筆のペン",
+     "en": "Pen of Retirement",
+     "bytes": 17
+    },
+    {
+     "id": "pen#47",
+     "jp": "天使の羽ペン",
+     "en": "Angel Quill Pen",
+     "bytes": 15
+    },
+    {
+     "id": "pen#50",
+     "jp": "最大値（ペン）",
+     "en": "Max Value (Pen)",
+     "bytes": 15
+    },
+    {
+     "id": "pen#3",
+     "jp": "矯正ペン",
+     "en": "Correction Pen",
+     "bytes": 14
+    },
+    {
+     "id": "pen#14",
+     "jp": "ハイグレードペン",
+     "en": "High Grade Pen",
+     "bytes": 14
+    },
+    {
+     "id": "pen#16",
+     "jp": "毛筆",
+     "en": "Writing Brush",
+     "bytes": 13
+    },
+    {
+     "id": "pen#11",
+     "jp": "万年筆",
+     "en": "Fountain Pen",
+     "bytes": 12
+    },
+    {
+     "id": "pen#27",
+     "jp": "億年筆",
+     "en": "Eternity Pen",
+     "bytes": 12
+    },
+    {
+     "id": "pen#36",
+     "jp": "コウボウの筆",
+     "en": "Kobo's Brush",
+     "bytes": 12
+    },
+    {
+     "id": "pen#19",
+     "jp": "マッピングペン",
+     "en": "Mapping Pen",
+     "bytes": 11
+    },
+    {
+     "id": "pen#24",
+     "jp": "戦闘用ペン",
+     "en": "Combat Pen",
+     "bytes": 10
+    },
+    {
+     "id": "pen#0",
+     "jp": "羽ペン",
+     "en": "Quill Pen",
+     "bytes": 9
+    },
+    {
+     "id": "pen#39",
+     "jp": "マジックペン",
+     "en": "Magic Pen",
+     "bytes": 9
+    },
+    {
+     "id": "pen#6",
+     "jp": "赤ペン",
+     "en": "Red Pen",
+     "bytes": 7
+    },
+    {
+     "id": "pen#9",
+     "jp": "ロウセキ",
+     "en": "Chalk",
+     "bytes": 5
+    },
+    {
+     "id": "pen#21",
+     "jp": "Ｇペン",
+     "en": "G-Pen",
+     "bytes": 5
+    }
+   ]
+  }
+ }
+}

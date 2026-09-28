@@ -1,0 +1,531 @@
+{
+ "abreviacao": [
+  [
+   "ペカン村",
+   "Pecan Village",
+   "Pecan"
+  ],
+  [
+   "ルバーブ連山",
+   "Rhubarb Mountains",
+   "Mt. Rhubarb"
+  ],
+  [
+   "ヘーゼル村",
+   "Hazel Village",
+   "Hazel"
+  ],
+  [
+   "コンフェイト大森林",
+   "Confeito Great Forest",
+   "Confeito Forest"
+  ],
+  [
+   "オルタータ火山",
+   "Alterata Volcano",
+   "Mt. Alterata"
+  ],
+  [
+   "モラード村",
+   "Morado Village",
+   "Morado"
+  ],
+  [
+   "シフノ湧泉洞",
+   "Sifno Spring Cave",
+   "Sifno Spring"
+  ],
+  [
+   "聖地ラングリース",
+   "Holy Land of Langriths",
+   "Holy Langriths"
+  ],
+  [
+   "上級研究員ニコラス",
+   "Senior Researcher Nicholas",
+   "Sr. Researcher Nicholas"
+  ],
+  [
+   "警備隊隊長ダニエル",
+   "Guard Captain Daniel",
+   "Captain Daniel"
+  ],
+  [
+   "青年実業家エゴイツ",
+   "Young Entrepreneur Egoitz",
+   "Entrepreneur Egoitz"
+  ],
+  [
+   "占い婆アイーダ",
+   "Fortune Teller Aida",
+   "Fortune Aida"
+  ],
+  [
+   "もしかして……",
+   "Could it be......",
+   "Could It Be...?"
+  ],
+  [
+   "パーティを解散しました",
+   "The party has been disbanded",
+   "Disbanded party."
+  ],
+  [
+   "片手剣",
+   "One-Handed Sword",
+   "1H Sword"
+  ],
+  [
+   "両手剣",
+   "Two-Handed Sword",
+   "2H Sword"
+  ],
+  [
+   "宝箱ドロップ効果",
+   "Treasure Chest Drop Effect",
+   "Chest Drop Effect"
+  ],
+  [
+   "術技封印を防止",
+   "Prevent Arte/Skill Seal",
+   "Prevent Arte Seal"
+  ],
+  [
+   "データを保存せずに終了しますか？",
+   "Quit without saving your data?",
+   "Quit without saving data?"
+  ],
+  [
+   "船倉",
+   "Cargo Hold",
+   "Hold"
+  ],
+  [
+   "シリーズで絞り込む",
+   "Filter by series",
+   "Filter by Series"
+  ],
+  [
+   "アーティストで絞り込む",
+   "Filter by artist",
+   "Filter by Artist"
+  ]
+ ],
+ "grafia": [
+  [
+   "戦いの火蓋",
+   "Opening of Battle",
+   "War Begins"
+  ],
+  [
+   "ジルディア",
+   "Zirdia",
+   "Gildia"
+  ],
+  [
+   "ウリズン帝国",
+   "Urizen Empire",
+   "Urizn Empire"
+  ],
+  [
+   "帝国",
+   "Empire",
+   "Emp."
+  ],
+  [
+   "ミブナの里",
+   "Mibuna Village",
+   "Mibuna Vil."
+  ],
+  [
+   "ライマ国",
+   "Lima",
+   "Raima"
+  ],
+  [
+   "ライマ",
+   "Lima",
+   "Raima"
+  ],
+  [
+   "行商人ガメル",
+   "Merchant Gamel",
+   "Peddler Gamel"
+  ],
+  [
+   "雑貨屋店主フンダクル",
+   "General Store Owner Fundakuru",
+   "Shopkeeper Hundakur"
+  ],
+  [
+   "夢見る少女リナ",
+   "Dreaming Girl Rina",
+   "Dreamer Rina"
+  ],
+  [
+   "セレブ夫人シルヴィア",
+   "Socialite Sylvia",
+   "Celebrity Sylvia"
+  ],
+  [
+   "整体師テレサ",
+   "Chiropractor Teresa",
+   "Therapist Teresa"
+  ],
+  [
+   "○○",
+   "○○.",
+   "OO"
+  ],
+  [
+   "達成数",
+   "Completions",
+   "Cleared"
+  ],
+  [
+   "闘技場",
+   "Colosseum",
+   "Arena"
+  ],
+  [
+   "追憶の坑道",
+   "Mine of Reminiscence",
+   "Memory Mine"
+  ],
+  [
+   "よろしく頼む",
+   "It's a pleasure to meet you.",
+   "Count on Me"
+  ],
+  [
+   "わかってもらえた？",
+   "Do you understand now?",
+   "Did You Get It?"
+  ],
+  [
+   "強力な武器で攻撃を行う近接戦向けの職業",
+   "A melee job that attacks with powerful weapons.",
+   "Melee class attacking with powerful weapons."
+  ],
+  [
+   "多彩な剣技を持つ職業",
+   "A job with a wide variety of sword skills.",
+   "A class with varied sword skills."
+  ],
+  [
+   "剣技と攻撃術の両方を駆使出来る万能職",
+   "Wields both sword skills and artes.",
+   "All-rounder wielding both swords and attack artes."
+  ],
+  [
+   "拳による肉弾戦を得意とする格闘系の職業",
+   "A martial job that excels at bare-fisted combat.",
+   "Brawler class specializing in hand-to-hand combat."
+  ],
+  [
+   "短剣による素早い攻撃と盗みを得意とする職業",
+   "Excels at swift dagger attacks and stealing.",
+   "Class skilled in fast dagger attacks and stealing."
+  ],
+  [
+   "忍術と呼ばれる特殊な体術を得意とする職業",
+   "Master of the body arts of ninjutsu.",
+   "Class adept in special martial arts called ninjutsu."
+  ],
+  [
+   "攻撃に特化した術を得意とする職業",
+   "Excels at artes built for attacking.",
+   "A class specializing in offensive spells."
+  ],
+  [
+   "回復、補助系の術を得意とする職業",
+   "Excels at healing and support artes.",
+   "A class skilled in healing and support spells."
+  ],
+  [
+   "攻撃術と回復術の両方を得意とする万能職",
+   "Skilled in both attack and healing artes.",
+   "All-rounder proficient in attack and healing artes."
+  ],
+  [
+   "左右に持つ二本の剣を駆使する亜流の剣士",
+   "An unorthodox swordsman with two blades.",
+   "Dual-wielding swordsman fighting with two blades."
+  ],
+  [
+   "身の丈程の大剣を駆使するパワーファイター",
+   "A power fighter with a huge greatsword.",
+   "Power fighter wielding a massive greatsword."
+  ],
+  [
+   "気の力による回復の技を兼ね備えた格闘職",
+   "A martial job that also heals with ki.",
+   "Brawler class equipped with ki healing techniques."
+  ],
+  [
+   "銃による遠隔攻撃と短剣による近接攻撃を併せ持つ",
+   "Mixes ranged gunfire and dagger melee.",
+   "Combines ranged gun attacks with close-range daggers."
+  ],
+  [
+   "大剣による攻撃力と補助術を兼ね備えた万能職",
+   "Greatsword power plus support artes.",
+   "Versatile class combining greatswords and support."
+  ],
+  [
+   "二丁の拳銃で高速な攻撃を繰り出す職業",
+   "Unleashes rapid attacks with twin pistols.",
+   "A class unleashing rapid attacks with dual guns."
+  ],
+  [
+   "ＴＯＳ　−ラタトスクの騎士−",
+   "Tales of Symphonia: Dawn of the New World",
+   "TOS: Dawn of New World"
+  ],
+  [
+   "傭兵",
+   "Mercenary",
+   "Merc"
+  ],
+  [
+   "装備",
+   "Equipment",
+   "Equip"
+  ],
+  [
+   "道具",
+   "Item",
+   "Tools"
+  ],
+  [
+   "スキル確認",
+   "View Skills",
+   "Check Skill"
+  ],
+  [
+   "効果確認",
+   "View Effect",
+   "Check Effect"
+  ],
+  [
+   "雑貨武器",
+   "Misc Weapon",
+   "Novelty Weapon"
+  ],
+  [
+   "顔装備",
+   "Face Gear",
+   "Face Equip"
+  ],
+  [
+   "足装備",
+   "Footwear",
+   "Legs Equip"
+  ],
+  [
+   "拳銃",
+   "Handgun",
+   "Gun"
+  ],
+  [
+   "腕輪",
+   "Bracelet",
+   "Bangle"
+  ],
+  [
+   "拳",
+   "Fist",
+   "Fists"
+  ],
+  [
+   "服",
+   "Clothing",
+   "Clothes"
+  ],
+  [
+   "デフォルト演奏",
+   "Default Playback",
+   "Default Play"
+  ],
+  [
+   "ランダム演奏",
+   "Random Playback",
+   "Random Play"
+  ],
+  [
+   "名前が設定されていません",
+   "No name has been set",
+   "Name has not been set."
+  ],
+  [
+   "毒付与",
+   "Inflict Poison",
+   "Add Poison"
+  ],
+  [
+   "仰け反り耐性破壊",
+   "Stagger Resistance Break",
+   "Stun Resist Break"
+  ],
+  [
+   "ガード強化",
+   "Guard Reinforcement",
+   "Guard Boost"
+  ],
+  [
+   "仰け反り耐性",
+   "Stagger Resistance",
+   "Stun Resistance"
+  ],
+  [
+   "スキルスロット増",
+   "Skill Slot Boost",
+   "Skill Slots Up"
+  ],
+  [
+   "石化を防止",
+   "Prevent Petrification",
+   "Prevent Petrifaction"
+  ],
+  [
+   "装備可能キャラクター",
+   "Equippable By",
+   "Equippable Characters"
+  ],
+  [
+   "作戦の設定",
+   "Strategy Settings",
+   "Strategy Config"
+  ],
+  [
+   "使用切替",
+   "Toggle Use",
+   "Toggle Usage"
+  ],
+  [
+   "アイテム",
+   "Item",
+   "Items"
+  ],
+  [
+   "ボトル",
+   "Bottle",
+   "Bottles"
+  ],
+  [
+   "装備の変更・確認",
+   "Change/View Gear",
+   "Change and check gear."
+  ],
+  [
+   "展望室",
+   "Observation Room",
+   "Lounge"
+  ],
+  [
+   "操舵室",
+   "Helm Room",
+   "Bridge"
+  ],
+  [
+   "１Ｆ通路Ａ",
+   "1F Passage A",
+   "1F Hallway A"
+  ],
+  [
+   "食堂",
+   "Dining Hall",
+   "Mess Hall"
+  ],
+  [
+   "医務室",
+   "Infirmary",
+   "Clinic"
+  ],
+  [
+   "１Ｆ通路Ｂ",
+   "1F Passage B",
+   "1F Hallway B"
+  ],
+  [
+   "研究室",
+   "Laboratory",
+   "Lab"
+  ],
+  [
+   "Ｂ１Ｆ通路Ａ",
+   "B1F Passage A",
+   "B1F Hallway A"
+  ],
+  [
+   "Ｂ１Ｆ通路Ｂ",
+   "B1F Passage B",
+   "B1F Hallway B"
+  ],
+  [
+   "全戦闘曲から選択する",
+   "Select from all battle themes",
+   "Select All Battle BGM"
+  ],
+  [
+   "通常戦闘曲から選択する",
+   "Select from normal battle themes",
+   "Choose from Standard BGM"
+  ],
+  [
+   "ボス戦闘曲から選択する",
+   "Select from boss battle themes",
+   "Choose from Boss BGM"
+  ],
+  [
+   "曲の指定は行わず、標準の曲を演奏します",
+   "Plays the standard theme without specifying a song",
+   "Plays standard default music."
+  ],
+  [
+   "選択可能な曲からランダムで演奏します",
+   "Plays a random song from the selectable themes",
+   "Plays random track from available music."
+  ],
+  [
+   "全ての選択可能な曲から選択します",
+   "Selects from all selectable themes",
+   "Select from all available tracks."
+  ],
+  [
+   "通常戦闘曲の中から選択します",
+   "Selects from the normal battle themes",
+   "Select from normal battle tracks."
+  ],
+  [
+   "ボス戦闘曲の中から選択します",
+   "Selects from the boss battle themes",
+   "Select from boss battle tracks."
+  ],
+  [
+   "シリーズ別に曲を絞り込みます",
+   "Filters songs by series",
+   "Filters tracks by game series."
+  ],
+  [
+   "アーティスト別に曲を絞り込みます",
+   "Filters songs by artist",
+   "Filters tracks by musical artist."
+  ],
+  [
+   "ＴＯＳ　−ラタトスクの騎士−の戦闘曲の中から選択します",
+   "Selects from the Tales of Symphonia: Dawn of the New World battle themes",
+   "Select from TOS: Dawn of New World battle tracks."
+  ],
+  [
+   "ページ送り",
+   "Next Page",
+   "Page Turn"
+  ],
+  [
+   "決定",
+   "OK",
+   "Decide"
+  ]
+ ]
+}

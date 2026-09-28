@@ -1,0 +1,84 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev36_010.scr:0	qev36_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	……ね？\nこれってやっぱり、二人の事だよね		
+qev36_010.scr:1	qev36_010.scr	1	アスベル	Asbel Lhant	personagem		確かに、間違いない		
+qev36_010.scr:2	qev36_010.scr	2	アスベル	Asbel Lhant	personagem	CRLF x2	それにしても、\nこんな大事になるなんて……。\nまいったな		
+qev36_010.scr:3	qev36_010.scr	3	ソフィ	Sophie	personagem	CRLF x1	アスベル……困ってるの？\nどうして？		
+qev36_010.scr:4	qev36_010.scr	4	アスベル	Asbel Lhant	personagem	CRLF x1	ソフィ、どうやら俺達\n捜索願が出されてるみたいなんだ		
+qev36_010.scr:5	qev36_010.scr	5	ソフィ	Sophie	personagem		捜索……願？		
+qev36_010.scr:6	qev36_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	居所のわからない人を、\n「探して下さい」って\n周りの色んな人にお願いする事だよ		
+qev36_010.scr:7	qev36_010.scr	7	ソフィ	Sophie	personagem	CRLF x1	居所……わからない？\nわたし達は、ここにいるよ		
+qev36_010.scr:8	qev36_010.scr	8	アスベル	Asbel Lhant	personagem		……そうなんだよ		
+qev36_010.scr:9	qev36_010.scr	9	アスベル	Asbel Lhant	personagem	CRLF x1	俺達がここにいる事を、\nあいつに伝えていなかったんだ		
+qev36_010.scr:10	qev36_010.scr	10	アスベル	Asbel Lhant	personagem		仕方がないな……		
+qev36_010.scr:11	qev36_010.scr	11	アンジュ	Ange Serena	personagem	CRLF x2	ふふ。\nじゃあ、この依頼は\n二人にお願いした方が良さそうね		
+qev36_010.scr:12	qev36_010.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	念の為、他にも誰か\n協力してくれる人を募ってみましょうか		
+qev36_010.scr:13	qev36_010.scr	13	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「幼馴染み捜索願」が\nエントリーされました。\nクエストカウンタから受ける事が出来ます		
+qev36_020.scr:0	qev36_020.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	やっぱり、○○が\n手伝ってくれるのね。ありがとう		
+qev36_020.scr:1	qev36_020.scr	1	アスベル	Asbel Lhant	personagem	CRLF x1	すまない……。\n少しの間だけど、よろしく頼む		
+qev36_020.scr:2	qev36_020.scr	2	ソフィ	Sophie	personagem		○○、よろしく		
+qev36_030.scr:0	qev36_030.scr	0	アスベル	Asbel Lhant	personagem	CRLF x1	あいつ、こんな所まで\n俺達を探しに来てるなんて……		
+qev36_030.scr:1	qev36_030.scr	1	ソフィ	Sophie	personagem	CRLF x1	ここ……。\nアスベルと一緒に、前にも来たね		
+qev36_030.scr:2	qev36_030.scr	2	アスベル	Asbel Lhant	personagem	CRLF x1	ああ。\nソフィと最初の任務で来た場所だ		
+qev36_030.scr:3	qev36_030.scr	3	アスベル	Asbel Lhant	personagem	CRLF x2	手がかりがないから、\nとにかくしらみつぶしに\nあちこちを探してるって事だな		
+qev36_030.scr:4	qev36_030.scr	4	アスベル	Asbel Lhant	personagem		早く見つけて、誤解を解かないと		
+qev36_030.scr:5	qev36_030.scr	5	ソフィ	Sophie	personagem	CRLF x1	うん。\nきっとすごく、心配してるよ		
+qev36_040.scr:0	qev36_040.scr	0	ソフィ	Sophie	personagem		あ……綺麗な石		
+qev36_040.scr:1	qev36_040.scr	1	アスベル	Asbel Lhant	personagem		あ、こらソフィ！		
+qev36_040.scr:2	qev36_040.scr	2	アスベル	Asbel Lhant	personagem	CRLF x1	だめじゃないか……。\nああ、やっぱり服に泥が付いてる		
+qev36_040.scr:3	qev36_040.scr	3	アスベル	Asbel Lhant	personagem	CRLF x1	あいつに見つかったら、\nまた怒られるな		
+qev36_040.scr:4	qev36_040.scr	4	ソフィ	Sophie	personagem	CRLF x2	ごめんなさい……。\nこの石、シェリアにあげたら\nきっと喜ぶと思ったの		
+qev36_040.scr:5	qev36_040.scr	5	ソフィ	Sophie	personagem		アスベル……怒ってる？		
+qev36_040.scr:6	qev36_040.scr	6	アスベル	Asbel Lhant	personagem	CRLF x1	いや、怒ってないよ。\nだけど、後でちゃんと洗わないとな		
+qev36_040.scr:7	qev36_040.scr	7	(ator 200)	(ator 200)	desconhecido		……？		
+qev36_040.scr:8	qev36_040.scr	8	アスベル	Asbel Lhant	personagem		ああ、すまない		
+qev36_040.scr:9	qev36_040.scr	9	アスベル	Asbel Lhant	personagem	CRLF x1	俺の幼馴染み……シェリアっていうんだが\n身だしなみに厳しくてさ		
+qev36_040.scr:10	qev36_040.scr	10	アスベル	Asbel Lhant	personagem	CRLF x1	特に服を汚すと怒られるんだ。\n女の子は綺麗にしないとダメだって		
+qev36_040.scr:11	qev36_040.scr	11	アスベル	Asbel Lhant	personagem	CRLF x1	気付いたら、こんなやりとりが\n当たり前になってしまって		
+qev36_040.scr:12	qev36_040.scr	12	(ator 200)	(ator 200)	desconhecido		…………		
+qev36_040.scr:13	qev36_040.scr	13	ソフィ	Sophie	personagem	CRLF x1	でも……、わたし\nシェリアの事好きだよ		
+qev36_040.scr:14	qev36_040.scr	14	ソフィ	Sophie	personagem		アスベルもそうだよね		
+qev36_040.scr:15	qev36_040.scr	15	アスベル	Asbel Lhant	personagem	CRLF x1	えっ？\nああ、まあ、そうだな		
+qev36_040.scr:16	qev36_040.scr	16	ソフィ	Sophie	personagem	CRLF x1	……早く、会いたいな。\nシェリア		
+qev36_050.scr:0	qev36_050.scr	0	ソフィ	Sophie	personagem		あっ、シェリア！		
+qev36_050.scr:1	qev36_050.scr	1	シェリア	Cheria Barnes	personagem	CRLF x1	えっ……ソフィ！？\nそれに、アスベルも？		
+qev36_050.scr:2	qev36_050.scr	2	アスベル	Asbel Lhant	personagem		や……		
+qev36_050.scr:3	qev36_050.scr	3	アスベル	Asbel Lhant	personagem		やあ		
+qev36_050.scr:4	qev36_050.scr	4	シェリア	Cheria Barnes	personagem		「やあ」じゃないわよ！		
+qev36_050.scr:5	qev36_050.scr	5	シェリア	Cheria Barnes	personagem	CRLF x2	もう……。\n私が、どれだけ心配したと思ってるの？\nしんっじられない！		
+qev36_050.scr:6	qev36_050.scr	6	アスベル	Asbel Lhant	personagem		ごめん		
+qev36_050.scr:7	qev36_050.scr	7	アスベル	Asbel Lhant	personagem	CRLF x1	今はソフィと一緒に、アドリビトムに\n間借りさせてもらっているんだ		
+qev36_050.scr:8	qev36_050.scr	8	ソフィ	Sophie	personagem	CRLF x1	あのね、すっごく大きな船なの。\nシェリアも見たらびっくりするよ		
+qev36_050.scr:9	qev36_050.scr	9	シェリア	Cheria Barnes	personagem	CRLF x1	アドリビトム……？\nじゃあ二人がここにいるのって		
+qev36_050.scr:10	qev36_050.scr	10	アスベル	Asbel Lhant	personagem	CRLF x2	捜索願……びっくりしたよ。\nまさかそこまで心配かけてるなんて\n思わなくてさ		
+qev36_050.scr:11	qev36_050.scr	11	ソフィ	Sophie	personagem		アスベル、困ってた		
+qev36_050.scr:12	qev36_050.scr	12	アスベル	Asbel Lhant	personagem		いや、困ってたというか……		
+qev36_050.scr:13	qev36_050.scr	13	シェリア	Cheria Barnes	personagem		そういう事だったのね		
+qev36_050.scr:14	qev36_050.scr	14	シェリア	Cheria Barnes	personagem	CRLF x1	はぁ……もう。\n大騒ぎしちゃって、恥ずかしい……		
+qev36_050.scr:15	qev36_050.scr	15	ソフィ	Sophie	personagem	CRLF x1	シェリア。\n元気出して		
+qev36_050.scr:16	qev36_050.scr	16	シェリア	Cheria Barnes	personagem	CRLF x1	……ありがとう、ソフィ。\n私は大丈夫よ		
+qev36_050.scr:17	qev36_050.scr	17	シェリア	Cheria Barnes	personagem	CRLF x2	これからはソフィとも一緒だから、\nこうやって心配する事は\nなくなると思うし		
+qev36_050.scr:18	qev36_050.scr	18	アスベル	Asbel Lhant	personagem		え？　それってどういう意味だ？		
+qev36_050.scr:19	qev36_050.scr	19	シェリア	Cheria Barnes	personagem	CRLF x2	決まってるじゃない。\n私も今日から、そのギルドで\nお世話になるわ		
+qev36_050.scr:20	qev36_050.scr	20	シェリア	Cheria Barnes	personagem	CRLF x2	あそこなら、私の治癒術も\n色んな人の役に立てられそうだもの。\n何だか、恋の話も聞けそうだしっ		
+qev36_050.scr:21	qev36_050.scr	21	アスベル	Asbel Lhant	personagem		そっちが本当の目的……じゃないよな？		
+qev36_050.scr:22	qev36_050.scr	22	シェリア	Cheria Barnes	personagem	CRLF x1	べ、別に\nそんなんじゃないわよ		
+qev36_050.scr:23	qev36_050.scr	23	シェリア	Cheria Barnes	personagem	CRLF x1	さあ、ソフィ？\n一緒にバンエルティア号へ行きましょう		
+qev36_050.scr:24	qev36_050.scr	24	ソフィ	Sophie	personagem	CRLF x2	……うん。\nみんな、一緒で嬉しいね。\n○○		
+qev36_060.scr:0	qev36_060.scr	0	アスベル	Asbel Lhant	personagem	CRLF x1	ふぅ……。\nこれで一件落着、だな		
+qev36_060.scr:1	qev36_060.scr	1	シェリア	Cheria Barnes	personagem		一件落着じゃありません		
+qev36_060.scr:2	qev36_060.scr	2	シェリア	Cheria Barnes	personagem	CRLF x1	ソフィ？\n服に付いてるその泥、どうしたの？		
+qev36_060.scr:3	qev36_060.scr	3	ソフィ	Sophie	personagem		これは……		
+qev36_060.scr:4	qev36_060.scr	4	アスベル	Asbel Lhant	personagem	CRLF x2	ごめん。\nちょっと俺が目を離した時に\n水たまりに……		
+qev36_060.scr:5	qev36_060.scr	5	アスベル	Asbel Lhant	personagem	CRLF x1	でも、このくらいの汚れなら\nお湯で洗えば落ちるだろ？		
+qev36_060.scr:6	qev36_060.scr	6	シェリア	Cheria Barnes	personagem	CRLF x1	はぁ……。\nやっぱり、そんな事だろうと思ったわ		
+qev36_060.scr:7	qev36_060.scr	7	シェリア	Cheria Barnes	personagem	CRLF x2	いいわ、私がまとめて洗っておくから。\nアスベルも何か洗う物があったら\n出しておいて		
+qev36_060.scr:8	qev36_060.scr	8	アスベル	Asbel Lhant	personagem		俺は、いいよ		
+qev36_060.scr:9	qev36_060.scr	9	シェリア	Cheria Barnes	personagem	CRLF x1	そう？\nアスベルもそこの裾、泥がはねてるけど		
+qev36_060.scr:10	qev36_060.scr	10	アスベル	Asbel Lhant	personagem		あ……		
+qev36_060.scr:11	qev36_060.scr	11	シェリア	Cheria Barnes	personagem	CRLF x1	白い服だから\nそういうの、目立つのよね		
+qev36_060.scr:12	qev36_060.scr	12	ソフィ	Sophie	personagem		シェリア……鋭い		
+qev36_060.scr:13	qev36_060.scr	13	アスベル	Asbel Lhant	personagem		うう……、返す言葉がない		
+qev36_060.scr:14	qev36_060.scr	14	シェリア	Cheria Barnes	personagem		そういうわけで		
+qev36_060.scr:15	qev36_060.scr	15	シェリア	Cheria Barnes	personagem	CRLF x1	ええと、○○……\nだったわよね？		
+qev36_060.scr:16	qev36_060.scr	16	シェリア	Cheria Barnes	personagem	CRLF x1	しばらくの間、お世話になります。\nこれから、よろしくね		
+qev36_060.scr:17	qev36_060.scr	17	(mensagem de sistema)	(mensagem de sistema)	sistema		シェリアがアドリビトムに加入しました		

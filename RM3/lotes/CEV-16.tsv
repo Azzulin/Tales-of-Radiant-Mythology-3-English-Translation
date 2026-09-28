@@ -1,0 +1,168 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev16_010.scr:0	cev16_010.scr	0	ルーク	Luke fon Fabre	personagem	CRLF x1	くそっ。\nまたこの頭痛か……		
+cev16_010.scr:1	cev16_010.scr	1	ルーク	Luke fon Fabre	personagem		頭が……割れるっ……！		
+cev16_010.scr:2	cev16_010.scr	2	ロニ	Loni Dunamis	personagem	CRLF x1	おい、大丈夫か？\nしっかりしろ！		
+cev16_010.scr:3	cev16_010.scr	3	カイウス	Caius Qualls	personagem	CRLF x1	大変だ。\n人を呼ばないと……！		
+cev16_010.scr:4	cev16_010.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x1	いや……いい。\nどうせ、すぐにおさまる		
+cev16_010.scr:5	cev16_010.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x1	いつもの事なんだ……。\nおかしな声が、頭に響いて……		
+cev16_010.scr:6	cev16_010.scr	6	ルーク	Luke fon Fabre	personagem		ちっ……あの声は、一体……		
+cev16_010.scr:7	cev16_010.scr	7	ロニ	Loni Dunamis	personagem	CRLF x2	こ、声！？\nこここ声ってのは一体\nどういう事、なんだ？		
+cev16_010.scr:8	cev16_010.scr	8	ロニ	Loni Dunamis	personagem		ただの頭痛じゃないのか？		
+cev16_010.scr:9	cev16_010.scr	9	カイウス	Caius Qualls	personagem		まさか……お化け……		
+cev16_010.scr:10	cev16_010.scr	10	ロニ	Loni Dunamis	personagem	CRLF x1	だ〜〜〜〜っ！！\nどこだ、どこだ、お化けはどこだ！？		
+cev16_010.scr:11	cev16_010.scr	11	ロニ	Loni Dunamis	personagem	CRLF x2	いや、落ち着け、落ち着くんだ。\nお化けなんているはずない、\nまやかしだ幻想だ、想像は爆発だ……って		
+cev16_010.scr:12	cev16_010.scr	12	ロニ	Loni Dunamis	personagem	CRLF x1	カイウス！　\nどこ行くんだよ！？		
+cev16_010.scr:13	cev16_010.scr	13	カイウス	Caius Qualls	personagem		ひ、人を呼びに行くんだよ！		
+cev16_010.scr:14	cev16_010.scr	14	ロニ	Loni Dunamis	personagem		だったら俺が行く！		
+cev16_010.scr:15	cev16_010.scr	15	カイウス	Caius Qualls	personagem	CRLF x1	何でだよ！　\nあっ、わかった		
+cev16_010.scr:16	cev16_010.scr	16	カイウス	Caius Qualls	personagem	CRLF x1	ロニは、お、お化けが\n怖いんだな！？		
+cev16_010.scr:17	cev16_010.scr	17	ロニ	Loni Dunamis	personagem		ここここ怖くなんかないぞ！？		
+cev16_010.scr:18	cev16_010.scr	18	ロニ	Loni Dunamis	personagem	CRLF x1	もし、お化けが出たらなぁ……、\n真っ先に俺が……		
+cev16_010.scr:19	cev16_010.scr	19	カイウス	Caius Qualls	personagem		倒すのか！？		
+cev16_010.scr:20	cev16_010.scr	20	ロニ	Loni Dunamis	personagem		逃げるに決まってんだよーーーー！！		
+cev16_010.scr:21	cev16_010.scr	21	カイウス	Caius Qualls	personagem		おいっ！？		
+cev16_010.scr:22	cev16_010.scr	22	カイウス	Caius Qualls	personagem		じ、自分だけ逃げるなよー！！		
+cev16_010.scr:23	cev16_010.scr	23	ルーク	Luke fon Fabre	personagem		んで、俺は置き去りかっつーの……		
+cev16_010.scr:24	cev16_010.scr	24	ルーク	Luke fon Fabre	personagem		何なんだ、あいつら……		
+cev16_020.scr:0	cev16_020.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	それにしてもこの船、すっげえよなぁ。\nどういう技術で動いてんだ？		
+cev16_020.scr:1	cev16_020.scr	1	マオ	Mao	personagem	CRLF x2	あれ、ロニ、知らなかったの？\nこれは、失われた古代の技術を使って\n作られた宇宙船なんだヨ		
+cev16_020.scr:2	cev16_020.scr	2	ロニ	Loni Dunamis	personagem		宇宙船だぁ？		
+cev16_020.scr:3	cev16_020.scr	3	ロニ	Loni Dunamis	personagem		またまた、そんな子どもだまし……		
+cev16_020.scr:4	cev16_020.scr	4	マオ	Mao	personagem	CRLF x2	本当だヨ。アイフリードの一族っていうのは、\n次元を渡ってこの星にやって来た、\n元々は異星人だったんだ		
+cev16_020.scr:5	cev16_020.scr	5	マオ	Mao	personagem	CRLF x2	だからこの船には、摩訶不思議な動力が\n使われていて、今もその全容は\n解明されていないんだって		
+cev16_020.scr:6	cev16_020.scr	6	ロニ	Loni Dunamis	personagem		な、なるほど……		
+cev16_020.scr:7	cev16_020.scr	7	ロニ	Loni Dunamis	personagem	CRLF x1	それなら確かに\nこの高度な技術も頷ける……		
+cev16_020.scr:8	cev16_020.scr	8	ロニ	Loni Dunamis	personagem	CRLF x2	まてよ、そうなると\nアイフリードの子孫だっていう\nチャットは……！		
+cev16_020.scr:9	cev16_020.scr	9	マオ	Mao	personagem		宇宙人って事になるよネ		
+cev16_020.scr:10	cev16_020.scr	10	ロニ	Loni Dunamis	personagem		み、未知との遭遇かぁっ！！？		
+cev16_020.scr:11	cev16_020.scr	11	マオ	Mao	personagem		フフフフ……		
+cev16_030.scr:0	cev16_030.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	な、なぁ、チャット？　\nその……		
+cev16_030.scr:1	cev16_030.scr	1	ロニ	Loni Dunamis	personagem		ここでの生活に、不自由はないか？		
+cev16_030.scr:2	cev16_030.scr	2	チャット	Chat	personagem		何ですか、いきなり		
+cev16_030.scr:3	cev16_030.scr	3	ロニ	Loni Dunamis	personagem	CRLF x2	いやその、新しい環境に慣れたり\n違う文化に触れるっつーのは\nなかなかに体力を使う事だろ？		
+cev16_030.scr:4	cev16_030.scr	4	ロニ	Loni Dunamis	personagem	CRLF x2	そのー、なんだ。\n俺は、宇宙の事はわからないが……\n何か困ってる事があったら		
+cev16_030.scr:5	cev16_030.scr	5	チャット	Chat	personagem	CRLF x1	宇宙？\n一体何の話ですか？		
+cev16_030.scr:6	cev16_030.scr	6	ロニ	Loni Dunamis	personagem		いや、だって、お前は宇宙人なんだろ？		
+cev16_030.scr:7	cev16_030.scr	7	チャット	Chat	personagem	CRLF x2	失敬な！　仮にもボクはこの\nバンエルティア号の船長ですよ！？\nそのボクに向かって……		
+cev16_030.scr:8	cev16_030.scr	8	チャット	Chat	personagem		もういいです、失礼します！		
+cev16_030.scr:9	cev16_030.scr	9	ロニ	Loni Dunamis	personagem	CRLF x1	おいちょっと待て、何を怒ってるんだ？\nだってマオが、この船が宇宙船って……		
+cev16_030.scr:10	cev16_030.scr	10	ロニ	Loni Dunamis	personagem	CRLF x1	っておい、まさか……その情報自体が\n端っからデマだったって事か……！？		
+cev16_030.scr:11	cev16_030.scr	11	ロニ	Loni Dunamis	personagem		チッキショウ、マオーーーーー！！		
+cev16_040.scr:0	cev16_040.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	いやぁ〜〜、素晴らしい！\n感動だ、青春は爆発だぁ〜〜！！！		
+cev16_040.scr:1	cev16_040.scr	1	ティトレイ	Tytree Crowe	personagem		何興奮してんだよ？		
+cev16_040.scr:2	cev16_040.scr	2	ロニ	Loni Dunamis	personagem	CRLF x2	おお、ティトレイくん。\n気が付かないかね？\nこの船には……類まれなる美女達が		
+cev16_040.scr:3	cev16_040.scr	3	ロニ	Loni Dunamis	personagem	CRLF x1	たくさん！　乗り込んで\nいらっしゃるという事にッッ！！		
+cev16_040.scr:4	cev16_040.scr	4	ティトレイ	Tytree Crowe	personagem	CRLF x1	ははーん。\nそういう事か		
+cev16_040.scr:5	cev16_040.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x2	確かに美人が多いよなぁ。\nしかもクール系、清楚系、お姉さま系と\nよりどりみどりだぜ		
+cev16_040.scr:6	cev16_040.scr	6	ロニ	Loni Dunamis	personagem	CRLF x2	その通りだ。\nふふ、やはり君もわかる男の様だね\nティトレイくん……！		
+cev16_040.scr:7	cev16_040.scr	7	ティトレイ	Tytree Crowe	personagem		そりゃあなあ！		
+cev16_040.scr:8	cev16_040.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x2	おれは日頃から、目の保養になる相手が\nいつも身近にいたからな。\n女を見る目は確かだぜ？		
+cev16_040.scr:9	cev16_040.scr	9	ロニ	Loni Dunamis	personagem	CRLF x1	ほうほうほう？\nして……、その相手とは？		
+cev16_040.scr:10	cev16_040.scr	10	ティトレイ	Tytree Crowe	personagem		ああ、おれの姉貴		
+cev16_040.scr:11	cev16_040.scr	11	ロニ	Loni Dunamis	personagem		ぐはっ！		
+cev16_040.scr:12	cev16_040.scr	12	ロニ	Loni Dunamis	personagem		こいつ……シスコンかよ……！		
+cev16_050.scr:0	cev16_050.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	おい、お前……ナナリー？\nナナリーじゃないか！		
+cev16_050.scr:1	cev16_050.scr	1	ナナリー	Nanaly Fletch	personagem	CRLF x1	確かに、あたしはナナリーだけど……。\nどちら様だい？		
+cev16_050.scr:2	cev16_050.scr	2	ナナリー	Nanaly Fletch	personagem	CRLF x1	知らない男に、いきなり呼び捨てされる\n覚えはないんだけどね		
+cev16_050.scr:3	cev16_050.scr	3	ロニ	Loni Dunamis	personagem		知らない男って……		
+cev16_050.scr:4	cev16_050.scr	4	ロニ	Loni Dunamis	personagem	CRLF x1	そうか、こっちの世界には\n「俺」がいないのか……		
+cev16_050.scr:5	cev16_050.scr	5	ロニ	Loni Dunamis	personagem		いや、それとも知り合っていない……？		
+cev16_050.scr:6	cev16_050.scr	6	ナナリー	Nanaly Fletch	personagem	CRLF x1	何一人でブツブツ言ってるんだい？\nおかしな奴だねえ		
+cev16_050.scr:7	cev16_050.scr	7	ナナリー	Nanaly Fletch	personagem		用がないなら、あたしはこれで失礼するよ		
+cev16_050.scr:8	cev16_050.scr	8	ロニ	Loni Dunamis	personagem		…………		
+cev16_050.scr:9	cev16_050.scr	9	ロニ	Loni Dunamis	personagem	CRLF x2	そうか……\nスタンさんやルーティさんはいても\nここは、俺達の世界じゃない……		
+cev16_050.scr:10	cev16_050.scr	10	ロニ	Loni Dunamis	personagem	CRLF x2	あいつも、あいつであって\nあいつじゃない……。\n俺の事を知らなくて当然ってか……		
+cev16_050.scr:11	cev16_050.scr	11	ロニ	Loni Dunamis	personagem		クソッ……何か、調子狂うぜ……		
+cev16_060.scr:0	cev16_060.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	そういえば、前からひそかに\n気になっている事があるんだが……		
+cev16_060.scr:1	cev16_060.scr	1	セネル	Senel Coolidge	personagem		聞いてもいいか？		
+cev16_060.scr:2	cev16_060.scr	2	ロニ	Loni Dunamis	personagem	CRLF x1	何だよセネル。\nいきなり改まって……		
+cev16_060.scr:3	cev16_060.scr	3	セネル	Senel Coolidge	personagem		そう、それだ！		
+cev16_060.scr:4	cev16_060.scr	4	セネル	Senel Coolidge	personagem	CRLF x1	ロニは大抵の仲間達の事を\n呼び捨てにしているだろう？		
+cev16_060.scr:5	cev16_060.scr	5	セネル	Senel Coolidge	personagem	CRLF x1	でも、スタンやルーティや\n一部の人間には「さん」付けだ		
+cev16_060.scr:6	cev16_060.scr	6	ロニ	Loni Dunamis	personagem		ぎくっ		
+cev16_060.scr:7	cev16_060.scr	7	セネル	Senel Coolidge	personagem		何か理由があるのか？		
+cev16_060.scr:8	cev16_060.scr	8	ロニ	Loni Dunamis	personagem	CRLF x1	そ、そんなもんあるわけねえだろ？\n適当だよ、適当！		
+cev16_060.scr:9	cev16_060.scr	9	ロニ	Loni Dunamis	personagem	CRLF x1	そう、ズバリ！　\n何となくだ！！		
+cev16_060.scr:10	cev16_060.scr	10	セネル	Senel Coolidge	personagem	CRLF x1	……そうなのか？\n俺の考え過ぎか……		
+cev16_060.scr:11	cev16_060.scr	11	ロニ	Loni Dunamis	personagem	CRLF x1	（ふ〜〜っ！\n　危ねえ危ねえ……）		
+cev16_060.scr:12	cev16_060.scr	12	ロニ	Loni Dunamis	personagem	CRLF x2	（まさか、\n　「スタンさん達が英雄だから」なんて\n　言えるわけねえからな……！）		
+cev16_070.scr:0	cev16_070.scr	0	シェリア	Cheria Barnes	personagem		ロニ、聞いたわよ		
+cev16_070.scr:1	cev16_070.scr	1	シェリア	Cheria Barnes	personagem	CRLF x1	また街でナンパして、\nナナリーにおしおきされたのね		
+cev16_070.scr:2	cev16_070.scr	2	ロニ	Loni Dunamis	personagem		おいおい、人聞きの悪い事言うなよ		
+cev16_070.scr:3	cev16_070.scr	3	ロニ	Loni Dunamis	personagem	CRLF x2	俺はただ、道に迷っていたお嬢さんに\n親切かつ紳士的に救いの手を\n差し伸べただけであって……		
+cev16_070.scr:4	cev16_070.scr	4	シェリア	Cheria Barnes	personagem		あら、そうだったの？		
+cev16_070.scr:5	cev16_070.scr	5	ロニ	Loni Dunamis	personagem	CRLF x2	もちろんだとも。\nこれはれっきとした人助けだ。\nつまり……		
+cev16_070.scr:6	cev16_070.scr	6	ロニ	Loni Dunamis	personagem	CRLF x2	そのお礼として、お茶や食事の\n一つや二つくらい\n誘ったってバチは当たらない！！　だろ？		
+cev16_070.scr:7	cev16_070.scr	7	シェリア	Cheria Barnes	personagem	CRLF x1	どうやら、もう一度\nおしおきされた方が良さそうね……		
+cev16_080.scr:0	cev16_080.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	（そういえば……、\n　俺はいつか元の世界に帰るんだよな）		
+cev16_080.scr:1	cev16_080.scr	1	ロニ	Loni Dunamis	personagem	CRLF x1	（って事は、この世界のナナリーとは……\n　もう二度と会えないって事になる）		
+cev16_080.scr:2	cev16_080.scr	2	ロニ	Loni Dunamis	personagem	CRLF x1	（……本当にそれでいいのか？\n　俺は……）		
+cev16_080.scr:3	cev16_080.scr	3	ロニ	Loni Dunamis	personagem	CRLF x1	なあ……シェリア。\nちょっといいか？		
+cev16_080.scr:4	cev16_080.scr	4	シェリア	Cheria Barnes	personagem	CRLF x1	何？　\nどうしたの		
+cev16_080.scr:5	cev16_080.scr	5	ソフィ	Sophie	personagem		ロニ……元気ない		
+cev16_080.scr:6	cev16_080.scr	6	ロニ	Loni Dunamis	personagem		そんな事はないさ！		
+cev16_080.scr:7	cev16_080.scr	7	ロニ	Loni Dunamis	personagem	CRLF x1	ただ、ちょっと相談したいというか\n聞いてみたい事があってだな……		
+cev16_080.scr:8	cev16_080.scr	8	シェリア	Cheria Barnes	personagem		私に、相談したい事……？		
+cev16_080.scr:9	cev16_080.scr	9	ロニ	Loni Dunamis	personagem		…………		
+cev16_080.scr:10	cev16_080.scr	10	ロニ	Loni Dunamis	personagem		やっぱり何でもな……		
+cev16_080.scr:11	cev16_080.scr	11	シェリア	Cheria Barnes	personagem	CRLF x2	どうして？　\n恋の相談なんでしょ？\n私は今、ピーンと来たんだから！		
+cev16_080.scr:12	cev16_080.scr	12	ロニ	Loni Dunamis	personagem	CRLF x1	違う！　\nだから忘れてくれ！！		
+cev16_080.scr:13	cev16_080.scr	13	ソフィ	Sophie	personagem	CRLF x1	ロニ……。\nシェリアの勘は、当たるんだよ		
+cev16_080.scr:14	cev16_080.scr	14	ロニ	Loni Dunamis	personagem		ソフィも追い打ちをかけないでくれ〜！！		
+cev16_090.scr:0	cev16_090.scr	0	ロニ	Loni Dunamis	personagem	CRLF x2	リオン・マグナス……か。\nいわくありまくりの歴史上の人物と\nこうして会う事になるとはな……		
+cev16_090.scr:1	cev16_090.scr	1	カイル	Kyle Dunamis	personagem		ロニ……		
+cev16_090.scr:2	cev16_090.scr	2	ロニ	Loni Dunamis	personagem	CRLF x1	大丈夫だ。\nわかってるよ		
+cev16_090.scr:3	cev16_090.scr	3	ロニ	Loni Dunamis	personagem	CRLF x2	……この世界は、俺達の世界とは別物だ。\nここでのスタンさんもスタンさんじゃないし\nって事は、リオンにしたって同じ事だろ		
+cev16_090.scr:4	cev16_090.scr	4	カイル	Kyle Dunamis	personagem		うん……そうだよね		
+cev16_090.scr:5	cev16_090.scr	5	ロニ	Loni Dunamis	personagem	CRLF x2	それに……、\n歴史は改ざん出来るんだ。\nそれを知った今……		
+cev16_090.scr:6	cev16_090.scr	6	ロニ	Loni Dunamis	personagem	CRLF x1	あいつを憎む理由は……、\n俺にはねえよ		
+cev16_100.scr:0	cev16_100.scr	0	ロニ	Loni Dunamis	personagem		お前って、得してるよなぁ		
+cev16_100.scr:1	cev16_100.scr	1	ロックス	Rocks	personagem	CRLF x1	得？　\n僕の、何がですか？		
+cev16_100.scr:2	cev16_100.scr	2	ロニ	Loni Dunamis	personagem	CRLF x1	見た目だよ、見た目！\nそんだけマスコット系な出で立ちなら		
+cev16_100.scr:3	cev16_100.scr	3	ロニ	Loni Dunamis	personagem	CRLF x1	「キャ〜〜〜☆\n　可愛い、触らせて〜〜☆☆」		
+cev16_100.scr:4	cev16_100.scr	4	ロニ	Loni Dunamis	personagem	CRLF x1	とか、さんざん女子に\n引っ張りだこだったんだろが！		
+cev16_100.scr:5	cev16_100.scr	5	ロックス	Rocks	personagem		そ、そんな事ありませんよ！		
+cev16_100.scr:6	cev16_100.scr	6	ロニ	Loni Dunamis	personagem	CRLF x2	くっ……なぜだ。　どうしてだ？\n人外のお前がモテて、なぜ\nナイスイケメンなこの俺がモテない！？		
+cev16_100.scr:7	cev16_100.scr	7	ロックス	Rocks	personagem	CRLF x1	……それは、見た目とは別に\n何か問題があるんじゃ……		
+cev16_100.scr:8	cev16_100.scr	8	ロニ	Loni Dunamis	personagem		…………		
+cev16_100.scr:9	cev16_100.scr	9	ロックス	Rocks	personagem	CRLF x1	あ、その……違うんです！\n今のはフォローのつもり……		
+cev16_100.scr:10	cev16_100.scr	10	ロニ	Loni Dunamis	personagem	CRLF x1	……ロックスくぅ〜〜ん？\n何か言いたい事があるみたいだねえ？？		
+cev16_100.scr:11	cev16_100.scr	11	ロックス	Rocks	personagem	CRLF x2	ぁ痛！\nそ、そこ掴んじゃダメです！\nさっきブラッシングしたばっかり……		
+cev16_100.scr:12	cev16_100.scr	12	ロニ	Loni Dunamis	personagem	CRLF x2	この口？　この口が\nロニさまに意見したのかなぁ？\nんん〜？？		
+cev16_100.scr:13	cev16_100.scr	13	ロックス	Rocks	personagem		ふにゅうぅぅぅ		
+cev16_200.scr:0	cev16_200.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	通常。\n		
+cev16_200.scr:1	cev16_200.scr	1	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:2	cev16_200.scr	2	ロニ	Loni Dunamis	personagem	CRLF x1	笑い。\n		
+cev16_200.scr:3	cev16_200.scr	3	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:4	cev16_200.scr	4	ロニ	Loni Dunamis	personagem	CRLF x1	怒り。\n		
+cev16_200.scr:5	cev16_200.scr	5	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:6	cev16_200.scr	6	ロニ	Loni Dunamis	personagem	CRLF x1	悲しみ。\n		
+cev16_200.scr:7	cev16_200.scr	7	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:8	cev16_200.scr	8	ロニ	Loni Dunamis	personagem	CRLF x1	怒り２。\n		
+cev16_200.scr:9	cev16_200.scr	9	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:10	cev16_200.scr	10	ロニ	Loni Dunamis	personagem	CRLF x1	呆れ。\n		
+cev16_200.scr:11	cev16_200.scr	11	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:12	cev16_200.scr	12	ロニ	Loni Dunamis	personagem	CRLF x1	通常。\n		
+cev16_200.scr:13	cev16_200.scr	13	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:14	cev16_200.scr	14	ロニ	Loni Dunamis	personagem	CRLF x1	笑い。\n		
+cev16_200.scr:15	cev16_200.scr	15	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:16	cev16_200.scr	16	ロニ	Loni Dunamis	personagem	CRLF x1	怒り。\n		
+cev16_200.scr:17	cev16_200.scr	17	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:18	cev16_200.scr	18	ロニ	Loni Dunamis	personagem	CRLF x1	悲しみ。\n		
+cev16_200.scr:19	cev16_200.scr	19	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:20	cev16_200.scr	20	ロニ	Loni Dunamis	personagem	CRLF x1	怒り２。\n		
+cev16_200.scr:21	cev16_200.scr	21	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:22	cev16_200.scr	22	ロニ	Loni Dunamis	personagem	CRLF x1	呆れ。\n		
+cev16_200.scr:23	cev16_200.scr	23	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:24	cev16_200.scr	24	ロニ	Loni Dunamis	personagem	CRLF x1	通常。\n		
+cev16_200.scr:25	cev16_200.scr	25	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:26	cev16_200.scr	26	ロニ	Loni Dunamis	personagem	CRLF x1	笑い。\n		
+cev16_200.scr:27	cev16_200.scr	27	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:28	cev16_200.scr	28	ロニ	Loni Dunamis	personagem	CRLF x1	怒り。\n		
+cev16_200.scr:29	cev16_200.scr	29	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:30	cev16_200.scr	30	ロニ	Loni Dunamis	personagem	CRLF x1	悲しみ。\n		
+cev16_200.scr:31	cev16_200.scr	31	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:32	cev16_200.scr	32	ロニ	Loni Dunamis	personagem	CRLF x1	怒り２。\n		
+cev16_200.scr:33	cev16_200.scr	33	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev16_200.scr:34	cev16_200.scr	34	ロニ	Loni Dunamis	personagem	CRLF x1	呆れ。\n		
+cev16_200.scr:35	cev16_200.scr	35	ロニ	Loni Dunamis	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

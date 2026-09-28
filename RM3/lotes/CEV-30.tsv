@@ -1,0 +1,165 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev30_010.scr:0	cev30_010.scr	0	ハロルド	Harold Berselius	personagem	CRLF x1	クラトスは、その忍びの里ってとこに\n行った事があるのよね？		
+cev30_010.scr:1	cev30_010.scr	1	ハロルド	Harold Berselius	personagem		ねえねえ、どんなトコだったの？		
+cev30_010.scr:2	cev30_010.scr	2	クラトス	Kratos Aurion	personagem	CRLF x2	その質問には答えられん。\n忍びの里とは文字通り、世間と一線を引き\n忍びながら生きるものの地		
+cev30_010.scr:3	cev30_010.scr	3	クラトス	Kratos Aurion	personagem	CRLF x1	本来であれば、その存在すら\n他言無用にすべき隠れ里なのだ		
+cev30_010.scr:4	cev30_010.scr	4	ハロルド	Harold Berselius	personagem	CRLF x1	でも、私達は今その里へ\n向かってるワケでしょ？		
+cev30_010.scr:5	cev30_010.scr	5	ハロルド	Harold Berselius	personagem	CRLF x1	遅かれ早かれ知る事になるなら、\n別に今だって……		
+cev30_010.scr:6	cev30_010.scr	6	クラトス	Kratos Aurion	personagem	CRLF x1	遅かれ早かれ知る事になるのだ。\n焦る事はなかろう		
+cev30_010.scr:7	cev30_010.scr	7	ハロルド	Harold Berselius	personagem	CRLF x2	何よそれ。\nそんな我慢が出来るなら\n初めから聞いたりなんかしてないわよ		
+cev30_010.scr:8	cev30_010.scr	8	ハロルド	Harold Berselius	personagem		ま、いいわ……		
+cev30_010.scr:9	cev30_010.scr	9	ハロルド	Harold Berselius	personagem		絶対、あきらめないから∀		
+cev30_020.scr:0	cev30_020.scr	0	クラトス	Kratos Aurion	personagem	CRLF x1	先程の様なトラップが、この坑道に\nまだあるかもしれん		
+cev30_020.scr:1	cev30_020.scr	1	クラトス	Kratos Aurion	personagem	CRLF x1	私が知らぬ間に新たな仕掛けが\n施されている可能性もある		
+cev30_020.scr:2	cev30_020.scr	2	クラトス	Kratos Aurion	personagem		くれぐれも勝手な行動は……		
+cev30_020.scr:3	cev30_020.scr	3	ハロルド	Harold Berselius	personagem	CRLF x2	おお〜〜★　何かしらこれ。\nふんふん…硬質な植物の外皮を削り出して\n槍状にしたのね！		
+cev30_020.scr:4	cev30_020.scr	4	ハロルド	Harold Berselius	personagem	CRLF x1	という事は、近くにこれを使った\nカラクリとやらが……∀		
+cev30_020.scr:5	cev30_020.scr	5	クラトス	Kratos Aurion	personagem	CRLF x1	ハロルド。\n聞いているのか		
+cev30_020.scr:6	cev30_020.scr	6	ハロルド	Harold Berselius	personagem		あら、聞いてるわよ		
+cev30_020.scr:7	cev30_020.scr	7	ハロルド	Harold Berselius	personagem	CRLF x1	勝手な行動は\nつつしめって言うんでしょ？		
+cev30_020.scr:8	cev30_020.scr	8	ハロルド	Harold Berselius	personagem		坑道なだけに∀		
+cev30_020.scr:9	cev30_020.scr	9	クラトス	Kratos Aurion	personagem		…………		
+cev30_020.scr:10	cev30_020.scr	10	ハロルド	Harold Berselius	personagem	CRLF x1	あらやだ、本気にしちゃった？\n冗談よ、冗談		
+cev30_030.scr:0	cev30_030.scr	0	クラトス	Kratos Aurion	personagem		世話をかけたな		
+cev30_030.scr:1	cev30_030.scr	1	クラトス	Kratos Aurion	personagem	CRLF x1	おかげで、ロイドもまた一つ\n成長する事が出来た様だ		
+cev30_030.scr:2	cev30_030.scr	2	クラトス	Kratos Aurion	personagem	CRLF x2	……お前は不思議だな。\nただそこにそうしているだけで\n自然と周りへ、いい影響を与えていく		
+cev30_030.scr:3	cev30_030.scr	3	クラトス	Kratos Aurion	personagem	CRLF x2	今の気持ちを忘れるな。\n己が成し遂げたいと思う事、\n歩まんとする道筋を見失わずにいる事だ		
+cev30_030.scr:4	cev30_030.scr	4	クラトス	Kratos Aurion	personagem		お前は……見失わずにいて欲しい		
+cev30_040.scr:0	cev30_040.scr	0	リフィル	Raine Sage	personagem	CRLF x2	さて、と。\nそろそろ仕上げに\nミソを入れようかしら？		
+cev30_040.scr:1	cev30_040.scr	1	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	お待ちになって。\nその前に、隠し味も用意しませんと		
+cev30_040.scr:2	cev30_040.scr	2	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	メロンなどが\nふさわしいのではなくて？		
+cev30_040.scr:3	cev30_040.scr	3	リフィル	Raine Sage	personagem	CRLF x2	そうね……。\nあ、それならついでに\nマグロも入れてみましょう		
+cev30_040.scr:4	cev30_040.scr	4	リフィル	Raine Sage	personagem	CRLF x1	魚に含まれている栄養素には、\n脳の活性化を促す作用があるの		
+cev30_040.scr:5	cev30_040.scr	5	ルーク	Luke fon Fabre	personagem		何で、あいつらが飯作ってんだよ！		
+cev30_040.scr:6	cev30_040.scr	6	ロイド	Lloyd Irving	personagem	CRLF x1	俺が知るかよ！\n気が付いたら、こうなってたんだ！		
+cev30_040.scr:7	cev30_040.scr	7	クラトス	Kratos Aurion	personagem		む……		
+cev30_040.scr:8	cev30_040.scr	8	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	これぐらい煮込めば\nよろしいんじゃありません？		
+cev30_040.scr:9	cev30_040.scr	9	リフィル	Raine Sage	personagem	CRLF x1	ええ、そうね。\nあとは盛り付けをして……		
+cev30_040.scr:10	cev30_040.scr	10	リタ	Rita Mordio	personagem		ちょっと待ったー！		
+cev30_040.scr:11	cev30_040.scr	11	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	あら、リタ。\n突然どうなさいましたの？		
+cev30_040.scr:12	cev30_040.scr	12	リタ	Rita Mordio	personagem	CRLF x2	は〜〜〜〜。\n全くあんた達ってば、\n料理の事を、な〜んもわかってないわ		
+cev30_040.scr:13	cev30_040.scr	13	ロイド	Lloyd Irving	personagem		おぉ、救世主が……！		
+cev30_040.scr:14	cev30_040.scr	14	リタ	Rita Mordio	personagem		いい？		
+cev30_040.scr:15	cev30_040.scr	15	リタ	Rita Mordio	personagem	CRLF x2	人間に必要な栄養素を食材で摂るんなら\n明らかにミルクが足りないでしょ！\nミルクが！！		
+cev30_040.scr:16	cev30_040.scr	16	ルーク	Luke fon Fabre	personagem	CRLF x1	あの中に、ミルクを足すって……。\n正気かよ！？		
+cev30_040.scr:17	cev30_040.scr	17	リフィル	Raine Sage	personagem	CRLF x1	なるほど……。\n確かに一理ある意見だわ		
+cev30_040.scr:18	cev30_040.scr	18	リフィル	Raine Sage	personagem	CRLF x1	よし。\nそれじゃミルクを足して、と		
+cev30_040.scr:19	cev30_040.scr	19	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	出来ましたわ！\n滋養強壮に効果ありの\n特製スープの完成ですわ！		
+cev30_040.scr:20	cev30_040.scr	20	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	さ、ルーク。\nお食べなさい		
+cev30_040.scr:21	cev30_040.scr	21	ルーク	Luke fon Fabre	personagem	CRLF x1	え、俺か！？\nい、いや、それはちょっと……		
+cev30_040.scr:22	cev30_040.scr	22	リフィル	Raine Sage	personagem		ほら、ロイドも		
+cev30_040.scr:23	cev30_040.scr	23	ロイド	Lloyd Irving	personagem		お、俺は……		
+cev30_040.scr:24	cev30_040.scr	24	リタ	Rita Mordio	personagem	CRLF x2	滋養強壮なんだから、\nやっぱり最年長のクラトスに\n最初に食べてもらったら？		
+cev30_040.scr:25	cev30_040.scr	25	リタ	Rita Mordio	personagem	CRLF x1	ほら、クラトス。\n遠慮しないで食べて		
+cev30_040.scr:26	cev30_040.scr	26	クラトス	Kratos Aurion	personagem	CRLF x1	む……。\nこ、この匂いは……		
+cev30_040.scr:27	cev30_040.scr	27	ロイド	Lloyd Irving	personagem	CRLF x1	クラトス、止めとけ……！\n腹壊すぞ、マジで……！！		
+cev30_040.scr:28	cev30_040.scr	28	クラトス	Kratos Aurion	personagem		し、しかし……		
+cev30_040.scr:29	cev30_040.scr	29	リフィル	Raine Sage	personagem	CRLF x1	遠慮する事はないわ。\nさぁ、早く∀		
+cev30_040.scr:30	cev30_040.scr	30	クラトス	Kratos Aurion	personagem		う……、うむ……		
+cev30_040.scr:31	cev30_040.scr	31	クラトス	Kratos Aurion	personagem		では、頂くとするか……		
+cev30_040.scr:32	cev30_040.scr	32	ロイド	Lloyd Irving	personagem		ダメだーーーー！！！		
+cev30_050.scr:0	cev30_050.scr	0	クラトス	Kratos Aurion	personagem		ユーリ		
+cev30_050.scr:1	cev30_050.scr	1	ユーリ	Yuri Lowell	personagem		ん？　何だ？		
+cev30_050.scr:2	cev30_050.scr	2	クラトス	Kratos Aurion	personagem	CRLF x1	お前は今の様な生き方を\nこのまま続けていくつもりか？		
+cev30_050.scr:3	cev30_050.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x1	オレは、オレだからな。\n他の奴が何言おうが関係ねぇし		
+cev30_050.scr:4	cev30_050.scr	4	クラトス	Kratos Aurion	personagem	CRLF x1	例え汚れ役であったとしても\nあくまで己の信念に基づき、動くと？		
+cev30_050.scr:5	cev30_050.scr	5	ユーリ	Yuri Lowell	personagem		ま、そういう性分だから、仕方ねぇよ		
+cev30_050.scr:6	cev30_050.scr	6	クラトス	Kratos Aurion	personagem	CRLF x1	誰に理解されなくとも\nあえてその道を選ぶというのか		
+cev30_050.scr:7	cev30_050.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x1	性分ってのは、そういうもんじゃねぇのか？\nクラトス、あんただって同じだろ？		
+cev30_050.scr:8	cev30_050.scr	8	クラトス	Kratos Aurion	personagem	CRLF x1	フ……。\nさあな		
+cev30_060.scr:0	cev30_060.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	○○、聞いて。\nあなたのこれまで討伐した\n魔物の総数が……		
+cev30_060.scr:1	cev30_060.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	何と！　\n１０００体を超えたの！		
+cev30_060.scr:2	cev30_060.scr	2	スタン	Stahn Aileron	personagem		１０００体だって？		
+cev30_060.scr:3	cev30_060.scr	3	スタン	Stahn Aileron	personagem	CRLF x1	すごいじゃないか、\n○○！		
+cev30_060.scr:4	cev30_060.scr	4	クラトス	Kratos Aurion	personagem	CRLF x2	ふむ……。\n日頃の鍛錬の成果が\n着実に積み重なった結果だろう		
+cev30_060.scr:5	cev30_060.scr	5	(ator 200)	(ator 200)	desconhecido		…………		
+cev30_060.scr:6	cev30_060.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	これまで色んな仕事を\nお願いしてきたけど		
+cev30_060.scr:7	cev30_060.scr	7	アンジュ	Ange Serena	personagem	CRLF x2	ここまで働いてくれるとは\n正直、思ってなかったかな。\nちょっと感動しちゃった		
+cev30_060.scr:8	cev30_060.scr	8	スタン	Stahn Aileron	personagem		俺も負けてられないな……		
+cev30_060.scr:9	cev30_060.scr	9	スタン	Stahn Aileron	personagem	CRLF x1	よ〜し、クレスに剣の稽古に\n付き合ってもらうぞ！		
+cev30_060.scr:10	cev30_060.scr	10	クラトス	Kratos Aurion	personagem		○○		
+cev30_060.scr:11	cev30_060.scr	11	クラトス	Kratos Aurion	personagem		倒した魔物の数がすごいのではない		
+cev30_060.scr:12	cev30_060.scr	12	クラトス	Kratos Aurion	personagem	CRLF x2	お前の前向きな行動が\n自然と周囲に良き影響を与え\n魔物討伐数という形で、一つの結果を生んだ		
+cev30_060.scr:13	cev30_060.scr	13	クラトス	Kratos Aurion	personagem	CRLF x1	その自然な連環こそが\nお前の強さの本質であり、最大の武器なのだ		
+cev30_060.scr:14	cev30_060.scr	14	(ator 200)	(ator 200)	desconhecido		…………		
+cev30_060.scr:15	cev30_060.scr	15	クラトス	Kratos Aurion	personagem		……これからも、鍛錬を怠るなよ		
+cev30_060.scr:16	cev30_060.scr	16	アンジュ	Ange Serena	personagem	CRLF x1	ふふ、珍しい人から\nありがたいお説教をもらっちゃったね		
+cev30_060.scr:17	cev30_060.scr	17	アンジュ	Ange Serena	personagem	CRLF x2	わたしも、これからも頼りにしてるよ。\n一緒に頑張っていきましょう、\n○○		
+cev30_070.scr:0	cev30_070.scr	0	リアラ	Reala	personagem	CRLF x1	これから、世界は\nどうなっていくのかしら……		
+cev30_070.scr:1	cev30_070.scr	1	ティア	Tear Grants	personagem		わからないわ……ただ、		
+cev30_070.scr:2	cev30_070.scr	2	ティア	Tear Grants	personagem	CRLF x2	このままラザリスの浸食が進めば\nそう遠くない未来に、取り返しのつかない\n事態になる……それだけは確かね		
+cev30_070.scr:3	cev30_070.scr	3	クラトス	Kratos Aurion	personagem		……不安か？		
+cev30_070.scr:4	cev30_070.scr	4	リアラ	Reala	personagem		え、ええ……		
+cev30_070.scr:5	cev30_070.scr	5	リアラ	Reala	personagem	CRLF x1	この先の事を考えると……\nどうしても……		
+cev30_070.scr:6	cev30_070.scr	6	クラトス	Kratos Aurion	personagem	CRLF x1	ならばまず、その負の感情を\n捨て去る事だ		
+cev30_070.scr:7	cev30_070.scr	7	ティア	Tear Grants	personagem	CRLF x1	捨てる……？\n不安になるなという事？		
+cev30_070.scr:8	cev30_070.scr	8	クラトス	Kratos Aurion	personagem	CRLF x2	未来が不確かだからといって\n恐れを抱いて何になる？\nそれは「まだ起きていない」のだ		
+cev30_070.scr:9	cev30_070.scr	9	クラトス	Kratos Aurion	personagem	CRLF x1	必要なのは、今から先へと踏み出す一歩、\nその為の一握の勇気だろう		
+cev30_070.scr:10	cev30_070.scr	10	リアラ	Reala	personagem	CRLF x2	確かに……わたし達の不安は\n望まない未来を思い描く事で\n生まれているわ		
+cev30_070.scr:11	cev30_070.scr	11	ティア	Tear Grants	personagem	CRLF x2	その不安が恐れとなり、\n一歩を踏み出す勇気を奪う……。\n結果、望む未来からは遠ざかる……		
+cev30_070.scr:12	cev30_070.scr	12	リアラ	Reala	personagem	CRLF x1	……わたし達の不安が、逆に\n望まない未来を引き寄せてしまっているのね		
+cev30_070.scr:13	cev30_070.scr	13	クラトス	Kratos Aurion	personagem		そういう事だ		
+cev30_070.scr:14	cev30_070.scr	14	クラトス	Kratos Aurion	personagem	CRLF x1	慎重を期す事と臆病である事は違う。\nそれを肝に銘じておく事だ		
+cev30_080.scr:0	cev30_080.scr	0	クロエ	Chloe Valens	personagem		ア……アウリオン！		
+cev30_080.scr:1	cev30_080.scr	1	クラトス	Kratos Aurion	personagem		……何だ		
+cev30_080.scr:2	cev30_080.scr	2	クロエ	Chloe Valens	personagem	CRLF x1	え、えっと……その……。\nこの間は、すまなかった		
+cev30_080.scr:3	cev30_080.scr	3	クロエ	Chloe Valens	personagem		怒鳴ったりして……恥ずかしく思う		
+cev30_080.scr:4	cev30_080.scr	4	クラトス	Kratos Aurion	personagem		…………		
+cev30_080.scr:5	cev30_080.scr	5	クロエ	Chloe Valens	personagem	CRLF x2	ただ、私に何か至らぬ所があったのなら\nそう言ってはもらえないか？\nこのままでは……あまりに、その……		
+cev30_080.scr:6	cev30_080.scr	6	クラトス	Kratos Aurion	personagem		フッ……		
+cev30_080.scr:7	cev30_080.scr	7	クロエ	Chloe Valens	personagem	CRLF x1	な、何だ。\n何がおかしい？		
+cev30_080.scr:8	cev30_080.scr	8	クラトス	Kratos Aurion	personagem	CRLF x1	いや、よく私と\n話をする気になったものだと思ってな		
+cev30_080.scr:9	cev30_080.scr	9	クロエ	Chloe Valens	personagem	CRLF x1	……それは……コレットが\n貴公の真意を問えと言うから……		
+cev30_080.scr:10	cev30_080.scr	10	クラトス	Kratos Aurion	personagem	CRLF x2	それでいいのだ。\n大切なのは、他人の話に耳を傾け\n己の解釈に常に疑問を持つ事だ		
+cev30_080.scr:11	cev30_080.scr	11	クロエ	Chloe Valens	personagem		な……何？		
+cev30_080.scr:12	cev30_080.scr	12	クラトス	Kratos Aurion	personagem	CRLF x2	物事は如何様にでも解釈出来る。\n人間も同じだ。　初めから善人と悪人が\nこの世にいるわけではない		
+cev30_080.scr:13	cev30_080.scr	13	クロエ	Chloe Valens	personagem	CRLF x1	だが……事実、悪党はいるじゃないか。\nこの間だって……		
+cev30_080.scr:14	cev30_080.scr	14	クラトス	Kratos Aurion	personagem	CRLF x2	善悪を定めているのは、己の心だ。\nならば、その心が真に正しく在るか\n常に疑いを持たねば、真実は遠ざかる		
+cev30_080.scr:15	cev30_080.scr	15	クロエ	Chloe Valens	personagem		あ……		
+cev30_080.scr:16	cev30_080.scr	16	クラトス	Kratos Aurion	personagem	CRLF x2	……お前も騎士を名乗るなら\n常に正義と善悪の在り処を、\n己に問いかけ続ける事だ		
+cev30_080.scr:17	cev30_080.scr	17	クロエ	Chloe Valens	personagem		……私は……間違っていたのか？		
+cev30_080.scr:18	cev30_080.scr	18	クロエ	Chloe Valens	personagem		…………		
+cev30_090.scr:0	cev30_090.scr	0	キュッポ	Kyuppo	personagem	CRLF x1	クラトスさん、大丈夫キュ？\n疲れてないキュ？		
+cev30_090.scr:1	cev30_090.scr	1	クラトス	Kratos Aurion	personagem		……どういう事だ？		
+cev30_090.scr:2	cev30_090.scr	2	キュッポ	Kyuppo	personagem	CRLF x1	いつもより、眉間のしわが\nちょっと深いキュ		
+cev30_090.scr:3	cev30_090.scr	3	キュッポ	Kyuppo	personagem		……というのは冗談キュ		
+cev30_090.scr:4	cev30_090.scr	4	クラトス	Kratos Aurion	personagem		…………		
+cev30_090.scr:5	cev30_090.scr	5	キュッポ	Kyuppo	personagem	CRLF x1	クラトスさんは、本物の戦士だキュ。\nだから、簡単には弱音を吐かないキュ		
+cev30_090.scr:6	cev30_090.scr	6	キュッポ	Kyuppo	personagem	CRLF x2	辛い事も、苦しい事も我慢して……\n我慢が積もると、だんだん\n心が固くなってくるものだキュ		
+cev30_090.scr:7	cev30_090.scr	7	クラトス	Kratos Aurion	personagem	CRLF x1	……フッ……\n心配してくれている、という事か		
+cev30_090.scr:8	cev30_090.scr	8	キュッポ	Kyuppo	personagem	CRLF x1	無理は禁物だキュ。\n無理と我慢は、心と体に良くないキュ		
+cev30_090.scr:9	cev30_090.scr	9	クラトス	Kratos Aurion	personagem		……そうだな		
+cev30_090.scr:10	cev30_090.scr	10	キュッポ	Kyuppo	personagem	CRLF x1	お腹が空いたら、\nいつでもここに来るといいキュ		
+cev30_090.scr:11	cev30_090.scr	11	キュッポ	Kyuppo	personagem	CRLF x2	クラトスさんなら、同じ戦士として\n上等のホタテを、ちょっとだけ\nわけてあげてもいいキュ！		
+cev30_090.scr:12	cev30_090.scr	12	クラトス	Kratos Aurion	personagem		……ああ、わかった		
+cev30_090.scr:13	cev30_090.scr	13	クラトス	Kratos Aurion	personagem		考えておくとしよう		
+cev30_200.scr:0	cev30_200.scr	0	クラトス	Kratos Aurion	personagem	CRLF x1	通常。\n		
+cev30_200.scr:1	cev30_200.scr	1	クラトス	Kratos Aurion	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev30_200.scr:2	cev30_200.scr	2	クラトス	Kratos Aurion	personagem	CRLF x1	笑い。\n		
+cev30_200.scr:3	cev30_200.scr	3	クラトス	Kratos Aurion	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev30_200.scr:4	cev30_200.scr	4	クラトス	Kratos Aurion	personagem	CRLF x1	怒り。\n		
+cev30_200.scr:5	cev30_200.scr	5	クラトス	Kratos Aurion	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev30_200.scr:6	cev30_200.scr	6	クラトス	Kratos Aurion	personagem	CRLF x1	悲しみ。\n		
+cev30_200.scr:7	cev30_200.scr	7	クラトス	Kratos Aurion	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev30_200.scr:8	cev30_200.scr	8	クラトス	Kratos Aurion	personagem	CRLF x1	目閉じ顔。\n		
+cev30_200.scr:9	cev30_200.scr	9	クラトス	Kratos Aurion	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev30_200.scr:10	cev30_200.scr	10	クラトス	Kratos Aurion	personagem	CRLF x1	通常。\n		
+cev30_200.scr:11	cev30_200.scr	11	クラトス	Kratos Aurion	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev30_200.scr:12	cev30_200.scr	12	クラトス	Kratos Aurion	personagem	CRLF x1	笑い。\n		
+cev30_200.scr:13	cev30_200.scr	13	クラトス	Kratos Aurion	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev30_200.scr:14	cev30_200.scr	14	クラトス	Kratos Aurion	personagem	CRLF x1	怒り。\n		
+cev30_200.scr:15	cev30_200.scr	15	クラトス	Kratos Aurion	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev30_200.scr:16	cev30_200.scr	16	クラトス	Kratos Aurion	personagem	CRLF x1	悲しみ。\n		
+cev30_200.scr:17	cev30_200.scr	17	クラトス	Kratos Aurion	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev30_200.scr:18	cev30_200.scr	18	クラトス	Kratos Aurion	personagem	CRLF x1	目閉じ顔。\n		
+cev30_200.scr:19	cev30_200.scr	19	クラトス	Kratos Aurion	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev30_200.scr:20	cev30_200.scr	20	クラトス	Kratos Aurion	personagem	CRLF x1	通常。\n		
+cev30_200.scr:21	cev30_200.scr	21	クラトス	Kratos Aurion	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev30_200.scr:22	cev30_200.scr	22	クラトス	Kratos Aurion	personagem	CRLF x1	笑い。\n		
+cev30_200.scr:23	cev30_200.scr	23	クラトス	Kratos Aurion	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev30_200.scr:24	cev30_200.scr	24	クラトス	Kratos Aurion	personagem	CRLF x1	怒り。\n		
+cev30_200.scr:25	cev30_200.scr	25	クラトス	Kratos Aurion	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev30_200.scr:26	cev30_200.scr	26	クラトス	Kratos Aurion	personagem	CRLF x1	悲しみ。\n		
+cev30_200.scr:27	cev30_200.scr	27	クラトス	Kratos Aurion	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev30_200.scr:28	cev30_200.scr	28	クラトス	Kratos Aurion	personagem	CRLF x1	目閉じ顔。\n		
+cev30_200.scr:29	cev30_200.scr	29	クラトス	Kratos Aurion	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

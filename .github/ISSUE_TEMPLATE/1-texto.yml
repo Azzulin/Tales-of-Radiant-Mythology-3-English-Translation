@@ -1,0 +1,45 @@
+name: Text error
+description: Typo, wrong name, bad grammar, mistranslation, or tone that doesn't fit the character.
+title: "[Text] "
+labels: ["text"]
+body:
+  - type: input
+    id: build
+    attributes:
+      label: Build
+      description: Patch version you are testing.
+      placeholder: en20
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: Chapter, town/dungeon, NPC or menu, and what you were doing.
+      placeholder: "Chapter 3, Guild hall, talking to the receptionist after accepting a quest"
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Text as it appears
+      description: Copy the line exactly as shown in the game.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested fix
+      description: Optional. How you think it should read.
+      render: text
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drag and drop an image here. Strongly recommended.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Optional. Why it's wrong (e.g. the name is spelled differently elsewhere, the character wouldn't talk like this).

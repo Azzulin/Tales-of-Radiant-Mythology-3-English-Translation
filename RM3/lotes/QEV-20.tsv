@@ -1,0 +1,71 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev20_010.scr:0	qev20_010.scr	0	クレス	Cress Albane	personagem	CRLF x2	おかしいな……。\nそろそろ着いても\nいい頃のはずなんだけど		
+qev20_010.scr:1	qev20_010.scr	1	ミント	Mint Adenade	personagem	CRLF x1	本当に……、どうしたのでしょうか。\nあれ以来、連絡もありませんし……		
+qev20_010.scr:2	qev20_010.scr	2	ミント	Mint Adenade	personagem		あ、○○さん		
+qev20_010.scr:3	qev20_010.scr	3	クレス	Cress Albane	personagem	CRLF x1	ちょうどいいところに。\n今、少しだけいいかな？		
+qev20_010.scr:4	qev20_010.scr	4	クレス	Cress Albane	personagem	CRLF x2	もしかしたら近々、\n君に協力をお願いしたい事が\n出来るかもしれない……		
+qev20_010.scr:5	qev20_010.scr	5	クレス	Cress Albane	personagem	CRLF x1	単なる僕達の取り越し苦労なら\nいいんだけど		
+qev20_010.scr:6	qev20_010.scr	6	ミント	Mint Adenade	personagem	CRLF x1	そうですね……。\n無事でいて下さるといいのですが……		
+qev20_010.scr:7	qev20_010.scr	7	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「やさしい兄貴」が\nエントリーされました。\nクレスから受ける事が出来ます		
+qev20_020.scr:0	qev20_020.scr	0	クレス	Cress Albane	personagem	CRLF x2	ありがとう。\n君ならきっと、\n力を貸してくれると思っていたよ		
+qev20_020.scr:1	qev20_020.scr	1	クレス	Cress Albane	personagem	CRLF x2	どうしても、友人が道に迷ったとは\n思えないんだ。もしかしたら\n道中、何かあったのかもしれない		
+qev20_020.scr:2	qev20_020.scr	2	ミント	Mint Adenade	personagem	CRLF x2	ええ。\nもし、そうでしたら一刻を争います。\n……急ぎましょう		
+qev20_020.scr:3	qev20_020.scr	3	クレス	Cress Albane	personagem		そうだね		
+qev20_020.scr:4	qev20_020.scr	4	クレス	Cress Albane	personagem	CRLF x1	準備が出来たら、すぐ行こう。\n○○		
+qev20_030.scr:0	qev20_030.scr	0	ミント	Mint Adenade	personagem	CRLF x1	連絡のあった場所は\nここ……ですね		
+qev20_030.scr:1	qev20_030.scr	1	クレス	Cress Albane	personagem	CRLF x1	魔物の気配がするな……。\n油断せずに行こう		
+qev20_040.scr:0	qev20_040.scr	0	ミント	Mint Adenade	personagem	CRLF x1	クレスさん、待って下さい。\n何か落とされましたよ		
+qev20_040.scr:1	qev20_040.scr	1	クレス	Cress Albane	personagem	CRLF x1	え？　ああ、本当だ。\nありがとう、ミント		
+qev20_040.scr:2	qev20_040.scr	2	(ator 200)	(ator 200)	desconhecido		……？		
+qev20_040.scr:3	qev20_040.scr	3	クレス	Cress Albane	personagem	CRLF x2	ああ、これかい？\n友人の妹さんが、僕にって\nわざわざ作ってくれた人形なんだ		
+qev20_040.scr:4	qev20_040.scr	4	クレス	Cress Albane	personagem		お守りみたいなものだよ		
+qev20_040.scr:5	qev20_040.scr	5	ミント	Mint Adenade	personagem		そのお人形……懐かしいですね		
+qev20_040.scr:6	qev20_040.scr	6	ミント	Mint Adenade	personagem	CRLF x2	確かあの時、クレスさんにしか\nプレゼントを用意していないのかって\n機嫌を悪くされてしまって		
+qev20_040.scr:7	qev20_040.scr	7	ミント	Mint Adenade	personagem		あの後が、大変でしたね		
+qev20_040.scr:8	qev20_040.scr	8	クレス	Cress Albane	personagem	CRLF x2	そうそう。\n困ったアミィちゃんが、結局\n代わりにアップルグミをあげたんだ		
+qev20_040.scr:9	qev20_040.scr	9	クレス	Cress Albane	personagem	CRLF x2	ああ見えて、結構\nやきもち焼きなところが\nあるんだよな		
+qev20_040.scr:10	qev20_040.scr	10	クレス	Cress Albane	personagem	CRLF x1	僕にも妹がいたら、同じ事を\n思ったのかなぁ		
+qev20_040.scr:11	qev20_040.scr	11	ミント	Mint Adenade	personagem		ふふ、クレスさんたら		
+qev20_040.scr:12	qev20_040.scr	12	(ator 200)	(ator 200)	desconhecido		…………		
+qev20_040.scr:13	qev20_040.scr	13	クレス	Cress Albane	personagem	CRLF x2	あ……ごめん。\n僕達にしかわからない話を\nしてしまって		
+qev20_040.scr:14	qev20_040.scr	14	ミント	Mint Adenade	personagem	CRLF x2	今お話していたお兄さんというのが\nこれから私達が迎えに行く\n友人の事なんです		
+qev20_040.scr:15	qev20_040.scr	15	クレス	Cress Albane	personagem	CRLF x1	妹思いのいい奴なんだよ。\nそれに、弓の名手なんだ		
+qev20_040.scr:16	qev20_040.scr	16	クレス	Cress Albane	personagem	CRLF x1	きっと、アドリビトムの戦力として\n活躍してくれると思う		
+qev20_040.scr:17	qev20_040.scr	17	ミント	Mint Adenade	personagem		私もそう思います		
+qev20_040.scr:18	qev20_040.scr	18	ミント	Mint Adenade	personagem	CRLF x1	……クレスさん、今度は\n向こうの方も探してみましょう		
+qev20_040.scr:19	qev20_040.scr	19	クレス	Cress Albane	personagem	CRLF x2	うん。\nそうだね。\n行ってみよう		
+qev20_050.scr:0	qev20_050.scr	0	クレス	Cress Albane	personagem	CRLF x1	チェスター！\n無事だったんだな！		
+qev20_050.scr:1	qev20_050.scr	1	チェスター	Chester Barklight	personagem	CRLF x1	クレスか？\nそれに、ミントも		
+qev20_050.scr:2	qev20_050.scr	2	チェスター	Chester Barklight	personagem		もしかして、探しに来てくれたのか？		
+qev20_050.scr:3	qev20_050.scr	3	ミント	Mint Adenade	personagem	CRLF x2	そうですよ。\n到着予定日を過ぎても、連絡が\nありませんでしたから……心配で		
+qev20_050.scr:4	qev20_050.scr	4	チェスター	Chester Barklight	personagem	CRLF x2	悪い悪い、\nちょっと厄介な魔物に出くわしてさ。\nおかげで手間取っちまった		
+qev20_050.scr:5	qev20_050.scr	5	クレス	Cress Albane	personagem	CRLF x1	やっぱり……。\nそんな事なんじゃないかと思ったよ		
+qev20_050.scr:6	qev20_050.scr	6	チェスター	Chester Barklight	personagem	CRLF x2	オレの気のせいかもしれないけど\nあいつら、最近凶暴になってないか？\n妙に手強かったっていうか……		
+qev20_050.scr:7	qev20_050.scr	7	(ator 200)	(ator 200)	desconhecido		…………		
+qev20_050.scr:8	qev20_050.scr	8	ミント	Mint Adenade	personagem	CRLF x2	そうですね……。\nアドリビトムにも魔物による被害の報告や\n掃討の依頼が増えている様です		
+qev20_050.scr:9	qev20_050.scr	9	ミント	Mint Adenade	personagem	CRLF x1	チェスターさんにお怪我がない様で\n何よりでした		
+qev20_050.scr:10	qev20_050.scr	10	クレス	Cress Albane	personagem	CRLF x1	そうだね。\n本当に無事で良かったよ		
+qev20_050.scr:11	qev20_050.scr	11	クレス	Cress Albane	personagem	CRLF x2	でも、魔物に足止めされているなら、\n初めからそう言ってくれれば\nもっと早く迎えに来たのに		
+qev20_050.scr:12	qev20_050.scr	12	クレス	Cress Albane	personagem		なあ、○○？		
+qev20_050.scr:13	qev20_050.scr	13	(ator 200)	(ator 200)	desconhecido		…………		
+qev20_050.scr:14	qev20_050.scr	14	チェスター	Chester Barklight	personagem	CRLF x1	おいおい、オレの腕を疑うのか？\nそりゃないぜ		
+qev20_050.scr:15	qev20_050.scr	15	チェスター	Chester Barklight	personagem	CRLF x1	まぁ……。\n心配かけたのは、悪かったけどよ		
+qev20_050.scr:16	qev20_050.scr	16	(ator 200)	(ator 200)	desconhecido		…………		
+qev20_050.scr:17	qev20_050.scr	17	チェスター	Chester Barklight	personagem		ええと、○○？		
+qev20_050.scr:18	qev20_050.scr	18	チェスター	Chester Barklight	personagem	CRLF x2	俺はチェスター・バークライト。\nそんなわけで、\nしばらく世話になるぜ		
+qev20_050.scr:19	qev20_050.scr	19	チェスター	Chester Barklight	personagem		よろしくな		
+qev20_060.scr:0	qev20_060.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	ここがアドリビトムか。\n結構、賑やかじゃねえか		
+qev20_060.scr:1	qev20_060.scr	1	チェスター	Chester Barklight	personagem		何かワクワクするな、こういうの		
+qev20_060.scr:2	qev20_060.scr	2	チェスター	Chester Barklight	personagem	CRLF x1	昔、村でやった\n合同キャンプを思い出すぜ		
+qev20_060.scr:3	qev20_060.scr	3	ミント	Mint Adenade	personagem	CRLF x2	それって……。\nチェスターさんが、女性の水浴びを\n覗いたっていう、あの……？		
+qev20_060.scr:4	qev20_060.scr	4	チェスター	Chester Barklight	personagem	CRLF x1	ちょっと待った！\nあれは不可抗力という奴でだな		
+qev20_060.scr:5	qev20_060.scr	5	チェスター	Chester Barklight	personagem	CRLF x1	決して、やましい気持ちが\nあったわけでは……		
+qev20_060.scr:6	qev20_060.scr	6	クレス	Cress Albane	personagem	CRLF x1	僕はやめておけって\n忠告したんだけどね……		
+qev20_060.scr:7	qev20_060.scr	7	チェスター	Chester Barklight	personagem	CRLF x1	おい、クレス！\n裏切るのかよ？		
+qev20_060.scr:8	qev20_060.scr	8	ミント	Mint Adenade	personagem		…………		
+qev20_060.scr:9	qev20_060.scr	9	チェスター	Chester Barklight	personagem	CRLF x1	お、おいミント？\n待てって！		
+qev20_060.scr:10	qev20_060.scr	10	クレス	Cress Albane	personagem	CRLF x2	ははは……。\n騒がしくしてすまない。\nいつも僕達はこんな感じでね		
+qev20_060.scr:11	qev20_060.scr	11	クレス	Cress Albane	personagem	CRLF x2	それより、○○が\n手伝ってくれたおかげで助かったよ。\n本当にありがとう		
+qev20_060.scr:12	qev20_060.scr	12	クレス	Cress Albane	personagem	CRLF x2	何か困った事があったら、\n遠慮なく相談してくれ。\n今度は僕達が協力するよ		
+qev20_060.scr:13	qev20_060.scr	13	クレス	Cress Albane	personagem		これからも、よろしく		
+qev20_060.scr:14	qev20_060.scr	14	(mensagem de sistema)	(mensagem de sistema)	sistema		チェスターがアドリビトムに加入しました		

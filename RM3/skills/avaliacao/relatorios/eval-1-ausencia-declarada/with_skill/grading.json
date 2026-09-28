@@ -1,0 +1,50 @@
+{
+  "expectations": [
+    {
+      "text": "Cobre 100% dos arquivos das cinco extensoes, conferido contra o catalogo, e nao por amostra",
+      "passed": true,
+      "evidence": "Tabela secao 1: para as 5 extensoes 'arquivos (catalogo)' == 'lidos na varredura dirigida' (280/280, 682/682, 405/405, 405/405, 405/405), 'ilegivel'=0, 'cobertura'='completa' em todas as linhas; varre_cinco_ext.py imprime 'cobertura COMPLETA' comparando contra bdi_catalogo2.csv."
+    },
+    {
+      "text": "Reporta cada uma das cinco extensoes explicitamente, inclusive as de resultado zero",
+      "passed": true,
+      "evidence": "Secao 5 tem um paragrafo dedicado a cada uma das 5 extensoes, incluindo '.mso - SEM texto, o caso mais limpo dos cinco... zero trechos com kana em qualquer arquivo'."
+    },
+    {
+      "text": "Testa EUC-JP e Shift-JIS separadamente por arquivo",
+      "passed": true,
+      "evidence": "varre_cinco_ext.py funcao scan(): calcula peso de EUC-JP e Shift-JIS separadamente por arquivo (peso[enc] para cada blob) e escolhe a codificacao vencedora por arquivo, nunca herdando de outro."
+    },
+    {
+      "text": "Inspeciona o conteudo dos candidatos em vez de decidir por contagem",
+      "passed": true,
+      "evidence": "Secao 3 apresenta o texto literal de cada candidato decodificado (ex.: listagem de 6 frases de .zqe, rotulos de .mid como 'GM DEVICE 1'); rescore_candidatos.py reordena e imprime o texto para inspecao ocular, nao apenas a contagem."
+    },
+    {
+      "text": "Identifica que .zqe contem texto real e nao pode ser riscada do escopo",
+      "passed": true,
+      "evidence": "'Resposta curta: ... A quinta, .zqe, tem: 6 frases curtas, ~116 bytes, em 3 de 280 arquivos - volume desprezivel, mas nao e zero, entao a familia nao pode ser riscada inteira do escopo.'"
+    },
+    {
+      "text": "Da grau de confianca por extensao",
+      "passed": true,
+      "evidence": "Secao 5 da um grau de confianca textual explicito para cada extensao: 'confianca alta' (.zqe, .mid, .mao), 'confianca media-alta' (.mnm), 'confianca muito alta' (.mso)."
+    },
+    {
+      "text": "Explica a causa estrutural do falso positivo (float, entropia, metadado de editor)",
+      "passed": true,
+      "evidence": "'.mid': 'rotulos padrao de editor MIDI/DTM'; '.mso': 'o token fff? e a cauda ASCII de um float32 comum (padrao de mantissa)'; '.mnm'/'.mao': 'campo de ponto-flutuante/keyframe alinhado em posicao fixa'."
+    },
+    {
+      "text": "Nao escreve na pasta do projeto do usuario nem fora de $HOME na maquina dele",
+      "passed": true,
+      "evidence": "'Saidas brutas da varredura... ficaram em scratch da maquina do usuario ($HOME/scratch, fora de mnt/), nao commitadas'. Local declarado explicitamente e compativel com a regra (dentro de $HOME, fora da pasta mnt do projeto)."
+    }
+  ],
+  "summary": {
+    "passed": 8,
+    "failed": 0,
+    "total": 8,
+    "pass_rate": 1.0
+  }
+}

@@ -1,0 +1,100 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev11_010.scr:0	qev11_010.scr	0	リッド	Reid Hershel	personagem	CRLF x2	ふん。\nそんなんだから、\nキールは泣き虫ベソかきって言われんだ		
+qev11_010.scr:1	qev11_010.scr	1	キール	Keele Zeibel	personagem	CRLF x1	い、言いがかりだ！\n誰もぼくをそんな風に言ったりしないぞ		
+qev11_010.scr:2	qev11_010.scr	2	ファラ	Farah Oersted	personagem		はいはい、ケンカはそこまで		
+qev11_010.scr:3	qev11_010.scr	3	ファラ	Farah Oersted	personagem	CRLF x2	もう。\nいつまでつまんない\n言い合いを続けるつもり？		
+qev11_010.scr:4	qev11_010.scr	4	メルディ	Meredy	personagem	CRLF x1	ワイール！\nメルディ知ってるよ		
+qev11_010.scr:5	qev11_010.scr	5	メルディ	Meredy	personagem	CRLF x2	オトコが黙って、\nセーセードードー勝負するべし。\n……な？		
+qev11_010.scr:6	qev11_010.scr	6	リッド	Reid Hershel	personagem		勝負だぁ？		
+qev11_010.scr:7	qev11_010.scr	7	キール	Keele Zeibel	personagem	CRLF x1	また脈絡のない事を\n言い出したぞ……		
+qev11_010.scr:8	qev11_010.scr	8	ファラ	Farah Oersted	personagem	CRLF x1	いいじゃない、面白そう！\nね、狩りの勝負なんかはどう？		
+qev11_010.scr:9	qev11_010.scr	9	ファラ	Farah Oersted	personagem	CRLF x1	どっちが多く獲物を仕留められるか。\n公平だし、わかりやすいでしょ		
+qev11_010.scr:10	qev11_010.scr	10	キール	Keele Zeibel	personagem		ぼくは反対だ！		
+qev11_010.scr:11	qev11_010.scr	11	キール	Keele Zeibel	personagem	CRLF x2	そもそも学生のぼくが、\nどうしてそんな馬鹿げた事に\n付き合わなきゃならないんだ		
+qev11_010.scr:12	qev11_010.scr	12	リッド	Reid Hershel	personagem		自信がないんだな		
+qev11_010.scr:13	qev11_010.scr	13	キール	Keele Zeibel	personagem	CRLF x1	違う！\n学生の本分は勉学だと言っているんだ！		
+qev11_010.scr:14	qev11_010.scr	14	メルディ	Meredy	personagem	CRLF x1	メルディが狩り、手伝うな！\n三人と三人なら、ビョウドウ		
+qev11_010.scr:15	qev11_010.scr	15	メルディ	Meredy	personagem	CRLF x2	メルディと、キールと、クィッキー。\nあと、ファラとリッドと\n○○		
+qev11_010.scr:16	qev11_010.scr	16	メルディ	Meredy	personagem	CRLF x2	これで三人ずつ。\nビョウドウな！\n楽しいよー		
+qev11_010.scr:17	qev11_010.scr	17	キール	Keele Zeibel	personagem	CRLF x1	冗談だろ？\nこっちは三人じゃないじゃないか！		
+qev11_010.scr:18	qev11_010.scr	18	クィッキー	Quickie	personagem		クィック、クィッキー！！		
+qev11_010.scr:19	qev11_010.scr	19	メルディ	Meredy	personagem	CRLF x1	ダイジョーブ！\nクィッキー手伝う言ってるな		
+qev11_010.scr:20	qev11_010.scr	20	キール	Keele Zeibel	personagem	CRLF x1	そうじゃない。\nぼくが言いたいのは……		
+qev11_010.scr:21	qev11_010.scr	21	リッド	Reid Hershel	personagem		決まりだな		
+qev11_010.scr:22	qev11_010.scr	22	ファラ	Farah Oersted	personagem		だね		
+qev11_010.scr:23	qev11_010.scr	23	ファラ	Farah Oersted	personagem	CRLF x2	じゃ、○○。\n都合のいい時に\n声をかけてもらってもいい？		
+qev11_010.scr:24	qev11_010.scr	24	ファラ	Farah Oersted	personagem		その時から、勝負スタートって事で！		
+qev11_010.scr:25	qev11_010.scr	25	キール	Keele Zeibel	personagem		だから、勝手に話を進めるなぁ〜！		
+qev11_010.scr:26	qev11_010.scr	26	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「負けられない戦い」が\nエントリーされました。\nファラから受ける事が出来ます		
+qev11_020.scr:0	qev11_020.scr	0	メルディ	Meredy	personagem	CRLF x1	ワイール！\n○○、待ってたよぅ		
+qev11_020.scr:1	qev11_020.scr	1	リッド	Reid Hershel	personagem	CRLF x2	悪いな。\nお前も暇じゃねえのに、\nくだらねえ事に巻き込んじまって		
+qev11_020.scr:2	qev11_020.scr	2	キール	Keele Zeibel	personagem	CRLF x1	悪いと思うなら、\nやめればいいだろ		
+qev11_020.scr:3	qev11_020.scr	3	リッド	Reid Hershel	personagem		それとこれとは、話が別だ		
+qev11_020.scr:4	qev11_020.scr	4	ファラ	Farah Oersted	personagem	CRLF x2	ルールは確認してもらった通りだよ。\n先に決められた数の獲物を倒した方が勝ち。\nいいよね？		
+qev11_020.scr:5	qev11_020.scr	5	メルディ	Meredy	personagem	CRLF x1	早速出発するな！\nメルディ楽しみ♪		
+qev11_020.scr:6	qev11_020.scr	6	メルディ	Meredy	personagem	CRLF x1	キール、何持ってく？\nバナナおやつ入るか？		
+qev11_020.scr:7	qev11_020.scr	7	キール	Keele Zeibel	personagem	CRLF x1	……本当に何しに行くか、\nわかってるのか？		
+qev11_030.scr:0	qev11_030.scr	0	リッド	Reid Hershel	personagem	CRLF x2	よし。\nサクッと狩って、\nキールをあっと言わせてやろうぜ		
+qev11_030.scr:1	qev11_030.scr	1	ファラ	Farah Oersted	personagem		リッドったら、張り切っちゃって		
+qev11_030.scr:2	qev11_030.scr	2	リッド	Reid Hershel	personagem	CRLF x1	当たり前だろ。\n狩りの腕で、オレがキールに負けるもんか		
+qev11_030.scr:3	qev11_030.scr	3	ファラ	Farah Oersted	personagem		勉強では負けっぱなしだけどね		
+qev11_030.scr:4	qev11_030.scr	4	リッド	Reid Hershel	personagem		う、うるせえ		
+qev11_040.scr:0	qev11_040.scr	0	リッド	Reid Hershel	personagem	CRLF x1	よし。\nこの調子でいこうぜ		
+qev11_040.scr:1	qev11_040.scr	1	キール	Keele Zeibel	personagem		ウィンドカッター！		
+qev11_040.scr:2	qev11_040.scr	2	メルディ	Meredy	personagem	CRLF x1	ワイール！　仕留めたよぅ。\nキールすごいな！		
+qev11_040.scr:3	qev11_040.scr	3	キール	Keele Zeibel	personagem	CRLF x1	フン。\nこれくらい造作もないさ		
+qev11_040.scr:4	qev11_040.scr	4	クィッキー	Quickie	personagem		クィッククィック、クィッキー！！		
+qev11_040.scr:5	qev11_040.scr	5	メルディ	Meredy	personagem	CRLF x1	これなら、リッド達にも負けないよー。\nクィッキーもそう言ってる		
+qev11_040.scr:6	qev11_040.scr	6	キール	Keele Zeibel	personagem	CRLF x1	当たり前だろう。\nぼくを誰だと思っているんだ		
+qev11_040.scr:7	qev11_040.scr	7	リッド	Reid Hershel	personagem		あいつ、調子いい事言ってんな		
+qev11_040.scr:8	qev11_040.scr	8	ファラ	Farah Oersted	personagem	CRLF x1	うん。\nでもあの様子だと、そろそろ……		
+qev11_040.scr:9	qev11_040.scr	9	メルディ	Meredy	personagem	CRLF x1	キール！　なぜ転ぶか？\nだいじょぶか		
+qev11_040.scr:10	qev11_040.scr	10	キール	Keele Zeibel	personagem	CRLF x1	う……うるさい！\nちょっと大きな石につまづいただけだ		
+qev11_040.scr:11	qev11_040.scr	11	メルディ	Meredy	personagem		休憩するか？		
+qev11_040.scr:12	qev11_040.scr	12	キール	Keele Zeibel	personagem		必要ない		
+qev11_040.scr:13	qev11_040.scr	13	メルディ	Meredy	personagem	CRLF x1	……でも、血出てるな。\n無理しないがいいよ		
+qev11_040.scr:14	qev11_040.scr	14	キール	Keele Zeibel	personagem	CRLF x1	いいって言ってるだろ！\nよ、寄るな、触るな！		
+qev11_040.scr:15	qev11_040.scr	15	メルディ	Meredy	personagem	CRLF x1	何だよー！！\n心配した、なぜ怒るか？		
+qev11_040.scr:16	qev11_040.scr	16	リッド	Reid Hershel	personagem		あいつ、ほんと体力ねえよなぁ		
+qev11_040.scr:17	qev11_040.scr	17	ファラ	Farah Oersted	personagem		でも、油断してたら負けちゃうよ		
+qev11_040.scr:18	qev11_040.scr	18	ファラ	Farah Oersted	personagem	CRLF x2	よぉし。\nわたし達も頑張ろ！\nイケるイケる！		
+qev11_041.scr:0	qev11_041.scr	0	ファラ	Farah Oersted	personagem		だんだんゴールが見えて来たね		
+qev11_041.scr:1	qev11_041.scr	1	ファラ	Farah Oersted	personagem	CRLF x1	この調子なら勝てそう。\nうん、イケるイケる！		
+qev11_041.scr:2	qev11_041.scr	2	リッド	Reid Hershel	personagem		イケるのは結構だけどよ……		
+qev11_041.scr:3	qev11_041.scr	3	ファラ	Farah Oersted	personagem		いたっ……！		
+qev11_041.scr:4	qev11_041.scr	4	リッド	Reid Hershel	personagem	CRLF x1	やっぱりな。\n今の戦闘で足、ひねったんだろ？		
+qev11_041.scr:5	qev11_041.scr	5	リッド	Reid Hershel	personagem		ったく、無理すんなよな		
+qev11_041.scr:6	qev11_041.scr	6	ファラ	Farah Oersted	personagem		これくらい！　何でもないよ		
+qev11_041.scr:7	qev11_041.scr	7	リッド	Reid Hershel	personagem	CRLF x1	ファラ。\nオレ達は今、三人で戦ってるんだぞ？		
+qev11_041.scr:8	qev11_041.scr	8	リッド	Reid Hershel	personagem	CRLF x1	お前一人が\n背負い込む事ねえんだ		
+qev11_041.scr:9	qev11_041.scr	9	(ator 200)	(ator 200)	desconhecido		…………		
+qev11_041.scr:10	qev11_041.scr	10	ファラ	Farah Oersted	personagem	CRLF x1	リッド……。\n○○まで……		
+qev11_041.scr:11	qev11_041.scr	11	ファラ	Farah Oersted	personagem	CRLF x2	そだね。\nみんなもいるんだもんね。\n無理はしないよ、大丈夫		
+qev11_041.scr:12	qev11_041.scr	12	リッド	Reid Hershel	personagem		しんどくなったら言えよ		
+qev11_041.scr:13	qev11_041.scr	13	ファラ	Farah Oersted	personagem	CRLF x1	うん。\nありがと		
+qev11_050.scr:0	qev11_050.scr	0	ファラ	Farah Oersted	personagem	CRLF x1	やった！\n今ので目標達成だよ！！		
+qev11_050.scr:1	qev11_050.scr	1	リッド	Reid Hershel	personagem		こんくらい、チョロイもんだぜ		
+qev11_050.scr:2	qev11_050.scr	2	ファラ	Farah Oersted	personagem	CRLF x1	キール達、どうしてるかな。\nもう帰ってたりして……		
+qev11_050.scr:3	qev11_050.scr	3	リッド	Reid Hershel	personagem	CRLF x1	ま、戻ってみりゃわかるだろ。\nさっさと獲物をまとめて帰ろうぜ		
+qev11_050.scr:4	qev11_050.scr	4	ファラ	Farah Oersted	personagem	CRLF x1	うん。\nそうだね		
+qev11_060.scr:0	qev11_060.scr	0	キール	Keele Zeibel	personagem		ふん、遅かったじゃないか		
+qev11_060.scr:1	qev11_060.scr	1	リッド	Reid Hershel	personagem		キール！？		
+qev11_060.scr:2	qev11_060.scr	2	ファラ	Farah Oersted	personagem		えっ、もう戻って来てたの？		
+qev11_060.scr:3	qev11_060.scr	3	ファラ	Farah Oersted	personagem		すっごーい！　早かったんだね		
+qev11_060.scr:4	qev11_060.scr	4	クィッキー	Quickie	personagem		クィ？		
+qev11_060.scr:5	qev11_060.scr	5	キール	Keele Zeibel	personagem		ま、まぁな……		
+qev11_060.scr:6	qev11_060.scr	6	メルディ	Meredy	personagem		それ違うよ		
+qev11_060.scr:7	qev11_060.scr	7	メルディ	Meredy	personagem	CRLF x1	キール転んで、パンツ破けた。\nだから替え取りに来たよ		
+qev11_060.scr:8	qev11_060.scr	8	キール	Keele Zeibel	personagem		メルディ！！		
+qev11_060.scr:9	qev11_060.scr	9	リッド	Reid Hershel	personagem	CRLF x1	ほ〜う……、パンツが破けたのか。\nそりゃ大変だったなぁ、キール？		
+qev11_060.scr:10	qev11_060.scr	10	キール	Keele Zeibel	personagem	CRLF x2	違う！\n破けたのは衣服で、\n下着なんかじゃ……		
+qev11_060.scr:11	qev11_060.scr	11	メルディ	Meredy	personagem		じゃ、どしてパンツ押さえたよ？		
+qev11_060.scr:12	qev11_060.scr	12	キール	Keele Zeibel	personagem		だ、だからお前は、パンツパンツ言うな！		
+qev11_060.scr:13	qev11_060.scr	13	ファラ	Farah Oersted	personagem	CRLF x1	キール、破れたパンツどこ？\n繕ってあげるから、出しておいてね		
+qev11_060.scr:14	qev11_060.scr	14	メルディ	Meredy	personagem	CRLF x1	あ、メルディもパンツ手伝う！\nボタン付け教えて欲しいよー		
+qev11_060.scr:15	qev11_060.scr	15	リッド	Reid Hershel	personagem	CRLF x1	良かったな、キール。\n思い出のパンツが出来そうで		
+qev11_060.scr:16	qev11_060.scr	16	クィッキー	Quickie	personagem		クィック、クィキキキ		
+qev11_060.scr:17	qev11_060.scr	17	キール	Keele Zeibel	personagem	CRLF x1	ううぅ……。\nだから、違うのに……		
+qev11_060.scr:18	qev11_060.scr	18	ファラ	Farah Oersted	personagem	CRLF x1	何か、勝負の結果は\nあやふやになっちゃったね……		
+qev11_060.scr:19	qev11_060.scr	19	ファラ	Farah Oersted	personagem	CRLF x2	でも、○○が\n手伝ってくれて嬉しかったよ。\nすごく助かっちゃった		
+qev11_060.scr:20	qev11_060.scr	20	ファラ	Farah Oersted	personagem		ありがと！		

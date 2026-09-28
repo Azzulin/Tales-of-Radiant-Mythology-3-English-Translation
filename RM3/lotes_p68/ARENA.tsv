@@ -1,0 +1,249 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	va_ponteiros	ocorrencias	bytes_jp	max_bytes
+arena#0	arena	0	(sistema)	(system)	sistema		無し			0x08D184C8	1	4	9
+arena#1	arena	1	(sistema)	(system)	sistema		エキシビションバトル（１人）			0x08D1852C	1	28	58
+arena#2	arena	2	(sistema)	(system)	sistema		キミをご指名に挑戦者が来てるよ！　相手してみるかい？			0x08D18530	1	52	108
+arena#3	arena	3	(sistema)	(system)	sistema		エキシビションバトル（２人）			0x08D18590	1	28	58
+arena#4	arena	4	(sistema)	(system)	sistema		キミをご指名に二人の挑戦者が来てるよ！　相手してみるかい？			0x08D18594	1	58	120
+arena#5	arena	5	(sistema)	(system)	sistema		エキシビションバトル（３人）			0x08D185F4	1	28	58
+arena#6	arena	6	(sistema)	(system)	sistema		キミをご指名に三人の挑戦者が来てるよ！　相手してみるかい？			0x08D185F8	1	58	120
+arena#7	arena	7	(sistema)	(system)	sistema		エキシビションバトル（４人）			0x08D18658	1	28	58
+arena#8	arena	8	(sistema)	(system)	sistema		キミをご指名に四人の挑戦者が来てるよ！　相手してみるかい？			0x08D1865C	1	58	120
+arena#9	arena	9	(sistema)	(system)	sistema		歴戦の英雄たち			0x08D186BC	1	14	29
+arena#10	arena	10	(sistema)	(system)	sistema		真実と偽りの仮面			0x08D18720	1	16	34
+arena#11	arena	11	(sistema)	(system)	sistema		己の正義と騎士道と			0x08D18784	1	18	38
+arena#12	arena	12	(sistema)	(system)	sistema		生まれし意味			0x08D187E8	1	12	25
+arena#13	arena	13	(sistema)	(system)	sistema		世界樹の防人			0x08D1884C	1	12	25
+arena#14	arena	14	(sistema)	(system)	sistema		桜花絢爛！			0x08D188B0	1	10	21
+arena#15	arena	15	(sistema)	(system)	sistema		アイテムなぞ…僕も持ってるよ！			0x08D18914	1	30	62
+arena#16	arena	16	(sistema)	(system)	sistema		２０１０！ヒーローズベスト３			0x08D18978	1	28	58
+arena#17	arena	17	(sistema)	(system)	sistema		２０１０！ヒロインズベスト３			0x08D189DC	1	28	58
+arena#18	arena	18	(sistema)	(system)	sistema		異世界のディセンダー			0x08D18A40	1	20	42
+arena#19	arena	19	(sistema)	(system)	sistema		穢れの王			0x08D18AA4	1	8	17
+arena#20	arena	20	(sistema)	(system)	sistema		対決！時空剣士			0x08D18B08	1	14	29
+arena#21	arena	21	(sistema)	(system)	sistema		爆炎の剣			0x08D18B6C	1	8	17
+arena#22	arena	22	(sistema)	(system)	sistema		極光秘めし者			0x08D18BD0	1	12	25
+arena#23	arena	23	(sistema)	(system)	sistema		英雄志願！			0x08D18C34	1	10	21
+arena#24	arena	24	(sistema)	(system)	sistema		双剣＝２倍強し！			0x08D18C98	1	16	34
+arena#25	arena	25	(sistema)	(system)	sistema		冷たき炎			0x08D18CFC	1	8	17
+arena#26	arena	26	(sistema)	(system)	sistema		輝ける滄我			0x08D18D60	1	10	21
+arena#27	arena	27	(sistema)	(system)	sistema		秘められし力			0x08D18DC4	1	12	25
+arena#28	arena	28	(sistema)	(system)	sistema		野生の魂！			0x08D18E28	1	10	21
+arena#29	arena	29	(sistema)	(system)	sistema		優しき炎の戦士			0x08D18E8C	1	14	29
+arena#30	arena	30	(sistema)	(system)	sistema		もう一人の僕			0x08D18EF0	1	12	25
+arena#31	arena	31	(sistema)	(system)	sistema		貫ぬかれし正義			0x08D18F54	1	14	29
+arena#32	arena	32	(sistema)	(system)	sistema		心優しき剣士			0x08D18FB8	1	12	25
+arena#33	arena	33	(sistema)	(system)	sistema		騎士の本願			0x08D1901C	1	10	21
+arena#34	arena	34	(sistema)	(system)	sistema		未来を描く少女			0x08D19080	1	14	29
+arena#35	arena	35	(sistema)	(system)	sistema		華麗なる挑戦者			0x08D190E4	1	14	29
+arena#36	arena	36	(sistema)	(system)	sistema		王者降臨！			0x08D19148	1	10	21
+arena#37	arena	37	(sistema)	(system)	sistema		〜戦狂〜死闘するもの			0x08D191AC	1	20	42
+arena#38	arena	38	(sistema)	(system)	sistema		ホワイトデビル			0x08D19210	1	14	29
+arena#39	arena	39	(sistema)	(system)	sistema		もう一人のディセンダー 			0x08D19274	1	23	48
+arena#40	arena	40	(sistema)	(system)	sistema		たたかえ！パン職人			0x08D192D8	1	18	38
+arena#41	arena	41	(sistema)	(system)	sistema		伝説の末裔			0x08D1933C	1	10	21
+arena#42	arena	42	(sistema)	(system)	sistema		まさに王道、まさに正統派のヒーロー＆ヒロインが参戦だ！			0x08D19340	1	54	112
+arena#43	arena	43	(sistema)	(system)	sistema		運命の戦士			0x08D193A0	1	10	21
+arena#44	arena	44	(sistema)	(system)	sistema		不思議な剣を携えた、運命の二人が参戦だ！			0x08D193A4	1	40	83
+arena#45	arena	45	(sistema)	(system)	sistema		永遠の望郷			0x08D19404	1	10	21
+arena#46	arena	46	(sistema)	(system)	sistema		戦闘のリズムもぴったり！　幼馴染の二人が参戦だ！			0x08D19408	1	48	100
+arena#47	arena	47	(sistema)	(system)	sistema		女神に選ばれし英雄			0x08D19468	1	18	38
+arena#48	arena	48	(sistema)	(system)	sistema		異世界からの英雄志願がペアで参戦だ！			0x08D1946C	1	36	75
+arena#49	arena	49	(sistema)	(system)	sistema		世界再生の旅人			0x08D194CC	1	14	29
+arena#50	arena	50	(sistema)	(system)	sistema		二刀流の剣士と天使の不思議なペアが参戦だ！！			0x08D194D0	1	44	91
+arena#51	arena	51	(sistema)	(system)	sistema		霧氷			0x08D19530	1	4	9
+arena#52	arena	52	(sistema)	(system)	sistema		氷と雨を操る二人が闘技場にやって来たよ！			0x08D19534	1	40	83
+arena#53	arena	53	(sistema)	(system)	sistema		猛りの滄我			0x08D19594	1	10	21
+arena#54	arena	54	(sistema)	(system)	sistema		今日は兄妹で腕試し！　風変わりなペアが参戦だ！			0x08D19598	1	46	95
+arena#55	arena	55	(sistema)	(system)	sistema		共鳴する二人			0x08D195F8	1	12	25
+arena#56	arena	56	(sistema)	(system)	sistema		わがままお坊ちゃまとストイックなビューティがペアで参戦だよ！			0x08D195FC	1	60	124
+arena#57	arena	57	(sistema)	(system)	sistema		美女と野獣？			0x08D1965C	1	12	25
+arena#58	arena	58	(sistema)	(system)	sistema		いつもはケンカが絶えない二人だけど、今日は協力して参戦さ！			0x08D19660	1	58	120
+arena#59	arena	59	(sistema)	(system)	sistema		受け継がれし前世			0x08D196C0	1	16	34
+arena#60	arena	60	(sistema)	(system)	sistema		ラタトスクの騎士			0x08D19724	1	16	34
+arena#61	arena	61	(sistema)	(system)	sistema		今日のデートは闘技場？　カップル（？）で参戦だってさ！			0x08D19728	1	54	112
+arena#62	arena	62	(sistema)	(system)	sistema		正義を信じて			0x08D19788	1	12	25
+arena#63	arena	63	(sistema)	(system)	sistema		ふれあう心			0x08D197EC	1	10	21
+arena#64	arena	64	(sistema)	(system)	sistema		ピュアなハートの二人が腕試しに参戦だ！			0x08D197F0	1	38	79
+arena#65	arena	65	(sistema)	(system)	sistema		守りたいもの			0x08D19850	1	12	25
+arena#66	arena	66	(sistema)	(system)	sistema		友としてライバルとして			0x08D198B4	1	22	46
+arena#67	arena	67	(sistema)	(system)	sistema		親友であり、ライバルでもあるベストマッチな二人が参戦だ！			0x08D198B8	1	56	116
+arena#68	arena	68	(sistema)	(system)	sistema		貫け！百年の恋			0x08D19918	1	14	29
+arena#69	arena	69	(sistema)	(system)	sistema		犬猿の仲のこの二人！　ホントは気になる関係の二人が参戦だい！			0x08D1991C	1	60	124
+arena#70	arena	70	(sistema)	(system)	sistema		チームファンタジア			0x08D1997C	1	18	38
+arena#71	arena	71	(sistema)	(system)	sistema		チームワークはバッチリさ！　いつも一緒のこの四人が参戦だ！			0x08D19980	1	58	120
+arena#72	arena	72	(sistema)	(system)	sistema		相容れぬ２人			0x08D199E0	1	12	25
+arena#73	arena	73	(sistema)	(system)	sistema		性格も闘い方も真逆の二人がコンビを組んで参戦だい！			0x08D199E4	1	50	104
+arena#74	arena	74	(sistema)	(system)	sistema		切ない片思い			0x08D19A44	1	12	25
+arena#75	arena	75	(sistema)	(system)	sistema		せめて闘う時だけは！　切ない関係の二人が参戦だよ！			0x08D19A48	1	50	104
+arena#76	arena	76	(sistema)	(system)	sistema		切ない片思い２			0x08D19AA8	1	14	29
+arena#77	arena	77	(sistema)	(system)	sistema		一日千秋			0x08D19B0C	1	8	17
+arena#78	arena	78	(sistema)	(system)	sistema		同じ弓の師のもとで修行したこの二人が参戦だ！			0x08D19B10	1	44	91
+arena#79	arena	79	(sistema)	(system)	sistema		チームデスティニー			0x08D19B70	1	18	38
+arena#80	arena	80	(sistema)	(system)	sistema		運命に導かれ、出会ったこの四人が参戦だ！			0x08D19B74	1	40	83
+arena#81	arena	81	(sistema)	(system)	sistema		光と闇の極光			0x08D19BD4	1	12	25
+arena#82	arena	82	(sistema)	(system)	sistema		光と闇、二つの力が揃って闘技場に参戦だ！			0x08D19BD8	1	40	83
+arena#83	arena	83	(sistema)	(system)	sistema		望郷の友			0x08D19C38	1	8	17
+arena#84	arena	84	(sistema)	(system)	sistema		幼い頃からいつも一緒のこの三人が参戦だ！			0x08D19C3C	1	40	83
+arena#85	arena	85	(sistema)	(system)	sistema		船長と子分達			0x08D19C9C	1	12	25
+arena#86	arena	86	(sistema)	(system)	sistema		あのバンエルティア号の船長が子分を引き連れて参戦だ！			0x08D19CA0	1	52	108
+arena#87	arena	87	(sistema)	(system)	sistema		チームエターニア			0x08D19D00	1	16	34
+arena#88	arena	88	(sistema)	(system)	sistema		いつもにぎやかのんびり四人が今日は本気で参戦だい！			0x08D19D04	1	50	104
+arena#89	arena	89	(sistema)	(system)	sistema		義兄弟			0x08D19D64	1	6	13
+arena#90	arena	90	(sistema)	(system)	sistema		人情厚い、技も熱い義兄弟の二人が参戦だ！			0x08D19D68	1	40	83
+arena#91	arena	91	(sistema)	(system)	sistema		愛のコブラツイスト			0x08D19DC8	1	18	38
+arena#92	arena	92	(sistema)	(system)	sistema		チームデスティニー２			0x08D19E2C	1	20	42
+arena#93	arena	93	(sistema)	(system)	sistema		異世界からやって来たこの四人が参戦だよ！			0x08D19E30	1	40	83
+arena#94	arena	94	(sistema)	(system)	sistema		対決！親子鷹			0x08D19E90	1	12	25
+arena#95	arena	95	(sistema)	(system)	sistema		まるで親子の様なこの二人が参戦だ！			0x08D19E94	1	34	71
+arena#96	arena	96	(sistema)	(system)	sistema		世界樹の神子			0x08D19EF4	1	12	25
+arena#97	arena	97	(sistema)	(system)	sistema		マナの加護を強く受けた謎の二人が参戦だ！			0x08D19EF8	1	40	83
+arena#98	arena	98	(sistema)	(system)	sistema		もう一つの世界			0x08D19F58	1	14	29
+arena#99	arena	99	(sistema)	(system)	sistema		戦い方も性格もまるで違う個性的な三人が参戦だ！			0x08D19F5C	1	46	95
+arena#100	arena	100	(sistema)	(system)	sistema		もっと地獄な課外授業			0x08D19FBC	1	20	42
+arena#101	arena	101	(sistema)	(system)	sistema		こんなのアリ？　教師と生徒で闘技場に参戦だって！			0x08D19FC0	1	48	100
+arena#102	arena	102	(sistema)	(system)	sistema		チームシンフォニア			0x08D1A020	1	18	38
+arena#103	arena	103	(sistema)	(system)	sistema		響きあうチームワークを見せる四人が参戦だ！			0x08D1A024	1	42	87
+arena#104	arena	104	(sistema)	(system)	sistema		熱血！友情コンビ			0x08D1A084	1	16	34
+arena#105	arena	105	(sistema)	(system)	sistema		拳で語り合う友情パワーでこの二人が参戦だ！			0x08D1A088	1	42	87
+arena#106	arena	106	(sistema)	(system)	sistema		悲しき運命			0x08D1A0E8	1	10	21
+arena#107	arena	107	(sistema)	(system)	sistema		雨と鋼の力で挑む二人が参戦だ！			0x08D1A0EC	1	30	62
+arena#108	arena	108	(sistema)	(system)	sistema		チームリバース			0x08D1A14C	1	14	29
+arena#109	arena	109	(sistema)	(system)	sistema		遠くヘーゼル村から不思議な力を秘めた四人が参戦だ！			0x08D1A150	1	50	104
+arena#110	arena	110	(sistema)	(system)	sistema		物語の始まり			0x08D1A1B0	1	12	25
+arena#111	arena	111	(sistema)	(system)	sistema		元は保安官っぽい（？）キャリアを持つ二人が参戦だって！			0x08D1A1B4	1	54	112
+arena#112	arena	112	(sistema)	(system)	sistema		光の龍と不可視の焔			0x08D1A214	1	18	38
+arena#113	arena	113	(sistema)	(system)	sistema		格闘家と忍者のダブルパンチで参戦だ！			0x08D1A218	1	36	75
+arena#114	arena	114	(sistema)	(system)	sistema		セネセネと私			0x08D1A278	1	12	25
+arena#115	arena	115	(sistema)	(system)	sistema		ある意味、静と動の妙なコンビが参戦だよ！			0x08D1A27C	1	40	83
+arena#116	arena	116	(sistema)	(system)	sistema		石の姫＆水の姫			0x08D1A2DC	1	14	29
+arena#117	arena	117	(sistema)	(system)	sistema		かたや泳ぎが得意でかたやカナヅチの二人が参戦だよ！			0x08D1A2E0	1	50	104
+arena#118	arena	118	(sistema)	(system)	sistema		ヒーロー＆ダブル・ヒロイン			0x08D1A340	1	26	54
+arena#119	arena	119	(sistema)	(system)	sistema		格闘家セネル・クーリッジが両手に花で参戦だよ！			0x08D1A344	1	46	95
+arena#120	arena	120	(sistema)	(system)	sistema		チームレジェンディア			0x08D1A3A4	1	20	42
+arena#121	arena	121	(sistema)	(system)	sistema		彼らの絆は伝説級！　今日は四人で参戦だい！			0x08D1A3A8	1	42	87
+arena#122	arena	122	(sistema)	(system)	sistema		鮮血と儚き想い			0x08D1A408	1	14	29
+arena#123	arena	123	(sistema)	(system)	sistema		理想を目指して歩み行く、高貴な二人が参戦だ！			0x08D1A40C	1	44	91
+arena#124	arena	124	(sistema)	(system)	sistema		王族のルークが、今日は用心棒を連れて参戦だよ！			0x08D1A470	1	46	95
+arena#125	arena	125	(sistema)	(system)	sistema		師と弟子と			0x08D1A4D0	1	10	21
+arena#126	arena	126	(sistema)	(system)	sistema		アルバート流の使い手が師弟で参戦だよ！			0x08D1A4D4	1	38	79
+arena#127	arena	127	(sistema)	(system)	sistema		相容れぬ血縁			0x08D1A534	1	12	25
+arena#128	arena	128	(sistema)	(system)	sistema		兄と妹で立ちはだかるぞ！　ミステリアスな兄妹が参戦だ！			0x08D1A538	1	54	112
+arena#129	arena	129	(sistema)	(system)	sistema		チームアビス			0x08D1A598	1	12	25
+arena#130	arena	130	(sistema)	(system)	sistema		ライマ国の王族が、用心棒を連れて参戦だってさ！			0x08D1A59C	1	46	95
+arena#131	arena	131	(sistema)	(system)	sistema		魔王とその剣			0x08D1A5FC	1	12	25
+arena#132	arena	132	(sistema)	(system)	sistema		優等生と不良の異色コンビが参戦だよ！			0x08D1A600	1	36	75
+arena#133	arena	133	(sistema)	(system)	sistema		傭兵とそのクライアント			0x08D1A660	1	22	46
+arena#134	arena	134	(sistema)	(system)	sistema		聖職者と傭兵の異色コンビが参戦だよ！			0x08D1A664	1	36	75
+arena#135	arena	135	(sistema)	(system)	sistema		チームイノセンス			0x08D1A6C4	1	16	34
+arena#136	arena	136	(sistema)	(system)	sistema		アドリビトムのリーダーがメンバーを連れて参戦だ！			0x08D1A6C8	1	48	100
+arena#137	arena	137	(sistema)	(system)	sistema		その剣、秘めたる想い			0x08D1A728	1	20	42
+arena#138	arena	138	(sistema)	(system)	sistema		不思議な業を背負った二人が参戦だよ！			0x08D1A72C	1	36	75
+arena#139	arena	139	(sistema)	(system)	sistema		チームラタトスク			0x08D1A78C	1	16	34
+arena#140	arena	140	(sistema)	(system)	sistema		不協和音な感じだけど、なぜか響き合うこの三人が参戦だよ！			0x08D1A790	1	56	116
+arena#141	arena	141	(sistema)	(system)	sistema		剣と魔導と			0x08D1A7F0	1	10	21
+arena#142	arena	142	(sistema)	(system)	sistema		口は悪いが、チームワークは肌が合うこの二人が参戦だ！			0x08D1A7F4	1	52	108
+arena#143	arena	143	(sistema)	(system)	sistema		正義で貫け！			0x08D1A854	1	12	25
+arena#144	arena	144	(sistema)	(system)	sistema		余裕のオトナな雰囲気でこの二人が参戦だよ！			0x08D1A858	1	42	87
+arena#145	arena	145	(sistema)	(system)	sistema		プリンセス・ガード			0x08D1A8B8	1	18	38
+arena#146	arena	146	(sistema)	(system)	sistema		ガルバンゾ国のお姫様とその護衛が参戦だ！			0x08D1A8BC	1	40	83
+arena#147	arena	147	(sistema)	(system)	sistema		愛してるぜ！			0x08D1A91C	1	12	25
+arena#148	arena	148	(sistema)	(system)	sistema		何だか雰囲気に押された妙な四人が参戦だ！			0x08D1A920	1	40	83
+arena#149	arena	149	(sistema)	(system)	sistema		チームヴェスペリア			0x08D1A980	1	18	38
+arena#150	arena	150	(sistema)	(system)	sistema		信じた正義を熱く鋭く貫く四人が参戦だーい！　			0x08D1A984	1	44	91
+arena#151	arena	151	(sistema)	(system)	sistema		（過）保護者			0x08D1A9E4	1	12	25
+arena#152	arena	152	(sistema)	(system)	sistema		妹大事さに無理やり乱入、美しきかな…な、兄妹二人が参戦だ！			0x08D1A9E8	1	58	120
+arena#153	arena	153	(sistema)	(system)	sistema		チームハーツ			0x08D1AA48	1	12	25
+arena#154	arena	154	(sistema)	(system)	sistema		繋がる心を持ちし三人が参戦だ！			0x08D1AA4C	1	30	62
+arena#155	arena	155	(sistema)	(system)	sistema		幼馴染み			0x08D1AAAC	1	8	17
+arena#156	arena	156	(sistema)	(system)	sistema		チームグレイセス			0x08D1AB10	1	16	34
+arena#157	arena	157	(sistema)	(system)	sistema		守る強さの答えを見つける為に、この三人が参戦だい！			0x08D1AB14	1	50	104
+arena#158	arena	158	(sistema)	(system)	sistema		妹よ！			0x08D1AB74	1	6	13
+arena#159	arena	159	(sistema)	(system)	sistema		妹自慢を語らせたらもう止まらない！　そんな二人が参戦だよ！			0x08D1AB78	1	58	120
+arena#160	arena	160	(sistema)	(system)	sistema		傭兵達			0x08D1ABD8	1	6	13
+arena#161	arena	161	(sistema)	(system)	sistema		名うての傭兵がタッグを組んで闘技場に参戦だ！			0x08D1ABDC	1	44	91
+arena#162	arena	162	(sistema)	(system)	sistema		まるで親子？			0x08D1AC3C	1	12	25
+arena#163	arena	163	(sistema)	(system)	sistema		パン＆ＰＡＮＧ！			0x08D1ACA0	1	16	34
+arena#164	arena	164	(sistema)	(system)	sistema		ＲＩＮＧ！ＲＩＮＧ！			0x08D1AD04	1	20	42
+arena#165	arena	165	(sistema)	(system)	sistema		汝、怒らせるべからず			0x08D1AD68	1	20	42
+arena#166	arena	166	(sistema)	(system)	sistema		頼りなさそうだけれど、武器を持ったら大変身の二人が参戦だ！			0x08D1AD6C	1	58	120
+arena#167	arena	167	(sistema)	(system)	sistema		真剣勝負			0x08D1ADCC	1	8	17
+arena#168	arena	168	(sistema)	(system)	sistema		お互い道は違うとも、弱きを助ける思いは同じの二人が参戦だ！			0x08D1ADD0	1	58	120
+arena#169	arena	169	(sistema)	(system)	sistema		桜舞い散る拳			0x08D1AE30	1	12	25
+arena#170	arena	170	(sistema)	(system)	sistema		華奢な体でゴーゴーパンチ！　武闘派ガールズの参戦だ！			0x08D1AE34	1	52	108
+arena#171	arena	171	(sistema)	(system)	sistema		はぐれ騎士〜激闘編〜			0x08D1AE94	1	20	42
+arena#172	arena	172	(sistema)	(system)	sistema		たとえ騎士の道を行かずとも！　騎士の心を秘めた二人が参戦だよ！			0x08D1AE98	1	62	129
+arena#173	arena	173	(sistema)	(system)	sistema		忍ぶもの			0x08D1AEF8	1	8	17
+arena#174	arena	174	(sistema)	(system)	sistema		闘技場初だよ！！　忍び三人衆が参戦だ！！			0x08D1AEFC	1	40	83
+arena#175	arena	175	(sistema)	(system)	sistema		ネオジェネレーションズ			0x08D1AF5C	1	22	46
+arena#176	arena	176	(sistema)	(system)	sistema		略してネオジェネ！　アドリビトムから三人組チームが参戦だ！			0x08D1AF60	1	58	120
+arena#177	arena	177	(sistema)	(system)	sistema		ポケットジェネレーション			0x08D1AFC0	1	24	50
+arena#178	arena	178	(sistema)	(system)	sistema		略してポケジェネ！　アドリビトムから三人組チームが参戦だ！			0x08D1AFC4	1	58	120
+arena#179	arena	179	(sistema)	(system)	sistema		ロイヤルチーム			0x08D1B024	1	14	29
+arena#180	arena	180	(sistema)	(system)	sistema		眩しいロイヤルセレブリティ三人が参戦だ！			0x08D1B028	1	40	83
+arena#181	arena	181	(sistema)	(system)	sistema		謎多き３人			0x08D1B088	1	10	21
+arena#182	arena	182	(sistema)	(system)	sistema		謎多きミステリアス三人衆が参戦だよ！			0x08D1B08C	1	36	75
+arena#183	arena	183	(sistema)	(system)	sistema		熱血兄バカ３人衆！			0x08D1B0EC	1	18	38
+arena#184	arena	184	(sistema)	(system)	sistema		貫かれし槍			0x08D1B150	1	10	21
+arena#185	arena	185	(sistema)	(system)	sistema		時には豪快に、時には鋭く、槍使い三人衆が参戦だよ！			0x08D1B154	1	50	104
+arena#186	arena	186	(sistema)	(system)	sistema		最強の妹達			0x08D1B1B4	1	10	21
+arena#187	arena	187	(sistema)	(system)	sistema		お兄ちゃんには負けないよ！　最強シスターズが参戦だ！			0x08D1B1B8	1	52	108
+arena#188	arena	188	(sistema)	(system)	sistema		人ならざりしもの			0x08D1B218	1	16	34
+arena#189	arena	189	(sistema)	(system)	sistema		どこか不思議？　エキゾチックな雰囲気の三人が参戦だよ！			0x08D1B21C	1	54	112
+arena#190	arena	190	(sistema)	(system)	sistema		狂った科学			0x08D1B27C	1	10	21
+arena#191	arena	191	(sistema)	(system)	sistema		ＭＯＮＥＹ！			0x08D1B2E0	1	12	25
+arena#192	arena	192	(sistema)	(system)	sistema		お金大好き三人衆がマネー求めて参戦だ！			0x08D1B2E4	1	38	79
+arena#193	arena	193	(sistema)	(system)	sistema		聖者の行進			0x08D1B344	1	10	21
+arena#194	arena	194	(sistema)	(system)	sistema		神は彼女達に味方するか！？　聖職者三人組による伝道のバトル！			0x08D1B348	1	60	124
+arena#195	arena	195	(sistema)	(system)	sistema		静寂なる戦士達			0x08D1B3A8	1	14	29
+arena#196	arena	196	(sistema)	(system)	sistema		真の強さは沈黙の中に！　ただ目の前の戦いに身を投じる三人が参戦だ！			0x08D1B3AC	1	66	137
+arena#197	arena	197	(sistema)	(system)	sistema		騎士道精神			0x08D1B40C	1	10	21
+arena#198	arena	198	(sistema)	(system)	sistema		悪を砕き、弱きを助ける！　騎士道精神を胸に三人が参戦だ！			0x08D1B410	1	56	116
+arena#199	arena	199	(sistema)	(system)	sistema		可憐なる拳			0x08D1B470	1	10	21
+arena#200	arena	200	(sistema)	(system)	sistema		難攻不落			0x08D1B4D4	1	8	17
+arena#201	arena	201	(sistema)	(system)	sistema		脅威のヒーロー四人組！　この難攻不落チームに挑むのは誰だ！			0x08D1B4D8	1	58	120
+arena#202	arena	202	(sistema)	(system)	sistema		セカンドジェネレーション			0x08D1B538	1	24	50
+arena#203	arena	203	(sistema)	(system)	sistema		略してセカジェネ！　アドリビトムから四人組チームが参戦だ！			0x08D1B53C	1	58	120
+arena#204	arena	204	(sistema)	(system)	sistema		歴代スケベ大王決定戦			0x08D1B59C	1	20	42
+arena#205	arena	205	(sistema)	(system)	sistema		歴代スケベ大王が勢ぞろい！　勝てばキミもスケベ大王の仲間入り？			0x08D1B5A0	1	62	129
+arena#206	arena	206	(sistema)	(system)	sistema		伝説の戦士			0x08D1B600	1	10	21
+arena#207	arena	207	(sistema)	(system)	sistema		伝説の剣士			0x08D1B664	1	10	21
+arena#208	arena	208	(sistema)	(system)	sistema		伝説の格闘家			0x08D1B6C8	1	12	25
+arena#209	arena	209	(sistema)	(system)	sistema		伝説の狩人			0x08D1B72C	1	10	21
+arena#210	arena	210	(sistema)	(system)	sistema		伝説の盗賊			0x08D1B790	1	10	21
+arena#211	arena	211	(sistema)	(system)	sistema		伝説の魔術師			0x08D1B7F4	1	12	25
+arena#212	arena	212	(sistema)	(system)	sistema		伝説の僧侶			0x08D1B858	1	10	21
+arena#213	arena	213	(sistema)	(system)	sistema		伝説の双剣士			0x08D1B8BC	1	12	25
+arena#214	arena	214	(sistema)	(system)	sistema		伝説の大剣士			0x08D1B920	1	12	25
+arena#215	arena	215	(sistema)	(system)	sistema		伝説のモンク			0x08D1B984	1	12	25
+arena#216	arena	216	(sistema)	(system)	sistema		伝説の海賊			0x08D1B9E8	1	10	21
+arena#217	arena	217	(sistema)	(system)	sistema		伝説のビショップ			0x08D1BA4C	1	16	34
+arena#218	arena	218	(sistema)	(system)	sistema		伝説の魔法剣士			0x08D1BAB0	1	14	29
+arena#219	arena	219	(sistema)	(system)	sistema		伝説の忍者			0x08D1BB14	1	10	21
+arena#220	arena	220	(sistema)	(system)	sistema		伝説の聖騎士			0x08D1BB78	1	12	25
+arena#221	arena	221	(sistema)	(system)	sistema		伝説のガンマン			0x08D1BBDC	1	14	29
+arena#222	arena	222	(sistema)	(system)	sistema		ＶＳオタオタ			0x08D1BC40	1	12	25
+arena#223	arena	223	(sistema)	(system)	sistema		ＶＳアックスビーク			0x08D1BCA4	1	18	38
+arena#224	arena	224	(sistema)	(system)	sistema		ＶＳキラービー			0x08D1BD08	1	14	29
+arena#225	arena	225	(sistema)	(system)	sistema		光の使者			0x08D1BD6C	1	8	17
+arena#226	arena	226	(sistema)	(system)	sistema		古き刻よりの守人			0x08D1BDD0	1	16	34
+arena#227	arena	227	(sistema)	(system)	sistema		轟く海嘯			0x08D1BE34	1	8	17
+arena#228	arena	228	(sistema)	(system)	sistema		光獣咆哮			0x08D1BE98	1	8	17
+arena#229	arena	229	(sistema)	(system)	sistema		闇からの羽ばたき			0x08D1BEFC	1	16	34
+arena#230	arena	230	(sistema)	(system)	sistema		オタオタの逆襲			0x08D1BF60	1	14	29
+arena#231	arena	231	(sistema)	(system)	sistema		トリオ　ザ　パン			0x08D1BFC4	1	16	34
+arena#232	arena	232	(sistema)	(system)	sistema		魚フェスティバル			0x08D1C028	1	16	34
+arena#233	arena	233	(sistema)	(system)	sistema		カニカーニバル			0x08D1C08C	1	14	29
+arena#234	arena	234	(sistema)	(system)	sistema		巨大化した植物			0x08D1C0F0	1	14	29
+arena#235	arena	235	(sistema)	(system)	sistema		オタオタの系譜			0x08D1C154	1	14	29
+arena#236	arena	236	(sistema)	(system)	sistema		ゲコゲコの系譜			0x08D1C1B8	1	14	29
+arena#237	arena	237	(sistema)	(system)	sistema		世界中のゲコゲコを集めたこの試合、誰が挑戦してくれるかな？			0x08D1C1BC	1	58	120
+arena#238	arena	238	(sistema)	(system)	sistema		チュンチュンの系譜			0x08D1C21C	1	18	38
+arena#239	arena	239	(sistema)	(system)	sistema		バットの系譜１			0x08D1C280	1	14	29
+arena#240	arena	240	(sistema)	(system)	sistema		バットの系譜２			0x08D1C2E4	1	14	29
+arena#241	arena	241	(sistema)	(system)	sistema		リザードの系譜１			0x08D1C348	1	16	34
+arena#242	arena	242	(sistema)	(system)	sistema		リザードの系譜２			0x08D1C3AC	1	16	34
+arena#243	arena	243	(sistema)	(system)	sistema		悪魔の植物			0x08D1C410	1	10	21
+arena#244	arena	244	(sistema)	(system)	sistema		人形軍団			0x08D1C474	1	8	17
+arena#245	arena	245	(sistema)	(system)	sistema		とらわれの精霊			0x08D1C4D8	1	14	29
+arena#246	arena	246	(sistema)	(system)	sistema		使役される精霊			0x08D1C53C	1	14	29
+arena#247	arena	247	(sistema)	(system)	sistema		最大			0x08D1C5A0	1	4	9

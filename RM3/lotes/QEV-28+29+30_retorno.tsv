@@ -1,0 +1,196 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev28_010.scr:0	qev28_010.scr	0	アンジュ	Ange Serena	personagem		じゃあ、セネル君も行けないのね	So you can't go either, Senel?	
+qev28_010.scr:1	qev28_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	個人的には、ぴったりの仕事だと\n思ったんだけど……	I personally thought this job\nwould be perfect for you, but...	
+qev28_010.scr:2	qev28_010.scr	2	セネル	Senel Coolidge	personagem	CRLF x2	悪いな。\n今回だけは、どうしても外せない\n用事があるんだ	Sorry.\nI have something I absolutely\ncan't get out of right now.	
+qev28_010.scr:3	qev28_010.scr	3	アンジュ	Ange Serena	personagem		それじゃあ、しょうがないね	Well, it can't be helped then.	
+qev28_010.scr:4	qev28_010.scr	4	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev28_010.scr:5	qev28_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	……と、言ってるところに\n○○。\nちょうど良かった	...Oh, speak of the devil,\nhere's ○○!\nPerfect timing.	
+qev28_010.scr:6	qev28_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	あなた向きの仕事の話が\n来ているんだけど。\n受けてみる気はない？	We've got a job that's right up\nyour alley.\nWould you like to take it?	
+qev28_010.scr:7	qev28_010.scr	7	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev28_010.scr:8	qev28_010.scr	8	セネル	Senel Coolidge	personagem	CRLF x1	本当なら、俺が行きたいところなんだが。\nこっちはこっちで、急ぎの用が出来てな	I'd really like to go myself, but\nI've got an urgent matter to deal with.	
+qev28_010.scr:9	qev28_010.scr	9	セネル	Senel Coolidge	personagem		人を探さなきゃいけないんだ	I need to find someone.	
+qev28_010.scr:10	qev28_010.scr	10	セネル	Senel Coolidge	personagem	CRLF x2	もし手が空いてるなら、\nアンジュの依頼を\n手伝ってもらえると助かる	If you're free,\nI'd appreciate it if you could\nhelp Ange with her request.	
+qev28_010.scr:11	qev28_010.scr	11	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「不埒な悪漢を倒せ！」が\nエントリーされました。\nクエストカウンタから受ける事が出来ます	"The quest ""Defeat the Outrageous Thug!""\nhas been added.\nYou can accept it at the Quest Counter."	
+qev28_020.scr:0	qev28_020.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	行ってくれるのね。\nありがとう	You'll go?\nThank you.	
+qev28_020.scr:1	qev28_020.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	多分、相手は単なるゴロツキの類だから\n追い払うのに苦労はしないと思うけど	It's probably just a common thug,\nso it should be easy to chase them away.	
+qev28_020.scr:2	qev28_020.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	もし危なくなったら、\n無理をしないで戻って来てね	If things get dangerous,\nplease don't push yourself and come back.	
+qev28_020.scr:3	qev28_020.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	それじゃ、気を付けて\n行ってらっしゃい	Well then, be careful\nand good luck.	
+qev28_040.scr:0	qev28_040.scr	0	悪漢Ａ	Thug A	personagem	CRLF x1	チッ！\nおい、向こうへ逃げたぞ！！	Tch!\nHey, they ran that way!!	
+qev28_040.scr:1	qev28_040.scr	1	悪漢Ｂ	Thug B	personagem		回り込んで囲え！　畳み掛けろ！！	Circle around! Don't let up!!	
+qev28_040.scr:2	qev28_040.scr	2	クロエ	Chloe Valens	personagem		ふう、撒いたか……	Phew, did I lose them...?	
+qev28_040.scr:3	qev28_040.scr	3	クロエ	Chloe Valens	personagem	CRLF x1	お前……何者だ？\nあいつらの仲間か	Who are you?\nAre you with them?	
+qev28_040.scr:4	qev28_040.scr	4	悪漢Ｂ	Thug B	personagem		おい、そっちにはいたか？	Hey, were they over there?	
+qev28_040.scr:5	qev28_040.scr	5	悪漢Ａ	Thug A	personagem	CRLF x1	いや、こっちはダメだ。\n向こうも探してみるぞ	No, nothing here.\nLet's check the other way.	
+qev28_040.scr:6	qev28_040.scr	6	クロエ	Chloe Valens	personagem		くっ……、次から次へと！	Ugh... one after another!	
+qev28_040.scr:7	qev28_040.scr	7	クロエ	Chloe Valens	personagem	CRLF x1	おい、お前！\n次に会った時はこうはいかないからな	Hey, you!\nIt won't be this easy next time we meet!	
+qev28_050.scr:0	qev28_050.scr	0	クロエ	Chloe Valens	personagem		くっ……強い……！	Ugh... you're strong...!	
+qev28_050.scr:1	qev28_050.scr	1	クロエ	Chloe Valens	personagem	CRLF x1	だが、こんな所で\n私が挫けるわけには……！	But I can't let myself\nbe defeated in a place like this...!	
+qev28_050.scr:2	qev28_050.scr	2	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev28_050.scr:3	qev28_050.scr	3	クロエ	Chloe Valens	personagem		……何……誤解、だと？	...What... A misunderstanding, you say?	
+qev28_050.scr:4	qev28_050.scr	4	クロエ	Chloe Valens	personagem		どういう事だ？	What do you mean?	
+qev28_050.scr:5	qev28_050.scr	5	クロエ	Chloe Valens	personagem		すると、何だ……	So, you're saying...	
+qev28_050.scr:6	qev28_050.scr	6	クロエ	Chloe Valens	personagem	CRLF x1	私は、人助けに来た貴公を\n悪党と間違えて襲ってしまったと……	I mistook you for a thug while you\nwere trying to help people and attacked...	
+qev28_050.scr:7	qev28_050.scr	7	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev28_050.scr:8	qev28_050.scr	8	クロエ	Chloe Valens	personagem	CRLF x1	そ、そうだったのか……すまない。\n私はてっきり……	I-I see... I'm sorry.\nI completely thought...	
+qev28_050.scr:9	qev28_050.scr	9	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev28_050.scr:10	qev28_050.scr	10	クロエ	Chloe Valens	personagem	CRLF x2	いや……そちらの事情も知った以上\nここで何もせずに引き下がっては\n義にもとる	No... knowing your circumstances,\nit would be unjust of me to\nback down without doing anything.	
+qev28_050.scr:11	qev28_050.scr	11	クロエ	Chloe Valens	personagem	CRLF x2	どうだろう。\n私も貴公と共にそのギルドで働かせては\nもらえないだろうか？	What do you say?\nWould you allow me to work at\nthat guild alongside you?	
+qev28_050.scr:12	qev28_050.scr	12	(ator 200)	(ator 200)	desconhecido		……！？	...!?	
+qev28_050.scr:13	qev28_050.scr	13	クロエ	Chloe Valens	personagem		驚く事はないだろう？	There's no need to be surprised, right?	
+qev28_050.scr:14	qev28_050.scr	14	クロエ	Chloe Valens	personagem	CRLF x1	困っている人を助けるのは、\n騎士として当然の務めなのだからな	Helping those in need is\na knight's natural duty, after all.	
+qev28_050.scr:15	qev28_050.scr	15	クロエ	Chloe Valens	personagem		それに、貴公には借りもある	Besides, I owe you a debt.	
+qev28_050.scr:16	qev28_050.scr	16	クロエ	Chloe Valens	personagem	CRLF x2	私はクロエ。\nクロエ・ヴァレンスだ。\n貴公の名は？	I am Chloe.\nChloe Valens.\nWhat is your name?	
+qev28_050.scr:17	qev28_050.scr	17	クロエ	Chloe Valens	personagem		…………	...	
+qev28_050.scr:18	qev28_050.scr	18	クロエ	Chloe Valens	personagem		そうか、○○というのだな	I see. You're called ○○.	
+qev28_050.scr:19	qev28_050.scr	19	クロエ	Chloe Valens	personagem	CRLF x1	では改めて、よろしく頼む。\n○○	Then, once again, I'm counting on you.\n○○.	
+qev28_060.scr:0	qev28_060.scr	0	クロエ	Chloe Valens	personagem	CRLF x1	ここがバンエルティア号……。\n噂には聞いていたが……	So this is the Van Eltia...\nI've heard rumors about it, but...	
+qev28_060.scr:1	qev28_060.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	お前……クロエじゃないか！\n何をしてるんだ、こんな所で	You... Chloe!\nWhat are you doing in a place like this?	
+qev28_060.scr:2	qev28_060.scr	2	クロエ	Chloe Valens	personagem	CRLF x1	クーリッジ！？\n……それにレイナード！	Coolidge!?\n...And Raynard too!	
+qev28_060.scr:3	qev28_060.scr	3	ウィル	Will Raynard	personagem	CRLF x1	どうやら、お前の用事も\nあっけなく片付いた様だな	It seems your business was\ntaken care of rather easily, Senel.	
+qev28_060.scr:4	qev28_060.scr	4	セネル	Senel Coolidge	personagem	CRLF x1	ああ。\n相変わらず手のかかる……	Yeah.\nShe's a handful as always, Chloe...	
+qev28_060.scr:5	qev28_060.scr	5	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev28_060.scr:6	qev28_060.scr	6	セネル	Senel Coolidge	personagem	CRLF x2	クロエ、お前の所へ\n鳩を飛ばしたはずだが、\n見なかったのか？	Chloe,\nI sent a pigeon to your place,\ndidn't you see it?	
+qev28_060.scr:7	qev28_060.scr	7	クロエ	Chloe Valens	personagem		鳩？	A pigeon?	
+qev28_060.scr:8	qev28_060.scr	8	クロエ	Chloe Valens	personagem	CRLF x1	私は、先の戦いからここへ\n戻ったばかりで……	I just returned here\nfrom my previous battle...	
+qev28_060.scr:9	qev28_060.scr	9	セネル	Senel Coolidge	personagem		じゃあ、まだ見ていないのか	So you haven't seen it yet.	
+qev28_060.scr:10	qev28_060.scr	10	セネル	Senel Coolidge	personagem		どうりで……	No wonder...	
+qev28_060.scr:11	qev28_060.scr	11	ウィル	Will Raynard	personagem		見事に、行き違いになったという事か	It seems you missed each other entirely.	
+qev28_060.scr:12	qev28_060.scr	12	ウィル	Will Raynard	personagem	CRLF x1	だが、こうして合流出来て何よりだ。\nアンジュもきっと歓迎するだろう	But it's good we could meet up like this.\nAnge will surely welcome you.	
+qev28_060.scr:13	qev28_060.scr	13	セネル	Senel Coolidge	personagem	CRLF x1	そうだな。\n無鉄砲だが、クロエは腕が立つからな	Yeah.\nShe's reckless, but Chloe is skilled.	
+qev28_060.scr:14	qev28_060.scr	14	クロエ	Chloe Valens	personagem		む、無鉄砲は余計だ！	R-Reckless is uncalled for, Senel!	
+qev28_060.scr:15	qev28_060.scr	15	ウィル	Will Raynard	personagem		ここから先は我々が引き継ごう	We'll take over from here.	
+qev28_060.scr:16	qev28_060.scr	16	ウィル	Will Raynard	personagem	CRLF x2	○○、\nクロエをここまで\n案内してくれたのだろう？	○○,\nyou guided Chloe\nhere, didn't you?	
+qev28_060.scr:17	qev28_060.scr	17	ウィル	Will Raynard	personagem		すまなかったな	Sorry about that.	
+qev28_060.scr:18	qev28_060.scr	18	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev28_060.scr:19	qev28_060.scr	19	セネル	Senel Coolidge	personagem	CRLF x2	大丈夫だったか？\nこいつ、いきなり襲いかかったり\nしてくる事があるからな	Are you okay?\nShe tends to attack people\nout of nowhere.	
+qev28_060.scr:20	qev28_060.scr	20	セネル	Senel Coolidge	personagem	CRLF x2	「不埒な誘拐犯め、\n　根性を叩き直してやる！」\n……だったか？	"""You outrageous kidnapper,\nI'll beat some sense into you!""\n...Something like that?"	
+qev28_060.scr:21	qev28_060.scr	21	クロエ	Chloe Valens	personagem		うう、うるさい！	S-Shut up!	
+qev28_060.scr:22	qev28_060.scr	22	セネル	Senel Coolidge	personagem	CRLF x1	はは。\nまぁ、無事で良かった	Haha.\nWell, I'm glad you're safe.	
+qev28_060.scr:23	qev28_060.scr	23	セネル	Senel Coolidge	personagem	CRLF x2	故郷が戦争に負けてから、\n何の音沙汰もないから\n心配したぞ	I hadn't heard from you\nsince our homeland lost the war,\nso I was worried.	
+qev28_060.scr:24	qev28_060.scr	24	クロエ	Chloe Valens	personagem		…………	...	
+qev28_060.scr:25	qev28_060.scr	25	クロエ	Chloe Valens	personagem	CRLF x1	す……すまない……。\n迷惑を、掛けた	I... I'm sorry...\nFor causing you trouble.	
+qev28_060.scr:26	qev28_060.scr	26	セネル	Senel Coolidge	personagem	CRLF x1	そう思うんだったら、\nその分、ここで頑張って働けばいいさ	If you feel that way,\nthen just work hard here to make up.	
+qev28_060.scr:27	qev28_060.scr	27	クロエ	Chloe Valens	personagem		ああ……そうだな	Yeah... you're right.	
+qev28_060.scr:28	qev28_060.scr	28	クロエ	Chloe Valens	personagem		ぜひ、そうさせてもらおう	I'll gladly do so.	
+qev28_060.scr:29	qev28_060.scr	29	(mensagem de sistema)	(mensagem de sistema)	sistema		クロエがアドリビトムに加入しました	Chloe joined Ad Libitum.	
+qev28_070.scr:0	qev28_070.scr	0	クロエ	Chloe Valens	personagem		お前は、さっきの……！	You're the one from before...!	
+qev28_070.scr:1	qev28_070.scr	1	(ator 200)	(ator 200)	desconhecido		…………！	...!	
+qev28_070.scr:2	qev28_070.scr	2	クロエ	Chloe Valens	personagem	CRLF x1	やはり、貴様もこいつらの\n仲間だったのだな！	As I thought, you really are\none of their gang!	
+qev28_070.scr:3	qev28_070.scr	3	クロエ	Chloe Valens	personagem	CRLF x1	お前の仲間は全て私が退治した。\n残るはお前、ただ一人	I've taken care of all your comrades.\nYou're the only one left.	
+qev28_070.scr:4	qev28_070.scr	4	クロエ	Chloe Valens	personagem	CRLF x1	罪のない民間人を襲い、\n金品を奪う下劣な行為……	Attacking innocent civilians\nand stealing... Such despicable acts...	
+qev28_070.scr:5	qev28_070.scr	5	クロエ	Chloe Valens	personagem	CRLF x1	その腐った根性ともども、この場で\n叩き直してやる！	I'll beat some sense into you\nand your rotten nature right here and now!	
+qev28_070.scr:6	qev28_070.scr	6	(ator 200)	(ator 200)	desconhecido		……！？	...!?	
+qev28_070.scr:7	qev28_070.scr	7	クロエ	Chloe Valens	personagem	CRLF x1	言い訳など見苦しいぞ！\n覚悟を決めろ、悪党め！！	Your excuses are pathetic!\nPrepare yourself, you villain!!	
+qev28_080.scr:0	qev28_080.scr	0	クロエ	Chloe Valens	personagem	CRLF x2	どうやら、\n一度痛め付けられたくらいでは\n懲りない様だな	It seems\nyou haven't learned your lesson\nafter being beaten once.	
+qev28_080.scr:1	qev28_080.scr	1	クロエ	Chloe Valens	personagem	CRLF x1	お望みとあらば、\n何度でも相手をしてやる	If you wish,\nI'll take you on as many times as needed.	
+qev28_080.scr:2	qev28_080.scr	2	クロエ	Chloe Valens	personagem		来い！	Come!	
+qev29_010.scr:0	qev29_010.scr	0	セネル	Senel Coolidge	personagem		あいつ、また勝手な事を……	That idiot, doing whatever she wants...	
+qev29_010.scr:1	qev29_010.scr	1	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev29_010.scr:2	qev29_010.scr	2	セネル	Senel Coolidge	personagem		ああ、○○か	Oh, it's you, ○○.	
+qev29_010.scr:3	qev29_010.scr	3	セネル	Senel Coolidge	personagem	CRLF x1	いや、ちょっと\n面倒な頼み事をされてさ……	Well, I just got a\nrather annoying request...	
+qev29_010.scr:4	qev29_010.scr	4	セネル	Senel Coolidge	personagem	CRLF x2	昔の知り合いからなんだが\nこれからブラウニー坑道まで\n迎えに来いって言うんだ	It's from an old acquaintance.\nShe wants me to come pick her up\nat the Brownie Mine.	
+qev29_010.scr:5	qev29_010.scr	5	セネル	Senel Coolidge	personagem	CRLF x2	まぁ、そうやって\nこっちの都合を考えないところが\nいかにもあいつらしいんだが……	Well, not considering my situation\nat all is just\nso typical of Norma...	
+qev29_010.scr:6	qev29_010.scr	6	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev29_010.scr:7	qev29_010.scr	7	セネル	Senel Coolidge	personagem	CRLF x2	……おい。\nまさか、代わりに迎えに行くなんて\n言わないよな？	...Hey.\nYou're not going to say you'll go\npick her up instead of me, are you?	
+qev29_010.scr:8	qev29_010.scr	8	セネル	Senel Coolidge	personagem	CRLF x2	……それは……一応あいつも女だし、\nあんな場所に一人でいたら\n危ないかもしれないが	...Well... Norma is a girl, after all,\nand it might be dangerous for her\nto be in a place like that alone...	
+qev29_010.scr:9	qev29_010.scr	9	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev29_010.scr:10	qev29_010.scr	10	セネル	Senel Coolidge	personagem	CRLF x2	あいつは、逃げ足が速いんだ。\n魔物に追いかけられたとしても\n大丈夫だろう。　だから……	Norma is fast on her feet.\nEven if she gets chased by monsters,\nshe'll probably be fine. So...	
+qev29_010.scr:11	qev29_010.scr	11	セネル	Senel Coolidge	personagem	CRLF x2	……いや、わかった。\n判断は○○に\n任せるよ	...Alright, I understand.\nI'll leave the decision to you,\n○○.	
+qev29_010.scr:12	qev29_010.scr	12	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「お騒がせ夢盗人」が\nエントリーされました。\nクエストカウンタから受ける事が出来ます	"The quest ""The Troublesome Dream Thief""\nhas been added.\nYou can accept it at the Quest Counter."	
+qev29_020.scr:0	qev29_020.scr	0	セネル	Senel Coolidge	personagem	CRLF x2	結局、迎えに行くのか……。\nまぁ、○○なら\nそう言うだろうと思ったよ	You're really going to pick her up...?\nWell, I figured you'd say that,\n○○.	
+qev29_020.scr:1	qev29_020.scr	1	セネル	Senel Coolidge	personagem		わかったよ、俺も同行する	Alright, I'll go with you too.	
+qev29_020.scr:2	qev29_020.scr	2	セネル	Senel Coolidge	personagem	CRLF x2	全く、ノーマの奴……。\n会ったら文句の一つも\n言ってやらないとな	Geez, that Norma...\nI'll have to give her a piece of my mind\nwhen we see her.	
+qev29_030.scr:0	qev29_030.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	全く、よりによって\n何でこんな所にいるんだ、あいつは	Geez, of all places,\nwhy is Norma here?	
+qev29_030.scr:1	qev29_030.scr	1	セネル	Senel Coolidge	personagem	CRLF x2	しかも「お宝探しながら待ってる」って\n何だよ。\nどう考えてもおかしいだろ……	"And what does she mean by\n""waiting while looking for treasure""?\nThat's just completely weird..."	
+qev29_030.scr:2	qev29_030.scr	2	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev29_030.scr:3	qev29_030.scr	3	セネル	Senel Coolidge	personagem	CRLF x2	まっすぐバンエルティア号に\n来ればいいのにな。\nお前もそう思うだろ？	Norma should have just come straight\nto the Van Eltia.\nDon't you think so too?	
+qev29_040.scr:0	qev29_040.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	そういえばあいつ、\nいつもこんな感じなんだよな	Come to think of it,\nNorma is always like this.	
+qev29_040.scr:1	qev29_040.scr	1	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev29_040.scr:2	qev29_040.scr	2	セネル	Senel Coolidge	personagem	CRLF x1	ああ、これから迎えに行く奴の話だ。\nノーマっていうんだけどさ	Yeah, I'm talking about the person\nwe're picking up. Her name is Norma.	
+qev29_040.scr:3	qev29_040.scr	3	セネル	Senel Coolidge	personagem	CRLF x1	勢いだけというか、\n何も考えずに行動するというか……	She just goes with the flow,\nor acts without thinking...	
+qev29_040.scr:4	qev29_040.scr	4	セネル	Senel Coolidge	personagem	CRLF x1	とにかく周りに\n迷惑ばかり掛ける奴でさ	Anyway, Norma is someone\nwho causes trouble for everyone around.	
+qev29_040.scr:5	qev29_040.scr	5	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev29_040.scr:6	qev29_040.scr	6	セネル	Senel Coolidge	personagem	CRLF x1	一番最初に会った時だって、\nあいつ、魔物に追い掛けられてたんだ	Even when we first met,\nNorma was being chased by monsters.	
+qev29_040.scr:7	qev29_040.scr	7	セネル	Senel Coolidge	personagem	CRLF x2	しかも、自分で魔物の巣を荒らしておいて、\nどうして助けなかったのかって\nいきなり文句を言って来て	And even though she messed up\nthe monster's nest herself,\nshe complained to me for not helping her.	
+qev29_040.scr:8	qev29_040.scr	8	セネル	Senel Coolidge	personagem	CRLF x1	そのまま勝手に仲間になるって\n付いて来たんだよな	Then she just tagged along,\ndeciding to join me on her own.	
+qev29_040.scr:9	qev29_040.scr	9	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev29_040.scr:10	qev29_040.scr	10	セネル	Senel Coolidge	personagem	CRLF x2	いつもお宝お宝言って、\n色んな物を漁って……。\n毎回、何か厄介な問題を起こすけど	Norma's always talking about treasure,\nscavenging for things...\nShe always causes some sort of trouble...	
+qev29_040.scr:11	qev29_040.scr	11	セネル	Senel Coolidge	personagem	CRLF x1	不思議と憎めないんだよな……。\n本当、変な奴だよ	Strangely enough, I can't hate Norma.\nShe's a really weird girl.	
+qev29_050.scr:0	qev29_050.scr	0	セネル	Senel Coolidge	personagem		お、いたいた	Oh, there she is.	
+qev29_050.scr:1	qev29_050.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	おい、ノーマ！\nこんな所で何やってるんだよ	Hey, Norma!\nWhat are you doing in a place like this?	
+qev29_050.scr:2	qev29_050.scr	2	ノーマ	Norma Beatty	personagem	CRLF x1	お〜、セネセネじゃん！\n何、どったの〜〜〜？	Oh~, it's Sene-Sene!\nWhat's up~~~?	
+qev29_050.scr:3	qev29_050.scr	3	セネル	Senel Coolidge	personagem	CRLF x2	は？\nお前がアドリビトムに入りたいって\n手紙出してきたんだろ？	Huh?\nDidn't you send a letter saying\nyou wanted to join Ad Libitum?	
+qev29_050.scr:4	qev29_050.scr	4	セネル	Senel Coolidge	personagem	CRLF x1	しかも、こんな所まで\n迎えに来いって！	And you told me to come pick you up\nin a place like this!	
+qev29_050.scr:5	qev29_050.scr	5	ノーマ	Norma Beatty	personagem		そうだっけ？	Did I?	
+qev29_050.scr:6	qev29_050.scr	6	ノーマ	Norma Beatty	personagem	CRLF x1	それよりさ、ここ、ここ、ココ！！\n素材がわんさかあるじゃな〜〜い！	More importantly, here, here, HERE!!\nThere are so many materials here~~~!	
+qev29_050.scr:7	qev29_050.scr	7	ノーマ	Norma Beatty	personagem	CRLF x1	いひひ〜〜〜、お宝お宝、\nザックザク〜〜〜♪	Ehehe~~~, treasure, treasure,\njingling all the way~~~!	
+qev29_050.scr:8	qev29_050.scr	8	セネル	Senel Coolidge	personagem	CRLF x1	……………。\nおい、行くぞ	.........\nHey, let's go.	
+qev29_050.scr:9	qev29_050.scr	9	ノーマ	Norma Beatty	personagem		ちょ、ちょっと、待って〜〜〜〜〜！	W-Wait a minute~~~~~!	
+qev29_050.scr:10	qev29_050.scr	10	ノーマ	Norma Beatty	personagem	CRLF x2	まだ、あそこの\n岩陰調べてない〜〜〜〜！！！\nセネセネ〜〜〜〜！！！	I haven't checked behind\nthat rock yet~~~~~!!!\nSene-Sene~~~~~!!!	
+qev29_060.scr:0	qev29_060.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	全く、一人で\nあんな所をうろついて……	Good grief, wandering around\na place like that by yourself...	
+qev29_060.scr:1	qev29_060.scr	1	セネル	Senel Coolidge	personagem	CRLF x2	あの時みたいに、\n魔物に襲われたら\nどうするつもりだったんだよ！	Like last time,\nwhat were you going to do if you were\nattacked by monsters?!	
+qev29_060.scr:2	qev29_060.scr	2	セネル	Senel Coolidge	personagem		…………	...	
+qev29_060.scr:3	qev29_060.scr	3	セネル	Senel Coolidge	personagem	CRLF x1	おい！\n聞いてるのか！？	Hey!\nAre you listening to me?!	
+qev29_060.scr:4	qev29_060.scr	4	ノーマ	Norma Beatty	personagem	CRLF x1	え、ううん、\n全然聞いてない	Eh, nope,\nI wasn't listening at all.	
+qev29_060.scr:5	qev29_060.scr	5	ノーマ	Norma Beatty	personagem	CRLF x1	それよりさ、この船、\nお宝積んでないの？	More importantly,\ndoes this ship have any treasure?	
+qev29_060.scr:6	qev29_060.scr	6	ノーマ	Norma Beatty	personagem	CRLF x1	結構広そうじゃない？\n色々隠し部屋とかあったりして〜〜〜！	It looks pretty spacious, doesn't it?\nMaybe there are hidden rooms and stuff~~~!	
+qev29_060.scr:7	qev29_060.scr	7	セネル	Senel Coolidge	personagem	CRLF x1	……○○、行くぞ。\n相手するだけ、時間の無駄だ……	...○○, let's go.\nDealing with Norma is a waste of time...	
+qev29_060.scr:8	qev29_060.scr	8	(mensagem de sistema)	(mensagem de sistema)	sistema		ノーマがアドリビトムに加入しました	Norma joined Ad Libitum.	
+qev30_010.scr:0	qev30_010.scr	0	ポッポ	Poppo	personagem	CRLF x1	○○！\nいいところに来たキュ！	○○!\nYou came at a good time, kyu!	
+qev30_010.scr:1	qev30_010.scr	1	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev30_010.scr:2	qev30_010.scr	2	ポッポ	Poppo	personagem	CRLF x2	ポッポ達は、持ち場を離れられないキュ！\nだから、代わりに行って欲しい所があるキュ！\n……お願い出来ないキュ？	Poppo and the others can't leave\nour posts, kyu! So we want you\nto go somewhere for us, kyu! ...Can you?	
+qev30_010.scr:3	qev30_010.scr	3	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev30_010.scr:4	qev30_010.scr	4	ポッポ	Poppo	personagem	CRLF x1	ジェイは、とっても強いキュ！\n絶対、みんなの仲間にした方がいいキュ！	Jay is very strong, kyu!\nYou definitely want Jay on your team, kyu!	
+qev30_010.scr:5	qev30_010.scr	5	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「モフモフもふもふ」が\nエントリーされました。\nポッポから受ける事が出来ます	"The quest ""Mofu-Mofu Oresoren""\nhas been added.\nYou can accept it from Poppo."	
+qev30_020.scr:0	qev30_020.scr	0	ポッポ	Poppo	personagem	CRLF x1	依頼を受けてくれるキュ？\nありがとだキュ！	You'll accept the request, kyu?\nThank you, kyu!	
+qev30_020.scr:1	qev30_020.scr	1	ポッポ	Poppo	personagem	CRLF x1	ジェイは今、ルバーブ連山に\nいるみたいだキュ！	Jay seems to be in the\nRhubarb Mountains right now, kyu!	
+qev30_020.scr:2	qev30_020.scr	2	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev30_020.scr:3	qev30_020.scr	3	ポッポ	Poppo	personagem		特徴だキュ？　特徴は……	Jay's features, kyu? Features...	
+qev30_020.scr:4	qev30_020.scr	4	ポッポ	Poppo	personagem	CRLF x1	……ジェイは、ちょっと背が低いキュ。\nでも、あんまり言わないで欲しいキュ……	...Jay is a bit short, kyu.\nBut please don't talk about it, kyu...	
+qev30_020.scr:5	qev30_020.scr	5	ポッポ	Poppo	personagem	CRLF x1	とにかく、ルバーブ連山だキュ。\n気を付けて行ってくるキュ	Anyway, it's the Rhubarb Mountains, kyu.\nBe careful on your way, kyu.	
+qev30_020.scr:6	qev30_020.scr	6	ポッポ	Poppo	personagem		ジェイをよろしく頼むキュ！	Please take care of Jay, kyu!	
+qev30_040.scr:0	qev30_040.scr	0	ジェイ	Jay	personagem	CRLF x1	やっぱり、この辺にはないのか……。\nだとすると、もっと奥に……	As expected, it's not around here...\nIf so, maybe deeper in...	
+qev30_040.scr:1	qev30_040.scr	1	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev30_040.scr:2	qev30_040.scr	2	ジェイ	Jay	personagem		…………	...	
+qev30_040.scr:3	qev30_040.scr	3	ジェイ	Jay	personagem	CRLF x2	突然、人の背後には立たない方がいいですよ。\n警戒した相手に攻撃されても、\n何の文句も言えませんからね	You shouldn't stand right behind someone.\nYou can't complain if someone attacks you\nwhen they're on guard, you know.	
+qev30_040.scr:4	qev30_040.scr	4	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev30_040.scr:5	qev30_040.scr	5	ジェイ	Jay	personagem	CRLF x2	ああ。\nすみませんが、今手が離せないんです。\nお話でしたら、また次の機会に	Ah.\nSorry, but I'm busy right now.\nIf you want to talk, next time.	
+qev30_040.scr:6	qev30_040.scr	6	ジェイ	Jay	personagem		失礼します	Excuse me.	
+qev30_050.scr:0	qev30_050.scr	0	ジェイ	Jay	personagem		あなたは、先程の……？	You're the one from earlier...?	
+qev30_050.scr:1	qev30_050.scr	1	ジェイ	Jay	personagem	CRLF x1	まさか、ポッポの言っていた、\nアドリビトムの方ですか？	Are you by any chance\nthe Ad Libitum people Poppo mentioned?	
+qev30_050.scr:2	qev30_050.scr	2	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev30_050.scr:3	qev30_050.scr	3	ジェイ	Jay	personagem		そうですか、それは失礼しました	I see, my apologies then.	
+qev30_050.scr:4	qev30_050.scr	4	ジェイ	Jay	personagem	CRLF x2	初めまして、ぼくがジェイです。\nモフモフ族のみんなが\nお世話になっているそうで	Nice to meet you, I'm Jay.\nI hear the Oresoren have been\nin your care.	
+qev30_050.scr:5	qev30_050.scr	5	ジェイ	Jay	personagem	CRLF x2	ポッポ達のお願いでもあるので、\nぼくもあなた達に協力をしますよ。\n宜しくお願いします	Since Poppo and the others asked,\nI'll cooperate with you as well.\nI look forward to working with you.	
+qev30_050.scr:6	qev30_050.scr	6	ジェイ	Jay	personagem		それにしても……	Even so...	
+qev30_050.scr:7	qev30_050.scr	7	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev30_050.scr:8	qev30_050.scr	8	ジェイ	Jay	personagem	CRLF x2	よくぼくがジェイだとわかりましたね？\nセネルさん達ですら、一度でぼくを\nジェイだと見抜く事は出来なかったのに	How did you know I was Jay?\nEven Senel and the others couldn't\ntell it was me the first time.	
+qev30_050.scr:9	qev30_050.scr	9	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev30_050.scr:10	qev30_050.scr	10	ジェイ	Jay	personagem	CRLF x1	何ですか？\nはっきり言って下さい	What is it?\nPlease be clear.	
+qev30_050.scr:11	qev30_050.scr	11	(ator 200)	(ator 200)	desconhecido		……	...	
+qev30_050.scr:12	qev30_050.scr	12	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev30_050.scr:13	qev30_050.scr	13	ジェイ	Jay	personagem		……え、身長？	...Eh, height?	
+qev30_050.scr:14	qev30_050.scr	14	ジェイ	Jay	personagem	CRLF x2	……それ、誰から聞いたんですか？\n今の話と身長の事は\n何の関係もないでしょう	...Who did you hear that from?\nMy height has absolutely nothing\nto do with what we just talked about.	
+qev30_050.scr:15	qev30_050.scr	15	ジェイ	Jay	personagem	CRLF x2	それとも、アドリビトムには\n加入条件として身長制限でも\n設けられているんですか？	Or does Ad Libitum have a\nheight restriction\nfor joining?	
+qev30_050.scr:16	qev30_050.scr	16	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev30_050.scr:17	qev30_050.scr	17	ジェイ	Jay	personagem	CRLF x1	もういいです。\nお話でしたらそちらで伺います	That's enough.\nIf you want to talk, let's do it there.	
+qev30_050.scr:18	qev30_050.scr	18	ジェイ	Jay	personagem	CRLF x1	さあ、バンエルティア号へ\n案内して下さい	Now, please guide me to\nthe Van Eltia.	
+qev30_060.scr:0	qev30_060.scr	0	(narracao)	(narracao)	narracao		ジェイだキュ〜〜〜〜！！	It's Jay, kyu~~~~!!	
+qev30_060.scr:1	qev30_060.scr	1	ジェイ	Jay	personagem		みんな、無事かい？	Is everyone okay?	
+qev30_060.scr:2	qev30_060.scr	2	ポッポ	Poppo	personagem		大丈夫だキュ〜！	We're fine, kyu~!	
+qev30_060.scr:3	qev30_060.scr	3	ピッポ	Pippo	personagem		みんな、いい人達だキュ！	Everyone here is nice, kyu!	
+qev30_060.scr:4	qev30_060.scr	4	ジェイ	Jay	personagem		それは良かった	That's good.	
+qev30_060.scr:5	qev30_060.scr	5	ジェイ	Jay	personagem	CRLF x2	ごめんよ、みんなの好物の\nボルケイノホタテをお土産に\n採ってきたかったんだけど……	Sorry, I wanted to bring everyone's\nfavorite Volcano Scallop\nas a souvenir...	
+qev30_060.scr:6	qev30_060.scr	6	ジェイ	Jay	personagem	CRLF x2	あそこも大分生態系のバランスが\n崩れてきているみたいで、\nうまく見つけられなかったんだ	It seems the ecosystem there is\nalso losing its balance,\nso I couldn't find any.	
+qev30_060.scr:7	qev30_060.scr	7	ポッポ	Poppo	personagem	CRLF x1	そんなの、気にしないキュ！\nジェイが来てくれただけで十分だキュ！	Don't worry about that, kyu!\nJust having Jay here is enough, kyu!	
+qev30_060.scr:8	qev30_060.scr	8	ピッポ	Pippo	personagem	CRLF x1	そうだキュ！\n元気を出すキュ！	That's right, kyu!\nCheer up, kyu!	
+qev30_060.scr:9	qev30_060.scr	9	キュッポ	Kyuppo	personagem	CRLF x1	ジェイも、これからここで\nキュッポ達と頑張るキュ！	Jay will do his best here with\nKyuppo and the others, kyu!	
+qev30_060.scr:10	qev30_060.scr	10	ジェイ	Jay	personagem	CRLF x1	……わかったよ。\nありがとう、みんな	...I understand.\nThanks, everyone.	
+qev30_060.scr:11	qev30_060.scr	11	ジェイ	Jay	personagem		ところで……ポッポ？	By the way... Poppo?	
+qev30_060.scr:12	qev30_060.scr	12	ポッポ	Poppo	personagem		何だキュ？	What is it, kyu?	
+qev30_060.scr:13	qev30_060.scr	13	ジェイ	Jay	personagem	CRLF x1	ぼくの、その……、\n特徴についてなんだけど……	About my...\ncharacteristics...	
+qev30_060.scr:14	qev30_060.scr	14	ジェイ	Jay	personagem	CRLF x2	……ううん。\n何でもないんだ。\nごめんよ	...No.\nIt's nothing.\nSorry.	
+qev30_060.scr:15	qev30_060.scr	15	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev30_060.scr:16	qev30_060.scr	16	ジェイ	Jay	personagem	CRLF x1	それでは、○○さん。\nこれからよろしくお願いします	Well then, ○○.\nI look forward to working with you.	
+qev30_060.scr:17	qev30_060.scr	17	ジェイ	Jay	personagem	CRLF x1	何かあれば、\nいつでも声をかけて下さい	If you need anything,\njust call for me.	
+qev30_060.scr:18	qev30_060.scr	18	(mensagem de sistema)	(mensagem de sistema)	sistema		ジェイがアドリビトムに加入しました	Jay joined Ad Libitum.	

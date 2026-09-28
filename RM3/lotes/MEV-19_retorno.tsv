@@ -1,0 +1,229 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev19_010.scr:0	mev19_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	ニアタからの依頼、あなたが行くのね。\nと言っても本当は、\nあなたご指名だったんだけど	You're taking Niata's request, then?\nThough truth be told,\nhe named you specifically.	
+mev19_010.scr:1	mev19_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	ニアタの言う、ボルテックスは\n「聖地ラングリース」にあるそうよ	The Vortex Niata mentioned is located\nin the Holy Land of Langriths.	
+mev19_010.scr:2	mev19_010.scr	2	セルシウス	Celsius	personagem	CRLF x1	でも、本来は\nヒトが行くべき場所ではないわ	However, it is not normally\na place humans should tread.	
+mev19_010.scr:3	mev19_010.scr	3	セルシウス	Celsius	personagem	CRLF x2	ボルテックスは、マナの渦巻く場。\n入れば、精神と肉体のバランスを\n大きく欠いてしまうの	The Vortex is where mana swirls.\nIf you enter, you will severely upset\nthe balance of mind and body.	
+mev19_010.scr:4	mev19_010.scr	4	セルシウス	Celsius	personagem	CRLF x1	その上に、常に高濃度のマナを浴びる\n状態になるのよ	On top of that, you will be bathed\nin dense mana concentrations constantly.	
+mev19_010.scr:5	mev19_010.scr	5	セルシウス	Celsius	personagem	CRLF x1	…拡大する意識に肉体が耐えられなくなって、\n命を落とすかもしれないわ	Your body may fail to bear an expanding\nconsciousness, costing you your life.	
+mev19_010.scr:6	mev19_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	拡大した意識が肉体の容量を\n超えるのね。\n具体的にどういう事が起きるの？	The expanded consciousness exceeds\nthe body's capacity, then?\nWhat happens specifically?	
+mev19_010.scr:7	mev19_010.scr	7	セルシウス	Celsius	personagem	CRLF x1	肉体と、意識が分離してしまうの。\n魂が…、離れてしまうと言ってもいいわ	Body and consciousness sever.\nYou could say the soul... drifts away.	
+mev19_010.scr:8	mev19_010.scr	8	アンジュ	Ange Serena	personagem		それでもいくの？	Even so, will you still go?	
+mev19_010.scr:9	mev19_010.scr	9	セルシウス	Celsius	personagem	CRLF x1	本当に、恐れを知らないのね。\nディセンダー…	You truly know no fear, do you,\nDescender...?	
+mev19_010.scr:10	mev19_010.scr	10	セルシウス	Celsius	personagem	CRLF x1	そうね。\nドクメントを展開するのは危険が伴うもの	Very well.\nExpanding a Document carries dangers.	
+mev19_010.scr:11	mev19_010.scr	11	セルシウス	Celsius	personagem	CRLF x1	世界樹の意志を探るには、\nこの方法しかないかもしれないわね	To probe the will of the World Tree,\nthis may be the only way available.	
+mev19_010.scr:12	mev19_010.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	はぁ…、あなたの事だもの。\n止めても行っちゃうよね…	Haaah... Knowing you,\nyou'd go even if I tried to stop you...	
+mev19_010.scr:13	mev19_010.scr	13	アンジュ	Ange Serena	personagem		じゃあ、あなたを信じて送り出すかぁ	Then I'll just place my faith in you!	
+mev19_010.scr:14	mev19_010.scr	14	アンジュ	Ange Serena	personagem	CRLF x2	えーと、同行者はカノンノ。\nそして、あなた達を護衛する為に\nヴァンさんにも同行を頼んであるから	Let's see, Kanonno will accompany you.\nAnd to safeguard you both, I asked\nCommander Van to join you as well.	
+mev19_010.scr:15	mev19_010.scr	15	アンジュ	Ange Serena	personagem	CRLF x2	それじゃ、行ってらっしゃい。\n必ず、無事に戻るのよ。\n無理をしないでね…	Well then, have a safe trip.\nBe sure to come back safe.\nDon't push yourself too hard...	
+mev19_010.scr:16	mev19_010.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		もちろん	Of course	
+mev19_010.scr:17	mev19_010.scr	17	(opcao do jogador)	(opcao do jogador)	escolha		世界樹の意志を知りたいから、と言う	Say you wish to know the Tree's will	
+mev19_020.scr:0	mev19_020.scr	0	カノンノ	Kanonno Grassvalley	personagem		マナが強くて、くらくらするね	The mana is so strong, it's dizzying.	
+mev19_020.scr:1	mev19_020.scr	1	カノンノ	Kanonno Grassvalley	personagem		ねえ、○○は大丈夫？	Hey, are you alright, ○○?	
+mev19_020.scr:2	mev19_020.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	○○。\nどうしたの…？	○○.\nWhat's the matter...?	
+mev19_020.scr:3	mev19_020.scr	3	ニアタ	Niata Monad	personagem		ラザリスの事を、考えていたのだな	You were thinking of Lazaris, weren't you?	
+mev19_020.scr:4	mev19_020.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	…えっ？\nラザリスが悪い人とは…思えないって？	...Eh?\nYou can't think of Lazaris as evil...?	
+mev19_020.scr:5	mev19_020.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	…うん、ラザリスも自分の世界を生んで、\n平和な世界を望んでる	...Yeah, Lazaris wanted to give birth\nto her own world and wished for peace.	
+mev19_020.scr:6	mev19_020.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ただ、生命の場をジルディアが\n持っていなかっただけで…	It's just that Zirdia lacked\na Field of Life of its own...	
+mev19_020.scr:7	mev19_020.scr	7	カノンノ	Kanonno Grassvalley	personagem		でも、ラザリスは生まれてしまった	Yet Lazaris had already been born.	
+mev19_020.scr:8	mev19_020.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	生まれたら、生きていたいのは\n自然な事だもんね	Once born, wanting to live\nis only natural, isn't it?	
+mev19_020.scr:9	mev19_020.scr	9	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ラザリスも自分の世界の生き物を、\n大事に思ってる	Lazaris cherishes the creatures\nof her world deeply as well.	
+mev19_020.scr:10	mev19_020.scr	10	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	理が違うだけで、どちらかの世界しか\n生きていけないなんて…	Just because laws differ, only one\nworld can survive... How cruel...	
+mev19_020.scr:11	mev19_020.scr	11	ヴァン	Van Grants	personagem		相容れぬものか	Incompatible, then.	
+mev19_020.scr:12	mev19_020.scr	12	ヴァン	Van Grants	personagem	CRLF x1	だが、どちらの世界が生きる事になるのか、\n迷っている暇などあるまい	Yet we have no time to hesitate over\nwhich world is destined to survive.	
+mev19_020.scr:13	mev19_020.scr	13	ヴァン	Van Grants	personagem		迷えば私達の世界は救えない	If we waver, our world cannot be saved.	
+mev19_020.scr:14	mev19_020.scr	14	ヴァン	Van Grants	personagem	CRLF x2	お前は、世界の危機を救う為に現れると\n予言されていたが、私はそんなものは\n信じはしない	It was prophesied you would appear\nto save the world from crisis, but\nI place no faith in such things.	
+mev19_020.scr:15	mev19_020.scr	15	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あの、ヴァンさんは\n○○の事を	Um, Commander Van,\nabout ○○...	
+mev19_020.scr:16	mev19_020.scr	16	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あの、ヴァンさんは\n○○の事を	Um, Commander Van,\nabout ○○...	
+mev19_020.scr:17	mev19_020.scr	17	ヴァン	Van Grants	personagem	CRLF x2	案ずるな。\n私が信じないのは「予言」だ。\nお前の事ではない	Fear not.\nWhat I do not believe in is 'prophecy.'\nIt is not you I doubt.	
+mev19_020.scr:18	mev19_020.scr	18	ヴァン	Van Grants	personagem	CRLF x1	迷う事無く、未来は私達が生み出して\nいかなくてはならんものだ	Without hesitation, the future is\nsomething we ourselves must forge.	
+mev19_020.scr:19	mev19_020.scr	19	ニアタ	Niata Monad	personagem	CRLF x1	そうでなければ、人生は\n予言に任せたままになってしまう	Otherwise, one leaves their life\nsurrendered entirely to prophecy.	
+mev19_020.scr:20	mev19_020.scr	20	ヴァン	Van Grants	personagem	CRLF x2	○○。\nこれから、どうするのかを決めておけ。\nお前の未来を	○○.\nDecide what you will do from here on.\nDecide your own future.	
+mev19_020.scr:21	mev19_020.scr	21	ヴァン	Van Grants	personagem		明確な展望を持つのだ	Hold a clear, unwavering vision.	
+mev19_020.scr:22	mev19_020.scr	22	ニアタ	Niata Monad	personagem	CRLF x1	未来はそなた自身が生み出せる。\nよく覚えておきなさい	You can forge the future yourself.\nRemember this well.	
+mev19_020.scr:23	mev19_020.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		うつむいている	Look downward	
+mev19_020.scr:24	mev19_020.scr	24	(opcao do jogador)	(opcao do jogador)	escolha		黙っている	Stay silent	
+mev19_030.scr:0	mev19_030.scr	0	カノンノ	Kanonno Grassvalley	personagem		…あれ？	...Huh?	
+mev19_030.scr:1	mev19_030.scr	1	カノンノ	Kanonno Grassvalley	personagem		ドクメントが見える	I can see Documents...	
+mev19_030.scr:2	mev19_030.scr	2	カノンノ	Kanonno Grassvalley	personagem		ヴァンさんのドクメントも…	Even Commander Van's Document...	
+mev19_030.scr:3	mev19_030.scr	3	カノンノ	Kanonno Grassvalley	personagem		…あっ……	...Ah......	
+mev19_030.scr:4	mev19_030.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あれは、私？\n私の身体…！？	Is that... me?\nMy body...?!	
+mev19_030.scr:5	mev19_030.scr	5	カノンノ	Kanonno Grassvalley	personagem		肉体と意識が離れちゃったんだ…！！	My body and consciousness severed...!!	
+mev19_040.scr:0	mev19_040.scr	0	ヴァン	Van Grants	personagem		カノンノ、返事をしろ	Kanonno, answer me!	
+mev19_040.scr:1	mev19_040.scr	1	カノンノ	Kanonno Grassvalley	personagem		戻らなきゃ…！！	I have to go back...!!	
+mev19_040.scr:2	mev19_040.scr	2	カノンノ	Kanonno Grassvalley	personagem		身体に戻らなきゃ、戻らなきゃ…！！	Back into my body... I have to...!!	
+mev19_040.scr:3	mev19_040.scr	3	カノンノ	Kanonno Grassvalley	personagem		…ぁっ…	...Ah-...	
+mev19_040.scr:4	mev19_040.scr	4	ニアタ	Niata Monad	personagem		カノンノ…	Kanonno...	
+mev19_040.scr:5	mev19_040.scr	5	カノンノ	Kanonno Grassvalley	personagem		…元に、戻れた…	...I came... back...	
+mev19_040.scr:6	mev19_040.scr	6	ニアタ	Niata Monad	personagem	CRLF x1	現身から意識が\n分離しかけているんだな	Your consciousness began separating\nfrom your mortal vessel, did it not?	
+mev19_040.scr:7	mev19_040.scr	7	ヴァン	Van Grants	personagem	CRLF x1	頭より気を取り込んで、腹に溜め、\nそのまま足より流せ	Draw spirit in through your head,\nstore it in your core, and send it down.	
+mev19_040.scr:8	mev19_040.scr	8	ヴァン	Van Grants	personagem	CRLF x1	心身と自然を一つにする、\n武術の基本だ	Uniting mind, body, and nature;\nit is the foundation of martial arts.	
+mev19_040.scr:9	mev19_040.scr	9	カノンノ	Kanonno Grassvalley	personagem		はい…	Right...	
+mev19_040.scr:10	mev19_040.scr	10	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	………頭から…気を取り込んで…\nお腹に……	......Draw spirit through my head...\nInto my belly......	
+mev19_040.scr:11	mev19_040.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	あ…、不思議…。\nちゃんと身体に心が収まっていく\n感じがする！	Ah... How wondrous...\nI can feel my mind properly settling\nback into my body!	
+mev19_040.scr:12	mev19_040.scr	12	ヴァン	Van Grants	personagem	CRLF x2	フ…、お前は繋がりを知っているのだな。\n知らない者はいくらやっても\n出来ないのだが	Heh... You know interconnection.\nThose ignorant of it cannot do this,\nno matter how hard they try.	
+mev19_040.scr:13	mev19_040.scr	13	カノンノ	Kanonno Grassvalley	personagem		繋がり…？	Interconnection...?	
+mev19_040.scr:14	mev19_040.scr	14	ニアタ	Niata Monad	personagem		世界との繋がりだ	Connection to the world.	
+mev19_040.scr:15	mev19_040.scr	15	ニアタ	Niata Monad	personagem	CRLF x2	ヒトは地に足をつけて、\n世界と共に生きるものだ。\nだが、ほとんどの者はそれを忘れている	Humans are meant to stand on the earth\nand live alongside the world.\nYet most have forgotten this.	
+mev19_040.scr:16	mev19_040.scr	16	ヴァン	Van Grants	personagem	CRLF x2	目に見える部分ばかりに気を取られてな。\nそうして、自らを自らの意志で\n世界から切り離して生きている	Distracted only by what meets the eye.\nThus, by their own volition, they live\nsevered from the world.	
+mev19_040.scr:17	mev19_040.scr	17	ニアタ	Niata Monad	personagem	CRLF x1	ヒトで世界は溢れているが、皆孤独なのだ。\n繋がりを忘れてしまっている	The world overflows with people, yet all\nare lonely, forgetting their connection.	
+mev19_040.scr:18	mev19_040.scr	18	ニアタ	Niata Monad	personagem	CRLF x2	お互いを全く意識せずに\nそれぞれの人生を生きていると\n思い込んでいる	They assume they live\ntheir separate lives\nwholly unaware of each other.	
+mev19_040.scr:19	mev19_040.scr	19	ニアタ	Niata Monad	personagem	CRLF x1	そこから、心の飢餓が始まる。\n争いや略奪…他にも様々な事が起こりうる	From that stems starvation of the heart.\nStrife, plunder... and manifold horrors.	
+mev19_040.scr:20	mev19_040.scr	20	ニアタ	Niata Monad	personagem	CRLF x2	ヒトや様々な生き物、そして世界。\nこれらが等しく「繋がり」を知る事が\n出来れば…、	Humans, living things, and the world.\nIf only all could equally recognize\nthis 'interconnection'...	
+mev19_040.scr:21	mev19_040.scr	21	ニアタ	Niata Monad	personagem	CRLF x1	自他を慈しみ、権利を奪わず、\n差を作る気持ちは起こらない	Cherishing all, not stripping rights,\nno desire for division would arise.	
+mev19_040.scr:22	mev19_040.scr	22	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん、そうだね。\n風来草やユルングの樹はそれを教えてくれた	Yeah, you're right. The Wanderer Herb\nand Yurlung Tree taught us that.	
+mev19_040.scr:23	mev19_040.scr	23	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ヒトって、どうして\nそうなっていったんだろう…	Why did humans end up\nbecoming like this...?	
+mev19_040.scr:24	mev19_040.scr	24	ヴァン	Van Grants	personagem		覚えておくのだ	Remember this well.	
+mev19_040.scr:25	mev19_040.scr	25	ヴァン	Van Grants	personagem	CRLF x2	どういう事態においても、\n原因を知るという事は、再び危機が訪れた時、\nそれを回避する為の手立てにはなる	In any situation, knowing the cause\nprovides means to avert future crises\nwhen they strike again.	
+mev19_040.scr:26	mev19_040.scr	26	ヴァン	Van Grants	personagem	CRLF x1	だが、大事なのは原因を追うばかりになる\n過去に留まらぬ事	Yet what matters is never lingering\nin the past, merely chasing causes.	
+mev19_040.scr:27	mev19_040.scr	27	ヴァン	Van Grants	personagem		今は、変化を起こす行動を選択する事だ	For now, choose action that sparks change.	
+mev19_040.scr:28	mev19_040.scr	28	ヴァン	Van Grants	personagem	CRLF x2	心を「今」から離してはならない。\n今からお前達がする様に、\n過去を知りにいくならなおさらだ	Never detach your heart from the 'now.'\nAll the more so if you delve\ninto the past as you are about to do.	
+mev19_040.scr:29	mev19_040.scr	29	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	はい。\nわかりました	Yes.\nUnderstood.	
+mev19_040.scr:30	mev19_040.scr	30	(sem caixa de nome)	(sem caixa de nome)	sem_caixa		言葉を心に留める	Take his words to heart	
+mev19_050.scr:0	mev19_050.scr	0	ヴァン	Van Grants	personagem	CRLF x1	奴の後ろにあるのが\nボルテックスだな	Behind that fiend\nis the Vortex.	
+mev19_050.scr:1	mev19_050.scr	1	ヴァン	Van Grants	personagem	CRLF x1	まずはこの場の安全を確保しなければならん。\n行くぞ！	First we must secure this area.\nLet's move!	
+mev19_055.scr:0	mev19_055.scr	0	ヴァン	Van Grants	personagem	CRLF x1	次は仕留める。\n心して行くぞ！	We finish it this time.\nSteel yourselves and go!	
+mev19_057.scr:0	mev19_057.scr	0	ヴァン	Van Grants	personagem	CRLF x1	ひとまず、この場は収まったな。\nさあ、お前達、始めるがいい	The area is secure for now.\nGo on, you two, begin.	
+mev19_057.scr:1	mev19_057.scr	1	カノンノ	Kanonno Grassvalley	personagem		ニアタ、どうすればいいの？	Niata, what should we do?	
+mev19_057.scr:2	mev19_057.scr	2	ニアタ	Niata Monad	personagem	CRLF x2	我々とあの中…、\nボルテックスに入るのだよ、\nカノンノ	Enter within that... into the Vortex\nalongside us,\nKanonno.	
+mev19_057.scr:3	mev19_057.scr	3	ニアタ	Niata Monad	personagem	CRLF x1	あの中で我々が、意識のドクメントへ\n飛び込むのを手伝おう	Inside, we shall help you dive into\nthe Document of your consciousness.	
+mev19_057.scr:4	mev19_057.scr	4	ニアタ	Niata Monad	personagem		さあ、ディセンダー、そなたも行くがいい	Come now, Descender, you go as well.	
+mev19_057.scr:5	mev19_057.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	そなたには知る必要がある。\nカノンノの意識へダイブするのだ	You need to know as well.\nDive into Kanonno's consciousness.	
+mev19_057.scr:6	mev19_057.scr	6	ヴァン	Van Grants	personagem		では、私はこの場の警護を司ろう	Then I shall stand watch over this place.	
+mev19_057.scr:7	mev19_057.scr	7	ヴァン	Van Grants	personagem		いいか、「今」生きるこの時を手放すな	Listen well: never let go of the 'now.'	
+mev19_057.scr:8	mev19_057.scr	8	カノンノ	Kanonno Grassvalley	personagem		はい…	Right...	
+mev19_060.scr:0	mev19_060.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	光の中に、世界が見える。\nたくさんの世界が…	Within the light, I see worlds...\nSo many worlds...	
+mev19_060.scr:1	mev19_060.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	私がいる。\n色んな世界に色んな私が	I am there.\nDifferent mes in all sorts of worlds...	
+mev19_060.scr:2	mev19_060.scr	2	カノンノ	Kanonno Grassvalley	personagem		こんなにたくさん…	So very many...	
+mev19_060.scr:3	mev19_060.scr	3	ニアタ	Niata Monad	personagem	CRLF x2	世界樹は、新しい種子を実らせる時、\n自らの経験を全て種子へと\n受け継がせている	When the World Tree bears new seed,\nit passes all its experiences down\ninto that seed.	
+mev19_060.scr:4	mev19_060.scr	4	ニアタ	Niata Monad	personagem	CRLF x1	無論、これらの世界の経験は全て、\nルミナシアへと受け継がれているのだよ	Naturally, experiences of these worlds\nhave all been inherited by Luminasia.	
+mev19_060.scr:5	mev19_060.scr	5	ニアタ	Niata Monad	personagem	CRLF x2	そして、「今」があるのだ。\nカノンノも、ディセンダーも、\nアドリビトムの皆も…	And thus exists the 'now.'\nKanonno, the Descender,\nand everyone in Ad Libitum...	
+mev19_060.scr:6	mev19_060.scr	6	カノンノ	Kanonno Grassvalley	personagem		うん、わかるよ	Yeah, I understand.	
+mev19_060.scr:7	mev19_060.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	私の中にあった記憶は、\nこれらの世界のもの。\n今、ずっと遡ってる…	The memories inside me belonged to\nthese worlds. Right now,\nI'm tracing back through time...	
+mev19_060.scr:8	mev19_060.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	こんなにずっと、\n世界は続いて来たんだ…	For this long...\nthe world has continued on...	
+mev19_060.scr:9	mev19_060.scr	9	カノンノ	Kanonno Grassvalley	personagem		あの光は…？	What is that light...?	
+mev19_060.scr:10	mev19_060.scr	10	ニアタ	Niata Monad	personagem	CRLF x1	カノンノ…。\nあれが、そなたの記憶の最果てだ	Kanonno...\nThat is the furthest edge of your memory.	
+mev19_060.scr:11	mev19_060.scr	11	カノンノ	Kanonno Grassvalley	personagem		この光、とても懐かしい感じがする…	This light feels so nostalgic...	
+mev19_060.scr:12	mev19_060.scr	12	オリジナル・カノンノ	Original Kanonno	personagem	CRLF x2	広い宙の中に瞬く命。\n受け継がれた記憶の最も先にいる者。\nようこそ…	A life twinkling within vast space.\nO bearer at memory's frontier...\nWelcome...	
+mev19_060.scr:13	mev19_060.scr	13	カノンノ	Kanonno Grassvalley	personagem		あな…たは？	Who... are you?	
+mev19_060.scr:14	mev19_060.scr	14	オリジナル・カノンノ	Original Kanonno	personagem	CRLF x1	私はカノンノ。\n根源の世界樹…	I am Kanonno.\nThe Primordial World Tree...	
+mev19_060.scr:15	mev19_060.scr	15	ニアタ	Niata Monad	personagem		何と…、根源の世界樹とは…	What... The Primordial World Tree...?	
+mev19_060.scr:16	mev19_060.scr	16	ニアタ	Niata Monad	personagem	CRLF x1	そなたから、\n全てが受け継がれて来たのか…	Did everything inherit its origin\nfrom you...?	
+mev19_060.scr:17	mev19_060.scr	17	オリジナル・カノンノ	Original Kanonno	personagem	CRLF x2	そうよ…。\n私の世界は地殻の変動で\n滅びを避けられなかった	Yes...\nMy world could not escape destruction\nfrom tectonic cataclysms.	
+mev19_060.scr:18	mev19_060.scr	18	オリジナル・カノンノ	Original Kanonno	personagem	CRLF x2	だから、私達の世界の住人は、\n全ての生命を一つにして、\n新しい生命の姿をとったの	So the inhabitants of our world\ngathered all life into one,\ntaking on a new form of being.	
+mev19_060.scr:19	mev19_060.scr	19	カノンノ	Kanonno Grassvalley	personagem		全てを一つに？	All into one...?	
+mev19_060.scr:20	mev19_060.scr	20	オリジナル・カノンノ	Original Kanonno	personagem	CRLF x2	そう、全ての生命を一つにして、\nまた新しい世界を生み出すの。\n世界樹となってね…	Yes. Uniting all life into one\nto birth a new world once more.\nBy becoming a World Tree...	
+mev19_060.scr:21	mev19_060.scr	21	オリジナル・カノンノ	Original Kanonno	personagem		私はその器、種子になる為に選ばれたの	I was chosen to be its vessel, its seed.	
+mev19_060.scr:22	mev19_060.scr	22	オリジナル・カノンノ	Original Kanonno	personagem	CRLF x2	命を繋げる為に、世界の全ての命を宿して、\n世界樹という新しい生命の種子に\nなったのよ	To connect life, I harbored all life\nand became the seed of a new being:\nthe World Tree.	
+mev19_060.scr:23	mev19_060.scr	23	カノンノ	Kanonno Grassvalley	personagem		命を繋げる…	Connecting life...	
+mev19_060.scr:24	mev19_060.scr	24	オリジナル・カノンノ	Original Kanonno	personagem	CRLF x1	そう。\nそれは新しい可能性	Yes.\nThat is a new possibility.	
+mev19_060.scr:25	mev19_060.scr	25	オリジナル・カノンノ	Original Kanonno	personagem	CRLF x1	たくさんたくさん、世界を生んだわ。\n色んな世界を	I birthed many, many worlds.\nAll kinds of worlds.	
+mev19_060.scr:26	mev19_060.scr	26	オリジナル・カノンノ	Original Kanonno	personagem	CRLF x1	世界にある、様々な命と共に、\n学びながらね	Learning alongside the diverse lives\nwithin those worlds.	
+mev19_060.scr:27	mev19_060.scr	27	オリジナル・カノンノ	Original Kanonno	personagem	CRLF x2	世界が一つだと寂しいから。\n一緒に助け合って行ける様に。\n共に創造していく為に	A single world would be too lonely.\nSo they might help one another,\nand create together.	
+mev19_060.scr:28	mev19_060.scr	28	オリジナル・カノンノ	Original Kanonno	personagem		多くの世界を生んだのよ…	I gave birth to many worlds...	
+mev19_060.scr:29	mev19_060.scr	29	カノンノ	Kanonno Grassvalley	personagem		助け合っていける…様に…	So that... they could help each other...	
+mev19_060.scr:30	mev19_060.scr	30	オリジナル・カノンノ	Original Kanonno	personagem	CRLF x1	世界樹から生まれた世界は、\nみんな私の世界から生まれた尊い家族	Worlds born from the World Tree\nare all precious family from my world.	
+mev19_060.scr:31	mev19_060.scr	31	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	じゃあ、ルミナシアとジルディアが…\n相容れないのは？	Then why are Luminasia and Zirdia...\nincompatible?	
+mev19_060.scr:32	mev19_060.scr	32	ニアタ	Niata Monad	personagem	CRLF x2	理を大きく離れた生き方を選ぶのも、\nまた世界の選択。\nだが、根本は繋がっているのだ	Choosing life far from natural laws\nis a world's choice as well.\nYet at root, they are connected.	
+mev19_060.scr:33	mev19_060.scr	33	オリジナル・カノンノ	Original Kanonno	personagem	CRLF x1	さあ、そろそろ戻りなさい。\nあなた達は戻って「今」を生きなければ	Come, it is time to return.\nYou must return and live in the 'now.'	
+mev19_060.scr:34	mev19_060.scr	34	オリジナル・カノンノ	Original Kanonno	personagem	CRLF x1	あなたは私。\n私の記憶、世界の記憶が受け継がれた証	You are me. Proof that my memories and\nthe world's memories were passed down.	
+mev19_060.scr:35	mev19_060.scr	35	オリジナル・カノンノ	Original Kanonno	personagem	CRLF x1	…世界もあなたも、たくさんの受け継がれた\n命の上にあるのよ	...Both the world and you rest upon\ncountless inherited lives.	
+mev19_060.scr:36	mev19_060.scr	36	オリジナル・カノンノ	Original Kanonno	personagem	CRLF x1	生きなさい。\n最後に、ルミナシアの創世を見せてあげるわ	Live. Lastly, I shall show you\nthe genesis of Luminasia.	
+mev19_070.scr:0	mev19_070.scr	0	カノンノ	Kanonno Grassvalley	personagem		あ………	Ah.........	
+mev19_070.scr:1	mev19_070.scr	1	ニアタ	Niata Monad	personagem	CRLF x1	あれが、ジルディアを取り込んだ\nその時だ…	That was the moment...\nwhen it absorbed Zirdia...	
+mev19_070.scr:2	mev19_070.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	星晶が作られていってる…。\nあれが、封印の時…？ 	Star Crystals are being formed...\nWas that... the sealing...?	
+mev19_080.scr:0	mev19_080.scr	0	カノンノ	Kanonno Grassvalley	personagem		違う、封印じゃなかった	No... It wasn't a seal.	
+mev19_080.scr:1	mev19_080.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あなたにもわかった…？\n世界樹の声が…	Did you understand it too...?\nThe voice of the World Tree...	
+mev19_080.scr:2	mev19_080.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	今は理が違うけど。\n変わるから。\n変わって見せるから…	Our laws differ now.\nBut we will change.\nWe will prove that we can change...	
+mev19_080.scr:3	mev19_080.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	今はお休みって、\n世界樹がそう言ってた	'Rest for now,'\nthe World Tree said.	
+mev19_080.scr:4	mev19_080.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	星晶は、ゆりかごだったんだ。\nルミナシアと一緒に生きていける様に\nなるまでの…	The Star Crystals were a cradle...\nUntil the time it could live\nalongside Luminasia...	
+mev19_080.scr:5	mev19_080.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	そうだよね。\n一つの世界樹からずっと続いて来た\n兄弟だもんね	Of course.\nWe are siblings descended\nfrom a single World Tree, after all.	
+mev19_080.scr:6	mev19_080.scr	6	カノンノ	Kanonno Grassvalley	personagem		助けてあげたいよね…	We want to save them, don't we...?	
+mev19_090.scr:0	mev19_090.scr	0	ヴァン	Van Grants	personagem		無事に、終えた様だな	Seems you concluded safely.	
+mev19_090.scr:1	mev19_090.scr	1	カノンノ	Kanonno Grassvalley	personagem		はい	Yes!	
+mev19_090.scr:2	mev19_090.scr	2	ニアタ	Niata Monad	personagem	CRLF x2	世界樹の根源…か。\n全ての世界樹は、\nあそこから始まったのか	The origin of the World Tree, huh...\nAll World Trees began\nfrom that very point, then.	
+mev19_090.scr:3	mev19_090.scr	3	ニアタ	Niata Monad	personagem	CRLF x1	我々の世界パスカも。\nそのディセンダーも…	Our world of Pasca as well.\nAnd its Descender too...	
+mev19_090.scr:4	mev19_090.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	…助け合っていける様に。\n共に創造していく為に	...So that we could help each other.\nTo create together.	
+mev19_090.scr:5	mev19_090.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	でも、ルミナシアとラザリスの\n世界ジルディアは、\n今は互いにぶつかり合って…	Yet Luminasia and Lazaris's world,\nZirdia, currently collide\nwith one another...	
+mev19_090.scr:6	mev19_090.scr	6	ニアタ	Niata Monad	personagem	CRLF x1	どうするか、腹は決まった様だな。\nディセンダー	It seems your mind is made up,\nDescender.	
+mev19_090.scr:7	mev19_090.scr	7	ニアタ	Niata Monad	personagem		では、戻ろうか…	Shall we return, then...?	
+mev19_100.scr:0	mev19_100.scr	0	ロックス	Rocks	personagem		お嬢様…、お帰りなさいませ！！	Milady... Welcome home!!	
+mev19_100.scr:1	mev19_100.scr	1	ロックス	Rocks	personagem	CRLF x1	本当に、無事で良かった。\n生きた心地がしませんでしたよ	I am so glad you are safe.\nI felt out of my wits with worry!	
+mev19_100.scr:2	mev19_100.scr	2	カノンノ	Kanonno Grassvalley	personagem		ただいま、ロックス	I'm back, Rocks.	
+mev19_100.scr:3	mev19_100.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	私に…、どうして世界の過去の\n記憶があるのか、わかったよ	I found out why memories of the world's\npast exist inside me.	
+mev19_100.scr:4	mev19_100.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	でも、ごめん。\n今は話せない	But I'm sorry.\nI can't talk about it now.	
+mev19_100.scr:5	mev19_100.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	たくさんの事があり過ぎて、\nどこから話せばいいのか\nわからないの	Too much happened,\nand I don't even know\nwhere to begin.	
+mev19_100.scr:6	mev19_100.scr	6	ロックス	Rocks	personagem	CRLF x1	そうですか…。\nいいんですよ	Is that so...?\nIt is quite alright.	
+mev19_100.scr:7	mev19_100.scr	7	ロックス	Rocks	personagem	CRLF x1	僕は…、お嬢様の過去より、\nこれからの方が大事だと思いますから	I believe the future is far more\nimportant for Milady than the past.	
+mev19_100.scr:8	mev19_100.scr	8	カノンノ	Kanonno Grassvalley	personagem		うん！	Yeah!	
+mev19_100.scr:9	mev19_100.scr	9	アンジュ	Ange Serena	personagem		本当に無事で良かった…	I'm so relieved you're unharmed...	
+mev19_100.scr:10	mev19_100.scr	10	アンジュ	Ange Serena	personagem	CRLF x2	でも、星晶が…ゆりかごかぁ。\nあなた達の話だと、いずれにしろ\nラザリスを封印する必要があるのね	Star Crystals are... a cradle, huh.\nFrom what you say, we still need\nto seal Lazaris either way.	
+mev19_100.scr:11	mev19_100.scr	11	カノンノ	Kanonno Grassvalley	personagem		………	.........	
+mev19_100.scr:12	mev19_100.scr	12	アンジュ	Ange Serena	personagem	CRLF x2	ルミナシアとジルディアが\n一緒に生きていける様になるまでの間よ。\n今はまだ理が違うのだもの	Until Luminasia and Zirdia learn\nto live together.\nOur laws differ for now.	
+mev19_100.scr:13	mev19_100.scr	13	アンジュ	Ange Serena	personagem	CRLF x2	わたし達ルミナシアの民もすすんで\nジルディアの為に変わって行かなきゃ\nならないでしょ？	We of Luminasia must also willingly\nchange for Zirdia's sake,\nmust we not?	
+mev19_100.scr:14	mev19_100.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	世界樹だけに頑張らせてちゃ\nいけないじゃない！	We can't leave all the hard work\nto the World Tree alone!	
+mev19_100.scr:15	mev19_100.scr	15	カノンノ	Kanonno Grassvalley	personagem		は、…はいっ！	Y-... Yes!	
+mev19_100.scr:16	mev19_100.scr	16	アンジュ	Ange Serena	personagem	CRLF x2	わたし達は世界に対し、いえ、\nルミナシア以外に存在する世界に\n対しても、責任を持たないといけないね	We have a duty to our world; no,\neven to worlds beyond Luminasia,\nwe must bear responsibility.	
+mev19_100.scr:17	mev19_100.scr	17	アンジュ	Ange Serena	personagem	CRLF x1	それにしても、世界樹の懐の深さには\n驚かされるなぁ…	Still, the depth of the World Tree\nnever ceases to amaze me...	
+mev19_100.scr:18	mev19_100.scr	18	ロックス	Rocks	personagem	CRLF x2	そうそう。\nよそのギルドからのお便りが\n届いてますよ	Oh yes.\nA letter has arrived\nfrom another guild.	
+mev19_100.scr:19	mev19_100.scr	19	ロックス	Rocks	personagem	CRLF x2	あのウズマキフスベ…、\n相当探して頂いた様なのですが、\n見つからなかったみたいです…	About that Whirl Puffball...\nThey searched exhaustively,\nyet could not find it...	
+mev19_100.scr:20	mev19_100.scr	20	アンジュ	Ange Serena	personagem		そう…	I see...	
+mev19_100.scr:21	mev19_100.scr	21	アンジュ	Ange Serena	personagem	CRLF x1	ま、だからといって\n弱気にはなれないもんね	Well, that's no reason\nto lose heart!	
+mev19_100.scr:22	mev19_100.scr	22	ロックス	Rocks	personagem		さあさ、お腹がすいたでしょう？	Come now, you must be famished, yes?	
+mev19_100.scr:23	mev19_100.scr	23	ロックス	Rocks	personagem	CRLF x1	食事を用意しています。\n食堂へどうぞ	A meal is prepared.\nPlease step into the dining hall.	
+mev19_100.scr:24	mev19_100.scr	24	アンジュ	Ange Serena	personagem	CRLF x2	行ってらっしゃい。\n今のあなた達に必要なのは、\nたっぷりの滋養だから	Off you go!\nWhat you need right now\nis plenty of nourishment.	
+mev19_110.scr:0	mev19_110.scr	0	カノンノ	Kanonno Grassvalley	personagem		何だか、まだクラクラするなぁ…	I still feel somewhat dizzy...	
+mev19_110.scr:1	mev19_110.scr	1	ニアタ	Niata Monad	personagem	CRLF x1	肉体と精神がまだ、\n同期していないのではないか？	Is your body not yet synchronized\nwith your spirit?	
+mev19_110.scr:2	mev19_110.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	うん、ちょっと変な感じがする。\nヴァンさんに教えてもらったあの方法で、\nまた戻ると思うから	Yeah, it feels a bit odd.\nWith that method Van taught me,\nI'm sure it'll settle back.	
+mev19_110.scr:3	mev19_110.scr	3	カノンノ	Kanonno Grassvalley	personagem		……………	..........	
+mev19_120.scr:0	mev19_120.scr	0	カノンノ	Kanonno Grassvalley	personagem		（あれ…？　視界が変だ）	(Huh...? My vision is strange.)	
+mev19_120.scr:1	mev19_120.scr	1	カノンノ	Kanonno Grassvalley	personagem		あっ…	Ah...	
+mev19_120.scr:2	mev19_120.scr	2	カノンノ	Kanonno Grassvalley	personagem		（まただ。ラングリースに行った時と同じ）	(Again. Just like when at Langriths.)	
+mev19_120.scr:3	mev19_120.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	（みんなのドクメントが見える。\n　食べ物にもドクメントがあるんだ…）	(I can see everyone's Documents.\nFood has a Document too...?)	
+mev19_120.scr:4	mev19_120.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	（今、私の意識と肉体がズレて、\n　見えてるのかな…）	(Is this visible because my mind\nand body are out of sync...?)	
+mev19_120.scr:5	mev19_120.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	（食べ物のドクメントが…、\n　ヒトのドクメントに移っていってる）	(The Document of food...\nis shifting into humans' Documents.)	
+mev19_120.scr:6	mev19_120.scr	6	カノンノ	Kanonno Grassvalley	personagem		（一つになっていってる！！）	(They are becoming one!!)	
+mev19_120.scr:7	mev19_120.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	（…命だ。\n　ドクメントって、命なんだ）	(...It's life.\nDocuments are life itself.)	
+mev19_130.scr:0	mev19_130.scr	0	ロックス	Rocks	personagem	CRLF x1	どうしたんですか、お嬢様。\n具合でも悪いんですか…？	What is the matter, Milady?\nAre you feeling unwell...?	
+mev19_130.scr:1	mev19_130.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ううん。\n私…、命を食べてるんだなぁって	No. I was just thinking...\nI'm eating life itself.	
+mev19_130.scr:2	mev19_130.scr	2	ロックス	Rocks	personagem	CRLF x1	そうですよ。\n食べるのは命を頂く事なんです	Indeed.\nTo eat is to partake in life.	
+mev19_130.scr:3	mev19_130.scr	3	ロックス	Rocks	personagem		みんな、命をもらってるんです	Everyone is granted life by it.	
+mev19_130.scr:4	mev19_130.scr	4	ロックス	Rocks	personagem	CRLF x1	だからいつも言いますよね？\nいただきます、ごちそうさま、って	That is why we always give thanks\nbefore and after a meal.	
+mev19_130.scr:5	mev19_130.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん…。\nいただきます	Yeah.\nThank you for the food.	
+mev19_130.scr:6	mev19_130.scr	6	カノンノ	Kanonno Grassvalley	personagem		…いただきます	...Thank you for this life.	
+mev19_130.scr:7	mev19_130.scr	7	カノンノ	Kanonno Grassvalley	personagem		（繋がっていくんだ。　命は…）	(It connects together. Life does...)	
+mev19_130.scr:8	mev19_130.scr	8	カノンノ	Kanonno Grassvalley	personagem		（命を…ありがとう）	(Thank you... for this life.)	
+mev19_140.scr:0	mev19_140.scr	0	ソフィ	Sophie	personagem	CRLF x1	みんな、ツリガネトンボ草の\nドクメントが組みあがったよ	Everyone, the Bell Dragonfly Herb's\nDocument is fully assembled!	
+mev19_140.scr:1	mev19_140.scr	1	しいな	Sheena Fujibayashi	personagem		本当かい？	Is that true?!	
+mev19_140.scr:2	mev19_140.scr	2	しいな	Sheena Fujibayashi	personagem		まさか、実現出来るなんてねえ！	To think it could actually be done!	
+mev19_140.scr:3	mev19_140.scr	3	ハロルド	Harold Berselius	personagem		喜んでもいられないわよ	We can't celebrate just yet.	
+mev19_140.scr:4	mev19_140.scr	4	ハロルド	Harold Berselius	personagem	CRLF x2	ジルディアのキバの増殖で、\n思った以上に世界の侵食が\n速くなってるらしいし	With Zirdia's Fangs multiplying,\nerosion seems to be advancing\nmuch faster than expected.	
+mev19_140.scr:5	mev19_140.scr	5	アスベル	Asbel Lhant	personagem	CRLF x1	ウズマキフスベも、\n見つかってないのにな…	And the Whirl Puffball hasn't been\nfound either...	
+mev19_140.scr:6	mev19_140.scr	6	アスベル	Asbel Lhant	personagem	CRLF x1	各地では大地を奪い合う為に、\nまた争いが見られる様になっている	Across the land, fighting has erupted\nagain over scraps of land.	
+mev19_140.scr:7	mev19_140.scr	7	アスベル	Asbel Lhant	personagem	CRLF x1	各地の一致団結も、\n侵食の恐怖を前に脆くも崩れているんだ	Regional solidarity has crumbled\nin the face of fear from erosion.	
+mev19_140.scr:8	mev19_140.scr	8	ラザリス	Lazaris	personagem	CRLF x2	僕を消した所で、ルミナシアの民は\nまた争いを始めるんだよ？\nわかりきってる事さ…	Even if you erase me, the people\nof Luminasia will wage war again!\nIt's so glaringly obvious...	
+mev19_140.scr:9	mev19_140.scr	9	ソフィ	Sophie	personagem	CRLF x1	あの侵食の原因となってるキバは、\nディセンダーであっても消せない…	Those Fangs causing the erosion cannot\nbe erased, even by a Descender...	
+mev19_140.scr:10	mev19_140.scr	10	ソフィ	Sophie	personagem	CRLF x1	でも、侵食はディセンダーの力で\n消す事が出来る…	Yet the erosion itself can be cleansed\nby the Descender's power...	
+mev19_140.scr:11	mev19_140.scr	11	ソフィ	Sophie	personagem		その力がみんなにあったら…	If only everyone possessed that power...	
+mev19_140.scr:12	mev19_140.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x1	そうだねえ。\n時間稼ぎにはなるかもしれないよね	Yeah.\nIt might buy us some time.	
+mev19_140.scr:13	mev19_140.scr	13	しいな	Sheena Fujibayashi	personagem	CRLF x1	ええと、思うんだけど、\n情報の転写って出来るんだろ？	Listen, I've been thinking:\ncan't data be transferred?	
+mev19_140.scr:14	mev19_140.scr	14	しいな	Sheena Fujibayashi	personagem	CRLF x2	ツリガネトンボ草の進化種を集めてた時\nみたいに、ディセンダーの情報を抜き出して\nその力が解明出来たとしたら	Like when we gathered evolved species,\nif we extract the Descender's data\nand demystify that power...	
+mev19_140.scr:15	mev19_140.scr	15	アスベル	Asbel Lhant	personagem		それは、無茶な話だ	That is utterly reckless.	
+mev19_140.scr:16	mev19_140.scr	16	ハロルド	Harold Berselius	personagem		ふむ〜…	Hrmmm~...	
+mev19_140.scr:17	mev19_140.scr	17	ハロルド	Harold Berselius	personagem	CRLF x1	やってみる価値はあるけど、\n危険な賭けでもあるわよ	It's worth a shot, but it's also\na dangerous gamble.	
+mev19_140.scr:18	mev19_140.scr	18	ハロルド	Harold Berselius	personagem	CRLF x1	能力の転写…か。\nちょっと、考えてみるわね	Transferring abilities, huh...?\nLet me mull it over a bit.	
+mev19_140.scr:19	mev19_140.scr	19	(sem caixa de nome)	(sem caixa de nome)	sem_caixa		ラザリスの言葉を思い出す	Recall Lazaris's words	
+mev19_140.scr:20	mev19_140.scr	20	(sem caixa de nome)	(sem caixa de nome)	sem_caixa		ラザリスの言葉を振り払う	Shake off Lazaris's words	
+mev19_150.scr:0	mev19_150.scr	0	アンジュ	Ange Serena	personagem		ええっ、そんな事が可能なの？	Eeeh?! Is that really possible?!	
+mev19_150.scr:1	mev19_150.scr	1	ハロルド	Harold Berselius	personagem	CRLF x1	やってみなくちゃ、わからないでしょ？\nただねぇ…	We won't know unless we try, will we?\nThough, well...	
+mev19_150.scr:2	mev19_150.scr	2	ハロルド	Harold Berselius	personagem	CRLF x2	ヒトのドクメントを、他人へ転写すると\n肉体の形態崩壊か溶解が起きるかも\nしれないのよね	Transferring a human's Document to\nanother might trigger bodily breakdown\nor liquefaction.	
+mev19_150.scr:3	mev19_150.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	ちょっと…。\nそれ全然大丈夫そうに感じないけど…	Hold on...\nThat doesn't sound safe in the least...!	
+mev19_150.scr:4	mev19_150.scr	4	ハロルド	Harold Berselius	personagem	CRLF x1	余計なドクメントが交ざるんだもの。\nそれくらいのリスクは想定出来るわ	Extraneous Documents get mixed in.\nThat degree of risk is to be expected!	
+mev19_150.scr:5	mev19_150.scr	5	ハロルド	Harold Berselius	personagem	CRLF x2	ヒトの手で行うソウルアルケミーでは\n安定性を欠くし、ここは\n機械でやってみよっかなって	Soul Alchemy by hand lacks stability,\nso I figure I'll do it\nwith a machine!	
+mev19_150.scr:6	mev19_150.scr	6	ハロルド	Harold Berselius	personagem	CRLF x2	で、その機械を作るのに、\n純粋にディセンダーの浄化能力だけを\n被験者に通す回路が必要なの	And to build that machine, I need\na circuit that channels only the pure\npurification power to the subject.	
+mev19_150.scr:7	mev19_150.scr	7	ハロルド	Harold Berselius	personagem	CRLF x1	で、その回路にはギベオンって鉱物が\n要るのよ	And for that circuit, I need a mineral\ncalled Gibeon!	
+mev19_150.scr:8	mev19_150.scr	8	ロニ	Loni Dunamis	personagem		ギベオン？	Gibeon?	
+mev19_150.scr:9	mev19_150.scr	9	ハロルド	Harold Berselius	personagem	CRLF x2	ギベオンは隕石に含まれるんだけど、\nこれが人と人のドクメントを\nスムーズに繋ぐ触媒になるっぽいの	Gibeon is found in meteorites, and it\nseems to smoothly bridge Documents\nbetween two people!	
+mev19_150.scr:10	mev19_150.scr	10	ロニ	Loni Dunamis	personagem	CRLF x2	隕石…？\nそりゃ、空から降ってくるのを\n待つしかないんじゃないか？	Meteorites...?\nDon't we just have to wait around\nfor one to fall from the sky?!	
+mev19_150.scr:11	mev19_150.scr	11	ハロルド	Harold Berselius	personagem	CRLF x2	んーん、ルバーブ連山の山頂が、\n何年か前に隕石で欠けたっていう\n事件があったし	Nope! A few years back, the summit\nof the Rhubarb Mountains was chipped\nby a meteorite strike!	
+mev19_150.scr:12	mev19_150.scr	12	ハロルド	Harold Berselius	personagem	CRLF x1	ひょっとしたら、\nそこにあるかもしれないじゃない？	Who knows, it might just be\nlying there, right?	
+mev19_150.scr:13	mev19_150.scr	13	ハロルド	Harold Berselius	personagem	CRLF x1	じゃ、そんなワケで依頼の登録\nヨロシク〜♪	So with that in mind, take care of\nregistering the request for me!	

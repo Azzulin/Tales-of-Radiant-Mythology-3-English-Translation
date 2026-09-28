@@ -1,0 +1,2319 @@
+bloco,va_ponteiro,va_string,bytes_jp,traducao,id,original,arena_ini,arena_fim
+arena__s34,0x08D184C8,0x08D15058,4,None,arena#0,無し,0x08D17384,0x08D1745F
+arena__s24,0x08D1852C,0x08D15064,28,Exhibition Match (1P),arena#1,エキシビションバトル（１人）,0x08D16154,0x08D161AD
+arena__s26,0x08D18530,0x08D15084,52,A challenger calls out! Face them?,arena#2,キミをご指名に挑戦者が来てるよ！　相手してみるかい？,0x08D16280,0x08D1640B
+arena__s23,0x08D18590,0x08D150BC,28,Exhibition Match (2P),arena#3,エキシビションバトル（２人）,0x08D15EBC,0x08D16111
+arena__s29,0x08D18594,0x08D150DC,58,Two challengers call out! Face them?,arena#4,キミをご指名に二人の挑戦者が来てるよ！　相手してみるかい？,0x08D16A78,0x08D16E79
+arena__s7,0x08D185F4,0x08D15118,28,Exhibition Match (3P),arena#5,エキシビションバトル（３人）,0x08D154BC,0x08D154D9
+arena__s29,0x08D185F8,0x08D15138,58,Three challengers call out! Face them?,arena#6,キミをご指名に三人の挑戦者が来てるよ！　相手してみるかい？,0x08D16A78,0x08D16E79
+arena__s8,0x08D18658,0x08D15174,28,Exhibition Match (4P),arena#7,エキシビションバトル（４人）,0x08D15528,0x08D15545
+arena__s23,0x08D1865C,0x08D15194,58,Four challengers call out! Face them?,arena#8,キミをご指名に四人の挑戦者が来てるよ！　相手してみるかい？,0x08D15EBC,0x08D16111
+arena__s33,0x08D186BC,0x08D151D0,14,Battle-Hardened Heroes,arena#9,歴戦の英雄たち,0x08D170A4,0x08D17347
+arena__s1,0x08D18720,0x08D15228,16,Mask of Truth & Lies,arena#10,真実と偽りの仮面,0x08D15058,0x08D151DF
+arena__s29,0x08D18784,0x08D15288,18,Justice and Chivalry,arena#11,己の正義と騎士道と,0x08D16A78,0x08D16E79
+arena__s36,0x08D187E8,0x08D152F8,12,Meaning of Life,arena#12,生まれし意味,0x08D1762C,0x08D1772F
+arena__s24,0x08D1884C,0x08D15358,12,Guardians of Tree,arena#13,世界樹の防人,0x08D16154,0x08D161AD
+arena__s1,0x08D188B0,0x08D153CC,10,Cherry Blossoms!,arena#14,桜花絢爛！,0x08D15058,0x08D151DF
+arena__s35,0x08D18914,0x08D15430,30,Items? I have them!,arena#15,アイテムなぞ…僕も持ってるよ！,0x08D174BC,0x08D175E7
+arena__s51,0x08D18978,0x08D154BC,28,2010! Heroes Top 3,arena#16,２０１０！ヒーローズベスト３,0x08D18150,0x08D181AF
+arena__s32,0x08D189DC,0x08D15528,28,2010! Heroines Top 3,arena#17,２０１０！ヒロインズベスト３,0x08D17038,0x08D1704D
+arena__s9,0x08D18A40,0x08D15598,20,Otherworld Descender,arena#18,異世界のディセンダー,0x08D15598,0x08D155AD
+arena__s30,0x08D18AA4,0x08D15604,8,King of Filth,arena#19,穢れの王,0x08D16EBC,0x08D16F8D
+arena__s33,0x08D18B08,0x08D15668,14,Clash! Spacetime Hero!,arena#20,対決！時空剣士,0x08D170A4,0x08D17347
+arena__s53,0x08D18B6C,0x08D156C0,8,Blazing Sword,arena#21,爆炎の剣,0x08D1823C,0x08D1824B
+arena__s2,0x08D18BD0,0x08D15710,12,Bearer of Aurora,arena#22,極光秘めし者,0x08D15228,0x08D15239
+arena__s55,0x08D18C34,0x08D15768,10,Hero Aspirants!,arena#23,英雄志願！,0x08D182F0,0x08D18301
+arena__s1,0x08D18C98,0x08D157CC,16,Twin Swords = 2x Power!,arena#24,双剣＝２倍強し！,0x08D15058,0x08D151DF
+arena__s27,0x08D18CFC,0x08D15834,8,Cold Flame,arena#25,冷たき炎,0x08D1645C,0x08D16623
+arena__s39,0x08D18D60,0x08D158A8,10,Radiant Souga,arena#26,輝ける滄我,0x08D17BFC,0x08D17C0B
+arena__s13,0x08D18DC4,0x08D15908,12,Hidden Power,arena#27,秘められし力,0x08D15908,0x08D15915
+arena__s3,0x08D18E28,0x08D1597C,10,Wild Spirit!,arena#28,野生の魂！,0x08D15288,0x08D1529B
+arena__s1,0x08D18E8C,0x08D159DC,14,Gentle Flame Warrior,arena#29,優しき炎の戦士,0x08D15058,0x08D151DF
+arena__s16,0x08D18EF0,0x08D15A50,12,The Other Me,arena#30,もう一人の僕,0x08D15A50,0x08D15A5D
+arena__s17,0x08D18F54,0x08D15AB4,14,Justice Upheld,arena#31,貫ぬかれし正義,0x08D15AB4,0x08D15AC3
+arena__s33,0x08D18FB8,0x08D15B24,12,Kindhearted Swordsman,arena#32,心優しき剣士,0x08D170A4,0x08D17347
+arena__s52,0x08D1901C,0x08D15B80,10,Knight's Wish,arena#33,騎士の本願,0x08D181F0,0x08D181FF
+arena__s36,0x08D19080,0x08D15BD4,14,Girl of the Future,arena#34,未来を描く少女,0x08D1762C,0x08D1772F
+arena__s27,0x08D190E4,0x08D15C3C,14,Splendid Challenger,arena#35,華麗なる挑戦者,0x08D1645C,0x08D16623
+arena__s1,0x08D19148,0x08D15C9C,10,Champion Arrives!,arena#36,王者降臨！,0x08D15058,0x08D151DF
+arena__s29,0x08D191AC,0x08D15CF8,20,War-Crazy: Deathmatch,arena#37,〜戦狂〜死闘するもの,0x08D16A78,0x08D16E79
+arena__s20,0x08D19210,0x08D15D5C,14,White Devil,arena#38,ホワイトデビル,0x08D15D5C,0x08D15D6B
+arena__s21,0x08D19274,0x08D15DC8,23,The Other Descender,arena#39,もう一人のディセンダー ,0x08D15DC8,0x08D15DE0
+arena__s22,0x08D192D8,0x08D15E3C,18,Fight on! Bakers!,arena#40,たたかえ！パン職人,0x08D15E3C,0x08D15E4F
+arena__s23,0x08D1933C,0x08D15EBC,10,Legend Scion,arena#41,伝説の末裔,0x08D15EBC,0x08D16111
+arena__s23,0x08D19340,0x08D15EC8,54,Classic hero and heroine team enters!,arena#42,まさに王道、まさに正統派のヒーロー＆ヒロインが参戦だ！,0x08D15EBC,0x08D16111
+arena__s1,0x08D193A0,0x08D15F00,10,Destiny Warriors,arena#43,運命の戦士,0x08D15058,0x08D151DF
+arena__s23,0x08D193A4,0x08D15F0C,40,(verbatim),arena#44,不思議な剣を携えた、運命の二人が参戦だ！,0x08D15EBC,0x08D16111
+arena__s23,0x08D19404,0x08D15F38,10,Eternal Nostalgia,arena#45,永遠の望郷,0x08D15EBC,0x08D16111
+arena__s23,0x08D19408,0x08D15F44,48,In perfect battle sync! Two childhood friends enter the ring!,arena#46,戦闘のリズムもぴったり！　幼馴染の二人が参戦だ！,0x08D15EBC,0x08D16111
+arena__s23,0x08D19468,0x08D15F78,18,Goddess-Chosen Heroes,arena#47,女神に選ばれし英雄,0x08D15EBC,0x08D16111
+arena__s23,0x08D1946C,0x08D15F8C,36,(verbatim),arena#48,異世界からの英雄志願がペアで参戦だ！,0x08D15EBC,0x08D16111
+arena__s33,0x08D194CC,0x08D15FB4,14,World Renewal Travelers,arena#49,世界再生の旅人,0x08D170A4,0x08D17347
+arena__s23,0x08D194D0,0x08D15FC4,44,(verbatim),arena#50,二刀流の剣士と天使の不思議なペアが参戦だ！！,0x08D15EBC,0x08D16111
+arena__s58,0x08D19530,0x08D15FF4,4,Rime,arena#51,霧氷,0x08D184C0,0x08D184C5
+arena__s23,0x08D19534,0x08D15FFC,40,(verbatim),arena#52,氷と雨を操る二人が闘技場にやって来たよ！,0x08D15EBC,0x08D16111
+arena__s23,0x08D19594,0x08D16028,10,Raging Souga,arena#53,猛りの滄我,0x08D15EBC,0x08D16111
+arena__s23,0x08D19598,0x08D16034,46,(verbatim),arena#54,今日は兄妹で腕試し！　風変わりなペアが参戦だ！,0x08D15EBC,0x08D16111
+arena__s23,0x08D195F8,0x08D16064,12,Resonating Duo,arena#55,共鳴する二人,0x08D15EBC,0x08D16111
+arena__s29,0x08D195FC,0x08D16074,60,Rich boy and stoic beauty join forces!,arena#56,わがままお坊ちゃまとストイックなビューティがペアで参戦だよ！,0x08D16A78,0x08D16E79
+arena__s1,0x08D1965C,0x08D160B4,12,Beauty & the Beast?,arena#57,美女と野獣？,0x08D15058,0x08D151DF
+arena__s23,0x08D19660,0x08D160C4,58,"They bicker, but unite in the ring!",arena#58,いつもはケンカが絶えない二人だけど、今日は協力して参戦さ！,0x08D15EBC,0x08D16111
+arena__s36,0x08D196C0,0x08D16100,16,Inherited Past Life,arena#59,受け継がれし前世,0x08D1762C,0x08D1772F
+arena__s29,0x08D19724,0x08D16154,16,Knight of Ratatosk,arena#60,ラタトスクの騎士,0x08D16A78,0x08D16E79
+arena__s24,0x08D19728,0x08D16168,54,Date at colosseum? A couple enters!,arena#61,今日のデートは闘技場？　カップル（？）で参戦だってさ！,0x08D16154,0x08D161AD
+arena__s23,0x08D19788,0x08D161A0,12,Faith in Justice,arena#62,正義を信じて,0x08D15EBC,0x08D16111
+arena__s34,0x08D197EC,0x08D161F4,10,Touching Hearts,arena#63,ふれあう心,0x08D17384,0x08D1745F
+arena__s25,0x08D197F0,0x08D16200,38,(verbatim),arena#64,ピュアなハートの二人が腕試しに参戦だ！,0x08D161F4,0x08D16235
+arena__s28,0x08D19850,0x08D16228,12,Things to Protect,arena#65,守りたいもの,0x08D16660,0x08D16A61
+arena__s26,0x08D198B4,0x08D16280,22,Friends and Rivals,arena#66,友としてライバルとして,0x08D16280,0x08D1640B
+arena__s26,0x08D198B8,0x08D16298,56,Best rivals enter the ultimate match!,arena#67,親友であり、ライバルでもあるベストマッチな二人が参戦だ！,0x08D16280,0x08D1640B
+arena__s33,0x08D19918,0x08D162D4,14,Pierce! A Century Love,arena#68,貫け！百年の恋,0x08D170A4,0x08D17347
+arena__s23,0x08D1991C,0x08D162E4,60,"Fighting like cats and dogs, They join!",arena#69,犬猿の仲のこの二人！　ホントは気になる関係の二人が参戦だい！,0x08D15EBC,0x08D16111
+arena__s28,0x08D1997C,0x08D16324,18,Team Phantasia,arena#70,チームファンタジア,0x08D16660,0x08D16A61
+arena__s26,0x08D19980,0x08D16338,58,Inseparable quartet joins the ring!,arena#71,チームワークはバッチリさ！　いつも一緒のこの四人が参戦だ！,0x08D16280,0x08D1640B
+arena__s1,0x08D199E0,0x08D16374,12,Irreconcilable Duo,arena#72,相容れぬ２人,0x08D15058,0x08D151DF
+arena__s26,0x08D199E4,0x08D16384,50,Polar opposites enter the fray!,arena#73,性格も闘い方も真逆の二人がコンビを組んで参戦だい！,0x08D16280,0x08D1640B
+arena__s26,0x08D19A44,0x08D163B8,12,Heartbreaking Crush,arena#74,切ない片思い,0x08D16280,0x08D1640B
+arena__s33,0x08D19A48,0x08D163C8,50,At least when fighting together! A poignant pair joins the fray!,arena#75,せめて闘う時だけは！　切ない関係の二人が参戦だよ！,0x08D170A4,0x08D17347
+arena__s1,0x08D19AA8,0x08D163FC,14,Heartbreaking Crush 2,arena#76,切ない片思い２,0x08D15058,0x08D151DF
+arena__s11,0x08D19B0C,0x08D1645C,8,Endless Yearning,arena#77,一日千秋,0x08D157CC,0x08D157DD
+arena__s27,0x08D19B10,0x08D16468,44,(verbatim),arena#78,同じ弓の師のもとで修行したこの二人が参戦だ！,0x08D1645C,0x08D16623
+arena__s6,0x08D19B70,0x08D16498,18,Team Destiny,arena#79,チームデスティニー,0x08D15430,0x08D1544F
+arena__s27,0x08D19B74,0x08D164AC,40,(verbatim),arena#80,運命に導かれ、出会ったこの四人が参戦だ！,0x08D1645C,0x08D16623
+arena__s33,0x08D19BD4,0x08D164D8,12,Aurora of Light and Dark,arena#81,光と闇の極光,0x08D170A4,0x08D17347
+arena__s27,0x08D19BD8,0x08D164E8,40,(verbatim),arena#82,光と闇、二つの力が揃って闘技場に参戦だ！,0x08D1645C,0x08D16623
+arena__s26,0x08D19C38,0x08D16514,8,Nostalgic Friends,arena#83,望郷の友,0x08D16280,0x08D1640B
+arena__s27,0x08D19C3C,0x08D16520,40,(verbatim),arena#84,幼い頃からいつも一緒のこの三人が参戦だ！,0x08D1645C,0x08D16623
+arena__s44,0x08D19C9C,0x08D1654C,12,Captain and Crew,arena#85,船長と子分達,0x08D17E98,0x08D17EA9
+arena__s27,0x08D19CA0,0x08D1655C,52,Van Eltia captain arrives with her crew!,arena#86,あのバンエルティア号の船長が子分を引き連れて参戦だ！,0x08D1645C,0x08D16623
+arena__s26,0x08D19D00,0x08D16594,16,Team Eternia,arena#87,チームエターニア,0x08D16280,0x08D1640B
+arena__s27,0x08D19D04,0x08D165A8,50,"Always lively, quartet gets serious!",arena#88,いつもにぎやかのんびり四人が今日は本気で参戦だい！,0x08D1645C,0x08D16623
+arena__s12,0x08D19D64,0x08D165DC,6,Sworn Bros,arena#89,義兄弟,0x08D158A8,0x08D158B3
+arena__s27,0x08D19D68,0x08D165E4,40,(verbatim),arena#90,人情厚い、技も熱い義兄弟の二人が参戦だ！,0x08D1645C,0x08D16623
+arena__s19,0x08D19DC8,0x08D16610,18,Cobra Twist of Love,arena#91,愛のコブラツイスト,0x08D15CF8,0x08D15D0D
+arena__s41,0x08D19E2C,0x08D16660,20,Team Destiny 2,arena#92,チームデスティニー２,0x08D17C98,0x08D17CAB
+arena__s28,0x08D19E30,0x08D16678,40,(verbatim),arena#93,異世界からやって来たこの四人が参戦だよ！,0x08D16660,0x08D16A61
+arena__s33,0x08D19E90,0x08D166A4,12,Clash! Like Father & Son,arena#94,対決！親子鷹,0x08D170A4,0x08D17347
+arena__s28,0x08D19E94,0x08D166B4,34,(verbatim),arena#95,まるで親子の様なこの二人が参戦だ！,0x08D16660,0x08D16A61
+arena__s28,0x08D19EF4,0x08D166D8,12,Chosen of World Tree,arena#96,世界樹の神子,0x08D16660,0x08D16A61
+arena__s28,0x08D19EF8,0x08D166E8,40,"Blessed by mana, this mysterious duo joins the fray!",arena#97,マナの加護を強く受けた謎の二人が参戦だ！,0x08D16660,0x08D16A61
+arena__s28,0x08D19F58,0x08D16714,14,Another World,arena#98,もう一つの世界,0x08D16660,0x08D16A61
+arena__s28,0x08D19F5C,0x08D16724,46,(verbatim),arena#99,戦い方も性格もまるで違う個性的な三人が参戦だ！,0x08D16660,0x08D16A61
+arena__s28,0x08D19FBC,0x08D16754,20,Hellish Extra Class,arena#100,もっと地獄な課外授業,0x08D16660,0x08D16A61
+arena__s28,0x08D19FC0,0x08D1676C,48,(verbatim),arena#101,こんなのアリ？　教師と生徒で闘技場に参戦だって！,0x08D16660,0x08D16A61
+arena__s28,0x08D1A020,0x08D167A0,18,Team Symphonia,arena#102,チームシンフォニア,0x08D16660,0x08D16A61
+arena__s28,0x08D1A024,0x08D167B4,42,(verbatim),arena#103,響きあうチームワークを見せる四人が参戦だ！,0x08D16660,0x08D16A61
+arena__s36,0x08D1A084,0x08D167E0,16,Hot-Blooded Buddies,arena#104,熱血！友情コンビ,0x08D1762C,0x08D1772F
+arena__s28,0x08D1A088,0x08D167F4,42,(verbatim),arena#105,拳で語り合う友情パワーでこの二人が参戦だ！,0x08D16660,0x08D16A61
+arena__s18,0x08D1A0E8,0x08D16820,10,Tragic Destiny,arena#106,悲しき運命,0x08D15BD4,0x08D15BE3
+arena__s28,0x08D1A0EC,0x08D1682C,30,(verbatim),arena#107,雨と鋼の力で挑む二人が参戦だ！,0x08D16660,0x08D16A61
+arena__s40,0x08D1A14C,0x08D1684C,14,Team Rebirth,arena#108,チームリバース,0x08D17C4C,0x08D17C59
+arena__s28,0x08D1A150,0x08D1685C,50,(verbatim),arena#109,遠くヘーゼル村から不思議な力を秘めた四人が参戦だ！,0x08D16660,0x08D16A61
+arena__s28,0x08D1A1B0,0x08D16890,12,Start of the Story,arena#110,物語の始まり,0x08D16660,0x08D16A61
+arena__s28,0x08D1A1B4,0x08D168A0,54,Two sheriff-like officers enter!,arena#111,元は保安官っぽい（？）キャリアを持つ二人が参戦だって！,0x08D16660,0x08D16A61
+arena__s28,0x08D1A214,0x08D168D8,18,Light Dragon & Fire,arena#112,光の龍と不可視の焔,0x08D16660,0x08D16A61
+arena__s28,0x08D1A218,0x08D168EC,36,(verbatim),arena#113,格闘家と忍者のダブルパンチで参戦だ！,0x08D16660,0x08D16A61
+arena__s54,0x08D1A278,0x08D16914,12,Sene-Sene and Me,arena#114,セネセネと私,0x08D182A0,0x08D182B1
+arena__s28,0x08D1A27C,0x08D16924,40,(verbatim),arena#115,ある意味、静と動の妙なコンビが参戦だよ！,0x08D16660,0x08D16A61
+arena__s33,0x08D1A2DC,0x08D16950,14,Stone Princess & Water,arena#116,石の姫＆水の姫,0x08D170A4,0x08D17347
+arena__s33,0x08D1A2E0,0x08D16960,50,"One is a pro swimmer, the other sinks like a stone! They join!",arena#117,かたや泳ぎが得意でかたやカナヅチの二人が参戦だよ！,0x08D170A4,0x08D17347
+arena__s28,0x08D1A340,0x08D16994,26,Hero & Double Heroines,arena#118,ヒーロー＆ダブル・ヒロイン,0x08D16660,0x08D16A61
+arena__s28,0x08D1A344,0x08D169B0,46,(verbatim),arena#119,格闘家セネル・クーリッジが両手に花で参戦だよ！,0x08D16660,0x08D16A61
+arena__s28,0x08D1A3A4,0x08D169E0,20,Team Legendia,arena#120,チームレジェンディア,0x08D16660,0x08D16A61
+arena__s28,0x08D1A3A8,0x08D169F8,42,(verbatim),arena#121,彼らの絆は伝説級！　今日は四人で参戦だい！,0x08D16660,0x08D16A61
+arena__s1,0x08D1A408,0x08D16A24,14,Fresh Blood & Wishes,arena#122,鮮血と儚き想い,0x08D15058,0x08D151DF
+arena__s28,0x08D1A40C,0x08D16A34,44,(verbatim),arena#123,理想を目指して歩み行く、高貴な二人が参戦だ！,0x08D16660,0x08D16A61
+arena__s29,0x08D1A470,0x08D16A78,46,Royal Luke enters the fray today with his bodyguard in tow!,arena#124,王族のルークが、今日は用心棒を連れて参戦だよ！,0x08D16A78,0x08D16E79
+arena__s30,0x08D1A4D0,0x08D16AA8,10,Master and Disciple,arena#125,師と弟子と,0x08D16EBC,0x08D16F8D
+arena__s29,0x08D1A4D4,0x08D16AB4,38,(verbatim),arena#126,アルバート流の使い手が師弟で参戦だよ！,0x08D16A78,0x08D16E79
+arena__s29,0x08D1A534,0x08D16ADC,12,Conflicting Bloodline,arena#127,相容れぬ血縁,0x08D16A78,0x08D16E79
+arena__s35,0x08D1A538,0x08D16AEC,54,Brother and sister challenge you!,arena#128,兄と妹で立ちはだかるぞ！　ミステリアスな兄妹が参戦だ！,0x08D174BC,0x08D175E7
+arena__s28,0x08D1A598,0x08D16B24,12,Team Abyss,arena#129,チームアビス,0x08D16660,0x08D16A61
+arena__s29,0x08D1A59C,0x08D16B34,46,Royalty from the Raima Kingdom arrives with bodyguards in tow!,arena#130,ライマ国の王族が、用心棒を連れて参戦だってさ！,0x08D16A78,0x08D16E79
+arena__s28,0x08D1A5FC,0x08D16B64,12,Overlord & His Blade,arena#131,魔王とその剣,0x08D16660,0x08D16A61
+arena__s29,0x08D1A600,0x08D16B74,36,(verbatim),arena#132,優等生と不良の異色コンビが参戦だよ！,0x08D16A78,0x08D16E79
+arena__s27,0x08D1A660,0x08D16B9C,22,Mercenary & Client,arena#133,傭兵とそのクライアント,0x08D1645C,0x08D16623
+arena__s29,0x08D1A664,0x08D16BB4,36,(verbatim),arena#134,聖職者と傭兵の異色コンビが参戦だよ！,0x08D16A78,0x08D16E79
+arena__s30,0x08D1A6C4,0x08D16BDC,16,Team Innocence,arena#135,チームイノセンス,0x08D16EBC,0x08D16F8D
+arena__s33,0x08D1A6C8,0x08D16BF0,48,The Ad Libitum leader arrives with members ready for battle!,arena#136,アドリビトムのリーダーがメンバーを連れて参戦だ！,0x08D170A4,0x08D17347
+arena__s30,0x08D1A728,0x08D16C24,20,Secret Longing Blade,arena#137,その剣、秘めたる想い,0x08D16EBC,0x08D16F8D
+arena__s29,0x08D1A72C,0x08D16C3C,36,(verbatim),arena#138,不思議な業を背負った二人が参戦だよ！,0x08D16A78,0x08D16E79
+arena__s30,0x08D1A78C,0x08D16C64,16,Team Ratatosk,arena#139,チームラタトスク,0x08D16EBC,0x08D16F8D
+arena__s35,0x08D1A790,0x08D16C78,56,"They clash, yet click in battle!",arena#140,不協和音な感じだけど、なぜか響き合うこの三人が参戦だよ！,0x08D174BC,0x08D175E7
+arena__s26,0x08D1A7F0,0x08D16CB4,10,Sword and Sorcery,arena#141,剣と魔導と,0x08D16280,0x08D1640B
+arena__s29,0x08D1A7F4,0x08D16CC0,52,"Sharp tongues, yet They fit together!",arena#142,口は悪いが、チームワークは肌が合うこの二人が参戦だ！,0x08D16A78,0x08D16E79
+arena__s29,0x08D1A854,0x08D16CF8,12,Pierce with Justice!,arena#143,正義で貫け！,0x08D16A78,0x08D16E79
+arena__s29,0x08D1A858,0x08D16D08,42,(verbatim),arena#144,余裕のオトナな雰囲気でこの二人が参戦だよ！,0x08D16A78,0x08D16E79
+arena__s27,0x08D1A8B8,0x08D16D34,18,Princess Guard,arena#145,プリンセス・ガード,0x08D1645C,0x08D16623
+arena__s29,0x08D1A8BC,0x08D16D48,40,(verbatim),arena#146,ガルバンゾ国のお姫様とその護衛が参戦だ！,0x08D16A78,0x08D16E79
+arena__s29,0x08D1A91C,0x08D16D74,12,"I Love You, Babe!",arena#147,愛してるぜ！,0x08D16A78,0x08D16E79
+arena__s29,0x08D1A920,0x08D16D84,40,"Caught up in the strange mood, this unusual quartet enters!",arena#148,何だか雰囲気に押された妙な四人が参戦だ！,0x08D16A78,0x08D16E79
+arena__s28,0x08D1A980,0x08D16DB0,18,Team Vesperia,arena#149,チームヴェスペリア,0x08D16660,0x08D16A61
+arena__s29,0x08D1A984,0x08D16DC4,44,(verbatim),arena#150,信じた正義を熱く鋭く貫く四人が参戦だーい！　,0x08D16A78,0x08D16E79
+arena__s29,0x08D1A9E4,0x08D16DF4,12,Overprotective Guardian,arena#151,（過）保護者,0x08D16A78,0x08D16E79
+arena__s35,0x08D1A9E8,0x08D16E04,58,Crashing in to protect his sister!,arena#152,妹大事さに無理やり乱入、美しきかな…な、兄妹二人が参戦だ！,0x08D174BC,0x08D175E7
+arena__s28,0x08D1AA48,0x08D16E40,12,Team Hearts,arena#153,チームハーツ,0x08D16660,0x08D16A61
+arena__s29,0x08D1AA4C,0x08D16E50,30,(verbatim),arena#154,繋がる心を持ちし三人が参戦だ！,0x08D16A78,0x08D16E79
+arena__s27,0x08D1AAAC,0x08D16E70,8,Childhood Friends,arena#155,幼馴染み,0x08D1645C,0x08D16623
+arena__s35,0x08D1AB10,0x08D16EBC,16,Team Graces,arena#156,チームグレイセス,0x08D174BC,0x08D175E7
+arena__s34,0x08D1AB14,0x08D16ED0,50,"Searching for true strength, trio joins!",arena#157,守る強さの答えを見つける為に、この三人が参戦だい！,0x08D17384,0x08D1745F
+arena__s14,0x08D1AB74,0x08D16F04,6,My Sister!,arena#158,妹よ！,0x08D1597C,0x08D15987
+arena__s33,0x08D1AB78,0x08D16F0C,58,Start them bragging about their sisters and they never stop! They join!,arena#159,妹自慢を語らせたらもう止まらない！　そんな二人が参戦だよ！,0x08D170A4,0x08D17347
+arena__s5,0x08D1ABD8,0x08D16F48,6,Mercenaries,arena#160,傭兵達,0x08D15358,0x08D15365
+arena__s30,0x08D1ABDC,0x08D16F50,44,(verbatim),arena#161,名うての傭兵がタッグを組んで闘技場に参戦だ！,0x08D16EBC,0x08D16F8D
+arena__s33,0x08D1AC3C,0x08D16F80,12,Like Father & Child?,arena#162,まるで親子？,0x08D170A4,0x08D17347
+arena__s31,0x08D1ACA0,0x08D16FD8,16,Bread & PANG!,arena#163,パン＆ＰＡＮＧ！,0x08D16FD8,0x08D16FE9
+arena__s34,0x08D1AD04,0x08D17038,20,RING! RING!,arena#164,ＲＩＮＧ！ＲＩＮＧ！,0x08D17384,0x08D1745F
+arena__s30,0x08D1AD68,0x08D170A4,20,Thou Shalt Not Anger,arena#165,汝、怒らせるべからず,0x08D16EBC,0x08D16F8D
+arena__s28,0x08D1AD6C,0x08D170BC,58,"They seem timid, yet fight fiercely!",arena#166,頼りなさそうだけれど、武器を持ったら大変身の二人が参戦だ！,0x08D16660,0x08D16A61
+arena__s10,0x08D1ADCC,0x08D170F8,8,Serious Duel,arena#167,真剣勝負,0x08D15710,0x08D1571D
+arena__s26,0x08D1ADD0,0x08D17104,58,"Different paths, both aid the weak!",arena#168,お互い道は違うとも、弱きを助ける思いは同じの二人が参戦だ！,0x08D16280,0x08D1640B
+arena__s33,0x08D1AE30,0x08D17140,12,Cherry Blossom Fists,arena#169,桜舞い散る拳,0x08D170A4,0x08D17347
+arena__s34,0x08D1AE34,0x08D17150,52,Slender punch power! Brawler girls join!,arena#170,華奢な体でゴーゴーパンチ！　武闘派ガールズの参戦だ！,0x08D17384,0x08D1745F
+arena__s36,0x08D1AE94,0x08D17188,20,Rogue Knight Fierce Cut,arena#171,はぐれ騎士〜激闘編〜,0x08D1762C,0x08D1772F
+arena__s23,0x08D1AE98,0x08D171A0,62,"Even unknighted, chivalry burns!",arena#172,たとえ騎士の道を行かずとも！　騎士の心を秘めた二人が参戦だよ！,0x08D15EBC,0x08D16111
+arena__s29,0x08D1AEF8,0x08D171E0,8,Those in Shadow,arena#173,忍ぶもの,0x08D16A78,0x08D16E79
+arena__s30,0x08D1AEFC,0x08D171EC,40,A colosseum first!! A shinobi trio enters the arena!!,arena#174,闘技場初だよ！！　忍び三人衆が参戦だ！！,0x08D16EBC,0x08D16F8D
+arena__s27,0x08D1AF5C,0x08D17218,22,Neo Generations,arena#175,ネオジェネレーションズ,0x08D1645C,0x08D16623
+arena__s36,0x08D1AF60,0x08D17230,58,Neo-Gen: Ad Libitum squad arrives!,arena#176,略してネオジェネ！　アドリビトムから三人組チームが参戦だ！,0x08D1762C,0x08D1772F
+arena__s26,0x08D1AFC0,0x08D1726C,24,Pocket Generation,arena#177,ポケットジェネレーション,0x08D16280,0x08D1640B
+arena__s29,0x08D1AFC4,0x08D17288,58,Poke-Gen: Ad Libitum squad arrives!,arena#178,略してポケジェネ！　アドリビトムから三人組チームが参戦だ！,0x08D16A78,0x08D16E79
+arena__s27,0x08D1B024,0x08D172C4,14,Royal Team,arena#179,ロイヤルチーム,0x08D1645C,0x08D16623
+arena__s35,0x08D1B028,0x08D172D4,40,A dazzling trio of royal celebrities enters the arena!,arena#180,眩しいロイヤルセレブリティ三人が参戦だ！,0x08D174BC,0x08D175E7
+arena__s45,0x08D1B088,0x08D17300,10,Enigmatic Trio,arena#181,謎多き３人,0x08D17EFC,0x08D17F0B
+arena__s33,0x08D1B08C,0x08D1730C,36,A mysterious trio shrouded in secrecy steps into the fray!,arena#182,謎多きミステリアス三人衆が参戦だよ！,0x08D170A4,0x08D17347
+arena__s29,0x08D1B0EC,0x08D17334,18,Hot-Blooded Siscons!,arena#183,熱血兄バカ３人衆！,0x08D16A78,0x08D16E79
+arena__s50,0x08D1B150,0x08D17384,10,Piercing Spear,arena#184,貫かれし槍,0x08D18104,0x08D18113
+arena__s34,0x08D1B154,0x08D17390,50,"Sometimes bold, three spearmen enter!",arena#185,時には豪快に、時には鋭く、槍使い三人衆が参戦だよ！,0x08D17384,0x08D1745F
+arena__s1,0x08D1B1B4,0x08D173C4,10,Strongest Sisters,arena#186,最強の妹達,0x08D15058,0x08D151DF
+arena__s34,0x08D1B1B8,0x08D173D0,52,We won't lose! The sisters enter!,arena#187,お兄ちゃんには負けないよ！　最強シスターズが参戦だ！,0x08D17384,0x08D1745F
+arena__s34,0x08D1B218,0x08D17408,16,Inhuman Beings,arena#188,人ならざりしもの,0x08D17384,0x08D1745F
+arena__s26,0x08D1B21C,0x08D1741C,54,Somewhat eerie trio steps up to fight!,arena#189,どこか不思議？　エキゾチックな雰囲気の三人が参戦だよ！,0x08D16280,0x08D1640B
+arena__s27,0x08D1B27C,0x08D17454,10,Mad Science,arena#190,狂った科学,0x08D1645C,0x08D16623
+arena__s7,0x08D1B2E0,0x08D174BC,12,MONEY!,arena#191,ＭＯＮＥＹ！,0x08D154BC,0x08D154D9
+arena__s28,0x08D1B2E4,0x08D174CC,38,Three gold-loving misers step up in search of cash!,arena#192,お金大好き三人衆がマネー求めて参戦だ！,0x08D16660,0x08D16A61
+arena__s33,0x08D1B344,0x08D174F4,10,March of the Saints,arena#193,聖者の行進,0x08D170A4,0x08D17347
+arena__s35,0x08D1B348,0x08D17500,60,Three clergy clash in evangelical fervor!,arena#194,神は彼女達に味方するか！？　聖職者三人組による伝道のバトル！,0x08D174BC,0x08D175E7
+arena__s35,0x08D1B3A8,0x08D17540,14,Silent Warriors,arena#195,静寂なる戦士達,0x08D174BC,0x08D175E7
+arena__s28,0x08D1B3AC,0x08D17550,66,True power in silence! Three throw down!,arena#196,真の強さは沈黙の中に！　ただ目の前の戦いに身を投じる三人が参戦だ！,0x08D16660,0x08D16A61
+arena__s35,0x08D1B40C,0x08D17594,10,Chivalric Spirit,arena#197,騎士道精神,0x08D174BC,0x08D175E7
+arena__s35,0x08D1B410,0x08D175A0,56,Smash evil! Chivalric trio enters!,arena#198,悪を砕き、弱きを助ける！　騎士道精神を胸に三人が参戦だ！,0x08D174BC,0x08D175E7
+arena__s24,0x08D1B470,0x08D175DC,10,Lovely Fists,arena#199,可憐なる拳,0x08D16154,0x08D161AD
+arena__s4,0x08D1B4D4,0x08D1762C,8,Impregnable,arena#200,難攻不落,0x08D152F8,0x08D15305
+arena__s27,0x08D1B4D8,0x08D17638,58,Who dare challenge this quartet?,arena#201,脅威のヒーロー四人組！　この難攻不落チームに挑むのは誰だ！,0x08D1645C,0x08D16623
+arena__s6,0x08D1B538,0x08D17674,24,Second Generation,arena#202,セカンドジェネレーション,0x08D15430,0x08D1544F
+arena__s29,0x08D1B53C,0x08D17690,58,Seca-Gen: Ad Libitum team enters!,arena#203,略してセカジェネ！　アドリビトムから四人組チームが参戦だ！,0x08D16A78,0x08D16E79
+arena__s29,0x08D1B59C,0x08D176CC,20,Pervert King Tourney,arena#204,歴代スケベ大王決定戦,0x08D16A78,0x08D16E79
+arena__s29,0x08D1B5A0,0x08D176E4,62,All pervert kings gather! Win to join?,arena#205,歴代スケベ大王が勢ぞろい！　勝てばキミもスケベ大王の仲間入り？,0x08D16A78,0x08D16E79
+arena__s33,0x08D1B600,0x08D17724,10,Legendary Warrior,arena#206,伝説の戦士,0x08D170A4,0x08D17347
+arena__s33,0x08D1B664,0x08D17774,10,Legendary Swordsman,arena#207,伝説の剣士,0x08D170A4,0x08D17347
+arena__s25,0x08D1B6C8,0x08D177C4,12,Legendary Fighter,arena#208,伝説の格闘家,0x08D161F4,0x08D16235
+arena__s1,0x08D1B72C,0x08D17818,10,Legendary Hunter,arena#209,伝説の狩人,0x08D15058,0x08D151DF
+arena__s1,0x08D1B790,0x08D17868,10,Legendary Thief,arena#210,伝説の盗賊,0x08D15058,0x08D151DF
+arena__s29,0x08D1B7F4,0x08D178B4,12,Legendary Mage,arena#211,伝説の魔術師,0x08D16A78,0x08D16E79
+arena__s1,0x08D1B858,0x08D17908,10,Legendary Priest,arena#212,伝説の僧侶,0x08D15058,0x08D151DF
+arena__s33,0x08D1B8BC,0x08D17954,12,Legendary Twin-Sword,arena#213,伝説の双剣士,0x08D170A4,0x08D17347
+arena__s33,0x08D1B920,0x08D179B0,12,Legendary Greatsword,arena#214,伝説の大剣士,0x08D170A4,0x08D17347
+arena__s29,0x08D1B984,0x08D17A08,12,Legendary Monk,arena#215,伝説のモンク,0x08D16A78,0x08D16E79
+arena__s1,0x08D1B9E8,0x08D17A58,10,Legendary Pirate,arena#216,伝説の海賊,0x08D15058,0x08D151DF
+arena__s38,0x08D1BA4C,0x08D17AA8,16,Legendary Bishop,arena#217,伝説のビショップ,0x08D17AA8,0x08D17AB9
+arena__s1,0x08D1BAB0,0x08D17B00,14,Legendary Spellblade,arena#218,伝説の魔法剣士,0x08D15058,0x08D151DF
+arena__s1,0x08D1BB14,0x08D17B5C,10,Legendary Ninja,arena#219,伝説の忍者,0x08D15058,0x08D151DF
+arena__s1,0x08D1BB78,0x08D17BA8,12,Legendary Paladin,arena#220,伝説の聖騎士,0x08D15058,0x08D151DF
+arena__s29,0x08D1BBDC,0x08D17BFC,14,Legendary Gunner,arena#221,伝説のガンマン,0x08D16A78,0x08D16E79
+arena__s26,0x08D1BC40,0x08D17C4C,12,VS Otaota,arena#222,ＶＳオタオタ,0x08D16280,0x08D1640B
+arena__s26,0x08D1BCA4,0x08D17C98,18,VS Axe Beak,arena#223,ＶＳアックスビーク,0x08D16280,0x08D1640B
+arena__s42,0x08D1BD08,0x08D17CEC,14,VS Killer Bee,arena#224,ＶＳキラービー,0x08D17CEC,0x08D17CFB
+arena__s15,0x08D1BD6C,0x08D17D38,8,Envoy of Light,arena#225,光の使者,0x08D159DC,0x08D159EB
+arena__s36,0x08D1BDD0,0x08D17D84,16,Old Times Guardian,arena#226,古き刻よりの守人,0x08D1762C,0x08D1772F
+arena__s1,0x08D1BE34,0x08D17DE0,8,Roaring Tsunami,arena#227,轟く海嘯,0x08D15058,0x08D151DF
+arena__s23,0x08D1BE98,0x08D17E38,8,Light Beast Roar,arena#228,光獣咆哮,0x08D15EBC,0x08D16111
+arena__s36,0x08D1BEFC,0x08D17E98,16,Wings from the Dark,arena#229,闇からの羽ばたき,0x08D1762C,0x08D1772F
+arena__s28,0x08D1BF60,0x08D17EFC,14,Revenge of Otaota,arena#230,オタオタの逆襲,0x08D16660,0x08D16A61
+arena__s46,0x08D1BFC4,0x08D17F60,16,Trio the Pan,arena#231,トリオ　ザ　パン,0x08D17F60,0x08D17F71
+arena__s47,0x08D1C028,0x08D17FCC,16,Fish Festival,arena#232,魚フェスティバル,0x08D17FCC,0x08D17FDD
+arena__s48,0x08D1C08C,0x08D18024,14,Crab Carnival,arena#233,カニカーニバル,0x08D18024,0x08D18033
+arena__s49,0x08D1C0F0,0x08D18098,14,Gigantic Plant,arena#234,巨大化した植物,0x08D18098,0x08D180A7
+arena__s36,0x08D1C154,0x08D18104,14,Lineage of Otaota,arena#235,オタオタの系譜,0x08D1762C,0x08D1772F
+arena__s1,0x08D1C1B8,0x08D18150,14,Lineage of Gekogeko,arena#236,ゲコゲコの系譜,0x08D15058,0x08D151DF
+arena__s51,0x08D1C1BC,0x08D18160,58,Gekogeko assembled! Who dare challenge?,arena#237,世界中のゲコゲコを集めたこの試合、誰が挑戦してくれるかな？,0x08D18150,0x08D181AF
+arena__s51,0x08D1C21C,0x08D1819C,18,Lineage of Chunchun,arena#238,チュンチュンの系譜,0x08D18150,0x08D181AF
+arena__s43,0x08D1C280,0x08D181F0,14,Lineage of Bat 1,arena#239,バットの系譜１,0x08D17D84,0x08D17D95
+arena__s36,0x08D1C2E4,0x08D1823C,14,Lineage of Bat 2,arena#240,バットの系譜２,0x08D1762C,0x08D1772F
+arena__s36,0x08D1C348,0x08D182A0,16,Lineage of Lizard 1,arena#241,リザードの系譜１,0x08D1762C,0x08D1772F
+arena__s36,0x08D1C3AC,0x08D182F0,16,Lineage of Lizard 2,arena#242,リザードの系譜２,0x08D1762C,0x08D1772F
+arena__s29,0x08D1C410,0x08D1835C,10,Demon Plant,arena#243,悪魔の植物,0x08D16A78,0x08D16E79
+arena__s37,0x08D1C474,0x08D183B4,8,Puppet Corps,arena#244,人形軍団,0x08D178B4,0x08D178C1
+arena__s56,0x08D1C4D8,0x08D18420,14,Captive Spirit,arena#245,とらわれの精霊,0x08D18420,0x08D1842F
+arena__s57,0x08D1C53C,0x08D1846C,14,Servant Spirit,arena#246,使役される精霊,0x08D1846C,0x08D1847B
+arena__s21,0x08D1C5A0,0x08D184C0,4,Max,arena#247,最大,0x08D15DC8,0x08D15DE0
+bloco_08B2EFC0,0x08D4540C,0x08B2EFC0,6,???,bloco_08B2EFC0#0,？？？,,
+bgm__s1,0x08B592F4,0x08B57018,20,Battle Artist,bgm#0,バトル・アーティスト,0x08B57018,0x08B5702D
+bgm__s2,0x08B59304,0x08B57070,12,(verbatim),bgm#1,勝利を求めて,0x08B57070,0x08B5707D
+bgm__s3,0x08B593C4,0x08B573CC,4,(verbatim),bgm#2,遭遇,0x08B573CC,0x08B573D1
+bgm__s4,0x08B593D4,0x08B57424,10,(verbatim),bgm#3,戦いの火蓋,0x08B57424,0x08B5742F
+bgm__s5,0x08B593E4,0x08B57480,18,(verbatim),bgm#4,剣を以って切り拓け,0x08B57480,0x08B57493
+bgm__s6,0x08B59404,0x08B57540,18,(verbatim),bgm#5,剣を以って打ち砕け,0x08B57540,0x08B57553
+bgm__s7,0x08B59424,0x08B575C8,10,(verbatim),bgm#6,猛りの滄我,0x08B575C8,0x08B575D3
+bgm__s8,0x08B594A4,0x08B578E0,12,(verbatim),bgm#7,火花散らして,0x08B578E0,0x08B578ED
+bgm__s9,0x08B594B4,0x08B57940,18,(verbatim),bgm#8,闘志もっと燃やして,0x08B57940,0x08B57953
+bgm__s10,0x08B594C4,0x08B579A4,8,(verbatim),bgm#9,不撓不屈,0x08B579A4,0x08B579AD
+bgm__s11,0x08B594D4,0x08B57A00,16,Formidable Foe,bgm#10,立ちはだかる強敵,0x08B57A00,0x08B57A11
+bgm__s12,0x08B594E4,0x08B57A70,16,(verbatim),bgm#11,神秘の武具ソーマ,0x08B57A70,0x08B57A81
+bgm__s13,0x08B59504,0x08B57B38,16,(verbatim),bgm#12,たゆまぬスピリア,0x08B57B38,0x08B57B49
+bgm__s14,0x08B59514,0x08B57B9C,18,(verbatim),bgm#13,抜刀！研ぎ澄ませ！,0x08B57B9C,0x08B57BAF
+bgm__s15,0x08B59524,0x08B57C08,8,(verbatim),bgm#14,焦燥の剣,0x08B57C08,0x08B57C11
+bgm__s16,0x08B59534,0x08B57C70,18,(verbatim),bgm#15,決戦！奮い立たせて,0x08B57C70,0x08B57C83
+bgm__s17,0x08B595E4,0x08B58028,18,(verbatim),bgm#16,鳥は鳴き、僕は歌う,0x08B58028,0x08B5803B
+bgm__s18,0x08B59654,0x08B582CC,14,(verbatim),bgm#17,水晶のささやき,0x08B582CC,0x08B582DB
+bgm__s19,0x08B59694,0x08B58450,16,(verbatim),bgm#18,樹々深く草静かに,0x08B58450,0x08B58461
+bgm__s20,0x08B596D4,0x08B58600,10,(verbatim),bgm#19,天空幻想曲,0x08B58600,0x08B5860B
+bgm__s21,0x08B596F4,0x08B586A0,12,(verbatim),bgm#20,果てなき旅路,0x08B586A0,0x08B586AD
+bgm__s22,0x08B59764,0x08B58960,22,Fountain Plaza Meet,bgm#21,待ち合わせは噴水広場で,0x08B58960,0x08B58977
+bgm__s23,0x08B59774,0x08B589C4,12,(verbatim),bgm#22,ホタテのウタ,0x08B589C4,0x08B589D1
+bgm__s24,0x08B597C4,0x08B58B8C,28,Plenty of Jam on Toast,bgm#23,トーストにはたっぷりジャムを,0x08B58B8C,0x08B58BA9
+bgm__s25,0x08B597D4,0x08B58BF0,22,Rocking Chair and Cat,bgm#24,揺り椅子と猫のいる風景,0x08B58BF0,0x08B58C07
+bgm__s26,0x08B59924,0x08B59110,24,(verbatim),bgm#25,イベント汎用曲（予定枠）,0x08B59110,0x08B59129
+bgm__s26,0x08B59934,0x08B59110,24,(verbatim),bgm#25,イベント汎用曲（予定枠）,0x08B59110,0x08B59129
+bgm__s27,0x08B59944,0x08B59144,6,(verbatim),bgm#26,流れ星,0x08B59144,0x08B5914B
+bgm__s28,0x08B59964,0x08B591E0,8,(verbatim),bgm#27,戦闘終了,0x08B591E0,0x08B591E9
+bloco_08CD989C,0x08CDDEB0,0x08CD989C,4,None,bloco_08CD989C#0,ナシ,,
+avisos__s1,0x08D64124,0x08CE06C4,18,Character Remake,avisos#0,キャラリメイク機能,0x08CE06C4,0x08CE0965
+avisos__s1,0x08D64128,0x08CE06D8,40,Adds Character Remake to the Infirmary.,avisos#1,医務室に、キャラリメイク機能を追加します,0x08CE06C4,0x08CE0965
+avisos__s1,0x08D64138,0x08CE0708,14,Add Battle Voice,avisos#2,戦闘ボイス追加,0x08CE06C4,0x08CE0965
+avisos__s1,0x08D6413C,0x08CE0718,38,Increases battle voice variations.,avisos#3,戦闘ボイスのバリエーションを増やします,0x08CE06C4,0x08CE0965
+avisos__s3,0x08D6414C,0x08CE0740,8,Stg Exp.,avisos#4,倉庫拡張,0x08CE09D0,0x08CE0B01
+avisos__s1,0x08D64150,0x08CE074C,30,Expands storage space.,avisos#5,倉庫の収納スペースを増やします,0x08CE06C4,0x08CE0965
+avisos__s3,0x08D64160,0x08CE076C,16,Skit Player,avisos#6,スキットプレイヤ,0x08CE09D0,0x08CE0B01
+avisos__s1,0x08D64164,0x08CE0780,36,Niata can now replay skits for you.,avisos#7,ニアタにスキットを再生してもらえます,0x08CE06C4,0x08CE0965
+avisos__s1,0x08D64174,0x08CE07A8,14,Diff: Hard,avisos#8,難易度：ハード,0x08CE06C4,0x08CE0965
+avisos__s1,0x08D64178,0x08CE07B8,44,Adds Hard to battle difficulty in Options.,avisos#9,オプションの戦闘難易度に、ハードを追加します,0x08CE06C4,0x08CE0965
+avisos__s1,0x08D6417C,0x08CE07E8,50,Allows obtaining stronger equipment and skills.,avisos#10,より強力な装備や装備スキルを入手することができます,0x08CE06C4,0x08CE0965
+avisos__s1,0x08D64188,0x08CE081C,14,Diff: Mania,avisos#11,難易度：マニア,0x08CE06C4,0x08CE0965
+avisos__s1,0x08D6418C,0x08CE082C,44,Adds Mania to battle difficulty in Options.,avisos#12,オプションの戦闘難易度に、マニアを追加します,0x08CE06C4,0x08CE0965
+avisos__s1,0x08D64190,0x08CE085C,58,Top-tier rewards are now eligible quest reward choices.,avisos#13,クエストの報酬候補も、最高ランクの報酬がエントリーされます,0x08CE06C4,0x08CE0965
+avisos__s1,0x08D6419C,0x08CE0898,30,Sound: Final Battle 1,avisos#14,サウンドセレクト：最終戦闘曲１,0x08CE06C4,0x08CE0965
+avisos__s1,0x08D641A0,0x08CE08B8,56,Adds Final Battle 1 to Sound Select in Options.,avisos#15,オプションのサウンドセレクトに、最終戦闘曲１を追加します,0x08CE06C4,0x08CE0965
+avisos__s1,0x08D641B0,0x08CE08F4,30,Sound: Final Battle 2,avisos#16,サウンドセレクト：最終戦闘曲２,0x08CE06C4,0x08CE0965
+avisos__s1,0x08D641B4,0x08CE0914,56,Adds Final Battle 2 to Sound Select in Options.,avisos#17,オプションのサウンドセレクトに、最終戦闘曲２を追加します,0x08CE06C4,0x08CE0965
+avisos__s1,0x08D641C4,0x08CE0950,20,Item Capacity Up 1,avisos#18,所持アイテム数増加１,0x08CE06C4,0x08CE0965
+avisos__s2,0x08D641D8,0x08CE0990,20,Item Capacity Up 2,avisos#19,所持アイテム数増加２,0x08CE0990,0x08CE09A5
+avisos__s3,0x08D641EC,0x08CE09D0,22,Completed Quest List,avisos#20,達成済みクエストリスト,0x08CE09D0,0x08CE0B01
+avisos__s3,0x08D641F0,0x08CE09E8,60,Adds a list in the Guild to freely select completed quests.,avisos#21,ギルドに達成済みのクエストを自由に選べるリストが追加されます,0x08CE09D0,0x08CE0B01
+avisos__s3,0x08D64200,0x08CE0A28,26,Recent Quest List,avisos#22,最近達成したクエストリスト,0x08CE09D0,0x08CE0B01
+avisos__s3,0x08D64204,0x08CE0A44,68,Adds a list in the Guild to choose from recently completed quests.,avisos#23,ギルドに最近達成したクエストからクエストを選べるリストが追加されます,0x08CE09D0,0x08CE0B01
+avisos__s3,0x08D64214,0x08CE0A8C,20,Minimap Info Plus,avisos#24,ミニマップ情報プラス,0x08CE09D0,0x08CE0B01
+avisos__s3,0x08D64218,0x08CE0AA4,30,Increases info on the minimap.,avisos#25,ミニマップの表示情報が増えます,0x08CE09D0,0x08CE0B01
+avisos__s3,0x08D64228,0x08CE0AC4,10,Karma Bell,avisos#26,カルマの鐘,0x08CE09D0,0x08CE0B01
+avisos__s3,0x08D6422C,0x08CE0AD0,48,A bell echoing in time. Sends owner to time beyond.,avisos#27,時空を越えて響く鐘。持ち主を時の彼方へ飛ばします,0x08CE09D0,0x08CE0B01
+lugares,0x08D82698,0x08D03AB4,10,Luminasia,lugares#0,ルミナシア,,
+lugares,0x08D826A0,0x08D03AC0,10,Zirdia,lugares#1,ジルディア,,
+lugares,0x08D826A8,0x08D03ACC,8,Pecan,lugares#2,ペカン村,,
+lugares,0x08D826B0,0x08D03AD8,12,Mt. Rhubarb,lugares#3,ルバーブ連山,,
+lugares,0x08D826B8,0x08D03AE8,10,Hazel,lugares#4,ヘーゼル村,,
+lugares,0x08D826C0,0x08D03AF4,12,Urizen Empire,lugares#5,ウリズン帝国,,
+lugares,0x08D826C8,0x08D03B04,4,Empire,lugares#6,帝国,,
+lugares,0x08D826D0,0x08D03B0C,18,Confeito Forest,lugares#7,コンフェイト大森林,,
+lugares,0x08D826D8,0x08D03B20,12,Garbanzo,lugares#8,ガルバンゾ国,,
+lugares,0x08D826E0,0x08D03B30,10,Garbanzo,lugares#9,ガルバンゾ,,
+lugares,0x08D826E8,0x08D03B3C,14,Mt. Alterata,lugares#10,オルタータ火山,,
+lugares,0x08D826F0,0x08D03B4C,10,Morado,lugares#11,モラード村,,
+lugares,0x08D826F8,0x08D03B58,14,Brownie Mine,lugares#12,ブラウニー坑道,,
+lugares,0x08D82700,0x08D03B68,12,Kadaif Desert,lugares#13,カダイフ砂漠,,
+lugares,0x08D82708,0x08D03B78,10,Mibuna Village,lugares#14,ミブナの里,,
+lugares,0x08D82710,0x08D03B84,6,Mibuna,lugares#15,ミブナ,,
+lugares,0x08D82718,0x08D03B8C,8,Lima,lugares#16,ライマ国,,
+lugares,0x08D82720,0x08D03B98,6,Lima,lugares#17,ライマ,,
+lugares,0x08D82728,0x08D03BA0,16,Almanac Ruins,lugares#18,アルマナック遺跡,,
+lugares,0x08D82730,0x08D03BB4,14,Mt. Absol,lugares#19,霊峰アブソール,,
+lugares,0x08D82738,0x08D03BC4,14,Veratropa,lugares#20,ヴェラトローパ,,
+lugares,0x08D82740,0x08D03BD4,6,Pasca,lugares#21,パスカ,,
+lugares,0x08D82748,0x08D03BDC,8,Granide,lugares#22,グラニデ,,
+lugares,0x08D82750,0x08D03BE8,12,Sifno Spring,lugares#23,シフノ湧泉洞,,
+lugares,0x08D82758,0x08D03BF8,12,Vortex,lugares#24,ボルテックス,,
+lugares,0x08D82760,0x08D03C08,16,Holy Langriths,lugares#25,聖地ラングリース,,
+lugares,0x08D82768,0x08D03C1C,18,Elan Vital,lugares#26,エラン・ヴィタール,,
+questfiltro__s1,0x08D861B0,0x08D0E814,12,By Location,questfiltro#0,場所別で選択,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861B4,0x08D0E824,12,By Purpose,questfiltro#1,目的別で選択,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861B8,0x08D0E834,14,By Client,questfiltro#2,依頼人別で選択,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861BC,0x08D0E844,14,By Difficulty,questfiltro#3,難易度別で選択,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861F0,0x08D0E920,12,By Delivery Item,questfiltro#4,納品物で選択,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861F4,0x08D0E930,21,By Target Monster 1,questfiltro#5,退治モンスターで選択1,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861F8,0x08D0E948,21,By Target Monster 2,questfiltro#6,退治モンスターで選択2,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D861FC,0x08D0E960,10,By Mining,questfiltro#7,採掘で選択,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86200,0x08D0E96C,10,By Harvesting,questfiltro#8,採取で選択,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86204,0x08D0E978,14,By Drops,questfiltro#9,ドロップで選択,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86208,0x08D0E988,13,By Blue Chest 1,questfiltro#10,青宝箱で選択1,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8620C,0x08D0E998,13,By Blue Chest 2,questfiltro#11,青宝箱で選択2,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86210,0x08D0E9A8,8,By Male,questfiltro#12,男で選択,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86214,0x08D0E9B4,8,By Female,questfiltro#13,女で選択,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86218,0x08D0E9C0,12,Boy Jean,questfiltro#14,男の子ジャン,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8621C,0x08D0E9D0,12,Merchant Gamel,questfiltro#15,行商人ガメル,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86220,0x08D0E9E0,18,Novice Hunter Geronimo,questfiltro#16,新米狩人ジェロニモ,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86224,0x08D0E9F4,18,Local Lord Raymond,questfiltro#17,地方領主レイモンド,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86228,0x08D0EA08,20,General Store Owner Fundakuru,questfiltro#18,雑貨屋店主フンダクル,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8622C,0x08D0EA20,14,Collector Herald,questfiltro#19,収集家ヘラルド,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86230,0x08D0EA30,18,Blacksmith Alex,questfiltro#20,鍛冶職人アレックス,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86234,0x08D0EA44,18,Sr. Researcher Nicholas,questfiltro#21,上級研究員ニコラス,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86238,0x08D0EA58,18,Captain Daniel,questfiltro#22,警備隊隊長ダニエル,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8623C,0x08D0EA6C,12,Miner Ramon,questfiltro#23,採鉱員ラモン,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86240,0x08D0EA7C,18,Entrepreneur Egoitz,questfiltro#24,青年実業家エゴイツ,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86244,0x08D0EA90,12,Landowner Maui,questfiltro#25,大地主マウイ,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86248,0x08D0EAA0,12,Girl Lucia,questfiltro#26,女の子ルシア,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8624C,0x08D0EAB0,14,Dreaming Girl Rina,questfiltro#27,夢見る少女リナ,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86250,0x08D0EAC0,16,Craftsman Diana,questfiltro#28,細工職人ディアナ,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86254,0x08D0EAD4,14,Fortune Aida,questfiltro#29,占い婆アイーダ,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86258,0x08D0EAE4,20,Socialite Sylvia,questfiltro#30,セレブ夫人シルヴィア,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8625C,0x08D0EAFC,16,Gourmet Carolina,questfiltro#31,美食家カロリーナ,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86260,0x08D0EB10,12,Pharmacist Gemma,questfiltro#32,薬剤師ジェマ,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86264,0x08D0EB20,12,Chiropractor Teresa,questfiltro#33,整体師テレサ,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86268,0x08D0EB30,12,By 1-Star,questfiltro#34,★一つで選択,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8626C,0x08D0EB40,12,By 2-Star,questfiltro#35,★二つで選択,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86270,0x08D0EB50,12,By 3-Star,questfiltro#36,★三つで選択,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86274,0x08D0EB60,12,By 4-Star,questfiltro#37,★四つで選択,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86278,0x08D0EB70,13,By 5-Star 1,questfiltro#38,★五つで選択1,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8627C,0x08D0EB80,13,By 5-Star 2,questfiltro#39,★五つで選択2,0x08D0E814,0x08D0EEDD
+questfiltro__s2,0x08D0F210,0x08D0F140,4,OO,questfiltro#40,○○,0x08D0F140,0x08D0F1C3
+questfiltro__s2,0x08D0F218,0x08D0F148,6,<Count>,questfiltro#41,＜数＞,0x08D0F140,0x08D0F1C3
+questfiltro__s2,0x08D0F220,0x08D0F150,16,<Dungeon Name>,questfiltro#42,＜ダンジョン名＞,0x08D0F140,0x08D0F1C3
+questfiltro__s2,0x08D0F228,0x08D0F164,14,<Item Name>,questfiltro#43,＜アイテム名＞,0x08D0F140,0x08D0F1C3
+questfiltro__s1,0x08D0F230,0x08D0F174,12,<Destination>,questfiltro#44,＜目標地点＞,0x08D0E814,0x08D0EEDD
+questfiltro__s2,0x08D0F238,0x08D0F184,16,<Monster Name>,questfiltro#45,＜モンスター名＞,0x08D0F140,0x08D0F1C3
+questfiltro__s2,0x08D0F240,0x08D0F198,10,<Blue Chest>,questfiltro#46,＜青宝箱＞,0x08D0F140,0x08D0F1C3
+questfiltro__s2,0x08D0F248,0x08D0F1A4,10,<Client>,questfiltro#47,＜依頼者＞,0x08D0F140,0x08D0F1C3
+questfiltro__s2,0x08D0F250,0x08D0F1B0,6,<Left>,questfiltro#48,＜残＞,0x08D0F140,0x08D0F1C3
+questfiltro__s2,0x08D0F258,0x08D0F1B8,10,<Area>,questfiltro#49,＜エリア＞,0x08D0F140,0x08D0F1C3
+questfiltro__s1,0x08D8679C,0x08D0FE7C,6,Exp Rate,questfiltro#50,経験率,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D867A0,0x08D0FE84,6,Completions,questfiltro#51,達成数,0x08D0E814,0x08D0EEDD
+bonus__s1,0x08D867C4,0x08D1C614,14,Item Drop Up,bonus#0,アイテム獲得増,0x08D1C614,0x08D1C6D5
+bonus__s1,0x08D867C8,0x08D1C624,12,Gald Gain Up,bonus#1,獲得ガルド増,0x08D1C614,0x08D1C6D5
+bonus__s1,0x08D867CC,0x08D1C634,14,Grade Gain Up,bonus#2,獲得グレード増,0x08D1C614,0x08D1C6D5
+bonus__s1,0x08D867D0,0x08D1C644,16,Specific Item Gain,bonus#3,特定アイテム取得,0x08D1C614,0x08D1C6D5
+bonus__s3,0x08D867D4,0x08D1C658,4,Max,bonus#4,最大,0x08D1C8C8,0x08D1C8EF
+bonus__s3,0x08D867EC,0x08D1C658,4,Max,bonus#4,最大,0x08D1C8C8,0x08D1C8EF
+bonus__s3,0x08D868E8,0x08D1C658,4,Max,bonus#4,最大,0x08D1C8C8,0x08D1C8EF
+bonus__s3,0x08D869E4,0x08D1C658,4,Max,bonus#4,最大,0x08D1C8C8,0x08D1C8EF
+bonus__s7,0x08D867D8,0x08D1C660,4,None,bonus#5,無し,0x08D1CA38,0x08D1CA7F
+bonus__s7,0x08D867F0,0x08D1C660,4,None,bonus#5,無し,0x08D1CA38,0x08D1CA7F
+bonus__s1,0x08D867DC,0x08D1C668,30,Makes drop items easier to obtain.,bonus#6,ドロップアイテムを入手しやすい,0x08D1C614,0x08D1C6D5
+bonus__s1,0x08D867E0,0x08D1C688,22,(verbatim),bonus#7,獲得するガルドが増える,0x08D1C614,0x08D1C6D5
+bonus__s1,0x08D867E4,0x08D1C6A0,24,(verbatim),bonus#8,獲得するグレードが増える,0x08D1C614,0x08D1C6D5
+bonus__s6,0x08D867E8,0x08D1C6BC,24,Obtains a specific item.,bonus#9,特定のアイテムを取得する,0x08D1C9C8,0x08D1CA1D
+bonus__s1,0x08D86830,0x08D1C7D4,20,Battle Artist,bonus#10,バトル・アーティスト,0x08D1C614,0x08D1C6D5
+bonus__s1,0x08D86834,0x08D1C7EC,12,Seeking Victory,bonus#11,勝利を求めて,0x08D1C614,0x08D1C6D5
+bonus__s5,0x08D86864,0x08D1C8C8,4,Encounter,bonus#12,遭遇,0x08D1C924,0x08D1C92F
+bonus__s3,0x08D86868,0x08D1C8D0,10,Opening of Battle,bonus#13,戦いの火蓋,0x08D1C8C8,0x08D1C8EF
+bonus__s2,0x08D8686C,0x08D1C8DC,18,Carve Path with Sword,bonus#14,剣を以って切り拓け,0x08D1C7D4,0x08D1C7F9
+bonus__s1,0x08D86874,0x08D1C904,18,Crush with the Sword,bonus#15,剣を以って打ち砕け,0x08D1C614,0x08D1C6D5
+bonus__s4,0x08D8687C,0x08D1C924,10,Raging Souga,bonus#16,猛りの滄我,0x08D1C904,0x08D1C917
+bonus__s6,0x08D8689C,0x08D1C9C8,12,Scattering Sparks,bonus#17,火花散らして,0x08D1C9C8,0x08D1CA1D
+bonus__s6,0x08D868A0,0x08D1C9D8,18,(verbatim),bonus#18,闘志もっと燃やして,0x08D1C9C8,0x08D1CA1D
+bonus__s3,0x08D868A4,0x08D1C9EC,8,Indomitable,bonus#19,不撓不屈,0x08D1C8C8,0x08D1C8EF
+bonus__s2,0x08D868A8,0x08D1C9F8,16,Formidable Foe,bonus#20,立ちはだかる強敵,0x08D1C7D4,0x08D1C7F9
+bonus__s6,0x08D868AC,0x08D1CA0C,16,(verbatim),bonus#21,神秘の武具ソーマ,0x08D1C9C8,0x08D1CA1D
+bonus__s7,0x08D868B4,0x08D1CA38,16,Unwavering Spiria,bonus#22,たゆまぬスピリア,0x08D1CA38,0x08D1CA7F
+bonus__s7,0x08D868B8,0x08D1CA4C,18,(verbatim),bonus#23,抜刀！研ぎ澄ませ！,0x08D1CA38,0x08D1CA7F
+bonus__s7,0x08D868BC,0x08D1CA60,8,(verbatim),bonus#24,焦燥の剣,0x08D1CA38,0x08D1CA7F
+bonus__s7,0x08D868C0,0x08D1CA6C,18,(verbatim),bonus#25,決戦！奮い立たせて,0x08D1CA38,0x08D1CA7F
+shield__s1,0x08D625D4,0x08C61FF8,6,Colosseum,shield#0,闘技場,0x08C61FF8,0x08C620FF
+shield__s1,0x08D626F4,0x08C61FF8,6,Colosseum,shield#0,闘技場,0x08C61FF8,0x08C620FF
+shield__s1,0x08D625F4,0x08C62000,14,World Map,shield#1,ワールドマップ,0x08C61FF8,0x08C620FF
+shield__s1,0x08D62704,0x08C62000,14,World Map,shield#1,ワールドマップ,0x08C61FF8,0x08C620FF
+shield__s1,0x08D62614,0x08C62010,12,Debug Room,shield#2,デバッグ部屋,0x08C61FF8,0x08C620FF
+shield__s1,0x08D62714,0x08C62010,12,Debug Room,shield#2,デバッグ部屋,0x08C61FF8,0x08C620FF
+shield__s1,0x08D62624,0x08C62020,16,Van Eltia,shield#3,バンエルティア号,0x08C61FF8,0x08C620FF
+shield__s1,0x08D62634,0x08C62034,12,Mt. Rhubarb,shield#4,ルバーブ連山,0x08C61FF8,0x08C620FF
+shield__s1,0x08D62644,0x08C62044,18,Confeito Forest,shield#5,コンフェイト大森林,0x08C61FF8,0x08C620FF
+shield__s1,0x08D62654,0x08C62058,14,Brownie Mine,shield#6,ブラウニー坑道,0x08C61FF8,0x08C620FF
+shield__s1,0x08D62664,0x08C62068,14,Mt. Alterata,shield#7,オルタータ火山,0x08C61FF8,0x08C620FF
+shield__s1,0x08D62674,0x08C62078,12,Kadaif Desert,shield#8,カダイフ砂漠,0x08C61FF8,0x08C620FF
+shield__s1,0x08D62684,0x08C62088,16,Almanac Ruins,shield#9,アルマナック遺跡,0x08C61FF8,0x08C620FF
+shield__s1,0x08D62694,0x08C6209C,14,Mt. Absol,shield#10,霊峰アブソール,0x08C61FF8,0x08C620FF
+shield__s1,0x08D626A4,0x08C620AC,14,Veratropa,shield#11,ヴェラトローパ,0x08C61FF8,0x08C620FF
+shield__s1,0x08D626B4,0x08C620BC,12,Sifno Spring,shield#12,シフノ湧泉洞,0x08C61FF8,0x08C620FF
+shield__s1,0x08D626C4,0x08C620CC,16,Holy Langriths,shield#13,聖地ラングリース,0x08C61FF8,0x08C620FF
+shield__s1,0x08D626D4,0x08C620E0,18,Elan Vital,shield#14,エラン・ヴィタール,0x08C61FF8,0x08C620FF
+shield__s2,0x08D626E4,0x08C620F4,10,Mine of Reminiscence,shield#15,追憶の坑道,0x08C62110,0x08C636B3
+shield__s1,0x08C636F4,0x08C62110,10,Buckler,shield#16,バックラー,0x08C61FF8,0x08C620FF
+shield__s1,0x08C636F8,0x08C62110,10,Buckler,shield#16,バックラー,0x08C61FF8,0x08C620FF
+shield__s2,0x08C636FC,0x08C6211C,38,A light shield with great defense.,shield#17,小型の盾で、機動性と防御力に優れている,0x08C62110,0x08C636B3
+shield__s2,0x08C63728,0x08C62144,16,Small Shield,shield#18,スモールシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C6372C,0x08C62144,16,Small Shield,shield#18,スモールシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63730,0x08C62158,8,Compact.,shield#19,小型の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C6375C,0x08C62164,14,Alum Pot Lid,shield#20,アルミ鍋のふた,0x08C62110,0x08C636B3
+shield__s2,0x08C63760,0x08C62174,16,Alum Pot Lid,shield#21,アルミナベノフタ,0x08C62110,0x08C636B3
+shield__s2,0x08C63764,0x08C62188,18,An alum pot lid.,shield#22,アルミ製の鍋のふた,0x08C62110,0x08C636B3
+shield__s2,0x08C63790,0x08C6219C,14,Wood Shield,shield#23,ウッドシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63794,0x08C6219C,14,Wood Shield,shield#23,ウッドシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63798,0x08C621AC,8,Wooden.,shield#24,木製の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C637C4,0x08C621B8,16,Round Shield,shield#25,ラウンドシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C637C8,0x08C621B8,16,Round Shield,shield#25,ラウンドシールド,0x08C62110,0x08C636B3
+shield__s1,0x08C637CC,0x08C621CC,8,Round.,shield#26,丸形の盾,0x08C61FF8,0x08C620FF
+shield__s1,0x08C637F8,0x08C621D8,16,Iron Shield,shield#27,アイアンシールド,0x08C61FF8,0x08C620FF
+shield__s1,0x08C637FC,0x08C621D8,16,Iron Shield,shield#27,アイアンシールド,0x08C61FF8,0x08C620FF
+shield__s2,0x08C63800,0x08C621EC,14,Iron shield.,shield#28,鉄製のシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C6382C,0x08C621FC,14,Large Shield,shield#29,ラージシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63830,0x08C621FC,14,Large Shield,shield#29,ラージシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63834,0x08C6220C,42,Large shield. Blocks better than small.,shield#30,大型の盾。スモールシールドより防御しやすい,0x08C62110,0x08C636B3
+shield__s2,0x08C63860,0x08C62238,14,Kite Shield,shield#31,カイトシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63864,0x08C62238,14,Kite Shield,shield#31,カイトシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63868,0x08C62248,18,Kite-shape shield.,shield#32,逆三角形の凧型の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63894,0x08C6225C,16,Needle Shield,shield#33,ニードルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63898,0x08C6225C,16,Needle Shield,shield#33,ニードルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C6389C,0x08C62270,30,A shield adorned with needles.,shield#34,正面にニードルがあしらわれた盾,0x08C62110,0x08C636B3
+shield__s2,0x08C638C8,0x08C62290,14,Tower Shield,shield#35,タワーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C638CC,0x08C62290,14,Tower Shield,shield#35,タワーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C638D0,0x08C622A0,36,A huge shield set on the ground to use.,shield#36,超大型の盾。普段は地面に設置して使用,0x08C62110,0x08C636B3
+shield__s2,0x08C638FC,0x08C622C8,8,Carapace,shield#37,甲羅の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63900,0x08C622D4,12,Carapace,shield#38,コウラノタテ,0x08C62110,0x08C636B3
+shield__s2,0x08C63904,0x08C622E4,24,Turtle shell shield.,shield#39,大亀の甲羅から作られた盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63930,0x08C62300,16,Marvel Shield,shield#40,マーベルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63934,0x08C62300,16,Marvel Shield,shield#40,マーベルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63938,0x08C62314,28,Modeled on ancient lore.,shield#41,昔話に登場した盾を模したもの,0x08C62110,0x08C636B3
+shield__s2,0x08C63964,0x08C62334,18,Prayer Shield,shield#42,プレイヤーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63968,0x08C62334,18,Prayer Shield,shield#42,プレイヤーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C6396C,0x08C62348,32,Shield shaped like prayer mask.,shield#43,祈祷の為に作られた仮面を模した盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63998,0x08C6236C,18,Soldier Shield,shield#44,ソルジャーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C6399C,0x08C6236C,18,Soldier Shield,shield#44,ソルジャーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C639A0,0x08C62380,18,Favored by troops.,shield#45,兵士が好んで使う盾,0x08C62110,0x08C636B3
+shield__s2,0x08C639CC,0x08C62394,16,Gothic Shield,shield#46,ゴシックシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C639D0,0x08C62394,16,Gothic Shield,shield#46,ゴシックシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C639D4,0x08C623A8,40,A shield boasting both defense and beauty.,shield#47,防御力だけではなく、美しさも兼ね備えた盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63A00,0x08C623D4,14,Battle Shield,shield#48,バトルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63A04,0x08C623D4,14,Battle Shield,shield#48,バトルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63A08,0x08C623E4,20,Crafted for combat.,shield#49,戦闘用に開発された盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63A34,0x08C623FC,14,Metal Shield,shield#50,メタルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63A38,0x08C623FC,14,Metal Shield,shield#50,メタルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63A3C,0x08C6240C,26,Versatile steel shield.,shield#51,鋼鉄で鍛えられた汎用的な盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63A68,0x08C62428,22,Iron Cover Shield,shield#52,アイアンカバーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63A6C,0x08C62428,22,Iron Cover Shield,shield#52,アイアンカバーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63A70,0x08C62440,32,Wood shield plated in metal.,shield#53,金属板で強化されたウッドシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63A9C,0x08C62464,16,Beast Shield,shield#54,ビーストシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63AA0,0x08C62464,16,Beast Shield,shield#54,ビーストシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63AA4,0x08C62478,26,Shield with beast visage.,shield#55,獣の面をあしらったシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63AD0,0x08C62494,16,Prince Shield,shield#56,プリンスシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63AD4,0x08C62494,16,Prince Shield,shield#56,プリンスシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63AD8,0x08C624A8,30,Made for a prince at war.,shield#57,戦いに赴く王子の為に作られた盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63B04,0x08C624C8,18,Princess Shield,shield#58,プリンセスシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63B08,0x08C624C8,18,Princess Shield,shield#58,プリンセスシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63B0C,0x08C624DC,30,Made for princess at war.,shield#59,戦いに赴く王女の為に作られた盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63B38,0x08C624FC,22,Power Stone Shield,shield#60,パワーストーンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63B3C,0x08C624FC,22,Power Stone Shield,shield#60,パワーストーンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63B40,0x08C62514,36,A shield adorned with lucky stones.,shield#61,運気を上げるとされる石をあしらった盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63B6C,0x08C6253C,18,Eunomia Shield,shield#62,エウノミアシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63B70,0x08C6253C,18,Eunomia Shield,shield#62,エウノミアシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63B74,0x08C62550,40,"A shield meaning order, a goddess aspect.",shield#63,美の女神の一面である「秩序」を意味する盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63BA0,0x08C6257C,20,Large Bone Shield,shield#64,ラージボーンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63BA4,0x08C6257C,20,Large Bone Shield,shield#64,ラージボーンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63BA8,0x08C62594,32,Large shield of monster bone.,shield#65,魔物の骨で作られたラージシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63BD4,0x08C625B8,14,Devil Shield,shield#66,デビルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63BD8,0x08C625B8,14,Devil Shield,shield#66,デビルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63BDC,0x08C625C8,26,Shield with a demon face.,shield#67,悪魔の妖面があしらわれた盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63C08,0x08C625E4,18,Great Buckler,shield#68,グレートバックラー,0x08C62110,0x08C636B3
+shield__s2,0x08C63C0C,0x08C625E4,18,Great Buckler,shield#68,グレートバックラー,0x08C62110,0x08C636B3
+shield__s2,0x08C63C10,0x08C625F8,32,Buckler bolstered with steel.,shield#69,鋼鉄板で防御力を上げたバックラー,0x08C62110,0x08C636B3
+shield__s2,0x08C63C3C,0x08C6261C,16,Silver Small,shield#70,シルバースモール,0x08C62110,0x08C636B3
+shield__s2,0x08C63C40,0x08C6261C,16,Silver Small,shield#70,シルバースモール,0x08C62110,0x08C636B3
+shield__s2,0x08C63C44,0x08C62630,22,Small shield of silver.,shield#71,銀製のスモールシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63C70,0x08C62648,10,Copper Lid,shield#72,銅鍋のふた,0x08C62110,0x08C636B3
+shield__s2,0x08C63C74,0x08C62654,14,Copper Lid,shield#73,ドウナベノフタ,0x08C62110,0x08C636B3
+shield__s2,0x08C63C78,0x08C62664,14,Copper pot lid.,shield#74,銅製の鍋のふた,0x08C62110,0x08C636B3
+shield__s2,0x08C63CA4,0x08C62674,14,Oak Shield,shield#75,オークシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63CA8,0x08C62674,14,Oak Shield,shield#75,オークシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63CAC,0x08C62684,24,Stout shield of oak.,shield#76,オーク材を使った堅牢な盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63CD8,0x08C626A0,14,Moon Shield,shield#77,ムーンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63CDC,0x08C626A0,14,Moon Shield,shield#77,ムーンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63CE0,0x08C626B0,20,Shield of the moon.,shield#78,月をモチーフにした盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63D0C,0x08C626C8,16,Silver Shield,shield#79,シルバーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63D10,0x08C626C8,16,Silver Shield,shield#79,シルバーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63D14,0x08C626DC,14,Silver shield.,shield#80,銀製のシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63D40,0x08C626EC,16,Army Shield,shield#81,アーミーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63D44,0x08C626EC,16,Army Shield,shield#81,アーミーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63D48,0x08C62700,24,Infantry large shield.,shield#82,歩兵が使用していた大型盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63D74,0x08C6271C,14,Knight Shield,shield#83,ナイツシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63D78,0x08C6271C,14,Knight Shield,shield#83,ナイツシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63D7C,0x08C6272C,28,Shield favored by knights.,shield#84,その昔騎士が好んで使用した盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63DA8,0x08C6274C,16,Spike Shield,shield#85,スパイクシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63DAC,0x08C6274C,16,Spike Shield,shield#85,スパイクシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63DB0,0x08C62760,48,A shield with giant spikes made for shock troops.,shield#86,巨大なスパイクが正面にあしらわれた突撃兵向けの盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63DDC,0x08C62794,18,Full Tower Shield,shield#87,フルタワーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63DE0,0x08C62794,18,Full Tower Shield,shield#87,フルタワーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63DE4,0x08C627A8,44,Huge shield. Takes great strength to wield.,shield#88,超大型の盾。使いこなすにはそれなりの力が必要,0x08C62110,0x08C636B3
+shield__s2,0x08C63E10,0x08C627D8,14,Fine Carapace,shield#89,上質な甲羅の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63E14,0x08C627E8,24,Fine Carapace,shield#90,ジョウシツナコウラノタテ,0x08C62110,0x08C636B3
+shield__s2,0x08C63E18,0x08C62804,30,Shield of fine turtle shell.,shield#91,上質な大亀の甲羅から作られた盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63E44,0x08C62824,14,Alice Shield,shield#92,アリスシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63E48,0x08C62824,14,Alice Shield,shield#92,アリスシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63E4C,0x08C62834,32,Modeled on fairy tale shield.,shield#93,おとぎ話に登場した盾を模したもの,0x08C62110,0x08C636B3
+shield__s2,0x08C63E78,0x08C62858,18,Shaman Shield,shield#94,シャーマンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63E7C,0x08C62858,18,Shaman Shield,shield#94,シャーマンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63E80,0x08C6286C,40,A shield shaped like a shaman ritual mask.,shield#95,シャーマンが祈祷に使用する仮面を模した盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63EAC,0x08C62898,20,Middle S Shield,shield#96,ミドル・Ｓ・シールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63EB0,0x08C628B0,18,Middle S Shield,shield#97,ミドルエスシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63EB4,0x08C628C4,28,Favored by elite soldiers.,shield#98,階級の高い兵士が好んで使う盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63EE0,0x08C628E4,16,Emboss Shield,shield#99,エンボスシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63EE4,0x08C628E4,16,Emboss Shield,shield#99,エンボスシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63EE8,0x08C628F8,24,Carved in ancient style.,shield#100,古代様式の文様を施した盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63F14,0x08C62914,16,Duel Shield,shield#101,デュエルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63F18,0x08C62914,16,Duel Shield,shield#101,デュエルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63F1C,0x08C62928,28,Shield refined for duels.,shield#102,決闘用として改良を施された盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63F48,0x08C62948,18,High Metal Shield,shield#103,ハイメタルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63F4C,0x08C62948,18,High Metal Shield,shield#103,ハイメタルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63F50,0x08C6295C,36,Versatile shield of hard metal.,shield#104,硬度の高い金属で鍛えられた汎用的な盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63F7C,0x08C62984,20,Aluminum Cover,shield#105,アルミカバーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63F80,0x08C62984,20,Aluminum Cover,shield#105,アルミカバーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63F84,0x08C6299C,44,A wood shield reinforced with stronger metal.,shield#106,より強度の高い金属で強化されたウッドシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63FB0,0x08C629CC,14,Lionheart,shield#107,ライオンハート,0x08C62110,0x08C636B3
+shield__s2,0x08C63FB4,0x08C629CC,14,Lionheart,shield#107,ライオンハート,0x08C62110,0x08C636B3
+shield__s2,0x08C63FB8,0x08C629DC,40,Stout shield with a lion soul.,shield#108,百獣の王ライオンの魂をあらわした頑強な盾,0x08C62110,0x08C636B3
+shield__s2,0x08C63FE4,0x08C62A08,14,King Shield,shield#109,キングシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63FE8,0x08C62A08,14,King Shield,shield#109,キングシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C63FEC,0x08C62A18,28,Forged for a king at war.,shield#110,戦いに赴く王の為に作られた盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64018,0x08C62A38,16,Queen Shield,shield#111,クィーンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C6401C,0x08C62A38,16,Queen Shield,shield#111,クィーンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64020,0x08C62A4C,30,Forged for queen at war.,shield#112,戦いに赴く女王の為に作られた盾,0x08C62110,0x08C636B3
+shield__s2,0x08C6404C,0x08C62A6C,16,Jewel Shield,shield#113,ジュエルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64050,0x08C62A6C,16,Jewel Shield,shield#113,ジュエルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64054,0x08C62A80,38,A shield decorated with lucky gemstones.,shield#114,運気を上げるとされる宝石をあしらった盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64080,0x08C62AA8,16,Dike Shield,shield#115,ディケーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64084,0x08C62AA8,16,Dike Shield,shield#115,ディケーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64088,0x08C62ABC,40,"A shield meaning fate, a goddess aspect.",shield#116,美の女神の一面である「運命」を意味する盾,0x08C62110,0x08C636B3
+shield__s2,0x08C640B4,0x08C62AE8,22,Huge Bone Shield,shield#117,ヒュージボーンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C640B8,0x08C62AE8,22,Huge Bone Shield,shield#117,ヒュージボーンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C640BC,0x08C62B00,44,A large shield crafted from hard monster bone.,shield#118,硬くて丈夫な魔物の骨で作られたラージシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C640E8,0x08C62B30,16,Demon Shield,shield#119,デーモンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C640EC,0x08C62B30,16,Demon Shield,shield#119,デーモンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C640F0,0x08C62B44,30,Archdemon face causes dread.,shield#120,大悪魔の面が見る者を畏怖させる,0x08C62110,0x08C636B3
+shield__s2,0x08C6411C,0x08C62B64,16,Heavy Buckler,shield#121,ヘビーバックラー,0x08C62110,0x08C636B3
+shield__s2,0x08C64120,0x08C62B64,16,Heavy Buckler,shield#121,ヘビーバックラー,0x08C62110,0x08C636B3
+shield__s2,0x08C64124,0x08C62B78,18,Buckler of steel.,shield#122,鋼鉄製のバックラー,0x08C62110,0x08C636B3
+shield__s2,0x08C64150,0x08C62B8C,16,Mithril Small,shield#123,ミスリルスモール,0x08C62110,0x08C636B3
+shield__s2,0x08C64154,0x08C62B8C,16,Mithril Small,shield#123,ミスリルスモール,0x08C62110,0x08C636B3
+shield__s2,0x08C64158,0x08C62BA0,28,Small shield of mithril.,shield#124,ミスリル製のスモールシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64184,0x08C62BC0,20,Moly Steel Pot Lid,shield#125,モリブデン鋼鍋のふた,0x08C62110,0x08C636B3
+shield__s2,0x08C64188,0x08C62BD8,20,Moly Steel Pot Lid,shield#126,モリブデンコウノフタ,0x08C62110,0x08C636B3
+shield__s2,0x08C6418C,0x08C62BF0,24,Pot lid of moly steel.,shield#127,モリブデン鋼製の鍋のふた,0x08C62110,0x08C636B3
+shield__s2,0x08C641B8,0x08C62C0C,20,Large Oak Shield,shield#128,ラージオークシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C641BC,0x08C62C0C,20,Large Oak Shield,shield#128,ラージオークシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C641C0,0x08C62C24,32,"Large, stout oak shield.",shield#129,オーク材を使った堅牢かつ大型の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C641EC,0x08C62C48,14,Rune Shield,shield#130,ルーンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C641F0,0x08C62C48,14,Rune Shield,shield#130,ルーンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C641F4,0x08C62C58,34,Moon shield carved with runes.,shield#131,ムーンシールドに魔法文様を施した盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64220,0x08C62C7C,16,Mithril Shield,shield#132,ミスリルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64224,0x08C62C7C,16,Mithril Shield,shield#132,ミスリルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64228,0x08C62C90,20,Mithril shield.,shield#133,ミスリル製のシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64254,0x08C62CA8,16,Master Shield,shield#134,マスターシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64258,0x08C62CA8,16,Master Shield,shield#134,マスターシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C6425C,0x08C62CBC,38,Large shield wielded by veterans.,shield#135,戦闘の熟練者が使っていたとされる大型盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64288,0x08C62CE4,18,Paladin Shield,shield#136,パラディンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C6428C,0x08C62CE4,18,Paladin Shield,shield#136,パラディンシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64290,0x08C62CF8,22,Used by holy knights.,shield#137,聖騎士が使用していた盾,0x08C62110,0x08C636B3
+shield__s2,0x08C642BC,0x08C62D10,12,Spartacus,shield#138,スパルタカス,0x08C62110,0x08C636B3
+shield__s2,0x08C642C0,0x08C62D10,12,Spartacus,shield#138,スパルタカス,0x08C62110,0x08C636B3
+shield__s2,0x08C642C4,0x08C62D20,32,Duel shield from arena of old.,shield#139,古代の闘技場で使われた決闘用の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C642F0,0x08C62D44,12,Fortress,shield#140,フォートレス,0x08C62110,0x08C636B3
+shield__s2,0x08C642F4,0x08C62D44,12,Fortress,shield#140,フォートレス,0x08C62110,0x08C636B3
+shield__s2,0x08C642F8,0x08C62D54,14,Fortress guard.,shield#141,要塞防御用の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64324,0x08C62D64,10,Aegis Sh.,shield#142,千年亀の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64328,0x08C62D70,18,Aegis Sh.,shield#143,センネンガメノタテ,0x08C62110,0x08C636B3
+shield__s2,0x08C6432C,0x08C62D84,34,"Shield of 1,000-year turtle.",shield#144,千年生きた大亀の甲羅から作られた盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64358,0x08C62DA8,18,Fairy Shield,shield#145,フェアリーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C6435C,0x08C62DA8,18,Fairy Shield,shield#145,フェアリーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64360,0x08C62DBC,30,Modeled on heroic legend.,shield#146,英雄譚に登場した盾を模したもの,0x08C62110,0x08C636B3
+shield__s2,0x08C6438C,0x08C62DDC,22,Necromancer Shield,shield#147,ネクロマンサーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64390,0x08C62DDC,22,Necromancer Shield,shield#147,ネクロマンサーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64394,0x08C62DF4,42,Shield styled as rebirth ritual mask.,shield#148,死者の復活の儀式に用いられた仮面を模した盾,0x08C62110,0x08C636B3
+shield__s1,0x08C643C0,0x08C62E20,22,Master S Shield,shield#149,マスター・Ｓ・シールド,0x08C61FF8,0x08C620FF
+shield__s1,0x08C643C4,0x08C62E38,20,Master S Shield,shield#150,マスターエスシールド,0x08C61FF8,0x08C620FF
+shield__s2,0x08C643C8,0x08C62E50,40,Combat shield beloved by veterans.,shield#151,歴戦の戦士が愛用する実戦にとても適した盾,0x08C62110,0x08C636B3
+shield__s2,0x08C643F4,0x08C62E7C,20,Ancient Shield,shield#152,エンシェントシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C643F8,0x08C62E7C,20,Ancient Shield,shield#152,エンシェントシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C643FC,0x08C62E94,8,Legend.,shield#153,伝説の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64428,0x08C62EA0,14,War Shield,shield#154,ウォーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C6442C,0x08C62EA0,14,War Shield,shield#154,ウォーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64430,0x08C62EB0,44,Wartime masterwork surviving many wars.,shield#155,戦時中に使われたとされる歴戦を勝ち残った名品,0x08C62110,0x08C636B3
+shield__s2,0x08C6445C,0x08C62EE0,18,Rare Metal Shield,shield#156,レアメタルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64460,0x08C62EE0,18,Rare Metal Shield,shield#156,レアメタルシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64464,0x08C62EF4,32,Versatile shield of rare steel.,shield#157,希少な鋼鉄で鍛えられた汎用的な盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64490,0x08C62F18,20,Titanium Cover,shield#158,チタンカバーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64494,0x08C62F18,20,Titanium Cover,shield#158,チタンカバーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64498,0x08C62F30,44,Wood shield clad in extra strong metal.,shield#159,更に強度の高い金属で強化されたウッドシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C644C4,0x08C62F60,18,King of Beasts,shield#160,キングオブビースト,0x08C62110,0x08C636B3
+shield__s2,0x08C644C8,0x08C62F60,18,King of Beasts,shield#160,キングオブビースト,0x08C62110,0x08C636B3
+shield__s2,0x08C644CC,0x08C62F74,48,A masterwork engraved with the sovereign lion king.,shield#161,百獣の王の中でも頂点に立つ獅子の王が刻まれた名品,0x08C62110,0x08C636B3
+shield__s2,0x08C644F8,0x08C62FA8,18,Emperor Shield,shield#162,エンペラーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C644FC,0x08C62FA8,18,Emperor Shield,shield#162,エンペラーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64500,0x08C62FBC,30,Made for an emperor at war.,shield#163,戦いに赴く皇帝の為に作られた盾,0x08C62110,0x08C636B3
+shield__s2,0x08C6452C,0x08C62FDC,18,Empress Shield,shield#164,エンプレスシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64530,0x08C62FDC,18,Empress Shield,shield#164,エンプレスシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64534,0x08C62FF0,30,Made for an empress at war.,shield#165,戦いに赴く女帝の為に作られた盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64560,0x08C63010,14,Orb Shield,shield#166,オーブシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64564,0x08C63010,14,Orb Shield,shield#166,オーブシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64568,0x08C63020,38,Shield set with lucky stones.,shield#167,運気を上げるとされる魔石をあしらった盾,0x08C62110,0x08C636B3
+shield__s1,0x08C64594,0x08C63048,20,Eirene Shield,shield#168,エイレーネーシールド,0x08C61FF8,0x08C620FF
+shield__s1,0x08C64598,0x08C63048,20,Eirene Shield,shield#168,エイレーネーシールド,0x08C61FF8,0x08C620FF
+shield__s2,0x08C6459C,0x08C63060,40,"A shield meaning peace, a goddess aspect.",shield#169,美の女神の一面である「平和」を意味する盾,0x08C62110,0x08C636B3
+shield__s2,0x08C645C8,0x08C6308C,18,Ancient Bone,shield#170,エンシェントボーン,0x08C62110,0x08C636B3
+shield__s2,0x08C645CC,0x08C6308C,18,Ancient Bone,shield#170,エンシェントボーン,0x08C62110,0x08C636B3
+shield__s2,0x08C645D0,0x08C630A0,40,Rugged shield of ancient bones.,shield#171,古生代の魔物の骨で作られた屈強なシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C645FC,0x08C630CC,20,Arch D Shield,shield#172,アーク・Ｄ・シールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64600,0x08C630E4,20,Arch D Shield,shield#173,アークディーシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64604,0x08C630FC,42,Dread shield scaring even fiends.,shield#174,上級悪魔の妖面が魔物すら怯えさせる脅威の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64630,0x08C63128,8,Warrior,shield#175,戦士の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64634,0x08C63134,12,Warrior,shield#176,センシノタテ,0x08C62110,0x08C636B3
+shield__s2,0x08C64638,0x08C63144,36,Shield for Descender warriors.,shield#177,ディセンダーと認められた戦士専用の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64664,0x08C6316C,8,Swordsmn,shield#178,剣士の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64668,0x08C63178,12,Swordsmn,shield#179,ケンシノタテ,0x08C62110,0x08C636B3
+shield__s2,0x08C6466C,0x08C63188,36,Shield for Descender swordsmen.,shield#180,ディセンダーと認められた剣士専用の盾,0x08C62110,0x08C636B3
+shield__s1,0x08C64698,0x08C631B0,12,Spellblade,shield#181,魔法剣士の盾,0x08C61FF8,0x08C620FF
+shield__s1,0x08C6469C,0x08C631C0,18,Spellblade,shield#182,マホウケンシノタテ,0x08C61FF8,0x08C620FF
+shield__s2,0x08C646A0,0x08C631D4,40,Shield for Descender spellblades.,shield#183,ディセンダーと認められた魔法剣士専用の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C646CC,0x08C63200,8,Fighter,shield#184,闘士の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C646D0,0x08C6320C,12,Fighter,shield#185,トウシノタテ,0x08C62110,0x08C636B3
+shield__s2,0x08C646D4,0x08C6321C,38,Shield made for Descender warriors.,shield#186,ディセンダーの為に作られた戦士専用の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64700,0x08C63244,8,Knight,shield#187,騎士の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64704,0x08C63250,10,Knight,shield#188,キシノタテ,0x08C62110,0x08C636B3
+shield__s2,0x08C64708,0x08C6325C,38,Shield made for Descender swordsmen.,shield#189,ディセンダーの為に作られた剣士専用の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64734,0x08C63284,12,M. Knight,shield#190,魔法騎士の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64738,0x08C63294,16,M. Knight,shield#191,マホウキシノタテ,0x08C62110,0x08C636B3
+shield__s2,0x08C6473C,0x08C632A8,42,Shield made for Descender spellblades.,shield#192,ディセンダーの為に作られた魔法剣士専用の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64768,0x08C632D4,16,R Line Shield,shield#193,Ｒラインシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C6476C,0x08C632E8,20,Red Line Shield,shield#194,レッドラインシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64770,0x08C63300,40,Gilgamesh shield with red lines.,shield#195,赤いラインが鮮やかな勇者ギルガメシュの盾,0x08C62110,0x08C636B3
+shield__s2,0x08C6479C,0x08C6332C,16,B Line Shield,shield#196,Ｂラインシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C647A0,0x08C63340,20,Blue Line Shield,shield#197,ブルーラインシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C647A4,0x08C63358,40,Gilgamesh shield with blue lines.,shield#198,青いラインが鮮やかな勇者ギルガメシュの盾,0x08C62110,0x08C636B3
+shield__s2,0x08C647D0,0x08C63384,16,Storm Shield,shield#199,ストームシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C647D4,0x08C63384,16,Storm Shield,shield#199,ストームシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C647D8,0x08C63398,32,Shield repelling any storm.,shield#200,どんな嵐をも防ぐとされる伝説の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64804,0x08C633BC,10,Dominion,shield#201,ドミニオン,0x08C62110,0x08C636B3
+shield__s2,0x08C64808,0x08C633BC,10,Dominion,shield#201,ドミニオン,0x08C62110,0x08C636B3
+shield__s2,0x08C6480C,0x08C633C8,40,Winged angel shield of legend.,shield#202,幾枚もの羽を持つ主天使の姿をした伝説の盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64838,0x08C633F4,10,Friend Choc,shield#203,義理チョコ,0x08C62110,0x08C636B3
+shield__s2,0x08C6483C,0x08C63400,10,Friend Choc,shield#204,ギリチョコ,0x08C62110,0x08C636B3
+shield__s2,0x08C64840,0x08C6340C,32,Token of thanks for kindness.,shield#205,お世話になっている人への感謝の印,0x08C62110,0x08C636B3
+shield__s2,0x08C6486C,0x08C63430,10,True Love,shield#206,本命チョコ,0x08C62110,0x08C636B3
+shield__s2,0x08C64870,0x08C6343C,14,True Love Choc,shield#207,ホンメイチョコ,0x08C62110,0x08C636B3
+shield__s2,0x08C64874,0x08C6344C,24,"These feelings, just you.",shield#208,この想いをあなただけに…,0x08C62110,0x08C636B3
+shield__s2,0x08C648A0,0x08C63468,8,Don-chan,shield#209,和田どん,0x08C62110,0x08C636B3
+shield__s2,0x08C648A4,0x08C63474,8,Don-chan,shield#210,ワダドン,0x08C62110,0x08C636B3
+shield__s2,0x08C648A8,0x08C63480,42,Blocking with this makes no 'don!' sound.,shield#211,これで防御しても「どん！」と音は鳴りません,0x08C62110,0x08C636B3
+shield__s2,0x08C648D4,0x08C634AC,8,Kat-chan,shield#212,和田かつ,0x08C62110,0x08C636B3
+shield__s2,0x08C648D8,0x08C634B8,8,Kat-chan,shield#213,ワダカツ,0x08C62110,0x08C636B3
+shield__s2,0x08C648DC,0x08C634C4,42,Blocking with this makes no 'kat!' sound.,shield#214,これで防御しても「かつ！」と音は鳴りません,0x08C62110,0x08C636B3
+shield__s2,0x08C64908,0x08C634F0,6,Flound,shield#215,ヒラメ,0x08C62110,0x08C636B3
+shield__s2,0x08C6490C,0x08C634F0,6,Flound,shield#215,ヒラメ,0x08C62110,0x08C636B3
+shield__s2,0x08C64910,0x08C634F8,42,"A fine white fish. Frozen, so it's sturdy.",shield#216,上品な白身魚。冷凍してあるので結構丈夫です,0x08C62110,0x08C636B3
+shield__s2,0x08C6493C,0x08C63524,12,Rare Shield,shield#217,レアシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64940,0x08C63524,12,Rare Shield,shield#217,レアシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64944,0x08C63534,46,Shield equipped by Kratos from TOS in this game.,shield#218,ＴＯＳに登場したクラトスが本作で装備している盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64970,0x08C63564,18,Queen of Hearts,shield#219,クィーンオブハート,0x08C62110,0x08C636B3
+shield__s2,0x08C64974,0x08C63564,18,Queen of Hearts,shield#219,クィーンオブハート,0x08C62110,0x08C636B3
+shield__s2,0x08C64978,0x08C63578,46,Shield equipped by Estelle from TOV in this game.,shield#220,ＴＯＶに登場したエステルが本作で装備している盾,0x08C62110,0x08C636B3
+shield__s2,0x08C649A4,0x08C635A8,18,Andor Genesis,shield#221,アンドアジェネシス,0x08C62110,0x08C636B3
+shield__s2,0x08C649A8,0x08C635A8,18,Andor Genesis,shield#221,アンドアジェネシス,0x08C62110,0x08C636B3
+shield__s2,0x08C649AC,0x08C635BC,30,That fortress of legend is here!,shield#222,あの難攻不落の要塞が今ここに！,0x08C62110,0x08C636B3
+shield__s2,0x08C649D8,0x08C635DC,10,Toroid,shield#223,トーロイド,0x08C62110,0x08C636B3
+shield__s2,0x08C649DC,0x08C635DC,10,Toroid,shield#223,トーロイド,0x08C62110,0x08C636B3
+shield__s2,0x08C649E0,0x08C635E8,50,Classic video game character appears as equipment!,shield#224,なつかしのビデオゲームのキャラクターが装備で登場！,0x08C62110,0x08C636B3
+shield__s2,0x08C6CB4C,0x08C635E8,50,Classic video game character appears as equipment!,shield#224,なつかしのビデオゲームのキャラクターが装備で登場！,0x08C62110,0x08C636B3
+shield__s2,0x08C64A0C,0x08C6361C,8,Bacura,shield#225,バキュラ,0x08C62110,0x08C636B3
+shield__s2,0x08C64A10,0x08C6361C,8,Bacura,shield#225,バキュラ,0x08C62110,0x08C636B3
+shield__s2,0x08C64A14,0x08C63628,30,Won't break even after 256 hits!,shield#226,２５６発攻撃されても壊れません,0x08C62110,0x08C636B3
+shield__s2,0x08C64A40,0x08C63648,22,White Knight Shield,shield#227,ホワイトナイトシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64A44,0x08C63648,22,White Knight Shield,shield#227,ホワイトナイトシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64A48,0x08C63660,44,Shield equipped by Flynn from TOV in this game.,shield#228,ＴＯＶに登場したフレンが本作で装備している盾,0x08C62110,0x08C636B3
+shield__s2,0x08C64A74,0x08C63690,14,Beam Shield,shield#229,ビームシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64A78,0x08C63690,14,Beam Shield,shield#229,ビームシールド,0x08C62110,0x08C636B3
+shield__s2,0x08C64A7C,0x08C636A0,18,Unknown tech core.,shield#230,未知の技術の結晶体,0x08C62110,0x08C636B3
+skit,0x08D70BEC,0x08CFFB64,18,First Skit,skit#0,はじめてのスキット,,
+skit,0x08D70C38,0x08CFFB78,18,Hurry to Ange!,skit#1,アンジュの元へ急げ,,
+skit,0x08D70D1C,0x08CFFB78,18,Hurry to Ange!,skit#1,アンジュの元へ急げ,,
+skit,0x08D70DB4,0x08CFFB78,18,Hurry to Ange!,skit#1,アンジュの元へ急げ,,
+skit,0x08D70E00,0x08CFFB78,18,Hurry to Ange!,skit#1,アンジュの元へ急げ,,
+skit,0x08D70F30,0x08CFFB78,18,Hurry to Ange!,skit#1,アンジュの元へ急げ,,
+skit,0x08D70FC8,0x08CFFB78,18,Hurry to Ange!,skit#1,アンジュの元へ急げ,,
+skit,0x08D71060,0x08CFFB78,18,Hurry to Ange!,skit#1,アンジュの元へ急げ,,
+skit,0x08D70C84,0x08CFFB8C,18,Take on Quests,skit#2,クエストを受けよう,,
+skit,0x08D70D68,0x08CFFB8C,18,Take on Quests,skit#2,クエストを受けよう,,
+skit,0x08D70E4C,0x08CFFB8C,18,Take on Quests,skit#2,クエストを受けよう,,
+skit,0x08D70CD0,0x08CFFBA0,16,First Shopping,skit#3,初めてのお買い物,,
+skit,0x08D70E98,0x08CFFBB4,14,To Destination!,skit#4,いざ、目的地へ,,
+skit,0x08D70EE4,0x08CFFBC4,18,Quick Return: Handy,skit#5,パッと戻る　は便利,,
+skit,0x08D70F7C,0x08CFFBD8,20,"Now, the Travel Menu",skit#6,さあ、移動メニューよ,,
+skit,0x08D71014,0x08CFFBD8,20,"Now, the Travel Menu",skit#6,さあ、移動メニューよ,,
+skit,0x08D710AC,0x08CFFBF0,16,Wait a Minute!,skit#7,ちょっと待って！,,
+skit,0x08D710F8,0x08CFFC04,14,At Such Times?,skit#8,こういう時は？,,
+skit,0x08D71144,0x08CFFC14,12,Sparring,skit#9,剣の手合わせ,,
+skit,0x08D71190,0x08CFFC24,6,Hot!,skit#10,暑い！,,
+skit,0x08D711DC,0x08CFFC2C,18,Is Reusing Good?,skit#11,再利用はいいこと？,,
+skit,0x08D71228,0x08CFFC40,14,More Allies!,skit#12,仲間が増えた！,,
+skit,0x08D71274,0x08CFFC50,10,Pure Evil,skit#13,生粋の悪人,,
+skit,0x08D712C0,0x08CFFC5C,10,Shared Flaw,skit#14,共通の弱点,,
+skit,0x08D7130C,0x08CFFC68,8,Best Fit,skit#15,適材適所,,
+skit,0x08D71358,0x08CFFC74,12,Nice Voice!,skit#16,良い声ですね,,
+skit,0x08D713A4,0x08CFFC84,22,Ask Mint for Advice,skit#17,ミントに相談してみよう,,
+skit,0x08D713F0,0x08CFFC9C,30,Ask Mint for Advice: Pt 2,skit#18,ミントに相談してみよう・その２,,
+skit,0x08D7143C,0x08CFFCBC,12,Curious One,skit#19,気になる相手,,
+skit,0x08D71488,0x08CFFCCC,12,Hardship Chat,skit#20,苦労人座談会,,
+skit,0x08D714D4,0x08CFFCDC,10,Speaking Up,skit#21,あつく語る,,
+skit,0x08D71520,0x08CFFCE8,24,She's a XX Cook: Pt 2,skit#22,彼女は××料理人・その２,,
+skit,0x08D7156C,0x08CFFD04,20,"Amazing, Ms. Raine",skit#23,すごいよリフィル先生,,
+skit,0x08D715B8,0x08CFFD1C,18,Pretty Flower...,skit#24,きれいな花には……,,
+skit,0x08D71604,0x08CFFD30,28,Love Talk: Chester,skit#25,教えて、恋の話・チェスター編,,
+skit,0x08D71650,0x08CFFD50,26,Quiz! Chester,skit#26,心理テスト！・チェスター編,,
+skit,0x08D7169C,0x08CFFD6C,10,Special!,skit#27,すぺしゃる,,
+skit,0x08D716E8,0x08CFFD78,14,Pot & Kettle!,skit#28,お前が言うな！,,
+skit,0x08D71734,0x08CFFD88,16,In the Way?,skit#29,邪魔じゃないの？,,
+skit,0x08D71780,0x08CFFD9C,14,Cheer Up!,skit#30,元気出さなきゃ,,
+skit,0x08D717CC,0x08CFFDAC,16,Arche's Broom,skit#31,アーチェのホウキ,,
+skit,0x08D71818,0x08CFFDC0,10,All Alone,skit#32,一人ぼっち,,
+skit,0x08D71864,0x08CFFDCC,24,She's a XX Cook: Pt 3,skit#33,彼女は××料理人・その３,,
+skit,0x08D718B0,0x08CFFDE8,18,Arche's Prank,skit#34,アーチェのイタズラ,,
+skit,0x08D718FC,0x08CFFDFC,24,Miracle & Karma,skit#35,出会いの奇跡、代償の宿業,,
+skit,0x08D71948,0x08CFFE18,24,Quiz! Arche,skit#36,心理テスト！・アーチェ編,,
+skit,0x08D71994,0x08CFFE34,8,Ninja Way,skit#37,忍びの道,,
+skit,0x08D719E0,0x08CFFE40,10,Ninja Fit,skit#38,忍者の適正,,
+skit,0x08D71A2C,0x08CFFE4C,10,New World,skit#39,新しい世界,,
+skit,0x08D74BC0,0x08CFFE4C,10,New World,skit#39,新しい世界,,
+skit,0x08D71A78,0x08CFFE58,12,So Cool~,skit#40,すずしいな〜,,
+skit,0x08D71AC4,0x08CFFE68,12,Wise Suzu,skit#41,物知りなすず,,
+skit,0x08D71B10,0x08CFFE78,16,That's Cheating!,skit#42,そんなのズルい！,,
+skit,0x08D71B5C,0x08CFFE8C,18,No Spicy Food,skit#43,辛いものは苦手です,,
+skit,0x08D71BA8,0x08CFFEA0,16,Another Ninja?,skit#44,もう一人の忍者？,,
+skit,0x08D71BF4,0x08CFFEB4,8,Our Dream,skit#45,二人の夢,,
+skit,0x08D71C40,0x08CFFEC0,18,Just Being Near...,skit#46,そばにいるだけで…,,
+skit,0x08D71C8C,0x08CFFED4,12,0 Gald Left,skit#47,残金０ガルド,,
+skit,0x08D71CD8,0x08CFFEE4,14,Even Fleeing...,skit#48,逃げるのも……,,
+skit,0x08D71D24,0x08CFFEF4,14,Stahn's Talent?,skit#49,スタンの特技？,,
+skit,0x08D71D70,0x08CFFF04,12,We Click,skit#50,気が合うんだ,,
+skit,0x08D71DBC,0x08CFFF14,10,Board Talk?,skit#51,重役会議？,,
+skit,0x08D71E08,0x08CFFF20,22,Let's Go Over There,skit#52,そうだ、あそこへ行こう,,
+skit,0x08D71E54,0x08CFFF38,18,The Real Truth?,skit#53,ホントのところは？,,
+skit,0x08D71EA0,0x08CFFF4C,24,For Future Beyond Now,skit#54,「今」の先の未来のために,,
+skit,0x08D71EEC,0x08CFFF68,14,How's It Going?,skit#55,最近どうなの？,,
+skit,0x08D71F38,0x08CFFF78,10,So Rich!,skit#56,お金持ち！,,
+skit,0x08D71F84,0x08CFFF84,12,"500,000 Gald",skit#57,５０万ガルド,,
+skit,0x08D71FD0,0x08CFFF94,12,Chasing Girls,skit#58,男は美女好き,,
+skit,0x08D7201C,0x08CFFFA4,20,Why Don't You Get It?,skit#59,どうしてわからない？,,
+skit,0x08D72068,0x08CFFFBC,22,Special Menu Ideas,skit#60,特別メニューを考えよう,,
+skit,0x08D720B4,0x08CFFFD4,16,Clergy Romance,skit#61,聖職者の恋愛事情,,
+skit,0x08D72100,0x08CFFFE8,18,Priestly Affairs,skit#62,神官様の特殊な事情,,
+skit,0x08D7214C,0x08CFFFFC,32,Road to Feasts: Pt 2,skit#63,目指せ、豪華献立への道！・その２,,
+skit,0x08D72198,0x08D00020,12,Roni's Worry,skit#64,ロニの悩み事,,
+skit,0x08D721E4,0x08D00030,14,Philia's Gaze,skit#65,フィリアの目力,,
+skit,0x08D72230,0x08D00040,16,Philia's Glasses,skit#66,フィリアのメガネ,,
+skit,0x08D7227C,0x08D00054,18,Judas's Instinct?,skit#67,ジューダスの直感？,,
+skit,0x08D722C8,0x08D00068,8,Act Age,skit#68,年齢相応,,
+skit,0x08D72314,0x08D00074,12,Ask Leon,skit#69,リオンに質問,,
+skit,0x08D72360,0x08D00084,14,Could It Be...?,skit#70,もしかして……,,
+skit,0x08D723AC,0x08D00094,14,Do It Together,skit#71,一緒にやろうよ,,
+skit,0x08D723F8,0x08D000A4,16,Benefits of Tea,skit#72,その紅茶の効用は,,
+skit,0x08D72444,0x08D000B8,12,Like Spring,skit#73,春みたいです,,
+skit,0x08D72490,0x08D000C8,14,Tactics Theory,skit#74,究極の戦術理論,,
+skit,0x08D724DC,0x08D000D8,22,Ultimate Tactics: Pt 2,skit#75,究極の戦術理論・その２,,
+skit,0x08D72528,0x08D000F0,12,Let's All Go,skit#76,皆で行こうよ,,
+skit,0x08D72574,0x08D00100,10,Rose Blade,skit#77,薔薇の剣士,,
+skit,0x08D725C0,0x08D0010C,14,Wild Reunion?,skit#78,まさかの再会？,,
+skit,0x08D7260C,0x08D0011C,12,Indistinct?,skit#79,判別不可能？,,
+skit,0x08D72658,0x08D0012C,14,A Vast World,skit#80,広い、この世界,,
+skit,0x08D726A4,0x08D0013C,22,Call Me Casually,skit#81,気楽に呼んでくれたまえ,,
+skit,0x08D726F0,0x08D00154,10,Wise King,skit#82,賢王の貫禄,,
+skit,0x08D7273C,0x08D00160,18,Inheriting Crown,skit#83,王位を継ぐという事,,
+skit,0x08D72788,0x08D00174,8,Mealtime,skit#84,皆でご飯,,
+skit,0x08D727D4,0x08D00180,18,Just Imagination?,skit#85,本当に、気のせい？,,
+skit,0x08D72820,0x08D00194,10,Yet Adult,skit#86,大人なのに,,
+skit,0x08D7286C,0x08D001A0,26,Quiz! Chelsea,skit#87,心理テスト！・チェルシー編,,
+skit,0x08D728B8,0x08D001BC,12,Wanna Ask?,skit#88,聞いてみる？,,
+skit,0x08D72904,0x08D001CC,12,Angel Colette,skit#89,天使コレット,,
+skit,0x08D72950,0x08D001DC,18,Chelsea's Bias,skit#90,チェルシーの色眼鏡,,
+skit,0x08D7299C,0x08D001F0,14,Close Friends?,skit#91,仲の良い二人？,,
+skit,0x08D729E8,0x08D00200,20,Not That Different,skit#92,そんなに変わりません,,
+skit,0x08D72A34,0x08D00218,10,Special Art,skit#93,特別に伝授,,
+skit,0x08D72A80,0x08D00224,8,Origin?,skit#94,出所は？,,
+skit,0x08D72ACC,0x08D00230,16,Looking Forward,skit#95,それくらい楽しみ,,
+skit,0x08D72B18,0x08D00244,16,Kongman is Strong,skit#96,強いぞコングマン,,
+skit,0x08D72B64,0x08D00258,10,My Angel,skit#97,俺様の天使,,
+skit,0x08D72BB0,0x08D00264,20,Why That Hairstyle?,skit#98,どうして、その髪型？,,
+skit,0x08D72BFC,0x08D0027C,20,What With That Outfit?,skit#99,その格好、どうなの？,,
+skit,0x08D72C48,0x08D00294,12,Just My Body,skit#100,そういう体質,,
+skit,0x08D72C94,0x08D002A4,16,Good Old Rocks,skit#101,さすが、ロックス,,
+skit,0x08D72CE0,0x08D002B8,12,Ladle Legend,skit#102,最強お玉列伝,,
+skit,0x08D72D2C,0x08D002C8,20,Ladle Legend: Pt 2,skit#103,最強お玉列伝・その２,,
+skit,0x08D72D78,0x08D002E0,20,Ladle Legend: Pt 3,skit#104,最強お玉列伝・その３,,
+skit,0x08D72DC4,0x08D002F8,10,For Brother,skit#105,兄のために,,
+skit,0x08D72E10,0x08D00304,10,First Meet,skit#106,初顔合わせ,,
+skit,0x08D72E5C,0x08D00310,16,Everyone's Rock,skit#107,皆の元気の拠り所,,
+skit,0x08D72EA8,0x08D00324,8,Sis Toil,skit#108,妹の苦労,,
+skit,0x08D72EF4,0x08D00330,8,Same Mind,skit#109,同じ思考,,
+skit,0x08D72F40,0x08D0033C,16,She's a XX Cook,skit#110,彼女は××料理人,,
+skit,0x08D72F8C,0x08D00350,22,Quiz! Kyle,skit#111,心理テスト！・カイル編,,
+skit,0x08D72FD8,0x08D00368,10,Oh Nooo~,skit#112,がびょ〜ん,,
+skit,0x08D73024,0x08D00374,18,Is Lazaris Bad?,skit#113,ラザリスは悪い奴？,,
+skit,0x08D73070,0x08D00388,12,Kyle Sibling,skit#114,カイルの兄弟,,
+skit,0x08D730BC,0x08D00398,24,Asbel's Father: Pt 2,skit#115,アスベルの父さん・その２,,
+skit,0x08D73108,0x08D003B4,24,Asbel's Father: Pt 3,skit#116,アスベルの父さん・その３,,
+skit,0x08D73154,0x08D003D0,14,Dyunamis,skit#117,「デュナミス」,,
+skit,0x08D731A0,0x08D003D0,14,Dyunamis,skit#117,「デュナミス」,,
+skit,0x08D731EC,0x08D003E0,12,All Happiness,skit#118,みんなの幸せ,,
+skit,0x08D73238,0x08D003F0,22,Quiz! Reala,skit#119,心理テスト！・リアラ編,,
+skit,0x08D73284,0x08D00408,14,Melancholy,skit#120,めらんこりっく,,
+skit,0x08D732D0,0x08D00418,12,Anise & Money,skit#121,アニスとお金,,
+skit,0x08D7331C,0x08D00428,20,So Fluffy...,skit#122,ふわふわしていて……,,
+skit,0x08D73368,0x08D00440,20,Whose Feat? (Unused),skit#123,誰のお手柄？（欠番）,,
+skit,0x08D733B4,0x08D00458,12,Whose Feat?,skit#124,誰のお手柄？,,
+skit,0x08D73400,0x08D00468,10,New Voice,skit#125,見知らぬ声,,
+skit,0x08D7344C,0x08D00474,10,Shock Truth,skit#126,衝撃の事実,,
+skit,0x08D73498,0x08D00480,18,Shock Truth: Later,skit#127,衝撃の事実・その後,,
+skit,0x08D734E4,0x08D00494,8,Hot Girls,skit#128,美女談議,,
+skit,0x08D73530,0x08D004A0,18,"Similar, Yet Not...",skit#129,似てるけど……違う,,
+skit,0x08D7357C,0x08D004B4,12,Name Meaning,skit#130,呼び方の意味,,
+skit,0x08D735C8,0x08D004C4,10,True Rumor?,skit#131,噂の真相？,,
+skit,0x08D73614,0x08D004D0,10,Wary Roni,skit#132,悩めるロニ,,
+skit,0x08D73660,0x08D004DC,20,Leon Magnus,skit#133,「リオン・マグナス」,,
+skit,0x08D736AC,0x08D004F4,12,Cannot Accept,skit#134,納得できない,,
+skit,0x08D736F8,0x08D00504,18,Judas's Stress,skit#135,ジューダスの気苦労,,
+skit,0x08D73744,0x08D00518,12,Way Hotter,skit#136,余計に暑そう,,
+skit,0x08D73790,0x08D00528,16,When Together...?,skit#137,二人揃うと……？,,
+skit,0x08D737DC,0x08D0053C,8,Training,skit#138,腕を磨く,,
+skit,0x08D73828,0x08D00548,14,Kyle's Concern,skit#139,カイルの気遣い,,
+skit,0x08D73874,0x08D00558,20,Familiar Figure,skit#140,見覚えのある、後ろ姿,,
+skit,0x08D738C0,0x08D00570,24,Remember Back Then?,skit#141,あの頃のこと、覚えてる？,,
+skit,0x08D7390C,0x08D0058C,12,Like Family,skit#142,家族みたいだ,,
+skit,0x08D73958,0x08D0059C,20,Like Family: Pt 2,skit#143,家族みたいだ・その２,,
+skit,0x08D739A4,0x08D005B4,18,Nanaly Cooks Well,skit#144,ナナリーは料理上手,,
+skit,0x08D739F0,0x08D005C8,10,Sudden Harm,skit#145,思わぬ被害,,
+skit,0x08D73A3C,0x08D005D4,16,Funny Nanaly,skit#146,おかしなナナリー,,
+skit,0x08D73A88,0x08D005E8,20,Reliable Nanaly,skit#147,しっかり者のナナリー,,
+skit,0x08D73AD4,0x08D00600,14,Nanaly's Kin,skit#148,ナナリーの家族,,
+skit,0x08D73B20,0x08D00610,22,"Mutual Feeling, Right?",skit#149,お互い様なんじゃない？,,
+skit,0x08D73B6C,0x08D00628,20,Way to Cheer Up,skit#150,ヒトを元気にする方法,,
+skit,0x08D73BB8,0x08D00640,10,Key Study,skit#151,大切な勉強,,
+skit,0x08D73C04,0x08D0064C,20,Harold's Invention,skit#152,ハロルド博士の新発明,,
+skit,0x08D73C50,0x08D00664,14,Harold's Nature,skit#153,ハロルドの性分,,
+skit,0x08D73C9C,0x08D00674,14,Heart of Tree,skit#154,世界樹のこころ,,
+skit,0x08D73CE8,0x08D00684,22,Secret Medicine...,skit#155,ヒミツの薬の効能は……,,
+skit,0x08D73D34,0x08D0069C,16,Emil Returns,skit#156,還ってきたエミル,,
+skit,0x08D73D80,0x08D006B0,16,Mind the Place,skit#157,場所をわきまえて,,
+skit,0x08D73DCC,0x08D006C4,22,Tactics Theory: Pt 5,skit#158,究極の戦術理論・その５,,
+skit,0x08D73E18,0x08D006DC,16,Unlucky Reid,skit#159,とばっちりリッド,,
+skit,0x08D73E64,0x08D006F0,14,Mao Scary Tale,skit#160,マオの怖〜い話,,
+skit,0x08D73EB0,0x08D00700,20,Is That Tasty?,skit#161,それっておいしいの？,,
+skit,0x08D73EFC,0x08D00718,20,Day Big Ota Born,skit#162,デカオタが生まれた日,,
+skit,0x08D73F48,0x08D00730,12,Child & Adult,skit#163,子どもと大人,,
+skit,0x08D73F94,0x08D00740,14,Study Serious,skit#164,授業は真面目に,,
+skit,0x08D73FE0,0x08D00750,10,Peers,skit#165,同業者たち,,
+skit,0x08D7402C,0x08D0075C,18,"Sword, Soul, Creed",skit#166,剣と資質と、信条と,,
+skit,0x08D74078,0x08D00770,20,Last Night in Bath,skit#167,昨日の夜、お風呂場で,,
+skit,0x08D740C4,0x08D00788,10,No Fighting,skit#168,喧嘩はダメ,,
+skit,0x08D74110,0x08D00794,16,Farah is Great,skit#169,ファラはすごいね,,
+skit,0x08D7415C,0x08D007A8,16,Ready to Die,skit#170,死を覚悟するとき,,
+skit,0x08D741A8,0x08D007BC,24,Special Circumstances,skit#171,そういう事情があるんです,,
+skit,0x08D741F4,0x08D007D8,16,Farah's Pride!,skit#172,ファラの自信作！,,
+skit,0x08D74240,0x08D007EC,10,Idle Gossip,skit#173,井戸端会議,,
+skit,0x08D7428C,0x08D007F8,20,Keele's Classroom,skit#174,キールの青空補習教室,,
+skit,0x08D742D8,0x08D00810,28,Keele's Classroom: Pt 2,skit#175,キールの青空補習教室・その２,,
+skit,0x08D74324,0x08D00830,14,Just Exhausted,skit#176,疲れているんだ,,
+skit,0x08D74370,0x08D00840,14,Hard Times,skit#177,苦労してるんだ,,
+skit,0x08D743BC,0x08D00850,20,Treasure Your Food,skit#178,食べ物は大事にしよう,,
+skit,0x08D74408,0x08D00868,20,Wanna Know the Tree,skit#179,世界樹が事知りたいよ,,
+skit,0x08D74454,0x08D00880,20,What Keele Lacks,skit#180,キールに足りないもの,,
+skit,0x08D744A0,0x08D00898,12,Unseen Truth,skit#181,不可視の真実,,
+skit,0x08D744EC,0x08D008A8,12,Meredy's Home,skit#182,メルディの家,,
+skit,0x08D74538,0x08D008B8,18,Big Bro Tytree,skit#183,ティトレイ兄ちゃん,,
+skit,0x08D74584,0x08D008CC,14,Suzu Scary Tale,skit#184,すずの怖〜い話,,
+skit,0x08D745D0,0x08D008DC,8,Penalty,skit#185,罰ゲーム,,
+skit,0x08D7461C,0x08D008E8,24,Quiz! Meredy,skit#186,心理テスト！・メルディ編,,
+skit,0x08D74668,0x08D00904,22,Quiz! Keele,skit#187,心理テスト！・キール編,,
+skit,0x08D746B4,0x08D0091C,20,What Remains Unchanged,skit#188,変わらずに、残るもの,,
+skit,0x08D74700,0x08D00934,20,Poppo Translates,skit#189,ポッポ、通訳を頑張る,,
+skit,0x08D7474C,0x08D0094C,18,Animal Typhoon,skit#190,アニマルタイフーン,,
+skit,0x08D74798,0x08D00960,22,My Van Eltia,skit#191,ボクのバンエルティア号,,
+skit,0x08D747E4,0x08D00978,18,This Again?,skit#192,またこのパターン？,,
+skit,0x08D74830,0x08D0098C,10,Emergency,skit#193,非常だから,,
+skit,0x08D7487C,0x08D00998,22,More Allies!: Pt 2,skit#194,仲間が増えた！・その２,,
+skit,0x08D748C8,0x08D009B0,18,Who's Highest?,skit#195,誰が一番、えらい？,,
+skit,0x08D74914,0x08D009C4,24,Hate It That Much!,skit#196,そこまで、嫌いなんです！,,
+skit,0x08D74960,0x08D009E0,20,"I Know, But Still...",skit#197,わかっているけど……,,
+skit,0x08D749AC,0x08D009F8,28,"I Know, But Still: Pt 2",skit#198,わかっているけど……・その２,,
+skit,0x08D749F8,0x08D00A18,28,"I Know, But Still: Pt 3",skit#199,わかっているけど……・その３,,
+skit,0x08D74A44,0x08D00A38,10,My Limit,skit#200,我慢の限界,,
+skit,0x08D74A90,0x08D00A44,6,Cold!,skit#201,氷の女,,
+skit,0x08D74ADC,0x08D00A4C,8,Ice Pair,skit#202,氷の男女,,
+skit,0x08D74B28,0x08D00A58,18,I Warned You,skit#203,だから忠告したのに,,
+skit,0x08D74B74,0x08D00A6C,10,Spirit Mood,skit#204,精霊の感傷,,
+skit,0x08D74C0C,0x08D00A78,20,Not Bad At All...?,skit#205,まんざらでもない…？,,
+skit,0x08D74C58,0x08D00A90,10,Fine Amity,skit#206,美しき友愛,,
+skit,0x08D74CA4,0x08D00A9C,20,Sparring: Pt 2,skit#207,剣の手合わせ・その２,,
+skit,0x08D74CF0,0x08D00AB4,10,Proud Tutor,skit#208,先生自慢？,,
+skit,0x08D74D3C,0x08D00AC0,16,Lloyd Excites,skit#209,ロイド、興奮する,,
+skit,0x08D74D88,0x08D00AD4,12,Count on Me,skit#210,よろしく頼む,,
+skit,0x08D74DD4,0x08D00AE4,22,Tactics Theory: Pt 4,skit#211,究極の戦術理論・その４,,
+skit,0x08D74E20,0x08D00AFC,12,Which One?,skit#212,どっちなの？,,
+skit,0x08D74E6C,0x08D00B0C,16,Kanonno Special?,skit#213,カノンノは特別？,,
+skit,0x08D74EB8,0x08D00B20,18,Kratos's Intent?,skit#214,クラトスの真意は？,,
+skit,0x08D74F04,0x08D00B34,30,Soap Girl: Pt 2,skit#215,シャボン娘に聞いてみた・その２,,
+skit,0x08D74F50,0x08D00B54,30,Soap Girl: Pt 3,skit#216,シャボン娘に聞いてみた・その３,,
+skit,0x08D74F9C,0x08D00B74,12,Handy Wings,skit#217,便利な羽です,,
+skit,0x08D74FE8,0x08D00B84,14,I'll Help Out,skit#218,お手伝いするね,,
+skit,0x08D75034,0x08D00B94,20,Bearing Angel Fate,skit#219,天使の宿業を背負う者,,
+skit,0x08D75080,0x08D00BAC,6,Crush,skit#220,片思い,,
+skit,0x08D750CC,0x08D00BB4,10,Nice Meet!,skit#221,よろしくね,,
+skit,0x08D75118,0x08D00BC0,14,Saw a Ghost!,skit#222,幽霊を見たぞ！,,
+skit,0x08D75164,0x08D00BD0,12,Always Close,skit#223,ずっと一緒に,,
+skit,0x08D751B0,0x08D00BE0,16,Genis's Worry,skit#224,ジーニアスの心配,,
+skit,0x08D751FC,0x08D00BF4,12,Licanth,skit#225,「リカンツ」,,
+skit,0x08D75248,0x08D00C04,22,"Sorry, Did Not Know",skit#226,何も知らなくて、ごめん,,
+skit,0x08D75294,0x08D00C1C,18,Words with Heart,skit#227,言葉に込めた気持ち,,
+skit,0x08D752E0,0x08D00C30,26,That Means Being Kids,skit#228,それが子どもだっていうんだ,,
+skit,0x08D7532C,0x08D00C4C,18,Did You Get It?,skit#229,わかってもらえた？,,
+skit,0x08D75378,0x08D00C60,14,Anyone Does It,skit#230,誰でもやるよね,,
+skit,0x08D753C4,0x08D00C70,22,Anyone Does It: Pt 2,skit#231,誰でもやるよね・その２,,
+skit,0x08D75410,0x08D00C88,10,Forever,skit#232,永遠の時間,,
+skit,0x08D7545C,0x08D00C94,26,Is Reusing Good: Pt 2,skit#233,再利用はいいこと？・その２,,
+skit,0x08D754A8,0x08D00CB0,16,Teacher Traits,skit#234,教師に必要な資質,,
+skit,0x08D754F4,0x08D00CC4,14,"Tell Me, Kratos",skit#235,教えてクラトス,,
+skit,0x08D75540,0x08D00CD4,10,Listen Up,skit#236,話を聞いて,,
+skit,0x08D7558C,0x08D00CE0,14,Kratos's Wish,skit#237,クラトスの願い,,
+skit,0x08D755D8,0x08D00CF0,8,Tonic,skit#238,滋養強壮,,
+skit,0x08D75624,0x08D00CFC,6,My Way,skit#239,我が道,,
+skit,0x08D75670,0x08D00D04,24,"Congrats on 1,000!",skit#240,おめでとう、１０００体！,,
+skit,0x08D756BC,0x08D00D20,24,What Worry Draws Near,skit#241,「不安」が引き寄せるもの,,
+skit,0x08D75708,0x08D00D3C,16,Good and Evil,skit#242,善悪を定めるもの,,
+skit,0x08D75754,0x08D00D50,10,War Ennui,skit#243,戦士の倦怠,,
+skit,0x08D757A0,0x08D00D5C,10,Door Device,skit#244,扉の仕掛け,,
+skit,0x08D757EC,0x08D00D68,10,Dear Days,skit#245,宝物の日々,,
+skit,0x08D75838,0x08D00D74,16,Just Like Kyle,skit#246,カイルにそっくり,,
+skit,0x08D75884,0x08D00D88,14,Thinking Back..,skit#247,思えば随分……,,
+skit,0x08D758D0,0x08D00D98,22,Melon Trouble (Unused),skit#248,メロンな悩み事（欠番）,,
+skit,0x08D7591C,0x08D00DB0,14,Melon Trouble,skit#249,メロンな悩み事,,
+skit,0x08D75968,0x08D00DC0,10,Same Scent,skit#250,同じにおい,,
+skit,0x08D759B4,0x08D00DCC,22,"Missed You, Honey!",skit#251,会いたかったよハニー∀,,
+skit,0x08D75A00,0x08D00DE4,8,Creep!,skit#252,セクハラ,,
+skit,0x08D75A4C,0x08D00DF0,8,Jealousy,skit#253,やきもち,,
+skit,0x08D75A98,0x08D00DFC,20,That Makes No Sense!,skit#254,おかしいでしょーが！,,
+skit,0x08D75AE4,0x08D00E14,12,Crazy for Her,skit#255,あの子にお熱,,
+skit,0x08D75B30,0x08D00E24,12,Ninja Life,skit#256,忍者の生き方,,
+skit,0x08D75B7C,0x08D00E34,24,A True Mans Romance!,skit#257,これぞ男の、ロマンだ！！,,
+skit,0x08D75BC8,0x08D00E50,12,Clinging,skit#258,密着してます,,
+skit,0x08D75C14,0x08D00E60,10,So Quiet,skit#259,静かですね,,
+skit,0x08D75C60,0x08D00E6C,24,Paw Club Boss Deploys,skit#260,「肉球友の会」会長、出陣,,
+skit,0x08D75CAC,0x08D00E88,16,Quiet Clean Duty,skit#261,静かなる掃除当番,,
+skit,0x08D75CF8,0x08D00E9C,10,Charm Power,skit#262,お守りの力,,
+skit,0x08D75D44,0x08D00EA8,18,Got an Amulet?,skit#263,お守り、持ってる？,,
+skit,0x08D75D90,0x08D00EBC,18,Boost Guard Duty,skit#264,防犯意識を高めよう,,
+skit,0x08D75DDC,0x08D00ED0,16,Act Like Aunt?,skit#265,おばさんっぽい？,,
+skit,0x08D75E28,0x08D00EE4,24,"Come Anytime, Kyu!",skit#266,いつでも来て欲しいキュ！,,
+skit,0x08D75E74,0x08D00F00,8,Envious,skit#267,羨ましい,,
+skit,0x08D75EC0,0x08D00F0C,26,Outlaw Lloyd Irving,skit#268,犯罪者ロイド・アーヴィング,,
+skit,0x08D75F0C,0x08D00F28,16,Envious: Pt 2,skit#269,羨ましい・その２,,
+skit,0x08D75F58,0x08D00F3C,14,Snow Promise,skit#270,雪の日のお約束,,
+skit,0x08D75FA4,0x08D00F4C,8,Bad Luck,skit#271,間が悪い,,
+skit,0x08D75FF0,0x08D00F58,12,Nightmare!,skit#272,襲い来る悪夢,,
+skit,0x08D7603C,0x08D00F68,20,Nightmare!: Pt 2,skit#273,襲い来る悪夢・その２,,
+skit,0x08D76088,0x08D00F80,16,Gaining Trust,skit#274,信頼を得るために,,
+skit,0x08D760D4,0x08D00F94,16,Strange Emil?,skit#275,おかしなエミル？,,
+skit,0x08D76120,0x08D00FA8,10,Tyrant Emil,skit#276,横暴エミル,,
+skit,0x08D7616C,0x08D00FB4,12,Throws Me Off,skit#277,調子狂うなぁ,,
+skit,0x08D761B8,0x08D00FC4,10,Complex,skit#278,複雑な関係,,
+skit,0x08D76204,0x08D00FD0,20,"Ah, Sir Glasses!",skit#279,ああっ、メガネ様っ！,,
+skit,0x08D76250,0x08D00FE8,18,"With You, Truly...",skit#280,ほんとはキミと……,,
+skit,0x08D7629C,0x08D00FFC,18,Does Love Reach You?,skit#281,愛、届いていますか,,
+skit,0x08D762E8,0x08D01010,12,Secret Drill,skit#282,ヒミツの特訓,,
+skit,0x08D76334,0x08D01020,14,Secret Favor,skit#283,ヒミツのお願い,,
+skit,0x08D76380,0x08D01030,6,Ouch!,skit#284,痛っ！,,
+skit,0x08D763CC,0x08D01038,26,Lost Something Precious,skit#285,大切なものを失ったかも……,,
+skit,0x08D76418,0x08D01054,26,First Meeting... Yet?,skit#286,初めまして！　……なのに？,,
+skit,0x08D76464,0x08D01070,14,Discerning Man,skit#287,違いの分かる男,,
+skit,0x08D764B0,0x08D01080,12,Pies Together,skit#288,一緒にパイを,,
+skit,0x08D764FC,0x08D01090,12,Pros & Cons,skit#289,得意、不得意,,
+skit,0x08D76548,0x08D010A0,14,Delicate Man,skit#290,デリケートな男,,
+skit,0x08D76594,0x08D010B0,8,Truth,skit#291,世の真理,,
+skit,0x08D765E0,0x08D010BC,18,Richter's Past,skit#292,リヒターの生い立ち,,
+skit,0x08D7662C,0x08D010D0,12,Unthinkable,skit#293,想像できない,,
+skit,0x08D76678,0x08D010E0,14,Mapo Ordeal,skit#294,マーボーの受難,,
+skit,0x08D766C4,0x08D010F0,14,Being Different,skit#295,違うということ,,
+skit,0x08D76710,0x08D01100,16,Veigue's Charm,skit#296,ヴェイグのお守り,,
+skit,0x08D7675C,0x08D01114,12,Sly Dog,skit#297,隅に置けない,,
+skit,0x08D767A8,0x08D01124,18,Greatsword Dilemma,skit#298,大剣使いである葛藤,,
+skit,0x08D767F4,0x08D01138,22,This Is Nothing,skit#299,これくらい、何でもない,,
+skit,0x08D76840,0x08D01150,14,Devoted Rocks,skit#300,熱心なロックス,,
+skit,0x08D7688C,0x08D01160,14,Veigue's Allies,skit#301,ヴェイグの仲間,,
+skit,0x08D768D8,0x08D01170,22,More Allies!: Pt 3,skit#302,仲間が増えた！・その３,,
+skit,0x08D76924,0x08D01188,22,Even If Cannot Fight,skit#303,戦うことはできなくても,,
+skit,0x08D76970,0x08D011A0,12,War Veterans,skit#304,歴戦の猛者達,,
+skit,0x08D769BC,0x08D011B0,20,Salty and Sweet,skit#305,しょっぱいのと甘いの,,
+skit,0x08D76A08,0x08D011C8,12,Familiar Duo,skit#306,よく見る二人,,
+skit,0x08D76A54,0x08D011D8,24,Love Talk: Claire,skit#307,教えて、恋の話・クレア編,,
+skit,0x08D76AA0,0x08D011F4,10,Wipe Tears,skit#308,涙を拭いて,,
+skit,0x08D76AEC,0x08D01200,16,Outcast Race,skit#309,異端視される種族,,
+skit,0x08D76B38,0x08D01214,24,Road to Feasts!,skit#310,目指せ、豪華献立への道！,,
+skit,0x08D76B84,0x08D01230,10,Claire Path,skit#311,クレアの道,,
+skit,0x08D76BD0,0x08D0123C,10,Handy Gear,skit#312,便利なモノ,,
+skit,0x08D76C1C,0x08D01248,16,Captain Eugene!,skit#313,ユージーン先生！,,
+skit,0x08D76C68,0x08D0125C,22,That Combination...,skit#314,その組み合わせって……,,
+skit,0x08D76CB4,0x08D01274,12,Mutual Trust,skit#315,認め合う二人,,
+skit,0x08D76D00,0x08D01284,22,Eugene's Grooming,skit#316,ユージーンの身だしなみ,,
+skit,0x08D76D4C,0x08D0129C,16,Unique Nature,skit#317,その独創性ゆえに,,
+skit,0x08D76D98,0x08D012B0,10,New Teacher,skit#318,新しい教師,,
+skit,0x08D76DE4,0x08D012BC,8,Mutual,skit#319,お互い様,,
+skit,0x08D76E30,0x08D012C8,26,Quiz! Eugene,skit#320,心理テスト！・ユージーン編,,
+skit,0x08D76E7C,0x08D012E4,22,Ad Libitum's Song!,skit#321,アドリビトムの歌だヨ！,,
+skit,0x08D76EC8,0x08D012FC,16,Mao's Love Song,skit#322,マオのラブソング,,
+skit,0x08D76F14,0x08D01310,32,Precious Things & Love,skit#323,大事なものと、大事にしたい気持ち,,
+skit,0x08D76F60,0x08D01334,24,Must I Remember?,skit#324,思い出さなきゃ……ダメ？,,
+skit,0x08D76FAC,0x08D01350,12,Our Parents,skit#325,ボク達の両親,,
+skit,0x08D76FF8,0x08D01360,14,Mao's Father,skit#326,マオのお父さん,,
+skit,0x08D77044,0x08D01370,22,"Amazing, Sir Eugene",skit#327,すごいよユージーンさん,,
+skit,0x08D77090,0x08D01388,18,Ideal Woman Type,skit#328,好みの女性のタイプ,,
+skit,0x08D770DC,0x08D0139C,18,"Just In Case, I Say",skit#329,念のために教えるヨ,,
+skit,0x08D77128,0x08D0139C,18,"Just In Case, I Say",skit#329,念のために教えるヨ,,
+skit,0x08D77174,0x08D013B0,16,Heat is Nothing,skit#330,暑いのへっちゃら,,
+skit,0x08D771C0,0x08D013C4,14,Easily Tricked?,skit#331,騙されやすい？,,
+skit,0x08D7720C,0x08D013D4,16,To Understand,skit#332,分かり合うために,,
+skit,0x08D77258,0x08D013E8,12,Sad Reasons,skit#333,悲しみの理由,,
+skit,0x08D772A4,0x08D013F8,16,Beauty Chat: Pt 2,skit#334,美女談議・その２,,
+skit,0x08D772F0,0x08D0140C,20,Well-Bred Tytree,skit#335,育ちの良いティトレイ,,
+skit,0x08D7733C,0x08D01424,30,Van Eltia: Star Rating?,skit#336,バンエルティア号は、星いくつ？,,
+skit,0x08D77388,0x08D01444,10,Magic Power,skit#337,不思議な力,,
+skit,0x08D773D4,0x08D01450,16,Ecologist Man,skit#338,エコロジストな男,,
+skit,0x08D77420,0x08D01464,12,Kindred Minds,skit#339,気の合う仲間,,
+skit,0x08D7746C,0x08D01474,22,Tytree's Query,skit#340,ティトレイの素朴な疑問,,
+skit,0x08D774B8,0x08D0148C,8,Doc Pals,skit#341,医者仲間,,
+skit,0x08D77504,0x08D01498,14,Study Session,skit#342,勉強会をしよう,,
+skit,0x08D77550,0x08D014A8,16,Annie's Worry,skit#343,アニーの気がかり,,
+skit,0x08D7759C,0x08D014BC,16,Annie's Tarot,skit#344,アニーのタロット,,
+skit,0x08D775E8,0x08D014D0,12,Fond Words,skit#345,思い出の言葉,,
+skit,0x08D77634,0x08D014E0,16,Why Be a Doctor,skit#346,医者を目指す理由,,
+skit,0x08D77680,0x08D014F4,12,Secret Diary,skit#347,ヒミツの日記,,
+skit,0x08D776CC,0x08D01504,24,Never Let Guard Down...,skit#348,油断も隙もないったら……,,
+skit,0x08D77718,0x08D01520,24,Will Never Join In!,skit#349,絶対、参加しませんから！,,
+skit,0x08D77764,0x08D0153C,14,Diary Murmurs,skit#350,日記の中の呟き,,
+skit,0x08D777B0,0x08D0154C,20,Thoughts on Arms,skit#351,武器について思うこと,,
+skit,0x08D777FC,0x08D01564,10,Tear's Song,skit#352,ティアの歌,,
+skit,0x08D77848,0x08D01570,14,Not Very Honest,skit#353,素直じゃないね,,
+skit,0x08D78720,0x08D01570,14,Not Very Honest,skit#353,素直じゃないね,,
+skit,0x08D77894,0x08D01580,22,Cleared 300 Quests!,skit#354,達成数３００回、突破！,,
+skit,0x08D778E0,0x08D01598,14,Senel's Marks?,skit#355,セネルの模様？,,
+skit,0x08D7792C,0x08D015A8,10,Catch Senel,skit#356,セネル捕獲,,
+skit,0x08D77978,0x08D015B4,14,Ask Senel,skit#357,セネルにお願い,,
+skit,0x08D779C4,0x08D015C4,14,Don't Overdo It,skit#358,無理しないでね,,
+skit,0x08D77A10,0x08D015D4,14,Who Is Elderly?,skit#359,どこから年配？,,
+skit,0x08D77A5C,0x08D015E4,18,Accidental Peep,skit#360,うっかり見ちゃった,,
+skit,0x08D77AA8,0x08D015F8,10,Lost Senel,skit#361,セネル失踪,,
+skit,0x08D77AF4,0x08D01604,14,Rocks's Taste,skit#362,ロックスの好み,,
+skit,0x08D77B40,0x08D01614,22,Rocks's Taste: Pt 2,skit#363,ロックスの好み・その２,,
+skit,0x08D77B8C,0x08D0162C,14,Swimmer Facts,skit#364,泳ぎ上手の事情,,
+skit,0x08D77BD8,0x08D0163C,12,From Now On..,skit#365,これからは…,,
+skit,0x08D77C24,0x08D0164C,28,It's Such a Waste!,skit#366,だって、もったいないんだもん,,
+skit,0x08D77C70,0x08D0166C,16,Wild Curiosity,skit#367,行き過ぎた好奇心,,
+skit,0x08D77CBC,0x08D01680,20,Crushed 800 Foes!,skit#368,すごいぞ、８００体！,,
+skit,0x08D77D08,0x08D01698,20,Caught That Thing,skit#369,アレにかかったのかも,,
+skit,0x08D77D54,0x08D016B0,10,Peer Views,skit#370,他人の評価,,
+skit,0x08D77DA0,0x08D016BC,20,What's Jay Like?,skit#371,ジェイってどんな人？,,
+skit,0x08D77DEC,0x08D016D4,18,Teaching Is Hard,skit#372,教えるのって難しい,,
+skit,0x08D77E38,0x08D016E8,10,Trendy Fad,skit#373,流行のアレ,,
+skit,0x08D77E84,0x08D016F4,18,Not Scared At All...,skit#374,怖くない怖くない…,,
+skit,0x08D77ED0,0x08D01708,18,Special: Pt 2,skit#375,すぺしゃる・その２,,
+skit,0x08D77F1C,0x08D0171C,12,Knight's Tale,skit#376,騎士の武勇伝,,
+skit,0x08D77F68,0x08D0172C,10,Many Views,skit#377,様々な解釈,,
+skit,0x08D77FB4,0x08D01738,14,Knight Chloe,skit#378,女性騎士クロエ,,
+skit,0x08D78000,0x08D01748,10,Sword Arc,skit#379,剣の太刀筋,,
+skit,0x08D7804C,0x08D01754,24,Love Talk: Chloe,skit#380,教えて、恋の話・クロエ編,,
+skit,0x08D78098,0x08D01770,12,Shy Maiden,skit#381,恥じらう乙女,,
+skit,0x08D780E4,0x08D01780,18,Let's Go to Sea,skit#382,そうだ、海へ行こう,,
+skit,0x08D78130,0x08D01794,8,Paragon,skit#383,騎士の鑑,,
+skit,0x08D7817C,0x08D017A0,10,Forbidden!,skit#384,それ禁止！,,
+skit,0x08D781C8,0x08D017AC,14,Been a While!,skit#385,お久しぶりです,,
+skit,0x08D78214,0x08D017BC,14,Popular Rocks,skit#386,大人気ロックス,,
+skit,0x08D78260,0x08D017CC,12,In What Way?,skit#387,どのへんが？,,
+skit,0x08D782AC,0x08D017DC,14,Seeing Double,skit#388,重ねて見ちゃう,,
+skit,0x08D782F8,0x08D017EC,22,Asked the Bubble Girl,skit#389,シャボン娘に聞いてみた,,
+skit,0x08D78344,0x08D01804,16,How Similar?,skit#390,どこが似ている？,,
+skit,0x08D78390,0x08D01818,12,No Mere Man,skit#391,只者ではない,,
+skit,0x08D783DC,0x08D01828,12,So Many Kids,skit#392,子どもが多い,,
+skit,0x08D78428,0x08D01838,14,"Correct, Kyu?",skit#393,あってるキュ？,,
+skit,0x08D78474,0x08D01848,12,Tiny Ally,skit#394,小さい、仲間,,
+skit,0x08D784C0,0x08D01858,18,Another Shinobi,skit#395,もう一つの「忍び」,,
+skit,0x08D7850C,0x08D0186C,10,Memory Bell,skit#396,思い出の鈴,,
+skit,0x08D78558,0x08D01878,10,Skin Secret,skit#397,美白の秘訣,,
+skit,0x08D785A4,0x08D01884,18,Fair Skin: Pt 2,skit#398,美白の秘訣・その２,,
+skit,0x08D785F0,0x08D01898,14,That Accent...,skit#399,その喋り方……,,
+skit,0x08D7863C,0x08D018A8,14,Victory Dance!,skit#400,勝利のダンス！,,
+skit,0x08D78688,0x08D018B8,12,Luke's Habit,skit#401,ルークの日課,,
+skit,0x08D786D4,0x08D018C8,16,Murky Thoughts,skit#402,モヤモヤすること,,
+skit,0x08D7876C,0x08D018DC,12,Hidden Side?,skit#403,意外な一面？,,
+skit,0x08D787B8,0x08D018EC,12,Luke's Diary,skit#404,ルークの日記,,
+skit,0x08D78804,0x08D018FC,14,Rejoining Luke,skit#405,ルークとの再会,,
+skit,0x08D78850,0x08D0190C,16,Inedible!?,skit#406,食べられない！？,,
+skit,0x08D7889C,0x08D0190C,16,Inedible!?,skit#406,食べられない！？,,
+skit,0x08D788E8,0x08D0190C,16,Inedible!?,skit#406,食べられない！？,,
+skit,0x08D78934,0x08D0190C,16,Inedible!?,skit#406,食べられない！？,,
+skit,0x08D78980,0x08D01920,18,Butler Rocks Agony,skit#407,執事ロックスの苦悩,,
+skit,0x08D789CC,0x08D01934,28,Indistinct: Pt 2 (Unused),skit#408,（欠番）判別不可能？・その２,,
+skit,0x08D78A18,0x08D01954,18,Envious of Kanonno,skit#409,カノンノが羨ましい,,
+skit,0x08D78A64,0x08D01968,20,Siblings from Below,skit#410,下から見たきょうだい,,
+skit,0x08D78AB0,0x08D01980,20,Fabre: Pt 2,skit#411,「ファブレ」・その２,,
+skit,0x08D78AFC,0x08D01998,8,Bro Spat,skit#412,兄弟喧嘩,,
+skit,0x08D78B48,0x08D01998,8,Bro Spat,skit#412,兄弟喧嘩,,
+skit,0x08D78B94,0x08D019A4,24,My Childhood Friend,skit#413,俺の幼馴染みを紹介します,,
+skit,0x08D78BE0,0x08D019C0,10,Staff Ties,skit#414,使用人の絆,,
+skit,0x08D78C2C,0x08D019CC,16,Tough for Us Both,skit#415,お互い、大変だな,,
+skit,0x08D78C78,0x08D019E0,12,Mech Lovers!,skit#416,機械大好き！,,
+skit,0x08D78CC4,0x08D019F0,12,In a Pinch!,skit#417,ピンチ到来！,,
+skit,0x08D78D10,0x08D01A00,18,Servant Bond: Pt 2,skit#418,使用人の絆・その２,,
+skit,0x08D78D5C,0x08D01A14,18,Servant Bond: Pt 3,skit#419,使用人の絆・その３,,
+skit,0x08D78DA8,0x08D01A28,18,Special: Pt 3,skit#420,すぺしゃる・その３,,
+skit,0x08D78DF4,0x08D01A3C,14,Silent Men...,skit#421,男は黙って……,,
+skit,0x08D78E40,0x08D01A4C,12,Bang Bang!,skit#422,ばんばんばん,,
+skit,0x08D78E8C,0x08D01A5C,8,Dawn Page,skit#423,暁の従者,,
+skit,0x08D78ED8,0x08D01A68,16,Seeing Essence,skit#424,本質を見据える者,,
+skit,0x08D78F24,0x08D01A7C,28,To Speak or Not to Speak?,skit#425,言うべきか、言わざるべきか？,,
+skit,0x08D78F70,0x08D01A9C,12,Spiteful Jade,skit#426,陰険ジェイド,,
+skit,0x08D78FBC,0x08D01AAC,10,Clean Pals,skit#427,お掃除仲間,,
+skit,0x08D79008,0x08D01AB8,18,Cleaning Pals: Pt 2,skit#428,お掃除仲間・その２,,
+skit,0x08D79054,0x08D01ACC,18,Cleaning Pals: Pt 3,skit#429,お掃除仲間・その３,,
+skit,0x08D790A0,0x08D01AE0,10,Deep Worry,skit#430,真剣な悩み,,
+skit,0x08D790EC,0x08D01AEC,18,Young and Old,skit#431,ろうにゃくなんにょ,,
+skit,0x08D79138,0x08D01B00,12,Either Way...,skit#432,どっちでも…,,
+skit,0x08D79184,0x08D01B10,18,Which Is It?,skit#433,結局、どっちなの？,,
+skit,0x08D791D0,0x08D01B24,14,Elite Butler,skit#434,ただならぬ執事,,
+skit,0x08D7921C,0x08D01B34,16,Dear Woodrow,skit#435,愛しのウッドロウ,,
+skit,0x08D79268,0x08D01B48,24,Dear Woodrow: Pt 2,skit#436,愛しのウッドロウ・その２,,
+skit,0x08D792B4,0x08D01B64,12,Dear Zelos,skit#437,愛しのゼロス,,
+skit,0x08D79300,0x08D01B64,12,Dear Zelos,skit#437,愛しのゼロス,,
+skit,0x08D7934C,0x08D01B74,16,Natalia's Worry,skit#438,ナタリアの悩み事,,
+skit,0x08D79398,0x08D01B88,28,"New Life, Old Ties",skit#439,新しい生活、消えないしがらみ,,
+skit,0x08D793E4,0x08D01BA8,10,Fine View,skit#440,美しい景色,,
+skit,0x08D79430,0x08D01BB4,16,Are We Clicking?,skit#441,噛みあって、る？,,
+skit,0x08D7947C,0x08D01BC8,16,Holy Night Joy,skit#442,聖なる夜を祝おう,,
+skit,0x08D794C8,0x08D01BDC,16,Reunion: Natalia,skit#443,ナタリアとの再会,,
+skit,0x08D79514,0x08D01BF0,8,Classic!?,skit#444,定番！？,,
+skit,0x08D79560,0x08D01BFC,14,Asch's Motive,skit#445,アッシュの事情,,
+skit,0x08D795AC,0x08D01C0C,16,Fists Speak Louder,skit#446,拳で語り合う二人,,
+skit,0x08D795F8,0x08D01C20,12,Fabre,skit#447,「ファブレ」,,
+skit,0x08D79644,0x08D01C30,16,You're a Mystery,skit#448,あなたって不思議,,
+skit,0x08D79690,0x08D01C44,16,Reunion with Asch,skit#449,アッシュとの再会,,
+skit,0x08D796DC,0x08D01C58,12,Same As Ever,skit#450,変わらない君,,
+skit,0x08D79728,0x08D01C68,14,Asch's Fury,skit#451,怒りのアッシュ,,
+skit,0x08D79774,0x08D01C78,8,Pesky Bro,skit#452,困った兄,,
+skit,0x08D797C0,0x08D01C84,10,Bang Bang!,skit#453,ばんばん∀,,
+skit,0x08D7980C,0x08D01C90,14,Fated Future,skit#454,定められた未来,,
+skit,0x08D79858,0x08D01CA0,10,Bittersweet,skit#455,哀愁と達観,,
+skit,0x08D798A4,0x08D01CAC,18,How to Use That?,skit#456,ソレの使い方って？,,
+skit,0x08D798F0,0x08D01CC0,6,Plural,skit#457,「達」,,
+skit,0x08D7993C,0x08D01CC8,12,Old Games,skit#458,懐かしい遊び,,
+skit,0x08D79988,0x08D01CD8,10,Rare Moment,skit#459,得難き、今,,
+skit,0x08D799D4,0x08D01CD8,10,Rare Moment,skit#459,得難き、今,,
+skit,0x08D79A20,0x08D01CE4,20,Old Games: Pt 2,skit#460,懐かしい遊び・その２,,
+skit,0x08D79A6C,0x08D01CFC,12,Let's Make It,skit#461,一緒に作ろう,,
+skit,0x08D79AB8,0x08D01D0C,18,Where Was It?,skit#462,どこにやったかな？,,
+skit,0x08D79B04,0x08D01D20,22,Snow Promise: Pt 2,skit#463,雪の日のお約束・その２,,
+skit,0x08D79B50,0x08D01D38,12,Quite Relaxed,skit#464,余裕あるなぁ,,
+skit,0x08D79B9C,0x08D01D48,16,Caius's Night,skit#465,カイウスの夜事情,,
+skit,0x08D79BE8,0x08D01D5C,14,What Peak?,skit#466,霊峰ってなに？,,
+skit,0x08D79C34,0x08D01D6C,12,Midnight Stir,skit#467,真夜中の異変,,
+skit,0x08D79C80,0x08D01D7C,16,Too Energetic?,skit#468,ノリが良すぎる？,,
+skit,0x08D79CCC,0x08D01D90,12,Roommates,skit#469,ルームメイト,,
+skit,0x08D79D18,0x08D01DA0,18,Why Join Guild?,skit#470,どうしてギルドに？,,
+skit,0x08D79D64,0x08D01DB4,22,Always Be Grateful,skit#471,感謝の気持ちを忘れずに,,
+skit,0x08D79DB0,0x08D01DCC,12,Only for Now,skit#472,今だけだから,,
+skit,0x08D79DFC,0x08D01DDC,12,Shared Traits,skit#473,二人の共通点,,
+skit,0x08D79E48,0x08D01DEC,10,Muscle Duel,skit#474,筋肉で勝負,,
+skit,0x08D79E94,0x08D01DF8,12,Homesick,skit#475,ホームシック,,
+skit,0x08D79EE0,0x08D01E08,12,Read the Room,skit#476,空気を読んで,,
+skit,0x08D79F2C,0x08D01E18,8,Our Dream,skit#477,将来の夢,,
+skit,0x08D79F78,0x08D01E24,12,Stiff Neck?,skit#478,肩が凝ったら,,
+skit,0x08D79FC4,0x08D01E34,16,"Amazing, Sir Ruca",skit#479,すごいよルカさん,,
+skit,0x08D7A010,0x08D01E48,18,Key Realization,skit#480,気付けた、大事な事,,
+skit,0x08D7A05C,0x08D01E5C,12,Foul Mouths,skit#481,口の悪い人々,,
+skit,0x08D7A0A8,0x08D01E6C,20,Glasses: Pt 2,skit#482,めがねめがね・その２,,
+skit,0x08D7A0F4,0x08D01E84,14,Hot!: Pt 2,skit#483,暑い！・その２,,
+skit,0x08D7A140,0x08D01E94,14,Solid Strategy,skit#484,ぬかりなき戦略,,
+skit,0x08D7A18C,0x08D01EA4,10,Great Hopes,skit#485,今後に期待,,
+skit,0x08D7A1D8,0x08D01EB0,18,It's Over Now!,skit#486,済んだことでしょ！,,
+skit,0x08D7A224,0x08D01EC4,20,Because I'm Bored!,skit#487,だって退屈なんだもん,,
+skit,0x08D7A270,0x08D01EDC,12,RPS Showdown!,skit#488,じゃんけん！,,
+skit,0x08D7A2BC,0x08D01EEC,18,Dual Blades Rock!,skit#489,二刀っていいよな！,,
+skit,0x08D7A308,0x08D01F00,14,Spada's Plight,skit#490,スパーダの事情,,
+skit,0x08D7A354,0x08D01F10,10,Gentle Soul,skit#491,優しいひと,,
+skit,0x08D7A3A0,0x08D01F1C,18,Gentle Soul: Pt 2,skit#492,優しいひと・その２,,
+skit,0x08D7A3EC,0x08D01F30,12,Why So Neat?,skit#493,マメさの理由,,
+skit,0x08D7A438,0x08D01F40,12,Evolved Human,skit#494,ヒトの進化種,,
+skit,0x08D7A484,0x08D01F50,18,"Close Call, Spada",skit#495,スパーダ、危機一髪,,
+skit,0x08D7A4D0,0x08D01F64,22,Tactics Theory: Pt 3,skit#496,究極の戦術理論・その３,,
+skit,0x08D7A51C,0x08D01F7C,14,Ange's Sorrow,skit#497,アンジュの憂い,,
+skit,0x08D7A568,0x08D01F8C,18,Clashing Duo,skit#498,分かり合えない二人,,
+skit,0x08D7A5B4,0x08D01FA0,14,Wary Person,skit#499,油断ならぬ人物,,
+skit,0x08D7A600,0x08D01FB0,20,To My Other Self,skit#500,違う世界の同じ自分へ,,
+skit,0x08D7A64C,0x08D01FC8,22,Cleared 100 Quests!,skit#501,達成数１００回、突破！,,
+skit,0x08D7A698,0x08D01FE0,22,Cleared 500 Quests!,skit#502,達成数５００回、突破！,,
+skit,0x08D7A6E4,0x08D01FF8,22,Cleared 800 Quests!,skit#503,達成数８００回、突破！,,
+skit,0x08D7A730,0x08D02010,26,"Cleared 1,000 Quests!!",skit#504,達成数１０００回、突破！！,,
+skit,0x08D7A77C,0x08D0202C,28,Waiting for You to Heal,skit#505,元気になるのを、待ってるから,,
+skit,0x08D7A7C8,0x08D0204C,22,Discerning Man: Pt 2,skit#506,違いの分かる男・その２,,
+skit,0x08D7A814,0x08D02064,8,Sour Task,skit#507,損な仕事,,
+skit,0x08D7A860,0x08D02070,12,Warrior Zeal!,skit#508,武者震いだ！,,
+skit,0x08D7A8AC,0x08D02080,14,Fine Weather,skit#509,本日は晴天なり,,
+skit,0x08D7A8F8,0x08D02090,18,Worst House-Sitting,skit#510,こんな留守番は嫌だ,,
+skit,0x08D7A944,0x08D020A4,20,Untouchable Past,skit#511,触れられたくない過去,,
+skit,0x08D7A990,0x08D020BC,22,Kids Should Be Kids,skit#512,子どもは、子どもらしく,,
+skit,0x08D7A9DC,0x08D020D4,10,Why Fight?,skit#513,戦いの意味,,
+skit,0x08D7AA28,0x08D020E0,14,I Want to Eat,skit#514,食べたいんだヨ,,
+skit,0x08D7AA74,0x08D020F0,16,Shorten It: Pt 3,skit#515,短くする・その３,,
+skit,0x08D7AAC0,0x08D02104,26,Quickie Friends: Pt 3,skit#516,クィッキーと仲良し・その３,,
+skit,0x08D7AB0C,0x08D02120,8,Word Sway,skit#517,言葉の力,,
+skit,0x08D7AB58,0x08D0212C,16,Villain Yuri!?,skit#518,大罪人ユーリ！？,,
+skit,0x08D7ABA4,0x08D02140,16,Kind of Unfair,skit#519,なんか、ずるいぞ,,
+skit,0x08D7ABF0,0x08D02154,18,Sweet-Tooth Blades,skit#520,黒髪、甘党の剣士達,,
+skit,0x08D7AC3C,0x08D02168,18,Uncharming Folks,skit#521,かわいげがない人々,,
+skit,0x08D7AC88,0x08D0217C,16,Eating That Too?,skit#522,それも食べるの？,,
+skit,0x08D7ACD4,0x08D02190,24,Eating That Too: Pt 2,skit#523,それも食べるの？・その２,,
+skit,0x08D7AD20,0x08D021AC,10,Swap Gear,skit#524,衣装を交換,,
+skit,0x08D7AD6C,0x08D021B8,8,Trim It,skit#525,短くする,,
+skit,0x08D7ADB8,0x08D021C4,18,Quickie Friends,skit#526,クィッキーと仲良し,,
+skit,0x08D7AE04,0x08D021D8,26,Quickie Friends: Pt 2,skit#527,クィッキーと仲良し・その２,,
+skit,0x08D7AE50,0x08D021F4,16,Reunion: Estelle,skit#528,エステルとの再会,,
+skit,0x08D7AE9C,0x08D02208,12,Looking Away,skit#529,視線をそらす,,
+skit,0x08D7AEE8,0x08D02218,14,Noble Ambitions,skit#530,志は高いけれど,,
+skit,0x08D7AF34,0x08D02228,10,Twin Souls,skit#531,似た者同士,,
+skit,0x08D7AF80,0x08D02234,16,Make It Simpler,skit#532,もっと呼びやすく,,
+skit,0x08D7AFCC,0x08D02248,26,Quiz! Judith,skit#533,心理テスト！・ジュディス編,,
+skit,0x08D7B018,0x08D02264,26,Is Reusing Good: Pt 3,skit#534,再利用はいいこと？・その３,,
+skit,0x08D7B064,0x08D02280,14,A Rare Sight!,skit#535,珍しくて、つい,,
+skit,0x08D7B0B0,0x08D02290,14,"Admired, But...",skit#536,憧れる……けど,,
+skit,0x08D7B0FC,0x08D022A0,16,Shorten It: Pt 2,skit#537,短くする・その２,,
+skit,0x08D7B148,0x08D022B4,12,Glasses!,skit#538,めがねめがね,,
+skit,0x08D7B194,0x08D022C4,12,Study Group,skit#539,仲良くお勉強,,
+skit,0x08D7B1E0,0x08D022D4,20,Captain Joins,skit#540,新メンバーは騎士隊長,,
+skit,0x08D7B22C,0x08D022EC,10,Need Books,skit#541,本が欲しい,,
+skit,0x08D7B278,0x08D022F8,20,I Really Want Books!,skit#542,本が欲しいんだってば,,
+skit,0x08D7B2C4,0x08D02310,20,Stiff and Naive,skit#543,カタブツで、甘ちゃん,,
+skit,0x08D7B310,0x08D02328,14,Just Between Us,skit#544,ここだけの本心,,
+skit,0x08D7B35C,0x08D02338,10,Silent Plea,skit#545,無言の訴え,,
+skit,0x08D7B3A8,0x08D02344,14,Raven's Gloom,skit#546,レイヴンの憂鬱,,
+skit,0x08D7B3F4,0x08D02354,18,How About You?,skit#547,そっちはどうなの？,,
+skit,0x08D7B440,0x08D02368,18,Talk Here?,skit#548,ここでする話なの？,,
+skit,0x08D7B48C,0x08D0237C,16,Cynical Asch,skit#549,ニヒルなアッシュ,,
+skit,0x08D7B4D8,0x08D02390,14,Being Mindful?,skit#550,気を遣ってる？,,
+skit,0x08D7B524,0x08D023A0,14,Nothing Alike,skit#551,似てないでしょ,,
+skit,0x08D7B570,0x08D023B0,12,Old Man Burst,skit#552,おっさん炸裂,,
+skit,0x08D7B5BC,0x08D023C0,14,"Lovely, Right!?",skit#553,素敵でしょ！？,,
+skit,0x08D7B608,0x08D023D0,22,How to Break Out?,skit#554,どうやって切り抜ける？,,
+skit,0x08D7B654,0x08D023E8,18,"Clear Skies, Yet...",skit#555,天気晴朗なれど……,,
+skit,0x08D7B6A0,0x08D023FC,14,What to Do...?,skit#556,どうしよ……？,,
+skit,0x08D7B6EC,0x08D0240C,24,Holy Night Joy: Pt 2,skit#557,聖なる夜を祝おう・その２,,
+skit,0x08D7B738,0x08D02428,22,Quiz! Flynn,skit#558,心理テスト！・フレン編,,
+skit,0x08D7B784,0x08D02440,16,Keep Ship Safe,skit#559,船内の治安を守れ,,
+skit,0x08D7B7D0,0x08D02440,16,Keep Ship Safe,skit#559,船内の治安を守れ,,
+skit,0x08D7B81C,0x08D02454,18,Fact Versus Truth,skit#560,事実と真実の狭間で,,
+skit,0x08D7B868,0x08D02468,12,Flynn's Zeal,skit#561,フレンの奮闘,,
+skit,0x08D7B8B4,0x08D02478,10,True Intent,skit#562,命令の真意,,
+skit,0x08D7B900,0x08D02484,18,Just Taking a Walk,skit#563,散歩してるだけです,,
+skit,0x08D7B94C,0x08D02498,18,Why So Hyped,skit#564,大盛り上がりのワケ,,
+skit,0x08D7B998,0x08D024AC,24,What's Hazel Like?,skit#565,ヘーゼル村ってどんな村？,,
+skit,0x08D7B9E4,0x08D024C8,16,Amity Trial Redux,skit#566,友愛の試練、再び,,
+skit,0x08D7BA30,0x08D024DC,12,Airheaded,skit#567,天然ですから,,
+skit,0x08D7BA7C,0x08D024EC,20,Cucumber & Things,skit#568,モロキュウとモロモロ,,
+skit,0x08D7BAC8,0x08D02504,18,First 100 Foes!,skit#569,まずは、１００体！,,
+skit,0x08D7BB14,0x08D02518,28,What Is 'Hospitality'?,skit#570,「ほすぴたりてぃ」って何だ？,,
+skit,0x08D7BB60,0x08D02538,10,Lovely Legs,skit#571,美脚の秘訣,,
+skit,0x08D7BBAC,0x08D02544,10,Top Flavor,skit#572,至上の美味,,
+skit,0x08D7BBF8,0x08D02550,12,Value Friends,skit#573,友達は大切に,,
+skit,0x08D7BC44,0x08D02560,10,Kohaku Wit,skit#574,通なコハク,,
+skit,0x08D7BC90,0x08D0256C,14,Words Are Fun,skit#575,言葉って面白い,,
+skit,0x08D7BCDC,0x08D0257C,20,Crushed 300 Foes!,skit#576,やったね、３００体！,,
+skit,0x08D7BD28,0x08D02594,32,Road to Feasts: Pt 3,skit#577,目指せ、豪華献立への道！・その３,,
+skit,0x08D7BD74,0x08D025B8,14,Annie's Nursing,skit#578,アニーの手当て,,
+skit,0x08D7BDC0,0x08D025C8,10,Dread Germ,skit#579,恐るべき菌,,
+skit,0x08D7BE0C,0x08D025D4,14,Proud Siblings,skit#580,きょうだい自慢,,
+skit,0x08D7BE58,0x08D025E4,24,Found Demon Lord,skit#581,伝説の魔王、見つけました,,
+skit,0x08D7BEA4,0x08D02600,14,Unknown Word,skit#582,知らないコトバ,,
+skit,0x08D7BEF0,0x08D02610,10,Open Wide,skit#583,大口開けて,,
+skit,0x08D7BF3C,0x08D0261C,12,Just Imagine,skit#584,想像してみて,,
+skit,0x08D7BF88,0x08D0262C,20,Siblings from Above,skit#585,上から見たきょうだい,,
+skit,0x08D7BFD4,0x08D02644,10,What Think?,skit#586,どう思う？,,
+skit,0x08D7C020,0x08D02650,10,Youth Folly,skit#587,若気の至り,,
+skit,0x08D7C06C,0x08D0265C,12,Seek Answers,skit#588,答えを探して,,
+skit,0x08D7C0B8,0x08D0266C,24,She's a XX Cook: Pt 4,skit#589,彼女は××料理人・その４,,
+skit,0x08D7C104,0x08D02688,14,He's a XX Cook,skit#590,彼も××料理人,,
+skit,0x08D7C150,0x08D02698,10,Doubts Away,skit#591,迷いと答え,,
+skit,0x08D7C19C,0x08D026A4,16,About Siblings,skit#592,きょうだいのこと,,
+skit,0x08D7C1E8,0x08D026B8,20,"Respect, Captain Flynn",skit#593,尊敬です、フレン隊長,,
+skit,0x08D7C234,0x08D026D0,16,Asbel's Father,skit#594,アスベルの父さん,,
+skit,0x08D7C280,0x08D026E4,20,Happy New Year!,skit#595,オショウガツを祝おう,,
+skit,0x08D7C2CC,0x08D026FC,22,Sophie Truly Is...,skit#596,ソフィってやっぱり……,,
+skit,0x08D7C318,0x08D02714,12,Tree's Heart,skit#597,世界樹の思い,,
+skit,0x08D7C364,0x08D02724,24,Eating That Too: Pt 3,skit#598,それも食べるの？・その３,,
+skit,0x08D7C3B0,0x08D02740,14,Omelet Holiday,skit#599,カニタマ記念日,,
+skit,0x08D7C3FC,0x08D02750,6,Hunch,skit#600,女の勘,,
+skit,0x08D7C448,0x08D02758,8,Job Roles,skit#601,役割分担,,
+skit,0x08D7C494,0x08D02764,22,Love Talk: Roni,skit#602,教えて、恋の話・ロニ編,,
+skit,0x08D7C4E0,0x08D0277C,24,Love Talk: Keele,skit#603,教えて、恋の話・キール編,,
+skit,0x08D7C52C,0x08D02798,12,Bad Match?,skit#604,相性が悪い？,,
+skit,0x08D7C578,0x08D02798,12,Bad Match?,skit#604,相性が悪い？,,
+skit,0x08D7C5C4,0x08D02798,12,Bad Match?,skit#604,相性が悪い？,,
+skit,0x08D7C610,0x08D02798,12,Bad Match?,skit#604,相性が悪い？,,
+skit,0x08D7C65C,0x08D02798,12,Bad Match?,skit#604,相性が悪い？,,
+skit,0x08D7C6A8,0x08D027A8,16,Let's Clean Up,skit#605,キレイにしようね,,
+skit,0x08D7C6F4,0x08D027BC,16,Cheria is...,skit#606,シェリアって……,,
+skit,0x08D7C740,0x08D027D0,12,Chloe's Charm,skit#607,クロエの魅力,,
+skit,0x08D7C78C,0x08D027D0,12,Chloe's Charm,skit#607,クロエの魅力,,
+skit,0x08D7C7D8,0x08D027E0,10,Mixed Views,skit#608,複雑な思い,,
+skit,0x08D7C824,0x08D027EC,6,Of Old,skit#609,昔の話,,
+skit,0x08D7C870,0x08D027F4,10,Kouki Lore,skit#610,光気丹術経,,
+skit,0x08D7C8BC,0x08D02800,10,Beast Lore,skit#611,異類化生記,,
+skit,0x08D7C908,0x08D0280C,20,Truth from Document,skit#612,ドクメントでわかる事,,
+skit,0x08D7C954,0x08D02824,16,Alta Village,skit#613,オルタ・ビレッジ,,
+skit,0x08D7C9A0,0x08D02838,14,Rocks-Trained,skit#614,ロックス仕込み,,
+skit,0x08D7C9EC,0x08D02848,4,Love,skit#615,告白,,
+skit,0x08D7CA38,0x08D02850,12,Another Form,skit#616,もう一つの姿,,
+skit,0x08D7CA84,0x08D02860,14,Dislike Troops?,skit#617,軍人がニガテ？,,
+skit,0x08D7CAD0,0x08D02870,10,Chatty,skit#618,かしましい,,
+skit,0x08D7CB1C,0x08D0287C,10,Specialist,skit#619,そっち専門,,
+skit,0x08D7CB68,0x08D02888,12,Journey Ahead,skit#620,これからの旅,,
+skit,0x08D7CBB4,0x08D02898,12,Painting You,skit#621,あなたを描く,,
+skit,0x08D7CC00,0x08D02898,12,Painting You,skit#621,あなたを描く,,
+skit,0x08D7CC4C,0x08D02898,12,Painting You,skit#621,あなたを描く,,
+skit,0x08D7CC98,0x08D02898,12,Painting You,skit#621,あなたを描く,,
+skit,0x08D7CCE4,0x08D02898,12,Painting You,skit#621,あなたを描く,,
+skit,0x08D7CD30,0x08D028A8,18,"Always, Everywhere",skit#622,いつも、どこにでも,,
+skit,0x08D7CD7C,0x08D028BC,12,Voice of Life,skit#623,新しい命の声,,
+skit,0x08D7CDC8,0x08D028CC,4,Node,skit#624,端末,,
+skit,0x08D7CE14,0x08D028D4,12,Other Vistas,skit#625,異世界の風景,,
+skit,0x08D7CE60,0x08D028D4,12,Other Vistas,skit#625,異世界の風景,,
+skit,0x08D7CEAC,0x08D028D4,12,Other Vistas,skit#625,異世界の風景,,
+skit,0x08D7CEF8,0x08D028D4,12,Other Vistas,skit#625,異世界の風景,,
+skit,0x08D7CF44,0x08D028E4,10,A Hero?,skit#626,ヒーロー？,,
+skit,0x08D7CF90,0x08D028F0,12,Niata's Body,skit#627,ニアタの身体,,
+skit,0x08D7CFDC,0x08D02900,12,Mystic Drink,skit#628,不思議な液体,,
+skit,0x08D7D028,0x08D02900,12,Mystic Drink,skit#628,不思議な液体,,
+skit,0x08D7D074,0x08D02900,12,Mystic Drink,skit#628,不思議な液体,,
+skit,0x08D7D0C0,0x08D02900,12,Mystic Drink,skit#628,不思議な液体,,
+skit,0x08D7D10C,0x08D02900,12,Mystic Drink,skit#628,不思議な液体,,
+skit,0x08D7D158,0x08D02900,12,Mystic Drink,skit#628,不思議な液体,,
+skit,0x08D7D1A4,0x08D02900,12,Mystic Drink,skit#628,不思議な液体,,
+skit,0x08D7D1F0,0x08D02910,16,Descender Boast,skit#629,ディセンダー自慢,,
+skit,0x08D7D23C,0x08D02924,18,Sequel Changes!?,skit#630,前作との違いは！？,,
+skit,0x08D7D288,0x08D02938,26,Dungeons Powered Up!,skit#631,ダンジョンもパワーアップ！,,
+skit,0x08D7D2D4,0x08D02954,30,How Was Char Creation?,skit#632,キャラメイクはどうだったかな？,,
+skit,0x08D7D320,0x08D02974,18,How Battles Work!?,skit#633,本作品の戦闘は！？,,
+ui__s86,0x08D65A54,0x08CF7080,20,Would you like to save?,ui#0,セーブを行いますか？,0x08CFCF88,0x08CFD211
+ui__s2,0x08D65A5C,0x08CF7110,28,Continue playing?,ui#1,このままプレイを続けますか？,0x08CF7110,0x08CF712D
+ui__s27,0x08D65A68,0x08CF7140,10,P. Atk,ui#2,物理攻撃力,0x08CF8A14,0x08CF8A93
+ui__s26,0x08D65A6C,0x08CF714C,12,P. Atk 2,ui#3,物理攻撃力２,0x08CF8898,0x08CF899B
+ui__s88,0x08D65A70,0x08CF715C,8,M. Atk,ui#4,術攻撃力,0x08CFD2C4,0x08CFD301
+ui__s52,0x08D65A74,0x08CF7168,10,P. Def,ui#5,物理防御力,0x08CFA510,0x08CFA5B1
+ui__s81,0x08D65A78,0x08CF7174,8,M. Def,ui#6,術防御力,0x08CFCA40,0x08CFCADB
+ui__s18,0x08D65A7C,0x08CF7180,6,Agility,ui#7,敏捷値,0x08CF82F8,0x08CF831F
+ui__s39,0x08D65A80,0x08CF7188,6,Level,ui#8,レベル,0x08CF9720,0x08CF973D
+ui__s56,0x08D65A84,0x08CF7190,6,EXP,ui#9,経験値,0x08CFAE14,0x08CFAE69
+ui__s4,0x08D65A90,0x08CF71A8,14,Base P. Atk,ui#10,基礎物理攻撃力,0x08CF71A8,0x08CF724B
+ui__s4,0x08D65A94,0x08CF71B8,12,Base M. Atk,ui#11,基礎術攻撃力,0x08CF71A8,0x08CF724B
+ui__s4,0x08D65A98,0x08CF71C8,14,Base P. Def,ui#12,基礎物理防御力,0x08CF71A8,0x08CF724B
+ui__s4,0x08D65A9C,0x08CF71D8,12,Base M. Def,ui#13,基礎術防御力,0x08CF71A8,0x08CF724B
+ui__s4,0x08D65AA0,0x08CF71E8,10,Base Agility,ui#14,基礎敏捷値,0x08CF71A8,0x08CF724B
+ui__s41,0x08D65AA4,0x08CF71F4,10,Req. Lv,ui#15,要求レベル,0x08CF9760,0x08CF978B
+ui__s27,0x08D65AA8,0x08CF7200,4,P. Atk,ui#16,物攻,0x08CF8A14,0x08CF8A93
+ui__s88,0x08D65AAC,0x08CF7208,4,M. Atk,ui#17,術攻,0x08CFD2C4,0x08CFD301
+ui__s54,0x08D65AB0,0x08CF7210,4,Agi,ui#18,敏捷,0x08CFABB8,0x08CFACF7
+ui__s3,0x08D65AB4,0x08CF7218,10,Slots Left,ui#19,残強化回数,0x08CF7140,0x08CF7197
+ui__s52,0x08D65AB8,0x08CF7224,4,P. Def,ui#20,物防,0x08CFA510,0x08CFA5B1
+ui__s81,0x08D65ABC,0x08CF722C,4,M. Def,ui#21,術防,0x08CFCA40,0x08CFCADB
+ui__s59,0x08D65AC0,0x08CF7234,22,Required level to equip.,ui#22,装備が可能となるレベル,0x08CFB00C,0x08CFB24D
+ui__s5,0x08D65AD0,0x08CF7338,26,Remaining upgrade slots.,ui#23,強化・合成を行える残り回数,0x08CF7338,0x08CF7353
+ui__s6,0x08D65ADC,0x08CF73D8,12,Obtained,ui#24,を手に入れた,0x08CF73D8,0x08CF73E5
+ui__s7,0x08D65AE8,0x08CF742C,16,Inventory full.,ui#25,アイテムが一杯で,0x08CF742C,0x08CF743D
+ui__s63,0x08D65AF4,0x08CF748C,20,Could not obtain anything.,ui#26,何も手に入らなかった,0x08CFB5FC,0x08CFBA07
+ui__s46,0x08D65AF8,0x08CF74A4,16,World Map,ui#27,　ワールドマップ,0x08CF9DF4,0x08CF9E07
+ui__s9,0x08D65B18,0x08CF75DC,26,Install Game Data,ui#28,データインストールを行なう,0x08CF75DC,0x08CF75F7
+ui__s3,0x08D65B20,0x08CF765C,12,Delete Data,ui#29,データの削除,0x08CF7140,0x08CF7197
+ui__s38,0x08D65B24,0x08CF766C,46,Delete data saved on Memory Stick.,ui#30,記録メディアに保存されているデータを削除します,0x08CF9604,0x08CF970D
+ui__s63,0x08D65B54,0x08CF76E4,38,A melee job that attacks with powerful weapons.,ui#31,強力な武器で攻撃を行う近接戦向けの職業,0x08CFB5FC,0x08CFBA07
+ui__s92,0x08D65B58,0x08CF770C,20,A job with a wide variety of sword skills.,ui#32,多彩な剣技を持つ職業,0x08CFDB04,0x08CFDB3B
+ui__s11,0x08D65B5C,0x08CF7724,36,Wields both sword skills and artes.,ui#33,剣技と攻撃術の両方を駆使出来る万能職,0x08CF76B4,0x08CF7773
+ui__s11,0x08D65B60,0x08CF774C,38,A martial job that excels at bare-fisted combat.,ui#34,拳による肉弾戦を得意とする格闘系の職業,0x08CF76B4,0x08CF7773
+ui__s49,0x08D65B68,0x08CF7798,42,Excels at swift dagger attacks and stealing.,ui#35,短剣による素早い攻撃と盗みを得意とする職業,0x08CFA1D0,0x08CFA38B
+ui__s12,0x08D65B6C,0x08CF77C4,40,Master of the body arts of ninjutsu.,ui#36,忍術と呼ばれる特殊な体術を得意とする職業,0x08CF7798,0x08CF7A3B
+ui__s12,0x08D65B70,0x08CF77F0,32,Excels at artes built for attacking.,ui#37,攻撃に特化した術を得意とする職業,0x08CF7798,0x08CF7A3B
+ui__s59,0x08D65B74,0x08CF7814,32,Excels at healing and support artes.,ui#38,回復、補助系の術を得意とする職業,0x08CFB00C,0x08CFB24D
+ui__s86,0x08D65B78,0x08CF7838,38,Skilled in both attack and healing artes.,ui#39,攻撃術と回復術の両方を得意とする万能職,0x08CFCF88,0x08CFD211
+ui__s12,0x08D65B7C,0x08CF7860,38,An unorthodox swordsman with two blades.,ui#40,左右に持つ二本の剣を駆使する亜流の剣士,0x08CF7798,0x08CF7A3B
+ui__s12,0x08D65B80,0x08CF7888,40,A power fighter with a huge greatsword.,ui#41,身の丈程の大剣を駆使するパワーファイター,0x08CF7798,0x08CF7A3B
+ui__s12,0x08D65B84,0x08CF78B4,38,A martial job that also heals with ki.,ui#42,気の力による回復の技を兼ね備えた格闘職,0x08CF7798,0x08CF7A3B
+ui__s93,0x08D65B88,0x08CF78DC,46,Mixes ranged gunfire and dagger melee.,ui#43,銃による遠隔攻撃と短剣による近接攻撃を併せ持つ,0x08CFDCE0,0x08CFDDF3
+ui__s25,0x08D65B8C,0x08CF790C,42,Greatsword power plus support artes.,ui#44,大剣による攻撃力と補助術を兼ね備えた万能職,0x08CF863C,0x08CF8847
+ui__s12,0x08D65B90,0x08CF7938,36,Unleashes rapid attacks with twin pistols.,ui#45,二丁の拳銃で高速な攻撃を繰り出す職業,0x08CF7798,0x08CF7A3B
+ui__s12,0x08D65B94,0x08CF7960,30,Select your new class.,ui#46,転職を行う職業を選択して下さい,0x08CF7798,0x08CF7A3B
+ui__s91,0x08D65B98,0x08CF7980,26,Class change requirements not met.,ui#47,転職条件を満たしていません,0x08CFD7B4,0x08CFD8A9
+ui__s12,0x08D65B9C,0x08CF799C,12,Class Level:,ui#48,職業レベル：,0x08CF7798,0x08CF7A3B
+ui__s48,0x08D65BA0,0x08CF79AC,38,Current class. Please select another class.,ui#49,現在の職業です。他の職業を選んで下さい,0x08CF9E7C,0x08CFA197
+ui__s12,0x08D65BA4,0x08CF79D4,48,Cannot change class while on a quest.,ui#50,クエストを受けている状態で転職する事は出来ません,0x08CF7798,0x08CF7A3B
+ui__s89,0x08D65BA8,0x08CF7A08,50,Cannot remove gear because inventory is full.,ui#51,装備アイテムが一杯なので、装備を外す事が出来ません,0x08CFD324,0x08CFD5B9
+ui__s12,0x08D65BB4,0x08CF7A9C,20,Could not change class.,ui#52,転職できませんでした,0x08CF7798,0x08CF7A3B
+ui__s13,0x08D65BB8,0x08CF7AB4,22,Cannot hold any more.,ui#53,これ以上所持出来ません,0x08CF7A9C,0x08CF7B2D
+ui__s12,0x08D65BBC,0x08CF7ACC,16,Not enough materials.,ui#54,素材が足りません,0x08CF7798,0x08CF7A3B
+ui__s13,0x08D65BC0,0x08CF7AE0,40,Food effects only work inside dungeons.,ui#55,料理はダンジョン内でしか効果がありません,0x08CF7A9C,0x08CF7B2D
+ui__s13,0x08D65BC4,0x08CF7B0C,32,That dish effect is already active.,ui#56,既にその料理効果が発生しています,0x08CF7A9C,0x08CF7B2D
+ui__s19,0x08D65BD8,0x08CF7BCC,16,How many to make?,ui#57,何個作りますか？,0x08CF8348,0x08CF84F3
+ui__s14,0x08D65BDC,0x08CF7BE0,26,Loading data......,ui#58,データロード中・・・・・・,0x08CF7BCC,0x08CF7C59
+ui__s4,0x08D65BE0,0x08CF7BFC,46,Select member to swap or remove.,ui#59,入れ替え、または外すメンバーを選択してください,0x08CF71A8,0x08CF724B
+ui__s88,0x08D65BE4,0x08CF7C2C,44,Select member to add to party.,ui#60,パーティに加えたいメンバーを選択してください,0x08CFD2C4,0x08CFD301
+ui__s40,0x08D65BF0,0x08CF7C98,24,Disband party?,ui#61,パーティを解散しますか？,0x08CF9748,0x08CF9757
+ui__s29,0x08D65BF8,0x08CF7CEC,22,Disbanded party.,ui#62,パーティを解散しました,0x08CF8FC4,0x08CF9029
+ui__s17,0x08D65C04,0x08CF7D5C,28,Exceeds quest member limit.,ui#63,依頼の人数制限を超えています,0x08CF7D5C,0x08CF7D79
+ui__s38,0x08D65C24,0x08CF7EA0,4,Name,ui#64,名前,0x08CF9604,0x08CF970D
+ui__s38,0x08D65DC0,0x08CF7EA0,4,Name,ui#64,名前,0x08CF9604,0x08CF970D
+ui__s12,0x08D65C28,0x08CF7EA8,4,Class,ui#65,職業,0x08CF7798,0x08CF7A3B
+ui__s12,0x08D65DC4,0x08CF7EA8,4,Class,ui#65,職業,0x08CF7798,0x08CF7A3B
+ui__s12,0x08D65DD8,0x08CF7EA8,4,Class,ui#65,職業,0x08CF7798,0x08CF7A3B
+ui__s39,0x08D65C2C,0x08CF7EB0,6,Level,ui#66,レベル,0x08CF9720,0x08CF973D
+ui__s39,0x08D65DC8,0x08CF7EB0,6,Level,ui#66,レベル,0x08CF9720,0x08CF973D
+ui__s59,0x08D65C30,0x08CF7EB8,8,Battles,ui#67,戦闘回数,0x08CFB00C,0x08CFB24D
+ui__s59,0x08D65DCC,0x08CF7EB8,8,Battles,ui#67,戦闘回数,0x08CFB00C,0x08CFB24D
+ui__s91,0x08D65C38,0x08CF7EC4,16,Event Player,ui#68,イベントプレイヤ,0x08CFD7B4,0x08CFD8A9
+ui__s96,0x08D65C3C,0x08CF7ED8,16,Skit Player,ui#69,スキットプレイヤ,0x08CFDF7C,0x08CFDFBD
+ui__s91,0x08D65C40,0x08CF7EEC,16,Event Replay,ui#70,イベントリプレイ,0x08CFD7B4,0x08CFD8A9
+ui__s59,0x08D65C44,0x08CF7F00,16,Choose from All,ui#71,全リストから選ぶ,0x08CFB00C,0x08CFB24D
+ui__s13,0x08D65C48,0x08CF7F14,16,Choose by Character,ui#72,登場人物から選ぶ,0x08CF7A9C,0x08CF7B2D
+ui__s60,0x08D65C4C,0x08CF7F28,18,Story Events,ui#73,ストーリーイベント,0x08CFB3CC,0x08CFB419
+ui__s55,0x08D65C50,0x08CF7F3C,16,Other Events,ui#74,その他のイベント,0x08CFAD30,0x08CFADE3
+ui__s93,0x08D65C54,0x08CF7F50,14,001-100,ui#75,００１〜１００,0x08CFDCE0,0x08CFDDF3
+ui__s74,0x08D65C58,0x08CF7F60,14,101-200,ui#76,１０１〜２００,0x08CFC32C,0x08CFC351
+ui__s88,0x08D65C5C,0x08CF7F70,14,201-300,ui#77,２０１〜３００,0x08CFD2C4,0x08CFD301
+ui__s81,0x08D65C60,0x08CF7F80,14,301-400,ui#78,３０１〜４００,0x08CFCA40,0x08CFCADB
+ui__s91,0x08D65C64,0x08CF7F90,14,401-500,ui#79,４０１〜５００,0x08CFD7B4,0x08CFD8A9
+ui__s97,0x08D65C68,0x08CF7FA0,14,501-600,ui#80,５０１〜６００,0x08CFE300,0x08CFE30B
+ui__s91,0x08D65C6C,0x08CF7FB0,8,601~,ui#81,６０１〜,0x08CFD7B4,0x08CFD8A9
+ui__s75,0x08D65C70,0x08CF7FBC,8,Main 1,ui#82,メイン１,0x08CFC5FC,0x08CFC6A7
+ui__s89,0x08D65C74,0x08CF7FC8,8,Main 2,ui#83,メイン２,0x08CFD324,0x08CFD5B9
+ui__s51,0x08D65C78,0x08CF7FD4,8,Main 3,ui#84,メイン３,0x08CFA3BC,0x08CFA4D5
+ui__s51,0x08D65C7C,0x08CF7FE0,8,Main 4,ui#85,メイン４,0x08CFA3BC,0x08CFA4D5
+ui__s31,0x08D65C80,0x08CF7FEC,10,Quest 1,ui#86,クエスト１,0x08CF9190,0x08CF93F3
+ui__s31,0x08D65C84,0x08CF7FF8,10,Quest 2,ui#87,クエスト２,0x08CF9190,0x08CF93F3
+ui__s51,0x08D65C88,0x08CF8004,10,Quest 3,ui#88,クエスト３,0x08CFA3BC,0x08CFA4D5
+ui__s51,0x08D65C8C,0x08CF8010,10,Quest 4,ui#89,クエスト４,0x08CFA3BC,0x08CFA4D5
+ui__s15,0x08D65C90,0x08CF801C,6,Other,ui#90,その他,0x08CF7C98,0x08CF7CB1
+ui__s15,0x08D65CB0,0x08CF801C,6,Other,ui#90,その他,0x08CF7C98,0x08CF7CB1
+ui__s51,0x08D65C94,0x08CF8024,18,Prologue - Ch. 8,ui#91,オープニング〜８章,0x08CFA3BC,0x08CFA4D5
+ui__s43,0x08D65C98,0x08CF8038,10,Ch. 9 - 16,ui#92,９〜１６章,0x08CF9828,0x08CF9BE3
+ui__s89,0x08D65C9C,0x08CF8044,20,Ch. 17 - Ending,ui#93,１７章〜エンディング,0x08CFD324,0x08CFD5B9
+ui__s59,0x08D65CA0,0x08CF805C,12,Ch. 13 - 16,ui#94,１３〜１６章,0x08CFB00C,0x08CFB24D
+ui__s59,0x08D65CA4,0x08CF806C,12,Ch. 17 - 20,ui#95,１７〜２０章,0x08CFB00C,0x08CFB24D
+ui__s59,0x08D65CA8,0x08CF807C,12,Ch. 20 - 24,ui#96,２０〜２４章,0x08CFB00C,0x08CFB24D
+ui__s12,0x08D65CAC,0x08CF808C,20,Ch. 25 - Ending,ui#97,２５章〜エンディング,0x08CF7798,0x08CF7A3B
+ui__s13,0x08D65CB4,0x08CF80A4,4,Chapter 9,ui#98,９章,0x08CF7A9C,0x08CF7B2D
+ui__s12,0x08D65CB8,0x08CF80AC,6,Chapter 10,ui#99,１０章,0x08CF7798,0x08CF7A3B
+ui__s12,0x08D65CBC,0x08CF80B4,6,Chapter 11,ui#100,１１章,0x08CF7798,0x08CF7A3B
+ui__s12,0x08D65CC0,0x08CF80BC,6,Chapter 12,ui#101,１２章,0x08CF7798,0x08CF7A3B
+ui__s48,0x08D65CC4,0x08CF80C4,6,Chapter 13,ui#102,１３章,0x08CF9E7C,0x08CFA197
+ui__s48,0x08D65CC8,0x08CF80CC,6,Chapter 14,ui#103,１４章,0x08CF9E7C,0x08CFA197
+ui__s48,0x08D65CCC,0x08CF80D4,6,Chapter 15,ui#104,１５章,0x08CF9E7C,0x08CFA197
+ui__s48,0x08D65CD0,0x08CF80DC,6,Chapter 16,ui#105,１６章,0x08CF9E7C,0x08CFA197
+ui__s48,0x08D65CD4,0x08CF80E4,6,Chapter 17,ui#106,１７章,0x08CF9E7C,0x08CFA197
+ui__s48,0x08D65CD8,0x08CF80EC,6,Chapter 18,ui#107,１８章,0x08CF9E7C,0x08CFA197
+ui__s48,0x08D65CDC,0x08CF80F4,6,Chapter 19,ui#108,１９章,0x08CF9E7C,0x08CFA197
+ui__s48,0x08D65CE0,0x08CF80FC,6,Chapter 20,ui#109,２０章,0x08CF9E7C,0x08CFA197
+ui__s48,0x08D65CE4,0x08CF8104,6,Chapter 21,ui#110,２１章,0x08CF9E7C,0x08CFA197
+ui__s48,0x08D65CE8,0x08CF810C,6,Chapter 22,ui#111,２２章,0x08CF9E7C,0x08CFA197
+ui__s48,0x08D65CEC,0x08CF8114,6,Chapter 23,ui#112,２３章,0x08CF9E7C,0x08CFA197
+ui__s48,0x08D65CF0,0x08CF811C,6,Chapter 24,ui#113,２４章,0x08CF9E7C,0x08CFA197
+ui__s15,0x08D65CF4,0x08CF8124,28,Tales of Phantasia,ui#114,テイルズ　オブ　ファンタジア,0x08CF7C98,0x08CF7CB1
+ui__s15,0x08D65D74,0x08CF8124,28,Tales of Phantasia,ui#114,テイルズ　オブ　ファンタジア,0x08CF7C98,0x08CF7CB1
+ui__s67,0x08D65CF8,0x08CF8144,28,Tales of Destiny,ui#115,テイルズ　オブ　デスティニー,0x08CFBC98,0x08CFBCDB
+ui__s67,0x08D65D78,0x08CF8144,28,Tales of Destiny,ui#115,テイルズ　オブ　デスティニー,0x08CFBC98,0x08CFBCDB
+ui__s82,0x08D65CFC,0x08CF8164,26,Tales of Eternia,ui#116,テイルズ　オブ　エターニア,0x08CFCB94,0x08CFCBE5
+ui__s82,0x08D65D7C,0x08CF8164,26,Tales of Eternia,ui#116,テイルズ　オブ　エターニア,0x08CFCB94,0x08CFCBE5
+ui__s67,0x08D65D00,0x08CF8180,30,Tales of Destiny 2,ui#117,テイルズ　オブ　デスティニー２,0x08CFBC98,0x08CFBCDB
+ui__s67,0x08D65D80,0x08CF8180,30,Tales of Destiny 2,ui#117,テイルズ　オブ　デスティニー２,0x08CFBC98,0x08CFBCDB
+ui__s14,0x08D65D04,0x08CF81A0,28,Tales of Symphonia,ui#118,テイルズ　オブ　シンフォニア,0x08CF7BCC,0x08CF7C59
+ui__s14,0x08D65D84,0x08CF81A0,28,Tales of Symphonia,ui#118,テイルズ　オブ　シンフォニア,0x08CF7BCC,0x08CF7C59
+ui__s29,0x08D65D08,0x08CF81C0,24,Tales of Rebirth,ui#119,テイルズ　オブ　リバース,0x08CF8FC4,0x08CF9029
+ui__s29,0x08D65D88,0x08CF81C0,24,Tales of Rebirth,ui#119,テイルズ　オブ　リバース,0x08CF8FC4,0x08CF9029
+ui__s30,0x08D65D0C,0x08CF81DC,30,Tales of Legendia,ui#120,テイルズ　オブ　レジェンディア,0x08CF9060,0x08CF910F
+ui__s30,0x08D65D8C,0x08CF81DC,30,Tales of Legendia,ui#120,テイルズ　オブ　レジェンディア,0x08CF9060,0x08CF910F
+ui__s12,0x08D65D10,0x08CF81FC,26,Tales of the Abyss,ui#121,テイルズ　オブ　ジ　アビス,0x08CF7798,0x08CF7A3B
+ui__s12,0x08D65D90,0x08CF81FC,26,Tales of the Abyss,ui#121,テイルズ　オブ　ジ　アビス,0x08CF7798,0x08CF7A3B
+ui__s14,0x08D65D14,0x08CF8218,30,Tales of the Tempest,ui#122,テイルズ　オブ　ザ　テンペスト,0x08CF7BCC,0x08CF7C59
+ui__s14,0x08D65D94,0x08CF8218,30,Tales of the Tempest,ui#122,テイルズ　オブ　ザ　テンペスト,0x08CF7BCC,0x08CF7C59
+ui__s12,0x08D65D18,0x08CF8238,26,Tales of Innocence,ui#123,テイルズ　オブ　イノセンス,0x08CF7798,0x08CF7A3B
+ui__s12,0x08D65D98,0x08CF8238,26,Tales of Innocence,ui#123,テイルズ　オブ　イノセンス,0x08CF7798,0x08CF7A3B
+ui__s82,0x08D65D1C,0x08CF8254,28,Tales of Vesperia,ui#124,テイルズ　オブ　ヴェスペリア,0x08CFCB94,0x08CFCBE5
+ui__s82,0x08D65D9C,0x08CF8254,28,Tales of Vesperia,ui#124,テイルズ　オブ　ヴェスペリア,0x08CFCB94,0x08CFCBE5
+ui__s10,0x08D65D20,0x08CF8274,28,Tales of Symphonia: Dawn of the New World,ui#125,ＴＯＳ　−ラタトスクの騎士−,0x08CF765C,0x08CF769B
+ui__s10,0x08D65DA0,0x08CF8274,28,Tales of Symphonia: Dawn of the New World,ui#125,ＴＯＳ　−ラタトスクの騎士−,0x08CF765C,0x08CF769B
+ui__s30,0x08D65D24,0x08CF8294,22,Tales of Hearts,ui#126,テイルズ　オブ　ハーツ,0x08CF9060,0x08CF910F
+ui__s30,0x08D65DA4,0x08CF8294,22,Tales of Hearts,ui#126,テイルズ　オブ　ハーツ,0x08CF9060,0x08CF910F
+ui__s54,0x08D65D28,0x08CF82AC,26,Tales of Graces,ui#127,テイルズ　オブ　グレイセス,0x08CFABB8,0x08CFACF7
+ui__s54,0x08D65DA8,0x08CF82AC,26,Tales of Graces,ui#127,テイルズ　オブ　グレイセス,0x08CFABB8,0x08CFACF7
+ui__s25,0x08D65D2C,0x08CF82C8,26,Radiant Mythology,ui#128,レディアント　マイソロジー,0x08CF863C,0x08CF8847
+ui__s25,0x08D65DAC,0x08CF82C8,26,Radiant Mythology,ui#128,レディアント　マイソロジー,0x08CF863C,0x08CF8847
+ui__s96,0x08D65D34,0x08CF82F8,38,----------,ui#129,−　−　−　−　−　−　−　−　−　−,0x08CFDF7C,0x08CFDFBD
+ui__s10,0x08D65D44,0x08CF8348,14,To Next Level,ui#130,次のレベルまで,0x08CF765C,0x08CF769B
+ui__s75,0x08D65D48,0x08CF8358,10,SLOT 1,ui#131,ＳＬＯＴ１,0x08CFC5FC,0x08CFC6A7
+ui__s94,0x08D65D4C,0x08CF8364,10,SLOT 2,ui#132,ＳＬＯＴ２,0x08CFDEE0,0x08CFDF25
+ui__s25,0x08D65D50,0x08CF8370,10,SLOT 3,ui#133,ＳＬＯＴ３,0x08CF863C,0x08CF8847
+ui__s80,0x08D65D54,0x08CF837C,6,Auto,ui#134,オート,0x08CFC98C,0x08CFC9CB
+ui__s59,0x08D65D58,0x08CF8384,10,Semi-Auto,ui#135,セミオート,0x08CFB00C,0x08CFB24D
+ui__s55,0x08D65D5C,0x08CF8390,10,Manual,ui#136,マニュアル,0x08CFAD30,0x08CFADE3
+ui__s55,0x08D65D60,0x08CF839C,10,Slot 1,ui#137,スロット１,0x08CFAD30,0x08CFADE3
+ui__s55,0x08D65D64,0x08CF83A8,10,Slot 2,ui#138,スロット２,0x08CFAD30,0x08CFADE3
+ui__s55,0x08D65D68,0x08CF83B4,10,Slot 3,ui#139,スロット３,0x08CFAD30,0x08CFADE3
+ui__s59,0x08D65D6C,0x08CF83C0,12,Auto Config,ui#140,Ａｕｔｏ設定,0x08CFB00C,0x08CFB24D
+ui__s87,0x08D65D70,0x08CF83D0,6,All,ui#141,すべて,0x08CFD24C,0x08CFD26D
+ui__s12,0x08D65DB0,0x08CF83D8,4,Mercenary,ui#142,傭兵,0x08CF7798,0x08CF7A3B
+ui__s19,0x08D65DB4,0x08CF83E0,14,By Highest Level,ui#143,レベルが高い順,0x08CF8348,0x08CF84F3
+ui__s59,0x08D65DB8,0x08CF83F0,16,By Most Battles,ui#144,戦闘回数の多い順,0x08CFB00C,0x08CFB24D
+ui__s48,0x08D65DBC,0x08CF8404,8,Alphabetical,ui#145,五十音順,0x08CF9E7C,0x08CFA197
+ui__s38,0x08D65DD0,0x08CF8410,44,Level gap is too big to invite.,ui#146,レベル差が大きいため、誘うことが出来ません。,0x08CF9604,0x08CF970D
+ui__s43,0x08D65DD4,0x08CF8440,4,Equipment,ui#147,装備,0x08CF9828,0x08CF9BE3
+ui__s34,0x08D65DDC,0x08CF8448,34,"If you quit now,",ui#148,セーブを行わずにゲームを終了すると,0x08CF942C,0x08CF948B
+ui__s12,0x08D65DE0,0x08CF846C,30,unsaved progress is lost.,ui#149,現在のゲーム進行は失われますが,0x08CF7798,0x08CF7A3B
+ui__s51,0x08D65DE4,0x08CF848C,16,Are you sure?,ui#150,よろしいですか？,0x08CFA3BC,0x08CFA4D5
+ui__s25,0x08D65DE8,0x08CF84A0,26,Cannot save here.,ui#151,ここではセーブできません。,0x08CF863C,0x08CF8847
+ui__s55,0x08D65DEC,0x08CF84BC,4,Craft,ui#152,生産,0x08CFAD30,0x08CFADE3
+ui__s51,0x08D65DF0,0x08CF84C4,4,Cooking,ui#153,料理,0x08CFA3BC,0x08CFA4D5
+ui__s59,0x08D65DF4,0x08CF84CC,4,Smithing,ui#154,鍛冶,0x08CFB00C,0x08CFB24D
+ui__s19,0x08D65DF8,0x08CF84D4,4,Tailoring,ui#155,服飾,0x08CF8348,0x08CF84F3
+ui__s14,0x08D65DFC,0x08CF84DC,4,Item,ui#156,道具,0x08CF7BCC,0x08CF7C59
+ui__s48,0x08D65E00,0x08CF84E4,6,Proficiency,ui#157,熟練度,0x08CF9E7C,0x08CFA197
+ui__s95,0x08D65E04,0x08CF84EC,6,Rank,ui#158,ランク,0x08CFDF38,0x08CFDF65
+ui__s59,0x08D65E10,0x08CF850C,6,Required,ui#159,必要数,0x08CFB00C,0x08CFB24D
+ui__s54,0x08D65E14,0x08CF8514,6,In Bag,ui#160,所持数,0x08CFABB8,0x08CFACF7
+ui__s48,0x08D65E1C,0x08CF8524,16,Current Meal Effect:,ui#161,現在の料理効果：,0x08CF9E7C,0x08CFA197
+ui__s21,0x08D65E20,0x08CF8538,4,None,ui#162,なし,0x08CF8524,0x08CF853D
+ui__s57,0x08D65E28,0x08CF854C,8,Confirm Synth,ui#163,合成確定,0x08CFAEA4,0x08CFAF93
+ui__s55,0x08D65E2C,0x08CF8558,10,Cancel,ui#164,キャンセル,0x08CFAD30,0x08CFADE3
+ui__s22,0x08D65E30,0x08CF8564,12,Synthesized.,ui#165,合成しました,0x08CF854C,0x08CF858B
+ui__s22,0x08D65E34,0x08CF8574,12,Upgraded.,ui#166,強化しました,0x08CF854C,0x08CF858B
+ui__s36,0x08D65E38,0x08CF8584,6,Funds,ui#167,所持金,0x08CF94C8,0x08CF94CF
+ui__s34,0x08D65E40,0x08CF8590,4,Fee,ui#168,料金,0x08CF942C,0x08CF948B
+ui__s24,0x08D65E48,0x08CF859C,6,Base,ui#169,ベース,0x08CF859C,0x08CF85C7
+ui__s12,0x08D65E4C,0x08CF85A4,6,*Material,ui#170,▲素材,0x08CF7798,0x08CF7A3B
+ui__s24,0x08D65E50,0x08CF85AC,12,Smith Rank,ui#171,鍛冶屋ランク,0x08CF859C,0x08CF85C7
+ui__s3,0x08D65E54,0x08CF85BC,10,Slots Left,ui#172,残強化回数,0x08CF7140,0x08CF7197
+ui__s25,0x08D65E68,0x08CF863C,20,Focus on P. Stats,ui#173,物理パラメーター重視,0x08CF863C,0x08CF8847
+ui__s25,0x08D65E6C,0x08CF8654,18,Focus on M. Stats,ui#174,術パラメーター重視,0x08CF863C,0x08CF8847
+ui__s4,0x08D65E70,0x08CF8668,14,Remove All Equip,ui#175,装備を全て外す,0x08CF71A8,0x08CF724B
+ui__s55,0x08D65E74,0x08CF8678,10,Cancel,ui#176,キャンセル,0x08CFAD30,0x08CFADE3
+ui__s25,0x08D65E78,0x08CF8684,8,Equipper:,ui#177,装備者：,0x08CF863C,0x08CF8847
+ui__s21,0x08D65E7C,0x08CF8690,4,None,ui#178,無し,0x08CF8524,0x08CF853D
+ui__s12,0x08D65E80,0x08CF8698,24,Select base gear,ui#179,装備スキルを合成させる、,0x08CF7798,0x08CF7A3B
+ui__s77,0x08D65E84,0x08CF86B4,32,Choose the base equipment.,ui#180,ベースとなる装備品を選んで下さい,0x08CFC80C,0x08CFC853
+ui__s25,0x08D65E8C,0x08CF86DC,20,Select material gear,ui#181,ベースに合成したい、,0x08CF863C,0x08CF8847
+ui__s25,0x08D65E90,0x08CF86F4,30,to synthesize into the base.,ui#182,素材となる装備品を選んで下さい,0x08CF863C,0x08CF8847
+ui__s48,0x08D65E94,0x08CF8714,40,*Material gear will be lost after synthesis!,ui#183,※素材となる装備品は、合成後消滅します！,0x08CF9E7C,0x08CFA197
+ui__s25,0x08D65E98,0x08CF8740,32,From material equipment:,ui#184,素材となる装備品から、合成したい,0x08CF863C,0x08CF8847
+ui__s86,0x08D65E9C,0x08CF8764,24,Select skill to synthesize.,ui#185,装備スキルを選んで下さい,0x08CFCF88,0x08CFD211
+ui__s25,0x08D65EA0,0x08CF8780,22,Select slot to set,ui#186,合成したい装備スキルを,0x08CF863C,0x08CF8847
+ui__s19,0x08D65EA4,0x08CF8798,32,the skill you wish to synthesize.,ui#187,セットするスロットを選んで下さい,0x08CF8348,0x08CF84F3
+ui__s57,0x08D65EA8,0x08CF87BC,12,Confirm Synth,ui#188,合成確定確認,0x08CFAEA4,0x08CFAF93
+ui__s63,0x08D65EB0,0x08CF87CC,38,Cannot select same item as base and material.,ui#189,ベースと素材で同じものは選択出来ません,0x08CFB5FC,0x08CFBA07
+ui__s75,0x08D65EB4,0x08CF87F4,34,No upgrade slots remaining.,ui#190,残強化回数が０の為、選択出来ません,0x08CFC5FC,0x08CFC6A7
+ui__s52,0x08D65EB8,0x08CF8818,46,This equipment has no skill slots.,ui#191,この装備品には、スキルのスロットが存在しません,0x08CFA510,0x08CFA5B1
+ui__s26,0x08D65EC0,0x08CF8898,50,This equipment has no synthesizable skills.,ui#192,この装備品には、合成可能な装備スキルが存在しません,0x08CF8898,0x08CF899B
+ui__s48,0x08D65EC4,0x08CF88CC,32,Radiant equipment cannot be selected.,ui#193,レディアント装備は選択できません,0x08CF9E7C,0x08CFA197
+ui__s86,0x08D65EC8,0x08CF88F0,42,Armor can only synthesize with same category.,ui#194,防具は同じカテゴリ同士でしか合成出来ません,0x08CFCF88,0x08CFD211
+ui__s26,0x08D65ECC,0x08CF891C,38,The same equipment skill exists on base.,ui#195,ベースに同じ装備スキルが存在しています,0x08CF8898,0x08CF899B
+ui__s26,0x08D65ED0,0x08CF8944,44,Inferior effect compared to skill on base.,ui#196,ベースの同じ装備スキルより効果が劣っています,0x08CF8898,0x08CF899B
+ui__s25,0x08D65ED4,0x08CF8974,38,Base equipment skill has not been changed.,ui#197,ベースの装備スキルが変更されていません,0x08CF863C,0x08CF8847
+ui__s27,0x08D65EE0,0x08CF8A14,44,Cannot confirm while selecting base slot.,ui#198,ベースのスロット選択中は、合成確定出来ません,0x08CF8A14,0x08CF8A93
+ui__s27,0x08D65EE4,0x08CF8A44,22,Insufficient Gald.,ui#199,所持金が不足しています,0x08CF8A14,0x08CF8A93
+ui__s25,0x08D65EE8,0x08CF8A5C,28,Synthesis result is shown on right.,ui#200,合成結果は右のようになります,0x08CF863C,0x08CF8847
+ui__s26,0x08D65EEC,0x08CF8A7C,22,Gald needed for synthesis.,ui#201,合成に必要なガルドは、,0x08CF8898,0x08CF899B
+ui__s90,0x08D65EF4,0x08CF8AA4,32,*Material equipment,ui#202,※合成すると、素材として使用した,0x08CFD6F0,0x08CFD70D
+ui__s28,0x08D65EF8,0x08CF8AC8,22,will be lost forever!,ui#203,は消滅してしまいます！,0x08CF8AA4,0x08CF8B15
+ui__s28,0x08D65EFC,0x08CF8AE0,14,Synthesize?,ui#204,合成しますか？,0x08CF8AA4,0x08CF8B15
+ui__s28,0x08D65F00,0x08CF8AF0,36,Cannot use at current smithing rank.,ui#205,現在の鍛冶屋ランクでは使用出来ません,0x08CF8AA4,0x08CF8B15
+ui__s43,0x08D65F0C,0x08CF8B6C,14,Please select.,ui#206,を選んで下さい,0x08CF9828,0x08CF9BE3
+ui__s59,0x08D65F14,0x08CF8B7C,22,Used to upgrade base.,ui#207,ベースの強化に使用する,0x08CFB00C,0x08CFB24D
+ui__s59,0x08D65F18,0x08CF8B94,30,Select upgrade material item.,ui#208,強化素材アイテムを選んで下さい,0x08CFB00C,0x08CFB24D
+ui__s93,0x08D65F1C,0x08CF8BB4,12,Confirm Upgrade,ui#209,強化確定確認,0x08CFDCE0,0x08CFDDF3
+ui__s43,0x08D65F24,0x08CF8BC4,34,Do not possess upgrade materials.,ui#210,強化素材アイテムを所持していません,0x08CF9828,0x08CF9BE3
+ui__s44,0x08D65F28,0x08CF8BE8,10,Using,ui#211,を使用して,0x08CF9BE8,0x08CF9BEE
+ui__s59,0x08D65F2C,0x08CF8BF4,12,to upgrade.,ui#212,を強化します,0x08CFB00C,0x08CFB24D
+ui__s25,0x08D65F30,0x08CF8C04,22,Gald needed to upgrade:,ui#213,強化に必要なガルドは、,0x08CF863C,0x08CF8847
+ui__s47,0x08D65F38,0x08CF8C1C,14,Upgrade?,ui#214,強化しますか？,0x08CF9E54,0x08CF9E6F
+ui__s41,0x08D65F3C,0x08CF8C2C,10,Req. Lv,ui#215,要求レベル,0x08CF9760,0x08CF978B
+ui__s27,0x08D65F40,0x08CF8C38,4,P. Atk,ui#216,物攻,0x08CF8A14,0x08CF8A93
+ui__s88,0x08D65F44,0x08CF8C40,4,M. Atk,ui#217,術攻,0x08CFD2C4,0x08CFD301
+ui__s52,0x08D65F48,0x08CF8C48,4,P. Def,ui#218,物防,0x08CFA510,0x08CFA5B1
+ui__s81,0x08D65F4C,0x08CF8C50,4,M. Def,ui#219,術防,0x08CFCA40,0x08CFCADB
+ui__s54,0x08D65F50,0x08CF8C58,4,Agi,ui#220,敏捷,0x08CFABB8,0x08CFACF7
+ui__s3,0x08D65F54,0x08CF8C60,10,Slots Left,ui#221,残強化回数,0x08CF7140,0x08CF7197
+ui__s25,0x08D65F58,0x08CF8C6C,8,----,ui#222,――――,0x08CF863C,0x08CF8847
+ui__s29,0x08D66058,0x08CF8FC4,18,Cannot use here.,ui#223,ここでは使えません,0x08CF8FC4,0x08CF9029
+ui__s32,0x08D6605C,0x08CF8FD8,4,Use,ui#224,使う,0x08CF93F8,0x08CF940D
+ui__s64,0x08D66060,0x08CF8FE0,10,View Skills,ui#225,スキル確認,0x08CFBA5C,0x08CFBAA5
+ui__s12,0x08D66064,0x08CF8FEC,8,View Effect,ui#226,効果確認,0x08CF7798,0x08CF7A3B
+ui__s52,0x08D66068,0x08CF8FF8,4,Remove,ui#227,外す,0x08CFA510,0x08CFA5B1
+ui__s25,0x08D6606C,0x08CF9000,6,Discard,ui#228,捨てる,0x08CF863C,0x08CF8847
+ui__s55,0x08D66070,0x08CF9008,10,Cancel,ui#229,キャンセル,0x08CFAD30,0x08CFADE3
+ui__s85,0x08D66074,0x08CF9014,20,Remove gear?,ui#230,の装備を外しますか？,0x08CFCE94,0x08CFCEBF
+ui__s30,0x08D6607C,0x08CF9060,14,Discard this?,ui#231,を捨てますか？,0x08CF9060,0x08CF910F
+ui__s27,0x08D66080,0x08CF9070,16,How many to discard?,ui#232,何個捨てますか？,0x08CF8A14,0x08CF8A93
+ui__s25,0x08D66084,0x08CF9084,12,Equippable Class,ui#233,装備可能職業,0x08CF863C,0x08CF8847
+ui__s25,0x08D660DC,0x08CF9084,12,Equippable Class,ui#233,装備可能職業,0x08CF863C,0x08CF8847
+ui__s14,0x08D66088,0x08CF9094,10,Switch Page,ui#234,ページ切替,0x08CF7BCC,0x08CF7C59
+ui__s30,0x08D6608C,0x08CF90A0,10,Mat. Rank,ui#235,素材ランク,0x08CF9060,0x08CF910F
+ui__s25,0x08D66090,0x08CF90AC,12,Weapon Upgrade,ui#236,武器強化効果,0x08CF863C,0x08CF8847
+ui__s30,0x08D66094,0x08CF90BC,12,Armor Upgrade,ui#237,防具強化効果,0x08CF9060,0x08CF910F
+ui__s41,0x08D66098,0x08CF90CC,10,Req. Lv,ui#238,要求レベル,0x08CF9760,0x08CF978B
+ui__s27,0x08D6609C,0x08CF90D8,4,P. Atk,ui#239,物攻,0x08CF8A14,0x08CF8A93
+ui__s88,0x08D660A0,0x08CF90E0,4,M. Atk,ui#240,術攻,0x08CFD2C4,0x08CFD301
+ui__s54,0x08D660A4,0x08CF90E8,4,Agi,ui#241,敏捷,0x08CFABB8,0x08CFACF7
+ui__s52,0x08D660A8,0x08CF90F0,4,P. Def,ui#242,物防,0x08CFA510,0x08CFA5B1
+ui__s81,0x08D660AC,0x08CF90F8,4,M. Def,ui#243,術防,0x08CFCA40,0x08CFCADB
+ui__s83,0x08D660B0,0x08CF9100,14,All Party,ui#244,パーティ全員の,0x08CFCD94,0x08CFCDDB
+ui__s31,0x08D660E0,0x08CF9190,6,Before,ui#245,変更前,0x08CF9190,0x08CF93F3
+ui__s31,0x08D660E4,0x08CF9198,6,After,ui#246,変更後,0x08CF9190,0x08CF93F3
+ui__s31,0x08D660EC,0x08CF91A4,10,Category:,ui#247,カテゴリ：,0x08CF9190,0x08CF93F3
+ui__s32,0x08D660F0,0x08CF91B0,8,Newest,ui#248,最新獲得,0x08CF93F8,0x08CF940D
+ui__s31,0x08D660F4,0x08CF91BC,8,Recently Added,ui#249,最新入庫,0x08CF9190,0x08CF93F3
+ui__s14,0x08D660F8,0x08CF91C8,4,Item,ui#250,道具,0x08CF7BCC,0x08CF7C59
+ui__s31,0x08D660FC,0x08CF91D0,8,Craft Mat.,ui#251,生産素材,0x08CF9190,0x08CF93F3
+ui__s31,0x08D66100,0x08CF91DC,8,Upgrade Mat.,ui#252,強化素材,0x08CF9190,0x08CF93F3
+ui__s31,0x08D66104,0x08CF91E8,12,Trade Items,ui#253,交換アイテム,0x08CF9190,0x08CF93F3
+ui__s31,0x08D66108,0x08CF91F8,6,Accessories,ui#254,装飾品,0x08CF9190,0x08CF93F3
+ui__s31,0x08D66244,0x08CF91F8,6,Accessories,ui#254,装飾品,0x08CF9190,0x08CF93F3
+ui__s31,0x08D6610C,0x08CF9200,6,Valuables,ui#255,貴重品,0x08CF9190,0x08CF93F3
+ui__s47,0x08D66110,0x08CF9208,6,???,ui#256,？？？,0x08CF9E54,0x08CF9E6F
+ui__s21,0x08D66114,0x08CF9210,12,Weapon: 1H Sword,ui#257,武器：片手剣,0x08CF8524,0x08CF853D
+ui__s30,0x08D66118,0x08CF9220,12,Weapon: 2H Sword,ui#258,武器：両手剣,0x08CF9060,0x08CF910F
+ui__s26,0x08D6611C,0x08CF9230,10,Weapon: Dagger,ui#259,武器：短剣,0x08CF8898,0x08CF899B
+ui__s1,0x08D66120,0x08CF923C,8,Weapon: Axe,ui#260,武器：斧,0x08CF7080,0x08CF7095
+ui__s26,0x08D66124,0x08CF9248,8,Weapon: Staff,ui#261,武器：杖,0x08CF8898,0x08CF899B
+ui__s26,0x08D66128,0x08CF9254,8,Weapon: Fists,ui#262,武器：拳,0x08CF8898,0x08CF899B
+ui__s31,0x08D6612C,0x08CF9260,8,Weapon: Bow,ui#263,武器：弓,0x08CF9190,0x08CF93F3
+ui__s31,0x08D66130,0x08CF926C,10,Weapon: Gun,ui#264,武器：拳銃,0x08CF9190,0x08CF93F3
+ui__s31,0x08D66134,0x08CF9278,8,Weapon: Spear,ui#265,武器：槍,0x08CF9190,0x08CF93F3
+ui__s31,0x08D66138,0x08CF9284,16,Weapon: Tonfa,ui#266,武器：トンファー,0x08CF9190,0x08CF93F3
+ui__s31,0x08D6613C,0x08CF9298,10,Weapon: Chakram,ui#267,武器：戦輪,0x08CF9190,0x08CF93F3
+ui__s31,0x08D66140,0x08CF92A4,14,Weapon: Hammer,ui#268,武器：ハンマー,0x08CF9190,0x08CF93F3
+ui__s31,0x08D66144,0x08CF92B4,14,Weapon: Rifle,ui#269,武器：ライフル,0x08CF9190,0x08CF93F3
+ui__s31,0x08D66148,0x08CF92C4,12,Weapon: Baton,ui#270,武器：バトン,0x08CF9190,0x08CF93F3
+ui__s12,0x08D6614C,0x08CF92D4,14,Weapon: Crossbow,ui#271,武器：ボウガン,0x08CF7798,0x08CF7A3B
+ui__s31,0x08D66150,0x08CF92E4,12,Weapon: Bag,ui#272,武器：バッグ,0x08CF9190,0x08CF93F3
+ui__s31,0x08D66154,0x08CF92F4,10,Weapon: Kendama,ui#273,武器：剣玉,0x08CF9190,0x08CF93F3
+ui__s31,0x08D66158,0x08CF9300,12,Weapon: Mop,ui#274,武器：清掃具,0x08CF9190,0x08CF93F3
+ui__s19,0x08D6615C,0x08CF9310,12,Weapon: Ladle,ui#275,武器：おたま,0x08CF8348,0x08CF84F3
+ui__s48,0x08D66160,0x08CF9320,8,Weapon: Flute,ui#276,武器：笛,0x08CF9E7C,0x08CFA197
+ui__s59,0x08D66164,0x08CF932C,8,Weapon: Talisman,ui#277,武器：符,0x08CFB00C,0x08CFB24D
+ui__s59,0x08D66168,0x08CF9338,14,Weapon: Straw,ui#278,武器：ストロー,0x08CFB00C,0x08CFB24D
+ui__s31,0x08D6616C,0x08CF9348,10,Weapon: Pen,ui#279,武器：ペン,0x08CF9190,0x08CF93F3
+ui__s19,0x08D66170,0x08CF9354,8,Weapon: Sash,ui#280,武器：帯,0x08CF8348,0x08CF84F3
+ui__s31,0x08D66174,0x08CF9360,8,Armor: Shield,ui#281,防具：盾,0x08CF9190,0x08CF93F3
+ui__s31,0x08D66178,0x08CF936C,8,Armor: Head,ui#282,防具：頭,0x08CF9190,0x08CF93F3
+ui__s31,0x08D6617C,0x08CF9378,8,Armor: Face,ui#283,防具：顔,0x08CF9190,0x08CF93F3
+ui__s25,0x08D66180,0x08CF9384,8,Armor: Body,ui#284,防具：体,0x08CF863C,0x08CF8847
+ui__s25,0x08D66184,0x08CF9390,8,Armor: Arms,ui#285,防具：手,0x08CF863C,0x08CF8847
+ui__s31,0x08D66188,0x08CF939C,8,Armor: Legs,ui#286,防具：足,0x08CF9190,0x08CF93F3
+ui__s31,0x08D6618C,0x08CF93A8,8,Standard Weapon,ui#287,通常武器,0x08CF9190,0x08CF93F3
+ui__s41,0x08D66190,0x08CF93B4,8,Special Weapon,ui#288,特殊武器,0x08CF9760,0x08CF978B
+ui__s3,0x08D66194,0x08CF93C0,8,Misc Weapon,ui#289,雑貨武器,0x08CF7140,0x08CF7197
+ui__s31,0x08D66198,0x08CF93CC,6,Body Equip,ui#290,体装備,0x08CF9190,0x08CF93F3
+ui__s31,0x08D6619C,0x08CF93D4,6,Head Equip,ui#291,頭装備,0x08CF9190,0x08CF93F3
+ui__s3,0x08D661A0,0x08CF93DC,6,Face Gear,ui#292,顔装備,0x08CF7140,0x08CF7197
+ui__s31,0x08D661A4,0x08CF93E4,6,Arms Equip,ui#293,手装備,0x08CF9190,0x08CF93F3
+ui__s39,0x08D661A8,0x08CF93EC,6,Footwear,ui#294,足装備,0x08CF9720,0x08CF973D
+ui__s32,0x08D661B0,0x08CF93F8,6,1H Sword,ui#295,片手剣,0x08CF93F8,0x08CF940D
+ui__s70,0x08D661B4,0x08CF9400,6,2H Sword,ui#296,両手剣,0x08CFBF5C,0x08CFBFE1
+ui__s3,0x08D661B8,0x08CF9408,4,Dagger,ui#297,短剣,0x08CF7140,0x08CF7197
+ui__s9,0x08D661CC,0x08CF9420,4,Handgun,ui#298,拳銃,0x08CF75DC,0x08CF75F7
+ui__s79,0x08D661D4,0x08CF942C,10,Tonfa,ui#299,トンファー,0x08CFC8F8,0x08CFC913
+ui__s24,0x08D661D8,0x08CF9438,4,Chakram,ui#300,戦輪,0x08CF859C,0x08CF85C7
+ui__s34,0x08D661DC,0x08CF9440,8,Hammer,ui#301,ハンマー,0x08CF942C,0x08CF948B
+ui__s4,0x08D661E0,0x08CF944C,8,Rifle,ui#302,ライフル,0x08CF71A8,0x08CF724B
+ui__s59,0x08D661E4,0x08CF9458,6,Baton,ui#303,バトン,0x08CFB00C,0x08CFB24D
+ui__s34,0x08D661E8,0x08CF9460,8,Crossbow,ui#304,ボウガン,0x08CF942C,0x08CF948B
+ui__s6,0x08D661EC,0x08CF946C,6,Bag,ui#305,バッグ,0x08CF73D8,0x08CF73E5
+ui__s42,0x08D661F0,0x08CF9474,4,Kendama,ui#306,剣玉,0x08CF980C,0x08CF9819
+ui__s16,0x08D661F4,0x08CF947C,6,Mop,ui#307,清掃具,0x08CF7CEC,0x08CF7D03
+ui__s34,0x08D661F8,0x08CF9484,6,Ladle,ui#308,おたま,0x08CF942C,0x08CF948B
+ui__s27,0x08D66204,0x08CF9494,8,Straw,ui#309,ストロー,0x08CF8A14,0x08CF8A93
+ui__s51,0x08D66208,0x08CF94A0,4,Pen,ui#310,ペン,0x08CFA3BC,0x08CFA4D5
+ui__s28,0x08D66230,0x08CF94C8,6,Robe,ui#311,ローブ,0x08CF8AA4,0x08CF8B15
+ui__s4,0x08D66238,0x08CF94D4,4,Hat,ui#312,帽子,0x08CF71A8,0x08CF724B
+ui__s37,0x08D6623C,0x08CF94DC,4,Gauntlets,ui#313,篭手,0x08CF94D4,0x08CF95FD
+ui__s71,0x08D66240,0x08CF94E4,4,Bracelet,ui#314,腕輪,0x08CFC050,0x08CFC073
+ui__s37,0x08D66248,0x08CF94EC,4,Material,ui#315,素材,0x08CF94D4,0x08CF95FD
+ui__s37,0x08D6624C,0x08CF94F4,6,Recipe,ui#316,レシピ,0x08CF94D4,0x08CF95FD
+ui__s1,0x08D66250,0x08CF94FC,4,Thought,ui#317,思考,0x08CF7080,0x08CF7095
+ui__s30,0x08D66254,0x08CF9504,10,Tablet Shard,ui#318,石版の欠片,0x08CF9060,0x08CF910F
+ui__s31,0x08D66258,0x08CF9510,4,Standard,ui#319,標準,0x08CF9190,0x08CF93F3
+ui__s37,0x08D6625C,0x08CF9518,12,By Req. Level,ui#320,要求レベル順,0x08CF94D4,0x08CF95FD
+ui__s30,0x08D66260,0x08CF9528,8,By Attack,ui#321,攻撃力順,0x08CF9060,0x08CF910F
+ui__s31,0x08D66264,0x08CF9534,10,By M. Atk,ui#322,術攻撃力順,0x08CF9190,0x08CF93F3
+ui__s31,0x08D66268,0x08CF9540,8,By Defense,ui#323,防御力順,0x08CF9190,0x08CF93F3
+ui__s37,0x08D6626C,0x08CF954C,10,By M. Def,ui#324,術防御力順,0x08CF94D4,0x08CF95FD
+ui__s31,0x08D66270,0x08CF9558,8,By Rarity,ui#325,レア度順,0x08CF9190,0x08CF93F3
+ui__s8,0x08D66274,0x08CF9564,10,Alphabetical Asc,ui#326,五十音昇順,0x08CF748C,0x08CF74B5
+ui__s37,0x08D66278,0x08CF9570,10,Alphabetical Desc,ui#327,五十音降順,0x08CF94D4,0x08CF95FD
+ui__s37,0x08D6627C,0x08CF957C,8,By Skill,ui#328,スキル別,0x08CF94D4,0x08CF95FD
+ui__s37,0x08D66280,0x08CF9588,14,By Max HP Boost,ui#329,最大ＨＰ増加順,0x08CF94D4,0x08CF95FD
+ui__s37,0x08D66284,0x08CF9598,14,By Max TP Boost,ui#330,最大ＴＰ増加順,0x08CF94D4,0x08CF95FD
+ui__s37,0x08D66288,0x08CF95A8,16,By P. Atk Boost,ui#331,物理攻撃力増加順,0x08CF94D4,0x08CF95FD
+ui__s37,0x08D6628C,0x08CF95BC,14,By M. Atk Boost,ui#332,術攻撃力増加順,0x08CF94D4,0x08CF95FD
+ui__s37,0x08D66290,0x08CF95CC,16,By P. Def Boost,ui#333,物理防御力増加順,0x08CF94D4,0x08CF95FD
+ui__s37,0x08D66294,0x08CF95E0,14,By M. Def Boost,ui#334,術防御力増加順,0x08CF94D4,0x08CF95FD
+ui__s37,0x08D66298,0x08CF95F0,12,Monster Name,ui#335,モンスター名,0x08CF94D4,0x08CF95FD
+ui__s47,0x08D662A0,0x08CF9604,6,???,ui#336,？？？,0x08CF9E54,0x08CF9E6F
+ui__s47,0x08D662F0,0x08CF9604,6,???,ui#336,？？？,0x08CF9E54,0x08CF9E6F
+ui__s47,0x08D66370,0x08CF9604,6,???,ui#336,？？？,0x08CF9E54,0x08CF9E6F
+ui__s47,0x08D6642C,0x08CF9604,6,???,ui#336,？？？,0x08CF9E54,0x08CF9E6F
+ui__s47,0x08D66430,0x08CF9604,6,???,ui#336,？？？,0x08CF9E54,0x08CF9E6F
+ui__s31,0x08D662A4,0x08CF960C,4,Standard,ui#337,標準,0x08CF9190,0x08CF93F3
+ui__s12,0x08D662A8,0x08CF9614,10,Level: Low to High,ui#338,レベル昇順,0x08CF7798,0x08CF7A3B
+ui__s38,0x08D662AC,0x08CF9620,10,Level: High to Low,ui#339,レベル降順,0x08CF9604,0x08CF970D
+ui__s38,0x08D662B0,0x08CF962C,10,Name: A to Z,ui#340,五十音昇順,0x08CF9604,0x08CF970D
+ui__s37,0x08D662B4,0x08CF9638,10,Name: Z to A,ui#341,五十音降順,0x08CF94D4,0x08CF95FD
+ui__s38,0x08D662B8,0x08CF9644,10,Main Habitat,ui#342,主な生息地,0x08CF9604,0x08CF970D
+ui__s38,0x08D66364,0x08CF9644,10,Main Habitat,ui#342,主な生息地,0x08CF9604,0x08CF970D
+ui__s39,0x08D662BC,0x08CF9650,6,Level,ui#343,レベル,0x08CF9720,0x08CF973D
+ui__s21,0x08D662C0,0x08CF9658,4,HP,ui#344,ＨＰ,0x08CF8524,0x08CF853D
+ui__s27,0x08D662C4,0x08CF9660,10,P. Atk,ui#345,物理攻撃力,0x08CF8A14,0x08CF8A93
+ui__s52,0x08D662C8,0x08CF966C,10,P. Def,ui#346,物理防御力,0x08CFA510,0x08CFA5B1
+ui__s88,0x08D662CC,0x08CF9678,8,M. Atk,ui#347,術攻撃力,0x08CFD2C4,0x08CFD301
+ui__s88,0x08D6643C,0x08CF9678,8,M. Atk,ui#347,術攻撃力,0x08CFD2C4,0x08CFD301
+ui__s81,0x08D662D0,0x08CF9684,8,M. Def,ui#348,術防御力,0x08CFCA40,0x08CFCADB
+ui__s81,0x08D66444,0x08CF9684,8,M. Def,ui#348,術防御力,0x08CFCA40,0x08CFCADB
+ui__s38,0x08D662D4,0x08CF9690,8,Weakness,ui#349,弱点属性,0x08CF9604,0x08CF970D
+ui__s38,0x08D662D8,0x08CF969C,8,Resist,ui#350,得意属性,0x08CF9604,0x08CF970D
+ui__s18,0x08D662DC,0x08CF96A8,6,Agility,ui#351,敏捷値,0x08CF82F8,0x08CF831F
+ui__s38,0x08D662E0,0x08CF96B0,10,Base EXP,ui#352,基本ＥＸＰ,0x08CF9604,0x08CF970D
+ui__s25,0x08D662E4,0x08CF96BC,6,Gald,ui#353,ガルド,0x08CF863C,0x08CF8847
+ui__s2,0x08D662E8,0x08CF96C4,18,Held Items,ui#354,持っているアイテム,0x08CF7110,0x08CF712D
+ui__s37,0x08D662EC,0x08CF96D8,14,Stealable Items,ui#355,盗めるアイテム,0x08CF94D4,0x08CF95FD
+ui__s26,0x08D662F4,0x08CF96E8,14,Ineffective Items,ui#356,無効なアイテム,0x08CF8898,0x08CF899B
+ui__s32,0x08D662F8,0x08CF96F8,6,1H Sword,ui#357,片手剣,0x08CF93F8,0x08CF940D
+ui__s70,0x08D662FC,0x08CF9700,6,2H Sword,ui#358,両手剣,0x08CFBF5C,0x08CFBFE1
+ui__s3,0x08D66300,0x08CF9708,4,Dagger,ui#359,短剣,0x08CF7140,0x08CF7197
+ui__s9,0x08D66314,0x08CF9720,4,Handgun,ui#360,拳銃,0x08CF75DC,0x08CF75F7
+ui__s41,0x08D66318,0x08CF9728,8,Special Weapon,ui#361,特殊武器,0x08CF9760,0x08CF978B
+ui__s3,0x08D6631C,0x08CF9734,8,Misc Weapon,ui#362,雑貨武器,0x08CF7140,0x08CF7197
+ui__s4,0x08D66328,0x08CF9748,4,Hat,ui#363,帽子,0x08CF71A8,0x08CF724B
+ui__s3,0x08D6632C,0x08CF9750,6,Face Gear,ui#364,顔装備,0x08CF7140,0x08CF7197
+ui__s28,0x08D66338,0x08CF9760,6,Robe,ui#365,ローブ,0x08CF8AA4,0x08CF8B15
+ui__s37,0x08D6633C,0x08CF9768,4,Gauntlets,ui#366,篭手,0x08CF94D4,0x08CF95FD
+ui__s71,0x08D66340,0x08CF9770,4,Bracelet,ui#367,腕輪,0x08CFC050,0x08CFC073
+ui__s39,0x08D66344,0x08CF9778,6,Footwear,ui#368,足装備,0x08CF9720,0x08CF973D
+ui__s53,0x08D66348,0x08CF9780,10,-----,ui#369,−−−−−,0x08CFA618,0x08CFA669
+ui__s38,0x08D66360,0x08CF980C,6,Defeated,ui#370,討伐数,0x08CF9604,0x08CF970D
+ui__s34,0x08D66368,0x08CF9814,4,Unknown,ui#371,不明,0x08CF942C,0x08CF948B
+ui__s43,0x08D66378,0x08CF9828,10,Weapon Book,ui#372,　武器図鑑,0x08CF9828,0x08CF9BE3
+ui__s43,0x08D6637C,0x08CF9834,10,Armor Book,ui#373,　防具図鑑,0x08CF9828,0x08CF9BE3
+ui__s43,0x08D66380,0x08CF9840,28,Check weapon collection status.,ui#374,武器の収集状態を確認出来ます,0x08CF9828,0x08CF9BE3
+ui__s18,0x08D66384,0x08CF9860,28,Check armor collection status.,ui#375,防具の収集状態を確認出来ます,0x08CF82F8,0x08CF831F
+ui__s32,0x08D66388,0x08CF9880,8,1H Sword,ui#376,　片手剣,0x08CF93F8,0x08CF940D
+ui__s70,0x08D6638C,0x08CF988C,8,2H Sword,ui#377,　両手剣,0x08CFBF5C,0x08CFBFE1
+ui__s3,0x08D66390,0x08CF9898,6,Dagger,ui#378,　短剣,0x08CF7140,0x08CF7197
+ui__s88,0x08D66394,0x08CF98A0,4,Axe,ui#379,　斧,0x08CFD2C4,0x08CFD301
+ui__s29,0x08D66398,0x08CF98A8,4,Staff,ui#380,　杖,0x08CF8FC4,0x08CF9029
+ui__s11,0x08D6639C,0x08CF98B0,4,Fist,ui#381,　拳,0x08CF76B4,0x08CF7773
+ui__s23,0x08D663A0,0x08CF98B8,4,Bow,ui#382,　弓,0x08CF8590,0x08CF8595
+ui__s9,0x08D663A4,0x08CF98C0,6,Handgun,ui#383,　拳銃,0x08CF75DC,0x08CF75F7
+ui__s41,0x08D663A8,0x08CF98C8,10,Special Weapon,ui#384,　特殊武器,0x08CF9760,0x08CF978B
+ui__s3,0x08D663AC,0x08CF98D4,10,Misc Weapon,ui#385,　雑貨武器,0x08CF7140,0x08CF7197
+ui__s43,0x08D663B0,0x08CF98E0,4,Armor,ui#386,　鎧,0x08CF9828,0x08CF9BE3
+ui__s31,0x08D663B4,0x08CF98E8,4,Clothing,ui#387,　服,0x08CF9190,0x08CF93F3
+ui__s28,0x08D663B8,0x08CF98F0,8,Robe,ui#388,　ローブ,0x08CF8AA4,0x08CF8B15
+ui__s43,0x08D663BC,0x08CF98FC,4,Helm,ui#389,　兜,0x08CF9828,0x08CF9BE3
+ui__s4,0x08D663C0,0x08CF9904,6,Hat,ui#390,　帽子,0x08CF71A8,0x08CF724B
+ui__s3,0x08D663C4,0x08CF990C,8,Face Gear,ui#391,　顔装備,0x08CF7140,0x08CF7197
+ui__s37,0x08D663C8,0x08CF9918,6,Gauntlets,ui#392,　篭手,0x08CF94D4,0x08CF95FD
+ui__s71,0x08D663CC,0x08CF9920,6,Bracelet,ui#393,　腕輪,0x08CFC050,0x08CFC073
+ui__s39,0x08D663D0,0x08CF9928,8,Footwear,ui#394,　足装備,0x08CF9720,0x08CF973D
+ui__s37,0x08D663D4,0x08CF9934,4,Shield,ui#395,　盾,0x08CF94D4,0x08CF95FD
+ui__s86,0x08D663D8,0x08CF993C,30,Check 1H sword collection status.,ui#396,片手剣の収集状態を確認出来ます,0x08CFCF88,0x08CFD211
+ui__s43,0x08D663DC,0x08CF995C,30,Check 2H sword collection status.,ui#397,両手剣の収集状態を確認出来ます,0x08CF9828,0x08CF9BE3
+ui__s43,0x08D663E0,0x08CF997C,28,Check dagger collection status.,ui#398,短剣の収集状態を確認出来ます,0x08CF9828,0x08CF9BE3
+ui__s43,0x08D663E4,0x08CF999C,26,Check axe collection status.,ui#399,斧の収集状態を確認出来ます,0x08CF9828,0x08CF9BE3
+ui__s43,0x08D663E8,0x08CF99B8,26,Check staff collection status.,ui#400,杖の収集状態を確認出来ます,0x08CF9828,0x08CF9BE3
+ui__s48,0x08D663EC,0x08CF99D4,26,Check fists collection status.,ui#401,拳の収集状態を確認出来ます,0x08CF9E7C,0x08CFA197
+ui__s43,0x08D663F0,0x08CF99F0,26,Check bow collection status.,ui#402,弓の収集状態を確認出来ます,0x08CF9828,0x08CF9BE3
+ui__s43,0x08D663F4,0x08CF9A0C,28,Check gun collection status.,ui#403,拳銃の収集状態を確認出来ます,0x08CF9828,0x08CF9BE3
+ui__s55,0x08D663F8,0x08CF9A2C,32,Check special weapon status.,ui#404,特殊武器の収集状態を確認出来ます,0x08CFAD30,0x08CFADE3
+ui__s55,0x08D663FC,0x08CF9A50,32,Check novelty weapon status.,ui#405,雑貨武器の収集状態を確認出来ます,0x08CFAD30,0x08CFADE3
+ui__s18,0x08D66400,0x08CF9A74,26,Check armor collection status.,ui#406,鎧の収集状態を確認出来ます,0x08CF82F8,0x08CF831F
+ui__s43,0x08D66404,0x08CF9A90,26,Check clothes collection status.,ui#407,服の収集状態を確認出来ます,0x08CF9828,0x08CF9BE3
+ui__s43,0x08D66408,0x08CF9AAC,30,Check robe collection status.,ui#408,ローブの収集状態を確認出来ます,0x08CF9828,0x08CF9BE3
+ui__s43,0x08D6640C,0x08CF9ACC,26,Check helm collection status.,ui#409,兜の収集状態を確認出来ます,0x08CF9828,0x08CF9BE3
+ui__s43,0x08D66410,0x08CF9AE8,28,Check hat collection status.,ui#410,帽子の収集状態を確認出来ます,0x08CF9828,0x08CF9BE3
+ui__s43,0x08D66414,0x08CF9B08,30,Check face gear collection status.,ui#411,顔装備の収集状態を確認出来ます,0x08CF9828,0x08CF9BE3
+ui__s43,0x08D66418,0x08CF9B28,28,Check gauntlet collection status.,ui#412,篭手の収集状態を確認出来ます,0x08CF9828,0x08CF9BE3
+ui__s43,0x08D6641C,0x08CF9B48,28,Check bangle collection status.,ui#413,腕輪の収集状態を確認出来ます,0x08CF9828,0x08CF9BE3
+ui__s43,0x08D66420,0x08CF9B68,30,Check leg gear collection status.,ui#414,足装備の収集状態を確認出来ます,0x08CF9828,0x08CF9BE3
+ui__s48,0x08D66424,0x08CF9B88,26,Check shield collection status.,ui#415,盾の収集状態を確認出来ます,0x08CF9E7C,0x08CFA197
+ui__s89,0x08D66428,0x08CF9BA4,16,Equipment not yet acquired.,ui#416,未入手の装備です,0x08CFD324,0x08CFD5B9
+ui__s41,0x08D66434,0x08CF9BB8,10,Req. Lv,ui#417,要求レベル,0x08CF9760,0x08CF978B
+ui__s26,0x08D66438,0x08CF9BC4,6,Attack,ui#418,攻撃力,0x08CF8898,0x08CF899B
+ui__s60,0x08D66440,0x08CF9BCC,6,Defense,ui#419,防御力,0x08CFB3CC,0x08CFB419
+ui__s54,0x08D66448,0x08CF9BD4,4,Agi,ui#420,敏捷,0x08CFABB8,0x08CFACF7
+ui__s24,0x08D6644C,0x08CF9BDC,6,Rate,ui#421,収集率,0x08CF859C,0x08CF85C7
+ui__s87,0x08D66454,0x08CF9BE8,5,All,ui#422,全て ,0x08CFD24C,0x08CFD26D
+ui__s45,0x08D6649C,0x08CF9DE0,10,Info Rate,ui#423,情報獲得率,0x08CF9DE0,0x08CF9DEB
+ui__s31,0x08D664A4,0x08CF9DF4,8,Total Kills,ui#424,総討伐数,0x08CF9190,0x08CF93F3
+ui__s47,0x08D664AC,0x08CF9E00,6,???,ui#425,？？？,0x08CF9E54,0x08CF9E6F
+ui__s47,0x08D664D8,0x08CF9E00,6,???,ui#425,？？？,0x08CF9E54,0x08CF9E6F
+ui__s47,0x08D66524,0x08CF9E00,6,???,ui#425,？？？,0x08CF9E54,0x08CF9E6F
+ui__s20,0x08D664B8,0x08CF9E54,8,Normal,ui#426,ノーマル,0x08CF850C,0x08CF851B
+ui__s20,0x08D66518,0x08CF9E54,8,Normal,ui#426,ノーマル,0x08CF850C,0x08CF851B
+ui__s47,0x08D664BC,0x08CF9E60,6,Hard,ui#427,ハード,0x08CF9E54,0x08CF9E6F
+ui__s47,0x08D6651C,0x08CF9E60,6,Hard,ui#427,ハード,0x08CF9E54,0x08CF9E6F
+ui__s34,0x08D664C0,0x08CF9E68,6,Mania,ui#428,マニア,0x08CF942C,0x08CF948B
+ui__s34,0x08D66520,0x08CF9E68,6,Mania,ui#428,マニア,0x08CF942C,0x08CF948B
+ui__s12,0x08D664C8,0x08CF9E7C,10,Do Not Apply,ui#429,反映しない,0x08CF7798,0x08CF7A3B
+ui__s35,0x08D664CC,0x08CF9E88,8,Apply,ui#430,反映する,0x08CF9494,0x08CF94A5
+ui__s72,0x08D664D0,0x08CF9E94,10,Reset,ui#431,再設定する,0x08CFC114,0x08CFC197
+ui__s37,0x08D664D4,0x08CF9EA0,16,Restore Default,ui#432,デフォルトに戻す,0x08CF94D4,0x08CF95FD
+ui__s30,0x08D664DC,0x08CF9EB4,18,Message Speed,ui#433,メッセージスピード,0x08CF9060,0x08CF910F
+ui__s43,0x08D664E0,0x08CF9EC8,10,Difficulty,ui#434,戦闘難易度,0x08CF9828,0x08CF9BE3
+ui__s55,0x08D664E4,0x08CF9ED4,14,Sound Test,ui#435,サウンドテスト,0x08CFAD30,0x08CFADE3
+ui__s31,0x08D664E8,0x08CF9EE4,16,Sound Select,ui#436,サウンドセレクト,0x08CF9190,0x08CF93F3
+ui__s62,0x08D664EC,0x08CF9EF8,16,BGM Volume,ui#437,ＢＧＭボリューム,0x08CFB46C,0x08CFB507
+ui__s34,0x08D664F0,0x08CF9F0C,14,SE Volume,ui#438,ＳＥボリューム,0x08CF942C,0x08CF948B
+ui__s43,0x08D664F4,0x08CF9F1C,20,Battle Voice Volume,ui#439,戦闘ボイスボリューム,0x08CF9828,0x08CF9BE3
+ui__s16,0x08D664F8,0x08CF9F34,24,Event Voice Volume,ui#440,イベントボイスボリューム,0x08CF7CEC,0x08CF7D03
+ui__s31,0x08D664FC,0x08CF9F50,20,Encounter Camera,ui#441,戦闘エンカウント確認,0x08CF9190,0x08CF93F3
+ui__s57,0x08D66500,0x08CF9F68,18,Data Install,ui#442,データインストール,0x08CFAEA4,0x08CFAF93
+ui__s59,0x08D66504,0x08CF9F7C,20,Change Player Name,ui#443,プレイヤーネーム設定,0x08CFB00C,0x08CFB24D
+ui__s43,0x08D66508,0x08CF9F94,4,Slow,ui#444,遅い,0x08CF9828,0x08CF9BE3
+ui__s20,0x08D6650C,0x08CF9F9C,4,Normal,ui#445,普通,0x08CF850C,0x08CF851B
+ui__s43,0x08D66510,0x08CF9FA4,4,Fast,ui#446,速い,0x08CF9828,0x08CF9BE3
+ui__s46,0x08D66514,0x08CF9FAC,4,Instant,ui#447,一括,0x08CF9DF4,0x08CF9E07
+ui__s13,0x08D66528,0x08CF9FB4,16,Van Eltia,ui#448,バンエルティア号,0x08CF7A9C,0x08CF7B2D
+ui__s49,0x08D6652C,0x08CF9FC8,10,Standard BGM,ui#449,通常戦闘曲,0x08CFA1D0,0x08CFA38B
+ui__s43,0x08D66530,0x08CF9FD4,16,Story Battle BGM,ui#450,ストーリー戦闘曲,0x08CF9828,0x08CF9BE3
+ui__s43,0x08D66534,0x08CF9FE8,10,Boss Battle BGM,ui#451,ボス戦闘曲,0x08CF9828,0x08CF9BE3
+ui__s49,0x08D66538,0x08CF9FF4,12,Final Battle 1,ui#452,最終戦闘曲１,0x08CFA1D0,0x08CFA38B
+ui__s49,0x08D6653C,0x08CFA004,12,Final Battle 2,ui#453,最終戦闘曲２,0x08CFA1D0,0x08CFA38B
+ui__s38,0x08D66540,0x08CFA014,14,Default Playback,ui#454,デフォルト演奏,0x08CF9604,0x08CF970D
+ui__s65,0x08D66544,0x08CFA024,12,Random Playback,ui#455,ランダム演奏,0x08CFBB94,0x08CFBC01
+ui__s28,0x08D66548,0x08CFA034,4,ON,ui#456,ＯＮ,0x08CF8AA4,0x08CF8B15
+ui__s31,0x08D6654C,0x08CFA03C,6,OFF,ui#457,ＯＦＦ,0x08CF9190,0x08CF93F3
+ui__s14,0x08D66550,0x08CFA044,24,Locked option.,ui#458,開放されていない項目です,0x08CF7BCC,0x08CF7C59
+ui__s38,0x08D66554,0x08CFA060,30,Displays messages slowly.,ui#459,ゆっくりメッセージを表示します,0x08CF9604,0x08CF970D
+ui__s3,0x08D66558,0x08CFA080,34,Displays messages at normal speed.,ui#460,通常の速度でメッセージを表示します,0x08CF7140,0x08CF7197
+ui__s53,0x08D6655C,0x08CFA0A4,26,Displays messages quickly.,ui#461,速くメッセージを表示します,0x08CFA618,0x08CFA669
+ui__s82,0x08D66560,0x08CFA0C0,28,Displays messages instantly.,ui#462,一括でメッセージを表示します,0x08CFCB94,0x08CFCBE5
+ui__s27,0x08D66564,0x08CFA0E0,20,Standard battle difficulty.,ui#463,通常の戦闘難易度です,0x08CF8A14,0x08CF8A93
+ui__s48,0x08D66568,0x08CFA0F8,26,Sets battle difficulty to Hard.,ui#464,戦闘難易度をハードにします,0x08CF9E7C,0x08CFA197
+ui__s63,0x08D6656C,0x08CFA114,26,Sets battle difficulty to Mania.,ui#465,戦闘難易度をマニアにします,0x08CFB5FC,0x08CFBA07
+ui__s29,0x08D66570,0x08CFA130,26,Changes battle music.,ui#466,戦闘時に流す曲を変更します,0x08CF8FC4,0x08CF9029
+ui__s28,0x08D66574,0x08CFA14C,42,Changes Van Eltia ship music.,ui#467,バンエルティア号の船内で流す曲を変更します,0x08CF8AA4,0x08CF8B15
+ui__s87,0x08D66578,0x08CFA178,30,Changes normal battle music.,ui#468,通常戦闘時に流す曲を変更します,0x08CFD24C,0x08CFD26D
+ui__s12,0x08D66580,0x08CFA1D0,30,Changes boss battle music.,ui#469,ボス戦闘時に流す曲を変更します,0x08CF7798,0x08CF7A3B
+ui__s54,0x08D66584,0x08CFA1F0,30,Changes final battle music.,ui#470,最終戦闘時に流す曲を変更します,0x08CFABB8,0x08CFACF7
+ui__s54,0x08D66588,0x08CFA1F0,30,Changes final battle music.,ui#470,最終戦闘時に流す曲を変更します,0x08CFABB8,0x08CFACF7
+ui__s25,0x08D6658C,0x08CFA210,34,Adjusts game BGM volume.,ui#471,ゲーム中のＢＧＭの音量を調節します,0x08CF863C,0x08CF8847
+ui__s93,0x08D66590,0x08CFA234,32,Adjusts game SE volume.,ui#472,ゲーム中のＳＥの音量を調節します,0x08CFDCE0,0x08CFDDF3
+ui__s31,0x08D66594,0x08CFA258,32,Adjusts battle voice volume.,ui#473,戦闘中のボイスの音量を調節します,0x08CF9190,0x08CF93F3
+ui__s93,0x08D66598,0x08CFA27C,36,Adjusts event voice volume.,ui#474,イベント中のボイスの音量を調節します,0x08CFDCE0,0x08CFDDF3
+ui__s4,0x08D6659C,0x08CFA2A4,36,Enables camera motion on encounter.,ui#475,エンカウント時にカメラ演出を行います,0x08CF71A8,0x08CF724B
+ui__s53,0x08D665A0,0x08CFA2CC,38,Disables camera motion on encounter.,ui#476,エンカウント時にカメラ演出を行いません,0x08CFA618,0x08CFA669
+ui__s64,0x08D665A4,0x08CFA2F4,38,Uses installed game data.,ui#477,データインストールのデータを使用します,0x08CFBA5C,0x08CFBAA5
+ui__s25,0x08D665A8,0x08CFA31C,40,Does not use installed game data.,ui#478,データインストールのデータを使用しません,0x08CF863C,0x08CF8847
+ui__s57,0x08D665AC,0x08CFA348,32,Changes player name.,ui#479,プレイヤーネームの変更を行います,0x08CFAEA4,0x08CFAF93
+ui__s12,0x08D665B0,0x08CFA36C,30,Please enter player name.,ui#480,プレイヤー名を入力してください,0x08CF7798,0x08CF7A3B
+ui__s49,0x08D665B8,0x08CFA394,24,Unconfigured items remain.,ui#481,未設定の項目があります。,0x08CFA1D0,0x08CFA38B
+ui__s38,0x08D665C0,0x08CFA3BC,32,Displays messages slowly.,ui#482,ゆっくりメッセージを表示します。,0x08CF9604,0x08CF970D
+ui__s3,0x08D665C4,0x08CFA3E0,36,Displays messages at normal speed.,ui#483,通常の速度でメッセージを表示します。,0x08CF7140,0x08CF7197
+ui__s53,0x08D665C8,0x08CFA408,28,Displays messages quickly.,ui#484,速くメッセージを表示します。,0x08CFA618,0x08CFA669
+ui__s82,0x08D665CC,0x08CFA428,30,Displays messages instantly.,ui#485,一括でメッセージを表示します。,0x08CFCB94,0x08CFCBE5
+ui__s50,0x08D665D0,0x08CFA448,18,Standard difficulty.,ui#486,通常の難易度です。,0x08CFA394,0x08CFA3AD
+ui__s89,0x08D665D4,0x08CFA45C,52,Affects combat difficulty and item drop rates.,ui#487,戦闘時の難易度及びアイテムの取得率に変化があります。,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D665D8,0x08CFA45C,52,Affects combat difficulty and item drop rates.,ui#487,戦闘時の難易度及びアイテムの取得率に変化があります。,0x08CFD324,0x08CFD5B9
+ui__s29,0x08D665DC,0x08CFA494,28,Changes battle music.,ui#488,戦闘時に流す曲を変更します。,0x08CF8FC4,0x08CF9029
+ui__s87,0x08D665E0,0x08CFA4B4,32,Changes normal battle music.,ui#489,通常戦闘時に流す曲を変更します。,0x08CFD24C,0x08CFD26D
+ui__s12,0x08D665E8,0x08CFA510,32,Changes boss battle music.,ui#490,ボス戦闘時に流す曲を変更します。,0x08CF7798,0x08CF7A3B
+ui__s54,0x08D665EC,0x08CFA534,32,Changes final battle music.,ui#491,最終戦闘時に流す曲を変更します。,0x08CFABB8,0x08CFACF7
+ui__s54,0x08D665F0,0x08CFA534,32,Changes final battle music.,ui#491,最終戦闘時に流す曲を変更します。,0x08CFABB8,0x08CFACF7
+ui__s52,0x08D665F4,0x08CFA558,42,Plays character voices during battle.,ui#492,戦闘時にキャラクターのボイスを再生します。,0x08CFA510,0x08CFA5B1
+ui__s52,0x08D665F8,0x08CFA584,44,Does not play voices during battle.,ui#493,戦闘時にキャラクターのボイスを再生しません。,0x08CFA510,0x08CFA5B1
+ui__s4,0x08D66604,0x08CFA618,38,Enables camera motion on encounter.,ui#494,エンカウント時にカメラ演出を行います。,0x08CF71A8,0x08CF724B
+ui__s53,0x08D66608,0x08CFA640,40,Disables camera motion on encounter.,ui#495,エンカウント時にカメラ演出を行いません。,0x08CFA618,0x08CFA669
+ui__s57,0x08D66618,0x08CFA72C,34,Changes player name.,ui#496,プレイヤーネームの変更を行います。,0x08CFAEA4,0x08CFAF93
+ui__s31,0x08D6661C,0x08CFA750,24,No name has been set,ui#497,名前が設定されていません,0x08CF9190,0x08CF93F3
+ui__s12,0x08D66620,0x08CFA76C,4,Class,ui#498,職業,0x08CF7798,0x08CF7A3B
+ui__s39,0x08D66624,0x08CFA774,6,Level,ui#499,レベル,0x08CF9720,0x08CF973D
+ui__s21,0x08D66628,0x08CFA77C,4,HP,ui#500,ＨＰ,0x08CF8524,0x08CF853D
+ui__s56,0x08D6662C,0x08CFA784,4,TP,ui#501,ＴＰ,0x08CFAE14,0x08CFAE69
+ui__s56,0x08D66630,0x08CFA78C,6,EXP,ui#502,経験値,0x08CFAE14,0x08CFAE69
+ui__s10,0x08D66634,0x08CFA794,14,To Next Level,ui#503,次のレベルまで,0x08CF765C,0x08CF769B
+ui__s27,0x08D66638,0x08CFA7A4,10,P. Atk,ui#504,物理攻撃力,0x08CF8A14,0x08CF8A93
+ui__s26,0x08D6663C,0x08CFA7B0,12,P. Atk 2,ui#505,物理攻撃力２,0x08CF8898,0x08CF899B
+ui__s52,0x08D66640,0x08CFA7C0,10,P. Def,ui#506,物理防御力,0x08CFA510,0x08CFA5B1
+ui__s88,0x08D66644,0x08CFA7CC,8,M. Atk,ui#507,術攻撃力,0x08CFD2C4,0x08CFD301
+ui__s81,0x08D66648,0x08CFA7D8,8,M. Def,ui#508,術防御力,0x08CFCA40,0x08CFCADB
+ui__s18,0x08D6664C,0x08CFA7E4,6,Agility,ui#509,敏捷値,0x08CF82F8,0x08CF831F
+ui__s63,0x08D66650,0x08CFA7EC,6,Inflict Poison,ui#510,毒付与,0x08CFB5FC,0x08CFBA07
+ui__s43,0x08D66654,0x08CFA7F4,14,"Inflict Poison, W1",ui#511,毒付与、武器１,0x08CF9828,0x08CF9BE3
+ui__s31,0x08D66658,0x08CFA804,14,"Inflict Poison, W2",ui#512,毒付与、武器２,0x08CF9190,0x08CF93F3
+ui__s89,0x08D6665C,0x08CFA814,8,Inflict Paralysis,ui#513,麻痺付与,0x08CFD324,0x08CFD5B9
+ui__s48,0x08D66660,0x08CFA820,16,"Inflict Paralysis, W1",ui#514,麻痺付与、武器１,0x08CF9E7C,0x08CFA197
+ui__s48,0x08D66664,0x08CFA834,16,"Inflict Paralysis, W2",ui#515,麻痺付与、武器２,0x08CF9E7C,0x08CFA197
+ui__s38,0x08D66668,0x08CFA848,10,Guard Break,ui#516,ガード破壊,0x08CF9604,0x08CF970D
+ui__s34,0x08D6666C,0x08CFA854,18,"Guard Break, W1",ui#517,ガード破壊、武器１,0x08CF942C,0x08CF948B
+ui__s51,0x08D66670,0x08CFA868,18,"Guard Break, W2",ui#518,ガード破壊、武器２,0x08CFA3BC,0x08CFA4D5
+ui__s63,0x08D66674,0x08CFA87C,16,Stagger Resistance Break,ui#519,仰け反り耐性破壊,0x08CFB5FC,0x08CFBA07
+ui__s51,0x08D66678,0x08CFA890,24,"Stun Resist Break, W1",ui#520,仰け反り耐性破壊、武器１,0x08CFA3BC,0x08CFA4D5
+ui__s51,0x08D6667C,0x08CFA8AC,24,"Stun Resist Break, W2",ui#521,仰け反り耐性破壊、武器２,0x08CFA3BC,0x08CFA4D5
+ui__s11,0x08D66680,0x08CFA8C8,10,Guard Reinforcement,ui#522,ガード強化,0x08CF76B4,0x08CF7773
+ui__s48,0x08D66684,0x08CFA8D4,12,Stagger Resistance,ui#523,仰け反り耐性,0x08CF9E7C,0x08CFA197
+ui__s48,0x08D66688,0x08CFA8E4,10,TP Consumption,ui#524,ＴＰ消費量,0x08CF9E7C,0x08CFA197
+ui__s19,0x08D6668C,0x08CFA8F0,18,Result TP Recovery,ui#525,リザルトＴＰ回復量,0x08CF8348,0x08CF84F3
+ui__s19,0x08D66690,0x08CFA904,20,Normal Attack TP Gain,ui#526,通常攻撃時ＴＰ回復量,0x08CF8348,0x08CF84F3
+ui__s51,0x08D66694,0x08CFA91C,28,"Normal Attack TP Gain, W1",ui#527,通常攻撃時ＴＰ回復量、武器１,0x08CFA3BC,0x08CFA4D5
+ui__s51,0x08D66698,0x08CFA93C,28,"Normal Attack TP Gain, W2",ui#528,通常攻撃時ＴＰ回復量、武器２,0x08CFA3BC,0x08CFA4D5
+ui__s19,0x08D6669C,0x08CFA95C,8,Cast Time,ui#529,詠唱時間,0x08CF8348,0x08CF84F3
+ui__s12,0x08D666A0,0x08CFA968,20,Critical Damage,ui#530,クリティカルダメージ,0x08CF7798,0x08CF7A3B
+ui__s93,0x08D666A4,0x08CFA980,28,"Critical Damage, W1",ui#531,クリティカルダメージ、武器１,0x08CFDCE0,0x08CFDDF3
+ui__s93,0x08D666A8,0x08CFA9A0,28,"Critical Damage, W2",ui#532,クリティカルダメージ、武器２,0x08CFDCE0,0x08CFDDF3
+ui__s43,0x08D666AC,0x08CFA9C0,16,Overlimit Boost,ui#533,リミッツ上昇効果,0x08CF9828,0x08CF9BE3
+ui__s55,0x08D666B0,0x08CFA9D4,24,"Overlimit Boost, W1",ui#534,リミッツ上昇効果、武器１,0x08CFAD30,0x08CFADE3
+ui__s55,0x08D666B4,0x08CFA9F0,24,"Overlimit Boost, W2",ui#535,リミッツ上昇効果、武器２,0x08CFAD30,0x08CFADE3
+ui__s19,0x08D666B8,0x08CFAA0C,10,Gald Earned,ui#536,獲得ガルド,0x08CF8348,0x08CF84F3
+ui__s19,0x08D666BC,0x08CFAA18,10,EXP Earned,ui#537,獲得経験値,0x08CF8348,0x08CF84F3
+ui__s43,0x08D666C0,0x08CFAA24,20,Grade Points Earned,ui#538,獲得グレードポイント,0x08CF9828,0x08CF9BE3
+ui__s38,0x08D666C4,0x08CFAA3C,12,Item Drops,ui#539,アイテム獲得,0x08CF9604,0x08CF970D
+ui__s12,0x08D666C8,0x08CFAA4C,8,Rare Drops,ui#540,レア獲得,0x08CF7798,0x08CF7A3B
+ui__s19,0x08D666CC,0x08CFAA58,16,Skill Slot Boost,ui#541,スキルスロット増,0x08CF8348,0x08CF84F3
+ui__s49,0x08D666D0,0x08CFAA6C,12,Harvest Boost,ui#542,採取効果ＵＰ,0x08CFA1D0,0x08CFA38B
+ui__s19,0x08D666D4,0x08CFAA7C,12,Mining Boost,ui#543,採掘効果ＵＰ,0x08CF8348,0x08CF84F3
+ui__s49,0x08D666D8,0x08CFAA8C,16,Chest Drop Effect,ui#544,宝箱ドロップ効果,0x08CFA1D0,0x08CFA38B
+ui__s63,0x08D666DC,0x08CFAAA0,8,Prevent Poison,ui#545,毒を防止,0x08CFB5FC,0x08CFBA07
+ui__s63,0x08D666E0,0x08CFAAAC,10,Prevent Weakness,ui#546,衰弱を防止,0x08CFB5FC,0x08CFBA07
+ui__s51,0x08D666E4,0x08CFAAB8,10,Prevent Stun,ui#547,気絶を防止,0x08CFA3BC,0x08CFA4D5
+ui__s43,0x08D666E8,0x08CFAAC4,14,Prevent Arte Seal,ui#548,術技封印を防止,0x08CF9828,0x08CF9BE3
+ui__s48,0x08D666EC,0x08CFAAD4,10,Prevent Paralysis,ui#549,麻痺を防止,0x08CF9E7C,0x08CFA197
+ui__s43,0x08D666F0,0x08CFAAE0,10,Prevent Petrification,ui#550,石化を防止,0x08CF9828,0x08CF9BE3
+ui__s38,0x08D666F4,0x08CFAAEC,10,Water Defense,ui#551,防御水属性,0x08CF9604,0x08CF970D
+ui__s26,0x08D666F8,0x08CFAAF8,10,Earth Defense,ui#552,防御土属性,0x08CF8898,0x08CF899B
+ui__s49,0x08D666FC,0x08CFAB04,10,Fire Defense,ui#553,防御火属性,0x08CFA1D0,0x08CFA38B
+ui__s49,0x08D66700,0x08CFAB10,10,Wind Defense,ui#554,防御風属性,0x08CFA1D0,0x08CFA38B
+ui__s86,0x08D66704,0x08CFAB1C,10,Light Defense,ui#555,防御光属性,0x08CFCF88,0x08CFD211
+ui__s49,0x08D66708,0x08CFAB28,10,Dark Defense,ui#556,防御闇属性,0x08CFA1D0,0x08CFA38B
+ui__s86,0x08D6670C,0x08CFAB34,12,Escape Time Cut,ui#557,逃走時間短縮,0x08CFCF88,0x08CFD211
+ui__s86,0x08D66710,0x08CFAB44,18,HP Recovery on Defeat,ui#558,敵撃破時にＨＰ回復,0x08CFCF88,0x08CFD211
+ui__s86,0x08D66714,0x08CFAB58,18,TP Recovery on Defeat,ui#559,敵撃破時にＴＰ回復,0x08CFCF88,0x08CFD211
+ui__s72,0x08D66718,0x08CFAB6C,22,Enemy Aggro Rate,ui#560,敵からのターゲット頻度,0x08CFC114,0x08CFC197
+ui__s54,0x08D66740,0x08CFABB8,14,Buy Weapons,ui#561,武器を購入する,0x08CFABB8,0x08CFACF7
+ui__s54,0x08D66744,0x08CFABC8,26,Buy Weapons by Category,ui#562,カテゴリから武器を購入する,0x08CFABB8,0x08CFACF7
+ui__s12,0x08D66748,0x08CFABE4,14,Buy Armor,ui#563,防具を購入する,0x08CF7798,0x08CF7A3B
+ui__s54,0x08D6674C,0x08CFABF4,26,Buy Armor by Category,ui#564,カテゴリから防具を購入する,0x08CFABB8,0x08CFACF7
+ui__s89,0x08D66750,0x08CFAC10,14,Buy Items,ui#565,道具を購入する,0x08CFD324,0x08CFD5B9
+ui__s54,0x08D66754,0x08CFAC20,16,Buy Accessories,ui#566,装飾品を購入する,0x08CFABB8,0x08CFACF7
+ui__s54,0x08D66758,0x08CFAC34,18,Buy Craft Materials,ui#567,生産素材を購入する,0x08CFABB8,0x08CFACF7
+ui__s86,0x08D6675C,0x08CFAC48,14,Synthesize Weapon,ui#568,武器を合成する,0x08CFCF88,0x08CFD211
+ui__s54,0x08D66760,0x08CFAC58,14,Upgrade Weapon,ui#569,武器を強化する,0x08CFABB8,0x08CFACF7
+ui__s54,0x08D66764,0x08CFAC68,14,Synthesize Armor,ui#570,防具を合成する,0x08CFABB8,0x08CFACF7
+ui__s54,0x08D66768,0x08CFAC78,14,Upgrade Armor,ui#571,防具を強化する,0x08CFABB8,0x08CFACF7
+ui__s72,0x08D6676C,0x08CFAC88,8,Sell,ui#572,売却する,0x08CFC114,0x08CFC197
+ui__s35,0x08D66770,0x08CFAC94,8,Trade,ui#573,交換する,0x08CF9494,0x08CF94A5
+ui__s54,0x08D66774,0x08CFACA0,20,Trade by Category,ui#574,カテゴリから交換する,0x08CFABB8,0x08CFACF7
+ui__s54,0x08D66778,0x08CFACB8,4,Price,ui#575,値段,0x08CFABB8,0x08CFACF7
+ui__s54,0x08D6677C,0x08CFACC0,6,Quantity,ui#576,購入数,0x08CFABB8,0x08CFACF7
+ui__s48,0x08D66780,0x08CFACC8,6,Sell Count,ui#577,売却数,0x08CF9E7C,0x08CFA197
+ui__s54,0x08D66784,0x08CFACD0,6,In Bag,ui#578,所持数,0x08CFABB8,0x08CFACF7
+ui__s36,0x08D66788,0x08CFACD8,6,Funds,ui#579,所持金,0x08CF94C8,0x08CF94CF
+ui__s49,0x08D6678C,0x08CFACE0,4,Total,ui#580,合計,0x08CFA1D0,0x08CFA38B
+ui__s96,0x08D66790,0x08CFACE8,14,Purchase?,ui#581,購入しますか？,0x08CFDF7C,0x08CFDFBD
+ui__s30,0x08D66798,0x08CFAD30,62,Includes Radiant and unique gear. Still sell?,ui#582,レディアント装備とユニーク装備が含まれています。売却しますか？,0x08CF9060,0x08CF910F
+ui__s22,0x08D6679C,0x08CFAD70,48,Includes Radiant gear. Still sell?,ui#583,レディアント装備が含まれています。売却しますか？,0x08CF854C,0x08CF858B
+ui__s14,0x08D667A0,0x08CFADA4,44,Includes unique gear. Still sell?,ui#584,ユニーク装備が含まれています。売却しますか？,0x08CF7BCC,0x08CF7C59
+ui__s55,0x08D667A4,0x08CFADD4,14,Sell this?,ui#585,売却しますか？,0x08CFAD30,0x08CFADE3
+ui__s54,0x08D667AC,0x08CFAE14,20,Grade Points Held,ui#586,所有グレードポイント,0x08CFABB8,0x08CFACF7
+ui__s49,0x08D667B0,0x08CFAE2C,14,Trade for this?,ui#587,交換しますか？,0x08CFA1D0,0x08CFA38B
+ui__s56,0x08D667B4,0x08CFAE3C,44,Cannot trade due to insufficient Grade.,ui#588,グレードポイントが足りない為、交換出来ません,0x08CFAE14,0x08CFAE69
+ui__s57,0x08D667C0,0x08CFAEA4,8,Cannot Equip,ui#589,装備不可,0x08CFAEA4,0x08CFAF93
+ui__s25,0x08D667C4,0x08CFAEB0,12,Equippable Class,ui#590,装備可能職業,0x08CF863C,0x08CF8847
+ui__s91,0x08D667C8,0x08CFAEC0,20,Equippable By,ui#591,装備可能キャラクター,0x08CFD7B4,0x08CFD8A9
+ui__s56,0x08D667CC,0x08CFAED8,12,Attack Change,ui#592,攻撃力の変化,0x08CFAE14,0x08CFAE69
+ui__s57,0x08D667D0,0x08CFAEE8,14,M. Atk Change,ui#593,術攻撃力の変化,0x08CFAEA4,0x08CFAF93
+ui__s48,0x08D667D4,0x08CFAEF8,10,Agility Change,ui#594,敏捷の変化,0x08CF9E7C,0x08CFA197
+ui__s49,0x08D667D8,0x08CFAF04,12,Defense Change,ui#595,防御力の変化,0x08CFA1D0,0x08CFA38B
+ui__s57,0x08D667DC,0x08CFAF14,14,M. Def Change,ui#596,術防御力の変化,0x08CFAEA4,0x08CFAF93
+ui__s57,0x08D667E0,0x08CFAF24,26,Equip requirements not met.,ui#597,装備条件を満たしていません,0x08CFAEA4,0x08CFAF93
+ui__s57,0x08D667E4,0x08CFAF40,36,Cannot try on due to low level.,ui#598,レベルが足りないので、試着できません,0x08CFAEA4,0x08CFAF93
+ui__s52,0x08D667E8,0x08CFAF68,42,Cannot try on with this class.,ui#599,装備可能な職業ではないので、試着できません,0x08CFA510,0x08CFA5B1
+ui__s58,0x08D667F0,0x08CFAFC0,14,Equip this?,ui#600,装備しますか？,0x08CFAFC0,0x08CFAFF3
+ui__s58,0x08D667F4,0x08CFAFD0,34,Cannot hold any more equipment.,ui#601,装備品をこれ以上持つ事は出来ません,0x08CFAFC0,0x08CFAFF3
+ui__s51,0x08D66804,0x08CFB00C,26,Taking this item allows,ui#602,このアイテムを手にすると、,0x08CFA3BC,0x08CFA4D5
+ui__s93,0x08D66808,0x08CFB028,50,"restarting the story,",ui#603,一部のアイテムを除いて、レベルや装備は今のままに、,0x08CFDCE0,0x08CFDDF3
+ui__s37,0x08D6680C,0x08CFB05C,50,while keeping your level.,ui#604,あなたはこの物語を初めからやり直すことが出来ます。,0x08CF94D4,0x08CF95FD
+ui__s51,0x08D66810,0x08CFB090,26,Are you ready for this?,ui#605,心の準備はよろしいですか？,0x08CFA3BC,0x08CFA4D5
+ui__s54,0x08D66818,0x08CFB0B0,12,Store Equipment,ui#606,装備を預ける,0x08CFABB8,0x08CFACF7
+ui__s48,0x08D6681C,0x08CFB0C0,14,Retrieve Equipment,ui#607,装備を取り出す,0x08CF9E7C,0x08CFA197
+ui__s54,0x08D66820,0x08CFB0D0,18,Withdraw Item,ui#608,アイテムを引き取る,0x08CFABB8,0x08CFACF7
+ui__s72,0x08D66824,0x08CFB0E4,8,Sell,ui#609,売却する,0x08CFC114,0x08CFC197
+ui__s32,0x08D6683C,0x08CFB19C,8,Newest,ui#610,最新獲得,0x08CF93F8,0x08CF940D
+ui__s31,0x08D66840,0x08CFB1A8,8,Recently Added,ui#611,最新入庫,0x08CF9190,0x08CF93F3
+ui__s63,0x08D66844,0x08CFB1B4,10,Strategy Settings,ui#612,作戦の設定,0x08CFB5FC,0x08CFBA07
+ui__s89,0x08D66848,0x08CFB1C0,56,Select member to set general and priority actions.,ui#613,作戦（基本行動と優先行動）を設定するメンバーを選択します,0x08CFD324,0x08CFD5B9
+ui__s59,0x08D6684C,0x08CFB1FC,8,Fight Freely,ui#614,自由戦闘,0x08CFB00C,0x08CFB24D
+ui__s63,0x08D66850,0x08CFB208,8,All-Out Attack,ui#615,全力戦闘,0x08CFB5FC,0x08CFBA07
+ui__s59,0x08D66854,0x08CFB214,8,Melee Combat,ui#616,近接戦闘,0x08CFB00C,0x08CFB24D
+ui__s59,0x08D66858,0x08CFB220,8,Ranged Combat,ui#617,後方戦闘,0x08CFB00C,0x08CFB24D
+ui__s59,0x08D6685C,0x08CFB22C,8,Support Combat,ui#618,支援戦闘,0x08CFB00C,0x08CFB24D
+ui__s63,0x08D66860,0x08CFB238,8,Defensive Combat,ui#619,防御戦闘,0x08CFB5FC,0x08CFBA07
+ui__s59,0x08D66864,0x08CFB244,8,Conserve TP,ui#620,節約戦闘,0x08CFB00C,0x08CFB24D
+ui__s26,0x08D66884,0x08CFB3CC,6,Attack,ui#621,攻撃系,0x08CF8898,0x08CF899B
+ui__s60,0x08D66888,0x08CFB3D4,6,Defense,ui#622,防御系,0x08CFB3CC,0x08CFB419
+ui__s57,0x08D6688C,0x08CFB3DC,6,Recovery,ui#623,回復系,0x08CFAEA4,0x08CFAF93
+ui__s57,0x08D66890,0x08CFB3E4,6,Support,ui#624,補助系,0x08CFAEA4,0x08CFAF93
+ui__s15,0x08D66894,0x08CFB3EC,6,Other,ui#625,その他,0x08CF7C98,0x08CF7CB1
+ui__s60,0x08D66898,0x08CFB3F4,8,Fledgling,ui#626,ひよっこ,0x08CFB3CC,0x08CFB419
+ui__s43,0x08D6689C,0x08CFB400,6,Novice,ui#627,初級者,0x08CF9828,0x08CF9BE3
+ui__s48,0x08D668A0,0x08CFB408,6,Intermediate,ui#628,中級者,0x08CF9E7C,0x08CFA197
+ui__s47,0x08D668A4,0x08CFB410,8,Veteran,ui#629,ベテラン,0x08CF9E54,0x08CF9E6F
+ui__s48,0x08D668AC,0x08CFB448,20,Formation upon encounter,ui#630,敵と対面した時の隊列,0x08CF9E7C,0x08CFA197
+ui__s89,0x08D668BC,0x08CFB46C,6,Strategy Name,ui#631,作戦名,0x08CFD324,0x08CFD5B9
+ui__s59,0x08D668C0,0x08CFB474,8,Base Action,ui#632,基本行動,0x08CFB00C,0x08CFB24D
+ui__s63,0x08D668C4,0x08CFB480,12,Prioritize HP Heal,ui#633,ＨＰ回復優先,0x08CFB5FC,0x08CFBA07
+ui__s62,0x08D668C8,0x08CFB490,12,Prioritize TP Heal,ui#634,ＴＰ回復優先,0x08CFB46C,0x08CFB507
+ui__s62,0x08D668CC,0x08CFB4A0,12,Prioritize Status Cure,ui#635,状態回復優先,0x08CFB46C,0x08CFB507
+ui__s52,0x08D668D0,0x08CFB4B0,4,Remove,ui#636,外す,0x08CFA510,0x08CFA5B1
+ui__s14,0x08D668D4,0x08CFB4B8,8,Toggle Use,ui#637,使用切替,0x08CF7BCC,0x08CF7C59
+ui__s49,0x08D668D8,0x08CFB4C4,8,Arte Usage,ui#638,術技使用,0x08CFA1D0,0x08CFA38B
+ui__s62,0x08D668DC,0x08CFB4D0,22,Currently Equipped Title,ui#639,現在セットしている称号,0x08CFB46C,0x08CFB507
+ui__s63,0x08D668E0,0x08CFB4E8,8,Unlock Condition,ui#640,獲得条件,0x08CFB5FC,0x08CFBA07
+ui__s62,0x08D668E4,0x08CFB4F4,8,Title Effect,ui#641,称号効果,0x08CFB46C,0x08CFB507
+ui__s47,0x08D668E8,0x08CFB500,6,???,ui#642,？？？,0x08CF9E54,0x08CF9E6F
+ui__s86,0x08D66910,0x08CFB5FC,16,Revenge of Otaota 2,ui#643,オタオタの逆襲２,0x08CFCF88,0x08CFD211
+ui__s60,0x08D66914,0x08CFB610,6,Artes,ui#644,術・技,0x08CFB3CC,0x08CFB419
+ui__s43,0x08D66918,0x08CFB618,4,Equipment,ui#645,装備,0x08CF9828,0x08CF9BE3
+ui__s14,0x08D6691C,0x08CFB620,8,Item,ui#646,アイテム,0x08CF7BCC,0x08CF7C59
+ui__s59,0x08D66920,0x08CFB62C,10,Strategy,ui#647,作戦・隊列,0x08CFB00C,0x08CFB24D
+ui__s10,0x08D66924,0x08CFB638,10,Status,ui#648,ステータス,0x08CF765C,0x08CF769B
+ui__s55,0x08D66928,0x08CFB644,4,Craft,ui#649,生産,0x08CFAD30,0x08CFADE3
+ui__s34,0x08D6692C,0x08CFB64C,10,Library,ui#650,ライブラリ,0x08CF942C,0x08CF948B
+ui__s59,0x08D66930,0x08CFB658,8,System,ui#651,システム,0x08CFB00C,0x08CFB24D
+ui__s51,0x08D66934,0x08CFB664,4,Cooking,ui#652,料理,0x08CFA3BC,0x08CFA4D5
+ui__s60,0x08D66938,0x08CFB66C,4,Gels,ui#653,グミ,0x08CFB3CC,0x08CFB419
+ui__s19,0x08D6693C,0x08CFB674,6,Bottle,ui#654,ボトル,0x08CF8348,0x08CF84F3
+ui__s90,0x08D66940,0x08CFB67C,8,Quests,ui#655,クエスト,0x08CFD6F0,0x08CFD70D
+ui__s59,0x08D66944,0x08CFB688,8,Titles,ui#656,称号実績,0x08CFB00C,0x08CFB24D
+ui__s86,0x08D66948,0x08CFB694,8,Equip Book,ui#657,装備図鑑,0x08CFCF88,0x08CFD211
+ui__s63,0x08D6694C,0x08CFB6A0,8,Character Book,ui#658,人物名鑑,0x08CFB5FC,0x08CFBA07
+ui__s59,0x08D66950,0x08CFB6AC,14,Monster Book,ui#659,モンスター図鑑,0x08CFB00C,0x08CFB24D
+ui__s19,0x08D66954,0x08CFB6BC,8,Synopsis,ui#660,あらすじ,0x08CF8348,0x08CF84F3
+ui__s56,0x08D66958,0x08CFB6C8,12,Guidebook,ui#661,ガイドブック,0x08CFAE14,0x08CFAE69
+ui__s59,0x08D6695C,0x08CFB6D8,6,Save,ui#662,セーブ,0x08CFB00C,0x08CFB24D
+ui__s59,0x08D66960,0x08CFB6E0,6,Load,ui#663,ロード,0x08CFB00C,0x08CFB24D
+ui__s3,0x08D66964,0x08CFB6E8,10,Delete Data,ui#664,データ削除,0x08CF7140,0x08CF7197
+ui__s56,0x08D66968,0x08CFB6F4,10,Options,ui#665,オプション,0x08CFAE14,0x08CFAE69
+ui__s49,0x08D6696C,0x08CFB700,14,Return to Title,ui#666,タイトルに戻る,0x08CFA1D0,0x08CFA38B
+ui__s36,0x08D66970,0x08CFB710,6,Funds,ui#667,所持金,0x08CF94C8,0x08CF94CF
+ui__s31,0x08D66974,0x08CFB718,16,Grade Points,ui#668,グレードポイント,0x08CF9190,0x08CF93F3
+ui__s72,0x08D66978,0x08CFB72C,8,Play Time,ui#669,経過時間,0x08CFC114,0x08CFC197
+ui__s86,0x08D6697C,0x08CFB738,18,Set and check artes.,ui#670,術・技の設定・確認,0x08CFCF88,0x08CFD211
+ui__s8,0x08D66980,0x08CFB74C,16,Change/View Gear,ui#671,装備の変更・確認,0x08CF748C,0x08CF74B5
+ui__s19,0x08D66984,0x08CFB760,20,Use and check items.,ui#672,アイテムの使用・確認,0x08CF8348,0x08CF84F3
+ui__s63,0x08D66988,0x08CFB778,22,Configure battle strategy and line-up.,ui#673,作戦・隊列の設定・確認,0x08CFB5FC,0x08CFBA07
+ui__s63,0x08D6698C,0x08CFB790,22,View detailed character stats.,ui#674,キャラクターの詳細情報,0x08CFB5FC,0x08CFBA07
+ui__s63,0x08D66990,0x08CFB7A8,24,"Craft food, gels, and bottles.",ui#675,料理、グミ、ボトルの生産,0x08CFB5FC,0x08CFBA07
+ui__s48,0x08D66994,0x08CFB7C4,32,View quest and miscellaneous records.,ui#676,クエスト情報及び様々な情報を確認,0x08CF9E7C,0x08CFA197
+ui__s63,0x08D66998,0x08CFB7E8,18,Configure data and game settings.,ui#677,データや環境の設定,0x08CFB5FC,0x08CFBA07
+ui__s43,0x08D6699C,0x08CFB7FC,32,Cook ingredients and eat meals.,ui#678,食材を消費して料理し、食事を行う,0x08CF9828,0x08CF9BE3
+ui__s49,0x08D669A0,0x08CFB820,30,Use gel materials to brew gels.,ui#679,グミ素材を消費して、グミを作る,0x08CFA1D0,0x08CFA38B
+ui__s63,0x08D669A4,0x08CFB840,34,Use bottle ingredients to make bottles.,ui#680,ボトル素材を消費して、ボトルを作る,0x08CFB5FC,0x08CFBA07
+ui__s63,0x08D669A8,0x08CFB864,18,View quest information.,ui#681,クエスト情報を確認,0x08CFB5FC,0x08CFBA07
+ui__s63,0x08D669AC,0x08CFB878,14,View acquired titles.,ui#682,獲得称号を確認,0x08CFB5FC,0x08CFBA07
+ui__s49,0x08D669B0,0x08CFB888,22,View equipment details.,ui#683,装備アイテム情報を確認,0x08CFA1D0,0x08CFA38B
+ui__s49,0x08D669B4,0x08CFB8A0,22,View character details.,ui#684,キャラクター情報を確認,0x08CFA1D0,0x08CFA38B
+ui__s59,0x08D669B8,0x08CFB8B8,20,View monster data.,ui#685,モンスター情報を確認,0x08CFB00C,0x08CFB24D
+ui__s63,0x08D669BC,0x08CFB8D0,14,Review story synopsis.,ui#686,あらすじを確認,0x08CFB5FC,0x08CFBA07
+ui__s48,0x08D669C0,0x08CFB8E0,18,Consult the guidebook.,ui#687,ガイドブックを確認,0x08CF9E7C,0x08CFA197
+ui__s86,0x08D669C4,0x08CFB8F4,16,Save game progress.,ui#688,セーブを行います,0x08CFCF88,0x08CFD211
+ui__s19,0x08D669C8,0x08CFB908,16,Load saved data.,ui#689,ロードを行います,0x08CF8348,0x08CF84F3
+ui__s86,0x08D669CC,0x08CFB91C,20,Delete saved game data.,ui#690,データ削除を行います,0x08CFCF88,0x08CFD211
+ui__s63,0x08D669D0,0x08CFB934,16,Modify game settings.,ui#691,設定を変更します,0x08CFB5FC,0x08CFBA07
+ui__s86,0x08D669D4,0x08CFB948,34,Quit game and return to title screen.,ui#692,ゲームを終了してタイトルへ戻ります,0x08CFCF88,0x08CFD211
+ui__s43,0x08D669D8,0x08CFB96C,16,Network Connect,ui#693,ネットワーク接続,0x08CF9828,0x08CF9BE3
+ui__s57,0x08D669DC,0x08CFB980,60,Connect to network site via Infrastructure Mode.,ui#694,インフラストラクチャーモードにて、連動サイトに接続を行います,0x08CFAEA4,0x08CFAF93
+ui__s65,0x08D669E0,0x08CFB9C0,12,Export,ui#695,エクスポート,0x08CFBB94,0x08CFBC01
+ui__s25,0x08D669E4,0x08CFB9D0,40,Create data to upload to site.,ui#696,サイトへアップロードするデータを作ります,0x08CF863C,0x08CF8847
+ui__s31,0x08D669E8,0x08CFB9FC,10,Import,ui#697,インポート,0x08CF9190,0x08CF93F3
+ui__s3,0x08D669F0,0x08CFBA5C,12,Delete Data,ui#698,データの削除,0x08CF7140,0x08CF7197
+ui__s38,0x08D669F4,0x08CFBA6C,46,Delete data saved on Memory Stick.,ui#699,記録メディアに保存されているデータを削除します,0x08CF9604,0x08CF970D
+ui__s63,0x08D669F8,0x08CFBA9C,8,Normal Connect,ui#700,通常接続,0x08CFB5FC,0x08CFBA07
+ui__s63,0x08D66A00,0x08CFBB14,8,First Connect,ui#701,初回接続,0x08CFB5FC,0x08CFBA07
+ui__s65,0x08D66A08,0x08CFBB94,28,Export Mercenary Data,ui#702,傭兵データをエクスポートする,0x08CFBB94,0x08CFBC01
+ui__s65,0x08D66A0C,0x08CFBBB4,46,Create mercenary data to upload to the site.,ui#703,サイトへアップロードする傭兵データを作成します,0x08CFBB94,0x08CFBC01
+ui__s65,0x08D66A10,0x08CFBBE4,28,Export Auth Data,ui#704,認証データをエクスポートする,0x08CFBB94,0x08CFBC01
+ui__s49,0x08D66A18,0x08CFBC48,20,Import Mercenary Data,ui#705,傭兵データインポート,0x08CFA1D0,0x08CFA38B
+ui__s29,0x08D66A20,0x08CFBC98,24,Import Item Data,ui#706,アイテムデータインポート,0x08CF8FC4,0x08CF9029
+ui__s64,0x08D66A24,0x08CFBCB4,38,Importing item data......,ui#707,アイテムデータをインポートしています…,0x08CFBA5C,0x08CFBAA5
+ui__s68,0x08D66A2C,0x08CFBD18,30,Import Prequel Save Bonus,ui#708,前作セーブデータ特典インポート,0x08CFBD18,0x08CFBD37
+ui__s63,0x08D66A40,0x08CFBED4,22,Create authentication data.,ui#709,認証データを作成します,0x08CFB5FC,0x08CFBA07
+ui__s69,0x08D66A44,0x08CFBEEC,22,Connection cancelled.,ui#710,接続処理を中断しました,0x08CFBED4,0x08CFBF1B
+ui__s69,0x08D66A48,0x08CFBF04,22,Create mercenary data.,ui#711,傭兵データを作成します,0x08CFBED4,0x08CFBF1B
+ui__s70,0x08D66A50,0x08CFBF5C,36,Use existing authentication data?,ui#712,すでにある認証データを使用しますか？,0x08CFBF5C,0x08CFBFE1
+ui__s70,0x08D66A54,0x08CFBF84,32,Could not create authentication data.,ui#713,認証データが作成出来ませんでした,0x08CFBF5C,0x08CFBFE1
+ui__s70,0x08D66A58,0x08CFBFA8,20,Cancel connection?,ui#714,接続を中断しますか？,0x08CFBF5C,0x08CFBFE1
+ui__s86,0x08D66A5C,0x08CFBFC0,32,Could not read authentication data.,ui#715,認証データを読み込めませんでした,0x08CFCF88,0x08CFD211
+ui__s86,0x08D66B70,0x08CFBFC0,32,Could not read authentication data.,ui#715,認証データを読み込めませんでした,0x08CFCF88,0x08CFD211
+ui__s71,0x08D66A68,0x08CFC050,34,Could not read save data.,ui#716,セーブデータを読み込めませんでした,0x08CFC050,0x08CFC073
+ui__s72,0x08D66A80,0x08CFC114,18,Failed to create.,ui#717,作成に失敗しました,0x08CFC114,0x08CFC197
+ui__s72,0x08D66A84,0x08CFC128,42,Mercenary data was not exported.,ui#718,傭兵データのエクスポートを行いませんでした,0x08CFC114,0x08CFC197
+ui__s67,0x08D66A88,0x08CFC154,32,Exported mercenary data.,ui#719,傭兵データをエクスポートしました,0x08CFBC98,0x08CFBCDB
+ui__s72,0x08D66A8C,0x08CFC178,30,Did not create mercenary data.,ui#720,傭兵データを作成しませんでした,0x08CFC114,0x08CFC197
+ui__s25,0x08D66A94,0x08CFC1D0,38,Failed to export mercenary data.,ui#721,傭兵データのエクスポートに失敗しました,0x08CF863C,0x08CF8847
+ui__s74,0x08D66AA0,0x08CFC32C,36,No prequel save data found.,ui#722,前作のセーブデータがありませんでした,0x08CFC32C,0x08CFC351
+ui__s38,0x08D66AC4,0x08CFC5FC,26,Save data updated.,ui#723,セーブデータを更新しました,0x08CF9604,0x08CF970D
+ui__s75,0x08D66AC8,0x08CFC618,46,Bonus equipment can be received at Storage.,ui#724,装備品の特典アイテムは倉庫から受け取り可能です,0x08CFC5FC,0x08CFC6A7
+ui__s75,0x08D66ACC,0x08CFC648,46,DL Quest Keys can be obtained from Rocks.,ui#725,ＤＬクエストキーはロックスから受け取り可能です,0x08CFC5FC,0x08CFC6A7
+ui__s75,0x08D66AD0,0x08CFC678,46,DL Quest Keys already received from Rocks.,ui#726,ＤＬクエストキーはロックスから受け取り済みです,0x08CFC5FC,0x08CFC6A7
+ui__s41,0x08D66AD8,0x08CFC6EC,24,Import cancelled.,ui#727,インポートを中断しました,0x08CF9760,0x08CF978B
+ui__s77,0x08D66AE8,0x08CFC80C,38,Failed to read item data.,ui#728,アイテムデータの読み込みに失敗しました,0x08CFC80C,0x08CFC853
+ui__s76,0x08D66AEC,0x08CFC834,30,Item data is corrupted.,ui#729,アイテムデータが破損しています,0x08CFC6EC,0x08CFC705
+ui__s78,0x08D66AF4,0x08CFC894,36,This data has already been imported.,ui#730,このデータは既にインポート済みです。,0x08CFC894,0x08CFC8B9
+ui__s79,0x08D66B00,0x08CFC8F8,26,Mercenary data read.,ui#731,傭兵データを読み込みました,0x08CFC8F8,0x08CFC913
+ui__s80,0x08D66B08,0x08CFC98C,34,Failed to read mercenary data.,ui#732,傭兵データの読み込みに失敗しました,0x08CFC98C,0x08CFC9CB
+ui__s86,0x08D66B0C,0x08CFC9B0,26,Mercenary data is corrupted.,ui#733,傭兵データが破損しています,0x08CFCF88,0x08CFD211
+ui__s81,0x08D66B18,0x08CFCA40,32,Failed to import data.,ui#734,データのインポートに失敗しました,0x08CFCA40,0x08CFCADB
+ui__s81,0x08D66B1C,0x08CFCA64,24,Reading authentication data.,ui#735,認証データを読み込みます,0x08CFCA40,0x08CFCADB
+ui__s81,0x08D66B6C,0x08CFCA64,24,Reading authentication data.,ui#735,認証データを読み込みます,0x08CFCA40,0x08CFCADB
+ui__s48,0x08D66B20,0x08CFCA80,26,Authentication data corrupted.,ui#736,認証データが破損しています,0x08CF9E7C,0x08CFA197
+ui__s81,0x08D66B24,0x08CFCA9C,26,Authentication data read.,ui#737,認証データを読み込みました,0x08CFCA40,0x08CFCADB
+ui__s49,0x08D66B28,0x08CFCAB8,34,Authentication data already exists.,ui#738,すでに認証データが作成されています,0x08CFA1D0,0x08CFA38B
+ui__s37,0x08D66B34,0x08CFCB94,26,Cancel import?,ui#739,インポートを中断しますか？,0x08CF94D4,0x08CF95FD
+ui__s62,0x08D66B38,0x08CFCBB0,32,Quit without saving data?,ui#740,データを保存せずに終了しますか？,0x08CFB46C,0x08CFB507
+ui__s62,0x08D66B48,0x08CFCBB0,32,Quit without saving data?,ui#740,データを保存せずに終了しますか？,0x08CFB46C,0x08CFB507
+ui__s82,0x08D66B3C,0x08CFCBD4,16,Overwrite this?,ui#741,上書きしますか？,0x08CFCB94,0x08CFCBE5
+ui__s83,0x08D66B60,0x08CFCD94,14,Create this?,ui#742,作成しますか？,0x08CFCD94,0x08CFCDDB
+ui__s73,0x08D66B64,0x08CFCDA4,30,Could not create folder.,ui#743,フォルダを作成出来ませんでした,0x08CFC1D0,0x08CFC1F7
+ui__s83,0x08D66B68,0x08CFCDC4,22,Created folder.,ui#744,フォルダを作成しました,0x08CFCD94,0x08CFCDDB
+ui__s84,0x08D66B78,0x08CFCE2C,18,Site Link Data,ui#745,連動サイト用データ,0x08CFCE2C,0x08CFCE3F
+ui__s85,0x08D66B80,0x08CFCE94,10,Auth Data,ui#746,認証データ,0x08CFCE94,0x08CFCEBF
+ui__s85,0x08D66B88,0x08CFCEA0,30,Site Import Folder,ui#747,連動サイト用インポートフォルダ,0x08CFCE94,0x08CFCEBF
+ui__s24,0x08D66B90,0x08CFCF88,16,Almanac Ruins,ui#748,アルマナック遺跡,0x08CF859C,0x08CF85C7
+ui__s60,0x08D66B94,0x08CFCF9C,14,Mt. Absol,ui#749,霊峰アブソール,0x08CFB3CC,0x08CFB419
+ui__s62,0x08D66B98,0x08CFCFAC,14,Veratropa,ui#750,ヴェラトローパ,0x08CFB46C,0x08CFB507
+ui__s37,0x08D66B9C,0x08CFCFBC,14,Brownie Mine,ui#751,ブラウニー坑道,0x08CF94D4,0x08CF95FD
+ui__s77,0x08D66BA0,0x08CFCFCC,12,Kadaif Desert,ui#752,カダイフ砂漠,0x08CFC80C,0x08CFC853
+ui__s59,0x08D66BA4,0x08CFCFDC,14,Mt. Alterata,ui#753,オルタータ火山,0x08CFB00C,0x08CFB24D
+ui__s59,0x08D66BA8,0x08CFCFEC,16,Holy Langriths,ui#754,聖地ラングリース,0x08CFB00C,0x08CFB24D
+ui__s53,0x08D66BAC,0x08CFD000,18,Elan Vital,ui#755,エラン・ヴィタール,0x08CFA618,0x08CFA669
+ui__s43,0x08D66BB0,0x08CFD014,12,Mt. Rhubarb,ui#756,ルバーブ連山,0x08CF9828,0x08CF9BE3
+ui__s19,0x08D66BB4,0x08CFD024,12,Sifno Spring,ui#757,シフノ湧泉洞,0x08CF8348,0x08CF84F3
+ui__s51,0x08D66BB8,0x08CFD034,18,Confeito Forest,ui#758,コンフェイト大森林,0x08CFA3BC,0x08CFA4D5
+ui__s38,0x08D66BBC,0x08CFD048,12,Vortex,ui#759,ボルテックス,0x08CF9604,0x08CF970D
+ui__s26,0x08D66C04,0x08CFD104,4,Crystal,ui#760,星晶,0x08CF8898,0x08CF899B
+ui__s31,0x08D66C08,0x08CFD10C,16,Alta Village,ui#761,オルタ・ビレッジ,0x08CF9190,0x08CF93F3
+ui__s43,0x08D66C0C,0x08CFD120,12,Black Jewel,ui#762,コクヨウ玉虫,0x08CF9828,0x08CF9BE3
+ui__s61,0x08D66C10,0x08CFD130,8,Dawn Servant,ui#763,暁の従者,0x08CFB448,0x08CFB45D
+ui__s86,0x08D66C14,0x08CFD13C,8,Koukitanjutsu,ui#764,光気丹術,0x08CFCF88,0x08CFD211
+ui__s69,0x08D66C18,0x08CFD148,10,Kouki Scripture,ui#765,光気丹術経,0x08CFBED4,0x08CFBF1B
+ui__s31,0x08D66C1C,0x08CFD154,16,Soul Alchemy,ui#766,ソウルアルケミー,0x08CF9190,0x08CF93F3
+ui__s59,0x08D66C20,0x08CFD168,10,Document,ui#767,ドクメント,0x08CFB00C,0x08CFB24D
+ui__s80,0x08D66C24,0x08CFD174,8,Progenitor,ui#768,ヒトの祖,0x08CFC98C,0x08CFC9CB
+ui__s86,0x08D66C28,0x08CFD180,8,Sealed Dimension,ui#769,封印次元,0x08CFCF88,0x08CFD211
+ui__s60,0x08D66C2C,0x08CFD18C,6,Salt Crystal,ui#770,塩水晶,0x08CFB3CC,0x08CFB419
+ui__s43,0x08D66C30,0x08CFD194,16,Bellflower Herb,ui#771,ツリガネトンボ草,0x08CF9828,0x08CF9BE3
+ui__s43,0x08D66C34,0x08CFD1A8,14,Spiral Fungus,ui#772,ウズマキフスベ,0x08CF9828,0x08CF9BE3
+ui__s54,0x08D66C38,0x08CFD1B8,16,Copis's Rod,ui#773,コピーズ・ロッド,0x08CFABB8,0x08CFACF7
+ui__s31,0x08D66C3C,0x08CFD1CC,12,Oil Tree,ui#774,オイルツリー,0x08CF9190,0x08CF93F3
+ui__s19,0x08D66C40,0x08CFD1DC,12,Yurlung Tree,ui#775,ユルングの樹,0x08CF8348,0x08CF84F3
+ui__s57,0x08D66C44,0x08CFD1EC,6,Wanderweed,ui#776,風来草,0x08CFAEA4,0x08CFAF93
+ui__s59,0x08D66C48,0x08CFD1F4,8,Gibeon,ui#777,ギベオン,0x08CFB00C,0x08CFB24D
+ui__s73,0x08D66C4C,0x08CFD200,16,Transcript,ui#778,トランスクリプタ,0x08CFC1D0,0x08CFC1F7
+ui__s62,0x08D66C58,0x08CFD24C,32,Quit without saving data?,ui#779,データを保存せずに終了しますか？,0x08CFB46C,0x08CFB507
+ui__s88,0x08D66C60,0x08CFD2C4,12,Game Clear,ui#780,ゲームクリア,0x08CFD2C4,0x08CFD301
+ui__s13,0x08D66C64,0x08CFD2D4,16,Van Eltia,ui#781,バンエルティア号,0x08CF7A9C,0x08CF7B2D
+ui__s46,0x08D66C68,0x08CFD2E8,14,World Map,ui#782,ワールドマップ,0x08CF9DF4,0x08CF9E07
+ui__s72,0x08D66C6C,0x08CFD2F8,8,Play Time,ui#783,経過時間,0x08CFC114,0x08CFC197
+ui__s63,0x08D66C78,0x08CFD324,6,Observation Room,ui#784,展望室,0x08CFB5FC,0x08CFBA07
+ui__s62,0x08D66C7C,0x08CFD32C,6,Helm Room,ui#785,操舵室,0x08CFB46C,0x08CFB507
+ui__s70,0x08D66C80,0x08CFD334,6,Hall,ui#786,ホール,0x08CFBF5C,0x08CFBFE1
+ui__s86,0x08D66C84,0x08CFD33C,6,Engine Room,ui#787,機関室,0x08CFCF88,0x08CFD211
+ui__s57,0x08D66C88,0x08CFD344,4,Cabin,ui#788,船室,0x08CFAEA4,0x08CFAF93
+ui__s38,0x08D66C8C,0x08CFD34C,4,3F,ui#789,３Ｆ,0x08CF9604,0x08CF970D
+ui__s62,0x08D66C90,0x08CFD354,4,2F,ui#790,２Ｆ,0x08CFB46C,0x08CFB507
+ui__s73,0x08D66C94,0x08CFD35C,4,1F,ui#791,１Ｆ,0x08CFC1D0,0x08CFC1F7
+ui__s77,0x08D66C98,0x08CFD364,6,B1F,ui#792,Ｂ１Ｆ,0x08CFC80C,0x08CFC853
+ui__s84,0x08D66C9C,0x08CFD36C,6,B2F,ui#793,Ｂ２Ｆ,0x08CFCE2C,0x08CFCE3F
+ui__s55,0x08D66CA0,0x08CFD374,8,Shop,ui#794,ショップ,0x08CFAD30,0x08CFADE3
+ui__s89,0x08D66CA4,0x08CFD380,10,1F Passage A,ui#795,１Ｆ通路Ａ,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CA8,0x08CFD38C,6,Room 2,ui#796,２号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CAC,0x08CFD394,6,Room 1,ui#797,１号室,0x08CFD324,0x08CFD5B9
+ui__s62,0x08D66CB0,0x08CFD39C,4,Dining Hall,ui#798,食堂,0x08CFB46C,0x08CFB507
+ui__s60,0x08D66CB4,0x08CFD3A4,4,Deck,ui#799,甲板,0x08CFB3CC,0x08CFB419
+ui__s89,0x08D66CB8,0x08CFD3AC,6,Infirmary,ui#800,医務室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CBC,0x08CFD3B4,6,Room 3,ui#801,３号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CC0,0x08CFD3BC,6,Room 4,ui#802,４号室,0x08CFD324,0x08CFD5B9
+ui__s80,0x08D66CC4,0x08CFD3C4,10,1F Passage B,ui#803,１Ｆ通路Ｂ,0x08CFC98C,0x08CFC9CB
+ui__s89,0x08D66CC8,0x08CFD3D0,6,Laboratory,ui#804,研究室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CCC,0x08CFD3D8,12,B1F Passage A,ui#805,Ｂ１Ｆ通路Ａ,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CD0,0x08CFD3E8,6,Room 7,ui#806,７号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CD4,0x08CFD3F0,6,Room 6,ui#807,６号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CD8,0x08CFD3F8,6,Room 5,ui#808,５号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CDC,0x08CFD400,6,Room 8,ui#809,８号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CE0,0x08CFD408,6,Room 9,ui#810,９号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CE4,0x08CFD410,8,Room 10,ui#811,１０号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CE8,0x08CFD41C,12,B1F Passage B,ui#812,Ｂ１Ｆ通路Ｂ,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CEC,0x08CFD42C,4,Hold,ui#813,船倉,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CF0,0x08CFD434,8,Room 14,ui#814,１４号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CF4,0x08CFD440,8,Room 13,ui#815,１３号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CF8,0x08CFD44C,8,Room 12,ui#816,１２号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66CFC,0x08CFD458,8,Room 11,ui#817,１１号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66D00,0x08CFD464,8,Room 15,ui#818,１５号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66D04,0x08CFD470,8,Room 16,ui#819,１６号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66D08,0x08CFD47C,8,Room 17,ui#820,１７号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66D0C,0x08CFD488,8,Room 18,ui#821,１８号室,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66D10,0x08CFD494,12,Ship Map,ui#822,艦内見取り図,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66D14,0x08CFD4A4,14,Change Floor,ui#823,フロア切り替え,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66D18,0x08CFD4B4,12,Change Room,ui#824,部屋切り替え,0x08CFD324,0x08CFD5B9
+ui__s33,0x08D66D1C,0x08CFD4C4,4,Back,ui#825,戻る,0x08CF9420,0x08CF9425
+ui__s89,0x08D66D20,0x08CFD4CC,12,New Quests,ui#826,新規クエスト,0x08CFD324,0x08CFD5B9
+ui__s90,0x08D66D24,0x08CFD4DC,8,Quests,ui#827,クエスト,0x08CFD6F0,0x08CFD70D
+ui__s89,0x08D66D28,0x08CFD4E8,6,Client,ui#828,依頼人,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66D2C,0x08CFD4F0,14,Main Events,ui#829,メインイベント,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66D30,0x08CFD500,12,Sub-Events,ui#830,サブイベント,0x08CFD324,0x08CFD5B9
+ui__s38,0x08D66D34,0x08CFD510,14,Default Playback,ui#831,デフォルト演奏,0x08CF9604,0x08CF970D
+ui__s38,0x08D66D3C,0x08CFD510,14,Default Playback,ui#831,デフォルト演奏,0x08CF9604,0x08CF970D
+ui__s38,0x08D66D58,0x08CFD510,14,Default Playback,ui#831,デフォルト演奏,0x08CF9604,0x08CF970D
+ui__s65,0x08D66D38,0x08CFD520,12,Random Playback,ui#832,ランダム演奏,0x08CFBB94,0x08CFBC01
+ui__s65,0x08D66D40,0x08CFD520,12,Random Playback,ui#832,ランダム演奏,0x08CFBB94,0x08CFBC01
+ui__s65,0x08D66D5C,0x08CFD520,12,Random Playback,ui#832,ランダム演奏,0x08CFBB94,0x08CFBC01
+ui__s89,0x08D66D44,0x08CFD530,20,Select from all battle themes,ui#833,全戦闘曲から選択する,0x08CFD324,0x08CFD5B9
+ui__s63,0x08D66D48,0x08CFD548,22,Select from normal battle themes,ui#834,通常戦闘曲から選択する,0x08CFB5FC,0x08CFBA07
+ui__s63,0x08D66D4C,0x08CFD560,22,Select from boss battle themes,ui#835,ボス戦闘曲から選択する,0x08CFB5FC,0x08CFBA07
+ui__s89,0x08D66D50,0x08CFD578,18,Filter by Series,ui#836,シリーズで絞り込む,0x08CFD324,0x08CFD5B9
+ui__s83,0x08D66D54,0x08CFD58C,22,Filter by Artist,ui#837,アーティストで絞り込む,0x08CFCD94,0x08CFCDDB
+ui__s81,0x08D66D60,0x08CFD5A4,20,Choose from All Ship BGM,ui#838,全船内曲から選択する,0x08CFCA40,0x08CFCADB
+ui__s10,0x08D66D90,0x08CFD6F0,28,Tales of Symphonia: Dawn of the New World,ui#839,ＴＯＳ　−ラタトスクの騎士−,0x08CF765C,0x08CF769B
+ui__s91,0x08D66DB4,0x08CFD7B4,38,Plays the standard theme without specifying a song,ui#840,曲の指定は行わず、標準の曲を演奏します,0x08CFD7B4,0x08CFD8A9
+ui__s91,0x08D66DD0,0x08CFD7B4,38,Plays the standard theme without specifying a song,ui#840,曲の指定は行わず、標準の曲を演奏します,0x08CFD7B4,0x08CFD8A9
+ui__s63,0x08D66DB8,0x08CFD7DC,36,Plays a random song from the selectable themes,ui#841,選択可能な曲からランダムで演奏します,0x08CFB5FC,0x08CFBA07
+ui__s63,0x08D66DD4,0x08CFD7DC,36,Plays a random song from the selectable themes,ui#841,選択可能な曲からランダムで演奏します,0x08CFB5FC,0x08CFBA07
+ui__s86,0x08D66DBC,0x08CFD804,32,Selects from all selectable themes,ui#842,全ての選択可能な曲から選択します,0x08CFCF88,0x08CFD211
+ui__s86,0x08D66DD8,0x08CFD804,32,Selects from all selectable themes,ui#842,全ての選択可能な曲から選択します,0x08CFCF88,0x08CFD211
+ui__s63,0x08D66DC0,0x08CFD828,28,Selects from the normal battle themes,ui#843,通常戦闘曲の中から選択します,0x08CFB5FC,0x08CFBA07
+ui__s63,0x08D66DC4,0x08CFD848,28,Selects from the boss battle themes,ui#844,ボス戦闘曲の中から選択します,0x08CFB5FC,0x08CFBA07
+ui__s54,0x08D66DC8,0x08CFD868,28,Filters songs by series,ui#845,シリーズ別に曲を絞り込みます,0x08CFABB8,0x08CFACF7
+ui__s91,0x08D66DCC,0x08CFD888,32,Filters songs by artist,ui#846,アーティスト別に曲を絞り込みます,0x08CFD7B4,0x08CFD8A9
+ui__s63,0x08D66E08,0x08CFDB04,54,Selects from the Tales of Symphonia: Dawn of the New World battle themes,ui#847,ＴＯＳ　−ラタトスクの騎士−の戦闘曲の中から選択します,0x08CFB5FC,0x08CFBA07
+ui__s11,0x08D66E2C,0x08CFDCE0,42,Use installed game data?,ui#848,データインストールのデータを使用しますか？,0x08CF76B4,0x08CF7773
+ui__s93,0x08D66E64,0x08CFDDE0,18,To the Van Eltia,ui#849,バンエルティア号へ,0x08CFDCE0,0x08CFDDF3
+ui__s93,0x08D66E98,0x08CFDDE0,18,To the Van Eltia,ui#849,バンエルティア号へ,0x08CFDCE0,0x08CFDDF3
+ui__s94,0x08D66E78,0x08CFDEE0,30,Return to the Van Eltia?,ui#850,バンエルティア号へ戻りますか？,0x08CFDEE0,0x08CFDF25
+ui__s94,0x08D66E7C,0x08CFDF00,36,Not your destination. Enter anyway?,ui#851,目的地ではありませんが、入りますか？,0x08CFDEE0,0x08CFDF25
+ui__s95,0x08D66E84,0x08CFDF38,36,Select dungeon you wish to enter.,ui#852,移動したいダンジョンを選んでください,0x08CFDF38,0x08CFDF65
+ui__s60,0x08D66E88,0x08CFDF60,4,Enter,ui#853,入る,0x08CFB3CC,0x08CFB419
+ui__s39,0x08D66E90,0x08CFDF7C,4,Move,ui#854,移動,0x08CF9720,0x08CF973D
+ui__s72,0x08D66E94,0x08CFDF84,14,Shortcut,ui#855,ショートカット,0x08CFC114,0x08CFC197
+ui__s89,0x08D66E9C,0x08CFDF94,10,Next Page,ui#856,ページ送り,0x08CFD324,0x08CFD5B9
+ui__s11,0x08D66EA0,0x08CFDFA0,4,Select,ui#857,選択,0x08CF76B4,0x08CF7773
+ui__s8,0x08D66EA4,0x08CFDFA8,4,OK,ui#858,決定,0x08CF748C,0x08CF74B5
+ui__s66,0x08D66EA8,0x08CFDFB0,12,Ship Elevator,ui#859,船内階層移動,0x08CFBC48,0x08CFBC5D
+ui__s53,0x08D66EAC,0x08CFE300,10,-----,ui#860,−−−−−,0x08CFA618,0x08CFA669
+ui__s47,0x08D65B30,0x08CF76B4,6,???,glifos_0x08CF76B4,？？？,0x08CF9E54,0x08CF9E6F
+ui__s11,0x08D65B34,0x08CF76BC,2,(verbatim),glifos_0x08CF76BC,→,0x08CF76B4,0x08CF7773
+ui__s11,0x08D65B38,0x08CF76C0,2,(verbatim),glifos_0x08CF76C0,←,0x08CF76B4,0x08CF7773
+ui__s11,0x08D65B3C,0x08CF76C4,2,(verbatim),glifos_0x08CF76C4,▲,0x08CF76B4,0x08CF7773
+ui__s11,0x08D65B40,0x08CF76C8,2,(verbatim),glifos_0x08CF76C8,▼,0x08CF76B4,0x08CF7773
+ui__s81,0x08D65B44,0x08CF76CC,4,Yes,glifos_0x08CF76CC,はい,0x08CFCA40,0x08CFCADB
+ui__s28,0x08D65B48,0x08CF76D4,6,No,glifos_0x08CF76D4,いいえ,0x08CF8AA4,0x08CF8B15
+ui__s11,0x08D65B4C,0x08CF76DC,2,(verbatim),glifos_0x08CF76DC,○,0x08CF76B4,0x08CF7773
+ui__s11,0x08D65B50,0x08CF76E0,2,(verbatim),glifos_0x08CF76E0,×,0x08CF76B4,0x08CF7773

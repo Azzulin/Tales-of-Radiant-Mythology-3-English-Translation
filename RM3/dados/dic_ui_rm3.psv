@@ -1,0 +1,207 @@
+origem_jp|categoria|canonico_en|ab_7|ab_5|ab_3|fonte|status|nota
+装備スキル|sistema|Equip Skill|EqSkill|EqSkl|ESk|rm2_deriv|derivado|装備=Equip (RM2 3.5), 技=Skill (RM2 3.2 特技)
+ボトル|item|Bottle|Bottle|Bottl|Btl|serie|validado|serie Tales: Cure/Panacea Bottle
+セミオート|batalha|Semi-Auto|SemiAut|Semi|S-A|serie|validado|modo de IA classico da serie
+マニュアル|batalha|Manual|Manual|Manul|Man|serie|validado|modo de IA classico da serie
+素材装備品|producao|Material Gear|MatGear|MatGr|Mat|rm2_deriv|derivado|素材=Material (RM2 3.7)
+グミ|item|Gel|Gel|Gel|Gel|rm2|validado|RM2 3.2: NAO "gummi"
+ワールドマップ|mapa|World Map|WorldMp|W.Map|WMp|serie|validado|
+ベース装備品|producao|Base Gear|BaseGer|BaseG|Bse|novo|revisar|par de 素材装備品
+型紙アイテム|producao|Pattern Item|Pattern|Pattn|Pat|novo|revisar|型紙 = molde de costura
+雑貨武器|equip|Misc Weapon|MiscWpn|MscWp|Msc|novo|revisar|雑貨 = bugigangas; categoria de arma
+オート|batalha|Auto|Auto|Auto|Aut|serie|validado|
+強化|producao|Enhance|Enhance|Enhnc|Enh|novo|revisar|
+料理|item|Food|Food|Food|Fod|rm2|validado|RM2 3.7
+盗む|batalha|Steal|Steal|Steal|Stl|rm2_deriv|derivado|RM2 3.4 盗めるアイテム=Stealable
+レディアント・ドライヴ|sistema|Radiant Drive|RadDriv|RadDr|RDr|novo|revisar|mecanica-titulo do RM3
+クリティカルダメージ|batalha|Critical Damage|CritDmg|CritD|CDm|serie|validado|
+アイテムを引き取る|menu|Collect Item|Collect|Colct|Col|novo|revisar|acao de menu
+クリティカルガード|batalha|Critical Guard|CritGrd|CritG|CGd|novo|revisar|
+クエストカウンタ|local|Quest Counter|QuestCt|QstCt|QCt|rm2_deriv|derivado|クエスト=quest (RM2 3.2)
+リミッツゲージ|batalha|Limits Gauge|LimGaug|LimGa|LGa|serie|validado|"Limits" da serie Tales
+アップルグミ|item|Apple Gel|AppleGl|ApplG|AGl|rm2|validado|RM2 3.2 cita este exemplo
+キュアボトル|item|Cure Bottle|CureBtl|CureB|CBt|serie|validado|
+特殊クエスト|quest|Special Quest|SpQuest|SpQst|SpQ|rm2_deriv|derivado|
+鍛冶屋ランク|sistema|Smith Rank|SmthRnk|SmRnk|SmR|novo|revisar|
+オプション|menu|Options|Options|Optns|Opt|serie|validado|
+パッと戻る|menu|Quick Return|QckRtrn|QkRtn|QRt|novo|revisar|
+ミニマップ|mapa|Minimap|Minimap|MnMap|Mmp|serie|validado|
+のけぞり|batalha|Flinch|Flinch|Flnch|Fln|novo|revisar|
+クエスト|quest|Quest|Quest|Quest|Qst|rm2|validado|RM2 3.2
+特殊装備|equip|Special Gear|SpGear|SpGr|SpG|novo|revisar|
+緑の宝箱|dungeon|Green Chest|GrnChst|GrnCh|GCh|novo|revisar|
+通常装備|equip|Normal Gear|NrmGear|NrmGr|NGr|novo|revisar|
+上級職|classe|Advanced Job|AdvJob|AdvJb|AJb|rm2_deriv|derivado|職業=Job (RM2 3.4)
+装飾品|equip|Accessory|Accsry|Accsy|Acc|rm2|validado|RM2 3.7
+足装備|equip|Feet Gear|FeetGer|Feet|Leg|rm2|validado|RM2 3.7: 足=Feet; binario RM2 usou Leg em 3 bytes
+顔装備|equip|Face Gear|FaceGer|Face|Fce|rm2|validado|RM2 3.7 cita 顔装備=Face Gear literalmente
+受身|batalha|Recovery|Recover|Recvr|Rcv|novo|revisar|levantar apos queda
+合成|producao|Synthesis|Synth|Synth|Syn|novo|revisar|
+武器|equip|Weapon|Weapon|Weapn|Wpn|rm2|validado|RM2 3.7
+逃走|batalha|Escape|Escape|Escpe|Esc|rm2_deriv|derivado|RM2 3.6 逃避=Escape
+防具|equip|Armor|Armor|Armor|Arm|rm2|validado|RM2 3.7
+毒|status|Poison|Poison|Poisn|Psn|novo|revisar|
+盾|equip|Shield|Shield|Shld|Shd|rm2|validado|RM2 3.7; binario RM2 = Shd em 3 bytes
+アンジュにおまかせ！|batalha|Leave it to Ange!|AngePik|Ange|Ang|novo|revisar|アンジュ = personagem Ange; おまかせ = deixar a IA decidir
+Ｌボタンと方向キー下を押したままＲボタンを押す|instrucao|Hold L + Down, then press R|-|-|-|novo|revisar|string com quebra de linha real no meio (47 B)
+Ｌボタンを押したままＲボタンを押す|instrucao|Hold L, then press R|-|-|-|novo|revisar|
+バンエルティア号に戻りますか？|aviso|Return to the Van Eltia?|-|-|-|rm2_deriv|derivado|RM2 3.2: バンエルティア号=Van Eltia
+緑の宝箱や特定のクエスト|corrido|green chests and certain quests|-|-|-|novo|revisar|nao e rotulo, e texto corrido
+スペシャルミッション|quest|Special Mission|SpMissn|SpMsn|SpM|novo|revisar|
+敵と対面した時の隊列|batalha|Encounter Formation|EncForm|EncFm|EFm|novo|revisar|隊列=Formation
+ダンジョンギミック|dungeon|Dungeon Gimmick|DngGmck|DnGmk|DGm|novo|revisar|
+モンスターシンボル|dungeon|Monster Symbol|MonSymb|MnSym|MSy|novo|revisar|
+他プレイヤーキャラ|sistema|Other Players|OthPlyr|OthPl|OPl|novo|revisar|
+ＣＲＩＴＩＣＡＬ！|batalha|CRITICAL!|CRITIC!|CRIT!|CR!|serie|validado|ja esta em latim de largura plena; converter para ASCII
+クエストを受ける|quest|Accept Quest|AcptQst|AcpQt|AQt|rm2_deriv|derivado|RM2 3.5 受ける=Accept
+ソーサラーリング|item|Sorcerer's Ring|SorcRng|SorcR|SRg|serie|validado|item classico da serie Tales
+ダウンロードキー|sistema|Download Key|DL Key|DLKey|DLK|novo|revisar|
+ダウンロード傭兵|sistema|Download Merc|DLMerc|DLMrc|DLM|novo|revisar|傭兵 = mercenario
+バンエルティア号|local|Van Eltia|VanElt|VanEl|VEl|rm2|validado|RM2 3.2 e 3.8
+パッシングスルー|batalha|Pass Through|PassThr|PasTh|PTh|novo|revisar|atravessar o inimigo apos クリティカルガード
+パナシーアボトル|item|Panacea Bottle|PanacBt|PancB|PBt|serie|validado|item classico da serie
+特殊な装備スキル|sistema|Special Equip Skill|SpEqSkl|SpESk|SES|rm2_deriv|derivado|
+通常エンカウント|batalha|Normal Encounter|NrmEnc|NrmEn|NEn|novo|revisar|
+ガードブレイク|batalha|Guard Break|GrdBrk|GrdBk|GBk|serie|validado|
+バックアタック|batalha|Back Attack|BackAtk|BckAt|BAt|serie|validado|
+バックステップ|batalha|Back Step|BackStp|BckSt|BSt|serie|validado|
+マジックガード|batalha|Magic Guard|MagGrd|MagGd|MGd|novo|revisar|
+モンスター図鑑|menu|Bestiary|Bestiry|Bestr|Bst|novo|revisar|図鑑 = compendio
+味方を蘇生しろ|batalha|Revive Ally|Revive|Revve|Rev|novo|revisar|ordem de IA
+戦闘フィールド|batalha|Battle Field|BtlFild|BtlFl|BFl|novo|revisar|
+腕試しクエスト|quest|Trial Quest|TrialQt|TrlQt|TQt|novo|revisar|腕試し = teste de habilidade
+アドリビトム|local|Ad Libitum|AdLibtm|AdLib|ALb|serie|validado|guilda da serie Radiant Mythology
+エネミー素材|producao|Enemy Material|EnmyMat|EnmMt|Emy|rm2_deriv|derivado|
+オレンジグミ|item|Orange Gel|OrangGl|OrngG|OGl|rm2_deriv|derivado|regra グミ=Gel
+ガイドブック|menu|Guidebook|GuideBk|Guide|Gde|novo|revisar|
+ミックスグミ|item|Mixed Gel|MixedGl|MixGl|MGl|serie|validado|
+ミラクルグミ|item|Miracle Gel|MiraclG|MircG|MrG|serie|validado|
+モルダバイト|producao|Moldavite|Moldavt|Moldv|Mol|novo|revisar|mineral real
+レディアント|equip|Radiant|Radiant|Radnt|Rad|novo|revisar|nivel de raridade mais alto
+修行クエスト|quest|Training Quest|TrainQt|TrnQt|TrQ|novo|revisar|
+光の幾何学場|dungeon|Geometry of Light|LightGe|LigGe|LGe|novo|revisar|ponto de salvamento dentro da dungeon
+採取ポイント|dungeon|Gathering Point|GathrPt|GthPt|GPt|novo|revisar|
+採取効果ＵＰ|sistema|Gather Rate Up|GathrUP|GthUP|GUp|novo|revisar|
+採掘ポイント|dungeon|Mining Point|MinePt|MinPt|MPt|novo|revisar|
+納品クエスト|quest|Delivery Quest|DelivQt|DlvQt|DQt|novo|revisar|
+艦内見取り図|menu|Ship Map|ShipMap|ShpMp|SMp|rm2_deriv|derivado|RM2 3.8 lista as salas do navio
+術攻撃アップ|status|M.Atk Up|M.AtkUp|MAtkU|MA+|rm2|validado|RM2 3.4 術攻撃=M.Atk
+術攻撃ダウン|status|M.Atk Down|M.AtkDn|MAtkD|MA-|rm2|validado|RM2 3.4
+術防御アップ|status|M.Def Up|M.DefUp|MDefU|MD+|rm2|validado|RM2 3.4 術防御=M.Def
+術防御ダウン|status|M.Def Down|M.DefDn|MDefD|MD-|rm2|validado|RM2 3.4
+退治クエスト|quest|Hunt Quest|HuntQst|HntQt|HQt|novo|revisar|退治 = exterminar
+通常ダメージ|batalha|Normal Damage|NrmDmg|NrmDm|NDm|novo|revisar|
+ガード破壊|batalha|Guard Break|GrdBrk|GrdBk|GBk|serie|validado|sinonimo de ガードブレイク — usar a MESMA forma
+ターゲット|batalha|Target|Target|Targt|Tgt|serie|validado|
+ダウン状態|status|Knockdown|Knckdwn|Down|Dwn|novo|revisar|
+ダンジョン|local|Dungeon|Dungeon|Dngn|Dng|serie|validado|
+パイングミ|item|Pineapple Gel|PineGel|PinGl|PGl|serie|validado|
+ベジタブル|item|Vegetable|Vegetbl|Vegtb|Veg|novo|revisar|categoria de 食材
+ボトル素材|producao|Bottle Material|BtlMatl|BtMat|BMt|rm2_deriv|derivado|
+ミッション|quest|Mission|Mission|Missn|Msn|serie|validado|
+レモングミ|item|Lemon Gel|LemonGl|LemnG|LGl|serie|validado|
+攻撃アップ|status|Atk Up|Atk Up|AtkUp|At+|rm2_deriv|derivado|RM2 3.4 物理攻撃=P.Atk
+攻撃ダウン|status|Atk Down|AtkDown|AtkDn|At-|rm2_deriv|derivado|
+敏捷の変化|status|Agi Change|AgiChng|AgiCh|ACh|rm2|validado|RM2 3.4 敏捷=Agi
+敏捷アップ|status|Agi Up|Agi Up|AgiUp|Ag+|rm2|validado|RM2 3.4
+敏捷ダウン|status|Agi Down|AgiDown|AgiDn|Ag-|rm2|validado|RM2 3.4
+防御アップ|status|Def Up|Def Up|DefUp|Df+|rm2_deriv|derivado|RM2 3.4 物理防御=P.Def
+防御ダウン|status|Def Down|DefDown|DefDn|Df-|rm2_deriv|derivado|
+ＮＰＣ傭兵|sistema|NPC Merc|NPCMerc|NPCMc|NPC|novo|revisar|
+あらすじ|menu|Synopsis|Synopss|Synop|Syn|novo|revisar|banco OLDATA (P-25)
+こくもつ|item|Grain|Grain|Grain|Grn|novo|revisar|穀物 escrito em hiragana
+アップル|item|Apple|Apple|Apple|App|novo|revisar|material de グミ
+グミの元|producao|Gel Base|GelBase|GelBs|GBs|rm2_deriv|derivado|元 = base/origem
+グミ素材|producao|Gel Material|GelMatl|GelMt|GMt|rm2_deriv|derivado|
+システム|menu|System|System|Systm|Sys|serie|validado|
+スロット|sistema|Slot|Slot|Slot|Slt|rm2|validado|RM2 3.4 aplicou SLOT 1-3
+メニュー|menu|Menu|Menu|Menu|Mnu|serie|validado|
+メリット|quest|Merit|Merit|Merit|Mrt|novo|revisar|bonus ativo durante a quest
+ユニーク|equip|Unique|Unique|Uniqu|Unq|novo|revisar|raridade verde
+人物名鑑|menu|Character List|CharLst|ChrLs|Chr|novo|revisar|名鑑 = quem e quem
+優先行動|batalha|Priority Action|PriorAc|PriAc|PAc|novo|revisar|
+割れた牙|producao|Cracked Fang|CrckFng|CrkFg|CFg|novo|revisar|material de inimigo
+基本行動|batalha|Basic Action|BasicAc|BasAc|BAc|novo|revisar|
+報酬候補|quest|Reward Pool|Rewards|Rewrd|Rwd|novo|revisar|ate 3 recompensas sorteadas
+宝石素材|producao|Gem Material|GemMatl|GemMt|Gem|rm2_deriv|derivado|RM2 3.2 ジェム=gem
+強化素材|producao|Enhance Material|EnhMatl|EnhMt|Enh|novo|revisar|
+後方戦闘|batalha|Ranged|Ranged|Rangd|Rng|rm2|validado|RM2 3.6 literal
+戦闘不能|status|KO|KO|KO|KO|novo|revisar|incapacitado em batalha
+支援戦闘|batalha|Support|Support|Suppt|Spt|rm2_deriv|derivado|par de 自由戦闘/近接戦闘/後方戦闘
+特殊武器|equip|Special Weapon|SpWpn|SpWpn|SpW|rm2_deriv|derivado|
+生命の実|producao|Life Fruit|LifeFrt|LifFr|LFr|novo|revisar|material de ボトル
+硬い表皮|producao|Hard Hide|HardHid|HrdHd|HHd|novo|revisar|material de inimigo
+称号実績|menu|Titles|TitlRec|Title|Ttl|novo|revisar|称号 = titulo de personagem
+繊維素材|producao|Fiber Material|FibrMat|FibMt|FbM|novo|revisar|
+自由戦闘|batalha|Free Battle|FreeBtl|FreeB|FBt|rm2|validado|RM2 3.6 literal
+装備図鑑|menu|Gear List|GearLst|GearL|GLs|novo|revisar|
+赤い宝箱|dungeon|Red Chest|RedChst|RedCh|RCh|novo|revisar|
+近接戦闘|batalha|Melee|Melee|Melee|Mle|rm2|validado|RM2 3.6 literal
+通常移動|batalha|Normal Move|NrmMove|NrmMv|NMv|novo|revisar|
+重要任務|quest|Key Mission|KeyMssn|KeyMs|KMs|novo|revisar|
+鉱物素材|producao|Ore Material|OreMatl|OreMt|OrM|novo|revisar|
+青い宝箱|dungeon|Blue Chest|BluChst|BluCh|BCh|novo|revisar|
+いいえ|menu|No|No|No|No|rm2|validado|RM2 3.5
+ガード|batalha|Guard|Guard|Guard|Grd|serie|validado|
+コンボ|batalha|Combo|Combo|Combo|Cmb|serie|validado|
+セーブ|menu|Save|Save|Save|Sav|serie|validado|
+ローブ|equip|Robe|Robe|Robe|Rob|rm2|validado|RM2 3.7
+両手剣|equip|2H Sword|2HSword|2HSwd|2HS|rm2|validado|RM2 3.7
+体装備|equip|Body Gear|BodyGer|Body|Bdy|rm2|validado|RM2 3.7 体=Body; binario RM2 = Bdy em 3 bytes
+基本職|classe|Basic Job|BaseJob|BasJb|BJb|rm2_deriv|derivado|par de 上級職
+手装備|equip|Hand Gear|HandGer|Hands|Hnd|rm2|validado|RM2 3.7 手=Hands; binario RM2 = Hnd
+武器屋|local|Weapon Shop|WpnShop|WpnSh|WpS|rm2_deriv|derivado|
+毒付与|sistema|Add Poison|AddPois|AddPs|AP+|novo|revisar|efeito de skill de equipamento
+片手剣|equip|1H Sword|1HSword|1HSwd|1HS|rm2|validado|RM2 3.7
+白モノ|equip|Common|Common|Comon|Com|novo|revisar|raridade branca, sem skills
+秘奥義|batalha|Mystic Arte|MystArt|MystA|MyA|rm2|validado|RM2 3.2
+調べる|menu|Examine|Examine|Exmne|Exm|novo|revisar|
+貴重品|item|Valuables|Valubls|Valub|Val|novo|revisar|
+道具屋|local|Item Shop|ItemShp|ItmSh|ItS|rm2_deriv|derivado|RM2 3.7 道具=Item
+鍛冶屋|local|Smithy|Smithy|Smith|Smt|novo|revisar|
+防具屋|local|Armor Shop|ArmrShp|ArmSh|ArS|rm2_deriv|derivado|
+頭装備|equip|Head Gear|HeadGer|Head|Hed|rm2|validado|RM2 3.7 頭=Head; binario RM2 = Hed
+ＭＡＸ|sistema|MAX|MAX|MAX|MAX|serie|validado|ja em latim de largura plena
+はい|menu|Yes|Yes|Yes|Yes|rm2|validado|RM2 3.5
+マヒ|status|Paralysis|Paralys|Paral|Par|novo|revisar|
+レア|equip|Rare|Rare|Rare|Rar|novo|revisar|raridade azul
+中列|batalha|Mid Row|Mid Row|MidRw|Mid|novo|revisar|
+倉庫|local|Storage|Storage|Storg|Stg|novo|revisar|
+前列|batalha|Front Row|FrntRow|FrntR|Frt|novo|revisar|
+型紙|producao|Pattern|Pattern|Pattn|Pat|novo|revisar|
+封印|status|Seal|Seal|Seal|Sea|novo|revisar|bloqueia artes e skills
+属性|sistema|Element|Element|Elemt|Ele|rm2_deriv|derivado|RM2 3.4 弱点属性=Weakness
+帽子|equip|Hat|Hat|Hat|Hat|rm2|validado|RM2 3.7
+後列|batalha|Back Row|BackRow|BackR|Bck|novo|revisar|
+投げ|batalha|Throw|Throw|Throw|Thr|novo|revisar|
+拳銃|equip|Gun|Gun|Gun|Gun|novo|revisar|
+気絶|status|Stun|Stun|Stun|Stn|novo|revisar|
+水晶|producao|Crystal|Crystal|Crys|Cry|novo|revisar|
+生産|producao|Craft|Craft|Craft|Crf|novo|revisar|
+短剣|equip|Dagger|Dagger|Dagr|Dgr|rm2|validado|RM2 3.7
+石化|status|Petrify|Petrify|Petrf|Ptf|novo|revisar|
+篭手|equip|Gauntlet|Gauntlt|Gaunt|Gnt|rm2|validado|RM2 3.7 grafa 籠手 (variante do mesmo kanji)
+腕輪|equip|Bracelet|Braclet|Bracl|Brc|novo|revisar|
+衰弱|status|Weak|Weak|Weak|Wek|novo|revisar|HP cai a metade do maximo
+隊列|batalha|Formation|Formatn|Formn|Frm|novo|revisar|
+食材|item|Ingredient|Ingredt|Ingrd|Ing|rm2|validado|RM2 3.7
+光|elemento|Light|Light|Light|Lgt|novo|revisar|
+兜|equip|Helm|Helm|Helm|Hlm|rm2|validado|RM2 3.7
+土|elemento|Earth|Earth|Earth|Ear|novo|revisar|
+弓|equip|Bow|Bow|Bow|Bow|rm2|validado|RM2 3.7
+技|batalha|Skill|Skill|Skill|Skl|rm2|validado|RM2 3.2 特技=skill
+拳|equip|Fist|Fist|Fist|Fst|rm2|validado|RM2 3.7
+斧|equip|Axe|Axe|Axe|Axe|rm2|validado|RM2 3.7
+服|equip|Clothes|Clothes|Cloth|Clo|rm2|validado|RM2 3.7
+杖|equip|Staff|Staff|Staff|Rod|rm2|revisar|DIVERGENCIA RM2 aberta: termbase=Staff, binario=Rod
+水|elemento|Water|Water|Water|Wtr|novo|revisar|
+火|elemento|Fire|Fire|Fire|Fir|novo|revisar|
+綿|producao|Cotton|Cotton|Cottn|Cot|novo|revisar|
+術|batalha|Arte|Arte|Arte|Art|rm2|validado|RM2 3.2 術技=artes
+銀|producao|Silver|Silver|Silvr|Slv|novo|revisar|
+銅|producao|Copper|Copper|Coppr|Cop|novo|revisar|
+鎧|equip|Armor|Armor|Armor|Arm|rm2|revisar|COLISAO com 防具=Armor; RM2 3.7 traduz os dois igual
+闇|elemento|Dark|Dark|Dark|Drk|novo|revisar|
+風|elemento|Wind|Wind|Wind|Wnd|novo|revisar|
+麻|producao|Linen|Linen|Linen|Lin|novo|revisar|
+０|descartado|0|0|0|0|-|descartado|numeral de largura plena, nao e termo de UI

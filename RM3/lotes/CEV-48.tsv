@@ -1,0 +1,117 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev48_010.scr:0	cev48_010.scr	0	ジェイ	Jay	personagem	CRLF x2	なるほど。\nこの船は、国籍、種族を問わず様々な立場の\n人々が集い、活動しているというわけですね		
+cev48_010.scr:1	cev48_010.scr	1	ジェイド	Jade Curtiss	personagem	CRLF x2	ええ。\n現在の世界情勢を考えれば\n何とも珍しい組織形態ではありますね		
+cev48_010.scr:2	cev48_010.scr	2	ジェイ	Jay	personagem		非常に興味深いです		
+cev48_010.scr:3	cev48_010.scr	3	ジェイ	Jay	personagem	CRLF x2	……ジェイド・カーティス大佐。\nあなたと、直々にこうして\nお話する機会が巡って来た事も		
+cev48_010.scr:4	cev48_010.scr	4	ジェイド	Jade Curtiss	personagem		ほう……私をご存知でしたか		
+cev48_010.scr:5	cev48_010.scr	5	ジェイド	Jade Curtiss	personagem	CRLF x2	その身のこなし、観察力……。\n一般人ではないとは\n思っていましたが		
+cev48_010.scr:6	cev48_010.scr	6	ジェイ	Jay	personagem		いえいえ、一般人ですよ		
+cev48_010.scr:7	cev48_010.scr	7	ジェイ	Jay	personagem	CRLF x2	ジェイドさんからは、\nたくさんの事をぜひ\n学ばせていただきたいものです		
+cev48_010.scr:8	cev48_010.scr	8	ジェイド	Jade Curtiss	personagem	CRLF x2	向上心がある若者は歓迎ですが、\n鼻っ柱が強いだけの子どもは\n嫌われると思いますよ		
+cev48_010.scr:9	cev48_010.scr	9	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	……何だか\n挨拶しづらい雰囲気に\nなってしまいましたわね		
+cev48_010.scr:10	cev48_010.scr	10	ティア	Tear Grants	personagem		ジェイ……といったかしら		
+cev48_010.scr:11	cev48_010.scr	11	ティア	Tear Grants	personagem	CRLF x1	大佐と物怖じせずに対峙出来るなんて\n只者ではなさそうね……		
+cev48_020.scr:0	cev48_020.scr	0	ヒスイ	Hisui Hearts	personagem	CRLF x2	しっかし、\nいくら来る者拒まずのギルドとはいえ\n子どもの数が多過ぎじゃねえのか？		
+cev48_020.scr:1	cev48_020.scr	1	ジェイ	Jay	personagem	CRLF x1	確かに、ぼくの把握している限りでも\n構成員の平均年齢は低そうです		
+cev48_020.scr:2	cev48_020.scr	2	ジェイ	Jay	personagem	CRLF x1	今後の作戦や士気に、悪い影響が\n出なければいいですが		
+cev48_020.scr:3	cev48_020.scr	3	ヒスイ	Hisui Hearts	personagem		お……おう		
+cev48_020.scr:4	cev48_020.scr	4	ヒスイ	Hisui Hearts	personagem	CRLF x2	何だおめぇ。\nちっこいくせに、\nなかなかよくわかってんじゃねえか		
+cev48_020.scr:5	cev48_020.scr	5	ジェイ	Jay	personagem	CRLF x2	ちっこいは余計です。\n実力や戦力と、身長に\n何の関係性があるっていうんですか？		
+cev48_020.scr:6	cev48_020.scr	6	ジェイ	Jay	personagem	CRLF x2	どうやらこの船には、想像以上に\n体の大きな「子ども」が\nたくさんいる様ですね		
+cev48_020.scr:7	cev48_020.scr	7	ヒスイ	Hisui Hearts	personagem	CRLF x1	……っておい。\n何で俺の顔を見て言うんだ？		
+cev48_020.scr:8	cev48_020.scr	8	ヒスイ	Hisui Hearts	personagem	CRLF x1	おいてめ、ジェイ！\n聞いてんのかぁ！？		
+cev48_030.scr:0	cev48_030.scr	0	キュッポ	Kyuppo	personagem		さっきの見たキュ？		
+cev48_030.scr:1	cev48_030.scr	1	ピッポ	Pippo	personagem	CRLF x1	じゃんけんキュ？\nしっかりと見たキュ		
+cev48_030.scr:2	cev48_030.scr	2	ポッポ	Poppo	personagem	CRLF x1	キュッポ兄さん、ポッポ達も\nやってみるキュ〜〜〜！		
+cev48_030.scr:3	cev48_030.scr	3	キュッポ	Kyuppo	personagem	CRLF x1	やるキュ！\n行くキュ！		
+cev48_030.scr:4	cev48_030.scr	4	キュッポ	Kyuppo	personagem		じゃ〜ん、け〜〜ん……		
+cev48_030.scr:5	cev48_030.scr	5	キュッポ	Kyuppo	personagem		グーチョキパーキュッ！！！		
+cev48_030.scr:6	cev48_030.scr	6	ジェイ	Jay	personagem	CRLF x1	みんな！　\n何してるんだ！？		
+cev48_030.scr:7	cev48_030.scr	7	キュッポ	Kyuppo	personagem		楽しくないキュ……		
+cev48_040.scr:0	cev48_040.scr	0	すず	Suzu Fujibayashi	personagem	CRLF x1	あなたが、新しくギルドに\n加わった方ですね		
+cev48_040.scr:1	cev48_040.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	何て言うか……こう、\n随分小さいんだねえ……		
+cev48_040.scr:2	cev48_040.scr	2	ジェイ	Jay	personagem	CRLF x1	身長は戦力に関係しません！\n失礼じゃないですか？		
+cev48_040.scr:3	cev48_040.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x2	ああ、ごめんよ。\nあたしは身長じゃなくて\n年齢の事を言ったんだよ		
+cev48_040.scr:4	cev48_040.scr	4	ジェイ	Jay	personagem	CRLF x1	それなら尚の事、\n今の発言には異論を唱えたいですね		
+cev48_040.scr:5	cev48_040.scr	5	ジェイ	Jay	personagem	CRLF x2	少なくとも、ぼくは\nすずさんより年上ですし、\n背だってぼくの方が大きいです		
+cev48_040.scr:6	cev48_040.scr	6	しいな	Sheena Fujibayashi	personagem		いや、だから身長の話はしてないって		
+cev48_040.scr:7	cev48_040.scr	7	すず	Suzu Fujibayashi	personagem	CRLF x1	……来たばかりなのに、\n私の年齢をご存じなのですね		
+cev48_040.scr:8	cev48_040.scr	8	ジェイ	Jay	personagem	CRLF x2	ええ。\nここへ来る前は、情報屋を生業と\nしていましたから		
+cev48_040.scr:9	cev48_040.scr	9	しいな	Sheena Fujibayashi	personagem	CRLF x1	なるほどね……。\n諜報活動はお手の物ってわけかい		
+cev48_040.scr:10	cev48_040.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x1	あんた、もしかしたら\n忍者に向いてるかもしれないねえ		
+cev48_040.scr:11	cev48_040.scr	11	ジェイ	Jay	personagem	CRLF x1	そうですか？\nぼくは、そうは思いませんけどね		
+cev48_040.scr:12	cev48_040.scr	12	すず	Suzu Fujibayashi	personagem		…………		
+cev48_050.scr:0	cev48_050.scr	0	ジェイ	Jay	personagem	CRLF x2	驚きました。\nこのギルドには、忍者が二人も\nいるのですね		
+cev48_050.scr:1	cev48_050.scr	1	クレス	Cress Albane	personagem		ああ、そうだよ		
+cev48_050.scr:2	cev48_050.scr	2	クレス	Cress Albane	personagem	CRLF x1	すずちゃんもしいなも、\nとっても頼りになる仲間なんだ		
+cev48_050.scr:3	cev48_050.scr	3	ジェイ	Jay	personagem		仲間……ですか		
+cev48_050.scr:4	cev48_050.scr	4	クレス	Cress Albane	personagem		どうしたんだい？		
+cev48_050.scr:5	cev48_050.scr	5	ジェイ	Jay	personagem	CRLF x1	いえ、随分緊張感のない\n発言だなと思いまして		
+cev48_050.scr:6	cev48_050.scr	6	クレス	Cress Albane	personagem	CRLF x1	二人は仲間なんだ。\n緊張感なんて必要ないだろう		
+cev48_050.scr:7	cev48_050.scr	7	ジェイ	Jay	personagem	CRLF x1	忍者とは、常に影に潜み\n任務遂行の為だけに行動する者達です		
+cev48_050.scr:8	cev48_050.scr	8	ジェイ	Jay	personagem	CRLF x1	必要とあらば、命と引き換えにしてでも\n与えられた役割を全うします		
+cev48_050.scr:9	cev48_050.scr	9	クレス	Cress Albane	personagem		だから、どうしたっていうんだい？		
+cev48_050.scr:10	cev48_050.scr	10	ジェイ	Jay	personagem	CRLF x1	わかりませんか？\n忍者の別称は「忍び」		
+cev48_050.scr:11	cev48_050.scr	11	ジェイ	Jay	personagem		……既に「者」ですらないんですよ		
+cev48_050.scr:12	cev48_050.scr	12	クレス	Cress Albane	personagem		彼は……一体……？		
+cev48_060.scr:0	cev48_060.scr	0	ジェイ	Jay	personagem	CRLF x1	……鈴ですか。\n意外なものを持っているんですね		
+cev48_060.scr:1	cev48_060.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	意外？\nあたしに鈴が似合わないってのかい？		
+cev48_060.scr:2	cev48_060.scr	2	ジェイ	Jay	personagem		そうは言ってませんよ		
+cev48_060.scr:3	cev48_060.scr	3	ジェイ	Jay	personagem	CRLF x2	忍者のあなたが、自分の居所を\n知らせる物を持ち歩くなんて\n少し意外な感じがしただけです		
+cev48_060.scr:4	cev48_060.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x1	……そうかもしれない。\nでもね、これは、大切な相棒の形見なんだ		
+cev48_060.scr:5	cev48_060.scr	5	しいな	Sheena Fujibayashi	personagem		お守りみたいなものなのさ		
+cev48_060.scr:6	cev48_060.scr	6	ジェイ	Jay	personagem	CRLF x2	お守り、ですか。\nその鈴のせいで、命を落とす事も\nあるかもしれないのに？		
+cev48_060.scr:7	cev48_060.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x2	それは絶対にないよ。\nコリンはいつも、あたしの事を\n見守ってくれてる。　一番近くでね		
+cev48_060.scr:8	cev48_060.scr	8	ジェイ	Jay	personagem		……そうですか		
+cev48_060.scr:9	cev48_060.scr	9	ジェイ	Jay	personagem	CRLF x2	ぼくには、相棒なんていませんけど、\nその鈴を大事に思う気持ちは……\nわかる様な気がします		
+cev48_060.scr:10	cev48_060.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x1	……っていう事は、あんたにも\n何か大事にしている物があるんだね		
+cev48_060.scr:11	cev48_060.scr	11	ジェイ	Jay	personagem	CRLF x1	さあ、それはどうでしょうね。\nそれとこれとは話が別です		
+cev48_060.scr:12	cev48_060.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x1	って、そこで話をぼかすのかい……。\n食えない子だよ……あんたって奴は		
+cev48_070.scr:0	cev48_070.scr	0	アーチェ	Arche Klein	personagem		ジェイってさ〜、すっごい美白だよね！		
+cev48_070.scr:1	cev48_070.scr	1	ジェイ	Jay	personagem		そうですか？		
+cev48_070.scr:2	cev48_070.scr	2	アンジュ	Ange Serena	personagem		確かに……		
+cev48_070.scr:3	cev48_070.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	……見れば見る程、\nシミ一つない、綺麗な肌だよね		
+cev48_070.scr:4	cev48_070.scr	4	ジェイ	Jay	personagem	CRLF x1	アンジュさんまで、\nそんな事を言うんですか？		
+cev48_070.scr:5	cev48_070.scr	5	ジェイ	Jay	personagem	CRLF x1	報酬の取り分の交渉でしたら、\nお断りしますよ		
+cev48_070.scr:6	cev48_070.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	嫌だな。\n誰もそんな事言ってないよ……？		
+cev48_070.scr:7	cev48_070.scr	7	ジェイ	Jay	personagem	CRLF x2	ええ、わかっていますよ？\nあくまで、念押しさせて\nいただいただけです		
+cev48_070.scr:8	cev48_070.scr	8	アーチェ	Arche Klein	personagem		え、えーっと……		
+cev48_070.scr:9	cev48_070.scr	9	アーチェ	Arche Klein	personagem	CRLF x2	うー、美白の秘訣を\n聞きたかっただけなのに。\nどうしてこうなるかなぁ……		
+cev48_080.scr:0	cev48_080.scr	0	アーチェ	Arche Klein	personagem	CRLF x1	んで、結局どうやって\nその美白を保ってるわけ？		
+cev48_080.scr:1	cev48_080.scr	1	ジェイ	Jay	personagem		そんなに気になるんですか？		
+cev48_080.scr:2	cev48_080.scr	2	アーチェ	Arche Klein	personagem	CRLF x1	なる！　\nあったりまえじゃん！！		
+cev48_080.scr:3	cev48_080.scr	3	アーチェ	Arche Klein	personagem	CRLF x1	何かないの？\nこう、毎日欠かさずやってた事とかさ〜！		
+cev48_080.scr:4	cev48_080.scr	4	ジェイ	Jay	personagem		そうですね……		
+cev48_080.scr:5	cev48_080.scr	5	ジェイ	Jay	personagem	CRLF x1	赤毛のボサボサ頭なら\n毎日いじってはいましたが		
+cev48_080.scr:6	cev48_080.scr	6	アーチェ	Arche Klein	personagem	CRLF x1	赤毛をいじる？\n何それ、美白と関係あるの？		
+cev48_080.scr:7	cev48_080.scr	7	ジェイ	Jay	personagem	CRLF x2	ありますよ。\n赤という色素には\n特殊な効果があって……		
+cev48_080.scr:8	cev48_080.scr	8	ジェイ	Jay	personagem	CRLF x1	紫外線を寄せ付けない\nバリア機能があるんです		
+cev48_080.scr:9	cev48_080.scr	9	ジェイ	Jay	personagem	CRLF x2	ですから、日頃から赤い物に触れ\n日焼けをしない事によって、\n肌を焼かずに済むというわけです		
+cev48_080.scr:10	cev48_080.scr	10	アーチェ	Arche Klein	personagem	CRLF x1	なるほどね〜。\n美白にそんな裏技があったんだ		
+cev48_080.scr:11	cev48_080.scr	11	アーチェ	Arche Klein	personagem		ありがと、早速やってみる∀		
+cev48_080.scr:12	cev48_080.scr	12	ジェイ	Jay	personagem	CRLF x1	……というのはもちろん\n冗談だったんですが……		
+cev48_080.scr:13	cev48_080.scr	13	ジェイ	Jay	personagem		まさか、本気にしたんですか……？		
+cev48_200.scr:0	cev48_200.scr	0	ジェイ	Jay	personagem	CRLF x1	通常。\n		
+cev48_200.scr:1	cev48_200.scr	1	ジェイ	Jay	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev48_200.scr:2	cev48_200.scr	2	ジェイ	Jay	personagem	CRLF x1	笑い。\n		
+cev48_200.scr:3	cev48_200.scr	3	ジェイ	Jay	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev48_200.scr:4	cev48_200.scr	4	ジェイ	Jay	personagem	CRLF x1	怒り。\n		
+cev48_200.scr:5	cev48_200.scr	5	ジェイ	Jay	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev48_200.scr:6	cev48_200.scr	6	ジェイ	Jay	personagem	CRLF x1	悲しみ。\n		
+cev48_200.scr:7	cev48_200.scr	7	ジェイ	Jay	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev48_200.scr:8	cev48_200.scr	8	ジェイ	Jay	personagem	CRLF x1	通常。\n		
+cev48_200.scr:9	cev48_200.scr	9	ジェイ	Jay	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev48_200.scr:10	cev48_200.scr	10	ジェイ	Jay	personagem	CRLF x1	笑い。\n		
+cev48_200.scr:11	cev48_200.scr	11	ジェイ	Jay	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev48_200.scr:12	cev48_200.scr	12	ジェイ	Jay	personagem	CRLF x1	怒り。\n		
+cev48_200.scr:13	cev48_200.scr	13	ジェイ	Jay	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev48_200.scr:14	cev48_200.scr	14	ジェイ	Jay	personagem	CRLF x1	悲しみ。\n		
+cev48_200.scr:15	cev48_200.scr	15	ジェイ	Jay	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev48_200.scr:16	cev48_200.scr	16	ジェイ	Jay	personagem	CRLF x1	通常。\n		
+cev48_200.scr:17	cev48_200.scr	17	ジェイ	Jay	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev48_200.scr:18	cev48_200.scr	18	ジェイ	Jay	personagem	CRLF x1	笑い。\n		
+cev48_200.scr:19	cev48_200.scr	19	ジェイ	Jay	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev48_200.scr:20	cev48_200.scr	20	ジェイ	Jay	personagem	CRLF x1	怒り。\n		
+cev48_200.scr:21	cev48_200.scr	21	ジェイ	Jay	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev48_200.scr:22	cev48_200.scr	22	ジェイ	Jay	personagem	CRLF x1	悲しみ。\n		
+cev48_200.scr:23	cev48_200.scr	23	ジェイ	Jay	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

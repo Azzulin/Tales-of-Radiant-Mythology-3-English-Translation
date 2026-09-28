@@ -1,0 +1,123 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev50_010.scr:0	cev50_010.scr	0	コーダ	Coda	personagem	CRLF x1	ロックスー。\n腹が減ったぞ、しかし		
+cev50_010.scr:1	cev50_010.scr	1	ロックス	Rocks	personagem		またそれですか…		
+cev50_010.scr:2	cev50_010.scr	2	ロックス	Rocks	personagem	CRLF x2	ダメですよ。\nあまり間食を増やすと\n生活習慣病の原因になります		
+cev50_010.scr:3	cev50_010.scr	3	コーダ	Coda	personagem	CRLF x1	しかし、我慢出来ないぞ。\nコーダ我慢しないぞー		
+cev50_010.scr:4	cev50_010.scr	4	ロックス	Rocks	personagem	CRLF x1	何度言われても、\nダメなものはダメです		
+cev50_010.scr:5	cev50_010.scr	5	キュッポ	Kyuppo	personagem	CRLF x1	そう言わずに\n出してあげて欲しいキュ		
+cev50_010.scr:6	cev50_010.scr	6	ピッポ	Pippo	personagem		キュッポ兄さんの言う通りだキュ		
+cev50_010.scr:7	cev50_010.scr	7	ピッポ	Pippo	personagem	CRLF x2	もし明日天変地異が起きて、\nその時コーダさんが空腹だったら\nきっと死んでも死にきれないキュ		
+cev50_010.scr:8	cev50_010.scr	8	ポッポ	Poppo	personagem	CRLF x2	そうだキュ。\nそうなったら、コーダさん、\nきっと成仏出来ないキュ……		
+cev50_010.scr:9	cev50_010.scr	9	ロックス	Rocks	personagem	CRLF x1	な……何て事言い出すんですか\nあなた達は！		
+cev50_010.scr:10	cev50_010.scr	10	コーダ	Coda	personagem		ごーはん、ごーはん		
+cev50_010.scr:11	cev50_010.scr	11	キュッポ	Kyuppo	personagem		ごはんキュ〜		
+cev50_010.scr:12	cev50_010.scr	12	ピッポ	Pippo	personagem		食べたいキュ〜		
+cev50_010.scr:13	cev50_010.scr	13	ポッポ	Poppo	personagem		コーダさんがかわいそうだキュ〜		
+cev50_010.scr:14	cev50_010.scr	14	カノンノ	Kanonno Grassvalley	personagem		あれ、ロックス……何してるんだろ？		
+cev50_010.scr:15	cev50_010.scr	15	ティア	Tear Grants	personagem	CRLF x1	（よくわからないけど……\n　すごく……かわいい……）		
+cev50_020.scr:0	cev50_020.scr	0	ティア	Tear Grants	personagem	CRLF x1	ルーク！　\nルーク！！		
+cev50_020.scr:1	cev50_020.scr	1	ティア	Tear Grants	personagem	CRLF x1	もう……どこへ行ったのかしら？\n少し目を離すとこれだわ……		
+cev50_020.scr:2	cev50_020.scr	2	ティア	Tear Grants	personagem		きゃっ		
+cev50_020.scr:3	cev50_020.scr	3	フレン	Flynn Scifo	personagem	CRLF x1	失礼。\nお怪我はありませんか？		
+cev50_020.scr:4	cev50_020.scr	4	ティア	Tear Grants	personagem		ガ……ガイ？		
+cev50_020.scr:5	cev50_020.scr	5	ティア	Tear Grants	personagem		いえ、あの……大丈夫よ		
+cev50_020.scr:6	cev50_020.scr	6	フレン	Flynn Scifo	personagem		それは良かった		
+cev50_020.scr:7	cev50_020.scr	7	フレン	Flynn Scifo	personagem	CRLF x1	あなたに何かあったら\nルーク様に申し訳が立たない		
+cev50_020.scr:8	cev50_020.scr	8	ティア	Tear Grants	personagem		ルーク……様？		
+cev50_020.scr:9	cev50_020.scr	9	ガイ	Guy Cecil	personagem		どうした、大丈夫か？		
+cev50_020.scr:10	cev50_020.scr	10	ガイ	Guy Cecil	personagem	CRLF x1	うぐっ。\nティア……！		
+cev50_020.scr:11	cev50_020.scr	11	ティア	Tear Grants	personagem		フレン！		
+cev50_020.scr:12	cev50_020.scr	12	ティア	Tear Grants	personagem	CRLF x1	どこかでルークを見なかった？\n実は……		
+cev50_020.scr:13	cev50_020.scr	13	ガイ	Guy Cecil	personagem	CRLF x1	よ、寄るな！　\n来るなぁぁ！！		
+cev50_020.scr:14	cev50_020.scr	14	ティア	Tear Grants	personagem	CRLF x1	あなた達……もしかして\n服を交換してる……？		
+cev50_020.scr:15	cev50_020.scr	15	フレン	Flynn Scifo	personagem	CRLF x1	すまない……\nエステリーゼ様のご命令で……		
+cev50_020.scr:16	cev50_020.scr	16	ガイ	Guy Cecil	personagem		だから俺は嫌だって言ったんだ！		
+cev50_020.scr:17	cev50_020.scr	17	ティア	Tear Grants	personagem		…………		
+cev50_030.scr:0	cev50_030.scr	0	ティア	Tear Grants	personagem	CRLF x2	カノンノとロックスは、\n本当に仲がいいのね。\nまるで、本物の家族みたいだわ		
+cev50_030.scr:1	cev50_030.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ロックスは、私が小さい頃から\nずっと傍にいてくれたから……		
+cev50_030.scr:2	cev50_030.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	色々な事を教えてくれたし、\n夜が怖くて眠れない時も\nずっとお話を聞かせてくれたり……		
+cev50_030.scr:3	cev50_030.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	辛い時も、楽しい時も、\nいつだってロックスが一緒にいてくれたの		
+cev50_030.scr:4	cev50_030.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	彼がいなかったら、きっと\n私は今の私じゃなかったんだろうな		
+cev50_030.scr:5	cev50_030.scr	5	ティア	Tear Grants	personagem		そうだったの……		
+cev50_030.scr:6	cev50_030.scr	6	ティア	Tear Grants	personagem	CRLF x2	（じゃあ、カノンノはロックスのあの\n　ふわふわの毛並みや、ぷにぷにした肉球を\n　小さい頃から堪能しているのね……）		
+cev50_030.scr:7	cev50_030.scr	7	ティア	Tear Grants	personagem		（ちょっと羨ましい……）		
+cev50_030.scr:8	cev50_030.scr	8	カノンノ	Kanonno Grassvalley	personagem		ティア？		
+cev50_030.scr:9	cev50_030.scr	9	ティア	Tear Grants	personagem	CRLF x1	あ……ごめんなさい。\n何でもないの		
+cev50_030.scr:10	cev50_030.scr	10	ティア	Tear Grants	personagem	CRLF x2	素敵な話ね。\nこれからもずっと、仲のいい二人で\nあって欲しいと思うわ		
+cev50_030.scr:11	cev50_030.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん。\n私もそう思ってるよ		
+cev50_030.scr:12	cev50_030.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ありがとう。\nティア		
+cev50_040.scr:0	cev50_040.scr	0	コハク	Kohaku Hearts	personagem		いつもは頼りになるんだけど……		
+cev50_040.scr:1	cev50_040.scr	1	コハク	Kohaku Hearts	personagem	CRLF x1	お兄ちゃんって、どこか抜けてるっていうか\n子どもっぽいところがあるんだよね		
+cev50_040.scr:2	cev50_040.scr	2	リリス	Lilith Aileron	personagem		わかるわかる！		
+cev50_040.scr:3	cev50_040.scr	3	リリス	Lilith Aileron	personagem	CRLF x2	うちのお兄ちゃんだって、\n剣の腕前はそこそこあるけど\nとにかく寝ぼすけで、全然起きなくって		
+cev50_040.scr:4	cev50_040.scr	4	シャーリィ	Shirley Fennes	personagem	CRLF x2	わたしのお兄ちゃんも……。\nこれって思い込んだら、\nたまに周りが見えなくなったりするなぁ		
+cev50_040.scr:5	cev50_040.scr	5	コハク	Kohaku Hearts	personagem		そうなの？		
+cev50_040.scr:6	cev50_040.scr	6	コハク	Kohaku Hearts	personagem	CRLF x1	どこのお兄ちゃんも\n似た様なものなのかな		
+cev50_040.scr:7	cev50_040.scr	7	リリス	Lilith Aileron	personagem		かも、しれないわね		
+cev50_040.scr:8	cev50_040.scr	8	リリス	Lilith Aileron	personagem	CRLF x2	そういえば、ティアさんから\nそういう不満とか愚痴って\n聞かないわよね		
+cev50_040.scr:9	cev50_040.scr	9	リリス	Lilith Aileron	personagem	CRLF x2	何かないの？　ヴァンさんの、\n「ここは直して欲しい〜！」ってとことか\n「こういうのがイヤ〜！」って事とか		
+cev50_040.scr:10	cev50_040.scr	10	ティア	Tear Grants	personagem	CRLF x2	……そうね……。\nみんなが感じている様な不満は\n特にないんだけど……		
+cev50_040.scr:11	cev50_040.scr	11	コハク	Kohaku Hearts	personagem		だけど？		
+cev50_040.scr:12	cev50_040.scr	12	ティア	Tear Grants	personagem	CRLF x2	他の人から、\n見た目が年相応に見えないって\n言われるのが少し、気になる、かな……		
+cev50_040.scr:13	cev50_040.scr	13	コハク	Kohaku Hearts	personagem		あ〜〜〜〜〜〜〜		
+cev50_050.scr:0	cev50_050.scr	0	クロエ	Chloe Valens	personagem		ど、どうすればいいんだ……？		
+cev50_050.scr:1	cev50_050.scr	1	クロエ	Chloe Valens	personagem		仮にも王族に、手をあげるわけには……		
+cev50_050.scr:2	cev50_050.scr	2	ティア	Tear Grants	personagem		ノクターナルライト！！		
+cev50_050.scr:3	cev50_050.scr	3	ティア	Tear Grants	personagem	CRLF x1	二人とも、みっともない真似はやめて。\nクロエが困っているじゃない		
+cev50_050.scr:4	cev50_050.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x2	んだよティア！　元はと言えば\nそいつが「ファブレ」なんて\n紛らわしい呼び方すっから悪ぃんだ！！		
+cev50_050.scr:5	cev50_050.scr	5	ティア	Tear Grants	personagem		ルーク！！		
+cev50_050.scr:6	cev50_050.scr	6	ルーク	Luke fon Fabre	personagem	CRLF x1	ふん！\n俺は悪くねえからな！		
+cev50_050.scr:7	cev50_050.scr	7	アッシュ	Asch	personagem		ちっ……		
+cev50_050.scr:8	cev50_050.scr	8	ティア	Tear Grants	personagem	CRLF x1	ごめんなさい。\n恥ずかしいところをお見せしてしまって		
+cev50_050.scr:9	cev50_050.scr	9	クロエ	Chloe Valens	personagem	CRLF x2	い、いや、そんな事は……。\nこちらこそ、紛らわしい呼び方をして\nすまなかった		
+cev50_050.scr:10	cev50_050.scr	10	ティア	Tear Grants	personagem	CRLF x1	あなたが悪いわけじゃないわ。\nただ、あの二人は、いつもあの調子で……		
+cev50_050.scr:11	cev50_050.scr	11	ティア	Tear Grants	personagem		事ある毎に、衝突を繰り返しているのよ		
+cev50_050.scr:12	cev50_050.scr	12	クロエ	Chloe Valens	personagem		そうだったのか……		
+cev50_050.scr:13	cev50_050.scr	13	クロエ	Chloe Valens	personagem	CRLF x2	今後は、兄君のルークを呼ぶ時に\n「ファブレ」と言う様にしよう。\nいらぬ火種を増やすのは、本意ではないからな		
+cev50_050.scr:14	cev50_050.scr	14	ティア	Tear Grants	personagem	CRLF x1	そうね。\nそうしてもらえると助かるわ		
+cev50_060.scr:0	cev50_060.scr	0	ティア	Tear Grants	personagem	CRLF x1	リリスは、スタンと本当に\n仲がいいのね		
+cev50_060.scr:1	cev50_060.scr	1	リリス	Lilith Aileron	personagem	CRLF x2	そうでもないんですよ。\n兄が家にいた時は、毎日\n喧嘩ばっかりしてましたから		
+cev50_060.scr:2	cev50_060.scr	2	ティア	Tear Grants	personagem		喧嘩……		
+cev50_060.scr:3	cev50_060.scr	3	ティア	Tear Grants	personagem	CRLF x1	……そうよね、\n普通の兄妹は、喧嘩をするものなのよね		
+cev50_060.scr:4	cev50_060.scr	4	リリス	Lilith Aileron	personagem	CRLF x1	ティアさんは、ご兄弟と\n喧嘩をした事がないんですか？		
+cev50_060.scr:5	cev50_060.scr	5	ティア	Tear Grants	personagem		……そういう間柄ではなかったから		
+cev50_060.scr:6	cev50_060.scr	6	ティア	Tear Grants	personagem	CRLF x1	兄は……そう、私にとって\n目標であり、尊敬の対象だった……		
+cev50_060.scr:7	cev50_060.scr	7	リリス	Lilith Aileron	personagem	CRLF x1	立派なお兄様だったんですね。\n羨ましいです		
+cev50_060.scr:8	cev50_060.scr	8	リリス	Lilith Aileron	personagem	CRLF x1	うちの兄にも、少しは\n見習って欲しいくらいですよ		
+cev50_060.scr:9	cev50_060.scr	9	ティア	Tear Grants	personagem		…………		
+cev50_200.scr:0	cev50_200.scr	0	ティア	Tear Grants	personagem	CRLF x1	通常。\n		
+cev50_200.scr:1	cev50_200.scr	1	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:2	cev50_200.scr	2	ティア	Tear Grants	personagem	CRLF x1	笑い。\n		
+cev50_200.scr:3	cev50_200.scr	3	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:4	cev50_200.scr	4	ティア	Tear Grants	personagem	CRLF x1	怒り。\n		
+cev50_200.scr:5	cev50_200.scr	5	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:6	cev50_200.scr	6	ティア	Tear Grants	personagem	CRLF x1	悲しみ。\n		
+cev50_200.scr:7	cev50_200.scr	7	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:8	cev50_200.scr	8	ティア	Tear Grants	personagem	CRLF x1	興味なし。\n		
+cev50_200.scr:9	cev50_200.scr	9	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:10	cev50_200.scr	10	ティア	Tear Grants	personagem	CRLF x1	照れ。\n		
+cev50_200.scr:11	cev50_200.scr	11	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:12	cev50_200.scr	12	ティア	Tear Grants	personagem	CRLF x1	通常。\n		
+cev50_200.scr:13	cev50_200.scr	13	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:14	cev50_200.scr	14	ティア	Tear Grants	personagem	CRLF x1	笑い。\n		
+cev50_200.scr:15	cev50_200.scr	15	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:16	cev50_200.scr	16	ティア	Tear Grants	personagem	CRLF x1	怒り。\n		
+cev50_200.scr:17	cev50_200.scr	17	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:18	cev50_200.scr	18	ティア	Tear Grants	personagem	CRLF x1	悲しみ。\n		
+cev50_200.scr:19	cev50_200.scr	19	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:20	cev50_200.scr	20	ティア	Tear Grants	personagem	CRLF x1	興味なし。\n		
+cev50_200.scr:21	cev50_200.scr	21	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:22	cev50_200.scr	22	ティア	Tear Grants	personagem	CRLF x1	照れ。\n		
+cev50_200.scr:23	cev50_200.scr	23	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:24	cev50_200.scr	24	ティア	Tear Grants	personagem	CRLF x1	通常。\n		
+cev50_200.scr:25	cev50_200.scr	25	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:26	cev50_200.scr	26	ティア	Tear Grants	personagem	CRLF x1	笑い。\n		
+cev50_200.scr:27	cev50_200.scr	27	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:28	cev50_200.scr	28	ティア	Tear Grants	personagem	CRLF x1	怒り。\n		
+cev50_200.scr:29	cev50_200.scr	29	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:30	cev50_200.scr	30	ティア	Tear Grants	personagem	CRLF x1	悲しみ。\n		
+cev50_200.scr:31	cev50_200.scr	31	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:32	cev50_200.scr	32	ティア	Tear Grants	personagem	CRLF x1	興味なし。\n		
+cev50_200.scr:33	cev50_200.scr	33	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev50_200.scr:34	cev50_200.scr	34	ティア	Tear Grants	personagem	CRLF x1	照れ。\n		
+cev50_200.scr:35	cev50_200.scr	35	ティア	Tear Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

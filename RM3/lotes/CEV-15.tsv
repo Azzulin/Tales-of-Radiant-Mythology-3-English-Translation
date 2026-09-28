@@ -1,0 +1,137 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev15_010.scr:0	cev15_010.scr	0	リアラ	Reala	personagem	CRLF x1	アンジュは、みんなの幸せって\n何だと思う？		
+cev15_010.scr:1	cev15_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	どうしたの、いきなり。\n何か悩んでいる事でもあるの？		
+cev15_010.scr:2	cev15_010.scr	2	リアラ	Reala	personagem	CRLF x1	ううん……ただ、\n幸せには、色々な形があると思うの		
+cev15_010.scr:3	cev15_010.scr	3	リアラ	Reala	personagem	CRLF x2	だから、「みんなが」納得出来る\n幸せの形って……\nどんなものがあるのかなって		
+cev15_010.scr:4	cev15_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	そうねえ、難しい質問だけど……。\nそんなものは無いんじゃないかな		
+cev15_010.scr:5	cev15_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	幸福の形なんて千差万別だから。\nもちろんみんなが幸せになれれば\nそれが一番いいんだと思うけど		
+cev15_010.scr:6	cev15_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	そんなものが見つかっていれば\n今、とっくにみんなが幸せに\nなっているとは思わない？		
+cev15_010.scr:7	cev15_010.scr	7	リアラ	Reala	personagem		それは……		
+cev15_010.scr:8	cev15_010.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	だから、リアラが見つけるしかないの。\nあなたの思う、あなたの信じる\n幸せの形を		
+cev15_010.scr:9	cev15_010.scr	9	リアラ	Reala	personagem		わたしの思う……幸せの、形？		
+cev15_010.scr:10	cev15_010.scr	10	アンジュ	Ange Serena	personagem	CRLF x2	そう。\n人の数だけ幸せがあるなら\nリアラにとっての幸せもあるはずでしょ？		
+cev15_010.scr:11	cev15_010.scr	11	アンジュ	Ange Serena	personagem	CRLF x2	自分の幸せもわからないのに、\n他人の幸せがわかるなんて\n変だと思わない？		
+cev15_010.scr:12	cev15_010.scr	12	リアラ	Reala	personagem	CRLF x2	……アンジュってすごいのね。\nわたし……そんな風に\n考えた事なかった		
+cev15_010.scr:13	cev15_010.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	これでも、聖女って呼ばれていた事も\nあったから		
+cev15_010.scr:14	cev15_010.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	こういうお説教が得意なのは、\n職業病みたいなものかな		
+cev15_010.scr:15	cev15_010.scr	15	リアラ	Reala	personagem	CRLF x1	……聖女？　\nあなたも？		
+cev15_010.scr:16	cev15_010.scr	16	アンジュ	Ange Serena	personagem	CRLF x1	え？　\n今、何て……		
+cev15_010.scr:17	cev15_010.scr	17	リアラ	Reala	personagem	CRLF x1	あ、ううん……何でもない。\n何でもないの		
+cev15_020.scr:0	cev15_020.scr	0	マオ	Mao	personagem	CRLF x1	ね、リアラ。\nボクの指、どれでもいいから握ってみて		
+cev15_020.scr:1	cev15_020.scr	1	リアラ	Reala	personagem	CRLF x1	指を握る……？\nどうしたの、突然？		
+cev15_020.scr:2	cev15_020.scr	2	マオ	Mao	personagem	CRLF x1	いいからいいから。\nちょっとした、心理テストなんだ		
+cev15_020.scr:3	cev15_020.scr	3	リアラ	Reala	personagem		ああ、そういう事なのね		
+cev15_020.scr:4	cev15_020.scr	4	リアラ	Reala	personagem		それなら……はい		
+cev15_020.scr:5	cev15_020.scr	5	マオ	Mao	personagem	CRLF x2	リ、リアラ……？\n別に、両手で握らなくても\nいいんだけど……？		
+cev15_020.scr:6	cev15_020.scr	6	リアラ	Reala	personagem		え？		
+cev15_020.scr:7	cev15_020.scr	7	リアラ	Reala	personagem	CRLF x1	こうするのが、\n自然なのかなって思ったんだけど……		
+cev15_020.scr:8	cev15_020.scr	8	リアラ	Reala	personagem		何か、違った？		
+cev15_020.scr:9	cev15_020.scr	9	マオ	Mao	personagem	CRLF x1	え？　\nいや、えーと……		
+cev15_020.scr:10	cev15_020.scr	10	マオ	Mao	personagem		ど、どうしよう……		
+cev15_030.scr:0	cev15_030.scr	0	ジェイ	Jay	personagem		ここのところ、雨続きでしたね		
+cev15_030.scr:1	cev15_030.scr	1	ジェイ	Jay	personagem	CRLF x2	ポッポ達は喜んでいましたけど\nこう湿気が多くては、過ごしづらくて\nかないません		
+cev15_030.scr:2	cev15_030.scr	2	リアラ	Reala	personagem	CRLF x2	そうね。\n……でも、ポッポ達の気持ち\n何となくわかる気がするわ		
+cev15_030.scr:3	cev15_030.scr	3	リアラ	Reala	personagem	CRLF x2	雨が降ると、少し気分が落ち着くもの。\nモフモフ族じゃなくたって、\n雨は、天からの恵みなのよね		
+cev15_030.scr:4	cev15_030.scr	4	ゼロス	Zelos Wilder	personagem	CRLF x1	さすがリアラちゃん、繊細だねぇ。\nメランコリックな気分って感じ？		
+cev15_030.scr:5	cev15_030.scr	5	リアラ	Reala	personagem		メランコリック……ですか？		
+cev15_030.scr:6	cev15_030.scr	6	ゼロス	Zelos Wilder	personagem	CRLF x2	そ〜そ〜。雨とかを見てて、\n気分が落ち着いたりする時に言うのよ。\nまさに、今のリアラちゃんにピッタリ∀		
+cev15_030.scr:7	cev15_030.scr	7	ジェイ	Jay	personagem	CRLF x1	正確には「憂鬱な気分」を\n表す言葉ですけどね		
+cev15_030.scr:8	cev15_030.scr	8	ゼロス	Zelos Wilder	personagem	CRLF x1	んな、こまけー事はいいの。\n憂えてるリアラちゃんが素敵なんだから		
+cev15_030.scr:9	cev15_030.scr	9	ジェイ	Jay	personagem		適当過ぎる……		
+cev15_040.scr:0	cev15_040.scr	0	リアラ	Reala	personagem	CRLF x2	ねえ、アニス？\nアニスはどうして\nそんなにお金を欲しがるの？		
+cev15_040.scr:1	cev15_040.scr	1	アニス	Anise Tatlin	personagem	CRLF x1	やだなぁ、そんな\n特別な事じゃないですよぅ		
+cev15_040.scr:2	cev15_040.scr	2	アニス	Anise Tatlin	personagem	CRLF x1	だって、何をするにも\nお金は大事じゃないですかぁ		
+cev15_040.scr:3	cev15_040.scr	3	ナナリー	Nanaly Fletch	personagem	CRLF x2	そりゃそうなんだけどさ……。\nどうもその感覚が、他人より\n発達し過ぎてる気がしてね		
+cev15_040.scr:4	cev15_040.scr	4	アニス	Anise Tatlin	personagem	CRLF x1	はうわ！\n私がおかしいって言うんですか？		
+cev15_040.scr:5	cev15_040.scr	5	リアラ	Reala	personagem	CRLF x1	そうは言っていないのよ。\nただ、ちょっと不思議に思って……		
+cev15_040.scr:6	cev15_040.scr	6	アニス	Anise Tatlin	personagem	CRLF x1	ぶーぶー。\nもういいですぅ		
+cev15_040.scr:7	cev15_040.scr	7	アニス	Anise Tatlin	personagem	CRLF x1	アニスちゃんは、ただ\nお金持ちになりたいだけですもん∀		
+cev15_040.scr:8	cev15_040.scr	8	ナナリー	Nanaly Fletch	personagem	CRLF x1	う〜ん。\nどうも腑に落ちないねぇ……		
+cev15_040.scr:9	cev15_040.scr	9	リアラ	Reala	personagem		……やっぱり気になるの、ナナリー？		
+cev15_040.scr:10	cev15_040.scr	10	ナナリー	Nanaly Fletch	personagem	CRLF x2	ああ、あたしは色んな子達の面倒を\nずっと見てきたからね。\n目を見れば、何となくはわかるのさ		
+cev15_040.scr:11	cev15_040.scr	11	ナナリー	Nanaly Fletch	personagem	CRLF x1	……あの子、変に\n思い詰めなきゃいいんだけどねえ……		
+cev15_050.scr:0	cev15_050.scr	0	リアラ	Reala	personagem	CRLF x1	ジュディスさんって、\n大人の女性って感じがして……素敵ですね		
+cev15_050.scr:1	cev15_050.scr	1	ジュディス	Judith	personagem	CRLF x1	ふふ、ありがと。\nあなたもふわふわしてて可愛いわよ		
+cev15_050.scr:2	cev15_050.scr	2	リアラ	Reala	personagem		ふわふわ……、ですか？		
+cev15_050.scr:3	cev15_050.scr	3	ジュディス	Judith	personagem		そう、ふわふわしてて		
+cev15_050.scr:4	cev15_050.scr	4	リアラ	Reala	personagem		……ふわふわ？		
+cev15_050.scr:5	cev15_050.scr	5	リアラ	Reala	personagem	CRLF x1	ああ、お洋服の事ですね。\nありがとうございます！		
+cev15_050.scr:6	cev15_050.scr	6	リアラ	Reala	personagem	CRLF x1	私のお気に入りなんです。\n褒めてもらえるなんて、嬉しい		
+cev15_050.scr:7	cev15_050.scr	7	ユーリ	Yuri Lowell	personagem		（んで……ほんとはどういう意味なんだ）		
+cev15_050.scr:8	cev15_050.scr	8	ジュディス	Judith	personagem	CRLF x2	（確かに、お洋服もふわふわしているけど……\n　その事を言ってるなんて、私、\n　一言も口にしていないわ）		
+cev15_050.scr:9	cev15_050.scr	9	ユーリ	Yuri Lowell	personagem	CRLF x1	（だと思ったぜ……。\n　女って、怖ぇのな）		
+cev15_050.scr:10	cev15_050.scr	10	ジュディス	Judith	personagem		（あら。そんな事はないわよ？）		
+cev15_060.scr:0	cev15_060.scr	0	リアラ	Reala	personagem	CRLF x1	あ！　\n私の髪留め……！		
+cev15_060.scr:1	cev15_060.scr	1	リアラ	Reala	personagem		良かった……		
+cev15_060.scr:2	cev15_060.scr	2	リアラ	Reala	personagem		でも、今のは……誰が……？		
+cev15_060.scr:3	cev15_060.scr	3	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	いかがです？　\n私の弓さばき		
+cev15_060.scr:4	cev15_060.scr	4	リアラ	Reala	personagem		ナタリアさん！		
+cev15_060.scr:5	cev15_060.scr	5	リアラ	Reala	personagem	CRLF x1	では、さっきの弓は、ナタリアさんが……？\nすごいです！		
+cev15_060.scr:6	cev15_060.scr	6	チェルシー	Chelsea Torn	personagem	CRLF x1	ナタリアさん、嘘はいけません。\n今の矢は、私のが当たったんですよ！		
+cev15_060.scr:7	cev15_060.scr	7	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	まあ、何をおっしゃいますの。\nあの流麗な軌跡と華麗な弓さばきは\n間違いなく、私のものですわ		
+cev15_060.scr:8	cev15_060.scr	8	チェルシー	Chelsea Torn	personagem	CRLF x2	違います！　あれは私です。\nこう見えて、一発必中、\n狙った的を外した事はないんですから！		
+cev15_060.scr:9	cev15_060.scr	9	リアラ	Reala	personagem	CRLF x1	でも、どちらかの矢が当たったのは確かです。\n二人とも、ありがとうございます		
+cev15_060.scr:10	cev15_060.scr	10	チェルシー	Chelsea Torn	personagem		リアラさんが……		
+cev15_060.scr:11	cev15_060.scr	11	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem		そうおっしゃるなら……もういいですわ		
+cev15_060.scr:12	cev15_060.scr	12	ジューダス	Judas	personagem		ふ……真相は黙っておくか		
+cev15_061.scr:0	cev15_061.scr	0	リアラ	Reala	personagem		誰か！　誰か手を貸してください！		
+cev15_061.scr:1	cev15_061.scr	1	リヒター	Richter Abend	personagem		何の騒ぎだ。少し落ち着け		
+cev15_061.scr:2	cev15_061.scr	2	リアラ	Reala	personagem		ご、ごめんなさい……		
+cev15_061.scr:3	cev15_061.scr	3	リアラ	Reala	personagem	CRLF x2	あの鳥が……わたしのペンダントを\n持って行ってしまったんです。\nなんとか取り戻せないでしょうか……！		
+cev15_061.scr:4	cev15_061.scr	4	リヒター	Richter Abend	personagem	CRLF x1	なるほど、トンビか……。\n鳥は光り物に目がないからな		
+cev15_061.scr:5	cev15_061.scr	5	リアラ	Reala	personagem	CRLF x1	魔法で打ち落とすわけにはいかないし、\nでも……とても大切なペンダントなんです		
+cev15_061.scr:6	cev15_061.scr	6	リヒター	Richter Abend	personagem	CRLF x1	事情はわかったが、力にはなれんな。\nあれほど高いところを飛んでいては……		
+cev15_061.scr:7	cev15_061.scr	7	リアラ	Reala	personagem		あ……！		
+cev15_061.scr:8	cev15_061.scr	8	リヒター	Richter Abend	personagem		ほう……矢か？　当たったようだぞ		
+cev15_061.scr:9	cev15_061.scr	9	リヒター	Richter Abend	personagem	CRLF x1	……どうやら、お望みの物も\n戻ってきたようだな		
+cev15_061.scr:10	cev15_061.scr	10	リアラ	Reala	personagem		良かった……		
+cev15_061.scr:11	cev15_061.scr	11	リヒター	Richter Abend	personagem	CRLF x2	（しかし、あの高度だぞ……。\n鳥を射貫かず、翼を掠めるだけに\nとどめるとは……誰の仕業だ？）		
+cev15_061.scr:12	cev15_061.scr	12	チェルシー	Chelsea Torn	personagem		どうです？　私の弓さばき		
+cev15_061.scr:13	cev15_061.scr	13	リアラ	Reala	personagem	CRLF x1	では、今の矢は、チェルシーさんが……？\nすごいです！		
+cev15_061.scr:14	cev15_061.scr	14	チェルシー	Chelsea Torn	personagem	CRLF x1	こう見えて、一発必中、\n狙った的を外した事はないんですよ		
+cev15_061.scr:15	cev15_061.scr	15	チェルシー	Chelsea Torn	personagem		お役に立てて、良かったです♪		
+cev15_061.scr:16	cev15_061.scr	16	リアラ	Reala	personagem		本当に、ありがとうございます		
+cev15_061.scr:17	cev15_061.scr	17	リヒター	Richter Abend	personagem	CRLF x2	（あの時、矢の他にも何かが\n見えたような気がしたのだが……\n気のせいか？）		
+cev15_061.scr:18	cev15_061.scr	18	ジューダス	Judas	personagem		ふ……真相は黙っておくか		
+cev15_200.scr:0	cev15_200.scr	0	リアラ	Reala	personagem	CRLF x1	通常。\n		
+cev15_200.scr:1	cev15_200.scr	1	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:2	cev15_200.scr	2	リアラ	Reala	personagem	CRLF x1	笑い。\n		
+cev15_200.scr:3	cev15_200.scr	3	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:4	cev15_200.scr	4	リアラ	Reala	personagem	CRLF x1	怒り。\n		
+cev15_200.scr:5	cev15_200.scr	5	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:6	cev15_200.scr	6	リアラ	Reala	personagem	CRLF x1	悲しみ。\n		
+cev15_200.scr:7	cev15_200.scr	7	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:8	cev15_200.scr	8	リアラ	Reala	personagem	CRLF x1	悲しみ２。\n		
+cev15_200.scr:9	cev15_200.scr	9	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:10	cev15_200.scr	10	リアラ	Reala	personagem	CRLF x1	照れ。\n		
+cev15_200.scr:11	cev15_200.scr	11	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:12	cev15_200.scr	12	リアラ	Reala	personagem	CRLF x1	驚き。\n		
+cev15_200.scr:13	cev15_200.scr	13	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:14	cev15_200.scr	14	リアラ	Reala	personagem	CRLF x1	通常。\n		
+cev15_200.scr:15	cev15_200.scr	15	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:16	cev15_200.scr	16	リアラ	Reala	personagem	CRLF x1	笑い。\n		
+cev15_200.scr:17	cev15_200.scr	17	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:18	cev15_200.scr	18	リアラ	Reala	personagem	CRLF x1	怒り。\n		
+cev15_200.scr:19	cev15_200.scr	19	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:20	cev15_200.scr	20	リアラ	Reala	personagem	CRLF x1	悲しみ。\n		
+cev15_200.scr:21	cev15_200.scr	21	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:22	cev15_200.scr	22	リアラ	Reala	personagem	CRLF x1	悲しみ２。\n		
+cev15_200.scr:23	cev15_200.scr	23	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:24	cev15_200.scr	24	リアラ	Reala	personagem	CRLF x1	照れ。\n		
+cev15_200.scr:25	cev15_200.scr	25	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:26	cev15_200.scr	26	リアラ	Reala	personagem	CRLF x1	驚き。\n		
+cev15_200.scr:27	cev15_200.scr	27	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:28	cev15_200.scr	28	リアラ	Reala	personagem	CRLF x1	通常。\n		
+cev15_200.scr:29	cev15_200.scr	29	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:30	cev15_200.scr	30	リアラ	Reala	personagem	CRLF x1	笑い。\n		
+cev15_200.scr:31	cev15_200.scr	31	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:32	cev15_200.scr	32	リアラ	Reala	personagem	CRLF x1	怒り。\n		
+cev15_200.scr:33	cev15_200.scr	33	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:34	cev15_200.scr	34	リアラ	Reala	personagem	CRLF x1	悲しみ。\n		
+cev15_200.scr:35	cev15_200.scr	35	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:36	cev15_200.scr	36	リアラ	Reala	personagem	CRLF x1	悲しみ２。\n		
+cev15_200.scr:37	cev15_200.scr	37	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:38	cev15_200.scr	38	リアラ	Reala	personagem	CRLF x1	照れ。\n		
+cev15_200.scr:39	cev15_200.scr	39	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev15_200.scr:40	cev15_200.scr	40	リアラ	Reala	personagem	CRLF x1	驚き。\n		
+cev15_200.scr:41	cev15_200.scr	41	リアラ	Reala	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

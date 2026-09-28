@@ -1,0 +1,321 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	va_ponteiros	ocorrencias	bytes_jp	max_bytes
+ui#0	ui	0	(sistema)	(system)	sistema		セーブを行いますか？	Would you like to save?		0x08D65A54	1	20	41
+ui#1	ui	1	(sistema)	(system)	sistema		このままプレイを続けますか？	Continue playing?		0x08D65A5C	1	28	58
+ui#2	ui	2	(sistema)	(system)	sistema		物理攻撃力	P. Atk		0x08D65A68	1	10	21
+ui#3	ui	3	(sistema)	(system)	sistema		物理攻撃力２	P. Atk 2		0x08D65A6C	1	12	25
+ui#4	ui	4	(sistema)	(system)	sistema		術攻撃力	M. Atk		0x08D65A70	1	8	17
+ui#5	ui	5	(sistema)	(system)	sistema		物理防御力	P. Def		0x08D65A74	1	10	21
+ui#6	ui	6	(sistema)	(system)	sistema		術防御力	M. Def		0x08D65A78	1	8	17
+ui#7	ui	7	(sistema)	(system)	sistema		敏捷値	Agility		0x08D65A7C	1	6	13
+ui#8	ui	8	(sistema)	(system)	sistema		レベル	Level		0x08D65A80	1	6	13
+ui#9	ui	9	(sistema)	(system)	sistema		経験値	EXP		0x08D65A84	1	6	13
+ui#10	ui	10	(sistema)	(system)	sistema		基礎物理攻撃力	Base P. Atk		0x08D65A90	1	14	29
+ui#11	ui	11	(sistema)	(system)	sistema		基礎術攻撃力	Base M. Atk		0x08D65A94	1	12	25
+ui#12	ui	12	(sistema)	(system)	sistema		基礎物理防御力	Base P. Def		0x08D65A98	1	14	29
+ui#13	ui	13	(sistema)	(system)	sistema		基礎術防御力	Base M. Def		0x08D65A9C	1	12	25
+ui#14	ui	14	(sistema)	(system)	sistema		基礎敏捷値	Base Agility		0x08D65AA0	1	10	21
+ui#15	ui	15	(sistema)	(system)	sistema		要求レベル	Req. Lv		0x08D65AA4	1	10	21
+ui#16	ui	16	(sistema)	(system)	sistema		物攻	P. Atk		0x08D65AA8	1	4	9
+ui#17	ui	17	(sistema)	(system)	sistema		術攻	M. Atk		0x08D65AAC	1	4	9
+ui#18	ui	18	(sistema)	(system)	sistema		敏捷	Agi		0x08D65AB0	1	4	9
+ui#19	ui	19	(sistema)	(system)	sistema		残強化回数	Slots Left		0x08D65AB4	1	10	21
+ui#20	ui	20	(sistema)	(system)	sistema		物防	P. Def		0x08D65AB8	1	4	9
+ui#21	ui	21	(sistema)	(system)	sistema		術防	M. Def		0x08D65ABC	1	4	9
+ui#22	ui	22	(sistema)	(system)	sistema		装備が可能となるレベル	Required level to equip.		0x08D65AC0	1	22	46
+ui#23	ui	23	(sistema)	(system)	sistema		強化・合成を行える残り回数	Remaining upgrade slots.		0x08D65AD0	1	26	54
+ui#24	ui	24	(sistema)	(system)	sistema		を手に入れた	Obtained		0x08D65ADC	1	12	25
+ui#25	ui	25	(sistema)	(system)	sistema		アイテムが一杯で	Inventory full.		0x08D65AE8	1	16	33
+ui#26	ui	26	(sistema)	(system)	sistema		何も手に入らなかった	Could not obtain anything.		0x08D65AF4	1	20	41
+ui#27	ui	27	(sistema)	(system)	sistema		　ワールドマップ	 World Map		0x08D65AF8	1	16	33
+ui#28	ui	28	(sistema)	(system)	sistema		データインストールを行なう	Install Game Data		0x08D65B18	1	26	54
+ui#29	ui	29	(sistema)	(system)	sistema		データの削除	Delete Data		0x08D65B20	1	12	25
+ui#30	ui	30	(sistema)	(system)	sistema		記録メディアに保存されているデータを削除します	Delete data saved on Memory Stick.		0x08D65B24	1	46	95
+ui#31	ui	31	(sistema)	(system)	sistema		強力な武器で攻撃を行う近接戦向けの職業	Melee class attacking with powerful weapons.		0x08D65B54	1	38	78
+ui#32	ui	32	(sistema)	(system)	sistema		多彩な剣技を持つ職業	A class with varied sword skills.		0x08D65B58	1	20	41
+ui#33	ui	33	(sistema)	(system)	sistema		剣技と攻撃術の両方を駆使出来る万能職	All-rounder wielding both swords and attack artes.		0x08D65B5C	1	36	74
+ui#34	ui	34	(sistema)	(system)	sistema		拳による肉弾戦を得意とする格闘系の職業	Brawler class specializing in hand-to-hand combat.		0x08D65B60	1	38	78
+ui#35	ui	35	(sistema)	(system)	sistema		短剣による素早い攻撃と盗みを得意とする職業	Class skilled in fast dagger attacks and stealing.		0x08D65B68	1	42	87
+ui#36	ui	36	(sistema)	(system)	sistema		忍術と呼ばれる特殊な体術を得意とする職業	Class adept in special martial arts called ninjutsu.		0x08D65B6C	1	40	82
+ui#37	ui	37	(sistema)	(system)	sistema		攻撃に特化した術を得意とする職業	A class specializing in offensive spells.		0x08D65B70	1	32	66
+ui#38	ui	38	(sistema)	(system)	sistema		回復、補助系の術を得意とする職業	A class skilled in healing and support spells.		0x08D65B74	1	32	66
+ui#39	ui	39	(sistema)	(system)	sistema		攻撃術と回復術の両方を得意とする万能職	All-rounder proficient in attack and healing artes.		0x08D65B78	1	38	78
+ui#40	ui	40	(sistema)	(system)	sistema		左右に持つ二本の剣を駆使する亜流の剣士	Dual-wielding swordsman fighting with two blades.		0x08D65B7C	1	38	78
+ui#41	ui	41	(sistema)	(system)	sistema		身の丈程の大剣を駆使するパワーファイター	Power fighter wielding a massive greatsword.		0x08D65B80	1	40	82
+ui#42	ui	42	(sistema)	(system)	sistema		気の力による回復の技を兼ね備えた格闘職	Brawler class equipped with ki healing techniques.		0x08D65B84	1	38	78
+ui#43	ui	43	(sistema)	(system)	sistema		銃による遠隔攻撃と短剣による近接攻撃を併せ持つ	Combines ranged gun attacks with close-range daggers.		0x08D65B88	1	46	95
+ui#44	ui	44	(sistema)	(system)	sistema		大剣による攻撃力と補助術を兼ね備えた万能職	Versatile class combining greatswords and support.		0x08D65B8C	1	42	87
+ui#45	ui	45	(sistema)	(system)	sistema		二丁の拳銃で高速な攻撃を繰り出す職業	A class unleashing rapid attacks with dual guns.		0x08D65B90	1	36	74
+ui#46	ui	46	(sistema)	(system)	sistema		転職を行う職業を選択して下さい	Select your new class.		0x08D65B94	1	30	62
+ui#47	ui	47	(sistema)	(system)	sistema		転職条件を満たしていません	Class change requirements not met.		0x08D65B98	1	26	54
+ui#48	ui	48	(sistema)	(system)	sistema		職業レベル：	Class Level:		0x08D65B9C	1	12	25
+ui#49	ui	49	(sistema)	(system)	sistema		現在の職業です。他の職業を選んで下さい	Current class. Please select another class.		0x08D65BA0	1	38	78
+ui#50	ui	50	(sistema)	(system)	sistema		クエストを受けている状態で転職する事は出来ません	Cannot change class while on a quest.		0x08D65BA4	1	48	99
+ui#51	ui	51	(sistema)	(system)	sistema		装備アイテムが一杯なので、装備を外す事が出来ません	Cannot remove gear because inventory is full.		0x08D65BA8	1	50	103
+ui#52	ui	52	(sistema)	(system)	sistema		転職できませんでした	Could not change class.		0x08D65BB4	1	20	41
+ui#53	ui	53	(sistema)	(system)	sistema		これ以上所持出来ません	Cannot hold any more.		0x08D65BB8	1	22	46
+ui#54	ui	54	(sistema)	(system)	sistema		素材が足りません	Not enough materials.		0x08D65BBC	1	16	33
+ui#55	ui	55	(sistema)	(system)	sistema		料理はダンジョン内でしか効果がありません	Food effects only work inside dungeons.		0x08D65BC0	1	40	82
+ui#56	ui	56	(sistema)	(system)	sistema		既にその料理効果が発生しています	That dish effect is already active.		0x08D65BC4	1	32	66
+ui#57	ui	57	(sistema)	(system)	sistema		何個作りますか？	How many to make?		0x08D65BD8	1	16	33
+ui#58	ui	58	(sistema)	(system)	sistema		データロード中・・・・・・	Loading data......		0x08D65BDC	1	26	54
+ui#59	ui	59	(sistema)	(system)	sistema		入れ替え、または外すメンバーを選択してください	Select member to swap or remove.		0x08D65BE0	1	46	95
+ui#60	ui	60	(sistema)	(system)	sistema		パーティに加えたいメンバーを選択してください	Select member to add to party.		0x08D65BE4	1	44	91
+ui#61	ui	61	(sistema)	(system)	sistema		パーティを解散しますか？	Disband party?		0x08D65BF0	1	24	50
+ui#62	ui	62	(sistema)	(system)	sistema		パーティを解散しました	Disbanded party.		0x08D65BF8	1	22	46
+ui#63	ui	63	(sistema)	(system)	sistema		依頼の人数制限を超えています	Exceeds quest member limit.		0x08D65C04	1	28	58
+ui#64	ui	64	(sistema)	(system)	sistema		名前	Name		0x08D65C24;0x08D65DC0	2	4	9
+ui#65	ui	65	(sistema)	(system)	sistema		職業	Class		0x08D65C28;0x08D65DC4;0x08D65DD8	3	4	9
+ui#66	ui	66	(sistema)	(system)	sistema		レベル	Level		0x08D65C2C;0x08D65DC8	2	6	13
+ui#67	ui	67	(sistema)	(system)	sistema		戦闘回数	Battles		0x08D65C30;0x08D65DCC	2	8	17
+ui#68	ui	68	(sistema)	(system)	sistema		イベントプレイヤ	Event Player		0x08D65C38	1	16	33
+ui#69	ui	69	(sistema)	(system)	sistema		スキットプレイヤ	Skit Player		0x08D65C3C	1	16	33
+ui#70	ui	70	(sistema)	(system)	sistema		イベントリプレイ	Event Replay		0x08D65C40	1	16	33
+ui#71	ui	71	(sistema)	(system)	sistema		全リストから選ぶ	Choose from All		0x08D65C44	1	16	33
+ui#72	ui	72	(sistema)	(system)	sistema		登場人物から選ぶ	Choose by Character		0x08D65C48	1	16	33
+ui#73	ui	73	(sistema)	(system)	sistema		ストーリーイベント	Story Events		0x08D65C4C	1	18	37
+ui#74	ui	74	(sistema)	(system)	sistema		その他のイベント	Other Events		0x08D65C50	1	16	33
+ui#75	ui	75	(sistema)	(system)	sistema		００１〜１００	001-100		0x08D65C54	1	14	29
+ui#76	ui	76	(sistema)	(system)	sistema		１０１〜２００	101-200		0x08D65C58	1	14	29
+ui#77	ui	77	(sistema)	(system)	sistema		２０１〜３００	201-300		0x08D65C5C	1	14	29
+ui#78	ui	78	(sistema)	(system)	sistema		３０１〜４００	301-400		0x08D65C60	1	14	29
+ui#79	ui	79	(sistema)	(system)	sistema		４０１〜５００	401-500		0x08D65C64	1	14	29
+ui#80	ui	80	(sistema)	(system)	sistema		５０１〜６００	501-600		0x08D65C68	1	14	29
+ui#81	ui	81	(sistema)	(system)	sistema		６０１〜	601~		0x08D65C6C	1	8	17
+ui#82	ui	82	(sistema)	(system)	sistema		メイン１	Main 1		0x08D65C70	1	8	17
+ui#83	ui	83	(sistema)	(system)	sistema		メイン２	Main 2		0x08D65C74	1	8	17
+ui#84	ui	84	(sistema)	(system)	sistema		メイン３	Main 3		0x08D65C78	1	8	17
+ui#85	ui	85	(sistema)	(system)	sistema		メイン４	Main 4		0x08D65C7C	1	8	17
+ui#86	ui	86	(sistema)	(system)	sistema		クエスト１	Quest 1		0x08D65C80	1	10	21
+ui#87	ui	87	(sistema)	(system)	sistema		クエスト２	Quest 2		0x08D65C84	1	10	21
+ui#88	ui	88	(sistema)	(system)	sistema		クエスト３	Quest 3		0x08D65C88	1	10	21
+ui#89	ui	89	(sistema)	(system)	sistema		クエスト４	Quest 4		0x08D65C8C	1	10	21
+ui#90	ui	90	(sistema)	(system)	sistema		その他	Other		0x08D65C90;0x08D65CB0	2	6	13
+ui#91	ui	91	(sistema)	(system)	sistema		オープニング〜８章	Prologue - Ch. 8		0x08D65C94	1	18	37
+ui#92	ui	92	(sistema)	(system)	sistema		９〜１６章	Ch. 9 - 16		0x08D65C98	1	10	21
+ui#93	ui	93	(sistema)	(system)	sistema		１７章〜エンディング	Ch. 17 - Ending		0x08D65C9C	1	20	41
+ui#94	ui	94	(sistema)	(system)	sistema		１３〜１６章	Ch. 13 - 16		0x08D65CA0	1	12	25
+ui#95	ui	95	(sistema)	(system)	sistema		１７〜２０章	Ch. 17 - 20		0x08D65CA4	1	12	25
+ui#96	ui	96	(sistema)	(system)	sistema		２０〜２４章	Ch. 20 - 24		0x08D65CA8	1	12	25
+ui#97	ui	97	(sistema)	(system)	sistema		２５章〜エンディング	Ch. 25 - Ending		0x08D65CAC	1	20	41
+ui#98	ui	98	(sistema)	(system)	sistema		９章	Chapter 9		0x08D65CB4	1	4	9
+ui#99	ui	99	(sistema)	(system)	sistema		１０章	Chapter 10		0x08D65CB8	1	6	13
+ui#100	ui	100	(sistema)	(system)	sistema		１１章	Chapter 11		0x08D65CBC	1	6	13
+ui#101	ui	101	(sistema)	(system)	sistema		１２章	Chapter 12		0x08D65CC0	1	6	13
+ui#102	ui	102	(sistema)	(system)	sistema		１３章	Chapter 13		0x08D65CC4	1	6	13
+ui#103	ui	103	(sistema)	(system)	sistema		１４章	Chapter 14		0x08D65CC8	1	6	13
+ui#104	ui	104	(sistema)	(system)	sistema		１５章	Chapter 15		0x08D65CCC	1	6	13
+ui#105	ui	105	(sistema)	(system)	sistema		１６章	Chapter 16		0x08D65CD0	1	6	13
+ui#106	ui	106	(sistema)	(system)	sistema		１７章	Chapter 17		0x08D65CD4	1	6	13
+ui#107	ui	107	(sistema)	(system)	sistema		１８章	Chapter 18		0x08D65CD8	1	6	13
+ui#108	ui	108	(sistema)	(system)	sistema		１９章	Chapter 19		0x08D65CDC	1	6	13
+ui#109	ui	109	(sistema)	(system)	sistema		２０章	Chapter 20		0x08D65CE0	1	6	13
+ui#110	ui	110	(sistema)	(system)	sistema		２１章	Chapter 21		0x08D65CE4	1	6	13
+ui#111	ui	111	(sistema)	(system)	sistema		２２章	Chapter 22		0x08D65CE8	1	6	13
+ui#112	ui	112	(sistema)	(system)	sistema		２３章	Chapter 23		0x08D65CEC	1	6	13
+ui#113	ui	113	(sistema)	(system)	sistema		２４章	Chapter 24		0x08D65CF0	1	6	13
+ui#114	ui	114	(sistema)	(system)	sistema		テイルズ　オブ　ファンタジア	Tales of Phantasia		0x08D65CF4;0x08D65D74	2	28	58
+ui#115	ui	115	(sistema)	(system)	sistema		テイルズ　オブ　デスティニー	Tales of Destiny		0x08D65CF8;0x08D65D78	2	28	58
+ui#116	ui	116	(sistema)	(system)	sistema		テイルズ　オブ　エターニア	Tales of Eternia		0x08D65CFC;0x08D65D7C	2	26	54
+ui#117	ui	117	(sistema)	(system)	sistema		テイルズ　オブ　デスティニー２	Tales of Destiny 2		0x08D65D00;0x08D65D80	2	30	62
+ui#118	ui	118	(sistema)	(system)	sistema		テイルズ　オブ　シンフォニア	Tales of Symphonia		0x08D65D04;0x08D65D84	2	28	58
+ui#119	ui	119	(sistema)	(system)	sistema		テイルズ　オブ　リバース	Tales of Rebirth		0x08D65D08;0x08D65D88	2	24	50
+ui#120	ui	120	(sistema)	(system)	sistema		テイルズ　オブ　レジェンディア	Tales of Legendia		0x08D65D0C;0x08D65D8C	2	30	62
+ui#121	ui	121	(sistema)	(system)	sistema		テイルズ　オブ　ジ　アビス	Tales of the Abyss		0x08D65D10;0x08D65D90	2	26	54
+ui#122	ui	122	(sistema)	(system)	sistema		テイルズ　オブ　ザ　テンペスト	Tales of the Tempest		0x08D65D14;0x08D65D94	2	30	62
+ui#123	ui	123	(sistema)	(system)	sistema		テイルズ　オブ　イノセンス	Tales of Innocence		0x08D65D18;0x08D65D98	2	26	54
+ui#124	ui	124	(sistema)	(system)	sistema		テイルズ　オブ　ヴェスペリア	Tales of Vesperia		0x08D65D1C;0x08D65D9C	2	28	58
+ui#125	ui	125	(sistema)	(system)	sistema		ＴＯＳ　−ラタトスクの騎士−	TOS: Dawn of New World		0x08D65D20;0x08D65DA0	2	28	58
+ui#126	ui	126	(sistema)	(system)	sistema		テイルズ　オブ　ハーツ	Tales of Hearts		0x08D65D24;0x08D65DA4	2	22	46
+ui#127	ui	127	(sistema)	(system)	sistema		テイルズ　オブ　グレイセス	Tales of Graces		0x08D65D28;0x08D65DA8	2	26	54
+ui#128	ui	128	(sistema)	(system)	sistema		レディアント　マイソロジー	Radiant Mythology		0x08D65D2C;0x08D65DAC	2	26	54
+ui#129	ui	129	(sistema)	(system)	sistema		−　−　−　−　−　−　−　−　−　−	----------		0x08D65D34	1	38	78
+ui#130	ui	130	(sistema)	(system)	sistema		次のレベルまで	To Next Level		0x08D65D44	1	14	29
+ui#131	ui	131	(sistema)	(system)	sistema		ＳＬＯＴ１	SLOT 1		0x08D65D48	1	10	21
+ui#132	ui	132	(sistema)	(system)	sistema		ＳＬＯＴ２	SLOT 2		0x08D65D4C	1	10	21
+ui#133	ui	133	(sistema)	(system)	sistema		ＳＬＯＴ３	SLOT 3		0x08D65D50	1	10	21
+ui#134	ui	134	(sistema)	(system)	sistema		オート	Auto		0x08D65D54	1	6	13
+ui#135	ui	135	(sistema)	(system)	sistema		セミオート	Semi-Auto		0x08D65D58	1	10	21
+ui#136	ui	136	(sistema)	(system)	sistema		マニュアル	Manual		0x08D65D5C	1	10	21
+ui#137	ui	137	(sistema)	(system)	sistema		スロット１	Slot 1		0x08D65D60	1	10	21
+ui#138	ui	138	(sistema)	(system)	sistema		スロット２	Slot 2		0x08D65D64	1	10	21
+ui#139	ui	139	(sistema)	(system)	sistema		スロット３	Slot 3		0x08D65D68	1	10	21
+ui#140	ui	140	(sistema)	(system)	sistema		Ａｕｔｏ設定	Auto Config		0x08D65D6C	1	12	25
+ui#141	ui	141	(sistema)	(system)	sistema		すべて	All		0x08D65D70	1	6	13
+ui#142	ui	142	(sistema)	(system)	sistema		傭兵	Merc		0x08D65DB0	1	4	9
+ui#143	ui	143	(sistema)	(system)	sistema		レベルが高い順	By Highest Level		0x08D65DB4	1	14	29
+ui#144	ui	144	(sistema)	(system)	sistema		戦闘回数の多い順	By Most Battles		0x08D65DB8	1	16	33
+ui#145	ui	145	(sistema)	(system)	sistema		五十音順	Alphabetical		0x08D65DBC	1	8	17
+ui#146	ui	146	(sistema)	(system)	sistema		レベル差が大きいため、誘うことが出来ません。	Level gap is too big to invite.		0x08D65DD0	1	44	91
+ui#147	ui	147	(sistema)	(system)	sistema		装備	Equip		0x08D65DD4	1	4	9
+ui#148	ui	148	(sistema)	(system)	sistema		セーブを行わずにゲームを終了すると	If you quit now,		0x08D65DDC	1	34	70
+ui#149	ui	149	(sistema)	(system)	sistema		現在のゲーム進行は失われますが	unsaved progress is lost.		0x08D65DE0	1	30	62
+ui#150	ui	150	(sistema)	(system)	sistema		よろしいですか？	Are you sure?		0x08D65DE4	1	16	33
+ui#151	ui	151	(sistema)	(system)	sistema		ここではセーブできません。	Cannot save here.		0x08D65DE8	1	26	54
+ui#152	ui	152	(sistema)	(system)	sistema		生産	Craft		0x08D65DEC	1	4	9
+ui#153	ui	153	(sistema)	(system)	sistema		料理	Cooking		0x08D65DF0	1	4	9
+ui#154	ui	154	(sistema)	(system)	sistema		鍛冶	Smithing		0x08D65DF4	1	4	9
+ui#155	ui	155	(sistema)	(system)	sistema		服飾	Tailoring		0x08D65DF8	1	4	9
+ui#156	ui	156	(sistema)	(system)	sistema		道具	Tools		0x08D65DFC	1	4	9
+ui#157	ui	157	(sistema)	(system)	sistema		熟練度	Proficiency		0x08D65E00	1	6	13
+ui#158	ui	158	(sistema)	(system)	sistema		ランク	Rank		0x08D65E04	1	6	13
+ui#159	ui	159	(sistema)	(system)	sistema		必要数	Required		0x08D65E10	1	6	13
+ui#160	ui	160	(sistema)	(system)	sistema		所持数	In Bag		0x08D65E14	1	6	13
+ui#161	ui	161	(sistema)	(system)	sistema		現在の料理効果：	Current Meal Effect:		0x08D65E1C	1	16	33
+ui#162	ui	162	(sistema)	(system)	sistema		なし	None		0x08D65E20	1	4	9
+ui#163	ui	163	(sistema)	(system)	sistema		合成確定	Confirm Synth		0x08D65E28	1	8	17
+ui#164	ui	164	(sistema)	(system)	sistema		キャンセル	Cancel		0x08D65E2C	1	10	21
+ui#165	ui	165	(sistema)	(system)	sistema		合成しました	Synthesized.		0x08D65E30	1	12	25
+ui#166	ui	166	(sistema)	(system)	sistema		強化しました	Upgraded.		0x08D65E34	1	12	25
+ui#167	ui	167	(sistema)	(system)	sistema		所持金	Funds		0x08D65E38	1	6	13
+ui#168	ui	168	(sistema)	(system)	sistema		料金	Fee		0x08D65E40	1	4	9
+ui#169	ui	169	(sistema)	(system)	sistema		ベース	Base		0x08D65E48	1	6	13
+ui#170	ui	170	(sistema)	(system)	sistema		▲素材	*Material		0x08D65E4C	1	6	13
+ui#171	ui	171	(sistema)	(system)	sistema		鍛冶屋ランク	Smith Rank		0x08D65E50	1	12	25
+ui#172	ui	172	(sistema)	(system)	sistema		残強化回数	Slots Left		0x08D65E54	1	10	21
+ui#173	ui	173	(sistema)	(system)	sistema		物理パラメーター重視	Focus on P. Stats		0x08D65E68	1	20	41
+ui#174	ui	174	(sistema)	(system)	sistema		術パラメーター重視	Focus on M. Stats		0x08D65E6C	1	18	37
+ui#175	ui	175	(sistema)	(system)	sistema		装備を全て外す	Remove All Equip		0x08D65E70	1	14	29
+ui#176	ui	176	(sistema)	(system)	sistema		キャンセル	Cancel		0x08D65E74	1	10	21
+ui#177	ui	177	(sistema)	(system)	sistema		装備者：	Equipper:		0x08D65E78	1	8	17
+ui#178	ui	178	(sistema)	(system)	sistema		無し	None		0x08D65E7C	1	4	9
+ui#179	ui	179	(sistema)	(system)	sistema		装備スキルを合成させる、	Select base gear		0x08D65E80	1	24	50
+ui#180	ui	180	(sistema)	(system)	sistema		ベースとなる装備品を選んで下さい	Choose the base equipment.		0x08D65E84	1	32	66
+ui#181	ui	181	(sistema)	(system)	sistema		ベースに合成したい、	Select material gear		0x08D65E8C	1	20	41
+ui#182	ui	182	(sistema)	(system)	sistema		素材となる装備品を選んで下さい	to synthesize into the base.		0x08D65E90	1	30	62
+ui#183	ui	183	(sistema)	(system)	sistema		※素材となる装備品は、合成後消滅します！	*Material gear will be lost after synthesis!		0x08D65E94	1	40	82
+ui#184	ui	184	(sistema)	(system)	sistema		素材となる装備品から、合成したい	From material equipment:		0x08D65E98	1	32	66
+ui#185	ui	185	(sistema)	(system)	sistema		装備スキルを選んで下さい	Select skill to synthesize.		0x08D65E9C	1	24	50
+ui#186	ui	186	(sistema)	(system)	sistema		合成したい装備スキルを	Select slot to set		0x08D65EA0	1	22	46
+ui#187	ui	187	(sistema)	(system)	sistema		セットするスロットを選んで下さい	the skill you wish to synthesize.		0x08D65EA4	1	32	66
+ui#188	ui	188	(sistema)	(system)	sistema		合成確定確認	Confirm Synth		0x08D65EA8	1	12	25
+ui#189	ui	189	(sistema)	(system)	sistema		ベースと素材で同じものは選択出来ません	Cannot select same item as base and material.		0x08D65EB0	1	38	78
+ui#190	ui	190	(sistema)	(system)	sistema		残強化回数が０の為、選択出来ません	No upgrade slots remaining.		0x08D65EB4	1	34	70
+ui#191	ui	191	(sistema)	(system)	sistema		この装備品には、スキルのスロットが存在しません	This equipment has no skill slots.		0x08D65EB8	1	46	95
+ui#192	ui	192	(sistema)	(system)	sistema		この装備品には、合成可能な装備スキルが存在しません	This equipment has no synthesizable skills.		0x08D65EC0	1	50	103
+ui#193	ui	193	(sistema)	(system)	sistema		レディアント装備は選択できません	Radiant equipment cannot be selected.		0x08D65EC4	1	32	66
+ui#194	ui	194	(sistema)	(system)	sistema		防具は同じカテゴリ同士でしか合成出来ません	Armor can only synthesize with same category.		0x08D65EC8	1	42	87
+ui#195	ui	195	(sistema)	(system)	sistema		ベースに同じ装備スキルが存在しています	The same equipment skill exists on base.		0x08D65ECC	1	38	78
+ui#196	ui	196	(sistema)	(system)	sistema		ベースの同じ装備スキルより効果が劣っています	Inferior effect compared to skill on base.		0x08D65ED0	1	44	91
+ui#197	ui	197	(sistema)	(system)	sistema		ベースの装備スキルが変更されていません	Base equipment skill has not been changed.		0x08D65ED4	1	38	78
+ui#198	ui	198	(sistema)	(system)	sistema		ベースのスロット選択中は、合成確定出来ません	Cannot confirm while selecting base slot.		0x08D65EE0	1	44	91
+ui#199	ui	199	(sistema)	(system)	sistema		所持金が不足しています	Insufficient Gald.		0x08D65EE4	1	22	46
+ui#200	ui	200	(sistema)	(system)	sistema		合成結果は右のようになります	Synthesis result is shown on right.		0x08D65EE8	1	28	58
+ui#201	ui	201	(sistema)	(system)	sistema		合成に必要なガルドは、	Gald needed for synthesis.		0x08D65EEC	1	22	46
+ui#202	ui	202	(sistema)	(system)	sistema		※合成すると、素材として使用した	*Material equipment		0x08D65EF4	1	32	66
+ui#203	ui	203	(sistema)	(system)	sistema		は消滅してしまいます！	will be lost forever!		0x08D65EF8	1	22	46
+ui#204	ui	204	(sistema)	(system)	sistema		合成しますか？	Synthesize?		0x08D65EFC	1	14	29
+ui#205	ui	205	(sistema)	(system)	sistema		現在の鍛冶屋ランクでは使用出来ません	Cannot use at current smithing rank.		0x08D65F00	1	36	74
+ui#206	ui	206	(sistema)	(system)	sistema		を選んで下さい	Please select.		0x08D65F0C	1	14	29
+ui#207	ui	207	(sistema)	(system)	sistema		ベースの強化に使用する	Used to upgrade base.		0x08D65F14	1	22	46
+ui#208	ui	208	(sistema)	(system)	sistema		強化素材アイテムを選んで下さい	Select upgrade material item.		0x08D65F18	1	30	62
+ui#209	ui	209	(sistema)	(system)	sistema		強化確定確認	Confirm Upgrade		0x08D65F1C	1	12	25
+ui#210	ui	210	(sistema)	(system)	sistema		強化素材アイテムを所持していません	Do not possess upgrade materials.		0x08D65F24	1	34	70
+ui#211	ui	211	(sistema)	(system)	sistema		を使用して	Using		0x08D65F28	1	10	21
+ui#212	ui	212	(sistema)	(system)	sistema		を強化します	to upgrade.		0x08D65F2C	1	12	25
+ui#213	ui	213	(sistema)	(system)	sistema		強化に必要なガルドは、	Gald needed to upgrade:		0x08D65F30	1	22	46
+ui#214	ui	214	(sistema)	(system)	sistema		強化しますか？	Upgrade?		0x08D65F38	1	14	29
+ui#215	ui	215	(sistema)	(system)	sistema		要求レベル	Req. Lv		0x08D65F3C	1	10	21
+ui#216	ui	216	(sistema)	(system)	sistema		物攻	P. Atk		0x08D65F40	1	4	9
+ui#217	ui	217	(sistema)	(system)	sistema		術攻	M. Atk		0x08D65F44	1	4	9
+ui#218	ui	218	(sistema)	(system)	sistema		物防	P. Def		0x08D65F48	1	4	9
+ui#219	ui	219	(sistema)	(system)	sistema		術防	M. Def		0x08D65F4C	1	4	9
+ui#220	ui	220	(sistema)	(system)	sistema		敏捷	Agi		0x08D65F50	1	4	9
+ui#221	ui	221	(sistema)	(system)	sistema		残強化回数	Slots Left		0x08D65F54	1	10	21
+ui#222	ui	222	(sistema)	(system)	sistema		――――	----		0x08D65F58	1	8	17
+ui#223	ui	223	(sistema)	(system)	sistema		ここでは使えません	Cannot use here.		0x08D66058	1	18	37
+ui#224	ui	224	(sistema)	(system)	sistema		使う	Use		0x08D6605C	1	4	9
+ui#225	ui	225	(sistema)	(system)	sistema		スキル確認	Check Skill		0x08D66060	1	10	21
+ui#226	ui	226	(sistema)	(system)	sistema		効果確認	Check Effect		0x08D66064	1	8	17
+ui#227	ui	227	(sistema)	(system)	sistema		外す	Remove		0x08D66068	1	4	9
+ui#228	ui	228	(sistema)	(system)	sistema		捨てる	Discard		0x08D6606C	1	6	13
+ui#229	ui	229	(sistema)	(system)	sistema		キャンセル	Cancel		0x08D66070	1	10	21
+ui#230	ui	230	(sistema)	(system)	sistema		の装備を外しますか？	Remove gear?		0x08D66074	1	20	41
+ui#231	ui	231	(sistema)	(system)	sistema		を捨てますか？	Discard this?		0x08D6607C	1	14	29
+ui#232	ui	232	(sistema)	(system)	sistema		何個捨てますか？	How many to discard?		0x08D66080	1	16	33
+ui#233	ui	233	(sistema)	(system)	sistema		装備可能職業	Equippable Class		0x08D66084;0x08D660DC	2	12	25
+ui#234	ui	234	(sistema)	(system)	sistema		ページ切替	Switch Page		0x08D66088	1	10	21
+ui#235	ui	235	(sistema)	(system)	sistema		素材ランク	Mat. Rank		0x08D6608C	1	10	21
+ui#236	ui	236	(sistema)	(system)	sistema		武器強化効果	Weapon Upgrade		0x08D66090	1	12	25
+ui#237	ui	237	(sistema)	(system)	sistema		防具強化効果	Armor Upgrade		0x08D66094	1	12	25
+ui#238	ui	238	(sistema)	(system)	sistema		要求レベル	Req. Lv		0x08D66098	1	10	21
+ui#239	ui	239	(sistema)	(system)	sistema		物攻	P. Atk		0x08D6609C	1	4	9
+ui#240	ui	240	(sistema)	(system)	sistema		術攻	M. Atk		0x08D660A0	1	4	9
+ui#241	ui	241	(sistema)	(system)	sistema		敏捷	Agi		0x08D660A4	1	4	9
+ui#242	ui	242	(sistema)	(system)	sistema		物防	P. Def		0x08D660A8	1	4	9
+ui#243	ui	243	(sistema)	(system)	sistema		術防	M. Def		0x08D660AC	1	4	9
+ui#244	ui	244	(sistema)	(system)	sistema		パーティ全員の	All Party		0x08D660B0	1	14	29
+ui#245	ui	245	(sistema)	(system)	sistema		変更前	Before		0x08D660E0	1	6	13
+ui#246	ui	246	(sistema)	(system)	sistema		変更後	After		0x08D660E4	1	6	13
+ui#247	ui	247	(sistema)	(system)	sistema		カテゴリ：	Category:		0x08D660EC	1	10	21
+ui#248	ui	248	(sistema)	(system)	sistema		最新獲得	Newest		0x08D660F0	1	8	17
+ui#249	ui	249	(sistema)	(system)	sistema		最新入庫	Recently Added		0x08D660F4	1	8	17
+ui#250	ui	250	(sistema)	(system)	sistema		道具	Items		0x08D660F8	1	4	9
+ui#251	ui	251	(sistema)	(system)	sistema		生産素材	Craft Mat.		0x08D660FC	1	8	17
+ui#252	ui	252	(sistema)	(system)	sistema		強化素材	Upgrade Mat.		0x08D66100	1	8	17
+ui#253	ui	253	(sistema)	(system)	sistema		交換アイテム	Trade Items		0x08D66104	1	12	25
+ui#254	ui	254	(sistema)	(system)	sistema		装飾品	Accessories		0x08D66108;0x08D66244	2	6	13
+ui#255	ui	255	(sistema)	(system)	sistema		貴重品	Valuables		0x08D6610C	1	6	13
+ui#256	ui	256	(sistema)	(system)	sistema		？？？	???		0x08D66110	1	6	13
+ui#257	ui	257	(sistema)	(system)	sistema		武器：片手剣	Weapon: 1H Sword		0x08D66114	1	12	25
+ui#258	ui	258	(sistema)	(system)	sistema		武器：両手剣	Weapon: 2H Sword		0x08D66118	1	12	25
+ui#259	ui	259	(sistema)	(system)	sistema		武器：短剣	Weapon: Dagger		0x08D6611C	1	10	21
+ui#260	ui	260	(sistema)	(system)	sistema		武器：斧	Weapon: Axe		0x08D66120	1	8	17
+ui#261	ui	261	(sistema)	(system)	sistema		武器：杖	Weapon: Staff		0x08D66124	1	8	17
+ui#262	ui	262	(sistema)	(system)	sistema		武器：拳	Weapon: Fists		0x08D66128	1	8	17
+ui#263	ui	263	(sistema)	(system)	sistema		武器：弓	Weapon: Bow		0x08D6612C	1	8	17
+ui#264	ui	264	(sistema)	(system)	sistema		武器：拳銃	Weapon: Gun		0x08D66130	1	10	21
+ui#265	ui	265	(sistema)	(system)	sistema		武器：槍	Weapon: Spear		0x08D66134	1	8	17
+ui#266	ui	266	(sistema)	(system)	sistema		武器：トンファー	Weapon: Tonfa		0x08D66138	1	16	33
+ui#267	ui	267	(sistema)	(system)	sistema		武器：戦輪	Weapon: Chakram		0x08D6613C	1	10	21
+ui#268	ui	268	(sistema)	(system)	sistema		武器：ハンマー	Weapon: Hammer		0x08D66140	1	14	29
+ui#269	ui	269	(sistema)	(system)	sistema		武器：ライフル	Weapon: Rifle		0x08D66144	1	14	29
+ui#270	ui	270	(sistema)	(system)	sistema		武器：バトン	Weapon: Baton		0x08D66148	1	12	25
+ui#271	ui	271	(sistema)	(system)	sistema		武器：ボウガン	Weapon: Crossbow		0x08D6614C	1	14	29
+ui#272	ui	272	(sistema)	(system)	sistema		武器：バッグ	Weapon: Bag		0x08D66150	1	12	25
+ui#273	ui	273	(sistema)	(system)	sistema		武器：剣玉	Weapon: Kendama		0x08D66154	1	10	21
+ui#274	ui	274	(sistema)	(system)	sistema		武器：清掃具	Weapon: Mop		0x08D66158	1	12	25
+ui#275	ui	275	(sistema)	(system)	sistema		武器：おたま	Weapon: Ladle		0x08D6615C	1	12	25
+ui#276	ui	276	(sistema)	(system)	sistema		武器：笛	Weapon: Flute		0x08D66160	1	8	17
+ui#277	ui	277	(sistema)	(system)	sistema		武器：符	Weapon: Talisman		0x08D66164	1	8	17
+ui#278	ui	278	(sistema)	(system)	sistema		武器：ストロー	Weapon: Straw		0x08D66168	1	14	29
+ui#279	ui	279	(sistema)	(system)	sistema		武器：ペン	Weapon: Pen		0x08D6616C	1	10	21
+ui#280	ui	280	(sistema)	(system)	sistema		武器：帯	Weapon: Sash		0x08D66170	1	8	17
+ui#281	ui	281	(sistema)	(system)	sistema		防具：盾	Armor: Shield		0x08D66174	1	8	17
+ui#282	ui	282	(sistema)	(system)	sistema		防具：頭	Armor: Head		0x08D66178	1	8	17
+ui#283	ui	283	(sistema)	(system)	sistema		防具：顔	Armor: Face		0x08D6617C	1	8	17
+ui#284	ui	284	(sistema)	(system)	sistema		防具：体	Armor: Body		0x08D66180	1	8	17
+ui#285	ui	285	(sistema)	(system)	sistema		防具：手	Armor: Arms		0x08D66184	1	8	17
+ui#286	ui	286	(sistema)	(system)	sistema		防具：足	Armor: Legs		0x08D66188	1	8	17
+ui#287	ui	287	(sistema)	(system)	sistema		通常武器	Standard Weapon		0x08D6618C	1	8	17
+ui#288	ui	288	(sistema)	(system)	sistema		特殊武器	Special Weapon		0x08D66190	1	8	17
+ui#289	ui	289	(sistema)	(system)	sistema		雑貨武器	Novelty Weapon		0x08D66194	1	8	17
+ui#290	ui	290	(sistema)	(system)	sistema		体装備	Body Equip		0x08D66198	1	6	13
+ui#291	ui	291	(sistema)	(system)	sistema		頭装備	Head Equip		0x08D6619C	1	6	13
+ui#292	ui	292	(sistema)	(system)	sistema		顔装備	Face Equip		0x08D661A0	1	6	13
+ui#293	ui	293	(sistema)	(system)	sistema		手装備	Arms Equip		0x08D661A4	1	6	13
+ui#294	ui	294	(sistema)	(system)	sistema		足装備	Legs Equip		0x08D661A8	1	6	13
+ui#295	ui	295	(sistema)	(system)	sistema		片手剣	1H Sword		0x08D661B0	1	6	13
+ui#296	ui	296	(sistema)	(system)	sistema		両手剣	2H Sword		0x08D661B4	1	6	13
+ui#297	ui	297	(sistema)	(system)	sistema		短剣	Dagger		0x08D661B8	1	4	9
+ui#298	ui	298	(sistema)	(system)	sistema		拳銃	Gun		0x08D661CC	1	4	9
+ui#299	ui	299	(sistema)	(system)	sistema		トンファー	Tonfa		0x08D661D4	1	10	21
+ui#300	ui	300	(sistema)	(system)	sistema		戦輪	Chakram		0x08D661D8	1	4	9
+ui#301	ui	301	(sistema)	(system)	sistema		ハンマー	Hammer		0x08D661DC	1	8	17
+ui#302	ui	302	(sistema)	(system)	sistema		ライフル	Rifle		0x08D661E0	1	8	17
+ui#303	ui	303	(sistema)	(system)	sistema		バトン	Baton		0x08D661E4	1	6	13
+ui#304	ui	304	(sistema)	(system)	sistema		ボウガン	Crossbow		0x08D661E8	1	8	17
+ui#305	ui	305	(sistema)	(system)	sistema		バッグ	Bag		0x08D661EC	1	6	13
+ui#306	ui	306	(sistema)	(system)	sistema		剣玉	Kendama		0x08D661F0	1	4	9
+ui#307	ui	307	(sistema)	(system)	sistema		清掃具	Mop		0x08D661F4	1	6	13
+ui#308	ui	308	(sistema)	(system)	sistema		おたま	Ladle		0x08D661F8	1	6	13
+ui#309	ui	309	(sistema)	(system)	sistema		ストロー	Straw		0x08D66204	1	8	17
+ui#310	ui	310	(sistema)	(system)	sistema		ペン	Pen		0x08D66208	1	4	9
+ui#311	ui	311	(sistema)	(system)	sistema		ローブ	Robe		0x08D66230	1	6	13
+ui#312	ui	312	(sistema)	(system)	sistema		帽子	Hat		0x08D66238	1	4	9
+ui#313	ui	313	(sistema)	(system)	sistema		篭手	Gauntlets		0x08D6623C	1	4	9
+ui#314	ui	314	(sistema)	(system)	sistema		腕輪	Bangle		0x08D66240	1	4	9
+ui#315	ui	315	(sistema)	(system)	sistema		素材	Material		0x08D66248	1	4	9
+ui#316	ui	316	(sistema)	(system)	sistema		レシピ	Recipe		0x08D6624C	1	6	13
+ui#317	ui	317	(sistema)	(system)	sistema		思考	Thought		0x08D66250	1	4	9
+ui#318	ui	318	(sistema)	(system)	sistema		石版の欠片	Tablet Shard		0x08D66254	1	10	21
+ui#319	ui	319	(sistema)	(system)	sistema		標準	Standard		0x08D66258	1	4	9

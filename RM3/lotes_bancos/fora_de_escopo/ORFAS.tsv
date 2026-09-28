@@ -1,0 +1,12 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	va_string	bytes_jp	max_bytes
+orfa#0	orfas_eboot	0	(sistema)	(system)	sistema		仮アイテム			0x08CE0B04	10	11
+orfa#1	orfas_eboot	1	(sistema)	(system)	sistema		存在しないアイテムです			0x08CE0B10	22	23
+orfa#2	orfas_eboot	2	(sistema)	(system)	sistema		キャンセル			0x08CE7630	10	23
+orfa#3	orfas_eboot	3	(sistema)	(system)	sistema		てすてす			0x08CE7720	8	23
+orfa#4	orfas_eboot	4	(sistema)	(system)	sistema		スキットが存在しません			0x08CEAA00	22	23
+orfa#5	orfas_eboot	5	(sistema)	(system)	sistema		イベントが存在しません。			0x08CEAA18	24	27
+orfa#6	orfas_eboot	6	(sistema)	(system)	sistema		フリオ			0x08CFE024	6	7
+orfa#7	orfas_eboot	7	(sistema)	(system)	sistema		キャロ			0x08CFE02C	6	7
+orfa#8	orfas_eboot	8	(sistema)	(system)	sistema		イベントスキップしますか？			0x08D03A88	26	27
+orfa#9	orfas_eboot	9	(sistema)	(system)	sistema		いいえ			0x08D03AA4	6	7
+sfo#0	param_sfo	0	(sistema)	(system)	sistema		テイルズ オブ ザ ワールド レディアント マイソロジー3			PSP_GAME/PARAM.SFO:TITLE	76	127

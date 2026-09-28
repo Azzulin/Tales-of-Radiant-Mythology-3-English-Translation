@@ -1,0 +1,109 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev34_010.scr:0	qev34_010.scr	0	ロックス	Rocks	personagem		失礼します	Pardon me.	
+qev34_010.scr:1	qev34_010.scr	1	ロックス	Rocks	personagem		ユーリ様宛に、お手紙が届いています	A letter has arrived for Master Yuri.	
+qev34_010.scr:2	qev34_010.scr	2	ユーリ	Yuri Lowell	personagem		手紙？	A letter?	
+qev34_010.scr:3	qev34_010.scr	3	ユーリ	Yuri Lowell	personagem		開いてるぞ、入ってきてくれ	It's open. Come on in.	
+qev34_010.scr:4	qev34_010.scr	4	ロックス	Rocks	personagem		先程、速達で届きました	It was delivered by express just now.	
+qev34_010.scr:5	qev34_010.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x1	わざわざ悪いな。\nありがとさん	Sorry for making you come all this way.\nThanks.	
+qev34_010.scr:6	qev34_010.scr	6	ロックス	Rocks	personagem	CRLF x1	いいえ。\nそれでは	Not at all.\nExcuse me, then.	
+qev34_010.scr:7	qev34_010.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x1	へえ。\nこりゃまた……	Well, well.\nWhat do we have here...?	
+qev34_010.scr:8	qev34_010.scr	8	エステル	Estelle	personagem	CRLF x1	ユーリ？\n誰からの手紙だったんです？	Yuri?\nWho was the letter from?	
+qev34_010.scr:9	qev34_010.scr	9	ユーリ	Yuri Lowell	personagem	CRLF x2	喜べよ。\nエステルの事が気になって気になって\n仕方ない奴からだ	Rejoice.\nIt's from someone who just can't stop\nworrying about Estelle.	
+qev34_010.scr:10	qev34_010.scr	10	エステル	Estelle	personagem		え？　だ、誰の事です？	Huh? W-Who do you mean?	
+qev34_010.scr:11	qev34_010.scr	11	ユーリ	Yuri Lowell	personagem	CRLF x1	ま、時期的に\nそろそろかとは思ってたが……	Well, given the timing,\nI figured it was about time, but...	
+qev34_010.scr:12	qev34_010.scr	12	ユーリ	Yuri Lowell	personagem	CRLF x1	さて。\nどうしたもんかね	Now then.\nWhat should we do?	
+qev34_010.scr:13	qev34_010.scr	13	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「高潔なる騎士隊長」が\nエントリーされました。\nユーリから受ける事が出来ます	"The quest ""Noble Knight Captain""\nhas been added.\nYou can accept it from Yuri."	
+qev34_020.scr:0	qev34_020.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x1	悪いな。\n面倒な仕事頼んじまって	Sorry.\nFor dragging you into troublesome work.	
+qev34_020.scr:1	qev34_020.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x2	オレだけならまだしも、\nこのお姫様がどうしても\n付いて行くって聞かなくてな	If it were just me, it'd be fine,\nbut this princess insisted on tagging\nalong and wouldn't listen to reason.	
+qev34_020.scr:2	qev34_020.scr	2	エステル	Estelle	personagem	CRLF x1	今回の件に関しては、\nわたしに一番の責任があります	Regarding this matter,\nI bear the most responsibility.	
+qev34_020.scr:3	qev34_020.scr	3	エステル	Estelle	personagem	CRLF x1	ユーリは、わたしのわがままに\n付き合ってくれているだけなんです	Yuri is only going along\nwith my selfishness.	
+qev34_020.scr:4	qev34_020.scr	4	ユーリ	Yuri Lowell	personagem		ほう、随分殊勝な態度だな	Oho, quite an admirable attitude.	
+qev34_020.scr:5	qev34_020.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x1	エステルのわがままに振り回されんのは、\nいつもの事っちゃ、いつもの事なんだが	Though getting dragged along by Estelle's\nwhims is pretty much a daily routine.	
+qev34_020.scr:6	qev34_020.scr	6	エステル	Estelle	personagem	CRLF x1	もう、ユーリ。\n茶化さないで下さい	Geez, Yuri.\nPlease stop teasing me.	
+qev34_020.scr:7	qev34_020.scr	7	エステル	Estelle	personagem	CRLF x1	……とにかく、きちんと説明すれば\nフレンならきっとわかってくれます	...Anyway, if we explain properly,\nFlynn will surely understand.	
+qev34_020.scr:8	qev34_020.scr	8	エステル	Estelle	personagem		わたしはフレンを信じています	I have faith in Flynn.	
+qev34_020.scr:9	qev34_020.scr	9	ユーリ	Yuri Lowell	personagem	CRLF x1	へいへい。\nそう上手くいきゃいいけどな……	Yeah, yeah.\nI sure hope it goes that smoothly...	
+qev34_020.scr:10	qev34_020.scr	10	ユーリ	Yuri Lowell	personagem		んじゃ、ぼちぼち行きますか	Well, let's get a move on.	
+qev34_020.scr:11	qev34_020.scr	11	エステル	Estelle	personagem	CRLF x1	よろしくお願いします。\n○○	We're counting on you,\n○○.	
+qev34_030.scr:0	qev34_030.scr	0	ユーリ	Yuri Lowell	personagem		指定された場所は、ここだな	The designated place is right here.	
+qev34_030.scr:1	qev34_030.scr	1	エステル	Estelle	personagem		ここに、フレンが……	Flynn is here...	
+qev34_030.scr:2	qev34_030.scr	2	ユーリ	Yuri Lowell	personagem	CRLF x1	エステル。\n先に言っとくが、勝手に一人で……	Estelle.\nI'll tell you now, don't just go off...	
+qev34_030.scr:3	qev34_030.scr	3	エステル	Estelle	personagem		行きましょう、ユーリ	Let's go, Yuri!	
+qev34_030.scr:4	qev34_030.scr	4	ユーリ	Yuri Lowell	personagem		……って、注意してる傍からこれかよ	...I just warned her, and she runs off.	
+qev34_030.scr:5	qev34_030.scr	5	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev34_030.scr:6	qev34_030.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x1	どうにも困ったお姫様だな。\n全く	What a troublesome princess.\nGood grief.	
+qev34_040.scr:0	qev34_040.scr	0	エステル	Estelle	personagem		フレンは……怒っているでしょうか	Do you think Flynn... is angry?	
+qev34_040.scr:1	qev34_040.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x1	怒るっていうより、\n心配は当然してるだろ	Rather than angry,\nhe's naturally worried sick.	
+qev34_040.scr:2	qev34_040.scr	2	ユーリ	Yuri Lowell	personagem	CRLF x2	ま、あいつの事だ。\nお仕置きの三つや四つは、\n覚悟しといた方がいいだろうな	Well, knowing him,\nyou'd better be ready for three\nor four lectures as punishment.	
+qev34_040.scr:3	qev34_040.scr	3	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev34_040.scr:4	qev34_040.scr	4	ユーリ	Yuri Lowell	personagem		ん？　お仕置きか？	Hm? Punishment?	
+qev34_040.scr:5	qev34_040.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x2	ははっ、もちろん\nまともに受けるつもりは\nさらさらないぜ	Haha, of course,\nI've got zero intention of taking it\nseriously.	
+qev34_040.scr:6	qev34_040.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x2	ただ、色々あってな。\nこれから会いに行く奴は、ちっとばかし\n面倒な事情を抱えてんだよ	It's just, a lot has happened.\nThe guy we're meeting has a bit of\na complicated situation to deal with.	
+qev34_040.scr:7	qev34_040.scr	7	エステル	Estelle	personagem	CRLF x1	……でも、わたしはここで\n立ち止まるわけにはいきません	...Still, I cannot afford\nto stop here.	
+qev34_040.scr:8	qev34_040.scr	8	エステル	Estelle	personagem	CRLF x2	城の中にいただけでは\nわからなかったこと…、\n本を読むだけでは学べなかったこと	Things I couldn't understand inside\nthe castle... things I couldn't learn\njust by reading books.	
+qev34_040.scr:9	qev34_040.scr	9	エステル	Estelle	personagem	CRLF x1	このギルドに来て、\nたくさん知る事が出来ました	Since coming to this guild,\nI've learned so many things.	
+qev34_040.scr:10	qev34_040.scr	10	エステル	Estelle	personagem		ですから……	And that's why...	
+qev34_040.scr:11	qev34_040.scr	11	ユーリ	Yuri Lowell	personagem	CRLF x2	だったら、それをフレンの奴に\n直接聞かせてやれば\nいいんじゃないのか？	Then shouldn't you just tell\nall of that directly\nto Flynn?	
+qev34_040.scr:12	qev34_040.scr	12	ユーリ	Yuri Lowell	personagem	CRLF x2	あいつも、エステルが何を考えて\nこんな事をしてるかくらい\nわかってるはずだ	He should know well enough\nwhat Estelle is thinking\nby doing all of this.	
+qev34_040.scr:13	qev34_040.scr	13	ユーリ	Yuri Lowell	personagem		信じてるんだろ、フレンの事？	You believe in Flynn, don't you?	
+qev34_040.scr:14	qev34_040.scr	14	エステル	Estelle	personagem		……はい！	...Yes!	
+qev34_040.scr:15	qev34_040.scr	15	ユーリ	Yuri Lowell	personagem		いい返事だ	Good answer.	
+qev34_040.scr:16	qev34_040.scr	16	ユーリ	Yuri Lowell	personagem	CRLF x1	おし、話がまとまったとこで\n先を急ぐぞ	All right, now that that's settled,\nlet's hurry ahead.	
+qev34_040.scr:17	qev34_040.scr	17	ユーリ	Yuri Lowell	personagem	CRLF x1	あんまり待たせると\nあいつにグダグダ小言を喰らっちまう	Keep him waiting too long, and he'll\nendlessly lecture us.	
+qev34_050.scr:0	qev34_050.scr	0	フレン	Flynn Scifo	personagem		エステリーゼ様！	Lady Estellise!	
+qev34_050.scr:1	qev34_050.scr	1	フレン	Flynn Scifo	personagem		……お怪我はありませんか？	...Are you unharmed?	
+qev34_050.scr:2	qev34_050.scr	2	エステル	Estelle	personagem		はい	Yes.	
+qev34_050.scr:3	qev34_050.scr	3	エステル	Estelle	personagem	CRLF x1	ユーリと、ギルドの皆さんが\nとても良くして下さるので	Yuri and everyone in the guild\nhave treated me very well.	
+qev34_050.scr:4	qev34_050.scr	4	フレン	Flynn Scifo	personagem	CRLF x1	そうですか。\n……良かった	I see.\n...I am glad.	
+qev34_050.scr:5	qev34_050.scr	5	フレン	Flynn Scifo	personagem	CRLF x2	ユーリ。\n手紙にも書いた通りだ。\nエステリーゼ様は返してもらう	Yuri.\nAs I wrote in the letter,\nI will take Lady Estellise back.	
+qev34_050.scr:6	qev34_050.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x1	んで、王女誘拐の嫌疑で\nオレもついでに国へ連行……ってか？	And arrest me for kidnapping the princess\nwhile you're at it, huh?	
+qev34_050.scr:7	qev34_050.scr	7	フレン	Flynn Scifo	personagem	CRLF x1	こちらも独自に調査を行い、\n事情は大方把握している	We conducted our own investigation,\nand understand most of the situation.	
+qev34_050.scr:8	qev34_050.scr	8	フレン	Flynn Scifo	personagem	CRLF x1	無論、君にかけられている嫌疑が\n真実ではない事も調査済だ	Of course, we confirmed the suspicions\nagainst you are not true.	
+qev34_050.scr:9	qev34_050.scr	9	フレン	Flynn Scifo	personagem	CRLF x2	だが、だからと言って\n無断で彼女を国外へ連れ出した行為を\n正当化するわけには……	However, that does not justify\ntaking her out of the country\nwithout permission...	
+qev34_050.scr:10	qev34_050.scr	10	エステル	Estelle	personagem	CRLF x1	フレン。\nわたしはまだ帰りません	Flynn.\nI cannot return yet.	
+qev34_050.scr:11	qev34_050.scr	11	エステル	Estelle	personagem	CRLF x1	わたし達の知らない所で、\n大きな事が起きているんです	Things of great importance are happening\nbeyond our knowledge.	
+qev34_050.scr:12	qev34_050.scr	12	エステル	Estelle	personagem	CRLF x2	植物や、魔物……それだけじゃない、\nたくさんの苦しんでいる人達を\nわたしはこれまで見てきました	Plants, monsters... and not just that,\nI have seen so many people suffering\nup until now.	
+qev34_050.scr:13	qev34_050.scr	13	エステル	Estelle	personagem		彼らをこのままにはしておけません	I cannot simply leave them like this.	
+qev34_050.scr:14	qev34_050.scr	14	エステル	Estelle	personagem	CRLF x2	植物や、魔物……それだけじゃない、\nたくさんの苦しんでいる人達を\nわたしはこれまで見てきました	Plants, monsters... and not just that,\nI have seen so many people suffering\nup until now.	
+qev34_050.scr:15	qev34_050.scr	15	エステル	Estelle	personagem	CRLF x2	まだ、助けを必要としている人は\nたくさんいます。\n彼らをこのままにはしておけません	There are still so many people\nwho need help.\nI cannot simply leave them like this.	
+qev34_050.scr:16	qev34_050.scr	16	エステル	Estelle	personagem		フレン、わかって下さい	Please understand, Flynn.	
+qev34_050.scr:17	qev34_050.scr	17	フレン	Flynn Scifo	personagem		ですが……	But...	
+qev34_050.scr:18	qev34_050.scr	18	ユーリ	Yuri Lowell	personagem	CRLF x2	いいのか？\n無理矢理連れてったところで、\nどうせまた飛び出しちまうぜ	Are you sure about that?\nEven if you take her by force,\nshe'll just run off again anyway.	
+qev34_050.scr:19	qev34_050.scr	19	ユーリ	Yuri Lowell	personagem	CRLF x1	その方が、\nよっぽど危ねえんじゃねえか？	Wouldn't that be\na whole lot more dangerous?	
+qev34_050.scr:20	qev34_050.scr	20	フレン	Flynn Scifo	personagem		…………	......	
+qev34_050.scr:21	qev34_050.scr	21	フレン	Flynn Scifo	personagem	CRLF x1	わかりました。\nただ、条件があります	I understand.\nHowever, I have one condition.	
+qev34_050.scr:22	qev34_050.scr	22	フレン	Flynn Scifo	personagem	CRLF x2	……ユーリ。\n僕もギルドのメンバーに\n正式に加えてはもらえないか	...Yuri.\nCould you officially add me\nas a member of the guild?	
+qev34_050.scr:23	qev34_050.scr	23	ユーリ	Yuri Lowell	personagem	CRLF x1	おいおい。\n正気か？	Whoa, whoa.\nAre you out of your mind?	
+qev34_050.scr:24	qev34_050.scr	24	フレン	Flynn Scifo	personagem		ああ	Yes.	
+qev34_050.scr:25	qev34_050.scr	25	フレン	Flynn Scifo	personagem	CRLF x2	確かに、星晶採掘に関する\n各国の不穏な動向、不可思議な現象は\n僕も気になっていた	Indeed, I too was concerned by the\nstrange phenomena and nations' unrest\nregarding Star Crystal mining.	
+qev34_050.scr:26	qev34_050.scr	26	フレン	Flynn Scifo	personagem		それに……	Besides...	
+qev34_050.scr:27	qev34_050.scr	27	フレン	Flynn Scifo	personagem	CRLF x1	国からは、エステリーゼ様の安全確保が\n最優先任務として言い渡されている	The kingdom has given me orders\nto ensure Lady Estellise's safety.	
+qev34_050.scr:28	qev34_050.scr	28	フレン	Flynn Scifo	personagem	CRLF x2	騎士団の事は、副官達に任せて、\n僕は君達と一緒に任務を\n遂行していこうと思う	Leaving the knights to my lieutenants,\nI intend to carry out this mission\ntogether with all of you.	
+qev34_050.scr:29	qev34_050.scr	29	フレン	Flynn Scifo	personagem		ああ	Yes.	
+qev34_050.scr:30	qev34_050.scr	30	フレン	Flynn Scifo	personagem	CRLF x2	星晶採掘に関する不可思議な現象は\n解決したとはいえ、その真相を\n報告する必要がある	Though the strange phenomena around\nStar Crystal mining are resolved,\nI must still report the truth.	
+qev34_050.scr:31	qev34_050.scr	31	フレン	Flynn Scifo	personagem	CRLF x1	その話もゆっくり聞きたいし。\nそれに……	I'd also like to hear that story.\nBesides...	
+qev34_050.scr:32	qev34_050.scr	32	フレン	Flynn Scifo	personagem	CRLF x1	国からは、エステリーゼ様の安全確保が\n最優先任務として言い渡されている	The kingdom has given me orders\nto ensure Lady Estellise's safety.	
+qev34_050.scr:33	qev34_050.scr	33	フレン	Flynn Scifo	personagem	CRLF x2	騎士団の事は、副官達に任せて、\n僕は君達と一緒に任務を\n遂行していこうと思う	Leaving the knights to my lieutenants,\nI intend to carry out this mission\ntogether with all of you.	
+qev34_050.scr:34	qev34_050.scr	34	ユーリ	Yuri Lowell	personagem		任務ねえ……	A mission, huh...?	
+qev34_050.scr:35	qev34_050.scr	35	フレン	Flynn Scifo	personagem	CRLF x2	もう一つ。\n任務である以上、事の真偽が明白になり\n事態が落ち着いてきたら	One more thing.\nSince this is a mission, once the truth\nis clear and things have calmed down...	
+qev34_050.scr:36	qev34_050.scr	36	フレン	Flynn Scifo	personagem	CRLF x1	エステリーゼ様には、\n国へ戻っていただく	Lady Estellise will have to\nreturn to the kingdom.	
+qev34_050.scr:37	qev34_050.scr	37	ユーリ	Yuri Lowell	personagem	CRLF x1	やれやれ。\nとんだ屁理屈を考えたもんだ	Good grief.\nWhat a ridiculous excuse you made up.	
+qev34_050.scr:38	qev34_050.scr	38	ユーリ	Yuri Lowell	personagem		どうするんだ、エステル？	What do you want to do, Estelle?	
+qev34_050.scr:39	qev34_050.scr	39	エステル	Estelle	personagem		わたしはそれで構いません	That is fine with me.	
+qev34_050.scr:40	qev34_050.scr	40	エステル	Estelle	personagem	CRLF x1	じゃあ、これからはまた\nフレンと一緒にいられるんですね	So that means we can be together\nagain from now on, Flynn.	
+qev34_050.scr:41	qev34_050.scr	41	フレン	Flynn Scifo	personagem		そういう事になりますね	That would seem to be the case.	
+qev34_050.scr:42	qev34_050.scr	42	フレン	Flynn Scifo	personagem	CRLF x1	これからよろしくお願いします。\nエステリーゼ様	I look forward to working with you,\nLady Estellise.	
+qev34_060.scr:0	qev34_060.scr	0	ユーリ	Yuri Lowell	personagem		んじゃお前、ちっと付き合え	Well then, come with me for a bit.	
+qev34_060.scr:1	qev34_060.scr	1	フレン	Flynn Scifo	personagem		うん？　どこにだい？	Hm? Where to?	
+qev34_060.scr:2	qev34_060.scr	2	ユーリ	Yuri Lowell	personagem	CRLF x1	ギルドに入んなら、\nリーダーに挨拶するのが筋ってもんだ	If you're joining the guild, greeting\nthe leader is standard courtesy.	
+qev34_060.scr:3	qev34_060.scr	3	フレン	Flynn Scifo	personagem	CRLF x1	ああ、すまない。\nそれなら、少しだけ待ってくれないか	Ah, excuse me.\nIn that case, could you wait a moment?	
+qev34_060.scr:4	qev34_060.scr	4	フレン	Flynn Scifo	personagem	CRLF x1	挨拶が遅れて申し訳ない。\n僕は、フレン・シーフォ	Pardon me for the late introduction.\nI am Flynn Scifo.	
+qev34_060.scr:5	qev34_060.scr	5	フレン	Flynn Scifo	personagem	CRLF x1	ガルバンゾ国騎士団で、\n隊長を務めている	I serve as the captain\nin the Knights of Garbanzo.	
+qev34_060.scr:6	qev34_060.scr	6	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev34_060.scr:7	qev34_060.scr	7	フレン	Flynn Scifo	personagem	CRLF x1	君の噂は聞いていた。\nこれから、よろしく	I have heard rumors about you.\nI look forward to working together.	
+qev34_060.scr:8	qev34_060.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x1	ああ、そういや\n紹介がまだだっけか	Oh right, I guess\nan introduction hadn't happened yet.	
+qev34_060.scr:9	qev34_060.scr	9	ユーリ	Yuri Lowell	personagem	CRLF x1	ったく。\n相変わらず律儀だな	Sheesh.\nFormal and proper as always.	
+qev34_060.scr:10	qev34_060.scr	10	フレン	Flynn Scifo	personagem	CRLF x2	ユーリが大雑把過ぎる\nだけなんじゃないか。\n相変わらずなのはそっちもだよ	Isn't it just that Yuri is too sloppy?\nYou're the one who\nhasn't changed a bit.	
+qev34_060.scr:11	qev34_060.scr	11	フレン	Flynn Scifo	personagem	CRLF x1	さ、行こうか。\nリーダーの所へ案内してくれ	Now, shall we go?\nPlease take me to the leader.	
+qev34_060.scr:12	qev34_060.scr	12	ユーリ	Yuri Lowell	personagem	CRLF x1	全く……、どこにいても、\n好き勝手言いやがるぜ	Man... No matter where he is,\nhe just says whatever he pleases.	
+qev34_060.scr:13	qev34_060.scr	13	(mensagem de sistema)	(mensagem de sistema)	sistema		フレンがアドリビトムに加入しました	Flynn joined Ad Libitum.	

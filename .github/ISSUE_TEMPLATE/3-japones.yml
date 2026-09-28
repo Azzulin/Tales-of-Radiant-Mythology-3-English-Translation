@@ -1,0 +1,49 @@
+name: Untranslated text
+description: Japanese text still showing in the game.
+title: "[Untranslated] "
+labels: ["untranslated"]
+body:
+  - type: input
+    id: build
+    attributes:
+      label: Build
+      description: Patch version you are testing.
+      placeholder: en20
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: Chapter, town/dungeon, NPC or menu, and what you were doing.
+      placeholder: "Quest board, quest 'Collect herbs', description screen"
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type of text
+      options:
+        - Story dialogue
+        - Skit / character chat
+        - NPC dialogue
+        - Quest board / quest text
+        - Menu / system message
+        - Item / skill / equipment name or description
+        - Battle text
+        - Graphic / image with text
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drag and drop an image here. Required, since it lets us find the exact string.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Optional.

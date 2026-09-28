@@ -1,0 +1,75 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+tev04_001.scr:0	tev04_001.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	今回のクエストでは\n「採掘のやり方」について\n学んでもらうけども…		
+tev04_001.scr:1	tev04_001.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	その前に、「採掘クエスト」が何かを\n教えておかなきゃね		
+tev04_001.scr:2	tev04_001.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	「採掘クエスト」というのは、ダンジョンに\n存在する採掘ポイントで、目標のアイテムを\n入手する事なの		
+tev04_001.scr:3	tev04_001.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	で、今回はブラウニー坑道へ行って、\n「銅」を３個「採掘」するのがあなたの仕事		
+tev04_001.scr:4	tev04_001.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	それじゃあ、しっかり「採掘」について\n学んできてね！		
+tev04_002.scr:0	tev04_002.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	クエストを受けたら、早く目的地に向かう！\nこれはギルドメンバーとしての努めよ？		
+tev04_002.scr:1	tev04_002.scr	1	アンジュ	Ange Serena	personagem		さあ、早く取り掛かりなさい		
+tev04_003.scr:0	tev04_003.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	今回の目的地は、ブラウニー坑道だよ。\nさあ、早く船を出よっ！		
+tev04_004.scr:0	tev04_004.scr	0	(narracao)	(narracao)	narracao	CRLF x1	ワールドマップでも、\n△ボタンでメニューの起動が可能です		
+tev04_004.scr:1	tev04_004.scr	1	(narracao)	(narracao)	narracao	CRLF x1	メニューからのセーブも可能ですので、\n有効に利用しましょう		
+tev04_005.scr:0	tev04_005.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	○○、\n今回の目的地はブラウニー坑道だよ		
+tev04_006.scr:0	tev04_006.scr	0	カノンノ	Kanonno Grassvalley	personagem		それじゃあ、今回の目的をもう一度ね		
+tev04_006.scr:1	tev04_006.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ここブラウニー坑道にて\n「銅」を３個「採掘」する事！		
+tev04_006.scr:2	tev04_006.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	まずは、採掘をする場所である\n「採掘ポイント」を探さなくっちゃ		
+tev04_006.scr:3	tev04_006.scr	3	カノンノ	Kanonno Grassvalley	personagem		それじゃあ、進もう！		
+tev04_007.scr:0	tev04_007.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あっ、そっちじゃないよ。\n今回の採掘ポイントは、別の所なの		
+tev04_007.scr:1	tev04_007.scr	1	カノンノ	Kanonno Grassvalley	personagem		さ、道を戻ろう		
+tev04_008.scr:0	tev04_008.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	あ、こっちはまだ駄目だよ。\n魔物だって強いのがいるし、\n危険だもの		
+tev04_008.scr:1	tev04_008.scr	1	カノンノ	Kanonno Grassvalley	personagem		元の道へ戻ろう		
+tev04_009.scr:0	tev04_009.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	こっちは行き止まりだよ。\n引き返そう		
+tev04_010.scr:0	tev04_010.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	ダンジョンには、通行を妨げる\nギミックがあります		
+tev04_010.scr:1	tev04_010.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	また、ギミック解除の手段は\nゲームの進行によって可能になるもの、\nパズルの様な仕掛けのものなど様々です		
+tev04_011.scr:0	tev04_011.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あちゃあ、邪魔されちゃってるなぁ。\n採掘ポイントはこの先なんだけど		
+tev04_011.scr:1	tev04_011.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	仕方ないな。\nじゃ、○○、行くよ！		
+tev04_012.scr:0	tev04_012.scr	0	(narracao)	(narracao)	narracao	CRLF x2	Ｒボタンでターゲット切り替え\nＲボタンを押している間はゲームが停止し、\nその間方向キーで切り替えが出来る		
+tev04_013.scr:0	tev04_013.scr	0	カノンノ	Kanonno Grassvalley	personagem		あ、そこの床にあるスイッチ！		
+tev04_013.scr:1	tev04_013.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	それを踏むと、扉が開閉する仕組みに\nなってるんだよ		
+tev04_014.scr:0	tev04_014.scr	0	カノンノ	Kanonno Grassvalley	personagem		あの子、動きそうにないね		
+tev04_014.scr:1	tev04_014.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うーん。\nこっちからぶつかって行くしかないか…		
+tev04_014.scr:2	tev04_014.scr	2	カノンノ	Kanonno Grassvalley	personagem		じゃあ、行くよッ！		
+tev04_015.scr:0	tev04_015.scr	0	(narracao)	(narracao)	narracao	CRLF x2	アナログパッドで、\n戦闘フィールドを自由に移動。\n有利な位置取りを行う事が出来る		
+tev04_016.scr:0	tev04_016.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ほら。\nあそこに見えるのが採掘ポイント！		
+tev04_016.scr:1	tev04_016.scr	1	カノンノ	Kanonno Grassvalley	personagem		近づいて、○ボタンを押してごらん？		
+tev04_017.scr:0	tev04_017.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	銅を３個「採掘」出来たね。\nこれで、このクエストの目的は達成だよ		
+tev04_017.scr:1	tev04_017.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	そうそう。\n「採掘」の他にも「採取」って言うのが\nあるんだよ		
+tev04_017.scr:2	tev04_017.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ダンジョンの中に「採取ポイント」って\nいうのがあって、そこで○ボタンを押すの。\n同じ様な感じでしょ？		
+tev04_017.scr:3	tev04_017.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	さあ、早く帰って\nアンジュさんに報告しよっ！		
+tev04_017.scr:4	tev04_017.scr	4	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	採取、採掘ポイントは、\nダンジョンに入り直すと再び現れます		
+tev04_017.scr:5	tev04_017.scr	5	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	同様に、赤い宝箱も\nダンジョンに入り直す事で復活します		
+tev04_019.scr:0	tev04_019.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	アンジュさんに報告をしたら、\nこのクエストは完了になるよ		
+tev04_020.scr:0	tev04_020.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	お帰りなさい。\nブラウニー坑道で採掘した銅３個、\n確かに受け取りました		
+tev04_020.scr:1	tev04_020.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	それじゃあ、クエスト完了したあなたには\n報酬を渡さなくっちゃね		
+tev04_020.scr:2	tev04_020.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	まあ、正式なメンバーとなれば\n大体こんな感じでギルドの仕事を\nしてもらう事になるんだけど…		
+tev04_020.scr:3	tev04_020.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	そうねぇ…。\nもう、一人で仕事をしても\n大丈夫…かなぁ		
+tev04_020.scr:4	tev04_020.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	クエストの難易度は様々だからね。\n簡単なのもあるし、ハードなものも\nあるよ		
+tev04_020.scr:5	tev04_020.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	でも、結局は慣れだから。\nそんなに不安に思う事はないよ		
+tev04_020.scr:6	tev04_020.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	ただ、その前に。\n一人前のメンバーとなってもらう為に\n最後の入隊試験をしましょうか		
+tev04_020.scr:7	tev04_020.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	それが終われば、\n正式なメンバーになれるんだよ		
+tev04_020.scr:8	tev04_020.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	入隊試験はどんなクエストですか？\n私がやったのと同じですか？		
+tev04_020.scr:9	tev04_020.scr	9	アンジュ	Ange Serena	personagem		そう焦っては駄目よ、カノンノ		
+tev04_020.scr:10	tev04_020.scr	10	アンジュ	Ange Serena	personagem	CRLF x2	それより、残りのメンバーが帰還したから\n○○と顔合わせを\nしてもらわないと		
+tev04_020.scr:11	tev04_020.scr	11	カノンノ	Kanonno Grassvalley	personagem		はい		
+tev04_020.scr:12	tev04_020.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	じゃあ、○○。\n残りのメンバーへ挨拶しにまわろう		
+tev04_020.scr:13	tev04_020.scr	13	カノンノ	Kanonno Grassvalley	personagem		みんな、下の船倉にいるから		
+tev04_020.scr:14	tev04_020.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	じゃあ、わたしはクエストを\n用意しておくね		
+tev04_020.scr:15	tev04_020.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		やっと見習い卒業か、と聞く		
+tev04_020.scr:16	tev04_020.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		実際はもっとハードなのかと聞く		
+tev04_021.scr:0	tev04_021.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	最後の入隊試験となると、気もそぞろって\n感じかもしれないけど…		
+tev04_021.scr:1	tev04_021.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	今はメンバーへの挨拶を\n済ませてきなさい		
+tev04_022.scr:0	tev04_022.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ここは、船倉だよ。\nこの階は、みんなの部屋として\n使ってあるの		
+tev04_022.scr:1	tev04_022.scr	1	カノンノ	Kanonno Grassvalley	personagem		それじゃあ、挨拶回りをしよっか！		
+tev04_023.scr:0	tev04_023.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	それじゃあ、挨拶も済んだし\nアンジュさんの所に行こう		
+tev04_023.scr:1	tev04_023.scr	1	カノンノ	Kanonno Grassvalley	personagem		入隊試験が用意されてるはずだよ		
+tev04_023.scr:2	tev04_023.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		「人物名鑑」が閲覧可能となりました		
+tev04_023.scr:3	tev04_023.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	閲覧する場合は、\nメインメニュー、ライブラリの\n「人物名鑑」を選択して下さい		
+tev04_024.scr:0	tev04_024.scr	0	(narracao)	(narracao)	narracao		「人物名鑑」が閲覧可能となりました		
+tev04_024.scr:1	tev04_024.scr	1	(narracao)	(narracao)	narracao	CRLF x2	閲覧する場合は、\nメインメニュー、ライブラリの\n「人物名鑑」を選択して下さい		
+tev04_025.scr:0	tev04_025.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ねえ、○○。\nまずは、アンジュさんに\n挨拶が終わった事を報告しようよ		
+tev04_026.scr:0	tev04_026.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	はい、お疲れ様。\nやっとアドリビトムのメンバー全員との\n顔合わせが終わったね		
+tev04_026.scr:1	tev04_026.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	さて。\nあなたが、正式なアドリビトムの一員と\nなる為の入隊試験を用意しておいたよ		
+tev04_026.scr:2	tev04_026.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	大丈夫よ、カノンノも一緒だから\nきっと難なくクリアする事が出来るはず		
+tev04_026.scr:3	tev04_026.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	じゃ、クエストを受けたくなったら\nわたしの所にいらっしゃいね		
+tev04_027.scr:0	tev04_027.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	入隊試験のクエストは私もやったよ。\nでも、そう難しいものではなかったから		
+tev04_027.scr:1	tev04_027.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	受けたくなったら、アンジュさんの所で\nクエストを受けてきてね		

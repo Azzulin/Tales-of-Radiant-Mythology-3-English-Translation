@@ -1,0 +1,115 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev23_010.scr:0	mev23_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	いよいよね…。\nやっとラザリスを封印出来る	At last...\nWe can finally seal Lazaris away.	
+mev23_010.scr:1	mev23_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	でも、これでアドリビトムの仕事が\n終わるわけではない	However, this doesn't mean\nAd Libitum's work is finished.	
+mev23_010.scr:2	mev23_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	ラザリスの為にも、\nこの世界はもっと変わらなきゃいけない	For Lazaris's sake too,\nthis world needs to change even more.	
+mev23_010.scr:3	mev23_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	誰もが手を取り合い、繋がり、\nお互いを受け入れられる世界にね…	Into a world where everyone joins hands,\nconnecting and accepting one another...	
+mev23_010.scr:4	mev23_010.scr	4	アンジュ	Ange Serena	personagem		さて、今回の仕事の説明をするよ	Now, let me explain this mission.	
+mev23_010.scr:5	mev23_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	聖地ラングリースのボルテックスに\n向かってちょうだい	Please head to the Vortex\nin the Holy Land of Langriths.	
+mev23_010.scr:6	mev23_010.scr	6	アンジュ	Ange Serena	personagem		同行者は、リタとカノンノ	Your companions are Rita and Kanonno.	
+mev23_010.scr:7	mev23_010.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	目的地に着けば、後はリタがドクメントを\n世界樹へ送り込んでくれるから	Once you arrive at your destination, Rita\nwill send the Document to the World Tree.	
+mev23_010.scr:8	mev23_010.scr	8	アンジュ	Ange Serena	personagem		それじゃ、気を付けて行ってらっしゃい	Well then, take care on your way.	
+mev23_020.scr:0	mev23_020.scr	0	カノンノ	Kanonno Grassvalley	personagem		ねえ、○○…	Hey, ○○...	
+mev23_020.scr:1	mev23_020.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	これが…終わったら、\n世界樹に帰ってしまうの？	Once this is... over,\nwill you return to the World Tree?	
+mev23_020.scr:2	mev23_020.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん。\nそれが、あなたの意志なのね	Yeah.\nThat is your wish, isn't it?	
+mev23_020.scr:3	mev23_020.scr	3	カノンノ	Kanonno Grassvalley	personagem		まだ、やる事…？	Still things to do...?	
+mev23_020.scr:4	mev23_020.scr	4	リタ	Rita Mordio	personagem	CRLF x2	ラザリスを封印した後も\n世界の復興に向けて、\nまだまだ頑張りたいって事でしょ	Meaning that even after sealing Lazaris,\nyou still want to keep giving your all\nto rebuild the world, right?	
+mev23_020.scr:5	mev23_020.scr	5	カノンノ	Kanonno Grassvalley	personagem		…手を、貸して欲しいって？	...You want us to lend a hand?	
+mev23_020.scr:6	mev23_020.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	もちろんだよ！\nアドリビトムのみんなも、手を貸してくれる。\nみんなで世界を変えられるよ！！	Of course!\nEveryone in Ad Libitum will help too.\nTogether, we can change the world!!	
+mev23_020.scr:7	mev23_020.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	この旅でたくさんの創造を見てきた。\n私達の未来は予測するものじゃなく、\n創り出すもの	I saw so much creation on this journey.\nOur future isn't something to predict;\nit's something to create!	
+mev23_020.scr:8	mev23_020.scr	8	リタ	Rita Mordio	personagem	CRLF x2	そ！\nどんな世界にするかは、\nあたし達一人ひとりにかかってる	Yup!\nWhat kind of world it becomes\ndepends on each and every one of us.	
+mev23_020.scr:9	mev23_020.scr	9	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	みんなで変えていこう。\nラザリスと生きていける世界を、\n私達はきっと作り出せるよ！	Let's change it together.\nA world where we can live with Lazaris...\nI know we can surely create it!	
+mev23_020.scr:10	mev23_020.scr	10	(opcao do jogador)	(opcao do jogador)	escolha		そのつもりはない、と言う	Say you have no intention of leaving	
+mev23_020.scr:11	mev23_020.scr	11	(opcao do jogador)	(opcao do jogador)	escolha		まだやる事がある、と言う	Say you still have things to do	
+mev23_030.scr:0	mev23_030.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	前に来たボルテックスだ。\nやっぱりマナが強烈で、\nくらっとくるなぁ	It's the Vortex we visited before.\nThe mana is so intense here after all,\nit makes my head spin.	
+mev23_030.scr:1	mev23_030.scr	1	リタ	Rita Mordio	personagem	CRLF x1	残念ながら、これはお目当ての\nボルテックスじゃないのよね	Unfortunately, this isn't the Vortex\nwe're looking for.	
+mev23_030.scr:2	mev23_030.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	えっ、そうなの？\n他にもあったんだ	Huh, really?\nThere's another one?	
+mev23_030.scr:3	mev23_030.scr	3	リタ	Rita Mordio	personagem	CRLF x1	ここのボルテックスは、\n世界樹が生み出すマナが「噴出」する所	This Vortex is where the mana generated\nby the World Tree 'erupts' outward.	
+mev23_030.scr:4	mev23_030.scr	4	リタ	Rita Mordio	personagem	CRLF x2	今回あたし達が探しているのは、\n世界中を巡ったマナが\n世界樹に「吸収」されるボルテックスよ	What we are searching for this time\nis a Vortex where world-circulated mana\nis 'absorbed' into the World Tree.	
+mev23_030.scr:5	mev23_030.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	でも、ここから先は行き止まりだし\nどう行けばいいの？	But past here is a dead end,\nso how do we go any further?	
+mev23_030.scr:6	mev23_030.scr	6	リタ	Rita Mordio	personagem		う…	Urgh...	
+mev23_030.scr:7	mev23_030.scr	7	リタ	Rita Mordio	personagem	CRLF x1	う、うるさいわね！\n計算済みに決まってるでしょ！！	Sh-Shut up!\nOf course I already accounted for that!!	
+mev23_030.scr:8	mev23_030.scr	8	リタ	Rita Mordio	personagem		やっかましい、そこ！	Quiet over there, you!	
+mev23_030.scr:9	mev23_030.scr	9	リタ	Rita Mordio	personagem		あー、もう、わかったわよっ！	Aargh, jeez, fine already!	
+mev23_030.scr:10	mev23_030.scr	10	リタ	Rita Mordio	personagem		無い道は作りゃあいいのよ！	If there's no path, I'll just make one!	
+mev23_030.scr:11	mev23_030.scr	11	リタ	Rita Mordio	personagem		何か文句ある？	Got a problem with that?!	
+mev23_030.scr:12	mev23_030.scr	12	リタ	Rita Mordio	personagem		ほら、行くわよ	Come on, let's move.	
+mev23_030.scr:13	mev23_030.scr	13	(opcao do jogador)	(opcao do jogador)	escolha		道を間違えたか、と聞く	Ask if she took the wrong way	
+mev23_030.scr:14	mev23_030.scr	14	(opcao do jogador)	(opcao do jogador)	escolha		早く道を教えて、とせがむ	Beg her to show the way quickly	
+mev23_040.scr:0	mev23_040.scr	0	リタ	Rita Mordio	personagem	CRLF x1	「ヒトの祖」がソウルアルケミーの力を\n手放した理由、今なら理解出来るわ	Why the Progenitor of Man gave up\nSoul Alchemy... I think I understand now.	
+mev23_040.scr:1	mev23_040.scr	1	カノンノ	Kanonno Grassvalley	personagem		ヴェラトローパにいた「ヒトの祖」は…	The Progenitor of Man in Veratropa...	
+mev23_040.scr:2	mev23_040.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	自ら地上に降りて、世界と共に\n創造の担い手として生きる事を選んだ、\nだよね？	chose to descend to earth and live as\nstewards of creation alongside the world,\nright?	
+mev23_040.scr:3	mev23_040.scr	3	リタ	Rita Mordio	personagem	CRLF x1	こんな、スゴイ力を手放すなんて\nバカねって思ってた	I used to think giving up such power\nwas completely foolish.	
+mev23_040.scr:4	mev23_040.scr	4	リタ	Rita Mordio	personagem	CRLF x2	何でも自分の手で作り出せる力があれば、\n世界に飢えや貧困なんて、\n起こらないで済んだのに、って思ってた	If you could create anything by hand,\nhunger and poverty would never exist\nin this world, I used to think.	
+mev23_040.scr:5	mev23_040.scr	5	リタ	Rita Mordio	personagem	CRLF x1	でも、それじゃあ、自分や他人の資質に\n気付けないまま一生が終わっちゃうのよね	Yet like that, your life would end without\never discovering your or others' gifts.	
+mev23_040.scr:6	mev23_040.scr	6	カノンノ	Kanonno Grassvalley	personagem		うん	Yeah.	
+mev23_040.scr:7	mev23_040.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そうなっていたら、きっと私達、\n手を取り合う事は知らなかったハズだよ	If that happened, we surely never would\nhave learned how to join hands.	
+mev23_040.scr:8	mev23_040.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	誰かの事が必要だったり、\n自分も誰かに必要とされたりする事を、\n知らずに生きていたと思うの	I think we would have lived without ever\nknowing what it means to need someone,\nor to be needed by someone in return.	
+mev23_040.scr:9	mev23_040.scr	9	リタ	Rita Mordio	personagem	CRLF x2	ソウルアルケミーの力は確かに便利だし、\n封印次元を作るには、\nこの力が無ければ不可能だったと思う	Soul Alchemy is definitely useful, and\nforging the Sealing Dimension would have\nbeen impossible without it, I think.	
+mev23_040.scr:10	mev23_040.scr	10	リタ	Rita Mordio	personagem	CRLF x1	でも、これからの世界を生きて行くのには、\n不要だわ	However, to live in the world from now on,\nit is simply unnecessary.	
+mev23_040.scr:11	mev23_040.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	え、でもリタ…。\nあなたの研究テーマが無くなっちゃうよ…？	Wait, but Rita...\nWon't you lose your research subject...?	
+mev23_040.scr:12	mev23_040.scr	12	リタ	Rita Mordio	personagem	CRLF x1	望めば研究対象なんかすぐ見つかるわよ。\n生きていれば、何だって生み出していけるわ	I can always find new subjects to study.\nAs long as we live, we can create anew!	
+mev23_040.scr:13	mev23_040.scr	13	カノンノ	Kanonno Grassvalley	personagem		うん、そうだね	Yeah, you're right.	
+mev23_050.scr:0	mev23_050.scr	0	リタ	Rita Mordio	personagem		ほら、あれが目的のボルテックスよ	Look, that's our target Vortex!	
+mev23_050.scr:1	mev23_050.scr	1	カノンノ	Kanonno Grassvalley	personagem		マナが吸い込まれて行ってる	Mana is being sucked right in.	
+mev23_050.scr:2	mev23_050.scr	2	リタ	Rita Mordio	personagem	CRLF x2	このボルテックスは、\n世界樹の根に繋がってるって\nセルシウスが言ってた	Celsius told me this Vortex\nconnects directly to the roots\nof the World Tree.	
+mev23_050.scr:3	mev23_050.scr	3	リタ	Rita Mordio	personagem	CRLF x2	みんなで集めた星晶の代わり…。\n封印次元に必要なドクメントを、\nここから世界樹に流すのよ	In place of the Star Crystals we sought,\nwe channel the Sealing Dimension's\nDocuments into the Tree from here!	
+mev23_050.scr:4	mev23_050.scr	4	リタ	Rita Mordio	personagem	CRLF x1	で、世界樹には封印次元を\n展開してもらうの	Then the World Tree will expand\nthe Sealing Dimension.	
+mev23_050.scr:5	mev23_050.scr	5	リタ	Rita Mordio	personagem	CRLF x1	っと、論ずるよりも実行ね。\n始めるわ	Well, action speaks louder than words.\nHere goes!	
+mev23_050.scr:6	mev23_050.scr	6	リタ	Rita Mordio	personagem	CRLF x1	世界中のみんなが集めた\nドクメントなんだから…！	These are Documents gathered by\neveryone across the whole world...!	
+mev23_050.scr:7	mev23_050.scr	7	リタ	Rita Mordio	personagem		うまくいって…！！	Please... work...!!	
+mev23_060.scr:0	mev23_060.scr	0	ロックス	Rocks	personagem		あれが、ラザリスの為のゆりかご…	So that is the cradle for Lazaris...	
+mev23_060.scr:1	mev23_060.scr	1	ニアタ	Niata Monad	personagem		待て…、封印次元が不安定に…！！	Wait! The Sealing Dimension is unstable!!	
+mev23_070.scr:0	mev23_070.scr	0	カノンノ	Kanonno Grassvalley	personagem		…や……！！	...N-No...!!	
+mev23_080.scr:0	mev23_080.scr	0	カノンノ	Kanonno Grassvalley	personagem		○○、気が付いた…	○○, you're awake...	
+mev23_080.scr:1	mev23_080.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	良かった。\n良かったよぉ…	Thank goodness.\nThank goodness, really...	
+mev23_080.scr:2	mev23_080.scr	2	ニアタ	Niata Monad	personagem	CRLF x1	世界樹とディセンダーは、\n一心同体だからな…	The World Tree and the Descender\nare of one body and soul...	
+mev23_080.scr:3	mev23_080.scr	3	ニアタ	Niata Monad	personagem		あの痛みをそのまま受けたか…	You bore that pain directly, then...	
+mev23_080.scr:4	mev23_080.scr	4	リタ	Rita Mordio	personagem	CRLF x1	まさか…。\n封印次元の力が及ばなかったなんて…	It can't be...\nThe Sealing Dimension was not enough...?	
+mev23_080.scr:5	mev23_080.scr	5	ハロルド	Harold Berselius	personagem	CRLF x1	世界樹自体の衰えも\nあるかもしれないわね	The World Tree itself might be\nweakening, as well.	
+mev23_080.scr:6	mev23_080.scr	6	ハロルド	Harold Berselius	personagem	CRLF x2	ラザリスだって、\nこの世界に現れた時とは、\n変化してるかもしれないもの	Lazaris may have changed\ncompared to when she first appeared\nin this world, after all.	
+mev23_080.scr:7	mev23_080.scr	7	リタ	Rita Mordio	personagem	CRLF x1	世界樹が侵食されてるわ。\nこのまま、生命の場を奪うつもりね	The World Tree is being eroded.\nShe means to rob the realm of all life!	
+mev23_080.scr:8	mev23_080.scr	8	ニアタ	Niata Monad	personagem		ディセンダーにまで侵食が！	The erosion is reaching the Descender!	
+mev23_080.scr:9	mev23_080.scr	9	ニアタ	Niata Monad	personagem		行くのだな…	So you are going...	
+mev23_080.scr:10	mev23_080.scr	10	ニアタ	Niata Monad	personagem		さても壮大な兄弟ゲンカになりそうだ	A grand sibling quarrel this shall be.	
+mev23_080.scr:11	mev23_080.scr	11	ニアタ	Niata Monad	personagem	CRLF x1	ディセンダー。\n自分の信じる、創造を行いなさい	Descender.\nEnact the creation you truly believe in.	
+mev23_090.scr:0	mev23_090.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	お仕事、ご苦労様…。\n………	Thank you for your hard work...\n.........	
+mev23_090.scr:1	mev23_090.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	なぁに？\n何か言いたそうな顔をしてるね	What is it?\nYou look like you have something to say.	
+mev23_090.scr:2	mev23_090.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	いいよ。\n何でも言って、○○	Go ahead.\nTell me anything, ○○.	
+mev23_090.scr:3	mev23_090.scr	3	アンジュ	Ange Serena	personagem		それは、あなたからの依頼ね	So that is your quest for us.	
+mev23_090.scr:4	mev23_090.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	行くつもりなんでしょ。\n一人で。\nラザリスの元へ	You intend to go, don't you?\nAll alone.\nStraight to Lazaris.	
+mev23_090.scr:5	mev23_090.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	脱退するかどうかより、\nやる事やってからじゃないと困るよ？	Rather than quitting the guild,\nfinish what you must do first, all right?	
+mev23_090.scr:6	mev23_090.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	それにね、\nわたし達を仲間はずれにしようなんて、\nさせやしないんだから	Besides,\nwe won't ever let you\nleave us out in the cold!	
+mev23_090.scr:7	mev23_090.scr	7	アンジュ	Ange Serena	personagem		……………………	................	
+mev23_090.scr:8	mev23_090.scr	8	アンジュ	Ange Serena	personagem		世界樹の観測はどう？	How are observations of the Tree?	
+mev23_090.scr:9	mev23_090.scr	9	リタ	Rita Mordio	personagem	CRLF x1	世界樹の理が変わり始めている。\n世界樹自体が異空間といったところね	The laws of the World Tree are shifting.\nIt has basically become an alien space.	
+mev23_090.scr:10	mev23_090.scr	10	アンジュ	Ange Serena	personagem		行ける？	Can we get in?	
+mev23_090.scr:11	mev23_090.scr	11	リタ	Rita Mordio	personagem	CRLF x2	行くしかないんでしょ。\nこのまま負けるのはイヤだし。\n自分に負けるのもね	We have no choice but to go, right?\nI refuse to lose like this.\nOr lose to myself, either!	
+mev23_090.scr:12	mev23_090.scr	12	リタ	Rita Mordio	personagem	CRLF x1	そうね、まずはその得体の知れない空間に\n行っても大丈夫な方法を考えなきゃ	Right, first we must figure out a way\nto enter that unknown space safely.	
+mev23_090.scr:13	mev23_090.scr	13	ニアタ	Niata Monad	personagem		ならば、我々の防壁機能を使ってくれ	Then, pray utilize our barrier function.	
+mev23_090.scr:14	mev23_090.scr	14	ニアタ	Niata Monad	personagem	CRLF x2	物理法則が異なる数々の世界を\n渡って来た身体だ。\n多少はあの空間に耐えられるだろう	Our vessel crossed many worlds\nwith varying laws of physics.\nIt should endure that space somewhat.	
+mev23_090.scr:15	mev23_090.scr	15	ニアタ	Niata Monad	personagem	CRLF x2	我々を改造し、防壁の効果範囲を広げてくれ。\nそれで○○を守る事が\n出来るはずだ	Modify us to expand our barrier's reach.\nWith that, we should be able to\nprotect ○○.	
+mev23_090.scr:16	mev23_090.scr	16	ニアタ	Niata Monad	personagem	CRLF x1	だが…侵食の影響は、どうにもならん。\n時間の問題という事になるが	However, erosion cannot be prevented.\nIt remains merely a matter of time.	
+mev23_090.scr:17	mev23_090.scr	17	リタ	Rita Mordio	personagem		あ…ありがと	Th-Thanks...	
+mev23_090.scr:18	mev23_090.scr	18	リタ	Rita Mordio	personagem	CRLF x1	あんたがここに居てくれたおかげで、\nまだ諦めなくて済むんだもの	Thanks to you being here with us,\nwe don't have to give up just yet.	
+mev23_090.scr:19	mev23_090.scr	19	リタ	Rita Mordio	personagem		…改造、やらせてもらうわ	...I'll carry out the modifications!	
+mev23_090.scr:20	mev23_090.scr	20	リタ	Rita Mordio	personagem	CRLF x2	諦めない…！\n何とかする…あたしが何とかして見せるから、\n待ってなさい！	I won't give up...!\nI'll handle this... I'll manage somehow,\nso just you wait!	
+mev23_090.scr:21	mev23_090.scr	21	リタ	Rita Mordio	personagem		一筋の光明でも、大きな光にしてみせる！	Even a single spark, I'll make it blaze!	
+mev23_090.scr:22	mev23_090.scr	22	アンジュ	Ange Serena	personagem		…と言うわけよ、○○	...And so, that's how it is, ○○.	
+mev23_090.scr:23	mev23_090.scr	23	アンジュ	Ange Serena	personagem	CRLF x1	リタの作業が終わるまで、\nもう少し時間をちょうだい	Please give us a little more time\nuntil Rita finishes her work.	
+mev23_090.scr:24	mev23_090.scr	24	アンジュ	Ange Serena	personagem	CRLF x2	わたしからの依頼として、\n世界樹の中のエラン・ヴィタールに\n行ける様にしておくから	I'll set up a quest from myself\nallowing you to enter the Elan Vital\nwithin the World Tree.	
+mev23_090.scr:25	mev23_090.scr	25	リタ	Rita Mordio	personagem		エラン・ヴィタール？	Elan Vital?	
+mev23_090.scr:26	mev23_090.scr	26	アンジュ	Ange Serena	personagem	CRLF x1	生命の躍動という意味よ。\nラザリスがいる、生きた空間	It signifies the vital impetus of life.\nA living space where Lazaris resides.	
+mev23_090.scr:27	mev23_090.scr	27	アンジュ	Ange Serena	personagem	CRLF x1	ラザリスの世界ジルディアが\n生まれる所…	The place where Lazaris's world,\nGildea, is born...	
+mev23_090.scr:28	mev23_090.scr	28	(opcao do jogador)	(opcao do jogador)	escolha		世界樹へ行かせて欲しい、と言う	Ask to be allowed into the World Tree	
+mev23_090.scr:29	mev23_090.scr	29	(opcao do jogador)	(opcao do jogador)	escolha		アドリビトムを脱退したい、と言う	Say you wish to resign from Ad Libitum	
+mev23_100.scr:0	mev23_100.scr	0	リタ	Rita Mordio	personagem	CRLF x2	○○、\n何とかエラン・ヴィタールへ\n行ける様にしたわ	○○,\nI managed to make it possible to enter\nthe Elan Vital.	
+mev23_100.scr:1	mev23_100.scr	1	リタ	Rita Mordio	personagem	CRLF x1	改造を施したニアタが、\nあんたをあの未知の空間から守るはず	The modified Niata should shield you\nfrom that unknown realm.	
+mev23_100.scr:2	mev23_100.scr	2	リタ	Rita Mordio	personagem		さ、いつ行ってきてもいいのよ？	You can go whenever you're ready, okay?	
+mev23_100.scr:3	mev23_100.scr	3	リタ	Rita Mordio	personagem	CRLF x1	失敗してるかもしれないのに。\nホント、人がいいったら…	Even though it might have failed.\nHonestly, you're way too trusting...	
+mev23_100.scr:4	mev23_100.scr	4	リタ	Rita Mordio	personagem	CRLF x1	ま、あんたの力も\nとりあえず信じとくわ	Well, I'll put some faith in your\nabilities for now, at least.	
+mev23_100.scr:5	mev23_100.scr	5	リタ	Rita Mordio	personagem	CRLF x1	べ、別に、\nやりたいからやっただけだし…	N-Not that it matters, I just\ndid it because I felt like it...	
+mev23_100.scr:6	mev23_100.scr	6	リタ	Rita Mordio	personagem	CRLF x1	あんたの為とか…、\nそういうんじゃないんだから	It's not like I did it for you... or\nanything like that, okay?!	
+mev23_100.scr:7	mev23_100.scr	7	リタ	Rita Mordio	personagem	CRLF x1	じゃ、とっとと依頼を受けて\n行ってくるのね	Now, hurry up and accept the quest\nand get going.	
+mev23_100.scr:8	mev23_100.scr	8	リタ	Rita Mordio	personagem		…ちゃんと、帰ってくんのよ	...Make sure you come back alive.	
+mev23_100.scr:9	mev23_100.scr	9	(opcao do jogador)	(opcao do jogador)	escolha		リタの技術を信じる、と言う	Say you believe in Rita's engineering	
+mev23_100.scr:10	mev23_100.scr	10	(opcao do jogador)	(opcao do jogador)	escolha		礼を言う	Offer your thanks	

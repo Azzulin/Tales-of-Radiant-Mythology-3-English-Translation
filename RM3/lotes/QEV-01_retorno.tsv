@@ -1,0 +1,36 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev01_010.scr:0	qev01_010.scr	0	チェスター	Chester Barklight	personagem		あいつ……、頑張ってるよなぁ	He's really working hard, isn't he...	
+qev01_010.scr:1	qev01_010.scr	1	(ator 200)	(ator 200)	desconhecido		……？	......?	
+qev01_010.scr:2	qev01_010.scr	2	チェスター	Chester Barklight	personagem	CRLF x1	ん？\nああ、クレスだよ	Hm?\nAh, I mean Cress.	
+qev01_010.scr:3	qev01_010.scr	3	チェスター	Chester Barklight	personagem	CRLF x1	ここ最近、目に見えて\n剣の腕を上げてきてる	Lately, his swordsmanship has\nvisibly improved by leaps and bounds.	
+qev01_010.scr:4	qev01_010.scr	4	チェスター	Chester Barklight	personagem	CRLF x1	オレも、のんびりしちゃ\nいられないな……	I can't just sit around taking it easy\neither......	
+qev01_010.scr:5	qev01_010.scr	5	チェスター	Chester Barklight	personagem	CRLF x1	……なあ、折り入って\n頼みがあるんだ	...Hey, I have a special favor\nto ask of you.	
+qev01_010.scr:6	qev01_010.scr	6	チェスター	Chester Barklight	personagem	CRLF x1	聞くだけ聞いてくれないか？\n後の判断は、任せるからよ	Could you at least hear me out?\nI'll leave the decision to you after.	
+qev01_010.scr:7	qev01_010.scr	7	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「友としてライバルとして」が\nエントリーされました。\nチェスターから受ける事が出来ます	Quest 'As a Friend, as a Rival'\nhas been registered.\nYou can accept it from Chester.	
+qev01_020.scr:0	qev01_020.scr	0	チェスター	Chester Barklight	personagem		付き合わせて悪いな	Sorry for dragging you along.	
+qev01_020.scr:1	qev01_020.scr	1	チェスター	Chester Barklight	personagem	CRLF x2	でも、お前なら\n受けてくれるって気がしてたぜ。\n何となく、だけどな	Still, I had a feeling you'd accept.\nJust a hunch,\nof course.	
+qev01_020.scr:2	qev01_020.scr	2	チェスター	Chester Barklight	personagem		さ、行こうぜ！	Come on, let's go!	
+qev01_030.scr:0	qev01_030.scr	0	チェスター	Chester Barklight	personagem	CRLF x2	さて、と……。\nここからは気を引き締めて\nかからないとな	Well now...\nFrom here on, we need to stay sharp\nand stay focused.	
+qev01_030.scr:1	qev01_030.scr	1	チェスター	Chester Barklight	personagem		よろしく頼むぜ、○○	I'm counting on you, ○○!	
+qev01_040.scr:0	qev01_040.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	ふう……。\nこれであと半分、だな	Whew...\nThat leaves half of them to go, huh.	
+qev01_040.scr:1	qev01_040.scr	1	チェスター	Chester Barklight	personagem		…………	......	
+qev01_040.scr:2	qev01_040.scr	2	チェスター	Chester Barklight	personagem	CRLF x2	なあ……。\nお前には、背中を預けられる\n親友っているか？	Hey...\nDo you have a best friend you can trust\nwith your back?	
+qev01_040.scr:3	qev01_040.scr	3	チェスター	Chester Barklight	personagem	CRLF x2	って、悪い。\nお前には過去の記憶が\nないんだったな……	Wait, my bad.\nYou don't have memories of your past,\ndo you......	
+qev01_040.scr:4	qev01_040.scr	4	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev01_040.scr:5	qev01_040.scr	5	チェスター	Chester Barklight	personagem	CRLF x2	……クレスとはさ。\nガキの頃からずっと、\n腕を競い合ってきた仲なんだ	...Cress and I have been rivals\ncompeting against each other\never since we were kids.	
+qev01_040.scr:6	qev01_040.scr	6	チェスター	Chester Barklight	personagem		剣と弓の違いはあっても、な	Even with the difference of sword and bow.	
+qev01_040.scr:7	qev01_040.scr	7	チェスター	Chester Barklight	personagem	CRLF x1	だから、わかるんだよ。\nあいつはこのギルドへ来て、変わった	That's why I can tell.\nComing to this Guild has changed him.	
+qev01_040.scr:8	qev01_040.scr	8	チェスター	Chester Barklight	personagem	CRLF x2	単なる技術だけじゃない。\n目的を見つけて……どんどん強く\nたくましくなっている	Not just in skill alone.\nFinding purpose... he keeps growing\nstronger and tougher.	
+qev01_040.scr:9	qev01_040.scr	9	チェスター	Chester Barklight	personagem		何だか……焦っちまうんだよな	Somehow... it makes me impatient.	
+qev01_040.scr:10	qev01_040.scr	10	チェスター	Chester Barklight	personagem	CRLF x2	オレは、あいつとは対等でいたいんだ。\nいざって時に、当たり前にお互いを\n頼れる関係っていうかさ	I want to be equals with him.\nBeing able to naturally rely on each other\nin a crisis, you know?	
+qev01_040.scr:11	qev01_040.scr	11	(ator 200)	(ator 200)	desconhecido		…………	......	
+qev01_040.scr:12	qev01_040.scr	12	チェスター	Chester Barklight	personagem	CRLF x1	……こ、この話は\nクレスには言うなよ！	...D-Don't you dare\ntell Cress about this!	
+qev01_040.scr:13	qev01_040.scr	13	チェスター	Chester Barklight	personagem	CRLF x1	ほら、残り半分。\nさっさと片付けちまおうぜ！	Come on, half left to go.\nLet's get it cleaned up quickly!	
+qev01_050.scr:0	qev01_050.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	今ので全部だな。\n助かったよ、○○	That was the last of them.\nThanks for the help, ○○!	
+qev01_050.scr:1	qev01_050.scr	1	チェスター	Chester Barklight	personagem	CRLF x1	クレスもだけど、お前の腕も\nなかなかのもんだよな	Cress aside, your skills are\npretty impressive too.	
+qev01_050.scr:2	qev01_050.scr	2	チェスター	Chester Barklight	personagem	CRLF x1	おかげで色々\n気付けたもんがあったよ	Thanks to you,\nI realized quite a few things.	
+qev01_050.scr:3	qev01_050.scr	3	チェスター	Chester Barklight	personagem	CRLF x1	へへっ。\nありがとな	Heheh.\nThanks a lot.	
+qev01_060.scr:0	qev01_060.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	ふ〜っ。\nようやく、帰ってこれたな	Whew~\nFinally made it back, huh.	
+qev01_060.scr:1	qev01_060.scr	1	チェスター	Chester Barklight	personagem	CRLF x2	なぁ、○○。\nお前も困った事があったら\nいつでも声をかけてくれよ	Hey, ○○.\nIf you're ever in trouble too,\njust give me a shout anytime.	
+qev01_060.scr:2	qev01_060.scr	2	チェスター	Chester Barklight	personagem	CRLF x1	今度はオレが、お前の力に\nなってやるぜ！	Next time, I'll be the one\nlending you a hand!	
+qev01_060.scr:3	qev01_060.scr	3	チェスター	Chester Barklight	personagem		じゃあな	See ya.	

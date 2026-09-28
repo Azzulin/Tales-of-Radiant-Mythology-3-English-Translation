@@ -1,0 +1,146 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev13_010.scr:0	cev13_010.scr	0	クレア	Claire Bennett	personagem	CRLF x1	そんなに気を遣わなくてもいいのに。\nお皿くらい、ちゃんと洗えるから大丈夫よ		
+cev13_010.scr:1	cev13_010.scr	1	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	怪我が治るまでだ。\n水仕事は、傷口に良くない		
+cev13_010.scr:2	cev13_010.scr	2	クレア	Claire Bennett	personagem	CRLF x1	もう、大げさよ。\nちょっと包丁で手を切っただけなのに		
+cev13_010.scr:3	cev13_010.scr	3	リリス	Lilith Aileron	personagem	CRLF x2	すみません〜！\nちょっとこれだけ\n洗わせてもらってもいいですか？		
+cev13_010.scr:4	cev13_010.scr	4	リリス	Lilith Aileron	personagem		すぐ終わりますから！		
+cev13_010.scr:5	cev13_010.scr	5	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	ああ。\n構わない		
+cev13_010.scr:6	cev13_010.scr	6	リリス	Lilith Aileron	personagem		冷たッ！？		
+cev13_010.scr:7	cev13_010.scr	7	リリス	Lilith Aileron	personagem	CRLF x1	ヴェイグさん、こんな\n冷たい水使ってて平気なんですか？		
+cev13_010.scr:8	cev13_010.scr	8	リリス	Lilith Aileron	personagem		ここ、お湯も使えるんですよ？		
+cev13_010.scr:9	cev13_010.scr	9	ヴェイグ	Veigue Lungberg	personagem		いや……これくらいがちょうどいい		
+cev13_010.scr:10	cev13_010.scr	10	クレア	Claire Bennett	personagem	CRLF x2	ヴェイグは冷たいものに強いの。\n体質みたいなものみたい。\nね、ヴェイグ		
+cev13_010.scr:11	cev13_010.scr	11	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	ああ。\n熱湯よりは冷水の方がいい		
+cev13_010.scr:12	cev13_010.scr	12	リリス	Lilith Aileron	personagem	CRLF x1	そ、そうなんですか……\n変わってますね		
+cev13_010.scr:13	cev13_010.scr	13	リリス	Lilith Aileron	personagem		は、はっくしょん！		
+cev13_020.scr:0	cev13_020.scr	0	ロックス	Rocks	personagem		今日のご飯は、とんかつなんですね		
+cev13_020.scr:1	cev13_020.scr	1	リリス	Lilith Aileron	personagem	CRLF x2	そうよ。\nアクティブタのお肉は\n疲労回復にとってもいいの♪		
+cev13_020.scr:2	cev13_020.scr	2	リリス	Lilith Aileron	personagem		え〜と、まずは脂身を切り分けて……と		
+cev13_020.scr:3	cev13_020.scr	3	ロックス	Rocks	personagem		えっ、どうしてですか？		
+cev13_020.scr:4	cev13_020.scr	4	リリス	Lilith Aileron	personagem	CRLF x2	だって、高カロリーなんだもの。\n油も、体に脂肪が付きにくい物を使って\nヘルシーなとんかつに仕上げるのよ♪		
+cev13_020.scr:5	cev13_020.scr	5	ロックス	Rocks	personagem		へぇ……そうですか		
+cev13_020.scr:6	cev13_020.scr	6	リリス	Lilith Aileron	personagem		えっと、次はお肉の……		
+cev13_020.scr:7	cev13_020.scr	7	ロックス	Rocks	personagem		衣を付けて、揚げるんですよね		
+cev13_020.scr:8	cev13_020.scr	8	ロックス	Rocks	personagem	CRLF x1	油が跳ねると危ないですから\nとんかつは僕がやっておきます		
+cev13_020.scr:9	cev13_020.scr	9	リリス	Lilith Aileron	personagem	CRLF x1	本当？　\n助かるなぁ〜！		
+cev13_020.scr:10	cev13_020.scr	10	リリス	Lilith Aileron	personagem	CRLF x1	じゃあ、私はキャベツ切ってるから\n後はよろしくね∀		
+cev13_020.scr:11	cev13_020.scr	11	ロックス	Rocks	personagem		任せて下さい		
+cev13_020.scr:12	cev13_020.scr	12	ロックス	Rocks	personagem	CRLF x2	脂身を切り落とすなんてとんでもない！\n女性は丸く、ぽっちゃりされてた方が\nかわいいに決まってます！！		
+cev13_020.scr:13	cev13_020.scr	13	ロックス	Rocks	personagem	CRLF x2	このまま衣を、分厚く付けて……\nそして、普通の油をたっぷり吸わせて\n揚げる……！！		
+cev13_020.scr:14	cev13_020.scr	14	ロックス	Rocks	personagem		フフフ……これで良し		
+cev13_020.scr:15	cev13_020.scr	15	リリス	Lilith Aileron	personagem		ロックス、そっちの具合はどんな感じ？		
+cev13_020.scr:16	cev13_020.scr	16	ロックス	Rocks	personagem	CRLF x1	バッチリですよ！\n綺麗な色に揚がっています		
+cev13_020.scr:17	cev13_020.scr	17	リリス	Lilith Aileron	personagem	CRLF x1	良かった。\nさすがロックスね∀		
+cev13_020.scr:18	cev13_020.scr	18	ロックス	Rocks	personagem		当然です……フフフフ……		
+cev13_030.scr:0	cev13_030.scr	0	ヴァン	Van Grants	personagem		いつも「おたま」を持ち歩いているのだな		
+cev13_030.scr:1	cev13_030.scr	1	リリス	Lilith Aileron	personagem	CRLF x2	ええ。\nいつ、どこで眠っているか\nわかりませんから		
+cev13_030.scr:2	cev13_030.scr	2	ヴァン	Van Grants	personagem		眠る？		
+cev13_030.scr:3	cev13_030.scr	3	リリス	Lilith Aileron	personagem	CRLF x1	はい。\n実は、このおたまとフライパンで……		
+cev13_030.scr:4	cev13_030.scr	4	フィリア	Philia Felice	personagem		お話中、すみません		
+cev13_030.scr:5	cev13_030.scr	5	フィリア	Philia Felice	personagem	CRLF x1	リリスさん、来ていただけませんか？\nその、スタンさんが、また……		
+cev13_030.scr:6	cev13_030.scr	6	リリス	Lilith Aileron	personagem	CRLF x1	わかりました。\nすぐに行きます！		
+cev13_030.scr:7	cev13_030.scr	7	ヴァン	Van Grants	personagem		スタンが、一体どうしたのだ？		
+cev13_030.scr:8	cev13_030.scr	8	リリス	Lilith Aileron	personagem		ええ、ちょっと		
+cev13_030.scr:9	cev13_030.scr	9	リリス	Lilith Aileron	personagem	CRLF x1	そうだ、良かったら\nヴァンさんもご一緒されますか？		
+cev13_030.scr:10	cev13_030.scr	10	リリス	Lilith Aileron	personagem		説明するより、見た方が早いかも……		
+cev13_030.scr:11	cev13_030.scr	11	ヴァン	Van Grants	personagem		ふむ……では		
+cev13_030.scr:12	cev13_030.scr	12	ヴァン	Van Grants	personagem		そうさせてもらうとしよう		
+cev13_040.scr:0	cev13_040.scr	0	スタン	Stahn Aileron	personagem	CRLF x1	すかー……。\nすこぉー……		
+cev13_040.scr:1	cev13_040.scr	1	ヴァン	Van Grants	personagem		……驚いたな		
+cev13_040.scr:2	cev13_040.scr	2	ヴァン	Van Grants	personagem		スタンは立ったまま眠れるのか		
+cev13_040.scr:3	cev13_040.scr	3	リリス	Lilith Aileron	personagem	CRLF x1	うちの兄は、いつでもどこでも\nどんな体勢でも眠れるんです		
+cev13_040.scr:4	cev13_040.scr	4	ヴァン	Van Grants	personagem	CRLF x1	ほう……。\n野戦向きの体質だな		
+cev13_040.scr:5	cev13_040.scr	5	ヴァン	Van Grants	personagem		頼もしいではないか		
+cev13_040.scr:6	cev13_040.scr	6	リリス	Lilith Aileron	personagem	CRLF x1	自分で普通に起きられるなら、\nそうかもしれないですけどね……		
+cev13_040.scr:7	cev13_040.scr	7	リリス	Lilith Aileron	personagem		……いきます！		
+cev13_040.scr:8	cev13_040.scr	8	リリス	Lilith Aileron	personagem		「秘技！　死者の目覚め！！」		
+cev13_040.scr:9	cev13_040.scr	9	スタン	Stahn Aileron	personagem		ぐおおーーーっ！		
+cev13_040.scr:10	cev13_040.scr	10	ヴァン	Van Grants	personagem		ぬおお……！！？		
+cev13_040.scr:11	cev13_040.scr	11	リリス	Lilith Aileron	personagem		もう、お兄ちゃん		
+cev13_040.scr:12	cev13_040.scr	12	リリス	Lilith Aileron	personagem	CRLF x1	眠るなら、ちゃんとベッドで寝て。\n疲れがきちんと取れないわよ		
+cev13_040.scr:13	cev13_040.scr	13	スタン	Stahn Aileron	personagem	CRLF x1	そっか……。\n俺、また寝ちゃってたのか		
+cev13_040.scr:14	cev13_040.scr	14	スタン	Stahn Aileron	personagem	CRLF x1	起こしてくれて、ありがとな。\nリリス		
+cev13_040.scr:15	cev13_040.scr	15	リリス	Lilith Aileron	personagem	CRLF x1	ほんと、お兄ちゃんには\nまだまだ私がついてなくちゃダメね♪		
+cev13_040.scr:16	cev13_040.scr	16	ヴァン	Van Grants	personagem	CRLF x1	（くっ……何という音波攻撃……。\n　脳髄までしびれたぞ……）		
+cev13_040.scr:17	cev13_040.scr	17	ヴァン	Van Grants	personagem		（この二人……只者では、ない……）		
+cev13_050.scr:0	cev13_050.scr	0	ヴァン	Van Grants	personagem	CRLF x1	その、「おたま」という武器には\nつくづく驚かされる……		
+cev13_050.scr:1	cev13_050.scr	1	リリス	Lilith Aileron	personagem		そんな大した事じゃないんですよ		
+cev13_050.scr:2	cev13_050.scr	2	リリス	Lilith Aileron	personagem	CRLF x2	「死者の目覚め」だって\n寝ぼすけな兄を起こす為に\n編み出しただけなんです		
+cev13_050.scr:3	cev13_050.scr	3	ヴァン	Van Grants	personagem	CRLF x2	ふむ……。\nそれにしては、\nなかなかの破壊力だったが……		
+cev13_050.scr:4	cev13_050.scr	4	リリス	Lilith Aileron	personagem	CRLF x2	そうですね……。\n確かに、敵を倒す技として使っても\nそれなりに効果はあるみたいです		
+cev13_050.scr:5	cev13_050.scr	5	ヴァン	Van Grants	personagem	CRLF x1	なるほど……。\nやはり、既に実戦で使用されていたか		
+cev13_050.scr:6	cev13_050.scr	6	リリス	Lilith Aileron	personagem	CRLF x1	でも、これはあくまで\n兄を起こす時専用です！		
+cev13_050.scr:7	cev13_050.scr	7	リリス	Lilith Aileron	personagem	CRLF x1	うちの兄をちゃんと起こせるのは、\n私くらいしかいませんから		
+cev13_050.scr:8	cev13_050.scr	8	ヴァン	Van Grants	personagem	CRLF x1	ふむ……。\nスタンは、本当に果報者だな……		
+cev13_060.scr:0	cev13_060.scr	0	リリス	Lilith Aileron	personagem	CRLF x2	じゃあ、ティアさんは\nお兄様の手助けをする為に\n軍人になったんですね		
+cev13_060.scr:1	cev13_060.scr	1	ティア	Tear Grants	personagem		ええ、そうなるわ		
+cev13_060.scr:2	cev13_060.scr	2	ティア	Tear Grants	personagem	CRLF x1	私達は、幼い頃に両親を亡くしていたから\n兄は苦労して、私を育ててくれたの		
+cev13_060.scr:3	cev13_060.scr	3	ティア	Tear Grants	personagem	CRLF x1	その恩に報いる為にも\n何より、兄の役に立ちたかった		
+cev13_060.scr:4	cev13_060.scr	4	リリス	Lilith Aileron	personagem		その気持ち、わかります！！		
+cev13_060.scr:5	cev13_060.scr	5	リリス	Lilith Aileron	personagem	CRLF x2	私も……兄のやりたい事を応援したくて\nその為に、自分も強くなろうって\n思ったんです		
+cev13_060.scr:6	cev13_060.scr	6	ティア	Tear Grants	personagem		リリスも？		
+cev13_060.scr:7	cev13_060.scr	7	リリス	Lilith Aileron	personagem		はい！		
+cev13_060.scr:8	cev13_060.scr	8	リリス	Lilith Aileron	personagem	CRLF x1	兄の足を引っ張る様な事は\nしたくなくて……		
+cev13_060.scr:9	cev13_060.scr	9	ティア	Tear Grants	personagem		それで、あなたも戦い方を覚えたのね		
+cev13_060.scr:10	cev13_060.scr	10	ティア	Tear Grants	personagem	CRLF x1	……どこか似ているのかしら。\n私達		
+cev13_070.scr:0	cev13_070.scr	0	リリス	Lilith Aileron	personagem	CRLF x1	初めまして、リリス・エルロンです！\n今日からこの食堂で働く事になりました		
+cev13_070.scr:1	cev13_070.scr	1	リリス	Lilith Aileron	personagem		よろしくお願いします！		
+cev13_070.scr:2	cev13_070.scr	2	クレア	Claire Bennett	personagem		私はクレア・ベネットよ		
+cev13_070.scr:3	cev13_070.scr	3	クレア	Claire Bennett	personagem	CRLF x2	嬉しいわ。\nもう少し、ここを切り盛りする\n人手が欲しいと思っていたところなの		
+cev13_070.scr:4	cev13_070.scr	4	リリス	Lilith Aileron	personagem	CRLF x1	今までは、クレアさんが一人で\n食事を作られていたんですか？		
+cev13_070.scr:5	cev13_070.scr	5	クレア	Claire Bennett	personagem	CRLF x2	本当はそうしたいのだけど\nさすがに、用意しなくちゃいけない\n人数が人数でしょう？		
+cev13_070.scr:6	cev13_070.scr	6	クレア	Claire Bennett	personagem	CRLF x1	当番制という事にして\nみんながお手伝いをしてくれているの		
+cev13_070.scr:7	cev13_070.scr	7	リリス	Lilith Aileron	personagem	CRLF x2	なるほど。\nここは、そういうルールで\n回しているんですね		
+cev13_070.scr:8	cev13_070.scr	8	クレア	Claire Bennett	personagem	CRLF x2	みんないい人ばかりよ。\nリリスさんも、きっとすぐに\nここに馴染めると思うわ		
+cev13_070.scr:9	cev13_070.scr	9	リリス	Lilith Aileron	personagem	CRLF x1	はい。\nそう出来る様に頑張ります♪		
+cev13_070.scr:10	cev13_070.scr	10	リリス	Lilith Aileron	personagem	CRLF x1	とりあえず、料理の事なら\n任せて下さい！		
+cev13_080.scr:0	cev13_080.scr	0	リリス	Lilith Aileron	personagem	CRLF x1	ここで、この香辛料を加えるんです。\nそうすると……		
+cev13_080.scr:1	cev13_080.scr	1	ティア	Tear Grants	personagem		……美味しい！		
+cev13_080.scr:2	cev13_080.scr	2	クレア	Claire Bennett	personagem	CRLF x1	素材の風味が引き立って……、\nまろやかな後味が控えめに残るわ		
+cev13_080.scr:3	cev13_080.scr	3	クレア	Claire Bennett	personagem	CRLF x1	つい、もう一口\n食べたくなってしまいそう		
+cev13_080.scr:4	cev13_080.scr	4	ティア	Tear Grants	personagem	CRLF x2	ほんの少し、調味料を\n加えただけなのに……。\nここまで料理が変わるなんて		
+cev13_080.scr:5	cev13_080.scr	5	リリス	Lilith Aileron	personagem	CRLF x1	皆さん、毎日ギルドのお仕事で\nお疲れだと思いますから……		
+cev13_080.scr:6	cev13_080.scr	6	リリス	Lilith Aileron	personagem	CRLF x1	少しでも元気を出して欲しくって\nレシピを工夫してみたんです		
+cev13_080.scr:7	cev13_080.scr	7	リリス	Lilith Aileron	personagem	CRLF x2	……でも、お二人に\nそんな風に褒められると\n照れちゃいますね……		
+cev13_080.scr:8	cev13_080.scr	8	ティア	Tear Grants	personagem	CRLF x2	照れる事はないわ。\nその行動力と発想は、\n評価されて然るべきよ		
+cev13_080.scr:9	cev13_080.scr	9	ティア	Tear Grants	personagem	CRLF x1	……私も、新しいレシピを\n少し考えてみようかしら		
+cev13_080.scr:10	cev13_080.scr	10	クレア	Claire Bennett	personagem	CRLF x2	私も、ロックスさんにお願いして\n滋養の付く素材やいい香辛料を\nもう少し増やしてみるわ		
+cev13_080.scr:11	cev13_080.scr	11	クレア	Claire Bennett	personagem	CRLF x1	この食堂が、\nみんなの元気の拠り所になる様に		
+cev13_080.scr:12	cev13_080.scr	12	リリス	Lilith Aileron	personagem	CRLF x1	はい。\n頑張りましょう！		
+cev13_080.scr:13	cev13_080.scr	13	ティア	Tear Grants	personagem	CRLF x2	そうね。\n出来る事から、\nお互いに協力していきましょう		
+cev13_090.scr:0	cev13_090.scr	0	リッド	Reid Hershel	personagem		リリスは、スタンの妹なんだってな？		
+cev13_090.scr:1	cev13_090.scr	1	リリス	Lilith Aileron	personagem	CRLF x1	はい。\nうちの兄が、いつもお世話になってます		
+cev13_090.scr:2	cev13_090.scr	2	リッド	Reid Hershel	personagem	CRLF x2	う〜ん。\nそう言われてみれば、\n似てる気がするけど……		
+cev13_090.scr:3	cev13_090.scr	3	リッド	Reid Hershel	personagem	CRLF x1	リリスの方が、やっぱり\nしっかりしてるよなぁ		
+cev13_090.scr:4	cev13_090.scr	4	リリス	Lilith Aileron	personagem	CRLF x1	それは、兄がああいう性格ですから……。\n妹の私も、色々と苦労があったんです		
+cev13_090.scr:5	cev13_090.scr	5	リッド	Reid Hershel	personagem	CRLF x1	だろうなぁ。\n何だか、わかる様な気がするぜ		
+cev13_090.scr:6	cev13_090.scr	6	リリス	Lilith Aileron	personagem	CRLF x1	もし兄が、何かご迷惑をかけたら\n私に言って下さいね		
+cev13_090.scr:7	cev13_090.scr	7	リリス	Lilith Aileron	personagem		……叱りますから		
+cev13_090.scr:8	cev13_090.scr	8	リッド	Reid Hershel	personagem		あ、ああ……		
+cev13_090.scr:9	cev13_090.scr	9	リリス	Lilith Aileron	personagem	CRLF x1	それじゃ、お夕飯の仕込みがあるので、\n私はこれで失礼します		
+cev13_090.scr:10	cev13_090.scr	10	リッド	Reid Hershel	personagem		リリス、かぁ……		
+cev13_090.scr:11	cev13_090.scr	11	リッド	Reid Hershel	personagem		只者じゃねえな……ありゃ		
+cev13_200.scr:0	cev13_200.scr	0	リリス	Lilith Aileron	personagem	CRLF x1	通常。\n		
+cev13_200.scr:1	cev13_200.scr	1	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev13_200.scr:2	cev13_200.scr	2	リリス	Lilith Aileron	personagem	CRLF x1	笑い。\n		
+cev13_200.scr:3	cev13_200.scr	3	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev13_200.scr:4	cev13_200.scr	4	リリス	Lilith Aileron	personagem	CRLF x1	怒り。\n		
+cev13_200.scr:5	cev13_200.scr	5	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev13_200.scr:6	cev13_200.scr	6	リリス	Lilith Aileron	personagem	CRLF x1	悲しみ。\n		
+cev13_200.scr:7	cev13_200.scr	7	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev13_200.scr:8	cev13_200.scr	8	リリス	Lilith Aileron	personagem	CRLF x1	通常。\n		
+cev13_200.scr:9	cev13_200.scr	9	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev13_200.scr:10	cev13_200.scr	10	リリス	Lilith Aileron	personagem	CRLF x1	笑い。\n		
+cev13_200.scr:11	cev13_200.scr	11	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev13_200.scr:12	cev13_200.scr	12	リリス	Lilith Aileron	personagem	CRLF x1	怒り。\n		
+cev13_200.scr:13	cev13_200.scr	13	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev13_200.scr:14	cev13_200.scr	14	リリス	Lilith Aileron	personagem	CRLF x1	悲しみ。\n		
+cev13_200.scr:15	cev13_200.scr	15	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev13_200.scr:16	cev13_200.scr	16	リリス	Lilith Aileron	personagem	CRLF x1	通常。\n		
+cev13_200.scr:17	cev13_200.scr	17	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev13_200.scr:18	cev13_200.scr	18	リリス	Lilith Aileron	personagem	CRLF x1	笑い。\n		
+cev13_200.scr:19	cev13_200.scr	19	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev13_200.scr:20	cev13_200.scr	20	リリス	Lilith Aileron	personagem	CRLF x1	怒り。\n		
+cev13_200.scr:21	cev13_200.scr	21	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev13_200.scr:22	cev13_200.scr	22	リリス	Lilith Aileron	personagem	CRLF x1	悲しみ。\n		
+cev13_200.scr:23	cev13_200.scr	23	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

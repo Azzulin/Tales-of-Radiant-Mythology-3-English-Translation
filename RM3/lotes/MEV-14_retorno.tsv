@@ -1,0 +1,166 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev14_010.scr:0	mev14_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	今回、あなたにはアルマナック遺跡へ\n行って、ツリガネトンボ草の化石を\n取ってきてもらいたいの	This time, I want you to go\nto the Almanac Ruins and retrieve\na fossil of the Bell Dragonfly Herb.	
+mev14_010.scr:1	mev14_010.scr	1	アンジュ	Ange Serena	personagem		同行するのは、ルカ君とルーティよ	Ruca and Rutee will go with you.	
+mev14_010.scr:2	mev14_010.scr	2	ルカ	Ruca Milda	personagem		遺跡に化石なんてあるの？	Are there really fossils in ruins?	
+mev14_010.scr:3	mev14_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	正しく言えば、遺跡の中にある\n「生命讃歌の間」に\n化石が飾られているの	To be precise, the fossil is on display\nin the 'Chamber of the Hymn of Life'\nwithin the ruins.	
+mev14_010.scr:4	mev14_010.scr	4	ルカ	Ruca Milda	personagem	CRLF x1	それって、盗むって事じゃないか！？\nあそこは、世界文化遺産なのに	Doesn't that mean stealing?!\nEven though it's a World Heritage site?!	
+mev14_010.scr:5	mev14_010.scr	5	ルカ	Ruca Milda	personagem		僕、そんな事出来ないよ	I couldn't possibly do such a thing!	
+mev14_010.scr:6	mev14_010.scr	6	アンジュ	Ange Serena	personagem		あら、後で返せばいいんじゃない？	Oh, can't we just return it later?	
+mev14_010.scr:7	mev14_010.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	世界救済の為なら、神様も世界樹も\n罪をとがめたりしないわ	If it's to save the world, neither God\nnor the World Tree will blame you.	
+mev14_010.scr:8	mev14_010.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	それと、その場所は特殊な仕掛けに\n隠された秘密の部屋があるのよ	Also, there is a secret room hidden\nbehind a special mechanism there.	
+mev14_010.scr:9	mev14_010.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	仕掛けの解除は、\nルーティに任せればいいから	You can leave disarming that mechanism\nto Rutee.	
+mev14_010.scr:10	mev14_010.scr	10	アンジュ	Ange Serena	personagem		それじゃあ、行ってらっしゃい	Well then, off you go!	
+mev14_010.scr:11	mev14_010.scr	11	ルカ	Ruca Milda	personagem		何だか気が重いなぁ…	I have a rather bad feeling about this...	
+mev14_020.scr:0	mev14_020.scr	0	ルーティ	Rutee Katrea	personagem	CRLF x2	ここは、予言にあったディセンダーを\n迎える為に、古い時代に作られた\n遺跡らしいわね	These ruins seem built in an ancient era\nto welcome the Descender foretold\nin the prophecy.	
+mev14_020.scr:1	mev14_020.scr	1	ルーティ	Rutee Katrea	personagem	CRLF x1	きっと、相当な数のお宝が\n眠ってるんでしょうね〜！	A massive hoard of treasure must surely\nbe sleeping here, I bet~!	
+mev14_020.scr:2	mev14_020.scr	2	ルカ	Ruca Milda	personagem	CRLF x1	そういえばさ、ディセンダーを崇めていた\n暁の従者って、どうしてるんだろうね	Speaking of which, what happened to the\nServants of Dawn who worshipped them?	
+mev14_020.scr:3	mev14_020.scr	3	ルーティ	Rutee Katrea	personagem	CRLF x2	最近聞かないわね。\n世間からフェードアウト\nしちゃったんじゃない？	Haven't heard of them lately.\nDidn't they just fade out\nfrom public view?	
+mev14_020.scr:4	mev14_020.scr	4	ルカ	Ruca Milda	personagem	CRLF x2	○○が\nディセンダーだと知ったら、\nどういう反応をするだろう	If they knew ○○\nwas the Descender, I wonder\nhow they would react?	
+mev14_020.scr:5	mev14_020.scr	5	ルカ	Ruca Milda	personagem		やっぱり崇めたりするのかな？	Would they worship them, after all?	
+mev14_020.scr:6	mev14_020.scr	6	ルーティ	Rutee Katrea	personagem	CRLF x1	あら、上に立つのが苦手なの？\nでも、あんたなら人々を導けるかもね	Oh, not fond of standing on top?\nStill, you might just be able to lead.	
+mev14_020.scr:7	mev14_020.scr	7	ルカ	Ruca Milda	personagem		そう、かな？	Do... you think so?	
+mev14_020.scr:8	mev14_020.scr	8	ルカ	Ruca Milda	personagem	CRLF x2	ともかくアドリビトムだって\n○○のおかげで、\n前進して行ってるんだし	At any rate, Ad Libitum keeps moving\nforward thanks to ○○,\nafter all.	
+mev14_020.scr:9	mev14_020.scr	9	ルカ	Ruca Milda	personagem	CRLF x1	人ってさ、自分で作った定規に\n収まろうとするじゃないか	People always try to fit themselves\ninto rulers they made on their own.	
+mev14_020.scr:10	mev14_020.scr	10	ルカ	Ruca Milda	personagem		その…、これは僕もなんだけど	Um... I do the same thing too, though.	
+mev14_020.scr:11	mev14_020.scr	11	ルカ	Ruca Milda	personagem	CRLF x2	これはムリ、って思ったら手が出せないし。\n限界を勝手に作って、出来る人に\n頼ってしまうし	If I think it's impossible, I give up.\nI arbitrarily set limits and rely\non capable people instead.	
+mev14_020.scr:12	mev14_020.scr	12	ルカ	Ruca Milda	personagem	CRLF x1	頼って、自分の思い通りに\nならなかったらグチってしまうし	And if relying on them doesn't go my way,\nI end up grumbling about it...	
+mev14_020.scr:13	mev14_020.scr	13	ルカ	Ruca Milda	personagem	CRLF x1	けどさ、頼ったり期待する事を\n止められなくって	Even so, I can't stop myself from\nrelying on and expecting from others.	
+mev14_020.scr:14	mev14_020.scr	14	ルカ	Ruca Milda	personagem	CRLF x2	でも、○○は違うよね。\n何でも、やってしまうもの。\nとりあえず、やろうとする	Yet ○○ is different.\nYou take on everything.\nAt any rate, you try to do it.	
+mev14_020.scr:15	mev14_020.scr	15	ルカ	Ruca Milda	personagem		そして、前進して強くなってく…	And moving forward, you grow stronger...	
+mev14_020.scr:16	mev14_020.scr	16	ルーティ	Rutee Katrea	personagem	CRLF x2	あんたがディセンダーなんだなって\n思うところは、言い伝え通り\n不可能を知らないってところだわ	What makes me think you're the Descender\nis that, just like the legends say,\nyou know no impossible.	
+mev14_020.scr:17	mev14_020.scr	17	ルーティ	Rutee Katrea	personagem	CRLF x1	この世界のみんなが、あんたみたいに\nなれればいいのに	I wish everyone in this world\ncould become like you.	
+mev14_020.scr:18	mev14_020.scr	18	ルーティ	Rutee Katrea	personagem	CRLF x2	そしたら、何でも\n「やってやろうじゃない！」って\n行動する様になるじゃない？	Then for anything, they'd act with\na spirit of 'Let's give it a shot!'\nwouldn't they?	
+mev14_020.scr:19	mev14_020.scr	19	ルーティ	Rutee Katrea	personagem		そうなれば、世界は変わると思うわ	If that happened, the world would change.	
+mev14_020.scr:20	mev14_020.scr	20	ルーティ	Rutee Katrea	personagem	CRLF x1	と、まあ、話はここまでにして\n道を開かなくっちゃ	Well, that's enough chatter for now.\nWe've got to open the way.	
+mev14_020.scr:21	mev14_020.scr	21	(opcao do jogador)	(opcao do jogador)	escolha		遠慮する、と言う	Politely decline	
+mev14_020.scr:22	mev14_020.scr	22	(opcao do jogador)	(opcao do jogador)	escolha		皆の希望に添う自信がない、と言う	Say you have no confidence in that	
+mev14_030.scr:0	mev14_030.scr	0	ルーティ	Rutee Katrea	personagem	CRLF x1	んー、仕組みはわからないけど\nとりあえず触ってみましょっか	Hmm, I don't get the mechanism,\nbut let's try touching it for now!	
+mev14_030.scr:1	mev14_030.scr	1	ルカ	Ruca Milda	personagem	CRLF x2	ちょっ、ちょっと…！！\nそんなわけのわかんないもの触っても\n大丈夫なの？	H-Hold on a second...!!\nIs it really safe to touch something\nwe don't understand at all?!	
+mev14_030.scr:2	mev14_030.scr	2	ルカ	Ruca Milda	personagem		うそっ！？	No way?!	
+mev14_030.scr:3	mev14_030.scr	3	ルーティ	Rutee Katrea	personagem	CRLF x2	ホホホホホ！\nトレジャーハンターの腕にかかれば、\nざっとこんなものよ！	Hohohohoho!\nBefore the skills of a treasure hunter,\nit's as easy as that!	
+mev14_030.scr:4	mev14_030.scr	4	ルーティ	Rutee Katrea	personagem	CRLF x2	さあ、行きましょ。\nひょっとしたら、\nお宝に巡りあうかもしれないし♪	Come, let us proceed!\nWho knows, we might just happen\nupon some treasure!	
+mev14_035.scr:0	mev14_035.scr	0	ルーティ	Rutee Katrea	personagem	CRLF x1	ちょっと、ちょっと！\nどこに行くのよ？	Hey, hold on a minute!\nWhere are you going?	
+mev14_035.scr:1	mev14_035.scr	1	ルーティ	Rutee Katrea	personagem	CRLF x1	「生命賛歌の間」はこっちじゃないの。\n引き返すわよ	The Chamber of the Hymn of Life isn't\nthis way. Turn back!	
+mev14_040.scr:0	mev14_040.scr	0	ルカ	Ruca Milda	personagem	CRLF x1	すごい！\nここが世界文化遺産の「生命讃歌の間」…	Incredible!\nSo this is the Chamber of the Hymn of Life	
+mev14_040.scr:1	mev14_040.scr	1	ルカ	Ruca Milda	personagem		色んな化石がある	There are so many fossils.	
+mev14_040.scr:2	mev14_040.scr	2	ルーティ	Rutee Katrea	personagem	CRLF x1	これらの化石は自然の調和、絡み合いを\n表しているものらしいわよ	These fossils apparently represent the\nharmony and intertwining of nature.	
+mev14_040.scr:3	mev14_040.scr	3	ルカ	Ruca Milda	personagem		様々な植物、生き物、ヒト…、世界樹…	Plants, creatures, humans... the Tree...	
+mev14_040.scr:4	mev14_040.scr	4	ルカ	Ruca Milda	personagem	CRLF x1	いつから、ヒトは\n調和を見失ったんだろうね	Since when did humanity\nlose sight of harmony, I wonder...?	
+mev14_040.scr:5	mev14_040.scr	5	ルーティ	Rutee Katrea	personagem		ええと、渡された資料によると	Let's see, according to our notes...	
+mev14_040.scr:6	mev14_040.scr	6	ルーティ	Rutee Katrea	personagem		どうやら、これの様ね	It seems this is the one.	
+mev14_040.scr:7	mev14_040.scr	7	ルカ	Ruca Milda	personagem		（…スルーされたっ…）	(...She totally ignored me...)	
+mev14_040.scr:8	mev14_040.scr	8	ルーティ	Rutee Katrea	personagem		でも、ま、不満ばっかり言ってもね…	Still, well, constantly complaining...	
+mev14_040.scr:9	mev14_040.scr	9	ルカ	Ruca Milda	personagem		えっ…	Eh...?	
+mev14_040.scr:10	mev14_040.scr	10	ルーティ	Rutee Katrea	personagem	CRLF x1	先へ進まなきゃ。\n昔は昔、今は今でしょ	We must move forward.\nThe past is the past, the present is now.	
+mev14_040.scr:11	mev14_040.scr	11	ルーティ	Rutee Katrea	personagem	CRLF x1	さあ、化石も手に入れられたし\nここを出るわよ	Now that we have acquired the fossil,\nlet's get out of here!	
+mev14_050.scr:0	mev14_050.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	化石は早速、研究室へ届けておいたよ。\nこれで何か進展があればいいね	I delivered the fossil to the lab at once.\nHopefully this brings some progress!	
+mev14_050.scr:1	mev14_050.scr	1	アンジュ	Ange Serena	personagem		それじゃあ、今回もご苦労様	Well then, thank you for your work today.	
+mev14_050.scr:2	mev14_050.scr	2	ルーティ	Rutee Katrea	personagem	CRLF x1	なーんか、高価なお宝があると\n思ってたんだけど	I was thinking there'd be\nsome expensive treasure, but...	
+mev14_050.scr:3	mev14_050.scr	3	ルーティ	Rutee Katrea	personagem		今回は縁がなかったわねぇ	No such luck this time around!	
+mev14_050.scr:4	mev14_050.scr	4	ルーティ	Rutee Katrea	personagem	CRLF x1	でも、あの部屋の仕掛け。\nまだ何かありそうだわ	Still, that room's mechanism...\nIt felt like there was more to it!	
+mev14_050.scr:5	mev14_050.scr	5	ルカ	Ruca Milda	personagem		ええ、…盗む気満々じゃないか	Wait... you're fully planning to steal?!	
+mev14_050.scr:6	mev14_050.scr	6	ルーティ	Rutee Katrea	personagem	CRLF x2	ふふん。\nじゃ、ルカ。\nあんたに問題ね？	Fufun.\nWell then, Ruca.\nHere's a quiz for you, alright?	
+mev14_050.scr:7	mev14_050.scr	7	ルーティ	Rutee Katrea	personagem	CRLF x1	もんだーい、その１！\nアルマナック遺跡が作られた目的は？	Question number one!\nWhat was the purpose of Almanac Ruins?	
+mev14_050.scr:8	mev14_050.scr	8	ルカ	Ruca Milda	personagem	CRLF x1	ええと…、\nディセンダーを迎える為に作られた…	Um... it was built\nto receive the Descender...	
+mev14_050.scr:9	mev14_050.scr	9	ルーティ	Rutee Katrea	personagem	CRLF x1	もんだーい、その２！\nディセンダーは誰？	Question number two!\nWho is the Descender?	
+mev14_050.scr:10	mev14_050.scr	10	ルカ	Ruca Milda	personagem	CRLF x1	ええと、その…\n目の前にいる…、○○…	Well, um...\nRight before our eyes... ○○...	
+mev14_050.scr:11	mev14_050.scr	11	ルーティ	Rutee Katrea	personagem	CRLF x1	で、○○。\n次は、あんたに質問！	So, ○○.\nNext is a question for you!	
+mev14_050.scr:12	mev14_050.scr	12	ルーティ	Rutee Katrea	personagem	CRLF x1	あの遺跡、要る？\nあそこで暮らしたい？	Do you need that ruin?\nDo you want to live there?	
+mev14_050.scr:13	mev14_050.scr	13	ルーティ	Rutee Katrea	personagem	CRLF x2	ほら、○○が\nこう言ってるんだから\nいいじゃない！	See?! ○○\nis saying this, so there's\nno problem at all!	
+mev14_050.scr:14	mev14_050.scr	14	ルカ	Ruca Milda	personagem		む、無茶苦茶だ…！！	Th-That's completely absurd...!!	
+mev14_050.scr:15	mev14_050.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		自分には必要ない、と言う	Say you don't need it	
+mev14_050.scr:16	mev14_050.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		要らない、と言う	Say it's useless to you	
+mev14_060.scr:0	mev14_060.scr	0	ロックス	Rocks	personagem		アンジュ様、お食事がまだなのでは？	Lady Ange, haven't you eaten yet?	
+mev14_060.scr:1	mev14_060.scr	1	ロックス	Rocks	personagem	CRLF x1	軽食をお持ちしましょうか？\nサーモンとチーズのサンドになりますが	Shall I bring you a light meal?\nThough it is a salmon and cheese sandwich.	
+mev14_060.scr:2	mev14_060.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	うん、お願いね。\nちょっと手続きが終わらなくて、\nここを離れられないの	Yes, please.\nPaperwork isn't finished yet,\nso I can't leave this spot.	
+mev14_060.scr:3	mev14_060.scr	3	ロックス	Rocks	personagem	CRLF x1	あと、貴腐ブドウのワインを\nほんのちょっとだけお持ちしますね	Also, I shall bring you just a tiny bit\nof noble rot wine.	
+mev14_060.scr:4	mev14_060.scr	4	ロックス	Rocks	personagem		僕からの差し入れです	It is a small treat from myself.	
+mev14_060.scr:5	mev14_060.scr	5	アンジュ	Ange Serena	personagem		わぁ、嬉しい	Wah, how delightful!	
+mev14_060.scr:6	mev14_060.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	でも…、控えた方がいいかな？\n最近また太った気がするのよね	Still... maybe I should hold back?\nI feel like I've gained weight again.	
+mev14_060.scr:7	mev14_060.scr	7	ロックス	Rocks	personagem	CRLF x2	大丈夫ですよ〜。\n女の子は、少しぽっちゃりしていた方が\n男性は好きだと思いますが	You will be quite fine~\nMen prefer women with a bit of plumpness,\nor so I believe.	
+mev14_060.scr:8	mev14_060.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	そう？　そうよね！\nじゃあ、いただきます♪	Really? You're right!\nWell then, I gladly accept!	
+mev14_060.scr:9	mev14_060.scr	9	アンジュ	Ange Serena	personagem	CRLF x2	あと、一口さっぱりしたものも欲しいな。\nフルーツと、…あと頭の疲れに\n甘いお茶菓子も！	Also, I'd like a refreshing bite too.\nSome fruit, and... for brain fatigue,\nsweet tea pastries as well!	
+mev14_060.scr:10	mev14_060.scr	10	ロックス	Rocks	personagem	CRLF x1	はい、お持ちします。\nデザートがないと、寂しいですものね	Right away, I shall bring them.\nIt feels lonely without dessert, surely.	
+mev14_060.scr:11	mev14_060.scr	11	ルビア	Rubia Natwick	personagem		（あれじゃあ、太るわけだわ…）	(No wonder she gains weight...)	
+mev14_060.scr:12	mev14_060.scr	12	ルビア	Rubia Natwick	personagem	CRLF x2	（ロックスもロックスね。\n　アンジュさんが美味しそうに食べる顔を\n　見るのが好きなもんだから…）	(Rocks is just as bad.\n He loves seeing Lady Ange eat with gusto\n so much...)	
+mev14_060.scr:13	mev14_060.scr	13	ルビア	Rubia Natwick	personagem	CRLF x1	（言われれば何でも\n　用意しちゃうんだもの…）	(He ends up preparing anything\n she asks for...)	
+mev14_060.scr:14	mev14_060.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	ん？　ルビア、何か用？\nどうしたの、そんな顔して	Hm? Rubia, did you need something?\nWhat is it, making a face like that?	
+mev14_060.scr:15	mev14_060.scr	15	ルビア	Rubia Natwick	personagem		い、いいえ	N-No.	
+mev14_060.scr:16	mev14_060.scr	16	ルビア	Rubia Natwick	personagem	CRLF x1	それより、オルタ・ビレッジから\n手紙が来てます	More importantly, a letter arrived\nfrom Alta Village.	
+mev14_060.scr:17	mev14_060.scr	17	ロックス	Rocks	personagem	CRLF x1	この間の提案、\n上手くいったんでしょうか？	Did the proposal from the other day\ngo well, I wonder?	
+mev14_060.scr:18	mev14_060.scr	18	アンジュ	Ange Serena	personagem	CRLF x1	気になるわね。\nさて、近況はどんな感じかしら	I wonder indeed.\nNow then, how are things going with them?	
+mev14_060.scr:19	mev14_060.scr	19	アンジュ	Ange Serena	personagem		…ん〜………	...Hmm.........	
+mev14_060.scr:20	mev14_060.scr	20	ロックス	Rocks	personagem		どんな様子、ですか？	How does it look?	
+mev14_060.scr:21	mev14_060.scr	21	アンジュ	Ange Serena	personagem	CRLF x2	それぞれが、\n相手の意見について考える期間を\n設けてみたんですって	It says each side set aside a period\nto reflect upon the opinions\nof the other.	
+mev14_060.scr:22	mev14_060.scr	22	アンジュ	Ange Serena	personagem	CRLF x2	主義主張は一度忘れて、実際に相手の事を\n学習したら、新しい発見が次々に生まれて、\n効率が良くなった…って！	Setting aside doctrine to learn about each\nother, new discoveries arose one after\nanother, boosting efficiency!	
+mev14_060.scr:23	mev14_060.scr	23	ロックス	Rocks	personagem		本当ですか……！！	Truly......?!	
+mev14_060.scr:24	mev14_060.scr	24	アンジュ	Ange Serena	personagem		ええ、ロックスのおかげよ	Yes, thanks to Rocks!	
+mev14_060.scr:25	mev14_060.scr	25	ロックス	Rocks	personagem	CRLF x2	いいえ、彼ら自身の力ですよ。\n新しい価値観と手段を、\n自分達で生み出してくれたんです	No, it is by their own strength.\nThey created new values and methods\nby their own efforts.	
+mev14_060.scr:26	mev14_060.scr	26	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	星晶の採掘を行わず、環境をありのまま\n利用して、充足した社会を作るという\nオルタ・ビレッジの実現…！	Realizing Alta Village without mining Star\nCrystals, utilizing the environment as-is\nto build a self-sufficient society...!	
+mev14_060.scr:27	mev14_060.scr	27	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x1	アドリビトムの皆さんの\n目標が達成されたのですわね	The goal of everyone in Ad Libitum\nhas been achieved, hasn't it?	
+mev14_060.scr:28	mev14_060.scr	28	エステル	Estelle	personagem	CRLF x2	人々の間でも、\nああやって受け入れ合う事が\n出来るなら…	If even among the people,\nthey can accept one another like that...\nthen surely...	
+mev14_060.scr:29	mev14_060.scr	29	エステル	Estelle	personagem		国同士でも、きっと実現出来ますよね！	Nations could surely do so as well!	
+mev14_060.scr:30	mev14_060.scr	30	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	ええ。\nそうしよう、と私達が働きかければ、\nきっと出来ますわ！	Indeed.\nIf we work toward that goal,\nwe can surely achieve it!	
+mev14_060.scr:31	mev14_060.scr	31	エステル	Estelle	personagem	CRLF x1	ですね！\nわたし、頑張ります！	Right!\nI shall do my very best!	
+mev14_070.scr:0	mev14_070.scr	0	アンジュ	Ange Serena	personagem		あら、また…？	Oh, again...?	
+mev14_070.scr:1	mev14_070.scr	1	ジュディス	Judith	personagem		どうかしたの？	Is something the matter?	
+mev14_070.scr:2	mev14_070.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	みんなが街に行った時に、\nついでに依頼を集めてきて\nくれるでしょ	When everyone goes to town,\nthey gather requests for us along the way,\nright?	
+mev14_070.scr:3	mev14_070.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	カノンノが集めてきた依頼のメモの中に\nたまに妙な文字が交じっているのね	In the request notes Kanonno brought back,\nthere are strange characters mixed in.	
+mev14_070.scr:4	mev14_070.scr	4	アンジュ	Ange Serena	personagem		ホラ、こういう字…	Look, writing like this...	
+mev14_070.scr:5	mev14_070.scr	5	ジュディス	Judith	personagem		確かに、見た事も無い字ね	Certainly writing I've never seen.	
+mev14_070.scr:6	mev14_070.scr	6	ジュディス	Judith	personagem		別のメモのは、また違う文字みたい	In another note, it seems different still.	
+mev14_070.scr:7	mev14_070.scr	7	ロックス	Rocks	personagem	CRLF x2	アンジュ様〜♪\nおやつのプリンが余ったんですけど、\nもう二個くらいいかがですか？	Lady Ange!\nThere is leftover pudding from tea;\nwould you care for two more?	
+mev14_070.scr:8	mev14_070.scr	8	アンジュ	Ange Serena	personagem		もちろん、いただきます♪	Why of course, I'd love to!	
+mev14_070.scr:9	mev14_070.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	って…\nロックス、この文字知ってる？	Wait...\nRocks, do you recognize this writing?	
+mev14_070.scr:10	mev14_070.scr	10	ロックス	Rocks	personagem		これは、お嬢様の字…ですね	This is... Milady's handwriting, yes.	
+mev14_070.scr:11	mev14_070.scr	11	ロックス	Rocks	personagem	CRLF x2	…いいえ、この文字については、\n知りません。\nでも…	...No, as for these characters,\nI know nothing of them.\nHowever...	
+mev14_070.scr:12	mev14_070.scr	12	ロックス	Rocks	personagem	CRLF x1	たまに、こういう事がありました。\nええ、昔から…	Things like this happened occasionally.\nYes, since long ago...	
+mev14_070.scr:13	mev14_070.scr	13	ロックス	Rocks	personagem	CRLF x1	ただ、お嬢様が遊びで考えたものだと。\n絵を描く時と、同じ様に…	I assumed Milady invented them in play.\nJust as when she draws pictures...	
+mev14_070.scr:14	mev14_070.scr	14	アンジュ	Ange Serena	personagem	CRLF x2	変ね。\nカノンノは、仕事に遊びを\n持ち込む子じゃないし	How strange.\nKanonno isn't the type to bring play\ninto her duties.	
+mev14_070.scr:15	mev14_070.scr	15	ジュディス	Judith	personagem	CRLF x1	そのメモの内容を\n知る必要があるのよね？	We need to know the contents\nof that memo, correct?	
+mev14_070.scr:16	mev14_070.scr	16	ジュディス	Judith	personagem		私がカノンノに聞いておくわ	I shall ask Kanonno about it.	
+mev14_070.scr:17	mev14_070.scr	17	アンジュ	Ange Serena	personagem		うん、お願い	Yes, please do.	
+mev14_070.scr:18	mev14_070.scr	18	ジュディス	Judith	personagem	CRLF x1	○○。\nカノンノの所へ一緒に行ってくれる？	○○.\nWill you come with me to see Kanonno?	
+mev14_070.scr:19	mev14_070.scr	19	ジュディス	Judith	personagem		さ、行きましょ	Come, let us go.	
+mev14_080.scr:0	mev14_080.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ジュディスさん？\nそれに、○○も	Miss Judith?\nAnd ○○ too!	
+mev14_080.scr:1	mev14_080.scr	1	リタ	Rita Mordio	personagem	CRLF x2	どうしたのよ。\nあんた達もカノンノの絵を\n見に来たの？	What is it?\nDid you guys come to see Kanonno's\ndrawings too?	
+mev14_080.scr:2	mev14_080.scr	2	ジュディス	Judith	personagem		あなたが街で集めてきた依頼のメモ	About the request notes from town...	
+mev14_080.scr:3	mev14_080.scr	3	ジュディス	Judith	personagem	CRLF x1	ここに書かれている文字について\n聞きたいのだけれど	I'd like to ask about the characters\nwritten here.	
+mev14_080.scr:4	mev14_080.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	いけない。\n急いで書いたから、つい…	Oh no!\nI was writing in a hurry, so I just...	
+mev14_080.scr:5	mev14_080.scr	5	ジュディス	Judith	personagem		つい？	Just...?	
+mev14_080.scr:6	mev14_080.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	これは、ええっと…。\n「納品」って書いたつもり\nだったんだけど	This is, um...\nI intended to write 'delivery,'\nbut...	
+mev14_080.scr:7	mev14_080.scr	7	ジュディス	Judith	personagem	CRLF x1	つい、というのは、\nこの文字、無意識に書いているのね	By 'just,' you mean\nyou write these characters unconsciously.	
+mev14_080.scr:8	mev14_080.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	……うん。\nでも、文字の意味は…わからないの	......Yeah.\nYet I don't know... what they mean.	
+mev14_080.scr:9	mev14_080.scr	9	ジュディス	Judith	personagem		知らない風景を描く様に、かしら？	Just like sketching unknown landscapes?	
+mev14_080.scr:10	mev14_080.scr	10	カノンノ	Kanonno Grassvalley	personagem		どう…かな…	I... wonder...	
+mev14_080.scr:11	mev14_080.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ただ、文章を書くと、いつの間にか\n書いている事があって…	When writing, before I realize it\nI end up writing them down...	
+mev14_080.scr:12	mev14_080.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	風景は…、\n紙の上に見えてくるから……	As for landscapes...\nthey appear right before me on paper...	
+mev14_080.scr:13	mev14_080.scr	13	ジュディス	Judith	personagem	CRLF x2	ヴェラトローパの事もそうだったわね。\n絶滅したはずの生物も、あなたは\n知っていた…	Just as it was with Veratropa.\nYou knew of creatures that were\nsupposed to be extinct...	
+mev14_080.scr:14	mev14_080.scr	14	ジュディス	Judith	personagem	CRLF x1	あなた、ひょっとして\n「過去」が見えるんじゃない？	Could it be that you\ncan see into the past?!	
+mev14_080.scr:15	mev14_080.scr	15	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	過去…？\n私にはわからない…	The past...?\nI really don't know...	
+mev14_080.scr:16	mev14_080.scr	16	ジュディス	Judith	personagem		見える…そうね	Seeing... I wonder.	
+mev14_080.scr:17	mev14_080.scr	17	ジュディス	Judith	personagem	CRLF x2	私達クリティア族の様に、\n情報を読み取っている…とも\n考えられるわね	Much like us Kritya,\nit could be considered that you are\nreading information.	
+mev14_080.scr:18	mev14_080.scr	18	リタ	Rita Mordio	personagem	CRLF x2	ヴェラトローパそのもののドクメントが\nカノンノに含まれていたのだから、\n見えるというのは違うかも	Since Veratropa's Document itself\nwas contained in Kanonno,\nsimply 'seeing' might be wrong.	
+mev14_080.scr:19	mev14_080.scr	19	リタ	Rita Mordio	personagem	CRLF x2	調べれば、他にどんなドクメントが\n含まれていて、なぜカノンノにあるのかが\nわかるかもしれない	If examined, we might learn what other\nDocuments are within her, and why\nthey exist inside Kanonno.	
+mev14_080.scr:20	mev14_080.scr	20	リタ	Rita Mordio	personagem	CRLF x2	でも、それは出来ないわね。\nドクメントを展開すると、\n肉体へのダメージがひどいんだから	Still, we cannot do that.\nDeploying Documents causes severe damage\nto the physical body, after all.	
+mev14_080.scr:21	mev14_080.scr	21	リタ	Rita Mordio	personagem		ヴェラトローパの時もそうだったでしょ	Just like what happened at Veratropa.	
+mev14_080.scr:22	mev14_080.scr	22	カノンノ	Kanonno Grassvalley	personagem		でも、私は知りたい…	Still, I want to know...	
+mev14_080.scr:23	mev14_080.scr	23	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	どうして、私だけに\nこんな事が起きているのか	Why is something like this\nhappening only to me?	
+mev14_080.scr:24	mev14_080.scr	24	リタ	Rita Mordio	personagem	CRLF x1	その気持ち、わかんなくないわ。\nあたしも興味がある	I can understand that feeling.\nI'm curious myself.	
+mev14_080.scr:25	mev14_080.scr	25	リタ	Rita Mordio	personagem	CRLF x1	でもね、あんたの体を危険にさらしてまで\nする必要はないの	Even so, there's no need to put your body\nin danger just for that.	
+mev14_080.scr:26	mev14_080.scr	26	ジュディス	Judith	personagem	CRLF x1	でも、これらの絵、それに文字。\n私達の歴史にはないものだわ	Yet these paintings, and this writing...\nThey do not exist in our history.	
+mev14_080.scr:27	mev14_080.scr	27	ジュディス	Judith	personagem		ニアタなら、わかったかしらね	Would Niata have understood, I wonder?	
+mev14_080.scr:28	mev14_080.scr	28	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ニアタ…。\nあのヴェラトローパで、\n色々教えてくれたっていう…	Niata...\nThe one said to have taught you so much\nat Veratropa...	
+mev14_080.scr:29	mev14_080.scr	29	ジュディス	Judith	personagem		ルミナシアの創世を見届けた賢人	The sage who witnessed creation.	
+mev14_080.scr:30	mev14_080.scr	30	ジュディス	Judith	personagem	CRLF x1	この世界だけじゃなく、\n異世界も見てきたそうよ	Not only this world;\nhe saw other worlds too, apparently.	
+mev14_080.scr:31	mev14_080.scr	31	ジュディス	Judith	personagem		きっと色んな事を知っていたでしょうね	He must have known so many things...	
+mev14_080.scr:32	mev14_080.scr	32	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	私、会ってみたいな。\nニアタに…	I'd love to meet him.\nNiata, I mean...	
+mev14_080.scr:33	mev14_080.scr	33	ジュディス	Judith	personagem	CRLF x2	ニアタはラザリスに壊されて\nしまったの。\n行っても無理よ	Niata was destroyed by Lazaris.\nEven if you go,\nit would be in vain.	
+mev14_080.scr:34	mev14_080.scr	34	カノンノ	Kanonno Grassvalley	personagem		でも、行きたいな…	Still, I'd love to go...	
+mev14_080.scr:35	mev14_080.scr	35	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ねえ、○○。\nヴェラトローパへの同行を依頼に出したら、\n一緒に行ってくれる？	Say, ○○.\nIf I put in a request for Veratropa,\nwill you come with me?	
+mev14_080.scr:36	mev14_080.scr	36	カノンノ	Kanonno Grassvalley	personagem		ありがとう、○○	Thank you, ○○!	
+mev14_080.scr:37	mev14_080.scr	37	ジュディス	Judith	personagem	CRLF x2	○○、\n彼女はあなたがいいのよ。\n一緒に行ってあげたら？	○○,\nshe truly wants you by her side.\nWhy not go with her?	
+mev14_080.scr:38	mev14_080.scr	38	ジュディス	Judith	personagem	CRLF x2	さて、と。\nカノンノ、\n後はあなたが依頼を出すだけ、ね	Now then.\nKanonno, all that remains\nis for you to submit the request, yes?	
+mev14_080.scr:39	mev14_080.scr	39	カノンノ	Kanonno Grassvalley	personagem		うん！	Yeah!	
+mev14_080.scr:40	mev14_080.scr	40	(opcao do jogador)	(opcao do jogador)	escolha		もちろん	Of course	
+mev14_080.scr:41	mev14_080.scr	41	(opcao do jogador)	(opcao do jogador)	escolha		迷う	Hesitate	

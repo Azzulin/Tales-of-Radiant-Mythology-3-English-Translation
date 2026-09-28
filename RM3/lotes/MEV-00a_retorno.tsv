@@ -1,0 +1,167 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev00_010.scr:0	mev00_010.scr	0	(narracao)	(narracao)	narracao	CRLF x1	世界樹の恩恵によって、\n人々が暮らす世界「ルミナシア」	Blessed by the grace of the World Tree,\npeople dwell in the world of Luminasia.	
+mev00_010.scr:1	mev00_010.scr	1	(narracao)	(narracao)	narracao		世界樹が生み出したとされる「マナ」と「星晶」	Mana and Star Crystals, said born of it.	Termo Star Crystals proposto para 星晶 (recurso central).
+mev00_010.scr:2	mev00_010.scr	2	(narracao)	(narracao)	narracao	CRLF x1	人々は、「星晶」をエネルギー資源とし、\n文明はめまぐるしく発展していった	Using Star Crystals as an energy source,\ncivilization advanced at a rapid pace.	
+mev00_010.scr:3	mev00_010.scr	3	(narracao)	(narracao)	narracao	CRLF x1	やがて、世界中の大国は「星晶」の保有を求め、\n各地で争いが繰り広げられるようになった	Soon, great powers sought Star Crystals,\nand conflicts broke out across the land.	
+mev00_010.scr:4	mev00_010.scr	4	(narracao)	(narracao)	narracao	CRLF x2	混迷していく世界。\n閉塞した時代の中、\n人々は一人の救世主を待ち望んでいた	In a world descending into chaos,\namidst an age of despair,\nthe people longed for a savior.	
+mev00_010.scr:5	mev00_010.scr	5	(narracao)	(narracao)	narracao	CRLF x2	世界樹の守り手「ディセンダー」。\n太古より予言されていたそれは、\n世界樹より生み出され、世界を守護する為に現れる	The World Tree's guardian, the Descender.\nForeseen since ancient times,\nborn from the World Tree to protect it.	
+mev00_010.scr:6	mev00_010.scr	6	(narracao)	(narracao)	narracao	CRLF x1	「ディセンダー」に過去の履歴は一切ない。\n国も家族も記憶もなく、在るのは自由と命のみ	The Descender has no past whatsoever.\nNo kin, no memory: only life and freedom.	
+mev00_010.scr:7	mev00_010.scr	7	(narracao)	(narracao)	narracao	CRLF x1	何も知らぬ無垢な者。\n不可能も恐れも知らぬ者	An innocent one, knowing nothing,\nknowing neither impossibility nor fear.	
+mev00_010.scr:8	mev00_010.scr	8	(narracao)	(narracao)	narracao	CRLF x1	そして、かの者は光を奪わず。\n惜しみなく全てのものに光を分け与えん	And that one shall never steal the light,\nbut share it freely with all creation.	
+mev00_010.scr:9	mev00_010.scr	9	(narracao)	(narracao)	narracao	CRLF x2	それは自由の灯火なり。\n己に対する幻想を持たぬ者。\n幼子のようにその瞬間を生きる者…	A guiding beacon of freedom,\none who holds no illusions of self,\nliving in the moment like a child...	
+mev00_010.scr:10	mev00_010.scr	10	(narracao)	(narracao)	narracao	CRLF x1	世界樹の恩恵によって、\n人々が暮らす世界「ルミナシア」	Blessed by the grace of the World Tree,\npeople dwell in the world of Luminasia.	Repeticao de mev00_010.scr:0 (E10).
+mev00_010.scr:11	mev00_010.scr	11	(narracao)	(narracao)	narracao		世界樹が生み出したとされる「マナ」と「星晶」	Mana and Star Crystals, said born of it.	Repeticao de mev00_010.scr:1 (E10).
+mev00_010.scr:12	mev00_010.scr	12	(narracao)	(narracao)	narracao	CRLF x1	人々は、「星晶」をエネルギー資源とし、\n文明はめぐるましく発展していった	Using Star Crystals as an energy source,\ncivilization advanced at a rapid pace.	Japones traz megurumashiku (variante de memagurumashiku em :2). Mesma traducao adotada.
+mev00_010.scr:13	mev00_010.scr	13	(narracao)	(narracao)	narracao	CRLF x1	やがて、世界中の大国は「星晶」の保有を求め、\n各地で争いが繰り広げられるようになった	Soon, great powers sought Star Crystals,\nand conflicts broke out across the land.	Repeticao de mev00_010.scr:3 (E10).
+mev00_010.scr:14	mev00_010.scr	14	(narracao)	(narracao)	narracao	CRLF x2	混迷していく世界。\n閉塞した時代の中、\n人々は一人の救世主を待ち望んでいた	In a world descending into chaos,\namidst an age of despair,\nthe people longed for a savior.	Repeticao de mev00_010.scr:4 (E10).
+mev00_010.scr:15	mev00_010.scr	15	(narracao)	(narracao)	narracao	CRLF x2	世界樹の守り手「ディセンダー」。\n太古より予言されていたそれは、\n世界樹より生み出され、世界を守護する為に現れる	The World Tree's guardian, the Descender.\nForeseen since ancient times,\nborn from the World Tree to protect it.	Repeticao de mev00_010.scr:5 (E10).
+mev00_010.scr:16	mev00_010.scr	16	(narracao)	(narracao)	narracao	CRLF x1	「ディセンダー」に過去の履歴は一切ない。\n国も家族も記憶もなく、在るのは自由と命のみ	The Descender has no past whatsoever.\nNo kin, no memory: only life and freedom.	Repeticao de mev00_010.scr:6 (E10).
+mev00_010.scr:17	mev00_010.scr	17	(narracao)	(narracao)	narracao	CRLF x1	何も知らぬ無垢な者。\n不可能も恐れも知らぬ者	An innocent one, knowing nothing,\nknowing neither impossibility nor fear.	Repeticao de mev00_010.scr:7 (E10).
+mev00_010.scr:18	mev00_010.scr	18	(narracao)	(narracao)	narracao	CRLF x1	そして、かの者は光を奪わず。\n惜しみなく全てのものに光を分け与えん	And that one shall never steal the light,\nbut share it freely with all creation.	Repeticao de mev00_010.scr:8 (E10).
+mev00_010.scr:19	mev00_010.scr	19	(narracao)	(narracao)	narracao	CRLF x2	それは自由の灯火なり。\n己に対する幻想を持たぬ者。\n幼子のようにその瞬間を生きる者…	A guiding beacon of freedom,\none who holds no illusions of self,\nliving in the moment like a child...	Repeticao de mev00_010.scr:9 (E10).
+mev00_020.scr:0	mev00_020.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	さて、と。\n今回の仕事も、これで終わり！\n船に戻らなくちゃ	All right then.\nThat wraps up this job!\nTime to head back to the ship.	
+mev00_020.scr:1	mev00_020.scr	1	カノンノ	Kanonno Grassvalley	personagem		何だろう…	What could that be...?	
+mev00_020.scr:2	mev00_020.scr	2	カノンノ	Kanonno Grassvalley	personagem		迎えまで、まだ時間がある	There is still time before my pickup.	
+mev00_020.scr:3	mev00_020.scr	3	カノンノ	Kanonno Grassvalley	personagem		行ってみよう	I'll go take a look.	
+mev00_030.scr:0	mev00_030.scr	0	カノンノ	Kanonno Grassvalley	personagem		何…、光…？	What... a light...?	
+mev00_030.scr:1	mev00_030.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	人…、だ！？\n空から人が降りて…	A person...?!\nSomeone is falling from the sky...	
+mev00_040.scr:0	mev00_040.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	気が付いて良かった。\n空から降りて来たんだもん。\nすっごく驚いたよ！	I'm glad you're awake!\nYou came falling from the sky.\nIt really gave me a scare!	
+mev00_040.scr:1	mev00_040.scr	1	カノンノ	Kanonno Grassvalley	personagem		あれは、何かの魔術なの？	Was that some kind of magic?	
+mev00_040.scr:2	mev00_040.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	覚えて無いの？\nあなた、空から降りて来たのよ	You don't remember?\nYou fell right out of the sky!	
+mev00_040.scr:3	mev00_040.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	そう。\n光に包まれて、\n空からフワフワ降りて来たんだよ	Yeah.\nWrapped in light,\nyou drifted down from the sky.	
+mev00_040.scr:4	mev00_040.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	違うの？\nスゴイ魔術で空を飛んだのかなあって\n思ったんだけど	No?\nI thought maybe you flew with\nsome incredible magic.	
+mev00_040.scr:5	mev00_040.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ともかく、気が付いて良かった。\nまるで眠ってしまった様な状態だったもの。\nここは魔物が多くて危険だから…	Anyway, I'm glad you woke up.\nYou seemed to be fast asleep,\nand monsters make it dangerous here...	
+mev00_040.scr:6	mev00_040.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	私はカノンノ。\nカノンノ・グラスバレー。\nあなたは？	I'm Kanonno.\nKanonno Grassvalley.\nAnd who are you?	
+mev00_040.scr:7	mev00_040.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	○○…。\nいい名前ね	○○...\nThat's a nice name.	Reproduzido ○○ (control code do nome do jogador) conforme R2/E11.
+mev00_040.scr:8	mev00_040.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	とりあえず、ここは危険だから\n山を降りましょう	For now, it's dangerous here,\nso let's head down the mountain.	
+mev00_040.scr:9	mev00_040.scr	9	(opcao do jogador)	(opcao do jogador)	escolha		空から降りたのが本当か、尋ねる	Ask if you really fell from the sky	Opcao de escolha: infinitivo/imperativo sem ponto final (R8).
+mev00_040.scr:10	mev00_040.scr	10	(opcao do jogador)	(opcao do jogador)	escolha		魔術とは何か、と尋ねる	Ask what magic is	Opcao de escolha: infinitivo/imperativo sem ponto final (R8).
+mev00_040.scr:11	mev00_040.scr	11	(opcao do jogador)	(opcao do jogador)	escolha		名乗る	Give your name	Opcao de escolha: infinitivo/imperativo sem ponto final (R8).
+mev00_040.scr:12	mev00_040.scr	12	(opcao do jogador)	(opcao do jogador)	escolha		自信はないが名乗ってみる	Give your name with hesitation	Opcao de escolha: infinitivo/imperativo sem ponto final (R8).
+mev00_050.scr:0	mev00_050.scr	0	カノンノ	Kanonno Grassvalley	personagem		あっちゃあ…、魔物だ	Oh no... Monsters!	
+mev00_050.scr:1	mev00_050.scr	1	カノンノ	Kanonno Grassvalley	personagem		通してくれそうに無いなぁ	Doesn't look like they'll let us pass.	
+mev00_050.scr:2	mev00_050.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ホント！？\nじゃあ、私もサポートするから、\nここは頑張ろう！	Really?!\nI'll support you from behind,\nso let's give it our all!	
+mev00_050.scr:3	mev00_050.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そうみたいだね…。\n倒さないと、先には進めなさそう	Looks like it...\nWe won't get through without a fight.	
+mev00_050.scr:4	mev00_050.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	えっ。\n○○も手伝ってくれるって？	Huh?\n○○ will help out too?	Reproduzido ○○ (control code do nome do jogador) conforme R2/E11.
+mev00_050.scr:5	mev00_050.scr	5	カノンノ	Kanonno Grassvalley	personagem		うん、じゃあ、一緒に戦おう！	All right, let's fight together!	
+mev00_050.scr:6	mev00_050.scr	6	カノンノ	Kanonno Grassvalley	personagem		じゃあ、行くよ！	Here we go!	
+mev00_050.scr:7	mev00_050.scr	7	(opcao do jogador)	(opcao do jogador)	escolha		武器を持ってる事を伝える	Tell her about your weapon	Opcao de escolha: infinitivo/imperativo sem ponto final (R8).
+mev00_050.scr:8	mev00_050.scr	8	(opcao do jogador)	(opcao do jogador)	escolha		戦う事を伝える	Say that you will fight	Opcao de escolha: infinitivo/imperativo sem ponto final (R8).
+mev00_060.scr:0	mev00_060.scr	0	カノンノ	Kanonno Grassvalley	personagem		大丈夫だった？	Are you all right?	
+mev00_060.scr:1	mev00_060.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あ、そろそろ船が到着する時間だ。\n急いで山を降りなきゃ！	The ship should be arriving soon!\nWe need to hurry down the mountain!	
+mev00_060.scr:2	mev00_060.scr	2	カノンノ	Kanonno Grassvalley	personagem		少し急ぐ事になるけど、いいかな？	We'll have to hurry, if that's okay?	
+mev00_060.scr:3	mev00_060.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	船に乗ったら、あなたの希望する場所へ\n送ってもらえる様に伝えるから	Once aboard, I'll ask them to take you\nwherever you want to go.	
+mev00_060.scr:4	mev00_060.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	そう。\nどこかへ行こうとしていたんでしょう？\nそれで、ここへ降りてしまったとか…	Right.\nYou were heading somewhere, weren't you?\nAnd ended up falling here instead...	
+mev00_060.scr:5	mev00_060.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	え…？\nどこへ行ったらいいのか、わからない？	Huh...?\nYou don't know where you need to go?	
+mev00_060.scr:6	mev00_060.scr	6	カノンノ	Kanonno Grassvalley	personagem		え………	What......?	
+mev00_060.scr:7	mev00_060.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ええっ！？\n自分の名前以外、何もわからないって…	What?!\nYou don't know anything but your name...?	
+mev00_060.scr:8	mev00_060.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	んーんんん…。\nそれじゃあ、どうすればいいかな	Hmmmm...\nThen what should we do?	
+mev00_060.scr:9	mev00_060.scr	9	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	とりあえず、船までおいでよ。\nそれから一緒に考えるから	For now, come with me to the ship.\nWe can figure it out together!	
+mev00_060.scr:10	mev00_060.scr	10	カノンノ	Kanonno Grassvalley	personagem		行こっ！	Let's go!	
+mev00_060.scr:11	mev00_060.scr	11	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	モンスターを倒すと、\nアイテムをドロップする事があります	Defeating monsters may cause them\nto drop items.	Mensagem de sistema (R8).
+mev00_060.scr:12	mev00_060.scr	12	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	なお、ドロップするアイテムは\nモンスターの種類により異なります	The items dropped will vary\ndepending on the type of monster.	Mensagem de sistema (R8).
+mev00_060.scr:13	mev00_060.scr	13	(opcao do jogador)	(opcao do jogador)	escolha		希望する場所について悩む	Wonder where you want to go	Opcao de escolha: infinitivo/imperativo sem ponto final (R8).
+mev00_060.scr:14	mev00_060.scr	14	(opcao do jogador)	(opcao do jogador)	escolha		送ると言われて悩む	Hesitate when offered a ride	Opcao de escolha: infinitivo/imperativo sem ponto final (R8).
+mev00_060.scr:15	mev00_060.scr	15	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	△ボタンを押すとメニューを起動します。\nメニューからアイテムの使用や、\nステータスで状態の確認などが出来ます	Press Triangle to open the Menu.\nFrom the Menu, you can use items\nor check your Status.	Mensagem de sistema: Triangle por △ (R8); Menu por メニュー (INDICE_TERMOS).
+mev00_060.scr:16	mev00_060.scr	16	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	×ボタンを押すと、ミニマップを表示し、\n周囲を確認出来ます	Press Cross to display the Minimap\nand check your surroundings.	Mensagem de sistema: Cross por × (R8); Minimap por ミニマップ (INDICE_TERMOS).
+mev00_060.scr:17	mev00_060.scr	17	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	再び非表示にするには、\n×ボタンを押して下さい	To hide it again,\npress the Cross button.	Mensagem de sistema: Cross por × (R8).
+mev00_070.scr:0	mev00_070.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	あれ？\nまだ船が到着してない。\n私達の方が、先だったかな	Huh?\nThe ship hasn't arrived yet.\nI guess we beat them here.	
+mev00_070.scr:1	mev00_070.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ねえ、○○。\nひょっとしたら、あなたは\n記憶喪失なのかもしれないね	Say, ○○.\nCould it be that you're\nsuffering from amnesia?	Reproduzido ○○ (control code do nome do jogador) conforme R2/E11.
+mev00_070.scr:2	mev00_070.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	何か、原因があって…。\nそういう状態になっているんじゃ\nないかなぁ	There must be some reason...\nfor why you ended up\nin a state like this.	
+mev00_070.scr:3	mev00_070.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	わからない。\nそれこそ、理由は色々あると思うから	I don't know.\nThere could be all kinds of reasons.	
+mev00_070.scr:4	mev00_070.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	でも、あなたがこの山へ降りて来た時以前の\n記憶が無い所をみると、あなたを包んでいた\n光に原因があったりするのかなぁ	Still, if you have no memories from\nbefore you landed, maybe that light\naround you was the cause...	
+mev00_070.scr:5	mev00_070.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	…うん。\n今は、無理に思い出そうとしない方が\nいいよ	...Yeah.\nIt's best not to force yourself\nto remember right now.	
+mev00_070.scr:6	mev00_070.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	あなたが良ければ、\nこれからどうしていけばいいかを\n一緒に考えるよ	If it's all right with you,\nwe can think about what to do next\ntogether.	
+mev00_070.scr:7	mev00_070.scr	7	カノンノ	Kanonno Grassvalley	personagem		船が来たよ！	The ship is here!	
+mev00_070.scr:8	mev00_070.scr	8	(opcao do jogador)	(opcao do jogador)	escolha		記憶喪失の原因について尋ねる	Ask about the cause of your amnesia	Opcao de escolha: infinitivo/imperativo sem ponto final (R8).
+mev00_070.scr:9	mev00_070.scr	9	(opcao do jogador)	(opcao do jogador)	escolha		黙っている	Stay silent	Opcao de escolha: infinitivo/imperativo sem ponto final (R8).
+mev00_090.scr:0	mev00_090.scr	0	アンジュ	Ange Serena	personagem		お疲れ様、カノンノ	Welcome back, Kanonno.	
+mev00_090.scr:1	mev00_090.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	あなたが魔物を討伐してくれたお陰で、\nペカン村の人達の移民は無事に済んだよ	Thanks to you defeating the monsters,\nthe Pecan Village migration went safely.	Pecan Village para ペカン村 (regra de comida J5: noz-peca).
+mev00_090.scr:2	mev00_090.scr	2	アンジュ	Ange Serena	personagem		ところで、そちらの男性は？	By the way, who is this gentleman?	
+mev00_090.scr:3	mev00_090.scr	3	カノンノ	Kanonno Grassvalley	personagem		彼とは、ルバーブ連山で出会って…	I met him in the Rhubarb Mountains...	Rhubarb Mountains para ルバーブ連山 (toponimo do INDICE_NOMES).
+mev00_090.scr:4	mev00_090.scr	4	アンジュ	Ange Serena	personagem		ところで、そちらの女性は？	By the way, who is this woman?	
+mev00_090.scr:5	mev00_090.scr	5	カノンノ	Kanonno Grassvalley	personagem		彼女とは、ルバーブ連山で出会って…	I met her in the Rhubarb Mountains...	Rhubarb Mountains para ルバーブ連山 (toponimo do INDICE_NOMES).
+mev00_090.scr:6	mev00_090.scr	6	アンジュ	Ange Serena	personagem		それじゃあ、まずは自己紹介からね	Well then, introductions first!	
+mev00_090.scr:7	mev00_090.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	わたしはアンジュ・セレーナ。\nあなたの話を聞いてもいいかな？	I am Ange Serena.\nWould you tell me your story?	
+mev00_090.scr:8	mev00_090.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	そう。\n記憶が無いなら、どこに行っていいかも\nわからないよね	I see.\nIf you have no memories, of course\nyou wouldn't know where to go.	
+mev00_090.scr:9	mev00_090.scr	9	アンジュ	Ange Serena	personagem		記憶が戻るまで、ここに置くのは構いません	You may stay until your memory returns.	
+mev00_090.scr:10	mev00_090.scr	10	アンジュ	Ange Serena	personagem	CRLF x1	でも、話を聞く限り体力には自信が\nある様だし、働いてもらいましょうか	Still, you seem fit and able-bodied,\nso how about putting you to work?	
+mev00_090.scr:11	mev00_090.scr	11	アンジュ	Ange Serena	personagem	CRLF x2	それじゃあ、今からあなたを\nギルド「アドリビトム」の一員として\n迎えるね	From now on, I welcome you\nas a member of our guild,\nAd Libitum!	Ad Libitum e guild grafados conforme os indices (INDICE_NOMES, INDICE_TERMOS).
+mev00_090.scr:12	mev00_090.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	このギルドの名前の事かな？\n古代神官語で「自由」という意味よ	Curious about our guild's name?\nIt means "freedom" in ancient clerical.	古代神官語 = ancient clerical.
+mev00_090.scr:13	mev00_090.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	まあ、おおむねそういうのが多いかな。\nだって、ここはギルドだもの	Well, we mostly do that sort of thing.\nAfter all, this is a guild.	
+mev00_090.scr:14	mev00_090.scr	14	アンジュ	Ange Serena	personagem	CRLF x2	ギルドというのは、人々から寄せられる依頼を\nこなす、いわゆる何でも屋さんと思って\nくれればいいかな	Think of a guild as a jack-of-all-trades\nthat handles all kinds of requests\nsent in by people.	
+mev00_090.scr:15	mev00_090.scr	15	アンジュ	Ange Serena	personagem	CRLF x1	でも、仕事の話よりも、まずは\n他のメンバーとの顔合わせが必要よ	Before work, though, you should\nmeet the rest of our members.	
+mev00_090.scr:16	mev00_090.scr	16	アンジュ	Ange Serena	personagem		みんなの所へ行って、挨拶してらっしゃい	Go on and introduce yourself to everyone.	
+mev00_090.scr:17	mev00_090.scr	17	アンジュ	Ange Serena	personagem		それが終わったら、仕事について教えるから	Once that's done, I'll teach you the job.	
+mev00_090.scr:18	mev00_090.scr	18	アンジュ	Ange Serena	personagem	CRLF x1	カノンノ、みんなへの挨拶に付いて行って\nあげてくれる？	Kanonno, would you go with them\nand show them around?	
+mev00_090.scr:19	mev00_090.scr	19	カノンノ	Kanonno Grassvalley	personagem		はい	Yes!	Termo "Yes" conforme INDICE_TERMOS.
+mev00_090.scr:20	mev00_090.scr	20	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	それじゃあ、このギルドの拠点となる船、\n「バンエルティア号」の艦内見取り図を\nあげるね	Here is the Ship Map of our guild base,\nthe ship Van Eltia.\nTake it!	Ship Map e Van Eltia conforme INDICE_TERMOS e INDICE_NOMES.
+mev00_090.scr:21	mev00_090.scr	21	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	これを見れば、これから行く場所が\nわかりやすいよ。\n迷ったら見てね	With this, you can easily see\nwhere to go next.\nCheck it if you get lost!	
+mev00_090.scr:22	mev00_090.scr	22	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	今、下の階のみんなは\n仕事で外出中なの	Right now, everyone on the lower floor\nis out on jobs.	
+mev00_090.scr:23	mev00_090.scr	23	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	下の階には今行けない様になってるから、\n注意してね。\nまずは、１階のみんなに挨拶に行こう	You can't go down there right now,\nso be careful.\nFirst, let's greet everyone on 1F!	
+mev00_090.scr:24	mev00_090.scr	24	カノンノ	Kanonno Grassvalley	personagem		それじゃあ、早速見取り図を見てみて！	Now then, take a look at the Ship Map!	Ship Map para 艦内見取り図 (INDICE_TERMOS).
+mev00_090.scr:25	mev00_090.scr	25	(opcao do jogador)	(opcao do jogador)	escolha		ありのまま話す	Tell the truth plainly	Opcao de escolha: infinitivo/imperativo sem ponto final (R8).
+mev00_090.scr:26	mev00_090.scr	26	(opcao do jogador)	(opcao do jogador)	escolha		自信は無いが話す	Speak hesitantly	Opcao de escolha: infinitivo/imperativo sem ponto final (R8).
+mev00_090.scr:27	mev00_090.scr	27	(opcao do jogador)	(opcao do jogador)	escolha		アドリビトムとは何かを聞く	Ask what Ad Libitum is	Opcao de escolha: infinitivo/imperativo sem ponto final (R8).
+mev00_090.scr:28	mev00_090.scr	28	(opcao do jogador)	(opcao do jogador)	escolha		仕事は体力の要る仕事かと聞く	Ask if the work requires physical labor	Opcao de escolha: infinitivo/imperativo sem ponto final (R8).
+mev00_100.scr:0	mev00_100.scr	0	クレス	Cress Albane	personagem		やあ、新しい仲間だね	Hello there. You must be our new ally.	
+mev00_100.scr:1	mev00_100.scr	1	クレス	Cress Albane	personagem	CRLF x1	僕はクレス・アルベイン。\nこれから、よろしく	I'm Cress Albane.\nIt's good to meet you.	Cress Albane conforme INDICE_NOMES.
+mev00_100.scr:2	mev00_100.scr	2	ミント	Mint Adenade	personagem		私はミント・アドネードです	I am Mint Adenade.	Mint Adenade conforme INDICE_NOMES.
+mev00_100.scr:3	mev00_100.scr	3	ミント	Mint Adenade	personagem	CRLF x2	アドリビトムのリーダーである\nアンジュさんとは、\n元々教会で修行をした旧知の仲でした	Ange, the leader of Ad Libitum,\nis an old friend of mine\nfrom our days training at the church.	Honorifico -san omitido (J2).
+mev00_100.scr:4	mev00_100.scr	4	ミント	Mint Adenade	personagem	CRLF x1	ギルドの発足に手を貸して欲しいと便りを頂き、\nアドリビトムに加わりました	She asked for help with the guild,\nso I joined Ad Libitum.	Ad Libitum e guild explicitos conforme original.
+mev00_100.scr:5	mev00_100.scr	5	クレス	Cress Albane	personagem		僕はミントに付いて来たんだ	I came along to accompany Mint.	
+mev00_100.scr:6	mev00_100.scr	6	クレス	Cress Albane	personagem	CRLF x2	僕は将来、自分の故郷にギルドを\n作りたくてね。\n勉強の為に、ここに居るんだ	Someday I want to start a guild\nback in my hometown,\nso I'm here to learn.	
+mev00_100.scr:7	mev00_100.scr	7	ミント	Mint Adenade	personagem	CRLF x1	それでは、\n今後ともよろしくお願いします	Well then,\nI look forward to working with you.	
+mev00_110.scr:0	mev00_110.scr	0	マルタ	Marta Lualdi	personagem		あ、キミが新しいメンバーだよね？	Oh, you're the new member, right?	
+mev00_110.scr:1	mev00_110.scr	1	マルタ	Marta Lualdi	personagem	CRLF x1	私は、マルタ・ルアルディ。\nよろしくね	I'm Marta Lualdi.\nNice to meet you!	Marta Lualdi conforme INDICE_NOMES.
+mev00_110.scr:2	mev00_110.scr	2	マルタ	Marta Lualdi	personagem		ほら、エミルも！	Come on, Emil, you too!	Emil conforme INDICE_NOMES.
+mev00_110.scr:3	mev00_110.scr	3	エミル	Emil Castagnier	personagem	CRLF x1	……あ、…え。\nエ、エミル・キャスタニエ…です	...Ah, um...\nI-I'm Emil Castagnier...	Emil Castagnier conforme INDICE_NOMES.
+mev00_110.scr:4	mev00_110.scr	4	マルタ	Marta Lualdi	personagem	CRLF x2	もう！　男なら、はっきりする！\nそんな風に、いちいち他人の顔色窺ってたら\n相手に気を遣わせちゃうでしょ	Jeez! Speak up like a man!\nWorrying about what people think\njust makes them uncomfortable!	Tom caracteristico de Marta com Emil.
+mev00_110.scr:5	mev00_110.scr	5	エミル	Emil Castagnier	personagem		う、うん…、ごめん…	Y-Yeah... I'm sorry...	Tom timido de Emil.
+mev00_110.scr:6	mev00_110.scr	6	マルタ	Marta Lualdi	personagem	CRLF x2	彼、あなたとの初対面で\nちょっと緊張してるみたい。\nでも、すぐになれるから	He's a little nervous\nmeeting someone new,\nbut he'll get used to it soon!	
+mev00_110.scr:7	mev00_110.scr	7	マルタ	Marta Lualdi	personagem	CRLF x2	私達はアンジュと故郷が同じで、\nギルド発足を手伝ったの。\nそのままここで働いてるんだ	We're from the same hometown as Ange,\nso we helped found the guild.\nWe've been working here ever since!	
+mev00_110.scr:8	mev00_110.scr	8	マルタ	Marta Lualdi	personagem	CRLF x1	今日からキミも仲間だね！\n一緒に頑張ろう	You're one of us starting today!\nLet's do our best together!	
+mev00_120.scr:0	mev00_120.scr	0	クラトス	Kratos Aurion	personagem	CRLF x2	クラトス・アウリオンだ。\nリーダーのアンジュより、\n傭兵として雇われている	I am Kratos Aurion.\nI was hired as a mercenary\nby our leader, Ange.	Kratos Aurion e Ange conforme INDICE_NOMES.
+mev00_120.scr:1	mev00_120.scr	1	クラトス	Kratos Aurion	personagem	CRLF x1	…？\nお前は…	...?\nYou are...	
+mev00_120.scr:2	mev00_120.scr	2	クラトス	Kratos Aurion	personagem	CRLF x1	いや…、何でもない。\n早く仕事を覚えるのだな	No... It is nothing.\nLearn your duties quickly.	Registro estoico e autoritario de Kratos.
+mev00_130.scr:0	mev00_130.scr	0	ルーティ	Rutee Katrea	personagem		はいはい、新人さんね	Well, well, the newcomer!	Tom informal e direto de Rutee.
+mev00_130.scr:1	mev00_130.scr	1	ルーティ	Rutee Katrea	personagem	CRLF x1	あたしは、ルーティ・カトレット。\n遺跡発掘専門のトレジャーハンターよ	I'm Rutee Katrea.\nA treasure hunter of ancient ruins!	Rutee Katrea conforme INDICE_NOMES.
+mev00_130.scr:2	mev00_130.scr	2	スタン	Stahn Aileron	personagem	CRLF x1	俺は、スタン・エルロン！\nよろしくな	I'm Stahn Aileron!\nNice to meet ya!	Stahn Aileron conforme INDICE_NOMES.
+mev00_130.scr:3	mev00_130.scr	3	スタン	Stahn Aileron	personagem		フィリアには、もう会ったか？	Have you met Philia yet?	Philia conforme INDICE_NOMES.
+mev00_130.scr:4	mev00_130.scr	4	スタン	Stahn Aileron	personagem	CRLF x1	フィリアがさ、世界中の人を手助けする\nギルドに入るって聞いて…、な？	We heard Philia was joining a guild\nto help people across the world, right?	
+mev00_130.scr:5	mev00_130.scr	5	ルーティ	Rutee Katrea	personagem	CRLF x1	あたし達も手伝いましょ、って事で\nこの船に乗ったの	So we decided to help out\nand boarded this ship.	
+mev00_130.scr:6	mev00_130.scr	6	ルーティ	Rutee Katrea	personagem	CRLF x2	ま、目的はそれだけじゃないんだけど。\n孤児院を経営する為の\n資金稼ぎしなくちゃなんないの	Well, that's not our only reason.\nI need to raise funds\nto keep my orphanage running!	
+mev00_130.scr:7	mev00_130.scr	7	ルーティ	Rutee Katrea	personagem	CRLF x2	そういうわけで、\n儲かりそうな仕事の時には\n声をかけてちょうだい♪	So whenever a job\nlooks like it pays well,\nbe sure to call for me!	Nota musical ♪ do original descartada por nao ser ASCII (R1).
+mev00_140.scr:0	mev00_140.scr	0	フィリア	Philia Felice	personagem	CRLF x1	私から伺おうと思っていましたのに、\nご丁寧にありがとうございます	I had intended to visit you myself,\nso thank you for coming by.	Tom polido e humilde de Philia.
+mev00_140.scr:1	mev00_140.scr	1	フィリア	Philia Felice	personagem	CRLF x1	私は、フィリア・フィリスと申します。\nよろしくお願いします	My name is Philia Felice.\nIt is a pleasure to meet you.	Philia Felice conforme INDICE_NOMES.
+mev00_140.scr:2	mev00_140.scr	2	フィリア	Philia Felice	personagem	CRLF x1	私とアンジュさんは、\n教会に勤めていた時からの知り合いなのです	Ange and I have known each other\nsince our time serving at church.	Honorifico -san omitido (J2).
+mev00_140.scr:3	mev00_140.scr	3	フィリア	Philia Felice	personagem	CRLF x1	出身国は違いますけれど、\n私達は教会出身者なんですよ	Though we come from different nations,\nwe both hail from the clergy.	
+mev00_140.scr:4	mev00_140.scr	4	フィリア	Philia Felice	personagem	CRLF x2	それで、アンジュさんが多くの人々の\n力になれるギルドを立ち上げたと\n便りをくれて	Ange wrote that she had formed\na guild to aid many people,\nand asked for my help.	Ange e guild conforme original.
+mev00_140.scr:5	mev00_140.scr	5	フィリア	Philia Felice	personagem		私も、ぜひ協力したくて来たんです	I wanted to assist her, so I came here.	
+mev00_140.scr:6	mev00_140.scr	6	フィリア	Philia Felice	personagem		では、今後ともよろしくお願い致します	I look forward to working with you.	
+mev00_150.scr:0	mev00_150.scr	0	シャーリィ	Shirley Fennes	personagem	CRLF x2	こんにちは、初めまして。\nわたしは、シャーリィ・フェンネスと\nいいます	Hello, nice to meet you.\nMy name is Shirley Fennes.\nIt's a pleasure.	Shirley Fennes conforme INDICE_NOMES.
+mev00_150.scr:1	mev00_150.scr	1	シャーリィ	Shirley Fennes	personagem		そして、こっちはわたしの兄の…	And this is my older brother...	
+mev00_150.scr:2	mev00_150.scr	2	セネル	Senel Coolidge	personagem		セネル・クーリッジだ	I'm Senel Coolidge.	Senel Coolidge conforme INDICE_NOMES.
+mev00_150.scr:3	mev00_150.scr	3	セネル	Senel Coolidge	personagem	CRLF x2	元はギルド専属のマリントルーパーを\nやっていた。\nここへはつい最近、加入したばかりだ	I used to work as a Marine Trooper\nfor a guild back home.\nI only recently joined up here.	Marine Trooper (classe canonica de Legendia).
+mev00_150.scr:4	mev00_150.scr	4	シャーリィ	Shirley Fennes	personagem		元々は故郷のギルドに所属していました	We belonged to a guild in our homeland.	
+mev00_150.scr:5	mev00_150.scr	5	シャーリィ	Shirley Fennes	personagem	CRLF x1	でも、わたし達の国は、\n戦争で焼け野原となってしまって…	But our country was burned to ash\nin the war...	
+mev00_150.scr:6	mev00_150.scr	6	セネル	Senel Coolidge	personagem	CRLF x1	それで、こっちのギルドへ移ったわけだ。\n故郷のギルドは、解体してしまったからな	So we transferred over to this guild,\nsince our old one was disbanded.	
+mev00_150.scr:7	mev00_150.scr	7	シャーリィ	Shirley Fennes	personagem	CRLF x1	でも、バンエルティア号のお陰で\nいつでも故郷のみんなを助けに行けます	Thanks to the Van Eltia,\nwe can always help our people back home.	Van Eltia conforme INDICE_NOMES.
+mev00_150.scr:8	mev00_150.scr	8	シャーリィ	Shirley Fennes	personagem	CRLF x1	そういえば、研究室のウィルさんには\n会いましたか？	By the way, have you met Will\ndown in the research lab yet?	Will conforme INDICE_NOMES.
+mev00_150.scr:9	mev00_150.scr	9	シャーリィ	Shirley Fennes	personagem	CRLF x1	ウィルさんも、わたし達と同じ故郷、\n同じギルドにいたんです	Will comes from our homeland too,\nand was in the same guild.	
+mev00_150.scr:10	mev00_150.scr	10	シャーリィ	Shirley Fennes	personagem	CRLF x1	それじゃあ、\nこれからよろしくお願いします	Well then,\nI look forward to working with you.	
+mev00_160.scr:0	mev00_160.scr	0	ファラ	Farah Oersted	personagem	CRLF x1	あっ、初めまして。\nあなたが、新しい仲間になるのね	Oh, hello!\nYou must be our newest ally.	Tom acolhedor e animado de Farah.
+mev00_160.scr:1	mev00_160.scr	1	ファラ	Farah Oersted	personagem	CRLF x1	わたしはファラ。\nファラ・エルステッド	I'm Farah.\nFarah Oersted!	Farah Oersted conforme INDICE_NOMES.
+mev00_160.scr:2	mev00_160.scr	2	ファラ	Farah Oersted	personagem	CRLF x1	アンジュとは故郷が同じで、\nギルドを立ち上げた時からのメンバーなの	I share a hometown with Ange, and I've\nbeen here since the guild started!	
+mev00_160.scr:3	mev00_160.scr	3	リッド	Reid Hershel	personagem	CRLF x2	オレはリッド・ハーシェル。\n同じく、ギルド発足当時からのメンバーだ。\nよろしくな	I'm Reid Hershel.\nI've been in the guild since the start.\nGood to meet ya.	Reid Hershel conforme INDICE_NOMES. Tom descontraido de Reid.
+mev00_160.scr:4	mev00_160.scr	4	リッド	Reid Hershel	personagem		元々は、故郷の村で猟師をやってた	I used to be a hunter back in my village.	
+mev00_160.scr:5	mev00_160.scr	5	リッド	Reid Hershel	personagem	CRLF x2	でも、領主国がオレ達の村に綿の栽培を強制\nさせようと、畑を広げる為に\n猟をする森まで焼いちまったんだよ	Our lords forced us to grow cotton,\nburning down our hunting grounds\nto expand their fields.	Termo cotton para 綿 (INDICE_TERMOS).
+mev00_160.scr:6	mev00_160.scr	6	ファラ	Farah Oersted	personagem	CRLF x2	わたしは農家出身なんだけど、\n綿の栽培を強制されたから、自分達の\n食料すらまかなえなくなっちゃったの	I come from a family of farmers,\nbut forced cotton farming meant\nwe couldn't even feed ourselves.	
+mev00_160.scr:7	mev00_160.scr	7	リッド	Reid Hershel	personagem	CRLF x1	綿じゃあ、腹一杯には\nならねえからなあ	You can't fill your belly\nwith cotton, after all.	
+mev00_160.scr:8	mev00_160.scr	8	ファラ	Farah Oersted	personagem	CRLF x2	でも、このギルドで働けば、\n村に不足している物資を集めて\n届ける事も出来るんだ	By working for this guild, though,\nwe can gather needed supplies\nand send them back to our village!	
+mev00_160.scr:9	mev00_160.scr	9	リッド	Reid Hershel	personagem		じゃ、これからよろしくな	Well, look forward to working with ya.	
+mev00_170.scr:0	mev00_170.scr	0	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	新入りか。\nさっき、話を聞いた	The newcomer, I take it.\nI heard about you earlier.	Tom calmo e reservado de Veigue.
+mev00_170.scr:1	mev00_170.scr	1	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	オレは、ヴェイグ・リュングベル。\nアニーやクレアと同じヘーゼル村出身だ	I am Veigue Lungberg, from Hazel Village,\nthe same as Annie and Claire.	Veigue Lungberg, Annie, Claire e Hazel Village conforme INDICE_NOMES.
+mev00_170.scr:2	mev00_170.scr	2	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	ここへは最近入ったばかりで、\nオレから教えられる事は少ない	I joined recently myself,\nso there is little I can teach you.	
+mev00_170.scr:3	mev00_170.scr	3	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	ギルドのみんなは、\nそれぞれ故郷での事情があって\nここへ来ている	Everyone in the guild has their own\nreasons and circumstances back home\nfor coming here.	
+mev00_170.scr:4	mev00_170.scr	4	ヴェイグ	Veigue Lungberg	personagem		良ければ、力になって欲しい	Lend us your strength, if you will.	

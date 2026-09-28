@@ -1,0 +1,106 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+tev06_001.scr:0	tev06_001.scr	0	アスベル	Asbel Lhant	personagem	CRLF x1	やあ、○○。\n来てくれてありがとう	Hey, ○○.\nThanks for coming	
+tev06_001.scr:1	tev06_001.scr	1	アスベル	Asbel Lhant	personagem		俺は、アスベル・ラント	I'm Asbel Lhant	
+tev06_001.scr:2	tev06_001.scr	2	ユーリ	Yuri Lowell	personagem		オレは、ユーリ・ローウェル	I'm Yuri Lowell	
+tev06_001.scr:3	tev06_001.scr	3	ノーマ	Norma Beatty	personagem		あたし、ノーマ・ビアッティ！	I'm Norma Beatty!	
+tev06_001.scr:4	tev06_001.scr	4	ノーマ	Norma Beatty	personagem	CRLF x1	今日はあたし達と一緒に冒険しよ〜ね！\nうひょ〜〜〜！　テンション上がってきたあ！	Let's go on an adventure together today!\nUhyaaa! I'm so pumped up already!	
+tev06_001.scr:5	tev06_001.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x2	あんま時間はねえが、\n今日はレディアントマイソロジー３の世界を\n楽しんでいってくれ	We don't have much time, but\nenjoy the world of Radiant Mythology 3\nwhile you're here today	
+tev06_001.scr:6	tev06_001.scr	6	ノーマ	Norma Beatty	personagem	CRLF x2	はいは〜〜い！　質問〜！\nで、あたし達ってば、\n何すりゃいいのかな？	Yes yes! Question!\nSo, what exactly\nare we supposed to do?	
+tev06_001.scr:7	tev06_001.scr	7	アスベル	Asbel Lhant	personagem	CRLF x2	そうだな、今日は○○の力を借りて\nこのルバーブ連山にいる「ケイブレックス」\nを、退治しに行こうと思っている	Well, today with ○○'s help,\nI'm thinking we go defeat the\n"Caverex" here in Rhubarb Mountains	
+tev06_001.scr:8	tev06_001.scr	8	ノーマ	Norma Beatty	personagem	CRLF x2	うんうん、いいね〜！\nそいじゃ、景気良くどかーん！\nといってみよーか！	Uh-huh, sounds good!\nAlright then, let's go out\nwith a bang!	
+tev06_001.scr:9	tev06_001.scr	9	ノーマ	Norma Beatty	personagem	CRLF x2	じゃ、期待しちゃうよ！\nあたしの為にお宝探してくれても\nいいんだかんね〜♪	Well, I'm looking forward to it!\nYou can totally find treasure\nfor me too, y'know!	
+tev06_002.scr:0	tev06_002.scr	0	アスベル	Asbel Lhant	personagem	CRLF x2	ところで、今回の\nレディアント　マイソロジーは\n三作目になるらしいが…	By the way, this time's\nRadiant Mythology is apparently\nthe third installment...	
+tev06_002.scr:1	tev06_002.scr	1	ノーマ	Norma Beatty	personagem	CRLF x2	そうそう、だけど、\nあたしとベルベルは\n今回からの参加だしー	Right, right, but\nme and Belbel\nare joining for the first time this time	
+tev06_002.scr:2	tev06_002.scr	2	アスベル	Asbel Lhant	personagem		ベ、ベルベル？	B-Belbel?	
+tev06_002.scr:3	tev06_002.scr	3	ノーマ	Norma Beatty	personagem		そ！　あんたはベルベル！	Yep! You're Belbel!	
+tev06_002.scr:4	tev06_002.scr	4	ノーマ	Norma Beatty	personagem	CRLF x2	それはこっちに置いといて。\nねえねえ、前作からガツンとパワーアップ\nしたとこ、一杯あるんでしょ〜？？	Anyway, let's set that aside.\nHey hey, there's gotta be tons of\nstuff powered up from last time, right??	
+tev06_002.scr:5	tev06_002.scr	5	ノーマ	Norma Beatty	personagem		そういうの、教えてよ〜〜！	Tell me all about it!!	
+tev06_002.scr:6	tev06_002.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x2	そうだな。\nお前があだ名を付けなきゃなんねえ奴が\n前作より大勢いるって事だな	Yeah, well.\nThere's a lot more people you're\ngonna need to nickname than last time	
+tev06_002.scr:7	tev06_002.scr	7	ノーマ	Norma Beatty	personagem	CRLF x1	マジ！？\n前作よりすっごい、一杯…？？？	Seriously!?\nWay more than last time...???	
+tev06_002.scr:8	tev06_002.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x1	ああ。\nそんだけオレ達の仲間が増えるって事だ	Yeah.\nThat's how many more allies we've got now	
+tev06_003.scr:0	tev06_003.scr	0	ノーマ	Norma Beatty	personagem	CRLF x2	じゃ、じゃあ他には！？\n他にもパワーアップした部分を\n教えなさいよ〜！	Th-then what else!?\nTell me about other stuff\nthat got powered up too!	
+tev06_003.scr:1	tev06_003.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x2	他、ねえ。\n気が付かねえか？\nオレ達が今歩いてるこのダンジョンだよ	Else, huh.\nHaven't you noticed?\nIt's this dungeon we're walking through	
+tev06_003.scr:2	tev06_003.scr	2	ユーリ	Yuri Lowell	personagem	CRLF x1	前作までとは違う、\n見下ろし型になってるだろ	It's different from before,\nnow it's a top-down view	
+tev06_003.scr:3	tev06_003.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x1	つまり、よりシリーズ本編に近い感覚での\nプレイが出来るってワケだ	In other words, you get a feel\nmuch closer to the main series	
+tev06_003.scr:4	tev06_003.scr	4	アスベル	Asbel Lhant	personagem	CRLF x1	そういえば、このダンジョンで\n違和感がなかったのはそのせいか	Come to think of it, that's why this\ndungeon didn't feel off to me	
+tev06_003.scr:5	tev06_003.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x2	ダンジョンと言やぁ、ユーザーからの\n要望の高かった、\nギミックも導入されているらしいぜ	Speaking of dungeons, apparently\nthey've added gimmicks that users\nhad been asking for a lot too	
+tev06_003.scr:6	tev06_003.scr	6	ノーマ	Norma Beatty	personagem	CRLF x1	へ〜ぇ。\nそれじゃあ、より冒険を楽しめるじゃん！	Ohh.\nThen we get to enjoy adventuring more!	
+tev06_003.scr:7	tev06_003.scr	7	ノーマ	Norma Beatty	personagem	CRLF x1	よぉぉ〜〜〜っし、\nガゼン燃えてきたもんね！	Alriiight,\nnow I'm totally fired up!	
+tev06_004.scr:0	tev06_004.scr	0	アスベル	Asbel Lhant	personagem	CRLF x1	○○の格好、\nよく似合ってるよ	○○'s outfit\nreally suits you	
+tev06_004.scr:1	tev06_004.scr	1	アスベル	Asbel Lhant	personagem		キャラメイクはどうだった？	How was character creation?	
+tev06_004.scr:2	tev06_004.scr	2	ノーマ	Norma Beatty	personagem	CRLF x2	そうそう、今回はキャラメイクが\nさらにパワーアップしてるのよね。\nく〜っ、ウラヤマしいな〜ったく！	Right, right, character creation\ngot even more powered up this time.\nUgh, I'm so jealous, seriously!	
+tev06_004.scr:3	tev06_004.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x1	キャラメイクのパーツはさらに増加してるし、\n身長の変更も可能になったらしいな	Character parts increased even more,\nand you can adjust height too now	
+tev06_004.scr:4	tev06_004.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x1	よりバリエーション豊かにキャラクターが\n作成出来るぞ	You can make characters\nwith even richer variety	
+tev06_004.scr:5	tev06_004.scr	5	ノーマ	Norma Beatty	personagem	CRLF x1	それと、装備のパーツ！\nココ、重要じゃない？	Also, equipment parts!\nThat's important, isn't it?	
+tev06_004.scr:6	tev06_004.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x1	シリーズを通じて使用してきた装備も\nリファインされているそうだ	Gear used throughout the series\nhas also been refined, they say	
+tev06_004.scr:7	tev06_004.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x1	今まで遊んでくれたユーザーにも、\n新鮮な気持ちで楽しんでもらえると思うぜ	Even users who've played before\nshould enjoy it with a fresh feeling	
+tev06_005.scr:0	tev06_005.scr	0	アスベル	Asbel Lhant	personagem	CRLF x2	そういえば戦闘がどう\nパワーアップしているのか\n気になるところだな	Come to think of it, I'm curious\nhow the battles have been\npowered up too	
+tev06_005.scr:1	tev06_005.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x2	戦闘ね。\n確かに、今回は今までとは違う爽快さを\n体験出来ると思うぜ	Battles, huh.\nYeah, I think this time you'll feel\na thrill unlike before	
+tev06_005.scr:2	tev06_005.scr	2	ユーリ	Yuri Lowell	personagem	CRLF x2	オーバーリミッツに加え、\n今回はレディアント・ドライヴって\nシステムもあるからな	On top of Overlimits, this time\nthere's also a system called\n"Radiant Drive"	
+tev06_005.scr:3	tev06_005.scr	3	アスベル	Asbel Lhant	personagem	CRLF x2	そうか。\nオーバーリミッツから秘奥義で大ダメージを\n狙うのは従来通り、それに…	I see.\nGoing from Overlimits into a Mystic Arte\nfor big damage is still there, and...	
+tev06_005.scr:4	tev06_005.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x2	ああ、それとも新システムの\n「レディアント・ドライヴ」で\n勝負を決めるか、だな	Right, or you settle it with\nthe new system,\n"Radiant Drive", instead	
+tev06_005.scr:5	tev06_005.scr	5	ノーマ	Norma Beatty	personagem	CRLF x1	で、その\nレディアント・ドライヴって何よ？	So, what exactly\nis this Radiant Drive thing?	
+tev06_005.scr:6	tev06_005.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x2	そうだな。\nラッシュモードってとこか。\nまず、特徴として移動速度がアップする	Let's see.\nCall it a rush mode, I guess.\nFirst off, your movement speed goes up	
+tev06_005.scr:7	tev06_005.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x2	そして特技・秘技・奥義の流れを無視して\n技を連発する事が可能！\n詠唱時間ゼロで術の発動が出来る！	And you can chain Skills ignoring the\nSkill/Arcane/Special Arte order too!\nArtes activate with zero cast time!	
+tev06_005.scr:8	tev06_005.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x2	ま、オーバーリミッツから秘奥義で行くか、\nそれともレディアント・ドライヴで行くか。\nより戦略性のある戦い方が楽しめるってワケだ	So, go Overlimits into a Mystic Arte,\nor go with Radiant Drive instead.\nYou get to enjoy more strategic combat	
+tev06_005.scr:9	tev06_005.scr	9	ノーマ	Norma Beatty	personagem		ふんふん…って	Uh-huh, uh-huh... wait	
+tev06_005.scr:10	tev06_005.scr	10	ノーマ	Norma Beatty	personagem	CRLF x2	それより、もっとみんなが知りたい事って\nあるでしょ？\nほらっ、秘奥義とか！！	More importantly, there's stuff\neveryone wants to know more, right?\nLike, Mystic Artes!!	
+tev06_005.scr:11	tev06_005.scr	11	アスベル	Asbel Lhant	personagem	CRLF x1	ああ、今回はカットイン演出が\n大幅に強化されたと聞いているが	Right, I hear the cut-in\nanimations got a huge upgrade this time	
+tev06_005.scr:12	tev06_005.scr	12	ノーマ	Norma Beatty	personagem	CRLF x2	そーなのよーぅ！\nあたしにもカットインがあるんだって！\nだ〜も〜、たまらーん！	That's right!\nI hear I even get a cut-in of my own!\nOh man, I can't stand it!	
+tev06_005.scr:13	tev06_005.scr	13	ノーマ	Norma Beatty	personagem		もう、ガンガン使って欲しいよね！！	I really want you to use it a ton!!	
+tev06_005.scr:14	tev06_005.scr	14	ノーマ	Norma Beatty	personagem	CRLF x1	って、アレ？\nあたしの秘奥義見たっけ？	Wait, huh?\nHave you seen my Mystic Arte yet?	
+tev06_005.scr:15	tev06_005.scr	15	ノーマ	Norma Beatty	personagem	CRLF x1	まだだったら、今日はあたしの秘奥義\nとくと目に焼き付けて帰るがいい！	If not, today you'd better burn\nmy Mystic Arte into your memory!	
+tev06_006.scr:0	tev06_006.scr	0	ユーリ	Yuri Lowell	personagem		ああ、今使ったのはソーサラーリングだ	That was the Sorcerer's Ring I just used	
+tev06_006.scr:1	tev06_006.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x2	今回からは、シリーズ本編でおなじみの\nこのソーサラーリングが、色んな所で\n使えるみたいだぞ	Starting this time, this Sorcerer's Ring\nfamiliar from the main series can\nbe used in all kinds of places	
+tev06_006.scr:2	tev06_006.scr	2	アスベル	Asbel Lhant	personagem	CRLF x1	という事は、このダンジョンの\nどこかで使えるという事だな？	So that means we can use it\nsomewhere in this dungeon too?	
+tev06_006.scr:3	tev06_006.scr	3	ユーリ	Yuri Lowell	personagem		ああ、楽しみにしてろよ	Yeah, look forward to it	
+tev06_007.scr:0	tev06_007.scr	0	アスベル	Asbel Lhant	personagem		いたぞ、ケイブレックスだ！	There it is, the Caverex!	
+tev06_007.scr:1	tev06_007.scr	1	ユーリ	Yuri Lowell	personagem		さあ、今日一番の盛り上がりどころだ	Now, this is today's biggest highlight	
+tev06_007.scr:2	tev06_007.scr	2	ノーマ	Norma Beatty	personagem		よーし、じゃああんたら…	Alright, so you guys...	
+tev06_007.scr:3	tev06_007.scr	3	ノーマ	Norma Beatty	personagem	CRLF x1	あたし、戦闘専門じゃないから\nあとはお任せ〜！	I'm not really the battle type,\nso I'll leave the rest to you!	
+tev06_007.scr:4	tev06_007.scr	4	ユーリ	Yuri Lowell	personagem		…お前が一番狙われてるっぽいぞ	...Looks like it's after you the most	
+tev06_007.scr:5	tev06_007.scr	5	ノーマ	Norma Beatty	personagem		うそっ！？	No way!?	
+tev06_008.scr:0	tev06_008.scr	0	ノーマ	Norma Beatty	personagem	CRLF x1	おおー！！\n頼りになるじゃない！	Ohh!!\nYou're pretty reliable!	
+tev06_008.scr:1	tev06_008.scr	1	ユーリ	Yuri Lowell	personagem		ああ、なかなかいい腕してたぜ	Yeah, you've got quite the skill	
+tev06_008.scr:2	tev06_008.scr	2	アスベル	Asbel Lhant	personagem		さて、ケイブレックスは倒したが…	Well, we defeated the Caverex, but...	
+tev06_008.scr:3	tev06_008.scr	3	ノーマ	Norma Beatty	personagem	CRLF x1	え？　もうおしまいなの〜？\nいやだよ〜	Huh? It's already over?\nAww, no way	
+tev06_008.scr:4	tev06_008.scr	4	ノーマ	Norma Beatty	personagem	CRLF x2	いいじゃん。\nこれで終わりなんて無粋な事言わずにさぁ、\nまだ時間があるんだし遊ぼうよ	C'mon, it's fine.\nDon't say something so lame as ending\nhere, we've still got time, let's play	
+tev06_008.scr:5	tev06_008.scr	5	ユーリ	Yuri Lowell	personagem	CRLF x2	そうだな。\nせっかく○○もいる事だし\nもちっと付き合うか	Yeah, alright.\nSince ○○'s here too,\nlet's keep you company a bit longer	
+tev06_008.scr:6	tev06_008.scr	6	ノーマ	Norma Beatty	personagem		よっしゃ〜！	Alriiight!	
+tev06_009.scr:0	tev06_009.scr	0	ユーリ	Yuri Lowell	personagem		おっと、時間だな	Oh, guess it's time	
+tev06_009.scr:1	tev06_009.scr	1	ノーマ	Norma Beatty	personagem		あっという間だよ〜、もっと遊びたいよ〜	That went by so fast, I wanna play more	
+tev06_009.scr:2	tev06_009.scr	2	アスベル	Asbel Lhant	personagem	CRLF x1	そうか、○○とは\nここでお別れになるのか	I see, so this is\nwhere we part ways with ○○	
+tev06_009.scr:3	tev06_009.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x2	そのうちまた会えるさ。\n次に会う時は、もっと本格的な冒険が\n出来るだろうし、な	We'll meet again sometime.\nNext time, we'll probably be able to\nhave a more proper adventure too	
+tev06_009.scr:4	tev06_009.scr	4	アスベル	Asbel Lhant	personagem		そうだな	Yeah	
+tev06_009.scr:5	tev06_009.scr	5	アスベル	Asbel Lhant	personagem	CRLF x2	それじゃ、俺は次に\n○○に会う時に備えて、\n腕を磨いておくとするよ	Well then, I'll go polish my skills\nfor the next time\nI meet ○○	
+tev06_009.scr:6	tev06_009.scr	6	ノーマ	Norma Beatty	personagem		じゃ、名残惜しいけどさ…	Well, it's a bit sad, but...	
+tev06_009.scr:7	tev06_009.scr	7	ノーマ	Norma Beatty	personagem	CRLF x2	またあたし達に会いに来てよ。\nテイルズ　オブ　ザ　ワールド\nレディアント　マイソロジー３の世界にさ	Come see us again.\nIn the world of Tales of the World:\nRadiant Mythology 3	
+tev06_009.scr:8	tev06_009.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x2	んじゃ、今日のところはお別れだ。\n○○、\nまた会おうな！	Well then, this is goodbye for today.\n○○,\nsee you again!	
+tev06_010.scr:0	tev06_010.scr	0	ノーマ	Norma Beatty	personagem	CRLF x2	むき〜〜！\nちょっとぉ。\n何か、勝てなかったんですけど…	Grrr!\nHey now.\nWe kinda didn't win, though...	
+tev06_010.scr:1	tev06_010.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x1	負けたモンはしょうがねぇ。\nまだ時間はあるし、焦らず行こうぜ	Can't help it if we lost.\nWe've still got time, let's not rush	
+tev06_011.scr:0	tev06_011.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		体験版では、ダンジョンの外へ移動する事が出来ません	You can't leave the dungeon in this demo	
+tev07_010.scr:0	tev07_010.scr	0	ロックス	Rocks	personagem	CRLF x2	そうそう。\nあなたにお届けものが来ています。\n貴重品の様ですが…	Oh right.\nA delivery has come for you.\nIt looks like a valuable item...	
+tev07_010.scr:1	tev07_010.scr	1	ロックス	Rocks	personagem	CRLF x1	はい、どうぞ。\nでは、確かにお渡ししましたよ	Here you go.\nThere, I've delivered it properly	
+tev07_010.scr:2	tev07_010.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		『▼▼』を手に入れました	You got "▼▼"	marcador ▼▼ = substituicao de nome de item em tempo real, achado novo nesta frente (mesmo espirito de ○○ mas nunca visto ate tev07) -- preservado literal, colchetes 『』 convertidos pra aspas ASCII
+tev07_011.scr:0	tev07_011.scr	0	ロックス	Rocks	personagem	CRLF x1	ああ、○○様。\nお待ちしておりました	Ah, ○○.\nI've been expecting you	
+tev07_011.scr:1	tev07_011.scr	1	ロックス	Rocks	personagem	CRLF x2	アンジュ様より承っております。\n▲▲と\n▼▼装備一式の交換ですね	I've been informed by Lady Ange.\nAn exchange of ▲▲\nfor a ▼▼ equipment set, correct?	marcadores ▲▲ (item entregue) e ▼▼ (item recebido) -- ver nota em tev07_010.scr:2
+tev07_011.scr:2	tev07_011.scr	2	ロックス	Rocks	personagem	CRLF x1	あ、でも…\nアイテムがいっぱいですね	Oh, but...\nyour items are full	
+tev07_011.scr:3	tev07_011.scr	3	ロックス	Rocks	personagem	CRLF x1	お手数ですが、お渡し出来る様に、\nアイテムを整理してきて下さい	Sorry for the trouble, but please\nsort your items so I can hand it over	
+tev07_011.scr:4	tev07_011.scr	4	ロックス	Rocks	personagem	CRLF x1	では、▼▼装備一式、\n確かにお渡ししました	There, the ▼▼ equipment set,\ndelivered properly	
+tev07_011.scr:5	tev07_011.scr	5	ロックス	Rocks	personagem	CRLF x1	また御用があれば\n何なりと申し付けて下さい	Should you need anything else,\nplease let me know	
+tev07_011.scr:6	tev07_011.scr	6	(mensagem de sistema)	(mensagem de sistema)	sistema		『▼▼装備一式』を手に入れました	You got "▼▼ equipment set"	
+tev07_012.scr:0	tev07_012.scr	0	ロックス	Rocks	personagem	CRLF x1	それは、▲▲ですね？\nでは、これから仕立てます	That's ▲▲, correct?\nI'll get it tailored right away	
+tev07_012.scr:1	tev07_012.scr	1	ロックス	Rocks	personagem	CRLF x1	あ、でも…\nアイテムがいっぱいですね	Oh, but...\nyour items are full	
+tev07_012.scr:2	tev07_012.scr	2	ロックス	Rocks	personagem	CRLF x1	お手数ですが、お渡し出来る様に、\nアイテムを整理してきて下さい	Sorry for the trouble, but please\nsort your items so I can hand it over	
+tev07_012.scr:3	tev07_012.scr	3	ロックス	Rocks	personagem	CRLF x2	ええと……、はい。\n▼▼が\n出来ましたよ	Um......, there.\nThe ▼▼\nis ready	
+tev07_012.scr:4	tev07_012.scr	4	ロックス	Rocks	personagem	CRLF x1	では、また御用があれば\n何なりと申し付けて下さい	Well then, should you need anything\nelse, please let me know	
+tev07_012.scr:5	tev07_012.scr	5	(mensagem de sistema)	(mensagem de sistema)	sistema		『▼▼』を入手した	You got "▼▼"	
+tev08_010.scr:0	tev08_010.scr	0	クレア	Claire Bennett	personagem	CRLF x2	…あら？\nあなたが持っているのは、\n「無垢なスコア」ね？	...Oh?\nWhat you're holding is\nthe "Pure Score," isn't it?	
+tev08_010.scr:1	tev08_010.scr	1	クレア	Claire Bennett	personagem	CRLF x1	ちょっと貸してもらっていいかしら？\nたまには艦内の雰囲気を変えてみようと思うの	Could I borrow it for a bit?\nI want to change the ship's mood	
+tev08_010.scr:2	tev08_010.scr	2	クレア	Claire Bennett	personagem	CRLF x1	どうかしら？\nたまにはこんな音楽もいいでしょう	What do you think?\nMusic like this is nice once in a while	
+tev08_010.scr:3	tev08_010.scr	3	クレア	Claire Bennett	personagem	CRLF x1	また曲を変えたくなったら、\n私に言ってね	If you want to change the song again,\njust tell me	
+tev08_020.scr:0	tev08_020.scr	0	クレア	Claire Bennett	personagem	CRLF x1	ねえ、あなたが持っているそれは…、\n「伝説のスコア」でしょう？	Hey, what you're holding there is...\nthe "Legendary Score," right?	
+tev08_020.scr:1	tev08_020.scr	1	クレア	Claire Bennett	personagem	CRLF x2	どう？\n艦内の雰囲気を変えてみない？\nそれを貸してくれればいいのだけれど	What do you say?\nWant to change the ship's mood?\nJust lend it to me, if you would	
+tev08_020.scr:2	tev08_020.scr	2	クレア	Claire Bennett	personagem	CRLF x2	ほら。\nたまにはこうして雰囲気を変えると\nいいでしょう？	See?\nChanging the mood like this\nonce in a while is nice, isn't it?	
+tev08_020.scr:3	tev08_020.scr	3	クレア	Claire Bennett	personagem	CRLF x1	また曲を変えたくなったら、\n私に言ってね	If you want to change the song again,\njust tell me	
+tev09_010.scr:0	tev09_010.scr	0	ロックス	Rocks	personagem	CRLF x2	気が付かれましたか？\nこのまま出掛けられては危険ですから、\n一旦船に戻って回復する事をお勧めします	You've come to?\nIt's dangerous to head out like this,\nso I recommend returning to heal first	

@@ -1,0 +1,158 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev26_010.scr:0	cev26_010.scr	0	ロイド	Lloyd Irving	personagem	CRLF x1	くっ……。\n俺もここまで、かっ……		
+cev26_010.scr:1	cev26_010.scr	1	ロイド	Lloyd Irving	personagem	CRLF x1	二人とも……、\n俺の事はいい、先に……		
+cev26_010.scr:2	cev26_010.scr	2	カイル	Kyle Dunamis	personagem	CRLF x2	ロイド！　\nあきらめちゃダメだ！\nもう少し……もう少し、だよ……っ		
+cev26_010.scr:3	cev26_010.scr	3	シング	Shing Meteoryte	personagem		そうだよ……！		
+cev26_010.scr:4	cev26_010.scr	4	シング	Shing Meteoryte	personagem		オレ達……、仲間じゃないかッ		
+cev26_010.scr:5	cev26_010.scr	5	ロイド	Lloyd Irving	personagem		シング……カイル……！		
+cev26_010.scr:6	cev26_010.scr	6	リタ	Rita Mordio	personagem	CRLF x1	たかがトイレの順番待ちで\n暑っ苦しいのよ、あんたら……		
+cev26_020.scr:0	cev26_020.scr	0	ルーク	Luke fon Fabre	personagem		っ痛ぇ！		
+cev26_020.scr:1	cev26_020.scr	1	ロイド	Lloyd Irving	personagem		大丈夫か？		
+cev26_020.scr:2	cev26_020.scr	2	ルーク	Luke fon Fabre	personagem	CRLF x2	だーーっ！\nもう、やめだやめだ！！\nアホらしっつの		
+cev26_020.scr:3	cev26_020.scr	3	ロイド	Lloyd Irving	personagem		お、おい？		
+cev26_020.scr:4	cev26_020.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x1	そもそも、お前らなんかが相手じゃ\nちゃんとした稽古になるわけねえんだ		
+cev26_020.scr:5	cev26_020.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x1	あー、つまんねえ。\n俺いーちぬーけたっと		
+cev26_020.scr:6	cev26_020.scr	6	クレス	Cress Albane	personagem		待つんだルーク		
+cev26_020.scr:7	cev26_020.scr	7	ヴァン	Van Grants	personagem		待ちなさい、ルーク		
+cev26_020.scr:8	cev26_020.scr	8	ルーク	Luke fon Fabre	personagem		ヴァン師匠		
+cev26_020.scr:9	cev26_020.scr	9	ヴァン	Van Grants	personagem	CRLF x1	教え子が無礼をした。\n申し訳ない		
+cev26_020.scr:10	cev26_020.scr	10	ヴァン	Van Grants	personagem	CRLF x1	ルーク。\nお前も謝りなさい		
+cev26_020.scr:11	cev26_020.scr	11	ルーク	Luke fon Fabre	personagem		でも……		
+cev26_020.scr:12	cev26_020.scr	12	ヴァン	Van Grants	personagem		ルーク		
+cev26_020.scr:13	cev26_020.scr	13	ルーク	Luke fon Fabre	personagem	CRLF x2	…………。\nへっ。\nわーるかったよ		
+cev26_020.scr:14	cev26_020.scr	14	ヴァン	Van Grants	personagem	CRLF x2	お二人が、私の代わりに\nいつもルークと手合わせを\nしてくれていたのは知っている		
+cev26_020.scr:15	cev26_020.scr	15	ヴァン	Van Grants	personagem	CRLF x2	何分、箱入りに育ったもので\n至らぬ部分もあるかとは思うが\nこれからもよろしくお願いしたい		
+cev26_020.scr:16	cev26_020.scr	16	クレス	Cress Albane	personagem	CRLF x1	そんな……、わざわざ改まって\nお願いされる程の事は		
+cev26_020.scr:17	cev26_020.scr	17	ロイド	Lloyd Irving	personagem	CRLF x1	そうだぜ。\n俺もクレスも、好きでやってただけだしな		
+cev26_020.scr:18	cev26_020.scr	18	ロイド	Lloyd Irving	personagem		ルークだって、そうなんだろ？		
+cev26_020.scr:19	cev26_020.scr	19	ルーク	Luke fon Fabre	personagem		お、俺は……		
+cev26_020.scr:20	cev26_020.scr	20	ヴァン	Van Grants	personagem	CRLF x1	ふっ。\nよい仲間を持った様だな、ルーク		
+cev26_020.scr:21	cev26_020.scr	21	ルーク	Luke fon Fabre	personagem		べっ、別にそんなんじゃ……		
+cev26_020.scr:22	cev26_020.scr	22	ルーク	Luke fon Fabre	personagem	CRLF x2	…………ま、まあ\nどうしてもって言うなら、\nなってやってもいいけどよ		
+cev26_020.scr:23	cev26_020.scr	23	クレス	Cress Albane	personagem		それは良かった		
+cev26_020.scr:24	cev26_020.scr	24	ロイド	Lloyd Irving	personagem		そう来なくっちゃな		
+cev26_020.scr:25	cev26_020.scr	25	ロイド	Lloyd Irving	personagem	CRLF x1	次の手合わせ\n楽しみにしてるぜ、ルーク		
+cev26_020.scr:26	cev26_020.scr	26	ルーク	Luke fon Fabre	personagem		…………		
+cev26_030.scr:0	cev26_030.scr	0	ルーク	Luke fon Fabre	personagem	CRLF x1	なぁ、お前こないだ\nどっかの通路にずーっと立ってたろ？		
+cev26_030.scr:1	cev26_030.scr	1	ルーク	Luke fon Fabre	personagem		あれ、何してたんだ？		
+cev26_030.scr:2	cev26_030.scr	2	ロイド	Lloyd Irving	personagem		ぐっ……		
+cev26_030.scr:3	cev26_030.scr	3	ロイド	Lloyd Irving	personagem	CRLF x1	いや……実は宿題を忘れた罰だって\nリフィル先生に立たされてたんだ		
+cev26_030.scr:4	cev26_030.scr	4	ロイド	Lloyd Irving	personagem		参ったよ		
+cev26_030.scr:5	cev26_030.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x2	ふ〜ん。\n俺の師匠も厳しいけど\nそのリフィルって奴もそうなのか？		
+cev26_030.scr:6	cev26_030.scr	6	ロイド	Lloyd Irving	personagem	CRLF x2	厳しいっていうか……。\nまあ、俺達が悪い事した時は\nビシッと叱ってくれるって感じだな		
+cev26_030.scr:7	cev26_030.scr	7	ロイド	Lloyd Irving	personagem		ああ、そういえば強烈なのが一つあるぜ		
+cev26_030.scr:8	cev26_030.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	多分、ルークは経験した事\nないんじゃないか？		
+cev26_030.scr:9	cev26_030.scr	9	ルーク	Luke fon Fabre	personagem		何だよ？		
+cev26_030.scr:10	cev26_030.scr	10	ロイド	Lloyd Irving	personagem	CRLF x1	聞いて驚け。\n泣く子も黙る、必殺・恐怖の尻叩……		
+cev26_030.scr:11	cev26_030.scr	11	リフィル	Raine Sage	personagem		……聞こえていてよ？　ロイド		
+cev26_030.scr:12	cev26_030.scr	12	ロイド	Lloyd Irving	personagem	CRLF x1	せ、先生！？\nいや、えっと、今のは……		
+cev26_030.scr:13	cev26_030.scr	13	リフィル	Raine Sage	personagem	CRLF x1	言い訳はよろしい。\nちょっとこちらにいらっしゃい		
+cev26_030.scr:14	cev26_030.scr	14	ロイド	Lloyd Irving	personagem		ちょっ、先……！！		
+cev26_030.scr:15	cev26_030.scr	15	ロイド	Lloyd Irving	personagem		痛！？　痛い痛い痛……！		
+cev26_030.scr:16	cev26_030.scr	16	ルーク	Luke fon Fabre	personagem		ヴァン師匠よりおっかねぇ……		
+cev26_040.scr:0	cev26_040.scr	0	ロイド	Lloyd Irving	personagem		すっげえなぁ、セルシウスの涙って！		
+cev26_040.scr:1	cev26_040.scr	1	ロイド	Lloyd Irving	personagem	CRLF x1	あんなドロドロした溶岩が\n一瞬で固まっちまった！		
+cev26_040.scr:2	cev26_040.scr	2	ジューダス	Judas	personagem	CRLF x2	固まってくれなくては困る。\nそうなるという計算のもと\n僕達はここまで来たんだからな		
+cev26_040.scr:3	cev26_040.scr	3	ジューダス	Judas	personagem		先へ進めなくては意味がない		
+cev26_040.scr:4	cev26_040.scr	4	ロイド	Lloyd Irving	personagem	CRLF x1	く〜っ、もう一回やりてえなぁ。\nもうセルシウスの涙ってないのかな？		
+cev26_040.scr:5	cev26_040.scr	5	ロイド	Lloyd Irving	personagem	CRLF x1	そしたら、他の溶岩も\n固めてみるんだけどなぁ		
+cev26_040.scr:6	cev26_040.scr	6	ジューダス	Judas	personagem		子どもか、お前は！		
+cev26_050.scr:0	cev26_050.scr	0	ロイド	Lloyd Irving	personagem	CRLF x1	お、もしかして、\nあんたがガイか		
+cev26_050.scr:1	cev26_050.scr	1	ロイド	Lloyd Irving	personagem	CRLF x1	ルークから話は聞いてるぜ。\nよろしくな		
+cev26_050.scr:2	cev26_050.scr	2	ガイ	Guy Cecil	personagem		ああ、こちらこそよろしく		
+cev26_050.scr:3	cev26_050.scr	3	ガイ	Guy Cecil	personagem	CRLF x2	すまないな。\n俺がいない間、ルークが\nさぞわがままを言っただろう		
+cev26_050.scr:4	cev26_050.scr	4	クレス	Cress Albane	personagem	CRLF x2	いや、そんな事はないよ。\n確かに、最初はちょっと\n驚かされる事もあったけど……		
+cev26_050.scr:5	cev26_050.scr	5	クレス	Cress Albane	personagem	CRLF x2	ルークも悪気があって\nやっているんじゃない事くらい\nわかっているさ		
+cev26_050.scr:6	cev26_050.scr	6	ロイド	Lloyd Irving	personagem	CRLF x1	そうそう。\nあいつ、素直じゃないだけなんだよな		
+cev26_050.scr:7	cev26_050.scr	7	ロイド	Lloyd Irving	personagem	CRLF x1	根は結構いい奴なのに、\nもったいないぜ		
+cev26_050.scr:8	cev26_050.scr	8	ガイ	Guy Cecil	personagem		そう言ってくれるとありがたいよ		
+cev26_050.scr:9	cev26_050.scr	9	ガイ	Guy Cecil	personagem	CRLF x2	あいつ、ああいう性格だし\n立場が立場だろう？\nおかげで、ほとんど友達がいなくてね		
+cev26_050.scr:10	cev26_050.scr	10	クレス	Cress Albane	personagem	CRLF x2	そうだね……。\n立場が絡むと「友達になる」というのは、\n難しいのかもしれない		
+cev26_050.scr:11	cev26_050.scr	11	ロイド	Lloyd Irving	personagem	CRLF x1	でも、クレスと俺は\nもうあいつの友達だぜ？		
+cev26_050.scr:12	cev26_050.scr	12	ガイ	Guy Cecil	personagem		ははっ、そうか		
+cev26_050.scr:13	cev26_050.scr	13	ガイ	Guy Cecil	personagem	CRLF x2	二人みたいな存在が出来たのは\nあいつにとって、\nすごくプラスになると思うよ		
+cev26_050.scr:14	cev26_050.scr	14	ガイ	Guy Cecil	personagem	CRLF x1	迷惑をかける事もあると思うが\nこれからもルークの友達でいて欲しい		
+cev26_050.scr:15	cev26_050.scr	15	クレス	Cress Albane	personagem		もちろんさ		
+cev26_050.scr:16	cev26_050.scr	16	ロイド	Lloyd Irving	personagem	CRLF x1	ああ。\n友達ってのは、そういうもんだろ？		
+cev26_060.scr:0	cev26_060.scr	0	スタン	Stahn Aileron	personagem	CRLF x1	なあ、ロイド。\n話があるんだけど		
+cev26_060.scr:1	cev26_060.scr	1	ロイド	Lloyd Irving	personagem	CRLF x1	どうしたんだ？\nそんな改まってさ		
+cev26_060.scr:2	cev26_060.scr	2	スタン	Stahn Aileron	personagem	CRLF x2	ロイドの武器についてなんだけど\nもっと色んな二刀流を試してみても\nいいんじゃないかと思うんだ		
+cev26_060.scr:3	cev26_060.scr	3	ロイド	Lloyd Irving	personagem		色んな二刀流？		
+cev26_060.scr:4	cev26_060.scr	4	スタン	Stahn Aileron	personagem	CRLF x2	そう。\n何というか、「新・二刀流！」\nみたいな感じで！		
+cev26_060.scr:5	cev26_060.scr	5	ロイド	Lloyd Irving	personagem		新・二刀流かぁ……		
+cev26_060.scr:6	cev26_060.scr	6	ロイド	Lloyd Irving	personagem	CRLF x1	面白そうだな。\nやってみようぜ！		
+cev26_060.scr:7	cev26_060.scr	7	スタン	Stahn Aileron	personagem		よし、そう来なくっちゃ！！		
+cev26_060.scr:8	cev26_060.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	「新」って事は、何か新しい事を\n二刀流に盛り込まなくちゃダメだろうな		
+cev26_060.scr:9	cev26_060.scr	9	スタン	Stahn Aileron	personagem	CRLF x1	俺、思ったんだけど、\n違う種類の武器を使うのはどうかな？		
+cev26_060.scr:10	cev26_060.scr	10	スタン	Stahn Aileron	personagem		斧と剣とか、そんな感じの……		
+cev26_060.scr:11	cev26_060.scr	11	ロイド	Lloyd Irving	personagem	CRLF x2	なるほどな。\n確かにそんな二刀流、\nこれまで試した事なかったぜ！		
+cev26_060.scr:12	cev26_060.scr	12	ロイド	Lloyd Irving	personagem	CRLF x2	何がいいんだろうな……。\nいきなり斧は、\n片手で扱えそうにないし……		
+cev26_060.scr:13	cev26_060.scr	13	ロイド	Lloyd Irving	personagem		……特大ドリルとかか？		
+cev26_060.scr:14	cev26_060.scr	14	スタン	Stahn Aileron	personagem	CRLF x1	それ、いいかもしれないぞ。\nなんだか強そうだ！		
+cev26_060.scr:15	cev26_060.scr	15	ロイド	Lloyd Irving	personagem	CRLF x1	だよな！\nとなると、もう一つは……何がいいかな？		
+cev26_060.scr:16	cev26_060.scr	16	スタン	Stahn Aileron	personagem	CRLF x1	特大ドリルは重そうだから、\nなるべく軽い武器の方がいいんじゃないか？		
+cev26_060.scr:17	cev26_060.scr	17	スタン	Stahn Aileron	personagem	CRLF x1	ストローなんかどうかな？\nほら、ノーマみたいな感じでさ		
+cev26_060.scr:18	cev26_060.scr	18	ロイド	Lloyd Irving	personagem	CRLF x2	なるほどな。\nそれなら、ストローを口にくわえている間\n特大ドリルを両手でも使えるぞ！		
+cev26_060.scr:19	cev26_060.scr	19	スタン	Stahn Aileron	personagem	CRLF x1	もしかしてこれ、\n結構いいアイデアなんじゃないか？		
+cev26_060.scr:20	cev26_060.scr	20	ロイド	Lloyd Irving	personagem	CRLF x1	ああ。\n試してみる価値はありそうだ		
+cev26_060.scr:21	cev26_060.scr	21	ロイド	Lloyd Irving	personagem	CRLF x1	まずは特大ドリルを調達しようぜ！\nハロルドに言えば、作ってくれるかもしれない		
+cev26_200.scr:0	cev26_200.scr	0	ロイド	Lloyd Irving	personagem	CRLF x1	通常。\n		
+cev26_200.scr:1	cev26_200.scr	1	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:2	cev26_200.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	笑い。\n		
+cev26_200.scr:3	cev26_200.scr	3	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:4	cev26_200.scr	4	ロイド	Lloyd Irving	personagem	CRLF x1	怒り。\n		
+cev26_200.scr:5	cev26_200.scr	5	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:6	cev26_200.scr	6	ロイド	Lloyd Irving	personagem	CRLF x1	悲しみ。\n		
+cev26_200.scr:7	cev26_200.scr	7	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:8	cev26_200.scr	8	ロイド	Lloyd Irving	personagem	CRLF x1	照れ。\n		
+cev26_200.scr:9	cev26_200.scr	9	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:10	cev26_200.scr	10	ロイド	Lloyd Irving	personagem	CRLF x1	驚き。\n		
+cev26_200.scr:11	cev26_200.scr	11	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:12	cev26_200.scr	12	ロイド	Lloyd Irving	personagem	CRLF x1	がっくし。\n		
+cev26_200.scr:13	cev26_200.scr	13	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:14	cev26_200.scr	14	ロイド	Lloyd Irving	personagem	CRLF x1	痛っ。\n		
+cev26_200.scr:15	cev26_200.scr	15	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:16	cev26_200.scr	16	ロイド	Lloyd Irving	personagem	CRLF x1	得意気。\n		
+cev26_200.scr:17	cev26_200.scr	17	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:18	cev26_200.scr	18	ロイド	Lloyd Irving	personagem	CRLF x1	おののく。\n		
+cev26_200.scr:19	cev26_200.scr	19	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:20	cev26_200.scr	20	ロイド	Lloyd Irving	personagem	CRLF x1	通常。\n		
+cev26_200.scr:21	cev26_200.scr	21	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:22	cev26_200.scr	22	ロイド	Lloyd Irving	personagem	CRLF x1	笑い。\n		
+cev26_200.scr:23	cev26_200.scr	23	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:24	cev26_200.scr	24	ロイド	Lloyd Irving	personagem	CRLF x1	怒り。\n		
+cev26_200.scr:25	cev26_200.scr	25	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:26	cev26_200.scr	26	ロイド	Lloyd Irving	personagem	CRLF x1	悲しみ。\n		
+cev26_200.scr:27	cev26_200.scr	27	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:28	cev26_200.scr	28	ロイド	Lloyd Irving	personagem	CRLF x1	照れ。\n		
+cev26_200.scr:29	cev26_200.scr	29	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:30	cev26_200.scr	30	ロイド	Lloyd Irving	personagem	CRLF x1	驚き。\n		
+cev26_200.scr:31	cev26_200.scr	31	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:32	cev26_200.scr	32	ロイド	Lloyd Irving	personagem	CRLF x1	がっくし。\n		
+cev26_200.scr:33	cev26_200.scr	33	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:34	cev26_200.scr	34	ロイド	Lloyd Irving	personagem	CRLF x1	痛っ。\n		
+cev26_200.scr:35	cev26_200.scr	35	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:36	cev26_200.scr	36	ロイド	Lloyd Irving	personagem	CRLF x1	得意気。\n		
+cev26_200.scr:37	cev26_200.scr	37	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:38	cev26_200.scr	38	ロイド	Lloyd Irving	personagem	CRLF x1	おののく。\n		
+cev26_200.scr:39	cev26_200.scr	39	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:40	cev26_200.scr	40	ロイド	Lloyd Irving	personagem	CRLF x1	通常。\n		
+cev26_200.scr:41	cev26_200.scr	41	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:42	cev26_200.scr	42	ロイド	Lloyd Irving	personagem	CRLF x1	笑い。\n		
+cev26_200.scr:43	cev26_200.scr	43	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:44	cev26_200.scr	44	ロイド	Lloyd Irving	personagem	CRLF x1	怒り。\n		
+cev26_200.scr:45	cev26_200.scr	45	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:46	cev26_200.scr	46	ロイド	Lloyd Irving	personagem	CRLF x1	悲しみ。\n		
+cev26_200.scr:47	cev26_200.scr	47	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:48	cev26_200.scr	48	ロイド	Lloyd Irving	personagem	CRLF x1	照れ。\n		
+cev26_200.scr:49	cev26_200.scr	49	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:50	cev26_200.scr	50	ロイド	Lloyd Irving	personagem	CRLF x1	驚き。\n		
+cev26_200.scr:51	cev26_200.scr	51	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:52	cev26_200.scr	52	ロイド	Lloyd Irving	personagem	CRLF x1	がっくし。\n		
+cev26_200.scr:53	cev26_200.scr	53	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:54	cev26_200.scr	54	ロイド	Lloyd Irving	personagem	CRLF x1	痛っ。\n		
+cev26_200.scr:55	cev26_200.scr	55	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:56	cev26_200.scr	56	ロイド	Lloyd Irving	personagem	CRLF x1	得意気。\n		
+cev26_200.scr:57	cev26_200.scr	57	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev26_200.scr:58	cev26_200.scr	58	ロイド	Lloyd Irving	personagem	CRLF x1	おののく。\n		
+cev26_200.scr:59	cev26_200.scr	59	ロイド	Lloyd Irving	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

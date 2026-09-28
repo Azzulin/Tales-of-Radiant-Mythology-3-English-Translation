@@ -1,0 +1,81 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev22_010.scr:0	qev22_010.scr	0	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	○○君。\n今、少しいいだろうか？	○○.\nDo you have a minute?	
+qev22_010.scr:1	qev22_010.scr	1	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev22_010.scr:2	qev22_010.scr	2	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	実は、このギルドに\n是非推薦したい人物がいる	Actually, there is someone I'd like\nto recommend to the guild.	
+qev22_010.scr:3	qev22_010.scr	3	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	ちょうど、\nこの近くまで来る事になったと\n先程書簡が届いてね	I just received a letter from him.\nHe said he would be coming\nsomewhere nearby here.	
+qev22_010.scr:4	qev22_010.scr	4	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	良ければこの機に、君やアンジュ君に\n紹介したいと思うのだが、どうだろう	I would like to introduce him to you\nand Ange. What do you say?	
+qev22_010.scr:5	qev22_010.scr	5	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev22_010.scr:6	qev22_010.scr	6	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	無論、無理強いをするつもりはない。\n興味があったらまた声をかけてくれないか	Of course, I won't force you.\nJust let me know if you are interested.	
+qev22_010.scr:7	qev22_010.scr	7	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	この件に関しての判断は君に一任する。\nよろしくお願いするよ	I'll leave the decision to you.\nThank you.	
+qev22_010.scr:8	qev22_010.scr	8	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「孤高の少年剣士」が\nエントリーされました。\nウッドロウから受ける事が出来ます	"Quest ""The Solitary Boy Swordsman""\nhas been added to the quest list.\nYou can accept it from Woodrow."	
+qev22_020.scr:0	qev22_020.scr	0	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	そうか。\n突然の申し出にも関わらず\n引き受けてくれて嬉しく思う	I see.\nI am glad you accepted despite\nthe suddenness of the request.	
+qev22_020.scr:1	qev22_020.scr	1	ウッドロウ	Woodrow Kelvin	personagem		ありがとう	Thank you.	
+qev22_020.scr:2	qev22_020.scr	2	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev22_020.scr:3	qev22_020.scr	3	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	彼なら、遺跡でまだ任務に\nあたっているところだと思うが	He should still be on duty\nat the ruins.	
+qev22_020.scr:4	qev22_020.scr	4	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	君がそちらへ向かう旨、\n私から連絡をしておこう	I'll let him know that you\nwill be heading there.	
+qev22_020.scr:5	qev22_020.scr	5	ウッドロウ	Woodrow Kelvin	personagem		ただ……	However...	
+qev22_020.scr:6	qev22_020.scr	6	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev22_020.scr:7	qev22_020.scr	7	ウッドロウ	Woodrow Kelvin	personagem		いや……何でもない	No... it's nothing.	
+qev22_020.scr:8	qev22_020.scr	8	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	道中、気を付けて行ってきてくれたまえ。\n吉報を待っているよ	Please be careful on the way.\nI'll be waiting for good news.	
+qev22_040.scr:0	qev22_040.scr	0	リオン	Leon Magnus	personagem		万策尽きた様だな	It seems you're out of options.	
+qev22_040.scr:1	qev22_040.scr	1	リオン	Leon Magnus	personagem	CRLF x1	もう逃げ場はない。\n大人しく投降しろ	There's nowhere left to run.\nSurrender quietly.	
+qev22_040.scr:2	qev22_040.scr	2	手配犯	Wanted Criminal	personagem	CRLF x1	はッ……。\n誰に向かって言ってやがる	Hah...\nWho do you think you're talking to?	
+qev22_040.scr:3	qev22_040.scr	3	手配犯	Wanted Criminal	personagem	CRLF x1	そんな細っこい腕で、本気で俺様を\nどうこう出来ると思ってんのか？	Do you really think you can beat me\nwith those scrawny arms?	
+qev22_040.scr:4	qev22_040.scr	4	手配犯	Wanted Criminal	personagem	CRLF x2	どっからどう見たって、\n女みてぇなナリしやがって！\nあんま俺様を舐めんじゃねえぞ！！	No matter how you look at it,\nyou look like a woman!\nDon't underestimate me!!	
+qev22_040.scr:5	qev22_040.scr	5	リオン	Leon Magnus	personagem	CRLF x2	フッ……。\nどうやら痛い目に遭わなければ、\n自分の身の程もわからないらしい	Hmph...\nIt seems you won't know your place\nunless I teach you a lesson.	
+qev22_040.scr:6	qev22_040.scr	6	リオン	Leon Magnus	personagem	CRLF x1	おまけに、致命的に悪いのは\n頭だけではない様だ	And it looks like your head isn't\nthe only fatally bad thing about you.	
+qev22_040.scr:7	qev22_040.scr	7	手配犯	Wanted Criminal	personagem		……あァ！？	...Huh!?	
+qev22_040.scr:8	qev22_040.scr	8	リオン	Leon Magnus	personagem	CRLF x2	安心しろ。\n貴様の収監先には、腕のいい眼科医が\n常駐している場所を選んでやる	Don't worry.\nI'll make sure your prison has a\nskilled eye doctor on staff.	
+qev22_040.scr:9	qev22_040.scr	9	手配犯	Wanted Criminal	personagem	CRLF x1	な、何だとっ！？\nてめぇ……！！	W-What!?\nYou bastard...!	
+qev22_040.scr:10	qev22_040.scr	10	手配犯	Wanted Criminal	personagem		ぐはあぁッ！	Gahaaah!	
+qev22_050.scr:0	qev22_050.scr	0	リオン	Leon Magnus	personagem	CRLF x1	なるほど……。\nそれなりの技量はある様だな	I see...\nYou have some decent skills.	
+qev22_050.scr:1	qev22_050.scr	1	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev22_050.scr:2	qev22_050.scr	2	リオン	Leon Magnus	personagem	CRLF x2	使えない駒に興味はない。\nだから実力を試させてもらった。\nそれだけだ	I have no interest in useless pawns.\nSo I tested your strength.\nThat's all.	
+qev22_050.scr:3	qev22_050.scr	3	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev22_050.scr:4	qev22_050.scr	4	リオン	Leon Magnus	personagem		フン……	Hmph...	
+qev22_050.scr:5	qev22_050.scr	5	リオン	Leon Magnus	personagem	CRLF x1	僕はリオン・マグナス。\nウッドロウの下で客員剣士をしている	I am Leon Magnus.\nA guest swordsman under Woodrow.	
+qev22_050.scr:6	qev22_050.scr	6	リオン	Leon Magnus	personagem		気は進まないが、これも命令だ……	I'm reluctant, but orders are orders...	
+qev22_050.scr:7	qev22_050.scr	7	リオン	Leon Magnus	personagem	CRLF x2	おい。\nそのバンエルティア号とやらへ\n案内しろ	Hey.\nGuide me to that\nVan Eltia ship or whatever.	
+qev22_060.scr:0	qev22_060.scr	0	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	無事に合流出来た様で何よりだ。\n二人とも、ご苦労だったね	I'm glad you two met up safely.\nGood work, both of you.	
+qev22_060.scr:1	qev22_060.scr	1	リオン	Leon Magnus	personagem		僕は、命令に従ったまでだ	I simply followed orders.	
+qev22_060.scr:2	qev22_060.scr	2	リオン	Leon Magnus	personagem	CRLF x1	次期国王直々の頼みとあれば、\nおいそれと逆らう事は出来ないからな	I can't easily go against a direct\nrequest from the next king.	
+qev22_060.scr:3	qev22_060.scr	3	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	そういうつもりで、あの書簡を\n送ったわけではないのだがね	That wasn't my intention when\nI sent that letter, though.	
+qev22_060.scr:4	qev22_060.scr	4	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	互いに協力して、この先の危機を\n乗り越えられればと思ったまでだよ	I merely thought we could cooperate to\novercome the crisis ahead together.	
+qev22_060.scr:5	qev22_060.scr	5	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev22_060.scr:6	qev22_060.scr	6	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	堅苦しく捉えてしまったのなら\nすまなかったね	I'm sorry if you took it\ntoo formally.	
+qev22_060.scr:7	qev22_060.scr	7	リオン	Leon Magnus	personagem		フン……	Hmph...	
+qev22_060.scr:8	qev22_060.scr	8	ルーティ	Rutee Katrea	personagem	CRLF x1	な〜んか覚えのある声が\nすると思ったら……	I thought I heard\na familiar voice...	
+qev22_060.scr:9	qev22_060.scr	9	ルーティ	Rutee Katrea	personagem	CRLF x1	ちょっと、リオン！\n何であんたがここにいるのよ	Hey, Leon!\nWhy are you here?	
+qev22_060.scr:10	qev22_060.scr	10	リオン	Leon Magnus	personagem	CRLF x1	っ！　耳元でわめくな。\nちゃんと聞こえている！	Tch! Don't yell in my ear.\nI can hear you just fine!	
+qev22_060.scr:11	qev22_060.scr	11	スタン	Stahn Aileron	personagem	CRLF x2	よくわからないけど、\nリオンもこのギルドに加入したって事で\nいいんだよな、ウッドロウさん？	I don't really get it,\nbut does this mean Leon joined\nthe guild, Woodrow?	
+qev22_060.scr:12	qev22_060.scr	12	ウッドロウ	Woodrow Kelvin	personagem		ああ、そうだ	Yes, that's right.	
+qev22_060.scr:13	qev22_060.scr	13	スタン	Stahn Aileron	personagem		やったぁ！	All right!	
+qev22_060.scr:14	qev22_060.scr	14	スタン	Stahn Aileron	personagem	CRLF x1	また一緒に戦えるな。\nよろしくな、リオン！	We can fight together again.\nNice to work with you, Leon!	
+qev22_060.scr:15	qev22_060.scr	15	リオン	Leon Magnus	personagem	CRLF x2	僕は誰とも馴れ合うつもりはない。\n大体、ここへも命令があったから\n来ただけで……	I'm not going to buddy up with anyone.\nBesides, I only came here because\nI was ordered to...	
+qev22_060.scr:16	qev22_060.scr	16	ルーティ	Rutee Katrea	personagem	CRLF x2	あ〜も〜はいはい、わかってるわよ。\nどうせいつものウダウダした\n建前ってヤツでしょ	Ah, yeah yeah, I know.\nIt's just your usual\ngrumbling facade, right?	
+qev22_060.scr:17	qev22_060.scr	17	ルーティ	Rutee Katrea	personagem	CRLF x1	ほんっと素直じゃないんだから、\nあんたは	You really aren't honest\nwith yourself, are you.	
+qev22_060.scr:18	qev22_060.scr	18	リオン	Leon Magnus	personagem		何？	What?	
+qev22_060.scr:19	qev22_060.scr	19	スタン	Stahn Aileron	personagem	CRLF x2	まあまあ、いいじゃないか。\nせっかくこうして、また仲間で\n集まれたんだし！	Now now, it's fine.\nWe've finally gathered\ntogether as friends again!	
+qev22_060.scr:20	qev22_060.scr	20	スタン	Stahn Aileron	personagem	CRLF x1	お互い仲良くしよう。\nな、○○！	Let's all get along.\nRight, ○○!	
+qev22_060.scr:21	qev22_060.scr	21	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev22_060.scr:22	qev22_060.scr	22	リオン	Leon Magnus	personagem		フン	Hmph.	
+qev22_060.scr:23	qev22_060.scr	23	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	ふふふ……。\n人が増えると\nやはり賑やかだな	Hahaha...\nIt really gets lively\nwhen there are more people.	
+qev22_060.scr:24	qev22_060.scr	24	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ともあれ、互いに良い関係が\n築いていければと思っているよ	Anyway, I hope we can build a\ngood relationship with each other.	
+qev22_060.scr:25	qev22_060.scr	25	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	○○君、\n君からも何かあれば\nいつでも私に相談してくれ	○○,\nif you ever need anything,\nfeel free to consult me.	
+qev22_060.scr:26	qev22_060.scr	26	ウッドロウ	Woodrow Kelvin	personagem		出来る限り、力になろう	I will help you as much as I can.	
+qev22_060.scr:27	qev22_060.scr	27	(mensagem de sistema)	(mensagem de sistema)	sistema		リオンがアドリビトムに加入しました	Leon joined Ad Libitum.	
+qev22_070.scr:0	qev22_070.scr	0	リオン	Leon Magnus	personagem		おい、こいつを連れて行け	Hey, take him away.	
+qev22_070.scr:1	qev22_070.scr	1	リオン	Leon Magnus	personagem	CRLF x2	くれぐれも搬送中に\n取り逃がす様なヘマはするなよ。\n……わかっているな？	Make sure you don't mess up and\nlet him escape during transport.\n...You understand?	
+qev22_070.scr:2	qev22_070.scr	2	部下Ａ	Henchman A	personagem		は……はッ！	Y-Yes sir!	
+qev22_070.scr:3	qev22_070.scr	3	リオン	Leon Magnus	personagem		フン……	Hmph...	
+qev22_070.scr:4	qev22_070.scr	4	リオン	Leon Magnus	personagem		それで……	So...	
+qev22_070.scr:5	qev22_070.scr	5	リオン	Leon Magnus	personagem	CRLF x1	いつまでそこに\nそうしているつもりだ？	How long do you plan to\njust stand there?	
+qev22_070.scr:6	qev22_070.scr	6	リオン	Leon Magnus	personagem	CRLF x2	ウッドロウの言っていた\n○○というのは\nお前の事だな	The ○○ Woodrow\nwas talking about...\nThat's you, right?	
+qev22_070.scr:7	qev22_070.scr	7	リオン	Leon Magnus	personagem		…………	...	
+qev22_070.scr:8	qev22_070.scr	8	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev22_070.scr:9	qev22_070.scr	9	リオン	Leon Magnus	personagem	CRLF x1	いいだろう。\n話くらいは聞いてやる	Very well.\nI'll at least hear what you have to say.	
+qev22_070.scr:10	qev22_070.scr	10	リオン	Leon Magnus	personagem		ただし……	However...	
+qev22_070.scr:11	qev22_070.scr	11	リオン	Leon Magnus	personagem	CRLF x1	それはお前の\n実力の査定が済んでからだ	That will be after I finish\nassessing your strength.	
+qev22_070.scr:12	qev22_070.scr	12	リオン	Leon Magnus	personagem		行くぞ！	Let's go!	
+qev22_080.scr:0	qev22_080.scr	0	リオン	Leon Magnus	personagem	CRLF x1	懲りずにまた来たか……。\nだが、何度来ても結果は同じだ	You came back without learning...\nBut the result is the same.	
+qev22_080.scr:1	qev22_080.scr	1	リオン	Leon Magnus	personagem	CRLF x2	実力の差というものを\n思い知らせてやる。\n来い！	I'll show you the difference\nin our strength.\nCome on!	

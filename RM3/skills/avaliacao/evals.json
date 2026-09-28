@@ -1,0 +1,58 @@
+{
+  "skill_name": "rom-pipeline (3 skills)",
+  "evals": [
+    {
+      "id": 0,
+      "name": "formato-guia",
+      "skill": "rom-formato-desconhecido",
+      "prompt": "No meu projeto de tradução do PSP em C:\\Users\\usuario\\Downloads\\Tales_of_the_World_Radiant_Mythology_3_JPN_PSP-Caravan (montado em $HOME/mnt/ pelo device_bash), a entrada v2065 do container namco.bdi guarda o guia/tutorial do jogo, com 211 entradas. Eu só decifrei o formato pela metade: sei que tem uma tabela de registros e um pool de strings, mas não fechei os campos e não sei se dá para reinserir texto ali. Decifra o formato inteiro e me diz, com evidência, se a reinserção é segura.",
+      "expected_output": "Layout de campos do formato, com stride do registro, offset de início da tabela, natureza dos offsets (absolutos), e um veredito fundamentado sobre reinserção.",
+      "assertions": [
+        "Identifica o tamanho do registro da tabela (36 bytes) e o offset onde a tabela comeca",
+        "Determina que os offsets das strings sao ABSOLUTOS no arquivo, nao relativos",
+        "Caracteriza a regiao nao identificada entre o fim da tabela e o pool de strings",
+        "Testa se algum campo do registro e' cache derivado do conteudo, em vez de so' marcar como nao identificado",
+        "Verifica round-trip byte-perfeito contra a entrada v2065 real da ISO",
+        "Entrega um build() que aceita texto de tamanho diferente, ou justifica por que nao entregar",
+        "Quantifica a folga disponivel sem tocar o indice do container",
+        "Declara explicitamente o que ficou nao verificado",
+        "Distingue parser provado de aceitacao pelo jogo em execucao"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "ausencia-declarada",
+      "skill": "rom-inventario-texto",
+      "prompt": "Projeto de tradução do PSP em C:\\Users\\usuario\\Downloads\\Tales_of_the_World_Radiant_Mythology_3_JPN_PSP-Caravan (montado em $HOME/mnt/ pelo device_bash). Preciso fechar o escopo e sobraram cinco famílias de arquivo dentro do namco.bdi que ninguém olhou: .zqe, .mid, .mao, .mnm e .mso. Tem texto traduzível nelas? Se tiver, quero o volume em strings e bytes. Se não tiver, quero saber com que confiança posso riscar isso do escopo.",
+      "expected_output": "Conclusão por extensão, com números, distinguindo candidato de prova e declarando a ausência explicitamente em vez de omitir.",
+      "assertions": [
+        "Cobre 100% dos arquivos das cinco extensoes, conferido contra o catalogo, e nao por amostra",
+        "Reporta cada uma das cinco extensoes explicitamente, inclusive as de resultado zero",
+        "Testa EUC-JP e Shift-JIS separadamente por arquivo",
+        "Inspeciona o conteudo dos candidatos em vez de decidir por contagem",
+        "Identifica que .zqe contem texto real e nao pode ser riscada do escopo",
+        "Da grau de confianca por extensao",
+        "Explica a causa estrutural do falso positivo (float, entropia, metadado de editor)",
+        "Nao escreve na pasta do projeto do usuario nem fora de $HOME na maquina dele"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "lote-piloto",
+      "skill": "rom-extrair-lotes",
+      "prompt": "Projeto de tradução JP→EN do PSP em C:\\Users\\usuario\\Downloads\\Tales_of_the_World_Radiant_Mythology_3_JPN_PSP-Caravan (montado em $HOME/mnt/ pelo device_bash). Quero mandar o primeiro lote para o tradutor: a abertura da história, que são as cenas mev00_*.scr do container namco.bdi. Monta o arquivo do lote pronto para enviar, com o que o tradutor precisa saber para não quebrar nada.",
+      "expected_output": "Arquivo de lote com orçamento de bytes por item, control codes a preservar, strings técnicas separadas, e justificativa do tamanho/divisão do lote.",
+      "assertions": [
+        "O arquivo do lote tem as dez colunas do padrao do projeto",
+        "Declara explicitamente que esta frente nao tem limite de bytes por fala",
+        "Instrui sobre o limite real, que e' a caixa de cerca de 3 linhas",
+        "Preserva a quebra de linha \\r\\n real e confirma que o arquivo entregue nao a corrompeu",
+        "Marca ou separa as strings tecnicas como nao-traduzir",
+        "Inclui os termos de glossario que nascem neste lote",
+        "Justifica o tamanho e o corte do lote com numero, nao por impressao",
+        "Valida que o conteudo do lote bate com o corpus, sem perda nem duplicata",
+        "Nao escreve na pasta do projeto do usuario nem fora de $HOME na maquina dele"
+      ]
+    }
+  ]
+}

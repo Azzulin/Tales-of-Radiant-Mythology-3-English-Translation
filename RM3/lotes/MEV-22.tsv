@@ -1,0 +1,80 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev22_010.scr:0	mev22_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	今回の仕事では、コンフェイト大森林に\n行ってもらうね		
+mev22_010.scr:1	mev22_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	あそこにいるケイブレックスという魔物が\nウズマキフスベを食べていたって\n記録があったらしいの		
+mev22_010.scr:2	mev22_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	それで、ケイブレックスに\nウズマキフスベのドクメントがあるかも\nしれないって事で、今回行ってもらうわけ		
+mev22_010.scr:3	mev22_010.scr	3	アンジュ	Ange Serena	personagem		同行者は、セネル君とティア		
+mev22_010.scr:4	mev22_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	ゴツーイ魔物を相手にしなきゃいけないから\n大変だろうけど、お願いね		
+mev22_020.scr:0	mev22_020.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	ケイブレックスか。\nまずはそいつを探し出さないとな		
+mev22_020.scr:1	mev22_020.scr	1	ティア	Tear Grants	personagem	CRLF x2	リタから、ウズマキフスベの\nドクメントピースが入っている\nギベオンチップを借りて来たわ		
+mev22_020.scr:2	mev22_020.scr	2	ティア	Tear Grants	personagem	CRLF x1	これをケイブレックスに当てれば、\nドクメントを採取出来るらしいの		
+mev22_020.scr:3	mev22_020.scr	3	セネル	Senel Coolidge	personagem	CRLF x1	そう、簡単に採取出来るとは\n思えないけどな		
+mev22_020.scr:4	mev22_020.scr	4	ティア	Tear Grants	personagem	CRLF x1	そうね。\n戦闘になる事も考えられるわ		
+mev22_030.scr:0	mev22_030.scr	0	ティア	Tear Grants	personagem	CRLF x1	いたわ。\nケイブレックスよ		
+mev22_030.scr:1	mev22_030.scr	1	セネル	Senel Coolidge	personagem	CRLF x2	よし、安全にドクメントを\n採取する為にも\nまずは動きを封じるぞ！		
+mev22_040.scr:0	mev22_040.scr	0	ティア	Tear Grants	personagem	CRLF x1	どうやら\nまだここに居てくれた様ね		
+mev22_040.scr:1	mev22_040.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	ああ、逃げられてしまう前に\n片付けるぞ！		
+mev22_050.scr:0	mev22_050.scr	0	ティア	Tear Grants	personagem		ギベオンチップに、ドクメントが入ったわ		
+mev22_050.scr:1	mev22_050.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	そうか。\nじゃあ、これで仕事は終わりだな		
+mev22_050.scr:2	mev22_050.scr	2	ティア	Tear Grants	personagem	CRLF x2	いえ、今のはあくまで\nウズマキフスベのドクメントの一部が\n手に入っただけ		
+mev22_050.scr:3	mev22_050.scr	3	ティア	Tear Grants	personagem		まだ、集める必要があるわ		
+mev22_050.scr:4	mev22_050.scr	4	セネル	Senel Coolidge	personagem	CRLF x1	じゃあ、まだケイブレックスを\n探す必要があるんだな		
+mev22_050.scr:5	mev22_050.scr	5	ティア	Tear Grants	personagem		ええ、もっと奥へ行ってみましょう		
+mev22_060.scr:0	mev22_060.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	いたぞ！\nケイブレックスだ		
+mev22_060.scr:1	mev22_060.scr	1	ティア	Tear Grants	personagem	CRLF x1	気が立っているわ。\n戦うしか無さそうね		
+mev22_060.scr:2	mev22_060.scr	2	セネル	Senel Coolidge	personagem	CRLF x1	一気に畳み込む。\n行くぞ！		
+mev22_070.scr:0	mev22_070.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	次は気を付けろ。\n潰されない様にな！		
+mev22_080.scr:0	mev22_080.scr	0	セネル	Senel Coolidge	personagem	CRLF x2	どうだ。\nウズマキフスベのドクメントは\nあったか		
+mev22_080.scr:1	mev22_080.scr	1	ティア	Tear Grants	personagem		ええ		
+mev22_080.scr:2	mev22_080.scr	2	ティア	Tear Grants	personagem		でも、あと少し足りないみたい		
+mev22_080.scr:3	mev22_080.scr	3	ティア	Tear Grants	personagem		まだ、採取する必要があるわ		
+mev22_080.scr:4	mev22_080.scr	4	セネル	Senel Coolidge	personagem	CRLF x1	まだ、あんなのを相手にしないと\nいけないのか…		
+mev22_085.scr:0	mev22_085.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	ここら辺りがケイブレックスの棲家だと\n聞いたんだが…		
+mev22_085.scr:1	mev22_085.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	しょうがない、他の場所を探して\nまた後で来ようぜ		
+mev22_090.scr:0	mev22_090.scr	0	セネル	Senel Coolidge	personagem		ここにもいたか		
+mev22_090.scr:1	mev22_090.scr	1	ティア	Tear Grants	personagem	CRLF x1	向こうもこっちに気付いてる。\n来るわよ！		
+mev22_100.scr:0	mev22_100.scr	0	ティア	Tear Grants	personagem	CRLF x1	いたわ。\nみんな構えて！		
+mev22_100.scr:1	mev22_100.scr	1	セネル	Senel Coolidge	personagem		ああ、わかってる！		
+mev22_110.scr:0	mev22_110.scr	0	ティア	Tear Grants	personagem	CRLF x1	ウズマキフスベのドクメントが\n全て埋まったわ		
+mev22_110.scr:1	mev22_110.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	任務完了か。\nそれじゃ、船に戻ろう		
+mev22_110.scr:2	mev22_110.scr	2	ティア	Tear Grants	personagem		ええ		
+mev22_115.scr:0	mev22_115.scr	0	ティア	Tear Grants	personagem	CRLF x2	ここは、ケイブレックスの目撃が\n多い場所らしいけれど。\n…いないわね		
+mev22_115.scr:1	mev22_115.scr	1	ティア	Tear Grants	personagem	CRLF x2	それじゃあ、\n今は他の場所を当たって、\nまた後に来ましょう		
+mev22_120.scr:0	mev22_120.scr	0	アンジュ	Ange Serena	personagem		お疲れ様		
+mev22_120.scr:1	mev22_120.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	これで、ウズマキフスベの\n完全なドクメントが\n手に入れられたんだね		
+mev22_120.scr:2	mev22_120.scr	2	リタ	Rita Mordio	personagem	CRLF x2	これで、塩水晶、ツリガネトンボ草、\nウズマキフスベのドクメントを組み合わせて、\n封印次元を作る事が出来るわ		
+mev22_120.scr:3	mev22_120.scr	3	アンジュ	Ange Serena	personagem		長い道のりだったね…		
+mev22_120.scr:4	mev22_120.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	あの暁の従者の二人の働きで、\n侵食浄化はもとより、また世界中の人々が\n手を繋ぎ始めたそうよ		
+mev22_120.scr:5	mev22_120.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	握手で○○の能力と、\n助け合う為の繋がりが作られているの		
+mev22_120.scr:6	mev22_120.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	一人のディセンダーから、\n希望の光は世界中に灯っていく		
+mev22_120.scr:7	mev22_120.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	わたし達はその神話を、\n今まさに目にしてるのね…		
+mev22_120.scr:8	mev22_120.scr	8	リタ	Rita Mordio	personagem	CRLF x2	組み上げたドクメントは、\nマナの流れに乗せて、\n世界樹へ送り込めばいいの		
+mev22_120.scr:9	mev22_120.scr	9	リタ	Rita Mordio	personagem		それで、封印次元を形成出来るわ		
+mev22_120.scr:10	mev22_120.scr	10	リタ	Rita Mordio	personagem	CRLF x1	封印次元を作ったあとは、世界樹を媒体に\nラザリスの情報を送信させればいいの		
+mev22_120.scr:11	mev22_120.scr	11	ハロルド	Harold Berselius	personagem	CRLF x1	となると、この計画は\n聖地ラングリースで行うのが良さそうね		
+mev22_120.scr:12	mev22_120.scr	12	ハロルド	Harold Berselius	personagem	CRLF x1	よし、急いで準備を始めましょう。\nそれまで待ってなさい		
+mev22_130.scr:0	mev22_130.scr	0	イリア	Iria Animi	personagem	CRLF x1	○○、\nちょっと話があんの		
+mev22_130.scr:1	mev22_130.scr	1	イリア	Iria Animi	personagem	CRLF x2	あたし、あんたがディセンダーってわかって\nすぐに、あんまり当てにしない方が良さそう\n…って言ったけど		
+mev22_130.scr:2	mev22_130.scr	2	イリア	Iria Animi	personagem	CRLF x1	あれ、謝るわ。\nゴメン		
+mev22_130.scr:3	mev22_130.scr	3	イリア	Iria Animi	personagem	CRLF x2	いや、うーん。\nあんたが良くても、\nあたしはスジ通しときたいんだもん		
+mev22_130.scr:4	mev22_130.scr	4	イリア	Iria Animi	personagem		気にしてないって？		
+mev22_130.scr:5	mev22_130.scr	5	イリア	Iria Animi	personagem		はぁ、まーあんたらしいけどさー…		
+mev22_130.scr:6	mev22_130.scr	6	イリア	Iria Animi	personagem	CRLF x1	これは、あたし自身のケジメでも\nあるんだから		
+mev22_130.scr:7	mev22_130.scr	7	イリア	Iria Animi	personagem	CRLF x2	つか、ディセンダーがどうとかじゃなくて、\nあたしもやれる事をあんたみたいに\nやれば良かったなって		
+mev22_130.scr:8	mev22_130.scr	8	イリア	Iria Animi	personagem	CRLF x1	あの時は、甘ったれてたわねーって\n思うわ		
+mev22_130.scr:9	mev22_130.scr	9	イリア	Iria Animi	personagem		そんだけよ		
+mev22_130.scr:10	mev22_130.scr	10	イリア	Iria Animi	personagem	CRLF x2	ただ、あんたって…。\n予言で伝えられている通り\n世界を救ったら、世界樹へ帰っちゃうワケ？		
+mev22_130.scr:11	mev22_130.scr	11	イリア	Iria Animi	personagem		あ〜…、聞いて欲しくなかった？		
+mev22_130.scr:12	mev22_130.scr	12	イリア	Iria Animi	personagem		そこは触れないでくれって事？		
+mev22_130.scr:13	mev22_130.scr	13	イリア	Iria Animi	personagem	CRLF x1	とにかくさ、あんたがいなくなったら\nここのみんなが悲しむじゃん		
+mev22_130.scr:14	mev22_130.scr	14	イリア	Iria Animi	personagem	CRLF x2	そうは言っても、\nあたし達はあんたの決める事を\n止められないけど		
+mev22_130.scr:15	mev22_130.scr	15	イリア	Iria Animi	personagem	CRLF x1	だって、あんたは誰にも、何にも縛られない\n自由なディセンダーだからさ		
+mev22_130.scr:16	mev22_130.scr	16	イリア	Iria Animi	personagem	CRLF x1	ま、そーいうわけで、前の言葉、取り消すわ。\nホントにゴメン		
+mev22_130.scr:17	mev22_130.scr	17	(opcao do jogador)	(opcao do jogador)	escolha		気にしていない、と言う		
+mev22_130.scr:18	mev22_130.scr	18	(opcao do jogador)	(opcao do jogador)	escolha		笑って返す		
+mev22_130.scr:19	mev22_130.scr	19	(opcao do jogador)	(opcao do jogador)	escolha		黙る		
+mev22_130.scr:20	mev22_130.scr	20	(opcao do jogador)	(opcao do jogador)	escolha		苦笑する		
+mev22_140.scr:0	mev22_140.scr	0	リタ	Rita Mordio	personagem	CRLF x1	アンジュ。\n準備が整ったわ		
+mev22_140.scr:1	mev22_140.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	ええ。\nそれじゃあ、依頼として登録するね		
+mev22_140.scr:2	mev22_140.scr	2	カノンノ	Kanonno Grassvalley	personagem		私も行っていい？		
+mev22_140.scr:3	mev22_140.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	いいわよ。\nでも、念の為にもう一人、\n募集した方がいいかな		
+mev22_140.scr:4	mev22_140.scr	4	リタ	Rita Mordio	personagem	CRLF x2	そうね。\n腕に自信のありそうな奴\n募集しといて		

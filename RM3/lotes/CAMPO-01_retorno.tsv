@@ -1,0 +1,125 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mapd01a01.scr:0	mapd01a01.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		ルバーブ峠、高原方面	To Rhubarb Pass, Highlands	
+mapd01a01.scr:1	mapd01a01.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		ルバーブ渓谷下流	Ravine Downstream	
+mapd01a02.scr:0	mapd01a02.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		ルバーブ峠　	Rhubarb Pass	
+mapd01a02.scr:1	mapd01a02.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		ルバーブ高原・頂上方面	To Rhubarb Highlands & Summit	
+mapd01a06.scr:0	mapd01a06.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		ルバーブ高原　	Rhubarb Highlands	
+mapd01a06.scr:1	mapd01a06.scr	1	(opcao do jogador)	(opcao do jogador)	escolha		調べる	Examine	
+mapd01a06.scr:2	mapd01a06.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		ルバーブ山頂　	Rhubarb Summit	
+mapd01a12.scr:0	mapd01a12.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		この先、濃霧注意　	Caution: Dense Fog Ahead	
+mapd01a13.scr:0	mapd01a13.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		これ以上進むと危険だ。一旦引き返そう…	Too dangerous ahead. Let's turn back...	
+mapd01a14.scr:0	mapd01a14.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		不思議な穴がある…	There is a strange hole...	
+mapd02a02.scr:0	mapd02a02.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		平地林部２　	Lowland Woods 2	
+mapd02a02.scr:1	mapd02a02.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		平地林部３、ヘーゼル村管理地	Lowland Woods 3, Hazel Village Land	
+mapd02a06.scr:0	mapd02a06.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		燃やすことができそうだ…	It looks like it could be burned...	
+mapd02a06.scr:1	mapd02a06.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		樹海部　　　	Sea of Trees	
+mapd02a06.scr:2	mapd02a06.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		ヘーゼル村星晶採掘地跡	Hazel Star Crystal Mine	
+mapd03a01.scr:0	mapd03a01.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	※発掘調査中※\n１０層に新たな坑道が出土	*Excavation in Progress*\nNew tunnel unearthed on Level 10	
+mapd03a03.scr:0	mapd03a03.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		鍵が掛かっており、開くことができない	It is locked and cannot be opened.	
+mapd03a08.scr:0	mapd03a08.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		硬く閉ざされている	It is firmly shut.	
+mapd03a09.scr:0	mapd03a09.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		ヒミツのキーワード：↑↓←→	Secret keyword: ↑↓←→	
+mapd03a09.scr:1	mapd03a09.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		ヒミツのキーワード：↑→↓←→↑↓←	Secret keyword: ↑→↓←→↑↓←	
+mapd03a10.scr:0	mapd03a10.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		よく見ると、レバーになっているようだ	On closer look, it seems to be a lever.	
+mapd03a14.scr:0	mapd03a14.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		隣で何か動いたようだ	Something seemed to move next door.	
+mapd03a15.scr:0	mapd03a15.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		ここだけ、レバーになっているようだ	It seems only this part is a lever.	
+mapd03a15.scr:1	mapd03a15.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		何かヒミツがありそうだが…	There seems to be some secret, but...	
+mapd03a15.scr:2	mapd03a15.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		７層方面　　	Toward Level 7	
+mapd03a15.scr:3	mapd03a15.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema		正解⇒○●●○○●●○	Correct answer ⇒○●●○○●●○	
+mapd03a15.scr:4	mapd03a15.scr	4	(mensagem de sistema)	(mensagem de sistema)	sistema		注意深く調べて！	Examine carefully!	
+mapd03a17.scr:0	mapd03a17.scr	0	(sem caixa de nome)	(sem caixa de nome)	sem_caixa		飛び降りる	Jump down	
+mapd03a17.scr:1	mapd03a17.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		ここ掘れわんわん　	Dig here, bow-wow!	
+mapd03a18.scr:0	mapd03a18.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	７層採掘区\n（※足元注意！）	Level 7 Excavation Zone\n(*Watch your step!)	
+mapd03a21.scr:0	mapd03a21.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		お戻りはあちら　	Return path is that way	
+mapd03a21.scr:1	mapd03a21.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		８層　連絡坑道　	Level 8 Connecting Passage	
+mapd03a26.scr:0	mapd03a26.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		この先、危険。現在、調査中	Danger ahead. Currently under survey.	
+mapd04a02.scr:0	mapd04a02.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		あちら側から鍵がかかっているようだ…	Locked from the other side, it seems...	
+mapd04a10.scr:0	mapd04a10.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		下層　最深ポイント　	Lower Level: Deepest Point	
+mapd05a03.scr:0	mapd05a03.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		オアシス方面　	Toward the Oasis	
+mapd05a08.scr:0	mapd05a08.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		砂漠　入り口　	Desert Entrance	
+mapd05a08.scr:1	mapd05a08.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		帰らずの荒野　奥　	Wasteland of No Return: Depths	
+mapd05a09.scr:0	mapd05a09.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		足あとてくてく　	Pitter-patter footsteps	
+mapd05a09.scr:1	mapd05a09.scr	1	(placa/sinal)	(placa/sinal)	sem_caixa		調べる	Examine	
+mapd05a10.scr:0	mapd05a10.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		魔の吹き溜まり　	Devil's Drift	
+mapd05a10.scr:1	mapd05a10.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		後生の門　　	Gate of the Afterlife	
+mapd05a13.scr:0	mapd05a13.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	ビクともしない…\nちょっとやそっとでは開きそうもない………	It won't budge at all...\nIt won't open easily by any means......	
+mapd05a16.scr:0	mapd05a16.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		砂漠　入り口　	Desert Entrance	
+mapd05a16.scr:1	mapd05a16.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		風来草生育域　	Wanderweed Growth	
+mapd05a19.scr:0	mapd05a19.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		押せば倒れそうだが、今は先を急ごう	It might fall if pushed. Let's hurry on.	
+mapd05a22.scr:0	mapd05a22.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		下道なんてどうでしょう？	How about taking the lower path?	
+mapd05a22.scr:1	mapd05a22.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		喉が渇きませんか？　	Aren't you getting thirsty?	
+mapd06a01.scr:0	mapd06a01.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		不思議な穴がある…	There is a strange hole...	
+mapd06a01.scr:1	mapd06a01.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		オーブを置きました	Placed the orb.	
+mapd06a01.scr:2	mapd06a01.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		ソーサラリングが反応している…	The Sorcerer's Ring is reacting...	
+mapd06a01.scr:3	mapd06a01.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema		反応が無い	There is no reaction.	
+mapd06a02.scr:0	mapd06a02.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		希望灯招魂の間　	Chamber of the Lantern of Hope: Summoning	
+mapd06a09.scr:0	mapd06a09.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	ヒント：\n二部屋前で浮き上がった文字を\n並び替えると……？	Hint:\nIf you rearrange the letters\nthat appeared two rooms back......?	
+mapd06a09.scr:1	mapd06a09.scr	1	(placa/sinal)	(placa/sinal)	sem_caixa		R	R	
+mapd07a01.scr:0	mapd07a01.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		山岳方面　　	Toward the Mountains	
+mapd07a01.scr:1	mapd07a01.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		アブソール山頂　	Mt. Absole Summit	
+mapd07a02.scr:0	mapd07a02.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		山岳方面　　	Toward the Mountains	
+mapd07a02.scr:1	mapd07a02.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		アブソール山頂　	Mt. Absole Summit	
+mapd07a02.scr:2	mapd07a02.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		山麓・山間方面　	Toward the Foothills & Ravine	
+mapd07a08.scr:0	mapd07a08.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		山麓　中腹　	Foothills: Midslope	
+mapd07a13.scr:0	mapd07a13.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		不思議な穴がある…	There is a strange hole...	
+mapd07a17.scr:0	mapd07a17.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		リングスポット　	Ring Spot	
+mapd07a17.scr:1	mapd07a17.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		アブソール　登山口方面　	Toward Mt. Absole Trailhead	
+mapd08a03.scr:0	mapd08a03.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		ヴェラトローパ　庭園	Veratropa Garden	
+mapd08a03.scr:1	mapd08a03.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		創世伝えし者の間　	Genesis Bearer	
+mapd08a07.scr:0	mapd08a07.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		ヴェラトローパ　庭園	Veratropa Garden	
+mapd08a07.scr:1	mapd08a07.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		創世伝えし者の間	Genesis Bearer	
+mapd08a12.scr:0	mapd08a12.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		創世伝えし者の間	Genesis Bearer	
+mapd09a03.scr:0	mapd09a03.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		湧泉洞　中層方面　	Toward Sifnos Middle Layer	
+mapd09a06.scr:0	mapd09a06.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		西の大広間、入洞口方面	Toward West Great Hall & Entrance	
+mapd09a10.scr:0	mapd09a10.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		不思議な穴がある…	There is a strange hole...	
+mapd09a10.scr:1	mapd09a10.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		オーブを置きました	Placed the orb.	
+mapd09a10.scr:2	mapd09a10.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		湧泉洞　中層最深部	Sifnos Middle Layer: Deepest Point	
+mapd09a18.scr:0	mapd09a18.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		青き眠りの地　	Land of Blue Slumber	
+mapd09a19.scr:0	mapd09a19.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		青き眠りの地　	Land of Blue Slumber	
+mapd09a19.scr:1	mapd09a19.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		シフノ大回廊　	Sifnos Great Corridor	
+mapd09a24.scr:0	mapd09a24.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		湧泉洞　中層最深部	Sifnos Middle Layer: Deepest Point	
+mapd10a04.scr:0	mapd10a04.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		ボルテックス・トップ	Vortex Top	
+mapd10a10.scr:0	mapd10a10.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		ボルテックス・ボトム	Vortex Bottom	
+mapd10a10.scr:1	mapd10a10.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		マレビトの森、緑の眠りの地方面	Toward Stranger Forest & Green Slumber	
+mapd10a14.scr:0	mapd10a14.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		不思議な穴がある…	There is a strange hole...	
+mapd10a14.scr:1	mapd10a14.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		オーブを置きました	Placed the orb.	
+mapd10a14.scr:2	mapd10a14.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		聖地　入り口方面　	Toward Holy Land Entrance	
+mapd10a14.scr:3	mapd10a14.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema		緑の眠りの地　	Land of Green Slumber	
+mapd11a01.scr:0	mapd11a01.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		何かしら力を加えれば崩れそうだ	It looks like it would collapse if hit.	
+mapd11a01.scr:1	mapd11a01.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		何かしら力を加えれば崩れそうだ	It looks like it would collapse if hit.	
+mapd11a06.scr:0	mapd11a06.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		不思議な力で封印されている…	Sealed by a mysterious power...	
+mapd11a06.scr:1	mapd11a06.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		不思議な力で封印されている…	Sealed by a mysterious power...	
+mapd11a10.scr:0	mapd11a10.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		何かしら力を加えれば崩れそうだ	It looks like it would collapse if hit.	
+mapd11a15.scr:0	mapd11a15.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		何かしら力を加えれば崩れそうだ	It looks like it would collapse if hit.	
+mapd11a17.scr:0	mapd11a17.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		不思議な力で封印されている…	Sealed by a mysterious power...	
+mapd11a17.scr:1	mapd11a17.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		不思議な力で封印されている…	Sealed by a mysterious power...	
+mapd11a19.scr:0	mapd11a19.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		何かしら力を加えれば崩れそうだ	It looks like it would collapse if hit.	
+mapd11a22.scr:0	mapd11a22.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		何かしら力を加えれば崩れそうだ	It looks like it would collapse if hit.	
+mapd11a23.scr:0	mapd11a23.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		何かしら力を加えれば崩れそうだ	It looks like it would collapse if hit.	
+mapd11a24.scr:0	mapd11a24.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		何かの大きな力に阻まれて先に進めないようだ	Blocked by great power, cannot advance.	
+mapd11a24.scr:1	mapd11a24.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		不思議な力で封印されている…	Sealed by a mysterious power...	
+mapd11a24.scr:2	mapd11a24.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		青いエレベータの封印が解けました	The seal on the blue elevator broke.	
+mapd11a25.scr:0	mapd11a25.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		全てのエレベータが使用可能になりました	All elevators can now be used.	
+mapd11a25.scr:1	mapd11a25.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		何かしら力を加えれば崩れそうだ	It looks like it would collapse if hit.	
+mapd12a01.scr:0	mapd12a01.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	※警告※\nここから先はミニマップが\n使用できません	*WARNING*\nThe minimap cannot be used\nbeyond this point.	
+mapd12a31.scr:0	mapd12a31.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	緊急脱出口\n※注意：一方通行です	Emergency Exit\n*Caution: One way only	
+mapd12a34.scr:0	mapd12a34.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		アイテム足りてます？　	Do you have enough items?	
+mapd12a46.scr:0	mapd12a46.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		” ！ ” の向きを辿ると……？	"Follow the direction of "" ! ""...?"	
+mapd12a47.scr:0	mapd12a47.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		この先、暗闇注意　	Caution: Darkness ahead	
+mapd12a57.scr:0	mapd12a57.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	緊急脱出口\n※注意：一方通行です	Emergency Exit\n*Caution: One way only	
+mapd12a59.scr:0	mapd12a59.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		何か不思議な力で、封印されている	Sealed by some mysterious power.	
+mapd12a59.scr:1	mapd12a59.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		封印は解けたようだ	The seal seems to have broken.	
+mapd12a59.scr:2	mapd12a59.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		何か不思議な力で、封印されている	Sealed by some mysterious power.	
+mapd12a59.scr:3	mapd12a59.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema		封印は解けたようだ	The seal seems to have broken.	
+mapd12a61.scr:0	mapd12a61.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		何か不思議な力で、封印されている	Sealed by some mysterious power.	
+mapd12a61.scr:1	mapd12a61.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		封印は解けたようだ	The seal seems to have broken.	
+mapd12a61.scr:2	mapd12a61.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		何か不思議な力で、封印されている	Sealed by some mysterious power.	
+mapd12a61.scr:3	mapd12a61.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema		封印は解けたようだ	The seal seems to have broken.	
+mapship_03.scr:0	mapship_03.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		現在、倉庫は利用できません	The storage cannot be used right now.	
+mapship_07.scr:0	mapship_07.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		現在、倉庫は利用できません	The storage cannot be used right now.	
+mapship_07.scr:1	mapship_07.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		空席	Empty Seat	
+mapship_07.scr:2	mapship_07.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		空席	Empty Seat	
+mapship_29.scr:0	mapship_29.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		不思議な玉がある………	There is a mysterious orb.........	
+mapship_29.scr:1	mapship_29.scr	1	(mensagem de sistema)	(mensagem de sistema)	sistema		玉が何かを訴えている気がする…	I feel like the orb is calling out...	
+mapship_29.scr:2	mapship_29.scr	2	(mensagem de sistema)	(mensagem de sistema)	sistema		なぜか、この玉に呼ばれたような気がする…	For some reason, I feel drawn to it...	
+mapship_29.scr:3	mapship_29.scr	3	(mensagem de sistema)	(mensagem de sistema)	sistema		一瞬、玉の中にどこかの風景が見えた気がする…	I thought I saw a scenery in the orb...	
+mapship_29.scr:4	mapship_29.scr	4	(mensagem de sistema)	(mensagem de sistema)	sistema		玉をじっと見つめていると胸騒ぎがする…	Gazing into the orb stirs unease...	

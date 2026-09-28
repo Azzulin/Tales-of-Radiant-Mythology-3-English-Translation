@@ -1,0 +1,124 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev12_010.scr:0	qev12_010.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	でも、本当だったら大変じゃないか。\n確かめに行ってみようよ	But what if it's true?\nLet's go check it out!	
+qev12_010.scr:1	qev12_010.scr	1	ヒスイ	Hisui Hearts	personagem	CRLF x2	はっ。\nんな事言って、な〜んにもなかったら\nどうするつもりだ？	Hah.\nAnd what will you do\nif there's nothing there?	
+qev12_010.scr:2	qev12_010.scr	2	ヒスイ	Hisui Hearts	personagem	CRLF x1	大体、根拠が噂だけじゃ\n誰も動いちゃくれねえぜ	Besides, nobody's gonna move\nbased on some random rumor.	
+qev12_010.scr:3	qev12_010.scr	3	コハク	Kohaku Hearts	personagem	CRLF x1	わたしはシングを信じるよ。\nシングが行くなら、わたしも手伝う	I believe in Shing.\nIf Shing goes, I'll help too.	
+qev12_010.scr:4	qev12_010.scr	4	ヒスイ	Hisui Hearts	personagem		ぐっ、コハク……	Ugh, Kohaku...	
+qev12_010.scr:5	qev12_010.scr	5	コハク	Kohaku Hearts	personagem	CRLF x1	それに、その話が本当だったら\nたくさんの人が傷付く……	Besides, if the story is true,\nmany people will get hurt...	
+qev12_010.scr:6	qev12_010.scr	6	コハク	Kohaku Hearts	personagem		そんなの見てられないよ	I can't just stand by and watch.	
+qev12_010.scr:7	qev12_010.scr	7	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev12_010.scr:8	qev12_010.scr	8	シング	Shing Meteoryte	personagem		○○、いいところに！	○○, perfect timing!	
+qev12_010.scr:9	qev12_010.scr	9	シング	Shing Meteoryte	personagem		あのさ……	Hey, um...	
+qev12_010.scr:10	qev12_010.scr	10	ヒスイ	Hisui Hearts	personagem	CRLF x2	おい。\nこのバカの言う事\n真に受けるんじゃねーぞ、○○	Hey.\nDon't take what this idiot\nsays seriously, ○○.	
+qev12_010.scr:11	qev12_010.scr	11	コハク	Kohaku Hearts	personagem		もう、お兄ちゃん！	Jeez, Hisui!	
+qev12_010.scr:12	qev12_010.scr	12	コハク	Kohaku Hearts	personagem	CRLF x2	○○、\n良かったらシングの話を\n聞いてくれない？	○○,\nwould you mind listening\nto what Shing has to say?	
+qev12_010.scr:13	qev12_010.scr	13	コハク	Kohaku Hearts	personagem		きみの力を貸してほしいの	We need your help.	
+qev12_010.scr:14	qev12_010.scr	14	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「本当は怖〜いおとぎ話」が\nエントリーされました。\nシングから受ける事が出来ます	"Quest ""The Truly Scary Fairy Tale""\nhas been registered.\nYou can accept it from Shing."	
+qev12_020.scr:0	qev12_020.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	力を貸してくれるんだね？\nありがとう！	You'll help us?\nThank you!	
+qev12_020.scr:1	qev12_020.scr	1	ヒスイ	Hisui Hearts	personagem	CRLF x1	ったく……、お前も物好きな奴だな。\nこんな馬鹿に付き合う気が知れねぇぜ	Jeez... you're a curious one.\nI don't know why you indulge this idiot.	
+qev12_020.scr:2	qev12_020.scr	2	コハク	Kohaku Hearts	personagem	CRLF x1	お兄ちゃん？\nそんな言い方しないの	Hisui?\nDon't speak like that.	
+qev12_020.scr:3	qev12_020.scr	3	コハク	Kohaku Hearts	personagem		せっかく協力してくれるんだから……	Since they're offering to help...	
+qev12_020.scr:4	qev12_020.scr	4	コハク	Kohaku Hearts	personagem		……仲良くしなきゃ、ダメだよ？	...you have to play nice, okay?	
+qev12_020.scr:5	qev12_020.scr	5	ヒスイ	Hisui Hearts	personagem		も、もちろんですとも……	S-Sure thing...	
+qev12_020.scr:6	qev12_020.scr	6	シング	Shing Meteoryte	personagem	CRLF x1	今日もコハクの蹴りは\nキレがいいなぁ……	Kohaku's kicks are as sharp\nas ever today...	
+qev12_030.scr:0	qev12_030.scr	0	ヒスイ	Hisui Hearts	personagem		ここが、噂の森か……	So this is the rumored forest...	
+qev12_030.scr:1	qev12_030.scr	1	ヒスイ	Hisui Hearts	personagem	CRLF x1	ほんとにいるのかねぇ……。\n「おとぎ話の魔物」なんてモンがよ	"Is it really here...?\nA ""monster from a fairy tale""?"	
+qev12_030.scr:2	qev12_030.scr	2	シング	Shing Meteoryte	personagem	CRLF x1	「火のない所は火事にならぬ」って\n言うだろ？	"They say ""where there's no fire,\nthere's no fire,"" right?"	
+qev12_030.scr:3	qev12_030.scr	3	シング	Shing Meteoryte	personagem	CRLF x1	きっと、噂の根拠になった\n何かがあるはずだよ	There must be something here\nthat started the rumor.	
+qev12_030.scr:4	qev12_030.scr	4	シング	Shing Meteoryte	personagem		みんな、油断せずに行こう	Let's keep our guard up, everyone.	
+qev12_030.scr:5	qev12_030.scr	5	ヒスイ	Hisui Hearts	personagem	CRLF x1	それを言うなら\n「火のない所に煙は立たぬ」だろッ	"You mean ""where there's smoke,\nthere's fire""!"	
+qev12_030.scr:6	qev12_030.scr	6	コハク	Kohaku Hearts	personagem		うん、油断禁物だよね	Yeah, we can't let our guard down.	
+qev12_030.scr:7	qev12_030.scr	7	コハク	Kohaku Hearts	personagem		行こう！	Let's go!	
+qev12_030.scr:8	qev12_030.scr	8	ヒスイ	Hisui Hearts	personagem		って、オイ	Hey, wait!	
+qev12_030.scr:9	qev12_030.scr	9	ヒスイ	Hisui Hearts	personagem		俺を置いて行くんじゃねえ！！	Don't leave me behind!!	
+qev12_040.scr:0	qev12_040.scr	0	ヒスイ	Hisui Hearts	personagem	CRLF x2	つーかよぉ、そもそも\n「おとぎ話に出てくる魔物」って\nどんな奴なんだ？	"Anyway, what exactly is\na ""monster from a fairy tale""\nsupposed to be?"	
+qev12_040.scr:1	qev12_040.scr	1	ヒスイ	Hisui Hearts	personagem	CRLF x1	見た目とか、能力とか、\n具体的にはどんな化け物なんだよ？	Like, what does it look like,\nor what kind of powers does it have?	
+qev12_040.scr:2	qev12_040.scr	2	コハク	Kohaku Hearts	personagem	CRLF x1	夢を食べる恐ろしい魔物だって、\nお話には書いてあったよ	The story says it's a terrifying monster\nthat eats dreams.	
+qev12_040.scr:3	qev12_040.scr	3	コハク	Kohaku Hearts	personagem	CRLF x2	人の夢の中に棲んで、\n人の夢を食べちゃうんだって。\n詳しい事は、わからないけど……	It lives inside people's dreams\nand eats them.\nI don't know the exact details...	
+qev12_040.scr:4	qev12_040.scr	4	シング	Shing Meteoryte	personagem		夢なんて食べて、美味しいのかな？	Are dreams even tasty?	
+qev12_040.scr:5	qev12_040.scr	5	シング	Shing Meteoryte	personagem	CRLF x2	それに、夢を食べられたら、\n夢を見てた人は\nどうなっちゃうんだろう	And what happens to the person\nwhose dream is eaten\nby the monster?	
+qev12_040.scr:6	qev12_040.scr	6	コハク	Kohaku Hearts	personagem		心を失ってしまうみたい	It seems they lose their heart.	
+qev12_040.scr:7	qev12_040.scr	7	コハク	Kohaku Hearts	personagem	CRLF x2	心がなくなっちゃうなんて、怖いね……。\n笑う事も、泣く事も、\n出来なくなっちゃうってコトだもん	Losing your heart is scary...\nIt means you won't be able\nto laugh or cry anymore.	
+qev12_040.scr:8	qev12_040.scr	8	ヒスイ	Hisui Hearts	personagem		大丈夫だ、コハク	It's okay, Kohaku.	
+qev12_040.scr:9	qev12_040.scr	9	ヒスイ	Hisui Hearts	personagem	CRLF x1	コハクは何があっても、\n兄ちゃんが守ってやるからな！	No matter what happens,\nI'll protect you, Kohaku!	
+qev12_040.scr:10	qev12_040.scr	10	コハク	Kohaku Hearts	personagem		お兄ちゃん……	Hisui...	
+qev12_040.scr:11	qev12_040.scr	11	コハク	Kohaku Hearts	personagem	CRLF x1	うん。\nありがとう	Yeah.\nThanks.	
+qev12_040.scr:12	qev12_040.scr	12	シング	Shing Meteoryte	personagem		オレだって！	Me too!	
+qev12_040.scr:13	qev12_040.scr	13	シング	Shing Meteoryte	personagem		何があっても、コハクを守るよ！！	I'll protect Kohaku no matter what!!	
+qev12_040.scr:14	qev12_040.scr	14	コハク	Kohaku Hearts	personagem	CRLF x1	うん。\nシングも、ありがとう	Yeah.\nThanks to you too, Shing.	
+qev12_040.scr:15	qev12_040.scr	15	ヒスイ	Hisui Hearts	personagem	CRLF x2	よ〜し、よく言ったシング。\nいざって時は、お前を一番\n頼りにしてるぜ	Alright, well said, Shing.\nIf push comes to shove,\nI'm counting on you the most.	
+qev12_040.scr:16	qev12_040.scr	16	シング	Shing Meteoryte	personagem	CRLF x1	ヒスイ……。\nオレの事、認めてくれたの？	Hisui...\nAre you finally acknowledging me?	
+qev12_040.scr:17	qev12_040.scr	17	ヒスイ	Hisui Hearts	personagem	CRLF x1	お前が襲われてる間に、\n俺がコハクをきちんと逃がす	While you're getting attacked,\nI'll safely help Kohaku escape.	
+qev12_040.scr:18	qev12_040.scr	18	ヒスイ	Hisui Hearts	personagem	CRLF x1	安心しろ。\nお前の死は無駄にしねえからな	Rest assured.\nYour death won't be in vain.	
+qev12_040.scr:19	qev12_040.scr	19	シング	Shing Meteoryte	personagem	CRLF x1	ちょ、ちょっと。\nオレは初めから生贄要員なの！？	H-Hey!\nAm I just a sacrifice from the start!?	
+qev12_041.scr:0	qev12_041.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	もし「おとぎ話の魔物」が\n本当にいるならさ……	"If the ""fairy tale monster""\nreally exists..."	
+qev12_041.scr:1	qev12_041.scr	1	シング	Shing Meteoryte	personagem	CRLF x1	お話に出てくる「ねむり姫」も\nどこかにいるって事なのかな？	"Does that mean ""Sleeping Beauty""\nfrom the story exists somewhere too?"	
+qev12_041.scr:2	qev12_041.scr	2	ヒスイ	Hisui Hearts	personagem	CRLF x1	はっ。\nそんな事あるわけ……	Hah.\nThere's no way that...	
+qev12_041.scr:3	qev12_041.scr	3	コハク	Kohaku Hearts	personagem	CRLF x1	わたしはいると思うな。\nエメラルドの髪のねむり姫……	I think she does.\nSleeping Beauty with emerald hair...	
+qev12_041.scr:4	qev12_041.scr	4	コハク	Kohaku Hearts	personagem	CRLF x2	「いばらの森」の奥で、まだ\n世界が消える夢を見てる気がする。\n千年経った今も、ずっと……	"Deep in the ""briar forest,"" I feel like\nshe's still dreaming of the world ending.\nEven now, after a thousand years..."	
+qev12_041.scr:5	qev12_041.scr	5	ヒスイ	Hisui Hearts	personagem	CRLF x2	おいおい。　ありゃおとぎ話だぜ？\n千年も寝こけてるお姫さんなんざ\n本当にいるわけ……	Hey now. It's just a fairy tale.\nThere's no way a princess\nsleeping for a thousand years exists...	
+qev12_041.scr:6	qev12_041.scr	6	コハク	Kohaku Hearts	personagem		いるよ！　きっといる	She does! I'm sure she does.	
+qev12_041.scr:7	qev12_041.scr	7	コハク	Kohaku Hearts	personagem		わたし、小さい頃、何度か夢に見たの	I dreamt of her often when I was little.	
+qev12_041.scr:8	qev12_041.scr	8	コハク	Kohaku Hearts	personagem	CRLF x1	偶然かもしれないけど……。\nそれから、どうしても彼女のこと……	It might be a coincidence...\nBut I can't stop thinking about her...	
+qev12_041.scr:9	qev12_041.scr	9	ヒスイ	Hisui Hearts	personagem		コハク……	Kohaku...	
+qev12_041.scr:10	qev12_041.scr	10	シング	Shing Meteoryte	personagem	CRLF x2	うん。\nコハクがいるって思うなら、\nオレはやっぱり、いるんだって思う	Yeah.\nIf Kohaku believes she exists,\nthen I believe she exists too.	
+qev12_041.scr:11	qev12_041.scr	11	シング	Shing Meteoryte	personagem		その方が、ロマンだってあるしね！	It's more romantic that way!	
+qev12_041.scr:12	qev12_041.scr	12	コハク	Kohaku Hearts	personagem		シング……	Shing...	
+qev12_041.scr:13	qev12_041.scr	13	ヒスイ	Hisui Hearts	personagem		いばらの森のねむり姫、ねぇ……	Sleeping Beauty in the briars, huh...	
+qev12_041.scr:14	qev12_041.scr	14	ヒスイ	Hisui Hearts	personagem	CRLF x1	ま、確かに……いるんなら\n目覚めさせてやりたいとは思うけどよ	Well, if she really does exist,\nI'd want to wake her up.	
+qev12_041.scr:15	qev12_041.scr	15	ヒスイ	Hisui Hearts	personagem	CRLF x1	たった一人でそんな悪夢を\n見続けるなんて、キツいだろうな	Having nightmares all alone like that\nmust be pretty rough.	
+qev12_041.scr:16	qev12_041.scr	16	シング	Shing Meteoryte	personagem	CRLF x2	へぇ〜。\nヒスイって、何だかんだ言っても\nねむり姫の事が好きなんだね	Wow.\nEven after all you said, Hisui,\nyou still like Sleeping Beauty.	
+qev12_041.scr:17	qev12_041.scr	17	ヒスイ	Hisui Hearts	personagem	CRLF x1	はぁ？\nんな事あるわけねーだろッ！	Huh?\nNo way in hell!	
+qev12_041.scr:18	qev12_041.scr	18	ヒスイ	Hisui Hearts	personagem	CRLF x1	俺がラブなのは、後にも先にも\nコハクだけだぜ	The only one I'll ever love\nis Kohaku.	
+qev12_041.scr:19	qev12_041.scr	19	シング	Shing Meteoryte	personagem		後にも先にも……なんだ	Ever love... huh.	
+qev12_041.scr:20	qev12_041.scr	20	コハク	Kohaku Hearts	personagem		お兄ちゃん……	Hisui...	
+qev12_041.scr:21	qev12_041.scr	21	ヒスイ	Hisui Hearts	personagem	CRLF x2	……おい。\n二人して痛々しい目で\nこっち見るなよッッ！！？	...Hey.\nDon't look at me with those\npitying eyes!!?	
+qev12_041.scr:22	qev12_041.scr	22	ヒスイ	Hisui Hearts	personagem	CRLF x1	本気で俺が危ないヤツ\nみてぇだろッ！！	You're making me look\nlike a total creep!!	
+qev12_050.scr:0	qev12_050.scr	0	ヒスイ	Hisui Hearts	personagem		ふぅ、倒した……な	Phew, we beat it... I think.	
+qev12_050.scr:1	qev12_050.scr	1	ヒスイ	Hisui Hearts	personagem	CRLF x1	何だかよくわからねえが、\nこれで一件落着……	I'm not really sure what that was,\nbut case closed...	
+qev12_050.scr:2	qev12_050.scr	2	コハク	Kohaku Hearts	personagem		あッ！	Ah!	
+qev12_050.scr:3	qev12_050.scr	3	シング	Shing Meteoryte	personagem		ど、どうしたのコハク？	W-What's wrong, Kohaku?	
+qev12_050.scr:4	qev12_050.scr	4	コハク	Kohaku Hearts	personagem	CRLF x1	……思い出したの。\nあの魔物をどこで見たのか	...I remembered.\nWhere I've seen that monster before.	
+qev12_050.scr:5	qev12_050.scr	5	コハク	Kohaku Hearts	personagem	CRLF x2	伝説のユニコーンに似てるんだと思う。\nわたし達が想像してた、\nおとぎ話の魔物なんかじゃない……	I think it looks like a legendary unicorn.\nIt's not the fairy tale monster\nwe were imagining...	
+qev12_050.scr:6	qev12_050.scr	6	ヒスイ	Hisui Hearts	personagem		ってぇ事は……何だ？	Which means... what?	
+qev12_050.scr:7	qev12_050.scr	7	ヒスイ	Hisui Hearts	personagem	CRLF x1	ヒト違いならぬ、\n魔物違いだったってワケかぁ！？	So it wasn't a case of mistaken identity,\nbut mistaken monster identity!?	
+qev12_050.scr:8	qev12_050.scr	8	シング	Shing Meteoryte	personagem	CRLF x1	魔物違い、か……。\nでも、そうだよね	Mistaken monster identity, huh...\nBut it makes sense.	
+qev12_050.scr:9	qev12_050.scr	9	シング	Shing Meteoryte	personagem	CRLF x1	夢を食べる魔物なんて、\n本当にいたら大変だし……	It'd be a huge problem if a monster\nthat eats dreams really existed...	
+qev12_050.scr:10	qev12_050.scr	10	コハク	Kohaku Hearts	personagem	CRLF x2	おとぎ話はおとぎ話だったって事……かな。\nあの魔物には、ちょっと\nかわいそうな事しちゃったね……	I guess it was just a fairy tale.\nWe ended up doing something\na bit cruel to that monster...	
+qev12_050.scr:11	qev12_050.scr	11	ヒスイ	Hisui Hearts	personagem		そんなこたぁどうでもいいんだよッ！	Who cares about that!	
+qev12_050.scr:12	qev12_050.scr	12	ヒスイ	Hisui Hearts	personagem	CRLF x1	くそっ、ここまで来て無駄骨なんて……。\nツイてねぇ……	Damn it, we came all this way for nothing.\nTalk about bad luck...	
+qev12_050.scr:13	qev12_050.scr	13	シング	Shing Meteoryte	personagem	CRLF x2	そうかな？　オレは……、\nオレは、無駄骨なんかじゃないと思うよ……。\nね、コハク？	You think so? I don't think...\nI don't think it was for nothing...\nRight, Kohaku?	
+qev12_050.scr:14	qev12_050.scr	14	コハク	Kohaku Hearts	personagem	CRLF x1	うん……わたしも……。\nちょっとドキドキして楽しかったよ？	Yeah... me neither...\nIt was a bit thrilling and fun, you know?	
+qev12_050.scr:15	qev12_050.scr	15	コハク	Kohaku Hearts	personagem	CRLF x1	何だか、\nおとぎ話の世界に入ったみたいで……	It felt like\nwe stepped right into a fairy tale...	
+qev12_050.scr:16	qev12_050.scr	16	シング	Shing Meteoryte	personagem	CRLF x2	オレも……、\nコハクと冒険してるって思って\nすっごく、ドキドキした	Me too...\nThinking I was adventuring with Kohaku\nmade my heart pound.	
+qev12_050.scr:17	qev12_050.scr	17	コハク	Kohaku Hearts	personagem		シング……	Shing...	
+qev12_050.scr:18	qev12_050.scr	18	ヒスイ	Hisui Hearts	personagem		こらぁぁ〜〜ッ！	Hey you two~~!!	
+qev12_050.scr:19	qev12_050.scr	19	ヒスイ	Hisui Hearts	personagem	CRLF x1	なぁに勝手に\nいい雰囲気になってやがるッ！？	Don't you go creating\na good atmosphere on your own!!	
+qev12_050.scr:20	qev12_050.scr	20	ヒスイ	Hisui Hearts	personagem	CRLF x1	俺は絶ッ対！\nてめぇの事は認めねえからな！	I will absolutely! NEVER!\nacknowledge you!	
+qev12_050.scr:21	qev12_050.scr	21	シング	Shing Meteoryte	personagem	CRLF x1	それでも……、\n時間をかけて絶ッ対わかってもらうさ	Even so...\nI'll take my time and absolutely make you!	
+qev12_050.scr:22	qev12_050.scr	22	シング	Shing Meteoryte	personagem		ね……、コハク？	Right... Kohaku?	
+qev12_050.scr:23	qev12_050.scr	23	コハク	Kohaku Hearts	personagem		うん……頑張ろうね！　シング	Yeah... Let's do our best! Shing.	
+qev12_050.scr:24	qev12_050.scr	24	ヒスイ	Hisui Hearts	personagem	CRLF x1	だから、その雰囲気を\nやめろって言ってんだ〜〜！！	I'm telling you, stop\ncreating that atmosphere~~!!	
+qev12_060.scr:0	qev12_060.scr	0	ヒスイ	Hisui Hearts	personagem		やっと、帰ってきたか……	We're finally back...	
+qev12_060.scr:1	qev12_060.scr	1	ヒスイ	Hisui Hearts	personagem	CRLF x1	ったく、つまんねえ噂話に\n踊らされちまったもんだぜ	Jeez, letting ourselves get danced around\nby some stupid rumor.	
+qev12_060.scr:2	qev12_060.scr	2	シング	Shing Meteoryte	personagem	CRLF x1	でも、本当の事がわかって\n良かったじゃないか	But aren't you glad\nwe found out the truth?	
+qev12_060.scr:3	qev12_060.scr	3	コハク	Kohaku Hearts	personagem		そうだよね	You're right.	
+qev12_060.scr:4	qev12_060.scr	4	コハク	Kohaku Hearts	personagem	CRLF x2	これで噂は落ち着くはずだし、\nみんなも安心して\n元の暮らしに戻れると思う	This should settle the rumors,\nand I think everyone can safely\nreturn to their normal lives.	
+qev12_060.scr:5	qev12_060.scr	5	ヒスイ	Hisui Hearts	personagem		ま、何でもいいけどよ……	Well, whatever...	
+qev12_060.scr:6	qev12_060.scr	6	ヒスイ	Hisui Hearts	personagem	CRLF x2	○○、\nお前もとんだ\nとばっちりだったとは思うが……	○○,\nI know you got dragged into this\ncollateral damage, but...	
+qev12_060.scr:7	qev12_060.scr	7	ヒスイ	Hisui Hearts	personagem	CRLF x1	ま、最後まで付き合ってくれて\nありがとうな	Well, thanks for sticking with us\nuntil the end.	
+qev12_060.scr:8	qev12_060.scr	8	シング	Shing Meteoryte	personagem	CRLF x1	うん。\nありがとう、○○	Yeah.\nThanks, ○○.	
+qev12_060.scr:9	qev12_060.scr	9	コハク	Kohaku Hearts	personagem	CRLF x1	今度はわたし達が\n○○の為に頑張るよ	Next time, we'll do our best\nfor you, ○○.	
+qev12_060.scr:10	qev12_060.scr	10	コハク	Kohaku Hearts	personagem	CRLF x1	困った事があったら、\nいつでも言ってね	If you ever need help,\njust say the word.	
+qev12_060.scr:11	qev12_060.scr	11	コハク	Kohaku Hearts	personagem	CRLF x1	ドラゴン退治でも、ゾンビ退治でも\n何でも付き合うから！	Whether it's fighting dragons or zombies,\nwe'll tag along for anything!	
+qev12_060.scr:12	qev12_060.scr	12	シング	Shing Meteoryte	personagem		ドラゴンに……ゾンビ？	Dragons... and zombies?	
+qev12_060.scr:13	qev12_060.scr	13	ヒスイ	Hisui Hearts	personagem		それはちょっと……	That's a bit...	
+qev12_070.scr:0	qev12_070.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	ねえ、もしかして……。\n魔物ってアレじゃないかな？	Hey, what if...\nthat was the monster?	
+qev12_070.scr:1	qev12_070.scr	1	コハク	Kohaku Hearts	personagem	CRLF x1	確かに、どこかで見た様な\n姿をしてるけど……	It certainly looks like something\nwe've seen before, but...	
+qev12_070.scr:2	qev12_070.scr	2	コハク	Kohaku Hearts	personagem		あれが、おとぎ話の魔物……なの？	Is that... the fairy tale monster?	
+qev12_070.scr:3	qev12_070.scr	3	ヒスイ	Hisui Hearts	personagem	CRLF x1	話は後だ！\nアイツ、こっちに気付きやがったぞ！！	We can talk later!\nThat thing noticed us!!	
+qev12_070.scr:4	qev12_070.scr	4	ヒスイ	Hisui Hearts	personagem	CRLF x1	みんな！\n油断すんじゃねーぞ！！	Everyone!\nDon't let your guard down!!	
+qev12_080.scr:0	qev12_080.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	今度は、\nさっきみたいには行かないぞ！	This time,\nit won't go like before!	
+qev12_080.scr:1	qev12_080.scr	1	ヒスイ	Hisui Hearts	personagem	CRLF x2	ああ。\n正体はともかく、\n借りはきっちり返させてもらうぜ！	Yeah.\nWhatever it is,\nwe're paying it back in full!	
+qev12_080.scr:2	qev12_080.scr	2	ヒスイ	Hisui Hearts	personagem	CRLF x1	こんな喧嘩ッ早ぇ魔物、\nいつまでも放置しておけるかよッ！！	I won't let such a short-tempered\nmonster roam free forever!!	
+qev12_080.scr:3	qev12_080.scr	3	コハク	Kohaku Hearts	personagem	CRLF x1	うん。\nみんな、行くよ！	Yeah.\nLet's go, everyone!	

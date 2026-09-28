@@ -1,0 +1,147 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev04_010.scr:0	cev04_010.scr	0	アーチェ	Arche Klein	personagem	CRLF x1	あのさー、思ったんだけど\nみんな髪長過ぎじゃない？		
+cev04_010.scr:1	cev04_010.scr	1	アーチェ	Arche Klein	personagem		邪魔になったりしないわけ？		
+cev04_010.scr:2	cev04_010.scr	2	ヴェイグ	Veigue Lungberg	personagem		……邪魔にならない様に結っている		
+cev04_010.scr:3	cev04_010.scr	3	スタン	Stahn Aileron	personagem	CRLF x1	俺は、羊飼いの仕事で役立つから\nこのままにしてるんだけど		
+cev04_010.scr:4	cev04_010.scr	4	ルーク	Luke fon Fabre	personagem		羊だぁ？		
+cev04_010.scr:5	cev04_010.scr	5	スタン	Stahn Aileron	personagem		ああ		
+cev04_010.scr:6	cev04_010.scr	6	スタン	Stahn Aileron	personagem	CRLF x2	髪が長いと、\n羊が仲間と間違えてくれて\n結構便利なんだ		
+cev04_010.scr:7	cev04_010.scr	7	アッシュ	Asch	personagem	CRLF x1	はっ、家畜と同類か……。\n結構な事だ		
+cev04_010.scr:8	cev04_010.scr	8	ルーク	Luke fon Fabre	personagem	CRLF x1	っていうか、そういうお前だって\n髪長ぇじゃねえかよ		
+cev04_010.scr:9	cev04_010.scr	9	アーチェ	Arche Klein	personagem		あたしは女の子だからいーの！		
+cev04_010.scr:10	cev04_010.scr	10	ヴェイグ	Veigue Lungberg	personagem		性別が関係あるのか……？		
+cev04_010.scr:11	cev04_010.scr	11	ユーリ	Yuri Lowell	personagem	CRLF x2	まぁ、いいじゃねーか。\n個人の趣味嗜好なんざ、\n周りがとやかく言う事じゃねえよ		
+cev04_010.scr:12	cev04_010.scr	12	アッシュ	Asch	personagem		珍しく意見が合ったな		
+cev04_010.scr:13	cev04_010.scr	13	ユーリ	Yuri Lowell	personagem		そりゃ、どーも		
+cev04_010.scr:14	cev04_010.scr	14	ルーク	Luke fon Fabre	personagem	CRLF x1	ったく。\n変な質問すんなってーの		
+cev04_010.scr:15	cev04_010.scr	15	アーチェ	Arche Klein	personagem	CRLF x1	うー……あんたに言われると\n何か悔しい……		
+cev04_020.scr:0	cev04_020.scr	0	カノンノ	Kanonno Grassvalley	personagem		アーチェは、ハーフエルフなんだよね		
+cev04_020.scr:1	cev04_020.scr	1	アーチェ	Arche Klein	personagem	CRLF x1	うん。\nそうだよ		
+cev04_020.scr:2	cev04_020.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ハーフエルフは、普通の人間より\nとっても長生きなんだよね？		
+cev04_020.scr:3	cev04_020.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	……やっぱり、長い時間を過ごして\n寂しくなったりはする？		
+cev04_020.scr:4	cev04_020.scr	4	アーチェ	Arche Klein	personagem		そりゃあ……ね		
+cev04_020.scr:5	cev04_020.scr	5	アーチェ	Arche Klein	personagem	CRLF x2	誰かと仲良くなっても\n結局あたしだけ残されて\n一人ぼっちなんて、しょっちゅう		
+cev04_020.scr:6	cev04_020.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	怖くなったりしないの？\n人と……一緒にいる事が		
+cev04_020.scr:7	cev04_020.scr	7	アーチェ	Arche Klein	personagem	CRLF x1	全然！\n……っていうのは強がりだけどさ		
+cev04_020.scr:8	cev04_020.scr	8	アーチェ	Arche Klein	personagem	CRLF x1	みんなと会えたから\n今のあたしがいるんだもん		
+cev04_020.scr:9	cev04_020.scr	9	アーチェ	Arche Klein	personagem	CRLF x1	一緒にいられなくたって\n寂しくたって		
+cev04_020.scr:10	cev04_020.scr	10	アーチェ	Arche Klein	personagem	CRLF x1	今を後悔したり\n怯えたりなんてしないよ		
+cev04_020.scr:11	cev04_020.scr	11	アーチェ	Arche Klein	personagem	CRLF x1	そんなの、あたしらしくないって\n笑われちゃう		
+cev04_020.scr:12	cev04_020.scr	12	カノンノ	Kanonno Grassvalley	personagem		アーチェは強いな……		
+cev04_020.scr:13	cev04_020.scr	13	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	でも、そうだね……。\n何があったって、\n今から目を背けたらだめだよね		
+cev04_020.scr:14	cev04_020.scr	14	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん。\n私も元気、出さなきゃ		
+cev04_020.scr:15	cev04_020.scr	15	カノンノ	Kanonno Grassvalley	personagem		行こう、○○		
+cev04_030.scr:0	cev04_030.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ねえ、空を飛ぶのってどんな感覚なの？\nやっぱり、気持ちいいのかな		
+cev04_030.scr:1	cev04_030.scr	1	アーチェ	Arche Klein	personagem	CRLF x2	ん〜、どうだろ？\nあたしは慣れちゃって、\nあんまり深く考えた事ないけど……		
+cev04_030.scr:2	cev04_030.scr	2	アーチェ	Arche Klein	personagem		良かったら乗ってみる？		
+cev04_030.scr:3	cev04_030.scr	3	カノンノ	Kanonno Grassvalley	personagem		いいの？		
+cev04_030.scr:4	cev04_030.scr	4	アーチェ	Arche Klein	personagem		もちろん		
+cev04_030.scr:5	cev04_030.scr	5	アーチェ	Arche Klein	personagem	CRLF x2	ただし、このホウキ\n心の清らかな乙女しか\n乗れないんだよねぇ		
+cev04_030.scr:6	cev04_030.scr	6	アーチェ	Arche Klein	personagem		そこだけ、ちょ〜っと注意が必要だけど∀		
+cev04_030.scr:7	cev04_030.scr	7	カノンノ	Kanonno Grassvalley	personagem		そう、なんだ……		
+cev04_030.scr:8	cev04_030.scr	8	カノンノ	Kanonno Grassvalley	personagem		心が清らかって……難しいね		
+cev04_030.scr:9	cev04_030.scr	9	アーチェ	Arche Klein	personagem	CRLF x1	え？　\nちょっと、そこで何で沈むわけ？		
+cev04_030.scr:10	cev04_030.scr	10	アーチェ	Arche Klein	personagem	CRLF x1	もう、冗談だってば。\n真に受けないでよ〜		
+cev04_040.scr:0	cev04_040.scr	0	カノンノ	Kanonno Grassvalley	personagem		一人ぼっちで生きる、か……		
+cev04_040.scr:1	cev04_040.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	私も、ロックスがいなかったら\n一人ぼっちで生きていかなきゃ\nいけなかった		
+cev04_040.scr:2	cev04_040.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	それでも……私は生きていけたかな？\n一人でも、まっすぐ未来を\n信じられたかな……		
+cev04_040.scr:3	cev04_040.scr	3	(ator 200)	(ator 200)	desconhecido		…………		
+cev04_040.scr:4	cev04_040.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	……ごめんね。\nちょっと考え込んじゃった		
+cev04_040.scr:5	cev04_040.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	誰もが、当たり前に明日や\nその先にある未来を信じて\n生きていける世界……		
+cev04_040.scr:6	cev04_040.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そんな世界に、この世界が\nなればいいのにな		
+cev04_040.scr:7	cev04_040.scr	7	カノンノ	Kanonno Grassvalley	personagem		ううん……		
+cev04_040.scr:8	cev04_040.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	していきたい、よね。\nそんな……あったかい世界に		
+cev04_040.scr:9	cev04_040.scr	9	アーチェ	Arche Klein	personagem		カノンノ〜？		
+cev04_040.scr:10	cev04_040.scr	10	アーチェ	Arche Klein	personagem	CRLF x1	なになに、どうしたの？\nちょっと目、うるんでない？		
+cev04_040.scr:11	cev04_040.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そんな事ないよ。\n大丈夫		
+cev04_040.scr:12	cev04_040.scr	12	カノンノ	Kanonno Grassvalley	personagem		ね、○○！		
+cev04_050.scr:0	cev04_050.scr	0	アーチェ	Arche Klein	personagem	CRLF x1	全くもう、どうしてあたしの料理で\n失神する奴が出てくるわけ？		
+cev04_050.scr:1	cev04_050.scr	1	アーチェ	Arche Klein	personagem		ちゃんと美味しく出来てるのに！		
+cev04_050.scr:2	cev04_050.scr	2	リフィル	Raine Sage	personagem	CRLF x1	アーチェ、気持ちはわかるけれど\nこういう時、自棄を起こしては駄目よ		
+cev04_050.scr:3	cev04_050.scr	3	リフィル	Raine Sage	personagem	CRLF x1	料理に失敗は付き物なのだから\nあまり気にし過ぎるのも良くないわ		
+cev04_050.scr:4	cev04_050.scr	4	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	私もリフィルと同じ意見ですわ。\n失敗は成功の元とも言いますし\n次に成功すればいいのです		
+cev04_050.scr:5	cev04_050.scr	5	ナタリア	Natalia Luzu Kimlasca-Lanvaldear	personagem	CRLF x2	私達も、協力出来る事は\n協力しますから。\nどうか元気をお出しになって		
+cev04_050.scr:6	cev04_050.scr	6	リフィル	Raine Sage	personagem	CRLF x1	三人寄れば文殊の知恵、という\n言葉もあるわね		
+cev04_050.scr:7	cev04_050.scr	7	リフィル	Raine Sage	personagem	CRLF x2	私達の場合、一人ひとりは\n決して卓越した\n料理の技術はないけれど		
+cev04_050.scr:8	cev04_050.scr	8	リフィル	Raine Sage	personagem	CRLF x1	協力し合う事で、より良いものを\n作り出す事は十二分に可能だと思うの		
+cev04_050.scr:9	cev04_050.scr	9	アーチェ	Arche Klein	personagem	CRLF x1	リフィル……ナタリア……。\nありがとう……		
+cev04_050.scr:10	cev04_050.scr	10	アーチェ	Arche Klein	personagem	CRLF x2	……よーし！　三人でとびっきり\n美味しい料理を作って\nみんなをあっと驚かせてやろうね！！		
+cev04_060.scr:0	cev04_060.scr	0	アーチェ	Arche Klein	personagem		わっ！！！		
+cev04_060.scr:1	cev04_060.scr	1	ルカ	Ruca Milda	personagem		うわぁっ！？		
+cev04_060.scr:2	cev04_060.scr	2	アーチェ	Arche Klein	personagem	CRLF x1	あはははー。\nひっかかったひっかかったぁ		
+cev04_060.scr:3	cev04_060.scr	3	ルカ	Ruca Milda	personagem		い、いきなり何するの		
+cev04_060.scr:4	cev04_060.scr	4	アーチェ	Arche Klein	personagem	CRLF x2	えっ？　\nそ、そんな\n涙目になんなくたっていいじゃん		
+cev04_060.scr:5	cev04_060.scr	5	アーチェ	Arche Klein	personagem	CRLF x1	ちょっとしたイタズラよ、イタズラ∀\nルカって何か絡みやすいっていうかさぁ		
+cev04_060.scr:6	cev04_060.scr	6	ルカ	Ruca Milda	personagem		イタズラ……そっか、そうだよね		
+cev04_060.scr:7	cev04_060.scr	7	ルカ	Ruca Milda	personagem	CRLF x1	昔からよくされるんだ。\n……僕、暗いから……		
+cev04_060.scr:8	cev04_060.scr	8	アーチェ	Arche Klein	personagem	CRLF x1	へっ？\nいや別に、そういうつもりじゃ		
+cev04_060.scr:9	cev04_060.scr	9	ルカ	Ruca Milda	personagem	CRLF x2	いいんだ、僕なんて……\nイリアにもいつもいじられてるし\nぐすっ……		
+cev04_060.scr:10	cev04_060.scr	10	アーチェ	Arche Klein	personagem		ちょ、何で泣いてんの？		
+cev04_060.scr:11	cev04_060.scr	11	アーチェ	Arche Klein	personagem	CRLF x1	も〜〜。\nあたしが悪かったってばぁ！		
+cev04_070.scr:0	cev04_070.scr	0	リフィル	Raine Sage	personagem	CRLF x1	アーチェのそのリボン、可愛いわね。\n髪の色とよく合っているわ		
+cev04_070.scr:1	cev04_070.scr	1	アーチェ	Arche Klein	personagem	CRLF x1	えへへ、そお？\nありがと∀		
+cev04_070.scr:2	cev04_070.scr	2	アーチェ	Arche Klein	personagem		このリボンはさ、友達がくれたんだ		
+cev04_070.scr:3	cev04_070.scr	3	アーチェ	Arche Klein	personagem	CRLF x1	その子は今、遠い所にいて\n会えないんだけど……		
+cev04_070.scr:4	cev04_070.scr	4	リフィル	Raine Sage	personagem		そう……		
+cev04_070.scr:5	cev04_070.scr	5	アーチェ	Arche Klein	personagem	CRLF x2	あ……でも、これがあると\nいつもその子と一緒にいるみたいな\nそんな気がするんだよね		
+cev04_070.scr:6	cev04_070.scr	6	リフィル	Raine Sage	personagem		もう、お守りみたいなものなのね		
+cev04_070.scr:7	cev04_070.scr	7	アーチェ	Arche Klein	personagem		うん……そうかも		
+cev04_070.scr:8	cev04_070.scr	8	リフィル	Raine Sage	personagem	CRLF x2	一生のうちで\nそういった友達に出会えたのは\nとても幸運な事よ		
+cev04_070.scr:9	cev04_070.scr	9	リフィル	Raine Sage	personagem		……大切にしなくてはね		
+cev04_070.scr:10	cev04_070.scr	10	アーチェ	Arche Klein	personagem		……うん、わかってる		
+cev04_070.scr:11	cev04_070.scr	11	アーチェ	Arche Klein	personagem	CRLF x1	わかってるんだけどさ……。\nたまに……		
+cev04_070.scr:12	cev04_070.scr	12	リフィル	Raine Sage	personagem		たまに？		
+cev04_070.scr:13	cev04_070.scr	13	アーチェ	Arche Klein	personagem		う、ううん、何でもない！		
+cev04_070.scr:14	cev04_070.scr	14	リフィル	Raine Sage	personagem	CRLF x1	わかってはいても\n心では割り切れない……		
+cev04_070.scr:15	cev04_070.scr	15	リフィル	Raine Sage	personagem	CRLF x1	人より多く、別れを経験する\nハーフエルフの宿業なのかしらね……		
+cev04_080.scr:0	cev04_080.scr	0	マオ	Mao	personagem	CRLF x1	ねえ、アーチェ！\nボクの指、好きなの握ってみてヨ		
+cev04_080.scr:1	cev04_080.scr	1	アーチェ	Arche Klein	personagem		指〜？		
+cev04_080.scr:2	cev04_080.scr	2	アーチェ	Arche Klein	personagem		なになに、握ると何かあるわけ？		
+cev04_080.scr:3	cev04_080.scr	3	マオ	Mao	personagem	CRLF x1	えへへ、ちょっとした心理テストなんだ〜。\nほらほら、早く選んで！		
+cev04_080.scr:4	cev04_080.scr	4	アーチェ	Arche Klein	personagem		う〜ん……、じゃあ……		
+cev04_080.scr:5	cev04_080.scr	5	アーチェ	Arche Klein	personagem		中指に決〜〜めたっ！		
+cev04_080.scr:6	cev04_080.scr	6	マオ	Mao	personagem		あれ、ユージーンと一緒だ		
+cev04_080.scr:7	cev04_080.scr	7	マオ	Mao	personagem		ちぇ、つまんないの〜		
+cev04_080.scr:8	cev04_080.scr	8	アーチェ	Arche Klein	personagem	CRLF x2	ちょっとちょっと、\nわざわざ人にやらせておいて\nそれはないんじゃない？		
+cev04_080.scr:9	cev04_080.scr	9	アーチェ	Arche Klein	personagem	CRLF x1	あっ、じゃあさ。\nせっかくだし、あたしにもやり方教えてよ		
+cev04_080.scr:10	cev04_080.scr	10	マオ	Mao	personagem		アーチェも心理テストやりたいの？		
+cev04_080.scr:11	cev04_080.scr	11	アーチェ	Arche Klein	personagem	CRLF x2	うん！　\nだって何か面白そうじゃん♪\n使うのは右手？　左手？		
+cev04_080.scr:12	cev04_080.scr	12	マオ	Mao	personagem	CRLF x1	う〜ん、わかんない！\nどっちでもいいんじゃない？		
+cev04_080.scr:13	cev04_080.scr	13	アーチェ	Arche Klein	personagem	CRLF x1	え〜、何それ？\nちょっと適当過ぎなんじゃん？		
+cev04_080.scr:14	cev04_080.scr	14	マオ	Mao	personagem	CRLF x2	ボクも人から教わっただけなんだ。\nだから詳しい事は、\nよくわからないんだヨ		
+cev04_200.scr:0	cev04_200.scr	0	アーチェ	Arche Klein	personagem	CRLF x1	通常。\n		
+cev04_200.scr:1	cev04_200.scr	1	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:2	cev04_200.scr	2	アーチェ	Arche Klein	personagem	CRLF x1	笑い。\n		
+cev04_200.scr:3	cev04_200.scr	3	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:4	cev04_200.scr	4	アーチェ	Arche Klein	personagem	CRLF x1	怒り。\n		
+cev04_200.scr:5	cev04_200.scr	5	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:6	cev04_200.scr	6	アーチェ	Arche Klein	personagem	CRLF x1	悲しみ。\n		
+cev04_200.scr:7	cev04_200.scr	7	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:8	cev04_200.scr	8	アーチェ	Arche Klein	personagem	CRLF x1	からかい。\n		
+cev04_200.scr:9	cev04_200.scr	9	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:10	cev04_200.scr	10	アーチェ	Arche Klein	personagem	CRLF x1	落ち込み。\n		
+cev04_200.scr:11	cev04_200.scr	11	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:12	cev04_200.scr	12	アーチェ	Arche Klein	personagem	CRLF x1	通常。\n		
+cev04_200.scr:13	cev04_200.scr	13	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:14	cev04_200.scr	14	アーチェ	Arche Klein	personagem	CRLF x1	笑い。\n		
+cev04_200.scr:15	cev04_200.scr	15	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:16	cev04_200.scr	16	アーチェ	Arche Klein	personagem	CRLF x1	怒り。\n		
+cev04_200.scr:17	cev04_200.scr	17	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:18	cev04_200.scr	18	アーチェ	Arche Klein	personagem	CRLF x1	悲しみ。\n		
+cev04_200.scr:19	cev04_200.scr	19	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:20	cev04_200.scr	20	アーチェ	Arche Klein	personagem	CRLF x1	からかい。\n		
+cev04_200.scr:21	cev04_200.scr	21	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:22	cev04_200.scr	22	アーチェ	Arche Klein	personagem	CRLF x1	落ち込み。\n		
+cev04_200.scr:23	cev04_200.scr	23	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:24	cev04_200.scr	24	アーチェ	Arche Klein	personagem	CRLF x1	通常。\n		
+cev04_200.scr:25	cev04_200.scr	25	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:26	cev04_200.scr	26	アーチェ	Arche Klein	personagem	CRLF x1	笑い。\n		
+cev04_200.scr:27	cev04_200.scr	27	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:28	cev04_200.scr	28	アーチェ	Arche Klein	personagem	CRLF x1	怒り。\n		
+cev04_200.scr:29	cev04_200.scr	29	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:30	cev04_200.scr	30	アーチェ	Arche Klein	personagem	CRLF x1	悲しみ。\n		
+cev04_200.scr:31	cev04_200.scr	31	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:32	cev04_200.scr	32	アーチェ	Arche Klein	personagem	CRLF x1	からかい。\n		
+cev04_200.scr:33	cev04_200.scr	33	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev04_200.scr:34	cev04_200.scr	34	アーチェ	Arche Klein	personagem	CRLF x1	落ち込み。\n		
+cev04_200.scr:35	cev04_200.scr	35	アーチェ	Arche Klein	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

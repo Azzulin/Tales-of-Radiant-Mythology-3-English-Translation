@@ -1,0 +1,321 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+valuables#1600	valuables	1600	(item/equipamento)	(item/equipment)	sistema		斜め上に向けての拡散連射奥義	An arcane arte that executes spread rapid-fire diagonally upward.	
+valuables#1601	valuables	1601	(item/equipamento)	(item/equipment)	sistema		苦無	Kunai	
+valuables#1602	valuables	1602	(item/equipamento)	(item/equipment)	sistema		敵に当たると爆発するクナイを投げる特技	A skill that throws kunai that explode upon hitting the enemy.	
+valuables#1603	valuables	1603	(item/equipamento)	(item/equipment)	sistema		焔	Homura	
+valuables#1604	valuables	1604	(item/equipamento)	(item/equipment)	sistema		地面から爆炎を呼び寄せる特技	A skill that calls up explosive flames from the ground.	
+valuables#1605	valuables	1605	(item/equipamento)	(item/equipment)	sistema		氷樹	Ice Tree	
+valuables#1606	valuables	1606	(item/equipamento)	(item/equipment)	sistema		地面から樹形の氷を呼び寄せる特技	A skill that calls up tree-shaped ice from the ground.	
+valuables#1607	valuables	1607	(item/equipamento)	(item/equipment)	sistema		闇走破	Shadow Run Blast	
+valuables#1608	valuables	1608	(item/equipamento)	(item/equipment)	sistema		無音で駆け抜け攻撃する特技	A skill that sprints through soundlessly to attack.	
+valuables#1609	valuables	1609	(item/equipamento)	(item/equipment)	sistema		土乱	Earth Riot	
+valuables#1610	valuables	1610	(item/equipamento)	(item/equipment)	sistema		地面を鋭利に隆起させ敵を貫く特技	A skill that sharply upheaves the ground to impale enemies.	
+valuables#1611	valuables	1611	(item/equipamento)	(item/equipment)	sistema		地面から雷を呼び寄せる特技	A skill that calls down lightning from the ground.	
+valuables#1612	valuables	1612	(item/equipamento)	(item/equipment)	sistema		風雅	Fuuga	
+valuables#1613	valuables	1613	(item/equipamento)	(item/equipment)	sistema		かまいたちを呼び寄せ敵を切り刻む特技	A skill that calls up wind sickles to shred enemies.	
+valuables#1614	valuables	1614	(item/equipamento)	(item/equipment)	sistema		敵の頭上に飛び乗り、踏み付ける特技	A skill that leaps onto the enemy's head and stomps down.	
+valuables#1615	valuables	1615	(item/equipamento)	(item/equipment)	sistema		鈴鳴	Suzunari	
+valuables#1616	valuables	1616	(item/equipamento)	(item/equipment)	sistema		地面に手をつき、連続回転蹴りを放つ特技	A skill that places hands on the ground and releases consecutive spinning kicks.	
+valuables#1617	valuables	1617	(item/equipamento)	(item/equipment)	sistema		朧氷樹	Hazy Ice Tree	
+valuables#1618	valuables	1618	(item/equipamento)	(item/equipment)	sistema		地面から樹形の巨大な氷塊を呼び寄せる奥義	An arcane arte that calls up giant tree-shaped ice blocks from the ground.	
+valuables#1619	valuables	1619	(item/equipamento)	(item/equipment)	sistema		闇走焔	Shadow Run Flame	
+valuables#1620	valuables	1620	(item/equipamento)	(item/equipment)	sistema		闇走破の後、地面から炎を呼び出し攻撃する奥義	An arcane arte that calls up flames from the ground to attack after Shadow Run Blast.	
+valuables#1621	valuables	1621	(item/equipamento)	(item/equipment)	sistema		朧土乱	Hazy Earth Riot	
+valuables#1622	valuables	1622	(item/equipamento)	(item/equipment)	sistema		地面を鋭利に隆起させ敵を貫く奥義	An arcane arte that sharply upheaves the ground to impale enemies.	
+valuables#1623	valuables	1623	(item/equipamento)	(item/equipment)	sistema		闇走雷電	Shadow Run Lightning	
+valuables#1624	valuables	1624	(item/equipamento)	(item/equipment)	sistema		闇走破の後、地面から雷を呼び出し攻撃する奥義	An arcane arte that calls up lightning from the ground to attack after Shadow Run Blast.	
+valuables#1625	valuables	1625	(item/equipamento)	(item/equipment)	sistema		鈴鳴苦無	Suzunari Kunai	
+valuables#1626	valuables	1626	(item/equipamento)	(item/equipment)	sistema		連続回転蹴りを放ち、クナイを投げる奥義	An arcane arte that unleashes consecutive spinning kicks and throws kunai.	
+valuables#1627	valuables	1627	(item/equipamento)	(item/equipment)	sistema		焔大蛇の印	Flame Serpent Seal	
+valuables#1628	valuables	1628	(item/equipamento)	(item/equipment)	sistema		苦無・焔	Kunai: Flame	
+valuables#1629	valuables	1629	(item/equipamento)	(item/equipment)	sistema		クナイを投げ、地面から爆炎を呼び寄せる奥義	An arcane arte that throws kunai and calls up explosive flames from the ground.	
+valuables#1630	valuables	1630	(item/equipamento)	(item/equipment)	sistema		翔翼	Soaring Wing	
+valuables#1631	valuables	1631	(item/equipamento)	(item/equipment)	sistema		空中から爆発するクナイを投げ付ける特技	A skill that throws exploding kunai from midair.	
+valuables#1632	valuables	1632	(item/equipamento)	(item/equipment)	sistema		浮雲	Floating Cloud	
+valuables#1633	valuables	1633	(item/equipamento)	(item/equipment)	sistema		敵の足元に滑り込み蹴り上げる特技	A skill that slides into the enemy's feet and kicks upward.	
+valuables#1634	valuables	1634	(item/equipamento)	(item/equipment)	sistema		浮雲・風雅	Floating Cloud: Fuuga	
+valuables#1635	valuables	1635	(item/equipamento)	(item/equipment)	sistema		敵を蹴り上げ、さらにかまいたちで切り裂く奥義	An arcane arte that kicks enemies skyward and shreds them with wind sickles.	
+valuables#1636	valuables	1636	(item/equipamento)	(item/equipment)	sistema		影縫い	Shadow Sewing	
+valuables#1637	valuables	1637	(item/equipamento)	(item/equipment)	sistema		敵の影を地面に縫い付け仰け反り時間を増加させる特技	A skill that pins the enemy's shadow to the ground to increase stagger time.	
+valuables#1638	valuables	1638	(item/equipamento)	(item/equipment)	sistema		ブーイング	Booing	
+valuables#1639	valuables	1639	(item/equipamento)	(item/equipment)	sistema		敵１体の攻撃力を一定時間低下させる術	An arte that lowers physical attack of a single enemy for a set time.	
+valuables#1640	valuables	1640	(item/equipamento)	(item/equipment)	sistema		サイレンス	Silence	
+valuables#1641	valuables	1641	(item/equipamento)	(item/equipment)	sistema		敵１体の術を一定時間封じる術	An arte that seals spells of a single enemy for a set time.	
+valuables#1642	valuables	1642	(item/equipamento)	(item/equipment)	sistema		ブーイングダンス	Booing Dance	
+valuables#1643	valuables	1643	(item/equipamento)	(item/equipment)	sistema		敵すべての攻撃力を一定時間低下させる術	An arte that lowers physical attack of all enemies for a set time.	
+valuables#1644	valuables	1644	(item/equipamento)	(item/equipment)	sistema		チアダンス	Cheer Dance	
+valuables#1645	valuables	1645	(item/equipamento)	(item/equipment)	sistema		オリジネイトブレイズ	Originate Blaze	
+valuables#1646	valuables	1646	(item/equipamento)	(item/equipment)	sistema		武器で敵を打ち上げる特技	A skill that launches enemies with a weapon.	
+valuables#1647	valuables	1647	(item/equipamento)	(item/equipment)	sistema		敵の足元を払う様に攻撃する特技	A skill that attacks sweeping at the enemy's feet.	
+valuables#1648	valuables	1648	(item/equipamento)	(item/equipment)	sistema		開いた本から飛び出る猛獣の爪で攻撃する特技	A skill that attacks with beast claws leaping from an open book.	
+valuables#1649	valuables	1649	(item/equipamento)	(item/equipment)	sistema		本の角で敵を打ち抜く奥義	An arcane arte that strikes through enemies with book corners.	
+valuables#1650	valuables	1650	(item/equipamento)	(item/equipment)	sistema		開いた本から無数のページが飛び出し敵を斬り裂く奥義	An arcane arte where countless pages fly from an open book to slice enemies.	
+valuables#1651	valuables	1651	(item/equipamento)	(item/equipment)	sistema		武器で敵を捕え、魔力で爆発させて敵を吹き飛ばす奥義	An arcane arte that captures enemies with weapons and detonates with magic power.	
+valuables#1652	valuables	1652	(item/equipamento)	(item/equipment)	sistema		エンシェントカタストロフィ	Ancient Catastrophe	
+valuables#1653	valuables	1653	(item/equipamento)	(item/equipment)	sistema		光竜滅牙槍	Light Dragon Ruin Fang Spear	
+valuables#1654	valuables	1654	(item/equipamento)	(item/equipment)	sistema		光翔翼	Light Soaring Wing	
+valuables#1655	valuables	1655	(item/equipamento)	(item/equipment)	sistema		魔方陣で敵を捕え攻撃する特技	A skill that captures and attacks enemies with a magic circle.	
+valuables#1656	valuables	1656	(item/equipamento)	(item/equipment)	sistema		月牙	Moon Fang	
+valuables#1657	valuables	1657	(item/equipamento)	(item/equipment)	sistema		跳躍から垂直に落下し、相手を踏み付ける特技	A skill that drops vertically from a leap and stomps the opponent.	
+valuables#1658	valuables	1658	(item/equipamento)	(item/equipment)	sistema		天月旋	Heaven Moon Spin	
+valuables#1659	valuables	1659	(item/equipamento)	(item/equipment)	sistema		敵の懐に潜り込み、蹴り上げながら回転する特技	A skill that dives into the enemy's pocket, rotating while kicking upward.	
+valuables#1660	valuables	1660	(item/equipamento)	(item/equipment)	sistema		崩蹴月	Crushing Moon Kick	
+valuables#1661	valuables	1661	(item/equipamento)	(item/equipment)	sistema		回し蹴りから飛び上がり、蹴り降ろす特技	A skill that leaps from a roundhouse kick and kicks downward.	
+valuables#1662	valuables	1662	(item/equipamento)	(item/equipment)	sistema		如月	Kisaragi	
+valuables#1663	valuables	1663	(item/equipamento)	(item/equipment)	sistema		敵を巻き込み回転しながら上昇し、蹴り落とす特技	A skill that draws in enemies, ascends while spinning, and kicks down.	
+valuables#1664	valuables	1664	(item/equipamento)	(item/equipment)	sistema		月影刃	Moon Shadow Blade	
+valuables#1665	valuables	1665	(item/equipamento)	(item/equipment)	sistema		高速で間合いを詰めた後、鋭い突きを放つ特技	A skill that closes distance at high speed and unleashes a sharp thrust.	
+valuables#1666	valuables	1666	(item/equipamento)	(item/equipment)	sistema		月牙・鷹	Moon Fang: Hawk	
+valuables#1667	valuables	1667	(item/equipamento)	(item/equipment)	sistema		跳躍から垂直に落下し、着地の衝撃で攻撃する秘技	A secret arte that drops vertically from a leap and attacks with impact on landing.	
+valuables#1668	valuables	1668	(item/equipamento)	(item/equipment)	sistema		嵐月・燕	Storm Moon: Swallow	
+valuables#1669	valuables	1669	(item/equipamento)	(item/equipment)	sistema		剣戟と旋風で斬り裂き、さらに旋風を叩き付ける秘技	A secret arte that slices with sword clashes and whirlwinds, then slams down wind.	
+valuables#1670	valuables	1670	(item/equipamento)	(item/equipment)	sistema		月華天翔刃	Moon Flower Heavenly Soaring Blade	
+valuables#1671	valuables	1671	(item/equipamento)	(item/equipment)	sistema		神速の斬り上げから蹴り上げる事で敵を天に飛ばす奥義	An arcane arte that launches enemies sky-high from godspeed upward slashes into kicks.	
+valuables#1672	valuables	1672	(item/equipamento)	(item/equipment)	sistema		飛燕月華	Flying Swallow Moon Flower	
+valuables#1673	valuables	1673	(item/equipamento)	(item/equipment)	sistema		振り上げる武器の斬撃で敵を斬り上げる秘技	A secret arte that slashes enemies skyward with weapon upward swings.	
+valuables#1674	valuables	1674	(item/equipamento)	(item/equipment)	sistema		飛燕崩蹴月	Flying Swallow Crushing Moon Kick	
+valuables#1675	valuables	1675	(item/equipamento)	(item/equipment)	sistema		飛燕月華と崩蹴月を組合わせた奥義	An arcane arte that combines Flying Swallow Moon Flower and Crushing Moon Kick.	
+valuables#1676	valuables	1676	(item/equipamento)	(item/equipment)	sistema		神月裂破	Divine Moon Rending Blast	
+valuables#1677	valuables	1677	(item/equipamento)	(item/equipment)	sistema		武器の石突で敵の急所を打ち抜きダウンさせる秘技	A secret arte that punches enemy vitals with weapon pommels to knock them down.	
+valuables#1678	valuables	1678	(item/equipamento)	(item/equipment)	sistema		煌華月衝閃	Glittering Moon Impact Flash	
+valuables#1679	valuables	1679	(item/equipamento)	(item/equipment)	sistema		月破墜迅脚	Moon Ruin Plunging Swift Kick	
+valuables#1680	valuables	1680	(item/equipamento)	(item/equipment)	sistema		飛び上がり加速を付けた蹴りを放つ奥義	An arcane arte that leaps and delivers an accelerated dive kick.	
+valuables#1681	valuables	1681	(item/equipamento)	(item/equipment)	sistema		月破紫電脚	Moon Ruin Violet Lightning Kick	
+valuables#1682	valuables	1682	(item/equipamento)	(item/equipment)	sistema		跳躍から加速した蹴りを放つ奥義	An arcane arte that unleashes an accelerated kick from a leap.	
+valuables#1683	valuables	1683	(item/equipamento)	(item/equipment)	sistema		飛燕連月華	Flying Swallow Continuous Moon Flower	
+valuables#1684	valuables	1684	(item/equipamento)	(item/equipment)	sistema		敵を宙に打ち上げ追撃を入れ、地面に叩き落す奥義	An arcane arte that launches enemies, follows up, and slams them to the ground.	
+valuables#1685	valuables	1685	(item/equipamento)	(item/equipment)	sistema		残月	Remaining Moon	
+valuables#1686	valuables	1686	(item/equipamento)	(item/equipment)	sistema		跳躍から空中で軌道を変え、敵に膝から落下する特技	A skill that alters trajectory in midair from a leap and drops knees onto enemies.	
+valuables#1687	valuables	1687	(item/equipamento)	(item/equipment)	sistema		天雷槍月	Heaven Thunder Spear Moon	
+valuables#1688	valuables	1688	(item/equipamento)	(item/equipment)	sistema		落雷の様に、瞬時に敵に斬撃を打ち下ろす秘技	A secret arte that strikes down slashes onto enemies like lightning in an instant.	
+valuables#1689	valuables	1689	(item/equipamento)	(item/equipment)	sistema		時雨	Shigure	
+valuables#1690	valuables	1690	(item/equipamento)	(item/equipment)	sistema		前方に光の矢を放つ特技	A skill that fires light arrows forward.	
+valuables#1691	valuables	1691	(item/equipamento)	(item/equipment)	sistema		愛の快針	Pleasant Needle of Love	
+valuables#1692	valuables	1692	(item/equipamento)	(item/equipment)	sistema		放たれた矢がＨＰの低い味方を追いかけ癒す特技	A skill where shot arrows chase and heal allies with low HP.	
+valuables#1693	valuables	1693	(item/equipamento)	(item/equipment)	sistema		黒の追跡	Dark Chaser	
+valuables#1694	valuables	1694	(item/equipamento)	(item/equipment)	sistema		放った矢が低速で敵を追い続ける特技	A skill where shot arrows track enemies at low speed.	
+valuables#1695	valuables	1695	(item/equipamento)	(item/equipment)	sistema		蛍なり	Hotaru	
+valuables#1696	valuables	1696	(item/equipamento)	(item/equipment)	sistema		跳躍して矢を放ち、敵がその位置に来ると爆発する特技	A skill that leaps and fires arrows that detonate when enemies approach that position.	
+valuables#1697	valuables	1697	(item/equipamento)	(item/equipment)	sistema		舞うが如く	Like Dancing	
+valuables#1698	valuables	1698	(item/equipamento)	(item/equipment)	sistema		二刀を振り回し、敵を斬り裂く奥義	An arcane arte that swings dual swords to shred enemies.	
+valuables#1699	valuables	1699	(item/equipamento)	(item/equipment)	sistema		天の嘆き	Heaven's Lament	
+valuables#1700	valuables	1700	(item/equipamento)	(item/equipment)	sistema		天高く放った矢が、周囲に降り注ぐ奥義	An arcane arte where arrows fired high into the sky rain down all around.	
+valuables#1701	valuables	1701	(item/equipamento)	(item/equipment)	sistema		流れ星	Shooting Star	
+valuables#1702	valuables	1702	(item/equipamento)	(item/equipment)	sistema		徐々に加速する矢を放つ奥義	An arcane arte that fires arrows that gradually accelerate.	
+valuables#1703	valuables	1703	(item/equipamento)	(item/equipment)	sistema		罪と罰・罪	Crime and Punishment: Crime	
+valuables#1704	valuables	1704	(item/equipamento)	(item/equipment)	sistema		敵に複数の矢を一気に放つ奥義	An arcane arte that fires multiple arrows at enemies all at once.	
+valuables#1705	valuables	1705	(item/equipamento)	(item/equipment)	sistema		罪と罰・罰	Crime and Punishment: Punishment	
+valuables#1706	valuables	1706	(item/equipamento)	(item/equipment)	sistema		滑らかに武器を振りかざし、敵を斬り付ける秘技	A secret arte that smoothly brandishes weapons to slash enemies.	
+valuables#1707	valuables	1707	(item/equipamento)	(item/equipment)	sistema		風の哮り	Roar of the Wind	
+valuables#1708	valuables	1708	(item/equipamento)	(item/equipment)	sistema		敵を貫通する矢を放つ奥義	An arcane arte that fires arrows piercing through enemies.	
+valuables#1709	valuables	1709	(item/equipamento)	(item/equipment)	sistema		散るように	Like Scattering	
+valuables#1710	valuables	1710	(item/equipamento)	(item/equipment)	sistema		空中から放った矢で衝撃波を起こす特技	A skill that conjures shockwaves with arrows fired from midair.	
+valuables#1711	valuables	1711	(item/equipamento)	(item/equipment)	sistema		ブラストハート	Blast Heart	
+valuables#1712	valuables	1712	(item/equipamento)	(item/equipment)	sistema		天涙	Heaven's Tears	
+valuables#1713	valuables	1713	(item/equipamento)	(item/equipment)	sistema		小太刀で斬り上げた敵を矢で追撃する特技	A skill that slashes enemies skyward with a kodachi and chases with arrows.	
+valuables#1714	valuables	1714	(item/equipamento)	(item/equipment)	sistema		天涙の雨	Rain of Heaven's Tears	
+valuables#1715	valuables	1715	(item/equipamento)	(item/equipment)	sistema		小太刀で斬り上げた敵を空中で何度も斬り付ける秘技	A secret arte that repeatedly slashes airborne foes in midair after upward slashes.	
+valuables#1716	valuables	1716	(item/equipamento)	(item/equipment)	sistema		天涙の雲	Cloud of Heaven's Tears	
+valuables#1717	valuables	1717	(item/equipamento)	(item/equipment)	sistema		小太刀で斬り上げた敵に弓で止めの一撃を打ち込む秘技	A secret arte that finishes upward-slashed enemies with bow strikes.	
+valuables#1718	valuables	1718	(item/equipamento)	(item/equipment)	sistema		尚、散るように	Still Like Scattering	
+valuables#1719	valuables	1719	(item/equipamento)	(item/equipment)	sistema		空中からの一撃で砕いた地面の破片で敵を射抜く秘技	A secret arte that snipes enemies with ground fragments shattered from aerial strikes.	
+valuables#1720	valuables	1720	(item/equipamento)	(item/equipment)	sistema		飛ぶように	Like Flying	
+valuables#1721	valuables	1721	(item/equipamento)	(item/equipment)	sistema		敵を蹴り上げつつ後ろへ飛び、急降下で追撃する奥義	An arcane arte that leaps back while kicking enemies up, chasing with rapid dives.	
+valuables#1722	valuables	1722	(item/equipamento)	(item/equipment)	sistema		風の猛り	Rage of the Wind	
+valuables#1723	valuables	1723	(item/equipamento)	(item/equipment)	sistema		弓で敵を斬りつける秘技	A secret arte that slashes enemies with a bow.	
+valuables#1724	valuables	1724	(item/equipamento)	(item/equipment)	sistema		崩蹴脚	Crushing Heel Kick	
+valuables#1725	valuables	1725	(item/equipamento)	(item/equipment)	sistema		ジャンプから大きく蹴りを繰り出す特技	A skill that delivers a grand kick from a jump.	
+valuables#1726	valuables	1726	(item/equipamento)	(item/equipment)	sistema		虎乱蹴	Tiger Chaos Kick	
+valuables#1727	valuables	1727	(item/equipamento)	(item/equipment)	sistema		敵を高く斬り上げあびせ蹴りを行いつつ斬りつける秘技	A secret arte that slashes enemies sky-high, delivering dive kicks and slashes.	
+valuables#1728	valuables	1728	(item/equipamento)	(item/equipment)	sistema		穿孔破	Perforating Blast	
+valuables#1729	valuables	1729	(item/equipamento)	(item/equipment)	sistema		斬り上げから舞う様に突きを繰り出す特技	A skill that delivers dancing thrusts from an upward slash.	
+valuables#1730	valuables	1730	(item/equipamento)	(item/equipment)	sistema		瞬連刃	Swift Flurry Blade	
+valuables#1731	valuables	1731	(item/equipamento)	(item/equipment)	sistema		素早い連撃を繰り出し、敵を斬り裂く特技	A skill that unleashes rapid combo strikes to slice enemies.	
+valuables#1732	valuables	1732	(item/equipamento)	(item/equipment)	sistema		空牙衝	Air Fang Blast	
+valuables#1733	valuables	1733	(item/equipamento)	(item/equipment)	sistema		空中に舞い上がり、衝撃波を放つ秘技	A secret arte that dances into the air and unleashes shockwaves.	
+valuables#1734	valuables	1734	(item/equipamento)	(item/equipment)	sistema		魔神閃光断	Demonic Flashing Sever	
+valuables#1735	valuables	1735	(item/equipamento)	(item/equipment)	sistema		虎乱蹴の後、斬り下ろしで追撃を行う奥義	An arcane arte that follows up with downward slashes after Tiger Chaos Kick.	
+valuables#1736	valuables	1736	(item/equipamento)	(item/equipment)	sistema		雷神烈光刹	Lightning God Fiery Flash	
+valuables#1737	valuables	1737	(item/equipamento)	(item/equipment)	sistema		連続斬り後、雷を纏った斬撃で敵を薙ぎ払う奥義	An arcane arte that sweeps enemies away with lightning slashes after consecutive cuts.	
+valuables#1738	valuables	1738	(item/equipamento)	(item/equipment)	sistema		虎咬裂斬刺	Tiger Biting Rending Pierce	
+valuables#1739	valuables	1739	(item/equipamento)	(item/equipment)	sistema		敵を打ち上げ回転斬りで上昇後、衝撃波を放つ奥義	An arcane arte that launches enemies, ascends with spinning slashes, and fires blasts.	
+valuables#1740	valuables	1740	(item/equipamento)	(item/equipment)	sistema		裂破絶掌撃	Rending Absolute Palm	
+valuables#1741	valuables	1741	(item/equipamento)	(item/equipment)	sistema		斬撃と共に敵背後に回り、さらに連撃を決める奥義	An arcane arte that circles behind enemies with slashes and lands further combos.	
+valuables#1742	valuables	1742	(item/equipamento)	(item/equipment)	sistema		降魔穿光脚	Demon Subduing Piercing Light Kick	
+valuables#1743	valuables	1743	(item/equipamento)	(item/equipment)	sistema		斬りつけから突く連携の後、炸裂する蹴りを見舞う奥義	An arcane arte that delivers explosive kicks after a slash-and-thrust combo.	
+valuables#1744	valuables	1744	(item/equipamento)	(item/equipment)	sistema		襲爪岩斬破	Lightning Claw Rock Rending Blast	
+valuables#1745	valuables	1745	(item/equipamento)	(item/equipment)	sistema		連撃の後、大地を斬り割く斬撃を放つ奥義	An arcane arte that unleashes earth-cleaving slashes after consecutive attacks.	
+valuables#1746	valuables	1746	(item/equipamento)	(item/equipment)	sistema		魔王獄炎波	Demon King Hell Flame Wave	
+valuables#1747	valuables	1747	(item/equipamento)	(item/equipment)	sistema		鳳翼旋	Phoenix Wing Spin	
+valuables#1748	valuables	1748	(item/equipamento)	(item/equipment)	sistema		天を舞う様に敵を斬り裂きながら、大きく移動する特技	A skill that moves broadly while slicing enemies as if dancing through the heavens.	
+valuables#1749	valuables	1749	(item/equipamento)	(item/equipment)	sistema		砕覇双撃衝	Crushing Twin Impact Strike	
+valuables#1750	valuables	1750	(item/equipamento)	(item/equipment)	sistema		突きからの鋭い２連続の剣撃で衝撃を放つ奥義	An arcane arte that unleashes shockwaves from two sharp sword strikes after thrusts.	
+valuables#1751	valuables	1751	(item/equipamento)	(item/equipment)	sistema		天衝裂空撃	Heavenly Thrust Tempest	
+valuables#1752	valuables	1752	(item/equipamento)	(item/equipment)	sistema		敵を空中に斬り上げ、回転斬りを繰り出す奥義	An arcane arte that slashes enemies into the air and unleashes spinning slashes.	
+valuables#1753	valuables	1753	(item/equipamento)	(item/equipment)	sistema		牙連轟天襲	Fang Barrage Roaring Heaven Raid	
+valuables#1754	valuables	1754	(item/equipamento)	(item/equipment)	sistema		敵を舞い上げるように斬り裂き、蹴り落とす奥義	An arcane arte that slashes enemies skyward dancingly and kicks them down.	
+valuables#1755	valuables	1755	(item/equipamento)	(item/equipment)	sistema		天翔舞	Heavenly Soaring Dance	
+valuables#1756	valuables	1756	(item/equipamento)	(item/equipment)	sistema		舞い飛ぶが如く敵に斬りかかる特技	A skill that slashes at enemies as if fluttering through flight.	
+valuables#1757	valuables	1757	(item/equipamento)	(item/equipment)	sistema		燕舞斬	Swallow Dance Slash	
+valuables#1758	valuables	1758	(item/equipamento)	(item/equipment)	sistema		ツバメが舞うが如く敵を斬り最後に敵を蹴り上げる特技	A skill that slashes enemies like a fluttering swallow, kicking them up at the end.	
+valuables#1759	valuables	1759	(item/equipamento)	(item/equipment)	sistema		飛燕流舞	Flying Swallow Flowing Dance	
+valuables#1760	valuables	1760	(item/equipamento)	(item/equipment)	sistema		一旦後ろに下がり、回転しながら連撃を放つ奥義	An arcane arte that steps back, spinning and unleashing combos.	
+valuables#1761	valuables	1761	(item/equipamento)	(item/equipment)	sistema		鳳凰震脚	Phoenix Shock Leg	
+valuables#1762	valuables	1762	(item/equipamento)	(item/equipment)	sistema		流れる様に斬撃と蹴りの連撃を繰り出す奥義	An arcane arte that flows through consecutive slashes and kicks.	
+valuables#1763	valuables	1763	(item/equipamento)	(item/equipment)	sistema		烈風燕波	Gale Swallow Wave	
+valuables#1764	valuables	1764	(item/equipamento)	(item/equipment)	sistema		連撃を放ち、手に溜めた気を叩き付ける奥義	An arcane arte that unleashes combos and slams in qi stored in hands.	
+valuables#1765	valuables	1765	(item/equipamento)	(item/equipment)	sistema		鋭招来	Sharp Call	
+valuables#1766	valuables	1766	(item/equipamento)	(item/equipment)	sistema		己の精神を研ぎ澄まし、敏捷値を高める特技	A skill that sharpens one's spirit to increase agility.	
+valuables#1767	valuables	1767	(item/equipamento)	(item/equipment)	sistema		疾風煌塵	Gale Sparkling Dust	
+valuables#1768	valuables	1768	(item/equipamento)	(item/equipment)	sistema		上段の回し蹴りで打ち上げ、踵落としを放つ奥義	An arcane arte that launches enemies with upper roundhouse kicks into axe kicks.	
+valuables#1769	valuables	1769	(item/equipamento)	(item/equipment)	sistema		残影掌	Phantom Palm	
+valuables#1770	valuables	1770	(item/equipamento)	(item/equipment)	sistema		打ち上げた敵に溜め込んだ気弾を当てる特技	A skill that hits upward-slashed enemies with accumulated qi spheres.	
+valuables#1771	valuables	1771	(item/equipamento)	(item/equipment)	sistema		レイディアント・ロアー	Radiant Roar	
+valuables#1772	valuables	1772	(item/equipamento)	(item/equipment)	sistema		陽流・甲	Yang Style: First	
+valuables#1773	valuables	1773	(item/equipamento)	(item/equipment)	sistema		武器を交差させて斬り、真空の刃が追い討ちする特技	A skill where crossed weapons slash and vacuum blades follow up.	
+valuables#1774	valuables	1774	(item/equipamento)	(item/equipment)	sistema		陽流・丙	Yang Style: Third	
+valuables#1775	valuables	1775	(item/equipamento)	(item/equipment)	sistema		斧による気合を込めた攻撃で相手を吹っ飛ばす特技	A skill that blows opponents away with spirited axe strikes.	
+valuables#1776	valuables	1776	(item/equipamento)	(item/equipment)	sistema		陽流・戊	Yang Style: Fifth	
+valuables#1777	valuables	1777	(item/equipamento)	(item/equipment)	sistema		斧を使った回転斬りからその勢いで剣を斬り付ける特技	A skill that connects spinning axe slashes into sword strikes with momentum.	
+valuables#1778	valuables	1778	(item/equipamento)	(item/equipment)	sistema		陽流・庚	Yang Style: Seventh	
+valuables#1779	valuables	1779	(item/equipamento)	(item/equipment)	sistema		剣と斧で二回斬り上げた後、斬り下ろす特技	A skill that slashes upward twice with sword and axe, then slashes downward.	
+valuables#1780	valuables	1780	(item/equipamento)	(item/equipment)	sistema		陽流・壬	Yang Style: Ninth	
+valuables#1781	valuables	1781	(item/equipamento)	(item/equipment)	sistema		氷柱での攻撃後一時的にステータスがアップする特技	A skill that temporarily boosts stats after attacking with icicles.	
+valuables#1782	valuables	1782	(item/equipamento)	(item/equipment)	sistema		陰流・丁	Yin Style: Fourth	
+valuables#1783	valuables	1783	(item/equipamento)	(item/equipment)	sistema		足元を払い斬りし、斬り上げた敵に爆風で追い打つ奥義	An arcane arte that sweeps enemy feet, launching and following up with explosive blasts.	
+valuables#1784	valuables	1784	(item/equipamento)	(item/equipment)	sistema		陰流・乙	Yin Style: Second	
+valuables#1785	valuables	1785	(item/equipamento)	(item/equipment)	sistema		斧で叩き剣で突き、さらに武器を交差して斬り払う奥義	An arcane arte that strikes with an axe, thrusts with a sword, and cleaves crosswise.	
+valuables#1786	valuables	1786	(item/equipamento)	(item/equipment)	sistema		陰流・己	Yin Style: Sixth	
+valuables#1787	valuables	1787	(item/equipamento)	(item/equipment)	sistema		剣と斧を使った素早いニ連撃を行う奥義	An arcane arte that executes two swift strikes using sword and axe.	
+valuables#1788	valuables	1788	(item/equipamento)	(item/equipment)	sistema		陰流・癸	Yin Style: Tenth	
+valuables#1789	valuables	1789	(item/equipamento)	(item/equipment)	sistema		水の力で相手に向かって突進する奥義	An arcane arte that rushes toward the opponent with the power of water.	
+valuables#1790	valuables	1790	(item/equipamento)	(item/equipment)	sistema		陰流・辛	Yin Style: Eighth	
+valuables#1791	valuables	1791	(item/equipamento)	(item/equipment)	sistema		水の流れの如く連続で斬り、衝撃波で止めを刺す奥義	An arcane arte that slashes continuously like flowing water, finishing with shockwaves.	
+valuables#1792	valuables	1792	(item/equipamento)	(item/equipment)	sistema		タワーリングインフェルノ	Towering Inferno	
+valuables#1793	valuables	1793	(item/equipamento)	(item/equipment)	sistema		瞬刃衝	Swift Blade Impact	
+valuables#1794	valuables	1794	(item/equipamento)	(item/equipment)	sistema		三連突きから盾で敵への追撃を行う特技	A skill that follows up on three consecutive thrusts with a shield bash.	
+valuables#1795	valuables	1795	(item/equipamento)	(item/equipment)	sistema		地砕衝	Ground Smashing Impact	
+valuables#1796	valuables	1796	(item/equipamento)	(item/equipment)	sistema		強烈なジャンプ斬りから衝撃波を起こす特技	A skill that conjures shockwaves from ferocious jump slashes.	
+valuables#1797	valuables	1797	(item/equipamento)	(item/equipment)	sistema		飛燕翔旋	Flying Swallow Soaring Spin	
+valuables#1798	valuables	1798	(item/equipamento)	(item/equipment)	sistema		敵を斬り上げながら三連続の回転斬りを見舞う秘技	A secret arte that slashes enemies upward while delivering three spinning slashes.	
+valuables#1799	valuables	1799	(item/equipamento)	(item/equipment)	sistema		獅吼烈破	Beast Roar Rending Blast	
+valuables#1800	valuables	1800	(item/equipamento)	(item/equipment)	sistema		高速の三連撃からさらに止めの獅子戦吼へと繋ぐ奥義	An arcane arte that connects rapid three-hit combos into a finishing Beast.	
+valuables#1801	valuables	1801	(item/equipamento)	(item/equipment)	sistema		爪吼牙	Claw Roar Fang	
+valuables#1802	valuables	1802	(item/equipamento)	(item/equipment)	sistema		怒り狂う獣の様に斬・打・斬の三連撃を繰り出す特技	A skill that unleashes three attacks (slash, strike, slash) like an enraged beast.	
+valuables#1803	valuables	1803	(item/equipamento)	(item/equipment)	sistema		空裂閃	Air Rending Flash	
+valuables#1804	valuables	1804	(item/equipamento)	(item/equipment)	sistema		剣先から光の念弾を放つ特技	A skill that fires light thought bullets from the sword tip.	
+valuables#1805	valuables	1805	(item/equipamento)	(item/equipment)	sistema		思刃金剛波	Thought Blade Diamond Wave	
+valuables#1806	valuables	1806	(item/equipamento)	(item/equipment)	sistema		悪を斬り裂く脅威の三連撃の奥義	An arcane arte of formidable three-hit combos that cleave through evil.	
+valuables#1807	valuables	1807	(item/equipamento)	(item/equipment)	sistema		昇煌陣	Rising Radiant Formation	
+valuables#1808	valuables	1808	(item/equipamento)	(item/equipment)	sistema		光の思念を呼び起こし、周囲に衝撃波を起こす特技	A skill that awakens light thoughts, generating surrounding shockwaves.	
+valuables#1809	valuables	1809	(item/equipamento)	(item/equipment)	sistema		閃麒耀翔斬	Flashing Qilin Radiant Slash	
+valuables#1810	valuables	1810	(item/equipamento)	(item/equipment)	sistema		比類なき超神速の連続斬りを繰り出す奥義	An arcane arte that executes peerless ultra-godspeed consecutive slashes.	
+valuables#1811	valuables	1811	(item/equipamento)	(item/equipment)	sistema		翔旺神影斬	Soaring Majestic Divine Shadow Slash	
+valuables#1812	valuables	1812	(item/equipamento)	(item/equipment)	sistema		翔破裂閃光	Soaring Ray Flash	
+valuables#1813	valuables	1813	(item/equipamento)	(item/equipment)	sistema		上空へ斬り上げた敵を強烈な一閃で天に縛り付ける奥義	An arcane arte that binds upward-slashed enemies to the heavens with a fierce flash.	
+valuables#1814	valuables	1814	(item/equipamento)	(item/equipment)	sistema		海連刃	Sea Combo Blade	
+valuables#1815	valuables	1815	(item/equipamento)	(item/equipment)	sistema		素早い斬り上げと共に真空波で敵を斬り刻む特技	A skill that slices enemies with vacuum waves along with swift upward slashes.	
+valuables#1816	valuables	1816	(item/equipamento)	(item/equipment)	sistema		流星衝	Meteor Impact	
+valuables#1817	valuables	1817	(item/equipamento)	(item/equipment)	sistema		盾によるボディーブローで内部に衝撃を与える特技	A skill that deals internal shock via body blows with a shield.	
+valuables#1818	valuables	1818	(item/equipamento)	(item/equipment)	sistema		星塵絶破	Stardust Absolute Blast	
+valuables#1819	valuables	1819	(item/equipamento)	(item/equipment)	sistema		武器にエネルギーを溜め、敵を貫きつつ斬り刻む秘技	A secret arte that charges energy in weapons, piercing and slicing enemies.	
+valuables#1820	valuables	1820	(item/equipamento)	(item/equipment)	sistema		星影連波	Star Shadow Flowing Wave	
+valuables#1821	valuables	1821	(item/equipamento)	(item/equipment)	sistema		光の剣影を三連続で飛ばす秘技	A secret arte that shoots three consecutive light sword shadows.	
+valuables#1822	valuables	1822	(item/equipamento)	(item/equipment)	sistema		空破天裂陣	Void Shattering Heaven Formation	
+valuables#1823	valuables	1823	(item/equipamento)	(item/equipment)	sistema		武器に込めた光の念の長大な刃で敵を刺し貫く奥義	An arcane arte that impales enemies with long blades of light thought in weapons.	
+valuables#1824	valuables	1824	(item/equipamento)	(item/equipment)	sistema		砕心脚	Heart-Shattering Kick	
+valuables#1825	valuables	1825	(item/equipamento)	(item/equipment)	sistema		兄に教えてもらった思い出の特技	A memorable skill taught by an older brother.	
+valuables#1826	valuables	1826	(item/equipamento)	(item/equipment)	sistema		白花旋蓮弾	White Flower Whirling Lotus Shot	
+valuables#1827	valuables	1827	(item/equipamento)	(item/equipment)	sistema		闘う巫女が放つ華麗なる五連撃の奥義	An arcane arte of magnificent five-hit combos unleashed by a fighting maiden.	
+valuables#1828	valuables	1828	(item/equipamento)	(item/equipment)	sistema		疾風脚	Gale Kick	
+valuables#1829	valuables	1829	(item/equipamento)	(item/equipment)	sistema		空中で繰り出す高速三連蹴りの特技	A skill that executes three high-speed kicks in midair.	
+valuables#1830	valuables	1830	(item/equipamento)	(item/equipment)	sistema		火旋輪	Fire Spin Ring	
+valuables#1831	valuables	1831	(item/equipamento)	(item/equipment)	sistema		火の念を込めた武器による連続打撃の特技	A skill that delivers continuous strikes with fire thought-imbued weapons.	
+valuables#1832	valuables	1832	(item/equipamento)	(item/equipment)	sistema		炎舞陣	Flame Dance Formation	
+valuables#1833	valuables	1833	(item/equipamento)	(item/equipment)	sistema		火の念を込めた一撃で周囲の敵を攻撃する秘技	A secret arte that attacks surrounding enemies with fire thought-imbued strikes.	
+valuables#1834	valuables	1834	(item/equipamento)	(item/equipment)	sistema		空牙嵐蹴旋	Air Fang Storm Spin Kick	
+valuables#1835	valuables	1835	(item/equipamento)	(item/equipment)	sistema		舞い上がりながら六連発の空中回転蹴りを打ち込む奥義	An arcane arte that delivers six aerial spinning kicks while soaring.	
+valuables#1836	valuables	1836	(item/equipamento)	(item/equipment)	sistema		紅蓮皇輪	Crimson Imperial Ring	
+valuables#1837	valuables	1837	(item/equipamento)	(item/equipment)	sistema		炎の念を円輪として上空から撃ちだす秘技	A secret arte that fires fire thought as circular rings from above.	
+valuables#1838	valuables	1838	(item/equipamento)	(item/equipment)	sistema		紅雅曝炎舞	Crimson Elegant Exposure Dance	
+valuables#1839	valuables	1839	(item/equipamento)	(item/equipment)	sistema		猛る炎が龍と化し、己を包み敵を討つ奥義	An arcane arte where raging flames turn to dragons, enveloping self to slay enemies.	
+valuables#1840	valuables	1840	(item/equipamento)	(item/equipment)	sistema		針雀	Needle Sparrow	
+valuables#1841	valuables	1841	(item/equipamento)	(item/equipment)	sistema		三発の矢を高速で撃ち出す特技	A skill that fires three arrows at high speed.	
+valuables#1842	valuables	1842	(item/equipamento)	(item/equipment)	sistema		裂想蹴	Rending Thought Kick	
+valuables#1843	valuables	1843	(item/equipamento)	(item/equipment)	sistema		相手を弾き飛ばす効果がある、前蹴りの特技	A front kick skill that has the effect of repelling opponents.	
+valuables#1844	valuables	1844	(item/equipamento)	(item/equipment)	sistema		槍鴎	Spear Seagull	
+valuables#1845	valuables	1845	(item/equipamento)	(item/equipment)	sistema		両手から計六発の矢を高速で撃ち出す特技	A skill that fires a total of six arrows at high speed from both hands.	
+valuables#1846	valuables	1846	(item/equipamento)	(item/equipment)	sistema		荒鷹	Wild Hawk	
+valuables#1847	valuables	1847	(item/equipamento)	(item/equipment)	sistema		大量の思念を練り上げ敵を貫通する矢を放つ特技	A skill that refines thoughts and fires arrows piercing through enemies.	
+valuables#1848	valuables	1848	(item/equipamento)	(item/equipment)	sistema		旋風鴉	Whirlwind Crow	
+valuables#1849	valuables	1849	(item/equipamento)	(item/equipment)	sistema		着弾地点に旋風を起こし敵を空へ巻き上げる奥義	An arcane arte that creates whirlwinds at impact points, sweeping enemies skyward.	
+valuables#1850	valuables	1850	(item/equipamento)	(item/equipment)	sistema		風梟	Wind Owl	
+valuables#1851	valuables	1851	(item/equipamento)	(item/equipment)	sistema		嵐の念を練り上げ、巨大な風の塊として撃ち出す特技	A skill that refines storm thoughts and fires them as giant masses of wind.	
+valuables#1852	valuables	1852	(item/equipamento)	(item/equipment)	sistema		鳶氷雨	Kite Ice Rain	
+valuables#1853	valuables	1853	(item/equipamento)	(item/equipment)	sistema		広範囲に風矢の雨を降らせる奥義	An arcane arte that rains down wind arrows over a wide area.	
+valuables#1854	valuables	1854	(item/equipamento)	(item/equipment)	sistema		散鷺	Scattered Heron	
+valuables#1855	valuables	1855	(item/equipamento)	(item/equipment)	sistema		敵の上空で弾けて降り注ぐ、特殊な散弾を撃ち出す特技	A skill that fires special buckshot bursting above enemies and raining down.	
+valuables#1856	valuables	1856	(item/equipamento)	(item/equipment)	sistema		神射鶏	Divine Rooster	
+valuables#1857	valuables	1857	(item/equipamento)	(item/equipment)	sistema		天に向かい、神をも射貫く強力な一撃を繰り出す奥義	An arcane arte that fires a powerful shot skyward capable of piercing even gods.	
+valuables#1858	valuables	1858	(item/equipamento)	(item/equipment)	sistema		銃狗鷲・番風	Gun Golden Eagle: Companion Wind	
+valuables#1859	valuables	1859	(item/equipamento)	(item/equipment)	sistema		雷斬衝	Thunder Slash Impact	
+valuables#1860	valuables	1860	(item/equipamento)	(item/equipment)	sistema		聖なる雷を生み出して斬り払う特技	A skill that creates holy lightning and cleaves enemies.	
+valuables#1861	valuables	1861	(item/equipamento)	(item/equipment)	sistema		衝皇震	Sovereign Quake	
+valuables#1862	valuables	1862	(item/equipamento)	(item/equipment)	sistema		地面をえぐる横薙ぎの衝撃波を放つ特技	A skill that unleashes horizontal ground-gouging shockwaves.	
+valuables#1863	valuables	1863	(item/equipamento)	(item/equipment)	sistema		砕氷刃	Shatter Ice Blade	
+valuables#1864	valuables	1864	(item/equipamento)	(item/equipment)	sistema		冷気をまとったX字斬りを繰り出す特技	A skill that executes cold-cloaked X-shaped cross slashes.	
+valuables#1865	valuables	1865	(item/equipamento)	(item/equipment)	sistema		双衝	Twin Impact	
+valuables#1866	valuables	1866	(item/equipamento)	(item/equipment)	sistema		打撃と衝撃の連撃を繰り出す秘技	A secret arte that executes combo strikes of physical hits and shocks.	
+valuables#1867	valuables	1867	(item/equipamento)	(item/equipment)	sistema		烈震虎砲	Raging Quake Tiger Cannon	
+valuables#1868	valuables	1868	(item/equipamento)	(item/equipment)	sistema		猛虎を屠る獅子の咆哮で敵を吹き飛ばす秘技	A secret arte that blows enemies away with lion roars that slaughter fierce tigers.	
+valuables#1869	valuables	1869	(item/equipamento)	(item/equipment)	sistema		朧月夜	Hazy Moonlit Night	
+valuables#1870	valuables	1870	(item/equipamento)	(item/equipment)	sistema		満月の様な弧を描いて敵を葬る瞬撃秘技	A swift secret arte that executes slashes tracing a full moon arc.	
+valuables#1871	valuables	1871	(item/equipamento)	(item/equipment)	sistema		裂壊桜	Rending Sakura Shatter	
+valuables#1872	valuables	1872	(item/equipamento)	(item/equipment)	sistema		剣を突き立て、衝撃波を前方へ弾けさせる秘技	A secret arte that thrusts a sword down and detonates shockwaves forward.	
+valuables#1873	valuables	1873	(item/equipamento)	(item/equipment)	sistema		崩雷殺	Lightning Crash Slaughter	
+valuables#1874	valuables	1874	(item/equipamento)	(item/equipment)	sistema		飛び上がって、雷をまとった剣を突き立てる秘技	A secret arte that leaps up and thrusts down a lightning-cloaked sword.	
+valuables#1875	valuables	1875	(item/equipamento)	(item/equipment)	sistema		風牙絶咬	Wind Fang Absolute Bite	
+valuables#1876	valuables	1876	(item/equipamento)	(item/equipment)	sistema		何者をも貫く瞬速の踏み込みを繰り出す秘技	A secret arte that delivers swift forward lunges that pierce anything.	
+valuables#1877	valuables	1877	(item/equipamento)	(item/equipment)	sistema		葬刃	Funeral Blade	
+valuables#1878	valuables	1878	(item/equipamento)	(item/equipment)	sistema		間合いが開いた敵も逃さない、神速の居合い奥義	A godspeed iai arcane arte that catches even distant enemies.	
+valuables#1879	valuables	1879	(item/equipamento)	(item/equipment)	sistema		抜砕竜斬	Extraction Dragon Slash	
+valuables#1880	valuables	1880	(item/equipamento)	(item/equipment)	sistema		敵の背後へ抜けると同時に居合い斬りを繰り出す奥義	An arcane arte that executes iai slashes while slipping behind the enemy.	
+valuables#1881	valuables	1881	(item/equipamento)	(item/equipment)	sistema		四葬天幻	Four Funerals Heavenly Illusion	
+valuables#1882	valuables	1882	(item/equipamento)	(item/equipment)	sistema		敵に踏み込みながら連続蹴りを繰り出す奥義	An arcane arte that delivers consecutive kicks while stepping into enemies.	
+valuables#1883	valuables	1883	(item/equipamento)	(item/equipment)	sistema		裂空刃	Severe Air Blade	
+valuables#1884	valuables	1884	(item/equipamento)	(item/equipment)	sistema		真空波を伴う広範囲多段居合い斬り奥義	A wide-range multi-hit iai slash arcane arte accompanied by vacuum waves.	
+valuables#1885	valuables	1885	(item/equipamento)	(item/equipment)	sistema		冥斬封	Dark Slash Seal	
+valuables#1886	valuables	1886	(item/equipamento)	(item/equipment)	sistema		斬り上げた敵を空中で斬り刻み上空から下へ突き刺す奥義	An arcane arte that slices upward-slashed enemies in midair and impales downward.	
+valuables#1887	valuables	1887	(item/equipamento)	(item/equipment)	sistema		紫電滅天翔	Violet Lightning Heaven Ruin Soar	
+valuables#1888	valuables	1888	(item/equipamento)	(item/equipment)	sistema		貫いた敵に対し、容赦ない追撃を加える奥義	An arcane arte that unleashes merciless follow-ups on impaled enemies.	
+valuables#1889	valuables	1889	(item/equipamento)	(item/equipment)	sistema		封神雀華	Sealed God Sparrow Flower	
+valuables#1890	valuables	1890	(item/equipamento)	(item/equipment)	sistema		剣による連撃で敵を斬り上げ、帯刀状態へ移行する奥義	An arcane arte that launches enemies with sword combos and transitions to sheathed stance.	
+valuables#1891	valuables	1891	(item/equipamento)	(item/equipment)	sistema		覇道滅封	Domination Extermination	
+valuables#1892	valuables	1892	(item/equipamento)	(item/equipment)	sistema		前方へ向けて、巨大な灼熱波を放つ奥義	An arcane arte that releases giant scorching heat waves forward.	
+valuables#1893	valuables	1893	(item/equipamento)	(item/equipment)	sistema		獣破轟衝斬	Beast Shatter Roaring Slash	
+valuables#1894	valuables	1894	(item/equipamento)	(item/equipment)	sistema		双月	Twin Moon	
+valuables#1895	valuables	1895	(item/equipamento)	(item/equipment)	sistema		二連の空中回転蹴りで敵を浮かす特技	A skill that launches enemies with two consecutive aerial spinning kicks.	
+valuables#1896	valuables	1896	(item/equipamento)	(item/equipment)	sistema		刹破衝	Severing Impact	
+valuables#1897	valuables	1897	(item/equipamento)	(item/equipment)	sistema		鋭い踏み込みで間合いを詰めつつ攻撃を繰り出す特技	A skill that attacks while closing distance with sharp lunges.	
+valuables#1898	valuables	1898	(item/equipamento)	(item/equipment)	sistema		霊子障断	Photon Barrier Cut	
+valuables#1899	valuables	1899	(item/equipamento)	(item/equipment)	sistema		光子を振りぬいて光の壁を作り、敵を圧倒する秘技	A secret arte that swings photons to create light walls, overwhelming enemies.	
+valuables#1900	valuables	1900	(item/equipamento)	(item/equipment)	sistema		アストラルベルト	Astral Belt	
+valuables#1901	valuables	1901	(item/equipamento)	(item/equipment)	sistema		光子を剣に変え、居合い抜きの様に振りぬく秘技	A secret arte that shapes photons into swords and swings them like iai draws.	
+valuables#1902	valuables	1902	(item/equipamento)	(item/equipment)	sistema		シェルスロー	Shell Throw	
+valuables#1903	valuables	1903	(item/equipamento)	(item/equipment)	sistema		光子を投剣の様に放射状に放つ秘技	A secret arte that radiates photons outward like throwing knives.	
+valuables#1904	valuables	1904	(item/equipamento)	(item/equipment)	sistema		マークリバース	Mark Reverse	
+valuables#1905	valuables	1905	(item/equipamento)	(item/equipment)	sistema		光子をブーメランの様に投げる特技	A skill that throws photons like boomerangs.	
+valuables#1906	valuables	1906	(item/equipamento)	(item/equipment)	sistema		リペラチャージ	Repeller Charge	
+valuables#1907	valuables	1907	(item/equipamento)	(item/equipment)	sistema		敵の物理攻撃を防ぎ、反撃を加える特技	A skill that blocks enemy physical attacks and delivers counterattacks.	
+valuables#1908	valuables	1908	(item/equipamento)	(item/equipment)	sistema		穿光	Piercing Light	
+valuables#1909	valuables	1909	(item/equipamento)	(item/equipment)	sistema		空中から斜め下に光子レーザーを放つ奥義	An arcane arte that shoots photon lasers diagonally downward from midair.	
+valuables#1910	valuables	1910	(item/equipamento)	(item/equipment)	sistema		錬気轟縮	Qi Gathering Roaring Compression	
+valuables#1911	valuables	1911	(item/equipamento)	(item/equipment)	sistema		気の塊を生み出して連続ダメージを与える奥義	An arcane arte that creates masses of qi to deal continuous damage.	
+valuables#1912	valuables	1912	(item/equipamento)	(item/equipment)	sistema		烈孔斬滅	Severe Cleaving Annihilation	
+valuables#1913	valuables	1913	(item/equipamento)	(item/equipment)	sistema		空中から蹴りを見舞い、そこから連続攻撃に繋ぐ奥義	An arcane arte that delivers aerial kicks and connects into consecutive attacks.	
+valuables#1914	valuables	1914	(item/equipamento)	(item/equipment)	sistema		光翼天翔	Light Wing Heavenly Soar	
+valuables#1915	valuables	1915	(item/equipamento)	(item/equipment)	sistema		光の翼を生み出して、空中の敵を追撃する奥義	An arcane arte that manifests wings of light to chase airborne enemies.	
+valuables#1916	valuables	1916	(item/equipamento)	(item/equipment)	sistema		ユベルティ	Huberti	
+valuables#1917	valuables	1917	(item/equipamento)	(item/equipment)	sistema		両足を両剣の様に回転させ、連続攻撃を与える秘技	A secret arte that spins both feet like twin swords, dealing consecutive strikes.	
+valuables#1918	valuables	1918	(item/equipamento)	(item/equipment)	sistema		スカラーガンナー	Scalar Gunner	
+valuables#1919	valuables	1919	(item/equipamento)	(item/equipment)	sistema		光子を凝縮し、遠距離砲撃を行う奥義	An arcane arte that condenses photons to deliver long-range bombardment.	

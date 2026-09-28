@@ -1,0 +1,64 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev33_010.scr:0	qev33_010.scr	0	アンジュ	Ange Serena	personagem		あら		
+qev33_010.scr:1	qev33_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	ちょうど、あなたの事を\n考えていたところなの		
+qev33_010.scr:2	qev33_010.scr	2	(ator 200)	(ator 200)	desconhecido		……？		
+qev33_010.scr:3	qev33_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	実は、個人的に\nお願いしたい事があって……		
+qev33_010.scr:4	qev33_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	時間がある時でいいから、\nわたしの話を聞いてくれる？		
+qev33_010.scr:5	qev33_010.scr	5	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「行方知れずの傭兵」が\nエントリーされました。\nクエストカウンタから受ける事が出来ます		
+qev33_020.scr:0	qev33_020.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	行ってくれるのね？\nありがとう。\nとっても助かるな		
+qev33_020.scr:1	qev33_020.scr	1	スパーダ	Spada Belforma	personagem		何だァ、何の闇取引の話だ？		
+qev33_020.scr:2	qev33_020.scr	2	(ator 200)	(ator 200)	desconhecido		…………		
+qev33_020.scr:3	qev33_020.scr	3	スパーダ	Spada Belforma	personagem	CRLF x2	○○、気を付けろよ。\nアンジュはこう見えて\n結構腹黒いんだぜ？		
+qev33_020.scr:4	qev33_020.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	心外だな。\nそんな事ないと思うけど……		
+qev33_020.scr:5	qev33_020.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	それに、今の話はきちんとした依頼。\nリカルドさんを迎えに\n行ってもらおうと思って		
+qev33_020.scr:6	qev33_020.scr	6	スパーダ	Spada Belforma	personagem	CRLF x1	そういや、あのおっさん、\n到着遅れてるみたいだな		
+qev33_020.scr:7	qev33_020.scr	7	スパーダ	Spada Belforma	personagem		迷子ってキャラでもねェのによ		
+qev33_020.scr:8	qev33_020.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	だから、正式な依頼として\nお願いをしたの		
+qev33_020.scr:9	qev33_020.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	大丈夫だとは思うけど、\n万が一の事があるといけないでしょ		
+qev33_020.scr:10	qev33_020.scr	10	スパーダ	Spada Belforma	personagem	CRLF x1	なるほどな。\nそーいう事か		
+qev33_020.scr:11	qev33_020.scr	11	スパーダ	Spada Belforma	personagem	CRLF x1	○○、\n準備は抜かりなくしていけよ？		
+qev33_020.scr:12	qev33_020.scr	12	スパーダ	Spada Belforma	personagem	CRLF x1	職業柄っつーか、初対面の相手に\n容赦ねェからな、あのおっさん		
+qev33_040.scr:0	qev33_040.scr	0	リカルド	Ricardo Soldato	personagem	CRLF x1	そこのガキ。\n止まれ		
+qev33_040.scr:1	qev33_040.scr	1	リカルド	Ricardo Soldato	personagem		……おい		
+qev33_040.scr:2	qev33_040.scr	2	リカルド	Ricardo Soldato	personagem		こんな所で何をしている？		
+qev33_040.scr:3	qev33_040.scr	3	(ator 200)	(ator 200)	desconhecido		…………！		
+qev33_040.scr:4	qev33_040.scr	4	リカルド	Ricardo Soldato	personagem		……近いな		
+qev33_040.scr:5	qev33_040.scr	5	リカルド	Ricardo Soldato	personagem	CRLF x2	ガキ。\n死にたくなければ、\n今すぐにここを去れ		
+qev33_040.scr:6	qev33_040.scr	6	リカルド	Ricardo Soldato	personagem	CRLF x2	さもなければ、命の保障は出来ん。\nいいな。\n二度は言わん		
+qev33_050.scr:0	qev33_050.scr	0	リカルド	Ricardo Soldato	personagem		……少々、手間取ったか		
+qev33_050.scr:1	qev33_050.scr	1	(ator 200)	(ator 200)	desconhecido		…………		
+qev33_050.scr:2	qev33_050.scr	2	リカルド	Ricardo Soldato	personagem		……まだいたのか		
+qev33_050.scr:3	qev33_050.scr	3	リカルド	Ricardo Soldato	personagem	CRLF x1	帰れと言ったはずだ。\nここは、ガキの遊び場ではない		
+qev33_050.scr:4	qev33_050.scr	4	(ator 200)	(ator 200)	desconhecido		…………		
+qev33_050.scr:5	qev33_050.scr	5	リカルド	Ricardo Soldato	personagem		何？　今、アンジュと言ったか？		
+qev33_050.scr:6	qev33_050.scr	6	リカルド	Ricardo Soldato	personagem	CRLF x1	おい。\n詳しく話を聞かせろ		
+qev33_050.scr:7	qev33_050.scr	7	リカルド	Ricardo Soldato	personagem	CRLF x2	なるほど……。\n確かにお前の探している傭兵、\nリカルド・ソルダートとは俺の事だ		
+qev33_050.scr:8	qev33_050.scr	8	リカルド	Ricardo Soldato	personagem	CRLF x2	事情は把握した。\n俺も仕事の報告が終わり次第、\n予定通りギルドへ向かう		
+qev33_050.scr:9	qev33_050.scr	9	リカルド	Ricardo Soldato	personagem		セレーナには、そう伝えてくれ		
+qev33_050.scr:10	qev33_050.scr	10	(ator 200)	(ator 200)	desconhecido		…………		
+qev33_050.scr:11	qev33_050.scr	11	リカルド	Ricardo Soldato	personagem		……今度はそう時間はかからん		
+qev33_050.scr:12	qev33_050.scr	12	リカルド	Ricardo Soldato	personagem	CRLF x1	俺と契約を結んでいるのは\nセレーナだけなのだ		
+qev33_050.scr:13	qev33_050.scr	13	リカルド	Ricardo Soldato	personagem	CRLF x1	契約は遵守する。\n……それが俺の主義でな		
+qev33_060.scr:0	qev33_060.scr	0	アンジュ	Ange Serena	personagem		ああ、○○		
+qev33_060.scr:1	qev33_060.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	ご苦労様。\n今、ちょうどリカルドさんと\nあなたの話をしていたところなの		
+qev33_060.scr:2	qev33_060.scr	2	リカルド	Ricardo Soldato	personagem	CRLF x2	また会ったな。\nしかし……、よもやこんなガキが\nギルドで依頼を請け負っているとは……		
+qev33_060.scr:3	qev33_060.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	技量も人柄も確かですから。\nギルドのリーダーとしては、\n仕事を任せない理由がありません		
+qev33_060.scr:4	qev33_060.scr	4	リカルド	Ricardo Soldato	personagem		ふむ……		
+qev33_060.scr:5	qev33_060.scr	5	ルカ	Ruca Milda	personagem	CRLF x1	あ……、本当だ。\nリカルドさんだ！		
+qev33_060.scr:6	qev33_060.scr	6	イリア	Iria Animi	personagem	CRLF x1	ずいぶん遅い到着じゃない〜？\nもしかして、大御所ぶってるつもり？		
+qev33_060.scr:7	qev33_060.scr	7	スパーダ	Spada Belforma	personagem	CRLF x1	いや、単に道に迷ってただけって\n線も残ってるぜェ？		
+qev33_060.scr:8	qev33_060.scr	8	ルカ	Ruca Milda	personagem	CRLF x1	二人とも、ちょっと……。\n失礼だよ……		
+qev33_060.scr:9	qev33_060.scr	9	リカルド	Ricardo Soldato	personagem		……相変わらず騒がしい奴らだ		
+qev33_060.scr:10	qev33_060.scr	10	リカルド	Ricardo Soldato	personagem	CRLF x1	セレーナ、ひとまず俺は部屋で\n休ませてもらう		
+qev33_060.scr:11	qev33_060.scr	11	リカルド	Ricardo Soldato	personagem		仕事の話はそれからだ		
+qev33_060.scr:12	qev33_060.scr	12	アンジュ	Ange Serena	personagem		わかりました		
+qev33_060.scr:13	qev33_060.scr	13	リカルド	Ricardo Soldato	personagem		ああ		
+qev33_060.scr:14	qev33_060.scr	14	リカルド	Ricardo Soldato	personagem	CRLF x1	言うまでもない事だとは思うが、\nガキ共とは別の部屋で頼む		
+qev33_060.scr:15	qev33_060.scr	15	スパーダ	Spada Belforma	personagem	CRLF x1	っか〜〜〜、相変わらず\n無愛想な上にムカつく野郎だな！		
+qev33_060.scr:16	qev33_060.scr	16	イリア	Iria Animi	personagem	CRLF x1	まぁ、それでこそのおっさんって\n気もするけどね〜		
+qev33_060.scr:17	qev33_060.scr	17	リカルド	Ricardo Soldato	personagem	CRLF x2	アニーミ。\nその不愉快な呼称は\n慎めと言っていたはずだ		
+qev33_060.scr:18	qev33_060.scr	18	イリア	Iria Animi	personagem	CRLF x2	あ〜ら、そうだったかしらぁ？\nどうもおっさんのお小言は\n右から左みたいで、ごめんなさいね〜♪		
+qev33_060.scr:19	qev33_060.scr	19	アンジュ	Ange Serena	personagem	CRLF x1	はいはい。\nじゃれ合うのもそこまで		
+qev33_060.scr:20	qev33_060.scr	20	アンジュ	Ange Serena	personagem	CRLF x2	とにかく、\n頼もしい仲間が増えたんだから。\nみんな、協力して、仲良くね		
+qev33_060.scr:21	qev33_060.scr	21	アンジュ	Ange Serena	personagem	CRLF x1	○○もゆっくり体を休めて。\n今日はどうもありがとう		
+qev33_060.scr:22	qev33_060.scr	22	(mensagem de sistema)	(mensagem de sistema)	sistema		リカルドがアドリビトムに加入しました		

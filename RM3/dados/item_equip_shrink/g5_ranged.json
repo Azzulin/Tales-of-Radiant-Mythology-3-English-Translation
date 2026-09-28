@@ -1,0 +1,2912 @@
+{
+ "categorias": {
+  "bow": {
+   "arena_bytes": 3301,
+   "pool_atual_bytes": 3811,
+   "folga_atual": -510,
+   "meta_bytes_a_cortar": 774,
+   "itens": [
+    {
+     "id": "bow#97",
+     "jp": "射抜いた相手の魂までも貫くとされる強力な魔弓",
+     "en": "A powerful magic bow said to pierce even the soul of the target.",
+     "bytes": 64
+    },
+    {
+     "id": "bow#37",
+     "jp": "さらなる軽量化で使いやすくなった弓",
+     "en": "A bow made even easier to use through further weight reduction.",
+     "bytes": 63
+    },
+    {
+     "id": "bow#81",
+     "jp": "まるで矢をばらまく様に撃てるかも…",
+     "en": "Shoots arrows as though spraying them across the battlefield...",
+     "bytes": 63
+    },
+    {
+     "id": "bow#95",
+     "jp": "狂戦士の弓。とても強力な一撃を放てる",
+     "en": "A berserker's bow capable of firing an intensely powerful shot.",
+     "bytes": 63
+    },
+    {
+     "id": "bow#124",
+     "jp": "矢を放てば、天まで届くといわれる神器",
+     "en": "A sacred bow said to reach the heavens when an arrow is loosed.",
+     "bytes": 63
+    },
+    {
+     "id": "bow#121",
+     "jp": "アルテミス神が使ったとされる伝説の弓",
+     "en": "A legendary bow said to have been used by the goddess Artemis.",
+     "bytes": 62
+    },
+    {
+     "id": "bow#116",
+     "jp": "東方の英雄が魔獸退治に使ったとされる退魔の弓",
+     "en": "A demon-slaying bow used by an eastern hero to defeat beasts.",
+     "bytes": 61
+    },
+    {
+     "id": "bow#29",
+     "jp": "弓使いに長けた一族に伝わる伝説の弓",
+     "en": "A legendary bow handed down in a clan renowned for archery.",
+     "bytes": 59
+    },
+    {
+     "id": "bow#53",
+     "jp": "雷撃の如き一閃を放つ名弓",
+     "en": "A renowned bow unleashing a flash like a lightning strike.",
+     "bytes": 58
+    },
+    {
+     "id": "bow#15",
+     "jp": "金属で補強され、より実戦向きになった弓",
+     "en": "A bow reinforced with metal to be more suited for combat.",
+     "bytes": 57
+    },
+    {
+     "id": "bow#91",
+     "jp": "九の頭を持つ蛇の装飾が施された弓",
+     "en": "A bow decorated with the motif of a nine-headed serpent.",
+     "bytes": 56
+    },
+    {
+     "id": "bow#118",
+     "jp": "神風の異名を持つ伝説の弓",
+     "en": "A legendary bow renowned by the name of the divine wind.",
+     "bytes": 56
+    },
+    {
+     "id": "bow#107",
+     "jp": "大神が使ったとされる弓を模した名弓",
+     "en": "A renowned bow modeled after the bow of a great deity.",
+     "bytes": 54
+    },
+    {
+     "id": "bow#69",
+     "jp": "より強い魔物の甲殻で作られた弓",
+     "en": "A bow crafted from the carapace of stronger monsters.",
+     "bytes": 53
+    },
+    {
+     "id": "bow#110",
+     "jp": "ディセンダーと認められた狩人専用の弓",
+     "en": "A bow exclusive to hunters recognized as Descenders.",
+     "bytes": 52
+    },
+    {
+     "id": "bow#83",
+     "jp": "撃たれた者は魂までをもまき散らす",
+     "en": "Those struck by it have even their souls scattered.",
+     "bytes": 51
+    },
+    {
+     "id": "bow#113",
+     "jp": "ディセンダーの為に作られた狩人専用の弓",
+     "en": "A bow crafted for hunters recognized as Descenders.",
+     "bytes": 51
+    },
+    {
+     "id": "bow#17",
+     "jp": "雷の如く高速で矢を撃ち出せる弓",
+     "en": "A bow capable of firing arrows at lightning speed.",
+     "bytes": 50
+    },
+    {
+     "id": "bow#130",
+     "jp": "ＴＯＤ２に登場したナナリーが本作で装備している武器",
+     "en": "Weapon equipped in this title by Nanaly from TOD2.",
+     "bytes": 50
+    },
+    {
+     "id": "bow#132",
+     "jp": "ＴＯＰに登場したチェスターが本作で装備している武器",
+     "en": "Weapon equipped in this title by Chester from TOP.",
+     "bytes": 50
+    },
+    {
+     "id": "bow#136",
+     "jp": "ＴＯＡに登場したナタリアが本作で装備している武器",
+     "en": "Weapon equipped in this title by Natalia from TOA.",
+     "bytes": 50
+    },
+    {
+     "id": "bow#138",
+     "jp": "ＴＯＤに登場したチェルシーが本作で装備している武器",
+     "en": "Weapon equipped in this title by Chelsea from TOD.",
+     "bytes": 50
+    },
+    {
+     "id": "bow#47",
+     "jp": "当たった者は骨をまき散らす意の弓",
+     "en": "A bow meaning those hit will scatter their bones.",
+     "bytes": 49
+    },
+    {
+     "id": "bow#71",
+     "jp": "天使が罰を下すとされる弓",
+     "en": "A bow said to be used by angels to pass judgment.",
+     "bytes": 49
+    },
+    {
+     "id": "bow#85",
+     "jp": "ダイヤモンド細工が施されているかなり豪華な弓",
+     "en": "A lavish bow adorned with diamond craftsmanship.",
+     "bytes": 48
+    },
+    {
+     "id": "bow#126",
+     "jp": "天使の羽を纏う事の出来る弓",
+     "en": "A bow capable of being cloaked in angelic wings.",
+     "bytes": 48
+    },
+    {
+     "id": "bow#128",
+     "jp": "悪魔の羽を纏う事の出来る弓",
+     "en": "A bow capable of being cloaked in demonic wings.",
+     "bytes": 48
+    },
+    {
+     "id": "bow#134",
+     "jp": "ＴＯＶに登場したレイヴンが本作で装備している武器",
+     "en": "Weapon equipped in this title by Raven from TOV.",
+     "bytes": 48
+    },
+    {
+     "id": "bow#49",
+     "jp": "金細工が施されている豪華な弓",
+     "en": "A gorgeous bow adorned with gold craftsmanship.",
+     "bytes": 47
+    },
+    {
+     "id": "bow#45",
+     "jp": "より連射しやすい構造を持つ弓",
+     "en": "A bow structured for even easier rapid firing.",
+     "bytes": 46
+    },
+    {
+     "id": "bow#87",
+     "jp": "長距離射撃用の強力な弓",
+     "en": "A powerful bow meant for long-distance firing.",
+     "bytes": 46
+    },
+    {
+     "id": "bow#41",
+     "jp": "中級者が使う汎用的な弓",
+     "en": "A versatile bow used by intermediate archers.",
+     "bytes": 45
+    },
+    {
+     "id": "bow#93",
+     "jp": "攻防を兼ね備えた名弓",
+     "en": "A renowned bow combining offense and defense.",
+     "bytes": 45
+    },
+    {
+     "id": "bow#89",
+     "jp": "乙女の名を冠する名弓",
+     "en": "A renowned bow bearing the name of a maiden.",
+     "bytes": 44
+    },
+    {
+     "id": "bow#105",
+     "jp": "竜の甲殻から作られた名弓",
+     "en": "A renowned bow crafted from dragon carapace.",
+     "bytes": 44
+    },
+    {
+     "id": "bow#23",
+     "jp": "大変優れた構造を持つ弓",
+     "en": "A bow with a remarkably superior structure.",
+     "bytes": 43
+    },
+    {
+     "id": "bow#57",
+     "jp": "攻防一体となった弓",
+     "en": "A bow combining offense and defense in one.",
+     "bytes": 43
+    },
+    {
+     "id": "bow#101",
+     "jp": "矢に傷口が広がる細工がしてある弓",
+     "en": "A bow with arrows designed to widen wounds.",
+     "bytes": 43
+    },
+    {
+     "id": "bow#55",
+     "jp": "龍の装飾が施された弓",
+     "en": "A bow decorated with dragon ornamentation.",
+     "bytes": 42
+    },
+    {
+     "id": "bow#75",
+     "jp": "更に命中精度を上げたセルフボウ",
+     "en": "A self bow with further improved accuracy.",
+     "bytes": 42
+    },
+    {
+     "id": "bow#61",
+     "jp": "遠距離からの狙撃が可能な弓",
+     "en": "A bow capable of sniping from long range.",
+     "bytes": 41
+    },
+    {
+     "id": "bow#73",
+     "jp": "軽量化に軽量化を重ねた名弓",
+     "en": "A renowned bow lightened again and again.",
+     "bytes": 41
+    },
+    {
+     "id": "bow#31",
+     "jp": "この弓で撃たれた者は、残酷な結末を迎える",
+     "en": "Those shot by this bow meet a cruel end.",
+     "bytes": 40
+    },
+    {
+     "id": "bow#99",
+     "jp": "希少な金属で作られた名弓",
+     "en": "A renowned bow crafted from rare metals.",
+     "bytes": 40
+    },
+    {
+     "id": "bow#7",
+     "jp": "複数の素材から作られた弓",
+     "en": "A bow crafted from multiple materials.",
+     "bytes": 38
+    },
+    {
+     "id": "bow#43",
+     "jp": "銀装飾がなされたコンポジットボウ",
+     "en": "A composite bow decorated with silver.",
+     "bytes": 38
+    },
+    {
+     "id": "bow#67",
+     "jp": "魔法文様を施した弓",
+     "en": "A bow inscribed with magical patterns.",
+     "bytes": 38
+    },
+    {
+     "id": "bow#3",
+     "jp": "単一の素材から作られた弓",
+     "en": "A bow crafted from a single material.",
+     "bytes": 37
+    },
+    {
+     "id": "bow#5",
+     "jp": "初心者が扱う汎用的な弓",
+     "en": "A versatile bow handled by beginners.",
+     "bytes": 37
+    },
+    {
+     "id": "bow#79",
+     "jp": "ミスリル銀を使用したコンポジットボウ",
+     "en": "A composite bow using mithril silver.",
+     "bytes": 37
+    },
+    {
+     "id": "bow#1",
+     "jp": "使いやすさを重視した小型の弓",
+     "en": "A small bow emphasizing ease of use.",
+     "bytes": 36
+    },
+    {
+     "id": "bow#33",
+     "jp": "魔物の甲殻で作られた弓",
+     "en": "A bow crafted from monster carapace.",
+     "bytes": 36
+    },
+    {
+     "id": "bow#63",
+     "jp": "希少価値の高い金属で作られた弓",
+     "en": "A bow made of highly valuable metal.",
+     "bytes": 36
+    },
+    {
+     "id": "bow#65",
+     "jp": "矢に細工がしてある弓",
+     "en": "A bow with specially crafted arrows.",
+     "bytes": 36
+    },
+    {
+     "id": "bow#35",
+     "jp": "天使の弓を模した弓",
+     "en": "A bow modeled after an angel's bow.",
+     "bytes": 35
+    },
+    {
+     "id": "bow#9",
+     "jp": "連射しやすい構造を持つ弓",
+     "en": "A bow structured for rapid firing.",
+     "bytes": 34
+    },
+    {
+     "id": "bow#21",
+     "jp": "シールドがあしらわれた頑丈な弓",
+     "en": "A sturdy bow fitted with a shield.",
+     "bytes": 34
+    },
+    {
+     "id": "bow#25",
+     "jp": "城攻めの時に使用されていた弓",
+     "en": "A bow used during castle sieges.",
+     "bytes": 32
+    },
+    {
+     "id": "bow#39",
+     "jp": "威力を高めたセルフボウ",
+     "en": "A self bow with enhanced power.",
+     "bytes": 31
+    },
+    {
+     "id": "bow#77",
+     "jp": "上級者が使う弓",
+     "en": "A bow used by advanced archers.",
+     "bytes": 31
+    },
+    {
+     "id": "bow#103",
+     "jp": "古代様式の弓",
+     "en": "A bow crafted in ancient style.",
+     "bytes": 31
+    },
+    {
+     "id": "bow#27",
+     "jp": "しなやかな金属で作られた弓",
+     "en": "A bow made of pliable metal.",
+     "bytes": 28
+    },
+    {
+     "id": "bow#59",
+     "jp": "信心深い者が持つ弓",
+     "en": "A bow wielded by the devout.",
+     "bytes": 28
+    },
+    {
+     "id": "bow#11",
+     "jp": "まき散らすの意を持つ弓",
+     "en": "A bow meaning to scatter.",
+     "bytes": 25
+    },
+    {
+     "id": "bow#114",
+     "jp": "破魔の弓",
+     "en": "Demon-Banishment Bow",
+     "bytes": 20
+    },
+    {
+     "id": "bow#111",
+     "jp": "名射手の弓",
+     "en": "Master Archer's Bow",
+     "bytes": 19
+    },
+    {
+     "id": "bow#19",
+     "jp": "装飾が施された弓",
+     "en": "An ornamented bow.",
+     "bytes": 18
+    },
+    {
+     "id": "bow#104",
+     "jp": "ドラゴンシェルボウ",
+     "en": "Dragon Shell Bow",
+     "bytes": 16
+    },
+    {
+     "id": "bow#131",
+     "jp": "プライマルエルヴンボウ",
+     "en": "Primal Elven Bow",
+     "bytes": 16
+    },
+    {
+     "id": "bow#68",
+     "jp": "ビーストシェルボウ",
+     "en": "Beast Shell Bow",
+     "bytes": 15
+    },
+    {
+     "id": "bow#122",
+     "jp": "天鹿児弓",
+     "en": "Ame-no-Kakoyumi",
+     "bytes": 15
+    },
+    {
+     "id": "bow#140",
+     "jp": "最大値（弓）",
+     "en": "Max Value (Bow)",
+     "bytes": 15
+    },
+    {
+     "id": "bow#60",
+     "jp": "ロングシージボウ",
+     "en": "Long Siege Bow",
+     "bytes": 14
+    },
+    {
+     "id": "bow#62",
+     "jp": "ハイメタルボウ",
+     "en": "High Metal Bow",
+     "bytes": 14
+    },
+    {
+     "id": "bow#98",
+     "jp": "レアメタルボウ",
+     "en": "Rare Metal Bow",
+     "bytes": 14
+    },
+    {
+     "id": "bow#135",
+     "jp": "セレスティアルスター",
+     "en": "Celestial Star",
+     "bytes": 14
+    },
+    {
+     "id": "bow#6",
+     "jp": "コンポジットボウ",
+     "en": "Composite Bow",
+     "bytes": 13
+    },
+    {
+     "id": "bow#16",
+     "jp": "ライトニングボウ",
+     "en": "Lightning Bow",
+     "bytes": 13
+    },
+    {
+     "id": "bow#51",
+     "jp": "実戦用弓",
+     "en": "A combat bow.",
+     "bytes": 13
+    },
+    {
+     "id": "bow#94",
+     "jp": "ベルセルクアロー",
+     "en": "Berserk Arrow",
+     "bytes": 13
+    },
+    {
+     "id": "bow#133",
+     "jp": "ヴァリアブルエッジ",
+     "en": "Variable Edge",
+     "bytes": 13
+    },
+    {
+     "id": "bow#13",
+     "jp": "鉄弓",
+     "en": "An iron bow.",
+     "bytes": 12
+    },
+    {
+     "id": "bow#58",
+     "jp": "クルセイダーボウ",
+     "en": "Crusader Bow",
+     "bytes": 12
+    },
+    {
+     "id": "bow#82",
+     "jp": "ゴーストスプレッド",
+     "en": "Ghost Spread",
+     "bytes": 12
+    },
+    {
+     "id": "bow#86",
+     "jp": "ロングウォーボウ",
+     "en": "Long War Bow",
+     "bytes": 12
+    },
+    {
+     "id": "bow#108",
+     "jp": "狩人の弓",
+     "en": "Hunter's Bow",
+     "bytes": 12
+    },
+    {
+     "id": "bow#137",
+     "jp": "ウッドアローＤ",
+     "en": "Wood Arrow D",
+     "bytes": 12
+    },
+    {
+     "id": "bow#36",
+     "jp": "コンパクトボウ",
+     "en": "Compact Bow",
+     "bytes": 11
+    },
+    {
+     "id": "bow#44",
+     "jp": "マシンガン",
+     "en": "Machine Gun",
+     "bytes": 11
+    },
+    {
+     "id": "bow#46",
+     "jp": "ボーンスプレッド",
+     "en": "Bone Spread",
+     "bytes": 11
+    },
+    {
+     "id": "bow#52",
+     "jp": "サンダーボウ",
+     "en": "Thunder Bow",
+     "bytes": 11
+    },
+    {
+     "id": "bow#78",
+     "jp": "ミスリルボウ",
+     "en": "Mithril Bow",
+     "bytes": 11
+    },
+    {
+     "id": "bow#84",
+     "jp": "ダイヤボウ",
+     "en": "Diamond Bow",
+     "bytes": 11
+    },
+    {
+     "id": "bow#92",
+     "jp": "プロテクトボウ",
+     "en": "Protect Bow",
+     "bytes": 11
+    },
+    {
+     "id": "bow#102",
+     "jp": "エンシェントボウ",
+     "en": "Ancient Bow",
+     "bytes": 11
+    },
+    {
+     "id": "bow#119",
+     "jp": "アルテミスの弓",
+     "en": "Artemis Bow",
+     "bytes": 11
+    },
+    {
+     "id": "bow#129",
+     "jp": "エデンズファイア",
+     "en": "Eden's Fire",
+     "bytes": 11
+    },
+    {
+     "id": "bow#14",
+     "jp": "バトルボウ",
+     "en": "Battle Bow",
+     "bytes": 10
+    },
+    {
+     "id": "bow#18",
+     "jp": "ゴシックボウ",
+     "en": "Gothic Bow",
+     "bytes": 10
+    },
+    {
+     "id": "bow#38",
+     "jp": "マイティボウ",
+     "en": "Mighty Bow",
+     "bytes": 10
+    },
+    {
+     "id": "bow#42",
+     "jp": "シルバーボウ",
+     "en": "Silver Bow",
+     "bytes": 10
+    },
+    {
+     "id": "bow#54",
+     "jp": "ドラゴンボウ",
+     "en": "Dragon Bow",
+     "bytes": 10
+    },
+    {
+     "id": "bow#56",
+     "jp": "シールドボウ",
+     "en": "Shield Bow",
+     "bytes": 10
+    },
+    {
+     "id": "bow#74",
+     "jp": "スナイパーボウ",
+     "en": "Sniper Bow",
+     "bytes": 10
+    },
+    {
+     "id": "bow#88",
+     "jp": "メイデンボウ",
+     "en": "Maiden Bow",
+     "bytes": 10
+    },
+    {
+     "id": "bow#96",
+     "jp": "ソウルスティール",
+     "en": "Soul Steal",
+     "bytes": 10
+    },
+    {
+     "id": "bow#125",
+     "jp": "セラフボウ",
+     "en": "Seraph Bow",
+     "bytes": 10
+    },
+    {
+     "id": "bow#0",
+     "jp": "スモールボウ",
+     "en": "Small Bow",
+     "bytes": 9
+    },
+    {
+     "id": "bow#8",
+     "jp": "ラピッドボウ",
+     "en": "Rapid Bow",
+     "bytes": 9
+    },
+    {
+     "id": "bow#20",
+     "jp": "ガードボウ",
+     "en": "Guard Bow",
+     "bytes": 9
+    },
+    {
+     "id": "bow#22",
+     "jp": "クレインクィン",
+     "en": "Cranequin",
+     "bytes": 9
+    },
+    {
+     "id": "bow#24",
+     "jp": "シージボウ",
+     "en": "Siege Bow",
+     "bytes": 9
+    },
+    {
+     "id": "bow#26",
+     "jp": "メタルボウ",
+     "en": "Metal Bow",
+     "bytes": 9
+    },
+    {
+     "id": "bow#28",
+     "jp": "エルヴンボウ",
+     "en": "Elven Bow",
+     "bytes": 9
+    },
+    {
+     "id": "bow#30",
+     "jp": "グリムボウ",
+     "en": "Grimm Bow",
+     "bytes": 9
+    },
+    {
+     "id": "bow#32",
+     "jp": "シェルボウ",
+     "en": "Shell Bow",
+     "bytes": 9
+    },
+    {
+     "id": "bow#34",
+     "jp": "キューピッドボウ",
+     "en": "Cupid Bow",
+     "bytes": 9
+    },
+    {
+     "id": "bow#64",
+     "jp": "ブレードボウ",
+     "en": "Blade Bow",
+     "bytes": 9
+    },
+    {
+     "id": "bow#70",
+     "jp": "エンジェルボウ",
+     "en": "Angel Bow",
+     "bytes": 9
+    },
+    {
+     "id": "bow#72",
+     "jp": "ライトボウ",
+     "en": "Light Bow",
+     "bytes": 9
+    },
+    {
+     "id": "bow#90",
+     "jp": "ハイドラボウ",
+     "en": "Hydra Bow",
+     "bytes": 9
+    },
+    {
+     "id": "bow#117",
+     "jp": "ウィンドフォース",
+     "en": "Windforce",
+     "bytes": 9
+    },
+    {
+     "id": "bow#127",
+     "jp": "デビルボウ",
+     "en": "Devil Bow",
+     "bytes": 9
+    },
+    {
+     "id": "bow#139",
+     "jp": "トライアルボウ",
+     "en": "Trial Bow",
+     "bytes": 9
+    },
+    {
+     "id": "bow#2",
+     "jp": "セルフボウ",
+     "en": "Self Bow",
+     "bytes": 8
+    },
+    {
+     "id": "bow#12",
+     "jp": "アイアンボウ",
+     "en": "Iron Bow",
+     "bytes": 8
+    },
+    {
+     "id": "bow#40",
+     "jp": "ショートボウ",
+     "en": "Shortbow",
+     "bytes": 8
+    },
+    {
+     "id": "bow#48",
+     "jp": "ゴールドボウ",
+     "en": "Gold Bow",
+     "bytes": 8
+    },
+    {
+     "id": "bow#66",
+     "jp": "ルーンボウ",
+     "en": "Rune Bow",
+     "bytes": 8
+    },
+    {
+     "id": "bow#100",
+     "jp": "エッジボウ",
+     "en": "Edge Bow",
+     "bytes": 8
+    },
+    {
+     "id": "bow#50",
+     "jp": "ウォーボウ",
+     "en": "War Bow",
+     "bytes": 7
+    },
+    {
+     "id": "bow#76",
+     "jp": "ロングボウ",
+     "en": "Longbow",
+     "bytes": 7
+    },
+    {
+     "id": "bow#106",
+     "jp": "ゴッドボウ",
+     "en": "God Bow",
+     "bytes": 7
+    },
+    {
+     "id": "bow#10",
+     "jp": "スプレッド",
+     "en": "Spread",
+     "bytes": 6
+    },
+    {
+     "id": "bow#80",
+     "jp": "バルカン",
+     "en": "Vulcan",
+     "bytes": 6
+    },
+    {
+     "id": "bow#4",
+     "jp": "ボウ",
+     "en": "Bow",
+     "bytes": 3
+    }
+   ]
+  },
+  "handgun": {
+   "arena_bytes": 3135,
+   "pool_atual_bytes": 3502,
+   "folga_atual": -367,
+   "meta_bytes_a_cortar": 617,
+   "itens": [
+    {
+     "id": "handgun#70",
+     "jp": "荒野に轟く雷と例えられる開拓者魂が宿る銃",
+     "en": "A gun harboring the frontiersman spirit, likened to thunder over the wild.",
+     "bytes": 74
+    },
+    {
+     "id": "handgun#10",
+     "jp": "雷球を思わせる弾丸を撃ち出す閃光の銃",
+     "en": "A flashing handgun firing bullets reminiscent of ball lightning.",
+     "bytes": 64
+    },
+    {
+     "id": "handgun#20",
+     "jp": "素早く射撃体勢に移れるスマートなデザインの銃",
+     "en": "A smartly designed gun that shifts swiftly into shooting stance.",
+     "bytes": 64
+    },
+    {
+     "id": "handgun#50",
+     "jp": "その弾速は狩りをするイーグルに例えられる恐るべき銃",
+     "en": "A fearsome gun whose bullet speed is likened to a hunting eagle.",
+     "bytes": 64
+    },
+    {
+     "id": "handgun#107",
+     "jp": "ディセンダーと認められたガンマン専用の魔銃",
+     "en": "A demonic gun exclusive to gunners recognized as Descenders.",
+     "bytes": 60
+    },
+    {
+     "id": "handgun#14",
+     "jp": "魂をも凍らせる冷たき弾丸を撃ち出す拳銃",
+     "en": "A handgun firing freezing bullets that chill even the soul.",
+     "bytes": 59
+    },
+    {
+     "id": "handgun#30",
+     "jp": "伝説のガンマンの遺産と称される魔銃",
+     "en": "A magic gun hailed as the legacy of a legendary gunslinger.",
+     "bytes": 59
+    },
+    {
+     "id": "handgun#104",
+     "jp": "ディセンダーと認められたガンマン専用の聖銃",
+     "en": "A sacred gun exclusive to gunners recognized as Descenders.",
+     "bytes": 59
+    },
+    {
+     "id": "handgun#113",
+     "jp": "ディセンダーの為に作られたガンマン専用の魔銃",
+     "en": "A demonic gun crafted for gunners recognized as Descenders.",
+     "bytes": 59
+    },
+    {
+     "id": "handgun#18",
+     "jp": "良質故に射撃衝動を抑えるのが大変な銃",
+     "en": "A gun so fine it is hard to suppress the urge to shoot it.",
+     "bytes": 58
+    },
+    {
+     "id": "handgun#26",
+     "jp": "悪の加担者をすべて抹殺する恐銃",
+     "en": "A terrifying gun that obliterates all accomplices of evil.",
+     "bytes": 58
+    },
+    {
+     "id": "handgun#63",
+     "jp": "勇気と正しき心の象徴と称される銃",
+     "en": "A gun hailed as a symbol of courage and a righteous heart.",
+     "bytes": 58
+    },
+    {
+     "id": "handgun#88",
+     "jp": "連射力と威力のバランスを取った銃",
+     "en": "A gun balancing rapid-fire capability with stopping power.",
+     "bytes": 58
+    },
+    {
+     "id": "handgun#111",
+     "jp": "ディセンダーの為に作られたガンマン専用の聖銃",
+     "en": "A sacred gun crafted for gunners recognized as Descenders.",
+     "bytes": 58
+    },
+    {
+     "id": "handgun#117",
+     "jp": "決して満たされぬ暗い衝動を伴う銃",
+     "en": "A gun accompanied by a dark urge that is never satisfied.",
+     "bytes": 57
+    },
+    {
+     "id": "handgun#24",
+     "jp": "環境の悪さを苦にしないといわれる銃",
+     "en": "A gun said not to mind harsh environments in the least.",
+     "bytes": 55
+    },
+    {
+     "id": "handgun#28",
+     "jp": "紛争解決の調停者が所有する銃",
+     "en": "A firearm possessed by arbiters of conflict resolution.",
+     "bytes": 55
+    },
+    {
+     "id": "handgun#77",
+     "jp": "軍が正式採用した優秀な拳銃",
+     "en": "An excellent pistol officially adopted by the military.",
+     "bytes": 55
+    },
+    {
+     "id": "handgun#115",
+     "jp": "一瞬の光陰と共に標的を仕留める銃",
+     "en": "A gun that finishes off targets with a momentary flash.",
+     "bytes": 55
+    },
+    {
+     "id": "handgun#122",
+     "jp": "金色に輝く気品に満ちた宝銃",
+     "en": "A treasured gun shining gold and filled with nobility.",
+     "bytes": 54
+    },
+    {
+     "id": "handgun#37",
+     "jp": "歴代の開拓者から受け継がれてきた銃",
+     "en": "A gun handed down across generations of frontiersmen.",
+     "bytes": 53
+    },
+    {
+     "id": "handgun#90",
+     "jp": "灰色熊をも倒せる威力の銃",
+     "en": "A gun with enough power to bring down a grizzly bear.",
+     "bytes": 53
+    },
+    {
+     "id": "handgun#54",
+     "jp": "反動を強く感じるがそれなりの威力",
+     "en": "Has noticeable recoil, but boasts respectable power.",
+     "bytes": 52
+    },
+    {
+     "id": "handgun#72",
+     "jp": "カスール弾を撃てる汎用拳銃",
+     "en": "A versatile handgun capable of firing Casull rounds.",
+     "bytes": 52
+    },
+    {
+     "id": "handgun#101",
+     "jp": "ディセンダーと認められた海賊専用の銃",
+     "en": "A gun exclusive to pirates recognized as Descenders.",
+     "bytes": 52
+    },
+    {
+     "id": "handgun#98",
+     "jp": "どんな重装甲をも貫く軍用の銃",
+     "en": "A military gun capable of piercing any heavy armor.",
+     "bytes": 51
+    },
+    {
+     "id": "handgun#109",
+     "jp": "ディセンダーの為に作られた海賊専用の銃",
+     "en": "A gun crafted for pirates recognized as Descenders.",
+     "bytes": 51
+    },
+    {
+     "id": "handgun#22",
+     "jp": "あまり良い目的には使われない不遇の銃",
+     "en": "An unfortunate gun rarely used for good purposes.",
+     "bytes": 49
+    },
+    {
+     "id": "handgun#66",
+     "jp": "全ての面で高レベルの性能を持つ銃",
+     "en": "A gun boasting high performance in every aspect.",
+     "bytes": 48
+    },
+    {
+     "id": "handgun#58",
+     "jp": "レッドイーグルよりも大口径の銃",
+     "en": "A gun with a larger caliber than the Red Eagle.",
+     "bytes": 47
+    },
+    {
+     "id": "handgun#95",
+     "jp": "ベビーホークよりも大口径の銃",
+     "en": "A gun with a larger caliber than the Baby Hawk.",
+     "bytes": 47
+    },
+    {
+     "id": "handgun#6",
+     "jp": "開拓者がもっぱら愛用している銃",
+     "en": "A firearm favored extensively by frontiersmen.",
+     "bytes": 46
+    },
+    {
+     "id": "handgun#48",
+     "jp": "神罰代行者の聖なる銃",
+     "en": "The holy gun of an agent of divine punishment.",
+     "bytes": 46
+    },
+    {
+     "id": "handgun#12",
+     "jp": "マグナム弾を使う自動式拳銃",
+     "en": "An automatic pistol that fires magnum rounds.",
+     "bytes": 45
+    },
+    {
+     "id": "handgun#16",
+     "jp": "大口径のマグナム弾を使用する拳銃",
+     "en": "A handgun using large-caliber magnum rounds.",
+     "bytes": 44
+    },
+    {
+     "id": "handgun#42",
+     "jp": "灰色熊を思わせる強大な威力！",
+     "en": "Mighty power reminiscent of a grizzly bear!",
+     "bytes": 43
+    },
+    {
+     "id": "handgun#46",
+     "jp": "毒蛇の名を冠する銃",
+     "en": "A gun bearing the name of a venomous snake.",
+     "bytes": 43
+    },
+    {
+     "id": "handgun#68",
+     "jp": "威力と使いやすさのバランスを取った銃",
+     "en": "A gun balancing power and ease of handling.",
+     "bytes": 43
+    },
+    {
+     "id": "handgun#86",
+     "jp": "狙いのつけやすさはピカイチの拳銃",
+     "en": "A pistol whose ease of aiming is top-notch.",
+     "bytes": 43
+    },
+    {
+     "id": "handgun#119",
+     "jp": "死を呼び込む禍の秘銃",
+     "en": "A calamitous secret gun that invites death.",
+     "bytes": 43
+    },
+    {
+     "id": "handgun#44",
+     "jp": "引き金の張力が７０ｇの銃",
+     "en": "A handgun with a trigger pull of 70 grams.",
+     "bytes": 42
+    },
+    {
+     "id": "handgun#81",
+     "jp": "標的を恐怖に陥れる銃",
+     "en": "A gun that plunges its targets into dread.",
+     "bytes": 42
+    },
+    {
+     "id": "handgun#93",
+     "jp": "トルーパーの強化版拳銃",
+     "en": "An enhanced version of the Trooper pistol.",
+     "bytes": 42
+    },
+    {
+     "id": "handgun#35",
+     "jp": "オートマカスタムの強化版",
+     "en": "An enhanced version of the Automa Custom.",
+     "bytes": 41
+    },
+    {
+     "id": "handgun#40",
+     "jp": "スタンダードマグの強化版",
+     "en": "An enhanced version of the Standard Mag.",
+     "bytes": 40
+    },
+    {
+     "id": "handgun#2",
+     "jp": "数世代前の銃",
+     "en": "A firearm from several generations ago.",
+     "bytes": 39
+    },
+    {
+     "id": "handgun#33",
+     "jp": "強力かつ扱いやすいリボルバー銃",
+     "en": "A powerful and easy-to-handle revolver.",
+     "bytes": 39
+    },
+    {
+     "id": "handgun#52",
+     "jp": "伝統ある匠によって作られた銃",
+     "en": "A gun crafted by traditional artisans.",
+     "bytes": 38
+    },
+    {
+     "id": "handgun#74",
+     "jp": "マムシの名を冠する銃",
+     "en": "A gun bearing the name of a pit viper.",
+     "bytes": 38
+    },
+    {
+     "id": "handgun#4",
+     "jp": "市販されている自動式拳銃",
+     "en": "A commercially sold automatic pistol.",
+     "bytes": 37
+    },
+    {
+     "id": "handgun#8",
+     "jp": "マグナム弾を使うリボルバー銃",
+     "en": "A revolver that fires magnum rounds.",
+     "bytes": 36
+    },
+    {
+     "id": "handgun#83",
+     "jp": "無礼者を排除する銃",
+     "en": "A gun that eliminates the insolent.",
+     "bytes": 35
+    },
+    {
+     "id": "handgun#60",
+     "jp": "闘犬の如くタフな銃",
+     "en": "A gun as tough as a fighting dog.",
+     "bytes": 33
+    },
+    {
+     "id": "handgun#75",
+     "jp": "協和軍正式拳銃",
+     "en": "Commonwealth Army Service Pistol",
+     "bytes": 32
+    },
+    {
+     "id": "handgun#79",
+     "jp": "小型の使いやすい銃",
+     "en": "A compact, easy-to-use handgun.",
+     "bytes": 31
+    },
+    {
+     "id": "handgun#56",
+     "jp": "騎兵用拳銃",
+     "en": "A handgun for cavalry troops.",
+     "bytes": 29
+    },
+    {
+     "id": "handgun#105",
+     "jp": "魔銃士の拳銃",
+     "en": "Magic Gunner's Pistol",
+     "bytes": 21
+    },
+    {
+     "id": "handgun#102",
+     "jp": "聖銃士の拳銃",
+     "en": "Holy Gunner's Pistol",
+     "bytes": 20
+    },
+    {
+     "id": "handgun#124",
+     "jp": "最大値（拳銃）",
+     "en": "Max Value (Handgun)",
+     "bytes": 19
+    },
+    {
+     "id": "handgun#114",
+     "jp": "フラッシュインザダーク",
+     "en": "Flash in the Dark",
+     "bytes": 17
+    },
+    {
+     "id": "handgun#38",
+     "jp": "スタンダードマグ３２",
+     "en": "Standard Mag 32",
+     "bytes": 15
+    },
+    {
+     "id": "handgun#51",
+     "jp": "トラディショナルガン",
+     "en": "Traditional Gun",
+     "bytes": 15
+    },
+    {
+     "id": "handgun#82",
+     "jp": "インソレントバスター",
+     "en": "Insolent Buster",
+     "bytes": 15
+    },
+    {
+     "id": "handgun#99",
+     "jp": "海賊の拳銃",
+     "en": "Pirate's Pistol",
+     "bytes": 15
+    },
+    {
+     "id": "handgun#29",
+     "jp": "ビリーズレガシー",
+     "en": "Billy's Legacy",
+     "bytes": 14
+    },
+    {
+     "id": "handgun#41",
+     "jp": "グリズリーマグナム",
+     "en": "Grizzly Magnum",
+     "bytes": 14
+    },
+    {
+     "id": "handgun#87",
+     "jp": "マシンピストル",
+     "en": "Machine Pistol",
+     "bytes": 14
+    },
+    {
+     "id": "handgun#89",
+     "jp": "グリズリーカスタム",
+     "en": "Grizzly Custom",
+     "bytes": 14
+    },
+    {
+     "id": "handgun#3",
+     "jp": "オートマカスタム",
+     "en": "Automa Custom",
+     "bytes": 13
+    },
+    {
+     "id": "handgun#23",
+     "jp": "デザートベリアル",
+     "en": "Desert Burial",
+     "bytes": 13
+    },
+    {
+     "id": "handgun#43",
+     "jp": "ライトトリガー",
+     "en": "Light Trigger",
+     "bytes": 13
+    },
+    {
+     "id": "handgun#61",
+     "jp": "戦士の銃",
+     "en": "Warrior's Gun",
+     "bytes": 13
+    },
+    {
+     "id": "handgun#69",
+     "jp": "テキサスサンダー",
+     "en": "Texas Thunder",
+     "bytes": 13
+    },
+    {
+     "id": "handgun#80",
+     "jp": "ドレッドトリガー",
+     "en": "Dread Trigger",
+     "bytes": 13
+    },
+    {
+     "id": "handgun#96",
+     "jp": "対戦車銃",
+     "en": "Anti-Tank Gun",
+     "bytes": 13
+    },
+    {
+     "id": "handgun#7",
+     "jp": "スタンダードマグ",
+     "en": "Standard Mag",
+     "bytes": 12
+    },
+    {
+     "id": "handgun#13",
+     "jp": "ブリザードマグ",
+     "en": "Blizzard Mag",
+     "bytes": 12
+    },
+    {
+     "id": "handgun#19",
+     "jp": "クイックワーカ",
+     "en": "Quick Worker",
+     "bytes": 12
+    },
+    {
+     "id": "handgun#34",
+     "jp": "オートマハイパー",
+     "en": "Automa Hyper",
+     "bytes": 12
+    },
+    {
+     "id": "handgun#53",
+     "jp": "ヘビーリコイル",
+     "en": "Heavy Recoil",
+     "bytes": 12
+    },
+    {
+     "id": "handgun#67",
+     "jp": "ショートリコイル",
+     "en": "Short Recoil",
+     "bytes": 12
+    },
+    {
+     "id": "handgun#84",
+     "jp": "百発百中丸",
+     "en": "Bullseye Gun",
+     "bytes": 12
+    },
+    {
+     "id": "handgun#116",
+     "jp": "サティスファクション",
+     "en": "Satisfaction",
+     "bytes": 12
+    },
+    {
+     "id": "handgun#0",
+     "jp": "リボルバーＳＡ",
+     "en": "Revolver SA",
+     "bytes": 11
+    },
+    {
+     "id": "handgun#5",
+     "jp": "テキサスブレイズ",
+     "en": "Texas Blaze",
+     "bytes": 11
+    },
+    {
+     "id": "handgun#21",
+     "jp": "ピットスイーパー",
+     "en": "Pit Sweeper",
+     "bytes": 11
+    },
+    {
+     "id": "handgun#25",
+     "jp": "レンドバスター",
+     "en": "Rend Buster",
+     "bytes": 11
+    },
+    {
+     "id": "handgun#27",
+     "jp": "ピースキーパー",
+     "en": "Peacekeeper",
+     "bytes": 11
+    },
+    {
+     "id": "handgun#31",
+     "jp": "リボルバーＤＡ",
+     "en": "Revolver DA",
+     "bytes": 11
+    },
+    {
+     "id": "handgun#36",
+     "jp": "アンクルテキサス",
+     "en": "Uncle Texas",
+     "bytes": 11
+    },
+    {
+     "id": "handgun#57",
+     "jp": "ブラックイーグル",
+     "en": "Black Eagle",
+     "bytes": 11
+    },
+    {
+     "id": "handgun#64",
+     "jp": "リボルバーＴＡ",
+     "en": "Revolver TA",
+     "bytes": 11
+    },
+    {
+     "id": "handgun#94",
+     "jp": "デザートホーク",
+     "en": "Desert Hawk",
+     "bytes": 11
+    },
+    {
+     "id": "handgun#9",
+     "jp": "ボルテックマグ",
+     "en": "Voltek Mag",
+     "bytes": 10
+    },
+    {
+     "id": "handgun#59",
+     "jp": "レイジングドッグ",
+     "en": "Raging Dog",
+     "bytes": 10
+    },
+    {
+     "id": "handgun#91",
+     "jp": "トルーパーＳＰ",
+     "en": "Trooper SP",
+     "bytes": 10
+    },
+    {
+     "id": "handgun#108",
+     "jp": "ヴァイキングガン",
+     "en": "Viking Gun",
+     "bytes": 10
+    },
+    {
+     "id": "handgun#110",
+     "jp": "エンジェルショット",
+     "en": "Angel Shot",
+     "bytes": 10
+    },
+    {
+     "id": "handgun#112",
+     "jp": "デビルショット",
+     "en": "Devil Shot",
+     "bytes": 10
+    },
+    {
+     "id": "handgun#118",
+     "jp": "デスゲイズ",
+     "en": "Death Gaze",
+     "bytes": 10
+    },
+    {
+     "id": "handgun#120",
+     "jp": "黄金銃",
+     "en": "Golden Gun",
+     "bytes": 10
+    },
+    {
+     "id": "handgun#15",
+     "jp": "バイパーマグ",
+     "en": "Viper Mag",
+     "bytes": 9
+    },
+    {
+     "id": "handgun#49",
+     "jp": "レッドイーグル",
+     "en": "Red Eagle",
+     "bytes": 9
+    },
+    {
+     "id": "handgun#73",
+     "jp": "ピットヴァイパー",
+     "en": "Pit Viper",
+     "bytes": 9
+    },
+    {
+     "id": "handgun#78",
+     "jp": "ベビーホーク",
+     "en": "Baby Hawk",
+     "bytes": 9
+    },
+    {
+     "id": "handgun#123",
+     "jp": "トライアルガン",
+     "en": "Trial Gun",
+     "bytes": 9
+    },
+    {
+     "id": "handgun#11",
+     "jp": "オートマグ",
+     "en": "Auto Mag",
+     "bytes": 8
+    },
+    {
+     "id": "handgun#17",
+     "jp": "ファストマグ",
+     "en": "Fast Mag",
+     "bytes": 8
+    },
+    {
+     "id": "handgun#47",
+     "jp": "パニッシャー",
+     "en": "Punisher",
+     "bytes": 8
+    },
+    {
+     "id": "handgun#55",
+     "jp": "トルーパー",
+     "en": "Trooper",
+     "bytes": 7
+    },
+    {
+     "id": "handgun#71",
+     "jp": "カスール",
+     "en": "Casull",
+     "bytes": 6
+    },
+    {
+     "id": "handgun#45",
+     "jp": "ヴァイパー",
+     "en": "Viper",
+     "bytes": 5
+    }
+   ]
+  },
+  "staff": {
+   "arena_bytes": 4297,
+   "pool_atual_bytes": 4470,
+   "folga_atual": -173,
+   "meta_bytes_a_cortar": 516,
+   "itens": [
+    {
+     "id": "staff#174",
+     "jp": "なりきりダンジョンＸ特典。本作でミントが装備する武器",
+     "en": "Narikiri Dungeon X bonus. Weapon equipped in this title by Mint.",
+     "bytes": 64
+    },
+    {
+     "id": "staff#39",
+     "jp": "惑星を彷彿とさせる飾りのついた杖",
+     "en": "A staff decorated with ornamentation reminiscent of planets.",
+     "bytes": 60
+    },
+    {
+     "id": "staff#98",
+     "jp": "両先に同じ先端を持つ事から双子と名付けられた杖",
+     "en": "A staff named Gemini because both ends share identical tips.",
+     "bytes": 60
+    },
+    {
+     "id": "staff#146",
+     "jp": "その昔、伝令使が持っていたという杖",
+     "en": "A staff said to have been carried by heralds in days of old.",
+     "bytes": 60
+    },
+    {
+     "id": "staff#22",
+     "jp": "先端に付けられた重りで攻撃力を高めた杖",
+     "en": "A staff with enhanced attack power via a weight at its tip.",
+     "bytes": 59
+    },
+    {
+     "id": "staff#37",
+     "jp": "魔力を秘めるとされる宝石があしらわれた杖",
+     "en": "A staff adorned with gemstones said to harbor magic power.",
+     "bytes": 58
+    },
+    {
+     "id": "staff#111",
+     "jp": "流星の如き一撃を放つ事の出来る杖",
+     "en": "A staff capable of delivering a blow like a shooting star.",
+     "bytes": 58
+    },
+    {
+     "id": "staff#107",
+     "jp": "霊力あらたかな木から作られたワンド",
+     "en": "A wand crafted from a tree of miraculous spiritual power.",
+     "bytes": 57
+    },
+    {
+     "id": "staff#118",
+     "jp": "使うほどに魔力を増すとされる杖",
+     "en": "A staff said to increase magic power the more it is used.",
+     "bytes": 57
+    },
+    {
+     "id": "staff#76",
+     "jp": "魔力を秘めた宝石をあしらった杖",
+     "en": "A staff adorned with gemstones harboring magical power.",
+     "bytes": 55
+    },
+    {
+     "id": "staff#126",
+     "jp": "ディセンダーと認められた僧侶専用のスタッフ",
+     "en": "A staff exclusive to priests recognized as Descenders.",
+     "bytes": 54
+    },
+    {
+     "id": "staff#35",
+     "jp": "運気を上げるとされる宝石があしらわれた杖",
+     "en": "A staff adorned with gemstones said to boost fortune.",
+     "bytes": 53
+    },
+    {
+     "id": "staff#135",
+     "jp": "ディセンダーの為に作られた僧侶専用のスタッフ",
+     "en": "A staff crafted for priests recognized as Descenders.",
+     "bytes": 53
+    },
+    {
+     "id": "staff#129",
+     "jp": "ディセンダーと認められたビショップ専用のロッド",
+     "en": "A rod exclusive to bishops recognized as Descenders.",
+     "bytes": 52
+    },
+    {
+     "id": "staff#138",
+     "jp": "ディセンダーの為に作られたビショップ専用のロッド",
+     "en": "A rod crafted for bishops recognized as Descenders.",
+     "bytes": 51
+    },
+    {
+     "id": "staff#144",
+     "jp": "獣神ハヌマーンの名を冠する棒",
+     "en": "A shaft bearing the name of the monkey god Hanuman.",
+     "bytes": 51
+    },
+    {
+     "id": "staff#74",
+     "jp": "運気を上げるとされるオーブをあしらった杖",
+     "en": "A staff adorned with an orb said to boost fortune.",
+     "bytes": 50
+    },
+    {
+     "id": "staff#116",
+     "jp": "使用者を加護する力を秘めた杖",
+     "en": "A staff harboring power that protects its wielder.",
+     "bytes": 50
+    },
+    {
+     "id": "staff#123",
+     "jp": "ディセンダーと認められた魔術師専用のロッド",
+     "en": "A rod exclusive to mages recognized as Descenders.",
+     "bytes": 50
+    },
+    {
+     "id": "staff#157",
+     "jp": "ＴＯＤ２に登場したハロルドが本作で装備している武器",
+     "en": "Weapon equipped in this title by Harold from TOD2.",
+     "bytes": 50
+    },
+    {
+     "id": "staff#170",
+     "jp": "ＴＯＶに登場したエステルが本作で装備している武器",
+     "en": "Weapon equipped in this title by Estelle from TOV.",
+     "bytes": 50
+    },
+    {
+     "id": "staff#27",
+     "jp": "屍肉を糧に育った木で作ったワンド",
+     "en": "A wand made from a tree grown feeding on carrion.",
+     "bytes": 49
+    },
+    {
+     "id": "staff#59",
+     "jp": "智天使ケルブが持つといわれるセプター",
+     "en": "A scepter said to be held by the Cherubim angels.",
+     "bytes": 49
+    },
+    {
+     "id": "staff#100",
+     "jp": "熾天使セラフが持つといわれるセプター",
+     "en": "A scepter said to be held by the Seraphim angels.",
+     "bytes": 49
+    },
+    {
+     "id": "staff#132",
+     "jp": "ディセンダーの為に作られた魔術師専用のロッド",
+     "en": "A rod crafted for mages recognized as Descenders.",
+     "bytes": 49
+    },
+    {
+     "id": "staff#154",
+     "jp": "ＴＯＤ２に登場したリアラが本作で装備している武器",
+     "en": "Weapon equipped in this title by Reala from TOD2.",
+     "bytes": 49
+    },
+    {
+     "id": "staff#18",
+     "jp": "杖の両端に鉄製の装飾をつけた杖",
+     "en": "A staff fitted with iron ornaments on both ends.",
+     "bytes": 48
+    },
+    {
+     "id": "staff#152",
+     "jp": "ＴＯＡに登場したアニスが本作で装備している武器",
+     "en": "Weapon equipped in this title by Anise from TOA.",
+     "bytes": 48
+    },
+    {
+     "id": "staff#159",
+     "jp": "ＴＯＥに登場したキールが本作で装備している武器",
+     "en": "Weapon equipped in this title by Keele from TOE.",
+     "bytes": 48
+    },
+    {
+     "id": "staff#164",
+     "jp": "ＴＯＲに登場したアニーが本作で装備している武器",
+     "en": "Weapon equipped in this title by Annie from TOR.",
+     "bytes": 48
+    },
+    {
+     "id": "staff#166",
+     "jp": "ＴＯＳに登場したリフィルが本作で装備している武器",
+     "en": "Weapon equipped in this title by Raine from TOS.",
+     "bytes": 48
+    },
+    {
+     "id": "staff#168",
+     "jp": "ＴＯＴに登場したルビアが本作で装備している武器",
+     "en": "Weapon equipped in this title by Rubia from TOT.",
+     "bytes": 48
+    },
+    {
+     "id": "staff#20",
+     "jp": "座天使スローネが持つといわれるセプター",
+     "en": "A scepter said to be held by the Throne angels.",
+     "bytes": 47
+    },
+    {
+     "id": "staff#102",
+     "jp": "すさまじい破壊力を持つメイス",
+     "en": "A mace possessing tremendous destructive power.",
+     "bytes": 47
+    },
+    {
+     "id": "staff#150",
+     "jp": "ＴＯＡに登場したティアが本作で装備している武器",
+     "en": "Weapon equipped in this title by Tear from TOA.",
+     "bytes": 47
+    },
+    {
+     "id": "staff#162",
+     "jp": "ＴＯＰに登場したミントが本作で装備している武器",
+     "en": "Weapon equipped in this title by Mint from TOP.",
+     "bytes": 47
+    },
+    {
+     "id": "staff#3",
+     "jp": "星の女神の使いが宿るスタッフ",
+     "en": "A staff dwelling an envoy of the star goddess.",
+     "bytes": 46
+    },
+    {
+     "id": "staff#43",
+     "jp": "月の女神の使いが宿るスタッフ",
+     "en": "A staff dwelling an envoy of the moon goddess.",
+     "bytes": 46
+    },
+    {
+     "id": "staff#120",
+     "jp": "惑星の名を冠する杖",
+     "en": "A staff bearing the name of wandering planets.",
+     "bytes": 46
+    },
+    {
+     "id": "staff#66",
+     "jp": "遭難した船の残骸で作ったワンド",
+     "en": "A wand made from the wreckage of a shipwreck.",
+     "bytes": 45
+    },
+    {
+     "id": "staff#83",
+     "jp": "太陽の女神の使いが宿るスタッフ",
+     "en": "A staff dwelling an envoy of the sun goddess.",
+     "bytes": 45
+    },
+    {
+     "id": "staff#96",
+     "jp": "イシュタル伝説に登場するＲＣロッド",
+     "en": "The RC Rod appearing in the Legend of Ishtar.",
+     "bytes": 45
+    },
+    {
+     "id": "staff#114",
+     "jp": "イシュタル伝説に登場するＢＣロッド",
+     "en": "The BC Rod appearing in the Legend of Ishtar.",
+     "bytes": 45
+    },
+    {
+     "id": "staff#91",
+     "jp": "死者の怨念が込められたワンド",
+     "en": "A wand imbued with the grudges of the dead.",
+     "bytes": 43
+    },
+    {
+     "id": "staff#148",
+     "jp": "清掃にも使える杖",
+     "en": "A staff that can also be used for cleaning.",
+     "bytes": 43
+    },
+    {
+     "id": "staff#45",
+     "jp": "戦闘用に処理が施されたセプター",
+     "en": "A scepter treated specifically for combat.",
+     "bytes": 42
+    },
+    {
+     "id": "staff#93",
+     "jp": "魔法を使う者のロッド",
+     "en": "A rod belonging to one who commands magic.",
+     "bytes": 42
+    },
+    {
+     "id": "staff#61",
+     "jp": "重い一撃を放つ事が出来るメイス",
+     "en": "A mace capable of delivering heavy blows.",
+     "bytes": 41
+    },
+    {
+     "id": "staff#1",
+     "jp": "両手で持つ様に出来た杖",
+     "en": "A staff made to be held with both hands.",
+     "bytes": 40
+    },
+    {
+     "id": "staff#15",
+     "jp": "聖者が使っていたとされるロッド",
+     "en": "A rod said to have been used by a saint.",
+     "bytes": 40
+    },
+    {
+     "id": "staff#41",
+     "jp": "戦闘用に処理が施された杖",
+     "en": "A staff treated specifically for combat.",
+     "bytes": 40
+    },
+    {
+     "id": "staff#85",
+     "jp": "戦時中に兵士に支給されたセプター",
+     "en": "A scepter issued to soldiers in wartime.",
+     "bytes": 40
+    },
+    {
+     "id": "staff#140",
+     "jp": "先端に宝玉を飾り付けた杖",
+     "en": "A staff adorned with a jewel at its tip.",
+     "bytes": 40
+    },
+    {
+     "id": "staff#142",
+     "jp": "自らを飲み込む大蛇の杖",
+     "en": "A staff of the serpent devouring itself.",
+     "bytes": 40
+    },
+    {
+     "id": "staff#81",
+     "jp": "戦時中に兵士に支給された杖",
+     "en": "A staff issued to soldiers in wartime.",
+     "bytes": 38
+    },
+    {
+     "id": "staff#25",
+     "jp": "修行僧が愛用する錫杖",
+     "en": "A khakkhara favored by ascetic monks.",
+     "bytes": 37
+    },
+    {
+     "id": "staff#105",
+     "jp": "高僧が愛用する錫杖",
+     "en": "A khakkhara favored by high priests.",
+     "bytes": 36
+    },
+    {
+     "id": "staff#11",
+     "jp": "呪術用の棒",
+     "en": "A rod used for shamanistic rituals.",
+     "bytes": 35
+    },
+    {
+     "id": "staff#13",
+     "jp": "魔力を宿らせた杖",
+     "en": "A staff imbued with magical power.",
+     "bytes": 34
+    },
+    {
+     "id": "staff#57",
+     "jp": "シンメトリカルな形状の杖",
+     "en": "A staff with a symmetrical design.",
+     "bytes": 34
+    },
+    {
+     "id": "staff#9",
+     "jp": "魔力を宿らせた棒",
+     "en": "A rod imbued with magical power.",
+     "bytes": 32
+    },
+    {
+     "id": "staff#49",
+     "jp": "魔力を吹き込んだワンド",
+     "en": "A wand infused with magic power.",
+     "bytes": 32
+    },
+    {
+     "id": "staff#70",
+     "jp": "星のあしらわれたかわいい杖",
+     "en": "A cute staff adorned with stars.",
+     "bytes": 32
+    },
+    {
+     "id": "staff#79",
+     "jp": "より強化されたサークルロッド",
+     "en": "A further reinforced circle rod.",
+     "bytes": 32
+    },
+    {
+     "id": "staff#89",
+     "jp": "神秘的な雰囲気を持つワンド",
+     "en": "A wand carrying a mystical aura.",
+     "bytes": 32
+    },
+    {
+     "id": "staff#64",
+     "jp": "僧侶が愛用する錫杖",
+     "en": "A khakkhara favored by priests.",
+     "bytes": 31
+    },
+    {
+     "id": "staff#51",
+     "jp": "権力者が使っていた棒",
+     "en": "A rod used by people of power.",
+     "bytes": 30
+    },
+    {
+     "id": "staff#87",
+     "jp": "ミスリル製のセプター",
+     "en": "A scepter made of mithril.",
+     "bytes": 26
+    },
+    {
+     "id": "staff#47",
+     "jp": "銀製のセプター",
+     "en": "A scepter made of silver.",
+     "bytes": 25
+    },
+    {
+     "id": "staff#23",
+     "jp": "修行僧の錫杖",
+     "en": "Ascetic Monk's Khakkhara",
+     "bytes": 24
+    },
+    {
+     "id": "staff#109",
+     "jp": "ミスリル製のスタッフ",
+     "en": "A staff made of mithril.",
+     "bytes": 24
+    },
+    {
+     "id": "staff#7",
+     "jp": "鉄製の王笏",
+     "en": "A scepter made of iron.",
+     "bytes": 23
+    },
+    {
+     "id": "staff#68",
+     "jp": "銀製のスタッフ",
+     "en": "A staff made of silver.",
+     "bytes": 23
+    },
+    {
+     "id": "staff#103",
+     "jp": "高僧の錫杖",
+     "en": "High Priest's Khakkhara",
+     "bytes": 23
+    },
+    {
+     "id": "staff#72",
+     "jp": "ミスリル製のロッド",
+     "en": "A rod made of mithril.",
+     "bytes": 22
+    },
+    {
+     "id": "staff#172",
+     "jp": "慈愛の杖Ｘ",
+     "en": "Staff of Benevolence X",
+     "bytes": 22
+    },
+    {
+     "id": "staff#5",
+     "jp": "儀礼用のセプター",
+     "en": "A ceremonial scepter.",
+     "bytes": 21
+    },
+    {
+     "id": "staff#29",
+     "jp": "鉄製のスタッフ",
+     "en": "A staff made of iron.",
+     "bytes": 21
+    },
+    {
+     "id": "staff#33",
+     "jp": "銀製のロッド",
+     "en": "A rod made of silver.",
+     "bytes": 21
+    },
+    {
+     "id": "staff#155",
+     "jp": "天才ハロルドの杖",
+     "en": "Genius Harold's Staff",
+     "bytes": 21
+    },
+    {
+     "id": "staff#160",
+     "jp": "慈愛の杖",
+     "en": "Staff of Benevolence",
+     "bytes": 20
+    },
+    {
+     "id": "staff#31",
+     "jp": "気分はマジカル☆",
+     "en": "Feeling so magical!",
+     "bytes": 19
+    },
+    {
+     "id": "staff#53",
+     "jp": "鉄製のロッド",
+     "en": "A rod made of iron.",
+     "bytes": 19
+    },
+    {
+     "id": "staff#55",
+     "jp": "聖別されたロッド",
+     "en": "A consecrated rod.",
+     "bytes": 18
+    },
+    {
+     "id": "staff#62",
+     "jp": "僧侶の錫杖",
+     "en": "Priest's Khakkhara",
+     "bytes": 18
+    },
+    {
+     "id": "staff#77",
+     "jp": "サークルロッド改",
+     "en": "Circle Rod Custom",
+     "bytes": 17
+    },
+    {
+     "id": "staff#175",
+     "jp": "最大値（杖）",
+     "en": "Max Value (Staff)",
+     "bytes": 17
+    },
+    {
+     "id": "staff#112",
+     "jp": "ＢＣロッド",
+     "en": "Blue Crystal Rod",
+     "bytes": 16
+    },
+    {
+     "id": "staff#127",
+     "jp": "司教の王笏",
+     "en": "Bishop's Scepter",
+     "bytes": 16
+    },
+    {
+     "id": "staff#130",
+     "jp": "魔導師の杖",
+     "en": "Sorcerer's Staff",
+     "bytes": 16
+    },
+    {
+     "id": "staff#2",
+     "jp": "スターライトスタッフ",
+     "en": "Starlight Staff",
+     "bytes": 15
+    },
+    {
+     "id": "staff#16",
+     "jp": "両鉄杖",
+     "en": "Dual Iron Staff",
+     "bytes": 15
+    },
+    {
+     "id": "staff#34",
+     "jp": "パワーストーンロッド",
+     "en": "Power Stone Rod",
+     "bytes": 15
+    },
+    {
+     "id": "staff#42",
+     "jp": "ルナライトスタッフ",
+     "en": "Lunalight Staff",
+     "bytes": 15
+    },
+    {
+     "id": "staff#82",
+     "jp": "ソルライトスタッフ",
+     "en": "Sol-Light Staff",
+     "bytes": 15
+    },
+    {
+     "id": "staff#86",
+     "jp": "ミスリルセプター",
+     "en": "Mithril Scepter",
+     "bytes": 15
+    },
+    {
+     "id": "staff#94",
+     "jp": "ＲＣロッド",
+     "en": "Red Crystal Rod",
+     "bytes": 15
+    },
+    {
+     "id": "staff#19",
+     "jp": "スローネセプター",
+     "en": "Throne Scepter",
+     "bytes": 14
+    },
+    {
+     "id": "staff#44",
+     "jp": "バトルセプター",
+     "en": "Battle Scepter",
+     "bytes": 14
+    },
+    {
+     "id": "staff#46",
+     "jp": "シルバーセプター",
+     "en": "Silver Scepter",
+     "bytes": 14
+    },
+    {
+     "id": "staff#58",
+     "jp": "ケルブセプター",
+     "en": "Cherub Scepter",
+     "bytes": 14
+    },
+    {
+     "id": "staff#99",
+     "jp": "セラフセプター",
+     "en": "Seraph Scepter",
+     "bytes": 14
+    },
+    {
+     "id": "staff#133",
+     "jp": "司祭の杖",
+     "en": "Priest's Staff",
+     "bytes": 14
+    },
+    {
+     "id": "staff#136",
+     "jp": "教皇の王笏",
+     "en": "Pope's Scepter",
+     "bytes": 14
+    },
+    {
+     "id": "staff#167",
+     "jp": "フラワーオブライフ",
+     "en": "Flower of Life",
+     "bytes": 14
+    },
+    {
+     "id": "staff#73",
+     "jp": "パワーオーブロッド",
+     "en": "Power Orb Rod",
+     "bytes": 13
+    },
+    {
+     "id": "staff#108",
+     "jp": "ミスリルスタッフ",
+     "en": "Mithril Staff",
+     "bytes": 13
+    },
+    {
+     "id": "staff#110",
+     "jp": "シューティングスター",
+     "en": "Shooting Star",
+     "bytes": 13
+    },
+    {
+     "id": "staff#115",
+     "jp": "マジックオーブロッド",
+     "en": "Magic Orb Rod",
+     "bytes": 13
+    },
+    {
+     "id": "staff#143",
+     "jp": "ハヌマーンシャフト",
+     "en": "Hanuman Shaft",
+     "bytes": 13
+    },
+    {
+     "id": "staff#153",
+     "jp": "リリックセプター",
+     "en": "Lyric Scepter",
+     "bytes": 13
+    },
+    {
+     "id": "staff#165",
+     "jp": "ジアースロッド",
+     "en": "The Earth Rod",
+     "bytes": 13
+    },
+    {
+     "id": "staff#6",
+     "jp": "アイアンセプター",
+     "en": "Iron Scepter",
+     "bytes": 12
+    },
+    {
+     "id": "staff#40",
+     "jp": "バトルスタッフ",
+     "en": "Battle Staff",
+     "bytes": 12
+    },
+    {
+     "id": "staff#56",
+     "jp": "シンメトリーロッド",
+     "en": "Symmetry Rod",
+     "bytes": 12
+    },
+    {
+     "id": "staff#65",
+     "jp": "ファントムワンド",
+     "en": "Phantom Wand",
+     "bytes": 12
+    },
+    {
+     "id": "staff#67",
+     "jp": "シルバースタッフ",
+     "en": "Silver Staff",
+     "bytes": 12
+    },
+    {
+     "id": "staff#121",
+     "jp": "魔術師の杖",
+     "en": "Mage's Staff",
+     "bytes": 12
+    },
+    {
+     "id": "staff#124",
+     "jp": "修道師の杖",
+     "en": "Monk's Staff",
+     "bytes": 12
+    },
+    {
+     "id": "staff#10",
+     "jp": "シャーマンワンド",
+     "en": "Shaman Wand",
+     "bytes": 11
+    },
+    {
+     "id": "staff#71",
+     "jp": "ミスリルロッド",
+     "en": "Mithril Rod",
+     "bytes": 11
+    },
+    {
+     "id": "staff#84",
+     "jp": "ウォーセプター",
+     "en": "War Scepter",
+     "bytes": 11
+    },
+    {
+     "id": "staff#88",
+     "jp": "ミスティックワンド",
+     "en": "Mystic Wand",
+     "bytes": 11
+    },
+    {
+     "id": "staff#92",
+     "jp": "ワーロックロッド",
+     "en": "Warlock Rod",
+     "bytes": 11
+    },
+    {
+     "id": "staff#149",
+     "jp": "フォニックメイス",
+     "en": "Phonic Mace",
+     "bytes": 11
+    },
+    {
+     "id": "staff#26",
+     "jp": "グールワンド",
+     "en": "Ghoul Wand",
+     "bytes": 10
+    },
+    {
+     "id": "staff#28",
+     "jp": "アイアンスタッフ",
+     "en": "Iron Staff",
+     "bytes": 10
+    },
+    {
+     "id": "staff#32",
+     "jp": "シルバーロッド",
+     "en": "Silver Rod",
+     "bytes": 10
+    },
+    {
+     "id": "staff#38",
+     "jp": "サークルロッド",
+     "en": "Circle Rod",
+     "bytes": 10
+    },
+    {
+     "id": "staff#48",
+     "jp": "マジックワンド",
+     "en": "Magic Wand",
+     "bytes": 10
+    },
+    {
+     "id": "staff#60",
+     "jp": "ヘビーメイス",
+     "en": "Heavy Mace",
+     "bytes": 10
+    },
+    {
+     "id": "staff#90",
+     "jp": "グレイブワンド",
+     "en": "Grave Wand",
+     "bytes": 10
+    },
+    {
+     "id": "staff#97",
+     "jp": "ジェミニロッド",
+     "en": "Gemini Rod",
+     "bytes": 10
+    },
+    {
+     "id": "staff#101",
+     "jp": "グランドメイス",
+     "en": "Grand Mace",
+     "bytes": 10
+    },
+    {
+     "id": "staff#106",
+     "jp": "ゴーストワンド",
+     "en": "Ghost Wand",
+     "bytes": 10
+    },
+    {
+     "id": "staff#139",
+     "jp": "ゲイルスタッフ",
+     "en": "Gale Staff",
+     "bytes": 10
+    },
+    {
+     "id": "staff#147",
+     "jp": "デッキブラシ",
+     "en": "Deck Brush",
+     "bytes": 10
+    },
+    {
+     "id": "staff#151",
+     "jp": "フォニックロッド",
+     "en": "Phonic Rod",
+     "bytes": 10
+    },
+    {
+     "id": "staff#163",
+     "jp": "ベルナテッタ",
+     "en": "Bernadette",
+     "bytes": 10
+    },
+    {
+     "id": "staff#14",
+     "jp": "セイントロッド",
+     "en": "Saint Rod",
+     "bytes": 9
+    },
+    {
+     "id": "staff#36",
+     "jp": "フォースロッド",
+     "en": "Force Rod",
+     "bytes": 9
+    },
+    {
+     "id": "staff#50",
+     "jp": "ロードワンド",
+     "en": "Lord Wand",
+     "bytes": 9
+    },
+    {
+     "id": "staff#80",
+     "jp": "ウォースタッフ",
+     "en": "War Staff",
+     "bytes": 9
+    },
+    {
+     "id": "staff#141",
+     "jp": "ウロボロス",
+     "en": "Ouroboros",
+     "bytes": 9
+    },
+    {
+     "id": "staff#158",
+     "jp": "ルビーワンド",
+     "en": "Ruby Wand",
+     "bytes": 9
+    },
+    {
+     "id": "staff#169",
+     "jp": "クィーンロッド",
+     "en": "Queen Rod",
+     "bytes": 9
+    },
+    {
+     "id": "staff#171",
+     "jp": "トライアルロッド",
+     "en": "Trial Rod",
+     "bytes": 9
+    },
+    {
+     "id": "staff#30",
+     "jp": "キュートロッド",
+     "en": "Cute Rod",
+     "bytes": 8
+    },
+    {
+     "id": "staff#52",
+     "jp": "アイアンロッド",
+     "en": "Iron Rod",
+     "bytes": 8
+    },
+    {
+     "id": "staff#54",
+     "jp": "ホーリーロッド",
+     "en": "Holy Rod",
+     "bytes": 8
+    },
+    {
+     "id": "staff#69",
+     "jp": "スターロッド",
+     "en": "Star Rod",
+     "bytes": 8
+    },
+    {
+     "id": "staff#117",
+     "jp": "ルビーロッド",
+     "en": "Ruby Rod",
+     "bytes": 8
+    },
+    {
+     "id": "staff#119",
+     "jp": "プラネテス",
+     "en": "Planetes",
+     "bytes": 8
+    },
+    {
+     "id": "staff#145",
+     "jp": "ケリュケイオン",
+     "en": "Caduceus",
+     "bytes": 8
+    },
+    {
+     "id": "staff#4",
+     "jp": "セプター",
+     "en": "Scepter",
+     "bytes": 7
+    },
+    {
+     "id": "staff#75",
+     "jp": "ジェムロッド",
+     "en": "Gem Rod",
+     "bytes": 7
+    },
+    {
+     "id": "staff#0",
+     "jp": "スタッフ",
+     "en": "Staff",
+     "bytes": 5
+    },
+    {
+     "id": "staff#8",
+     "jp": "ワンド",
+     "en": "Wand",
+     "bytes": 4
+    },
+    {
+     "id": "staff#21",
+     "jp": "メイス",
+     "en": "Mace",
+     "bytes": 4
+    },
+    {
+     "id": "staff#12",
+     "jp": "ロッド",
+     "en": "Rod",
+     "bytes": 3
+    }
+   ]
+  },
+  "consumable": {
+   "arena_bytes": 857,
+   "pool_atual_bytes": 1031,
+   "folga_atual": -174,
+   "meta_bytes_a_cortar": 242,
+   "itens": [
+    {
+     "id": "consumable#9",
+     "jp": "アップルとオレンジとグミの元で作られた、ゼリー状の薬",
+     "en": "A jelly-like medicine made from an apple, an orange, and a gummy base.",
+     "bytes": 70
+    },
+    {
+     "id": "consumable#15",
+     "jp": "大量のグミ素材から作られた、ゼリー状の薬",
+     "en": "A jelly-like medicine made from a large quantity of gummy ingredients.",
+     "bytes": 70
+    },
+    {
+     "id": "consumable#25",
+     "jp": "HP、TP、状態異常を全て回復する万能薬",
+     "en": "A panacea that completely restores HP, TP, and cures status ailments.",
+     "bytes": 69
+    },
+    {
+     "id": "consumable#21",
+     "jp": "状態異常と状態変化を回復させる、液体薬品",
+     "en": "A liquid medicine that cures status ailments and stat changes.",
+     "bytes": 62
+    },
+    {
+     "id": "consumable#7",
+     "jp": "パインとグミの元で作られた、ゼリー状の薬",
+     "en": "A jelly-like medicine made from a pineapple and a gummy base.",
+     "bytes": 61
+    },
+    {
+     "id": "consumable#3",
+     "jp": "オレンジとグミの元で作られた、ゼリー状の薬",
+     "en": "A jelly-like medicine made from an orange and a gummy base.",
+     "bytes": 59
+    },
+    {
+     "id": "consumable#13",
+     "jp": "コラ・ナッツとグミの元で作られた、ゼリー状の薬",
+     "en": "A jelly-like medicine made from cola nuts and a gummy base.",
+     "bytes": 59
+    },
+    {
+     "id": "consumable#1",
+     "jp": "アップルとグミの元で作られた、ゼリー状の薬",
+     "en": "A jelly-like medicine made from an apple and a gummy base.",
+     "bytes": 58
+    },
+    {
+     "id": "consumable#5",
+     "jp": "レモンとグミの元で作られた、ゼリー状の薬",
+     "en": "A jelly-like medicine made from a lemon and a gummy base.",
+     "bytes": 57
+    },
+    {
+     "id": "consumable#11",
+     "jp": "何もかもが奇跡的な、ゼリー状の薬",
+     "en": "A jelly-like medicine that is miraculous in every way.",
+     "bytes": 54
+    },
+    {
+     "id": "consumable#29",
+     "jp": "ティトレイ自慢のキノコ料理の材料",
+     "en": "Ingredients for Tytree's prized mushroom dish.",
+     "bytes": 46
+    },
+    {
+     "id": "consumable#17",
+     "jp": "状態異常を回復させる、液体薬品",
+     "en": "A liquid medicine that cures status ailments.",
+     "bytes": 45
+    },
+    {
+     "id": "consumable#23",
+     "jp": "戦闘不能を回復させる、液体薬品",
+     "en": "A liquid medicine that revives fallen allies.",
+     "bytes": 45
+    },
+    {
+     "id": "consumable#19",
+     "jp": "状態変化を回復させる、液体薬品",
+     "en": "A liquid medicine that cures stat changes.",
+     "bytes": 42
+    },
+    {
+     "id": "consumable#27",
+     "jp": "敵のステータスを解析",
+     "en": "Analyzes an enemy's stats.",
+     "bytes": 26
+    },
+    {
+     "id": "consumable#28",
+     "jp": "ハナアブラダケ",
+     "en": "Oily Flower Mushroom",
+     "bytes": 20
+    },
+    {
+     "id": "consumable#20",
+     "jp": "パナシーアボトル",
+     "en": "Panacea Bottle",
+     "bytes": 14
+    },
+    {
+     "id": "consumable#10",
+     "jp": "ミラクルグミ",
+     "en": "Miracle Gummy",
+     "bytes": 13
+    },
+    {
+     "id": "consumable#2",
+     "jp": "オレンジグミ",
+     "en": "Orange Gummy",
+     "bytes": 12
+    },
+    {
+     "id": "consumable#18",
+     "jp": "ディネイボトル",
+     "en": "Dinei Bottle",
+     "bytes": 12
+    },
+    {
+     "id": "consumable#0",
+     "jp": "アップルグミ",
+     "en": "Apple Gummy",
+     "bytes": 11
+    },
+    {
+     "id": "consumable#4",
+     "jp": "レモングミ",
+     "en": "Lemon Gummy",
+     "bytes": 11
+    },
+    {
+     "id": "consumable#16",
+     "jp": "キュアボトル",
+     "en": "Cure Bottle",
+     "bytes": 11
+    },
+    {
+     "id": "consumable#22",
+     "jp": "ライフボトル",
+     "en": "Life Bottle",
+     "bytes": 11
+    },
+    {
+     "id": "consumable#6",
+     "jp": "パイングミ",
+     "en": "Pine Gummy",
+     "bytes": 10
+    },
+    {
+     "id": "consumable#26",
+     "jp": "スペクタクルズ",
+     "en": "Spectacles",
+     "bytes": 10
+    },
+    {
+     "id": "consumable#8",
+     "jp": "ミックスグミ",
+     "en": "Mix Gummy",
+     "bytes": 9
+    },
+    {
+     "id": "consumable#12",
+     "jp": "スペシフィック",
+     "en": "Specific",
+     "bytes": 8
+    },
+    {
+     "id": "consumable#24",
+     "jp": "エリクシール",
+     "en": "Elixir",
+     "bytes": 6
+    },
+    {
+     "id": "consumable#14",
+     "jp": "トリート",
+     "en": "Treat",
+     "bytes": 5
+    }
+   ]
+  },
+  "craft_material": {
+   "arena_bytes": 997,
+   "pool_atual_bytes": 1058,
+   "folga_atual": -61,
+   "meta_bytes_a_cortar": 140,
+   "itens": [
+    {
+     "id": "craft_material#23",
+     "jp": "イチゴとスイカとメロンは野菜です",
+     "en": "Strawberries, watermelons, and melons are actually vegetables.",
+     "bytes": 62
+    },
+    {
+     "id": "craft_material#11",
+     "jp": "シーとは言うが、川でとれてもシーフード",
+     "en": "They call it sea-food, but it is seafood even from a river.",
+     "bytes": 59
+    },
+    {
+     "id": "craft_material#38",
+     "jp": "想像するとヨダレが出る果物",
+     "en": "A fruit that makes your mouth water just imagining it.",
+     "bytes": 54
+    },
+    {
+     "id": "craft_material#5",
+     "jp": "これだけじゃ胃袋が寂しい…",
+     "en": "Eating only this leaves the stomach feeling lonely...",
+     "bytes": 53
+    },
+    {
+     "id": "craft_material#14",
+     "jp": "何の「卵」かは知らないが、とにかく「玉子」",
+     "en": "No idea what kind of egg it is, but an egg is an egg.",
+     "bytes": 53
+    },
+    {
+     "id": "craft_material#29",
+     "jp": "小粒でもぴりりと高い香辛料",
+     "en": "A spice that packs a punch, despite its small grains.",
+     "bytes": 53
+    },
+    {
+     "id": "craft_material#8",
+     "jp": "のびのびと育った…であろう、何かの肉",
+     "en": "Meat of some kind that... probably grew up carefree.",
+     "bytes": 52
+    },
+    {
+     "id": "craft_material#36",
+     "jp": "果汁が目に入ると沁みる果物",
+     "en": "A fruit whose juice stings if it gets in your eyes.",
+     "bytes": 51
+    },
+    {
+     "id": "craft_material#47",
+     "jp": "生命力を増大させるといわれる奇跡の実",
+     "en": "A miraculous fruit said to increase life force.",
+     "bytes": 47
+    },
+    {
+     "id": "craft_material#53",
+     "jp": "災厄を振り払うといわれる奇跡の実",
+     "en": "A miraculous fruit said to ward off calamity.",
+     "bytes": 45
+    },
+    {
+     "id": "craft_material#50",
+     "jp": "災厄を呼び起こすといわれる奇跡の実",
+     "en": "A miraculous fruit said to invite calamity.",
+     "bytes": 43
+    },
+    {
+     "id": "craft_material#32",
+     "jp": "グミを作る元",
+     "en": "Base ingredient used to make gummies.",
+     "bytes": 37
+    },
+    {
+     "id": "craft_material#2",
+     "jp": "主食なのに味は脇役",
+     "en": "A staple food, yet subtle in flavor.",
+     "bytes": 36
+    },
+    {
+     "id": "craft_material#17",
+     "jp": "母性愛で分泌された汁",
+     "en": "Fluid secreted out of maternal love.",
+     "bytes": 36
+    },
+    {
+     "id": "craft_material#20",
+     "jp": "これが無い料理は味が無い",
+     "en": "Without this, cooking has no flavor.",
+     "bytes": 36
+    },
+    {
+     "id": "craft_material#34",
+     "jp": "煮てよし、焼いてよし、生でもよしの果物",
+     "en": "A fruit good stewed, baked, or raw.",
+     "bytes": 35
+    },
+    {
+     "id": "craft_material#44",
+     "jp": "ボトル類を作る元",
+     "en": "Base material used to make bottles.",
+     "bytes": 35
+    },
+    {
+     "id": "craft_material#26",
+     "jp": "人生に必要なもの",
+     "en": "Something essential in life.",
+     "bytes": 28
+    },
+    {
+     "id": "craft_material#40",
+     "jp": "ちくちくと痛い果物",
+     "en": "A prickling, prickly fruit.",
+     "bytes": 27
+    },
+    {
+     "id": "craft_material#42",
+     "jp": "コーラの木の実",
+     "en": "Nut from a cola tree.",
+     "bytes": 21
+    },
+    {
+     "id": "craft_material#48",
+     "jp": "災厄の実",
+     "en": "Fruit of Calamity",
+     "bytes": 17
+    },
+    {
+     "id": "craft_material#45",
+     "jp": "生命の実",
+     "en": "Fruit of Life",
+     "bytes": 13
+    },
+    {
+     "id": "craft_material#27",
+     "jp": "レアスパイス",
+     "en": "Rare Spice",
+     "bytes": 10
+    },
+    {
+     "id": "craft_material#30",
+     "jp": "グミの元",
+     "en": "Gummy Base",
+     "bytes": 10
+    },
+    {
+     "id": "craft_material#51",
+     "jp": "聖なる実",
+     "en": "Holy Fruit",
+     "bytes": 10
+    },
+    {
+     "id": "craft_material#3",
+     "jp": "ベジタブル",
+     "en": "Vegetable",
+     "bytes": 9
+    },
+    {
+     "id": "craft_material#18",
+     "jp": "調味料",
+     "en": "Seasoning",
+     "bytes": 9
+    },
+    {
+     "id": "craft_material#39",
+     "jp": "パイン",
+     "en": "Pineapple",
+     "bytes": 9
+    },
+    {
+     "id": "craft_material#41",
+     "jp": "コラ・ナッツ",
+     "en": "Cola Nut",
+     "bytes": 8
+    },
+    {
+     "id": "craft_material#9",
+     "jp": "シーフード",
+     "en": "Seafood",
+     "bytes": 7
+    },
+    {
+     "id": "craft_material#35",
+     "jp": "オレンジ",
+     "en": "Orange",
+     "bytes": 6
+    },
+    {
+     "id": "craft_material#43",
+     "jp": "ボトル",
+     "en": "Bottle",
+     "bytes": 6
+    },
+    {
+     "id": "craft_material#0",
+     "jp": "こくもつ",
+     "en": "Grain",
+     "bytes": 5
+    },
+    {
+     "id": "craft_material#21",
+     "jp": "フルーツ",
+     "en": "Fruit",
+     "bytes": 5
+    },
+    {
+     "id": "craft_material#24",
+     "jp": "スパイス",
+     "en": "Spice",
+     "bytes": 5
+    },
+    {
+     "id": "craft_material#33",
+     "jp": "アップル",
+     "en": "Apple",
+     "bytes": 5
+    },
+    {
+     "id": "craft_material#37",
+     "jp": "レモン",
+     "en": "Lemon",
+     "bytes": 5
+    },
+    {
+     "id": "craft_material#6",
+     "jp": "ミート",
+     "en": "Meat",
+     "bytes": 4
+    },
+    {
+     "id": "craft_material#15",
+     "jp": "ミルク",
+     "en": "Milk",
+     "bytes": 4
+    },
+    {
+     "id": "craft_material#12",
+     "jp": "たまご",
+     "en": "Egg",
+     "bytes": 3
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,196 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev26_010.scr:0	mev26_010.scr	0	ロックス	Rocks	personagem	CRLF x1	お帰りなさいませ、お嬢様。\n資材運搬、ご苦労様です	Welcome home, Milady.\nThank you for hauling the materials.	
+mev26_010.scr:1	mev26_010.scr	1	ロックス	Rocks	personagem	CRLF x1	おかげで五つ目のオルタ・ビレッジが\n完成したそうじゃないですか	Thanks to that, I hear the fifth\nAulter Village has been completed.	
+mev26_010.scr:2	mev26_010.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	うん、みんな頑張ってたよ。\nたくさんの人が集まって、\nもう村らしく動き始めてる	Yeah, everyone was working hard.\nSo many people gathered, and it's already\nstarting to run like a real village.	
+mev26_010.scr:3	mev26_010.scr	3	ロックス	Rocks	personagem	CRLF x1	エステル様や、ナタリア様の働きで\n世界中の国々も、まとまり始めていますし	Thanks to Lady Estelle and Lady Natalia,\nnations across the world begin to unite.	
+mev26_010.scr:4	mev26_010.scr	4	ロックス	Rocks	personagem	CRLF x1	どんどん、これから\nいい世の中になっていきますよ	From here on, the world is going to\nbecome better and better.	
+mev26_010.scr:5	mev26_010.scr	5	カノンノ	Kanonno Grassvalley	personagem		うん	Yeah.	
+mev26_010.scr:6	mev26_010.scr	6	カノンノ	Kanonno Grassvalley	personagem		ロックス…、あのさ…	Rocks... um...	
+mev26_010.scr:7	mev26_010.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	彼…、\nまだ戻って来ていないのかな？	He... hasn't come back\nyet, has he?	
+mev26_010.scr:8	mev26_010.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	彼女…、\nまだ戻って来ていないのかな？	She... hasn't come back\nyet, has she?	
+mev26_010.scr:9	mev26_010.scr	9	ロックス	Rocks	personagem	CRLF x1	ええ。\nあの方は、まだ…	Indeed.\nThat person has not, yet...	
+mev26_010.scr:10	mev26_010.scr	10	ロックス	Rocks	personagem	CRLF x1	でも、戻って来てくれますよ。\nきっと…	However, they will return.\nI am certain of it...	
+mev26_010.scr:11	mev26_010.scr	11	カノンノ	Kanonno Grassvalley	personagem		うん…、そうだね	Yeah... you're right.	
+mev26_010.scr:12	mev26_010.scr	12	ロックス	Rocks	personagem	CRLF x2	はわわわわわわわ…！！\nヒッ…、ヒト…！？\nヒトがぁぁぁぁぁぁ…！！	H-H-Hawaaaaah...!!\nA-A person...?!\nA persoooooon...!!	
+mev26_010.scr:13	mev26_010.scr	13	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	○○！！\nあなたなのね！！	○○!!\nIt's really you!!	
+mev26_010.scr:14	mev26_010.scr	14	カノンノ	Kanonno Grassvalley	personagem		戻って来てくれたのね！！	You came back to us!!	
+mev26_010.scr:15	mev26_010.scr	15	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	お帰りなさい！！\nずっと、信じてた。\n信じてたよ！	Welcome home!!\nI always believed.\nI always believed in you!	
+mev26_015.scr:0	mev26_015.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	…！！\n○○…	...!!\n○○...	
+mev26_015.scr:1	mev26_015.scr	1	アンジュ	Ange Serena	personagem		お帰り……	Welcome home......	
+mev26_015.scr:2	mev26_015.scr	2	アンジュ	Ange Serena	personagem		戻ってきてくれたの…	You came back...	
+mev26_015.scr:3	mev26_015.scr	3	ニアタ	Niata Monad	personagem		ようやく戻ったか、ディセンダー	You have returned at last, Descender.	
+mev26_015.scr:4	mev26_015.scr	4	ニアタ	Niata Monad	personagem	CRLF x1	そなたの描いた未来、\nまた共に目にする事が出来るな	We can witness once again\nthe future you envisioned together.	
+mev26_015.scr:5	mev26_015.scr	5	ロックス	Rocks	personagem	CRLF x2	ほら。\n皆さん、○○様の帰りを、\nずっと心待ちにしていたんですよ	See?\nEveryone has eagerly awaited\n○○'s return all this time.	
+mev26_015.scr:6	mev26_015.scr	6	ロックス	Rocks	personagem	CRLF x1	僕も、○○様の分の\n食事をいつも作り過ぎて…	I kept cooking too much food,\nmaking portions for ○○ as well...	
+mev26_015.scr:7	mev26_015.scr	7	ロックス	Rocks	personagem	CRLF x1	それをアンジュさんが、\nいつも食べてくれていたんですけど	Though Ange would always eat them\nall up for me instead.	
+mev26_015.scr:8	mev26_015.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	そう？\n美容院に行ってきたばかりだから\nそう感じるのかも	Is that so?\nI just came back from the salon,\nso maybe that's why it looks that way.	
+mev26_015.scr:9	mev26_015.scr	9	ロックス	Rocks	personagem	CRLF x2	いえいえ。\nちょっと、ぽっちゃりして\nきたんですよね	No, no.\nYou've grown a bit plumper,\nyou see.	
+mev26_015.scr:10	mev26_015.scr	10	ロックス	Rocks	personagem	CRLF x2	ホント、アンジュ様は\nぽっちゃりまる〜く、\n可愛くなられたでしょう	Truly, Lady Ange has become\ncharmingly round and plump and cute,\nhasn't she?	
+mev26_015.scr:11	mev26_015.scr	11	カノンノ	Kanonno Grassvalley	personagem		（ロックス、それ言っちゃ駄目…）	(Rocks, don't say that...)	
+mev26_015.scr:12	mev26_015.scr	12	ロックス	Rocks	personagem	CRLF x2	ホント、お嬢様もアンジュ様くらい\n食べてぽっちゃりして欲しいのに、\n小食なもので、いつまで経ってもスリムで…	I wish Milady would eat as much as\nLady Ange, but being a light eater,\nshe remains ever so slim...	
+mev26_015.scr:13	mev26_015.scr	13	アンジュ	Ange Serena	personagem		さーてっ、○○！！	Now theeeen, ○○!!	
+mev26_015.scr:14	mev26_015.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	あなたの為に、仕事もた〜っぷり\n用意していたのよね	I've prepared looots of work\nfor you, you know!	
+mev26_015.scr:15	mev26_015.scr	15	アンジュ	Ange Serena	personagem	CRLF x1	すぐに取り掛かってもらっても構わないから、\nしっかり稼いでちょうだい！	I don't mind if you dive right in,\nso go earn plenty for us!	
+mev26_015.scr:16	mev26_015.scr	16	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	（あぁ…。\n　帰ってきてすぐなのに、\n　○○に火の粉がかかった…）	(Aah...\nYou just returned, and already the sparks\nfell onto ○○...)	
+mev26_015.scr:17	mev26_015.scr	17	アンジュ	Ange Serena	personagem	CRLF x2	○○。\nそこに座ってくれる？\nこれからあなたに「人の道」を説くから	○○.\nWould you sit right there?\nI'll teach you about common decency.	
+mev26_015.scr:18	mev26_015.scr	18	アンジュ	Ange Serena	personagem	CRLF x2	…わたしのお話、わかったかしら！！\n寄付なしでお説教が聴けたんだから、\n感謝しなさい！	...Did you understand what I said?!\nYou got a free sermon with no donation,\nso be grateful!	
+mev26_015.scr:19	mev26_015.scr	19	アンジュ	Ange Serena	personagem	CRLF x1	あなたの為に、仕事もた〜っぷり\n用意していたの	I've prepared looots of work\nfor your sake.	
+mev26_015.scr:20	mev26_015.scr	20	アンジュ	Ange Serena	personagem		すぐに取り掛かってもらっても、構わないよ？	You can get right to work, you know?	
+mev26_015.scr:21	mev26_015.scr	21	アンジュ	Ange Serena	personagem	CRLF x1	しっかり稼いでもらうから、\nそのつもりでいてね！	We'll have you earn plenty,\nso be ready for it!	
+mev26_015.scr:22	mev26_015.scr	22	(opcao do jogador)	(opcao do jogador)	escolha		ただいま、と言う	Say 'I'm home'	
+mev26_015.scr:23	mev26_015.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		仕事はあるかな、と言う	Ask if there is any work	
+mev26_015.scr:24	mev26_015.scr	24	(opcao do jogador)	(opcao do jogador)	escolha		アンジュに、雰囲気変わった？と尋ねる	Ask Ange if her look changed	
+mev26_015.scr:25	mev26_015.scr	25	(opcao do jogador)	(opcao do jogador)	escolha		アンジュに太った？と尋ねる	Ask Ange if she gained weight	
+mev26_020.scr:0	mev26_020.scr	0	ニアタ	Niata Monad	personagem	CRLF x1	ディセンダーか。\n今、我々の本体と交信しているところだ	Descender, is it?\nI am currently contacting our true body.	
+mev26_020.scr:1	mev26_020.scr	1	ニアタ	Niata Monad	personagem	CRLF x1	前にも言ったが、我々の本体は\nここではない異世界にある	As mentioned before, our true body lies\nin a world different from this one.	
+mev26_020.scr:2	mev26_020.scr	2	ニアタ	Niata Monad	personagem		いいや、そんな事はないさ	No, that is not so at all.	
+mev26_020.scr:3	mev26_020.scr	3	ニアタ	Niata Monad	personagem	CRLF x1	我々の本体がある、異世界グラニデ。\n今、この世界との通路を繋いでいる	The alternate world of our core: Granide.\nI am opening a passage to this world now.	
+mev26_020.scr:4	mev26_020.scr	4	ニアタ	Niata Monad	personagem	CRLF x1	今までは、転送に必要なエネルギーが\n足りなかったが、ようやく叶う…	Until now, transfer energy was lacking,\nbut at last it has become possible...	
+mev26_020.scr:5	mev26_020.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ニアタがね、\n会わせたい人がいるんだって	Niata said there's someone\nhe wants us to meet.	
+mev26_020.scr:6	mev26_020.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	その人を、グラニデって世界から\n呼んでいるところなの	He's currently summoning that person\nfrom the world called Granide.	
+mev26_020.scr:7	mev26_020.scr	7	ニアタ	Niata Monad	personagem		…転送完了だ	...Transfer complete.	
+mev26_020.scr:8	mev26_020.scr	8	ニアタ	Niata Monad	personagem	CRLF x1	さあ、甲板まで行って\n出迎えよう	Come, let us head to the deck\nand welcome them.	
+mev26_020.scr:9	mev26_020.scr	9	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん！\n○○も、一緒に行こうよ！	Yeah!\n○○, come with us too!	
+mev26_020.scr:10	mev26_020.scr	10	(opcao do jogador)	(opcao do jogador)	escolha		本体と交信とは？と尋ねる	Ask about contacting his core body	
+mev26_020.scr:11	mev26_020.scr	11	(opcao do jogador)	(opcao do jogador)	escolha		邪魔をしたか、と尋ねる	Ask if you interrupted him	
+mev26_030.scr:0	mev26_030.scr	0	ニアタ	Niata Monad	personagem	CRLF x1	ようこそ、カノンノ。\nここが、ルミナシアだよ	Welcome, Kanonno.\nThis is Luminasia.	
+mev26_030.scr:1	mev26_030.scr	1	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	うん、向こうのニアタに聞いていた通り、\nステキな世界だね	Yeah, just as the Niata over there said,\nit's a wonderful world!	
+mev26_030.scr:2	mev26_030.scr	2	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	初めまして！\n私、カノンノ・イアハート。\nグラニデって世界から来ました	Nice to meet you!\nI'm Kanonno Earhart.\nI came from a world called Granide!	
+mev26_030.scr:3	mev26_030.scr	3	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	よろしく！！\nルミナシアのディセンダーさん。\nそれと、ルミナシアの…私かな？	Pleased to meet you!!\nDescender of Luminasia.\nAnd... Luminasia's me, I guess?	
+mev26_030.scr:4	mev26_030.scr	4	カノンノ・イアハート	Kanonno Earhart	personagem		…あ……	...Ah......	
+mev26_030.scr:5	mev26_030.scr	5	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	えっと、私がこの世界にくる事、\n前もって聞いてなかった…とか？	Um, did you not hear in advance\nthat I'd be visiting this world...?	
+mev26_030.scr:6	mev26_030.scr	6	ニアタ	Niata Monad	personagem	CRLF x1	ディセンダー、それにこちらのカノンノを\n驚かせようと思ってな	I wanted to surprise the Descender\nand our Kanonno here, you see.	
+mev26_030.scr:7	mev26_030.scr	7	ニアタ	Niata Monad	personagem		この子が来るのは秘密にしていたんだが	So I kept her arrival a secret.	
+mev26_030.scr:8	mev26_030.scr	8	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	向こうのニアタから聞いてたけど、\n姿もそっくりだし、名前も同じかぁ	I heard from the Niata back home, but\nwe look identical, with the same name!	
+mev26_030.scr:9	mev26_030.scr	9	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	そうだね、紛らわしいから\n私、ここではイアハートって名乗るよ	Right, to avoid confusion,\nI'll go by Earhart while I'm here!	
+mev26_030.scr:10	mev26_030.scr	10	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	えっ…、えっと…、イアハート…は、\nニアタが前に話してくれた、\n別の世界にもあるっていうアドリビトムの…	Uh... um... Earhart is... from the\nAd Libitum in another world that\nNiata told us about before...?	
+mev26_030.scr:11	mev26_030.scr	11	カノンノ・イアハート	Kanonno Earhart	personagem		うん、そうだよ！	Yup, that's right!	
+mev26_030.scr:12	mev26_030.scr	12	カノンノ・イアハート	Kanonno Earhart	personagem		会えて嬉しいな	I'm so happy to meet you!	
+mev26_030.scr:13	mev26_030.scr	13	カノンノ・イアハート	Kanonno Earhart	personagem		ねえ、みんなにも会っていいかな？	Hey, can I meet everyone else too?	
+mev26_030.scr:14	mev26_030.scr	14	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	ありがとう。\nフフ、楽しみだなぁ	Thank you.\nHehe, I can't wait!	
+mev26_030.scr:15	mev26_030.scr	15	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そうだね。\nみんなビックリするかも	Yeah.\nEveryone might be shocked, though!	
+mev26_030.scr:16	mev26_030.scr	16	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	じゃあ、まずはアンジュさんに\n会ってもらおう	All right, let's introduce you\nto Ange first!	
+mev26_030.scr:17	mev26_030.scr	17	カノンノ・イアハート	Kanonno Earhart	personagem		それじゃ、お邪魔しまーす♪	Pardon me coming in, then!	
+mev26_030.scr:18	mev26_030.scr	18	(opcao do jogador)	(opcao do jogador)	escolha		挨拶する	Greet her	
+mev26_030.scr:19	mev26_030.scr	19	(opcao do jogador)	(opcao do jogador)	escolha		呆然とする	Stand dumbfounded	
+mev26_030.scr:20	mev26_030.scr	20	(opcao do jogador)	(opcao do jogador)	escolha		うなずく	Nod in agreement	
+mev26_030.scr:21	mev26_030.scr	21	(opcao do jogador)	(opcao do jogador)	escolha		みんなが驚く、と笑う	Laugh saying everyone will be surprised	
+mev26_040.scr:0	mev26_040.scr	0	アンジュ	Ange Serena	personagem		ホント、双子みたい…	Truly, like twins...	
+mev26_040.scr:1	mev26_040.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	でも、血も繋がってないし、\nそもそも別の世界の…別人なのね…	Yet not related by blood, and different\npeople from entirely different worlds...	
+mev26_040.scr:2	mev26_040.scr	2	ニアタ	Niata Monad	personagem	CRLF x1	この子には、この世界にこれから\n必要になる物を届けてもらった	I had this girl deliver something that\nthis world will need from now on.	
+mev26_040.scr:3	mev26_040.scr	3	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	あっ、そうそう！\n設計書、ちゃんと持って来たよ	Oh, right, right!\nI brought the blueprints with me!	
+mev26_040.scr:4	mev26_040.scr	4	アンジュ	Ange Serena	personagem		設計書？	Blueprints?	
+mev26_040.scr:5	mev26_040.scr	5	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x2	うん、私の世界グラニデで今使われてる\nマナに変わる代替エネルギーの発生装置の\n設計書だよ	Yeah, blueprints for a generator of\nalternative energy to replace mana,\ncurrently used in my world, Granide!	
+mev26_040.scr:6	mev26_040.scr	6	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	この世界には必要だからって聞いて、\n持って来たんだ！	I heard this world needed it,\nso I brought it along!	
+mev26_040.scr:7	mev26_040.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	ジェイドさんが前に言ってた、\n星晶に頼らなくてもいい…あの…	What Jade spoke of before... the device\nto end reliance on Star Crystals...?	
+mev26_040.scr:8	mev26_040.scr	8	ニアタ	Niata Monad	personagem	CRLF x1	そう、これは内燃式半永久機関の\n設計書だ	Yes, these are the blueprints for a\ncombustion semi-perpetual engine.	
+mev26_040.scr:9	mev26_040.scr	9	ニアタ	Niata Monad	personagem	CRLF x1	グラニデでは、既に使用していて、\n全ての民に安全に供給する事が出来る	It is already in use in Granide,\nsafely supplying energy to all people.	
+mev26_040.scr:10	mev26_040.scr	10	ニアタ	Niata Monad	personagem	CRLF x2	…これが完成すれば、\nこの世界は、星晶の枯渇に苦しむ事も\n無くなるだろう	...Once this is completed,\nthis world will never again suffer\nfrom the depletion of Star Crystals.	
+mev26_040.scr:11	mev26_040.scr	11	アンジュ	Ange Serena	personagem		すごい…	Incredible...	
+mev26_040.scr:12	mev26_040.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	もう星晶を巡って国同士が争う必要もないし、\n採掘の為に人々が駆りだされる事もないし	Nations won't need to fight over crystals,\nand no one will be forced to mine them,	
+mev26_040.scr:13	mev26_040.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	何より…、採掘が止まれば、土地は\nマナを失わず、やせ衰える事もない…	best of all, without mining, the land\nwon't lose mana or wither away...	
+mev26_040.scr:14	mev26_040.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	これで、もっと多くの人を\n救う事が出来るのね！	With this, we can save\nso many more people!	
+mev26_040.scr:15	mev26_040.scr	15	ニアタ	Niata Monad	personagem	CRLF x2	前に、ジェイドが\n半永久機関の話をした際に\n思い付いてはいたのだがね	I had thought of it when Jade spoke\nof the semi-perpetual engine before,\nhowever,	
+mev26_040.scr:16	mev26_040.scr	16	ニアタ	Niata Monad	personagem	CRLF x2	その時の我々には、\nグラニデからの転送に必要な\nエネルギーが不足していたのだよ	at the time, we lacked the energy\nnecessary to transfer it\nfrom Granide, you see.	
+mev26_040.scr:17	mev26_040.scr	17	ニアタ	Niata Monad	personagem	CRLF x1	ところで、アンジュ。\n頼みがあるのだが…	By the way, Ange.\nI have a favor to ask...	
+mev26_040.scr:18	mev26_040.scr	18	アンジュ	Ange Serena	personagem		何かしら？	What might that be?	
+mev26_040.scr:19	mev26_040.scr	19	ニアタ	Niata Monad	personagem	CRLF x2	彼女に、この世界を見せたくてね。\nしばらく、アドリビトムに\n置いてくれないだろうか	I wish to show her this world.\nCould we let her stay with Ad Libitum\nfor a while?	
+mev26_040.scr:20	mev26_040.scr	20	ニアタ	Niata Monad	personagem		腕は保障するよ	I vouch for her skill.	
+mev26_040.scr:21	mev26_040.scr	21	アンジュ	Ange Serena	personagem		ええ、お安い御用よ	Sure, that's an easy request!	
+mev26_040.scr:22	mev26_040.scr	22	アンジュ	Ange Serena	personagem	CRLF x1	その代わり、\nちゃーんと働いてもらうからね	In return, though,\nwe'll put you right to work!	
+mev26_040.scr:23	mev26_040.scr	23	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	わぁ！！\nありがとうございます！	Wah!!\nThank you so much!	
+mev26_040.scr:24	mev26_040.scr	24	カノンノ・イアハート	Kanonno Earhart	personagem		よーし、頑張らなくっちゃ！	All right, I'll do my absolute best!	
+mev26_050.scr:0	mev26_050.scr	0	ロックス	Rocks	personagem	CRLF x1	ひゃああああ〜〜〜〜〜〜〜！\nお、お嬢様が二人…！？	Gyaaaaaaaah...!!\nT-Two Miladies...?!	
+mev26_050.scr:1	mev26_050.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ロックス、落ち着いて。\nイアハートは、\n別の世界からのお客さんなの	Calm down, Rocks.\nEarhart is a guest\nfrom another world.	
+mev26_050.scr:2	mev26_050.scr	2	ロックス	Rocks	personagem		イ、イアハート…？	E-Earhart...?	
+mev26_050.scr:3	mev26_050.scr	3	ロックス	Rocks	personagem	CRLF x1	ニアタ様が言ってた、\n別の世界にいるお嬢様ですか…？	The Milady in another world\nthat Lord Niata spoke of...?	
+mev26_050.scr:4	mev26_050.scr	4	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	はい。\nこんにちは	Yes.\nHello there!	
+mev26_050.scr:5	mev26_050.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	それでね、イアハートは、\nしばらくこの船にいる事になるんだよ	And so, Earhart will be staying\non this ship for a while!	
+mev26_050.scr:6	mev26_050.scr	6	ロックス	Rocks	personagem		そ、そうなんですか…	I-Is that so...	
+mev26_050.scr:7	mev26_050.scr	7	ロックス	Rocks	personagem	CRLF x2	ふぃ〜〜〜〜…。\nもぅ、口から心臓が飛び出るぐらい\nびっくりしたぁ…	Phew......\nGoodness, my heart nearly leaped right\nout of my mouth in shock...	
+mev26_050.scr:8	mev26_050.scr	8	ロックス	Rocks	personagem	CRLF x1	それじゃ、あの、イアハート様。\nこれからもよろしくお願いします	Well then, Lady Earhart.\nI look forward to serving you.	
+mev26_050.scr:9	mev26_050.scr	9	ロックス	Rocks	personagem	CRLF x1	何か食べたいものがあったら、\n遠慮なく言って下さいね	If there is anything you'd like to eat,\nplease don't hesitate to tell me.	
+mev26_050.scr:10	mev26_050.scr	10	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	うん。\nありがとう、ロックス	Yeah.\nThank you, Rocks.	
+mev26_050.scr:11	mev26_050.scr	11	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	カノンノ・イアハートが\nアドリビトムに加入しました	Kanonno Earhart has\njoined Ad Libitum.	
+mev26_060.scr:0	mev26_060.scr	0	ジューダス	Judas	personagem	CRLF x1	一体いつになったら、\n元の世界へ帰れるんだ…	Just when on earth will we be able\nto return to our original world...?	
+mev26_060.scr:1	mev26_060.scr	1	カイル	Kyle Dunamis	personagem		でも、この世界も楽しいよ	Still, this world is lots of fun too!	
+mev26_060.scr:2	mev26_060.scr	2	ジューダス	Judas	personagem	CRLF x1	ハロルドの奴、今回の実験で\n通算１１６回の失敗だ	That Harold... this experiment marks\na total of 116 failures.	
+mev26_060.scr:3	mev26_060.scr	3	ジューダス	Judas	personagem	CRLF x1	…ハロルドの奴……、\nわざとやっているんじゃないのか？	...That Harold......\nCould she be doing this on purpose?	
+mev26_060.scr:4	mev26_060.scr	4	カイル	Kyle Dunamis	personagem	CRLF x2	えええ！？\n確かにオレ達は実験の失敗で\nこの世界に来たけど…	Whaaaat?!\nSure, we came to this world because\nof an experiment failure, but...	
+mev26_060.scr:5	mev26_060.scr	5	カイル	Kyle Dunamis	personagem	CRLF x1	…わざとかぁ。\n…ちょっと…ありそう…だね…	...On purpose, huh?\n...That actually... seems likely...	
+mev26_060.scr:6	mev26_060.scr	6	カイル	Kyle Dunamis	personagem	CRLF x1	ほら、でもさ、その「失敗」で\nまた元の世界に戻れるかも！	Hey, but maybe one of those 'failures'\nwill send us right back home!	
+mev26_060.scr:7	mev26_060.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ジューダス、カイル。\nロックスがおやつだって呼んでるよ	Judas, Kyle!\nRocks called us for snack time!	
+mev26_060.scr:8	mev26_060.scr	8	カノンノ・イアハート	Kanonno Earhart	personagem		今日は、クレープシュゼットだよ！	Today it's crepes Suzette!	
+mev26_060.scr:9	mev26_060.scr	9	カイル	Kyle Dunamis	personagem	CRLF x1	わあっ！！\nやっぱ、二人並ぶとビックリするなぁ…	Whoa!!\nSeeing you two side by side is wild...	
+mev26_060.scr:10	mev26_060.scr	10	カイル	Kyle Dunamis	personagem	CRLF x2	って、そうだ！\nどっちか最近、\n一人で闘技場に参加しなかった？	Oh, wait, that's right!\nDid either of you take part\nin the Colosseum alone recently?	
+mev26_060.scr:11	mev26_060.scr	11	カノンノ	Kanonno Grassvalley	personagem		ううん？	Huh?	
+mev26_060.scr:12	mev26_060.scr	12	カノンノ・イアハート	Kanonno Earhart	personagem		一人では行っていないなぁ	I didn't go alone, no.	
+mev26_060.scr:13	mev26_060.scr	13	カイル	Kyle Dunamis	personagem	CRLF x2	おかしいな…。\n今の闘技場チャンピオンの名前、\nカノンノって言うらしいんだ	That's weird...\nThe current Colosseum champion is\nreportedly named Kanonno.	
+mev26_060.scr:14	mev26_060.scr	14	カイル	Kyle Dunamis	personagem	CRLF x1	髪もピンク色で、女の子で…。\nとにかく、カノンノそっくりらしいんだよ！	Pink hair, a girl...\nIn short, she looks just like Kanonno!	
+mev26_060.scr:15	mev26_060.scr	15	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うぅ〜…？\n知らないなぁ	Mmmh...?\nI have no idea.	
+mev26_060.scr:16	mev26_060.scr	16	カノンノ・イアハート	Kanonno Earhart	personagem		でも、ちょっと興味があるね	Sounds pretty intriguing, though!	
+mev26_060.scr:17	mev26_060.scr	17	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	○○、\n見てみたくない？	○○,\ndon't you want to go see?	
+mev26_060.scr:18	mev26_060.scr	18	カノンノ	Kanonno Grassvalley	personagem		うん、私も見たい見たい！	Yeah, I want to see, I want to see!	
+mev26_060.scr:19	mev26_060.scr	19	ニアタ	Niata Monad	personagem	CRLF x1	ふむ。\nそれは、興味あるな	Hm.\nThat sounds intriguing indeed.	
+mev26_060.scr:20	mev26_060.scr	20	ニアタ	Niata Monad	personagem		行くのであれば、我々も付いて行こう	If you are going, we shall come along.	
+mev26_070.scr:0	mev26_070.scr	0	カノンノ	Kanonno Grassvalley	personagem		私達に…	She looks...	
+mev26_070.scr:1	mev26_070.scr	1	カノンノ・イアハート	Kanonno Earhart	personagem		そっ…くり	...just... like us.	
+mev26_070.scr:2	mev26_070.scr	2	ニアタ	Niata Monad	personagem		そなた………………………	You...................	
+mev26_070.scr:3	mev26_070.scr	3	ニアタ	Niata Monad	personagem	CRLF x1	…そなたは！！\n我等がディセンダー！！	...You are!!\nOur very own Descender!!	
+mev26_070.scr:4	mev26_070.scr	4	カノンノ	Kanonno Grassvalley	personagem		ええ！	What?!	
+mev26_070.scr:5	mev26_070.scr	5	カノンノ・イアハート	Kanonno Earhart	personagem		それじゃ…、パスカって世界の…	Then she's... from the world of Pasca...	
+mev26_070.scr:6	mev26_070.scr	6	カノンノ・イアハート	Kanonno Earhart	personagem	CRLF x1	（でも、パスカは寿命を迎えた世界。\n　まさか、幽…）	(Wait, Pasca's world reached its end.\nCould she be a gh...)	
+mev26_070.scr:7	mev26_070.scr	7	パスカ・カノンノ	Pasca Kanonno	personagem		ニアタ…	Niata...	
+mev26_070.scr:8	mev26_070.scr	8	パスカ・カノンノ	Pasca Kanonno	personagem		ニアタ…なの！？	Niata... is that you?!	
+mev26_070.scr:9	mev26_070.scr	9	パスカ・カノンノ	Pasca Kanonno	personagem		迎えに来てくれたのね	You came to pick me up!	
+mev26_070.scr:10	mev26_070.scr	10	ニアタ	Niata Monad	personagem		そなた、現身…………いや、	You are here in the flesh... No,	
+mev26_070.scr:11	mev26_070.scr	11	ニアタ	Niata Monad	personagem		一体、どうしてこんな所に…	just how on earth did you get here...?	
+mev26_070.scr:12	mev26_070.scr	12	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x2	テレジアへ遊びに行こうと思ったら、\nおかしな力に引っ張られて、\nここに飛ばされちゃったの	I was thinking of visiting Terresia,\nwhen a weird force pulled me and\nflung me all the way here!	
+mev26_070.scr:13	mev26_070.scr	13	ニアタ	Niata Monad	personagem	CRLF x1	カノンノ、すまない。\n今の年号を教えてくれ	Kanonno, forgive me.\nTell me what era year it is now.	
+mev26_070.scr:14	mev26_070.scr	14	パスカ・カノンノ	Pasca Kanonno	personagem		第四樹暦五十八年だよ？	Year 58 of the 4th Tree Calendar.	
+mev26_070.scr:15	mev26_070.scr	15	パスカ・カノンノ	Pasca Kanonno	personagem		ニアタったら、変な事を聞くね？	Geez Niata, what a weird question!	
+mev26_070.scr:16	mev26_070.scr	16	ニアタ	Niata Monad	personagem	CRLF x1	（パスカの世界樹が四度目の実りを\n　過ぎた辺りか…）	(Around the time Pasca's World Tree\npassed its fourth fruition...)	
+mev26_070.scr:17	mev26_070.scr	17	ニアタ	Niata Monad	personagem	CRLF x1	（では、あと三度の実りの後、\n　パスカの世界は寿命を迎える…）	(Then after three more fruitions,\nPasca's world will reach its lifespan...)	
+mev26_070.scr:18	mev26_070.scr	18	ニアタ	Niata Monad	personagem		（我等がディセンダーは、時を越えたのか…）	(Did our Descender leap across time...?)	
+mev26_070.scr:19	mev26_070.scr	19	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x1	ところで、ここはテレジアじゃ\nないみたいだけど、どこなの？	By the way, this doesn't seem to be\nTerresia, so where are we?	
+mev26_070.scr:20	mev26_070.scr	20	ニアタ	Niata Monad	personagem	CRLF x1	そうだな、この世界については\n船へ戻りながら教えるよ	Indeed, I shall explain about this world\nas we head back to the ship.	
+mev26_070.scr:21	mev26_070.scr	21	パスカ・カノンノ	Pasca Kanonno	personagem		船…？	A ship...?	
+mev26_070.scr:22	mev26_070.scr	22	ニアタ	Niata Monad	personagem	CRLF x1	心配は要らない。\nそれより…、カノンノ…	Have no fear.\nMore than that... Kanonno...	
+mev26_070.scr:23	mev26_070.scr	23	ニアタ	Niata Monad	personagem	CRLF x1	今は…、そなたに会えた事を\n喜ばせておくれ…	For now... let me simply rejoice\nat being able to see you again...	
+mev26_070.scr:24	mev26_070.scr	24	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x1	ふふ、どうしたの？\nおかしなニアタ…	Fufu, what's wrong?\nYou're acting so funny, Niata...	
+mev26_080.scr:0	mev26_080.scr	0	ハロルド	Harold Berselius	personagem	CRLF x1	ふんふん…。\nこれまた、思わぬ事故が起きちゃったわね	Hmm-mm...\nWhat an unexpected accident this is!	
+mev26_080.scr:1	mev26_080.scr	1	ニアタ	Niata Monad	personagem		では、カイル達を元の世界へ戻すはずが…、	So trying to return Kyle and the rest...	
+mev26_080.scr:2	mev26_080.scr	2	ニアタ	Niata Monad	personagem	CRLF x2	時間を遡った所に存在する\n我等のディセンダーを、この世界へ\n呼び込んでしまったわけだな…	you wound up summoning our Descender\nfrom an earlier point in time\ninto this world instead, then...	
+mev26_080.scr:3	mev26_080.scr	3	アンジュ	Ange Serena	personagem		戻すのには時間がかかるみたいね…	Sending her back will take time, then...	
+mev26_080.scr:4	mev26_080.scr	4	アンジュ	Ange Serena	personagem		カイル君達だって、まだ成功しないし	Kyle's group hasn't succeeded yet either.	
+mev26_080.scr:5	mev26_080.scr	5	ハロルド	Harold Berselius	personagem		まー、そう焦らない焦らない	Now now, don't rush, don't rush!	
+mev26_080.scr:6	mev26_080.scr	6	ハロルド	Harold Berselius	personagem	CRLF x1	今回の失敗だって、ひょっとしたら\n世紀の大発明に繋がるかもしれないのよ♪	Even this failure might lead to\nthe greatest invention of the century!	
+mev26_080.scr:7	mev26_080.scr	7	ニアタ	Niata Monad	personagem	CRLF x1	アンジュ、それまで彼女をこの船に\n置いてもいいかね？	Ange, could she stay on this ship\nuntil then?	
+mev26_080.scr:8	mev26_080.scr	8	アンジュ	Ange Serena	personagem		ええ、断る理由は無いし…	Sure, there's no reason to refuse...	
+mev26_080.scr:9	mev26_080.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	でも、異世界のディセンダーまで\n抱える事になるなんてね…	Though to think we'd end up taking in\nanother world's Descender too...	
+mev26_080.scr:10	mev26_080.scr	10	ニアタ	Niata Monad	personagem		彼女の時間では、まだ故郷は存在している	In her time, her homeland still exists.	
+mev26_080.scr:11	mev26_080.scr	11	ニアタ	Niata Monad	personagem	CRLF x2	○○も、アンジュも、\nパスカが滅びた事や、我々の身の上の事を\n彼女に話さないでおいてくれ	○○, Ange.\nDo not speak to her of Pasca's ruin,\nor of our own circumstances.	
+mev26_080.scr:12	mev26_080.scr	12	アンジュ	Ange Serena	personagem		…ん、了解よ	...Mhm, understood.	
+mev26_080.scr:13	mev26_080.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	ところで、あなたのディセンダーを\n何と呼べばいいかしら？	By the way, what should we\ncall your Descender?	
+mev26_080.scr:14	mev26_080.scr	14	ニアタ	Niata Monad	personagem	CRLF x1	ふむ、あの子には姓がない。\n故郷の名が姓と言ってもよいな	Hm, that child has no family name.\nHer homeland's name is like a surname.	
+mev26_080.scr:15	mev26_080.scr	15	ニアタ	Niata Monad	personagem		では、「パスカ」と名乗らせよう	Let her go by 'Pasca', then.	
+mev26_080.scr:16	mev26_080.scr	16	アンジュ	Ange Serena	personagem	CRLF x1	それじゃあ、\nパスカのメンバー登録をするね	All right then,\nI'll register Pasca as a member.	
+mev26_080.scr:17	mev26_080.scr	17	ニアタ	Niata Monad	personagem		感謝する…	I thank you...	
+mev26_080.scr:18	mev26_080.scr	18	ハロルド	Harold Berselius	personagem	CRLF x1	ところで、トリプルカノンノは\nどこに行ったの？	By the way, where did\nthe triple Kanonnos go?	
+mev26_080.scr:19	mev26_080.scr	19	アンジュ	Ange Serena	personagem	CRLF x1	ああっ！？\nまさか、ロックスの所に！！	Aahh?!\nDon't tell me... to Rocks's place!!	
+mev26_080.scr:20	mev26_080.scr	20	アンジュ	Ange Serena	personagem	CRLF x2	○○、\n一緒に行って説明してあげないと、\nロックスが腰抜かしちゃう！！	○○!\nIf we don't go explain together,\nRocks will be scared out of his wits!!	
+mev26_080.scr:21	mev26_080.scr	21	アンジュ	Ange Serena	personagem		食堂へ行ってちょうだい！！	Get to the dining hall, quickly!!	
+mev26_090.scr:0	mev26_090.scr	0	ロックス	Rocks	personagem		ひぃええええええええええ！！	Eeeeeeeeeeek!!	
+mev26_090.scr:1	mev26_090.scr	1	ロックス	Rocks	personagem		お、お嬢様が三人…	Th-Three Miladies...	
+mev26_090.scr:2	mev26_090.scr	2	ロックス	Rocks	personagem	CRLF x1	あわわわわわ…、僕は、僕は、\nそろそろお迎えが来るのか…	Awawawawa... Has my time\nfinally come to pass...?	
+mev26_090.scr:3	mev26_090.scr	3	ニアタ	Niata Monad	personagem	CRLF x1	驚かせてすまない。\n彼女は、我々のディセンダーだ	Forgive us for startling you.\nShe is our Descender.	
+mev26_090.scr:4	mev26_090.scr	4	ロックス	Rocks	personagem		（で、でも…、ニアタ様の故郷は…）	(B-But... Lord Niata's homeland is...)	
+mev26_090.scr:5	mev26_090.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	（その話については、\n　触れないでやってくれ…）	(Please do not touch\nupon that subject...)	
+mev26_090.scr:6	mev26_090.scr	6	ニアタ	Niata Monad	personagem	CRLF x1	ともかく、事情は後で話す。\n今は、彼女を受け入れてやってくれ	At any rate, I will explain later.\nPlease accept her for now.	
+mev26_090.scr:7	mev26_090.scr	7	ロックス	Rocks	personagem	CRLF x2	わ、わかりました…。\n三人に見えたのは、\n幻覚じゃなかったんですね…	U-Understood...\nSeeing three of them wasn't\na hallucination, then...	
+mev26_090.scr:8	mev26_090.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	紹介するね。\n私の家族、ロックスだよ	Let me introduce you.\nThis is my family, Rocks!	
+mev26_090.scr:9	mev26_090.scr	9	パスカ・カノンノ	Pasca Kanonno	personagem	CRLF x1	よろしくお願いします、ロックス。\n私の事は、パスカと呼んで下さい	Pleased to meet you, Rocks.\nPlease call me Pasca.	
+mev26_090.scr:10	mev26_090.scr	10	ロックス	Rocks	personagem		は、はい、こちらこそよろしく	Y-Yes, pleased to meet you too.	
+mev26_090.scr:11	mev26_090.scr	11	ロックス	Rocks	personagem	CRLF x2	あっ、そのっ、\nそんな堅苦しくなくて構いませんから。\nホント…	Ah, well, you don't have to be\nso stiff and formal with me.\nReally...	
+mev26_090.scr:12	mev26_090.scr	12	パスカ・カノンノ	Pasca Kanonno	personagem		はい！	Right!	
+mev26_090.scr:13	mev26_090.scr	13	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	パスカ・カノンノが\nアドリビトムに加入しました	Pasca Kanonno has\njoined Ad Libitum.	

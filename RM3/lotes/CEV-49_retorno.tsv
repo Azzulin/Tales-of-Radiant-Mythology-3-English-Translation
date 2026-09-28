@@ -1,0 +1,224 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev49_010.scr:0	cev49_010.scr	0	ルーク	Luke fon Fabre	personagem		あー、だりぃ	Man, what a drag.	
+cev49_010.scr:1	cev49_010.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x1	ガイ。\n何か面白い事ねぇのかよ	Guy.\nIsn't there anything fun to do?	
+cev49_010.scr:2	cev49_010.scr	2	ガイ	Guy Cecil	personagem		またルークの退屈病が始まったな	There goes Luke's boredom bug again.	
+cev49_010.scr:3	cev49_010.scr	3	ティア	Tear Grants	personagem		ルーク、時間は有効に活用するべきよ	Luke, you should use your time wisely.	
+cev49_010.scr:4	cev49_010.scr	4	ティア	Tear Grants	personagem	CRLF x1	この機会に、普段やらない事に\n挑戦してみるというのはどうかしら	Why not take this chance to try\nsomething you don't usually do?	
+cev49_010.scr:5	cev49_010.scr	5	ガイ	Guy Cecil	personagem		お、それはいいかもしれないな	Oh, that might not be a bad idea.	
+cev49_010.scr:6	cev49_010.scr	6	ガイ	Guy Cecil	personagem	CRLF x1	料理なんてどうだ、ルーク？\n楽しいぞ	How about cooking, Luke?\nIt's quite fun.	
+cev49_010.scr:7	cev49_010.scr	7	コーダ	Coda	personagem	CRLF x1	何だ、メシの時間か？\nコーダは腹が減ったぞ、しかし	What's this, time to eat?\nCoda's tummy is empty, however!	
+cev49_010.scr:8	cev49_010.scr	8	ルーク	Luke fon Fabre	personagem		何だぁ？　このアホザル	What's with this dumb monkey?	
+cev49_010.scr:9	cev49_010.scr	9	ガイ	Guy Cecil	personagem	CRLF x1	こいつは……。\n確か、イリアの飼ってるサルか？	This little guy is...\nIsn't he the monkey Iria keeps?	
+cev49_010.scr:10	cev49_010.scr	10	ティア	Tear Grants	personagem		（大きな耳……かわいい……）	(Those big ears... so cute...)	
+cev49_010.scr:11	cev49_010.scr	11	コーダ	Coda	personagem		メシはいつ出るんだ？　しかし	When is food served, however?!	
+cev49_010.scr:12	cev49_010.scr	12	ルーク	Luke fon Fabre	personagem		飯なんて出ねぇよ、アホザル	No food is being served, dumb monkey.	
+cev49_010.scr:13	cev49_010.scr	13	コーダ	Coda	personagem	CRLF x1	コーダは、クレアの\nピーチパイが好物なんだな、しかし	Coda loves Claire's peach pie\nthe best, however!	
+cev49_010.scr:14	cev49_010.scr	14	ルーク	Luke fon Fabre	personagem		うっせー！	Shut up!	
+cev49_010.scr:15	cev49_010.scr	15	ルーク	Luke fon Fabre	personagem	CRLF x1	お前！\nいちいち喋りがうぜーっつーの！！	Hey, you!\nYour voice is annoying, you hear me?!	
+cev49_010.scr:16	cev49_010.scr	16	コーダ	Coda	personagem	CRLF x1	はっ。\n美味そうな匂い……	Gasp!\nA delicious smell...	
+cev49_010.scr:17	cev49_010.scr	17	コーダ	Coda	personagem		あっちなんだな、しかし！	It's over there, however!	
+cev49_010.scr:18	cev49_010.scr	18	ルーク	Luke fon Fabre	personagem		てめ、待ちやがれ、このアホザル！！	Hey, get back here, you dumb monkey!!	
+cev49_010.scr:19	cev49_010.scr	19	ガイ	Guy Cecil	personagem	CRLF x1	やれやれ……。\nいい退屈しのぎにはなるか？	Good grief...\nI guess that helps kill some boredom?	
+cev49_010.scr:20	cev49_010.scr	20	ティア	Tear Grants	personagem	CRLF x1	ご飯があれば……、\n触らせてくれるかしら……	If I had food...\nwould he let me pet him, I wonder...?	
+cev49_010.scr:21	cev49_010.scr	21	ガイ	Guy Cecil	personagem		おいおい	Hey now.	
+cev49_020.scr:0	cev49_020.scr	0	クィッキー	Quickie	personagem		クィ……、ク……	Kwi..., kw...	
+cev49_020.scr:1	cev49_020.scr	1	クィッキー	Quickie	personagem		クィッキーーー！	Quickieee---!	
+cev49_020.scr:2	cev49_020.scr	2	ピッポ	Pippo	personagem	CRLF x1	キュ？\nどうしたキュ？	Kyu?\nWhat's wrong, kyu?	
+cev49_020.scr:3	cev49_020.scr	3	クィッキー	Quickie	personagem		ク……、クィッキ……	Kw..., Quickie...	
+cev49_020.scr:4	cev49_020.scr	4	ポッポ	Poppo	personagem	CRLF x1	あ、あそこに黒くて\nカサカサ動いている虫がいるキュ！	Th-There's a black, creepy-crawly\nbug over there, kyu!	
+cev49_020.scr:5	cev49_020.scr	5	キュッポ	Kyuppo	personagem	CRLF x1	あれが怖いだキュ？\nそれならキュッポに任せるキュ！	Are you scared of that, kyu?\nLeave it to Kyuppo, kyu!	
+cev49_020.scr:6	cev49_020.scr	6	キュッポ	Kyuppo	personagem		もう大丈夫だキュ	It's all safe now, kyu.	
+cev49_020.scr:7	cev49_020.scr	7	ピッポ	Pippo	personagem		さすがはキュッポ兄さんだキュ	As expected of Big Brother Kyuppo, kyu!	
+cev49_020.scr:8	cev49_020.scr	8	ポッポ	Poppo	personagem		勝利のダンス、開始だキュ！	Time for our victory dance, kyu!	
+cev49_020.scr:9	cev49_020.scr	9	(narracao)	(narracao)	narracao	CRLF x2	キュ〜キュキュ〜キュ〜キュキュッキュ〜♪\nキュキュキュ♪　キュキュキュ♪\nキュキュキュッキュ！	Kyu~ kyu-kyu~ kyu~ kyu-kyu-kyu~!\nKyu-kyu-kyu! Kyu-kyu-kyu!\nKyu-kyu-kyu-kyu!	
+cev49_020.scr:10	cev49_020.scr	10	クィッキー	Quickie	personagem	CRLF x1	クィ〜、クィクィ〜クククィッキ〜♪\nクィクィクィ♪　クィッキ〜〜♪	Kwi~, kwi-kwi~ k-k-Quickie~!\nKwi-kwi-kwi! Quickie~~!	
+cev49_020.scr:11	cev49_020.scr	11	コーダ	Coda	personagem		全く、騒がしいぞ、しかし	Good grief, so noisy, however!	
+cev49_020.scr:12	cev49_020.scr	12	(narracao)	(narracao)	narracao		キュキュ〜♪	Kyu-kyu~!	
+cev49_020.scr:13	cev49_020.scr	13	クィッキー	Quickie	personagem		クィッキ〜〜♪	Quickie~~!	
+cev49_020.scr:14	cev49_020.scr	14	コーダ	Coda	personagem	CRLF x1	コーダが騒がしいと言っているのに\n踊るのをやめないのか？　しかし	Even though Coda said it's noisy,\nyou won't stop dancing, however?!	
+cev49_020.scr:15	cev49_020.scr	15	ルーク	Luke fon Fabre	personagem		うるせーぞ、このアホザル！！	Shut up, you dumb monkey!!	
+cev49_020.scr:16	cev49_020.scr	16	クィッキー	Quickie	personagem		クィ〜〜〜〜〜〜	Kwiiiiii...	
+cev49_020.scr:17	cev49_020.scr	17	コーダ	Coda	personagem	CRLF x1	ひどいな。\nお前のペットとは違うぞ、しかし	How cruel.\nI'm not your pet, however!	
+cev49_020.scr:18	cev49_020.scr	18	ルーク	Luke fon Fabre	personagem	CRLF x1	んなもん、かんけーねぇってーの！\nうぜぇもんは、うぜぇんだよ！！	Like that matters at all!\nAnnoying is annoying!!	
+cev49_030.scr:0	cev49_030.scr	0	ルーク	Luke fon Fabre	personagem	CRLF x1	「しばらくバンエルティア号っつー船で\n　世話んなる事になった」	I've ended up staying on a ship\ncalled the Van Eltia for a while.	
+cev49_030.scr:1	cev49_030.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x2	「久々に好き勝手動けるかと思ったら\n　ギルドの仕事が回ってこねーと\n　外に出たらダメらしい」	I thought I'd finally do as I please,\nbut without a guild job assigned,\nit seems I can't even go outside.	
+cev49_030.scr:2	cev49_030.scr	2	ルーク	Luke fon Fabre	personagem		「ちぇっ、つまんねー」	Tch, so boring.	
+cev49_030.scr:3	cev49_030.scr	3	ルーク	Luke fon Fabre	personagem	CRLF x2	「ただ、ヴァン師匠も一緒だし、\n　暇な時剣の稽古もつけるって\n　約束してくれたから」	Still, Master Van is here too,\nand he promised to train me\nin swordsmanship when free.	
+cev49_030.scr:4	cev49_030.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x1	「それはちょっとラッキーだったな。\n　へへっ」	So that was pretty lucky.\nHeheh.	
+cev49_030.scr:5	cev49_030.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x2	「いけすかねーアッシュもいるが、少なくとも\n　城ン中に閉じ込められてる生活よりか\n　だいぶマシかもしんねーな」	That obnoxious Asch is here too, but\nthis is way better than being locked\nup inside the manor.	
+cev49_030.scr:6	cev49_030.scr	6	ルーク	Luke fon Fabre	personagem		…………	......	
+cev49_030.scr:7	cev49_030.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x1	……ふう。\nこんなもんか？	...Phew.\nGuess that's good enough?	
+cev49_030.scr:8	cev49_030.scr	8	ティトレイ	Tytree Crowe	personagem		よおルーク、遊びに来たぜ〜	Yo Luke, I came over to hang out~!	
+cev49_030.scr:9	cev49_030.scr	9	ティトレイ	Tytree Crowe	personagem	CRLF x2	おっ。\n何書いてんだ？　\n日記か？	Oho.\nWhatcha writing?\nA diary?	
+cev49_030.scr:10	cev49_030.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x1	！！\nば、ばか、見るな！	!!\nId-Idiot, don't look!	
+cev49_030.scr:11	cev49_030.scr	11	ルーク	Luke fon Fabre	personagem		つか、勝手に入ってくんじゃねー！	Don't just barge in without asking!	
+cev49_040.scr:0	cev49_040.scr	0	エステル	Estelle	personagem	CRLF x1	ルーク！\nすみません、少しいいです？	Luke!\nExcuse me, do you have a moment?	
+cev49_040.scr:1	cev49_040.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x1	あ？　\nなんだ、エステルか	Huh?\nOh, it's just you, Estelle.	
+cev49_040.scr:2	cev49_040.scr	2	ルーク	Luke fon Fabre	personagem		何の用だよ	What do you want?	
+cev49_040.scr:3	cev49_040.scr	3	エステル	Estelle	personagem	CRLF x2	あの……わたしの気のせいかもしれませんが\n最近、ナタリアの元気がない様な\n気がするんです	Um... this might just be my imagination,\nbut lately Natalia doesn't seem\nto be feeling quite herself.	
+cev49_040.scr:4	cev49_040.scr	4	エステル	Estelle	personagem		何か、心当たりはありませんか？	Do you have any idea what it could be?	
+cev49_040.scr:5	cev49_040.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x1	え？\n……別に、知らねえよ	Huh?\n...I don't know anything about that.	
+cev49_040.scr:6	cev49_040.scr	6	ルーク	Luke fon Fabre	personagem	CRLF x1	変なモンでも食って\n腹壊してるとかじゃねーのか？	Didn't she just eat something weird\nand upset her stomach?	
+cev49_040.scr:7	cev49_040.scr	7	エステル	Estelle	personagem		それはないと思いますけど……	I don't believe that's the case...	
+cev49_040.scr:8	cev49_040.scr	8	エステル	Estelle	personagem	CRLF x2	……やっぱり、わたしの勘違いかも\nしれませんね。\n変な事聞いてすみませんでした	...Perhaps I was mistaken after all.\nI'm sorry for asking such an odd\nquestion.	
+cev49_040.scr:9	cev49_040.scr	9	ルーク	Luke fon Fabre	personagem	CRLF x2	ったく……俺が知るわけねーだろっつの。\nあいつ、そういうの何にも\n話さねーんだからよ	Jeez... How would I know, anyway?\nShe never talks about that kind of\nstuff with me.	
+cev49_040.scr:10	cev49_040.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x2	だーーっ、もう！\n何で俺がモヤモヤしなくちゃなんねーんだ！\nくそっ	Argh, damn it!\nWhy do I have to feel so uneasy now?!\nCrap!	
+cev49_040.scr:11	cev49_040.scr	11	ルーク	Luke fon Fabre	personagem	CRLF x1	……しょうがねえ。\nちっと確かめてみるか……	...Guess I've got no choice.\nI'll go check on her a bit...	
+cev49_050.scr:0	cev49_050.scr	0	ロックス	Rocks	personagem		お、っと……とととと	Whoa, wh-whoa-whoa-whoa!	
+cev49_050.scr:1	cev49_050.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x1	おわ！　\n危ねぇ！	Whoa!\nWatch it!	
+cev49_050.scr:2	cev49_050.scr	2	ルーク	Luke fon Fabre	personagem	CRLF x2	チッ。\nんだよ、ブタ執事。\nどこ見て歩いてんだよ！	Tch.\nWhat gives, pig butler?!\nWatch where you're walking!	
+cev49_050.scr:3	cev49_050.scr	3	ロックス	Rocks	personagem	CRLF x1	も、申し訳……ありません。\n何でも、ありません……ので	I-I am terribly... sorry.\nIt's nothing... at all, really.	
+cev49_050.scr:4	cev49_050.scr	4	ガイ	Guy Cecil	personagem	CRLF x1	おい、本当に大丈夫か？\n顔色が真っ青じゃないか	Hey, are you really okay?\nYou look as pale as a ghost.	
+cev49_050.scr:5	cev49_050.scr	5	ロックス	Rocks	personagem		大丈夫です……	I am quite fine...	
+cev49_050.scr:6	cev49_050.scr	6	ロックス	Rocks	personagem		あう……	Auu...	
+cev49_050.scr:7	cev49_050.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x1	何だぁ？\n腹減ってんのかよ	What?\nAre you just hungry?	
+cev49_050.scr:8	cev49_050.scr	8	ルーク	Luke fon Fabre	personagem		ったく、しょうがねーな	Sheesh, what am I gonna do with you.	
+cev49_050.scr:9	cev49_050.scr	9	ルーク	Luke fon Fabre	personagem	CRLF x1	おらよ。\nこれでも食ってろ	Here.\nEat this instead.	
+cev49_050.scr:10	cev49_050.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x1	つってもまぁ、あんま腹の足しには\nなんねーと思うけどな	Not that I think it'll fill\nyour belly much, though.	
+cev49_050.scr:11	cev49_050.scr	11	ロックス	Rocks	personagem		ビスケット……	A biscuit...	
+cev49_050.scr:12	cev49_050.scr	12	ロックス	Rocks	personagem		でも……	But......	
+cev49_050.scr:13	cev49_050.scr	13	ガイ	Guy Cecil	personagem	CRLF x2	もらっておけよ。\nこれでも、ルークなりに\n気を遣ってるんだ	Just take it.\nThis is Luke's own way\nof showing consideration.	
+cev49_050.scr:14	cev49_050.scr	14	ルーク	Luke fon Fabre	personagem	CRLF x1	ガイ！\n余計な事言うなっつーの！	Guy!\nKeep your mouth shut, will you?!	
+cev49_050.scr:15	cev49_050.scr	15	ロックス	Rocks	personagem		心配……して下さったんですか	You were... worried about me?	
+cev49_050.scr:16	cev49_050.scr	16	ロックス	Rocks	personagem		ありがとうございます	Thank you.	
+cev49_050.scr:17	cev49_050.scr	17	ルーク	Luke fon Fabre	personagem		別に、そんなんじゃねーよ	It's not like that at all.	
+cev49_050.scr:18	cev49_050.scr	18	ルーク	Luke fon Fabre	personagem	CRLF x1	ただお前、たまに飯食わないで\n仕事してんだろ	You just skip meals to work\nsometimes, right?	
+cev49_050.scr:19	cev49_050.scr	19	ルーク	Luke fon Fabre	personagem	CRLF x2	程々にしとけよ。\nそんでぶっ倒れられたら、\nそれこそこっちが迷惑だからな	Don't overdo it.\nIf you collapse on the job,\nit'll only inconvenience us.	
+cev49_050.scr:20	cev49_050.scr	20	ガイ	Guy Cecil	personagem	CRLF x1	ははは。\n相変わらず素直じゃないねえ	Hahaha.\nStill not honest with yourself, huh?	
+cev49_050.scr:21	cev49_050.scr	21	ロックス	Rocks	personagem	CRLF x1	（ガイ様が、ルーク様にお仕えする理由……。\n　何だかわかった気がします）	(I think I understand why Master Guy)\n(chooses to serve Master Luke.)	
+cev49_060.scr:0	cev49_060.scr	0	ユーリ	Yuri Lowell	personagem	CRLF x1	よお、お坊ちゃま！\nどした、そんな楽しそうな顔して	Yo, young master!\nWhy the cheerful look on your face?	
+cev49_060.scr:1	cev49_060.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x1	これのどこが楽しそうな顔に見えんだよ！\nお前バカだろ！	How does this look cheerful to you?!\nAre you an idiot?!	
+cev49_060.scr:2	cev49_060.scr	2	ユーリ	Yuri Lowell	personagem		はは、案外当たってるぜ、それ	Haha, that might actually be on point.	
+cev49_060.scr:3	cev49_060.scr	3	ルーク	Luke fon Fabre	personagem	CRLF x1	腹減ってイライラしてる時に\n余計な事言うんじゃねぇよ！	Don't bother me with your nonsense\nwhen I'm starving and annoyed!	
+cev49_060.scr:4	cev49_060.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x1	腹減ってるって\nさっき飯食ったばっかじゃねぇか？	Starving?\nDidn't you just finish eating a bit ago?	
+cev49_060.scr:5	cev49_060.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x2	はん！　\nあんなしょぼい飯、\n俺の口に合うわけねぇだろうが	Hmph!\nA pitiful meal like that could never\nsatisfy my tastes!	
+cev49_060.scr:6	cev49_060.scr	6	ルーク	Luke fon Fabre	personagem		そうだお前、ちょうどいい！	Oh right, you'll do nicely!	
+cev49_060.scr:7	cev49_060.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x1	おい。\n俺の口に合う飯を買って来いよ！	Hey.\nGo buy me food that fits my palate!	
+cev49_060.scr:8	cev49_060.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x1	はは、面白い事言うお坊ちゃんだな。\nんで、どこで買って来いってんだ？	Haha, aren't you a funny rich boy?\nAnd just where am I supposed to buy it?	
+cev49_060.scr:9	cev49_060.scr	9	ルーク	Luke fon Fabre	personagem	CRLF x2	んなもん、自分で考えろっつーの。\n金なら幾らでもあんだから、\nちゃっちゃと行って買って来い！	Figure that out yourself!\nI've got plenty of money,\nso hurry up and go buy it!	
+cev49_060.scr:10	cev49_060.scr	10	ユーリ	Yuri Lowell	personagem	CRLF x2	そんなに大金を所持してんなら\nご自分のお眼鏡にかなうコックでも\n雇ってくりゃいいんじゃないのかね	If you've got so much cash on hand,\nwhy don't you hire a chef who meets\nyour high standards?	
+cev49_060.scr:11	cev49_060.scr	11	ルーク	Luke fon Fabre	personagem	CRLF x2	お前、バカか？\nこんな空の上で、どうやって\nコックを見つけて来いってんだよ！	Are you an idiot?!\nHow am I supposed to find a chef\nall the way up in the sky?!	
+cev49_060.scr:12	cev49_060.scr	12	ユーリ	Yuri Lowell	personagem	CRLF x1	そうだよなぁ〜。\nこんな空の上だもんなあ	Ain't that the truth~.\nWe're way up in the sky, after all.	
+cev49_060.scr:13	cev49_060.scr	13	ユーリ	Yuri Lowell	personagem	CRLF x1	という事は、ご馳走を揃えるってのも\n到底無理な相談だよな	Which means getting a gourmet feast\nis completely out of the question.	
+cev49_060.scr:14	cev49_060.scr	14	ルーク	Luke fon Fabre	personagem		む……、ぐぐぐ……	Ngh... grrr...	
+cev49_060.scr:15	cev49_060.scr	15	ルーク	Luke fon Fabre	personagem	CRLF x2	うっせぇー！\nちょっと、俺が\n言い間違えただけだろうが！	Shut up!\nI just slipped up and misspoke\na little, that's all!	
+cev49_060.scr:16	cev49_060.scr	16	ルーク	Luke fon Fabre	personagem	CRLF x2	いいから、どうにか飯を\n旨くしてくれりゃいいんだよ！\nお前ならそれぐらい出来んだろ！	Just do something to make the food\ntaste better! A guy like you oughta\nbe able to handle that much!	
+cev49_060.scr:17	cev49_060.scr	17	ルーク	Luke fon Fabre	personagem	CRLF x1	いいか、俺はお前に頼んだからな！\n忘れんなよ！！	Remember, I asked you to do this!\nDon't you forget it!!	
+cev49_060.scr:18	cev49_060.scr	18	ユーリ	Yuri Lowell	personagem	CRLF x1	へいへい、わかったわかった。\n考えとくよ、お坊ちゃま	Yeah, yeah, I hear ya.\nI'll give it some thought, young master.	
+cev49_060.scr:19	cev49_060.scr	19	ユーリ	Yuri Lowell	personagem	CRLF x2	へえ……。\n意外に、自分の間違いも\n素直に認められんだな	Heh...\nSurprising how honestly he can admit\nwhen he's made a mistake.	
+cev49_060.scr:20	cev49_060.scr	20	ユーリ	Yuri Lowell	personagem	CRLF x1	最初に思った程\nお子様じゃないって事なのかね	Maybe he's not quite as much of a brat\nas I first thought.	
+cev49_070.scr:0	cev49_070.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	そういやルークって、\nどうして日記を始めようと思ったんだ？	By the way, Luke, what made you\ndecide to start keeping a diary?	
+cev49_070.scr:1	cev49_070.scr	1	ルーク	Luke fon Fabre	personagem		ああ？	Huh?	
+cev49_070.scr:2	cev49_070.scr	2	ルーク	Luke fon Fabre	personagem	CRLF x1	どうしてそんな事、わざわざお前に\n教えてやんなきゃなんねーんだよ	Why the hell should I bother\ntelling you something like that?	
+cev49_070.scr:3	cev49_070.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x2	だってよ、ルークって\nそういうマメな事しなさそうっていうか\n結構律儀な奴なんだなぁって思ってさ	Well, you don't seem like the type\nfor diligent stuff, so I figured\nyou're actually pretty methodical!	
+cev49_070.scr:4	cev49_070.scr	4	ルーク	Luke fon Fabre	personagem		…………	......	
+cev49_070.scr:5	cev49_070.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x2	そんなんじゃねーよ。\nガキの頃からのつまんねー習慣が\n今も何となく続いてるだけだ……	It's nothing like that.\nIt's just a stupid habit from childhood\nthat somehow kept going...	
+cev49_070.scr:6	cev49_070.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x1	って事は、結構長く\n日記付けてるって事だよな？	Which means you've been keeping\na diary for a pretty long time, right?	
+cev49_070.scr:7	cev49_070.scr	7	ティトレイ	Tytree Crowe	personagem		やっぱルークってマメなんだなぁ！	You really are diligent, Luke!	
+cev49_070.scr:8	cev49_070.scr	8	ルーク	Luke fon Fabre	personagem	CRLF x1	だ、だから\nそんなんじゃねーっつーの！！	I-I told you,\nthat's not it at all!!	
+cev49_080.scr:0	cev49_080.scr	0	ルーク	Luke fon Fabre	personagem		おい、ウッドロウじゃねえか！？	Hey, if it isn't Woodrow?!	
+cev49_080.scr:1	cev49_080.scr	1	ティア	Tear Grants	personagem		ちょっと、ルーク！？	Hold on, Luke?!	
+cev49_080.scr:2	cev49_080.scr	2	ルーク	Luke fon Fabre	personagem		やっぱそうだ！	It really is you!	
+cev49_080.scr:3	cev49_080.scr	3	ルーク	Luke fon Fabre	personagem	CRLF x1	何だよ、お前もこのギルドで\n働く事んなったのか？	What, did you end up working\nfor this guild too?	
+cev49_080.scr:4	cev49_080.scr	4	ウッドロウ	Woodrow Kelvin	personagem		ああ、実は成り行きで、そうなってね	Yes, as circumstances would have it.	
+cev49_080.scr:5	cev49_080.scr	5	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	久しぶりだな、ルーク君。\n変わりない様で何よりだ	It has been a while, Luke.\nI am glad to see you in good health.	
+cev49_080.scr:6	cev49_080.scr	6	ルーク	Luke fon Fabre	personagem	CRLF x1	当ったり前だろ？\nそう簡単に変わってたまるかっつーの	Of course I am!\nLike I'd go changing that easily.	
+cev49_080.scr:7	cev49_080.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x2	にしても、お前\nよくこんなショボイ所に\n来る気になったよな	Even so, I'm surprised you felt\nlike coming to a shabby place\nlike this.	
+cev49_080.scr:8	cev49_080.scr	8	ルーク	Luke fon Fabre	personagem	CRLF x1	金に困ったってわけじゃねーだろうし\n相変わらず物好きなんだな	It's not like you're hurting for cash,\nso you're as curious as ever, huh?	
+cev49_080.scr:9	cev49_080.scr	9	ティア	Tear Grants	personagem	CRLF x1	ルーク！　\n失礼でしょう	Luke!\nThat is beyond rude!	
+cev49_080.scr:10	cev49_080.scr	10	ティア	Tear Grants	personagem	CRLF x1	殿下、ご無礼を申し訳ありません。\n後できつく言い聞かせますから……	Your Highness, forgive his rudeness.\nI will discipline him sternly later...	
+cev49_080.scr:11	cev49_080.scr	11	ウッドロウ	Woodrow Kelvin	personagem		なに、気にする事はない	No need to fret over it.	
+cev49_080.scr:12	cev49_080.scr	12	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ここは公式の場ではないのだし、\nそう畏まられても、私も困惑してしまう	This isn't an official venue, and such\nformality only puts me at a loss.	
+cev49_080.scr:13	cev49_080.scr	13	ティア	Tear Grants	personagem		ですが……	But still...	
+cev49_080.scr:14	cev49_080.scr	14	ルーク	Luke fon Fabre	personagem		だよなぁ？	See, what did I tell you?	
+cev49_080.scr:15	cev49_080.scr	15	ルーク	Luke fon Fabre	personagem	CRLF x2	へへっ。\n俺、お前のそういう\n堅苦しくねーとこ、楽で助かるわ	Heheh.\nI really appreciate that you're not\nall stiff and formal with me.	
+cev49_080.scr:16	cev49_080.scr	16	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ここでは、そういった接し方の方が\n他の者にとっても、気が楽だろうと思ってね	I thought interacting this way would\nmake others feel more at ease here.	
+cev49_080.scr:17	cev49_080.scr	17	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	これからも、ギルドの一員として\nよろしく頼むよ。\nルーク君	I look forward to working with you\nas a fellow guild member,\nLuke.	
+cev49_080.scr:18	cev49_080.scr	18	ルーク	Luke fon Fabre	personagem	CRLF x1	ああ。\n任せとけって！	Yeah.\nLeave it to me!	
+cev49_080.scr:19	cev49_080.scr	19	ティア	Tear Grants	personagem		……頭が痛いわ……	...My head hurts...	
+cev49_090.scr:0	cev49_090.scr	0	ノーマ	Norma Beatty	personagem	CRLF x1	はい皆さ〜ん。\nここでクイズです〜	All right, everyone~!\nTime for a quiz~!	
+cev49_090.scr:1	cev49_090.scr	1	ノーマ	Norma Beatty	personagem	CRLF x1	パンはパンでも食べられないパンとは、\n一体何でしょうか〜？	What kind of bread can you never eat,\nno matter what~?	
+cev49_090.scr:2	cev49_090.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	なんだ。\nそんなの簡単だろ！	Come on.\nThat's way too easy!	
+cev49_090.scr:3	cev49_090.scr	3	ノーマ	Norma Beatty	personagem	CRLF x1	あ、フライパンとか\n短パンはなしだからね！	Ah, frying pans and short pants\ndon't count, okay?!	
+cev49_090.scr:4	cev49_090.scr	4	ロイド	Lloyd Irving	personagem	CRLF x2	違う違う。\n食べられないのは、\nリフィル先生が作ったパンだよ！	No, no! The bread you can't eat\nis the bread made by\nProfessor Raine!	
+cev49_090.scr:5	cev49_090.scr	5	ロイド	Lloyd Irving	personagem	CRLF x1	とてもじゃないけど、\n一口食べただけで……	Seriously, just one single bite,\nand you're...	
+cev49_090.scr:6	cev49_090.scr	6	チェスター	Chester Barklight	personagem	CRLF x1	な〜に言ってんだよ。\n口に入るだけましだろ！	What are you talking about?!\nAt least it fits in your mouth!	
+cev49_090.scr:7	cev49_090.scr	7	チェスター	Chester Barklight	personagem	CRLF x1	食べられないパンってのは、\nアーチェが作ったパンだって	The bread you really can't eat\nis the bread Arche bakes!	
+cev49_090.scr:8	cev49_090.scr	8	チェスター	Chester Barklight	personagem		臭いからして、絶対無理だぜ……	Just from the smell, no way in hell...	
+cev49_090.scr:9	cev49_090.scr	9	ルーク	Luke fon Fabre	personagem		お前ら、ほんっとわかってねぇなぁ！	You guys don't get it at all!	
+cev49_090.scr:10	cev49_090.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x1	食えねぇパンってのは、\nナタリアのパンだって	The bread that's truly inedible\nis the bread Natalia makes!	
+cev49_090.scr:11	cev49_090.scr	11	ルーク	Luke fon Fabre	personagem	CRLF x2	あいつの作ったのは、\n持ちたくないぐらい、\nすげぇパンなんだぞ！	What she makes is so terrifying,\nyou wouldn't even want to hold it\nin your hands!	
+cev49_090.scr:12	cev49_090.scr	12	ノーマ	Norma Beatty	personagem		ここまで言われる三人って……	To hear those three described like that...	
+cev49_090.scr:13	cev49_090.scr	13	ノーマ	Norma Beatty	personagem		でも、面白いからいいや∀	Well, it's hilarious, so whatever!	
+cev49_200.scr:0	cev49_200.scr	0	ルーク	Luke fon Fabre	personagem	CRLF x1	通常。\n	Normal.\n	
+cev49_200.scr:1	cev49_200.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:2	cev49_200.scr	2	ルーク	Luke fon Fabre	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev49_200.scr:3	cev49_200.scr	3	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:4	cev49_200.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev49_200.scr:5	cev49_200.scr	5	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:6	cev49_200.scr	6	ルーク	Luke fon Fabre	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev49_200.scr:7	cev49_200.scr	7	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:8	cev49_200.scr	8	ルーク	Luke fon Fabre	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev49_200.scr:9	cev49_200.scr	9	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:10	cev49_200.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x1	大笑い。\n	Hearty laughter.\n	
+cev49_200.scr:11	cev49_200.scr	11	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:12	cev49_200.scr	12	ルーク	Luke fon Fabre	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev49_200.scr:13	cev49_200.scr	13	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:14	cev49_200.scr	14	ルーク	Luke fon Fabre	personagem	CRLF x1	へ〜。\n	Heh.\n	
+cev49_200.scr:15	cev49_200.scr	15	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:16	cev49_200.scr	16	ルーク	Luke fon Fabre	personagem	CRLF x1	激怒。\n	Rage.\n	
+cev49_200.scr:17	cev49_200.scr	17	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:18	cev49_200.scr	18	ルーク	Luke fon Fabre	personagem	CRLF x1	そっぽ向。\n	Looking away.\n	
+cev49_200.scr:19	cev49_200.scr	19	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:20	cev49_200.scr	20	ルーク	Luke fon Fabre	personagem	CRLF x1	興味なし。\n	No interest.\n	
+cev49_200.scr:21	cev49_200.scr	21	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:22	cev49_200.scr	22	ルーク	Luke fon Fabre	personagem	CRLF x1	痛い。\n	Pain.\n	
+cev49_200.scr:23	cev49_200.scr	23	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:24	cev49_200.scr	24	ルーク	Luke fon Fabre	personagem	CRLF x1	通常。\n	Normal.\n	
+cev49_200.scr:25	cev49_200.scr	25	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:26	cev49_200.scr	26	ルーク	Luke fon Fabre	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev49_200.scr:27	cev49_200.scr	27	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:28	cev49_200.scr	28	ルーク	Luke fon Fabre	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev49_200.scr:29	cev49_200.scr	29	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:30	cev49_200.scr	30	ルーク	Luke fon Fabre	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev49_200.scr:31	cev49_200.scr	31	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:32	cev49_200.scr	32	ルーク	Luke fon Fabre	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev49_200.scr:33	cev49_200.scr	33	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:34	cev49_200.scr	34	ルーク	Luke fon Fabre	personagem	CRLF x1	大笑い。\n	Hearty laughter.\n	
+cev49_200.scr:35	cev49_200.scr	35	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:36	cev49_200.scr	36	ルーク	Luke fon Fabre	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev49_200.scr:37	cev49_200.scr	37	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:38	cev49_200.scr	38	ルーク	Luke fon Fabre	personagem	CRLF x1	へ〜。\n	Heh.\n	
+cev49_200.scr:39	cev49_200.scr	39	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:40	cev49_200.scr	40	ルーク	Luke fon Fabre	personagem	CRLF x1	激怒。\n	Rage.\n	
+cev49_200.scr:41	cev49_200.scr	41	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:42	cev49_200.scr	42	ルーク	Luke fon Fabre	personagem	CRLF x1	そっぽ向。\n	Looking away.\n	
+cev49_200.scr:43	cev49_200.scr	43	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:44	cev49_200.scr	44	ルーク	Luke fon Fabre	personagem	CRLF x1	興味なし。\n	No interest.\n	
+cev49_200.scr:45	cev49_200.scr	45	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:46	cev49_200.scr	46	ルーク	Luke fon Fabre	personagem	CRLF x1	痛い。\n	Pain.\n	
+cev49_200.scr:47	cev49_200.scr	47	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:48	cev49_200.scr	48	ルーク	Luke fon Fabre	personagem	CRLF x1	通常。\n	Normal.\n	
+cev49_200.scr:49	cev49_200.scr	49	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:50	cev49_200.scr	50	ルーク	Luke fon Fabre	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev49_200.scr:51	cev49_200.scr	51	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:52	cev49_200.scr	52	ルーク	Luke fon Fabre	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev49_200.scr:53	cev49_200.scr	53	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:54	cev49_200.scr	54	ルーク	Luke fon Fabre	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev49_200.scr:55	cev49_200.scr	55	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:56	cev49_200.scr	56	ルーク	Luke fon Fabre	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev49_200.scr:57	cev49_200.scr	57	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:58	cev49_200.scr	58	ルーク	Luke fon Fabre	personagem	CRLF x1	大笑い。\n	Hearty laughter.\n	
+cev49_200.scr:59	cev49_200.scr	59	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:60	cev49_200.scr	60	ルーク	Luke fon Fabre	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev49_200.scr:61	cev49_200.scr	61	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:62	cev49_200.scr	62	ルーク	Luke fon Fabre	personagem	CRLF x1	へ〜。\n	Heh.\n	
+cev49_200.scr:63	cev49_200.scr	63	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:64	cev49_200.scr	64	ルーク	Luke fon Fabre	personagem	CRLF x1	激怒。\n	Rage.\n	
+cev49_200.scr:65	cev49_200.scr	65	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:66	cev49_200.scr	66	ルーク	Luke fon Fabre	personagem	CRLF x1	そっぽ向。\n	Looking away.\n	
+cev49_200.scr:67	cev49_200.scr	67	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:68	cev49_200.scr	68	ルーク	Luke fon Fabre	personagem	CRLF x1	興味なし。\n	No interest.\n	
+cev49_200.scr:69	cev49_200.scr	69	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev49_200.scr:70	cev49_200.scr	70	ルーク	Luke fon Fabre	personagem	CRLF x1	痛い。\n	Pain.\n	
+cev49_200.scr:71	cev49_200.scr	71	ルーク	Luke fon Fabre	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	

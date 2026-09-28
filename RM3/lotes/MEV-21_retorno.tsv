@@ -1,0 +1,200 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev21_010.scr:0	mev21_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	この仕事は、リタから。\nあなた指名の依頼よ	This job is from Rita.\nIt's a request naming you specifically.	
+mev21_010.scr:1	mev21_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	そうね。\nカノンノもあなたが一緒だと\n喜ぶもんね	Indeed.\nKanonno is always glad\nto have you along, too.	
+mev21_010.scr:2	mev21_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	今のところ、異常はないみたいよ。\n本人も平気だと言っていたし	So far, there seems to be no abnormality.\nShe said she felt fine herself, too.	
+mev21_010.scr:3	mev21_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	カノンノが無事だったのは、\nきっと「あなた」を全て受け止めたからね	Kanonno came through safely because\nshe must have embraced all of 'you'.	
+mev21_010.scr:4	mev21_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	あなたの全てを信頼して、\nあなたという存在を受け入れる心が\n彼女にあったからだと思うよ…	I think it's because she trusted\neverything about you and opened her heart\nto accept the person that you are...	
+mev21_010.scr:5	mev21_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	今回は、その繋がりを再度確認する\n仕事でもあるね	This job will also serve to reaffirm\nthat bond between you two.	
+mev21_010.scr:6	mev21_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	さて、今回の目的地はシフノ湧泉洞。\nあの新しく現れたジルディアのキバが\nある場所よ	Now, our destination is Sifno Spring Cave,\nwhere that newly appeared Fang of Zirdia\nis located.	
+mev21_010.scr:7	mev21_010.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	そこでの侵食が今、\n最も勢いがあるらしいの	The erosion there is reportedly\nat its fiercest right now.	
+mev21_010.scr:8	mev21_010.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	カノンノにディセンダーの能力が\n転写されているかどうか、\nそこでなら試す事が出来るから	We can test there whether the power\nof the Descender has been\ntranscribed to Kanonno.	
+mev21_010.scr:9	mev21_010.scr	9	リタ	Rita Mordio	personagem	CRLF x1	あたしはもっと簡単、かつ安全に\n能力転写が出来る術式を研究してみるわ	I'll research a formula to transcribe\npower more simply and safely.	
+mev21_010.scr:10	mev21_010.scr	10	アンジュ	Ange Serena	personagem		出来るの？	Can you do that?	
+mev21_010.scr:11	mev21_010.scr	11	リタ	Rita Mordio	personagem	CRLF x2	まあ…、前の実験で\nカノンノが協力してくれてたから、\n糸口が掴めたって言うか…	Well... Kanonno cooperated with me\nin the previous experiment,\nso I managed to grasp a clue, I guess...	
+mev21_010.scr:12	mev21_010.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	そうね。\nカノンノ、頑張ってくれたもんね	Indeed.\nKanonno really gave it her all, after all.	
+mev21_010.scr:13	mev21_010.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	まあ、まずは成功しているかどうかを\n確認しないとね	Well, first we need to confirm\nwhether it actually succeeded.	
+mev21_010.scr:14	mev21_010.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	同行者はカノンノとシャーリィよ。\nシフノ湧泉洞へ向かってちょうだい	Your companions are Kanonno and Shirley.\nPlease head to Sifno Spring Cave.	
+mev21_010.scr:15	mev21_010.scr	15	アンジュ	Ange Serena	personagem		それじゃ、気を付けて行ってきてね	Take care out there, then.	
+mev21_010.scr:16	mev21_010.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		言われなくても行く、と言う	Say you'd go even without being told	
+mev21_010.scr:17	mev21_010.scr	17	(opcao do jogador)	(opcao do jogador)	escolha		カノンノの状態が気になる	Worry about Kanonno's condition	
+mev21_020.scr:0	mev21_020.scr	0	シャーリィ	Shirley Fennes	personagem	CRLF x2	一つでも世界を脅かしている\nジルディアのキバが、\nまた増えたなんて…	To think another Fang of Zirdia has\nappeared, when even just one was already\nthreatening the world...	
+mev21_020.scr:1	mev21_020.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	せっかく止まっていた戦争も、\nまた始まったって言ってたね…	And the wars that had finally stopped\nhave started up again, they said...	
+mev21_020.scr:2	mev21_020.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	侵食されていない大地を獲得する為に\n色んな国が領土を奪い合ってる	Nations are fighting over territory\nto seize land that hasn't been eroded.	
+mev21_020.scr:3	mev21_020.scr	3	シャーリィ	Shirley Fennes	personagem	CRLF x1	わたしの国も、戦争で全てを\n焼き払われてしまいました	My homeland was burnt to the ground\nby war as well.	
+mev21_020.scr:4	mev21_020.scr	4	シャーリィ	Shirley Fennes	personagem	CRLF x2	例え焼け野原でも、\nまた新たに住居を構える土地だけは\n残っていると思っていたのに…	Even if it was reduced to scorched earth,\nI thought the land where we could build\nnew homes would at least remain...	
+mev21_020.scr:5	mev21_020.scr	5	シャーリィ	Shirley Fennes	personagem	CRLF x1	今度はその土地すら、また戦争によって\n奪われようとしているのですね…	And now, even that land is being taken\nby war once again...	
+mev21_020.scr:6	mev21_020.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ラザリスに大地を奪われる恐怖から、\nヒトはまた、戦いを始めてしまったんだね…	Terrified of losing their land to Lazaris,\npeople have started fighting again...	
+mev21_020.scr:7	mev21_020.scr	7	カノンノ	Kanonno Grassvalley	personagem		その恐怖をぬぐい去る事が出来れば…	If only we could wipe away that fear...	
+mev21_020.scr:8	mev21_020.scr	8	シャーリィ	Shirley Fennes	personagem	CRLF x1	もし、○○さんの能力が\nカノンノさんに転写されていれば	If ○○'s power has been\ntranscribed to you, Kanonno,	
+mev21_020.scr:9	mev21_020.scr	9	シャーリィ	Shirley Fennes	personagem	CRLF x1	他の人々へも能力を転写して、\nみんなで侵食を食い止める事が出来ます	we can transcribe it to other people too,\nand stop the erosion together.	
+mev21_020.scr:10	mev21_020.scr	10	シャーリィ	Shirley Fennes	personagem	CRLF x1	それで、また世界中のみんなの心が\n危機に向かって一つになれば…	And then everyone across the world might\nunite their hearts against this crisis...	
+mev21_020.scr:11	mev21_020.scr	11	カノンノ	Kanonno Grassvalley	personagem		うん…	Yeah...	
+mev21_020.scr:12	mev21_020.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	でも…、でもいつか、\nラザリスの世界と私達のルミナシア…	Still... someday, Lazaris's world\nand our Luminasia...	
+mev21_020.scr:13	mev21_020.scr	13	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	互いの世界が、\n互いを受け入れる様になればいいな	I hope our worlds can come to accept\none another.	
+mev21_020.scr:14	mev21_020.scr	14	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	以前、人が戦闘を止めて助け合った様に、\n世界だって、助け合う事が出来る\nはずだもん…	Just as people stopped fighting to help\neach other, worlds should be able\nto help each other, too...	
+mev21_030.scr:0	mev21_030.scr	0	シャーリィ	Shirley Fennes	personagem		う………	Ugh...	
+mev21_030.scr:1	mev21_030.scr	1	カノンノ	Kanonno Grassvalley	personagem		シャーリィ…	Shirley...	
+mev21_030.scr:2	mev21_030.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	そうか、ここは海水が入り込む所…。\n洞窟の中にこもった潮気が\n影響したのかも	Right, seawater flows into this cave...\nThe trapped salty air in here\nmust be affecting her.	
+mev21_030.scr:3	mev21_030.scr	3	シャーリィ	Shirley Fennes	personagem	CRLF x1	大丈夫です…。\nそこまではひどくないみたいだから	I'm all right...\nIt doesn't seem to be that bad yet.	
+mev21_030.scr:4	mev21_030.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	○○。\nシャーリィは、海水を浴びると\n体調を崩す体質なの	○○.\nShirley's constitution makes her sick\nwhenever she's exposed to seawater.	
+mev21_030.scr:5	mev21_030.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ここは、シャーリィの身体には過酷な\n環境なんだよ	This environment is very harsh\non Shirley's body.	
+mev21_030.scr:6	mev21_030.scr	6	シャーリィ	Shirley Fennes	personagem		いいえ、行きます	No, I'm going.	
+mev21_030.scr:7	mev21_030.scr	7	シャーリィ	Shirley Fennes	personagem		きっと、ここには真水もあるはずです	There must be fresh water in here too.	
+mev21_030.scr:8	mev21_030.scr	8	シャーリィ	Shirley Fennes	personagem	CRLF x1	真水に浸かれば、この状態も\n幾分か治りますので	If I soak in fresh water,\nmy condition will improve somewhat.	
+mev21_030.scr:9	mev21_030.scr	9	シャーリィ	Shirley Fennes	personagem		はい、わたし、大丈夫です	Yes, I will be fine.	
+mev21_030.scr:10	mev21_030.scr	10	シャーリィ	Shirley Fennes	personagem	CRLF x1	それに、ここは海水だけじゃなく\n真水もあるはずです	Besides, there isn't just seawater here;\nthere should be fresh water as well.	
+mev21_030.scr:11	mev21_030.scr	11	シャーリィ	Shirley Fennes	personagem		真水に浸かれば、少しは回復しますので	Fresh water will help me recover a bit.	
+mev21_030.scr:12	mev21_030.scr	12	シャーリィ	Shirley Fennes	personagem	CRLF x1	故郷の国の為にも、世界の為にも、\n今は引き返す時間の方が惜しいですから	For my homeland and for the world,\nwe cannot afford the time to turn back.	
+mev21_030.scr:13	mev21_030.scr	13	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ごめんね。\nありがとう、シャーリィ	I'm sorry.\nThank you, Shirley.	
+mev21_030.scr:14	mev21_030.scr	14	シャーリィ	Shirley Fennes	personagem	CRLF x1	お礼だなんて、そんな…。\n迷惑をかけているのは、わたしです	Please, there's no need to thank me...\nI'm the one causing you trouble.	
+mev21_030.scr:15	mev21_030.scr	15	シャーリィ	Shirley Fennes	personagem		…さあ、先へ進みましょう	...Come, let's keep moving.	
+mev21_030.scr:16	mev21_030.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		一旦戻る事を提案する	Suggest heading back for now	
+mev21_030.scr:17	mev21_030.scr	17	(opcao do jogador)	(opcao do jogador)	escolha		ここは耐えてもらう	Ask her to endure it for now	
+mev21_035.scr:0	mev21_035.scr	0	カノンノ	Kanonno Grassvalley	personagem		この扉、開かないみたい	Looks like this door won't open.	
+mev21_035.scr:1	mev21_035.scr	1	カノンノ	Kanonno Grassvalley	personagem		これじゃあ先に進めないよ	We can't go any further like this.	
+mev21_035.scr:2	mev21_035.scr	2	シャーリィ	Shirley Fennes	personagem	CRLF x1	こっちの階段は、\nどこかに続いてるのかな？	I wonder where these stairs\nlead down to?	
+mev21_035.scr:3	mev21_035.scr	3	カノンノ	Kanonno Grassvalley	personagem		奥、見えないね…	I can't see what's further in...	
+mev21_035.scr:4	mev21_035.scr	4	シャーリィ	Shirley Fennes	personagem	CRLF x1	わたし、中に入って見てきます。\nここは、真水の様ですし	I'll go inside and take a look.\nIt appears to be fresh water here.	
+mev21_035.scr:5	mev21_035.scr	5	カノンノ	Kanonno Grassvalley	personagem		あれっ、聞いていなかったのかな？	Oh, didn't you know?	
+mev21_035.scr:6	mev21_035.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	シャーリィはね、\n水の中で呼吸が出来るんだよ	Shirley can actually breathe\nunderwater, you see.	
+mev21_035.scr:7	mev21_035.scr	7	シャーリィ	Shirley Fennes	personagem		だから、任せて下さい	So please, leave it to me.	
+mev21_035.scr:8	mev21_035.scr	8	シャーリィ	Shirley Fennes	personagem		それじゃあ、行ってきます	All right then, I'll be right back.	
+mev21_035.scr:9	mev21_035.scr	9	カノンノ	Kanonno Grassvalley	personagem		扉が開いたよ！	The door opened!	
+mev21_035.scr:10	mev21_035.scr	10	シャーリィ	Shirley Fennes	personagem	CRLF x2	奥にレバーがあったから引いてみました。\nあれが、扉を開ける仕組みになって\nいたんですね	I found a lever inside and pulled it.\nThat was the mechanism to open\nthe door, it seems.	
+mev21_035.scr:11	mev21_035.scr	11	カノンノ	Kanonno Grassvalley	personagem		シャーリィは、大丈夫なの？	Are you all right, Shirley?	
+mev21_035.scr:12	mev21_035.scr	12	シャーリィ	Shirley Fennes	personagem	CRLF x2	ええ。\n真水に浸かる事も出来ましたし、\n体調も良くなって来ました	Yes.\nI was able to soak in fresh water,\nand I'm feeling much better now.	
+mev21_035.scr:13	mev21_035.scr	13	シャーリィ	Shirley Fennes	personagem		さあ、奥へ行きましょう	Come, let's head further in.	
+mev21_035.scr:14	mev21_035.scr	14	(opcao do jogador)	(opcao do jogador)	escolha		危険だ、と言って止める	Warn her it's dangerous and stop her	
+mev21_035.scr:15	mev21_035.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		息が持つのか、と聞く	Ask if she can hold her breath	
+mev21_040.scr:0	mev21_040.scr	0	シャーリィ	Shirley Fennes	personagem		はぁ…、はぁ…	*pant*... *pant*...	
+mev21_040.scr:1	mev21_040.scr	1	カノンノ	Kanonno Grassvalley	personagem		シャーリィ、少し休む…？	Shirley, want to rest a bit...?	
+mev21_040.scr:2	mev21_040.scr	2	シャーリィ	Shirley Fennes	personagem		いいえ…	No...	
+mev21_040.scr:3	mev21_040.scr	3	シャーリィ	Shirley Fennes	personagem	CRLF x2	ここでは潮を感じないから、\n大丈夫です。\nでも、それとは違う妙な空気が…	I don't feel the sea here, so I'm fine.\nHowever, there is a strange atmosphere\nquite different from that...	
+mev21_040.scr:4	mev21_040.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	私も、何だか目がヒリヒリする\n感じがして	My eyes feel kind of stinging\nas well...	
+mev21_040.scr:5	mev21_040.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	この先、まさか\nジルディアのキバが近いのかな…	Could a Fang of Zirdia\nbe close ahead...?	
+mev21_040.scr:6	mev21_040.scr	6	シャーリィ	Shirley Fennes	personagem	CRLF x1	だったら、\nここで休んでいる時間はありません	If so, we have no time\nto be resting here.	
+mev21_040.scr:7	mev21_040.scr	7	シャーリィ	Shirley Fennes	personagem		行きましょう	Let's go.	
+mev21_050.scr:0	mev21_050.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あの壁、ジルディアのキバだ。\n侵食がこんなにも…！！	That wall... It's a Fang of Zirdia.\nThe erosion is so intense...!!	
+mev21_050.scr:1	mev21_050.scr	1	シャーリィ	Shirley Fennes	personagem	CRLF x1	あそこ！\n倒れている人が…！！	Over there!\nSomeone has collapsed...!!	
+mev21_050.scr:2	mev21_050.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	侵食を受けてる。\nかなり弱っているけど、まだ息はあるわ！	They've suffered erosion.\nThey're very weak, but still breathing!	
+mev21_050.scr:3	mev21_050.scr	3	カノンノ	Kanonno Grassvalley	personagem		うん！	Yeah!	
+mev21_050.scr:4	mev21_050.scr	4	(sem caixa de nome)	(sem caixa de nome)	sem_caixa		力を使うよう、促す	Urge her to use her power	
+mev21_055.scr:0	mev21_055.scr	0	シャーリィ	Shirley Fennes	personagem	CRLF x1	全部、元に…。\n元の姿を取り戻した…！！	Everything has returned...\nRestored to how it was before...!!	
+mev21_055.scr:1	mev21_055.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	○○の力…、\nちゃんと受け継げてる…！！	○○'s power...\nIt truly carried over...!!	
+mev21_055.scr:2	mev21_055.scr	2	シャーリィ	Shirley Fennes	personagem		良かったですね、カノンノさん	I'm so glad, Kanonno.	
+mev21_055.scr:3	mev21_055.scr	3	カノンノ	Kanonno Grassvalley	personagem		うん	Yeah.	
+mev21_055.scr:4	mev21_055.scr	4	カノンノ	Kanonno Grassvalley	personagem		さあ、この人達を助けなきゃ	Now, we have to save these people.	
+mev21_055.scr:5	mev21_055.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あれ？　この衣装。\nまさか、暁の従者の…	Wait... These clothes.\nCould they be... the Dawn Cultists...?	
+mev21_055.scr:6	mev21_055.scr	6	シャーリィ	Shirley Fennes	personagem	CRLF x1	かなり衰弱してるわ。\nまずは、彼らを船へ運びましょう	They're severely weakened.\nLet's carry them to the ship first.	
+mev21_055.scr:7	mev21_055.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そうだね。\n医務室で診てもらわなきゃ！	You're right.\nWe have to get them to the infirmary!	
+mev21_060.scr:0	mev21_060.scr	0	アンジュ	Ange Serena	personagem		あなた達、お疲れ様！	Good work, everyone!	
+mev21_060.scr:1	mev21_060.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	すごいわ、\n実験はちゃんと成功していたのね！	Incredible!\nThe experiment really was a success!	
+mev21_060.scr:2	mev21_060.scr	2	カノンノ	Kanonno Grassvalley	personagem		それより、暁の従者の二人は…	More importantly, the two Dawn Cultists...	
+mev21_060.scr:3	mev21_060.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	彼らには、覚えがあるよ。\nラザリスを崇めていたあの二人ね	I remember them.\nThose two who worshipped Lazaris, right?	
+mev21_060.scr:4	mev21_060.scr	4	ロックス	Rocks	personagem	CRLF x1	先程意識を取り戻しまして、\n今食事をされているところです	They regained consciousness earlier\nand are currently having a meal.	
+mev21_060.scr:5	mev21_060.scr	5	ロックス	Rocks	personagem	CRLF x2	ケガも無い様子ですし。\nただ、何日も食べていなくて、\n体力を消耗していたみたいです	They seem to have no injuries.\nNot having eaten for days, however,\nthey had simply exhausted their strength.	
+mev21_060.scr:6	mev21_060.scr	6	カノンノ	Kanonno Grassvalley	personagem		何で、あんな所にいたんだろう？	Why were they in a place like that?	
+mev21_060.scr:7	mev21_060.scr	7	ロックス	Rocks	personagem	CRLF x1	ああ、そうでした。\nそれを伝えに来たんですが	Ah, quite so.\nI came here to inform you of that.	
+mev21_060.scr:8	mev21_060.scr	8	ロックス	Rocks	personagem	CRLF x1	あの方達、ここアドリビトムへの接触を\n目的にしていたそうで…	It seems their goal was to make contact\nwith us here at Ad Libitum...	
+mev21_060.scr:9	mev21_060.scr	9	アンジュ	Ange Serena	personagem		まあ、何かしら？	My, whatever for?	
+mev21_060.scr:10	mev21_060.scr	10	ロックス	Rocks	personagem	CRLF x2	シフノ湧泉洞を抜けた先に、アドリビトムとの\n連絡を取れる街があると聞いて、\n旅をしていたそうです	They heard that past Sifno Spring Cave,\nthere was a town linked to Ad Libitum,\nand so they set out on a journey.	
+mev21_060.scr:11	mev21_060.scr	11	アンジュ	Ange Serena	personagem		詳しい話は、直接聞いた方がいいかな	We'd better hear the details directly.	
+mev21_060.scr:12	mev21_060.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	○○、カノンノ。\nあなた達も医務室へいらっしゃい	○○, Kanonno.\nYou two come to the infirmary as well.	
+mev21_070.scr:0	mev21_070.scr	0	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x1	あなた達にはまた、助けられました。\n本当に、ありがとうございます	You've saved us once again.\nThank you so very much.	
+mev21_070.scr:1	mev21_070.scr	1	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x1	ここを訪ねる為に、シフノ湧泉洞を抜ける\nところだったんですが	We were about to pass through\nSifno Spring Cave to visit you here,	
+mev21_070.scr:2	mev21_070.scr	2	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x1	途中で地震に遭いまして…、足元の地面が抜け、\nそのままあの場に落ちてしまったんです	A tremor struck and the floor gave out;\nwe fell straight down into that spot.	
+mev21_070.scr:3	mev21_070.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	二度目のジルディアのキバが\n現れた時の事なのね…	That must have been when the second\nFang of Zirdia appeared...	
+mev21_070.scr:4	mev21_070.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	ところで、アドリビトムに\n接触したかったそうですね。\nどういった御用件かしら？	By the way, I heard you wished\nto contact Ad Libitum.\nWhat business did you have with us?	
+mev21_070.scr:5	mev21_070.scr	5	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x2	あの、アドリビトムが探しているという\n植物について、何かの役に立てればと\n思いまして	Well, we thought we might be of help\nregarding the plant that Ad Libitum\nhas been searching for.	
+mev21_070.scr:6	mev21_070.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	あ…、ええと。\nツリガネトンボ草の事でしょうか？	Ah... um.\nDo you mean the Bell Dragonfly Herb?	
+mev21_070.scr:7	mev21_070.scr	7	アンジュ	Ange Serena	personagem		あれについてはもう、解決して…	That matter has already been settled...	
+mev21_070.scr:8	mev21_070.scr	8	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x2	いえ、ウズマキフスベの方です。\n確か、採取協力をあちこちに\n呼びかけていましたよね	No, the Whirl Puffball.\nYou sent out calls everywhere\nasking for gathering assistance, right?	
+mev21_070.scr:9	mev21_070.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	ウズマキフスベを\n持っているんですか！？	Do you have\na Whirl Puffball?!	
+mev21_070.scr:10	mev21_070.scr	10	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x2	あ、…そのぅ。\n私の実家の切り株に、\n５年前に生えたんですね	Ah... well, um.\nOne grew on a tree stump at my home\nabout five years ago, you see.	
+mev21_070.scr:11	mev21_070.scr	11	暁の従者・信者３	Dawn Cultist 3	personagem		もう、絶滅したとか言う話でしたけど…	Though it was said to be extinct...	
+mev21_070.scr:12	mev21_070.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	…５年前。\n…じゃあ、今はもう生えてないんですね	...Five years ago.\n...So it isn't growing there anymore.	
+mev21_070.scr:13	mev21_070.scr	13	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x2	その、菌糸くらいなら\n残ってるかもと思ったので、\n切り株を持って来たんです	Well, I thought some mycelium\nmight still remain,\nso I brought the tree stump with me.	
+mev21_070.scr:14	mev21_070.scr	14	リタ	Rita Mordio	personagem		ちょっ…、それ、見せて！！	H-Hold on... Let me see that!!	
+mev21_070.scr:15	mev21_070.scr	15	リタ	Rita Mordio	personagem	CRLF x1	それ、使えるかもよ。\nドクメントの一片でも残ってたらね	That might actually work!\nIf even a scrap of its Document remains!	
+mev21_070.scr:16	mev21_070.scr	16	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x1	良かった。\n私達にも出来る事があって	What a relief.\nThere's something we can do after all.	
+mev21_070.scr:17	mev21_070.scr	17	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x2	私達は悪くなっていく世を憂いて、\n救い手となってくれるディセンダーを\n待ち望んでいた	We grieved over this worsening world,\nlonging for the Descender\nto become our savior.	
+mev21_070.scr:18	mev21_070.scr	18	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x1	けれども、そうする事で自分達は\n何も生み出そうとはしていなかった	Yet by doing so, we weren't trying\nto create anything ourselves.	
+mev21_070.scr:19	mev21_070.scr	19	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x1	自分達では何も変えられないと。\n世界も、自分自身も信じていなかった…	Thinking we could change nothing, we had\nno faith in the world or in ourselves...	
+mev21_070.scr:20	mev21_070.scr	20	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x2	逃げていただけだったんだ。\n世の中への不満や、自分の非力さに\n正面からぶつかる自信がなくて	We were just running away.\nLacking the confidence to face the world\nor our own powerlessness head-on.	
+mev21_070.scr:21	mev21_070.scr	21	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x2	そして、世界から目をそらして\n逃げていた結果、\nラザリスに力を与えてしまった	And as a result of averting our eyes\nand running from the world,\nwe ended up giving power to Lazaris.	
+mev21_070.scr:22	mev21_070.scr	22	暁の従者・信者３	Dawn Cultist 3	personagem		私達の…弱さが…	It was our... weakness...	
+mev21_070.scr:23	mev21_070.scr	23	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x1	あれからもう逃げずに、自分達で世界を\n守れるのならばと生き方を変えました	We resolved to run no more, changing how\nwe live to protect the world ourselves.	
+mev21_070.scr:24	mev21_070.scr	24	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x2	今起こっている世界の脅威、皆なす術もなく\n希望を見失う中、あなた達が果敢にも\n立ち向かっている事を知ったのです	While everyone was helpless against this\nthreat and losing hope, we learned that\nyou were bravely standing against it.	
+mev21_070.scr:25	mev21_070.scr	25	アンジュ	Ange Serena	personagem		そうだったんですか…	Is that what happened...?	
+mev21_070.scr:26	mev21_070.scr	26	リタ	Rita Mordio	personagem	CRLF x1	ふーん…。\nじゃ、あんた達にも重要な仕事があるわ	Hmph...\nThen I have an important job for you too.	
+mev21_070.scr:27	mev21_070.scr	27	リタ	Rita Mordio	personagem	CRLF x1	あんた達のさっき話した内容を、\n出来るだけ多くの人に伝えるの	Tell as many people as possible\nwhat you just told us.	
+mev21_070.scr:28	mev21_070.scr	28	リタ	Rita Mordio	personagem		…その…触れ合うっていうか…	...Well... by touching each other, see...	
+mev21_070.scr:29	mev21_070.scr	29	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x1	…はい？\n触れ合う…ですか？	...Pardon?\nTouching... each other?	
+mev21_070.scr:30	mev21_070.scr	30	リタ	Rita Mordio	personagem	CRLF x1	世界を守ろう、変えていこうという熱意を、\nルミナシアのみんなに伝えて欲しいのよ	Spread your passion to change and protect\nthe world to everyone in Luminasia!	
+mev21_070.scr:31	mev21_070.scr	31	リタ	Rita Mordio	personagem		侵食を、払拭する力をね	The power to wipe out the erosion.	
+mev21_070.scr:32	mev21_070.scr	32	カノンノ	Kanonno Grassvalley	personagem		ディセンダーの力を、広めてもらうのね！！	Spread the Descender's power, you mean!!	
+mev21_070.scr:33	mev21_070.scr	33	リタ	Rita Mordio	personagem	CRLF x2	…そ！\nカノンノの思いを、\n繋いだ手を通してこいつらに伝える	...Yup!\nPass Kanonno's feelings to them\nthrough holding hands.	
+mev21_070.scr:34	mev21_070.scr	34	リタ	Rita Mordio	personagem	CRLF x2	あたしが編み出したこの術式さえあれば、\n人と人とが触れ合うだけで、\n能力の転写が出来るはず…！	With this formula I devised,\njust people touching each other should be\nenough to transcribe the ability...!	
+mev21_070.scr:35	mev21_070.scr	35	暁の従者・信者３	Dawn Cultist 3	personagem		ディセンダーの力…ですか？	The Descender's power...?	
+mev21_070.scr:36	mev21_070.scr	36	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	みんながディセンダーになるんです。\nみんなで世界を救いに導くんです	Everyone becomes a Descender.\nWe will lead this world to salvation!	
+mev21_070.scr:37	mev21_070.scr	37	カノンノ	Kanonno Grassvalley	personagem		どうか、未来を共に作って下さい	Please, let us build the future together!	
+mev21_070.scr:38	mev21_070.scr	38	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x1	出来る事であれば、何でもします。\n私達を必要としてくれてありがとう	We'll do anything within our power.\nThank you for needing us.	
+mev21_070.scr:39	mev21_070.scr	39	リタ	Rita Mordio	personagem	CRLF x2	よし。\nさーてと、\nあたしは切り株を分析してみるわね！	All right!\nNow then,\nI'll go analyze this tree stump!	
+mev21_080.scr:0	mev21_080.scr	0	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x1	はい？\n私達に、伝えたい事がある…ですか？	Pardon?\nYou have something to tell us...?	
+mev21_080.scr:1	mev21_080.scr	1	暁の従者・信者３	Dawn Cultist 3	personagem		ラザリスを憎まないでくれ…と？	...Not to hate Lazaris, you say?	
+mev21_080.scr:2	mev21_080.scr	2	暁の従者・信者３	Dawn Cultist 3	personagem	CRLF x2	そんな気持ちはありません。\nそれでは、私達は弱さを正当化したまま\n何も変われないから	We harbor no such feelings.\nIf we did, we would justify our weakness\nand never change at all.	
+mev21_080.scr:3	mev21_080.scr	3	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x1	正義感も主義主張も要りません。\n敵を作るのはもうたくさんですしね	We don't need righteous causes or dogmas.\nWe've had enough of making enemies.	
+mev21_080.scr:4	mev21_080.scr	4	暁の従者・信者４	Dawn Cultist 4	personagem	CRLF x2	私達に希望をありがとう、ディセンダー。\n共に生きて行く力を作りに、\n私達はこれから旅をしてきます	Thank you for giving us hope, Descender.\nWe will journey now to build the strength\nto live side by side.	
+mev21_080.scr:5	mev21_080.scr	5	カノンノ	Kanonno Grassvalley	personagem		あの人達なら大丈夫	Those two will be just fine.	
+mev21_080.scr:6	mev21_080.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	世界樹がラザリスを守ろうとした思いも、\nあなたの力も、あなたの光も、\nきっとみんなに届けられるよ	The World Tree's wish to protect Lazaris,\nyour power, and your light...\nI know they'll surely reach everyone.	
+mev21_090.scr:0	mev21_090.scr	0	リタ	Rita Mordio	personagem	CRLF x2	○○。\n切り株のドクメントの解析が\n終わったわ	○○.\nI've finished analyzing the stump's\nDocument.	
+mev21_090.scr:1	mev21_090.scr	1	リタ	Rita Mordio	personagem	CRLF x1	一部だけど、ウズマキフスベの\nドクメントが手に入ったわよ	It's only partial, but I got hold of\nthe Whirl Puffball's Document.	
+mev21_090.scr:2	mev21_090.scr	2	リタ	Rita Mordio	personagem	CRLF x1	あとは、ツリガネトンボ草の時みたいに\nドクメントを補っていけばいい	Now we just supplement the Document\nlike we did with the Bell Dragonfly Herb.	
+mev21_090.scr:3	mev21_090.scr	3	リタ	Rita Mordio	personagem		そう出来れば、いいんだけど…	If only it were that simple, though...	
+mev21_090.scr:4	mev21_090.scr	4	リタ	Rita Mordio	personagem	CRLF x1	あんた、わかってないわね。\nそこが一番難しいんじゃない	You really don't get it, do you?\nThat's the hardest part of all.	
+mev21_090.scr:5	mev21_090.scr	5	リタ	Rita Mordio	personagem	CRLF x1	ま、ね。\n前回と同じ様には行かないの	Well, yeah.\nIt won't go the same as last time.	
+mev21_090.scr:6	mev21_090.scr	6	リタ	Rita Mordio	personagem	CRLF x2	このウズマキフスベってキノコはね、\nツリガネトンボ草の時みたいに、\n進化をしていないの	This Whirl Puffball mushroom hasn't\nevolved over time like the Bell Dragonfly\nHerb did.	
+mev21_090.scr:7	mev21_090.scr	7	カノンノ	Kanonno Grassvalley	personagem		どういう事？	What do you mean?	
+mev21_090.scr:8	mev21_090.scr	8	ウィル	Will Raynard	personagem		このキノコは、無性生殖でな	This mushroom reproduces asexually.	
+mev21_090.scr:9	mev21_090.scr	9	カノンノ	Kanonno Grassvalley	personagem		キノコって、胞子だけで増えるのに？	Don't mushrooms multiply by spores alone?	
+mev21_090.scr:10	mev21_090.scr	10	リタ	Rita Mordio	personagem	CRLF x1	ま、あたしは専門じゃないけど、\nどうやらキノコも有性無性とあるらしいわ	I'm no expert, but apparently mushrooms\ncan reproduce sexually or asexually.	
+mev21_090.scr:11	mev21_090.scr	11	ウィル	Will Raynard	personagem	CRLF x2	多くの生物が有性生殖をしているのは、\n異なる性の遺伝情報を掛け合わせる事によって\n多彩な遺伝子の組み合わせを生み出す為にある	Many organisms reproduce sexually\nto combine genes from different sexes and\ngenerate diverse genetic combinations.	
+mev21_090.scr:12	mev21_090.scr	12	ウィル	Will Raynard	personagem	CRLF x1	環境の変化などに対応し、種としての生存の\n可能性を図る為なのだが	This is done to adapt to environmental\nchanges and ensure the species' survival,	
+mev21_090.scr:13	mev21_090.scr	13	ウィル	Will Raynard	personagem	CRLF x1	無性生殖はクローン作成になる為に、\n遺伝子に多様性が生まれる事はない	but asexual reproduction produces clones,\nso no genetic diversity is created.	
+mev21_090.scr:14	mev21_090.scr	14	リタ	Rita Mordio	personagem	CRLF x1	つまり、こいつのドクメントを\n継承した種類は、存在しない	In other words, no other species exists\nthat inherited this thing's Document.	
+mev21_090.scr:15	mev21_090.scr	15	カノンノ	Kanonno Grassvalley	personagem		「変化しない事」を選択した生物なんだ…	A creature that chose 'not to change'...	
+mev21_090.scr:16	mev21_090.scr	16	ウィル	Will Raynard	personagem	CRLF x1	いや、元々は変化の必要のない\n安定した土地に生えていたものだ	No, it originally grew in stable lands\nwhere change was never necessary.	
+mev21_090.scr:17	mev21_090.scr	17	ウィル	Will Raynard	personagem	CRLF x1	恐らく、近年の星晶採掘の影響で急激に起きた\n変化の為に絶滅に追い込まれたのだろう	Most likely, sudden shifts from recent\nStar Crystal mining drove it extinct.	
+mev21_090.scr:18	mev21_090.scr	18	リタ	Rita Mordio	personagem		ヒトの都合で滅んだのね	Ruined for human convenience, then.	
+mev21_090.scr:19	mev21_090.scr	19	カノンノ	Kanonno Grassvalley	personagem		そうだ！！！	I've got it!!!	
+mev21_090.scr:20	mev21_090.scr	20	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あの、そのウズマキフスベを食べていた\n動物とか虫とかっていたのかな？	Um, were there any animals or insects\nthat ate the Whirl Puffball?	
+mev21_090.scr:21	mev21_090.scr	21	ウィル	Will Raynard	personagem	CRLF x1	ああ。\nそれは記録にあったが…	Yes.\nThat was indeed in the records, but...	
+mev21_090.scr:22	mev21_090.scr	22	カノンノ	Kanonno Grassvalley	personagem		それ、きっと、受け継がれているはずです！	Then it must have been passed down!	
+mev21_090.scr:23	mev21_090.scr	23	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	私、見たんです。\n食べ物になってくれた命が、\n受け継がれていくのを！！	I saw it myself!\nThe lives that became nourishment\nbeing carried on into the next!!	
+mev21_090.scr:24	mev21_090.scr	24	ウィル	Will Raynard	personagem		命が…受け継がれる？	Life... being carried on?	
+mev21_090.scr:25	mev21_090.scr	25	リタ	Rita Mordio	personagem	CRLF x1	…カノンノを信じろって？\nバカね、あんた	...Telling me to believe Kanonno?\nYou idiot.	
+mev21_090.scr:26	mev21_090.scr	26	リタ	Rita Mordio	personagem		信じない、なんて言ってないでしょ	I never said I didn't believe her.	
+mev21_090.scr:27	mev21_090.scr	27	ウィル	Will Raynard	personagem	CRLF x2	よし、ならば\nウズマキフスベが絶滅する辺りから\n生きてる生物を調べておこう	All right, then.\nLet's investigate creatures living around\nthe time the Whirl Puffball vanished.	
+mev21_090.scr:28	mev21_090.scr	28	(opcao do jogador)	(opcao do jogador)	escolha		早速、それに取り掛かろう、と言う	Say to get right to work on that	
+mev21_090.scr:29	mev21_090.scr	29	(opcao do jogador)	(opcao do jogador)	escolha		何か問題でもあるのか、と聞く	Ask if there is any problem	
+mev21_090.scr:30	mev21_090.scr	30	(sem caixa de nome)	(sem caixa de nome)	sem_caixa		カノンノを信じて欲しいと訴える	Plead with them to believe Kanonno	
+mev21_100.scr:0	mev21_100.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ありがとう、○○。\n私の話を信じてくれて	Thank you, ○○,\nfor believing what I said.	
+mev21_100.scr:1	mev21_100.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ほら、食べ物になってくれた命が、\n受け継がれていくのを\n私が見たって話だよ	You know, what I said about seeing\nthe lives that became food\nbeing carried on.	
+mev21_100.scr:2	mev21_100.scr	2	カノンノ	Kanonno Grassvalley	personagem		ん…、すごく嬉しかったよ	Mhm... It made me really happy.	
+mev21_100.scr:3	mev21_100.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あのね、私、わかったんだ。\nどうして過去の世界の記憶が私にあるのか	You know, I finally understand.\nWhy I carry memories of past worlds.	
+mev21_100.scr:4	mev21_100.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	きっと、原初の世界から続いてきた、\nたくさんの世界からのプレゼントだったんだ	They must be gifts from all the worlds\nconnected since the primordial world.	
+mev21_100.scr:5	mev21_100.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	未来を繋いでいけるという証。\n希望のプレゼント…	Proof that the future can be linked on.\nA gift of hope...	
+mev21_100.scr:6	mev21_100.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	…この世界が実りを迎えて、\n新しい世界がまた生まれる時…、\n私達の記憶も受け継がれていくんだね	...When this world bears fruit\nand a new world is born once more...\nour memories will be carried on too.	
+mev21_100.scr:7	mev21_100.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ずっと続いて来た記憶。\n今度は私達が希望を届けなきゃ…	Memories that continued for so long.\nThis time, we must deliver hope...	
+mev21_100.scr:8	mev21_100.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	生きて、\nみんなで一杯の可能性を学んで…	To live,\nand learn every possibility together...	
+mev21_100.scr:9	mev21_100.scr	9	(opcao do jogador)	(opcao do jogador)	escolha		何の事、と聞く	Ask what she means	
+mev21_100.scr:10	mev21_100.scr	10	(opcao do jogador)	(opcao do jogador)	escolha		当然だ、と言う	Say it is only natural	
+mev21_110.scr:0	mev21_110.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	あら、ウィルさん。\n何か依頼ですか？	Oh, Will.\nDo you have a quest for us?	
+mev21_110.scr:1	mev21_110.scr	1	ウィル	Will Raynard	personagem	CRLF x1	切り株から、ウズマキフスベの\nドクメントの欠片を採取した	From the stump, I retrieved a fragment\nof the Whirl Puffball's Document.	
+mev21_110.scr:2	mev21_110.scr	2	ウィル	Will Raynard	personagem	CRLF x1	このドクメントの残りを\n埋めていく必要がある	We need to fill in the remainder\nof this Document.	
+mev21_110.scr:3	mev21_110.scr	3	アンジュ	Ange Serena	personagem		でも、どうやって…？	But how...?	
+mev21_110.scr:4	mev21_110.scr	4	ウィル	Will Raynard	personagem	CRLF x2	ケイブレックスという魔物が、\nウズマキフスベを常食していたという\n記録がある	Records state that a monster\ncalled Cavelex fed regularly\nupon the Whirl Puffball.	
+mev21_110.scr:5	mev21_110.scr	5	ウィル	Will Raynard	personagem	CRLF x1	ケイブレックスに、食べたウズマキフスベの\nドクメントがあるかもしれないんだ	The Cavelex might retain the Document\nof the Whirl Puffball it consumed.	
+mev21_110.scr:6	mev21_110.scr	6	アンジュ	Ange Serena	personagem	CRLF x2	それで、ウズマキフスベの\n完全なドクメントが手に入るのかも\nしれないのね	And through that, we might obtain\na complete Document for the\nWhirl Puffball, then.	
+mev21_110.scr:7	mev21_110.scr	7	ウィル	Will Raynard	personagem	CRLF x1	賭けてみたいんだ。\nこの依頼を、受理して欲しい	I want to take that gamble.\nPlease accept this quest.	
+mev21_110.scr:8	mev21_110.scr	8	アンジュ	Ange Serena	personagem		はい、わかりました	Yes, of course.	

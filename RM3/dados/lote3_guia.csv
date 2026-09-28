@@ -1,0 +1,62 @@
+bloco,va_ponteiro,va_string,off_arquivo,bytes_jp,slot_inplace,manter,control_codes,original,traducao,bytes_usados,fonte,status,nota,arena_ini,arena_fim
+ui__s91,0x08D65F5C,0x08CF8C78,5201016,20,23,,,装備可能キャラクター,Equippable By,13,novo,revisar,装備可能キャラクター = personagens que podem equipar,0x08CFD7B4,0x08CFD8A9
+ui__s47,0x08D65F60,0x08CF8C90,5201040,6,7,,,？？？,???,3,novo,revisar,？？？ de largura plena vira ASCII,0x08CF9E54,0x08CF9E6F
+ui__s30,0x08D65F64,0x08CF8C98,5201048,2,3,,,内,of,2,novo,revisar,内 = dentro de / de um total de; contexto incerto,0x08CF9060,0x08CF910F
+ui__s43,0x08D65F68,0x08CF8C9C,5201052,65,67,,%d x1 %s x2 LF x1,項目「%s」%sを見終りましたので\nグレードポイントを%d獲得しました。,"You finished viewing item ""%s"" %s,\nso you earned %d Grade Points.",65,rm2,validado,RM2 3.2 グレードポイント=Grade Points; 「」 vira aspas ASCII,0x08CF9828,0x08CF9BE3
+ui__s19,0x08D65F6C,0x08CF8CE0,5201120,55,55,,%s x3 LF x1,項目「%s」%sを見終りましたので、\n「%s」を獲得しました。,"You finished viewing item ""%s"" %s,\nso you obtained ""%s"".",56,novo,revisar,,0x08CF8348,0x08CF84F3
+ui__s48,0x08D65F70,0x08CF8D18,5201176,53,55,,%d x1 %s x2 LF x1,項目「%s」%sを見終りましたので\n%dガルド獲得しました。,"You finished viewing item ""%s"" %s,\nso you earned %d Gald.",57,rm2,validado,RM2 3.2 ガルド=Gald,0x08CF9E7C,0x08CFA197
+ui__s8,0x08D65F74,0x08CF8D50,5201232,4,7,,,決定,OK,2,rm2,validado,RM2 3.5 決定=OK; MESMA forma do item de menu da criacao,0x08CF748C,0x08CF74B5
+ui__s33,0x08D65F78,0x08CF8D58,5201240,4,7,,,戻る,Back,4,rm2,validado,RM2 3.5,0x08CF9420,0x08CF9425
+ui__s89,0x08D65F7C,0x08CF8D60,5201248,10,11,,,ページ送り,Turn Page,9,novo,revisar,,0x08CFD324,0x08CFD5B9
+ui__s11,0x08D65F80,0x08CF8D6C,5201260,4,7,,,選択,Select,6,novo,revisar,,0x08CF76B4,0x08CF7773
+ui__s89,0x08D65F84,0x08CF8D74,5201268,4,7,,,確認,Check,5,novo,revisar,確認 = verificar; 決定 ja e OK,0x08CFD324,0x08CFD5B9
+ui__s56,0x08D65F88,0x08CF8D7C,5201276,8,11,,,並べ替え,Sort,4,novo,revisar,,0x08CFAE14,0x08CFAE69
+ui__s55,0x08D65F8C,0x08CF8D88,5201288,10,11,,,キャンセル,Cancel,6,rm2,validado,RM2 3.5,0x08CFAD30,0x08CFADE3
+ui__s10,0x08D65F90,0x08CF8D94,5201300,10,11,,,ステータス,Status,6,novo,revisar,,0x08CF765C,0x08CF769B
+ui__s64,0x08D65F94,0x08CF8DA0,5201312,10,11,,,スキル確認,View Skills,11,novo,revisar,,0x08CFBA5C,0x08CFBAA5
+ui__s19,0x08D65F98,0x08CF8DAC,5201324,14,15,,,装備スキル確認,View Eq. Skills,15,novo,revisar,encurtado: a barra de botoes e estreita,0x08CF8348,0x08CF84F3
+ui__s52,0x08D65F9C,0x08CF8DBC,5201340,10,11,,,スクロール,Scroll,6,novo,revisar,,0x08CFA510,0x08CFA5B1
+ui__s89,0x08D65FA0,0x08CF8DC8,5201352,8,11,,,情報切替,Switch Info,11,novo,revisar,,0x08CFD324,0x08CFD5B9
+ui__s96,0x08D65FA4,0x08CF8DD4,5201364,9,11,,,回転/拡縮,Rotate/Zoom,11,novo,revisar,拡縮 = ampliar/reduzir,0x08CFDF7C,0x08CFDFBD
+ui__s39,0x08D65FA8,0x08CF8DE0,5201376,4,7,,,移動,Move,4,novo,revisar,,0x08CF9720,0x08CF973D
+ui__s91,0x08D65FAC,0x08CF8DE8,5201384,8,11,,,表示切替,Toggle View,11,novo,revisar,,0x08CFD7B4,0x08CFD8A9
+ui__s66,0x08D65FB0,0x08CF8DF4,5201396,4,7,,,回転,Rotate,6,novo,revisar,,0x08CFBC48,0x08CFBC5D
+ui__s86,0x08D65FB4,0x08CF8DFC,5201404,4,7,,,縮小,Zoom Out,8,novo,revisar,,0x08CFCF88,0x08CFD211
+ui__s20,0x08D65FB8,0x08CF8E04,5201412,4,7,,,拡大,Zoom In,7,novo,revisar,,0x08CF850C,0x08CF851B
+ui__s22,0x08D65FBC,0x08CF8E0C,5201420,6,7,,,非表示,Hide,4,novo,revisar,,0x08CF854C,0x08CF858B
+ui__s96,0x08D65FC0,0x08CF8E14,5201428,10,11,,,モデル確認,View Model,10,novo,revisar,,0x08CFDF7C,0x08CFDFBD
+ui__s96,0x08D65FC4,0x08CF8E20,5201440,10,11,,,プレビュー,Preview,7,novo,revisar,,0x08CFDF7C,0x08CFDFBD
+ui__s91,0x08D65FC8,0x08CF8E2C,5201452,12,15,,,特殊効果一覧,Special Effects,15,novo,revisar,,0x08CFD7B4,0x08CFD8A9
+ui__s19,0x08D65FCC,0x08CF8E3C,5201468,8,11,,,装備確認,View Gear,9,novo,revisar,装備=Equip (RM2 3.5); Gear no rotulo curto,0x08CF8348,0x08CF84F3
+ui__s70,0x08D65FD0,0x08CF8E48,5201480,8,11,,,称号変更,Change Title,12,novo,revisar,称号 = titulo de personagem,0x08CFBF5C,0x08CFBFE1
+ui__s19,0x08D65FD4,0x08CF8E54,5201492,8,11,,,一括装備,Equip All,9,novo,revisar,,0x08CF8348,0x08CF84F3
+ui__s52,0x08D65FD8,0x08CF8E60,5201504,4,7,,,外す,Remove,6,novo,revisar,外す = retirar equipamento,0x08CFA510,0x08CFA5B1
+ui__s29,0x08D65FDC,0x08CF8E68,5201512,4,7,,,設定,Set,3,novo,revisar,,0x08CF8FC4,0x08CF9029
+ui__s89,0x08D65FE0,0x08CF8E70,5201520,18,19,,,術・技スロット選択,Arte/Skill Slot,15,rm2_deriv,revisar,"術=Arte, 技=Skill (RM2 3.2); encurtado para a barra",0x08CFD324,0x08CFD5B9
+ui__s43,0x08D65FE4,0x08CF8E84,5201540,8,11,,,術技発動,Use Arte,8,rm2_deriv,revisar,,0x08CF9828,0x08CF9BE3
+ui__s32,0x08D65FE8,0x08CF8E90,5201552,4,7,,,使う,Use,3,rm2,validado,RM2 3.5 使う=Use,0x08CF93F8,0x08CF940D
+ui__s12,0x08D65FEC,0x08CF8E98,5201560,8,11,,,効果確認,View Effect,11,novo,revisar,,0x08CF7798,0x08CF7A3B
+ui__s43,0x08D65FF0,0x08CF8EA4,5201572,8,11,,,操作切替,Controls,8,novo,revisar,操作切替 = trocar esquema de controle,0x08CF9828,0x08CF9BE3
+ui__s14,0x08D65FF4,0x08CF8EB0,5201584,8,11,,,使用切替,Toggle Use,10,novo,revisar,,0x08CF7BCC,0x08CF7C59
+ui__s19,0x08D65FF8,0x08CF8EBC,5201596,10,11,,,リスト切替,Switch List,11,novo,revisar,,0x08CF8348,0x08CF84F3
+ui__s68,0x08D65FFC,0x08CF8EC8,5201608,8,11,,,入れ替え,Swap,4,novo,revisar,,0x08CFBD18,0x08CFBD37
+ui__s52,0x08D66000,0x08CF8E60,5201504,4,7,,,外す,Remove,6,novo,revisar,duplicata de 外s; dedup aponta os dois para a mesma string,0x08CFA510,0x08CFA5B1
+ui__s8,0x08D66004,0x08CF8ED4,5201620,16,19,,,装備の変更・確認,Change/View Gear,16,novo,revisar,,0x08CF748C,0x08CF74B5
+ui__s86,0x08D66008,0x08CF8EE8,5201640,8,11,,,装備切替,Switch Gear,11,novo,revisar,,0x08CFCF88,0x08CFD211
+ui__s35,0x08D6600C,0x08CF8EF4,5201652,4,7,,,再生,Play,4,novo,revisar,再生 = reproduzir,0x08CF9494,0x08CF94A5
+ui__s31,0x08D66010,0x08CF8EFC,5201660,10,11,,,購入数増減,Buy Qty,7,novo,revisar,購入数増減 = aumentar/diminuir quantidade a comprar,0x08CF9190,0x08CF93F3
+ui__s89,0x08D66014,0x08CF8F08,5201672,10,11,,,売却数増減,Sell Qty,8,novo,revisar,売却数増減; distinto de Buy Qty de proposito,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D66018,0x08CF8F14,5201684,12,15,,,アイテム選択,Select Item,11,novo,revisar,,0x08CFD324,0x08CFD5B9
+ui__s89,0x08D6601C,0x08CF8F24,5201700,8,11,,,引き取る,Collect,7,novo,revisar,引き取る = receber/retirar,0x08CFD324,0x08CFD5B9
+ui__s14,0x08D66020,0x08CF8F30,5201712,8,11,,,アイテム,Item,4,rm2,validado,RM2 3.7,0x08CF7BCC,0x08CF7C59
+ui__s63,0x08D66024,0x08CF8F3C,5201724,8,11,,,確定切替,Toggle Confirm,14,novo,revisar,確定切替,0x08CFB5FC,0x08CFBA07
+ui__s19,0x08D66028,0x08CF8F48,5201736,6,7,,,預ける,Deposit,7,novo,revisar,預ける = depositar no armazem,0x08CF8348,0x08CF84F3
+ui__s43,0x08D6602C,0x08CF8F50,5201744,8,11,,,取り出す,Withdraw,8,novo,revisar,取り出す = retirar do armazem,0x08CF9828,0x08CF9BE3
+ui__s58,0x08D66030,0x08CF8F5C,5201756,8,11,,,展開する,Expand,6,novo,revisar,,0x08CFAFC0,0x08CFAFF3
+ui__s51,0x08D66034,0x08CF8F68,5201768,14,15,,,モデル左右回転,Rotate Model,12,novo,revisar,モデル左右回転 = girar o modelo com L/R — ESTE e o da captura do mantenedor,0x08CFA3BC,0x08CFA4D5
+ui__s81,0x08D66038,0x08CF8F78,5201784,4,7,,,調整,Adjust,6,novo,revisar,,0x08CFCA40,0x08CFCADB
+ui__s57,0x08D6603C,0x08CF8F80,5201792,8,11,,,合成確定,Confirm Synth,13,rm2_deriv,revisar,合成=Synthesis (P-40),0x08CFAEA4,0x08CFAF93
+ui__s81,0x08D66040,0x08CF8F8C,5201804,12,15,,,強化素材確認,View Materials,14,rm2_deriv,revisar,素材=Material (RM2 3.7),0x08CFCA40,0x08CFCADB
+ui__s70,0x08D66044,0x08CF8F9C,5201820,8,11,,,詳細閲覧,View Details,12,novo,revisar,,0x08CFBF5C,0x08CFBFE1
+ui__s5,0x08D66048,0x08CF8FA8,5201832,2,3,,,＋,+,1,novo,revisar,＋ de largura plena vira ASCII,0x08CF7338,0x08CF7353
+ui__s81,0x08D6604C,0x08CF8FAC,5201836,4,11,,,試着,Try On,6,novo,revisar,試着 = experimentar roupa,0x08CFCA40,0x08CFCADB

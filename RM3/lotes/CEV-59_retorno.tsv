@@ -1,0 +1,134 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev59_010.scr:0	cev59_010.scr	0	ルカ	Ruca Milda	personagem	CRLF x1	母さんのチーズスープ……。\n久しぶりに食べたいなぁ	Mom's cheese soup......\nI'd love to eat it after so long.	
+cev59_010.scr:1	cev59_010.scr	1	アッシュ	Asch	personagem		ふん……、ホームシックか？	Hmph...... Homesick, are you?	
+cev59_010.scr:2	cev59_010.scr	2	ルカ	Ruca Milda	personagem		そ、そんなんじゃ……	N-No, it's not like that......	
+cev59_010.scr:3	cev59_010.scr	3	ルカ	Ruca Milda	personagem	CRLF x2	ただ、僕が家に帰ってきた時に\nいつも母さんが、あったかいチーズスープを\n作って待っててくれたんだ	It's just, whenever I came home,\nMom always made warm cheese soup\nand waited for me.	
+cev59_010.scr:4	cev59_010.scr	4	ルカ	Ruca Milda	personagem	CRLF x2	それを思い出して……母さん、今も\n僕の帰りを待って、チーズスープを\n作ってくれているのかなって……	Remembering that... I wondered if Mom\nis still waiting for my return,\nmaking cheese soup even now......	
+cev59_010.scr:5	cev59_010.scr	5	アッシュ	Asch	personagem		それがホームシックだというんだ	That's the definition of homesick.	
+cev59_010.scr:6	cev59_010.scr	6	アッシュ	Asch	personagem	CRLF x1	結局、親が恋しくなったって\nだけなんだろうが？	In the end, it just means\nyou miss your parents, doesn't it?	
+cev59_010.scr:7	cev59_010.scr	7	ルカ	Ruca Milda	personagem		うう……	Ugh...	
+cev59_010.scr:8	cev59_010.scr	8	ルカ	Ruca Milda	personagem		そ、そう……なの、かな	I-Is...... that so......?	
+cev59_010.scr:9	cev59_010.scr	9	アッシュ	Asch	personagem	CRLF x2	贅沢なもんだ。\nホームシックになれる居場所が\n普通にあるというのはな	Must be nice.\nHaving a home you can naturally feel\nhomesick for like that.	
+cev59_010.scr:10	cev59_010.scr	10	ルカ	Ruca Milda	personagem		え……？	Eh......?	
+cev59_010.scr:11	cev59_010.scr	11	アッシュ	Asch	personagem		せいぜい、両親を大事にしてやれ	Cherish your parents as best you can.	
+cev59_010.scr:12	cev59_010.scr	12	アッシュ	Asch	personagem	CRLF x1	孝行出来る親がいるというのは\n悪い事じゃない	Having parents you can show devotion to\nisn't a bad thing.	
+cev59_010.scr:13	cev59_010.scr	13	ルカ	Ruca Milda	personagem		アッシュ……？	Asch......?	
+cev59_020.scr:0	cev59_020.scr	0	ルカ	Ruca Milda	personagem		あ、あのさ、イリア……！	U-Um, hey, Iria......!	
+cev59_020.scr:1	cev59_020.scr	1	ルカ	Ruca Milda	personagem		ちょっと、いいかな？	Do you have a moment?	
+cev59_020.scr:2	cev59_020.scr	2	イリア	Iria Animi	personagem		えっ？	Eh?	
+cev59_020.scr:3	cev59_020.scr	3	イリア	Iria Animi	personagem	CRLF x1	なっ、何よ。\n急に改まっちゃって……	Wh-What is it?\nGetting all formal out of nowhere......	
+cev59_020.scr:4	cev59_020.scr	4	ルカ	Ruca Milda	personagem	CRLF x1	その、今度……\nぼ、僕と……一緒に……！	Um, sometime soon......\nW-With me...... together......!	
+cev59_020.scr:5	cev59_020.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x1	おーす、二人とも！\n元気にしてるかあ？	Yo, you two!\nHow're you doing?!	
+cev59_020.scr:6	cev59_020.scr	6	イリア	Iria Animi	personagem	CRLF x1	って、アンタ\nどっから沸いて出たのよっ！	Where on earth\ndid you just pop out from?!	
+cev59_020.scr:7	cev59_020.scr	7	ティトレイ	Tytree Crowe	personagem	CRLF x1	な、何だよ、怒るなよ。\nちょっと挨拶しただけじゃんかよ〜	Wh-What, don't get mad!\nI was just saying hi~	
+cev59_020.scr:8	cev59_020.scr	8	ルカ	Ruca Milda	personagem		（うう、いい雰囲気だったのに……）	(Ugh, the mood was so good too......)	
+cev59_030.scr:0	cev59_030.scr	0	カイウス	Caius Qualls	personagem	CRLF x1	ルカ、また勉強してるのか？\n随分頑張ってるよなぁ	Studying again, Ruca?\nYou really work so hard.	
+cev59_030.scr:1	cev59_030.scr	1	ルカ	Ruca Milda	personagem	CRLF x2	うん……。\nでも、医者になるには、もっともっと\n勉強しておかないと	Yeah......\nStill, to become a doctor, I need\nto study much, much more.	
+cev59_030.scr:2	cev59_030.scr	2	ルカ	Ruca Milda	personagem		人の命を預かる仕事だからね……	It's a job with lives in your hands...	
+cev59_030.scr:3	cev59_030.scr	3	カイウス	Caius Qualls	personagem	CRLF x1	そっか。\nルカは医者になりたいんだったな	Right.\nYou want to be a doctor, Ruca.	
+cev59_030.scr:4	cev59_030.scr	4	カイウス	Caius Qualls	personagem	CRLF x2	すげえよな。\nオレなんて、将来自分が何になりたいかなんて\nまだ全然わからないよ	That's amazing.\nI have no idea what I want to become\nin the future at all.	
+cev59_030.scr:5	cev59_030.scr	5	リッド	Reid Hershel	personagem		そんなもん、オレだってわかんねえよ	Shoot, I don't know that either.	
+cev59_030.scr:6	cev59_030.scr	6	リッド	Reid Hershel	personagem	CRLF x2	まぁ、毎日美味いもん食べて\nたっぷり寝て過ごせたら、\n何も言う事ねえんだけどな	Well, if I eat good food and sleep\nplenty every day, then I have\nnothing else to ask for.	
+cev59_030.scr:7	cev59_030.scr	7	カイウス	Caius Qualls	personagem		リッドはそればっかだな	That's all you ever care about, Reid.	
+cev59_030.scr:8	cev59_030.scr	8	ルカ	Ruca Milda	personagem		でも、リッドらしいよ	Still, it's very like you, Reid.	
+cev59_030.scr:9	cev59_030.scr	9	ルカ	Ruca Milda	personagem	CRLF x2	僕だって、本当に医者に\nなれるかどうかもわからないし\nこの先どうなるかだって……	I don't even know if I can truly\nbecome a doctor, or what's ahead,\nin the future either......	
+cev59_030.scr:10	cev59_030.scr	10	ルカ	Ruca Milda	personagem	CRLF x2	だけど、後で振り返って\nやらなかった事を後悔するのは\n違うかなって思うから……	Still, looking back and regretting\nwhat I didn't do feels wrong,\nso I want to try......	
+cev59_030.scr:11	cev59_030.scr	11	リッド	Reid Hershel	personagem	CRLF x2	そうだな。　\nやらねえ後悔より\nやった後悔のがなんぼかマシだ	Yeah.\nRegretting what you did is far better\nthan regretting what you didn't.	
+cev59_030.scr:12	cev59_030.scr	12	カイウス	Caius Qualls	personagem		オレも何かやってみようかな	Maybe I should try something too.	
+cev59_030.scr:13	cev59_030.scr	13	リッド	Reid Hershel	personagem	CRLF x1	また三日坊主で\n終わんなきゃいいけどな	Just hope you don't give it up\nafter three days again.	
+cev59_030.scr:14	cev59_030.scr	14	カイウス	Caius Qualls	personagem		こ、子ども扱いするなよな！	D-Don't treat me like a kid!	
+cev59_040.scr:0	cev59_040.scr	0	ルーティ	Rutee Katrea	personagem	CRLF x2	あー。\n何か久しぶりに語っちゃって、\n肩が凝ったわ〜	Aah.\nTalking deeply for once after so long\ngave me stiff shoulders~	
+cev59_040.scr:1	cev59_040.scr	1	ルカ	Ruca Milda	personagem	CRLF x1	あ……、良かったら\n僕が揉んであげようか？	Ah... If you'd like,\nshall I give you a massage?	
+cev59_040.scr:2	cev59_040.scr	2	ルーティ	Rutee Katrea	personagem		え？	Huh?	
+cev59_040.scr:3	cev59_040.scr	3	ルカ	Ruca Milda	personagem		え？	Huh?	
+cev59_040.scr:4	cev59_040.scr	4	ルカ	Ruca Milda	personagem	CRLF x1	……あ、ご、ごめんなさい！\n決して変な意味とかじゃなくって……	......Ah, I-I'm so sorry!\nI didn't mean anything weird by it...	
+cev59_040.scr:5	cev59_040.scr	5	ルカ	Ruca Milda	personagem	CRLF x1	イリアにいつもやらされてるから\nつい……！	Iria always makes me do it,\nso it just slipped out...!	
+cev59_040.scr:6	cev59_040.scr	6	ルーティ	Rutee Katrea	personagem	CRLF x2	いや、別にいいんだけど。\nっていうか、むしろ\nありがたい申し出なんだけど	No, I don't mind at all.\nIn fact, it's quite a welcome offer,\nactually.	
+cev59_040.scr:7	cev59_040.scr	7	ルーティ	Rutee Katrea	personagem	CRLF x1	……ルカってほんと\nイリアによく仕込まれてるのねぇ〜	......You've really been thoroughly\ntrained by Iria, haven't you, Ruca~	
+cev59_040.scr:8	cev59_040.scr	8	ルカ	Ruca Milda	personagem	CRLF x1	そんな事で感心されても、\n嬉しくない……	Being praised for that\ndoesn't make me happy at all......	
+cev59_050.scr:0	cev59_050.scr	0	カイル	Kyle Dunamis	personagem	CRLF x2	ルカの剣って大きいね〜。\nいつもそんなの持ち歩いていて\n疲れたりしないの？	Your sword is huge, Ruca~\nDoesn't carrying that around all day\ntire you out?	
+cev59_050.scr:1	cev59_050.scr	1	ルカ	Ruca Milda	personagem	CRLF x2	え？　\nそ、そうだね……。\nもう、慣れちゃった……かな	Eh?\nW-Well......\nI guess... I've gotten used to it.	
+cev59_050.scr:2	cev59_050.scr	2	セネル	Senel Coolidge	personagem		日頃の鍛錬の成果というやつか	The fruit of your daily training, eh?	
+cev59_050.scr:3	cev59_050.scr	3	セネル	Senel Coolidge	personagem	CRLF x2	俺は、剣を使わないからわからないが……。\nやっぱり、そうなるまでには\n相当な苦労をしたんじゃないか？	I don't use swords, so I wouldn't know...\nStill, didn't you endure immense effort\nto reach that point?	
+cev59_050.scr:4	cev59_050.scr	4	ルカ	Ruca Milda	personagem		苦労……？	Hardship......?	
+cev59_050.scr:5	cev59_050.scr	5	ルカ	Ruca Milda	personagem		（やけにツッコまれるなぁ……）	(They're really pressing me on this...)	
+cev59_050.scr:6	cev59_050.scr	6	ルカ	Ruca Milda	personagem	CRLF x2	う〜ん……。\n確かに、手にマメは\nよく出来たりしたけど……	Hmm......\nI did get blisters on my hands often,\nI suppose, but......	
+cev59_050.scr:7	cev59_050.scr	7	カイル	Kyle Dunamis	personagem	CRLF x1	剣が大きいから、重さで\n肩が凝ったりもしそうだよね	With a sword that big, the weight\nmust give you stiff shoulders!	
+cev59_050.scr:8	cev59_050.scr	8	カイル	Kyle Dunamis	personagem	CRLF x1	ルカって実は、陰で\nすっごく努力をしてるんだね！	You must work incredibly hard\nbehind the scenes, Ruca!	
+cev59_050.scr:9	cev59_050.scr	9	ルカ	Ruca Milda	personagem	CRLF x1	ちょ、ちょっと待ってよ。\n大剣なら、ヴェイグだって使ってるよ？	H-Hold on a second.\nVeigue uses a greatsword too, you know?	
+cev59_050.scr:10	cev59_050.scr	10	ルカ	Ruca Milda	personagem	CRLF x1	なのに、僕だけ特別扱いみたいなのって\nおかしいっていうか……	So singling only me out for this\nfeels kind of strange...	
+cev59_050.scr:11	cev59_050.scr	11	カイル	Kyle Dunamis	personagem		それは……やっぱり	Well...... you see,	
+cev59_050.scr:12	cev59_050.scr	12	セネル	Senel Coolidge	personagem		見た目的に……な？	in terms of appearance...... right?	
+cev59_050.scr:13	cev59_050.scr	13	ルカ	Ruca Milda	personagem	CRLF x2	それって、\n遠回しに僕の体が\n貧相だって言ってる……？	Are you saying,\nin a roundabout way, that my build\nis completely scrawny......?	
+cev59_060.scr:0	cev59_060.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	ルカ！\n今、ちょっと……いいかな？	Ruca!\nDo you have a moment right now?	
+cev59_060.scr:1	cev59_060.scr	1	ルカ	Ruca Milda	personagem	CRLF x1	……？\nどうしたの、二人とも？	......?\nWhat's the matter, you two?	
+cev59_060.scr:2	cev59_060.scr	2	セネル	Senel Coolidge	personagem		その……この間は、悪かったな	Listen...... Sorry about the other day.	
+cev59_060.scr:3	cev59_060.scr	3	セネル	Senel Coolidge	personagem	CRLF x1	見た目でお前を判断してるみたいな\n言い方をして……	Talking like we were judging you\nbased on your appearance......	
+cev59_060.scr:4	cev59_060.scr	4	カイル	Kyle Dunamis	personagem	CRLF x1	そういうつもりじゃなかったんだ。\nほんとに……ただ、すごいなって……	We didn't mean it that way.\nReally... We just thought it was great...	
+cev59_060.scr:5	cev59_060.scr	5	ルカ	Ruca Milda	personagem	CRLF x1	……うん。\nわかってるよ	......Yeah.\nI understand.	
+cev59_060.scr:6	cev59_060.scr	6	ルカ	Ruca Milda	personagem	CRLF x1	それに、もういいんだ。\n大事な事を……思い出せたから	Besides, it's fine now.\nI remembered something important.	
+cev59_060.scr:7	cev59_060.scr	7	セネル	Senel Coolidge	personagem		大事な事？	Something important?	
+cev59_060.scr:8	cev59_060.scr	8	ルカ	Ruca Milda	personagem	CRLF x1	うん。\nこの剣は……みんなを守る為の力だから	Yeah.\nThis sword is power to protect everyone.	
+cev59_060.scr:9	cev59_060.scr	9	ルカ	Ruca Milda	personagem	CRLF x1	だから、似合わなくてもいいんだ。\n僕は……	So it doesn't matter if it suits me.\nI......	
+cev59_060.scr:10	cev59_060.scr	10	カイル	Kyle Dunamis	personagem		似合わないなんて事ない！	It definitely suits you!	
+cev59_060.scr:11	cev59_060.scr	11	セネル	Senel Coolidge	personagem	CRLF x2	ああ。\n戦ってる時のお前は\n本当に堂々としている	Yeah.\nWhen you're fighting,\nyou truly look commanding.	
+cev59_060.scr:12	cev59_060.scr	12	ルカ	Ruca Milda	personagem		カイル、セネル……	Kyle, Senel......	
+cev59_060.scr:13	cev59_060.scr	13	カイル	Kyle Dunamis	personagem		だから、ごめん……ルカ	So, I'm sorry...... Ruca.	
+cev59_060.scr:14	cev59_060.scr	14	セネル	Senel Coolidge	personagem		俺達の言い方が、悪かった……よな	We put it poorly... didn't we?	
+cev59_060.scr:15	cev59_060.scr	15	ルカ	Ruca Milda	personagem	CRLF x1	……ううん、そんな事ないよ。\nもう……二人の気持ちもわかったし……	......No, not at all.\nI understand how you both feel now......	
+cev59_060.scr:16	cev59_060.scr	16	ルカ	Ruca Milda	personagem		……大丈夫、だから……	......So... it's alright......	
+cev59_060.scr:17	cev59_060.scr	17	ルカ	Ruca Milda	personagem		えへへ……	Ehehe......	
+cev59_200.scr:0	cev59_200.scr	0	ルカ	Ruca Milda	personagem	CRLF x1	通常。\n	Normal.\n	
+cev59_200.scr:1	cev59_200.scr	1	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:2	cev59_200.scr	2	ルカ	Ruca Milda	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev59_200.scr:3	cev59_200.scr	3	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:4	cev59_200.scr	4	ルカ	Ruca Milda	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev59_200.scr:5	cev59_200.scr	5	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:6	cev59_200.scr	6	ルカ	Ruca Milda	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev59_200.scr:7	cev59_200.scr	7	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:8	cev59_200.scr	8	ルカ	Ruca Milda	personagem	CRLF x1	泣き。\n	Crying.\n	
+cev59_200.scr:9	cev59_200.scr	9	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:10	cev59_200.scr	10	ルカ	Ruca Milda	personagem	CRLF x1	諦め。\n	Resignation.\n	
+cev59_200.scr:11	cev59_200.scr	11	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:12	cev59_200.scr	12	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡通常。\n	Glasses normal.\n	
+cev59_200.scr:13	cev59_200.scr	13	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:14	cev59_200.scr	14	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡皮肉。\n	Glasses sarcasm.\n	
+cev59_200.scr:15	cev59_200.scr	15	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:16	cev59_200.scr	16	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡笑い。\n	Glasses laughter.\n	
+cev59_200.scr:17	cev59_200.scr	17	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:18	cev59_200.scr	18	ルカ	Ruca Milda	personagem	CRLF x1	通常。\n	Normal.\n	
+cev59_200.scr:19	cev59_200.scr	19	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:20	cev59_200.scr	20	ルカ	Ruca Milda	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev59_200.scr:21	cev59_200.scr	21	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:22	cev59_200.scr	22	ルカ	Ruca Milda	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev59_200.scr:23	cev59_200.scr	23	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:24	cev59_200.scr	24	ルカ	Ruca Milda	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev59_200.scr:25	cev59_200.scr	25	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:26	cev59_200.scr	26	ルカ	Ruca Milda	personagem	CRLF x1	泣き。\n	Crying.\n	
+cev59_200.scr:27	cev59_200.scr	27	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:28	cev59_200.scr	28	ルカ	Ruca Milda	personagem	CRLF x1	諦め。\n	Resignation.\n	
+cev59_200.scr:29	cev59_200.scr	29	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:30	cev59_200.scr	30	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡通常。\n	Glasses normal.\n	
+cev59_200.scr:31	cev59_200.scr	31	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:32	cev59_200.scr	32	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡皮肉。\n	Glasses sarcasm.\n	
+cev59_200.scr:33	cev59_200.scr	33	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:34	cev59_200.scr	34	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡笑い。\n	Glasses laughter.\n	
+cev59_200.scr:35	cev59_200.scr	35	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:36	cev59_200.scr	36	ルカ	Ruca Milda	personagem	CRLF x1	通常。\n	Normal.\n	
+cev59_200.scr:37	cev59_200.scr	37	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:38	cev59_200.scr	38	ルカ	Ruca Milda	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev59_200.scr:39	cev59_200.scr	39	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:40	cev59_200.scr	40	ルカ	Ruca Milda	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev59_200.scr:41	cev59_200.scr	41	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:42	cev59_200.scr	42	ルカ	Ruca Milda	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev59_200.scr:43	cev59_200.scr	43	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:44	cev59_200.scr	44	ルカ	Ruca Milda	personagem	CRLF x1	泣き。\n	Crying.\n	
+cev59_200.scr:45	cev59_200.scr	45	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:46	cev59_200.scr	46	ルカ	Ruca Milda	personagem	CRLF x1	諦め。\n	Resignation.\n	
+cev59_200.scr:47	cev59_200.scr	47	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:48	cev59_200.scr	48	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡通常。\n	Glasses normal.\n	
+cev59_200.scr:49	cev59_200.scr	49	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:50	cev59_200.scr	50	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡皮肉。\n	Glasses sarcasm.\n	
+cev59_200.scr:51	cev59_200.scr	51	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev59_200.scr:52	cev59_200.scr	52	ルカ	Ruca Milda	personagem	CRLF x1	眼鏡笑い。\n	Glasses laughter.\n	
+cev59_200.scr:53	cev59_200.scr	53	ルカ	Ruca Milda	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	

@@ -1,0 +1,110 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev56_010.scr:0	cev56_010.scr	0	ノーマ	Norma Beatty	personagem		ふ〜ふ、ふふ〜〜ん♪		
+cev56_010.scr:1	cev56_010.scr	1	ノーマ	Norma Beatty	personagem	CRLF x1	あら〜、ルーくん、何してるの！\n珍しく、真面目な顔しちゃって〜		
+cev56_010.scr:2	cev56_010.scr	2	ルーク	Luke fon Fabre	personagem	CRLF x1	なーんだよ、ノーマ\n邪魔すんじゃねぇーっての！		
+cev56_010.scr:3	cev56_010.scr	3	ヴァン	Van Grants	personagem	CRLF x2	ルーク、いつも言っているだろう。\n王位継承者足る者、日頃から\n言葉使いにも気を付ける様にと		
+cev56_010.scr:4	cev56_010.scr	4	ルーク	Luke fon Fabre	personagem	CRLF x2	え〜、だって\nこいつに丁寧な言葉使ったって\nしょーがねぇじゃんかよ		
+cev56_010.scr:5	cev56_010.scr	5	ノーマ	Norma Beatty	personagem	CRLF x1	なーに、こいつって！\nあんまりじゃないの？		
+cev56_010.scr:6	cev56_010.scr	6	ヴァン	Van Grants	personagem	CRLF x1	ふぅ……。\n我が主君の非礼、お詫びする		
+cev56_010.scr:7	cev56_010.scr	7	ヴァン	Van Grants	personagem	CRLF x1	私はライマ国騎士団総長、\nヴァン・グランツと申す		
+cev56_010.scr:8	cev56_010.scr	8	ノーマ	Norma Beatty	personagem		わーお、随分、渋いおじ様だ事∀		
+cev56_010.scr:9	cev56_010.scr	9	ノーマ	Norma Beatty	personagem	CRLF x2	うん、決めた！　\n今日から、おじ様の事\n「ヴァンヴァン」って呼んであげるね∀		
+cev56_010.scr:10	cev56_010.scr	10	ルーク	Luke fon Fabre	personagem	CRLF x1	ヴァンヴァンって……。\n師匠の事バカにし過ぎだろ！！		
+cev56_010.scr:11	cev56_010.scr	11	ルーク	Luke fon Fabre	personagem	CRLF x1	こんなヤツ放っておいて\n向こう行こうぜ、師匠！		
+cev56_010.scr:12	cev56_010.scr	12	ヴァン	Van Grants	personagem	CRLF x1	申し訳ない。\nそれでは、これで		
+cev56_010.scr:13	cev56_010.scr	13	ノーマ	Norma Beatty	personagem	CRLF x1	あー、うん、いいよ。\nそれじゃ、まったねぇー、ヴァンヴァン∀		
+cev56_010.scr:14	cev56_010.scr	14	ヴァン	Van Grants	personagem	CRLF x1	ヴァンヴァン……。\nヴァンヴァン……		
+cev56_010.scr:15	cev56_010.scr	15	ヴァン	Van Grants	personagem		フ……		
+cev56_020.scr:0	cev56_020.scr	0	カノンノ	Kanonno Grassvalley	personagem		あの……聞いてもいいですか？		
+cev56_020.scr:1	cev56_020.scr	1	ヴァン	Van Grants	personagem		何かな		
+cev56_020.scr:2	cev56_020.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ヴァンさんは、どうして\n予言を信じないんですか？		
+cev56_020.scr:3	cev56_020.scr	3	ヴァン	Van Grants	personagem		……ふっ		
+cev56_020.scr:4	cev56_020.scr	4	ヴァン	Van Grants	personagem	CRLF x2	それ程不思議な事ではあるまい。\n予言といえど所詮は、占いと同じ類の代物。\n気休めの為に生み出された幻想に過ぎん		
+cev56_020.scr:5	cev56_020.scr	5	ヴァン	Van Grants	personagem	CRLF x2	ましてや、未来があらかじめ\n定められているなどと……。\nその様な存在があってはならぬのだ		
+cev56_020.scr:6	cev56_020.scr	6	カノンノ	Kanonno Grassvalley	personagem		定められた未来……		
+cev56_020.scr:7	cev56_020.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	そうですね。\n初めから未来が決まっていたら、\nみんなが頑張る意味がなくなっちゃう		
+cev56_020.scr:8	cev56_020.scr	8	ヴァン	Van Grants	personagem		その通りだ		
+cev56_020.scr:9	cev56_020.scr	9	ヴァン	Van Grants	personagem	CRLF x2	人は堕落する。\nどれ程抗おうと、結局は楽な方へ\n流れてしまう生き物だ		
+cev56_020.scr:10	cev56_020.scr	10	ヴァン	Van Grants	personagem	CRLF x1	予言など、気休め以上の価値を\n持ってはならないのだよ		
+cev56_020.scr:11	cev56_020.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	わかる、様な……。\nわからない様な……		
+cev56_020.scr:12	cev56_020.scr	12	ヴァン	Van Grants	personagem	CRLF x1	フ……。\nつまらない話をしてしまったな		
+cev56_020.scr:13	cev56_020.scr	13	ヴァン	Van Grants	personagem	CRLF x1	すまなかった。\n忘れてくれ		
+cev56_030.scr:0	cev56_030.scr	0	レイヴン	Raven	personagem	CRLF x2	いやー、この船は\n若い子が多くていいやねぇ〜。\nおっさん、一杯元気もらっちゃうわ		
+cev56_030.scr:1	cev56_030.scr	1	ヴァン	Van Grants	personagem	CRLF x1	何を言っている。\n貴公もまだまだ若いではないか		
+cev56_030.scr:2	cev56_030.scr	2	レイヴン	Raven	personagem	CRLF x1	いやいや、おっさんは\nここにいるだけでもうけもんってこと		
+cev56_030.scr:3	cev56_030.scr	3	レイヴン	Raven	personagem		年とかそういうのは、あんま関係ないのよ		
+cev56_030.scr:4	cev56_030.scr	4	ヴァン	Van Grants	personagem	CRLF x2	それは、自らがこうして\n生の営みを繋げている事実そのものに\n価値を見出している、という事か？		
+cev56_030.scr:5	cev56_030.scr	5	ヴァン	Van Grants	personagem	CRLF x2	……まるで、本来ならば\n自分はここにいなかった存在だとでも\n言いたい様に聞こえたが		
+cev56_030.scr:6	cev56_030.scr	6	レイヴン	Raven	personagem	CRLF x1	いやいや、誰もそんな事言ってないでしょ。\nただ、みんなと旅が出来て、楽しいなぁって		
+cev56_030.scr:7	cev56_030.scr	7	レイヴン	Raven	personagem	CRLF x1	ほら、美人さんも一杯いるし？\nそんだけよ〜		
+cev56_030.scr:8	cev56_030.scr	8	ヴァン	Van Grants	personagem	CRLF x2	確かに、己が身が朽ち果てていれば\n仲間と出会い、かような時間を\n共有する事もなかっただろう		
+cev56_030.scr:9	cev56_030.scr	9	ヴァン	Van Grants	personagem		なるほどな……		
+cev56_030.scr:10	cev56_030.scr	10	ヴァン	Van Grants	personagem	CRLF x2	フ……。\n貴公は、なかなか常では得がたい\n見識をお持ちの様だ		
+cev56_030.scr:11	cev56_030.scr	11	レイヴン	Raven	personagem	CRLF x1	何、この子……。\n若いくせに、やたら会話し辛いわ……		
+cev56_040.scr:0	cev56_040.scr	0	ヴァン	Van Grants	personagem	CRLF x1	以前から不思議に思っていたのだが……。\nその手に持っているものは……		
+cev56_040.scr:1	cev56_040.scr	1	リリス	Lilith Aileron	personagem	CRLF x1	これは「おたま」ですよ。\n使い方は知ってますよね？		
+cev56_040.scr:2	cev56_040.scr	2	ヴァン	Van Grants	personagem	CRLF x1	いや。\nどの様に使うのだ？		
+cev56_040.scr:3	cev56_040.scr	3	リリス	Lilith Aileron	personagem	CRLF x1	これでね、ポコーンって殴ると\nいい音するんですよ〜∀		
+cev56_040.scr:4	cev56_040.scr	4	ヴァン	Van Grants	personagem	CRLF x1	ほう。\nつまり、武器という事か		
+cev56_040.scr:5	cev56_040.scr	5	ジェイ	Jay	personagem	CRLF x1	いや、使い方、\n丸っきり違ってますよ……		
+cev56_050.scr:0	cev56_050.scr	0	ヴァン	Van Grants	personagem		今日は天候に恵まれたな		
+cev56_050.scr:1	cev56_050.scr	1	リヒター	Richter Abend	personagem		……そうだな		
+cev56_050.scr:2	cev56_050.scr	2	ヴァン	Van Grants	personagem		……私の顔に、何か？		
+cev56_050.scr:3	cev56_050.scr	3	リヒター	Richter Abend	personagem		いや、そういうわけではない		
+cev56_050.scr:4	cev56_050.scr	4	リヒター	Richter Abend	personagem	CRLF x1	ただ……この日の光は、少々\n俺達には眩し過ぎる様な気がしただけだ		
+cev56_050.scr:5	cev56_050.scr	5	ヴァン	Van Grants	personagem	CRLF x1	ほう。\n「達」というのは？		
+cev56_050.scr:6	cev56_050.scr	6	リヒター	Richter Abend	personagem	CRLF x2	お前がただの剣士でない事くらい、\n俺にもわかる。\n……それだけだ		
+cev56_050.scr:7	cev56_050.scr	7	ヴァン	Van Grants	personagem	CRLF x1	フッ……。\n面白い事を言う		
+cev56_050.scr:8	cev56_050.scr	8	ヴァン	Van Grants	personagem		光……か		
+cev56_050.scr:9	cev56_050.scr	9	ヴァン	Van Grants	personagem		フフ……		
+cev56_060.scr:0	cev56_060.scr	0	ガイ	Guy Cecil	personagem		よっと……、こうして……		
+cev56_060.scr:1	cev56_060.scr	1	ガイ	Guy Cecil	personagem	CRLF x1	お〜、出来た！\n自作扇風機の完成だぜ！		
+cev56_060.scr:2	cev56_060.scr	2	ガイ	Guy Cecil	personagem		早速、動かしてみるか		
+cev56_060.scr:3	cev56_060.scr	3	ガイ	Guy Cecil	personagem	CRLF x1	お〜、こりゃ涼しいねぇ〜。\n我ながらほれぼれするデキだ！		
+cev56_060.scr:4	cev56_060.scr	4	ガイ	Guy Cecil	personagem	CRLF x1	あ〜〜〜〜〜〜〜〜〜〜〜〜〜〜。\nあ〜〜〜〜〜〜〜〜〜〜〜〜〜〜		
+cev56_060.scr:5	cev56_060.scr	5	ガイ	Guy Cecil	personagem		「わ〜れ〜わ〜れ〜は〜……」		
+cev56_060.scr:6	cev56_060.scr	6	ヴァン	Van Grants	personagem		何をしている？		
+cev56_060.scr:7	cev56_060.scr	7	ガイ	Guy Cecil	personagem	CRLF x1	お〜〜、\nいっ〜しょに〜、や〜る〜か〜？		
+cev56_060.scr:8	cev56_060.scr	8	ヴァン	Van Grants	personagem		ふ……		
+cev56_060.scr:9	cev56_060.scr	9	ヴァン	Van Grants	personagem	CRLF x1	そう言えば、幼少の頃も、\n同じ事をしていたな……		
+cev56_070.scr:0	cev56_070.scr	0	ガイ	Guy Cecil	personagem	CRLF x1	しかし、お前とこうしてまた\n肩を並べられる日が来るとはな		
+cev56_070.scr:1	cev56_070.scr	1	ヴァン	Van Grants	personagem		そうだな……		
+cev56_070.scr:2	cev56_070.scr	2	ヴァン	Van Grants	personagem	CRLF x1	この数奇な巡り合わせに\n感謝せねばなるまい		
+cev56_070.scr:3	cev56_070.scr	3	ガイ	Guy Cecil	personagem		ああ……		
+cev56_070.scr:4	cev56_070.scr	4	ガイ	Guy Cecil	personagem	CRLF x1	なあ、こんな事言ったら\nお前は笑うかもしれないけどさ		
+cev56_070.scr:5	cev56_070.scr	5	ヴァン	Van Grants	personagem		どうした？		
+cev56_070.scr:6	cev56_070.scr	6	ガイ	Guy Cecil	personagem		この先、何がどうなるかわからなくても		
+cev56_070.scr:7	cev56_070.scr	7	ガイ	Guy Cecil	personagem	CRLF x2	こうしてお前と話してる今があるだけで\n俺は、これまで生きてきて\n良かったって思うよ		
+cev56_070.scr:8	cev56_070.scr	8	ヴァン	Van Grants	personagem	CRLF x1	フ……。\nいささか大げさな表現だな		
+cev56_070.scr:9	cev56_070.scr	9	ガイ	Guy Cecil	personagem	CRLF x1	おい、何だよ。\n本当に笑わなくたっていいだろ？		
+cev56_070.scr:10	cev56_070.scr	10	ヴァン	Van Grants	personagem	CRLF x1	すまない。\nつい……な		
+cev56_070.scr:11	cev56_070.scr	11	ガイ	Guy Cecil	personagem	CRLF x1	……こんな時間が\nいつまでも続けばいいのにな		
+cev56_070.scr:12	cev56_070.scr	12	ヴァン	Van Grants	personagem	CRLF x1	……ああ。\nそうだな……		
+cev56_080.scr:0	cev56_080.scr	0	ガイ	Guy Cecil	personagem	CRLF x1	やっぱり、俺の作った扇風機は\n最高だな！		
+cev56_080.scr:1	cev56_080.scr	1	キュッポ	Kyuppo	personagem		聞いたキュ！		
+cev56_080.scr:2	cev56_080.scr	2	ピッポ	Pippo	personagem		涼しい物があるって聞いたキュ！		
+cev56_080.scr:3	cev56_080.scr	3	ポッポ	Poppo	personagem		アレだキュ！		
+cev56_080.scr:4	cev56_080.scr	4	キュッポ	Kyuppo	personagem		あ〜〜〜、気持ちいいキュ〜〜〜		
+cev56_080.scr:5	cev56_080.scr	5	ポッポ	Poppo	personagem	CRLF x1	キュッポ兄さんの〜〜、声が〜〜〜\n変だ〜〜〜、キュ〜〜〜		
+cev56_080.scr:6	cev56_080.scr	6	ピッポ	Pippo	personagem		面白い〜〜〜、キュ〜〜〜		
+cev56_080.scr:7	cev56_080.scr	7	キュッポ	Kyuppo	personagem		キュ〜〜〜〜〜〜〜		
+cev56_080.scr:8	cev56_080.scr	8	ガイ	Guy Cecil	personagem		キュ〜〜〜〜〜〜〜〜〜〜		
+cev56_080.scr:9	cev56_080.scr	9	キュッポ	Kyuppo	personagem		キュ〜〜〜〜〜〜〜		
+cev56_200.scr:0	cev56_200.scr	0	ヴァン	Van Grants	personagem	CRLF x1	通常。\n		
+cev56_200.scr:1	cev56_200.scr	1	ヴァン	Van Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev56_200.scr:2	cev56_200.scr	2	ヴァン	Van Grants	personagem	CRLF x1	笑い。\n		
+cev56_200.scr:3	cev56_200.scr	3	ヴァン	Van Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev56_200.scr:4	cev56_200.scr	4	ヴァン	Van Grants	personagem	CRLF x1	目閉笑い。\n		
+cev56_200.scr:5	cev56_200.scr	5	ヴァン	Van Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev56_200.scr:6	cev56_200.scr	6	ヴァン	Van Grants	personagem	CRLF x1	通常。\n		
+cev56_200.scr:7	cev56_200.scr	7	ヴァン	Van Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev56_200.scr:8	cev56_200.scr	8	ヴァン	Van Grants	personagem	CRLF x1	笑い。\n		
+cev56_200.scr:9	cev56_200.scr	9	ヴァン	Van Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev56_200.scr:10	cev56_200.scr	10	ヴァン	Van Grants	personagem	CRLF x1	目閉笑い。\n		
+cev56_200.scr:11	cev56_200.scr	11	ヴァン	Van Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev56_200.scr:12	cev56_200.scr	12	ヴァン	Van Grants	personagem	CRLF x1	通常。\n		
+cev56_200.scr:13	cev56_200.scr	13	ヴァン	Van Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev56_200.scr:14	cev56_200.scr	14	ヴァン	Van Grants	personagem	CRLF x1	笑い。\n		
+cev56_200.scr:15	cev56_200.scr	15	ヴァン	Van Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev56_200.scr:16	cev56_200.scr	16	ヴァン	Van Grants	personagem	CRLF x1	目閉笑い。\n		
+cev56_200.scr:17	cev56_200.scr	17	ヴァン	Van Grants	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

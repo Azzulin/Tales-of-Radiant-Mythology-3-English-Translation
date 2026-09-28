@@ -1,0 +1,119 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev57_010.scr:0	cev57_010.scr	0	エミル	Emil Castagnier	personagem	CRLF x1	カイウス？　\n入るよ？	Caius?\nCan I come in?	
+cev57_010.scr:1	cev57_010.scr	1	エミル	Emil Castagnier	personagem		もう、いるなら返事くらい……	Geez, if you're in there, at least...	
+cev57_010.scr:2	cev57_010.scr	2	エミル	Emil Castagnier	personagem	CRLF x1	……あれ？　\n何やってるの？	......Huh?\nWhat are you doing?	
+cev57_010.scr:3	cev57_010.scr	3	カイウス	Caius Qualls	personagem	CRLF x1	ああ、エミルか。\nちょっとコレを改良してたんだ	Ah, Emil.\nI was just improving this thing.	
+cev57_010.scr:4	cev57_010.scr	4	エミル	Emil Castagnier	personagem		これって……ブーメラン？	Is this...... a boomerang?	
+cev57_010.scr:5	cev57_010.scr	5	カイウス	Caius Qualls	personagem	CRLF x1	ああ。\n厚紙で作ったんだ	Yeah.\nI made it out of cardboard.	
+cev57_010.scr:6	cev57_010.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	これでも結構飛ぶんだぞ。\n見てろよ？	It actually flies pretty well.\nWatch this, okay?	
+cev57_010.scr:7	cev57_010.scr	7	エミル	Emil Castagnier	personagem		わぁ、すごいすごい！	Whoa, that's so cool!	
+cev57_010.scr:8	cev57_010.scr	8	カイウス	Caius Qualls	personagem	CRLF x1	へへ。\nそうだろ？	Heheh.\nPretty neat, huh?	
+cev57_010.scr:9	cev57_010.scr	9	カイウス	Caius Qualls	personagem	CRLF x1	投げる時はオーバースローでコンパクトに。\n手首のスナップをきかせるのがコツなんだ	When throwing, use a compact overhand.\nThe trick is snapping your wrist.	
+cev57_010.scr:10	cev57_010.scr	10	カイウス	Caius Qualls	personagem	CRLF x1	ちなみに、\nなぜかこっちを内側に構えると吉	By the way,\nit flies best if you hold this side in.	
+cev57_010.scr:11	cev57_010.scr	11	エミル	Emil Castagnier	personagem	CRLF x1	へえ、そうなんだ。\nでも、どうしてなの？	Huh, is that so?\nWhy is that, though?	
+cev57_010.scr:12	cev57_010.scr	12	カイウス	Caius Qualls	personagem	CRLF x2	そうすると、驚く程帰ってくる。\n飛距離も部屋の中でやるのに\nちょうどいいしな	It comes back surprisingly well that way.\nAnd the flight distance is just right\nfor playing inside a room.	
+cev57_010.scr:13	cev57_010.scr	13	エミル	Emil Castagnier	personagem	CRLF x1	なるほどね。\nいいなぁ〜	I see.\nThat sounds so fun~	
+cev57_010.scr:14	cev57_010.scr	14	エミル	Emil Castagnier	personagem		ねえ、僕にもやらせてよ	Hey, let me try too!	
+cev57_010.scr:15	cev57_010.scr	15	カイウス	Caius Qualls	personagem	CRLF x2	いいぜ。\n良かったら今度、\nエミルの分も作ってやるよ	Sure thing.\nIf you want, next time\nI'll make one for you too, Emil.	
+cev57_010.scr:16	cev57_010.scr	16	カイウス	Caius Qualls	personagem		それとも、一緒に作ってみるか？	Or do you want to make it together?	
+cev57_010.scr:17	cev57_010.scr	17	エミル	Emil Castagnier	personagem	CRLF x2	いいの？\nじゃあ今度、\n材料を持って遊びに来るよ	Really?\nThen next time, I'll bring materials\nover to hang out!	
+cev57_010.scr:18	cev57_010.scr	18	カイウス	Caius Qualls	personagem	CRLF x2	ああ。\n素材選びは重要だから\nゲンミツに頼むぜ	Yeah.\nPicking the material is crucial,\nso choose strictly carefully!	
+cev57_010.scr:19	cev57_010.scr	19	カイウス	Caius Qualls	personagem		待ってるから、いつでも来いよ	I'll be waiting, come by whenever!	
+cev57_010.scr:20	cev57_010.scr	20	エミル	Emil Castagnier	personagem		うん	Yeah.	
+cev57_010.scr:21	cev57_010.scr	21	エミル	Emil Castagnier	personagem		約束だよ！	It's a promise!	
+cev57_020.scr:0	cev57_020.scr	0	カイウス	Caius Qualls	personagem		あれっ……あれ？	Huh......? Wait, what?	
+cev57_020.scr:1	cev57_020.scr	1	エミル	Emil Castagnier	personagem		何探してるの？	What are you looking for?	
+cev57_020.scr:2	cev57_020.scr	2	カイウス	Caius Qualls	personagem	CRLF x2	うん？　いや……\n確かさっきまでこの辺に\nペンがあったはずなんだけど……	Hm? Nah......\nI'm sure I had a pen around here\njust a minute ago, but......	
+cev57_020.scr:3	cev57_020.scr	3	カイウス	Caius Qualls	personagem		どこにやったかなぁ……	Where did I put it......?	
+cev57_020.scr:4	cev57_020.scr	4	エミル	Emil Castagnier	personagem		帯の中は見た？	Did you check inside your sash?	
+cev57_020.scr:5	cev57_020.scr	5	カイウス	Caius Qualls	personagem	CRLF x1	いや、さすがに帯の中には\nないだろ……う？	No way, there's no way it's inside\nmy sash, right......?	
+cev57_020.scr:6	cev57_020.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	あ。　\nあった！？	Ah.\nIt's here?!	
+cev57_020.scr:7	cev57_020.scr	7	エミル	Emil Castagnier	personagem	CRLF x2	やっぱり。\nカイウスって、時々帯に\n手を入れるクセがあるよね？	I knew it.\nYou have a habit of tucking your hand\ninto your sash, don't you, Caius?	
+cev57_020.scr:8	cev57_020.scr	8	エミル	Emil Castagnier	personagem	CRLF x1	その時に間違えて、\nしまっちゃったんじゃないかな	I bet you accidentally shoved it in\nwhen you did that.	
+cev57_020.scr:9	cev57_020.scr	9	カイウス	Caius Qualls	personagem	CRLF x1	エミルって……見てない様で\n結構人の事、見てるよなぁ	You know, Emil... For someone quiet,\nyou pay a lot of attention to people.	
+cev57_020.scr:10	cev57_020.scr	10	エミル	Emil Castagnier	personagem		そ、そんな事ないよ……	T-That's not true......	
+cev57_020.scr:11	cev57_020.scr	11	カイウス	Caius Qualls	personagem		とにかく、助かったぜ	Anyway, you saved me.	
+cev57_020.scr:12	cev57_020.scr	12	カイウス	Caius Qualls	personagem		ありがとな	Thanks.	
+cev57_020.scr:13	cev57_020.scr	13	エミル	Emil Castagnier	personagem		……どういたしまして	......You're welcome.	
+cev57_030.scr:0	cev57_030.scr	0	カイウス	Caius Qualls	personagem		……エミル？	......Emil?	
+cev57_030.scr:1	cev57_030.scr	1	カイウス	Caius Qualls	personagem		おい、エミルどこだ？	Hey, Emil, where are you?	
+cev57_030.scr:2	cev57_030.scr	2	(ator 200)	(ator 200)	desconhecido		…………！	......!	
+cev57_030.scr:3	cev57_030.scr	3	カイウス	Caius Qualls	personagem		え、声みたいな音が聞こえた……？	Wait, did I hear a voice-like sound...?	
+cev57_030.scr:4	cev57_030.scr	4	カイウス	Caius Qualls	personagem		そこか、エミルッ！？	Is that you, Emil?!	
+cev57_030.scr:5	cev57_030.scr	5	エミル	Emil Castagnier	personagem		…………	......	
+cev57_030.scr:6	cev57_030.scr	6	カイウス	Caius Qualls	personagem	CRLF x2	え？\n上からでっかい雪が落ちてきて\n埋まった？	What?\nA huge pile of snow fell from above\nand buried you?!	
+cev57_030.scr:7	cev57_030.scr	7	カイウス	Caius Qualls	personagem		ったく、気を付けろよな……って	Geez, be careful next time... Wait,	
+cev57_030.scr:8	cev57_030.scr	8	カイウス	Caius Qualls	personagem	CRLF x1	おい、寝るなエミル！\n死んじまうぞ、おい！？	Hey, don't fall asleep, Emil!\nYou'll die! Hey?!	
+cev57_030.scr:9	cev57_030.scr	9	エミル	Emil Castagnier	personagem		　　　　　	......	
+cev57_040.scr:0	cev57_040.scr	0	ファラ	Farah Oersted	personagem	CRLF x1	リッドー！\nまだぁ？	Reid!\nAren't you done yet?	
+cev57_040.scr:1	cev57_040.scr	1	リッド	Reid Hershel	personagem		今やってるよ！	I'm working on it now!	
+cev57_040.scr:2	cev57_040.scr	2	リッド	Reid Hershel	personagem		ったく、そんなに急かすなよ……	Geez, don't rush me like that......	
+cev57_040.scr:3	cev57_040.scr	3	カイウス	Caius Qualls	personagem	CRLF x1	何やってるんだ？\n……大掃除か？	What are you doing?\n......Spring cleaning?	
+cev57_040.scr:4	cev57_040.scr	4	リッド	Reid Hershel	personagem		まぁ、そんなもんだ	Yeah, something like that.	
+cev57_040.scr:5	cev57_040.scr	5	リッド	Reid Hershel	personagem	CRLF x2	船内掃除の人手が集まらなくて\nアンジュが困ってるんだと。\nんで、オレもその手伝いしてるってわけ	Ange had trouble getting enough people\nto clean the ship, apparently.\nSo I ended up helping out too.	
+cev57_040.scr:6	cev57_040.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	へえ、えらいな。\n手伝いなんて	Huh, that's impressive of you,\nhelping out like that.	
+cev57_040.scr:7	cev57_040.scr	7	リッド	Reid Hershel	personagem	CRLF x2	オレが自主的にすると思うか？\nいつものファラの後始末だよ。\nったく……	You think I volunteered for this?\nI'm cleaning up after Farah as usual.\nGood grief......	
+cev57_040.scr:8	cev57_040.scr	8	カイウス	Caius Qualls	personagem	CRLF x2	でも、リッドって\n何だかんだでファラの為に\n色々頑張ってるよな	Still, when push comes to shove,\nyou always work hard for Farah,\ndon't you, Reid?	
+cev57_040.scr:9	cev57_040.scr	9	カイウス	Caius Qualls	personagem	CRLF x1	オレは、ルビアにそんなの頼まれたって\n手伝いなんかしないぜ、きっと	If Rubia asked me to do that,\nI wouldn't help out, that's for sure.	
+cev57_040.scr:10	cev57_040.scr	10	リッド	Reid Hershel	personagem	CRLF x1	そうかぁ？　\nそうでも……	You think so?\nWell, even so......	
+cev57_040.scr:11	cev57_040.scr	11	リッド	Reid Hershel	personagem		……あるかもな	......you just might.	
+cev57_040.scr:12	cev57_040.scr	12	リッド	Reid Hershel	personagem		ま、色々あんだよ	Well, there's a lot to it.	
+cev57_040.scr:13	cev57_040.scr	13	ファラ	Farah Oersted	personagem	CRLF x1	もう、リッドぉ！\n何してるの？	Geez, Reid!\nWhat are you doing?	
+cev57_040.scr:14	cev57_040.scr	14	ファラ	Farah Oersted	personagem	CRLF x1	リッドのゴミで最後なんだから\nみんな待ってるよ	Reid, yours is the last batch of trash,\nso everyone is waiting!	
+cev57_040.scr:15	cev57_040.scr	15	リッド	Reid Hershel	personagem	CRLF x1	あー、わかったわかった。\nすぐ行くって	Yeah, alright, alright.\nI'm coming right now.	
+cev57_040.scr:16	cev57_040.scr	16	リッド	Reid Hershel	personagem		じゃあな	See ya.	
+cev57_040.scr:17	cev57_040.scr	17	カイウス	Caius Qualls	personagem	CRLF x1	何か、リッドって……\n余裕あるよなぁ	Somehow, Reid seems so......\nunshakable, doesn't he?	
+cev57_050.scr:0	cev57_050.scr	0	スパーダ	Spada Belforma	personagem	CRLF x1	よぉ、カイウス！\n調子はどーよ？	Yo, Caius!\nHow's it hangin'?	
+cev57_050.scr:1	cev57_050.scr	1	カイウス	Caius Qualls	personagem	CRLF x1	調子？\n別に、いつも通りだぜ	How is it?\nPretty much the same as always.	
+cev57_050.scr:2	cev57_050.scr	2	スパーダ	Spada Belforma	personagem	CRLF x1	またまたぁ。\nしらばっくれんなよぉ	Oh, come off it!\nDon't play dumb with me!	
+cev57_050.scr:3	cev57_050.scr	3	スパーダ	Spada Belforma	personagem	CRLF x1	お前、ルビアと毎晩\n部屋に二人っきりなんだぞ？	You're alone in a room with Rubia\nevery single night, aren't ya?!	
+cev57_050.scr:4	cev57_050.scr	4	スパーダ	Spada Belforma	personagem	CRLF x1	何かこう、ねェのかよ？\nドキドキする展開とかよぉ！	Ain't there something going on?\nLike heart-pounding developments, huh?!	
+cev57_050.scr:5	cev57_050.scr	5	カイウス	Caius Qualls	personagem		あ、あるわけないだろ！	O-Of course there isn't!	
+cev57_050.scr:6	cev57_050.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	大体、夜はオレ\n別のとこで寝てたりするし	Besides, at night I usually\nsleep somewhere else anyway.	
+cev57_050.scr:7	cev57_050.scr	7	スパーダ	Spada Belforma	personagem	CRLF x1	あ？\nどこで寝てんだよ？	Huh?\nWhere do ya sleep, then?	
+cev57_050.scr:8	cev57_050.scr	8	カイウス	Caius Qualls	personagem		キュッポ達の所	With Kyuppo and the others.	
+cev57_050.scr:9	cev57_050.scr	9	カイウス	Caius Qualls	personagem		毛皮がモフモフであったかいんだぜ！	Their fur is so fluffy and warm!	
+cev57_050.scr:10	cev57_050.scr	10	スパーダ	Spada Belforma	personagem	CRLF x2	ああ……。\nだから、時々ラッコに\n同化してんのか、お前……	Ah......\nSo that's why you blend in\nwith sea otters sometimes......	
+cev57_060.scr:0	cev57_060.scr	0	カイウス	Caius Qualls	personagem	CRLF x1	霊峰アブソールの\n「霊峰」って、どういう意味なんだ？	In 'Sacred Mt. Absol', what does\n'Sacred Mountain' mean?	
+cev57_060.scr:1	cev57_060.scr	1	クレス	Cress Albane	personagem	CRLF x1	信仰の対象となったり、神仏をまつった\n山の事をそう呼ぶみたいだよ	It refers to a mountain that's worshiped\nor where deities are enshrined.	
+cev57_060.scr:2	cev57_060.scr	2	カイウス	Caius Qualls	personagem	CRLF x1	……そうなのか。\nなるほどな	......Is that so?\nI see.	
+cev57_060.scr:3	cev57_060.scr	3	ルビア	Rubia Natwick	personagem	CRLF x1	カイウス、「霊峰」の「霊」を\nお化けの「霊」と勘違いしたんでしょう	Caius, you mistook 'spirit'\nfor a ghost, didn't you?	
+cev57_060.scr:4	cev57_060.scr	4	カイウス	Caius Qualls	personagem		そ、そんなわけあるか！	N-No way! As if I would!	
+cev57_060.scr:5	cev57_060.scr	5	ルビア	Rubia Natwick	personagem	CRLF x2	そうかしら。\nじゃあどうして、わざわざ\n霊峰の意味を聞いたりしたの？	Are you sure?\nThen why did you go out of your way\nto ask what sacred mountain meant?	
+cev57_060.scr:6	cev57_060.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	……普通に、疑問に思ったんだよ。\n別におかしくないだろ	......I was just curious.\nThere's nothing weird about that!	
+cev57_060.scr:7	cev57_060.scr	7	ルビア	Rubia Natwick	personagem	CRLF x2	いつも、授業をサボったり\n居眠りしたりしてるのに？　\n今だけ？	Even though you always ditch class\nor fall asleep?\nJust this once?	
+cev57_060.scr:8	cev57_060.scr	8	カイウス	Caius Qualls	personagem	CRLF x1	何だよ。\nいちいち引っかかる言い方だな	What's that supposed to mean?\nYou always have to pick a fight!	
+cev57_060.scr:9	cev57_060.scr	9	ルビア	Rubia Natwick	personagem	CRLF x2	引っかかってるのはカイウスでしょう？\nちょっとは素直に、お化けが怖いって\n認めたらどうなのよ	You're the defensive one, Caius!\nWhy don't you just honestly admit\nthat you're scared of ghosts?!	
+cev57_060.scr:10	cev57_060.scr	10	カイウス	Caius Qualls	personagem		だから、違うって……！	I told you, that's not it......!	
+cev57_060.scr:11	cev57_060.scr	11	クレス	Cress Albane	personagem	CRLF x1	まあまあ。\nもう、その話はいいじゃないか	Now, now.\nLet's leave it at that, shall we?	
+cev57_060.scr:12	cev57_060.scr	12	クレス	Cress Albane	personagem	CRLF x2	喧嘩する様な話じゃないだろう？\n二人とも、もう少し素直に\n相手の話を聞かないとな	It's not something to quarrel over.\nYou two need to listen to each other\na little more openly.	
+cev57_200.scr:0	cev57_200.scr	0	カイウス	Caius Qualls	personagem	CRLF x1	通常。\n	Normal.\n	
+cev57_200.scr:1	cev57_200.scr	1	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev57_200.scr:2	cev57_200.scr	2	カイウス	Caius Qualls	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev57_200.scr:3	cev57_200.scr	3	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev57_200.scr:4	cev57_200.scr	4	カイウス	Caius Qualls	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev57_200.scr:5	cev57_200.scr	5	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev57_200.scr:6	cev57_200.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev57_200.scr:7	cev57_200.scr	7	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev57_200.scr:8	cev57_200.scr	8	カイウス	Caius Qualls	personagem	CRLF x1	リカンツ。\n	Lycanth.\n	
+cev57_200.scr:9	cev57_200.scr	9	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev57_200.scr:10	cev57_200.scr	10	カイウス	Caius Qualls	personagem	CRLF x1	通常。\n	Normal.\n	
+cev57_200.scr:11	cev57_200.scr	11	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev57_200.scr:12	cev57_200.scr	12	カイウス	Caius Qualls	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev57_200.scr:13	cev57_200.scr	13	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev57_200.scr:14	cev57_200.scr	14	カイウス	Caius Qualls	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev57_200.scr:15	cev57_200.scr	15	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev57_200.scr:16	cev57_200.scr	16	カイウス	Caius Qualls	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev57_200.scr:17	cev57_200.scr	17	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev57_200.scr:18	cev57_200.scr	18	カイウス	Caius Qualls	personagem	CRLF x1	リカンツ。\n	Lycanth.\n	
+cev57_200.scr:19	cev57_200.scr	19	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev57_200.scr:20	cev57_200.scr	20	カイウス	Caius Qualls	personagem	CRLF x1	通常。\n	Normal.\n	
+cev57_200.scr:21	cev57_200.scr	21	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev57_200.scr:22	cev57_200.scr	22	カイウス	Caius Qualls	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev57_200.scr:23	cev57_200.scr	23	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev57_200.scr:24	cev57_200.scr	24	カイウス	Caius Qualls	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev57_200.scr:25	cev57_200.scr	25	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev57_200.scr:26	cev57_200.scr	26	カイウス	Caius Qualls	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev57_200.scr:27	cev57_200.scr	27	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev57_200.scr:28	cev57_200.scr	28	カイウス	Caius Qualls	personagem	CRLF x1	リカンツ。\n	Lycanth.\n	
+cev57_200.scr:29	cev57_200.scr	29	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	

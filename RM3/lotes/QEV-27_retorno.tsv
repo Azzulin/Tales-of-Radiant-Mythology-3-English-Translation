@@ -1,0 +1,74 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev27_010.scr:0	qev27_010.scr	0	ユージーン	Eugene Gallardo	personagem	CRLF x1	○○、\n少しいいか？	○○,\nDo you have a minute?	
+qev27_010.scr:1	qev27_010.scr	1	ユージーン	Eugene Gallardo	personagem	CRLF x1	折り入って頼みたい事が\nあるのだが……	I have a special favor\nto ask of you...	
+qev27_010.scr:2	qev27_010.scr	2	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev27_010.scr:3	qev27_010.scr	3	ユージーン	Eugene Gallardo	personagem	CRLF x1	実は、村に残してきた\n家族の事が気になっていてな	Actually, I've been worried about\nmy family back in the village.	
+qev27_010.scr:4	qev27_010.scr	4	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev27_010.scr:5	qev27_010.scr	5	ユージーン	Eugene Gallardo	personagem	CRLF x1	いや、お前が想像している様な\n意味での「家族」ではない	"No, it's not ""family"" in the\nsense you're probably imagining."	
+qev27_010.scr:6	qev27_010.scr	6	ユージーン	Eugene Gallardo	personagem	CRLF x1	身寄りのない幼い子どもを一人、\n俺が引き取って面倒を見ていたのだ	I took in a young orphaned boy\nand have been looking after him.	
+qev27_010.scr:7	qev27_010.scr	7	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev27_010.scr:8	qev27_010.scr	8	ユージーン	Eugene Gallardo	personagem	CRLF x2	ギルドの仕事はまだ早いだろうと、\nあえて村に残したまま\nこちらに来てしまったが……	I left him in the village and came\nhere alone, thinking guild work\nwould be too early for him...	
+qev27_010.scr:9	qev27_010.scr	9	ユージーン	Eugene Gallardo	personagem	CRLF x2	ここでは同年代の子どもも\n当たり前に仕事を請け負っている。\nそれを見て、少し考えが変わってな	But seeing kids his age taking\non jobs as a matter of course here,\nmy mind has changed a bit.	
+qev27_010.scr:10	qev27_010.scr	10	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev27_010.scr:11	qev27_010.scr	11	ユージーン	Eugene Gallardo	personagem		もちろん、都合の付く時で構わん	Of course, whenever you are free is fine.	
+qev27_010.scr:12	qev27_010.scr	12	ユージーン	Eugene Gallardo	personagem	CRLF x1	迎えに行くまでの道中、\n手を貸してはもらえないか？	Could you lend me a hand\non the way to pick him up?	
+qev27_010.scr:13	qev27_010.scr	13	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「ちちんぷいぷいの魔法」が\nエントリーされました。\nユージーンから受ける事が出来ます	"The quest ""Chichin-puipui!"" has been\nentered.\nYou can accept it from Eugene."	
+qev27_020.scr:0	qev27_020.scr	0	ユージーン	Eugene Gallardo	personagem	CRLF x1	手を貸してくれるか。\nすまないな	Will you lend me a hand?\nThanks.	
+qev27_020.scr:1	qev27_020.scr	1	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev27_020.scr:2	qev27_020.scr	2	ユージーン	Eugene Gallardo	personagem	CRLF x2	あいつは自分の身を守る力は持っているが、\n何分まだ子どもでな。\nそれに、あの一帯は手強い魔物も多い	He has the power to protect himself,\nbut he is still just a child.\nAlso, there are tough monsters there.	
+qev27_020.scr:3	qev27_020.scr	3	ユージーン	Eugene Gallardo	personagem	CRLF x2	既にこちらへ向かっているとの事だが\n念の為、途中まで\nこちらからも迎えに行く事にした	He's already on his way here,\nbut just to be safe, I decided\nto go pick him up halfway.	
+qev27_020.scr:4	qev27_020.scr	4	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev27_020.scr:5	qev27_020.scr	5	ユージーン	Eugene Gallardo	personagem	CRLF x1	合流場所は、事前に俺から\n指示を出してある	I've already given him instructions\non where to meet us.	
+qev27_020.scr:6	qev27_020.scr	6	ユージーン	Eugene Gallardo	personagem		行こう、○○	Let's go, ○○.	
+qev27_030.scr:0	qev27_030.scr	0	ユージーン	Eugene Gallardo	personagem	CRLF x1	この火山で落ち合う事に\nなっているのだが……	We are supposed to meet\nat this volcano, but...	
+qev27_030.scr:1	qev27_030.scr	1	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev27_030.scr:2	qev27_030.scr	2	ユージーン	Eugene Gallardo	personagem	CRLF x2	とりあえず、奥を目指そう。\n足場が悪い上に魔物も出る。\n気を付けて登るんだ	For now, let's head deeper inside.\nThe footing is bad and monsters appear.\nClimb carefully.	
+qev27_040.scr:0	qev27_040.scr	0	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev27_040.scr:1	qev27_040.scr	1	ユージーン	Eugene Gallardo	personagem	CRLF x1	大丈夫か？\nあまり顔色が良くないな	Are you okay?\nYou don't look so good.	
+qev27_040.scr:2	qev27_040.scr	2	ユージーン	Eugene Gallardo	personagem	CRLF x2	ここの外気温は、他に比べ極端に高い。\nその温度差だけでも、ヒトの体には\n相当な負担になる	The temperature here is extremely high.\nThat temperature difference alone puts\na considerable strain on the human body.	
+qev27_040.scr:3	qev27_040.scr	3	ユージーン	Eugene Gallardo	personagem	CRLF x1	無理をせず、適度に補給と休憩を\n取りながら進んだ方がいいだろう	We shouldn't push ourselves. It's best to\nproceed while taking appropriate breaks.	
+qev27_040.scr:4	qev27_040.scr	4	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev27_040.scr:5	qev27_040.scr	5	ユージーン	Eugene Gallardo	personagem	CRLF x2	ん？　ああ、マオ……。\nこれから合流する相手の事なら\n心配はいらん	Hmm? Ah, Mao...\nNo need to worry about\nthe person we are meeting.	
+qev27_040.scr:6	qev27_040.scr	6	ユージーン	Eugene Gallardo	personagem	CRLF x2	どういうわけか、火の恩恵を\n強く受けて生まれた子の様でな。\n身体的には、多少の暑さはものともせん	For some reason, Mao seems to have been\nborn with a strong blessing of fire.\nPhysically, heat doesn't bother Mao much.	
+qev27_040.scr:7	qev27_040.scr	7	(ator 200)	(ator 200)	desconhecido		……？	...?	
+qev27_040.scr:8	qev27_040.scr	8	ユージーン	Eugene Gallardo	personagem	CRLF x2	ふむ。\n恐らく出生に、何か秘密が\nあるのだとは思うが……	Hmm.\nI believe there's some secret\nregarding his birth, but...	
+qev27_040.scr:9	qev27_040.scr	9	ユージーン	Eugene Gallardo	personagem	CRLF x1	何ぶん、本人が過去の記憶を\n失くしていてな	The boy has lost all memories\nof his past.	
+qev27_040.scr:10	qev27_040.scr	10	ユージーン	Eugene Gallardo	personagem	CRLF x1	俺と会う以前の事を、\n全く覚えていないのだ	Mao remembers absolutely nothing\nfrom before meeting me.	
+qev27_040.scr:11	qev27_040.scr	11	(ator 200)	(ator 200)	desconhecido		……！	...!	
+qev27_040.scr:12	qev27_040.scr	12	ユージーン	Eugene Gallardo	personagem	CRLF x1	なに、本人はあっけらかんとしたもので\n暗い部分など少しも見せん	Well, the boy himself is cheerful and\ndoesn't show a hint of darkness.	
+qev27_040.scr:13	qev27_040.scr	13	ユージーン	Eugene Gallardo	personagem	CRLF x2	強い子だが……それだけに\nいつかその緊張の糸が切れないかと\n心配に思うところもあってな	Mao is strong, but... because of that,\nI worry that the tension might\nsnap one day.	
+qev27_040.scr:14	qev27_040.scr	14	ユージーン	Eugene Gallardo	personagem	CRLF x2	だが、ギルドで交友関係を広げれば\nあの子自身の幅も広がる。\nきっと、いい経験を積めるだろう	However, expanding his social circle\nat the guild will broaden his horizons.\nI'm sure he'll gain good experience.	
+qev27_040.scr:15	qev27_040.scr	15	ユージーン	Eugene Gallardo	personagem	CRLF x1	もしかしたら、何かのきっかけで\n過去の記憶も戻るかもしれん	Perhaps something might even\ntrigger Mao's past memories to return.	
+qev27_040.scr:16	qev27_040.scr	16	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev27_040.scr:17	qev27_040.scr	17	ユージーン	Eugene Gallardo	personagem	CRLF x2	そうか。\nそういえば、○○も\n過去の記憶が無いのだったな	I see.\nCome to think of it, ○○,\nyou also have no past memories.	
+qev27_040.scr:18	qev27_040.scr	18	ユージーン	Eugene Gallardo	personagem	CRLF x2	こういう言い方は不謹慎かもしれんが……。\n○○とマオは\n親しくなれるかもしれんな	It may be insensitive to say this, but...\n○○ and Mao\nmight become good friends.	
+qev27_040.scr:19	qev27_040.scr	19	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev27_040.scr:20	qev27_040.scr	20	ユージーン	Eugene Gallardo	personagem	CRLF x1	……すまん。\n少しお喋りが過ぎた様だ	...Sorry.\nI seem to have talked too much.	
+qev27_040.scr:21	qev27_040.scr	21	ユージーン	Eugene Gallardo	personagem	CRLF x1	とにかく先へ進もう。\n合流地点までは、あと少しのはずだ	Anyway, let's move on.\nWe should be close to the meeting point.	
+qev27_050.scr:0	qev27_050.scr	0	マオ	Mao	personagem		あっ、ユージーン！	Ah, Eugene!	
+qev27_050.scr:1	qev27_050.scr	1	ユージーン	Eugene Gallardo	personagem	CRLF x1	マオ。\n無事だったか	Mao.\nAre you safe?	
+qev27_050.scr:2	qev27_050.scr	2	マオ	Mao	personagem	CRLF x2	うん。\n無事も無事、\nこの通りピンピンしてるヨ♪	Yeah.\nSafe as can be!\nI'm full of energy as you can see!	
+qev27_050.scr:3	qev27_050.scr	3	(ator 200)	(ator 200)	desconhecido		…………	...	
+qev27_050.scr:4	qev27_050.scr	4	ユージーン	Eugene Gallardo	personagem	CRLF x1	○○、紹介しよう。\nマオだ	○○, let me introduce you.\nThis is Mao.	
+qev27_050.scr:5	qev27_050.scr	5	マオ	Mao	personagem	CRLF x1	○○？\nって事は、キミが噂の……	○○?\nDoes that mean you're the rumored...	
+qev27_050.scr:6	qev27_050.scr	6	マオ	Mao	personagem	CRLF x1	ユージーンから話は聞いてるよ。\nこれから、よろしくネ♪	I've heard about you from Eugene.\nNice to meet you!	
+qev27_050.scr:7	qev27_050.scr	7	ユージーン	Eugene Gallardo	personagem	CRLF x2	マオはまだ幼いが、\n術の使い手としては\nなかなかのものだ	Mao is still young,\nbut as an arte user,\nhe's quite skilled.	
+qev27_050.scr:8	qev27_050.scr	8	ユージーン	Eugene Gallardo	personagem	CRLF x1	今後、ギルドが請け負う仕事で\n役に立つ事もあるだろう	I'm sure Mao will be of use\nin the jobs the guild undertakes.	
+qev27_050.scr:9	qev27_050.scr	9	マオ	Mao	personagem	CRLF x1	ボクは火の力を操るのが得意なんだ。\nこう、ちちんぷいぷい！　ってネ	I'm good at controlling the power of fire.\nLike this, chichin-puipui!	
+qev27_050.scr:10	qev27_050.scr	10	ユージーン	Eugene Gallardo	personagem	CRLF x2	マオ。\n出来るからといって、\nあまり気安く力を使うのは感心せんな	Mao.\nJust because you can, doesn't mean\nyou should use your power so lightly.	
+qev27_050.scr:11	qev27_050.scr	11	マオ	Mao	personagem	CRLF x1	ぶー。\nわかってるヨ	Boo.\nI know, I know.	
+qev27_050.scr:12	qev27_050.scr	12	マオ	Mao	personagem	CRLF x1	とにかく、こういう力は\nヒトの幸せの為に使わないとネ♪	Anyway, this kind of power should\nbe used for the happiness of others!	
+qev27_050.scr:13	qev27_050.scr	13	マオ	Mao	personagem	CRLF x1	ボクもギルドで精一杯頑張るから\n色々教えてね、○○！	I'll do my best at the guild too,\nso teach me lots of things, ○○!	
+qev27_060.scr:0	qev27_060.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	おい、マオ？\nマオじゃねえか！	Hey, Mao?\nIt is Mao!	
+qev27_060.scr:1	qev27_060.scr	1	ティトレイ	Tytree Crowe	personagem	CRLF x1	何だよ、お前も結局\nこっちへ来たんだな！！	What, you ended up\ncoming here after all!!	
+qev27_060.scr:2	qev27_060.scr	2	マオ	Mao	personagem	CRLF x2	うん。\nユージーンのお供がティトレイ一人じゃ\n心もとないからネ	Yeah.\nEugene would be uneasy with just\nTytree as his companion, right?	
+qev27_060.scr:3	qev27_060.scr	3	マオ	Mao	personagem	CRLF x1	それに、ギルドって\n色んな人がいて楽しそうなんだもん♪	Besides, the guild seems\nfun with so many different people!	
+qev27_060.scr:4	qev27_060.scr	4	ユージーン	Eugene Gallardo	personagem	CRLF x1	遊びに来ているわけでは\nないんだぞ、マオ	You are not here\nto play, Mao.	
+qev27_060.scr:5	qev27_060.scr	5	ユージーン	Eugene Gallardo	personagem	CRLF x1	時には凶悪な魔物討伐の依頼を\n請け負う事になる事もある	Sometimes you'll have to take on\nrequests to subjugate vicious monsters.	
+qev27_060.scr:6	qev27_060.scr	6	ユージーン	Eugene Gallardo	personagem	CRLF x1	くれぐれも\n気を引き締めていく様にな	Make sure to\nstay alert.	
+qev27_060.scr:7	qev27_060.scr	7	マオ	Mao	personagem		はーい	Yeees.	
+qev27_060.scr:8	qev27_060.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x1	さすがのマオも、\nユージーンには頭が上がんねえな	Even Mao\nis no match for Eugene.	
+qev27_060.scr:9	qev27_060.scr	9	マオ	Mao	personagem	CRLF x1	もう、うるさいヨ\nティトレイ！	Jeez, you're annoying,\nTytree!	
+qev27_060.scr:10	qev27_060.scr	10	ユージーン	Eugene Gallardo	personagem	CRLF x1	○○、\n色々と付き合わせてすまなかったな	○○,\nSorry for dragging you around so much.	
+qev27_060.scr:11	qev27_060.scr	11	ユージーン	Eugene Gallardo	personagem	CRLF x1	協力してくれて助かった。\nありがとう	Your help was a lifesaver.\nThank you.	
+qev27_060.scr:12	qev27_060.scr	12	(mensagem de sistema)	(mensagem de sistema)	sistema		マオがアドリビトムに加入しました	Mao joined Ad Libitum.	

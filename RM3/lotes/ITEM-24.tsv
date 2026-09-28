@@ -1,0 +1,267 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+valuables#2240	valuables	2240	(item/equipamento)	(item/equipment)	sistema		敵からのターゲット頻度＋＋　仰け反り耐性＋２		
+valuables#2241	valuables	2241	(item/equipamento)	(item/equipment)	sistema		義賊参上		
+valuables#2242	valuables	2242	(item/equipamento)	(item/equipment)	sistema		泥棒に手を染めた者の称号		
+valuables#2243	valuables	2243	(item/equipamento)	(item/equipment)	sistema		ローバーアイテムに初めて成功した		
+valuables#2244	valuables	2244	(item/equipamento)	(item/equipment)	sistema		大泥棒		
+valuables#2245	valuables	2245	(item/equipamento)	(item/equipment)	sistema		一人前の泥棒の称号		
+valuables#2246	valuables	2246	(item/equipamento)	(item/equipment)	sistema		ローバーアイテムを100回成功した		
+valuables#2247	valuables	2247	(item/equipamento)	(item/equipment)	sistema		敵からのアイテム獲得＋１０		
+valuables#2248	valuables	2248	(item/equipamento)	(item/equipment)	sistema		天下の大泥棒		
+valuables#2249	valuables	2249	(item/equipamento)	(item/equipment)	sistema		盗めぬ物は無いとされる者の称号		
+valuables#2250	valuables	2250	(item/equipamento)	(item/equipment)	sistema		ローバーアイテムを300回成功した		
+valuables#2251	valuables	2251	(item/equipamento)	(item/equipment)	sistema		敵からのアイテム獲得＋１０　敵からのターゲット頻度−		
+valuables#2252	valuables	2252	(item/equipamento)	(item/equipment)	sistema		ダンジョン探検家		
+valuables#2253	valuables	2253	(item/equipamento)	(item/equipment)	sistema		世界の秘境を巡る者の称号		
+valuables#2254	valuables	2254	(item/equipamento)	(item/equipment)	sistema		ダンジョン踏破率が30％を越えた		
+valuables#2255	valuables	2255	(item/equipamento)	(item/equipment)	sistema		採取効果＋２　採掘効果＋２		
+valuables#2256	valuables	2256	(item/equipamento)	(item/equipment)	sistema		ダンジョン冒険者		
+valuables#2257	valuables	2257	(item/equipamento)	(item/equipment)	sistema		世界の秘境を冒険する者の称号		
+valuables#2258	valuables	2258	(item/equipamento)	(item/equipment)	sistema		ダンジョン踏破率が60％を越えた		
+valuables#2259	valuables	2259	(item/equipamento)	(item/equipment)	sistema		バックアタック防止　モンスターシンボル速度−		
+valuables#2260	valuables	2260	(item/equipamento)	(item/equipment)	sistema		踏破者		
+valuables#2261	valuables	2261	(item/equipamento)	(item/equipment)	sistema		世界の秘境を知り尽くした者の称号		
+valuables#2262	valuables	2262	(item/equipamento)	(item/equipment)	sistema		ダンジョン踏破率が90％を越えた		
+valuables#2263	valuables	2263	(item/equipamento)	(item/equipment)	sistema		レア獲得増＋５　宝箱ドロップ効果＋１０		
+valuables#2264	valuables	2264	(item/equipamento)	(item/equipment)	sistema		オタオタハンター		
+valuables#2265	valuables	2265	(item/equipamento)	(item/equipment)	sistema		オタオタをいじめる者の称号		
+valuables#2266	valuables	2266	(item/equipamento)	(item/equipment)	sistema		オタオタの討伐数が10を突破		
+valuables#2267	valuables	2267	(item/equipamento)	(item/equipment)	sistema		弱きをくじく者		
+valuables#2268	valuables	2268	(item/equipamento)	(item/equipment)	sistema		オタオタに恐れられる者の称号		
+valuables#2269	valuables	2269	(item/equipamento)	(item/equipment)	sistema		オタオタの討伐数が100を突破		
+valuables#2270	valuables	2270	(item/equipamento)	(item/equipment)	sistema		敵からのターゲット頻度＋＋		
+valuables#2271	valuables	2271	(item/equipamento)	(item/equipment)	sistema		みんなと仲良し		
+valuables#2272	valuables	2272	(item/equipamento)	(item/equipment)	sistema		仲間達との戦歴を歩んだ者の称号		
+valuables#2273	valuables	2273	(item/equipamento)	(item/equipment)	sistema		全てのＴＯキャラの戦闘回数が50回を越えた		
+valuables#2274	valuables	2274	(item/equipamento)	(item/equipment)	sistema		敵からのターゲット頻度−　最大ＴＰ−２０％		
+valuables#2275	valuables	2275	(item/equipamento)	(item/equipment)	sistema		永遠の絆		
+valuables#2276	valuables	2276	(item/equipamento)	(item/equipment)	sistema		かけがえのない戦友を得た者の称号		
+valuables#2277	valuables	2277	(item/equipamento)	(item/equipment)	sistema		特定のＴＯキャラの戦闘回数が1000回を越えた		
+valuables#2278	valuables	2278	(item/equipamento)	(item/equipment)	sistema		敵からのターゲット頻度− −　最大ＨＰ−２０％		
+valuables#2279	valuables	2279	(item/equipamento)	(item/equipment)	sistema		大金持ち		
+valuables#2280	valuables	2280	(item/equipamento)	(item/equipment)	sistema		お金に不自由がなさそうな者の称号		
+valuables#2281	valuables	2281	(item/equipamento)	(item/equipment)	sistema		所持金が100万ガルドを突破		
+valuables#2282	valuables	2282	(item/equipamento)	(item/equipment)	sistema		獲得ガルド＋２０％		
+valuables#2283	valuables	2283	(item/equipamento)	(item/equipment)	sistema		大富豪		
+valuables#2284	valuables	2284	(item/equipamento)	(item/equipment)	sistema		使い切れぬほどの富を手にした者の称号		
+valuables#2285	valuables	2285	(item/equipamento)	(item/equipment)	sistema		所持金が1000万ガルドを突破		
+valuables#2286	valuables	2286	(item/equipamento)	(item/equipment)	sistema		獲得ガルド＋６０％		
+valuables#2287	valuables	2287	(item/equipamento)	(item/equipment)	sistema		グミ好き		
+valuables#2288	valuables	2288	(item/equipamento)	(item/equipment)	sistema		グミのレシピに精通する者の称号		
+valuables#2289	valuables	2289	(item/equipamento)	(item/equipment)	sistema		全てのグミレシピを入手		
+valuables#2290	valuables	2290	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ＋４％　敵撃破時にＨＰ２％回復		
+valuables#2291	valuables	2291	(item/equipamento)	(item/equipment)	sistema		ボトル好き		
+valuables#2292	valuables	2292	(item/equipamento)	(item/equipment)	sistema		ボトルのレシピに精通する者の称号		
+valuables#2293	valuables	2293	(item/equipamento)	(item/equipment)	sistema		全てのボトルレシピを入手		
+valuables#2294	valuables	2294	(item/equipamento)	(item/equipment)	sistema		最大ＴＰ＋４％　敵撃破時にＴＰ２％回復		
+valuables#2295	valuables	2295	(item/equipamento)	(item/equipment)	sistema		料理好き		
+valuables#2296	valuables	2296	(item/equipamento)	(item/equipment)	sistema		料理のレシピに精通する者の称号		
+valuables#2297	valuables	2297	(item/equipamento)	(item/equipment)	sistema		全ての料理レシピを入手		
+valuables#2298	valuables	2298	(item/equipamento)	(item/equipment)	sistema		ＴＰ消費量−６％　敵撃破時にＴＰ２％回復		
+valuables#2299	valuables	2299	(item/equipamento)	(item/equipment)	sistema		食の探求者		
+valuables#2300	valuables	2300	(item/equipamento)	(item/equipment)	sistema		あらゆる料理に挑んだ者の称号		
+valuables#2301	valuables	2301	(item/equipamento)	(item/equipment)	sistema		全ての料理を行った		
+valuables#2302	valuables	2302	(item/equipamento)	(item/equipment)	sistema		リザルトＴＰ回復＋６％　敵撃破時にＨＰ２％回復		
+valuables#2303	valuables	2303	(item/equipamento)	(item/equipment)	sistema		素材博士		
+valuables#2304	valuables	2304	(item/equipamento)	(item/equipment)	sistema		強化素材に精通した者の称号		
+valuables#2305	valuables	2305	(item/equipamento)	(item/equipment)	sistema		全ての強化素材を試してみた		
+valuables#2306	valuables	2306	(item/equipamento)	(item/equipment)	sistema		敵からのアイテム獲得＋２　宝箱ドロップ効果＋１０		
+valuables#2307	valuables	2307	(item/equipamento)	(item/equipment)	sistema		植物博士		
+valuables#2308	valuables	2308	(item/equipamento)	(item/equipment)	sistema		採取に熟知した者の称号		
+valuables#2309	valuables	2309	(item/equipamento)	(item/equipment)	sistema		採取を300回行った		
+valuables#2310	valuables	2310	(item/equipamento)	(item/equipment)	sistema		採取効果＋１０		
+valuables#2311	valuables	2311	(item/equipamento)	(item/equipment)	sistema		鉱物博士		
+valuables#2312	valuables	2312	(item/equipamento)	(item/equipment)	sistema		採掘に熟知した者の称号		
+valuables#2313	valuables	2313	(item/equipamento)	(item/equipment)	sistema		採掘を300回行った		
+valuables#2314	valuables	2314	(item/equipamento)	(item/equipment)	sistema		採掘効果＋１０		
+valuables#2315	valuables	2315	(item/equipamento)	(item/equipment)	sistema		鍛冶屋の常連さん		
+valuables#2316	valuables	2316	(item/equipamento)	(item/equipment)	sistema		鍛冶屋の馴染み客に与えられる称号		
+valuables#2317	valuables	2317	(item/equipamento)	(item/equipment)	sistema		鍛冶屋を100回利用した		
+valuables#2318	valuables	2318	(item/equipamento)	(item/equipment)	sistema		レア獲得増＋５　スキルスロット増＋１０		
+valuables#2319	valuables	2319	(item/equipamento)	(item/equipment)	sistema		おしゃれさん		
+valuables#2320	valuables	2320	(item/equipamento)	(item/equipment)	sistema		整形を追求する者の称号		
+valuables#2321	valuables	2321	(item/equipamento)	(item/equipment)	sistema		キャラリメイクを10回利用した		
+valuables#2322	valuables	2322	(item/equipamento)	(item/equipment)	sistema		バックアタック防止　モンスターシンボル速度＋＋		
+valuables#2323	valuables	2323	(item/equipamento)	(item/equipment)	sistema		求道者		
+valuables#2324	valuables	2324	(item/equipamento)	(item/equipment)	sistema		自分の生きる道を探し求める者の称号		
+valuables#2325	valuables	2325	(item/equipamento)	(item/equipment)	sistema		転職を行った		
+valuables#2326	valuables	2326	(item/equipamento)	(item/equipment)	sistema		探究者		
+valuables#2327	valuables	2327	(item/equipamento)	(item/equipment)	sistema		あらゆる職への道を得た者の称号		
+valuables#2328	valuables	2328	(item/equipamento)	(item/equipment)	sistema		全ての職業に転職可能となった		
+valuables#2329	valuables	2329	(item/equipamento)	(item/equipment)	sistema		モンスターシンボルに、非常に襲われやすくなる		
+valuables#2330	valuables	2330	(item/equipamento)	(item/equipment)	sistema		孤独な冒険者		
+valuables#2331	valuables	2331	(item/equipamento)	(item/equipment)	sistema		己の力のみで戦う者が持つ称号		
+valuables#2332	valuables	2332	(item/equipamento)	(item/equipment)	sistema		プレイヤーキャラのみで戦闘を100回行った		
+valuables#2333	valuables	2333	(item/equipamento)	(item/equipment)	sistema		スキルスロット増＋２　宝箱ドロップ効果＋１０		
+valuables#2334	valuables	2334	(item/equipamento)	(item/equipment)	sistema		好敵手		
+valuables#2335	valuables	2335	(item/equipamento)	(item/equipment)	sistema		よきマッチメイトを得た者の称号		
+valuables#2336	valuables	2336	(item/equipamento)	(item/equipment)	sistema		テイルズキャラとの対決クエストをクリアした		
+valuables#2337	valuables	2337	(item/equipamento)	(item/equipment)	sistema		獲得ガルド＋５％　宝箱ドロップ効果＋１０		
+valuables#2338	valuables	2338	(item/equipamento)	(item/equipment)	sistema		がっかり冒険者		
+valuables#2339	valuables	2339	(item/equipamento)	(item/equipment)	sistema		敗北数が多い者が得る不名誉な称号		
+valuables#2340	valuables	2340	(item/equipamento)	(item/equipment)	sistema		全滅回数が10回となった		
+valuables#2341	valuables	2341	(item/equipamento)	(item/equipment)	sistema		モンスターシンボル出現頻度＋		
+valuables#2342	valuables	2342	(item/equipamento)	(item/equipment)	sistema		へっぽこ冒険者		
+valuables#2343	valuables	2343	(item/equipamento)	(item/equipment)	sistema		中途半端な仕事をする者が得る称号		
+valuables#2344	valuables	2344	(item/equipamento)	(item/equipment)	sistema		クエストの破棄を行った		
+valuables#2345	valuables	2345	(item/equipamento)	(item/equipment)	sistema		チキン冒険者		
+valuables#2346	valuables	2346	(item/equipamento)	(item/equipment)	sistema		敵前逃亡を重ねた者が得る称号		
+valuables#2347	valuables	2347	(item/equipamento)	(item/equipment)	sistema		逃走回数が10回を突破		
+valuables#2348	valuables	2348	(item/equipamento)	(item/equipment)	sistema		逃走時間−４０％		
+valuables#2349	valuables	2349	(item/equipamento)	(item/equipment)	sistema		カエル冒険者		
+valuables#2350	valuables	2350	(item/equipamento)	(item/equipment)	sistema		寄り道をしない者が得る称号		
+valuables#2351	valuables	2351	(item/equipamento)	(item/equipment)	sistema		パッと戻るを50回使用		
+valuables#2352	valuables	2352	(item/equipamento)	(item/equipment)	sistema		モンスターシンボル速度＋＋		
+valuables#2353	valuables	2353	(item/equipamento)	(item/equipment)	sistema		備えの達人		
+valuables#2354	valuables	2354	(item/equipamento)	(item/equipment)	sistema		勉強熱心な者に与えられる称号		
+valuables#2355	valuables	2355	(item/equipamento)	(item/equipment)	sistema		ガイドブックを読破		
+valuables#2356	valuables	2356	(item/equipamento)	(item/equipment)	sistema		輝ける光器		
+valuables#2357	valuables	2357	(item/equipamento)	(item/equipment)	sistema		レディアントを手にした者が得る称号		
+valuables#2358	valuables	2358	(item/equipamento)	(item/equipment)	sistema		レディアント装備を入手した		
+valuables#2359	valuables	2359	(item/equipamento)	(item/equipment)	sistema		マスター戦士		
+valuables#2360	valuables	2360	(item/equipamento)	(item/equipment)	sistema		戦士の光器を得た者の称号		
+valuables#2361	valuables	2361	(item/equipamento)	(item/equipment)	sistema		戦士レディアントを入手した		
+valuables#2362	valuables	2362	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ＋１０％　基礎物理攻撃力＋１０％		
+valuables#2363	valuables	2363	(item/equipamento)	(item/equipment)	sistema		マスター剣士		
+valuables#2364	valuables	2364	(item/equipamento)	(item/equipment)	sistema		剣士の光器を得た者の称号		
+valuables#2365	valuables	2365	(item/equipamento)	(item/equipment)	sistema		剣士レディアントを入手した		
+valuables#2366	valuables	2366	(item/equipamento)	(item/equipment)	sistema		基礎物理攻撃力＋５％　基礎物理防御力＋１０％		
+valuables#2367	valuables	2367	(item/equipamento)	(item/equipment)	sistema		マスター大剣士		
+valuables#2368	valuables	2368	(item/equipamento)	(item/equipment)	sistema		大剣士の光器を得た者の称号		
+valuables#2369	valuables	2369	(item/equipamento)	(item/equipment)	sistema		大剣士レディアントを入手した		
+valuables#2370	valuables	2370	(item/equipamento)	(item/equipment)	sistema		最大ＴＰ−２０％　基礎物理攻撃力＋３０％　基礎敏捷値−２０		
+valuables#2371	valuables	2371	(item/equipamento)	(item/equipment)	sistema		マスター聖騎士		
+valuables#2372	valuables	2372	(item/equipamento)	(item/equipment)	sistema		聖騎士の光器を得た者の称号		
+valuables#2373	valuables	2373	(item/equipamento)	(item/equipment)	sistema		聖騎士レディアントを入手した		
+valuables#2374	valuables	2374	(item/equipamento)	(item/equipment)	sistema		基礎物理防御力＋２０％　敵からのターゲット頻度＋		
+valuables#2375	valuables	2375	(item/equipamento)	(item/equipment)	sistema		マスター格闘家		
+valuables#2376	valuables	2376	(item/equipamento)	(item/equipment)	sistema		格闘家の光器を得た者の称号		
+valuables#2377	valuables	2377	(item/equipamento)	(item/equipment)	sistema		格闘家レディアントを入手した		
+valuables#2378	valuables	2378	(item/equipamento)	(item/equipment)	sistema		リザルトＴＰ回復＋２０％		
+valuables#2379	valuables	2379	(item/equipamento)	(item/equipment)	sistema		マスター僧侶		
+valuables#2380	valuables	2380	(item/equipamento)	(item/equipment)	sistema		僧侶の光器を得た者の称号		
+valuables#2381	valuables	2381	(item/equipamento)	(item/equipment)	sistema		僧侶レディアントを入手した		
+valuables#2382	valuables	2382	(item/equipamento)	(item/equipment)	sistema		最大ＴＰ＋２０％　基礎術防御力＋４０％		
+valuables#2383	valuables	2383	(item/equipamento)	(item/equipment)	sistema		マスターモンク		
+valuables#2384	valuables	2384	(item/equipamento)	(item/equipment)	sistema		モンクの光器を得た者の称号		
+valuables#2385	valuables	2385	(item/equipamento)	(item/equipment)	sistema		モンクレディアントを入手した		
+valuables#2386	valuables	2386	(item/equipamento)	(item/equipment)	sistema		基礎物理防御力＋２０％　ガード強化＋４		
+valuables#2387	valuables	2387	(item/equipamento)	(item/equipment)	sistema		マスター海賊		
+valuables#2388	valuables	2388	(item/equipamento)	(item/equipment)	sistema		海賊の光器を得た者の称号		
+valuables#2389	valuables	2389	(item/equipamento)	(item/equipment)	sistema		海賊レディアントを入手した		
+valuables#2390	valuables	2390	(item/equipamento)	(item/equipment)	sistema		リザルトＴＰ回復＋１０％　敵撃破時にＴＰ３％回復		
+valuables#2391	valuables	2391	(item/equipamento)	(item/equipment)	sistema		マスター盗賊		
+valuables#2392	valuables	2392	(item/equipamento)	(item/equipment)	sistema		盗賊の光器を得た者の称号		
+valuables#2393	valuables	2393	(item/equipamento)	(item/equipment)	sistema		盗賊レディアントを入手した		
+valuables#2394	valuables	2394	(item/equipamento)	(item/equipment)	sistema		基礎物理攻撃力−４０％　基礎敏捷値＋３００		
+valuables#2395	valuables	2395	(item/equipamento)	(item/equipment)	sistema		マスター狩人		
+valuables#2396	valuables	2396	(item/equipamento)	(item/equipment)	sistema		狩人の光器を得た者の称号		
+valuables#2397	valuables	2397	(item/equipamento)	(item/equipment)	sistema		狩人レディアントを入手した		
+valuables#2398	valuables	2398	(item/equipamento)	(item/equipment)	sistema		基礎敏捷値＋２００　敵からのターゲット頻度−		
+valuables#2399	valuables	2399	(item/equipamento)	(item/equipment)	sistema		マスター魔術師		
+valuables#2400	valuables	2400	(item/equipamento)	(item/equipment)	sistema		魔術師の光器を得た者の称号		
+valuables#2401	valuables	2401	(item/equipamento)	(item/equipment)	sistema		魔術師レディアントを入手した		
+valuables#2402	valuables	2402	(item/equipamento)	(item/equipment)	sistema		基礎術攻撃力＋５０％　基礎物理防御力−９０％		
+valuables#2403	valuables	2403	(item/equipamento)	(item/equipment)	sistema		マスタービショップ		
+valuables#2404	valuables	2404	(item/equipamento)	(item/equipment)	sistema		ビショップの光器を得た者の称号		
+valuables#2405	valuables	2405	(item/equipamento)	(item/equipment)	sistema		ビショップレディアントを入手した		
+valuables#2406	valuables	2406	(item/equipamento)	(item/equipment)	sistema		基礎敏捷値−１００　詠唱時間−２０％		
+valuables#2407	valuables	2407	(item/equipamento)	(item/equipment)	sistema		マスター忍者		
+valuables#2408	valuables	2408	(item/equipamento)	(item/equipment)	sistema		忍者の光器を得た者の称号		
+valuables#2409	valuables	2409	(item/equipamento)	(item/equipment)	sistema		忍者レディアントを入手した		
+valuables#2410	valuables	2410	(item/equipamento)	(item/equipment)	sistema		基礎物理防御力−４０％　敵からのターゲット頻度− −		
+valuables#2411	valuables	2411	(item/equipamento)	(item/equipment)	sistema		マスターガンマン		
+valuables#2412	valuables	2412	(item/equipamento)	(item/equipment)	sistema		ガンマンの光器を得た者の称号		
+valuables#2413	valuables	2413	(item/equipamento)	(item/equipment)	sistema		ガンマンレディアントを入手した		
+valuables#2414	valuables	2414	(item/equipamento)	(item/equipment)	sistema		基礎術防御力−４０％　敵からのターゲット頻度− −		
+valuables#2415	valuables	2415	(item/equipamento)	(item/equipment)	sistema		マスター魔法剣士		
+valuables#2416	valuables	2416	(item/equipamento)	(item/equipment)	sistema		魔法剣士の光器を得た者の称号		
+valuables#2417	valuables	2417	(item/equipamento)	(item/equipment)	sistema		魔法剣士レディアントを入手した		
+valuables#2418	valuables	2418	(item/equipamento)	(item/equipment)	sistema		最大ＴＰ−６０％　ＴＰ消費量−６０％		
+valuables#2419	valuables	2419	(item/equipamento)	(item/equipment)	sistema		マスター双剣士		
+valuables#2420	valuables	2420	(item/equipamento)	(item/equipment)	sistema		双剣士の光器を得た者の称号		
+valuables#2421	valuables	2421	(item/equipamento)	(item/equipment)	sistema		双剣士レディアントを入手した		
+valuables#2422	valuables	2422	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ−２０％　仰け反り耐性＋１		
+valuables#2423	valuables	2423	(item/equipamento)	(item/equipment)	sistema		ルミナシア分隊		
+valuables#2424	valuables	2424	(item/equipamento)	(item/equipment)	sistema		知名度レベル１のギルドが得る称号		
+valuables#2425	valuables	2425	(item/equipamento)	(item/equipment)	sistema		全メンバーの合計レベルが３００を超えた		
+valuables#2426	valuables	2426	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ＋２％		
+valuables#2427	valuables	2427	(item/equipamento)	(item/equipment)	sistema		ルミナシア小隊		
+valuables#2428	valuables	2428	(item/equipamento)	(item/equipment)	sistema		知名度レベル２のギルドが得る称号		
+valuables#2429	valuables	2429	(item/equipamento)	(item/equipment)	sistema		全メンバーの合計レベルが４５０を超えた		
+valuables#2430	valuables	2430	(item/equipamento)	(item/equipment)	sistema		最大ＴＰ＋３％		
+valuables#2431	valuables	2431	(item/equipamento)	(item/equipment)	sistema		ルミナシア中隊		
+valuables#2432	valuables	2432	(item/equipamento)	(item/equipment)	sistema		知名度レベル３のギルドが得る称号		
+valuables#2433	valuables	2433	(item/equipamento)	(item/equipment)	sistema		全メンバーの合計レベルが７００を超えた		
+valuables#2434	valuables	2434	(item/equipamento)	(item/equipment)	sistema		基礎敏捷値＋８０		
+valuables#2435	valuables	2435	(item/equipamento)	(item/equipment)	sistema		ルミナシア大隊		
+valuables#2436	valuables	2436	(item/equipamento)	(item/equipment)	sistema		知名度レベル４のギルドが得る称号		
+valuables#2437	valuables	2437	(item/equipamento)	(item/equipment)	sistema		全メンバーの合計レベルが１０００を超えた		
+valuables#2438	valuables	2438	(item/equipamento)	(item/equipment)	sistema		基礎物理攻撃力＋５％　基礎物理防御力＋５％		
+valuables#2439	valuables	2439	(item/equipamento)	(item/equipment)	sistema		ルミナシア連隊		
+valuables#2440	valuables	2440	(item/equipamento)	(item/equipment)	sistema		知名度レベル５のギルドが得る称号		
+valuables#2441	valuables	2441	(item/equipamento)	(item/equipment)	sistema		全メンバーの合計レベルが１４００を超えた		
+valuables#2442	valuables	2442	(item/equipamento)	(item/equipment)	sistema		基礎術攻撃力＋１０％　基礎術防御力＋１０％		
+valuables#2443	valuables	2443	(item/equipamento)	(item/equipment)	sistema		ルミナシア旅団		
+valuables#2444	valuables	2444	(item/equipamento)	(item/equipment)	sistema		知名度レベル６のギルドが得る称号		
+valuables#2445	valuables	2445	(item/equipamento)	(item/equipment)	sistema		全メンバーの合計レベルが２０００を超えた		
+valuables#2446	valuables	2446	(item/equipamento)	(item/equipment)	sistema		基礎物理攻撃力＋１５％　基礎術攻撃力＋１５％		
+valuables#2447	valuables	2447	(item/equipamento)	(item/equipment)	sistema		ルミナシア師団		
+valuables#2448	valuables	2448	(item/equipamento)	(item/equipment)	sistema		知名度レベル７のギルドが得る称号		
+valuables#2449	valuables	2449	(item/equipamento)	(item/equipment)	sistema		全メンバーの合計レベルが３０００を超えた		
+valuables#2450	valuables	2450	(item/equipamento)	(item/equipment)	sistema		基礎物理防御力＋２０％　基礎術防御力＋２０％		
+valuables#2451	valuables	2451	(item/equipamento)	(item/equipment)	sistema		ルミナシア軍団		
+valuables#2452	valuables	2452	(item/equipamento)	(item/equipment)	sistema		知名度レベル８のギルドが得る称号		
+valuables#2453	valuables	2453	(item/equipamento)	(item/equipment)	sistema		全メンバーの合計レベルが４５００を超えた		
+valuables#2454	valuables	2454	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ＋１０％　最大ＴＰ＋１０％　基礎敏捷値−２０		
+valuables#2455	valuables	2455	(item/equipamento)	(item/equipment)	sistema		ルミナシア軍		
+valuables#2456	valuables	2456	(item/equipamento)	(item/equipment)	sistema		知名度レベル９のギルドが得る称号		
+valuables#2457	valuables	2457	(item/equipamento)	(item/equipment)	sistema		全メンバーの合計レベルが７０００を超えた		
+valuables#2458	valuables	2458	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ−１０％　最大ＴＰ−１０％　獲得経験値＋１００％		
+valuables#2459	valuables	2459	(item/equipamento)	(item/equipment)	sistema		ルミナシア方面軍		
+valuables#2460	valuables	2460	(item/equipamento)	(item/equipment)	sistema		知名度レベル１０のギルドが得る称号		
+valuables#2461	valuables	2461	(item/equipamento)	(item/equipment)	sistema		全メンバーの合計レベルが１００００を超えた		
+valuables#2462	valuables	2462	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ−３０％　最大ＴＰ−３０％　獲得経験値＋２００％		
+valuables#2463	valuables	2463	(item/equipamento)	(item/equipment)	sistema		ルミナシア総軍		
+valuables#2464	valuables	2464	(item/equipamento)	(item/equipment)	sistema		もはや向かう所敵なしのギルドが得る称号		
+valuables#2465	valuables	2465	(item/equipamento)	(item/equipment)	sistema		全メンバーの合計レベルが１４０００を超えた		
+valuables#2466	valuables	2466	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ−７０％　最大ＴＰ −７０％　獲得経験値＋４００％		
+valuables#2467	valuables	2467	(item/equipamento)	(item/equipment)	sistema		挑戦者		
+valuables#2468	valuables	2468	(item/equipamento)	(item/equipment)	sistema		闘技場デビューを果たした者の称号		
+valuables#2469	valuables	2469	(item/equipamento)	(item/equipment)	sistema		闘技場ミッションに初勝利した		
+valuables#2470	valuables	2470	(item/equipamento)	(item/equipment)	sistema		獲得ガルド＋４％		
+valuables#2471	valuables	2471	(item/equipamento)	(item/equipment)	sistema		ホワイトデビル		
+valuables#2472	valuables	2472	(item/equipamento)	(item/equipment)	sistema		闘技場の支配人に勝利した者の称号		
+valuables#2473	valuables	2473	(item/equipamento)	(item/equipment)	sistema		闘技場の白き悪魔に勝利した		
+valuables#2474	valuables	2474	(item/equipamento)	(item/equipment)	sistema		チャンピオン		
+valuables#2475	valuables	2475	(item/equipamento)	(item/equipment)	sistema		闘技場の覇者のみの称号		
+valuables#2476	valuables	2476	(item/equipamento)	(item/equipment)	sistema		闘技場の全てのミッションをクリアした		
+valuables#2477	valuables	2477	(item/equipamento)	(item/equipment)	sistema		基礎物理防御力＆基礎術防御力−４０％　仰け反り耐性＋２		
+valuables#2478	valuables	2478	(item/equipamento)	(item/equipment)	sistema		時空剣士		
+valuables#2479	valuables	2479	(item/equipamento)	(item/equipment)	sistema		ダオスに勝利した者の称号		
+valuables#2480	valuables	2480	(item/equipamento)	(item/equipment)	sistema		追憶の坑道で、ダオスを倒した		
+valuables#2481	valuables	2481	(item/equipamento)	(item/equipment)	sistema		最大ＴＰ−４０％　基礎物理攻撃力＆基礎術攻撃力＋５０％		
+valuables#2482	valuables	2482	(item/equipamento)	(item/equipment)	sistema		バルバトラー		
+valuables#2483	valuables	2483	(item/equipamento)	(item/equipment)	sistema		バルバトスと正面勝負をした者の称号		
+valuables#2484	valuables	2484	(item/equipamento)	(item/equipment)	sistema		アイテムを使わずにバルバトスを倒した		
+valuables#2485	valuables	2485	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ−４０％　基礎物理防御力＆基礎術防御力＋５０％		
+valuables#2486	valuables	2486	(item/equipamento)	(item/equipment)	sistema		世界樹の覇者		
+valuables#2487	valuables	2487	(item/equipamento)	(item/equipment)	sistema		世界の頂点に座する者の称号		
+valuables#2488	valuables	2488	(item/equipamento)	(item/equipment)	sistema		追憶の坑道で、ユグドラシルを倒した		
+valuables#2489	valuables	2489	(item/equipamento)	(item/equipment)	sistema		レア獲得増＋２０　敵からのアイテム獲得＋１０		
+valuables#2490	valuables	2490	(item/equipamento)	(item/equipment)	sistema		ひよっこ冒険者		
+valuables#2491	valuables	2491	(item/equipamento)	(item/equipment)	sistema		駆け出しの冒険者が得る称号		
+valuables#2492	valuables	2492	(item/equipamento)	(item/equipment)	sistema		プレイ時間が１０時間を突破した		
+valuables#2493	valuables	2493	(item/equipamento)	(item/equipment)	sistema		獲得経験値＋５％		
+valuables#2494	valuables	2494	(item/equipamento)	(item/equipment)	sistema		ベテラン冒険者		
+valuables#2495	valuables	2495	(item/equipamento)	(item/equipment)	sistema		経験を積んだ冒険者が得る称号		
+valuables#2496	valuables	2496	(item/equipamento)	(item/equipment)	sistema		プレイ時間が１００時間を突破した		
+valuables#2497	valuables	2497	(item/equipamento)	(item/equipment)	sistema		獲得経験値＋２０％		
+valuables#2498	valuables	2498	(item/equipamento)	(item/equipment)	sistema		限界を超えた冒険者		
+valuables#2499	valuables	2499	(item/equipamento)	(item/equipment)	sistema		冒険者として生きていく者が得る称号		
+valuables#2500	valuables	2500	(item/equipamento)	(item/equipment)	sistema		プレイ時間が２００時間を突破した		
+valuables#2501	valuables	2501	(item/equipamento)	(item/equipment)	sistema		獲得経験値＋５０％		
+valuables#2502	valuables	2502	(item/equipamento)	(item/equipment)	sistema		マスターマイソロジー		
+valuables#2503	valuables	2503	(item/equipamento)	(item/equipment)	sistema		全ての称号を得た者の称号		
+valuables#2504	valuables	2504	(item/equipamento)	(item/equipment)	sistema		全ての称号を獲得した		
+valuables#2505	valuables	2505	(item/equipamento)	(item/equipment)	sistema		最大ＨＰ−８０％　基礎物理攻撃力＆基礎術攻撃力＋９０％		

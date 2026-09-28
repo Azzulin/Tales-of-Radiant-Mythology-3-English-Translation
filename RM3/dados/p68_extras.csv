@@ -1,0 +1,995 @@
+bloco,va_ponteiro,va_string,bytes_jp,traducao,original,arena_ini,arena_fim
+bgm,0x08B592F8,0x08B57030,50,(verbatim),"テイルズ オブ レジェンディア
+通常戦闘 編曲：椎名豪",,
+bgm,0x08B59300,0x08B57064,10,(verbatim),bgm017.at3,,
+bgm,0x08B59308,0x08B57080,50,(verbatim),"テイルズ オブ レジェンディア
+中ボス戦 編曲：椎名豪",,
+bgm,0x08B59310,0x08B570B4,10,(verbatim),bgm018.at3,,
+bgm,0x08B59314,0x08B570C0,22,(verbatim),FIGHTING OF THE SPIRIT,,
+bgm,0x08B59318,0x08B570D8,33,(verbatim),"テイルズ オブ ファンタジア
+精霊戦",,
+bgm,0x08B59320,0x08B570FC,10,(verbatim),bgm019.at3,,
+bgm,0x08B59324,0x08B57108,21,(verbatim),OVERCOME DIFFICULTIES,,
+bgm,0x08B59328,0x08B57120,35,(verbatim),"テイルズ オブ ファンタジア
+中ボス戦",,
+bgm,0x08B59330,0x08B57144,10,(verbatim),bgm020.at3,,
+bgm,0x08B59334,0x08B57150,17,(verbatim),TAKE UP THE CROSS,,
+bgm,0x08B59338,0x08B57164,35,(verbatim),"テイルズ オブ ファンタジア
+通常戦闘",,
+bgm,0x08B59340,0x08B57188,10,(verbatim),bgm021.at3,,
+bgm,0x08B59344,0x08B57194,19,(verbatim),Battle organization,,
+bgm,0x08B59348,0x08B571A8,37,(verbatim),"テイルズ オブ リバース
+第１部通常戦闘",,
+bgm,0x08B59350,0x08B571D0,10,(verbatim),bgm022.at3,,
+bgm,0x08B59354,0x08B571DC,8,(verbatim),Dogfight,,
+bgm,0x08B59358,0x08B571E8,37,(verbatim),"テイルズ オブ リバース
+第２部通常戦闘",,
+bgm,0x08B59360,0x08B57210,10,(verbatim),bgm023.at3,,
+bgm,0x08B59364,0x08B5721C,15,(verbatim),The die is cast,,
+bgm,0x08B59368,0x08B5722C,43,(verbatim),"テイルズ オブ リバース
+ユリスの領域通常戦闘",,
+bgm,0x08B59370,0x08B57258,10,(verbatim),bgm024.at3,,
+bgm,0x08B59374,0x08B57264,14,(verbatim),Beat the angel,,
+bgm,0x08B59378,0x08B57274,33,(verbatim),"テイルズ オブ シンフォニア
+天使戦",,
+bgm,0x08B59380,0x08B57298,10,(verbatim),bgm025.at3,,
+bgm,0x08B59384,0x08B572A4,8,(verbatim),Fatalize,,
+bgm,0x08B59388,0x08B572B0,37,(verbatim),"テイルズ オブ シンフォニア
+対人ボス戦",,
+bgm,0x08B59390,0x08B572D8,10,(verbatim),bgm026.at3,,
+bgm,0x08B59394,0x08B572E4,10,(verbatim),Full force,,
+bgm,0x08B59398,0x08B572F0,49,(verbatim),"テイルズ オブ シンフォニア
+シルヴァラント通常戦闘",,
+bgm,0x08B593A0,0x08B57324,10,(verbatim),bgm027.at3,,
+bgm,0x08B593A4,0x08B57330,21,(verbatim),Like a glint of light,,
+bgm,0x08B593A8,0x08B57348,43,(verbatim),"テイルズ オブ シンフォニア
+テセアラ通常戦闘",,
+bgm,0x08B593B0,0x08B57374,10,(verbatim),bgm028.at3,,
+bgm,0x08B593B4,0x08B57380,20,(verbatim),The end of a thought,,
+bgm,0x08B593B8,0x08B57398,38,(verbatim),"テイルズ オブ シンフォニア
+クラトス戦 ",,
+bgm,0x08B593C0,0x08B573C0,10,(verbatim),bgm029.at3,,
+bgm,0x08B593C8,0x08B573D4,67,(verbatim),"テイルズ オブ ザ テンペスト
+通常戦闘 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B593D0,0x08B57418,10,(verbatim),bgm030.at3,,
+bgm,0x08B593D8,0x08B57430,66,(verbatim),"テイルズ オブ ヴェスペリア
+通常戦闘 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B593E0,0x08B57474,10,(verbatim),bgm031.at3,,
+bgm,0x08B593E8,0x08B57494,48,(verbatim),"テイルズ オブ イノセンス
+通常戦闘 編曲：中村和宏",,
+bgm,0x08B593F0,0x08B574C8,10,(verbatim),bgm032.at3,,
+bgm,0x08B593F4,0x08B574D4,16,(verbatim),DONA NOBIS PACEM,,
+bgm,0x08B593F8,0x08B574E8,72,(verbatim),"テイルズ オブ デスティニー２
+最終現代戦闘 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59400,0x08B57534,10,(verbatim),bgm033.at3,,
+bgm,0x08B59408,0x08B57554,46,(verbatim),"テイルズ オブ イノセンス
+ボス戦 編曲：中村和宏",,
+bgm,0x08B59410,0x08B57584,10,(verbatim),bgm034.at3,,
+bgm,0x08B59414,0x08B57590,9,(verbatim),The trial,,
+bgm,0x08B59418,0x08B5759C,29,(verbatim),"テイルズ オブ リバース
+聖獣戦",,
+bgm,0x08B59420,0x08B575BC,10,(verbatim),bgm035.at3,,
+bgm,0x08B59428,0x08B575D4,62,(verbatim),"テイルズ オブ レジェンディア
+メインシナリオボス戦 作曲：椎名豪",,
+bgm,0x08B59430,0x08B57614,10,(verbatim),bgm036.at3,,
+bgm,0x08B59434,0x08B57620,22,(verbatim),It can waver and fight,,
+bgm,0x08B59438,0x08B57638,72,(verbatim),"テイルズ オブ シンフォニア
+ユグドラシル戦 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59440,0x08B57684,10,(verbatim),bgm037.at3,,
+bgm,0x08B59444,0x08B57690,24,(verbatim),Scutum - decisive battle,,
+bgm,0x08B59448,0x08B576AC,60,(verbatim),"テイルズ オブ リバース
+四星戦 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59450,0x08B576EC,10,(verbatim),bgm038.at3,,
+bgm,0x08B59454,0x08B576F8,23,(verbatim),At the time of farewell,,
+bgm,0x08B59458,0x08B57710,63,(verbatim),"テイルズ オブ ジ アビス
+ヴァン戦 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B59460,0x08B57750,10,(verbatim),bgm039.at3,,
+bgm,0x08B59464,0x08B5775C,17,(verbatim),Everlasting fight,,
+bgm,0x08B59470,0x08B57770,10,(verbatim),bgm040.at3,,
+bgm,0x08B59474,0x08B5777C,19,(verbatim),The more that I try,,
+bgm,0x08B59478,0x08B57790,85,(verbatim),"テイルズ オブ シンフォニア -ラタトスクの騎士-
+通常戦闘 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B59480,0x08B577E8,10,(verbatim),bgm041.at3,,
+bgm,0x08B59484,0x08B577F4,7,(verbatim),I'll go,,
+bgm,0x08B59488,0x08B577FC,85,(verbatim),"テイルズ オブ シンフォニア -ラタトスクの騎士-
+最終戦闘 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B59490,0x08B57854,10,(verbatim),bgm042.at3,,
+bgm,0x08B59494,0x08B57860,25,(verbatim),The wilderness of sadness,,
+bgm,0x08B59498,0x08B5787C,87,(verbatim),"テイルズ オブ シンフォニア -ラタトスクの騎士-
+リヒター戦 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B594A0,0x08B578D4,10,(verbatim),bgm043.at3,,
+bgm,0x08B594A8,0x08B578F0,66,(verbatim),"テイルズ オブ ヴェスペリア
+フレン戦 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B594B0,0x08B57934,10,(verbatim),bgm044.at3,,
+bgm,0x08B594B8,0x08B57954,66,(verbatim),"テイルズ オブ ヴェスペリア
+中盤戦闘 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B594C0,0x08B57998,10,(verbatim),bgm045.at3,,
+bgm,0x08B594C8,0x08B579B0,66,(verbatim),"テイルズ オブ ヴェスペリア
+終盤戦闘 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B594D0,0x08B579F4,10,(verbatim),bgm046.at3,,
+bgm,0x08B594D8,0x08B57A14,78,(verbatim),"テイルズ オブ ヴェスペリア
+ギガントモンスター戦 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B594E0,0x08B57A64,10,(verbatim),bgm047.at3,,
+bgm,0x08B594E8,0x08B57A84,60,(verbatim),"テイルズ オブ ハーツ
+通常戦闘 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B594F0,0x08B57AC4,10,(verbatim),bgm048.at3,,
+bgm,0x08B594F4,0x08B57AD0,20,(verbatim),発動、ソーマリンク!!,,
+bgm,0x08B594F8,0x08B57AE8,64,(verbatim),"テイルズ オブ ハーツ
+中盤通常戦闘 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59500,0x08B57B2C,10,(verbatim),bgm049.at3,,
+bgm,0x08B59508,0x08B57B4C,64,(verbatim),"テイルズ オブ ハーツ
+終盤通常戦闘 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59510,0x08B57B90,10,(verbatim),bgm050.at3,,
+bgm,0x08B59518,0x08B57BB0,74,(verbatim),"テイルズ オブ グレイセス
+ウィンドル国内戦闘 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B59520,0x08B57BFC,10,(verbatim),bgm051.at3,,
+bgm,0x08B59528,0x08B57C14,76,(verbatim),"テイルズ オブ グレイセス
+ラストダンジョン戦闘 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B59530,0x08B57C64,10,(verbatim),bgm052.at3,,
+bgm,0x08B59538,0x08B57C84,64,(verbatim),"テイルズ オブ グレイセス
+中ボス戦 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B59540,0x08B57CC8,10,(verbatim),bgm053.at3,,
+bgm,0x08B59544,0x08B57CD4,14,(verbatim),Radiant Battle,,
+bgm,0x08B59548,0x08B57CE4,66,(verbatim),"レディアント マイソロジー２＆３ 
+レディアント戦 作曲／編曲：桜庭統",,
+bgm,0x08B59550,0x08B57D28,10,(verbatim),bgm054.at3,,
+bgm,0x08B59554,0x08B57D34,17,(verbatim),Heavy Destruction,,
+bgm,0x08B59558,0x08B57D48,51,(verbatim),"レディアント マイソロジー２
+ゲーデ戦 編曲：中村和宏",,
+bgm,0x08B59560,0x08B57D7C,10,(verbatim),bgm055.at3,,
+bgm,0x08B59564,0x08B57D88,9,(verbatim),Widdersin,,
+bgm,0x08B59568,0x08B57D94,40,(verbatim),"レディアント マイソロジー
+ウィダーシン戦",,
+bgm,0x08B59570,0x08B57DC0,10,(verbatim),bgm056.at3,,
+bgm,0x08B59574,0x08B57DCC,10,(verbatim),Sad memory,,
+bgm,0x08B59578,0x08B57DD8,36,(verbatim),"レディアント マイソロジー
+カノンノ戦",,
+bgm,0x08B59580,0x08B57E00,10,(verbatim),bgm057.at3,,
+bgm,0x08B59584,0x08B57E0C,16,(verbatim),The sword sparks,,
+bgm,0x08B59588,0x08B57E20,55,(verbatim),"レディアント マイソロジー３
+通常戦闘 作曲／編曲：桜庭統",,
+bgm,0x08B59590,0x08B57E58,10,(verbatim),bgm058.at3,,
+bgm,0x08B59594,0x08B57E64,15,(verbatim),Fight the tight,,
+bgm,0x08B59598,0x08B57E74,61,(verbatim),"レディアント マイソロジー３
+ストーリー戦闘 作曲／編曲：桜庭統",,
+bgm,0x08B595A0,0x08B57EB4,10,(verbatim),bgm059.at3,,
+bgm,0x08B595A4,0x08B57EC0,12,(verbatim),Tide on edge,,
+bgm,0x08B595A8,0x08B57ED0,55,(verbatim),"レディアント マイソロジー３
+中ボス戦 作曲／編曲：桜庭統",,
+bgm,0x08B595B0,0x08B57F08,10,(verbatim),bgm060.at3,,
+bgm,0x08B595B4,0x08B57F14,11,(verbatim),World rules,,
+bgm,0x08B595B8,0x08B57F20,57,(verbatim),"レディアント マイソロジー３
+ラザリス戦 作曲／編曲：桜庭統",,
+bgm,0x08B595C0,0x08B57F5C,10,(verbatim),bgm061.at3,,
+bgm,0x08B595C4,0x08B57F68,19,(verbatim),Creation from zilch,,
+bgm,0x08B595C8,0x08B57F7C,63,(verbatim),"レディアント マイソロジー３
+カオスラザリス戦 作曲／編曲：桜庭統",,
+bgm,0x08B595D0,0x08B57FBC,10,(verbatim),bgm062.at3,,
+bgm,0x08B595D4,0x08B57FC8,9,(verbatim),MT FARLOS,,
+bgm,0x08B595D8,0x08B57FD4,70,(verbatim),"テイルズ オブ エターニア
+霊峰ファロース 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B595E0,0x08B5801C,10,(verbatim),bgm063.at3,,
+bgm,0x08B595E8,0x08B5803C,58,(verbatim),"テイルズ オブ レジェンディア
+地のモニュメント 作曲：椎名豪",,
+bgm,0x08B595F0,0x08B58078,10,(verbatim),bgm064.at3,,
+bgm,0x08B595F4,0x08B58084,14,(verbatim),MORLIA GALLERY,,
+bgm,0x08B595F8,0x08B58094,70,(verbatim),"テイルズ オブ ファンタジア
+モーリア坑道 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59600,0x08B580DC,10,(verbatim),bgm065.at3,,
+bgm,0x08B59604,0x08B580E8,19,(verbatim),Underground passage,,
+bgm,0x08B59608,0x08B580FC,74,(verbatim),"テイルズ オブ シンフォニア
+トイズバレー鉱山 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59610,0x08B58148,10,(verbatim),bgm066.at3,,
+bgm,0x08B59614,0x08B58154,12,(verbatim),EFREET GORGE,,
+bgm,0x08B59618,0x08B58164,66,(verbatim),"テイルズ オブ エターニア
+火晶霊の谷 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59620,0x08B581A8,10,(verbatim),bgm067.at3,,
+bgm,0x08B59624,0x08B581B4,14,(verbatim),Zaleho Volcano,,
+bgm,0x08B59628,0x08B581C4,67,(verbatim),"テイルズ オブ ジ アビス
+ザレッホ火山 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B59630,0x08B58208,10,(verbatim),bgm068.at3,,
+bgm,0x08B59634,0x08B58214,10,(verbatim),MT CELSIUS,,
+bgm,0x08B59638,0x08B58220,66,(verbatim),"テイルズ オブ エターニア
+氷晶霊の山 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59640,0x08B58264,10,(verbatim),bgm069.at3,,
+bgm,0x08B59644,0x08B58270,11,(verbatim),Biting Cold,,
+bgm,0x08B59648,0x08B5827C,66,(verbatim),"テイルズ オブ ファンタジア
+氷の洞窟 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59650,0x08B582C0,10,(verbatim),bgm070.at3,,
+bgm,0x08B59658,0x08B582DC,50,(verbatim),"テイルズ オブ レジェンディア
+水晶の森 作曲：椎名豪",,
+bgm,0x08B59660,0x08B58310,10,(verbatim),bgm071.at3,,
+bgm,0x08B59664,0x08B5831C,18,(verbatim),WHISPER OF SILENCE,,
+bgm,0x08B59668,0x08B58330,70,(verbatim),"テイルズ オブ デスティニー２
+ラグナ遺跡 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59670,0x08B58378,10,(verbatim),bgm072.at3,,
+bgm,0x08B59674,0x08B58384,22,(verbatim),Aramis Flooded Caverns,,
+bgm,0x08B59678,0x08B5839C,69,(verbatim),"テイルズ オブ ジ アビス
+アラミス湧水洞 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B59680,0x08B583E4,10,(verbatim),bgm073.at3,,
+bgm,0x08B59684,0x08B583F0,15,(verbatim),Underground Way,,
+bgm,0x08B59688,0x08B58400,66,(verbatim),"テイルズ オブ ファンタジア
+地下水路 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59690,0x08B58444,10,(verbatim),bgm074.at3,,
+bgm,0x08B59698,0x08B58464,78,(verbatim),"テイルズ オブ ヴェスペリア
+ケーブ・モック大森林 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B596A0,0x08B584B4,10,(verbatim),bgm075.at3,,
+bgm,0x08B596A4,0x08B584C0,18,(verbatim),In a shadowy woods,,
+bgm,0x08B596A8,0x08B584D4,91,(verbatim),"テイルズ オブ シンフォニア -ラタトスクの騎士-
+ガオラキアの森 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B596B0,0x08B58530,10,(verbatim),bgm076.at3,,
+bgm,0x08B596B4,0x08B5853C,14,(verbatim),ANCIENT RELICS,,
+bgm,0x08B596B8,0x08B5854C,78,(verbatim),"テイルズ オブ デスティニー２
+ストレイライズ遺跡 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B596C0,0x08B5859C,10,(verbatim),bgm077.at3,,
+bgm,0x08B596C4,0x08B585A8,9,(verbatim),Zao Ruins,,
+bgm,0x08B596C8,0x08B585B4,63,(verbatim),"テイルズ オブ ジ アビス
+ザオ遺跡 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B596D0,0x08B585F4,10,(verbatim),bgm078.at3,,
+bgm,0x08B596D8,0x08B5860C,46,(verbatim),"テイルズ オブ イノセンス
+天空城 編曲：中村和宏",,
+bgm,0x08B596E0,0x08B5863C,10,(verbatim),bgm079.at3,,
+bgm,0x08B596E4,0x08B58648,4,(verbatim),Will,,
+bgm,0x08B596E8,0x08B58650,66,(verbatim),"テイルズ オブ リバース
+ユリスの領域 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B596F0,0x08B58694,10,(verbatim),bgm080.at3,,
+bgm,0x08B596F8,0x08B586B0,62,(verbatim),"テイルズ オブ ハーツ
+落命の荒野 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59700,0x08B586F0,10,(verbatim),bgm081.at3,,
+bgm,0x08B59704,0x08B586FC,10,(verbatim),HEAT RIVER,,
+bgm,0x08B59708,0x08B58708,72,(verbatim),"テイルズ オブ デスティニー２
+ヒートリバー 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59710,0x08B58754,10,(verbatim),bgm082.at3,,
+bgm,0x08B59714,0x08B58760,12,(verbatim),Vital garden,,
+bgm,0x08B59718,0x08B58770,65,(verbatim),"レディアント マイソロジー３
+エラン・ヴィタール 作曲／編曲：椎名豪",,
+bgm,0x08B59720,0x08B587B4,10,(verbatim),bgm083.at3,,
+bgm,0x08B59724,0x08B587C0,23,(verbatim),MORLIA GALLERY 〜追憶〜,,
+bgm,0x08B59728,0x08B587D8,82,(verbatim),"原典：テイルズ オブ ファンタジア
+「MORLIA GALLERY」 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59730,0x08B5882C,10,(verbatim),bgm084.at3,,
+bgm,0x08B59734,0x08B58838,6,(verbatim),AIBIRD,,
+bgm,0x08B59738,0x08B58840,72,(verbatim),"テイルズ オブ エターニア
+アイバード飛行中 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59740,0x08B5888C,10,(verbatim),bgm085.at3,,
+bgm,0x08B59744,0x08B58898,23,(verbatim),…have a good rest time,,
+bgm,0x08B59748,0x08B588B0,48,(verbatim),"テイルズ オブ イノセンス
+ガルポス 編曲：中村和宏",,
+bgm,0x08B59750,0x08B588E4,10,(verbatim),bgm086.at3,,
+bgm,0x08B59754,0x08B588F0,15,(verbatim),VAN ELTIA THEME,,
+bgm,0x08B59758,0x08B58900,80,(verbatim),"テイルズ オブ エターニア
+バンエルティア号のテーマ 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59760,0x08B58954,10,(verbatim),bgm087.at3,,
+bgm,0x08B59768,0x08B58978,60,(verbatim),"テイルズ オブ レジェンディア
+灯台の街ウェルテス 作曲：椎名豪",,
+bgm,0x08B59770,0x08B589B8,10,(verbatim),bgm088.at3,,
+bgm,0x08B59778,0x08B589D4,56,(verbatim),"テイルズ オブ レジェンディア
+モフモフ族の村 作曲：椎名豪",,
+bgm,0x08B59780,0x08B58A10,10,(verbatim),bgm089.at3,,
+bgm,0x08B59784,0x08B58A1C,8,(verbatim),BARBATOS,,
+bgm,0x08B59788,0x08B58A28,45,(verbatim),"テイルズ オブ デスティニー２
+バルバトステーマ",,
+bgm,0x08B59790,0x08B58A58,10,(verbatim),bgm090.at3,,
+bgm,0x08B59794,0x08B58A64,5,(verbatim),Arena,,
+bgm,0x08B59798,0x08B58A6C,61,(verbatim),"テイルズ オブ ジ アビス
+闘技場 監修：ナムコ・テイルズスタジオ",,
+bgm,0x08B597A0,0x08B58AAC,10,(verbatim),bgm091.at3,,
+bgm,0x08B597A4,0x08B58AB8,19,(verbatim),LION−FATE REPEATED,,
+bgm,0x08B597A8,0x08B58ACC,80,(verbatim),"テイルズ オブ デスティニー２
+リオン（回想）テーマ 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B597B0,0x08B58B20,10,(verbatim),bgm092.at3,,
+bgm,0x08B597B4,0x08B58B2C,14,(verbatim),Scutum - cruel,,
+bgm,0x08B597B8,0x08B58B3C,64,(verbatim),"テイルズ オブ リバース
+四星テーマ 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B597C0,0x08B58B80,10,(verbatim),bgm093.at3,,
+bgm,0x08B597C8,0x08B58BAC,54,(verbatim),"テイルズ オブ レジェンディア
+ミミーテーマ 作曲：椎名豪",,
+bgm,0x08B597D0,0x08B58BE4,10,(verbatim),bgm094.at3,,
+bgm,0x08B597D8,0x08B58C08,48,(verbatim),"テイルズ オブ イノセンス
+イベント 編曲：中村和宏",,
+bgm,0x08B597E0,0x08B58C3C,10,(verbatim),bgm095.at3,,
+bgm,0x08B597E4,0x08B58C48,5,(verbatim),Mitos,,
+bgm,0x08B597E8,0x08B58C50,70,(verbatim),"テイルズ オブ シンフォニア
+ミトステーマ 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B597F0,0x08B58C98,10,(verbatim),bgm096.at3,,
+bgm,0x08B597F4,0x08B58CA4,15,(verbatim),Spirits whisper,,
+bgm,0x08B597F8,0x08B58CB4,72,(verbatim),"テイルズ オブ シンフォニア
+精霊登場テーマ 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59800,0x08B58D00,10,(verbatim),bgm097.at3,,
+bgm,0x08B59804,0x08B58D0C,12,(verbatim),Resurrection,,
+bgm,0x08B59808,0x08B58D1C,70,(verbatim),"テイルズ オブ ファンタジア
+ダオステーマ 編曲：ナムコ・テイルズスタジオ",,
+bgm,0x08B59810,0x08B58D64,10,(verbatim),bgm098.at3,,
+bgm,0x08B59814,0x08B58D70,22,(verbatim),Radiant Mythology ＃３,,
+bgm,0x08B59818,0x08B58D88,40,(verbatim),"レディアント マイソロジー３
+タイトル画面",,
+bgm,0x08B59820,0x08B58DB4,10,(verbatim),bgm099.at3,,
+bgm,0x08B59824,0x08B58DC0,22,(verbatim),Welcome to the world！,,
+bgm,0x08B59828,0x08B58DD8,54,(verbatim),"レディアント マイソロジー３
+キャラクターメイキング画面",,
+bgm,0x08B59830,0x08B58E10,10,(verbatim),bgm100.at3,,
+bgm,0x08B59834,0x08B58E1C,21,(verbatim),Here come the friends,,
+bgm,0x08B59838,0x08B58E34,48,(verbatim),"レディアント マイソロジー３
+エクストラモード画面",,
+bgm,0x08B59840,0x08B58E68,10,(verbatim),bgm101.at3,,
+bgm,0x08B59844,0x08B58E74,21,(verbatim),THEME OF LAZARIS ＃１,,
+bgm,0x08B59848,0x08B58E8C,44,(verbatim),"レディアント マイソロジー３
+ラザリステーマ１",,
+bgm,0x08B59850,0x08B58EBC,10,(verbatim),bgm102.at3,,
+bgm,0x08B59854,0x08B58EC8,21,(verbatim),THEME OF LAZARIS ＃２,,
+bgm,0x08B59858,0x08B58EE0,44,(verbatim),"レディアント マイソロジー３
+ラザリステーマ２",,
+bgm,0x08B59860,0x08B58F10,10,(verbatim),bgm103.at3,,
+bgm,0x08B59864,0x08B58F1C,16,(verbatim),Tiｎｙ Concierge,,
+bgm,0x08B59868,0x08B58F30,42,(verbatim),"レディアント マイソロジー３
+ロックステーマ",,
+bgm,0x08B59870,0x08B58F5C,10,(verbatim),bgm104.at3,,
+bgm,0x08B59874,0x08B58F68,13,(verbatim),Eerie silence,,
+bgm,0x08B59878,0x08B58F78,36,(verbatim),"レディアント マイソロジー３
+イベント",,
+bgm,0x08B598A8,0x08B58F78,36,(verbatim),"レディアント マイソロジー３
+イベント",,
+bgm,0x08B598B8,0x08B58F78,36,(verbatim),"レディアント マイソロジー３
+イベント",,
+bgm,0x08B598C8,0x08B58F78,36,(verbatim),"レディアント マイソロジー３
+イベント",,
+bgm,0x08B598D8,0x08B58F78,36,(verbatim),"レディアント マイソロジー３
+イベント",,
+bgm,0x08B598E8,0x08B58F78,36,(verbatim),"レディアント マイソロジー３
+イベント",,
+bgm,0x08B598F8,0x08B58F78,36,(verbatim),"レディアント マイソロジー３
+イベント",,
+bgm,0x08B59908,0x08B58F78,36,(verbatim),"レディアント マイソロジー３
+イベント",,
+bgm,0x08B59918,0x08B58F78,36,(verbatim),"レディアント マイソロジー３
+イベント",,
+bgm,0x08B59880,0x08B58FA0,10,(verbatim),bgm105.at3,,
+bgm,0x08B59884,0x08B58FAC,16,(verbatim),THEME OF KANONNO,,
+bgm,0x08B59888,0x08B58FC0,42,(verbatim),"レディアント マイソロジー３
+カノンノテーマ",,
+bgm,0x08B59890,0x08B58FEC,10,(verbatim),bgm106.at3,,
+bgm,0x08B59894,0x08B58FF8,11,(verbatim),Ｈer Origin,,
+bgm,0x08B59898,0x08B59004,52,(verbatim),"レディアント マイソロジー３
+オリジナルカノンノテーマ",,
+bgm,0x08B598A0,0x08B5903C,10,(verbatim),bgm107.at3,,
+bgm,0x08B598A4,0x08B59048,12,(verbatim),Restlessness,,
+bgm,0x08B598B0,0x08B59058,10,(verbatim),bgm108.at3,,
+bgm,0x08B598B4,0x08B59064,13,(verbatim),Shock and awe,,
+bgm,0x08B598C0,0x08B59074,10,(verbatim),bgm109.at3,,
+bgm,0x08B598C4,0x08B59080,13,(verbatim),Peaceful days,,
+bgm,0x08B598D0,0x08B59090,10,(verbatim),bgm110.at3,,
+bgm,0x08B598D4,0x08B5909C,7,(verbatim),Be free,,
+bgm,0x08B598E0,0x08B590A4,10,(verbatim),bgm111.at3,,
+bgm,0x08B598E4,0x08B590B0,10,(verbatim),Melancholy,,
+bgm,0x08B598F0,0x08B590BC,10,(verbatim),bgm112.at3,,
+bgm,0x08B598F4,0x08B590C8,14,(verbatim),End of Despair,,
+bgm,0x08B59900,0x08B590D8,10,(verbatim),bgm113.at3,,
+bgm,0x08B59904,0x08B590E4,7,(verbatim),Tragedy,,
+bgm,0x08B59910,0x08B590EC,10,(verbatim),bgm114.at3,,
+bgm,0x08B59914,0x08B590F8,9,(verbatim),Slapstick,,
+bgm,0x08B59920,0x08B59104,10,(verbatim),bgm115.at3,,
+bgm,0x08B59930,0x08B5912C,10,(verbatim),bgm116.at3,,
+bgm,0x08B59940,0x08B59138,10,(verbatim),bgm117.at3,,
+bgm,0x08B59948,0x08B5914C,97,(verbatim),"レディアント マイソロジー３　エンディングテーマソング
+作詞・作曲：BACK-ON  編曲：JIN  歌：BACK-ON",,
+bgm,0x08B59950,0x08B591B0,10,(verbatim),bgm118.at3,,
+bgm,0x08B59954,0x08B591BC,20,(verbatim),Vital garden - Quiet,,
+bgm,0x08B59960,0x08B591D4,10,(verbatim),bgm119.at3,,
+shield,0x08C636C0,0x08C62100,10,(verbatim),無効値(盾),,
+shield,0x08C636C4,0x08C6210C,0,(verbatim),,,
+shield,0x08C636C8,0x08C6210C,0,(verbatim),,,
+shield,0x08C64AAC,0x08C6210C,0,(verbatim),,,
+shield,0x08C64AB0,0x08C6210C,0,(verbatim),,,
+shield,0x08C68FF8,0x08C6210C,0,(verbatim),,,
+shield,0x08C68FFC,0x08C6210C,0,(verbatim),,,
+shield,0x08C6CD1C,0x08C6210C,0,(verbatim),,,
+shield,0x08C6CD20,0x08C6210C,0,(verbatim),,,
+shield,0x08C6DB00,0x08C6210C,0,(verbatim),,,
+shield,0x08C6DB04,0x08C6210C,0,(verbatim),,,
+shield,0x08C6E798,0x08C6210C,0,(verbatim),,,
+shield,0x08C6E79C,0x08C6210C,0,(verbatim),,,
+questfiltro__s1,0x08D0F260,0x08D0F1C4,10,(verbatim),[指定色１],0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D0F268,0x08D0F1D0,10,(verbatim),[指定色２],0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D0F270,0x08D0F1DC,10,(verbatim),[指定色３],0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D0F278,0x08D0F1E8,10,(verbatim),[指定色４],0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D0F280,0x08D0F1F4,10,(verbatim),[指定色５],0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D0F288,0x08D0F200,12,(verbatim),[指定色戻し],0x08D0E814,0x08D0EEDD
+arena,0x08D184CC,0x08D15060,0,(verbatim),,,
+arena,0x08D1C5A4,0x08D15060,0,(verbatim),,,
+arena,0x08D186C0,0x08D151E0,71,(verbatim),かつて英雄とも言われたこの二人！#そんな彼らに挑む命知らずはいないかい？,,
+arena,0x08D18724,0x08D1523C,75,(verbatim),仲は悪そうだけど剣の腕は息ぴったり！#どこか似た者同士の二人に挑むのは誰だ！,,
+arena,0x08D18788,0x08D1529C,89,(verbatim),元騎士とホンモノの現役騎士が相手だよ！#さー、観客も楽しみにしてるよ。挑戦者はいないかな？,,
+arena,0x08D187EC,0x08D15308,77,(verbatim),何とッ！　とうとうこの闘技場にも王族が！#この二人に勝てる屈強な挑戦者は誰！？,,
+arena,0x08D18850,0x08D15368,99,(verbatim),世界樹の防人を謳うこの二人。今まで挑んだ者は皆倒れる運命に！#この運命を打ち破る新たな挑戦者は誰だ！,,
+arena,0x08D188B4,0x08D153D8,87,(verbatim),可愛いながらも豪快な剣技をごろうじろ！#挑戦者殺到の人気試合だよ！　申し込みはお早めに！,,
+arena,0x08D18918,0x08D15450,107,(verbatim),メチャクチャな奴らが強い挑戦者を相手に暴れたいらしいんだ！#手に負えないから、誰か大人しくさせてくれよ〜！！,,
+arena,0x08D1897C,0x08D154DC,75,(verbatim),我が闘技場で人気のヒーロー達が相手だよ！#勝てばキミも人気者になれるかも！？,,
+arena,0x08D189E0,0x08D15548,77,(verbatim),我が闘技場で人気のビューティ達が相手だよ！#勝てばキミも人気者になれるかも！？,,
+arena,0x08D18A44,0x08D155B0,81,(verbatim),異世界からの参加者だよ！#見た事もない技で観客を沸かせるスゴイ奴さ！　挑んでみる？,,
+arena,0x08D18AA8,0x08D15610,87,(verbatim),異世界からの参加者だよ！#姿はおっかないけど、構って欲しいシャイな彼さ！　誰が挑むかな？,,
+arena,0x08D18B0C,0x08D15678,69,(verbatim),エターナルソードを手に、時空剣士が参戦だ！#さあ、挑戦するのは誰かい？,,
+arena,0x08D18B70,0x08D156CC,66,(verbatim),己の剣を相棒として扱う熱い男が参戦だ！#HOTなバトルで魅せてくれよ！,,
+arena,0x08D18BD4,0x08D15720,69,(verbatim),内なる輝き、極光を秘めし者リッドが参戦だ！#この眩しさにキミは勝てる？,,
+arena,0x08D18C38,0x08D15774,87,(verbatim),英雄志願の少年が、更なる高みを目指して参戦だーい！#彼を成長させてくれる挑戦者は誰だッ？,,
+arena,0x08D18C9C,0x08D157E0,81,(verbatim),二刀流の強さを世に知らしめる為に参戦だ！#その剣技を前に、挑戦者はどう出るのか！？,,
+arena,0x08D18D00,0x08D15840,103,(verbatim),氷の様にクールな男さ！　だけどもハートは誰よりもヒート！#さあ、彼をもっと熱くさせる挑戦者はいないかい？,,
+arena,0x08D18D64,0x08D158B4,81,(verbatim),輝くその手で繰り出されるは拳の舞踏！#めくるめく技に相手はたちまちノックアウトさ！,,
+arena,0x08D18DC8,0x08D15918,97,(verbatim),世間知らずなこの彼は、あのアルバート流の使い手さ！#勝てばこの闘技場でも名を馳せられちゃうかもね！,,
+arena,0x08D18E2C,0x08D15988,83,(verbatim),その身体に流れるは、レイモーンの民の野生の血！#さーぁ、誰が彼をてなづけられるかな？,,
+arena,0x08D18E90,0x08D159EC,99,(verbatim),ナヨっとしてるけど、大剣を持てばその強さは鬼神の如し！#豪快なその闘いっぷりに、君は圧倒されるハズ！,,
+arena,0x08D18EF4,0x08D15A60,83,(verbatim),戦いに赴く時は別の顔！　彼の本当の姿はどっちなの！？#それを暴く挑戦者は一体誰だ！？,,
+arena,0x08D18F58,0x08D15AC4,95,(verbatim),お尋ね者の彼だけど…信じ突き進むは己の正義の道！#さあ、彼の正義とやらにぶつかってみる奴は誰だ！,,
+arena,0x08D18FBC,0x08D15B34,75,(verbatim),好奇心が彼のパワーの源さ！#ガンドコ突き進む彼の好奇心を満たす相手は誰かな？,,
+arena,0x08D19020,0x08D15B8C,71,(verbatim),大切なものを守る為、彼は今日も剣を取る！#現役騎士の彼に挑む者は誰だい？,,
+arena,0x08D19084,0x08D15BE4,84,(verbatim),あの娘は大剣使いのWAR　HEAD！！#彼女のラヴ・ビートを闘技場に響かせてくれるのは誰！？,,
+arena,0x08D190E8,0x08D15C4C,79,(verbatim),お玉とまんぼうを手に、キッチンという戦場からやって来た！#エプロン姿で登場だい！,,
+arena,0x08D1914C,0x08D15CA8,77,(verbatim),我が闘技場で不動のチャンピオンさ！#彼のチャンピオンベルトを剥ぎ取るのは誰！？,,
+arena,0x08D191B0,0x08D15D10,73,(verbatim),彼の通った後は骸しか残らない！#奴の強大な破壊力には誰もかなわないのか！？,,
+arena,0x08D19214,0x08D15D6C,91,(verbatim),チュンチュンよりも速く、キラービーの如く刺す！#闘技場のオーナー・モルモ様がお相手だーい！！,,
+arena,0x08D19278,0x08D15DE0,89,(verbatim),小春日和な笑顔とは裏腹に、繰り出す技は花吹雪！#異世界のディセンダーの力に挑むのは誰だ！！,,
+arena,0x08D192DC,0x08D15E50,105,(verbatim),「ワンダーパン職人流パン術免許皆伝」の称号を持つ#あの娘が参戦だい！！　彼女のパン沙雨を食らってみるかい？,,
+arena,0x08D196C4,0x08D16114,61,(verbatim),イジりイジられ夫婦漫才は最早お家芸！#今日は真剣勝負で参戦だ！,,
+arena,0x08D1978C,0x08D161B0,67,(verbatim),二人の絆は正義の為に！#正義の道を踏みしめて、二人が闘技場に参戦だ！,,
+arena,0x08D19854,0x08D16238,69,(verbatim),守りたいものを守る為に…。#その願いを胸に、強さを求める二人が参戦だ！,,
+arena,0x08D19AAC,0x08D1640C,79,(verbatim),切ない恋に顔で笑って背中で泣いて！#漢コングマンのいいとこ見せたい晴れ舞台だよ！,,
+arena,0x08D19DCC,0x08D16624,57,(verbatim),今日だけは彼女の関節技から逃れて！#剛力な二人が参戦だよ！,,
+arena,0x08D1A46C,0x08D16A64,16,(verbatim),用心棒 兼 保護者,,
+arena,0x08D1AAB0,0x08D16E7C,63,(verbatim),かつては幼馴染だったこの二人、#今はちょっと違う雰囲気で参戦さ！,,
+arena,0x08D1AC40,0x08D16F90,69,(verbatim),兄弟？　いやひょっとして親子？#見た目も腕も息の合った二人が参戦だよ！,,
+arena,0x08D1ACA4,0x08D16FEC,73,(verbatim),香ばしいパンとマーボカレーの匂いを引っ下げて！#オイシイ二人の参戦だーい！,,
+arena,0x08D1AD08,0x08D17050,81,(verbatim),プリティなバトルに翻弄されちゃうかも？#ちょっと変り種の武器を扱う二人が参戦だよ！,,
+arena,0x08D1B0F0,0x08D17348,59,(verbatim),今日もお兄ちゃんは戦うぞ！#熱血兄ちゃんの三人が参戦だい！　,,
+arena,0x08D1B280,0x08D17460,89,(verbatim),科学者の戦いの場は学会だけじゃあないんだぞ！！#研究の成果を挑戦者で実験しに三人が参戦だ！,,
+arena,0x08D1B474,0x08D175E8,67,(verbatim),息つく暇もない程に！　繰り出す拳は千紫万紅！#格闘娘四人衆が参戦だ！,,
+arena,0x08D1B604,0x08D17730,65,(verbatim),Ｒウォーリアとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1B668,0x08D17780,65,(verbatim),Ｒフェンサーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1B6CC,0x08D177D4,67,(verbatim),Ｒグラップラーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1B730,0x08D17824,65,(verbatim),Ｒアーチャーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1B794,0x08D17874,61,(verbatim),Ｒシーフとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1B7F8,0x08D178C4,65,(verbatim),Ｒウィザードとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1B85C,0x08D17914,63,(verbatim),Ｒヒーラーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1B8C0,0x08D17964,73,(verbatim),Ｒデュアルフェンサーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1B924,0x08D179C0,71,(verbatim),Ｒラージフェンサーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1B988,0x08D17A18,61,(verbatim),Ｒモンクとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1B9EC,0x08D17A64,65,(verbatim),Ｒパイレーツとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1BA50,0x08D17ABC,65,(verbatim),Ｒビショップとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1BAB4,0x08D17B10,73,(verbatim),Ｒマジックフェンサーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1BB18,0x08D17B68,63,(verbatim),Ｒニンジャとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1BB7C,0x08D17BB8,65,(verbatim),Ｒパラディンとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1BBE0,0x08D17C0C,63,(verbatim),Ｒガンマンとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,,
+arena,0x08D1BC44,0x08D17C5C,57,(verbatim),初心者向けのオタオタとのバトルだよ！#腕慣らしにどうだい？,,
+arena,0x08D1BCA8,0x08D17CAC,63,(verbatim),初心者向けのアックスビークとのバトルだよ！#腕慣らしにどうだい？,,
+arena,0x08D1BD0C,0x08D17CFC,59,(verbatim),初心者向けのキラービーとのバトルだよ！#腕慣らしにどうだい？,,
+arena,0x08D1BD70,0x08D17D44,63,(verbatim),本日用意したのはあのユニセロス！#その輝く角を掴む勝者は誰だ！？,,
+arena,0x08D1BDD4,0x08D17D98,71,(verbatim),本日用意したのはあのテンプルガード！#無慈悲な攻撃を打ち破るのは誰だ！？,,
+arena,0x08D1BE38,0x08D17DEC,75,(verbatim),本日用意したのはあのリヴァイアサン！#状態異常が効かない奴に挑むのは誰だ！？,,
+arena,0x08D1BE9C,0x08D17E44,83,(verbatim),本日用意したのはあのエンシェントライガ！#気高き光の獣を手なづけられる者はいるかい？,,
+arena,0x08D1BF00,0x08D17EAC,77,(verbatim),本日用意したのはあのグロスベルヴァ！#奴の吐く炎から逃れられる者はいるのか！？,,
+arena,0x08D1BF64,0x08D17F0C,81,(verbatim),オイラのペット、巨大オタオタと勝負してみてくれよ！#油断してると潰されちゃうぞ！！,,
+arena,0x08D1BFC8,0x08D17F74,87,(verbatim),今日は友達を連れてきたパン！　覚悟するパン！#…と、あのミミー・ブレッドが今日も参上だ！,,
+arena,0x08D1C02C,0x08D17FE0,67,(verbatim),今日は観客に魚料理を売って一儲け！#キミの腕で三枚におろしてくれよ！,,
+arena,0x08D1C090,0x08D18034,99,(verbatim),今日の闘技場のもう一つのイベントはカニ祭り！#ハラペコの観客が待ってるから、急いで料理しておくれよ！,,
+arena,0x08D1C0F4,0x08D180A8,91,(verbatim),巨大化したプチプリが届いたんだ！#観客を楽しませるいい目玉だろ？　さあ、挑戦者はいないかい？,,
+arena,0x08D1C158,0x08D18114,59,(verbatim),世界中のオタオタを集めたこの試合、#誰が挑戦してくれるかな？,,
+arena,0x08D1C220,0x08D181B0,63,(verbatim),世界中のチュンチュンを集めたこの試合、#誰が挑戦してくれるかな？,,
+arena,0x08D1C284,0x08D18200,57,(verbatim),世界中のバットを集めたこの試合、#誰が挑戦してくれるかな？,,
+arena,0x08D1C2E8,0x08D1824C,83,(verbatim),世界中のバットを集めたこの試合、好評につき第２弾だよ！#さあ！　誰が挑戦するんだい？,,
+arena,0x08D1C34C,0x08D182B4,59,(verbatim),世界中のリザードを集めたこの試合、#誰が挑戦してくれるかな？,,
+arena,0x08D1C3B0,0x08D18304,85,(verbatim),世界中のリザードを集めたこの試合、好評につき第２弾だよ！#さあ！　誰が挑戦するんだい？,,
+arena,0x08D1C414,0x08D18368,75,(verbatim),世界中の怪奇植物を集めたこの試合、#カワイイからって油断すると痛い目あうよ！,,
+arena,0x08D1C478,0x08D183C0,93,(verbatim),オイラの衛兵、ゴレム達に勝てる者はいるかい？#ま、そんな奴いるかわかんないけど…相手してみる？,,
+arena,0x08D1C4DC,0x08D18430,57,(verbatim),オイラが捕まえた精霊を相手に、#いっちょ暴れてみないかい？,,
+arena,0x08D1C540,0x08D1847C,65,(verbatim),オイラが使役する精霊に勝ってみな！#ウフフ、キミに勝てるかなぁ〜？,,
+avisos,0x08D6412C,0x08CE0704,0,(verbatim),,,
+avisos,0x08D64140,0x08CE0704,0,(verbatim),,,
+avisos,0x08D64154,0x08CE0704,0,(verbatim),,,
+avisos,0x08D64168,0x08CE0704,0,(verbatim),,,
+avisos,0x08D641A4,0x08CE0704,0,(verbatim),,,
+avisos,0x08D641B8,0x08CE0704,0,(verbatim),,,
+avisos,0x08D641CC,0x08CE0704,0,(verbatim),,,
+avisos,0x08D641E0,0x08CE0704,0,(verbatim),,,
+avisos,0x08D641F4,0x08CE0704,0,(verbatim),,,
+avisos,0x08D64208,0x08CE0704,0,(verbatim),,,
+avisos,0x08D6421C,0x08CE0704,0,(verbatim),,,
+avisos,0x08D64230,0x08CE0704,0,(verbatim),,,
+avisos,0x08D641C8,0x08CE0968,38,(verbatim),アイテムの所持上限を、30個に増やします,,
+avisos,0x08D641DC,0x08CE09A8,38,(verbatim),アイテムの所持上限を、99個に増やします,,
+ui__s1,0x08D65A58,0x08CF7098,116,(verbatim),"タイトルへ戻りますが、よろしいですか？
+※ここでセーブを行わないと継続プレイでの
+引き継ぎと特典の解放は行われません。",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65A60,0x08CF7130,6,(verbatim),最大HP,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65A64,0x08CF7138,6,(verbatim),最大TP,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65A88,0x08CF7198,6,(verbatim),基礎HP,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65A8C,0x08CF71A0,6,(verbatim),基礎TP,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65AC4,0x08CF724C,71,(verbatim),"装備者の物理攻撃力を上昇させ、
+通常攻撃や技で与えるダメージを増加させる",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65AC8,0x08CF7294,59,(verbatim),"装備者の術攻撃力を上昇させ、
+術で与えるダメージを増加させる",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65ACC,0x08CF72D0,101,(verbatim),"装備者の敏捷値を上昇させ、詠唱時間の短縮や、
+与えるクリティカルの増加、受けるクリティカルを減少させる",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65AD4,0x08CF7354,71,(verbatim),"装備者の物理防御力を上昇させ、
+通常攻撃や技で受けるダメージを軽減させる",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65AD8,0x08CF739C,59,(verbatim),"装備者の術防御力を上昇させ、
+術で受けるダメージを軽減させる",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65AE0,0x08CF73E8,18,(verbatim),%sを%d個手に入れた,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65AE4,0x08CF73FC,47,(verbatim),"アイテムが一杯で
+%sを手に入れる事が出来なかった",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65AEC,0x08CF7440,30,(verbatim),%sを手に入れる事が出来なかった,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65AF0,0x08CF7460,41,(verbatim),"装備品が一杯で
+手に入れる事が出来なかった",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65AFC,0x08CF74B8,11,(verbatim),　3F 展望室,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65B00,0x08CF74C4,11,(verbatim),　2F 操舵室,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65B04,0x08CF74D0,11,(verbatim),　1F ホール,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65B08,0x08CF74DC,12,(verbatim),　B1F 機関室,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65B0C,0x08CF74EC,10,(verbatim),　B2F 船倉,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65B10,0x08CF74F8,139,(verbatim),"既にレディアント マイソロジー3のインストールデータが存在します。
+このインストールデータを削除して、新たなインストールデータを作成しますか？",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65B14,0x08CF7584,85,(verbatim),"スリープモードに移行したため、データインストールが中断されました。
+やりなおしますか？",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65B1C,0x08CF75F8,96,(verbatim),"データインストールを行ない読み込みを高速化します
+569MB以上の空き容量がある記録メディアが必要です",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65B28,0x08CF769C,14,(verbatim),■ Information,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65B2C,0x08CF76AC,5,(verbatim),■ %s,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65B64,0x08CF7774,33,(verbatim),	弓による遠隔攻撃を得意とする職業,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65BAC,0x08CF7A3C,73,(verbatim),"%sに転職してよろしいですか？
+転職後に装備出来ない装備は自動的に外されます",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65BB0,0x08CF7A88,16,(verbatim),%sに転職しました,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65BC8,0x08CF7B30,69,(verbatim),"既に%sの料理効果が発生しています
+%sで効果を上書きしてよろしいですか？",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65BCC,0x08CF7B78,16,(verbatim),%sを作りますか？,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65BD0,0x08CF7B8C,37,(verbatim),"%sを料理して、
+美味しくいただきました",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65BD4,0x08CF7BB4,20,(verbatim),%sを%d個作成しました,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65BE8,0x08CF7C5C,24,(verbatim),%sと%sを入れ替えますか？,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65BEC,0x08CF7C78,30,(verbatim),%sをパーティに参加させますか？,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65BF4,0x08CF7CB4,53,(verbatim),"クエストに必要なキャラクターが
+いるので解散出来ません",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65BFC,0x08CF7D04,26,(verbatim),%sがパーティから抜けました,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65C00,0x08CF7D20,59,(verbatim),"依頼に必要なキャラクターを
+パーティから外すことはできません",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65C08,0x08CF7D7C,45,(verbatim),"プレイヤーを
+パーティから外すことはできません",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65C0C,0x08CF7DAC,28,(verbatim),%sをパーティから外しますか？,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65C10,0x08CF7DCC,26,(verbatim),%sの装備を全て外しますか？,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65C14,0x08CF7DE8,24,(verbatim),%sの装備を全て外しました,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65C18,0x08CF7E04,51,(verbatim),"パーティから外れるメンバーの
+装備を全て外しますか？",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65C1C,0x08CF7E38,59,(verbatim),"アイテムが一杯なので、
+装備を解除することが出来ませんでした",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65C20,0x08CF7E74,42,(verbatim),%sは治療中のため、パーティに参加できません,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65D30,0x08CF82E4,18,(verbatim),傭兵、%sの過去実績,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65D38,0x08CF8320,10,(verbatim),COUNT:%04d,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65D3C,0x08CF832C,9,(verbatim),消費TP:%d,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65D40,0x08CF8338,12,(verbatim),基本行動・%s,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65E08,0x08CF84F4,10,(verbatim),あらすじ%d,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65E0C,0x08CF8500,11,(verbatim),■ 必要素材,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65E18,0x08CF851C,7,(verbatim),■ 材料,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65E24,0x08CF8540,9,(verbatim),■ レシピ,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65E3C,0x08CF858C,3,(verbatim),%sG,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65E44,0x08CF8598,1,(verbatim),0,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65E58,0x08CF85C8,4,(verbatim),▲%d,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65E5C,0x08CF85D0,4,(verbatim),▼%d,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65E60,0x08CF85D8,46,(verbatim),装備する事が出来ません。レベルがあと%d必要です,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65E64,0x08CF8608,49,(verbatim),"所持アイテムが一杯なので
+装備を外す事が出来ません",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65E88,0x08CF86D8,0,(verbatim),,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65EAC,0x08CF86D8,0,(verbatim),,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65F10,0x08CF86D8,0,(verbatim),,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65F20,0x08CF86D8,0,(verbatim),,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65EBC,0x08CF8848,79,(verbatim),"エキシビションで入手した装備、または
+ダウンロードアイテムの装備は選択できません",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65ED8,0x08CF899C,57,(verbatim),"選択出来る装備スキルがありません。
+合成確定は□ボタンです",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65EDC,0x08CF89D8,59,(verbatim),"ベースのスロットに空きがありません。
+合成確定は□ボタンです",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65EF0,0x08CF8A94,12,(verbatim),%sガルドです,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65F34,0x08CF8A94,12,(verbatim),%sガルドです,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65F04,0x08CF8B18,53,(verbatim),"強化後の要求レベルが
+装備者のレベルを超えてしまいます",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D65F08,0x08CF8B50,24,(verbatim),強化したい装備品(ベース),0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66050,0x08CF8FB4,0,(verbatim),,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66054,0x08CF8FB8,10,(verbatim),%sを使った,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66078,0x08CF902C,49,(verbatim),"所持アイテムが一杯なので
+装備を外す事が出来ません",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D660B4,0x08CF9110,12,(verbatim),ＨＰ%d％回復,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D660B8,0x08CF9120,12,(verbatim),ＴＰ%d％回復,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D660BC,0x08CF9130,22,(verbatim),ＨＰ%d％、ＴＰ%d％回復,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D660C0,0x08CF9148,18,(verbatim),ＨＰ、ＴＰ%d％回復,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D660C4,0x08CF915C,5,(verbatim),■ %s,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D660C8,0x08CF9164,10,(verbatim),■ %3d %3d,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D660CC,0x08CF9170,4,(verbatim),%d▲,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D660D0,0x08CF9178,4,(verbatim),%d▼,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D660D4,0x08CF9180,4,(verbatim),▲%d,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D660D8,0x08CF9188,4,(verbatim),▼%d,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D660E8,0x08CF91A0,0,(verbatim),,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D661AC,0x08CF93F4,2,(verbatim),盾,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66210,0x08CF93F4,2,(verbatim),盾,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D661BC,0x08CF9410,2,(verbatim),斧,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D661C0,0x08CF9414,2,(verbatim),杖,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D661C4,0x08CF9418,2,(verbatim),拳,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D661C8,0x08CF941C,2,(verbatim),弓,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D661D0,0x08CF9428,2,(verbatim),槍,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D661FC,0x08CF948C,2,(verbatim),笛,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66200,0x08CF9490,2,(verbatim),符,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6620C,0x08CF94A8,2,(verbatim),帯,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66214,0x08CF94AC,2,(verbatim),頭,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66218,0x08CF94B0,2,(verbatim),顔,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6621C,0x08CF94B4,2,(verbatim),体,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66220,0x08CF94B8,2,(verbatim),手,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66224,0x08CF94BC,2,(verbatim),足,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66228,0x08CF94C0,2,(verbatim),鎧,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6622C,0x08CF94C4,2,(verbatim),服,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66234,0x08CF94D0,2,(verbatim),兜,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6629C,0x08CF9600,3,(verbatim),No.,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66304,0x08CF9710,2,(verbatim),斧,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66308,0x08CF9714,2,(verbatim),杖,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6630C,0x08CF9718,2,(verbatim),拳,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66310,0x08CF971C,2,(verbatim),弓,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66320,0x08CF9740,2,(verbatim),盾,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66324,0x08CF9744,2,(verbatim),兜,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66330,0x08CF9758,2,(verbatim),鎧,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66334,0x08CF975C,2,(verbatim),服,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6634C,0x08CF978C,21,(verbatim),ＳＥＬＥＣＴ:表示切替,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66350,0x08CF97A4,21,(verbatim),方向キー　　:位置変更,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66354,0x08CF97BC,25,(verbatim),○＋上下キー:描画高さ変更,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66358,0x08CF97D8,21,(verbatim),□＋方向キー:角度変更,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6635C,0x08CF97F0,25,(verbatim),△＋上下キー:スケール変更,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6636C,0x08CF981C,2,(verbatim),■,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66374,0x08CF9820,6,(verbatim),■　%s,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D664A8,0x08CF9820,6,(verbatim),■　%s,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66450,0x08CF9BE4,2,(verbatim),％,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66458,0x08CF9BF0,26,(verbatim),テイルズ オブ ファンタジア,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6645C,0x08CF9C0C,26,(verbatim),テイルズ オブ デスティニー,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66460,0x08CF9C28,24,(verbatim),テイルズ オブ エターニア,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66464,0x08CF9C44,28,(verbatim),テイルズ オブ デスティニー２,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66468,0x08CF9C64,26,(verbatim),テイルズ オブ シンフォニア,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6646C,0x08CF9C80,22,(verbatim),テイルズ オブ リバース,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66470,0x08CF9C98,28,(verbatim),テイルズ オブ レジェンディア,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66474,0x08CF9CB8,23,(verbatim),テイルズ オブ ジ アビス,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66478,0x08CF9CD0,27,(verbatim),テイルズ オブ ザ テンペスト,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6647C,0x08CF9CEC,24,(verbatim),テイルズ オブ イノセンス,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66480,0x08CF9D08,26,(verbatim),テイルズ オブ ヴェスペリア,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66484,0x08CF9D24,27,(verbatim),ＴＯＳ −ラタトスクの騎士−,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66488,0x08CF9D40,20,(verbatim),テイルズ オブ ハーツ,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6648C,0x08CF9D58,24,(verbatim),テイルズ オブ グレイセス,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66490,0x08CF9D74,32,(verbatim),ＴＯＷ レディアント マイソロジー,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66494,0x08CF9D98,34,(verbatim),ＴＯＷ レディアント マイソロジー２,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66498,0x08CF9DBC,34,(verbatim),ＴＯＷ レディアント マイソロジー３,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D664A0,0x08CF9DEC,7,(verbatim),%3.2f％,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D664B0,0x08CF9E08,11,(verbatim),■ 変更不可,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D664B4,0x08CF9E14,61,(verbatim),"ダンジョン内では、難易度を変更出来ません
+（現在の難易度、%s）",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D664C4,0x08CF9E70,11,(verbatim),■ 変更確認,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6657C,0x08CFA198,53,(verbatim),"メインクエスト進行中の通常戦闘時に
+流す曲を変更します",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D665B4,0x08CFA38C,7,(verbatim),■ 確認,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D665BC,0x08CFA3B0,8,(verbatim),"%s
+%3d％",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D665E4,0x08CFA4D8,55,(verbatim),"メインクエスト進行中の
+通常戦闘時に流す曲を変更します。",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D665FC,0x08CFA5B4,47,(verbatim),"イベント時にキャラクターのボイスを
+再生します。",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66600,0x08CFA5E4,49,(verbatim),"イベント時にキャラクターのボイスを
+再生しません。",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6660C,0x08CFA66C,61,(verbatim),"ダンジョンマップのデフォルト設定を
+広範囲マップに設定します。",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66610,0x08CFA6AC,61,(verbatim),"ダンジョンマップのデフォルト設定を
+中範囲マップに設定します。",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66614,0x08CFA6EC,61,(verbatim),"ダンジョンマップのデフォルト設定を
+マップ非表示に設定します。",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6671C,0x08CFAB84,2,(verbatim),小,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66720,0x08CFAB88,2,(verbatim),中,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66724,0x08CFAB8C,2,(verbatim),大,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66728,0x08CFAB90,2,(verbatim),○,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6672C,0x08CFAB94,5,(verbatim),− −,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66730,0x08CFAB9C,2,(verbatim),−,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66734,0x08CFABA0,2,(verbatim),＋,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66738,0x08CFABA4,5,(verbatim),＋ ＋,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6673C,0x08CFABAC,11,(verbatim),■ 称号一覧,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66794,0x08CFACF8,55,(verbatim),"%sが装備不可のアイテムが
+含まれています。購入しますか？",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D667A8,0x08CFADE4,45,(verbatim),"装備品が一杯のため、
+購入することができません",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D667B8,0x08CFAE6C,38,(verbatim),「%s」が交換されるまで、交換出来ません,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D667BC,0x08CFAE94,12,(verbatim),武器%dの場合,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D667EC,0x08CFAF94,43,(verbatim),テイルズ オブ専用装備なので、試着できません,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D667F8,0x08CFAFF4,4,(verbatim),%s G,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D667FC,0x08CFAFFC,5,(verbatim),%s GP,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66800,0x08CFB004,6,(verbatim),× %2d,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66814,0x08CFB0AC,0,(verbatim),,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66868,0x08CFB250,51,(verbatim),"職業に応じた思考で戦闘を行う。
+隊列位置への影響なし",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6686C,0x08CFB284,57,(verbatim),"残ＴＰを気にせず、全力で戦闘を行う。
+隊列位置への影響なし",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66870,0x08CFB2C0,47,(verbatim),"常に敵の近くで戦闘を行う。
+隊列位置は敵に近付く",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66874,0x08CFB2F0,49,(verbatim),"常に敵の遠くで戦闘を行う。
+隊列位置は敵から離れる",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66878,0x08CFB324,59,(verbatim),"サポートや援護攻撃中心の戦闘を行う。
+隊列位置は敵から離れる",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6687C,0x08CFB360,51,(verbatim),"防御に比重をおいた戦闘を行う。
+隊列位置への影響なし",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66880,0x08CFB394,55,(verbatim),"ＴＰを使わない状態での戦闘を行う。
+隊列位置への影響なし",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D668A8,0x08CFB41C,42,(verbatim),優先行動（%s編）が使えるようになりました！,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D668B0,0x08CFB460,2,(verbatim),前,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D668B4,0x08CFB464,2,(verbatim),中,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D668B8,0x08CFB468,2,(verbatim),後,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D668EC,0x08CFB508,24,(verbatim),%5d/%02d/%02d  %02d:%02d,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D668F0,0x08CFB524,24,(verbatim),称号「%s」を手に入れた！,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D668F4,0x08CFB540,18,(verbatim),「%s」を入手した！,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D668F8,0x08CFB554,59,(verbatim),"オプションのサウンドセレクトで
+「%s」が選択可能となりました",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D668FC,0x08CFB590,41,(verbatim),"闘技場ミッションに
+「%s」が追加されました",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66900,0x08CFB5BC,9,(verbatim),Widdersin,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66904,0x08CFB5C8,17,(verbatim),Heavy Destruction,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66908,0x08CFB5DC,14,(verbatim),Radiant Battle,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D6690C,0x08CFB5EC,13,(verbatim),Coup De Grbce,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D669EC,0x08CFBA08,83,(verbatim),"前作セーブデータやサイトからダウンロードしたデータを
+本作セーブデータに反映させます",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D669FC,0x08CFBAA8,107,(verbatim),"記録メディアに保存されているデータを読み込んで、
+インフラストラクチャーモードにて連動サイトに接続を行います",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A04,0x08CFBB20,115,(verbatim),"サイトへアクセスする為に必要なデータを新規作成してから、
+インフラストラクチャーモードにて連動サイトに接続を行います",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A14,0x08CFBC04,65,(verbatim),"認証データを作成します。
+すでに認証データがある場合は上書きします",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A1C,0x08CFBC60,55,(verbatim),"ダウンロードした傭兵データを
+セーブデータに反映させます",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A28,0x08CFBCDC,59,(verbatim),"ダウンロードしたアイテムデータを
+セーブデータに反映させます",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A30,0x08CFBD38,139,(verbatim),"レディアント マイソロジー、もしくは
+レディアント マイソロジー2のセーブデータ特典を、
+レディアント マイソロジー3のプレイデータへ反映させます",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A34,0x08CFBDC4,45,(verbatim),なりきりダンジョンXセーブデータ特典インポート,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A38,0x08CFBDF4,122,(verbatim),"テイルズ オブ ファンタジア なりきりダンジョンXの
+セーブデータ特典を
+レディアント マイソロジー3のプレイデータへ反映させます",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A3C,0x08CFBE70,96,(verbatim),"新規に接続を行ないます
+認証データ作成→傭兵データ作成→
+インポートフォルダ作成
+の順番で進めます
+",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A4C,0x08CFBF1C,61,(verbatim),"インフラストラクチャーモードにて、
+連動サイトに接続を行います",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A60,0x08CFBFE4,61,(verbatim),"認証データが存在しない場合は、
+先に認証データを作成して下さい",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A64,0x08CFC024,41,(verbatim),"傭兵の元になるセーブデータを
+選んで下さい",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A6C,0x08CFC074,31,(verbatim),"傭兵データを作成中です
+□□□□",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A70,0x08CFC094,31,(verbatim),"傭兵データを作成中です
+■□□□",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A74,0x08CFC0B4,31,(verbatim),"傭兵データを作成中です
+■■□□",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A78,0x08CFC0D4,31,(verbatim),"傭兵データを作成中です
+■■■□",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A7C,0x08CFC0F4,31,(verbatim),"傭兵データを作成中です
+■■■■",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A90,0x08CFC198,55,(verbatim),"作成する認証データの元になる
+セーブデータを選んで下さい",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A98,0x08CFC1F8,160,(verbatim),"選択されたセーブデータに以下の特典を反映しました
+  ・称号『テレジアの救世主』
+  ・闘技場ミッション『異世界のディセンダー』
+  ・装備『クラシックレザー装備一式』
+",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66A9C,0x08CFC29C,142,(verbatim),"選択されたセーブデータに以下の特典を反映しました
+  ・称号『グラニデの救世主』
+  ・闘技場ミッション『穢れの王』
+  ・装備『トライアル装備一式』
+",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66AA4,0x08CFC354,78,(verbatim),"テイルズ オブ ザ ワールド レディアント マイソロジーの
+セーブデータがありました",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66AA8,0x08CFC3A4,79,(verbatim),"テイルズ オブ ザ ワールド レディアント マイソロジー2の
+セーブデータがありました",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66AAC,0x08CFC3F4,133,(verbatim),"テイルズ オブ ザ ワールド レディアント マイソロジーと
+テイルズ オブ ザ ワールド レディアント マイソロジー2の
+セーブデータがありました",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66AB0,0x08CFC47C,132,(verbatim),"選択されたセーブデータに以下の特典を反映しました
+  ・装備『クラースの帽子Ｘ』
+  ・装備『エターナルソードＸ』
+  ・装備『慈愛の杖Ｘ』
+",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66AB4,0x08CFC504,79,(verbatim),"テイルズ オブ ファンタジア なりきりダンジョンXの
+セーブデータがありませんでした",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66AB8,0x08CFC554,73,(verbatim),"テイルズ オブ ファンタジア なりきりダンジョンXの
+セーブデータがありました",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66ABC,0x08CFC5A0,43,(verbatim),"インポートするセーブデータを
+選択して下さい",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66AC0,0x08CFC5CC,45,(verbatim),"このセーブデータには
+すでにインポート済みです",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66AD4,0x08CFC6A8,65,(verbatim),"ＤＬクエストキーはインポート済みです
+ロックスから受け取り可能です",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66ADC,0x08CFC708,63,(verbatim),"アイテムデータが読み込めませんでした。
+インポートを中断しました",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66AE0,0x08CFC748,76,(verbatim),"アイテムデータを読み込みました。
+インポートするセーブデータを選択して
+下さい",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66AE4,0x08CFC798,115,(verbatim),"このセーブデータには
+未取得のインポートデータがあります。
+インポートを実行する前に
+倉庫からアイテムを取得して下さい",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66AF0,0x08CFC854,61,(verbatim),"アイテムデータに問題があります。
+インポートする事は出来ません",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66AF8,0x08CFC8BC,59,(verbatim),"傭兵データが読み込めませんでした。
+インポートを中断しました",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66AFC,0x08CFC8BC,59,(verbatim),"傭兵データが読み込めませんでした。
+インポートを中断しました",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B04,0x08CFC914,116,(verbatim),"以前に傭兵データをインポートしたセーブ
+データに、新しい傭兵データをインポート
+した場合、前回の傭兵は消えてしまいます",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B10,0x08CFC9CC,57,(verbatim),"傭兵データに問題があります。
+インポートする事は出来ません",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B14,0x08CFCA08,55,(verbatim),"ダウンロードしたデータと
+セーブデータが適合していません",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B2C,0x08CFCADC,92,(verbatim),"既存のデータがあります。
+上書きすると、登録アカウントに
+アクセス出来なくなる可能性があります",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B30,0x08CFCB3C,84,(verbatim),"記録メディアを検出出来ませんでした。
+%dKB以上の空き容量がある
+記録メディアが必要です",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B40,0x08CFCBE8,55,(verbatim),"記録メディアに既にデータが存在します。
+上書きしますか？",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B44,0x08CFCC20,83,(verbatim),"スリープモードに移行したためデータの作成を中断しました。
+もう一度作成を行いますか？",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B4C,0x08CFCC74,78,(verbatim),"ブラウザを起動しています…
+ネットワーク接続中は記録メディアを
+抜かないで下さい",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B50,0x08CFCCC4,71,(verbatim),"ネットワーク接続をするにはダウンロード用の
+フォルダを作る必要があります",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B54,0x08CFCD0C,35,(verbatim),"記録メディアを検出出来ませんでした
+",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B58,0x08CFCD30,41,(verbatim),"破損したインポートフォルダを検出しました
+",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B5C,0x08CFCD5C,55,(verbatim),"「データの削除」よりフォルダを削除して
+やり直して下さい",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B74,0x08CFCDDC,77,(verbatim),"テイルズ オブ ザ ワールド
+レディアント マイソロジー3の
+連動サイト用データです",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B84,0x08CFCDDC,77,(verbatim),"テイルズ オブ ザ ワールド
+レディアント マイソロジー3の
+連動サイト用データです",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B7C,0x08CFCE40,81,(verbatim),"テイルズ オブ ザ ワールド
+レディアント マイソロジー3の
+連動サイト用認証データです",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66B8C,0x08CFCEC0,197,(verbatim),"ＥＸＴＲＡモードはオートセーブ機能に対応しています。
+オートセーブ中にはメモリースティック[TM]アクセスランプが
+点滅しますので、その間は記録メディアを抜いたり、
+本体の電源を切ったりしないでください。",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66C54,0x08CFD214,55,(verbatim),"記録メディアに既にデータが存在します。
+上書きしますか？",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66C5C,0x08CFD270,83,(verbatim),"スリープモードに移行したためデータの作成を中断しました。
+もう一度作成を行いますか？",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66C70,0x08CFD304,8,(verbatim),%3d:%02d,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66C74,0x08CFD310,19,(verbatim),"LV%03d HP%4d TP%3d
+",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66D64,0x08CFD5BC,26,(verbatim),テイルズ オブ ファンタジア,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66D68,0x08CFD5D8,26,(verbatim),テイルズ オブ デスティニー,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66D6C,0x08CFD5F4,24,(verbatim),テイルズ オブ エターニア,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66D70,0x08CFD610,23,(verbatim),テイルズ オブ ジ アビス,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66D74,0x08CFD628,28,(verbatim),テイルズ オブ デスティニー２,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66D78,0x08CFD648,26,(verbatim),テイルズ オブ シンフォニア,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66D7C,0x08CFD664,22,(verbatim),テイルズ オブ リバース,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66D80,0x08CFD67C,28,(verbatim),テイルズ オブ レジェンディア,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66D84,0x08CFD69C,27,(verbatim),テイルズ オブ ザ テンペスト,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66D88,0x08CFD6B8,24,(verbatim),テイルズ オブ イノセンス,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66D8C,0x08CFD6D4,26,(verbatim),テイルズ オブ ヴェスペリア,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66D94,0x08CFD710,20,(verbatim),テイルズ オブ ハーツ,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66D98,0x08CFD728,24,(verbatim),テイルズ オブ グレイセス,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66D9C,0x08CFD744,25,(verbatim),レディアント マイソロジー,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66DA0,0x08CFD760,27,(verbatim),レディアント マイソロジー２,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66DA4,0x08CFD77C,27,(verbatim),レディアント マイソロジー３,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66DA8,0x08CFD798,7,(verbatim),桜庭 統,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66DAC,0x08CFD7A0,9,(verbatim),中村 和宏,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66DB0,0x08CFD7AC,7,(verbatim),椎名 豪,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66DDC,0x08CFD8AC,52,(verbatim),テイルズ オブ ファンタジアの戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66DE0,0x08CFD8E4,52,(verbatim),テイルズ オブ デスティニーの戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66DE4,0x08CFD91C,50,(verbatim),テイルズ オブ エターニアの戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66DE8,0x08CFD950,49,(verbatim),テイルズ オブ ジ アビスの戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66DEC,0x08CFD984,54,(verbatim),テイルズ オブ デスティニー２の戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66DF0,0x08CFD9BC,52,(verbatim),テイルズ オブ シンフォニアの戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66DF4,0x08CFD9F4,48,(verbatim),テイルズ オブ リバースの戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66DF8,0x08CFDA28,54,(verbatim),テイルズ オブ レジェンディアの戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66DFC,0x08CFDA60,53,(verbatim),テイルズ オブ ザ テンペストの戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E00,0x08CFDA98,50,(verbatim),テイルズ オブ イノセンスの戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E04,0x08CFDACC,52,(verbatim),テイルズ オブ ヴェスペリアの戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E0C,0x08CFDB3C,46,(verbatim),テイルズ オブ ハーツの戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E10,0x08CFDB6C,50,(verbatim),テイルズ オブ グレイセスの戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E14,0x08CFDBA0,51,(verbatim),レディアント マイソロジーの戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E18,0x08CFDBD4,53,(verbatim),レディアント マイソロジー２の戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E1C,0x08CFDC0C,53,(verbatim),レディアント マイソロジー３の戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E20,0x08CFDC44,49,(verbatim),桜庭 統氏が作曲／編曲した戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E24,0x08CFDC78,51,(verbatim),中村 和宏氏が作曲／編曲した戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E28,0x08CFDCAC,49,(verbatim),椎名 豪氏が作曲／編曲した戦闘曲の中から選択します,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E68,0x08CFDDF4,53,(verbatim),"アンジュから、%sに
+%sへ自由に立ち入る許可が下りました",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E6C,0x08CFDE2C,72,(verbatim),"ブラウニー坑道の、立て坑 最深地点より
+追憶の坑道に入れるようになりました",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E70,0x08CFDE78,67,(verbatim),"パーティメンバーに空きがあります
+あと%d人、参加させることができます",0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E74,0x08CFDEBC,32,(verbatim),料理「%s」の効果が無くなりました,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E80,0x08CFDF28,14,(verbatim),■ Information,0x08CF7080,0x08CFDFBD
+ui__s1,0x08D66E8C,0x08CFDF68,17,(verbatim),"%s
+に入りますか？",0x08CF7080,0x08CFDFBD
+questfiltro__s1,0x08D866E0,0x08D0EEF4,9,(verbatim),cl001.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D866E4,0x08D0EF00,9,(verbatim),cl002.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D866E8,0x08D0EF0C,9,(verbatim),cl003.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D866EC,0x08D0EF18,9,(verbatim),cl004.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D866F0,0x08D0EF24,9,(verbatim),cl005.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D866F4,0x08D0EF30,9,(verbatim),cl006.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D866F8,0x08D0EF3C,9,(verbatim),cl007.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D866FC,0x08D0EF48,9,(verbatim),cl008.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86700,0x08D0EF54,9,(verbatim),cl009.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86704,0x08D0EF60,9,(verbatim),cl010.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86708,0x08D0EF6C,9,(verbatim),cl011.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8670C,0x08D0EF78,9,(verbatim),cl012.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86710,0x08D0EF84,9,(verbatim),cl013.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86714,0x08D0EF90,9,(verbatim),cl014.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86718,0x08D0EF9C,9,(verbatim),cl015.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8671C,0x08D0EFA8,9,(verbatim),cl016.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86720,0x08D0EFB4,9,(verbatim),cl017.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86724,0x08D0EFC0,9,(verbatim),cl018.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86728,0x08D0EFCC,9,(verbatim),cl019.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8672C,0x08D0EFD8,9,(verbatim),cl020.ppt,0x08D0E814,0x08D0EEDD
+questfiltro__s3,0x08D86730,0x08D0F074,24,(verbatim),NewQuestFlowMessage1.txz,0x08D0F074,0x08D0F13A
+questfiltro__s3,0x08D86734,0x08D0F090,24,(verbatim),NewQuestFlowMessage2.txz,0x08D0F074,0x08D0F13A
+questfiltro__s3,0x08D86738,0x08D0F0AC,24,(verbatim),NewQuestFlowMessage3.txz,0x08D0F074,0x08D0F13A
+questfiltro__s3,0x08D8673C,0x08D0F0C8,24,(verbatim),NewQuestFlowMessage4.txz,0x08D0F074,0x08D0F13A
+questfiltro__s3,0x08D86740,0x08D0F0E4,24,(verbatim),NewQuestFlowMessage5.txz,0x08D0F074,0x08D0F13A
+questfiltro__s4,0x08D86744,0x08D0F100,24,(verbatim),NewQuestFlowMessage6.txz,0x08D0F140,0x08D0F20D
+questfiltro__s3,0x08D86748,0x08D0F11C,29,(verbatim),NewQuestFlowCommonMessage.txz,0x08D0F074,0x08D0F13A
+questfiltro__s5,0x08D86750,0x08D0F3BC,0,(verbatim),,0x08D0F3BC,0x08D0F3BD
+questfiltro__s6,0x08D86754,0x08D0F434,0,(verbatim),,0x08D0F434,0x08D0F435
+questfiltro__s7,0x08D86758,0x08D0F4C0,0,(verbatim),,0x08D0F4C0,0x08D0F4C1
+questfiltro__s8,0x08D8675C,0x08D0F54C,0,(verbatim),,0x08D0F54C,0x08D0F54D
+questfiltro__s9,0x08D86760,0x08D0F5C4,0,(verbatim),,0x08D0F5C4,0x08D0F5C5
+questfiltro__s10,0x08D86764,0x08D0F63C,0,(verbatim),,0x08D0F63C,0x08D0F63D
+questfiltro__s11,0x08D86768,0x08D0F6B4,0,(verbatim),,0x08D0F6B4,0x08D0F6B5
+questfiltro__s12,0x08D8676C,0x08D0F718,0,(verbatim),,0x08D0F718,0x08D0F719
+questfiltro__s13,0x08D86770,0x08D0F7E0,0,(verbatim),,0x08D0F7E0,0x08D0F7E1
+questfiltro__s14,0x08D86774,0x08D0F8A8,0,(verbatim),,0x08D0F8A8,0x08D0F8A9
+questfiltro__s15,0x08D86778,0x08D0F8E4,0,(verbatim),,0x08D0F8E4,0x08D0F8E5
+questfiltro__s16,0x08D8677C,0x08D0F920,0,(verbatim),,0x08D0F920,0x08D0F921
+questfiltro__s17,0x08D86780,0x08D0F998,0,(verbatim),,0x08D0F998,0x08D0F999
+questfiltro__s18,0x08D86784,0x08D0F9FC,0,(verbatim),,0x08D0F9FC,0x08D0F9FD
+questfiltro__s19,0x08D86788,0x08D0FA9C,0,(verbatim),,0x08D0FA9C,0x08D0FA9D
+questfiltro__s20,0x08D8678C,0x08D0FB00,0,(verbatim),,0x08D0FB00,0x08D0FB01
+questfiltro__s21,0x08D86790,0x08D0FB78,0,(verbatim),,0x08D0FB78,0x08D0FB79
+questfiltro__s22,0x08D86794,0x08D0FC04,0,(verbatim),,0x08D0FC04,0x08D0FC05
+questfiltro__s23,0x08D86798,0x08D0FC40,0,(verbatim),,0x08D0FC40,0x08D0FC41
+bonus,0x08D867F4,0x08D1C6D8,15,(verbatim),Never surrender,,
+bonus,0x08D867F8,0x08D1C6E8,18,(verbatim),The arrow was shot,,
+bonus,0x08D867FC,0x08D1C6FC,22,(verbatim),The edge of a decision,,
+bonus,0x08D86800,0x08D1C714,14,(verbatim),Bare its fangs,,
+bonus,0x08D86804,0x08D1C724,19,(verbatim),Lion−Irony of fate,,
+bonus,0x08D86808,0x08D1C738,13,(verbatim),COUP DE GRBCE,,
+bonus,0x08D8680C,0x08D1C748,15,(verbatim),THE DREADNOUGHT,,
+bonus,0x08D86810,0x08D1C758,15,(verbatim),THEME OF BATTLE,,
+bonus,0x08D86814,0x08D1C768,8,(verbatim),TIMELINE,,
+bonus,0x08D86818,0x08D1C774,16,(verbatim),WHEEL OF FORTUNE,,
+bonus,0x08D8681C,0x08D1C788,12,(verbatim),ABILITY TEST,,
+bonus,0x08D86820,0x08D1C798,15,(verbatim),CELESTIA BATTLE,,
+bonus,0x08D86824,0x08D1C7A8,12,(verbatim),Eternal mind,,
+bonus,0x08D86828,0x08D1C7B8,14,(verbatim),INFERIA BATTLE,,
+bonus,0x08D8682C,0x08D1C7C8,11,(verbatim),TIME BATTLE,,
+bonus,0x08D86838,0x08D1C7FC,22,(verbatim),FIGHTING OF THE SPIRIT,,
+bonus,0x08D8683C,0x08D1C814,21,(verbatim),OVERCOME DIFFICULTIES,,
+bonus,0x08D86840,0x08D1C82C,17,(verbatim),TAKE UP THE CROSS,,
+bonus,0x08D86844,0x08D1C840,19,(verbatim),Battle organization,,
+bonus,0x08D86848,0x08D1C854,8,(verbatim),Dogfight,,
+bonus,0x08D8684C,0x08D1C860,15,(verbatim),The die is cast,,
+bonus,0x08D86850,0x08D1C870,14,(verbatim),Beat the angel,,
+bonus,0x08D86854,0x08D1C880,8,(verbatim),Fatalize,,
+bonus,0x08D86858,0x08D1C88C,10,(verbatim),Full force,,
+bonus,0x08D8685C,0x08D1C898,21,(verbatim),Like a glint of light,,
+bonus,0x08D86860,0x08D1C8B0,20,(verbatim),The end of a thought,,
+bonus,0x08D86870,0x08D1C8F0,16,(verbatim),DONA NOBIS PACEM,,
+bonus,0x08D86878,0x08D1C918,9,(verbatim),The trial,,
+bonus,0x08D86880,0x08D1C930,22,(verbatim),It can waver and fight,,
+bonus,0x08D86884,0x08D1C948,24,(verbatim),Scutum - decisive battle,,
+bonus,0x08D86888,0x08D1C964,23,(verbatim),At the time of farewell,,
+bonus,0x08D8688C,0x08D1C97C,17,(verbatim),Everlasting fight,,
+bonus,0x08D86890,0x08D1C990,19,(verbatim),The more that I try,,
+bonus,0x08D86894,0x08D1C9A4,7,(verbatim),I'll go,,
+bonus,0x08D86898,0x08D1C9AC,25,(verbatim),The wilderness of sadness,,
+bonus,0x08D868B0,0x08D1CA20,20,(verbatim),発動、ソーマリンク!!,,

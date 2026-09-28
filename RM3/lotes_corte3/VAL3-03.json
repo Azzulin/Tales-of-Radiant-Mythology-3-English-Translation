@@ -1,0 +1,2088 @@
+{
+ "lote": "VAL3-03",
+ "bloco": "valuables",
+ "meta_bytes_a_cortar": 1672,
+ "n_itens": 297,
+ "pool_atual_bytes": 44884,
+ "itens": [
+  {
+   "id": "valuables#2372",
+   "bloco": "valuables",
+   "en": "Title for obtaining the Paladin's Radiance.",
+   "bytes": 43,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2376",
+   "bloco": "valuables",
+   "en": "Title for obtaining the Fighter's Radiance.",
+   "bytes": 43,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2398",
+   "bloco": "valuables",
+   "en": "Base Agility +200, Enemy Target Frequency -",
+   "bytes": 43,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#183",
+   "bloco": "valuables",
+   "en": "A newt burnt pitch black. Purpose unknown.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#343",
+   "bloco": "valuables",
+   "en": "Arte: creates a tornado around target foe.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#366",
+   "bloco": "valuables",
+   "en": "Arte: fires ice needles toward target foe.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#392",
+   "bloco": "valuables",
+   "en": "Arte: restores moderate HP to target ally.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#414",
+   "bloco": "valuables",
+   "en": "Arte: impales target foe with holy lances.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#420",
+   "bloco": "valuables",
+   "en": "Arte: fires spin compressed water rapidly.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#427",
+   "bloco": "valuables",
+   "en": "Arte: impales target foe with dark lances.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#499",
+   "bloco": "valuables",
+   "en": "Arte: gradually restores damage over time.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#505",
+   "bloco": "valuables",
+   "en": "Arte: compresses and releases earth power.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#600",
+   "bloco": "valuables",
+   "en": "Attacks foes with a spinning aerial slash.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#877",
+   "bloco": "valuables",
+   "en": "Arcane arte: Fang Thrust and Fang Barrage.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#1057",
+   "bloco": "valuables",
+   "en": "Slams weapons down with momentum from air.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#1078",
+   "bloco": "valuables",
+   "en": "Swings both hands with momentum to attack.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#1210",
+   "bloco": "valuables",
+   "en": "Secret arte: hurls powered chakrams twice.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#1409",
+   "bloco": "valuables",
+   "en": "Arcane arte: Biting Edge and Aerial Laser.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#1468",
+   "bloco": "valuables",
+   "en": "Executes two consecutive anti-air slashes.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#1614",
+   "bloco": "valuables",
+   "en": "Leaps onto the foe's head and stomps down.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#1702",
+   "bloco": "valuables",
+   "en": "Arcane arte: fires arrows that accelerate.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#1729",
+   "bloco": "valuables",
+   "en": "Delivers dancing thrusts from an up-slash.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#1766",
+   "bloco": "valuables",
+   "en": "Sharpens one's spirit to increase agility.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2090",
+   "bloco": "valuables",
+   "en": "Stirs up vacuum waves to mow enemies down.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2105",
+   "bloco": "valuables",
+   "en": "Dishonorable proof of modifying game data.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2191",
+   "bloco": "valuables",
+   "en": "Title for knowing all monsters thoroughly.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2228",
+   "bloco": "valuables",
+   "en": "Exceeded 999 uses of Pow Hammer as Priest.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2320",
+   "bloco": "valuables",
+   "en": "Title for one pursuing character makeover.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2327",
+   "bloco": "valuables",
+   "en": "Title for opening the path to every class.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2380",
+   "bloco": "valuables",
+   "en": "Title for obtaining the Priest's Radiance.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2388",
+   "bloco": "valuables",
+   "en": "Title for obtaining the Pirate's Radiance.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2396",
+   "bloco": "valuables",
+   "en": "Title for obtaining the Hunter's Radiance.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2404",
+   "bloco": "valuables",
+   "en": "Title for obtaining the Bishop's Radiance.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2412",
+   "bloco": "valuables",
+   "en": "Title for obtaining the Gunner's Radiance.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2454",
+   "bloco": "valuables",
+   "en": "Max HP +10%, Max TP +10%, Base Agility -20",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2458",
+   "bloco": "valuables",
+   "en": "Max HP -10%, Max TP -10%, EXP Earned +100%",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2462",
+   "bloco": "valuables",
+   "en": "Max HP -30%, Max TP -30%, EXP Earned +200%",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2466",
+   "bloco": "valuables",
+   "en": "Max HP -70%, Max TP -70%, EXP Earned +400%",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2472",
+   "bloco": "valuables",
+   "en": "Title for defeating the Colosseum manager.",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#2489",
+   "bloco": "valuables",
+   "en": "Rare Find Rate +20, Items From Enemies +10",
+   "bytes": 42,
+   "alvo_bytes": 36
+  },
+  {
+   "id": "valuables#43",
+   "bloco": "valuables",
+   "en": "Magical item to increase Blacksmith rank.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#299",
+   "bloco": "valuables",
+   "en": "Arte: restores moderate HP to all allies.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#321",
+   "bloco": "valuables",
+   "en": "Arte: attacks foes with converging light.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#400",
+   "bloco": "valuables",
+   "en": "Arte: greatly restores HP to target ally.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#451",
+   "bloco": "valuables",
+   "en": "Arte: drops stone spears from above foes.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#590",
+   "bloco": "valuables",
+   "en": "Unleashes a sharp forward-lunging thrust.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#610",
+   "bloco": "valuables",
+   "en": "Arcane arte: Demon Fang and Sonic Thrust.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#692",
+   "bloco": "valuables",
+   "en": "Arcane arte: Talon Drop and Rending Palm.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#759",
+   "bloco": "valuables",
+   "en": "Obtains Gald from enemies by some method.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#865",
+   "bloco": "valuables",
+   "en": "Slashes upward at enemies toward the sky.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#998",
+   "bloco": "valuables",
+   "en": "Arcane arte: Demon Fang and Vacuum Slash.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#1403",
+   "bloco": "valuables",
+   "en": "Arcane arte: Fang Edge and Charge Bullet.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#1412",
+   "bloco": "valuables",
+   "en": "Secret arte: rains ice lances from above.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#2005",
+   "bloco": "valuables",
+   "en": "Secret arte: calls lightning upon impact.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#2139",
+   "bloco": "valuables",
+   "en": "Title for one becoming beacon of freedom.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#2249",
+   "bloco": "valuables",
+   "en": "Title for someone said to steal anything.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#2392",
+   "bloco": "valuables",
+   "en": "Title for obtaining the Thief's Radiance.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#2408",
+   "bloco": "valuables",
+   "en": "Title for obtaining the Ninja's Radiance.",
+   "bytes": 41,
+   "alvo_bytes": 35
+  },
+  {
+   "id": "valuables#307",
+   "bloco": "valuables",
+   "en": "Arte: cures status ailments for an ally.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#311",
+   "bloco": "valuables",
+   "en": "Arte: dispels status changes on an ally.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#531",
+   "bloco": "valuables",
+   "en": "Arte: drags foes into pitch-black abyss.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#594",
+   "bloco": "valuables",
+   "en": "Unleashes a rapid succession of thrusts.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#612",
+   "bloco": "valuables",
+   "en": "Arcane arte: Demon Fang and Tiger Blade.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#618",
+   "bloco": "valuables",
+   "en": "Arcane arte: Sword Rain and Tiger Blade.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#1546",
+   "bloco": "valuables",
+   "en": "Swings up impaled foes with mighty arms.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#1569",
+   "bloco": "valuables",
+   "en": "Kicks enemies away with a spinning kick.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#1825",
+   "bloco": "valuables",
+   "en": "Memorable skill taught by older brother.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#1942",
+   "bloco": "valuables",
+   "en": "Arte: calls lightning over a small area.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#2123",
+   "bloco": "valuables",
+   "en": "Title for official member of Ad Libitum.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#2159",
+   "bloco": "valuables",
+   "en": "Title for one resolved for new creation.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#2160",
+   "bloco": "valuables",
+   "en": "Resolved for final battle to save world.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#2177",
+   "bloco": "valuables",
+   "en": "Max HP -50%, Base Phys. & Magic Atk +50%",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#2199",
+   "bloco": "valuables",
+   "en": "Title for accomplishing numerous quests.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#2221",
+   "bloco": "valuables",
+   "en": "Base Phys. Atk +20%, Base Magic Atk -30%",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#2225",
+   "bloco": "valuables",
+   "en": "Base Phys. Atk -30%, Base Magic Atk +20%",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#2227",
+   "bloco": "valuables",
+   "en": "Title for using Pow Hammer like a demon.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#2324",
+   "bloco": "valuables",
+   "en": "Title for one seeking their way in life.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#2335",
+   "bloco": "valuables",
+   "en": "Title for one who found great matchmate.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#2384",
+   "bloco": "valuables",
+   "en": "Title for obtaining the Monk's Radiance.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#2400",
+   "bloco": "valuables",
+   "en": "Title for obtaining the Mage's Radiance.",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#2481",
+   "bloco": "valuables",
+   "en": "Max TP -40%, Base Phys. & Arte Atk. +50%",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#2485",
+   "bloco": "valuables",
+   "en": "Max HP -40%, Base Phys. & Arte Def. +50%",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#2505",
+   "bloco": "valuables",
+   "en": "Max HP -80%, Base Phys. & Arte Atk. +90%",
+   "bytes": 40,
+   "alvo_bytes": 34
+  },
+  {
+   "id": "valuables#297",
+   "bloco": "valuables",
+   "en": "Arte: restores small HP to target ally.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#319",
+   "bloco": "valuables",
+   "en": "Arte: shares own TP with a single ally.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#663",
+   "bloco": "valuables",
+   "en": "Arcane arte: Sword Rain and Demon Fang.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#682",
+   "bloco": "valuables",
+   "en": "Swings weapons with momentum to attack.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#747",
+   "bloco": "valuables",
+   "en": "Secret arte: unleashes large shockwave.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#851",
+   "bloco": "valuables",
+   "en": "Slashes enemies as if tracing the moon.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#958",
+   "bloco": "valuables",
+   "en": "Arcane arte: Demon Fang and Sword Rain.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#967",
+   "bloco": "valuables",
+   "en": "Fires compressed water torrent spheres.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#1232",
+   "bloco": "valuables",
+   "en": "Calls down lightning onto thrown kunai.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#1249",
+   "bloco": "valuables",
+   "en": "Arcane arte: fires large water bullets.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#1295",
+   "bloco": "valuables",
+   "en": "Delivers an aerial leaping knee strike.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#1309",
+   "bloco": "valuables",
+   "en": "Prevents staggering from enemy attacks.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#1323",
+   "bloco": "valuables",
+   "en": "Secret arte: bestows mid-day paralysis.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#1397",
+   "bloco": "valuables",
+   "en": "Arcane arte: Biting Edge and Wing Edge.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#1399",
+   "bloco": "valuables",
+   "en": "Arcane arte: Fang Edge and Biting Edge.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#1535",
+   "bloco": "valuables",
+   "en": "Arte: generates ice beneath enemy feet.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#1613",
+   "bloco": "valuables",
+   "en": "Calls up wind sickles to shred enemies.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#1829",
+   "bloco": "valuables",
+   "en": "Executes three high-speed kicks in air.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#1843",
+   "bloco": "valuables",
+   "en": "Front kick skill that repels opponents.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#2096",
+   "bloco": "valuables",
+   "en": "Title for saving otherworldly Terresia.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#2104",
+   "bloco": "valuables",
+   "en": "Title for breaking rules of this world.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#2124",
+   "bloco": "valuables",
+   "en": "Learned ropes of working in Ad Libitum.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#2145",
+   "bloco": "valuables",
+   "en": "More easily ambushed by monster symbols",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#2173",
+   "bloco": "valuables",
+   "en": "Max HP -5%, Base Phys. & Magic Atk +10%",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#2181",
+   "bloco": "valuables",
+   "en": "Gathering +2, Mining +2, Chest Drop +10",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#2246",
+   "bloco": "valuables",
+   "en": "Successfully used Rover Item 100 times.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#2250",
+   "bloco": "valuables",
+   "en": "Successfully used Rover Item 300 times.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#2292",
+   "bloco": "valuables",
+   "en": "Title for one versed in bottle recipes.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#2316",
+   "bloco": "valuables",
+   "en": "Title for regular patron of the smithy.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#2469",
+   "bloco": "valuables",
+   "en": "Won a Colosseum mission for first time.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#2480",
+   "bloco": "valuables",
+   "en": "Defeated Dhaos in Mine of Reminiscence.",
+   "bytes": 39,
+   "alvo_bytes": 33
+  },
+  {
+   "id": "valuables#376",
+   "bloco": "valuables",
+   "en": "Arte: causes falling rocks from above.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#457",
+   "bloco": "valuables",
+   "en": "Arte: drops a chilling hammer on foes.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#488",
+   "bloco": "valuables",
+   "en": "Arte: cures poison status for an ally.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#803",
+   "bloco": "valuables",
+   "en": "Fires arrows cloaked in freezing cold.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#815",
+   "bloco": "valuables",
+   "en": "Arcane arte: fires full-powered arrow.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#857",
+   "bloco": "valuables",
+   "en": "Arcane arte: hurls bottles all around.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#1123",
+   "bloco": "valuables",
+   "en": "Slashes skyward while cloaked in cold.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#1175",
+   "bloco": "valuables",
+   "en": "Delivers thrusts while moving swiftly.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#1604",
+   "bloco": "valuables",
+   "en": "Calls up explosive flames from ground.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#1969",
+   "bloco": "valuables",
+   "en": "Swings a weapon to fire light spheres.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#1982",
+   "bloco": "valuables",
+   "en": "Fires arrows piercing through targets.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#2038",
+   "bloco": "valuables",
+   "en": "Shoots downward foes jumping backward.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#2100",
+   "bloco": "valuables",
+   "en": "Title for saving otherworldly Granide.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#2133",
+   "bloco": "valuables",
+   "en": "Restores 2% HP when defeating an enemy",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#2151",
+   "bloco": "valuables",
+   "en": "Title for one wounding Saleh severely.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#2242",
+   "bloco": "valuables",
+   "en": "Title for one who dabbled in thievery.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#2278",
+   "bloco": "valuables",
+   "en": "Enemy Target Frequency --, Max HP -20%",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#2288",
+   "bloco": "valuables",
+   "en": "Title for one versed in gummy recipes.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#2343",
+   "bloco": "valuables",
+   "en": "Title for one doing half-hearted work.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#2350",
+   "bloco": "valuables",
+   "en": "Title for one who never takes detours.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#2362",
+   "bloco": "valuables",
+   "en": "Max HP +10%, Base Physical Attack +10%",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#2475",
+   "bloco": "valuables",
+   "en": "Title exclusive to Colosseum Champion.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#2484",
+   "bloco": "valuables",
+   "en": "Defeated Barbatos without using items.",
+   "bytes": 38,
+   "alvo_bytes": 32
+  },
+  {
+   "id": "valuables#1",
+   "bloco": "valuables",
+   "en": "Sorcerer's Ring. It has no power yet.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#51",
+   "bloco": "valuables",
+   "en": "Arche's secret treasure... seemingly.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#73",
+   "bloco": "valuables",
+   "en": "Mountain and Sea Delicacy Soup Recipe",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#459",
+   "bloco": "valuables",
+   "en": "Arte: multiple fireballs target foes.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#474",
+   "bloco": "valuables",
+   "en": "Arte: fires sacred bolts of judgment.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#580",
+   "bloco": "valuables",
+   "en": "Launches a shockwave slash to attack.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#1307",
+   "bloco": "valuables",
+   "en": "Arcane arte: grabs and hurls the foe.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#1344",
+   "bloco": "valuables",
+   "en": "Unleashes four flowing rapid attacks.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#1606",
+   "bloco": "valuables",
+   "en": "Calls up tree-shaped ice from ground.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#1723",
+   "bloco": "valuables",
+   "en": "Secret arte: slashes foes with a bow.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#1957",
+   "bloco": "valuables",
+   "en": "Secret arte: executes rapid shooting.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#1963",
+   "bloco": "valuables",
+   "en": "Arcane arte: executes rapid shooting.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#2119",
+   "bloco": "valuables",
+   "en": "Title for one knowing battle victory.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#2131",
+   "bloco": "valuables",
+   "en": "Title for becoming Joan's benefactor.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#2169",
+   "bloco": "valuables",
+   "en": "Skill Slots +2, Items From Enemies +2",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#2185",
+   "bloco": "valuables",
+   "en": "Escape Time -30%, Prevent Back Attack",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#2265",
+   "bloco": "valuables",
+   "en": "Title for one who bullies Polwiggles.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#2274",
+   "bloco": "valuables",
+   "en": "Enemy Target Frequency -, Max TP -20%",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#2296",
+   "bloco": "valuables",
+   "en": "Title for one versed in dish recipes.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#2300",
+   "bloco": "valuables",
+   "en": "Title for one challenging every dish.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#2306",
+   "bloco": "valuables",
+   "en": "Items From Enemies +2, Chest Drop +10",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#2341",
+   "bloco": "valuables",
+   "en": "Monster Symbol Appearance Frequency +",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#2357",
+   "bloco": "valuables",
+   "en": "Title for one obtaining Radiant gear.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#2369",
+   "bloco": "valuables",
+   "en": "Obtained Great Swordsman Radiant set.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#2487",
+   "bloco": "valuables",
+   "en": "Title for one sitting atop the world.",
+   "bytes": 37,
+   "alvo_bytes": 31
+  },
+  {
+   "id": "valuables#433",
+   "bloco": "valuables",
+   "en": "Arte: brands foes with a holy cross.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#533",
+   "bloco": "valuables",
+   "en": "Arte: fires lightning at foes ahead.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#575",
+   "bloco": "valuables",
+   "en": "Arte: fires multitude of ice lances.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#622",
+   "bloco": "valuables",
+   "en": "Arcane arte: Sword Rain and Tempest.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#943",
+   "bloco": "valuables",
+   "en": "Sweeps vacuum wave slashes from air.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#947",
+   "bloco": "valuables",
+   "en": "Slashes through opponents instantly.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#1042",
+   "bloco": "valuables",
+   "en": "Teleports backward to evade attacks.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#1212",
+   "bloco": "valuables",
+   "en": "Arcane arte: hurls chakrams forward.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#1378",
+   "bloco": "valuables",
+   "en": "Arcane arte: Dragon Swarm and Beast.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#1501",
+   "bloco": "valuables",
+   "en": "Arte: revives a KO'd ally in battle.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#1938",
+   "bloco": "valuables",
+   "en": "Arte: slightly restores HP in range.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#1996",
+   "bloco": "valuables",
+   "en": "Secret arte: rains down many arrows.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2098",
+   "bloco": "valuables",
+   "en": "Max HP +2%, Base Physical Attack +4%",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2203",
+   "bloco": "valuables",
+   "en": "Title for instantly slaying enemies.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2213",
+   "bloco": "valuables",
+   "en": "Base Agility +40, Guard Reinforce +2",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2219",
+   "bloco": "valuables",
+   "en": "Title for using skills like a demon.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2220",
+   "bloco": "valuables",
+   "en": "Exceeded 999 uses of specific skill.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2223",
+   "bloco": "valuables",
+   "en": "Title for using spells like a demon.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2224",
+   "bloco": "valuables",
+   "en": "Exceeded 999 uses of specific spell.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2328",
+   "bloco": "valuables",
+   "en": "Unlocked all classes for class swap.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2421",
+   "bloco": "valuables",
+   "en": "Obtained Twin Swordsman Radiant set.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2495",
+   "bloco": "valuables",
+   "en": "Title for an experienced adventurer.",
+   "bytes": 36,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#545",
+   "bloco": "valuables",
+   "en": "Arte: revives KO'd allies in range.",
+   "bytes": 35,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#773",
+   "bloco": "valuables",
+   "en": "Manifests steel to deliver attacks.",
+   "bytes": 35,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#892",
+   "bloco": "valuables",
+   "en": "Secret arte: hurls daggers forward.",
+   "bytes": 35,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#1940",
+   "bloco": "valuables",
+   "en": "Arte: greatly restores HP in range.",
+   "bytes": 35,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#1967",
+   "bloco": "valuables",
+   "en": "Arte: attacks foes with dark power.",
+   "bytes": 35,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2163",
+   "bloco": "valuables",
+   "en": "Title for one who reborn Luminasia.",
+   "bytes": 35,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2171",
+   "bloco": "valuables",
+   "en": "Title for mastering a single class.",
+   "bytes": 35,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2239",
+   "bloco": "valuables",
+   "en": "Total monsters slain topped 10,000.",
+   "bytes": 35,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2268",
+   "bloco": "valuables",
+   "en": "Title for one feared by Polwiggles.",
+   "bytes": 35,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2382",
+   "bloco": "valuables",
+   "en": "Max TP +20%, Base Arte Defense +40%",
+   "bytes": 35,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2417",
+   "bloco": "valuables",
+   "en": "Obtained Magic Knight Radiant gear.",
+   "bytes": 35,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2468",
+   "bloco": "valuables",
+   "en": "Title for making a Colosseum debut.",
+   "bytes": 35,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2483",
+   "bloco": "valuables",
+   "en": "Title for facing Barbatos directly.",
+   "bytes": 35,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2491",
+   "bloco": "valuables",
+   "en": "Title given to a novice adventurer.",
+   "bytes": 35,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#2503",
+   "bloco": "valuables",
+   "en": "Title for one obtaining all titles.",
+   "bytes": 35,
+   "alvo_bytes": 30
+  },
+  {
+   "id": "valuables#305",
+   "bloco": "valuables",
+   "en": "Arte: revives target ally from KO.",
+   "bytes": 34,
+   "alvo_bytes": 29
+  },
+  {
+   "id": "valuables#1565",
+   "bloco": "valuables",
+   "en": "Slams in consecutive fist strikes.",
+   "bytes": 34,
+   "alvo_bytes": 29
+  },
+  {
+   "id": "valuables#1725",
+   "bloco": "valuables",
+   "en": "Delivers a grand kick from a jump.",
+   "bytes": 34,
+   "alvo_bytes": 29
+  },
+  {
+   "id": "valuables#2143",
+   "bloco": "valuables",
+   "en": "Title for one rivaled by Barbatos.",
+   "bytes": 34,
+   "alvo_bytes": 29
+  },
+  {
+   "id": "valuables#2196",
+   "bloco": "valuables",
+   "en": "Discovered 90%+ of Equipment Book.",
+   "bytes": 34,
+   "alvo_bytes": 29
+  },
+  {
+   "id": "valuables#2215",
+   "bloco": "valuables",
+   "en": "Title for one who mastered combos.",
+   "bytes": 34,
+   "alvo_bytes": 29
+  },
+  {
+   "id": "valuables#2217",
+   "bloco": "valuables",
+   "en": "Max HP -40%, Stagger Resistance +2",
+   "bytes": 34,
+   "alvo_bytes": 29
+  },
+  {
+   "id": "valuables#2232",
+   "bloco": "valuables",
+   "en": "Total monsters slain exceeded 100.",
+   "bytes": 34,
+   "alvo_bytes": 29
+  },
+  {
+   "id": "valuables#2235",
+   "bloco": "valuables",
+   "en": "Total monsters slain topped 1,000.",
+   "bytes": 34,
+   "alvo_bytes": 29
+  },
+  {
+   "id": "valuables#2238",
+   "bloco": "valuables",
+   "en": "Title for slaying 10,000 monsters.",
+   "bytes": 34,
+   "alvo_bytes": 29
+  },
+  {
+   "id": "valuables#2318",
+   "bloco": "valuables",
+   "en": "Rare Find Rate +5, Skill Slots +10",
+   "bytes": 34,
+   "alvo_bytes": 29
+  },
+  {
+   "id": "valuables#2422",
+   "bloco": "valuables",
+   "en": "Max HP -20%, Stagger Resistance +1",
+   "bytes": 34,
+   "alvo_bytes": 29
+  },
+  {
+   "id": "valuables#410",
+   "bloco": "valuables",
+   "en": "Arte: reveals target foe's stats.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#672",
+   "bloco": "valuables",
+   "en": "Launches a fist strike to attack.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#805",
+   "bloco": "valuables",
+   "en": "Calls down lightning upon impact.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#1161",
+   "bloco": "valuables",
+   "en": "Slashes dancingly while spinning.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#1263",
+   "bloco": "valuables",
+   "en": "Slams in a qi-imbued palm strike.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#1495",
+   "bloco": "valuables",
+   "en": "Secret arte: drains enemy health.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#1499",
+   "bloco": "valuables",
+   "en": "Secret arte: drains enemy spirit.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#1611",
+   "bloco": "valuables",
+   "en": "Calls down lightning from ground.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#1841",
+   "bloco": "valuables",
+   "en": "Fires three arrows at high speed.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#2036",
+   "bloco": "valuables",
+   "en": "Showers bullets sweeping forward.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#2102",
+   "bloco": "valuables",
+   "en": "Max TP +2%, Base Magic Attack +4%",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#2109",
+   "bloco": "valuables",
+   "en": "Defeated Widdershin in Colosseum.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#2112",
+   "bloco": "valuables",
+   "en": "Title for one who defeated Goede.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#2176",
+   "bloco": "valuables",
+   "en": "Reached level 250 in all classes.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#2187",
+   "bloco": "valuables",
+   "en": "Title for investigating monsters.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#2234",
+   "bloco": "valuables",
+   "en": "Title for slaying 1,000 monsters.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#2254",
+   "bloco": "valuables",
+   "en": "Dungeon exploration exceeded 30%.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#2258",
+   "bloco": "valuables",
+   "en": "Dungeon exploration exceeded 60%.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#2262",
+   "bloco": "valuables",
+   "en": "Dungeon exploration exceeded 90%.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#2263",
+   "bloco": "valuables",
+   "en": "Rare Find Rate +5, Chest Drop +10",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#2285",
+   "bloco": "valuables",
+   "en": "Accumulated over 10,000,000 Gald.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#2406",
+   "bloco": "valuables",
+   "en": "Base Agility -100, Cast Time -20%",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#2473",
+   "bloco": "valuables",
+   "en": "Defeated Colosseum's White Devil.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#2479",
+   "bloco": "valuables",
+   "en": "Title for one who defeated Dhaos.",
+   "bytes": 33,
+   "alvo_bytes": 28
+  },
+  {
+   "id": "valuables#79",
+   "bloco": "valuables",
+   "en": "Manchu-Han Imperial Feast Recipe",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#331",
+   "bloco": "valuables",
+   "en": "Arte: conjures a massive deluge.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#363",
+   "bloco": "valuables",
+   "en": "Arte: summons meteors from afar.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#625",
+   "bloco": "valuables",
+   "en": "Executes consecutive spin kicks.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#1218",
+   "bloco": "valuables",
+   "en": "Arcane arte: rains down hammers.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#1431",
+   "bloco": "valuables",
+   "en": "Three-Stage Flash: Chasing Lotus",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#1506",
+   "bloco": "valuables",
+   "en": "Spirit Summoning Talisman: Heart",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#1631",
+   "bloco": "valuables",
+   "en": "Throws exploding kunai from air.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#1858",
+   "bloco": "valuables",
+   "en": "Gun Golden Eagle: Companion Wind",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#2113",
+   "bloco": "valuables",
+   "en": "Defeated Goede in the Colosseum.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#2116",
+   "bloco": "valuables",
+   "en": "Title for an adventure beginner.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#2175",
+   "bloco": "valuables",
+   "en": "Title for mastering all classes.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#2192",
+   "bloco": "valuables",
+   "en": "Discovered 90%+ of Monster Book.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#2200",
+   "bloco": "valuables",
+   "en": "Completed over 200 total quests.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#2281",
+   "bloco": "valuables",
+   "en": "Accumulated over 1,000,000 Gald.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#2354",
+   "bloco": "valuables",
+   "en": "Title given to an eager learner.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#2365",
+   "bloco": "valuables",
+   "en": "Obtained Swordsman Radiant gear.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#2418",
+   "bloco": "valuables",
+   "en": "Max TP -60%, TP Consumption -60%",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#2460",
+   "bloco": "valuables",
+   "en": "Title: guild with Fame Level 10.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#2461",
+   "bloco": "valuables",
+   "en": "Total member level topped 10000.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#2465",
+   "bloco": "valuables",
+   "en": "Total member level topped 14000.",
+   "bytes": 32,
+   "alvo_bytes": 27
+  },
+  {
+   "id": "valuables#402",
+   "bloco": "valuables",
+   "en": "Arte: conjures an icy blizzard.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#616",
+   "bloco": "valuables",
+   "en": "Arcane arte: Tempest and Beast.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#680",
+   "bloco": "valuables",
+   "en": "Raises physical attack briefly.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#801",
+   "bloco": "valuables",
+   "en": "Fires arrows cloaked in flames.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#1080",
+   "bloco": "valuables",
+   "en": "Delivers flowing rapid strikes.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#1428",
+   "bloco": "valuables",
+   "en": "Shreds foes with a spun weapon.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#1563",
+   "bloco": "valuables",
+   "en": "Executes two aerial spin kicks.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#1574",
+   "bloco": "valuables",
+   "en": "Flying Consecutive Roaring Fang",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#1576",
+   "bloco": "valuables",
+   "en": "Foolish Consecutive Heaven Kick",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#1647",
+   "bloco": "valuables",
+   "en": "Attacks sweeping at foe's feet.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#1681",
+   "bloco": "valuables",
+   "en": "Moon Ruin Violet Lightning Kick",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#1905",
+   "bloco": "valuables",
+   "en": "Throws photons like boomerangs.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#1980",
+   "bloco": "valuables",
+   "en": "Ascending Pan Divine Wind Flash",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2108",
+   "bloco": "valuables",
+   "en": "Title for defeating Widdershin.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2127",
+   "bloco": "valuables",
+   "en": "Title for one rivaled by Saleh.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2140",
+   "bloco": "valuables",
+   "en": "Endorsed by the spirit Celsius!",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2148",
+   "bloco": "valuables",
+   "en": "Joined Rutee's ranks with this.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2172",
+   "bloco": "valuables",
+   "en": "Reached level 250 in any class.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2211",
+   "bloco": "valuables",
+   "en": "Title for a combo intermediate.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2229",
+   "bloco": "valuables",
+   "en": "HP +3% & TP +3% on enemy defeat",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2231",
+   "bloco": "valuables",
+   "en": "Title for slaying 100 monsters.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2245",
+   "bloco": "valuables",
+   "en": "Title for a full-fledged thief.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2321",
+   "bloco": "valuables",
+   "en": "Used Character Remake 10 times.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2337",
+   "bloco": "valuables",
+   "en": "Gald Earned +5%, Chest Drop +10",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2347",
+   "bloco": "valuables",
+   "en": "Fled from battle over 10 times.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2424",
+   "bloco": "valuables",
+   "en": "Title: guild with Fame Level 1.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2428",
+   "bloco": "valuables",
+   "en": "Title: guild with Fame Level 2.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2432",
+   "bloco": "valuables",
+   "en": "Title: guild with Fame Level 3.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2436",
+   "bloco": "valuables",
+   "en": "Title: guild with Fame Level 4.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2437",
+   "bloco": "valuables",
+   "en": "Total member level topped 1000.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2440",
+   "bloco": "valuables",
+   "en": "Title: guild with Fame Level 5.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2441",
+   "bloco": "valuables",
+   "en": "Total member level topped 1400.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2444",
+   "bloco": "valuables",
+   "en": "Title: guild with Fame Level 6.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2445",
+   "bloco": "valuables",
+   "en": "Total member level topped 2000.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2448",
+   "bloco": "valuables",
+   "en": "Title: guild with Fame Level 7.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2449",
+   "bloco": "valuables",
+   "en": "Total member level topped 3000.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2452",
+   "bloco": "valuables",
+   "en": "Title: guild with Fame Level 8.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2453",
+   "bloco": "valuables",
+   "en": "Total member level topped 4500.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2456",
+   "bloco": "valuables",
+   "en": "Title: guild with Fame Level 9.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2457",
+   "bloco": "valuables",
+   "en": "Total member level topped 7000.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  },
+  {
+   "id": "valuables#2476",
+   "bloco": "valuables",
+   "en": "Cleared all Colosseum missions.",
+   "bytes": 31,
+   "alvo_bytes": 26
+  }
+ ]
+}

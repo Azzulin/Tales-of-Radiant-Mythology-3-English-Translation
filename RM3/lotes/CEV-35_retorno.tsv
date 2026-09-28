@@ -1,0 +1,225 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev35_010.scr:0	cev35_010.scr	0	マルタ	Marta Lualdi	personagem		ふんふんふふ〜〜ん♪	Hmm-hmm-hmmm~	
+cev35_010.scr:1	cev35_010.scr	1	マルタ	Marta Lualdi	personagem		　	......	
+cev35_010.scr:2	cev35_010.scr	2	マルタ	Marta Lualdi	personagem	CRLF x1	ちょっと、どこ見て歩いてるのよ？\n危ないじゃない！	Hey, watch where you're going!\nThat's dangerous!	
+cev35_010.scr:3	cev35_010.scr	3	コレット	Colette Brunel	personagem	CRLF x1	ご、ごめんなさい……。\nちょっと、道に迷っちゃって……	I-I'm so sorry...\nI kind of got lost...	
+cev35_010.scr:4	cev35_010.scr	4	マルタ	Marta Lualdi	personagem	CRLF x1	そういえば、見ない顔ね……。\n新しくここに来た人？	Come to think of it, I don't know you...\nAre you new here?	
+cev35_010.scr:5	cev35_010.scr	5	コレット	Colette Brunel	personagem	CRLF x2	うん。\n今度からここで\nお世話になる事になったんだ	Yeah.\nI'm going to be staying here\nfrom now on.	
+cev35_010.scr:6	cev35_010.scr	6	コレット	Colette Brunel	personagem	CRLF x1	私、コレット・ブルーネルだよ。\nよろしくね	I'm Colette Brunel.\nNice to meet you!	
+cev35_010.scr:7	cev35_010.scr	7	マルタ	Marta Lualdi	personagem	CRLF x1	ど……どうして私が、\nよろしくしなくちゃいけないの	W-Why should I have to be\nnice to you?!	
+cev35_010.scr:8	cev35_010.scr	8	コレット	Colette Brunel	personagem	CRLF x1	……そっか。\nそだよね、ごめんね	...Oh, right.\nYou're right, I'm sorry.	
+cev35_010.scr:9	cev35_010.scr	9	マルタ	Marta Lualdi	personagem	CRLF x1	ちょ、ちょっと。\n何で謝ってんのよ？	H-Hey!\nWhat are you apologizing for?!	
+cev35_010.scr:10	cev35_010.scr	10	マルタ	Marta Lualdi	personagem	CRLF x2	…………、\n……マルタ・ルアルディ。\nマルタでいいよ	......\n...I'm Marta Lualdi.\nJust Marta is fine.	
+cev35_010.scr:11	cev35_010.scr	11	マルタ	Marta Lualdi	personagem	CRLF x1	それで、コレットはどこに行きたかったの？\nついでだから、私が案内してあげる	Where did you want to go, Colette?\nI might as well show you the way.	
+cev35_010.scr:12	cev35_010.scr	12	コレット	Colette Brunel	personagem	CRLF x1	本当？　ありがとう！\nマルタはいい人だね	Really? Thank you!\nYou're so nice, Marta.	
+cev35_010.scr:13	cev35_010.scr	13	コレット	Colette Brunel	personagem		お友達になれて嬉しいな	I'm so happy we could be friends!	
+cev35_010.scr:14	cev35_010.scr	14	マルタ	Marta Lualdi	personagem	CRLF x1	だ、誰と誰が友達なのよっ？\nもう、この子、何か調子狂う……	W-Who said we were friends?!\nJeez, this girl totally throws me off...	
+cev35_020.scr:0	cev35_020.scr	0	イリア	Iria Animi	personagem	CRLF x1	コレット……だっけ？\n何かあの子、変わってるわよねー	Colette... was it?\nThere's something weird about her, huh?	
+cev35_020.scr:1	cev35_020.scr	1	イリア	Iria Animi	personagem	CRLF x1	ドンくさいっていうか、鈍いっていうか。\nなんっか見ててイライラすんのよねー	Clumsy, slow on the uptake...\nJust watching her gets on my nerves!	
+cev35_020.scr:2	cev35_020.scr	2	マルタ	Marta Lualdi	personagem	CRLF x1	ちょっと、コレットの事悪く言わないでよね！\n確かにあの子はドンくさいし鈍いし天然だし	Hey, don't badmouth Colette!\nSure, she is clumsy, slow, and an airhead,	
+cev35_020.scr:3	cev35_020.scr	3	マルタ	Marta Lualdi	personagem	CRLF x1	すぐ転ぶしバカみたいにお人好しだし\n犬にネコって名前付けたりするけど	she falls over, is ridiculously nice,\nand even names her dog 'Cat', but...	
+cev35_020.scr:4	cev35_020.scr	4	マルタ	Marta Lualdi	personagem		でも……あの子はいい子なんだから！	Still... she really is a good person!	
+cev35_020.scr:5	cev35_020.scr	5	イリア	Iria Animi	personagem	CRLF x1	ちょっとちょっと。\n何マジになって怒ってるワケ？	Whoa, hold on.\nWhy are you getting so worked up?	
+cev35_020.scr:6	cev35_020.scr	6	イリア	Iria Animi	personagem	CRLF x1	っていうか、マルタだって\nいっつもコレットにつっかかってんじゃない！	I mean, Marta, aren't you always\npicking fights with Colette yourself?!	
+cev35_020.scr:7	cev35_020.scr	7	マルタ	Marta Lualdi	personagem	CRLF x1	私はいいの！\nだって、コレットと私は……	That's different!\nBecause Colette and I are...	
+cev35_020.scr:8	cev35_020.scr	8	コレット	Colette Brunel	personagem	CRLF x1	あれっ、イリアとマルタ？\n二人とも、どしたの？	Oh, Iria and Marta?\nWhat are you two doing?	
+cev35_020.scr:9	cev35_020.scr	9	マルタ	Marta Lualdi	personagem	CRLF x1	べっ、別にぃ？　\n何でもないわよっ	N-Nothing!\nIt's nothing at all!	
+cev35_020.scr:10	cev35_020.scr	10	イリア	Iria Animi	personagem		あんたも色々大変なのねぇ	You've got it rough too, huh...	
+cev35_020.scr:11	cev35_020.scr	11	コレット	Colette Brunel	personagem		？？？	???	
+cev35_030.scr:0	cev35_030.scr	0	エミル	Emil Castagnier	personagem	CRLF x1	あれ……メガネが落ちてる。\nどこかで見た事ある様な……？	Huh... Someone dropped their glasses.\nI feel like I've seen these before...?	
+cev35_030.scr:1	cev35_030.scr	1	マルタ	Marta Lualdi	personagem	CRLF x1	わぁ〜〜〜高そうなメガネ！\nなかなかおしゃれな作りしてるじゃない♪	Whoa, those glasses look expensive!\nThey've got a pretty stylish design, too~	
+cev35_030.scr:2	cev35_030.scr	2	マルタ	Marta Lualdi	personagem		ね。　ちょっと掛けてみちゃおっか？	Hey, maybe I should try them on?	
+cev35_030.scr:3	cev35_030.scr	3	エミル	Emil Castagnier	personagem	CRLF x1	えっ、そんなのまずいよ。\nだってそれ……	Wait, you shouldn't do that!\nThose belong to...	
+cev35_030.scr:4	cev35_030.scr	4	エミル	Emil Castagnier	personagem		マ……マルタ？	M-Marta...?	
+cev35_030.scr:5	cev35_030.scr	5	マルタ	Marta Lualdi	personagem		……どう？	...Well?	
+cev35_030.scr:6	cev35_030.scr	6	エミル	Emil Castagnier	personagem	CRLF x2	え？　\nどう、って……\n似合ってるかどうかっていう、こと？	Huh?\nWhat do you mean 'well'...\nDo you mean if they suit you?	
+cev35_030.scr:7	cev35_030.scr	7	エミル	Emil Castagnier	personagem	CRLF x1	えっと……似合う……様な\nそうじゃない……様な……	Um... They kind of suit you,\nbut at the same time... they don't...	
+cev35_030.scr:8	cev35_030.scr	8	マルタ	Marta Lualdi	personagem	CRLF x1	ウジウジしないで、はっきり言いなさいよ。\n自分の意見も言えないの？	Stop whining and spit it out!\nCan't you even express your own opinion?!	
+cev35_030.scr:9	cev35_030.scr	9	マルタ	Marta Lualdi	personagem		この豚が！	You pig!	
+cev35_030.scr:10	cev35_030.scr	10	マルタ	Marta Lualdi	personagem	CRLF x2	ううん、違ったわね。\n豚には、自分の意志があるもの……。\nだからあなたは、豚未満ね	No, I take that back.\nPigs have wills of their own...\nSo you're less than a pig.	
+cev35_030.scr:11	cev35_030.scr	11	エミル	Emil Castagnier	personagem		あ……あの……	U-Um...	
+cev35_030.scr:12	cev35_030.scr	12	マルタ	Marta Lualdi	personagem	CRLF x1	気安く話しかけないでくれる？\n豚のくせに！	Could you not talk to me so casually?\nYou're just a pig!	
+cev35_030.scr:13	cev35_030.scr	13	エミル	Emil Castagnier	personagem		ご……ごめん……	I-I'm sorry...	
+cev35_030.scr:14	cev35_030.scr	14	エミル	Emil Castagnier	personagem		どうしたら、許してもらえる……かな	What... can I do to make it up to you?	
+cev35_030.scr:15	cev35_030.scr	15	マルタ	Marta Lualdi	personagem	CRLF x1	なぁに？\n豚の分際で、私の許しが欲しいの？	What?\nA mere pig wants my forgiveness?	
+cev35_030.scr:16	cev35_030.scr	16	マルタ	Marta Lualdi	personagem	CRLF x2	そうねぇ……。\n「僕はあなたの豚です∀」って\n百万回言ったら考えてアゲル	Let's see...\nSay 'I am your pig' a million times,\nand I might consider it.	
+cev35_030.scr:17	cev35_030.scr	17	エミル	Emil Castagnier	personagem		百万回って……そんなの……	A million times... That's impossible...	
+cev35_030.scr:18	cev35_030.scr	18	マルタ	Marta Lualdi	personagem		何？　私の言う事が聞けないの？	What? Are you defying me?!	
+cev35_030.scr:19	cev35_030.scr	19	マルタ	Marta Lualdi	personagem		だったら、さっさとどこか行っちゃえば？	Then why don't you just get lost?!	
+cev35_030.scr:20	cev35_030.scr	20	エミル	Emil Castagnier	personagem	CRLF x1	…………。\nわかったよ……	......\nAll right...	
+cev35_030.scr:21	cev35_030.scr	21	マルタ	Marta Lualdi	personagem	CRLF x1	ちょ、ちょっと……。\nほんとに行っちゃうの？	W-Wait...\nAre you really leaving?	
+cev35_030.scr:22	cev35_030.scr	22	マルタ	Marta Lualdi	personagem	CRLF x1	……もう！\n豚の分際で、私を置いてくなんて	...Jeez!\nA mere pig dares to leave me behind?!	
+cev35_030.scr:23	cev35_030.scr	23	マルタ	Marta Lualdi	personagem		……許さないんだからぁ！	...I'll never forgive you!	
+cev35_030.scr:24	cev35_030.scr	24	リヒター	Richter Abend	personagem		ここにも、ない……か	They're not here either, huh...	
+cev35_030.scr:25	cev35_030.scr	25	リヒター	Richter Abend	personagem	CRLF x2	ちっ……。\nどこに落としてしまったんだ。\nスペアがないと落ち着かん……！	Tch...\nWhere could I have dropped them?\nWithout a spare, I can't stay calm...!	
+cev35_040.scr:0	cev35_040.scr	0	マルタ	Marta Lualdi	personagem		あ〜ぁ……エミルぅ……	Aah... Emil...	
+cev35_040.scr:1	cev35_040.scr	1	ファラ	Farah Oersted	personagem	CRLF x1	マルタって、本当に\nエミルの事が大好きなんだね	You really do love Emil,\ndon't you, Marta?	
+cev35_040.scr:2	cev35_040.scr	2	マルタ	Marta Lualdi	personagem		えっ？	Eh?	
+cev35_040.scr:3	cev35_040.scr	3	マルタ	Marta Lualdi	personagem		う、うん……	Y-Yeah...	
+cev35_040.scr:4	cev35_040.scr	4	ファラ	Farah Oersted	personagem		ほんとは、エミルと一緒に来たかった？	Did you want to come with Emil instead?	
+cev35_040.scr:5	cev35_040.scr	5	マルタ	Marta Lualdi	personagem	CRLF x1	そんな……ダメだよ、こんな薄暗い場所で\nエミルと二人っきりなんて！？	No way! Being all alone with Emil\nin a dimly lit place like this?!	
+cev35_040.scr:6	cev35_040.scr	6	マルタ	Marta Lualdi	personagem	CRLF x2	でも……。\nあぁ〜ん、どうしよう。\n私、エミルとだったら……∀	But still...\nOh, what should I do?\nIf it's with Emil...	
+cev35_040.scr:7	cev35_040.scr	7	ファラ	Farah Oersted	personagem	CRLF x1	えっと……。\nジョアンさんの事忘れてない？	Um...\nDid you forget about Joan?	
+cev35_050.scr:0	cev35_050.scr	0	マルタ	Marta Lualdi	personagem		はぁ〜、もう、エミル……∀	Haaah... Oh, Emil...	
+cev35_050.scr:1	cev35_050.scr	1	イリア	Iria Animi	personagem	CRLF x1	あんた達って、いつでもどこでも\nバカップルよねぇ	You two really are lovey-dovey morons\nwherever and whenever you go.	
+cev35_050.scr:2	cev35_050.scr	2	イリア	Iria Animi	personagem	CRLF x1	ね、エミルのどこらへんが\n好きなワケ？	Hey, what exactly do you\neven like about Emil?	
+cev35_050.scr:3	cev35_050.scr	3	マルタ	Marta Lualdi	personagem		全部！	Everything!	
+cev35_050.scr:4	cev35_050.scr	4	マルタ	Marta Lualdi	personagem	CRLF x2	見た目も、容姿も、性格も声も……\nエミルのぜ〜〜んぶが大好きに\n決まってるじゃない∀	His looks, his appearance, his voice...\nObviously, I love absolutely\nevery single thing about Emil!	
+cev35_050.scr:5	cev35_050.scr	5	イリア	Iria Animi	personagem		ベタ惚れねぇ〜〜〜	Head over heels, huh...	
+cev35_050.scr:6	cev35_050.scr	6	イリア	Iria Animi	personagem	CRLF x1	あたしは、あのウジウジ見てると\nいじりたくてムズムズするけど	When I see him moping like that,\nit just makes me want to tease him.	
+cev35_050.scr:7	cev35_050.scr	7	マルタ	Marta Lualdi	personagem		何よ、ウジウジって	What do you mean, moping?!	
+cev35_050.scr:8	cev35_050.scr	8	マルタ	Marta Lualdi	personagem	CRLF x1	確かにエミルは根暗だし、卑屈だし\nたまに見てて苛々したりするけど	Sure, Emil is gloomy and self-deprecating,\nand sometimes it frustrates me to watch,	
+cev35_050.scr:9	cev35_050.scr	9	マルタ	Marta Lualdi	personagem	CRLF x2	でも、それだって\nエミルの優しさとか、いいトコの\n表れなんだから！	Still, that's just proof of\nEmil's kindness and all of\nhis wonderful qualities!	
+cev35_050.scr:10	cev35_050.scr	10	イリア	Iria Animi	personagem		は〜、なるほどねぇ	Hah, I see how it is.	
+cev35_050.scr:11	cev35_050.scr	11	イリア	Iria Animi	personagem		そこまで言うなら、あんた本物だわ……	If you say that, you're the real deal...	
+cev35_050.scr:12	cev35_050.scr	12	マルタ	Marta Lualdi	personagem	CRLF x1	えへへ。\nだってエミルは私の王子様なんだもん∀	Ehehe.\nAfter all, Emil is my prince!	
+cev35_060.scr:0	cev35_060.scr	0	マルタ	Marta Lualdi	personagem	CRLF x1	ねえ、エミル？\n私の気のせいかもしれないけど……	Hey, Emil?\nMaybe it's just my imagination, but...	
+cev35_060.scr:1	cev35_060.scr	1	マルタ	Marta Lualdi	personagem		最近、やけに走り込みしてない？	Haven't you been doing a lot of running?	
+cev35_060.scr:2	cev35_060.scr	2	ファラ	Farah Oersted	personagem		あ、それわたしも気になってたんだ	Oh, I was wondering about that too.	
+cev35_060.scr:3	cev35_060.scr	3	ファラ	Farah Oersted	personagem	CRLF x2	時々すれ違うけど\nかなり熱心にやってるよね？\n何かの修行？	I pass by you sometimes,\nand you're really working hard at it.\nIs it some kind of training?	
+cev35_060.scr:4	cev35_060.scr	4	エミル	Emil Castagnier	personagem	CRLF x1	いや……。\nそういうわけじゃないんだけど	No...\nIt's not really that, but...	
+cev35_060.scr:5	cev35_060.scr	5	エミル	Emil Castagnier	personagem	CRLF x2	この頃、戦闘から離脱する事が\n増えて来たから……。\n取り残されない様に、逃げ足の練習を……	Lately, we've been running from battle\nmore often...\nSo I'm practicing my running speed...	
+cev35_060.scr:6	cev35_060.scr	6	マルタ	Marta Lualdi	personagem	CRLF x1	そういえば、合計の逃走回数が\n３０回を超えたって聞いたけど……	Come to think of it, I heard we've fled\nfrom battle over 30 times now...	
+cev35_060.scr:7	cev35_060.scr	7	マルタ	Marta Lualdi	personagem		それで走り込みなんかしてたの？	Is that why you've been running?!	
+cev35_060.scr:8	cev35_060.scr	8	エミル	Emil Castagnier	personagem	CRLF x2	う、うん……。\nみんなの足手まといになっちゃ\nいけないって思って……	Y-Yeah...\nI didn't want to become a burden\nto everyone...	
+cev35_060.scr:9	cev35_060.scr	9	ファラ	Farah Oersted	personagem	CRLF x1	なぁんだ。\nそうだったんだね	Oh, I see!\nSo that's what it was.	
+cev35_060.scr:10	cev35_060.scr	10	マルタ	Marta Lualdi	personagem	CRLF x1	もう……、\n真面目なのか後ろ向きなのか	Jeez...\nAre you serious or just pessimistic?!	
+cev35_060.scr:11	cev35_060.scr	11	ファラ	Farah Oersted	personagem	CRLF x1	でも、それがエミルの\nいいところなんじゃない	Still, isn't that part of\nwhat makes Emil so great?	
+cev35_060.scr:12	cev35_060.scr	12	ファラ	Farah Oersted	personagem		マルタもほんとは、わかってるくせに	You know that deep down too, Marta.	
+cev35_070.scr:0	cev35_070.scr	0	マルタ	Marta Lualdi	personagem	CRLF x1	ハロルド！　\nお願いがあるの	Harold!\nI have a favor to ask!	
+cev35_070.scr:1	cev35_070.scr	1	マルタ	Marta Lualdi	personagem	CRLF x1	実は、みんなにナイショで\n作って欲しい薬があるんだけど……	Actually, there's a medicine I need,\nand it must be a secret from everyone...	
+cev35_070.scr:2	cev35_070.scr	2	ハロルド	Harold Berselius	personagem	CRLF x1	あら。\nどんな薬をご所望？	Oh?\nWhat kind of medicine do you desire?	
+cev35_070.scr:3	cev35_070.scr	3	ハロルド	Harold Berselius	personagem	CRLF x2	毒薬？　\n睡眠薬？　\nしびれ薬？	Poison?\nSleeping pills?\nParalysis drug?	
+cev35_070.scr:4	cev35_070.scr	4	ハロルド	Harold Berselius	personagem	CRLF x1	それとも超〜〜〜強力な\n惚れ薬かしら？	Or perhaps an ultra-potent\nlove potion?	
+cev35_070.scr:5	cev35_070.scr	5	マルタ	Marta Lualdi	personagem		じゃあ、惚れ薬で……∀	Then the love potion, please...	
+cev35_070.scr:6	cev35_070.scr	6	マルタ	Marta Lualdi	personagem	CRLF x1	……って、違ーーう！\nそうじゃなくって！	...Wait, NOOO!\nThat's not what I meant!	
+cev35_070.scr:7	cev35_070.scr	7	ハロルド	Harold Berselius	personagem	CRLF x1	な〜んだ、つまんない。\n違ったの？	Aw, how boring.\nThat's not it?	
+cev35_070.scr:8	cev35_070.scr	8	マルタ	Marta Lualdi	personagem	CRLF x1	最近、エミルの様子がおかしいの。\n怖い夢でうなされてるみたい……	Lately, Emil's been acting strange.\nHe keeps having terrible nightmares...	
+cev35_070.scr:9	cev35_070.scr	9	マルタ	Marta Lualdi	personagem	CRLF x1	何だか見てられなくて……。\n何とか出来ないかな？	I can't bear watching him suffer...\nIs there anything you can do?	
+cev35_070.scr:10	cev35_070.scr	10	ハロルド	Harold Berselius	personagem		そうねえ……	Well now...	
+cev35_070.scr:11	cev35_070.scr	11	ハロルド	Harold Berselius	personagem		出来ない事もないけど	It's not entirely impossible.	
+cev35_070.scr:12	cev35_070.scr	12	マルタ	Marta Lualdi	personagem		本当？	Really?	
+cev35_070.scr:13	cev35_070.scr	13	ハロルド	Harold Berselius	personagem	CRLF x1	このハロルド博士に不可能の文字はないわ。\nま、どーんと任せといて♪	Nothing is impossible for Dr. Harold!\nJust leave it all to me!	
+cev35_070.scr:14	cev35_070.scr	14	マルタ	Marta Lualdi	personagem		やったあ！	Yay!	
+cev35_070.scr:15	cev35_070.scr	15	マルタ	Marta Lualdi	personagem		ハロルド、ありがとね！！	Thank you so much, Harold!!	
+cev35_080.scr:0	cev35_080.scr	0	エミル	Emil Castagnier	personagem		痛っ！	Ouch!	
+cev35_080.scr:1	cev35_080.scr	1	マルタ	Marta Lualdi	personagem	CRLF x1	どうしたの、エミル！\n大丈夫！？	What's wrong, Emil?!\nAre you okay?!	
+cev35_080.scr:2	cev35_080.scr	2	エミル	Emil Castagnier	personagem	CRLF x1	あ、足の裏に……、\n何か刺さった……みたい……	S-Something... stabbed into...\nthe sole of my foot, I think...	
+cev35_080.scr:3	cev35_080.scr	3	マルタ	Marta Lualdi	personagem	CRLF x1	え！！　\n見せて！	What?!\nLet me see!	
+cev35_080.scr:4	cev35_080.scr	4	マルタ	Marta Lualdi	personagem	CRLF x2	……、\nこれは、画びょう……？\n誰かが片付け忘れたのね	...\nIs this a thumbtack...?\nSomeone must have forgotten to clean up.	
+cev35_080.scr:5	cev35_080.scr	5	マルタ	Marta Lualdi	personagem	CRLF x1	……、これでよしっ、と。\nもう、大丈夫だよ。　エミル	...There, all done.\nYou're okay now, Emil.	
+cev35_080.scr:6	cev35_080.scr	6	エミル	Emil Castagnier	personagem	CRLF x1	ふぅ〜、ビックリした……。\n危ないなぁ、もう……	Phew, that scared me...\nThat was so dangerous, jeez...	
+cev35_080.scr:7	cev35_080.scr	7	マルタ	Marta Lualdi	personagem	CRLF x1	後で、ちゃんと\n消毒してあげるからね∀	I'll disinfect it properly\nfor you later!	
+cev35_080.scr:8	cev35_080.scr	8	エミル	Emil Castagnier	personagem	CRLF x1	……うん。\nありがとう、マルタ	...Yeah.\nThank you, Marta.	
+cev35_080.scr:9	cev35_080.scr	9	マルタ	Marta Lualdi	personagem	CRLF x1	に、しても……誰よ、こんな所に\n画びょう置いていったの！	Still... who leaves a thumbtack\nlying around in a place like this?!	
+cev35_080.scr:10	cev35_080.scr	10	マルタ	Marta Lualdi	personagem		見つけたらタダじゃおかないんだから！	When I find them, they'll pay for this!	
+cev35_090.scr:0	cev35_090.scr	0	エミル	Emil Castagnier	personagem		はぁ……	*sigh*...	
+cev35_090.scr:1	cev35_090.scr	1	マルタ	Marta Lualdi	personagem		エミル……まだ、よく眠れないの？	Emil... Still having trouble sleeping?	
+cev35_090.scr:2	cev35_090.scr	2	エミル	Emil Castagnier	personagem		あ、ううん……そうじゃないんだ	Oh, no... That's not it.	
+cev35_090.scr:3	cev35_090.scr	3	エミル	Emil Castagnier	personagem	CRLF x2	どうも最近、\nもう一人の僕が勝手に出てきて、\nあちこち歩き回ってるみたいで	Lately, it seems the other me\ncomes out on his own\nand wanders around all over the place.	
+cev35_090.scr:4	cev35_090.scr	4	マルタ	Marta Lualdi	personagem	CRLF x1	ええっ！？\nだって、戦闘中じゃないのに？	What?!\nEven when you're not in battle?!	
+cev35_090.scr:5	cev35_090.scr	5	エミル	Emil Castagnier	personagem	CRLF x1	クロエさん、ヒスイさん、\nスタンさん、アニー	Chloe, Hisui,\nStahn, and Annie...	
+cev35_090.scr:6	cev35_090.scr	6	エミル	Emil Castagnier	personagem	CRLF x1	これだけ目撃者がいるんだ、\n間違いないよ	With this many witnesses,\nthere's no doubt about it.	
+cev35_090.scr:7	cev35_090.scr	7	マルタ	Marta Lualdi	personagem		ハロルドの薬の副作用ってやつね……	A side effect of Harold's medicine...	
+cev35_090.scr:8	cev35_090.scr	8	エミル	Emil Castagnier	personagem	CRLF x2	うん……。\nハロルドさんは、そろそろ症状は\n落ち着いてくるって言ってたけど……	Yeah... Harold said\nthe symptoms should be calming down soon,\nbut even so...	
+cev35_090.scr:9	cev35_090.scr	9	エミル	Emil Castagnier	personagem	CRLF x1	何か、僕……みんなの信用を\n一気に失った気分……	I feel like I've completely lost\neveryone's trust all at once...	
+cev35_090.scr:10	cev35_090.scr	10	マルタ	Marta Lualdi	personagem	CRLF x2	そ、そんな事ないよ！\nもう一人のエミルだって、ちょっと\n荒っぽいってだけで、悪い人じゃないし	T-That's not true!\nThe other Emil might be a bit rough,\nbut he isn't a bad person!	
+cev35_090.scr:11	cev35_090.scr	11	エミル	Emil Castagnier	personagem		そうかなぁ……	I wonder...	
+cev35_100.scr:0	cev35_100.scr	0	エミル	Emil Castagnier	personagem	CRLF x1	そういえば、\nまた新しい人が増えたみたいだね	Come to think of it,\nit looks like more people have joined.	
+cev35_100.scr:1	cev35_100.scr	1	マルタ	Marta Lualdi	personagem	CRLF x2	あ……女の子になら、さっき会ったよ。\n道に迷ってたみたいだったから、\n案内してあげたんだけど	Oh, I met a girl earlier.\nShe seemed to be lost,\nso I showed her the way.	
+cev35_100.scr:2	cev35_100.scr	2	マルタ	Marta Lualdi	personagem	CRLF x1	何か、ふわ〜っとした\n不思議な感じの子で……	She had this airy,\nmysterious vibe about her...	
+cev35_100.scr:3	cev35_100.scr	3	コレット	Colette Brunel	personagem		あっ	Ah!	
+cev35_100.scr:4	cev35_100.scr	4	コレット	Colette Brunel	personagem		また会ったね、マルタ	We meet again, Marta!	
+cev35_100.scr:5	cev35_100.scr	5	マルタ	Marta Lualdi	personagem		コレット！？	Colette?!	
+cev35_100.scr:6	cev35_100.scr	6	コレット	Colette Brunel	personagem	CRLF x1	ロイド。\nさっき話したマルタだよ	Lloyd.\nThis is Marta, who I told you about.	
+cev35_100.scr:7	cev35_100.scr	7	ロイド	Lloyd Irving	personagem	CRLF x1	そっか。\nちょうど良かった	I see.\nThat's good timing.	
+cev35_100.scr:8	cev35_100.scr	8	ロイド	Lloyd Irving	personagem	CRLF x2	これから挨拶に行こうと思ってたんだ。\nさっきは、コレットが\n世話になったみたいだな	I was just going to say hello.\nLooks like you helped Colette out\nearlier, huh?	
+cev35_100.scr:9	cev35_100.scr	9	ロイド	Lloyd Irving	personagem		助かったぜ、ありがとな！	That really helped, thanks a lot!	
+cev35_100.scr:10	cev35_100.scr	10	マルタ	Marta Lualdi	personagem		い、いえ……	N-Not at all...	
+cev35_100.scr:11	cev35_100.scr	11	ロイド	Lloyd Irving	personagem	CRLF x2	俺、ロイド。\nコレットと一緒に、このギルドに\n参加させてもらう事になったんだ	I'm Lloyd.\nColette and I just joined up\nwith this guild.	
+cev35_100.scr:12	cev35_100.scr	12	ロイド	Lloyd Irving	personagem		これから、よろしくな	Nice to meet you from here on!	
+cev35_100.scr:13	cev35_100.scr	13	エミル	Emil Castagnier	personagem	CRLF x1	あ……僕は、エミルです。\nこちらこそ、よろしくお願いします	Ah... I'm Emil.\nThe pleasure is ours, nice to meet you.	
+cev35_100.scr:14	cev35_100.scr	14	ロイド	Lloyd Irving	personagem	CRLF x1	エミルか。\n仲良くしてくれよな	Emil, huh?\nLet's be good friends!	
+cev35_100.scr:15	cev35_100.scr	15	ロイド	Lloyd Irving	personagem	CRLF x1	それじゃ、\nそろそろ行こうぜ、コレット	Well then,\nwe should get going, Colette.	
+cev35_100.scr:16	cev35_100.scr	16	コレット	Colette Brunel	personagem		うん	Yeah.	
+cev35_100.scr:17	cev35_100.scr	17	コレット	Colette Brunel	personagem		またね、二人とも	See you two later!	
+cev35_100.scr:18	cev35_100.scr	18	エミル	Emil Castagnier	personagem	CRLF x1	いい人達みたいだね。\n二人とも、話しやすそうで良かった	They seem like nice people.\nI'm glad they're both so easy to talk to.	
+cev35_100.scr:19	cev35_100.scr	19	マルタ	Marta Lualdi	personagem	CRLF x2	そう？　\n……私はちょっと苦手かも。\nどうも調子が狂うっていうか……	You think so?\n...I'm not really good with them.\nThey kind of throw me off my game...	
+cev35_100.scr:20	cev35_100.scr	20	エミル	Emil Castagnier	personagem	CRLF x1	……珍しいね。\nマルタがそんな風に言うなんて	...That's unusual.\nFor you to say something like that, Marta.	
+cev35_100.scr:21	cev35_100.scr	21	マルタ	Marta Lualdi	personagem	CRLF x1	そう……だよね。\nまだ全然、話した事もない相手なのに	Yeah... you're right.\nEven though we haven't talked much yet.	
+cev35_100.scr:22	cev35_100.scr	22	マルタ	Marta Lualdi	personagem	CRLF x2	う〜〜ん。\nでも何だか、どこかで会ってたり……\n何かがあったりした様な……	Hrmmm...\nStill, I feel like we met somewhere...\nor like something happened...	
+cev35_100.scr:23	cev35_100.scr	23	エミル	Emil Castagnier	personagem		あははは、そんな、まさか	Ahahaha, no way, that's impossible.	
+cev35_100.scr:24	cev35_100.scr	24	マルタ	Marta Lualdi	personagem		そうだよね……考え過ぎよね	You're right... I'm overthinking it.	
+cev35_100.scr:25	cev35_100.scr	25	マルタ	Marta Lualdi	personagem		でも、何か引っかかるなぁ……？	Still, something's bugging me...?	
+cev35_200.scr:0	cev35_200.scr	0	マルタ	Marta Lualdi	personagem	CRLF x1	通常。\n	Normal.\n	
+cev35_200.scr:1	cev35_200.scr	1	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:2	cev35_200.scr	2	マルタ	Marta Lualdi	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev35_200.scr:3	cev35_200.scr	3	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:4	cev35_200.scr	4	マルタ	Marta Lualdi	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev35_200.scr:5	cev35_200.scr	5	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:6	cev35_200.scr	6	マルタ	Marta Lualdi	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev35_200.scr:7	cev35_200.scr	7	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:8	cev35_200.scr	8	マルタ	Marta Lualdi	personagem	CRLF x1	真剣。\n	Serious.\n	
+cev35_200.scr:9	cev35_200.scr	9	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:10	cev35_200.scr	10	マルタ	Marta Lualdi	personagem	CRLF x1	怒り２。\n	Anger 2.\n	
+cev35_200.scr:11	cev35_200.scr	11	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:12	cev35_200.scr	12	マルタ	Marta Lualdi	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev35_200.scr:13	cev35_200.scr	13	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:14	cev35_200.scr	14	マルタ	Marta Lualdi	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev35_200.scr:15	cev35_200.scr	15	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:16	cev35_200.scr	16	マルタ	Marta Lualdi	personagem	CRLF x1	妄想。\n	Daydreaming.\n	
+cev35_200.scr:17	cev35_200.scr	17	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:18	cev35_200.scr	18	マルタ	Marta Lualdi	personagem	CRLF x1	眼鏡通常。\n	Glasses normal.\n	
+cev35_200.scr:19	cev35_200.scr	19	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:20	cev35_200.scr	20	マルタ	Marta Lualdi	personagem	CRLF x1	眼鏡皮肉。\n	Glasses sarcasm.\n	
+cev35_200.scr:21	cev35_200.scr	21	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:22	cev35_200.scr	22	マルタ	Marta Lualdi	personagem	CRLF x1	眼鏡笑い。\n	Glasses laughter.\n	
+cev35_200.scr:23	cev35_200.scr	23	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:24	cev35_200.scr	24	マルタ	Marta Lualdi	personagem	CRLF x1	通常。\n	Normal.\n	
+cev35_200.scr:25	cev35_200.scr	25	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:26	cev35_200.scr	26	マルタ	Marta Lualdi	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev35_200.scr:27	cev35_200.scr	27	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:28	cev35_200.scr	28	マルタ	Marta Lualdi	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev35_200.scr:29	cev35_200.scr	29	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:30	cev35_200.scr	30	マルタ	Marta Lualdi	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev35_200.scr:31	cev35_200.scr	31	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:32	cev35_200.scr	32	マルタ	Marta Lualdi	personagem	CRLF x1	真剣。\n	Serious.\n	
+cev35_200.scr:33	cev35_200.scr	33	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:34	cev35_200.scr	34	マルタ	Marta Lualdi	personagem	CRLF x1	怒り２。\n	Anger 2.\n	
+cev35_200.scr:35	cev35_200.scr	35	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:36	cev35_200.scr	36	マルタ	Marta Lualdi	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev35_200.scr:37	cev35_200.scr	37	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:38	cev35_200.scr	38	マルタ	Marta Lualdi	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev35_200.scr:39	cev35_200.scr	39	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:40	cev35_200.scr	40	マルタ	Marta Lualdi	personagem	CRLF x1	妄想。\n	Daydreaming.\n	
+cev35_200.scr:41	cev35_200.scr	41	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:42	cev35_200.scr	42	マルタ	Marta Lualdi	personagem	CRLF x1	眼鏡通常。\n	Glasses normal.\n	
+cev35_200.scr:43	cev35_200.scr	43	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:44	cev35_200.scr	44	マルタ	Marta Lualdi	personagem	CRLF x1	眼鏡皮肉。\n	Glasses sarcasm.\n	
+cev35_200.scr:45	cev35_200.scr	45	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:46	cev35_200.scr	46	マルタ	Marta Lualdi	personagem	CRLF x1	眼鏡笑い。\n	Glasses laughter.\n	
+cev35_200.scr:47	cev35_200.scr	47	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:48	cev35_200.scr	48	マルタ	Marta Lualdi	personagem	CRLF x1	通常。\n	Normal.\n	
+cev35_200.scr:49	cev35_200.scr	49	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:50	cev35_200.scr	50	マルタ	Marta Lualdi	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev35_200.scr:51	cev35_200.scr	51	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:52	cev35_200.scr	52	マルタ	Marta Lualdi	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev35_200.scr:53	cev35_200.scr	53	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:54	cev35_200.scr	54	マルタ	Marta Lualdi	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev35_200.scr:55	cev35_200.scr	55	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:56	cev35_200.scr	56	マルタ	Marta Lualdi	personagem	CRLF x1	真剣。\n	Serious.\n	
+cev35_200.scr:57	cev35_200.scr	57	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:58	cev35_200.scr	58	マルタ	Marta Lualdi	personagem	CRLF x1	怒り２。\n	Anger 2.\n	
+cev35_200.scr:59	cev35_200.scr	59	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:60	cev35_200.scr	60	マルタ	Marta Lualdi	personagem	CRLF x1	驚き。\n	Surprise.\n	
+cev35_200.scr:61	cev35_200.scr	61	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:62	cev35_200.scr	62	マルタ	Marta Lualdi	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev35_200.scr:63	cev35_200.scr	63	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:64	cev35_200.scr	64	マルタ	Marta Lualdi	personagem	CRLF x1	妄想。\n	Daydreaming.\n	
+cev35_200.scr:65	cev35_200.scr	65	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:66	cev35_200.scr	66	マルタ	Marta Lualdi	personagem	CRLF x1	眼鏡通常。\n	Glasses normal.\n	
+cev35_200.scr:67	cev35_200.scr	67	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:68	cev35_200.scr	68	マルタ	Marta Lualdi	personagem	CRLF x1	眼鏡皮肉。\n	Glasses sarcasm.\n	
+cev35_200.scr:69	cev35_200.scr	69	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev35_200.scr:70	cev35_200.scr	70	マルタ	Marta Lualdi	personagem	CRLF x1	眼鏡笑い。\n	Glasses laughter.\n	
+cev35_200.scr:71	cev35_200.scr	71	マルタ	Marta Lualdi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	

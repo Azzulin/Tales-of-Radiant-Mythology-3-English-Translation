@@ -1,0 +1,119 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev57_010.scr:0	cev57_010.scr	0	エミル	Emil Castagnier	personagem	CRLF x1	カイウス？　\n入るよ？		
+cev57_010.scr:1	cev57_010.scr	1	エミル	Emil Castagnier	personagem		もう、いるなら返事くらい……		
+cev57_010.scr:2	cev57_010.scr	2	エミル	Emil Castagnier	personagem	CRLF x1	……あれ？　\n何やってるの？		
+cev57_010.scr:3	cev57_010.scr	3	カイウス	Caius Qualls	personagem	CRLF x1	ああ、エミルか。\nちょっとコレを改良してたんだ		
+cev57_010.scr:4	cev57_010.scr	4	エミル	Emil Castagnier	personagem		これって……ブーメラン？		
+cev57_010.scr:5	cev57_010.scr	5	カイウス	Caius Qualls	personagem	CRLF x1	ああ。\n厚紙で作ったんだ		
+cev57_010.scr:6	cev57_010.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	これでも結構飛ぶんだぞ。\n見てろよ？		
+cev57_010.scr:7	cev57_010.scr	7	エミル	Emil Castagnier	personagem		わぁ、すごいすごい！		
+cev57_010.scr:8	cev57_010.scr	8	カイウス	Caius Qualls	personagem	CRLF x1	へへ。\nそうだろ？		
+cev57_010.scr:9	cev57_010.scr	9	カイウス	Caius Qualls	personagem	CRLF x1	投げる時はオーバースローでコンパクトに。\n手首のスナップをきかせるのがコツなんだ		
+cev57_010.scr:10	cev57_010.scr	10	カイウス	Caius Qualls	personagem	CRLF x1	ちなみに、\nなぜかこっちを内側に構えると吉		
+cev57_010.scr:11	cev57_010.scr	11	エミル	Emil Castagnier	personagem	CRLF x1	へえ、そうなんだ。\nでも、どうしてなの？		
+cev57_010.scr:12	cev57_010.scr	12	カイウス	Caius Qualls	personagem	CRLF x2	そうすると、驚く程帰ってくる。\n飛距離も部屋の中でやるのに\nちょうどいいしな		
+cev57_010.scr:13	cev57_010.scr	13	エミル	Emil Castagnier	personagem	CRLF x1	なるほどね。\nいいなぁ〜		
+cev57_010.scr:14	cev57_010.scr	14	エミル	Emil Castagnier	personagem		ねえ、僕にもやらせてよ		
+cev57_010.scr:15	cev57_010.scr	15	カイウス	Caius Qualls	personagem	CRLF x2	いいぜ。\n良かったら今度、\nエミルの分も作ってやるよ		
+cev57_010.scr:16	cev57_010.scr	16	カイウス	Caius Qualls	personagem		それとも、一緒に作ってみるか？		
+cev57_010.scr:17	cev57_010.scr	17	エミル	Emil Castagnier	personagem	CRLF x2	いいの？\nじゃあ今度、\n材料を持って遊びに来るよ		
+cev57_010.scr:18	cev57_010.scr	18	カイウス	Caius Qualls	personagem	CRLF x2	ああ。\n素材選びは重要だから\nゲンミツに頼むぜ		
+cev57_010.scr:19	cev57_010.scr	19	カイウス	Caius Qualls	personagem		待ってるから、いつでも来いよ		
+cev57_010.scr:20	cev57_010.scr	20	エミル	Emil Castagnier	personagem		うん		
+cev57_010.scr:21	cev57_010.scr	21	エミル	Emil Castagnier	personagem		約束だよ！		
+cev57_020.scr:0	cev57_020.scr	0	カイウス	Caius Qualls	personagem		あれっ……あれ？		
+cev57_020.scr:1	cev57_020.scr	1	エミル	Emil Castagnier	personagem		何探してるの？		
+cev57_020.scr:2	cev57_020.scr	2	カイウス	Caius Qualls	personagem	CRLF x2	うん？　いや……\n確かさっきまでこの辺に\nペンがあったはずなんだけど……		
+cev57_020.scr:3	cev57_020.scr	3	カイウス	Caius Qualls	personagem		どこにやったかなぁ……		
+cev57_020.scr:4	cev57_020.scr	4	エミル	Emil Castagnier	personagem		帯の中は見た？		
+cev57_020.scr:5	cev57_020.scr	5	カイウス	Caius Qualls	personagem	CRLF x1	いや、さすがに帯の中には\nないだろ……う？		
+cev57_020.scr:6	cev57_020.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	あ。　\nあった！？		
+cev57_020.scr:7	cev57_020.scr	7	エミル	Emil Castagnier	personagem	CRLF x2	やっぱり。\nカイウスって、時々帯に\n手を入れるクセがあるよね？		
+cev57_020.scr:8	cev57_020.scr	8	エミル	Emil Castagnier	personagem	CRLF x1	その時に間違えて、\nしまっちゃったんじゃないかな		
+cev57_020.scr:9	cev57_020.scr	9	カイウス	Caius Qualls	personagem	CRLF x1	エミルって……見てない様で\n結構人の事、見てるよなぁ		
+cev57_020.scr:10	cev57_020.scr	10	エミル	Emil Castagnier	personagem		そ、そんな事ないよ……		
+cev57_020.scr:11	cev57_020.scr	11	カイウス	Caius Qualls	personagem		とにかく、助かったぜ		
+cev57_020.scr:12	cev57_020.scr	12	カイウス	Caius Qualls	personagem		ありがとな		
+cev57_020.scr:13	cev57_020.scr	13	エミル	Emil Castagnier	personagem		……どういたしまして		
+cev57_030.scr:0	cev57_030.scr	0	カイウス	Caius Qualls	personagem		……エミル？		
+cev57_030.scr:1	cev57_030.scr	1	カイウス	Caius Qualls	personagem		おい、エミルどこだ？		
+cev57_030.scr:2	cev57_030.scr	2	(ator 200)	(ator 200)	desconhecido		…………！		
+cev57_030.scr:3	cev57_030.scr	3	カイウス	Caius Qualls	personagem		え、声みたいな音が聞こえた……？		
+cev57_030.scr:4	cev57_030.scr	4	カイウス	Caius Qualls	personagem		そこか、エミルッ！？		
+cev57_030.scr:5	cev57_030.scr	5	エミル	Emil Castagnier	personagem		…………		
+cev57_030.scr:6	cev57_030.scr	6	カイウス	Caius Qualls	personagem	CRLF x2	え？\n上からでっかい雪が落ちてきて\n埋まった？		
+cev57_030.scr:7	cev57_030.scr	7	カイウス	Caius Qualls	personagem		ったく、気を付けろよな……って		
+cev57_030.scr:8	cev57_030.scr	8	カイウス	Caius Qualls	personagem	CRLF x1	おい、寝るなエミル！\n死んじまうぞ、おい！？		
+cev57_030.scr:9	cev57_030.scr	9	エミル	Emil Castagnier	personagem		　　　　　		
+cev57_040.scr:0	cev57_040.scr	0	ファラ	Farah Oersted	personagem	CRLF x1	リッドー！\nまだぁ？		
+cev57_040.scr:1	cev57_040.scr	1	リッド	Reid Hershel	personagem		今やってるよ！		
+cev57_040.scr:2	cev57_040.scr	2	リッド	Reid Hershel	personagem		ったく、そんなに急かすなよ……		
+cev57_040.scr:3	cev57_040.scr	3	カイウス	Caius Qualls	personagem	CRLF x1	何やってるんだ？\n……大掃除か？		
+cev57_040.scr:4	cev57_040.scr	4	リッド	Reid Hershel	personagem		まぁ、そんなもんだ		
+cev57_040.scr:5	cev57_040.scr	5	リッド	Reid Hershel	personagem	CRLF x2	船内掃除の人手が集まらなくて\nアンジュが困ってるんだと。\nんで、オレもその手伝いしてるってわけ		
+cev57_040.scr:6	cev57_040.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	へえ、えらいな。\n手伝いなんて		
+cev57_040.scr:7	cev57_040.scr	7	リッド	Reid Hershel	personagem	CRLF x2	オレが自主的にすると思うか？\nいつものファラの後始末だよ。\nったく……		
+cev57_040.scr:8	cev57_040.scr	8	カイウス	Caius Qualls	personagem	CRLF x2	でも、リッドって\n何だかんだでファラの為に\n色々頑張ってるよな		
+cev57_040.scr:9	cev57_040.scr	9	カイウス	Caius Qualls	personagem	CRLF x1	オレは、ルビアにそんなの頼まれたって\n手伝いなんかしないぜ、きっと		
+cev57_040.scr:10	cev57_040.scr	10	リッド	Reid Hershel	personagem	CRLF x1	そうかぁ？　\nそうでも……		
+cev57_040.scr:11	cev57_040.scr	11	リッド	Reid Hershel	personagem		……あるかもな		
+cev57_040.scr:12	cev57_040.scr	12	リッド	Reid Hershel	personagem		ま、色々あんだよ		
+cev57_040.scr:13	cev57_040.scr	13	ファラ	Farah Oersted	personagem	CRLF x1	もう、リッドぉ！\n何してるの？		
+cev57_040.scr:14	cev57_040.scr	14	ファラ	Farah Oersted	personagem	CRLF x1	リッドのゴミで最後なんだから\nみんな待ってるよ		
+cev57_040.scr:15	cev57_040.scr	15	リッド	Reid Hershel	personagem	CRLF x1	あー、わかったわかった。\nすぐ行くって		
+cev57_040.scr:16	cev57_040.scr	16	リッド	Reid Hershel	personagem		じゃあな		
+cev57_040.scr:17	cev57_040.scr	17	カイウス	Caius Qualls	personagem	CRLF x1	何か、リッドって……\n余裕あるよなぁ		
+cev57_050.scr:0	cev57_050.scr	0	スパーダ	Spada Belforma	personagem	CRLF x1	よぉ、カイウス！\n調子はどーよ？		
+cev57_050.scr:1	cev57_050.scr	1	カイウス	Caius Qualls	personagem	CRLF x1	調子？\n別に、いつも通りだぜ		
+cev57_050.scr:2	cev57_050.scr	2	スパーダ	Spada Belforma	personagem	CRLF x1	またまたぁ。\nしらばっくれんなよぉ		
+cev57_050.scr:3	cev57_050.scr	3	スパーダ	Spada Belforma	personagem	CRLF x1	お前、ルビアと毎晩\n部屋に二人っきりなんだぞ？		
+cev57_050.scr:4	cev57_050.scr	4	スパーダ	Spada Belforma	personagem	CRLF x1	何かこう、ねェのかよ？\nドキドキする展開とかよぉ！		
+cev57_050.scr:5	cev57_050.scr	5	カイウス	Caius Qualls	personagem		あ、あるわけないだろ！		
+cev57_050.scr:6	cev57_050.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	大体、夜はオレ\n別のとこで寝てたりするし		
+cev57_050.scr:7	cev57_050.scr	7	スパーダ	Spada Belforma	personagem	CRLF x1	あ？\nどこで寝てんだよ？		
+cev57_050.scr:8	cev57_050.scr	8	カイウス	Caius Qualls	personagem		キュッポ達の所		
+cev57_050.scr:9	cev57_050.scr	9	カイウス	Caius Qualls	personagem		毛皮がモフモフであったかいんだぜ！		
+cev57_050.scr:10	cev57_050.scr	10	スパーダ	Spada Belforma	personagem	CRLF x2	ああ……。\nだから、時々ラッコに\n同化してんのか、お前……		
+cev57_060.scr:0	cev57_060.scr	0	カイウス	Caius Qualls	personagem	CRLF x1	霊峰アブソールの\n「霊峰」って、どういう意味なんだ？		
+cev57_060.scr:1	cev57_060.scr	1	クレス	Cress Albane	personagem	CRLF x1	信仰の対象となったり、神仏をまつった\n山の事をそう呼ぶみたいだよ		
+cev57_060.scr:2	cev57_060.scr	2	カイウス	Caius Qualls	personagem	CRLF x1	……そうなのか。\nなるほどな		
+cev57_060.scr:3	cev57_060.scr	3	ルビア	Rubia Natwick	personagem	CRLF x1	カイウス、「霊峰」の「霊」を\nお化けの「霊」と勘違いしたんでしょう		
+cev57_060.scr:4	cev57_060.scr	4	カイウス	Caius Qualls	personagem		そ、そんなわけあるか！		
+cev57_060.scr:5	cev57_060.scr	5	ルビア	Rubia Natwick	personagem	CRLF x2	そうかしら。\nじゃあどうして、わざわざ\n霊峰の意味を聞いたりしたの？		
+cev57_060.scr:6	cev57_060.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	……普通に、疑問に思ったんだよ。\n別におかしくないだろ		
+cev57_060.scr:7	cev57_060.scr	7	ルビア	Rubia Natwick	personagem	CRLF x2	いつも、授業をサボったり\n居眠りしたりしてるのに？　\n今だけ？		
+cev57_060.scr:8	cev57_060.scr	8	カイウス	Caius Qualls	personagem	CRLF x1	何だよ。\nいちいち引っかかる言い方だな		
+cev57_060.scr:9	cev57_060.scr	9	ルビア	Rubia Natwick	personagem	CRLF x2	引っかかってるのはカイウスでしょう？\nちょっとは素直に、お化けが怖いって\n認めたらどうなのよ		
+cev57_060.scr:10	cev57_060.scr	10	カイウス	Caius Qualls	personagem		だから、違うって……！		
+cev57_060.scr:11	cev57_060.scr	11	クレス	Cress Albane	personagem	CRLF x1	まあまあ。\nもう、その話はいいじゃないか		
+cev57_060.scr:12	cev57_060.scr	12	クレス	Cress Albane	personagem	CRLF x2	喧嘩する様な話じゃないだろう？\n二人とも、もう少し素直に\n相手の話を聞かないとな		
+cev57_200.scr:0	cev57_200.scr	0	カイウス	Caius Qualls	personagem	CRLF x1	通常。\n		
+cev57_200.scr:1	cev57_200.scr	1	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev57_200.scr:2	cev57_200.scr	2	カイウス	Caius Qualls	personagem	CRLF x1	笑い。\n		
+cev57_200.scr:3	cev57_200.scr	3	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev57_200.scr:4	cev57_200.scr	4	カイウス	Caius Qualls	personagem	CRLF x1	怒り。\n		
+cev57_200.scr:5	cev57_200.scr	5	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev57_200.scr:6	cev57_200.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	悲しみ。\n		
+cev57_200.scr:7	cev57_200.scr	7	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev57_200.scr:8	cev57_200.scr	8	カイウス	Caius Qualls	personagem	CRLF x1	リカンツ。\n		
+cev57_200.scr:9	cev57_200.scr	9	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev57_200.scr:10	cev57_200.scr	10	カイウス	Caius Qualls	personagem	CRLF x1	通常。\n		
+cev57_200.scr:11	cev57_200.scr	11	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev57_200.scr:12	cev57_200.scr	12	カイウス	Caius Qualls	personagem	CRLF x1	笑い。\n		
+cev57_200.scr:13	cev57_200.scr	13	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev57_200.scr:14	cev57_200.scr	14	カイウス	Caius Qualls	personagem	CRLF x1	怒り。\n		
+cev57_200.scr:15	cev57_200.scr	15	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev57_200.scr:16	cev57_200.scr	16	カイウス	Caius Qualls	personagem	CRLF x1	悲しみ。\n		
+cev57_200.scr:17	cev57_200.scr	17	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev57_200.scr:18	cev57_200.scr	18	カイウス	Caius Qualls	personagem	CRLF x1	リカンツ。\n		
+cev57_200.scr:19	cev57_200.scr	19	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev57_200.scr:20	cev57_200.scr	20	カイウス	Caius Qualls	personagem	CRLF x1	通常。\n		
+cev57_200.scr:21	cev57_200.scr	21	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev57_200.scr:22	cev57_200.scr	22	カイウス	Caius Qualls	personagem	CRLF x1	笑い。\n		
+cev57_200.scr:23	cev57_200.scr	23	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev57_200.scr:24	cev57_200.scr	24	カイウス	Caius Qualls	personagem	CRLF x1	怒り。\n		
+cev57_200.scr:25	cev57_200.scr	25	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev57_200.scr:26	cev57_200.scr	26	カイウス	Caius Qualls	personagem	CRLF x1	悲しみ。\n		
+cev57_200.scr:27	cev57_200.scr	27	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev57_200.scr:28	cev57_200.scr	28	カイウス	Caius Qualls	personagem	CRLF x1	リカンツ。\n		
+cev57_200.scr:29	cev57_200.scr	29	カイウス	Caius Qualls	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

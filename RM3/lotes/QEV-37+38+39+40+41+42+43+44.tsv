@@ -1,0 +1,315 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev37_010.scr:0	qev37_010.scr	0	ジュディス	Judith	personagem	CRLF x1	○○、\nちょっといいかしら？		
+qev37_010.scr:1	qev37_010.scr	1	ジュディス	Judith	personagem	CRLF x1	ヴェラトローパの壁画の事、\n覚えてる？		
+qev37_010.scr:2	qev37_010.scr	2	ジュディス	Judith	personagem	CRLF x1	ほら、光まとうものに送りし輝ける光器、\n「レディアント」の事よ		
+qev37_010.scr:3	qev37_010.scr	3	ジュディス	Judith	personagem	CRLF x2	あれから、何度かヴェラトローパへ行って、\nあの壁画の情報を読んで、\nレディアントがある場所がわかったの		
+qev37_010.scr:4	qev37_010.scr	4	ジュディス	Judith	personagem	CRLF x1	どう？\nそのレディアントを見に行きたくない？		
+qev37_010.scr:5	qev37_010.scr	5	ジュディス	Judith	personagem	CRLF x1	これから、レディアントを探しに行く依頼を\nアンジュへ届けるから		
+qev37_010.scr:6	qev37_010.scr	6	ジュディス	Judith	personagem	CRLF x1	興味があったら、\nクエストカウンタから受けてみて		
+qev37_020.scr:0	qev37_020.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから預かってる依頼、\n受けてくれるのね		
+qev37_020.scr:1	qev37_020.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	ヒトの祖が、ディセンダーの為に作った武具\n「レディアント」…だったっけ？		
+qev37_020.scr:2	qev37_020.scr	2	アンジュ	Ange Serena	personagem		それを、一緒に探しに行きましょうって依頼よ		
+qev37_020.scr:3	qev37_020.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	今回は、あなたとジュディスの二人で\n行ってちょうだい		
+qev37_020.scr:4	qev37_020.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	じゃあ、頑張って。\nこのクエストの報告は、わたしにお願いね		
+qev37_030.scr:0	qev37_030.scr	0	ジュディス	Judith	personagem	CRLF x2	ヒトの祖が、ソウルアルケミーによって\n生み出した、光まとうものに送りし\n輝ける光器、レディアント…		
+qev37_030.scr:1	qev37_030.scr	1	ジュディス	Judith	personagem	CRLF x1	きっと、この奥で真の主を\n待ち続けているはず		
+qev37_030.scr:2	qev37_030.scr	2	ジュディス	Judith	personagem	CRLF x1	行きましょう。\nレディアントに会いに		
+qev37_040.scr:0	qev37_040.scr	0	ジュディス	Judith	personagem		ほら、前にも言ったでしょう？		
+qev37_040.scr:1	qev37_040.scr	1	ジュディス	Judith	personagem	CRLF x2	レディアントは、ディセンダー以外の手に\n渡らないよう、ヒトの祖が作った人工精霊が\nまとっている、って		
+qev37_040.scr:2	qev37_040.scr	2	ジュディス	Judith	personagem	CRLF x2	だから、手に入れる為には、その人工精霊と\n戦って、ディセンダーとしての力を\n示さなければならないでしょうね		
+qev37_050.scr:0	qev37_050.scr	0	ジュディス	Judith	personagem		レディアントが消えた…		
+qev37_050.scr:1	qev37_050.scr	1	ジュディス	Judith	personagem	CRLF x1	ディセンダーとして\n認めてもらえなかったの？		
+qev37_050.scr:2	qev37_050.scr	2	(narracao)	(narracao)	narracao		…、………、…………		
+qev37_050.scr:3	qev37_050.scr	3	(ator 200)	(ator 200)	desconhecido		………？…		
+qev37_050.scr:4	qev37_050.scr	4	ジュディス	Judith	personagem	CRLF x1	何か、感じるわ。\nこれは…言葉…？		
+qev37_050.scr:5	qev37_050.scr	5	(narracao)	(narracao)	narracao		（光…）		
+qev37_050.scr:6	qev37_050.scr	6	(narracao)	(narracao)	narracao	CRLF x2	（光　マトイシ　モノ…。\n　世界樹　ノ　マナ　ノ　輝キ…。\n　世界樹　ノ　夢タル　ソノ御姿…）		
+qev37_050.scr:7	qev37_050.scr	7	(narracao)	(narracao)	narracao		（ワタシ　ハ　ソノ光　ヲ　待チイタリ…）		
+qev37_050.scr:8	qev37_050.scr	8	(narracao)	(narracao)	narracao	CRLF x1	（アナタ　ノ　影　ニ　ナル為ニ…\n　次ハ　ツインソウル　デ　顕現　シマス）		
+qev37_050.scr:9	qev37_050.scr	9	(narracao)	(narracao)	narracao		（マタ　会イマショウ…）		
+qev37_050.scr:10	qev37_050.scr	10	(narracao)	(narracao)	narracao		（ワタシ　ハ　ソノ光　ヲ　待チイタリ…）		
+qev37_050.scr:11	qev37_050.scr	11	(ator 200)	(ator 200)	desconhecido		………		
+qev37_050.scr:12	qev37_050.scr	12	ジュディス	Judith	personagem		今のは、レディアントの声ね…		
+qev37_050.scr:13	qev37_050.scr	13	ジュディス	Judith	personagem	CRLF x2	あなたの影になる為に…、\n次はツインソウル…、ね。\nこの意味はわかる？		
+qev37_050.scr:14	qev37_050.scr	14	ジュディス	Judith	personagem	CRLF x2	そうね。\nあなたは、またレディアントに\n会うでしょうから		
+qev37_050.scr:15	qev37_050.scr	15	ジュディス	Judith	personagem		意味なんて、必要ないでしょうね		
+qev37_050.scr:16	qev37_050.scr	16	ジュディス	Judith	personagem		でも、一応話しておくわ		
+qev37_050.scr:17	qev37_050.scr	17	ジュディス	Judith	personagem	CRLF x2	さっきのレディアントから、\n情報を読んだの。\nそれを話しておくわ		
+qev37_050.scr:18	qev37_050.scr	18	ジュディス	Judith	personagem	CRLF x2	レディアントは、\n男性的なソウル、女性的なソウルで\n構成された人工精霊のようよ		
+qev37_050.scr:19	qev37_050.scr	19	ジュディス	Judith	personagem	CRLF x1	その為、男性、女性の二つの面を\n持っているの		
+qev37_050.scr:20	qev37_050.scr	20	ジュディス	Judith	personagem	CRLF x1	次に会う時は、それら二つの面を分離して\n２体になって現れるのよ		
+qev37_050.scr:21	qev37_050.scr	21	ジュディス	Judith	personagem		そう、今後はその２体と戦う事になるわね…		
+qev37_050.scr:22	qev37_050.scr	22	(ator 200)	(ator 200)	desconhecido		………		
+qev37_050.scr:23	qev37_050.scr	23	ジュディス	Judith	personagem	CRLF x1	大丈夫よ。\nあなたなら出来るでしょ？		
+qev37_050.scr:24	qev37_050.scr	24	ジュディス	Judith	personagem		さ、戻りましょう		
+qev37_050.scr:25	qev37_050.scr	25	(opcao do jogador)	(opcao do jogador)	escolha		意味は必要ない		
+qev37_050.scr:26	qev37_050.scr	26	(opcao do jogador)	(opcao do jogador)	escolha		わからない		
+qev37_060.scr:0	qev37_060.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	レディアントには出会えたものの…、\n何も手に入れられなかったね。\nざーんねん…		
+qev37_060.scr:1	qev37_060.scr	1	ジュディス	Judith	personagem	CRLF x2	でも、次はきっと手に入れられるわよ。\nだって、レディアントも○○の\nものになりたがっていた様だから		
+qev37_060.scr:2	qev37_060.scr	2	ジュディス	Judith	personagem		「あなたの影になる為に…」って、ね		
+qev37_060.scr:3	qev37_060.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	へえ…、何だか婚約者みたい…。\nだけど、戦う宿命なのね。\nフクザツ…		
+qev37_060.scr:4	qev37_060.scr	4	ジュディス	Judith	personagem	CRLF x1	そういう制約を付けられて\n作られたものだから仕方ないわ		
+qev37_060.scr:5	qev37_060.scr	5	ジュディス	Judith	personagem	CRLF x1	戦いに勝つって事は、呪いを解く\nキスの様なものかしらね		
+qev37_060.scr:6	qev37_060.scr	6	アンジュ	Ange Serena	personagem		ロマンチックな話ね		
+qev37_060.scr:7	qev37_060.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	でも、レディアントは１６種類存在する。\nそれのそれぞれ２体ずつ戦うのかぁ…		
+qev37_060.scr:8	qev37_060.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	１体でも強敵だから、そうね…。\nこの件に人を使うのは、\nリーダーとしてはあんまり…		
+qev37_060.scr:9	qev37_060.scr	9	ジュディス	Judith	personagem	CRLF x1	向こうは２体よ。\n一人は好きに同行させてあげて		
+qev37_060.scr:10	qev37_060.scr	10	アンジュ	Ange Serena	personagem	CRLF x2	そうね。\nじゃあ、次にレディアントに会いに行く時は\n同行者一人は許可してあげる		
+qev37_060.scr:11	qev37_060.scr	11	ジュディス	Judith	personagem	CRLF x2	それじゃ、○○。\nまたレディアントが現れたら\nアンジュに知らせるわ		
+qev37_060.scr:12	qev37_060.scr	12	ジュディス	Judith	personagem		以降は、アンジュから依頼を受けてね		
+qev37_060.scr:13	qev37_060.scr	13	ジュディス	Judith	personagem	CRLF x2	あとは、○○次第。\nレディアントに会いに行くかどうかは\nあなたの好きにしたらいいわ		
+qev37_060.scr:14	qev37_060.scr	14	ジュディス	Judith	personagem	CRLF x1	今回の体験、なかなか楽しかったわ。\nそれじゃ、ね		
+qev37_070.scr:0	qev37_070.scr	0	ジュディス	Judith	personagem	CRLF x1	いたわね…。\n輝ける光器、レディアント…		
+qev37_070.scr:1	qev37_070.scr	1	ジュディス	Judith	personagem	CRLF x1	どう？\nもちろん挑むんでしょう？		
+qev37_070.scr:2	qev37_070.scr	2	ジュディス	Judith	personagem		それじゃ、行きましょう		
+qev37_080.scr:0	qev37_080.scr	0	ジュディス	Judith	personagem	CRLF x2	良かったわね。\nちゃんと、あなたを\n待っててくれていたじゃない		
+qev37_080.scr:1	qev37_080.scr	1	ジュディス	Judith	personagem		それじゃ、行きましょう		
+qev38_010.scr:0	qev38_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	さて、と。\nこれはあなたの為の仕事ね		
+qev38_010.scr:1	qev38_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、＜目的地＞に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:2	qev38_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『霊峰アブソール』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:3	qev38_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『ルバーブ連山』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:4	qev38_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『オルタータ火山』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:5	qev38_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『カダイフ砂漠』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:6	qev38_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『コンフェイト大森林』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:7	qev38_010.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『ブラウニー坑道』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:8	qev38_010.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『ブラウニー坑道』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:9	qev38_010.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『オルタータ火山』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:10	qev38_010.scr	10	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『アルマナック遺跡』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:11	qev38_010.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『アルマナック遺跡』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:12	qev38_010.scr	12	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『ルバーブ連山』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:13	qev38_010.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『霊峰アブソール』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:14	qev38_010.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『カダイフ砂漠』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:15	qev38_010.scr	15	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『シフノ湧泉洞』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:16	qev38_010.scr	16	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『ヴェラトローパ』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:17	qev38_010.scr	17	アンジュ	Ange Serena	personagem	CRLF x1	ジュディスから、『コンフェイト大森林』に\nレディアントが現れたと教えてもらったの		
+qev38_010.scr:18	qev38_010.scr	18	アンジュ	Ange Serena	personagem	CRLF x2	あなたはこれからレディアントに\n挑むわけだけど、前にも言った様に、\n同行者は一人だけ許可します		
+qev38_010.scr:19	qev38_010.scr	19	アンジュ	Ange Serena	personagem		それ以上は援助を求めては駄目よ？		
+qev38_010.scr:20	qev38_010.scr	20	アンジュ	Ange Serena	personagem	CRLF x1	じゃあ、頑張ってレディアントを\n手に入れてきなさい！		
+qev38_020.scr:0	qev38_020.scr	0	(narracao)	(narracao)	narracao		（光…）		
+qev38_020.scr:1	qev38_020.scr	1	(narracao)	(narracao)	narracao		（光マトイシ　モノ…）		
+qev38_020.scr:2	qev38_020.scr	2	(narracao)	(narracao)	narracao		（ワタシ　ハ　光　ヲ　待チイタリ…）		
+qev38_020.scr:3	qev38_020.scr	3	(narracao)	(narracao)	narracao	CRLF x2	（我ガ主　ディセンダー…。\n　コレヨリ　アナタ　ノ　影　ニ\n　ナリマショウ…）		
+qev38_030.scr:0	qev38_030.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	お疲れ様。\nレディアントを無事手に入れられて\n良かったね		
+qev38_030.scr:1	qev38_030.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	でも、あなたもこれで満足せずに、\nレディアントにふさわしい主として\n精進していかなくてはね		
+qev38_030.scr:2	qev38_030.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	そうそう、レディアントの装備品は\nロックスに預けてあるよ		
+qev38_030.scr:3	qev38_030.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	これから渡すチケットを持って、\nロックスに交換してもらいなさい		
+qev39_010.scr:0	qev39_010.scr	0	ロックス	Rocks	personagem	CRLF x1	セネル様。\nお手紙が届いております		
+qev39_010.scr:1	qev39_010.scr	1	ロックス	Rocks	personagem		はい、どうぞ		
+qev39_010.scr:2	qev39_010.scr	2	セネル	Senel Coolidge	personagem		手紙……？		
+qev39_010.scr:3	qev39_010.scr	3	ロックス	Rocks	personagem	CRLF x1	では、確かにお届けしました。\n失礼します		
+qev39_010.scr:4	qev39_010.scr	4	セネル	Senel Coolidge	personagem		俺宛に……誰からだ？		
+qev39_010.scr:5	qev39_010.scr	5	セネル	Senel Coolidge	personagem		なになに……		
+qev39_010.scr:6	qev39_010.scr	6	(narracao)	(narracao)	narracao	CRLF x2	お久しぶりだパン！\n小生は、謎の人物だパン！\nえっへんパン。参ったパン？		
+qev39_010.scr:7	qev39_010.scr	7	(narracao)	(narracao)	narracao	CRLF x1	謎が謎を呼び過ぎて、\nあまり知られてないパン！		
+qev39_010.scr:8	qev39_010.scr	8	(narracao)	(narracao)	narracao	CRLF x1	だから、地位向上して、\n世間様に広めて欲しいパン！		
+qev39_010.scr:9	qev39_010.scr	9	(narracao)	(narracao)	narracao		カダイフ砂漠で待ってるパン！		
+qev39_010.scr:10	qev39_010.scr	10	セネル	Senel Coolidge	personagem	CRLF x1	何が謎だよ……。\n正体がバレバレにも程があるぞ……		
+qev39_010.scr:11	qev39_010.scr	11	セネル	Senel Coolidge	personagem	CRLF x1	しかも、俺を名指しって……、\nどういう事だよ……		
+qev39_010.scr:12	qev39_010.scr	12	(ator 200)	(ator 200)	desconhecido		…………		
+qev39_010.scr:13	qev39_010.scr	13	セネル	Senel Coolidge	personagem	CRLF x1	……どうする？\n○○		
+qev39_010.scr:14	qev39_010.scr	14	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「登場！ワンダーパン職人」が\nエントリーされました。\nクエストカウンタから受ける事が出来ます		
+qev39_020.scr:0	qev39_020.scr	0	セネル	Senel Coolidge	personagem		レシピの為に、行くのか？		
+qev39_020.scr:1	qev39_020.scr	1	セネル	Senel Coolidge	personagem	CRLF x2	全く、○○も\n物好きだな。\n後で後悔しても、俺は知らないからな		
+qev39_020.scr:2	qev39_020.scr	2	セネル	Senel Coolidge	personagem	CRLF x1	さて……仕方ない、\nカダイフ砂漠まで行くか		
+qev39_030.scr:0	qev39_030.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	○○は、\nあいつの事を知らないんだよな？		
+qev39_030.scr:1	qev39_030.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	だったら、覚悟しておいた方がいい。\n依頼文見ればわかるだろ？		
+qev39_030.scr:2	qev39_030.scr	2	セネル	Senel Coolidge	personagem	CRLF x1	とにかく、意味がわからない奴だからな……。\nしかも、変なものに化けてるとくれば……		
+qev39_030.scr:3	qev39_030.scr	3	セネル	Senel Coolidge	personagem	CRLF x1	はぁ……。\n今から、気が重いな……		
+qev39_050.scr:0	qev39_050.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	なあ、○○……。\nやっぱり、放っておいて帰らないか？		
+qev39_050.scr:1	qev39_050.scr	1	ミミー	Mimmy Bread	personagem	CRLF x2	そこの男子！\n放っておくとはどういう事だパン！\nそんな事、許さないパン！		
+qev39_050.scr:2	qev39_050.scr	2	セネル	Senel Coolidge	personagem		…………		
+qev39_050.scr:3	qev39_050.scr	3	セネル	Senel Coolidge	personagem	CRLF x2	なあ、今から全力で見なかった事にして\nさっさと帰らないか？\n今ならまだ……		
+qev39_050.scr:4	qev39_050.scr	4	ミミー	Mimmy Bread	personagem		えーい、人の話を聞くパン！		
+qev39_050.scr:5	qev39_050.scr	5	ミミー	Mimmy Bread	personagem	CRLF x2	小生は、２８代目ワンダーパン職人の、\nミミーだパン！\nえっへんパン、驚いたパン？		
+qev39_050.scr:6	qev39_050.scr	6	(ator 200)	(ator 200)	desconhecido		…………		
+qev39_050.scr:7	qev39_050.scr	7	セネル	Senel Coolidge	personagem	CRLF x1	知ってるし、\n最初からわかってるって……		
+qev39_050.scr:8	qev39_050.scr	8	ミミー	Mimmy Bread	personagem	CRLF x1	そういう事言うなパン！\n久しぶりに会ったのに冷たいパン！		
+qev39_050.scr:9	qev39_050.scr	9	ミミー	Mimmy Bread	personagem	CRLF x2	初めましてだパン！\nこんな所で、何をやってるのか\n教えてあげるパン！		
+qev39_050.scr:10	qev39_050.scr	10	ミミー	Mimmy Bread	personagem	CRLF x1	ワンダーパン職人は常に、\n厳しい修行をしているんだパン！		
+qev39_050.scr:11	qev39_050.scr	11	ミミー	Mimmy Bread	personagem	CRLF x2	そして、パンの素晴らしさを\n世に広める為に、こうして\nレシピを配ってるパン！		
+qev39_050.scr:12	qev39_050.scr	12	セネル	Senel Coolidge	personagem	CRLF x1	こんな所で\nやらなくてもいいだろ……		
+qev39_050.scr:13	qev39_050.scr	13	ミミー	Mimmy Bread	personagem	CRLF x1	という事で、無事ここまで来た君達に、\n特製のレシピを教えてあげるパン！		
+qev39_050.scr:14	qev39_050.scr	14	ミミー	Mimmy Bread	personagem	CRLF x2	またどこかで会ったら、\nレシピを教えてあげるパン。\nばいばいパン！		
+qev39_050.scr:15	qev39_050.scr	15	ミミー	Mimmy Bread	personagem	CRLF x1	いだいだパン。\nでも、強い子だから負けないパン！		
+qev39_050.scr:16	qev39_050.scr	16	セネル	Senel Coolidge	personagem		全然変わってないな……		
+qev39_050.scr:17	qev39_050.scr	17	(mensagem de sistema)	(mensagem de sistema)	sistema		ライスパンのレシピを覚えた！		
+qev39_060.scr:0	qev39_060.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	新しいレシピは手に入ったけど、\n疲労感が半端じゃないな……		
+qev39_060.scr:1	qev39_060.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	こう、精神的に\nのしかかる様な疲れが……		
+qev39_060.scr:2	qev39_060.scr	2	(ator 200)	(ator 200)	desconhecido		…………		
+qev39_060.scr:3	qev39_060.scr	3	セネル	Senel Coolidge	personagem		とりあえず、お互いゆっくり休もう		
+qev39_060.scr:4	qev39_060.scr	4	セネル	Senel Coolidge	personagem	CRLF x1	悪い夢を見たと、諦めるんだ……。\nうん、そうだ、そうしよう		
+qev40_010.scr:0	qev40_010.scr	0	ロックス	Rocks	personagem	CRLF x1	あのう、セネル様。\nお手紙が届いております		
+qev40_010.scr:1	qev40_010.scr	1	ロックス	Rocks	personagem		はい、どうぞ		
+qev40_010.scr:2	qev40_010.scr	2	セネル	Senel Coolidge	personagem	CRLF x1	また手紙か？\n今度は何だ……		
+qev40_010.scr:3	qev40_010.scr	3	ロックス	Rocks	personagem	CRLF x1	では、確かにお届けしました。\n失礼します		
+qev40_010.scr:4	qev40_010.scr	4	セネル	Senel Coolidge	personagem	CRLF x1	何となく予想は付いているけどな……。\nまあ、読んでみるか		
+qev40_010.scr:5	qev40_010.scr	5	(narracao)	(narracao)	narracao	CRLF x2	この前はお疲れ様だパン！\nまた、ワンダーパン職人の為に、\nお手伝いをお願いするパン！		
+qev40_010.scr:6	qev40_010.scr	6	(narracao)	(narracao)	narracao	CRLF x2	霊峰アブソールまで来るパン！\n新しいレシピを取りに来て、\n地位向上のお手伝いをするパン！		
+qev40_010.scr:7	qev40_010.scr	7	セネル	Senel Coolidge	personagem	CRLF x2	あいつ……また取りに来いって言うのか？\n何でいつもダンジョンでの\n待ち合わせなんだ		
+qev40_010.scr:8	qev40_010.scr	8	(ator 200)	(ator 200)	desconhecido		…………		
+qev40_010.scr:9	qev40_010.scr	9	セネル	Senel Coolidge	personagem	CRLF x1	なあ、○○。\n今度こそ、行かなくてもいいんじゃないか？		
+qev40_010.scr:10	qev40_010.scr	10	セネル	Senel Coolidge	personagem	CRLF x1	放っておいた方が、\nお互いの為になる気がするぞ……		
+qev40_010.scr:11	qev40_010.scr	11	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「流浪のパン職人」が\nエントリーされました。\nクエストカウンタから受ける事が出来ます		
+qev40_020.scr:0	qev40_020.scr	0	セネル	Senel Coolidge	personagem	CRLF x2	○○、\nお前、物好きだなぁ……。\nそんなに、レシピが欲しいのか？		
+qev40_020.scr:1	qev40_020.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	仕方ないな……。\n早く行って終わらせよう		
+qev40_030.scr:0	qev40_030.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	そういえば、○○\nミミーのフルネーム、知ってるか？		
+qev40_030.scr:1	qev40_030.scr	1	(ator 200)	(ator 200)	desconhecido		……？		
+qev40_030.scr:2	qev40_030.scr	2	セネル	Senel Coolidge	personagem	CRLF x1	ミミー・ブレッド……。\nそう、「パンの耳」っていうんだ		
+qev40_030.scr:3	qev40_030.scr	3	セネル	Senel Coolidge	personagem	CRLF x1	面白いよな。\nどうも本人は、気にしているらしいが		
+qev40_050.scr:0	qev40_050.scr	0	セネル	Senel Coolidge	personagem		やっぱり今回も、化けてるんだな……		
+qev40_050.scr:1	qev40_050.scr	1	ミミー	Mimmy Bread	personagem	CRLF x2	待ってたパン！\nよくぞここまで来たパン！\n褒めてあげるパン！		
+qev40_050.scr:2	qev40_050.scr	2	セネル	Senel Coolidge	personagem		いや、お前が呼び出したんだろ……		
+qev40_050.scr:3	qev40_050.scr	3	ミミー	Mimmy Bread	personagem	CRLF x2	レシピはそう簡単に手に入らないから、\nより価値が上がるんだパン！\nこれも一つの修行だパン！		
+qev40_050.scr:4	qev40_050.scr	4	セネル	Senel Coolidge	personagem		誰も修行したいなんて言ってない……		
+qev40_050.scr:5	qev40_050.scr	5	ミミー	Mimmy Bread	personagem	CRLF x2	照れなくてもいいパン！\nそれでは、レシピをあげるパン！\nしっかり、頑張るパン！		
+qev40_050.scr:6	qev40_050.scr	6	ミミー	Mimmy Bread	personagem		いだいだパン……		
+qev40_050.scr:7	qev40_050.scr	7	セネル	Senel Coolidge	personagem		毎回転び過ぎだろ……		
+qev40_050.scr:8	qev40_050.scr	8	(mensagem de sistema)	(mensagem de sistema)	sistema		カレーパンのレシピを覚えた！		
+qev40_060.scr:0	qev40_060.scr	0	セネル	Senel Coolidge	personagem	CRLF x2	今回も無事、レシピを入手出来たな。\n全く、毎回あんな場所で\nあんな格好で待ってるんだもんな……		
+qev40_060.scr:1	qev40_060.scr	1	セネル	Senel Coolidge	personagem		本当に、変わった奴だよな……あいつ		
+qev41_010.scr:0	qev41_010.scr	0	ロックス	Rocks	personagem	CRLF x1	セネル様、お手紙ですよ。\nはい、どうぞ		
+qev41_010.scr:1	qev41_010.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	手紙……。\nまたなのか……		
+qev41_010.scr:2	qev41_010.scr	2	ロックス	Rocks	personagem	CRLF x1	では、確かにお届けしました。\n失礼します		
+qev41_010.scr:3	qev41_010.scr	3	セネル	Senel Coolidge	personagem		今度は何なんだ……		
+qev41_010.scr:4	qev41_010.scr	4	(narracao)	(narracao)	narracao	CRLF x1	まだまだ地位向上の\nお手伝いをお願いするパン！		
+qev41_010.scr:5	qev41_010.scr	5	(narracao)	(narracao)	narracao	CRLF x1	聖地ラングリースで、\nひっそりと待ってるパン！		
+qev41_010.scr:6	qev41_010.scr	6	(narracao)	(narracao)	narracao	CRLF x2	必ず来るパン！\n来るまでずっと待ってるパン！\nわかったら、早く来て欲しいパン！		
+qev41_010.scr:7	qev41_010.scr	7	セネル	Senel Coolidge	personagem		…………		
+qev41_010.scr:8	qev41_010.scr	8	(ator 200)	(ator 200)	desconhecido		…………		
+qev41_010.scr:9	qev41_010.scr	9	セネル	Senel Coolidge	personagem	CRLF x2	○○……。\nまさか、今度も行くとか言わないよな？\n冷静になって、よく考えてくれ……		
+qev41_010.scr:10	qev41_010.scr	10	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「さすらいのパン職人」が\nエントリーされました。\nクエストカウンタから受ける事が出来ます		
+qev41_020.scr:0	qev41_020.scr	0	セネル	Senel Coolidge	personagem	CRLF x2	なぁ……。\nまさかとは思うが、あいつに会うの、\n楽しみにしてないよな？		
+qev41_020.scr:1	qev41_020.scr	1	(ator 200)	(ator 200)	desconhecido		…………		
+qev41_020.scr:2	qev41_020.scr	2	セネル	Senel Coolidge	personagem	CRLF x1	レシピを取りに行くのが目的なんだよな？\nいや、いいんだ、悪いな……		
+qev41_020.scr:3	qev41_020.scr	3	セネル	Senel Coolidge	personagem		よし……行こう		
+qev41_030.scr:0	qev41_030.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	なあ、ワンダーパン職人って\n言いづらいよな？		
+qev41_030.scr:1	qev41_030.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	だから、俺の仲間が\nあだ名を付けたんだ		
+qev41_030.scr:2	qev41_030.scr	2	セネル	Senel Coolidge	personagem	CRLF x1	ダパンなんて案もあったけど、\n結局ワンパンって名前に落ち着いてさ		
+qev41_030.scr:3	qev41_030.scr	3	(ator 200)	(ator 200)	desconhecido		…………		
+qev41_030.scr:4	qev41_030.scr	4	セネル	Senel Coolidge	personagem	CRLF x1	でも、そういえば\nちっとも定着しなかったな……ワンパン		
+qev41_050.scr:0	qev41_050.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	おい。\nいいから、出てこいよ		
+qev41_050.scr:1	qev41_050.scr	1	ミミー	Mimmy Bread	personagem	CRLF x1	あんまりジロジロ見られると、\n照れるパン		
+qev41_050.scr:2	qev41_050.scr	2	セネル	Senel Coolidge	personagem		見るなと言う方が無理だろ……		
+qev41_050.scr:3	qev41_050.scr	3	ミミー	Mimmy Bread	personagem	CRLF x2	今まで秘密にしてたけど、\n小生は、ワンダーパン職人流パン術の\n免許皆伝パン		
+qev41_050.scr:4	qev41_050.scr	4	セネル	Senel Coolidge	personagem		前に聞いた事あるぞ……		
+qev41_050.scr:5	qev41_050.scr	5	ミミー	Mimmy Bread	personagem	CRLF x1	兄貴には言ってないパン！\nこっちに言ってるパン！		
+qev41_050.scr:6	qev41_050.scr	6	セネル	Senel Coolidge	personagem		また、変な技見せるんだろ？		
+qev41_050.scr:7	qev41_050.scr	7	ミミー	Mimmy Bread	personagem	CRLF x2	変とは聞き捨てならないパン！\nうきゃああ、怒ったパン！\n泣いて後悔すればいいパン！		
+qev41_050.scr:8	qev41_050.scr	8	ミミー	Mimmy Bread	personagem	CRLF x2	パン沙雨パン沙雨パン沙雨パン沙雨！\nパン沙雨パン沙雨パン沙雨パン沙雨！\nパン沙雨パン沙雨パン沙雨…………		
+qev41_050.scr:9	qev41_050.scr	9	ミミー	Mimmy Bread	personagem	CRLF x1	ま、まだまだ本気は出してないパン。\nきょ、今日は勘弁してあげるパン		
+qev41_050.scr:10	qev41_050.scr	10	ミミー	Mimmy Bread	personagem		もっと強くなるパン……		
+qev41_050.scr:11	qev41_050.scr	11	セネル	Senel Coolidge	personagem	CRLF x1	一人で暴れて、一人で転んで、\n何なんだ、一体……		
+qev41_050.scr:12	qev41_050.scr	12	(mensagem de sistema)	(mensagem de sistema)	sistema		ミックスサンドのレシピを覚えた！		
+qev41_060.scr:0	qev41_060.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	今回も疲れたな。\n肉体的にというより、精神的に……		
+qev41_060.scr:1	qev41_060.scr	1	セネル	Senel Coolidge	personagem	CRLF x2	いくらレシピの為とはいえ、\n代償が大き過ぎる気がしないか？\nそろそろ、俺も辛くなって来たぞ……		
+qev42_010.scr:0	qev42_010.scr	0	ロックス	Rocks	personagem		セネル様、お手紙ですよ		
+qev42_010.scr:1	qev42_010.scr	1	セネル	Senel Coolidge	personagem		いや、もう手紙はいい……		
+qev42_010.scr:2	qev42_010.scr	2	ロックス	Rocks	personagem	CRLF x1	そんな、受け取ってもらわなくては\n困ります		
+qev42_010.scr:3	qev42_010.scr	3	ロックス	Rocks	personagem	CRLF x1	はい、どうぞ！\n確かにお届けしましたよ		
+qev42_010.scr:4	qev42_010.scr	4	ロックス	Rocks	personagem		では、失礼します		
+qev42_010.scr:5	qev42_010.scr	5	セネル	Senel Coolidge	personagem		………………		
+qev42_010.scr:6	qev42_010.scr	6	セネル	Senel Coolidge	personagem	CRLF x2	はぁ……。\nもうこの紙から、あいつの声が\n聞こえる様な気がするな……		
+qev42_010.scr:7	qev42_010.scr	7	(narracao)	(narracao)	narracao	CRLF x1	この前の事は忘れるパン！\nだから、レシピを取りにくるパン！		
+qev42_010.scr:8	qev42_010.scr	8	(narracao)	(narracao)	narracao	CRLF x1	ヴェラトローパで、\n来るのを耳を長くして待ってるパン！		
+qev42_010.scr:9	qev42_010.scr	9	(narracao)	(narracao)	narracao	CRLF x1	プププ、パンギャグだパン！\nわかったか、パン！		
+qev42_010.scr:10	qev42_010.scr	10	(narracao)	(narracao)	narracao		いいから、早く来るパン！		
+qev42_010.scr:11	qev42_010.scr	11	セネル	Senel Coolidge	personagem	CRLF x2	だんだん、目的がわからなくなってきたな……。\nレシピを渡すだけなら、\nいっそここまで持って来てくれ……		
+qev42_010.scr:12	qev42_010.scr	12	セネル	Senel Coolidge	personagem	CRLF x1	それで……○○、\nまた会いに行くつもりなのか？		
+qev42_010.scr:13	qev42_010.scr	13	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「黄昏のパン職人」が\nエントリーされました。\nクエストカウンタから受ける事が出来ます		
+qev42_020.scr:0	qev42_020.scr	0	セネル	Senel Coolidge	personagem	CRLF x2	結局、受けるんだな……。\n○○の目的は\nレシピじゃないだろ、もう		
+qev42_020.scr:1	qev42_020.scr	1	セネル	Senel Coolidge	personagem	CRLF x2	お前が行くって言うなら、\n付き合うが…………いや、\nここまで来たら、乗りかかった船だな……		
+qev42_030.scr:0	qev42_030.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	なあ、○○。\nあいつ、何歳だと思う？		
+qev42_030.scr:1	qev42_030.scr	1	(ator 200)	(ator 200)	desconhecido		…………		
+qev42_030.scr:2	qev42_030.scr	2	セネル	Senel Coolidge	personagem	CRLF x1	あいつ、ああ見えて\n２２歳なんだってさ		
+qev42_030.scr:3	qev42_030.scr	3	(ator 200)	(ator 200)	desconhecido		……！？		
+qev42_030.scr:4	qev42_030.scr	4	セネル	Senel Coolidge	personagem	CRLF x2	驚くよな。\nあの見た目と、あの喋りで、２２だ。\n世の中、不思議な事が多いよな……		
+qev42_050.scr:0	qev42_050.scr	0	セネル	Senel Coolidge	personagem		もう、お約束過ぎて、飽きて来たぞ……		
+qev42_050.scr:1	qev42_050.scr	1	ミミー	Mimmy Bread	personagem	CRLF x2	飽きたとか言うなパン！\nでも、小生は優しいから、\n今日は丁寧にレシピを教えてあげるパン		
+qev42_050.scr:2	qev42_050.scr	2	セネル	Senel Coolidge	personagem	CRLF x1	ややこしい話はいいから、\nレシピだけくれよ、もう		
+qev42_050.scr:3	qev42_050.scr	3	ミミー	Mimmy Bread	personagem		う、うぅ……		
+qev42_050.scr:4	qev42_050.scr	4	セネル	Senel Coolidge	personagem		泣きそうになるなよ……		
+qev42_050.scr:5	qev42_050.scr	5	ミミー	Mimmy Bread	personagem	CRLF x1	きょ、今日のところは、\nレシピを置いていってあげるパン		
+qev42_050.scr:6	qev42_050.scr	6	ミミー	Mimmy Bread	personagem		いだいだパン……		
+qev42_050.scr:7	qev42_050.scr	7	セネル	Senel Coolidge	personagem		これも、お約束か……		
+qev42_050.scr:8	qev42_050.scr	8	(mensagem de sistema)	(mensagem de sistema)	sistema		ベーグル・サーモンのレシピを覚えた！		
+qev42_060.scr:0	qev42_060.scr	0	セネル	Senel Coolidge	personagem	CRLF x2	ふう……、ようやく戻って来たな。\nしかし、毎回毎回、同じ事を\n繰り返してて、飽きないのか……？		
+qev42_060.scr:1	qev42_060.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	ある意味、すごい奴なのかもな、\nあいつ……		
+qev43_010.scr:0	qev43_010.scr	0	ロックス	Rocks	personagem		セネル様、お手紙ですよ		
+qev43_010.scr:1	qev43_010.scr	1	セネル	Senel Coolidge	personagem	CRLF x2	もう、届けなくていい。\n破るなり捨てるなり、\n始末しておいてくれ		
+qev43_010.scr:2	qev43_010.scr	2	ロックス	Rocks	personagem	CRLF x1	こんなに筆マメなお友達のお手紙を、\nないがしろにしてはいけませんってば！		
+qev43_010.scr:3	qev43_010.scr	3	セネル	Senel Coolidge	personagem		勝手に友達扱いするな！		
+qev43_010.scr:4	qev43_010.scr	4	ロックス	Rocks	personagem	CRLF x1	はい、どうぞ！\nお友達は大事にして下さいね！		
+qev43_010.scr:5	qev43_010.scr	5	ロックス	Rocks	personagem		確かにお届けしましたよ		
+qev43_010.scr:6	qev43_010.scr	6	ロックス	Rocks	personagem		では、失礼します		
+qev43_010.scr:7	qev43_010.scr	7	セネル	Senel Coolidge	personagem	CRLF x2	くっ……。\nこれであいつの手紙に目を通すのも\n最後だからな…！！		
+qev43_010.scr:8	qev43_010.scr	8	(narracao)	(narracao)	narracao	CRLF x1	ワンダーシェフの真似は、\nもう止めたパン！		
+qev43_010.scr:9	qev43_010.scr	9	(narracao)	(narracao)	narracao	CRLF x1	小生は小生のやり方で、\nパンの素晴らしさを伝えるパン！		
+qev43_010.scr:10	qev43_010.scr	10	(narracao)	(narracao)	narracao	CRLF x2	それはズバリ、\n武闘派料理人として、\n名声を轟かせるパン！		
+qev43_010.scr:11	qev43_010.scr	11	(narracao)	(narracao)	narracao	CRLF x1	その為には、\n腕の立つ冒険家を倒すのが一番パン！		
+qev43_010.scr:12	qev43_010.scr	12	(narracao)	(narracao)	narracao		だから、兄貴と決闘だパン！		
+qev43_010.scr:13	qev43_010.scr	13	(narracao)	(narracao)	narracao		ルバーブ連山で、待っているパン！		
+qev43_010.scr:14	qev43_010.scr	14	(narracao)	(narracao)	narracao	CRLF x1	怖いからって、逃げるなパン！\n絶対来るパン！		
+qev43_010.scr:15	qev43_010.scr	15	セネル	Senel Coolidge	personagem		もう、すでに主旨が変わってるぞ		
+qev43_010.scr:16	qev43_010.scr	16	(ator 200)	(ator 200)	desconhecido		…………		
+qev43_010.scr:17	qev43_010.scr	17	セネル	Senel Coolidge	personagem	CRLF x1	何なんだよ、武闘派料理人って……。\nしかも、名指しで、俺と決闘って……		
+qev43_010.scr:18	qev43_010.scr	18	セネル	Senel Coolidge	personagem	CRLF x1	全部意味が通じてないぞ。\nどうする……○○？		
+qev43_010.scr:19	qev43_010.scr	19	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「伝説のパン職人」が\nエントリーされました。\nクエストカウンタから受ける事が出来ます		
+qev43_020.scr:0	qev43_020.scr	0	セネル	Senel Coolidge	personagem		やっぱり、受けるのか……		
+qev43_020.scr:1	qev43_020.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	わかった。\n負けたよ、俺も付き合う		
+qev43_020.scr:2	qev43_020.scr	2	セネル	Senel Coolidge	personagem	CRLF x1	今度こそ本当に、最後になるといいな。\n色んな意味でさ……		
+qev43_030.scr:0	qev43_030.scr	0	セネル	Senel Coolidge	personagem	CRLF x1	そういえば、ミミーの父親だけど……。\n「ブレッド・ブレッド」って名前らしい		
+qev43_030.scr:1	qev43_030.scr	1	セネル	Senel Coolidge	personagem		聞いた事あるか？		
+qev43_030.scr:2	qev43_030.scr	2	(ator 200)	(ator 200)	desconhecido		……？		
+qev43_030.scr:3	qev43_030.scr	3	セネル	Senel Coolidge	personagem		そうだよな……		
+qev43_030.scr:4	qev43_030.scr	4	セネル	Senel Coolidge	personagem	CRLF x2	あいつ、弟と妹もいて、\nコッペとコロネっていうらしい。\n何か、ほんとにパン一家って感じだよな		
+qev43_030.scr:5	qev43_030.scr	5	(ator 200)	(ator 200)	desconhecido		…………		
+qev43_030.scr:6	qev43_030.scr	6	セネル	Senel Coolidge	personagem	CRLF x2	ただ、聞いた話じゃ\n店の経営が傾いてるらしい。\n……これから、あいつもどうするんだろうな？		
+qev43_030.scr:7	qev43_030.scr	7	セネル	Senel Coolidge	personagem	CRLF x1	明らかに、決闘なんて\nしている場合じゃないんじゃないか……		
+qev43_050.scr:0	qev43_050.scr	0	ミミー	Mimmy Bread	personagem	CRLF x1	うう、ひどいパン……。\nは、話が違うパン！		
+qev43_050.scr:1	qev43_050.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	何がだよ。\n決闘だって言ったのは、そっちだろ		
+qev43_050.scr:2	qev43_050.scr	2	ミミー	Mimmy Bread	personagem	CRLF x1	女子を相手に、本気なんてずるいパン！\n手加減をするべきパン！		
+qev43_050.scr:3	qev43_050.scr	3	セネル	Senel Coolidge	personagem	CRLF x1	戦う以上は、本気に決まってるだろ？\n全く……		
+qev43_050.scr:4	qev43_050.scr	4	ミミー	Mimmy Bread	personagem	CRLF x2	く、悔しいパン！\nでも、負けてしまった以上、\nレシピはあげるパン！		
+qev43_050.scr:5	qev43_050.scr	5	セネル	Senel Coolidge	personagem		そこは、律儀なんだな……		
+qev43_050.scr:6	qev43_050.scr	6	ミミー	Mimmy Bread	personagem	CRLF x1	けど、今度は必ず勝つパン！\n覚えておくがいいパン！		
+qev43_050.scr:7	qev43_050.scr	7	ミミー	Mimmy Bread	personagem		いだいだパン……		
+qev43_050.scr:8	qev43_050.scr	8	セネル	Senel Coolidge	personagem		今度があるのかよ……？		
+qev43_050.scr:9	qev43_050.scr	9	(mensagem de sistema)	(mensagem de sistema)	sistema		マーボーカレーパンのレシピを覚えた！		
+qev43_060.scr:0	qev43_060.scr	0	セネル	Senel Coolidge	personagem	CRLF x2	結局、あいつは何だったんだろうな。\nレシピをくれるのはいいけど\n決闘ってさ……		
+qev43_060.scr:1	qev43_060.scr	1	セネル	Senel Coolidge	personagem	CRLF x2	最後まで、よくわからない奴だったな。\nまあ、これで、しばらくは\n大人しくなるだろ		
+qev43_060.scr:2	qev43_060.scr	2	セネル	Senel Coolidge	personagem	CRLF x1	長々と付き合わせて悪かったな。\nありがとうな、○○		
+qev43_070.scr:0	qev43_070.scr	0	ミミー	Mimmy Bread	personagem		遅かったパン！		
+qev43_070.scr:1	qev43_070.scr	1	セネル	Senel Coolidge	personagem	CRLF x1	お？\n今回は化けてないのか？		
+qev43_070.scr:2	qev43_070.scr	2	ミミー	Mimmy Bread	personagem	CRLF x1	小生を、化け猫みたいに言うなパン！！\n変身は、もう止めたと書いたはずパン！		
+qev43_070.scr:3	qev43_070.scr	3	セネル	Senel Coolidge	personagem	CRLF x2	そうだったか？\nで、今日はどうするんだ？\nレシピをくれるのか？		
+qev43_070.scr:4	qev43_070.scr	4	ミミー	Mimmy Bread	personagem	CRLF x2	それも書いてあったはずパン！！\n小生は武闘派料理人として、\n第一歩を踏み出したパン！		
+qev43_070.scr:5	qev43_070.scr	5	ミミー	Mimmy Bread	personagem	CRLF x1	その踏み台の為に、兄貴を倒して\n名前を売るパン！		
+qev43_070.scr:6	qev43_070.scr	6	ミミー	Mimmy Bread	personagem	CRLF x1	名うてのマリントルーパーを倒した、\n世界最強の武闘派料理人としてパン！		
+qev43_070.scr:7	qev43_070.scr	7	(ator 200)	(ator 200)	desconhecido		…………		
+qev43_070.scr:8	qev43_070.scr	8	セネル	Senel Coolidge	personagem	CRLF x1	そういう事なら話が早いな。\n戦うなら、望むところだ		
+qev43_070.scr:9	qev43_070.scr	9	セネル	Senel Coolidge	personagem	CRLF x1	こんな奴に負けたら、\nアドリビトムの恥だしな		
+qev43_070.scr:10	qev43_070.scr	10	セネル	Senel Coolidge	personagem		そうだろ、○○？		
+qev43_070.scr:11	qev43_070.scr	11	ミミー	Mimmy Bread	personagem		さーーー、掛かってくるパン！！！		
+qev43_080.scr:0	qev43_080.scr	0	ミミー	Mimmy Bread	personagem	CRLF x2	ぷぷぷ、負けて悔しいかパン！\nだからって、何度来てもムダパン！\n何回やっても、小生が勝つパン！		
+qev43_080.scr:1	qev43_080.scr	1	ミミー	Mimmy Bread	personagem	CRLF x1	ワンダーパン職人流パン術を、\n何度でも味合わせてやるパン！		
+qev44_010.scr:0	qev44_010.scr	0	キュッポ	Kyuppo	personagem	CRLF x1	お願いだキュ！\nポッポを探しに行って欲しいキュ！		
+qev44_010.scr:1	qev44_010.scr	1	キュッポ	Kyuppo	personagem	CRLF x2	鍛冶屋のオープン準備で\n出かけたまま、まだ帰ってこないんだキュ。\n心配だキュ……		
+qev44_010.scr:2	qev44_010.scr	2	キュッポ	Kyuppo	personagem	CRLF x1	ポッポがいれば、ここで\n装備の強化が出来る様になるキュ！		
+qev44_010.scr:3	qev44_010.scr	3	キュッポ	Kyuppo	personagem	CRLF x1	「合成」も「強化」もお手の物だキュ！\nきっとみんな喜ぶキュ！		
+qev44_010.scr:4	qev44_010.scr	4	キュッポ	Kyuppo	personagem	CRLF x1	お願いだキュ。\n探してきて欲しいキュ！		
+qev44_010.scr:5	qev44_010.scr	5	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「ポッポを探してくれキュ！」が\nエントリーされました。\nキュッポから受ける事が出来ます		
+qev44_020.scr:0	qev44_020.scr	0	キュッポ	Kyuppo	personagem	CRLF x2	そう言ってくれると思ったキュ！\nポッポはルバーブ連山で、\n素材を探しているはずだキュ！		
+qev44_020.scr:1	qev44_020.scr	1	キュッポ	Kyuppo	personagem	CRLF x1	間違いないキュ！\nポッポはキュッポと同じ、モフモフ族だキュ！		
+qev44_020.scr:2	qev44_020.scr	2	キュッポ	Kyuppo	personagem	CRLF x1	見ればすぐわかるはずキュ！\nよろしく頼むキュ！！！		
+qev44_050.scr:0	qev44_050.scr	0	ポッポ	Poppo	personagem		キュ〜〜〜〜〜〜〜？？？		
+qev44_050.scr:1	qev44_050.scr	1	ポッポ	Poppo	personagem	CRLF x1	ひょっとして、アドリビトムの人キュ！\nホタテを割るのに夢中になってたキュ！		
+qev44_050.scr:2	qev44_050.scr	2	ポッポ	Poppo	personagem	CRLF x1	いけないキュ！\n危なかったキュ……		
+qev44_050.scr:3	qev44_050.scr	3	ポッポ	Poppo	personagem	CRLF x1	素材はバッチリ手に入れたから、\n船に戻るキュ！		
+qev44_060.scr:0	qev44_060.scr	0	キュッポ	Kyuppo	personagem		ポッポ！		
+qev44_060.scr:1	qev44_060.scr	1	ピッポ	Pippo	personagem		ポッポ！		
+qev44_060.scr:2	qev44_060.scr	2	ポッポ	Poppo	personagem	CRLF x1	ただいまだキュ！\nこの人に助けてもらったキュ！		
+qev44_060.scr:3	qev44_060.scr	3	キュッポ	Kyuppo	personagem		お帰りだキュ！		
+qev44_060.scr:4	qev44_060.scr	4	ピッポ	Pippo	personagem		素材はどうだったキュ！		
+qev44_060.scr:5	qev44_060.scr	5	ポッポ	Poppo	personagem	CRLF x2	バッチリだキュ！\nこれで、武器の強化が\n出来る様になるキュ！		
+qev44_060.scr:6	qev44_060.scr	6	キュッポ	Kyuppo	personagem		勝利のダンス、開始だキュ！		
+qev44_060.scr:7	qev44_060.scr	7	(narracao)	(narracao)	narracao	CRLF x2	キュ〜キュキュ〜キュ〜キュキュッキュ〜♪\nキュキュキュ♪　キュキュキュ♪\nキュキュキュッキュ！		

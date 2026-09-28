@@ -1,0 +1,179 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev23_010.scr:0	cev23_010.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x1	そういや、\nメルディってどこの出身なんだ？		
+cev23_010.scr:1	cev23_010.scr	1	ティトレイ	Tytree Crowe	personagem		話し方とか、ちょっと変わってるよな		
+cev23_010.scr:2	cev23_010.scr	2	メルディ	Meredy	personagem	CRLF x1	バイバ！　\nメルディが言葉おかしいか？		
+cev23_010.scr:3	cev23_010.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x1	いやいや、おかしいとかじゃなくって\nなんつーんだこう……		
+cev23_010.scr:4	cev23_010.scr	4	メルディ	Meredy	personagem	CRLF x1	メルディが家、とても遠い……。\n簡単に帰れないとこあるよ		
+cev23_010.scr:5	cev23_010.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x1	そうか……悪ぃ。\nメルディも色々大変なんだな		
+cev23_010.scr:6	cev23_010.scr	6	メルディ	Meredy	personagem	CRLF x1	でも、アドリビトム\nメルディ家だと思ってるよ		
+cev23_010.scr:7	cev23_010.scr	7	メルディ	Meredy	personagem		みんないる、だから寂しくないな		
+cev23_010.scr:8	cev23_010.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x1	確かにあそこは、何か結束固いよな。\nみんなで家族って感じがするぜ		
+cev23_010.scr:9	cev23_010.scr	9	メルディ	Meredy	personagem	CRLF x1	はいな！　\nみんな家族		
+cev23_010.scr:10	cev23_010.scr	10	メルディ	Meredy	personagem	CRLF x1	だから、ティトレイも\nメルディが家族な		
+cev23_010.scr:11	cev23_010.scr	11	ティトレイ	Tytree Crowe	personagem		はははっ、そっか、そうだな		
+cev23_010.scr:12	cev23_010.scr	12	ティトレイ	Tytree Crowe	personagem	CRLF x1	んじゃメルディ、何か困った事があったら\n何でも兄ちゃんに相談しろよ？		
+cev23_010.scr:13	cev23_010.scr	13	ティトレイ	Tytree Crowe	personagem		バッチリ力になってやるからさ！		
+cev23_010.scr:14	cev23_010.scr	14	メルディ	Meredy	personagem	CRLF x1	ワイール！\nティトレイ、ニーチャン		
+cev23_010.scr:15	cev23_010.scr	15	メルディ	Meredy	personagem		嬉しいよぅ		
+cev23_020.scr:0	cev23_020.scr	0	メルディ	Meredy	personagem	CRLF x2	メルディ、アンジュに聞いたよ。\nティトレイが村、悪い奴に占領された……\n本当なのか？		
+cev23_020.scr:1	cev23_020.scr	1	ティトレイ	Tytree Crowe	personagem	CRLF x1	ああ、まあな……。\nあいつらだけは絶対許せねえ……		
+cev23_020.scr:2	cev23_020.scr	2	ティトレイ	Tytree Crowe	personagem	CRLF x2	けど、今は他に\nもっとやるべき事があるからよ。\nサレの奴をぶっ倒すのはもう少し先だ		
+cev23_020.scr:3	cev23_020.scr	3	メルディ	Meredy	personagem		やるべき、こと？		
+cev23_020.scr:4	cev23_020.scr	4	ティトレイ	Tytree Crowe	personagem	CRLF x1	村に物資の仕送りをする事と\nギルドできっちり働く事だ		
+cev23_020.scr:5	cev23_020.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x1	このご時勢だ、仲間だったら\n辛い時に助け合うのは当然だろ？		
+cev23_020.scr:6	cev23_020.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x1	大変な状況なのは\nおれだけじゃねえんだ		
+cev23_020.scr:7	cev23_020.scr	7	メルディ	Meredy	personagem		ティトレイ、いい奴だな		
+cev23_020.scr:8	cev23_020.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x1	おう。\nあったりまえだろ？		
+cev23_020.scr:9	cev23_020.scr	9	ティトレイ	Tytree Crowe	personagem	CRLF x1	おれはメルディの仲間で、家族で\n兄ちゃんなんだからな		
+cev23_020.scr:10	cev23_020.scr	10	メルディ	Meredy	personagem	CRLF x1	えへへ。\nニーチャン		
+cev23_030.scr:0	cev23_030.scr	0	メルディ	Meredy	personagem	CRLF x1	なあなあ、すずの住んでる里、\nどんな怖い話あるか？		
+cev23_030.scr:1	cev23_030.scr	1	すず	Suzu Fujibayashi	personagem		怖い話……怪談の事でしょうか？		
+cev23_030.scr:2	cev23_030.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x1	でしたら、番台皿屋敷の\nお花さんの話などが有名ですね		
+cev23_030.scr:3	cev23_030.scr	3	メルディ	Meredy	personagem		オハナサン……？		
+cev23_030.scr:4	cev23_030.scr	4	すず	Suzu Fujibayashi	personagem	CRLF x2	はい。\nお花さんは\n番台の大切にしていた皿を……		
+cev23_030.scr:5	cev23_030.scr	5	キール	Keele Zeibel	personagem		そんなものは迷信さ		
+cev23_030.scr:6	cev23_030.scr	6	キール	Keele Zeibel	personagem	CRLF x1	大体、いくら生前の未練が強いとはいえ\n死してなお現世に霊体が現出するなど考え難い		
+cev23_030.scr:7	cev23_030.scr	7	キール	Keele Zeibel	personagem	CRLF x2	ましてや皿を数えるなんて、非科学的だ。\n本当に霊体ならば、\nどうやって物体と接触出来る？		
+cev23_030.scr:8	cev23_030.scr	8	キール	Keele Zeibel	personagem		そもそもの設定からして矛盾している		
+cev23_030.scr:9	cev23_030.scr	9	エステル	Estelle	personagem		そうでしょうか……？		
+cev23_030.scr:10	cev23_030.scr	10	エステル	Estelle	personagem	CRLF x1	世界には、科学で解明出来ない\n不思議な事象もあると聞きます		
+cev23_030.scr:11	cev23_030.scr	11	エステル	Estelle	personagem	CRLF x1	現実に、そういった出来事をまとめた\n文献や書物も編纂されていますし		
+cev23_030.scr:12	cev23_030.scr	12	キール	Keele Zeibel	personagem		子どもだましのお伽話だろ？		
+cev23_030.scr:13	cev23_030.scr	13	キール	Keele Zeibel	personagem	CRLF x1	信頼に値するだけの価値があるか\n怪しいものだな		
+cev23_030.scr:14	cev23_030.scr	14	リフィル	Raine Sage	personagem	CRLF x1	そうとは言い切れなくてよ、\nキール		
+cev23_030.scr:15	cev23_030.scr	15	リフィル	Raine Sage	personagem	CRLF x2	その昔、神話の時代に使われたという\n伝説の箱舟を、見事現代で\n発掘してみせたという成功例もあるわ		
+cev23_030.scr:16	cev23_030.scr	16	リフィル	Raine Sage	personagem	CRLF x2	現在「お伽話」と称される幾つかの事物は\nあくまでその後の人間の価値観に照らして\n後付けされた呼称に過ぎない……		
+cev23_030.scr:17	cev23_030.scr	17	リフィル	Raine Sage	personagem		そうも考えられるのではなくて？		
+cev23_030.scr:18	cev23_030.scr	18	キール	Keele Zeibel	personagem	CRLF x1	そ、それは……そうかもしれませんが\nでも、番台皿屋敷の件に関しては		
+cev23_030.scr:19	cev23_030.scr	19	すず	Suzu Fujibayashi	personagem	CRLF x1	何だか、話をする雰囲気では\nなくなってしまいましたね		
+cev23_030.scr:20	cev23_030.scr	20	メルディ	Meredy	personagem	CRLF x1	バイバ！　\nオハナサン……		
+cev23_030.scr:21	cev23_030.scr	21	メルディ	Meredy	personagem		どんな話か気になるよー		
+cev23_040.scr:0	cev23_040.scr	0	イリア	Iria Animi	personagem	CRLF x1	ほら〜、ルカちゃま∀\n言ってみなさいよ∀		
+cev23_040.scr:1	cev23_040.scr	1	ルカ	Ruca Milda	personagem	CRLF x1	い、嫌だよ……そんなの……。\n恥ずかしいよ……		
+cev23_040.scr:2	cev23_040.scr	2	イリア	Iria Animi	personagem	CRLF x1	だ〜からいいんじゃない！\nいいからほら、言っちゃいなさいよ∀		
+cev23_040.scr:3	cev23_040.scr	3	ルカ	Ruca Milda	personagem	CRLF x1	無茶だよ……。\n僕には絶対無理……		
+cev23_040.scr:4	cev23_040.scr	4	イリア	Iria Animi	personagem		いいからさっさと言えっつーのよ！！		
+cev23_040.scr:5	cev23_040.scr	5	ルカ	Ruca Milda	personagem		ひぃいぃぃ……		
+cev23_040.scr:6	cev23_040.scr	6	メルディ	Meredy	personagem		あれは何してるか？		
+cev23_040.scr:7	cev23_040.scr	7	マオ	Mao	personagem	CRLF x2	「ある言葉」を言わせて\n相手を恥ずかしい気持ちにさせる\n罰ゲームなんだって		
+cev23_040.scr:8	cev23_040.scr	8	マオ	Mao	personagem		イリアらしいよネ		
+cev23_040.scr:9	cev23_040.scr	9	メルディ	Meredy	personagem	CRLF x1	ワイール！\nメルディそれ知ってるよ！		
+cev23_040.scr:10	cev23_040.scr	10	メルディ	Meredy	personagem		言葉セメ……な？		
+cev23_040.scr:11	cev23_040.scr	11	マオ	Mao	personagem	CRLF x1	メルディって、たまに\nすごい言葉知ってるよね……		
+cev23_040.scr:12	cev23_040.scr	12	メルディ	Meredy	personagem	CRLF x1	みんな、メルディにコトバ教えてくれる。\nいい人達よー		
+cev23_050.scr:0	cev23_050.scr	0	マオ	Mao	personagem	CRLF x1	ね、メルディ。\nちょっとボクの指を握ってみて		
+cev23_050.scr:1	cev23_050.scr	1	メルディ	Meredy	personagem	CRLF x1	指か？\n突然どうしたよ？		
+cev23_050.scr:2	cev23_050.scr	2	メルディ	Meredy	personagem	CRLF x1	……もしかしてマオ、怪我したか？\n痛むのか……？		
+cev23_050.scr:3	cev23_050.scr	3	マオ	Mao	personagem		違う違う、そうじゃなくて		
+cev23_050.scr:4	cev23_050.scr	4	マオ	Mao	personagem	CRLF x1	ちょっとした心理テストなんだヨ。\nほら、どれでもいいから握って？		
+cev23_050.scr:5	cev23_050.scr	5	メルディ	Meredy	personagem	CRLF x1	ワイール！　\nテストだったか		
+cev23_050.scr:6	cev23_050.scr	6	メルディ	Meredy	personagem		指、握ればいいんだな？		
+cev23_050.scr:7	cev23_050.scr	7	メルディ	Meredy	personagem	CRLF x1	はいな！\nこんなん選びましたー		
+cev23_050.scr:8	cev23_050.scr	8	マオ	Mao	personagem	CRLF x1	ちょ、ちょっとメルディ。\nそんなに一杯、握っちゃダメだヨ		
+cev23_050.scr:9	cev23_050.scr	9	メルディ	Meredy	personagem	CRLF x1	そうなのか？　\nなぜダメか？		
+cev23_050.scr:10	cev23_050.scr	10	マオ	Mao	personagem	CRLF x2	これはね、相手が選んだ指で\n自分がどう思われているかを\n調べるテストなんだ		
+cev23_050.scr:11	cev23_050.scr	11	マオ	Mao	personagem	CRLF x1	だから、選べるのは一つだけ。\nわかった？		
+cev23_050.scr:12	cev23_050.scr	12	メルディ	Meredy	personagem		相手の気持ち、わかるテストか？		
+cev23_050.scr:13	cev23_050.scr	13	メルディ	Meredy	personagem	CRLF x1	すごいな！\nメルディも出来る様になりたいよ！		
+cev23_050.scr:14	cev23_050.scr	14	マオ	Mao	personagem	CRLF x1	そう？\nじゃ、やり方を教えてあげるネ		
+cev23_050.scr:15	cev23_050.scr	15	メルディ	Meredy	personagem	CRLF x1	ワイール！\nありがとな、マオ！		
+cev23_060.scr:0	cev23_060.scr	0	メルディ	Meredy	personagem		なぁなぁ、キール！		
+cev23_060.scr:1	cev23_060.scr	1	キール	Keele Zeibel	personagem	CRLF x1	……後にしてくれないか。\nぼくは今、本の整理で忙しいんだ		
+cev23_060.scr:2	cev23_060.scr	2	メルディ	Meredy	personagem	CRLF x2	あのな、マオが心理テスト、やらないか？\nメルディ教わった。\nキールもやってみる！		
+cev23_060.scr:3	cev23_060.scr	3	キール	Keele Zeibel	personagem	CRLF x1	心理テストだって？\nまた、そんなくだらない事……		
+cev23_060.scr:4	cev23_060.scr	4	メルディ	Meredy	personagem	CRLF x1	ほら、キール！\nメルディが手、握るよ！		
+cev23_060.scr:5	cev23_060.scr	5	キール	Keele Zeibel	personagem		手、手を握るだって！？		
+cev23_060.scr:6	cev23_060.scr	6	メルディ	Meredy	personagem	CRLF x1	はいな！\nほら、こうしてな……		
+cev23_060.scr:7	cev23_060.scr	7	キール	Keele Zeibel	personagem	CRLF x1	こ……、こ……、\nこれのどこが心理テストなんだ……？		
+cev23_060.scr:8	cev23_060.scr	8	メルディ	Meredy	personagem		えっとな、手を繋いだらな……		
+cev23_060.scr:9	cev23_060.scr	9	メルディ	Meredy	personagem		どうするのか、忘れたよ∀		
+cev23_060.scr:10	cev23_060.scr	10	キール	Keele Zeibel	personagem		何だよ、それは！		
+cev23_060.scr:11	cev23_060.scr	11	キール	Keele Zeibel	personagem	CRLF x2	どうしてお前はいつもそうなんだ。\n大体、ぼくが常々疑問に\n感じているのは……！		
+cev23_060.scr:12	cev23_060.scr	12	メルディ	Meredy	personagem	CRLF x1	キール……。\nメルディと手繋ぐが、そんなにイヤか？		
+cev23_060.scr:13	cev23_060.scr	13	キール	Keele Zeibel	personagem		え……		
+cev23_060.scr:14	cev23_060.scr	14	キール	Keele Zeibel	personagem	CRLF x1	イ……、イヤとか\nそういう事じゃなくて……		
+cev23_060.scr:15	cev23_060.scr	15	メルディ	Meredy	personagem	CRLF x2	それじゃ、なぜそんな怒るか？\nメルディ、キールが手、あったかくて\nなんだか安心するよー		
+cev23_060.scr:16	cev23_060.scr	16	キール	Keele Zeibel	personagem	CRLF x1	…………。\n……し……仕方がないな		
+cev23_060.scr:17	cev23_060.scr	17	キール	Keele Zeibel	personagem	CRLF x1	そこまで言うなら、少しだけ、\n……このままでいてやってもいいぞ		
+cev23_060.scr:18	cev23_060.scr	18	メルディ	Meredy	personagem	CRLF x2	ワイール！　\nほんとか？\nありがとな、キール		
+cev23_070.scr:0	cev23_070.scr	0	メルディ	Meredy	personagem	CRLF x1	なぁ、これ綺麗よ！\n見て見て〜		
+cev23_070.scr:1	cev23_070.scr	1	チェルシー	Chelsea Torn	personagem		うわぁ……綺麗な石ですねぇ！		
+cev23_070.scr:2	cev23_070.scr	2	ファラ	Farah Oersted	personagem	CRLF x2	ほんとだね。\n透きとおってて……。\n光の加減で、色んな色に見える		
+cev23_070.scr:3	cev23_070.scr	3	メルディ	Meredy	personagem	CRLF x1	メルディ、知ってる。\nこれ、天使の羽って言うよー		
+cev23_070.scr:4	cev23_070.scr	4	ファラ	Farah Oersted	personagem	CRLF x1	天使の羽？\n石なのに、羽って呼ぶの？		
+cev23_070.scr:5	cev23_070.scr	5	メルディ	Meredy	personagem	CRLF x2	はいな。\nホンモノが羽みたいにキラキラして\n綺麗な石、そう言うよー		
+cev23_070.scr:6	cev23_070.scr	6	チェルシー	Chelsea Torn	personagem	CRLF x2	天使ですか……。\n以前は、人間と天使が一緒に\n生活していたそうですから		
+cev23_070.scr:7	cev23_070.scr	7	チェルシー	Chelsea Torn	personagem	CRLF x1	それで、そういう言い回しが\n生まれたのかもしれないですね		
+cev23_070.scr:8	cev23_070.scr	8	ファラ	Farah Oersted	personagem	CRLF x2	そっか。\nヒトや、国や、\n世界が変わっても……		
+cev23_070.scr:9	cev23_070.scr	9	ファラ	Farah Oersted	personagem		変わらずに残るものも、あるんだね		
+cev23_070.scr:10	cev23_070.scr	10	メルディ	Meredy	personagem	CRLF x1	ワイール！\nなんだか、フシギな気分なるよー		
+cev23_080.scr:0	cev23_080.scr	0	クィッキー	Quickie	personagem		クィクィクィッキー！		
+cev23_080.scr:1	cev23_080.scr	1	キュッポ	Kyuppo	personagem		どうしたキュ？		
+cev23_080.scr:2	cev23_080.scr	2	ピッポ	Pippo	personagem		何か訴えたい事があるみたいだキュ		
+cev23_080.scr:3	cev23_080.scr	3	ポッポ	Poppo	personagem		ここはポッポに任せるキュ！		
+cev23_080.scr:4	cev23_080.scr	4	クィッキー	Quickie	personagem	CRLF x1	クィッキー！\nクィ、クィック、クィッキー！！		
+cev23_080.scr:5	cev23_080.scr	5	ポッポ	Poppo	personagem		ふんふん……なるほどキュ		
+cev23_080.scr:6	cev23_080.scr	6	ピッポ	Pippo	personagem		わかったキュ？		
+cev23_080.scr:7	cev23_080.scr	7	ポッポ	Poppo	personagem		バッチリだキュ！		
+cev23_080.scr:8	cev23_080.scr	8	クィッキー	Quickie	personagem		クィッキー！		
+cev23_080.scr:9	cev23_080.scr	9	ポッポ	Poppo	personagem	CRLF x1	クィッキーは、お腹が空いたって\n言ってるみたいだキュ		
+cev23_080.scr:10	cev23_080.scr	10	クィッキー	Quickie	personagem		クィ……クィッキー！？		
+cev23_080.scr:11	cev23_080.scr	11	キュッポ	Kyuppo	personagem	CRLF x1	そういう事なら、お任せだキュ。\nみんなで食堂に行けばいいキュ！		
+cev23_080.scr:12	cev23_080.scr	12	ピッポ	Pippo	personagem		さすがキュッポ兄さんだキュ！		
+cev23_080.scr:13	cev23_080.scr	13	クィッキー	Quickie	personagem	CRLF x1	クィック！　\nクィッキ〜〜〜！！		
+cev23_080.scr:14	cev23_080.scr	14	ポッポ	Poppo	personagem		とっても嬉しいって言ってるキュ		
+cev23_080.scr:15	cev23_080.scr	15	ピッポ	Pippo	personagem		それじゃ、すぐ食堂に連れて行ってあげるキュ		
+cev23_080.scr:16	cev23_080.scr	16	キュッポ	Kyuppo	personagem		出発進行！　だキュ！		
+cev23_080.scr:17	cev23_080.scr	17	クィッキー	Quickie	personagem		クィ〜〜〜〜……		
+cev23_080.scr:18	cev23_080.scr	18	ジェイ	Jay	personagem		ここにもいませんね……		
+cev23_080.scr:19	cev23_080.scr	19	ジェイ	Jay	personagem	CRLF x1	クィッキーは、本当に\n迷子になってしまった様ですね		
+cev23_080.scr:20	cev23_080.scr	20	メルディ	Meredy	personagem	CRLF x2	メルディ、ちょっと目離したよ。\nそしたら、クィッキー\nいなくなってた……		
+cev23_080.scr:21	cev23_080.scr	21	メルディ	Meredy	personagem	CRLF x1	クィッキーどこ行ったか？\n心配だよぅ……		
+cev23_200.scr:0	cev23_200.scr	0	メルディ	Meredy	personagem	CRLF x1	通常。\n		
+cev23_200.scr:1	cev23_200.scr	1	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:2	cev23_200.scr	2	メルディ	Meredy	personagem	CRLF x1	笑い。\n		
+cev23_200.scr:3	cev23_200.scr	3	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:4	cev23_200.scr	4	メルディ	Meredy	personagem	CRLF x1	怒り。\n		
+cev23_200.scr:5	cev23_200.scr	5	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:6	cev23_200.scr	6	メルディ	Meredy	personagem	CRLF x1	悲しみ。\n		
+cev23_200.scr:7	cev23_200.scr	7	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:8	cev23_200.scr	8	メルディ	Meredy	personagem	CRLF x1	思案。\n		
+cev23_200.scr:9	cev23_200.scr	9	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:10	cev23_200.scr	10	メルディ	Meredy	personagem	CRLF x1	憤慨。\n		
+cev23_200.scr:11	cev23_200.scr	11	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:12	cev23_200.scr	12	メルディ	Meredy	personagem	CRLF x1	ぷんすか。\n		
+cev23_200.scr:13	cev23_200.scr	13	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:14	cev23_200.scr	14	メルディ	Meredy	personagem	CRLF x1	眠り。\n		
+cev23_200.scr:15	cev23_200.scr	15	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:16	cev23_200.scr	16	メルディ	Meredy	personagem	CRLF x1	通常。\n		
+cev23_200.scr:17	cev23_200.scr	17	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:18	cev23_200.scr	18	メルディ	Meredy	personagem	CRLF x1	笑い。\n		
+cev23_200.scr:19	cev23_200.scr	19	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:20	cev23_200.scr	20	メルディ	Meredy	personagem	CRLF x1	怒り。\n		
+cev23_200.scr:21	cev23_200.scr	21	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:22	cev23_200.scr	22	メルディ	Meredy	personagem	CRLF x1	悲しみ。\n		
+cev23_200.scr:23	cev23_200.scr	23	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:24	cev23_200.scr	24	メルディ	Meredy	personagem	CRLF x1	思案。\n		
+cev23_200.scr:25	cev23_200.scr	25	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:26	cev23_200.scr	26	メルディ	Meredy	personagem	CRLF x1	憤慨。\n		
+cev23_200.scr:27	cev23_200.scr	27	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:28	cev23_200.scr	28	メルディ	Meredy	personagem	CRLF x1	ぷんすか。\n		
+cev23_200.scr:29	cev23_200.scr	29	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:30	cev23_200.scr	30	メルディ	Meredy	personagem	CRLF x1	眠り。\n		
+cev23_200.scr:31	cev23_200.scr	31	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:32	cev23_200.scr	32	メルディ	Meredy	personagem	CRLF x1	通常。\n		
+cev23_200.scr:33	cev23_200.scr	33	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:34	cev23_200.scr	34	メルディ	Meredy	personagem	CRLF x1	笑い。\n		
+cev23_200.scr:35	cev23_200.scr	35	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:36	cev23_200.scr	36	メルディ	Meredy	personagem	CRLF x1	怒り。\n		
+cev23_200.scr:37	cev23_200.scr	37	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:38	cev23_200.scr	38	メルディ	Meredy	personagem	CRLF x1	悲しみ。\n		
+cev23_200.scr:39	cev23_200.scr	39	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:40	cev23_200.scr	40	メルディ	Meredy	personagem	CRLF x1	思案。\n		
+cev23_200.scr:41	cev23_200.scr	41	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:42	cev23_200.scr	42	メルディ	Meredy	personagem	CRLF x1	憤慨。\n		
+cev23_200.scr:43	cev23_200.scr	43	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:44	cev23_200.scr	44	メルディ	Meredy	personagem	CRLF x1	ぷんすか。\n		
+cev23_200.scr:45	cev23_200.scr	45	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev23_200.scr:46	cev23_200.scr	46	メルディ	Meredy	personagem	CRLF x1	眠り。\n		
+cev23_200.scr:47	cev23_200.scr	47	メルディ	Meredy	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

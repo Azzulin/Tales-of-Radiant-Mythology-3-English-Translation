@@ -1,0 +1,92 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev03_010.scr:0	mev03_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	あなたが引き受けてくれるのね。\nそれじゃ、説明するよ	So you'll accept this job.\nLet me explain the details.	
+mev03_010.scr:1	mev03_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	目的地はオルタータ火山。\nそこに、つい最近\n星晶採掘が終了した場所があるの	Your destination is Alterata Volcano.\nA site where Star Crystal mining recently\nwrapped up is located there.	Alterata Volcano e Star Crystals.
+mev03_010.scr:2	mev03_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	そこへ向かって、何か異常がないか\n調査してきてちょうだい	I want you to head there and investigate\nwhether anything abnormal is occurring.	
+mev03_010.scr:3	mev03_010.scr	3	アンジュ	Ange Serena	personagem		今回の同行者は、ウィルさんとルビアよ	Your companions will be Will and Rubia.	
+mev03_010.scr:4	mev03_010.scr	4	アンジュ	Ange Serena	personagem		それじゃあ、お願いね	Well then, I'm counting on you.	
+mev03_020.scr:0	mev03_020.scr	0	ルビア	Rubia Natwick	personagem		あぁ〜〜〜…、暑ぅい…	Aaargh... it's so hot...	
+mev03_020.scr:1	mev03_020.scr	1	ルビア	Rubia Natwick	personagem	CRLF x1	勇んでこの仕事に参加したけど、\nこんなに過酷な所だったなんて…	I was so eager to take this job,\nnever dreaming it'd be so grueling...	
+mev03_020.scr:2	mev03_020.scr	2	ウィル	Will Raynard	personagem	CRLF x2	それにしても、キールが聞いたという情報が\n気になるな。\n赤い煙か…	Still, the information Keele heard\npiques my interest.\nRed smoke, was it...?	
+mev03_020.scr:3	mev03_020.scr	3	ウィル	Will Raynard	personagem	CRLF x1	採掘の際に、\n有害なガスが噴き出したのか…	Did some toxic gas spew forth\nduring the excavation...?	
+mev03_020.scr:4	mev03_020.scr	4	ルビア	Rubia Natwick	personagem	CRLF x1	ここは火山だし、\n空気の悪そうな所だし…	This is a volcano, after all;\nthe air seems pretty foul here...	
+mev03_020.scr:5	mev03_020.scr	5	ウィル	Will Raynard	personagem	CRLF x1	しかし、他の土地でもあったとなると、\n火山性ガスなどの類ではない	Yet if it occurred in other lands as well,\nit cannot merely be volcanic gas.	
+mev03_020.scr:6	mev03_020.scr	6	ウィル	Will Raynard	personagem	CRLF x1	生物に変化を及ぼす物質など、\nオレも聞いた事がないしな…	Even I have never heard of a substance\ncapable of mutating living organisms...	
+mev03_020.scr:7	mev03_020.scr	7	ウィル	Will Raynard	personagem		星晶との因果関係もまだ…	Any link to Star Crystals is still...	
+mev03_020.scr:8	mev03_020.scr	8	ルビア	Rubia Natwick	personagem	CRLF x1	ああ、もう！\nじっとしていた方が暑苦しいわ	Aargh, enough!\nStanding still only makes it hotter!	
+mev03_020.scr:9	mev03_020.scr	9	ルビア	Rubia Natwick	personagem		早く先に進みましょ！	Let's hurry up and move on!	
+mev03_030.scr:0	mev03_030.scr	0	ルビア	Rubia Natwick	personagem		何かしら、今の音…	What was that sound just now...?	
+mev03_030.scr:1	mev03_030.scr	1	ウィル	Will Raynard	personagem	CRLF x2	ここは近年、安定した状態と\n言われているが、見たところ\nそうでもないらしいな	This place was said to be stable in recent\nyears, but from the looks of it,\nthat doesn't seem to be the case.	
+mev03_030.scr:2	mev03_030.scr	2	ルビア	Rubia Natwick	personagem	CRLF x1	ここの火山活動が、\n活発になっているって事？	You mean the volcanic activity here\nhas grown more violent?	
+mev03_030.scr:3	mev03_030.scr	3	ウィル	Will Raynard	personagem		星晶の採掘は、自然にも影響を与えてしまう	Star Crystal mining also impacts nature.	
+mev03_030.scr:4	mev03_030.scr	4	ルビア	Rubia Natwick	personagem	CRLF x1	星晶も、土地に恵みを与える\nマナそのものでもあるからなのね	Because Star Crystals are mana itself,\nwhich bestows blessings upon the land.	Oracao relativa mantida.
+mev03_030.scr:5	mev03_030.scr	5	ウィル	Will Raynard	personagem	CRLF x2	この火山でも、採掘は行われた。\nマナの恵みが無くなり、\n不安定な状態になっているのだろう	Mining occurred at this volcano too.\nRobbed of mana's grace, it likely\nfallen into an unstable state.	
+mev03_030.scr:6	mev03_030.scr	6	ルビア	Rubia Natwick	personagem	CRLF x2	星晶がエネルギーとして使用される様に\nなるまで、人々は世界樹が生み出すマナだけで\n生きていたのに…	Before Star Crystals were used for energy,\npeople lived purely off the mana\nthat the World Tree produces...	Oracao relativa mantida.
+mev03_030.scr:7	mev03_030.scr	7	ルビア	Rubia Natwick	personagem	CRLF x2	昔の人は、マナを生み出してくれる世界樹に\n感謝を捧げていたのに、今の人や文明は\n星晶をむさぼるばかり	Ancients offered thanks to the World Tree\nthat gave them mana, yet modern folks\nonly greedily devour Star Crystals.	Oracao relativa mantida.
+mev03_030.scr:8	mev03_030.scr	8	ルビア	Rubia Natwick	personagem		感謝する事すら忘れているわ	They have forgotten how to give thanks.	
+mev03_030.scr:9	mev03_030.scr	9	ウィル	Will Raynard	personagem	CRLF x2	星晶を採掘し尽くしてしまうと、\nもう人々は今の様な豊かな暮らしは\n出来なくなるな	Once Star Crystals are all mined out,\npeople will no longer be able to sustain\nthe affluent life they enjoy today.	
+mev03_030.scr:10	mev03_030.scr	10	ウィル	Will Raynard	personagem	CRLF x2	だが、もっと恐ろしいのは、\n世界樹が生み出している非物質のマナを\nエネルギー利用する技術が出来た時だ	Yet what is far more terrifying is\nif tech arises to harness non-physical\nmana born from the World Tree.	Oracao relativa mantida.
+mev03_030.scr:11	mev03_030.scr	11	ウィル	Will Raynard	personagem	CRLF x1	そうなれば、人々はこの世界の生命を支える\nマナまでも奪い尽くすだろう	Then people would strip away even the mana\nthat supports all life in this world.	Oracao relativa mantida.
+mev03_030.scr:12	mev03_030.scr	12	ウィル	Will Raynard	personagem	CRLF x1	一時の繁栄と引き換えに世界樹は枯れ、\n世界は滅亡してしまう	For fleeting prosperity, the World Tree\nwould wither, and the world perish.	
+mev03_030.scr:13	mev03_030.scr	13	ルビア	Rubia Natwick	personagem		星晶に頼らない世界になればいいな…	I wish for a world without crystals...	
+mev03_030.scr:14	mev03_030.scr	14	ルビア	Rubia Natwick	personagem	CRLF x1	早く、オルタ・ビレッジが\n実現すればいいのに	I hope Olta Village becomes\na reality as soon as possible...	Olta Village conforme INDICE_NOMES.
+mev03_040.scr:0	mev03_040.scr	0	ルビア	Rubia Natwick	personagem		キャッ！　虫！？	Eek! A bug?!	
+mev03_040.scr:1	mev03_040.scr	1	ウィル	Will Raynard	personagem	CRLF x2	これは…！！\nここにしか生息しない貴重な生物、\n「コクヨウ玉虫」だ	This is...!!\nA rare species that only lives here:\nthe Obsidian Jewel Beetle.	Kokuyo / Obsidian Jewel Beetle conforme nota no indice.
+mev03_040.scr:2	mev03_040.scr	2	ルビア	Rubia Natwick	personagem	CRLF x2	こんな環境で虫が？\n動かないわ。\n死んでる…？	A bug in this environment?\nIt isn't moving.\nIs it dead...?	
+mev03_040.scr:3	mev03_040.scr	3	ウィル	Will Raynard	personagem	CRLF x2	コクヨウ玉虫は、この苔を食するのだが。\nこいつも枯れているな…。\n不安定な地熱のせいで枯れたのだろう	Obsidian Jewel Beetles feed on this moss.\nYet this too has withered... Withered\nfrom volatile geothermal heat, no doubt.	
+mev03_040.scr:4	mev03_040.scr	4	ウィル	Will Raynard	personagem		やはり、星晶の採掘が原因かもしれんな	Star Crystal mining may be the cause.	
+mev03_040.scr:5	mev03_040.scr	5	ウィル	Will Raynard	personagem	CRLF x1	コクヨウ玉虫に、この苔…。\nどちらも貴重な種だと言うのに…	The Obsidian Jewel Beetle, this moss...\nAnd both are such precious species...	
+mev03_040.scr:6	mev03_040.scr	6	ルビア	Rubia Natwick	personagem		これって、赤い煙！？	Is this... that red smoke?!	
+mev03_040.scr:7	mev03_040.scr	7	ウィル	Will Raynard	personagem		この煙の動きは…！	The way this smoke is moving...!	
+mev03_040.scr:8	mev03_040.scr	8	ウィル	Will Raynard	personagem	CRLF x2	何だ、今のは…。\nあの赤い煙、まるで意志がある様に\n動いていた…	What was that just now...?\nThat red smoke moved as though\nit possessed a will of its own...	
+mev03_040.scr:9	mev03_040.scr	9	ウィル	Will Raynard	personagem	CRLF x1	これは、単なる有害なガスなどでは\n無さそうだ	This does not appear to be\nany simple toxic gas.	
+mev03_040.scr:10	mev03_040.scr	10	ウィル	Will Raynard	personagem	CRLF x1	む…？\nまだ生きている様だな	Hm...?\nIt appears to still be alive.	
+mev03_040.scr:11	mev03_040.scr	11	ウィル	Will Raynard	personagem		ならば、こいつを持って帰るか	Then let us take this one back with us.	
+mev03_040.scr:12	mev03_040.scr	12	ルビア	Rubia Natwick	personagem		ええ〜、気持ちわる〜い	Eeeew, that is so gross!	
+mev03_040.scr:13	mev03_040.scr	13	ウィル	Will Raynard	personagem	CRLF x2	だが、今の赤い煙が\n生物変化の要因かもしれない。\n調べれば何かわかるだろう	Yet that red smoke may well be the cause\nof the mutations. Investigating it\nwill surely tell us something.	
+mev03_040.scr:14	mev03_040.scr	14	ルビア	Rubia Natwick	personagem	CRLF x1	それじゃあ、早く戻りましょう。\nこんな場所、もうこりごりだわ！	Let's head back right away, then.\nI've had more than enough of this place!	
+mev03_050.scr:0	mev03_050.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	今回、赤い煙が本当に現れたのは、\n収穫だったね	Having the red smoke actually appear\nwas quite a valuable breakthrough.	
+mev03_050.scr:1	mev03_050.scr	1	ウィル	Will Raynard	personagem	CRLF x1	あの場で生物変化は確認出来なかったが、\n現れたあの赤い煙…	We couldn't confirm mutations on the spot,\nbut that red smoke which appeared...	
+mev03_050.scr:2	mev03_050.scr	2	ウィル	Will Raynard	personagem	CRLF x1	奇妙な事に、生きている虫にしか\nまとわり付かなかった	Strangely, it clung only\nto the living insect.	
+mev03_050.scr:3	mev03_050.scr	3	ウィル	Will Raynard	personagem	CRLF x1	持ち帰った虫を調べてみたが、\n取り立てて変化は無い	I examined the insect we brought back,\nbut noticed no particular change.	
+mev03_050.scr:4	mev03_050.scr	4	ウィル	Will Raynard	personagem	CRLF x1	ほんのわずかだが餌も手に入れられた。\nしばらく飼育してみようと思う	I managed to gather a little food for it,\nso I intend to raise it for a while.	
+mev03_050.scr:5	mev03_050.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	はい。\nそれじゃあ、管理はお願いします	Very well.\nI leave its care in your hands.	
+mev03_050.scr:6	mev03_050.scr	6	(mensagem de sistema)	(mensagem de sistema)	sistema		優先行動（初級者編）が使えるようになりました！	Priority Actions (Beginner) are unlocked!	Priority Action conforme INDICE_TERMOS.
+mev03_060.scr:0	mev03_060.scr	0	レイヴン	Raven	personagem		よう、少年	Hey there, laddie.	
+mev03_060.scr:1	mev03_060.scr	1	レイヴン	Raven	personagem	CRLF x1	アドリビトムってギルドは、\nここで良かったかな？	Is this the guild called Ad Libitum?\nDid I come to the right place?	
+mev03_060.scr:2	mev03_060.scr	2	レイヴン	Raven	personagem		おっ、そこのお嬢さん！	Oho, hey there, young lady!	
+mev03_060.scr:3	mev03_060.scr	3	レイヴン	Raven	personagem	CRLF x1	アドリビトムってギルドは、\nここで良かったのかな？	Is this the guild called Ad Libitum?\nDid I come to the right place?	
+mev03_060.scr:4	mev03_060.scr	4	レイヴン	Raven	personagem	CRLF x2	あらー。\nおっさん、そんなに怪しい？\nおっさんの魅力に胸がどきどき？	Oh my.\nIs old Raven looking suspicious to ya?\nHeart pounding at this old guy's charm?	
+mev03_060.scr:5	mev03_060.scr	5	ジュディス	Judith	personagem	CRLF x1	あら、この人があなたの魅力を\nわかってくれる人だったらいいのだけれど	My, if only this person were capable\nof appreciating your charms.	
+mev03_060.scr:6	mev03_060.scr	6	レイヴン	Raven	personagem		…ジュディスちゃん…	...Judith...	Judith conforme INDICE_NOMES, honorifico omitido (J2).
+mev03_060.scr:7	mev03_060.scr	7	ジュディス	Judith	personagem	CRLF x1	私達、ここで働きたいの。\nリーダーはどちら？	We'd like to work here.\nWho might the leader be?	
+mev03_060.scr:8	mev03_060.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	はい、わたしがこのギルド\nアドリビトムのリーダー、アンジュです。\n何か御用でしょうか？	Yes, I am Ange, leader of this guild,\nAd Libitum.\nHow may I help you?	
+mev03_060.scr:9	mev03_060.scr	9	ジュディス	Judith	personagem	CRLF x1	私はジュディス。\nそして彼が…	I am Judith.\nAnd this is...	Judith conforme INDICE_NOMES.
+mev03_060.scr:10	mev03_060.scr	10	レイヴン	Raven	personagem	CRLF x1	俺はレイヴン。\nここにユーリのあんちゃんいるっしょ？	I'm Raven.\nYuri's staying here, ain't he?	Raven conforme INDICE_NOMES.
+mev03_060.scr:11	mev03_060.scr	11	レイヴン	Raven	personagem		俺達、あいつが元いたギルドの仲間なのよ	We're buddies from his former guild, see.	
+mev03_060.scr:12	mev03_060.scr	12	ジュディス	Judith	personagem	CRLF x1	エステルの依頼を受けたあとで、\n彼、指名手配になったでしょう？	After taking Estelle's request,\nhe ended up a wanted man, you see.	
+mev03_060.scr:13	mev03_060.scr	13	レイヴン	Raven	personagem	CRLF x2	そーそー、そのせいで俺達のギルドまで\nガサ入れが入っちゃって、エステル嬢ちゃん\n誘拐の手引きをしたと疑いをかけられてるのよ	Right on! Our guild got raided over it,\nand they suspect us of helping him kidnap\nlittle Lady Estelle!	
+mev03_060.scr:14	mev03_060.scr	14	レイヴン	Raven	personagem		ま、手引きをしたのはウソじゃないんだけどね	Well, can't say we didn't help him out.	
+mev03_060.scr:15	mev03_060.scr	15	レイヴン	Raven	personagem	CRLF x1	そんで、ガルバンゾをしばらく出た方が\nいいんじゃないかねって	So we figured we'd best clear out\nof Garbanzo for a while.	
+mev03_060.scr:16	mev03_060.scr	16	ジュディス	Judith	personagem	CRLF x1	ユーリがここで仕事をしてるって\n噂を聞いたから来てみたの	We heard rumors Yuri was working here,\nso we decided to visit.	
+mev03_060.scr:17	mev03_060.scr	17	ジュディス	Judith	personagem	CRLF x1	どうかしら？\nここで働かせてもらえない？	What do you say?\nWould you let us work here?	
+mev03_060.scr:18	mev03_060.scr	18	アンジュ	Ange Serena	personagem	CRLF x1	オッケーよ。\nそれじゃあ、加入の手続きをするね	Sounds good to me.\nI'll process your registration right away.	
+mev03_060.scr:19	mev03_060.scr	19	レイヴン	Raven	personagem	CRLF x1	ふい〜。\nやっと、逃亡生活とおさらばなのね	Phew!\nFinally bidding life on the run goodbye!	
+mev03_060.scr:20	mev03_060.scr	20	レイヴン	Raven	personagem		んじゃ、これからよろしくな、少年！	Well then, countin' on ya, laddie!	
+mev03_060.scr:21	mev03_060.scr	21	レイヴン	Raven	personagem		んじゃ、これからよろしくな、お嬢さん！	Well then, countin' on ya, young lady!	
+mev03_060.scr:22	mev03_060.scr	22	(mensagem de sistema)	(mensagem de sistema)	sistema		ジュディスがアドリビトムに加入しました	Judith has joined Ad Libitum.	
+mev03_060.scr:23	mev03_060.scr	23	(mensagem de sistema)	(mensagem de sistema)	sistema		レイヴンがアドリビトムに加入しました	Raven has joined Ad Libitum.	
+mev03_070.scr:0	mev03_070.scr	0	ジョアン	Joan	personagem	CRLF x2	すみません…。\nアドリビトムというギルドは\nこちらでしょうか？	Excuse me...\nIs this the guild known\nas Ad Libitum?	
+mev03_070.scr:1	mev03_070.scr	1	アンジュ	Ange Serena	personagem		はい	Yes!	
+mev03_070.scr:2	mev03_070.scr	2	ジョアン	Joan	personagem	CRLF x2	私は、モラード村から来ました。\nジョアンと言います。\nここへ、依頼をしに来たんですけど…	I came from Morado Village.\nMy name is Joan.\nI came to post a request, but...	Morado Village e Joan conforme INDICE_NOMES.
+mev03_070.scr:3	mev03_070.scr	3	アンジュ	Ange Serena	personagem		どういった依頼でしょうか？	What kind of request might it be?	
+mev03_070.scr:4	mev03_070.scr	4	ジョアン	Joan	personagem	CRLF x2	ゴホッ…！！\nブラウニー坑道の奥地へ行きたくて、\n護衛を…ゴホゴホッ…、お願いしたいんです	*cough*...!!\nI wish to go deep into Brownie Mine,\nand need an escort... *cough, hack*...	Brownie Mine conforme INDICE_NOMES.
+mev03_070.scr:5	mev03_070.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	顔色が随分悪い様ですが、\nお薬をもってきましょうか？	You look terribly pale;\nshall I bring you some medicine?	
+mev03_070.scr:6	mev03_070.scr	6	ジョアン	Joan	personagem	CRLF x1	いいえ、私の病気は薬では治りません。\n医者ですら、さじを投げたんですから…	No, medicine cannot cure my disease.\nEven doctors threw their hands up...	
+mev03_070.scr:7	mev03_070.scr	7	ジョアン	Joan	personagem		でも、治す方法が一つだけ…	Yet there is only one way to cure it...	
+mev03_070.scr:8	mev03_070.scr	8	ジョアン	Joan	personagem	CRLF x2	そのブラウニー坑道の奥には\n「病気を治してくれる存在」が\nいるそうなので…	Deep within Brownie Mine,\nthey say there lives a being who can\ncure illnesses...	Oracao relativa mantida.
+mev03_070.scr:9	mev03_070.scr	9	アンジュ	Ange Serena	personagem		病気を治す…？	Cure illnesses...?	
+mev03_070.scr:10	mev03_070.scr	10	ジョアン	Joan	personagem	CRLF x1	護衛を…、ゴホッ…、\n引き受けていただけますか…？	Would you... *cough*...\naccept this escort mission...?	
+mev03_070.scr:11	mev03_070.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	はい…。\n依頼とあれば…	Yes...\nIf it is a request...	
+mev03_070.scr:12	mev03_070.scr	12	ジョアン	Joan	personagem	CRLF x1	では、受けていただける時に\n連絡を下さい	Then please contact me\nwhen you are ready to accept.	
+mev03_070.scr:13	mev03_070.scr	13	ジョアン	Joan	personagem		失礼します…、ゴホゴホゴホッ…！	Excuse me... *cough, hack, cough*...!	
+mev03_070.scr:14	mev03_070.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	はい。\nでは、お体、お大事になさって下さいね	Yes.\nPlease take good care of yourself, okay?	

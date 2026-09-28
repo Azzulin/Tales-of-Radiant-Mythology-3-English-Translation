@@ -1,0 +1,59 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+sev01_010.scr:0	sev01_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	今回はミントからの依頼で、\nオルタータ火山へ行ってもらうね		
+sev01_010.scr:1	sev01_010.scr	1	アンジュ	Ange Serena	personagem		で、何をするかと言うと…		
+sev01_010.scr:2	sev01_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	アーチェが持って来てくれた\n「ソーサラーリング」に、自然界の息吹を\n注入してきて欲しいの		
+sev01_010.scr:3	sev01_010.scr	3	ミント	Mint Adenade	personagem	CRLF x1	自然界の息吹とは、自然のエネルギーと\n捉えていただいて結構です		
+sev01_010.scr:4	sev01_010.scr	4	ミント	Mint Adenade	personagem	CRLF x2	そのエネルギーを注入する場所を、\n「リングスポット」と言い、そこで初めて\nソーサラーリングに効力が宿ります		
+sev01_010.scr:5	sev01_010.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	まあ、何が出来るかといえば、\n宿らせたエネルギーを\nリングで撃てる様になるのかな		
+sev01_010.scr:6	sev01_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	ま、あちこちで役に立つものだし、\n損になる事は無いから		
+sev01_010.scr:7	sev01_010.scr	7	アンジュ	Ange Serena	personagem	CRLF x1	ええっと、今回の同行者は\nユージーンさんとチャットの二人よ		
+sev01_010.scr:8	sev01_010.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	それじゃあ、ソーサラーリングを預けるから\nあとはお願いね		
+sev01_020.scr:0	sev01_020.scr	0	チャット	Chat	personagem	CRLF x2	アンジュさん…。\nボクが、毛がフサフサなのを苦手だと\n知っていながら、この組み合わせ…		
+sev01_020.scr:1	sev01_020.scr	1	ユージーン	Eugene Gallardo	personagem	CRLF x1	どうした、チャット。\n忘れ物か？		
+sev01_020.scr:2	sev01_020.scr	2	チャット	Chat	personagem	CRLF x1	うわっ…！？\nあ、あまり近寄らないで下さい！！		
+sev01_020.scr:3	sev01_020.scr	3	チャット	Chat	personagem	CRLF x2	そ、それより、\nボクを子ども扱いしないで下さいよ！\n発つ前にちゃんと準備万端にしてますってば！		
+sev01_020.scr:4	sev01_020.scr	4	ユージーン	Eugene Gallardo	personagem	CRLF x2	そうか、それは悪かったな。\nしかし、今回はお前のその小さい身体が\n必要になる		
+sev01_020.scr:5	sev01_020.scr	5	ユージーン	Eugene Gallardo	personagem	CRLF x2	俺と○○は、\nお前にしか出来ない仕事をする間の\n護衛というわけだ		
+sev01_020.scr:6	sev01_020.scr	6	チャット	Chat	personagem		な、何をさせる気なんですか？		
+sev01_020.scr:7	sev01_020.scr	7	ユージーン	Eugene Gallardo	personagem		行けばわかる		
+sev01_030.scr:0	sev01_030.scr	0	チャット	Chat	personagem	CRLF x1	ここは通れないんでしょう？\n進めないじゃないですか！		
+sev01_030.scr:1	sev01_030.scr	1	ユージーン	Eugene Gallardo	personagem		この扉は、向こう側からなら開く		
+sev01_030.scr:2	sev01_030.scr	2	チャット	Chat	personagem	CRLF x1	そう言っても、\nどうやって向こう側へ行くんですか？		
+sev01_030.scr:3	sev01_030.scr	3	ユージーン	Eugene Gallardo	personagem		それがお前の仕事になる		
+sev01_030.scr:4	sev01_030.scr	4	ユージーン	Eugene Gallardo	personagem	CRLF x1	壁に穴があるだろう。\nあの穴は、扉の向こう側へ続いている		
+sev01_030.scr:5	sev01_030.scr	5	チャット	Chat	personagem	CRLF x2	ええ！！\nバンエルティア号の船長であるボクに\n何かあったらどうするんですか		
+sev01_030.scr:6	sev01_030.scr	6	ユージーン	Eugene Gallardo	personagem	CRLF x1	もしもの為に俺達がいる。\n安心しろ		
+sev01_030.scr:7	sev01_030.scr	7	ユージーン	Eugene Gallardo	personagem	CRLF x1	それとも出来ないと言うならば、\n他の者に代わってもらうか？		
+sev01_030.scr:8	sev01_030.scr	8	チャット	Chat	personagem	CRLF x1	で、出来ますよ！！\nボクが行きます！！		
+sev01_030.scr:9	sev01_030.scr	9	チャット	Chat	personagem		う………		
+sev01_030.scr:10	sev01_030.scr	10	チャット	Chat	personagem	CRLF x1	（奥にフサフサのネズミとかいたら…、\n　どうしよう…）		
+sev01_030.scr:11	sev01_030.scr	11	ユージーン	Eugene Gallardo	personagem	CRLF x1	どうした。\n何かいるのか？		
+sev01_030.scr:12	sev01_030.scr	12	チャット	Chat	personagem		うわぁぁああ、こっちもフサフサ！！		
+sev01_030.scr:13	sev01_030.scr	13	チャット	Chat	personagem	CRLF x1	こっちに来ないで下さい！\n行きます、行きますってば！！		
+sev01_030.scr:14	sev01_030.scr	14	チャット	Chat	personagem		…どうぞ、…開きましたよ		
+sev01_030.scr:15	sev01_030.scr	15	ユージーン	Eugene Gallardo	personagem		よくやった、チャット		
+sev01_030.scr:16	sev01_030.scr	16	ユージーン	Eugene Gallardo	personagem		しかし、その帽子で、よく穴を通れたな		
+sev01_030.scr:17	sev01_030.scr	17	チャット	Chat	personagem	CRLF x1	………そうですね。\n…我ながら不思議です		
+sev01_040.scr:0	sev01_040.scr	0	ユージーン	Eugene Gallardo	personagem		む…、あれはフィアブロンクか		
+sev01_040.scr:1	sev01_040.scr	1	ユージーン	Eugene Gallardo	personagem	CRLF x1	○○はともかく、\nチャットは大丈夫か		
+sev01_040.scr:2	sev01_040.scr	2	チャット	Chat	personagem	CRLF x1	馬鹿にしないで下さい。\n毛が無い相手なら、恐くありません！		
+sev01_040.scr:3	sev01_040.scr	3	ユージーン	Eugene Gallardo	personagem		…そいつは頼もしい言葉だ		
+sev01_040.scr:4	sev01_040.scr	4	ユージーン	Eugene Gallardo	personagem		では、行くぞ！		
+sev01_050.scr:0	sev01_050.scr	0	ユージーン	Eugene Gallardo	personagem	CRLF x1	倒さねば、\n仕事は完了しないからな		
+sev01_050.scr:1	sev01_050.scr	1	ユージーン	Eugene Gallardo	personagem		行くぞ！		
+sev01_060.scr:0	sev01_060.scr	0	ユージーン	Eugene Gallardo	personagem	CRLF x1	さあ、目指すはこの先だ。\n行くぞ		
+sev01_070.scr:0	sev01_070.scr	0	ユージーン	Eugene Gallardo	personagem		ここがリングスポットだ		
+sev01_070.scr:1	sev01_070.scr	1	ユージーン	Eugene Gallardo	personagem	CRLF x2	○○。\nはめているソーサラーリングを\nあの台にかざしてみろ		
+sev01_070.scr:2	sev01_070.scr	2	ユージーン	Eugene Gallardo	personagem	CRLF x1	これで、ソーサラーリングに\n自然界の息吹が宿った		
+sev01_070.scr:3	sev01_070.scr	3	チャット	Chat	personagem		扉が閉まってしまいましたよ！		
+sev01_070.scr:4	sev01_070.scr	4	ユージーン	Eugene Gallardo	personagem		大体の仕掛けはわかっている		
+sev01_070.scr:5	sev01_070.scr	5	ユージーン	Eugene Gallardo	personagem	CRLF x2	後に、ソーサラーリング用の\nスイッチがある。\n○○、あれを撃ってみろ		
+sev01_070.scr:6	sev01_070.scr	6	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	ソーサラーリングは、\n□ボタンで撃つ事が出来ます		
+sev01_080.scr:0	sev01_080.scr	0	ユージーン	Eugene Gallardo	personagem	CRLF x1	やはりな。\nそういう仕掛けか		
+sev01_080.scr:1	sev01_080.scr	1	チャット	Chat	personagem	CRLF x2	良かった…。\nこのまま閉じ込められるのかと\n思いましたよ…		
+sev01_080.scr:2	sev01_080.scr	2	ユージーン	Eugene Gallardo	personagem	CRLF x1	今の様に、ソーサラーリングでしか\n道を作れない所がある		
+sev01_080.scr:3	sev01_080.scr	3	ユージーン	Eugene Gallardo	personagem	CRLF x2	このリングを持っていれば、\n今まで行く事が出来なかった場所も\nこうして行ける様になるぞ		
+sev01_080.scr:4	sev01_080.scr	4	ユージーン	Eugene Gallardo	personagem	CRLF x1	では、この仕事は終わりだ。\n戻るとしよう		
+sev01_090.scr:0	sev01_090.scr	0	アンジュ	Ange Serena	personagem		お疲れ様！		
+sev01_090.scr:1	sev01_090.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	ソーサラーリングはまだ効力を上げる事が\n出来るから、新しいリングスポットが\nわかったら教えてあげるね		
+sev01_090.scr:2	sev01_090.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	あ、そうそう。\nリングはあなたに預けておくから、\n役立ててちょうだいね		

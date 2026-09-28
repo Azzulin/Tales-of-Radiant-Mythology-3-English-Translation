@@ -1,0 +1,194 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	traducao
+cev24_010.scr:0	cev24_010.scr	0	キュッポ	Kyuppo	personagem	CRLF x2	キュ〜キュキュ〜キュ〜キュキュッキュ〜♪\nキュキュキュ♪　キュキュキュ♪\nキュキュキュッキュ！	Kyu~ kyu-kyu~ kyu~ kyu-kyu-kyu~!\nKyu-kyu-kyu! Kyu-kyu-kyu!\nKyu-kyu-kyu-kyu!		Kyu~ kyu-kyu~ kyu~ kyu-kyu-kyu~!\nKyu-kyu-kyu! Kyu-kyu-kyu!\nKyu-kyu-kyu-kyu!
+cev24_010.scr:1	cev24_010.scr	1	コーダ	Coda	personagem	CRLF x1	むぐむぐむぐ……む！\n美味いなこれ、しかし	*munch munch munch*... Mmm!\nThis is delicious, I must say!		*munch munch munch*... Mmm!\nThis is delicious, I must say!
+cev24_010.scr:2	cev24_010.scr	2	クィッキー	Quickie	personagem		クィ〜？	Kwi~?		Kwi~?
+cev24_010.scr:3	cev24_010.scr	3	コーダ	Coda	personagem	CRLF x1	しかし、だめなんだぞ。\nこれはコーダのおやつなんだぞ	No can do, I must say!\nThis is Coda's snack, I must say!		No can do, I must say!\nThis is Coda's snack, I must say!
+cev24_010.scr:4	cev24_010.scr	4	ロックス	Rocks	personagem	CRLF x2	も〜、コーダ様。\n食べ物のカスを\n散らかさないで下さいよ〜	Geez, Master Coda...\nPlease don't scatter\nfood crumbs everywhere~		Geez, Master Coda...\nPlease don't scatter\nfood crumbs everywhere~
+cev24_010.scr:5	cev24_010.scr	5	ロックス	Rocks	personagem	CRLF x1	これじゃ、いくら掃除をしたって\nキリがないですよ	At this rate, no matter how much I clean,\nthere will be no end to it!		At this rate, no matter how much I clean,\nthere will be no end to it!
+cev24_010.scr:6	cev24_010.scr	6	クィッキー	Quickie	personagem		クィッキー！	Quickie!		Quickie!
+cev24_010.scr:7	cev24_010.scr	7	ロックス	Rocks	personagem		うわぁ！	Whoa!		Whoa!
+cev24_010.scr:8	cev24_010.scr	8	ロックス	Rocks	personagem	CRLF x2	もう、クィッキー様まで……。\nダメですよ。今は仕事中ですから\nまた後で遊びましょうね	Good grief, even Master Quickie...\nNot now. I'm working right now,\nso let's play together later, okay?		Good grief, even Master Quickie...\nNot now. I'm working right now,\nso let's play together later, okay?
+cev24_010.scr:9	cev24_010.scr	9	クィッキー	Quickie	personagem		クキュ〜〜……	K-Kyuu~~...		K-Kyuu~~...
+cev24_010.scr:10	cev24_010.scr	10	チャット	Chat	personagem	CRLF x1	な、何なんですか。\nこの地獄絵図は……	Wh-What is this...?\nThis scene from hell......		Wh-What is this...?\nThis scene from hell......
+cev24_010.scr:11	cev24_010.scr	11	チャット	Chat	personagem	CRLF x1	うわ〜〜ん！\nボクのバンエルティア号が〜〜！	Waaaaah!\nMy Van Eltia has been~~!!		Waaaaah!\nMy Van Eltia has been~~!!
+cev24_020.scr:0	cev24_020.scr	0	セルシウス	Celsius	personagem	CRLF x1	チャット？\n何を見ているの	Chat?\nWhat are you looking at?		Chat?\nWhat are you looking at?
+cev24_020.scr:1	cev24_020.scr	1	チャット	Chat	personagem		船内の巡回です	I am doing shipboard patrol.		I am doing shipboard patrol.
+cev24_020.scr:2	cev24_020.scr	2	チャット	Chat	personagem	CRLF x1	こんな事は本来、船長である\nボクの仕事ではないのですが……	Normally, this is not a job for\nthe captain like myself, but...		Normally, this is not a job for\nthe captain like myself, but...
+cev24_020.scr:3	cev24_020.scr	3	チャット	Chat	personagem	CRLF x1	たまに仕事をサボる人がいるので\n念の為、見回りをしているんです	Some people slack off sometimes,\nso I am doing rounds just in case.		Some people slack off sometimes,\nso I am doing rounds just in case.
+cev24_020.scr:4	cev24_020.scr	4	セルシウス	Celsius	personagem	CRLF x1	船の中というのは、\nそんなにやる事が多いものなの？	Are there really that many things\nto do aboard a ship?		Are there really that many things\nto do aboard a ship?
+cev24_020.scr:5	cev24_020.scr	5	チャット	Chat	personagem		もちろんです！	Of course there are!		Of course there are!
+cev24_020.scr:6	cev24_020.scr	6	チャット	Chat	personagem	CRLF x2	掃除、洗濯、食事の準備に\n備品管理や武器防具の手入れ。\n全部、船員の大切な仕事です	Cleaning, laundry, cooking meals,\ninventory, maintaining weapons...\nAll crucial duties of the crew!		Cleaning, laundry, cooking meals,\ninventory, maintaining weapons...\nAll crucial duties of the crew!
+cev24_020.scr:7	cev24_020.scr	7	セルシウス	Celsius	personagem	CRLF x2	そう……。\nヒトが大勢いると、それだけ\n仕事も増えるという事なのね	I see...\nWith so many humans gathered,\nduties naturally multiply as well.		I see...\nWith so many humans gathered,\nduties naturally multiply as well.
+cev24_020.scr:8	cev24_020.scr	8	チャット	Chat	personagem		その通りです	Indeed.		Indeed.
+cev24_020.scr:9	cev24_020.scr	9	チャット	Chat	personagem	CRLF x1	不出来な子分を持つと\n船長も苦労が絶えないですよ	Having inept henchmen brings endless\nhardship upon the captain, you know!		Having inept henchmen brings endless\nhardship upon the captain, you know!
+cev24_020.scr:10	cev24_020.scr	10	セルシウス	Celsius	personagem		……口先だけね	...All talk, aren't you?		...All talk, aren't you?
+cev24_020.scr:11	cev24_020.scr	11	チャット	Chat	personagem		えっ？	Eh?		Eh?
+cev24_020.scr:12	cev24_020.scr	12	セルシウス	Celsius	personagem	CRLF x2	あなたの目はいつも、日々の充足に\n輝いているじゃない。\n素直に自慢してもいいのに	Your eyes always sparkle with daily\nfulfillment. You could simply take\npride in it honestly, you know.		Your eyes always sparkle with daily\nfulfillment. You could simply take\npride in it honestly, you know.
+cev24_020.scr:13	cev24_020.scr	13	チャット	Chat	personagem		そ、そんな事……！	Th-That's not...!		Th-That's not...!
+cev24_020.scr:14	cev24_020.scr	14	セルシウス	Celsius	personagem		この船は良い船だわ……	This is a wonderful ship...		This is a wonderful ship...
+cev24_020.scr:15	cev24_020.scr	15	チャット	Chat	personagem		…………	......		......
+cev24_020.scr:16	cev24_020.scr	16	チャット	Chat	personagem	CRLF x1	と、当然です！\nボクのバンエルティア号なんですから	O-Of course it is!\nIt is my Van Eltia, after all!		O-Of course it is!\nIt is my Van Eltia, after all!
+cev24_030.scr:0	cev24_030.scr	0	アニス	Anise Tatlin	personagem		な〜んか白けちゃったね〜	Well, that really killed the mood~		Well, that really killed the mood~
+cev24_030.scr:1	cev24_030.scr	1	アニス	Anise Tatlin	personagem	CRLF x1	もう、どろきしでもきしどろでも\n何でもいいんじゃん？	Who cares whether it's 'cops and robbers'\nor 'robbers and cops', right?		Who cares whether it's 'cops and robbers'\nor 'robbers and cops', right?
+cev24_030.scr:2	cev24_030.scr	2	チャット	Chat	personagem		まぁ、きしどろですけどね	Well, it is 'robbers and cops', though.		Well, it is 'robbers and cops', though.
+cev24_030.scr:3	cev24_030.scr	3	チャット	Chat	personagem	CRLF x1	小さな事にこだわっても仕方ないですし、\n部下とは円満な関係を築きたいですしね	No point obsessing over minor details;\nI want a harmonious bond with my crew.		No point obsessing over minor details;\nI want a harmonious bond with my crew.
+cev24_030.scr:4	cev24_030.scr	4	アニス	Anise Tatlin	personagem		（こいつ……）	(This kid......)		(This kid......)
+cev24_030.scr:5	cev24_030.scr	5	マオ	Mao	personagem	CRLF x2	ぶー。\nそれじゃ、他の遊びを\n考えないといけないネ……	Boo.\nGuess we gotta think up another game\nto play then...		Boo.\nGuess we gotta think up another game\nto play then...
+cev24_030.scr:6	cev24_030.scr	6	キュッポ	Kyuppo	personagem		何してるキュ〜？	What're you doing, kyu~?		What're you doing, kyu~?
+cev24_030.scr:7	cev24_030.scr	7	チャット	Chat	personagem		い！	Eek!		Eek!
+cev24_030.scr:8	cev24_030.scr	8	マオ	Mao	personagem	CRLF x2	ちょうど良かった。\nこれからみんなで、何して遊ぼうかって\n話してたんだ	Just in time.\nWe were discussing what kind of game\nto play together next!		Just in time.\nWe were discussing what kind of game\nto play together next!
+cev24_030.scr:9	cev24_030.scr	9	マオ	Mao	personagem		キュッポ達は何がいいと思う？	What do you think is good, Kyuppo?		What do you think is good, Kyuppo?
+cev24_030.scr:10	cev24_030.scr	10	キュッポ	Kyuppo	personagem		それなら、鬼ごっこなんてどうだキュ？	In that case, how about tag, kyu?		In that case, how about tag, kyu?
+cev24_030.scr:11	cev24_030.scr	11	キュッポ	Kyuppo	personagem	CRLF x2	正々堂々、互いの本気がぶつかり合う\n戦士の遊びキュ。\n押忍！　だキュ	A warrior's game where everyone gives\ntheir all in a fair fight, kyu!\nOsu! That's it, kyu!		A warrior's game where everyone gives\ntheir all in a fair fight, kyu!\nOsu! That's it, kyu!
+cev24_030.scr:12	cev24_030.scr	12	ピッポ	Pippo	personagem	CRLF x1	いいアイデアだキュ！\nピッポ達もやるキュ！！	Great idea, kyu!\nPippo and the others will play too, kyu!!		Great idea, kyu!\nPippo and the others will play too, kyu!!
+cev24_030.scr:13	cev24_030.scr	13	ポッポ	Poppo	personagem		たまにはみんなで、思いっきり遊ぶキュ〜！	Let's all play our hearts out, kyu~!		Let's all play our hearts out, kyu~!
+cev24_030.scr:14	cev24_030.scr	14	アニス	Anise Tatlin	personagem	CRLF x2	っていうかさぁ……鬼ごっこって、\n明らかにモフモフとうちらじゃ\n走るスピード違うじゃん	I mean... in tag, the difference in\nrunning speed between us and furries\nis totally obvious.		I mean... in tag, the difference in\nrunning speed between us and furries\nis totally obvious.
+cev24_030.scr:15	cev24_030.scr	15	アニス	Anise Tatlin	personagem	CRLF x1	まぁ、アニスちゃんは参加しないから\nどうでもいいけど〜	Well, little Anise isn't playing,\nso I don't really care though~		Well, little Anise isn't playing,\nso I don't really care though~
+cev24_030.scr:16	cev24_030.scr	16	マオ	Mao	personagem	CRLF x1	大丈夫だヨ！\nそういう時こそ、特別ルールを使うんだ♪	It'll be fine! That's when we use\nspecial rules~		It'll be fine! That's when we use\nspecial rules~
+cev24_030.scr:17	cev24_030.scr	17	アニス	Anise Tatlin	personagem	CRLF x1	ああ、「お豆さん」？\n捕まっても大丈夫っていう……	Oh, 'little bean'?\nWhere it's fine even if you're caught...		Oh, 'little bean'?\nWhere it's fine even if you're caught...
+cev24_030.scr:18	cev24_030.scr	18	チャット	Chat	personagem		今、何ておっしゃいました？	What did you just say?		What did you just say?
+cev24_030.scr:19	cev24_030.scr	19	アニス	Anise Tatlin	personagem		う……、このパターンはまさか……	Ugh... Don't tell me this pattern...		Ugh... Don't tell me this pattern...
+cev24_030.scr:20	cev24_030.scr	20	アニス	Anise Tatlin	personagem		お豆さんだよ！　文句ある？	It's 'little bean'! Any complaints?		It's 'little bean'! Any complaints?
+cev24_030.scr:21	cev24_030.scr	21	チャット	Chat	personagem	CRLF x2	ありますよ！\n普通、そういうのは、\n「お味噌」って言うんですから！	Yes, I do!\nUsually, someone like that\nis called 'leftover miso'!		Yes, I do!\nUsually, someone like that\nis called 'leftover miso'!
+cev24_030.scr:22	cev24_030.scr	22	チャット	Chat	personagem	CRLF x2	いいですか？\n味噌っかすの「お味噌」ですよ！\nものすごく、理にかなった言い方です	Listen closely!\nIt is 'miso' as in misokkasu!\nIt is an extremely logical term!		Listen closely!\nIt is 'miso' as in misokkasu!\nIt is an extremely logical term!
+cev24_030.scr:23	cev24_030.scr	23	アニス	Anise Tatlin	personagem	CRLF x1	お豆さんは、小さくてかわいいでしょ！\nだから「お豆さん」なの！	Little beans are tiny and cute!\nThat's why it's 'little bean'!		Little beans are tiny and cute!\nThat's why it's 'little bean'!
+cev24_030.scr:24	cev24_030.scr	24	マオ	Mao	personagem	CRLF x2	そうなの？　ボク、そういうの\n「つららのかかと」っていうんだって\n教わったけどな〜	Really? I was taught that\nsomething like that\nis called 'icicle heel' though~		Really? I was taught that\nsomething like that\nis called 'icicle heel' though~
+cev24_030.scr:25	cev24_030.scr	25	アニス	Anise Tatlin	personagem		何ソレ	What on earth is that?		What on earth is that?
+cev24_030.scr:26	cev24_030.scr	26	チャット	Chat	personagem	CRLF x1	またしても第三勢力の介入ですか……。\nいい加減にして下さい！	Another intervention by a third faction?!\nGive me a break already!		Another intervention by a third faction?!\nGive me a break already!
+cev24_030.scr:27	cev24_030.scr	27	マオ	Mao	personagem		ちょっと、ボクに言わないでよね！	Hey, don't blame me!		Hey, don't blame me!
+cev24_030.scr:28	cev24_030.scr	28	マオ	Mao	personagem	CRLF x2	コハクが、「無限滅殺オニごっこ」は\nそういう特別ルールがあるって\n前に教えてくれたんだヨ	Kohaku taught me before that\nInfinite Annihilation Tag has\nthat kind of special rule!		Kohaku taught me before that\nInfinite Annihilation Tag has\nthat kind of special rule!
+cev24_030.scr:29	cev24_030.scr	29	チャット	Chat	personagem		無限滅殺……？	Infinite Annihilation...?		Infinite Annihilation...?
+cev24_030.scr:30	cev24_030.scr	30	アニス	Anise Tatlin	personagem	CRLF x1	明らかにそれ、\n鬼ごっこじゃないんじゃ……	That clearly isn't\ntag anymore, is it......		That clearly isn't\ntag anymore, is it......
+cev24_030.scr:31	cev24_030.scr	31	キュッポ	Kyuppo	personagem	CRLF x1	わかったキュ！\nキュッポは「お味噌」だキュ！	Got it, kyu!\nKyuppo is 'leftover miso', kyu!		Got it, kyu!\nKyuppo is 'leftover miso', kyu!
+cev24_030.scr:32	cev24_030.scr	32	ピッポ	Pippo	personagem		ピッポは「お豆」だキュ！	Pippo is 'little bean', kyu!		Pippo is 'little bean', kyu!
+cev24_030.scr:33	cev24_030.scr	33	ポッポ	Poppo	personagem		ポッポは「かかと」だキュ！	Poppo is 'icicle heel', kyu!		Poppo is 'icicle heel', kyu!
+cev24_030.scr:34	cev24_030.scr	34	チャット	Chat	personagem	CRLF x1	どっちにしろ、モフモフ族は、\n捕まえられません……	Either way, the furry tribe cannot\nbe caught...		Either way, the furry tribe cannot\nbe caught...
+cev24_040.scr:0	cev24_040.scr	0	チェルシー	Chelsea Torn	personagem	CRLF x2	チャットさん、\nバンエルティア号にも\n非常口ってあるんですか？	Miss Chat,\ndoes the Van Eltia also have\nemergency exits?		Miss Chat,\ndoes the Van Eltia also have\nemergency exits?
+cev24_040.scr:1	cev24_040.scr	1	チャット	Chat	personagem	CRLF x2	有事の際に備えてバッチリですよ！\nまあ、万が一にも「有事の際」なんて\n起こるはずがないですけどね！	We are fully prepared for emergencies!\nThough of course, there is no way\nan 'emergency' could ever happen here!		We are fully prepared for emergencies!\nThough of course, there is no way\nan 'emergency' could ever happen here!
+cev24_040.scr:2	cev24_040.scr	2	チェルシー	Chelsea Torn	personagem	CRLF x1	そういう非常事態の時って、\n走ったら危ないですよね	During emergencies like that,\nit's dangerous to run, isn't it?		During emergencies like that,\nit's dangerous to run, isn't it?
+cev24_040.scr:3	cev24_040.scr	3	チャット	Chat	personagem	CRLF x2	ええ、パニックになるのが\n一番危険ですから。\n落ち着いて行動しないといけません	Indeed. Panicking is the most\ndangerous thing of all. Everyone\nmust remain calm and composed.		Indeed. Panicking is the most\ndangerous thing of all. Everyone\nmust remain calm and composed.
+cev24_040.scr:4	cev24_040.scr	4	チェルシー	Chelsea Torn	personagem	CRLF x2	でも余所の国では、人が走ってる絵が\n非常口の記号として使われてる様なんです。\nそれって、おかしいですよね？	Yet elsewhere, a running person's picture\nis used as the emergency exit sign.\nIsn't that strange?		Yet elsewhere, a running person's picture\nis used as the emergency exit sign.\nIsn't that strange?
+cev24_040.scr:5	cev24_040.scr	5	チャット	Chat	personagem	CRLF x2	そんな絵があるんですか？\n確かに、走ったら危ないのに……。\n矛盾していますね……	Such a picture exists?\nIndeed, running is dangerous...\nThat seems quite contradictory...		Such a picture exists?\nIndeed, running is dangerous...\nThat seems quite contradictory...
+cev24_040.scr:6	cev24_040.scr	6	ジェイ	Jay	personagem		皆さん、難しく考え過ぎですよ	You're all overthinking this.		You're all overthinking this.
+cev24_040.scr:7	cev24_040.scr	7	チェルシー	Chelsea Torn	personagem		そうですか？	Is that so?		Is that so?
+cev24_040.scr:8	cev24_040.scr	8	ジェイ	Jay	personagem	CRLF x1	想像してみればいいんですよ。\nあの絵の人が、普通に歩いているところ	Just try imagining it.\nThe person in that sign, casually walking.		Just try imagining it.\nThe person in that sign, casually walking.
+cev24_040.scr:9	cev24_040.scr	9	チャット	Chat	personagem	CRLF x1	何か、緊張感が\n無くなりますね	It completely loses\nany sense of urgency.		It completely loses\nany sense of urgency.
+cev24_040.scr:10	cev24_040.scr	10	ジェイ	Jay	personagem	CRLF x2	そういう事です。\n恐らくその絵は「非常時」をイメージで\n伝えようとしているんですよ	Exactly. That image is likely meant to\nconvey the concept of an 'emergency'\nvisually and instantly.		Exactly. That image is likely meant to\nconvey the concept of an 'emergency'\nvisually and instantly.
+cev24_040.scr:11	cev24_040.scr	11	チェルシー	Chelsea Torn	personagem	CRLF x1	さすが、ジェイさん！\n物知りなんですね	As expected of Jay!\nYou know so much.		As expected of Jay!\nYou know so much.
+cev24_040.scr:12	cev24_040.scr	12	ジェイ	Jay	personagem	CRLF x1	事の真意はボクにもわかりません。\nでも、そう考えれば納得が行くと思って	I don't know the actual truth either.\nIt just makes the most sense that way.		I don't know the actual truth either.\nIt just makes the most sense that way.
+cev24_040.scr:13	cev24_040.scr	13	チャット	Chat	personagem	CRLF x1	ウソかホントかは別としても、\nとってもわかりやすかったですよ！	Whether true or not, that was\nincredibly easy to understand!		Whether true or not, that was\nincredibly easy to understand!
+cev24_050.scr:0	cev24_050.scr	0	チャット	Chat	personagem		あ、○○さん	Ah, ○○!		Ah, ○○!
+cev24_050.scr:1	cev24_050.scr	1	チャット	Chat	personagem	CRLF x2	聞いて下さい。\nついにギルドの所属人数が\n５０人を超えたそうですよ！	Listen to this!\nThe Guild's members have finally\nexceeded fifty people!		Listen to this!\nThe Guild's members have finally\nexceeded fifty people!
+cev24_050.scr:2	cev24_050.scr	2	(ator 200)	(ator 200)	desconhecido		……！	...!		...!
+cev24_050.scr:3	cev24_050.scr	3	チャット	Chat	personagem	CRLF x1	つまり、ボクの子分が\nそれだけ増えたという事ですね	In other words, my henchmen\nhave multiplied by that much!		In other words, my henchmen\nhave multiplied by that much!
+cev24_050.scr:4	cev24_050.scr	4	チャット	Chat	personagem	CRLF x1	もちろんその分、船長として\n気苦労も多くはなりますが……	Of course, it means more headaches\nfor me as the captain, but...		Of course, it means more headaches\nfor me as the captain, but...
+cev24_050.scr:5	cev24_050.scr	5	リッド	Reid Hershel	personagem	CRLF x2	全くだ。\n賑やか過ぎて、\nおちおち昼寝も出来やしねぇ	Tell me about it.\nIt's so noisy, I can't even get\na decent nap in peace.		Tell me about it.\nIt's so noisy, I can't even get\na decent nap in peace.
+cev24_050.scr:6	cev24_050.scr	6	リッド	Reid Hershel	personagem	CRLF x1	ま、活気があるのは\n悪い事じゃねえけどな	Well, having plenty of lively energy\nisn't a bad thing, though.		Well, having plenty of lively energy\nisn't a bad thing, though.
+cev24_050.scr:7	cev24_050.scr	7	ルーティ	Rutee Katrea	personagem	CRLF x2	そうねえ。\n人の集まる所は、それだけ\n金銭の動きも大きくなるし	Indeed.\nWhere people gather,\nmoney circulates that much more,		Indeed.\nWhere people gather,\nmoney circulates that much more,
+cev24_050.scr:8	cev24_050.scr	8	ルーティ	Rutee Katrea	personagem	CRLF x1	いよいよこれから、本格的に\n稼ぎ時の予感だわ♪	so I feel like our prime earning\nseason has finally begun~!		so I feel like our prime earning\nseason has finally begun~!
+cev24_050.scr:9	cev24_050.scr	9	ウィル	Will Raynard	personagem		急いては事をし損じるぞ	Haste makes waste.		Haste makes waste.
+cev24_050.scr:10	cev24_050.scr	10	ウィル	Will Raynard	personagem	CRLF x1	無茶な稼ぎ方や仕事の請負は\n控える様にな、ルーティ	Refrain from reckless moneymaking\nand accepting reckless jobs, Rutee.		Refrain from reckless moneymaking\nand accepting reckless jobs, Rutee.
+cev24_050.scr:11	cev24_050.scr	11	ルーティ	Rutee Katrea	personagem	CRLF x1	い、言われなくたって\nわかってるわよ	I-I already know that\nwithout you telling me!		I-I already know that\nwithout you telling me!
+cev24_050.scr:12	cev24_050.scr	12	チャット	Chat	personagem		とにかく、です	At any rate...		At any rate...
+cev24_050.scr:13	cev24_050.scr	13	チャット	Chat	personagem	CRLF x1	これからもこの調子でいきましょう。\n仲間は多いに越した事はありません	Let us continue at this steady pace.\nThe more comrades we have, the better!		Let us continue at this steady pace.\nThe more comrades we have, the better!
+cev24_050.scr:14	cev24_050.scr	14	リッド	Reid Hershel	personagem	CRLF x1	そうだな。\nでもさ、○○	Yeah.\nSay, ○○...		Yeah.\nSay, ○○...
+cev24_050.scr:15	cev24_050.scr	15	リッド	Reid Hershel	personagem	CRLF x2	新しい仲間だけじゃなくて\n今いる仲間の様子も、なるべく\n見てやる様にしてくれよな	Don't just look after new comrades;\nmake sure to check in on everyone\nwho's already here too, okay?		Don't just look after new comrades;\nmake sure to check in on everyone\nwho's already here too, okay?
+cev24_050.scr:16	cev24_050.scr	16	ルーティ	Rutee Katrea	personagem		それ、あたしからもお願いするわ	I second that as well.		I second that as well.
+cev24_050.scr:17	cev24_050.scr	17	ルーティ	Rutee Katrea	personagem	CRLF x2	みんな、結構色んな事情を抱えて\n乗船してるんだもの。\n困ってる事や人捜しを頼まれたりするかも	Everyone boarded this ship with their own\ncomplicated baggage, so they might ask for\nhelp or need help searching for someone.		Everyone boarded this ship with their own\ncomplicated baggage, so they might ask for\nhelp or need help searching for someone.
+cev24_050.scr:18	cev24_050.scr	18	ウィル	Will Raynard	personagem	CRLF x2	ああ。\n困った時こそ、お互いに\n助け合わなくてはな	Indeed.\nIt is precisely in times of trouble\nthat we must help one another.		Indeed.\nIt is precisely in times of trouble\nthat we must help one another.
+cev24_050.scr:19	cev24_050.scr	19	(ator 200)	(ator 200)	desconhecido		…………	......		......
+cev24_050.scr:20	cev24_050.scr	20	ルーティ	Rutee Katrea	personagem	CRLF x2	そうそう。\nだから、いい儲け話は\nあたしにもどんどん紹介してよね♪	Right, right!\nSo if you hear of any lucrative jobs,\nbe sure to introduce them to me~!		Right, right!\nSo if you hear of any lucrative jobs,\nbe sure to introduce them to me~!
+cev24_050.scr:21	cev24_050.scr	21	ウィル	Will Raynard	personagem	CRLF x1	いつもの事ながら\nぬかりない営業だな……	Business-minded as ever,\nwithout missing a single beat...		Business-minded as ever,\nwithout missing a single beat...
+cev24_060.scr:0	cev24_060.scr	0	チェルシー	Chelsea Torn	personagem		あの、お聞きしたい事があるんですけど	Um, there's something I'd like to ask.		Um, there's something I'd like to ask.
+cev24_060.scr:1	cev24_060.scr	1	チェルシー	Chelsea Torn	personagem	CRLF x1	バンエルティア号の船長は、\nチャットさんなんですよね？	Miss Chat is the captain\nof the Van Eltia, right?		Miss Chat is the captain\nof the Van Eltia, right?
+cev24_060.scr:2	cev24_060.scr	2	チャット	Chat	personagem		そうですよ	That is correct.		That is correct.
+cev24_060.scr:3	cev24_060.scr	3	チェルシー	Chelsea Torn	personagem	CRLF x1	で、この船を拠点にしている、\nアドリビトムのリーダーは、アンジュさん	And the leader of Ad Libitum,\nbased on this ship, is Miss Ange.		And the leader of Ad Libitum,\nbased on this ship, is Miss Ange.
+cev24_060.scr:4	cev24_060.scr	4	アンジュ	Ange Serena	personagem		ええ、その通り	Yes, that is right.		Yes, that is right.
+cev24_060.scr:5	cev24_060.scr	5	チェルシー	Chelsea Torn	personagem	CRLF x1	じゃあ、この船の中で\n一番えらいのは、どちらなんですか？	Then who holds the highest authority\naboard this ship?		Then who holds the highest authority\naboard this ship?
+cev24_060.scr:6	cev24_060.scr	6	チャット	Chat	personagem	CRLF x1	それはもちろん、船長のボクです。\n船長の言う事に、子分は従うものです	Why, that is me, the captain, of course!\nHenchmen are meant to obey the captain!		Why, that is me, the captain, of course!\nHenchmen are meant to obey the captain!
+cev24_060.scr:7	cev24_060.scr	7	アンジュ	Ange Serena	personagem		あら、おかしな事を言うのね？	Oh, my, what an odd thing to say.		Oh, my, what an odd thing to say.
+cev24_060.scr:8	cev24_060.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	わたしは子分ではなく、ギルドのリーダー。\nあなたとは対等に、契約を結ばせて\nもらってると思ってたんだけどな？	I am no henchman, but the Guild's leader.\nI believed we had entered into a contract\nas equals, hadn't we?		I am no henchman, but the Guild's leader.\nI believed we had entered into a contract\nas equals, hadn't we?
+cev24_060.scr:9	cev24_060.scr	9	チャット	Chat	personagem	CRLF x2	む……。\nとは言え、船長は\n船で一番えらいものです	Mmh...\nRegardless, the captain is\nthe highest rank on a vessel!		Mmh...\nRegardless, the captain is\nthe highest rank on a vessel!
+cev24_060.scr:10	cev24_060.scr	10	チャット	Chat	personagem	CRLF x2	でなければ、船内で有事があった際、\n指示系統が混乱して、\n適切な対応をする事が出来ません	If an emergency occurs aboard the ship,\nthe chain of command would be chaotic,\npreventing any proper response!		If an emergency occurs aboard the ship,\nthe chain of command would be chaotic,\npreventing any proper response!
+cev24_060.scr:11	cev24_060.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	だからこそ、そういう場合は\nリーダーのわたしが指揮を執れば……	That is precisely why I, as leader,\nshould take command in such cases...		That is precisely why I, as leader,\nshould take command in such cases...
+cev24_060.scr:12	cev24_060.scr	12	チャット	Chat	personagem	CRLF x1	いいえ、その役目は\n船長のボクの仕事です！	No! That crucial duty belongs\nto me, the captain!		No! That crucial duty belongs\nto me, the captain!
+cev24_060.scr:13	cev24_060.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	いいえ。\nリーダーのわたしがする事です	No.\nIt is my responsibility as leader!		No.\nIt is my responsibility as leader!
+cev24_060.scr:14	cev24_060.scr	14	チャット	Chat	personagem		ボクが！	Mine!		Mine!
+cev24_060.scr:15	cev24_060.scr	15	アンジュ	Ange Serena	personagem		わたしが！	Mine!		Mine!
+cev24_060.scr:16	cev24_060.scr	16	チェルシー	Chelsea Torn	personagem	CRLF x1	あわわ……、ど、どうしましょう。\nちょっと聞いてみただけなのに……	Oh dear... Wh-What should I do?\nI only wanted to ask a simple question...		Oh dear... Wh-What should I do?\nI only wanted to ask a simple question...
+cev24_070.scr:0	cev24_070.scr	0	チャット	Chat	personagem	CRLF x1	そ、それ以上、\n近づかないで下さいね……	P-Please do not come\nany closer than that......		P-Please do not come\nany closer than that......
+cev24_070.scr:1	cev24_070.scr	1	ヴェイグ	Veigue Lungberg	personagem		……そこまで、動物が苦手なのか？	...Are you really that bad with animals?		...Are you really that bad with animals?
+cev24_070.scr:2	cev24_070.scr	2	チャット	Chat	personagem	CRLF x2	ええ、好きか嫌いかで言ったら\n間違いなく好きにはなれませんね。\nこれはもう、遺伝なんです！	Yes, if asked whether I like or hate them,\nI unmistakably cannot stand them!\nIt is completely hereditary!		Yes, if asked whether I like or hate them,\nI unmistakably cannot stand them!\nIt is completely hereditary!
+cev24_070.scr:3	cev24_070.scr	3	チャット	Chat	personagem	CRLF x1	あのふわふわ、モフモフした毛！\nああ、想像しただけでも……！！	That fluffy, furry hair!\nAaagh, just imagining it is...!!		That fluffy, furry hair!\nAaagh, just imagining it is...!!
+cev24_070.scr:4	cev24_070.scr	4	クィッキー	Quickie	personagem		クィック、クィッキー♪	Quick, Quickie~!		Quick, Quickie~!
+cev24_070.scr:5	cev24_070.scr	5	チャット	Chat	personagem	CRLF x1	わぁぁぁあん！！\nばか〜〜〜！！！	Waaaaah!!\nYou idiot~~~!!!		Waaaaah!!\nYou idiot~~~!!!
+cev24_070.scr:6	cev24_070.scr	6	ヴェイグ	Veigue Lungberg	personagem		そんなに、苦手か……	That bad, huh......		That bad, huh......
+cev24_080.scr:0	cev24_080.scr	0	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	動物が苦手なら、やはりモフモフ族も\n苦手という事になるのか	If you dislike animals, does that mean\nyou dislike the Mofumofu Tribe too?		If you dislike animals, does that mean\nyou dislike the Mofumofu Tribe too?
+cev24_080.scr:1	cev24_080.scr	1	チャット	Chat	personagem	CRLF x2	もちろんです。\n人語を解するというだけで\n見た目はラッコそのものですからね	Of course.\nEven if they understand human speech,\nthey look just like sea otters!		Of course.\nEven if they understand human speech,\nthey look just like sea otters!
+cev24_080.scr:2	cev24_080.scr	2	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	だが、悪い奴らではない。\n働き者で、気配りをするのに長けている	Still, they are not bad creatures.\nThey work hard and are quite attentive.		Still, they are not bad creatures.\nThey work hard and are quite attentive.
+cev24_080.scr:3	cev24_080.scr	3	チャット	Chat	personagem	CRLF x1	わかっていますよ。\nわかっていますけど……	I know that.\nI know that, but still......		I know that.\nI know that, but still......
+cev24_080.scr:4	cev24_080.scr	4	ポッポ	Poppo	personagem	CRLF x1	チャットさん、\n動力部の点検が終わったキュ！	Miss Chat, engine inspection\nis all finished, kyu!		Miss Chat, engine inspection\nis all finished, kyu!
+cev24_080.scr:5	cev24_080.scr	5	チャット	Chat	personagem		うわあぁぁぁ！！	Uwaaaaaah!!		Uwaaaaaah!!
+cev24_080.scr:6	cev24_080.scr	6	チャット	Chat	personagem	CRLF x2	きゅ、急に後ろから\n声を掛けないで下さい！\nびっくりするじゃないですか！！	D-Don't call out from behind suddenly!\nYou scared the absolute\ndaylights out of me!!		D-Don't call out from behind suddenly!\nYou scared the absolute\ndaylights out of me!!
+cev24_080.scr:7	cev24_080.scr	7	ヴェイグ	Veigue Lungberg	personagem		……気難しい船長だ	...A fussy captain.		...A fussy captain.
+cev24_090.scr:0	cev24_090.scr	0	チャット	Chat	personagem	CRLF x2	ボクだってわかっているんです。\nポッポさんが、優秀な\nメカニックだっていう事は……	I understand it well myself.\nThat Poppo is a remarkably\ntalented mechanic, but...		I understand it well myself.\nThat Poppo is a remarkably\ntalented mechanic, but...
+cev24_090.scr:1	cev24_090.scr	1	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	……ああ。\nポッポはよくやってくれている	...Yeah.\nPoppo has been doing a great job.		...Yeah.\nPoppo has been doing a great job.
+cev24_090.scr:2	cev24_090.scr	2	チャット	Chat	personagem	CRLF x2	でも、どうしても……\nどうしてもあの、モフモフで\nふわふわなところが……！	But still, no matter what...\nNo matter what, that furry,\nfluffy appearance is just...!		But still, no matter what...\nNo matter what, that furry,\nfluffy appearance is just...!
+cev24_090.scr:3	cev24_090.scr	3	ポッポ	Poppo	personagem	CRLF x2	大丈夫だキュ。\n船長さんが、動物が苦手なのは\nポッポ達もわかっているキュ	It is alright, kyu.\nPoppo knows that the captain\nis bad with animals, kyu.		It is alright, kyu.\nPoppo knows that the captain\nis bad with animals, kyu.
+cev24_090.scr:4	cev24_090.scr	4	ポッポ	Poppo	personagem	CRLF x2	ネコが好きなヒトでも、\nネコアレルギーになったりするキュ。\n体質は、どうにもならないものだキュ	Even people who like cats can have\ncat allergies, kyu. One's constitution\nis not something you can help, kyu!		Even people who like cats can have\ncat allergies, kyu. One's constitution\nis not something you can help, kyu!
+cev24_090.scr:5	cev24_090.scr	5	ヴェイグ	Veigue Lungberg	personagem		ポッポ……	Poppo......		Poppo......
+cev24_090.scr:6	cev24_090.scr	6	ポッポ	Poppo	personagem	CRLF x2	だから、気にしてないキュ。\nなるべく船長さんに、嫌な気持ちを\nさせない様に、気を付けるキュ	So Poppo doesn't mind at all, kyu.\nPoppo will be careful not to make\nthe captain feel uncomfortable, kyu!		So Poppo doesn't mind at all, kyu.\nPoppo will be careful not to make\nthe captain feel uncomfortable, kyu!
+cev24_090.scr:7	cev24_090.scr	7	チャット	Chat	personagem		……でも……	...But still...		...But still...
+cev24_090.scr:8	cev24_090.scr	8	ポッポ	Poppo	personagem	CRLF x1	大丈夫だキュ！\n離れていても会話は出来るキュ	Don't worry, kyu!\nWe can still talk from afar, kyu.		Don't worry, kyu!\nWe can still talk from afar, kyu.
+cev24_090.scr:9	cev24_090.scr	9	ポッポ	Poppo	personagem	CRLF x1	この船のメンテナンスは、\n大シャコ貝に乗った気でいるキュ！	Leave maintenance to Poppo as if\nresting upon a giant clam, kyu!		Leave maintenance to Poppo as if\nresting upon a giant clam, kyu!
+cev24_090.scr:10	cev24_090.scr	10	チャット	Chat	personagem	CRLF x1	子分がここまで\n言ってくれてるのに……	Even though my henchman is being\nso thoughtful towards me...		Even though my henchman is being\nso thoughtful towards me...
+cev24_090.scr:11	cev24_090.scr	11	チャット	Chat	personagem		ボクは……ボクは……	I'm just... I'm just......		I'm just... I'm just......
+cev24_100.scr:0	cev24_100.scr	0	チャット	Chat	personagem	CRLF x2	ですから、この動力部と\nメインシステムは特に\n注意して見ていただきたいんです	Therefore, I'd like you to keep a close\neye on this engine section and the main\nsystem in particular.		Therefore, I'd like you to keep a close\neye on this engine section and the main\nsystem in particular.
+cev24_100.scr:1	cev24_100.scr	1	ポッポ	Poppo	personagem	CRLF x2	わかったキュ。\nそういう事なら、\n張り切って仕事にかかるキュ！	Understood, kyu!\nIn that case, Poppo will tackle\nthis job with full enthusiasm, kyu!		Understood, kyu!\nIn that case, Poppo will tackle\nthis job with full enthusiasm, kyu!
+cev24_100.scr:2	cev24_100.scr	2	チャット	Chat	personagem	CRLF x1	ええ。\nよろしくお願いします	Yes.\nI am counting on you.		Yes.\nI am counting on you.
+cev24_100.scr:3	cev24_100.scr	3	ポッポ	Poppo	personagem		キュキュ〜〜〜！	Kyu-kyuuu~~~!		Kyu-kyuuu~~~!
+cev24_100.scr:4	cev24_100.scr	4	チャット	Chat	personagem	CRLF x1	あ……！！\nその、ポッポさん！	Ah...!!\nUm, Poppo!		Ah...!!\nUm, Poppo!
+cev24_100.scr:5	cev24_100.scr	5	チャット	Chat	personagem		その……ボ、ボク……	Um... I-I...		Um... I-I...
+cev24_100.scr:6	cev24_100.scr	6	チャット	Chat	personagem	CRLF x2	ええと……。\n少しずつでも、動物嫌いを……\n克服したいと……	Well, you see...\nEven if only bit by bit, my fear...\nI want to overcome it...		Well, you see...\nEven if only bit by bit, my fear...\nI want to overcome it...
+cev24_100.scr:7	cev24_100.scr	7	コーダ	Coda	personagem	CRLF x1	こら！\nそれはコーダのおやつだぞ、しかし！	Hey!\nThat's Coda's snack, I must say!		Hey!\nThat's Coda's snack, I must say!
+cev24_100.scr:8	cev24_100.scr	8	クィッキー	Quickie	personagem		クィー？	Kwi~?		Kwi~?
+cev24_100.scr:9	cev24_100.scr	9	クィッキー	Quickie	personagem		クィキキキキ！	Kwi-ki-ki-ki!		Kwi-ki-ki-ki!
+cev24_100.scr:10	cev24_100.scr	10	チャット	Chat	personagem	CRLF x1	あああぁぁ！！\nやっぱりやだぁぁぁ〜〜！！！	Aaaaaaaah!!\nNo way no way no waaay~~~!!!		Aaaaaaaah!!\nNo way no way no waaay~~~!!!
+cev24_100.scr:11	cev24_100.scr	11	コーダ	Coda	personagem		待つんだな、しかし！	Wait right there, I must say!		Wait right there, I must say!
+cev24_100.scr:12	cev24_100.scr	12	ポッポ	Poppo	personagem	CRLF x1	船長さんも、色々と\n苦労するキュ……	The captain has it rough\nin all sorts of ways, kyu...		The captain has it rough\nin all sorts of ways, kyu...
+cev24_200.scr:0	cev24_200.scr	0	チャット	Chat	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev24_200.scr:1	cev24_200.scr	1	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:2	cev24_200.scr	2	チャット	Chat	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev24_200.scr:3	cev24_200.scr	3	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:4	cev24_200.scr	4	チャット	Chat	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev24_200.scr:5	cev24_200.scr	5	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:6	cev24_200.scr	6	チャット	Chat	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev24_200.scr:7	cev24_200.scr	7	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:8	cev24_200.scr	8	チャット	Chat	personagem	CRLF x1	不機嫌。\n	Displeased.\n		Displeased.\n
+cev24_200.scr:9	cev24_200.scr	9	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:10	cev24_200.scr	10	チャット	Chat	personagem	CRLF x1	叫び。\n	Shouting.\n		Shouting.\n
+cev24_200.scr:11	cev24_200.scr	11	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:12	cev24_200.scr	12	チャット	Chat	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev24_200.scr:13	cev24_200.scr	13	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:14	cev24_200.scr	14	チャット	Chat	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev24_200.scr:15	cev24_200.scr	15	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:16	cev24_200.scr	16	チャット	Chat	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev24_200.scr:17	cev24_200.scr	17	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:18	cev24_200.scr	18	チャット	Chat	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev24_200.scr:19	cev24_200.scr	19	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:20	cev24_200.scr	20	チャット	Chat	personagem	CRLF x1	不機嫌。\n	Displeased.\n		Displeased.\n
+cev24_200.scr:21	cev24_200.scr	21	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:22	cev24_200.scr	22	チャット	Chat	personagem	CRLF x1	叫び。\n	Shouting.\n		Shouting.\n
+cev24_200.scr:23	cev24_200.scr	23	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:24	cev24_200.scr	24	チャット	Chat	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev24_200.scr:25	cev24_200.scr	25	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:26	cev24_200.scr	26	チャット	Chat	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev24_200.scr:27	cev24_200.scr	27	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:28	cev24_200.scr	28	チャット	Chat	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev24_200.scr:29	cev24_200.scr	29	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:30	cev24_200.scr	30	チャット	Chat	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev24_200.scr:31	cev24_200.scr	31	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:32	cev24_200.scr	32	チャット	Chat	personagem	CRLF x1	不機嫌。\n	Displeased.\n		Displeased.\n
+cev24_200.scr:33	cev24_200.scr	33	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev24_200.scr:34	cev24_200.scr	34	チャット	Chat	personagem	CRLF x1	叫び。\n	Shouting.\n		Shouting.\n
+cev24_200.scr:35	cev24_200.scr	35	チャット	Chat	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.

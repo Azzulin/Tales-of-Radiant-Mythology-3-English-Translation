@@ -1,0 +1,160 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev04_010.scr:0	mev04_010.scr	0	アンジュ	Ange Serena	personagem		今回の仕事は護衛よ		
+mev04_010.scr:1	mev04_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x2	モラード村のジョアンさんを\nブラウニー坑道の奥へ\n連れて行ってもらいたいの		
+mev04_010.scr:2	mev04_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	詳しい話は、\n現地でジョアンさんに聞いてね		
+mev04_010.scr:3	mev04_010.scr	3	アンジュ	Ange Serena	personagem		この仕事の同行者は、ファラとマルタ		
+mev04_010.scr:4	mev04_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	それじゃあ、ジョアンさんに\n怪我をさせてはダメよ？		
+mev04_010.scr:5	mev04_010.scr	5	アンジュ	Ange Serena	personagem		行ってらっしゃい！		
+mev04_020.scr:0	mev04_020.scr	0	マルタ	Marta Lualdi	personagem	CRLF x2	ジョアンさん、大丈夫ですか？\n歩くのも辛そうなのに、\nそんな無理をしてまで行くなんて		
+mev04_020.scr:1	mev04_020.scr	1	ジョアン	Joan	personagem	CRLF x2	はぁ…、はぁ…、これが…\n私にとっての…最後のチャンスなんだ。\n生き延びる為の…		
+mev04_020.scr:2	mev04_020.scr	2	ファラ	Farah Oersted	personagem		生き延びる為のって…		
+mev04_020.scr:3	mev04_020.scr	3	ジョアン	Joan	personagem	CRLF x1	私は、もう…長くないんだ。\n医者も見離した病気でね…		
+mev04_020.scr:4	mev04_020.scr	4	ジョアン	Joan	personagem		ゴホッ、ゴホッ…		
+mev04_020.scr:5	mev04_020.scr	5	ジョアン	Joan	personagem	CRLF x1	だけど、この奥にいるという\n病気を治してくれる存在に会えれば…		
+mev04_020.scr:6	mev04_020.scr	6	マルタ	Marta Lualdi	personagem	CRLF x1	病気を治してくれる存在なんて、\n本当にいるのかなあ		
+mev04_020.scr:7	mev04_020.scr	7	ファラ	Farah Oersted	personagem		それは行ってみないとわからないよ		
+mev04_020.scr:8	mev04_020.scr	8	ファラ	Farah Oersted	personagem	CRLF x1	ジョアンさん、そこまでしっかり護衛するから\n頑張りましょう！		
+mev04_020.scr:9	mev04_020.scr	9	ファラ	Farah Oersted	personagem		うん、イケる、イケる！		
+mev04_020.scr:10	mev04_020.scr	10	ジョアン	Joan	personagem		はい、お願いします…		
+mev04_025.scr:0	mev04_025.scr	0	マルタ	Marta Lualdi	personagem	CRLF x1	ジョアンさん。\nこの先、行き止まりになってますよ…		
+mev04_025.scr:1	mev04_025.scr	1	ジョアン	Joan	personagem	CRLF x1	はぁ…、はぁ…。\nこっちで、構わない…		
+mev04_025.scr:2	mev04_025.scr	2	ジョアン	Joan	personagem	CRLF x1	ごふっ…、ここの鍵を…\n持っているんでね…		
+mev04_025.scr:3	mev04_025.scr	3	ジョアン	Joan	personagem	CRLF x1	ゴホゴホッ…。\n目的地は…、もうすぐだ		
+mev04_030.scr:0	mev04_030.scr	0	マルタ	Marta Lualdi	personagem	CRLF x2	あの、ジョアンさん。\nその病気を治す存在って、\nどうやって知ったんですか？		
+mev04_030.scr:1	mev04_030.scr	1	ジョアン	Joan	personagem	CRLF x2	ゴフッ…、故郷のモラード村に、私と同じ\n病気に…ゴホッ…なったミゲルという男が\nいてね…		
+mev04_030.scr:2	mev04_030.scr	2	ジョアン	Joan	personagem	CRLF x2	彼はいい医者に見てもらおうと、\nこの坑道を通って…ゴホゴホッ。\n…大きな街を目指していたんだ		
+mev04_030.scr:3	mev04_030.scr	3	ジョアン	Joan	personagem	CRLF x1	けれども、道中で発作が始まり、\nどうにも身動きが取れなくなって、		
+mev04_030.scr:4	mev04_030.scr	4	ジョアン	Joan	personagem		死を覚悟…ゴホゴホッ…したらしい		
+mev04_030.scr:5	mev04_030.scr	5	ジョアン	Joan	personagem	CRLF x1	そして、ここで死ぬのかと目をつぶり、\nもっと生きたいと思っていたら		
+mev04_030.scr:6	mev04_030.scr	6	ジョアン	Joan	personagem	CRLF x1	ゴホッ、ゴホッ…、\nどこからともなく…、赤い煙が現れたそうだ		
+mev04_030.scr:7	mev04_030.scr	7	マルタ	Marta Lualdi	personagem		赤い煙…？		
+mev04_030.scr:8	mev04_030.scr	8	ジョアン	Joan	personagem	CRLF x1	赤い煙は周囲を包み、ミゲルにはそれが\nあの世からの迎えだと思ったそうだ		
+mev04_030.scr:9	mev04_030.scr	9	ジョアン	Joan	personagem	CRLF x2	それから彼は\n「死にたくない、もっと生きたい」。\nゴホッ…そう、強く願った		
+mev04_030.scr:10	mev04_030.scr	10	ジョアン	Joan	personagem	CRLF x1	すると、次に気が付いた時は赤い煙はなく、\nすっかり病気は治っていたらしい…		
+mev04_030.scr:11	mev04_030.scr	11	ファラ	Farah Oersted	personagem		それが病気を治す存在なんだね		
+mev04_030.scr:12	mev04_030.scr	12	ファラ	Farah Oersted	personagem	CRLF x1	実際に体験した人がいたんだ。\n不思議な話…		
+mev04_030.scr:13	mev04_030.scr	13	マルタ	Marta Lualdi	personagem		何だろう、精霊みたいなものかな？		
+mev04_030.scr:14	mev04_030.scr	14	ジョアン	Joan	personagem		私にもわからないよ		
+mev04_030.scr:15	mev04_030.scr	15	ジョアン	Joan	personagem	CRLF x1	けれども、私ももっと長生きがしたい。\nその存在に会いたいんだ		
+mev04_030.scr:16	mev04_030.scr	16	ジョアン	Joan	personagem		本当に、わらにもすがる思いなんだよ…		
+mev04_030.scr:17	mev04_030.scr	17	ジョアン	Joan	personagem		ゴホッ、ゴホゴホッ…		
+mev04_040.scr:0	mev04_040.scr	0	ファラ	Farah Oersted	personagem	CRLF x1	目的地はここみたいだけど、\n魔物がいるよ		
+mev04_040.scr:1	mev04_040.scr	1	マルタ	Marta Lualdi	personagem	CRLF x1	ちょっと大変そうな相手だけど、\n戦うしかないね！		
+mev04_040.scr:2	mev04_040.scr	2	ジョアン	Joan	personagem	CRLF x2	はぁ…、はぁ…。\nお、お願いします！\nアドリビトムの皆さん…		
+mev04_040.scr:3	mev04_040.scr	3	ファラ	Farah Oersted	personagem		行こう、○○！		
+mev04_050.scr:0	mev04_050.scr	0	マルタ	Marta Lualdi	personagem		今度こそ、負けないんだから！		
+mev04_050.scr:1	mev04_050.scr	1	ファラ	Farah Oersted	personagem	CRLF x1	よっし！\n行くよ、○○！		
+mev04_060.scr:0	mev04_060.scr	0	ファラ	Farah Oersted	personagem		ジョアンさん、もうここは安全ですよ		
+mev04_060.scr:1	mev04_060.scr	1	ジョアン	Joan	personagem		はぁ…、はぁ…、ありがとうございます		
+mev04_060.scr:2	mev04_060.scr	2	ジョアン	Joan	personagem	CRLF x2	やはり、一人で来るのは無理だった\nみたいですね…良かった…。\nゴホゴホッ！		
+mev04_060.scr:3	mev04_060.scr	3	マルタ	Marta Lualdi	personagem	CRLF x1	でも、病気を治す存在なんて、\nどこにいるの？		
+mev04_060.scr:4	mev04_060.scr	4	ジョアン	Joan	personagem		………		
+mev04_060.scr:5	mev04_060.scr	5	ジョアン	Joan	personagem	CRLF x2	ミゲルの病気を治してくれた方、\nどこにいるんですか？\n私もお願いに参りました		
+mev04_060.scr:6	mev04_060.scr	6	ジョアン	Joan	personagem	CRLF x2	ゴホッ…ゴホッ。\nどうか…、私の病気を…、\n治して下さい！！		
+mev04_060.scr:7	mev04_060.scr	7	ジョアン	Joan	personagem		………………………………！？		
+mev04_060.scr:8	mev04_060.scr	8	ジョアン	Joan	personagem	CRLF x2	息が…、苦しくない…？\n治ったんだ、私の病気が！！\n奇跡だ！		
+mev04_060.scr:9	mev04_060.scr	9	ジョアン	Joan	personagem	CRLF x1	あんなに私を苦しめていたセキも。\n身体の節々の痛みも無い		
+mev04_060.scr:10	mev04_060.scr	10	ジョアン	Joan	personagem		本当に治ったんだ！！		
+mev04_060.scr:11	mev04_060.scr	11	ファラ	Farah Oersted	personagem	CRLF x2	ねえ、○○。\n気にならなかった？\nコクヨウ玉虫を包んだ赤い煙の事…		
+mev04_060.scr:12	mev04_060.scr	12	ファラ	Farah Oersted	personagem	CRLF x1	わたし…、\n今のを見て、思い出したんだ		
+mev04_060.scr:13	mev04_060.scr	13	ファラ	Farah Oersted	personagem	CRLF x1	あの、ジョアンさん。\n本当に大丈夫なんですか？		
+mev04_060.scr:14	mev04_060.scr	14	ジョアン	Joan	personagem		いやぁ？　大丈夫だよ		
+mev04_060.scr:15	mev04_060.scr	15	ジョアン	Joan	personagem	CRLF x2	ああ、とてもすがすがしい気分だ。\n健康とは、こんなにも素晴らしいもの\nだったのか！		
+mev04_060.scr:16	mev04_060.scr	16	ジョアン	Joan	personagem	CRLF x2	さあ、ここを出よう。\n早く帰って、みんなの為に\nバリバリ働くぞ！		
+mev04_060.scr:17	mev04_060.scr	17	ファラ	Farah Oersted	personagem		大丈夫かなぁ…		
+mev04_060.scr:18	mev04_060.scr	18	マルタ	Marta Lualdi	personagem	CRLF x2	うん。\n何か、こっちが\nすっきりしない気分だね…		
+mev04_070.scr:0	mev04_070.scr	0	ファラ	Farah Oersted	personagem	CRLF x1	結果的に病気は治ってたみたいだけど。\nジョアンさん、本当に大丈夫かな		
+mev04_070.scr:1	mev04_070.scr	1	マルタ	Marta Lualdi	personagem	CRLF x1	赤い煙が、生物変化の原因…かも\nしれないんでしょ？		
+mev04_070.scr:2	mev04_070.scr	2	ウィル	Will Raynard	personagem	CRLF x2	まだ、確定ではない。\nキールが街で聞いた話、\nオレ達がオルタータ火山で見た赤い煙…		
+mev04_070.scr:3	mev04_070.scr	3	ウィル	Will Raynard	personagem	CRLF x2	はっきりわかっているのは、赤い煙と\n生物変化という現象が「実在した」という\n事までだ		
+mev04_070.scr:4	mev04_070.scr	4	ウィル	Will Raynard	personagem	CRLF x1	この二つの現象の因果関係は、\nまだ確認していないからな		
+mev04_070.scr:5	mev04_070.scr	5	ウィル	Will Raynard	personagem	CRLF x2	だが、赤い煙…。\nやはり、単なるガスなどの物質とは\n考えにくい		
+mev04_070.scr:6	mev04_070.scr	6	ウィル	Will Raynard	personagem		あれは、超常的な何かかもしれない		
+mev04_070.scr:7	mev04_070.scr	7	ウィル	Will Raynard	personagem	CRLF x2	自然界のものにも、科学的に作り出した\nものにも、あんな特性を持った物質は\nないからな		
+mev04_070.scr:8	mev04_070.scr	8	アンジュ	Ange Serena	personagem		そうね…、わからない事はまだ多いなぁ		
+mev04_070.scr:9	mev04_070.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	赤い煙が危険なのかどうかすらわからないし、\nもうこれに関する依頼は受けられないかな…		
+mev04_070.scr:10	mev04_070.scr	10	マルタ	Marta Lualdi	personagem		何かあったの？		
+mev04_070.scr:11	mev04_070.scr	11	アンジュ	Ange Serena	personagem	CRLF x2	護衛の依頼が殺到しているのよ。\n例の「病気を治す存在」の元へ連れて行って\n欲しいって		
+mev04_070.scr:12	mev04_070.scr	12	アンジュ	Ange Serena	personagem		ずいぶん、噂が広まってるみたい		
+mev04_070.scr:13	mev04_070.scr	13	アンジュ	Ange Serena	personagem	CRLF x2	仕事が増えるのは嬉しいけれど、\nあんな得体のしれないものに引き合わせて、\n依頼者とトラブルになったら大変でしょ		
+mev04_070.scr:14	mev04_070.scr	14	ウィル	Will Raynard	personagem	CRLF x1	ああ、むしろ今後は接触させない様に\nしなければならないな		
+mev04_070.scr:15	mev04_070.scr	15	アンジュ	Ange Serena	personagem	CRLF x2	そうね。\nこれから危ない仕事が増えそうだし、\n…もっと人を増やさないと駄目かも		
+mev04_070.scr:16	mev04_070.scr	16	アンジュ	Ange Serena	personagem		アテがあるから、手紙を出してみましょう		
+mev04_070.scr:17	mev04_070.scr	17	アンジュ	Ange Serena	personagem	CRLF x1	それじゃ、今回はお疲れ様。\nまたお願いね、○○		
+mev04_080.scr:0	mev04_080.scr	0	スパーダ	Spada Belforma	personagem		よう、来たぜアンジュ		
+mev04_080.scr:1	mev04_080.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	いらっしゃい、スパーダ君。\n旅先まで手紙が届いて、良かったぁ		
+mev04_080.scr:2	mev04_080.scr	2	スパーダ	Spada Belforma	personagem	CRLF x1	なーんか、ギルド始めたって書いてあって\nビックリしたぜ		
+mev04_080.scr:3	mev04_080.scr	3	スパーダ	Spada Belforma	personagem		ルカとイリアもいるんだろ？		
+mev04_080.scr:4	mev04_080.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	ええ、二人とも待ってるよ。\nすぐ部屋に案内するね		
+mev04_080.scr:5	mev04_080.scr	5	アンジュ	Ange Serena	personagem		リカルドさんは一緒じゃないの？		
+mev04_080.scr:6	mev04_080.scr	6	スパーダ	Spada Belforma	personagem	CRLF x1	ちょっくら雇われて戦場へ行ったぜ。\n一仕事終わったら、連絡してくるんじゃね？		
+mev04_080.scr:7	mev04_080.scr	7	イリア	Iria Animi	personagem	CRLF x1	うおっと、スパーダじゃん。\n何しに来たワケ？		
+mev04_080.scr:8	mev04_080.scr	8	イリア	Iria Animi	personagem		リカルドと旅してたんじゃないの？		
+mev04_080.scr:9	mev04_080.scr	9	スパーダ	Spada Belforma	personagem	CRLF x1	何しにって、アンジュが手伝いに\n来いっつったから、来たんだよ		
+mev04_080.scr:10	mev04_080.scr	10	スパーダ	Spada Belforma	personagem		旅も出来るし、面白そうだしな		
+mev04_080.scr:11	mev04_080.scr	11	イリア	Iria Animi	personagem	CRLF x1	んじゃ、ルカちゃまと\nあたしの部屋まで案内してやるか		
+mev04_080.scr:12	mev04_080.scr	12	スパーダ	Spada Belforma	personagem	CRLF x2	おお、ルカちゃまな。\n久しぶりにイジってやるか。\nグヘヘ…		
+mev04_080.scr:13	mev04_080.scr	13	イリア	Iria Animi	personagem	CRLF x1	久しぶりだからって、\nあんまりやり過ぎないでよ		
+mev04_080.scr:14	mev04_080.scr	14	スパーダ	Spada Belforma	personagem		あー、シメのいじりは譲れってか？		
+mev04_080.scr:15	mev04_080.scr	15	イリア	Iria Animi	personagem	CRLF x1	よくわかってんじゃん。\nギヒヒヒヒヒ…		
+mev04_080.scr:16	mev04_080.scr	16	アンジュ	Ange Serena	personagem	CRLF x2	○○、\n彼らにとっては、いつもの事だから\n気にしないで		
+mev04_080.scr:17	mev04_080.scr	17	アンジュ	Ange Serena	personagem	CRLF x1	基本、行き過ぎない程度までは\nわたしもスルーしてるし		
+mev04_080.scr:18	mev04_080.scr	18	アンジュ	Ange Serena	personagem	CRLF x1	そうそう、あなたにも彼を紹介するから\n部屋へいらっしゃい		
+mev04_090.scr:0	mev04_090.scr	0	スパーダ	Spada Belforma	personagem		あン、誰だァコイツ？		
+mev04_090.scr:1	mev04_090.scr	1	ルカ	Ruca Milda	personagem	CRLF x1	ちょっ、スパーダったらもう！\nこのギルドの仲間だよ		
+mev04_090.scr:2	mev04_090.scr	2	スパーダ	Spada Belforma	personagem	CRLF x2	おー、そうか。\nってか、ビビらすつもりは\nさらさら無かったんだけどな		
+mev04_090.scr:3	mev04_090.scr	3	ルカ	Ruca Milda	personagem	CRLF x1	君は、誰に対してもそうだけど\n中には恐がる人もいるし…		
+mev04_090.scr:4	mev04_090.scr	4	スパーダ	Spada Belforma	personagem	CRLF x1	ルカとかな、ヒャハハハ！\n初めて会った時のお前、そうだったよな		
+mev04_090.scr:5	mev04_090.scr	5	スパーダ	Spada Belforma	personagem	CRLF x1	オレはスパーダ。\nスパーダ・ベルフォルマ		
+mev04_090.scr:6	mev04_090.scr	6	スパーダ	Spada Belforma	personagem		こいつらのダチだ、よろしくな		
+mev04_090.scr:7	mev04_090.scr	7	アンジュ	Ange Serena	personagem	CRLF x2	ところで、スパーダ君。\n手紙にも書いておいたけど、\n情報は仕入れてきてくれた？		
+mev04_090.scr:8	mev04_090.scr	8	スパーダ	Spada Belforma	personagem	CRLF x1	あー、赤い煙ってヤツかぁ？\nアレ、割と知れ渡っているみたいだな		
+mev04_090.scr:9	mev04_090.scr	9	スパーダ	Spada Belforma	personagem	CRLF x1	気になんのは、見る者によって、\nその煙の姿が違うらしいって事だ		
+mev04_090.scr:10	mev04_090.scr	10	ルカ	Ruca Milda	personagem	CRLF x2	姿？\n煙とかモヤとか、\nそんな不定形なものでしょ？		
+mev04_090.scr:11	mev04_090.scr	11	スパーダ	Spada Belforma	personagem	CRLF x1	ソイツの存在がわかった頃は\n煙だったらしいな		
+mev04_090.scr:12	mev04_090.scr	12	スパーダ	Spada Belforma	personagem	CRLF x1	けど今は、花や、虫、魚、色んな姿で\n現れるらしいぜ		
+mev04_090.scr:13	mev04_090.scr	13	ルカ	Ruca Milda	personagem		…まるで、進化しているみたいだね		
+mev04_090.scr:14	mev04_090.scr	14	スパーダ	Spada Belforma	personagem	CRLF x1	それだけじゃねェ。\n変わってんのは街の人もだ		
+mev04_090.scr:15	mev04_090.scr	15	スパーダ	Spada Belforma	personagem	CRLF x1	「病気を治す」から、いつの間にか\n「願いを叶える」って話になってんだぜ		
+mev04_090.scr:16	mev04_090.scr	16	アンジュ	Ange Serena	personagem		願いを叶える？		
+mev04_090.scr:17	mev04_090.scr	17	アンジュ	Ange Serena	personagem	CRLF x2	…それはもはや……。\nそれは、病気を治すなんて\nものではない…		
+mev04_090.scr:18	mev04_090.scr	18	アンジュ	Ange Serena	personagem		もっと、「とんでもない」ものよ		
+mev04_090.scr:19	mev04_090.scr	19	ルカ	Ruca Milda	personagem		願いを叶える、か…		
+mev04_090.scr:20	mev04_090.scr	20	ルカ	Ruca Milda	personagem	CRLF x1	じゃあ、もっとたくさんの人が\nその存在に会いたがるんだろうね		
+mev04_090.scr:21	mev04_090.scr	21	(mensagem de sistema)	(mensagem de sistema)	sistema		スパーダがアドリビトムに加入しました		
+mev04_100.scr:0	mev04_100.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	○○、\nもうすっかりここに慣れたみたいね。\n仕事もすごく頑張ってるし		
+mev04_100.scr:1	mev04_100.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	どうかな。\n何か、思い出せた記憶ってある？		
+mev04_100.scr:2	mev04_100.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そっか…。\nまだ、何も思い出せないんだね		
+mev04_100.scr:3	mev04_100.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	うん。\nまたスケッチブックを買わなきゃ。\nもう無くなってきちゃったから		
+mev04_100.scr:4	mev04_100.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	…ううん。\nまだ、どの風景にも出会ってない		
+mev04_100.scr:5	mev04_100.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	最近はね、前よりも風景が見える様になって。\n一杯絵に描き留めて、どんどん紙が\n無くなっちゃう		
+mev04_100.scr:6	mev04_100.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	でも、やっぱり一番に思うのは…。\n私の知らない風景が、\nどうして見えるのかってこと		
+mev04_100.scr:7	mev04_100.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	根拠は無いけど、やっぱりこれらの風景は\nどこかにある様な気がするんだ…		
+mev04_100.scr:8	mev04_100.scr	8	(opcao do jogador)	(opcao do jogador)	escolha		何も思い出せない、と言う		
+mev04_100.scr:9	mev04_100.scr	9	(opcao do jogador)	(opcao do jogador)	escolha		首を横に振る		
+mev04_100.scr:10	mev04_100.scr	10	(opcao do jogador)	(opcao do jogador)	escolha		また絵を描いてたのかと尋ねる		
+mev04_100.scr:11	mev04_100.scr	11	(opcao do jogador)	(opcao do jogador)	escolha		描いた風景は見つかったかと尋ねる		
+mev04_110.scr:0	mev04_110.scr	0	イリア	Iria Animi	personagem		　　　　　　　　　　　　　		
+mev04_110.scr:1	mev04_110.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	今の、イリアの悲鳴じゃない？\n研究室の方からね		
+mev04_110.scr:2	mev04_110.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	○○。\nちょっと研究室へ行って、\n見てきてくれる？		
+mev04_120.scr:0	mev04_120.scr	0	ウィル	Will Raynard	personagem		よし、やっと捕まえたぞ…		
+mev04_120.scr:1	mev04_120.scr	1	イリア	Iria Animi	personagem	CRLF x2	○○！！\n見てよこの虫！！\nこんなんなっちゃってんのよ、気色悪ぅ！！		
+mev04_120.scr:2	mev04_120.scr	2	ハロルド	Harold Berselius	personagem	CRLF x2	羽根も鉱物の様に固いわね。\nそして、呼吸する為の気門が無い。\n目も、口も無くなってる		
+mev04_120.scr:3	mev04_120.scr	3	ハロルド	Harold Berselius	personagem	CRLF x1	生物として、あるべきものが\n欠けているわ		
+mev04_120.scr:4	mev04_120.scr	4	イリア	Iria Animi	personagem		これって、あの赤い煙のせいなわけ？		
+mev04_120.scr:5	mev04_120.scr	5	ハロルド	Harold Berselius	personagem		その可能性は濃厚ね		
+mev04_120.scr:6	mev04_120.scr	6	ハロルド	Harold Berselius	personagem	CRLF x1	もう一例くらい、\n確認出来ればいいんだけど		
+mev04_130.scr:0	mev04_130.scr	0	トマス	Thomas	personagem	CRLF x2	ワシは、モラード村の村長の\nトマスという者でのゥ。\n一つ、受けてもらいたい依頼があるんだが		
+mev04_130.scr:1	mev04_130.scr	1	アンジュ	Ange Serena	personagem		はい		
+mev04_130.scr:2	mev04_130.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	モラード村といえば、\n以前ジョアンさんという方が\n当ギルドを利用されましたが		
+mev04_130.scr:3	mev04_130.scr	3	アンジュ	Ange Serena	personagem		ジョアンさんはその後、どんなご様子ですか？		
+mev04_130.scr:4	mev04_130.scr	4	トマス	Thomas	personagem	CRLF x2	…ああ、ジョアンはなァ。\n元気になった途端、今までの倍働くと\n行商に出て行ったでなァ…		
+mev04_130.scr:5	mev04_130.scr	5	アンジュ	Ange Serena	personagem	CRLF x1	そうですか、お元気なのですね。\n良かった		
+mev04_130.scr:6	mev04_130.scr	6	アンジュ	Ange Serena	personagem		それでは、依頼とは何でしょうか？		
+mev04_130.scr:7	mev04_130.scr	7	トマス	Thomas	personagem	CRLF x2	ワシの村に魔物が入り込んでのゥ。\nそれを捕まえたんで、遠くの地に\n捨ててきて欲しいんだァ		
+mev04_130.scr:8	mev04_130.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	捕まえた魔物を捨てる、ですか？\n討伐などではなく？		
+mev04_130.scr:9	mev04_130.scr	9	トマス	Thomas	personagem		受けてもらえんのかァ…？		
+mev04_130.scr:10	mev04_130.scr	10	アンジュ	Ange Serena	personagem	CRLF x1	いえ…。\n依頼とあれば		
+mev04_130.scr:11	mev04_130.scr	11	トマス	Thomas	personagem	CRLF x2	場所は…、カダイフ砂漠がいいかのゥ。\nあそこにあるオアシスにでも\n捨ててきてくれんかなァ		
+mev04_130.scr:12	mev04_130.scr	12	トマス	Thomas	personagem	CRLF x2	それじゃ、頼んだでよゥ。\n仕事を受けてくれる者が決まったら、\n魔物を引き渡すんでなァ		
+mev04_130.scr:13	mev04_130.scr	13	アンジュ	Ange Serena	personagem	CRLF x1	はい。\nわかりました…		

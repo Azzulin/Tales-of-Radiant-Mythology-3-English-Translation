@@ -1,0 +1,412 @@
+bloco|va_ponteiro|traducao|fonte|status|nota
+resultado_batalha|0x08D656C0|Go All Out!|SIS-01|validado|Comando tatico de batalha: 一気にいくぞ
+resultado_batalha|0x08D656C4|Conserve Strength!|SIS-01|validado|Comando tatico de batalha: 温存して戦え
+resultado_batalha|0x08D656C8|Hold Out for Now!|SIS-01|validado|Comando tatico de batalha: 今は耐えろ
+resultado_batalha|0x08D656CC|Battle Record|SIS-01|validado|Divergencia de SIS-01.md secao 3: o glifo ■ foi omitido em 'traducao' para conformidade estrita com R1/E4 do valida_retorno.py (que recusa caractere nao-ASCII e trava no print cp1252 no Windows). Se a insercao no binario mantiver o glifo como em P-45, a forma pretendida e '■ Battle Record'.
+resultado_batalha|0x08D656D0|EXP Earned|SIS-01|validado|
+resultado_batalha|0x08D656D4|Bonus EXP|SIS-01|validado|
+resultado_batalha|0x08D656D8|Max Hits|SIS-01|validado|
+resultado_batalha|0x08D656DC|Gald Earned|SIS-01|validado|Termo padrao Tales: Gald
+resultado_batalha|0x08D656E0|Battle Time|SIS-01|validado|
+resultado_batalha|0x08D656E4|Grade|SIS-01|validado|Termo padrao Tales: Grade
+resultado_batalha|0x08D656EC|Information|SIS-01|validado|Divergencia de SIS-01.md secao 3: o glifo ■ foi omitido em 'traducao' para conformidade estrita com R1/E4 do valida_retorno.py (que recusa caractere nao-ASCII e trava no print cp1252 no Windows). Se a insercao no binario mantiver o glifo como em P-45, a forma pretendida e '■ Information'.
+resultado_batalha|0x08D656F4|Cannot carry any more equipment.|SIS-01|validado|
+resultado_batalha|0x08D656F8|Cannot carry any more items.|SIS-01|validado|
+resultado_batalha|0x08D656FC|Learned %s!|SIS-01|validado|
+resultado_batalha|0x08D65700|Mystic Arte: Learned %s!|SIS-01|validado|Termo do indice: 秘奥義 -> Mystic Arte
+resultado_batalha|0x08D65704|%s leveled up!|SIS-01|validado|
+resultado_batalha|0x08D65708| picked up!|SIS-01|validado|Mensagem pos-batalha: o nome do item precede a string no display do jogo
+resultado_batalha|0x08D6570C|Can now change class to %s!|SIS-01|validado|
+resultado_batalha|0x08D65710|Escaped safely!|SIS-01|validado|
+resultado_batalha|0x08D65714|Learned %s!|SIS-01|validado|
+resultado_batalha|0x08D65718|Found %d Gald!|SIS-01|validado|Termo padrao Tales: Gald
+resultado_batalha|0x08D6571C|Stole %s!|SIS-01|validado|
+resultado_batalha|0x08D65720|Obtained %d Gald!|SIS-01|validado|Termo padrao Tales: Gald
+resultado_batalha|0x08D65724|Dropped %d Gald!|SIS-01|validado|Termo padrao Tales: Gald
+resultado_batalha|0x08D65728|Found nothing!|SIS-01|validado|
+resultado_batalha|0x08D6572C|Back attack by the enemy!|SIS-01|validado|
+resultado_batalha|0x08D65730|%d challengers appeared!|SIS-01|validado|
+nomes_cidade|0x08D66BC4|Luminasia|SIS-01|validado|INDICE_NOMES.md: ルミナシア -> Luminasia
+nomes_cidade|0x08D66BC8|Zirdia|SIS-01|validado|INDICE_NOMES.md: ジルディア -> Zirdia
+nomes_cidade|0x08D66BCC|Pasca|SIS-01|validado|Mundo de origem RM1
+nomes_cidade|0x08D66BD0|Granide|SIS-01|validado|INDICE_NOMES.md: グラニデ -> Granide
+nomes_cidade|0x08D66BD4|Pecan Village|SIS-01|validado|Padrao de comida (J5): noz pecan
+nomes_cidade|0x08D66BD8|Hazel Village|SIS-01|validado|INDICE_NOMES.md: ヘーゼル村 -> Hazel Village
+nomes_cidade|0x08D66BDC|Urizen Empire|SIS-01|validado|INDICE_NOMES.md: ウリズン帝国 -> Urizen Empire
+nomes_cidade|0x08D66BE0|Empire|SIS-01|validado|Forma solta: 帝国 -> Empire
+nomes_cidade|0x08D66BE4|Garbanzo|SIS-01|validado|INDICE_NOMES.md / SIS-01.md: ガルバンゾ国 -> Garbanzo
+nomes_cidade|0x08D66BE8|Garbanzo|SIS-01|validado|Forma solta: ガルバンゾ -> Garbanzo
+nomes_cidade|0x08D66BEC|Morado Village|SIS-01|validado|INDICE_NOMES.md: モラード -> Morado
+nomes_cidade|0x08D66BF0|Mibuna Village|SIS-01|validado|INDICE_NOMES.md: ミブナの里 -> Mibuna Village
+nomes_cidade|0x08D66BF4|Mibuna|SIS-01|validado|Forma solta: ミブナ -> Mibuna
+nomes_cidade|0x08D66BF8|Lima|SIS-01|validado|INDICE_NOMES.md / SIS-01.md: ライマ国 -> Lima
+nomes_cidade|0x08D66BFC|Lima|SIS-01|validado|Forma solta: ライマ -> Lima
+nomes_masmorra_viagem|0x08D66E30|Rhubarb Mountains|SIS-01|validado|INDICE_NOMES.md: ルバーブ -> Rhubarb; 連山 -> Mountains
+nomes_masmorra_viagem|0x08D66E34|Confeito Great Forest|SIS-01|validado|INDICE_NOMES.md: コンフェイト大森林 -> Confeito Great Forest
+nomes_masmorra_viagem|0x08D66E38|Brownie Mine|SIS-01|validado|INDICE_NOMES.md: ブラウニー坑道 -> Brownie Mine
+nomes_masmorra_viagem|0x08D66E3C|Alterata Volcano|SIS-01|validado|INDICE_NOMES.md: オルタータ火山 -> Alterata Volcano
+nomes_masmorra_viagem|0x08D66E40|Kadaif Desert|SIS-01|validado|INDICE_NOMES.md: カダイフ -> Kadaif; 砂漠 -> Desert
+nomes_masmorra_viagem|0x08D66E44|Almanac Ruins|SIS-01|validado|INDICE_NOMES.md: アルマナック -> Almanac; 遺跡 -> Ruins
+nomes_masmorra_viagem|0x08D66E48|Mt. Absol|SIS-01|validado|Conforme MEV-08, MEV-09a, MEV-16
+nomes_masmorra_viagem|0x08D66E4C|Veratropa|SIS-01|validado|INDICE_NOMES.md: ヴェラトローパ -> Veratropa
+nomes_masmorra_viagem|0x08D66E50|Sifno Spring Cave|SIS-01|validado|Conforme MEV-17: シフノ湧泉洞 -> Sifno Spring Cave
+nomes_masmorra_viagem|0x08D66E54|Holy Land of Langriths|SIS-01|validado|Conforme MEV-19, MEV-22, MEV-23: 聖地ラングリース -> Holy Land of Langriths
+nomes_masmorra_viagem|0x08D66E58|Elan Vital|SIS-01|validado|Conforme MEV-23, MEV-24+25: エラン・ヴィタール -> Elan Vital
+nomes_masmorra_viagem|0x08D66E5C|Mine of Reminiscence|SIS-01|validado|Dungeon pos-game: 追憶 (Reminiscence) + 坑道 (Mine)
+nomes_masmorra_viagem|0x08D66E60|Colosseum|SIS-01|validado|Termo padrao Tales: 闘技場 -> Colosseum
+nomes_masmorra_quadro|0x08D861C0|Rhubarb Mountains|SIS-01|validado|E10 paridade com nomes_masmorra_viagem#0
+nomes_masmorra_quadro|0x08D861C4|Confeito Great Forest|SIS-01|validado|E10 paridade com nomes_masmorra_viagem#1
+nomes_masmorra_quadro|0x08D861C8|Brownie Mine|SIS-01|validado|E10 paridade com nomes_masmorra_viagem#2
+nomes_masmorra_quadro|0x08D861CC|Alterata Volcano|SIS-01|validado|E10 paridade com nomes_masmorra_viagem#3
+nomes_masmorra_quadro|0x08D861D0|Kadaif Desert|SIS-01|validado|E10 paridade com nomes_masmorra_viagem#4
+nomes_masmorra_quadro|0x08D861D4|Almanac Ruins|SIS-01|validado|E10 paridade com nomes_masmorra_viagem#5
+nomes_masmorra_quadro|0x08D861D8|Mt. Absol|SIS-01|validado|E10 paridade com nomes_masmorra_viagem#6
+nomes_masmorra_quadro|0x08D861DC|Veratropa|SIS-01|validado|E10 paridade com nomes_masmorra_viagem#7
+nomes_masmorra_quadro|0x08D861E0|Sifno Spring Cave|SIS-01|validado|E10 paridade com nomes_masmorra_viagem#8
+nomes_masmorra_quadro|0x08D861E4|Holy Land of Langriths|SIS-01|validado|E10 paridade com nomes_masmorra_viagem#9
+nomes_masmorra_quadro|0x08D861E8|Elan Vital|SIS-01|validado|E10 paridade com nomes_masmorra_viagem#10
+nomes_masmorra_quadro|0x08D861EC|Mine of Reminiscence|SIS-01|validado|E10 paridade com nomes_masmorra_viagem#11
+itens|0x08CA5EB4|Pineapple Rice Recipe|SIS-01|validado|
+itens|0x08CA5EB8|Pineapple Rice Recipe|SIS-01|validado|Leitura katakana de itens#0
+itens|0x08CA5EBC|The recipe for "Pineapple Rice" that Koda is yearning for.|SIS-01|validado|
+itens|0x08CA5EC0|Mabo Curry Recipe|SIS-01|validado|Prato classico Tales: Mabo Curry
+itens|0x08CA5EC4|Mabo Curry Recipe|SIS-01|validado|Prato classico Tales: Mabo Curry
+itens|0x08CA5EC8|The recipe for "Mabo Curry" that Koda is yearning for.|SIS-01|validado|
+itens|0x08CA5ECC|Mabo Pie Recipe|SIS-01|validado|
+itens|0x08CA5ED0|Mabo Pie Recipe|SIS-01|validado|
+itens|0x08CA5ED4|The recipe for "Mabo Pie" that Koda is yearning for.|SIS-01|validado|
+itens|0x08CA5ED8|Okonomiyaki Recipe|SIS-01|validado|
+itens|0x08CA5EDC|Okonomiyaki Recipe|SIS-01|validado|Leitura katakana de itens#7
+itens|0x08CA5EE0|The recipe for "Okonomiyaki" that Koda is yearning for.|SIS-01|validado|
+itens|0x08CA5EE4|Oden Recipe|SIS-01|validado|
+itens|0x08CA5EE8|Oden Recipe|SIS-01|validado|Leitura katakana de itens#10
+itens|0x08CA5EEC|The recipe for "Oden" that Koda is yearning for.|SIS-01|validado|
+itens|0x08CA5EF0|Cheese Fondue Recipe|SIS-01|validado|
+itens|0x08CA5EF4|Cheese Fondue Recipe|SIS-01|validado|
+itens|0x08CA5EF8|The recipe for "Cheese Fondue" that Koda is yearning for.|SIS-01|validado|
+itens|0x08CA5EFC|Black Tea Cookie Recipe|SIS-01|validado|
+itens|0x08CA5F00|Black Tea Cookie Recipe|SIS-01|validado|Leitura katakana de itens#15
+itens|0x08CA5F04|The recipe for "Black Tea Cookies" that Koda is yearning for.|SIS-01|validado|
+itens|0x08CA5F08|Commonly Known as Delicious-Delicious Recipe|SIS-01|validado|通称 = commonly known as / aka
+itens|0x08CA5F0C|Commonly Known as Delicious-Delicious Recipe|SIS-01|validado|Leitura katakana de itens#18
+itens|0x08CA5F10|The recipe for "Commonly Known as Delicious-Delicious" that Koda is yearning for.|SIS-01|validado|
+itens|0x08CA5F14|Mountain and Sea Delicacy Soup Recipe|SIS-01|validado|山海珍味 = iguarias da montanha e do mar
+itens|0x08CA5F18|Mountain and Sea Delicacy Soup Recipe|SIS-01|validado|Leitura katakana de itens#21
+itens|0x08CA5F1C|The recipe for "Mountain and Sea Delicacy Soup" that Koda is yearning for.|SIS-01|validado|
+itens|0x08CA5F20|Medicinal Champuru Recipe|SIS-01|validado|薬膳 = medicinal / herbal, チャンプルー = champuru
+itens|0x08CA5F24|Medicinal Champuru Recipe|SIS-01|validado|Leitura katakana de itens#24
+itens|0x08CA5F28|The recipe for "Medicinal Champuru" that Koda is yearning for.|SIS-01|validado|
+itens|0x08CA5F2C|Manchu-Han Imperial Feast Recipe|SIS-01|validado|まンカんぜんセき = grafia infantil/distorcida de 満漢全席
+itens|0x08CA5F30|Manchu-Han Imperial Feast Recipe|SIS-01|validado|Leitura katakana de itens#27
+itens|0x08CA5F34|The recipe for "Manchu-Han Imperial Feast" that Koda is yearning for.|SIS-01|validado|
+itens|0x08CA5F38|Crimson Rose|SIS-01|validado|
+itens|0x08CA5F3C|Crimson Rose|SIS-01|validado|Leitura katakana de itens#30
+itens|0x08CA5F40|Passionately builds a romantic mood between men and women... or not.|SIS-01|validado|
+itens|0x08CA5F44|Torn Letter|SIS-01|validado|
+itens|0x08CA5F48|Torn Letter|SIS-01|validado|Leitura katakana de itens#33
+itens|0x08CA5F4C|A letter persistently torn to shreds. The writing is illegible, but the grudge is palpable.|SIS-01|validado|
+itens|0x08CA5F50|Candle|SIS-01|validado|
+itens|0x08CA5F54|Candle|SIS-01|validado|
+itens|0x08CA5F58|In other words, a candle. How it is used depends on the person.|SIS-01|validado|
+itens|0x08CA5F5C|Packing Rope|SIS-01|validado|
+itens|0x08CA5F60|Packing Rope|SIS-01|validado|Leitura katakana de itens#38
+itens|0x08CA5F64|Rope meant for luggage, but also well regarded by those who enjoy being tied up.|SIS-01|validado|
+itens|0x08CA5F68|Brightening Lotion|SIS-01|validado|
+itens|0x08CA5F6C|Brightening Lotion|SIS-01|validado|Leitura katakana de itens#41
+itens|0x08CA5F70|Reverts skin age to just before infancy. Risks vanishing you completely.|SIS-01|validado|
+itens|0x08CA5F74|Lucia's Hairpin|SIS-01|validado|
+itens|0x08CA5F78|Lucia's Hairpin|SIS-01|validado|Leitura katakana de itens#44
+itens|0x08CA5F7C|A favorite item of an unfortunate girl. She is still alive, so there is no curse.|SIS-01|validado|
+itens|0x08CA5F80|Funny Glasses|SIS-01|validado|
+itens|0x08CA5F84|Funny Glasses|SIS-01|validado|Leitura katakana de itens#47
+itens|0x08CA5F88|A party gag item, but getting a laugh with it is considered a formidable feat.|SIS-01|validado|
+itens|0x08CA5F8C|Sexy Underwear|SIS-01|validado|
+itens|0x08CA5F90|Sexy Underwear|SIS-01|validado|Leitura katakana de itens#50
+itens|0x08CA5F94|Seals a demon that once drove heaven, earth, and the demon realm to ruin.|SIS-01|validado|
+itens|0x08CA5F98|Alumni Directory|SIS-01|validado|
+itens|0x08CA5F9C|Alumni Directory|SIS-01|validado|Leitura katakana de itens#53
+itens|0x08CA5FA0|The writing spaces are stark white; looking at it fills one with a sense of ennui.|SIS-01|validado|
+itens|0x08CA5FA4|Debt Promissory Note|SIS-01|validado|
+itens|0x08CA5FA8|Debt Promissory Note|SIS-01|validado|Leitura katakana de itens#56
+itens|0x08CA5FAC|Paper that breeds money. In a sense, it could be called the most terrifying monster of all.|SIS-01|validado|
+itens|0x08CA5FB0|Lamp Oil|SIS-01|validado|
+itens|0x08CA5FB4|Lamp Oil|SIS-01|validado|Leitura katakana de itens#59
+itens|0x08CA5FB8|Used to illuminate dark places. Being oil is no excuse to use it for weird things.|SIS-01|validado|
+itens|0x08CA5FBC|Wine|SIS-01|validado|
+itens|0x08CA5FC0|Wine|SIS-01|validado|Leitura katakana de itens#62
+itens|0x08CA5FC4|A lavish item made with mellow grapes. Grape lovers will ascend to heaven.|SIS-01|validado|
+itens|0x08CA5FC8|Herbal Tea|SIS-01|validado|
+itens|0x08CA5FCC|Herbal Tea|SIS-01|validado|
+itens|0x08CA5FD0|Many women drink this as a sleep aid to end the day feeling true to themselves.|SIS-01|validado|
+itens|0x08CA5FD4|Wall Clock Winding Key|SIS-01|validado|Alusao a cancao 'My Grandfather Clock'
+itens|0x08CA5FD8|Wall Clock Winding Key|SIS-01|validado|Leitura katakana de itens#67
+itens|0x08CA5FDC|A part from an antique clock destroyed by a grandfather in a fit of rage.|SIS-01|validado|
+itens|0x08CA5FE0|Polwiggle Lubricant Slime|SIS-01|validado|Monstro padrao Tales: オタオタ -> Polwiggle
+itens|0x08CA5FE4|Polwiggle Lubricant Slime|SIS-01|validado|Leitura katakana de itens#70
+itens|0x08CA5FE8|Slime extracted from a Polwiggle. Used in medicine, cosmetics, and industry alike.|SIS-01|validado|
+itens|0x08CA5FEC|Stethoscope|SIS-01|validado|
+itens|0x08CA5FF0|Stethoscope|SIS-01|validado|Leitura katakana de itens#73
+itens|0x08CA5FF4|Doctors use it to hear heartbeats. By rule, if pointed at you, you must undress.|SIS-01|validado|
+itens|0x08CA5FF8|Mysterious Cylinder|SIS-01|validado|
+itens|0x08CA5FFC|Mysterious Cylinder|SIS-01|validado|Leitura katakana de itens#76
+itens|0x08CA6000|Purpose unknown. Rumor says you'll die peering through it like a telescope.|SIS-01|validado|
+itens|0x08CA6004|Makeup Pouch|SIS-01|validado|
+itens|0x08CA6008|Makeup Pouch|SIS-01|validado|Leitura katakana de itens#79
+itens|0x08CA600C|As one grows up, the contents become plentiful, and gradually it becomes a chore.|SIS-01|validado|
+itens|0x08CA6010|Splendid Horn|SIS-01|validado|
+itens|0x08CA6014|Splendid Horn|SIS-01|validado|Leitura katakana de itens#82
+itens|0x08CA6018|Blowing it creates a shockwave that shatters every window within a 100-meter radius.|SIS-01|validado|
+itens|0x08CA601C|Chess Piece|SIS-01|validado|
+itens|0x08CA6020|Chess Piece|SIS-01|validado|Leitura katakana de itens#85
+itens|0x08CA6024|Comes with a pointlessly grandiose note saying, "The board is the entire world!"|SIS-01|validado|
+itens|0x08CA6028|Pocket Watch|SIS-01|validado|
+itens|0x08CA602C|Pocket Watch|SIS-01|validado|Leitura katakana de itens#88
+itens|0x08CA6030|A nice pocket watch, but the hands move at startling speed. It is harmless.|SIS-01|validado|
+itens|0x08CA6034|Ice Pick|SIS-01|validado|
+itens|0x08CA6038|Ice Pick|SIS-01|validado|
+itens|0x08CA603C|A tool used to crush ice. If found near a bed, proceed with extreme caution.|SIS-01|validado|
+itens|0x08CA6040|Angel Apron|SIS-01|validado|
+itens|0x08CA6044|Angel Apron|SIS-01|validado|Leitura katakana de itens#93
+itens|0x08CA6048|Protects the wearer from splattering water and spitting oil with divine power. Detachable.|SIS-01|validado|
+itens|0x08CA604C|Night-Vision Binoculars|SIS-01|validado|
+itens|0x08CA6050|Night-Vision Binoculars|SIS-01|validado|Leitura katakana de itens#96
+itens|0x08CA6054|Lets you see at night as if it were broad daylight. Not for weird uses.|SIS-01|validado|
+itens|0x08CA6058|Hammer and Nails|SIS-01|validado|
+itens|0x08CA605C|Hammer and Nails|SIS-01|validado|Leitura katakana de itens#99
+itens|0x08CA6060|Astonishingly, it can be used to nail plywood and the like.|SIS-01|validado|
+itens|0x08CA6064|Kitten Illustration|SIS-01|validado|
+itens|0x08CA6068|Kitten Illustration|SIS-01|validado|Leitura katakana de itens#102
+itens|0x08CA606C|A picture of an adorable kitten. Contains clues on how to eliminate war.|SIS-01|validado|
+itens|0x08CA6070|Rusted Engagement Ring|SIS-01|validado|
+itens|0x08CA6074|Rusted Engagement Ring|SIS-01|validado|Leitura katakana de itens#105
+itens|0x08CA6078|Belonged to a woman who met an unfortunate mishap. She's since bought a new one.|SIS-01|validado|
+itens|0x08CA607C|Shopping Memo|SIS-01|validado|
+itens|0x08CA6080|Shopping Memo|SIS-01|validado|Leitura katakana de itens#108
+itens|0x08CA6084|An invention devised by humankind to proceed through shopping efficiently.|SIS-01|validado|
+itens|0x08CA6088|Life Guidebook|SIS-01|validado|
+itens|0x08CA608C|Life Guidebook|SIS-01|validado|Leitura katakana de itens#111
+itens|0x08CA6090|The afterword calls this the definitive edition, but a sequel already ships this summer.|SIS-01|validado|
+itens|0x08CA6094|Tiger-Striped Banner|SIS-01|validado|
+itens|0x08CA6098|Tiger-Striped Banner|SIS-01|validado|Leitura katakana de itens#114
+itens|0x08CA609C|A banner bearing a tiger pattern. Exudes the nobility of the Beast King.|SIS-01|validado|
+itens|0x08CA60A0|Cordyceps|SIS-01|validado|Item padrao Tales: 冬虫夏草 -> Cordyceps
+itens|0x08CA60A4|Cordyceps|SIS-01|validado|Leitura katakana de itens#117
+itens|0x08CA60A8|So nutritious it keeps you awake, unable to blink for a week.|SIS-01|validado|
+itens|0x08CA60AC|Ceramic Washbasin|SIS-01|validado|
+itens|0x08CA60B0|Ceramic Washbasin|SIS-01|validado|Leitura katakana de itens#120
+itens|0x08CA60B4|Extremely fragile; putting your weight on it will shatter it into tiny pieces.|SIS-01|validado|
+itens|0x08CA60B8|Criminal Wanted Poster|SIS-01|validado|
+itens|0x08CA60BC|Criminal Wanted Poster|SIS-01|validado|Leitura katakana de itens#123
+itens|0x08CA60C0|Features an image sketch that looks far creepier than necessary.|SIS-01|validado|
+itens|0x08CA60C4|Morning Glory Pot|SIS-01|validado|
+itens|0x08CA60C8|Morning Glory Pot|SIS-01|validado|Leitura katakana de itens#126
+itens|0x08CA60CC|In exchange for summer vacation memories, it can be wielded as a lethal weapon.|SIS-01|validado|
+itens|0x08CA60D0|Charred Newt|SIS-01|validado|
+itens|0x08CA60D4|Charred Newt|SIS-01|validado|Leitura katakana de itens#129
+itens|0x08CA60D8|A newt burnt pitch black. Purpose unknown.|SIS-01|validado|
+itens|0x08CA60DC|Exquisite Italian Dish|SIS-01|validado|
+itens|0x08CA60E0|Exquisite Italian Dish|SIS-01|validado|Leitura katakana de itens#132
+itens|0x08CA60E4|A supreme, scrumptious dish. So delicious that a single bite will bring you to tears.|SIS-01|validado|
+itens|0x08CA60E8|Steamy Onsen Egg|SIS-01|validado|
+itens|0x08CA60EC|Steamy Onsen Egg|SIS-01|validado|Leitura katakana de itens#135
+itens|0x08CA60F0|A hot spring egg risking life and limb to make inside an active volcano. Reasonably tasty.|SIS-01|validado|
+itens|0x08CA60F4|Embarrassing Photo|SIS-01|validado|
+itens|0x08CA60F8|Embarrassing Photo|SIS-01|validado|Leitura katakana de itens#138
+itens|0x08CA60FC|A photo so embarrassing it makes even complete strangers blush.|SIS-01|validado|
+itens|0x08CA6100|A Past Best Forgotten|SIS-01|validado|
+itens|0x08CA6104|A Past Best Forgotten|SIS-01|validado|Leitura katakana de itens#141
+itens|0x08CA6108|A horrifying item you can never escape. Beware, as it strikes without warning.|SIS-01|validado|
+itens|0x08CA610C|Ordinary Happiness|SIS-01|validado|
+itens|0x08CA6110|Ordinary Happiness|SIS-01|validado|Leitura katakana de itens#144
+itens|0x08CA6114|The kind of ordinary thing you realize was happiness only after you have lost it.|SIS-01|validado|Alusao a cancao 'Road' do The Tra-bryu
+itens|0x08CA6118|Sinister Mirror|SIS-01|validado|
+itens|0x08CA611C|Sinister Mirror|SIS-01|validado|Leitura katakana de itens#147
+itens|0x08CA6120|The mirror's surface bears the pattern of an eye, scratched into it by its previous owner.|SIS-01|validado|
+itens|0x08CA6124|Mud-Covered Doll|SIS-01|validado|
+itens|0x08CA6128|Mud-Covered Doll|SIS-01|validado|Leitura katakana de itens#150
+itens|0x08CA612C|A charred doll discovered in a dense forest. Its eyeballs have been gouged out.|SIS-01|validado|
+itens|0x08CA6130|Faceless Portrait|SIS-01|validado|
+itens|0x08CA6134|Faceless Portrait|SIS-01|validado|Leitura katakana de itens#153
+itens|0x08CA6138|A portrait of a child. The face is blacked out, but only the eyes can be seen.|SIS-01|validado|
+itens|0x08CA613C|Strange Facing Mirrors|SIS-01|validado|
+itens|0x08CA6140|Strange Facing Mirrors|SIS-01|validado|Leitura katakana de itens#156
+itens|0x08CA6144|Decorated with countless eyes, though the mirror surfaces are painted black.|SIS-01|validado|
+itens|0x08CA6148|Mad Compass|SIS-01|validado|
+itens|0x08CA614C|Mad Compass|SIS-01|validado|Leitura katakana de itens#159
+itens|0x08CA6150|A spherical compass shaped like an eyeball. The needle spins ceaselessly.|SIS-01|validado|
+itens|0x08CA6154|Conqueror's Proof|SIS-01|validado|
+itens|0x08CA6158|Conqueror's Proof|SIS-01|validado|Leitura katakana de itens#162
+itens|0x08CA615C|Proof obtainable only by one who has conquered the sealed land.|SIS-01|validado|
+itens|0x08CA6160|Champion's Proof|SIS-01|validado|
+itens|0x08CA6164|Champion's Proof|SIS-01|validado|Leitura katakana de itens#165
+itens|0x08CA6168|A two-handed sword said to have been favored by a legendary hero.|SIS-01|validado|
+itens|0x08CA616C|Tablet of the Past|SIS-01|validado|
+itens|0x08CA6170|Tablet of the Past|SIS-01|validado|Leitura katakana de itens#168
+itens|0x08CA6174|A tablet inscribed with numbers, encrypting the world's entire "past."|SIS-01|validado|
+itens|0x08CA6178|Arcana Key|SIS-01|validado|
+itens|0x08CA617C|Arcana Key|SIS-01|validado|
+itens|0x08CA6180|A key that unlocks the door to the sealed land. Chipped in places and currently unusable.|SIS-01|validado|
+itens|0x08CA6184|Eleusis Key|SIS-01|validado|
+itens|0x08CA6188|Eleusis Key|SIS-01|validado|Leitura katakana de itens#173
+itens|0x08CA618C|A key used to make contact with other worlds. It seems to have lost its magic power for now.|SIS-01|validado|
+itens|0x08CA6190|Warrior's Proof|SIS-01|validado|Classe RM2/RM3: 戦士 -> Warrior
+itens|0x08CA6194|Warrior's Proof|SIS-01|validado|Leitura katakana de itens#176
+itens|0x08CA6198|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA61A4|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA61B0|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA61BC|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA61C8|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA61D4|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA61E0|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA61EC|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA61F8|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA6204|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA6210|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA621C|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA6228|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA6234|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA6240|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA624C|Allows you to receive Radiant equipment from Rocks.|SIS-01|validado|Descricao compartilhada das 13 classes
+itens|0x08CA619C|Swordsman's Proof|SIS-01|validado|Classe RM2/RM3: 剣士 -> Swordsman
+itens|0x08CA61A0|Swordsman's Proof|SIS-01|validado|Leitura katakana de itens#179
+itens|0x08CA61A8|Martial Artist's Proof|SIS-01|validado|Classe RM2/RM3: 格闘家 -> Martial Artist
+itens|0x08CA61AC|Martial Artist's Proof|SIS-01|validado|Leitura katakana de itens#181
+itens|0x08CA61B4|Hunter's Proof|SIS-01|validado|Classe RM2/RM3: 狩人 -> Hunter
+itens|0x08CA61B8|Hunter's Proof|SIS-01|validado|Leitura katakana de itens#183
+itens|0x08CA61C0|Thief's Proof|SIS-01|validado|Classe RM2/RM3: 盗賊 -> Thief
+itens|0x08CA61C4|Thief's Proof|SIS-01|validado|Leitura katakana de itens#185
+itens|0x08CA61CC|Mage's Proof|SIS-01|validado|Classe RM2/RM3: 魔術師 -> Mage
+itens|0x08CA61D0|Mage's Proof|SIS-01|validado|Leitura katakana de itens#187
+itens|0x08CA61D8|Priest's Proof|SIS-01|validado|Classe RM2/RM3: 僧侶 -> Priest
+itens|0x08CA61DC|Priest's Proof|SIS-01|validado|Leitura katakana de itens#189
+itens|0x08CA61E4|Great Swordsman's Proof|SIS-01|validado|Classe RM2/RM3: 大剣士 -> Great Swordsman
+itens|0x08CA61E8|Great Swordsman's Proof|SIS-01|validado|Leitura katakana de itens#191
+itens|0x08CA61F0|Twin Swordsman's Proof|SIS-01|validado|Classe RM2/RM3: 双剣士 -> Twin Swordsman
+itens|0x08CA61F4|Twin Swordsman's Proof|SIS-01|validado|Leitura katakana de itens#193
+itens|0x08CA61FC|Gunman's Proof|SIS-01|validado|Classe RM2/RM3: ガンマン -> Gunman
+itens|0x08CA6200|Gunman's Proof|SIS-01|validado|Leitura katakana de itens#195
+itens|0x08CA6208|Monk's Proof|SIS-01|validado|Classe RM2/RM3: モンク -> Monk
+itens|0x08CA620C|Monk's Proof|SIS-01|validado|Leitura katakana de itens#197
+itens|0x08CA6214|Bishop's Proof|SIS-01|validado|Classe RM2/RM3: ビショップ -> Bishop
+itens|0x08CA6218|Bishop's Proof|SIS-01|validado|Leitura katakana de itens#199
+itens|0x08CA6220|Spellsword's Proof|SIS-01|validado|Classe RM2/RM3: 魔法剣士 -> Spellsword
+itens|0x08CA6224|Spellsword's Proof|SIS-01|validado|Leitura katakana de itens#201
+itens|0x08CA622C|Ninja's Proof|SIS-01|validado|Classe RM2/RM3: 忍者 -> Ninja
+itens|0x08CA6230|Ninja's Proof|SIS-01|validado|Leitura katakana de itens#203
+itens|0x08CA6238|Pirate's Proof|SIS-01|validado|Classe RM2/RM3: 海賊 -> Pirate
+itens|0x08CA623C|Pirate's Proof|SIS-01|validado|Leitura katakana de itens#205
+itens|0x08CA6244|Paladin's Proof|SIS-01|validado|Classe RM2/RM3: 聖騎士 -> Paladin
+itens|0x08CA6248|Paladin's Proof|SIS-01|validado|Leitura katakana de itens#207
+itens|0x08CA6250|Black Orb|SIS-01|validado|
+itens|0x08CA6254|Black Orb|SIS-01|validado|Leitura katakana de itens#209
+itens|0x08CA6258|A jewel that, for some reason, had been left in a room on the Van Eltia for a long time.|SIS-01|validado|INDICE_NOMES.md: バンエルティア号 -> Van Eltia
+itens|0x08CA625C|White Orb|SIS-01|validado|
+itens|0x08CA6268|White Orb|SIS-01|validado|
+itens|0x08CA6274|White Orb|SIS-01|validado|
+itens|0x08CA6260|White Orb|SIS-01|validado|Leitura katakana de itens#212
+itens|0x08CA626C|White Orb|SIS-01|validado|Leitura katakana de itens#212
+itens|0x08CA6278|White Orb|SIS-01|validado|Leitura katakana de itens#212
+itens|0x08CA6264|A white jewel obtained from a green chest in the Rhubarb Mountains.|SIS-01|validado|Toponimo: ルバーブ連山 -> Rhubarb Mountains
+itens|0x08CA6270|A white jewel obtained from a green chest in the Rhubarb Mountains.|SIS-01|validado|Toponimo: ルバーブ連山 -> Rhubarb Mountains
+itens|0x08CA627C|A white jewel obtained from a green chest in the Rhubarb Mountains.|SIS-01|validado|Toponimo: ルバーブ連山 -> Rhubarb Mountains
+itens|0x08CA6280|Red Orb|SIS-01|validado|
+itens|0x08CA6284|Red Orb|SIS-01|validado|Leitura katakana de itens#215
+itens|0x08CA6288|A red jewel obtained from a green chest in the Almanac Ruins.|SIS-01|validado|Toponimo: アルマナック遺跡 -> Almanac Ruins
+itens|0x08CA628C|Blue Orb|SIS-01|validado|
+itens|0x08CA6290|Blue Orb|SIS-01|validado|Leitura katakana de itens#218
+itens|0x08CA6294|A blue jewel obtained from a green chest in the Sifno Spring Cave.|SIS-01|validado|Toponimo: シフノ湧泉洞 -> Sifno Spring Cave
+itens|0x08CA6298|Green Orb|SIS-01|validado|
+itens|0x08CA629C|Green Orb|SIS-01|validado|Leitura katakana de itens#221
+itens|0x08CA62A0|A green jewel obtained from a green chest in the Holy Land of Langriths.|SIS-01|validado|Toponimo: 聖地ラングリース -> Holy Land of Langriths
+quests_completo|0x08D832D4|Discovered %s.|SIS-01#avisos(quests)|validado|
+quests_completo|0x08D832D8|Discovered %s.|SIS-01#avisos(quests)|validado|
+quests_completo|0x08D832DC|Defeated %s.|SIS-01#avisos(quests)|validado|
+quests_completo|0x08D832E0|Defeated by %s.|SIS-01#avisos(quests)|validado|
+quests_completo|0x08D832E4|Quest objectives achieved.|SIS-01#avisos(quests)|validado|Conclusao de objetivo in-game
+quests_completo|0x08D832E8|%d remaining.|SIS-01#avisos(quests)|validado|Contagem de monstros restantes
+quests_completo|0x08D832EC|Target defeat count reached.|SIS-01#avisos(quests)|validado|
+quests_completo|0x08D832F0|Required item quantity reached.|SIS-01#avisos(quests)|validado|
+quests_completo|0x08D832F4|You seem to already have this item.|SIS-01#avisos(quests)|validado|
+quests_completo|0x08D832F8|Found all designated valuables.|SIS-01#avisos(quests)|validado|
+quests_completo|0x08D832FC|Quest complete.|SIS-01#avisos(quests)|validado|Entrega final de quest
+quests_completo|0x08D83320|Quest cancelled.|SIS-01#avisos(quests)|validado|
+quests_completo|0x08D83344|Party disbanded.|SIS-01#avisos(quests)|validado|
+quests_completo|0x08D83348|%s left the party.|SIS-01#avisos(quests)|validado|
+quests_completo|0x08D8334C|%s joined the party.|SIS-01#avisos(quests)|validado|
+quests_completo|0x08D83380|Titles can be viewed in Library under Menu.\nSetting an acquired title grants\na variety of effects.|SIS-01#avisos(quests)|validado|Aviso tutorial: exatos 2 \n
+loja_avisos|0x08D66828| deposited.|SIS-01#avisos(loja)|validado|Notificacao do armazem: nome do item precede a string
+loja_avisos|0x08D6682C| retrieved.|SIS-01#avisos(loja)|validado|Notificacao do armazem: nome do item precede a string
+loja_avisos|0x08D66830| is equipped. Could not deposit equipment.|SIS-01#avisos(loja)|validado|Notificacao do armazem: nome do membro precede a string
+loja_avisos|0x08D66834|Storage is full. Could not deposit equipment.|SIS-01#avisos(loja)|validado|Notificacao do armazem
+loja_avisos|0x08D66838|Inventory is full. Could not retrieve equipment.|SIS-01#avisos(loja)|validado|Notificacao do armazem
+quests_completo|0x08D83230|No quests currently accepted.|SIS-02|validado|
+quests_completo|0x08D83234|Defeat %d %s monsters!!|SIS-02|validado|
+quests_completo|0x08D83238|Defeat %d %s!!|SIS-02|validado|
+quests_completo|0x08D8323C|Defeat %d %s!!|SIS-02|validado|
+quests_completo|0x08D83240|Obtain %d %s!!|SIS-02|validado|
+quests_completo|0x08D83244|Obtain %d %s!!|SIS-02|validado|
+quests_completo|0x08D83248|Obtain %d %s!!|SIS-02|validado|
+quests_completo|0x08D8324C|Get the target item from a blue treasure chest!!|SIS-02|validado|
+quests_completo|0x08D83268|Get the target item from a blue treasure chest!!|SIS-02|validado|
+quests_completo|0x08D83250|Defeat %s in battle!!|SIS-02|validado|
+quests_completo|0x08D83254|Defeat %s!!|SIS-02|validado|
+quests_completo|0x08D83258|None|SIS-02|validado|
+quests_completo|0x08D83264|None|SIS-02|validado|
+quests_completo|0x08D8326C|None|SIS-02|validado|
+quests_completo|0x08D83274|None|SIS-02|validado|
+quests_completo|0x08D8325C|Head to Green Road 3!|SIS-02|validado|Proposed toponym: Green Road. Not in name index yet.
+quests_completo|0x08D83260|Obtain 10 Hanaaburadake!|SIS-02|validado|Proposed name: Hanaaburadake (flower-oil mushroom). Not in term index yet.
+quests_completo|0x08D83270|Head to Floor 4, deepest point!|SIS-02|validado|
+quests_completo|0x08D83278|Find Cress Albane's companions!|SIS-02|validado|
+quests_completo|0x08D8327C|Find Woodrow Kelvin!|SIS-02|validado|
+quests_completo|0x08D83280|Find the young swordsman!|SIS-02|validado|
+quests_completo|0x08D83284|Find the archer girl!|SIS-02|validado|
+quests_completo|0x08D83288|Find the teacher invited to the guild!|SIS-02|validado|
+quests_completo|0x08D8328C|Find Lloyd Irving's companions!|SIS-02|validado|
+quests_completo|0x08D83290|Find Genis Sage's friend!|SIS-02|validado|
+quests_completo|0x08D83294|Find Eugene Gallardo's companions!|SIS-02|validado|
+quests_completo|0x08D83298|Track down the villain lurking in this land!|SIS-02|validado|
+quests_completo|0x08D8329C|Find Norma Beatty!|SIS-02|validado|
+quests_completo|0x08D832A0|Find Jay!|SIS-02|validado|
+quests_completo|0x08D832A4|Find Luke fon Fabre's companions!|SIS-02|validado|
+quests_completo|0x08D832A8|Find Jade Curtiss's subordinate!|SIS-02|validado|
+quests_completo|0x08D832AC|Find Ricardo Soldato!|SIS-02|validado|
+quests_completo|0x08D832B0|Find Flynn Scifo!|SIS-02|validado|
+quests_completo|0x08D832B4|Find the kidnapper and the victim!|SIS-02|validado|
+quests_completo|0x08D832B8|Find Asbel Lhant's companions!|SIS-02|validado|
+quests_completo|0x08D832BC|Find the Wonder Bread Artisan!|SIS-02|validado|Proposed term: Wonder Bread Artisan. Check consistency with QEV-37+38+39+40+41+42+43+44 batch when translated.
+quests_completo|0x08D832C0|Find Mimmy Bread!|SIS-02|validado|
+quests_completo|0x08D832C4|Find Mimmy Bread!|SIS-02|validado|
+quests_completo|0x08D832C8|Find Mimmy Bread!|SIS-02|validado|
+quests_completo|0x08D832CC|Find Mimmy Bread!|SIS-02|validado|
+quests_completo|0x08D832D0|Find Poppo!|SIS-02|validado|
+quests_completo|0x08D83300|Obtained %d %s.|SIS-02|validado|
+quests_completo|0x08D83304|Earned %d Gald.|SIS-02|validado|
+quests_completo|0x08D83308|Return to the Van Eltia?|SIS-02|validado|
+quests_completo|0x08D8330C|Could not obtain %d %s.|SIS-02|validado|
+quests_completo|0x08D83310|Hand over items?|SIS-02|validado|
+quests_completo|0x08D83314|Delivering items...|SIS-02|validado|
+quests_completo|0x08D83318|Handed over %d %s.|SIS-02|validado|
+quests_completo|0x08D8331C|Abandon this quest?|SIS-02|validado|
+quests_completo|0x08D83324|Accept this quest?|SIS-02|validado|
+quests_completo|0x08D83328|Obtained %s.|SIS-02|validado|
+quests_completo|0x08D8332C|Instant return is only available after completing a quest.|SIS-02|validado|
+quests_completo|0x08D83330|Successfully defeated %s.|SIS-02|validado|
+quests_completo|0x08D83334|Please remove the target from your party.|SIS-02|validado|
+quests_completo|0x08D83338|Party size exceeds the member limit.|SIS-02|validado|
+quests_completo|0x08D8333C|You need %d more open slot(s) to accept this quest.|SIS-02|validado|
+quests_completo|0x08D83340|Disband the party and accept this quest?|SIS-02|validado|
+quests_completo|0x08D83350|Abandoned %s.|SIS-02|validado|
+quests_completo|0x08D83354|This quest has party formation restrictions.|SIS-02|validado|
+quests_completo|0x08D83358|The party must have %d or fewer members.|SIS-02|validado|
+quests_completo|0x08D8335C|%s is designated as a member.|SIS-02|validado|
+quests_completo|0x08D83360|Disbanding party...|SIS-02|validado|
+quests_completo|0x08D83364|Forming party...|SIS-02|validado|
+quests_completo|0x08D83368|Current members: %s.|SIS-02|validado|
+quests_completo|0x08D8336C|Reorganize the party and accept this quest?|SIS-02|validado|
+quests_completo|0x08D83370|Unequip all gear from members\nleaving the party?|SIS-02|validado|
+quests_completo|0x08D83374|Items are full, so equipment\ncould not be removed.|SIS-02|validado|
+quests_completo|0x08D83378|Items are full, so equipment\ncould not be removed from all members.|SIS-02|validado|
+quests_completo|0x08D8337C||ja-ascii|validado|Information, ja em ingles, mantido verbatim
+resultado_batalha|0x08D656E8||verbatim-ascii|validado|ja em ingles no jogo, mantido
+resultado_batalha|0x08D656F0||verbatim-ascii|validado|ja em ingles no jogo, mantido

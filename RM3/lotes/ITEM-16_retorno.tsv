@@ -1,0 +1,300 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+exchange_item#0	exchange_item	0	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙１	1H Sword Pattern 1	
+exchange_item#1	exchange_item	1	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ１	1H Sword Pattern 1	
+exchange_item#2	exchange_item	2	(item/equipamento)	(item/equipment)	sistema		３枚でフランベルジュと交換出来ます	Can be exchanged for Flamberge with 3 sheets.	
+exchange_item#3	exchange_item	3	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙２	1H Sword Pattern 2	
+exchange_item#4	exchange_item	4	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ２	1H Sword Pattern 2	
+exchange_item#5	exchange_item	5	(item/equipamento)	(item/equipment)	sistema		３枚でヴォーパルソードと交換出来ます	Can be exchanged for Vorpal Sword with 3 sheets.	
+exchange_item#6	exchange_item	6	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙３（欠番）	1H Sword Pattern 3 (Unused)	
+exchange_item#7	exchange_item	7	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ３	1H Sword Pattern 3	
+exchange_item#8	exchange_item	8	(item/equipamento)	(item/equipment)	sistema		３枚でエターナルソードＳと交換出来ます	Can be exchanged for Eternal Sword S with 3 sheets.	
+exchange_item#9	exchange_item	9	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙３	1H Sword Pattern 3	
+exchange_item#10	exchange_item	10	(item/equipamento)	(item/equipment)	sistema		５枚でフライパンと交換出来ます	Can be exchanged for Frying Pan with 5 sheets.	
+exchange_item#11	exchange_item	11	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙４	1H Sword Pattern 4	
+exchange_item#12	exchange_item	12	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ４	1H Sword Pattern 4	
+exchange_item#13	exchange_item	13	(item/equipamento)	(item/equipment)	sistema		５枚でハリセンと交換出来ます	Can be exchanged for Harisen with 5 sheets.	
+exchange_item#14	exchange_item	14	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙５	1H Sword Pattern 5	
+exchange_item#15	exchange_item	15	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ５	1H Sword Pattern 5	
+exchange_item#16	exchange_item	16	(item/equipamento)	(item/equipment)	sistema		６枚で長ネギと交換出来ます	Can be exchanged for Long Leek with 6 sheets.	
+exchange_item#17	exchange_item	17	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙６	1H Sword Pattern 6	
+exchange_item#18	exchange_item	18	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ６	1H Sword Pattern 6	
+exchange_item#19	exchange_item	19	(item/equipamento)	(item/equipment)	sistema		３枚でローレライ教団詠師剣と交換出来ます	Can be exchanged for Order of Lorelei Cantor Sword with 3 sheets.	
+exchange_item#20	exchange_item	20	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙８（欠番）	1H Sword Pattern 8 (Unused)	
+exchange_item#21	exchange_item	21	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ８	1H Sword Pattern 8	
+exchange_item#22	exchange_item	22	(item/equipamento)	(item/equipment)	sistema		３枚でフォニックブレードと交換出来ます	Can be exchanged for Fonic Blade with 3 sheets.	
+exchange_item#23	exchange_item	23	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙７	1H Sword Pattern 7	
+exchange_item#24	exchange_item	24	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ７	1H Sword Pattern 7	
+exchange_item#25	exchange_item	25	(item/equipamento)	(item/equipment)	sistema		３枚でイクティノスと交換出来ます	Can be exchanged for Igtenos with 3 sheets.	
+exchange_item#26	exchange_item	26	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙８	1H Sword Pattern 8	
+exchange_item#27	exchange_item	27	(item/equipamento)	(item/equipment)	sistema		３枚でシャルティエと交換出来ます	Can be exchanged for Chaltier with 3 sheets.	
+exchange_item#28	exchange_item	28	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙９	1H Sword Pattern 9	
+exchange_item#29	exchange_item	29	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ９	1H Sword Pattern 9	
+exchange_item#30	exchange_item	30	(item/equipamento)	(item/equipment)	sistema		３枚でディムロスと交換出来ます	Can be exchanged for Dymlos with 3 sheets.	
+exchange_item#31	exchange_item	31	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙１０	1H Sword Pattern 10	
+exchange_item#32	exchange_item	32	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ１０	1H Sword Pattern 10	
+exchange_item#33	exchange_item	33	(item/equipamento)	(item/equipment)	sistema		３枚でストームブリンガーと交換出来ます	Can be exchanged for Stormbringer with 3 sheets.	
+exchange_item#34	exchange_item	34	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙１１	1H Sword Pattern 11	
+exchange_item#35	exchange_item	35	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ１１	1H Sword Pattern 11	
+exchange_item#36	exchange_item	36	(item/equipamento)	(item/equipment)	sistema		３枚でラストフェンサーと交換出来ます	Can be exchanged for Last Fencer with 3 sheets.	
+exchange_item#37	exchange_item	37	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙１２	1H Sword Pattern 12	
+exchange_item#38	exchange_item	38	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ１２	1H Sword Pattern 12	
+exchange_item#39	exchange_item	39	(item/equipamento)	(item/equipment)	sistema		３枚でアカバネソードと交換出来ます	Can be exchanged for Akabane Sword with 3 sheets.	
+exchange_item#40	exchange_item	40	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙１３	1H Sword Pattern 13	
+exchange_item#41	exchange_item	41	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ１３	1H Sword Pattern 13	
+exchange_item#42	exchange_item	42	(item/equipamento)	(item/equipment)	sistema		３枚でエターナルソードＰと交換出来ます	Can be exchanged for Eternal Sword P with 3 sheets.	
+exchange_item#43	exchange_item	43	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙１４	1H Sword Pattern 14	
+exchange_item#44	exchange_item	44	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ１４	1H Sword Pattern 14	
+exchange_item#45	exchange_item	45	(item/equipamento)	(item/equipment)	sistema		３枚で忍刀血桜と交換出来ます	Can be exchanged for Ninja Blade Blood Cherry with 3 sheets.	
+exchange_item#46	exchange_item	46	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙１５	1H Sword Pattern 15	
+exchange_item#47	exchange_item	47	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ１５	1H Sword Pattern 15	
+exchange_item#48	exchange_item	48	(item/equipamento)	(item/equipment)	sistema		３枚でエーテルソードと交換出来ます	Can be exchanged for Aether Sword with 3 sheets.	
+exchange_item#49	exchange_item	49	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙１６	1H Sword Pattern 16	
+exchange_item#50	exchange_item	50	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ１６	1H Sword Pattern 16	
+exchange_item#51	exchange_item	51	(item/equipamento)	(item/equipment)	sistema		３枚でビーストソウルと交換出来ます	Can be exchanged for Beast Soul with 3 sheets.	
+exchange_item#52	exchange_item	52	(item/equipamento)	(item/equipment)	sistema		片手剣の型紙１９（欠番）	1H Sword Pattern 19 (Unused)	
+exchange_item#53	exchange_item	53	(item/equipamento)	(item/equipment)	sistema		カタテケンノカタガミ１９	1H Sword Pattern 19	
+exchange_item#54	exchange_item	54	(item/equipamento)	(item/equipment)	sistema		３枚でニバンボシと交換出来ます	Can be exchanged for Nibanboshi with 3 sheets.	
+exchange_item#55	exchange_item	55	(item/equipamento)	(item/equipment)	sistema		両手剣の型紙１（欠番）	2H Sword Pattern 1 (Unused)	
+exchange_item#56	exchange_item	56	(item/equipamento)	(item/equipment)	sistema		リョウテケンノカタガミ１	2H Sword Pattern 1	
+exchange_item#57	exchange_item	57	(item/equipamento)	(item/equipment)	sistema		３枚でセブンスサマーと交換出来ます	Can be exchanged for Seventh Summer with 3 sheets.	
+exchange_item#58	exchange_item	58	(item/equipamento)	(item/equipment)	sistema		両手剣の型紙１	2H Sword Pattern 1	
+exchange_item#59	exchange_item	59	(item/equipamento)	(item/equipment)	sistema		３枚でクレメンテと交換出来ます	Can be exchanged for Clemente with 3 sheets.	
+exchange_item#60	exchange_item	60	(item/equipamento)	(item/equipment)	sistema		両手剣の型紙２	2H Sword Pattern 2	
+exchange_item#61	exchange_item	61	(item/equipamento)	(item/equipment)	sistema		リョウテケンノカタガミ２	2H Sword Pattern 2	
+exchange_item#62	exchange_item	62	(item/equipamento)	(item/equipment)	sistema		３枚でファルステヴェルンと交換出来ます	Can be exchanged for Fals Tewern with 3 sheets.	
+exchange_item#63	exchange_item	63	(item/equipamento)	(item/equipment)	sistema		斧の型紙１	Axe Pattern 1	
+exchange_item#64	exchange_item	64	(item/equipamento)	(item/equipment)	sistema		オノノカタガミ１	Axe Pattern 1	
+exchange_item#65	exchange_item	65	(item/equipamento)	(item/equipment)	sistema		１枚でピコピコハンマーと交換出来ます	Can be exchanged for Piko Piko Hammer with 1 sheet.	
+exchange_item#66	exchange_item	66	(item/equipamento)	(item/equipment)	sistema		斧の型紙２	Axe Pattern 2	
+exchange_item#67	exchange_item	67	(item/equipamento)	(item/equipment)	sistema		オノノカタガミ２	Axe Pattern 2	
+exchange_item#68	exchange_item	68	(item/equipamento)	(item/equipment)	sistema		３枚でガイアクリーヴァーと交換出来ます	Can be exchanged for Gaia Cleaver with 3 sheets.	
+exchange_item#69	exchange_item	69	(item/equipamento)	(item/equipment)	sistema		斧の型紙３	Axe Pattern 3	
+exchange_item#70	exchange_item	70	(item/equipamento)	(item/equipment)	sistema		オノノカタガミ３	Axe Pattern 3	
+exchange_item#71	exchange_item	71	(item/equipamento)	(item/equipment)	sistema		３枚でディアボリックファングと交換出来ます	Can be exchanged for Diabolic Fang with 3 sheets.	
+exchange_item#72	exchange_item	72	(item/equipamento)	(item/equipment)	sistema		短剣の型紙１	Dagger Pattern 1	
+exchange_item#73	exchange_item	73	(item/equipamento)	(item/equipment)	sistema		タンケンノカタガミ１	Dagger Pattern 1	
+exchange_item#74	exchange_item	74	(item/equipamento)	(item/equipment)	sistema		５枚でフランスパンと交換出来ます	Can be exchanged for French Bread with 5 sheets.	
+exchange_item#75	exchange_item	75	(item/equipamento)	(item/equipment)	sistema		短剣の型紙２	Dagger Pattern 2	
+exchange_item#76	exchange_item	76	(item/equipamento)	(item/equipment)	sistema		タンケンノカタガミ２	Dagger Pattern 2	
+exchange_item#77	exchange_item	77	(item/equipamento)	(item/equipment)	sistema		３枚でアトワイトと交換出来ます	Can be exchanged for Atwight with 3 sheets.	
+exchange_item#78	exchange_item	78	(item/equipamento)	(item/equipment)	sistema		杖の型紙１	Staff Pattern 1	
+exchange_item#79	exchange_item	79	(item/equipamento)	(item/equipment)	sistema		ツエノカタガミ１	Staff Pattern 1	
+exchange_item#80	exchange_item	80	(item/equipamento)	(item/equipment)	sistema		６枚でデッキブラシと交換出来ます	Can be exchanged for Deck Brush with 6 sheets.	
+exchange_item#81	exchange_item	81	(item/equipamento)	(item/equipment)	sistema		杖の型紙２	Staff Pattern 2	
+exchange_item#82	exchange_item	82	(item/equipamento)	(item/equipment)	sistema		ツエノカタガミ２	Staff Pattern 2	
+exchange_item#83	exchange_item	83	(item/equipamento)	(item/equipment)	sistema		３枚でフォニックメイスと交換出来ます	Can be exchanged for Fonic Mace with 3 sheets.	
+exchange_item#84	exchange_item	84	(item/equipamento)	(item/equipment)	sistema		杖の型紙３	Staff Pattern 3	
+exchange_item#85	exchange_item	85	(item/equipamento)	(item/equipment)	sistema		ツエノカタガミ３	Staff Pattern 3	
+exchange_item#86	exchange_item	86	(item/equipamento)	(item/equipment)	sistema		３枚でフォニックロッドと交換出来ます	Can be exchanged for Fonic Rod with 3 sheets.	
+exchange_item#87	exchange_item	87	(item/equipamento)	(item/equipment)	sistema		杖の型紙４	Staff Pattern 4	
+exchange_item#88	exchange_item	88	(item/equipamento)	(item/equipment)	sistema		ツエノカタガミ４	Staff Pattern 4	
+exchange_item#89	exchange_item	89	(item/equipamento)	(item/equipment)	sistema		３枚でリリックセプターと交換出来ます	Can be exchanged for Lyric Scepter with 3 sheets.	
+exchange_item#90	exchange_item	90	(item/equipamento)	(item/equipment)	sistema		杖の型紙５	Staff Pattern 5	
+exchange_item#91	exchange_item	91	(item/equipamento)	(item/equipment)	sistema		ツエノカタガミ５	Staff Pattern 5	
+exchange_item#92	exchange_item	92	(item/equipamento)	(item/equipment)	sistema		３枚で天才ハロルドの杖と交換出来ます	Can be exchanged for Genius Harold's Staff with 3 sheets.	
+exchange_item#93	exchange_item	93	(item/equipamento)	(item/equipment)	sistema		杖の型紙６	Staff Pattern 6	
+exchange_item#94	exchange_item	94	(item/equipamento)	(item/equipment)	sistema		ツエノカタガミ６	Staff Pattern 6	
+exchange_item#95	exchange_item	95	(item/equipamento)	(item/equipment)	sistema		３枚でルビーワンドと交換出来ます	Can be exchanged for Ruby Wand with 3 sheets.	
+exchange_item#96	exchange_item	96	(item/equipamento)	(item/equipment)	sistema		杖の型紙７	Staff Pattern 7	
+exchange_item#97	exchange_item	97	(item/equipamento)	(item/equipment)	sistema		ツエノカタガミ７	Staff Pattern 7	
+exchange_item#98	exchange_item	98	(item/equipamento)	(item/equipment)	sistema		３枚で慈愛の杖と交換出来ます	Can be exchanged for Staff of Benevolence with 3 sheets.	
+exchange_item#99	exchange_item	99	(item/equipamento)	(item/equipment)	sistema		杖の型紙８	Staff Pattern 8	
+exchange_item#100	exchange_item	100	(item/equipamento)	(item/equipment)	sistema		ツエノカタガミ８	Staff Pattern 8	
+exchange_item#101	exchange_item	101	(item/equipamento)	(item/equipment)	sistema		３枚でベルナテッタと交換出来ます	Can be exchanged for Bernadette with 3 sheets.	
+exchange_item#102	exchange_item	102	(item/equipamento)	(item/equipment)	sistema		杖の型紙９	Staff Pattern 9	
+exchange_item#103	exchange_item	103	(item/equipamento)	(item/equipment)	sistema		ツエノカタガミ９	Staff Pattern 9	
+exchange_item#104	exchange_item	104	(item/equipamento)	(item/equipment)	sistema		３枚でジアースロッドと交換出来ます	Can be exchanged for The Earth Rod with 3 sheets.	
+exchange_item#105	exchange_item	105	(item/equipamento)	(item/equipment)	sistema		杖の型紙１０	Staff Pattern 10	
+exchange_item#106	exchange_item	106	(item/equipamento)	(item/equipment)	sistema		ツエノカタガミ１０	Staff Pattern 10	
+exchange_item#107	exchange_item	107	(item/equipamento)	(item/equipment)	sistema		３枚でフラワーオブライフと交換出来ます	Can be exchanged for Flower of Life with 3 sheets.	
+exchange_item#108	exchange_item	108	(item/equipamento)	(item/equipment)	sistema		杖の型紙１１	Staff Pattern 11	
+exchange_item#109	exchange_item	109	(item/equipamento)	(item/equipment)	sistema		ツエノカタガミ１１	Staff Pattern 11	
+exchange_item#110	exchange_item	110	(item/equipamento)	(item/equipment)	sistema		３枚でクィーンロッドと交換出来ます	Can be exchanged for Queen Rod with 3 sheets.	
+exchange_item#111	exchange_item	111	(item/equipamento)	(item/equipment)	sistema		拳の型紙１	Fist Pattern 1	
+exchange_item#112	exchange_item	112	(item/equipamento)	(item/equipment)	sistema		コブシノカタガミ１	Fist Pattern 1	
+exchange_item#113	exchange_item	113	(item/equipamento)	(item/equipment)	sistema		３枚でボクシンググラブＡと交換出来ます	Can be exchanged for Boxing Glove A with 3 sheets.	
+exchange_item#114	exchange_item	114	(item/equipamento)	(item/equipment)	sistema		拳の型紙２	Fist Pattern 2	
+exchange_item#115	exchange_item	115	(item/equipamento)	(item/equipment)	sistema		コブシノカタガミ２	Fist Pattern 2	
+exchange_item#116	exchange_item	116	(item/equipamento)	(item/equipment)	sistema		３枚でカニ爪Ａと交換出来ます	Can be exchanged for Crab Pincer A with 3 sheets.	
+exchange_item#117	exchange_item	117	(item/equipamento)	(item/equipment)	sistema		拳の型紙３	Fist Pattern 3	
+exchange_item#118	exchange_item	118	(item/equipamento)	(item/equipment)	sistema		コブシノカタガミ３	Fist Pattern 3	
+exchange_item#119	exchange_item	119	(item/equipamento)	(item/equipment)	sistema		３枚でトゲグローブＡと交換出来ます	Can be exchanged for Spiked Glove A with 3 sheets.	
+exchange_item#120	exchange_item	120	(item/equipamento)	(item/equipment)	sistema		弓の型紙１	Bow Pattern 1	
+exchange_item#121	exchange_item	121	(item/equipamento)	(item/equipment)	sistema		ユミノカタガミ１	Bow Pattern 1	
+exchange_item#122	exchange_item	122	(item/equipamento)	(item/equipment)	sistema		３枚でエデンズファイアと交換出来ます	Can be exchanged for Eden's Fire with 3 sheets.	
+exchange_item#123	exchange_item	123	(item/equipamento)	(item/equipment)	sistema		弓の型紙２	Bow Pattern 2	
+exchange_item#124	exchange_item	124	(item/equipamento)	(item/equipment)	sistema		ユミノカタガミ２	Bow Pattern 2	
+exchange_item#125	exchange_item	125	(item/equipamento)	(item/equipment)	sistema		３枚でプライマルエルヴンボウと交換出来ます	Can be exchanged for Primal Elven Bow with 3 sheets.	
+exchange_item#126	exchange_item	126	(item/equipamento)	(item/equipment)	sistema		服の型紙１	Clothes Pattern 1	
+exchange_item#127	exchange_item	127	(item/equipamento)	(item/equipment)	sistema		フクノカタガミ１	Clothes Pattern 1	
+exchange_item#128	exchange_item	128	(item/equipamento)	(item/equipment)	sistema		３枚で体操着Ａと交換出来ます	Can be exchanged for Gym Clothes A with 3 sheets.	
+exchange_item#129	exchange_item	129	(item/equipamento)	(item/equipment)	sistema		服の型紙２	Clothes Pattern 2	
+exchange_item#130	exchange_item	130	(item/equipamento)	(item/equipment)	sistema		フクノカタガミ２	Clothes Pattern 2	
+exchange_item#131	exchange_item	131	(item/equipamento)	(item/equipment)	sistema		３枚で体操着Ｃと交換出来ます	Can be exchanged for Gym Clothes C with 3 sheets.	
+exchange_item#132	exchange_item	132	(item/equipamento)	(item/equipment)	sistema		服の型紙３	Clothes Pattern 3	
+exchange_item#133	exchange_item	133	(item/equipamento)	(item/equipment)	sistema		フクノカタガミ３	Clothes Pattern 3	
+exchange_item#134	exchange_item	134	(item/equipamento)	(item/equipment)	sistema		６枚で体操着Ｅと交換出来ます	Can be exchanged for Gym Clothes E with 6 sheets.	
+exchange_item#135	exchange_item	135	(item/equipamento)	(item/equipment)	sistema		服の型紙４	Clothes Pattern 4	
+exchange_item#136	exchange_item	136	(item/equipamento)	(item/equipment)	sistema		フクノカタガミ４	Clothes Pattern 4	
+exchange_item#137	exchange_item	137	(item/equipamento)	(item/equipment)	sistema		３枚で水着Ａと交換出来ます	Can be exchanged for Swimsuit A with 3 sheets.	
+exchange_item#138	exchange_item	138	(item/equipamento)	(item/equipment)	sistema		服の型紙５	Clothes Pattern 5	
+exchange_item#139	exchange_item	139	(item/equipamento)	(item/equipment)	sistema		フクノカタガミ５	Clothes Pattern 5	
+exchange_item#140	exchange_item	140	(item/equipamento)	(item/equipment)	sistema		８枚で水着Ｂと交換出来ます	Can be exchanged for Swimsuit B with 8 sheets.	
+exchange_item#141	exchange_item	141	(item/equipamento)	(item/equipment)	sistema		服の型紙６	Clothes Pattern 6	
+exchange_item#142	exchange_item	142	(item/equipamento)	(item/equipment)	sistema		フクノカタガミ６	Clothes Pattern 6	
+exchange_item#143	exchange_item	143	(item/equipamento)	(item/equipment)	sistema		３枚で水着Ｃと交換出来ます	Can be exchanged for Swimsuit C with 3 sheets.	
+exchange_item#144	exchange_item	144	(item/equipamento)	(item/equipment)	sistema		服の型紙７	Clothes Pattern 7	
+exchange_item#145	exchange_item	145	(item/equipamento)	(item/equipment)	sistema		フクノカタガミ７	Clothes Pattern 7	
+exchange_item#146	exchange_item	146	(item/equipamento)	(item/equipment)	sistema		３枚でかみなり様Ａと交換出来ます	Can be exchanged for Thunder God A with 3 sheets.	
+exchange_item#147	exchange_item	147	(item/equipamento)	(item/equipment)	sistema		服の型紙８	Clothes Pattern 8	
+exchange_item#148	exchange_item	148	(item/equipamento)	(item/equipment)	sistema		フクノカタガミ８	Clothes Pattern 8	
+exchange_item#149	exchange_item	149	(item/equipamento)	(item/equipment)	sistema		３枚で胴着Ａと交換出来ます	Can be exchanged for Martial Arts Gi A with 3 sheets.	
+exchange_item#150	exchange_item	150	(item/equipamento)	(item/equipment)	sistema		服の型紙９	Clothes Pattern 9	
+exchange_item#151	exchange_item	151	(item/equipamento)	(item/equipment)	sistema		フクノカタガミ９	Clothes Pattern 9	
+exchange_item#152	exchange_item	152	(item/equipamento)	(item/equipment)	sistema		１枚でピヨコＥと交換出来ます	Can be exchanged for Piyoko E with 1 sheet.	
+exchange_item#153	exchange_item	153	(item/equipamento)	(item/equipment)	sistema		服の型紙１０	Clothes Pattern 10	
+exchange_item#154	exchange_item	154	(item/equipamento)	(item/equipment)	sistema		フクノカタガミ１０	Clothes Pattern 10	
+exchange_item#155	exchange_item	155	(item/equipamento)	(item/equipment)	sistema		３枚でカエルスーツＡと交換出来ます	Can be exchanged for Frog Suit A with 3 sheets.	
+exchange_item#156	exchange_item	156	(item/equipamento)	(item/equipment)	sistema		服の型紙１１	Clothes Pattern 11	
+exchange_item#157	exchange_item	157	(item/equipamento)	(item/equipment)	sistema		フクノカタガミ１１	Clothes Pattern 11	
+exchange_item#158	exchange_item	158	(item/equipamento)	(item/equipment)	sistema		１枚でカエルスーツＥと交換出来ます	Can be exchanged for Frog Suit E with 1 sheet.	
+exchange_item#159	exchange_item	159	(item/equipamento)	(item/equipment)	sistema		服の型紙１２	Clothes Pattern 12	
+exchange_item#160	exchange_item	160	(item/equipamento)	(item/equipment)	sistema		フクノカタガミ１２	Clothes Pattern 12	
+exchange_item#161	exchange_item	161	(item/equipamento)	(item/equipment)	sistema		１２枚でエンジェル・スーツと交換出来ます	Can be exchanged for Angel Suit with 12 sheets.	
+exchange_item#162	exchange_item	162	(item/equipamento)	(item/equipment)	sistema		帽子の型紙１	Hat Pattern 1	
+exchange_item#163	exchange_item	163	(item/equipamento)	(item/equipment)	sistema		ボウシノカタガミ１	Hat Pattern 1	
+exchange_item#164	exchange_item	164	(item/equipamento)	(item/equipment)	sistema		３枚でねこみみＡと交換出来ます	Can be exchanged for Cat Ears A with 3 sheets.	
+exchange_item#165	exchange_item	165	(item/equipamento)	(item/equipment)	sistema		帽子の型紙２	Hat Pattern 2	
+exchange_item#166	exchange_item	166	(item/equipamento)	(item/equipment)	sistema		ボウシノカタガミ２	Hat Pattern 2	
+exchange_item#167	exchange_item	167	(item/equipamento)	(item/equipment)	sistema		３枚でバニーヘッドＡと交換出来ます	Can be exchanged for Bunny Head A with 3 sheets.	
+exchange_item#168	exchange_item	168	(item/equipamento)	(item/equipment)	sistema		帽子の型紙３	Hat Pattern 3	
+exchange_item#169	exchange_item	169	(item/equipamento)	(item/equipment)	sistema		ボウシノカタガミ３	Hat Pattern 3	
+exchange_item#170	exchange_item	170	(item/equipamento)	(item/equipment)	sistema		３枚でパーティキャップＡと交換出来ます	Can be exchanged for Party Cap A with 3 sheets.	
+exchange_item#171	exchange_item	171	(item/equipamento)	(item/equipment)	sistema		帽子の型紙４	Hat Pattern 4	
+exchange_item#172	exchange_item	172	(item/equipamento)	(item/equipment)	sistema		ボウシノカタガミ４	Hat Pattern 4	
+exchange_item#173	exchange_item	173	(item/equipamento)	(item/equipment)	sistema		３枚で工事帽と交換出来ます	Can be exchanged for Construction Cap with 3 sheets.	
+exchange_item#174	exchange_item	174	(item/equipamento)	(item/equipment)	sistema		帽子の型紙５	Hat Pattern 5	
+exchange_item#175	exchange_item	175	(item/equipamento)	(item/equipment)	sistema		ボウシノカタガミ５	Hat Pattern 5	
+exchange_item#176	exchange_item	176	(item/equipamento)	(item/equipment)	sistema		３枚で迷彩ヘルメットと交換出来ます	Can be exchanged for Camo Helmet with 3 sheets.	
+exchange_item#177	exchange_item	177	(item/equipamento)	(item/equipment)	sistema		帽子の型紙６	Hat Pattern 6	
+exchange_item#178	exchange_item	178	(item/equipamento)	(item/equipment)	sistema		ボウシノカタガミ６	Hat Pattern 6	
+exchange_item#179	exchange_item	179	(item/equipamento)	(item/equipment)	sistema		３枚でねこにんマスクＡと交換出来ます	Can be exchanged for Nekonin Mask A with 3 sheets.	
+exchange_item#180	exchange_item	180	(item/equipamento)	(item/equipment)	sistema		帽子の型紙７	Hat Pattern 7	
+exchange_item#181	exchange_item	181	(item/equipamento)	(item/equipment)	sistema		ボウシノカタガミ７	Hat Pattern 7	
+exchange_item#182	exchange_item	182	(item/equipamento)	(item/equipment)	sistema		３枚でコック帽と交換出来ます	Can be exchanged for Chef Hat with 3 sheets.	
+exchange_item#183	exchange_item	183	(item/equipamento)	(item/equipment)	sistema		ブーツの型紙１	Boots Pattern 1	
+exchange_item#184	exchange_item	184	(item/equipamento)	(item/equipment)	sistema		ブーツノカタガミ１	Boots Pattern 1	
+exchange_item#185	exchange_item	185	(item/equipamento)	(item/equipment)	sistema		３枚でリングブーツＡと交換出来ます	Can be exchanged for Ring Boots A with 3 sheets.	
+exchange_item#186	exchange_item	186	(item/equipamento)	(item/equipment)	sistema		ブーツの型紙２	Boots Pattern 2	
+exchange_item#187	exchange_item	187	(item/equipamento)	(item/equipment)	sistema		ブーツノカタガミ２	Boots Pattern 2	
+exchange_item#188	exchange_item	188	(item/equipamento)	(item/equipment)	sistema		３枚でねこにんブーツＡと交換出来ます	Can be exchanged for Nekonin Boots A with 3 sheets.	
+exchange_item#189	exchange_item	189	(item/equipamento)	(item/equipment)	sistema		ブーツの型紙３	Boots Pattern 3	
+exchange_item#190	exchange_item	190	(item/equipamento)	(item/equipment)	sistema		ブーツノカタガミ３	Boots Pattern 3	
+exchange_item#191	exchange_item	191	(item/equipamento)	(item/equipment)	sistema		３枚で運動靴Ａと交換出来ます	Can be exchanged for Sneakers A with 3 sheets.	
+exchange_item#192	exchange_item	192	(item/equipamento)	(item/equipment)	sistema		ブーツの型紙４	Boots Pattern 4	
+exchange_item#193	exchange_item	193	(item/equipamento)	(item/equipment)	sistema		ブーツノカタガミ４	Boots Pattern 4	
+exchange_item#194	exchange_item	194	(item/equipamento)	(item/equipment)	sistema		３枚でホワイトソックスと交換出来ます	Can be exchanged for White Socks with 3 sheets.	
+exchange_item#195	exchange_item	195	(item/equipamento)	(item/equipment)	sistema		ブーツの型紙５	Boots Pattern 5	
+exchange_item#196	exchange_item	196	(item/equipamento)	(item/equipment)	sistema		ブーツノカタガミ５	Boots Pattern 5	
+exchange_item#197	exchange_item	197	(item/equipamento)	(item/equipment)	sistema		３枚でねこすりっぱと交換出来ます	Can be exchanged for Cat Slippers with 3 sheets.	
+exchange_item#198	exchange_item	198	(item/equipamento)	(item/equipment)	sistema		サンタの型紙１	Santa Pattern 1	
+exchange_item#199	exchange_item	199	(item/equipamento)	(item/equipment)	sistema		サンタノカタガミ１	Santa Pattern 1	
+exchange_item#200	exchange_item	200	(item/equipamento)	(item/equipment)	sistema		３枚でサンタ帽と交換出来ます	Can be exchanged for Santa Hat with 3 sheets.	
+exchange_item#201	exchange_item	201	(item/equipamento)	(item/equipment)	sistema		サンタの型紙２	Santa Pattern 2	
+exchange_item#202	exchange_item	202	(item/equipamento)	(item/equipment)	sistema		サンタノカタガミ２	Santa Pattern 2	
+exchange_item#203	exchange_item	203	(item/equipamento)	(item/equipment)	sistema		３枚でサンタ・スーツと交換出来ます	Can be exchanged for Santa Suit with 3 sheets.	
+exchange_item#204	exchange_item	204	(item/equipamento)	(item/equipment)	sistema		サンタの型紙３	Santa Pattern 3	
+exchange_item#205	exchange_item	205	(item/equipamento)	(item/equipment)	sistema		サンタノカタガミ３	Santa Pattern 3	
+exchange_item#206	exchange_item	206	(item/equipamento)	(item/equipment)	sistema		３枚でサンタ手袋と交換出来ます	Can be exchanged for Santa Gloves with 3 sheets.	
+exchange_item#207	exchange_item	207	(item/equipamento)	(item/equipment)	sistema		サンタの型紙４	Santa Pattern 4	
+exchange_item#208	exchange_item	208	(item/equipamento)	(item/equipment)	sistema		サンタノカタガミ４	Santa Pattern 4	
+exchange_item#209	exchange_item	209	(item/equipamento)	(item/equipment)	sistema		３枚でサンタブーツと交換出来ます	Can be exchanged for Santa Boots with 3 sheets.	
+exchange_item#210	exchange_item	210	(item/equipamento)	(item/equipment)	sistema		メイドの型紙１	Maid Pattern 1	
+exchange_item#211	exchange_item	211	(item/equipamento)	(item/equipment)	sistema		メイドノカタガミ１	Maid Pattern 1	
+exchange_item#212	exchange_item	212	(item/equipamento)	(item/equipment)	sistema		４枚でメイドカチューシャと交換出来ます	Can be exchanged for Maid Headband with 4 sheets.	
+exchange_item#213	exchange_item	213	(item/equipamento)	(item/equipment)	sistema		メイドの型紙２	Maid Pattern 2	
+exchange_item#214	exchange_item	214	(item/equipamento)	(item/equipment)	sistema		メイドノカタガミ２	Maid Pattern 2	
+exchange_item#215	exchange_item	215	(item/equipamento)	(item/equipment)	sistema		４枚でフレンチ・メイドと交換出来ます	Can be exchanged for French Maid with 4 sheets.	
+exchange_item#216	exchange_item	216	(item/equipamento)	(item/equipment)	sistema		メイドの型紙３	Maid Pattern 3	
+exchange_item#217	exchange_item	217	(item/equipamento)	(item/equipment)	sistema		メイドノカタガミ３	Maid Pattern 3	
+exchange_item#218	exchange_item	218	(item/equipamento)	(item/equipment)	sistema		４枚でメイドパンプスと交換出来ます	Can be exchanged for Maid Pumps with 4 sheets.	
+accessory#0	accessory	0	(item/equipamento)	(item/equipment)	sistema		タリスマン	Talisman	
+accessory#1	accessory	1	(item/equipamento)	(item/equipment)	sistema		女神の祝福が宿るお守り	An amulet housing the goddess's blessing.	
+accessory#2	accessory	2	(item/equipamento)	(item/equipment)	sistema		ブルータリスマン	Blue Talisman	
+accessory#3	accessory	3	(item/equipamento)	(item/equipment)	sistema		法術で強化されたタリスマン	A talisman strengthened with holy arts.	
+accessory#4	accessory	4	(item/equipamento)	(item/equipment)	sistema		フィートマーク	Feet Mark	
+accessory#5	accessory	5	(item/equipamento)	(item/equipment)	sistema		宗教儀式用のタトゥーシール	A tattoo seal for religious rituals.	
+accessory#6	accessory	6	(item/equipamento)	(item/equipment)	sistema		フィートシンボル	Feet Symbol	
+accessory#7	accessory	7	(item/equipamento)	(item/equipment)	sistema		宗教儀式用のピアス	An earring for religious rituals.	
+accessory#8	accessory	8	(item/equipamento)	(item/equipment)	sistema		プロテクトリング	Protect Ring	
+accessory#9	accessory	9	(item/equipamento)	(item/equipment)	sistema		武僧用の指輪	A ring for warrior monks.	
+accessory#10	accessory	10	(item/equipamento)	(item/equipment)	sistema		プロテクトバングル	Protect Bangle	
+accessory#11	accessory	11	(item/equipamento)	(item/equipment)	sistema		武僧用のバングル	A bangle for warrior monks.	
+accessory#12	accessory	12	(item/equipamento)	(item/equipment)	sistema		マジックリング	Magic Ring	
+accessory#13	accessory	13	(item/equipamento)	(item/equipment)	sistema		魔術師が作った指輪	A ring made by a mage.	
+accessory#14	accessory	14	(item/equipamento)	(item/equipment)	sistema		マジックバングル	Magic Bangle	
+accessory#15	accessory	15	(item/equipamento)	(item/equipment)	sistema		魔術師が作ったバングル	A bangle made by a mage.	
+accessory#16	accessory	16	(item/equipamento)	(item/equipment)	sistema		フェザーマント	Feather Cloak	
+accessory#17	accessory	17	(item/equipamento)	(item/equipment)	sistema		軽く、頑丈なマント	A light and sturdy cloak.	
+accessory#18	accessory	18	(item/equipamento)	(item/equipment)	sistema		エルヴンマント	Elven Cloak	
+accessory#19	accessory	19	(item/equipamento)	(item/equipment)	sistema		精霊の力が宿るマント	A cloak housing the power of spirits.	
+accessory#20	accessory	20	(item/equipamento)	(item/equipment)	sistema		フェザーバングル	Feather Bangle	
+accessory#21	accessory	21	(item/equipamento)	(item/equipment)	sistema		軽く、頑丈なバングル	A light and sturdy bangle.	
+accessory#22	accessory	22	(item/equipamento)	(item/equipment)	sistema		エルヴンバングル	Elven Bangle	
+accessory#23	accessory	23	(item/equipamento)	(item/equipment)	sistema		精霊の力が宿るバングル	A bangle housing the power of spirits.	
+accessory#24	accessory	24	(item/equipamento)	(item/equipment)	sistema		ポイズンチェック	Poison Check	
+accessory#25	accessory	25	(item/equipamento)	(item/equipment)	sistema		特殊な科学用品	Special scientific gear.	
+accessory#26	accessory	26	(item/equipamento)	(item/equipment)	sistema		ウィークネスチェック	Weakness Check	
+accessory#27	accessory	27	(item/equipamento)	(item/equipment)	sistema		歴戦の戦士の魂が宿る装飾品	An ornament housing the soul of a battle-hardened warrior.	
+accessory#28	accessory	28	(item/equipamento)	(item/equipment)	sistema		ピヨチェック	Stun Check	
+accessory#29	accessory	29	(item/equipamento)	(item/equipment)	sistema		武神と呼ばれた男の胸像	The bust of a man called the God of War.	
+accessory#30	accessory	30	(item/equipamento)	(item/equipment)	sistema		シールチェック	Seal Check	
+accessory#31	accessory	31	(item/equipamento)	(item/equipment)	sistema		退魔の法術が施されたお守り	An amulet blessed with demon-banishing holy arts.	
+accessory#32	accessory	32	(item/equipamento)	(item/equipment)	sistema		パラライチェック	Paralysis Check	
+accessory#33	accessory	33	(item/equipamento)	(item/equipment)	sistema		伝説の大僧侶が作ったお守り	An amulet made by a legendary high priest.	
+accessory#34	accessory	34	(item/equipamento)	(item/equipment)	sistema		ストーンチェック	Stone Check	
+accessory#35	accessory	35	(item/equipamento)	(item/equipment)	sistema		石化魔法の達人が作った指輪	A ring made by a master of petrification magic.	
+accessory#36	accessory	36	(item/equipamento)	(item/equipment)	sistema		アクアマント	Aqua Cloak	
+accessory#37	accessory	37	(item/equipamento)	(item/equipment)	sistema		水の力が宿る手編みのマント	A hand-knit cloak housing the power of water.	
+accessory#38	accessory	38	(item/equipamento)	(item/equipment)	sistema		アースマント	Earth Cloak	
+accessory#39	accessory	39	(item/equipamento)	(item/equipment)	sistema		土の力が宿る手編みのマント	A hand-knit cloak housing the power of earth.	
+accessory#40	accessory	40	(item/equipamento)	(item/equipment)	sistema		フレアマント	Flare Cloak	
+accessory#41	accessory	41	(item/equipamento)	(item/equipment)	sistema		火の力が宿る手編みのマント	A hand-knit cloak housing the power of fire.	
+accessory#42	accessory	42	(item/equipamento)	(item/equipment)	sistema		ウィンドマント	Wind Cloak	
+accessory#43	accessory	43	(item/equipamento)	(item/equipment)	sistema		風の力が宿る手編みのマント	A hand-knit cloak housing the power of wind.	
+accessory#44	accessory	44	(item/equipamento)	(item/equipment)	sistema		ライトマント	Light Cloak	
+accessory#45	accessory	45	(item/equipamento)	(item/equipment)	sistema		光の力が宿る手編みのマント	A hand-knit cloak housing the power of light.	
+accessory#46	accessory	46	(item/equipamento)	(item/equipment)	sistema		ダークマント	Dark Cloak	
+accessory#47	accessory	47	(item/equipamento)	(item/equipment)	sistema		怨念が宿る手編みのマント	A hand-knit cloak housing grudges.	
+accessory#48	accessory	48	(item/equipamento)	(item/equipment)	sistema		サファイアリング	Sapphire Ring	
+accessory#49	accessory	49	(item/equipamento)	(item/equipment)	sistema		サファイアの指輪	A sapphire ring.	
+accessory#50	accessory	50	(item/equipamento)	(item/equipment)	sistema		エメラルドリング	Emerald Ring	
+accessory#51	accessory	51	(item/equipamento)	(item/equipment)	sistema		エメラルドの指輪	An emerald ring.	
+accessory#52	accessory	52	(item/equipamento)	(item/equipment)	sistema		フェアリィリング	Fairy Ring	
+accessory#53	accessory	53	(item/equipamento)	(item/equipment)	sistema		妖精の力が宿る指輪	A ring housing the power of fairies.	
+accessory#54	accessory	54	(item/equipamento)	(item/equipment)	sistema		ミスティマーク	Mysti Mark	
+accessory#55	accessory	55	(item/equipamento)	(item/equipment)	sistema		呪文が書かれたタトゥシール	A tattoo seal written with incantations.	
+accessory#56	accessory	56	(item/equipamento)	(item/equipment)	sistema		ミスティシンボル	Mysti Symbol	
+accessory#57	accessory	57	(item/equipamento)	(item/equipment)	sistema		呪文が書かれた石版	A stone slate written with incantations.	
+accessory#58	accessory	58	(item/equipamento)	(item/equipment)	sistema		マジックミスト	Magic Mist	
+accessory#59	accessory	59	(item/equipamento)	(item/equipment)	sistema		魔法は一切関係無い煙幕弾	A smoke bomb completely unrelated to magic.	
+accessory#60	accessory	60	(item/equipamento)	(item/equipment)	sistema		モスアゲート	Moss Agate	
+accessory#61	accessory	61	(item/equipamento)	(item/equipment)	sistema		聖水で磨かれた石	A stone polished with holy water.	
+accessory#62	accessory	62	(item/equipamento)	(item/equipment)	sistema		サードオニキス	Sardonyx	
+accessory#63	accessory	63	(item/equipamento)	(item/equipment)	sistema		法儀礼を受けた石	A stone that received a religious ritual.	
+accessory#64	accessory	64	(item/equipamento)	(item/equipment)	sistema		ブラックオニキス	Black Onyx	
+accessory#65	accessory	65	(item/equipamento)	(item/equipment)	sistema		大僧侶が削り出した石	A stone carved out by a high priest.	
+accessory#66	accessory	66	(item/equipamento)	(item/equipment)	sistema		ブルームーンストーン	Blue Moonstone	
+accessory#67	accessory	67	(item/equipamento)	(item/equipment)	sistema		魔力を帯びた月の石	A moonstone imbued with magic.	
+accessory#68	accessory	68	(item/equipamento)	(item/equipment)	sistema		ホワイトムーンストーン	White Moonstone	
+accessory#69	accessory	69	(item/equipamento)	(item/equipment)	sistema		職人が磨き上げた月の石	A moonstone polished by craftsmen.	
+accessory#70	accessory	70	(item/equipamento)	(item/equipment)	sistema		ムーンクリスタル	Moon Crystal	
+accessory#71	accessory	71	(item/equipamento)	(item/equipment)	sistema		悪魔が魔力を注いだ月の石	A moonstone into which a demon poured magical power.	
+accessory#72	accessory	72	(item/equipamento)	(item/equipment)	sistema		ヒールリング	Heal Ring	
+accessory#73	accessory	73	(item/equipamento)	(item/equipment)	sistema		闘志を体力に変える指輪	A ring that converts fighting spirit into physical strength.	
+accessory#74	accessory	74	(item/equipamento)	(item/equipment)	sistema		ヒールバングル	Heal Bangle	
+accessory#75	accessory	75	(item/equipamento)	(item/equipment)	sistema		闘志を体力に変えるバングル	A bangle that converts fighting spirit into physical strength.	
+accessory#76	accessory	76	(item/equipamento)	(item/equipment)	sistema		メンタルリング	Mental Ring	
+accessory#77	accessory	77	(item/equipamento)	(item/equipment)	sistema		闘志を高める指輪	A ring that heightens fighting spirit.	
+accessory#78	accessory	78	(item/equipamento)	(item/equipment)	sistema		メンタルバングル	Mental Bangle	
+accessory#79	accessory	79	(item/equipamento)	(item/equipment)	sistema		闘志を高めるバングル	A bangle that heightens fighting spirit.	

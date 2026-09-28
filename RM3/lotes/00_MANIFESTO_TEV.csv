@@ -1,0 +1,6 @@
+lote,falas,cenas,bytes_jp,falantes,primeira_cena,ultima_cena,personagem,narracao,escolha,sistema,sem_caixa,status
+TEV-00+01+02,162,57,10882,13,tev00_001.scr,tev02_014.scr,111,12,0,39,0,validado
+TEV-03,87,32,5208,8,tev03_001.scr,tev03_033.scr,70,2,2,13,0,validado
+TEV-04,74,26,3982,5,tev04_001.scr,tev04_027.scr,60,6,2,6,0,validado
+TEV-05,60,13,2970,4,tev05_001.scr,tev05_013.scr,37,17,0,6,0,validado
+TEV-06+07+08+09,105,17,5554,6,tev06_001.scr,tev09_010.scr,101,0,0,4,0,validado

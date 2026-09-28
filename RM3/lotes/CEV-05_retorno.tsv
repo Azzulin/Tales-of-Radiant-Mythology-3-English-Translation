@@ -1,0 +1,131 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev05_010.scr:0	cev05_010.scr	0	ユーリ	Yuri Lowell	personagem		しっかし、暑いなんてもんじゃねえな……	Man, it's not just hot...	
+cev05_010.scr:1	cev05_010.scr	1	ユーリ	Yuri Lowell	personagem		簡単に目玉焼きが作れちまいそうだ	You could easily fry an egg out here.	
+cev05_010.scr:2	cev05_010.scr	2	すず	Suzu Fujibayashi	personagem		……ユーリさんは、料理をするのですか	...Do you cook, Yuri?	
+cev05_010.scr:3	cev05_010.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x1	ああ。\nまあ、嗜む程度にはな	Yeah.\nEnough to get by, at least.	
+cev05_010.scr:4	cev05_010.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x2	これでも、ギルドで生計を立てながら\n自炊してたんだ。\n一通りの料理ならそれなりに作れるぜ	I lived on my own and cooked while\nearning a living in the guild, you see.\nI can make most basic dishes.	
+cev05_010.scr:5	cev05_010.scr	5	すず	Suzu Fujibayashi	personagem	CRLF x1	すごいです……。\nユーリさんは何でも出来るのですね	That is impressive...\nYou really can do anything, Yuri.	
+cev05_010.scr:6	cev05_010.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x2	何でもって事はねえけど……\n必要に迫られりゃ、人間大概の事は\n出来る様になるもんだ	I wouldn't say anything, but...\nwhen necessity forces your hand,\npeople learn to do most things.	
+cev05_010.scr:7	cev05_010.scr	7	ユーリ	Yuri Lowell	personagem		すずは何が好物なんだ？	What kind of food do you like, Suzu?	
+cev05_010.scr:8	cev05_010.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x2	無事この仕事が片付いたら、\nお疲れ様会ってな感じで\n簡単なもんなら食わせてやるぜ	Once this job is safely wrapped up,\nas a little celebration,\nI'll whip up something simple for you.	
+cev05_010.scr:9	cev05_010.scr	9	すず	Suzu Fujibayashi	personagem		……！	...!	
+cev05_010.scr:10	cev05_010.scr	10	すず	Suzu Fujibayashi	personagem		……お気遣い感謝します	...Thank you for your consideration.	
+cev05_010.scr:11	cev05_010.scr	11	すず	Suzu Fujibayashi	personagem	CRLF x1	そのお話は、任務達成後に\n追ってまたご相談させて下さい	Please let us discuss that again\nafter our mission is accomplished.	
+cev05_010.scr:12	cev05_010.scr	12	すず	Suzu Fujibayashi	personagem	CRLF x1	……では、私はこの先の魔物の様子を\n探ってきますので	...Now then, I shall scout ahead\nfor any monsters in our path.	
+cev05_010.scr:13	cev05_010.scr	13	ユーリ	Yuri Lowell	personagem	CRLF x1	忍びは感情を表に出すべからず……\nってやつか？	A ninja must never show emotion...\nIs that how it goes?	
+cev05_010.scr:14	cev05_010.scr	14	ユーリ	Yuri Lowell	personagem		色々、大変なんだな	Must be tough on you.	
+cev05_020.scr:0	cev05_020.scr	0	ユーリ	Yuri Lowell	personagem		しかし、ここの魔物は手強いのが多いな	Still, the monsters here are pretty tough.	
+cev05_020.scr:1	cev05_020.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x1	さっきの奴なんて、\n結構冷や汗もんだったぜ	That last one really broke me\ninto quite a cold sweat.	
+cev05_020.scr:2	cev05_020.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x1	そうでしたか？\nとてもそんな風には見えませんでした	Was that so?\nIt did not look that way at all.	
+cev05_020.scr:3	cev05_020.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x2	そりゃどーも。\nこれでもビビったり\n驚いたりはしてるんだけどな	Much obliged.\nI still get scared and surprised,\neven if it doesn't show.	
+cev05_020.scr:4	cev05_020.scr	4	すず	Suzu Fujibayashi	personagem	CRLF x1	……ユーリさんは、\n忍者に向いているかもしれません	...You might actually be well-suited\nto be a ninja, Yuri.	
+cev05_020.scr:5	cev05_020.scr	5	すず	Suzu Fujibayashi	personagem		忍者に転職するつもりはないのですか？	Have you ever thought of becoming one?	
+cev05_020.scr:6	cev05_020.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x1	ははっ。\n面白い誘いだが、遠慮しておくよ	Haha.\nAn intriguing offer, but I'll pass.	
+cev05_020.scr:7	cev05_020.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x1	誰かに仕えて任務をこなすなんて、\nオレの性分じゃねぇし	Serving someone and carrying out orders\njust isn't in my nature.	
+cev05_020.scr:8	cev05_020.scr	8	すず	Suzu Fujibayashi	personagem		そうですか……	I see...	
+cev05_020.scr:9	cev05_020.scr	9	すず	Suzu Fujibayashi	personagem	CRLF x1	では、気が変わったら\nそうおっしゃって下さい	Should you ever change your mind,\nplease let me know.	
+cev05_020.scr:10	cev05_020.scr	10	すず	Suzu Fujibayashi	personagem	CRLF x1	ユーリさんでしたら\nいつでも頭領にお引き合わせします	For someone like you, Yuri,\nI would gladly introduce you to the chief.	
+cev05_020.scr:11	cev05_020.scr	11	ユーリ	Yuri Lowell	personagem	CRLF x1	そりゃ光栄だな。\n気持ちだけ、ありがたく受け取っとくよ	That's an honor, then.\nI'll happily take the thought.	
+cev05_030.scr:0	cev05_030.scr	0	しいな	Sheena Fujibayashi	personagem	CRLF x2	しかし、外の世界ってのは\nこうも複雑で、広くて……。\n色んな人間が暮らしているものなんだねえ	Still, the outside world really is\nvast and complex...\nWith so many people living in it.	
+cev05_030.scr:1	cev05_030.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x2	はい。\nここで暮らす様になってからしばらくは\n毎日が小さな発見の連続でした	Yes.\nWhen I first began living here,\nevery day was a series of discoveries.	
+cev05_030.scr:2	cev05_030.scr	2	しいな	Sheena Fujibayashi	personagem	CRLF x2	そうだね。\nあたし達の里は、それだけ\n徹底して外との接触を避けてきた	That's true.\nOur village avoided all contact with\nthe outside world with such strictness.	
+cev05_030.scr:3	cev05_030.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x2	そういう意味じゃ、あたし達が漠然と\n外だと思ってた世界も\n本当の意味で外なんかじゃなかったんだ	In that sense, what we vaguely\nconsidered the outside world wasn't\ntruly the outside world at all.	
+cev05_030.scr:4	cev05_030.scr	4	しいな	Sheena Fujibayashi	personagem		それを今回、つくづく思い知らされたよ	This journey really drove that home.	
+cev05_030.scr:5	cev05_030.scr	5	すず	Suzu Fujibayashi	personagem	CRLF x1	忍びは、掟に従って生きるもの。\n非情でなくては務まらない……	A ninja must live by the code,\nand remain cold and ruthless...	
+cev05_030.scr:6	cev05_030.scr	6	すず	Suzu Fujibayashi	personagem	CRLF x2	これまではそれが当たり前だったのに\n外はこんなにも豊かで、変化に満ちて\nみんなが泣いて、笑って暮らしている……	Though we took that for granted,\nthe outside world is rich and varied,\nwith people laughing and crying freely...	
+cev05_030.scr:7	cev05_030.scr	7	すず	Suzu Fujibayashi	personagem		それがここの「当たり前」なんですね	"That is what is ""normal"" here."	
+cev05_030.scr:8	cev05_030.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x2	そうだねぇ。ルールや規則はあっても、\nあたし達の掟程厳しいわけじゃないし\nましてや、命に関わる掟もない	Yeah. There are rules here, but\nthey aren't as harsh as our code,\nand none carry the penalty of death.	
+cev05_030.scr:9	cev05_030.scr	9	しいな	Sheena Fujibayashi	personagem	CRLF x2	今まで普通だと思ってた事が\n普通じゃなくなるってのは\nどうにも妙な感覚だね	Having what used to feel normal\nsuddenly stop being normal...\nIt really is a strange feeling.	
+cev05_030.scr:10	cev05_030.scr	10	すず	Suzu Fujibayashi	personagem	CRLF x1	だからこそ、知る事が出来たものも\nたくさんあります	Yet because of that, there is so much\nwe have been able to learn.	
+cev05_030.scr:11	cev05_030.scr	11	すず	Suzu Fujibayashi	personagem	CRLF x1	皆さんと出会えて\n旅をしたからこそわかった事が	Things we only understood because\nwe met everyone and traveled together.	
+cev05_030.scr:12	cev05_030.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x1	ああ。\nあたしもそう思うよ	Yeah.\nI feel the exact same way.	
+cev05_030.scr:13	cev05_030.scr	13	しいな	Sheena Fujibayashi	personagem	CRLF x2	それって、多分……\nなかなか体験出来る事じゃないし\nとっても恵まれてるって事……なんだよね	Experiences like this don't come often,\nso we really are quite blessed...\naren't we?	
+cev05_030.scr:14	cev05_030.scr	14	すず	Suzu Fujibayashi	personagem		はい	Yes!	
+cev05_030.scr:15	cev05_030.scr	15	すず	Suzu Fujibayashi	personagem	CRLF x2	お互いに、新しい世界が\n広がったという事なのだと思います。\nきっと……	I believe a brand new world has\nopened up for both of us.\nI am certain of it...	
+cev05_040.scr:0	cev05_040.scr	0	エステル	Estelle	personagem	CRLF x1	ふぅ……、甲板は気持ちいいですね。\n風が心地いいです	Phew... The deck is so pleasant.\nThe breeze feels so wonderful.	
+cev05_040.scr:1	cev05_040.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x1	ああ、そうだな。\nすずしいなー	"Yeah, it is.\n""Suzu-Sheena"" cool breeze..."	
+cev05_040.scr:2	cev05_040.scr	2	すず	Suzu Fujibayashi	personagem		何でしょうか？	Did you need something?	
+cev05_040.scr:3	cev05_040.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x1	どうした？　\n何か用かい？	What is it?\nDo you need us for something?	
+cev05_040.scr:4	cev05_040.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x1	え？　え？\n何だよ、一体？	Huh? What?\nWhat is with you two all of a sudden?	
+cev05_040.scr:5	cev05_040.scr	5	すず	Suzu Fujibayashi	personagem		今、呼ばれましたので……	You just called our names...	
+cev05_040.scr:6	cev05_040.scr	6	しいな	Sheena Fujibayashi	personagem	CRLF x1	そうだよ。\n名前を呼んだじゃないか	That's right.\nYou called our names just now.	
+cev05_040.scr:7	cev05_040.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x1	え、いや、ただ、\n「すずしいなー」って……	"Wait, no, I just meant\n""Suzu-Sheena cool breeze""..."	
+cev05_040.scr:8	cev05_040.scr	8	すず	Suzu Fujibayashi	personagem		ですから……	And so...?	
+cev05_040.scr:9	cev05_040.scr	9	しいな	Sheena Fujibayashi	personagem		何の用なんだいって？	What did you want us for?	
+cev05_040.scr:10	cev05_040.scr	10	エステル	Estelle	personagem	CRLF x2	ユーリ、アレですよ。\n最近名前を繋げるのが\n流行っている、例の……	Yuri, it's that thing, you know?\nThe trend that's going around\nof chaining names together...	
+cev05_040.scr:11	cev05_040.scr	11	ユーリ	Yuri Lowell	personagem	CRLF x1	おいおい、関係ねぇぞ、今。\n誰だよ、広めてるの！	Whoa, that has nothing to do with this!\nWho is spreading that anyway!?	
+cev05_040.scr:12	cev05_040.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x2	あんたが\n名前をくっ付けて呼び始めた\n張本人なんだろ？	Aren't you the mastermind who\nstarted combining names and calling\npeople that in the first place?	
+cev05_040.scr:13	cev05_040.scr	13	すず	Suzu Fujibayashi	personagem		私も、そう聞きました	I heard that as well.	
+cev05_040.scr:14	cev05_040.scr	14	ユーリ	Yuri Lowell	personagem	CRLF x1	いやー、それは、\nオレには関係ないっつーか……	No, look, that has\nnothing to do with me...	
+cev05_040.scr:15	cev05_040.scr	15	しいな	Sheena Fujibayashi	personagem	CRLF x2	何だい！\n用がないなら、\n呼ばないでくれるかい？	Whatever!\nIf you don't need anything,\ndon't call our names!	
+cev05_040.scr:16	cev05_040.scr	16	しいな	Sheena Fujibayashi	personagem		すず、行くよ！	Suzu, let's go!	
+cev05_040.scr:17	cev05_040.scr	17	すず	Suzu Fujibayashi	personagem	CRLF x1	…………。\n失礼します	......\nExcuse us.	
+cev05_040.scr:18	cev05_040.scr	18	ユーリ	Yuri Lowell	personagem	CRLF x1	勘弁してくれよ……。\n何で、オレが怒られなきゃ……	Give me a break...\nWhy am I the one getting yelled at...?	
+cev05_040.scr:19	cev05_040.scr	19	エステル	Estelle	personagem		自業自得、です？	You reaped what you sowed, perhaps?	
+cev05_050.scr:0	cev05_050.scr	0	キール	Keele Zeibel	personagem	CRLF x2	ぼくが聞き及んだ限りでも\nすずは色々な知識に\n精通している様だな……	From what I've heard,\nyou seem remarkably well-versed\nin all kinds of knowledge, Suzu...	
+cev05_050.scr:1	cev05_050.scr	1	キール	Keele Zeibel	personagem		どこの大学で学んだんだ？	Which university did you study at?	
+cev05_050.scr:2	cev05_050.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x1	大学……？\nいえ、私は教育施設には通っていません	University...?\nNo, I have never attended school.	
+cev05_050.scr:3	cev05_050.scr	3	キール	Keele Zeibel	personagem		何だって？	What was that?!	
+cev05_050.scr:4	cev05_050.scr	4	キール	Keele Zeibel	personagem	CRLF x2	このぼくですら習得に\n時間がかかる様な難解な知識を、\n独学で得たっていうのか？	Esoteric knowledge that took even me\ntime to master...\nYou learned all that on your own!?	
+cev05_050.scr:5	cev05_050.scr	5	すず	Suzu Fujibayashi	personagem	CRLF x1	独学というより、里の頭領に教わりました。\nいつか役立つ事があるかもしれぬ、と	Less self-taught, more instructed by\nour chief in case it proved useful.	
+cev05_050.scr:6	cev05_050.scr	6	キール	Keele Zeibel	personagem	CRLF x1	天候変化の科学的根拠や仕組みなんて、\n一般人にはどう役に立つって言うんだ	How on earth is scientific meteorology\nuseful to an ordinary citizen!?	
+cev05_050.scr:7	cev05_050.scr	7	すず	Suzu Fujibayashi	personagem	CRLF x1	一般人ではありません。\n私は忍者ですから	I am not an ordinary citizen.\nI am a ninja.	
+cev05_050.scr:8	cev05_050.scr	8	キール	Keele Zeibel	personagem	CRLF x1	ああ、いや、そういう事が\n言いたかったわけじゃ……	Ah, no, that wasn't what\nI meant by that...	
+cev05_050.scr:9	cev05_050.scr	9	すず	Suzu Fujibayashi	personagem	CRLF x2	忍者とはそういうものです。\n厳しい道を乗り越えた者のみが\n本当の忍びになれるのです	Such is the way of the ninja.\nOnly those who endure harsh trials\ncan become true shinobi.	
+cev05_050.scr:10	cev05_050.scr	10	キール	Keele Zeibel	personagem		ええと……だから……	Er... but, you see...	
+cev05_050.scr:11	cev05_050.scr	11	すず	Suzu Fujibayashi	personagem	CRLF x1	何か疑問点があれば、\n私のわかる範囲でお答えしますが	If you have any further questions,\nI shall answer to the best of my ability.	
+cev05_050.scr:12	cev05_050.scr	12	キール	Keele Zeibel	personagem		……いえ……もういいです……	...No... never mind...	
+cev05_060.scr:0	cev05_060.scr	0	ゼロス	Zelos Wilder	personagem		……どうやら撒いたみたいだな	...Looks like I gave them the slip.	
+cev05_060.scr:1	cev05_060.scr	1	ゼロス	Zelos Wilder	personagem	CRLF x1	へへっ、ここまで来れば\n一安心……	Heh heh, making it this far\nmeans I'm home free...	
+cev05_060.scr:2	cev05_060.scr	2	すず	Suzu Fujibayashi	personagem		そうはいきませんよ、ゼロスさん	I'm afraid not, Zelos.	
+cev05_060.scr:3	cev05_060.scr	3	ゼロス	Zelos Wilder	personagem		えっ、すずちゃん？	Wait, Suzu, sweetie?	
+cev05_060.scr:4	cev05_060.scr	4	すず	Suzu Fujibayashi	personagem		しいなさん、こっちです！	Sheena, over here!	
+cev05_060.scr:5	cev05_060.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x1	よし、すず。\n準備はいいね！？	All right, Suzu.\nYou ready!?	
+cev05_060.scr:6	cev05_060.scr	6	すず	Suzu Fujibayashi	personagem		はい	Yes!	
+cev05_060.scr:7	cev05_060.scr	7	すず	Suzu Fujibayashi	personagem		イガグリ流忍法、分身の術！	Igaguri Ninpo: Clone Arte!	
+cev05_060.scr:8	cev05_060.scr	8	ゼロス	Zelos Wilder	personagem	CRLF x1	お、おい！\nなんだこれ！？	H-Hey!\nWhat is this!?	
+cev05_060.scr:9	cev05_060.scr	9	しいな	Sheena Fujibayashi	personagem	CRLF x1	自分だけ掃除当番サボろうったって\nそうはいかないんだよ	You thought you could ditch\ncleaning duty all by yourself!?	
+cev05_060.scr:10	cev05_060.scr	10	すず	Suzu Fujibayashi	personagem	CRLF x1	規律は遵守してもらいます。\nそれがここの決まりですから	You must abide by the rules.\nThose are the regulations here.	
+cev05_060.scr:11	cev05_060.scr	11	ゼロス	Zelos Wilder	personagem		って、マジで完全包囲されてるワケ？	Wait, am I totally surrounded here!?	
+cev05_060.scr:12	cev05_060.scr	12	ゼロス	Zelos Wilder	personagem	CRLF x2	いくら何でも\nこんなの反則なんじゃねーの？\nちょっと〜〜〜！！	No matter how you look at it,\nisn't this totally cheating!?\nGive me a break~~~!!	
+cev05_070.scr:0	cev05_070.scr	0	すず	Suzu Fujibayashi	personagem		うう……まだ舌がピリピリします	Ugh... my tongue is still tingling.	
+cev05_070.scr:1	cev05_070.scr	1	アスベル	Asbel Lhant	personagem	CRLF x1	今日のカレー、\n確かにちょっと辛かったよな	Today's curry was definitely\na bit on the spicy side.	
+cev05_070.scr:2	cev05_070.scr	2	すず	Suzu Fujibayashi	personagem		はい……	Yes...	
+cev05_070.scr:3	cev05_070.scr	3	すず	Suzu Fujibayashi	personagem	CRLF x2	私の里には\n辛みの強い料理がなかったので\nあれにはなかなか慣れません	My village had no spicy food,\nso getting used to such heat\nis quite difficult for me.	
+cev05_070.scr:4	cev05_070.scr	4	アスベル	Asbel Lhant	personagem	CRLF x1	カレーを知らなかったのか？\nそれは人生の半分を損しているな	You'd never had curry before?\nYou're missing out on half of life!	
+cev05_070.scr:5	cev05_070.scr	5	すず	Suzu Fujibayashi	personagem		そう……なのですか？	Is that... really so?	
+cev05_070.scr:6	cev05_070.scr	6	アスベル	Asbel Lhant	personagem	CRLF x2	ああ。　カレーはとても体にいいんだ。\n効率的に様々な栄養を摂取出来るよう\nあの「ルー」が開発されたんだよ	Yeah! Curry is great for you.\nThat roux was made to provide lots of\nnutrients in one efficient dish!	
+cev05_070.scr:7	cev05_070.scr	7	すず	Suzu Fujibayashi	personagem		それは知りませんでした	I did not know that.	
+cev05_070.scr:8	cev05_070.scr	8	すず	Suzu Fujibayashi	personagem	CRLF x2	カレーライス……。\n不条理に辛い料理なのかと思ったのですが\n実は合理的な食べ物だったのですね	Curry rice...\nI thought it was absurdly spicy, but\nit is actually a very practical dish.	
+cev05_070.scr:9	cev05_070.scr	9	アスベル	Asbel Lhant	personagem	CRLF x1	食べるなら甘口がおすすめだよ。\n俺はいつも甘口なんだ	I recommend the mild variety!\nI always eat mine mild.	
+cev05_070.scr:10	cev05_070.scr	10	すず	Suzu Fujibayashi	personagem		あまくち……	Mild...	
+cev05_070.scr:11	cev05_070.scr	11	すず	Suzu Fujibayashi	personagem	CRLF x1	わかりました。\n覚えておきます	Understood.\nI shall keep that in mind.	
+cev05_080.scr:0	cev05_080.scr	0	すず	Suzu Fujibayashi	personagem	CRLF x1	しいなさん。\nジェイさんについてなのですが	Sheena.\nRegarding Mr. Jay...	
+cev05_080.scr:1	cev05_080.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	どうしたんだい？\n何か引っかかるのかい	What is it?\nIs something bothering you?	
+cev05_080.scr:2	cev05_080.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x1	彼は、信頼しても\nいい人物なのでしょうか	Is he truly someone\nwe can place our trust in?	
+cev05_080.scr:3	cev05_080.scr	3	すず	Suzu Fujibayashi	personagem	CRLF x1	……ただの情報屋にしては、\n身のこなしに隙がなさ過ぎます	...For a simple information broker,\nhis movements leave zero openings.	
+cev05_080.scr:4	cev05_080.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x1	確かに……ジェイは身軽だし\n気配を殺して動くのが上手い様だね	True... Jay is remarkably nimble and\nquite skilled at concealing his presence.	
+cev05_080.scr:5	cev05_080.scr	5	すず	Suzu Fujibayashi	personagem	CRLF x1	あの、思ったのですが\nジェイさんは忍者なのではないでしょうか	I cannot help wondering...\nCould Jay actually be a ninja?	
+cev05_080.scr:6	cev05_080.scr	6	しいな	Sheena Fujibayashi	personagem		そんな、まさか！	No way! That's absurd!	
+cev05_080.scr:7	cev05_080.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x2	それが本当なら、ミブナの里以外で\n忍者が隠れ住んでいる場所がある事に\nなっちまうよ	If that were true, it would mean ninja\nare hiding somewhere other than\nthe village of Mibuna!	
+cev05_080.scr:8	cev05_080.scr	8	すず	Suzu Fujibayashi	personagem		それはそうなのですが……	That is true, but...	
+cev05_080.scr:9	cev05_080.scr	9	しいな	Sheena Fujibayashi	personagem		すずの考え過ぎじゃないかい？	Aren't you just overthinking it, Suzu?	
+cev05_080.scr:10	cev05_080.scr	10	すず	Suzu Fujibayashi	personagem		……そうでしょうか……	...Could I be...?	
+cev05_200.scr:0	cev05_200.scr	0	すず	Suzu Fujibayashi	personagem	CRLF x1	通常。\n	Normal.\n	Expression test: Normal
+cev05_200.scr:1	cev05_200.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev05_200.scr:2	cev05_200.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x1	悲しみ。\n	Sadness.\n	Expression test: Sadness
+cev05_200.scr:3	cev05_200.scr	3	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev05_200.scr:4	cev05_200.scr	4	すず	Suzu Fujibayashi	personagem	CRLF x1	真剣。\n	Serious.\n	Expression test: Serious
+cev05_200.scr:5	cev05_200.scr	5	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev05_200.scr:6	cev05_200.scr	6	すず	Suzu Fujibayashi	personagem	CRLF x1	通常。\n	Normal.\n	Expression test: Normal
+cev05_200.scr:7	cev05_200.scr	7	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev05_200.scr:8	cev05_200.scr	8	すず	Suzu Fujibayashi	personagem	CRLF x1	悲しみ。\n	Sadness.\n	Expression test: Sadness
+cev05_200.scr:9	cev05_200.scr	9	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev05_200.scr:10	cev05_200.scr	10	すず	Suzu Fujibayashi	personagem	CRLF x1	真剣。\n	Serious.\n	Expression test: Serious
+cev05_200.scr:11	cev05_200.scr	11	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev05_200.scr:12	cev05_200.scr	12	すず	Suzu Fujibayashi	personagem	CRLF x1	通常。\n	Normal.\n	Expression test: Normal
+cev05_200.scr:13	cev05_200.scr	13	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev05_200.scr:14	cev05_200.scr	14	すず	Suzu Fujibayashi	personagem	CRLF x1	悲しみ。\n	Sadness.\n	Expression test: Sadness
+cev05_200.scr:15	cev05_200.scr	15	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)
+cev05_200.scr:16	cev05_200.scr	16	すず	Suzu Fujibayashi	personagem	CRLF x1	真剣。\n	Serious.\n	Expression test: Serious
+cev05_200.scr:17	cev05_200.scr	17	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	Adapted Kitahara Hakushu Fifty Sounds vocal warmup to classic English diction exercises (vowels, sibilants, plosives)

@@ -1,0 +1,321 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+body_equip#0	body_equip	0	(item/equipamento)	(item/equipment)	sistema		レザーアーマー	Leather Armor	
+body_equip#1	body_equip	1	(item/equipamento)	(item/equipment)	sistema		革製の鎧	Armor made of leather.	
+body_equip#2	body_equip	2	(item/equipamento)	(item/equipment)	sistema		ネビュラジャケット	Nebula Jacket	
+body_equip#3	body_equip	3	(item/equipamento)	(item/equipment)	sistema		星雲級と称えられたジャケット	A jacket praised as being nebula-class.	
+body_equip#4	body_equip	4	(item/equipamento)	(item/equipment)	sistema		ブラフミーメイル	Brahmi Mail	
+body_equip#5	body_equip	5	(item/equipamento)	(item/equipment)	sistema		霊草ブラフミーの名を冠する鎧	Armor bearing the name of the sacred herb Brahmi.	
+body_equip#6	body_equip	6	(item/equipamento)	(item/equipment)	sistema		ビキニアーマー	Bikini Armor	
+body_equip#7	body_equip	7	(item/equipamento)	(item/equipment)	sistema		見た目の露出度とは裏腹に防御力には優れた鎧	Armor with excellent defense despite its revealing appearance.	
+body_equip#8	body_equip	8	(item/equipamento)	(item/equipment)	sistema		歩兵隊猟兵の鎧	Infantry Jaeger Armor	
+body_equip#9	body_equip	9	(item/equipamento)	(item/equipment)	sistema		ホヘイタイリョウヘイノヨロイ	Infantry Jaeger Armor	
+body_equip#10	body_equip	10	(item/equipamento)	(item/equipment)	sistema		歩兵隊猟兵に支給される鎧	Armor issued to infantry jaegers.	
+body_equip#11	body_equip	11	(item/equipamento)	(item/equipment)	sistema		アイアンメイル	Iron Mail	
+body_equip#12	body_equip	12	(item/equipamento)	(item/equipment)	sistema		鉄製の鎧	Armor made of iron.	
+body_equip#13	body_equip	13	(item/equipamento)	(item/equipment)	sistema		トランクメイル	Trunk Mail	
+body_equip#14	body_equip	14	(item/equipamento)	(item/equipment)	sistema		小さな金属板をあしらった軽鎧	Light armor adorned with small metal plates.	
+body_equip#15	body_equip	15	(item/equipamento)	(item/equipment)	sistema		孤狼の胴衣	Lone Wolf Vest	
+body_equip#16	body_equip	16	(item/equipamento)	(item/equipment)	sistema		コロウノドウイ	Lone Wolf Vest	
+body_equip#17	body_equip	17	(item/equipamento)	(item/equipment)	sistema		一匹狼の戦士が身に着けるという胴衣	A vest said to be worn by lone wolf warriors.	
+body_equip#18	body_equip	18	(item/equipamento)	(item/equipment)	sistema		小龍の鎧	Lesser Dragon Armor	
+body_equip#19	body_equip	19	(item/equipamento)	(item/equipment)	sistema		ショウリュウノヨロイ	Lesser Dragon Armor	
+body_equip#20	body_equip	20	(item/equipamento)	(item/equipment)	sistema		小龍の魂が宿るといわれる鎧	Armor said to harbor the soul of a lesser dragon.	
+body_equip#21	body_equip	21	(item/equipamento)	(item/equipment)	sistema		グラディエータチェスト	Gladiator Chest	
+body_equip#22	body_equip	22	(item/equipamento)	(item/equipment)	sistema		剣闘士が身に着ける鎧	Armor worn by gladiators.	
+body_equip#23	body_equip	23	(item/equipamento)	(item/equipment)	sistema		フィールドスキン	Field Skin	
+body_equip#24	body_equip	24	(item/equipamento)	(item/equipment)	sistema		動きやすさ重視の胴部用防具	Torso armor designed for ease of movement.	
+body_equip#25	body_equip	25	(item/equipamento)	(item/equipment)	sistema		足軽大将の甲冑	Ashigaru General Armor	
+body_equip#26	body_equip	26	(item/equipamento)	(item/equipment)	sistema		アシガルタイショウノカッチュウ	Ashigaru General Armor	
+body_equip#27	body_equip	27	(item/equipamento)	(item/equipment)	sistema		東方の兵士が着用していた鎧	Armor worn by soldiers of the East.	
+body_equip#28	body_equip	28	(item/equipamento)	(item/equipment)	sistema		チーフプレート	Chief Plate	
+body_equip#29	body_equip	29	(item/equipamento)	(item/equipment)	sistema		下士官用の鎧	Armor for non-commissioned officers.	
+body_equip#30	body_equip	30	(item/equipamento)	(item/equipment)	sistema		オンミツジャケット	Onmitsu Jacket	
+body_equip#31	body_equip	31	(item/equipamento)	(item/equipment)	sistema		隠密が着用していたジャケット	A jacket worn by covert agents.	
+body_equip#32	body_equip	32	(item/equipamento)	(item/equipment)	sistema		ゴシックプレート	Gothic Plate	
+body_equip#33	body_equip	33	(item/equipamento)	(item/equipment)	sistema		古式の製法で作られた全身鎧の胴部	Torso section of full-body armor made via antique methods.	
+body_equip#34	body_equip	34	(item/equipamento)	(item/equipment)	sistema		ジャーメインメイル	Germain Mail	
+body_equip#35	body_equip	35	(item/equipamento)	(item/equipment)	sistema		古の聖人ジャーメインに正義を誓う者が着用する鎧	Armor worn by those who swear justice to the ancient saint Germain.	
+body_equip#36	body_equip	36	(item/equipamento)	(item/equipment)	sistema		ムシャアーマー	Musha Armor	
+body_equip#37	body_equip	37	(item/equipamento)	(item/equipment)	sistema		鎧武者を彷彿とさせる鎧	Armor reminiscent of an armored warrior.	
+body_equip#38	body_equip	38	(item/equipamento)	(item/equipment)	sistema		ナイトプレート	Knight Plate	
+body_equip#39	body_equip	39	(item/equipamento)	(item/equipment)	sistema		ナイトの称号を持つ者に与えられる鎧	Armor bestowed upon those who hold the title of Knight.	
+body_equip#40	body_equip	40	(item/equipamento)	(item/equipment)	sistema		ナハラメイル	Nahla Mail	
+body_equip#41	body_equip	41	(item/equipamento)	(item/equipment)	sistema		千夜一夜の魔法の国で蜂を意味する鎧	Armor whose name means bee in the magical land of 1001 Nights.	
+body_equip#42	body_equip	42	(item/equipamento)	(item/equipment)	sistema		ガネーシャプレート	Ganesha Plate	
+body_equip#43	body_equip	43	(item/equipamento)	(item/equipment)	sistema		獣神ガネーシャの名を冠する鎧	Armor bearing the name of the beast god Ganesha.	
+body_equip#44	body_equip	44	(item/equipamento)	(item/equipment)	sistema		騎士団の鎧	Knights' Armor	
+body_equip#45	body_equip	45	(item/equipamento)	(item/equipment)	sistema		キシダンノヨロイ	Knights' Armor	
+body_equip#46	body_equip	46	(item/equipamento)	(item/equipment)	sistema		騎士団所属の証となる鎧	Armor that serves as proof of membership in the knighthood.	
+body_equip#47	body_equip	47	(item/equipamento)	(item/equipment)	sistema		クロスアーマー	Cross Armor	
+body_equip#48	body_equip	48	(item/equipamento)	(item/equipment)	sistema		堅い守りと重量感溢れる鎧	Armor overflowing with solid defense and heft.	
+body_equip#49	body_equip	49	(item/equipamento)	(item/equipment)	sistema		ボーンプレート	Bone Plate	
+body_equip#50	body_equip	50	(item/equipamento)	(item/equipment)	sistema		不気味な意匠の鎧の胴部	Torso section of armor with an eerie design.	
+body_equip#51	body_equip	51	(item/equipamento)	(item/equipment)	sistema		グレートプレート	Great Plate	
+body_equip#52	body_equip	52	(item/equipamento)	(item/equipment)	sistema		抜群の防御と威圧感の鎧	Armor with outstanding defense and intimidating presence.	
+body_equip#53	body_equip	53	(item/equipamento)	(item/equipment)	sistema		アスタロトメイル	Astaroth Mail	
+body_equip#54	body_equip	54	(item/equipamento)	(item/equipment)	sistema		魔界の大公爵アスタロトの福音を受けたメイル	Mail blessed by Astaroth, Grand Duke of the Netherworld.	
+body_equip#55	body_equip	55	(item/equipamento)	(item/equipment)	sistema		新米傭兵のジャケット	Novice Mercenary Jacket	
+body_equip#56	body_equip	56	(item/equipamento)	(item/equipment)	sistema		シンマイヨウヘイノジャケット	Novice Mercenary Jacket	
+body_equip#57	body_equip	57	(item/equipamento)	(item/equipment)	sistema		新米傭兵が着用するジャケット	A jacket worn by novice mercenaries.	
+body_equip#58	body_equip	58	(item/equipamento)	(item/equipment)	sistema		キルトジャケット	Quilted Jacket	
+body_equip#59	body_equip	59	(item/equipamento)	(item/equipment)	sistema		厚手の布を多用したジャケット	A jacket that heavily utilizes thick fabric.	
+body_equip#60	body_equip	60	(item/equipamento)	(item/equipment)	sistema		ファルコンジャケット	Falcon Jacket	
+body_equip#61	body_equip	61	(item/equipamento)	(item/equipment)	sistema		とある民族の守り神ファルコンの加護を受けたジャケット	A jacket blessed by Falcon, guardian deity of a certain tribe.	
+body_equip#62	body_equip	62	(item/equipamento)	(item/equipment)	sistema		スティアレスラーシャツ	Steer Wrestler Shirt	
+body_equip#63	body_equip	63	(item/equipamento)	(item/equipment)	sistema		逃げる牛を追う者が着用するシャツ	A shirt worn by those who chase fleeing cattle.	
+body_equip#64	body_equip	64	(item/equipamento)	(item/equipment)	sistema		妙光胴衣	Vest of Exquisite Light	
+body_equip#65	body_equip	65	(item/equipamento)	(item/equipment)	sistema		ミョウコウドウイ	Vest of Exquisite Light	
+body_equip#66	body_equip	66	(item/equipamento)	(item/equipment)	sistema		妙なる光を湛えた胴衣	A vest filled with exquisite light.	
+body_equip#67	body_equip	67	(item/equipamento)	(item/equipment)	sistema		修行僧の袈裟	Monk's Kasaya	
+body_equip#68	body_equip	68	(item/equipamento)	(item/equipment)	sistema		シュギョウソウノケサ	Monk's Kasaya	
+body_equip#69	body_equip	69	(item/equipamento)	(item/equipment)	sistema		修行に励む修行僧が着用する袈裟	A kasaya worn by ascetic monks in training.	
+body_equip#70	body_equip	70	(item/equipamento)	(item/equipment)	sistema		サバイバルオーバーオール	Survival Overalls	
+body_equip#71	body_equip	71	(item/equipamento)	(item/equipment)	sistema		サバイバル活動に適したオーバーオール	Overalls well-suited for survival activities.	
+body_equip#72	body_equip	72	(item/equipamento)	(item/equipment)	sistema		兵士のコート	Soldier's Coat	
+body_equip#73	body_equip	73	(item/equipamento)	(item/equipment)	sistema		ヘイシノコート	Soldier's Coat	
+body_equip#74	body_equip	74	(item/equipamento)	(item/equipment)	sistema		兵士が巡回警備で着用するコート	A coat worn by soldiers on patrol duty.	
+body_equip#75	body_equip	75	(item/equipamento)	(item/equipment)	sistema		ガンナージャケット	Gunner Jacket	
+body_equip#76	body_equip	76	(item/equipamento)	(item/equipment)	sistema		流浪のガンマンが着用するジャケット	A jacket worn by wandering gunners.	
+body_equip#77	body_equip	77	(item/equipamento)	(item/equipment)	sistema		修行僧の布鎧	Monk's Cloth Armor	
+body_equip#78	body_equip	78	(item/equipamento)	(item/equipment)	sistema		シュギョウソウノヌノヨロイ	Monk's Cloth Armor	
+body_equip#79	body_equip	79	(item/equipamento)	(item/equipment)	sistema		荒行に挑む修行僧の布鎧	Cloth armor worn by ascetic monks facing rigorous trials.	
+body_equip#80	body_equip	80	(item/equipamento)	(item/equipment)	sistema		キャプテンスーツ	Captain's Suit	
+body_equip#81	body_equip	81	(item/equipamento)	(item/equipment)	sistema		船長が着用するスーツ	A suit worn by ship captains.	
+body_equip#82	body_equip	82	(item/equipamento)	(item/equipment)	sistema		土蜘蛛討ちの装束	Tsuchigumo Slayer Garb	
+body_equip#83	body_equip	83	(item/equipamento)	(item/equipment)	sistema		ツチグモウチノショウゾク	Tsuchigumo Slayer Garb	
+body_equip#84	body_equip	84	(item/equipamento)	(item/equipment)	sistema		物の怪土蜘蛛を討伐する者が着用する装束	Garb worn by those who subjugate the monster Tsuchigumo.	
+body_equip#85	body_equip	85	(item/equipamento)	(item/equipment)	sistema		少尉の制服	Second Lieutenant Uniform	
+body_equip#86	body_equip	86	(item/equipamento)	(item/equipment)	sistema		ショウイノフク	Second Lieutenant Uniform	
+body_equip#87	body_equip	87	(item/equipamento)	(item/equipment)	sistema		少尉の階級の証である制服	A uniform that signifies the rank of second lieutenant.	
+body_equip#88	body_equip	88	(item/equipamento)	(item/equipment)	sistema		ミスティジャケット	Misty Jacket	
+body_equip#89	body_equip	89	(item/equipamento)	(item/equipment)	sistema		異国の戦士が着用するジャケット	A jacket worn by foreign warriors.	
+body_equip#90	body_equip	90	(item/equipamento)	(item/equipment)	sistema		スパイダージャケット	Spider Jacket	
+body_equip#91	body_equip	91	(item/equipamento)	(item/equipment)	sistema		呪術師イエロー・スパイダーが祈祷したジャケット	A jacket consecrated by the shaman Yellow Spider.	
+body_equip#92	body_equip	92	(item/equipamento)	(item/equipment)	sistema		殺し屋のスーツ	Hitman's Suit	
+body_equip#93	body_equip	93	(item/equipamento)	(item/equipment)	sistema		コロシヤノスーツ	Hitman's Suit	
+body_equip#94	body_equip	94	(item/equipamento)	(item/equipment)	sistema		フリーの殺し屋が着用するスーツ	A suit worn by freelance hitmen.	
+body_equip#95	body_equip	95	(item/equipamento)	(item/equipment)	sistema		功夫の衣	Kung Fu Robe	
+body_equip#96	body_equip	96	(item/equipamento)	(item/equipment)	sistema		クンフーノコロモ	Kung Fu Robe	
+body_equip#97	body_equip	97	(item/equipamento)	(item/equipment)	sistema		入門したての功夫使いが着用する衣	A robe worn by novice kung fu practitioners.	
+body_equip#98	body_equip	98	(item/equipamento)	(item/equipment)	sistema		犬調教師の制服	Dog Trainer Uniform	
+body_equip#99	body_equip	99	(item/equipamento)	(item/equipment)	sistema		イヌチョウキョウシノセイフク	Dog Trainer Uniform	
+body_equip#100	body_equip	100	(item/equipamento)	(item/equipment)	sistema		犬の調教を生業とする者が着用する制服	A uniform worn by professional dog trainers.	
+body_equip#101	body_equip	101	(item/equipamento)	(item/equipment)	sistema		学士の制服	Scholar's Uniform	
+body_equip#102	body_equip	102	(item/equipamento)	(item/equipment)	sistema		ガクシノセイフク	Scholar's Uniform	
+body_equip#103	body_equip	103	(item/equipamento)	(item/equipment)	sistema		校則に定められた学士用の制服	A uniform prescribed by school regulations for scholars.	
+body_equip#104	body_equip	104	(item/equipamento)	(item/equipment)	sistema		平舞の装束	Hiramai Dance Garb	
+body_equip#105	body_equip	105	(item/equipamento)	(item/equipment)	sistema		ヒラマイノショウゾク	Hiramai Dance Garb	
+body_equip#106	body_equip	106	(item/equipamento)	(item/equipment)	sistema		神前儀式で静穏な動きで舞う者の装束	Garb worn by those performing serene dances in sacred rites.	
+body_equip#107	body_equip	107	(item/equipamento)	(item/equipment)	sistema		野盗のジャケット	Bandit Jacket	
+body_equip#108	body_equip	108	(item/equipamento)	(item/equipment)	sistema		ヤトウノジャケット	Bandit Jacket	
+body_equip#109	body_equip	109	(item/equipamento)	(item/equipment)	sistema		野盗が好んで装備するジャケット	A jacket favored by bandits.	
+body_equip#110	body_equip	110	(item/equipamento)	(item/equipment)	sistema		朱雀の衣	Suzaku Robe	
+body_equip#111	body_equip	111	(item/equipamento)	(item/equipment)	sistema		スザクノコロモ	Suzaku Robe	
+body_equip#112	body_equip	112	(item/equipamento)	(item/equipment)	sistema		聖獣朱雀の名を冠する衣服	Clothing bearing the name of the sacred beast Suzaku.	
+body_equip#113	body_equip	113	(item/equipamento)	(item/equipment)	sistema		新参者のローブ	Novice's Robe	
+body_equip#114	body_equip	114	(item/equipamento)	(item/equipment)	sistema		シンザンシャノローブ	Novice's Robe	
+body_equip#115	body_equip	115	(item/equipamento)	(item/equipment)	sistema		新参者の術士が着用するローブ	A robe worn by novice spellcasters.	
+body_equip#116	body_equip	116	(item/equipamento)	(item/equipment)	sistema		小達人のクローク	Minor Adept's Cloak	
+body_equip#117	body_equip	117	(item/equipamento)	(item/equipment)	sistema		ショウタツジンノクローク	Minor Adept's Cloak	
+body_equip#118	body_equip	118	(item/equipamento)	(item/equipment)	sistema		魔術結社で小達人の階位に与えられるクローク	A cloak awarded to the rank of Minor Adept in magical societies.	
+body_equip#119	body_equip	119	(item/equipamento)	(item/equipment)	sistema		インディゴスーツ	Indigo Suit	
+body_equip#120	body_equip	120	(item/equipamento)	(item/equipment)	sistema		藍染のスーツ	A suit dyed with indigo.	
+body_equip#121	body_equip	121	(item/equipamento)	(item/equipment)	sistema		レイヴジャケット	Rave Jacket	
+body_equip#122	body_equip	122	(item/equipamento)	(item/equipment)	sistema		魂の開放を求めて踊る者が着用するジャケット	A jacket worn by those dancing in search of soul liberation.	
+body_equip#123	body_equip	123	(item/equipamento)	(item/equipment)	sistema		軍少佐第二種礼装服	Major Service Dress Uniform	
+body_equip#124	body_equip	124	(item/equipamento)	(item/equipment)	sistema		グンショウサダイニシュレイソウフク	Major Service Dress Uniform	
+body_equip#125	body_equip	125	(item/equipamento)	(item/equipment)	sistema		少佐の階級の者が着用する第二種礼装用のローブ	A robe for Type 2 dress uniform worn by the rank of Major.	
+body_equip#126	body_equip	126	(item/equipamento)	(item/equipment)	sistema		ヘルパークローク	Helper Cloak	
+body_equip#127	body_equip	127	(item/equipamento)	(item/equipment)	sistema		お手伝いさんが着用するクローク	A cloak worn by maids and helpers.	
+body_equip#128	body_equip	128	(item/equipamento)	(item/equipment)	sistema		衛士のローブ	Guard's Robe	
+body_equip#129	body_equip	129	(item/equipamento)	(item/equipment)	sistema		エイシノローブ	Guard's Robe	
+body_equip#130	body_equip	130	(item/equipamento)	(item/equipment)	sistema		城の衛士となった術者のローブ	A robe worn by spellcasters who serve as castle guards.	
+body_equip#131	body_equip	131	(item/equipamento)	(item/equipment)	sistema		策士の着物	Tactician's Kimono	
+body_equip#132	body_equip	132	(item/equipamento)	(item/equipment)	sistema		サクシノキモノ	Tactician's Kimono	
+body_equip#133	body_equip	133	(item/equipamento)	(item/equipment)	sistema		策士が好んで着用する着物	A kimono favored by tacticians.	
+body_equip#134	body_equip	134	(item/equipamento)	(item/equipment)	sistema		フォーチュンローブ	Fortune Robe	
+body_equip#135	body_equip	135	(item/equipamento)	(item/equipment)	sistema		幸運を求めし者のローブ	A robe for those who seek fortune.	
+body_equip#136	body_equip	136	(item/equipamento)	(item/equipment)	sistema		リスペクトガーブ	Respect Garb	
+body_equip#137	body_equip	137	(item/equipamento)	(item/equipment)	sistema		尊敬を一身に集める術士のガーブ	Garb worn by spellcasters who command universal respect.	
+body_equip#138	body_equip	138	(item/equipamento)	(item/equipment)	sistema		アリアガーブ	Aria Garb	
+body_equip#139	body_equip	139	(item/equipamento)	(item/equipment)	sistema		詠唱者の為のガーブ	Garb made for chanters.	
+body_equip#140	body_equip	140	(item/equipamento)	(item/equipment)	sistema		破門者の衣	Excommunicate's Robe	
+body_equip#141	body_equip	141	(item/equipamento)	(item/equipment)	sistema		ハモンモノノコロモ	Excommunicate's Robe	
+body_equip#142	body_equip	142	(item/equipamento)	(item/equipment)	sistema		掟を破り破門された術士の衣	A robe worn by spellcasters excommunicated for breaking the tenets.	
+body_equip#143	body_equip	143	(item/equipamento)	(item/equipment)	sistema		マジカルスーツ	Magical Suit	
+body_equip#144	body_equip	144	(item/equipamento)	(item/equipment)	sistema		不思議な魔力が込められた可愛い衣装	A cute outfit imbued with mysterious magical power.	
+body_equip#145	body_equip	145	(item/equipamento)	(item/equipment)	sistema		アリオンの外套	Arion's Mantle	
+body_equip#146	body_equip	146	(item/equipamento)	(item/equipment)	sistema		アリオンノガイトウ	Arion's Mantle	
+body_equip#147	body_equip	147	(item/equipamento)	(item/equipment)	sistema		宇宙存在アリオンの波動を受けた外套	A mantle that received vibrations from the cosmic entity Arion.	
+body_equip#148	body_equip	148	(item/equipamento)	(item/equipment)	sistema		イハサクの衣	Ihasaku's Robe	
+body_equip#149	body_equip	149	(item/equipamento)	(item/equipment)	sistema		イハサクノコロモ	Ihasaku's Robe	
+body_equip#150	body_equip	150	(item/equipamento)	(item/equipment)	sistema		東方の秘神イハサクの加護を受けた衣	A robe blessed by Ihasaku, secret god of the East.	
+body_equip#151	body_equip	151	(item/equipamento)	(item/equipment)	sistema		祈祷師のローブ	Prayer Robe	
+body_equip#152	body_equip	152	(item/equipamento)	(item/equipment)	sistema		キトウシノローブ	Prayer Robe	
+body_equip#153	body_equip	153	(item/equipamento)	(item/equipment)	sistema		激しい祈りに耐える丈夫な装束	Durable garb built to withstand intense prayer.	
+body_equip#154	body_equip	154	(item/equipamento)	(item/equipment)	sistema		メディアガーブ	Medea Garb	
+body_equip#155	body_equip	155	(item/equipamento)	(item/equipment)	sistema		古き月の女神を信仰する者のガーブ	Garb for worshippers of the ancient moon goddess.	
+body_equip#156	body_equip	156	(item/equipamento)	(item/equipment)	sistema		ピルグリムローブ	Pilgrim Robe	
+body_equip#157	body_equip	157	(item/equipamento)	(item/equipment)	sistema		異国の巡礼者が身に着ける装束	Garb worn by foreign pilgrims.	
+body_equip#158	body_equip	158	(item/equipamento)	(item/equipment)	sistema		公家の着物	Court Noble's Kimono	
+body_equip#159	body_equip	159	(item/equipamento)	(item/equipment)	sistema		クゲノキモノ	Court Noble's Kimono	
+body_equip#160	body_equip	160	(item/equipamento)	(item/equipment)	sistema		東方の貴族が着用する着物	A kimono worn by nobles of the East.	
+body_equip#161	body_equip	161	(item/equipamento)	(item/equipment)	sistema		コンシリエーレスーツ	Consigliere Suit	
+body_equip#162	body_equip	162	(item/equipamento)	(item/equipment)	sistema		マフィアの相談役顧問が着用するスーツ	A suit worn by mafia consiglieri.	
+body_equip#163	body_equip	163	(item/equipamento)	(item/equipment)	sistema		ホワイトガーブ	White Garb	
+body_equip#164	body_equip	164	(item/equipamento)	(item/equipment)	sistema		白くて清潔感が漂うガーブ	Garb that radiates a clean white feeling.	
+body_equip#165	body_equip	165	(item/equipamento)	(item/equipment)	sistema		陰陽師の衣服	Onmyouji's Clothing	
+body_equip#166	body_equip	166	(item/equipamento)	(item/equipment)	sistema		オンミョウジノイフク	Onmyouji's Clothing	
+body_equip#167	body_equip	167	(item/equipamento)	(item/equipment)	sistema		陰陽師が着る儀式用の衣	Ritual clothing worn by Onmyouji.	
+body_equip#168	body_equip	168	(item/equipamento)	(item/equipment)	sistema		ブリンククローク	Blink Cloak	
+body_equip#169	body_equip	169	(item/equipamento)	(item/equipment)	sistema		煌めく星をイメージしたクローク	A cloak fashioned in the image of sparkling stars.	
+body_equip#170	body_equip	170	(item/equipamento)	(item/equipment)	sistema		エンシェントガーブ	Ancient Garb	
+body_equip#171	body_equip	171	(item/equipamento)	(item/equipment)	sistema		古くさい製法で作られたガーブ	Garb made using antiquated techniques.	
+body_equip#172	body_equip	172	(item/equipamento)	(item/equipment)	sistema		ナイトブリードローブ	Nightbreed Robe	
+body_equip#173	body_equip	173	(item/equipamento)	(item/equipment)	sistema		闇の眷属が着用するローブ	A robe worn by creatures of darkness.	
+body_equip#174	body_equip	174	(item/equipamento)	(item/equipment)	sistema		ハードレザーアーマー	Hard Leather Armor	
+body_equip#175	body_equip	175	(item/equipamento)	(item/equipment)	sistema		厚手の革で作られた鎧	Armor made of thick leather.	
+body_equip#176	body_equip	176	(item/equipamento)	(item/equipment)	sistema		ギャラクシージャケット	Galaxy Jacket	
+body_equip#177	body_equip	177	(item/equipamento)	(item/equipment)	sistema		銀河級と称えられたジャケット	A jacket praised as being galaxy-class.	
+body_equip#178	body_equip	178	(item/equipamento)	(item/equipment)	sistema		ガルヒーナメイル	Garhina Mail	
+body_equip#179	body_equip	179	(item/equipamento)	(item/equipment)	sistema		霊草ガルヒーナの名を冠する鎧	Armor bearing the name of the sacred herb Garhina.	
+body_equip#180	body_equip	180	(item/equipamento)	(item/equipment)	sistema		ネイキッドアーマー	Naked Armor	
+body_equip#181	body_equip	181	(item/equipamento)	(item/equipment)	sistema		守りを捨て攻撃に特化する事こそ最大の防御なり	Abandoning defense to focus on offense is the ultimate defense.	
+body_equip#182	body_equip	182	(item/equipamento)	(item/equipment)	sistema		山岳兵隊猟兵の鎧	Mountain Jaeger Armor	
+body_equip#183	body_equip	183	(item/equipamento)	(item/equipment)	sistema		サンガクヘイタイリョウヘイノヨロイ	Mountain Jaeger Armor	
+body_equip#184	body_equip	184	(item/equipamento)	(item/equipment)	sistema		山岳兵隊猟兵に支給される鎧	Armor issued to mountain jaegers.	
+body_equip#185	body_equip	185	(item/equipamento)	(item/equipment)	sistema		タングステンメイル	Tungsten Mail	
+body_equip#186	body_equip	186	(item/equipamento)	(item/equipment)	sistema		タングステン製の鎧	Armor made of tungsten.	
+body_equip#187	body_equip	187	(item/equipamento)	(item/equipment)	sistema		ブロンズメイル	Bronze Mail	
+body_equip#188	body_equip	188	(item/equipamento)	(item/equipment)	sistema		小さな青銅の板をあしらった軽鎧	Light armor adorned with small bronze plates.	
+body_equip#189	body_equip	189	(item/equipamento)	(item/equipment)	sistema		無法の胴衣	Outlaw Vest	
+body_equip#190	body_equip	190	(item/equipamento)	(item/equipment)	sistema		ムホウノドウイ	Outlaw Vest	
+body_equip#191	body_equip	191	(item/equipamento)	(item/equipment)	sistema		無法者の戦士が身に着けるという胴衣	A vest said to be worn by outlaw warriors.	
+body_equip#192	body_equip	192	(item/equipamento)	(item/equipment)	sistema		龍王の鎧	Dragon King Armor	
+body_equip#193	body_equip	193	(item/equipamento)	(item/equipment)	sistema		リュウオウノヨロイ	Dragon King Armor	
+body_equip#194	body_equip	194	(item/equipamento)	(item/equipment)	sistema		龍王の魂が宿るといわれる鎧	Armor said to harbor the soul of the Dragon King.	
+body_equip#195	body_equip	195	(item/equipamento)	(item/equipment)	sistema		ロードチェスト	Lord Chest	
+body_equip#196	body_equip	196	(item/equipamento)	(item/equipment)	sistema		爵位を持つ者に与えられる鎧	Armor bestowed upon those who hold a noble title.	
+body_equip#197	body_equip	197	(item/equipamento)	(item/equipment)	sistema		ゲイルスキン	Gale Skin	
+body_equip#198	body_equip	198	(item/equipamento)	(item/equipment)	sistema		風の如き動作を可能にした胴部用防具	Torso armor enabling movements swift as the wind.	
+body_equip#199	body_equip	199	(item/equipamento)	(item/equipment)	sistema		弁慶の甲冑	Benkei's Armor	
+body_equip#200	body_equip	200	(item/equipamento)	(item/equipment)	sistema		ベンケイノカッチュウ	Benkei's Armor	
+body_equip#201	body_equip	201	(item/equipamento)	(item/equipment)	sistema		東方の大男弁慶が着用していた鎧	Armor once worn by Benkei, the giant warrior of the East.	
+body_equip#202	body_equip	202	(item/equipamento)	(item/equipment)	sistema		オフィサープレート	Officer Plate	
+body_equip#203	body_equip	203	(item/equipamento)	(item/equipment)	sistema		士官用の鎧	Armor for commissioned officers.	
+body_equip#204	body_equip	204	(item/equipamento)	(item/equipment)	sistema		ニンジャジャケット	Ninja Jacket	
+body_equip#205	body_equip	205	(item/equipamento)	(item/equipment)	sistema		忍者が着用していたジャケット	A jacket worn by ninja.	
+body_equip#206	body_equip	206	(item/equipamento)	(item/equipment)	sistema		エンボスプレート	Embossed Plate	
+body_equip#207	body_equip	207	(item/equipamento)	(item/equipment)	sistema		継ぎ目の少ない全身鎧の胴部	Torso section of full-body armor with seamless construction.	
+body_equip#208	body_equip	208	(item/equipamento)	(item/equipment)	sistema		クスミメイル	Kusumi Mail	
+body_equip#209	body_equip	209	(item/equipamento)	(item/equipment)	sistema		古の聖人クスミに正義を誓う者が着用する鎧	Armor worn by those who swear justice to the ancient saint Kusumi.	
+body_equip#210	body_equip	210	(item/equipamento)	(item/equipment)	sistema		センゴクアーマー	Sengoku Armor	
+body_equip#211	body_equip	211	(item/equipamento)	(item/equipment)	sistema		戦国武将を彷彿とさせる鎧	Armor reminiscent of a Warring States warlord.	
+body_equip#212	body_equip	212	(item/equipamento)	(item/equipment)	sistema		バロンプレート	Baron Plate	
+body_equip#213	body_equip	213	(item/equipamento)	(item/equipment)	sistema		バロンの称号を持つ者に与えられる鎧	Armor bestowed upon those who hold the title of Baron.	
+body_equip#214	body_equip	214	(item/equipamento)	(item/equipment)	sistema		ソーバーンメイル	Thu'ban Mail	
+body_equip#215	body_equip	215	(item/equipamento)	(item/equipment)	sistema		千夜一夜の魔法の国で蛇を意味する鎧	Armor whose name means serpent in the magical land of 1001 Nights.	
+body_equip#216	body_equip	216	(item/equipamento)	(item/equipment)	sistema		ハヌマーンプレート	Hanuman Plate	
+body_equip#217	body_equip	217	(item/equipamento)	(item/equipment)	sistema		獣神ハヌマーンの名を冠する鎧	Armor bearing the name of the beast god Hanuman.	
+body_equip#218	body_equip	218	(item/equipamento)	(item/equipment)	sistema		聖騎士団の鎧	Holy Knights' Armor	
+body_equip#219	body_equip	219	(item/equipamento)	(item/equipment)	sistema		セイキシダンノヨロイ	Holy Knights' Armor	
+body_equip#220	body_equip	220	(item/equipamento)	(item/equipment)	sistema		聖騎士団所属の証となる鎧	Armor that serves as proof of membership in the Holy Knighthood.	
+body_equip#221	body_equip	221	(item/equipamento)	(item/equipment)	sistema		テンプルアーマー	Templar Armor	
+body_equip#222	body_equip	222	(item/equipamento)	(item/equipment)	sistema		堅い守りと重量感溢れる銀色全身鎧の胴部	Torso section of silver full-body armor overflowing with solid defense and heft.	
+body_equip#223	body_equip	223	(item/equipamento)	(item/equipment)	sistema		グリムプレート	Grim Plate	
+body_equip#224	body_equip	224	(item/equipamento)	(item/equipment)	sistema		不吉な意匠の鎧の胴部	Torso section of armor with an ominous design.	
+body_equip#225	body_equip	225	(item/equipamento)	(item/equipment)	sistema		ジャイアントプレート	Giant Plate	
+body_equip#226	body_equip	226	(item/equipamento)	(item/equipment)	sistema		巨人と見紛う防御と威圧感の鎧	Armor with defense and intimidation mistaken for a giant.	
+body_equip#227	body_equip	227	(item/equipamento)	(item/equipment)	sistema		ベルゼバブメイル	Beelzebub Mail	
+body_equip#228	body_equip	228	(item/equipamento)	(item/equipment)	sistema		魔界の君主ベルゼバブの福音を受けたメイル	Mail blessed by Beelzebub, Prince of the Netherworld.	
+body_equip#229	body_equip	229	(item/equipamento)	(item/equipment)	sistema		中堅傭兵のジャケット	Regular Mercenary Jacket	
+body_equip#230	body_equip	230	(item/equipamento)	(item/equipment)	sistema		チュウケンヨウヘイノジャケット	Regular Mercenary Jacket	
+body_equip#231	body_equip	231	(item/equipamento)	(item/equipment)	sistema		中堅傭兵が着用するジャケット	A jacket worn by regular mercenaries.	
+body_equip#232	body_equip	232	(item/equipamento)	(item/equipment)	sistema		メッシュジャケット	Mesh Jacket	
+body_equip#233	body_equip	233	(item/equipamento)	(item/equipment)	sistema		メッシュ加工がされたジャケット	A jacket processed with mesh weave.	
+body_equip#234	body_equip	234	(item/equipamento)	(item/equipment)	sistema		ホークジャケット	Hawk Jacket	
+body_equip#235	body_equip	235	(item/equipamento)	(item/equipment)	sistema		とある民族の守り神ホークの加護を受けたジャケット	A jacket blessed by Hawk, guardian deity of a certain tribe.	
+body_equip#236	body_equip	236	(item/equipamento)	(item/equipment)	sistema		ブロンコライダーシャツ	Bronco Rider Shirt	
+body_equip#237	body_equip	237	(item/equipamento)	(item/equipment)	sistema		荒野の流れ者が着用するシャツ	A shirt worn by drifters of the wasteland.	
+body_equip#238	body_equip	238	(item/equipamento)	(item/equipment)	sistema		霊光胴衣	Vest of Spiritual Light	
+body_equip#239	body_equip	239	(item/equipamento)	(item/equipment)	sistema		レイコウドウイ	Vest of Spiritual Light	
+body_equip#240	body_equip	240	(item/equipamento)	(item/equipment)	sistema		霊威みなぎる胴衣	A vest brimming with spiritual authority.	
+body_equip#241	body_equip	241	(item/equipamento)	(item/equipment)	sistema		僧兵の袈裟	Warrior Monk's Kasaya	
+body_equip#242	body_equip	242	(item/equipamento)	(item/equipment)	sistema		ソウヘイノケサ	Warrior Monk's Kasaya	
+body_equip#243	body_equip	243	(item/equipamento)	(item/equipment)	sistema		寺院警備の僧兵が着用する袈裟	A kasaya worn by warrior monks guarding temples.	
+body_equip#244	body_equip	244	(item/equipamento)	(item/equipment)	sistema		アーミーオーバーオール	Army Overalls	
+body_equip#245	body_equip	245	(item/equipamento)	(item/equipment)	sistema		野戦活動に適したオーバーオール	Overalls well-suited for field combat activities.	
+body_equip#246	body_equip	246	(item/equipamento)	(item/equipment)	sistema		隊長のコート	Commander's Coat	
+body_equip#247	body_equip	247	(item/equipamento)	(item/equipment)	sistema		タイチョウノコート	Commander's Coat	
+body_equip#248	body_equip	248	(item/equipamento)	(item/equipment)	sistema		隊長が巡回警備で着用するコート	A coat worn by squad leaders on patrol duty.	
+body_equip#249	body_equip	249	(item/equipamento)	(item/equipment)	sistema		フロンティアジャケット	Frontier Jacket	
+body_equip#250	body_equip	250	(item/equipamento)	(item/equipment)	sistema		開拓者が着用するジャケット	A jacket worn by pioneers.	
+body_equip#251	body_equip	251	(item/equipamento)	(item/equipment)	sistema		僧兵の布鎧	Warrior Monk's Cloth Armor	
+body_equip#252	body_equip	252	(item/equipamento)	(item/equipment)	sistema		ソウヘイノヌノヨロイ	Warrior Monk's Cloth Armor	
+body_equip#253	body_equip	253	(item/equipamento)	(item/equipment)	sistema		法敵を討つ僧兵の布鎧	Cloth armor of warrior monks who strike down enemies of the faith.	
+body_equip#254	body_equip	254	(item/equipamento)	(item/equipment)	sistema		コマンダースーツ	Commander Suit	
+body_equip#255	body_equip	255	(item/equipamento)	(item/equipment)	sistema		大型戦艦の艦長が着用するスーツ	A suit worn by captains of large battleships.	
+body_equip#256	body_equip	256	(item/equipamento)	(item/equipment)	sistema		鵺討ちの装束	Nue Slayer Garb	
+body_equip#257	body_equip	257	(item/equipamento)	(item/equipment)	sistema		ヌエウチノショウゾク	Nue Slayer Garb	
+body_equip#258	body_equip	258	(item/equipamento)	(item/equipment)	sistema		物の怪鵺を討伐する者が着用する装束	Garb worn by those who subjugate the monster Nue.	
+body_equip#259	body_equip	259	(item/equipamento)	(item/equipment)	sistema		中尉の制服	First Lieutenant Uniform	
+body_equip#260	body_equip	260	(item/equipamento)	(item/equipment)	sistema		チュウイノセイフク	First Lieutenant Uniform	
+body_equip#261	body_equip	261	(item/equipamento)	(item/equipment)	sistema		中尉の階級の証である制服	A uniform that signifies the rank of first lieutenant.	
+body_equip#262	body_equip	262	(item/equipamento)	(item/equipment)	sistema		ストレンジジャケット	Strange Jacket	
+body_equip#263	body_equip	263	(item/equipamento)	(item/equipment)	sistema		異国の風来坊が着用するジャケット	A jacket worn by foreign wanderers.	
+body_equip#264	body_equip	264	(item/equipamento)	(item/equipment)	sistema		コヨーテジャケット	Coyote Jacket	
+body_equip#265	body_equip	265	(item/equipamento)	(item/equipment)	sistema		呪術師レッド・コヨーテが祈祷したジャケット	A jacket consecrated by the shaman Red Coyote.	
+body_equip#266	body_equip	266	(item/equipamento)	(item/equipment)	sistema		粛清執行人のスーツ	Purge Enforcer's Suit	
+body_equip#267	body_equip	267	(item/equipamento)	(item/equipment)	sistema		シュクセイシッコウニンノスーツ	Purge Enforcer's Suit	
+body_equip#268	body_equip	268	(item/equipamento)	(item/equipment)	sistema		軍属の粛清執行人が着用するスーツ	A suit worn by military purge enforcers.	
+body_equip#269	body_equip	269	(item/equipamento)	(item/equipment)	sistema		小龍の衣	Lesser Dragon Robe	
+body_equip#270	body_equip	270	(item/equipamento)	(item/equipment)	sistema		ショウリュウノコロモ	Lesser Dragon Robe	
+body_equip#271	body_equip	271	(item/equipamento)	(item/equipment)	sistema		小龍の位を持つ功夫使いが着用する衣	A robe worn by kung fu masters holding the rank of Lesser Dragon.	
+body_equip#272	body_equip	272	(item/equipamento)	(item/equipment)	sistema		虎調教師の制服	Tiger Trainer Uniform	
+body_equip#273	body_equip	273	(item/equipamento)	(item/equipment)	sistema		トラチョウキョウシノセイフク	Tiger Trainer Uniform	
+body_equip#274	body_equip	274	(item/equipamento)	(item/equipment)	sistema		虎の調教を生業とする者が着用する制服	A uniform worn by professional tiger trainers.	
+body_equip#275	body_equip	275	(item/equipamento)	(item/equipment)	sistema		晶霊学士の制服	Craymel Scholar Uniform	
+body_equip#276	body_equip	276	(item/equipamento)	(item/equipment)	sistema		ショウレイガクシノセイフク	Craymel Scholar Uniform	
+body_equip#277	body_equip	277	(item/equipamento)	(item/equipment)	sistema		校則に定められた晶霊学士用の制服	A uniform prescribed by school regulations for Craymel scholars.	
+body_equip#278	body_equip	278	(item/equipamento)	(item/equipment)	sistema		走舞の装束	Hashirimai Dance Garb	
+body_equip#279	body_equip	279	(item/equipamento)	(item/equipment)	sistema		ハシリマイノショウゾク	Hashirimai Dance Garb	
+body_equip#280	body_equip	280	(item/equipamento)	(item/equipment)	sistema		神前儀式で活発な動きで舞う者の装束	Garb worn by those performing vigorous dances in sacred rites.	
+body_equip#281	body_equip	281	(item/equipamento)	(item/equipment)	sistema		フォルバンジャケット	Forban Jacket	
+body_equip#282	body_equip	282	(item/equipamento)	(item/equipment)	sistema		はぐれ者達が愛用するジャケット	A jacket favored by outcasts.	
+body_equip#283	body_equip	283	(item/equipamento)	(item/equipment)	sistema		玄武の衣	Genbu Robe	
+body_equip#284	body_equip	284	(item/equipamento)	(item/equipment)	sistema		ゲンブノコロモ	Genbu Robe	
+body_equip#285	body_equip	285	(item/equipamento)	(item/equipment)	sistema		聖獣玄武の名を冠する衣服	Clothing bearing the name of the sacred beast Genbu.	
+body_equip#286	body_equip	286	(item/equipamento)	(item/equipment)	sistema		熱心者のローブ	Zealot's Robe	
+body_equip#287	body_equip	287	(item/equipamento)	(item/equipment)	sistema		ネッシンシャノローブ	Zealot's Robe	
+body_equip#288	body_equip	288	(item/equipamento)	(item/equipment)	sistema		熱心者の術士が着用するローブ	A robe worn by zealous spellcasters.	
+body_equip#289	body_equip	289	(item/equipamento)	(item/equipment)	sistema		大達人のクローク	Major Adept's Cloak	
+body_equip#290	body_equip	290	(item/equipamento)	(item/equipment)	sistema		ダイタツジンノクローク	Major Adept's Cloak	
+body_equip#291	body_equip	291	(item/equipamento)	(item/equipment)	sistema		魔術結社で大達人の階位に与えられるクローク	A cloak awarded to the rank of Major Adept in magical societies.	
+body_equip#292	body_equip	292	(item/equipamento)	(item/equipment)	sistema		クラーティンスーツ	Kratin Suit	
+body_equip#293	body_equip	293	(item/equipamento)	(item/equipment)	sistema		ギンネム染のスーツ	A suit dyed with white leadtree.	
+body_equip#294	body_equip	294	(item/equipamento)	(item/equipment)	sistema		ニューエイジジャケット	New Age Jacket	
+body_equip#295	body_equip	295	(item/equipamento)	(item/equipment)	sistema		新しい魂の道を求める者が着用するジャケット	A jacket worn by those seeking a new spiritual path.	
+body_equip#296	body_equip	296	(item/equipamento)	(item/equipment)	sistema		軍中佐第二種礼装服	Lieutenant Colonel Service Dress Uniform	
+body_equip#297	body_equip	297	(item/equipamento)	(item/equipment)	sistema		グンチュウサダイニシュレイソウフク	Lieutenant Colonel Service Dress Uniform	
+body_equip#298	body_equip	298	(item/equipamento)	(item/equipment)	sistema		中佐の階級の者が着用する第二種礼装用のローブ	A robe for Type 2 dress uniform worn by the rank of Lieutenant Colonel.	
+body_equip#299	body_equip	299	(item/equipamento)	(item/equipment)	sistema		スチュワードクローク	Steward Cloak	
+body_equip#300	body_equip	300	(item/equipamento)	(item/equipment)	sistema		執事やメイドが着用するクローク	A cloak worn by stewards and maids.	
+body_equip#301	body_equip	301	(item/equipamento)	(item/equipment)	sistema		近衛兵のローブ	Royal Guard's Robe	
+body_equip#302	body_equip	302	(item/equipamento)	(item/equipment)	sistema		コノエヘイノローブ	Royal Guard's Robe	
+body_equip#303	body_equip	303	(item/equipamento)	(item/equipment)	sistema		城の近衛兵となった術者のローブ	A robe worn by spellcasters who serve as royal guards.	
+body_equip#304	body_equip	304	(item/equipamento)	(item/equipment)	sistema		名策士の着物	Master Tactician's Kimono	
+body_equip#305	body_equip	305	(item/equipamento)	(item/equipment)	sistema		メイサクシノキモノ	Master Tactician's Kimono	
+body_equip#306	body_equip	306	(item/equipamento)	(item/equipment)	sistema		名策士が好んで着用する着物	A kimono favored by master tacticians.	
+body_equip#307	body_equip	307	(item/equipamento)	(item/equipment)	sistema		アルカナローブ	Arcana Robe	
+body_equip#308	body_equip	308	(item/equipamento)	(item/equipment)	sistema		占い師が着用する摩訶不思議なローブ	A mysterious robe worn by fortune-tellers.	
+body_equip#309	body_equip	309	(item/equipamento)	(item/equipment)	sistema		ビリーブガーブ	Belief Garb	
+body_equip#310	body_equip	310	(item/equipamento)	(item/equipment)	sistema		信頼を一身に集める術士のガーブ	Garb worn by spellcasters who command utmost trust.	
+body_equip#311	body_equip	311	(item/equipamento)	(item/equipment)	sistema		アテイメントガーブ	Attainment Garb	
+body_equip#312	body_equip	312	(item/equipamento)	(item/equipment)	sistema		着る者の目標達成を助けるというガーブ	Garb said to help the wearer achieve their goals.	
+body_equip#313	body_equip	313	(item/equipamento)	(item/equipment)	sistema		外法者の衣	Heretic's Robe	
+body_equip#314	body_equip	314	(item/equipamento)	(item/equipment)	sistema		ゲホウモノノコロモ	Heretic's Robe	
+body_equip#315	body_equip	315	(item/equipamento)	(item/equipment)	sistema		外法の術を使う術士の衣	A robe worn by spellcasters who practice heretical arts.	
+body_equip#316	body_equip	316	(item/equipamento)	(item/equipment)	sistema		ミラクルスーツ	Miracle Suit	
+body_equip#317	body_equip	317	(item/equipamento)	(item/equipment)	sistema		奇跡の力が込められた可愛い衣装	A cute outfit imbued with miraculous power.	
+body_equip#318	body_equip	318	(item/equipamento)	(item/equipment)	sistema		ラーの外套	Ra's Mantle	
+body_equip#319	body_equip	319	(item/equipamento)	(item/equipment)	sistema		ラーノガイトウ	Ra's Mantle	

@@ -1,0 +1,131 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev05_010.scr:0	cev05_010.scr	0	ユーリ	Yuri Lowell	personagem		しっかし、暑いなんてもんじゃねえな……		
+cev05_010.scr:1	cev05_010.scr	1	ユーリ	Yuri Lowell	personagem		簡単に目玉焼きが作れちまいそうだ		
+cev05_010.scr:2	cev05_010.scr	2	すず	Suzu Fujibayashi	personagem		……ユーリさんは、料理をするのですか		
+cev05_010.scr:3	cev05_010.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x1	ああ。\nまあ、嗜む程度にはな		
+cev05_010.scr:4	cev05_010.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x2	これでも、ギルドで生計を立てながら\n自炊してたんだ。\n一通りの料理ならそれなりに作れるぜ		
+cev05_010.scr:5	cev05_010.scr	5	すず	Suzu Fujibayashi	personagem	CRLF x1	すごいです……。\nユーリさんは何でも出来るのですね		
+cev05_010.scr:6	cev05_010.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x2	何でもって事はねえけど……\n必要に迫られりゃ、人間大概の事は\n出来る様になるもんだ		
+cev05_010.scr:7	cev05_010.scr	7	ユーリ	Yuri Lowell	personagem		すずは何が好物なんだ？		
+cev05_010.scr:8	cev05_010.scr	8	ユーリ	Yuri Lowell	personagem	CRLF x2	無事この仕事が片付いたら、\nお疲れ様会ってな感じで\n簡単なもんなら食わせてやるぜ		
+cev05_010.scr:9	cev05_010.scr	9	すず	Suzu Fujibayashi	personagem		……！		
+cev05_010.scr:10	cev05_010.scr	10	すず	Suzu Fujibayashi	personagem		……お気遣い感謝します		
+cev05_010.scr:11	cev05_010.scr	11	すず	Suzu Fujibayashi	personagem	CRLF x1	そのお話は、任務達成後に\n追ってまたご相談させて下さい		
+cev05_010.scr:12	cev05_010.scr	12	すず	Suzu Fujibayashi	personagem	CRLF x1	……では、私はこの先の魔物の様子を\n探ってきますので		
+cev05_010.scr:13	cev05_010.scr	13	ユーリ	Yuri Lowell	personagem	CRLF x1	忍びは感情を表に出すべからず……\nってやつか？		
+cev05_010.scr:14	cev05_010.scr	14	ユーリ	Yuri Lowell	personagem		色々、大変なんだな		
+cev05_020.scr:0	cev05_020.scr	0	ユーリ	Yuri Lowell	personagem		しかし、ここの魔物は手強いのが多いな		
+cev05_020.scr:1	cev05_020.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x1	さっきの奴なんて、\n結構冷や汗もんだったぜ		
+cev05_020.scr:2	cev05_020.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x1	そうでしたか？\nとてもそんな風には見えませんでした		
+cev05_020.scr:3	cev05_020.scr	3	ユーリ	Yuri Lowell	personagem	CRLF x2	そりゃどーも。\nこれでもビビったり\n驚いたりはしてるんだけどな		
+cev05_020.scr:4	cev05_020.scr	4	すず	Suzu Fujibayashi	personagem	CRLF x1	……ユーリさんは、\n忍者に向いているかもしれません		
+cev05_020.scr:5	cev05_020.scr	5	すず	Suzu Fujibayashi	personagem		忍者に転職するつもりはないのですか？		
+cev05_020.scr:6	cev05_020.scr	6	ユーリ	Yuri Lowell	personagem	CRLF x1	ははっ。\n面白い誘いだが、遠慮しておくよ		
+cev05_020.scr:7	cev05_020.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x1	誰かに仕えて任務をこなすなんて、\nオレの性分じゃねぇし		
+cev05_020.scr:8	cev05_020.scr	8	すず	Suzu Fujibayashi	personagem		そうですか……		
+cev05_020.scr:9	cev05_020.scr	9	すず	Suzu Fujibayashi	personagem	CRLF x1	では、気が変わったら\nそうおっしゃって下さい		
+cev05_020.scr:10	cev05_020.scr	10	すず	Suzu Fujibayashi	personagem	CRLF x1	ユーリさんでしたら\nいつでも頭領にお引き合わせします		
+cev05_020.scr:11	cev05_020.scr	11	ユーリ	Yuri Lowell	personagem	CRLF x1	そりゃ光栄だな。\n気持ちだけ、ありがたく受け取っとくよ		
+cev05_030.scr:0	cev05_030.scr	0	しいな	Sheena Fujibayashi	personagem	CRLF x2	しかし、外の世界ってのは\nこうも複雑で、広くて……。\n色んな人間が暮らしているものなんだねえ		
+cev05_030.scr:1	cev05_030.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x2	はい。\nここで暮らす様になってからしばらくは\n毎日が小さな発見の連続でした		
+cev05_030.scr:2	cev05_030.scr	2	しいな	Sheena Fujibayashi	personagem	CRLF x2	そうだね。\nあたし達の里は、それだけ\n徹底して外との接触を避けてきた		
+cev05_030.scr:3	cev05_030.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x2	そういう意味じゃ、あたし達が漠然と\n外だと思ってた世界も\n本当の意味で外なんかじゃなかったんだ		
+cev05_030.scr:4	cev05_030.scr	4	しいな	Sheena Fujibayashi	personagem		それを今回、つくづく思い知らされたよ		
+cev05_030.scr:5	cev05_030.scr	5	すず	Suzu Fujibayashi	personagem	CRLF x1	忍びは、掟に従って生きるもの。\n非情でなくては務まらない……		
+cev05_030.scr:6	cev05_030.scr	6	すず	Suzu Fujibayashi	personagem	CRLF x2	これまではそれが当たり前だったのに\n外はこんなにも豊かで、変化に満ちて\nみんなが泣いて、笑って暮らしている……		
+cev05_030.scr:7	cev05_030.scr	7	すず	Suzu Fujibayashi	personagem		それがここの「当たり前」なんですね		
+cev05_030.scr:8	cev05_030.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x2	そうだねぇ。ルールや規則はあっても、\nあたし達の掟程厳しいわけじゃないし\nましてや、命に関わる掟もない		
+cev05_030.scr:9	cev05_030.scr	9	しいな	Sheena Fujibayashi	personagem	CRLF x2	今まで普通だと思ってた事が\n普通じゃなくなるってのは\nどうにも妙な感覚だね		
+cev05_030.scr:10	cev05_030.scr	10	すず	Suzu Fujibayashi	personagem	CRLF x1	だからこそ、知る事が出来たものも\nたくさんあります		
+cev05_030.scr:11	cev05_030.scr	11	すず	Suzu Fujibayashi	personagem	CRLF x1	皆さんと出会えて\n旅をしたからこそわかった事が		
+cev05_030.scr:12	cev05_030.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x1	ああ。\nあたしもそう思うよ		
+cev05_030.scr:13	cev05_030.scr	13	しいな	Sheena Fujibayashi	personagem	CRLF x2	それって、多分……\nなかなか体験出来る事じゃないし\nとっても恵まれてるって事……なんだよね		
+cev05_030.scr:14	cev05_030.scr	14	すず	Suzu Fujibayashi	personagem		はい		
+cev05_030.scr:15	cev05_030.scr	15	すず	Suzu Fujibayashi	personagem	CRLF x2	お互いに、新しい世界が\n広がったという事なのだと思います。\nきっと……		
+cev05_040.scr:0	cev05_040.scr	0	エステル	Estelle	personagem	CRLF x1	ふぅ……、甲板は気持ちいいですね。\n風が心地いいです		
+cev05_040.scr:1	cev05_040.scr	1	ユーリ	Yuri Lowell	personagem	CRLF x1	ああ、そうだな。\nすずしいなー		
+cev05_040.scr:2	cev05_040.scr	2	すず	Suzu Fujibayashi	personagem		何でしょうか？		
+cev05_040.scr:3	cev05_040.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x1	どうした？　\n何か用かい？		
+cev05_040.scr:4	cev05_040.scr	4	ユーリ	Yuri Lowell	personagem	CRLF x1	え？　え？\n何だよ、一体？		
+cev05_040.scr:5	cev05_040.scr	5	すず	Suzu Fujibayashi	personagem		今、呼ばれましたので……		
+cev05_040.scr:6	cev05_040.scr	6	しいな	Sheena Fujibayashi	personagem	CRLF x1	そうだよ。\n名前を呼んだじゃないか		
+cev05_040.scr:7	cev05_040.scr	7	ユーリ	Yuri Lowell	personagem	CRLF x1	え、いや、ただ、\n「すずしいなー」って……		
+cev05_040.scr:8	cev05_040.scr	8	すず	Suzu Fujibayashi	personagem		ですから……		
+cev05_040.scr:9	cev05_040.scr	9	しいな	Sheena Fujibayashi	personagem		何の用なんだいって？		
+cev05_040.scr:10	cev05_040.scr	10	エステル	Estelle	personagem	CRLF x2	ユーリ、アレですよ。\n最近名前を繋げるのが\n流行っている、例の……		
+cev05_040.scr:11	cev05_040.scr	11	ユーリ	Yuri Lowell	personagem	CRLF x1	おいおい、関係ねぇぞ、今。\n誰だよ、広めてるの！		
+cev05_040.scr:12	cev05_040.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x2	あんたが\n名前をくっ付けて呼び始めた\n張本人なんだろ？		
+cev05_040.scr:13	cev05_040.scr	13	すず	Suzu Fujibayashi	personagem		私も、そう聞きました		
+cev05_040.scr:14	cev05_040.scr	14	ユーリ	Yuri Lowell	personagem	CRLF x1	いやー、それは、\nオレには関係ないっつーか……		
+cev05_040.scr:15	cev05_040.scr	15	しいな	Sheena Fujibayashi	personagem	CRLF x2	何だい！\n用がないなら、\n呼ばないでくれるかい？		
+cev05_040.scr:16	cev05_040.scr	16	しいな	Sheena Fujibayashi	personagem		すず、行くよ！		
+cev05_040.scr:17	cev05_040.scr	17	すず	Suzu Fujibayashi	personagem	CRLF x1	…………。\n失礼します		
+cev05_040.scr:18	cev05_040.scr	18	ユーリ	Yuri Lowell	personagem	CRLF x1	勘弁してくれよ……。\n何で、オレが怒られなきゃ……		
+cev05_040.scr:19	cev05_040.scr	19	エステル	Estelle	personagem		自業自得、です？		
+cev05_050.scr:0	cev05_050.scr	0	キール	Keele Zeibel	personagem	CRLF x2	ぼくが聞き及んだ限りでも\nすずは色々な知識に\n精通している様だな……		
+cev05_050.scr:1	cev05_050.scr	1	キール	Keele Zeibel	personagem		どこの大学で学んだんだ？		
+cev05_050.scr:2	cev05_050.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x1	大学……？\nいえ、私は教育施設には通っていません		
+cev05_050.scr:3	cev05_050.scr	3	キール	Keele Zeibel	personagem		何だって？		
+cev05_050.scr:4	cev05_050.scr	4	キール	Keele Zeibel	personagem	CRLF x2	このぼくですら習得に\n時間がかかる様な難解な知識を、\n独学で得たっていうのか？		
+cev05_050.scr:5	cev05_050.scr	5	すず	Suzu Fujibayashi	personagem	CRLF x1	独学というより、里の頭領に教わりました。\nいつか役立つ事があるかもしれぬ、と		
+cev05_050.scr:6	cev05_050.scr	6	キール	Keele Zeibel	personagem	CRLF x1	天候変化の科学的根拠や仕組みなんて、\n一般人にはどう役に立つって言うんだ		
+cev05_050.scr:7	cev05_050.scr	7	すず	Suzu Fujibayashi	personagem	CRLF x1	一般人ではありません。\n私は忍者ですから		
+cev05_050.scr:8	cev05_050.scr	8	キール	Keele Zeibel	personagem	CRLF x1	ああ、いや、そういう事が\n言いたかったわけじゃ……		
+cev05_050.scr:9	cev05_050.scr	9	すず	Suzu Fujibayashi	personagem	CRLF x2	忍者とはそういうものです。\n厳しい道を乗り越えた者のみが\n本当の忍びになれるのです		
+cev05_050.scr:10	cev05_050.scr	10	キール	Keele Zeibel	personagem		ええと……だから……		
+cev05_050.scr:11	cev05_050.scr	11	すず	Suzu Fujibayashi	personagem	CRLF x1	何か疑問点があれば、\n私のわかる範囲でお答えしますが		
+cev05_050.scr:12	cev05_050.scr	12	キール	Keele Zeibel	personagem		……いえ……もういいです……		
+cev05_060.scr:0	cev05_060.scr	0	ゼロス	Zelos Wilder	personagem		……どうやら撒いたみたいだな		
+cev05_060.scr:1	cev05_060.scr	1	ゼロス	Zelos Wilder	personagem	CRLF x1	へへっ、ここまで来れば\n一安心……		
+cev05_060.scr:2	cev05_060.scr	2	すず	Suzu Fujibayashi	personagem		そうはいきませんよ、ゼロスさん		
+cev05_060.scr:3	cev05_060.scr	3	ゼロス	Zelos Wilder	personagem		えっ、すずちゃん？		
+cev05_060.scr:4	cev05_060.scr	4	すず	Suzu Fujibayashi	personagem		しいなさん、こっちです！		
+cev05_060.scr:5	cev05_060.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x1	よし、すず。\n準備はいいね！？		
+cev05_060.scr:6	cev05_060.scr	6	すず	Suzu Fujibayashi	personagem		はい		
+cev05_060.scr:7	cev05_060.scr	7	すず	Suzu Fujibayashi	personagem		イガグリ流忍法、分身の術！		
+cev05_060.scr:8	cev05_060.scr	8	ゼロス	Zelos Wilder	personagem	CRLF x1	お、おい！\nなんだこれ！？		
+cev05_060.scr:9	cev05_060.scr	9	しいな	Sheena Fujibayashi	personagem	CRLF x1	自分だけ掃除当番サボろうったって\nそうはいかないんだよ		
+cev05_060.scr:10	cev05_060.scr	10	すず	Suzu Fujibayashi	personagem	CRLF x1	規律は遵守してもらいます。\nそれがここの決まりですから		
+cev05_060.scr:11	cev05_060.scr	11	ゼロス	Zelos Wilder	personagem		って、マジで完全包囲されてるワケ？		
+cev05_060.scr:12	cev05_060.scr	12	ゼロス	Zelos Wilder	personagem	CRLF x2	いくら何でも\nこんなの反則なんじゃねーの？\nちょっと〜〜〜！！		
+cev05_070.scr:0	cev05_070.scr	0	すず	Suzu Fujibayashi	personagem		うう……まだ舌がピリピリします		
+cev05_070.scr:1	cev05_070.scr	1	アスベル	Asbel Lhant	personagem	CRLF x1	今日のカレー、\n確かにちょっと辛かったよな		
+cev05_070.scr:2	cev05_070.scr	2	すず	Suzu Fujibayashi	personagem		はい……		
+cev05_070.scr:3	cev05_070.scr	3	すず	Suzu Fujibayashi	personagem	CRLF x2	私の里には\n辛みの強い料理がなかったので\nあれにはなかなか慣れません		
+cev05_070.scr:4	cev05_070.scr	4	アスベル	Asbel Lhant	personagem	CRLF x1	カレーを知らなかったのか？\nそれは人生の半分を損しているな		
+cev05_070.scr:5	cev05_070.scr	5	すず	Suzu Fujibayashi	personagem		そう……なのですか？		
+cev05_070.scr:6	cev05_070.scr	6	アスベル	Asbel Lhant	personagem	CRLF x2	ああ。　カレーはとても体にいいんだ。\n効率的に様々な栄養を摂取出来るよう\nあの「ルー」が開発されたんだよ		
+cev05_070.scr:7	cev05_070.scr	7	すず	Suzu Fujibayashi	personagem		それは知りませんでした		
+cev05_070.scr:8	cev05_070.scr	8	すず	Suzu Fujibayashi	personagem	CRLF x2	カレーライス……。\n不条理に辛い料理なのかと思ったのですが\n実は合理的な食べ物だったのですね		
+cev05_070.scr:9	cev05_070.scr	9	アスベル	Asbel Lhant	personagem	CRLF x1	食べるなら甘口がおすすめだよ。\n俺はいつも甘口なんだ		
+cev05_070.scr:10	cev05_070.scr	10	すず	Suzu Fujibayashi	personagem		あまくち……		
+cev05_070.scr:11	cev05_070.scr	11	すず	Suzu Fujibayashi	personagem	CRLF x1	わかりました。\n覚えておきます		
+cev05_080.scr:0	cev05_080.scr	0	すず	Suzu Fujibayashi	personagem	CRLF x1	しいなさん。\nジェイさんについてなのですが		
+cev05_080.scr:1	cev05_080.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	どうしたんだい？\n何か引っかかるのかい		
+cev05_080.scr:2	cev05_080.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x1	彼は、信頼しても\nいい人物なのでしょうか		
+cev05_080.scr:3	cev05_080.scr	3	すず	Suzu Fujibayashi	personagem	CRLF x1	……ただの情報屋にしては、\n身のこなしに隙がなさ過ぎます		
+cev05_080.scr:4	cev05_080.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x1	確かに……ジェイは身軽だし\n気配を殺して動くのが上手い様だね		
+cev05_080.scr:5	cev05_080.scr	5	すず	Suzu Fujibayashi	personagem	CRLF x1	あの、思ったのですが\nジェイさんは忍者なのではないでしょうか		
+cev05_080.scr:6	cev05_080.scr	6	しいな	Sheena Fujibayashi	personagem		そんな、まさか！		
+cev05_080.scr:7	cev05_080.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x2	それが本当なら、ミブナの里以外で\n忍者が隠れ住んでいる場所がある事に\nなっちまうよ		
+cev05_080.scr:8	cev05_080.scr	8	すず	Suzu Fujibayashi	personagem		それはそうなのですが……		
+cev05_080.scr:9	cev05_080.scr	9	しいな	Sheena Fujibayashi	personagem		すずの考え過ぎじゃないかい？		
+cev05_080.scr:10	cev05_080.scr	10	すず	Suzu Fujibayashi	personagem		……そうでしょうか……		
+cev05_200.scr:0	cev05_200.scr	0	すず	Suzu Fujibayashi	personagem	CRLF x1	通常。\n		
+cev05_200.scr:1	cev05_200.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev05_200.scr:2	cev05_200.scr	2	すず	Suzu Fujibayashi	personagem	CRLF x1	悲しみ。\n		
+cev05_200.scr:3	cev05_200.scr	3	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev05_200.scr:4	cev05_200.scr	4	すず	Suzu Fujibayashi	personagem	CRLF x1	真剣。\n		
+cev05_200.scr:5	cev05_200.scr	5	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev05_200.scr:6	cev05_200.scr	6	すず	Suzu Fujibayashi	personagem	CRLF x1	通常。\n		
+cev05_200.scr:7	cev05_200.scr	7	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev05_200.scr:8	cev05_200.scr	8	すず	Suzu Fujibayashi	personagem	CRLF x1	悲しみ。\n		
+cev05_200.scr:9	cev05_200.scr	9	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev05_200.scr:10	cev05_200.scr	10	すず	Suzu Fujibayashi	personagem	CRLF x1	真剣。\n		
+cev05_200.scr:11	cev05_200.scr	11	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev05_200.scr:12	cev05_200.scr	12	すず	Suzu Fujibayashi	personagem	CRLF x1	通常。\n		
+cev05_200.scr:13	cev05_200.scr	13	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev05_200.scr:14	cev05_200.scr	14	すず	Suzu Fujibayashi	personagem	CRLF x1	悲しみ。\n		
+cev05_200.scr:15	cev05_200.scr	15	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev05_200.scr:16	cev05_200.scr	16	すず	Suzu Fujibayashi	personagem	CRLF x1	真剣。\n		
+cev05_200.scr:17	cev05_200.scr	17	すず	Suzu Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

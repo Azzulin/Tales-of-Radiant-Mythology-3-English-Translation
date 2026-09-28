@@ -1,0 +1,134 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev02_010.scr:0	qev02_010.scr	0	エミル	Emil Castagnier	personagem	CRLF x1	カイウスが気にする事ないよ。\nだって……	You don't need to worry, Caius.\nI mean......	
+qev02_010.scr:1	qev02_010.scr	1	カイウス	Caius Qualls	personagem		気休めはやめてくれよ	Spare me the pep talk.	
+qev02_010.scr:2	qev02_010.scr	2	カイウス	Caius Qualls	personagem	CRLF x1	オレだって、本当は否定したいんだ。\nそんなんじゃないって	I want to deny it too, you know.\nThat it's not like that.	
+qev02_010.scr:3	qev02_010.scr	3	カイウス	Caius Qualls	personagem	CRLF x1	だけど……言えなかった。\n出来なかったんだよ	But......I couldn't say it.\nI just couldn't.	
+qev02_010.scr:4	qev02_010.scr	4	カイウス	Caius Qualls	personagem	CRLF x2	本当はオレも……、\n自分の事をバケモノだって\n思ってるのかもしれない……	Maybe deep down......\nI think of myself as a monster\ntoo......	
+qev02_010.scr:5	qev02_010.scr	5	ルビア	Rubia Natwick	personagem		馬鹿な事言わないで！	Don't say such stupid things!	
+qev02_010.scr:6	qev02_010.scr	6	ルビア	Rubia Natwick	personagem	CRLF x1	あたしは、カイウスの能力をそんな風に\n思ってなんかいないわ	I've never thought of Caius's\npower that way!	
+qev02_010.scr:7	qev02_010.scr	7	(ator 200)	(ator 200)	desconhecido		……？	......?	
+qev02_010.scr:8	qev02_010.scr	8	エミル	Emil Castagnier	personagem		あ……、○○	Oh...... ○○.	
+qev02_010.scr:9	qev02_010.scr	9	エミル	Emil Castagnier	personagem	CRLF x1	ごめん、ちょっと……。\n買出しに行った先の街で、色々あって	Sorry, it's just......\nA lot happened in the town we went to.	
+qev02_010.scr:10	qev02_010.scr	10	ルビア	Rubia Natwick	personagem	CRLF x2	色々なんかないわよ。\n高台から落ちそうになった人を\nカイウスが助けてあげただけ	Nothing 'a lot' about it.\nCaius saved someone who almost fell\nfrom a cliff, that's all.	
+qev02_010.scr:11	qev02_010.scr	11	ルビア	Rubia Natwick	personagem	CRLF x2	カイウスが獣人化して駆け付けなかったら\nあの人は大怪我をしてたわ。\nそれなのに……	If Caius hadn't transformed and\nrushed over, that person would've\nbeen badly hurt. And yet......	
+qev02_010.scr:12	qev02_010.scr	12	カイウス	Caius Qualls	personagem	CRLF x2	いいんだ、ルビア。\nオレが、みんなと違うっていうのは\n本当の事だ	It's fine, Rubia.\nThe fact that I'm different\nfrom everyone is true.	
+qev02_010.scr:13	qev02_010.scr	13	カイウス	Caius Qualls	personagem		……怖がられたって仕方ないさ	......It's no wonder they fear me.	
+qev02_010.scr:14	qev02_010.scr	14	ルビア	Rubia Natwick	personagem	CRLF x2	何が仕方ないっていうの？\nそうやってまた、自分の殻に閉じこもって\n逃げ出すつもり？	What do you mean 'no wonder'?\nAre you going to crawl back into\nyour shell and run away again?	
+qev02_010.scr:15	qev02_010.scr	15	カイウス	Caius Qualls	personagem		オレは逃げてなんかない！	I'm not running away!	
+qev02_010.scr:16	qev02_010.scr	16	ルビア	Rubia Natwick	personagem	CRLF x2	いいえ、逃げてるわ！\n仕方ない事なんて何もないのに、\n自分から全部をあきらめようとしてる	Yes, you are!\nNothing about this is inevitable,\nbut you're giving up on everything!	
+qev02_010.scr:17	qev02_010.scr	17	カイウス	Caius Qualls	personagem		わかった様な事を言うなよ！	Don't act like you understand!	
+qev02_010.scr:18	qev02_010.scr	18	カイウス	Caius Qualls	personagem	CRLF x1	ルビアにはわからないさ！\nだって、ルビアは……人間なんだから	You can't understand, Rubia!\nBecause you're......a human!	
+qev02_010.scr:19	qev02_010.scr	19	ルビア	Rubia Natwick	personagem		……ばか	......Idiot.	
+qev02_010.scr:20	qev02_010.scr	20	ルビア	Rubia Natwick	personagem		……カイウスのばか！！	......Caius, you idiot!!	
+qev02_010.scr:21	qev02_010.scr	21	エミル	Emil Castagnier	personagem		ルビア……！	Rubia......!	
+qev02_010.scr:22	qev02_010.scr	22	ハロルド	Harold Berselius	personagem		あいたっ	Ow!	
+qev02_010.scr:23	qev02_010.scr	23	ハロルド	Harold Berselius	personagem	CRLF x2	あら？\nあんた達……。\nちょうどいいところに♪	Hm?\nOh, you guys......\nPerfect timing!	
+qev02_010.scr:24	qev02_010.scr	24	ハロルド	Harold Berselius	personagem	CRLF x2	これから、ちょ〜っと\n私に付き合いなさい∀\nもちろん、イヤとは言わせないわよ	You're all going to help me out\nfor a bit, starting now!\nAnd no, I won't take 'no' for one!	
+qev02_010.scr:25	qev02_010.scr	25	エミル	Emil Castagnier	personagem	CRLF x2	ええ？\nそんな……。\n今、それどころじゃ……	Huh?\nBut that's......\nNow's really not the time for......	
+qev02_010.scr:26	qev02_010.scr	26	カイウス	Caius Qualls	personagem	CRLF x1	……いいよ、エミル。\nハロルドさんの話を聞こう	......It's fine, Emil.\nLet's hear what Harold has to say.	
+qev02_010.scr:27	qev02_010.scr	27	エミル	Emil Castagnier	personagem		カイウス……	Caius......	
+qev02_010.scr:28	qev02_010.scr	28	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「カニカニパニック」が\nエントリーされました。\nハロルドから受ける事が出来ます	Quest 'Crab Crab Panic' has been\nregistered.\nYou can accept it from Harold.	
+qev02_020.scr:0	qev02_020.scr	0	ハロルド	Harold Berselius	personagem	CRLF x1	よ〜し、カニを獲って獲って\n獲りまくるわよ〜♪	All right, let's catch crabs and\ncatch crabs and catch more crabs!	
+qev02_020.scr:1	qev02_020.scr	1	ハロルド	Harold Berselius	personagem	CRLF x1	刺身でしょ、鍋でしょ、パスタでしょ……。\nああもう、何から食べるか、迷っちゃう∀	Sashimi, hot pot, pasta......\nOoh, I can't decide what to eat!	
+qev02_020.scr:2	qev02_020.scr	2	エミル	Emil Castagnier	personagem	CRLF x1	どれだけカニを獲るつもりなの……。\nねえ、カイウス？	How many crabs are you planning\nto catch......? Right, Caius?	
+qev02_020.scr:3	qev02_020.scr	3	カイウス	Caius Qualls	personagem		…………	............	
+qev02_020.scr:4	qev02_020.scr	4	エミル	Emil Castagnier	personagem		……カイウス？	......Caius?	
+qev02_020.scr:5	qev02_020.scr	5	カイウス	Caius Qualls	personagem	CRLF x1	……え？\nああ、何だ？	......Huh?\nOh, what is it?	
+qev02_020.scr:6	qev02_020.scr	6	カイウス	Caius Qualls	personagem		悪い、何の話だったっけ	Sorry, what were we talking about?	
+qev02_020.scr:7	qev02_020.scr	7	エミル	Emil Castagnier	personagem		あ……、ううん	Oh...... Never mind.	
+qev02_020.scr:8	qev02_020.scr	8	エミル	Emil Castagnier	personagem	CRLF x1	大丈夫……。\n何でもない、から……	It's okay......\nIt's nothing, really......	
+qev02_030.scr:0	qev02_030.scr	0	ハロルド	Harold Berselius	personagem		カニ〜！　カニ〜！	Crabs~! Crabs~!	
+qev02_030.scr:1	qev02_030.scr	1	エミル	Emil Castagnier	personagem		ハロルドさんは、本当に元気だなぁ……	Harold really is full of energy......	
+qev02_030.scr:2	qev02_030.scr	2	カイウス	Caius Qualls	personagem		そうだな……	Yeah......	
+qev02_030.scr:3	qev02_030.scr	3	カイウス	Caius Qualls	personagem	CRLF x2	うらやましいよ。\n悩みなんか、\nきっと何にもないんだろうな	I envy her.\nShe probably doesn't have\na single worry in the world.	
+qev02_030.scr:4	qev02_030.scr	4	エミル	Emil Castagnier	personagem		…………	............	
+qev02_030.scr:5	qev02_030.scr	5	カイウス	Caius Qualls	personagem	CRLF x2	ほら、ハロルドさんって天才だろ？\n天才の考えてる事は、\nよくわからないっていうかさ……	I mean, Harold's a genius, right?\nWhat goes on in a genius's head\nis beyond me......	
+qev02_030.scr:6	qev02_030.scr	6	ハロルド	Harold Berselius	personagem	CRLF x1	コラ、そこ！\nな〜にごちゃごちゃ話してるのよ？	Hey, you two!\nWhat are you whispering about?	
+qev02_030.scr:7	qev02_030.scr	7	ハロルド	Harold Berselius	personagem	CRLF x1	ほらほら、さっさと行くわよ♪\nカニを待たせちゃ悪いじゃない♪♪	Come on, hurry up, let's go!\nWe can't keep the crabs waiting!	
+qev02_030.scr:8	qev02_030.scr	8	カイウス	Caius Qualls	personagem	CRLF x1	ちょ、ちょっとハロルドさん……。\n引っ張るなって！	W-Wait, Harold......\nStop pulling me!	
+qev02_030.scr:9	qev02_030.scr	9	エミル	Emil Castagnier	personagem	CRLF x1	カイウス……。\nやっぱりまだ、ルビアとのこと……	Caius......\nHe's still bothered about Rubia......	
+qev02_040.scr:0	qev02_040.scr	0	ハロルド	Harold Berselius	personagem		う〜ん、大漁大漁♪	Mmm, what a haul!	
+qev02_040.scr:1	qev02_040.scr	1	ハロルド	Harold Berselius	personagem	CRLF x1	でも、これだけ人手があるんだから\nもうちょっとくらい持って帰れそうよね	But with this many hands, we could\nprobably carry back even more.	
+qev02_040.scr:2	qev02_040.scr	2	エミル	Emil Castagnier	personagem		本気で獲りまくるつもりなんだね……	You really are going all out......	
+qev02_040.scr:3	qev02_040.scr	3	エミル	Emil Castagnier	personagem	CRLF x1	僕もう、何だか手が\nカニ臭くなってきた気がするよ……	My hands are starting to smell\nlike crab already......	
+qev02_040.scr:4	qev02_040.scr	4	カイウス	Caius Qualls	personagem	CRLF x1	獲るのはいいけど、こんなに持って帰って\n本当に全部食いきれるのか？	Catching them is fine, but can we\nreally eat all of these?	
+qev02_040.scr:5	qev02_040.scr	5	カイウス	Caius Qualls	personagem	CRLF x1	みんなに見つかったら、\nすごい目で見られそうだな	If everyone sees us with this haul,\nthey'll give us weird looks.	
+qev02_040.scr:6	qev02_040.scr	6	ハロルド	Harold Berselius	personagem	CRLF x1	いいじゃない、人の事なんて。\n思いたい様に思わせとけば	Who cares what others think?\nLet them think whatever they want.	
+qev02_040.scr:7	qev02_040.scr	7	ハロルド	Harold Berselius	personagem	CRLF x1	いちいち人目なんて気にしてたら、\nしたい事も出来ないでしょ	If you worry about every little\nglance, you'll never do anything.	
+qev02_040.scr:8	qev02_040.scr	8	ハロルド	Harold Berselius	personagem		そんなのアホらしいじゃない	That's just silly, isn't it?	
+qev02_040.scr:9	qev02_040.scr	9	カイウス	Caius Qualls	personagem	CRLF x1	そうは言うけど……。\nどうしたって気にはなるだろ	Easy for you to say......\nYou can't help but care.	
+qev02_040.scr:10	qev02_040.scr	10	カイウス	Caius Qualls	personagem	CRLF x2	自分が、その……、\nおかしい奴って思われて\n平気でなんていられないよ	Being thought of as......\nsome kind of weirdo......\nNobody can just shrug that off.	
+qev02_040.scr:11	qev02_040.scr	11	ハロルド	Harold Berselius	personagem	CRLF x2	おかしいって何？\nその「おかしい」の基準って\nドコにあるどんなものなわけ？	Weird how?\nWhat's the standard for 'weird'?\nWhere is it? What does it look like?	
+qev02_040.scr:12	qev02_040.scr	12	カイウス	Caius Qualls	personagem		えっ？	Huh?	
+qev02_040.scr:13	qev02_040.scr	13	カイウス	Caius Qualls	personagem	CRLF x1	そんなの……。\nオレにはわからないよ	I don't......\nI don't know.	
+qev02_040.scr:14	qev02_040.scr	14	ハロルド	Harold Berselius	personagem		でしょうね	Exactly.	
+qev02_040.scr:15	qev02_040.scr	15	ハロルド	Harold Berselius	personagem	CRLF x1	だって、そんな基準なんて\nあってない様なものだもの	Because that kind of standard\nis practically nonexistent.	
+qev02_040.scr:16	qev02_040.scr	16	ハロルド	Harold Berselius	personagem	CRLF x2	漠然とみんなが思っている「普通」を\n無理やり誰かに当てはめて、\n「普通」か、「異常」かを判定する	Taking some vague idea of 'normal'\nand forcing it onto someone\nto judge them--	
+qev02_040.scr:17	qev02_040.scr	17	ハロルド	Harold Berselius	personagem	CRLF x1	そんな事に何の意味があるのかしら。\n時間の無駄よ、無駄	What's even the point of that?\nA total waste of time.	
+qev02_040.scr:18	qev02_040.scr	18	ハロルド	Harold Berselius	personagem		「普通」の定義自体が曖昧なんだもの	'Normal' itself is vaguely defined.	
+qev02_040.scr:19	qev02_040.scr	19	ハロルド	Harold Berselius	personagem	CRLF x1	私は私、あんたはあんた。\nそれでいいじゃない	I am me, and you are you.\nThat's all there is to it.	
+qev02_040.scr:20	qev02_040.scr	20	ハロルド	Harold Berselius	personagem		カイウスは、気にし過ぎ	Caius, you worry too much.	
+qev02_040.scr:21	qev02_040.scr	21	カイウス	Caius Qualls	personagem		そう……なのかな	You think......so?	
+qev02_040.scr:22	qev02_040.scr	22	エミル	Emil Castagnier	personagem	CRLF x1	でも……、僕も、\nカイウスはカイウスだって思うな	But......I also think\nCaius is just Caius.	
+qev02_040.scr:23	qev02_040.scr	23	エミル	Emil Castagnier	personagem	CRLF x2	色んな人がいるんだから、\nそれぞれどこかが違っていて\n当たり前なんじゃないかって思うよ	Everyone's different somewhere,\nand I think that's perfectly\nnormal.	
+qev02_040.scr:24	qev02_040.scr	24	ハロルド	Harold Berselius	personagem	CRLF x1	はいはい。\n込み入った話はここまで〜	All right, all right.\nDeep talk ends here!	
+qev02_040.scr:25	qev02_040.scr	25	ハロルド	Harold Berselius	personagem		もう十分休憩したわよね？	We've rested long enough, right?	
+qev02_040.scr:26	qev02_040.scr	26	ハロルド	Harold Berselius	personagem		さ、次行くわよ、次♪	Come on, next stop, let's go!	
+qev02_041.scr:0	qev02_041.scr	0	ハロルド	Harold Berselius	personagem	CRLF x1	しっかし、見れば見る程\nあんた達の力って不思議よね〜	But really, the more I look,\nthe more bizarre your powers are.	
+qev02_041.scr:1	qev02_041.scr	1	ハロルド	Harold Berselius	personagem	CRLF x2	ね、エミル。\n試しにちょ〜っとだけ\n被験体になるつもり、ない？	Say, Emil.\nHow about being my test subject,\njust for a teensy bit?	
+qev02_041.scr:2	qev02_041.scr	2	エミル	Emil Castagnier	personagem	CRLF x1	い、いやに決まってるよ！\nそんなの……	N-No way!\nAbsolutely not......	
+qev02_041.scr:3	qev02_041.scr	3	ハロルド	Harold Berselius	personagem	CRLF x1	大〜〜丈夫よ。\n痛い事なんて何もないから	It'll be fi~ne.\nNothing painful at all, I promise.	
+qev02_041.scr:4	qev02_041.scr	4	ハロルド	Harold Berselius	personagem		最・初・は∀	At... first!	
+qev02_041.scr:5	qev02_041.scr	5	エミル	Emil Castagnier	personagem	CRLF x1	ちょ、ちょっと待ってよ、\nやめ……	W-Wait, hold on,\nstop......	
+qev02_041.scr:6	qev02_041.scr	6	エミル	Emil Castagnier	personagem		……やめろって言ってんだろうが！！	......I said cut it out!!	
+qev02_041.scr:7	qev02_041.scr	7	ハロルド	Harold Berselius	personagem	CRLF x1	おおっ！\n出たわね、黒エミル！！	Ooh!\nThere it is--Dark Emil!!	
+qev02_041.scr:8	qev02_041.scr	8	ハロルド	Harold Berselius	personagem		今日こそ、その変身のヒミツ……	Today, that transformation secret...	
+qev02_041.scr:9	qev02_041.scr	9	ハロルド	Harold Berselius	personagem		暴かせてもらっちゃうから∀	I'm going to uncover it all!	
+qev02_041.scr:10	qev02_041.scr	10	エミル	Emil Castagnier	personagem		このマッドサイエンティストが……	You mad scientist......	
+qev02_041.scr:11	qev02_041.scr	11	エミル	Emil Castagnier	personagem	CRLF x1	上等だ。\n返り討ちにしてやるぜ！！	Bring it on.\nI'll wipe the floor with you!!	
+qev02_041.scr:12	qev02_041.scr	12	カイウス	Caius Qualls	personagem		……ふっ	......Heh.	
+qev02_041.scr:13	qev02_041.scr	13	カイウス	Caius Qualls	personagem		……あははははっ	......Ahahahaha!	
+qev02_041.scr:14	qev02_041.scr	14	カイウス	Caius Qualls	personagem	CRLF x1	二人とも、本当、\n普通じゃない、よな	You two really are\nanything but normal.	
+qev02_041.scr:15	qev02_041.scr	15	エミル	Emil Castagnier	personagem	CRLF x1	何だ？\nいきなり	What?\nOut of nowhere.	
+qev02_041.scr:16	qev02_041.scr	16	ハロルド	Harold Berselius	personagem	CRLF x1	あら。\n今更そんな事に気付いたの	Oh my.\nYou're only just now noticing?	
+qev02_041.scr:17	qev02_041.scr	17	ハロルド	Harold Berselius	personagem	CRLF x2	みんながみんな一緒だったら、\nつまんないでしょ。\n「普通」なんてまっぴらゴメンよ	If everyone were the same,\nit'd be so boring.\n'Normal'? No thanks.	
+qev02_041.scr:18	qev02_041.scr	18	ハロルド	Harold Berselius	personagem		何か文句ある？	Got a problem with that?	
+qev02_041.scr:19	qev02_041.scr	19	カイウス	Caius Qualls	personagem		いや……ないよ	No......not at all.	
+qev02_041.scr:20	qev02_041.scr	20	カイウス	Caius Qualls	personagem		文句なんて……ないさ	No complaints......at all.	
+qev02_050.scr:0	qev02_050.scr	0	ハロルド	Harold Berselius	personagem	CRLF x2	ま、これくらいあれば\nしばらくカニ三昧の\n生活をおくれるでしょ♪	Well, this should be enough crabs\nfor a while of crab-filled\nliving!	
+qev02_050.scr:1	qev02_050.scr	1	ハロルド	Harold Berselius	personagem	CRLF x1	よし。\n皆の者、撤収〜〜！	Right then.\nEveryone, we're heading back!	
+qev02_050.scr:2	qev02_050.scr	2	エミル	Emil Castagnier	personagem	CRLF x1	うう……。\n待ってよ、ハロルドさん……	Ugh......\nWait up, Harold......	
+qev02_050.scr:3	qev02_050.scr	3	エミル	Emil Castagnier	personagem		カニ……重いよ……	The crabs......are so heavy......	
+qev02_050.scr:4	qev02_050.scr	4	カイウス	Caius Qualls	personagem	CRLF x2	いいよ、こっちはオレが持つ。\n獣人化してれば、このくらい\n何でもないからさ	It's fine, I'll carry those.\nIn beast form, something like this\nis nothing.	
+qev02_050.scr:5	qev02_050.scr	5	カイウス	Caius Qualls	personagem		……早く戻って、一緒にカニ食おうぜ	......Let's hurry back and eat crab.	
+qev02_050.scr:6	qev02_050.scr	6	エミル	Emil Castagnier	personagem		カイウス……	Caius......	
+qev02_050.scr:7	qev02_050.scr	7	エミル	Emil Castagnier	personagem		……うん！	......Yeah!	
+qev02_060.scr:0	qev02_060.scr	0	ハロルド	Harold Berselius	personagem		みんな、ご苦労だったわね	Good work, everyone.	
+qev02_060.scr:1	qev02_060.scr	1	ハロルド	Harold Berselius	personagem	CRLF x1	じゃ、このまま戦利品のカニに\nむしゃぶり付きたい人は〜……	Now then, anyone who wants to dig\ninto our hard-won crab haul......	
+qev02_060.scr:2	qev02_060.scr	2	カイウス	Caius Qualls	personagem		……ルビア！	......Rubia!	
+qev02_060.scr:3	qev02_060.scr	3	ハロルド	Harold Berselius	personagem	CRLF x1	ん？\nちょっと何よ？	Hm?\nHey, what gives?	
+qev02_060.scr:4	qev02_060.scr	4	エミル	Emil Castagnier	personagem		いいから	It's fine.	
+qev02_060.scr:5	qev02_060.scr	5	エミル	Emil Castagnier	personagem		今は、二人だけにしてあげよう？	Let's leave those two alone, okay?	
+qev02_060.scr:6	qev02_060.scr	6	カイウス	Caius Qualls	personagem		あのさ、ルビア……ごめん	Listen, Rubia......I'm sorry.	
+qev02_060.scr:7	qev02_060.scr	7	カイウス	Caius Qualls	personagem	CRLF x1	オレ……酷い事言ったよな。\nルビアはオレの事を考えてくれてたのに	I......said terrible things.\nRubia was thinking about me, and...	
+qev02_060.scr:8	qev02_060.scr	8	カイウス	Caius Qualls	personagem	CRLF x1	オレは……、ちっともルビアの気持ち\n考えられてなくて……	I......wasn't considering Rubia's\nfeelings at all......	
+qev02_060.scr:9	qev02_060.scr	9	カイウス	Caius Qualls	personagem		本当に……ごめん……	I'm truly......sorry......	
+qev02_060.scr:10	qev02_060.scr	10	ルビア	Rubia Natwick	personagem		……もう、いいわ	......It's okay now.	
+qev02_060.scr:11	qev02_060.scr	11	ルビア	Rubia Natwick	personagem	CRLF x2	カイウスが子どもっぽいのは、\nず〜っと前からわかってたし。\n許してあげない事もないわよ	I've known Caius is childish for\na lo~ng time now.\nI suppose I can forgive you.	
+qev02_060.scr:12	qev02_060.scr	12	カイウス	Caius Qualls	personagem	CRLF x2	何だよ、それ。\n人が素直に謝ってるのに、\nそういう言い方は……	What's that supposed to mean?\nI'm sincerely apologizing here,\nand you say it like that......	
+qev02_060.scr:13	qev02_060.scr	13	ルビア	Rubia Natwick	personagem		だから、約束して	So, promise me.	
+qev02_060.scr:14	qev02_060.scr	14	ルビア	Rubia Natwick	personagem	CRLF x1	もう、一人で悩んだり\n思い詰めたりしないって	That you won't bottle things up\nor brood all by yourself anymore.	
+qev02_060.scr:15	qev02_060.scr	15	ルビア	Rubia Natwick	personagem	CRLF x1	カイウスはカイウスなんだから。\nどんな姿だって、カイウスなんだから……	You are you, Caius.\nNo matter what form you take.	
+qev02_060.scr:16	qev02_060.scr	16	カイウス	Caius Qualls	personagem		ルビア……	Rubia......	
+qev02_060.scr:17	qev02_060.scr	17	カイウス	Caius Qualls	personagem	CRLF x1	ああ、約束する。\nもう一人で悩んだりしないよ	Yeah, I promise.\nI won't brood alone anymore.	
+qev02_060.scr:18	qev02_060.scr	18	カイウス	Caius Qualls	personagem	CRLF x2	もし次に悩んだら、\nみんなに……ルビアにちゃんと話すよ。\n一人で抱えたりしない	If I'm ever troubled again,\nI'll talk to everyone...to Rubia.\nI won't carry it alone.	
+qev02_060.scr:19	qev02_060.scr	19	ルビア	Rubia Natwick	personagem	CRLF x1	本当ね？\nその言葉に嘘はないわね	Really?\nYou swear you're not lying?	
+qev02_060.scr:20	qev02_060.scr	20	カイウス	Caius Qualls	personagem		ああ	Yeah.	
+qev02_060.scr:21	qev02_060.scr	21	ルビア	Rubia Natwick	personagem	CRLF x1	嘘吐いたら、\nハリセンボン飲んでもらうから	If you're lying,\nyou'll swallow a porcupine fish.	
+qev02_060.scr:22	qev02_060.scr	22	カイウス	Caius Qualls	personagem		そんなの、どうやって飲むんだよ	How would anyone even swallow one?	
+qev02_060.scr:23	qev02_060.scr	23	ルビア	Rubia Natwick	personagem		どうやっても飲ませるの！	I'll make you, no matter what!	
+qev02_060.scr:24	qev02_060.scr	24	ルビア	Rubia Natwick	personagem		……じゃ、カイウス？	......Hey, Caius?	
+qev02_060.scr:25	qev02_060.scr	25	カイウス	Caius Qualls	personagem		今度は何だよ	What is it now?	
+qev02_060.scr:26	qev02_060.scr	26	ルビア	Rubia Natwick	personagem		お帰りなさい	Welcome back.	
+qev02_060.scr:27	qev02_060.scr	27	カイウス	Caius Qualls	personagem		ああ……	Yeah......	
+qev02_060.scr:28	qev02_060.scr	28	カイウス	Caius Qualls	personagem		……ただいま！	......I'm home!	

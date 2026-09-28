@@ -1,0 +1,158 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev55_010.scr:0	cev55_010.scr	0	ルカ	Ruca Milda	personagem		…………		
+cev55_010.scr:1	cev55_010.scr	1	ジェイド	Jade Curtiss	personagem	CRLF x1	どうしました？\n私に何か御用でしょうか		
+cev55_010.scr:2	cev55_010.scr	2	ルカ	Ruca Milda	personagem		っ！		
+cev55_010.scr:3	cev55_010.scr	3	ルカ	Ruca Milda	personagem	CRLF x1	あ、あの……。\n変な事、聞いてたらごめんなさい		
+cev55_010.scr:4	cev55_010.scr	4	ルカ	Ruca Milda	personagem	CRLF x1	その、アッシュ、さんって\nど……どんな人なんですか？		
+cev55_010.scr:5	cev55_010.scr	5	ジェイド	Jade Curtiss	personagem	CRLF x1	これはまた\n随分漠然とした質問ですねえ		
+cev55_010.scr:6	cev55_010.scr	6	ジェイド	Jade Curtiss	personagem		どう、というのは？		
+cev55_010.scr:7	cev55_010.scr	7	ルカ	Ruca Milda	personagem		え、えっと……		
+cev55_010.scr:8	cev55_010.scr	8	ルカ	Ruca Milda	personagem	CRLF x1	どんな風に育ったのかな、とか\nご両親は、どんな人なのかな、とか		
+cev55_010.scr:9	cev55_010.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x1	そうですねぇ。\nそういう意味でしたら		
+cev55_010.scr:10	cev55_010.scr	10	ジェイド	Jade Curtiss	personagem	CRLF x2	両陛下はご健在ですし、王位継承者として\n英才教育を受けて育った事を除けば\nいたって普通の家族構成ですよ		
+cev55_010.scr:11	cev55_010.scr	11	ジェイド	Jade Curtiss	personagem	CRLF x1	ただ、いわゆる家庭内の問題は\n色々ありますがね		
+cev55_010.scr:12	cev55_010.scr	12	ルカ	Ruca Milda	personagem	CRLF x1	……ご両親とは\nうまくいってないんですか？		
+cev55_010.scr:13	cev55_010.scr	13	ジェイド	Jade Curtiss	personagem	CRLF x2	さあ。\n私はアッシュではないので\nわかりませんが		
+cev55_010.scr:14	cev55_010.scr	14	ジェイド	Jade Curtiss	personagem	CRLF x2	そもそも互いの関係が良好であるか\nどうかという判断は、多分に\n個人の価値観に左右されるものなのでは？		
+cev55_010.scr:15	cev55_010.scr	15	ジェイド	Jade Curtiss	personagem	CRLF x2	表面的には良好に見えても、\n事実そうであるかどうかは\nまた別の話ですし		
+cev55_010.scr:16	cev55_010.scr	16	ジェイド	Jade Curtiss	personagem	CRLF x1	どうしても気になるというなら\n本人に直接聞いてみてはどうです？		
+cev55_010.scr:17	cev55_010.scr	17	ルカ	Ruca Milda	personagem		……そう、ですね		
+cev55_010.scr:18	cev55_010.scr	18	ジェイド	Jade Curtiss	personagem		……と		
+cev55_010.scr:19	cev55_010.scr	19	ジェイド	Jade Curtiss	personagem	CRLF x1	こんな感じで良かったのでしょうか、\nアッシュ？		
+cev55_010.scr:20	cev55_010.scr	20	アッシュ	Asch	personagem		ちっ……、あいつ……		
+cev55_010.scr:21	cev55_010.scr	21	ジェイド	Jade Curtiss	personagem	CRLF x1	ご友人と早速喧嘩ですか？\nいやぁ、歳相応で微笑ましい限りですねぇ		
+cev55_010.scr:22	cev55_010.scr	22	アッシュ	Asch	personagem	CRLF x1	うるせぇ！\n……そんなんじゃねぇ		
+cev55_010.scr:23	cev55_010.scr	23	ジェイド	Jade Curtiss	personagem		おやおや……		
+cev55_020.scr:0	cev55_020.scr	0	ルーク	Luke fon Fabre	personagem	CRLF x1	だから……、\nお前はムカつくっつーんだよ！		
+cev55_020.scr:1	cev55_020.scr	1	アッシュ	Asch	personagem		くっ……		
+cev55_020.scr:2	cev55_020.scr	2	アッシュ	Asch	personagem		屑の分際で……粋がるんじゃねえ！		
+cev55_020.scr:3	cev55_020.scr	3	ルーク	Luke fon Fabre	personagem		ぐはっ……		
+cev55_020.scr:4	cev55_020.scr	4	ルーク	Luke fon Fabre	personagem		俺は……屑じゃ……ねえ！		
+cev55_020.scr:5	cev55_020.scr	5	ジェイド	Jade Curtiss	personagem	CRLF x2	おやおや。\nこれはまた、随分暑苦しい青春ドラマが\n展開されていますねえ		
+cev55_020.scr:6	cev55_020.scr	6	アニー	Annie Barrs	personagem	CRLF x1	もう……馬鹿な事を言っていないで\n二人を止めて下さい！		
+cev55_020.scr:7	cev55_020.scr	7	ジェイド	Jade Curtiss	personagem		お断りします		
+cev55_020.scr:8	cev55_020.scr	8	ジェイド	Jade Curtiss	personagem	CRLF x1	二人も子どもではないのですから\n外野は静観するのが一番でしょう		
+cev55_020.scr:9	cev55_020.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x1	それに、なかなか面白い\n見世物になっていると思いますよ		
+cev55_020.scr:10	cev55_020.scr	10	アニー	Annie Barrs	personagem		面白がっている場合ですか……！		
+cev55_020.scr:11	cev55_020.scr	11	アッシュ	Asch	personagem		フン、大口叩いてこの程度か……		
+cev55_020.scr:12	cev55_020.scr	12	アッシュ	Asch	personagem	CRLF x1	やはり……お前は……\n役立たずの屑だな！！		
+cev55_020.scr:13	cev55_020.scr	13	ルーク	Luke fon Fabre	personagem		ぐあぁ……ッ！！		
+cev55_020.scr:14	cev55_020.scr	14	アッシュ	Asch	personagem	CRLF x1	……俺に、思っている事を\n言えと言ったな？		
+cev55_020.scr:15	cev55_020.scr	15	アッシュ	Asch	personagem	CRLF x1	……言って、お前に意味が通じるなら\nとうにそうしている		
+cev55_020.scr:16	cev55_020.scr	16	ルーク	Luke fon Fabre	personagem	CRLF x2	……何だよそれ。\n俺をもの知らずだと思って\nバカにしてんのか？		
+cev55_020.scr:17	cev55_020.scr	17	アッシュ	Asch	personagem	CRLF x2	ああ、そうだな。\nここまで言って伝わらないなら\n事実お前はバカなんだろうさ		
+cev55_020.scr:18	cev55_020.scr	18	ルーク	Luke fon Fabre	personagem		待て……！		
+cev55_020.scr:19	cev55_020.scr	19	ルーク	Luke fon Fabre	personagem		ッ、痛ぅ……		
+cev55_020.scr:20	cev55_020.scr	20	アニー	Annie Barrs	personagem	CRLF x1	大丈夫ですか？\n手当てしますから、じっとしていて下さい		
+cev55_020.scr:21	cev55_020.scr	21	ルーク	Luke fon Fabre	personagem		くっそ……あいつ……		
+cev55_020.scr:22	cev55_020.scr	22	ジェイド	Jade Curtiss	personagem		…………		
+cev55_030.scr:0	cev55_030.scr	0	クロエ	Chloe Valens	personagem	CRLF x1	すまない、ファブレ。\n少し手を貸してもらえないか？		
+cev55_030.scr:1	cev55_030.scr	1	ルーク	Luke fon Fabre	personagem	CRLF x1	ルーク　：あ？　何だ？\nアッシュ：何だ……どうした？		
+cev55_030.scr:2	cev55_030.scr	2	クロエ	Chloe Valens	personagem	CRLF x2	いや……申し訳ない。\n私が呼んだのは\nアッシュ・フォン・ファブレだ		
+cev55_030.scr:3	cev55_030.scr	3	ルーク	Luke fon Fabre	personagem	CRLF x2	はぁ？　\nんだよ、アッシュに用事かよ。\nいちいち紛らわしいっつーの！		
+cev55_030.scr:4	cev55_030.scr	4	ルーク	Luke fon Fabre	personagem		普通に呼べよな、ふ・つ・う・に！		
+cev55_030.scr:5	cev55_030.scr	5	クロエ	Chloe Valens	personagem		す……すまない……		
+cev55_030.scr:6	cev55_030.scr	6	アッシュ	Asch	personagem	CRLF x1	こんな屑の言う事など\n真に受けなくていい		
+cev55_030.scr:7	cev55_030.scr	7	アッシュ	Asch	personagem		それより、何の用だ		
+cev55_030.scr:8	cev55_030.scr	8	クロエ	Chloe Valens	personagem		ああ、実は……		
+cev55_030.scr:9	cev55_030.scr	9	ルーク	Luke fon Fabre	personagem	CRLF x2	な〜にカッコつけてんだよ！\nつか、お前に\nクズ呼ばわりされる覚えはねえ！		
+cev55_030.scr:10	cev55_030.scr	10	アッシュ	Asch	personagem	CRLF x2	黙っていろ、この屑が！\nお前がくだらん発言をする度に\n王家の名誉が貶められるとなぜわからない！		
+cev55_030.scr:11	cev55_030.scr	11	ルーク	Luke fon Fabre	personagem	CRLF x1	ほお〜〜？\n発言する度、何だって？		
+cev55_030.scr:12	cev55_030.scr	12	アッシュ	Asch	personagem	CRLF x2	ふん、とうとう耳まで遠くなったか？\n都合の悪い話には耳をふさぐ……。\nいかにも、屑の考え付きそうな浅知恵だ		
+cev55_030.scr:13	cev55_030.scr	13	ルーク	Luke fon Fabre	personagem		何ぃ〜〜！？		
+cev55_030.scr:14	cev55_030.scr	14	クロエ	Chloe Valens	personagem	CRLF x1	ちょ……二人とも！\nやめないか！！		
+cev55_030.scr:15	cev55_030.scr	15	ルーク	Luke fon Fabre	personagem		うるせえ！！		
+cev55_040.scr:0	cev55_040.scr	0	セルシウス	Celsius	personagem	CRLF x1	どうして、そんなに悲しい目で\n光を見るの		
+cev55_040.scr:1	cev55_040.scr	1	セルシウス	Celsius	personagem	CRLF x1	まるで、闇から光を\n見つめているかの様ね		
+cev55_040.scr:2	cev55_040.scr	2	アッシュ	Asch	personagem	CRLF x1	……眩しさに目をすがめていただけだ。\n何が悪い		
+cev55_040.scr:3	cev55_040.scr	3	セルシウス	Celsius	personagem		本当に、それだけかしら		
+cev55_040.scr:4	cev55_040.scr	4	アッシュ	Asch	personagem		他に何がある？		
+cev55_040.scr:5	cev55_040.scr	5	アッシュ	Asch	personagem	CRLF x1	俺が感傷的になっていたとでも\n言いたいのか		
+cev55_040.scr:6	cev55_040.scr	6	セルシウス	Celsius	personagem	CRLF x1	そう見えたから、\n「どうして」と尋ねたのよ		
+cev55_040.scr:7	cev55_040.scr	7	アッシュ	Asch	personagem	CRLF x2	フン……精霊様は\n人間の事なら何でもお見通しと\n言いたいわけか。　くだらん		
+cev55_040.scr:8	cev55_040.scr	8	セルシウス	Celsius	personagem	CRLF x1	あなたの心には、惑いがある。\n……それは、何に対しての惑い？		
+cev55_040.scr:9	cev55_040.scr	9	セルシウス	Celsius	personagem		……マナの乱れが収まった		
+cev55_040.scr:10	cev55_040.scr	10	セルシウス	Celsius	personagem		……ヒトというのは、不思議ね……		
+cev55_050.scr:0	cev55_050.scr	0	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	……アッシュ君？\nアッシュ君ではないか？		
+cev55_050.scr:1	cev55_050.scr	1	ウッドロウ	Woodrow Kelvin	personagem		やはり、そうか		
+cev55_050.scr:2	cev55_050.scr	2	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	久しぶりだね。\nナタリア君の生誕祭以来か		
+cev55_050.scr:3	cev55_050.scr	3	アッシュ	Asch	personagem		ウッドロウ！？		
+cev55_050.scr:4	cev55_050.scr	4	アッシュ	Asch	personagem	CRLF x1	旅に出たと聞いていたぞ。\nどうしてここに？		
+cev55_050.scr:5	cev55_050.scr	5	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	このギルドにいれば、より民の声を\n身近に感じられるかと思ってね		
+cev55_050.scr:6	cev55_050.scr	6	アッシュ	Asch	personagem	CRLF x1	なるほど……。\nお前も、このギルドに厄介になるわけか		
+cev55_050.scr:7	cev55_050.scr	7	アッシュ	Asch	personagem	CRLF x1	……それならそうと、連絡ぐらい\n寄越したらどうだ		
+cev55_050.scr:8	cev55_050.scr	8	アッシュ	Asch	personagem	CRLF x2	お前は所在が掴めなさ過ぎる。\nそう根無し草の様にしていては\n大臣達の寿命も縮まるぞ		
+cev55_050.scr:9	cev55_050.scr	9	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	そうだな、君がいるとわかっていれば\n事前に連絡をするべきだったと思う。\nすまない		
+cev55_050.scr:10	cev55_050.scr	10	アッシュ	Asch	personagem	CRLF x1	別に……俺はそんな\n細かい事が言いたいんじゃない		
+cev55_050.scr:11	cev55_050.scr	11	ウッドロウ	Woodrow Kelvin	personagem		ふふ、そうか		
+cev55_050.scr:12	cev55_050.scr	12	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	積もる話もあるだろう。\nどうだろう、近々\n食事でもしながら話せないだろうか		
+cev55_050.scr:13	cev55_050.scr	13	アッシュ	Asch	personagem		それは公式の誘いか？		
+cev55_050.scr:14	cev55_050.scr	14	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	無論、ごく個人的なものだよ。\n多忙なら、断ってくれて構わない		
+cev55_050.scr:15	cev55_050.scr	15	アッシュ	Asch	personagem		……ふっ		
+cev55_050.scr:16	cev55_050.scr	16	アッシュ	Asch	personagem	CRLF x1	ならば、悪くないな。\n考えておこう		
+cev55_050.scr:17	cev55_050.scr	17	ウッドロウ	Woodrow Kelvin	personagem	CRLF x1	ありがたい。\n楽しみにしているよ		
+cev55_060.scr:0	cev55_060.scr	0	アッシュ	Asch	personagem	CRLF x2	そうか……。\nあの国も、ついに反乱分子が\n動き出したか		
+cev55_060.scr:1	cev55_060.scr	1	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	ああ。\n民は皆、緊張した空気の中で\n生活する事を余儀なくされている		
+cev55_060.scr:2	cev55_060.scr	2	ウッドロウ	Woodrow Kelvin	personagem		痛ましい事だ……		
+cev55_060.scr:3	cev55_060.scr	3	アッシュ	Asch	personagem	CRLF x2	仕方がないだろう。\n市井の声に耳を傾けて来なかった\n愚鈍な政治の、当然の帰結だ		
+cev55_060.scr:4	cev55_060.scr	4	ウッドロウ	Woodrow Kelvin	personagem		ふふ……相変わらず、辛辣だね		
+cev55_060.scr:5	cev55_060.scr	5	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	それでも、\nやはり武力蜂起という手段に\n私は賛同する事は出来ないよ		
+cev55_060.scr:6	cev55_060.scr	6	アッシュ	Asch	personagem	CRLF x1	何事も、\n話し合いで解決出来る、か？		
+cev55_060.scr:7	cev55_060.scr	7	アッシュ	Asch	personagem	CRLF x1	フン……。\nお前は相変わらず、甘いな		
+cev55_060.scr:8	cev55_060.scr	8	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	そう言う割に、君が存外\n他人に献身的なのを、\n私は知っているよ		
+cev55_060.scr:9	cev55_060.scr	9	アッシュ	Asch	personagem		な……ふ、ふざけた事を言うな！		
+cev55_060.scr:10	cev55_060.scr	10	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	ふざけてなどいない。\nナタリア君も常々、君の優しさや\n聡明さを評価していると話していた		
+cev55_060.scr:11	cev55_060.scr	11	ウッドロウ	Woodrow Kelvin	personagem	CRLF x2	もっとも、その言動で誤解が多い事や\n少々先走る事がある事なども\n随分と心配していた様だがね		
+cev55_060.scr:12	cev55_060.scr	12	アッシュ	Asch	personagem	CRLF x2	黙れ！　\n俺の知らないところで\n適当な事言ってんじゃねえ！！		
+cev55_060.scr:13	cev55_060.scr	13	アッシュ	Asch	personagem	CRLF x1	……気分が悪い。\n帰るぞ！		
+cev55_060.scr:14	cev55_060.scr	14	ウッドロウ	Woodrow Kelvin	personagem		……怒らせてしまったかな？		
+cev55_070.scr:0	cev55_070.scr	0	アッシュ	Asch	personagem		おい、ティトレイ！		
+cev55_070.scr:1	cev55_070.scr	1	アッシュ	Asch	personagem	CRLF x1	貴様、まんまと毒キノコ料理なんか\n食わせやがって……許さねえ！！		
+cev55_070.scr:2	cev55_070.scr	2	ティトレイ	Tytree Crowe	personagem	CRLF x1	うわ、ちょっと待ってくれ！\n悪かったって！！		
+cev55_070.scr:3	cev55_070.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x2	ちょっとした手違いだったんだ！\nほら、失敗は成功のもとって言うだろ？\nだからさ、今度こそご馳走を……		
+cev55_070.scr:4	cev55_070.scr	4	アッシュ	Asch	personagem	CRLF x1	うるせえ！！　\n黙りやがれ！！！		
+cev55_070.scr:5	cev55_070.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x1	いや、だから落ち着けって！\n許して下さい〜〜！！！		
+cev55_080.scr:0	cev55_080.scr	0	シャーリィ	Shirley Fennes	personagem	CRLF x1	お兄ちゃん、とっても頼りになるんだけど\nちょっと過保護なところがあるんだよね		
+cev55_080.scr:1	cev55_080.scr	1	コハク	Kohaku Hearts	personagem	CRLF x1	うん、わかるわかる！\nうちのお兄ちゃんもそうだもん		
+cev55_080.scr:2	cev55_080.scr	2	コハク	Kohaku Hearts	personagem	CRLF x1	大事にしてくれてるのは嬉しいけど。\nちょっと恥ずかしい時もあるよね……		
+cev55_080.scr:3	cev55_080.scr	3	シャーリィ	Shirley Fennes	personagem	CRLF x1	うん、そうだよね。\n嬉しいんだけどね……		
+cev55_080.scr:4	cev55_080.scr	4	アッシュ	Asch	personagem		フン、それくらいならまだマシだ		
+cev55_080.scr:5	cev55_080.scr	5	アッシュ	Asch	personagem	CRLF x1	どんな兄だろうと、\nあの屑よりは数百倍マシだ		
+cev55_080.scr:6	cev55_080.scr	6	シャーリィ	Shirley Fennes	personagem	CRLF x1	そんな言い方……。\nたった一人のお兄さんなのに		
+cev55_080.scr:7	cev55_080.scr	7	アッシュ	Asch	personagem	CRLF x2	うるせえ！　\nあいつのくだらん言動で\n俺がどれだけ恥ずかしい思いをして来たか		
+cev55_080.scr:8	cev55_080.scr	8	アッシュ	Asch	personagem	CRLF x2	買い物の仕方は知らない、\n世界情勢はわからない、\nあちこちで簡単に身分を明かす		
+cev55_080.scr:9	cev55_080.scr	9	アッシュ	Asch	personagem	CRLF x2	おかげでこっちは、\nあいつの後始末に追われてばかりだ。\nくそっ		
+cev55_080.scr:10	cev55_080.scr	10	コハク	Kohaku Hearts	personagem	CRLF x2	ルークはそういうところ、\nあんまり気にしてないみたい\nだもんね……		
+cev55_080.scr:11	cev55_080.scr	11	アッシュ	Asch	personagem	CRLF x1	気にしてないなんて次元じゃねえ。\n大体あいつは……		
+cev55_080.scr:12	cev55_080.scr	12	シャーリィ	Shirley Fennes	personagem		もしかして……		
+cev55_080.scr:13	cev55_080.scr	13	コハク	Kohaku Hearts	personagem		スイッチ入れちゃった……かも？		
+cev55_200.scr:0	cev55_200.scr	0	アッシュ	Asch	personagem	CRLF x1	通常。\n		
+cev55_200.scr:1	cev55_200.scr	1	アッシュ	Asch	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev55_200.scr:2	cev55_200.scr	2	アッシュ	Asch	personagem	CRLF x1	笑い。\n		
+cev55_200.scr:3	cev55_200.scr	3	アッシュ	Asch	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev55_200.scr:4	cev55_200.scr	4	アッシュ	Asch	personagem	CRLF x1	怒り。\n		
+cev55_200.scr:5	cev55_200.scr	5	アッシュ	Asch	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev55_200.scr:6	cev55_200.scr	6	アッシュ	Asch	personagem	CRLF x1	真剣。\n		
+cev55_200.scr:7	cev55_200.scr	7	アッシュ	Asch	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev55_200.scr:8	cev55_200.scr	8	アッシュ	Asch	personagem	CRLF x1	微笑。\n		
+cev55_200.scr:9	cev55_200.scr	9	アッシュ	Asch	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev55_200.scr:10	cev55_200.scr	10	アッシュ	Asch	personagem	CRLF x1	通常。\n		
+cev55_200.scr:11	cev55_200.scr	11	アッシュ	Asch	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev55_200.scr:12	cev55_200.scr	12	アッシュ	Asch	personagem	CRLF x1	笑い。\n		
+cev55_200.scr:13	cev55_200.scr	13	アッシュ	Asch	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev55_200.scr:14	cev55_200.scr	14	アッシュ	Asch	personagem	CRLF x1	怒り。\n		
+cev55_200.scr:15	cev55_200.scr	15	アッシュ	Asch	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev55_200.scr:16	cev55_200.scr	16	アッシュ	Asch	personagem	CRLF x1	真剣。\n		
+cev55_200.scr:17	cev55_200.scr	17	アッシュ	Asch	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev55_200.scr:18	cev55_200.scr	18	アッシュ	Asch	personagem	CRLF x1	微笑。\n		
+cev55_200.scr:19	cev55_200.scr	19	アッシュ	Asch	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev55_200.scr:20	cev55_200.scr	20	アッシュ	Asch	personagem	CRLF x1	通常。\n		
+cev55_200.scr:21	cev55_200.scr	21	アッシュ	Asch	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev55_200.scr:22	cev55_200.scr	22	アッシュ	Asch	personagem	CRLF x1	笑い。\n		
+cev55_200.scr:23	cev55_200.scr	23	アッシュ	Asch	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev55_200.scr:24	cev55_200.scr	24	アッシュ	Asch	personagem	CRLF x1	怒り。\n		
+cev55_200.scr:25	cev55_200.scr	25	アッシュ	Asch	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev55_200.scr:26	cev55_200.scr	26	アッシュ	Asch	personagem	CRLF x1	真剣。\n		
+cev55_200.scr:27	cev55_200.scr	27	アッシュ	Asch	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev55_200.scr:28	cev55_200.scr	28	アッシュ	Asch	personagem	CRLF x1	微笑。\n		
+cev55_200.scr:29	cev55_200.scr	29	アッシュ	Asch	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

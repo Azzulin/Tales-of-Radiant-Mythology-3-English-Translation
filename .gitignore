@@ -1,0 +1,33 @@
+# --- Arquivos do jogo: NUNCA versionar (direitos autorais + tamanho) ---
+*.iso
+*.cso
+*.pbp
+RM3/eboot/
+RM3/extraido/
+*.prx
+
+# --- Documentacao .md fica local (decisao do mantenedor) ---
+*.md
+!/README.md
+
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Backups e rascunhos ---
+*.bak
+*.bak_*
+RM3/scratch/
+scratch_elenco.csv
+
+# --- Configuracao local de ferramentas/editores ---
+.claude/
+.obsidian/
+Claude outputs/
+*.canvas
+*.url
+*.lock
+RM3/--help
+
+# --- Arquivo redundante de skills/avaliacao/ (contem caminho pessoal) ---
+RM3/skills/avaliacao/skills_rm3.tar.gz

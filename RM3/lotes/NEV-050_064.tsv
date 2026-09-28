@@ -1,0 +1,306 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+nev01_050.scr:0	nev01_050.scr	0	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	……驚いたわ。大佐の持っている軍艦と\n比較しても、遜色のない船なのね。\nこれがアドリビトム……		
+nev01_050.scr:1	nev01_050.scr	1	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ルークはあの通りの箱入りだから……。\nあなたを不快な気持ちにさせる事も\nあるかもしれないわ。……ごめんなさい		
+nev01_050.scr:2	nev01_050.scr	2	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ヒトの祖……なんて、考えもつかないわね。\n「始まりのヒト」の事は、これまで\nどの文献にも残っていなかったんだもの		
+nev01_050.scr:3	nev01_050.scr	3	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	そう言えば、以前ラザリスが奉られていたのは\n「希望灯受体の間」……伝承で、\nディセンダーが現れるとされた場所よ		
+nev01_050.scr:4	nev01_050.scr	4	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	「暁の従者」は、本当にラザリスを\n救世主と信じて崇めていたのね……。\nだからこそ、あの遺跡を拠点としたんだわ		
+nev01_050.scr:5	nev01_050.scr	5	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	生きる為に、自ら変化を選ぶなんて……、\n植物達はしたたかで、強いわね。\nそれに比べれば、ヒトはまだまだだわ……		
+nev01_050.scr:6	nev01_050.scr	6	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ルークのわがままに付き合わされる事も\nあるでしょう？　ごめんなさいね。\nあなたは優しいから……		
+nev01_050.scr:7	nev01_050.scr	7	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	「汗を流すパン」というくらいだから\nウズマキフスベは、不気味で\n異常なものなのかと思っていたけれど		
+nev01_050.scr:8	nev01_050.scr	8	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	でも、違うのね。「常と異なる」というだけで\n不気味でも何でもない、彼らも一つの「命」。\nそれに気付いて、自分が恥ずかしくなったわ		
+nev01_050.scr:9	nev01_050.scr	9	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ヒトは変われるわ。\n暁の従者の変化や、オルタ・ビレッジを見て\n私は改めてそう感じたの		
+nev01_050.scr:10	nev01_050.scr	10	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ヒトだけじゃない……国も、世界も\nラザリスだって変わっていけるはずよ。\nその事を証明しに行きましょう！		
+nev01_050.scr:11	nev01_050.scr	11	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	わざわざ挨拶に来てくれたの？\nありがとう		
+nev01_050.scr:12	nev01_050.scr	12	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	こちらは何とか上手くやっているわ。\n仕事も、新しい世界の様子も順調よ。\nルークは相変わらずだけれど……		
+nev01_050.scr:13	nev01_050.scr	13	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ライマ国のクーデターは収束して、今では\n民の声を直接、政治に反映出来る様な\n議会制の導入も検討され始めているわ		
+nev01_050.scr:14	nev01_050.scr	14	(NPC da guilda)	(NPC da guilda)	personagem		…う………		
+nev01_051.scr:0	nev01_051.scr	0	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	うちのルークお坊ちゃんのわがままで\n困る事があったら言ってくれ。\n俺が責任を持って、よく言って聞かせるからさ		
+nev01_051.scr:1	nev01_051.scr	1	(NPC da guilda)	(NPC da guilda)	personagem		だっ……！！！！		
+nev01_051.scr:2	nev01_051.scr	2	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	い、いや、何でもないんだ……すまない。\n女性が近くにいると、き、緊張してね……。\nハハハ……		
+nev01_051.scr:3	nev01_051.scr	3	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	外交や星晶の問題は、国が総力を挙げて\n今後取り組むべき問題だ。……とは言え\n肝心のルークに、まだまだ緊張感が足りないな		
+nev01_051.scr:4	nev01_051.scr	4	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	体はもう大丈夫なのか？\nあんまり無理はするなよ		
+nev01_051.scr:5	nev01_051.scr	5	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ルークなんて「国から医者を来させる！」って\n無茶言い出して、大変だったんだぜ……はは。\nとにかく、皆が心配してる事は忘れないでくれ		
+nev01_051.scr:6	nev01_051.scr	6	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ニアタを見ているとワクワクするなぁ！\nどういう仕組みで喋ったり、動いてるんだ？\nきっと見た事もない構造に違いないぞ！！		
+nev01_051.scr:7	nev01_051.scr	7	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	次から次へと厄介事ばかり増えていくな。\n……やれやれ、手の掛かる子どもは\nうちのルーク坊ちゃんだけで十分だってのに		
+nev01_051.scr:8	nev01_051.scr	8	(NPC da guilda)	(NPC da guilda)	personagem		ひっ！！？		
+nev01_051.scr:9	nev01_051.scr	9	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	お、驚いたなぁ。そんな近くにいるなんて\n全然気が付かなかったよ……ハハハ		
+nev01_051.scr:10	nev01_051.scr	10	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ヒトは過ちを正し、自分で自分の道を\n切り開ける。ただ、問題はその過ちを受け入れ\n許せる心を持てるかどうか……だろうな		
+nev01_051.scr:11	nev01_051.scr	11	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	俺達はこんな所で倒れるわけにはいかない。\n自分達が世界を壊してきた責任を\n生きてとっていかなきゃならないからな		
+nev01_051.scr:12	nev01_051.scr	12	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	向こうも簡単に折れちゃくれないだろうが\nこの戦い、どうあっても勝ちに行くぞ！		
+nev01_051.scr:13	nev01_051.scr	13	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ギルドの活動を通して、\nルークも良い意味で\n成長する事が出来たみたいだな		
+nev01_051.scr:14	nev01_051.scr	14	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	お前さんみたいな「お気に入り」も\n出来た事だし。あいつの交友関係を広げるのは\nなかなか苦労するよ。全く……		
+nev01_051.scr:15	nev01_051.scr	15	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ギルドの活動を通して、\nルークも良い意味で\n成長する事が出来たみたいだな		
+nev01_051.scr:16	nev01_051.scr	16	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	キミの事も、あいつなりに心配してたらしい。\n女性に何かあったら、俺に叱られるんだとさ。\n本当、素直じゃないな。全く……		
+nev01_051.scr:17	nev01_051.scr	17	(NPC da guilda)	(NPC da guilda)	personagem		君の無茶には参ったよ…		
+nev01_052.scr:0	nev01_052.scr	0	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ここは、思っていたよりずっと\n統率の取れた組織のようですね。\nなるほど、民間の力というのも、侮れません		
+nev01_052.scr:1	nev01_052.scr	1	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	この一件で、盲目的にラザリスを信奉していた\n人々の目は覚めたでしょう。今度こそ\n己の目で、現実を見てくれれば良いのですが		
+nev01_052.scr:2	nev01_052.scr	2	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	搾取のない、平等で平和な世界……。確かに\nこれ以上なく理想的な世界です。実現手段が\nこれ以上なく眉唾なのを除けば、ですが		
+nev01_052.scr:3	nev01_052.scr	3	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	やはり、世界に起きた異変の直接的原因は\n星晶の採掘でしたか。……自業自得と\n言ってしまえばそれまでですが……		
+nev01_052.scr:4	nev01_052.scr	4	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	厄介な人物に気に入られてしまいましたね。\n強い光は、強い闇を引きつける……ラザリスも\nバルバトスも、恐らく例外ではないのでしょう		
+nev01_052.scr:5	nev01_052.scr	5	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	新たなお客人を迎えた事で\n船内は大騒ぎですね。……まあ、\n滅多にない珍客ですから、無理もありませんか		
+nev01_052.scr:6	nev01_052.scr	6	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	惑わされないで下さい。\nわかっていると思いますが、ラザリスの話は\n極論です。あれは事実の一端に過ぎない		
+nev01_052.scr:7	nev01_052.scr	7	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	光と闇が表裏一体である以上、\n闇だけを救う手段など机上の空論でしかない。\n所詮、新たな闇を生み出すだけです		
+nev01_052.scr:8	nev01_052.scr	8	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あの信者達の言葉と行動が、どれほど周囲に\n影響を与えられるかは、正直未知数です。\nですが、信じて賭けるしかないでしょうね……		
+nev01_052.scr:9	nev01_052.scr	9	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	因縁やら奇跡なんて言うモノに、全く興味は\nありませんが。自分がこの世界にした事の\n始末は、自分でつけたいですからね		
+nev01_052.scr:10	nev01_052.scr	10	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	行きましょう、エラン・ヴィタールへ。\n長きに渡る「因縁」の歴史に、\n私達の手で幕を引くんです		
+nev01_052.scr:11	nev01_052.scr	11	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ほう……さすがはディセンダーですね。\nいえ、今はディセンダーというより、\nこの世界に生きる一人のヒト……でしょうか		
+nev01_052.scr:12	nev01_052.scr	12	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あなたがいるだけで、このギルドの活気は\n更に増すでしょう。いやぁ、助かります。\nお願いしたい仕事も、たくさんある事ですしね		
+nev01_052.scr:13	nev01_052.scr	13	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	我々の今後の課題ですが。\n各国がいかに友好的に、協力関係を築けるかが\n鍵になるのは間違いないでしょう		
+nev01_052.scr:14	nev01_052.scr	14	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	一方的な支配や吸収ではなく、合議の元の\n融和……世界樹が身を以て提示してくれた\n可能性です。今度は私達が変わらなければ……		
+nev01_052.scr:15	nev01_052.scr	15	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	やれやれ…、\n年寄りをあんまりいじめないで下さいよ…		
+nev01_053.scr:0	nev01_053.scr	0	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	災厄だか何だか知らないけど、\n大人しくずっと眠ってれば良かったのに〜。\nって、それを起こしたのはヒトなんだけど……		
+nev01_053.scr:1	nev01_053.scr	1	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ここって〜、何気にお金持ちが\n一杯集まってますよねえ！？\nきゃわ〜★　アニスちゃん張り切っちゃう∀		
+nev01_053.scr:2	nev01_053.scr	2	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あのキバが象牙だったら、高く売れたかも\nしれないのに、惜しいですよね〜★\nジルディアのキバなんて超迷惑なだけですぅ〜		
+nev01_053.scr:3	nev01_053.scr	3	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ここって〜、何気にお金持ちが\n一杯集まってますよねえ！？\nきゃわ〜★　アニスちゃん張り切っちゃう∀		
+nev01_053.scr:4	nev01_053.scr	4	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ヴァン総長ってすごい人だけど、\n何考えてるのかいまいち読めないんだよね〜。\n聞いてもはぐらかされる感じだし		
+nev01_053.scr:5	nev01_053.scr	5	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	こうしてドクメントを辿っていくと、\nヒトのせいで滅んでしまった生き物って\n一杯あるんですねえ		
+nev01_053.scr:6	nev01_053.scr	6	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	なのに、滅んじゃった事すら\n忘れられて。\n……何だか可哀相		
+nev01_053.scr:7	nev01_053.scr	7	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ヒトってダメな生き物だよね〜。\n欲しがってばかりで、奪う事しかしない……。\nラザリスが怒るのも無理ないよ		
+nev01_053.scr:8	nev01_053.scr	8	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	でも、だからって何もかも消して\n何もかも「ジルディア」としてやり直すなんて\n無責任だもん。認めるワケにはいかないよっ！		
+nev01_053.scr:9	nev01_053.scr	9	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	大佐は、外交戦略会議とか外交交渉で\n最近すっごく忙しそうにしてますよ〜。\nまあ、戦争で忙しいより全然いいですけど★		
+nev01_053.scr:10	nev01_053.scr	10	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	わかってないな〜、も〜。\nこーゆー時って、ケーキくらい\n持ってくるもんじゃない？		
+nev01_053.scr:11	nev01_053.scr	11	(NPC da guilda)	(NPC da guilda)	personagem		イベント実行環境の設定を行いますぅ		
+nev01_053.scr:12	nev01_053.scr	12	(NPC da guilda)	(NPC da guilda)	personagem		やめるね		
+nev01_053.scr:13	nev01_053.scr	13	(NPC da guilda)	(NPC da guilda)	personagem		イベント実行環境の設定を行いますぅ		
+nev01_053.scr:14	nev01_053.scr	14	(NPC da guilda)	(NPC da guilda)	personagem		やめるね		
+nev01_053.scr:15	nev01_053.scr	15	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	イベント実行環境の設定を行いますぅ。\n今回はぁ、特別製ですよぉ∀		
+nev01_053.scr:16	nev01_053.scr	16	(NPC da guilda)	(NPC da guilda)	personagem		やめるね		
+nev01_053.scr:17	nev01_053.scr	17	(NPC da guilda)	(NPC da guilda)	personagem		イベントスキップを有効にしましたぁ		
+nev01_053.scr:18	nev01_053.scr	18	(NPC da guilda)	(NPC da guilda)	personagem		イベントスキップを無効にしましたぁ		
+nev01_053.scr:19	nev01_053.scr	19	(NPC da guilda)	(NPC da guilda)	personagem		イベント番号を表示しますぅ		
+nev01_053.scr:20	nev01_053.scr	20	(NPC da guilda)	(NPC da guilda)	personagem		イベント番号を表示しませぇん		
+nev01_053.scr:21	nev01_053.scr	21	(NPC da guilda)	(NPC da guilda)	personagem		イベント編集機能を有効にしましたぁ		
+nev01_053.scr:22	nev01_053.scr	22	(NPC da guilda)	(NPC da guilda)	personagem		イベント編集機能を無効にしましたぁ		
+nev01_053.scr:23	nev01_053.scr	23	(NPC da guilda)	(NPC da guilda)	personagem		会話時に顔を表示しますぅ		
+nev01_053.scr:24	nev01_053.scr	24	(NPC da guilda)	(NPC da guilda)	personagem		会話時に顔を表示しませんよぉ		
+nev01_053.scr:25	nev01_053.scr	25	(NPC da guilda)	(NPC da guilda)	personagem		会話時に一言ボイスを喋りますね		
+nev01_053.scr:26	nev01_053.scr	26	(NPC da guilda)	(NPC da guilda)	personagem		会話時に一言ボイスを喋りませんよぉ		
+nev01_053.scr:27	nev01_053.scr	27	(NPC da guilda)	(NPC da guilda)	personagem		一部イベントを専用マップで起動しますね∀		
+nev01_053.scr:28	nev01_053.scr	28	(NPC da guilda)	(NPC da guilda)	personagem		イベントは移動マップで起動されます		
+nev01_053.scr:29	nev01_053.scr	29	(NPC da guilda)	(NPC da guilda)	personagem		雑魚に用なんてありませんよねぇ∀		
+nev01_053.scr:30	nev01_053.scr	30	(NPC da guilda)	(NPC da guilda)	personagem		雑魚ども出しちゃいますよぉ		
+nev01_054.scr:0	nev01_054.scr	0	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	アンジュという、リーダーの女性……。\nさすがに、これだけの組織を率いるだけの\n人物ですわね。芯が強く、度胸もありますわ		
+nev01_054.scr:1	nev01_054.scr	1	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	私、この様な所で生活するのは\n初めての経験です。差し当たって、\n何から手をつければよいのでしょう？		
+nev01_054.scr:2	nev01_054.scr	2	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ここは、城の中と、何もかもが違いますのね。\n自分の事は、自分でやる……そんな事ですら\nこんなにも難しいなんて……		
+nev01_054.scr:3	nev01_054.scr	3	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	こうしていると……日々の生活に気が紛れ\n国や民の事を考えるのを、怠りそうになる\n自分がいます……我ながら情けないですわ		
+nev01_054.scr:4	nev01_054.scr	4	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ここで暮らすようになってから、\n民の暮らしや、思いが、以前より\nわかる様になった気がします		
+nev01_054.scr:5	nev01_054.scr	5	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ですが……もっと早く知るべきでした。\nその為の努力を、私はもっと\nすべきだったのです。それなのに……		
+nev01_054.scr:6	nev01_054.scr	6	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	この危機をきっかけに、\n手を取り合う事の大切さを\n人々が学んでくれれば良いのですが……		
+nev01_054.scr:7	nev01_054.scr	7	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	人と人がわかり合う事は、簡単な事では\nありません。オルタ・ビレッジも\nその壁にぶつかっているのでしょう		
+nev01_054.scr:8	nev01_054.scr	8	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	誰しも、誰かと手を取り合って平和に\n生きていける世界を望んでいるはず。\nなのに、なぜ、争いは起こるのでしょう……		
+nev01_054.scr:9	nev01_054.scr	9	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ヒトは、過ちを犯します。ですがそれは、\n新たな「学び」の為に必要な事なのかも\nしれないと、感じる事がありますの		
+nev01_054.scr:10	nev01_054.scr	10	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	きっと、オルタ・ビレッジが得た「学び」は\nもっと多くの人を笑顔に出来るはず。\n私もこの話を、国へ持ち帰ろうと思いますわ		
+nev01_054.scr:11	nev01_054.scr	11	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	半永久機関……そんな素晴らしいものが\nこんな身近にあったなんて！\nまた一つ、未来に希望が見えましたわね		
+nev01_054.scr:12	nev01_054.scr	12	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	私、心が決まりましたわ。\nこれから自分がどうしていくのか、\n民の為に何をすべきか……見えた気がしますの		
+nev01_054.scr:13	nev01_054.scr	13	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	アッシュの事を、怖いと感じる方がいるのも\n知っています。ですが、やはり彼は……\n本当は、とても優しい人なのですわ……		
+nev01_054.scr:14	nev01_054.scr	14	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	カノンノはご両親を知らなかったのですね。\nこれまで不安な事もたくさんあったでしょうに\nいつも笑顔で……見習いたいものですわ……		
+nev01_054.scr:15	nev01_054.scr	15	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	今こそ、人と人が手を取り合う時。\n少しずつでも、小さな動きでもいい……。\n私達みんなで、未来を作っていくのです		
+nev01_054.scr:16	nev01_054.scr	16	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あなたも、心を決めましたのね。\n目を見ればわかりますわ。……もちろん\n私にも、手伝わせて下さいますわよね？		
+nev01_054.scr:17	nev01_054.scr	17	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	一人で頑張ろうとしなくても良いのです。\nそれを教えてくれたのは、他の誰でもない\nあなたではありませんか		
+nev01_054.scr:18	nev01_054.scr	18	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	○○、やっぱり\n戻ってきましたのね！　良かった……		
+nev01_054.scr:19	nev01_054.scr	19	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	今度はあなたが、あなたの思うまま、自由に\n生きてみる番ですわね。ヒトも、世界も……\nあなたを、心から歓迎していますわ		
+nev01_054.scr:20	nev01_054.scr	20	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ガルバンゾとは良好な関係を築けていますわ。\nお互いギルドの一員として、肩肘を張らずに\n過ごせた時間があったのは、幸運でしたわね		
+nev01_054.scr:21	nev01_054.scr	21	(NPC da guilda)	(NPC da guilda)	personagem		あ…ぅ……		
+nev01_055.scr:0	nev01_055.scr	0	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	……何だ。\n用がないなら話し掛けるな		
+nev01_055.scr:1	nev01_055.scr	1	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	星晶の不足で引き起こされる「災厄」は、\nラザリスだけじゃない。……本当に\n恐ろしいのは……その先の、飢餓だ		
+nev01_055.scr:2	nev01_055.scr	2	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	廊下がたまに水浸しになっている事が\nあるんだが……掃除当番はどいつだ！？\n最後まできっちりやっていきやがれ！		
+nev01_055.scr:3	nev01_055.scr	3	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	おい…………。\nこの匂い、何とかならないのか？\nどこから漏れてくるんだ、この草の匂いは		
+nev01_055.scr:4	nev01_055.scr	4	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	自分達が変わっていく為に、まずは\n何が必要になる？　優先すべき事は何だ……。\n……チッ、考える事が山積みだぜ		
+nev01_055.scr:5	nev01_055.scr	5	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	お前の目には、どんな未来が見えている？\n……なぜ、そうも自由でいられる？		
+nev01_055.scr:6	nev01_055.scr	6	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	あいつ、俺達の世界を好き勝手に\n食い散らかそうとしてやがる		
+nev01_055.scr:7	nev01_055.scr	7	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	それで何を解決するつもりだって？\n結局、悲しむ奴の立ち位置が\n入れ替わるだけだろうが……馬鹿が！		
+nev01_055.scr:8	nev01_055.scr	8	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ディセンダーの力を得るだけでは駄目だ。\n世界中のヒトが、お前の様に未来を\nまっさらな心で見つめなければ、歪みは正せん		
+nev01_055.scr:9	nev01_055.scr	9	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	理屈じゃねえんだよ。\n生きたいと……自分の居場所を得たいと\n願う気持ちってのは……		
+nev01_055.scr:10	nev01_055.scr	10	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ラザリスが本気で挑んでくるなら\n俺も本気で応える。それ以外に\nしてやれる事なんてないだろうが		
+nev01_055.scr:11	nev01_055.scr	11	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	……やはり、生きていたのか。\nそうでなくては面白くない		
+nev01_055.scr:12	nev01_055.scr	12	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	この通り、俺とルークの修行は続いている。\nあのクズに真っ当な社会性を身につけさせろと\n注文が来ていてな……頭が痛いぜ……		
+nev01_055.scr:13	nev01_055.scr	13	(NPC da guilda)	(NPC da guilda)	personagem		………お前と話す事など無い		
+nev01_056.scr:0	nev01_056.scr	0	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	世界の理想を謳いし存在……か。\n彼の者によって、自らの欲望を満たした先に\nヒトの願う平和があると言うのか……		
+nev01_056.scr:1	nev01_056.scr	1	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	近頃、ルークの太刀筋が鋭くなったな。\n……人はやはり、人の中で育つ、か		
+nev01_056.scr:2	nev01_056.scr	2	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	バルバトスは確かに、強大な敵。だが、あえて\n深追いする必要もないだろう。\n奴一人に出来る事など、たかが知れている		
+nev01_056.scr:3	nev01_056.scr	3	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	世界の情報因子は受け継がれる、か。\nそして生まれる、互いに似通った\n全く別の世界……。ふふ……面白い		
+nev01_056.scr:4	nev01_056.scr	4	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	予言の救世主、ディセンダーよ。\n……予言はお前を助けない。\nならば、すべき事は……わかるな？		
+nev01_056.scr:5	nev01_056.scr	5	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	カノンノは何か得るものがあったようだな。\n……お前はどうだ？\nお前はあの渦の中で、何を掴んだ		
+nev01_056.scr:6	nev01_056.scr	6	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	アッシュには兆しが見えてきたようだな。\nさて、ルークはどうするのか……		
+nev01_056.scr:7	nev01_056.scr	7	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	誰の為でもなく、他ならぬお前自身が\n成すべきと強く思う事を貫くのだ		
+nev01_056.scr:8	nev01_056.scr	8	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	偽りの心で、全てを背負う覚悟をした\nラザリスを止める事など不可能だろう		
+nev01_056.scr:9	nev01_056.scr	9	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	世界樹に還る運命を書き換えたか……。\nそれは世界樹の意志なのか？　それとも\nやはりお前の力なのか……フフ、面白い……		
+nev01_056.scr:10	nev01_056.scr	10	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	我々ライマ国の人間も、今しばらくここで\n厄介になる事となった。奇しくも世界の要人が\nこのギルドに集っている事だしな		
+nev01_056.scr:11	nev01_056.scr	11	(NPC da guilda)	(NPC da guilda)	personagem		お前に…、一杯食わされたな…		
+nev01_057.scr:0	nev01_057.scr	0	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	（最初に教えておくけど……。\n　ルビアは小言が多いから\n　気をつけた方がいいぞ！）		
+nev01_057.scr:1	nev01_057.scr	1	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ルビアの奴、妙に大人ぶった態度とか\n話し方をすると思わないか？　同い年なのに\nどうしてオレは子ども扱いなんだよ		
+nev01_057.scr:2	nev01_057.scr	2	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	お前が頑張っている間、実はオレ達も\n訓練で自分を鍛えてるんだぜ。誰だって\nみんなの足手まといにはなりたくないからな		
+nev01_057.scr:3	nev01_057.scr	3	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	まさか、ガルバンゾのお姫様と話せる日が\n来るなんて、思いもしなかったよ。\n……何だか、今でも不思議な感じだな		
+nev01_057.scr:4	nev01_057.scr	4	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	みんなを苦しめてる、「本当に悪い事」を\nしてるのって、誰なんだろうな。\nそいつをやっつければ、戦争はなくなるのか？		
+nev01_057.scr:5	nev01_057.scr	5	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	知ってるか？　ルバーブ連山の頂上は\n霧が深いから、立ち入り禁止になってるんだ。\n危ないから、お前も近づかないようにしろよ		
+nev01_057.scr:6	nev01_057.scr	6	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ルバーブ連山の霧の中って、どうなって\nいるんだろうな……。\nべ、別に怖くて気になってるわけじゃないぞ		
+nev01_057.scr:7	nev01_057.scr	7	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	たかが虫一匹で、すごい騒ぎになってるな。\n別に虫くらい、無視すればいいじゃな……\nって、今のはダジャレじゃないからな！		
+nev01_057.scr:8	nev01_057.scr	8	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	赤い煙って、結局何なんだ？\n何でも出来る力があるみたいに思えるけど\nそんな事、あるはずないよな？		
+nev01_057.scr:9	nev01_057.scr	9	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	カダイフ砂漠に血の池があるって\n聞いたんだけど、嘘だよな？\n……なぁ、お前もそう思うだろ？		
+nev01_057.scr:10	nev01_057.scr	10	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	やっぱり、あの赤い煙は\nディセンダーなんかじゃなかったんだな。\nみんな、あのラザリスに騙されてたんだ		
+nev01_057.scr:11	nev01_057.scr	11	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	なあ、最近アンジュさんの顔、\nちょっと丸くなったと思わないか？\nオレの気のせいかな		
+nev01_057.scr:12	nev01_057.scr	12	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	セルシウスの体って、冷たいんだぜ。\n触ったわけじゃないけど、近くに立つと\n冷たい風を感じるんだ		
+nev01_057.scr:13	nev01_057.scr	13	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ロックスって、ユージーンさんに\n時々変な口調で喋る時があるんだよなぁ……。\nあれは、何でなんだ？		
+nev01_057.scr:14	nev01_057.scr	14	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ユージーンさんって、かっこいいよなぁ。\n貫禄があるし、\nみんなに一目置かれているみたいだ		
+nev01_057.scr:15	nev01_057.scr	15	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ツリガネトンボ草の進化種が\nあちこちから集まってきてるな！\nこの匂い、故郷を思い出すよ。懐かしいなぁ		
+nev01_057.scr:16	nev01_057.scr	16	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	カノンノ、泣いてなかったか？\nあの渦の中で、何を見たっていうんだ？		
+nev01_057.scr:17	nev01_057.scr	17	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ユージーンさんに、廊下は走るなって\n怒られちゃったよ。\n……ちぇっ		
+nev01_057.scr:18	nev01_057.scr	18	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	おい。\nお前の事、噂になってるぜ？\nいなくなるとか何とか……		
+nev01_057.scr:19	nev01_057.scr	19	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	どうせ、ただのつまんない噂だよな。\n……なぁ、そうだよな？		
+nev01_057.scr:20	nev01_057.scr	20	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あっ、○○\n聞いてくれよ！　ルビアがお前の事をオレより\nわかってるって言うんだ。そんなの違うよな？		
+nev01_057.scr:21	nev01_057.scr	21	(NPC da guilda)	(NPC da guilda)	personagem		…いてて		
+nev01_058.scr:0	nev01_058.scr	0	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	カイウスって、考えなしに行動するところが\nあるの。子どもっぽいって言うか……。\nもう、あたしがしっかり見てなくちゃ		
+nev01_058.scr:1	nev01_058.scr	1	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	正規のクエストを受けられるようになれば\nそれなりの収入が見込めるわ。先の事を考えて\n早くから貯金をしておくのも、おすすめよ		
+nev01_058.scr:2	nev01_058.scr	2	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	待機メンバーの自主訓練はね、\nアンジュさんの強い要望で決まった事なの。\n誰と誰が組んでも、仕事が出来るようにって		
+nev01_058.scr:3	nev01_058.scr	3	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	シングとコハクから、故郷の様子を\n聞いた事があるけど、本当に酷いみたい……。\nウリズン帝国……許せないわ		
+nev01_058.scr:4	nev01_058.scr	4	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	一部の女の子の間じゃ、あの虫の話題で\nもちきりよ。確かに、あのサイズの虫なんて\nそうそう見る事もないし……驚くわよね……		
+nev01_058.scr:5	nev01_058.scr	5	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ウィルさんったら、すごく張り切って\nコクヨウ玉虫の飼育ケースを磨いてたわ。\n虫が快適に過ごせるように、ですって……		
+nev01_058.scr:6	nev01_058.scr	6	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	みんな、コクヨウ玉虫の変化にショックを\n受けてるわ。何だかんだで愛着もあったし\n……どうしていいかわからないのよね		
+nev01_058.scr:7	nev01_058.scr	7	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	このままだと、少ない物資に人が集中して\n争いが起きてもおかしくないわ。\nそれだけは、何としても避けなくちゃ		
+nev01_058.scr:8	nev01_058.scr	8	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ロックスの作るお菓子って、どうして\nあんなに美味しいのかしら……。まるで、\n狙い澄ましたみたいな美味しさなのよ		
+nev01_058.scr:9	nev01_058.scr	9	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	カノンノったら、また無理して……！\nあの子がみんなを大事なように、\nあたし達だってあの子の事が大事なのに……		
+nev01_058.scr:10	nev01_058.scr	10	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	少し難しい魔術も、頑張って習得して\nおかなくちゃ。いつ必要になるか\nわからないもの……		
+nev01_058.scr:11	nev01_058.scr	11	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	決めたの。ロックスの善意の差し入れには\nこれから注意していくわ。じゃないと……\n本当に、いくらでも食べちゃうんだもの……		
+nev01_058.scr:12	nev01_058.scr	12	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	カノンノがたまに書いていた、変わった文字は\nもう失われた世界の文字だったのね。\nそれじゃ、誰も読めないわけだわ……		
+nev01_058.scr:13	nev01_058.scr	13	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	侵食が進めば、ジルディアの生き物になる\n動植物が、もっと増える……。\n物資はもっと欠乏していくわね……		
+nev01_058.scr:14	nev01_058.scr	14	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あの信者の人達が頑張ってくれたら、\n街にも活気が戻ってくるかもしれないわ。\n未来に希望が持てれば、きっと……きっと！		
+nev01_058.scr:15	nev01_058.scr	15	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ルミナシアとジルディアが一つになるのは\n大歓迎よ。だけど……世界樹から生まれた\nあなたは……その後、どうなっちゃうの？		
+nev01_058.scr:16	nev01_058.scr	16	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あっ、○○。\nあのね、カイウスったらあなたの事、自分が\n一番わかってるって言うのよ。違うわよね？		
+nev01_058.scr:17	nev01_058.scr	17	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	んも〜〜〜！！！\nいたいいたいいた〜い！！		
+nev01_058.scr:18	nev01_058.scr	18	(NPC da guilda)	(NPC da guilda)	personagem		シナリオの開始タイミングを設定します		
+nev01_058.scr:19	nev01_058.scr	19	(NPC da guilda)	(NPC da guilda)	personagem		中止します		
+nev01_058.scr:20	nev01_058.scr	20	(NPC da guilda)	(NPC da guilda)	personagem		０章の詳細です		
+nev01_058.scr:21	nev01_058.scr	21	(NPC da guilda)	(NPC da guilda)	personagem		中止します		
+nev01_058.scr:22	nev01_058.scr	22	(NPC da guilda)	(NPC da guilda)	personagem		初期化しました		
+nev01_059.scr:0	nev01_059.scr	0	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	君も、家出してきた……っていう\nわけじゃないよね？\nご家族、心配してるんだろうね……		
+nev01_059.scr:1	nev01_059.scr	1	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	お帰り。まずは一つ、試験を終えたんだね。\n他の試験もそんなに難しくないから、\nあんまり固くならずにやればいいと思うな		
+nev01_059.scr:2	nev01_059.scr	2	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	採掘の試験……僕はイリアと行ったんだけど\n銅だけじゃなくて、金も掘り当てろって\nイリアが……。…………大変だったなぁ……		
+nev01_059.scr:3	nev01_059.scr	3	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ブルブルッ……！\nあれ、どうしたんだろ、風邪かな……？\n何だか悪寒が……		
+nev01_059.scr:4	nev01_059.scr	4	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	クエストによっては、ダンジョンに出現する\n魔物が変化する事もあるんだ。何が出るかは\n実際に行ってみなきゃわからないんだけど……		
+nev01_059.scr:5	nev01_059.scr	5	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	イリアが、コクヨウ玉虫を見る時の目が\n何だか怖いんだ。何かを企んでる様な\n気がして……。僕の考え過ぎ……かなぁ？		
+nev01_059.scr:6	nev01_059.scr	6	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	自分の気持ちを言葉にするのって\n難しいよね……。どうしたら誤解されずに\n相手にきちんと、伝えられるんだろう……		
+nev01_059.scr:7	nev01_059.scr	7	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ねえ、○○はさ……、\nイリアの事どう思ってる？　やっぱり、その\n……ご、ごめん。何でもないや……		
+nev01_059.scr:8	nev01_059.scr	8	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ねえ、○○から見ても\nイリアって可愛いよね？\nやっぱり、僕なんかとは……		
+nev01_059.scr:9	nev01_059.scr	9	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ロックスって、どうして女の人に\nあんなに熱心にお菓子を配ってるんだろう？\nお菓子が好きだからってだけじゃない、よね？		
+nev01_059.scr:10	nev01_059.scr	10	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	君が世界樹のシステムの一つだって\nキールは考えた様だけど……本当にそうなの？\nだって君は、僕達と同じ……ヒトでしょう？		
+nev01_059.scr:11	nev01_059.scr	11	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	いくら必要に迫られたからって、文化遺産を\n持ち出すなんて……やっぱりダメだよ……。\n後できちんと、戻しに行かなくちゃ		
+nev01_059.scr:12	nev01_059.scr	12	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ルーティって、イリアと少し似てるかも……。\n強くて頼りになるんだけど、やっぱり\nちょっと無茶苦茶っていうか……		
+nev01_059.scr:13	nev01_059.scr	13	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	この船が、ヴェラトローパの民の遺物か\n異世界の産物かもしれないなんて！\n僕達、すごいものに乗ってたんだね！		
+nev01_059.scr:14	nev01_059.scr	14	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	僕もドクメントの抽出作業を手伝ってるんだ。\nこんなに大勢で、一つの事をやるのって\n初めてで……少し緊張するけど、楽しいなぁ		
+nev01_059.scr:15	nev01_059.scr	15	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あのさ、みんな忘れちゃってるみたいだけど\n化石……もう、返した方が\nいいんじゃないかなぁ……		
+nev01_059.scr:16	nev01_059.scr	16	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	すごいね。カノンノの君を信じる心が\n皆と皆を繋ぐ、力の架け橋になったんだ。\nこの輪を、もっと広げられれば……！		
+nev01_059.scr:17	nev01_059.scr	17	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	……行くんだね。\n自分のすべき事をしに		
+nev01_059.scr:18	nev01_059.scr	18	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	僕も、持てる力の全部で君と一緒に戦うよ。\n戦わせて欲しいんだ。\n僕達の手で、僕達の未来を切り拓く為に		
+nev01_059.scr:19	nev01_059.scr	19	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	お帰り、○○！\n嬉しいな……またこうやって、君と話が\n出来るなんて。ねえ、後でお祝いしようよ		
+nev01_059.scr:20	nev01_059.scr	20	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	僕、今度、医師免許の試験を受けてみる事に\nしたんだ。まだまだ医者不足は深刻だし\nとにかく自分に出来る事をしていきたくて……		
+nev01_059.scr:21	nev01_059.scr	21	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	助けてくれると…思ったのに…。\nうう…、ひどいや……		
+nev01_060.scr:0	nev01_060.scr	0	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ルカはいつもウジウジおどおどしてるけど\nああいう性格ってだけだから、気にしないで。\nからかうと、面白いのよォ、これが♪		
+nev01_060.scr:1	nev01_060.scr	1	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	見習い試験、お疲れ〜。この先も、まぁ\nそんな難しく考えなくて平気よ？\n落ちた奴いないって噂だから、この試験		
+nev01_060.scr:2	nev01_060.scr	2	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	採掘の試験、懐かしいわねえ〜。\nって、あたしの分も含めて、ルカが全部\nやってくれたんだけど〜。オホホホホ！		
+nev01_060.scr:3	nev01_060.scr	3	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	戦闘中、仲間が空気読まない行動して\nイラッとする時ってない？　あるわよね！？\nルカとかルカとかルカとかルカとかさ〜！		
+nev01_060.scr:4	nev01_060.scr	4	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	そういう時は、戦闘メニューを開いた状態で\nＳＴＡＲＴボタンを押すの。これで直接仲間を\n動かせるんだから、使わない手はないわよ♪		
+nev01_060.scr:5	nev01_060.scr	5	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あんた、ちゃんと「転職」してる？\nつっても、このギルドを辞めるとか\nそう言う話じゃないわよ		
+nev01_060.scr:6	nev01_060.scr	6	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	転職には、特にお金とか掛からないんだから\n色んな職業を試しといた方がおトクって話。\n自分に合った職種が見つかるかもしんないしね		
+nev01_060.scr:7	nev01_060.scr	7	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あの虫、デカいわよね〜。\nもう少し小さかったら、ルカちゃまの背中に\n入れられたのに、惜しいわぁ。グヒヒヒ……		
+nev01_060.scr:8	nev01_060.scr	8	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	最ッ悪！　あの馬鹿虫、こっちに向かって\nまっすぐ飛んで来やがったのよ！\nうう、今思い出しても鳥肌が……		
+nev01_060.scr:9	nev01_060.scr	9	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	そういえばさ、サンドワームの肉って\n意外と美味って聞いたんだけど……\nホントなの！？　すっごい気になるんだけど！		
+nev01_060.scr:10	nev01_060.scr	10	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ヒトがヒトを捨てるなんて、恐ろしい時代に\nなったモンね〜。……しょうがなかったのかも\nしれないけどさ、やっぱあたしは気分悪いわ〜		
+nev01_060.scr:11	nev01_060.scr	11	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	な〜んか、キナ臭い感じになってきたわねえ。\n変な勘違いして、暴走する奴らが\n出て来なきゃいいんだけど……		
+nev01_060.scr:12	nev01_060.scr	12	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ロックスの奴、絶対に低カロリーとか\nカロリーオフの食べ物を献立に組まないのよ！\n怪しい……何か企んでるニオイがするッ		
+nev01_060.scr:13	nev01_060.scr	13	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あー、肉食いたい。\n肉が食えなきゃ戦は出来ぬって言うでしょ？\n今日の当番は誰だったかしら……		
+nev01_060.scr:14	nev01_060.scr	14	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	チャットも肝心なところが抜けてるって\n言うか……こ〜んな身近にとんでもないモノ\n隠してくれちゃってたわねえ？		
+nev01_060.scr:15	nev01_060.scr	15	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あ〜〜〜もう、何なの、あの女！？\n同情であんたを仲間に引きこもうとしたり\nやり口がいちいちあざといのよ！　腹立つッ！		
+nev01_060.scr:16	nev01_060.scr	16	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	カノンノの勇気には頭が下がるわねー。\n大した子よ、ホント。あんただけじゃなくて\nヒトの可能性を、心から信じてるのね		
+nev01_060.scr:17	nev01_060.scr	17	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	○○！\nさっさと行って片して来ちゃいましょ		
+nev01_060.scr:18	nev01_060.scr	18	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	過去と決別して、あたし達は\nこの世界の新しい一歩を踏み出すの！\n誰にも邪魔なんかさせないんだからっ！		
+nev01_060.scr:19	nev01_060.scr	19	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	やーっぱ、ピンピンしてるわねえ？\nそれでこそあんたってもんよ、グシシシ……。\nまた会えて、嬉しいわぁ∀		
+nev01_060.scr:20	nev01_060.scr	20	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	ねえ！\nあんたも一口乗るつもり、ない？		
+nev01_060.scr:21	nev01_060.scr	21	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	実はキールとさ、故郷に教育施設を作る為に\n色々動いてるのよ。問題は資金でね〜〜。\n良かったら協力して欲しいな〜って思ったワケ		
+nev01_060.scr:22	nev01_060.scr	22	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	見舞ィ？　言ってくれるわね…。\nんで、手土産ナシなワケ？\n霜降りステーキとか持って来なさいよ！		
+nev01_061.scr:0	nev01_061.scr	0	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あの煙の噂、街の中で\nものすごい広まってるぜ。\nありゃ、危ねェな。今にもっと大騒ぎになるぜ		
+nev01_061.scr:1	nev01_061.scr	1	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ルカの奴、何か見ててイライラしねェ？\n一人でウジウジ悩んでてよ……何で周りに\n相談しねェんだ？　ちっといじるか……		
+nev01_061.scr:2	nev01_061.scr	2	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ロックスの作る飯は美味いよなぁ。\nオレが実家で食ってた料理と、大して違いが\nないんだぜ。何モンなんだよ、アイツ		
+nev01_061.scr:3	nev01_061.scr	3	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	よっ、ディセンダー。\nつっても、あんま実感湧かねェけどな？\n正体がどうあれ、お前はお前なんだしよ		
+nev01_061.scr:4	nev01_061.scr	4	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	前から思ってたんだけどよ……。\nエミルって見てるとこう、いじりたくて\nムズムズするよなぁ？　そう思わねェ？		
+nev01_061.scr:5	nev01_061.scr	5	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	面倒事が片付いたらよ、今度は帆船か何かで\nのんびり世界一周ってのもいいよなぁ……。\n船旅ってェのも、結構いいもんなんだぜ？		
+nev01_061.scr:6	nev01_061.scr	6	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	サレの奴を置いて来ちまって良かったのかァ？\nせめてこう、どっかに閉じ込めちまうとか……\n色々やり方はあったんじゃねェ？		
+nev01_061.scr:7	nev01_061.scr	7	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ヴェイグはマジでクレアの事が大事なんだな。\nサレに向かっていくあいつの気合い、\nハンパなかったぜ		
+nev01_061.scr:8	nev01_061.scr	8	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	何だかんだで、ルカちゃまにも\nそれなりにダチが出来たみてェだな。\nあいつもやりゃあ出来ンじゃねえか		
+nev01_061.scr:9	nev01_061.scr	9	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	お前、相変わらず無茶すンなぁ。\n……おい、少しは肩の力を抜けよ？\nちったァ、自分の体の事も考えてやんな！		
+nev01_061.scr:10	nev01_061.scr	10	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	そういや、お前って兄弟はいねェんだよな？\nいなくて正解だな。ディセンダーが二人……\nなんて事ンなったら、大揉め間違いなしだぜ		
+nev01_061.scr:11	nev01_061.scr	11	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	お前、最終決戦だからって\nビビってねえよなァ？		
+nev01_061.scr:12	nev01_061.scr	12	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	……へへっ、冗談だよ。本気にすンなって。\n今度もその度胸でビシッと決めな。\nお前の背中は、オレが守ってやっからよ！		
+nev01_061.scr:13	nev01_061.scr	13	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	よっ。\n随分遅いお帰りだなァ！？		
+nev01_061.scr:14	nev01_061.scr	14	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	心配させやがって……このツケはどうやって\n払うつもりだ？　あぁ？		
+nev01_061.scr:15	nev01_061.scr	15	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ルカちゃまもイリアも、この頃\n何かと気合い入ってんだよな。\nさて、俺はこれからどうすっかな……？		
+nev01_061.scr:16	nev01_061.scr	16	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	テメェは平気だってか？\nったく、悪運が強ぇ奴だな		
+nev01_062.scr:0	nev01_062.scr	0	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	まずはみんなと挨拶をしてきてね。\n詳しい話は、それからかな		
+nev01_062.scr:1	nev01_062.scr	1	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	正式なメンバーになったら、\nもっと色んなクエストが受けられるように\nなるよ。でも、まずは簡単なものからね		
+nev01_062.scr:2	nev01_062.scr	2	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あと一息で、晴れて一人前だね。\n落ち着いてやれば大丈夫。\nしっかりね		
+nev01_062.scr:3	nev01_062.scr	3	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	色んなクエストの中で「重要任務」と\nなっているものは、基本、一度受けたら\n達成するまで破棄出来ないの		
+nev01_062.scr:4	nev01_062.scr	4	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ただ、中には破棄出来るものも\nあるからね。\nこれは大事な事だから、覚えておいて！		
+nev01_062.scr:5	nev01_062.scr	5	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	最初は、出来る事からコツコツ、依頼を\n達成していくのを目標にするといいかも。\n千里の道も一歩から、ってね♪		
+nev01_062.scr:6	nev01_062.scr	6	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	クエストを破棄してもペナルティはないよ。\n達成が難しそうだと思ったら、破棄するのも\n一つの手段。覚えておいてね		
+nev01_062.scr:7	nev01_062.scr	7	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	みんな、火山の熱気にすっかり\nあてられちゃったみたいだね。\n私も、後で服を着替えたいな……		
+nev01_062.scr:8	nev01_062.scr	8	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	依頼者の力になれる事と、なれない事。\nそれを見極めるのも、リーダーの大事な\n仕事なんだ。……助けたい気持ちはあってもね		
+nev01_062.scr:9	nev01_062.scr	9	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ジョアンさん達なら、無事に教会へ\n送り届ける手配をしておいたよ。\n当分は、安心して暮らせるはずだと思うな		
+nev01_062.scr:10	nev01_062.scr	10	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	まさか、幻のミブナの里の人とも\n繋がりが出来るなんて……。\n仕事とは言え不思議な縁もあるものね		
+nev01_062.scr:11	nev01_062.scr	11	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	赤い煙は、わたし達の想像以上に\n危険な存在……ううん、その想像すらも\n超えた存在なのかも……		
+nev01_062.scr:12	nev01_062.scr	12	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ラザリスは、あくまでヒトの欲望に応えるべく\n生物変化現象を起こした……。ヒトの側にも\n変化の一因はあったという事なのね……		
+nev01_062.scr:13	nev01_062.scr	13	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	同じ平和を願っているはずなのに\nどうしてヒトはわかり合えないのかしら……		
+nev01_062.scr:14	nev01_062.scr	14	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	世界の創世……これまでヒトが\n知り得ずにいた時間。そんな難題を、まさか\nわたし達が紐解く事になるなんてね		
+nev01_062.scr:15	nev01_062.scr	15	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	オルタ・ビレッジが、みんなの目指す\n希望の一つになれるといいな……		
+nev01_062.scr:16	nev01_062.scr	16	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あのキバには、一体どんな意味が\nあるのかな……。\n気になるね……		
+nev01_062.scr:17	nev01_062.scr	17	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	考える事はたくさんあるけど……。\nとにかく、出来る事から一つひとつ\n確実にこなしていきましょう		
+nev01_062.scr:18	nev01_062.scr	18	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	一度に全部が上手くいく事なんてないって\nわかっているんだけど……。\nわたしもまだまだ、かな		
+nev01_062.scr:19	nev01_062.scr	19	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	疲れた時には、甘いもの。\nこれに勝る特効薬はないのよね♪		
+nev01_062.scr:20	nev01_062.scr	20	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	心強い仲間が、また増えたね。\nニアタと力を合わせれば、きっと\n今回の危機だって乗り越えられるはずだよ		
+nev01_062.scr:21	nev01_062.scr	21	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ふう……、次から次に依頼が増えるね。\n頼ってもらえてるのは嬉しいけど、\nみんなに負担が掛かってないか、心配だな		
+nev01_062.scr:22	nev01_062.scr	22	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ドクメントの抽出作業は順調に進んでるよ。\nメンバー総出で手伝ってくれてるから\n思ったより早く終わるかも……		
+nev01_062.scr:23	nev01_062.scr	23	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	キバの出現で、みんな気が立ってるね……。\nでも、今は浮き足立ってる場合じゃないよ。\n気持ちを切り替えていきましょ		
+nev01_062.scr:24	nev01_062.scr	24	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	……大丈夫？　あまり無理はしないで。\nここのところ、あなたは本当に\nよく働いてくれてるから……		
+nev01_062.scr:25	nev01_062.scr	25	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	皆、自分に出来る事を精一杯やってくれてる。\n何としても、ラザリスを止めましょう。\n……絶対に		
+nev01_062.scr:26	nev01_062.scr	26	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あなたの光が、みんなの心に灯る……。\nそれが、どんな大きな光になって\n未来を照らしていくのかな？		
+nev01_062.scr:27	nev01_062.scr	27	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	一連の仕事も、大詰めだね。\n……色々あったけれど、振り返ってみると\n本当にあっという間だったなぁ		
+nev01_062.scr:28	nev01_062.scr	28	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	あなたはいつだって、自分に正直だった。\n初めの一歩は小さかったかもしれない、だけど\nその一歩の積み重ねがあなたをここへ導いた		
+nev01_062.scr:29	nev01_062.scr	29	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	世界を救うなんて大それた事を考えて欲しい\nわけじゃないの。あなたはあなたらしく。\nこれまで通り、自分に一番正直に、ね		
+nev01_062.scr:30	nev01_062.scr	30	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	さて、あなたに頼みたい仕事は山程あるの。\nどれでも好きなものを選んでくれて\nいいからね∀　ウフフ……		
+nev01_062.scr:31	nev01_062.scr	31	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	アドリビトムも軌道に乗ってきた事だし。\n次はどんな事にチャレンジしようかな……？\nね、あなたはこれからどうするの？		
+nev01_063.scr:0	nev01_063.scr	0	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	やれやれ、戻ってきた途端に\n早速厄介事か……。\nまあ、仕事のやり甲斐はありそうだが……		
+nev01_063.scr:1	nev01_063.scr	1	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	カダイフ砂漠は、昼は灼熱、夜間は極寒の\n極限の世界だ。生物には過酷な環境だが、\nそこでしか育たない命もある。霊妙な地だ……		
+nev01_063.scr:2	nev01_063.scr	2	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	やれやれ、戻ってきた途端に\n早速厄介事か……。\nまあ、仕事のやり甲斐はありそうだが……		
+nev01_063.scr:3	nev01_063.scr	3	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ミブナの里では、あざなを使う習慣が\nあるらしいな。生まれながらに別名を使う\n習慣があるとは、恐れ入る		
+nev01_063.scr:4	nev01_063.scr	4	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ルバーブ連山は、未だに血と硝煙の\nにおいがするな……。\n昔の名残、という奴か		
+nev01_063.scr:5	nev01_063.scr	5	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ルバーブ連山は、昔、軍の演習場として\n使われていた。ハードな訓練の中で\n命を落とした兵士もいたそうだ		
+nev01_063.scr:6	nev01_063.scr	6	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	帰らずの荒野を渡る、か……。\nヘーゼル村の奴らも、余程の\n決断だったんだろうな……		
+nev01_063.scr:7	nev01_063.scr	7	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ヴェラトローパは、まるで空中都市だな。\nヒトの祖などと言われても、あんな高所に\n住んでいた輩の考えなど、理解出来ん……		
+nev01_063.scr:8	nev01_063.scr	8	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ディセンダーの力に振り回されるなよ。\n力は所詮、力でしかない。全てを判断するのは\n他の誰でもない、お前自身だ		
+nev01_063.scr:9	nev01_063.scr	9	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	変化と聞いて、希望に溢れた未来を\nすぐに想像するのは、ガキの特権だな。\n危なっかしくて、放っておけん		
+nev01_063.scr:10	nev01_063.scr	10	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	俺の故郷は傭兵で身を立てる者が多い土地だ。\n当然、同族と戦場で出会っても、殺し合う。\nそれが仕事だからだ。感傷など抱く暇はない		
+nev01_063.scr:11	nev01_063.scr	11	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	だが、お前は恐らく、違う手段を\n探すのだろうな。俺は俺の生き方を変えんが\nお前の様な生き方も、悪くはないのだろうな		
+nev01_063.scr:12	nev01_063.scr	12	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	俺の力を借りたい時はそう言え。\n堂々と大人に頼れるのもガキの特権だ。\n……いいな？		
+nev01_063.scr:13	nev01_063.scr	13	(NPC da guilda)	(NPC da guilda)	personagem		……プハァ		
+nev01_063.scr:14	nev01_063.scr	14	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ああ、○○か。ちょうどいい、\n一杯やり始めたところだ。付き合っていけ。\n果実水なら飲めるだろう？		
+nev01_063.scr:15	nev01_063.scr	15	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	このご時世だ、傭兵業は干上がるばかりだな。\n俺もしばらく、ここで食い繋ぐか……。\nガキ共には、保護者が必要だろうしな		
+nev01_063.scr:16	nev01_063.scr	16	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	お前のせいで、このザマだ。\n少しは寝させろ		
+nev01_064.scr:0	nev01_064.scr	0	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	この船を見るのは初めてじゃあない。\n各地のギルドの間でも、この船や\nアドリビトムってのは結構有名だ		
+nev01_064.scr:1	nev01_064.scr	1	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ユージーンか……でかいな。\n初めて見るが、ガジュマって種族は\nみんなああいうもんなのか？		
+nev01_064.scr:2	nev01_064.scr	2	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	……ったく、火山ってのは\n何であんなに暑いんだ？		
+nev01_064.scr:3	nev01_064.scr	3	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	おかげで、船にいるだけでも\n体が重いっつーか……。\n会話をするのもやっとだぜ……		
+nev01_064.scr:4	nev01_064.scr	4	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	エステルの奴、知識はあるけど\n独特の解釈する事があるからな。\nあんま、真に受けない方がいいぜ		
+nev01_064.scr:5	nev01_064.scr	5	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	アルマナック遺跡にゃ、盗掘者対策の罠が\n複数仕掛けられてるんだとさ。\n……ったく、ご苦労なこった		
+nev01_064.scr:6	nev01_064.scr	6	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ここに来てから、エステルは毎日\n充実してるみたいだな。そんだけでも\n厄介になった甲斐はあったって事か		
+nev01_064.scr:7	nev01_064.scr	7	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	オレも色んな人間見てきたけど、\n忍者ってのには初めて会ったな。\n……感情は不要なもの、か……		
+nev01_064.scr:8	nev01_064.scr	8	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ジルディアのキバ、か。\nまた、とんでもねえモンが\n出てきやがったな		
+nev01_064.scr:9	nev01_064.scr	9	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	ジューダスの仮面、何かの頭蓋骨に\n見えねえか？　わざわざ被るくらいだ。\n何か、形見の骨だったりしてな		
+nev01_064.scr:10	nev01_064.scr	10	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	しっかし、ここのギルドは賑やかだな。\n……何ていうか、\n下町の空気を思い出すよ		
+nev01_064.scr:11	nev01_064.scr	11	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	この間、食事当番になった時に、\n間食に軽くつまめるような\nスナック菓子を作っておいたんだが……		
+nev01_064.scr:12	nev01_064.scr	12	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	オレのいない間に勝手に味を\n変えられて、まいったぜ。\nあれはオレのせいじゃねぇっつうの		
+nev01_064.scr:13	nev01_064.scr	13	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	創世の起こりだのジルディアだの\nちょっと前からじゃ、考えられねえ話の\nオンパレードだが		
+nev01_064.scr:14	nev01_064.scr	14	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	今じゃ、すっかりそれが「普通」に\nなっちまった。\n人生ってのは不思議なもんだな		
+nev01_064.scr:15	nev01_064.scr	15	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	オレ達は、生きて、自分達の選んだ選択に\n責任を持っていかなきゃなんねえ		
+nev01_064.scr:16	nev01_064.scr	16	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	この戦い、絶対負けられねえな。\nオレ達が、今のずっと先を生きてく為にも		
+nev01_064.scr:17	nev01_064.scr	17	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	よっ。\nお疲れさん。\n元気そうじゃねえか		
+nev01_064.scr:18	nev01_064.scr	18	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x1	こっちはそれなりに、楽しくやってたぜ。\n近いうち、そっちの近況も聞かせろよな		
+nev01_064.scr:19	nev01_064.scr	19	(NPC da guilda)	(NPC da guilda)	personagem	CRLF x2	今回選んだ事の責任は、\nちゃんと背負っていかねえとな。\nそれがけじめってもんだ		
+nev01_064.scr:20	nev01_064.scr	20	(NPC da guilda)	(NPC da guilda)	personagem		…よう、ちっと休ませてもらうぜ		

@@ -1,0 +1,31 @@
+bloco|va_ponteiro|traducao|fonte|status|nota
+dialogo_save|0x08D65464||-|manter|"■ Information": o ■ e glifo, mantido verbatim
+dialogo_save|0x08D65468|Yes|rm2|validado|RM2 3.5
+dialogo_save|0x08D6546C|No|rm2|validado|RM2 3.5
+dialogo_save|0x08D65470|Quit without saving your data?|novo|revisar|
+dialogo_save|0x08D65474|No memory stick was detected.\nThis game needs a memory stick with at\nleast %dKB of free space to save.|novo|revisar|記録メディア = midia de gravacao; PSP usa Memory Stick
+dialogo_save|0x08D65478|Not enough free space on the memory stick.\nSaving this game's data needs at least\n%dKB more of free space.|novo|revisar|
+dialogo_save|0x08D6547C|Start the game anyway?|novo|revisar|このまま = neste estado; contexto e "sem poder salvar"
+dialogo_save|0x08D65480||-|manter|duplicata do ponteiro anterior de "■ Information" — dedup aponta os dois para a mesma string
+dialogo_save|0x08D65484|There is not enough free space on the\nmemory stick to save anew. %dKB more is\nneeded. Delete an existing save file?|novo|revisar|
+dialogo_save|0x08D65488|Free space is low, so only overwriting an\nexisting save is possible. Saving anew\nneeds %dKB more. Delete an existing file?|novo|revisar|
+dialogo_save|0x08D6548C|Delete File|novo|revisar|
+dialogo_save|0x08D65490|Delete|novo|revisar|
+dialogo_save|0x08D65494|Don't Delete|novo|revisar|par de 削除する/削除しない
+dialogo_save|0x08D65498|No memory stick was detected.\nA memory stick with at least %dKB\nof free space is required.|novo|revisar|
+dialogo_save|0x08D6549C|Data already exists on the memory stick.\nOverwrite it?|novo|revisar|
+dialogo_save|0x08D654A0|Saving was interrupted by sleep mode.\nTry again?|novo|revisar|
+dialogo_save|0x08D654A4|Loading was interrupted by sleep mode.\nTry again?|novo|revisar|
+dialogo_save|0x08D654A8|The save data was not loaded.|novo|revisar|
+dialogo_save|0x08D654AC|The save data version does not match.\nLoading was cancelled.|novo|revisar|
+dialogo_save|0x08D654B0|The install data could not be loaded.\nData Install has been set to OFF.|novo|revisar|『ＯＦＦ』 de largura plena vira OFF
+dialogo_save|0x08D654B4|The install data is corrupted and could\nnot be loaded. Data Install set to OFF.|novo|revisar|
+glifos|0x08D65B30|???|novo|revisar|？？？ de largura plena vira ASCII
+glifos|0x08D65B34||-|manter|glifo de seta, verbatim
+glifos|0x08D65B38||-|manter|glifo de seta, verbatim
+glifos|0x08D65B3C||-|manter|glifo de seta, verbatim
+glifos|0x08D65B40||-|manter|glifo de seta, verbatim
+glifos|0x08D65B44|Yes|rm2|validado|RM2 3.5 — este e o SIM global dos dialogos de confirmacao
+glifos|0x08D65B48|No|rm2|validado|RM2 3.5 — este e o NAO global
+glifos|0x08D65B4C||-|manter|glifo de botao circulo, verbatim
+glifos|0x08D65B50||-|manter|glifo de botao X, verbatim

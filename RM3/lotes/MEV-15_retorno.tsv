@@ -1,0 +1,192 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev15_010.scr:0	mev15_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	カノンノを連れて、\nヴェラトローパに行くのね	A request from Kanonno to accompany her\nto Veratropa has been posted.	
+mev15_010.scr:1	mev15_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	以前ジュディスと行った時に、\n通路が失われたでしょ？	When you went with Judith before,\nthe pathway was destroyed, wasn't it?	
+mev15_010.scr:2	mev15_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	だから、今回はアーチェも連れて行って。\n彼女はホウキで飛べるから、\nきっと力になると思うわ	So take Arche with you this time.\nShe can fly on her broom, so I'm sure\nshe will be a great help.	
+mev15_010.scr:3	mev15_010.scr	3	アンジュ	Ange Serena	personagem		それじゃ、行ってらっしゃい	Well then, have a safe trip!	
+mev15_020.scr:0	mev15_020.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あの風景の中に立ってる。\n私が描いた、あの風景の中に…	I'm standing within that scenery.\nWithin the very scenery that I drew...	
+mev15_020.scr:1	mev15_020.scr	1	カノンノ	Kanonno Grassvalley	personagem		すごく不思議な気分…	It's such a wondrous feeling...	
+mev15_020.scr:2	mev15_020.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	私にあるドクメントに、\n何の意味があるんだろう。\nそれが何なのか、わかればいいな	What meaning is there in the Document\nheld within me? If only I could know\nwhat it truly is...	
+mev15_020.scr:3	mev15_020.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	色んな風景を描いた。\n綺麗な風景もあれば、まるで世界の\n終わりの様な風景も	I drew various landscapes.\nSome beautiful, and some looking like\nthe end of the world...	
+mev15_020.scr:4	mev15_020.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	その…、世界の終わりの様な風景が、\nこの世界の事でなければいいなって思う	I hope... that scenery like the end\nof the world isn't of this world.	
+mev15_020.scr:5	mev15_020.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ヴェラトローパが実在した様に、\n世界の終わりの様な風景も\n実在…するのかな	Just as Veratropa actually existed,\ndoes that apocalyptic scenery\nactually exist... too?	
+mev15_020.scr:6	mev15_020.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	…うん、そうだね。\n今、気にしてもしょうがないか	...Yeah, you're right.\nNo point fretting over it now, I guess.	
+mev15_020.scr:7	mev15_020.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	うん。\n今は、ニアタの所へ行く事だけを\n考えればいいんだね	Yeah.\nFor now, we just need to think about\nreaching Niata's side, right?	
+mev15_020.scr:8	mev15_020.scr	8	アーチェ	Arche Klein	personagem	CRLF x1	えーっと、本来なら真っ直ぐ行けば\nいいんだろうけど	Umm, ordinarily we'd just go straight\nahead, but...	
+mev15_020.scr:9	mev15_020.scr	9	アーチェ	Arche Klein	personagem		他の道ねぇ	Another path, huh?	
+mev15_020.scr:10	mev15_020.scr	10	アーチェ	Arche Klein	personagem	CRLF x1	ま、何とか見つかるでしょ！\nあたしに任せて！	Well, we'll find one somehow!\nLeave it to me!	
+mev15_020.scr:11	mev15_020.scr	11	(opcao do jogador)	(opcao do jogador)	escolha		まだ何もわからない、と言う	Say we still don't know anything	
+mev15_020.scr:12	mev15_020.scr	12	(opcao do jogador)	(opcao do jogador)	escolha		悪い事は考えないで、と言う	Tell her not to think of bad things	
+mev15_030.scr:0	mev15_030.scr	0	カノンノ	Kanonno Grassvalley	personagem		この先なのね	It's just up ahead, then.	
+mev15_030.scr:1	mev15_030.scr	1	カノンノ	Kanonno Grassvalley	personagem		でも、ここを通るには…	Yet to pass through here...	
+mev15_030.scr:2	mev15_030.scr	2	アーチェ	Arche Klein	personagem		ん〜、パッと飛んでって探したいけど	Hmm, I'd love to fly over and search, but	
+mev15_030.scr:3	mev15_030.scr	3	アーチェ	Arche Klein	personagem	CRLF x1	向こうとこっちの間に気流があって、\nホウキで飛んでくのは危険かも	There's an air current in between,\nso flying by broom might be dangerous.	
+mev15_030.scr:4	mev15_030.scr	4	カノンノ	Kanonno Grassvalley	personagem		他の道は？	What about another path?	
+mev15_030.scr:5	mev15_030.scr	5	アーチェ	Arche Klein	personagem	CRLF x1	そうね…、他に道があるか\n探してみよっか！	Right... let's look around\nto see if there's another path!	
+mev15_035.scr:0	mev15_035.scr	0	アーチェ	Arche Klein	personagem		うーん、他にどの道があるのかな？	Hmm, I wonder which other path there is?	
+mev15_035.scr:1	mev15_035.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	こういう時は、\n一旦戻ってみたらどうかな？	In times like this,\nhow about turning back for now?	
+mev15_035.scr:2	mev15_035.scr	2	アーチェ	Arche Klein	personagem	CRLF x2	そうね〜。\n船に戻って作戦の練り直しを\n提案するしかないか	Yeah~.\nOur only choice is to return to the ship\nand propose revising our strategy.	
+mev15_040.scr:0	mev15_040.scr	0	カノンノ	Kanonno Grassvalley	personagem		ねえ、下に道がある	Look, there's a path down below!	
+mev15_040.scr:1	mev15_040.scr	1	アーチェ	Arche Klein	personagem		あ、じゃあ、ちょっとあたしが見てくる！	Ah, then I'll go take a quick look!	
+mev15_045.scr:0	mev15_045.scr	0	アーチェ	Arche Klein	personagem		大丈夫、降りられそうだよ〜！	It's safe, looks like we can descend~!	
+mev15_045.scr:1	mev15_045.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	○○、\n私達も行こう！	○○,\nlet's head down too!	
+mev15_050.scr:0	mev15_050.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	世界樹があるのは、私達の世界\nルミナシアだけじゃないんだね	Our world of Luminasia isn't the only\none with a World Tree, huh.	
+mev15_050.scr:1	mev15_050.scr	1	カノンノ	Kanonno Grassvalley	personagem		ここは、どこかの世界の子どもなんだ	This place is a child of some other world.	
+mev15_050.scr:2	mev15_050.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	その……、ニアタが教えてくれたんだね…。\n異世界からやって来て、このルミナシアの\n創世を見届けて…	Niata explained that to you, right...?\nComing from another world, witnessing\nthe creation of this Luminasia...	
+mev15_050.scr:3	mev15_050.scr	3	アーチェ	Arche Klein	personagem	CRLF x1	故郷を失って、永遠の時間を\n一人ぼっち…かあ	Losing your home world, all alone\nfor eternity... wow.	
+mev15_050.scr:4	mev15_050.scr	4	アーチェ	Arche Klein	personagem		そうしたくなるのも、わかるかも	I can understand feeling that way.	
+mev15_050.scr:5	mev15_050.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	うん…。\n一人ぼっちで生きて行くのは、\n寂しいだろうね	Yeah...\nLiving on all alone must be so lonely,\nI'm sure.	
+mev15_050.scr:6	mev15_050.scr	6	ジュディス	Judith	personagem	CRLF x2	偶然なのかしらね。\n私達の仲間のカノンノが、彼のディセンダーと、\nとても似たヒト、そして同じ名前だったのは…	Is it sheer coincidence?\nThat our companion Kanonno resembles his\nDescender so, and shares her name...?	
+mev15_050.scr:7	mev15_050.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	○○。\nどうしたの？	○○.\nWhat's the matter?	
+mev15_050.scr:8	mev15_050.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そう？\n何だか疲れてるみたいだけど…	Really?\nYou look somewhat exhausted, though...	
+mev15_050.scr:9	mev15_050.scr	9	カノンノ	Kanonno Grassvalley	personagem		もし、つらかったら戻ってもいいから	If it's painful, we can turn back.	
+mev15_050.scr:10	mev15_050.scr	10	アーチェ	Arche Klein	personagem	CRLF x1	○○、無理しないでよね！\nさ、ぱぱっと片付けちゃお！	○○, don't push yourself too hard!\nCome on, let's wrap this up quickly!	
+mev15_050.scr:11	mev15_050.scr	11	アーチェ	Arche Klein	personagem	CRLF x1	らしくないじゃん！\nあんたが考え事なんて	It's not like you!\nBrooding over things like that.	
+mev15_050.scr:12	mev15_050.scr	12	アーチェ	Arche Klein	personagem		目的地まで、あと少しみたいよ	Looks like we're close to our goal!	
+mev15_050.scr:13	mev15_050.scr	13	アーチェ	Arche Klein	personagem		ほら、とっとと行こっ！	Come on, let's get moving!	
+mev15_050.scr:14	mev15_050.scr	14	(sem caixa de nome)	(sem caixa de nome)	sem_caixa		ジュディスの言葉を思い出す	Recall Judith's words	
+mev15_050.scr:15	mev15_050.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		何でもない、と言う	Say it's nothing	
+mev15_050.scr:16	mev15_050.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		考え事をしていた、と言う	Say you were deep in thought	
+mev15_060.scr:0	mev15_060.scr	0	カノンノ	Kanonno Grassvalley	personagem		これは…？	What is this...?	
+mev15_060.scr:1	mev15_060.scr	1	カノンノ	Kanonno Grassvalley	personagem		これが、ニアタ…？	Is this... Niata...?	
+mev15_060.scr:2	mev15_060.scr	2	アーチェ	Arche Klein	personagem		ってよりは、部品じゃない？	More like spare parts, isn't it?	
+mev15_060.scr:3	mev15_060.scr	3	アーチェ	Arche Klein	personagem		何か、光ってるけど…	It's glowing somewhat, though...	
+mev15_060.scr:4	mev15_060.scr	4	カノンノ	Kanonno Grassvalley	personagem		ニアタ…	Niata...	
+mev15_060.scr:5	mev15_060.scr	5	アーチェ	Arche Klein	personagem	CRLF x2	わあぁっ！？\nす、すごい…！\n自分で直しちゃった…の…？	Waaaah?!\nIn-Incredible...!\nDid he repair himself...?	
+mev15_060.scr:6	mev15_060.scr	6	ニアタ	Niata Monad	personagem	CRLF x1	そなた…。\nカノンノ…か？	You...\nAre you... Kanonno?	
+mev15_060.scr:7	mev15_060.scr	7	カノンノ	Kanonno Grassvalley	personagem		どうして私の名前を？	How do you know my name?	
+mev15_060.scr:8	mev15_060.scr	8	ニアタ	Niata Monad	personagem		…そなたに会えるとは…	...To think I would meet you...	
+mev15_060.scr:9	mev15_060.scr	9	カノンノ	Kanonno Grassvalley	personagem		ど、どういう事…	Wh-What do you mean...?	
+mev15_060.scr:10	mev15_060.scr	10	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ニアタの世界のディセンダーと、\n私がそっくり？	I look exactly like the Descender\nof Niata's world?	
+mev15_060.scr:11	mev15_060.scr	11	カノンノ	Kanonno Grassvalley	personagem		名前も…同じなんて…	And our names... are the same too...?	
+mev15_060.scr:12	mev15_060.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	でも、私はパスカなんて世界や、\nニアタの事なんて何も知らない…	Yet I know nothing of a realm like Pasca,\nor of Niata...	
+mev15_060.scr:13	mev15_060.scr	13	ニアタ	Niata Monad	personagem	CRLF x1	混乱させてしまった様だね。\nすまない	It seems I have bewildered you.\nI apologize.	
+mev15_060.scr:14	mev15_060.scr	14	ニアタ	Niata Monad	personagem	CRLF x1	そなたが我々の世界を知らなくても当然だ。\nこの世界に我々の故郷の因子はない	It is natural you do not know our world.\nThis world holds no factors of our home.	
+mev15_060.scr:15	mev15_060.scr	15	ニアタ	Niata Monad	personagem	CRLF x1	そなたはこの世界の住人で、\n我々の世界との接点は何もないのだから	You are an inhabitant of this world,\nwith no connection to our realm.	
+mev15_060.scr:16	mev15_060.scr	16	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	わ、私はただ…、\nあなたに聞きたい事があって	I-I just...\nhad something I wanted to ask you.	
+mev15_060.scr:17	mev15_060.scr	17	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	色んな世界を旅したあなたなら\n何か知っているかもって…	Having traveled through various worlds,\nI thought you might know something...	
+mev15_060.scr:18	mev15_060.scr	18	ニアタ	Niata Monad	personagem		何を聞きたいのかね…	What is it you wish to ask...?	
+mev15_060.scr:19	mev15_060.scr	19	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あの、この風景を、\n見た事はありませんか…？	Um, have you ever seen\nthis scenery before...?	
+mev15_060.scr:20	mev15_060.scr	20	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	この世界にはない風景なんです。\nこの文字も…	It's scenery not found in this world.\nThis writing, too...	
+mev15_060.scr:21	mev15_060.scr	21	ニアタ	Niata Monad	personagem		これは…	This is...	
+mev15_060.scr:22	mev15_060.scr	22	ニアタ	Niata Monad	personagem	CRLF x1	…この風景は我々がかつて訪れた\n別の世界のものだ	...This landscape belongs to another world\nthat we once visited.	
+mev15_060.scr:23	mev15_060.scr	23	ニアタ	Niata Monad	personagem	CRLF x1	この文字にも見覚えがある。\nこれはまた別の世界のものだ…	I recognize this writing as well.\nIt belongs to yet another world...	
+mev15_060.scr:24	mev15_060.scr	24	カノンノ	Kanonno Grassvalley	personagem		それって…	Does that mean...?	
+mev15_060.scr:25	mev15_060.scr	25	ニアタ	Niata Monad	personagem		…これは、仮定だが	...This is merely a hypothesis, but...	
+mev15_060.scr:26	mev15_060.scr	26	ニアタ	Niata Monad	personagem	CRLF x2	そなたの中にあるのは、\nかつてあった世界の因子では\nないだろうか？	Could what dwells within you be\ninformational factors\nof worlds that once existed?	
+mev15_060.scr:27	mev15_060.scr	27	ニアタ	Niata Monad	personagem	CRLF x1	その因子はこの世界のどこにもなく、\nそなただけに受け継がれているのだ	Those factors exist nowhere in this world;\nthey are inherited solely by you.	
+mev15_060.scr:28	mev15_060.scr	28	カノンノ	Kanonno Grassvalley	personagem		それが、なぜ…私に？	Why would that... be in me?	
+mev15_060.scr:29	mev15_060.scr	29	ニアタ	Niata Monad	personagem		それは、我々にもわからぬ	That, even we cannot say.	
+mev15_060.scr:30	mev15_060.scr	30	ニアタ	Niata Monad	personagem	CRLF x2	だが、そなたの存在。\n我々の世界以前にもカノンノの因子が\nあったという事かもしれぬ…	Yet your very existence.\nIt may mean Kanonno's factors existed\neven prior to our world...	
+mev15_060.scr:31	mev15_060.scr	31	ニアタ	Niata Monad	personagem	CRLF x1	この世界の種子を生んだ世界、\nそしてまたその種子を生んだ世界…	The world that bore this world's seed,\nand the world that bore that seed...	
+mev15_060.scr:32	mev15_060.scr	32	ニアタ	Niata Monad	personagem	CRLF x2	カノンノという個体の情報の根源があり、\nその世界から派生したのが、\nここルミナシアや、我々のパスカ…か？	A root source of info called Kanonno...\nDeriving into this Luminasia\nand our Pasca... perhaps?	
+mev15_060.scr:33	mev15_060.scr	33	(sem caixa de nome)	(sem caixa de nome)	sem_caixa		カノンノにジュディスの話を伝える	Tell Kanonno what Judith said	
+mev15_070.scr:0	mev15_070.scr	0	ロックス	Rocks	personagem		皆さ〜〜〜〜〜〜ん！！	Eveeeeeryoooone!!	
+mev15_070.scr:1	mev15_070.scr	1	ロックス	Rocks	personagem		皆さん、船が…船が…	Everyone, the ship... the ship...!	
+mev15_070.scr:2	mev15_070.scr	2	アーチェ	Arche Klein	personagem		船がどうしたの！？	What happened to the ship?!	
+mev15_070.scr:3	mev15_070.scr	3	ロックス	Rocks	personagem		高度を保てなくて、降下し始めたんです	It lost altitude and began to descend!	
+mev15_070.scr:4	mev15_070.scr	4	ロックス	Rocks	personagem	CRLF x2	皆さんの帰還を待とうにも、\nこの高さまでバンエルティア号が\n上がれなくなってしまって…	Even wishing to await your return,\nthe Van Eltia can no longer rise\nto this altitude...	
+mev15_070.scr:5	mev15_070.scr	5	カノンノ	Kanonno Grassvalley	personagem		じゃあ、私達はここに残された状態に？	Then are we stranded up here?!	
+mev15_070.scr:6	mev15_070.scr	6	アーチェ	Arche Klein	personagem	CRLF x1	あたしはホウキがあるけど、\nせいぜい一人が限界よ	I have my broom, but carrying one person\nat most is my limit!	
+mev15_070.scr:7	mev15_070.scr	7	ロックス	Rocks	personagem	CRLF x2	大丈夫です！\n一人ずつでも僕が持ち上げて\n飛んで連れて帰りますっ！！	Don't worry!\nEven one by one, I'll lift you up\nand fly you back down!!	
+mev15_070.scr:8	mev15_070.scr	8	カノンノ	Kanonno Grassvalley	personagem		無茶だよ！	That's reckless!	
+mev15_070.scr:9	mev15_070.scr	9	ニアタ	Niata Monad	personagem	CRLF x2	待ちなさい。\nそなた、今バンエルティア号、\nと言ったかね？	Wait.\nDid you just say\nthe Van Eltia?	
+mev15_070.scr:10	mev15_070.scr	10	ロックス	Rocks	personagem	CRLF x1	え、ええ。\nそうですが	Y-Yes.\nThat is its name, but...	
+mev15_070.scr:11	mev15_070.scr	11	ロックス	Rocks	personagem		（何だか硬そうなヒトだなぁ…？）	(He seems like quite a rigid person...?)	
+mev15_070.scr:12	mev15_070.scr	12	ニアタ	Niata Monad	personagem	CRLF x1	…それは驚きだ。\nますますこの世界に興味が湧いた	...That is surprising.\nMy interest in this world only deepens.	
+mev15_070.scr:13	mev15_070.scr	13	ニアタ	Niata Monad	personagem		では、我々に任せたまえ	Leave this to us, then.	
+mev15_080.scr:0	mev15_080.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	あら？\nやっと、お目覚めみたい	Oh?\nLooks like you're finally awake.	
+mev15_080.scr:1	mev15_080.scr	1	カノンノ	Kanonno Grassvalley	personagem		○○、目が覚めたのね	○○, you're awake!	
+mev15_080.scr:2	mev15_080.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あの後、みんな気を失ってしまってて。\n目を開けたら、船に戻ってたんだ	We all lost consciousness after that.\nWhen I opened my eyes, we were back!	
+mev15_080.scr:3	mev15_080.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あそこであった事は、\nアンジュさんに報告したから	I already reported everything\nthat happened there to Ange.	
+mev15_080.scr:4	mev15_080.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	私の存在が何なのか、はっきりとは\nわからなかったけど…	We couldn't clearly figure out\nwhat my existence truly is, but...	
+mev15_080.scr:5	mev15_080.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	仮にニアタの話が正しかったとしても、\n私の中に過去の世界の記憶が\n何の為にあるのかなんて、わからないし	Even if Niata's words were true,\nfor what purpose memories of past worlds\nare inside me remains unknown.	
+mev15_080.scr:6	mev15_080.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	でも、ヴェラトローパへ連れて行って\nくれた事、嬉しかったよ。\nありがとう…	Even so, taking me to Veratropa\nmade me truly happy.\nThank you...	
+mev15_080.scr:7	mev15_080.scr	7	ジュディス	Judith	personagem	CRLF x2	カノンノの存在は、世界を越えて\n受け継がれた記憶の証明なのかも\nしれない…わね	Kanonno's existence may well be proof\nof memories inherited\nacross worlds... perhaps.	
+mev15_080.scr:8	mev15_080.scr	8	ジュディス	Judith	personagem	CRLF x2	それにしても、\nまたニアタと話す事が出来るなんて、\n驚いたわ	Even so, being able to speak with Niata\nonce again was quite\na surprise.	
+mev15_080.scr:9	mev15_080.scr	9	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ニアタは機関室よ。\nもう、みんなとなじんで\n船の修理をアドバイスしてくれてるの	Niata is in the engine room.\nAlready mingling and advising everyone\non the ship's repairs.	
+mev15_080.scr:10	mev15_080.scr	10	ジュディス	Judith	personagem		あなたも機関室へ行ってみたら？	Why not head to the engine room yourself?	
+mev15_085.scr:0	mev15_085.scr	0	(mensagem de sistema)	(mensagem de sistema)	sistema		船の調子が悪い為、ヴェラトローパには行けません	Ship down; cannot travel to Veratropa.	
+mev15_086.scr:0	mev15_086.scr	0	アンジュ	Ange Serena	personagem	CRLF x2	船の調子はどうなのかしらね…。\nねえ、ちょっと機関室へ行って\n様子を見てきてくれないかな？	I wonder how the ship is doing...\nCould you visit the engine room\nand check on things for me?	
+mev15_090.scr:0	mev15_090.scr	0	ジェイド	Jade Curtiss	personagem	CRLF x2	ほう、驚きましたね。\nこの船は星晶を使用した内燃機関と\n思っていたのですが	My, quite a surprise.\nI assumed this vessel ran on an internal\nengine powered by Star Crystals.	
+mev15_090.scr:1	mev15_090.scr	1	ニアタ	Niata Monad	personagem	CRLF x1	これは半永久機関だ。\n別の世界で同じ仕組みの船を見た事がある	This is a semi-perpetual engine.\nI have seen such a ship in another world.	
+mev15_090.scr:2	mev15_090.scr	2	ニアタ	Niata Monad	personagem	CRLF x1	ふむ…、異常の原因は調整に必要な計算を\n間違えた為だろう	Hmph... the malfunction arose from errors\nin calculations required for tuning.	
+mev15_090.scr:3	mev15_090.scr	3	チャット	Chat	personagem		うっ…	Urgh...	
+mev15_090.scr:4	mev15_090.scr	4	ジェイド	Jade Curtiss	personagem		では、機器類自体に異常は無いのですね	Then the machinery itself is fine, yes?	
+mev15_090.scr:5	mev15_090.scr	5	エミル	Emil Castagnier	personagem	CRLF x2	そういえば、僕達この船に乗って長いけど、\n燃料の星晶を補充したところは、一度も\n見た事なかったよね	Come to think of it, we've sailed long,\nyet I've never once seen Star Crystals\nrefueled on this ship, right?	
+mev15_090.scr:6	mev15_090.scr	6	ジェイド	Jade Curtiss	personagem		チャットは知っていたのですか？	Did you know about this, Chat?	
+mev15_090.scr:7	mev15_090.scr	7	チャット	Chat	personagem		もちろんです	Of course.	
+mev15_090.scr:8	mev15_090.scr	8	ジェイド	Jade Curtiss	personagem		…本当ですか？	...Is that truly so?	
+mev15_090.scr:9	mev15_090.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x1	そういう大事な話は、\n早くして頂かないと困ります	You should have informed us of\nsuch vital matters far sooner.	
+mev15_090.scr:10	mev15_090.scr	10	ジェイド	Jade Curtiss	personagem	CRLF x2	いいですか。\nこの船は星晶で動いていない。\nこれがいかに重要な話かわかりますか？	Listen closely.\nThis ship does not run on Star Crystals.\nDo you realize how monumental that is?	
+mev15_090.scr:11	mev15_090.scr	11	ジェイド	Jade Curtiss	personagem	CRLF x2	星晶を採り尽くし、\n後退に向かうしかないこの世界を\n救う光明となるかもしれないのですよ？	This world has exhausted Star Crystals\nand faces decline; this could be the ray\nof light that saves it all, you know?	
+mev15_090.scr:12	mev15_090.scr	12	エミル	Emil Castagnier	personagem		それじゃあ…	Then does that mean...?	
+mev15_090.scr:13	mev15_090.scr	13	ジェイド	Jade Curtiss	personagem	CRLF x1	もし、この機関の仕組みを解明し、\n同じ物が作れたとしたら	If we unravel this engine's mechanism\nand manage to replicate it...	
+mev15_090.scr:14	mev15_090.scr	14	ジェイド	Jade Curtiss	personagem	CRLF x2	星晶を巡って国家同士が争う事も、\n採掘の為に人々が駆りだされる事も\n無くなりますよ	Nations warring over Star Crystals,\nand people conscripted for mining,\nwill become things of the past.	
+mev15_090.scr:15	mev15_090.scr	15	チャット	Chat	personagem		そ、そうですが…！	Th-That may be true, but...!	
+mev15_090.scr:16	mev15_090.scr	16	チャット	Chat	personagem	CRLF x2	ボクはひいおじいさんとの約束で、\nこの船の技術を守る様に\n言われていたんですよ…！	I promised my great-grandfather\nthat I would protect the technology\nof this ship...!	
+mev15_090.scr:17	mev15_090.scr	17	チャット	Chat	personagem		…今回故障したのは想定外でしたけど…	...Though breaking down was unexpected...	
+mev15_090.scr:18	mev15_090.scr	18	エミル	Emil Castagnier	personagem		灯台下暗し…だね	Right under our noses, huh...	
+mev15_090.scr:19	mev15_090.scr	19	エミル	Emil Castagnier	personagem	CRLF x1	変わった船だなぁ、とは\n思っていたけど	I always thought it was an unusual ship,\nbut still...	
+mev15_090.scr:20	mev15_090.scr	20	ジェイド	Jade Curtiss	personagem	CRLF x1	この機関はヴェラトローパの民によるものか、\nそれとも異世界の物なのか…	Is this engine by the Veratropans,\nor from another world entirely...?	
+mev15_090.scr:21	mev15_090.scr	21	ジェイド	Jade Curtiss	personagem	CRLF x1	いずれにしろ、星晶を用いない\n優れた技術を持った民がいたんですね	Either way, people with technology\nnot needing Star Crystals existed!	
+mev15_090.scr:22	mev15_090.scr	22	ニアタ	Niata Monad	personagem	CRLF x1	半永久機関、か。\n…方法が無い訳ではないが…	A semi-perpetual engine, huh.\n...A method is not impossible, but...	
+mev15_090.scr:23	mev15_090.scr	23	ジェイド	Jade Curtiss	personagem		何か名案でも？	Do you have a fine idea?	
+mev15_090.scr:24	mev15_090.scr	24	ニアタ	Niata Monad	personagem	CRLF x1	…いや、すまない。\n我々に今出来る事ではない	...No, forgive me.\nIt is not something we can achieve now.	
+mev15_090.scr:25	mev15_090.scr	25	チャット	Chat	personagem		ああ、直りました！	Ah, it's fixed!	
+mev15_090.scr:26	mev15_090.scr	26	チャット	Chat	personagem		ううっ…本当に良かった…！！	Whew... thank goodness...!!	
+mev15_090.scr:27	mev15_090.scr	27	ジェイド	Jade Curtiss	personagem		船の高度も上がっている様ですね	The ship's altitude is rising as well.	
+mev15_090.scr:28	mev15_090.scr	28	ジェイド	Jade Curtiss	personagem	CRLF x1	やれやれ。\n一時はどうなる事かと思いましたよ	Good grief.\nI wondered what would happen for a moment.	
+mev15_090.scr:29	mev15_090.scr	29	ジェイド	Jade Curtiss	personagem		これでまた仕事に励めますね	Now we can get right back to work!	
+mev15_100.scr:0	mev15_100.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ニアタ。\nなぜ、アドリビトムに力を貸そうと\n思ったの？	Niata.\nWhy did you decide to lend\nyour strength to Ad Libitum?	
+mev15_100.scr:1	mev15_100.scr	1	ニアタ	Niata Monad	personagem	CRLF x2	誓いを立てたのだ。\n我々の故郷の因子を受け継ぐ世界に\n力を貸していくと	We swore an oath.\nTo lend our aid to worlds inheriting\nthe factors of our homeland.	
+mev15_100.scr:2	mev15_100.scr	2	ニアタ	Niata Monad	personagem	CRLF x1	我々は死ねぬ機械の身体。\n永遠の時間を生きなければならん	We possess undying mechanical bodies,\nforced to live through eternity.	
+mev15_100.scr:3	mev15_100.scr	3	ニアタ	Niata Monad	personagem	CRLF x1	故郷のディセンダーに仕える為に、\n我々が選んだ道だが	Though it was the path we chose\nto serve our homeland's Descender.	
+mev15_100.scr:4	mev15_100.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	私も、この世界も、ニアタの故郷の情報因子を\n受け継いでいないんでしょう。\nなのに…	Neither I nor this world inherit\nfactors of your home, right?\nAnd yet...	
+mev15_100.scr:5	mev15_100.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	我々のディセンダーなら、\nそんな事は考えないさ	Our Descender\nwould never think in such terms.	
+mev15_100.scr:6	mev15_100.scr	6	ニアタ	Niata Monad	personagem	CRLF x1	危機が訪れれば、乗り越える。\n我々は、その意志を受け継いでいるだけだ	When crisis arrives, overcome it.\nWe merely inherit that steadfast will.	
+mev15_100.scr:7	mev15_100.scr	7	ニアタ	Niata Monad	personagem	CRLF x1	それに因子を引き継いでいないこの世界に、\nそなたがいる事にも興味がある	Moreover, your presence in a world without\nthose factors deeply intrigues us.	
+mev15_100.scr:8	mev15_100.scr	8	ニアタ	Niata Monad	personagem	CRLF x2	いや、興味という言い方は良くないな…。\n嬉しいんだよ。\nまたカノンノに出会えた事が…	No, calling it intrigue is improper...\nI am simply glad.\nTo meet Kanonno once again...	
+mev15_100.scr:9	mev15_100.scr	9	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	私は…、\nニアタの世界のカノンノにはなれないよ…	I... cannot become the Kanonno\nof your world, Niata...	
+mev15_100.scr:10	mev15_100.scr	10	ニアタ	Niata Monad	personagem	CRLF x2	我々は、そんな事は望んではいないよ。\nそなたは、そのまま自分の望む姿で\nありなさい	We desire no such thing from you.\nRemain just as you are,\nin the form you truly wish to be.	
+mev15_100.scr:11	mev15_100.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	…うん。\nありがとう	...Yeah.\nThank you.	
+mev15_110.scr:0	mev15_110.scr	0	リタ	Rita Mordio	personagem	CRLF x2	化石のドクメントを調べたけど、\n大体、既に化石になっちゃってるものだから、\nほとんどが鉱物のドクメントなのよね	I examined the fossil's Document, but\nsince it's fossilized, nearly all of it\nis mineral Document, you see.	
+mev15_110.scr:1	mev15_110.scr	1	リタ	Rita Mordio	personagem	CRLF x1	ツリガネトンボ草本来のドクメントは、\nあまりわからなかったわ	I couldn't discern much of\nthe original Bell Dragonfly Herb Document.	
+mev15_110.scr:2	mev15_110.scr	2	シング	Shing Meteoryte	personagem	CRLF x2	う〜ん。\n残念だなあ…。\nオレ、力になれる事、ないかな？	Mmm.\nWhat a pity...\nIs there anything I can help with?	
+mev15_110.scr:3	mev15_110.scr	3	リタ	Rita Mordio	personagem		…あんたには無理ね	...Impossible for you.	
+mev15_110.scr:4	mev15_110.scr	4	シング	Shing Meteoryte	personagem	CRLF x2	そりゃあ、頭使って何かやるってのは\n苦手だけどさ、何にも力を貸せない\nわけじゃない……と思う	Sure, doing things that require brainpower\nisn't my strong suit, but I don't think\nI'm totally useless... I hope.	
+mev15_110.scr:5	mev15_110.scr	5	リタ	Rita Mordio	personagem	CRLF x1	ふ〜ん。\n例えば？	Hmph.\nFor example?	
+mev15_110.scr:6	mev15_110.scr	6	シング	Shing Meteoryte	personagem	CRLF x1	ええと、肩がこったらもんであげる、とか。\n嫌いな食べ物が出たら食べてあげるとか	Um, massaging your shoulders if stiff,\nor eating food you hate if served!	
+mev15_110.scr:7	mev15_110.scr	7	リタ	Rita Mordio	personagem		はぁ？	Huh?!	
+mev15_110.scr:8	mev15_110.scr	8	リタ	Rita Mordio	personagem	CRLF x2	…あ、ありがと。\nその気持ちだけもらっとくわ…。\nだ、だから邪魔しないでよね	...Th-Thanks.\nI'll take the thought, at least...\nS-So don't get in my way, alright?!	
+mev15_110.scr:9	mev15_110.scr	9	リタ	Rita Mordio	personagem	CRLF x1	それに、煮詰まって出なくなったら、\n頭切り替えて別案考えた方が効率的だし	Besides, when stuck with no ideas,\nswitching gears is much more efficient!	
+mev15_110.scr:10	mev15_110.scr	10	シング	Shing Meteoryte	personagem	CRLF x1	そうだ、ニアタを呼んでくるよ。\n何か答えをくれるかもしれない	I know, I'll go call Niata!\nHe might give us an answer.	
+mev15_110.scr:11	mev15_110.scr	11	リタ	Rita Mordio	personagem		あ、待ちなさい！	Ah, wait a minute!	
+mev15_110.scr:12	mev15_110.scr	12	リタ	Rita Mordio	personagem		ああもう、人の話聞きなさいよ…	Good grief, listen to what people say...!	
+mev15_110.scr:13	mev15_110.scr	13	シング	Shing Meteoryte	personagem		ほら、連れて来たよ！	Look, I brought him!	
+mev15_110.scr:14	mev15_110.scr	14	シング	Shing Meteoryte	personagem	CRLF x1	わからない事があったら、\n聞いてみるのが一番だろ	When there's something you don't know,\nasking is the best approach, right?	
+mev15_110.scr:15	mev15_110.scr	15	リタ	Rita Mordio	personagem		早っ！	That was fast!	
+mev15_110.scr:16	mev15_110.scr	16	リタ	Rita Mordio	personagem	CRLF x2	…あんたねぇ、さっきの話はニアタがくれた\nプレートの情報から得た結果なの。\n同じ事聞いてどうすんのよ！	Listen here, what I just said was\nobtained from Niata's stone plate!\nWhat's the point of asking again?!	
+mev15_110.scr:17	mev15_110.scr	17	シング	Shing Meteoryte	personagem		え？　そうなの？	Eh? Is that so?	
+mev15_110.scr:18	mev15_110.scr	18	リタ	Rita Mordio	personagem	CRLF x1	はあ。\nまあいいわ	Sigh.\nWhatever.	
+mev15_110.scr:19	mev15_110.scr	19	リタ	Rita Mordio	personagem		ねえ、ニアタ	Hey, Niata.	
+mev15_110.scr:20	mev15_110.scr	20	リタ	Rita Mordio	personagem	CRLF x2	あんたがジュディスに託した\nプレートの情報を元に、あたし達は\n封印次元に必要な素材を集めているの	Based on the plate you gave Judith,\nwe have been gathering the materials\nneeded for the Sealing Dimension.	
+mev15_110.scr:21	mev15_110.scr	21	リタ	Rita Mordio	personagem	CRLF x2	でも、そのあと二つが、\nこの世ではもう手に入らないのよ。\n絶滅してるから…	Yet the remaining two\ncan no longer be obtained in this world.\nBecause they're extinct...	
+mev15_110.scr:22	mev15_110.scr	22	ニアタ	Niata Monad	personagem	CRLF x1	そうか、星晶が生まれた頃と、\n世界の環境は大きく変わったのか	I see, the world's environment shifted\ngreatly since Star Crystals were born.	
+mev15_110.scr:23	mev15_110.scr	23	ニアタ	Niata Monad	personagem	CRLF x1	生物も、進化や混種が進んでいても\nおかしくはない…	It is hardly strange that creatures have\nundergone evolution or hybridization...	
+mev15_110.scr:24	mev15_110.scr	24	ニアタ	Niata Monad	personagem	CRLF x1	残念だ。\n力になれると思ったのだが…	A pity.\nI thought I might be of assistance...	
+mev15_110.scr:25	mev15_110.scr	25	リタ	Rita Mordio	personagem	CRLF x1	…っ！！！\n進化や混種…、か	...!!!\nEvolution or hybridization... huh?!	
+mev15_110.scr:26	mev15_110.scr	26	リタ	Rita Mordio	personagem	CRLF x1	ちょっ、ツリガネトンボ草って、\n何目何科何種？	Wait! What order, family, and species\nwas the Bell Dragonfly Herb?!	
+mev15_110.scr:27	mev15_110.scr	27	リタ	Rita Mordio	personagem		こうしちゃいられないわ！！	No time to waste!!	
+mev15_110.scr:28	mev15_110.scr	28	シング	Shing Meteoryte	personagem		あっ、リタ！	Ah, Rita!	
+mev15_110.scr:29	mev15_110.scr	29	シング	Shing Meteoryte	personagem		ねえ、どうしたんだよー！	Hey, what's got into you?!	
+mev15_110.scr:30	mev15_110.scr	30	リタ	Rita Mordio	personagem	CRLF x1	あんたのおせっかい、\n役に立ったって事よ	Your meddling actually\nturned out to be useful, that's what!	
+mev15_110.scr:31	mev15_110.scr	31	シング	Shing Meteoryte	personagem		え…、ええっ？	Eh... whaaat?!	
+mev15_110.scr:32	mev15_110.scr	32	シング	Shing Meteoryte	personagem	CRLF x1	よくわからないけど、\n何かヒントが掴めたんだね	I don't really get it,\nbut she must've seized upon a hint!	
+mev15_110.scr:33	mev15_110.scr	33	シング	Shing Meteoryte	personagem		へへ、力になれて良かったよ	Hehe, glad I could be of help!	
+mev15_120.scr:0	mev15_120.scr	0	ウィル	Will Raynard	personagem	CRLF x1	アンジュ。\n一つ、依頼を出したい	Ange.\nI wish to issue a request.	
+mev15_120.scr:1	mev15_120.scr	1	アンジュ	Ange Serena	personagem		はい、何かしら？	Yes, what would it be?	
+mev15_120.scr:2	mev15_120.scr	2	ウィル	Will Raynard	personagem	CRLF x1	これから、ツリガネトンボ草が辿った\n進化種を集めたい	I wish to collect evolutionary species\ndescended from the Bell Dragonfly Herb.	
+mev15_120.scr:3	mev15_120.scr	3	アンジュ	Ange Serena	personagem		進化種を？	Evolutionary species?	
+mev15_120.scr:4	mev15_120.scr	4	リタ	Rita Mordio	personagem	CRLF x2	本来絶滅しているツリガネトンボ草だけど、\nもしかしたら、進化種に受け継がれた\nドクメントで補完出来るかもしれないのよ	The Bell Dragonfly Herb is extinct, but\nwe may be able to piece it together with\nDocuments preserved in its descendants!	
+mev15_120.scr:5	mev15_120.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	なるほど！\n絶滅したサーベルタイガーのルーツを\nトラやライオンに求める様なものね	I see!\nLike tracing the extinct saber-tooth tiger\nthrough modern lions and tigers!	
+mev15_120.scr:6	mev15_120.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	それじゃ、\n早速この依頼を登録しなくっちゃ	In that case,\nwe must register this request right away!	

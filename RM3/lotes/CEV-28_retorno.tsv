@@ -1,0 +1,201 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	traducao
+cev28_010.scr:0	cev28_010.scr	0	ルカ	Ruca Milda	personagem	CRLF x1	じゃあ……ジーニアスにも\n好きな人がいるんだ？	So... does that mean you have\nsomeone you like too, Genis?		So... does that mean you have\nsomeone you like too, Genis?
+cev28_010.scr:1	cev28_010.scr	1	ジーニアス	Genis Sage	personagem		う、うん……	Y-Yeah...		Y-Yeah...
+cev28_010.scr:2	cev28_010.scr	2	ジーニアス	Genis Sage	personagem	CRLF x1	プレセアを見てると、ドキドキして\n胸が苦しくなるよ……	Whenever I look at Presea, my heart\nraces and my chest gets so tight......		Whenever I look at Presea, my heart\nraces and my chest gets so tight......
+cev28_010.scr:3	cev28_010.scr	3	ルカ	Ruca Milda	personagem	CRLF x2	そうかぁ……。\nジーニアスは、本当に\nプレセアの事が大好きなんだね	I see......\nYou really love Presea\na whole lot, don't you, Genis?		I see......\nYou really love Presea\na whole lot, don't you, Genis?
+cev28_010.scr:4	cev28_010.scr	4	ルカ	Ruca Milda	personagem		ねえ、どんなところが好きなの？	Hey, what is it you like about her?		Hey, what is it you like about her?
+cev28_010.scr:5	cev28_010.scr	5	ジーニアス	Genis Sage	personagem	CRLF x1	えっ？\nうーん、そうだなぁ	Eh?\nWell, let me see...		Eh?\nWell, let me see...
+cev28_010.scr:6	cev28_010.scr	6	ジーニアス	Genis Sage	personagem	CRLF x2	頑張り屋さんで、お父さん思いで……\nミステリアスなんだけど\n女の子らしいところ……かな？	She works hard, cares for her father...\nShe's mysterious, yet so girly...\nthings like that, I guess?		She works hard, cares for her father...\nShe's mysterious, yet so girly...\nthings like that, I guess?
+cev28_010.scr:7	cev28_010.scr	7	ジーニアス	Genis Sage	personagem		あっ、プッ……プレセア？	Ah, P-P-Presea?!		Ah, P-P-Presea?!
+cev28_010.scr:8	cev28_010.scr	8	ジーニアス	Genis Sage	personagem	CRLF x2	どこ行くの？　え、ロックスの手伝い？\nボクも手伝うよ。それ、どこに運ぶの？\n……うっ！　重……ッ	Where are you going? Helping Rocks?\nI'll help too! Where's that going?\n...Guh! It's so... heavy...!!		Where are you going? Helping Rocks?\nI'll help too! Where's that going?\n...Guh! It's so... heavy...!!
+cev28_010.scr:9	cev28_010.scr	9	ジーニアス	Genis Sage	personagem	CRLF x2	あ、ううん。何でもない。\n全っ然平気だよ、このくらい！\nあははははっ	Ah, n-no, it's nothing at all!\nThis is a piece of cake for me!\nAhahahaha!		Ah, n-no, it's nothing at all!\nThis is a piece of cake for me!\nAhahahaha!
+cev28_010.scr:10	cev28_010.scr	10	ルカ	Ruca Milda	personagem		ジーニアス……積極的だなぁ……	Genis is... so proactive......		Genis is... so proactive......
+cev28_010.scr:11	cev28_010.scr	11	ルカ	Ruca Milda	personagem		よ〜し、僕だって……！	All right, I can do it too......!		All right, I can do it too......!
+cev28_020.scr:0	cev28_020.scr	0	ジーニアス	Genis Sage	personagem	CRLF x2	えっと……ソフィ？\nボク、ジーニアスっていうんだ。\nよろしくね	Um... Sophie, right?\nI'm Genis.\nNice to meet you!		Um... Sophie, right?\nI'm Genis.\nNice to meet you!
+cev28_020.scr:1	cev28_020.scr	1	ソフィ	Sophie	personagem	CRLF x2	……ジーニアス。\nうん。　\nよろしく	...Genis.\nYeah.\nNice to meet you.		...Genis.\nYeah.\nNice to meet you.
+cev28_020.scr:2	cev28_020.scr	2	ジーニアス	Genis Sage	personagem	CRLF x1	ここには歳の近い子があんまりいないから、\nソフィが来てくれて嬉しいよ	There aren't many kids my age here,\nso I'm really glad you came, Sophie!		There aren't many kids my age here,\nso I'm really glad you came, Sophie!
+cev28_020.scr:3	cev28_020.scr	3	ソフィ	Sophie	personagem		…………どうして？	......Why?		......Why?
+cev28_020.scr:4	cev28_020.scr	4	ジーニアス	Genis Sage	personagem		え？	Huh?		Huh?
+cev28_020.scr:5	cev28_020.scr	5	ソフィ	Sophie	personagem		歳が近い子がいると、どうして嬉しいの	Why are you glad someone is your age?		Why are you glad someone is your age?
+cev28_020.scr:6	cev28_020.scr	6	ジーニアス	Genis Sage	personagem	CRLF x2	えっと……ほら、年上の人ばっかりだと\n色々気を遣うじゃない？\nそういうのがないから、気楽でいいしさ	Well... with nothing but adults,\nyou have to be so careful around them.\nWithout that, you can just relax!		Well... with nothing but adults,\nyou have to be so careful around them.\nWithout that, you can just relax!
+cev28_020.scr:7	cev28_020.scr	7	ソフィ	Sophie	personagem		……そういうものなの？	...Is that how it works?		...Is that how it works?
+cev28_020.scr:8	cev28_020.scr	8	ジーニアス	Genis Sage	personagem		う、うん……多分……	Y-Yeah... I guess so......		Y-Yeah... I guess so......
+cev28_020.scr:9	cev28_020.scr	9	ソフィ	Sophie	personagem	CRLF x1	そう……。\nわかった	I see......\nUnderstood.		I see......\nUnderstood.
+cev28_020.scr:10	cev28_020.scr	10	ジーニアス	Genis Sage	personagem	CRLF x1	え？　\nちょ、ちょっと……	Eh?\nH-Hold on a second......		Eh?\nH-Hold on a second......
+cev28_020.scr:11	cev28_020.scr	11	ジーニアス	Genis Sage	personagem		……何か、ソフィって	...Somehow, Sophie kind of...		...Somehow, Sophie kind of...
+cev28_020.scr:12	cev28_020.scr	12	ジーニアス	Genis Sage	personagem		プレセアに似てるかも……	reminds me a bit of Presea......		reminds me a bit of Presea......
+cev28_030.scr:0	cev28_030.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	なぁ、さっきよ……そこの廊下で\n妙な女とすれ違ったんだが……	Hey, just now... in that hallway,\nI passed by a really strange woman......		Hey, just now... in that hallway,\nI passed by a really strange woman......
+cev28_030.scr:1	cev28_030.scr	1	リッド	Reid Hershel	personagem		妙な女？	A strange woman?		A strange woman?
+cev28_030.scr:2	cev28_030.scr	2	ロニ	Loni Dunamis	personagem		ああ……	Yeah...		Yeah...
+cev28_030.scr:3	cev28_030.scr	3	ロニ	Loni Dunamis	personagem	CRLF x1	あれは、この世のものとは\n思えない……	She didn't look like anything\nfrom this world......		She didn't look like anything\nfrom this world......
+cev28_030.scr:4	cev28_030.scr	4	ジーニアス	Genis Sage	personagem	CRLF x1	またまたぁ〜。\nロニってば、そんな事言って	Oh, come on now~\nSaying that just to spook us, Loni?		Oh, come on now~\nSaying that just to spook us, Loni?
+cev28_030.scr:5	cev28_030.scr	5	ジーニアス	Genis Sage	personagem	CRLF x2	ボク達を脅かそうとしたって\n無駄だよ。\nねえ、リッド？	Trying to scare us like that\nwon't work at all!\nRight, Reid?		Trying to scare us like that\nwon't work at all!\nRight, Reid?
+cev28_030.scr:6	cev28_030.scr	6	リッド	Reid Hershel	personagem	CRLF x1	そ、そうだぞロニ。\n変な事言い出すなよな	Th-That's right, Loni!\nDon't start saying creepy things!		Th-That's right, Loni!\nDon't start saying creepy things!
+cev28_030.scr:7	cev28_030.scr	7	ロニ	Loni Dunamis	personagem	CRLF x1	冗談なんかじゃない、本当なんだ。\n血の気のない顔で……髪が長くて……	I'm not joking, it's the truth!\nShe had a pale face... long hair......		I'm not joking, it's the truth!\nShe had a pale face... long hair......
+cev28_030.scr:8	cev28_030.scr	8	リッド	Reid Hershel	personagem		お、おいおい……	H-Hey now......		H-Hey now......
+cev28_030.scr:9	cev28_030.scr	9	ジーニアス	Genis Sage	personagem	CRLF x1	ふわふわ浮いてて、死んだみたいに\n冷たい体をしてるんでしょ	Floating in the air, with a body\nas freezing cold as a corpse, right?		Floating in the air, with a body\nas freezing cold as a corpse, right?
+cev28_030.scr:10	cev28_030.scr	10	ジーニアス	Genis Sage	personagem	CRLF x1	怪談の定番だね。\n全然怖く……	Classic ghost story tropes.\nNot scary in the slighte--		Classic ghost story tropes.\nNot scary in the slighte--
+cev28_030.scr:11	cev28_030.scr	11	ロニ	Loni Dunamis	personagem	CRLF x1	どわ〜〜〜っっ！！\n出たぁぁぁぁーーーー！！！	Gwaaaaahhhhh!!\nIt's a ghoooosssstttt!!!		Gwaaaaahhhhh!!\nIt's a ghoooosssstttt!!!
+cev28_030.scr:12	cev28_030.scr	12	リッド	Reid Hershel	personagem	CRLF x1	うわぁぁあああぁ！！\n嫌だぁぁぁぁぁああ！！！！	Uwaaaaaaaagh!!\nNoooooooo waaaaay!!!!		Uwaaaaaaaagh!!\nNoooooooo waaaaay!!!!
+cev28_030.scr:13	cev28_030.scr	13	セルシウス	Celsius	personagem		随分賑やかね……何かあったの？	Quite lively... Did something happen?		Quite lively... Did something happen?
+cev28_030.scr:14	cev28_030.scr	14	ジーニアス	Genis Sage	personagem		あ、ははは……何でもないよ	Ah, hahaha... It's nothing at all.		Ah, hahaha... It's nothing at all.
+cev28_030.scr:15	cev28_030.scr	15	ジーニアス	Genis Sage	personagem		（「幽霊の　正体見たり　セルシウス」と…）	("The ghost turns out to be Celsius...")		("The ghost turns out to be Celsius...")
+cev28_040.scr:0	cev28_040.scr	0	アーチェ	Arche Klein	personagem	CRLF x1	ソフィとアスベルって\nいつでも一緒ってイメージあるよね	Sophie and Asbel always seem\nto be together, don't you think?		Sophie and Asbel always seem\nto be together, don't you think?
+cev28_040.scr:1	cev28_040.scr	1	ソフィ	Sophie	personagem		……そう？	...You think so?		...You think so?
+cev28_040.scr:2	cev28_040.scr	2	ジーニアス	Genis Sage	personagem	CRLF x2	ソフィは、アスベルの事が\nきっと大好きなんだね。\n見てればわかるよ	Sophie, you must really\nlove Asbel a whole lot.\nAnyone can tell just by watching.		Sophie, you must really\nlove Asbel a whole lot.\nAnyone can tell just by watching.
+cev28_040.scr:3	cev28_040.scr	3	ソフィ	Sophie	personagem	CRLF x1	うん……。\nアスベル、好き	Yeah......\nI love Asbel.		Yeah......\nI love Asbel.
+cev28_040.scr:4	cev28_040.scr	4	ソフィ	Sophie	personagem	CRLF x1	大切な友達だから\nずっと、一緒にいる	He's a precious friend to me,\nso I will always stay by his side.		He's a precious friend to me,\nso I will always stay by his side.
+cev28_040.scr:5	cev28_040.scr	5	ジーニアス	Genis Sage	personagem		ずっと一緒に、か……	Always by his side, huh......		Always by his side, huh......
+cev28_040.scr:6	cev28_040.scr	6	ジーニアス	Genis Sage	personagem	CRLF x2	大好きな人と\nずっと一緒にいられたら\n本当に幸せだよね	If you could stay forever\nwith the person you love,\nthat would be true happiness.		If you could stay forever\nwith the person you love,\nthat would be true happiness.
+cev28_040.scr:7	cev28_040.scr	7	ジーニアス	Genis Sage	personagem	CRLF x1	……ずっと、一緒に\nいられたらいいのにね	...If only we could stay\ntogether forever, too.		...If only we could stay\ntogether forever, too.
+cev28_040.scr:8	cev28_040.scr	8	ソフィ	Sophie	personagem		ジーニアス……どうしたの？	Genis...... What's the matter?		Genis...... What's the matter?
+cev28_040.scr:9	cev28_040.scr	9	ジーニアス	Genis Sage	personagem	CRLF x1	ううん、何でも……。\n何でもないよ	No, it's nothing......\nIt's nothing at all.		No, it's nothing......\nIt's nothing at all.
+cev28_040.scr:10	cev28_040.scr	10	アーチェ	Arche Klein	personagem		……一緒にいればいいじゃん？	...Then why don't you just stay together?		...Then why don't you just stay together?
+cev28_040.scr:11	cev28_040.scr	11	アーチェ	Arche Klein	personagem	CRLF x1	相手がピンピンしてるうちは\nうんざりするぐらい、一緒にさ！	While they're still alive and kicking,\nstick together until you're sick of it!		While they're still alive and kicking,\nstick together until you're sick of it!
+cev28_040.scr:12	cev28_040.scr	12	ジーニアス	Genis Sage	personagem		アーチェ……	Arche......		Arche......
+cev28_040.scr:13	cev28_040.scr	13	ジーニアス	Genis Sage	personagem	CRLF x1	うん……、そうだね。\nそうだよね	Yeah... you're right.\nYou really are right.		Yeah... you're right.\nYou really are right.
+cev28_050.scr:0	cev28_050.scr	0	マオ	Mao	personagem	CRLF x1	どうしたの、ジーニアス？\nさっきから怖い顔してさ……	What's wrong, Genis?\nYou've had a scary look on your face...		What's wrong, Genis?\nYou've had a scary look on your face...
+cev28_050.scr:1	cev28_050.scr	1	ジーニアス	Genis Sage	personagem		えっ……？	Eh......?		Eh......?
+cev28_050.scr:2	cev28_050.scr	2	ジーニアス	Genis Sage	personagem	CRLF x1	……言ってもいいんだけどさ。\n笑わない？	...I could tell you,\nbut promise not to laugh?		...I could tell you,\nbut promise not to laugh?
+cev28_050.scr:3	cev28_050.scr	3	マオ	Mao	personagem	CRLF x1	どうして笑う必要があるの？\nちゃんと聞くから、教えてヨ	Why would I need to laugh?\nI'll listen properly, so tell me!		Why would I need to laugh?\nI'll listen properly, so tell me!
+cev28_050.scr:4	cev28_050.scr	4	ジーニアス	Genis Sage	personagem		……えっとね……その、	...Well, you see... um,		...Well, you see... um,
+cev28_050.scr:5	cev28_050.scr	5	ジーニアス	Genis Sage	personagem		マオは、まだ……身長、伸びてる？	Mao, are you still... growing taller?		Mao, are you still... growing taller?
+cev28_050.scr:6	cev28_050.scr	6	マオ	Mao	personagem		身長？	Taller?		Taller?
+cev28_050.scr:7	cev28_050.scr	7	マオ	Mao	personagem	CRLF x2	う〜ん、ちゃんと計った事はないけど\n多分伸びてるんじゃない？\n成長期だしネ	Hmm, I never measured it properly,\nbut I'm probably still growing!\nIt's a growth spurt, after all!		Hmm, I never measured it properly,\nbut I'm probably still growing!\nIt's a growth spurt, after all!
+cev28_050.scr:8	cev28_050.scr	8	ジーニアス	Genis Sage	personagem		……ボクも、まだ伸びるかなぁ……	...I wonder if I'll still grow, too...		...I wonder if I'll still grow, too...
+cev28_050.scr:9	cev28_050.scr	9	ジーニアス	Genis Sage	personagem	CRLF x2	マオとは歳が近いのに、\nもう１０センチも差があるんだもん……。\n自信なくすよ……	Even though we're close in age, Mao,\nyou're already 10 cm taller than me...\nIt makes me lose all confidence......		Even though we're close in age, Mao,\nyou're already 10 cm taller than me...\nIt makes me lose all confidence......
+cev28_050.scr:10	cev28_050.scr	10	マオ	Mao	personagem		えっ？	Eh?		Eh?
+cev28_050.scr:11	cev28_050.scr	11	マオ	Mao	personagem	CRLF x2	何だ、そんなコトで悩んでたの？\nあはははは！\n心配し過ぎだヨ〜	What, was that what was bugging you?\nAhahahaha!\nYou worry way too much~!		What, was that what was bugging you?\nAhahahaha!\nYou worry way too much~!
+cev28_050.scr:12	cev28_050.scr	12	ジーニアス	Genis Sage	personagem	CRLF x1	ちょ、ちょっと！\n笑わないって言ったじゃないか！	H-Hey, hold on!\nYou said you wouldn't laugh!		H-Hey, hold on!\nYou said you wouldn't laugh!
+cev28_050.scr:13	cev28_050.scr	13	ジーニアス	Genis Sage	personagem	CRLF x1	ボクは真剣なのに……。\nもう、マオのバカ！！	I was being completely serious......\nGeez, Mao, you jerk!!		I was being completely serious......\nGeez, Mao, you jerk!!
+cev28_060.scr:0	cev28_060.scr	0	カイウス	Caius Qualls	personagem		じゃあな、ジーニアス！	See ya, Genis!		See ya, Genis!
+cev28_060.scr:1	cev28_060.scr	1	ジーニアス	Genis Sage	personagem	CRLF x1	うん、カイウス。\nまた明日！	Yeah, Caius.\nSee you tomorrow!		Yeah, Caius.\nSee you tomorrow!
+cev28_060.scr:2	cev28_060.scr	2	ジーニアス	Genis Sage	personagem		あ、姉さん……と、リタ	Ah, Sis... and Rita.		Ah, Sis... and Rita.
+cev28_060.scr:3	cev28_060.scr	3	リタ	Rita Mordio	personagem	CRLF x1	ちょっと何よ。\nそのオマケみたいな呼び方	Hey, what gives?\nTacking me on like an afterthought!		Hey, what gives?\nTacking me on like an afterthought!
+cev28_060.scr:4	cev28_060.scr	4	リフィル	Raine Sage	personagem	CRLF x1	随分楽しそうに話していたわね。\n明日もまた、会う約束を？	You two seemed to be having fun.\nDid you promise to meet tomorrow too?		You two seemed to be having fun.\nDid you promise to meet tomorrow too?
+cev28_060.scr:5	cev28_060.scr	5	ジーニアス	Genis Sage	personagem	CRLF x1	うん！　\n一緒に遊ぶんだ	Yeah!\nWe're gonna play together!		Yeah!\nWe're gonna play together!
+cev28_060.scr:6	cev28_060.scr	6	リフィル	Raine Sage	personagem	CRLF x1	そう。　\nいい事だわ	I see.\nThat is wonderful.		I see.\nThat is wonderful.
+cev28_060.scr:7	cev28_060.scr	7	ジーニアス	Genis Sage	personagem	CRLF x2	ほら、カイウスってリカンツでしょ？\n獣に変身出来るから、今までと違う\n色んな遊びが出来るんじゃないかなって	Well, Caius is a Lycanth, right?\nSince he can transform into a beast,\nwe can play all kinds of new games!		Well, Caius is a Lycanth, right?\nSince he can transform into a beast,\nwe can play all kinds of new games!
+cev28_060.scr:8	cev28_060.scr	8	ジーニアス	Genis Sage	personagem	CRLF x1	知ってた？　獣になるとね、周りの色とか\n匂いとか、全然普段と違うんだって！	Did you know? As a beast, colors\nand scents are totally different!		Did you know? As a beast, colors\nand scents are totally different!
+cev28_060.scr:9	cev28_060.scr	9	ジーニアス	Genis Sage	personagem	CRLF x1	すごいなぁ……。\n一体どんな感じなんだろ	That's so amazing......\nI wonder what that feels like!		That's so amazing......\nI wonder what that feels like!
+cev28_060.scr:10	cev28_060.scr	10	リフィル	Raine Sage	personagem	CRLF x2	ジーニアス……気持ちはわかるけれど\nあまり大きな声で「リカンツ」という\n種族名を口にしない方がいいわ	Genis... I understand your excitement,\nbut you shouldn't say "Lycanth"\nso loudly in public.		Genis... I understand your excitement,\nbut you shouldn't say "Lycanth"\nso loudly in public.
+cev28_060.scr:11	cev28_060.scr	11	ジーニアス	Genis Sage	personagem		どうしてさ？	Why not?		Why not?
+cev28_060.scr:12	cev28_060.scr	12	リタ	Rita Mordio	personagem	CRLF x1	元々は蔑称だったのよ、リカンツって。\nすっごい大昔の話だけど	"Lycanth" was originally a slur.\nThough that was ages ago.		"Lycanth" was originally a slur.\nThough that was ages ago.
+cev28_060.scr:13	cev28_060.scr	13	ジーニアス	Genis Sage	personagem		えっ！？　そうだったの？	What?! Really?		What?! Really?
+cev28_060.scr:14	cev28_060.scr	14	リフィル	Raine Sage	personagem	CRLF x2	もちろん、現在は他意なく\n種族名として使われてはいるけれど\n元々の由来を思うと……複雑なところね	Of course, it is used harmlessly now\nas a racial name, but considering\nits origin... it is complicated.		Of course, it is used harmlessly now\nas a racial name, but considering\nits origin... it is complicated.
+cev28_060.scr:15	cev28_060.scr	15	リタ	Rita Mordio	personagem	CRLF x2	そう？　\n別にいいんじゃない？\n当のカイウスは気にしてないみたいだし	Really?\nWho cares, anyway?\nCaius doesn't seem bothered at all.		Really?\nWho cares, anyway?\nCaius doesn't seem bothered at all.
+cev28_060.scr:16	cev28_060.scr	16	リタ	Rita Mordio	personagem	CRLF x1	気にし過ぎる方が\nかえって良くないでしょ、こういうの	Overthinking these things\nonly makes them worse, doesn't it?		Overthinking these things\nonly makes them worse, doesn't it?
+cev28_060.scr:17	cev28_060.scr	17	リフィル	Raine Sage	personagem		それはそうだけれど……	That may be so, but......		That may be so, but......
+cev28_060.scr:18	cev28_060.scr	18	リタ	Rita Mordio	personagem	CRLF x2	ま、根本は「何が差別か？」って\nとこなんでしょうけど。　あたしにとっては\n気にする方も気にしろって方も同罪ね	Well, it boils down to what counts\nas discrimination, but caring too much\nor policing it are equally guilty to me.		Well, it boils down to what counts\nas discrimination, but caring too much\nor policing it are equally guilty to me.
+cev28_060.scr:19	cev28_060.scr	19	リフィル	Raine Sage	personagem		……リタは手厳しいわね	...You are quite harsh, Rita.		...You are quite harsh, Rita.
+cev28_060.scr:20	cev28_060.scr	20	リタ	Rita Mordio	personagem		率直な意見を述べたまでよ	I only stated my frank opinion.		I only stated my frank opinion.
+cev28_060.scr:21	cev28_060.scr	21	ジーニアス	Genis Sage	personagem		…………	......		......
+cev28_070.scr:0	cev28_070.scr	0	ジーニアス	Genis Sage	personagem	CRLF x1	あ……！\nちょっと待って、カイウス！	Ah......!\nWait up, Caius!		Ah......!\nWait up, Caius!
+cev28_070.scr:1	cev28_070.scr	1	カイウス	Caius Qualls	personagem		何だ、ジーニアスか	Oh, it's just you, Genis.		Oh, it's just you, Genis.
+cev28_070.scr:2	cev28_070.scr	2	カイウス	Caius Qualls	personagem	CRLF x1	どうしたんだよ？\n眉間にシワが寄ってるぜ？	What's up?\nYou've got wrinkles between your brows!		What's up?\nYou've got wrinkles between your brows!
+cev28_070.scr:3	cev28_070.scr	3	ジーニアス	Genis Sage	personagem		もう……茶化さないでよ	Geez... don't make fun of me.		Geez... don't make fun of me.
+cev28_070.scr:4	cev28_070.scr	4	ジーニアス	Genis Sage	personagem	CRLF x1	……ほら、この間キミの事\n色々教えてもらったでしょ？	...Remember how you told me\nall about yourself the other day?		...Remember how you told me\nall about yourself the other day?
+cev28_070.scr:5	cev28_070.scr	5	ジーニアス	Genis Sage	personagem	CRLF x2	ボク、その時に\n「リカンツってすごいね！」って\n言っちゃったけど……嫌じゃなかった？	Back then, I said\n"Lycanths are so amazing!"...\nDid that bother you at all?		Back then, I said\n"Lycanths are so amazing!"...\nDid that bother you at all?
+cev28_070.scr:6	cev28_070.scr	6	カイウス	Caius Qualls	personagem	CRLF x1	嫌？　\n何でだ？	Bother me?\nWhy would it?		Bother me?\nWhy would it?
+cev28_070.scr:7	cev28_070.scr	7	ジーニアス	Genis Sage	personagem	CRLF x2	聞いたんだ。その……リカンツって\nカイウス達の種族をバカにして\n呼ぶ時の言い方だったって……	I heard... that "Lycanth" was\noriginally used as an insult\nagainst your people, Caius......		I heard... that "Lycanth" was\noriginally used as an insult\nagainst your people, Caius......
+cev28_070.scr:8	cev28_070.scr	8	カイウス	Caius Qualls	personagem		ああ……そういう事か	Ah... that's what this is about.		Ah... that's what this is about.
+cev28_070.scr:9	cev28_070.scr	9	カイウス	Caius Qualls	personagem	CRLF x2	確かに、昔はそうだったみたいだな。\nオレ達は珍しい種族みたいだし……\n他の奴から見たら、気味悪く思えたんだろ	Yeah, sounds like it was in the past.\nWe're a rare race, so other people\nprobably thought we were creepy.		Yeah, sounds like it was in the past.\nWe're a rare race, so other people\nprobably thought we were creepy.
+cev28_070.scr:10	cev28_070.scr	10	ジーニアス	Genis Sage	personagem		気味悪くなんてないよ！	You're not creepy at all!		You're not creepy at all!
+cev28_070.scr:11	cev28_070.scr	11	ジーニアス	Genis Sage	personagem	CRLF x2	ボクは……そういうの嫌なんだ。\n種族で、自分の価値まで\n決められるのって……おかしいよ！	I... hate that kind of thing.\nHaving your worth decided\nby your race... it's all wrong!		I... hate that kind of thing.\nHaving your worth decided\nby your race... it's all wrong!
+cev28_070.scr:12	cev28_070.scr	12	カイウス	Caius Qualls	personagem	CRLF x1	そういえば……ジーニアスは\nハーフエルフなんだよな？	Come to think of it...\nyou're a half-elf, right, Genis?		Come to think of it...\nyou're a half-elf, right, Genis?
+cev28_070.scr:13	cev28_070.scr	13	ジーニアス	Genis Sage	personagem	CRLF x2	うん……ギルドのみんなは優しいけど\nまだ、世界にはボク達への偏見が\n根強く残ってる……	Yeah... Everyone in the Guild is kind,\nbut prejudice against us is still\ndeeply rooted in the world......		Yeah... Everyone in the Guild is kind,\nbut prejudice against us is still\ndeeply rooted in the world......
+cev28_070.scr:14	cev28_070.scr	14	カイウス	Caius Qualls	personagem	CRLF x1	差別意識……ってやつか。\n難しいよな……	Discrimination, huh...\nIt really is complicated......		Discrimination, huh...\nIt really is complicated......
+cev28_070.scr:15	cev28_070.scr	15	ジーニアス	Genis Sage	personagem	CRLF x2	……うん。　だからボクはもう\nカイウスの事、リカンツって\n呼びたくないんだ……	...Yeah. That's why I don't want\nto call you a Lycanth anymore,\nCaius......		...Yeah. That's why I don't want\nto call you a Lycanth anymore,\nCaius......
+cev28_070.scr:16	cev28_070.scr	16	ジーニアス	Genis Sage	personagem		……何も知らなくて、ごめんね	...I'm sorry for not knowing.		...I'm sorry for not knowing.
+cev28_070.scr:17	cev28_070.scr	17	カイウス	Caius Qualls	personagem		……ジーニアス……	...Genis......		...Genis......
+cev28_080.scr:0	cev28_080.scr	0	ジーニアス	Genis Sage	personagem		レイモーンの民……	People of Leymon......		People of Leymon......
+cev28_080.scr:1	cev28_080.scr	1	ジーニアス	Genis Sage	personagem	CRLF x1	それが、カイウス達の種族の\n本当の名前なの？	Is that the true name of\nyour people, Caius?		Is that the true name of\nyour people, Caius?
+cev28_080.scr:2	cev28_080.scr	2	カイウス	Caius Qualls	personagem		ああ	Yeah.		Yeah.
+cev28_080.scr:3	cev28_080.scr	3	カイウス	Caius Qualls	personagem	CRLF x1	オレ達の種族は、レイモーンって都に\n元々は住んでたらしいんだ	Apparently, our race originally\nlived in a city called Leymon.		Apparently, our race originally\nlived in a city called Leymon.
+cev28_080.scr:4	cev28_080.scr	4	カイウス	Caius Qualls	personagem	CRLF x2	だから、いつの間にかそういう名前で\n呼ばれる様になったみたいだって\nリタが教えてくれた	Rita told me that before we knew it,\npeople had started calling us\nby that name.		Rita told me that before we knew it,\npeople had started calling us\nby that name.
+cev28_080.scr:5	cev28_080.scr	5	ジーニアス	Genis Sage	personagem	CRLF x2	そうなんだ……。\nなんだか、そっちの名前の方が\nカッコイイね！	I see......\nThat name sounds way cooler,\nhonestly!		I see......\nThat name sounds way cooler,\nhonestly!
+cev28_080.scr:6	cev28_080.scr	6	カイウス	Caius Qualls	personagem	CRLF x2	へへっ。\nそうか？　\nありがとな	Heheh.\nYou think so?\nThanks!		Heheh.\nYou think so?\nThanks!
+cev28_080.scr:7	cev28_080.scr	7	カイウス	Caius Qualls	personagem	CRLF x2	でも……ほんと言うとさ、オレ、\n別にリカンツって呼ばれても\nいいかなって思ってるんだ	Truth is, though... I don't really\nmind being called a Lycanth\nall that much.		Truth is, though... I don't really\nmind being called a Lycanth\nall that much.
+cev28_080.scr:8	cev28_080.scr	8	ジーニアス	Genis Sage	personagem	CRLF x1	えっ……どうしてさ？\nだって、蔑称だったんでしょ？	Eh... why is that?\nIt was a slur, wasn't it?		Eh... why is that?\nIt was a slur, wasn't it?
+cev28_080.scr:9	cev28_080.scr	9	カイウス	Caius Qualls	personagem	CRLF x2	そうだけど……ジーニアスみたいに\nバカにしようとして呼んだわけじゃ\nないなら、別にいいかなって	Yeah, but... as long as it isn't used\nto mock me, like with you, Genis,\nI don't really care.		Yeah, but... as long as it isn't used\nto mock me, like with you, Genis,\nI don't really care.
+cev28_080.scr:10	cev28_080.scr	10	ジーニアス	Genis Sage	personagem	CRLF x2	そうかな……？　だって、その言葉で\n呼ばれてる限り、今じゃなくても\n昔辛い事があったのを思い出さない？	Really...? But being called that,\ndoesn't it remind you of the painful\nthings in the past?		Really...? But being called that,\ndoesn't it remind you of the painful\nthings in the past?
+cev28_080.scr:11	cev28_080.scr	11	カイウス	Caius Qualls	personagem	CRLF x1	でも、それは昔の話だろ。\n今っていうわけじゃない	Those are stories of the past.\nIt isn't about right now.		Those are stories of the past.\nIt isn't about right now.
+cev28_080.scr:12	cev28_080.scr	12	ジーニアス	Genis Sage	personagem	CRLF x1	それは……。\nそうなのかもしれないけど……	That may be......\nThat might be true, but......		That may be......\nThat might be true, but......
+cev28_080.scr:13	cev28_080.scr	13	カイウス	Caius Qualls	personagem	CRLF x1	なぁ、オレ思うんだけど……\n本当に大事なのは、言葉そのものより	Hey, I've been thinking......\nWhat truly matters isn't the word itself,		Hey, I've been thinking......\nWhat truly matters isn't the word itself,
+cev28_080.scr:14	cev28_080.scr	14	カイウス	Caius Qualls	personagem	CRLF x1	どういう気持ちでその言葉を\n使ったかって事じゃないのかな……？	but the feelings behind how it's used,\ndon't you think......?		but the feelings behind how it's used,\ndon't you think......?
+cev28_080.scr:15	cev28_080.scr	15	ジーニアス	Genis Sage	personagem		言葉に込めた、気持ち……かぁ……	The feelings behind the words, huh......		The feelings behind the words, huh......
+cev28_090.scr:0	cev28_090.scr	0	ジーニアス	Genis Sage	personagem	CRLF x1	今度の料理当番、すずだよね？\nもう何を作るか決めたの？	You're on cooking duty next, right, Suzu?\nHave you decided what to make yet?		You're on cooking duty next, right, Suzu?\nHave you decided what to make yet?
+cev28_090.scr:1	cev28_090.scr	1	すず	Suzu Fujibayashi	personagem	CRLF x1	はい。\nカレーを作るつもりです	Yes.\nI plan to make curry.		Yes.\nI plan to make curry.
+cev28_090.scr:2	cev28_090.scr	2	マオ	Mao	personagem	CRLF x2	あれっ？\nすずは辛いものが\n苦手なんじゃなかったの？	Huh?\nAren't you bad with spicy food,\nSuzu?		Huh?\nAren't you bad with spicy food,\nSuzu?
+cev28_090.scr:3	cev28_090.scr	3	すず	Suzu Fujibayashi	personagem	CRLF x2	得意ではないというだけです。\nですから、カレーは\n甘口にしようと考えています	It is simply not my forte.\nTherefore, I intend to make\nthe curry mild.		It is simply not my forte.\nTherefore, I intend to make\nthe curry mild.
+cev28_090.scr:4	cev28_090.scr	4	ジーニアス	Genis Sage	personagem	CRLF x1	なるほど。\nそれなら辛くないもんね	I see.\nThat way it won't be spicy!		I see.\nThat way it won't be spicy!
+cev28_090.scr:5	cev28_090.scr	5	マオ	Mao	personagem	CRLF x1	カレーっていいよネ。\nボクは甘口も中辛も、どっちも好きだヨ！	Curry is great!\nI love both mild and medium-spicy!		Curry is great!\nI love both mild and medium-spicy!
+cev28_090.scr:6	cev28_090.scr	6	ジーニアス	Genis Sage	personagem	CRLF x1	はぁ〜。\nわかってないなぁ、マオは……	*sigh*\nYou just don't get it at all, Mao...		*sigh*\nYou just don't get it at all, Mao...
+cev28_090.scr:7	cev28_090.scr	7	ジーニアス	Genis Sage	personagem	CRLF x1	カレーは辛いからこそ美味しいんだよ。\nそこに通の大人の味わいがあるんだ	Curry is delicious because it's spicy!\nThat's where the true adult flavor lies!		Curry is delicious because it's spicy!\nThat's where the true adult flavor lies!
+cev28_090.scr:8	cev28_090.scr	8	マオ	Mao	personagem	CRLF x1	ちょっと、それってボクの事\n子ども扱いしてる？	Hey, are you treating me\nlike a little kid just now?		Hey, are you treating me\nlike a little kid just now?
+cev28_090.scr:9	cev28_090.scr	9	ジーニアス	Genis Sage	personagem	CRLF x2	当然でしょ！\nカレーで甘口を食べている様じゃ\nまだまだ子どもだよ	Well of course!\nIf you're still eating mild curry,\nyou're still a total child!		Well of course!\nIf you're still eating mild curry,\nyou're still a total child!
+cev28_090.scr:10	cev28_090.scr	10	マオ	Mao	personagem		そんな事ないヨ！！	That is not true at all!!		That is not true at all!!
+cev28_090.scr:11	cev28_090.scr	11	すず	Suzu Fujibayashi	personagem		二人とも、落ち着いて下さい	Both of you, please calm down.		Both of you, please calm down.
+cev28_090.scr:12	cev28_090.scr	12	すず	Suzu Fujibayashi	personagem	CRLF x1	食べ物の話題で喧嘩をするなんて\n子どものする事です	Fighting over food\nis the behavior of children.		Fighting over food\nis the behavior of children.
+cev28_090.scr:13	cev28_090.scr	13	すず	Suzu Fujibayashi	personagem	CRLF x1	こんな事で感情を乱す様では\nまだまだ修行が足りませんね	Losing your composure over this\nshows your training is lacking.		Losing your composure over this\nshows your training is lacking.
+cev28_100.scr:0	cev28_100.scr	0	チェスター	Chester Barklight	personagem	CRLF x1	しかしこの船、\n結構高い所を飛んでるよなぁ……	Man, this ship really flies\npretty high up in the sky......		Man, this ship really flies\npretty high up in the sky......
+cev28_100.scr:1	cev28_100.scr	1	リッド	Reid Hershel	personagem	CRLF x1	ああ。\n落ちたら多分、ひとたまりもないな……	Yeah.\nIf we fell, we wouldn't stand a chance...		Yeah.\nIf we fell, we wouldn't stand a chance...
+cev28_100.scr:2	cev28_100.scr	2	チェスター	Chester Barklight	personagem	CRLF x1	おい、やめろって！\n不吉な事言うなよ	Hey, cut that out!\nDon't jinx it like that!		Hey, cut that out!\nDon't jinx it like that!
+cev28_100.scr:3	cev28_100.scr	3	ジーニアス	Genis Sage	personagem	CRLF x2	馬鹿だなぁ。\nこの船が落ちるなんて、\nそんな事あるはずないじゃない	Don't be ridiculous.\nThere's no way on earth\nthis ship would ever fall!		Don't be ridiculous.\nThere's no way on earth\nthis ship would ever fall!
+cev28_100.scr:4	cev28_100.scr	4	ジーニアス	Genis Sage	personagem	CRLF x2	整備は毎日入念にされてるし、\nそもそも星晶を消費せずに動くから\nエネルギー切れの心配もない	It's thoroughly maintained daily,\nand runs without consuming Star Crystals,\nso running out of power is impossible!		It's thoroughly maintained daily,\nand runs without consuming Star Crystals,\nso running out of power is impossible!
+cev28_100.scr:5	cev28_100.scr	5	ジーニアス	Genis Sage	personagem	CRLF x2	この船を落としたかったら、\n大型戦艦でも用意しないと\n無理だろうね	If you wanted to bring this ship down,\nyou'd need a massive battleship.\nOtherwise, impossible!		If you wanted to bring this ship down,\nyou'd need a massive battleship.\nOtherwise, impossible!
+cev28_100.scr:6	cev28_100.scr	6	リッド	Reid Hershel	personagem	CRLF x2	大型戦艦だぁ？\nそんなもん、そうそう\nお目にかかる機会なんてねえよ	A massive battleship?\nAin't like we're gonna run into\nsomething like that every day.		A massive battleship?\nAin't like we're gonna run into\nsomething like that every day.
+cev28_100.scr:7	cev28_100.scr	7	ジーニアス	Genis Sage	personagem	CRLF x1	そうだよ。\nだから、この船は「落ちない」んだ	Exactly.\nThat's why this ship will never fall!		Exactly.\nThat's why this ship will never fall!
+cev28_100.scr:8	cev28_100.scr	8	ジーニアス	Genis Sage	personagem		わかってもらえた？	Do you understand now?		Do you understand now?
+cev28_100.scr:9	cev28_100.scr	9	リッド	Reid Hershel	personagem		なるほどな……	I see......		I see......
+cev28_100.scr:10	cev28_100.scr	10	リッド	Reid Hershel	personagem		おかげさまで、よ〜くわかったよ	Thanks to you, I understand completely.		Thanks to you, I understand completely.
+cev28_100.scr:11	cev28_100.scr	11	チェスター	Chester Barklight	personagem	CRLF x2	ああ。\nジーニアスは、こまっしゃくれた\nガキだって事がな	Yeah.\nUnderstood that Genis is nothing\nbut a cocky little brat.		Yeah.\nUnderstood that Genis is nothing\nbut a cocky little brat.
+cev28_100.scr:12	cev28_100.scr	12	ジーニアス	Genis Sage	personagem	CRLF x1	ちょ、ちょっと！\nそれどういう意味？	H-Hey, hold on!\nWhat's that supposed to mean?!		H-Hey, hold on!\nWhat's that supposed to mean?!
+cev28_200.scr:0	cev28_200.scr	0	ジーニアス	Genis Sage	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev28_200.scr:1	cev28_200.scr	1	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:2	cev28_200.scr	2	ジーニアス	Genis Sage	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev28_200.scr:3	cev28_200.scr	3	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:4	cev28_200.scr	4	ジーニアス	Genis Sage	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev28_200.scr:5	cev28_200.scr	5	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:6	cev28_200.scr	6	ジーニアス	Genis Sage	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev28_200.scr:7	cev28_200.scr	7	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:8	cev28_200.scr	8	ジーニアス	Genis Sage	personagem	CRLF x1	がっくし。\n	Downcast.\n		Downcast.\n
+cev28_200.scr:9	cev28_200.scr	9	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:10	cev28_200.scr	10	ジーニアス	Genis Sage	personagem	CRLF x1	照れ。\n	Blushing.\n		Blushing.\n
+cev28_200.scr:11	cev28_200.scr	11	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:12	cev28_200.scr	12	ジーニアス	Genis Sage	personagem	CRLF x1	落ち込み。\n	Dejected.\n		Dejected.\n
+cev28_200.scr:13	cev28_200.scr	13	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:14	cev28_200.scr	14	ジーニアス	Genis Sage	personagem	CRLF x1	驚き。\n	Surprise.\n		Surprise.\n
+cev28_200.scr:15	cev28_200.scr	15	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:16	cev28_200.scr	16	ジーニアス	Genis Sage	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev28_200.scr:17	cev28_200.scr	17	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:18	cev28_200.scr	18	ジーニアス	Genis Sage	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev28_200.scr:19	cev28_200.scr	19	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:20	cev28_200.scr	20	ジーニアス	Genis Sage	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev28_200.scr:21	cev28_200.scr	21	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:22	cev28_200.scr	22	ジーニアス	Genis Sage	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev28_200.scr:23	cev28_200.scr	23	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:24	cev28_200.scr	24	ジーニアス	Genis Sage	personagem	CRLF x1	がっくし。\n	Downcast.\n		Downcast.\n
+cev28_200.scr:25	cev28_200.scr	25	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:26	cev28_200.scr	26	ジーニアス	Genis Sage	personagem	CRLF x1	照れ。\n	Blushing.\n		Blushing.\n
+cev28_200.scr:27	cev28_200.scr	27	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:28	cev28_200.scr	28	ジーニアス	Genis Sage	personagem	CRLF x1	落ち込み。\n	Dejected.\n		Dejected.\n
+cev28_200.scr:29	cev28_200.scr	29	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:30	cev28_200.scr	30	ジーニアス	Genis Sage	personagem	CRLF x1	驚き。\n	Surprise.\n		Surprise.\n
+cev28_200.scr:31	cev28_200.scr	31	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:32	cev28_200.scr	32	ジーニアス	Genis Sage	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev28_200.scr:33	cev28_200.scr	33	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:34	cev28_200.scr	34	ジーニアス	Genis Sage	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev28_200.scr:35	cev28_200.scr	35	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:36	cev28_200.scr	36	ジーニアス	Genis Sage	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev28_200.scr:37	cev28_200.scr	37	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:38	cev28_200.scr	38	ジーニアス	Genis Sage	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev28_200.scr:39	cev28_200.scr	39	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:40	cev28_200.scr	40	ジーニアス	Genis Sage	personagem	CRLF x1	がっくし。\n	Downcast.\n		Downcast.\n
+cev28_200.scr:41	cev28_200.scr	41	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:42	cev28_200.scr	42	ジーニアス	Genis Sage	personagem	CRLF x1	照れ。\n	Blushing.\n		Blushing.\n
+cev28_200.scr:43	cev28_200.scr	43	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:44	cev28_200.scr	44	ジーニアス	Genis Sage	personagem	CRLF x1	落ち込み。\n	Dejected.\n		Dejected.\n
+cev28_200.scr:45	cev28_200.scr	45	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev28_200.scr:46	cev28_200.scr	46	ジーニアス	Genis Sage	personagem	CRLF x1	驚き。\n	Surprise.\n		Surprise.\n
+cev28_200.scr:47	cev28_200.scr	47	ジーニアス	Genis Sage	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.

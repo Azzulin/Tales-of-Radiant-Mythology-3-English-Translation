@@ -1,0 +1,196 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev09_010.scr:0	cev09_010.scr	0	リオン	Leon Magnus	personagem		そこをどけ	Out of my way.	
+cev09_010.scr:1	cev09_010.scr	1	ジューダス	Judas	personagem		フン、それが人にものを頼む態度か？	Hmph. Is that any way to ask someone?	
+cev09_010.scr:2	cev09_010.scr	2	ジューダス	Judas	personagem	CRLF x2	どうやら、人として\n最低限の礼儀というものを\n教わって来なかった様だな	It seems you were never taught\neven the most basic manners\nbefitting a human being.	
+cev09_010.scr:3	cev09_010.scr	3	ジューダス	Judas	personagem		国の客員剣士が聞いて呆れる	Some guest swordsman of the kingdom.	
+cev09_010.scr:4	cev09_010.scr	4	リオン	Leon Magnus	personagem		何だと？	What did you say?	
+cev09_010.scr:5	cev09_010.scr	5	ノーマ	Norma Beatty	personagem		あっ、ごっめ〜〜ん！	Ah, soooorry~!	
+cev09_010.scr:6	cev09_010.scr	6	リオン	Leon Magnus	personagem		……気を付けろ！	...Watch where you're going!	
+cev09_010.scr:7	cev09_010.scr	7	ノーマ	Norma Beatty	personagem	CRLF x1	ぷ……くっくく……\nあは、あははははは！	Pfft... Hehehe...\nAha, ahahahahaha!	
+cev09_010.scr:8	cev09_010.scr	8	ノーマ	Norma Beatty	personagem	CRLF x1	あんた、髪、\nすごい、事に、なってるぅ！	Your hair is, like,\ntotally sticking up all over!	
+cev09_010.scr:9	cev09_010.scr	9	リオン	Leon Magnus	personagem		何！？	What!?	
+cev09_010.scr:10	cev09_010.scr	10	ロイド	Lloyd Irving	personagem	CRLF x1	うわ、リオンすげー！\nどうしたんだその頭？	Whoa, Leon, that's wild!\nWhat happened to your hair?	
+cev09_010.scr:11	cev09_010.scr	11	ジーニアス	Genis Sage	personagem	CRLF x2	静電気だよ……。\n多分、ノーマが\nキールの薄い板でこすったんだ	It's static electricity...\nNorma probably rubbed it\nwith Keele's plastic board.	
+cev09_010.scr:12	cev09_010.scr	12	ジーニアス	Genis Sage	personagem	CRLF x1	最近、このイタズラ\n流行ってるみたいなんだよね	That prank seems to be\ngetting pretty popular lately.	
+cev09_010.scr:13	cev09_010.scr	13	リオン	Leon Magnus	personagem		貴様……覚悟は出来ているんだろうな	You... I hope you're prepared to die.	
+cev09_010.scr:14	cev09_010.scr	14	リオン	Leon Magnus	personagem		おい待て、待つんだ！	Hey, hold it! Stop right there!	
+cev09_010.scr:15	cev09_010.scr	15	ジーニアス	Genis Sage	personagem	CRLF x1	あんな古典的なイタズラに\n引っかかるなんて	To fall for such a\nclassic prank, though...	
+cev09_010.scr:16	cev09_010.scr	16	ジーニアス	Genis Sage	personagem	CRLF x1	リオンもあれで結構、\n子どもっぽいところがあるんだね	Leon actually has quite a\nchildish side to him, doesn't he?	
+cev09_010.scr:17	cev09_010.scr	17	ロイド	Lloyd Irving	personagem		ほんとだなぁ	He sure does.	
+cev09_010.scr:18	cev09_010.scr	18	ジューダス	Judas	personagem		…………	......	
+cev09_020.scr:0	cev09_020.scr	0	ロニ	Loni Dunamis	personagem	CRLF x1	なぁ、リオン……\n一つ聞きたい事があるんだが	Hey, Leon...\nMind if I ask you a quick question?	
+cev09_020.scr:1	cev09_020.scr	1	リオン	Leon Magnus	personagem		断る	Refuse	
+cev09_020.scr:2	cev09_020.scr	2	ロニ	Loni Dunamis	personagem		って、早ッ！！	Whoa, that was fast!!	
+cev09_020.scr:3	cev09_020.scr	3	ロニ	Loni Dunamis	personagem	CRLF x1	せめて質問の内容くらい\n聞いたっていいだろ！？	You could at least hear\nwhat the question is, couldn't ya!?	
+cev09_020.scr:4	cev09_020.scr	4	リオン	Leon Magnus	personagem	CRLF x1	答える必要がどこにある。\n時間の無駄だ	Why should I answer you?\nIt is a complete waste of time.	
+cev09_020.scr:5	cev09_020.scr	5	ロニ	Loni Dunamis	personagem		まあまあそうおっしゃらず	Come on now, don't be like that!	
+cev09_020.scr:6	cev09_020.scr	6	ロニ	Loni Dunamis	personagem	CRLF x1	リオンに骨董集めの趣味があるのか\nそれがど〜〜しても知りたくてさ	I just really, REALLY gotta know\nif you're into collecting antiques, Leon.	
+cev09_020.scr:7	cev09_020.scr	7	リオン	Leon Magnus	personagem	CRLF x1	……？\nどういう意味だ、それは？	...?\nWhat is that supposed to mean?	
+cev09_020.scr:8	cev09_020.scr	8	ロニ	Loni Dunamis	personagem	CRLF x1	いやぁ、例えば変な仮面とか\n骸骨みたいな仮面とか	Like, say, weird masks,\nor skull-shaped masks...	
+cev09_020.scr:9	cev09_020.scr	9	ロニ	Loni Dunamis	personagem	CRLF x2	いまいち顔が隠れてない仮面の\n収集癖とか骨董の趣味が\nあったりなかったりしないかな〜と……	I was wondering if maybe you have\na habit of collecting masks that\nbarely hide your face at all...	
+cev09_020.scr:10	cev09_020.scr	10	ジューダス	Judas	personagem		双連撃！	Twin Assault!	
+cev09_020.scr:11	cev09_020.scr	11	ロニ	Loni Dunamis	personagem		のはぁっ！　痛ぇ！？	Gwaaah! That hurts!?	
+cev09_020.scr:12	cev09_020.scr	12	ジューダス	Judas	personagem	CRLF x1	チッ、急所は外したか……\nだが次は外さん	Tch, I missed the vitals...\nNext time, I will not miss.	
+cev09_020.scr:13	cev09_020.scr	13	リオン	Leon Magnus	personagem	CRLF x1	事情はよくわからんが……\nこいつがいけ好かないのには同感だ	I do not quite follow the context,\nbut I agree that this guy is obnoxious.	
+cev09_020.scr:14	cev09_020.scr	14	リオン	Leon Magnus	personagem		手を貸そう	Allow me to assist.	
+cev09_020.scr:15	cev09_020.scr	15	ロニ	Loni Dunamis	personagem	CRLF x2	ちょ、ちょっとお二人さん？\nいやだなぁ、そんなにギラギラして\nどうなさいまし……	H-Hold on a second, you two!\nNo need to glare at me with eyes\nfull of murder, what's got into--	
+cev09_020.scr:16	cev09_020.scr	16	ロニ	Loni Dunamis	personagem	CRLF x1	ぎょえええ！\n死ぬ、死ぬ〜〜〜ッ！！！	GYAAAH!!\nI'm dead, I'm deeeaaad!!!	
+cev09_020.scr:17	cev09_020.scr	17	リオン	Leon Magnus	personagem		お前は一度……	You need to...	
+cev09_020.scr:18	cev09_020.scr	18	ジューダス	Judas	personagem		地獄に落ちろ！	Go to hell!	
+cev09_030.scr:0	cev09_030.scr	0	リオン	Leon Magnus	personagem		…………	......	
+cev09_030.scr:1	cev09_030.scr	1	アニー	Annie Barrs	personagem		……あの……	...Um...	
+cev09_030.scr:2	cev09_030.scr	2	リオン	Leon Magnus	personagem		…………	......	
+cev09_030.scr:3	cev09_030.scr	3	アニー	Annie Barrs	personagem		…………	......	
+cev09_030.scr:4	cev09_030.scr	4	リオン	Leon Magnus	personagem		…………何だ	......What is it?	
+cev09_030.scr:5	cev09_030.scr	5	アニー	Annie Barrs	personagem	CRLF x1	……あ……その……\n間違っていたらごめんなさい	...Ah... um...\nForgive me if I am mistaken, but...	
+cev09_030.scr:6	cev09_030.scr	6	アニー	Annie Barrs	personagem	CRLF x1	もしかして……\n船酔い……されていますか？	Could it be that you are...\nseasick...?	
+cev09_030.scr:7	cev09_030.scr	7	リオン	Leon Magnus	personagem	CRLF x1	……何を言うかと思えば……。\n……くだらんな……	...I wondered what you were getting at...\n...Ridiculous...	
+cev09_030.scr:8	cev09_030.scr	8	アニー	Annie Barrs	personagem	CRLF x1	ほら、やっぱり\n具合が悪いんじゃないですか！	See, you really are\nnot feeling well at all!	
+cev09_030.scr:9	cev09_030.scr	9	リオン	Leon Magnus	personagem		……っ、僕に構うな！	...Tch, leave me alone!	
+cev09_030.scr:10	cev09_030.scr	10	アニー	Annie Barrs	personagem	CRLF x1	いいえ、構います！\nそれがわたしの仕事ですから	No, I will not!\nTaking care of you is my job!	
+cev09_030.scr:11	cev09_030.scr	11	リオン	Leon Magnus	personagem		……！	...!	
+cev09_030.scr:12	cev09_030.scr	12	アニー	Annie Barrs	personagem	CRLF x1	待っていて下さい、すぐに\n酔い止めの薬を持って来ます	Please wait here. I will go fetch\nsome medicine for seasickness right away.	
+cev09_030.scr:13	cev09_030.scr	13	リオン	Leon Magnus	personagem	CRLF x1	……この船の奴らは……\nバカばかり……だ	...Everyone on this ship...\nis an absolute... fool...	
+cev09_030.scr:14	cev09_030.scr	14	リオン	Leon Magnus	personagem		…………	......	
+cev09_040.scr:0	cev09_040.scr	0	ファラ	Farah Oersted	personagem	CRLF x1	あっ。\nこんな所にいた	Ah!\nThere you are!	
+cev09_040.scr:1	cev09_040.scr	1	ファラ	Farah Oersted	personagem	CRLF x1	リオン！　\n何してるの？	Leon!\nWhat are you up to?	
+cev09_040.scr:2	cev09_040.scr	2	ファラ	Farah Oersted	personagem	CRLF x1	次、リオンの番だよ。\n部屋に戻って、続きしよ？	It's your turn next, Leon!\nCome back to the room and keep playing!	
+cev09_040.scr:3	cev09_040.scr	3	リオン	Leon Magnus	personagem		断る	Refuse	
+cev09_040.scr:4	cev09_040.scr	4	リオン	Leon Magnus	personagem	CRLF x1	どうして僕がお前達と\nばば抜きなんかしなければならないんだ	Why on earth should I have to play\na game like Old Maid with you people?	
+cev09_040.scr:5	cev09_040.scr	5	ファラ	Farah Oersted	personagem		だって、みんなで遊んだ方が面白いじゃない	Because playing together is much more fun!	
+cev09_040.scr:6	cev09_040.scr	6	リオン	Leon Magnus	personagem		だったら僕以外の人間とやればいい	Then play with anyone other than me.	
+cev09_040.scr:7	cev09_040.scr	7	ファラ	Farah Oersted	personagem	CRLF x2	やだ！\nリオンとやろうと思って\nカード持って来たんだから	No way!\nI brought these cards specifically\nso I could play with you, Leon!	
+cev09_040.scr:8	cev09_040.scr	8	リオン	Leon Magnus	personagem		そんな事、僕には関係……	That has nothing to do with me...	
+cev09_040.scr:9	cev09_040.scr	9	ファラ	Farah Oersted	personagem	CRLF x2	ここ、色んな人がいて\nちょっと馴染むのは大変かもしれないけど\nでも、みんないい人ばっかりなんだよ	There are so many different people here,\nso fitting in might feel tough at first,\nbut everyone here is truly wonderful!	
+cev09_040.scr:10	cev09_040.scr	10	ファラ	Farah Oersted	personagem	CRLF x2	せっかくこうして出会えたんだもん。\nリオンにもみんなのいいところとか\n楽しいところを一杯知って欲しいよ	Since we had the chance to meet,\nI want you to see the good sides of\neveryone and have lots of fun, Leon!	
+cev09_040.scr:11	cev09_040.scr	11	リオン	Leon Magnus	personagem		…………	......	
+cev09_040.scr:12	cev09_040.scr	12	リオン	Leon Magnus	personagem		…………	......	
+cev09_040.scr:13	cev09_040.scr	13	リオン	Leon Magnus	personagem	CRLF x1	…………一回だけだ。\nそれ以上は付き合わんぞ	......Just one round.\nI will not play any more than that.	
+cev09_040.scr:14	cev09_040.scr	14	ファラ	Farah Oersted	personagem	CRLF x1	うん、それでも十分だよ！\nありがと、リオン	Yeah, that's more than enough!\nThanks, Leon!	
+cev09_040.scr:15	cev09_040.scr	15	リオン	Leon Magnus	personagem		フン、全く……	Hmph, honestly...	
+cev09_040.scr:16	cev09_040.scr	16	ファラ	Farah Oersted	personagem		やっぱり、みんなで一緒が楽しいよね	Doing things together really is the best!	
+cev09_040.scr:17	cev09_040.scr	17	ファラ	Farah Oersted	personagem		さ、行こ！	Come on, let's go!	
+cev09_040.scr:18	cev09_040.scr	18	リオン	Leon Magnus	personagem	CRLF x2	お、おい。\n引っ張るな！\n自分で歩ける！	H-Hey!\nDon't pull me!\nI can walk on my own!	
+cev09_050.scr:0	cev09_050.scr	0	クレア	Claire Bennett	personagem		あら、リオンさん？	Oh, Leon?	
+cev09_050.scr:1	cev09_050.scr	1	クレア	Claire Bennett	personagem		何をしているの？	What are you doing?	
+cev09_050.scr:2	cev09_050.scr	2	クレア	Claire Bennett	personagem		その紅茶の缶は……	That tea tin in your hands is...	
+cev09_050.scr:3	cev09_050.scr	3	リオン	Leon Magnus	personagem	CRLF x1	何でもいいだろう。\n僕に構うな！	It doesn't concern you.\nLeave me alone!	
+cev09_050.scr:4	cev09_050.scr	4	クレア	Claire Bennett	personagem	CRLF x1	お茶を淹れようとしていたのね。\n邪魔をしてしまって、ごめんなさい	You were trying to brew tea.\nI'm sorry for interrupting you.	
+cev09_050.scr:5	cev09_050.scr	5	リオン	Leon Magnus	personagem		…………	......	
+cev09_050.scr:6	cev09_050.scr	6	クレア	Claire Bennett	personagem	CRLF x1	リオンさん、もしかして\n最近よく眠れていないの？	Leon, have you perhaps\nbeen having trouble sleeping lately?	
+cev09_050.scr:7	cev09_050.scr	7	リオン	Leon Magnus	personagem		なぜそんな事を聞く	Why do you ask that?	
+cev09_050.scr:8	cev09_050.scr	8	クレア	Claire Bennett	personagem	CRLF x2	その茶葉はね、リラックス効果が高いの。\nだから、寝る前に飲むと\n疲れがほぐれて、とってもよく眠れるのよ	Those tea leaves are very relaxing.\nDrinking it before bed eases fatigue\nand helps you sleep soundly.	
+cev09_050.scr:9	cev09_050.scr	9	クレア	Claire Bennett	personagem	CRLF x1	もしかして、贈り物だったのかしら？\nご家族から？	Could it be a present?\nFrom your family, perhaps?	
+cev09_050.scr:10	cev09_050.scr	10	リオン	Leon Magnus	personagem	CRLF x1	……フン。\nどうだかな……	...Hmph.\nWho knows...	
+cev09_050.scr:11	cev09_050.scr	11	クレア	Claire Bennett	personagem	CRLF x1	いいご家族がいるのね。\n素敵だわ	You must have a wonderful family.\nThat is lovely.	
+cev09_050.scr:12	cev09_050.scr	12	リオン	Leon Magnus	personagem	CRLF x2	……おい。\nこの紅茶は、どう淹れれば\n一番美味くなる？	...Hey.\nHow should this black tea be brewed\nto make it taste best?	
+cev09_050.scr:13	cev09_050.scr	13	クレア	Claire Bennett	personagem	CRLF x2	まずは茶器を\nあたためる事から始めるの。\nこうして、熱湯で中を満たして……	First, you begin by warming the pot.\nLike this, fill the inside\nwith boiling water...	
+cev09_050.scr:14	cev09_050.scr	14	リオン	Leon Magnus	personagem		……ッ、熱い！	...Ow! Hot!	
+cev09_050.scr:15	cev09_050.scr	15	クレア	Claire Bennett	personagem		ほら、気を付けて	There now, be careful!	
+cev09_050.scr:16	cev09_050.scr	16	リオン	Leon Magnus	personagem		こ……子ども扱いするな	D-Don't treat me like a child!	
+cev09_050.scr:17	cev09_050.scr	17	クレア	Claire Bennett	personagem	CRLF x1	……そうね。\nごめんなさい	...You're right.\nI'm sorry.	
+cev09_050.scr:18	cev09_050.scr	18	クレア	Claire Bennett	personagem		私も、次から気を付けるわ	I'll be more careful next time, too.	
+cev09_050.scr:19	cev09_050.scr	19	リオン	Leon Magnus	personagem		…………	......	
+cev09_060.scr:0	cev09_060.scr	0	ノーマ	Norma Beatty	personagem		ふぅわ〜〜〜〜〜	*yaaawn*~~~~~	
+cev09_060.scr:1	cev09_060.scr	1	チェルシー	Chelsea Torn	personagem	CRLF x1	大きなアクビですねえ。\nあんまり眠れていないんですか？	That was a huge yawn.\nHaven't you been sleeping well?	
+cev09_060.scr:2	cev09_060.scr	2	ノーマ	Norma Beatty	personagem	CRLF x1	違う違〜う！　\nその逆だっての	No, nooo!\nIt's the complete opposite!	
+cev09_060.scr:3	cev09_060.scr	3	ノーマ	Norma Beatty	personagem	CRLF x1	あんまりにも心地良くて\nぜ〜んぜん起きられなかったのよ	It was so comfortable that\nI couldn't get up at all!	
+cev09_060.scr:4	cev09_060.scr	4	リオン	Leon Magnus	personagem	CRLF x1	……フン。\n「春眠暁を覚えず」、というやつか	"...Hmph. ""In spring, one sleeps,\nunaware of the dawn,"" as they say?"	
+cev09_060.scr:5	cev09_060.scr	5	ノーマ	Norma Beatty	personagem	CRLF x2	え？　\nしゅんしゅんみんみん？\nなんだって？？？	Huh?\nIn spring, what dawns?\nWhat does that even mean???	
+cev09_060.scr:6	cev09_060.scr	6	チェルシー	Chelsea Torn	personagem		「春眠暁を覚えず」です！	"""In spring, sleep knows no dawn!"""	
+cev09_060.scr:7	cev09_060.scr	7	チェルシー	Chelsea Torn	personagem	CRLF x1	春の夜は気持ち良く眠れるので、\nなかなか起きられないって意味ですよ	Spring nights bring pleasant sleep,\nso it means it's hard to wake up!	
+cev09_060.scr:8	cev09_060.scr	8	ノーマ	Norma Beatty	personagem	CRLF x2	は〜、なるほどねえ。\nさっすがリー坊、洒落た事言うわ〜。\nうんうん……	Aaah, I see, I see!\nLeave it to little Leon-kins\nto say something so classy. Mhm, mhm...	
+cev09_060.scr:9	cev09_060.scr	9	ノーマ	Norma Beatty	personagem	CRLF x1	……ん、でも、今って別に\n春とか関係ないわよね？	...Wait, spring has nothing\nto do with right now, does it?	
+cev09_060.scr:10	cev09_060.scr	10	リオン	Leon Magnus	personagem		お前の頭の中を除けばな	Except for inside your own head.	
+cev09_060.scr:11	cev09_060.scr	11	ノーマ	Norma Beatty	personagem	CRLF x2	なるほどね！\nあたしの頭は春の陽気みたいに、\nいつでもポワポワしてるもんね〜	Oh, I get it!\nMy head is always breezy and cheery\nlike warm spring sunshine~	
+cev09_060.scr:12	cev09_060.scr	12	ノーマ	Norma Beatty	personagem	CRLF x2	っておい！　\n誰の頭の中が、\n春の様にお花畑っだっつーの！！	Wait, hey!\nWho are you calling\nan airhead full of flowers, huh!?	
+cev09_060.scr:13	cev09_060.scr	13	チェルシー	Chelsea Torn	personagem		そういうノリが……じゃないですか？	Isn't that attitude proof right there?	
+cev09_070.scr:0	cev09_070.scr	0	スタン	Stahn Aileron	personagem	CRLF x2	ロイドが二刀流なのって、\n「剣が二本で二倍強い」って\nアイデアが基だったらしいな	I heard Lloyd's dual-wielding was\nbased on the idea that having two swords\nmakes you twice as strong!	
+cev09_070.scr:1	cev09_070.scr	1	リオン	Leon Magnus	personagem		くだらんな	How utterly ridiculous.	
+cev09_070.scr:2	cev09_070.scr	2	リオン	Leon Magnus	personagem	CRLF x2	武器の多さが個人の強さに比例するなら\n手練の戦士や騎士のほとんどが\n複数の武器を有している事になる	If weapon count equaled strength,\nnearly all seasoned knights and warriors\nwould carry multiple armaments.	
+cev09_070.scr:3	cev09_070.scr	3	リオン	Leon Magnus	personagem	CRLF x1	……そんな絵面を\nお前は見た事があるか？	...Have you ever seen\nsuch a sight anywhere?	
+cev09_070.scr:4	cev09_070.scr	4	スタン	Stahn Aileron	personagem	CRLF x1	そう言われてみれば\nある様な、無い様な……？	Now that you mention it,\nmaybe I have, maybe I haven't...?	
+cev09_070.scr:5	cev09_070.scr	5	リオン	Leon Magnus	personagem	CRLF x1	おい、考えるな！\nどう考えてもあるはずがないだろう！	Hey, don't ponder it!\nThere is no way you ever have!	
+cev09_070.scr:6	cev09_070.scr	6	ジュディス	Judith	personagem	CRLF x2	あら、そう？\nでも、客員剣士であるあなたも\n二刀流じゃなかったかしら？	Oh, really?\nAren't you a dual-wielder yourself,\nSir Guest Swordsman?	
+cev09_070.scr:7	cev09_070.scr	7	スタン	Stahn Aileron	personagem		そういえばそうだな……	Come to think of it, you are...	
+cev09_070.scr:8	cev09_070.scr	8	リオン	Leon Magnus	personagem		ちょっと待て……	Wait just a moment...	
+cev09_070.scr:9	cev09_070.scr	9	ジュディス	Judith	personagem	CRLF x2	客員剣士様が二刀流なのだもの。\n武器の多さは、強さに比例するという仮説も\nあながち的外れではないんじゃないかしら	Since our guest swordsman dual-wields,\nthe hypothesis that more weapons equal\ngreater strength isn't so far off.	
+cev09_070.scr:10	cev09_070.scr	10	スタン	Stahn Aileron	personagem	CRLF x1	うん。\nやっぱり、そうだよな！	Yeah.\nI knew it was true!	
+cev09_070.scr:11	cev09_070.scr	11	スタン	Stahn Aileron	personagem	CRLF x1	リオンはすごい使い手だし\nロイドの考えは正しかったんだ！！	Leon is an amazing swordsman,\nso Lloyd's theory was right all along!!	
+cev09_070.scr:12	cev09_070.scr	12	リオン	Leon Magnus	personagem	CRLF x1	僕の戦術を\nあんな単細胞理論と一緒にするな！！	Do not lump my combat tactics\nin with that simpleton's theory!!	
+cev09_080.scr:0	cev09_080.scr	0	スタン	Stahn Aileron	personagem	CRLF x1	なあ、リオン。\n俺、ずっと考えてたんだ……	Hey, Leon.\nI've been thinking about this a lot...	
+cev09_080.scr:1	cev09_080.scr	1	スタン	Stahn Aileron	personagem	CRLF x1	より有利に、相手と戦って勝つには\nどうしたらいいんだろうって	About how to fight more effectively\nand win against an opponent.	
+cev09_080.scr:2	cev09_080.scr	2	リオン	Leon Magnus	personagem	CRLF x2	ほう。\nお前にしては\n随分殊勝な心がけだな	Oh?\nThat is an unusually admirable attitude\ncoming from someone like you.	
+cev09_080.scr:3	cev09_080.scr	3	スタン	Stahn Aileron	personagem	CRLF x2	ああ。　この間の話で、\n武器の多さが個人の強さになるのは\n何となく納得出来たけど	Yeah. From our talk the other day,\nI kind of accepted that having more\nweapons adds to individual strength, but	
+cev09_080.scr:4	cev09_080.scr	4	スタン	Stahn Aileron	personagem	CRLF x2	人間の腕は二本しかないだろ？\nって事は、二本以上武器を持てないなら\nどうやって相手より強くなればいいのかな	humans only have two arms, right?\nIf you can't hold more than two,\nhow can you get stronger than the foe?	
+cev09_080.scr:5	cev09_080.scr	5	リオン	Leon Magnus	personagem		まだその馬鹿げた話を続けたいのか！	You still want to continue this nonsense!?	
+cev09_080.scr:6	cev09_080.scr	6	ジュディス	Judith	personagem	CRLF x2	そうね。\n単純に武器を増やしただけじゃ\n相手と大きな差は付けられないわ	That's true.\nSimply increasing weapon count\nwon't create a decisive gap.	
+cev09_080.scr:7	cev09_080.scr	7	ジュディス	Judith	personagem	CRLF x2	武器の数は同じ。\n力も互角。\nそれなら、どうすれば相手に勝てるのか……	The same number of weapons.\nEqual physical strength.\nThen how does one defeat their foe...?	
+cev09_080.scr:8	cev09_080.scr	8	ジュディス	Judith	personagem	CRLF x1	答えは案外、簡単なところに\nあるんじゃないかしら	Perhaps the answer is actually\nfound in quite a simple place.	
+cev09_080.scr:9	cev09_080.scr	9	スタン	Stahn Aileron	personagem	CRLF x2	簡単なところ……？\nどういう事だ、ジュディス？\n教えてくれ！	A simple place...?\nWhat do you mean, Judith?\nTell me!	
+cev09_080.scr:10	cev09_080.scr	10	リオン	Leon Magnus	personagem		おい、スタン！	Hey, Stahn!	
+cev09_080.scr:11	cev09_080.scr	11	ジュディス	Judith	personagem		武器の種類を変えるのよ	You change the types of weapons.	
+cev09_080.scr:12	cev09_080.scr	12	ジュディス	Judith	personagem	CRLF x1	同じ武器同士ではなく、あえて\n違う武器同士を組み合わせてみるの	Instead of using two of the same,\ntry combining two different weapons.	
+cev09_080.scr:13	cev09_080.scr	13	ジュディス	Judith	personagem	CRLF x2	ほら、斧と剣なんて組み合わせも\n案外、面白い戦い方が\n出来るかもしれないわよ？	Pairing an axe and sword, for instance,\nmight yield quite an intriguing\nstyle of combat, wouldn't you say?	
+cev09_080.scr:14	cev09_080.scr	14	スタン	Stahn Aileron	personagem	CRLF x1	武器の種類か……！\nうん、確かにそうだな！	Different weapon types...!\nYeah, that totally makes sense!	
+cev09_080.scr:15	cev09_080.scr	15	スタン	Stahn Aileron	personagem	CRLF x1	リオンだって、違う種類の武器で\n戦ってるもんな	Leon fights with two different\ntypes of weapons too, after all!	
+cev09_080.scr:16	cev09_080.scr	16	リオン	Leon Magnus	personagem		だから、それとこれとは話が別だ！	Like I said, that is completely different!	
+cev09_080.scr:17	cev09_080.scr	17	スタン	Stahn Aileron	personagem	CRLF x2	こうしちゃいられない！\nこの事、他のみんなにも\n教えて来なくちゃ！！	I can't just stand around!\nI gotta go tell everyone else\nabout this right away!!	
+cev09_080.scr:18	cev09_080.scr	18	リオン	Leon Magnus	personagem	CRLF x2	何を考えているか知らんが……、\nあいつをからかって面白がるのはやめろ。\nいい迷惑だ	I don't know what you're thinking,\nbut stop teasing him for your amusement.\nIt is an utter nuisance.	
+cev09_080.scr:19	cev09_080.scr	19	ジュディス	Judith	personagem	CRLF x1	あら、冷たいのね。\n私は冗談は嫌いよ？	My, how cold.\nI don't care for jokes, you know?	
+cev09_080.scr:20	cev09_080.scr	20	リオン	Leon Magnus	personagem		……僕は言葉遊びも大嫌いだ	...And I despise wordplay.	
+cev09_080.scr:21	cev09_080.scr	21	ジュディス	Judith	personagem		あらあら……	My, oh my...	
+cev09_080.scr:22	cev09_080.scr	22	ジュディス	Judith	personagem	CRLF x1	ムキになるのは、それだけ本気……\nという事なのかしら？	Getting so defensive...\nDoes that mean you're truly serious?	
+cev09_090.scr:0	cev09_090.scr	0	スタン	Stahn Aileron	personagem	CRLF x2	なあリオン、今度みんなで\nバーベキューしようかって話してるんだ。\n良かったら一緒に……	Hey, Leon, we're talking about\nhaving a barbecue with everyone soon.\nCare to join us...?	
+cev09_090.scr:1	cev09_090.scr	1	リオン	Leon Magnus	personagem		断る	Refuse	
+cev09_090.scr:2	cev09_090.scr	2	スタン	Stahn Aileron	personagem	CRLF x2	そう言うなって。\n焼きたての肉と野菜を\n青空の下で食べると、美味いぞぉ！	Don't say that!\nFreshly grilled meat and vegetables\nunder the open sky are so delicious!	
+cev09_090.scr:3	cev09_090.scr	3	リオン	Leon Magnus	personagem	CRLF x2	フン、くだらん。\n出来立ての料理なら\n食堂にあるもので十分だろう	Hmph, absurd.\nIf it is freshly prepared food,\nwhat the cafeteria serves is sufficient.	
+cev09_090.scr:4	cev09_090.scr	4	リオン	Leon Magnus	personagem	CRLF x1	大体、僕は忙しいんだ。\nお前達の遊びに付き合っ……	Besides, I am busy.\nI have no time to indulge your games--	
+cev09_090.scr:5	cev09_090.scr	5	ルーティ	Rutee Katrea	personagem	CRLF x2	あ〜そうよねえ。\nあんたは好き嫌いが多いから\nバーベキューなんてつまらないわよねえ	Aah, right you are.\nYou're such a picky eater, a barbecue\nmust sound boring to you, huh?	
+cev09_090.scr:6	cev09_090.scr	6	リオン	Leon Magnus	personagem	CRLF x1	おい、待て。\n僕がいつ、好き嫌いをしたというんだ	Wait a second.\nWhen have I ever been a picky eater!?	
+cev09_090.scr:7	cev09_090.scr	7	ルーティ	Rutee Katrea	personagem	CRLF x2	あら、違うの？\nてっきり、ピーマンやにんじんを\n食べたくないんだとばっかり思ったけど	Oh, you're not?\nI just assumed you didn't want\nto eat bell peppers or carrots.	
+cev09_090.scr:8	cev09_090.scr	8	リオン	Leon Magnus	personagem	CRLF x2	馬鹿を言うな！\nそんな子どもじみた真似を\n僕がするはずないだろう！	Don't be ridiculous!\nThere is no way I would ever\nact so childishly!	
+cev09_090.scr:9	cev09_090.scr	9	ルーティ	Rutee Katrea	personagem	CRLF x2	そうかしら？\nこんなに協調性がない大人も\n珍しいと思うけどね〜？	Is that so?\nIt's pretty rare to see an adult\nwith so little cooperativeness, though~	
+cev09_090.scr:10	cev09_090.scr	10	スタン	Stahn Aileron	personagem	CRLF x2	ま、まあまあ、いいじゃないか。\n仲良くみんなで食べればさ。\nなっ！	C-Come on, isn't it fine?\nWe can all eat together as friends.\nRight!?	
+cev09_090.scr:11	cev09_090.scr	11	リオン	Leon Magnus	personagem	CRLF x1	おい、僕は参加するとは\n言っていないぞ！	Hey, I never said\nI would participate!	
+cev09_090.scr:12	cev09_090.scr	12	ルーティ	Rutee Katrea	personagem	CRLF x1	何よ。\n逃げるの？	What?\nRunning away?	
+cev09_090.scr:13	cev09_090.scr	13	リオン	Leon Magnus	personagem		誰が逃げるか！	As if I would run away!	
+cev09_100.scr:0	cev09_100.scr	0	ジェイ	Jay	personagem	CRLF x1	あなたがリオンさんですね。\nお目にかかれて光栄です	You must be Leon.\nIt is an honor to meet you.	
+cev09_100.scr:1	cev09_100.scr	1	リオン	Leon Magnus	personagem		僕を知っているのか	You know who I am?	
+cev09_100.scr:2	cev09_100.scr	2	ジェイ	Jay	personagem	CRLF x1	ええ。\nかの国の薔薇と名高い……	Indeed.\nFamed as the Rose of that kingdom...	
+cev09_100.scr:3	cev09_100.scr	3	リオン	Leon Magnus	personagem	CRLF x1	黙れ。\n人違いだ	Silence.\nYou have the wrong person.	
+cev09_100.scr:4	cev09_100.scr	4	ジェイ	Jay	personagem	CRLF x2	そうですか？\nまあ、確かにそのリオンさんは\n男装の麗人という話でしたしね	Is that so?\nThough that Leon was said to be\na cross-dressing beauty, after all.	
+cev09_100.scr:5	cev09_100.scr	5	ジェイ	Jay	personagem		ぼくの勘違い……という事にしておきます	I'll consider it... my mistake.	
+cev09_100.scr:6	cev09_100.scr	6	リオン	Leon Magnus	personagem		…………	......	
+cev09_100.scr:7	cev09_100.scr	7	ジェイ	Jay	personagem	CRLF x1	あなたが男装をしている、という\n線も残っていますけどね	Though the possibility remains that\nyou are a maiden in men's clothes.	
+cev09_100.scr:8	cev09_100.scr	8	リオン	Leon Magnus	personagem		あるはずがないだろう！！	As if that could ever be true!!	
+cev09_200.scr:0	cev09_200.scr	0	リオン	Leon Magnus	personagem	CRLF x1	通常。\n	Normal.\n	
+cev09_200.scr:1	cev09_200.scr	1	リオン	Leon Magnus	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev09_200.scr:2	cev09_200.scr	2	リオン	Leon Magnus	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev09_200.scr:3	cev09_200.scr	3	リオン	Leon Magnus	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev09_200.scr:4	cev09_200.scr	4	リオン	Leon Magnus	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev09_200.scr:5	cev09_200.scr	5	リオン	Leon Magnus	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev09_200.scr:6	cev09_200.scr	6	リオン	Leon Magnus	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev09_200.scr:7	cev09_200.scr	7	リオン	Leon Magnus	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev09_200.scr:8	cev09_200.scr	8	リオン	Leon Magnus	personagem	CRLF x1	すねる。\n	Sulking.\n	
+cev09_200.scr:9	cev09_200.scr	9	リオン	Leon Magnus	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev09_200.scr:10	cev09_200.scr	10	リオン	Leon Magnus	personagem	CRLF x1	通常。\n	Normal.\n	
+cev09_200.scr:11	cev09_200.scr	11	リオン	Leon Magnus	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev09_200.scr:12	cev09_200.scr	12	リオン	Leon Magnus	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev09_200.scr:13	cev09_200.scr	13	リオン	Leon Magnus	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev09_200.scr:14	cev09_200.scr	14	リオン	Leon Magnus	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev09_200.scr:15	cev09_200.scr	15	リオン	Leon Magnus	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev09_200.scr:16	cev09_200.scr	16	リオン	Leon Magnus	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev09_200.scr:17	cev09_200.scr	17	リオン	Leon Magnus	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev09_200.scr:18	cev09_200.scr	18	リオン	Leon Magnus	personagem	CRLF x1	すねる。\n	Sulking.\n	
+cev09_200.scr:19	cev09_200.scr	19	リオン	Leon Magnus	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev09_200.scr:20	cev09_200.scr	20	リオン	Leon Magnus	personagem	CRLF x1	通常。\n	Normal.\n	
+cev09_200.scr:21	cev09_200.scr	21	リオン	Leon Magnus	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev09_200.scr:22	cev09_200.scr	22	リオン	Leon Magnus	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev09_200.scr:23	cev09_200.scr	23	リオン	Leon Magnus	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev09_200.scr:24	cev09_200.scr	24	リオン	Leon Magnus	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev09_200.scr:25	cev09_200.scr	25	リオン	Leon Magnus	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev09_200.scr:26	cev09_200.scr	26	リオン	Leon Magnus	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev09_200.scr:27	cev09_200.scr	27	リオン	Leon Magnus	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev09_200.scr:28	cev09_200.scr	28	リオン	Leon Magnus	personagem	CRLF x1	すねる。\n	Sulking.\n	
+cev09_200.scr:29	cev09_200.scr	29	リオン	Leon Magnus	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	

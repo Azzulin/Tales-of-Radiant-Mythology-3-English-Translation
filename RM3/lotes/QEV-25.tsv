@@ -1,0 +1,97 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev25_010.scr:0	qev25_010.scr	0	ロイド	Lloyd Irving	personagem		じゃあ、どうするんだ？		
+qev25_010.scr:1	qev25_010.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	決まってるだろ。\n迎えに行くよ		
+qev25_010.scr:2	qev25_010.scr	2	しいな	Sheena Fujibayashi	personagem	CRLF x2	あんな動くわいせつ物、\nその辺に放置してたら、\n人様に迷惑がかかるからね		
+qev25_010.scr:3	qev25_010.scr	3	ロイド	Lloyd Irving	personagem		よう、○○		
+qev25_010.scr:4	qev25_010.scr	4	ロイド	Lloyd Irving	personagem		来てたのか、気付かなくてごめんな		
+qev25_010.scr:5	qev25_010.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x2	……そうだ、悪いんだけど\n良かったら○○も\n手を貸してくれないかい？		
+qev25_010.scr:6	qev25_010.scr	6	しいな	Sheena Fujibayashi	personagem	CRLF x2	知り合いに、どうしようもない馬鹿が\n一人いてさ。　これからそいつを\n迎えに行かなきゃなんないんだよ		
+qev25_010.scr:7	qev25_010.scr	7	ロイド	Lloyd Irving	personagem	CRLF x1	あ、俺からも頼むよ。\nもちろん、俺で良ければ手伝うからさ		
+qev25_010.scr:8	qev25_010.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x1	全く、懲りないっていうか\n何ていうか……		
+qev25_010.scr:9	qev25_010.scr	9	しいな	Sheena Fujibayashi	personagem	CRLF x1	ほんとに、手のかかる馬鹿だよ。\nあいつは		
+qev25_010.scr:10	qev25_010.scr	10	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「愛の使者、襲来」が\nエントリーされました。\nしいなから受ける事が出来ます		
+qev25_020.scr:0	qev25_020.scr	0	しいな	Sheena Fujibayashi	personagem	CRLF x2	手を貸してくれるんだね、助かるよ。\nあの馬鹿はあたし一人じゃ\n手に負えなくってサ		
+qev25_020.scr:1	qev25_020.scr	1	(ator 200)	(ator 200)	desconhecido		…………		
+qev25_020.scr:2	qev25_020.scr	2	しいな	Sheena Fujibayashi	personagem	CRLF x1	ああ、美人を\n連れて来いって条件かい？		
+qev25_020.scr:3	qev25_020.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x1	真に受けなくていいよ。\nいつものあいつのしょうもない病気さ		
+qev25_020.scr:4	qev25_020.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x1	それに、あたしが同行すれば\nあいつも黙ると思うしね		
+qev25_020.scr:5	qev25_020.scr	5	(ator 200)	(ator 200)	desconhecido		…………		
+qev25_020.scr:6	qev25_020.scr	6	しいな	Sheena Fujibayashi	personagem	CRLF x1	……あ、いや、別にあたしが\n美人だって言ってるわけじゃないよ？		
+qev25_020.scr:7	qev25_020.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x1	あいつには、そろそろ、きつ〜いお灸を\n据えてやんなきゃって思ってるだけさ		
+qev25_020.scr:8	qev25_020.scr	8	しいな	Sheena Fujibayashi	personagem		さ、行こう		
+qev25_030.scr:0	qev25_030.scr	0	しいな	Sheena Fujibayashi	personagem		やれやれ、全く……		
+qev25_030.scr:1	qev25_030.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	何で、こんなとこで\n迷っちまうかねぇ……		
+qev25_030.scr:2	qev25_030.scr	2	(ator 200)	(ator 200)	desconhecido		…………		
+qev25_030.scr:3	qev25_030.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x1	ああ、ごめんよ。\n愚痴っぽくなっちまったね		
+qev25_030.scr:4	qev25_030.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x1	……これから迎えに行く馬鹿はサ、\n重度の女好きなんだ		
+qev25_030.scr:5	qev25_030.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x2	今回も「ロイドくんを追っかけて\nアドリビトムを目指してるぜ∀」なんて\nしゃあしゃあと言っちゃあいるけど……		
+qev25_030.scr:6	qev25_030.scr	6	しいな	Sheena Fujibayashi	personagem	CRLF x1	ホントの目的なんて\n言わずとも……っていう奴だよ		
+qev25_030.scr:7	qev25_030.scr	7	(ator 200)	(ator 200)	desconhecido		…………		
+qev25_030.scr:8	qev25_030.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x2	○○も気を付けなよ。\nあいつ、ほんと女には\n全力で見境ないからさ		
+qev25_030.scr:9	qev25_030.scr	9	しいな	Sheena Fujibayashi	personagem	CRLF x1	……なんて、\nうだうだ言ってたって仕方ないね		
+qev25_030.scr:10	qev25_030.scr	10	しいな	Sheena Fujibayashi	personagem		それじゃ、気合入れていくよ！		
+qev25_040.scr:0	qev25_040.scr	0	ゼロス	Zelos Wilder	personagem	CRLF x1	待ってたぜ、俺さまの可愛い\n子猫ちゃん達∀		
+qev25_040.scr:1	qev25_040.scr	1	ゼロス	Zelos Wilder	personagem	CRLF x1	お嬢さん……。\n俺さまの為に、はるばるこんな所まで……		
+qev25_040.scr:2	qev25_040.scr	2	ゼロス	Zelos Wilder	personagem	CRLF x2	ここでこうしてお会い出来たのも\n何かのご縁。\nよろしければ……		
+qev25_040.scr:3	qev25_040.scr	3	ゼロス	Zelos Wilder	personagem	CRLF x1	その疲れたおみ足、俺さまが\nもみほぐしてあげちゃいた〜い、みたいな∀		
+qev25_040.scr:4	qev25_040.scr	4	ゼロス	Zelos Wilder	personagem	CRLF x1	って、何だよ。\nこっちはヤローか		
+qev25_040.scr:5	qev25_040.scr	5	(ator 200)	(ator 200)	desconhecido		…………		
+qev25_040.scr:6	qev25_040.scr	6	ゼロス	Zelos Wilder	personagem		で、で		
+qev25_040.scr:7	qev25_040.scr	7	ゼロス	Zelos Wilder	personagem	CRLF x2	俺さまの俺さまによる俺さまの為の\n可愛い可愛い子猫ちゃん達∀は\nどこに……		
+qev25_040.scr:8	qev25_040.scr	8	しいな	Sheena Fujibayashi	personagem		ゼロス！！！		
+qev25_040.scr:9	qev25_040.scr	9	ゼロス	Zelos Wilder	personagem		ぐはっ！！？		
+qev25_040.scr:10	qev25_040.scr	10	ゼロス	Zelos Wilder	personagem	CRLF x2	……って、しいな？\n何でぇ、お前もこの愛の使者たる\n俺さまに会いたくて来ちゃったってか？		
+qev25_040.scr:11	qev25_040.scr	11	ゼロス	Zelos Wilder	personagem		か〜〜っ、モテる男は辛いねえ∀		
+qev25_040.scr:12	qev25_040.scr	12	ゼロス	Zelos Wilder	personagem		ごほぉっ！！？		
+qev25_040.scr:13	qev25_040.scr	13	ゼロス	Zelos Wilder	personagem		……って、何度も人を殴るなっつの！		
+qev25_040.scr:14	qev25_040.scr	14	しいな	Sheena Fujibayashi	personagem	CRLF x2	そうでもしなきゃ、\nあんたのそのくだらないお喋りは\n止まらないだろ？		
+qev25_040.scr:15	qev25_040.scr	15	ゼロス	Zelos Wilder	personagem	CRLF x2	な、何だよ。\nそんな目くじら立てなくたって\nいいでしょ〜		
+qev25_040.scr:16	qev25_040.scr	16	しいな	Sheena Fujibayashi	personagem	CRLF x2	今日という今日は、\nきつ〜〜〜〜〜くお灸を\n据えてやるからね……ゼロス		
+qev25_040.scr:17	qev25_040.scr	17	ゼロス	Zelos Wilder	personagem		あああ〜〜〜っ！！		
+qev25_040.scr:18	qev25_040.scr	18	ゼロス	Zelos Wilder	personagem	CRLF x1	おい、しいな！\n服のそこんところ破けてんぞ！		
+qev25_040.scr:19	qev25_040.scr	19	しいな	Sheena Fujibayashi	personagem		えっ！？　ど、どこだい？		
+qev25_040.scr:20	qev25_040.scr	20	ゼロス	Zelos Wilder	personagem		そこだよそこ、ほら端の！		
+qev25_040.scr:21	qev25_040.scr	21	しいな	Sheena Fujibayashi	personagem	CRLF x2	え？　え？\nも、もっと具体的に言っとくれよ。\nそれじゃちっともわからな……		
+qev25_040.scr:22	qev25_040.scr	22	(ator 200)	(ator 200)	desconhecido		…………		
+qev25_040.scr:23	qev25_040.scr	23	しいな	Sheena Fujibayashi	personagem		ゼ、ゼロスーーーー！！		
+qev25_040.scr:24	qev25_040.scr	24	しいな	Sheena Fujibayashi	personagem	CRLF x2	あいつ……。\nこの次見つけたら、\nただじゃおかないよ！！		
+qev25_050.scr:0	qev25_050.scr	0	しいな	Sheena Fujibayashi	personagem	CRLF x1	見つけたよ、ゼロス！\nさっきはよくも騙してくれたね！		
+qev25_050.scr:1	qev25_050.scr	1	ゼロス	Zelos Wilder	personagem		騙すなんてそんな、人聞きの悪い		
+qev25_050.scr:2	qev25_050.scr	2	ゼロス	Zelos Wilder	personagem	CRLF x2	衣服に万一乱れがあっちゃ、\n後で気付いたしいなが、それはそれは\n恥ずかし〜〜い思いをすると思って		
+qev25_050.scr:3	qev25_050.scr	3	ゼロス	Zelos Wilder	personagem		これでも、俺さまなりに気を遣ったんだぜ？		
+qev25_050.scr:4	qev25_050.scr	4	(ator 200)	(ator 200)	desconhecido		…………		
+qev25_050.scr:5	qev25_050.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x1	……で。\n結局どこが乱れてたっていうんだい		
+qev25_050.scr:6	qev25_050.scr	6	ゼロス	Zelos Wilder	personagem		それは、ヒ・ミ・ツ∀		
+qev25_050.scr:7	qev25_050.scr	7	ゼロス	Zelos Wilder	personagem		どあぁっ！！？		
+qev25_050.scr:8	qev25_050.scr	8	ゼロス	Zelos Wilder	personagem	CRLF x1	ったくも〜〜。\n俺さま何回どつかれんのよ……		
+qev25_050.scr:9	qev25_050.scr	9	ゼロス	Zelos Wilder	personagem	CRLF x1	久々の再会に、喜びを抑えきれないのは\nよ〜〜くわかるんだけどさぁ		
+qev25_050.scr:10	qev25_050.scr	10	しいな	Sheena Fujibayashi	personagem		何だって？		
+qev25_050.scr:11	qev25_050.scr	11	ゼロス	Zelos Wilder	personagem		ああ、いや……何でもないです		
+qev25_050.scr:12	qev25_050.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x1	……とにかく。\nアドリビトムへ来るんだろ？		
+qev25_050.scr:13	qev25_050.scr	13	しいな	Sheena Fujibayashi	personagem	CRLF x1	案内するから、\n黙ってちゃっちゃと歩いとくれよ		
+qev25_050.scr:14	qev25_050.scr	14	ゼロス	Zelos Wilder	personagem		わかってますって		
+qev25_050.scr:15	qev25_050.scr	15	しいな	Sheena Fujibayashi	personagem		返事が軽い		
+qev25_050.scr:16	qev25_050.scr	16	ゼロス	Zelos Wilder	personagem		な、何だよそれ〜		
+qev25_050.scr:17	qev25_050.scr	17	ゼロス	Zelos Wilder	personagem	CRLF x2	これでも、ちゃあんと感謝してるぜ？\n俺さまを迎えに来てくれた\nしいなには特別、な		
+qev25_050.scr:18	qev25_050.scr	18	しいな	Sheena Fujibayashi	personagem		はいはい		
+qev25_050.scr:19	qev25_050.scr	19	しいな	Sheena Fujibayashi	personagem	CRLF x1	さ、○○。\n戻ろうか		
+qev25_050.scr:20	qev25_050.scr	20	(ator 200)	(ator 200)	desconhecido		…………		
+qev25_050.scr:21	qev25_050.scr	21	ゼロス	Zelos Wilder	personagem	CRLF x1	ははっ。\n相変わらずつれないねぇ……		
+qev25_060.scr:0	qev25_060.scr	0	ゼロス	Zelos Wilder	personagem	CRLF x2	さてさて。\nそんじゃ、早速俺さまも挨拶回りに\n行ってくるとしますかね		
+qev25_060.scr:1	qev25_060.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	待ちな、ゼロス！\n念の為に言っとくよ		
+qev25_060.scr:2	qev25_060.scr	2	しいな	Sheena Fujibayashi	personagem	CRLF x1	ここで何か間違いでも起こしてみな、\nその時は……わかってるだろうね？		
+qev25_060.scr:3	qev25_060.scr	3	ゼロス	Zelos Wilder	personagem		はいはい、わかってますよ		
+qev25_060.scr:4	qev25_060.scr	4	ゼロス	Zelos Wilder	personagem	CRLF x1	だがよ、真面目なのも悪かねえが\nあんまりおカタい女は嫌われるぜぇ？		
+qev25_060.scr:5	qev25_060.scr	5	しいな	Sheena Fujibayashi	personagem		なっ！		
+qev25_060.scr:6	qev25_060.scr	6	ゼロス	Zelos Wilder	personagem		んじゃ、お先〜〜∀		
+qev25_060.scr:7	qev25_060.scr	7	しいな	Sheena Fujibayashi	personagem		あっ！		
+qev25_060.scr:8	qev25_060.scr	8	しいな	Sheena Fujibayashi	personagem		……もう、またやられたよ		
+qev25_060.scr:9	qev25_060.scr	9	しいな	Sheena Fujibayashi	personagem		……うるさい奴だろ？　あいつ		
+qev25_060.scr:10	qev25_060.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x2	でも、ああ見えて\n根は悪い奴じゃないからさ。\n仲良くしてやっとくれよ		
+qev25_060.scr:11	qev25_060.scr	11	(ator 200)	(ator 200)	desconhecido		…………		
+qev25_060.scr:12	qev25_060.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x1	今日は手伝ってくれてありがとう。\nそれじゃ		
+qev25_060.scr:13	qev25_060.scr	13	ゼロス	Zelos Wilder	personagem	CRLF x2	あ、そうそう。\n言い忘れたけど。\n俺さま、ゼロス・ワイルダーね		
+qev25_060.scr:14	qev25_060.scr	14	ゼロス	Zelos Wilder	personagem	CRLF x1	しばらく世話んなると思うけど、\nま、よろしくな		
+qev25_060.scr:15	qev25_060.scr	15	ゼロス	Zelos Wilder	personagem	CRLF x2	ほんじゃまぁ、\n改めて、俺さまのハニー達に\n会いに行ってくるとしますか∀∀		
+qev25_060.scr:16	qev25_060.scr	16	ゼロス	Zelos Wilder	personagem		ひゃっほ〜〜〜い！！		
+qev25_060.scr:17	qev25_060.scr	17	(mensagem de sistema)	(mensagem de sistema)	sistema		ゼロスがアドリビトムに加入しました		

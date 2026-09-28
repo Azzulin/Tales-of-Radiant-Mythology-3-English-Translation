@@ -1,0 +1,95 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev08_010.scr:0	qev08_010.scr	0	ロイド	Lloyd Irving	personagem	CRLF x1	何だって…？\nあいつが…		
+qev08_010.scr:1	qev08_010.scr	1	クラトス	Kratos Aurion	personagem	CRLF x2	そうだ。\n奴を止める事は\n出来ていなかったという事だ		
+qev08_010.scr:2	qev08_010.scr	2	ロイド	Lloyd Irving	personagem	CRLF x1	ユグドラシル…。\nまだ生きていたなんて…		
+qev08_010.scr:3	qev08_010.scr	3	クラトス	Kratos Aurion	personagem	CRLF x2	あの時、ヤツを止めたと\n思っていたが…。\nまだ身を隠していたとはな…		
+qev08_010.scr:4	qev08_010.scr	4	ロイド	Lloyd Irving	personagem	CRLF x1	あいつの狙いは何なんだ…。\n自分と同じ羽のある種族を集めて…		
+qev08_010.scr:5	qev08_010.scr	5	ロイド	Lloyd Irving	personagem	CRLF x1	くそっ、その為に俺達の故郷の村は襲われて、\nコレットもさらわれそうになってさ…		
+qev08_010.scr:6	qev08_010.scr	6	クラトス	Kratos Aurion	personagem	CRLF x1	いずれにせよ、生きているというのであれば\n奴を止めねばなるまい		
+qev08_010.scr:7	qev08_010.scr	7	クラトス	Kratos Aurion	personagem	CRLF x2	さもなくば羽ある種族、\n「天使」を探し集める為に\nさらに村々を襲うだろうからな		
+qev08_010.scr:8	qev08_010.scr	8	ロイド	Lloyd Irving	personagem	CRLF x2	そうだな。\n今度こそ、あいつを止めないと。\nよし、行くか！		
+qev08_010.scr:9	qev08_010.scr	9	コレット	Colette Brunel	personagem		ロイド、私も行くよ		
+qev08_010.scr:10	qev08_010.scr	10	クラトス	Kratos Aurion	personagem	CRLF x1	この件はギルドの者にも\n伝えておいた方がいいだろう		
+qev08_010.scr:11	qev08_010.scr	11	ロイド	Lloyd Irving	personagem		ああ、俺から話しておくよ		
+qev08_010.scr:12	qev08_010.scr	12	ロイド	Lloyd Irving	personagem	CRLF x2	もしかしたら……\n力になってくれる奴が\nいるかもしれない		
+qev08_010.scr:13	qev08_010.scr	13	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「天使の暗舞」が\nエントリーされました。\nロイドから受ける事が出来ます		
+qev08_020.scr:0	qev08_020.scr	0	ロイド	Lloyd Irving	personagem	CRLF x1	やっぱり、協力してくれるんだな。\n……ありがとな！		
+qev08_020.scr:1	qev08_020.scr	1	コレット	Colette Brunel	personagem	CRLF x1	○○も、\n準備はだいじょぶ？		
+qev08_020.scr:2	qev08_020.scr	2	コレット	Colette Brunel	personagem		しっかり整えておいた方がいいよ		
+qev08_020.scr:3	qev08_020.scr	3	クラトス	Kratos Aurion	personagem		……目的地はヴェラトローパだ		
+qev08_020.scr:4	qev08_020.scr	4	クラトス	Kratos Aurion	personagem		急ぐぞ		
+qev08_030.scr:0	qev08_030.scr	0	クラトス	Kratos Aurion	personagem		……どうだ、コレット		
+qev08_030.scr:1	qev08_030.scr	1	コレット	Colette Brunel	personagem	CRLF x2	うん……微かだけど\nユグドラシルのマナの気配を\n感じるよ……		
+qev08_030.scr:2	qev08_030.scr	2	コレット	Colette Brunel	personagem		ロイド……		
+qev08_030.scr:3	qev08_030.scr	3	ロイド	Lloyd Irving	personagem		ああ……行こう		
+qev08_030.scr:4	qev08_030.scr	4	クラトス	Kratos Aurion	personagem		…………		
+qev08_040.scr:0	qev08_040.scr	0	コレット	Colette Brunel	personagem		はぁ……はぁ……		
+qev08_040.scr:1	qev08_040.scr	1	ロイド	Lloyd Irving	personagem	CRLF x1	大丈夫か、コレット？\nあんまり無理するなよ		
+qev08_040.scr:2	qev08_040.scr	2	コレット	Colette Brunel	personagem		うん、だいじょぶだよ		
+qev08_040.scr:3	qev08_040.scr	3	コレット	Colette Brunel	personagem	CRLF x2	私、彼の本心を知りたいの。\n彼は私と同じ種族なんでしょ？\nだったら、わかり合えるかもしれないし		
+qev08_040.scr:4	qev08_040.scr	4	コレット	Colette Brunel	personagem		ほら、早く行こっ！		
+qev08_040.scr:5	qev08_040.scr	5	クラトス	Kratos Aurion	personagem		ロイド		
+qev08_040.scr:6	qev08_040.scr	6	ロイド	Lloyd Irving	personagem	CRLF x1	わかってる。\nあいつが無理してるのは		
+qev08_040.scr:7	qev08_040.scr	7	ロイド	Lloyd Irving	personagem	CRLF x2	だけど……それくらい\nコレットにとっては、大事な事なんだ。\nこの先にあるものが……		
+qev08_040.scr:8	qev08_040.scr	8	ロイド	Lloyd Irving	personagem		だったら、俺は……		
+qev08_040.scr:9	qev08_040.scr	9	クラトス	Kratos Aurion	personagem	CRLF x1	我を通すのと信念を貫くのとは違う。\n勇気と無謀が異なるのと同じくな		
+qev08_040.scr:10	qev08_040.scr	10	ロイド	Lloyd Irving	personagem	CRLF x2	コレットは、自分がいたせいで、\n村が襲われたんだと思ってる…。\nでも……！		
+qev08_040.scr:11	qev08_040.scr	11	クラトス	Kratos Aurion	personagem	CRLF x1	だが時として、無理を推してでも\nやり遂げねばならぬ事というのはある		
+qev08_040.scr:12	qev08_040.scr	12	クラトス	Kratos Aurion	personagem	CRLF x1	コレットは、ユグドラシルと対峙する事で\n己の中で何かしらの整理を付けたいのだろう		
+qev08_040.scr:13	qev08_040.scr	13	クラトス	Kratos Aurion	personagem	CRLF x1	本当に無理をしているならば、\nその時に私達が止めてやればいい		
+qev08_040.scr:14	qev08_040.scr	14	ロイド	Lloyd Irving	personagem		クラトス……		
+qev08_040.scr:15	qev08_040.scr	15	ロイド	Lloyd Irving	personagem		ああ……そうだな		
+qev08_041.scr:0	qev08_041.scr	0	クラトス	Kratos Aurion	personagem	CRLF x2	コレットの様な、羽を持つ「天使」という\n種族を集めている者。\nそして、奴もまた天使だ…		
+qev08_041.scr:1	qev08_041.scr	1	クラトス	Kratos Aurion	personagem	CRLF x1	彼はコレットやロイドの住む村を襲い、\n天使を捕まえようとした		
+qev08_041.scr:2	qev08_041.scr	2	クラトス	Kratos Aurion	personagem	CRLF x1	私やロイドは、村の者を守る為に\nユグドラシルを倒したはずだった		
+qev08_041.scr:3	qev08_041.scr	3	クラトス	Kratos Aurion	personagem	CRLF x1	だが、奴が生きているとすると\nまた天使を探し出す為に村を襲うだろう		
+qev08_041.scr:4	qev08_041.scr	4	クラトス	Kratos Aurion	personagem	CRLF x2	天使には羽があるものだが、\nほとんどそれが現れないまま\n自分が天使と気付かない者もいる		
+qev08_041.scr:5	qev08_041.scr	5	クラトス	Kratos Aurion	personagem		だが、あるきっかけで羽を現す事があるのだ		
+qev08_041.scr:6	qev08_041.scr	6	クラトス	Kratos Aurion	personagem	CRLF x2	そして、そのきっかけとは、\n肉体的にも精神的にも\n「苦痛を与えられる」事と言われている		
+qev08_041.scr:7	qev08_041.scr	7	クラトス	Kratos Aurion	personagem	CRLF x2	だから、ユグドラシルにとって\n村を襲うという方法が\n天使を見つけ出すのに最適だっただけだ…		
+qev08_041.scr:8	qev08_041.scr	8	(sem caixa de nome)	(sem caixa de nome)	sem_caixa		ユグドラシルとは、と尋ねる		
+qev08_041.scr:9	qev08_041.scr	9	(sem caixa de nome)	(sem caixa de nome)	sem_caixa		なぜ村ごと襲う必要があるのか、と尋ねる		
+qev08_050.scr:0	qev08_050.scr	0	クラトス	Kratos Aurion	personagem		○○、止めを刺せ！		
+qev08_050.scr:1	qev08_050.scr	1	ユグドラシル	Yggdrasill	personagem		それで…、許しを請うとでも思ってるのか…		
+qev08_050.scr:2	qev08_050.scr	2	ユグドラシル	Yggdrasill	personagem		甘いな…		
+qev08_050.scr:3	qev08_050.scr	3	ユグドラシル	Yggdrasill	personagem		私が考えを改めるとでも…？		
+qev08_050.scr:4	qev08_050.scr	4	ユグドラシル	Yggdrasill	personagem	CRLF x2	お前だって、そうだ。\nもしこの世界の人間が、お前の意向に\n沿わなかったら、どうする？		
+qev08_050.scr:5	qev08_050.scr	5	ユグドラシル	Yggdrasill	personagem	CRLF x1	慈悲という皮を被った恐怖を\n振りかざすだろう		
+qev08_050.scr:6	qev08_050.scr	6	ユグドラシル	Yggdrasill	personagem	CRLF x1	ディセンダーなど、\n野蛮な人間と何ら変わらない		
+qev08_050.scr:7	qev08_050.scr	7	ユグドラシル	Yggdrasill	personagem	CRLF x2	私は、私の理想を追い続ける…。\nお前がどんなに世界の理を\n捻じ曲げようとも…		
+qev08_050.scr:8	qev08_050.scr	8	ロイド	Lloyd Irving	personagem		…待てっ！		
+qev08_050.scr:9	qev08_050.scr	9	クラトス	Kratos Aurion	personagem		逃したか		
+qev08_050.scr:10	qev08_050.scr	10	ロイド	Lloyd Irving	personagem	CRLF x1	くそっ！\nまたあいつを追わないといけないのか		
+qev08_050.scr:11	qev08_050.scr	11	クラトス	Kratos Aurion	personagem		…そうなるな		
+qev08_050.scr:12	qev08_050.scr	12	クラトス	Kratos Aurion	personagem	CRLF x1	だが、今は奴も去った。\n我々も引き上げるぞ		
+qev08_050.scr:13	qev08_050.scr	13	(opcao do jogador)	(opcao do jogador)	escolha		きっぱりと断る意思を見せる		
+qev08_050.scr:14	qev08_050.scr	14	(opcao do jogador)	(opcao do jogador)	escolha		黙ってユグドラシルを見る		
+qev08_060.scr:0	qev08_060.scr	0	ロイド	Lloyd Irving	personagem		付き合ってくれてありがとな		
+qev08_060.scr:1	qev08_060.scr	1	ロイド	Lloyd Irving	personagem	CRLF x1	あいつ…、ユグドラシルを止める事は\n出来なかったけれど…		
+qev08_060.scr:2	qev08_060.scr	2	クラトス	Kratos Aurion	personagem	CRLF x2	また会う事にはなるだろう。\n特に…あいつはディセンダーに対し、\n感情的な何かがある様だ		
+qev08_060.scr:3	qev08_060.scr	3	クラトス	Kratos Aurion	personagem	CRLF x1	とりあえず今は、私達が何を成すべきか\n各々が考え、行動していくだけだろう		
+qev08_060.scr:4	qev08_060.scr	4	コレット	Colette Brunel	personagem		そう……だね		
+qev08_060.scr:5	qev08_060.scr	5	コレット	Colette Brunel	personagem	CRLF x1	うん……。\n私達に出来る事から頑張っていこ		
+qev08_060.scr:6	qev08_060.scr	6	ロイド	Lloyd Irving	personagem		そうだな！		
+qev08_070.scr:0	qev08_070.scr	0	クラトス	Kratos Aurion	personagem		ユグドラシル……！		
+qev08_070.scr:1	qev08_070.scr	1	ユグドラシル	Yggdrasill	personagem		久しいな…、お前達か		
+qev08_070.scr:2	qev08_070.scr	2	ユグドラシル	Yggdrasill	personagem	CRLF x2	それに、その世界樹と同じ\nマナを持つ者…。\nディセンダーか？		
+qev08_070.scr:3	qev08_070.scr	3	ユグドラシル	Yggdrasill	personagem		お前達か…		
+qev08_070.scr:4	qev08_070.scr	4	ユグドラシル	Yggdrasill	personagem	CRLF x2	奇遇なものだな。\n探していた天使と、始末すべき\nディセンダーが、一緒に現れるなど…		
+qev08_070.scr:5	qev08_070.scr	5	コレット	Colette Brunel	personagem	CRLF x2	まだ…天使を集めているのですか？\n何の為に、関係の無い人達を\n巻き添えにしてまで…		
+qev08_070.scr:6	qev08_070.scr	6	ユグドラシル	Yggdrasill	personagem	CRLF x2	…かつて、このヴェラトローパの住人は\n自らの肉体を設計し、ヒトとして地上に降りた。\nそして、地上には様々な種族のヒトがあふれた		
+qev08_070.scr:7	qev08_070.scr	7	ユグドラシル	Yggdrasill	personagem	CRLF x2	だが、地上では異なる種族同士での\n争いが始まった…。\nそれは幾度も繰り返され、長きに渡った		
+qev08_070.scr:8	qev08_070.scr	8	クラトス	Kratos Aurion	personagem	CRLF x2	戦乱の中で多くの種族が失われた。\n天使も人間からの標的になったのだ…。\n人間より、優れた能力を有するが故にな		
+qev08_070.scr:9	qev08_070.scr	9	ユグドラシル	Yggdrasill	personagem	CRLF x2	野蛮な人間があふれる世界に平安はない。\n私は、天使によって統治される世界を作る為に\n天使を集めているのだ…		
+qev08_070.scr:10	qev08_070.scr	10	コレット	Colette Brunel	personagem		私のこの羽を嫌う人はいます		
+qev08_070.scr:11	qev08_070.scr	11	コレット	Colette Brunel	personagem	CRLF x2	ですが、今は種族間の争いも減っていますし、\nこの羽を持った私を受け入れてくれる人\nだって、たくさんいます		
+qev08_070.scr:12	qev08_070.scr	12	コレット	Colette Brunel	personagem	CRLF x1	何より…、世界に希望を教えてくれる\nディセンダーもいるから、そんな事は…		
+qev08_070.scr:13	qev08_070.scr	13	ユグドラシル	Yggdrasill	personagem	CRLF x2	何がディセンダーだ。\n種族同士が血で血を洗うあの戦乱は、\n世界の危機でも何でもないというのか！		
+qev08_070.scr:14	qev08_070.scr	14	ユグドラシル	Yggdrasill	personagem	CRLF x1	お前が世界の危機に現れるというなら、\nなぜあの時に現れなかった！！		
+qev08_070.scr:15	qev08_070.scr	15	ロイド	Lloyd Irving	personagem	CRLF x2	ユグドラシル…、過去は消せるわけじゃない。\nでも、新しい関係を生み出す道だって\nあるんだぜ		
+qev08_070.scr:16	qev08_070.scr	16	コレット	Colette Brunel	personagem	CRLF x1	そう、今からでも…。\n全ての種族は手を取り合っていける		
+qev08_070.scr:17	qev08_070.scr	17	ユグドラシル	Yggdrasill	personagem	CRLF x1	私には、その道はない。\nもう、決めたのだからな！		
+qev08_070.scr:18	qev08_070.scr	18	ユグドラシル	Yggdrasill	personagem		さあ、私の同族を渡せ！！		
+qev08_080.scr:0	qev08_080.scr	0	クラトス	Kratos Aurion	personagem	CRLF x1	お前の抱えた苦しみも、\nここで終わらせる…		
+qev08_080.scr:1	qev08_080.scr	1	ユグドラシル	Yggdrasill	personagem	CRLF x1	天使である事を捨てたお前もまた\n敵だ…		
+qev08_080.scr:2	qev08_080.scr	2	ユグドラシル	Yggdrasill	personagem		さあ、そこにいる私の同属を渡せ！		

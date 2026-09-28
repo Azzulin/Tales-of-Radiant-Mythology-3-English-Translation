@@ -1,0 +1,146 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	traducao
+cev13_010.scr:0	cev13_010.scr	0	クレア	Claire Bennett	personagem	CRLF x1	そんなに気を遣わなくてもいいのに。\nお皿くらい、ちゃんと洗えるから大丈夫よ	You really don't need to fuss so much.\nI'm perfectly fine washing the dishes.		You really don't need to fuss so much.\nI'm perfectly fine washing the dishes.
+cev13_010.scr:1	cev13_010.scr	1	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	怪我が治るまでだ。\n水仕事は、傷口に良くない	Only until your injury heals.\nDoing chores with water is bad for cuts.		Only until your injury heals.\nDoing chores with water is bad for cuts.
+cev13_010.scr:2	cev13_010.scr	2	クレア	Claire Bennett	personagem	CRLF x1	もう、大げさよ。\nちょっと包丁で手を切っただけなのに	Geez, you're exaggerating.\nI only nicked my hand with the knife.		Geez, you're exaggerating.\nI only nicked my hand with the knife.
+cev13_010.scr:3	cev13_010.scr	3	リリス	Lilith Aileron	personagem	CRLF x2	すみません〜！\nちょっとこれだけ\n洗わせてもらってもいいですか？	Excuse me~~!\nCould I please just wash this\nreal quick?		Excuse me~~!\nCould I please just wash this\nreal quick?
+cev13_010.scr:4	cev13_010.scr	4	リリス	Lilith Aileron	personagem		すぐ終わりますから！	It will only take a moment!		It will only take a moment!
+cev13_010.scr:5	cev13_010.scr	5	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	ああ。\n構わない	Yeah.\nGo ahead.		Yeah.\nGo ahead.
+cev13_010.scr:6	cev13_010.scr	6	リリス	Lilith Aileron	personagem		冷たッ！？	So cold!?		So cold!?
+cev13_010.scr:7	cev13_010.scr	7	リリス	Lilith Aileron	personagem	CRLF x1	ヴェイグさん、こんな\n冷たい水使ってて平気なんですか？	Veigue, are you really fine\nusing water this freezing?		Veigue, are you really fine\nusing water this freezing?
+cev13_010.scr:8	cev13_010.scr	8	リリス	Lilith Aileron	personagem		ここ、お湯も使えるんですよ？	You know, we have hot water here too!		You know, we have hot water here too!
+cev13_010.scr:9	cev13_010.scr	9	ヴェイグ	Veigue Lungberg	personagem		いや……これくらいがちょうどいい	No... this temperature is just right.		No... this temperature is just right.
+cev13_010.scr:10	cev13_010.scr	10	クレア	Claire Bennett	personagem	CRLF x2	ヴェイグは冷たいものに強いの。\n体質みたいなものみたい。\nね、ヴェイグ	Veigue has a high tolerance for cold.\nIt seems to be in his constitution.\nRight, Veigue?		Veigue has a high tolerance for cold.\nIt seems to be in his constitution.\nRight, Veigue?
+cev13_010.scr:11	cev13_010.scr	11	ヴェイグ	Veigue Lungberg	personagem	CRLF x1	ああ。\n熱湯よりは冷水の方がいい	Yeah.\nI prefer cold water over boiling water.		Yeah.\nI prefer cold water over boiling water.
+cev13_010.scr:12	cev13_010.scr	12	リリス	Lilith Aileron	personagem	CRLF x1	そ、そうなんですか……\n変わってますね	I-Is that so...?\nThat's pretty unusual.		I-Is that so...?\nThat's pretty unusual.
+cev13_010.scr:13	cev13_010.scr	13	リリス	Lilith Aileron	personagem		は、はっくしょん！	A-Achoo!		A-Achoo!
+cev13_020.scr:0	cev13_020.scr	0	ロックス	Rocks	personagem		今日のご飯は、とんかつなんですね	So today's dinner is pork cutlets.		So today's dinner is pork cutlets.
+cev13_020.scr:1	cev13_020.scr	1	リリス	Lilith Aileron	personagem	CRLF x2	そうよ。\nアクティブタのお肉は\n疲労回復にとってもいいの♪	That's right.\nActive Pig meat is wonderful\nfor recovering from fatigue!		That's right.\nActive Pig meat is wonderful\nfor recovering from fatigue!
+cev13_020.scr:2	cev13_020.scr	2	リリス	Lilith Aileron	personagem		え〜と、まずは脂身を切り分けて……と	Now then, first we trim off the fat...		Now then, first we trim off the fat...
+cev13_020.scr:3	cev13_020.scr	3	ロックス	Rocks	personagem		えっ、どうしてですか？	Huh? Why would you do that?		Huh? Why would you do that?
+cev13_020.scr:4	cev13_020.scr	4	リリス	Lilith Aileron	personagem	CRLF x2	だって、高カロリーなんだもの。\n油も、体に脂肪が付きにくい物を使って\nヘルシーなとんかつに仕上げるのよ♪	Well, it is high in calories.\nI use oil that won't store fat as easily\nto make these pork cutlets healthy!		Well, it is high in calories.\nI use oil that won't store fat as easily\nto make these pork cutlets healthy!
+cev13_020.scr:5	cev13_020.scr	5	ロックス	Rocks	personagem		へぇ……そうですか	I see... Is that so?		I see... Is that so?
+cev13_020.scr:6	cev13_020.scr	6	リリス	Lilith Aileron	personagem		えっと、次はお肉の……	Let's see, next for the meat...		Let's see, next for the meat...
+cev13_020.scr:7	cev13_020.scr	7	ロックス	Rocks	personagem		衣を付けて、揚げるんですよね	We bread it and fry it, correct?		We bread it and fry it, correct?
+cev13_020.scr:8	cev13_020.scr	8	ロックス	Rocks	personagem	CRLF x1	油が跳ねると危ないですから\nとんかつは僕がやっておきます	Hot oil splattering is dangerous,\nso I can fry the pork cutlets.		Hot oil splattering is dangerous,\nso I can fry the pork cutlets.
+cev13_020.scr:9	cev13_020.scr	9	リリス	Lilith Aileron	personagem	CRLF x1	本当？　\n助かるなぁ〜！	Really?\nThat would be a huge help~~!		Really?\nThat would be a huge help~~!
+cev13_020.scr:10	cev13_020.scr	10	リリス	Lilith Aileron	personagem	CRLF x1	じゃあ、私はキャベツ切ってるから\n後はよろしくね∀	Then I'll go shred the cabbage,\nso I'll leave the rest to you! :)		Then I'll go shred the cabbage,\nso I'll leave the rest to you! :)
+cev13_020.scr:11	cev13_020.scr	11	ロックス	Rocks	personagem		任せて下さい	Leave it to me.		Leave it to me.
+cev13_020.scr:12	cev13_020.scr	12	ロックス	Rocks	personagem	CRLF x2	脂身を切り落とすなんてとんでもない！\n女性は丸く、ぽっちゃりされてた方が\nかわいいに決まってます！！	Trimming off the fat is unthinkable!\nWomen are much cuter when they're\npleasantly plump and curvy!!		Trimming off the fat is unthinkable!\nWomen are much cuter when they're\npleasantly plump and curvy!!
+cev13_020.scr:13	cev13_020.scr	13	ロックス	Rocks	personagem	CRLF x2	このまま衣を、分厚く付けて……\nそして、普通の油をたっぷり吸わせて\n揚げる……！！	I'll coat it in thick batter as is...\nand let it soak in plenty of oil\nas it fries...!!		I'll coat it in thick batter as is...\nand let it soak in plenty of oil\nas it fries...!!
+cev13_020.scr:14	cev13_020.scr	14	ロックス	Rocks	personagem		フフフ……これで良し	Hehehe... That does it.		Hehehe... That does it.
+cev13_020.scr:15	cev13_020.scr	15	リリス	Lilith Aileron	personagem		ロックス、そっちの具合はどんな感じ？	Rocks, how are things going on your end?		Rocks, how are things going on your end?
+cev13_020.scr:16	cev13_020.scr	16	ロックス	Rocks	personagem	CRLF x1	バッチリですよ！\n綺麗な色に揚がっています	They're perfect!\nFried to a beautiful golden brown.		They're perfect!\nFried to a beautiful golden brown.
+cev13_020.scr:17	cev13_020.scr	17	リリス	Lilith Aileron	personagem	CRLF x1	良かった。\nさすがロックスね∀	Great.\nJust as expected of you, Rocks :)		Great.\nJust as expected of you, Rocks :)
+cev13_020.scr:18	cev13_020.scr	18	ロックス	Rocks	personagem		当然です……フフフフ……	Naturally... Hehehehe...		Naturally... Hehehehe...
+cev13_030.scr:0	cev13_030.scr	0	ヴァン	Van Grants	personagem		いつも「おたま」を持ち歩いているのだな	You always carry that ladle around.		You always carry that ladle around.
+cev13_030.scr:1	cev13_030.scr	1	リリス	Lilith Aileron	personagem	CRLF x2	ええ。\nいつ、どこで眠っているか\nわかりませんから	Yes.\nYou never know when or where\nhe might fall asleep, after all.		Yes.\nYou never know when or where\nhe might fall asleep, after all.
+cev13_030.scr:2	cev13_030.scr	2	ヴァン	Van Grants	personagem		眠る？	Fall asleep?		Fall asleep?
+cev13_030.scr:3	cev13_030.scr	3	リリス	Lilith Aileron	personagem	CRLF x1	はい。\n実は、このおたまとフライパンで……	Yes.\nActually, with this ladle and pan...		Yes.\nActually, with this ladle and pan...
+cev13_030.scr:4	cev13_030.scr	4	フィリア	Philia Felice	personagem		お話中、すみません	Excuse me, pardon the interruption.		Excuse me, pardon the interruption.
+cev13_030.scr:5	cev13_030.scr	5	フィリア	Philia Felice	personagem	CRLF x1	リリスさん、来ていただけませんか？\nその、スタンさんが、また……	Lilith, could you come for a moment?\nWell, Stahn has gone and... again...		Lilith, could you come for a moment?\nWell, Stahn has gone and... again...
+cev13_030.scr:6	cev13_030.scr	6	リリス	Lilith Aileron	personagem	CRLF x1	わかりました。\nすぐに行きます！	Understood.\nI'll be right there!		Understood.\nI'll be right there!
+cev13_030.scr:7	cev13_030.scr	7	ヴァン	Van Grants	personagem		スタンが、一体どうしたのだ？	What in the world happened to Stahn?		What in the world happened to Stahn?
+cev13_030.scr:8	cev13_030.scr	8	リリス	Lilith Aileron	personagem		ええ、ちょっと	Well, you see...		Well, you see...
+cev13_030.scr:9	cev13_030.scr	9	リリス	Lilith Aileron	personagem	CRLF x1	そうだ、良かったら\nヴァンさんもご一緒されますか？	Oh, if you like,\nwould you care to join us, Van?		Oh, if you like,\nwould you care to join us, Van?
+cev13_030.scr:10	cev13_030.scr	10	リリス	Lilith Aileron	personagem		説明するより、見た方が早いかも……	It might be faster to see for yourself...		It might be faster to see for yourself...
+cev13_030.scr:11	cev13_030.scr	11	ヴァン	Van Grants	personagem		ふむ……では	Hmm... In that case...		Hmm... In that case...
+cev13_030.scr:12	cev13_030.scr	12	ヴァン	Van Grants	personagem		そうさせてもらうとしよう	I shall do just that.		I shall do just that.
+cev13_040.scr:0	cev13_040.scr	0	スタン	Stahn Aileron	personagem	CRLF x1	すかー……。\nすこぉー……	Zzz......\nZzzz......		Zzz......\nZzzz......
+cev13_040.scr:1	cev13_040.scr	1	ヴァン	Van Grants	personagem		……驚いたな	...Remarkable.		...Remarkable.
+cev13_040.scr:2	cev13_040.scr	2	ヴァン	Van Grants	personagem		スタンは立ったまま眠れるのか	Stahn can sleep while standing up?		Stahn can sleep while standing up?
+cev13_040.scr:3	cev13_040.scr	3	リリス	Lilith Aileron	personagem	CRLF x1	うちの兄は、いつでもどこでも\nどんな体勢でも眠れるんです	My brother can fall asleep anytime,\nanywhere, and in any posture.		My brother can fall asleep anytime,\nanywhere, and in any posture.
+cev13_040.scr:4	cev13_040.scr	4	ヴァン	Van Grants	personagem	CRLF x1	ほう……。\n野戦向きの体質だな	Oho...\nA constitution well-suited for battle.		Oho...\nA constitution well-suited for battle.
+cev13_040.scr:5	cev13_040.scr	5	ヴァン	Van Grants	personagem		頼もしいではないか	How dependable.		How dependable.
+cev13_040.scr:6	cev13_040.scr	6	リリス	Lilith Aileron	personagem	CRLF x1	自分で普通に起きられるなら、\nそうかもしれないですけどね……	That might be true if he could wake up\nnormally on his own, though...		That might be true if he could wake up\nnormally on his own, though...
+cev13_040.scr:7	cev13_040.scr	7	リリス	Lilith Aileron	personagem		……いきます！	...Here goes!		...Here goes!
+cev13_040.scr:8	cev13_040.scr	8	リリス	Lilith Aileron	personagem		「秘技！　死者の目覚め！！」	"""Secret Arte! Wake the Dead!!"""		"""Secret Arte! Wake the Dead!!"""
+cev13_040.scr:9	cev13_040.scr	9	スタン	Stahn Aileron	personagem		ぐおおーーーっ！	Gwaaaargh!!		Gwaaaargh!!
+cev13_040.scr:10	cev13_040.scr	10	ヴァン	Van Grants	personagem		ぬおお……！！？	Whoaa...!!?		Whoaa...!!?
+cev13_040.scr:11	cev13_040.scr	11	リリス	Lilith Aileron	personagem		もう、お兄ちゃん	Honestly, big brother.		Honestly, big brother.
+cev13_040.scr:12	cev13_040.scr	12	リリス	Lilith Aileron	personagem	CRLF x1	眠るなら、ちゃんとベッドで寝て。\n疲れがきちんと取れないわよ	If you want to sleep, do it in a bed.\nYou won't recover from fatigue otherwise.		If you want to sleep, do it in a bed.\nYou won't recover from fatigue otherwise.
+cev13_040.scr:13	cev13_040.scr	13	スタン	Stahn Aileron	personagem	CRLF x1	そっか……。\n俺、また寝ちゃってたのか	Oh, right...\nI fell asleep again, didn't I?		Oh, right...\nI fell asleep again, didn't I?
+cev13_040.scr:14	cev13_040.scr	14	スタン	Stahn Aileron	personagem	CRLF x1	起こしてくれて、ありがとな。\nリリス	Thanks for waking me up,\nLilith.		Thanks for waking me up,\nLilith.
+cev13_040.scr:15	cev13_040.scr	15	リリス	Lilith Aileron	personagem	CRLF x1	ほんと、お兄ちゃんには\nまだまだ私がついてなくちゃダメね♪	Honestly, you really still need me\naround to look after you, big brother!		Honestly, you really still need me\naround to look after you, big brother!
+cev13_040.scr:16	cev13_040.scr	16	ヴァン	Van Grants	personagem	CRLF x1	（くっ……何という音波攻撃……。\n　脳髄までしびれたぞ……）	(Ngh... What a sonic attack...\n It shook me to the core...)		(Ngh... What a sonic attack...\n It shook me to the core...)
+cev13_040.scr:17	cev13_040.scr	17	ヴァン	Van Grants	personagem		（この二人……只者では、ない……）	(These two... are no ordinary people...)		(These two... are no ordinary people...)
+cev13_050.scr:0	cev13_050.scr	0	ヴァン	Van Grants	personagem	CRLF x1	その、「おたま」という武器には\nつくづく驚かされる……	"That ""ladle"" of a weapon of yours\nnever ceases to amaze me..."		"That ""ladle"" of a weapon of yours\nnever ceases to amaze me..."
+cev13_050.scr:1	cev13_050.scr	1	リリス	Lilith Aileron	personagem		そんな大した事じゃないんですよ	It's really nothing that impressive.		It's really nothing that impressive.
+cev13_050.scr:2	cev13_050.scr	2	リリス	Lilith Aileron	personagem	CRLF x2	「死者の目覚め」だって\n寝ぼすけな兄を起こす為に\n編み出しただけなんです	"""Wake the Dead"" was only\ncreated to wake up my\nsleepyhead brother, after all."		"""Wake the Dead"" was only\ncreated to wake up my\nsleepyhead brother, after all."
+cev13_050.scr:3	cev13_050.scr	3	ヴァン	Van Grants	personagem	CRLF x2	ふむ……。\nそれにしては、\nなかなかの破壊力だったが……	Hmm...\nEven so, it possessed quite\na destructive punch...		Hmm...\nEven so, it possessed quite\na destructive punch...
+cev13_050.scr:4	cev13_050.scr	4	リリス	Lilith Aileron	personagem	CRLF x2	そうですね……。\n確かに、敵を倒す技として使っても\nそれなりに効果はあるみたいです	That's true...\nIt certainly seems rather effective\neven when used to defeat enemies.		That's true...\nIt certainly seems rather effective\neven when used to defeat enemies.
+cev13_050.scr:5	cev13_050.scr	5	ヴァン	Van Grants	personagem	CRLF x1	なるほど……。\nやはり、既に実戦で使用されていたか	I see...\nSo it has indeed seen actual combat.		I see...\nSo it has indeed seen actual combat.
+cev13_050.scr:6	cev13_050.scr	6	リリス	Lilith Aileron	personagem	CRLF x1	でも、これはあくまで\n兄を起こす時専用です！	Still, this is strictly meant\nfor waking up my brother!		Still, this is strictly meant\nfor waking up my brother!
+cev13_050.scr:7	cev13_050.scr	7	リリス	Lilith Aileron	personagem	CRLF x1	うちの兄をちゃんと起こせるのは、\n私くらいしかいませんから	Because I'm pretty much the only one\nwho can properly wake my brother up.		Because I'm pretty much the only one\nwho can properly wake my brother up.
+cev13_050.scr:8	cev13_050.scr	8	ヴァン	Van Grants	personagem	CRLF x1	ふむ……。\nスタンは、本当に果報者だな……	Hmm...\nStahn is truly a lucky man...		Hmm...\nStahn is truly a lucky man...
+cev13_060.scr:0	cev13_060.scr	0	リリス	Lilith Aileron	personagem	CRLF x2	じゃあ、ティアさんは\nお兄様の手助けをする為に\n軍人になったんですね	So, Tear, you became a soldier\nin order to assist\nyour older brother, then.		So, Tear, you became a soldier\nin order to assist\nyour older brother, then.
+cev13_060.scr:1	cev13_060.scr	1	ティア	Tear Grants	personagem		ええ、そうなるわ	Yes, that is correct.		Yes, that is correct.
+cev13_060.scr:2	cev13_060.scr	2	ティア	Tear Grants	personagem	CRLF x1	私達は、幼い頃に両親を亡くしていたから\n兄は苦労して、私を育ててくれたの	We lost our parents when we were young,\nso my brother worked hard to raise me.		We lost our parents when we were young,\nso my brother worked hard to raise me.
+cev13_060.scr:3	cev13_060.scr	3	ティア	Tear Grants	personagem	CRLF x1	その恩に報いる為にも\n何より、兄の役に立ちたかった	I wanted to repay that kindness, and above\nall, I wanted to be of use to him.		I wanted to repay that kindness, and above\nall, I wanted to be of use to him.
+cev13_060.scr:4	cev13_060.scr	4	リリス	Lilith Aileron	personagem		その気持ち、わかります！！	I completely understand that feeling!!		I completely understand that feeling!!
+cev13_060.scr:5	cev13_060.scr	5	リリス	Lilith Aileron	personagem	CRLF x2	私も……兄のやりたい事を応援したくて\nその為に、自分も強くなろうって\n思ったんです	I also... wanted to support my brother,\nso I thought that I needed\nto become strong too.		I also... wanted to support my brother,\nso I thought that I needed\nto become strong too.
+cev13_060.scr:6	cev13_060.scr	6	ティア	Tear Grants	personagem		リリスも？	You too, Lilith?		You too, Lilith?
+cev13_060.scr:7	cev13_060.scr	7	リリス	Lilith Aileron	personagem		はい！	Right!		Right!
+cev13_060.scr:8	cev13_060.scr	8	リリス	Lilith Aileron	personagem	CRLF x1	兄の足を引っ張る様な事は\nしたくなくて……	I didn't want to do anything\nthat would hold my brother back...		I didn't want to do anything\nthat would hold my brother back...
+cev13_060.scr:9	cev13_060.scr	9	ティア	Tear Grants	personagem		それで、あなたも戦い方を覚えたのね	And that's why you learned how to fight.		And that's why you learned how to fight.
+cev13_060.scr:10	cev13_060.scr	10	ティア	Tear Grants	personagem	CRLF x1	……どこか似ているのかしら。\n私達	...Perhaps we're somewhat alike,\nthe two of us.		...Perhaps we're somewhat alike,\nthe two of us.
+cev13_070.scr:0	cev13_070.scr	0	リリス	Lilith Aileron	personagem	CRLF x1	初めまして、リリス・エルロンです！\n今日からこの食堂で働く事になりました	Nice to meet you, I'm Lilith Aileron!\nI'll be working here in the cafeteria.		Nice to meet you, I'm Lilith Aileron!\nI'll be working here in the cafeteria.
+cev13_070.scr:1	cev13_070.scr	1	リリス	Lilith Aileron	personagem		よろしくお願いします！	I look forward to working with you!		I look forward to working with you!
+cev13_070.scr:2	cev13_070.scr	2	クレア	Claire Bennett	personagem		私はクレア・ベネットよ	I'm Claire Bennett.		I'm Claire Bennett.
+cev13_070.scr:3	cev13_070.scr	3	クレア	Claire Bennett	personagem	CRLF x2	嬉しいわ。\nもう少し、ここを切り盛りする\n人手が欲しいと思っていたところなの	I'm glad.\nI was just thinking that I'd like another\nhand around here to help manage things.		I'm glad.\nI was just thinking that I'd like another\nhand around here to help manage things.
+cev13_070.scr:4	cev13_070.scr	4	リリス	Lilith Aileron	personagem	CRLF x1	今までは、クレアさんが一人で\n食事を作られていたんですか？	Were you cooking meals all on your own\nuntil now, Claire?		Were you cooking meals all on your own\nuntil now, Claire?
+cev13_070.scr:5	cev13_070.scr	5	クレア	Claire Bennett	personagem	CRLF x2	本当はそうしたいのだけど\nさすがに、用意しなくちゃいけない\n人数が人数でしょう？	I'd like to do so in truth, but...\nconsidering the sheer number of people\nI have to prepare meals for, you know?		I'd like to do so in truth, but...\nconsidering the sheer number of people\nI have to prepare meals for, you know?
+cev13_070.scr:6	cev13_070.scr	6	クレア	Claire Bennett	personagem	CRLF x1	当番制という事にして\nみんながお手伝いをしてくれているの	So we set up a shift-based system,\nand everyone helps out.		So we set up a shift-based system,\nand everyone helps out.
+cev13_070.scr:7	cev13_070.scr	7	リリス	Lilith Aileron	personagem	CRLF x2	なるほど。\nここは、そういうルールで\n回しているんですね	I see.\nSo that's the rule that keeps\nthis place running.		I see.\nSo that's the rule that keeps\nthis place running.
+cev13_070.scr:8	cev13_070.scr	8	クレア	Claire Bennett	personagem	CRLF x2	みんないい人ばかりよ。\nリリスさんも、きっとすぐに\nここに馴染めると思うわ	Everyone is very kind.\nI'm sure you'll fit right in\nhere in no time, Lilith.		Everyone is very kind.\nI'm sure you'll fit right in\nhere in no time, Lilith.
+cev13_070.scr:9	cev13_070.scr	9	リリス	Lilith Aileron	personagem	CRLF x1	はい。\nそう出来る様に頑張ります♪	Yes.\nI'll do my best to make that happen!		Yes.\nI'll do my best to make that happen!
+cev13_070.scr:10	cev13_070.scr	10	リリス	Lilith Aileron	personagem	CRLF x1	とりあえず、料理の事なら\n任せて下さい！	For now, leave everything regarding\nthe cooking to me!		For now, leave everything regarding\nthe cooking to me!
+cev13_080.scr:0	cev13_080.scr	0	リリス	Lilith Aileron	personagem	CRLF x1	ここで、この香辛料を加えるんです。\nそうすると……	We add these spices here.\nAnd when you do...		We add these spices here.\nAnd when you do...
+cev13_080.scr:1	cev13_080.scr	1	ティア	Tear Grants	personagem		……美味しい！	...Delicious!		...Delicious!
+cev13_080.scr:2	cev13_080.scr	2	クレア	Claire Bennett	personagem	CRLF x1	素材の風味が引き立って……、\nまろやかな後味が控えめに残るわ	It brings out the flavor of ingredients,\nleaving a mild, subtle aftertaste.		It brings out the flavor of ingredients,\nleaving a mild, subtle aftertaste.
+cev13_080.scr:3	cev13_080.scr	3	クレア	Claire Bennett	personagem	CRLF x1	つい、もう一口\n食べたくなってしまいそう	I find myself wanting to take\nanother bite right away.		I find myself wanting to take\nanother bite right away.
+cev13_080.scr:4	cev13_080.scr	4	ティア	Tear Grants	personagem	CRLF x2	ほんの少し、調味料を\n加えただけなのに……。\nここまで料理が変わるなんて	All you added was a pinch of seasoning...\nyet it transforms the dish\nto such an extent.		All you added was a pinch of seasoning...\nyet it transforms the dish\nto such an extent.
+cev13_080.scr:5	cev13_080.scr	5	リリス	Lilith Aileron	personagem	CRLF x1	皆さん、毎日ギルドのお仕事で\nお疲れだと思いますから……	Everyone is exhausted every day from\ntheir guild work, so...		Everyone is exhausted every day from\ntheir guild work, so...
+cev13_080.scr:6	cev13_080.scr	6	リリス	Lilith Aileron	personagem	CRLF x1	少しでも元気を出して欲しくって\nレシピを工夫してみたんです	I wanted to cheer everyone up a bit,\nso I worked on tweaking the recipe.		I wanted to cheer everyone up a bit,\nso I worked on tweaking the recipe.
+cev13_080.scr:7	cev13_080.scr	7	リリス	Lilith Aileron	personagem	CRLF x2	……でも、お二人に\nそんな風に褒められると\n照れちゃいますね……	...Still, being praised like that\nby the two of you makes me\na bit embarrassed...		...Still, being praised like that\nby the two of you makes me\na bit embarrassed...
+cev13_080.scr:8	cev13_080.scr	8	ティア	Tear Grants	personagem	CRLF x2	照れる事はないわ。\nその行動力と発想は、\n評価されて然るべきよ	There is no need to feel shy.\nSuch initiative and creativity\ndeserve to be appreciated.		There is no need to feel shy.\nSuch initiative and creativity\ndeserve to be appreciated.
+cev13_080.scr:9	cev13_080.scr	9	ティア	Tear Grants	personagem	CRLF x1	……私も、新しいレシピを\n少し考えてみようかしら	...Perhaps I should think up\nsome new recipes myself.		...Perhaps I should think up\nsome new recipes myself.
+cev13_080.scr:10	cev13_080.scr	10	クレア	Claire Bennett	personagem	CRLF x2	私も、ロックスさんにお願いして\n滋養の付く素材やいい香辛料を\nもう少し増やしてみるわ	I'll ask Rocks too, to see if he can\nstock more nourishing ingredients\nand fine spices.		I'll ask Rocks too, to see if he can\nstock more nourishing ingredients\nand fine spices.
+cev13_080.scr:11	cev13_080.scr	11	クレア	Claire Bennett	personagem	CRLF x1	この食堂が、\nみんなの元気の拠り所になる様に	So that this cafeteria can become\na source of vitality for everyone.		So that this cafeteria can become\na source of vitality for everyone.
+cev13_080.scr:12	cev13_080.scr	12	リリス	Lilith Aileron	personagem	CRLF x1	はい。\n頑張りましょう！	Yes.\nLet's do our best!		Yes.\nLet's do our best!
+cev13_080.scr:13	cev13_080.scr	13	ティア	Tear Grants	personagem	CRLF x2	そうね。\n出来る事から、\nお互いに協力していきましょう	Indeed.\nLet's cooperate with one another,\nstarting with what we can do.		Indeed.\nLet's cooperate with one another,\nstarting with what we can do.
+cev13_090.scr:0	cev13_090.scr	0	リッド	Reid Hershel	personagem		リリスは、スタンの妹なんだってな？	Lilith, you're Stahn's sister, right?		Lilith, you're Stahn's sister, right?
+cev13_090.scr:1	cev13_090.scr	1	リリス	Lilith Aileron	personagem	CRLF x1	はい。\nうちの兄が、いつもお世話になってます	Yes.\nThank you for always looking after him.		Yes.\nThank you for always looking after him.
+cev13_090.scr:2	cev13_090.scr	2	リッド	Reid Hershel	personagem	CRLF x2	う〜ん。\nそう言われてみれば、\n似てる気がするけど……	Hmm.\nNow that you mention it,\nI suppose you do look alike, but...		Hmm.\nNow that you mention it,\nI suppose you do look alike, but...
+cev13_090.scr:3	cev13_090.scr	3	リッド	Reid Hershel	personagem	CRLF x1	リリスの方が、やっぱり\nしっかりしてるよなぁ	Lilith is definitely\na whole lot more reliable.		Lilith is definitely\na whole lot more reliable.
+cev13_090.scr:4	cev13_090.scr	4	リリス	Lilith Aileron	personagem	CRLF x1	それは、兄がああいう性格ですから……。\n妹の私も、色々と苦労があったんです	Well, with my brother being like that...\nI had my share of struggles as his sister.		Well, with my brother being like that...\nI had my share of struggles as his sister.
+cev13_090.scr:5	cev13_090.scr	5	リッド	Reid Hershel	personagem	CRLF x1	だろうなぁ。\n何だか、わかる様な気がするぜ	I bet.\nI feel like I can totally understand.		I bet.\nI feel like I can totally understand.
+cev13_090.scr:6	cev13_090.scr	6	リリス	Lilith Aileron	personagem	CRLF x1	もし兄が、何かご迷惑をかけたら\n私に言って下さいね	If my brother ever causes any trouble,\nplease let me know.		If my brother ever causes any trouble,\nplease let me know.
+cev13_090.scr:7	cev13_090.scr	7	リリス	Lilith Aileron	personagem		……叱りますから	...I'll give him a scolding.		...I'll give him a scolding.
+cev13_090.scr:8	cev13_090.scr	8	リッド	Reid Hershel	personagem		あ、ああ……	A-All right...		A-All right...
+cev13_090.scr:9	cev13_090.scr	9	リリス	Lilith Aileron	personagem	CRLF x1	それじゃ、お夕飯の仕込みがあるので、\n私はこれで失礼します	Well then, I have to prep dinner,\nso please excuse me.		Well then, I have to prep dinner,\nso please excuse me.
+cev13_090.scr:10	cev13_090.scr	10	リッド	Reid Hershel	personagem		リリス、かぁ……	Lilith, huh...		Lilith, huh...
+cev13_090.scr:11	cev13_090.scr	11	リッド	Reid Hershel	personagem		只者じゃねえな……ありゃ	She's definitely something else...		She's definitely something else...
+cev13_200.scr:0	cev13_200.scr	0	リリス	Lilith Aileron	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev13_200.scr:1	cev13_200.scr	1	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev13_200.scr:2	cev13_200.scr	2	リリス	Lilith Aileron	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev13_200.scr:3	cev13_200.scr	3	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev13_200.scr:4	cev13_200.scr	4	リリス	Lilith Aileron	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev13_200.scr:5	cev13_200.scr	5	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev13_200.scr:6	cev13_200.scr	6	リリス	Lilith Aileron	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev13_200.scr:7	cev13_200.scr	7	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev13_200.scr:8	cev13_200.scr	8	リリス	Lilith Aileron	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev13_200.scr:9	cev13_200.scr	9	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev13_200.scr:10	cev13_200.scr	10	リリス	Lilith Aileron	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev13_200.scr:11	cev13_200.scr	11	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev13_200.scr:12	cev13_200.scr	12	リリス	Lilith Aileron	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev13_200.scr:13	cev13_200.scr	13	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev13_200.scr:14	cev13_200.scr	14	リリス	Lilith Aileron	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev13_200.scr:15	cev13_200.scr	15	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev13_200.scr:16	cev13_200.scr	16	リリス	Lilith Aileron	personagem	CRLF x1	通常。\n	Normal.\n		Normal.\n
+cev13_200.scr:17	cev13_200.scr	17	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev13_200.scr:18	cev13_200.scr	18	リリス	Lilith Aileron	personagem	CRLF x1	笑い。\n	Laughter.\n		Laughter.\n
+cev13_200.scr:19	cev13_200.scr	19	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev13_200.scr:20	cev13_200.scr	20	リリス	Lilith Aileron	personagem	CRLF x1	怒り。\n	Anger.\n		Anger.\n
+cev13_200.scr:21	cev13_200.scr	21	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.
+cev13_200.scr:22	cev13_200.scr	22	リリス	Lilith Aileron	personagem	CRLF x1	悲しみ。\n	Sadness.\n		Sadness.\n
+cev13_200.scr:23	cev13_200.scr	23	リリス	Lilith Aileron	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.		Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.

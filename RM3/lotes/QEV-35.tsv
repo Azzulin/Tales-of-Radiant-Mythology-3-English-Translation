@@ -1,0 +1,114 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+qev35_010.scr:0	qev35_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	ふぅ。\n困ったね……		
+qev35_010.scr:1	qev35_010.scr	1	コハク	Kohaku Hearts	personagem		そうだね……		
+qev35_010.scr:2	qev35_010.scr	2	(ator 200)	(ator 200)	desconhecido		…………		
+qev35_010.scr:3	qev35_010.scr	3	シング	Shing Meteoryte	personagem	CRLF x1	あれ、二人ともどうしたの？\n何かあった？		
+qev35_010.scr:4	qev35_010.scr	4	コハク	Kohaku Hearts	personagem		あ、シング		
+qev35_010.scr:5	qev35_010.scr	5	コハク	Kohaku Hearts	personagem	CRLF x1	実はさっき、差出人の\n名前がない依頼が届いたの		
+qev35_010.scr:6	qev35_010.scr	6	シング	Shing Meteoryte	personagem		名前がない依頼？		
+qev35_010.scr:7	qev35_010.scr	7	シング	Shing Meteoryte	personagem	CRLF x1	よっぽど急いでて、\n書き忘れちゃったのかな		
+qev35_010.scr:8	qev35_010.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	うん、そうかもしれないね。\n何せ…		
+qev35_010.scr:9	qev35_010.scr	9	アンジュ	Ange Serena	personagem	CRLF x1	誘拐事件の被害者と犯人を\n捕まえて欲しいって内容の様だから		
+qev35_010.scr:10	qev35_010.scr	10	シング	Shing Meteoryte	personagem		誘拐！？		
+qev35_010.scr:11	qev35_010.scr	11	コハク	Kohaku Hearts	personagem	CRLF x2	まだ、そうと決まったわけじゃないと思う。\n大事な妹さんを探して欲しいって、\nそういう依頼みたい		
+qev35_010.scr:12	qev35_010.scr	12	コハク	Kohaku Hearts	personagem		ただ……この字……		
+qev35_010.scr:13	qev35_010.scr	13	(ator 200)	(ator 200)	desconhecido		……？		
+qev35_010.scr:14	qev35_010.scr	14	シング	Shing Meteoryte	personagem		コハク？		
+qev35_010.scr:15	qev35_010.scr	15	コハク	Kohaku Hearts	personagem	CRLF x1	う、ううん。\n何でもないの		
+qev35_010.scr:16	qev35_010.scr	16	アンジュ	Ange Serena	personagem	CRLF x1	とにかく、内容が内容だし\n一応、依頼は登録しておくけれど		
+qev35_010.scr:17	qev35_010.scr	17	アンジュ	Ange Serena	personagem	CRLF x2	目的地は明記されていても、\n肝心の妹さんや\n依頼人の名前が無いんじゃ……		
+qev35_010.scr:18	qev35_010.scr	18	シング	Shing Meteoryte	personagem	CRLF x1	アンジュ。\nその依頼、オレが行くよ		
+qev35_010.scr:19	qev35_010.scr	19	シング	Shing Meteoryte	personagem	CRLF x2	いつもジィちゃんに\n「人が困ってたらなるべく助けろ」\nって言われてるからね		
+qev35_010.scr:20	qev35_010.scr	20	アンジュ	Ange Serena	personagem		そうね……		
+qev35_010.scr:21	qev35_010.scr	21	(ator 200)	(ator 200)	desconhecido		…………		
+qev35_010.scr:22	qev35_010.scr	22	アンジュ	Ange Serena	personagem	CRLF x1	○○、良かったら\n力を貸してもらえない？		
+qev35_010.scr:23	qev35_010.scr	23	アンジュ	Ange Serena	personagem	CRLF x1	カダイフ砂漠なら、あなたも行った事が\nある場所だと思うし		
+qev35_010.scr:24	qev35_010.scr	24	アンジュ	Ange Serena	personagem	CRLF x1	こういう場合、土地勘のある人間は\n一人でも多い方がいいと思うの		
+qev35_010.scr:25	qev35_010.scr	25	シング	Shing Meteoryte	personagem	CRLF x2	うん。\nオレからもお願いするよ、\n○○		
+qev35_010.scr:26	qev35_010.scr	26	コハク	Kohaku Hearts	personagem		…………		
+qev35_010.scr:27	qev35_010.scr	27	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x2	クエスト「謎の捜索願」が\nエントリーされました。\nクエストカウンタから受ける事が出来ます		
+qev35_020.scr:0	qev35_020.scr	0	シング	Shing Meteoryte	personagem		○○、手伝ってくれるんだね		
+qev35_020.scr:1	qev35_020.scr	1	シング	Shing Meteoryte	personagem		そう来なくっちゃ！		
+qev35_020.scr:2	qev35_020.scr	2	コハク	Kohaku Hearts	personagem		ねえ、シング……		
+qev35_020.scr:3	qev35_020.scr	3	コハク	Kohaku Hearts	personagem	CRLF x1	この依頼人の事……、\nシングは、どう思う？		
+qev35_020.scr:4	qev35_020.scr	4	シング	Shing Meteoryte	personagem	CRLF x2	えっ、どうって？\nとっても妹思いのいい人なんだなぁって\n思うけど……		
+qev35_020.scr:5	qev35_020.scr	5	シング	Shing Meteoryte	personagem		それが、どうかした？		
+qev35_020.scr:6	qev35_020.scr	6	コハク	Kohaku Hearts	personagem	CRLF x1	ええと……。\nううん、やっぱり何でもない		
+qev35_020.scr:7	qev35_020.scr	7	(ator 200)	(ator 200)	desconhecido		…………		
+qev35_020.scr:8	qev35_020.scr	8	コハク	Kohaku Hearts	personagem	CRLF x1	ごめんね。\n変な事聞いちゃって		
+qev35_020.scr:9	qev35_020.scr	9	コハク	Kohaku Hearts	personagem	CRLF x1	目的地は、カダイフ砂漠……だったよね。\n気を付けて行こう		
+qev35_020.scr:10	qev35_020.scr	10	シング	Shing Meteoryte	personagem		うん		
+qev35_020.scr:11	qev35_020.scr	11	シング	Shing Meteoryte	personagem		妹さんを、必ず助けだそう！		
+qev35_030.scr:0	qev35_030.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	この砂漠のどこかに\n誘拐された妹さんが……		
+qev35_030.scr:1	qev35_030.scr	1	シング	Shing Meteoryte	personagem		早く見つけてあげないと！		
+qev35_030.scr:2	qev35_030.scr	2	コハク	Kohaku Hearts	personagem		うん		
+qev35_030.scr:3	qev35_030.scr	3	コハク	Kohaku Hearts	personagem		そうだね……		
+qev35_030.scr:4	qev35_030.scr	4	(ator 200)	(ator 200)	desconhecido		…………		
+qev35_030.scr:5	qev35_030.scr	5	コハク	Kohaku Hearts	personagem		えっ？		
+qev35_030.scr:6	qev35_030.scr	6	コハク	Kohaku Hearts	personagem	CRLF x1	大丈夫。\nわたしは元気だよ		
+qev35_030.scr:7	qev35_030.scr	7	コハク	Kohaku Hearts	personagem		……とにかく、先に進んでみよう？		
+qev35_030.scr:8	qev35_030.scr	8	シング	Shing Meteoryte	personagem		よーし、ガンドコ行こう！		
+qev35_040.scr:0	qev35_040.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	それにしても、誘拐犯って\nどんな奴なんだろう？		
+qev35_040.scr:1	qev35_040.scr	1	コハク	Kohaku Hearts	personagem		そうだね……		
+qev35_040.scr:2	qev35_040.scr	2	コハク	Kohaku Hearts	personagem	CRLF x2	いつもぶっきらぼうでツンツンしてるけど\nほんとは照れ屋で、過保護番長で\nカナヅチ……とか？		
+qev35_040.scr:3	qev35_040.scr	3	シング	Shing Meteoryte	personagem		カナヅチ……？		
+qev35_040.scr:4	qev35_040.scr	4	シング	Shing Meteoryte	personagem		それってまさか……		
+qev35_040.scr:5	qev35_040.scr	5	コハク	Kohaku Hearts	personagem	CRLF x1	シング、ごめんね。\n騙してたわけじゃないんだけど		
+qev35_040.scr:6	qev35_040.scr	6	コハク	Kohaku Hearts	personagem		あの神経質な文字、もしかしたらって……		
+qev35_040.scr:7	qev35_040.scr	7	シング	Shing Meteoryte	personagem	CRLF x1	大工さんだよね！\nそうか、誘拐犯は大工……！！		
+qev35_040.scr:8	qev35_040.scr	8	シング	Shing Meteoryte	personagem	CRLF x1	じゃあ、妹さんは\n大工の跡取り問題に巻き込まれて……！？		
+qev35_040.scr:9	qev35_040.scr	9	コハク	Kohaku Hearts	personagem		シング……		
+qev35_040.scr:10	qev35_040.scr	10	コハク	Kohaku Hearts	personagem		そのカナヅチじゃなくて		
+qev35_040.scr:11	qev35_040.scr	11	シング	Shing Meteoryte	personagem		え？		
+qev35_050.scr:0	qev35_050.scr	0	シング	Shing Meteoryte	personagem	CRLF x1	はぁはぁ……。\nすごい陽射しだなぁ……		
+qev35_050.scr:1	qev35_050.scr	1	シング	Shing Meteoryte	personagem		コハク、大丈夫？		
+qev35_050.scr:2	qev35_050.scr	2	コハク	Kohaku Hearts	personagem		うん、シング……きゃっ		
+qev35_050.scr:3	qev35_050.scr	3	シング	Shing Meteoryte	personagem		コハク！		
+qev35_050.scr:4	qev35_050.scr	4	コハク	Kohaku Hearts	personagem		ありがとう、シング……		
+qev35_050.scr:5	qev35_050.scr	5	ヒスイ	Hisui Hearts	personagem		くおぉら、コハクに近寄るんじゃねえ！！		
+qev35_050.scr:6	qev35_050.scr	6	ヒスイ	Hisui Hearts	personagem		やっと見つけたぜ！		
+qev35_050.scr:7	qev35_050.scr	7	ヒスイ	Hisui Hearts	personagem	CRLF x1	コハク、もう大丈夫だ。\n兄ちゃんが付いてるからな		
+qev35_050.scr:8	qev35_050.scr	8	シング	Shing Meteoryte	personagem	CRLF x1	ヒスイ……！\nどうしてこんな所に？		
+qev35_050.scr:9	qev35_050.scr	9	ヒスイ	Hisui Hearts	personagem	CRLF x2	どうしてだと？\nへっ。\nわかりきった事聞くんじゃねえ		
+qev35_050.scr:10	qev35_050.scr	10	ヒスイ	Hisui Hearts	personagem	CRLF x1	不逞の輩の魔の手から、可愛い妹を\n助けに来たに決まってんだろうが		
+qev35_050.scr:11	qev35_050.scr	11	シング	Shing Meteoryte	personagem		ふていの……？		
+qev35_050.scr:12	qev35_050.scr	12	コハク	Kohaku Hearts	personagem	CRLF x1	もう、お兄ちゃん！\nシングはそんなんじゃないよ！		
+qev35_050.scr:13	qev35_050.scr	13	コハク	Kohaku Hearts	personagem	CRLF x1	ギルドに変な依頼を出したのも\n……お兄ちゃんだね？		
+qev35_050.scr:14	qev35_050.scr	14	ヒスイ	Hisui Hearts	personagem		変とは何だ、変とは！		
+qev35_050.scr:15	qev35_050.scr	15	ヒスイ	Hisui Hearts	personagem	CRLF x1	兄が妹を心配する。\nごく当たり前の事じゃねぇか		
+qev35_050.scr:16	qev35_050.scr	16	コハク	Kohaku Hearts	personagem	CRLF x1	字を見てまさかとは思ったけど……。\nもう……ほんと、恥ずかしい		
+qev35_050.scr:17	qev35_050.scr	17	シング	Shing Meteoryte	personagem	CRLF x2	よくわからないけど……。\nあの名無しの依頼人は、\nヒスイだったんだね？		
+qev35_050.scr:18	qev35_050.scr	18	シング	Shing Meteoryte	personagem		じゃあこれで、一件落着だね！		
+qev35_050.scr:19	qev35_050.scr	19	ヒスイ	Hisui Hearts	personagem	CRLF x1	ちょっと待て。\nどこが一件落着なんだよ		
+qev35_050.scr:20	qev35_050.scr	20	シング	Shing Meteoryte	personagem	CRLF x2	だって、この通り\nコハクはオレが全力で、しっかり！\n守ってるからさ！！		
+qev35_050.scr:21	qev35_050.scr	21	ヒスイ	Hisui Hearts	personagem	CRLF x1	だから、それが全力で\n心配だって言ってんだッ！		
+qev35_050.scr:22	qev35_050.scr	22	コハク	Kohaku Hearts	personagem		……もう、お兄ちゃん！？		
+qev35_050.scr:23	qev35_050.scr	23	コハク	Kohaku Hearts	personagem	CRLF x1	喧嘩はダメって……、\nいつも言ってるよね？		
+qev35_050.scr:24	qev35_050.scr	24	(ator 200)	(ator 200)	desconhecido		…………		
+qev35_050.scr:25	qev35_050.scr	25	シング	Shing Meteoryte	personagem	CRLF x1	（相変わらず\n　コハクの蹴りはすごいなぁ……）		
+qev35_050.scr:26	qev35_050.scr	26	コハク	Kohaku Hearts	personagem		とにかく、これで依頼は達成だね		
+qev35_050.scr:27	qev35_050.scr	27	コハク	Kohaku Hearts	personagem	CRLF x2	ねえ、○○。\nお兄ちゃんもこのまま\nギルドに連れて行ってもいいかな？		
+qev35_050.scr:28	qev35_050.scr	28	コハク	Kohaku Hearts	personagem	CRLF x2	さすがに砂漠に置いて行ったら、\nカラカラのシワシワに\nなっちゃいそうで……		
+qev35_050.scr:29	qev35_050.scr	29	(ator 200)	(ator 200)	desconhecido		…………		
+qev35_050.scr:30	qev35_050.scr	30	コハク	Kohaku Hearts	personagem	CRLF x1	うん、そうだね。\nひとまずバンエルティア号に戻ろう		
+qev35_060.scr:0	qev35_060.scr	0	ヒスイ	Hisui Hearts	personagem		痛っててて……		
+qev35_060.scr:1	qev35_060.scr	1	ヒスイ	Hisui Hearts	personagem	CRLF x1	うう、コハクの蹴りは五臓六腑に\n染み渡る強烈さだぜ……		
+qev35_060.scr:2	qev35_060.scr	2	ヒスイ	Hisui Hearts	personagem		それもこれもシングのアホが……		
+qev35_060.scr:3	qev35_060.scr	3	コハク	Kohaku Hearts	personagem		お兄ちゃん、何か言った？		
+qev35_060.scr:4	qev35_060.scr	4	ヒスイ	Hisui Hearts	personagem	CRLF x1	いやぁ、シングも立派に成長したなぁ！\nはは、はははははははは！		
+qev35_060.scr:5	qev35_060.scr	5	シング	Shing Meteoryte	personagem	CRLF x2	でも、良かった。\nこれで、今日からヒスイも\nオレ達の仲間だね！		
+qev35_060.scr:6	qev35_060.scr	6	ヒスイ	Hisui Hearts	personagem	CRLF x1	あぁ？\nいつ俺がお前の仲間になったんだ？		
+qev35_060.scr:7	qev35_060.scr	7	シング	Shing Meteoryte	personagem		じゃあ、今から帰るの？		
+qev35_060.scr:8	qev35_060.scr	8	ヒスイ	Hisui Hearts	personagem		ぐっ……		
+qev35_060.scr:9	qev35_060.scr	9	ヒスイ	Hisui Hearts	personagem	CRLF x2	か、帰るわけねーだろ！\nてめぇとコハクを二人っきりになんて\n絶対させねえ！！		
+qev35_060.scr:10	qev35_060.scr	10	シング	Shing Meteoryte	personagem		じゃあ、決まりだね		
+qev35_060.scr:11	qev35_060.scr	11	シング	Shing Meteoryte	personagem		今日からよろしく、ヒスイ！		
+qev35_060.scr:12	qev35_060.scr	12	ヒスイ	Hisui Hearts	personagem		お、おう……？		
+qev35_060.scr:13	qev35_060.scr	13	コハク	Kohaku Hearts	personagem	CRLF x1	うん。\nみんなで協力していこう		
+qev35_060.scr:14	qev35_060.scr	14	コハク	Kohaku Hearts	personagem	CRLF x2	○○も、\n手伝って欲しい事があったら\nいつでも呼んでね		
+qev35_060.scr:15	qev35_060.scr	15	コハク	Kohaku Hearts	personagem	CRLF x1	こう見えてお兄ちゃんも\n結構頼りになるんだよ		
+qev35_060.scr:16	qev35_060.scr	16	シング	Shing Meteoryte	personagem		そうそう		
+qev35_060.scr:17	qev35_060.scr	17	シング	Shing Meteoryte	personagem		枯れ木も山の賑わい……ってね！		
+qev35_060.scr:18	qev35_060.scr	18	ヒスイ	Hisui Hearts	personagem	CRLF x1	てめぇ！！\n意味わかって言ってんのか！？		
+qev35_060.scr:19	qev35_060.scr	19	シング	Shing Meteoryte	personagem		あ、あれ……何か違った？		
+qev35_060.scr:20	qev35_060.scr	20	(mensagem de sistema)	(mensagem de sistema)	sistema		ヒスイがアドリビトムに加入しました		

@@ -1,0 +1,199 @@
+id,va_ponteiro,va_string,off_arquivo,bytes_jp,slot_inplace,cabe_inplace,control_codes,original,traducao,bytes_usados,largura_max,fonte,status,nota
+30,0x08D65738,0x08CF5F78,5189496,71,71,sim,LF,テイルズ オブ ザ ワールド\nレディアント マイソロジー３の世界へようこそ！,Welcome to the world of\nTales of the World: Radiant Mythology 3!,64,40,serie,revisar,titulo da serie em ingles oficial
+31,0x08D6573C,0x08CF5FC0,5189568,67,67,NAO,LF,ここで、冒険に旅立つあなたの分身となる\nキャラクターの作成を行います,Now you will create the character who\nbecomes your other self on this journey.,78,40,novo,revisar,分身 = outro eu / avatar
+32,0x08D65740,0x08CF6004,5189636,6,7,sim,,名前：,Name:,5,5,rm2,validado,
+33,0x08D65744,0x08CF600C,5189644,6,7,sim,,性別：,Gender:,7,7,novo,revisar,
+34,0x08D65748,0x08CF6014,5189652,6,7,sim,,職業：,Job:,4,4,rm2,validado,RM2 3.4 職業=Job
+35,0x08D6574C,0x08CF601C,5189660,10,11,NAO,,身長・体型,Height/Build,12,12,novo,revisar,身長・体型; o ・ vira barra
+36,0x08D65750,0x08CF6028,5189672,4,7,sim,,髪型,Hair,4,4,novo,revisar,
+37,0x08D65754,0x08CF6030,5189680,2,3,NAO,,顔,Face,4,4,rm2,validado,RM2 3.7 顔=Face
+38,0x08D65758,0x08CF6034,5189684,6,7,NAO,,肌の色,Skin Tone,9,9,novo,revisar,
+39,0x08D6575C,0x08CF603C,5189692,10,11,NAO,,勝利ポーズ,Victory Pose,12,12,novo,revisar,
+40,0x08D65760,0x08CF6048,5189704,12,15,sim,,ボイスタイプ,Voice Type,10,10,novo,revisar,
+41,0x08D65764,0x08CF6058,5189720,14,15,sim,,ランダムで選ぶ,Randomize,9,9,rm2,validado,"RM2 3.5 ランダムで選ぶ=Randomize, casamento exato"
+42,0x08D65768,0x08CF6068,5189736,4,7,sim,,決定,OK,2,2,rm2,validado,RM2 3.5 決定=OK/Confirm
+43,0x08D6576C,0x08CF6070,5189744,30,31,sim,,キャラクターの名前を設定します,Set your character's name,25,25,novo,revisar,
+44,0x08D65770,0x08CF6090,5189776,30,31,sim,,キャラクターの性別を設定します,Set your character's gender,27,27,novo,revisar,
+45,0x08D65774,0x08CF60B0,5189808,30,31,NAO,,ゲーム開始時の職業を設定します,Set the job you will start the game with,40,40,novo,revisar,
+46,0x08D65778,0x08CF60D0,5189840,36,39,sim,,キャラクターの身長・体型を設定します,Set your character's height and build,37,37,novo,revisar,
+47,0x08D6577C,0x08CF60F8,5189880,28,31,sim,,キャラクターの髪を設定します,Set your character's hair,25,25,novo,revisar,
+48,0x08D65780,0x08CF6118,5189912,32,35,sim,,キャラクターの目と口を設定します,Set your character's eyes and mouth,35,35,novo,revisar,
+49,0x08D65784,0x08CF613C,5189948,32,35,sim,,キャラクターの肌の色を設定します,Set your character's skin tone,30,30,novo,revisar,
+50,0x08D65788,0x08CF6160,5189984,30,31,NAO,,戦闘勝利時のポーズを設定します,Set the pose used after winning a battle,40,40,novo,revisar,
+51,0x08D6578C,0x08CF6180,5190016,26,27,NAO,,戦闘時のボイスを設定します,Set the voice used in battle,28,28,novo,revisar,
+52,0x08D65790,0x08CF619C,5190044,34,35,sim,,ランダムでキャラクターを作成します,Create a character at random,28,28,novo,revisar,
+53,0x08D65794,0x08CF61C0,5190080,40,43,sim,,キャラクターを決定し、ゲームを開始します,Confirm your character and start the game,41,41,novo,revisar,
+54,0x08D65798,0x08CF61EC,5190124,24,27,sim,,キャラクターを決定します,Confirm your character,22,22,novo,revisar,
+55,0x08D6579C,0x08CF6208,5190152,22,23,NAO,,タイトルへ戻りますか？,Return to the title screen?,27,27,novo,revisar,
+56,0x08D657A0,0x08CF6220,5190176,51,51,NAO,LF,キャラリメイクを中断して、\n変更前の姿に戻しますか？,Stop the remake and restore your\ncharacter's previous look?,59,32,novo,revisar,キャラリメイク = remodelar personagem
+57,0x08D657A4,0x08CF6254,5190228,30,31,sim,,キャラクター名を入力して下さい,Please enter a character name,29,29,novo,revisar,
+58,0x08D657A8,0x08CF6274,5190260,24,27,sim,,名前が設定されていません,No name has been set,20,20,novo,revisar,
+59,0x08D657AC,0x08CF6290,5190288,10,11,sim,,プレイヤー,Player,6,6,novo,revisar,nome padrao do personagem
+60,0x08D657B0,0x08CF629C,5190300,2,3,NAO,,女,Female,6,6,novo,revisar,
+61,0x08D657B4,0x08CF62A0,5190304,2,3,NAO,,男,Male,4,4,novo,revisar,
+62,0x08D657B8,0x08CF62A4,5190308,4,7,sim,,戦士,Warrior,7,7,rm2,validado,RM2 3.3
+63,0x08D657BC,0x08CF62AC,5190316,4,7,NAO,,剣士,Swordsman,9,9,rm2,validado,RM2 3.3
+64,0x08D657C0,0x08CF62B4,5190324,8,11,sim,,魔法剣士,Spellsword,10,10,rm2,validado,RM2 3.3
+65,0x08D657C4,0x08CF62C0,5190336,6,7,NAO,,格闘家,Martial Artist,14,14,rm2,validado,RM2 3.3
+66,0x08D657C8,0x08CF62C8,5190344,4,7,sim,,狩人,Hunter,6,6,rm2,validado,RM2 3.3
+67,0x08D657CC,0x08CF62D0,5190352,4,7,sim,,盗賊,Thief,5,5,rm2,validado,RM2 3.3
+68,0x08D657D0,0x08CF62D8,5190360,4,7,sim,,忍者,Ninja,5,5,rm2,validado,RM2 3.3
+69,0x08D657D4,0x08CF62E0,5190368,6,7,sim,,魔術師,Mage,4,4,rm2,validado,RM2 3.3 魔術師=Mage
+70,0x08D657D8,0x08CF62E8,5190376,4,7,sim,,僧侶,Priest,6,6,rm2,validado,RM2 3.3 神官=Priest; 僧侶 e o mesmo papel
+71,0x08D657DC,0x08CF62F0,5190384,10,11,sim,,ビショップ,Bishop,6,6,rm2,validado,RM2 3.3 aparece no binario como Bishop
+72,0x08D657E0,0x08CF62FC,5190396,6,7,NAO,,双剣士,Twin Swordsman,14,14,rm2,revisar,"DIVERGE do termbase RM2 (""Twin Sword"", binario ""TwinSw"") — mas na lista fica ao lado de 剣士=Swordsman"
+73,0x08D657E4,0x08CF6304,5190404,6,7,NAO,,大剣士,Great Swordsman,15,15,rm2,revisar,"DIVERGE do termbase RM2 (""Great Sword"", binario ""G.Swrd"") — mesmo motivo"
+74,0x08D657E8,0x08CF630C,5190412,6,7,sim,,モンク,Monk,4,4,novo,revisar,
+75,0x08D657EC,0x08CF6314,5190420,4,7,sim,,海賊,Pirate,6,6,rm2,validado,RM2 3.3 Pirate
+76,0x08D657F0,0x08CF631C,5190428,6,7,sim,,聖騎士,Paladin,7,7,rm2,validado,RM2 3.3 Paladin
+77,0x08D657F4,0x08CF6324,5190436,8,11,sim,,ガンマン,Gunman,6,6,novo,revisar,"ガンマン literal; alternativa ""Gunner"""
+78,0x08D657F8,0x08CF6330,5190448,53,55,NAO,LF,強力な武器で攻撃を行う近接戦向けの職業\n（初心者向け）,A melee job that attacks with powerful\nweapons. (Beginner),58,38,rm2_deriv,revisar,RM2 3.6 近接戦闘=Melee
+79,0x08D657FC,0x08CF6368,5190504,35,35,NAO,LF,多彩な剣技を持つ職業\n（初心者向け）,A job with a wide variety of sword\nskills. (Beginner),53,34,novo,revisar,
+80,0x08D65800,0x08CF638C,5190540,36,39,sim,,剣技と攻撃術の両方を駆使出来る万能職,Wields both sword skills and artes.,35,35,rm2_deriv,revisar,術=Arte (RM2 3.2); uma linha: o japones nao tem LF
+81,0x08D65804,0x08CF63B4,5190580,53,55,NAO,LF,拳による肉弾戦を得意とする格闘系の職業\n（中級者向け）,A martial job that excels at bare-fisted\ncombat. (Intermediate),63,40,novo,revisar,
+82,0x08D65808,0x08CF63EC,5190636,47,47,NAO,LF,弓による遠隔攻撃を得意とする職業\n（中級者向け）,A job that excels at ranged attacks with\na bow. (Intermediate),62,40,novo,revisar,
+83,0x08D6580C,0x08CF641C,5190684,57,59,sim,LF,短剣による素早い攻撃と盗みを得意とする職業\n（中級者向け）,Excels at swift dagger attacks and\nstealing. (Intermediate),59,34,rm2_deriv,revisar,"短剣=Dagger, 盗む=Steal"
+84,0x08D65810,0x08CF6458,5190744,40,43,sim,,忍術と呼ばれる特殊な体術を得意とする職業,Master of the body arts of ninjutsu.,36,36,novo,revisar,uma linha: o japones nao tem LF
+85,0x08D65814,0x08CF6484,5190788,53,55,NAO,LF,攻撃に特化した術を得意とする職業\n（中級〜上級者向け）,Excels at artes built for attacking.\n(Intermediate-Advanced),60,36,novo,revisar,
+86,0x08D65818,0x08CF64BC,5190844,53,55,NAO,LF,回復、補助系の術を得意とする職業\n（中級〜上級者向け）,Excels at healing and support artes.\n(Intermediate-Advanced),60,36,novo,revisar,
+87,0x08D6581C,0x08CF64F4,5190900,38,39,NAO,,攻撃術と回復術の両方を得意とする万能職,Skilled in both attack and healing artes.,41,41,novo,revisar,uma linha: o japones nao tem LF
+88,0x08D65820,0x08CF651C,5190940,38,39,NAO,,左右に持つ二本の剣を駆使する亜流の剣士,An unorthodox swordsman with two blades.,40,40,novo,revisar,亜流 = escola heterodoxa; uma linha: o japones nao tem LF
+89,0x08D65824,0x08CF6544,5190980,40,43,sim,,身の丈程の大剣を駆使するパワーファイター,A power fighter with a huge greatsword.,39,39,novo,revisar,uma linha: o japones nao tem LF
+90,0x08D65828,0x08CF6570,5191024,38,39,sim,,気の力による回復の技を兼ね備えた格闘職,A martial job that also heals with ki.,38,38,novo,revisar,気の力 = forca do ki; uma linha: o japones nao tem LF
+91,0x08D6582C,0x08CF6598,5191064,46,47,sim,,銃による遠隔攻撃と短剣による近接攻撃を併せ持つ,Mixes ranged gunfire and dagger melee.,38,38,novo,revisar,uma linha: o japones nao tem LF
+92,0x08D65830,0x08CF65C8,5191112,42,43,sim,,大剣による攻撃力と補助術を兼ね備えた万能職,Greatsword power plus support artes.,36,36,novo,revisar,uma linha: o japones nao tem LF
+93,0x08D65834,0x08CF65F4,5191156,51,51,NAO,LF,二丁の拳銃で高速な攻撃を繰り出す職業\n（中級者向け）,Unleashes rapid attacks with twin\npistols. (Intermediate),57,33,novo,revisar,二丁の拳銃 = duas pistolas
+94,0x08D65838,0x08CF6628,5191208,4,7,sim,,身長,Height,6,6,novo,revisar,
+95,0x08D6583C,0x08CF6630,5191216,4,7,sim,,体型,Build,5,5,novo,revisar,
+96,0x08D65840,0x08CF6638,5191224,16,19,sim,,身長を設定します,Set your height,15,15,novo,revisar,
+97,0x08D65844,0x08CF664C,5191244,16,19,sim,,体型を設定します,Set your build,14,14,novo,revisar,
+98,0x08D65848,0x08CF6660,5191264,8,11,sim,,髪型選択,Hairstyle,9,9,novo,revisar,
+99,0x08D6584C,0x08CF666C,5191276,10,11,sim,,オプション,Options,7,7,serie,validado,RM2/serie オプション=Options
+100,0x08D65850,0x08CF6678,5191288,4,7,NAO,,髪色,Hair Color,10,10,novo,revisar,
+101,0x08D65854,0x08CF6680,5191296,30,31,sim,,キャラクターの髪型を設定します,Set your character's hairstyle,30,30,novo,revisar,
+102,0x08D65858,0x08CF66A0,5191328,40,43,sim,,キャラクターの髪にオプションを設定します,Set an option for your character's hair,39,39,novo,revisar,
+103,0x08D6585C,0x08CF66CC,5191372,30,31,sim,,キャラクターの髪色を設定します,Set your character's hair color,31,31,novo,revisar,
+104,0x08D65860,0x08CF66EC,5191404,12,15,sim,,髪パターン１,Hair Pattern 1,14,14,gerado,revisar,serie Hair Pattern N
+105,0x08D65864,0x08CF66FC,5191420,12,15,sim,,髪パターン２,Hair Pattern 2,14,14,gerado,revisar,serie Hair Pattern N
+106,0x08D65868,0x08CF670C,5191436,12,15,sim,,髪パターン３,Hair Pattern 3,14,14,gerado,revisar,serie Hair Pattern N
+107,0x08D6586C,0x08CF671C,5191452,12,15,sim,,髪パターン４,Hair Pattern 4,14,14,gerado,revisar,serie Hair Pattern N
+108,0x08D65870,0x08CF672C,5191468,12,15,sim,,髪パターン５,Hair Pattern 5,14,14,gerado,revisar,serie Hair Pattern N
+109,0x08D65874,0x08CF673C,5191484,12,15,sim,,髪パターン６,Hair Pattern 6,14,14,gerado,revisar,serie Hair Pattern N
+110,0x08D65878,0x08CF674C,5191500,12,15,sim,,髪パターン７,Hair Pattern 7,14,14,gerado,revisar,serie Hair Pattern N
+111,0x08D6587C,0x08CF675C,5191516,12,15,sim,,髪パターン８,Hair Pattern 8,14,14,gerado,revisar,serie Hair Pattern N
+112,0x08D65880,0x08CF676C,5191532,12,15,sim,,髪パターン９,Hair Pattern 9,14,14,gerado,revisar,serie Hair Pattern N
+113,0x08D65884,0x08CF677C,5191548,14,15,sim,,髪パターン１０,Hair Pattern 10,15,15,gerado,revisar,serie Hair Pattern N
+114,0x08D65888,0x08CF678C,5191564,14,15,sim,,髪パターン１１,Hair Pattern 11,15,15,gerado,revisar,serie Hair Pattern N
+115,0x08D6588C,0x08CF679C,5191580,14,15,sim,,髪パターン１２,Hair Pattern 12,15,15,gerado,revisar,serie Hair Pattern N
+116,0x08D65890,0x08CF67AC,5191596,14,15,sim,,髪パターン１３,Hair Pattern 13,15,15,gerado,revisar,serie Hair Pattern N
+117,0x08D65894,0x08CF67BC,5191612,14,15,sim,,髪パターン１４,Hair Pattern 14,15,15,gerado,revisar,serie Hair Pattern N
+118,0x08D65898,0x08CF67CC,5191628,14,15,sim,,髪パターン１５,Hair Pattern 15,15,15,gerado,revisar,serie Hair Pattern N
+119,0x08D6589C,0x08CF67DC,5191644,14,15,sim,,髪パターン１６,Hair Pattern 16,15,15,gerado,revisar,serie Hair Pattern N
+120,0x08D658A0,0x08CF67EC,5191660,14,15,sim,,髪パターン１７,Hair Pattern 17,15,15,gerado,revisar,serie Hair Pattern N
+121,0x08D658A4,0x08CF67FC,5191676,14,15,sim,,髪パターン１８,Hair Pattern 18,15,15,gerado,revisar,serie Hair Pattern N
+122,0x08D658A8,0x08CF680C,5191692,14,15,sim,,髪パターン１９,Hair Pattern 19,15,15,gerado,revisar,serie Hair Pattern N
+123,0x08D658AC,0x08CF681C,5191708,14,15,sim,,髪パターン２０,Hair Pattern 20,15,15,gerado,revisar,serie Hair Pattern N
+124,0x08D658B0,0x08CF682C,5191724,14,15,sim,,ノーオプション,No Option,9,9,novo,revisar,
+125,0x08D658B4,0x08CF683C,5191740,12,15,sim,,オプション１,Option 1,8,8,gerado,revisar,serie Option N
+126,0x08D658B8,0x08CF684C,5191756,12,15,sim,,オプション２,Option 2,8,8,gerado,revisar,serie Option N
+127,0x08D658BC,0x08CF685C,5191772,12,15,sim,,オプション３,Option 3,8,8,gerado,revisar,serie Option N
+128,0x08D658C0,0x08CF686C,5191788,12,15,sim,,オプション４,Option 4,8,8,gerado,revisar,serie Option N
+129,0x08D658C4,0x08CF687C,5191804,12,15,sim,,オプション５,Option 5,8,8,gerado,revisar,serie Option N
+130,0x08D658C8,0x08CF688C,5191820,12,15,sim,,オプション６,Option 6,8,8,gerado,revisar,serie Option N
+131,0x08D658CC,0x08CF689C,5191836,12,15,sim,,オプション７,Option 7,8,8,gerado,revisar,serie Option N
+132,0x08D658D0,0x08CF68AC,5191852,12,15,sim,,オプション８,Option 8,8,8,gerado,revisar,serie Option N
+133,0x08D658D4,0x08CF68BC,5191868,12,15,sim,,オプション９,Option 9,8,8,gerado,revisar,serie Option N
+134,0x08D658D8,0x08CF68CC,5191884,14,15,sim,,オプション１０,Option 10,9,9,gerado,revisar,serie Option N
+135,0x08D658DC,0x08CF68DC,5191900,14,15,sim,,オプション１１,Option 11,9,9,gerado,revisar,serie Option N
+136,0x08D658E0,0x08CF68EC,5191916,14,15,sim,,オプション１２,Option 12,9,9,gerado,revisar,serie Option N
+137,0x08D658E4,0x08CF68FC,5191932,14,15,sim,,オプション１３,Option 13,9,9,gerado,revisar,serie Option N
+138,0x08D658E8,0x08CF690C,5191948,14,15,sim,,オプション１４,Option 14,9,9,gerado,revisar,serie Option N
+139,0x08D658EC,0x08CF691C,5191964,14,15,sim,,オプション１５,Option 15,9,9,gerado,revisar,serie Option N
+140,0x08D658F0,0x08CF692C,5191980,10,11,sim,,目のタイプ,Eye Type,8,8,novo,revisar,
+141,0x08D658F4,0x08CF6938,5191992,8,11,sim,,両目の色,Both Eyes,9,9,novo,revisar,両目の色 = cor dos dois olhos
+142,0x08D658F8,0x08CF6944,5192004,8,11,sim,,右目の色,Right Eye,9,9,novo,revisar,
+143,0x08D658FC,0x08CF6950,5192016,8,11,sim,,左目の色,Left Eye,8,8,novo,revisar,
+144,0x08D65900,0x08CF695C,5192028,10,11,sim,,口のタイプ,Mouth Type,10,10,novo,revisar,
+145,0x08D65904,0x08CF6968,5192040,36,39,sim,,キャラクターの目のタイプを設定します,Set your character's eye type,29,29,novo,revisar,
+146,0x08D65908,0x08CF6990,5192080,20,23,NAO,,両目の色を設定します,Set the color of both eyes,26,26,novo,revisar,
+147,0x08D6590C,0x08CF69A8,5192104,20,23,sim,,右目の色を設定します,Set the right eye color,23,23,novo,revisar,
+148,0x08D65910,0x08CF69C0,5192128,20,23,sim,,左目の色を設定します,Set the left eye color,22,22,novo,revisar,
+149,0x08D65914,0x08CF69D8,5192152,36,39,sim,,キャラクターの口のタイプを設定します,Set your character's mouth type,31,31,novo,revisar,
+150,0x08D65918,0x08CF6A00,5192192,12,15,sim,,目パターン１,Eye Pattern 1,13,13,gerado,revisar,serie Eye Pattern N
+151,0x08D6591C,0x08CF6A10,5192208,12,15,sim,,目パターン２,Eye Pattern 2,13,13,gerado,revisar,serie Eye Pattern N
+152,0x08D65920,0x08CF6A20,5192224,12,15,sim,,目パターン３,Eye Pattern 3,13,13,gerado,revisar,serie Eye Pattern N
+153,0x08D65924,0x08CF6A30,5192240,12,15,sim,,目パターン４,Eye Pattern 4,13,13,gerado,revisar,serie Eye Pattern N
+154,0x08D65928,0x08CF6A40,5192256,12,15,sim,,目パターン５,Eye Pattern 5,13,13,gerado,revisar,serie Eye Pattern N
+155,0x08D6592C,0x08CF6A50,5192272,12,15,sim,,目パターン６,Eye Pattern 6,13,13,gerado,revisar,serie Eye Pattern N
+156,0x08D65930,0x08CF6A60,5192288,12,15,sim,,目パターン７,Eye Pattern 7,13,13,gerado,revisar,serie Eye Pattern N
+157,0x08D65934,0x08CF6A70,5192304,12,15,sim,,目パターン８,Eye Pattern 8,13,13,gerado,revisar,serie Eye Pattern N
+158,0x08D65938,0x08CF6A80,5192320,12,15,sim,,目パターン９,Eye Pattern 9,13,13,gerado,revisar,serie Eye Pattern N
+159,0x08D6593C,0x08CF6A90,5192336,14,15,sim,,目パターン１０,Eye Pattern 10,14,14,gerado,revisar,serie Eye Pattern N
+160,0x08D65940,0x08CF6AA0,5192352,14,15,sim,,目パターン１１,Eye Pattern 11,14,14,gerado,revisar,serie Eye Pattern N
+161,0x08D65944,0x08CF6AB0,5192368,14,15,sim,,目パターン１２,Eye Pattern 12,14,14,gerado,revisar,serie Eye Pattern N
+162,0x08D65948,0x08CF6AC0,5192384,14,15,sim,,目パターン１３,Eye Pattern 13,14,14,gerado,revisar,serie Eye Pattern N
+163,0x08D6594C,0x08CF6AD0,5192400,14,15,sim,,目パターン１４,Eye Pattern 14,14,14,gerado,revisar,serie Eye Pattern N
+164,0x08D65950,0x08CF6AE0,5192416,14,15,sim,,目パターン１５,Eye Pattern 15,14,14,gerado,revisar,serie Eye Pattern N
+165,0x08D65954,0x08CF6AF0,5192432,14,15,sim,,目パターン１６,Eye Pattern 16,14,14,gerado,revisar,serie Eye Pattern N
+166,0x08D65958,0x08CF6B00,5192448,14,15,sim,,目パターン１７,Eye Pattern 17,14,14,gerado,revisar,serie Eye Pattern N
+167,0x08D6595C,0x08CF6B10,5192464,14,15,sim,,目パターン１８,Eye Pattern 18,14,14,gerado,revisar,serie Eye Pattern N
+168,0x08D65960,0x08CF6B20,5192480,14,15,sim,,目パターン１９,Eye Pattern 19,14,14,gerado,revisar,serie Eye Pattern N
+169,0x08D65964,0x08CF6B30,5192496,14,15,sim,,目パターン２０,Eye Pattern 20,14,14,gerado,revisar,serie Eye Pattern N
+170,0x08D65968,0x08CF6B40,5192512,14,15,sim,,目パターン２１,Eye Pattern 21,14,14,gerado,revisar,serie Eye Pattern N
+171,0x08D6596C,0x08CF6B50,5192528,14,15,sim,,目パターン２２,Eye Pattern 22,14,14,gerado,revisar,serie Eye Pattern N
+172,0x08D65970,0x08CF6B60,5192544,14,15,sim,,目パターン２３,Eye Pattern 23,14,14,gerado,revisar,serie Eye Pattern N
+173,0x08D65974,0x08CF6B70,5192560,14,15,sim,,目パターン２４,Eye Pattern 24,14,14,gerado,revisar,serie Eye Pattern N
+174,0x08D65978,0x08CF6B80,5192576,14,15,sim,,目パターン２５,Eye Pattern 25,14,14,gerado,revisar,serie Eye Pattern N
+175,0x08D6597C,0x08CF6B90,5192592,14,15,sim,,目パターン２６,Eye Pattern 26,14,14,gerado,revisar,serie Eye Pattern N
+176,0x08D65980,0x08CF6BA0,5192608,14,15,sim,,目パターン２７,Eye Pattern 27,14,14,gerado,revisar,serie Eye Pattern N
+177,0x08D65984,0x08CF6BB0,5192624,14,15,sim,,目パターン２８,Eye Pattern 28,14,14,gerado,revisar,serie Eye Pattern N
+178,0x08D65988,0x08CF6BC0,5192640,14,15,sim,,目パターン２９,Eye Pattern 29,14,14,gerado,revisar,serie Eye Pattern N
+179,0x08D6598C,0x08CF6BD0,5192656,14,15,sim,,目パターン３０,Eye Pattern 30,14,14,gerado,revisar,serie Eye Pattern N
+180,0x08D65990,0x08CF6BE0,5192672,12,15,sim,,口パターン１,Mouth Pattern 1,15,15,gerado,revisar,serie Mouth Pattern N
+181,0x08D65994,0x08CF6BF0,5192688,12,15,sim,,口パターン２,Mouth Pattern 2,15,15,gerado,revisar,serie Mouth Pattern N
+182,0x08D65998,0x08CF6C00,5192704,12,15,sim,,口パターン３,Mouth Pattern 3,15,15,gerado,revisar,serie Mouth Pattern N
+183,0x08D6599C,0x08CF6C10,5192720,12,15,sim,,口パターン４,Mouth Pattern 4,15,15,gerado,revisar,serie Mouth Pattern N
+184,0x08D659A0,0x08CF6C20,5192736,12,15,sim,,口パターン５,Mouth Pattern 5,15,15,gerado,revisar,serie Mouth Pattern N
+185,0x08D659A4,0x08CF6C30,5192752,12,15,sim,,口パターン６,Mouth Pattern 6,15,15,gerado,revisar,serie Mouth Pattern N
+186,0x08D659A8,0x08CF6C40,5192768,12,15,sim,,口パターン７,Mouth Pattern 7,15,15,gerado,revisar,serie Mouth Pattern N
+187,0x08D659AC,0x08CF6C50,5192784,12,15,sim,,口パターン８,Mouth Pattern 8,15,15,gerado,revisar,serie Mouth Pattern N
+188,0x08D659B0,0x08CF6C60,5192800,12,15,sim,,口パターン９,Mouth Pattern 9,15,15,gerado,revisar,serie Mouth Pattern N
+189,0x08D659B4,0x08CF6C70,5192816,14,15,NAO,,口パターン１０,Mouth Pattern 10,16,16,gerado,revisar,serie Mouth Pattern N
+190,0x08D659B8,0x08CF6C80,5192832,14,15,NAO,,口パターン１１,Mouth Pattern 11,16,16,gerado,revisar,serie Mouth Pattern N
+191,0x08D659BC,0x08CF6C90,5192848,14,15,NAO,,口パターン１２,Mouth Pattern 12,16,16,gerado,revisar,serie Mouth Pattern N
+192,0x08D659C0,0x08CF6CA0,5192864,14,15,NAO,,口パターン１３,Mouth Pattern 13,16,16,gerado,revisar,serie Mouth Pattern N
+193,0x08D659C4,0x08CF6CB0,5192880,14,15,NAO,,口パターン１４,Mouth Pattern 14,16,16,gerado,revisar,serie Mouth Pattern N
+194,0x08D659C8,0x08CF6CC0,5192896,14,15,NAO,,口パターン１５,Mouth Pattern 15,16,16,gerado,revisar,serie Mouth Pattern N
+195,0x08D659CC,0x08CF6CD0,5192912,14,15,NAO,,口パターン１６,Mouth Pattern 16,16,16,gerado,revisar,serie Mouth Pattern N
+196,0x08D659D0,0x08CF6CE0,5192928,14,15,NAO,,口パターン１７,Mouth Pattern 17,16,16,gerado,revisar,serie Mouth Pattern N
+197,0x08D659D4,0x08CF6CF0,5192944,14,15,NAO,,口パターン１８,Mouth Pattern 18,16,16,gerado,revisar,serie Mouth Pattern N
+198,0x08D659D8,0x08CF6D00,5192960,14,15,NAO,,口パターン１９,Mouth Pattern 19,16,16,gerado,revisar,serie Mouth Pattern N
+199,0x08D659DC,0x08CF6D10,5192976,14,15,NAO,,口パターン２０,Mouth Pattern 20,16,16,gerado,revisar,serie Mouth Pattern N
+200,0x08D659E0,0x08CF6D20,5192992,10,11,sim,,パターン１,Pattern 1,9,9,gerado,revisar,serie Pattern N
+201,0x08D659E4,0x08CF6D2C,5193004,10,11,sim,,パターン２,Pattern 2,9,9,gerado,revisar,serie Pattern N
+202,0x08D659E8,0x08CF6D38,5193016,10,11,sim,,パターン３,Pattern 3,9,9,gerado,revisar,serie Pattern N
+203,0x08D659EC,0x08CF6D44,5193028,10,11,sim,,パターン４,Pattern 4,9,9,gerado,revisar,serie Pattern N
+204,0x08D659F0,0x08CF6D50,5193040,10,11,sim,,パターン５,Pattern 5,9,9,gerado,revisar,serie Pattern N
+205,0x08D659F4,0x08CF6D5C,5193052,10,11,sim,,パターン６,Pattern 6,9,9,gerado,revisar,serie Pattern N
+206,0x08D659F8,0x08CF6D68,5193064,16,19,sim,,ボイスパターン１,Voice Pattern 1,15,15,gerado,revisar,serie Voice Pattern N
+207,0x08D659FC,0x08CF6D7C,5193084,16,19,sim,,ボイスパターン２,Voice Pattern 2,15,15,gerado,revisar,serie Voice Pattern N
+208,0x08D65A00,0x08CF6D90,5193104,16,19,sim,,ボイスパターン３,Voice Pattern 3,15,15,gerado,revisar,serie Voice Pattern N
+209,0x08D65A04,0x08CF6DA4,5193124,16,19,sim,,ボイスパターン４,Voice Pattern 4,15,15,gerado,revisar,serie Voice Pattern N
+210,0x08D65A08,0x08CF6DB8,5193144,16,19,sim,,ボイスパターン５,Voice Pattern 5,15,15,gerado,revisar,serie Voice Pattern N
+211,0x08D65A0C,0x08CF6DCC,5193164,16,19,sim,,ボイスパターン６,Voice Pattern 6,15,15,gerado,revisar,serie Voice Pattern N
+212,0x08D65A10,0x08CF6DE0,5193184,16,19,sim,,ボイスパターン７,Voice Pattern 7,15,15,gerado,revisar,serie Voice Pattern N
+213,0x08D65A14,0x08CF6DF4,5193204,16,19,sim,,ボイスパターン８,Voice Pattern 8,15,15,gerado,revisar,serie Voice Pattern N
+214,0x08D65A18,0x08CF6E08,5193224,16,19,sim,,ボイスパターン９,Voice Pattern 9,15,15,gerado,revisar,serie Voice Pattern N
+215,0x08D65A1C,0x08CF6E1C,5193244,18,19,sim,,ボイスパターン１０,Voice Pattern 10,16,16,gerado,revisar,serie Voice Pattern N
+216,0x08D65A20,0x08CF6E30,5193264,18,19,sim,,ボイスパターン１１,Voice Pattern 11,16,16,gerado,revisar,serie Voice Pattern N
+217,0x08D65A24,0x08CF6E44,5193284,18,19,sim,,ボイスパターン１２,Voice Pattern 12,16,16,gerado,revisar,serie Voice Pattern N
+218,0x08D65A28,0x08CF6E58,5193304,18,19,sim,,ボイスパターン１３,Voice Pattern 13,16,16,gerado,revisar,serie Voice Pattern N
+219,0x08D65A2C,0x08CF6E6C,5193324,18,19,sim,,ボイスパターン１４,Voice Pattern 14,16,16,gerado,revisar,serie Voice Pattern N
+220,0x08D65A30,0x08CF6E80,5193344,18,19,sim,,ボイスパターン１５,Voice Pattern 15,16,16,gerado,revisar,serie Voice Pattern N
+221,0x08D65A34,0x08CF6E94,5193364,18,19,sim,,ボイスパターン１６,Voice Pattern 16,16,16,gerado,revisar,serie Voice Pattern N
+222,0x08D65A38,0x08CF6EA8,5193384,18,19,sim,,ボイスパターン１７,Voice Pattern 17,16,16,gerado,revisar,serie Voice Pattern N
+223,0x08D65A3C,0x08CF6EBC,5193404,18,19,sim,,ボイスパターン１８,Voice Pattern 18,16,16,gerado,revisar,serie Voice Pattern N
+224,0x08D65A40,0x08CF6ED0,5193424,18,19,sim,,ボイスパターン１９,Voice Pattern 19,16,16,gerado,revisar,serie Voice Pattern N
+225,0x08D65A44,0x08CF6EE4,5193444,18,19,sim,,ボイスパターン２０,Voice Pattern 20,16,16,gerado,revisar,serie Voice Pattern N
+226,0x08D65A48,0x08CF6EF8,5193464,24,27,NAO,,ランダムで作成しますか？,Create a character at random?,29,29,novo,revisar,
+227,0x08D65A4C,0x08CF6F14,5193492,32,35,sim,,このキャラクターに決定しますか？,Confirm this character?,23,23,novo,revisar,

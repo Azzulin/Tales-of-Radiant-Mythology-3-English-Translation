@@ -1,0 +1,430 @@
+bloco,va_ponteiro,va_string,off_arquivo,bytes_jp,slot_inplace,manter,control_codes,original,traducao,bytes_usados,fonte,status,nota,arena_ini,arena_fim
+questfiltro__s1,0x08D86280,0x08D0EB90,5290896,12,15,,,間引きで選択,Select to Eliminate,19,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86284,0x08D0EBA0,5290912,8,11,,,ゲコゲコ,Gecko-Gecko,11,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86288,0x08D0EBAC,5290924,6,7,,,ウルフ,Wolf,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s2,0x08D8628C,0x08D0EBB4,5290932,12,15,,,サイノッサス,Sainossus,9,../lotes/SIS-04_retorno.tsv,validado,,0x08D0F140,0x08D0F1C3
+questfiltro__s1,0x08D86290,0x08D0EBC4,5290948,10,11,,,ガーゴイル,Gargoyle,8,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86294,0x08D0EBD0,5290960,8,11,,,ガルーダ,Garuda,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86298,0x08D0EBDC,5290972,12,15,,,デカウオント,Dekawont,8,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8629C,0x08D0EBEC,5290988,12,15,,,チュンチュン,Chirp-Chirp,11,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862A0,0x08D0EBFC,5291004,10,11,,,バシリスク,Basilisk,8,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862A4,0x08D0EC08,5291016,8,11,,,オタオタ,Polwiggle,9,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862A8,0x08D0EC14,5291028,8,11,,,ミミック,Mimic,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862AC,0x08D0EC20,5291040,12,15,,,アイスバット,Ice Bat,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862B0,0x08D0EC30,5291056,12,15,,,アイスウルフ,Ice Wolf,8,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862B4,0x08D0EC40,5291072,12,15,,,ドウラクラブ,Doraku Crab,11,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862B8,0x08D0EC50,5291088,12,15,,,デカラビアス,Dekarabias,10,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862BC,0x08D0EC60,5291104,18,19,,,メデューサローパー,Medusa Roper,12,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862C0,0x08D0EC74,5291124,18,19,,,ジルディシュバリエ,Zirdish Varie,13,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862C4,0x08D0EC88,5291144,10,11,,,ブラッサム,Blossom,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862C8,0x08D0EC94,5291156,12,15,,,ロックワーム,Rock Worm,9,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862CC,0x08D0ECA4,5291172,12,15,,,ミニデカパン,Mini Decapan,12,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s2,0x08D862D0,0x08D0ECB4,5291188,10,11,,,デカコパン,Dekacopan,9,../lotes/SIS-04_retorno.tsv,validado,,0x08D0F140,0x08D0F1C3
+questfiltro__s1,0x08D862D4,0x08D0ECC0,5291200,18,19,,,ネガティブプラント,Negative Plant,14,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862D8,0x08D0ECD4,5291220,16,19,,,ウォーターバット,Water Bat,9,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862DC,0x08D0ECE8,5291240,14,15,,,グロスベルヴァ,Grosbelva,9,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862E0,0x08D0ECF8,5291256,6,7,,,バット,Bat,3,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862E4,0x08D0ED00,5291264,10,11,,,スケルトン,Skeleton,8,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862E8,0x08D0ED0C,5291276,14,15,,,ストーンゴレム,Stone Golem,11,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862EC,0x08D0ED1C,5291292,8,11,,,オタレド,Otaredo,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862F0,0x08D0ED28,5291304,8,11,,,ヒラリス,Hilaris,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D862F4,0x08D0ED34,5291316,2,3,,,銅,Copper,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s3,0x08D862F8,0x08D0ED38,5291320,4,7,,,水晶,Crystal,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D0FE7C,0x08D0FE8B
+questfiltro__s1,0x08D862FC,0x08D0ED40,5291328,2,3,,,銀,Silver,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86300,0x08D0ED44,5291332,12,15,,,モルダバイト,Moldavite,9,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86304,0x08D0ED54,5291348,12,15,,,ヒヒイロカネ,Hihiirokane,11,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86308,0x08D0ED64,5291364,8,11,,,純結星晶,Pure Star Crystal,17,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8630C,0x08D0ED70,5291376,8,11,,,アップル,Apple,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s2,0x08D86310,0x08D0ED7C,5291388,2,3,,,麻,Hemp,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D0F140,0x08D0F1C3
+questfiltro__s1,0x08D86314,0x08D0ED80,5291392,8,11,,,こくもつ,Grain,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86318,0x08D0ED8C,5291404,6,7,,,たまご,Egg,3,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8631C,0x08D0ED94,5291412,6,7,,,レモン,Lemon,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86320,0x08D0ED9C,5291420,8,11,,,スパイス,Spice,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86324,0x08D0EDA8,5291432,8,11,,,聖なる実,Holy Fruit,10,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s2,0x08D86328,0x08D0EDB4,5291444,2,3,,,絹,Silk,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D0F140,0x08D0F1C3
+questfiltro__s1,0x08D8632C,0x08D0EDB8,5291448,12,15,,,レアスパイス,Rare Spice,10,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86330,0x08D0EDC8,5291464,12,15,,,エンゼルヘア,Angel Hair,10,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86334,0x08D0EDD8,5291480,12,15,,,貧弱なウロコ,Weak Scale,10,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86338,0x08D0EDE8,5291496,14,15,,,抜け落ちた羽根,Molted Feather,14,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8633C,0x08D0EDF8,5291512,10,11,,,乾いた触手,Dried Tentacle,14,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86340,0x08D0EE04,5291524,12,15,,,長いクチバシ,Long Beak,9,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86344,0x08D0EE14,5291540,12,15,,,スカスカの骨,Brittle Bone,12,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86348,0x08D0EE24,5291556,8,11,,,長い羽根,Long Feather,12,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8634C,0x08D0EE30,5291568,10,11,,,鉤のある針,Hooked Needle,13,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86350,0x08D0EE3C,5291580,12,15,,,堅守のウロコ,Sturdy Scale,12,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86354,0x08D0EE4C,5291596,14,15,,,なめらかな表皮,Smooth Hide,11,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86358,0x08D0EE5C,5291612,12,15,,,異常発達の骨,Overgrown Bone,14,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8635C,0x08D0EE6C,5291628,12,15,,,生暖かい触手,Warm Tentacle,13,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86360,0x08D0EE7C,5291644,16,19,,,いかついクチバシ,Fierce Beak,11,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86364,0x08D0EE90,5291664,8,11,,,滑る触手,Slippery Tentacle,17,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86368,0x08D0EE9C,5291676,10,11,,,遺恨放つ骨,Bone of Grudges,15,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D8636C,0x08D0EEA8,5291688,8,11,,,覇王の牙,Overlord's Fang,15,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86370,0x08D0EEB4,5291700,10,11,,,幻視のヒゲ,Whisker of Illusion,19,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86374,0x08D0EEC0,5291712,12,15,,,虹彩放つ羽根,Iridescent Feather,18,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+questfiltro__s1,0x08D86378,0x08D0EED0,5291728,12,15,,,全てを貫く針,All-Piercing Needle,19,../lotes/SIS-04_retorno.tsv,validado,,0x08D0E814,0x08D0EEDD
+elenco_hud_nomes__s1,0x08D833FC,0x08D05F64,5255012,16,19,,,クエストを受ける,Accept Quest,12,../lotes/SIS-04_retorno.tsv,validado,,0x08D05F64,0x08D05FD9
+elenco_hud_nomes__s1,0x08D83400,0x08D05F78,5255032,12,15,,,パーティ編成,Party Formation,15,../lotes/SIS-04_retorno.tsv,validado,,0x08D05F64,0x08D05FD9
+elenco_hud_nomes__s3,0x08D83404,0x08D05F88,5255048,12,15,,,パーティ解散,Disband Party,13,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s1,0x08D83408,0x08D05F98,5255064,8,11,,,転職する,Change Class,12,../lotes/SIS-04_retorno.tsv,validado,,0x08D05F64,0x08D05FD9
+elenco_hud_nomes__s1,0x08D8340C,0x08D05FA4,5255076,14,15,,,全員の装備変更,Change All Members' Equipment,29,../lotes/SIS-04_retorno.tsv,validado,,0x08D05F64,0x08D05FD9
+elenco_hud_nomes__s1,0x08D83410,0x08D05FB4,5255092,18,19,,,クエストを破棄する,Abandon Quest,13,../lotes/SIS-04_retorno.tsv,validado,,0x08D05F64,0x08D05FD9
+elenco_hud_nomes__s3,0x08D83414,0x08D05FC8,5255112,16,23,,,クエスト達成報告,Report Quest Completion,23,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83418,0x08D06100,5255424,8,11,,,情報切替,Switch Info,11,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s2,0x08D8341C,0x08D0610C,5255436,4,7,,,決定,OK,2,../lotes/SIS-04_retorno.tsv,validado,,0x08D06100,0x08D06119
+elenco_hud_nomes__s2,0x08D83420,0x08D06114,5255444,4,7,,,戻る,Back,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06100,0x08D06119
+elenco_hud_nomes__s3,0x08D83424,0x08D06208,5255688,4,7,,,無し,None,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83428,0x08D06210,5255696,6,7,,,クレス,Cress,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8342C,0x08D06218,5255704,6,7,,,ミント,Mint,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83430,0x08D06220,5255712,10,11,,,チェスター,Chester,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83434,0x08D0622C,5255724,8,11,,,アーチェ,Arche,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83438,0x08D06238,5255736,4,7,,,すず,Suzu,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8343C,0x08D06240,5255744,6,7,,,スタン,Stahn,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83440,0x08D06248,5255752,8,11,,,ルーティ,Rutee,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83444,0x08D06254,5255764,8,11,,,フィリア,Philia,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83448,0x08D06260,5255776,6,7,,,リオン,Leon,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8344C,0x08D06268,5255784,10,11,,,ウッドロウ,Woodrow,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83450,0x08D06274,5255796,10,11,,,チェルシー,Chelsea,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83454,0x08D06280,5255808,10,11,,,コングマン,Kongman,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83458,0x08D0628C,5255820,6,7,,,リリス,Lilith,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8345C,0x08D06294,5255828,6,7,,,リッド,Reid,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83460,0x08D0629C,5255836,6,7,,,ファラ,Farah,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83464,0x08D062A4,5255844,6,7,,,キール,Keele,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83468,0x08D062AC,5255852,8,11,,,メルディ,Meredy,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s1,0x08D8346C,0x08D062B8,5255864,8,11,,,チャット,Chat,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D05F64,0x08D05FD9
+elenco_hud_nomes__s3,0x08D83470,0x08D062C4,5255876,10,11,,,セルシウス,Celsius,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83474,0x08D062D0,5255888,6,7,,,カイル,Kyle,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83478,0x08D062D8,5255896,6,7,,,リアラ,Reala,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8347C,0x08D062E0,5255904,4,7,,,ロニ,Loni,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s2,0x08D83480,0x08D062E8,5255912,10,11,,,ジューダス,Judas,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06100,0x08D06119
+elenco_hud_nomes__s3,0x08D83484,0x08D062F4,5255924,8,11,,,ナナリー,Nanaly,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83488,0x08D06300,5255936,8,11,,,ハロルド,Harold,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8348C,0x08D0630C,5255948,6,7,,,ロイド,Lloyd,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83490,0x08D06314,5255956,8,11,,,コレット,Colette,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83494,0x08D06320,5255968,10,11,,,ジーニアス,Genis,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83498,0x08D0632C,5255980,8,11,,,リフィル,Raine,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8349C,0x08D06338,5255992,8,11,,,クラトス,Kratos,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834A0,0x08D06344,5256004,6,7,,,しいな,Sheena,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834A4,0x08D0634C,5256012,6,7,,,ゼロス,Zelos,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834A8,0x08D06354,5256020,8,11,,,プレセア,Presea,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834AC,0x08D06360,5256032,8,11,,,ヴェイグ,Veigue,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834B0,0x08D0636C,5256044,6,7,,,クレア,Claire,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834B4,0x08D06374,5256052,10,11,,,ユージーン,Eugene,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834B8,0x08D06380,5256064,4,7,,,マオ,Mao,3,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834BC,0x08D06388,5256072,10,11,,,ティトレイ,Tytree,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834C0,0x08D06394,5256084,6,7,,,アニー,Annie,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834C4,0x08D0639C,5256092,6,7,,,セネル,Senel,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834C8,0x08D063A4,5256100,10,11,,,シャーリィ,Shirley,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834CC,0x08D063B0,5256112,6,7,,,ウィル,Will,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834D0,0x08D063B8,5256120,6,7,,,クロエ,Chloe,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834D4,0x08D063C0,5256128,6,7,,,ノーマ,Norma,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s1,0x08D834D8,0x08D063C8,5256136,6,7,,,ジェイ,Jay,3,../lotes/SIS-04_retorno.tsv,validado,,0x08D05F64,0x08D05FD9
+elenco_hud_nomes__s3,0x08D834DC,0x08D063D0,5256144,6,7,,,ルーク,Luke,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834E0,0x08D063D8,5256152,6,7,,,ティア,Tear,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834E4,0x08D063E0,5256160,4,7,,,ガイ,Guy,3,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834E8,0x08D063E8,5256168,8,11,,,ジェイド,Jade,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834EC,0x08D063F4,5256180,6,7,,,アニス,Anise,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834F0,0x08D063FC,5256188,8,11,,,ナタリア,Natalia,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834F4,0x08D06408,5256200,8,11,,,アッシュ,Asch,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834F8,0x08D06414,5256212,6,7,,,ヴァン,Van,3,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D834FC,0x08D0641C,5256220,8,11,,,カイウス,Caius,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83500,0x08D06428,5256232,6,7,,,ルビア,Rubia,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83504,0x08D06430,5256240,4,7,,,ルカ,Ruca,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83508,0x08D06438,5256248,6,7,,,イリア,Iria,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8350C,0x08D06440,5256256,8,11,,,スパーダ,Spada,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83510,0x08D0644C,5256268,8,11,,,アンジュ,Ange,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83514,0x08D06458,5256280,8,11,,,リカルド,Ricardo,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83518,0x08D06464,5256292,6,7,,,ユーリ,Yuri,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8351C,0x08D0646C,5256300,8,11,,,エステル,Estelle,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83520,0x08D06478,5256312,10,11,,,ジュディス,Judith,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83524,0x08D06484,5256324,4,7,,,リタ,Rita,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83528,0x08D0648C,5256332,8,11,,,レイヴン,Raven,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8352C,0x08D06498,5256344,6,7,,,フレン,Flynn,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83530,0x08D064A0,5256352,6,7,,,エミル,Emil,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83534,0x08D064A8,5256360,6,7,,,マルタ,Marta,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83538,0x08D064B0,5256368,8,11,,,リヒター,Richter,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8353C,0x08D064BC,5256380,6,7,,,シング,Shing,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83540,0x08D064C4,5256388,6,7,,,コハク,Kohaku,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83544,0x08D064CC,5256396,6,7,,,ヒスイ,Hisui,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83548,0x08D064D4,5256404,8,11,,,アスベル,Asbel,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8354C,0x08D064E0,5256416,6,7,,,ソフィ,Sophie,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83550,0x08D064E8,5256424,8,11,,,シェリア,Cheria,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s1,0x08D83554,0x08D064F4,5256436,8,11,,,カノンノ,Kanonno,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D05F64,0x08D05FD9
+elenco_hud_nomes__s3,0x08D83558,0x08D06500,5256448,20,23,,,オリジナル・カノンノ,Original Kanonno,16,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s1,0x08D8355C,0x08D06518,5256472,16,19,,,パスカ・カノンノ,Pasca,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D05F64,0x08D05FD9
+elenco_hud_nomes__s1,0x08D83560,0x08D0652C,5256492,20,23,,,カノンノ・イアハート,Kanonno,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D05F64,0x08D05FD9
+elenco_hud_nomes__s3,0x08D83564,0x08D06544,5256516,6,7,,,ダオス,Dhaos,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83568,0x08D0654C,5256524,10,11,,,バルバトス,Barbatos,8,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8356C,0x08D06558,5256536,12,15,,,ユグドラシル,Yggdrasill,10,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s1,0x08D83570,0x08D06568,5256552,4,7,,,サレ,Saleh,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D05F64,0x08D05FD9
+elenco_hud_nomes__s3,0x08D83574,0x08D06570,5256560,6,7,,,ミミー,Mimmy,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83578,0x08D06578,5256568,10,11,,,クィッキー,Quickie,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8357C,0x08D06584,5256580,8,11,,,キュッポ,Kyuppo,6,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83580,0x08D06590,5256592,6,7,,,ピッポ,Pippo,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83584,0x08D06598,5256600,6,7,,,ポッポ,Poppo,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83588,0x08D065A0,5256608,6,7,,,コーダ,Coda,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8358C,0x08D065A8,5256616,6,7,,,アーダ,Arda,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83590,0x08D065B0,5256624,8,11,,,パニール,Panille,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83594,0x08D065BC,5256636,6,7,,,ニアタ,Niata,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83598,0x08D065C4,5256644,12,15,,,ウィダーシン,Widdershin,10,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D8359C,0x08D065D4,5256660,6,7,,,ゲーデ,Goede,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835A0,0x08D065DC,5256668,6,7,,,モルモ,Mormo,5,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835A4,0x08D065E4,5256676,8,11,,,ラザリス,Lazaris,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835A8,0x08D065E4,5256676,8,11,,,ラザリス,Lazaris,7,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835AC,0x08D065F0,5256688,8,11,,,ジョアン,Joan,4,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835B0,0x08D065FC,5256700,10,11,,,村長トマス,Mayor Thomas,12,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835B4,0x08D06608,5256712,12,15,,,男の子ジャン,Boy Jean,8,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835B8,0x08D06618,5256728,12,15,,,女の子ルシア,Girl Lucia,10,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835BC,0x08D06628,5256744,12,15,,,行商人ガメル,Merchant Gamel,14,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835C0,0x08D06638,5256760,14,15,,,夢見る少女リナ,Dreaming Girl Rina,18,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835C4,0x08D06648,5256776,18,19,,,新米狩人ジェロニモ,Novice Hunter Geronimo,22,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835C8,0x08D0665C,5256796,18,19,,,地方領主レイモンド,Local Lord Raymond,18,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835CC,0x08D06670,5256816,20,23,,,雑貨屋店主フンダクル,General Store Owner Fundakuru,29,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835D0,0x08D06688,5256840,16,19,,,細工職人ディアナ,Craftsman Diana,15,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835D4,0x08D0669C,5256860,14,15,,,収集家ヘラルド,Collector Herald,16,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835D8,0x08D066AC,5256876,14,15,,,占い婆アイーダ,Fortune Teller Aida,19,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835DC,0x08D066BC,5256892,18,19,,,鍛冶職人アレックス,Blacksmith Alex,15,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835E0,0x08D066D0,5256912,18,19,,,上級研究員ニコラス,Senior Researcher Nicholas,26,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835E4,0x08D066E4,5256932,18,19,,,警備隊隊長ダニエル,Guard Captain Daniel,20,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835E8,0x08D066F8,5256952,12,15,,,採鉱員ラモン,Miner Ramon,11,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835EC,0x08D06708,5256968,18,19,,,青年実業家エゴイツ,Young Entrepreneur Egoitz,25,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835F0,0x08D0671C,5256988,12,15,,,大地主マウイ,Landowner Maui,14,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835F4,0x08D0672C,5257004,20,23,,,セレブ夫人シルヴィア,Socialite Sylvia,16,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835F8,0x08D06744,5257028,16,19,,,美食家カロリーナ,Gourmet Carolina,16,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D835FC,0x08D06758,5257048,12,15,,,薬剤師ジェマ,Pharmacist Gemma,16,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83600,0x08D06768,5257064,12,15,,,整体師テレサ,Chiropractor Teresa,19,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_nomes__s3,0x08D83604,0x08D06778,5257080,6,7,,,？？？,???,3,../lotes/SIS-04_retorno.tsv,validado,,0x08D06208,0x08D0677F
+elenco_hud_labels,0x08D83620,0x08D0E478,5289080,4,7,,,戻る,Back,4,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83608,0x08D0E408,5288968,8,11,,,重要任務,Important Mission,17,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83628,0x08D0E408,5288968,8,11,,,重要任務,Important Mission,17,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8360C,0x08D0E414,5288980,12,15,,,退治クエスト,Extermination Quest,19,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8362C,0x08D0E414,5288980,12,15,,,退治クエスト,Extermination Quest,19,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83698,0x08D0E414,5288980,12,15,,,退治クエスト,Extermination Quest,19,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8369C,0x08D0E414,5288980,12,15,,,退治クエスト,Extermination Quest,19,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836A0,0x08D0E414,5288980,12,15,,,退治クエスト,Extermination Quest,19,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836B8,0x08D0E414,5288980,12,15,,,退治クエスト,Extermination Quest,19,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836C4,0x08D0E414,5288980,12,15,,,退治クエスト,Extermination Quest,19,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836CC,0x08D0E414,5288980,12,15,,,退治クエスト,Extermination Quest,19,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836D4,0x08D0E414,5288980,12,15,,,退治クエスト,Extermination Quest,19,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836D8,0x08D0E414,5288980,12,15,,,退治クエスト,Extermination Quest,19,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83610,0x08D0E424,5288996,12,15,,,納品クエスト,Delivery Quest,14,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83630,0x08D0E424,5288996,12,15,,,納品クエスト,Delivery Quest,14,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836A4,0x08D0E424,5288996,12,15,,,納品クエスト,Delivery Quest,14,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836A8,0x08D0E424,5288996,12,15,,,納品クエスト,Delivery Quest,14,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836AC,0x08D0E424,5288996,12,15,,,納品クエスト,Delivery Quest,14,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836B0,0x08D0E424,5288996,12,15,,,納品クエスト,Delivery Quest,14,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836C8,0x08D0E424,5288996,12,15,,,納品クエスト,Delivery Quest,14,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836D0,0x08D0E424,5288996,12,15,,,納品クエスト,Delivery Quest,14,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83614,0x08D0E434,5289012,20,23,,,アンジュにおまかせ！,Leave It to Ange!,17,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83634,0x08D0E434,5289012,20,23,,,アンジュにおまかせ！,Leave It to Ange!,17,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83618,0x08D0E44C,5289036,16,19,,,達成済みクエスト,Completed Quests,16,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83638,0x08D0E44C,5289036,16,19,,,達成済みクエスト,Completed Quests,16,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8361C,0x08D0E460,5289056,20,23,,,最近達成したクエスト,Recent Completions,18,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8363C,0x08D0E460,5289056,20,23,,,最近達成したクエスト,Recent Completions,18,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83624,0x08D0E480,5289088,20,23,,,クエストカテゴリ選択,Quest Category,14,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83640,0x08D0E498,5289112,6,7,,,経験率,Exp Rate,8,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83644,0x08D0E4A0,5289120,6,7,,,達成数,Completions,11,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83648,0x08D0E4A8,5289128,6,7,,,依頼人,Client,6,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8364C,0x08D0E4B0,5289136,34,35,,,現在受けているクエストはありません,No quests accepted.,19,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83650,0x08D0E4D4,5289172,6,7,,,難易度,Difficulty,10,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83654,0x08D0E4DC,5289180,4,7,,,種別,Type,4,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83658,0x08D0E4E4,5289188,6,7,,,目的地,Destination,11,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8365C,0x08D0E4EC,5289196,10,11,,,ターゲット,Target,6,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83660,0x08D0E4F8,5289208,6,7,,,目標数,Target Count,12,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83664,0x08D0E500,5289216,10,11,,,メンバー数,Member Count,12,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83668,0x08D0E50C,5289228,8,11,,,報酬候補,Reward Candidates,17,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8366C,0x08D0E518,5289240,8,11,,,メリット,Bonus,5,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83670,0x08D0E524,5289252,6,7,,,同行者,Companion,9,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83680,0x08D0E538,5289272,4,7,,,50％,50%,3,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83684,0x08D0E540,5289280,4,7,,,40％,40%,3,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83688,0x08D0E548,5289288,5,7,,,100％,100%,4,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8368C,0x08D0E550,5289296,4,7,,,30％,30%,3,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83690,0x08D0E558,5289304,4,7,,,15％,15%,3,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83694,0x08D0E560,5289312,4,7,,,なし,None,4,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836B4,0x08D0E568,5289320,12,15,,,対決クエスト,Showdown Quest,14,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836BC,0x08D0E578,5289336,10,11,,,重要任務！,Important Mission!,18,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836C0,0x08D0E584,5289348,12,15,,,特殊クエスト,Special Quest,13,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836E0,0x08D0E584,5289348,12,15,,,特殊クエスト,Special Quest,13,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836DC,0x08D0E594,5289364,12,15,,,決闘クエスト,Duel Quest,10,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836E4,0x08D0E5A4,5289380,4,7,,%d x1,%d人,%d People,9,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836E8,0x08D0E5AC,5289388,8,11,,%d x1,%dガルド,%d Gald,7,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836EC,0x08D0E5B8,5289400,13,15,,%d x2,%d（現在 %d）,%d (Current %d),15,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836F0,0x08D0E5C8,5289416,4,7,,%s x1,%s君,%s,2,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836F4,0x08D0E5D0,5289424,6,7,,%s x1,%sさん,%s,2,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836F8,0x08D0E5D8,5289432,22,23,,,メリットは付与しません,No bonus granted,16,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D836FC,0x08D0E5F0,5289456,17,19,,,獲得経験値5％増加,EXP Gained: +5%,14,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83700,0x08D0E604,5289476,11,11,,,採掘効果＋1,Mining Effect +1,16,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83704,0x08D0E610,5289488,13,15,,,レア獲得増＋5,Rare Find Rate +5,17,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83708,0x08D0E620,5289504,11,11,,,採取効果＋1,Gathering Effect +1,19,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8370C,0x08D0E62C,5289516,19,19,,,宝箱ドロップ効果＋1,Treasure Drop +1,16,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83710,0x08D0E640,5289536,18,19,,,獲得経験値10％増加,EXP Gained: +10%,15,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83714,0x08D0E654,5289556,11,11,,,採掘効果＋2,Mining Effect +2,16,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83718,0x08D0E660,5289568,14,15,,,レア獲得増＋10,Rare Find Rate +10,18,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8371C,0x08D0E670,5289584,11,11,,,採取効果＋2,Gathering Effect +2,19,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83720,0x08D0E67C,5289596,19,19,,,宝箱ドロップ効果＋2,Treasure Drop +2,16,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83724,0x08D0E690,5289616,18,19,,,獲得経験値15％増加,EXP Gained: +15%,15,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83728,0x08D0E6A4,5289636,11,11,,,採掘効果＋3,Mining Effect +3,16,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8372C,0x08D0E6B0,5289648,14,15,,,レア獲得増＋20,Rare Find Rate +20,18,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83730,0x08D0E6C0,5289664,11,11,,,採取効果＋3,Gathering Effect +3,19,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83734,0x08D0E6CC,5289676,19,19,,,宝箱ドロップ効果＋3,Treasure Drop +3,16,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83738,0x08D0E6E0,5289696,18,19,,,獲得経験値20％増加,EXP Gained: +20%,15,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8373C,0x08D0E6F4,5289716,11,11,,,採掘効果＋5,Mining Effect +5,16,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83740,0x08D0E700,5289728,14,15,,,レア獲得増＋30,Rare Find Rate +30,18,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83744,0x08D0E710,5289744,11,11,,,採取効果＋5,Gathering Effect +5,19,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83748,0x08D0E71C,5289756,19,19,,,宝箱ドロップ効果＋5,Treasure Drop +5,16,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8374C,0x08D0E730,5289776,18,19,,,獲得経験値30％増加,EXP Gained: +30%,15,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83750,0x08D0E744,5289796,12,15,,,採掘効果＋10,Mining Effect +10,17,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83754,0x08D0E754,5289812,14,15,,,レア獲得増＋40,Rare Find Rate +40,18,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83758,0x08D0E764,5289828,12,15,,,採取効果＋10,Gathering +10,13,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8375C,0x08D0E774,5289844,20,23,,,宝箱ドロップ効果＋10,Treasure Drop +10,17,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83760,0x08D0E78C,5289868,6,7,,,片手剣,One-Handed Sword,16,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83764,0x08D0E794,5289876,6,7,,,両手剣,Two-Handed Sword,16,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83768,0x08D0E79C,5289884,4,7,,,短剣,Dagger,6,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8376C,0x08D0E7A4,5289892,2,3,,,斧,Axe,3,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83770,0x08D0E7A8,5289896,2,3,,,杖,Staff,5,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83774,0x08D0E7AC,5289900,2,3,,,拳,Fist,4,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83778,0x08D0E7B0,5289904,2,3,,,弓,Bow,3,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8377C,0x08D0E7B4,5289908,4,7,,,拳銃,Handgun,7,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83780,0x08D0E7BC,5289916,8,11,,,特殊武器,Special Weapon,14,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83784,0x08D0E7C8,5289928,8,11,,,雑貨武器,Misc Weapon,11,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83788,0x08D0E7D4,5289940,2,3,,,鎧,Armor,5,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8378C,0x08D0E7D8,5289944,2,3,,,服,Clothing,8,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83790,0x08D0E7DC,5289948,6,7,,,ローブ,Robe,4,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83794,0x08D0E7E4,5289956,2,3,,,兜,Helm,4,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83798,0x08D0E7E8,5289960,4,7,,,帽子,Hat,3,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D8379C,0x08D0E7F0,5289968,6,7,,,顔装備,Face Gear,9,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D837A0,0x08D0E7F8,5289976,4,7,,,籠手,Gauntlets,9,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D837A4,0x08D0E800,5289984,4,7,,,腕輪,Bracelet,8,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D837A8,0x08D0E808,5289992,6,7,,,足装備,Footwear,8,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D837AC,0x08D0E810,5290000,2,3,,,盾,Shield,6,../lotes/SIS-04_retorno.tsv,validado,,,
+elenco_hud_labels,0x08D83674,0x08D0E52C,5289260,3,3,sim,,1/3,(verbatim),3,ja-ascii,validado,"ja e ASCII, mantido verbatim",,
+elenco_hud_labels,0x08D83678,0x08D0E530,5289264,3,3,sim,,2/3,(verbatim),3,ja-ascii,validado,"ja e ASCII, mantido verbatim",,
+elenco_hud_labels,0x08D8367C,0x08D0E534,5289268,3,3,sim,,3/3,(verbatim),3,ja-ascii,validado,"ja e ASCII, mantido verbatim",,
+menu_batalha,0x08D654BC,0x08CF4FA4,5185444,18,19,,,ミッションタイトル,Mission Title,13,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654C0,0x08CF4FB8,5185464,8,11,,,ボーナス,Bonus,5,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654C4,0x08CF4FC4,5185476,4,7,,,定員,Capacity,8,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654C8,0x08CF4FCC,5185484,10,11,,,ターゲット,Target,6,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654CC,0x08CF4FD8,5185496,24,27,,,定員をオーバーしています,Capacity exceeded,17,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654D0,0x08CF4FF4,5185524,44,47,,,パーティメンバーにターゲットが含まれています,A party member is included as a target,38,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654D4,0x08CF5024,5185572,22,23,,%s x1,ミッションタイトル  %s,Mission Title  %s,17,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654D8,0x08CF503C,5185596,18,19,,,ミッションボーナス,Mission Bonus,13,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654DC,0x08CF5050,5185616,18,19,,,ミッションレコード,Mission Record,14,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654E0,0x08CF5064,5185636,12,15,,,最大ＨＩＴ数,Max Hit Count,13,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65624,0x08CF5064,5185636,12,15,,,最大ＨＩＴ数,Max Hit Count,13,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654E4,0x08CF5074,5185652,18,19,,,最大ヒットダメージ,Max Hit Damage,14,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65628,0x08CF5074,5185652,18,19,,,最大ヒットダメージ,Max Hit Damage,14,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654E8,0x08CF5088,5185672,14,15,,,最速クリア時間,Fastest Clear Time,18,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6562C,0x08CF5088,5185672,14,15,,,最速クリア時間,Fastest Clear Time,18,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654EC,0x08CF5098,5185688,16,19,,,最大獲得グレード,Max Grade Earned,16,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65630,0x08CF5098,5185688,16,19,,,最大獲得グレード,Max Grade Earned,16,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654F0,0x08CF50AC,5185708,26,27,,,特定アイテム名がありません,No specific item name,21,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654F4,0x08CF50C8,5185736,7,7,,,＋%2d％,+%2d%,5,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654F8,0x08CF50D0,5185744,5,7,,,＋%2d,+%2d,4,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D654FC,0x08CF50D8,5185752,30,31,,,ミッションボーナスがありません,No mission bonus,16,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65500,0x08CF50F8,5185784,10,11,,,ミッション,Mission,7,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65504,0x08CF5104,5185796,12,15,,,パーティ編成,Party Formation,15,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65508,0x08CF5114,5185812,12,15,,,パーティ解散,Disband Party,13,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6550C,0x08CF5124,5185828,20,23,,,スペシャルミッション,Special Mission,15,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65510,0x08CF513C,5185852,14,15,,,ミッション開始,Start Mission,13,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65514,0x08CF514C,5185868,17,19,,,戦闘BGMを変更する,Change Battle BGM,17,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65518,0x08CF5160,5185888,22,23,,,ミッションを開始します,Starts the mission,18,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6551C,0x08CF5178,5185912,42,43,,,ミッションで使用する戦闘ＢＧＭを変更します,Changes the battle BGM used in the mission,42,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65520,0x08CF51A4,5185956,36,39,,,まだ変更可能な戦闘ＢＧＭがありません,There is no battle BGM available to change yet,46,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65524,0x08CF51CC,5185996,14,15,,,デフォルト演奏,Default Playback,16,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65528,0x08CF51DC,5186012,12,15,,,ランダム演奏,Random Playback,15,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6552C,0x08CF51EC,5186028,20,23,,,全戦闘曲から選択する,Select from all battle themes,29,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65530,0x08CF5204,5186052,22,23,,,通常戦闘曲から選択する,Select from normal battle themes,32,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65534,0x08CF521C,5186076,22,23,,,ボス戦闘曲から選択する,Select from boss battle themes,30,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65538,0x08CF5234,5186100,18,19,,,シリーズで絞り込む,Filter by series,16,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6553C,0x08CF5248,5186120,22,23,,,アーティストで絞り込む,Filter by artist,16,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65540,0x08CF5260,5186144,38,39,,,曲の指定は行わず、標準の曲を演奏します,Plays the standard theme without specifying a song,50,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65544,0x08CF5288,5186184,36,39,,,選択可能な曲からランダムで演奏します,Plays a random song from the selectable themes,46,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65548,0x08CF52B0,5186224,32,35,,,全ての選択可能な曲から選択します,Selects from all selectable themes,34,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6554C,0x08CF52D4,5186260,28,31,,,通常戦闘曲の中から選択します,Selects from the normal battle themes,37,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65550,0x08CF52F4,5186292,28,31,,,ボス戦闘曲の中から選択します,Selects from the boss battle themes,35,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65554,0x08CF5314,5186324,28,31,,,シリーズ別に曲を絞り込みます,Filters songs by series,23,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65558,0x08CF5334,5186356,32,35,,,アーティスト別に曲を絞り込みます,Filters songs by artist,23,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6555C,0x08CF5358,5186392,26,27,,,テイルズ オブ ファンタジア,Tales of Phantasia,18,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65560,0x08CF5374,5186420,26,27,,,テイルズ オブ デスティニー,Tales of Destiny,16,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65564,0x08CF5390,5186448,24,27,,,テイルズ オブ エターニア,Tales of Eternia,16,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65568,0x08CF53AC,5186476,23,23,,,テイルズ オブ ジ アビス,Tales of the Abyss,18,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6556C,0x08CF53C4,5186500,28,31,,,テイルズ オブ デスティニー２,Tales of Destiny 2,18,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65570,0x08CF53E4,5186532,26,27,,,テイルズ オブ シンフォニア,Tales of Symphonia,18,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65574,0x08CF5400,5186560,22,23,,,テイルズ オブ リバース,Tales of Rebirth,16,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65578,0x08CF5418,5186584,28,31,,,テイルズ オブ レジェンディア,Tales of Legendia,17,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6557C,0x08CF5438,5186616,27,27,,,テイルズ オブ ザ テンペスト,Tales of the Tempest,20,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65580,0x08CF5454,5186644,24,27,,,テイルズ オブ イノセンス,Tales of Innocence,18,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65584,0x08CF5470,5186672,26,27,,,テイルズ オブ ヴェスペリア,Tales of Vesperia,17,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65588,0x08CF548C,5186700,28,31,,,ＴＯＳ　−ラタトスクの騎士−,Tales of Symphonia: Dawn of the New World,41,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6558C,0x08CF54AC,5186732,20,23,,,テイルズ オブ ハーツ,Tales of Hearts,15,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65590,0x08CF54C4,5186756,24,27,,,テイルズ オブ グレイセス,Tales of Graces,15,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65594,0x08CF54E0,5186784,25,27,,,レディアント マイソロジー,Radiant Mythology,17,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65598,0x08CF54FC,5186812,27,27,,,レディアント マイソロジー２,Radiant Mythology 2,19,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6559C,0x08CF5518,5186840,27,27,,,レディアント マイソロジー３,Radiant Mythology 3,19,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655A0,0x08CF5534,5186868,52,55,,,テイルズ オブ ファンタジアの戦闘曲の中から選択します,Selects from the Tales of Phantasia battle themes,49,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655A4,0x08CF556C,5186924,52,55,,,テイルズ オブ デスティニーの戦闘曲の中から選択します,Selects from the Tales of Destiny battle themes,47,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655A8,0x08CF55A4,5186980,50,51,,,テイルズ オブ エターニアの戦闘曲の中から選択します,Selects from the Tales of Eternia battle themes,47,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655AC,0x08CF55D8,5187032,49,51,,,テイルズ オブ ジ アビスの戦闘曲の中から選択します,Selects from the Tales of the Abyss battle themes,49,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655B0,0x08CF560C,5187084,54,55,,,テイルズ オブ デスティニー２の戦闘曲の中から選択します,Selects from the Tales of Destiny 2 battle themes,49,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655B4,0x08CF5644,5187140,52,55,,,テイルズ オブ シンフォニアの戦闘曲の中から選択します,Selects from the Tales of Symphonia battle themes,49,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655B8,0x08CF567C,5187196,48,51,,,テイルズ オブ リバースの戦闘曲の中から選択します,Selects from the Tales of Rebirth battle themes,47,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655BC,0x08CF56B0,5187248,54,55,,,テイルズ オブ レジェンディアの戦闘曲の中から選択します,Selects from the Tales of Legendia battle themes,48,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655C0,0x08CF56E8,5187304,53,55,,,テイルズ オブ ザ テンペストの戦闘曲の中から選択します,Selects from the Tales of the Tempest battle themes,51,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655C4,0x08CF5720,5187360,50,51,,,テイルズ オブ イノセンスの戦闘曲の中から選択します,Selects from the Tales of Innocence battle themes,49,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655C8,0x08CF5754,5187412,52,55,,,テイルズ オブ ヴェスペリアの戦闘曲の中から選択します,Selects from the Tales of Vesperia battle themes,48,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655CC,0x08CF578C,5187468,54,55,,,ＴＯＳ　−ラタトスクの騎士−の戦闘曲の中から選択します,Selects from the Tales of Symphonia: Dawn of the New World battle themes,72,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655D0,0x08CF57C4,5187524,46,47,,,テイルズ オブ ハーツの戦闘曲の中から選択します,Selects from the Tales of Hearts battle themes,46,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655D4,0x08CF57F4,5187572,50,51,,,テイルズ オブ グレイセスの戦闘曲の中から選択します,Selects from the Tales of Graces battle themes,46,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655D8,0x08CF5828,5187624,51,51,,,レディアント マイソロジーの戦闘曲の中から選択します,Selects from the Radiant Mythology battle themes,48,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655DC,0x08CF585C,5187676,53,55,,,レディアント マイソロジー２の戦闘曲の中から選択します,Selects from the Radiant Mythology 2 battle themes,50,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655E0,0x08CF5894,5187732,53,55,,,レディアント マイソロジー３の戦闘曲の中から選択します,Selects from the Radiant Mythology 3 battle themes,50,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655E4,0x08CF58CC,5187788,7,7,,,桜庭 統,Motoi Sakuraba,14,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655E8,0x08CF58D4,5187796,9,11,,,中村 和宏,Kazuhiro Nakamura,17,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655EC,0x08CF58E0,5187808,7,7,,,椎名 豪,Go Shiina,9,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655F0,0x08CF58E8,5187816,49,51,,,桜庭 統氏が作曲／編曲した戦闘曲の中から選択します,Selects from battle themes composed/arranged by Motoi Sakuraba,62,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655F4,0x08CF591C,5187868,51,51,,,中村 和宏氏が作曲／編曲した戦闘曲の中から選択します,Selects from battle themes composed/arranged by Kazuhiro Nakamura,65,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655F8,0x08CF5950,5187920,49,51,,,椎名 豪氏が作曲／編曲した戦闘曲の中から選択します,Selects from battle themes composed/arranged by Go Shiina,57,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D655FC,0x08CF5984,5187972,52,55,,,ミッションを追加する為のパスワードを入力してください,Please enter a password to add a mission,40,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65600,0x08CF59BC,5188028,26,27,,,パスワードの入力を終了する,Finish entering password,24,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65604,0x08CF59D8,5188056,26,27,,,パスワードの入力を継続する,Continue entering password,26,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65608,0x08CF59F4,5188084,32,35,,%s x1,ミッション「%s」が追加されました,"Mission ""%s"" has been added",27,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6560C,0x08CF5A18,5188120,28,31,,,パスワードが正しくありません,The password is incorrect,25,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65610,0x08CF5A38,5188152,40,43,,,既に追加されたミッションのパスワードです,This mission's password has already been added,46,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65614,0x08CF5A64,5188196,28,31,,,今回の戦闘結果を記録しました,This battle's results have been recorded,40,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65618,0x08CF5A84,5188228,24,27,,,ミッションに勝利しました,You won the mission,19,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6561C,0x08CF5AA0,5188256,24,27,,,ミッションに敗北しました,You lost the mission,20,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65620,0x08CF5ABC,5188284,22,23,,%s x1,%sの記録を更新しました,Updated the record for %s,25,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65634,0x08CF5AD4,5188308,16,19,,%s x1,%sを獲得しました,Obtained %s,11,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65638,0x08CF5AE8,5188328,51,51,,%s x1 LF x1,所持アイテムが一杯のため、\n%sを獲得できませんでした,"Your item pouch is full, so\nyou could not obtain %s",51,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6563C,0x08CF5B1C,5188380,22,23,,%s x1,%sの称号を獲得しました,Obtained the title %s,21,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65640,0x08CF5B34,5188404,18,19,,%s x1,%sを手に入れました,Got %s,6,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65644,0x08CF5B48,5188424,8,11,,,再戦する,Rematch,7,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65648,0x08CF5B54,5188436,16,19,,,再戦せずに抜ける,Exit without a rematch,22,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6564C,0x08CF5B68,5188456,4,7,,,決定,OK,2,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65650,0x08CF5B70,5188464,4,7,,,戻る,Back,4,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65654,0x08CF5B78,5188472,4,7,,,再生,Play,4,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65658,0x08CF5B80,5188480,10,11,,,ページ送り,Next Page,9,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6565C,0x08CF5B8C,5188492,4,7,,,削除,Delete,6,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65660,0x08CF5B94,5188500,14,15,,,ヒットダメージ,Hit Damage,10,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65664,0x08CF5BA4,5188516,22,23,,,キャラを選択して下さい,Please select a character,25,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65668,0x08CF5BBC,5188540,14,15,,,アイテムの選択,Item Selection,14,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6566C,0x08CF5BCC,5188556,10,11,,,術技の設定,Arte Settings,13,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65670,0x08CF5BD8,5188568,10,11,,,作戦の設定,Strategy Settings,17,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65674,0x08CF5BE4,5188580,4,7,,,弱点,Weakness,8,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65678,0x08CF5BEC,5188588,4,7,,,得意,Strength,8,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6567C,0x08CF5BF4,5188596,14,15,,,ターゲット選択,Target Selection,16,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65680,0x08CF5C04,5188612,36,39,,,術技の設定、及び術技の使用を行います,Set and use Artes,17,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65684,0x08CF5C2C,5188652,38,39,,,連携奥義で使用する術技の設定を行います,Set the Artes used in Mystic Artes chains,41,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65688,0x08CF5C54,5188692,38,39,,,基本行動、及び優先行動の設定を行います,Set basic and priority actions,30,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6568C,0x08CF5C7C,5188732,30,31,,,武器、防具などの変更を行います,"Change weapons, armor, and more",31,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65690,0x08CF5C9C,5188764,24,27,,,アイテムの使用を行います,Use items,9,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65694,0x08CF5CB8,5188792,24,27,,,戦闘からの逃走を行います,Flee from battle,16,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D65698,0x08CF5CD4,5188820,26,27,,,戦闘からの逃走を解除します,Cancel fleeing from battle,26,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D6569C,0x08CF5CF0,5188848,30,31,,,行動中に装備の変更は出来ません,You cannot change equipment while acting,40,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D656A0,0x08CF5D10,5188880,6,7,,,術・技,Artes,5,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D656A4,0x08CF5D18,5188888,4,7,,,連携,Link,4,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D656A8,0x08CF5D20,5188896,4,7,,,作戦,Strategy,8,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D656AC,0x08CF5D28,5188904,4,7,,,装備,Equipment,9,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D656B0,0x08CF5D30,5188912,4,7,,,道具,Item,4,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D656B4,0x08CF5D38,5188920,4,7,,,逃走,Flee,4,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D656B8,0x08CF5D40,5188928,9,11,,,逃走解除 ,Cancel Flee,11,../lotes/SIS-04_retorno.tsv,validado,,,
+menu_batalha,0x08D656BC,0x08CF5D4C,5188940,10,11,,,デフォルト,Default,7,../lotes/SIS-04_retorno.tsv,validado,,,

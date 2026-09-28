@@ -1,0 +1,45 @@
+name: Text overflow / garbled
+description: Text cut off, running outside its box or window, overlapping, or showing broken characters.
+title: "[Overflow] "
+labels: ["overflow"]
+body:
+  - type: input
+    id: build
+    attributes:
+      label: Build
+      description: Patch version you are testing.
+      placeholder: en20
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: Chapter, town/dungeon, NPC or menu, and what you were doing.
+      placeholder: "Item menu → Weapons, description of the third sword"
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What happens
+      options:
+        - Text is cut off
+        - Text runs outside its box/window
+        - Text overlaps other text or graphics
+        - Garbled / wrong characters
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drag and drop an image here. Required for this kind of problem.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Optional. Anything else (the visible part of the text, whether it happens every time, etc.).

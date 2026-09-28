@@ -1,0 +1,136 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev31_010.scr:0	cev31_010.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	今の仕掛け、びっくりしたなぁ。\nまさか横に開くなんて……	That trap earlier really startled me.\nTo think it would open sideways...	
+cev31_010.scr:1	cev31_010.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x2	心理トラップって奴さ。\n扉っていったら、大抵は\n押し引きするタイプの奴が一般的だろ？	It's what they call a mind trap.\nWhen people think of doors, they usually\nexpect them to push or pull open, right?	
+cev31_010.scr:2	cev31_010.scr	2	しいな	Sheena Fujibayashi	personagem	CRLF x1	その先入観を利用して、まるで\n開かずの扉の様に見せかけるってわけさ	By exploiting that preconception,\nit looks just like an impassable door.	
+cev31_010.scr:3	cev31_010.scr	3	カイル	Kyle Dunamis	personagem		先入観か……ふむふむ	A preconception, huh... Hmm, hmm.	
+cev31_010.scr:4	cev31_010.scr	4	カイル	Kyle Dunamis	personagem	CRLF x2	じゃあ、人に知られたくない内緒の扉は\n全部さっきみたいにしとけば\nいいって事なんだね！	Then if you want a secret door hidden,\nyou should just make every single door\nopen sideways like that one, right?!	
+cev31_010.scr:5	cev31_010.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x1	いや、全部そうしちまったら\n仕掛けが一般的になっちまうだろ……	No, if you make every door like that,\nthe trick just becomes the new norm...	
+cev31_020.scr:0	cev31_020.scr	0	カイル	Kyle Dunamis	personagem	CRLF x1	辛かった日も、楽しかった日も\n自分には宝物……かぁ	Painful days and joyful days alike\nare all treasures to oneself... huh.	
+cev31_020.scr:1	cev31_020.scr	1	カイル	Kyle Dunamis	personagem		いい言葉だね！	That's a really wonderful phrase!	
+cev31_020.scr:2	cev31_020.scr	2	しいな	Sheena Fujibayashi	personagem		そ、そうかい？	Y-You think so?	
+cev31_020.scr:3	cev31_020.scr	3	カイル	Kyle Dunamis	personagem	CRLF x2	うん。\nだって辛い事があったら\nつい否定したくなるのが普通でしょ？	Yeah.\nAfter all, when painful things happen,\npeople usually want to deny them, right?	
+cev31_020.scr:4	cev31_020.scr	4	カイル	Kyle Dunamis	personagem		忘れたりとか、誤魔化したりとか	Like trying to forget or brush them off.	
+cev31_020.scr:5	cev31_020.scr	5	カイル	Kyle Dunamis	personagem		でも、しいなは違うんだね	But you're different, Sheena.	
+cev31_020.scr:6	cev31_020.scr	6	カイル	Kyle Dunamis	personagem	CRLF x2	そういうのも\n全部宝物に出来るんだ。\nすごいよ	You're able to make all of that\ninto your own treasures.\nThat's really incredible.	
+cev31_020.scr:7	cev31_020.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x2	……それを教えてくれた友達がいたんだよ。\n逃げてばかりだったあたしを、体を張って\n叱ったり、励ましてくれたんだ……	...I had a friend who taught me that.\nWhen I was constantly running away,\nthey put it on the line to guide me...	
+cev31_020.scr:8	cev31_020.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x1	その子のおかげで\n今のあたしがここにいるのさ	Thanks to that friend,\nI'm standing here today.	
+cev31_020.scr:9	cev31_020.scr	9	カイル	Kyle Dunamis	personagem		へぇ〜、そうだったんだ……	Whoa... is that so......	
+cev31_020.scr:10	cev31_020.scr	10	カイル	Kyle Dunamis	personagem		その友達って、すごい人だったんだね！	That friend must be an amazing person!	
+cev31_020.scr:11	cev31_020.scr	11	しいな	Sheena Fujibayashi	personagem		……ああ、そうだね……	......Yeah, they really are......	
+cev31_020.scr:12	cev31_020.scr	12	しいな	Sheena Fujibayashi	personagem		多分、一生頭が上がらないよ	I'll be in their debt my whole life.	
+cev31_030.scr:0	cev31_030.scr	0	しいな	Sheena Fujibayashi	personagem		…………	......	
+cev31_030.scr:1	cev31_030.scr	1	カイル	Kyle Dunamis	personagem	CRLF x1	何？\nオレの顔に何か付いてる？	What is it?\nDo I have something on my face?	
+cev31_030.scr:2	cev31_030.scr	2	しいな	Sheena Fujibayashi	personagem	CRLF x2	前から思ってたんだけどさ。\nな〜んか、どっかでカイルに似たのを\n見た様な気がするんだよね	I've been thinking about this a while.\nI swear I've seen something somewhere\nthat looks just like you, Kyle.	
+cev31_030.scr:3	cev31_030.scr	3	カイル	Kyle Dunamis	personagem		ぎくっ！	Gulp!	
+cev31_030.scr:4	cev31_030.scr	4	しいな	Sheena Fujibayashi	personagem		何だろう……う〜ん	What could it be... Hmmm.	
+cev31_030.scr:5	cev31_030.scr	5	カイル	Kyle Dunamis	personagem	CRLF x2	えっと、ほら、オ、オレなんて\nその辺にいくらでもいる顔って\nいうか…	U-Um, well, you see...\nI have the kind of face you can find\njust about anywhere, you know...?	
+cev31_030.scr:6	cev31_030.scr	6	カイル	Kyle Dunamis	personagem	CRLF x1	世界には似た顔の人間が\n何人もいるって話だし	People say there are several folks\nwith identical faces in the world!	
+cev31_030.scr:7	cev31_030.scr	7	しいな	Sheena Fujibayashi	personagem		あっ、わかった	Ah, I've got it!	
+cev31_030.scr:8	cev31_030.scr	8	カイル	Kyle Dunamis	personagem		えっ！？	Huh?!	
+cev31_030.scr:9	cev31_030.scr	9	しいな	Sheena Fujibayashi	personagem		栗だ！！	A chestnut!!	
+cev31_030.scr:10	cev31_030.scr	10	カイル	Kyle Dunamis	personagem		く……栗？	A... A chestnut?	
+cev31_030.scr:11	cev31_030.scr	11	しいな	Sheena Fujibayashi	personagem	CRLF x2	ほら、そのツンツン頭がさ。\nあたしの里の栗の木が\n毎年付ける実にソックリなんだよ	See, that spiky hair of yours!\nIt's the spitting image of chestnuts\ngrown back in my home village every year!	
+cev31_030.scr:12	cev31_030.scr	12	しいな	Sheena Fujibayashi	personagem		懐かしいねえ	Takes me right back.	
+cev31_030.scr:13	cev31_030.scr	13	カイル	Kyle Dunamis	personagem		似てるって……そっち？	THAT is what looked like me?!	
+cev31_040.scr:0	cev31_040.scr	0	リッド	Reid Hershel	personagem	CRLF x2	何だか、あっという間に\n随分遠い所まで\n来ちまったよなぁ……	Somehow, in the blink of an eye,\nwe've come such a long, long way\nfrom where we started......	
+cev31_040.scr:1	cev31_040.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x1	何だい、いきなり。\n随分しんみりしてるじゃないか	What's with you all of a sudden?\nYou're sounding pretty sentimental.	
+cev31_040.scr:2	cev31_040.scr	2	キール	Keele Zeibel	personagem	CRLF x2	無理もないさ。\nリッドはもともと食事と睡眠が仕事みたいな\n生活をしていたんだ	It is only natural. Reid used to live\nas though eating and sleeping were\nhis full-time occupation.	
+cev31_040.scr:3	cev31_040.scr	3	キール	Keele Zeibel	personagem	CRLF x1	世界の為に先陣を切って戦うなんて、\n本来は一番縁遠い人間だろうな	Taking the lead to fight for the world\nis the last thing you'd expect of him.	
+cev31_040.scr:4	cev31_040.scr	4	リッド	Reid Hershel	personagem	CRLF x1	何だよ、その言い方。\nオレの事、馬鹿にしてんのか？	What's that supposed to mean?!\nAre you making fun of me?!	
+cev31_040.scr:5	cev31_040.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x2	まあまあ、いいじゃねえか。\nとにかくこうして、おれ達はみんなで\n力を合わせて戦ってる	Come on, take it easy. The point is,\nwe're all here right now, joining our\nstrength together and fighting.	
+cev31_040.scr:6	cev31_040.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x1	それは多分、多くの人の助けや\n未来に繋がる戦いなんだとおれは思う	I believe this fight will help many folks\nand lead toward a brighter future.	
+cev31_040.scr:7	cev31_040.scr	7	ティトレイ	Tytree Crowe	personagem	CRLF x1	確かに、ちっとばかしスケールのでかい\n話になっちまったかもしれねえが	Sure, the scale of things might have\ngotten a little out of hand, but...	
+cev31_040.scr:8	cev31_040.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x1	結果的にみんなが幸せになるんなら、\nおれは最後まで戦うぜ	if it makes everyone happy in the end,\nthen I'll fight until the very end!	
+cev31_040.scr:9	cev31_040.scr	9	ルーティ	Rutee Katrea	personagem		いつも思うけど……	I've always thought this, but......	
+cev31_040.scr:10	cev31_040.scr	10	ルーティ	Rutee Katrea	personagem	CRLF x2	ティトレイって、たまに\n物語の正統派主人公みたいな事\nごく自然に言うわよねぇ〜	Tytree, you sometimes say things like\na classic storybook hero without even\nbreaking a sweat, don't you~?	
+cev31_040.scr:11	cev31_040.scr	11	ルーティ	Rutee Katrea	personagem	CRLF x2	でも、そうね。\nあんたのそういう考え方\n嫌いじゃないわよ	Still, you have a point.\nI certainly don't dislike\nthat way of thinking of yours.	
+cev31_040.scr:12	cev31_040.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x1	顔も知らない、だけどこの世界に\n確かに存在している誰かの為に	For people whose faces we do not know,\nyet who truly exist in this world...	
+cev31_040.scr:13	cev31_040.scr	13	しいな	Sheena Fujibayashi	personagem	CRLF x1	そして、何よりも\nあたし達自身の為に……	And above all else,\nfor our very own sakes......	
+cev31_040.scr:14	cev31_040.scr	14	しいな	Sheena Fujibayashi	personagem	CRLF x1	きっちり戦い抜こうじゃないか。\nあたし達に出来る、精一杯でさ	Let's see this fight through to the end,\ngiving it everything we have!	
+cev31_040.scr:15	cev31_040.scr	15	リッド	Reid Hershel	personagem		どこかの誰かの未来の為に、か……	For the future of someone, somewhere...	
+cev31_040.scr:16	cev31_040.scr	16	リッド	Reid Hershel	personagem	CRLF x2	そうだな。\nどうせだったら、結末はとびっきりの\nハッピーエンドにしてやろうぜ	Yeah. If we're gonna do this,\nwe might as well give this tale\nthe happiest ending possible!	
+cev31_040.scr:17	cev31_040.scr	17	キール	Keele Zeibel	personagem		当然だな	Naturally.	
+cev31_040.scr:18	cev31_040.scr	18	ティトレイ	Tytree Crowe	personagem	CRLF x1	ああ。\nおれ達は一人じゃない	Yeah.\nWe aren't alone in this.	
+cev31_040.scr:19	cev31_040.scr	19	ティトレイ	Tytree Crowe	personagem		必ずやれるさ！	We can definitely do it!	
+cev31_050.scr:0	cev31_050.scr	0	ティア	Tear Grants	personagem		やっぱり、そうよね……	I thought as much......	
+cev31_050.scr:1	cev31_050.scr	1	ミント	Mint Adenade	personagem	CRLF x1	はい……それが一番、\n楽な姿勢ではないかと思います	Yes... I believe that is the most\ncomfortable posture to take.	
+cev31_050.scr:2	cev31_050.scr	2	クロエ	Chloe Valens	personagem	CRLF x1	全く……我が身の事ながら\n不便極まりないな	Honestly... though it is my own body,\nit proves exceedingly inconvenient.	
+cev31_050.scr:3	cev31_050.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x1	ほんとだねえ……肩は凝るし、\n走りづらいし……	Tell me about it... Shoulders get stiff,\nand it makes running a pain...	
+cev31_050.scr:4	cev31_050.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x2	胸なんて、あって喜ぶのはスケベ男共だけで\n当のあたしらには、これっぽっちも\nいい事なんてありゃしないよ	The only ones happy about having boobs\nare perverted men! For us, there's not\na single good thing about them!	
+cev31_050.scr:5	cev31_050.scr	5	アーチェ	Arche Klein	personagem	CRLF x1	ちょっとちょっと、どったの〜？\nみんな揃って、深刻な顔しちゃって	Hey, hey, what's going on~?\nWhy does everyone have such grim faces?	
+cev31_050.scr:6	cev31_050.scr	6	アーチェ	Arche Klein	personagem	CRLF x1	このアーチェさんに\nど〜〜んと相談してみなさい！	Come on, talk to Arche here!\nLay it all on me!	
+cev31_050.scr:7	cev31_050.scr	7	ミント	Mint Adenade	personagem	CRLF x1	いえ……すみません。\n深刻な話というのとは、少し違うのです	No... my apologies.\nIt is not really such a serious matter.	
+cev31_050.scr:8	cev31_050.scr	8	ティア	Tear Grants	personagem	CRLF x1	眠る時に、どういう姿勢が一番楽か、\n話をしていたの	We were discussing which position\nis most comfortable when sleeping.	
+cev31_050.scr:9	cev31_050.scr	9	アーチェ	Arche Klein	personagem	CRLF x1	ほえ？　\n寝る時の姿勢？	Huh?\nSleeping positions?	
+cev31_050.scr:10	cev31_050.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x2	要約すると、やっぱり、\nうつぶせが圧倒的に\n楽って事になりそうだね	To sum it up, it seems sleeping on\none's stomach is overwhelmingly\nthe easiest way to rest.	
+cev31_050.scr:11	cev31_050.scr	11	クロエ	Chloe Valens	personagem	CRLF x2	そうだな。\n何と言っても、\n呼吸のしやすさが違う	Indeed.\nAbove all else, the ease of\nbreathing is completely different.	
+cev31_050.scr:12	cev31_050.scr	12	アーチェ	Arche Klein	personagem	CRLF x2	え〜？　そう？\nあたしはそんな風に思った事\nないけどなぁ	Ehh? Really?\nI've never felt that way at all,\npersonally.	
+cev31_050.scr:13	cev31_050.scr	13	アーチェ	Arche Klein	personagem	CRLF x1	ねえ、仰向けじゃ\nどうしていけないの？	Hey, why can't you\njust sleep on your back?	
+cev31_050.scr:14	cev31_050.scr	14	クロエ	Chloe Valens	personagem	CRLF x1	そ……それはだな……。\nこう、単純に重いというか……	Th-That is, well...\nIt is simply heavy, you see...	
+cev31_050.scr:15	cev31_050.scr	15	ミント	Mint Adenade	personagem		息苦しい感じがします……よね？	It feels suffocating... doesn't it?	
+cev31_050.scr:16	cev31_050.scr	16	アーチェ	Arche Klein	personagem	CRLF x1	重いって、何が？\nあたしはそんな事ないよ？	What's heavy?\nNothing like that happens to me!	
+cev31_050.scr:17	cev31_050.scr	17	しいな	Sheena Fujibayashi	personagem	CRLF x2	ほら、こういうのは\n個人差があるからさ。\n……ねえ、ティア？	Well, this sort of thing\nvaries from person to person.\n...Right, Tear?	
+cev31_050.scr:18	cev31_050.scr	18	ティア	Tear Grants	personagem		え、ええ……そうね	Y-Yes... that's true.	
+cev31_050.scr:19	cev31_050.scr	19	アーチェ	Arche Klein	personagem		？？？	???	
+cev31_051.scr:0	cev31_051.scr	0	ティア	Tear Grants	personagem		やっぱり、そうよね……	I thought as much......	
+cev31_051.scr:1	cev31_051.scr	1	ジュディス	Judith	personagem	CRLF x1	私も、それが一番\n楽な姿勢のような気がするわ	I feel that is the most comfortable\nposture to take as well.	
+cev31_051.scr:2	cev31_051.scr	2	ミント	Mint Adenade	personagem	CRLF x2	あまり知られていませんが\n実は、日常生活で\n不便を感じる事は多いですよね……	Though not widely known, it often causes\nmany inconveniences in daily life,\ndoesn't it......?	
+cev31_051.scr:3	cev31_051.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x1	ほんとだねえ……肩は凝るし、\n走りづらいし……	Tell me about it... Shoulders get stiff,\nand it makes running a pain...	
+cev31_051.scr:4	cev31_051.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x2	胸なんて、あって喜ぶのはスケベ男共だけで\n当のあたしらには、これっぽっちも\n良い事なんてありゃしないよ	The only ones happy about having boobs\nare perverted men! For us, there's not\na single good thing about them!	
+cev31_051.scr:5	cev31_051.scr	5	アーチェ	Arche Klein	personagem	CRLF x1	ちょっとちょっと、どったの〜？\n皆揃って、深刻な顔しちゃって	Hey, hey, what's going on~?\nWhy does everyone have such grim faces?	
+cev31_051.scr:6	cev31_051.scr	6	アーチェ	Arche Klein	personagem	CRLF x1	このアーチェさんに\nど〜〜んと相談してみなさい！	Come on, talk to Arche here!\nLay it all on me!	
+cev31_051.scr:7	cev31_051.scr	7	ミント	Mint Adenade	personagem	CRLF x1	いえ……すみません。\n深刻な話というのとは、少し違うのです	No... my apologies.\nIt is not really such a serious matter.	
+cev31_051.scr:8	cev31_051.scr	8	ティア	Tear Grants	personagem	CRLF x1	眠る時に、どういう姿勢が一番楽か、\n話をしていたの	We were discussing which position\nis most comfortable when sleeping.	
+cev31_051.scr:9	cev31_051.scr	9	アーチェ	Arche Klein	personagem		ほえ？　寝る時の姿勢？	Huh? Sleeping positions?	
+cev31_051.scr:10	cev31_051.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x2	要約すると、やっぱり、\nうつぶせが圧倒的に\n楽って事になりそうだね	To sum it up, it seems sleeping on\none's stomach is overwhelmingly\nthe easiest way to rest.	
+cev31_051.scr:11	cev31_051.scr	11	ジュディス	Judith	personagem	CRLF x1	そうね。\n明らかに、呼吸のしやすさが違うもの	Indeed.\nBreathing is clearly so much easier.	
+cev31_051.scr:12	cev31_051.scr	12	アーチェ	Arche Klein	personagem	CRLF x2	え〜？　そう？\nあたしはそんな風に\n思った事ないけどなぁ	Ehh? Really?\nI've never felt that way at all,\npersonally.	
+cev31_051.scr:13	cev31_051.scr	13	アーチェ	Arche Klein	personagem		ねえ、仰向けじゃどうしていけないの？	Hey, why can't you sleep on your back?	
+cev31_051.scr:14	cev31_051.scr	14	ティア	Tear Grants	personagem	CRLF x1	そ……それは……\nその、単純に重いから……	Th-That is......\nWell, it is simply heavy......	
+cev31_051.scr:15	cev31_051.scr	15	ミント	Mint Adenade	personagem		息苦しい感じがします……よね？	It feels suffocating... doesn't it?	
+cev31_051.scr:16	cev31_051.scr	16	アーチェ	Arche Klein	personagem	CRLF x1	重いって、何が？\nあたしはそんな事ないよ？	What's heavy?\nNothing like that happens to me!	
+cev31_051.scr:17	cev31_051.scr	17	しいな	Sheena Fujibayashi	personagem	CRLF x1	ほら、こういうのは個人差があるからさ。\n……ねえ、ジュディス？	Well, this varies from person to person.\n...Right, Judith?	
+cev31_051.scr:18	cev31_051.scr	18	ジュディス	Judith	personagem		うふふ……そうね	Ufufu... that's true.	
+cev31_051.scr:19	cev31_051.scr	19	アーチェ	Arche Klein	personagem		？？？	???	
+cev31_200.scr:0	cev31_200.scr	0	しいな	Sheena Fujibayashi	personagem	CRLF x1	通常。\n	Normal.\n	
+cev31_200.scr:1	cev31_200.scr	1	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:2	cev31_200.scr	2	しいな	Sheena Fujibayashi	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev31_200.scr:3	cev31_200.scr	3	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:4	cev31_200.scr	4	しいな	Sheena Fujibayashi	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev31_200.scr:5	cev31_200.scr	5	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:6	cev31_200.scr	6	しいな	Sheena Fujibayashi	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev31_200.scr:7	cev31_200.scr	7	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:8	cev31_200.scr	8	しいな	Sheena Fujibayashi	personagem	CRLF x1	真剣。\n	Serious.\n	
+cev31_200.scr:9	cev31_200.scr	9	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:10	cev31_200.scr	10	しいな	Sheena Fujibayashi	personagem	CRLF x1	微笑。\n	Smile.\n	
+cev31_200.scr:11	cev31_200.scr	11	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:12	cev31_200.scr	12	しいな	Sheena Fujibayashi	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev31_200.scr:13	cev31_200.scr	13	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:14	cev31_200.scr	14	しいな	Sheena Fujibayashi	personagem	CRLF x1	通常。\n	Normal.\n	
+cev31_200.scr:15	cev31_200.scr	15	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:16	cev31_200.scr	16	しいな	Sheena Fujibayashi	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev31_200.scr:17	cev31_200.scr	17	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:18	cev31_200.scr	18	しいな	Sheena Fujibayashi	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev31_200.scr:19	cev31_200.scr	19	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:20	cev31_200.scr	20	しいな	Sheena Fujibayashi	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev31_200.scr:21	cev31_200.scr	21	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:22	cev31_200.scr	22	しいな	Sheena Fujibayashi	personagem	CRLF x1	真剣。\n	Serious.\n	
+cev31_200.scr:23	cev31_200.scr	23	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:24	cev31_200.scr	24	しいな	Sheena Fujibayashi	personagem	CRLF x1	微笑。\n	Smile.\n	
+cev31_200.scr:25	cev31_200.scr	25	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:26	cev31_200.scr	26	しいな	Sheena Fujibayashi	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev31_200.scr:27	cev31_200.scr	27	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:28	cev31_200.scr	28	しいな	Sheena Fujibayashi	personagem	CRLF x1	通常。\n	Normal.\n	
+cev31_200.scr:29	cev31_200.scr	29	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:30	cev31_200.scr	30	しいな	Sheena Fujibayashi	personagem	CRLF x1	笑い。\n	Laughter.\n	
+cev31_200.scr:31	cev31_200.scr	31	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:32	cev31_200.scr	32	しいな	Sheena Fujibayashi	personagem	CRLF x1	怒り。\n	Anger.\n	
+cev31_200.scr:33	cev31_200.scr	33	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:34	cev31_200.scr	34	しいな	Sheena Fujibayashi	personagem	CRLF x1	悲しみ。\n	Sadness.\n	
+cev31_200.scr:35	cev31_200.scr	35	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:36	cev31_200.scr	36	しいな	Sheena Fujibayashi	personagem	CRLF x1	真剣。\n	Serious.\n	
+cev31_200.scr:37	cev31_200.scr	37	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:38	cev31_200.scr	38	しいな	Sheena Fujibayashi	personagem	CRLF x1	微笑。\n	Smile.\n	
+cev31_200.scr:39	cev31_200.scr	39	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	
+cev31_200.scr:40	cev31_200.scr	40	しいな	Sheena Fujibayashi	personagem	CRLF x1	照れ。\n	Blushing.\n	
+cev31_200.scr:41	cev31_200.scr	41	しいな	Sheena Fujibayashi	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 	Red leather, yellow leather, A-E-I-O-U,\nShe sells seashells by the seashore,\nPeter Piper picked pickled peppers.	

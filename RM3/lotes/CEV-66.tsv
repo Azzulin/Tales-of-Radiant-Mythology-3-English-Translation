@@ -1,0 +1,161 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+cev66_010.scr:0	cev66_010.scr	0	ジュディス	Judith	personagem		キール？		
+cev66_010.scr:1	cev66_010.scr	1	ジュディス	Judith	personagem	CRLF x1	ずっと足元ばかり見ているけれど\nどうかしたのかしら？		
+cev66_010.scr:2	cev66_010.scr	2	キール	Keele Zeibel	personagem		な……何でもない！		
+cev66_010.scr:3	cev66_010.scr	3	キール	Keele Zeibel	personagem	CRLF x2	ぼくはただ、意味もなく女性の肌を\n視界に入れるべきではないという\n常識的かつ当然の判断に基づいて……		
+cev66_010.scr:4	cev66_010.scr	4	ジュディス	Judith	personagem	CRLF x1	あら。\n照れているの？		
+cev66_010.scr:5	cev66_010.scr	5	キール	Keele Zeibel	personagem	CRLF x1	違う！　\nそうじゃなくて……		
+cev66_010.scr:6	cev66_010.scr	6	ジュディス	Judith	personagem	CRLF x1	ふふ。\n隠さなくてもいいのに		
+cev66_010.scr:7	cev66_010.scr	7	ジュディス	Judith	personagem	CRLF x1	こういう時は\n自分に素直になってもいいのよ		
+cev66_010.scr:8	cev66_010.scr	8	キール	Keele Zeibel	personagem		だ……だから		
+cev66_010.scr:9	cev66_010.scr	9	キール	Keele Zeibel	personagem	CRLF x1	そんなんじゃないって\n言ってるだろう……		
+cev66_010.scr:10	cev66_010.scr	10	ジュディス	Judith	personagem		あらあら		
+cev66_010.scr:11	cev66_010.scr	11	ジュディス	Judith	personagem	CRLF x1	かわいいわね。\nうふふ		
+cev66_020.scr:0	cev66_020.scr	0	ジュディス	Judith	personagem		あなた、随分勉強熱心なのね		
+cev66_020.scr:1	cev66_020.scr	1	キール	Keele Zeibel	personagem	CRLF x2	当然だ。\n知識は有しているだけでは\nただの情報に過ぎないが		
+cev66_020.scr:2	cev66_020.scr	2	キール	Keele Zeibel	personagem	CRLF x1	利用の仕方によっては、多くを生み出し\n多くを助ける術にも成り得る		
+cev66_020.scr:3	cev66_020.scr	3	キール	Keele Zeibel	personagem	CRLF x2	だからぼくは、ぼくの知らない事を知りたい。\nそして、得た知識から、この世界の未来を\n切り開く手段を絶対に見つけてみせる		
+cev66_020.scr:4	cev66_020.scr	4	キール	Keele Zeibel	personagem	CRLF x2	「オルタ・ビレッジ」を\nただの理想で終わらせない為にも\nそれは必要な事なんだ		
+cev66_020.scr:5	cev66_020.scr	5	ジュディス	Judith	personagem		志が高いのね		
+cev66_020.scr:6	cev66_020.scr	6	ジュディス	Judith	personagem	CRLF x1	あなたの知らない世界の情報なんて、\nそれこそ限りがないと思うけど		
+cev66_030.scr:0	cev66_030.scr	0	ジェイド	Jade Curtiss	personagem		ふぅ……		
+cev66_030.scr:1	cev66_030.scr	1	ジュディス	Judith	personagem	CRLF x1	あら、あなたが溜め息を吐くなんて\n珍しいわね？		
+cev66_030.scr:2	cev66_030.scr	2	ジェイド	Jade Curtiss	personagem	CRLF x1	おやおや、聞かれてしまいましたか。\nお恥ずかしいところを		
+cev66_030.scr:3	cev66_030.scr	3	ジュディス	Judith	personagem	CRLF x2	ふふ、恥ずかしいなんて思ってない、\nそんな顔してるわよ。\n何か悩み事でも？		
+cev66_030.scr:4	cev66_030.scr	4	ジェイド	Jade Curtiss	personagem		少し、一連の出来事を思い返していました		
+cev66_030.scr:5	cev66_030.scr	5	ジェイド	Jade Curtiss	personagem	CRLF x2	我々は、クーデターから逃れる為に、\nほとんど着の身着のままの状態で\n国外に出ざるを得ませんでしたから		
+cev66_030.scr:6	cev66_030.scr	6	ジェイド	Jade Curtiss	personagem	CRLF x2	もともと、他国の様に\n大きな国ではないですし\n軍事力も心許ないですしね		
+cev66_030.scr:7	cev66_030.scr	7	ジュディス	Judith	personagem	CRLF x1	それは、仕方のない事ではなくて？\n王女の身を最優先に考えた結果でしょ？		
+cev66_030.scr:8	cev66_030.scr	8	ジェイド	Jade Curtiss	personagem	CRLF x2	ええ。\nですが、結局\n民衆の不満を抑えるには至っておらず		
+cev66_030.scr:9	cev66_030.scr	9	ジェイド	Jade Curtiss	personagem	CRLF x1	星晶の問題も、世界を覆い尽くしたまま\n先が見えません		
+cev66_030.scr:10	cev66_030.scr	10	ジュディス	Judith	personagem	CRLF x1	その星晶がきっかけになって、\nうちの王女様も先走ってしまったのよね		
+cev66_030.scr:11	cev66_030.scr	11	ジュディス	Judith	personagem	CRLF x1	おかげで、ユーリも私も\n追われる身になったわけだし		
+cev66_030.scr:12	cev66_030.scr	12	ジュディス	Judith	personagem	CRLF x2	ただ、エステルの考えもわからなくはないわ。\nお城に閉じ込められて、\n状況を見守るだけなんて苦痛よね		
+cev66_030.scr:13	cev66_030.scr	13	ジェイド	Jade Curtiss	personagem	CRLF x1	そんな王女様達に随行する我々と言うのも\nなかなか、どうしてですねぇ		
+cev66_030.scr:14	cev66_030.scr	14	ジュディス	Judith	personagem	CRLF x1	あら、でも最善策だからこそ、行動して\nあなたも私もここにいるのでしょう？		
+cev66_030.scr:15	cev66_030.scr	15	ジュディス	Judith	personagem	CRLF x1	客観的に違うと思えば、\nここにはいないわよね		
+cev66_030.scr:16	cev66_030.scr	16	ジェイド	Jade Curtiss	personagem		んー、さすがですねぇ〜		
+cev66_030.scr:17	cev66_030.scr	17	ジェイド	Jade Curtiss	personagem	CRLF x1	本質的な考え方において\n我々は似た者同士と言ったところですか？		
+cev66_030.scr:18	cev66_030.scr	18	ジュディス	Judith	personagem		私は、あまり嬉しくないわ		
+cev66_030.scr:19	cev66_030.scr	19	ジェイド	Jade Curtiss	personagem		おやおや、つれないお返事ですね		
+cev66_040.scr:0	cev66_040.scr	0	ティトレイ	Tytree Crowe	personagem	CRLF x2	そういや、知ってるか？\n最近、名前をくっ付けて呼ぶのが、\n流行ってるらしいぜ		
+cev66_040.scr:1	cev66_040.scr	1	ロニ	Loni Dunamis	personagem		あれだろ、ナタリアニーとか		
+cev66_040.scr:2	cev66_040.scr	2	ロニ	Loni Dunamis	personagem		リフィルーティアとかだろ？		
+cev66_040.scr:3	cev66_040.scr	3	ティトレイ	Tytree Crowe	personagem	CRLF x1	そうそう、それそれ。\n最初に考えた奴、頭いいよな		
+cev66_040.scr:4	cev66_040.scr	4	ティトレイ	Tytree Crowe	personagem	CRLF x1	なんたって、まとめて呼ぶのが\n楽になるもんな		
+cev66_040.scr:5	cev66_040.scr	5	ロニ	Loni Dunamis	personagem	CRLF x2	いやー、そうは言うけど\nあんまりくっ付けると、\n誰が誰だかわかんなくならねぇか？		
+cev66_040.scr:6	cev66_040.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x2	まぁな。\n二人ぐらいだったら\nわかりやすそうだけどな		
+cev66_040.scr:7	cev66_040.scr	7	ティトレイ	Tytree Crowe	personagem	CRLF x1	そうだ、せっかくだから\n新しい呼び方考えようぜ		
+cev66_040.scr:8	cev66_040.scr	8	ティトレイ	Tytree Crowe	personagem	CRLF x1	後ろに付けるんじゃなくて、\n名前を合体、みたいな感じで		
+cev66_040.scr:9	cev66_040.scr	9	ロニ	Loni Dunamis	personagem	CRLF x2	それで、もっと\n呼びやすくしようってか？\nなるほどな		
+cev66_040.scr:10	cev66_040.scr	10	ロニ	Loni Dunamis	personagem	CRLF x1	だったら、普段呼びにくい奴の\n名前を合体したらいいんじゃねぇか？		
+cev66_040.scr:11	cev66_040.scr	11	ティトレイ	Tytree Crowe	personagem		呼びにくいのかぁ〜		
+cev66_040.scr:12	cev66_040.scr	12	ティトレイ	Tytree Crowe	personagem	CRLF x2	呼びにくいつーか、\n似た者同士で声かけ辛いのは、\nジェイドとジュディス辺りか？		
+cev66_040.scr:13	cev66_040.scr	13	ロニ	Loni Dunamis	personagem	CRLF x2	あー、わかるわかる！\n何か、雰囲気あり過ぎて\n声掛けにくいんだよなぁ		
+cev66_040.scr:14	cev66_040.scr	14	ロニ	Loni Dunamis	personagem	CRLF x2	特にジェイドなんてよ、\nつまんねえヘマでもしたら\n裏とかに連れてかれて、何かされそうだしな		
+cev66_040.scr:15	cev66_040.scr	15	ティトレイ	Tytree Crowe	personagem	CRLF x1	そうすっと、\nジェイドとジュディスだから……		
+cev66_040.scr:16	cev66_040.scr	16	ティトレイ	Tytree Crowe	personagem		ジェディス！		
+cev66_040.scr:17	cev66_040.scr	17	ティトレイ	Tytree Crowe	personagem	CRLF x2	ぎゃははは！\nジェディスだって、\nジェディス！！！		
+cev66_040.scr:18	cev66_040.scr	18	ロニ	Loni Dunamis	personagem	CRLF x2	あははは！\nふたりと真逆の\n性格っぽく聞こえるな！！！		
+cev66_040.scr:19	cev66_040.scr	19	ティトレイ	Tytree Crowe	personagem		どうも、「ジェディス」です		
+cev66_040.scr:20	cev66_040.scr	20	ティトレイ	Tytree Crowe	personagem		なんっつてな！		
+cev66_040.scr:21	cev66_040.scr	21	ロニ	Loni Dunamis	personagem	CRLF x2	だーはははは！！！\nなんだ、それ！\nまるっきり、別人だろ！！！		
+cev66_040.scr:22	cev66_040.scr	22	ジェイド	Jade Curtiss	personagem	CRLF x1	おやおや、\n随分楽しそうですねぇ		
+cev66_040.scr:23	cev66_040.scr	23	ティトレイ	Tytree Crowe	personagem		え……、い、いや……		
+cev66_040.scr:24	cev66_040.scr	24	ジュディス	Judith	personagem		余程、楽しいお話だったのね？		
+cev66_040.scr:25	cev66_040.scr	25	ロニ	Loni Dunamis	personagem		そ、その……		
+cev66_040.scr:26	cev66_040.scr	26	ジェイド	Jade Curtiss	personagem	CRLF x1	せっかくですから、\n続きを……		
+cev66_040.scr:27	cev66_040.scr	27	ジュディス	Judith	personagem		裏で聞かせてもらおうかしら？		
+cev66_040.scr:28	cev66_040.scr	28	ティトレイ	Tytree Crowe	personagem		すいませんでしたーーーーー！！！！！		
+cev66_040.scr:29	cev66_040.scr	29	ジェイド	Jade Curtiss	personagem	CRLF x1	おやおや、\n何を怖がってるのか		
+cev66_040.scr:30	cev66_040.scr	30	ジュディス	Judith	personagem		ほんと、ね？		
+cev66_050.scr:0	cev66_050.scr	0	マオ	Mao	personagem	CRLF x2	ねー、ジュディス。\n「ボクの」指、\nどれでもいいから握ってみて！		
+cev66_050.scr:1	cev66_050.scr	1	ジュディス	Judith	personagem	CRLF x1	あら。\n何かのテストかしら？		
+cev66_050.scr:2	cev66_050.scr	2	マオ	Mao	personagem	CRLF x1	うん！\nちょっとした心理テストなんだ♪		
+cev66_050.scr:3	cev66_050.scr	3	ジュディス	Judith	personagem		それなら、はい、ココ		
+cev66_050.scr:4	cev66_050.scr	4	マオ	Mao	personagem	CRLF x1	ひょ、ひょっと！\nひょれは、ボキュの鼻ぢゃヨ！		
+cev66_050.scr:5	cev66_050.scr	5	ジュディス	Judith	personagem		うふふ、そうだったかしら？		
+cev66_050.scr:6	cev66_050.scr	6	ジュディス	Judith	personagem	CRLF x1	そんなに慌てて……。\nかわいいカウンセラーさんね		
+cev66_050.scr:7	cev66_050.scr	7	マオ	Mao	personagem		も、もうーーー！！！		
+cev66_060.scr:0	cev66_060.scr	0	ジュディス	Judith	personagem	CRLF x1	あら。\nその布、捨ててしまうの？		
+cev66_060.scr:1	cev66_060.scr	1	スタン	Stahn Aileron	personagem	CRLF x1	ああ、古くてちょっと傷んでるんだ。\nもったいないけど、もう使えないし		
+cev66_060.scr:2	cev66_060.scr	2	ジュディス	Judith	personagem	CRLF x1	本当にそうかしら？\n例えば、それを雑巾にするのはどう？		
+cev66_060.scr:3	cev66_060.scr	3	スタン	Stahn Aileron	personagem	CRLF x1	ああ、なるほど！\nそれならまだ使えるな		
+cev66_060.scr:4	cev66_060.scr	4	ジュディス	Judith	personagem		ふふ、限りある資源は大切にしないと		
+cev66_060.scr:5	cev66_060.scr	5	スタン	Stahn Aileron	personagem	CRLF x1	それって、「資源の再利用」ってやつか？\n何かそんな話、ロイドもしてたなぁ……		
+cev66_060.scr:6	cev66_060.scr	6	スタン	Stahn Aileron	personagem		結局、何をするのがいい事なんだろう？		
+cev66_060.scr:7	cev66_060.scr	7	ジュディス	Judith	personagem	CRLF x1	では、逆に聞くけれど。\n「いい事」というのはどういう事かしら？		
+cev66_060.scr:8	cev66_060.scr	8	スタン	Stahn Aileron	personagem	CRLF x1	へっ？　\nえーと……		
+cev66_060.scr:9	cev66_060.scr	9	ジュディス	Judith	personagem	CRLF x1	物事の真意は、考え方一つで\nどうとでも変わってしまうわ		
+cev66_060.scr:10	cev66_060.scr	10	ジュディス	Judith	personagem	CRLF x1	絶対の「いい事」なんて、\n存在しないと思うけど？		
+cev66_060.scr:11	cev66_060.scr	11	スタン	Stahn Aileron	personagem	CRLF x1	でも、絶対に悪い事はあるだろ？\nいい事だけないなんて、おかしいじゃないか		
+cev66_060.scr:12	cev66_060.scr	12	ジュディス	Judith	personagem	CRLF x2	そうかしら？\n自分の為にしかならない「いい事」を\nする人間がいるとしたら、どう？		
+cev66_060.scr:13	cev66_060.scr	13	スタン	Stahn Aileron	personagem	CRLF x2	それはだめだ。\nいい事をするなら、みんなの為に\nなる事をしなくちゃ		
+cev66_060.scr:14	cev66_060.scr	14	ジュディス	Judith	personagem	CRLF x1	ふふ。\nそういう事よ		
+cev66_060.scr:15	cev66_060.scr	15	ジュディス	Judith	personagem	CRLF x2	問題は、\n多くの「悪い事」は、「いい事」の皮を\n被せられている……という事ね		
+cev66_060.scr:16	cev66_060.scr	16	スタン	Stahn Aileron	personagem	CRLF x2	……そっか……。\nじゃあ俺達も、知る努力をなまけちゃ\nいけないって事なんだな		
+cev66_060.scr:17	cev66_060.scr	17	ジュディス	Judith	personagem	CRLF x2	ところで、今の話。\n私が悪人なら、正に\nあなたを騙している事になるけれど？		
+cev66_060.scr:18	cev66_060.scr	18	スタン	Stahn Aileron	personagem		ジュディスが悪人？		
+cev66_060.scr:19	cev66_060.scr	19	スタン	Stahn Aileron	personagem	CRLF x1	そんなわけないじゃないか。\n俺は、ジュディスがいい奴だって信じるよ！		
+cev66_060.scr:20	cev66_060.scr	20	ジュディス	Judith	personagem	CRLF x2	うふふ。\n私が「いい」皮を被っていたら、\nどうするつもりなのかしら？		
+cev66_070.scr:0	cev66_070.scr	0	ジュディス	Judith	personagem		私の耳に、何か付いているかしら？		
+cev66_070.scr:1	cev66_070.scr	1	シャーリィ	Shirley Fennes	personagem		えっ？		
+cev66_070.scr:2	cev66_070.scr	2	シャーリィ	Shirley Fennes	personagem	CRLF x1	いえ、ごめんなさい。\nジロジロ見たりして……失礼ですよね		
+cev66_070.scr:3	cev66_070.scr	3	ジュディス	Judith	personagem	CRLF x1	うふふ、いいのよ。\nこの耳が珍しいのでしょう？		
+cev66_070.scr:4	cev66_070.scr	4	シャーリィ	Shirley Fennes	personagem	CRLF x2	……はい。\nクリティア族の方と話すのは\n初めてで……その、つい……		
+cev66_070.scr:5	cev66_070.scr	5	ジュディス	Judith	personagem		触ってみる？		
+cev66_070.scr:6	cev66_070.scr	6	ジュディス	Judith	personagem	CRLF x2	遠慮しなくてもいいのよ？\n未知のものに興味を持つのは、\n悪い事ではないわ		
+cev66_070.scr:7	cev66_070.scr	7	シャーリィ	Shirley Fennes	personagem		あ……あの……ごめんなさい！		
+cev66_070.scr:8	cev66_070.scr	8	ジュディス	Judith	personagem	CRLF x1	あらあら。\nどうして逃げるのかしら？		
+cev66_070.scr:9	cev66_070.scr	9	クラトス	Kratos Aurion	personagem	CRLF x1	……ジュディス。\nあまり若い者をからかうな		
+cev66_070.scr:10	cev66_070.scr	10	ジュディス	Judith	personagem	CRLF x2	あら。\n私が怒られてしまうのね。\nでも、たまにはこういうのも新鮮ね		
+cev66_070.scr:11	cev66_070.scr	11	クラトス	Kratos Aurion	personagem		…………		
+cev66_080.scr:0	cev66_080.scr	0	アニス	Anise Tatlin	personagem		ジュディスはいいよね〜		
+cev66_080.scr:1	cev66_080.scr	1	アニス	Anise Tatlin	personagem	CRLF x1	スタイル抜群だし、美人だし\n女の私でも憧れちゃうっていうかぁ〜☆		
+cev66_080.scr:2	cev66_080.scr	2	ジュディス	Judith	personagem		あら、あなたも十分可愛いわよ		
+cev66_080.scr:3	cev66_080.scr	3	アニス	Anise Tatlin	personagem	CRLF x1	またまた、そんな〜。\n上手い事言っちゃって		
+cev66_080.scr:4	cev66_080.scr	4	アニス	Anise Tatlin	personagem	CRLF x2	リップサービスの上手な大人は、\nきっと男の人にも\nモテモテなんでしょうねぇ		
+cev66_080.scr:5	cev66_080.scr	5	ジュディス	Judith	personagem	CRLF x1	私は、お世辞なんて言わないわ。\n思った事を口にしているだけよ		
+cev66_080.scr:6	cev66_080.scr	6	アニス	Anise Tatlin	personagem	CRLF x1	ええー。\nそんな、まさか〜		
+cev66_080.scr:7	cev66_080.scr	7	アニス	Anise Tatlin	personagem	CRLF x1	お世辞を言わないなんて、\nさすがにそれは冗談ですよねえ		
+cev66_080.scr:8	cev66_080.scr	8	ジュディス	Judith	personagem		私は、冗談は嫌いよ？		
+cev66_080.scr:9	cev66_080.scr	9	アニス	Anise Tatlin	personagem	CRLF x1	（う……マジで本心が見えない。\n　怖ッ……！）		
+cev66_080.scr:10	cev66_080.scr	10	ジュディス	Judith	personagem	CRLF x1	そんなに怖がらなくても。\n私は、いつでも優しいわよ？		
+cev66_080.scr:11	cev66_080.scr	11	アニス	Anise Tatlin	personagem		はぅあ！　聞こえてた……		
+cev66_080.scr:12	cev66_080.scr	12	ジュディス	Judith	personagem		うふふ……		
+cev66_200.scr:0	cev66_200.scr	0	ジュディス	Judith	personagem	CRLF x1	通常。\n		
+cev66_200.scr:1	cev66_200.scr	1	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:2	cev66_200.scr	2	ジュディス	Judith	personagem	CRLF x1	笑い。\n		
+cev66_200.scr:3	cev66_200.scr	3	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:4	cev66_200.scr	4	ジュディス	Judith	personagem	CRLF x1	怒り。\n		
+cev66_200.scr:5	cev66_200.scr	5	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:6	cev66_200.scr	6	ジュディス	Judith	personagem	CRLF x1	悲しみ。\n		
+cev66_200.scr:7	cev66_200.scr	7	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:8	cev66_200.scr	8	ジュディス	Judith	personagem	CRLF x1	呆れ。\n		
+cev66_200.scr:9	cev66_200.scr	9	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:10	cev66_200.scr	10	ジュディス	Judith	personagem	CRLF x1	微笑。\n		
+cev66_200.scr:11	cev66_200.scr	11	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:12	cev66_200.scr	12	ジュディス	Judith	personagem	CRLF x1	通常。\n		
+cev66_200.scr:13	cev66_200.scr	13	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:14	cev66_200.scr	14	ジュディス	Judith	personagem	CRLF x1	笑い。\n		
+cev66_200.scr:15	cev66_200.scr	15	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:16	cev66_200.scr	16	ジュディス	Judith	personagem	CRLF x1	怒り。\n		
+cev66_200.scr:17	cev66_200.scr	17	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:18	cev66_200.scr	18	ジュディス	Judith	personagem	CRLF x1	悲しみ。\n		
+cev66_200.scr:19	cev66_200.scr	19	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:20	cev66_200.scr	20	ジュディス	Judith	personagem	CRLF x1	呆れ。\n		
+cev66_200.scr:21	cev66_200.scr	21	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:22	cev66_200.scr	22	ジュディス	Judith	personagem	CRLF x1	微笑。\n		
+cev66_200.scr:23	cev66_200.scr	23	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:24	cev66_200.scr	24	ジュディス	Judith	personagem	CRLF x1	通常。\n		
+cev66_200.scr:25	cev66_200.scr	25	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:26	cev66_200.scr	26	ジュディス	Judith	personagem	CRLF x1	笑い。\n		
+cev66_200.scr:27	cev66_200.scr	27	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:28	cev66_200.scr	28	ジュディス	Judith	personagem	CRLF x1	怒り。\n		
+cev66_200.scr:29	cev66_200.scr	29	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:30	cev66_200.scr	30	ジュディス	Judith	personagem	CRLF x1	悲しみ。\n		
+cev66_200.scr:31	cev66_200.scr	31	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:32	cev66_200.scr	32	ジュディス	Judith	personagem	CRLF x1	呆れ。\n		
+cev66_200.scr:33	cev66_200.scr	33	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		
+cev66_200.scr:34	cev66_200.scr	34	ジュディス	Judith	personagem	CRLF x1	微笑。\n		
+cev66_200.scr:35	cev66_200.scr	35	ジュディス	Judith	personagem	CRLF x2	あめんぼ赤いなアイウエオ\n柿木栗の木カキクケコ\n大角豆に酢をかけサシスセソ 		

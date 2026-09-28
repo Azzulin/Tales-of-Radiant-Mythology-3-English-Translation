@@ -1,0 +1,223 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev24_010.scr:0	mev24_010.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	わたし達の世界ルミナシアと、\nラザリスの世界ジルディア…		
+mev24_010.scr:1	mev24_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	今回の依頼は、この二つの世界の\n存在を賭けての大仕事よ		
+mev24_010.scr:2	mev24_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	あなたが果たす目的は一つ。\nエラン・ヴィタールへ進入し、\nルミナシアを守る事		
+mev24_010.scr:3	mev24_010.scr	3	アンジュ	Ange Serena	personagem	CRLF x1	あの空間に行ったところで、\n何が出来るかはわからないけれど…		
+mev24_010.scr:4	mev24_010.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	でも、自分が正しいと思った事は\nやりなさい！		
+mev24_010.scr:5	mev24_010.scr	5	アンジュ	Ange Serena	personagem		あなたは…いつもそうやって来たんだから		
+mev24_010.scr:6	mev24_010.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	…同行者は、\nあなたが自由に決めてちょうだい		
+mev24_010.scr:7	mev24_010.scr	7	アンジュ	Ange Serena	personagem		それじゃあ、行ってきなさい！		
+mev24_020.scr:0	mev24_020.scr	0	ニアタ	Niata Monad	personagem	CRLF x2	ふむ、我々の防壁機能が\n役に立ってくれた様だ。\n何とかそなたを守っていけるだろう		
+mev24_020.scr:1	mev24_020.scr	1	ニアタ	Niata Monad	personagem	CRLF x1	ここは、ラザリスの世界。\n彼女の生み出すはずだった世界の風景		
+mev24_020.scr:2	mev24_020.scr	2	ニアタ	Niata Monad	personagem	CRLF x1	だが、まだ完全ではない様だ。\n世界の息吹、意志が感じられない…		
+mev24_020.scr:3	mev24_020.scr	3	ニアタ	Niata Monad	personagem	CRLF x1	ああ。\nここはまこと美しい…		
+mev24_020.scr:4	mev24_020.scr	4	ニアタ	Niata Monad	personagem	CRLF x2	そうだ。\n「まだ」、ルミナシアとは\n相容れぬ世界だからな…		
+mev24_020.scr:5	mev24_020.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	根源の一つの世界から、\n那由多の数の世界が生まれた		
+mev24_020.scr:6	mev24_020.scr	6	ニアタ	Niata Monad	personagem	CRLF x2	たった一つの世界から、幾重にも渡る\n創造を経て、ジルディアも、このルミナシアも\n大いなる実りとなったのだ…		
+mev24_020.scr:7	mev24_020.scr	7	ニアタ	Niata Monad	personagem		遠く隔てられた理かもしれん		
+mev24_020.scr:8	mev24_020.scr	8	ニアタ	Niata Monad	personagem	CRLF x2	だが、それでも、交わるたった一つの所に、\n今我々はいるのだ。\n…わかるな？		
+mev24_020.scr:9	mev24_020.scr	9	ニアタ	Niata Monad	personagem	CRLF x1	そうだな。\nそなた達は兄弟の様なものだ		
+mev24_020.scr:10	mev24_020.scr	10	ニアタ	Niata Monad	personagem	CRLF x1	ラザリスを消す事は、\n世界樹も望んではいまい		
+mev24_020.scr:11	mev24_020.scr	11	ニアタ	Niata Monad	personagem	CRLF x1	だからこそ、世界樹はジルディアを\n取り込んだのだからな		
+mev24_020.scr:12	mev24_020.scr	12	ニアタ	Niata Monad	personagem	CRLF x1	そなたはディセンダー。\n光を奪わず、全てのものに光を分け与える者		
+mev24_020.scr:13	mev24_020.scr	13	ニアタ	Niata Monad	personagem	CRLF x1	可能性はそなたの中にある。\nどんな未来でも望め		
+mev24_020.scr:14	mev24_020.scr	14	ニアタ	Niata Monad	personagem		そして、望んだ以上は未来を手に入れろ！		
+mev24_020.scr:15	mev24_020.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		風景に見惚れる		
+mev24_020.scr:16	mev24_020.scr	16	(opcao do jogador)	(opcao do jogador)	escolha		ここではヒトは生きてはいけない、と言う		
+mev24_020.scr:17	mev24_020.scr	17	(opcao do jogador)	(opcao do jogador)	escolha		きっと、共に生きられる世界になれる、と言う		
+mev24_020.scr:18	mev24_020.scr	18	(opcao do jogador)	(opcao do jogador)	escolha		ラザリスを消す事はしたくない、と言う		
+mev24_021.scr:0	mev24_021.scr	0	カノンノ	Kanonno Grassvalley	personagem		ジルディアの…、ラザリスの子ね		
+mev24_021.scr:1	mev24_021.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	逃げられそうにない。\n視線を外せば、やられる…		
+mev24_021.scr:2	mev24_021.scr	2	ニアタ	Niata Monad	personagem	CRLF x1	この場からは逃れられんな…。\n勝つしかあるまいよ		
+mev24_021.scr:3	mev24_021.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	行こう、○○。\n大丈夫、きっと勝てる！		
+mev24_021.scr:4	mev24_021.scr	4	ニアタ	Niata Monad	personagem		ジルディアの生物か…		
+mev24_021.scr:5	mev24_021.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	この場からは逃れられんな…。\n勝つしかあるまいよ		
+mev24_022.scr:0	mev24_022.scr	0	カノンノ	Kanonno Grassvalley	personagem		何て…、不思議な姿なんだろう…		
+mev24_022.scr:1	mev24_022.scr	1	カノンノ	Kanonno Grassvalley	personagem		ラザリスが生んだ子…		
+mev24_022.scr:2	mev24_022.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	でも、今はこの子と戦わなければ\nいけないんだね…		
+mev24_022.scr:3	mev24_022.scr	3	ニアタ	Niata Monad	personagem	CRLF x2	悲しいかな。\nまだお互い、共に生きる事が出来ない\n相容れぬもの…		
+mev24_022.scr:4	mev24_022.scr	4	ニアタ	Niata Monad	personagem	CRLF x1	あの命、今はそなたの手で預かるのだ。\n行け、ディセンダー！		
+mev24_022.scr:5	mev24_022.scr	5	ニアタ	Niata Monad	personagem		…美しい		
+mev24_022.scr:6	mev24_022.scr	6	ニアタ	Niata Monad	personagem	CRLF x2	悲しいかな。\nまだお互い、共に生きる事が出来ない\n相容れぬもの…		
+mev24_022.scr:7	mev24_022.scr	7	ニアタ	Niata Monad	personagem	CRLF x1	あの命、今はそなたの手で預かるのだ。\n行け、ディセンダー！		
+mev24_023.scr:0	mev24_023.scr	0	カノンノ	Kanonno Grassvalley	personagem		すごく、大きな力を感じる…		
+mev24_023.scr:1	mev24_023.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ううん、これは意志。\n生きたいという、意志…		
+mev24_023.scr:2	mev24_023.scr	2	カノンノ	Kanonno Grassvalley	personagem		敵意と、羨望…		
+mev24_023.scr:3	mev24_023.scr	3	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	不思議だ。\nどうしてわかるんだろう…		
+mev24_023.scr:4	mev24_023.scr	4	ニアタ	Niata Monad	personagem	CRLF x1	奴は、\nそなたの生命力を欲している		
+mev24_023.scr:5	mev24_023.scr	5	ニアタ	Niata Monad	personagem	CRLF x1	○○、構えろ！\n来るぞ！		
+mev24_023.scr:6	mev24_023.scr	6	ニアタ	Niata Monad	personagem		生命の場が近い証拠なのか…		
+mev24_023.scr:7	mev24_023.scr	7	ニアタ	Niata Monad	personagem	CRLF x2	奴から、わずかに生命の鼓動を感じる。\n擬似的だった生命が、より完全な生命へ\nなろうとしているのだな		
+mev24_023.scr:8	mev24_023.scr	8	ニアタ	Niata Monad	personagem	CRLF x1	奴は、\nそなたの生命力を欲している		
+mev24_023.scr:9	mev24_023.scr	9	ニアタ	Niata Monad	personagem	CRLF x1	○○、構えろ！\n来るぞ！		
+mev24_024.scr:0	mev24_024.scr	0	カノンノ	Kanonno Grassvalley	personagem		ここで、ラザリスを守っているのね…		
+mev24_024.scr:1	mev24_024.scr	1	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	わかるよ。\n生きたいって気持ち…		
+mev24_024.scr:2	mev24_024.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	生きたいから戦うのは、\n私達も、あなたも同じなんだね…		
+mev24_024.scr:3	mev24_024.scr	3	ニアタ	Niata Monad	personagem		生きる道を賭けて、か…		
+mev24_024.scr:4	mev24_024.scr	4	ニアタ	Niata Monad	personagem	CRLF x2	臆するな、ディセンダー。\n思い煩えば、勝算が減る。\n今は、そなたのすべき事のみを考えろ		
+mev24_024.scr:5	mev24_024.scr	5	ニアタ	Niata Monad	personagem		さあ、行くのだ！		
+mev24_024.scr:6	mev24_024.scr	6	ニアタ	Niata Monad	personagem		ここで、ラザリスを守っているのだな		
+mev24_024.scr:7	mev24_024.scr	7	ニアタ	Niata Monad	personagem		生きる道を賭けて、か…		
+mev24_024.scr:8	mev24_024.scr	8	ニアタ	Niata Monad	personagem	CRLF x2	臆するな、ディセンダー。\n思い煩えば、勝算が減る。\n今は、そなたのすべき事のみを考えろ		
+mev24_024.scr:9	mev24_024.scr	9	ニアタ	Niata Monad	personagem		さあ、行くのだ！		
+mev24_025.scr:0	mev24_025.scr	0	ニアタ	Niata Monad	personagem	CRLF x1	己自身を越えろ、ディセンダー。\nそなたには、その力があるのだ！		
+mev24_025.scr:1	mev24_025.scr	1	ニアタ	Niata Monad	personagem		さあ、そなたの欲する未来を創れ！！		
+mev24_026.scr:0	mev24_026.scr	0	ニアタ	Niata Monad	personagem	CRLF x1	己自身を越えろ、ディセンダー。\nそなたには、その力があるのだ！		
+mev24_026.scr:1	mev24_026.scr	1	ニアタ	Niata Monad	personagem		さあ、そなたの欲する未来を創れ！		
+mev24_027.scr:0	mev24_027.scr	0	ニアタ	Niata Monad	personagem	CRLF x1	己自身を越えろ、ディセンダー。\nそなたには、その力があるのだ！		
+mev24_027.scr:1	mev24_027.scr	1	ニアタ	Niata Monad	personagem		さあ、そなたの欲する未来を創れ！！		
+mev24_028.scr:0	mev24_028.scr	0	ニアタ	Niata Monad	personagem	CRLF x1	己自身を越えろ、ディセンダー。\nそなたには、その力があるのだ！		
+mev24_028.scr:1	mev24_028.scr	1	ニアタ	Niata Monad	personagem		さあ、そなたの欲する未来を創れ！！		
+mev24_030.scr:0	mev24_030.scr	0	ニアタ	Niata Monad	personagem	CRLF x1	世界樹の鼓動を感じる。\n生命の場はこの先か…		
+mev24_030.scr:1	mev24_030.scr	1	ニアタ	Niata Monad	personagem		そこにはラザリスもいるはずだ		
+mev24_030.scr:2	mev24_030.scr	2	ニアタ	Niata Monad	personagem	CRLF x1	では、行こうか。\nディセンダーよ		
+mev24_040.scr:0	mev24_040.scr	0	ラザリス	Lazaris	personagem	CRLF x1	来たんだね。\nルミナシアのディセンダー…		
+mev24_040.scr:1	mev24_040.scr	1	ラザリス	Lazaris	personagem		あの後ろの光が見えるかい？		
+mev24_040.scr:2	mev24_040.scr	2	ラザリス	Lazaris	personagem	CRLF x1	あれこそがルミナシアの世界樹の中枢、\n生命の場		
+mev24_040.scr:3	mev24_040.scr	3	ラザリス	Lazaris	personagem		生命力が生まれ、世界の理を維持する所		
+mev24_040.scr:4	mev24_040.scr	4	ラザリス	Lazaris	personagem		これから僕は、あの生命の場を手に入れる		
+mev24_040.scr:5	mev24_040.scr	5	ラザリス	Lazaris	personagem	CRLF x1	君達の世界ルミナシアはここで終わり、\n僕の世界、ジルディアがここから始まる		
+mev24_040.scr:6	mev24_040.scr	6	ラザリス	Lazaris	personagem	CRLF x2	君達の命も、僕の理の中で\n争いもなく、僕が与える恵みに浸り、\n平和に暮らしていける		
+mev24_040.scr:7	mev24_040.scr	7	ラザリス	Lazaris	personagem	CRLF x2	平安だよ。\n君達ルミナシアの民が、\n得たくても得られないものさ		
+mev24_040.scr:8	mev24_040.scr	8	ラザリス	Lazaris	personagem	CRLF x1	奪う事でしか、\n豊かになれないと思っているからね		
+mev24_040.scr:9	mev24_040.scr	9	ラザリス	Lazaris	personagem	CRLF x1	欲しがってばかりじゃないか。\nいつも…、君達は…		
+mev24_040.scr:10	mev24_040.scr	10	ラザリス	Lazaris	personagem	CRLF x1	ずっと滅びるまで争い、\n奪い合うだけなんだ！		
+mev24_040.scr:11	mev24_040.scr	11	ラザリス	Lazaris	personagem	CRLF x1	だから、僕が変える。\nルミナシアを		
+mev24_040.scr:12	mev24_040.scr	12	ラザリス	Lazaris	personagem	CRLF x1	僕が与え続けるよ。\n君達は何もしなくていい		
+mev24_040.scr:13	mev24_040.scr	13	ラザリス	Lazaris	personagem	CRLF x1	僕の世界では、\n「創造」をする必要はないんだ		
+mev24_040.scr:14	mev24_040.scr	14	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あなたは、自分の世界の住人から\n創造を奪うつもりなの！？		
+mev24_040.scr:15	mev24_040.scr	15	ラザリス	Lazaris	personagem	CRLF x1	そうさ。\n創造は欲だ。　罪なんだよ		
+mev24_040.scr:16	mev24_040.scr	16	ラザリス	Lazaris	personagem	CRLF x1	君達の欲は満たされる事がない。\n人はそれを追い求め、ついには危機を招く		
+mev24_040.scr:17	mev24_040.scr	17	ラザリス	Lazaris	personagem	CRLF x1	僕一人がその罪を背負うよ。\nこの世の終わりまでね…		
+mev24_040.scr:18	mev24_040.scr	18	ラザリス	Lazaris	personagem	CRLF x1	死に急ごうとする君達の世界よりは、\nずっとましだ！		
+mev24_040.scr:19	mev24_040.scr	19	ニアタ	Niata Monad	personagem	CRLF x2	そうだ。\n創造がなければ罪も生まれぬが、\n喜びも生まれない		
+mev24_040.scr:20	mev24_040.scr	20	ニアタ	Niata Monad	personagem	CRLF x1	そして、世界樹が次の世界を\n生み出す事は出来なくなるだろう		
+mev24_040.scr:21	mev24_040.scr	21	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	世界樹はきっと、\nそんな生き方を望んではいないよ…		
+mev24_040.scr:22	mev24_040.scr	22	ラザリス	Lazaris	personagem		だったら！！		
+mev24_040.scr:23	mev24_040.scr	23	ラザリス	Lazaris	personagem	CRLF x1	だったら、なぜ、僕を取り込んだ。\n僕を封じ込めてまで！		
+mev24_040.scr:24	mev24_040.scr	24	ラザリス	Lazaris	personagem	CRLF x1	無理さ…。\n僕の世界はルミナシアと交わらない		
+mev24_040.scr:25	mev24_040.scr	25	ラザリス	Lazaris	personagem		交わりたくもない……		
+mev24_040.scr:26	mev24_040.scr	26	ラザリス	Lazaris	personagem	CRLF x1	やはり、君を奪うまでは\n世界樹は諦めてくれそうにない		
+mev24_040.scr:27	mev24_040.scr	27	ラザリス	Lazaris	personagem	CRLF x1	来るんだ、ディセンダー。\n僕のモノになってもらうよ！！		
+mev24_040.scr:28	mev24_040.scr	28	ラザリス	Lazaris	personagem	CRLF x1	来たんだね。\nルミナシアのディセンダー…		
+mev24_040.scr:29	mev24_040.scr	29	ラザリス	Lazaris	personagem		あの後ろの光が見えるかい？		
+mev24_040.scr:30	mev24_040.scr	30	ラザリス	Lazaris	personagem	CRLF x1	あれこそがルミナシアの世界樹の中枢、\n生命の場		
+mev24_040.scr:31	mev24_040.scr	31	ラザリス	Lazaris	personagem		生命力が生まれ、世界の理を維持する所		
+mev24_040.scr:32	mev24_040.scr	32	ラザリス	Lazaris	personagem		これから僕は、あの生命の場を手に入れる		
+mev24_040.scr:33	mev24_040.scr	33	ラザリス	Lazaris	personagem	CRLF x1	君達の世界ルミナシアはここで終わり、\n僕の世界、ジルディアがここから始まる		
+mev24_040.scr:34	mev24_040.scr	34	ラザリス	Lazaris	personagem	CRLF x2	君達の命も、僕の理の中で\n争いもなく、僕が与える恵みに浸り、\n平和に暮らしていける		
+mev24_040.scr:35	mev24_040.scr	35	ラザリス	Lazaris	personagem	CRLF x2	平安だよ。\n君達ルミナシアの民が、\n得たくても得られないものさ		
+mev24_040.scr:36	mev24_040.scr	36	ラザリス	Lazaris	personagem	CRLF x1	奪う事でしか、\n豊かになれないと思っているからね		
+mev24_040.scr:37	mev24_040.scr	37	ラザリス	Lazaris	personagem	CRLF x1	欲しがってばかりじゃないか。\nいつも…、君達は…		
+mev24_040.scr:38	mev24_040.scr	38	ラザリス	Lazaris	personagem	CRLF x1	ずっと滅びるまで争い、\n奪い合うだけなんだ！		
+mev24_040.scr:39	mev24_040.scr	39	ラザリス	Lazaris	personagem	CRLF x1	だから、僕が変える。\nルミナシアを		
+mev24_040.scr:40	mev24_040.scr	40	ラザリス	Lazaris	personagem	CRLF x1	僕が与え続けるよ。\n君達は何もしなくていい		
+mev24_040.scr:41	mev24_040.scr	41	ラザリス	Lazaris	personagem	CRLF x1	僕の世界では、\n「創造」をする必要はないんだ		
+mev24_040.scr:42	mev24_040.scr	42	ニアタ	Niata Monad	personagem	CRLF x1	そなたは、自分の世界の住人から\n創造を奪うのかね		
+mev24_040.scr:43	mev24_040.scr	43	ラザリス	Lazaris	personagem	CRLF x1	そうさ。\n創造は欲だ。　罪なんだよ		
+mev24_040.scr:44	mev24_040.scr	44	ラザリス	Lazaris	personagem	CRLF x1	君達の欲は満たされる事がない。\n人はそれを追い求め、ついには危機を招く		
+mev24_040.scr:45	mev24_040.scr	45	ラザリス	Lazaris	personagem	CRLF x1	僕一人がその罪を背負うよ。\nこの世の終わりまでね…		
+mev24_040.scr:46	mev24_040.scr	46	ラザリス	Lazaris	personagem	CRLF x1	死に急ごうとする君達の世界よりは、\nずっとましだ！		
+mev24_040.scr:47	mev24_040.scr	47	ニアタ	Niata Monad	personagem	CRLF x2	そうだ。\n創造がなければ罪も生まれぬが、\n喜びも生まれない		
+mev24_040.scr:48	mev24_040.scr	48	ニアタ	Niata Monad	personagem	CRLF x1	そして、世界樹が次の世界を\n生み出す事は出来なくなるだろう		
+mev24_040.scr:49	mev24_040.scr	49	ニアタ	Niata Monad	personagem	CRLF x1	世界樹は\nそんな生き方を望んでいない…		
+mev24_040.scr:50	mev24_040.scr	50	ラザリス	Lazaris	personagem		だったら！！		
+mev24_040.scr:51	mev24_040.scr	51	ラザリス	Lazaris	personagem	CRLF x1	だったら、なぜ、僕を取り込んだ。\n僕を封じ込めてまで！		
+mev24_040.scr:52	mev24_040.scr	52	ラザリス	Lazaris	personagem	CRLF x1	無理さ…。\n僕の世界はルミナシアと交わらない		
+mev24_040.scr:53	mev24_040.scr	53	ラザリス	Lazaris	personagem		交わりたくもない……		
+mev24_040.scr:54	mev24_040.scr	54	ラザリス	Lazaris	personagem	CRLF x1	やはり、君を奪うまでは\n世界樹は諦めてくれそうにない		
+mev24_040.scr:55	mev24_040.scr	55	ラザリス	Lazaris	personagem	CRLF x1	来るんだ、ディセンダー。\n僕のモノになってもらうよ！！		
+mev24_040.scr:56	mev24_040.scr	56	(opcao do jogador)	(opcao do jogador)	escolha		それで、何が得られるのか、と言う		
+mev24_040.scr:57	mev24_040.scr	57	(opcao do jogador)	(opcao do jogador)	escolha		恵みを受け取るだけが幸せじゃない、と言う		
+mev24_040.scr:58	mev24_040.scr	58	(opcao do jogador)	(opcao do jogador)	escolha		そんな世界は生きていないのと同じだ、と言う		
+mev24_040.scr:59	mev24_040.scr	59	(opcao do jogador)	(opcao do jogador)	escolha		創造にあるのは罪だけじゃない、と言う		
+mev24_040.scr:60	mev24_040.scr	60	(sem caixa de nome)	(sem caixa de nome)	sem_caixa		一緒に生きていきたいからだ！		
+mev24_040.scr:61	mev24_040.scr	61	(opcao do jogador)	(opcao do jogador)	escolha		それで、何が得られるのか、と言う		
+mev24_040.scr:62	mev24_040.scr	62	(opcao do jogador)	(opcao do jogador)	escolha		恵みを受け取るだけが幸せじゃない、と言う		
+mev24_040.scr:63	mev24_040.scr	63	(opcao do jogador)	(opcao do jogador)	escolha		そんな世界は生きていないのと同じだ、と言う		
+mev24_040.scr:64	mev24_040.scr	64	(opcao do jogador)	(opcao do jogador)	escolha		創造にあるのは罪だけじゃない、と言う		
+mev24_040.scr:65	mev24_040.scr	65	(sem caixa de nome)	(sem caixa de nome)	sem_caixa		一緒に生きていきたいからだ！		
+mev24_050.scr:0	mev24_050.scr	0	ラザリス	Lazaris	personagem	CRLF x1	おいで。\n早く僕のものになってくれよ！！		
+mev24_060.scr:0	mev24_060.scr	0	ラザリス	Lazaris	personagem		う…あっ……！！		
+mev24_060.scr:1	mev24_060.scr	1	ラザリス	Lazaris	personagem	CRLF x1	僕の…世界…を…ッ……、\n消さ…せる…もの…か……		
+mev24_060.scr:2	mev24_060.scr	2	ラザリス	Lazaris	personagem		な…、これは…！？		
+mev24_060.scr:3	mev24_060.scr	3	ニアタ	Niata Monad	personagem	CRLF x2	あれは、ジルディアのドクメント…。\nこれから生まれようとしている、\n生命の意志だ…！！		
+mev24_060.scr:4	mev24_060.scr	4	ニアタ	Niata Monad	personagem		ラザリスを守ろうとしている…		
+mev24_060.scr:5	mev24_060.scr	5	ニアタ	Niata Monad	personagem	CRLF x2	…ラザリスが創造の力を与えなくとも、\nジルディアの民は、自らの意志を「創造」し、\nラザリスと共に在ろうとしているのだ…！		
+mev24_060.scr:6	mev24_060.scr	6	ラザリス	Lazaris	personagem		うそだ…		
+mev24_060.scr:7	mev24_060.scr	7	ラザリス	Lazaris	personagem	CRLF x2	僕が与えなくても創造を…！？\n僕の世界が…僕の世界の生命が、\n罪を背負おうとするなんて…！！		
+mev24_060.scr:8	mev24_060.scr	8	ラザリス	Lazaris	personagem	CRLF x2	僕を、僕を守らなくていい。\n争う意志なんて、\n持つのは僕だけで十分だ！！		
+mev24_060.scr:9	mev24_060.scr	9	ラザリス	Lazaris	personagem		あああああああっ！！		
+mev24_060.scr:10	mev24_060.scr	10	ニアタ	Niata Monad	personagem		これは…！		
+mev24_060.scr:11	mev24_060.scr	11	ニアタ	Niata Monad	personagem	CRLF x2	ラザリスと、ジルディアに生まれようと\nする者…世界の意志が、\n反発し、食い合っている…！！		
+mev24_060.scr:12	mev24_060.scr	12	ラザリス	Lazaris	personagem	CRLF x1	やめろ！\nやめろおおおおお！！！		
+mev24_060.scr:13	mev24_060.scr	13	ニアタ	Niata Monad	personagem	CRLF x1	調和を見失っておる。\n混沌へ向かう力となったか…		
+mev24_060.scr:14	mev24_060.scr	14	ニアタ	Niata Monad	personagem	CRLF x1	行け、ディセンダー。\n未来を紡いでこい！		
+mev24_060.scr:15	mev24_060.scr	15	ニアタ	Niata Monad	personagem		そなたの欲する未来を創れ！！		
+mev24_060.scr:16	mev24_060.scr	16	ラザリス	Lazaris	personagem		う…あっ……！！		
+mev24_060.scr:17	mev24_060.scr	17	ラザリス	Lazaris	personagem	CRLF x1	僕の…世界…を…ッ……、\n消さ…せる…もの…か……		
+mev24_060.scr:18	mev24_060.scr	18	ラザリス	Lazaris	personagem		な…、これは…！？		
+mev24_060.scr:19	mev24_060.scr	19	ニアタ	Niata Monad	personagem	CRLF x2	あれは、ジルディアのドクメント…。\nこれから生まれようとしている、\n生命の意志だ…！！		
+mev24_060.scr:20	mev24_060.scr	20	ニアタ	Niata Monad	personagem		ラザリスを守ろうとしている…		
+mev24_060.scr:21	mev24_060.scr	21	ニアタ	Niata Monad	personagem	CRLF x2	…ラザリスが創造の力を与えなくとも、\nジルディアの民は、自らの意志を「創造」し、\nラザリスと共に在ろうとしているのだ…！		
+mev24_060.scr:22	mev24_060.scr	22	ラザリス	Lazaris	personagem		うそだ…		
+mev24_060.scr:23	mev24_060.scr	23	ラザリス	Lazaris	personagem	CRLF x2	僕が与えなくても創造を…！？\n僕の世界が…僕の世界の生命が、\n罪を背負おうとするなんて…！！		
+mev24_060.scr:24	mev24_060.scr	24	ラザリス	Lazaris	personagem	CRLF x2	僕を、僕を守らなくていい。\n争う意志なんて、\n持つのは僕だけで十分だ！！		
+mev24_060.scr:25	mev24_060.scr	25	ラザリス	Lazaris	personagem		あああああああっ！！		
+mev24_060.scr:26	mev24_060.scr	26	ニアタ	Niata Monad	personagem		これは…！		
+mev24_060.scr:27	mev24_060.scr	27	ニアタ	Niata Monad	personagem	CRLF x2	ラザリスと、ジルディアに生まれようと\nする者…世界の意志が、\n反発し、食い合っている…！！		
+mev24_060.scr:28	mev24_060.scr	28	ラザリス	Lazaris	personagem	CRLF x1	やめろ！\nやめろおおおおお！！！		
+mev24_060.scr:29	mev24_060.scr	29	ニアタ	Niata Monad	personagem	CRLF x1	調和を見失っておる。\n混沌へ向かう力となったか…		
+mev24_060.scr:30	mev24_060.scr	30	ニアタ	Niata Monad	personagem	CRLF x1	行け、ディセンダー。\n未来を紡いでこい！		
+mev24_060.scr:31	mev24_060.scr	31	ニアタ	Niata Monad	personagem		そなたの欲する未来を創れ！！		
+mev24_070.scr:0	mev24_070.scr	0	ニアタ	Niata Monad	personagem	CRLF x1	己自身を越えろ、ディセンダー。\nそなたには、その力があるのだ！		
+mev24_070.scr:1	mev24_070.scr	1	ニアタ	Niata Monad	personagem		さあ、そなたの欲する未来を創れ！！		
+mev24_080.scr:0	mev24_080.scr	0	ラザリス	Lazaris	personagem	CRLF x2	創造は…止められないのか。\n生きとし生けるもの。\n生きていこうという意志がある限り…		
+mev24_080.scr:1	mev24_080.scr	1	ラザリス	Lazaris	personagem	CRLF x1	ディセンダー…、見えないんだ。\n僕の世界が、見えない…		
+mev24_080.scr:2	mev24_080.scr	2	ラザリス	Lazaris	personagem	CRLF x1	穏やかで…、美しいヒト達…。\n僕の世界の民…、消えて…しまう……		
+mev24_080.scr:3	mev24_080.scr	3	ニアタ	Niata Monad	personagem	CRLF x2	生命の場。\nあそこへ行けるのは、そなた。\nディセンダーのみだ		
+mev24_080.scr:4	mev24_080.scr	4	カノンノ	Kanonno Grassvalley	personagem		行くんだね…		
+mev24_080.scr:5	mev24_080.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	うん。\nあなたが望む未来はきっと、\nいい世界になるよ		
+mev24_080.scr:6	mev24_080.scr	6	カノンノ	Kanonno Grassvalley	personagem		また…、会おうね		
+mev24_080.scr:7	mev24_080.scr	7	カノンノ	Kanonno Grassvalley	personagem		絶対…、絶対絶対絶対だよ！！		
+mev24_080.scr:8	mev24_080.scr	8	カノンノ	Kanonno Grassvalley	personagem		ずっと、待ってるから…		
+mev24_080.scr:9	mev24_080.scr	9	ニアタ	Niata Monad	personagem	CRLF x1	では、また会おう。\nしばしの別れだ、ディセンダー		
+mev24_080.scr:10	mev24_080.scr	10	ニアタ	Niata Monad	personagem		良い創造を！		
+mev24_080.scr:11	mev24_080.scr	11	ラザリス	Lazaris	personagem	CRLF x2	創造は…止められないのか。\n生きとし生けるもの。\n生きていこうという意志がある限り…		
+mev24_080.scr:12	mev24_080.scr	12	ラザリス	Lazaris	personagem	CRLF x1	ディセンダー…、見えないんだ。\n僕の世界が、見えない…		
+mev24_080.scr:13	mev24_080.scr	13	ラザリス	Lazaris	personagem	CRLF x1	穏やかで…、美しいヒト達…。\n僕の世界の民…、消えて…しまう……		
+mev24_080.scr:14	mev24_080.scr	14	ニアタ	Niata Monad	personagem	CRLF x2	生命の場。\nあそこへ行けるのは、そなた。\nディセンダーのみだ		
+mev24_080.scr:15	mev24_080.scr	15	ニアタ	Niata Monad	personagem		行くのだな、ディセンダー…		
+mev24_080.scr:16	mev24_080.scr	16	ニアタ	Niata Monad	personagem	CRLF x1	ああ、楽しみにしているよ。\nそなたの創る未来を		
+mev24_080.scr:17	mev24_080.scr	17	ニアタ	Niata Monad	personagem		二つの世界に希望の灯火を		
+mev24_080.scr:18	mev24_080.scr	18	ニアタ	Niata Monad	personagem		そなたに出会えて、本当に良かった…		
+mev24_080.scr:19	mev24_080.scr	19	ニアタ	Niata Monad	personagem	CRLF x1	では、また会おう。\nしばしの別れだ、ディセンダー		
+mev24_080.scr:20	mev24_080.scr	20	ニアタ	Niata Monad	personagem		良い創造を！		
+mev24_080.scr:21	mev24_080.scr	21	(opcao do jogador)	(opcao do jogador)	escolha		未来を創りに行く、と言う		
+mev24_080.scr:22	mev24_080.scr	22	(opcao do jogador)	(opcao do jogador)	escolha		微笑む		
+mev24_080.scr:23	mev24_080.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		未来を創りに行く、と言う		
+mev24_080.scr:24	mev24_080.scr	24	(opcao do jogador)	(opcao do jogador)	escolha		微笑む		
+mev24_090.scr:0	mev24_090.scr	0	ニアタ	Niata Monad	personagem	CRLF x2	他と心が繋がる時に、\n不可能に見えていたものが可能になる。\nまだ見ぬ資質が輝き始める		
+mev24_090.scr:1	mev24_090.scr	1	ニアタ	Niata Monad	personagem		ヒトとも、世界とも…		
+mev24_090.scr:2	mev24_090.scr	2	ニアタ	Niata Monad	personagem	CRLF x1	ディセンダーは身をもって、それを学び、\n体現していった		
+mev24_090.scr:3	mev24_090.scr	3	ニアタ	Niata Monad	personagem		そして、調和より生まれる、終わらぬ創造…		
+mev24_090.scr:4	mev24_090.scr	4	カノンノ	Kanonno Grassvalley	personagem		ラザリスも…？		
+mev24_090.scr:5	mev24_090.scr	5	ニアタ	Niata Monad	personagem		ああ、共に創造の輪の中に		
+mev24_090.scr:6	mev24_090.scr	6	ニアタ	Niata Monad	personagem	CRLF x1	かの者が注ぐ光は、万感の祈りを結ぶ。\nそして、世界の民は自らの光に気付く…		
+mev24_090.scr:7	mev24_090.scr	7	ニアタ	Niata Monad	personagem	CRLF x1	いまやディセンダーの力は、\nヒトの手を通じて世界中に伝わった		
+mev24_090.scr:8	mev24_090.scr	8	ニアタ	Niata Monad	personagem	CRLF x2	ルミナシアの民の光は、\n世界樹を巡る新しい力となる。\nそれは、ラザリスと共に生きて行く変化となる		
+mev24_090.scr:9	mev24_090.scr	9	ニアタ	Niata Monad	personagem	CRLF x1	そして、我々は皆「知って」いる。\nディセンダーは、不可能を知らない事を…		
+mev24_090.scr:10	mev24_090.scr	10	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	うん。\n知ってる…。\n知っているよ…		
+mev24_090.scr:11	mev24_090.scr	11	カノンノ	Kanonno Grassvalley	personagem		また戻ってきてくれる事も知ってる		
+mev24_090.scr:12	mev24_090.scr	12	カノンノ	Kanonno Grassvalley	personagem		約束したもん…		
+mev24_090.scr:13	mev24_090.scr	13	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	ずっと、未来を創っていこうって\n約束したから		
+mev25_010.scr:0	mev25_010.scr	0	ジューダス	Judas	personagem		キバが…、消えていく		
+mev25_010.scr:1	mev25_010.scr	1	クレス	Cress Albane	personagem		全て、世界樹の中へ…		
+mev25_010.scr:2	mev25_010.scr	2	ジュディス	Judith	personagem	CRLF x1	あれは、ラザリスの世界、\nジルディアの世界樹なんだわ…		
+mev25_010.scr:3	mev25_010.scr	3	ファラ	Farah Oersted	personagem		ルミナシアの世界樹を、癒していってるのね…		
+mev25_010.scr:4	mev25_010.scr	4	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	変わる…、変わるんだ。\n世界が変わる！		
+mev25_010.scr:5	mev25_010.scr	5	カノンノ	Kanonno Grassvalley	personagem		私達も、ラザリスも…！！		
+mev25_010.scr:6	mev25_010.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	二つの世界が一つになって、\n新しく生まれ変わる…		
+mev25_010.scr:7	mev25_010.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	お互いが生きていける世界が\n始まるんだ…！！		
+mev25_010.scr:8	mev25_010.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	私達の創造は終わらない。\n共に手を取り合って続いていく		
+mev25_010.scr:9	mev25_010.scr	9	カノンノ	Kanonno Grassvalley	personagem		ずっと、ずっとずっと…続いていく…		

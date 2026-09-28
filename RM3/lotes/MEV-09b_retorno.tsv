@@ -1,0 +1,199 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev09_100.scr:0	mev09_100.scr	0	リタ	Rita Mordio	personagem		セルシウスから聞いた事を伝えに来たわ	I came to tell you what Celsius said.	
+mev09_100.scr:1	mev09_100.scr	1	リタ	Rita Mordio	personagem	CRLF x1	かなりぶっ飛んだ内容だけど、\n一応話しておくから	It's pretty wild stuff,\nbut I'll explain it to you anyway.	
+mev09_100.scr:2	mev09_100.scr	2	アンジュ	Ange Serena	personagem	CRLF x1	創世の時について伝え聞いた、という\n「ヒトの祖」の事ね	Regarding the "Progenitor of Man,"\nwho heard of the world's creation, yes?	
+mev09_100.scr:3	mev09_100.scr	3	リタ	Rita Mordio	personagem	CRLF x2	遥か太古…。\nあたし達ヒトは、精霊に近い非物質の\n存在だったらしいわ	In the distant past...\nit seems humans were non-material beings\nvery much like spirits.	
+mev09_100.scr:4	mev09_100.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	太古のヒト、今のわたし達の先祖は\n肉体を持っていなかったって事？	Ancient humans... our ancestors\ndidn't possess physical bodies?	
+mev09_100.scr:5	mev09_100.scr	5	リタ	Rita Mordio	personagem	CRLF x2	…そ。\nそして、物質体を自分達で設計して\n今あるヒトとして、地上に増え栄えた	Right. And they designed physical\nbodies themselves, multiplying on earth\nas the humans we are today.	
+mev09_100.scr:6	mev09_100.scr	6	リタ	Rita Mordio	personagem	CRLF x1	これはつまり、「ヒトの祖」ってのは、\nドクメントだけの存在だったという事よ	In other words, the "Progenitor of Man"\nexisted purely as a Document.	
+mev09_100.scr:7	mev09_100.scr	7	リタ	Rita Mordio	personagem	CRLF x1	自分達のヒトたる姿や構造まで設計して、\n非物質から物質体を生み出した	Designing human form and structure,\nthey forged matter from the immaterial.	
+mev09_100.scr:8	mev09_100.scr	8	リタ	Rita Mordio	personagem	CRLF x1	あたかもミブナの里に伝わる人工精霊を\n創る様に…	Much like creating the artificial spirits\npassed down in Mibuna Village...	
+mev09_100.scr:9	mev09_100.scr	9	リタ	Rita Mordio	personagem	CRLF x2	だとすると、ソウルアルケミーは、\nその当時にあった技術で、現代まで\n細々と伝わっていたわけね	If so, Soul Alchemy was a technique\nfrom that era, barely surviving\ninto the modern day.	
+mev09_100.scr:10	mev09_100.scr	10	アンジュ	Ange Serena	personagem	CRLF x1	でも、結局その創世の時の事を知る\n非物質の「ヒトの祖」は今、いないんでしょ	Yet the immaterial "Progenitor of Man"\nwho knew of creation is gone now, right?	
+mev09_100.scr:11	mev09_100.scr	11	リタ	Rita Mordio	personagem	CRLF x1	でも、「ヒトの祖」が残した遺構なら\n知っていると言ってたわ	True, but Celsius said she knows of\nthe ruins left by the Progenitor of Man.	
+mev09_100.scr:12	mev09_100.scr	12	アンジュ	Ange Serena	personagem		遺構？	Ruins?	
+mev09_100.scr:13	mev09_100.scr	13	リタ	Rita Mordio	personagem	CRLF x2	天空にある宮殿、ヴェラトローパよ。\n「ヒトの祖」、ヴェラトローパの民が\nその身を物質とするまで居た場所だって	A palace in the sky: Veratropa.\nWhere the people of Veratropa stayed\nuntil taking physical form.	
+mev09_100.scr:14	mev09_100.scr	14	アンジュ	Ange Serena	personagem	CRLF x1	そこにヒントがあるとしても、\nそれも非物質なんでしょ	Even if there are clues there,\nthat palace is non-material too, no?	
+mev09_100.scr:15	mev09_100.scr	15	リタ	Rita Mordio	personagem		そうね、そういう事	Yeah, that's the catch.	
+mev09_100.scr:16	mev09_100.scr	16	リタ	Rita Mordio	personagem	CRLF x1	ヴェラトローパは精霊と次元を\n同じくした時もあったけど、	Veratropa once shared the same\ndimension as the spirits, but...	
+mev09_100.scr:17	mev09_100.scr	17	リタ	Rita Mordio	personagem	CRLF x1	ヴェラトローパの民が地上へ下りる時に、\nさらに次元を隔てて隠されたらしいわ	when its people descended to earth,\nit was hidden across another dimension.	
+mev09_100.scr:18	mev09_100.scr	18	アンジュ	Ange Serena	personagem	CRLF x1	非物質じゃあ、\n存在しないのと一緒じゃない	If it is non-material, that is no\ndifferent from it not existing at all.	
+mev09_100.scr:19	mev09_100.scr	19	リタ	Rita Mordio	personagem	CRLF x1	いや、待って…。\n非物質を物質に……	No, wait...\nTurning the non-material into matter...	
+mev09_100.scr:20	mev09_100.scr	20	アンジュ	Ange Serena	personagem		何かいい案でも？	Do you have an idea?	
+mev09_100.scr:21	mev09_100.scr	21	リタ	Rita Mordio	personagem	CRLF x1	ん…。\nちょっと、ハロルドと話してみるわ	Yeah...\nI'll go talk with Harold for a bit.	
+mev09_110.scr:0	mev09_110.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	○○…。\nもう、絵を見る\n必要はなくなっちゃったかな……	○○...\nI guess you don't need to look\nat my drawings anymore...	
+mev09_110.scr:1	mev09_110.scr	1	イリア	Iria Animi	personagem	CRLF x1	そーね、予言通りなら生まれたばっかで\n記憶が無くて当たり前なんでしょ	Yeah, if the prophecy's right,\nyou're newborn with no memories anyway.	
+mev09_110.scr:2	mev09_110.scr	2	イリア	Iria Animi	personagem		思い出すモンも無いんじゃねぇ	Nothing there to remember, after all.	
+mev09_110.scr:3	mev09_110.scr	3	カノンノ	Kanonno Grassvalley	personagem		イリア…	Iria...	
+mev09_110.scr:4	mev09_110.scr	4	イリア	Iria Animi	personagem	CRLF x2	（まー、そうじゃなくても、\n　カノンノの変な絵が、記憶のアテに\n　なってたかも怪しいと思うけど…）	(Even if that weren't the case,\nI doubt Kanonno's weird art was\ngonna bring back any memories...)	
+mev09_110.scr:5	mev09_110.scr	5	イリア	Iria Animi	personagem		ところでさー	By the way...	
+mev09_110.scr:6	mev09_110.scr	6	イリア	Iria Animi	personagem	CRLF x2	あんたが、世界を危機から救う為に現れた\nディセンダーなら、これからどんな災厄が\n訪れるのかとか、知ってたりしないワケ？	If you're the Descender meant to save\nthe world, do you know what kind of\ncalamity is coming our way?	
+mev09_110.scr:7	mev09_110.scr	7	イリア	Iria Animi	personagem		はーぁ？　何も知らないっての？	Haaah? You don't know a thing?!	
+mev09_110.scr:8	mev09_110.scr	8	イリア	Iria Animi	personagem	CRLF x2	調子狂うわー。\nディセンダーつっても\nあんまり当てにしない方が良さそうねー	Talk about a letdown.\nDescender or not, guess we can't\ncount on you for much, huh.	
+mev09_110.scr:9	mev09_110.scr	9	カノンノ	Kanonno Grassvalley	personagem		………	.........	
+mev09_110.scr:10	mev09_110.scr	10	カノンノ	Kanonno Grassvalley	personagem		見て…くれるの？	You'll... still look at them?	
+mev09_110.scr:11	mev09_110.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん！　じゃあ描くよ。\nたくさん、たくさん描く！	Yeah! Then I'll keep drawing.\nLots and lots of pictures!	
+mev09_110.scr:12	mev09_110.scr	12	カノンノ	Kanonno Grassvalley	personagem		○○…	○○...	
+mev09_110.scr:13	mev09_110.scr	13	カノンノ	Kanonno Grassvalley	personagem		うん、ありがと…	Yeah, thank you...	
+mev09_110.scr:14	mev09_110.scr	14	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あなたが好きと言ってくれるなら、\nいくらでも描くよ	If you say you like them,\nI'll draw as many as you want!	
+mev09_110.scr:15	mev09_110.scr	15	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	私も…、あの勝手に見えてくる\n知らない風景ばかり描いてちゃダメだな	I shouldn't just draw unfamiliar\nscenery that pops into my head, either.	
+mev09_110.scr:16	mev09_110.scr	16	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あなたが飛びっきり気に入ってくれる様な絵が\n描けたらいいなぁ…	I want to make a piece of art\nthat you'll absolutely love...	
+mev09_110.scr:17	mev09_110.scr	17	(opcao do jogador)	(opcao do jogador)	escolha		否定出来ないので黙る	Stay silent, unable to deny it	
+mev09_110.scr:18	mev09_110.scr	18	(opcao do jogador)	(opcao do jogador)	escolha		カノンノに微笑んでおく	Smile gently at Kanonno	
+mev09_110.scr:19	mev09_110.scr	19	(opcao do jogador)	(opcao do jogador)	escolha		何も知らない、と言う	Say you know nothing	
+mev09_110.scr:20	mev09_110.scr	20	(opcao do jogador)	(opcao do jogador)	escolha		黙る	Remain silent	
+mev09_110.scr:21	mev09_110.scr	21	(opcao do jogador)	(opcao do jogador)	escolha		また絵が見たいと伝える	Say you want to see her art again	
+mev09_110.scr:22	mev09_110.scr	22	(opcao do jogador)	(opcao do jogador)	escolha		カノンノの絵が好きな事を伝える	Say you love Kanonno's drawings	
+mev09_120.scr:0	mev09_120.scr	0	リタ	Rita Mordio	personagem		ヴェラトローパへ行く方法を考えてみたの	I thought of a way to reach Veratropa.	
+mev09_120.scr:1	mev09_120.scr	1	リタ	Rita Mordio	personagem	CRLF x1	今、セルシウスが実体化して\nここに居るでしょ？	Right now, Celsius is materialized\nstanding right here, correct?	
+mev09_120.scr:2	mev09_120.scr	2	リタ	Rita Mordio	personagem	CRLF x2	それをヒントにソウルアルケミーを応用して、\nヴェラトローパを物質世界に呼び込んで\nみよう、ってわけ	Using that as a hint with Soul Alchemy,\nwe could pull Veratropa into the\nmaterial world, you see!	
+mev09_120.scr:3	mev09_120.scr	3	ハロルド	Harold Berselius	personagem	CRLF x2	シンプルに考えていいわよ。\n要は、非物質のものを\n物質にするだけだから	You can think of it simply.\nIn short, we just turn something\nnon-material into matter!	
+mev09_120.scr:4	mev09_120.scr	4	ハロルド	Harold Berselius	personagem	CRLF x1	ふふん♪\n不可能を可能にする事が面白いんじゃない！	Fufun!\nMaking the impossible possible is fun!	
+mev09_120.scr:5	mev09_120.scr	5	ハロルド	Harold Berselius	personagem	CRLF x1	私の辞書に、\n不可能の文字はないわ！	The word "impossible"\ndoesn't exist in my dictionary!	
+mev09_120.scr:6	mev09_120.scr	6	セルシウス	Celsius	personagem	CRLF x2	精霊は元々姿もなく、\nあまねくものに浸透出来る精妙なもの。\n本来は非物質なのよ	Spirits originally have no form;\nwe are subtle beings permeating all.\nBy nature, we are non-material.	
+mev09_120.scr:7	mev09_120.scr	7	セルシウス	Celsius	personagem	CRLF x2	己を構成する情報…、\nつまりドクメントの波動を\n濃密にすれば物質になるの	By condensing the information\nthat composes us--our Document's\nvibrations--we become physical matter.	
+mev09_120.scr:8	mev09_120.scr	8	ハロルド	Harold Berselius	personagem	CRLF x1	そういや、マナに恵まれた土地を\n離れていて、どうして存在出来てるの	Come to think of it, how can you exist\nso far away from Mana-rich lands?	
+mev09_120.scr:9	mev09_120.scr	9	セルシウス	Celsius	personagem	CRLF x1	ディセンダーの近くにいれば、\n大丈夫だからよ	As long as I am near the Descender,\nI am completely fine.	
+mev09_120.scr:10	mev09_120.scr	10	ハロルド	Harold Berselius	personagem	CRLF x2	そんなものなの。\n便利なのか不便なのか\nわかんないわね	Is that how it works?\nCan't tell if that's convenient\nor inconvenient, honestly.	
+mev09_120.scr:11	mev09_120.scr	11	セルシウス	Celsius	personagem	CRLF x2	ヴェラトローパは\n物質世界と重なる様に、\n非物質の状態で現存しているわ	Veratropa exists\nin an immaterial state, overlapping\nwith the material world.	
+mev09_120.scr:12	mev09_120.scr	12	ハロルド	Harold Berselius	personagem	CRLF x1	で、これからヴェラトローパの\n次元振動数を変えて、物質化させるの	So now, we shift Veratropa's dimensional\nfrequency to materialize it!	
+mev09_120.scr:13	mev09_120.scr	13	ハロルド	Harold Berselius	personagem		あんたも甲板にいらっしゃい♪	Come on up to the deck too!	
+mev09_120.scr:14	mev09_120.scr	14	(opcao do jogador)	(opcao do jogador)	escolha		理解出来ない様子で首をかしげる	Tilt your head, unable to understand	
+mev09_120.scr:15	mev09_120.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		可能なのかと尋ねる	Ask if that is even possible	
+mev09_130.scr:0	mev09_130.scr	0	ハロルド	Harold Berselius	personagem		んじゃ、ちゃっちゃと始めちゃうわね	Alright, let's get right to it!	
+mev09_130.scr:1	mev09_130.scr	1	ハロルド	Harold Berselius	personagem	CRLF x1	何も起きないわねぇ。\n触媒が足りなかったかしら	Nothing's happening, huh.\nDid we lack enough catalyst, I wonder?	
+mev09_130.scr:2	mev09_130.scr	2	カイル	Kyle Dunamis	personagem		わぁぁぁぁぁぁぁ！！	Waaaaaaaugh!!	
+mev09_130.scr:3	mev09_130.scr	3	リアラ	Reala	personagem		きゃああああ	Kyaaaaah!	
+mev09_130.scr:4	mev09_130.scr	4	ロニ	Loni Dunamis	personagem		うおおおおおおおおおお	Uwooooooooooogh!	
+mev09_130.scr:5	mev09_130.scr	5	ハロルド	Harold Berselius	personagem		今の音、なぁに？	What was that sound just now?	
+mev09_130.scr:6	mev09_130.scr	6	リタ	Rita Mordio	personagem		さあ？	Who knows?	
+mev09_130.scr:7	mev09_130.scr	7	リタ	Rita Mordio	personagem	CRLF x1	そんな事より、その装置はまだ\n手を加えないといけないんじゃないの	More importantly, isn't that device\nstill in need of adjustments?	
+mev09_130.scr:8	mev09_130.scr	8	ハロルド	Harold Berselius	personagem		やっぱ、もうちょっと改良が必要ね	Guess it needs more tweaking after all.	
+mev09_130.scr:9	mev09_130.scr	9	ハロルド	Harold Berselius	personagem		じゃあ、撤収撤収〜	Alright, pack it up, pack it up!	
+mev09_140.scr:0	mev09_140.scr	0	アンジュ	Ange Serena	personagem		人が落ちて来た？	People fell from the sky?!	
+mev09_140.scr:1	mev09_140.scr	1	ロックス	Rocks	personagem	CRLF x1	ええ、展望室の上に。\nさっき、スゴイ音がしたでしょう？	Indeed, atop the observation room.\nYou heard that tremendous crash, yes?	
+mev09_140.scr:2	mev09_140.scr	2	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	ロックス。\nさっきの人達を、医務室へ運んだよ。\n大きなケガとかは無い様子だったけど	Rocks, we carried those people\nto the infirmary. Doesn't seem like\nthey have any serious injuries.	
+mev09_140.scr:3	mev09_140.scr	3	ロックス	Rocks	personagem	CRLF x1	そうですか、安心しました。\nあとは、アニー様が見てくれるでしょう	I see, what a relief.\nLady Annie will take care of them now.	
+mev09_140.scr:4	mev09_140.scr	4	アンジュ	Ange Serena	personagem		まあ、空からだなんて珍しい客ね	My, what unusual guests from the sky.	
+mev09_140.scr:5	mev09_140.scr	5	アンジュ	Ange Serena	personagem		って、○○もだったか	Wait, so was ○○, wasn't it.	
+mev09_140.scr:6	mev09_140.scr	6	アンジュ	Ange Serena	personagem	CRLF x1	わたしも、最近はどんな客が来ても、\n動じなくなってきたなぁ…	I suppose lately I don't get fazed\nno matter what kind of guest arrives...	
+mev09_140.scr:7	mev09_140.scr	7	アンジュ	Ange Serena	personagem		さて、ちょっと顔を出して来ようかな	Well, I shall go pop in on them.	
+mev09_140.scr:8	mev09_140.scr	8	アンジュ	Ange Serena	personagem	CRLF x1	○○、\nあなたもいらっしゃい	○○,\ncome along as well.	
+mev09_150.scr:0	mev09_150.scr	0	アニー	Annie Barrs	personagem	CRLF x1	はい、皆さん大丈夫ですよ。\n幸い、軽い傷で済みましたから	There now, you are all alright.\nFortunately, your wounds are minor.	
+mev09_150.scr:1	mev09_150.scr	1	アニー	Annie Barrs	personagem		それにしても、空から落ちてくるなんて…	Even so, falling from the sky...	
+mev09_150.scr:2	mev09_150.scr	2	リアラ	Reala	personagem	CRLF x2	はい。\nわたし達は…、\nある人と戦っていたはずなんですが…	Yes.\nWe were... supposedly fighting someone,\nand yet...	
+mev09_150.scr:3	mev09_150.scr	3	カイル	Kyle Dunamis	personagem	CRLF x2	急に地面が無くなって、\n一瞬まぶしい光に包まれたと思ったら\nこの船に向かって落下してたんだ	Suddenly the ground vanished,\na blinding flash wrapped around us,\nand next thing we're falling here!	
+mev09_150.scr:4	mev09_150.scr	4	ロニ	Loni Dunamis	personagem	CRLF x1	なあ…。\nこれって、やっぱり夢なんじゃねえのか？	Hey...\nIsn't this whole thing gotta be a dream?	
+mev09_150.scr:5	mev09_150.scr	5	アニー	Annie Barrs	personagem	CRLF x2	そうですね。\nいきなりそんな目に遭われては、\n戸惑ってしまいますよね…	Indeed.\nExperiencing something so sudden\nis bound to leave you bewildered...	
+mev09_150.scr:6	mev09_150.scr	6	ロニ	Loni Dunamis	personagem	CRLF x1	いいえ、お嬢さん！\nこのロニ・デュナミスが今抱く戸惑いは…	No, fair maiden!\nThe bewilderment of this Loni Dunamis...	
+mev09_150.scr:7	mev09_150.scr	7	ロニ	Loni Dunamis	personagem	CRLF x1	あなたの様な美しい方の元へと\n辿りついてしまった事です！！	is having ended up in the presence\nof someone as gorgeous as you!!	
+mev09_150.scr:8	mev09_150.scr	8	アニー	Annie Barrs	personagem		………はい？	......Excuse me?	
+mev09_150.scr:9	mev09_150.scr	9	アニー	Annie Barrs	personagem	CRLF x2	ひょっとして、頭を強く打ったのかも\nしれませんね。\nハロルドさんに診て貰った方がいいと思います	Perhaps you took a hard blow\nto the head. It might be best\nto have Harold examine you.	
+mev09_150.scr:10	mev09_150.scr	10	ロニ	Loni Dunamis	personagem		あっ、ちょっと…、お嬢さんっ！	Ah, wait... miss!	
+mev09_150.scr:11	mev09_150.scr	11	ハロルド	Harold Berselius	personagem	CRLF x2	はいは〜い♪\n脳ミソ見て欲しいのはどちらかしら？\n開頭術、穿頭術、好きな方選んでいいわよ〜	Coming right up!\nWho wants their brain checked?\nCraniotomy or trepanation, your pick!	
+mev09_150.scr:12	mev09_150.scr	12	ロニ	Loni Dunamis	personagem		その両手に持っているドリルは何でしょ？	What are those drills in your hands?!	
+mev09_150.scr:13	mev09_150.scr	13	ロニ	Loni Dunamis	personagem	CRLF x2	…っつうかマジで大丈夫ですって、\nおいお前ら助けろよ！！\nうわわわわ！！	I mean, I'm seriously fine!\nHey, help me out here, guys!!\nWaaaah!!	
+mev09_150.scr:14	mev09_150.scr	14	ハロルド	Harold Berselius	personagem		さあさあ、じっとする！！	Now, now, hold still!!	
+mev09_150.scr:15	mev09_150.scr	15	ロニ	Loni Dunamis	personagem		目が本気じゃねぇかよっ！！	Your eyes are totally serious!!	
+mev09_150.scr:16	mev09_150.scr	16	ロニ	Loni Dunamis	personagem		うわああああああ…	Uwaaaaaaaagh...	
+mev09_150.scr:17	mev09_150.scr	17	アンジュ	Ange Serena	personagem	CRLF x1	その様子だと、みんな無事の様ね。\nとりあえず、ひと安心かな	Judging by that, everyone seems unharmed.\nThat is a relief, at least.	
+mev09_150.scr:18	mev09_150.scr	18	アンジュ	Ange Serena	personagem	CRLF x2	わたしはギルド・アドリビトムのリーダー、\nアンジュよ。\nあなた達の名前を聞いてもいいかしら？	I am Ange, the leader of Ad Libitum.\nMight I ask for\nyour names?	
+mev09_150.scr:19	mev09_150.scr	19	カイル	Kyle Dunamis	personagem		オレ、カイル・デュナミス！	I'm Kyle Dunamis!	
+mev09_150.scr:20	mev09_150.scr	20	リアラ	Reala	personagem	CRLF x2	わたしはリアラ。\nそして、今部屋を出て行ったのは\nロニです	I am Reala.\nAnd the one who just fled the room\nis Loni.	
+mev09_150.scr:21	mev09_150.scr	21	ジューダス	Judas	personagem		僕はジューダスだ…	I am Judas...	
+mev09_150.scr:22	mev09_150.scr	22	リアラ	Reala	personagem	CRLF x2	落ちたのが船の上で良かった。\nもし、あのまま地面に落ちていたら\nきっとみんな助からなかったわ	Thank goodness we landed on this ship.\nIf we had crashed onto the ground,\nnone of us would have survived.	
+mev09_150.scr:23	mev09_150.scr	23	アンジュ	Ange Serena	personagem	CRLF x1	それについては謝らなきゃね。\nどうやら、わたし達のせいの様だから	I must apologize for that.\nIt appears to be entirely our fault.	
+mev09_150.scr:24	mev09_150.scr	24	カイル	Kyle Dunamis	personagem		えっ、そうなの？	Huh? Really?	
+mev09_150.scr:25	mev09_150.scr	25	アンジュ	Ange Serena	personagem	CRLF x1	これは、\nリタとハロルドさんの見解なんだけど…	According to Rita and Harold's\nassessment, you see...	
+mev09_150.scr:26	mev09_150.scr	26	アンジュ	Ange Serena	personagem	CRLF x2	次元チューニング装置の不具合のせいで、\nあなた達をこの船に呼び寄せてしまった\nらしいの	a malfunction in their dimensional\ntuning device seems to have summoned\nyou to this ship.	
+mev09_150.scr:27	mev09_150.scr	27	アンジュ	Ange Serena	personagem	CRLF x1	だから、これからあなた達が希望する場所へ\n送ろうと思うんだけど	So we would like to send you wherever\nyou wish to go, but...	
+mev09_150.scr:28	mev09_150.scr	28	アンジュ	Ange Serena	personagem		希望する行き先は？	Where would you like to be taken?	
+mev09_150.scr:29	mev09_150.scr	29	カイル	Kyle Dunamis	personagem	CRLF x1	えっと、ここからだと…。\nどう説明すればいいかな	Ummm, from here...\nHow should I explain it?	
+mev09_150.scr:30	mev09_150.scr	30	アンジュ	Ange Serena	personagem	CRLF x1	世界樹から、\nどの方角かでもいいんだけど	Even just the direction\nfrom the World Tree would suffice.	
+mev09_150.scr:31	mev09_150.scr	31	カイル	Kyle Dunamis	personagem		世界樹って？	The World Tree?	
+mev09_150.scr:32	mev09_150.scr	32	アンジュ	Ange Serena	personagem	CRLF x1	世界樹は世界樹よ。\nあなた達、知らないの？	The World Tree is the World Tree.\nDo you not know of it?	
+mev09_150.scr:33	mev09_150.scr	33	ジューダス	Judas	personagem	CRLF x1	…まさか、とは思うが。\nここは僕達の世界じゃないんじゃないか	...It sounds absurd, but could this\nnot be our world at all?	
+mev09_150.scr:34	mev09_150.scr	34	リアラ	Reala	personagem	CRLF x1	そういえば、さっき上で見た世界地図。\nわたし達の世界のものとは違ってた	Now that you mention it, that world map\nwe saw above was unlike our own.	
+mev09_150.scr:35	mev09_150.scr	35	リアラ	Reala	personagem		でも、そんな事って…	Still, could such a thing really be...?	
+mev09_150.scr:36	mev09_150.scr	36	ジューダス	Judas	personagem	CRLF x2	だったら、元の世界へ戻してくれ。\n呼び寄せたと言うのなら、\n戻す事くらい出来るだろう	Then send us back to our world.\nIf you summoned us here, sending us\nback should be well within reason.	
+mev09_150.scr:37	mev09_150.scr	37	アンジュ	Ange Serena	personagem		それは…、ハロルドさん達に聞かないと	For that... we must ask Harold.	
+mev09_150.scr:38	mev09_150.scr	38	アンジュ	Ange Serena	personagem	CRLF x1	○○、研究室へ行って、\nこの事を話してきてくれる？	○○, could you head to the lab\nand explain the situation to them?	
+mev09_150.scr:39	mev09_150.scr	39	アンジュ	Ange Serena	personagem	CRLF x1	わたしは部屋を用意してくるから、\nお願いね	I shall go prepare their quarters.\nI leave it to you!	
+mev09_160.scr:0	mev09_160.scr	0	ハロルド	Harold Berselius	personagem	CRLF x1	元の世界に戻せって言ってもねぇ。\nま、いずれ戻れる様にはしてあげる	Telling me to send you back, huh...\nWell, I'll make it happen eventually.	
+mev09_160.scr:1	mev09_160.scr	1	リアラ	Reala	personagem		すぐには戻れないんですか？	Can we not return right away?	
+mev09_160.scr:2	mev09_160.scr	2	ハロルド	Harold Berselius	personagem	CRLF x2	どういう仕組みで、あんた達の世界と\n繋がったのかわかんないんだもん。\nまずは、そこから調べないと	I don't know the mechanism that\nconnected us to your world.\nI have to investigate that first.	
+mev09_160.scr:3	mev09_160.scr	3	ジューダス	Judas	personagem	CRLF x2	まずいな…。\nこうしている間にも、\n「あの男」が多くの者を殺めてしまう…	This is bad...\nEven now, "that man" will claim\nthe lives of countless victims...	
+mev09_160.scr:4	mev09_160.scr	4	ジューダス	Judas	personagem	CRLF x1	とにかく強い者がいると聞けば、\n戦いを挑むというめちゃくちゃな奴だ	A maniac who challenges anyone\nhe hears is strong to battle.	
+mev09_160.scr:5	mev09_160.scr	5	ジューダス	Judas	personagem	CRLF x1	腕の立つ者は目を付けられて、\n皆命を奪われた	Skilled warriors were targeted,\nand every last one was slain.	
+mev09_160.scr:6	mev09_160.scr	6	ジューダス	Judas	personagem		そのうちでは手遅れになる…！	"Eventually" will be too late...!	
+mev09_160.scr:7	mev09_160.scr	7	ジューダス	Judas	personagem	CRLF x1	あの男というのは…強い者がいると聞けば、\n戦いを挑むというめちゃくちゃな奴だ	That man is a maniac who challenges\nanyone rumored to be strong.	
+mev09_160.scr:8	mev09_160.scr	8	ジューダス	Judas	personagem	CRLF x1	腕の立つ事で目を付けられた者は、\n必ず戦いを挑まれ、そして命を奪われる	Anyone marked for their skill is forced\ninto battle and slaughtered without mercy.	
+mev09_160.scr:9	mev09_160.scr	9	カイル	Kyle Dunamis	personagem	CRLF x2	そいつが、オレの父さんを\n狙ってるってわかって、\nそれを止める為に旅をしていたんだ	We found out he was targeting my dad,\nso we set out on a journey\nto stop him!	
+mev09_160.scr:10	mev09_160.scr	10	ジューダス	Judas	personagem	CRLF x1	全く…、やっと奴を探し出して\nあと少しで倒せていたかもしれないというのに	Good grief... We had finally tracked him\ndown and might have defeated him!	
+mev09_160.scr:11	mev09_160.scr	11	ハロルド	Harold Berselius	personagem	CRLF x1	まー、そりゃ悪かったけど。\n無理なもんは無理なんだしさ	Well, sorry about that,\nbut the impossible is impossible.	
+mev09_160.scr:12	mev09_160.scr	12	ハロルド	Harold Berselius	personagem	CRLF x2	そのうち戻してあげるから、\nそれまでここのギルドで働いてれば\nいいじゃない	I'll send you back eventually,\nso why not work for this guild\nin the meantime?	
+mev09_160.scr:13	mev09_160.scr	13	リアラ	Reala	personagem		そうするしかないみたいね、カイル	Seems we have no other choice, Kyle.	
+mev09_160.scr:14	mev09_160.scr	14	カイル	Kyle Dunamis	personagem	CRLF x2	うん。\nオレ、ギルドの仕事って\n一度やってみたかったし	Yeah.\nI always wanted to try working\nfor a guild at least once!	
+mev09_160.scr:15	mev09_160.scr	15	リアラ	Reala	personagem	CRLF x1	それじゃあ、わたし達、\nしばらくここでお世話になります	In that case, we shall be in\nyour care for a little while.	
+mev09_160.scr:16	mev09_160.scr	16	リアラ	Reala	personagem		これから、よろしくお願いします	We look forward to working with you.	
+mev09_160.scr:17	mev09_160.scr	17	ハロルド	Harold Berselius	personagem		ハイハイ、よろしく〜	Yeah, yeah, welcome aboard!	
+mev09_160.scr:18	mev09_160.scr	18	(opcao do jogador)	(opcao do jogador)	escolha		あの男とは何かを尋ねる	Ask who that man was	
+mev09_160.scr:19	mev09_160.scr	19	(opcao do jogador)	(opcao do jogador)	escolha		そのうち戻れると励ます	Comfort them that they will return	
+mev09_160.scr:20	mev09_160.scr	20	(mensagem de sistema)	(mensagem de sistema)	sistema		カイルがアドリビトムに加入しました	Kyle has joined Ad Libitum.	
+mev09_160.scr:21	mev09_160.scr	21	(mensagem de sistema)	(mensagem de sistema)	sistema		リアラがアドリビトムに加入しました	Reala has joined Ad Libitum.	
+mev09_160.scr:22	mev09_160.scr	22	(mensagem de sistema)	(mensagem de sistema)	sistema		ロニがアドリビトムに加入しました	Loni has joined Ad Libitum.	
+mev09_160.scr:23	mev09_160.scr	23	(mensagem de sistema)	(mensagem de sistema)	sistema		ジューダスがアドリビトムに加入しました	Judas has joined Ad Libitum.	
+mev09_170.scr:0	mev09_170.scr	0	バルバトス	Barbatos Goetia	personagem		ぬぅぅぅぅぅ…	Nuuuugh...	
+mev09_170.scr:1	mev09_170.scr	1	バルバトス	Barbatos Goetia	personagem		あの小僧ども、どこへ消えた…	Where did those brats vanish to...?	
+mev09_170.scr:2	mev09_170.scr	2	バルバトス	Barbatos Goetia	personagem	CRLF x1	待てよ…。\n俺はなぜ、こんな所にいる？	Wait...\nWhy am I in a place like this?	
+mev09_170.scr:3	mev09_170.scr	3	バルバトス	Barbatos Goetia	personagem		ここは…、どこだ？	Where... the hell is this?!	
+mev09_180.scr:0	mev09_180.scr	0	ルーティ	Rutee Katrea	personagem		あら、新入り君？	Oh, new recruits?	
+mev09_180.scr:1	mev09_180.scr	1	ルーティ	Rutee Katrea	personagem	CRLF x1	よろしく。\nあたしは、ルーティ・カトレットよ	Nice to meet ya.\nI'm Rutee Katrea!	
+mev09_180.scr:2	mev09_180.scr	2	ロニ	Loni Dunamis	personagem		ル、ルーティ………さんっ！？	R-Rutee.........?!	
+mev09_180.scr:3	mev09_180.scr	3	スタン	Stahn Aileron	personagem		ああ、新しいメンバーだね	Ah, new members, right?	
+mev09_180.scr:4	mev09_180.scr	4	スタン	Stahn Aileron	personagem	CRLF x1	俺は、スタン・エルロン。\n一緒に組む時はよろしくな！	I'm Stahn Aileron.\nLook forward to partying with ya!	
+mev09_180.scr:5	mev09_180.scr	5	カイル	Kyle Dunamis	personagem		ウソ…？	No way...?	
+mev09_180.scr:6	mev09_180.scr	6	スタン	Stahn Aileron	personagem	CRLF x1	えっ？\n名乗るだけなのに、ウソなんか言わないよ	Huh? Why would I lie\nabout my own name?	
+mev09_180.scr:7	mev09_180.scr	7	ロニ	Loni Dunamis	personagem		…あ、…いやっ	...Ah... N-No...	
+mev09_180.scr:8	mev09_180.scr	8	ロニ	Loni Dunamis	personagem		あ、何でもありませ…いやっ、何でもない！	It's nothin... I mean, never mind!	
+mev09_180.scr:9	mev09_180.scr	9	ロニ	Loni Dunamis	personagem	CRLF x1	俺はロニ、こいつはカイル。\nどどどどどどーも、よろしく…！！	I'm Loni, and this is Kyle.\nV-V-V-Very pleased to meet you...!!	
+mev09_180.scr:10	mev09_180.scr	10	スタン	Stahn Aileron	personagem	CRLF x2	ははっ、緊張なんてしなくていいよ。\nここのみんなは、\n気さくでいい奴ばかりだから	Haha, no need to be nervous!\nEveryone here is super friendly\nand great to be around.	
+mev09_180.scr:11	mev09_180.scr	11	ルーティ	Rutee Katrea	personagem		それじゃ、あたし達はこれで	Well, we're off.	
+mev09_180.scr:12	mev09_180.scr	12	ルーティ	Rutee Katrea	personagem	CRLF x1	報酬が多い仕事する時は、\nあたしを呼んでね〜	Call on me whenever you've got\na job with a big payout!	
+mev09_180.scr:13	mev09_180.scr	13	カイル	Kyle Dunamis	personagem	CRLF x1	若かったけど、\n今のは父さんと母さんだった…	They were young, but that was\ndefinitely Mom and Dad...	
+mev09_180.scr:14	mev09_180.scr	14	カイル	Kyle Dunamis	personagem	CRLF x1	別の世界に…、\n父さんと母さんが存在していたなんて…	To think Mom and Dad existed\nin another world...	
+mev09_180.scr:15	mev09_180.scr	15	ハロルド	Harold Berselius	personagem	CRLF x2	あんた達、違う世界から来たのよね？\nでも、あんたの両親がここに居る…。\n…ふ〜ん	You came from another world, right?\nYet your parents are here...\nHuuuuh...	
+mev09_180.scr:16	mev09_180.scr	16	カイル	Kyle Dunamis	personagem		ハロルド、これってどういう事？	Harold, what does this mean?!	
+mev09_180.scr:17	mev09_180.scr	17	ハロルド	Harold Berselius	personagem	CRLF x2	そんなのわかんないわよ。\n仮説を立てるにしたって、\n様々な事が考えられるんだし	How should I know?\nEven forming a hypothesis,\ncountless possibilities come to mind.	
+mev09_180.scr:18	mev09_180.scr	18	ハロルド	Harold Berselius	personagem	CRLF x2	ただ、カイル。\nあんたが二人の子どもである事は\n伏せておくのよ	However, Kyle.\nYou must keep the fact that you are\ntheir child completely hidden.	
+mev09_180.scr:19	mev09_180.scr	19	ハロルド	Harold Berselius	personagem		例え違う世界の事とはいえね	Even if it's from another world.	
+mev09_180.scr:20	mev09_180.scr	20	カイル	Kyle Dunamis	personagem		何でだよ！	Why?!	
+mev09_180.scr:21	mev09_180.scr	21	ハロルド	Harold Berselius	personagem	CRLF x1	あの二人の未来は\nまだ決まってないの	The future of those two\nhas not yet been decided.	
+mev09_180.scr:22	mev09_180.scr	22	ハロルド	Harold Berselius	personagem	CRLF x1	不確定の未来に\n干渉するべきではないわ	You must not interfere\nwith an uncertain future.	
+mev09_180.scr:23	mev09_180.scr	23	ハロルド	Harold Berselius	personagem	CRLF x1	ヘタしたら、この世界でのカイルが\n生まれなくなるかもしれないんだから	Mess up, and Kyle might never be born\nin this world at all!	
+mev09_180.scr:24	mev09_180.scr	24	ロニ	Loni Dunamis	personagem		カイルが…、生まれなくなる…！？	Kyle... might never be born...?!	
+mev09_180.scr:25	mev09_180.scr	25	ハロルド	Harold Berselius	personagem	CRLF x2	だから、あんた達同じ世界のもの同士にしか\nこの話はしないでおいて。\nそれと…	So only speak of this amongst\nyourselves from that world.\nAnd furthermore...	
+mev09_180.scr:26	mev09_180.scr	26	ハロルド	Harold Berselius	personagem	CRLF x2	○○、聞いてたでしょ？\nあんたもこの件については、\n誰にも言っちゃダメだからね	○○, you heard that, right?\nYou can't tell a single soul\nabout this matter either!	
+mev09_190.scr:0	mev09_190.scr	0	ユージーン	Eugene Gallardo	personagem	CRLF x1	一つ、アドリビトムに依頼が\nあるのだが	There is a request I wish to submit\nto Ad Libitum.	
+mev09_190.scr:1	mev09_190.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	あら。\n皆さん、おそろいで…	My.\nAll of you together...	
+mev09_190.scr:2	mev09_190.scr	2	ユージーン	Eugene Gallardo	personagem	CRLF x1	故郷ヘーゼル村の働き手が、\n帝国に連れて行かれた	The laborers of our home, Hazel Village,\nwere abducted by the Empire.	
+mev09_190.scr:3	mev09_190.scr	3	ユージーン	Eugene Gallardo	personagem	CRLF x2	村近辺の星晶採掘は終わり、皆解放されたと\n思っていたが、遠くの土地の星晶採掘の為に\n連れて行かれ、強制労働を強いられている	Mining near the village had ended,\nso we thought they were freed, but they\nwere taken away for forced labor.	
+mev09_190.scr:4	mev09_190.scr	4	アンジュ	Ange Serena	personagem	CRLF x1	ひどい話…。\nあの、サレという人の仕業ね	How dreadful...\nThe doing of that Saleh person, no doubt.	
+mev09_190.scr:5	mev09_190.scr	5	ティトレイ	Tytree Crowe	personagem	CRLF x2	ヘーゼル村に残ってる者も、\nもうあの土地では生活していけない。\n土地のマナ不足は、そこまで深刻になってんだ	Those left behind in Hazel Village\ncan't survive there anymore either.\nThe Mana shortage is that severe.	
+mev09_190.scr:6	mev09_190.scr	6	ティトレイ	Tytree Crowe	personagem	CRLF x2	そこで、村のみんなと話し合って、\n多少不便でもマナの恵みにあずかれる土地へ\n移って、村を建て直す事にしたんだ	So we talked with everyone and decided\nto move to land blessed with Mana\nto rebuild our village!	
+mev09_190.scr:7	mev09_190.scr	7	アニー	Annie Barrs	personagem	CRLF x2	キールさんが研究しているオルタ・ビレッジの\n構想を取り入れれば、また村人は豊かな生活を\n手にする事が出来るでしょうし	If we adopt the Olta Village concept\nKeele is researching, the villagers\ncan regain a prosperous life.	
+mev09_190.scr:8	mev09_190.scr	8	ヴェイグ	Veigue Lungberg	personagem		これからオレ達は、ヘーゼル村のみんなを救う	We are going to save Hazel Village.	
+mev09_190.scr:9	mev09_190.scr	9	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	村人と、強制労働の為に連れて行かれた者を\n連れ、新たな土地へ移動する為に\nカダイフ砂漠を越える	Together with the villagers and freed\nlaborers, we shall cross Kadaif Desert\nto reach new lands.	
+mev09_190.scr:10	mev09_190.scr	10	ユージーン	Eugene Gallardo	personagem	CRLF x2	砂漠には魔物も多い。\n村人が、無事に砂漠を越えられる様に、\n魔物の討伐を頼みたいのだ	Monsters roam the desert in abundance.\nWe ask you to cull the monsters\nso the villagers may cross safely.	
+mev09_190.scr:11	mev09_190.scr	11	アンジュ	Ange Serena	personagem	CRLF x1	わかりました。\nすぐに、誰かが名乗り出てくれるはずよ	Understood.\nSomeone will volunteer right away.	
+mev09_190.scr:12	mev09_190.scr	12	ヴェイグ	Veigue Lungberg	personagem	CRLF x2	これからオレとユージーンは、\n帝国に連れて行かれた村人を\n救出する為に船を出る	Eugene and I shall depart the ship\nto rescue the villagers abducted\nby the Empire.	
+mev09_190.scr:13	mev09_190.scr	13	ティトレイ	Tytree Crowe	personagem	CRLF x2	おれとアニーは、\nヘーゼル村に残されたみんなを連れて\n砂漠へ向かう	Annie and I will gather everyone\nleft in Hazel Village and head\nfor the desert!	
+mev09_190.scr:14	mev09_190.scr	14	アニー	Annie Barrs	personagem	CRLF x1	わたし達はしばらく船を出ます。\nごめんなさい…	We will be away from the ship\nfor a while. Please forgive us...	
+mev09_190.scr:15	mev09_190.scr	15	アンジュ	Ange Serena	personagem	CRLF x1	医務室の業務については気にしないで。\n今回は、村の人達の為に頑張ってね	Do not worry about the infirmary.\nDo your best for your villagers!	
+mev09_190.scr:16	mev09_190.scr	16	アニー	Annie Barrs	personagem	CRLF x1	はい。\nでは、行ってきます	Yes.\nWe shall be off then!	
+mev09_190.scr:17	mev09_190.scr	17	アンジュ	Ange Serena	personagem	CRLF x1	はい。\nみんなの無事を祈っています	Yes.\nI pray for everyone's safety.	
+mev09_190.scr:18	mev09_190.scr	18	(mensagem de sistema)	(mensagem de sistema)	sistema	CRLF x1	ヴェイグとユージーン、ティトレイとアニーが\n別任務で下船します	Veigue, Eugene, Tytree, and Annie\ndisembark for a separate mission.	
+mev09_190.scr:19	mev09_190.scr	19	(mensagem de sistema)	(mensagem de sistema)	sistema		ヴェイグがパーティから外れました	Veigue has left the party.	
+mev09_190.scr:20	mev09_190.scr	20	(mensagem de sistema)	(mensagem de sistema)	sistema		ユージーンがパーティから外れました	Eugene has left the party.	
+mev09_190.scr:21	mev09_190.scr	21	(mensagem de sistema)	(mensagem de sistema)	sistema		アニーがパーティから外れました	Annie has left the party.	
+mev09_190.scr:22	mev09_190.scr	22	(mensagem de sistema)	(mensagem de sistema)	sistema		ティトレイがパーティから外れました	Tytree has left the party.	

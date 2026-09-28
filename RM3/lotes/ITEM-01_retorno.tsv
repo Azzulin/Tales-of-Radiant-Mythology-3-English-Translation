@@ -1,0 +1,321 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+head_equip#0	head_equip	0	(item/equipamento)	(item/equipment)	sistema		レザーヘルム	Leather Helm	
+head_equip#1	head_equip	1	(item/equipamento)	(item/equipment)	sistema		革製の兜	A helm made of leather.	
+head_equip#2	head_equip	2	(item/equipamento)	(item/equipment)	sistema		ネビュラオーナメント	Nebula Ornament	
+head_equip#3	head_equip	3	(item/equipamento)	(item/equipment)	sistema		星雲級と称えられた額飾り	A forehead ornament praised as nebula-class.	
+head_equip#4	head_equip	4	(item/equipamento)	(item/equipment)	sistema		ブラフミーヘルム	Brahmi Helm	
+head_equip#5	head_equip	5	(item/equipamento)	(item/equipment)	sistema		霊草ブラフミーの名を冠する兜	A helm bearing the name of the sacred herb Brahmi.	
+head_equip#6	head_equip	6	(item/equipamento)	(item/equipment)	sistema		ビキニヘルム	Bikini Helm	
+head_equip#7	head_equip	7	(item/equipamento)	(item/equipment)	sistema		顔を隠す事で恥ずかしさを軽減する為の兜	A helm designed to reduce embarrassment by hiding the face.	
+head_equip#8	head_equip	8	(item/equipamento)	(item/equipment)	sistema		歩兵隊猟兵の兜	Infantry Jaeger Helm	
+head_equip#9	head_equip	9	(item/equipamento)	(item/equipment)	sistema		ホヘイタイリョウヘイノカブト	Infantry Jaeger Helm	
+head_equip#10	head_equip	10	(item/equipamento)	(item/equipment)	sistema		歩兵隊猟兵に支給される兜	A helm issued to infantry jaegers.	
+head_equip#11	head_equip	11	(item/equipamento)	(item/equipment)	sistema		アイアンヘルム	Iron Helm	
+head_equip#12	head_equip	12	(item/equipamento)	(item/equipment)	sistema		鉄製の兜	A helm made of iron.	
+head_equip#13	head_equip	13	(item/equipamento)	(item/equipment)	sistema		トランクヘルム	Trunk Helm	
+head_equip#14	head_equip	14	(item/equipamento)	(item/equipment)	sistema		小さな金属板をあしらった兜	A helm decorated with small metal plates.	
+head_equip#15	head_equip	15	(item/equipamento)	(item/equipment)	sistema		孤狼の額当て	Lone Wolf Forehead Guard	
+head_equip#16	head_equip	16	(item/equipamento)	(item/equipment)	sistema		コロウノヌカアテ	Lone Wolf Forehead Guard	
+head_equip#17	head_equip	17	(item/equipamento)	(item/equipment)	sistema		一匹狼の戦士が身に着けるという額当て	A forehead guard said to be worn by lone wolf warriors.	
+head_equip#18	head_equip	18	(item/equipamento)	(item/equipment)	sistema		小龍の兜	Little Dragon Helm	
+head_equip#19	head_equip	19	(item/equipamento)	(item/equipment)	sistema		ショウリュウノカブト	Little Dragon Helm	
+head_equip#20	head_equip	20	(item/equipamento)	(item/equipment)	sistema		小龍の魂が宿るといわれる兜	A helm said to house the soul of a little dragon.	
+head_equip#21	head_equip	21	(item/equipamento)	(item/equipment)	sistema		グラディエータヘルム	Gladiator Helm	
+head_equip#22	head_equip	22	(item/equipamento)	(item/equipment)	sistema		剣闘士が身に着ける兜	A helm worn by gladiators.	
+head_equip#23	head_equip	23	(item/equipamento)	(item/equipment)	sistema		フィールドヘッド	Field Headgear	
+head_equip#24	head_equip	24	(item/equipamento)	(item/equipment)	sistema		動きやすさ重視の頭部用防具	Headgear designed with an emphasis on mobility.	
+head_equip#25	head_equip	25	(item/equipamento)	(item/equipment)	sistema		足軽大将の兜	Ashigaru General Helm	
+head_equip#26	head_equip	26	(item/equipamento)	(item/equipment)	sistema		アシガルタイショウノカブト	Ashigaru General Helm	
+head_equip#27	head_equip	27	(item/equipamento)	(item/equipment)	sistema		東方の兵士が着用していた兜	A helm once worn by soldiers of the east.	
+head_equip#28	head_equip	28	(item/equipamento)	(item/equipment)	sistema		チーフキャップ	Chief Cap	
+head_equip#29	head_equip	29	(item/equipamento)	(item/equipment)	sistema		下士官用の帽子	A cap for non-commissioned officers.	
+head_equip#30	head_equip	30	(item/equipamento)	(item/equipment)	sistema		オンミツマスク	Onmitsu Mask	
+head_equip#31	head_equip	31	(item/equipamento)	(item/equipment)	sistema		隠密が着用していたマスク	A mask once worn by undercover agents.	
+head_equip#32	head_equip	32	(item/equipamento)	(item/equipment)	sistema		ゴシックヘルム	Gothic Helm	
+head_equip#33	head_equip	33	(item/equipamento)	(item/equipment)	sistema		古式の製法で作られた全身鎧の頭部	The headpiece of a full plate armor made with ancient techniques.	
+head_equip#34	head_equip	34	(item/equipamento)	(item/equipment)	sistema		ジャーメインヘルム	Germain Helm	
+head_equip#35	head_equip	35	(item/equipamento)	(item/equipment)	sistema		古の聖人ジャーメインに正義を誓う者が着用する兜	A helm worn by those who swear justice to the ancient saint Germain.	
+head_equip#36	head_equip	36	(item/equipamento)	(item/equipment)	sistema		ムシャヘルム	Musha Helm	
+head_equip#37	head_equip	37	(item/equipamento)	(item/equipment)	sistema		鎧武者を彷彿とさせる兜	A helm reminiscent of an armored samurai warrior.	
+head_equip#38	head_equip	38	(item/equipamento)	(item/equipment)	sistema		ナイトヘルム	Knight Helm	
+head_equip#39	head_equip	39	(item/equipamento)	(item/equipment)	sistema		ナイトの称号を持つ者に与えられる兜	A helm granted to those who hold the title of Knight.	
+head_equip#40	head_equip	40	(item/equipamento)	(item/equipment)	sistema		ナハラヘルム	Nahla Helm	
+head_equip#41	head_equip	41	(item/equipamento)	(item/equipment)	sistema		千夜一夜の魔法の国で蜂を意味する兜	A helm meaning bee in the magical land of the Arabian Nights.	
+head_equip#42	head_equip	42	(item/equipamento)	(item/equipment)	sistema		ガネーシャヘルム	Ganesha Helm	
+head_equip#43	head_equip	43	(item/equipamento)	(item/equipment)	sistema		獣神ガネーシャの名を冠する兜	A helm bearing the name of the beast god Ganesha.	
+head_equip#44	head_equip	44	(item/equipamento)	(item/equipment)	sistema		騎士団の頭飾り	Knight Order Headdress	
+head_equip#45	head_equip	45	(item/equipamento)	(item/equipment)	sistema		キシダンノアタマカザリ	Knight Order Headdress	
+head_equip#46	head_equip	46	(item/equipamento)	(item/equipment)	sistema		騎士団所属の証となる頭飾り	A headdress serving as proof of membership in the knight order.	
+head_equip#47	head_equip	47	(item/equipamento)	(item/equipment)	sistema		クロスヘルム	Cross Helm	
+head_equip#48	head_equip	48	(item/equipamento)	(item/equipment)	sistema		堅い守りと重量感溢れる兜	A helm brimming with heavy weight and solid defense.	
+head_equip#49	head_equip	49	(item/equipamento)	(item/equipment)	sistema		ボーンヘルム	Bone Helm	
+head_equip#50	head_equip	50	(item/equipamento)	(item/equipment)	sistema		不気味な意匠の鎧の頭部	The headpiece of armor with an eerie motif.	
+head_equip#51	head_equip	51	(item/equipamento)	(item/equipment)	sistema		グレートヘッド	Great Headgear	
+head_equip#52	head_equip	52	(item/equipamento)	(item/equipment)	sistema		抜群の防御と威圧感の兜	A helm with exceptional defense and an intimidating presence.	
+head_equip#53	head_equip	53	(item/equipamento)	(item/equipment)	sistema		アスタロトホーン	Astaroth Horns	
+head_equip#54	head_equip	54	(item/equipamento)	(item/equipment)	sistema		魔界の大公爵アスタロトの福音を受けたホーン	Horns blessed by Astaroth, Grand Duke of the Demon Realm.	
+head_equip#55	head_equip	55	(item/equipamento)	(item/equipment)	sistema		新米傭兵のヘッドバンド	Novice Mercenary Headband	
+head_equip#56	head_equip	56	(item/equipamento)	(item/equipment)	sistema		シンマイヨウヘイノヘッドバンド	Novice Mercenary Headband	
+head_equip#57	head_equip	57	(item/equipamento)	(item/equipment)	sistema		新米傭兵が着用するヘッドバンド	A headband worn by novice mercenaries.	
+head_equip#58	head_equip	58	(item/equipamento)	(item/equipment)	sistema		キルトキャップ	Quilted Cap	
+head_equip#59	head_equip	59	(item/equipamento)	(item/equipment)	sistema		厚手の布を多用した帽子	A cap crafted with abundant heavy cloth.	
+head_equip#60	head_equip	60	(item/equipamento)	(item/equipment)	sistema		ファルコンフェザー	Falcon Feather	
+head_equip#61	head_equip	61	(item/equipamento)	(item/equipment)	sistema		とある民族の守り神ファルコンの加護を受けた頭飾り	A headdress blessed by Falcon, guardian deity of a certain tribe.	
+head_equip#62	head_equip	62	(item/equipamento)	(item/equipment)	sistema		スティアレスラーハット	Steer Wrestler Hat	
+head_equip#63	head_equip	63	(item/equipamento)	(item/equipment)	sistema		逃げる牛を追う者が着用する帽子	A hat worn by those who chase fleeing cattle.	
+head_equip#64	head_equip	64	(item/equipamento)	(item/equipment)	sistema		妙光鉢金	Wondrous Light Hachigane	
+head_equip#65	head_equip	65	(item/equipamento)	(item/equipment)	sistema		ミョウコウハチガネ	Wondrous Light Hachigane	
+head_equip#66	head_equip	66	(item/equipamento)	(item/equipment)	sistema		妙なる光を湛えた鉢金	A forehead protector filled with wondrous light.	
+head_equip#67	head_equip	67	(item/equipamento)	(item/equipment)	sistema		修行僧の額当て	Ascetic Monk Forehead Guard	
+head_equip#68	head_equip	68	(item/equipamento)	(item/equipment)	sistema		シュギョウソウノヌカアテ	Ascetic Monk Forehead Guard	
+head_equip#69	head_equip	69	(item/equipamento)	(item/equipment)	sistema		修行に励む修行僧が着用する額当て	A forehead guard worn by an ascetic monk dedicated to training.	
+head_equip#70	head_equip	70	(item/equipamento)	(item/equipment)	sistema		サバイバルゴーグル	Survival Goggles	
+head_equip#71	head_equip	71	(item/equipamento)	(item/equipment)	sistema		サバイバル活動に適したゴーグル	Goggles suitable for survival activities.	
+head_equip#72	head_equip	72	(item/equipamento)	(item/equipment)	sistema		兵士の帽子	Soldier Cap	
+head_equip#73	head_equip	73	(item/equipamento)	(item/equipment)	sistema		ヘイシノボウシ	Soldier Cap	
+head_equip#74	head_equip	74	(item/equipamento)	(item/equipment)	sistema		兵士が巡回警備で着用する帽子	A cap worn by soldiers while on patrol duty.	
+head_equip#75	head_equip	75	(item/equipamento)	(item/equipment)	sistema		ガンナーバンド	Gunner Band	
+head_equip#76	head_equip	76	(item/equipamento)	(item/equipment)	sistema		流浪のガンマンが着用するバンド	A band worn by wandering gunslingers.	
+head_equip#77	head_equip	77	(item/equipamento)	(item/equipment)	sistema		修行僧の頭巾	Ascetic Monk Hood	
+head_equip#78	head_equip	78	(item/equipamento)	(item/equipment)	sistema		シュギョウソウノズキン	Ascetic Monk Hood	
+head_equip#79	head_equip	79	(item/equipamento)	(item/equipment)	sistema		荒行に挑む修行僧の頭巾	A hood worn by an ascetic monk undertaking harsh austerities.	
+head_equip#80	head_equip	80	(item/equipamento)	(item/equipment)	sistema		キャプテンハット	Captain Hat	
+head_equip#81	head_equip	81	(item/equipamento)	(item/equipment)	sistema		船長が着用する帽子	A hat worn by ship captains.	
+head_equip#82	head_equip	82	(item/equipamento)	(item/equipment)	sistema		土蜘蛛討ちの鉢巻	Tsuchigumo Slayer Headband	
+head_equip#83	head_equip	83	(item/equipamento)	(item/equipment)	sistema		ツチグモウチノハチマキ	Tsuchigumo Slayer Headband	
+head_equip#84	head_equip	84	(item/equipamento)	(item/equipment)	sistema		物の怪土蜘蛛を討伐する者が着用する鉢巻	A headband worn by those who subjugate the monstrous Tsuchigumo.	
+head_equip#85	head_equip	85	(item/equipamento)	(item/equipment)	sistema		ミスティターバン	Misty Turban	
+head_equip#86	head_equip	86	(item/equipamento)	(item/equipment)	sistema		異国の戦士が着用するターバン	A turban worn by warriors from foreign lands.	
+head_equip#87	head_equip	87	(item/equipamento)	(item/equipment)	sistema		スパイダーオーナメント	Spider Ornament	
+head_equip#88	head_equip	88	(item/equipamento)	(item/equipment)	sistema		呪術師イエロー・スパイダーが祈祷したオーナメント	An ornament blessed through prayer by the shaman Yellow Spider.	
+head_equip#89	head_equip	89	(item/equipamento)	(item/equipment)	sistema		殺し屋のアイパッチ	Hitman Eyepatch	
+head_equip#90	head_equip	90	(item/equipamento)	(item/equipment)	sistema		コロシヤノアイパッチ	Hitman Eyepatch	
+head_equip#91	head_equip	91	(item/equipamento)	(item/equipment)	sistema		フリーの殺し屋が着用するアイパッチ	An eyepatch worn by freelance hitmen.	
+head_equip#92	head_equip	92	(item/equipamento)	(item/equipment)	sistema		功夫の髪飾り	Kung Fu Hair Ornament	
+head_equip#93	head_equip	93	(item/equipamento)	(item/equipment)	sistema		クンフウノカミカザリ	Kung Fu Hair Ornament	
+head_equip#94	head_equip	94	(item/equipamento)	(item/equipment)	sistema		入門したての功夫使いが着用する髪飾り	A hair ornament worn by newly initiated kung fu practitioners.	
+head_equip#95	head_equip	95	(item/equipamento)	(item/equipment)	sistema		犬調教師の額当て	Dog Trainer Forehead Guard	
+head_equip#96	head_equip	96	(item/equipamento)	(item/equipment)	sistema		イヌチョウキョウシノヌカアテ	Dog Trainer Forehead Guard	
+head_equip#97	head_equip	97	(item/equipamento)	(item/equipment)	sistema		犬の調教を生業とする者が着用する額当て	A forehead guard worn by those who train dogs for a living.	
+head_equip#98	head_equip	98	(item/equipamento)	(item/equipment)	sistema		学士の帽子	Scholar Hat	
+head_equip#99	head_equip	99	(item/equipamento)	(item/equipment)	sistema		ガクシノボウシ	Scholar Hat	
+head_equip#100	head_equip	100	(item/equipamento)	(item/equipment)	sistema		校則に定められた学士用の帽子	A hat prescribed by school regulations for scholars.	
+head_equip#101	head_equip	101	(item/equipamento)	(item/equipment)	sistema		平舞の額当て	Calm Dance Forehead Guard	
+head_equip#102	head_equip	102	(item/equipamento)	(item/equipment)	sistema		ヒラマイノヌカアテ	Calm Dance Forehead Guard	
+head_equip#103	head_equip	103	(item/equipamento)	(item/equipment)	sistema		神前儀式で静穏な動きで舞う者の額当て	A forehead guard worn by dancers performing calm ritual dances before the gods.	
+head_equip#104	head_equip	104	(item/equipamento)	(item/equipment)	sistema		朱雀の髪飾り	Suzaku Hair Ornament	
+head_equip#105	head_equip	105	(item/equipamento)	(item/equipment)	sistema		スザクノカミカザリ	Suzaku Hair Ornament	
+head_equip#106	head_equip	106	(item/equipamento)	(item/equipment)	sistema		飛翔する朱雀を彷彿させる軽やかな髪飾り	A light hair ornament reminiscent of a soaring Suzaku.	
+head_equip#107	head_equip	107	(item/equipamento)	(item/equipment)	sistema		新参者の額当て	Novice Forehead Guard	
+head_equip#108	head_equip	108	(item/equipamento)	(item/equipment)	sistema		シンザンシャノヌカアテ	Novice Forehead Guard	
+head_equip#109	head_equip	109	(item/equipamento)	(item/equipment)	sistema		新参者の術士が着用する額当て	A forehead guard worn by novice spellcasters.	
+head_equip#110	head_equip	110	(item/equipamento)	(item/equipment)	sistema		小達人の帽子	Adept Hat	
+head_equip#111	head_equip	111	(item/equipamento)	(item/equipment)	sistema		ショウタツジンノボウシ	Adept Hat	
+head_equip#112	head_equip	112	(item/equipamento)	(item/equipment)	sistema		魔術結社で小達人の階位に与えられる帽子	A hat awarded to the Adept rank in a magical society.	
+head_equip#113	head_equip	113	(item/equipamento)	(item/equipment)	sistema		インディゴハット	Indigo Hat	
+head_equip#114	head_equip	114	(item/equipamento)	(item/equipment)	sistema		藍染の帽子	An indigo-dyed hat.	
+head_equip#115	head_equip	115	(item/equipamento)	(item/equipment)	sistema		レイヴヘッド	Rave Headgear	
+head_equip#116	head_equip	116	(item/equipamento)	(item/equipment)	sistema		魂の開放を求めて踊る者が着用する頭飾り	A headdress worn by those who dance seeking the liberation of the soul.	
+head_equip#117	head_equip	117	(item/equipamento)	(item/equipment)	sistema		軍少佐第二種礼装帽	Major Dress Cap Type 2	
+head_equip#118	head_equip	118	(item/equipamento)	(item/equipment)	sistema		グンショウサダイニシュレイソウボウ	Major Dress Cap Type 2	
+head_equip#119	head_equip	119	(item/equipamento)	(item/equipment)	sistema		少佐の階級の者が着用する第二種礼装用の帽子	A Type 2 dress cap worn by those holding the rank of Major.	
+head_equip#120	head_equip	120	(item/equipamento)	(item/equipment)	sistema		ヘルパーハット	Helper Hat	
+head_equip#121	head_equip	121	(item/equipamento)	(item/equipment)	sistema		お手伝いさんが着用するハット	A hat worn by helpers and maids.	
+head_equip#122	head_equip	122	(item/equipamento)	(item/equipment)	sistema		衛士の帽子	Castle Guard Cap	
+head_equip#123	head_equip	123	(item/equipamento)	(item/equipment)	sistema		エイシノボウシ	Castle Guard Cap	
+head_equip#124	head_equip	124	(item/equipamento)	(item/equipment)	sistema		城の衛士となった術者の帽子	A cap worn by spellcasters who serve as castle guards.	
+head_equip#125	head_equip	125	(item/equipamento)	(item/equipment)	sistema		策士の頭飾り	Tactician Headdress	
+head_equip#126	head_equip	126	(item/equipamento)	(item/equipment)	sistema		サクシノアタマカザリ	Tactician Headdress	
+head_equip#127	head_equip	127	(item/equipamento)	(item/equipment)	sistema		策士が好んで着用する頭飾り	A headdress favored by clever tacticians.	
+head_equip#128	head_equip	128	(item/equipamento)	(item/equipment)	sistema		フォーチュンハット	Fortune Hat	
+head_equip#129	head_equip	129	(item/equipamento)	(item/equipment)	sistema		幸運を求めし者の帽子	A hat for those who seek good fortune.	
+head_equip#130	head_equip	130	(item/equipamento)	(item/equipment)	sistema		リスペクトハット	Respect Hat	
+head_equip#131	head_equip	131	(item/equipamento)	(item/equipment)	sistema		尊敬を一身に集める術士の帽子	A hat for a spellcaster who commands widespread respect.	
+head_equip#132	head_equip	132	(item/equipamento)	(item/equipment)	sistema		アリアキャップ	Aria Cap	
+head_equip#133	head_equip	133	(item/equipamento)	(item/equipment)	sistema		詠唱者の為の帽子	A cap made for incanters.	
+head_equip#134	head_equip	134	(item/equipamento)	(item/equipment)	sistema		破門者の頭飾り	Excommunicated Headdress	
+head_equip#135	head_equip	135	(item/equipamento)	(item/equipment)	sistema		ハモンモノノアタマカザリ	Excommunicated Headdress	
+head_equip#136	head_equip	136	(item/equipamento)	(item/equipment)	sistema		掟を破り破門された術士の頭飾り	A headdress worn by a spellcaster excommunicated for breaking the rules.	
+head_equip#137	head_equip	137	(item/equipamento)	(item/equipment)	sistema		マジカルキャップ	Magical Cap	
+head_equip#138	head_equip	138	(item/equipamento)	(item/equipment)	sistema		不思議な魔力が込められた可愛い帽子	A cute cap imbued with mysterious magical power.	
+head_equip#139	head_equip	139	(item/equipamento)	(item/equipment)	sistema		アリオンの帽子	Arion Hat	
+head_equip#140	head_equip	140	(item/equipamento)	(item/equipment)	sistema		アリオンノボウシ	Arion Hat	
+head_equip#141	head_equip	141	(item/equipamento)	(item/equipment)	sistema		宇宙存在アリオンの波動を受けた帽子	A hat infused with vibrations from the cosmic being Arion.	
+head_equip#142	head_equip	142	(item/equipamento)	(item/equipment)	sistema		イハサクの帽子	Ihasaku Hat	
+head_equip#143	head_equip	143	(item/equipamento)	(item/equipment)	sistema		イハサクノボウシ	Ihasaku Hat	
+head_equip#144	head_equip	144	(item/equipamento)	(item/equipment)	sistema		東方の秘神イハサクの加護を受けた帽子	A hat blessed by Ihasaku, a secret eastern god.	
+head_equip#145	head_equip	145	(item/equipamento)	(item/equipment)	sistema		祈祷師の頭飾り	Shaman Headdress	
+head_equip#146	head_equip	146	(item/equipamento)	(item/equipment)	sistema		キトウシノアタマカザリ	Shaman Headdress	
+head_equip#147	head_equip	147	(item/equipamento)	(item/equipment)	sistema		祈祷用に作られた頭飾り	A headdress crafted specifically for prayer rituals.	
+head_equip#148	head_equip	148	(item/equipamento)	(item/equipment)	sistema		メディアハット	Media Hat	
+head_equip#149	head_equip	149	(item/equipamento)	(item/equipment)	sistema		古き月の女神を信仰する者の帽子	A hat for worshippers of the ancient moon goddess.	
+head_equip#150	head_equip	150	(item/equipamento)	(item/equipment)	sistema		ピルグリムハット	Pilgrim Hat	
+head_equip#151	head_equip	151	(item/equipamento)	(item/equipment)	sistema		異国の巡礼者が身に着ける帽子	A hat worn by pilgrims from foreign lands.	
+head_equip#152	head_equip	152	(item/equipamento)	(item/equipment)	sistema		公家の烏帽子	Court Noble Eboshi	
+head_equip#153	head_equip	153	(item/equipamento)	(item/equipment)	sistema		クゲノエボシ	Court Noble Eboshi	
+head_equip#154	head_equip	154	(item/equipamento)	(item/equipment)	sistema		東方の貴族が着用する帽子	A hat worn by aristocrats of the east.	
+head_equip#155	head_equip	155	(item/equipamento)	(item/equipment)	sistema		コンシリエーレハット	Consigliere Hat	
+head_equip#156	head_equip	156	(item/equipamento)	(item/equipment)	sistema		マフィアの相談役顧問が着用する帽子	A hat worn by advisors and consiglieri of the mafia.	
+head_equip#157	head_equip	157	(item/equipamento)	(item/equipment)	sistema		白鳥の羽飾り	Swan Feather Ornament	
+head_equip#158	head_equip	158	(item/equipamento)	(item/equipment)	sistema		ハクチョウノハネカザリ	Swan Feather Ornament	
+head_equip#159	head_equip	159	(item/equipamento)	(item/equipment)	sistema		白鳥の羽根を素材にしたアクセサリー	An accessory crafted using swan feathers as material.	
+head_equip#160	head_equip	160	(item/equipamento)	(item/equipment)	sistema		ブリンクキャップ	Blink Cap	
+head_equip#161	head_equip	161	(item/equipamento)	(item/equipment)	sistema		煌めく星をイメージした帽子	A cap designed in the image of glittering stars.	
+head_equip#162	head_equip	162	(item/equipamento)	(item/equipment)	sistema		エンシェントハット	Ancient Hat	
+head_equip#163	head_equip	163	(item/equipamento)	(item/equipment)	sistema		古くさい製法で作られた帽子	A hat crafted using antique methods.	
+head_equip#164	head_equip	164	(item/equipamento)	(item/equipment)	sistema		ナイトブリードマスク	Nightbreed Mask	
+head_equip#165	head_equip	165	(item/equipamento)	(item/equipment)	sistema		闇の眷属が着用するマスク	A mask worn by creatures of darkness.	
+head_equip#166	head_equip	166	(item/equipamento)	(item/equipment)	sistema		シェルピアス	Shell Earrings	
+head_equip#167	head_equip	167	(item/equipamento)	(item/equipment)	sistema		貝殻で作られたアクセサリー	An accessory crafted from seashells.	
+head_equip#168	head_equip	168	(item/equipamento)	(item/equipment)	sistema		ハードレザーヘルム	Hard Leather Helm	
+head_equip#169	head_equip	169	(item/equipamento)	(item/equipment)	sistema		厚手の革で作られた兜	A helm made of thick, heavy leather.	
+head_equip#170	head_equip	170	(item/equipamento)	(item/equipment)	sistema		ギャラクシーオーナメント	Galaxy Ornament	
+head_equip#171	head_equip	171	(item/equipamento)	(item/equipment)	sistema		銀河級と称えられた額飾り	A forehead ornament praised as galaxy-class.	
+head_equip#172	head_equip	172	(item/equipamento)	(item/equipment)	sistema		ガルヒーナヘルム	Galhina Helm	
+head_equip#173	head_equip	173	(item/equipamento)	(item/equipment)	sistema		霊草ガルヒーナの名を冠する兜	A helm bearing the name of the sacred herb Galhina.	
+head_equip#174	head_equip	174	(item/equipamento)	(item/equipment)	sistema		ネイキッドヘルム	Naked Helm	
+head_equip#175	head_equip	175	(item/equipamento)	(item/equipment)	sistema		顔だけは見せぬがこの装備の流儀	Never showing one's face is the principle of this gear.	
+head_equip#176	head_equip	176	(item/equipamento)	(item/equipment)	sistema		山岳兵隊猟兵の兜	Mountain Jaeger Helm	
+head_equip#177	head_equip	177	(item/equipamento)	(item/equipment)	sistema		サンガクヘイタイリョウヘイノカブト	Mountain Jaeger Helm	
+head_equip#178	head_equip	178	(item/equipamento)	(item/equipment)	sistema		山岳兵隊猟兵に支給される兜	A helm issued to mountain jaegers.	
+head_equip#179	head_equip	179	(item/equipamento)	(item/equipment)	sistema		タングステンヘルム	Tungsten Helm	
+head_equip#180	head_equip	180	(item/equipamento)	(item/equipment)	sistema		タングステン製の兜	A helm made of tungsten.	
+head_equip#181	head_equip	181	(item/equipamento)	(item/equipment)	sistema		ブロンズヘルム	Bronze Helm	
+head_equip#182	head_equip	182	(item/equipamento)	(item/equipment)	sistema		小さな青銅の板をあしらった兜	A helm decorated with small bronze plates.	
+head_equip#183	head_equip	183	(item/equipamento)	(item/equipment)	sistema		無法の額当て	Outlaw Forehead Guard	
+head_equip#184	head_equip	184	(item/equipamento)	(item/equipment)	sistema		ムホウノヌカアテ	Outlaw Forehead Guard	
+head_equip#185	head_equip	185	(item/equipamento)	(item/equipment)	sistema		無法者の戦士が身に着けるという額当て	A forehead guard said to be worn by outlaw warriors.	
+head_equip#186	head_equip	186	(item/equipamento)	(item/equipment)	sistema		龍王の兜	Dragon King Helm	
+head_equip#187	head_equip	187	(item/equipamento)	(item/equipment)	sistema		リュウオウノカブト	Dragon King Helm	
+head_equip#188	head_equip	188	(item/equipamento)	(item/equipment)	sistema		龍王の魂が宿るといわれる兜	A helm said to house the soul of the Dragon King.	
+head_equip#189	head_equip	189	(item/equipamento)	(item/equipment)	sistema		ロードヘルム	Lord Helm	
+head_equip#190	head_equip	190	(item/equipamento)	(item/equipment)	sistema		爵位を持つ者に与えられる兜	A helm granted to those who hold peerage.	
+head_equip#191	head_equip	191	(item/equipamento)	(item/equipment)	sistema		ゲイルヘッド	Gale Headgear	
+head_equip#192	head_equip	192	(item/equipamento)	(item/equipment)	sistema		風の如き動作を可能にした頭部用防具	Headgear that enables movements swift as the wind.	
+head_equip#193	head_equip	193	(item/equipamento)	(item/equipment)	sistema		弁慶の兜	Benkei Helm	
+head_equip#194	head_equip	194	(item/equipamento)	(item/equipment)	sistema		ベンケイノカブト	Benkei Helm	
+head_equip#195	head_equip	195	(item/equipamento)	(item/equipment)	sistema		東方の大男弁慶が着用していた兜	A helm once worn by Benkei, the giant warrior of the east.	
+head_equip#196	head_equip	196	(item/equipamento)	(item/equipment)	sistema		オフィサーキャップ	Officer Cap	
+head_equip#197	head_equip	197	(item/equipamento)	(item/equipment)	sistema		士官用の帽子	A cap for commissioned officers.	
+head_equip#198	head_equip	198	(item/equipamento)	(item/equipment)	sistema		ニンジャマスク	Ninja Mask	
+head_equip#199	head_equip	199	(item/equipamento)	(item/equipment)	sistema		忍者が着用していたマスク	A mask once worn by ninja.	
+head_equip#200	head_equip	200	(item/equipamento)	(item/equipment)	sistema		エンボスヘルム	Embossed Helm	
+head_equip#201	head_equip	201	(item/equipamento)	(item/equipment)	sistema		継ぎ目の少ない全身鎧の頭部	The headpiece of seamless full plate armor.	
+head_equip#202	head_equip	202	(item/equipamento)	(item/equipment)	sistema		クスミヘルム	Kusumi Helm	
+head_equip#203	head_equip	203	(item/equipamento)	(item/equipment)	sistema		古の聖人クスミに正義を誓う者が着用する兜	A helm worn by those who swear justice to the ancient saint Kusumi.	
+head_equip#204	head_equip	204	(item/equipamento)	(item/equipment)	sistema		センゴクヘルム	Sengoku Helm	
+head_equip#205	head_equip	205	(item/equipamento)	(item/equipment)	sistema		戦国武将を彷彿とさせる兜	A helm reminiscent of a Sengoku warlord.	
+head_equip#206	head_equip	206	(item/equipamento)	(item/equipment)	sistema		バロンヘルム	Baron Helm	
+head_equip#207	head_equip	207	(item/equipamento)	(item/equipment)	sistema		バロンの称号を持つ者に与えられる兜	A helm granted to those who hold the title of Baron.	
+head_equip#208	head_equip	208	(item/equipamento)	(item/equipment)	sistema		ソーバーンヘルム	Thuban Helm	
+head_equip#209	head_equip	209	(item/equipamento)	(item/equipment)	sistema		千夜一夜の魔法の国で蛇を意味する兜	A helm meaning serpent in the magical land of the Arabian Nights.	
+head_equip#210	head_equip	210	(item/equipamento)	(item/equipment)	sistema		ハヌマーンヘルム	Hanuman Helm	
+head_equip#211	head_equip	211	(item/equipamento)	(item/equipment)	sistema		獣神ハヌマーンの名を冠する兜	A helm bearing the name of the beast god Hanuman.	
+head_equip#212	head_equip	212	(item/equipamento)	(item/equipment)	sistema		聖騎士団の頭飾り	Holy Order Headdress	
+head_equip#213	head_equip	213	(item/equipamento)	(item/equipment)	sistema		セイキシダンノアタマカザリ	Holy Order Headdress	
+head_equip#214	head_equip	214	(item/equipamento)	(item/equipment)	sistema		聖騎士団所属の証となる頭飾り	A headdress serving as proof of membership in the Holy Order.	
+head_equip#215	head_equip	215	(item/equipamento)	(item/equipment)	sistema		テンプルヘルム	Temple Helm	
+head_equip#216	head_equip	216	(item/equipamento)	(item/equipment)	sistema		銀製のクロスヘルム	A cross helm made of silver.	
+head_equip#217	head_equip	217	(item/equipamento)	(item/equipment)	sistema		グリムヘルム	Grim Helm	
+head_equip#218	head_equip	218	(item/equipamento)	(item/equipment)	sistema		不吉な意匠の鎧の頭部	The headpiece of armor with an ominous motif.	
+head_equip#219	head_equip	219	(item/equipamento)	(item/equipment)	sistema		ジャイアントヘッド	Giant Headgear	
+head_equip#220	head_equip	220	(item/equipamento)	(item/equipment)	sistema		巨人と見紛う防御と威圧感の兜	A helm with defense and intimidation mistaken for a giant.	
+head_equip#221	head_equip	221	(item/equipamento)	(item/equipment)	sistema		ベルゼバブホーン	Beelzebub Horns	
+head_equip#222	head_equip	222	(item/equipamento)	(item/equipment)	sistema		魔界の君主ベルゼバブの福音を受けたホーン	Horns blessed by Beelzebub, monarch of the Demon Realm.	
+head_equip#223	head_equip	223	(item/equipamento)	(item/equipment)	sistema		中堅傭兵のヘッドバンド	Veteran Mercenary Headband	
+head_equip#224	head_equip	224	(item/equipamento)	(item/equipment)	sistema		チュウケンヨウヘイノヘッドバンド	Veteran Mercenary Headband	
+head_equip#225	head_equip	225	(item/equipamento)	(item/equipment)	sistema		中堅傭兵が着用するヘッドバンド	A headband worn by veteran mercenaries.	
+head_equip#226	head_equip	226	(item/equipamento)	(item/equipment)	sistema		メッシュキャップ	Mesh Cap	
+head_equip#227	head_equip	227	(item/equipamento)	(item/equipment)	sistema		メッシュ加工がされた帽子	A cap crafted with mesh fabric.	
+head_equip#228	head_equip	228	(item/equipamento)	(item/equipment)	sistema		ホークフェザー	Hawk Feather	
+head_equip#229	head_equip	229	(item/equipamento)	(item/equipment)	sistema		とある民族の守り神ホークの加護を受けた頭飾り	A headdress blessed by Hawk, guardian deity of a certain tribe.	
+head_equip#230	head_equip	230	(item/equipamento)	(item/equipment)	sistema		ブロンコライダーハット	Bronco Rider Hat	
+head_equip#231	head_equip	231	(item/equipamento)	(item/equipment)	sistema		荒野の流れ者が着用する帽子	A hat worn by wanderers of the wilderness.	
+head_equip#232	head_equip	232	(item/equipamento)	(item/equipment)	sistema		霊光鉢金	Sacred Light Hachigane	
+head_equip#233	head_equip	233	(item/equipamento)	(item/equipment)	sistema		レイコウハチガネ	Sacred Light Hachigane	
+head_equip#234	head_equip	234	(item/equipamento)	(item/equipment)	sistema		霊威みなぎる鉢金	A forehead protector overflowing with spiritual majesty.	
+head_equip#235	head_equip	235	(item/equipamento)	(item/equipment)	sistema		僧兵の額当て	Warrior Monk Forehead Guard	
+head_equip#236	head_equip	236	(item/equipamento)	(item/equipment)	sistema		ソウヘイノヌカアテ	Warrior Monk Forehead Guard	
+head_equip#237	head_equip	237	(item/equipamento)	(item/equipment)	sistema		寺院警備の僧兵が着用する額当て	A forehead guard worn by temple guard warrior monks.	
+head_equip#238	head_equip	238	(item/equipamento)	(item/equipment)	sistema		アーミーゴーグル	Army Goggles	
+head_equip#239	head_equip	239	(item/equipamento)	(item/equipment)	sistema		野戦活動に適したゴーグル	Goggles suitable for field combat activities.	
+head_equip#240	head_equip	240	(item/equipamento)	(item/equipment)	sistema		隊長の帽子	Captain Cap	
+head_equip#241	head_equip	241	(item/equipamento)	(item/equipment)	sistema		タイチョウノボウシ	Captain Cap	
+head_equip#242	head_equip	242	(item/equipamento)	(item/equipment)	sistema		隊長が巡回警備で着用する帽子	A cap worn by captains while on patrol duty.	
+head_equip#243	head_equip	243	(item/equipamento)	(item/equipment)	sistema		フロンティアバンド	Frontier Band	
+head_equip#244	head_equip	244	(item/equipamento)	(item/equipment)	sistema		開拓者が着用するバンド	A band worn by pioneering frontiersmen.	
+head_equip#245	head_equip	245	(item/equipamento)	(item/equipment)	sistema		僧兵の頭巾	Warrior Monk Hood	
+head_equip#246	head_equip	246	(item/equipamento)	(item/equipment)	sistema		ソウヘイノズキン	Warrior Monk Hood	
+head_equip#247	head_equip	247	(item/equipamento)	(item/equipment)	sistema		法敵を討つ僧兵の頭巾	A hood worn by warrior monks who strike down enemies of the faith.	
+head_equip#248	head_equip	248	(item/equipamento)	(item/equipment)	sistema		コマンダーハット	Commander Hat	
+head_equip#249	head_equip	249	(item/equipamento)	(item/equipment)	sistema		大型戦艦の艦長が着用する帽子	A hat worn by captains of large battleships.	
+head_equip#250	head_equip	250	(item/equipamento)	(item/equipment)	sistema		鵺討ちの鉢巻	Nue Slayer Headband	
+head_equip#251	head_equip	251	(item/equipamento)	(item/equipment)	sistema		ヌエウチノハチマキ	Nue Slayer Headband	
+head_equip#252	head_equip	252	(item/equipamento)	(item/equipment)	sistema		物の怪鵺を討伐する者が着用する鉢巻	A headband worn by those who subjugate the monstrous Nue.	
+head_equip#253	head_equip	253	(item/equipamento)	(item/equipment)	sistema		ストレンジターバン	Strange Turban	
+head_equip#254	head_equip	254	(item/equipamento)	(item/equipment)	sistema		異国の風来坊が着用するターバン	A turban worn by vagabonds from foreign lands.	
+head_equip#255	head_equip	255	(item/equipamento)	(item/equipment)	sistema		コヨーテオーナメント	Coyote Ornament	
+head_equip#256	head_equip	256	(item/equipamento)	(item/equipment)	sistema		呪術師レッド・コヨーテが祈祷したオーナメント	An ornament blessed through prayer by the shaman Red Coyote.	
+head_equip#257	head_equip	257	(item/equipamento)	(item/equipment)	sistema		粛清執行人のアイパッチ	Purge Executioner Eyepatch	
+head_equip#258	head_equip	258	(item/equipamento)	(item/equipment)	sistema		シュクセイシッコウニンノアイパッチ	Purge Executioner Eyepatch	
+head_equip#259	head_equip	259	(item/equipamento)	(item/equipment)	sistema		軍属の粛清執行人が着用するアイパッチ	An eyepatch worn by military purge executioners.	
+head_equip#260	head_equip	260	(item/equipamento)	(item/equipment)	sistema		小龍の髪飾り	Little Dragon Hair Ornament	
+head_equip#261	head_equip	261	(item/equipamento)	(item/equipment)	sistema		ショウリュウノカミカザリ	Little Dragon Hair Ornament	
+head_equip#262	head_equip	262	(item/equipamento)	(item/equipment)	sistema		小龍の位を持つ功夫使いが着用する髪飾り	A hair ornament worn by kung fu artists of Little Dragon rank.	
+head_equip#263	head_equip	263	(item/equipamento)	(item/equipment)	sistema		虎調教師の額当て	Tiger Trainer Forehead Guard	
+head_equip#264	head_equip	264	(item/equipamento)	(item/equipment)	sistema		トラチョウキョウシノヌカアテ	Tiger Trainer Forehead Guard	
+head_equip#265	head_equip	265	(item/equipamento)	(item/equipment)	sistema		虎の調教を生業とする者が着用する額当て	A forehead guard worn by those who train tigers for a living.	
+head_equip#266	head_equip	266	(item/equipamento)	(item/equipment)	sistema		晶霊学士の帽子	Craymel Scholar Hat	
+head_equip#267	head_equip	267	(item/equipamento)	(item/equipment)	sistema		ショウレイガクシノボウシ	Craymel Scholar Hat	
+head_equip#268	head_equip	268	(item/equipamento)	(item/equipment)	sistema		校則に定められた晶霊学士用の帽子	A hat prescribed by school regulations for Craymel scholars.	
+head_equip#269	head_equip	269	(item/equipamento)	(item/equipment)	sistema		走舞の額当て	Swift Dance Forehead Guard	
+head_equip#270	head_equip	270	(item/equipamento)	(item/equipment)	sistema		ハシリマイノヌカアテ	Swift Dance Forehead Guard	
+head_equip#271	head_equip	271	(item/equipamento)	(item/equipment)	sistema		神前儀式で活発な動きで舞う者の額当て	A forehead guard worn by dancers performing lively ritual dances before the gods.	
+head_equip#272	head_equip	272	(item/equipamento)	(item/equipment)	sistema		玄武の髪飾り	Genbu Hair Ornament	
+head_equip#273	head_equip	273	(item/equipamento)	(item/equipment)	sistema		ゲンブノカミカザリ	Genbu Hair Ornament	
+head_equip#274	head_equip	274	(item/equipamento)	(item/equipment)	sistema		聖獣玄武の名を冠する髪飾り	A hair ornament bearing the name of the sacred beast Genbu.	
+head_equip#275	head_equip	275	(item/equipamento)	(item/equipment)	sistema		熱心者の額当て	Zealot Forehead Guard	
+head_equip#276	head_equip	276	(item/equipamento)	(item/equipment)	sistema		ネッシンモノノヌカアテ	Zealot Forehead Guard	
+head_equip#277	head_equip	277	(item/equipamento)	(item/equipment)	sistema		熱心者の術士が着用する額当て	A forehead guard worn by dedicated zealous spellcasters.	
+head_equip#278	head_equip	278	(item/equipamento)	(item/equipment)	sistema		大達人の帽子	Grandmaster Hat	
+head_equip#279	head_equip	279	(item/equipamento)	(item/equipment)	sistema		ダイタツジンノボウシ	Grandmaster Hat	
+head_equip#280	head_equip	280	(item/equipamento)	(item/equipment)	sistema		魔術結社で大達人の階位に与えられる帽子	A hat awarded to the Grandmaster rank in a magical society.	
+head_equip#281	head_equip	281	(item/equipamento)	(item/equipment)	sistema		クラーティンハット	Kratin Hat	
+head_equip#282	head_equip	282	(item/equipamento)	(item/equipment)	sistema		ギンネム染の帽子	A white leadtree-dyed hat.	
+head_equip#283	head_equip	283	(item/equipamento)	(item/equipment)	sistema		ニューエイジヘッド	New Age Headgear	
+head_equip#284	head_equip	284	(item/equipamento)	(item/equipment)	sistema		新しい魂の道を求める者が着用する頭飾り	A headdress worn by those who seek the path of the new soul.	
+head_equip#285	head_equip	285	(item/equipamento)	(item/equipment)	sistema		軍中佐第二種礼装帽	Lieutenant Colonel Dress Cap Type 2	
+head_equip#286	head_equip	286	(item/equipamento)	(item/equipment)	sistema		グンチュウサダイニシュレイソウボウ	Lieutenant Colonel Dress Cap Type 2	
+head_equip#287	head_equip	287	(item/equipamento)	(item/equipment)	sistema		中佐の階級の者が着用する第二種礼装用の帽子	A Type 2 dress cap worn by those holding the rank of Lieutenant Colonel.	
+head_equip#288	head_equip	288	(item/equipamento)	(item/equipment)	sistema		スチュワードハット	Steward Hat	
+head_equip#289	head_equip	289	(item/equipamento)	(item/equipment)	sistema		執事やメイドが着用するハット	A hat worn by butlers and maids.	
+head_equip#290	head_equip	290	(item/equipamento)	(item/equipment)	sistema		近衛兵の帽子	Royal Guard Cap	
+head_equip#291	head_equip	291	(item/equipamento)	(item/equipment)	sistema		コノエヘイノボウシ	Royal Guard Cap	
+head_equip#292	head_equip	292	(item/equipamento)	(item/equipment)	sistema		城の近衛兵となった術者の帽子	A cap worn by spellcasters who serve as royal castle guards.	
+head_equip#293	head_equip	293	(item/equipamento)	(item/equipment)	sistema		名策士の頭飾り	Master Tactician Headdress	
+head_equip#294	head_equip	294	(item/equipamento)	(item/equipment)	sistema		メイサクシノアタマカザリ	Master Tactician Headdress	
+head_equip#295	head_equip	295	(item/equipamento)	(item/equipment)	sistema		名策士が好んで着用する頭飾り	A headdress favored by renowned master tacticians.	
+head_equip#296	head_equip	296	(item/equipamento)	(item/equipment)	sistema		アルカナハット	Arcana Hat	
+head_equip#297	head_equip	297	(item/equipamento)	(item/equipment)	sistema		占い師が着用する摩訶不思議な帽子	A mysterious hat worn by fortune-tellers.	
+head_equip#298	head_equip	298	(item/equipamento)	(item/equipment)	sistema		ビリーブハット	Believe Hat	
+head_equip#299	head_equip	299	(item/equipamento)	(item/equipment)	sistema		信頼を一身に集める術士の帽子	A hat for a spellcaster who commands complete trust.	
+head_equip#300	head_equip	300	(item/equipamento)	(item/equipment)	sistema		アテイメントキャップ	Attainment Cap	
+head_equip#301	head_equip	301	(item/equipamento)	(item/equipment)	sistema		着る者の目標達成を助けるという帽子	A cap said to help the wearer achieve their goals.	
+head_equip#302	head_equip	302	(item/equipamento)	(item/equipment)	sistema		外法者の頭飾り	Heretic Headdress	
+head_equip#303	head_equip	303	(item/equipamento)	(item/equipment)	sistema		ゲホウモノノアタマカザリ	Heretic Headdress	
+head_equip#304	head_equip	304	(item/equipamento)	(item/equipment)	sistema		外法の術を使う術士の頭飾り	A headdress worn by spellcasters who practice forbidden arts.	
+head_equip#305	head_equip	305	(item/equipamento)	(item/equipment)	sistema		ミラクルキャップ	Miracle Cap	
+head_equip#306	head_equip	306	(item/equipamento)	(item/equipment)	sistema		奇跡の力が込められた可愛い帽子	A cute cap imbued with miraculous power.	
+head_equip#307	head_equip	307	(item/equipamento)	(item/equipment)	sistema		ラーの帽子	Ra Hat	
+head_equip#308	head_equip	308	(item/equipamento)	(item/equipment)	sistema		ラーノボウシ	Ra Hat	
+head_equip#309	head_equip	309	(item/equipamento)	(item/equipment)	sistema		宇宙存在ラーの波動を受けた帽子	A hat infused with vibrations from the cosmic being Ra.	
+head_equip#310	head_equip	310	(item/equipamento)	(item/equipment)	sistema		ミカハヤヒの帽子	Mikahayahi Hat	
+head_equip#311	head_equip	311	(item/equipamento)	(item/equipment)	sistema		ミカハヤヒノボウシ	Mikahayahi Hat	
+head_equip#312	head_equip	312	(item/equipamento)	(item/equipment)	sistema		東方の秘神ミカハヤヒの加護を受けた帽子	A hat blessed by Mikahayahi, a secret eastern god.	
+head_equip#313	head_equip	313	(item/equipamento)	(item/equipment)	sistema		神官の頭飾り	Priest Headdress	
+head_equip#314	head_equip	314	(item/equipamento)	(item/equipment)	sistema		シンカンノアタマカザリ	Priest Headdress	
+head_equip#315	head_equip	315	(item/equipamento)	(item/equipment)	sistema		神官の礼服用の頭飾り	A headdress worn with ceremonial vestments of priests.	
+head_equip#316	head_equip	316	(item/equipamento)	(item/equipment)	sistema		クレセントハット	Crescent Hat	
+head_equip#317	head_equip	317	(item/equipamento)	(item/equipment)	sistema		三日月の様な美しい輝きを放つ帽子	A hat giving off a beautiful crescent moon-like radiance.	
+head_equip#318	head_equip	318	(item/equipamento)	(item/equipment)	sistema		ラージャハット	Raja Hat	
+head_equip#319	head_equip	319	(item/equipamento)	(item/equipment)	sistema		異国の豪族が身に着ける帽子	A hat worn by powerful clans of foreign lands.	

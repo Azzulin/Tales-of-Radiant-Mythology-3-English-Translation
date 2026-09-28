@@ -1,0 +1,120 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	bytes_jp
+mapd01a21.scr#0	mapd01a21.scr	0	(campo)	(field)	campo		押す	Push		4
+mapd01a21.scr#1	mapd01a21.scr	1	(campo)	(field)	campo		押す	Push		4
+mapd01a21.scr#2	mapd01a21.scr	2	(campo)	(field)	campo		押す	Push		4
+mapd01a04.scr#0	mapd01a04.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd01a03.scr#0	mapd01a03.scr	0	(campo)	(field)	campo		押す	Push		4
+mapd01a03.scr#1	mapd01a03.scr	1	(campo)	(field)	campo		押す	Push		4
+mapd01a03.scr#2	mapd01a03.scr	2	(campo)	(field)	campo		押す	Push		4
+mapd01a08.scr#0	mapd01a08.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd01a11.scr#0	mapd01a11.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd01a15.scr#0	mapd01a15.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd02a01.scr#0	mapd02a01.scr	0	(campo)	(field)	campo		倒す	Push down		4
+mapd02a04.scr#0	mapd02a04.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd02a07.scr#0	mapd02a07.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd02a10.scr#0	mapd02a10.scr	0	(campo)	(field)	campo		倒す	Push down		4
+mapd02a10.scr#1	mapd02a10.scr	1	(campo)	(field)	campo		倒す	Push down		4
+mapd02a10.scr#2	mapd02a10.scr	2	(campo)	(field)	campo		倒す	Push down		4
+mapd02a10.scr#3	mapd02a10.scr	3	(campo)	(field)	campo		倒す	Push down		4
+mapd02a11.scr#0	mapd02a11.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd03a02.scr#0	mapd03a02.scr	0	(campo)	(field)	campo		引く	Pull		4
+mapd03a02.scr#1	mapd03a02.scr	1	(campo)	(field)	campo		引く	Pull		4
+mapd03a05.scr#0	mapd03a05.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd03a07.scr#0	mapd03a07.scr	0	(campo)	(field)	campo		引く	Pull		4
+mapd03a11.scr#0	mapd03a11.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd03a23.scr#0	mapd03a23.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd03a27.scr#0	mapd03a27.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd03a27.scr#1	mapd03a27.scr	1	(campo)	(field)	campo		ブラウニー坑道：入口	Brownie Mine: Entrance	derivado: ブラウニー坑道 = Brownie Mine (SIS-01)	20
+mapd03a27.scr#4	mapd03a27.scr	4	(campo)	(field)	campo		追憶の坑道：中層	Reminiscence: Mid Level	adotada forma curta de SIS-03 para consistencia de banner	16
+mapd04a01.scr#0	mapd04a01.scr	0	(campo)	(field)	campo		引く	Pull		4
+mapd04a04.scr#0	mapd04a04.scr	0	(campo)	(field)	campo		引く	Pull		4
+mapd04a05.scr#0	mapd04a05.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd04a14.scr#0	mapd04a14.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd05a02.scr#0	mapd05a02.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd05a04.scr#0	mapd05a04.scr	0	(campo)	(field)	campo		倒す	Push down		4
+mapd05a05.scr#0	mapd05a05.scr	0	(campo)	(field)	campo		倒す	Push down		4
+mapd05a05.scr#1	mapd05a05.scr	1	(campo)	(field)	campo		倒す	Push down		4
+mapd05a06.scr#0	mapd05a06.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd05a11.scr#0	mapd05a11.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd05a21.scr#0	mapd05a21.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd05a26.scr#0	mapd05a26.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd05a27.scr#0	mapd05a27.scr	0	(campo)	(field)	campo		調べる	Examine	derivado: CAMPO-01 usa Examine (4x)	6
+mapd05a28.scr#0	mapd05a28.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd06a03.scr#0	mapd06a03.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd06a07.scr#0	mapd06a07.scr	0	(campo)	(field)	campo		調べる	Examine	derivado: CAMPO-01 usa Examine (4x)	6
+mapd06a07.scr#1	mapd06a07.scr	1	(campo)	(field)	campo		調べる	Examine	derivado: CAMPO-01 usa Examine (4x)	6
+mapd06a07.scr#2	mapd06a07.scr	2	(campo)	(field)	campo		調べる	Examine	derivado: CAMPO-01 usa Examine (4x)	6
+mapd06a07.scr#3	mapd06a07.scr	3	(campo)	(field)	campo		調べる	Examine	derivado: CAMPO-01 usa Examine (4x)	6
+mapd06a07.scr#4	mapd06a07.scr	4	(campo)	(field)	campo		調べる	Examine	derivado: CAMPO-01 usa Examine (4x)	6
+mapd06a07.scr#5	mapd06a07.scr	5	(campo)	(field)	campo		調べる	Examine	derivado: CAMPO-01 usa Examine (4x)	6
+mapd06a07.scr#6	mapd06a07.scr	6	(campo)	(field)	campo		調べる	Examine	derivado: CAMPO-01 usa Examine (4x)	6
+mapd06a07.scr#7	mapd06a07.scr	7	(campo)	(field)	campo		調べる	Examine	derivado: CAMPO-01 usa Examine (4x)	6
+mapd06a07.scr#8	mapd06a07.scr	8	(campo)	(field)	campo		調べる	Examine	derivado: CAMPO-01 usa Examine (4x)	6
+mapd06a13.scr#0	mapd06a13.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd07a05.scr#0	mapd07a05.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd07a11.scr#0	mapd07a11.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd07a19.scr#0	mapd07a19.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd07a21.scr#0	mapd07a21.scr	0	(campo)	(field)	campo		調べる	Examine	derivado: CAMPO-01 usa Examine (4x)	6
+mapd08a06.scr#0	mapd08a06.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd08a08.scr#0	mapd08a08.scr	0	(campo)	(field)	campo		調べる	Examine	derivado: CAMPO-01 usa Examine (4x)	6
+mapd08a13.scr#0	mapd08a13.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd09a08.scr#0	mapd09a08.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd09a15.scr#0	mapd09a15.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd09a20.scr#0	mapd09a20.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd10a06.scr#0	mapd10a06.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd10a12.scr#0	mapd10a12.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd10a13.scr#0	mapd10a13.scr	0	(campo)	(field)	campo		調べる	Examine	derivado: CAMPO-01 usa Examine (4x)	6
+mapd10a15.scr#0	mapd10a15.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd11a07.scr#0	mapd11a07.scr	0	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a07.scr#1	mapd11a07.scr	1	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a07.scr#2	mapd11a07.scr	2	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a07.scr#3	mapd11a07.scr	3	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a07.scr#4	mapd11a07.scr	4	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a07.scr#5	mapd11a07.scr	5	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a09.scr#0	mapd11a09.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd11a12.scr#0	mapd11a12.scr	0	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a12.scr#1	mapd11a12.scr	1	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a12.scr#2	mapd11a12.scr	2	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a12.scr#3	mapd11a12.scr	3	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a12.scr#4	mapd11a12.scr	4	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a12.scr#5	mapd11a12.scr	5	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a14.scr#0	mapd11a14.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd11a18.scr#0	mapd11a18.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd11a20.scr#0	mapd11a20.scr	0	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#1	mapd11a20.scr	1	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#2	mapd11a20.scr	2	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#3	mapd11a20.scr	3	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#4	mapd11a20.scr	4	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#5	mapd11a20.scr	5	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#6	mapd11a20.scr	6	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#7	mapd11a20.scr	7	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#8	mapd11a20.scr	8	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#9	mapd11a20.scr	9	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#10	mapd11a20.scr	10	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#11	mapd11a20.scr	11	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#12	mapd11a20.scr	12	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#13	mapd11a20.scr	13	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#14	mapd11a20.scr	14	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#15	mapd11a20.scr	15	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#16	mapd11a20.scr	16	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a20.scr#17	mapd11a20.scr	17	(campo)	(field)	campo		移動	Move	derivado: SIS/campo: mesmo rotulo de acao	4
+mapd11a21.scr#0	mapd11a21.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd11a26.scr#0	mapd11a26.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd12a13.scr#0	mapd12a13.scr	0	(campo)	(field)	campo		飛び降りる	Jump down	derivado: CAMPO-01 usa Jump down (2x)	10
+mapd12a14.scr#0	mapd12a14.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd12a19.scr#0	mapd12a19.scr	0	(campo)	(field)	campo		飛び降りる	Jump down	derivado: CAMPO-01 usa Jump down (2x)	10
+mapd12a22.scr#0	mapd12a22.scr	0	(campo)	(field)	campo		飛び降りる	Jump down	derivado: CAMPO-01 usa Jump down (2x)	10
+mapd12a23.scr#0	mapd12a23.scr	0	(campo)	(field)	campo		追憶の坑道：入口	Reminiscence: Entrance	adotada forma curta de SIS-03 para consistencia de banner	16
+mapd12a25.scr#0	mapd12a25.scr	0	(campo)	(field)	campo		セーブ	Save		6
+mapd12a43.scr#0	mapd12a43.scr	0	(campo)	(field)	campo		飛び降りる	Jump down	derivado: CAMPO-01 usa Jump down (2x)	10
+mapd12a49.scr#0	mapd12a49.scr	0	(campo)	(field)	campo		飛び降りる	Jump down	derivado: CAMPO-01 usa Jump down (2x)	10
+mapship_14.scr#0	mapship_14.scr	0	(campo)	(field)	campo		開く	Open		4
+mapship_14.scr#1	mapship_14.scr	1	(campo)	(field)	campo		キャラリメイク機能を利用しますか？	Use Character Remake?		34
+mapship_14.scr#2	mapship_14.scr	2	(campo)	(field)	campo		はい	Yes	"derivado: aqui e BOTAO, nao fala: sem ""!"" (o ""Yes!"" dos lotes de dialogo e voz de personagem)"	4
+mapship_14.scr#3	mapship_14.scr	3	(campo)	(field)	campo		いいえ	No	derivado: aqui e BOTAO, nao fala	6
+tev04_018.scr#0	tev04_018.scr	0	(campo)	(field)	campo		"採掘ポイントは、
+ダンジョンに入り直すと再び現れます"	"Mining points will reappear when you
+re-enter the dungeon."		52
+tev04_018.scr#1	tev04_018.scr	1	(campo)	(field)	campo		"同様に、赤宝箱も
+ダンジョンに入り直す事で復活します"	"Similarly, red chests will also respawn
+when you re-enter the dungeon."		52

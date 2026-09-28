@@ -1,0 +1,287 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor
+mev11_010.scr:0	mev11_010.scr	0	アンジュ	Ange Serena	personagem		世界の始まり…か		
+mev11_010.scr:1	mev11_010.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	その謎が、ヴェラトローパへ行けば\nわかるかもしれないのね		
+mev11_010.scr:2	mev11_010.scr	2	アンジュ	Ange Serena	personagem	CRLF x2	ラザリスの事をよく知る為にも、\n今回、あなたには創世の時についての調査を\nしてきてもらいたいの		
+mev11_010.scr:3	mev11_010.scr	3	アンジュ	Ange Serena	personagem		同行するのは、キール君とジュディスよ		
+mev11_010.scr:4	mev11_010.scr	4	アンジュ	Ange Serena	personagem		それじゃあ、行ってらっしゃい		
+mev11_020.scr:0	mev11_020.scr	0	キール	Keele Zeibel	personagem	CRLF x2	ここが、ヒトの祖が\n今の人類になるその最後まで\n過ごした場所か		
+mev11_020.scr:1	mev11_020.scr	1	ジュディス	Judith	personagem	CRLF x1	私達の次元からは隠されていても、\nこの宮殿はずっと生き続けていたのね		
+mev11_020.scr:2	mev11_020.scr	2	キール	Keele Zeibel	personagem	CRLF x1	ん、文字があるぞ。\n手持ちの資料で読めるだろうか…		
+mev11_020.scr:3	mev11_020.scr	3	ジュディス	Judith	personagem	CRLF x1	情報を読んだ方が早いわ。\n私に任せて		
+mev11_020.scr:4	mev11_020.scr	4	キール	Keele Zeibel	personagem		そうか		
+mev11_020.scr:5	mev11_020.scr	5	キール	Keele Zeibel	personagem	CRLF x2	ジュディスは、物から情報を読み取る\n「ナギーグ」という能力を持つ、\nクリティア族だったな		
+mev11_020.scr:6	mev11_020.scr	6	ジュディス	Judith	personagem	CRLF x2	ええ。\n「創世伝えし者の為にこの空間を遺す」\nって、書いてある様よ		
+mev11_020.scr:7	mev11_020.scr	7	ジュディス	Judith	personagem	CRLF x1	もしかして、創世を見た者が\nここにいるって事かしら？		
+mev11_020.scr:8	mev11_020.scr	8	キール	Keele Zeibel	personagem	CRLF x2	ありえないな。\nせいぜい、そいつの墓が残ってるって\n程度だろう		
+mev11_020.scr:9	mev11_020.scr	9	ジュディス	Judith	personagem	CRLF x2	あら、セルシウスは、創世の時を見ていた者は\nヒトでも精霊とも違った。\nそう言っていたけれど？		
+mev11_020.scr:10	mev11_020.scr	10	キール	Keele Zeibel	personagem	CRLF x2	いたとしても、\nまともにコンタクトを取れる存在か\nわからないだろう		
+mev11_020.scr:11	mev11_020.scr	11	キール	Keele Zeibel	personagem		安易な接触は危険…		
+mev11_020.scr:12	mev11_020.scr	12	キール	Keele Zeibel	personagem		おい…、何か気配がしないか		
+mev11_020.scr:13	mev11_020.scr	13	ジュディス	Judith	personagem	CRLF x2	あら、もう魔物が入り込んだのかしら。\nもしくは、この宮殿に置かれた自動警備の\n類かもしれないわ		
+mev11_020.scr:14	mev11_020.scr	14	キール	Keele Zeibel	personagem	CRLF x2	自動警備…。\nそんなものまで物質化させたっていうのか。\nハロルドの奴…		
+mev11_020.scr:15	mev11_020.scr	15	ジュディス	Judith	personagem	CRLF x1	ふふ、こういう所はワクワクするわ。\nじゃ、先に進みましょ		
+mev11_030.scr:0	mev11_030.scr	0	キール	Keele Zeibel	personagem	CRLF x1	壁画だ。\nこれは世界樹か？		
+mev11_030.scr:1	mev11_030.scr	1	ジュディス	Judith	personagem		その様ね		
+mev11_030.scr:2	mev11_030.scr	2	キール	Keele Zeibel	personagem		絵から情報を読み取れるか？		
+mev11_030.scr:3	mev11_030.scr	3	ジュディス	Judith	personagem		やってみるわ		
+mev11_030.scr:4	mev11_030.scr	4	ジュディス	Judith	personagem	CRLF x1	「世界樹とは、世界を生みしもの…。\n　大地、自然の摂理、そして生命体を作り出す」		
+mev11_030.scr:5	mev11_030.scr	5	キール	Keele Zeibel	personagem		何だ、ぼく達の認識と変わらないじゃないか		
+mev11_030.scr:6	mev11_030.scr	6	ジュディス	Judith	personagem		続きがあるわ		
+mev11_030.scr:7	mev11_030.scr	7	ジュディス	Judith	personagem	CRLF x2	「世界樹の始まりは一つの種子。\n　宙空のただ中を漂いながら芽吹き、\n　創造を始める」		
+mev11_030.scr:8	mev11_030.scr	8	ジュディス	Judith	personagem		これは、大地や生命を生み出す行為ね		
+mev11_030.scr:9	mev11_030.scr	9	ジュディス	Judith	personagem	CRLF x2	「そして世界樹は、\n　作られた世界と調和を成しながら\n　さらに成長していく…」		
+mev11_030.scr:10	mev11_030.scr	10	ジュディス	Judith	personagem	CRLF x1	「それから調和によりマナ満ちた時、\n　世界樹は新たな世界となる種子を付ける…」		
+mev11_030.scr:11	mev11_030.scr	11	キール	Keele Zeibel	personagem		何だって？		
+mev11_030.scr:12	mev11_030.scr	12	キール	Keele Zeibel	personagem	CRLF x2	それじゃあ、この世界ルミナシアは\nかつてどこかに存在していた世界樹から\n生まれた種子が、芽吹いたものだと言うのか		
+mev11_030.scr:13	mev11_030.scr	13	ジュディス	Judith	personagem	CRLF x1	この壁画にある情報は、ここまでよ。\n他にもある様だから、見に行ってみましょう		
+mev11_040.scr:0	mev11_040.scr	0	キール	Keele Zeibel	personagem		今度の絵は何だ…		
+mev11_040.scr:1	mev11_040.scr	1	ジュディス	Judith	personagem		この絵は…		
+mev11_040.scr:2	mev11_040.scr	2	ジュディス	Judith	personagem		世界に大地が生まれた後の事ね		
+mev11_040.scr:3	mev11_040.scr	3	ジュディス	Judith	personagem	CRLF x1	「大地が生まれた後、\n　ヒトの祖と精霊が生まれた」		
+mev11_040.scr:4	mev11_040.scr	4	ジュディス	Judith	personagem	CRLF x2	非物質だけども、\n知的生命の誕生という事に\nなるのかしら…		
+mev11_040.scr:5	mev11_040.scr	5	キール	Keele Zeibel	personagem		ジュディス、続けてくれ		
+mev11_040.scr:6	mev11_040.scr	6	ジュディス	Judith	personagem	CRLF x2	ヒトの祖は、ここヴェラトローパを創り、\nヒトとなる為に肉体や潜在能力を\n設計した		
+mev11_040.scr:7	mev11_040.scr	7	ジュディス	Judith	personagem	CRLF x1	そして、設計通りの身体をまとい、\n地上に降りた様よ		
+mev11_040.scr:8	mev11_040.scr	8	キール	Keele Zeibel	personagem	CRLF x1	まさに、ソウルアルケミー…。\n神の成せる業だな		
+mev11_040.scr:9	mev11_040.scr	9	ジュディス	Judith	personagem	CRLF x2	ソウルアルケミーは、\nヴェラトローパの民が\n普通に持っていた能力の様ね		
+mev11_040.scr:10	mev11_040.scr	10	ジュディス	Judith	personagem	CRLF x2	私達には魔術の曙、\n失われた技術とされていたけど、\nここでは当たり前に使われていた…		
+mev11_040.scr:11	mev11_040.scr	11	ジュディス	Judith	personagem	CRLF x2	私達クリティアという種族、\nそしてこのナギーグという力は、\nここで決められたのね		
+mev11_040.scr:12	mev11_040.scr	12	キール	Keele Zeibel	personagem	CRLF x1	人間も、ユージーンの様なガジュマも、\nカイウスの様なリカンツも…		
+mev11_040.scr:13	mev11_040.scr	13	ジュディス	Judith	personagem	CRLF x1	コレットの様に羽がある者も…、\n全てのヒト、人類はここから始まったんだわ		
+mev11_040.scr:14	mev11_040.scr	14	キール	Keele Zeibel	personagem	CRLF x1	だが、「ヒトの祖」はなぜ地上へ？\nここに残れば、神の様に生きられただろうに		
+mev11_040.scr:15	mev11_040.scr	15	ジュディス	Judith	personagem		世界と共に、創造する為、ね		
+mev11_040.scr:16	mev11_040.scr	16	ジュディス	Judith	personagem	CRLF x2	世界樹の被造物であるヒトの祖もまた、\n世界と共に創造の担い手として生きる事を\n決めたのよ		
+mev11_040.scr:17	mev11_040.scr	17	ジュディス	Judith	personagem	CRLF x1	それは実際に生きて、\n世界と調和し、経験をする事		
+mev11_040.scr:18	mev11_040.scr	18	ジュディス	Judith	personagem	CRLF x1	世界にある生命全てが学び合い、\n向上していく事		
+mev11_040.scr:19	mev11_040.scr	19	ジュディス	Judith	personagem	CRLF x1	そして、そうしなければ新しい発見も\nなかったはずよ		
+mev11_040.scr:20	mev11_040.scr	20	ジュディス	Judith	personagem	CRLF x1	世界をより成長させていく為に、\n一からの学びの道を選んだのね		
+mev11_040.scr:21	mev11_040.scr	21	キール	Keele Zeibel	personagem	CRLF x1	それが、今の世の中の有様か？\n成長どころか後退してるじゃないか！		
+mev11_040.scr:22	mev11_040.scr	22	ジュディス	Judith	personagem	CRLF x1	そう？\n今が学びの時かもしれないわよ		
+mev11_040.scr:23	mev11_040.scr	23	ジュディス	Judith	personagem	CRLF x2	次に行きましょう。\nこの壁画から読み取れる情報は、\nもうないわ		
+mev11_050.scr:0	mev11_050.scr	0	キール	Keele Zeibel	personagem	CRLF x2	この絵は何だ？\n一つは世界樹。\n横にあるのは…		
+mev11_050.scr:1	mev11_050.scr	1	ジュディス	Judith	personagem	CRLF x1	これは、世界樹の種子…、\nルミナシアではない種子よ		
+mev11_050.scr:2	mev11_050.scr	2	ジュディス	Judith	personagem	CRLF x1	それが、この世界の近くにあったと\n描かれている…		
+mev11_050.scr:3	mev11_050.scr	3	ジュディス	Judith	personagem		わかったわ…！		
+mev11_050.scr:4	mev11_050.scr	4	キール	Keele Zeibel	personagem		どうした、ジュディス		
+mev11_050.scr:5	mev11_050.scr	5	ジュディス	Judith	personagem	CRLF x2	私達の世界ルミナシアが生まれる一方で、\n傍らにある芽吹かなかった世界が、\nこの世界に取り込まれている		
+mev11_050.scr:6	mev11_050.scr	6	ジュディス	Judith	personagem	CRLF x1	この事なのよ。\nラザリスが言った「生まれるはずだった世界」		
+mev11_050.scr:7	mev11_050.scr	7	ジュディス	Judith	personagem	CRLF x1	ラザリスの正体は、\nもう一つの世界そのものなんだわ		
+mev11_050.scr:8	mev11_050.scr	8	キール	Keele Zeibel	personagem	CRLF x2	ラザリスが、発芽しなかった\n世界の種子だったって？\nなぜ、そんなものが取り込まれてるんだ		
+mev11_050.scr:9	mev11_050.scr	9	ジュディス	Judith	personagem	CRLF x2	なぜ種子を取り込んだのかはわからないわ。\nでも、種子を取り込んだ事によって\nこのルミナシアに大きな災厄が起こったと…		
+mev11_050.scr:10	mev11_050.scr	10	ジュディス	Judith	personagem	CRLF x2	どんな災厄があったかは伝えられていないわ。\nただ、あまりにも理が違う為、としか\n読み取れないの		
+mev11_050.scr:11	mev11_050.scr	11	ジュディス	Judith	personagem	CRLF x1	確かなのは、ルミナシアの世界樹は、\nもう一つの世界を取り込んでいるという事よ		
+mev11_050.scr:12	mev11_050.scr	12	キール	Keele Zeibel	personagem	CRLF x1	ラザリス…、赤い煙……。\n星晶によって封じられていたと言っていたな		
+mev11_050.scr:13	mev11_050.scr	13	ジュディス	Judith	personagem	CRLF x2	そう、星晶はやはりその為に\n世界樹が生んだものみたい。\n人々のエネルギーにする為ではなく、ね		
+mev11_060.scr:0	mev11_060.scr	0	キール	Keele Zeibel	personagem		中心にいるのは人間か？		
+mev11_060.scr:1	mev11_060.scr	1	キール	Keele Zeibel	personagem	CRLF x1	その周りにあるのは、\n武具か何かの様だが		
+mev11_060.scr:2	mev11_060.scr	2	ジュディス	Judith	personagem	CRLF x2	予言ね。\n私達にも伝わっている、\nディセンダーの予言		
+mev11_060.scr:3	mev11_060.scr	3	ジュディス	Judith	personagem	CRLF x2	「世界の危機が生まれし時、\n　世界樹はディセンダーを生み出す。\n　それは、世界の守り手…」		
+mev11_060.scr:4	mev11_060.scr	4	ジュディス	Judith	personagem	CRLF x2	生まれた時には記憶が無いとか、世界を救った\n後、また世界樹へと還るなどのその特徴は、\n現在に伝わっているものと一緒ね		
+mev11_060.scr:5	mev11_060.scr	5	キール	Keele Zeibel	personagem	CRLF x1	ディセンダーの予言のルーツは、\nここからだったのか…		
+mev11_060.scr:6	mev11_060.scr	6	キール	Keele Zeibel	personagem	CRLF x2	待てよ？\n「ヒトの祖」はなぜ、\nディセンダーの事を知っていたんだ		
+mev11_060.scr:7	mev11_060.scr	7	ジュディス	Judith	personagem	CRLF x2	創世を伝えし者より、もたらされたみたいね。\nそして、地上へ降りたヒトの祖が、\nこの予言を後世に伝えていた		
+mev11_060.scr:8	mev11_060.scr	8	ジュディス	Judith	personagem		そんなところじゃないかしら		
+mev11_060.scr:9	mev11_060.scr	9	キール	Keele Zeibel	personagem	CRLF x2	○○、\nお前の、ディセンダーという存在は、\n世界樹のシステムの一つなのか？		
+mev11_060.scr:10	mev11_060.scr	10	キール	Keele Zeibel	personagem	CRLF x2	全く。\n本当にお前は\nディセンダーなのか？		
+mev11_060.scr:11	mev11_060.scr	11	キール	Keele Zeibel	personagem	CRLF x1	お前の事を聞いてるんだ。\n意見の一つくらい無いのか？		
+mev11_060.scr:12	mev11_060.scr	12	キール	Keele Zeibel	personagem	CRLF x2	…ともかく、ディセンダーというのは、\n世界樹があれば、ディセンダーが実在\nしている可能性が高い、と言う事になるな		
+mev11_060.scr:13	mev11_060.scr	13	キール	Keele Zeibel	personagem		で、この描かれている武具は何だ？		
+mev11_060.scr:14	mev11_060.scr	14	ジュディス	Judith	personagem	CRLF x1	光まとうものに送りし輝ける光器、\n「レディアント」とあるわ		
+mev11_060.scr:15	mev11_060.scr	15	ジュディス	Judith	personagem	CRLF x1	ディセンダーが現れた時の為に作られた\n特殊な武具		
+mev11_060.scr:16	mev11_060.scr	16	ジュディス	Judith	personagem	CRLF x2	ヒトの祖が、\nソウルアルケミーによって\n創ったものね		
+mev11_060.scr:17	mev11_060.scr	17	ジュディス	Judith	personagem	CRLF x1	ディセンダーはあらゆる姿に転じる。\nその為、様々な種類の武具を用意したみたい		
+mev11_060.scr:18	mev11_060.scr	18	キール	Keele Zeibel	personagem	CRLF x1	○○の為だけに\n作られた武具だって…？		
+mev11_060.scr:19	mev11_060.scr	19	ジュディス	Judith	personagem		でも、簡単には手に入らないみたい		
+mev11_060.scr:20	mev11_060.scr	20	ジュディス	Judith	personagem	CRLF x2	レディアントは、ディセンダー以外の手に\n渡らないよう、ヒトの祖が作った\n人工精霊がまとっているそうだから		
+mev11_060.scr:21	mev11_060.scr	21	キール	Keele Zeibel	personagem	CRLF x1	手に入れる為には、その人工精霊と\n戦う必要があるんだな		
+mev11_060.scr:22	mev11_060.scr	22	ジュディス	Judith	personagem		そうね		
+mev11_060.scr:23	mev11_060.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		わからない、と言う		
+mev11_060.scr:24	mev11_060.scr	24	(opcao do jogador)	(opcao do jogador)	escolha		黙っている		
+mev11_070.scr:0	mev11_070.scr	0	キール	Keele Zeibel	personagem		壁画はこれで終わりか…		
+mev11_070.scr:1	mev11_070.scr	1	ジュディス	Judith	personagem		思い出したわ		
+mev11_070.scr:2	mev11_070.scr	2	ジュディス	Judith	personagem	CRLF x2	入り口に\n「創世伝えし者の為にこの空間を遺す」と\n書かれていたわよね？		
+mev11_070.scr:3	mev11_070.scr	3	キール	Keele Zeibel	personagem		もっと奥の調査が必要か？		
+mev11_070.scr:4	mev11_070.scr	4	ジュディス	Judith	personagem	CRLF x1	ええ。\n「創世伝えし者」に、会ってみたいわ		
+mev11_070.scr:5	mev11_070.scr	5	キール	Keele Zeibel	personagem	CRLF x1	ぼくは反対だ。\nこちらに敵意を向けられる可能性がある		
+mev11_070.scr:6	mev11_070.scr	6	キール	Keele Zeibel	personagem	CRLF x1	まあ、もうちょっと調査が必要なのは\n認めるが		
+mev11_070.scr:7	mev11_070.scr	7	ジュディス	Judith	personagem		決まりね		
+mev11_080.scr:0	mev11_080.scr	0	ジュディス	Judith	personagem		これは…		
+mev11_080.scr:1	mev11_080.scr	1	キール	Keele Zeibel	personagem	CRLF x1	ここ、ヴェラトローパとは\nまた異質なものだな…		
+mev11_080.scr:2	mev11_080.scr	2	キール	Keele Zeibel	personagem	CRLF x2	この物体の質感…。\nこの世界には、存在しないものかも\nしれない		
+mev11_080.scr:3	mev11_080.scr	3	ジュディス	Judith	personagem		私、呼びかけてみるわ		
+mev11_080.scr:4	mev11_080.scr	4	ニアタ	Niata Monad	personagem		我々に呼びかけるのは誰だ…		
+mev11_080.scr:5	mev11_080.scr	5	キール	Keele Zeibel	personagem		し、喋った！		
+mev11_080.scr:6	mev11_080.scr	6	ニアタ	Niata Monad	personagem		そなたらは、…ルミナシアの民か		
+mev11_080.scr:7	mev11_080.scr	7	ジュディス	Judith	personagem		あなたが…創世を見届けし者？		
+mev11_080.scr:8	mev11_080.scr	8	ニアタ	Niata Monad	personagem	CRLF x2	我々はニアタ・モナド。\n肉体を捨て、ディセンダーの介添人として、\n一つの機器に宿った精神集合体だ		
+mev11_080.scr:9	mev11_080.scr	9	ジュディス	Judith	personagem		ディセンダーの介添人？		
+mev11_080.scr:10	mev11_080.scr	10	ニアタ	Niata Monad	personagem	CRLF x2	そうだ。\nそなたらと異なる世界「パスカ」の\nディセンダーに仕えしものだった		
+mev11_080.scr:11	mev11_080.scr	11	キール	Keele Zeibel	personagem	CRLF x1	異なる世界のディセンダー？\nあんたの世界にも世界樹があったって事か？		
+mev11_080.scr:12	mev11_080.scr	12	ニアタ	Niata Monad	personagem	CRLF x2	左様。\nだが、我々の世界は遥か過去に寿命を迎え\nもう存在してはいない		
+mev11_080.scr:13	mev11_080.scr	13	ニアタ	Niata Monad	personagem	CRLF x2	世界も無く、仕えるディセンダーもおらず、\n我々は朽ちぬ機械の身体のまま\nあらゆる世界を旅している最中に…、		
+mev11_080.scr:14	mev11_080.scr	14	ニアタ	Niata Monad	personagem	CRLF x1	まだ種子の状態だった\nこの世界を見つけたのだ		
+mev11_080.scr:15	mev11_080.scr	15	ジュディス	Judith	personagem	CRLF x1	そして、このルミナシアの\n世界の創世を目にしたのね		
+mev11_080.scr:16	mev11_080.scr	16	ニアタ	Niata Monad	personagem		そうだ		
+mev11_080.scr:17	mev11_080.scr	17	ニアタ	Niata Monad	personagem	CRLF x2	そして、この世界が我らの世界の記憶を\n受け継ぐものかどうか、\nそれを知る為に留まった		
+mev11_080.scr:18	mev11_080.scr	18	キール	Keele Zeibel	personagem		記憶？		
+mev11_080.scr:19	mev11_080.scr	19	ニアタ	Niata Monad	personagem	CRLF x2	世界樹の種子は、\nその親となる世界の記憶を\n受け継ぐ		
+mev11_080.scr:20	mev11_080.scr	20	ニアタ	Niata Monad	personagem	CRLF x2	どの様な者が存在したか、\nどの様な生命が存在したか…。\n全ての情報を受け継がせる		
+mev11_080.scr:21	mev11_080.scr	21	キール	Keele Zeibel	personagem	CRLF x1	それじゃ、\n本当に生物と…同じなんだな		
+mev11_080.scr:22	mev11_080.scr	22	キール	Keele Zeibel	personagem	CRLF x1	では、伝えられる記憶を元に、\n新しい世界は構築されるのか？		
+mev11_080.scr:23	mev11_080.scr	23	ニアタ	Niata Monad	personagem	CRLF x2	そうだ。\nそうして、生まれ行く世界は\n進化し続ける		
+mev11_080.scr:24	mev11_080.scr	24	ジュディス	Judith	personagem	CRLF x1	では、このルミナシアに、\nあなたの故郷の記憶が？		
+mev11_080.scr:25	mev11_080.scr	25	ニアタ	Niata Monad	personagem	CRLF x1	いや、ここは我々の世界、パスカの記憶を\n有していなかった		
+mev11_080.scr:26	mev11_080.scr	26	ニアタ	Niata Monad	personagem	CRLF x1	だから、我々は６０００年前に\nこの世界を去ったのだ		
+mev11_080.scr:27	mev11_080.scr	27	ニアタ	Niata Monad	personagem	CRLF x2	今、そなたらと対話しているのは、\n我々の端末の一つ。\n本体は遠く時空を隔てた別の世界にある		
+mev11_080.scr:28	mev11_080.scr	28	キール	Keele Zeibel	personagem	CRLF x1	端末だって？\n何の為にそんな事を		
+mev11_080.scr:29	mev11_080.scr	29	ニアタ	Niata Monad	personagem	CRLF x1	我々とて、世界樹の全てを\n知っているわけではない		
+mev11_080.scr:30	mev11_080.scr	30	ニアタ	Niata Monad	personagem	CRLF x1	この身体朽ちるまで、\nそれを探求したかったのだよ		
+mev11_080.scr:31	mev11_080.scr	31	キール	Keele Zeibel	personagem		ここで、観察していたってわけか		
+mev11_080.scr:32	mev11_080.scr	32	ニアタ	Niata Monad	personagem		それに、我々には誓いがある		
+mev11_080.scr:33	mev11_080.scr	33	ニアタ	Niata Monad	personagem	CRLF x1	世界に危機訪れし時、\nそこに住む民に力を貸すと		
+mev11_080.scr:34	mev11_080.scr	34	ニアタ	Niata Monad	personagem	CRLF x2	そして、ディセンダーよ。\nそなたが生まれたというなら、\n今がその時なのだな		
+mev11_080.scr:35	mev11_080.scr	35	ジュディス	Judith	personagem	CRLF x2	この世界に封じられていた\nもう一つの世界、\nあなたは見ていたのでしょう？		
+mev11_080.scr:36	mev11_080.scr	36	ジュディス	Judith	personagem	CRLF x1	それが、この世界に現れたの。\n一人の人格と、姿を得て…		
+mev11_080.scr:37	mev11_080.scr	37	ニアタ	Niata Monad	personagem	CRLF x2	なるほど…、「生命の場」を持たない\n情報だけの存在が、この世界の生命力を得て、\n姿を持ったのだな		
+mev11_080.scr:38	mev11_080.scr	38	キール	Keele Zeibel	personagem		「生命の場」？　「情報だけの存在」とは？		
+mev11_080.scr:39	mev11_080.scr	39	ニアタ	Niata Monad	personagem	CRLF x2	世界樹の種子に実体は無く、\n輝くエネルギーのみで\n構成されている		
+mev11_080.scr:40	mev11_080.scr	40	ニアタ	Niata Monad	personagem	CRLF x1	そこには、生命を生み出す力「生命の場」と\nいかなる世界を構築するかの「情報」がある		
+mev11_080.scr:41	mev11_080.scr	41	ニアタ	Niata Monad	personagem		この二つがなければ、種子は芽吹かない		
+mev11_080.scr:42	mev11_080.scr	42	ジュディス	Judith	personagem		情報…		
+mev11_080.scr:43	mev11_080.scr	43	ジュディス	Judith	personagem	CRLF x1	言い換えれば、ドクメントだけの存在だった\nラザリスに、私達の世界の人間が願い…、		
+mev11_080.scr:44	mev11_080.scr	44	ジュディス	Judith	personagem	CRLF x2	それを叶える事で、ラザリスは\n力を得てしまった…。\nそういう事かしら？		
+mev11_080.scr:45	mev11_080.scr	45	ラザリス	Lazaris	personagem	CRLF x1	時空が騒いだと思ったら、\nこんなものがあったなんてね…		
+mev11_080.scr:46	mev11_080.scr	46	キール	Keele Zeibel	personagem		ラザリス…		
+mev11_080.scr:47	mev11_080.scr	47	ラザリス	Lazaris	personagem		僕が何者か、わかった様だね		
+mev11_080.scr:48	mev11_080.scr	48	ラザリス	Lazaris	personagem	CRLF x2	そう。\n僕は、生まれるはずだった世界\nジルディアにして、その一部…		
+mev11_080.scr:49	mev11_080.scr	49	ラザリス	Lazaris	personagem		だけど、僕の種子は芽吹かなかった		
+mev11_080.scr:50	mev11_080.scr	50	ラザリス	Lazaris	personagem	CRLF x2	僕はね、あのまま朽ちるはずだったんだ。\nでも、君達の世界樹は僕を取り込み、\n星晶で封じたんだよ		
+mev11_080.scr:51	mev11_080.scr	51	ラザリス	Lazaris	personagem	CRLF x2	何の為に封じたんだい、ディセンダー…。\n生まれる事も出来ず、価値のない僕を\nなぜわざわざ封印したんだ		
+mev11_080.scr:52	mev11_080.scr	52	ラザリス	Lazaris	personagem	CRLF x1	だんまりかい。\n知った事ではないってんだね		
+mev11_080.scr:53	mev11_080.scr	53	ラザリス	Lazaris	personagem	CRLF x1	ともかく、どういうわけか\n僕はこの世界に解き放たれた		
+mev11_080.scr:54	mev11_080.scr	54	ラザリス	Lazaris	personagem	CRLF x2	あきれたよ。\n出来上がったこの世界を見れば、\n自滅の道を歩んでいるじゃないか		
+mev11_080.scr:55	mev11_080.scr	55	ラザリス	Lazaris	personagem		だから……、		
+mev11_080.scr:56	mev11_080.scr	56	ラザリス	Lazaris	personagem		だから、この世界は僕がもらうよ！！		
+mev11_080.scr:57	mev11_080.scr	57	(opcao do jogador)	(opcao do jogador)	escolha		何か言葉を見つけようと焦る		
+mev11_080.scr:58	mev11_080.scr	58	(opcao do jogador)	(opcao do jogador)	escolha		黙る		
+mev11_100.scr:0	mev11_100.scr	0	キール	Keele Zeibel	personagem		何だ、あれは！？		
+mev11_100.scr:1	mev11_100.scr	1	ラザリス	Lazaris	personagem		アレは、僕の世界ジルディアのほんの一部		
+mev11_100.scr:2	mev11_100.scr	2	ラザリス	Lazaris	personagem	CRLF x1	まだまだ世界樹が生命の場を譲って\nくれそうにないから、一度にはムリだけど		
+mev11_100.scr:3	mev11_100.scr	3	ラザリス	Lazaris	personagem	CRLF x1	でも、やがて全てを僕色に塗り替えるよ。\nじわじわとね		
+mev11_100.scr:4	mev11_100.scr	4	ラザリス	Lazaris	personagem		僕ならもっといい世界を生み出せる		
+mev11_100.scr:5	mev11_100.scr	5	ラザリス	Lazaris	personagem	CRLF x1	ディセンダー、\nいずれ君も僕のものになってくれよ		
+mev11_100.scr:6	mev11_100.scr	6	ジュディス	Judith	personagem		ニアタ…！		
+mev11_100.scr:7	mev11_100.scr	7	ニアタ	Niata Monad	personagem	CRLF x1	あの…ラザリスが…出現させたものが、\n世界を……侵食し始めている…		
+mev11_100.scr:8	mev11_100.scr	8	ニアタ	Niata Monad	personagem	CRLF x1	このルミナシアの……理を変えていく…\n媒体だ…		
+mev11_100.scr:9	mev11_100.scr	9	ニアタ	Niata Monad	personagem	CRLF x1	最終的には…世界樹の生命の場を…\n…乗っ取る…つもりだろう……		
+mev11_100.scr:10	mev11_100.scr	10	ニアタ	Niata Monad	personagem	CRLF x1	星晶で…封じたと…言って…いたな……。\n世界樹が…生んだ…あの物質の事か		
+mev11_100.scr:11	mev11_100.scr	11	ジュディス	Judith	personagem	CRLF x1	でも、星晶のほとんどが採掘されてしまって、\n残っていないわ		
+mev11_100.scr:12	mev11_100.scr	12	ニアタ	Niata Monad	personagem	CRLF x2	そなた…、モノから情報を読む力を持つよう…\n自らを設計して地上へ降りた……、\nクリティア族…だな……		
+mev11_100.scr:13	mev11_100.scr	13	ニアタ	Niata Monad	personagem	CRLF x2	ならば…、必要な事は…このプレートに\n記して…ある。\n力に…なれれば…いいが……		
+mev11_100.scr:14	mev11_100.scr	14	ニアタ	Niata Monad	personagem		………………………………		
+mev11_100.scr:15	mev11_100.scr	15	キール	Keele Zeibel	personagem		もう、反応がない…		
+mev11_100.scr:16	mev11_100.scr	16	キール	Keele Zeibel	personagem		みんな、一度戻ろう		
+mev11_105.scr:0	mev11_105.scr	0	キール	Keele Zeibel	personagem		おい、見ろよ！　道が…！		
+mev11_105.scr:1	mev11_105.scr	1	ジュディス	Judith	personagem	CRLF x1	いえ、これでいいの。\nこの場所は荒らされるべきではないわ		
+mev11_105.scr:2	mev11_105.scr	2	ジュディス	Judith	personagem	CRLF x1	戻りましょう\n		
+mev11_110.scr:0	mev11_110.scr	0	アンジュ	Ange Serena	personagem	CRLF x1	お疲れ様。\n無事に戻れて何よりよ		
+mev11_110.scr:1	mev11_110.scr	1	アンジュ	Ange Serena	personagem	CRLF x1	それにしても、あのキバの様なものの出現に\nみんな、動揺しているわ		
+mev11_110.scr:2	mev11_110.scr	2	アンジュ	Ange Serena	personagem		近隣の村とかに、被害がないか気になるよね…		
+mev11_110.scr:3	mev11_110.scr	3	アンジュ	Ange Serena	personagem	CRLF x2	ラザリスが出現させた、\nあの空に食い付かんばかりの\n大きくて白いものよ		
+mev11_110.scr:4	mev11_110.scr	4	アンジュ	Ange Serena	personagem	CRLF x2	どう見ても、キバだもん…。\n他に何て言えばいいのか\nわからないし		
+mev11_110.scr:5	mev11_110.scr	5	アンジュ	Ange Serena	personagem	CRLF x2	今後あれは「ジルディアのキバ」か\n「キバ」って呼びましょ\nね？　決まり！		
+mev11_110.scr:6	mev11_110.scr	6	アンジュ	Ange Serena	personagem		みんなにもそう伝えておくね		
+mev11_110.scr:7	mev11_110.scr	7	アンジュ	Ange Serena	personagem		うふふ、良かった		
+mev11_110.scr:8	mev11_110.scr	8	アンジュ	Ange Serena	personagem	CRLF x2	わかりやすいから、いいじゃない。\nみんなもすぐ覚えられるし、\n合理的でしょ		
+mev11_110.scr:9	mev11_110.scr	9	アンジュ	Ange Serena	personagem	CRLF x2	さて、と。\nあとの報告はキール君から詳しく聞くから、\nあなたには、医務室へ行ってもらおうかな		
+mev11_110.scr:10	mev11_110.scr	10	アンジュ	Ange Serena	personagem	CRLF x1	ちょっと、カノンノの様子を\n見てきて欲しいの		
+mev11_110.scr:11	mev11_110.scr	11	アンジュ	Ange Serena	personagem		それじゃあ、お願いね		
+mev11_110.scr:12	mev11_110.scr	12	(opcao do jogador)	(opcao do jogador)	escolha		「キバ」とは、と尋ねる		
+mev11_110.scr:13	mev11_110.scr	13	(opcao do jogador)	(opcao do jogador)	escolha		「キバ」と呼ぶのか、と尋ねる		
+mev11_110.scr:14	mev11_110.scr	14	(opcao do jogador)	(opcao do jogador)	escolha		了解する		
+mev11_110.scr:15	mev11_110.scr	15	(opcao do jogador)	(opcao do jogador)	escolha		アンジュのいい加減さに呆れる		
+mev11_110.scr:16	mev11_110.scr	16	(mensagem de sistema)	(mensagem de sistema)	sistema		優先行動（ベテラン編）が使えるようになりました！		
+mev11_120.scr:0	mev11_120.scr	0	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	あれっ、○○。\nどうしたの？		
+mev11_120.scr:1	mev11_120.scr	1	カノンノ	Kanonno Grassvalley	personagem		ああ、心配かけちゃったよね		
+mev11_120.scr:2	mev11_120.scr	2	カノンノ	Kanonno Grassvalley	personagem		謝りに行かなきゃ		
+mev11_120.scr:3	mev11_120.scr	3	カノンノ	Kanonno Grassvalley	personagem		ぁ…、それで来てくれたの？		
+mev11_120.scr:4	mev11_120.scr	4	カノンノ	Kanonno Grassvalley	personagem		ありがと…		
+mev11_120.scr:5	mev11_120.scr	5	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	でも、もう仕事出来るから。\n大丈夫		
+mev11_120.scr:6	mev11_120.scr	6	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	そういえば、\nヴェラトローパに行ってきたんだよね。\nどうだった？		
+mev11_120.scr:7	mev11_120.scr	7	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そう。\nそんなに色んな事がわかったんだ		
+mev11_120.scr:8	mev11_120.scr	8	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	そうなの。\n私も、そんなに色んな事があったら、\n戸惑っちゃうだろうな…		
+mev11_120.scr:9	mev11_120.scr	9	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	でも、今の話の中でも\nヒトの祖の話…、すごいなあ		
+mev11_120.scr:10	mev11_120.scr	10	カノンノ	Kanonno Grassvalley	personagem		世界と共に、創造する為に地上に降りたなんて		
+mev11_120.scr:11	mev11_120.scr	11	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	私達、その「ヒトの祖」の子孫なんだなって\n思ったら、すごく不思議な気分		
+mev11_120.scr:12	mev11_120.scr	12	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	不思議で、素敵な事だと思うけど…。\nでも…。\n今の世界はどうなのかな…		
+mev11_120.scr:13	mev11_120.scr	13	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	戦争をしたり、奪い合ったり、欲しがったり。\nみんながみんな、別々の方向を見てる		
+mev11_120.scr:14	mev11_120.scr	14	カノンノ	Kanonno Grassvalley	personagem		世界樹は…、寂しがってないかな		
+mev11_120.scr:15	mev11_120.scr	15	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	○○は、\nみんなの事を信じているんだね		
+mev11_120.scr:16	mev11_120.scr	16	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	うん。\n今、悲観的になったらだめだよね		
+mev11_120.scr:17	mev11_120.scr	17	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	世界を良くする為に、\nアドリビトムはあるんだもん		
+mev11_120.scr:18	mev11_120.scr	18	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	そっか…。\nあなたが言うなら、そうなんだろうな…		
+mev11_120.scr:19	mev11_120.scr	19	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	でも、出来るよね。\nアドリビトムで、世界を少しずつでも\n変えていけるよね？		
+mev11_120.scr:20	mev11_120.scr	20	カノンノ	Kanonno Grassvalley	personagem	CRLF x2	でも、世界が良くなったら…。\nあなたは、予言の通りに世界樹へ帰らないと\nいけないの？		
+mev11_120.scr:21	mev11_120.scr	21	カノンノ	Kanonno Grassvalley	personagem	CRLF x1	私、あなたがいなくなったら\n寂しいよ…		
+mev11_120.scr:22	mev11_120.scr	22	(opcao do jogador)	(opcao do jogador)	escolha		アンジュに頼まれて様子を見に来た、と言う		
+mev11_120.scr:23	mev11_120.scr	23	(opcao do jogador)	(opcao do jogador)	escolha		心配で見に来た、と言う		
+mev11_120.scr:24	mev11_120.scr	24	(opcao do jogador)	(opcao do jogador)	escolha		ありのままの事を話す		
+mev11_120.scr:25	mev11_120.scr	25	(opcao do jogador)	(opcao do jogador)	escolha		戸惑いがちに話す		
+mev11_120.scr:26	mev11_120.scr	26	(opcao do jogador)	(opcao do jogador)	escolha		大丈夫、と言う		
+mev11_120.scr:27	mev11_120.scr	27	(opcao do jogador)	(opcao do jogador)	escolha		世界樹は寂しがってるはず、と言う		
+mev11_120.scr:28	mev11_120.scr	28	(opcao do jogador)	(opcao do jogador)	escolha		苦笑する		
+mev11_120.scr:29	mev11_120.scr	29	(opcao do jogador)	(opcao do jogador)	escolha		わからない、と言う		
+mev11_120.scr:30	mev11_120.scr	30	(mensagem de sistema)	(mensagem de sistema)	sistema		カノンノの治療が終了しました		
+mev11_130.scr:0	mev11_130.scr	0	ジュディス	Judith	personagem	CRLF x1	ラザリスの狙いは、この世界。\n…その為に世界樹を奪おうとしているわ		
+mev11_130.scr:1	mev11_130.scr	1	キール	Keele Zeibel	personagem	CRLF x1	人類は星晶を巡って争ってる場合じゃない。\n世界の存在そのものが危険なんだ！		
+mev11_130.scr:2	mev11_130.scr	2	ルカ	Ruca Milda	personagem	CRLF x1	も、もし、世界が作りかえられたら…。\n僕達、どうなっちゃうの？		
+mev11_130.scr:3	mev11_130.scr	3	キール	Keele Zeibel	personagem	CRLF x2	ラザリスの世界の理に適応出来なくて死ぬか。\nあるいは、自分達も異質なものへと変化して\nラザリスの世界の住人になるか		
+mev11_130.scr:4	mev11_130.scr	4	キール	Keele Zeibel	personagem		考えられるのはこんなところだな		
+mev11_130.scr:5	mev11_130.scr	5	ルカ	Ruca Milda	personagem	CRLF x2	じゃ、じゃあ、ラザリスの世界の住人に\nなった場合は、少なくとも死なずには\n済むんだね		
+mev11_130.scr:6	mev11_130.scr	6	セルシウス	Celsius	personagem		あなた、変化した虫を見たのでしょう？		
+mev11_130.scr:7	mev11_130.scr	7	セルシウス	Celsius	personagem	CRLF x2	あなたがもし異質な存在になったとして、\nあなた達ヒトの精神はそれに耐えられるの\nかしら？		
+mev11_130.scr:8	mev11_130.scr	8	ルカ	Ruca Milda	personagem		うっ…		
+mev11_130.scr:9	mev11_130.scr	9	セルシウス	Celsius	personagem	CRLF x1	今までの生き方だって全て、\n通用しなくなるかもしれないわよ		
+mev11_130.scr:10	mev11_130.scr	10	キール	Keele Zeibel	personagem	CRLF x2	そうだ、セルシウス。\nラザリスは、世界樹…その中でも\n生命の場を狙っている様だが		
+mev11_130.scr:11	mev11_130.scr	11	キール	Keele Zeibel	personagem	CRLF x1	生命の場と言うものを、\n詳しく教えてくれないか		
+mev11_130.scr:12	mev11_130.scr	12	セルシウス	Celsius	personagem	CRLF x2	世界樹の中にある、マナを生み出す部分。\n全ての源、世界樹の心臓とも言えるし、\nこの世界そのもののドクメントでもあるわ		
+mev11_130.scr:13	mev11_130.scr	13	キール	Keele Zeibel	personagem	CRLF x2	と、なると、\nそのドクメントが侵食されてしまえば、\nラザリスの世界へ作り変えられる…か		
+mev11_130.scr:14	mev11_130.scr	14	セルシウス	Celsius	personagem	CRLF x2	それは世界樹自身、\nもしくは世界樹の分身である\nディセンダーにしか扱えないでしょうね		
+mev11_130.scr:15	mev11_130.scr	15	ルカ	Ruca Milda	personagem	CRLF x1	○○…。\n君が、生命の場を守りに行く事は出来ないの？		
+mev11_130.scr:16	mev11_130.scr	16	ルカ	Ruca Milda	personagem		そ、そんなぁ…		
+mev11_130.scr:17	mev11_130.scr	17	ルカ	Ruca Milda	personagem	CRLF x2	ええ…。\n何でそんなに自信なさげなの？\n君の事、頼りにしてるのに…		
+mev11_130.scr:18	mev11_130.scr	18	セルシウス	Celsius	personagem	CRLF x1	ラザリスが手にしたところで、\n簡単に扱えるものではないはずよ		
+mev11_130.scr:19	mev11_130.scr	19	セルシウス	Celsius	personagem		…恐らく、だけれどね…		
+mev11_130.scr:20	mev11_130.scr	20	キール	Keele Zeibel	personagem	CRLF x1	つまり、共に滅びる可能性も\nあるわけだな		
+mev11_130.scr:21	mev11_130.scr	21	ジュディス	Judith	personagem	CRLF x1	まだ、完全に手詰まり、\nというわけではないわ		
+mev11_130.scr:22	mev11_130.scr	22	ジュディス	Judith	personagem		だって、彼は力を貸すと言ったもの		
+mev11_130.scr:23	mev11_130.scr	23	キール	Keele Zeibel	personagem		ニアタから渡されたプレートを読んだのか？		
+mev11_130.scr:24	mev11_130.scr	24	ジュディス	Judith	personagem	CRLF x1	これからよ。\nだから、少し時間をもらうわね		
+mev11_130.scr:25	mev11_130.scr	25	(opcao do jogador)	(opcao do jogador)	escolha		何も知らないので無理、と言う		
+mev11_130.scr:26	mev11_130.scr	26	(opcao do jogador)	(opcao do jogador)	escolha		何とかしてあげたいが…、と言う		
+mev11_140.scr:0	mev11_140.scr	0	ジュディス	Judith	personagem		プレートの情報を読んだわ		
+mev11_140.scr:1	mev11_140.scr	1	ジュディス	Judith	personagem	CRLF x2	あのキバは、ラザリスが封印されていた\n次元から、物理法則を超えて、\nこのルミナシアへ現れている		
+mev11_140.scr:2	mev11_140.scr	2	ジュディス	Judith	personagem		パイプの様なものよ		
+mev11_140.scr:3	mev11_140.scr	3	リタ	Rita Mordio	personagem		パイプ？		
+mev11_140.scr:4	mev11_140.scr	4	ジュディス	Judith	personagem	CRLF x1	ええ。\nラザリスの世界の情報を通すパイプ、ね		
+mev11_140.scr:5	mev11_140.scr	5	リタ	Rita Mordio	personagem		で、他に読み取れた事は？		
+mev11_140.scr:6	mev11_140.scr	6	ジュディス	Judith	personagem	CRLF x2	ラザリス、及び彼女の世界ジルディアが\n封印されていた次元は、星晶によって\n作られたらしいわ		
+mev11_140.scr:7	mev11_140.scr	7	ジュディス	Judith	personagem	CRLF x2	でも、封印されていた次元は\nほころんでいるから、\n元に戻すには星晶が必要なの		
+mev11_140.scr:8	mev11_140.scr	8	リタ	Rita Mordio	personagem	CRLF x1	でも、どうすんのよ。\n星晶はほとんど採掘されて無いじゃない		
+mev11_140.scr:9	mev11_140.scr	9	ジュディス	Judith	personagem	CRLF x2	これはプレートからの情報なのだけれど、\n星晶の代用となるものを作る事が\n出来るみたいなの		
+mev11_140.scr:10	mev11_140.scr	10	ジュディス	Judith	personagem	CRLF x1	でも、それは私達が生活する為の\nエネルギーとして使う事は無理な様ね		
+mev11_140.scr:11	mev11_140.scr	11	ジュディス	Judith	personagem	CRLF x1	星晶の代用品は、ラザリスに再び封印を\n施す為のもの		
+mev11_140.scr:12	mev11_140.scr	12	ジュディス	Judith	personagem	CRLF x1	代用品で次元…、「封印次元」を構築したら、\nこの世界を包む様に封印を施す		
+mev11_140.scr:13	mev11_140.scr	13	ジュディス	Judith	personagem	CRLF x1	そうすれば、ラザリスを再び封じる事が\n出来る様よ		
+mev11_140.scr:14	mev11_140.scr	14	リタ	Rita Mordio	personagem		星晶の代用はどうやって？		
+mev11_140.scr:15	mev11_140.scr	15	ジュディス	Judith	personagem	CRLF x1	三つの素材のドクメントを\nソウルアルケミーで構築するの		
+mev11_140.scr:16	mev11_140.scr	16	ジュディス	Judith	personagem	CRLF x2	一つ目は、舐めると塩辛い空色の石、\n二つ目は、羽があって飛び回る実。\n釣鐘に羽が付いた様な感じかしら…？		
+mev11_140.scr:17	mev11_140.scr	17	リタ	Rita Mordio	personagem		はあ？		
+mev11_140.scr:18	mev11_140.scr	18	ジュディス	Judith	personagem	CRLF x2	三つ目は、どう伝えればいいかしら。\n全身から汗を流すパン…？\nロールパンみたいな		
+mev11_140.scr:19	mev11_140.scr	19	リタ	Rita Mordio	personagem		ちょっとあんた、ふざけてんの？		
+mev11_140.scr:20	mev11_140.scr	20	ジュディス	Judith	personagem	CRLF x2	名称まではわからないわ。\nプレートにあったこの情報は、\n言葉ではなく映像だもの		
+mev11_140.scr:21	mev11_140.scr	21	ジュディス	Judith	personagem	CRLF x1	ニアタだって、この世界のものの名称までは\nわからないでしょうし		
+mev11_140.scr:22	mev11_140.scr	22	リタ	Rita Mordio	personagem		はぁ…、正直ワケわかんないんだけど		
+mev11_140.scr:23	mev11_140.scr	23	リタ	Rita Mordio	personagem		でも、塩辛い空色の石ってのは「塩水晶」ね		
+mev11_140.scr:24	mev11_140.scr	24	リタ	Rita Mordio	personagem	CRLF x2	他のものは、これから\n資料を引っ張り出して\n調べていくしかないか…		
+mev11_140.scr:25	mev11_140.scr	25	リタ	Rita Mordio	personagem	CRLF x1	んじゃ、塩水晶の採取は\n依頼に出しておくわ		
