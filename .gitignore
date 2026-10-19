@@ -1,14 +1,22 @@
 # --- Arquivos do jogo: NUNCA versionar (direitos autorais + tamanho) ---
+# (caminhos com pasta sao relativos a raiz do repo; o RM3 vive em "PROJETO CLAUDE RM 3/")
 *.iso
 *.cso
 *.pbp
-RM3/eboot/
-RM3/extraido/
+PROJETO CLAUDE RM 3/RM3/eboot/
+PROJETO CLAUDE RM 3/RM3/extraido/
 *.prx
+*.xdelta
+# logs de build da receita (trazem caminhos absolutos da maquina) e etapas intermediarias
+*.iso.log
+*.iso.etapas/
 
 # --- Documentacao .md fica local (decisao do mantenedor) ---
 *.md
 !/README.md
+# excecao: guias publicos para quem quiser traduzir/reconstruir (pedido do mantenedor, 19/10/2026)
+!/docs/
+!/docs/*.md
 
 # --- Python ---
 __pycache__/
@@ -17,7 +25,7 @@ __pycache__/
 # --- Backups e rascunhos ---
 *.bak
 *.bak_*
-RM3/scratch/
+PROJETO CLAUDE RM 3/RM3/scratch/
 scratch_elenco.csv
 
 # --- Configuracao local de ferramentas/editores ---
@@ -27,7 +35,7 @@ Claude outputs/
 *.canvas
 *.url
 *.lock
-RM3/--help
+PROJETO CLAUDE RM 3/RM3/--help
 
 # --- Arquivo redundante de skills/avaliacao/ (contem caminho pessoal) ---
-RM3/skills/avaliacao/skills_rm3.tar.gz
+PROJETO CLAUDE RM 3/RM3/skills/avaliacao/skills_rm3.tar.gz

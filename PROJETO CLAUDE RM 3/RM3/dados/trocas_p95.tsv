@@ -1,0 +1,57 @@
+# P-95: problemas mecanicos achados na auditoria de qualidade (01/10/2026)
+gummy base	Gel Base
+gummies	gels
+gummy	gel
+Dokumentos	Documents
+Dokumento	Document
+Zildia	Zirdia
+Jildia	Zirdia
+Gildea	Zirdia
+starcrystals	Star Crystals
+starcrystal	Star Crystal
+lower town	Lower Quarter
+Niata-sama	Lady Niata
+Rubia-sama	Lady Rubia
+Rita-sama	Lady Rita
+Sheena-sama	Lady Sheena
+Arche-sama	Lady Arche
+Eugene-sama	Master Eugene
+Jade-sama	Master Jade
+Luke-sama	Master Luke
+Anise-chan	Anise
+Ange-san	Ange
+Kanonno-san	Kanonno
+Rocks-san	Rocks
+Chun-san	Chun
+Will-san	Will
+Ohana-san	Ohana
+Asch-san	Asch
+Van-san	Van
+Rutee-san	Rutee
+Rubia-san	Rubia
+Kongman-san	Kongman
+Philia-san	Philia
+Raven-san	Raven
+Norma-san	Norma
+Flynn-san	Flynn
+Eugene-san	Eugene
+Claire-san	Claire
+Estelle-san	Estelle
+Sheena-san	Sheena
+Harold-san	Harold
+Celsius-san	Celsius
+Niata-san	Niata
+Ruca-san	Ruca
+Iria-san	Iria
+Tear-san	Tear
+Luke-san	Luke
+Chat-san	Chat
+Lloyd-kun	Lloyd
+Suzu-chan	Suzu
+Judith-chan	Judith
+Tear-chan	Tear
+Cheria-chan	Cheria
+Sophie-chan	Sophie
+re:~?([!?]+) ?(?::\)|:D)	~\1
+re:(\.\.\.)~? ?(?::\)|:D)	\1~
+re:~? ?(?::\)|:D)	~

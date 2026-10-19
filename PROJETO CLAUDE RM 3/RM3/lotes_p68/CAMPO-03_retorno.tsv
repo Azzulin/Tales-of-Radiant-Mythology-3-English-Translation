@@ -1,0 +1,389 @@
+id	cena	ordem	falante_jp	falante_en	tipo	control_codes	original	traducao	nota_do_tradutor	bytes_jp
+mev00_010.scr#11	mev00_010.scr	11	(campo)	(field)	rotulo		エモ出します	Showing emote		12
+mev00_010.scr#13	mev00_010.scr	13	(campo)	(field)	rotulo		影	Shadow		2
+mev00_010.scr#14	mev00_010.scr	14	(campo)	(field)	rotulo		巨大	Giant		4
+mev00_010.scr#15	mev00_010.scr	15	(campo)	(field)	rotulo		薄い	Faint		4
+mev00_010.scr#16	mev00_010.scr	16	(campo)	(field)	rotulo		武器	Weapon		4
+mev00_010.scr#17	mev00_010.scr	17	(campo)	(field)	rotulo		地震	Earthquake		4
+mev00_010.scr#18	mev00_010.scr	18	(campo)	(field)	rotulo		浮遊	Float		4
+mev00_010.scr#19	mev00_010.scr	19	(campo)	(field)	rotulo		カットイン	Cut-in		10
+mev00_010.scr#20	mev00_010.scr	20	(campo)	(field)	rotulo		色	Color		2
+mev00_010.scr#21	mev00_010.scr	21	(campo)	(field)	rotulo		薄い・色い	Faint / Color		10
+mev00_010.scr#22	mev00_010.scr	22	(campo)	(field)	rotulo		背景	Background		4
+mev00_010.scr#23	mev00_010.scr	23	(campo)	(field)	rotulo		持つ	Hold		4
+mev00_010.scr#24	mev00_010.scr	24	(campo)	(field)	rotulo		ハンパねー	Insane!		10
+mev00_010.scr#25	mev00_010.scr	25	(campo)	(field)	rotulo		巨大「化」	Giant-ize		10
+mev00_010.scr#26	mev00_010.scr	26	(campo)	(field)	rotulo		イリア、影がなくなる！？	Iria loses her shadow!?		24
+mev00_010.scr#27	mev00_010.scr	27	(campo)	(field)	rotulo		うそうそ	Just kidding		8
+mev00_010.scr#28	mev00_010.scr	28	(campo)	(field)	rotulo		イリア、大きくなる！	Iria gets bigger!		20
+mev00_010.scr#29	mev00_010.scr	29	(campo)	(field)	rotulo		イリア、薄くなる！	Iria fades out!		18
+mev00_010.scr#30	mev00_010.scr	30	(campo)	(field)	rotulo		イリア、武器が出る	Iria's weapon appears		18
+mev00_010.scr#31	mev00_010.scr	31	(campo)	(field)	rotulo		冗談だってば	I said I'm joking!		12
+mev00_010.scr#32	mev00_010.scr	32	(campo)	(field)	rotulo		地震	Earthquake		4
+mev00_010.scr#33	mev00_010.scr	33	(campo)	(field)	rotulo		こわいねー	Scary, huh?		10
+mev00_010.scr#34	mev00_010.scr	34	(campo)	(field)	rotulo		浮遊	Float		4
+mev00_010.scr#35	mev00_010.scr	35	(campo)	(field)	rotulo		とんでます	I'm flying!		10
+mev00_010.scr#36	mev00_010.scr	36	(campo)	(field)	rotulo		カットイン	Cut-in		10
+mev00_010.scr#38	mev00_010.scr	38	(campo)	(field)	rotulo		消しますぞ！	Erasing now!		12
+mev00_010.scr#39	mev00_010.scr	39	(campo)	(field)	rotulo		真っ黒	Pitch black		6
+mev00_010.scr#40	mev00_010.scr	40	(campo)	(field)	rotulo		真っ赤	Bright red		6
+mev00_010.scr#41	mev00_010.scr	41	(campo)	(field)	rotulo		真っ白	Pure white		6
+mev00_010.scr#42	mev00_010.scr	42	(campo)	(field)	rotulo		・・・に、ならない	...or not.		18
+mev00_010.scr#43	mev00_010.scr	43	(campo)	(field)	rotulo		だんだん、黒	Fade to black		12
+mev00_010.scr#44	mev00_010.scr	44	(campo)	(field)	rotulo		戻す	Restore		4
+mev00_010.scr#45	mev00_010.scr	45	(campo)	(field)	rotulo		だんだん、薄	Fade out		12
+mev00_010.scr#46	mev00_010.scr	46	(campo)	(field)	rotulo		戻す	Restore		4
+mev00_010.scr#47	mev00_010.scr	47	(campo)	(field)	rotulo		だんだん、両方	Fade both		14
+mev00_010.scr#48	mev00_010.scr	48	(campo)	(field)	rotulo		戻す	Restore		4
+mev00_010.scr#49	mev00_010.scr	49	(campo)	(field)	rotulo		青い背景	Blue background		8
+mev00_010.scr#50	mev00_010.scr	50	(campo)	(field)	rotulo		薄くなる	Fade		8
+mev00_010.scr#51	mev00_010.scr	51	(campo)	(field)	rotulo		緑くなる	Turn green		8
+mev00_010.scr#52	mev00_010.scr	52	(campo)	(field)	rotulo		濃いくなる	Darken		10
+mev00_010.scr#53	mev00_010.scr	53	(campo)	(field)	rotulo		絵	Picture		2
+mev00_010.scr#55	mev00_010.scr	55	(campo)	(field)	rotulo		消える	Vanish		6
+mev00_010.scr#56	mev00_010.scr	56	(campo)	(field)	rotulo		持ちます	Picking it up		8
+mev00_010.scr#58	mev00_010.scr	58	(campo)	(field)	rotulo		歩きます	Walking		8
+mev00_010.scr#59	mev00_010.scr	59	(campo)	(field)	rotulo		捨てます	Dropping it		8
+mev00_010.scr#60	mev00_010.scr	60	(campo)	(field)	rotulo		おわり	The end		6
+mev00_010.scr#61	mev00_010.scr	61	(campo)	(field)	rotulo		持ちます	Picking it up		8
+mev00_010.scr#63	mev00_010.scr	63	(campo)	(field)	rotulo		歩きます	Walking		8
+mev00_010.scr#64	mev00_010.scr	64	(campo)	(field)	rotulo		捨てます	Dropping it		8
+mev00_010.scr#65	mev00_010.scr	65	(campo)	(field)	rotulo		ハンパねーっす	That's insane!		14
+mev00_010.scr#66	mev00_010.scr	66	(campo)	(field)	rotulo		膨らみます	Inflating		10
+mev00_010.scr#67	mev00_010.scr	67	(campo)	(field)	rotulo		縮みます	Shrinking		8
+mev00_010.scr#68	mev00_010.scr	68	(campo)	(field)	rotulo		戻ります	Back to normal		8
+mev00_010.scr#69	mev00_010.scr	69	(campo)	(field)	rotulo		嘘じゃないぉ！	It's not a lie!		14
+mev00_010.scr#70	mev00_010.scr	70	(campo)	(field)	rotulo		カメラ回します	Rotating camera		14
+cev01_010.scr#4	cev01_010.scr	4	(campo)	(field)	rotulo		クレス	Cress		6
+cev03_090.scr#13	cev03_090.scr	13	(campo)	(field)	rotulo		チェスター・キール	Chester & Keele		18
+cev10_020.scr#16	cev10_020.scr	16	(campo)	(field)	rotulo		ウッドロウ・ヴェイグ	Woodrow & Veigue		20
+cev14_040.scr#14	cev14_040.scr	14	(campo)	(field)	rotulo		カイル・ロニ	Kyle & Loni		12
+cev14_090.scr#6	cev14_090.scr	6	(campo)	(field)	rotulo		カイル	Kyle		6
+cev21_010.scr#13	cev21_010.scr	13	(campo)	(field)	rotulo		ファラ・コハク	Farah & Kohaku		14
+cev24_010.scr#0	cev24_010.scr	0	(campo)	(field)	rotulo		キュッポ・ピッポ・ポッポ	Kyuppo, Pippo & Poppo		24
+cev27_040.scr#6	cev27_040.scr	6	(campo)	(field)	rotulo		エミル・マルタ	Emil & Marta		14
+cev27_050.scr#19	cev27_050.scr	19	(campo)	(field)	rotulo		エミル・マルタ	Emil & Marta		14
+cev29_010.scr#16	cev29_010.scr	16	(campo)	(field)	rotulo		カイル	Kyle		6
+cev29_010.scr#17	cev29_010.scr	17	(campo)	(field)	rotulo		シング	Shing		6
+cev30_040.scr#33	cev30_040.scr	33	(campo)	(field)	rotulo		ロイド・ルーク	Lloyd & Luke		14
+cev32_080.scr#14	cev32_080.scr	14	(campo)	(field)	rotulo		ゼロス・レイヴン・ロニ	Zelos, Raven & Loni		22
+cev34_030.scr#20	cev34_030.scr	20	(campo)	(field)	rotulo		エミル・ルカ	Emil & Ruca		12
+cev35_010.scr#4	cev35_010.scr	4	(campo)	(field)	rotulo		マルタ	Marta		6
+cev39_020.scr#13	cev39_020.scr	13	(campo)	(field)	rotulo		マオ・ジーニアス	Mao & Genis		16
+cev39_020.scr#16	cev39_020.scr	16	(campo)	(field)	rotulo		マオ	Mao		4
+cev39_020.scr#21	cev39_020.scr	21	(campo)	(field)	rotulo		マオ・ジーニアス	Mao & Genis		16
+cev46_010.scr#16	cev46_010.scr	16	(campo)	(field)	rotulo		カイウス・ルカ	Caius & Ruca		14
+cev46_010.scr#19	cev46_010.scr	19	(campo)	(field)	rotulo		ヒスイ・クロエ	Hisui & Chloe		14
+cev47_060.scr#7	cev47_060.scr	7	(campo)	(field)	rotulo		マルタ・エミル	Marta & Emil		14
+cev47_070.scr#8	cev47_070.scr	8	(campo)	(field)	rotulo		コハク・シェリア	Kohaku & Cheria		16
+cev48_030.scr#5	cev48_030.scr	5	(campo)	(field)	rotulo		キュッポ・ピッポ・ポッポ	Kyuppo, Pippo & Poppo		24
+cev49_020.scr#10	cev49_020.scr	10	(campo)	(field)	rotulo		ピッポ・ポッポ・キュッポ	Pippo, Poppo & Kyuppo		24
+cev49_020.scr#14	cev49_020.scr	14	(campo)	(field)	rotulo		ピッポ・ポッポ・キュッポ	Pippo, Poppo & Kyuppo		24
+cev50_040.scr#13	cev50_040.scr	13	(campo)	(field)	rotulo		コハク・リリス・シャーリィ	Kohaku, Lilith & Shirley		26
+cev51_010.scr#15	cev51_010.scr	15	(campo)	(field)	rotulo		ファラ・キール	Farah & Keele		14
+cev55_030.scr#4	cev55_030.scr	4	(campo)	(field)	rotulo		ルーク	Luke		6
+cev55_030.scr#18	cev55_030.scr	18	(campo)	(field)	rotulo		ルーク・アッシュ	Luke & Asch		16
+cev56_080.scr#8	cev56_080.scr	8	(campo)	(field)	rotulo		キュッポ・ピッポ・ポッポ	Kyuppo, Pippo & Poppo		24
+cev56_080.scr#11	cev56_080.scr	11	(campo)	(field)	rotulo		キュッポ・ピッポ・ポッポ・ガイ	Kyuppo, Pippo, Poppo & Guy		30
+cev58_020.scr#23	cev58_020.scr	23	(campo)	(field)	rotulo		ロイド・シング	Lloyd & Shing		14
+cev60_060.scr#10	cev60_060.scr	10	(campo)	(field)	rotulo		ルカ・エミル	Ruca & Emil		12
+cev62_080.scr#13	cev62_080.scr	13	(campo)	(field)	rotulo		ティトレイ	Tytree		10
+cev62_080.scr#18	cev62_080.scr	18	(campo)	(field)	rotulo		マルタ	Marta		6
+cev64_030.scr#2	cev64_030.scr	2	(campo)	(field)	rotulo		エステル	Estelle		8
+cev66_040.scr#17	cev66_040.scr	17	(campo)	(field)	rotulo		ティトレイ・ロニ	Tytree & Loni		16
+cev66_040.scr#19	cev66_040.scr	19	(campo)	(field)	rotulo		ティトレイ	Tytree		10
+cev66_040.scr#31	cev66_040.scr	31	(campo)	(field)	rotulo		ティトレイ・ロニ	Tytree & Loni		16
+cev67_030.scr#21	cev67_030.scr	21	(campo)	(field)	rotulo		リタ・ルーク	Rita & Luke		12
+cev72_050.scr#14	cev72_050.scr	14	(campo)	(field)	rotulo		キュッポ・ポッポ・ピッポ	Kyuppo, Poppo & Pippo		24
+mapd01a01.scr#2	mapd01a01.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd01a02.scr#2	mapd01a02.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd01a14.scr#1	mapd01a14.scr	1	(campo)	(field)	campo		押す	Push		4
+mapd01a14.scr#2	mapd01a14.scr	2	(campo)	(field)	campo		押す	Push		4
+mapd01a14.scr#3	mapd01a14.scr	3	(campo)	(field)	campo		開く	Open		4
+mapd02a02.scr#2	mapd02a02.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd02a06.scr#4	mapd02a06.scr	4	(campo)	(field)	campo		調べる	Examine		6
+mapd03a01.scr#2	mapd03a01.scr	2	(campo)	(field)	campo		追憶の坑道：入口	Reminiscence: Entrance		16
+mapd03a03.scr#1	mapd03a03.scr	1	(campo)	(field)	campo		引く	Pull		4
+mapd03a03.scr#2	mapd03a03.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd03a08.scr#2	mapd03a08.scr	2	(campo)	(field)	campo		ワープ	Warp		6
+mapd03a08.scr#3	mapd03a08.scr	3	(campo)	(field)	campo		引く	Pull		4
+mapd03a08.scr#4	mapd03a08.scr	4	(campo)	(field)	campo		ワープ	Warp		6
+mapd03a08.scr#5	mapd03a08.scr	5	(campo)	(field)	campo		ワープ	Warp		6
+mapd03a08.scr#6	mapd03a08.scr	6	(campo)	(field)	campo		ワープ	Warp		6
+mapd03a08.scr#7	mapd03a08.scr	7	(campo)	(field)	campo		引く	Pull		4
+mapd03a08.scr#8	mapd03a08.scr	8	(campo)	(field)	campo		ワープ	Warp		6
+mapd03a08.scr#9	mapd03a08.scr	9	(campo)	(field)	campo		ワープ	Warp		6
+mapd03a08.scr#10	mapd03a08.scr	10	(campo)	(field)	campo		ワープ	Warp		6
+mapd03a08.scr#11	mapd03a08.scr	11	(campo)	(field)	campo		ワープ	Warp		6
+mapd03a08.scr#12	mapd03a08.scr	12	(campo)	(field)	campo		ワープ	Warp		6
+mapd03a08.scr#13	mapd03a08.scr	13	(campo)	(field)	campo		引く	Pull		4
+mapd03a08.scr#14	mapd03a08.scr	14	(campo)	(field)	campo		ワープ	Warp		6
+mapd03a09.scr#2	mapd03a09.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd03a10.scr#2	mapd03a10.scr	2	(campo)	(field)	campo		レバーを引きますか？	Pull the lever?		20
+mapd03a10.scr#3	mapd03a10.scr	3	(campo)	(field)	campo		はい	Yes		4
+mapd03a10.scr#4	mapd03a10.scr	4	(campo)	(field)	campo		いいえ	No		6
+mapd03a15.scr#6	mapd03a15.scr	6	(campo)	(field)	campo		レバーを引きますか？	Pull the lever?		20
+mapd03a15.scr#7	mapd03a15.scr	7	(campo)	(field)	campo		はい	Yes		4
+mapd03a15.scr#8	mapd03a15.scr	8	(campo)	(field)	campo		いいえ	No		6
+mapd03a15.scr#9	mapd03a15.scr	9	(campo)	(field)	campo		調べる	Examine		6
+mapd03a15.scr#11	mapd03a15.scr	11	(campo)	(field)	campo		調べる	Examine		6
+mapd03a15.scr#13	mapd03a15.scr	13	(campo)	(field)	campo		調べる	Examine		6
+mapd03a15.scr#15	mapd03a15.scr	15	(campo)	(field)	campo		調べる	Examine		6
+mapd03a17.scr#5	mapd03a17.scr	5	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a17.scr#10	mapd03a17.scr	10	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a17.scr#15	mapd03a17.scr	15	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a17.scr#20	mapd03a17.scr	20	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a17.scr#25	mapd03a17.scr	25	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a17.scr#30	mapd03a17.scr	30	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a17.scr#35	mapd03a17.scr	35	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a17.scr#40	mapd03a17.scr	40	(campo)	(field)	campo		調べる	Examine		6
+mapd03a18.scr#1	mapd03a18.scr	1	(campo)	(field)	campo		調べる	Examine		6
+mapd03a18.scr#3	mapd03a18.scr	3	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#8	mapd03a18.scr	8	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#13	mapd03a18.scr	13	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#18	mapd03a18.scr	18	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#23	mapd03a18.scr	23	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#28	mapd03a18.scr	28	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#33	mapd03a18.scr	33	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#38	mapd03a18.scr	38	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#43	mapd03a18.scr	43	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#48	mapd03a18.scr	48	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#53	mapd03a18.scr	53	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#58	mapd03a18.scr	58	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#63	mapd03a18.scr	63	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#68	mapd03a18.scr	68	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#73	mapd03a18.scr	73	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#78	mapd03a18.scr	78	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#83	mapd03a18.scr	83	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#88	mapd03a18.scr	88	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a18.scr#93	mapd03a18.scr	93	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd03a21.scr#2	mapd03a21.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd03a26.scr#2	mapd03a26.scr	2	(campo)	(field)	campo		ワープ	Warp		6
+mapd03a26.scr#3	mapd03a26.scr	3	(campo)	(field)	campo		ワープ	Warp		6
+mapd05a08.scr#2	mapd05a08.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd05a10.scr#2	mapd05a10.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd05a16.scr#2	mapd05a16.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd05a19.scr#1	mapd05a19.scr	1	(campo)	(field)	campo		倒す	Push down		4
+mapd05a19.scr#3	mapd05a19.scr	3	(campo)	(field)	campo		調べる	Examine		6
+mapd05a19.scr#4	mapd05a19.scr	4	(campo)	(field)	campo		倒す	Push down		4
+mapd05a22.scr#2	mapd05a22.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd05a22.scr#4	mapd05a22.scr	4	(campo)	(field)	campo		調べる	Examine		6
+mapd06a01.scr#4	mapd06a01.scr	4	(campo)	(field)	campo		調べる	Examine		6
+mapd06a09.scr#238	mapd06a09.scr	238	(campo)	(field)	campo		ヒント	Hint		6
+mapd07a01.scr#2	mapd07a01.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd07a02.scr#4	mapd07a02.scr	4	(campo)	(field)	campo		調べる	Examine		6
+mapd07a17.scr#2	mapd07a17.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd08a03.scr#2	mapd08a03.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd08a07.scr#2	mapd08a07.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd09a03.scr#1	mapd09a03.scr	1	(campo)	(field)	campo		調べる	Examine		6
+mapd09a10.scr#6	mapd09a10.scr	6	(campo)	(field)	campo		調べる	Examine		6
+mapd09a19.scr#2	mapd09a19.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd10a10.scr#2	mapd10a10.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd10a14.scr#4	mapd10a14.scr	4	(campo)	(field)	campo		調べる	Examine		6
+mapd10a14.scr#6	mapd10a14.scr	6	(campo)	(field)	campo		調べる	Examine		6
+mapd11a01.scr#2	mapd11a01.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd11a06.scr#2	mapd11a06.scr	2	(campo)	(field)	campo		移動	Move		4
+mapd11a06.scr#4	mapd11a06.scr	4	(campo)	(field)	campo		移動	Move		4
+mapd11a06.scr#5	mapd11a06.scr	5	(campo)	(field)	campo		移動	Move		4
+mapd11a06.scr#6	mapd11a06.scr	6	(campo)	(field)	campo		移動	Move		4
+mapd11a06.scr#7	mapd11a06.scr	7	(campo)	(field)	campo		移動	Move		4
+mapd11a06.scr#8	mapd11a06.scr	8	(campo)	(field)	campo		移動	Move		4
+mapd11a06.scr#9	mapd11a06.scr	9	(campo)	(field)	campo		移動	Move		4
+mapd11a06.scr#10	mapd11a06.scr	10	(campo)	(field)	campo		移動	Move		4
+mapd11a06.scr#11	mapd11a06.scr	11	(campo)	(field)	campo		移動	Move		4
+mapd11a06.scr#12	mapd11a06.scr	12	(campo)	(field)	campo		移動	Move		4
+mapd11a06.scr#13	mapd11a06.scr	13	(campo)	(field)	campo		移動	Move		4
+mapd11a06.scr#14	mapd11a06.scr	14	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#2	mapd11a17.scr	2	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#4	mapd11a17.scr	4	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#5	mapd11a17.scr	5	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#6	mapd11a17.scr	6	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#7	mapd11a17.scr	7	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#8	mapd11a17.scr	8	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#9	mapd11a17.scr	9	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#10	mapd11a17.scr	10	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#11	mapd11a17.scr	11	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#12	mapd11a17.scr	12	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#13	mapd11a17.scr	13	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#14	mapd11a17.scr	14	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#15	mapd11a17.scr	15	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#16	mapd11a17.scr	16	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#17	mapd11a17.scr	17	(campo)	(field)	campo		移動	Move		4
+mapd11a17.scr#18	mapd11a17.scr	18	(campo)	(field)	campo		移動	Move		4
+mapd11a23.scr#1	mapd11a23.scr	1	(campo)	(field)	campo		調べる	Examine		6
+mapd11a23.scr#2	mapd11a23.scr	2	(campo)	(field)	campo		調べる	Examine		6
+mapd11a23.scr#3	mapd11a23.scr	3	(campo)	(field)	campo		調べる	Examine		6
+mapd11a23.scr#4	mapd11a23.scr	4	(campo)	(field)	campo		調べる	Examine		6
+mapd11a23.scr#5	mapd11a23.scr	5	(campo)	(field)	campo		調べる	Examine		6
+mapd11a23.scr#6	mapd11a23.scr	6	(campo)	(field)	campo		調べる	Examine		6
+mapd11a24.scr#3	mapd11a24.scr	3	(campo)	(field)	campo		移動	Move		4
+mapd11a24.scr#4	mapd11a24.scr	4	(campo)	(field)	campo		移動	Move		4
+mapd11a24.scr#5	mapd11a24.scr	5	(campo)	(field)	campo		移動	Move		4
+mapd11a24.scr#7	mapd11a24.scr	7	(campo)	(field)	campo		移動	Move		4
+mapd11a24.scr#8	mapd11a24.scr	8	(campo)	(field)	campo		移動	Move		4
+mapd11a24.scr#9	mapd11a24.scr	9	(campo)	(field)	campo		移動	Move		4
+mapd11a24.scr#10	mapd11a24.scr	10	(campo)	(field)	campo		移動	Move		4
+mapd11a24.scr#11	mapd11a24.scr	11	(campo)	(field)	campo		移動	Move		4
+mapd11a24.scr#12	mapd11a24.scr	12	(campo)	(field)	campo		移動	Move		4
+mapd11a24.scr#13	mapd11a24.scr	13	(campo)	(field)	campo		移動	Move		4
+mapd11a24.scr#14	mapd11a24.scr	14	(campo)	(field)	campo		移動	Move		4
+mapd12a31.scr#3	mapd12a31.scr	3	(campo)	(field)	campo		調べる	Examine		6
+mapd12a31.scr#5	mapd12a31.scr	5	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd12a34.scr#2	mapd12a34.scr	2	(campo)	(field)	campo		飛び降りる	Jump down		10
+mapd12a57.scr#1	mapd12a57.scr	1	(campo)	(field)	campo		緊急脱出口	Emergency Exit		10
+mapd12a57.scr#4	mapd12a57.scr	4	(campo)	(field)	campo		調べる	Examine		6
+mev01_040.scr#3	mev01_040.scr	3	(campo)	(field)	rotulo		サレ	Saleh		4
+mev02_050.scr#7	mev02_050.scr	7	(campo)	(field)	rotulo		ユージーン	Eugene		10
+mev04_110.scr#2	mev04_110.scr	2	(campo)	(field)	rotulo		イリア	Iria		6
+mev11_080.scr#10	mev11_080.scr	10	(campo)	(field)	rotulo		ニアタ	Niata		6
+mev12_150.scr#2	mev12_150.scr	2	(campo)	(field)	rotulo		ロックス	Rocks		8
+nev01_005.scr#17	nev01_005.scr	17	(campo)	(field)	rotulo		ワールドマップ開放	Unlock world map		18
+nev01_005.scr#18	nev01_005.scr	18	(campo)	(field)	rotulo		マップＯＢＪチェック	Map object check		20
+nev01_005.scr#19	nev01_005.scr	19	(campo)	(field)	rotulo		初期メンバー配置	Place starting members		16
+nev01_005.scr#20	nev01_005.scr	20	(campo)	(field)	rotulo		全メンバー配置	Place all members		14
+nev01_005.scr#21	nev01_005.scr	21	(campo)	(field)	rotulo		一部機能開放	Unlock some features		12
+nev01_005.scr#22	nev01_005.scr	22	(campo)	(field)	rotulo		マップＳＥチェック	Map SE check		18
+nev01_011.scr#16	nev01_011.scr	16	(campo)	(field)	rotulo		キャラリメイク機能	Character remake		18
+nev01_011.scr#17	nev01_011.scr	17	(campo)	(field)	rotulo		身長リミッター解除	Remove height limit		18
+nev01_011.scr#18	nev01_011.scr	18	(campo)	(field)	rotulo		体格リミッター解除	Remove build limit		18
+nev01_011.scr#19	nev01_011.scr	19	(campo)	(field)	rotulo		戦闘ボイス追加（追加予定）	Extra battle voices (planned)		26
+nev01_011.scr#20	nev01_011.scr	20	(campo)	(field)	rotulo		倉庫拡張	Storage expansion		8
+nev01_011.scr#21	nev01_011.scr	21	(campo)	(field)	rotulo		スキットプレイヤ	Skit player		16
+nev01_011.scr#22	nev01_011.scr	22	(campo)	(field)	rotulo		難易度：ハード	Difficulty: Hard		14
+nev01_011.scr#23	nev01_011.scr	23	(campo)	(field)	rotulo		難易度：マニア	Difficulty: Mania		14
+nev01_011.scr#24	nev01_011.scr	24	(campo)	(field)	rotulo		サウンドセレクト：最終戦闘曲１	Sound select: Final battle 1		30
+nev01_011.scr#25	nev01_011.scr	25	(campo)	(field)	rotulo		サウンドセレクト：最終戦闘曲２	Sound select: Final battle 2		30
+nev01_011.scr#26	nev01_011.scr	26	(campo)	(field)	rotulo		所持アイテム数増加１	Item capacity up 1		20
+nev01_011.scr#27	nev01_011.scr	27	(campo)	(field)	rotulo		所持アイテム数増加２	Item capacity up 2		20
+nev01_011.scr#28	nev01_011.scr	28	(campo)	(field)	rotulo		達成済みクエストリスト	Completed quest list		22
+nev01_011.scr#29	nev01_011.scr	29	(campo)	(field)	rotulo		最近請けたクエスト	Recently accepted quests		18
+nev01_011.scr#30	nev01_011.scr	30	(campo)	(field)	rotulo		ミニマップ情報プラス	Minimap info plus		20
+nev01_027.scr#12	nev01_027.scr	12	(campo)	(field)	rotulo		バンエルティア号	Van Eltia		16
+nev01_027.scr#13	nev01_027.scr	13	(campo)	(field)	rotulo		ルバーブ連山	Mt. Rhubarb		12
+nev01_027.scr#14	nev01_027.scr	14	(campo)	(field)	rotulo		コンフェイト大森林	Confeito Forest		18
+nev01_027.scr#15	nev01_027.scr	15	(campo)	(field)	rotulo		ブラウニー坑道	Brownie Mine		14
+nev01_027.scr#16	nev01_027.scr	16	(campo)	(field)	rotulo		オルタータ火山	Mt. Alterata		14
+nev01_027.scr#17	nev01_027.scr	17	(campo)	(field)	rotulo		カダイフ砂漠	Kadaif Desert		12
+nev01_027.scr#18	nev01_027.scr	18	(campo)	(field)	rotulo		アルマナック遺跡	Almanac Ruins		16
+nev01_027.scr#19	nev01_027.scr	19	(campo)	(field)	rotulo		霊峰アブソール	Mt. Absol		14
+nev01_027.scr#20	nev01_027.scr	20	(campo)	(field)	rotulo		霊峰アブソール・開放	Mt. Absol (Unsealed)		20
+nev01_027.scr#21	nev01_027.scr	21	(campo)	(field)	rotulo		ヴェラトローパ	Veratropa		14
+nev01_027.scr#22	nev01_027.scr	22	(campo)	(field)	rotulo		シフノ湧泉洞	Sifno Spring		12
+nev01_027.scr#23	nev01_027.scr	23	(campo)	(field)	rotulo		聖地ラングリース	Holy Langriths		16
+nev01_027.scr#24	nev01_027.scr	24	(campo)	(field)	rotulo		エラン・ヴィタール	Elan Vital		18
+nev01_027.scr#25	nev01_027.scr	25	(campo)	(field)	rotulo		追憶の坑道	Mine of Reminiscence		10
+nev01_027.scr#26	nev01_027.scr	26	(campo)	(field)	rotulo		闘技場	Colosseum		6
+nev01_033.scr#14	nev01_033.scr	14	(campo)	(field)	rotulo		最プレイ設定	Replay settings		12
+nev01_033.scr#15	nev01_033.scr	15	(campo)	(field)	rotulo		やっぱ、やめ	Never mind		12
+nev01_033.scr#16	nev01_033.scr	16	(campo)	(field)	rotulo		やる！	Do it!		6
+nev01_035.scr#23	nev01_035.scr	23	(campo)	(field)	rotulo		前提イベント全終了	Finish all prerequisite events		18
+nev01_035.scr#24	nev01_035.scr	24	(campo)	(field)	rotulo		ダンジョンＢＧＭ：通常	Dungeon BGM: Normal		22
+nev01_035.scr#25	nev01_035.scr	25	(campo)	(field)	rotulo		ダンジョンＢＧＭ：裏返す	Dungeon BGM: Reversed		24
+nev01_035.scr#26	nev01_035.scr	26	(campo)	(field)	rotulo		スポットクエスト無視：入	Ignore spot quests: On		24
+nev01_035.scr#27	nev01_035.scr	27	(campo)	(field)	rotulo		スポットクエスト無視：切	Ignore spot quests: Off		24
+nev01_035.scr#28	nev01_035.scr	28	(campo)	(field)	rotulo		ソーサラリング０	Sorcerer's Ring Lv. 0		16
+nev01_035.scr#29	nev01_035.scr	29	(campo)	(field)	rotulo		ソーサラリング１	Sorcerer's Ring Lv. 1		16
+nev01_035.scr#30	nev01_035.scr	30	(campo)	(field)	rotulo		ソーサラリング２	Sorcerer's Ring Lv. 2		16
+nev01_035.scr#31	nev01_035.scr	31	(campo)	(field)	rotulo		ソーサラリング３	Sorcerer's Ring Lv. 3		16
+nev01_035.scr#32	nev01_035.scr	32	(campo)	(field)	rotulo		スキットコンプリート	Skits complete		20
+nev01_038.scr#26	nev01_038.scr	26	(campo)	(field)	rotulo		ＢＧＭを選択	Select BGM		12
+nev01_038.scr#29	nev01_038.scr	29	(campo)	(field)	rotulo		待ち合わせは噴水広場で	Meeting at the Fountain Plaza		22
+nev01_038.scr#30	nev01_038.scr	30	(campo)	(field)	rotulo		今のままでいい	Keep it as is		14
+nev01_053.scr#12	nev01_053.scr	12	(campo)	(field)	rotulo		イベント番号表示有効	Event numbers: On		20
+nev01_053.scr#13	nev01_053.scr	13	(campo)	(field)	rotulo		イベント番号表示無効	Event numbers: Off		20
+nev01_053.scr#14	nev01_053.scr	14	(campo)	(field)	rotulo		会話フェイス有効	Dialogue portraits: On		16
+nev01_053.scr#15	nev01_053.scr	15	(campo)	(field)	rotulo		会話フェイス無効	Dialogue portraits: Off		16
+nev01_053.scr#16	nev01_053.scr	16	(campo)	(field)	rotulo		会話一言ボイス有効	Dialogue voice clips: On		18
+nev01_053.scr#17	nev01_053.scr	17	(campo)	(field)	rotulo		会話一言ボイス無効	Dialogue voice clips: Off		18
+nev01_053.scr#18	nev01_053.scr	18	(campo)	(field)	rotulo		イベントＶモード有効	Event V-mode: On		20
+nev01_053.scr#19	nev01_053.scr	19	(campo)	(field)	rotulo		イベントＶモード無効	Event V-mode: Off		20
+nev01_053.scr#20	nev01_053.scr	20	(campo)	(field)	rotulo		雑魚出さない	No random enemies		12
+nev01_053.scr#21	nev01_053.scr	21	(campo)	(field)	rotulo		雑魚出す	Random enemies		8
+nev01_053.scr#24	nev01_053.scr	24	(campo)	(field)	rotulo		イベントスキップ有効	Event skip: On		20
+nev01_053.scr#25	nev01_053.scr	25	(campo)	(field)	rotulo		イベントスキップ無効	Event skip: Off		20
+nev01_053.scr#26	nev01_053.scr	26	(campo)	(field)	rotulo		イベント番号表示有効	Event numbers: On		20
+nev01_053.scr#27	nev01_053.scr	27	(campo)	(field)	rotulo		イベント番号表示無効	Event numbers: Off		20
+nev01_053.scr#28	nev01_053.scr	28	(campo)	(field)	rotulo		会話フェイス有効	Dialogue portraits: On		16
+nev01_053.scr#29	nev01_053.scr	29	(campo)	(field)	rotulo		会話フェイス無効	Dialogue portraits: Off		16
+nev01_053.scr#30	nev01_053.scr	30	(campo)	(field)	rotulo		会話一言ボイス有効	Dialogue voice clips: On		18
+nev01_053.scr#31	nev01_053.scr	31	(campo)	(field)	rotulo		会話一言ボイス無効	Dialogue voice clips: Off		18
+nev01_053.scr#32	nev01_053.scr	32	(campo)	(field)	rotulo		イベントＶモード有効	Event V-mode: On		20
+nev01_053.scr#33	nev01_053.scr	33	(campo)	(field)	rotulo		イベントＶモード無効	Event V-mode: Off		20
+nev01_053.scr#34	nev01_053.scr	34	(campo)	(field)	rotulo		雑魚出さない	No random enemies		12
+nev01_053.scr#35	nev01_053.scr	35	(campo)	(field)	rotulo		雑魚出す	Random enemies		8
+nev01_053.scr#38	nev01_053.scr	38	(campo)	(field)	rotulo		イベントスキップ有効	Event skip: On		20
+nev01_053.scr#39	nev01_053.scr	39	(campo)	(field)	rotulo		イベントスキップ無効	Event skip: Off		20
+nev01_053.scr#40	nev01_053.scr	40	(campo)	(field)	rotulo		イベント番号表示有効	Event numbers: On		20
+nev01_053.scr#41	nev01_053.scr	41	(campo)	(field)	rotulo		イベント番号表示無効	Event numbers: Off		20
+nev01_053.scr#42	nev01_053.scr	42	(campo)	(field)	rotulo		イベント編集機能有効	Event editing: On		20
+nev01_053.scr#43	nev01_053.scr	43	(campo)	(field)	rotulo		イベント編集機能無効	Event editing: Off		20
+nev01_053.scr#44	nev01_053.scr	44	(campo)	(field)	rotulo		会話フェイス有効	Dialogue portraits: On		16
+nev01_053.scr#45	nev01_053.scr	45	(campo)	(field)	rotulo		会話フェイス無効	Dialogue portraits: Off		16
+nev01_053.scr#46	nev01_053.scr	46	(campo)	(field)	rotulo		会話一言ボイス有効	Dialogue voice clips: On		18
+nev01_053.scr#47	nev01_053.scr	47	(campo)	(field)	rotulo		会話一言ボイス無効	Dialogue voice clips: Off		18
+nev01_053.scr#48	nev01_053.scr	48	(campo)	(field)	rotulo		イベントＶモード有効	Event V-mode: On		20
+nev01_053.scr#49	nev01_053.scr	49	(campo)	(field)	rotulo		イベントＶモード無効	Event V-mode: Off		20
+nev01_053.scr#50	nev01_053.scr	50	(campo)	(field)	rotulo		雑魚出さない	No random enemies		12
+nev01_053.scr#51	nev01_053.scr	51	(campo)	(field)	rotulo		雑魚出す	Random enemies		8
+nev01_058.scr#19	nev01_058.scr	19	(campo)	(field)	rotulo		０章	Chapter 0		4
+nev01_058.scr#20	nev01_058.scr	20	(campo)	(field)	rotulo		０章ＥＸ	Chapter 0 EX		8
+nev01_058.scr#21	nev01_058.scr	21	(campo)	(field)	rotulo		１章	Chapter 1		4
+nev01_058.scr#22	nev01_058.scr	22	(campo)	(field)	rotulo		２章	Chapter 2		4
+nev01_058.scr#23	nev01_058.scr	23	(campo)	(field)	rotulo		３章	Chapter 3		4
+nev01_058.scr#24	nev01_058.scr	24	(campo)	(field)	rotulo		４章	Chapter 4		4
+nev01_058.scr#25	nev01_058.scr	25	(campo)	(field)	rotulo		５章	Chapter 5		4
+nev01_058.scr#26	nev01_058.scr	26	(campo)	(field)	rotulo		５章Ｓ	Chapter 5 S		6
+nev01_058.scr#27	nev01_058.scr	27	(campo)	(field)	rotulo		６章	Chapter 6		4
+nev01_058.scr#28	nev01_058.scr	28	(campo)	(field)	rotulo		７章	Chapter 7		4
+nev01_058.scr#29	nev01_058.scr	29	(campo)	(field)	rotulo		８章	Chapter 8		4
+nev01_058.scr#30	nev01_058.scr	30	(campo)	(field)	rotulo		９章	Chapter 9		4
+nev01_058.scr#31	nev01_058.scr	31	(campo)	(field)	rotulo		１０章	Chapter 10		6
+nev01_058.scr#32	nev01_058.scr	32	(campo)	(field)	rotulo		１１章	Chapter 11		6
+nev01_058.scr#33	nev01_058.scr	33	(campo)	(field)	rotulo		１２章	Chapter 12		6
+nev01_058.scr#34	nev01_058.scr	34	(campo)	(field)	rotulo		１３章	Chapter 13		6
+nev01_058.scr#35	nev01_058.scr	35	(campo)	(field)	rotulo		１４章	Chapter 14		6
+nev01_058.scr#36	nev01_058.scr	36	(campo)	(field)	rotulo		１５章	Chapter 15		6
+nev01_058.scr#37	nev01_058.scr	37	(campo)	(field)	rotulo		１５章Ｓ	Chapter 15 S		8
+nev01_058.scr#38	nev01_058.scr	38	(campo)	(field)	rotulo		１６章	Chapter 16		6
+nev01_058.scr#39	nev01_058.scr	39	(campo)	(field)	rotulo		１７章	Chapter 17		6
+nev01_058.scr#40	nev01_058.scr	40	(campo)	(field)	rotulo		１８章	Chapter 18		6
+nev01_058.scr#41	nev01_058.scr	41	(campo)	(field)	rotulo		１９章	Chapter 19		6
+nev01_058.scr#42	nev01_058.scr	42	(campo)	(field)	rotulo		２０章	Chapter 20		6
+nev01_058.scr#43	nev01_058.scr	43	(campo)	(field)	rotulo		２１章	Chapter 21		6
+nev01_058.scr#44	nev01_058.scr	44	(campo)	(field)	rotulo		２２章	Chapter 22		6
+nev01_058.scr#45	nev01_058.scr	45	(campo)	(field)	rotulo		２３章	Chapter 23		6
+nev01_058.scr#46	nev01_058.scr	46	(campo)	(field)	rotulo		２４章	Chapter 24		6
+nev01_058.scr#47	nev01_058.scr	47	(campo)	(field)	rotulo		２６章	Chapter 26		6
+nev01_058.scr#48	nev01_058.scr	48	(campo)	(field)	rotulo		２６章Ｅ	Chapter 26 E		8
+nev01_058.scr#51	nev01_058.scr	51	(campo)	(field)	rotulo		０章	Chapter 0		4
+nev01_058.scr#52	nev01_058.scr	52	(campo)	(field)	rotulo		０章１	Chapter 0-1		6
+nev01_058.scr#53	nev01_058.scr	53	(campo)	(field)	rotulo		０章１Ｑ	Chapter 0-1 Q		8
+nev01_058.scr#54	nev01_058.scr	54	(campo)	(field)	rotulo		０章２	Chapter 0-2		6
+nev01_058.scr#55	nev01_058.scr	55	(campo)	(field)	rotulo		０章２Ｑ	Chapter 0-2 Q		8
+nev01_058.scr#56	nev01_058.scr	56	(campo)	(field)	rotulo		０章３	Chapter 0-3		6
+nev01_058.scr#57	nev01_058.scr	57	(campo)	(field)	rotulo		０章３Ｑ	Chapter 0-3 Q		8
+nev01_058.scr#58	nev01_058.scr	58	(campo)	(field)	rotulo		０章４	Chapter 0-4		6
+nev01_074.scr#11	nev01_074.scr	11	(campo)	(field)	rotulo		超えなければならぬ壁	The Wall That Must Be Overcome		20
+nev01_074.scr#12	nev01_074.scr	12	(campo)	(field)	rotulo		閉じた心、続く未来	A Closed Heart, A Continuing Future		18
+nev01_074.scr#13	nev01_074.scr	13	(campo)	(field)	rotulo		負けられない戦い	A Fight That Cannot Be Lost		16
+nev01_074.scr#14	nev01_074.scr	14	(campo)	(field)	rotulo		最高の一品を求めて	In Search of the Ultimate Dish		18
+qev19_040.scr#24	qev19_040.scr	24	(campo)	(field)	rotulo		シェリア	Cheria		8
+qev19_040.scr#27	qev19_040.scr	27	(campo)	(field)	rotulo		アスベル	Asbel		8
+qev22_050.scr#6	qev22_050.scr	6	(campo)	(field)	rotulo		リオン	Leon		6
+qev25_040.scr#3	qev25_040.scr	3	(campo)	(field)	rotulo		ゼロス	Zelos		6
+qev27_050.scr#3	qev27_050.scr	3	(campo)	(field)	rotulo		マオ	Mao		4
+qev28_050.scr#17	qev28_050.scr	17	(campo)	(field)	rotulo		クロエ	Chloe		6
+qev30_050.scr#5	qev30_050.scr	5	(campo)	(field)	rotulo		ジェイ	Jay		6
+qev30_060.scr#0	qev30_060.scr	0	(campo)	(field)	rotulo		ポッポ・ピッポ・キュッポ	Poppo, Pippo & Kyuppo		24
+qev33_050.scr#10	qev33_050.scr	10	(campo)	(field)	rotulo		リカルド	Ricardo		8
+qev39_010.scr#6	qev39_010.scr	6	(campo)	(field)	rotulo		手紙	Letter		4
+qev39_050.scr#7	qev39_050.scr	7	(campo)	(field)	rotulo		ミミー	Mimmy		6
+qev40_010.scr#5	qev40_010.scr	5	(campo)	(field)	rotulo		手紙	Letter		4
+qev41_010.scr#4	qev41_010.scr	4	(campo)	(field)	rotulo		手紙	Letter		4
+qev42_010.scr#7	qev42_010.scr	7	(campo)	(field)	rotulo		手紙	Letter		4
+qev43_010.scr#8	qev43_010.scr	8	(campo)	(field)	rotulo		手紙	Letter		4
+qev44_060.scr#7	qev44_060.scr	7	(campo)	(field)	rotulo		キュッポ・ピッポ・ポッポ	Kyuppo, Pippo & Poppo		24
+tev05_012.scr#1	tev05_012.scr	1	(campo)	(field)	rotulo		サレのモーション(敗北後)	Saleh motion (after defeat)		24
+tev05_012.scr#2	tev05_012.scr	2	(campo)	(field)	rotulo		マルタのモーション(08番)	Marta motion (No. 08)		24
+tev05_012.scr#3	tev05_012.scr	3	(campo)	(field)	rotulo		ソフィーのモーション(08番)	Sophie motion (No. 08)		26
+tev05_012.scr#4	tev05_012.scr	4	(campo)	(field)	rotulo		ユーリのモーション(03番)	Yuri motion (No. 03)		24

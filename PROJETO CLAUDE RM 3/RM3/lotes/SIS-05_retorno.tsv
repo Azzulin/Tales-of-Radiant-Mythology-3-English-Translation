@@ -1,0 +1,803 @@
+id	va_strings	bytes_slot	original	traducao	nota
+SIS05-0001	0x08B29998	16	ＭＳチェック		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0002	0x08B299A8	20	本番メインループ		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0003	0x08B299BC	12	タイトル		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0004	0x08B299C8	16	キャラメイク		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0005	0x08B299D8	16	ワールドマップ		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0006	0x08B299E8	12	クレジット		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0007	0x08B299F4	16	エンディング		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0008	0x08B29A04	16	ロードジャンプ		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0009	0x08B29A14	16	ニューゲーム		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0010	0x08B29A24	16	ゲームスタート		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0011	0x08B29A34	16	マップデバッグ		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0012	0x08B29A44	20	セーブデータロード		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0013	0x08B29A58	20	シナリオスタート		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0014	0x08B29A6C	20	ネット連携(EXTRA)		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0015	0x08B29A80	20	グランドフィナーレ		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0016	0x08B29A94	20	ゲームインストール		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0017	0x08B29AA8	8	セーブ		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0018	0x08B29AB0	8	ロード		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0019	0x08B56B58	64	テイルズ オブ ジ アビス\n終盤戦闘 監修：ナムコ・テイルズスタジオ	Tales of the Abyss: Late-Game Battle\nSup.: Namco Tales Studio	
+SIS05-0020	0x08B56BB8	64	テイルズ オブ ジ アビス\n通常戦闘 監修：ナムコ・テイルズスタジオ	Tales of the Abyss - Normal Battle\nSup.: Namco Tales Studio	
+SIS05-0021	0x08B56C1C	64	テイルズ オブ ジ アビス\n中盤戦闘 監修：ナムコ・テイルズスタジオ	Tales of the Abyss - Mid-Game Battle\nSup.: Namco Tales Studio	
+SIS05-0022	0x08B56C78	68	テイルズ オブ デスティニー\n通常戦闘 監修：ナムコ・テイルズスタジオ	Tales of Destiny - Normal Battle\nSup.: Namco Tales Studio	
+SIS05-0023	0x08B56CDC	68	テイルズ オブ デスティニー\nリオン戦 監修：ナムコ・テイルズスタジオ	Tales of Destiny\nvs. Leon - Sup.: Namco Tales Studio	
+SIS05-0024	0x08B56D3C	44	テイルズ オブ デスティニー２\nバルバトス戦	Tales of Destiny 2\nvs. Barbatos	
+SIS05-0025	0x08B56D84	40	テイルズ オブ デスティニー２\n中ボス戦	Tales of Destiny 2\nMid-Boss Battle	
+SIS05-0026	0x08B56DC8	40	テイルズ オブ デスティニー２\n通常戦闘	Tales of Destiny 2\nNormal Battle	
+SIS05-0027	0x08B56E08	40	テイルズ オブ デスティニー２\n過去戦闘	Tales of Destiny 2\nPast Era Battle	
+SIS05-0028	0x08B56E50	48	テイルズ オブ デスティニー２\nフォルトゥナ戦序盤	Tales of Destiny 2\nvs. Fortuna (First Phase)	
+SIS05-0029	0x08B56E9C	48	テイルズ オブ エターニア\nTOP通常戦闘アレンジ	Tales of Eternia\nNormal Battle (ToP Arrange)	
+SIS05-0030	0x08B56EE8	48	テイルズ オブ エターニア\nセレスティア通常戦闘	Tales of Eternia\nCelestia Normal Battle	
+SIS05-0031	0x08B56F34	68	テイルズ オブ ジ アビス\n闘技場戦闘 監修：ナムコ・テイルズスタジオ	Tales of the Abyss: Colosseum Battle\nSup.: Namco Tales Studio	
+SIS05-0032	0x08B56F94	48	テイルズ オブ エターニア\nインフェリア通常戦闘	Tales of Eternia\nInferia Normal Battle	
+SIS05-0033	0x08B56FDC	48	テイルズ オブ エターニア\nTOPダオス戦アレンジ	Tales of Eternia\nvs. Dhaos (ToP Arrange)	
+SIS05-0034	0x08B57030	52	テイルズ オブ レジェンディア\n通常戦闘 編曲：椎名豪	Tales of Legendia\nNormal Battle - Arr.: Go Shiina	
+SIS05-0035	0x08B57080	52	テイルズ オブ レジェンディア\n中ボス戦 編曲：椎名豪	Tales of Legendia\nMid-Boss Battle - Arr.: Go Shiina	
+SIS05-0036	0x08B570D8	36	テイルズ オブ ファンタジア\n精霊戦	Tales of Phantasia\nSummon Spirit Battle	
+SIS05-0037	0x08B57120	36	テイルズ オブ ファンタジア\n中ボス戦	Tales of Phantasia\nMid-Boss Battle	
+SIS05-0038	0x08B57164	36	テイルズ オブ ファンタジア\n通常戦闘	Tales of Phantasia\nNormal Battle	
+SIS05-0039	0x08B571A8	40	テイルズ オブ リバース\n第１部通常戦闘	Tales of Rebirth\nNormal Battle (Part 1)	
+SIS05-0040	0x08B571E8	40	テイルズ オブ リバース\n第２部通常戦闘	Tales of Rebirth\nNormal Battle (Part 2)	
+SIS05-0041	0x08B5722C	44	テイルズ オブ リバース\nユリスの領域通常戦闘	Tales of Rebirth\nNormal Battle (Yuris's Domain)	
+SIS05-0042	0x08B57274	36	テイルズ オブ シンフォニア\n天使戦	Tales of Symphonia\nAngel Battle	
+SIS05-0043	0x08B572B0	40	テイルズ オブ シンフォニア\n対人ボス戦	Tales of Symphonia\nHuman Boss Battle	
+SIS05-0044	0x08B572F0	52	テイルズ オブ シンフォニア\nシルヴァラント通常戦闘	Tales of Symphonia\nSylvarant Normal Battle	
+SIS05-0045	0x08B57348	44	テイルズ オブ シンフォニア\nテセアラ通常戦闘	Tales of Symphonia\nTethe'alla Normal Battle	
+SIS05-0046	0x08B57398	40	テイルズ オブ シンフォニア\nクラトス戦 	Tales of Symphonia\nvs. Kratos	
+SIS05-0047	0x08B573D4	68	テイルズ オブ ザ テンペスト\n通常戦闘 編曲：ナムコ・テイルズスタジオ	Tales of the Tempest - Normal Battle\nArr.: Namco Tales Studio	
+SIS05-0048	0x08B57430	68	テイルズ オブ ヴェスペリア\n通常戦闘 監修：ナムコ・テイルズスタジオ	Tales of Vesperia - Normal Battle\nSup.: Namco Tales Studio	
+SIS05-0049	0x08B57494	52	テイルズ オブ イノセンス\n通常戦闘 編曲：中村和宏	Tales of Innocence - Normal Battle\nArr.: Kazuhiro Nakamura	
+SIS05-0050	0x08B574E8	76	テイルズ オブ デスティニー２\n最終現代戦闘 編曲：ナムコ・テイルズスタジオ	ToD2: Final Present-Day Battle\nArr.: Namco Tales Studio	
+SIS05-0051	0x08B57554	48	テイルズ オブ イノセンス\nボス戦 編曲：中村和宏	Tales of Innocence - Boss Battle\nArr.: Kazuhiro Nakamura	
+SIS05-0052	0x08B5759C	32	テイルズ オブ リバース\n聖獣戦	Tales of Rebirth\nHoly Beast Battle	
+SIS05-0053	0x08B575D4	64	テイルズ オブ レジェンディア\nメインシナリオボス戦 作曲：椎名豪	Tales of Legendia\nStory Boss Battle - Comp.: Go Shiina	
+SIS05-0054	0x08B57638	76	テイルズ オブ シンフォニア\nユグドラシル戦 編曲：ナムコ・テイルズスタジオ	Tales of Symphonia - vs. Yggdrasill\nArr.: Namco Tales Studio	
+SIS05-0055	0x08B576AC	64	テイルズ オブ リバース\n四星戦 編曲：ナムコ・テイルズスタジオ	Tales of Rebirth: vs. the Four Stars\nArr.: Namco Tales Studio	
+SIS05-0056	0x08B57710	64	テイルズ オブ ジ アビス\nヴァン戦 監修：ナムコ・テイルズスタジオ	Tales of the Abyss\nvs. Van - Sup.: Namco Tales Studio	
+SIS05-0057	0x08B57790	88	テイルズ オブ シンフォニア -ラタトスクの騎士-\n通常戦闘 監修：ナムコ・テイルズスタジオ	Dawn of the New World: Normal Battle\nSup.: Namco Tales Studio	
+SIS05-0058	0x08B577FC	88	テイルズ オブ シンフォニア -ラタトスクの騎士-\n最終戦闘 監修：ナムコ・テイルズスタジオ	Dawn of the New World: Final Battle\nSup.: Namco Tales Studio	
+SIS05-0059	0x08B5787C	88	テイルズ オブ シンフォニア -ラタトスクの騎士-\nリヒター戦 監修：ナムコ・テイルズスタジオ	Dawn of the New World: vs. Richter\nSup.: Namco Tales Studio	
+SIS05-0060	0x08B578F0	68	テイルズ オブ ヴェスペリア\nフレン戦 監修：ナムコ・テイルズスタジオ	Tales of Vesperia\nvs. Flynn - Sup.: Namco Tales Studio	
+SIS05-0061	0x08B57954	68	テイルズ オブ ヴェスペリア\n中盤戦闘 監修：ナムコ・テイルズスタジオ	Tales of Vesperia - Mid-Game Battle\nSup.: Namco Tales Studio	
+SIS05-0062	0x08B579B0	68	テイルズ オブ ヴェスペリア\n終盤戦闘 監修：ナムコ・テイルズスタジオ	Tales of Vesperia - Late-Game Battle\nSup.: Namco Tales Studio	
+SIS05-0063	0x08B57A14	80	テイルズ オブ ヴェスペリア\nギガントモンスター戦 監修：ナムコ・テイルズスタジオ	Tales of Vesperia - vs. Gigantos\nSup.: Namco Tales Studio	
+SIS05-0064	0x08B57A84	64	テイルズ オブ ハーツ\n通常戦闘 編曲：ナムコ・テイルズスタジオ	Tales of Hearts - Normal Battle\nArr.: Namco Tales Studio	
+SIS05-0065	0x08B57AD0;0x08D1CA20	24	発動、ソーマリンク!!	Soma Link, Activate!!	
+SIS05-0066	0x08B57AE8	68	テイルズ オブ ハーツ\n中盤通常戦闘 編曲：ナムコ・テイルズスタジオ	Tales of Hearts - Mid-Game Battle\nArr.: Namco Tales Studio	
+SIS05-0067	0x08B57B4C	68	テイルズ オブ ハーツ\n終盤通常戦闘 編曲：ナムコ・テイルズスタジオ	Tales of Hearts - Late-Game Battle\nArr.: Namco Tales Studio	
+SIS05-0068	0x08B57BB0	76	テイルズ オブ グレイセス\nウィンドル国内戦闘 監修：ナムコ・テイルズスタジオ	Tales of Graces - Battle in Windor\nSup.: Namco Tales Studio	
+SIS05-0069	0x08B57C14	80	テイルズ オブ グレイセス\nラストダンジョン戦闘 監修：ナムコ・テイルズスタジオ	Tales of Graces: Last Dungeon Battle\nSup.: Namco Tales Studio	
+SIS05-0070	0x08B57C84	68	テイルズ オブ グレイセス\n中ボス戦 監修：ナムコ・テイルズスタジオ	Tales of Graces - Mid-Boss Battle\nSup.: Namco Tales Studio	
+SIS05-0071	0x08B57CE4	68	レディアント マイソロジー２＆３ \nレディアント戦 作曲／編曲：桜庭統	Radiant Mythology 2 & 3: vs. Radiant\nComp./Arr.: Motoi Sakuraba	
+SIS05-0072	0x08B57D48	52	レディアント マイソロジー２\nゲーデ戦 編曲：中村和宏	Radiant Mythology 2\nvs. Goede - Arr.: Kazuhiro Nakamura	
+SIS05-0073	0x08B57D94	44	レディアント マイソロジー\nウィダーシン戦	Radiant Mythology\nvs. Widdershin	
+SIS05-0074	0x08B57DD8	40	レディアント マイソロジー\nカノンノ戦	Radiant Mythology\nvs. Kanonno	
+SIS05-0075	0x08B57E20	56	レディアント マイソロジー３\n通常戦闘 作曲／編曲：桜庭統	Radiant Mythology 3 - Normal Battle\nComp./Arr.: Motoi Sakuraba	
+SIS05-0076	0x08B57E74	64	レディアント マイソロジー３\nストーリー戦闘 作曲／編曲：桜庭統	Radiant Mythology 3 - Story Battle\nComp./Arr.: Motoi Sakuraba	
+SIS05-0077	0x08B57ED0	56	レディアント マイソロジー３\n中ボス戦 作曲／編曲：桜庭統	Radiant Mythology 3: Mid-Boss Battle\nComp./Arr.: Motoi Sakuraba	
+SIS05-0078	0x08B57F20	60	レディアント マイソロジー３\nラザリス戦 作曲／編曲：桜庭統	Radiant Mythology 3 - vs. Lazaris\nComp./Arr.: Motoi Sakuraba	
+SIS05-0079	0x08B57F7C	64	レディアント マイソロジー３\nカオスラザリス戦 作曲／編曲：桜庭統	Radiant Mythology 3: Chaos Lazaris\nComp./Arr.: Motoi Sakuraba	
+SIS05-0080	0x08B57FD4	72	テイルズ オブ エターニア\n霊峰ファロース 編曲：ナムコ・テイルズスタジオ	Tales of Eternia - Mt. Farlos\nArr.: Namco Tales Studio	
+SIS05-0081	0x08B5803C	60	テイルズ オブ レジェンディア\n地のモニュメント 作曲：椎名豪	Tales of Legendia\nEarth Monument - Comp.: Go Shiina	
+SIS05-0082	0x08B58094	72	テイルズ オブ ファンタジア\nモーリア坑道 編曲：ナムコ・テイルズスタジオ	Tales of Phantasia - Morlia Mine\nArr.: Namco Tales Studio	
+SIS05-0083	0x08B580FC	76	テイルズ オブ シンフォニア\nトイズバレー鉱山 編曲：ナムコ・テイルズスタジオ	Tales of Symphonia - Toize Valley\nArr.: Namco Tales Studio	
+SIS05-0084	0x08B58164	68	テイルズ オブ エターニア\n火晶霊の谷 編曲：ナムコ・テイルズスタジオ	Tales of Eternia - Fire Craymel Vale\nArr.: Namco Tales Studio	
+SIS05-0085	0x08B581C4	68	テイルズ オブ ジ アビス\nザレッホ火山 監修：ナムコ・テイルズスタジオ	Tales of the Abyss - Mt. Zaleho\nSup.: Namco Tales Studio	
+SIS05-0086	0x08B58220	68	テイルズ オブ エターニア\n氷晶霊の山 編曲：ナムコ・テイルズスタジオ	Tales of Eternia - Ice Craymel Peak\nArr.: Namco Tales Studio	
+SIS05-0087	0x08B5827C	68	テイルズ オブ ファンタジア\n氷の洞窟 編曲：ナムコ・テイルズスタジオ	Tales of Phantasia - Ice Cave\nArr.: Namco Tales Studio	
+SIS05-0088	0x08B582DC	52	テイルズ オブ レジェンディア\n水晶の森 作曲：椎名豪	Tales of Legendia\nCrystal Forest - Comp.: Go Shiina	
+SIS05-0089	0x08B58330	72	テイルズ オブ デスティニー２\nラグナ遺跡 編曲：ナムコ・テイルズスタジオ	Tales of Destiny 2 - Ragna Ruins\nArr.: Namco Tales Studio	
+SIS05-0090	0x08B5839C	72	テイルズ オブ ジ アビス\nアラミス湧水洞 監修：ナムコ・テイルズスタジオ	Tales of the Abyss - Aramis Spring\nSup.: Namco Tales Studio	
+SIS05-0091	0x08B58400	68	テイルズ オブ ファンタジア\n地下水路 編曲：ナムコ・テイルズスタジオ	Tales of Phantasia - Waterway\nArr.: Namco Tales Studio	
+SIS05-0092	0x08B58464	80	テイルズ オブ ヴェスペリア\nケーブ・モック大森林 監修：ナムコ・テイルズスタジオ	Tales of Vesperia - Keiv Moc Woods\nSup.: Namco Tales Studio	
+SIS05-0093	0x08B584D4	92	テイルズ オブ シンフォニア -ラタトスクの騎士-\nガオラキアの森 監修：ナムコ・テイルズスタジオ	Dawn of the New World: Gaoracchia\nSup.: Namco Tales Studio	
+SIS05-0094	0x08B5854C	80	テイルズ オブ デスティニー２\nストレイライズ遺跡 編曲：ナムコ・テイルズスタジオ	Tales of Destiny 2 - Straylize Ruins\nArr.: Namco Tales Studio	
+SIS05-0095	0x08B585B4	64	テイルズ オブ ジ アビス\nザオ遺跡 監修：ナムコ・テイルズスタジオ	Tales of the Abyss - Zao Ruins\nSup.: Namco Tales Studio	
+SIS05-0096	0x08B5860C	48	テイルズ オブ イノセンス\n天空城 編曲：中村和宏	Tales of Innocence\nSky Castle - Arr.: Kazuhiro Nakamura	
+SIS05-0097	0x08B58650	68	テイルズ オブ リバース\nユリスの領域 編曲：ナムコ・テイルズスタジオ	Tales of Rebirth - Yuris's Domain\nArr.: Namco Tales Studio	
+SIS05-0098	0x08B586B0	64	テイルズ オブ ハーツ\n落命の荒野 編曲：ナムコ・テイルズスタジオ	Tales of Hearts - Wasteland of Death\nArr.: Namco Tales Studio	
+SIS05-0099	0x08B58708	76	テイルズ オブ デスティニー２\nヒートリバー 編曲：ナムコ・テイルズスタジオ	Tales of Destiny 2 - Heat River\nArr.: Namco Tales Studio	
+SIS05-0100	0x08B58770	68	レディアント マイソロジー３\nエラン・ヴィタール 作曲／編曲：椎名豪	Radiant Mythology 3\nElan Vital - Comp./Arr.: Go Shiina	
+SIS05-0101	0x08B587C0	24	MORLIA GALLERY 〜追憶〜	MORLIA GALLERY -Memories-	
+SIS05-0102	0x08B587D8	84	原典：テイルズ オブ ファンタジア\n「MORLIA GALLERY」 編曲：ナムコ・テイルズスタジオ	Tales of Phantasia "MORLIA GALLERY"\nArr.: Namco Tales Studio	
+SIS05-0103	0x08B58840	76	テイルズ オブ エターニア\nアイバード飛行中 編曲：ナムコ・テイルズスタジオ	Tales of Eternia - Aibird Flight\nArr.: Namco Tales Studio	
+SIS05-0104	0x08B588B0	52	テイルズ オブ イノセンス\nガルポス 編曲：中村和宏	Tales of Innocence\nGarpos - Arr.: Kazuhiro Nakamura	
+SIS05-0105	0x08B58900	84	テイルズ オブ エターニア\nバンエルティア号のテーマ 編曲：ナムコ・テイルズスタジオ	Tales of Eternia - Van Eltia Theme\nArr.: Namco Tales Studio	
+SIS05-0106	0x08B58978	64	テイルズ オブ レジェンディア\n灯台の街ウェルテス 作曲：椎名豪	Tales of Legendia\nWerites Beacon - Comp.: Go Shiina	
+SIS05-0107	0x08B589D4	60	テイルズ オブ レジェンディア\nモフモフ族の村 作曲：椎名豪	Tales of Legendia\nMofumofu Village - Comp.: Go Shiina	
+SIS05-0108	0x08B58A28	48	テイルズ オブ デスティニー２\nバルバトステーマ	Tales of Destiny 2\nBarbatos Theme	
+SIS05-0109	0x08B58A6C	64	テイルズ オブ ジ アビス\n闘技場 監修：ナムコ・テイルズスタジオ	Tales of the Abyss\nColosseum - Sup.: Namco Tales Studio	
+SIS05-0110	0x08B58ACC	84	テイルズ オブ デスティニー２\nリオン（回想）テーマ 編曲：ナムコ・テイルズスタジオ	Tales of Destiny 2 - Leon Flashback\nArr.: Namco Tales Studio	
+SIS05-0111	0x08B58B3C	68	テイルズ オブ リバース\n四星テーマ 編曲：ナムコ・テイルズスタジオ	Tales of Rebirth - Four Stars Theme\nArr.: Namco Tales Studio	
+SIS05-0112	0x08B58BAC	56	テイルズ オブ レジェンディア\nミミーテーマ 作曲：椎名豪	Tales of Legendia\nMimmy Theme - Comp.: Go Shiina	
+SIS05-0113	0x08B58C08	52	テイルズ オブ イノセンス\nイベント 編曲：中村和宏	Tales of Innocence\nEvent - Arr.: Kazuhiro Nakamura	
+SIS05-0114	0x08B58C50	72	テイルズ オブ シンフォニア\nミトステーマ 編曲：ナムコ・テイルズスタジオ	Tales of Symphonia - Mithos Theme\nArr.: Namco Tales Studio	
+SIS05-0115	0x08B58CB4	76	テイルズ オブ シンフォニア\n精霊登場テーマ 編曲：ナムコ・テイルズスタジオ	Tales of Symphonia - Spirit Entrance\nArr.: Namco Tales Studio	
+SIS05-0116	0x08B58D1C	72	テイルズ オブ ファンタジア\nダオステーマ 編曲：ナムコ・テイルズスタジオ	Tales of Phantasia - Dhaos Theme\nArr.: Namco Tales Studio	
+SIS05-0117	0x08B58D70	24	Radiant Mythology ＃３	Radiant Mythology No.3	
+SIS05-0118	0x08B58D88	44	レディアント マイソロジー３\nタイトル画面	Radiant Mythology 3\nTitle Screen	
+SIS05-0119	0x08B58DC0	24	Welcome to the world！	Welcome to the world!	
+SIS05-0120	0x08B58DD8	56	レディアント マイソロジー３\nキャラクターメイキング画面	Radiant Mythology 3\nCharacter Creation Screen	
+SIS05-0121	0x08B58E34	52	レディアント マイソロジー３\nエクストラモード画面	Radiant Mythology 3\nEXTRA Mode Screen	
+SIS05-0122	0x08B58E74	24	THEME OF LAZARIS ＃１	THEME OF LAZARIS No.1	
+SIS05-0123	0x08B58E8C	48	レディアント マイソロジー３\nラザリステーマ１	Radiant Mythology 3\nLazaris Theme 1	
+SIS05-0124	0x08B58EC8	24	THEME OF LAZARIS ＃２	THEME OF LAZARIS No.2	
+SIS05-0125	0x08B58EE0	48	レディアント マイソロジー３\nラザリステーマ２	Radiant Mythology 3\nLazaris Theme 2	
+SIS05-0126	0x08B58F1C	20	Tiｎｙ Concierge	Tiny Concierge	
+SIS05-0127	0x08B58F30	44	レディアント マイソロジー３\nロックステーマ	Radiant Mythology 3\nRocks Theme	
+SIS05-0128	0x08B58F78	40	レディアント マイソロジー３\nイベント	Radiant Mythology 3\nEvent	
+SIS05-0129	0x08B58FC0	44	レディアント マイソロジー３\nカノンノテーマ	Radiant Mythology 3\nKanonno Theme	
+SIS05-0130	0x08B58FF8	12	Ｈer Origin	Her Origin	
+SIS05-0131	0x08B59004	56	レディアント マイソロジー３\nオリジナルカノンノテーマ	Radiant Mythology 3\nOriginal Kanonno Theme	
+SIS05-0132	0x08B5914C	100	レディアント マイソロジー３　エンディングテーマソング\n作詞・作曲：BACK-ON  編曲：JIN  歌：BACK-ON	Radiant Mythology 3 - Ending Theme\nLyr./Comp./Vo.: BACK-ON  Arr.: JIN	
+SIS05-0133	0x08C5A3DC	24	[00]バンエルティア号		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0134	0x08C5A3F4	20	[01]ルバーブ連山		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0135	0x08C5A408	24	[02]コンフェイト大森林		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0136	0x08C5A420	20	[03]ブラウニー坑道		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0137	0x08C5A434	20	[04]オルタータ火山		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0138	0x08C5A448	20	[05]カダイフ砂漠		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0139	0x08C5A45C	24	[06]アルマナック遺跡		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0140	0x08C5A474	20	[07]霊峰アブソ−ル		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0141	0x08C5A488	20	[08]ヴェラトローパ		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0142	0x08C5A49C	20	[09]シフノ湧泉洞		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0143	0x08C5A4B0	24	[10]聖地ラングリース		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0144	0x08C5A4C8	24	[11]エラン・ヴィタール		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0145	0x08C5A4E0	16	[12]追憶の坑道		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0146	0x08C62100	12	無効値(盾)		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0147	0x08C636B4	12	最大値(盾)		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0148	0x08CE0968	40	アイテムの所持上限を、30個に増やします	Raises the item carry limit to 30.	
+SIS05-0149	0x08CE09A8	40	アイテムの所持上限を、99個に増やします	Raises the item carry limit to 99.	
+SIS05-0150	0x08CF6F38	328	ゲームクリアおめでとうございます！\nここでセーブを行う事でプレイデータの引き継ぎと\n特典が解放された状態で継続してプレイを行う事ができます。\n\n・装備、プレイヤーレベル、シナリオ進行等のクリア前の全情報\n・グレードショップの解放\n・隠しダンジョン「追憶の坑道」\n・称号：ルミナシアの救世主\n・サウンドテストに「スタッフロール曲」追加	Congratulations on clearing the game!\nSave here to carry over your play data\nand keep playing with bonuses unlocked.\n\n- All data: gear, level, story progress\n- Grade Shop unlocked\n- Hidden dungeon "Mine of Reminiscence"\n- Title: Savior of Luminasia\n- "Staff Roll" track in the Sound Test	
+SIS05-0151	0x08CF7098	120	タイトルへ戻りますが、よろしいですか？\n※ここでセーブを行わないと継続プレイでの\n引き継ぎと特典の解放は行われません。	Return to the title screen?\n*If you don't save here, carryover and\nbonuses won't apply to continued play.	
+SIS05-0152	0x08CF7130	8	最大HP	Max HP	
+SIS05-0153	0x08CF7138	8	最大TP	Max TP	
+SIS05-0154	0x08CF7198	8	基礎HP	Base HP	
+SIS05-0155	0x08CF71A0	8	基礎TP	Base TP	
+SIS05-0156	0x08CF724C	72	装備者の物理攻撃力を上昇させ、\n通常攻撃や技で与えるダメージを増加させる	Raises the wearer's physical attack,\nboosting damage from attacks and artes.	
+SIS05-0157	0x08CF7294	60	装備者の術攻撃力を上昇させ、\n術で与えるダメージを増加させる	Raises the wearer's spell attack,\nboosting damage dealt by spells.	
+SIS05-0158	0x08CF72D0	104	装備者の敏捷値を上昇させ、詠唱時間の短縮や、\n与えるクリティカルの増加、受けるクリティカルを減少させる	Raises agility: shorter casting time,\nmore crits dealt and fewer crits taken.	
+SIS05-0159	0x08CF7354	72	装備者の物理防御力を上昇させ、\n通常攻撃や技で受けるダメージを軽減させる	Raises the wearer's physical defense,\nreducing damage from attacks and artes.	
+SIS05-0160	0x08CF739C	60	装備者の術防御力を上昇させ、\n術で受けるダメージを軽減させる	Raises the wearer's spell defense,\nreducing damage taken from spells.	
+SIS05-0161	0x08CF73E8	20	%sを%d個手に入れた	Obtained %s x%d.	
+SIS05-0162	0x08CF73FC	48	アイテムが一杯で\n%sを手に入れる事が出来なかった	Your items are full.\nCould not obtain %s.	
+SIS05-0163	0x08CF7440	32	%sを手に入れる事が出来なかった	Could not obtain %s.	
+SIS05-0164	0x08CF7460	44	装備品が一杯で\n手に入れる事が出来なかった	Your equipment is full.\nCould not obtain it.	
+SIS05-0165	0x08CF74B8	12	　3F 展望室	 3F Observation Deck	
+SIS05-0166	0x08CF74C4	12	　2F 操舵室	 2F Bridge	
+SIS05-0167	0x08CF74D0	12	　1F ホール	 1F Hall	
+SIS05-0168	0x08CF74DC	16	　B1F 機関室	 B1F Engine Room	
+SIS05-0169	0x08CF74EC	12	　B2F 船倉	 B2F Cargo Hold	
+SIS05-0170	0x08CF74F8	140	既にレディアント マイソロジー3のインストールデータが存在します。\nこのインストールデータを削除して、新たなインストールデータを作成しますか？	Install data already exists.\nDelete it and create new install data?	
+SIS05-0171	0x08CF7584	88	スリープモードに移行したため、データインストールが中断されました。\nやりなおしますか？	Install interrupted by Sleep Mode.\nTry again?	
+SIS05-0172	0x08CF75F8	100	データインストールを行ない読み込みを高速化します\n569MB以上の空き容量がある記録メディアが必要です	Installing data speeds up loading.\nNeeds media with 569MB+ free space.	
+SIS05-0173	0x08CF7774	36	\t弓による遠隔攻撃を得意とする職業	\tA class skilled in ranged bow attacks.	
+SIS05-0174	0x08CF7A3C	76	%sに転職してよろしいですか？\n転職後に装備出来ない装備は自動的に外されます	Change class to %s?\nGear you can't use will be unequipped.	
+SIS05-0175	0x08CF7A88	20	%sに転職しました	Class changed to %s.	
+SIS05-0176	0x08CF7B30	72	既に%sの料理効果が発生しています\n%sで効果を上書きしてよろしいですか？	%s's meal effect is already active.\nOverwrite it with %s?	
+SIS05-0177	0x08CF7B78	20	%sを作りますか？	Make %s?	
+SIS05-0178	0x08CF7B8C	40	%sを料理して、\n美味しくいただきました	You cooked %s,\nand it was delicious!	
+SIS05-0179	0x08CF7BB4	24	%sを%d個作成しました	Made %s x%d.	
+SIS05-0180	0x08CF7C5C	28	%sと%sを入れ替えますか？	Swap %s and %s?	
+SIS05-0181	0x08CF7C78	32	%sをパーティに参加させますか？	Add %s to the party?	
+SIS05-0182	0x08CF7CB4	56	クエストに必要なキャラクターが\nいるので解散出来ません	Can't disband: a character needed\nfor the quest is in the party.	
+SIS05-0183	0x08CF7D04	28	%sがパーティから抜けました	%s left the party.	
+SIS05-0184	0x08CF7D20	60	依頼に必要なキャラクターを\nパーティから外すことはできません	Characters needed for the request\ncan't be removed from the party.	
+SIS05-0185	0x08CF7D7C	48	プレイヤーを\nパーティから外すことはできません	The player can't be\nremoved from the party.	
+SIS05-0186	0x08CF7DAC	32	%sをパーティから外しますか？	Remove %s from the party?	
+SIS05-0187	0x08CF7DCC	28	%sの装備を全て外しますか？	Unequip all of %s's gear?	
+SIS05-0188	0x08CF7DE8	28	%sの装備を全て外しました	Unequipped all of %s's gear.	
+SIS05-0189	0x08CF7E04	52	パーティから外れるメンバーの\n装備を全て外しますか？	Unequip all gear from the member\nleaving the party?	
+SIS05-0190	0x08CF7E38	60	アイテムが一杯なので、\n装備を解除することが出来ませんでした	Your items are full, so the\ngear could not be unequipped.	
+SIS05-0191	0x08CF7E74	44	%sは治療中のため、パーティに参加できません	%s is being treated and can't join.	
+SIS05-0192	0x08CF82E4	20	傭兵、%sの過去実績	Mercenary %s: Past Record	
+SIS05-0193	0x08CF832C	12	消費TP:%d	TP Cost: %d	
+SIS05-0194	0x08CF8338	16	基本行動・%s	Basic Action: %s	
+SIS05-0195	0x08CF8500	12	■ 必要素材	■ Materials Needed	
+SIS05-0196	0x08CF851C	8	■ 材料	■ Ingredients	
+SIS05-0197	0x08CF8540	12	■ レシピ	■ Recipe	
+SIS05-0198	0x08CF85D8	48	装備する事が出来ません。レベルがあと%d必要です	Can't equip. Need %d more levels.	
+SIS05-0199	0x08CF8608;0x08CF902C	52	所持アイテムが一杯なので\n装備を外す事が出来ません	Your items are full, so you\ncan't unequip this.	
+SIS05-0200	0x08CF8848	80	エキシビションで入手した装備、または\nダウンロードアイテムの装備は選択できません	Gear from Exhibitions or downloaded\nitems can't be selected.	
+SIS05-0201	0x08CF899C	60	選択出来る装備スキルがありません。\n合成確定は□ボタンです	No equip skills can be selected.\nPress □ to confirm the synthesis.	
+SIS05-0202	0x08CF89D8	60	ベースのスロットに空きがありません。\n合成確定は□ボタンです	The base has no free slots.\nPress □ to confirm the synthesis.	
+SIS05-0203	0x08CF8A94	16	%sガルドです	%s Gald.	
+SIS05-0204	0x08CF8B18	56	強化後の要求レベルが\n装備者のレベルを超えてしまいます	The required level after upgrading\nwould exceed the wearer's level.	
+SIS05-0205	0x08CF8B50	28	強化したい装備品(ベース)	Gear to upgrade (base)	
+SIS05-0206	0x08CF8FB8	12	%sを使った	Used %s.	
+SIS05-0207	0x08CF9110	16	ＨＰ%d％回復	Restores %d％ HP	
+SIS05-0208	0x08CF9120	16	ＴＰ%d％回復	Restores %d％ TP	
+SIS05-0209	0x08CF9130	24	ＨＰ%d％、ＴＰ%d％回復	Restores %d％ HP, %d％ TP	
+SIS05-0210	0x08CF9148	20	ＨＰ、ＴＰ%d％回復	Restores %d％ HP and TP	
+SIS05-0211	0x08CF93F4;0x08CF9740	4	盾	Shd	
+SIS05-0212	0x08CF9410;0x08CF9710	4	斧	Axe	
+SIS05-0213	0x08CF9414;0x08CF9714	4	杖	Stf	
+SIS05-0214	0x08CF9418;0x08CF9718	4	拳	Fst	
+SIS05-0215	0x08CF941C;0x08CF971C	4	弓	Bow	
+SIS05-0216	0x08CF9428	4	槍	Spr	
+SIS05-0217	0x08CF948C	4	笛	Flt	
+SIS05-0218	0x08CF9490	4	符	Tal	
+SIS05-0219	0x08CF94A8	4	帯	Blt	
+SIS05-0220	0x08CF94AC	4	頭	Hd	
+SIS05-0221	0x08CF94B0	4	顔	Fc	
+SIS05-0222	0x08CF94B4	4	体	Bdy	
+SIS05-0223	0x08CF94B8	4	手	Hnd	
+SIS05-0224	0x08CF94BC	4	足	Ft	
+SIS05-0225	0x08CF94C0;0x08CF9758	4	鎧	Arm	
+SIS05-0226	0x08CF94C4;0x08CF975C	4	服	Clt	
+SIS05-0227	0x08CF94D0;0x08CF9744	4	兜	Hlm	
+SIS05-0228	0x08CF978C	24	ＳＥＬＥＣＴ:表示切替	SELECT: Toggle display	
+SIS05-0229	0x08CF97A4	24	方向キー　　:位置変更	D-Pad: Move position	
+SIS05-0230	0x08CF97BC	28	○＋上下キー:描画高さ変更	○+Up/Down: Change height	
+SIS05-0231	0x08CF97D8	24	□＋方向キー:角度変更	□+D-Pad: Change angle	
+SIS05-0232	0x08CF97F0	28	△＋上下キー:スケール変更	△+Up/Down: Change scale	
+SIS05-0233	0x08CF9BE4	4	％		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0234	0x08CF9BF0;0x08CFD5BC	28	テイルズ オブ ファンタジア	Tales of Phantasia	
+SIS05-0235	0x08CF9C0C;0x08CFD5D8	28	テイルズ オブ デスティニー	Tales of Destiny	
+SIS05-0236	0x08CF9C28;0x08CFD5F4	28	テイルズ オブ エターニア	Tales of Eternia	
+SIS05-0237	0x08CF9C44;0x08CFD628	32	テイルズ オブ デスティニー２	Tales of Destiny 2	
+SIS05-0238	0x08CF9C64;0x08CFD648	28	テイルズ オブ シンフォニア	Tales of Symphonia	
+SIS05-0239	0x08CF9C80;0x08CFD664	24	テイルズ オブ リバース	Tales of Rebirth	
+SIS05-0240	0x08CF9C98;0x08CFD67C	32	テイルズ オブ レジェンディア	Tales of Legendia	
+SIS05-0241	0x08CF9CB8;0x08CFD610	24	テイルズ オブ ジ アビス	Tales of the Abyss	
+SIS05-0242	0x08CF9CD0;0x08CFD69C	28	テイルズ オブ ザ テンペスト	Tales of the Tempest	
+SIS05-0243	0x08CF9CEC;0x08CFD6B8	28	テイルズ オブ イノセンス	Tales of Innocence	
+SIS05-0244	0x08CF9D08;0x08CFD6D4	28	テイルズ オブ ヴェスペリア	Tales of Vesperia	
+SIS05-0245	0x08CF9D24	28	ＴＯＳ −ラタトスクの騎士−	ToS: Dawn of the New World	
+SIS05-0246	0x08CF9D40;0x08CFD710	24	テイルズ オブ ハーツ	Tales of Hearts	
+SIS05-0247	0x08CF9D58;0x08CFD728	28	テイルズ オブ グレイセス	Tales of Graces	
+SIS05-0248	0x08CF9D74	36	ＴＯＷ レディアント マイソロジー	ToW Radiant Mythology	
+SIS05-0249	0x08CF9D98	36	ＴＯＷ レディアント マイソロジー２	ToW Radiant Mythology 2	
+SIS05-0250	0x08CF9DBC	36	ＴＯＷ レディアント マイソロジー３	ToW Radiant Mythology 3	
+SIS05-0251	0x08CF9DEC	8	%3.2f％	%3.2f％	
+SIS05-0252	0x08CF9E08	12	■ 変更不可	■ Cannot Change	
+SIS05-0253	0x08CF9E14	64	ダンジョン内では、難易度を変更出来ません\n（現在の難易度、%s）	Can't change difficulty in a dungeon.\n(Current difficulty: %s)	
+SIS05-0254	0x08CF9E70	12	■ 変更確認	■ Confirm Change	
+SIS05-0255	0x08CFA198	56	メインクエスト進行中の通常戦闘時に\n流す曲を変更します	Changes the music played in normal\nbattles during the main quest.	
+SIS05-0256	0x08CFA38C	8	■ 確認	■ Confirm	
+SIS05-0257	0x08CFA3B0	12	%s\n%3d％	%s\n%3d％	
+SIS05-0258	0x08CFA4D8	56	メインクエスト進行中の\n通常戦闘時に流す曲を変更します。	Changes the music played in normal\nbattles during the main quest.	
+SIS05-0259	0x08CFA5B4	48	イベント時にキャラクターのボイスを\n再生します。	Plays character voices\nduring events.	
+SIS05-0260	0x08CFA5E4	52	イベント時にキャラクターのボイスを\n再生しません。	Does not play character voices\nduring events.	
+SIS05-0261	0x08CFA66C	64	ダンジョンマップのデフォルト設定を\n広範囲マップに設定します。	Sets the default dungeon map\nto the wide-range map.	
+SIS05-0262	0x08CFA6AC	64	ダンジョンマップのデフォルト設定を\n中範囲マップに設定します。	Sets the default dungeon map\nto the mid-range map.	
+SIS05-0263	0x08CFA6EC	64	ダンジョンマップのデフォルト設定を\nマップ非表示に設定します。	Sets the default dungeon map\nto Map Off.	
+SIS05-0264	0x08CFAB84	4	小	S	
+SIS05-0265	0x08CFAB88;0x08CFB464	4	中	M	
+SIS05-0266	0x08CFAB8C	4	大	L	
+SIS05-0267	0x08CFABA0	4	＋	+	
+SIS05-0268	0x08CFABA4	8	＋ ＋	+ +	
+SIS05-0269	0x08CFABAC	12	■ 称号一覧	■ Title List	
+SIS05-0270	0x08CFACF8	56	%sが装備不可のアイテムが\n含まれています。購入しますか？	Includes items %s can't equip.\nBuy anyway?	
+SIS05-0271	0x08CFADE4	48	装備品が一杯のため、\n購入することができません	Your equipment is full,\nso you can't buy this.	
+SIS05-0272	0x08CFAE6C	40	「%s」が交換されるまで、交換出来ません	Can't trade until "%s" is traded.	
+SIS05-0273	0x08CFAE94	16	武器%dの場合	For Weapon %d	
+SIS05-0274	0x08CFAF94	44	テイルズ オブ専用装備なので、試着できません	Can't try on special Tales of gear.	
+SIS05-0275	0x08CFB250	52	職業に応じた思考で戦闘を行う。\n隊列位置への影響なし	Fights using tactics suited to class.\nNo effect on formation position.	
+SIS05-0276	0x08CFB284	60	残ＴＰを気にせず、全力で戦闘を行う。\n隊列位置への影響なし	Fights all-out, ignoring remaining TP.\nNo effect on formation position.	
+SIS05-0277	0x08CFB2C0	48	常に敵の近くで戦闘を行う。\n隊列位置は敵に近付く	Always fights close to the enemy.\nFormation moves toward the enemy.	
+SIS05-0278	0x08CFB2F0	52	常に敵の遠くで戦闘を行う。\n隊列位置は敵から離れる	Always fights far from the enemy.\nFormation moves away from the enemy.	
+SIS05-0279	0x08CFB324	60	サポートや援護攻撃中心の戦闘を行う。\n隊列位置は敵から離れる	Focuses on support and backup attacks.\nFormation moves away from the enemy.	
+SIS05-0280	0x08CFB360	52	防御に比重をおいた戦闘を行う。\n隊列位置への影響なし	Fights with an emphasis on defense.\nNo effect on formation position.	
+SIS05-0281	0x08CFB394	56	ＴＰを使わない状態での戦闘を行う。\n隊列位置への影響なし	Fights without using any TP.\nNo effect on formation position.	
+SIS05-0282	0x08CFB41C	44	優先行動（%s編）が使えるようになりました！	Priority Actions (%s) are now available!	
+SIS05-0283	0x08CFB460	4	前	Fr	
+SIS05-0284	0x08CFB468	4	後	Bk	
+SIS05-0285	0x08CFB524	28	称号「%s」を手に入れた！	Got the title "%s"!	
+SIS05-0286	0x08CFB540	20	「%s」を入手した！	Obtained "%s"!	
+SIS05-0287	0x08CFB554	60	オプションのサウンドセレクトで\n「%s」が選択可能となりました	%s can now be selected in\nSound Select under Options.	
+SIS05-0288	0x08CFB590	44	闘技場ミッションに\n「%s」が追加されました	%s has been added\nto the Colosseum missions.	
+SIS05-0289	0x08CFBA08	84	前作セーブデータやサイトからダウンロードしたデータを\n本作セーブデータに反映させます	Applies previous-game save data or data\ndownloaded from the site to this save.	
+SIS05-0290	0x08CFBAA8	108	記録メディアに保存されているデータを読み込んで、\nインフラストラクチャーモードにて連動サイトに接続を行います	Loads data from your media, connects to\nthe linked site in Infrastructure Mode.	
+SIS05-0291	0x08CFBB20	116	サイトへアクセスする為に必要なデータを新規作成してから、\nインフラストラクチャーモードにて連動サイトに接続を行います	Creates new site-access data, then\nconnects via Infrastructure Mode.	
+SIS05-0292	0x08CFBC04	68	認証データを作成します。\nすでに認証データがある場合は上書きします	Creates authentication data. Existing\nauthentication data is overwritten.	
+SIS05-0293	0x08CFBC60	56	ダウンロードした傭兵データを\nセーブデータに反映させます	Applies downloaded Mercenary data\nto your save data.	
+SIS05-0294	0x08CFBCDC	60	ダウンロードしたアイテムデータを\nセーブデータに反映させます	Applies downloaded item data\nto your save data.	
+SIS05-0295	0x08CFBD38	140	レディアント マイソロジー、もしくは\nレディアント マイソロジー2のセーブデータ特典を、\nレディアント マイソロジー3のプレイデータへ反映させます	Applies save-data bonuses from Radiant\nMythology or Radiant Mythology 2\nto your Radiant Mythology 3 play data.	
+SIS05-0296	0x08CFBDC4	48	なりきりダンジョンXセーブデータ特典インポート	Narikiri Dungeon X Save Bonus Import	
+SIS05-0297	0x08CFBDF4	124	テイルズ オブ ファンタジア なりきりダンジョンXの\nセーブデータ特典を\nレディアント マイソロジー3のプレイデータへ反映させます	Applies save-data bonuses from Tales of\nPhantasia: Narikiri Dungeon X\nto your Radiant Mythology 3 play data.	
+SIS05-0298	0x08CFBE70	100	新規に接続を行ないます\n認証データ作成→傭兵データ作成→\nインポートフォルダ作成\nの順番で進めます\n	Starts a new connection.\nCreate authentication data →\nMercenary data → Import folder,\nin that order.\n	
+SIS05-0299	0x08CFBF1C	64	インフラストラクチャーモードにて、\n連動サイトに接続を行います	Connects to the linked site\nin Infrastructure Mode.	
+SIS05-0300	0x08CFBFE4	64	認証データが存在しない場合は、\n先に認証データを作成して下さい	If there is no authentication data,\nplease create it first.	
+SIS05-0301	0x08CFC024	44	傭兵の元になるセーブデータを\n選んで下さい	Select the save data to base\nthe Mercenary on.	
+SIS05-0302	0x08CFC074	32	傭兵データを作成中です\n□□□□	Creating Mercenary data...\n□□□□	
+SIS05-0303	0x08CFC094	32	傭兵データを作成中です\n■□□□	Creating Mercenary data...\n■□□□	
+SIS05-0304	0x08CFC0B4	32	傭兵データを作成中です\n■■□□	Creating Mercenary data...\n■■□□	
+SIS05-0305	0x08CFC0D4	32	傭兵データを作成中です\n■■■□	Creating Mercenary data...\n■■■□	
+SIS05-0306	0x08CFC0F4	32	傭兵データを作成中です\n■■■■	Creating Mercenary data...\n■■■■	
+SIS05-0307	0x08CFC198	56	作成する認証データの元になる\nセーブデータを選んで下さい	Select the save data to base the\nauthentication data on.	
+SIS05-0308	0x08CFC1F8	164	選択されたセーブデータに以下の特典を反映しました\n  ・称号『テレジアの救世主』\n  ・闘技場ミッション『異世界のディセンダー』\n  ・装備『クラシックレザー装備一式』\n	Bonuses applied to the selected save:\n  - Title: "Savior of Terresia"\n  - Colosseum: "Otherworld Descender"\n  - Equipment: "Classic Leather Set"\n	
+SIS05-0309	0x08CFC29C	144	選択されたセーブデータに以下の特典を反映しました\n  ・称号『グラニデの救世主』\n  ・闘技場ミッション『穢れの王』\n  ・装備『トライアル装備一式』\n	Bonuses applied to the selected save:\n  - Title: "Savior of Granide"\n  - Colosseum: "King of Defilement"\n  - Equipment: "Trial Set"\n	
+SIS05-0310	0x08CFC354	80	テイルズ オブ ザ ワールド レディアント マイソロジーの\nセーブデータがありました	Found save data for Tales of the World:\nRadiant Mythology.	
+SIS05-0311	0x08CFC3A4	80	テイルズ オブ ザ ワールド レディアント マイソロジー2の\nセーブデータがありました	Found save data for Tales of the World:\nRadiant Mythology 2.	
+SIS05-0312	0x08CFC3F4	136	テイルズ オブ ザ ワールド レディアント マイソロジーと\nテイルズ オブ ザ ワールド レディアント マイソロジー2の\nセーブデータがありました	Found save data for both Tales of the\nWorld: Radiant Mythology and Tales of\nthe World: Radiant Mythology 2.	
+SIS05-0313	0x08CFC47C	136	選択されたセーブデータに以下の特典を反映しました\n  ・装備『クラースの帽子Ｘ』\n  ・装備『エターナルソードＸ』\n  ・装備『慈愛の杖Ｘ』\n	Bonuses applied to the selected save:\n  - Equipment: "Klarth's Hat X"\n  - Equipment: "Eternal Sword X"\n  - Equipment: "Staff of Mercy X"\n	
+SIS05-0314	0x08CFC504	80	テイルズ オブ ファンタジア なりきりダンジョンXの\nセーブデータがありませんでした	Tales of Phantasia: Narikiri Dungeon X\nsave data was not found.	
+SIS05-0315	0x08CFC554	76	テイルズ オブ ファンタジア なりきりダンジョンXの\nセーブデータがありました	Tales of Phantasia: Narikiri Dungeon X\nsave data was found.	
+SIS05-0316	0x08CFC5A0	44	インポートするセーブデータを\n選択して下さい	Select the save data\nto import into.	
+SIS05-0317	0x08CFC5CC	48	このセーブデータには\nすでにインポート済みです	This save data has\nalready received the import.	
+SIS05-0318	0x08CFC6A8	68	ＤＬクエストキーはインポート済みです\nロックスから受け取り可能です	The DL Quest Key has been imported.\nYou can collect it from Rocks.	
+SIS05-0319	0x08CFC708	64	アイテムデータが読み込めませんでした。\nインポートを中断しました	Couldn't load the item data.\nThe import was canceled.	
+SIS05-0320	0x08CFC748	80	アイテムデータを読み込みました。\nインポートするセーブデータを選択して\n下さい	Item data loaded.\nPlease select the save data\nto import into.	
+SIS05-0321	0x08CFC798	116	このセーブデータには\n未取得のインポートデータがあります。\nインポートを実行する前に\n倉庫からアイテムを取得して下さい	This save data has\nunclaimed imported data.\nBefore importing, please collect\nthe items from storage.	
+SIS05-0322	0x08CFC854	64	アイテムデータに問題があります。\nインポートする事は出来ません	There is a problem with the item data.\nIt cannot be imported.	
+SIS05-0323	0x08CFC8BC	60	傭兵データが読み込めませんでした。\nインポートを中断しました	Couldn't load the Mercenary data.\nThe import was canceled.	
+SIS05-0324	0x08CFC914	120	以前に傭兵データをインポートしたセーブ\nデータに、新しい傭兵データをインポート\nした場合、前回の傭兵は消えてしまいます	Importing new Mercenary data into save\ndata that already has an imported one\nwill erase the previous Mercenary.	
+SIS05-0325	0x08CFC9CC	60	傭兵データに問題があります。\nインポートする事は出来ません	The Mercenary data has a problem.\nIt cannot be imported.	
+SIS05-0326	0x08CFCA08	56	ダウンロードしたデータと\nセーブデータが適合していません	The downloaded data does not\nmatch this save data.	
+SIS05-0327	0x08CFCADC	96	既存のデータがあります。\n上書きすると、登録アカウントに\nアクセス出来なくなる可能性があります	Existing data found.\nOverwriting it may lock you out\nof your registered account.	
+SIS05-0328	0x08CFCB3C	88	記録メディアを検出出来ませんでした。\n%dKB以上の空き容量がある\n記録メディアが必要です	No storage media detected.\nStorage media with at least %dKB\nof free space is required.	
+SIS05-0329	0x08CFCBE8;0x08CFD214	56	記録メディアに既にデータが存在します。\n上書きしますか？	Data already exists on the media.\nOverwrite it?	
+SIS05-0330	0x08CFCC20;0x08CFD270	84	スリープモードに移行したためデータの作成を中断しました。\nもう一度作成を行いますか？	Creation was interrupted because the\nsystem entered Sleep Mode. Try again?	
+SIS05-0331	0x08CFCC74	80	ブラウザを起動しています…\nネットワーク接続中は記録メディアを\n抜かないで下さい	Starting the browser...\nDo not remove the storage media\nwhile connected to the network.	
+SIS05-0332	0x08CFCCC4	72	ネットワーク接続をするにはダウンロード用の\nフォルダを作る必要があります	To connect to the network, a download\nfolder must be created.	
+SIS05-0333	0x08CFCD0C	36	記録メディアを検出出来ませんでした\n	No storage media detected.\n	
+SIS05-0334	0x08CFCD30	44	破損したインポートフォルダを検出しました\n	A corrupted import folder was detected.\n	
+SIS05-0335	0x08CFCD5C	56	「データの削除」よりフォルダを削除して\nやり直して下さい	Delete the folder via "Delete Data"\nand try again.	
+SIS05-0336	0x08CFCDDC	80	テイルズ オブ ザ ワールド\nレディアント マイソロジー3の\n連動サイト用データです	Tales of the World\nRadiant Mythology 3\nlinked-site data.	
+SIS05-0337	0x08CFCE40	84	テイルズ オブ ザ ワールド\nレディアント マイソロジー3の\n連動サイト用認証データです	Tales of the World\nRadiant Mythology 3\nlinked-site authentication data.	
+SIS05-0338	0x08CFCEC0	200	ＥＸＴＲＡモードはオートセーブ機能に対応しています。\nオートセーブ中にはメモリースティック[TM]アクセスランプが\n点滅しますので、その間は記録メディアを抜いたり、\n本体の電源を切ったりしないでください。	EXTRA mode supports autosave.\nDuring autosave, the Memory Stick[TM]\naccess lamp flashes. Do not remove the\nmedia or turn off the system meanwhile.	
+SIS05-0339	0x08CFD744	28	レディアント マイソロジー	Radiant Mythology	
+SIS05-0340	0x08CFD760	28	レディアント マイソロジー２	Radiant Mythology 2	
+SIS05-0341	0x08CFD77C	28	レディアント マイソロジー３	Radiant Mythology 3	
+SIS05-0342	0x08CFD798	8	桜庭 統	Motoi Sakuraba	
+SIS05-0343	0x08CFD7A0	12	中村 和宏	Kazuhiro Nakamura	
+SIS05-0344	0x08CFD7AC	8	椎名 豪	Go Shiina	
+SIS05-0345	0x08CFD8AC	56	テイルズ オブ ファンタジアの戦闘曲の中から選択します	Battle themes from Tales of Phantasia.	
+SIS05-0346	0x08CFD8E4	56	テイルズ オブ デスティニーの戦闘曲の中から選択します	Battle themes from Tales of Destiny.	
+SIS05-0347	0x08CFD91C	52	テイルズ オブ エターニアの戦闘曲の中から選択します	Battle themes from Tales of Eternia.	
+SIS05-0348	0x08CFD950	52	テイルズ オブ ジ アビスの戦闘曲の中から選択します	Battle themes from Tales of the Abyss.	
+SIS05-0349	0x08CFD984	56	テイルズ オブ デスティニー２の戦闘曲の中から選択します	Battle themes from Tales of Destiny 2.	
+SIS05-0350	0x08CFD9BC	56	テイルズ オブ シンフォニアの戦闘曲の中から選択します	Battle themes from Tales of Symphonia.	
+SIS05-0351	0x08CFD9F4	52	テイルズ オブ リバースの戦闘曲の中から選択します	Battle themes from Tales of Rebirth.	
+SIS05-0352	0x08CFDA28	56	テイルズ オブ レジェンディアの戦闘曲の中から選択します	Battle themes from Tales of Legendia.	
+SIS05-0353	0x08CFDA60	56	テイルズ オブ ザ テンペストの戦闘曲の中から選択します	Battle themes from Tales of the Tempest.	
+SIS05-0354	0x08CFDA98	52	テイルズ オブ イノセンスの戦闘曲の中から選択します	Battle themes from Tales of Innocence.	
+SIS05-0355	0x08CFDACC	56	テイルズ オブ ヴェスペリアの戦闘曲の中から選択します	Battle themes from Tales of Vesperia.	
+SIS05-0356	0x08CFDB3C	48	テイルズ オブ ハーツの戦闘曲の中から選択します	Battle themes from Tales of Hearts.	
+SIS05-0357	0x08CFDB6C	52	テイルズ オブ グレイセスの戦闘曲の中から選択します	Battle themes from Tales of Graces.	
+SIS05-0358	0x08CFDBA0	52	レディアント マイソロジーの戦闘曲の中から選択します	Battle themes from Radiant Mythology.	
+SIS05-0359	0x08CFDBD4	56	レディアント マイソロジー２の戦闘曲の中から選択します	Battle themes from Radiant Mythology 2.	
+SIS05-0360	0x08CFDC0C	56	レディアント マイソロジー３の戦闘曲の中から選択します	Battle themes from Radiant Mythology 3.	
+SIS05-0361	0x08CFDC44	52	桜庭 統氏が作曲／編曲した戦闘曲の中から選択します	Battle themes by Motoi Sakuraba.	
+SIS05-0362	0x08CFDC78	52	中村 和宏氏が作曲／編曲した戦闘曲の中から選択します	Battle themes by Kazuhiro Nakamura.	
+SIS05-0363	0x08CFDCAC	52	椎名 豪氏が作曲／編曲した戦闘曲の中から選択します	Battle themes by Go Shiina.	
+SIS05-0364	0x08CFDDF4	56	アンジュから、%sに\n%sへ自由に立ち入る許可が下りました	Ange has granted %s\nfree access to %s.	
+SIS05-0365	0x08CFDE2C	76	ブラウニー坑道の、立て坑 最深地点より\n追憶の坑道に入れるようになりました	The Mine of Reminiscence can now be\nreached via Brownie Mine's deep shaft.	
+SIS05-0366	0x08CFDE78	68	パーティメンバーに空きがあります\nあと%d人、参加させることができます	There's room in the party.\nYou can add %d more member(s).	
+SIS05-0367	0x08CFDEBC	36	料理「%s」の効果が無くなりました	The "%s" meal effect has worn off.	
+SIS05-0368	0x08CFDF68	20	%s\nに入りますか？	Enter\n%s?	
+SIS05-0369	0x08D0F1C4	12	[指定色１]		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0370	0x08D0F1D0	12	[指定色２]		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0371	0x08D0F1DC	12	[指定色３]		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0372	0x08D0F1E8	12	[指定色４]		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0373	0x08D0F1F4	12	[指定色５]		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0374	0x08D0F200	16	[指定色戻し]		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0375	0x08D0FF9C	92	今回の仕事は、＜ダンジョン名＞にいる\n＜モンスター名＞の退治、\n目標は＜数＞体だ。　行こう！	Our job this time: ＜モンスター名＞\nin ＜ダンジョン名＞. Target: ＜数＞.\nLet's go!	
+SIS05-0376	0x08D0FFF8	84	今回は、この＜ダンジョン名＞にいる\n魔物を＜数＞体退治するんだ。\nさあ、頑張ろう！	This time, we hunt ＜数＞ monsters\nhere in ＜ダンジョン名＞.\nCome on, let's do our best!	
+SIS05-0377	0x08D1004C	72	さあ、訓練開始だ。\n今日は、＜ダンジョン名＞の魔物を、\n＜数＞体狩ろう！	All right, training starts now.\nToday we hunt ＜数＞ monsters\nin ＜ダンジョン名＞!	
+SIS05-0378	0x08D10094	32	見ろ、＜モンスター名＞だ！\n\n	Look, it's ＜モンスター名＞!\n\n	
+SIS05-0379	0x08D100B4	36	さあ、勝負だ。\n遠慮はいらないよ！\n	All right, let's have a match.\nDon't hold back!\n	
+SIS05-0380	0x08D100D8	24	あと、＜残＞体だ！\n\n	＜残＞ more to go!\n\n	
+SIS05-0381	0x08D100F0	52	よし、今回はこれで終わりだ。\nそれじゃ、戻ろうか\n	Okay, that's it for this time.\nShall we head back?\n	
+SIS05-0382	0x08D10124	64	よし、今ので目標達成だ。\nいい訓練になったよ。\nさあ、船へ戻ろう	Good, that one hit our target.\nThat was nice training.\nNow, back to the ship.	
+SIS05-0383	0x08D10164	88	君の勝ちだ。\nでも、おかげで自分の弱点に気づけたよ。\nじゃあ、また機会があったら頼むよ	You win.\nBut thanks to you, I found my weakness.\nLet's do this again sometime.	
+SIS05-0384	0x08D101BC	64	もう一度来るかい？\nいいよ。\n君との勝負はやりがいがあるからね	Another round?\nSure.\nFacing you is always worth it.	
+SIS05-0385	0x08D101FC	84	さて、＜ダンジョン名＞で\n＜モンスター名＞を＜数＞体退治か。\nぱぱっと始めようぜ！	So, it's ＜モンスター名＞ x＜数＞\nin ＜ダンジョン名＞, huh?\nLet's knock this out quick!	
+SIS05-0386	0x08D10250	88	今回の仕事は、ここにいる魔物を\n＜数＞体退治すればいい。\nさあ、ぼやぼやせずに行くぜ！！	The job this time is to bust up ＜数＞\nof the monsters around here.\nC'mon, quit dawdlin' and let's go!!	
+SIS05-0387	0x08D102A8	60	さあて、鍛錬の為に今日は\nここにいる魔物を＜数＞体狩るぜ！\n	Right, for some trainin' today, we're\nhuntin' ＜数＞ monsters around here!\n	
+SIS05-0388	0x08D102E4	36	いたぞ！　＜モンスター名＞だ！\n\n	There! It's ＜モンスター名＞!\n\n	
+SIS05-0389	0x08D1030C	24	残りは＜残＞体だな！\n\n	Only ＜残＞ left!\n\n	
+SIS05-0390	0x08D10324	44	ふう、やっと済んだな。\nじゃあ、戻ろうぜ\n	Phew, finally done.\nLet's head back.\n	
+SIS05-0391	0x08D10350	80	…っと、これで目標達成か。\nちったあ、腕を上げられたかな。\nじゃあ、船に戻ろうぜ	...And that's the target done.\nGuess I got a little stronger, huh.\nAlright, back to the ship.	
+SIS05-0392	0x08D103A0	76	今回の目的は、＜ダンジョン名＞にいる\n＜モンスター名＞、＜数＞体の退治です\n	Our objective this time: defeat\n＜モンスター名＞ x＜数＞ in ＜ダンジョン名＞.\n	
+SIS05-0393	0x08D103EC	80	今回の目的は、ここ＜ダンジョン名＞を\n根城にする魔物を＜数＞体\n退治する事です	Our objective is to defeat ＜数＞\nmonsters that make their lair\nhere in ＜ダンジョン名＞.	
+SIS05-0394	0x08D1043C	84	では、ここ＜ダンジョン名＞での\n修行を始めましょう。\n＜数＞体ほど、魔物を討ちます	Now, let us begin our training\nhere in ＜ダンジョン名＞.\nWe will defeat some ＜数＞ monsters.	
+SIS05-0395	0x08D10490	40	いました。\n目標の＜モンスター名＞です\n	There it is.\nOur target, ＜モンスター名＞.\n	
+SIS05-0396	0x08D104B8	24	あと、＜残＞体です\n\n	＜残＞ remaining.\n\n	
+SIS05-0397	0x08D104D0	48	戻りましょう。\nあなたの仕事は、終わりました…\n	Let us go back.\nYour work here is done...\n	
+SIS05-0398	0x08D10500	68	いい修行になりました。\nありがとうございます。\nでは、戻りましょう	That was good training.\nThank you very much.\nNow, let us head back.	
+SIS05-0399	0x08D10544	92	えーっと、＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体、\n退治すればいいんだったな！	Uh, so we gotta take out\n＜モンスター名＞ x＜数＞ in ＜ダンジョン名＞.\nThat was the job, right!	
+SIS05-0400	0x08D105A0	96	えっと、＜ダンジョン名＞にいる魔物を\nとにかく＜数＞体退治すればいいんだよな？\nじゃあ、行こう！	Um, we just gotta beat ＜数＞ of the\nmonsters in ＜ダンジョン名＞, right?\nThen let's go!	
+SIS05-0401	0x08D10600	60	この土地の魔物を、＜数＞体狩るんだ。\nじゃあ、訓練開始！\n	We hunt ＜数＞ monsters in this area.\nOkay, training starts now!\n	
+SIS05-0402	0x08D1063C	40	あそこだ。\n＜モンスター名＞がいる！\n	Over there.\nIt's ＜モンスター名＞!\n	
+SIS05-0403	0x08D10664	48	待ってたよ、○○。\nじゃあ、腕試しと行こうか！\n	I've been waiting, ○○.\nNow, let's test our skills!\n	
+SIS05-0404	0x08D10694	40	ええっと、\nあとは残り＜残＞体だったな\n	Uhh, let's see,\nonly ＜残＞ left, right?\n	
+SIS05-0405	0x08D106BC	48	うん、こんなもんかな。\nじゃあ、船へ戻ろう！\n	Yeah, that should do it.\nNow, back to the ship!\n	
+SIS05-0406	0x08D106EC	60	ああ、いい訓練が出来てよかったよ。\nそれじゃ、早く戻ろう！\n	Ah, that was some good training.\nWell then, let's hurry back!\n	
+SIS05-0407	0x08D10728	80	ふう、強いな…。\nでも、今日の勝負は楽しかったよ。\nじゃあ、俺は先に船に戻るから	Phew, you're strong...\nBut today's match was fun.\nWell, I'll head back to the ship first.	
+SIS05-0408	0x08D10778	56	もう一度腕試しをするんだね。\nじゃあ、準備はいいか？\n	So you want another test of skill?\nAll right, are you ready?\n	
+SIS05-0409	0x08D107B0	72	＜ダンジョン名＞で\n＜モンスター名＞を＜数＞体退治ね！\nじゃ、行くわよ！	In ＜ダンジョン名＞, we take out\n＜モンスター名＞ x＜数＞, right?\nOkay, let's go!	
+SIS05-0410	0x08D107F8	84	今回の仕事は楽ね。\n＜ダンジョン名＞にいる魔物を\n＜数＞体退治すればいいんだもの！	This job is a breeze.\nWe just have to take out ＜数＞\nmonsters in ＜ダンジョン名＞!	
+SIS05-0411	0x08D1084C	92	さて、たまには訓練もしないとね。\n今日は、この土地の魔物を＜数＞体\n倒すのを目標にしましょ！	Well, we should train once in a while.\nToday, let's aim to defeat ＜数＞\nmonsters from around here!	
+SIS05-0412	0x08D108A8	36	ほら、＜モンスター名＞じゃない？\n\n	Hey, isn't that ＜モンスター名＞?\n\n	
+SIS05-0413	0x08D108CC	40	いい調子じゃない？\n残り＜残＞体よ！\n	We're on a roll, huh?\nJust ＜残＞ left!\n	
+SIS05-0414	0x08D108F4	68	ま、ざっとこんなもんね。\nじゃあ、この仕事は終わりよ。\n帰りましょ！	There, easy as that.\nThat wraps up this job.\nLet's head home!	
+SIS05-0415	0x08D10938	64	うんうん、いい訓練になったわ♪\nそれじゃあ、戻って休みましょ！\n	Mm-hm, that was great training~\nNow let's go back and rest!\n	
+SIS05-0416	0x08D10978	80	＜ダンジョン名＞に生息する\n＜モンスター名＞を＜数＞体退治する。\nでは、始めよう	We exterminate the ＜モンスター名＞\nnative to ＜ダンジョン名＞. Target: ＜数＞.\nLet us begin.	
+SIS05-0417	0x08D109C8	96	今回は、ここ＜ダンジョン名＞に住まう\n魔物を＜数＞体狩らなければならない。\nさあ、慎重に進もう	This time, we must hunt ＜数＞ monsters\ndwelling here in ＜ダンジョン名＞.\nNow, let us proceed with care.	
+SIS05-0418	0x08D10A28	56	では、今日の修行だ。\nここの魔物を、＜数＞体ほど狩ろう\n	Now, for today's training.\nWe hunt some ＜数＞ monsters here.\n	
+SIS05-0419	0x08D10A60	40	…む。\nあれは、＜モンスター名＞だな…\n	...Hm.\nThat is ＜モンスター名＞...\n	
+SIS05-0420	0x08D10A88	36	あと、＜残＞体。\n気は抜けないぞ…\n	＜残＞ to go.\nDon't let your guard down...\n	
+SIS05-0421	0x08D10AAC	52	いい仕事だったよ、○○君。\nでは、帰還するとしよう\n	Fine work, ○○.\nNow then, let us head back.\n	
+SIS05-0422	0x08D10AE0	56	やってみれば、あっという間だったな。\nでは、戻ろうか\n	Once we got going, it was over fast.\nShall we head back, then?\n	
+SIS05-0423	0x08D10B18	96	＜ダンジョン名＞をウロつく\n＜モンスター名＞を＜数＞体やっちまうんだな。\nはっ、ちょろいぜ！！	We just gotta wreck ＜数＞ ＜モンスター名＞\nprowling around ＜ダンジョン名＞, right?\nHah, piece of cake!!	
+SIS05-0424	0x08D10B78	100	とにかくよ、ここに巣食う魔物を\n＜数＞体倒せばいいんだろ？\n＜数＞体と言わず派手に行こうじゃねぇか！	Anyway, we just gotta beat ＜数＞ of the\nmonsters nesting here, right?\nForget ＜数＞ - let's make it flashy!	
+SIS05-0425	0x08D10BDC	92	ここの魔物を、＜数＞体倒して\n今日の修行としようじゃねぇか！\nさあ、おめぇ、準備はいいか？	Let's beat ＜数＞ of the monsters here\nand call it today's training!\nWell, you ready or what?	
+SIS05-0426	0x08D10C38	40	おっ、いたぜ！\n＜モンスター名＞だ！\n	Oh, there's one!\nIt's a ＜モンスター名＞!\n	
+SIS05-0427	0x08D10C60	56	よーっし、残り＜残＞体か。\nまだまだ来やがれってんだ！\n	Alright, ＜残＞ left, huh?\nKeep 'em comin'!\n	
+SIS05-0428	0x08D10C98	64	もう終わりってかぁ？\n味気無えな。\nじゃあ、さっさと帰るとするか	Over already?\nHow dull.\nWell, let's hurry on back, then.	
+SIS05-0429	0x08D10CD8	96	次、次はどいつが相手だあ！？\n…って、もう終わりだと？\nはっ、暴れたりねえが今日は戻るとするか	Next! Who's my next opponent!?\n...Wait, it's over already?\nHah, still itchy, but let's head back.	
+SIS05-0430	0x08D10D38	76	じゃあ、行くぜ！\n＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体退治だ！	Alright, let's go!\nWe're takin' out ＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞!	
+SIS05-0431	0x08D10D84	92	今回は、＜ダンジョン名＞にいる魔物を\n＜数＞体退治するんだ。\nじゃあ、早速取り掛かろうぜ！	This time we take out ＜数＞ monsters\nin ＜ダンジョン名＞.\nLet's get right to it!	
+SIS05-0432	0x08D10DE0	88	今日はここの魔物を狩るんだ。\n＜数＞体も狩れば、いい修行になるだろ。\nじゃあ、行くぜ！	Today we hunt the monsters here.\nBag ＜数＞ and it'll be good training.\nAlright, let's go!	
+SIS05-0433	0x08D10E38	44	へへっ、見つけたぜ。\n＜モンスター名＞だ\n	Heh, found it.\nIt's a ＜モンスター名＞.\n	
+SIS05-0434	0x08D10E64	44	へへっ、待ってたぜ。\nさあ、全力で来な！\n	Heh, been waitin' for ya.\nCome at me with everything!\n	
+SIS05-0435	0x08D10E90	52	あと＜残＞体狩ればいいんだよな？\nよし、次行くぜ！\n	Just ＜残＞ more to hunt, right?\nOkay, on to the next!\n	
+SIS05-0436	0x08D10EC4	48	ようやく済んだな。\nじゃ、腹も減ったし帰ろうぜ\n	Finally done.\nI'm starving, let's head back.\n	
+SIS05-0437	0x08D10EF4	84	えーっと、これで達成か。\nじゃ、修行も済んだし戻ろうぜ。\nメシ食って、昼寝だ昼ね！	Uhh, so that does it?\nTraining's over, let's head back.\nGrub, then a nap! A nap!	
+SIS05-0438	0x08D10F48	92	ちぇっ、今回は勝てると思ったのに。\nま、次は負けないけどな！\nんじゃ、今日はこの辺で帰ろうぜ	Tch, I thought I'd win this time.\nWell, I won't lose next time!\nAnyway, let's head home for today.	
+SIS05-0439	0x08D10FA4	40	次も勝たせてもらうぜ。\nじゃあ、来な！\n	I'm winnin' next time too.\nNow, come on!\n	
+SIS05-0440	0x08D10FCC	96	今回の退治は、＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体だよ。\nうん、イケる、イケる！！	This time we're taking out ＜数＞\n＜モンスター名＞ in ＜ダンジョン名＞.\nYeah, we can do it, we can do it!!	
+SIS05-0441	0x08D1102C	92	今日は、＜ダンジョン名＞の魔物を\n＜数＞体退治するんだよ。\nそれじゃ、頑張らなくっちゃね！	Today we take out ＜数＞ monsters\nin ＜ダンジョン名＞.\nOkay, time to do our best!	
+SIS05-0442	0x08D11088	72	今日は、魔物を倒して修行をするよ。\n目標は、＜数＞体。\nさあ、始めよう！	Today we train by beating monsters.\nThe goal is ＜数＞.\nOkay, let's start!	
+SIS05-0443	0x08D110D0	44	ほら、見て！\n＜モンスター名＞がいたよ！\n	Look, look!\nThere's a ＜モンスター名＞!\n	
+SIS05-0444	0x08D110FC	40	ふう…。\nまだ、＜残＞体狩らなきゃね\n	Phew...\nStill ＜残＞ more to hunt.\n	
+SIS05-0445	0x08D11124	52	ふぅ…、何とか終えられたね。\nそれじゃ、戻ろう！\n	Phew... We somehow managed it.\nOkay, let's head back!\n	
+SIS05-0446	0x08D11158	76	あ〜、楽しい修行だった！\n○○もすごく頑張ってたね。\nじゃあ、船に戻ろっ！	Aah, that was fun training!\n○○, you worked really hard too.\nOkay, back to the ship!	
+SIS05-0447	0x08D111A4	100	では、今一度目的を確認しましょう。\n＜ダンジョン名＞にいる\n＜モンスター名＞、＜数＞体退治、ですね！	Let's review our objective once more.\nIn ＜ダンジョン名＞, we defeat\n＜数＞ ＜モンスター名＞, correct!	
+SIS05-0448	0x08D11208	84	さあ、始めましょう！\n今日の仕事は、＜ダンジョン名＞にいる\n魔物を＜数＞体退治です！	Now, let's begin!\nToday's job: in ＜ダンジョン名＞,\ndefeat ＜数＞ monsters!	
+SIS05-0449	0x08D1125C	84	では、修行を始めましょう。\n今日はここの魔物を＜数＞体狩ります。\nさあ、行きますよ！	Now, let's begin training.\nToday we hunt ＜数＞ monsters here.\nCome on, let's go!	
+SIS05-0450	0x08D112B0	56	あそこにいるのは、\n＜モンスター名＞じゃないですか？\n	Isn't that a\n＜モンスター名＞ over there?\n	
+SIS05-0451	0x08D112E8	44	残り＜残＞体ですよ。\nさあ、進みましょう！\n	＜残＞ more to go.\nCome on, let's press on!\n	
+SIS05-0452	0x08D11314	64	目標達成ですね！\nでは、ボクのバンエルティア号へ\n戻りましょう	Objective complete!\nNow, let's return to my very own\nVan Eltia.	
+SIS05-0453	0x08D11354	96	目標達成です！\nたまには修行もしてみるもんですね。\nさあ、僕のバンエルティア号へ帰りましょう！	Objective complete!\nTraining once in a while isn't so bad.\nNow, back to my Van Eltia!	
+SIS05-0454	0x08D113B4	72	じゃあ、＜ダンジョン名＞にいる\n＜モンスター名＞を\n＜数＞体退治だね！	Okay, so in ＜ダンジョン名＞\nwe take out ＜モンスター名＞,\n＜数＞ of them, right!	
+SIS05-0455	0x08D113FC	76	＜ダンジョン名＞にいる魔物を\n＜数＞体退治かぁ。\nへへっ、そんなの簡単だよ！	Take out ＜数＞ monsters\nin ＜ダンジョン名＞, huh?\nHeh, that's a cinch!	
+SIS05-0456	0x08D11448	80	よーし、修行だ！\n今日は、この＜ダンジョン名＞にいる\n魔物を、＜数＞体倒すぞ！	Alright, training time!\nToday we beat ＜数＞ monsters\nhere in ＜ダンジョン名＞!	
+SIS05-0457	0x08D11498	48	ほら、すぐ近くに\n＜モンスター名＞がいるよ！\n	Look, there's a ＜モンスター名＞\nright nearby!\n	
+SIS05-0458	0x08D114C8	48	来てくれたんだね。\nよーし、負けないからなっ！\n	You came!\nAlright, I'm not gonna lose!\n	
+SIS05-0459	0x08D114F8	48	あと、＜残＞体だね。\nへへっ！　楽勝、楽勝！\n	＜残＞ more, huh?\nHeh! Easy, easy!\n	
+SIS05-0460	0x08D11528	48	へへっ、楽勝だったね！\nじゃあ、船へ戻ろうよ\n	Heh, that was easy!\nOkay, let's go back to the ship.\n	
+SIS05-0461	0x08D11558	80	あれっ、もう終わりなんだ。\nまだ頑張れるのになぁ…。\nじゃあ、もう船に戻ろうよ	Huh, it's over already?\nI could've kept going...\nOh well, let's head back to the ship.	
+SIS05-0462	0x08D115A8	88	ちぇっ…、負けてしまったかぁ。\nじゃあ、次に腕試しする時の為に\nもっと鍛える事にするよ！	Tch... I lost, huh.\nThen I'll train harder for\nthe next time we test our skills!	
+SIS05-0463	0x08D11600	48	今度も手加減はしないよ。\nじゃあ、始めよう！\n	I won't hold back this time either.\nOkay, let's start!\n	
+SIS05-0464	0x08D11630	96	さあて、＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体退治するよ。\n走るよ、ついといで！！	Alright, we're taking out ＜数＞\n＜モンスター名＞ in ＜ダンジョン名＞.\nWe're running, so keep up!!	
+SIS05-0465	0x08D11690	104	この＜ダンジョン名＞にいる魔物を\n＜数＞体狩ればいいんだ。\n出来るなら、手強そうな奴を狩ろうじゃないか	We just need to hunt ＜数＞ of the\nmonsters here in ＜ダンジョン名＞.\nIf we can, let's go after tough ones.	
+SIS05-0466	0x08D116F8	80	さあ、今日の腕磨きは\nこの＜ダンジョン名＞で行うよ。\n魔物を＜数＞体狩るんだ！	Now, today's skill-sharpening\ntakes place in ＜ダンジョン名＞.\nHunt ＜数＞ monsters!	
+SIS05-0467	0x08D11748	32	いたよ！\n＜モンスター名＞だ！\n	There!\nIt's a ＜モンスター名＞!\n	
+SIS05-0468	0x08D11768	52	あと、＜残＞体か…。\nもっとペース上げていくよ！\n	＜残＞ more, huh...\nLet's pick up the pace!\n	
+SIS05-0469	0x08D1179C	60	さあ、ここでの仕事は終わりだよ。\n戻って休もうじゃないか\n	Alright, our work here is done.\nLet's head back and rest.\n	
+SIS05-0470	0x08D117D8	96	うん、やっぱりこうして訓練をしないと\n腕がなまっちまうもんね。\nさあ、目的も果たしたし帰ろうか！	Yep, without training like this\nyour skills just get rusty.\nNow, job's done, let's head back!	
+SIS05-0471	0x08D11838	104	今回の目的は、＜ダンジョン名＞にいる\n＜モンスター名＞の退治よっ！\nちなみに目標は＜数＞体、いいわね？	This time our goal is to wipe out\n＜モンスター名＞ in ＜ダンジョン名＞!\nAnd the target is ＜数＞. Got it?	
+SIS05-0472	0x08D118A0	88	ここにいる魔物を＜数＞体\n退治すりゃいいんでしょ？\nじゃあ、ちゃちゃっとやっちゃうわよ！	We just gotta take out ＜数＞\nof the monsters here, right?\nThen let's get it done in a jiffy!	
+SIS05-0473	0x08D118F8	36	あらっ！\n＜モンスター名＞発見〜♪\n	Ooh!\nFound a ＜モンスター名＞!\n	
+SIS05-0474	0x08D1191C	52	ん〜、まだ＜残＞体残ってるわね。\nんじゃ、次よ次！\n	Hmm, still ＜残＞ left.\nOkay, next, next!\n	
+SIS05-0475	0x08D11950	48	グフフ、目標達成〜★\nさあ、船に戻りましょ！\n	Gufufu, objective complete★\nNow, back to the ship!\n	
+SIS05-0476	0x08D11980	92	あら、目的達成しちゃったの？\nもうちょっと遊んでたいけど、\n目的も果たしたし、帰っちゃう？	Oh, the objective's done already?\nI wanted to play a bit longer,\nbut job's done, so shall we go back?	
+SIS05-0477	0x08D119DC	88	＜モンスター名＞を\n＜ダンジョン名＞で＜数＞体、退治するんだな。\nおっし、行こうぜ！！	So we take out ＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞.\nAlright, let's go!!	
+SIS05-0478	0x08D11A34	76	＜ダンジョン名＞の魔物を＜数＞体\nやっつけるんだな！\nそんなの、楽勝だぜ！	We gotta beat ＜数＞ monsters\nin ＜ダンジョン名＞!\nThat's a piece of cake!	
+SIS05-0479	0x08D11A80	56	よっし、訓練開始だ！\nここの魔物を、＜数＞体狩るぜ！\n	Alright, training starts now!\nWe're huntin' ＜数＞ monsters here!\n	
+SIS05-0480	0x08D11AB8	44	おい、あそこだ。\n＜モンスター名＞がいる！\n	Hey, over there.\nThere's a ＜モンスター名＞!\n	
+SIS05-0481	0x08D11AE4	60	そっちもやる気十分みたいだな。\nそうこなくっちゃ、へへっ\n	Looks like you're all fired up too.\nThat's what I like to see, heh.\n	
+SIS05-0482	0x08D11B20	44	あと、＜残＞体か。\nうん、まだいけるな…\n	＜残＞ more, huh.\nYeah, I can still go...\n	
+SIS05-0483	0x08D11B4C	44	よし、目的も果たせたし\n船に戻るとするか！\n	Okay, objective done.\nLet's head back to the ship!\n	
+SIS05-0484	0x08D11B78	84	魔物も倒せたし、いい訓練にもなったし。\n今日はいい汗かいたよな！\nじゃあ、戻ろうぜ	Beat the monsters, got good training.\nWorked up a good sweat today!\nOkay, let's head back.	
+SIS05-0485	0x08D11BCC	84	あーぁ、油断したかぁ。\nしょうがねえな、俺の負けだ。\nじゃ、勝負も付いたし帰ろうぜ	Aah, I let my guard down.\nCan't be helped, you win.\nWell, it's settled, let's head back.	
+SIS05-0486	0x08D11C20	36	もう一戦やるか？\nいいぜ、来いよ！\n	Wanna go another round?\nSure, bring it on!\n	
+SIS05-0487	0x08D11C44	84	退治するのは、＜ダンジョン名＞にいる\n＜モンスター名＞。\n数は＜数＞体よ、よくって？	The target: ＜モンスター名＞\nin ＜ダンジョン名＞.\nThe count is ＜数＞. Is that clear?	
+SIS05-0488	0x08D11C98	84	＜数＞体、狩るのね…。\nここ、＜ダンジョン名＞にいる魔物を。\nそれじゃ、進みましょう	We hunt ＜数＞, then...\nOf the monsters here in ＜ダンジョン名＞.\nWell then, let's proceed.	
+SIS05-0489	0x08D11CEC	92	では、今日の訓練を始めるわよ。\nここ＜ダンジョン名＞にて、\n魔物を＜数＞体ほど狩りましょう	Now, let us begin today's training.\nHere in ＜ダンジョン名＞,\nlet's hunt about ＜数＞ monsters.	
+SIS05-0490	0x08D11D48	40	＜モンスター名＞よ。\n準備はよくて？\n	A ＜モンスター名＞.\nAre you ready?\n	
+SIS05-0491	0x08D11D70	56	残りは…、あと＜残＞体ね。\nまだ、気を緩められないわよ\n	Remaining... ＜残＞ more.\nWe can't let our guard down yet.\n	
+SIS05-0492	0x08D11DA8	52	さて、戻りましょう。\nあなたのやるべき事は済んだわ\n	Now, let's go back.\nYou've done what you needed to.\n	
+SIS05-0493	0x08D11DDC	60	目標達成よ。\nさあ、戻りましょう。\nいい訓練の機会だったわ	Objective complete.\nNow, let's go back.\nThat was a fine chance to train.	
+SIS05-0494	0x08D11E18	88	＜ダンジョン名＞にいる\n＜モンスター名＞を退治するんだ。\n目標は＜数＞体だ、行くよ！！	We're taking out ＜モンスター名＞\nin ＜ダンジョン名＞.\nThe target is ＜数＞. Let's go!!	
+SIS05-0495	0x08D11E70	80	＜ダンジョン名＞か。\nここの魔物を、＜数＞体狩らなきゃ\nならないんだけど、さて…	＜ダンジョン名＞, huh.\nWe have to hunt ＜数＞ of the monsters\nhere, but now then...	
+SIS05-0496	0x08D11EC0	88	今日の修行は、魔物狩りだ。\nここにいる魔物を＜数＞体狩るよ。\nさあ、始めようじゃないか	Today's training is monster hunting.\nWe'll hunt ＜数＞ of the monsters here.\nNow, let's get started.	
+SIS05-0497	0x08D11F18	44	＜モンスター名＞だよ！\nこのまま行くかい？\n	It's a ＜モンスター名＞!\nShall we keep going?\n	
+SIS05-0498	0x08D11F44	48	残り＜残＞体か…。\nまだ気を引き締めていくよ！\n	＜残＞ left, huh...\nStay sharp, we're not done yet!\n	
+SIS05-0499	0x08D11F74	68	ああ、いい運動になったよ。\nそれじゃ、目的も果たしたし\n戻ろうかね	Ah, that was good exercise.\nWell, the job's done,\nso shall we head back?	
+SIS05-0500	0x08D11FB8	60	充実した修行が出来たよ。\nありがとう。\nそれじゃ、戻ろうかね	That was fulfilling training.\nThank you.\nWell, shall we head back?	
+SIS05-0501	0x08D11FF4	76	＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体討つ。\n行くぞ、遅れるな…	We strike down ＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞.\nLet's go. Don't fall behind...	
+SIS05-0502	0x08D12040	56	この地一帯に住む魔物を狩る。\n数は＜数＞だ。\n行くぞ…	We hunt the monsters in this area.\nThe count is ＜数＞.\nLet's go...	
+SIS05-0503	0x08D12078	76	今日は、修行の為に魔物を狩る。\nここ＜ダンジョン名＞の魔物を、\n＜数＞体狩れ	Today we hunt monsters to train.\nHere in ＜ダンジョン名＞,\nhunt ＜数＞ monsters.	
+SIS05-0504	0x08D120C4	40	＜モンスター名＞だ。\n遅れをとるなよ\n	A ＜モンスター名＞.\nDon't fall behind.\n	
+SIS05-0505	0x08D120EC	40	まだ終わりではない。\n残り＜残＞体だ\n	It's not over yet.\n＜残＞ remain.\n	
+SIS05-0506	0x08D12114	24	用は済んだ。\n戻るぞ…\n	Our business is done.\nWe're going back...\n	
+SIS05-0507	0x08D1212C	52	目標に達した。\nこれ以上、狩る必要はない。\n戻るぞ…	Objective reached.\nNo need to hunt any more.\nWe're going back...	
+SIS05-0508	0x08D12160	76	＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体退治する。\nでは、行くぞ…	We take out ＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞.\nNow, let's go...	
+SIS05-0509	0x08D121AC	68	＜ダンジョン名＞の魔物を\n＜数＞体退治する。\nそれが今回の仕事だ…	We take out ＜数＞ monsters\nin ＜ダンジョン名＞.\nThat's the job this time...	
+SIS05-0510	0x08D121F0	84	この＜ダンジョン名＞にいる魔物を\n狩る…。\n＜数＞体ほど狩ればいい修行になるだろう	We hunt the monsters\nhere in ＜ダンジョン名＞...\nHunting ＜数＞ should be good training.	
+SIS05-0511	0x08D12244	60	＜モンスター名＞がいる。\nこっちから行くぞ。\n…準備をしろ	There's a ＜モンスター名＞.\nWe'll strike first.\n...Get ready.	
+SIS05-0512	0x08D12280	44	呼び出してすまないな。\nでは、早速行くぞ！\n	Sorry for calling you out.\nNow, let's get right to it!\n	
+SIS05-0513	0x08D122AC	40	あと、＜残＞体…。\n狩る必要があるな…\n	＜残＞ more...\nWe still need to hunt them...\n	
+SIS05-0514	0x08D122D4	32	目的は果たした。\n船へ戻るぞ\n	Objective fulfilled.\nBack to the ship.\n	
+SIS05-0515	0x08D122F4	36	これで修行は終わりだ。\n戻るぞ…\n	That ends the training.\nWe're going back...\n	
+SIS05-0516	0x08D12318	80	…いい勝負をさせてもらった。\n自分の実力も確かめられたしな。\nでは、船に戻るぞ	...That was a good match.\nI got to test my own strength, too.\nNow, back to the ship.	
+SIS05-0517	0x08D12368	96	前の勝負では本気を出していなかったな？\nお前の力はそんなものではないはずだ。\nもう一度、来い！	You weren't serious in our last match.\nYou're stronger than that, I know it.\nCome at me again!	
+SIS05-0518	0x08D123C8	88	いいな？　＜ダンジョン名＞で\n＜モンスター名＞を＜数＞体退治だ。\nでは、手早く済ませるぞ	Understood? In ＜ダンジョン名＞, we\ntake out ＜数＞ ＜モンスター名＞.\nNow, let's finish this quickly.	
+SIS05-0519	0x08D12420	76	…＜ダンジョン名＞の魔物を討つ。\n目標数は＜数＞体だ。\nでは、取り掛かるぞ	...We strike the monsters of ＜ダンジョン名＞.\nThe target count is ＜数＞.\nNow, let's get to it.	
+SIS05-0520	0x08D1246C	64	今日はここで修行をする。\n魔物を＜数＞体狩るぞ。\nでは、始めよう	Today we train here.\nWe hunt ＜数＞ monsters.\nNow, let's begin.	
+SIS05-0521	0x08D124AC	48	あれは、＜モンスター名＞、か。\n間違いないな\n	That's a ＜モンスター名＞, is it.\nNo mistake.\n	
+SIS05-0522	0x08D124DC	24	あと、＜残＞体か…\n\n	＜残＞ more, huh...\n\n	
+SIS05-0523	0x08D124F4	60	ふむ、もう終わりか。\nまあいい、今日はここまでだ。\n戻るぞ	Hm, over already?\nVery well, that's enough for today.\nWe're going back.	
+SIS05-0524	0x08D12530	52	よし、今日の修行はここまでだ。\nでは、戻るとしよう\n	Good, that's it for today's training.\nNow, let's head back.\n	
+SIS05-0525	0x08D12564	84	＜ダンジョン名＞にいる\n＜モンスター名＞を退治する。\n今回は＜数＞体、片付ければいい	We take out ＜モンスター名＞\nin ＜ダンジョン名＞.\nThis time, ＜数＞ of them will do.	
+SIS05-0526	0x08D125B8	68	今回の魔物退治は、\nここ＜ダンジョン名＞で行う。\n目標は＜数＞体だ	This monster extermination\ntakes place here in ＜ダンジョン名＞.\nThe target is ＜数＞.	
+SIS05-0527	0x08D125FC	88	魔物を狩って、訓練だ。\nこの＜ダンジョン名＞で、魔物を\n＜数＞体くらい狩ればいいだろう	We train by hunting monsters.\nHunting about ＜数＞ monsters\nin this ＜ダンジョン名＞ should do.	
+SIS05-0528	0x08D12654	36	＜モンスター名＞だ。\n仕留めるぞ！\n	A ＜モンスター名＞.\nLet's take it down!\n	
+SIS05-0529	0x08D12678	36	手加減は必要ない。\nさあ、来い！\n	No need to hold back.\nNow, come!\n	
+SIS05-0530	0x08D1269C	44	残りは…、＜残＞体か。\n早く終わらせるぞ\n	Remaining... ＜残＞, huh.\nLet's finish this fast.\n	
+SIS05-0531	0x08D126C8	44	魔物も無事に仕留めた。\nさあ、船へ帰るぞ\n	The monsters are taken care of.\nNow, back to the ship.\n	
+SIS05-0532	0x08D126F4	68	今日の目標を達成したぞ。\nいい訓練になったな。\nじゃあ、船へ戻ろう	We've reached today's goal.\nThat was good training.\nOkay, back to the ship.	
+SIS05-0533	0x08D12738	100	全く、敵わないな。\nけど、おかげでこっちも強くなれた気がする。\nじゃあ、またいつか勝負してくれよな	Jeez, I'm no match for you.\nBut I feel stronger thanks to you.\nLet's have another match sometime!	
+SIS05-0534	0x08D1279C	60	いい勝負をさせてもらったぜ。\n今度もいい勝負をさせてくれよ\n	That was a good match.\nGive me another good one next time.\n	
+SIS05-0535	0x08D127D8	76	＜ダンジョン名＞に現れる\n＜モンスター名＞を退治する。\n目標数は＜数＞体だ	We take out the ＜モンスター名＞\nthat appear in ＜ダンジョン名＞.\nThe target count is ＜数＞.	
+SIS05-0536	0x08D12824	76	＜ダンジョン名＞の魔物を狩る、か…。\nでは、行こうか。\n＜数＞体、仕留めるぞ	Hunt the monsters of ＜ダンジョン名＞...\nThen let's go.\nWe take down ＜数＞.	
+SIS05-0537	0x08D12870	88	さて、ここで魔物を狩って訓練とする。\n今日は＜数＞体狩るが、無理は禁物だぞ。\nいいな？	Now, we hunt monsters here to train.\nToday it's ＜数＞, but don't overdo it.\nUnderstood?	
+SIS05-0538	0x08D128C8	36	見つけたぞ。\n＜モンスター名＞だ！\n	Found one.\nA ＜モンスター名＞!\n	
+SIS05-0539	0x08D128EC	44	目標まで、あと＜残＞体か。\nでは、進むぞ\n	＜残＞ more to our goal.\nNow, onward.\n	
+SIS05-0540	0x08D12918	68	よし、この仕事は終わりだ。\n早く船に戻って、\n次の仕事に備えるといい	Good, this job is done.\nHurry back to the ship\nand prepare for the next job.	
+SIS05-0541	0x08D1295C	48	うむ、いい訓練になった。\nでは、戻るとしようか\n	Mm, that was good training.\nNow, shall we head back?\n	
+SIS05-0542	0x08D1298C	88	＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体やりゃいいんだろ？\nオラ、早く行けよ！	Just gotta take out ＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞, right?\nOi, hurry up and move!	
+SIS05-0543	0x08D129E4	88	ここにいる魔物を＜数＞体くらい\n適当に退治すりゃいいんだろ？\n早くやって、終わらせようぜ	Just gotta take out ＜数＞ or so\nof the monsters here, right?\nLet's do it fast and be done.	
+SIS05-0544	0x08D12A3C	100	ここの魔物を＜数＞体くらい\nやっちまえば、いい修行になるだろ。\nじゃあ行くぜ。　モタモタすんなよ！	Wreck ＜数＞ or so monsters here\nand that's good training.\nLet's go, then. Don't dawdle!	
+SIS05-0545	0x08D12AA0	52	へっ、見つけたぜ。\nあいつが＜モンスター名＞だろ？\n	Heh, found it.\nThat's a ＜モンスター名＞, right?\n	
+SIS05-0546	0x08D12AD4	76	へっ、待たせんじゃねーよ。\nとっとと勝負しようぜ。\nさあ、どっからでも来な！	Heh, don't keep me waitin'.\nLet's get this fight goin'.\nCome at me any way you like!	
+SIS05-0547	0x08D12B20	48	あと、残り＜残＞体か。\n…ちっ、めんどくせえな\n	＜残＞ more left, huh.\n...Tch, what a pain.\n	
+SIS05-0548	0x08D12B50	56	ようやく終わりか。\nあー、だりぃ…。\nさっさと帰るぞ！	Finally over.\nUgh, what a drag...\nLet's hurry home!	
+SIS05-0549	0x08D12B88	68	はっ、お前もまだまだだな。\nさーて、修行も済んだしとっとと帰ろうぜ\n	Hah, you've got a long way to go.\nTraining's done. Let's beat it.\n	
+SIS05-0550	0x08D12BCC	84	くそっ…、何で負けんだよ…。\n見てろよ、そのうちお前を越えて\n勝って見せるからなっ！	Damn... Why'd I lose...\nJust watch, one day I'll surpass\nyou and win!	
+SIS05-0551	0x08D12C20	72	ヘッ、また来たのかよ。\n何度やったって、俺の勝ちだ。\n来てみやがれ！！	Heh, you came back, huh?\nNo matter how many times, I win.\nBring it on!!	
+SIS05-0552	0x08D12C68	100	＜モンスター名＞、ですか。\n＜ダンジョン名＞にいる奴を、＜数＞体ですね。\nじゃ、手早く済ませましょう	＜モンスター名＞, is it?\nThe ones in ＜ダンジョン名＞, ＜数＞ of them.\nWell, let's finish quickly.	
+SIS05-0553	0x08D12CCC	88	＜ダンジョン名＞で魔物の退治ですか。\n今日のところは、＜数＞体ほど狩れば\nいいでしょう	Monster extermination in ＜ダンジョン名＞?\nFor today, hunting about ＜数＞\nshould suffice.	
+SIS05-0554	0x08D12D24	92	さて、魔物を狩って訓練としましょう。\nそうですね…、\nここの魔物を、＜数＞体せばいいでしょう	Now, let's hunt monsters as training.\nLet's see...\nDefeating ＜数＞ of them should do.	
+SIS05-0555	0x08D12D80	56	おや、そこに見えるのは\n＜モンスター名＞のようですねえ\n	Oh, what I see there looks\nlike a ＜モンスター名＞.\n	
+SIS05-0556	0x08D12DB8	80	残り＜残＞体ですか。\nもう十分の様な気もしてきましたが、\nあと少し頑張りますか	＜残＞ left, is it?\nI'm starting to feel it's enough,\nbut let's push a little more.	
+SIS05-0557	0x08D12E08	96	もう少しやってもいいんですがねえ。\nまあ、目的は果たしましたし、\n今日のところは戻りましょうか	I wouldn't mind doing a bit more.\nWell, the objective is done,\nso let's head back for today.	
+SIS05-0558	0x08D12E68	72	さて、今日の目標は達成しました。\n次は休養が必要です。\n早く戻りましょう	Well, today's goal is achieved.\nNext, rest is needed.\nLet's hurry back.	
+SIS05-0559	0x08D12EB0	92	目的は、＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体退治ですわね。\nでは、参りましょう	Our objective: defeat ＜数＞\n＜モンスター名＞ in ＜ダンジョン名＞.\nNow, let us be off.	
+SIS05-0560	0x08D12F0C	96	今回の仕事は、魔物退治ですわ。\nここ＜ダンジョン名＞にて、魔物を＜数＞体。\nさあ、始めましょう	This job is monster extermination.\nHere in ＜ダンジョン名＞, ＜数＞ monsters.\nNow, let us begin.	
+SIS05-0561	0x08D12F6C	68	今日はここで＜数＞体狩って、\n訓練としますわ。\nでは、行きますわよ！	Today we'll hunt ＜数＞ here\nas our training.\nNow, off we go!	
+SIS05-0562	0x08D12FB0	44	ご覧になって。\n＜モンスター名＞ですわ！\n	Do look.\nIt's a ＜モンスター名＞!\n	
+SIS05-0563	0x08D12FDC	28	残り、＜残＞体ですわよ！\n\n	＜残＞ left to go!\n\n	
+SIS05-0564	0x08D12FF8	52	これで、達成ですわ。\nそれでは、船へ戻りましょう\n	With this, we're done.\nNow, let us return to the ship.\n	
+SIS05-0565	0x08D1302C	80	少しでも、腕を上げられていたら\nよいのですが…。\nさあ、今日はもう戻りましょう	I do hope my skills improved\neven a little...\nNow, let us head back for today.	
+SIS05-0566	0x08D1307C	84	＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体退治、だよな？\nじゃあ、行くか！	Take out ＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞, right?\nAlright, let's go!	
+SIS05-0567	0x08D130D0	100	ええっと、ここを住処にしてる魔物を\n＜数＞体倒すんだったな。\nよし、手当たり次第ぶつかってやるぞ！	Umm, we're beating ＜数＞ of the\nmonsters that live here, right?\nOkay, I'll smash whatever I find!	
+SIS05-0568	0x08D13134	56	さあ、修行だ！\n今日はここで、魔物を＜数＞体\n狩るんだぞ	Okay, training time!\nToday we hunt ＜数＞ monsters\nright here.	
+SIS05-0569	0x08D1316C	36	おっと、＜モンスター名＞発見だ！\n\n	Whoa, spotted a ＜モンスター名＞!\n\n	
+SIS05-0570	0x08D13190	72	お、やっと来たんだ。\nじゃあ、準備はいいな？\nどっちが強いか決めようぜ！	Oh, you finally came.\nSo, you ready?\nLet's settle who's stronger!	
+SIS05-0571	0x08D131D8	48	目標数まで、ええと…。\n残り＜残＞体だったな\n	Until our target, uh...\n＜残＞ left, right?\n	
+SIS05-0572	0x08D13208	52	よし、魔物を討ち取ったぜ。\nじゃあ、船に帰ろう！\n	Alright, monsters taken down.\nOkay, back to the ship!\n	
+SIS05-0573	0x08D1323C	60	へへっ、目標達成！\nいい修行が出来たよ。\nさ、船に戻ろうぜ	Heh, objective complete!\nThat was good training.\nNow, back to the ship.	
+SIS05-0574	0x08D13278	84	いっててて…、強いなあ。\nま、でもいい腕試しだったぜ。\nまた今度、付き合ってくれよ！	Ow ow ow... You're strong.\nBut hey, that was a good test.\nSpar with me again sometime!	
+SIS05-0575	0x08D132CC	64	腕試しってなら、\n何度でもオッケーだぜ。\nさあ、かかって来い！！	If it's a test of skill,\nI'm up for it any time.\nCome on, bring it!!	
+SIS05-0576	0x08D1330C	100	えっと、やんなくちゃいけないのは…、\n＜ダンジョン名＞にいる\n＜モンスター名＞、＜数＞体の退治だね	Um, so what we have to do is...\ndefeat ＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞, right.	
+SIS05-0577	0x08D13370	112	魔物退治かぁ…、それも＜数＞体も…。\nまあ、＜ダンジョン名＞にいる奴を\nどれでも倒していけばいいんだろうけど…	Monster extermination... ＜数＞ of them...\nWell, I guess we just beat any\nof the ones in ＜ダンジョン名＞, but...	
+SIS05-0578	0x08D133E0	104	魔物を狩るなんてあんまり好きじゃないけど、\n修行も必要だしなぁ…。\nじゃあ、今日は目標＜数＞体でいこう	I don't really like hunting monsters,\nbut I do need the training...\nOkay, today's goal is ＜数＞.	
+SIS05-0579	0x08D13448	48	ね、ねえ。\nあれって＜モンスター名＞だよね…？\n	H-hey.\nThat's a ＜モンスター名＞, isn't it...?\n	
+SIS05-0580	0x08D13478	84	ごめん、○○。\n腕試しなんて、君にしか頼めないから。\nじゃ、じゃあ…、早速行くよ！！	Sorry, ○○.\nYou're the only one I can ask to spar.\nW-well then... here I come!!	
+SIS05-0581	0x08D134CC	64	今回の目標まで、あと＜残＞体か。\nはぁ…、早く終わりたいなぁ\n	＜残＞ more till our goal, huh.\nSigh... I want this over with.\n	
+SIS05-0582	0x08D1350C	52	はぁ…、やっと済んだ…。\n僕、早く船に帰りたいよ…\n	Sigh... finally done...\nI wanna get back to the ship...\n	
+SIS05-0583	0x08D13540	80	はぁ…、やっと…目的達成…。\nちょっと今日は無理をしたかなぁ。\n早く戻ろうよ…	Sigh... finally... objective done...\nMaybe I overdid it today.\nLet's hurry back...	
+SIS05-0584	0x08D13590	64	君、本気で来たでしょ…、もう…。\nはぁ………。\n僕、もう帰るよ…	You came at me for real... Jeez...\nSigh.........\nI'm going home...	
+SIS05-0585	0x08D135D0	92	え、ちょっと…怒ってないよね？\nあくまで腕試しだから、少し手加減してね！\nじゃあ、行くよ…	H-hey... you're not mad, are you?\nIt's just a spar, so go easy on me!\nOkay, here I come...	
+SIS05-0586	0x08D1362C	84	チンタラせずに、行くぜ！\n＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体退治だ！	No dawdlin', let's go!\nWe're takin' out ＜数＞\n＜モンスター名＞ in ＜ダンジョン名＞!	
+SIS05-0587	0x08D13680	84	＜ダンジョン名＞で魔物狩りか。\n＜数＞体なんて、適当にやってりゃ\nすぐ達成出来るだろ	Monster huntin' in ＜ダンジョン名＞, huh.\n＜数＞? If we just wing it,\nwe'll be done in no time.	
+SIS05-0588	0x08D136D4	92	今日は、ここにいる魔物を＜数＞体\nやって修行にすんだ。\nよーし、じゃあバッサバッサ散らすぜ！	Today we train by takin' out\n＜数＞ monsters here.\nAlright, I'm gonna mow 'em down!	
+SIS05-0589	0x08D13730	60	おお、こいつ＜モンスター名＞じゃねえ？\nやっちまおうぜ！\n	Whoa, ain't this a ＜モンスター名＞?\nLet's wreck it!\n	
+SIS05-0590	0x08D1376C	36	あと、＜残＞体かよ。\nたりぃーぜ\n	＜残＞ more? Seriously?\nWhat a drag.\n	
+SIS05-0591	0x08D13790	52	あっけねぇの、もう終わりかよ。\nんじゃ、帰ろうぜ！\n	That was nothin', it's over already?\nWell, let's head back!\n	
+SIS05-0592	0x08D137C4	80	おー、なかなかいい修行になったんじゃね？\nんじゃ、用も済んだしとっとと帰ろうぜ\n	Ooh, that was decent training, eh?\nWell, we're done, let's beat it.\n	
+SIS05-0593	0x08D13814	92	＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体…、\n奴らの息の根を止めるのが今回の仕事だ	＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞...\nSilencing them for good is the job.	
+SIS05-0594	0x08D13870	80	さあ、狩りの時間だ。\nここ＜ダンジョン名＞にいる魔物を\n＜数＞体、仕留めるぞ…	Now, it's time to hunt.\nThe monsters here in ＜ダンジョン名＞...\nWe take down ＜数＞ of them...	
+SIS05-0595	0x08D138C0	48	ここの魔物を討つ。\n目標数＜数＞体だ。\n行くぞ…	We strike the monsters here.\nTarget count: ＜数＞.\nLet's go...	
+SIS05-0596	0x08D138F0	48	＜モンスター名＞だ。\n速やかに戦闘態勢に移れ…\n	A ＜モンスター名＞.\nGet into battle stance, now...\n	
+SIS05-0597	0x08D13920	20	残り＜残＞体…\n\n	＜残＞ left...\n\n	
+SIS05-0598	0x08D13934	28	仕事は済んだ。\n帰るぞ…\n	Job's done.\nWe're going back...\n	
+SIS05-0599	0x08D13950	68	訓練と言う程でもなかったな…。\nまあいい、目的は果たした。\n帰るぞ…	Hardly worth calling training...\nWhatever, the objective is done.\nWe're going back...	
+SIS05-0600	0x08D13994	96	今日は、＜ダンジョン名＞で\n＜モンスター名＞を＜数＞体退治すりゃいい。\nさあ、早く済ませようぜ	Today we just take out ＜数＞\n＜モンスター名＞ in ＜ダンジョン名＞.\nNow, let's make it quick.	
+SIS05-0601	0x08D139F4	92	魔物退治ねえ。\nここ＜ダンジョン名＞にはゴマンといるが、\n今回は＜数＞体でいいんだっけか？	Monster huntin', huh.\n＜ダンジョン名＞ here's crawlin' with 'em,\nbut we only need ＜数＞ this time, right?	
+SIS05-0602	0x08D13A50	84	ここにいる魔物を、＜数＞体狩る。\nそれが、今日の修行だ。\nじゃ、始めようじゃねえか	We hunt ＜数＞ of the monsters here.\nThat's today's training.\nWell, let's get started, shall we.	
+SIS05-0603	0x08D13AA4	40	おっと。\n＜モンスター名＞にご対面か\n	Whoa.\nFace to face with a ＜モンスター名＞, huh.\n	
+SIS05-0604	0x08D13ACC	52	やっとご到着か。\nんじゃ、お互い楽しもうじゃないの\n	Finally made it, huh.\nWell then, let's both have some fun.\n	
+SIS05-0605	0x08D13B00	44	残り＜残＞体か。\nまだ終わりそうにねえな…\n	＜残＞ left, huh.\nDoesn't look like it's endin' soon...\n	
+SIS05-0606	0x08D13B2C	44	まあ、こんなもんだな。\nじゃ、帰るとするか\n	Well, that's about it.\nGuess we'll head back.\n	
+SIS05-0607	0x08D13B58	72	よし、こんなもんだな。\nあんたもいい筋してたぜ。\nじゃあ、帰るとするか	Alright, that'll do.\nYou had some good moves too.\nWell, guess we'll head back.	
+SIS05-0608	0x08D13BA0	64	こっちの負け、か。\nま、しょーがねえ。\nもっと腕を磨かねえとな	My loss, huh.\nWell, can't be helped.\nGotta polish my skills more.	
+SIS05-0609	0x08D13BE0	60	さっきの勝負は、もちっと手応えが欲しかったな。\n次は頼むぜ\n	Wanted more of a fight from that match.\nDo better next time, okay?\n	
+SIS05-0610	0x08D13C1C	100	退治するのは、＜ダンジョン名＞にいる\n＜モンスター名＞を、＜数＞体…です？\nそれじゃ、行きましょう！	So we're taking out ＜数＞\n＜モンスター名＞ in ＜ダンジョン名＞... right?\nWell then, let's go!	
+SIS05-0611	0x08D13C80	76	ここ＜ダンジョン名＞にいる魔物を\n倒すんですね。\nええと、数は＜数＞体です	So we defeat the monsters\nhere in ＜ダンジョン名＞.\nUm, the target is ＜数＞ of them.	
+SIS05-0612	0x08D13CCC	80	今日は魔物を狩って修行するんです。\n目標は＜数＞体です。\nそれじゃ、行きましょう	Today we train by hunting monsters.\nThe goal is ＜数＞ of them.\nAlright, let's go!	
+SIS05-0613	0x08D13D1C	40	あっ、います。\n＜モンスター名＞です！\n	Ah, there's one!\nIt's a ＜モンスター名＞!\n	
+SIS05-0614	0x08D13D44	32	これで、残り＜残＞体です！\n\n	That leaves ＜残＞ more!\n\n	
+SIS05-0615	0x08D13D64	56	これで、終わりです。\nじゃあ、皆が待つ船へ帰りましょう\n	That's the end of it.\nBack to the ship, everyone's waiting.\n	
+SIS05-0616	0x08D13D9C	64	大変でしたが、いい修行になりました。\nそれじゃ、戻りましょう\n	That was tough, but great training.\nWell then, let's head back.\n	
+SIS05-0617	0x08D13DDC	96	…ぼ、僕、その……、どれだけ強くなれたか\n腕試しがしたくて…。\nあ、あの…、お願いしますっ！！	...I-I, um... I want to test\nhow much stronger I've gotten...\nP-please, fight me!!	
+SIS05-0618	0x08D13E3C	84	…うう、負けた……。\nちょっとは勝てるかもって思ったけど、\n思い上がりだったよ……	...Ugh, I lost...\nI thought I might win a little,\nbut I was getting ahead of myself...	
+SIS05-0619	0x08D13E90	44	あ、あの…、もう一度…お願いしますっ！！\n\n	U-um... one more... please!!\n\n	
+SIS05-0620	0x08D13EBC	80	いいか？　目標は＜ダンジョン名＞にいる\n＜モンスター名＞、＜数＞体だ。\n進むぞ…	Listen. Our target is in ＜ダンジョン名＞:\n＜モンスター名＞, ＜数＞ of them.\nMove out...	
+SIS05-0621	0x08D13F0C	76	この＜ダンジョン名＞の魔物を討て。\nそうだな、＜数＞体は仕留めなければ…\n	Strike down the monsters in ＜ダンジョン名＞.\nHmm... at least ＜数＞ must be slain...\n	
+SIS05-0622	0x08D13F58	72	ここの魔物を討ち取る。\n＜数＞体ほど狩れば、\n少しは腕磨きになるだろう…	We cut down the monsters here.\nHunting about ＜数＞ of them\nshould hone our skills a little...	
+SIS05-0623	0x08D13FA0	32	＜モンスター名＞だ。\n討つぞ！\n	It's a ＜モンスター名＞.\nTake it down!\n	
+SIS05-0624	0x08D13FC0	36	あと、＜残＞体狩る必要があるな…\n\n	We still need to hunt ＜残＞ more...\n\n	
+SIS05-0625	0x08D13FE4	52	目的は果たした。\nもう、ここに用は無い。\n帰るぞ…	Our objective is complete.\nWe have no more business here.\nWe're going back...	
+SIS05-0626	0x08D14018	72	あれだけ倒せば、少しは鍛えられたろう。\n今日はもう終わりだ。\n戻るぞ…	Felling that many should toughen us.\nThat's enough for today.\nWe're heading back...	
+SIS05-0627	0x08D14060	96	＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体\n倒せばいいんだね！　よし、ガンドコ行こう！	So we just go to ＜ダンジョン名＞\nand beat ＜数＞ of the ＜モンスター名＞!\nAlright, full steam ahead!	
+SIS05-0628	0x08D140C0	104	今回の魔物退治はさ、＜ダンジョン名＞にいる\n魔物なら何でもいいんだ。\n＜数＞体、退治すればいいんだよ！	For this hunt, any monster in ＜ダンジョン名＞\nis fine, see?\nWe just have to beat ＜数＞ of them!	
+SIS05-0629	0x08D14128	96	じゃあ、今日は一緒に修行だよ。\nここにいる魔物を＜数＞体、狩るんだ！\nよーし、ガンドコ行くぞ！！	Today we're training together!\nWe hunt ＜数＞ monsters around here!\nAlright, full steam ahead!!	
+SIS05-0630	0x08D14188	56	ねえねえ、あそこにいるのって\n＜モンスター名＞だよね！\n	Hey, hey, isn't that thing over there\na ＜モンスター名＞?!\n	
+SIS05-0631	0x08D141C0	56	○○と勝負だなんて\nワクワクするな。\nじゃあ、行くよ！！	A match with ○○?\nI'm so excited!\nOkay, here I come!!	
+SIS05-0632	0x08D141F8	56	残り＜残＞体だね！\nよーっし、目標数まで頑張るぞ！！\n	Only ＜残＞ left!\nAlright, let's push on to the target!!\n	
+SIS05-0633	0x08D14230	84	やった！　目標達成だ！！\n○○も、すごく頑張ってたよね！\nそれじゃあ、船へ戻ろうよ	Yay! Goal reached!!\n○○, you worked really hard too!\nNow let's go back to the ship.	
+SIS05-0634	0x08D14284	80	よし、目標達成！\nどうだろう、強くなれたかなぁ？\nそれじゃあ、早く船に帰ろう！	All right, goal reached!\nI wonder... did I get stronger?\nOkay, let's hurry back to the ship!	
+SIS05-0635	0x08D142D4	100	ああ、オレの負けかぁ。\nでも、じいちゃんとの腕試しを思い出したよ。\nうん、楽しかった！　ありがとう！	Aw, I lost, huh.\nBut it was like sparring with Grandpa.\nYeah, that was fun! Thanks!	
+SIS05-0636	0x08D14338	68	やっぱり、○○と勝負をすると\n楽しいよ。\nじゃあ、もう一戦行こう！	Going up against ○○ is always\nso much fun.\nOkay, one more round!	
+SIS05-0637	0x08D1437C	96	騎士団の時と修行の勝手は違うが…。\n今日は、アドリビトム流の修行で\nこの地の魔物を＜数＞体狩るぞ	Training here isn't like the Knights...\nToday we train the Ad Libitum way,\nhunting ＜数＞ monsters in this land.	
+SIS05-0638	0x08D143DC	56	＜モンスター名＞だ！\nみんな、このまま先手を打つぞ！\n	It's a ＜モンスター名＞!\nEveryone, let's strike first!\n	
+SIS05-0639	0x08D14414	72	お前と戦えば、\nもっと強くなれそうな気がするんだ。\nでは、手合いを頼む！	If I fight you,\nI feel I could get even stronger.\nSo, please, spar with me!	
+SIS05-0640	0x08D1445C	20	残り＜残＞体か…\n\n	＜残＞ left, huh...\n\n	
+SIS05-0641	0x08D14470	60	目標に届いたか。\nこれ以上の無理はいけない。\nさあ、戻ろう	We've reached the goal.\nWe shouldn't push it any further.\nCome, let's go back.	
+SIS05-0642	0x08D144AC	64	ありがとう。\nいい勝負を経験出来た。\nじゃあ、船へ戻るとしよう	Thank you.\nThat was a good match.\nNow, let's head back to the ship.	
+SIS05-0643	0x08D144EC	48	それじゃあ、再戦と行こうか。\n準備はいいか？\n	Well then, shall we have a rematch?\nAre you ready?\n	
+SIS05-0644	0x08D1451C	92	今日はね、＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体退治するの。\nそれじゃ、行こっ！	So today, in ＜ダンジョン名＞,\nwe take out ＜数＞ of the ＜モンスター名＞.\nOkay, let's go!	
+SIS05-0645	0x08D14578	92	今日はね、この＜ダンジョン名＞で\n魔物を＜数＞体退治するんだよ。\nさ、いい仕事にしようね！	Today we're beating ＜数＞ monsters\nhere in ＜ダンジョン名＞.\nCome on, let's do a good job!	
+SIS05-0646	0x08D145D4	84	これから、この＜ダンジョン名＞で\n魔物を狩って修行をするよ。\n目標は＜数＞体だよ！	Now we'll train by hunting monsters\nhere in ＜ダンジョン名＞.\nOur goal is ＜数＞ of them!	
+SIS05-0647	0x08D14628	56	○○、見て…。\n＜モンスター名＞よ。\nこのまま行く…？	○○, look...\nIt's a ＜モンスター名＞.\nShall we keep going...?	
+SIS05-0648	0x08D14660	72	ごめんね。\n来てくれてありがとう。\nそれじゃあ、お互い全力で行こうね！	Sorry about this.\nThanks for coming.\nNow, let's both give it our all!	
+SIS05-0649	0x08D146A8	64	あと、残りは＜残＞体…。\n最後まで…、命を架していかなきゃ…\n	Just ＜残＞ more left...\nTo the end... I'll put my life on it...\n	
+SIS05-0650	0x08D146E8	84	無事に終えられてよかった…。\nさあ、戻ろっ。\n戻って、ロックスがいれた紅茶を飲もうよ	I'm glad we finished safely...\nCome on, let's go back.\nLet's go have the tea Rocks brewed!	
+SIS05-0651	0x08D1473C	84	修行の成果、きっと身についているよ。\n真剣に立ち向かえたんだもの…。\nさ…、戻ろう	Your training has surely paid off.\nWe faced them with all our hearts...\nCome... let's go back.	
+SIS05-0652	0x08D14790	92	すごかったよ、あなたの力。\nふふ、いっぱいぶつかり合えて楽しかった！\nじゃあ、船に戻ろっ！	Your strength was amazing.\nHehe, trading blows was a real blast!\nNow, back to the ship!	
+SIS05-0653	0x08D147EC	84	さっきは張り切りすぎたから、\n次は負けちゃうかもなぁ…。\nでも、全力で頑張るね！！	I got too worked up last time,\nso I might lose this one...\nBut I'll do my very best!!	
+SIS05-0654	0x08D151E0	72	かつて英雄とも言われたこの二人！#そんな彼らに挑む命知らずはいないかい？	Once hailed as heroes, it's these two!#Any daredevils out there to take 'em on?	
+SIS05-0655	0x08D1523C	76	仲は悪そうだけど剣の腕は息ぴったり！#どこか似た者同士の二人に挑むのは誰だ！	They may bicker, but their blades sync!#Who'll take on these kindred spirits?!	
+SIS05-0656	0x08D1529C	92	元騎士とホンモノの現役騎士が相手だよ！#さー、観客も楽しみにしてるよ。挑戦者はいないかな？	A former knight and a real, active one!#The crowd's waiting! Any challengers?	
+SIS05-0657	0x08D15308	80	何とッ！　とうとうこの闘技場にも王族が！#この二人に勝てる屈強な挑戦者は誰！？	Whoa! At last, royalty in the Colosseum!#What tough challenger can beat them?!	
+SIS05-0658	0x08D15368	100	世界樹の防人を謳うこの二人。今まで挑んだ者は皆倒れる運命に！#この運命を打ち破る新たな挑戦者は誰だ！	Self-styled guardians of the World Tree!#So far, all fell! Who'll defy that fate?	
+SIS05-0659	0x08D153D8	88	可愛いながらも豪快な剣技をごろうじろ！#挑戦者殺到の人気試合だよ！　申し込みはお早めに！	Cute, yet such bold swordplay! Behold!#Challengers are flocking! Sign up fast!	
+SIS05-0660	0x08D15450	108	メチャクチャな奴らが強い挑戦者を相手に暴れたいらしいんだ！#手に負えないから、誰か大人しくさせてくれよ〜！！	This wild bunch wants a tough fight!#Too wild for us! Someone tame 'em~!!	
+SIS05-0661	0x08D154DC	76	我が闘技場で人気のヒーロー達が相手だよ！#勝てばキミも人気者になれるかも！？	Face our Colosseum's hottest heroes!#Win, and you could be a star too!?	
+SIS05-0662	0x08D15548	80	我が闘技場で人気のビューティ達が相手だよ！#勝てばキミも人気者になれるかも！？	Face our Colosseum's hottest beauties!#Win, and you could be a star too!?	
+SIS05-0663	0x08D155B0	84	異世界からの参加者だよ！#見た事もない技で観客を沸かせるスゴイ奴さ！　挑んでみる？	A fighter from another world!#Never-seen moves wow crowds! Want a go?	
+SIS05-0664	0x08D15610	88	異世界からの参加者だよ！#姿はおっかないけど、構って欲しいシャイな彼さ！　誰が挑むかな？	A fighter from another world!#Scary, shy, and wants a pal! Who's up?	
+SIS05-0665	0x08D15678	72	エターナルソードを手に、時空剣士が参戦だ！#さあ、挑戦するのは誰かい？	Wielding the Eternal Sword, Cress joins!#So, who's gonna take him on?	
+SIS05-0666	0x08D156CC	68	己の剣を相棒として扱う熱い男が参戦だ！#HOTなバトルで魅せてくれよ！	A fiery guy whose partner is his sword!#Show us a HOT battle!	
+SIS05-0667	0x08D15720	72	内なる輝き、極光を秘めし者リッドが参戦だ！#この眩しさにキミは勝てる？	Reid, bearer of the inner Aurora, joins!#Can you outshine his brilliance?	
+SIS05-0668	0x08D15774	88	英雄志願の少年が、更なる高みを目指して参戦だーい！#彼を成長させてくれる挑戦者は誰だッ？	A would-be hero joins, aiming higher!#Which challenger will help him grow?!	
+SIS05-0669	0x08D157E0	84	二刀流の強さを世に知らしめる為に参戦だ！#その剣技を前に、挑戦者はどう出るのか！？	Here to show the world dual-blade power!#How will you face that swordplay?!	
+SIS05-0670	0x08D15840	104	氷の様にクールな男さ！　だけどもハートは誰よりもヒート！#さあ、彼をもっと熱くさせる挑戦者はいないかい？	Cool as ice, but his heart runs hot!#Any challenger to heat him up more?	
+SIS05-0671	0x08D158B4	84	輝くその手で繰り出されるは拳の舞踏！#めくるめく技に相手はたちまちノックアウトさ！	Shining fists unleash a dance of blows!#Dazzling moves mean an instant KO!	
+SIS05-0672	0x08D15918	100	世間知らずなこの彼は、あのアルバート流の使い手さ！#勝てばこの闘技場でも名を馳せられちゃうかもね！	This naive guy wields the Albert style!#Beat him, and you'll make a name here!	
+SIS05-0673	0x08D15988	84	その身体に流れるは、レイモーンの民の野生の血！#さーぁ、誰が彼をてなづけられるかな？	In his veins flows wild Raymon blood!#Now then, who can tame this one?	
+SIS05-0674	0x08D159EC	100	ナヨっとしてるけど、大剣を持てばその強さは鬼神の如し！#豪快なその闘いっぷりに、君は圧倒されるハズ！	Meek, but a fiend with a greatsword!#His wild fighting will blow you away!	
+SIS05-0675	0x08D15A60	84	戦いに赴く時は別の顔！　彼の本当の姿はどっちなの！？#それを暴く挑戦者は一体誰だ！？	Another face in battle! Which is real?!#Which challenger will expose the truth?!	
+SIS05-0676	0x08D15AC4	96	お尋ね者の彼だけど…信じ突き進むは己の正義の道！#さあ、彼の正義とやらにぶつかってみる奴は誰だ！	Wanted, yet he follows his own justice!#Who'll test his so-called justice?!	
+SIS05-0677	0x08D15B34	76	好奇心が彼のパワーの源さ！#ガンドコ突き進む彼の好奇心を満たす相手は誰かな？	Curiosity is the source of his power!#Who'll satisfy his full-steam curiosity?	
+SIS05-0678	0x08D15B8C	72	大切なものを守る為、彼は今日も剣を取る！#現役騎士の彼に挑む者は誰だい？	To protect his own, he draws his sword!#Who'll face this knight on active duty?	
+SIS05-0679	0x08D15BE4	88	あの娘は大剣使いのWAR　HEAD！！#彼女のラヴ・ビートを闘技場に響かせてくれるのは誰！？	She's the greatsword-wielding WAR HEAD!!#Who'll make her Love Beat echo here?!	
+SIS05-0680	0x08D15C4C	80	お玉とまんぼうを手に、キッチンという戦場からやって来た！#エプロン姿で登場だい！	Kitchen warrior with ladle and sunfish!#Here she comes, apron and all!	
+SIS05-0681	0x08D15CA8	80	我が闘技場で不動のチャンピオンさ！#彼のチャンピオンベルトを剥ぎ取るのは誰！？	Our Colosseum's undefeated champion!#Who'll rip away his championship belt?!	
+SIS05-0682	0x08D15D10	76	彼の通った後は骸しか残らない！#奴の強大な破壊力には誰もかなわないのか！？	He leaves nothing but corpses behind!#Can no one match his destructive might?!	
+SIS05-0683	0x08D15D6C	92	チュンチュンよりも速く、キラービーの如く刺す！#闘技場のオーナー・モルモ様がお相手だーい！！	Faster than Chunchun, stings like a bee!#Your foe: Colosseum owner, Lord Mormo!!	
+SIS05-0684	0x08D15DE0	92	小春日和な笑顔とは裏腹に、繰り出す技は花吹雪！#異世界のディセンダーの力に挑むのは誰だ！！	Sweet smile, but a blizzard of petals!#Who'll face this otherworld Descender?!	
+SIS05-0685	0x08D15E50	108	「ワンダーパン職人流パン術免許皆伝」の称号を持つ#あの娘が参戦だい！！　彼女のパン沙雨を食らってみるかい？	Titled 'Master of Wonder Bread Arts',#she's here!! Care for her Bread Barrage?	
+SIS05-0686	0x08D16114	64	イジりイジられ夫婦漫才は最早お家芸！#今日は真剣勝負で参戦だ！	Their bickering-couple comedy is legend!#Today, they're here for a real fight!	
+SIS05-0687	0x08D161B0	68	二人の絆は正義の為に！#正義の道を踏みしめて、二人が闘技場に参戦だ！	Their bond is for the sake of justice!#Treading justice's path, these two join!	
+SIS05-0688	0x08D16238	72	守りたいものを守る為に…。#その願いを胸に、強さを求める二人が参戦だ！	To protect what they hold dear...#This pair seeks strength for that wish!	
+SIS05-0689	0x08D1640C	80	切ない恋に顔で笑って背中で泣いて！#漢コングマンのいいとこ見せたい晴れ舞台だよ！	Lovelorn, all smiles but crying inside!#Manly Kongman's big chance to shine!	
+SIS05-0690	0x08D16624	60	今日だけは彼女の関節技から逃れて！#剛力な二人が参戦だよ！	Today only, safe from her joint locks!#Two powerhouses join the fray!	
+SIS05-0691	0x08D16A64	20	用心棒 兼 保護者	Bodyguard & Guardian	
+SIS05-0692	0x08D16E7C	64	かつては幼馴染だったこの二人、#今はちょっと違う雰囲気で参戦さ！	These two were once childhood friends,#and are back with a different vibe now!	
+SIS05-0693	0x08D16F90	72	兄弟？　いやひょっとして親子？#見た目も腕も息の合った二人が参戦だよ！	Brothers? No, maybe father and son?#Two matched in looks and skill join in!	
+SIS05-0694	0x08D16FEC	76	香ばしいパンとマーボカレーの匂いを引っ下げて！#オイシイ二人の参戦だーい！	Smelling of fresh bread and Mabo Curry!#Here comes a tasty duo!	
+SIS05-0695	0x08D17050	84	プリティなバトルに翻弄されちゃうかも？#ちょっと変り種の武器を扱う二人が参戦だよ！	Their pretty battling may toy with you!#Two with quirky weapons enter the ring!	
+SIS05-0696	0x08D17348	60	今日もお兄ちゃんは戦うぞ！#熱血兄ちゃんの三人が参戦だい！　	Big Bro is fighting again today!#Three hot-blooded big bros join in!	
+SIS05-0697	0x08D17460	92	科学者の戦いの場は学会だけじゃあないんだぞ！！#研究の成果を挑戦者で実験しに三人が参戦だ！	Scientists fight outside academia too!!#Three test their findings on you!	
+SIS05-0698	0x08D175E8	68	息つく暇もない程に！　繰り出す拳は千紫万紅！#格闘娘四人衆が参戦だ！	No time to breathe! A riot of fists!#Four fighting girls join the fray!	
+SIS05-0699	0x08D17730	68	Ｒウォーリアとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Warrior!#Who's reckless enough to try?!	
+SIS05-0700	0x08D17780	68	Ｒフェンサーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Fencer!#Who's reckless enough to try?!	
+SIS05-0701	0x08D177D4	68	Ｒグラップラーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Grappler!#Who's reckless enough to try?!	
+SIS05-0702	0x08D17824	68	Ｒアーチャーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Archer!#Who's reckless enough to try?!	
+SIS05-0703	0x08D17874	64	Ｒシーフとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Thief!#Who's reckless enough to try?!	
+SIS05-0704	0x08D178C4	68	Ｒウィザードとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Wizard!#Who's reckless enough to try?!	
+SIS05-0705	0x08D17914	64	Ｒヒーラーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Healer!#Who's reckless enough to try?!	
+SIS05-0706	0x08D17964	76	Ｒデュアルフェンサーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Dual Fencer!#Who's reckless enough to try?!	
+SIS05-0707	0x08D179C0	72	Ｒラージフェンサーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Large Fencer!#Who's reckless enough to try?!	
+SIS05-0708	0x08D17A18	64	Ｒモンクとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Monk!#Who's reckless enough to try?!	
+SIS05-0709	0x08D17A64	68	Ｒパイレーツとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Pirate!#Who's reckless enough to try?!	
+SIS05-0710	0x08D17ABC	68	Ｒビショップとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Bishop!#Who's reckless enough to try?!	
+SIS05-0711	0x08D17B10	76	Ｒマジックフェンサーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Magic Fencer!#Who's reckless enough to try?!	
+SIS05-0712	0x08D17B68	64	Ｒニンジャとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Ninja!#Who's reckless enough to try?!	
+SIS05-0713	0x08D17BB8	68	Ｒパラディンとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Paladin!#Who's reckless enough to try?!	
+SIS05-0714	0x08D17C0C	64	Ｒガンマンとのバトルを闘技場で再現！#これに挑む命知らずは誰！？	Relive the battle with R Gunman!#Who's reckless enough to try?!	
+SIS05-0715	0x08D17C5C	60	初心者向けのオタオタとのバトルだよ！#腕慣らしにどうだい？	A beginner bout against Polwiggle!#Care for a warm-up?	
+SIS05-0716	0x08D17CAC	64	初心者向けのアックスビークとのバトルだよ！#腕慣らしにどうだい？	A beginner bout against Axe Beak!#Care for a warm-up?	
+SIS05-0717	0x08D17CFC	60	初心者向けのキラービーとのバトルだよ！#腕慣らしにどうだい？	A beginner bout against Killer Bee!#Care for a warm-up?	
+SIS05-0718	0x08D17D44	64	本日用意したのはあのユニセロス！#その輝く角を掴む勝者は誰だ！？	Today we bring you Unicerros!#Who'll win and seize its shining horn?!	
+SIS05-0719	0x08D17D98	72	本日用意したのはあのテンプルガード！#無慈悲な攻撃を打ち破るのは誰だ！？	Today we bring you the Temple Guard!#Who can beat its merciless attacks?!	
+SIS05-0720	0x08D17DEC	76	本日用意したのはあのリヴァイアサン！#状態異常が効かない奴に挑むのは誰だ！？	Today we bring you Leviathan!#No status ailments work! Who'll dare?!	
+SIS05-0721	0x08D17E44	84	本日用意したのはあのエンシェントライガ！#気高き光の獣を手なづけられる者はいるかい？	Today we bring you the Ancient Liger!#Who can tame this noble beast of light?	
+SIS05-0722	0x08D17EAC	80	本日用意したのはあのグロスベルヴァ！#奴の吐く炎から逃れられる者はいるのか！？	Today we bring you Gross Belva!#Can anyone escape its fiery breath?!	
+SIS05-0723	0x08D17F0C	84	オイラのペット、巨大オタオタと勝負してみてくれよ！#油断してると潰されちゃうぞ！！	Take on my pet, the Giant Polwiggle!#Get careless and you'll be squashed!!	
+SIS05-0724	0x08D17F74	88	今日は友達を連れてきたパン！　覚悟するパン！#…と、あのミミー・ブレッドが今日も参上だ！	I brought friends, bun! Get ready, bun!#...says Mimmy Bread, here again today!	
+SIS05-0725	0x08D17FE0	68	今日は観客に魚料理を売って一儲け！#キミの腕で三枚におろしてくれよ！	Today we sell fish dishes to the crowd!#Use your skills to fillet 'em for us!	
+SIS05-0726	0x08D18034	100	今日の闘技場のもう一つのイベントはカニ祭り！#ハラペコの観客が待ってるから、急いで料理しておくれよ！	Today's other event: a Crab Festival!#Hungry fans await, so cook 'em fast!	
+SIS05-0727	0x08D180A8	92	巨大化したプチプリが届いたんだ！#観客を楽しませるいい目玉だろ？　さあ、挑戦者はいないかい？	A giant Petit Puri just arrived!#A crowd-pleaser! Now, any challengers?	
+SIS05-0728	0x08D18114	60	世界中のオタオタを集めたこの試合、#誰が挑戦してくれるかな？	Polwiggles from all over the world!#Who'll take up the challenge?	
+SIS05-0729	0x08D181B0	64	世界中のチュンチュンを集めたこの試合、#誰が挑戦してくれるかな？	Chunchuns from all over the world!#Who'll take up the challenge?	
+SIS05-0730	0x08D18200	60	世界中のバットを集めたこの試合、#誰が挑戦してくれるかな？	Bats from all over the world!#Who'll take up the challenge?	
+SIS05-0731	0x08D1824C	84	世界中のバットを集めたこの試合、好評につき第２弾だよ！#さあ！　誰が挑戦するんだい？	World Bats Round 2, by request!#Come on! Who's taking the challenge?	
+SIS05-0732	0x08D182B4	60	世界中のリザードを集めたこの試合、#誰が挑戦してくれるかな？	Lizards from all over the world!#Who'll take up the challenge?	
+SIS05-0733	0x08D18304	88	世界中のリザードを集めたこの試合、好評につき第２弾だよ！#さあ！　誰が挑戦するんだい？	World Lizards Round 2, by request!#Come on! Who's taking the challenge?	
+SIS05-0734	0x08D18368	76	世界中の怪奇植物を集めたこの試合、#カワイイからって油断すると痛い目あうよ！	Weird plants from all over the world!#Don't let the cuteness fool you - ouch!	
+SIS05-0735	0x08D183C0	96	オイラの衛兵、ゴレム達に勝てる者はいるかい？#ま、そんな奴いるかわかんないけど…相手してみる？	Can anyone beat my guards, the Golems?#Doubt anyone can... but wanna try?	
+SIS05-0736	0x08D18430	60	オイラが捕まえた精霊を相手に、#いっちょ暴れてみないかい？	How 'bout a brawl against the spirits#that I caught myself?	
+SIS05-0737	0x08D1847C	68	オイラが使役する精霊に勝ってみな！#ウフフ、キミに勝てるかなぁ〜？	Beat the spirits I command, if you can!#Heh heh, think you can win~?	
+SIS05-0738	0x08D1CB20	64	テイルズ オブ ジ アビス#終盤戦闘 監修：ナムコ・テイルズスタジオ	Tales of the Abyss#Endgame Battle - Sup. Namco Tales Studio	
+SIS05-0739	0x08D1CB60	64	テイルズ オブ ジ アビス#通常戦闘 監修：ナムコ・テイルズスタジオ	Tales of the Abyss#Normal Battle - Sup. Namco Tales Studio	
+SIS05-0740	0x08D1CBA0	64	テイルズ オブ ジ アビス#中盤戦闘 監修：ナムコ・テイルズスタジオ	Tales of the Abyss#Midgame Battle - Sup. Namco Tales Studio	
+SIS05-0741	0x08D1CBE0	68	テイルズ オブ デスティニー#通常戦闘 監修：ナムコ・テイルズスタジオ	Tales of Destiny#Normal Battle - Sup. Namco Tales Studio	
+SIS05-0742	0x08D1CC24	68	テイルズ オブ デスティニー#リオン戦 監修：ナムコ・テイルズスタジオ	Tales of Destiny#vs. Leon - Sup. Namco Tales Studio	
+SIS05-0743	0x08D1CC68	44	テイルズ オブ デスティニー２#バルバトス戦	Tales of Destiny 2#vs. Barbatos	
+SIS05-0744	0x08D1CC94	40	テイルズ オブ デスティニー２#中ボス戦	Tales of Destiny 2#Mid-Boss Battle	
+SIS05-0745	0x08D1CCBC	40	テイルズ オブ デスティニー２#通常戦闘	Tales of Destiny 2#Normal Battle	
+SIS05-0746	0x08D1CCE4	40	テイルズ オブ デスティニー２#過去戦闘	Tales of Destiny 2#Battle in the Past	
+SIS05-0747	0x08D1CD0C	48	テイルズ オブ デスティニー２#フォルトゥナ戦序盤	Tales of Destiny 2#vs. Fortuna (First Phase)	
+SIS05-0748	0x08D1CD3C	48	テイルズ オブ エターニア#TOP通常戦闘アレンジ	Tales of Eternia#ToP Normal Battle Arrange	
+SIS05-0749	0x08D1CD6C	48	テイルズ オブ エターニア#セレスティア通常戦闘	Tales of Eternia#Celestia Normal Battle	
+SIS05-0750	0x08D1CD9C	68	テイルズ オブ ジ アビス#闘技場戦闘 監修：ナムコ・テイルズスタジオ	Tales of the Abyss#Colosseum - Sup. Namco Tales Studio	
+SIS05-0751	0x08D1CDE0	48	テイルズ オブ エターニア#インフェリア通常戦闘	Tales of Eternia#Inferia Normal Battle	
+SIS05-0752	0x08D1CE10	48	テイルズ オブ エターニア#TOPダオス戦アレンジ	Tales of Eternia#ToP vs. Dhaos Arrange	
+SIS05-0753	0x08D1CE40	52	テイルズ オブ レジェンディア#通常戦闘 編曲：椎名豪	Tales of Legendia#Normal Battle - Arr. Go Shiina	
+SIS05-0754	0x08D1CE74	52	テイルズ オブ レジェンディア#中ボス戦 編曲：椎名豪	Tales of Legendia#Mid-Boss Battle - Arr. Go Shiina	
+SIS05-0755	0x08D1CEA8	36	テイルズ オブ ファンタジア#精霊戦	Tales of Phantasia#vs. Summon Spirits	
+SIS05-0756	0x08D1CECC	36	テイルズ オブ ファンタジア#中ボス戦	Tales of Phantasia#Mid-Boss Battle	
+SIS05-0757	0x08D1CEF0	36	テイルズ オブ ファンタジア#通常戦闘	Tales of Phantasia#Normal Battle	
+SIS05-0758	0x08D1CF14	40	テイルズ オブ リバース#第１部通常戦闘	Tales of Rebirth#Part 1 Normal Battle	
+SIS05-0759	0x08D1CF3C	40	テイルズ オブ リバース#第２部通常戦闘	Tales of Rebirth#Part 2 Normal Battle	
+SIS05-0760	0x08D1CF64	44	テイルズ オブ リバース#ユリスの領域通常戦闘	Tales of Rebirth#Yuris's Domain Normal Battle	
+SIS05-0761	0x08D1CF90	36	テイルズ オブ シンフォニア#天使戦	Tales of Symphonia#vs. Angels	
+SIS05-0762	0x08D1CFB4	40	テイルズ オブ シンフォニア#対人ボス戦	Tales of Symphonia#Human Boss Battle	
+SIS05-0763	0x08D1CFDC	52	テイルズ オブ シンフォニア#シルヴァラント通常戦闘	Tales of Symphonia#Sylvarant Normal Battle	
+SIS05-0764	0x08D1D010	44	テイルズ オブ シンフォニア#テセアラ通常戦闘	Tales of Symphonia#Tethe'alla Normal Battle	
+SIS05-0765	0x08D1D03C	40	テイルズ オブ シンフォニア#クラトス戦 	Tales of Symphonia#vs. Kratos	
+SIS05-0766	0x08D1D064	68	テイルズ オブ ザ テンペスト#通常戦闘 編曲：ナムコ・テイルズスタジオ	Tales of the Tempest#Normal Battle - Arr. Namco Tales Studio	
+SIS05-0767	0x08D1D0A8	68	テイルズ オブ ヴェスペリア#通常戦闘 監修：ナムコ・テイルズスタジオ	Tales of Vesperia#Normal Battle - Sup. Namco Tales Studio	
+SIS05-0768	0x08D1D0EC	52	テイルズ オブ イノセンス#通常戦闘 編曲：中村和宏	Tales of Innocence#Normal Battle - Arr. Kazuhiro Nakamura	
+SIS05-0769	0x08D1D120	76	テイルズ オブ デスティニー２#最終現代戦闘 編曲：ナムコ・テイルズスタジオ	Tales of Destiny 2#Endgame Battle - Arr. Namco Tales Studio	
+SIS05-0770	0x08D1D16C	48	テイルズ オブ イノセンス#ボス戦 編曲：中村和宏	Tales of Innocence#Boss Battle - Arr. Kazuhiro Nakamura	
+SIS05-0771	0x08D1D19C	32	テイルズ オブ リバース#聖獣戦	Tales of Rebirth#vs. Holy Beasts	
+SIS05-0772	0x08D1D1BC	64	テイルズ オブ レジェンディア#メインシナリオボス戦 作曲：椎名豪	Tales of Legendia#Main Story Boss - Comp. Go Shiina	
+SIS05-0773	0x08D1D1FC	76	テイルズ オブ シンフォニア#ユグドラシル戦 編曲：ナムコ・テイルズスタジオ	Tales of Symphonia#vs. Yggdrasill - Arr. Namco Tales Studio	
+SIS05-0774	0x08D1D248	64	テイルズ オブ リバース#四星戦 編曲：ナムコ・テイルズスタジオ	Tales of Rebirth#vs. Four Stars - Arr. Namco Tales Studio	
+SIS05-0775	0x08D1D288	64	テイルズ オブ ジ アビス#ヴァン戦 監修：ナムコ・テイルズスタジオ	Tales of the Abyss#vs. Van - Sup. Namco Tales Studio	
+SIS05-0776	0x08D1D2C8	88	テイルズ オブ シンフォニア -ラタトスクの騎士-#通常戦闘 監修：ナムコ・テイルズスタジオ	ToS: Dawn of the New World#Normal Battle - Sup. Namco Tales Studio	
+SIS05-0777	0x08D1D320	88	テイルズ オブ シンフォニア -ラタトスクの騎士-#最終戦闘 監修：ナムコ・テイルズスタジオ	ToS: Dawn of the New World#Final Battle - Sup. Namco Tales Studio	
+SIS05-0778	0x08D1D378	88	テイルズ オブ シンフォニア -ラタトスクの騎士-#リヒター戦 監修：ナムコ・テイルズスタジオ	ToS: Dawn of the New World#vs. Richter - Sup. Namco Tales Studio	
+SIS05-0779	0x08D1D3D0	68	テイルズ オブ ヴェスペリア#フレン戦 監修：ナムコ・テイルズスタジオ	Tales of Vesperia#vs. Flynn - Sup. Namco Tales Studio	
+SIS05-0780	0x08D1D414	68	テイルズ オブ ヴェスペリア#中盤戦闘 監修：ナムコ・テイルズスタジオ	Tales of Vesperia#Midgame Battle - Sup. Namco Tales Studio	
+SIS05-0781	0x08D1D458	68	テイルズ オブ ヴェスペリア#終盤戦闘 監修：ナムコ・テイルズスタジオ	Tales of Vesperia#Endgame Battle - Sup. Namco Tales Studio	
+SIS05-0782	0x08D1D49C	80	テイルズ オブ ヴェスペリア#ギガントモンスター戦 監修：ナムコ・テイルズスタジオ	Tales of Vesperia#Giganto Battle - Sup. Namco Tales Studio	
+SIS05-0783	0x08D1D4EC	64	テイルズ オブ ハーツ#通常戦闘 編曲：ナムコ・テイルズスタジオ	Tales of Hearts#Normal Battle - Arr. Namco Tales Studio	
+SIS05-0784	0x08D1D52C	68	テイルズ オブ ハーツ#中盤通常戦闘 編曲：ナムコ・テイルズスタジオ	Tales of Hearts#Midgame Battle - Arr. Namco Tales Studio	
+SIS05-0785	0x08D1D570	68	テイルズ オブ ハーツ#終盤通常戦闘 編曲：ナムコ・テイルズスタジオ	Tales of Hearts#Endgame Battle - Arr. Namco Tales Studio	
+SIS05-0786	0x08D1D5B4	76	テイルズ オブ グレイセス#ウィンドル国内戦闘 監修：ナムコ・テイルズスタジオ	Tales of Graces#Windor Battle - Sup. Namco Tales Studio	
+SIS05-0787	0x08D1D600	80	テイルズ オブ グレイセス#ラストダンジョン戦闘 監修：ナムコ・テイルズスタジオ	Tales of Graces#Final Dungeon - Sup. Namco Tales Studio	
+SIS05-0788	0x08D1D650	68	テイルズ オブ グレイセス#中ボス戦 監修：ナムコ・テイルズスタジオ	Tales of Graces#vs. Mid-Boss - Sup. Namco Tales Studio	
+SIS05-0789	0x08D1D694	68	レディアント マイソロジー２＆３ #レディアント戦 作曲／編曲：桜庭統	Radiant Mythology 2 & 3#vs. Radiant - Music: Motoi Sakuraba	
+SIS05-0790	0x08D1D6D8	52	レディアント マイソロジー２#ゲーデ戦 編曲：中村和宏	Radiant Mythology 2#vs. Goede - Arr. Kazuhiro Nakamura	
+SIS05-0791	0x08D1D70C	44	レディアント マイソロジー#ウィダーシン戦	Radiant Mythology#vs. Widdershin	
+SIS05-0792	0x08D1D738	40	レディアント マイソロジー#カノンノ戦	Radiant Mythology#vs. Kanonno	
+SIS05-0793	0x08D1D760	56	レディアント マイソロジー３#通常戦闘 作曲／編曲：桜庭統	Radiant Mythology 3#Normal Battle - Music: Motoi Sakuraba	
+SIS05-0794	0x08D1D798	64	レディアント マイソロジー３#ストーリー戦闘 作曲／編曲：桜庭統	Radiant Mythology 3#Story Battle - Music: Motoi Sakuraba	
+SIS05-0795	0x08D1D7D8	56	レディアント マイソロジー３#中ボス戦 作曲／編曲：桜庭統	Radiant Mythology 3#Mid-Boss Battle - Music: Motoi Sakuraba	
+SIS05-0796	0x08D1D810	60	レディアント マイソロジー３#ラザリス戦 作曲／編曲：桜庭統	Radiant Mythology 3#vs. Lazaris - Music: Motoi Sakuraba	
+SIS05-0797	0x08D1D84C	64	レディアント マイソロジー３#カオスラザリス戦 作曲／編曲：桜庭統	Radiant Mythology 3#Chaos Lazaris - Music: Motoi Sakuraba	
+SIS05-0798	0x08D1E3DC	4	０		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0799	0x08D1E3E0	4	１		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0800	0x08D1E3E4	4	２		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0801	0x08D1E3E8	4	３		fica em japones: marcacao/depuracao/glifo (P-92)
+SIS05-0802	0x08D1E3EC	4	４		fica em japones: marcacao/depuracao/glifo (P-92)

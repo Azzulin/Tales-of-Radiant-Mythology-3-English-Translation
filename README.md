@@ -15,7 +15,16 @@ Verify your dump before patching:
 | Original ISO (`NPJH50353`) | `5D63D1652B851E005D27FE42DB7D6241` |
 
 Apply the patch with [xdelta](https://github.com/jmacd/xdelta-gpl/releases) (or a GUI such as
-Delta Patcher) and play on PPSSPP or a real PSP.
+Delta Patcher) and play on PPSSPP or a real PSP. From `en21` on, the patched ISO is a few MB
+larger than the original. This is expected.
+
+### Before you play
+
+- **Do not use the in-game Data Install** (installing game data to the Memory Stick). The
+  installed copy comes from an encrypted, untranslated package on the disc, so the game would show
+  Japanese text even with the patch applied. If you already installed it, delete
+  `PSP/SAVEDATA/NPJH50353DAT` from your Memory Stick (PPSSPP: `memstick/PSP/SAVEDATA/`).
+- **Infinite loading on PPSSPP** is an emulator issue: turn off the shader cache.
 
 ## Reporting problems
 
@@ -36,6 +45,8 @@ Before opening a new issue, search the existing ones. If your problem is already
 or a comment instead of a duplicate.
 
 ## Repository layout
+
+Everything for this game lives in `PROJETO CLAUDE RM 3/`:
 
 - `RM3/ferramentas/`: Python 3 (stdlib only) tools that parse and rebuild the game's text formats.
 - `RM3/dados/`: extracted string tables and catalogs.

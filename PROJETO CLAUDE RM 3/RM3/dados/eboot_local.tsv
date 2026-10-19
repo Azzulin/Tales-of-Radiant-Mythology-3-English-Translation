@@ -1,0 +1,15 @@
+foff_eboot	original	traducao	nota
+0x4F54F4	あらすじ%d	Synopsis %d	rotulo da lista da tela de Sinopse (P-88); 12 B de espaco, 1 ponteiro so, para o inicio
+0x45789C	？？？	???	P-92: string alcancada so por par lui/lo no codigo, fora de todo lote
+0x4578C4	開く	Open	P-92: string alcancada so por par lui/lo no codigo, fora de todo lote
+0x4578CC	採掘	Mine	P-92: string alcancada so por par lui/lo no codigo, fora de todo lote
+0x4578D4	採取	Gather	P-92: string alcancada so por par lui/lo no codigo, fora de todo lote
+0x4DF99C	%sのレシピ%s	%s Recipe%s	P-92: string alcancada so por par lui/lo no codigo, fora de todo lote
+0x4DF9AC	%dガルド%s	%d Gald%s	P-92: string alcancada so por par lui/lo no codigo, fora de todo lote
+0x4E0B94	？？？	???	P-92: string alcancada so por par lui/lo no codigo, fora de todo lote
+0x4E4630	キャンセル	Cancel	P-92: string alcancada so por par lui/lo no codigo, fora de todo lote
+0x4FB01C	？？？	???	P-92: string alcancada so por par lui/lo no codigo, fora de todo lote
+0x500A88	イベントスキップしますか？	Skip this event?	P-92: string alcancada so por par lui/lo no codigo, fora de todo lote
+0x500AA4	いいえ	No	P-92: string alcancada so por par lui/lo no codigo, fora de todo lote
+0x500AAC	はい	Yes	P-92: string alcancada so por par lui/lo no codigo, fora de todo lote
+0x5316F0	新規セーブデータ	New Save Data	P-92: string alcancada so por par lui/lo no codigo, fora de todo lote

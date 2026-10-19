@@ -1,0 +1,799 @@
+bloco,va_ponteiro,va_string,bytes_jp,traducao,id,original,arena_ini,arena_fim,preserva
+orfa__08B56B58,0x08B59208,0x08B56B58,63,Tales of the Abyss: Late-Game Battle\nSup.: Namco Tales Studio,SIS05-0019,テイルズ オブ ジ アビス\n終盤戦闘 監修：ナムコ・テイルズスタジオ,0x08B56B58,0x08B56B98,1
+orfa__08B56BB8,0x08B59218,0x08B56BB8,63,Tales of the Abyss - Normal Battle\nSup.: Namco Tales Studio,SIS05-0020,テイルズ オブ ジ アビス\n通常戦闘 監修：ナムコ・テイルズスタジオ,0x08B56BB8,0x08B56BF8,1
+orfa__08B56C1C,0x08B59228,0x08B56C1C,63,Tales of the Abyss - Mid-Game Battle\nSup.: Namco Tales Studio,SIS05-0021,テイルズ オブ ジ アビス\n中盤戦闘 監修：ナムコ・テイルズスタジオ,0x08B56C1C,0x08B56C5C,1
+orfa__08B56C78,0x08B59238,0x08B56C78,66,Tales of Destiny - Normal Battle\nSup.: Namco Tales Studio,SIS05-0022,テイルズ オブ デスティニー\n通常戦闘 監修：ナムコ・テイルズスタジオ,0x08B56C78,0x08B56CBC,1
+orfa__08B56CDC,0x08B59248,0x08B56CDC,66,Tales of Destiny\nvs. Leon - Sup.: Namco Tales Studio,SIS05-0023,テイルズ オブ デスティニー\nリオン戦 監修：ナムコ・テイルズスタジオ,0x08B56CDC,0x08B56D20,1
+orfa__08B56D3C,0x08B59258,0x08B56D3C,41,Tales of Destiny 2\nvs. Barbatos,SIS05-0024,テイルズ オブ デスティニー２\nバルバトス戦,0x08B56D3C,0x08B56D68,1
+orfa__08B56D84,0x08B59268,0x08B56D84,37,Tales of Destiny 2\nMid-Boss Battle,SIS05-0025,テイルズ オブ デスティニー２\n中ボス戦,0x08B56D84,0x08B56DAC,1
+orfa__08B56DC8,0x08B59278,0x08B56DC8,37,Tales of Destiny 2\nNormal Battle,SIS05-0026,テイルズ オブ デスティニー２\n通常戦闘,0x08B56DC8,0x08B56DF0,1
+orfa__08B56E08,0x08B59288,0x08B56E08,37,Tales of Destiny 2\nPast Era Battle,SIS05-0027,テイルズ オブ デスティニー２\n過去戦闘,0x08B56E08,0x08B56E30,1
+orfa__08B56E50,0x08B59298,0x08B56E50,47,Tales of Destiny 2\nvs. Fortuna (First Phase),SIS05-0028,テイルズ オブ デスティニー２\nフォルトゥナ戦序盤,0x08B56E50,0x08B56E80,1
+orfa__08B56E9C,0x08B592A8,0x08B56E9C,44,Tales of Eternia\nNormal Battle (ToP Arrange),SIS05-0029,テイルズ オブ エターニア\nTOP通常戦闘アレンジ,0x08B56E9C,0x08B56ECC,1
+orfa__08B56EE8,0x08B592B8,0x08B56EE8,45,Tales of Eternia\nCelestia Normal Battle,SIS05-0030,テイルズ オブ エターニア\nセレスティア通常戦闘,0x08B56EE8,0x08B56F18,1
+orfa__08B56F34,0x08B592C8,0x08B56F34,65,Tales of the Abyss: Colosseum Battle\nSup.: Namco Tales Studio,SIS05-0031,テイルズ オブ ジ アビス\n闘技場戦闘 監修：ナムコ・テイルズスタジオ,0x08B56F34,0x08B56F78,1
+orfa__08B56F34,0x08B59468,0x08B56F34,65,Tales of the Abyss: Colosseum Battle\nSup.: Namco Tales Studio,SIS05-0031,テイルズ オブ ジ アビス\n闘技場戦闘 監修：ナムコ・テイルズスタジオ,0x08B56F34,0x08B56F78,1
+orfa__08B56F94,0x08B592D8,0x08B56F94,45,Tales of Eternia\nInferia Normal Battle,SIS05-0032,テイルズ オブ エターニア\nインフェリア通常戦闘,0x08B56F94,0x08B56FC4,1
+orfa__08B56FDC,0x08B592E8,0x08B56FDC,44,Tales of Eternia\nvs. Dhaos (ToP Arrange),SIS05-0033,テイルズ オブ エターニア\nTOPダオス戦アレンジ,0x08B56FDC,0x08B5700C,1
+orfa__08B57030,0x08B592F8,0x08B57030,50,Tales of Legendia\nNormal Battle - Arr.: Go Shiina,SIS05-0034,テイルズ オブ レジェンディア\n通常戦闘 編曲：椎名豪,0x08B57030,0x08B57064,1
+orfa__08B57080,0x08B59308,0x08B57080,50,Tales of Legendia\nMid-Boss Battle - Arr.: Go Shiina,SIS05-0035,テイルズ オブ レジェンディア\n中ボス戦 編曲：椎名豪,0x08B57080,0x08B570B4,1
+orfa__08B570D8,0x08B59318,0x08B570D8,33,Tales of Phantasia\nSummon Spirit Battle,SIS05-0036,テイルズ オブ ファンタジア\n精霊戦,0x08B570D8,0x08B570FC,1
+orfa__08B57120,0x08B59328,0x08B57120,35,Tales of Phantasia\nMid-Boss Battle,SIS05-0037,テイルズ オブ ファンタジア\n中ボス戦,0x08B57120,0x08B57144,1
+orfa__08B57164,0x08B59338,0x08B57164,35,Tales of Phantasia\nNormal Battle,SIS05-0038,テイルズ オブ ファンタジア\n通常戦闘,0x08B57164,0x08B57188,1
+orfa__08B571A8,0x08B59348,0x08B571A8,37,Tales of Rebirth\nNormal Battle (Part 1),SIS05-0039,テイルズ オブ リバース\n第１部通常戦闘,0x08B571A8,0x08B571D0,1
+orfa__08B571E8,0x08B59358,0x08B571E8,37,Tales of Rebirth\nNormal Battle (Part 2),SIS05-0040,テイルズ オブ リバース\n第２部通常戦闘,0x08B571E8,0x08B57210,1
+orfa__08B5722C,0x08B59368,0x08B5722C,43,Tales of Rebirth\nNormal Battle (Yuris's Domain),SIS05-0041,テイルズ オブ リバース\nユリスの領域通常戦闘,0x08B5722C,0x08B57258,1
+orfa__08B57274,0x08B59378,0x08B57274,33,Tales of Symphonia\nAngel Battle,SIS05-0042,テイルズ オブ シンフォニア\n天使戦,0x08B57274,0x08B57298,1
+orfa__08B572B0,0x08B59388,0x08B572B0,37,Tales of Symphonia\nHuman Boss Battle,SIS05-0043,テイルズ オブ シンフォニア\n対人ボス戦,0x08B572B0,0x08B572D8,1
+orfa__08B572F0,0x08B59398,0x08B572F0,49,Tales of Symphonia\nSylvarant Normal Battle,SIS05-0044,テイルズ オブ シンフォニア\nシルヴァラント通常戦闘,0x08B572F0,0x08B57324,1
+orfa__08B57348,0x08B593A8,0x08B57348,43,Tales of Symphonia\nTethe'alla Normal Battle,SIS05-0045,テイルズ オブ シンフォニア\nテセアラ通常戦闘,0x08B57348,0x08B57374,1
+orfa__08B57398,0x08B593B8,0x08B57398,38,Tales of Symphonia\nvs. Kratos,SIS05-0046,テイルズ オブ シンフォニア\nクラトス戦 ,0x08B57398,0x08B573C0,1
+orfa__08B573D4,0x08B593C8,0x08B573D4,67,Tales of the Tempest - Normal Battle\nArr.: Namco Tales Studio,SIS05-0047,テイルズ オブ ザ テンペスト\n通常戦闘 編曲：ナムコ・テイルズスタジオ,0x08B573D4,0x08B57418,1
+orfa__08B57430,0x08B593D8,0x08B57430,66,Tales of Vesperia - Normal Battle\nSup.: Namco Tales Studio,SIS05-0048,テイルズ オブ ヴェスペリア\n通常戦闘 監修：ナムコ・テイルズスタジオ,0x08B57430,0x08B57474,1
+orfa__08B57494,0x08B593E8,0x08B57494,48,Tales of Innocence - Normal Battle\nArr.: Kazuhiro Nakamura,SIS05-0049,テイルズ オブ イノセンス\n通常戦闘 編曲：中村和宏,0x08B57494,0x08B574C8,1
+orfa__08B574E8,0x08B593F8,0x08B574E8,72,ToD2: Final Present-Day Battle\nArr.: Namco Tales Studio,SIS05-0050,テイルズ オブ デスティニー２\n最終現代戦闘 編曲：ナムコ・テイルズスタジオ,0x08B574E8,0x08B57534,1
+orfa__08B57554,0x08B59408,0x08B57554,46,Tales of Innocence - Boss Battle\nArr.: Kazuhiro Nakamura,SIS05-0051,テイルズ オブ イノセンス\nボス戦 編曲：中村和宏,0x08B57554,0x08B57584,1
+orfa__08B5759C,0x08B59418,0x08B5759C,29,Tales of Rebirth\nHoly Beast Battle,SIS05-0052,テイルズ オブ リバース\n聖獣戦,0x08B5759C,0x08B575BC,1
+orfa__08B575D4,0x08B59428,0x08B575D4,62,Tales of Legendia\nStory Boss Battle - Comp.: Go Shiina,SIS05-0053,テイルズ オブ レジェンディア\nメインシナリオボス戦 作曲：椎名豪,0x08B575D4,0x08B57614,1
+orfa__08B57638,0x08B59438,0x08B57638,72,Tales of Symphonia - vs. Yggdrasill\nArr.: Namco Tales Studio,SIS05-0054,テイルズ オブ シンフォニア\nユグドラシル戦 編曲：ナムコ・テイルズスタジオ,0x08B57638,0x08B57684,1
+orfa__08B576AC,0x08B59448,0x08B576AC,60,Tales of Rebirth: vs. the Four Stars\nArr.: Namco Tales Studio,SIS05-0055,テイルズ オブ リバース\n四星戦 編曲：ナムコ・テイルズスタジオ,0x08B576AC,0x08B576EC,1
+orfa__08B57710,0x08B59458,0x08B57710,63,Tales of the Abyss\nvs. Van - Sup.: Namco Tales Studio,SIS05-0056,テイルズ オブ ジ アビス\nヴァン戦 監修：ナムコ・テイルズスタジオ,0x08B57710,0x08B57750,1
+orfa__08B57790,0x08B59478,0x08B57790,85,Dawn of the New World: Normal Battle\nSup.: Namco Tales Studio,SIS05-0057,テイルズ オブ シンフォニア -ラタトスクの騎士-\n通常戦闘 監修：ナムコ・テイルズスタジオ,0x08B57790,0x08B577E8,1
+orfa__08B577FC,0x08B59488,0x08B577FC,85,Dawn of the New World: Final Battle\nSup.: Namco Tales Studio,SIS05-0058,テイルズ オブ シンフォニア -ラタトスクの騎士-\n最終戦闘 監修：ナムコ・テイルズスタジオ,0x08B577FC,0x08B57854,1
+orfa__08B5787C,0x08B59498,0x08B5787C,87,Dawn of the New World: vs. Richter\nSup.: Namco Tales Studio,SIS05-0059,テイルズ オブ シンフォニア -ラタトスクの騎士-\nリヒター戦 監修：ナムコ・テイルズスタジオ,0x08B5787C,0x08B578D4,1
+orfa__08B578F0,0x08B594A8,0x08B578F0,66,Tales of Vesperia\nvs. Flynn - Sup.: Namco Tales Studio,SIS05-0060,テイルズ オブ ヴェスペリア\nフレン戦 監修：ナムコ・テイルズスタジオ,0x08B578F0,0x08B57934,1
+orfa__08B57954,0x08B594B8,0x08B57954,66,Tales of Vesperia - Mid-Game Battle\nSup.: Namco Tales Studio,SIS05-0061,テイルズ オブ ヴェスペリア\n中盤戦闘 監修：ナムコ・テイルズスタジオ,0x08B57954,0x08B57998,1
+orfa__08B579B0,0x08B594C8,0x08B579B0,66,Tales of Vesperia - Late-Game Battle\nSup.: Namco Tales Studio,SIS05-0062,テイルズ オブ ヴェスペリア\n終盤戦闘 監修：ナムコ・テイルズスタジオ,0x08B579B0,0x08B579F4,1
+orfa__08B57A14,0x08B594D8,0x08B57A14,78,Tales of Vesperia - vs. Gigantos\nSup.: Namco Tales Studio,SIS05-0063,テイルズ オブ ヴェスペリア\nギガントモンスター戦 監修：ナムコ・テイルズスタジオ,0x08B57A14,0x08B57A64,1
+orfa__08B57A84,0x08B594E8,0x08B57A84,60,Tales of Hearts - Normal Battle\nArr.: Namco Tales Studio,SIS05-0064,テイルズ オブ ハーツ\n通常戦闘 編曲：ナムコ・テイルズスタジオ,0x08B57A84,0x08B57AC4,1
+orfa__08B57AD0,0x08B594F4,0x08B57AD0,20,"Soma Link, Activate!!",SIS05-0065,発動、ソーマリンク!!,0x08B57AD0,0x08B57AE8,1
+orfa__08B57AE8,0x08B594F8,0x08B57AE8,64,Tales of Hearts - Mid-Game Battle\nArr.: Namco Tales Studio,SIS05-0066,テイルズ オブ ハーツ\n中盤通常戦闘 編曲：ナムコ・テイルズスタジオ,0x08B57AE8,0x08B57B2C,1
+orfa__08B57B4C,0x08B59508,0x08B57B4C,64,Tales of Hearts - Late-Game Battle\nArr.: Namco Tales Studio,SIS05-0067,テイルズ オブ ハーツ\n終盤通常戦闘 編曲：ナムコ・テイルズスタジオ,0x08B57B4C,0x08B57B90,1
+orfa__08B57BB0,0x08B59518,0x08B57BB0,74,Tales of Graces - Battle in Windor\nSup.: Namco Tales Studio,SIS05-0068,テイルズ オブ グレイセス\nウィンドル国内戦闘 監修：ナムコ・テイルズスタジオ,0x08B57BB0,0x08B57BFC,1
+orfa__08B57C14,0x08B59528,0x08B57C14,76,Tales of Graces: Last Dungeon Battle\nSup.: Namco Tales Studio,SIS05-0069,テイルズ オブ グレイセス\nラストダンジョン戦闘 監修：ナムコ・テイルズスタジオ,0x08B57C14,0x08B57C64,1
+orfa__08B57C84,0x08B59538,0x08B57C84,64,Tales of Graces - Mid-Boss Battle\nSup.: Namco Tales Studio,SIS05-0070,テイルズ オブ グレイセス\n中ボス戦 監修：ナムコ・テイルズスタジオ,0x08B57C84,0x08B57CC8,1
+orfa__08B57CE4,0x08B59548,0x08B57CE4,66,Radiant Mythology 2 & 3: vs. Radiant\nComp./Arr.: Motoi Sakuraba,SIS05-0071,レディアント マイソロジー２＆３ \nレディアント戦 作曲／編曲：桜庭統,0x08B57CE4,0x08B57D28,1
+orfa__08B57D48,0x08B59558,0x08B57D48,51,Radiant Mythology 2\nvs. Goede - Arr.: Kazuhiro Nakamura,SIS05-0072,レディアント マイソロジー２\nゲーデ戦 編曲：中村和宏,0x08B57D48,0x08B57D7C,1
+orfa__08B57D94,0x08B59568,0x08B57D94,40,Radiant Mythology\nvs. Widdershin,SIS05-0073,レディアント マイソロジー\nウィダーシン戦,0x08B57D94,0x08B57DC0,1
+orfa__08B57DD8,0x08B59578,0x08B57DD8,36,Radiant Mythology\nvs. Kanonno,SIS05-0074,レディアント マイソロジー\nカノンノ戦,0x08B57DD8,0x08B57E00,1
+orfa__08B57E20,0x08B59588,0x08B57E20,55,Radiant Mythology 3 - Normal Battle\nComp./Arr.: Motoi Sakuraba,SIS05-0075,レディアント マイソロジー３\n通常戦闘 作曲／編曲：桜庭統,0x08B57E20,0x08B57E58,1
+orfa__08B57E74,0x08B59598,0x08B57E74,61,Radiant Mythology 3 - Story Battle\nComp./Arr.: Motoi Sakuraba,SIS05-0076,レディアント マイソロジー３\nストーリー戦闘 作曲／編曲：桜庭統,0x08B57E74,0x08B57EB4,1
+orfa__08B57ED0,0x08B595A8,0x08B57ED0,55,Radiant Mythology 3: Mid-Boss Battle\nComp./Arr.: Motoi Sakuraba,SIS05-0077,レディアント マイソロジー３\n中ボス戦 作曲／編曲：桜庭統,0x08B57ED0,0x08B57F08,1
+orfa__08B57F20,0x08B595B8,0x08B57F20,57,Radiant Mythology 3 - vs. Lazaris\nComp./Arr.: Motoi Sakuraba,SIS05-0078,レディアント マイソロジー３\nラザリス戦 作曲／編曲：桜庭統,0x08B57F20,0x08B57F5C,1
+orfa__08B57F7C,0x08B595C8,0x08B57F7C,63,Radiant Mythology 3: Chaos Lazaris\nComp./Arr.: Motoi Sakuraba,SIS05-0079,レディアント マイソロジー３\nカオスラザリス戦 作曲／編曲：桜庭統,0x08B57F7C,0x08B57FBC,1
+orfa__08B57FD4,0x08B595D8,0x08B57FD4,70,Tales of Eternia - Mt. Farlos\nArr.: Namco Tales Studio,SIS05-0080,テイルズ オブ エターニア\n霊峰ファロース 編曲：ナムコ・テイルズスタジオ,0x08B57FD4,0x08B5801C,1
+orfa__08B5803C,0x08B595E8,0x08B5803C,58,Tales of Legendia\nEarth Monument - Comp.: Go Shiina,SIS05-0081,テイルズ オブ レジェンディア\n地のモニュメント 作曲：椎名豪,0x08B5803C,0x08B58078,1
+orfa__08B58094,0x08B595F8,0x08B58094,70,Tales of Phantasia - Morlia Mine\nArr.: Namco Tales Studio,SIS05-0082,テイルズ オブ ファンタジア\nモーリア坑道 編曲：ナムコ・テイルズスタジオ,0x08B58094,0x08B580DC,1
+orfa__08B580FC,0x08B59608,0x08B580FC,74,Tales of Symphonia - Toize Valley\nArr.: Namco Tales Studio,SIS05-0083,テイルズ オブ シンフォニア\nトイズバレー鉱山 編曲：ナムコ・テイルズスタジオ,0x08B580FC,0x08B58148,1
+orfa__08B58164,0x08B59618,0x08B58164,66,Tales of Eternia - Fire Craymel Vale\nArr.: Namco Tales Studio,SIS05-0084,テイルズ オブ エターニア\n火晶霊の谷 編曲：ナムコ・テイルズスタジオ,0x08B58164,0x08B581A8,1
+orfa__08B581C4,0x08B59628,0x08B581C4,67,Tales of the Abyss - Mt. Zaleho\nSup.: Namco Tales Studio,SIS05-0085,テイルズ オブ ジ アビス\nザレッホ火山 監修：ナムコ・テイルズスタジオ,0x08B581C4,0x08B58208,1
+orfa__08B58220,0x08B59638,0x08B58220,66,Tales of Eternia - Ice Craymel Peak\nArr.: Namco Tales Studio,SIS05-0086,テイルズ オブ エターニア\n氷晶霊の山 編曲：ナムコ・テイルズスタジオ,0x08B58220,0x08B58264,1
+orfa__08B5827C,0x08B59648,0x08B5827C,66,Tales of Phantasia - Ice Cave\nArr.: Namco Tales Studio,SIS05-0087,テイルズ オブ ファンタジア\n氷の洞窟 編曲：ナムコ・テイルズスタジオ,0x08B5827C,0x08B582C0,1
+orfa__08B582DC,0x08B59658,0x08B582DC,50,Tales of Legendia\nCrystal Forest - Comp.: Go Shiina,SIS05-0088,テイルズ オブ レジェンディア\n水晶の森 作曲：椎名豪,0x08B582DC,0x08B58310,1
+orfa__08B58330,0x08B59668,0x08B58330,70,Tales of Destiny 2 - Ragna Ruins\nArr.: Namco Tales Studio,SIS05-0089,テイルズ オブ デスティニー２\nラグナ遺跡 編曲：ナムコ・テイルズスタジオ,0x08B58330,0x08B58378,1
+orfa__08B5839C,0x08B59678,0x08B5839C,69,Tales of the Abyss - Aramis Spring\nSup.: Namco Tales Studio,SIS05-0090,テイルズ オブ ジ アビス\nアラミス湧水洞 監修：ナムコ・テイルズスタジオ,0x08B5839C,0x08B583E4,1
+orfa__08B58400,0x08B59688,0x08B58400,66,Tales of Phantasia - Waterway\nArr.: Namco Tales Studio,SIS05-0091,テイルズ オブ ファンタジア\n地下水路 編曲：ナムコ・テイルズスタジオ,0x08B58400,0x08B58444,1
+orfa__08B58464,0x08B59698,0x08B58464,78,Tales of Vesperia - Keiv Moc Woods\nSup.: Namco Tales Studio,SIS05-0092,テイルズ オブ ヴェスペリア\nケーブ・モック大森林 監修：ナムコ・テイルズスタジオ,0x08B58464,0x08B584B4,1
+orfa__08B584D4,0x08B596A8,0x08B584D4,91,Dawn of the New World: Gaoracchia\nSup.: Namco Tales Studio,SIS05-0093,テイルズ オブ シンフォニア -ラタトスクの騎士-\nガオラキアの森 監修：ナムコ・テイルズスタジオ,0x08B584D4,0x08B58530,1
+orfa__08B5854C,0x08B596B8,0x08B5854C,78,Tales of Destiny 2 - Straylize Ruins\nArr.: Namco Tales Studio,SIS05-0094,テイルズ オブ デスティニー２\nストレイライズ遺跡 編曲：ナムコ・テイルズスタジオ,0x08B5854C,0x08B5859C,1
+orfa__08B585B4,0x08B596C8,0x08B585B4,63,Tales of the Abyss - Zao Ruins\nSup.: Namco Tales Studio,SIS05-0095,テイルズ オブ ジ アビス\nザオ遺跡 監修：ナムコ・テイルズスタジオ,0x08B585B4,0x08B585F4,1
+orfa__08B5860C,0x08B596D8,0x08B5860C,46,Tales of Innocence\nSky Castle - Arr.: Kazuhiro Nakamura,SIS05-0096,テイルズ オブ イノセンス\n天空城 編曲：中村和宏,0x08B5860C,0x08B5863C,1
+orfa__08B58650,0x08B596E8,0x08B58650,66,Tales of Rebirth - Yuris's Domain\nArr.: Namco Tales Studio,SIS05-0097,テイルズ オブ リバース\nユリスの領域 編曲：ナムコ・テイルズスタジオ,0x08B58650,0x08B58694,1
+orfa__08B586B0,0x08B596F8,0x08B586B0,62,Tales of Hearts - Wasteland of Death\nArr.: Namco Tales Studio,SIS05-0098,テイルズ オブ ハーツ\n落命の荒野 編曲：ナムコ・テイルズスタジオ,0x08B586B0,0x08B586F0,1
+orfa__08B58708,0x08B59708,0x08B58708,72,Tales of Destiny 2 - Heat River\nArr.: Namco Tales Studio,SIS05-0099,テイルズ オブ デスティニー２\nヒートリバー 編曲：ナムコ・テイルズスタジオ,0x08B58708,0x08B58754,1
+orfa__08B58770,0x08B59718,0x08B58770,65,Radiant Mythology 3\nElan Vital - Comp./Arr.: Go Shiina,SIS05-0100,レディアント マイソロジー３\nエラン・ヴィタール 作曲／編曲：椎名豪,0x08B58770,0x08B587B4,1
+orfa__08B587C0,0x08B59724,0x08B587C0,23,MORLIA GALLERY -Memories-,SIS05-0101,MORLIA GALLERY 〜追憶〜,0x08B587C0,0x08B587D8,1
+orfa__08B587D8,0x08B59728,0x08B587D8,82,"Tales of Phantasia ""MORLIA GALLERY""\nArr.: Namco Tales Studio",SIS05-0102,原典：テイルズ オブ ファンタジア\n「MORLIA GALLERY」 編曲：ナムコ・テイルズスタジオ,0x08B587D8,0x08B5882C,1
+orfa__08B58840,0x08B59738,0x08B58840,72,Tales of Eternia - Aibird Flight\nArr.: Namco Tales Studio,SIS05-0103,テイルズ オブ エターニア\nアイバード飛行中 編曲：ナムコ・テイルズスタジオ,0x08B58840,0x08B5888C,1
+orfa__08B588B0,0x08B59748,0x08B588B0,48,Tales of Innocence\nGarpos - Arr.: Kazuhiro Nakamura,SIS05-0104,テイルズ オブ イノセンス\nガルポス 編曲：中村和宏,0x08B588B0,0x08B588E4,1
+orfa__08B58900,0x08B59758,0x08B58900,80,Tales of Eternia - Van Eltia Theme\nArr.: Namco Tales Studio,SIS05-0105,テイルズ オブ エターニア\nバンエルティア号のテーマ 編曲：ナムコ・テイルズスタジオ,0x08B58900,0x08B58954,1
+orfa__08B58978,0x08B59768,0x08B58978,60,Tales of Legendia\nWerites Beacon - Comp.: Go Shiina,SIS05-0106,テイルズ オブ レジェンディア\n灯台の街ウェルテス 作曲：椎名豪,0x08B58978,0x08B589B8,1
+orfa__08B589D4,0x08B59778,0x08B589D4,56,Tales of Legendia\nMofumofu Village - Comp.: Go Shiina,SIS05-0107,テイルズ オブ レジェンディア\nモフモフ族の村 作曲：椎名豪,0x08B589D4,0x08B58A10,1
+orfa__08B58A28,0x08B59788,0x08B58A28,45,Tales of Destiny 2\nBarbatos Theme,SIS05-0108,テイルズ オブ デスティニー２\nバルバトステーマ,0x08B58A28,0x08B58A58,1
+orfa__08B58A6C,0x08B59798,0x08B58A6C,61,Tales of the Abyss\nColosseum - Sup.: Namco Tales Studio,SIS05-0109,テイルズ オブ ジ アビス\n闘技場 監修：ナムコ・テイルズスタジオ,0x08B58A6C,0x08B58AAC,1
+orfa__08B58ACC,0x08B597A8,0x08B58ACC,80,Tales of Destiny 2 - Leon Flashback\nArr.: Namco Tales Studio,SIS05-0110,テイルズ オブ デスティニー２\nリオン（回想）テーマ 編曲：ナムコ・テイルズスタジオ,0x08B58ACC,0x08B58B20,1
+orfa__08B58B3C,0x08B597B8,0x08B58B3C,64,Tales of Rebirth - Four Stars Theme\nArr.: Namco Tales Studio,SIS05-0111,テイルズ オブ リバース\n四星テーマ 編曲：ナムコ・テイルズスタジオ,0x08B58B3C,0x08B58B80,1
+orfa__08B58BAC,0x08B597C8,0x08B58BAC,54,Tales of Legendia\nMimmy Theme - Comp.: Go Shiina,SIS05-0112,テイルズ オブ レジェンディア\nミミーテーマ 作曲：椎名豪,0x08B58BAC,0x08B58BE4,1
+orfa__08B58C08,0x08B597D8,0x08B58C08,48,Tales of Innocence\nEvent - Arr.: Kazuhiro Nakamura,SIS05-0113,テイルズ オブ イノセンス\nイベント 編曲：中村和宏,0x08B58C08,0x08B58C3C,1
+orfa__08B58C50,0x08B597E8,0x08B58C50,70,Tales of Symphonia - Mithos Theme\nArr.: Namco Tales Studio,SIS05-0114,テイルズ オブ シンフォニア\nミトステーマ 編曲：ナムコ・テイルズスタジオ,0x08B58C50,0x08B58C98,1
+orfa__08B58CB4,0x08B597F8,0x08B58CB4,72,Tales of Symphonia - Spirit Entrance\nArr.: Namco Tales Studio,SIS05-0115,テイルズ オブ シンフォニア\n精霊登場テーマ 編曲：ナムコ・テイルズスタジオ,0x08B58CB4,0x08B58D00,1
+orfa__08B58D1C,0x08B59808,0x08B58D1C,70,Tales of Phantasia - Dhaos Theme\nArr.: Namco Tales Studio,SIS05-0116,テイルズ オブ ファンタジア\nダオステーマ 編曲：ナムコ・テイルズスタジオ,0x08B58D1C,0x08B58D64,1
+orfa__08B58D70,0x08B59814,0x08B58D70,22,Radiant Mythology No.3,SIS05-0117,Radiant Mythology ＃３,0x08B58D70,0x08B58D88,1
+orfa__08B58D88,0x08B59818,0x08B58D88,40,Radiant Mythology 3\nTitle Screen,SIS05-0118,レディアント マイソロジー３\nタイトル画面,0x08B58D88,0x08B58DB4,1
+orfa__08B58DC0,0x08B59824,0x08B58DC0,22,Welcome to the world!,SIS05-0119,Welcome to the world！,0x08B58DC0,0x08B58DD8,1
+orfa__08B58DD8,0x08B59828,0x08B58DD8,54,Radiant Mythology 3\nCharacter Creation Screen,SIS05-0120,レディアント マイソロジー３\nキャラクターメイキング画面,0x08B58DD8,0x08B58E10,1
+orfa__08B58E34,0x08B59838,0x08B58E34,48,Radiant Mythology 3\nEXTRA Mode Screen,SIS05-0121,レディアント マイソロジー３\nエクストラモード画面,0x08B58E34,0x08B58E68,1
+orfa__08B58E74,0x08B59844,0x08B58E74,21,THEME OF LAZARIS No.1,SIS05-0122,THEME OF LAZARIS ＃１,0x08B58E74,0x08B58E8C,1
+orfa__08B58E8C,0x08B59848,0x08B58E8C,44,Radiant Mythology 3\nLazaris Theme 1,SIS05-0123,レディアント マイソロジー３\nラザリステーマ１,0x08B58E8C,0x08B58EBC,1
+orfa__08B58EC8,0x08B59854,0x08B58EC8,21,THEME OF LAZARIS No.2,SIS05-0124,THEME OF LAZARIS ＃２,0x08B58EC8,0x08B58EE0,1
+orfa__08B58EE0,0x08B59858,0x08B58EE0,44,Radiant Mythology 3\nLazaris Theme 2,SIS05-0125,レディアント マイソロジー３\nラザリステーマ２,0x08B58EE0,0x08B58F10,1
+orfa__08B58F1C,0x08B59864,0x08B58F1C,16,Tiny Concierge,SIS05-0126,Tiｎｙ Concierge,0x08B58F1C,0x08B58F30,1
+orfa__08B58F30,0x08B59868,0x08B58F30,42,Radiant Mythology 3\nRocks Theme,SIS05-0127,レディアント マイソロジー３\nロックステーマ,0x08B58F30,0x08B58F5C,1
+orfa__08B58F78,0x08B59878,0x08B58F78,36,Radiant Mythology 3\nEvent,SIS05-0128,レディアント マイソロジー３\nイベント,0x08B58F78,0x08B58FA0,1
+orfa__08B58F78,0x08B598A8,0x08B58F78,36,Radiant Mythology 3\nEvent,SIS05-0128,レディアント マイソロジー３\nイベント,0x08B58F78,0x08B58FA0,1
+orfa__08B58F78,0x08B598B8,0x08B58F78,36,Radiant Mythology 3\nEvent,SIS05-0128,レディアント マイソロジー３\nイベント,0x08B58F78,0x08B58FA0,1
+orfa__08B58F78,0x08B598C8,0x08B58F78,36,Radiant Mythology 3\nEvent,SIS05-0128,レディアント マイソロジー３\nイベント,0x08B58F78,0x08B58FA0,1
+orfa__08B58F78,0x08B598D8,0x08B58F78,36,Radiant Mythology 3\nEvent,SIS05-0128,レディアント マイソロジー３\nイベント,0x08B58F78,0x08B58FA0,1
+orfa__08B58F78,0x08B598E8,0x08B58F78,36,Radiant Mythology 3\nEvent,SIS05-0128,レディアント マイソロジー３\nイベント,0x08B58F78,0x08B58FA0,1
+orfa__08B58F78,0x08B598F8,0x08B58F78,36,Radiant Mythology 3\nEvent,SIS05-0128,レディアント マイソロジー３\nイベント,0x08B58F78,0x08B58FA0,1
+orfa__08B58F78,0x08B59908,0x08B58F78,36,Radiant Mythology 3\nEvent,SIS05-0128,レディアント マイソロジー３\nイベント,0x08B58F78,0x08B58FA0,1
+orfa__08B58F78,0x08B59918,0x08B58F78,36,Radiant Mythology 3\nEvent,SIS05-0128,レディアント マイソロジー３\nイベント,0x08B58F78,0x08B58FA0,1
+orfa__08B58FC0,0x08B59888,0x08B58FC0,42,Radiant Mythology 3\nKanonno Theme,SIS05-0129,レディアント マイソロジー３\nカノンノテーマ,0x08B58FC0,0x08B58FEC,1
+orfa__08B58FF8,0x08B59894,0x08B58FF8,11,Her Origin,SIS05-0130,Ｈer Origin,0x08B58FF8,0x08B59004,1
+orfa__08B59004,0x08B59898,0x08B59004,52,Radiant Mythology 3\nOriginal Kanonno Theme,SIS05-0131,レディアント マイソロジー３\nオリジナルカノンノテーマ,0x08B59004,0x08B5903C,1
+orfa__08B5914C,0x08B59948,0x08B5914C,97,Radiant Mythology 3 - Ending Theme\nLyr./Comp./Vo.: BACK-ON  Arr.: JIN,SIS05-0132,レディアント マイソロジー３　エンディングテーマソング\n作詞・作曲：BACK-ON  編曲：JIN  歌：BACK-ON,0x08B5914C,0x08B591B0,1
+orfa__08CE0968,0x08D641C8,0x08CE0968,38,Raises the item carry limit to 30.,SIS05-0148,アイテムの所持上限を、30個に増やします,0x08CE0968,0x08CE0990,1
+orfa__08CE09A8,0x08D641DC,0x08CE09A8,38,Raises the item carry limit to 99.,SIS05-0149,アイテムの所持上限を、99個に増やします,0x08CE09A8,0x08CE09D0,1
+orfa__08CF6F38,0x08D65A50,0x08CF6F38,324,"Congratulations on clearing the game!\nSave here to carry over your play data\nand keep playing with bonuses unlocked.\n\n- All data: gear, level, story progress\n- Grade Shop unlocked\n- Hidden dungeon ""Mine of Reminiscence""\n- Title: Savior of Luminasia\n- ""Staff Roll"" track in the Sound Test",SIS05-0150,ゲームクリアおめでとうございます！\nここでセーブを行う事でプレイデータの引き継ぎと\n特典が解放された状態で継続してプレイを行う事ができます。\n\n・装備、プレイヤーレベル、シナリオ進行等のクリア前の全情報\n・グレードショップの解放\n・隠しダンジョン「追憶の坑道」\n・称号：ルミナシアの救世主\n・サウンドテストに「スタッフロール曲」追加,0x08CF6F38,0x08CF7080,1
+orfa__08CF7098,0x08D65A58,0x08CF7098,116,"Return to the title screen?\n*If you don't save here, carryover and\nbonuses won't apply to continued play.",SIS05-0151,タイトルへ戻りますが、よろしいですか？\n※ここでセーブを行わないと継続プレイでの\n引き継ぎと特典の解放は行われません。,0x08CF7098,0x08CF7110,1
+orfa__08CF7130,0x08D65A60,0x08CF7130,6,Max HP,SIS05-0152,最大HP,0x08CF7130,0x08CF7138,1
+orfa__08CF7138,0x08D65A64,0x08CF7138,6,Max TP,SIS05-0153,最大TP,0x08CF7138,0x08CF7140,1
+orfa__08CF7198,0x08D65A88,0x08CF7198,6,Base HP,SIS05-0154,基礎HP,0x08CF7198,0x08CF71A0,1
+orfa__08CF71A0,0x08D65A8C,0x08CF71A0,6,Base TP,SIS05-0155,基礎TP,0x08CF71A0,0x08CF71A8,1
+orfa__08CF724C,0x08D65AC4,0x08CF724C,71,"Raises the wearer's physical attack,\nboosting damage from attacks and artes.",SIS05-0156,装備者の物理攻撃力を上昇させ、\n通常攻撃や技で与えるダメージを増加させる,0x08CF724C,0x08CF7294,1
+orfa__08CF7294,0x08D65AC8,0x08CF7294,59,"Raises the wearer's spell attack,\nboosting damage dealt by spells.",SIS05-0157,装備者の術攻撃力を上昇させ、\n術で与えるダメージを増加させる,0x08CF7294,0x08CF72D0,1
+orfa__08CF72D0,0x08D65ACC,0x08CF72D0,101,"Raises agility: shorter casting time,\nmore crits dealt and fewer crits taken.",SIS05-0158,装備者の敏捷値を上昇させ、詠唱時間の短縮や、\n与えるクリティカルの増加、受けるクリティカルを減少させる,0x08CF72D0,0x08CF7338,1
+orfa__08CF7354,0x08D65AD4,0x08CF7354,71,"Raises the wearer's physical defense,\nreducing damage from attacks and artes.",SIS05-0159,装備者の物理防御力を上昇させ、\n通常攻撃や技で受けるダメージを軽減させる,0x08CF7354,0x08CF739C,1
+orfa__08CF739C,0x08D65AD8,0x08CF739C,59,"Raises the wearer's spell defense,\nreducing damage taken from spells.",SIS05-0160,装備者の術防御力を上昇させ、\n術で受けるダメージを軽減させる,0x08CF739C,0x08CF73D8,1
+orfa__08CF73E8,0x08D65AE0,0x08CF73E8,18,Obtained %s x%d.,SIS05-0161,%sを%d個手に入れた,0x08CF73E8,0x08CF73FC,1
+orfa__08CF73FC,0x08D65AE4,0x08CF73FC,47,Your items are full.\nCould not obtain %s.,SIS05-0162,アイテムが一杯で\n%sを手に入れる事が出来なかった,0x08CF73FC,0x08CF742C,1
+orfa__08CF7440,0x08D65AEC,0x08CF7440,30,Could not obtain %s.,SIS05-0163,%sを手に入れる事が出来なかった,0x08CF7440,0x08CF7460,1
+orfa__08CF7460,0x08D65AF0,0x08CF7460,41,Your equipment is full.\nCould not obtain it.,SIS05-0164,装備品が一杯で\n手に入れる事が出来なかった,0x08CF7460,0x08CF748C,1
+orfa__08CF74B8,0x08D65AFC,0x08CF74B8,11,3F Observation Deck,SIS05-0165,　3F 展望室,0x08CF74B8,0x08CF74C4,1
+orfa__08CF74C4,0x08D65B00,0x08CF74C4,11,2F Bridge,SIS05-0166,　2F 操舵室,0x08CF74C4,0x08CF74D0,1
+orfa__08CF74D0,0x08D65B04,0x08CF74D0,11,1F Hall,SIS05-0167,　1F ホール,0x08CF74D0,0x08CF74DC,1
+orfa__08CF74DC,0x08D65B08,0x08CF74DC,12,B1F Engine Room,SIS05-0168,　B1F 機関室,0x08CF74DC,0x08CF74EC,1
+orfa__08CF74EC,0x08D65B0C,0x08CF74EC,10,B2F Cargo Hold,SIS05-0169,　B2F 船倉,0x08CF74EC,0x08CF74F8,1
+orfa__08CF74F8,0x08D65B10,0x08CF74F8,139,Install data already exists.\nDelete it and create new install data?,SIS05-0170,既にレディアント マイソロジー3のインストールデータが存在します。\nこのインストールデータを削除して、新たなインストールデータを作成しますか？,0x08CF74F8,0x08CF7584,1
+orfa__08CF7584,0x08D65B14,0x08CF7584,85,Install interrupted by Sleep Mode.\nTry again?,SIS05-0171,スリープモードに移行したため、データインストールが中断されました。\nやりなおしますか？,0x08CF7584,0x08CF75DC,1
+orfa__08CF75F8,0x08D65B1C,0x08CF75F8,96,Installing data speeds up loading.\nNeeds media with 569MB+ free space.,SIS05-0172,データインストールを行ない読み込みを高速化します\n569MB以上の空き容量がある記録メディアが必要です,0x08CF75F8,0x08CF765C,1
+orfa__08CF7774,0x08D65B64,0x08CF7774,33,	A class skilled in ranged bow attacks.,SIS05-0173,	弓による遠隔攻撃を得意とする職業,0x08CF7774,0x08CF7798,1
+orfa__08CF7A3C,0x08D65BAC,0x08CF7A3C,73,Change class to %s?\nGear you can't use will be unequipped.,SIS05-0174,%sに転職してよろしいですか？\n転職後に装備出来ない装備は自動的に外されます,0x08CF7A3C,0x08CF7A88,1
+orfa__08CF7A88,0x08D65BB0,0x08CF7A88,16,Class changed to %s.,SIS05-0175,%sに転職しました,0x08CF7A88,0x08CF7A9C,1
+orfa__08CF7B30,0x08D65BC8,0x08CF7B30,69,%s's meal effect is already active.\nOverwrite it with %s?,SIS05-0176,既に%sの料理効果が発生しています\n%sで効果を上書きしてよろしいですか？,0x08CF7B30,0x08CF7B78,1
+orfa__08CF7B78,0x08D65BCC,0x08CF7B78,16,Make %s?,SIS05-0177,%sを作りますか？,0x08CF7B78,0x08CF7B8C,1
+orfa__08CF7B8C,0x08D65BD0,0x08CF7B8C,37,"You cooked %s,\nand it was delicious!",SIS05-0178,%sを料理して、\n美味しくいただきました,0x08CF7B8C,0x08CF7BB4,1
+orfa__08CF7BB4,0x08D65BD4,0x08CF7BB4,20,Made %s x%d.,SIS05-0179,%sを%d個作成しました,0x08CF7BB4,0x08CF7BCC,1
+orfa__08CF7C5C,0x08D65BE8,0x08CF7C5C,24,Swap %s and %s?,SIS05-0180,%sと%sを入れ替えますか？,0x08CF7C5C,0x08CF7C78,1
+orfa__08CF7C78,0x08D65BEC,0x08CF7C78,30,Add %s to the party?,SIS05-0181,%sをパーティに参加させますか？,0x08CF7C78,0x08CF7C98,1
+orfa__08CF7CB4,0x08D65BF4,0x08CF7CB4,53,Can't disband: a character needed\nfor the quest is in the party.,SIS05-0182,クエストに必要なキャラクターが\nいるので解散出来ません,0x08CF7CB4,0x08CF7CEC,1
+orfa__08CF7D04,0x08D65BFC,0x08CF7D04,26,%s left the party.,SIS05-0183,%sがパーティから抜けました,0x08CF7D04,0x08CF7D20,1
+orfa__08CF7D20,0x08D65C00,0x08CF7D20,59,Characters needed for the request\ncan't be removed from the party.,SIS05-0184,依頼に必要なキャラクターを\nパーティから外すことはできません,0x08CF7D20,0x08CF7D5C,1
+orfa__08CF7D7C,0x08D65C08,0x08CF7D7C,45,The player can't be\nremoved from the party.,SIS05-0185,プレイヤーを\nパーティから外すことはできません,0x08CF7D7C,0x08CF7DAC,1
+orfa__08CF7DAC,0x08D65C0C,0x08CF7DAC,28,Remove %s from the party?,SIS05-0186,%sをパーティから外しますか？,0x08CF7DAC,0x08CF7DCC,1
+orfa__08CF7DCC,0x08D65C10,0x08CF7DCC,26,Unequip all of %s's gear?,SIS05-0187,%sの装備を全て外しますか？,0x08CF7DCC,0x08CF7DE8,1
+orfa__08CF7DE8,0x08D65C14,0x08CF7DE8,24,Unequipped all of %s's gear.,SIS05-0188,%sの装備を全て外しました,0x08CF7DE8,0x08CF7E04,1
+orfa__08CF7E04,0x08D65C18,0x08CF7E04,51,Unequip all gear from the member\nleaving the party?,SIS05-0189,パーティから外れるメンバーの\n装備を全て外しますか？,0x08CF7E04,0x08CF7E38,1
+orfa__08CF7E38,0x08D65C1C,0x08CF7E38,59,"Your items are full, so the\ngear could not be unequipped.",SIS05-0190,アイテムが一杯なので、\n装備を解除することが出来ませんでした,0x08CF7E38,0x08CF7E74,1
+orfa__08CF7E74,0x08D65C20,0x08CF7E74,42,%s is being treated and can't join.,SIS05-0191,%sは治療中のため、パーティに参加できません,0x08CF7E74,0x08CF7EA0,1
+orfa__08CF82E4,0x08D65D30,0x08CF82E4,18,Mercenary %s: Past Record,SIS05-0192,傭兵、%sの過去実績,0x08CF82E4,0x08CF82F8,1
+orfa__08CF832C,0x08D65D3C,0x08CF832C,9,TP Cost: %d,SIS05-0193,消費TP:%d,0x08CF832C,0x08CF8338,1
+orfa__08CF8338,0x08D65D40,0x08CF8338,12,Basic Action: %s,SIS05-0194,基本行動・%s,0x08CF8338,0x08CF8348,1
+orfa__08CF8500,0x08D65E0C,0x08CF8500,11,■ Materials Needed,SIS05-0195,■ 必要素材,0x08CF8500,0x08CF850C,1
+orfa__08CF851C,0x08D65E18,0x08CF851C,7,■ Ingredients,SIS05-0196,■ 材料,0x08CF851C,0x08CF8524,1
+orfa__08CF8540,0x08D65E24,0x08CF8540,9,■ Recipe,SIS05-0197,■ レシピ,0x08CF8540,0x08CF854C,1
+orfa__08CF85D8,0x08D65E60,0x08CF85D8,46,Can't equip. Need %d more levels.,SIS05-0198,装備する事が出来ません。レベルがあと%d必要です,0x08CF85D8,0x08CF8608,1
+orfa__08CF8608,0x08D65E64,0x08CF8608,49,"Your items are full, so you\ncan't unequip this.",SIS05-0199,所持アイテムが一杯なので\n装備を外す事が出来ません,0x08CF8608,0x08CF863C,1
+orfa__08CF8848,0x08D65EBC,0x08CF8848,79,Gear from Exhibitions or downloaded\nitems can't be selected.,SIS05-0200,エキシビションで入手した装備、または\nダウンロードアイテムの装備は選択できません,0x08CF8848,0x08CF8898,1
+orfa__08CF899C,0x08D65ED8,0x08CF899C,57,No equip skills can be selected.\nPress □ to confirm the synthesis.,SIS05-0201,選択出来る装備スキルがありません。\n合成確定は□ボタンです,0x08CF899C,0x08CF89D8,1
+orfa__08CF89D8,0x08D65EDC,0x08CF89D8,59,The base has no free slots.\nPress □ to confirm the synthesis.,SIS05-0202,ベースのスロットに空きがありません。\n合成確定は□ボタンです,0x08CF89D8,0x08CF8A14,1
+orfa__08CF8A94,0x08D65EF0,0x08CF8A94,12,%s Gald.,SIS05-0203,%sガルドです,0x08CF8A94,0x08CF8AA4,1
+orfa__08CF8A94,0x08D65F34,0x08CF8A94,12,%s Gald.,SIS05-0203,%sガルドです,0x08CF8A94,0x08CF8AA4,1
+orfa__08CF8B18,0x08D65F04,0x08CF8B18,53,The required level after upgrading\nwould exceed the wearer's level.,SIS05-0204,強化後の要求レベルが\n装備者のレベルを超えてしまいます,0x08CF8B18,0x08CF8B50,1
+orfa__08CF8B50,0x08D65F08,0x08CF8B50,24,Gear to upgrade (base),SIS05-0205,強化したい装備品(ベース),0x08CF8B50,0x08CF8B6C,1
+orfa__08CF8FB8,0x08D66054,0x08CF8FB8,10,Used %s.,SIS05-0206,%sを使った,0x08CF8FB8,0x08CF8FC4,1
+orfa__08CF902C,0x08D66078,0x08CF902C,49,"Your items are full, so you\ncan't unequip this.",SIS05-0199,所持アイテムが一杯なので\n装備を外す事が出来ません,0x08CF902C,0x08CF9060,1
+orfa__08CF9110,0x08D660B4,0x08CF9110,12,Restores %d％ HP,SIS05-0207,ＨＰ%d％回復,0x08CF9110,0x08CF9120,1
+orfa__08CF9120,0x08D660B8,0x08CF9120,12,Restores %d％ TP,SIS05-0208,ＴＰ%d％回復,0x08CF9120,0x08CF9130,1
+orfa__08CF9130,0x08D660BC,0x08CF9130,22,"Restores %d％ HP, %d％ TP",SIS05-0209,ＨＰ%d％、ＴＰ%d％回復,0x08CF9130,0x08CF9148,1
+orfa__08CF9148,0x08D660C0,0x08CF9148,18,Restores %d％ HP and TP,SIS05-0210,ＨＰ、ＴＰ%d％回復,0x08CF9148,0x08CF915C,1
+orfa__08CF93F4,0x08D661AC,0x08CF93F4,2,Shd,SIS05-0211,盾,0x08CF93F4,0x08CF93F8,1
+orfa__08CF93F4,0x08D66210,0x08CF93F4,2,Shd,SIS05-0211,盾,0x08CF93F4,0x08CF93F8,1
+orfa__08CF9410,0x08D661BC,0x08CF9410,2,Axe,SIS05-0212,斧,0x08CF9410,0x08CF9414,1
+orfa__08CF9414,0x08D661C0,0x08CF9414,2,Stf,SIS05-0213,杖,0x08CF9414,0x08CF9418,1
+orfa__08CF9418,0x08D661C4,0x08CF9418,2,Fst,SIS05-0214,拳,0x08CF9418,0x08CF941C,1
+orfa__08CF941C,0x08D661C8,0x08CF941C,2,Bow,SIS05-0215,弓,0x08CF941C,0x08CF9420,1
+orfa__08CF9428,0x08D661D0,0x08CF9428,2,Spr,SIS05-0216,槍,0x08CF9428,0x08CF942C,1
+orfa__08CF948C,0x08D661FC,0x08CF948C,2,Flt,SIS05-0217,笛,0x08CF948C,0x08CF9490,1
+orfa__08CF9490,0x08D66200,0x08CF9490,2,Tal,SIS05-0218,符,0x08CF9490,0x08CF9494,1
+orfa__08CF94A8,0x08D6620C,0x08CF94A8,2,Blt,SIS05-0219,帯,0x08CF94A8,0x08CF94AC,1
+orfa__08CF94AC,0x08D66214,0x08CF94AC,2,Hd,SIS05-0220,頭,0x08CF94AC,0x08CF94B0,1
+orfa__08CF94B0,0x08D66218,0x08CF94B0,2,Fc,SIS05-0221,顔,0x08CF94B0,0x08CF94B4,1
+orfa__08CF94B4,0x08D6621C,0x08CF94B4,2,Bdy,SIS05-0222,体,0x08CF94B4,0x08CF94B8,1
+orfa__08CF94B8,0x08D66220,0x08CF94B8,2,Hnd,SIS05-0223,手,0x08CF94B8,0x08CF94BC,1
+orfa__08CF94BC,0x08D66224,0x08CF94BC,2,Ft,SIS05-0224,足,0x08CF94BC,0x08CF94C0,1
+orfa__08CF94C0,0x08D66228,0x08CF94C0,2,Arm,SIS05-0225,鎧,0x08CF94C0,0x08CF94C4,1
+orfa__08CF94C4,0x08D6622C,0x08CF94C4,2,Clt,SIS05-0226,服,0x08CF94C4,0x08CF94C8,1
+orfa__08CF94D0,0x08D66234,0x08CF94D0,2,Hlm,SIS05-0227,兜,0x08CF94D0,0x08CF94D4,1
+orfa__08CF9710,0x08D66304,0x08CF9710,2,Axe,SIS05-0212,斧,0x08CF9710,0x08CF9714,1
+orfa__08CF9714,0x08D66308,0x08CF9714,2,Stf,SIS05-0213,杖,0x08CF9714,0x08CF9718,1
+orfa__08CF9718,0x08D6630C,0x08CF9718,2,Fst,SIS05-0214,拳,0x08CF9718,0x08CF971C,1
+orfa__08CF971C,0x08D66310,0x08CF971C,2,Bow,SIS05-0215,弓,0x08CF971C,0x08CF9720,1
+orfa__08CF9740,0x08D66320,0x08CF9740,2,Shd,SIS05-0211,盾,0x08CF9740,0x08CF9744,1
+orfa__08CF9744,0x08D66324,0x08CF9744,2,Hlm,SIS05-0227,兜,0x08CF9744,0x08CF9748,1
+orfa__08CF9758,0x08D66330,0x08CF9758,2,Arm,SIS05-0225,鎧,0x08CF9758,0x08CF975C,1
+orfa__08CF975C,0x08D66334,0x08CF975C,2,Clt,SIS05-0226,服,0x08CF975C,0x08CF9760,1
+orfa__08CF978C,0x08D6634C,0x08CF978C,21,SELECT: Toggle display,SIS05-0228,ＳＥＬＥＣＴ:表示切替,0x08CF978C,0x08CF97A4,1
+orfa__08CF97A4,0x08D66350,0x08CF97A4,21,D-Pad: Move position,SIS05-0229,方向キー　　:位置変更,0x08CF97A4,0x08CF97BC,1
+orfa__08CF97BC,0x08D66354,0x08CF97BC,25,○+Up/Down: Change height,SIS05-0230,○＋上下キー:描画高さ変更,0x08CF97BC,0x08CF97D8,1
+orfa__08CF97D8,0x08D66358,0x08CF97D8,21,□+D-Pad: Change angle,SIS05-0231,□＋方向キー:角度変更,0x08CF97D8,0x08CF97F0,1
+orfa__08CF97F0,0x08D6635C,0x08CF97F0,25,△+Up/Down: Change scale,SIS05-0232,△＋上下キー:スケール変更,0x08CF97F0,0x08CF980C,1
+orfa__08CF9BF0,0x08D66458,0x08CF9BF0,26,Tales of Phantasia,SIS05-0234,テイルズ オブ ファンタジア,0x08CF9BF0,0x08CF9C0C,1
+orfa__08CF9C0C,0x08D6645C,0x08CF9C0C,26,Tales of Destiny,SIS05-0235,テイルズ オブ デスティニー,0x08CF9C0C,0x08CF9C28,1
+orfa__08CF9C28,0x08D66460,0x08CF9C28,24,Tales of Eternia,SIS05-0236,テイルズ オブ エターニア,0x08CF9C28,0x08CF9C44,1
+orfa__08CF9C44,0x08D66464,0x08CF9C44,28,Tales of Destiny 2,SIS05-0237,テイルズ オブ デスティニー２,0x08CF9C44,0x08CF9C64,1
+orfa__08CF9C64,0x08D66468,0x08CF9C64,26,Tales of Symphonia,SIS05-0238,テイルズ オブ シンフォニア,0x08CF9C64,0x08CF9C80,1
+orfa__08CF9C80,0x08D6646C,0x08CF9C80,22,Tales of Rebirth,SIS05-0239,テイルズ オブ リバース,0x08CF9C80,0x08CF9C98,1
+orfa__08CF9C98,0x08D66470,0x08CF9C98,28,Tales of Legendia,SIS05-0240,テイルズ オブ レジェンディア,0x08CF9C98,0x08CF9CB8,1
+orfa__08CF9CB8,0x08D66474,0x08CF9CB8,23,Tales of the Abyss,SIS05-0241,テイルズ オブ ジ アビス,0x08CF9CB8,0x08CF9CD0,1
+orfa__08CF9CD0,0x08D66478,0x08CF9CD0,27,Tales of the Tempest,SIS05-0242,テイルズ オブ ザ テンペスト,0x08CF9CD0,0x08CF9CEC,1
+orfa__08CF9CEC,0x08D6647C,0x08CF9CEC,24,Tales of Innocence,SIS05-0243,テイルズ オブ イノセンス,0x08CF9CEC,0x08CF9D08,1
+orfa__08CF9D08,0x08D66480,0x08CF9D08,26,Tales of Vesperia,SIS05-0244,テイルズ オブ ヴェスペリア,0x08CF9D08,0x08CF9D24,1
+orfa__08CF9D24,0x08D66484,0x08CF9D24,27,ToS: Dawn of the New World,SIS05-0245,ＴＯＳ −ラタトスクの騎士−,0x08CF9D24,0x08CF9D40,1
+orfa__08CF9D40,0x08D66488,0x08CF9D40,20,Tales of Hearts,SIS05-0246,テイルズ オブ ハーツ,0x08CF9D40,0x08CF9D58,1
+orfa__08CF9D58,0x08D6648C,0x08CF9D58,24,Tales of Graces,SIS05-0247,テイルズ オブ グレイセス,0x08CF9D58,0x08CF9D74,1
+orfa__08CF9D74,0x08D66490,0x08CF9D74,32,ToW Radiant Mythology,SIS05-0248,ＴＯＷ レディアント マイソロジー,0x08CF9D74,0x08CF9D98,1
+orfa__08CF9D98,0x08D66494,0x08CF9D98,34,ToW Radiant Mythology 2,SIS05-0249,ＴＯＷ レディアント マイソロジー２,0x08CF9D98,0x08CF9DBC,1
+orfa__08CF9DBC,0x08D66498,0x08CF9DBC,34,ToW Radiant Mythology 3,SIS05-0250,ＴＯＷ レディアント マイソロジー３,0x08CF9DBC,0x08CF9DE0,1
+orfa__08CF9DEC,0x08D664A0,0x08CF9DEC,7,%3.2f％,SIS05-0251,%3.2f％,0x08CF9DEC,0x08CF9DF4,1
+orfa__08CF9E08,0x08D664B0,0x08CF9E08,11,■ Cannot Change,SIS05-0252,■ 変更不可,0x08CF9E08,0x08CF9E14,1
+orfa__08CF9E14,0x08D664B4,0x08CF9E14,61,Can't change difficulty in a dungeon.\n(Current difficulty: %s),SIS05-0253,ダンジョン内では、難易度を変更出来ません\n（現在の難易度、%s）,0x08CF9E14,0x08CF9E54,1
+orfa__08CF9E70,0x08D664C4,0x08CF9E70,11,■ Confirm Change,SIS05-0254,■ 変更確認,0x08CF9E70,0x08CF9E7C,1
+orfa__08CFA198,0x08D6657C,0x08CFA198,53,Changes the music played in normal\nbattles during the main quest.,SIS05-0255,メインクエスト進行中の通常戦闘時に\n流す曲を変更します,0x08CFA198,0x08CFA1D0,1
+orfa__08CFA38C,0x08D665B4,0x08CFA38C,7,■ Confirm,SIS05-0256,■ 確認,0x08CFA38C,0x08CFA394,1
+orfa__08CFA3B0,0x08D665BC,0x08CFA3B0,8,%s\n%3d％,SIS05-0257,%s\n%3d％,0x08CFA3B0,0x08CFA3BC,1
+orfa__08CFA4D8,0x08D665E4,0x08CFA4D8,55,Changes the music played in normal\nbattles during the main quest.,SIS05-0258,メインクエスト進行中の\n通常戦闘時に流す曲を変更します。,0x08CFA4D8,0x08CFA510,1
+orfa__08CFA5B4,0x08D665FC,0x08CFA5B4,47,Plays character voices\nduring events.,SIS05-0259,イベント時にキャラクターのボイスを\n再生します。,0x08CFA5B4,0x08CFA5E4,1
+orfa__08CFA5E4,0x08D66600,0x08CFA5E4,49,Does not play character voices\nduring events.,SIS05-0260,イベント時にキャラクターのボイスを\n再生しません。,0x08CFA5E4,0x08CFA618,1
+orfa__08CFA66C,0x08D6660C,0x08CFA66C,61,Sets the default dungeon map\nto the wide-range map.,SIS05-0261,ダンジョンマップのデフォルト設定を\n広範囲マップに設定します。,0x08CFA66C,0x08CFA6AC,1
+orfa__08CFA6AC,0x08D66610,0x08CFA6AC,61,Sets the default dungeon map\nto the mid-range map.,SIS05-0262,ダンジョンマップのデフォルト設定を\n中範囲マップに設定します。,0x08CFA6AC,0x08CFA6EC,1
+orfa__08CFA6EC,0x08D66614,0x08CFA6EC,61,Sets the default dungeon map\nto Map Off.,SIS05-0263,ダンジョンマップのデフォルト設定を\nマップ非表示に設定します。,0x08CFA6EC,0x08CFA72C,1
+orfa__08CFAB84,0x08D6671C,0x08CFAB84,2,S,SIS05-0264,小,0x08CFAB84,0x08CFAB88,1
+orfa__08CFAB88,0x08D66720,0x08CFAB88,2,M,SIS05-0265,中,0x08CFAB88,0x08CFAB8C,1
+orfa__08CFAB8C,0x08D66724,0x08CFAB8C,2,L,SIS05-0266,大,0x08CFAB8C,0x08CFAB90,1
+orfa__08CFABA0,0x08D66734,0x08CFABA0,2,+,SIS05-0267,＋,0x08CFABA0,0x08CFABA4,1
+orfa__08CFABA4,0x08D66738,0x08CFABA4,5,+ +,SIS05-0268,＋ ＋,0x08CFABA4,0x08CFABAC,1
+orfa__08CFABAC,0x08D6673C,0x08CFABAC,11,■ Title List,SIS05-0269,■ 称号一覧,0x08CFABAC,0x08CFABB8,1
+orfa__08CFACF8,0x08D66794,0x08CFACF8,55,Includes items %s can't equip.\nBuy anyway?,SIS05-0270,%sが装備不可のアイテムが\n含まれています。購入しますか？,0x08CFACF8,0x08CFAD30,1
+orfa__08CFADE4,0x08D667A8,0x08CFADE4,45,"Your equipment is full,\nso you can't buy this.",SIS05-0271,装備品が一杯のため、\n購入することができません,0x08CFADE4,0x08CFAE14,1
+orfa__08CFAE6C,0x08D667B8,0x08CFAE6C,38,"Can't trade until ""%s"" is traded.",SIS05-0272,「%s」が交換されるまで、交換出来ません,0x08CFAE6C,0x08CFAE94,1
+orfa__08CFAE94,0x08D667BC,0x08CFAE94,12,For Weapon %d,SIS05-0273,武器%dの場合,0x08CFAE94,0x08CFAEA4,1
+orfa__08CFAF94,0x08D667EC,0x08CFAF94,43,Can't try on special Tales of gear.,SIS05-0274,テイルズ オブ専用装備なので、試着できません,0x08CFAF94,0x08CFAFC0,1
+orfa__08CFB250,0x08D66868,0x08CFB250,51,Fights using tactics suited to class.\nNo effect on formation position.,SIS05-0275,職業に応じた思考で戦闘を行う。\n隊列位置への影響なし,0x08CFB250,0x08CFB284,1
+orfa__08CFB284,0x08D6686C,0x08CFB284,57,"Fights all-out, ignoring remaining TP.\nNo effect on formation position.",SIS05-0276,残ＴＰを気にせず、全力で戦闘を行う。\n隊列位置への影響なし,0x08CFB284,0x08CFB2C0,1
+orfa__08CFB2C0,0x08D66870,0x08CFB2C0,47,Always fights close to the enemy.\nFormation moves toward the enemy.,SIS05-0277,常に敵の近くで戦闘を行う。\n隊列位置は敵に近付く,0x08CFB2C0,0x08CFB2F0,1
+orfa__08CFB2F0,0x08D66874,0x08CFB2F0,49,Always fights far from the enemy.\nFormation moves away from the enemy.,SIS05-0278,常に敵の遠くで戦闘を行う。\n隊列位置は敵から離れる,0x08CFB2F0,0x08CFB324,1
+orfa__08CFB324,0x08D66878,0x08CFB324,59,Focuses on support and backup attacks.\nFormation moves away from the enemy.,SIS05-0279,サポートや援護攻撃中心の戦闘を行う。\n隊列位置は敵から離れる,0x08CFB324,0x08CFB360,1
+orfa__08CFB360,0x08D6687C,0x08CFB360,51,Fights with an emphasis on defense.\nNo effect on formation position.,SIS05-0280,防御に比重をおいた戦闘を行う。\n隊列位置への影響なし,0x08CFB360,0x08CFB394,1
+orfa__08CFB394,0x08D66880,0x08CFB394,55,Fights without using any TP.\nNo effect on formation position.,SIS05-0281,ＴＰを使わない状態での戦闘を行う。\n隊列位置への影響なし,0x08CFB394,0x08CFB3CC,1
+orfa__08CFB41C,0x08D668A8,0x08CFB41C,42,Priority Actions (%s) are now available!,SIS05-0282,優先行動（%s編）が使えるようになりました！,0x08CFB41C,0x08CFB448,1
+orfa__08CFB460,0x08D668B0,0x08CFB460,2,Fr,SIS05-0283,前,0x08CFB460,0x08CFB464,1
+orfa__08CFB464,0x08D668B4,0x08CFB464,2,M,SIS05-0265,中,0x08CFB464,0x08CFB468,1
+orfa__08CFB468,0x08D668B8,0x08CFB468,2,Bk,SIS05-0284,後,0x08CFB468,0x08CFB46C,1
+orfa__08CFB524,0x08D668F0,0x08CFB524,24,"Got the title ""%s""!",SIS05-0285,称号「%s」を手に入れた！,0x08CFB524,0x08CFB540,1
+orfa__08CFB540,0x08D668F4,0x08CFB540,18,"Obtained ""%s""!",SIS05-0286,「%s」を入手した！,0x08CFB540,0x08CFB554,1
+orfa__08CFB554,0x08D668F8,0x08CFB554,59,%s can now be selected in\nSound Select under Options.,SIS05-0287,オプションのサウンドセレクトで\n「%s」が選択可能となりました,0x08CFB554,0x08CFB590,1
+orfa__08CFB590,0x08D668FC,0x08CFB590,41,%s has been added\nto the Colosseum missions.,SIS05-0288,闘技場ミッションに\n「%s」が追加されました,0x08CFB590,0x08CFB5BC,1
+orfa__08CFBA08,0x08D669EC,0x08CFBA08,83,Applies previous-game save data or data\ndownloaded from the site to this save.,SIS05-0289,前作セーブデータやサイトからダウンロードしたデータを\n本作セーブデータに反映させます,0x08CFBA08,0x08CFBA5C,1
+orfa__08CFBAA8,0x08D669FC,0x08CFBAA8,107,"Loads data from your media, connects to\nthe linked site in Infrastructure Mode.",SIS05-0290,記録メディアに保存されているデータを読み込んで、\nインフラストラクチャーモードにて連動サイトに接続を行います,0x08CFBAA8,0x08CFBB14,1
+orfa__08CFBB20,0x08D66A04,0x08CFBB20,115,"Creates new site-access data, then\nconnects via Infrastructure Mode.",SIS05-0291,サイトへアクセスする為に必要なデータを新規作成してから、\nインフラストラクチャーモードにて連動サイトに接続を行います,0x08CFBB20,0x08CFBB94,1
+orfa__08CFBC04,0x08D66A14,0x08CFBC04,65,Creates authentication data. Existing\nauthentication data is overwritten.,SIS05-0292,認証データを作成します。\nすでに認証データがある場合は上書きします,0x08CFBC04,0x08CFBC48,1
+orfa__08CFBC60,0x08D66A1C,0x08CFBC60,55,Applies downloaded Mercenary data\nto your save data.,SIS05-0293,ダウンロードした傭兵データを\nセーブデータに反映させます,0x08CFBC60,0x08CFBC98,1
+orfa__08CFBCDC,0x08D66A28,0x08CFBCDC,59,Applies downloaded item data\nto your save data.,SIS05-0294,ダウンロードしたアイテムデータを\nセーブデータに反映させます,0x08CFBCDC,0x08CFBD18,1
+orfa__08CFBD38,0x08D66A30,0x08CFBD38,139,Applies save-data bonuses from Radiant\nMythology or Radiant Mythology 2\nto your Radiant Mythology 3 play data.,SIS05-0295,レディアント マイソロジー、もしくは\nレディアント マイソロジー2のセーブデータ特典を、\nレディアント マイソロジー3のプレイデータへ反映させます,0x08CFBD38,0x08CFBDC4,1
+orfa__08CFBDC4,0x08D66A34,0x08CFBDC4,45,Narikiri Dungeon X Save Bonus Import,SIS05-0296,なりきりダンジョンXセーブデータ特典インポート,0x08CFBDC4,0x08CFBDF4,1
+orfa__08CFBDF4,0x08D66A38,0x08CFBDF4,122,Applies save-data bonuses from Tales of\nPhantasia: Narikiri Dungeon X\nto your Radiant Mythology 3 play data.,SIS05-0297,テイルズ オブ ファンタジア なりきりダンジョンXの\nセーブデータ特典を\nレディアント マイソロジー3のプレイデータへ反映させます,0x08CFBDF4,0x08CFBE70,1
+orfa__08CFBE70,0x08D66A3C,0x08CFBE70,96,"Starts a new connection.\nCreate authentication data →\nMercenary data → Import folder,\nin that order.\n",SIS05-0298,新規に接続を行ないます\n認証データ作成→傭兵データ作成→\nインポートフォルダ作成\nの順番で進めます\n,0x08CFBE70,0x08CFBED4,1
+orfa__08CFBF1C,0x08D66A4C,0x08CFBF1C,61,Connects to the linked site\nin Infrastructure Mode.,SIS05-0299,インフラストラクチャーモードにて、\n連動サイトに接続を行います,0x08CFBF1C,0x08CFBF5C,1
+orfa__08CFBFE4,0x08D66A60,0x08CFBFE4,61,"If there is no authentication data,\nplease create it first.",SIS05-0300,認証データが存在しない場合は、\n先に認証データを作成して下さい,0x08CFBFE4,0x08CFC024,1
+orfa__08CFC024,0x08D66A64,0x08CFC024,41,Select the save data to base\nthe Mercenary on.,SIS05-0301,傭兵の元になるセーブデータを\n選んで下さい,0x08CFC024,0x08CFC050,1
+orfa__08CFC074,0x08D66A6C,0x08CFC074,31,Creating Mercenary data...\n□□□□,SIS05-0302,傭兵データを作成中です\n□□□□,0x08CFC074,0x08CFC094,1
+orfa__08CFC094,0x08D66A70,0x08CFC094,31,Creating Mercenary data...\n■□□□,SIS05-0303,傭兵データを作成中です\n■□□□,0x08CFC094,0x08CFC0B4,1
+orfa__08CFC0B4,0x08D66A74,0x08CFC0B4,31,Creating Mercenary data...\n■■□□,SIS05-0304,傭兵データを作成中です\n■■□□,0x08CFC0B4,0x08CFC0D4,1
+orfa__08CFC0D4,0x08D66A78,0x08CFC0D4,31,Creating Mercenary data...\n■■■□,SIS05-0305,傭兵データを作成中です\n■■■□,0x08CFC0D4,0x08CFC0F4,1
+orfa__08CFC0F4,0x08D66A7C,0x08CFC0F4,31,Creating Mercenary data...\n■■■■,SIS05-0306,傭兵データを作成中です\n■■■■,0x08CFC0F4,0x08CFC114,1
+orfa__08CFC198,0x08D66A90,0x08CFC198,55,Select the save data to base the\nauthentication data on.,SIS05-0307,作成する認証データの元になる\nセーブデータを選んで下さい,0x08CFC198,0x08CFC1D0,1
+orfa__08CFC1F8,0x08D66A98,0x08CFC1F8,160,"Bonuses applied to the selected save:\n  - Title: ""Savior of Terresia""\n  - Colosseum: ""Otherworld Descender""\n  - Equipment: ""Classic Leather Set""\n",SIS05-0308,選択されたセーブデータに以下の特典を反映しました\n  ・称号『テレジアの救世主』\n  ・闘技場ミッション『異世界のディセンダー』\n  ・装備『クラシックレザー装備一式』\n,0x08CFC1F8,0x08CFC29C,1
+orfa__08CFC29C,0x08D66A9C,0x08CFC29C,142,"Bonuses applied to the selected save:\n  - Title: ""Savior of Granide""\n  - Colosseum: ""King of Defilement""\n  - Equipment: ""Trial Set""\n",SIS05-0309,選択されたセーブデータに以下の特典を反映しました\n  ・称号『グラニデの救世主』\n  ・闘技場ミッション『穢れの王』\n  ・装備『トライアル装備一式』\n,0x08CFC29C,0x08CFC32C,1
+orfa__08CFC354,0x08D66AA4,0x08CFC354,78,Found save data for Tales of the World:\nRadiant Mythology.,SIS05-0310,テイルズ オブ ザ ワールド レディアント マイソロジーの\nセーブデータがありました,0x08CFC354,0x08CFC3A4,1
+orfa__08CFC3A4,0x08D66AA8,0x08CFC3A4,79,Found save data for Tales of the World:\nRadiant Mythology 2.,SIS05-0311,テイルズ オブ ザ ワールド レディアント マイソロジー2の\nセーブデータがありました,0x08CFC3A4,0x08CFC3F4,1
+orfa__08CFC3F4,0x08D66AAC,0x08CFC3F4,133,Found save data for both Tales of the\nWorld: Radiant Mythology and Tales of\nthe World: Radiant Mythology 2.,SIS05-0312,テイルズ オブ ザ ワールド レディアント マイソロジーと\nテイルズ オブ ザ ワールド レディアント マイソロジー2の\nセーブデータがありました,0x08CFC3F4,0x08CFC47C,1
+orfa__08CFC47C,0x08D66AB0,0x08CFC47C,132,"Bonuses applied to the selected save:\n  - Equipment: ""Klarth's Hat X""\n  - Equipment: ""Eternal Sword X""\n  - Equipment: ""Staff of Mercy X""\n",SIS05-0313,選択されたセーブデータに以下の特典を反映しました\n  ・装備『クラースの帽子Ｘ』\n  ・装備『エターナルソードＸ』\n  ・装備『慈愛の杖Ｘ』\n,0x08CFC47C,0x08CFC504,1
+orfa__08CFC504,0x08D66AB4,0x08CFC504,79,Tales of Phantasia: Narikiri Dungeon X\nsave data was not found.,SIS05-0314,テイルズ オブ ファンタジア なりきりダンジョンXの\nセーブデータがありませんでした,0x08CFC504,0x08CFC554,1
+orfa__08CFC554,0x08D66AB8,0x08CFC554,73,Tales of Phantasia: Narikiri Dungeon X\nsave data was found.,SIS05-0315,テイルズ オブ ファンタジア なりきりダンジョンXの\nセーブデータがありました,0x08CFC554,0x08CFC5A0,1
+orfa__08CFC5A0,0x08D66ABC,0x08CFC5A0,43,Select the save data\nto import into.,SIS05-0316,インポートするセーブデータを\n選択して下さい,0x08CFC5A0,0x08CFC5CC,1
+orfa__08CFC5CC,0x08D66AC0,0x08CFC5CC,45,This save data has\nalready received the import.,SIS05-0317,このセーブデータには\nすでにインポート済みです,0x08CFC5CC,0x08CFC5FC,1
+orfa__08CFC6A8,0x08D66AD4,0x08CFC6A8,65,The DL Quest Key has been imported.\nYou can collect it from Rocks.,SIS05-0318,ＤＬクエストキーはインポート済みです\nロックスから受け取り可能です,0x08CFC6A8,0x08CFC6EC,1
+orfa__08CFC708,0x08D66ADC,0x08CFC708,63,Couldn't load the item data.\nThe import was canceled.,SIS05-0319,アイテムデータが読み込めませんでした。\nインポートを中断しました,0x08CFC708,0x08CFC748,1
+orfa__08CFC748,0x08D66AE0,0x08CFC748,76,Item data loaded.\nPlease select the save data\nto import into.,SIS05-0320,アイテムデータを読み込みました。\nインポートするセーブデータを選択して\n下さい,0x08CFC748,0x08CFC798,1
+orfa__08CFC798,0x08D66AE4,0x08CFC798,115,"This save data has\nunclaimed imported data.\nBefore importing, please collect\nthe items from storage.",SIS05-0321,このセーブデータには\n未取得のインポートデータがあります。\nインポートを実行する前に\n倉庫からアイテムを取得して下さい,0x08CFC798,0x08CFC80C,1
+orfa__08CFC854,0x08D66AF0,0x08CFC854,61,There is a problem with the item data.\nIt cannot be imported.,SIS05-0322,アイテムデータに問題があります。\nインポートする事は出来ません,0x08CFC854,0x08CFC894,1
+orfa__08CFC8BC,0x08D66AF8,0x08CFC8BC,59,Couldn't load the Mercenary data.\nThe import was canceled.,SIS05-0323,傭兵データが読み込めませんでした。\nインポートを中断しました,0x08CFC8BC,0x08CFC8F8,1
+orfa__08CFC8BC,0x08D66AFC,0x08CFC8BC,59,Couldn't load the Mercenary data.\nThe import was canceled.,SIS05-0323,傭兵データが読み込めませんでした。\nインポートを中断しました,0x08CFC8BC,0x08CFC8F8,1
+orfa__08CFC914,0x08D66B04,0x08CFC914,116,Importing new Mercenary data into save\ndata that already has an imported one\nwill erase the previous Mercenary.,SIS05-0324,以前に傭兵データをインポートしたセーブ\nデータに、新しい傭兵データをインポート\nした場合、前回の傭兵は消えてしまいます,0x08CFC914,0x08CFC98C,1
+orfa__08CFC9CC,0x08D66B10,0x08CFC9CC,57,The Mercenary data has a problem.\nIt cannot be imported.,SIS05-0325,傭兵データに問題があります。\nインポートする事は出来ません,0x08CFC9CC,0x08CFCA08,1
+orfa__08CFCA08,0x08D66B14,0x08CFCA08,55,The downloaded data does not\nmatch this save data.,SIS05-0326,ダウンロードしたデータと\nセーブデータが適合していません,0x08CFCA08,0x08CFCA40,1
+orfa__08CFCADC,0x08D66B2C,0x08CFCADC,92,Existing data found.\nOverwriting it may lock you out\nof your registered account.,SIS05-0327,既存のデータがあります。\n上書きすると、登録アカウントに\nアクセス出来なくなる可能性があります,0x08CFCADC,0x08CFCB3C,1
+orfa__08CFCB3C,0x08D66B30,0x08CFCB3C,84,No storage media detected.\nStorage media with at least %dKB\nof free space is required.,SIS05-0328,記録メディアを検出出来ませんでした。\n%dKB以上の空き容量がある\n記録メディアが必要です,0x08CFCB3C,0x08CFCB94,1
+orfa__08CFCBE8,0x08D66B40,0x08CFCBE8,55,Data already exists on the media.\nOverwrite it?,SIS05-0329,記録メディアに既にデータが存在します。\n上書きしますか？,0x08CFCBE8,0x08CFCC20,1
+orfa__08CFCC20,0x08D66B44,0x08CFCC20,83,Creation was interrupted because the\nsystem entered Sleep Mode. Try again?,SIS05-0330,スリープモードに移行したためデータの作成を中断しました。\nもう一度作成を行いますか？,0x08CFCC20,0x08CFCC74,1
+orfa__08CFCC74,0x08D66B4C,0x08CFCC74,78,Starting the browser...\nDo not remove the storage media\nwhile connected to the network.,SIS05-0331,ブラウザを起動しています…\nネットワーク接続中は記録メディアを\n抜かないで下さい,0x08CFCC74,0x08CFCCC4,1
+orfa__08CFCCC4,0x08D66B50,0x08CFCCC4,71,"To connect to the network, a download\nfolder must be created.",SIS05-0332,ネットワーク接続をするにはダウンロード用の\nフォルダを作る必要があります,0x08CFCCC4,0x08CFCD0C,1
+orfa__08CFCD0C,0x08D66B54,0x08CFCD0C,35,No storage media detected.\n,SIS05-0333,記録メディアを検出出来ませんでした\n,0x08CFCD0C,0x08CFCD30,1
+orfa__08CFCD30,0x08D66B58,0x08CFCD30,41,A corrupted import folder was detected.\n,SIS05-0334,破損したインポートフォルダを検出しました\n,0x08CFCD30,0x08CFCD5C,1
+orfa__08CFCD5C,0x08D66B5C,0x08CFCD5C,55,"Delete the folder via ""Delete Data""\nand try again.",SIS05-0335,「データの削除」よりフォルダを削除して\nやり直して下さい,0x08CFCD5C,0x08CFCD94,1
+orfa__08CFCDDC,0x08D66B74,0x08CFCDDC,77,Tales of the World\nRadiant Mythology 3\nlinked-site data.,SIS05-0336,テイルズ オブ ザ ワールド\nレディアント マイソロジー3の\n連動サイト用データです,0x08CFCDDC,0x08CFCE2C,1
+orfa__08CFCDDC,0x08D66B84,0x08CFCDDC,77,Tales of the World\nRadiant Mythology 3\nlinked-site data.,SIS05-0336,テイルズ オブ ザ ワールド\nレディアント マイソロジー3の\n連動サイト用データです,0x08CFCDDC,0x08CFCE2C,1
+orfa__08CFCE40,0x08D66B7C,0x08CFCE40,81,Tales of the World\nRadiant Mythology 3\nlinked-site authentication data.,SIS05-0337,テイルズ オブ ザ ワールド\nレディアント マイソロジー3の\n連動サイト用認証データです,0x08CFCE40,0x08CFCE94,1
+orfa__08CFCEC0,0x08D66B8C,0x08CFCEC0,197,"EXTRA mode supports autosave.\nDuring autosave, the Memory Stick[TM]\naccess lamp flashes. Do not remove the\nmedia or turn off the system meanwhile.",SIS05-0338,ＥＸＴＲＡモードはオートセーブ機能に対応しています。\nオートセーブ中にはメモリースティック[TM]アクセスランプが\n点滅しますので、その間は記録メディアを抜いたり、\n本体の電源を切ったりしないでください。,0x08CFCEC0,0x08CFCF88,1
+orfa__08CFD214,0x08D66C54,0x08CFD214,55,Data already exists on the media.\nOverwrite it?,SIS05-0329,記録メディアに既にデータが存在します。\n上書きしますか？,0x08CFD214,0x08CFD24C,1
+orfa__08CFD270,0x08D66C5C,0x08CFD270,83,Creation was interrupted because the\nsystem entered Sleep Mode. Try again?,SIS05-0330,スリープモードに移行したためデータの作成を中断しました。\nもう一度作成を行いますか？,0x08CFD270,0x08CFD2C4,1
+orfa__08CFD5BC,0x08D66D64,0x08CFD5BC,26,Tales of Phantasia,SIS05-0234,テイルズ オブ ファンタジア,0x08CFD5BC,0x08CFD5D8,1
+orfa__08CFD5D8,0x08D66D68,0x08CFD5D8,26,Tales of Destiny,SIS05-0235,テイルズ オブ デスティニー,0x08CFD5D8,0x08CFD5F4,1
+orfa__08CFD5F4,0x08D66D6C,0x08CFD5F4,24,Tales of Eternia,SIS05-0236,テイルズ オブ エターニア,0x08CFD5F4,0x08CFD610,1
+orfa__08CFD610,0x08D66D70,0x08CFD610,23,Tales of the Abyss,SIS05-0241,テイルズ オブ ジ アビス,0x08CFD610,0x08CFD628,1
+orfa__08CFD628,0x08D66D74,0x08CFD628,28,Tales of Destiny 2,SIS05-0237,テイルズ オブ デスティニー２,0x08CFD628,0x08CFD648,1
+orfa__08CFD648,0x08D66D78,0x08CFD648,26,Tales of Symphonia,SIS05-0238,テイルズ オブ シンフォニア,0x08CFD648,0x08CFD664,1
+orfa__08CFD664,0x08D66D7C,0x08CFD664,22,Tales of Rebirth,SIS05-0239,テイルズ オブ リバース,0x08CFD664,0x08CFD67C,1
+orfa__08CFD67C,0x08D66D80,0x08CFD67C,28,Tales of Legendia,SIS05-0240,テイルズ オブ レジェンディア,0x08CFD67C,0x08CFD69C,1
+orfa__08CFD69C,0x08D66D84,0x08CFD69C,27,Tales of the Tempest,SIS05-0242,テイルズ オブ ザ テンペスト,0x08CFD69C,0x08CFD6B8,1
+orfa__08CFD6B8,0x08D66D88,0x08CFD6B8,24,Tales of Innocence,SIS05-0243,テイルズ オブ イノセンス,0x08CFD6B8,0x08CFD6D4,1
+orfa__08CFD6D4,0x08D66D8C,0x08CFD6D4,26,Tales of Vesperia,SIS05-0244,テイルズ オブ ヴェスペリア,0x08CFD6D4,0x08CFD6F0,1
+orfa__08CFD710,0x08D66D94,0x08CFD710,20,Tales of Hearts,SIS05-0246,テイルズ オブ ハーツ,0x08CFD710,0x08CFD728,1
+orfa__08CFD728,0x08D66D98,0x08CFD728,24,Tales of Graces,SIS05-0247,テイルズ オブ グレイセス,0x08CFD728,0x08CFD744,1
+orfa__08CFD744,0x08D66D9C,0x08CFD744,25,Radiant Mythology,SIS05-0339,レディアント マイソロジー,0x08CFD744,0x08CFD760,1
+orfa__08CFD760,0x08D66DA0,0x08CFD760,27,Radiant Mythology 2,SIS05-0340,レディアント マイソロジー２,0x08CFD760,0x08CFD77C,1
+orfa__08CFD77C,0x08D66DA4,0x08CFD77C,27,Radiant Mythology 3,SIS05-0341,レディアント マイソロジー３,0x08CFD77C,0x08CFD798,1
+orfa__08CFD798,0x08D66DA8,0x08CFD798,7,Motoi Sakuraba,SIS05-0342,桜庭 統,0x08CFD798,0x08CFD7A0,1
+orfa__08CFD7A0,0x08D66DAC,0x08CFD7A0,9,Kazuhiro Nakamura,SIS05-0343,中村 和宏,0x08CFD7A0,0x08CFD7AC,1
+orfa__08CFD7AC,0x08D66DB0,0x08CFD7AC,7,Go Shiina,SIS05-0344,椎名 豪,0x08CFD7AC,0x08CFD7B4,1
+orfa__08CFD8AC,0x08D66DDC,0x08CFD8AC,52,Battle themes from Tales of Phantasia.,SIS05-0345,テイルズ オブ ファンタジアの戦闘曲の中から選択します,0x08CFD8AC,0x08CFD8E4,1
+orfa__08CFD8E4,0x08D66DE0,0x08CFD8E4,52,Battle themes from Tales of Destiny.,SIS05-0346,テイルズ オブ デスティニーの戦闘曲の中から選択します,0x08CFD8E4,0x08CFD91C,1
+orfa__08CFD91C,0x08D66DE4,0x08CFD91C,50,Battle themes from Tales of Eternia.,SIS05-0347,テイルズ オブ エターニアの戦闘曲の中から選択します,0x08CFD91C,0x08CFD950,1
+orfa__08CFD950,0x08D66DE8,0x08CFD950,49,Battle themes from Tales of the Abyss.,SIS05-0348,テイルズ オブ ジ アビスの戦闘曲の中から選択します,0x08CFD950,0x08CFD984,1
+orfa__08CFD984,0x08D66DEC,0x08CFD984,54,Battle themes from Tales of Destiny 2.,SIS05-0349,テイルズ オブ デスティニー２の戦闘曲の中から選択します,0x08CFD984,0x08CFD9BC,1
+orfa__08CFD9BC,0x08D66DF0,0x08CFD9BC,52,Battle themes from Tales of Symphonia.,SIS05-0350,テイルズ オブ シンフォニアの戦闘曲の中から選択します,0x08CFD9BC,0x08CFD9F4,1
+orfa__08CFD9F4,0x08D66DF4,0x08CFD9F4,48,Battle themes from Tales of Rebirth.,SIS05-0351,テイルズ オブ リバースの戦闘曲の中から選択します,0x08CFD9F4,0x08CFDA28,1
+orfa__08CFDA28,0x08D66DF8,0x08CFDA28,54,Battle themes from Tales of Legendia.,SIS05-0352,テイルズ オブ レジェンディアの戦闘曲の中から選択します,0x08CFDA28,0x08CFDA60,1
+orfa__08CFDA60,0x08D66DFC,0x08CFDA60,53,Battle themes from Tales of the Tempest.,SIS05-0353,テイルズ オブ ザ テンペストの戦闘曲の中から選択します,0x08CFDA60,0x08CFDA98,1
+orfa__08CFDA98,0x08D66E00,0x08CFDA98,50,Battle themes from Tales of Innocence.,SIS05-0354,テイルズ オブ イノセンスの戦闘曲の中から選択します,0x08CFDA98,0x08CFDACC,1
+orfa__08CFDACC,0x08D66E04,0x08CFDACC,52,Battle themes from Tales of Vesperia.,SIS05-0355,テイルズ オブ ヴェスペリアの戦闘曲の中から選択します,0x08CFDACC,0x08CFDB04,1
+orfa__08CFDB3C,0x08D66E0C,0x08CFDB3C,46,Battle themes from Tales of Hearts.,SIS05-0356,テイルズ オブ ハーツの戦闘曲の中から選択します,0x08CFDB3C,0x08CFDB6C,1
+orfa__08CFDB6C,0x08D66E10,0x08CFDB6C,50,Battle themes from Tales of Graces.,SIS05-0357,テイルズ オブ グレイセスの戦闘曲の中から選択します,0x08CFDB6C,0x08CFDBA0,1
+orfa__08CFDBA0,0x08D66E14,0x08CFDBA0,51,Battle themes from Radiant Mythology.,SIS05-0358,レディアント マイソロジーの戦闘曲の中から選択します,0x08CFDBA0,0x08CFDBD4,1
+orfa__08CFDBD4,0x08D66E18,0x08CFDBD4,53,Battle themes from Radiant Mythology 2.,SIS05-0359,レディアント マイソロジー２の戦闘曲の中から選択します,0x08CFDBD4,0x08CFDC0C,1
+orfa__08CFDC0C,0x08D66E1C,0x08CFDC0C,53,Battle themes from Radiant Mythology 3.,SIS05-0360,レディアント マイソロジー３の戦闘曲の中から選択します,0x08CFDC0C,0x08CFDC44,1
+orfa__08CFDC44,0x08D66E20,0x08CFDC44,49,Battle themes by Motoi Sakuraba.,SIS05-0361,桜庭 統氏が作曲／編曲した戦闘曲の中から選択します,0x08CFDC44,0x08CFDC78,1
+orfa__08CFDC78,0x08D66E24,0x08CFDC78,51,Battle themes by Kazuhiro Nakamura.,SIS05-0362,中村 和宏氏が作曲／編曲した戦闘曲の中から選択します,0x08CFDC78,0x08CFDCAC,1
+orfa__08CFDCAC,0x08D66E28,0x08CFDCAC,49,Battle themes by Go Shiina.,SIS05-0363,椎名 豪氏が作曲／編曲した戦闘曲の中から選択します,0x08CFDCAC,0x08CFDCE0,1
+orfa__08CFDDF4,0x08D66E68,0x08CFDDF4,53,Ange has granted %s\nfree access to %s.,SIS05-0364,アンジュから、%sに\n%sへ自由に立ち入る許可が下りました,0x08CFDDF4,0x08CFDE2C,1
+orfa__08CFDE2C,0x08D66E6C,0x08CFDE2C,72,The Mine of Reminiscence can now be\nreached via Brownie Mine's deep shaft.,SIS05-0365,ブラウニー坑道の、立て坑 最深地点より\n追憶の坑道に入れるようになりました,0x08CFDE2C,0x08CFDE78,1
+orfa__08CFDE78,0x08D66E70,0x08CFDE78,67,There's room in the party.\nYou can add %d more member(s).,SIS05-0366,パーティメンバーに空きがあります\nあと%d人、参加させることができます,0x08CFDE78,0x08CFDEBC,1
+orfa__08CFDEBC,0x08D66E74,0x08CFDEBC,32,"The ""%s"" meal effect has worn off.",SIS05-0367,料理「%s」の効果が無くなりました,0x08CFDEBC,0x08CFDEE0,1
+orfa__08CFDF68,0x08D66E8C,0x08CFDF68,17,Enter\n%s?,SIS05-0368,%s\nに入りますか？,0x08CFDF68,0x08CFDF7C,1
+orfa__08D0FF9C,0x08D14844,0x08D0FF9C,90,Our job this time: ＜モンスター名＞\nin ＜ダンジョン名＞. Target: ＜数＞.\nLet's go!,SIS05-0375,今回の仕事は、＜ダンジョン名＞にいる\n＜モンスター名＞の退治、\n目標は＜数＞体だ。　行こう！,0x08D0FF9C,0x08D0FFF8,1
+orfa__08D0FFF8,0x08D14848,0x08D0FFF8,80,"This time, we hunt ＜数＞ monsters\nhere in ＜ダンジョン名＞.\nCome on, let's do our best!",SIS05-0376,今回は、この＜ダンジョン名＞にいる\n魔物を＜数＞体退治するんだ。\nさあ、頑張ろう！,0x08D0FFF8,0x08D1004C,1
+orfa__08D1004C,0x08D1484C,0x08D1004C,70,"All right, training starts now.\nToday we hunt ＜数＞ monsters\nin ＜ダンジョン名＞!",SIS05-0377,さあ、訓練開始だ。\n今日は、＜ダンジョン名＞の魔物を、\n＜数＞体狩ろう！,0x08D1004C,0x08D10094,1
+orfa__08D10094,0x08D14850,0x08D10094,28,"Look, it's ＜モンスター名＞!\n\n",SIS05-0378,見ろ、＜モンスター名＞だ！\n\n,0x08D10094,0x08D100B4,1
+orfa__08D100B4,0x08D14854,0x08D100B4,34,"All right, let's have a match.\nDon't hold back!\n",SIS05-0379,さあ、勝負だ。\n遠慮はいらないよ！\n,0x08D100B4,0x08D100D8,1
+orfa__08D100D8,0x08D14858,0x08D100D8,20,＜残＞ more to go!\n\n,SIS05-0380,あと、＜残＞体だ！\n\n,0x08D100D8,0x08D100F0,1
+orfa__08D100F0,0x08D1485C,0x08D100F0,48,"Okay, that's it for this time.\nShall we head back?\n",SIS05-0381,よし、今回はこれで終わりだ。\nそれじゃ、戻ろうか\n,0x08D100F0,0x08D10124,1
+orfa__08D10124,0x08D14860,0x08D10124,62,"Good, that one hit our target.\nThat was nice training.\nNow, back to the ship.",SIS05-0382,よし、今ので目標達成だ。\nいい訓練になったよ。\nさあ、船へ戻ろう,0x08D10124,0x08D10164,1
+orfa__08D10164,0x08D14864,0x08D10164,84,"You win.\nBut thanks to you, I found my weakness.\nLet's do this again sometime.",SIS05-0383,君の勝ちだ。\nでも、おかげで自分の弱点に気づけたよ。\nじゃあ、また機会があったら頼むよ,0x08D10164,0x08D101BC,1
+orfa__08D101BC,0x08D14868,0x08D101BC,60,Another round?\nSure.\nFacing you is always worth it.,SIS05-0384,もう一度来るかい？\nいいよ。\n君との勝負はやりがいがあるからね,0x08D101BC,0x08D101FC,1
+orfa__08D101FC,0x08D14870,0x08D101FC,80,"So, it's ＜モンスター名＞ x＜数＞\nin ＜ダンジョン名＞, huh?\nLet's knock this out quick!",SIS05-0385,さて、＜ダンジョン名＞で\n＜モンスター名＞を＜数＞体退治か。\nぱぱっと始めようぜ！,0x08D101FC,0x08D10250,1
+orfa__08D10250,0x08D14874,0x08D10250,86,"The job this time is to bust up ＜数＞\nof the monsters around here.\nC'mon, quit dawdlin' and let's go!!",SIS05-0386,今回の仕事は、ここにいる魔物を\n＜数＞体退治すればいい。\nさあ、ぼやぼやせずに行くぜ！！,0x08D10250,0x08D102A8,1
+orfa__08D102A8,0x08D14878,0x08D102A8,58,"Right, for some trainin' today, we're\nhuntin' ＜数＞ monsters around here!\n",SIS05-0387,さあて、鍛錬の為に今日は\nここにいる魔物を＜数＞体狩るぜ！\n,0x08D102A8,0x08D102E4,1
+orfa__08D102E4,0x08D1487C,0x08D102E4,32,There! It's ＜モンスター名＞!\n\n,SIS05-0388,いたぞ！　＜モンスター名＞だ！\n\n,0x08D102E4,0x08D10308,1
+orfa__08D1030C,0x08D14884,0x08D1030C,22,Only ＜残＞ left!\n\n,SIS05-0389,残りは＜残＞体だな！\n\n,0x08D1030C,0x08D10324,1
+orfa__08D10324,0x08D14888,0x08D10324,40,"Phew, finally done.\nLet's head back.\n",SIS05-0390,ふう、やっと済んだな。\nじゃあ、戻ろうぜ\n,0x08D10324,0x08D10350,1
+orfa__08D10350,0x08D1488C,0x08D10350,78,"...And that's the target done.\nGuess I got a little stronger, huh.\nAlright, back to the ship.",SIS05-0391,…っと、これで目標達成か。\nちったあ、腕を上げられたかな。\nじゃあ、船に戻ろうぜ,0x08D10350,0x08D103A0,1
+orfa__08D103A0,0x08D1489C,0x08D103A0,74,Our objective this time: defeat\n＜モンスター名＞ x＜数＞ in ＜ダンジョン名＞.\n,SIS05-0392,今回の目的は、＜ダンジョン名＞にいる\n＜モンスター名＞、＜数＞体の退治です\n,0x08D103A0,0x08D103EC,1
+orfa__08D103EC,0x08D148A0,0x08D103EC,76,Our objective is to defeat ＜数＞\nmonsters that make their lair\nhere in ＜ダンジョン名＞.,SIS05-0393,今回の目的は、ここ＜ダンジョン名＞を\n根城にする魔物を＜数＞体\n退治する事です,0x08D103EC,0x08D1043C,1
+orfa__08D1043C,0x08D148A4,0x08D1043C,80,"Now, let us begin our training\nhere in ＜ダンジョン名＞.\nWe will defeat some ＜数＞ monsters.",SIS05-0394,では、ここ＜ダンジョン名＞での\n修行を始めましょう。\n＜数＞体ほど、魔物を討ちます,0x08D1043C,0x08D10490,1
+orfa__08D10490,0x08D148A8,0x08D10490,38,"There it is.\nOur target, ＜モンスター名＞.\n",SIS05-0395,いました。\n目標の＜モンスター名＞です\n,0x08D10490,0x08D104B8,1
+orfa__08D104B8,0x08D148B0,0x08D104B8,20,＜残＞ remaining.\n\n,SIS05-0396,あと、＜残＞体です\n\n,0x08D104B8,0x08D104D0,1
+orfa__08D104D0,0x08D148B4,0x08D104D0,46,Let us go back.\nYour work here is done...\n,SIS05-0397,戻りましょう。\nあなたの仕事は、終わりました…\n,0x08D104D0,0x08D10500,1
+orfa__08D10500,0x08D148B8,0x08D10500,64,"That was good training.\nThank you very much.\nNow, let us head back.",SIS05-0398,いい修行になりました。\nありがとうございます。\nでは、戻りましょう,0x08D10500,0x08D10544,1
+orfa__08D10544,0x08D148C8,0x08D10544,88,"Uh, so we gotta take out\n＜モンスター名＞ x＜数＞ in ＜ダンジョン名＞.\nThat was the job, right!",SIS05-0399,えーっと、＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体、\n退治すればいいんだったな！,0x08D10544,0x08D105A0,1
+orfa__08D105A0,0x08D148CC,0x08D105A0,94,"Um, we just gotta beat ＜数＞ of the\nmonsters in ＜ダンジョン名＞, right?\nThen let's go!",SIS05-0400,えっと、＜ダンジョン名＞にいる魔物を\nとにかく＜数＞体退治すればいいんだよな？\nじゃあ、行こう！,0x08D105A0,0x08D10600,1
+orfa__08D10600,0x08D148D0,0x08D10600,56,"We hunt ＜数＞ monsters in this area.\nOkay, training starts now!\n",SIS05-0401,この土地の魔物を、＜数＞体狩るんだ。\nじゃあ、訓練開始！\n,0x08D10600,0x08D1063C,1
+orfa__08D1063C,0x08D148D4,0x08D1063C,36,Over there.\nIt's ＜モンスター名＞!\n,SIS05-0402,あそこだ。\n＜モンスター名＞がいる！\n,0x08D1063C,0x08D10664,1
+orfa__08D10664,0x08D148D8,0x08D10664,46,"I've been waiting, ○○.\nNow, let's test our skills!\n",SIS05-0403,待ってたよ、○○。\nじゃあ、腕試しと行こうか！\n,0x08D10664,0x08D10694,1
+orfa__08D10694,0x08D148DC,0x08D10694,38,"Uhh, let's see,\nonly ＜残＞ left, right?\n",SIS05-0404,ええっと、\nあとは残り＜残＞体だったな\n,0x08D10694,0x08D106BC,1
+orfa__08D106BC,0x08D148E0,0x08D106BC,44,"Yeah, that should do it.\nNow, back to the ship!\n",SIS05-0405,うん、こんなもんかな。\nじゃあ、船へ戻ろう！\n,0x08D106BC,0x08D106EC,1
+orfa__08D106EC,0x08D148E4,0x08D106EC,58,"Ah, that was some good training.\nWell then, let's hurry back!\n",SIS05-0406,ああ、いい訓練が出来てよかったよ。\nそれじゃ、早く戻ろう！\n,0x08D106EC,0x08D10728,1
+orfa__08D10728,0x08D148E8,0x08D10728,78,"Phew, you're strong...\nBut today's match was fun.\nWell, I'll head back to the ship first.",SIS05-0407,ふう、強いな…。\nでも、今日の勝負は楽しかったよ。\nじゃあ、俺は先に船に戻るから,0x08D10728,0x08D10778,1
+orfa__08D10778,0x08D148EC,0x08D10778,52,"So you want another test of skill?\nAll right, are you ready?\n",SIS05-0408,もう一度腕試しをするんだね。\nじゃあ、準備はいいか？\n,0x08D10778,0x08D107B0,1
+orfa__08D107B0,0x08D148F4,0x08D107B0,70,"In ＜ダンジョン名＞, we take out\n＜モンスター名＞ x＜数＞, right?\nOkay, let's go!",SIS05-0409,＜ダンジョン名＞で\n＜モンスター名＞を＜数＞体退治ね！\nじゃ、行くわよ！,0x08D107B0,0x08D107F8,1
+orfa__08D107F8,0x08D148F8,0x08D107F8,80,This job is a breeze.\nWe just have to take out ＜数＞\nmonsters in ＜ダンジョン名＞!,SIS05-0410,今回の仕事は楽ね。\n＜ダンジョン名＞にいる魔物を\n＜数＞体退治すればいいんだもの！,0x08D107F8,0x08D1084C,1
+orfa__08D1084C,0x08D148FC,0x08D1084C,90,"Well, we should train once in a while.\nToday, let's aim to defeat ＜数＞\nmonsters from around here!",SIS05-0411,さて、たまには訓練もしないとね。\n今日は、この土地の魔物を＜数＞体\n倒すのを目標にしましょ！,0x08D1084C,0x08D108A8,1
+orfa__08D108A8,0x08D14900,0x08D108A8,34,"Hey, isn't that ＜モンスター名＞?\n\n",SIS05-0412,ほら、＜モンスター名＞じゃない？\n\n,0x08D108A8,0x08D108CC,1
+orfa__08D108CC,0x08D14908,0x08D108CC,36,"We're on a roll, huh?\nJust ＜残＞ left!\n",SIS05-0413,いい調子じゃない？\n残り＜残＞体よ！\n,0x08D108CC,0x08D108F4,1
+orfa__08D108F4,0x08D1490C,0x08D108F4,66,"There, easy as that.\nThat wraps up this job.\nLet's head home!",SIS05-0414,ま、ざっとこんなもんね。\nじゃあ、この仕事は終わりよ。\n帰りましょ！,0x08D108F4,0x08D10938,1
+orfa__08D10938,0x08D14910,0x08D10938,62,"Mm-hm, that was great training~\nNow let's go back and rest!\n",SIS05-0415,うんうん、いい訓練になったわ♪\nそれじゃあ、戻って休みましょ！\n,0x08D10938,0x08D10978,1
+orfa__08D10978,0x08D14920,0x08D10978,78,We exterminate the ＜モンスター名＞\nnative to ＜ダンジョン名＞. Target: ＜数＞.\nLet us begin.,SIS05-0416,＜ダンジョン名＞に生息する\n＜モンスター名＞を＜数＞体退治する。\nでは、始めよう,0x08D10978,0x08D109C8,1
+orfa__08D109C8,0x08D14924,0x08D109C8,92,"This time, we must hunt ＜数＞ monsters\ndwelling here in ＜ダンジョン名＞.\nNow, let us proceed with care.",SIS05-0417,今回は、ここ＜ダンジョン名＞に住まう\n魔物を＜数＞体狩らなければならない。\nさあ、慎重に進もう,0x08D109C8,0x08D10A28,1
+orfa__08D10A28,0x08D14928,0x08D10A28,54,"Now, for today's training.\nWe hunt some ＜数＞ monsters here.\n",SIS05-0418,では、今日の修行だ。\nここの魔物を、＜数＞体ほど狩ろう\n,0x08D10A28,0x08D10A60,1
+orfa__08D10A60,0x08D1492C,0x08D10A60,38,...Hm.\nThat is ＜モンスター名＞...\n,SIS05-0419,…む。\nあれは、＜モンスター名＞だな…\n,0x08D10A60,0x08D10A88,1
+orfa__08D10A88,0x08D14934,0x08D10A88,34,＜残＞ to go.\nDon't let your guard down...\n,SIS05-0420,あと、＜残＞体。\n気は抜けないぞ…\n,0x08D10A88,0x08D10AAC,1
+orfa__08D10AAC,0x08D14938,0x08D10AAC,50,"Fine work, ○○.\nNow then, let us head back.\n",SIS05-0421,いい仕事だったよ、○○君。\nでは、帰還するとしよう\n,0x08D10AAC,0x08D10AE0,1
+orfa__08D10AE0,0x08D1493C,0x08D10AE0,52,"Once we got going, it was over fast.\nShall we head back, then?\n",SIS05-0422,やってみれば、あっという間だったな。\nでは、戻ろうか\n,0x08D10AE0,0x08D10B18,1
+orfa__08D10B18,0x08D1494C,0x08D10B18,92,"We just gotta wreck ＜数＞ ＜モンスター名＞\nprowling around ＜ダンジョン名＞, right?\nHah, piece of cake!!",SIS05-0423,＜ダンジョン名＞をウロつく\n＜モンスター名＞を＜数＞体やっちまうんだな。\nはっ、ちょろいぜ！！,0x08D10B18,0x08D10B78,1
+orfa__08D10B78,0x08D14950,0x08D10B78,98,"Anyway, we just gotta beat ＜数＞ of the\nmonsters nesting here, right?\nForget ＜数＞ - let's make it flashy!",SIS05-0424,とにかくよ、ここに巣食う魔物を\n＜数＞体倒せばいいんだろ？\n＜数＞体と言わず派手に行こうじゃねぇか！,0x08D10B78,0x08D10BDC,1
+orfa__08D10BDC,0x08D14954,0x08D10BDC,88,"Let's beat ＜数＞ of the monsters here\nand call it today's training!\nWell, you ready or what?",SIS05-0425,ここの魔物を、＜数＞体倒して\n今日の修行としようじゃねぇか！\nさあ、おめぇ、準備はいいか？,0x08D10BDC,0x08D10C38,1
+orfa__08D10C38,0x08D14958,0x08D10C38,36,"Oh, there's one!\nIt's a ＜モンスター名＞!\n",SIS05-0426,おっ、いたぜ！\n＜モンスター名＞だ！\n,0x08D10C38,0x08D10C60,1
+orfa__08D10C60,0x08D14960,0x08D10C60,54,"Alright, ＜残＞ left, huh?\nKeep 'em comin'!\n",SIS05-0427,よーっし、残り＜残＞体か。\nまだまだ来やがれってんだ！\n,0x08D10C60,0x08D10C98,1
+orfa__08D10C98,0x08D14964,0x08D10C98,62,"Over already?\nHow dull.\nWell, let's hurry on back, then.",SIS05-0428,もう終わりってかぁ？\n味気無えな。\nじゃあ、さっさと帰るとするか,0x08D10C98,0x08D10CD8,1
+orfa__08D10CD8,0x08D14968,0x08D10CD8,92,"Next! Who's my next opponent!?\n...Wait, it's over already?\nHah, still itchy, but let's head back.",SIS05-0429,次、次はどいつが相手だあ！？\n…って、もう終わりだと？\nはっ、暴れたりねえが今日は戻るとするか,0x08D10CD8,0x08D10D38,1
+orfa__08D10D38,0x08D14978,0x08D10D38,74,"Alright, let's go!\nWe're takin' out ＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞!",SIS05-0430,じゃあ、行くぜ！\n＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体退治だ！,0x08D10D38,0x08D10D84,1
+orfa__08D10D84,0x08D1497C,0x08D10D84,88,This time we take out ＜数＞ monsters\nin ＜ダンジョン名＞.\nLet's get right to it!,SIS05-0431,今回は、＜ダンジョン名＞にいる魔物を\n＜数＞体退治するんだ。\nじゃあ、早速取り掛かろうぜ！,0x08D10D84,0x08D10DE0,1
+orfa__08D10DE0,0x08D14980,0x08D10DE0,84,"Today we hunt the monsters here.\nBag ＜数＞ and it'll be good training.\nAlright, let's go!",SIS05-0432,今日はここの魔物を狩るんだ。\n＜数＞体も狩れば、いい修行になるだろ。\nじゃあ、行くぜ！,0x08D10DE0,0x08D10E38,1
+orfa__08D10E38,0x08D14984,0x08D10E38,40,"Heh, found it.\nIt's a ＜モンスター名＞.\n",SIS05-0433,へへっ、見つけたぜ。\n＜モンスター名＞だ\n,0x08D10E38,0x08D10E64,1
+orfa__08D10E64,0x08D14988,0x08D10E64,40,"Heh, been waitin' for ya.\nCome at me with everything!\n",SIS05-0434,へへっ、待ってたぜ。\nさあ、全力で来な！\n,0x08D10E64,0x08D10E90,1
+orfa__08D10E90,0x08D1498C,0x08D10E90,50,"Just ＜残＞ more to hunt, right?\nOkay, on to the next!\n",SIS05-0435,あと＜残＞体狩ればいいんだよな？\nよし、次行くぜ！\n,0x08D10E90,0x08D10EC4,1
+orfa__08D10EC4,0x08D14990,0x08D10EC4,46,"Finally done.\nI'm starving, let's head back.\n",SIS05-0436,ようやく済んだな。\nじゃ、腹も減ったし帰ろうぜ\n,0x08D10EC4,0x08D10EF4,1
+orfa__08D10EF4,0x08D14994,0x08D10EF4,80,"Uhh, so that does it?\nTraining's over, let's head back.\nGrub, then a nap! A nap!",SIS05-0437,えーっと、これで達成か。\nじゃ、修行も済んだし戻ろうぜ。\nメシ食って、昼寝だ昼ね！,0x08D10EF4,0x08D10F48,1
+orfa__08D10F48,0x08D14998,0x08D10F48,90,"Tch, I thought I'd win this time.\nWell, I won't lose next time!\nAnyway, let's head home for today.",SIS05-0438,ちぇっ、今回は勝てると思ったのに。\nま、次は負けないけどな！\nんじゃ、今日はこの辺で帰ろうぜ,0x08D10F48,0x08D10FA4,1
+orfa__08D10FA4,0x08D1499C,0x08D10FA4,38,"I'm winnin' next time too.\nNow, come on!\n",SIS05-0439,次も勝たせてもらうぜ。\nじゃあ、来な！\n,0x08D10FA4,0x08D10FCC,1
+orfa__08D10FCC,0x08D149A4,0x08D10FCC,94,"This time we're taking out ＜数＞\n＜モンスター名＞ in ＜ダンジョン名＞.\nYeah, we can do it, we can do it!!",SIS05-0440,今回の退治は、＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体だよ。\nうん、イケる、イケる！！,0x08D10FCC,0x08D1102C,1
+orfa__08D1102C,0x08D149A8,0x08D1102C,88,"Today we take out ＜数＞ monsters\nin ＜ダンジョン名＞.\nOkay, time to do our best!",SIS05-0441,今日は、＜ダンジョン名＞の魔物を\n＜数＞体退治するんだよ。\nそれじゃ、頑張らなくっちゃね！,0x08D1102C,0x08D11088,1
+orfa__08D11088,0x08D149AC,0x08D11088,70,"Today we train by beating monsters.\nThe goal is ＜数＞.\nOkay, let's start!",SIS05-0442,今日は、魔物を倒して修行をするよ。\n目標は、＜数＞体。\nさあ、始めよう！,0x08D11088,0x08D110D0,1
+orfa__08D110D0,0x08D149B0,0x08D110D0,40,"Look, look!\nThere's a ＜モンスター名＞!\n",SIS05-0443,ほら、見て！\n＜モンスター名＞がいたよ！\n,0x08D110D0,0x08D110FC,1
+orfa__08D110FC,0x08D149B8,0x08D110FC,36,Phew...\nStill ＜残＞ more to hunt.\n,SIS05-0444,ふう…。\nまだ、＜残＞体狩らなきゃね\n,0x08D110FC,0x08D11124,1
+orfa__08D11124,0x08D149BC,0x08D11124,48,"Phew... We somehow managed it.\nOkay, let's head back!\n",SIS05-0445,ふぅ…、何とか終えられたね。\nそれじゃ、戻ろう！\n,0x08D11124,0x08D11158,1
+orfa__08D11158,0x08D149C0,0x08D11158,72,"Aah, that was fun training!\n○○, you worked really hard too.\nOkay, back to the ship!",SIS05-0446,あ〜、楽しい修行だった！\n○○もすごく頑張ってたね。\nじゃあ、船に戻ろっ！,0x08D11158,0x08D111A4,1
+orfa__08D111A4,0x08D149D0,0x08D111A4,98,"Let's review our objective once more.\nIn ＜ダンジョン名＞, we defeat\n＜数＞ ＜モンスター名＞, correct!",SIS05-0447,では、今一度目的を確認しましょう。\n＜ダンジョン名＞にいる\n＜モンスター名＞、＜数＞体退治、ですね！,0x08D111A4,0x08D11208,1
+orfa__08D11208,0x08D149D4,0x08D11208,82,"Now, let's begin!\nToday's job: in ＜ダンジョン名＞,\ndefeat ＜数＞ monsters!",SIS05-0448,さあ、始めましょう！\n今日の仕事は、＜ダンジョン名＞にいる\n魔物を＜数＞体退治です！,0x08D11208,0x08D1125C,1
+orfa__08D1125C,0x08D149D8,0x08D1125C,82,"Now, let's begin training.\nToday we hunt ＜数＞ monsters here.\nCome on, let's go!",SIS05-0449,では、修行を始めましょう。\n今日はここの魔物を＜数＞体狩ります。\nさあ、行きますよ！,0x08D1125C,0x08D112B0,1
+orfa__08D112B0,0x08D149DC,0x08D112B0,52,Isn't that a\n＜モンスター名＞ over there?\n,SIS05-0450,あそこにいるのは、\n＜モンスター名＞じゃないですか？\n,0x08D112B0,0x08D112E8,1
+orfa__08D112E8,0x08D149E4,0x08D112E8,42,"＜残＞ more to go.\nCome on, let's press on!\n",SIS05-0451,残り＜残＞体ですよ。\nさあ、進みましょう！\n,0x08D112E8,0x08D11314,1
+orfa__08D11314,0x08D149E8,0x08D11314,60,"Objective complete!\nNow, let's return to my very own\nVan Eltia.",SIS05-0452,目標達成ですね！\nでは、ボクのバンエルティア号へ\n戻りましょう,0x08D11314,0x08D11354,1
+orfa__08D11354,0x08D149EC,0x08D11354,92,"Objective complete!\nTraining once in a while isn't so bad.\nNow, back to my Van Eltia!",SIS05-0453,目標達成です！\nたまには修行もしてみるもんですね。\nさあ、僕のバンエルティア号へ帰りましょう！,0x08D11354,0x08D113B4,1
+orfa__08D113B4,0x08D149FC,0x08D113B4,68,"Okay, so in ＜ダンジョン名＞\nwe take out ＜モンスター名＞,\n＜数＞ of them, right!",SIS05-0454,じゃあ、＜ダンジョン名＞にいる\n＜モンスター名＞を\n＜数＞体退治だね！,0x08D113B4,0x08D113FC,1
+orfa__08D113FC,0x08D14A00,0x08D113FC,74,"Take out ＜数＞ monsters\nin ＜ダンジョン名＞, huh?\nHeh, that's a cinch!",SIS05-0455,＜ダンジョン名＞にいる魔物を\n＜数＞体退治かぁ。\nへへっ、そんなの簡単だよ！,0x08D113FC,0x08D11448,1
+orfa__08D11448,0x08D14A04,0x08D11448,76,"Alright, training time!\nToday we beat ＜数＞ monsters\nhere in ＜ダンジョン名＞!",SIS05-0456,よーし、修行だ！\n今日は、この＜ダンジョン名＞にいる\n魔物を、＜数＞体倒すぞ！,0x08D11448,0x08D11498,1
+orfa__08D11498,0x08D14A08,0x08D11498,44,"Look, there's a ＜モンスター名＞\nright nearby!\n",SIS05-0457,ほら、すぐ近くに\n＜モンスター名＞がいるよ！\n,0x08D11498,0x08D114C8,1
+orfa__08D114C8,0x08D14A0C,0x08D114C8,46,"You came!\nAlright, I'm not gonna lose!\n",SIS05-0458,来てくれたんだね。\nよーし、負けないからなっ！\n,0x08D114C8,0x08D114F8,1
+orfa__08D114F8,0x08D14A10,0x08D114F8,44,"＜残＞ more, huh?\nHeh! Easy, easy!\n",SIS05-0459,あと、＜残＞体だね。\nへへっ！　楽勝、楽勝！\n,0x08D114F8,0x08D11528,1
+orfa__08D11528,0x08D14A14,0x08D11528,44,"Heh, that was easy!\nOkay, let's go back to the ship.\n",SIS05-0460,へへっ、楽勝だったね！\nじゃあ、船へ戻ろうよ\n,0x08D11528,0x08D11558,1
+orfa__08D11558,0x08D14A18,0x08D11558,76,"Huh, it's over already?\nI could've kept going...\nOh well, let's head back to the ship.",SIS05-0461,あれっ、もう終わりなんだ。\nまだ頑張れるのになぁ…。\nじゃあ、もう船に戻ろうよ,0x08D11558,0x08D115A8,1
+orfa__08D115A8,0x08D14A1C,0x08D115A8,86,"Tch... I lost, huh.\nThen I'll train harder for\nthe next time we test our skills!",SIS05-0462,ちぇっ…、負けてしまったかぁ。\nじゃあ、次に腕試しする時の為に\nもっと鍛える事にするよ！,0x08D115A8,0x08D11600,1
+orfa__08D11600,0x08D14A20,0x08D11600,44,"I won't hold back this time either.\nOkay, let's start!\n",SIS05-0463,今度も手加減はしないよ。\nじゃあ、始めよう！\n,0x08D11600,0x08D11630,1
+orfa__08D11630,0x08D14A28,0x08D11630,92,"Alright, we're taking out ＜数＞\n＜モンスター名＞ in ＜ダンジョン名＞.\nWe're running, so keep up!!",SIS05-0464,さあて、＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体退治するよ。\n走るよ、ついといで！！,0x08D11630,0x08D11690,1
+orfa__08D11690,0x08D14A2C,0x08D11690,100,"We just need to hunt ＜数＞ of the\nmonsters here in ＜ダンジョン名＞.\nIf we can, let's go after tough ones.",SIS05-0465,この＜ダンジョン名＞にいる魔物を\n＜数＞体狩ればいいんだ。\n出来るなら、手強そうな奴を狩ろうじゃないか,0x08D11690,0x08D116F8,1
+orfa__08D116F8,0x08D14A30,0x08D116F8,76,"Now, today's skill-sharpening\ntakes place in ＜ダンジョン名＞.\nHunt ＜数＞ monsters!",SIS05-0466,さあ、今日の腕磨きは\nこの＜ダンジョン名＞で行うよ。\n魔物を＜数＞体狩るんだ！,0x08D116F8,0x08D11748,1
+orfa__08D11748,0x08D14A34,0x08D11748,30,There!\nIt's a ＜モンスター名＞!\n,SIS05-0467,いたよ！\n＜モンスター名＞だ！\n,0x08D11748,0x08D11768,1
+orfa__08D11768,0x08D14A3C,0x08D11768,48,"＜残＞ more, huh...\nLet's pick up the pace!\n",SIS05-0468,あと、＜残＞体か…。\nもっとペース上げていくよ！\n,0x08D11768,0x08D1179C,1
+orfa__08D1179C,0x08D14A40,0x08D1179C,56,"Alright, our work here is done.\nLet's head back and rest.\n",SIS05-0469,さあ、ここでの仕事は終わりだよ。\n戻って休もうじゃないか\n,0x08D1179C,0x08D117D8,1
+orfa__08D117D8,0x08D14A44,0x08D117D8,94,"Yep, without training like this\nyour skills just get rusty.\nNow, job's done, let's head back!",SIS05-0470,うん、やっぱりこうして訓練をしないと\n腕がなまっちまうもんね。\nさあ、目的も果たしたし帰ろうか！,0x08D117D8,0x08D11838,1
+orfa__08D11838,0x08D14A54,0x08D11838,100,This time our goal is to wipe out\n＜モンスター名＞ in ＜ダンジョン名＞!\nAnd the target is ＜数＞. Got it?,SIS05-0471,今回の目的は、＜ダンジョン名＞にいる\n＜モンスター名＞の退治よっ！\nちなみに目標は＜数＞体、いいわね？,0x08D11838,0x08D118A0,1
+orfa__08D118A0,0x08D14A58,0x08D118A0,86,"We just gotta take out ＜数＞\nof the monsters here, right?\nThen let's get it done in a jiffy!",SIS05-0472,ここにいる魔物を＜数＞体\n退治すりゃいいんでしょ？\nじゃあ、ちゃちゃっとやっちゃうわよ！,0x08D118A0,0x08D118F8,1
+orfa__08D118F8,0x08D14A60,0x08D118F8,34,Ooh!\nFound a ＜モンスター名＞!\n,SIS05-0473,あらっ！\n＜モンスター名＞発見〜♪\n,0x08D118F8,0x08D1191C,1
+orfa__08D1191C,0x08D14A68,0x08D1191C,50,"Hmm, still ＜残＞ left.\nOkay, next, next!\n",SIS05-0474,ん〜、まだ＜残＞体残ってるわね。\nんじゃ、次よ次！\n,0x08D1191C,0x08D11950,1
+orfa__08D11950,0x08D14A6C,0x08D11950,44,"Gufufu, objective complete★\nNow, back to the ship!\n",SIS05-0475,グフフ、目標達成〜★\nさあ、船に戻りましょ！\n,0x08D11950,0x08D11980,1
+orfa__08D11980,0x08D14A70,0x08D11980,88,"Oh, the objective's done already?\nI wanted to play a bit longer,\nbut job's done, so shall we go back?",SIS05-0476,あら、目的達成しちゃったの？\nもうちょっと遊んでたいけど、\n目的も果たしたし、帰っちゃう？,0x08D11980,0x08D119DC,1
+orfa__08D119DC,0x08D14A80,0x08D119DC,84,"So we take out ＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞.\nAlright, let's go!!",SIS05-0477,＜モンスター名＞を\n＜ダンジョン名＞で＜数＞体、退治するんだな。\nおっし、行こうぜ！！,0x08D119DC,0x08D11A34,1
+orfa__08D11A34,0x08D14A84,0x08D11A34,72,We gotta beat ＜数＞ monsters\nin ＜ダンジョン名＞!\nThat's a piece of cake!,SIS05-0478,＜ダンジョン名＞の魔物を＜数＞体\nやっつけるんだな！\nそんなの、楽勝だぜ！,0x08D11A34,0x08D11A80,1
+orfa__08D11A80,0x08D14A88,0x08D11A80,52,"Alright, training starts now!\nWe're huntin' ＜数＞ monsters here!\n",SIS05-0479,よっし、訓練開始だ！\nここの魔物を、＜数＞体狩るぜ！\n,0x08D11A80,0x08D11AB8,1
+orfa__08D11AB8,0x08D14A8C,0x08D11AB8,42,"Hey, over there.\nThere's a ＜モンスター名＞!\n",SIS05-0480,おい、あそこだ。\n＜モンスター名＞がいる！\n,0x08D11AB8,0x08D11AE4,1
+orfa__08D11AE4,0x08D14A90,0x08D11AE4,56,"Looks like you're all fired up too.\nThat's what I like to see, heh.\n",SIS05-0481,そっちもやる気十分みたいだな。\nそうこなくっちゃ、へへっ\n,0x08D11AE4,0x08D11B20,1
+orfa__08D11B20,0x08D14A94,0x08D11B20,40,"＜残＞ more, huh.\nYeah, I can still go...\n",SIS05-0482,あと、＜残＞体か。\nうん、まだいけるな…\n,0x08D11B20,0x08D11B4C,1
+orfa__08D11B4C,0x08D14A98,0x08D11B4C,42,"Okay, objective done.\nLet's head back to the ship!\n",SIS05-0483,よし、目的も果たせたし\n船に戻るとするか！\n,0x08D11B4C,0x08D11B78,1
+orfa__08D11B78,0x08D14A9C,0x08D11B78,80,"Beat the monsters, got good training.\nWorked up a good sweat today!\nOkay, let's head back.",SIS05-0484,魔物も倒せたし、いい訓練にもなったし。\n今日はいい汗かいたよな！\nじゃあ、戻ろうぜ,0x08D11B78,0x08D11BCC,1
+orfa__08D11BCC,0x08D14AA0,0x08D11BCC,80,"Aah, I let my guard down.\nCan't be helped, you win.\nWell, it's settled, let's head back.",SIS05-0485,あーぁ、油断したかぁ。\nしょうがねえな、俺の負けだ。\nじゃ、勝負も付いたし帰ろうぜ,0x08D11BCC,0x08D11C20,1
+orfa__08D11C20,0x08D14AA4,0x08D11C20,34,"Wanna go another round?\nSure, bring it on!\n",SIS05-0486,もう一戦やるか？\nいいぜ、来いよ！\n,0x08D11C20,0x08D11C44,1
+orfa__08D11C44,0x08D14AAC,0x08D11C44,82,The target: ＜モンスター名＞\nin ＜ダンジョン名＞.\nThe count is ＜数＞. Is that clear?,SIS05-0487,退治するのは、＜ダンジョン名＞にいる\n＜モンスター名＞。\n数は＜数＞体よ、よくって？,0x08D11C44,0x08D11C98,1
+orfa__08D11C98,0x08D14AB0,0x08D11C98,82,"We hunt ＜数＞, then...\nOf the monsters here in ＜ダンジョン名＞.\nWell then, let's proceed.",SIS05-0488,＜数＞体、狩るのね…。\nここ、＜ダンジョン名＞にいる魔物を。\nそれじゃ、進みましょう,0x08D11C98,0x08D11CEC,1
+orfa__08D11CEC,0x08D14AB4,0x08D11CEC,88,"Now, let us begin today's training.\nHere in ＜ダンジョン名＞,\nlet's hunt about ＜数＞ monsters.",SIS05-0489,では、今日の訓練を始めるわよ。\nここ＜ダンジョン名＞にて、\n魔物を＜数＞体ほど狩りましょう,0x08D11CEC,0x08D11D48,1
+orfa__08D11D48,0x08D14AB8,0x08D11D48,36,A ＜モンスター名＞.\nAre you ready?\n,SIS05-0490,＜モンスター名＞よ。\n準備はよくて？\n,0x08D11D48,0x08D11D70,1
+orfa__08D11D70,0x08D14AC0,0x08D11D70,54,Remaining... ＜残＞ more.\nWe can't let our guard down yet.\n,SIS05-0491,残りは…、あと＜残＞体ね。\nまだ、気を緩められないわよ\n,0x08D11D70,0x08D11DA8,1
+orfa__08D11DA8,0x08D14AC4,0x08D11DA8,50,"Now, let's go back.\nYou've done what you needed to.\n",SIS05-0492,さて、戻りましょう。\nあなたのやるべき事は済んだわ\n,0x08D11DA8,0x08D11DDC,1
+orfa__08D11DDC,0x08D14AC8,0x08D11DDC,56,"Objective complete.\nNow, let's go back.\nThat was a fine chance to train.",SIS05-0493,目標達成よ。\nさあ、戻りましょう。\nいい訓練の機会だったわ,0x08D11DDC,0x08D11E18,1
+orfa__08D11E18,0x08D14AD8,0x08D11E18,84,We're taking out ＜モンスター名＞\nin ＜ダンジョン名＞.\nThe target is ＜数＞. Let's go!!,SIS05-0494,＜ダンジョン名＞にいる\n＜モンスター名＞を退治するんだ。\n目標は＜数＞体だ、行くよ！！,0x08D11E18,0x08D11E70,1
+orfa__08D11E70,0x08D14ADC,0x08D11E70,78,"＜ダンジョン名＞, huh.\nWe have to hunt ＜数＞ of the monsters\nhere, but now then...",SIS05-0495,＜ダンジョン名＞か。\nここの魔物を、＜数＞体狩らなきゃ\nならないんだけど、さて…,0x08D11E70,0x08D11EC0,1
+orfa__08D11EC0,0x08D14AE0,0x08D11EC0,84,"Today's training is monster hunting.\nWe'll hunt ＜数＞ of the monsters here.\nNow, let's get started.",SIS05-0496,今日の修行は、魔物狩りだ。\nここにいる魔物を＜数＞体狩るよ。\nさあ、始めようじゃないか,0x08D11EC0,0x08D11F18,1
+orfa__08D11F18,0x08D14AE4,0x08D11F18,42,It's a ＜モンスター名＞!\nShall we keep going?\n,SIS05-0497,＜モンスター名＞だよ！\nこのまま行くかい？\n,0x08D11F18,0x08D11F44,1
+orfa__08D11F44,0x08D14AEC,0x08D11F44,46,"＜残＞ left, huh...\nStay sharp, we're not done yet!\n",SIS05-0498,残り＜残＞体か…。\nまだ気を引き締めていくよ！\n,0x08D11F44,0x08D11F74,1
+orfa__08D11F74,0x08D14AF0,0x08D11F74,64,"Ah, that was good exercise.\nWell, the job's done,\nso shall we head back?",SIS05-0499,ああ、いい運動になったよ。\nそれじゃ、目的も果たしたし\n戻ろうかね,0x08D11F74,0x08D11FB8,1
+orfa__08D11FB8,0x08D14AF4,0x08D11FB8,58,"That was fulfilling training.\nThank you.\nWell, shall we head back?",SIS05-0500,充実した修行が出来たよ。\nありがとう。\nそれじゃ、戻ろうかね,0x08D11FB8,0x08D11FF4,1
+orfa__08D11FF4,0x08D14B04,0x08D11FF4,74,We strike down ＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞.\nLet's go. Don't fall behind...,SIS05-0501,＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体討つ。\n行くぞ、遅れるな…,0x08D11FF4,0x08D12040,1
+orfa__08D12040,0x08D14B08,0x08D12040,52,We hunt the monsters in this area.\nThe count is ＜数＞.\nLet's go...,SIS05-0502,この地一帯に住む魔物を狩る。\n数は＜数＞だ。\n行くぞ…,0x08D12040,0x08D12078,1
+orfa__08D12078,0x08D14B0C,0x08D12078,74,"Today we hunt monsters to train.\nHere in ＜ダンジョン名＞,\nhunt ＜数＞ monsters.",SIS05-0503,今日は、修行の為に魔物を狩る。\nここ＜ダンジョン名＞の魔物を、\n＜数＞体狩れ,0x08D12078,0x08D120C4,1
+orfa__08D120C4,0x08D14B10,0x08D120C4,36,A ＜モンスター名＞.\nDon't fall behind.\n,SIS05-0504,＜モンスター名＞だ。\n遅れをとるなよ\n,0x08D120C4,0x08D120EC,1
+orfa__08D120EC,0x08D14B18,0x08D120EC,36,It's not over yet.\n＜残＞ remain.\n,SIS05-0505,まだ終わりではない。\n残り＜残＞体だ\n,0x08D120EC,0x08D12114,1
+orfa__08D12114,0x08D14B1C,0x08D12114,22,Our business is done.\nWe're going back...\n,SIS05-0506,用は済んだ。\n戻るぞ…\n,0x08D12114,0x08D1212C,1
+orfa__08D1212C,0x08D14B20,0x08D1212C,50,Objective reached.\nNo need to hunt any more.\nWe're going back...,SIS05-0507,目標に達した。\nこれ以上、狩る必要はない。\n戻るぞ…,0x08D1212C,0x08D12160,1
+orfa__08D12160,0x08D14B30,0x08D12160,74,"We take out ＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞.\nNow, let's go...",SIS05-0508,＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体退治する。\nでは、行くぞ…,0x08D12160,0x08D121AC,1
+orfa__08D121AC,0x08D14B34,0x08D121AC,64,We take out ＜数＞ monsters\nin ＜ダンジョン名＞.\nThat's the job this time...,SIS05-0509,＜ダンジョン名＞の魔物を\n＜数＞体退治する。\nそれが今回の仕事だ…,0x08D121AC,0x08D121F0,1
+orfa__08D121F0,0x08D14B38,0x08D121F0,80,We hunt the monsters\nhere in ＜ダンジョン名＞...\nHunting ＜数＞ should be good training.,SIS05-0510,この＜ダンジョン名＞にいる魔物を\n狩る…。\n＜数＞体ほど狩ればいい修行になるだろう,0x08D121F0,0x08D12244,1
+orfa__08D12244,0x08D14B3C,0x08D12244,56,There's a ＜モンスター名＞.\nWe'll strike first.\n...Get ready.,SIS05-0511,＜モンスター名＞がいる。\nこっちから行くぞ。\n…準備をしろ,0x08D12244,0x08D12280,1
+orfa__08D12280,0x08D14B40,0x08D12280,42,"Sorry for calling you out.\nNow, let's get right to it!\n",SIS05-0512,呼び出してすまないな。\nでは、早速行くぞ！\n,0x08D12280,0x08D122AC,1
+orfa__08D122AC,0x08D14B44,0x08D122AC,38,＜残＞ more...\nWe still need to hunt them...\n,SIS05-0513,あと、＜残＞体…。\n狩る必要があるな…\n,0x08D122AC,0x08D122D4,1
+orfa__08D122D4,0x08D14B48,0x08D122D4,28,Objective fulfilled.\nBack to the ship.\n,SIS05-0514,目的は果たした。\n船へ戻るぞ\n,0x08D122D4,0x08D122F4,1
+orfa__08D122F4,0x08D14B4C,0x08D122F4,32,That ends the training.\nWe're going back...\n,SIS05-0515,これで修行は終わりだ。\n戻るぞ…\n,0x08D122F4,0x08D12318,1
+orfa__08D12318,0x08D14B50,0x08D12318,76,"...That was a good match.\nI got to test my own strength, too.\nNow, back to the ship.",SIS05-0516,…いい勝負をさせてもらった。\n自分の実力も確かめられたしな。\nでは、船に戻るぞ,0x08D12318,0x08D12368,1
+orfa__08D12368,0x08D14B54,0x08D12368,92,"You weren't serious in our last match.\nYou're stronger than that, I know it.\nCome at me again!",SIS05-0517,前の勝負では本気を出していなかったな？\nお前の力はそんなものではないはずだ。\nもう一度、来い！,0x08D12368,0x08D123C8,1
+orfa__08D123C8,0x08D14B5C,0x08D123C8,86,"Understood? In ＜ダンジョン名＞, we\ntake out ＜数＞ ＜モンスター名＞.\nNow, let's finish this quickly.",SIS05-0518,いいな？　＜ダンジョン名＞で\n＜モンスター名＞を＜数＞体退治だ。\nでは、手早く済ませるぞ,0x08D123C8,0x08D12420,1
+orfa__08D12420,0x08D14B60,0x08D12420,72,"...We strike the monsters of ＜ダンジョン名＞.\nThe target count is ＜数＞.\nNow, let's get to it.",SIS05-0519,…＜ダンジョン名＞の魔物を討つ。\n目標数は＜数＞体だ。\nでは、取り掛かるぞ,0x08D12420,0x08D1246C,1
+orfa__08D1246C,0x08D14B64,0x08D1246C,62,"Today we train here.\nWe hunt ＜数＞ monsters.\nNow, let's begin.",SIS05-0520,今日はここで修行をする。\n魔物を＜数＞体狩るぞ。\nでは、始めよう,0x08D1246C,0x08D124AC,1
+orfa__08D124AC,0x08D14B68,0x08D124AC,44,"That's a ＜モンスター名＞, is it.\nNo mistake.\n",SIS05-0521,あれは、＜モンスター名＞、か。\n間違いないな\n,0x08D124AC,0x08D124DC,1
+orfa__08D124DC,0x08D14B70,0x08D124DC,20,"＜残＞ more, huh...\n\n",SIS05-0522,あと、＜残＞体か…\n\n,0x08D124DC,0x08D124F4,1
+orfa__08D124F4,0x08D14B74,0x08D124F4,56,"Hm, over already?\nVery well, that's enough for today.\nWe're going back.",SIS05-0523,ふむ、もう終わりか。\nまあいい、今日はここまでだ。\n戻るぞ,0x08D124F4,0x08D12530,1
+orfa__08D12530,0x08D14B78,0x08D12530,50,"Good, that's it for today's training.\nNow, let's head back.\n",SIS05-0524,よし、今日の修行はここまでだ。\nでは、戻るとしよう\n,0x08D12530,0x08D12564,1
+orfa__08D12564,0x08D14B88,0x08D12564,82,"We take out ＜モンスター名＞\nin ＜ダンジョン名＞.\nThis time, ＜数＞ of them will do.",SIS05-0525,＜ダンジョン名＞にいる\n＜モンスター名＞を退治する。\n今回は＜数＞体、片付ければいい,0x08D12564,0x08D125B8,1
+orfa__08D125B8,0x08D14B8C,0x08D125B8,64,This monster extermination\ntakes place here in ＜ダンジョン名＞.\nThe target is ＜数＞.,SIS05-0526,今回の魔物退治は、\nここ＜ダンジョン名＞で行う。\n目標は＜数＞体だ,0x08D125B8,0x08D125FC,1
+orfa__08D125FC,0x08D14B90,0x08D125FC,84,We train by hunting monsters.\nHunting about ＜数＞ monsters\nin this ＜ダンジョン名＞ should do.,SIS05-0527,魔物を狩って、訓練だ。\nこの＜ダンジョン名＞で、魔物を\n＜数＞体くらい狩ればいいだろう,0x08D125FC,0x08D12654,1
+orfa__08D12654,0x08D14B94,0x08D12654,34,A ＜モンスター名＞.\nLet's take it down!\n,SIS05-0528,＜モンスター名＞だ。\n仕留めるぞ！\n,0x08D12654,0x08D12678,1
+orfa__08D12678,0x08D14B98,0x08D12678,32,"No need to hold back.\nNow, come!\n",SIS05-0529,手加減は必要ない。\nさあ、来い！\n,0x08D12678,0x08D1269C,1
+orfa__08D1269C,0x08D14B9C,0x08D1269C,40,"Remaining... ＜残＞, huh.\nLet's finish this fast.\n",SIS05-0530,残りは…、＜残＞体か。\n早く終わらせるぞ\n,0x08D1269C,0x08D126C8,1
+orfa__08D126C8,0x08D14BA0,0x08D126C8,40,"The monsters are taken care of.\nNow, back to the ship.\n",SIS05-0531,魔物も無事に仕留めた。\nさあ、船へ帰るぞ\n,0x08D126C8,0x08D126F4,1
+orfa__08D126F4,0x08D14BA4,0x08D126F4,64,"We've reached today's goal.\nThat was good training.\nOkay, back to the ship.",SIS05-0532,今日の目標を達成したぞ。\nいい訓練になったな。\nじゃあ、船へ戻ろう,0x08D126F4,0x08D12738,1
+orfa__08D12738,0x08D14BA8,0x08D12738,96,"Jeez, I'm no match for you.\nBut I feel stronger thanks to you.\nLet's have another match sometime!",SIS05-0533,全く、敵わないな。\nけど、おかげでこっちも強くなれた気がする。\nじゃあ、またいつか勝負してくれよな,0x08D12738,0x08D1279C,1
+orfa__08D1279C,0x08D14BAC,0x08D1279C,58,That was a good match.\nGive me another good one next time.\n,SIS05-0534,いい勝負をさせてもらったぜ。\n今度もいい勝負をさせてくれよ\n,0x08D1279C,0x08D127D8,1
+orfa__08D127D8,0x08D14BB4,0x08D127D8,72,We take out the ＜モンスター名＞\nthat appear in ＜ダンジョン名＞.\nThe target count is ＜数＞.,SIS05-0535,＜ダンジョン名＞に現れる\n＜モンスター名＞を退治する。\n目標数は＜数＞体だ,0x08D127D8,0x08D12824,1
+orfa__08D12824,0x08D14BB8,0x08D12824,74,Hunt the monsters of ＜ダンジョン名＞...\nThen let's go.\nWe take down ＜数＞.,SIS05-0536,＜ダンジョン名＞の魔物を狩る、か…。\nでは、行こうか。\n＜数＞体、仕留めるぞ,0x08D12824,0x08D12870,1
+orfa__08D12870,0x08D14BBC,0x08D12870,84,"Now, we hunt monsters here to train.\nToday it's ＜数＞, but don't overdo it.\nUnderstood?",SIS05-0537,さて、ここで魔物を狩って訓練とする。\n今日は＜数＞体狩るが、無理は禁物だぞ。\nいいな？,0x08D12870,0x08D128C8,1
+orfa__08D128C8,0x08D14BC0,0x08D128C8,34,Found one.\nA ＜モンスター名＞!\n,SIS05-0538,見つけたぞ。\n＜モンスター名＞だ！\n,0x08D128C8,0x08D128EC,1
+orfa__08D128EC,0x08D14BC8,0x08D128EC,40,"＜残＞ more to our goal.\nNow, onward.\n",SIS05-0539,目標まで、あと＜残＞体か。\nでは、進むぞ\n,0x08D128EC,0x08D12918,1
+orfa__08D12918,0x08D14BCC,0x08D12918,66,"Good, this job is done.\nHurry back to the ship\nand prepare for the next job.",SIS05-0540,よし、この仕事は終わりだ。\n早く船に戻って、\n次の仕事に備えるといい,0x08D12918,0x08D1295C,1
+orfa__08D1295C,0x08D14BD0,0x08D1295C,46,"Mm, that was good training.\nNow, shall we head back?\n",SIS05-0541,うむ、いい訓練になった。\nでは、戻るとしようか\n,0x08D1295C,0x08D1298C,1
+orfa__08D1298C,0x08D14BE0,0x08D1298C,86,"Just gotta take out ＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞, right?\nOi, hurry up and move!",SIS05-0542,＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体やりゃいいんだろ？\nオラ、早く行けよ！,0x08D1298C,0x08D129E4,1
+orfa__08D129E4,0x08D14BE4,0x08D129E4,86,"Just gotta take out ＜数＞ or so\nof the monsters here, right?\nLet's do it fast and be done.",SIS05-0543,ここにいる魔物を＜数＞体くらい\n適当に退治すりゃいいんだろ？\n早くやって、終わらせようぜ,0x08D129E4,0x08D12A3C,1
+orfa__08D12A3C,0x08D14BE8,0x08D12A3C,96,"Wreck ＜数＞ or so monsters here\nand that's good training.\nLet's go, then. Don't dawdle!",SIS05-0544,ここの魔物を＜数＞体くらい\nやっちまえば、いい修行になるだろ。\nじゃあ行くぜ。　モタモタすんなよ！,0x08D12A3C,0x08D12AA0,1
+orfa__08D12AA0,0x08D14BEC,0x08D12AA0,50,"Heh, found it.\nThat's a ＜モンスター名＞, right?\n",SIS05-0545,へっ、見つけたぜ。\nあいつが＜モンスター名＞だろ？\n,0x08D12AA0,0x08D12AD4,1
+orfa__08D12AD4,0x08D14BF0,0x08D12AD4,74,"Heh, don't keep me waitin'.\nLet's get this fight goin'.\nCome at me any way you like!",SIS05-0546,へっ、待たせんじゃねーよ。\nとっとと勝負しようぜ。\nさあ、どっからでも来な！,0x08D12AD4,0x08D12B20,1
+orfa__08D12B20,0x08D14BF4,0x08D12B20,46,"＜残＞ more left, huh.\n...Tch, what a pain.\n",SIS05-0547,あと、残り＜残＞体か。\n…ちっ、めんどくせえな\n,0x08D12B20,0x08D12B50,1
+orfa__08D12B50,0x08D14BF8,0x08D12B50,52,"Finally over.\nUgh, what a drag...\nLet's hurry home!",SIS05-0548,ようやく終わりか。\nあー、だりぃ…。\nさっさと帰るぞ！,0x08D12B50,0x08D12B88,1
+orfa__08D12B88,0x08D14BFC,0x08D12B88,66,"Hah, you've got a long way to go.\nTraining's done. Let's beat it.\n",SIS05-0549,はっ、お前もまだまだだな。\nさーて、修行も済んだしとっとと帰ろうぜ\n,0x08D12B88,0x08D12BCC,1
+orfa__08D12BCC,0x08D14C00,0x08D12BCC,82,"Damn... Why'd I lose...\nJust watch, one day I'll surpass\nyou and win!",SIS05-0550,くそっ…、何で負けんだよ…。\n見てろよ、そのうちお前を越えて\n勝って見せるからなっ！,0x08D12BCC,0x08D12C20,1
+orfa__08D12C20,0x08D14C04,0x08D12C20,68,"Heh, you came back, huh?\nNo matter how many times, I win.\nBring it on!!",SIS05-0551,ヘッ、また来たのかよ。\n何度やったって、俺の勝ちだ。\n来てみやがれ！！,0x08D12C20,0x08D12C68,1
+orfa__08D12C68,0x08D14C0C,0x08D12C68,98,"＜モンスター名＞, is it?\nThe ones in ＜ダンジョン名＞, ＜数＞ of them.\nWell, let's finish quickly.",SIS05-0552,＜モンスター名＞、ですか。\n＜ダンジョン名＞にいる奴を、＜数＞体ですね。\nじゃ、手早く済ませましょう,0x08D12C68,0x08D12CCC,1
+orfa__08D12CCC,0x08D14C10,0x08D12CCC,84,"Monster extermination in ＜ダンジョン名＞?\nFor today, hunting about ＜数＞\nshould suffice.",SIS05-0553,＜ダンジョン名＞で魔物の退治ですか。\n今日のところは、＜数＞体ほど狩れば\nいいでしょう,0x08D12CCC,0x08D12D24,1
+orfa__08D12D24,0x08D14C14,0x08D12D24,90,"Now, let's hunt monsters as training.\nLet's see...\nDefeating ＜数＞ of them should do.",SIS05-0554,さて、魔物を狩って訓練としましょう。\nそうですね…、\nここの魔物を、＜数＞体せばいいでしょう,0x08D12D24,0x08D12D80,1
+orfa__08D12D80,0x08D14C18,0x08D12D80,54,"Oh, what I see there looks\nlike a ＜モンスター名＞.\n",SIS05-0555,おや、そこに見えるのは\n＜モンスター名＞のようですねえ\n,0x08D12D80,0x08D12DB8,1
+orfa__08D12DB8,0x08D14C20,0x08D12DB8,76,"＜残＞ left, is it?\nI'm starting to feel it's enough,\nbut let's push a little more.",SIS05-0556,残り＜残＞体ですか。\nもう十分の様な気もしてきましたが、\nあと少し頑張りますか,0x08D12DB8,0x08D12E08,1
+orfa__08D12E08,0x08D14C24,0x08D12E08,92,"I wouldn't mind doing a bit more.\nWell, the objective is done,\nso let's head back for today.",SIS05-0557,もう少しやってもいいんですがねえ。\nまあ、目的は果たしましたし、\n今日のところは戻りましょうか,0x08D12E08,0x08D12E68,1
+orfa__08D12E68,0x08D14C28,0x08D12E68,70,"Well, today's goal is achieved.\nNext, rest is needed.\nLet's hurry back.",SIS05-0558,さて、今日の目標は達成しました。\n次は休養が必要です。\n早く戻りましょう,0x08D12E68,0x08D12EB0,1
+orfa__08D12EB0,0x08D14C38,0x08D12EB0,90,"Our objective: defeat ＜数＞\n＜モンスター名＞ in ＜ダンジョン名＞.\nNow, let us be off.",SIS05-0559,目的は、＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体退治ですわね。\nでは、参りましょう,0x08D12EB0,0x08D12F0C,1
+orfa__08D12F0C,0x08D14C3C,0x08D12F0C,92,"This job is monster extermination.\nHere in ＜ダンジョン名＞, ＜数＞ monsters.\nNow, let us begin.",SIS05-0560,今回の仕事は、魔物退治ですわ。\nここ＜ダンジョン名＞にて、魔物を＜数＞体。\nさあ、始めましょう,0x08D12F0C,0x08D12F6C,1
+orfa__08D12F6C,0x08D14C40,0x08D12F6C,66,"Today we'll hunt ＜数＞ here\nas our training.\nNow, off we go!",SIS05-0561,今日はここで＜数＞体狩って、\n訓練としますわ。\nでは、行きますわよ！,0x08D12F6C,0x08D12FB0,1
+orfa__08D12FB0,0x08D14C44,0x08D12FB0,40,Do look.\nIt's a ＜モンスター名＞!\n,SIS05-0562,ご覧になって。\n＜モンスター名＞ですわ！\n,0x08D12FB0,0x08D12FDC,1
+orfa__08D12FDC,0x08D14C4C,0x08D12FDC,26,＜残＞ left to go!\n\n,SIS05-0563,残り、＜残＞体ですわよ！\n\n,0x08D12FDC,0x08D12FF8,1
+orfa__08D12FF8,0x08D14C50,0x08D12FF8,48,"With this, we're done.\nNow, let us return to the ship.\n",SIS05-0564,これで、達成ですわ。\nそれでは、船へ戻りましょう\n,0x08D12FF8,0x08D1302C,1
+orfa__08D1302C,0x08D14C54,0x08D1302C,76,"I do hope my skills improved\neven a little...\nNow, let us head back for today.",SIS05-0565,少しでも、腕を上げられていたら\nよいのですが…。\nさあ、今日はもう戻りましょう,0x08D1302C,0x08D1307C,1
+orfa__08D1307C,0x08D14C64,0x08D1307C,80,"Take out ＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞, right?\nAlright, let's go!",SIS05-0566,＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体退治、だよな？\nじゃあ、行くか！,0x08D1307C,0x08D130D0,1
+orfa__08D130D0,0x08D14C68,0x08D130D0,96,"Umm, we're beating ＜数＞ of the\nmonsters that live here, right?\nOkay, I'll smash whatever I find!",SIS05-0567,ええっと、ここを住処にしてる魔物を\n＜数＞体倒すんだったな。\nよし、手当たり次第ぶつかってやるぞ！,0x08D130D0,0x08D13134,1
+orfa__08D13134,0x08D14C6C,0x08D13134,54,"Okay, training time!\nToday we hunt ＜数＞ monsters\nright here.",SIS05-0568,さあ、修行だ！\n今日はここで、魔物を＜数＞体\n狩るんだぞ,0x08D13134,0x08D1316C,1
+orfa__08D1316C,0x08D14C70,0x08D1316C,34,"Whoa, spotted a ＜モンスター名＞!\n\n",SIS05-0569,おっと、＜モンスター名＞発見だ！\n\n,0x08D1316C,0x08D13190,1
+orfa__08D13190,0x08D14C74,0x08D13190,70,"Oh, you finally came.\nSo, you ready?\nLet's settle who's stronger!",SIS05-0570,お、やっと来たんだ。\nじゃあ、準備はいいな？\nどっちが強いか決めようぜ！,0x08D13190,0x08D131D8,1
+orfa__08D131D8,0x08D14C78,0x08D131D8,44,"Until our target, uh...\n＜残＞ left, right?\n",SIS05-0571,目標数まで、ええと…。\n残り＜残＞体だったな\n,0x08D131D8,0x08D13208,1
+orfa__08D13208,0x08D14C7C,0x08D13208,48,"Alright, monsters taken down.\nOkay, back to the ship!\n",SIS05-0572,よし、魔物を討ち取ったぜ。\nじゃあ、船に帰ろう！\n,0x08D13208,0x08D1323C,1
+orfa__08D1323C,0x08D14C80,0x08D1323C,56,"Heh, objective complete!\nThat was good training.\nNow, back to the ship.",SIS05-0573,へへっ、目標達成！\nいい修行が出来たよ。\nさ、船に戻ろうぜ,0x08D1323C,0x08D13278,1
+orfa__08D13278,0x08D14C84,0x08D13278,82,"Ow ow ow... You're strong.\nBut hey, that was a good test.\nSpar with me again sometime!",SIS05-0574,いっててて…、強いなあ。\nま、でもいい腕試しだったぜ。\nまた今度、付き合ってくれよ！,0x08D13278,0x08D132CC,1
+orfa__08D132CC,0x08D14C88,0x08D132CC,62,"If it's a test of skill,\nI'm up for it any time.\nCome on, bring it!!",SIS05-0575,腕試しってなら、\n何度でもオッケーだぜ。\nさあ、かかって来い！！,0x08D132CC,0x08D1330C,1
+orfa__08D1330C,0x08D14C90,0x08D1330C,96,"Um, so what we have to do is...\ndefeat ＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞, right.",SIS05-0576,えっと、やんなくちゃいけないのは…、\n＜ダンジョン名＞にいる\n＜モンスター名＞、＜数＞体の退治だね,0x08D1330C,0x08D13370,1
+orfa__08D13370,0x08D14C94,0x08D13370,108,"Monster extermination... ＜数＞ of them...\nWell, I guess we just beat any\nof the ones in ＜ダンジョン名＞, but...",SIS05-0577,魔物退治かぁ…、それも＜数＞体も…。\nまあ、＜ダンジョン名＞にいる奴を\nどれでも倒していけばいいんだろうけど…,0x08D13370,0x08D133E0,1
+orfa__08D133E0,0x08D14C98,0x08D133E0,100,"I don't really like hunting monsters,\nbut I do need the training...\nOkay, today's goal is ＜数＞.",SIS05-0578,魔物を狩るなんてあんまり好きじゃないけど、\n修行も必要だしなぁ…。\nじゃあ、今日は目標＜数＞体でいこう,0x08D133E0,0x08D13448,1
+orfa__08D13448,0x08D14C9C,0x08D13448,46,"H-hey.\nThat's a ＜モンスター名＞, isn't it...?\n",SIS05-0579,ね、ねえ。\nあれって＜モンスター名＞だよね…？\n,0x08D13448,0x08D13478,1
+orfa__08D13478,0x08D14CA0,0x08D13478,82,"Sorry, ○○.\nYou're the only one I can ask to spar.\nW-well then... here I come!!",SIS05-0580,ごめん、○○。\n腕試しなんて、君にしか頼めないから。\nじゃ、じゃあ…、早速行くよ！！,0x08D13478,0x08D134CC,1
+orfa__08D134CC,0x08D14CA4,0x08D134CC,60,"＜残＞ more till our goal, huh.\nSigh... I want this over with.\n",SIS05-0581,今回の目標まで、あと＜残＞体か。\nはぁ…、早く終わりたいなぁ\n,0x08D134CC,0x08D1350C,1
+orfa__08D1350C,0x08D14CA8,0x08D1350C,50,Sigh... finally done...\nI wanna get back to the ship...\n,SIS05-0582,はぁ…、やっと済んだ…。\n僕、早く船に帰りたいよ…\n,0x08D1350C,0x08D13540,1
+orfa__08D13540,0x08D14CAC,0x08D13540,76,Sigh... finally... objective done...\nMaybe I overdid it today.\nLet's hurry back...,SIS05-0583,はぁ…、やっと…目的達成…。\nちょっと今日は無理をしたかなぁ。\n早く戻ろうよ…,0x08D13540,0x08D13590,1
+orfa__08D13590,0x08D14CB0,0x08D13590,62,You came at me for real... Jeez...\nSigh.........\nI'm going home...,SIS05-0584,君、本気で来たでしょ…、もう…。\nはぁ………。\n僕、もう帰るよ…,0x08D13590,0x08D135D0,1
+orfa__08D135D0,0x08D14CB4,0x08D135D0,88,"H-hey... you're not mad, are you?\nIt's just a spar, so go easy on me!\nOkay, here I come...",SIS05-0585,え、ちょっと…怒ってないよね？\nあくまで腕試しだから、少し手加減してね！\nじゃあ、行くよ…,0x08D135D0,0x08D1362C,1
+orfa__08D1362C,0x08D14CBC,0x08D1362C,82,"No dawdlin', let's go!\nWe're takin' out ＜数＞\n＜モンスター名＞ in ＜ダンジョン名＞!",SIS05-0586,チンタラせずに、行くぜ！\n＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体退治だ！,0x08D1362C,0x08D13680,1
+orfa__08D13680,0x08D14CC0,0x08D13680,82,"Monster huntin' in ＜ダンジョン名＞, huh.\n＜数＞? If we just wing it,\nwe'll be done in no time.",SIS05-0587,＜ダンジョン名＞で魔物狩りか。\n＜数＞体なんて、適当にやってりゃ\nすぐ達成出来るだろ,0x08D13680,0x08D136D4,1
+orfa__08D136D4,0x08D14CC4,0x08D136D4,90,"Today we train by takin' out\n＜数＞ monsters here.\nAlright, I'm gonna mow 'em down!",SIS05-0588,今日は、ここにいる魔物を＜数＞体\nやって修行にすんだ。\nよーし、じゃあバッサバッサ散らすぜ！,0x08D136D4,0x08D13730,1
+orfa__08D13730,0x08D14CC8,0x08D13730,56,"Whoa, ain't this a ＜モンスター名＞?\nLet's wreck it!\n",SIS05-0589,おお、こいつ＜モンスター名＞じゃねえ？\nやっちまおうぜ！\n,0x08D13730,0x08D1376C,1
+orfa__08D1376C,0x08D14CD0,0x08D1376C,32,＜残＞ more? Seriously?\nWhat a drag.\n,SIS05-0590,あと、＜残＞体かよ。\nたりぃーぜ\n,0x08D1376C,0x08D13790,1
+orfa__08D13790,0x08D14CD4,0x08D13790,50,"That was nothin', it's over already?\nWell, let's head back!\n",SIS05-0591,あっけねぇの、もう終わりかよ。\nんじゃ、帰ろうぜ！\n,0x08D13790,0x08D137C4,1
+orfa__08D137C4,0x08D14CD8,0x08D137C4,78,"Ooh, that was decent training, eh?\nWell, we're done, let's beat it.\n",SIS05-0592,おー、なかなかいい修行になったんじゃね？\nんじゃ、用も済んだしとっとと帰ろうぜ\n,0x08D137C4,0x08D13814,1
+orfa__08D13814,0x08D14CE8,0x08D13814,90,＜数＞ ＜モンスター名＞\nin ＜ダンジョン名＞...\nSilencing them for good is the job.,SIS05-0593,＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体…、\n奴らの息の根を止めるのが今回の仕事だ,0x08D13814,0x08D13870,1
+orfa__08D13870,0x08D14CEC,0x08D13870,76,"Now, it's time to hunt.\nThe monsters here in ＜ダンジョン名＞...\nWe take down ＜数＞ of them...",SIS05-0594,さあ、狩りの時間だ。\nここ＜ダンジョン名＞にいる魔物を\n＜数＞体、仕留めるぞ…,0x08D13870,0x08D138C0,1
+orfa__08D138C0,0x08D14CF0,0x08D138C0,46,We strike the monsters here.\nTarget count: ＜数＞.\nLet's go...,SIS05-0595,ここの魔物を討つ。\n目標数＜数＞体だ。\n行くぞ…,0x08D138C0,0x08D138F0,1
+orfa__08D138F0,0x08D14CF4,0x08D138F0,46,"A ＜モンスター名＞.\nGet into battle stance, now...\n",SIS05-0596,＜モンスター名＞だ。\n速やかに戦闘態勢に移れ…\n,0x08D138F0,0x08D13920,1
+orfa__08D13920,0x08D14CFC,0x08D13920,16,＜残＞ left...\n\n,SIS05-0597,残り＜残＞体…\n\n,0x08D13920,0x08D13934,1
+orfa__08D13934,0x08D14D00,0x08D13934,24,Job's done.\nWe're going back...\n,SIS05-0598,仕事は済んだ。\n帰るぞ…\n,0x08D13934,0x08D13950,1
+orfa__08D13950,0x08D14D04,0x08D13950,66,"Hardly worth calling training...\nWhatever, the objective is done.\nWe're going back...",SIS05-0599,訓練と言う程でもなかったな…。\nまあいい、目的は果たした。\n帰るぞ…,0x08D13950,0x08D13994,1
+orfa__08D13994,0x08D14D14,0x08D13994,92,"Today we just take out ＜数＞\n＜モンスター名＞ in ＜ダンジョン名＞.\nNow, let's make it quick.",SIS05-0600,今日は、＜ダンジョン名＞で\n＜モンスター名＞を＜数＞体退治すりゃいい。\nさあ、早く済ませようぜ,0x08D13994,0x08D139F4,1
+orfa__08D139F4,0x08D14D18,0x08D139F4,88,"Monster huntin', huh.\n＜ダンジョン名＞ here's crawlin' with 'em,\nbut we only need ＜数＞ this time, right?",SIS05-0601,魔物退治ねえ。\nここ＜ダンジョン名＞にはゴマンといるが、\n今回は＜数＞体でいいんだっけか？,0x08D139F4,0x08D13A50,1
+orfa__08D13A50,0x08D14D1C,0x08D13A50,80,"We hunt ＜数＞ of the monsters here.\nThat's today's training.\nWell, let's get started, shall we.",SIS05-0602,ここにいる魔物を、＜数＞体狩る。\nそれが、今日の修行だ。\nじゃ、始めようじゃねえか,0x08D13A50,0x08D13AA4,1
+orfa__08D13AA4,0x08D14D20,0x08D13AA4,36,"Whoa.\nFace to face with a ＜モンスター名＞, huh.\n",SIS05-0603,おっと。\n＜モンスター名＞にご対面か\n,0x08D13AA4,0x08D13ACC,1
+orfa__08D13ACC,0x08D14D24,0x08D13ACC,50,"Finally made it, huh.\nWell then, let's both have some fun.\n",SIS05-0604,やっとご到着か。\nんじゃ、お互い楽しもうじゃないの\n,0x08D13ACC,0x08D13B00,1
+orfa__08D13B00,0x08D14D28,0x08D13B00,42,"＜残＞ left, huh.\nDoesn't look like it's endin' soon...\n",SIS05-0605,残り＜残＞体か。\nまだ終わりそうにねえな…\n,0x08D13B00,0x08D13B2C,1
+orfa__08D13B2C,0x08D14D2C,0x08D13B2C,42,"Well, that's about it.\nGuess we'll head back.\n",SIS05-0606,まあ、こんなもんだな。\nじゃ、帰るとするか\n,0x08D13B2C,0x08D13B58,1
+orfa__08D13B58,0x08D14D30,0x08D13B58,68,"Alright, that'll do.\nYou had some good moves too.\nWell, guess we'll head back.",SIS05-0607,よし、こんなもんだな。\nあんたもいい筋してたぜ。\nじゃあ、帰るとするか,0x08D13B58,0x08D13BA0,1
+orfa__08D13BA0,0x08D14D34,0x08D13BA0,60,"My loss, huh.\nWell, can't be helped.\nGotta polish my skills more.",SIS05-0608,こっちの負け、か。\nま、しょーがねえ。\nもっと腕を磨かねえとな,0x08D13BA0,0x08D13BE0,1
+orfa__08D13BE0,0x08D14D38,0x08D13BE0,58,"Wanted more of a fight from that match.\nDo better next time, okay?\n",SIS05-0609,さっきの勝負は、もちっと手応えが欲しかったな。\n次は頼むぜ\n,0x08D13BE0,0x08D13C1C,1
+orfa__08D13C1C,0x08D14D40,0x08D13C1C,98,"So we're taking out ＜数＞\n＜モンスター名＞ in ＜ダンジョン名＞... right?\nWell then, let's go!",SIS05-0610,退治するのは、＜ダンジョン名＞にいる\n＜モンスター名＞を、＜数＞体…です？\nそれじゃ、行きましょう！,0x08D13C1C,0x08D13C80,1
+orfa__08D13C80,0x08D14D44,0x08D13C80,72,"So we defeat the monsters\nhere in ＜ダンジョン名＞.\nUm, the target is ＜数＞ of them.",SIS05-0611,ここ＜ダンジョン名＞にいる魔物を\n倒すんですね。\nええと、数は＜数＞体です,0x08D13C80,0x08D13CCC,1
+orfa__08D13CCC,0x08D14D48,0x08D13CCC,78,"Today we train by hunting monsters.\nThe goal is ＜数＞ of them.\nAlright, let's go!",SIS05-0612,今日は魔物を狩って修行するんです。\n目標は＜数＞体です。\nそれじゃ、行きましょう,0x08D13CCC,0x08D13D1C,1
+orfa__08D13D1C,0x08D14D4C,0x08D13D1C,38,"Ah, there's one!\nIt's a ＜モンスター名＞!\n",SIS05-0613,あっ、います。\n＜モンスター名＞です！\n,0x08D13D1C,0x08D13D44,1
+orfa__08D13D44,0x08D14D54,0x08D13D44,28,That leaves ＜残＞ more!\n\n,SIS05-0614,これで、残り＜残＞体です！\n\n,0x08D13D44,0x08D13D64,1
+orfa__08D13D64,0x08D14D58,0x08D13D64,54,"That's the end of it.\nBack to the ship, everyone's waiting.\n",SIS05-0615,これで、終わりです。\nじゃあ、皆が待つ船へ帰りましょう\n,0x08D13D64,0x08D13D9C,1
+orfa__08D13D9C,0x08D14D5C,0x08D13D9C,60,"That was tough, but great training.\nWell then, let's head back.\n",SIS05-0616,大変でしたが、いい修行になりました。\nそれじゃ、戻りましょう\n,0x08D13D9C,0x08D13DDC,1
+orfa__08D13DDC,0x08D14D7C,0x08D13DDC,92,"...I-I, um... I want to test\nhow much stronger I've gotten...\nP-please, fight me!!",SIS05-0617,…ぼ、僕、その……、どれだけ強くなれたか\n腕試しがしたくて…。\nあ、あの…、お願いしますっ！！,0x08D13DDC,0x08D13E3C,1
+orfa__08D13E3C,0x08D14D8C,0x08D13E3C,80,"...Ugh, I lost...\nI thought I might win a little,\nbut I was getting ahead of myself...",SIS05-0618,…うう、負けた……。\nちょっとは勝てるかもって思ったけど、\n思い上がりだったよ……,0x08D13E3C,0x08D13E90,1
+orfa__08D13E90,0x08D14D90,0x08D13E90,42,U-um... one more... please!!\n\n,SIS05-0619,あ、あの…、もう一度…お願いしますっ！！\n\n,0x08D13E90,0x08D13EBC,1
+orfa__08D13EBC,0x08D14D98,0x08D13EBC,78,"Listen. Our target is in ＜ダンジョン名＞:\n＜モンスター名＞, ＜数＞ of them.\nMove out...",SIS05-0620,いいか？　目標は＜ダンジョン名＞にいる\n＜モンスター名＞、＜数＞体だ。\n進むぞ…,0x08D13EBC,0x08D13F0C,1
+orfa__08D13F0C,0x08D14D9C,0x08D13F0C,72,Strike down the monsters in ＜ダンジョン名＞.\nHmm... at least ＜数＞ must be slain...\n,SIS05-0621,この＜ダンジョン名＞の魔物を討て。\nそうだな、＜数＞体は仕留めなければ…\n,0x08D13F0C,0x08D13F58,1
+orfa__08D13F58,0x08D14DA0,0x08D13F58,70,We cut down the monsters here.\nHunting about ＜数＞ of them\nshould hone our skills a little...,SIS05-0622,ここの魔物を討ち取る。\n＜数＞体ほど狩れば、\n少しは腕磨きになるだろう…,0x08D13F58,0x08D13FA0,1
+orfa__08D13FA0,0x08D14DA4,0x08D13FA0,30,It's a ＜モンスター名＞.\nTake it down!\n,SIS05-0623,＜モンスター名＞だ。\n討つぞ！\n,0x08D13FA0,0x08D13FC0,1
+orfa__08D13FC0,0x08D14DAC,0x08D13FC0,34,We still need to hunt ＜残＞ more...\n\n,SIS05-0624,あと、＜残＞体狩る必要があるな…\n\n,0x08D13FC0,0x08D13FE4,1
+orfa__08D13FE4,0x08D14DB0,0x08D13FE4,48,Our objective is complete.\nWe have no more business here.\nWe're going back...,SIS05-0625,目的は果たした。\nもう、ここに用は無い。\n帰るぞ…,0x08D13FE4,0x08D14018,1
+orfa__08D14018,0x08D14DB4,0x08D14018,68,Felling that many should toughen us.\nThat's enough for today.\nWe're heading back...,SIS05-0626,あれだけ倒せば、少しは鍛えられたろう。\n今日はもう終わりだ。\n戻るぞ…,0x08D14018,0x08D14060,1
+orfa__08D14060,0x08D14DC4,0x08D14060,92,"So we just go to ＜ダンジョン名＞\nand beat ＜数＞ of the ＜モンスター名＞!\nAlright, full steam ahead!",SIS05-0627,＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体\n倒せばいいんだね！　よし、ガンドコ行こう！,0x08D14060,0x08D140C0,1
+orfa__08D140C0,0x08D14DC8,0x08D140C0,100,"For this hunt, any monster in ＜ダンジョン名＞\nis fine, see?\nWe just have to beat ＜数＞ of them!",SIS05-0628,今回の魔物退治はさ、＜ダンジョン名＞にいる\n魔物なら何でもいいんだ。\n＜数＞体、退治すればいいんだよ！,0x08D140C0,0x08D14128,1
+orfa__08D14128,0x08D14DCC,0x08D14128,94,"Today we're training together!\nWe hunt ＜数＞ monsters around here!\nAlright, full steam ahead!!",SIS05-0629,じゃあ、今日は一緒に修行だよ。\nここにいる魔物を＜数＞体、狩るんだ！\nよーし、ガンドコ行くぞ！！,0x08D14128,0x08D14188,1
+orfa__08D14188,0x08D14DD0,0x08D14188,54,"Hey, hey, isn't that thing over there\na ＜モンスター名＞?!\n",SIS05-0630,ねえねえ、あそこにいるのって\n＜モンスター名＞だよね！\n,0x08D14188,0x08D141C0,1
+orfa__08D141C0,0x08D14DD4,0x08D141C0,54,"A match with ○○?\nI'm so excited!\nOkay, here I come!!",SIS05-0631,○○と勝負だなんて\nワクワクするな。\nじゃあ、行くよ！！,0x08D141C0,0x08D141F8,1
+orfa__08D141F8,0x08D14DD8,0x08D141F8,52,"Only ＜残＞ left!\nAlright, let's push on to the target!!\n",SIS05-0632,残り＜残＞体だね！\nよーっし、目標数まで頑張るぞ！！\n,0x08D141F8,0x08D14230,1
+orfa__08D14230,0x08D14DDC,0x08D14230,80,"Yay! Goal reached!!\n○○, you worked really hard too!\nNow let's go back to the ship.",SIS05-0633,やった！　目標達成だ！！\n○○も、すごく頑張ってたよね！\nそれじゃあ、船へ戻ろうよ,0x08D14230,0x08D14284,1
+orfa__08D14284,0x08D14DE0,0x08D14284,76,"All right, goal reached!\nI wonder... did I get stronger?\nOkay, let's hurry back to the ship!",SIS05-0634,よし、目標達成！\nどうだろう、強くなれたかなぁ？\nそれじゃあ、早く船に帰ろう！,0x08D14284,0x08D142D4,1
+orfa__08D142D4,0x08D14DE4,0x08D142D4,98,"Aw, I lost, huh.\nBut it was like sparring with Grandpa.\nYeah, that was fun! Thanks!",SIS05-0635,ああ、オレの負けかぁ。\nでも、じいちゃんとの腕試しを思い出したよ。\nうん、楽しかった！　ありがとう！,0x08D142D4,0x08D14338,1
+orfa__08D14338,0x08D14DE8,0x08D14338,64,"Going up against ○○ is always\nso much fun.\nOkay, one more round!",SIS05-0636,やっぱり、○○と勝負をすると\n楽しいよ。\nじゃあ、もう一戦行こう！,0x08D14338,0x08D1437C,1
+orfa__08D1437C,0x08D14DF8,0x08D1437C,94,"Training here isn't like the Knights...\nToday we train the Ad Libitum way,\nhunting ＜数＞ monsters in this land.",SIS05-0637,騎士団の時と修行の勝手は違うが…。\n今日は、アドリビトム流の修行で\nこの地の魔物を＜数＞体狩るぞ,0x08D1437C,0x08D143DC,1
+orfa__08D143DC,0x08D14DFC,0x08D143DC,52,"It's a ＜モンスター名＞!\nEveryone, let's strike first!\n",SIS05-0638,＜モンスター名＞だ！\nみんな、このまま先手を打つぞ！\n,0x08D143DC,0x08D14414,1
+orfa__08D14414,0x08D14E00,0x08D14414,70,"If I fight you,\nI feel I could get even stronger.\nSo, please, spar with me!",SIS05-0639,お前と戦えば、\nもっと強くなれそうな気がするんだ。\nでは、手合いを頼む！,0x08D14414,0x08D1445C,1
+orfa__08D1445C,0x08D14E04,0x08D1445C,18,"＜残＞ left, huh...\n\n",SIS05-0640,残り＜残＞体か…\n\n,0x08D1445C,0x08D14470,1
+orfa__08D14470,0x08D14E08,0x08D14470,56,"We've reached the goal.\nWe shouldn't push it any further.\nCome, let's go back.",SIS05-0641,目標に届いたか。\nこれ以上の無理はいけない。\nさあ、戻ろう,0x08D14470,0x08D144AC,1
+orfa__08D14470,0x08D14E0C,0x08D14470,56,"We've reached the goal.\nWe shouldn't push it any further.\nCome, let's go back.",SIS05-0641,目標に届いたか。\nこれ以上の無理はいけない。\nさあ、戻ろう,0x08D14470,0x08D144AC,1
+orfa__08D144AC,0x08D14E10,0x08D144AC,60,"Thank you.\nThat was a good match.\nNow, let's head back to the ship.",SIS05-0642,ありがとう。\nいい勝負を経験出来た。\nじゃあ、船へ戻るとしよう,0x08D144AC,0x08D144EC,1
+orfa__08D144EC,0x08D14E14,0x08D144EC,44,"Well then, shall we have a rematch?\nAre you ready?\n",SIS05-0643,それじゃあ、再戦と行こうか。\n準備はいいか？\n,0x08D144EC,0x08D1451C,1
+orfa__08D1451C,0x08D14E1C,0x08D1451C,90,"So today, in ＜ダンジョン名＞,\nwe take out ＜数＞ of the ＜モンスター名＞.\nOkay, let's go!",SIS05-0644,今日はね、＜ダンジョン名＞にいる\n＜モンスター名＞を＜数＞体退治するの。\nそれじゃ、行こっ！,0x08D1451C,0x08D14578,1
+orfa__08D14578,0x08D14E20,0x08D14578,88,"Today we're beating ＜数＞ monsters\nhere in ＜ダンジョン名＞.\nCome on, let's do a good job!",SIS05-0645,今日はね、この＜ダンジョン名＞で\n魔物を＜数＞体退治するんだよ。\nさ、いい仕事にしようね！,0x08D14578,0x08D145D4,1
+orfa__08D145D4,0x08D14E24,0x08D145D4,80,Now we'll train by hunting monsters\nhere in ＜ダンジョン名＞.\nOur goal is ＜数＞ of them!,SIS05-0646,これから、この＜ダンジョン名＞で\n魔物を狩って修行をするよ。\n目標は＜数＞体だよ！,0x08D145D4,0x08D14628,1
+orfa__08D14628,0x08D14E28,0x08D14628,52,"○○, look...\nIt's a ＜モンスター名＞.\nShall we keep going...?",SIS05-0647,○○、見て…。\n＜モンスター名＞よ。\nこのまま行く…？,0x08D14628,0x08D14660,1
+orfa__08D14660,0x08D14E2C,0x08D14660,68,"Sorry about this.\nThanks for coming.\nNow, let's both give it our all!",SIS05-0648,ごめんね。\n来てくれてありがとう。\nそれじゃあ、お互い全力で行こうね！,0x08D14660,0x08D146A8,1
+orfa__08D146A8,0x08D14E30,0x08D146A8,60,Just ＜残＞ more left...\nTo the end... I'll put my life on it...\n,SIS05-0649,あと、残りは＜残＞体…。\n最後まで…、命を架していかなきゃ…\n,0x08D146A8,0x08D146E8,1
+orfa__08D146E8,0x08D14E34,0x08D146E8,82,"I'm glad we finished safely...\nCome on, let's go back.\nLet's go have the tea Rocks brewed!",SIS05-0650,無事に終えられてよかった…。\nさあ、戻ろっ。\n戻って、ロックスがいれた紅茶を飲もうよ,0x08D146E8,0x08D1473C,1
+orfa__08D1473C,0x08D14E38,0x08D1473C,80,Your training has surely paid off.\nWe faced them with all our hearts...\nCome... let's go back.,SIS05-0651,修行の成果、きっと身についているよ。\n真剣に立ち向かえたんだもの…。\nさ…、戻ろう,0x08D1473C,0x08D14790,1
+orfa__08D14790,0x08D14E3C,0x08D14790,88,"Your strength was amazing.\nHehe, trading blows was a real blast!\nNow, back to the ship!",SIS05-0652,すごかったよ、あなたの力。\nふふ、いっぱいぶつかり合えて楽しかった！\nじゃあ、船に戻ろっ！,0x08D14790,0x08D147EC,1
+orfa__08D147EC,0x08D14E40,0x08D147EC,80,"I got too worked up last time,\nso I might lose this one...\nBut I'll do my very best!!",SIS05-0653,さっきは張り切りすぎたから、\n次は負けちゃうかもなぁ…。\nでも、全力で頑張るね！！,0x08D147EC,0x08D14840,1
+orfa__08D151E0,0x08D186C0,0x08D151E0,71,"Once hailed as heroes, it's these two!#Any daredevils out there to take 'em on?",SIS05-0654,かつて英雄とも言われたこの二人！#そんな彼らに挑む命知らずはいないかい？,0x08D151E0,0x08D15228,1
+orfa__08D1523C,0x08D18724,0x08D1523C,75,"They may bicker, but their blades sync!#Who'll take on these kindred spirits?!",SIS05-0655,仲は悪そうだけど剣の腕は息ぴったり！#どこか似た者同士の二人に挑むのは誰だ！,0x08D1523C,0x08D15288,1
+orfa__08D1529C,0x08D18788,0x08D1529C,89,"A former knight and a real, active one!#The crowd's waiting! Any challengers?",SIS05-0656,元騎士とホンモノの現役騎士が相手だよ！#さー、観客も楽しみにしてるよ。挑戦者はいないかな？,0x08D1529C,0x08D152F8,1
+orfa__08D15308,0x08D187EC,0x08D15308,77,"Whoa! At last, royalty in the Colosseum!#What tough challenger can beat them?!",SIS05-0657,何とッ！　とうとうこの闘技場にも王族が！#この二人に勝てる屈強な挑戦者は誰！？,0x08D15308,0x08D15358,1
+orfa__08D15368,0x08D18850,0x08D15368,99,"Self-styled guardians of the World Tree!#So far, all fell! Who'll defy that fate?",SIS05-0658,世界樹の防人を謳うこの二人。今まで挑んだ者は皆倒れる運命に！#この運命を打ち破る新たな挑戦者は誰だ！,0x08D15368,0x08D153CC,1
+orfa__08D153D8,0x08D188B4,0x08D153D8,87,"Cute, yet such bold swordplay! Behold!#Challengers are flocking! Sign up fast!",SIS05-0659,可愛いながらも豪快な剣技をごろうじろ！#挑戦者殺到の人気試合だよ！　申し込みはお早めに！,0x08D153D8,0x08D15430,1
+orfa__08D15450,0x08D18918,0x08D15450,107,This wild bunch wants a tough fight!#Too wild for us! Someone tame 'em~!!,SIS05-0660,メチャクチャな奴らが強い挑戦者を相手に暴れたいらしいんだ！#手に負えないから、誰か大人しくさせてくれよ〜！！,0x08D15450,0x08D154BC,1
+orfa__08D154DC,0x08D1897C,0x08D154DC,75,"Face our Colosseum's hottest heroes!#Win, and you could be a star too!?",SIS05-0661,我が闘技場で人気のヒーロー達が相手だよ！#勝てばキミも人気者になれるかも！？,0x08D154DC,0x08D15528,1
+orfa__08D15548,0x08D189E0,0x08D15548,77,"Face our Colosseum's hottest beauties!#Win, and you could be a star too!?",SIS05-0662,我が闘技場で人気のビューティ達が相手だよ！#勝てばキミも人気者になれるかも！？,0x08D15548,0x08D15598,1
+orfa__08D155B0,0x08D18A44,0x08D155B0,81,A fighter from another world!#Never-seen moves wow crowds! Want a go?,SIS05-0663,異世界からの参加者だよ！#見た事もない技で観客を沸かせるスゴイ奴さ！　挑んでみる？,0x08D155B0,0x08D15604,1
+orfa__08D15610,0x08D18AA8,0x08D15610,87,"A fighter from another world!#Scary, shy, and wants a pal! Who's up?",SIS05-0664,異世界からの参加者だよ！#姿はおっかないけど、構って欲しいシャイな彼さ！　誰が挑むかな？,0x08D15610,0x08D15668,1
+orfa__08D15678,0x08D18B0C,0x08D15678,69,"Wielding the Eternal Sword, Cress joins!#So, who's gonna take him on?",SIS05-0665,エターナルソードを手に、時空剣士が参戦だ！#さあ、挑戦するのは誰かい？,0x08D15678,0x08D156C0,1
+orfa__08D156CC,0x08D18B70,0x08D156CC,66,A fiery guy whose partner is his sword!#Show us a HOT battle!,SIS05-0666,己の剣を相棒として扱う熱い男が参戦だ！#HOTなバトルで魅せてくれよ！,0x08D156CC,0x08D15710,1
+orfa__08D15720,0x08D18BD4,0x08D15720,69,"Reid, bearer of the inner Aurora, joins!#Can you outshine his brilliance?",SIS05-0667,内なる輝き、極光を秘めし者リッドが参戦だ！#この眩しさにキミは勝てる？,0x08D15720,0x08D15768,1
+orfa__08D15774,0x08D18C38,0x08D15774,87,"A would-be hero joins, aiming higher!#Which challenger will help him grow?!",SIS05-0668,英雄志願の少年が、更なる高みを目指して参戦だーい！#彼を成長させてくれる挑戦者は誰だッ？,0x08D15774,0x08D157CC,1
+orfa__08D157E0,0x08D18C9C,0x08D157E0,81,Here to show the world dual-blade power!#How will you face that swordplay?!,SIS05-0669,二刀流の強さを世に知らしめる為に参戦だ！#その剣技を前に、挑戦者はどう出るのか！？,0x08D157E0,0x08D15834,1
+orfa__08D15840,0x08D18D00,0x08D15840,103,"Cool as ice, but his heart runs hot!#Any challenger to heat him up more?",SIS05-0670,氷の様にクールな男さ！　だけどもハートは誰よりもヒート！#さあ、彼をもっと熱くさせる挑戦者はいないかい？,0x08D15840,0x08D158A8,1
+orfa__08D158B4,0x08D18D64,0x08D158B4,81,Shining fists unleash a dance of blows!#Dazzling moves mean an instant KO!,SIS05-0671,輝くその手で繰り出されるは拳の舞踏！#めくるめく技に相手はたちまちノックアウトさ！,0x08D158B4,0x08D15908,1
+orfa__08D15918,0x08D18DC8,0x08D15918,97,"This naive guy wields the Albert style!#Beat him, and you'll make a name here!",SIS05-0672,世間知らずなこの彼は、あのアルバート流の使い手さ！#勝てばこの闘技場でも名を馳せられちゃうかもね！,0x08D15918,0x08D1597C,1
+orfa__08D15988,0x08D18E2C,0x08D15988,83,"In his veins flows wild Raymon blood!#Now then, who can tame this one?",SIS05-0673,その身体に流れるは、レイモーンの民の野生の血！#さーぁ、誰が彼をてなづけられるかな？,0x08D15988,0x08D159DC,1
+orfa__08D159EC,0x08D18E90,0x08D159EC,99,"Meek, but a fiend with a greatsword!#His wild fighting will blow you away!",SIS05-0674,ナヨっとしてるけど、大剣を持てばその強さは鬼神の如し！#豪快なその闘いっぷりに、君は圧倒されるハズ！,0x08D159EC,0x08D15A50,1
+orfa__08D15A60,0x08D18EF4,0x08D15A60,83,Another face in battle! Which is real?!#Which challenger will expose the truth?!,SIS05-0675,戦いに赴く時は別の顔！　彼の本当の姿はどっちなの！？#それを暴く挑戦者は一体誰だ！？,0x08D15A60,0x08D15AB4,1
+orfa__08D15AC4,0x08D18F58,0x08D15AC4,95,"Wanted, yet he follows his own justice!#Who'll test his so-called justice?!",SIS05-0676,お尋ね者の彼だけど…信じ突き進むは己の正義の道！#さあ、彼の正義とやらにぶつかってみる奴は誰だ！,0x08D15AC4,0x08D15B24,1
+orfa__08D15B34,0x08D18FBC,0x08D15B34,75,Curiosity is the source of his power!#Who'll satisfy his full-steam curiosity?,SIS05-0677,好奇心が彼のパワーの源さ！#ガンドコ突き進む彼の好奇心を満たす相手は誰かな？,0x08D15B34,0x08D15B80,1
+orfa__08D15B8C,0x08D19020,0x08D15B8C,71,"To protect his own, he draws his sword!#Who'll face this knight on active duty?",SIS05-0678,大切なものを守る為、彼は今日も剣を取る！#現役騎士の彼に挑む者は誰だい？,0x08D15B8C,0x08D15BD4,1
+orfa__08D15BE4,0x08D19084,0x08D15BE4,84,She's the greatsword-wielding WAR HEAD!!#Who'll make her Love Beat echo here?!,SIS05-0679,あの娘は大剣使いのWAR　HEAD！！#彼女のラヴ・ビートを闘技場に響かせてくれるのは誰！？,0x08D15BE4,0x08D15C3C,1
+orfa__08D15C4C,0x08D190E8,0x08D15C4C,79,"Kitchen warrior with ladle and sunfish!#Here she comes, apron and all!",SIS05-0680,お玉とまんぼうを手に、キッチンという戦場からやって来た！#エプロン姿で登場だい！,0x08D15C4C,0x08D15C9C,1
+orfa__08D15CA8,0x08D1914C,0x08D15CA8,77,Our Colosseum's undefeated champion!#Who'll rip away his championship belt?!,SIS05-0681,我が闘技場で不動のチャンピオンさ！#彼のチャンピオンベルトを剥ぎ取るのは誰！？,0x08D15CA8,0x08D15CF8,1
+orfa__08D15D10,0x08D191B0,0x08D15D10,73,He leaves nothing but corpses behind!#Can no one match his destructive might?!,SIS05-0682,彼の通った後は骸しか残らない！#奴の強大な破壊力には誰もかなわないのか！？,0x08D15D10,0x08D15D5C,1
+orfa__08D15D6C,0x08D19214,0x08D15D6C,91,"Faster than Chunchun, stings like a bee!#Your foe: Colosseum owner, Lord Mormo!!",SIS05-0683,チュンチュンよりも速く、キラービーの如く刺す！#闘技場のオーナー・モルモ様がお相手だーい！！,0x08D15D6C,0x08D15DC8,1
+orfa__08D15DE0,0x08D19278,0x08D15DE0,89,"Sweet smile, but a blizzard of petals!#Who'll face this otherworld Descender?!",SIS05-0684,小春日和な笑顔とは裏腹に、繰り出す技は花吹雪！#異世界のディセンダーの力に挑むのは誰だ！！,0x08D15DE0,0x08D15E3C,1
+orfa__08D15E50,0x08D192DC,0x08D15E50,105,"Titled 'Master of Wonder Bread Arts',#she's here!! Care for her Bread Barrage?",SIS05-0685,「ワンダーパン職人流パン術免許皆伝」の称号を持つ#あの娘が参戦だい！！　彼女のパン沙雨を食らってみるかい？,0x08D15E50,0x08D15EBC,1
+orfa__08D16114,0x08D196C4,0x08D16114,61,"Their bickering-couple comedy is legend!#Today, they're here for a real fight!",SIS05-0686,イジりイジられ夫婦漫才は最早お家芸！#今日は真剣勝負で参戦だ！,0x08D16114,0x08D16154,1
+orfa__08D161B0,0x08D1978C,0x08D161B0,67,"Their bond is for the sake of justice!#Treading justice's path, these two join!",SIS05-0687,二人の絆は正義の為に！#正義の道を踏みしめて、二人が闘技場に参戦だ！,0x08D161B0,0x08D161F4,1
+orfa__08D16238,0x08D19854,0x08D16238,69,To protect what they hold dear...#This pair seeks strength for that wish!,SIS05-0688,守りたいものを守る為に…。#その願いを胸に、強さを求める二人が参戦だ！,0x08D16238,0x08D16280,1
+orfa__08D1640C,0x08D19AAC,0x08D1640C,79,"Lovelorn, all smiles but crying inside!#Manly Kongman's big chance to shine!",SIS05-0689,切ない恋に顔で笑って背中で泣いて！#漢コングマンのいいとこ見せたい晴れ舞台だよ！,0x08D1640C,0x08D1645C,1
+orfa__08D16624,0x08D19DCC,0x08D16624,57,"Today only, safe from her joint locks!#Two powerhouses join the fray!",SIS05-0690,今日だけは彼女の関節技から逃れて！#剛力な二人が参戦だよ！,0x08D16624,0x08D16660,1
+orfa__08D16A64,0x08D1A46C,0x08D16A64,16,Bodyguard & Guardian,SIS05-0691,用心棒 兼 保護者,0x08D16A64,0x08D16A78,1
+orfa__08D16E7C,0x08D1AAB0,0x08D16E7C,63,"These two were once childhood friends,#and are back with a different vibe now!",SIS05-0692,かつては幼馴染だったこの二人、#今はちょっと違う雰囲気で参戦さ！,0x08D16E7C,0x08D16EBC,1
+orfa__08D16F90,0x08D1AC40,0x08D16F90,69,"Brothers? No, maybe father and son?#Two matched in looks and skill join in!",SIS05-0693,兄弟？　いやひょっとして親子？#見た目も腕も息の合った二人が参戦だよ！,0x08D16F90,0x08D16FD8,1
+orfa__08D16FEC,0x08D1ACA4,0x08D16FEC,73,Smelling of fresh bread and Mabo Curry!#Here comes a tasty duo!,SIS05-0694,香ばしいパンとマーボカレーの匂いを引っ下げて！#オイシイ二人の参戦だーい！,0x08D16FEC,0x08D17038,1
+orfa__08D17050,0x08D1AD08,0x08D17050,81,Their pretty battling may toy with you!#Two with quirky weapons enter the ring!,SIS05-0695,プリティなバトルに翻弄されちゃうかも？#ちょっと変り種の武器を扱う二人が参戦だよ！,0x08D17050,0x08D170A4,1
+orfa__08D17348,0x08D1B0F0,0x08D17348,59,Big Bro is fighting again today!#Three hot-blooded big bros join in!,SIS05-0696,今日もお兄ちゃんは戦うぞ！#熱血兄ちゃんの三人が参戦だい！　,0x08D17348,0x08D17384,1
+orfa__08D17460,0x08D1B280,0x08D17460,89,Scientists fight outside academia too!!#Three test their findings on you!,SIS05-0697,科学者の戦いの場は学会だけじゃあないんだぞ！！#研究の成果を挑戦者で実験しに三人が参戦だ！,0x08D17460,0x08D174BC,1
+orfa__08D175E8,0x08D1B474,0x08D175E8,67,No time to breathe! A riot of fists!#Four fighting girls join the fray!,SIS05-0698,息つく暇もない程に！　繰り出す拳は千紫万紅！#格闘娘四人衆が参戦だ！,0x08D175E8,0x08D1762C,1
+orfa__08D17730,0x08D1B604,0x08D17730,65,Relive the battle with R Warrior!#Who's reckless enough to try?!,SIS05-0699,Ｒウォーリアとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D17730,0x08D17774,1
+orfa__08D17780,0x08D1B668,0x08D17780,65,Relive the battle with R Fencer!#Who's reckless enough to try?!,SIS05-0700,Ｒフェンサーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D17780,0x08D177C4,1
+orfa__08D177D4,0x08D1B6CC,0x08D177D4,67,Relive the battle with R Grappler!#Who's reckless enough to try?!,SIS05-0701,Ｒグラップラーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D177D4,0x08D17818,1
+orfa__08D17824,0x08D1B730,0x08D17824,65,Relive the battle with R Archer!#Who's reckless enough to try?!,SIS05-0702,Ｒアーチャーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D17824,0x08D17868,1
+orfa__08D17874,0x08D1B794,0x08D17874,61,Relive the battle with R Thief!#Who's reckless enough to try?!,SIS05-0703,Ｒシーフとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D17874,0x08D178B4,1
+orfa__08D178C4,0x08D1B7F8,0x08D178C4,65,Relive the battle with R Wizard!#Who's reckless enough to try?!,SIS05-0704,Ｒウィザードとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D178C4,0x08D17908,1
+orfa__08D17914,0x08D1B85C,0x08D17914,63,Relive the battle with R Healer!#Who's reckless enough to try?!,SIS05-0705,Ｒヒーラーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D17914,0x08D17954,1
+orfa__08D17964,0x08D1B8C0,0x08D17964,73,Relive the battle with R Dual Fencer!#Who's reckless enough to try?!,SIS05-0706,Ｒデュアルフェンサーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D17964,0x08D179B0,1
+orfa__08D179C0,0x08D1B924,0x08D179C0,71,Relive the battle with R Large Fencer!#Who's reckless enough to try?!,SIS05-0707,Ｒラージフェンサーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D179C0,0x08D17A08,1
+orfa__08D17A18,0x08D1B988,0x08D17A18,61,Relive the battle with R Monk!#Who's reckless enough to try?!,SIS05-0708,Ｒモンクとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D17A18,0x08D17A58,1
+orfa__08D17A64,0x08D1B9EC,0x08D17A64,65,Relive the battle with R Pirate!#Who's reckless enough to try?!,SIS05-0709,Ｒパイレーツとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D17A64,0x08D17AA8,1
+orfa__08D17ABC,0x08D1BA50,0x08D17ABC,65,Relive the battle with R Bishop!#Who's reckless enough to try?!,SIS05-0710,Ｒビショップとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D17ABC,0x08D17B00,1
+orfa__08D17B10,0x08D1BAB4,0x08D17B10,73,Relive the battle with R Magic Fencer!#Who's reckless enough to try?!,SIS05-0711,Ｒマジックフェンサーとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D17B10,0x08D17B5C,1
+orfa__08D17B68,0x08D1BB18,0x08D17B68,63,Relive the battle with R Ninja!#Who's reckless enough to try?!,SIS05-0712,Ｒニンジャとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D17B68,0x08D17BA8,1
+orfa__08D17BB8,0x08D1BB7C,0x08D17BB8,65,Relive the battle with R Paladin!#Who's reckless enough to try?!,SIS05-0713,Ｒパラディンとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D17BB8,0x08D17BFC,1
+orfa__08D17C0C,0x08D1BBE0,0x08D17C0C,63,Relive the battle with R Gunman!#Who's reckless enough to try?!,SIS05-0714,Ｒガンマンとのバトルを闘技場で再現！#これに挑む命知らずは誰！？,0x08D17C0C,0x08D17C4C,1
+orfa__08D17C5C,0x08D1BC44,0x08D17C5C,57,A beginner bout against Polwiggle!#Care for a warm-up?,SIS05-0715,初心者向けのオタオタとのバトルだよ！#腕慣らしにどうだい？,0x08D17C5C,0x08D17C98,1
+orfa__08D17CAC,0x08D1BCA8,0x08D17CAC,63,A beginner bout against Axe Beak!#Care for a warm-up?,SIS05-0716,初心者向けのアックスビークとのバトルだよ！#腕慣らしにどうだい？,0x08D17CAC,0x08D17CEC,1
+orfa__08D17CFC,0x08D1BD0C,0x08D17CFC,59,A beginner bout against Killer Bee!#Care for a warm-up?,SIS05-0717,初心者向けのキラービーとのバトルだよ！#腕慣らしにどうだい？,0x08D17CFC,0x08D17D38,1
+orfa__08D17D44,0x08D1BD70,0x08D17D44,63,Today we bring you Unicerros!#Who'll win and seize its shining horn?!,SIS05-0718,本日用意したのはあのユニセロス！#その輝く角を掴む勝者は誰だ！？,0x08D17D44,0x08D17D84,1
+orfa__08D17D98,0x08D1BDD4,0x08D17D98,71,Today we bring you the Temple Guard!#Who can beat its merciless attacks?!,SIS05-0719,本日用意したのはあのテンプルガード！#無慈悲な攻撃を打ち破るのは誰だ！？,0x08D17D98,0x08D17DE0,1
+orfa__08D17DEC,0x08D1BE38,0x08D17DEC,75,Today we bring you Leviathan!#No status ailments work! Who'll dare?!,SIS05-0720,本日用意したのはあのリヴァイアサン！#状態異常が効かない奴に挑むのは誰だ！？,0x08D17DEC,0x08D17E38,1
+orfa__08D17E44,0x08D1BE9C,0x08D17E44,83,Today we bring you the Ancient Liger!#Who can tame this noble beast of light?,SIS05-0721,本日用意したのはあのエンシェントライガ！#気高き光の獣を手なづけられる者はいるかい？,0x08D17E44,0x08D17E98,1
+orfa__08D17EAC,0x08D1BF00,0x08D17EAC,77,Today we bring you Gross Belva!#Can anyone escape its fiery breath?!,SIS05-0722,本日用意したのはあのグロスベルヴァ！#奴の吐く炎から逃れられる者はいるのか！？,0x08D17EAC,0x08D17EFC,1
+orfa__08D17F0C,0x08D1BF64,0x08D17F0C,81,"Take on my pet, the Giant Polwiggle!#Get careless and you'll be squashed!!",SIS05-0723,オイラのペット、巨大オタオタと勝負してみてくれよ！#油断してると潰されちゃうぞ！！,0x08D17F0C,0x08D17F60,1
+orfa__08D17F74,0x08D1BFC8,0x08D17F74,87,"I brought friends, bun! Get ready, bun!#...says Mimmy Bread, here again today!",SIS05-0724,今日は友達を連れてきたパン！　覚悟するパン！#…と、あのミミー・ブレッドが今日も参上だ！,0x08D17F74,0x08D17FCC,1
+orfa__08D17FE0,0x08D1C02C,0x08D17FE0,67,Today we sell fish dishes to the crowd!#Use your skills to fillet 'em for us!,SIS05-0725,今日は観客に魚料理を売って一儲け！#キミの腕で三枚におろしてくれよ！,0x08D17FE0,0x08D18024,1
+orfa__08D18034,0x08D1C090,0x08D18034,99,"Today's other event: a Crab Festival!#Hungry fans await, so cook 'em fast!",SIS05-0726,今日の闘技場のもう一つのイベントはカニ祭り！#ハラペコの観客が待ってるから、急いで料理しておくれよ！,0x08D18034,0x08D18098,1
+orfa__08D180A8,0x08D1C0F4,0x08D180A8,91,"A giant Petit Puri just arrived!#A crowd-pleaser! Now, any challengers?",SIS05-0727,巨大化したプチプリが届いたんだ！#観客を楽しませるいい目玉だろ？　さあ、挑戦者はいないかい？,0x08D180A8,0x08D18104,1
+orfa__08D18114,0x08D1C158,0x08D18114,59,Polwiggles from all over the world!#Who'll take up the challenge?,SIS05-0728,世界中のオタオタを集めたこの試合、#誰が挑戦してくれるかな？,0x08D18114,0x08D18150,1
+orfa__08D181B0,0x08D1C220,0x08D181B0,63,Chunchuns from all over the world!#Who'll take up the challenge?,SIS05-0729,世界中のチュンチュンを集めたこの試合、#誰が挑戦してくれるかな？,0x08D181B0,0x08D181F0,1
+orfa__08D18200,0x08D1C284,0x08D18200,57,Bats from all over the world!#Who'll take up the challenge?,SIS05-0730,世界中のバットを集めたこの試合、#誰が挑戦してくれるかな？,0x08D18200,0x08D1823C,1
+orfa__08D1824C,0x08D1C2E8,0x08D1824C,83,"World Bats Round 2, by request!#Come on! Who's taking the challenge?",SIS05-0731,世界中のバットを集めたこの試合、好評につき第２弾だよ！#さあ！　誰が挑戦するんだい？,0x08D1824C,0x08D182A0,1
+orfa__08D182B4,0x08D1C34C,0x08D182B4,59,Lizards from all over the world!#Who'll take up the challenge?,SIS05-0732,世界中のリザードを集めたこの試合、#誰が挑戦してくれるかな？,0x08D182B4,0x08D182F0,1
+orfa__08D18304,0x08D1C3B0,0x08D18304,85,"World Lizards Round 2, by request!#Come on! Who's taking the challenge?",SIS05-0733,世界中のリザードを集めたこの試合、好評につき第２弾だよ！#さあ！　誰が挑戦するんだい？,0x08D18304,0x08D1835C,1
+orfa__08D18368,0x08D1C414,0x08D18368,75,Weird plants from all over the world!#Don't let the cuteness fool you - ouch!,SIS05-0734,世界中の怪奇植物を集めたこの試合、#カワイイからって油断すると痛い目あうよ！,0x08D18368,0x08D183B4,1
+orfa__08D183C0,0x08D1C478,0x08D183C0,93,"Can anyone beat my guards, the Golems?#Doubt anyone can... but wanna try?",SIS05-0735,オイラの衛兵、ゴレム達に勝てる者はいるかい？#ま、そんな奴いるかわかんないけど…相手してみる？,0x08D183C0,0x08D18420,1
+orfa__08D18430,0x08D1C4DC,0x08D18430,57,How 'bout a brawl against the spirits#that I caught myself?,SIS05-0736,オイラが捕まえた精霊を相手に、#いっちょ暴れてみないかい？,0x08D18430,0x08D1846C,1
+orfa__08D1847C,0x08D1C540,0x08D1847C,65,"Beat the spirits I command, if you can!#Heh heh, think you can win~?",SIS05-0737,オイラが使役する精霊に勝ってみな！#ウフフ、キミに勝てるかなぁ〜？,0x08D1847C,0x08D184C0,1
+orfa__08D1CA20,0x08D868B0,0x08D1CA20,20,"Soma Link, Activate!!",SIS05-0065,発動、ソーマリンク!!,0x08D1CA20,0x08D1CA38,1
+orfa__08D1CB20,0x08D868F0,0x08D1CB20,63,Tales of the Abyss#Endgame Battle - Sup. Namco Tales Studio,SIS05-0738,テイルズ オブ ジ アビス#終盤戦闘 監修：ナムコ・テイルズスタジオ,0x08D1CB20,0x08D1CB60,1
+orfa__08D1CB60,0x08D868F4,0x08D1CB60,63,Tales of the Abyss#Normal Battle - Sup. Namco Tales Studio,SIS05-0739,テイルズ オブ ジ アビス#通常戦闘 監修：ナムコ・テイルズスタジオ,0x08D1CB60,0x08D1CBA0,1
+orfa__08D1CBA0,0x08D868F8,0x08D1CBA0,63,Tales of the Abyss#Midgame Battle - Sup. Namco Tales Studio,SIS05-0740,テイルズ オブ ジ アビス#中盤戦闘 監修：ナムコ・テイルズスタジオ,0x08D1CBA0,0x08D1CBE0,1
+orfa__08D1CBE0,0x08D868FC,0x08D1CBE0,66,Tales of Destiny#Normal Battle - Sup. Namco Tales Studio,SIS05-0741,テイルズ オブ デスティニー#通常戦闘 監修：ナムコ・テイルズスタジオ,0x08D1CBE0,0x08D1CC24,1
+orfa__08D1CC24,0x08D86900,0x08D1CC24,66,Tales of Destiny#vs. Leon - Sup. Namco Tales Studio,SIS05-0742,テイルズ オブ デスティニー#リオン戦 監修：ナムコ・テイルズスタジオ,0x08D1CC24,0x08D1CC68,1
+orfa__08D1CC68,0x08D86904,0x08D1CC68,41,Tales of Destiny 2#vs. Barbatos,SIS05-0743,テイルズ オブ デスティニー２#バルバトス戦,0x08D1CC68,0x08D1CC94,1
+orfa__08D1CC94,0x08D86908,0x08D1CC94,37,Tales of Destiny 2#Mid-Boss Battle,SIS05-0744,テイルズ オブ デスティニー２#中ボス戦,0x08D1CC94,0x08D1CCBC,1
+orfa__08D1CCBC,0x08D8690C,0x08D1CCBC,37,Tales of Destiny 2#Normal Battle,SIS05-0745,テイルズ オブ デスティニー２#通常戦闘,0x08D1CCBC,0x08D1CCE4,1
+orfa__08D1CCE4,0x08D86910,0x08D1CCE4,37,Tales of Destiny 2#Battle in the Past,SIS05-0746,テイルズ オブ デスティニー２#過去戦闘,0x08D1CCE4,0x08D1CD0C,1
+orfa__08D1CD0C,0x08D86914,0x08D1CD0C,47,Tales of Destiny 2#vs. Fortuna (First Phase),SIS05-0747,テイルズ オブ デスティニー２#フォルトゥナ戦序盤,0x08D1CD0C,0x08D1CD3C,1
+orfa__08D1CD3C,0x08D86918,0x08D1CD3C,44,Tales of Eternia#ToP Normal Battle Arrange,SIS05-0748,テイルズ オブ エターニア#TOP通常戦闘アレンジ,0x08D1CD3C,0x08D1CD6C,1
+orfa__08D1CD6C,0x08D8691C,0x08D1CD6C,45,Tales of Eternia#Celestia Normal Battle,SIS05-0749,テイルズ オブ エターニア#セレスティア通常戦闘,0x08D1CD6C,0x08D1CD9C,1
+orfa__08D1CD9C,0x08D86920,0x08D1CD9C,65,Tales of the Abyss#Colosseum - Sup. Namco Tales Studio,SIS05-0750,テイルズ オブ ジ アビス#闘技場戦闘 監修：ナムコ・テイルズスタジオ,0x08D1CD9C,0x08D1CDE0,1
+orfa__08D1CD9C,0x08D86988,0x08D1CD9C,65,Tales of the Abyss#Colosseum - Sup. Namco Tales Studio,SIS05-0750,テイルズ オブ ジ アビス#闘技場戦闘 監修：ナムコ・テイルズスタジオ,0x08D1CD9C,0x08D1CDE0,1
+orfa__08D1CDE0,0x08D86924,0x08D1CDE0,45,Tales of Eternia#Inferia Normal Battle,SIS05-0751,テイルズ オブ エターニア#インフェリア通常戦闘,0x08D1CDE0,0x08D1CE10,1
+orfa__08D1CE10,0x08D86928,0x08D1CE10,44,Tales of Eternia#ToP vs. Dhaos Arrange,SIS05-0752,テイルズ オブ エターニア#TOPダオス戦アレンジ,0x08D1CE10,0x08D1CE40,1
+orfa__08D1CE40,0x08D8692C,0x08D1CE40,50,Tales of Legendia#Normal Battle - Arr. Go Shiina,SIS05-0753,テイルズ オブ レジェンディア#通常戦闘 編曲：椎名豪,0x08D1CE40,0x08D1CE74,1
+orfa__08D1CE74,0x08D86930,0x08D1CE74,50,Tales of Legendia#Mid-Boss Battle - Arr. Go Shiina,SIS05-0754,テイルズ オブ レジェンディア#中ボス戦 編曲：椎名豪,0x08D1CE74,0x08D1CEA8,1
+orfa__08D1CEA8,0x08D86934,0x08D1CEA8,33,Tales of Phantasia#vs. Summon Spirits,SIS05-0755,テイルズ オブ ファンタジア#精霊戦,0x08D1CEA8,0x08D1CECC,1
+orfa__08D1CECC,0x08D86938,0x08D1CECC,35,Tales of Phantasia#Mid-Boss Battle,SIS05-0756,テイルズ オブ ファンタジア#中ボス戦,0x08D1CECC,0x08D1CEF0,1
+orfa__08D1CEF0,0x08D8693C,0x08D1CEF0,35,Tales of Phantasia#Normal Battle,SIS05-0757,テイルズ オブ ファンタジア#通常戦闘,0x08D1CEF0,0x08D1CF14,1
+orfa__08D1CF14,0x08D86940,0x08D1CF14,37,Tales of Rebirth#Part 1 Normal Battle,SIS05-0758,テイルズ オブ リバース#第１部通常戦闘,0x08D1CF14,0x08D1CF3C,1
+orfa__08D1CF3C,0x08D86944,0x08D1CF3C,37,Tales of Rebirth#Part 2 Normal Battle,SIS05-0759,テイルズ オブ リバース#第２部通常戦闘,0x08D1CF3C,0x08D1CF64,1
+orfa__08D1CF64,0x08D86948,0x08D1CF64,43,Tales of Rebirth#Yuris's Domain Normal Battle,SIS05-0760,テイルズ オブ リバース#ユリスの領域通常戦闘,0x08D1CF64,0x08D1CF90,1
+orfa__08D1CF90,0x08D8694C,0x08D1CF90,33,Tales of Symphonia#vs. Angels,SIS05-0761,テイルズ オブ シンフォニア#天使戦,0x08D1CF90,0x08D1CFB4,1
+orfa__08D1CFB4,0x08D86950,0x08D1CFB4,37,Tales of Symphonia#Human Boss Battle,SIS05-0762,テイルズ オブ シンフォニア#対人ボス戦,0x08D1CFB4,0x08D1CFDC,1
+orfa__08D1CFDC,0x08D86954,0x08D1CFDC,49,Tales of Symphonia#Sylvarant Normal Battle,SIS05-0763,テイルズ オブ シンフォニア#シルヴァラント通常戦闘,0x08D1CFDC,0x08D1D010,1
+orfa__08D1D010,0x08D86958,0x08D1D010,43,Tales of Symphonia#Tethe'alla Normal Battle,SIS05-0764,テイルズ オブ シンフォニア#テセアラ通常戦闘,0x08D1D010,0x08D1D03C,1
+orfa__08D1D03C,0x08D8695C,0x08D1D03C,38,Tales of Symphonia#vs. Kratos,SIS05-0765,テイルズ オブ シンフォニア#クラトス戦 ,0x08D1D03C,0x08D1D064,1
+orfa__08D1D064,0x08D86960,0x08D1D064,67,Tales of the Tempest#Normal Battle - Arr. Namco Tales Studio,SIS05-0766,テイルズ オブ ザ テンペスト#通常戦闘 編曲：ナムコ・テイルズスタジオ,0x08D1D064,0x08D1D0A8,1
+orfa__08D1D0A8,0x08D86964,0x08D1D0A8,66,Tales of Vesperia#Normal Battle - Sup. Namco Tales Studio,SIS05-0767,テイルズ オブ ヴェスペリア#通常戦闘 監修：ナムコ・テイルズスタジオ,0x08D1D0A8,0x08D1D0EC,1
+orfa__08D1D0EC,0x08D86968,0x08D1D0EC,48,Tales of Innocence#Normal Battle - Arr. Kazuhiro Nakamura,SIS05-0768,テイルズ オブ イノセンス#通常戦闘 編曲：中村和宏,0x08D1D0EC,0x08D1D120,1
+orfa__08D1D120,0x08D8696C,0x08D1D120,72,Tales of Destiny 2#Endgame Battle - Arr. Namco Tales Studio,SIS05-0769,テイルズ オブ デスティニー２#最終現代戦闘 編曲：ナムコ・テイルズスタジオ,0x08D1D120,0x08D1D16C,1
+orfa__08D1D16C,0x08D86970,0x08D1D16C,46,Tales of Innocence#Boss Battle - Arr. Kazuhiro Nakamura,SIS05-0770,テイルズ オブ イノセンス#ボス戦 編曲：中村和宏,0x08D1D16C,0x08D1D19C,1
+orfa__08D1D19C,0x08D86974,0x08D1D19C,29,Tales of Rebirth#vs. Holy Beasts,SIS05-0771,テイルズ オブ リバース#聖獣戦,0x08D1D19C,0x08D1D1BC,1
+orfa__08D1D1BC,0x08D86978,0x08D1D1BC,62,Tales of Legendia#Main Story Boss - Comp. Go Shiina,SIS05-0772,テイルズ オブ レジェンディア#メインシナリオボス戦 作曲：椎名豪,0x08D1D1BC,0x08D1D1FC,1
+orfa__08D1D1FC,0x08D8697C,0x08D1D1FC,72,Tales of Symphonia#vs. Yggdrasill - Arr. Namco Tales Studio,SIS05-0773,テイルズ オブ シンフォニア#ユグドラシル戦 編曲：ナムコ・テイルズスタジオ,0x08D1D1FC,0x08D1D248,1
+orfa__08D1D248,0x08D86980,0x08D1D248,60,Tales of Rebirth#vs. Four Stars - Arr. Namco Tales Studio,SIS05-0774,テイルズ オブ リバース#四星戦 編曲：ナムコ・テイルズスタジオ,0x08D1D248,0x08D1D288,1
+orfa__08D1D288,0x08D86984,0x08D1D288,63,Tales of the Abyss#vs. Van - Sup. Namco Tales Studio,SIS05-0775,テイルズ オブ ジ アビス#ヴァン戦 監修：ナムコ・テイルズスタジオ,0x08D1D288,0x08D1D2C8,1
+orfa__08D1D2C8,0x08D8698C,0x08D1D2C8,85,ToS: Dawn of the New World#Normal Battle - Sup. Namco Tales Studio,SIS05-0776,テイルズ オブ シンフォニア -ラタトスクの騎士-#通常戦闘 監修：ナムコ・テイルズスタジオ,0x08D1D2C8,0x08D1D320,1
+orfa__08D1D320,0x08D86990,0x08D1D320,85,ToS: Dawn of the New World#Final Battle - Sup. Namco Tales Studio,SIS05-0777,テイルズ オブ シンフォニア -ラタトスクの騎士-#最終戦闘 監修：ナムコ・テイルズスタジオ,0x08D1D320,0x08D1D378,1
+orfa__08D1D378,0x08D86994,0x08D1D378,87,ToS: Dawn of the New World#vs. Richter - Sup. Namco Tales Studio,SIS05-0778,テイルズ オブ シンフォニア -ラタトスクの騎士-#リヒター戦 監修：ナムコ・テイルズスタジオ,0x08D1D378,0x08D1D3D0,1
+orfa__08D1D3D0,0x08D86998,0x08D1D3D0,66,Tales of Vesperia#vs. Flynn - Sup. Namco Tales Studio,SIS05-0779,テイルズ オブ ヴェスペリア#フレン戦 監修：ナムコ・テイルズスタジオ,0x08D1D3D0,0x08D1D414,1
+orfa__08D1D414,0x08D8699C,0x08D1D414,66,Tales of Vesperia#Midgame Battle - Sup. Namco Tales Studio,SIS05-0780,テイルズ オブ ヴェスペリア#中盤戦闘 監修：ナムコ・テイルズスタジオ,0x08D1D414,0x08D1D458,1
+orfa__08D1D458,0x08D869A0,0x08D1D458,66,Tales of Vesperia#Endgame Battle - Sup. Namco Tales Studio,SIS05-0781,テイルズ オブ ヴェスペリア#終盤戦闘 監修：ナムコ・テイルズスタジオ,0x08D1D458,0x08D1D49C,1
+orfa__08D1D49C,0x08D869A4,0x08D1D49C,78,Tales of Vesperia#Giganto Battle - Sup. Namco Tales Studio,SIS05-0782,テイルズ オブ ヴェスペリア#ギガントモンスター戦 監修：ナムコ・テイルズスタジオ,0x08D1D49C,0x08D1D4EC,1
+orfa__08D1D4EC,0x08D869A8,0x08D1D4EC,60,Tales of Hearts#Normal Battle - Arr. Namco Tales Studio,SIS05-0783,テイルズ オブ ハーツ#通常戦闘 編曲：ナムコ・テイルズスタジオ,0x08D1D4EC,0x08D1D52C,1
+orfa__08D1D52C,0x08D869AC,0x08D1D52C,64,Tales of Hearts#Midgame Battle - Arr. Namco Tales Studio,SIS05-0784,テイルズ オブ ハーツ#中盤通常戦闘 編曲：ナムコ・テイルズスタジオ,0x08D1D52C,0x08D1D570,1
+orfa__08D1D570,0x08D869B0,0x08D1D570,64,Tales of Hearts#Endgame Battle - Arr. Namco Tales Studio,SIS05-0785,テイルズ オブ ハーツ#終盤通常戦闘 編曲：ナムコ・テイルズスタジオ,0x08D1D570,0x08D1D5B4,1
+orfa__08D1D5B4,0x08D869B4,0x08D1D5B4,74,Tales of Graces#Windor Battle - Sup. Namco Tales Studio,SIS05-0786,テイルズ オブ グレイセス#ウィンドル国内戦闘 監修：ナムコ・テイルズスタジオ,0x08D1D5B4,0x08D1D600,1
+orfa__08D1D600,0x08D869B8,0x08D1D600,76,Tales of Graces#Final Dungeon - Sup. Namco Tales Studio,SIS05-0787,テイルズ オブ グレイセス#ラストダンジョン戦闘 監修：ナムコ・テイルズスタジオ,0x08D1D600,0x08D1D650,1
+orfa__08D1D650,0x08D869BC,0x08D1D650,64,Tales of Graces#vs. Mid-Boss - Sup. Namco Tales Studio,SIS05-0788,テイルズ オブ グレイセス#中ボス戦 監修：ナムコ・テイルズスタジオ,0x08D1D650,0x08D1D694,1
+orfa__08D1D694,0x08D869C0,0x08D1D694,66,Radiant Mythology 2 & 3#vs. Radiant - Music: Motoi Sakuraba,SIS05-0789,レディアント マイソロジー２＆３ #レディアント戦 作曲／編曲：桜庭統,0x08D1D694,0x08D1D6D8,1
+orfa__08D1D6D8,0x08D869C4,0x08D1D6D8,51,Radiant Mythology 2#vs. Goede - Arr. Kazuhiro Nakamura,SIS05-0790,レディアント マイソロジー２#ゲーデ戦 編曲：中村和宏,0x08D1D6D8,0x08D1D70C,1
+orfa__08D1D70C,0x08D869C8,0x08D1D70C,40,Radiant Mythology#vs. Widdershin,SIS05-0791,レディアント マイソロジー#ウィダーシン戦,0x08D1D70C,0x08D1D738,1
+orfa__08D1D738,0x08D869CC,0x08D1D738,36,Radiant Mythology#vs. Kanonno,SIS05-0792,レディアント マイソロジー#カノンノ戦,0x08D1D738,0x08D1D760,1
+orfa__08D1D760,0x08D869D0,0x08D1D760,55,Radiant Mythology 3#Normal Battle - Music: Motoi Sakuraba,SIS05-0793,レディアント マイソロジー３#通常戦闘 作曲／編曲：桜庭統,0x08D1D760,0x08D1D798,1
+orfa__08D1D798,0x08D869D4,0x08D1D798,61,Radiant Mythology 3#Story Battle - Music: Motoi Sakuraba,SIS05-0794,レディアント マイソロジー３#ストーリー戦闘 作曲／編曲：桜庭統,0x08D1D798,0x08D1D7D8,1
+orfa__08D1D7D8,0x08D869D8,0x08D1D7D8,55,Radiant Mythology 3#Mid-Boss Battle - Music: Motoi Sakuraba,SIS05-0795,レディアント マイソロジー３#中ボス戦 作曲／編曲：桜庭統,0x08D1D7D8,0x08D1D810,1
+orfa__08D1D810,0x08D869DC,0x08D1D810,57,Radiant Mythology 3#vs. Lazaris - Music: Motoi Sakuraba,SIS05-0796,レディアント マイソロジー３#ラザリス戦 作曲／編曲：桜庭統,0x08D1D810,0x08D1D84C,1
+orfa__08D1D84C,0x08D869E0,0x08D1D84C,63,Radiant Mythology 3#Chaos Lazaris - Music: Motoi Sakuraba,SIS05-0797,レディアント マイソロジー３#カオスラザリス戦 作曲／編曲：桜庭統,0x08D1D84C,0x08D1D88C,1
