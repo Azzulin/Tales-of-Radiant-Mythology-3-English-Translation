@@ -1,22 +1,36 @@
 # Tales of the World: Radiant Mythology 3 — English Fan Translation
 
 Fan translation (Japanese → English) of *Tales of the World: Radiant Mythology 3* for the PSP
-(`NPJH50353`). Work in progress.
+(`NPJH50353`). Work in progress: all dialogue, menus, items and system text are translated; the
+current test build is **`en35`**.
 
-## Testing
+- **Play it:** download the patch from [Releases](../../releases) and follow the steps below.
+- **Change it or translate it into another language:** [docs/TUTORIAL.md](docs/TUTORIAL.md).
+  Every tool is here, and a fresh clone rebuilds the release byte for byte.
+- **How it was made and validated:** [docs/HOW_IT_WAS_MADE.md](docs/HOW_IT_WAS_MADE.md).
 
-Test builds are published as patches on the [Releases](../../releases) page. **No ISO is ever
-distributed here.** You need your own dump of the original Japanese game.
+## Playing / testing
+
+Builds are published as `.xdelta` patches on the [Releases](../../releases) page. **No ISO is
+ever distributed here.** You need your own dump of the original Japanese game.
 
 Verify your dump before patching:
 
 | File | MD5 |
 |---|---|
 | Original ISO (`NPJH50353`) | `5D63D1652B851E005D27FE42DB7D6241` |
+| Patched with `RM3-en35.xdelta` | `1E45CE39C2C8F60DC026AD619EA1DB30` |
 
-Apply the patch with [xdelta](https://github.com/jmacd/xdelta-gpl/releases) (or a GUI such as
-Delta Patcher) and play on PPSSPP or a real PSP. From `en21` on, the patched ISO is a few MB
-larger than the original. This is expected.
+Apply the patch with [xdelta](https://github.com/jmacd/xdelta-gpl/releases) or a GUI such as
+[Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases):
+
+```
+xdelta3 -d -s "original.iso" RM3-en35.xdelta RM3-en35.iso
+```
+
+Play on **PPSSPP** or a PSP/PS Vita with **custom firmware**. The patched `EBOOT.BIN` is
+decrypted, so it does not run on official firmware. The patched ISO is 64 KB larger than the
+original. This is expected.
 
 ### Before you play
 
@@ -49,10 +63,14 @@ or a comment instead of a duplicate.
 Everything for this game lives in `PROJETO CLAUDE RM 3/`:
 
 - `RM3/ferramentas/`: Python 3 (stdlib only) tools that parse and rebuild the game's text formats.
-- `RM3/dados/`: extracted string tables and catalogs.
-- `RM3/lotes*/`: translation batches.
+  `iso_receita.py` builds the whole patched ISO in one command.
+- `RM3/dados/`: extracted string tables, catalogs, and the EBOOT text tables.
+- `RM3/lotes*/`: translation batches (`*.tsv` = sent to the translator, `*_retorno.tsv` =
+  translated and validated).
+- `docs/`: the [tutorial](docs/TUTORIAL.md) and the [process write-up](docs/HOW_IT_WAS_MADE.md).
 
-Game files (ISO, EBOOT, extracted binaries) are intentionally **not** in this repository.
+Game files (ISO, EBOOT, extracted binaries) are intentionally **not** in this repository. Tool
+output and internal notes are in Portuguese, the maintainer's language.
 
 ## Disclaimer
 
