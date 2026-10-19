@@ -18,8 +18,12 @@ Everything here runs on Windows, Linux and macOS. On Windows, type `py` where th
 1. Get your own dump of the Japanese game. Its MD5 must be
    `5D63D1652B851E005D27FE42DB7D6241` (1,807,089,664 bytes). If it differs, the patch will refuse
    to apply.
-2. Download the `.xdelta` file from the [Releases](https://github.com/Azzulin/Tales-of-Radiant-Mythology-3-English-Translation/releases) page.
+2. Download **`RM3-en35-patch-kit.zip`** from the [Releases](https://github.com/Azzulin/Tales-of-Radiant-Mythology-3-English-Translation/releases) page and unzip it.
 3. Apply it:
+   - **Windows, easiest:** drag your original `.iso` onto `apply-patch.bat`. It checks the MD5 of
+     your ISO, then writes `RM3-en35.iso` in the kit folder. xdelta3 is included in the kit.
+   - **Linux / macOS:** install xdelta3 (`sudo apt install xdelta3` / `brew install xdelta`), then
+     `./apply-patch.sh /path/to/original.iso`.
    - **GUI:** [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases). Original
      file = your Japanese ISO, patch = the `.xdelta`, then *Apply patch*.
    - **Command line:** [xdelta3](https://github.com/jmacd/xdelta-gpl/releases)
@@ -236,7 +240,14 @@ name whose spelling drifts. The current English sources still have some old warn
 3. **Test in PPSSPP.** At minimum: boot, create a character, one battle and back to the map,
    accept a quest, open the Synopsis, and the scenes you changed. These are the places where past
    builds crashed.
-4. **Make your patch:**
+4. **Make your patch.** The script in `patch/` does steps 4 and 5 in one go (it creates the
+   patch, applies it to the original again, and compares the MD5s):
+   ```
+   patch/make-patch.bat original.iso my-build.iso my-translation.xdelta     (Windows)
+   ./patch/make-patch.sh original.iso my-build.iso my-translation.xdelta    (Linux/macOS)
+   ```
+   On Windows, put `xdelta3.exe` in the `patch/` folder first (or anywhere on your `PATH`). By
+   hand, it is:
    ```
    xdelta3 -e -9 -S djw -B 1073741824 -s original.iso my-build.iso my-translation.xdelta
    ```
@@ -249,7 +260,9 @@ name whose spelling drifts. The current English sources still have some old warn
    ```
    `check.iso` must have the same MD5 as `my-build.iso`.
 6. Share only the `.xdelta`, with the MD5 of the original and of the patched ISO. **Never share
-   the ISO itself.**
+   the ISO itself.** To give players the same double-click experience, ship your `.xdelta` next
+   to `patch/apply-patch.bat`, `patch/apply-patch.sh` and `xdelta3.exe`. The scripts work with any
+   `.xdelta` in their folder and name the output after it (`my-translation.iso`).
 
 ### B9. Translating into another language
 

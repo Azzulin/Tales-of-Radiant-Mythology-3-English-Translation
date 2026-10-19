@@ -21,8 +21,16 @@ Verify your dump before patching:
 | Original ISO (`NPJH50353`) | `5D63D1652B851E005D27FE42DB7D6241` |
 | Patched with `RM3-en35.xdelta` | `1E45CE39C2C8F60DC026AD619EA1DB30` |
 
-Apply the patch with [xdelta](https://github.com/jmacd/xdelta-gpl/releases) or a GUI such as
-[Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases):
+**Easiest:** download **`RM3-en35-patch-kit.zip`** from [Releases](../../releases) and unzip it.
+
+- **Windows:** drag your original `.iso` onto `apply-patch.bat`. It checks your ISO and creates
+  `RM3-en35.iso` next to it. xdelta3 is included.
+- **Linux / macOS:** install xdelta3 (`sudo apt install xdelta3` / `brew install xdelta`), then
+  run `./apply-patch.sh /path/to/original.iso`.
+
+Or apply the bare `RM3-en35.xdelta` with any xdelta tool
+([xdelta3](https://github.com/jmacd/xdelta-gpl/releases),
+[Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases)):
 
 ```
 xdelta3 -d -s "original.iso" RM3-en35.xdelta RM3-en35.iso
@@ -68,6 +76,8 @@ Everything for this game lives in `PROJETO CLAUDE RM 3/`:
 - `RM3/lotes*/`: translation batches (`*.tsv` = sent to the translator, `*_retorno.tsv` =
   translated and validated).
 - `docs/`: the [tutorial](docs/TUTORIAL.md) and the [process write-up](docs/HOW_IT_WAS_MADE.md).
+- `patch/`: scripts to apply a patch (`apply-patch.bat` / `.sh`) and, for translators, to create
+  and check your own (`make-patch.bat` / `.sh`).
 
 Game files (ISO, EBOOT, extracted binaries) are intentionally **not** in this repository. Tool
 output and internal notes are in Portuguese, the maintainer's language.
