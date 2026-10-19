@@ -82,6 +82,13 @@ Everything for this game lives in `PROJETO CLAUDE RM 3/`:
 Game files (ISO, EBOOT, extracted binaries) are intentionally **not** in this repository. Tool
 output and internal notes are in Portuguese, the maintainer's language.
 
+## License
+
+- **Tools and scripts** (`.py`, `patch/`): [MIT](LICENSE).
+- **The translated text and the docs**: [CC BY 4.0](LICENSE-TRANSLATION). You can adapt them,
+  including into another language, as long as you credit this project.
+- Neither covers the game or its original Japanese text, which belong to Bandai Namco.
+
 ## Disclaimer
 
 This is an unofficial, non-commercial fan project and is not affiliated with Bandai Namco.
